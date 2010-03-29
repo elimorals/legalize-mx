@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2010-03-18"
+last_updated: "2010-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,621 +21,1193 @@ state: "NLE"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2010.
+CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2026.
 
-EL CIUDADANO LIC. JORGE A. TREVIÑO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
+Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
-Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+EUGENIO HERNANDEZ FLORES, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-D E C R E T O
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
-NUM. 95
+Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
+LA SEXAGESIMA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 44 DE LA CONSTITUCION POLITICA LOCAL; Y EL ARTICULO 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+D E C R E T O N o . L X - 1 8
 
-## TITULO PRIMERO
+MEDIANTE EL CUAL SE EXPIDE EL CODIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2005)</small>
+CODIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
+
+# LIBRO PRIMERO. DE LAS DISPOSICIONES GENERALES
+
+## TITULO PRIMERO. DE LOS ASPECTOS GENERALES
 
 ###### ARTICULO 1.
 
-El presente Código regula los procedimientos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-A) Ordinario y Sumario, los cuales comprenden los siguientes periodos:
+Las disposiciones de este Código son de orden público e interés social y son obligatorias en el ámbito territorial del Estado. Sus normas emanan de los principios dispuestos en los artículos 4o, párrafo quinto, 27, párrafo tercero y 73, fracción XXIX-G, de la Constitución Política de los Estados Unidos Mexicanos, y tienen por objeto regular las materias señaladas a continuación:
 
-I.- Preparación de la acción penal, con el fin de que el Ministerio Público, ajustándose a las disposiciones respectivas, esté en condiciones de obtener el cumplimiento de la pretensión punitiva del Estado, auxiliándose en su caso de la autoridad judicial.
+I. La protección ambiental;
 
-II.- Preparación del proceso, que comprende del auto de radicación al de formal prisión, al de sujeción a proceso o al de libertad por falta de elementos para procesar.
+II. La prevención y gestión integral de los residuos;
 
-III. Instrucción, que comprende desde el auto de formal prisión o sujeción a proceso, hasta el auto que decrete el cierre de la misma.
+III. Las áreas naturales protegidas estatales y municipales; y
 
-En este período deben proponerse y rendirse las pruebas que el Juez o las partes estimen necesarias, dentro de los plazos marcados por la Ley o en los que el Juez decrete conforme al presente Código.
-
-IV.- Juicio, que comprende las conclusiones acusatorias del Ministerio Público, acorde con los hechos motivo del auto de formal prisión o de sujeción a proceso, la defensa del inculpado, la audiencia de vista y la sentencia que proceda.
-
-V. La actuación del Tribunal Superior de Justicia del Estado, cuando efectúe diligencias y autos tendientes a resolver los recursos y el pronunciamiento de las sentencias que procedan; y
-
-VI.- Ejecución, que comprende el lapso entre el momento que cause ejecutoria la sentencia dictada, hasta la extinción de las sanciones y/o medidas de seguridad impuestas.
-
-B) Especial relativo a los enfermos mentales y sordomudos:
-
-I.- Preparación de la acción penal, con el fin de que el Ministerio Público, ajustándose a las disposiciones respectivas, esté en condiciones de obtener el cumplimiento de la pretensión investigadora del Estado, auxiliándose en su caso de la autoridad judicial.
-
-II.- Preparación del proceso, que comprende del auto de radicación al de apertura del procedimiento especial. En esta etapa se resolverá la situación jurídica del inculpado.
-
-III. Primer etapa del procedimiento especial, comprende lo relativo al ofrecimiento y desahogo de pruebas para la resolución acerca de la inimputabilidad o no de la persona.
-
-IV.- Segunda etapa del procedimiento especial, comprende lo relativo al ofrecimiento y desahogo de pruebas para la resolución sobre la participación o no del inimputable en los hechos que se le atribuyen.
-
-V.- La actuación del Tribunal Superior de Justicia del Estado, cuando efectúen diligencias y autos tendientes a resolver los recursos y el pronunciamiento de las sentencias que procedan; y
-
-VI.- Ejecución, que comprende el lapso entre el momento que cause ejecutoria la sentencia dictada, hasta la extinción de las medidas de seguridad impuestas.
-
-C) Oral Penal, que tiene los siguientes períodos:
-
-I.- Preparación de la acción penal, con el fin de que el Ministerio Público, ajustándose a las disposiciones respectivas, esté en condiciones de obtener el cumplimiento de la pretensión punitiva del Estado, auxiliándose en su caso de la autoridad judicial.
-
-II.- Preparación del proceso, que comprende del auto de radicación al de formal prisión, al de sujeción a proceso o al de libertad por falta de elementos para procesar.
-
-III.- Preparación del Juicio Oral, que comprende desde el auto de formal prisión o sujeción a proceso, hasta que se decrete el cierre de la Audiencia de Preparación del Juicio Oral, y se dicte el auto de apertura del mismo.
-
-IV.- Juicio Oral. Que comprende desde el auto de radicación del Juicio Oral hasta el dictado de la sentencia de primera instancia.
-
-V.- La actuación del Tribunal Superior de Justicia del Estado, cuando efectúen diligencias y autos tendientes a resolver los recursos y el pronunciamiento de las sentencias que procedan; y
-
-VI.- Ejecución, que comprende el lapso entre el momento que cause ejecutoria la sentencia dictada, hasta la extinción de las sanciones y/o medidas de seguridad impuestas.
-
-D) Abreviado, que comprende los siguientes periodos:
-
-I.- Preparación de la acción penal, con el fin de que el Ministerio Público ajustándose a las disposiciones respectivas, esté en condiciones de obtener el cumplimiento de la pretensión punitiva del Estado, auxiliándose en su caso de la autoridad judicial.
-
-II.- Preparación del proceso, que comprende del auto de radicación al de formal prisión, al de sujeción a proceso o al de libertad por falta de elementos para procesar.
-
-III.- Solicitud de Procedimiento Abreviado, que comprende desde el auto de formal prisión o sujeción a proceso, hasta el auto que decrete la Apertura del Procedimiento Abreviado.
-
-IV.- Instrucción, que comprende desde la Apertura del Procedimiento Abreviado, hasta el auto que fije fecha para la celebración de la audiencia de desahogo de pruebas.
-
-En este período las partes deberán ofrecer las pruebas conducentes a la individualización de la pena.
-
-V. Juicio, que comprende desde el auto que fije fecha para la celebración de la audiencia de desahogo de pruebas hasta el dictado de la sentencia.
-
-VI.- La actuación del Tribunal Superior de Justicia del Estado, cuando efectúen diligencias y autos tendientes a resolver los recursos y el pronunciamiento de las sentencias que procedan; y
-
-VII.- Ejecución, que comprende el lapso entre el momento que cause ejecutoria la sentencia dictada, hasta la extinción de las sanciones y/o medidas de seguridad impuestas.
+IV. La flora y fauna silvestres;
 
 ###### ARTICULO 2.
 
-Es facultad exclusiva del Ministerio Público del Estado, la persecución de los delitos y el ejercicio de la acción penal ante los tribunales.
+1. Este Código integra en un cuerpo normativo las diversas disposiciones ambientales, con el propósito de afirmar la conexidad de temas, la transversalidad para su atención y el debido cumplimiento de las mismas.
+
+2. El desarrollo sustentable es un proceso integral que exige compromisos y responsabilidades individuales y sociales de toda persona.
+
+3. Las materias comprendidas en este Código se regulan con el fin de impulsar y promover la conservación, la preservación, la rehabilitación, la remediación, el mejoramiento y el mantenimiento de los ecosistemas; la recuperación y restauración del equilibrio ecológico, la prevención del daño a la salud; el deterioro a la biodiversidad y los elementos que la componen en su conjunto; la gestión y el fomento de la protección al medio ambiente y la planeación ambiental; el aprovechamiento y el uso sustentable de los elementos y recursos naturales y de los bienes ambientales; la internalización y la distribución en forma justa de los beneficios y costos derivados, sustentados en proporcionar certidumbre a los mercados en el marco de las políticas establecidas para el desarrollo sustentable en el Estado.
 
 ###### ARTICULO 3.
 
-El Ministerio Público del Estado, en el ejercicio de sus actividades de investigación y persecución de los delitos y las de preparación para el ejercicio de la acción penal, deberá:
+Son objetivos de este Código sentar las bases para:
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
+I. Garantizar el derecho de toda persona a vivir en un ambiente adecuado para su salud, desarrollo y bienestar;
 
-I.- Recibir denuncias y querellas, ordenando el inicio de la averiguación previa, cuando de la exposición de los hechos se advierta que la conducta puede ser constitutiva de delito;
+II. Formular y vigilar el cumplimiento de los instrumentos y programas de política ambiental, recursos naturales y desarrollo sustentable para la preservación y desarrollo de la flora, fauna y recursos naturales renovables y normar su aprovechamiento en conjunto;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
+III. Regular y promover el cumplimiento de las disposiciones legales y administrativas estatales en materia de medio ambiente, protección y gestión integral de los residuos, áreas naturales protegidas y vida silvestre;
 
-II.- Recabar las pruebas que acrediten el cuerpo del delito y la probable responsabilidad del indiciado, así como las que peticionen las partes, siempre y cuando éstas sean conducentes y pertinentes y tengan relación con los hechos que se investigan, pues en caso contrario podrán desecharse mediante acuerdo fundado y motivado;
+IV. Garantizar y regular que ante la existencia de peligro de daño grave o irreversible al medio ambiente o de emergencia en donde exista una afectación continua y grave al mismo, se adopten medidas eficaces de manera inmediata y se realicen las acciones necesarias para impedir su degradación;
 
-III.- Solicitar cuando proceda, de la autoridad judicial, la aprehensión o comparecencia del o de los imputados;
+V. Formular, ejecutar, evaluar, vigilar y modificar los programas de ordenamiento ecológico del territorio de competencia estatal;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
+VI. Regular y promover, en el ámbito de su competencia, el tratamiento, almacenamiento, transporte y eliminación de los residuos sólidos, y el tratamiento y disposición final de contaminantes;
 
-IV.- Ordenar, bajo su responsabilidad y sin orden de aprehensión, la detención del indiciado cuando sea un caso urgente, se trate de los casos de delito grave así considerados en el código penal y se persiga de oficio, haya riesgo fundado de que pueda sustraerse a la acción de la justicia y no se pueda ocurrir a la autoridad judicial por razón de la hora, lugar o circunstancia de la comisión del delito. El Ministerio Público deberá fundar los indicios que motiven su proceder.
+VII. Proteger, conservar, preservar y regular los aprovechamientos sustentables que se hagan de las áreas naturales protegidas y parques estatales;
 
-También ordenar, bajo su responsabilidad y sin orden de aprehensión, la detención del inculpado tratándose de delito flagrante.
+VIII. Coordinar las acciones en materia de protección, conservación y restauración de los recursos naturales, relativos al agua, suelo y aire, considerándose la atinente a áreas naturales protegidas y zonas de amortiguamiento;
 
-En estos casos el Ministerio Público podrá retener al indiciado solamente hasta cuarenta y ocho horas o hasta noventa y seis horas en los casos que la ley prevea como delincuencia organizada. La contravención a ello se sancionará conforme lo previene el código penal;
+IX. Promover y fomentar el desarrollo y uso de energías, tecnologías y combustibles alternativos;
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+X. Promover y fomentar las investigaciones ecológicas, la participación de la sociedad en la formulación de las políticas de desarrollo sustentable y ambiental del Estado y la formación de la cultura de la sustentabilidad en la realización de toda actividad que utilice recursos naturales;
 
-V.- Hacer que tanto el ofendido como el probable responsable, en su caso, sean examinados inmediatamente por los médicos legistas para que dictaminen, con carácter de provisional, acerca del estado psicológico y físico en que se encuentran. Tratándose del probable responsable se verificará su identidad, para determinar que sea precisamente la persona a la que se refiere la averiguación y en caso de ser necesario se deberá obtener la prueba que compruebe su estado de intoxicación; se aplicará una presunción positiva en tal sentido en caso de que el probable responsable se niegue a la práctica de dicha prueba y presente alteraciones en la coordinación, la respuesta a reflejos, la alteración del equilibrio o del lenguaje, o se encuentre en la escena del delito algún objeto que haga presumir el consumo de bebidas alcohólicas, sustancias tóxicas o estupefacientes, lo anterior salvo prueba en contrario; así mismo, verificará su edad.
+XI. Establecer los mecanismos de coordinación, inducción y concertación entre autoridades y de éstas con los sectores social y privado, en materia ambiental; y
 
-En caso de existir duda de que sea menor de edad, se presumirá que lo es;
+XII. Establecer medidas de control y seguridad, así como las sanciones administrativas para garantizar el cumplimiento y aplicación del presente Código y los reglamentos que del mismo se deriven.
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
+###### ARTICULO 4.
 
-VI.- Solicitar a la autoridad jurisdiccional las medidas precautorias de arraigo de personas, aseguramiento, provisionales o embargo que resulten indispensables para la preparación de la acción penal y las órdenes de cateo que procedan, así como en aquellos casos en que la diligencia requerida sólo pueda lograrse mediante orden judicial;
+Para efectos de este Código se entenderá por:
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-VII.- Procurar la conciliación o mediación entre las partes en los delitos culposos, en los de instancia de parte y en los que persiguiéndose de oficio, no sean de los considerados como graves y su sanción no exceda de seis años como pena máxima. En estos casos se dictará auto de reserva de la acción penal hasta en tanto no se cumpla con el acuerdo derivado de la conciliación o mediación;
+I. Aprovechamiento sustentable: La utilización de los elementos y recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos elementos y recursos por periodos indefinidos;
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2026)</small>
 
-VIII.- Informar a las partes en que consiste la mediación y la conciliación, procedentes en los delitos perseguibles a instancia de parte y de oficio no considerados como graves y su sanción no exceda de seis años como pena máxima, y las bondades de esta figura, quedando a discreción de las mismas si la aceptan o no;
+I Bis. Agroecología: Enfoque científico y práctico que integra principios ecológicos en los sistemas productivos, promoviendo sustentabilidad, conservación de recursos naturales, resiliencia frente al cambio climático y bienestar comunitario;
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-IX.- Suspender el trámite de la preparación de la acción penal hasta que se concluya la mediación o se logre la conciliación, salvo que se requiera realizar diligencias de carácter urgente o inaplazable, o solicite la reanudación cualquiera de las partes;
+II. Áreas naturales protegidas: Las zonas del territorio del Estado sujetas al régimen previsto en el Código, o en otros ordenamientos o decretos vigentes, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas y restauradas;
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-X.- Decidir la suspensión del procedimiento de la preparación de la acción penal a prueba, cuando se trate de delitos que estén sancionados con pena alternativa o con sanción corporal y pecuniaria cuando la de prisión no sea mayor de dos años. En dichos casos, el inculpado tendrá que realizar convenio con el ofendido o la víctima si la hubiere y se le conminará a que no reitere la conducta delictiva. Logrado lo anterior, se dictará la suspensión del ejercicio de la acción penal, ordenando la libertad del inculpado, en el caso de que estuviere detenido.
+III. Área verde: La superficie de uso público destinada para la conservación ambiental ubicada en parques, jardines, plazas públicas u otros relativos al esparcimiento;
 
-No procederá lo anterior, cuando fueren varios delitos y uno de ellos no se encuentre en los supuestos del párrafo que antecede.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-Transcurrido un año de dictada la suspensión del ejercicio de la acción penal, se decretará el inejercicio de la misma y su archivo definitivo. Continuará la averiguación por su secuela legal, en caso de incumplimiento del convenio o de comisión de un nuevo delito que merezca pena corporal, respecto del cual se dicte Auto de Formal Prisión; excepto si se trata de delito culposo.
+IV. Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas;
 
-No se suspenderá la preparación de la acción penal, si el inculpado solicita su seguimiento;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
+V. Código: El Código para el Desarrollo Sustentable del Estado de Tamaulipas;
 
-XI.- Levantar actas circunstanciadas de la sustracción o pérdida de documentos o identificaciones u objetos sin señalarse o encontrarse identificados como probable responsable de delito a persona alguna, ya que son conductas o hechos que por su propia naturaleza y por carecer de elementos constitutivos no pueden ser estimados como delictuosos.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+VI. Consejo: El Consejo de Gobierno para el Desarrollo Sustentable;
 
-En aquellos delitos no graves en los cuales se requiera cumplir con algún requisito de procedibilidad que corresponda subsanarlo a la víctima u ofendido, el Ministerio Público levantará la denuncia en un acta circunstanciada y orientará y asesorará al denunciante a fin de poder cumplimentar a la brevedad dichos requisitos.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-Dichas actas circunstanciadas se registrarán en un libro denominado de Actas Circunstanciadas y cuando aparecieren los datos que permitieran el esclarecimiento de los hechos o la individualización de los responsables, el Ministerio Público procederá a anotar esa circunstancia en el libro e iniciará la averiguación previa correspondiente;
+VII. Conservación: El conjunto de políticas y medidas para mantener dinámicamente las condiciones que propicien la permanencia de los elementos naturales, a través de la planeación ambiental del desarrollo; protegiendo, cuidando, manejando, manteniendo y, en su caso, aprovechando los ecosistemas, los hábitat, las especies y las poblaciones de vida silvestre dentro o fuera de sus entornos naturales, de manera que salvaguarden las condiciones naturales para su permanencia a largo plazo;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
-XII.- Dictar acuerdos de no inicio de la preparación de la acción penal cuando de los hechos denunciados o materia de la querella se advierta que las conductas no constituyen hechos delictuosos debidamente señalados en el Código Penal vigente en el Estado, o que existe extemporaneidad o prescripción, o bien en los delitos patrimoniales de querella necesaria, cuando exista falta de personalidad o de legitimación.
+VII Bis. Constancia de No Adeudo Fiscal: Documento que consta que no se tiene adeudo alguno en Contribuciones registradas en el Estado de personas físicas y/o morales, el cual es requisito indispensable para la obtención de otros servicios o derechos;
 
-En estos casos el Agente del Ministerio Público dictará acuerdo fundado y motivado de no Inicio de la preparación de la acción penal, con la finalidad de cumplir con lo dispuesto en el Artículo 8 de la Constitución Política de los Estados Unidos Mexicanos, referente al derecho de petición. Dicho acuerdo se deberá notificar a las partes.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-No podrá dictarse acuerdo de no inicio en aquellos casos en que de los hechos denunciados o materia de la querella se advierta que pudiera tratarse de delitos considerados como graves por el Código Penal;
+VIII. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2021)</small>
 
-XIII.- Acordar el archivo definitivo cuando se dicte el inejercicio de la acción penal;
+VIII Bis. Contaminación lumínica: El resplandor luminoso en ambientes nocturnos o brillo producido por la difusión y reflexión de la luz en los gases, aerosoles y partículas en suspensión en la atmósfera, que altera las condiciones naturales de luminosidad en horas nocturnas y dificultan las observaciones astronómicas de los objetos celestes, debido a la luz intrusa, debiendo distinguirse el brillo natural, atribuible a la radiación de fuentes u objetos celestes y a la luminiscencia de las capas altas de la atmósfera;
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XIV.- Certificar documentos y dar fe de hechos y circunstancias en ejercicio de sus funciones;
+IX. Contaminación por ruido: Las emisiones sonoras que rebasan los límites máximos establecidos en las Normas Oficiales Mexicanas y Normas Ambientales Estatales, de acuerdo a los valores de concentración máxima permisibles para el ser humano;
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XV.- Acordar el archivo provisional del ejercicio de la acción penal, cuando no existan o no se encuentren datos que permitan continuar la investigación durante el término de tres años, excepto cuando se trate de delitos graves;
+X. Contaminación visual: La alteración nociva de las cualidades de la imagen o del orden de un paraje natural o urbano, causado por uno o más elementos que únicamente tengan la finalidad de ser vistos, incluyéndose dentro de estos a las estructuras, anuncios, objetos o imágenes fijas o móviles, que por su colocación o número, impidan al espectador apreciar a plenitud las características del entorno, o distraigan la atención de las personas, creando situaciones de riesgo para las mismas;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XVI.- Dictar reserva de la preparación de la acción penal en los delitos de querella necesaria, cuando se advierta que la personalidad o la legitimación del querellante se encuentra subjúdice. Una vez resuelta la controversia en definitiva por la autoridad competente, el Ministerio Público resolverá a lo que a derecho corresponda.
+XI. Contaminantes: La materia o energía, en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-###### Artículo 4.
+XII. Contingencia ambiental: La situación derivada de actividades humanas o fenómenos naturales que puede poner en riesgo o peligro la integridad de uno o varios ecosistemas;
 
-El Ministerio Público dictará el inejercicio de la acción penal, en los siguientes casos:
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
+XIII. Criterios ecológicos: Los lineamientos de carácter obligatorio establecidos en el presente Código para orientar las acciones de conservación, preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los elementos y recursos naturales y la protección al medio ambiente que tendrán carácter de instrumentos de política ambiental;
 
-I.- Cuando una vez iniciada la averiguación previa, la conducta o los hechos de que se conozca no sean constitutivos de delito conforme a la descripción típica contenida en la ley penal;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-II.- Cuando se acredite plenamente que el inculpado no tuvo participación en la conducta o en los hechos punibles, y sólo por lo que respecta a aquél;
+XIV. Daño ambiental: La alteración relevante que modifique negativamente el medio ambiente, sus recursos, el equilibrio de los ecosistemas, la salud humana o los bienes o valores ambientales colectivos;
 
-III.- Cuando la responsabilidad penal se haya extinguido legalmente, en los términos del Código Penal;
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-IV.- Cuando de las diligencias practicadas se desprenda plenamente que el inculpado actuó en circunstancias que excluyen la responsabilidad penal;
+XIV Bis. Desarrollo Sostenible: El proceso capaz de satisfacer las necesidades de las generaciones presentes sin comprometer la capacidad de las generaciones futuras de satisfacer las suyas;
 
-V.- Cuando los hechos de que conozca hayan sido materia de diverso procedimiento penal, concluído con sentencia ejecutoria;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
+XV. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del medio ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-VI.- Cuando en virtud de la mediación o la conciliación se obtenga la solución de la controversia;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
+XVI. Desastre: El evento determinado en tiempo y espacio en el cual, la sociedad o una parte de ella, sufre daños severos tales como: pérdida de vidas humanas, lesiones a la integridad física de las personas, daño a la salud, afectación de la planta productiva, daños materiales, daños al medio ambiente, imposibilidad para la prestación de servicios públicos; de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad;
 
-VII.- Cuando la querella sea presentada fuera de término. En estos casos el Ministerio Público no está obligado a desahogar ninguna prueba;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
+XVII. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el medio ambiente, que afecta negativamente la existencia, transformación y desarrollo del ser humano y demás seres vivos;
 
-VIII.- Cuando habiendo determinado el delito o delitos que se desprenden de los hechos puestos a su consideración, resuelva que la acción penal persecutoria se encuentra extinguida por la prescripción;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
+XVIII. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el medio ambiente, en un espacio y tiempo determinados;
 
-IX.- Cuando el inculpado cumpla con las condiciones impuestas en los casos que establece la fracción X del artículo 3 de este Código.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+XIX. Educación ambiental: El proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el extraescolar, para facilitar la percepción integrada del medio ambiente a fin de lograr conductas más racionales a favor de éste y del desarrollo social. La educación ambiental comprende la asimilación de conocimientos, la formación de valores y el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
 
-La resolución de inejercicio dictada por el Agente del Ministerio Público admitirá el recurso de inconformidad.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+XX. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el medio ambiente que hace posible la existencia, transformación y desarrollo del ser humano y demás seres vivos;
 
-El recurso de inconformidad se tramitará ante el Procurador General de Justicia del Estado, oyendo la opinión de los Agentes del Ministerio Público Auxiliares a su cargo. La resolución que dicte el Procurador no admitirá recurso alguno.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+XXI. Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinado sin la inducción del hombre;
 
-El recurso de inconformidad se deberá de interponer ante el mismo Agente del Ministerio Público que conozca de la averiguación previa, dentro de los tres días siguientes a que quede legalmente notificado; en el escrito en que se interponga el recurso deberán de expresarse los agravios materia de la inconformidad, en caso de no expresarse, se tendrá por no interpuesto el recurso.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+XXII. Emergencia ecológica: La situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus componentes pone en peligro a uno o varios ecosistemas;
 
-Una vez agregado a los autos de la averiguación previa el escrito que contiene el recurso, el Agente del Ministerio Público dictará en un plazo no mayor a tres días, un acuerdo de admisión o en su caso de desechamiento si se hubiere presentado fuera del término.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+XXIII. Estado: El Estado Libre y Soberano de Tamaulipas;
 
-El Agente del Ministerio Público que conozca de la averiguación previa, deberá remitir el original de la misma y el escrito del recurso para su substanciación al Procurador General de Justicia del Estado, a más tardar a los tres días siguientes contados a partir de que reciba el recurso.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+XXIV. Evaluación de impacto ambiental: El procedimiento científico y técnico a través del cual las autoridades estatales y los organismos calificados identifican y prevén los efectos que una acción o proyectos específicos ejercerán sobre el medio ambiente, con objeto de determinar la procedencia ambiental de dicha acción o proyecto y las condiciones a las que se sujetarán los mismos, para la realización de las obras, actividades o aprovechamientos, a fin de evitar o reducir al mínimo sus consecuencias negativas en el equilibrio ecológico en el medio ambiente o la biodiversidad;
 
-El Procurador General de Justicia del Estado resolverá en definitiva sobre la procedencia o no del recurso de inconformidad, en un plazo de hasta veinte días contados a partir de que reciba el expediente. Si la averiguación previa excediera de quinientas fojas, se duplicará dicho término.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+XXV. Explotación: El uso de los recursos y elementos naturales renovables y no renovables que tiene como consecuencia un cambio significativo en el equilibrio de los ecosistemas;
 
-En aquellos delitos considerados como graves según el artículo 16 Bis del Código Penal vigente del Estado, bastará con que el quejoso manifieste su inconformidad dentro de los tres días siguientes a que quede legalmente notificado, para que se tenga por interpuesto el recurso señalado en párrafos anteriores, y le corresponderá al Procurador General de Justicia del Estado estudiar de oficio, la resolución de inejercicio independientemente si se expresan o no agravios.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+XXVI. Libro Primero: El Libro Primero de este Código, sobre las Disposiciones Generales;
 
-El Procurador General de Justicia del Estado, en los términos de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León, tendrá la facultad de revocar cualquier inejercicio dictado por los Agentes del Ministerio Público investigadores a su mando, con independencia de si se interpone o no el recurso de inconformidad.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+XXVII. Libro Segundo: El Libro Segundo de este Código, sobre la Protección Ambiental;
 
-La resolución de inejercicio de la acción penal dictada por el Agente del Ministerio Público también podrá ser impugnada por vía jurisdiccional en los términos que establezca la ley de la materia.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXVIII. Libro Tercero: El Libro Tercero de este Código, sobre la Prevención y Gestión Integral de los Residuos del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXIX. Libro Cuarto: El Libro Cuarto de este Código, sobre las Áreas Naturales Protegidas;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXX. Libro Quinto: El Libro Quinto de este Código, sobre la Vida Silvestre del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXI. Libro Sexto: El Libro Sexto de este Código, de los Procedimientos ante la Secretaría;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXII. Libro Séptimo: El Libro Séptimo de este Código, de los Procedimientos Especiales y las Sanciones;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXIII. Libro Octavo: El Libro Octavo de este Código, de los Medios de Impugnación;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXIV. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXV. Ley General de Residuos: La Ley General para la Prevención y Gestión Integral de los Residuos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXVI. Ley de Vida Silvestre: La Ley General de Vida Silvestre;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XXXVI Bis. Luz intrusa: Parte de la luz de una instalación con fuente de iluminación que no cumple la función para la que fue diseñada y no previene la contaminación lumínica, la cual será considerada por la Secretaría en el ejercicio de sus atribuciones de prevención y control de la contaminación, contemplándose para este efecto:
+
+a) La luz que cae indebidamente fuera de la zona que se requiere iluminar;
+
+b) La luz difusa en las proximidades de la instalación de iluminación;
+
+c) La luminiscencia del cielo, es decir, la iluminación del cielo nocturno que resulta del reflejo directo e indirecto de la radiación visible e invisible, dispersada por los constituyentes de la atmosfera, moléculas de gas, aerosoles y partículas en la dirección de la observación;
+
+d) La luz difusa que se esparce en las proximidades de la fuente artificial de iluminación, y
+
+e) La luz que se proyecta en varias direcciones fuera de la zona terrestre a iluminar;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXVII. Medio Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXVIII. Ordenamiento ecológico: El instrumento de política ambiental cuyo objetivo es regular o inducir el buen uso del suelo y las actividades productivas en el territorio del Estado, con el fin de lograr la protección, el uso, la conservación, la preservación de la biodiversidad y el aprovechamiento sustentable de los elementos y recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXIX. Pago por servicios ambientales: La retribución directa a través de instrumentos financieros eficientes a quienes se ocupan de manejar, resguardar, conservar y mejorar los ecosistemas que brindan servicios ambientales para el bienestar de la sociedad;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XL. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del medio ambiente;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XLI. Protección al medio ambiente: El conjunto de políticas y medidas para preservar, recuperar, restaurar, remediar, rehabilitar, ordenar y conservar el medio ambiente, previniendo y controlando su deterioro;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XLII. Reciclaje: El proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad y se convierten en materia prima para los nuevos productos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XLIII. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del ser humano o de contribuir al equilibrio ecológico;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XLIV. Relleno sanitario: La instalación que cuenta con sitios y condiciones para el depósito permanente de los residuos sólidos urbanos y de manejo especial, con el propósito de prevenir o al menos, reducir la liberación de contaminantes al ambiente, la formación de lixiviados en suelos, la generación de procesos de combustión no controlada, la emisión de malos olores, la proliferación de fauna nociva y demás problemas sanitarios y ambientales;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XLV. Residuo: El material o producto cuya persona propietaria o poseedora desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final, conforme a lo dispuesto en este Código y demás ordenamientos que de él deriven;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XLVI. Restauración: El conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XLVII. Riesgo: La probabilidad de que al liberar al medio ambiente o exponerse a un material o residuo se ocasionen efectos adversos a la salud humana, en los demás organismos vivos, en el agua, en el aire, en el suelo, en los ecosistemas o en los bienes y propiedades pertenecientes a los particulares;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XLVIII. Riesgo ambiental: El daño potencial a la población, sus bienes y al medio ambiente derivado de actividades humanas o fenómenos naturales en caso de presentarse un accidente o un evento extraordinario;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XLIX. Secretaría: La Secretaría de Desarrollo Urbano y Medio Ambiente;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
+
+L. Secretaría Federal: La Secretaría de Medio Ambiente y Recursos Naturales;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
+
+LI. Servicios ambientales: Los que brindan los ecosistemas de manera natural o por medio del manejo sustentable de los recursos naturales que los integran, tales como: la provisión del agua en calidad y cantidad; la captura de bióxido de carbono, de contaminantes y componentes naturales; la generación de oxígeno; el amortiguamiento del impacto de los fenómenos naturales; la modulación o regulación climática; la protección de la biodiversidad, los ecosistemas y las formas de vida; la protección y recuperación de suelos; y el paisaje y la recreación, entre otros; y
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2022)</small>
+
+LII. Zona de restricción: Área en la que se restringe toda actividad de aprovechamiento en virtud de que la misma, por la ubicación en que se realiza, genera un daño al medio ambiente o causa una grave afectación a zonas naturales protegidas.
 
 ###### ARTICULO 5.
 
-A los Tribunales Penales corresponde la imposición de las sanciones o medidas de seguridad, cuando en sus sentencias declaren la existencia del delito la responsabilidad del acusado, y, cuando proceda, condenar a la reparación del daño y perjuicio.
+1. Al ejercer las atribuciones previstas en este Código las autoridades estatales y municipales tienen como misión asegurar el interés público, mediante el respeto y la promoción de los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+2. Asimismo, dichas autoridades buscarán coordinar y estimular la cooperación social para impulsar, de manera solidaria y subsidiaria, la satisfacción de las necesidades de la población del Estado y del Municipio.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 6.
 
-El procedimiento ante el Juez comprenderá los períodos señalados en las fracciones I en su caso, II, III, y IV del artículo 1 de este Código.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+En todo lo no previsto en este Código se aplicará en lo conducente y de manera supletoria, la Ley General, la Ley General de Residuos, la Ley General de Vida Silvestre, la Ley Estatal de Planeación, la Ley Orgánica de la Administración Pública del Estado, la Ley de Transparencia y Acceso a la Información Pública del Estado, el Código Civil para el Estado y el Código de Procedimientos Civiles del Estado. A falta de disposiciones jurídicas se aplicarán los principios generales del derecho.
 
 ###### ARTICULO 7.
 
-En el procedimiento penal ante el Juez, corresponde al Ministerio Público comprobar la existencia del delito y la responsabilidad del inculpado, o promover su libertad, en los términos de Ley; exigir la aplicación de las sanciones o medidas de seguridad que señalan las normas penales; exigir la reparación del daño y perjuicio, en los términos previstos por la Ley; solicitar cuando estime procedente la cancelación de la orden de aprehensión y detención no ejecutada por operar la prescripción de la acción penal; interponer los recursos que procedan, e intervenir en los incidentes que se tramiten.
+Se considera de utilidad pública:
 
-En la segunda instancia, el Ministerio Público sostendrá o no el recurso interpuesto. En el primer caso, expresará sus agravios e intervendrá en todas las diligencias, pudiendo promover pruebas en los casos previstos por la Ley.
+I. La formulación y ejecución de los planes de ordenamiento ambiental del Estado para la conservación de los ecosistemas, el aprovechamiento sustentable de los recursos y la aplicación de tecnologías y modelos adecuados de uso de suelo;
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+II. Las acciones en materia de prevención y control de la contaminación atmosférica, de los mantos freáticos y demás cuerpos de agua, así como del suelo en el territorio estatal;
+
+III. El establecimiento y regulación de zonas intermedias de salvaguarda;
+
+IV. La formulación y ejecución de acciones de protección y preservación de la biodiversidad del territorio del Estado, así como el aprovechamiento sustentable de recursos genéticos;
+
+V. Las medidas necesarias para evitar el deterioro o la destrucción que los elementos naturales puedan sufrir, en perjuicio de la colectividad, por la liberación de contaminantes al medio ambiente;
+
+VI. La ejecución de obras destinadas a la prevención, conservación y protección del medio ambiente, así como para la remediación de sitios contaminados cuando las mismas sean imprescindibles para reducir riesgos a la salud;
+
+VII. La protección y preservación de áreas específicas dentro de la superficie en la cual se distribuya una especie o población en riesgo al momento de ser listada, en las cuales se desarrollen procesos biológicos esenciales para su conservación;
+
+VIII. La protección y preservación de áreas específicas del territorio donde se abarque una significativa concentración de diversidad biológica, donde debido a los procesos de deterioro ha disminuido drásticamente su superficie;
+
+IX. La protección y preservación de áreas específicas en las que existe un ecosistema en riesgo de desaparecer si siguen actuando los factores que lo han llevado a reducir su superficie histórica; y
+
+X. La protección y preservación de áreas naturales protegidas de jurisdicción estatal, así como de zonas de preservación ecológica de los centros de población.
 
 ###### ARTICULO 8.
 
-En todo procedimiento penal, la víctima o el ofendido por algún delito tendrán derecho a:
+Se considera de interés social:
 
-I.- Recibir asesoría jurídica y ser informados, cuando lo soliciten, del desarrollo de la averiguación previa o del proceso;
+I. La formulación y ejecución de las declaratorias de áreas naturales protegidas de jurisdicción estatal y de zonas de preservación ecológica de los centros de población, conforme a lo previsto en la Ley General, incluidos sus planes de manejo y recuperación;
 
-II.- Coadyuvar con el Ministerio Público;
+II. El otorgamiento o negativa, revocación o cancelación de las licencias, autorizaciones o concesiones respecto de obras y actividades que se pretendan realizar dentro del Estado o afecten al mismo;
 
-III.- Estar presente en el desarrollo de todos los actos procesales en los que el inculpado tenga este derecho;
+III. La autorización, negativa y, en su caso, la revocación de licencias, autorizaciones o concesiones de las actividades u obras a cielo abierto y subterráneas de materiales pétreos y suelo, así como la protección y conservación de la seguridad del suelo y la rehabilitación de éste, al término de las faenas extractivas;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2007)</small>
+IV. La promoción de la educación ambiental, tanto en las instituciones incorporadas al Sistema Educativo Estatal, como no formal, dirigida a todos los sectores de la población;
 
-IV.- Recibir asistencia médica de urgencia y psicológica cuando lo requieran, pudiendo optar por el profesional de su elección cuando la disponibilidad de éstos así lo permita;
+V. Las medidas de emergencia que las autoridades apliquen en caso fortuito o fuerza mayor, tratándose de contaminación; y
 
-> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2007)</small>
-
-V.- La garantía de reserva de su identidad y paradero por lo que en consecuencia, no podrá ser divulgado para ser transmitido o publicado en medio masivo de comunicación alguno, cualquier dato, hecho o documento que esta disposición tutela; lo anterior sólo será aplicable en los tipos penales contemplados en cualquiera de los Artículos 165 bis, 176, 318, 325, 357 ó 357 bis del Código Penal para el Estado de Nuevo León. La referida garantía podrá ser renunciable únicamente mediante manifestación y ratificación del interesado ante el Ministerio Público o la autoridad judicial en su caso; y
-
-VI.- Las demás que señalen las leyes.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
-
-En virtud de lo anterior, podrán proporcionar al Ministerio Público o al juzgador directamente o por medio de aquél, todos los datos o elementos de prueba con que cuenten, que conduzcan a acreditar el cuerpo del delito y la probable o plena responsabilidad del inculpado, según el caso, y la procedencia y monto de la reparación del daño.
-
-En todo caso, el juez, de oficio, mandará citar a la víctima o al ofendido por el delito para que comparezca por sí o por su representante designado en el proceso, a manifestar en éste lo que a su derecho convenga respecto a lo previsto en este artículo.
-
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
-
-La víctima o el ofendido tendrán derecho a solicitar al Juez que dicte las medidas y providencias necesarias que prevea la ley para su seguridad y auxilio, y para que se les restituya en el goce de sus derechos, en los términos previstos en este Código.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
-
-Cuando la víctima o el ofendido sea menor de edad, no estará obligado a carearse con el inculpado cuando se trate de delitos de violación o secuestro. En caso de tratarse de otros delitos o bien cuando la víctima sea mayor de edad y se trate de delitos de violación, equiparable a la violación, privación ilegal de la libertad con carácter de secuestro o equiparable a la privación ilegal de la libertad con carácter de secuestro; podrán, cuando la víctima lo solicite o bien el Juez podrá decretarlo de oficio, disponer de la presencia del inculpado en forma virtual durante el desahogo de la audiencia mediante el sistema de videoconferencia, asegurando en todo caso la posibilidad de contradicción de las partes y la salvaguarda del derecho de defensa.
-
-(REFORMADO, P.O. 28 DE JULIO DE 2004) (F. DE E., P.O. 4 DE AGOSTO DE 2004)
-
-A consideración del Juez, se podrá designar personal capacitado en psiquiatría, psicología, trabajo social o cualquier otro con conocimientos del ramo, preferentemente con certificación profesional, para la atención y asistencia en las diligencias en que participe la víctima u ofendido menor de edad, actuando, de estimarse pertinente, como intermediario para que no se establezca debate directo entre el menor y el inculpado. El Juez deberá tomar las medidas pertinentes cuando la víctima o el ofendido sea mayor de edad con discapacidad mental y se encuentre en el supuesto anterior. Si el probable responsable ejerce la patria potestad, tutela o custodia legal y la víctima u ofendido es menor de edad, o mayor de edad con discapacidad mental, y no tiene familiar idóneo para hacerse cargo de él, se le procurará un hogar sustituto o su ingreso a alguna institución asistencial adecuada, hasta que cause ejecutoria la sentencia que se dicte.
+VI. Las acciones de emergencia para contener los riesgos a la salud derivados de cualquier tipo de contaminación.
 
 ###### ARTICULO 9.
 
-La ejecución de las sanciones privativas de libertad y pecuniarias, corresponde al Ejecutivo del Estado; igualmente hará que se cumplan las medidas de seguridad decretadas por la autoridad judicial.
+Corresponde la aplicación del presente Código:
 
-También corresponde al Ejecutivo declarar, cuando proceda, la prescripción del derecho a la ejecución de las sanciones.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-## TITULO SEGUNDO (SIC). REGLAS GENERALES PARA EL PROCEDIMIENTO PENAL
+I. Al Ejecutivo del Estado, por conducto de la Secretaría;
 
-### CAPITULO PRIMERO. JURISDICCION Y COMPETENCIA
+II. A los Municipios a través de los Ayuntamientos; y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+III. A las demás dependencias y entidades estatales o municipales, cuando así lo disponga la legislación aplicable.
+
+## TITULO SEGUNDO. DE LAS AUTORIDADES
+
+### CAPITULO I. DEL OBJETO
 
 ###### ARTICULO 10.
 
-El ejercicio del poder jurisdiccional corresponde:
+Son atribuciones generales de las autoridades estatales y municipales a que se refiere el presente Código en las materias que les corresponde, las siguientes:
 
-I.- Al Tribunal Superior de Justicia;
+I. Aplicar para todos los efectos las disposiciones de este Código;
 
-II.- A los juzgados de lo penal;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
+II. Formular, conducir, vigilar y evaluar políticas y proyectos ajustándose en su actuación al Plan Estatal de Desarrollo, al Programa Estatal de Desarrollo Sustentable y a los Planes Municipales de Desarrollo y Programas Municipales de Desarrollo Sustentable dentro del ámbito y marco legal aplicable. Asimismo, determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento, e integrar los resultados al Sistema de Información Ambiental y de Recursos Naturales;
 
-III.- A los Juzgados de Preparación de lo Penal;
+III. Realizar las acciones de protección al medio ambiente con base en el principio de transversalidad de la política ambiental estatal;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-IV. A los Juzgados del Juicio Oral Penal;
+IV. Impulsar y aplicar programas de mejora regulatoria, al tiempo de fomentar el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía, en coordinación con los municipios;
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
+V. Expedir Normas Ambientales Estatales en los casos previstos en el presente Código;
 
-V.- A los Juzgados de Jurisdicción Mixta.
+VI. Autorizar a terceros para auxiliarse en el cumplimiento de sus atribuciones;
+
+VII. Celebrar convenios y acuerdos de coordinación;
+
+VIII. Promover la participación de la sociedad, mediante la celebración de convenios de concertación con los sectores social y privado;
+
+IX. Garantizar el principio de transparencia y el derecho de acceso a la información pública;
+
+X. Vigilar y ejecutar la aplicación de las disposiciones del presente Código y de las que se deriven del mismo; realizar visitas de verificación; y ordenar y ejecutar medidas de seguridad aplicando las sanciones previstas en este Código, buscando orientar, concientizar y educar a los infractores;
+
+XI. Coadyuvar entre sí para vigilar el cumplimiento de las disposiciones del presente Código, y cuando se encuentren irregularidades que constituyan violaciones a dichas disposiciones, hacerlas del conocimiento de la autoridad competente;
+
+XII. Propiciar la suscripción de convenios con las autoridades educativas a fin de promover en las instituciones educativas del Estado, la incorporación de contenidos para el desarrollo de culturas ambiental y de desarrollo sustentable;
+
+XIII. Ejercitar las acciones que se desprendan de este Código; y
+
+XIV. Las demás que establezcan el presente ordenamiento y demás disposiciones aplicables.
 
 ###### ARTICULO 11.
 
-El objeto de la jurisdicción penal consiste:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-I.- En declarar, en forma y términos que este Código establece, cuando un hecho ejecutado es o no delito;
+1. El Ejecutivo Estatal, por conducto de la Secretaría y, en su caso, con la intervención de otras dependencias y entidades de la administración estatal, podrá celebrar acuerdos de coordinación con el Ejecutivo Federal, con las demás entidades federativas y con los Ayuntamientos, a fin de concertar acciones o transferir facultades en materia de aprovechamiento sustentable, preservación y restauración del equilibrio ecológico y protección al medio ambiente, así como aquellos tendientes a la atención y resolución de problemáticas comunes, debiéndose ajustar a las siguientes bases:
 
-II.- En declarar la responsabilidad o irresponsabilidad de las personas acusadas ante los tribunales penales; y
+I. Se celebrarán a iniciativa del Gobierno del Estado de Tamaulipas o a propuesta recibida;
 
-III.- En imponer las sanciones o medidas de seguridad que señalan las normas penales, y condenar a reparación del daño y perjuicio.
+II. Se definirán con precisión las materias y actividades que constituyan el objeto del convenio o acuerdo;
+
+III. Se deberá guardar congruencia con la política ambiental nacional y estatal;
+
+IV. Se describirán los bienes y recursos que aporten las partes, esclareciéndose cuál será su destino específico y su forma de administración;
+
+V. Se especificará la vigencia del convenio o acuerdo, sus formas de solución de controversias y de terminación y en su caso, de prórroga;
+
+VI. Se definirá el órgano u órganos que llevarán a cabo las acciones que resulten de los convenios o acuerdos de coordinación, incluyendo las de evaluación; y
+
+VII. Se contendrán las demás estipulaciones que las partes consideren necesarias para el correcto cumplimiento del convenio o acuerdo.
+
+2. La parte suscriptora del convenio o acuerdo a la cual se le confiera el desarrollo de actividades o acciones, deberá contar con los medios necesarios, personal capacitado, recursos materiales y financieros, así como la estructura institucional específica para llevar a cabo la actividad encomendada.
+
+3. Los convenios a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Estado para los efectos correspondientes.
 
 ###### ARTICULO 12.
 
-En materia penal no cabe prórroga ni renuncia de competencia.
+De acuerdo con las bases descritas en el artículo anterior, los Ayuntamientos, con la participación del Ejecutivo del Estado, en su caso, podrán celebrar acuerdos o convenios de coordinación con:
+
+I. La Federación, para realizar actividades o ejercer facultades en bienes y zonas de jurisdicción federal, o para los mismos efectos en el Estado;
+
+II. Otros Estados o los Municipios de éstos, con la participación que corresponda a la Federación, para la realización de acciones en las materias de la Ley General y el presente Código; y
+
+III. Los Ayuntamientos de otros Municipios del Estado para la realización de acciones conjuntas en los términos y materias que señala el presente Código.
 
 ###### ARTICULO 13.
 
-Es Juez competente para juzgar de los hechos delictuosos y para imponer la sanción procedente el del lugar donde se hubiere cometido el delito, salvo lo establecido en este Código, en el Código Penal y en la Ley Orgánica del Poder Judicial.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+El Estado, por conducto de la Secretaría, promoverá ante la Federación la celebración de convenios o acuerdos de coordinación que permitan a las autoridades estatales y municipales asumir, según corresponda:
+
+I. La administración y vigilancia de las áreas naturales protegidas competencia de la Federación, conforme a lo establecido en el programa de manejo respectivo y demás disposiciones del presente ordenamiento;
+
+II. La vigilancia y control en el Estado del cumplimiento de las disposiciones legales federales que tiendan a prevenir las contingencias ambientales y emergencias ecológicas;
+
+III. El control de los residuos peligrosos considerados de baja peligrosidad, conforme a las disposiciones establecidas en la Ley General de Residuos;
+
+IV. La evaluación del impacto ambiental de las obras o actividades a que se refiere el artículo 28 de la Ley General, con excepción de lo establecido en el artículo 11 fracción III del mismo ordenamiento legal;
+
+V. La protección y preservación del suelo, la flora y fauna silvestres terrestres y los recursos forestales;
+
+VI. El control de acciones para la protección, preservación y restauración del equilibrio ecológico y la protección al medio ambiente en la zona federal marítimo terrestre, así como en la zona federal de los cuerpos de agua considerados como nacionales;
+
+VII. La prevención y control de la contaminación de la atmósfera, proveniente de fuentes fijas o móviles de competencia federal y, en su caso, la expedición de las autorizaciones correspondientes;
+
+VIII. La prevención y control de la contaminación ambiental originada por ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el medio ambiente, proveniente de fuentes fijas o móviles de competencia federal y, en su caso, la expedición de las autorizaciones correspondientes;
+
+IX. La elaboración, manejo y control de programas de coordinación de acciones para prevenir las contingencias y emergencias ambientales;
+
+X. La formulación, implementación y control de programas que tiendan a la restauración de las áreas y recursos naturales afectados por las contingencias o emergencias ambientales;
+
+XI. La autorización y el control de las actividades realizadas por los microgeneradores de residuos peligrosos de conformidad con las Normas Oficiales Mexicanas correspondientes;
+
+XII. El control de los residuos peligrosos que estén sujetos a los planes de manejo, de conformidad con lo previsto en la Ley General de Residuos;
+
+XIII. El establecimiento y actualización de los registros que correspondan a las fracciones XI y XII anteriores;
+
+XIV. La imposición de las sanciones aplicables relacionadas con las fracciones XI, XII y XIII anteriores; y
+
+XV. Las previstas en el artículo 15 de la Ley de Desarrollo Forestal Sustentable para el Estado de Tamaulipas; o las demás facultades concurrentes que en términos de las disposiciones legales sean susceptibles de asumirse por el Estado.
 
 ###### ARTICULO 14.
 
-Para conocer de los delitos permanentes y continuados, es competente, a prevención, cualquiera de los tribunales en cuya circunscripción territorial se hayan ejecutado actos que por sí solos constituyan el delito imputado. En los distritos en que haya dos o más Jueces, será competente el que esté de turno al iniciarse el ejercicio de la acción penal.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Los Ayuntamientos podrán promover ante el Estado, por medio de la Secretaría, la celebración de convenios o acuerdos de coordinación que les permita asumir facultades específicas de las que se demande su participación, de conformidad a los principios previstos en el presente Código y en la Ley General.
+
+2. En materia de regulación, control y evaluación del impacto ambiental, se promoverá la coordinación de funciones respecto a aquellas obras y actividades que, por sus características y dimensiones, la participación del Municipio facilite su atención.
 
 ###### ARTICULO 15.
 
-Si no se conoce el lugar en que se cometió el delito, la competencia territorial se establecerá en el siguiente orden:
-
-I.- El territorio en que se descubren pruebas materiales del delito;
-
-II.- El del lugar donde el inculpado sea aprehendido;
-
-III.- El de la residencia del inculpado; y
-
-IV.- El del lugar de residencia del agente del Ministerio Público que tenga la primera noticia del delito.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
-
-Luego que se conozca el lugar de la comisión del delito, se remitirán al Tribunal respectivo las actuaciones. El Tribunal que previno deberá inhibirse y remitir al competente las actuaciones, los inculpados y los objetos recogidos. Las actuaciones practicadas serán válidas.
-
-> <small>(F. DE E., P.O. 4 DE ABRIL DE 1990)</small>
+En las zonas conurbadas declaradas por el Ejecutivo Estatal, la realización de acciones en materia ambiental se llevarán a cabo de manera coordinada entre el Estado y los Municipios involucrados en la declaratoria de conurbación correspondiente.
 
 ###### ARTICULO 16.
 
-Si se cometiera uno o más delitos en dos o más distritos del Estado, será competente para conocer de ellos el Juez que conociera del primero, procediéndose en este caso conforme a las reglas de la acumulación de procesos.
+La interpretación y aplicación del presente Código, y de toda otra norma a través de la cual se ejecute la política de desarrollo sustentable, se ceñirán al cumplimiento de los siguientes principios:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+I. De congruencia: las normas sobre desarrollo sustentable se adecuarán a las previsiones del presente Código; en caso de que no fuere así, se privilegiarán las disposiciones de éste;
+
+II. De prevención: las causas y las fuentes de los problemas que afecten el desarrollo sustentable se atenderán en forma prioritaria e integrada, tratando de prevenir los efectos negativos que se pueden producir sobre el medio ambiente y los recursos naturales;
+
+III. Precautorio: cuando haya peligro de daño grave o irreversible, la ausencia de información o certeza científica no deberá utilizarse como razón para postergar la adopción de medidas eficaces, en función de los costos, para impedir la degradación del medio ambiente y los recursos naturales;
+
+IV. De equidad intergeneracional: los responsables de la protección ambiental deberán velar por el uso y goce apropiado del ambiente por parte de las generaciones presentes y futuras;
+
+V. De progresividad: los objetivos ambientales deberán ser logrados en forma gradual, a través de metas interinas y finales, proyectadas en el tiempo para facilitar la adecuación correspondiente de las actividades relacionadas con esos objetivos;
+
+VI. De responsabilidad: el generador de efectos degradantes del medio y del desarrollo sustentable, actuales o futuros, es responsable de los costos de las acciones preventivas y correctivas de recomposición, sin perjuicio de la vigencia de los sistemas de responsabilidad que correspondan;
+
+VII. De subsidiariedad: el Estado, a través de las distintas dependencias y entidades de la administración pública, tiene la obligación de colaborar y, de ser necesario, participar en forma complementaria en las acciones de los sectores social y privado para la preservación y protección del medio ambiente y los recursos naturales;
+
+VIII. De sustentabilidad: el desarrollo económico y social y el aprovechamiento de los recursos naturales deberán realizarse a través de una gestión apropiada del ambiente, de manera tal que no comprometa las posibilidades de las generaciones presentes y futuras;
+
+IX. De solidaridad: el Estado y los Ayuntamientos serán responsables de la prevención y mitigación de los efectos ambientales transfronterizos adversos de su propio accionar, así como de la minimización de los riesgos ambientales sobre los sistemas ecológicos compartidos;
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+X. De cooperación: los recursos naturales y los sistemas ecológicos compartidos serán utilizados en forma equitativa y racional, el tratamiento y mitigación de las emergencias ambientales de efectos transfronterizos serán desarrollados en forma conjunta; y
+
+XI. De transversalidad: las acciones a favor del desarrollo sustentable rigen la actuación de la administración estatal, misma que actuará conforme a los instrumentos de la planeación del desarrollo.
 
 ###### ARTICULO 17.
 
-En los casos de concurso material de delitos del orden común, la competencia se fijará atendiendo al delito que merezca mayor sanción; y a la privativa de libertad, cuando se señalen varias de distinta naturaleza, salvo las excepciones que marca la ley.
-
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 1997)</small>
-
-En caso de concurso de delitos del fuero común que tengan conexidad con delitos federales, la competencia se fijará conforme a lo dispuesto en el Código Federal de Procedimientos Penales.
+El Estado y los Municipios atenderán los principios de política ambiental que formule la Federación, dentro del ámbito de su competencia.
 
 ###### ARTICULO 18.
 
-(DEROGADO, P.O. 28 DE JULIO DE 1995)
+1. La planeación ambiental es el proceso a través del cual se establecen prioridades y programas para la realización de actividades en materia ambiental por parte de las autoridades, de conformidad con la política de desarrollo sustentable del Estado, sin perjuicio de lo que disponga la Ley Estatal de Planeación.
+
+2. La planeación ambiental se hará de manera congruente entre el Gobierno del Estado y los Ayuntamientos, de acuerdo a lo dispuesto en el presente Código y demás disposiciones aplicables.
 
 ###### ARTICULO 19.
 
-Ningún Tribunal puede negarse a conocer de un asunto penal, excepto cuando sea incompetente; en este caso debe expresar por escrito los fundamentos legales en que se apoya.
-
-Si el Ministerio Público ejercita acción penal ante un juzgado incompetente, el Juez deberá dictar auto de radicación si el inculpado se encuentra detenido; se inhibirá del conocimiento después de que se dicte auto de formal prisión, de sujeción a proceso o de libertad por falta de elementos para procesar.
+El Estado promoverá la participación de los distintos grupos sociales en la elaboración de los programas que tengan por objeto el aprovechamiento sustentable de sus recursos naturales, la preservación y restauración del equilibrio ecológico y la protección al medio ambiente.
 
 ###### ARTICULO 20.
 
-El Juez que se considere incompetente para conocer de un asunto penal, se inhibirá de oficio, y hará saber al Ministerio Público la causa en que funda su incompetencia, dándole vista por tres días. Vencido al plazo y evacuada o no la vista, resolverá dentro de los tres días siguientes si declara la incompetencia.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-Si el inculpado se encuentra detenido, el Juez solamente se separará del conocimiento del proceso después de dictar auto de formal prisión, de sujeción a proceso, de libertad por falta de elementos para procesar, y de practicar las diligencias más urgentes, dentro de su jurisdicción.
+1. El Ejecutivo Estatal, en el seno del Consejo de Gobierno para el Desarrollo Sustentable, por conducto de la Secretaría, instituirá la política ambiental mediante el Programa Estatal de Desarrollo Sustentable, en el que se establecerán objetivos, metas y lineamientos estratégicos generales y particulares.
 
-Si el Juez a quien se remitan las actuaciones estima a su vez ser incompetente, enviará los autos al tribunal Superior de Justicia para que éste resuelva el conflicto.
+2. El Programa Estatal de Desarrollo Sustentable tomará en consideración los elementos que aporten el diagnóstico ambiental de la entidad, el ordenamiento y los criterios ecológicos del territorio.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2026)</small>
+
+ARTICULO 20 BIS.
+
+La planeación ambiental del Estado fomentará incorporar criterios de agroecología en programas y políticas públicas, promoviendo sistemas productivos sustentables que conserven los recursos naturales, fortalezcan la resiliencia frente al cambio climático y favorezcan el bienestar de las comunidades.
 
 ###### ARTICULO 21.
 
-Fuera del caso previsto en el Artículo 15o., es válido lo actuado por el Juez incompetente, hasta la resolución que decide la situación jurídica, así como las diligencias más urgentes y los actos posteriores que no pueden ser renovados, si tienen jurisdicción penal, aún cuando no pertenezcan a esta entidad. En este último caso, se dará vista al Procurador General de Justicia, para que en el término de tres días siguientes a la fecha en que se le haga la notificación personal, manifieste si hace suya la acusación formulada.
+1. Son instrumentos económicos de este ordenamiento los supuestos y procedimientos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asumen los beneficios y costos ambientales que generen sus actividades, conduciéndolas a realizar acciones que favorezcan el medio ambiente.
 
-Las diligencias de averiguación previa no requieren repetirse para tener validez.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-### CAPITULO SEGUNDO. FORMALIDADES
+2. Son instrumentos económicos de carácter fiscal, los estímulos relacionados con el cumplimiento de obligaciones fiscales que incentiven la observancia de los objetivos de la política ambiental. La Secretaría asesorará a toda persona que realice actividades normadas por este Código, sobre la posibilidad de obtener estímulos fiscales.
+
+3. Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la conservación de los recursos naturales y el medio ambiente, así como al financiamiento de programas, proyectos, estudios e investigación científica y tecnológica para la preservación del equilibrio ecológico y la protección del medio ambiente.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+4. Son instrumentos de mercado las concesiones, autorizaciones, licencias y permisos que corresponden a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo, o bien, que establecen los límites de aprovechamiento de recursos naturales, o de construcción en áreas naturales protegidas o en zonas cuya preservación y protección se considere relevante desde el punto de vista ambiental, y con base en lo anterior para todos los trámites y servicios que se realice en la Secretaría, además de los requisitos previstos en el presente Código, las personas físicas y morales deberán presentar una "Constancia de No Adeudo Fiscal" expedida por la Oficina Fiscal del Estado.
+
+5. Las prerrogativas derivadas de los instrumentos económicos de mercado serán transferibles, no gravables y quedarán sujetas al interés público y al aprovechamiento sustentable de los recursos naturales.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+6. La Secretaría, con la participación que corresponda a las demás dependencias y entidades estatales, y sin demérito de la creación de otros instrumentos, propiciará la creación y administrará los Fideicomisos para la administración, protección, conservación y restauración de los recursos naturales; de fomento e incentivos al cumplimiento a la normatividad ambiental y, en general de, toda actividad vinculada con el desarrollo sustentable del Estado.
+
+### CAPITULO II. DE LA LEGALIDAD Y SUPLETORIEDAD
 
 ###### ARTICULO 22.
 
-Las actuaciones podrán practicarse a toda hora, aun en los días inhábiles, sin necesidad de previa habilitación. Salvo lo que dispone este Código en materia de plazos judiciales, en cada una de ellas se expresará lugar, hora y fecha en que se verifiquen.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+La Secretaría promoverá el otorgamiento de estímulos fiscales, financieros y de mercado a quienes:
+
+I. Adquieran, instalen u operen las tecnologías, sistemas, equipos y materiales o realicen las acciones que acrediten prevenir o reducir las emisiones contaminantes establecidas por las Normas Oficiales Mexicanas y las Normas Ambientales Estatales; o prevengan o reduzcan el consumo de agua o de energía; incorporen sistemas de recuperación y reciclamiento de las aguas de desecho, o que utilicen aguas tratadas o de reuso para sus funciones productivas, de conformidad con los programas que al efecto se establezcan;
+
+II. Realicen e impulsen el desarrollo tecnológico y de ecotecnias viables cuya aplicación demuestre prevenir o reducir las emisiones contaminantes, la producción de grandes cantidades de residuos sólidos urbanos, el consumo de agua o el consumo de energía, en los términos de los programas que al efecto se expidan; o
+
+III. Lleven a cabo actividades que garanticen la conservación sustentable de los recursos naturales.
 
 ###### ARTICULO 23.
 
-Las actuaciones deberán escribirse en idioma español, pues de lo contrario serán nulas de pleno derecho. Las promociones se harán en el mismo idioma, y cuando sean en idioma extranjero, se utilizará intérprete y los documentos escritos en lengua extranjera se presentarán con su traducción al español; en caso contrario, aquéllas y éstos no se tomarán en cuenta.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+El Estado, en el ámbito de su competencia, a través de la Secretaría, diseñará, desarrollará y aplicará instrumentos económicos que incentiven el cumplimiento de los objetivos de las políticas ambiental y de desarrollo sustentable, mediante los cuales se buscará:
+
+I. Promover una cultura ambientalista en las personas que realicen actividades productivas, de tal manera que el interés colectivo de protección ambiental y de desarrollo sustentable forme parte de sus responsabilidades de planeación económica;
+
+II. Fomentar la incorporación de información confiable y suficiente sobre las consecuencias, beneficios y costos ambientales al sistema de precios de la economía;
+
+III. Otorgar incentivos a quien realice acciones para la protección, preservación o restauración del equilibrio ecológico. Asimismo, actuará para que quienes dañen el medio ambiente, hagan un uso indebido de recursos naturales o alteren los ecosistemas, asuman los costos respectivos;
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2022)</small>
+
+IV. Promover una mayor equidad social, con perspectiva intercultural y de género, en la distribución de costos y beneficios asociados a los objetivos de las políticas ambientales y de desarrollo sustentable;
+
+V. Impulsar la participación de los sectores social y privado en proyectos de preservación, conservación y aprovechamiento sustentable de los recursos naturales y medio ambiente de competencia estatal; y
+
+VI. Procurar su utilización conjunta con otros instrumentos de política ambiental, en especial cuando se trate de observar umbrales o límites en la utilización de ecosistemas, de tal manera que se garantice su integridad y equilibrio, la salud y el bienestar de la población.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 24.
 
-El Juez y el Ministerio Público estarán acompañados, en las diligencias que practiquen, de sus Secretarios si los tuvieren, o de dos testigos de Asistencia, que darán fe de todo lo que en aquéllas pase.
+1. La Secretaría con la participación, en su caso, de otras dependencias podrá diseñar, instrumentar y aplicar programas temporales de fomento a la regularización voluntaria del cumplimiento de la normatividad, cuyo objeto será incentivar y promover entre los diversos sectores de la sociedad los beneficios de la certidumbre jurídica para sus obras o actividades, así como de la participación en el desarrollo sustentable.
 
-Las autoridades jurisdiccionales en su caso presidirán los actos de prueba y recibirán, por sí mismos, las declaraciones.
+2. La incorporación por parte de los particulares a estos programas no representará la exención del cumplimiento de la normatividad, sino el acceso a los beneficios que contengan, por lo que será atribución de la Secretaría aplicar en todo momento las disposiciones que correspondan, sujetándose a los procedimientos y acciones legales que establece este Código.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2005)</small>
-
-En las diligencias o actuaciones podrán emplearse, según el caso, a juicio del servidor público que las practique, la taquigrafía, el dictáfono, así como cualquier medio que tenga por objeto la reproducción de escritos, imágenes o sonidos, que podrá ser el convencional o mediante el uso de sistemas de informática. Cuando el inculpado esté privado de su libertad, o en libertad internado en un hospital, los tribunales podrán practicar diligencias por videoconferencia dando fe el Secretario de todo lo que en dicha actuación suceda.
-
-Por videoconferencia debe entenderse el servicio que permite que dos o más personas que se encuentren separadas físicamente, estén en contacto, visual y auditivo, empleando para ello una comunicación digital, bidireccional, en tiempo real de audio, video y datos; se hará constar en el acta el medio que se haya empleado en aquéllas.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+3. Los programas de regularización se instrumentarán a través de las bases que para tal efecto establezca la Secretaría, para lo cual publicará sus especificaciones en el Periódico Oficial del Estado.
 
 ###### ARTICULO 25.
 
-En ninguna actuación en su caso se emplearán abreviaturas, se rasparán o se borrarán las palabras equivocadas. Sobre éstas se pondrá una línea delgada que permita su lectura, lo que se salvará al final antes de firmar el acta. En igual forma se procederá con las palabras que se hubieren entre-renglonado.
-
-Toda actuación judicial, en su caso, concluirá con una línea, tirada desde la última palabra hasta terminar el renglón. Si éste se hubiere terminado, la línea se trazará abajo, antes de las firmas.
-
-Practicada la diligencia por videoconferencia, el secretario que dé fe del acto, dará lectura al encausado del acta levantada para que exprese si desea hacer algún agregado o aclaración.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+Las Normas Ambientales Estatales determinarán los parámetros dentro de los cuales se garanticen las condiciones necesarias para el bienestar de la población y para asegurar la preservación y restauración del equilibrio ecológico y la protección al medio ambiente en el Estado.
 
 ###### ARTICULO 26.
 
-Cada diligencia se asentará en acta por separado, en su caso.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-Cuando la diligencia se realice por videoconferencia, bastará que el Secretario del Juez o Magistrado que la presida haga constar y dé fe sobre la conformidad o inconformidad del encausado con el contenido del acta, sin que se requiera la firma de éste.
+La Secretaría emitirá las Normas Ambientales Estatales que tendrán por objeto:
 
-Con excepción de lo anterior, el inculpado, su defensor o la persona de su confianza, el ofendido, los peritos y los testigos firmarán al calce del acta que se levante relativo a la diligencia en que tomaron parte y al margen, en su caso, de cada una de las hojas donde se asiente aquélla.
+I. Establecer los requisitos, especificaciones, condiciones, procedimientos, metas, parámetros y límites permisibles que deberán observarse en regiones, zonas, cuencas o ecosistemas, en aprovechamiento de recursos naturales, en el desarrollo de actividades económicas, en el uso y destino de bienes, en insumos y en procesos;
 
-Si no supieren firmar, imprimirán también al calce y al margen, la huella de alguno de los dedos de la mano, debiéndose indicar en el acta cuál de ellos fue.
+II. Considerar las condiciones necesarias para el bienestar de la población y la preservación o restauración de los recursos naturales y la protección al medio ambiente;
 
-Si no quisieren o no pudieren firmar ni imprimir huella digital se hará constar el motivo.
+III. Estimular o inducir a los agentes económicos para reorientar sus procesos y tecnologías a la protección del medio ambiente y al desarrollo sustentable;
 
-El Ministerio Público firmará al calce y, si lo estima conveniente también al margen.
+IV. Otorgar certidumbre de largo plazo a la inversión e inducir a los agentes económicos a asumir los costos de la afectación ambiental que ocasionen; y
 
-Si antes de que se pongan las firmas o huellas los comparecientes hicieren alguna modificación o rectificación se hará constar inmediatamente, expresándose los motivos que dijeron tener para hacerla. Si fuere después, pero antes de retirarse los interesados, se asentará la modificación o rectificación en Acta que se levantará inmediatamente después de la anterior y que firmarán los que hayan intervenido en la diligencia.
-
-Todas las hojas del proceso serán numeradas progresivamente por el respectivo Secretario o Testigo de Asistencia que cuidarán también de poner el sello del Ministerio Público o Tribunal en el fondo del cuaderno, de manera que abarque las dos caras, rubricándolas en el centro.
-
-Además cuidarán de que los que intervengan en ella la firmen o estampen sus huellas digitales encima de su nombre puesto a máquina al margen.
-
-En caso de infracción a las disposiciones contenidas en este artículo, las actuaciones practicadas serán declaradas nulas en forma relativa y deberán reponerse a petición del Ministerio Público, del inculpado, del defensor de éste, o de su persona de confianza, o del agraviado en su caso; las partes podrán solicitar la declaración de nulidad de una actuación, dentro del término comprendido entre la fecha de la actuación misma y los tres días siguientes a aquél en que sea notificada la subsecuente actuación.
+V. Fomentar actividades productivas en un marco de eficiencia y sustentabilidad.
 
 ###### ARTICULO 27.
 
-En caso de infracción de las disposiciones contenidas en este capítulo, se sancionará con una corrección disciplinaria.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La Secretaría desarrollará un Sistema Estatal de Información Ambiental y de Recursos Naturales que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental estatal, el cual estará disponible para su consulta.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+2. En dicho Sistema, la Secretaría deberá integrar, entre otros, los siguientes elementos:
+
+I. La información relativa a los inventarios de recursos naturales existentes en el territorio estatal, a los mecanismos y resultados obtenidos del monitoreo de la calidad del agua, del suelo y del aire, así como del ordenamiento ecológico del territorio;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+II. Un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia y de aquellas sustancias que determine la autoridad correspondiente. La información de este registro incorporará datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría, o en su caso ante la autoridad competente de los Municipios. Las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información, datos y documentos necesarios para la integración del presente registro, el cual se integrará con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro; y
+
+III. La información correspondiente a los registros, programas y acciones que se realicen para la preservación del equilibrio ecológico y la protección al medio ambiente.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas, trabajos técnicos o de cualquier otra índole en materia ambiental y de preservación de recursos naturales, realizados en el Estado por personas físicas o morales, nacionales o extranjeras, los que serán remitidos al Sistema Estatal de Información Ambiental y de Recursos Naturales.
+
+4. El Estado participará con la Secretaría Federal en la integración del Sistema Nacional de Información Ambiental y de Recursos Naturales, a través del acuerdo de coordinación que al efecto se celebre.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+5. Los Municipios deberán participar con la Secretaría en la integración del Sistema Estatal de Información Ambiental y de Recursos Naturales, a través de los acuerdos de coordinación que al efecto se celebren.
 
 ###### ARTICULO 28.
 
-Cuando a juicio del Juez no se entorpezca el proceso, podrá autorizar al Ministerio Público adscrito para que estudie los expedientes fuera del Tribunal. El inculpado, su defensor y el ofendido podrán enterarse de los autos en la Secretaría del Tribunal, debiéndose tomar las medidas necesarias para que no los destruyan, alteren o substraigan.
+1. La información a que se refiere la fracción II del párrafo 2 del artículo anterior se integrará, sistematizará y difundirá por medio del Registro Estatal Ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+2. En específico se mantendrán los datos sobre las sustancias emitidas al medio ambiente o transferidas a sistemas de tratamiento o disposición, que puedan ocasionar un impacto significativo sobre la salud humana y los ecosistemas.
 
 ###### ARTICULO 29.
 
-Cualquier persona podrá solicitar por escrito copia simple o certificada de las constancias, registros y grabaciones del proceso. Lo anterior con excepción de los casos en que la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, obligue a la autoridad a negar el acceso público a la información, en los cuales sólo las partes legitimadas o quienes ellas autoricen podrán consultar y obtener copias de los expedientes.
+1. Están obligados a inscribirse en el Registro Estatal Ambiental, las personas físicas o morales que realicen actividades de competencia estatal, conforme a lo dispuesto por el presente Código.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-El Juez o Magistrado dictará las medidas que sean conducentes, para tal efecto.
+2. La Cédula de Operación Anual deberá ser presentada ante la Secretaría por el representante autorizado de quienes realicen actividades comprendidas por la competencia estatal.
 
 ###### ARTICULO 30.
 
-Si se perdiera algún expediente, se repondrá a costa del responsable, quien estará obligado a reparar los daños y perjuicios que se ocasionen por la pérdida, y además el Juez dará vista al Ministerio Público. Cuando no sea posible reponer todas las actuaciones, se tendrá por probada plenamente la existencia de las que se inserten en el auto de detención, en el de formal prisión o de sujeción a proceso, o en cualquiera otra resolución de que haya constancia, siempre que no se haya objetado oportunamente la exactitud de la inserción o cita que de ella se haga.
+1. (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
-La reposición se substanciará conforme al procedimiento previsto para los incidentes no especificados.
+2. La Cédula de Operación Anual deberá llenarse conforme a los siguientes lineamientos, los cuales serán obligatorios de acuerdo a la empresa o actividad de que se trate:
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+#### Sección Primera.- Datos de Registro, que comprenden los datos generales del establecimiento e Información Técnica General, que comprende la operación y funcionamiento, materias primas e insumos, productos y consumo energético del establecimiento.
+
+#### Sección Segunda. Contaminación Atmosférica, que describe la generación de contaminantes, parámetros normados y las emisiones anuales del establecimiento.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+#### Sección Tercera.- Registro de Transferencias de Contaminantes en el Agua, que describe el aprovechamiento de agua, datos generales de descarga y las características de las descargas de aguas residuales del establecimiento.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+#### Sección Cuarta.- Registro de Residuos Sólidos Urbanos y de Manejo Especial, que se refiere a la generación, manejo, reciclaje, transferencia, almacenamiento, transporte y disposición de residuos sólidos urbanos y de manejo especial.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Sección Quinta.- Emisión y Transferencia de Contaminantes que describe el uso, producción y/o comercialización dentro del establecimiento, cantidad anual consumida, almacenada, producida o emitida a cualquier otro medio, transferida fuera del establecimiento y de los derivados de accidentes y contingencias de las sustancias listadas en la Norma Oficial Mexicana y/o Norma Ambiental Estatal que se emitan para tal efecto.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+#### Sección Sexta.- Registro de emisión de ruido y vibraciones, que describe los niveles detectados, fuente emisora, y tipo de medición de ruido y vibraciones del establecimiento.
+
+3. La información anterior será para efectos de control en el cumplimiento de las disposiciones aplicables y para fines estadísticos, independientemente de la competencia municipal, estatal o federal que corresponda.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 30 BIS.
+
+1. La información proporcionada en la Cédula de Operación Anual deberá reportarse con las emisiones y transferencias de contaminantes ocurridas durante el año inmediato anterior. El reporte se presentará cada año, en los periodos que se establecen a continuación:
+
+I. Los establecimientos de personas físicas o morales que comiencen con un número, símbolo, o con las letras "A", "B", "C", "D" y "E", deberán presentar su reporte en el mes de febrero;
+
+II. Los establecimientos de personas físicas o morales que comiencen con las letras "F", "G", "H", "I", "J", "K", "L", "M", "N", "Ñ" y "O", deberán presentar su reporte en el mes de marzo; y
+
+III. Los establecimientos de personas físicas o morales que comiencen con las letras "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y" y "Z", deberán presentar su reporte en el mes de abril.
+
+2. Sin perjuicio de lo anterior, se podrá presentar el reporte en el mes de enero sin tomar en cuenta el carácter con el que comience su razón social.
+
+3. En caso de exhibir la información proporcionada a través de la Cédula de Operación Anual fuera de los periodos de recepción establecidos en el párrafo anterior y se encuentren dentro del año que le corresponde su reporte, se considerará como presentado en forma extemporánea; en el caso de no ser presentada dentro del año que le corresponda su reporte, se haya desechado o declarado caducidad, se considerará como que no se ha presentado reporte en el periodo anual correspondiente.
 
 ###### ARTICULO 31.
 
-Las promociones que se hagan por escrito, deberán ser firmadas por su autor, pudiéndose ordenar su ratificación cuando se estime necesario. Siempre deberán ser ratificadas, cuando el promovente sólo estampa sus huellas digitales.
+Para obtener el Registro Estatal Ambiental, se seguirá el siguiente procedimiento:
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+I. El establecimiento promovente solicitará a las autoridades ambientales estatales el formato de la Cédula de Operación Anual, o bien podrá obtenerlo vía electrónica en la página de Internet de la Secretaría;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+II. Llenado el formato, el establecimiento promovente entregará físicamente la base de datos generada por el programa de reporte de la Cédula de Operación Anual; y
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+III. Para todos los trámites y servicios que se realizan en esta Secretaría, además de los requisitos previstos en el presente Código, reglamentos y manuales de procedimientos, guías y todos los señalados en la página de internet de la Secretaría, las personas físicas y morales deberán presentar una "Constancia de No Adeudo Fiscal" expedida por la Oficina Fiscal del Estado.
 
 ###### ARTICULO 32.
 
-Los secretarios deberán dar cuenta al Juez o Magistrado, en su caso, dentro del término de veinticuatro horas, de las promociones que se hicieren. Para tal efecto, se hará constar en los expedientes el día y la hora en que se presenten por escrito o se hagan en forma verbal.
+1. En caso de que alguna persona física o moral tenga dos o más plantas en predios distintos, deberá obtener un Registro Estatal Ambiental por cada establecimiento.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La Secretaría recibirá la información del reporte y verificará el llenado de los campos del formato.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. Llenado correctamente el formato de la Cédula de Operación Anual, la Secretaría emitirá un oficio de conformidad en el cual se incluye el número que corresponda al Registro Estatal Ambiental del establecimiento.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. En caso de que el llenado de los campos de la Cédula de Operación Anual esté incompleto o haya sido incorrectamente llenado, la Secretaría, enviará una notificación al establecimiento promovente indicando las razones de devolución y otorgándole un plazo de 5 días hábiles para que presente el formato debidamente corregido.
 
 ###### ARTICULO 33.
 
-Las actuaciones deberán ser autorizadas inmediatamente por los funcionarios a quienes corresponda firmar, dar fe o certificar el acto.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-### CAPITULO TERCERO. INTERPRETES
+1. La Secretaría, evaluará la información contenida en la Cédula de Operación Anual, en un plazo no mayor de 60 días hábiles, y hará el asiento correspondiente en el Registro Estatal Ambiental. A su vez generará un reporte anual de la condición ambiental de la entidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+2. En caso que de los informes recibidos se desprenda el incumplimiento de leyes, reglamentos y normas de competencia estatal, el establecimiento deberá apegarse al proceso de regulación, a través del procedimiento administrativo correspondiente, sin demérito de las sanciones a que se haga acreedor.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+### CAPITULO III. DE LA UTILIDAD PUBLICA Y EL INTERES SOCIAL EN EL DESARROLLO SUSTENTABLE
 
 ###### ARTICULO 34.
 
-Cuando el inculpado, la víctima o el ofendido, el denunciante, los testigos o los peritos no hablen o no entiendan suficientemente el idioma español se les nombrará a petición de parte o de oficio, uno o más traductores, quienes deberán traducir fielmente las preguntas y contestaciones que hayan de transmitir.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
-
-Cuando lo solicite cualesquiera de las partes, podrá escribirse la declaración en el idioma del declarante, cuando sea factible, sin que esto obste para que el traductor haga la traducción.
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1991)</small>
-
-Cuando no pudiere ser habido un traductor mayor de edad, podrá nombrarse a un menor que haya cumplido quince años.
+La Secretaría deberá elaborar y publicar un informe detallado de la situación general existente en el Estado en materia de equilibrio ecológico y protección al medio ambiente, por lo menos con una periodicidad de cada dos años.
 
 ###### ARTICULO 35.
 
-Las partes podrán recusar al intérprete motivando la recusación, y el funcionario que practique las diligencias resolverá de plano y sin recurso.
+1. Toda persona tendrá derecho a que la Secretaría o, en su caso, los Municipios, pongan a su disposición la información ambiental que les soliciten, debiendo formular el requerimiento en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+2. La Secretaría y, en su caso, los Ayuntamientos, se abstendrán de entregar la información cuando el contenido de la misma se encuentre clasificada como información de acceso restringido, de acuerdo a lo previsto por la Ley de Transparencia y Acceso a la información Pública del Estado de Tamaulipas.
+
+3. Los promoventes, en la presentación de datos, manifestaciones, contestaciones, informes y, en general, toda documentación, podrán solicitar que se mantenga en reserva aquella información que, de hacerse pública pudiera afectar sus derechos de propiedad industrial y la confidencialidad de la información comercial que contengan. Dicha solicitud será resuelta por el titular de la Unidad de Información Pública de la Secretaría, de acuerdo con la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
 
 ###### ARTICULO 36.
 
-Si el inculpado, la víctima o el ofendido, el denunciante, o los testigos fueren sordos, mudos o ambos, se le nombrará como intérprete a una persona que pueda comprenderlo, siempre que sea mayor de catorce años; y en este caso se observará lo dispuesto en los artículos anteriores.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2023)</small>
+
+1. El Estado y los Municipios, en coordinación con los sectores público, social y privado promoverán la incorporación de contenidos que fomenten la cultura ambiental y de desarrollo sustentable, a través del Sistema Educativo Estatal y de la formación cívica.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2023)</small>
+
+Las dependencias y entidades del Gobierno del Estado, los Municipios, el Congreso del Estado de Tamaulipas, el Supremo Tribunal de Justicia del Estado y demás órganos autónomos, establecerán en sus oficinas y dependencias sistemas de manejo ambiental, los cuales tendrán por objeto prevenir, minimizar y evitar la generación de residuos y aprovechar su valor. Para tal efecto, se promoverá la adquisición y uso de objetos desechables elaborados a partir de materia orgánica, biodegradable o de bajo impacto ecológico.
+
+2. Asimismo, propiciarán el fortalecimiento de la responsabilidad ambiental, a través de campañas de sensibilización y concientización.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría alentará la adopción de programas extracurriculares en el Sistema Educativo Estatal, para promover la importancia, protección y mejoramiento del medio ambiente.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. La Secretaría, asimismo, promoverá la participación de los medios de comunicación masiva en el fortalecimiento de la conciencia ecológica y las políticas para el desarrollo sustentable en el Estado.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2023)</small>
+
+5. El Estado y los Municipios, en el ámbito de sus respectivas competencias, promoverán la investigación, desarrollo y aplicación de tecnologías, equipos, procesos y sistemas que permitan prevenir, controlar y abatir la contaminación en la producción, uso y disposición de artículos fabricados total o parcialmente de plástico, diseñados para su desecho después de un solo uso, excepto los que sean compostables, incluidas las bolsas de plástico, a fin de contribuir a que en su ciclo de vida se minimicen los impactos negativos al ambiente, así como a la reducción en la fuente, separación, reutilización y, en su caso, el reciclaje de las mismas.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+6. Para la protección ambiental del Estado de Tamaulipas y sujeto a los términos señalados en esta Ley y de las disposiciones que de ella emanen, se restringe la venta, dádiva y uso de bolsas en supermercados, tiendas de autoservicio, tiendas de conveniencia, mercados y demás similares elaboradas con polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+7. Quedan exentas de la restricción del párrafo anterior aquellas bolsas que hayan sido producidas incorporando un porcentaje mínimo de treinta por ciento (30%) de material reciclado y que la fabricación de dichas bolsas de plástico sea con materiales y procesos de tecnología que permitan su ágil degradación acorde a la norma NMX-E- 267 o las que la sustituyan.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2023)</small>
+
+8. Asimismo, queda restringida la comercialización, distribución y entrega de tenedores, cuchillos, cucharas, palitos mezcladores, platos, popotes o pajitas, bastoncillos para hisopos de algodón, globos y varillas para globos, vasos y sus tapas, charolas para transportar alimentos, fabricados total o parcialmente de plásticos, diseñados para su desecho después de un solo uso, excepto los que sean compostables.
+
+Quedan excluidos de lo anterior:
+
+I. Los plásticos que se encuentren integrados de origen al producto para brindar higiene en el consumo del mismo;
+
+II. Aquellos que, por motivos de inocuidad, salud, salubridad, sanidad, uso médico y seguridad de otros productos, hasta en tanto no exista una alternativa compostable; y
+
+III. Aquellos que sean reutilizables, con contenido de material reciclado post- consumo y que sean reciclables.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 37.
 
-A los sordomudos y a los mudos que sepan leer y escribir, se les interrogará por escrito o por medio de un intérprete.
+La Secretaría promoverá ante las instituciones de educación superior incorporadas al Sistema Educativo Estatal y los organismos dedicados a la investigación científica y tecnológica del Estado, el desarrollo de programas para la formación de profesionales en la materia y para la investigación de las causas y efectos de los fenómenos ambientales en el ámbito local; así como programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación y proteger los servicios ambientales, ecosistemas y recursos naturales de Tamaulipas.
 
-### CAPITULO CUARTO. DESPACHO DE NEGOCIOS
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+### CAPITULO I. DE LAS PREVISIONES GENERALES
 
 ###### ARTICULO 38.
 
-Los Jueces y Tribunales, en todo lo que la Ley no prohíba o prevenga expresamente, podrán dictar los trámites y providencias encaminadas a que la justicia sea pronta, expedita y eficaz.
+1. Los poderes Ejecutivo, Legislativo y Judicial del Estado, los Ayuntamientos, así como los organismos autónomos, implementarán sistemas de manejo ambiental en todas sus dependencias, entidades y oficinas, así como programas de capacitación y mejoramiento ambiental en la prestación de los servicios públicos, los que tendrán por objeto prevenir y minimizar la generación de residuos y aprovechar su valor, a través de:
+
+I. La promoción de una cultura de responsabilidad ambiental en los servidores públicos;
+
+II. La disminución del impacto ambiental generado por las actividades administrativas de sus dependencias, entidades y oficinas; y
+
+III. La eficiencia administrativa por medio del consumo racional y sustentable de los recursos naturales, energéticos, materiales y financieros.
+
+2. Asimismo, promoverán que en sus procesos de adquisiciones de bienes para la prestación de sus servicios y cumplimiento de sus funciones, se opte por la utilización y el consumo de productos compuestos total o parcialmente de materiales valorizables.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría prestará su apoyo a los poderes Legislativo y Judicial del Estado, los Ayuntamientos y a los organismos autónomos en la formulación de los sistemas de manejo ambiental. A su vez, en el ámbito del poder Ejecutivo establecerá los criterios para la implementación de estos sistemas.
 
 ###### ARTICULO 39.
 
-La iniciación de todo procedimiento judicial será comunicada al Tribunal Superior de Justicia del Estado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1997)</small>
+El Estado, a través de la Secretaría, promoverá la participación de la sociedad en la formulación de la política ambiental y de desarrollo sustentable de la entidad federativa, en la aplicación de sus instrumentos, en las acciones de información, vigilancia y, en general, en los programas ambientales que emprenda, para lo cual podrá:
+
+I. Convocar a los particulares, a las organizaciones de los sectores social y privado y de carácter académico y cívico, para que manifiesten su opinión y propuestas;
+
+II. Celebrar, con la participación de las autoridades competentes, con organizaciones obreras y grupos sociales, comunidades agrarias y demás organizaciones campesinas, organizaciones empresariales, instituciones educativas y académicas, organizaciones civiles e instituciones privadas no lucrativas, representaciones sociales y, en general, particulares interesados en la conservación y restauración del medio ambiente en el Estado, convenios de colaboración para: la protección del medio ambiente y los recursos naturales; el establecimiento, administración y manejo de áreas naturales protegidas de competencia estatal; asesoría ambiental en las actividades relacionadas con el aprovechamiento y desarrollo sustentable de los recursos naturales; la realización de estudios e investigaciones en materia ambiental, de desarrollo sustentable, así como para la capacitación en la materia; la planeación y ejecución de acciones conjuntas y demás actividades convenientes a favor del desarrollo sustentable;
+
+III. Celebrar convenios con los medios de comunicación masiva para la difusión, información y promoción de acciones a favor de la formación de las culturas ambiental y de desarrollo sustentable en el Estado;
+
+IV. Promover el establecimiento de reconocimientos a los esfuerzos más destacados de la sociedad en el Estado para preservar y restaurar el medio ambiente en el mismo;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+V. Impulsar el fortalecimiento de la conciencia ambiental, a través de la realización de acciones conjuntas con la comunidad, grupos e instituciones interesadas para la conservación y mejoramiento del medio ambiente y el correcto manejo de residuos en la entidad; al efecto, la Secretaría podrá, en forma coordinada con los Ayuntamientos, celebrar convenios de colaboración con comunidades urbanas y rurales, así como con diversas organizaciones sociales en el Estado;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+VI. Concertar acciones e inversiones con los particulares y con organizaciones de los sectores social y privado y de carácter académico y cívico para la conservación y restauración del medio ambiente en la entidad; y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+VII. Fomentará acciones encaminadas a que los establecimientos de alimentos y bebidas no promuevan el consumo de popotes y agitadores de plástico para bebidas, salvo que el usuario así lo disponga.
 
 ###### ARTICULO 40.
 
-Las promociones e informes verbales que se reciban durante el procedimiento, que no sean de las que se formulen en el acto de una notificación, podrán hacerse ante los Secretarios, así como la ratificación de las que se hagan por escrito cuando aquélla se ordena. De todos ellos se tomará razón escrita. Lo mismo se observará cuando el informe se reciba vía telefónica.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-En caso de urgencia, los Magistrados o Jueces podrán comisionar a sus Secretarios para la práctica de cualquier acto judicial, incluyendo las notificaciones.
+1. La Secretaría otorgará anualmente el Premio al Desarrollo Sustentable en coordinación con otras autoridades, a aquellas personas físicas o morales que hayan realizado acciones o creado programas relevantes y factibles para la protección, preservación o restauración del equilibrio ecológico y la sustentabilidad del desarrollo.
+
+2. El premio consistirá en un reconocimiento público y conllevará un incentivo económico que será previsto anualmente en el presupuesto de egresos de la dependencia.
+
+# LIBRO SEGUNDO. DE LA PROTECCION AMBIENTAL
 
 ###### ARTICULO 41.
 
-Cuando en la instrucción de un proceso se encontrare que el hecho tiene conexión con otros que estén en período de instrucción, se dará conocimiento de ello al Ministerio Público y a la defensa, para que promuevan lo que corresponda.
+Las disposiciones de este Libro tienen por objeto la protección del medio ambiente, propiciar un desarrollo sustentable en la entidad y establecer las bases para:
+
+I. El aprovechamiento sustentable, la conservación, restauración y mejoramiento del medio ambiente, en bienes y zonas de jurisdicción del Estado;
+
+II. La regulación de la conservación y protección de la biodiversidad;
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+III. La prevención y el control del deterioro del aire, agua y suelo, en los casos no reservados a la Federación; y
+
+IV. La regulación de obras o actividades de carácter público o privado de competencia local, que puedan causar deterioro ambiental o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger, preservar y restaurar los diversos ambientes naturales y antropogénicos, a fin de evitar o reducir al máximo sus efectos negativos.
 
 ###### ARTICULO 42.
 
-Los tribunales tienen el deber de mantener el buen orden, de exigir que se les guarde tanto a ellos como a las demás autoridades el respeto y la consideración debidos, aplicando en el acto, por las faltas que se cometan, las correcciones disciplinarias que este Código señala.
+1. Para los efectos de este Libro se entiende por:
 
-Si las faltas llegaren a constituir delito, se hará del conocimiento del Ministerio Público, remitiendo también el acta que con motivo de tal hecho deberá levantarse.
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+I. Aguas de jurisdicción estatal: las existentes dentro del territorio del Estado, siempre que no estén comprendidas en algunos de los casos de jurisdicción nacional o de propiedad particular, que se señalan en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Aguas residuales: las aguas de composición variada, provenientes de las descargas de usos público urbanos, doméstico, industrial, comercial de servicios, agrícola, pecuario de las plantas de tratamiento y en general de cualquier uso, así como la mezcla de ellas;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+II Bis. Constancia de No Adeudo Fiscal: Documento que consta que no se tiene adeudo alguno en Contribuciones registradas en el Estado de personas físicas y/o morales, el cual es requisito indispensable para la obtención de otros servicios o derechos;
+
+III. Cuerpo receptor: la corriente o depósito natural de agua, presas, cauces, zonas marinas o bienes estatales donde se descargan aguas residuales, así como los terrenos en donde se infiltran dichas aguas, cuando puedan contaminar los suelos, subsuelo o acuíferos;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Descarga de aguas residuales: la acción de verter, infiltrar, depositar o inyectar aguas residuales a un cuerpo receptor, fosa séptica, alcantarillado y/o drenaje municipal;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V. Emisión: la liberación al ambiente de toda sustancia, en cualquiera de sus estados físicos o cualquier tipo de energía, proveniente de una fuente;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V Bis. Emisión canalizada o conducida: la emisión que esté conducida por un ducto o chimenea que permita la salida a la atmósfera de gases provenientes de un proceso;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V Ter. Emisión fugitiva: las emisiones de gases no controladas generadas en los procesos productivos de los establecimientos comerciales, de servicio o industriales y que no están conducidos a la atmósfera;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V Quáter. Establecimiento de servicios: la instalación cuya actividad principal está dedicada a la venta de un valor intangible, como lo es la consultoría legal, médica o financiera, a su vez, también se incluyen las actividades de arrendamiento de bienes o productos para que la persona consumidora obtenga sus beneficios, sin que este se convierta en propietaria de dichos activos;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V Quinquies. Establecimiento industrial: la instalación cuya actividad económica principal está dedicada a la producción o manufactura de materiales, sustancias o productos que han sufrido una transformación;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V Sexies. Establecimiento mercantil o comercial: la instalación cuya actividad principal está dedicada a la compra y/o venta de bienes o distribuidores o el consumidor final;
+
+VI. Estudio de daño ambiental: el análisis de la relación causal entre hechos, naturales o no, actos u omisiones, y el impacto negativo al medio ambiente, que define sus cualidades, cuantificación y medidas de compensación y, en el caso de que ésta no sea posible, la reparación del daño ambiental causado;
+
+VII. Estudio de riesgo: el análisis de los riesgos inherentes a las acciones previstas para el desarrollo de la obra o actividad y los efectos potenciales al medio ambiente, así como las medidas de seguridad tendientes a evitar, minimizar o controlar estas afectaciones en caso de accidente;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VII Bis. Evaluación de daños ambientales: el procedimiento científico y técnico a través del cual las autoridades estatales y organismos autorizados identifican las alteraciones o efectos negativos que hayan modificado el medio ambiente, sus recursos y el equilibrio de los ecosistemas, con el objeto de determinar las acciones correctivas, de compensación y de restauración a que la obra o actividad se sujeta, a fin de evitar o reducir al mínimo sus consecuencias negativas en el medio ambiente;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VIII. Fuente fija de contaminación atmosférica: la instalación establecida en un sólo lugar, que genere o pueda generar emisiones contaminantes a la atmósfera;
+
+IX. Fuente móvil de contaminación atmosférica: todo medio operativo móvil que genere o puede generar emisiones contaminantes a la atmósfera;
+
+X. Infiltración de aguas residuales: el proceso natural o inducido, mediante el cual las aguas residuales llegan al subsuelo;
+
+XI. Manifestación del impacto ambiental: el documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+
+XII. Medidas de prevención y mitigación: las disposiciones que tienen por objeto prevenir o reducir los impactos ambientales que pudieran ocurrir en cualquier etapa de desarrollo de una obra o actividad;
+
+XIII. Ruido: todo sonido estridente provocado por cuerpos fijos o móviles, susceptible de causar molestia, riesgos o perjuicios a las personas, al medio ambiente o a los ecosistemas, conforme a las Normas Oficiales Mexicanas o las Normas Ambientales Estatales;
+
+XIV. Sistema de drenaje y alcantarillado urbano o municipal: el conjunto de dispositivos o instalaciones que tienen como propósito recolectar y conducir aguas residuales o municipales, pudiendo incluir la captación de aguas pluviales; y
+
+XV. Tratamiento de aguas residuales: el proceso al cual se someten las aguas residuales, con el objeto de disminuir o eliminar los contaminantes que contengan.
+
+2. En los casos no previstos por este Libro, se considerarán supletoriamente las definiciones establecidas por la Ley General y demás legislación general y local aplicable.
 
 ###### ARTICULO 43.
 
-El Ministerio Público, dentro de la averiguación previa, podrá imponer las correcciones disciplinarias que este Código señala, por las faltas que cometan las personas que en ella participen.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
+1. La aplicación del presente Libro corresponde al Ejecutivo del Estado, por conducto de la Secretaría, y a los Municipios a través de sus Ayuntamientos y las dependencias de los mismos, dentro del ámbito de sus respectivas competencias.
+
+2. En el cumplimiento de sus funciones, el Estado y los Ayuntamientos deberán observar los principios, políticas y criterios de desarrollo sustentable, previstos en el presente Código, así como en las Normas Oficiales Mexicanas y las Normas Ambientales Estatales, a fin de proteger el medio ambiente y asegurar la sustentación del desarrollo.
 
 ###### ARTICULO 44.
 
-Cuando se imponga alguna corrección disciplinaria, se oirá al interesado dentro de las veinticuatro horas siguientes a la en que se le haga saber de ésta.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-En vista de lo que manifieste el interesado, se resolverá lo procedente.
+Corresponden al Estado, por conducto de la Secretaría, las siguientes atribuciones:
+
+I. Aplicar y hacer cumplir lo dispuesto en este Libro;
+
+II. Proponer los elementos al Consejo de Gobierno para el Desarrollo Sustentable para la formulación de la política ambiental estatal y de los criterios ecológicos particulares en el territorio de la entidad federativa así como conducir su ejecución;
+
+III. Proponer y ejecutar el Programa Estatal de Desarrollo Sustentable, así como los instrumentos de política ambiental previstos en las leyes estatales en la materia, para la preservación y restauración del equilibrio ecológico y la protección al ambiente que se realice en bienes y zonas de jurisdicción estatal, en las materias que no estén expresamente atribuidas a la Federación;
+
+IV. Aplicar los instrumentos de política ambiental previstos en las leyes locales en la materia, así como prevenir y restaurar el equilibrio ecológico y la protección al medio ambiente que se realice en bienes y zonas de jurisdicción estatal, en las materias que no estén expresamente atribuidas a la Federación:
+
+V. Prevenir y controlar la contaminación atmosférica, generada por fuentes fijas que funcionen como establecimientos industriales, que conforme a la Ley General no sean de competencia federal;
+
+VI. Integrar, actualizar permanentemente y publicar el inventario de fuentes fijas de contaminación atmosférica de su competencia;
+
+VII. Prevenir y controlar la contaminación de la atmósfera proveniente de fuentes móviles que no sean de competencia federal;
+
+VIII. Establecer, operar, regular y, en su caso, concesionar y supervisar, previo estudio justificativo de conveniencia, los sistemas de verificación de emisiones de contaminantes de la atmósfera de las fuentes móviles que circulen en el territorio estatal;
+
+IX. Certificar los niveles de emisión de contaminantes a la atmósfera;
+
+X. Regular el aprovechamiento sustentable de los recursos naturales, prevenir y controlar la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que el Estado tengan asignadas;
+
+XI. Prevenir y controlar la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales al medio ambiente, proveniente de fuentes fijas que funcionen como establecimientos industriales;
+
+XII. Regular y controlar las actividades consideradas riesgosas, que no sean competencia de la Federación, cuando afecten o puedan afectar al medio ambiente, el equilibrio ecológico de los ecosistemas, o exista un riesgo por la gravedad de los efectos que puedan generar en la salud de las personas dentro del territorio del Estado;
+
+XIII. Realizar acciones de protección al medio ambiente, coordinadamente con las demás dependencias y entidades de la administración pública o con los sectores social y privado para garantizar la transversalidad de la política ambiental estatal;
+
+XIV. Regular y controlar con fines ecológicos, el aprovechamiento de los minerales o sustancias no reservadas a la Federación, que constituyan depósitos naturales como roca o productos de su descomposición y que se utilicen para la fabricación de materiales para la construcción u ornamento;
+
+XV. Prevenir la generación y participar en emergencias y contingencias ambientales, conforme a las políticas y programas de protección civil que al efecto se establezcan;
+
+XVI. Formular, expedir y ejecutar los programas de ordenamiento ecológico regional con la participación de los Ayuntamientos respectivos, y atender los asuntos que afecten el equilibrio ecológico o el medio ambiente de dos o más municipios;
+
+XVII. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en las materias y supuestos que se encuentren dentro de la esfera de su competencia así como formular, actualizar, aplicar y verificar el cumplimiento de las Normas Ambientales Estatales, en su caso;
+
+XVIII. Formular y conducir la política estatal de información y difusión en materia ambiental, así como coadyuvar con la Secretaria de Educación en el establecimiento y ejecución de la educación de dicha materia;
+
+XIX. Promover la participación de la sociedad en materia ambiental, de conformidad con lo dispuesto en este Código;
+
+XX. Regular el impacto ambiental de las obras o actividades que no se encuentren expresamente reservadas a la Federación;
+
+XXI. Formular, ejecutar y evaluar el Programa Estatal de Desarrollo Sustentable, en los términos de la Ley Orgánica de la Administración Pública del Estado y la Ley Estatal de Planeación;
+
+XXII. Emitir recomendaciones a las autoridades competentes en materia de desarrollo sustentable, con el propósito de promover el cumplimiento de la legislación que regula esta materia;
+
+XXIII. Atender coordinadamente con la Federación asuntos que afecten el equilibrio ecológico del territorio estatal;
+
+XXIV. Atender cuestiones que afecten el equilibrio ecológico o el medio ambiente del territorio del Estado y de otra u otras entidades, coordinándose con la Federación cuando su naturaleza así lo requiera;
+
+XXV. Coordinar la política estatal sobre cambio climático, de protección a la capa de ozono y de atención y reversión a los problemas de gases efecto invernadero;
+
+XXVI. Instrumentar, aplicar y administrar el cobro y pago de servicios ambientales en el Estado;
+
+XXVII. Denunciar ante el Ministerio Público los hechos u omisiones considerados como delitos contra el medio ambiente y los recursos naturales;
+
+XXVIII. Diseñar, instrumentar y aplicar programas temporales de fomento a la regularización voluntaria del cumplimiento a la normatividad ambiental;
+
+XXIX. Expedir y controlar el Registro de Prestadores de Servicios Técnicos en Materia Ambiental;
+
+XXX. Formular y publicar los listados de las actividades riesgosas, así como de las obras o actividades que generen un impacto ambiental y que deben sujetarse a la presentación de una manifestación para su evaluación;
+
+XXXI. Clausurar y suspender las obras o actividades cuando violenten las disposiciones de este Código y, en su caso, solicitar la revocación y cancelación de las licencias de construcción y uso de suelo;
+
+XXXII. Aplicar las medidas correctivas y de seguridad, así como las sanciones administrativas que procedan, por infracciones a este Código;
+
+XXXIII. Establecer y operar el Sistema de Ventanilla Única en materia ambiental;
+
+XXXIV. Formular, expedir y ejecutar los programas de ordenamiento ecológico regional, con la participación de los Ayuntamientos respectivos;
+
+XXXV. (DEROGADA, P.O. 7 DE ENERO DE 2010)
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2022)</small>
+
+XXXVI. Fomentar la cultura de un trato digno y respetuoso a los animales, así como la importancia de la adopción, vacunación, desparasitación y las consecuencias ambientales, sociales y de salud pública que genera el abandono y la libre reproducción de animales de compañía;
+
+XXXVII. Atender los demás asuntos que se prevén en este Libro y otros ordenamientos concordantes con el mismo, y que no se encuentren otorgados expresamente a la Federación; y
+
+XXXVIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas.
 
 ###### ARTICULO 45.
 
-Por ningún acto judicial se pagarán costas. El funcionario o empleado que las cobre o que reciba alguna cantidad, aunque sea a título de gratificación, será de plano destituido de su cargo, sin perjuicio de las demás sanciones que prevé el Código Penal.
+Corresponden a los Municipios por conducto de los Ayuntamientos las siguientes atribuciones:
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+I. Preservar, restaurar y proteger el medio ambiente en sus respectivas circunscripciones territoriales, salvo que se trate de asuntos de competencia del Estado o de la Federación;
+
+II. Formular, conducir y evaluar la política ambiental municipal y el Programa Municipal de Desarrollo Sustentable, en forma coherente con las políticas federal y estatal;
+
+III. Aplicar los instrumentos de política ambiental previstos en las leyes locales en la materia y preservar y restaurar el equilibrio ecológico y la protección al medio ambiente en ámbitos de competencia municipal, en las materias que no estén expresamente atribuidas a la Federación o al Estado;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Formular y expedir los programas de ordenamiento ecológico local del territorio en los términos previstos en el presente Libro, así como controlar y vigilar el uso y cambio de uso del suelo, establecidos en dichos programas, atendiendo lo dispuesto por la legislación estatal vigente en la materia;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+V. Vigilar, en forma coordinada con la Secretaría, el cumplimiento de las disposiciones jurídicas de fuentes fijas que funcionen como establecimientos comerciales o de servicios, así como de emisiones de contaminantes a la atmósfera provenientes de fuentes móviles que no sean de competencia federal;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+VI. Ejercer medidas de prohibición a la circulación de los vehículos automotores, cuyos niveles de emisión de contaminantes a la atmósfera rebasen ostensiblemente los límites máximos permisibles, que determinen los reglamentos y normas vigentes, y de conformidad con los acuerdos que para tal efecto suscriban con la Secretaría;
+
+VII. Aplicar medidas de tránsito y vialidad necesarias, dentro de la circunscripción municipal correspondiente, para reducir los niveles de emisión de contaminantes a la atmósfera de los vehículos automotores;
+
+VIII. Identificar, promover y ordenar, en su caso, medidas correctivas y acuerdos de regularización voluntaria con quienes realicen actividades contaminantes que sean de su competencia y, en su caso, requerirles la instalación de equipos de control de emisiones, sin demérito de la aplicación de sanciones que les competa;
+
+IX. Construir y operar los sistemas de monitoreo de la contaminación atmosférica en el Municipio, con apego a las Normas Oficiales Mexicanas y en su caso las Normas Ambientales Estatales;
+
+X. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación y en su caso de las Normas Ambientales Estatales, en las materias y supuestos a que se refiere este Libro;
+
+XI. Formular y conducir la política municipal de información y difusión en materia ambiental, así como coadyuvar con la Secretaría de Educación en el establecimiento y ejecución de la educación en dicha materia;
+
+XII. Participar, de conformidad con lo previsto por este Código, en la evaluación del impacto ambiental de obras o actividades de competencia estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XIII. Elaborar y difundir en la comunidad un informe semestral sobre el estado del medio ambiente en el Municipio, así como los resultados del monitoreo de la calidad del aire, integrándolos al Sistema de Información Estatal a cargo de la Secretaría;
+
+XIV. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, en el ámbito de su competencia, así como de las aguas nacionales que tengan asignadas, con la participación que conforme a la legislación en la materia corresponda al Estado;
+
+XV. Ordenar, en los términos de este Código, la instalación de sistemas de tratamiento de aguas a quienes exploten, usen o aprovechen en actividades económicas, aguas federales concesionadas a los Municipios para la prestación de servicios públicos, así como a quienes descarguen aguas residuales en los sistemas municipales de drenaje y alcantarillado, que no satisfagan las Normas Oficiales Mexicanas y, en su caso, las Normas Ambientales Estatales correspondientes;
+
+XVI. Implementar y operar los sistemas municipales de tratamiento de aguas residuales, de conformidad con las Normas Oficiales Mexicanas y en su caso las Normas Ambientales Estatales aplicables;
+
+XVII. Aplicar en las obras e instalaciones municipales destinadas al tratamiento de aguas residuales, los criterios que emitan las autoridades federales y Estatales correspondientes, a efecto de que las descargas en cuerpos y corrientes de agua que pasen al territorio de otro Municipio u otra entidad federativa satisfagan las Normas Oficiales Mexicanas y, en su caso, las Normas Ambientales Estatales aplicables;
+
+XVIII. Tratar, antes de su descarga en cuerpos receptores, y controlar la disposición de las aguas residuales de origen particular que se descarguen en los sistemas de drenaje y alcantarillado de su competencia, así como requerir el pago de los derechos correspondientes;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XIX. Conformar y actualizar el Registro Municipal de las Descargas a las redes de drenaje y alcantarillado que administren, cuyos datos serán integrados al Registro Estatal de Descargas de Aguas Residuales a cargo de la Secretaría y, a su vez, al Registro Nacional de Descargas de Aguas Residuales;
+
+XX. Prevenir y controlar la contaminación originada por ruido, vibraciones, energía térmica, radiaciones electromagnéticas, energía lumínica y olores perjudiciales al equilibrio ecológico o al medio ambiente, proveniente de fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles excepto las que, conforme a la Ley General, sean consideradas de competencia federal;
+
+XXI. Regular y controlar la contaminación visual, siguiendo los lineamientos de este Libro;
+
+XXII. Prevenir y restaurar el equilibrio ecológico y la protección ambiental en los centros de población, en relación con los efectos derivados de los servicios de drenaje, alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transportes locales, siempre y cuando no se trate de facultades otorgadas a la Federación o al Estado;
+
+XXIII. Participar en la prevención y control de emergencias y contingencias ambientales, conforme a las políticas y programas de protección civil que al efecto se establezcan;
+
+XXIV. Atender los asuntos que afecten el equilibrio ecológico del Municipio y, en su caso, con otro u otros, con la participación que corresponde al Estado;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+XXV. Expedir los reglamentos municipales y disposiciones administrativas para el cumplimiento de este Código;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+XXVI. En coordinación con la Secretaría, crear Jardines para Polinizadores dentro de su demarcación territorial administrados en el ámbito de su competencia, así como promover su creación en los ámbitos público, privado y social, a fin de contribuir a la conservación de la biodiversidad y la resiliencia de los ecosistemas;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+XXVII. Diseñar e implementar programas, acciones, talleres y cursos de educación ambiental dentro de su demarcación territorial, dirigidos a la ciudadanía para concientizar y resignificar a los polinizadores y su importancia para la sostenibilidad de los ecosistemas;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+XXVIII. Impulsar acciones para que las obras públicas proliferen en armonía con la reforestación y establecimiento de plantas y árboles endémicos, nativos y melíferos;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+XXIX. Promover la reforestación estratégica en zonas urbanas y rurales, con plantas y árboles que sean endémicos y nativos de cada área geográfica, propiciando la diversidad de especies melíferas que favorezcan la alimentación de los polinizadores; y
+
+XXX. Las demás que le señalen las leyes, reglamentos y otras disposiciones aplicables.
 
 ###### ARTICULO 46.
 
-Todos los gastos que se originen en las diligencias del Ministerio Público, en las acordadas por los Tribunales a solicitud de aquél, y en las decretadas de oficio por los Tribunales, serán cubiertas por el erario del Estado.
+1. El ordenamiento ecológico del Estado es el instrumento que regula e induce el uso de suelo y las actividades productivas, con el fin de lograr la protección y preservación del medio ambiente, así como el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y sus potencialidades de aprovechamiento.
 
-Los gastos en las diligencias solicitadas por el inculpado o la defensa, serán cubiertos por quienes las promuevan. En caso de que estén imposibilitados para ello, y el titular del Tribunal estime que son indispensables para el esclarecimiento de los hechos, bastará con que ordene la práctica de las mismas.
+2. El ordenamiento ecológico del estado, se llevará a cabo mediante programas de:
+
+I. Ordenamiento regional, que podrán comprender la totalidad o una parte del territorio del Estado; y
+
+II. Ordenamiento local, que comprende la totalidad o una parte de territorio de un Municipio.
 
 ###### ARTICULO 47.
 
-Cuando cambiare el titular de un Tribunal, no se proveerá decreto alguno haciéndolo saber; insertándose sólo el nombre completo del nuevo funcionario en el primer proveído que se dicte.
+En la formulación del ordenamiento ecológico del Estado se deberán considerar los siguientes criterios:
 
-Cuando no tenga que dictarse resolución alguna antes de la sentencia, se hará saber el cambio del titular.
+I. La naturaleza y características de los ecosistemas existentes en el territorio del Estado;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+II. La vocación de cada zona o región, en función de los recursos naturales, la distribución de la población y las actividades económicas predominantes;
+
+III. Los desequilibrios existentes en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas o fenómenos naturales;
+
+IV. El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales; y
+
+V. El impacto ambiental de nuevos asentamientos humanos y sus condiciones ambientales.
 
 ###### ARTICULO 48.
 
-Cuando esté plenamente comprobado en autos el cuerpo del delito de que se trate, el funcionario que conozca del asunto dictará las providencias necesarias, a solicitud del interesado, para asegurar sus derechos o restituirlo en el goce de éstos, siempre que estén legalmente justificados. Si se tratare de bienes, únicamente podrán retenerse, esté o no comprobado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuera necesaria para la debida integración de la averiguación.
+Los programas de ordenamiento ecológico regional deberán contener, por lo menos:
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+I. La determinación del área o región a ordenar, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico de sus condiciones ambientales y las tecnologías utilizadas por los habitantes del área;
 
-Si la entrega del bien pudiera lesionar derechos de tercero o del inculpado, podrá efectuarse la devolución mediante fianza bastante para garantizar los daños y perjuicios, si el funcionario a cuya disposición esté el bien, estima necesaria esa garantía.
+II. La determinación de los criterios de regulación ecológica para la preservación, protección, restauración y aprovechamiento sustentable de los recursos naturales que se localicen en la región de que se trate, así como para la realización de actividades productivas y la ubicación de asentamientos humanos; y
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+III. Los lineamientos para su ejecución, evaluación y seguimiento.
 
 ###### ARTICULO 48 Bis.
 
@@ -649,65 +1221,83 @@ El Juez de la causa, o el Ministerio Público, en todo momento durante el proces
 
 ###### ARTICULO 49.
 
-Son correcciones disciplinarias:
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
 
-I.- El apercibimiento;
+Los programas de Ordenamiento Ecológico Local, serán expedidos por las autoridades municipales, de conformidad con lo establecido en el presente Código y el Reglamento de este Libro y tendrán por objeto;
 
-II.- Multa de diez a treinta salarios mínimos, según lo previsto en el artículo 51 del Código Penal; observando lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos;
+I. Determinar las distintas áreas ecológicas que se localicen en la zona o región de que se trate, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico de sus condiciones ambientales, y de las tecnologías utilizadas por los habitantes del área de que se trate;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
+II. Regular, fuera de los centros de población, los usos del suelo con el propósito de proteger el ambiente y preservar, restaurar y aprovechar de manera sustentable los recursos naturales respectivos, fundamentalmente en la realización de actividades productivas y la localización de asentamientos humanos; y
 
-III.- La suspensión hasta por un mes;
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
-
-IV.- El arresto hasta de treinta y seis horas; y
-
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
-
-V.- El desalojo de la sala de audiencia.
-
-La suspensión sólo se podrá aplicar a funcionarios o empleados judiciales.
+III. Establecer los criterios de regulación ecológica para la protección, preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de los centros de población, a fin de que sean considerados en los planes o programas de desarrollo urbano correspondientes.
 
 ###### ARTICULO 50.
 
-En la aplicación de las correcciones disciplinarias, se observará lo previsto en el artículo 44 de este Código, y lo que dispone el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+1. Para la formulación, aprobación, expedición, evaluación y modificación de los programas de ordenamiento ecológico regional, local, las autoridades competentes contemplarán lo dispuesto en las siguientes bases:
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+I. El principio de congruencia entre los programas de ordenamiento ecológico regional y local y el general del territorio, y la atención de los criterios que al efecto señale el Estado, a través de la Secretaría;
+
+II. Los programas de ordenamiento ecológico local cubrirán una extensión geográfica cuyas dimensiones permitan regular el uso del suelo, de conformidad con lo previsto en este Código;
+
+III. Las previsiones contenidas en los programas de ordenamiento ecológico local del territorio, mediante las cuales se regulan los usos del suelo, se referirán únicamente a las áreas localizadas fuera de los límites de los centros de población. Cuando en dichas áreas se pretenda la ampliación de un centro de población o la realización de proyectos de desarrollo urbano, se estará a lo que establezca el programa de ordenamiento ecológico respectivo, el cual sólo podrá modificarse mediante las previsiones de este Libro;
+
+IV. Las autoridades estatales y municipales, harán compatibles los programas de ordenamiento ecológico regional y locales y la ordenación y regulación de los asentamientos humanos, incorporando las previsiones correspondientes en dichos programas, así como en los programas de desarrollo urbano que resulten aplicables; así mismo, los programas de ordenamiento ecológico regional y locales, prevendrán los mecanismos de coordinación entre las distintas autoridades involucradas en la formulación y ejecución de los programas;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+V. Cuando un programa de ordenamiento ecológico local incluya un área natural protegida, competencia de la Federación o del Estado, o parte de ellas, el programa será elaborado y aprobado en forma conjunta por la Secretaría Federal, la Secretaría y por los Ayuntamientos según corresponda;
+
+VI. Los programas de ordenamiento ecológico local, regularán los usos del suelo, incluyendo a ejidos, comunidades y pequeñas propiedades, expresando las motivaciones que lo justifiquen; y
+
+VII. Para la elaboración, actualización y modificación de los programas de ordenamiento ecológico local, se deberán cumplir los mecanismos que garanticen la participación de los particulares, los grupos y organizaciones sociales y empresariales y demás interesados, considerando procedimientos de difusión y consulta pública de los planes respectivos.
+
+2. El Reglamento de este Libro desarrollará las normas para el cumplimiento de estas bases, así como sobre el procedimiento para la emisión de los programas de ordenamiento ecológico regional. Estas últimas previsiones se aplicaran en lo conducente por los Ayuntamientos en tanto emitan el Reglamento municipal correspondiente.
 
 ###### ARTICULO 51.
 
-Los Tribunales, para hacer cumplir sus determinaciones, podrán emplear cualquiera de los siguientes medios de apremio:
+1. Los programas de ordenamiento ecológico a que se refiere el presente capítulo serán considerados en forma obligatoria por las autoridades administrativas dentro de sus correspondientes ámbitos de competencia, cuando resuelvan acerca del aprovechamiento sustentable de los recursos naturales, del uso del suelo, de la localización de las actividades productivas y de los asentamientos humanos, conforme a lo establecido por este Código, su Reglamento y demás ordenamientos aplicables.
 
-I.- Multa de diez a treinta salarios mínimos;
+2. Una vez expedidos los programas de Ordenamiento Ecológico por parte del Estado, en coordinación con los Ayuntamientos respectivos, se publicarán en forma abreviada en el Periódico Oficial del Estado.
 
-II.- Auxilio de la fuerza pública; y
-
-III.- Arresto hasta de treinta y seis horas.
-
-En su caso, se procederá contra el rebelde en los términos del artículo 185 del Código Penal.
+3. Para la modificación de los programas de ordenamiento ecológico, se requerirá el mismo procedimiento que se establece para su formulación y expedición.
 
 ###### ARTICULO 52.
 
-El Ministerio Público, para hacer cumplir sus determinaciones, podrá emplear las medidas de apremio que señala el artículo que antecede.
+La regulación ambiental de los asentamientos humanos consiste en el conjunto de normas, disposiciones y medidas en los ámbitos del desarrollo urbano y la vivienda, para mantener, mejorar o restaurar el equilibrio de los asentamientos humanos con los elementos naturales y asegurar el mejoramiento de la calidad de vida de la población. Dichas acciones serán llevadas a cabo por el Ejecutivo Estatal, a través de la Secretaría, y los Ayuntamientos y, en su caso, con la participación de la Federación.
 
 ###### ARTICULO 53.
 
-Las cauciones que se otorguen ante los Tribunales o el Ministerio Público, en su caso, se sujetarán a las reglas del Código Civil, y en lo conducente al Capítulo "Libertad Provisional Bajo Caución" de este Código.
+Los principios y objetivos que en materia de asentamientos humanos emanen de las políticas ambiental y de desarrollo sustentable del Estado serán considerados en:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+I. El Sistema Estatal de Planeación e Información;
+
+II. Las declaratorias de provisiones, reservas, usos y destinos que expida el Ejecutivo Estatal; y
+
+III. Los diversos instrumentos que se expidan para ordenar y regular el desarrollo urbano y rural en el Estado.
 
 ###### ARTICULO 54.
 
-Cuando haya temor fundado de que el obligado a la reparación del daño y perjuicio, oculte o enajene los bienes en que deba hacerse efectiva dicha reparación, y una vez comprobado el cuerpo del delito y la probable responsabilidad del inculpado, el Ministerio Público, el ofendido o la víctima o sus representantes, podrán pedir al Juez el embargo precautorio de dichos bienes, observándose lo dispuesto en el Código de Procedimientos Civiles vigente en el Estado.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+1. En las áreas declaradas por el Ejecutivo Estatal o los Ayuntamientos como espacios dedicados a la conservación natural en los términos de la legislación estatal vigente en la materia, la urbanización será restringida y sólo se autorizarán aquellas construcciones y obras que aseguren servicios de beneficio social o de uso común.
 
-Cuando el inculpado u otra persona en su nombre, otorguen caución bastante, a juicio del órgano jurisdiccional, para asegurar la satisfacción de la responsabilidad de los daños y perjuicios causados, se levantará el embargo efectuado.
+2. Para la regulación ambiental de los asentamientos humanos y del uso y cambio de uso del suelo, las dependencias y entidades de la administración pública estatal y municipales deberán considerar los siguientes criterios:
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1996)</small>
+I. La vinculación con la planeación urbana y su aplicación;
 
-Durante la etapa de preparación del ejercicio de la acción penal, el Ministerio Público, en los términos de los dos párrafos que preceden, podrá solicitar el embargo precautorio de bienes del indiciado.
+II. La corrección de aquellos desequilibrios que deterioren la calidad de vida de la población;
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+III. La previsión de las tendencias de crecimiento de los asentamientos humanos para mantener una correlación entre la disponibilidad y la conservación de los recursos ambientales y la población, procurando el equilibrio de los factores ambientales; y
+
+IV. El fortalecimiento de las previsiones de carácter ambiental para proteger y elevar la calidad de vida, mediante:
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+a) El respeto a los espacios geográficos que sean considerados como áreas verdes de acuerdo con la legislación estatal vigente en la materia; y
+
+b) La previsión de zonas intermedias de salvaguarda dentro del predio donde se pretendan realizar obras o actividades que por sus características o riesgos así lo requieran.
 
 ###### ARTICULO 54 Bis.
 
@@ -715,21 +1305,111 @@ La conciliación y la mediación se admiten hasta antes de que cause ejecutoria 
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
-### CAPITULO QUINTO. MEDIOS DE COMUNICACION EN LA AVERIGUACION PREVIA Y EN EL PROCESO
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+### CAPITULO II. DE LA COORDINACION DE COMPETENCIAS
 
 ###### ARTICULO 55.
 
-La práctica de las diligencias del Ministerio Público, fuera del Estado, se encargará a la Procuraduría General de Justicia de la Entidad que corresponda, ajustándose a los términos del Convenio de Colaboración suscrito con base en lo dispuesto en el artículo 119 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Lo mismo se observará para la entrega de inculpados o sentenciados que se evadan a la acción de la justicia, así como para el aseguramiento y entrega de objetos, instrumentos o productos del delito.
+1. La construcción de la vivienda que autoriza el Ayuntamiento dentro de las zonas de expansión de los asentamientos humanos, deberá considerar las áreas verdes requeridas para la convivencia social, en los términos establecidos por la legislación estatal vigente en la materia.
+
+2. El Estado y el Municipio, conforme a sus respectivas competencias, promoverán mediante concertación e inducción con los sectores social y privado:
+
+I. La incorporación al proyecto de construcción de vivienda de criterios ambientales, tanto en su diseño como en la tecnología aplicada para mejorar la calidad de vida;
+
+II. El empleo de dispositivos y sistemas de ahorro del agua potable, así como de captación, almacenamiento y utilización de las aguas pluviales;
+
+III. La prevención de las descargas de aguas residuales domiciliarias a los sistemas de drenaje y alcantarillado o fosas sépticas;
+
+IV. Las acciones de prevención y control del correcto almacenamiento, traslado y disposición de los residuos domiciliarios;
+
+V. Los diseños que permitan el óptimo aprovechamiento de la luz y la ventilación naturales así como de la energía eléctrica; y
+
+VI. La utilización de materiales en cuya fabricación y uso exista el menor impacto ambiental.
 
 ###### ARTICULO 56.
 
-Los Magistrados del Tribunal Superior de Justicia y los Jueces, siempre que lo juzguen necesario para la pronta administración de justicia, podrán trasladarse, o autorizar para hacerlo, por resolución escrita, al secretario, actuario o funcionario público de su oficina, en su caso, a cualquier lugar del Estado, para practicar las diligencias y librar las citaciones que sean pertinentes, sin necesidad de exhorto.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+1. La Secretaría, a través de la evaluación del impacto ambiental, autorizará, negará o condicionará la realización de obras o actividades que se pretendan desarrollar en el territorio estatal, que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el medio ambiente y preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos ambientales.
+
+2. Toda obra o actividad que se pretenda desarrollar en el territorio estatal, en términos de este Libro, deberá contar con la autorización respectiva en materia de impacto ambiental.
+
+3. La evaluación del impacto ambiental se realizará mediante los estudios que al efecto presenten los interesados en desarrollar la obra o la actividad contenidas en este Capítulo y se sujetará a las modalidades que defina el Reglamento de este Libro.
+
+4. Además de los estudios señalados en el párrafo anterior, en materia de evaluación de impacto ambiental se podrá requerir un estudio de riesgo.
+
+ARTICULO 57
+
+1. Cualquier persona que pretenda realizar obras o actividades, ya sea públicas o privadas, deberá contar previamente con autorización de impacto ambiental, en los siguientes supuestos:
+
+I. Obra pública que no corresponda a la competencia de la Federación;
+
+II. Obras hidráulicas en aguas de jurisdicción estatal o municipal;
+
+III. Zonas y parques industriales en los que no se prevean realizar actividades altamente riesgosas;
+
+IV. Carreteras, caminos y puentes estatales, tanto urbanos como rurales;
+
+V. Explotación, extracción, procesamiento y beneficio de minerales o substancias no reservadas a la Federación y aquellas cuyos productos se deriven de la descomposición de las rocas y cuya explotación se realice preponderantemente por medio de trabajos a cielo abierto, entre otras;
+
+VI. Estaciones de servicio, carburación, almacenamiento, transferencia o cualquier otra obra o actividad cuya materia sean los productos derivados del petróleo o combustibles fósiles, siempre que se encuentren por debajo de los volúmenes y cantidades establecidas como competencia de la Federación;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VII. Instalaciones destinadas al aprovechamiento, tratamiento y disposición final de residuos sólidos urbanos y de manejo especial;
+
+VIII. Instalaciones de tratamiento de aguas residuales de procedencia municipal;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IX. Las instalaciones destinadas al reciclaje de residuos sólidos urbanos y de manejo especial;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IX Bis. Instalaciones que se dediquen a la compra y venta de partes usadas de vehículos automotores;
+
+X. Zonas comerciales;
+
+XI. Desarrollos Turísticos;
+
+XII. Obras y actividades en áreas naturales protegidas de jurisdicción estatal o municipal;
+
+XIII. Obras o actividades destinadas a la prestación de un servicio público;
+
+XIV. Actividades consideradas como riesgosas en los términos previstos en este Libro, así como en el listado que al efecto se expida, cuando no sean consideradas como competencia de la Federación;
+
+XV. Conjuntos habitacionales, fraccionamientos y nuevos centros de población;
+
+XVI. Cambios de uso de suelo, de manera previa al otorgamiento de su autorización; y
+
+XVII. Las demás que, aun cuando sean distintas a las anteriores, puedan causar impactos ambientales significativos de carácter adverso y que por razón de la obra, actividad o aprovechamiento de que se trate, no sean de regulación federal.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+2. Para el caso de las fracciones XV y XVI del párrafo 1 de este artículo, en lo que corresponda se deberá atender lo dispuesto por la legislación estatal vigente en la materia.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. Además de la autorización en materia de impacto ambiental, se requerirá de autorización en materia de riesgo por parte de la Secretaría, cuando la obra o actividad pretendida involucre el uso, almacenamiento o manejo de sustancias consideradas como altamente riesgosas, en cantidades inferiores a las de reporte competencia de la Federación, conforme a las disposiciones de observancia general. El procedimiento de su evaluación se hará conforme a lo previsto para el impacto ambiental.
+
+4. El estudio de riesgo consistirá en incorporar a la manifestación de impacto ambiental lo siguiente:
+
+I. Escenarios y medidas preventivas resultantes del análisis de los riesgos ambientales relacionados con el proyecto;
+
+II. Descripción de las zonas de protección en torno a las instalaciones y la verificación de su propiedad; y
+
+III. Señalamiento de las medidas de seguridad en materia ambiental.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+5. Para los efectos a que se refiere la fracción XVII del párrafo 1 del presente artículo, la Secretaría notificará a los interesados su determinación para que sometan al procedimiento de evaluación de impacto ambiental la obra o actividad que corresponda, explicando las razones que lo justifiquen, con el propósito de que aquéllos presenten los informes, dictámenes y consideraciones que juzguen convenientes, en un plazo no mayor a diez días. Una vez recibida la documentación, en un plazo no mayor a quince días, la Secretaría comunicará si procede o no una manifestación de impacto ambiental u otro estudio. Transcurrido el plazo indicado, se entenderá que no se requiere la presentación de manifestación o estudio alguno.
+
+6. El Reglamento del presente Libro determinará las obras o actividades a que se refiere este artículo, que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, no causen o puedan causar desequilibrios ecológicos, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al medio ambiente, y que por lo tanto no deban sujetarse al procedimiento de evaluación de impacto ambiental previsto en este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+7. Para todos los trámites y servicios que se realizan en esta Secretaría, además de los requisitos previstos en el presente Código, reglamentos y manuales de procedimientos, guías y todos los señalados en la página de internet de la Secretaría, las personas físicas y morales deberán presentar una "Constancia de No Adeudo Fiscal" expedida por la Oficina Fiscal del Estado.
 
 ###### ARTICULO 57.
 
@@ -739,469 +1419,1171 @@ Se empleará la forma de exhorto cuando se dirija a un funcionario de igual o de
 
 ###### ARTICULO 58.
 
-(DEROGADO, P.O. 21 DE OCTUBRE DE 1994)
+1. La formulación de la manifestación de impacto ambiental y del estudio de riesgo deberá efectuarse por persona física o moral, respetando los lineamientos que dicte el Reglamento del presente Libro.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La Secretaría, por sí o mediante el apoyo de las instituciones académicas o de investigación ambiental en el Estado, instrumentará el Registro de Prestadores de Servicios Técnicos en materia ambiental y regulará las certificaciones de los interesados.
+
+3. Cuando el responsable de la obra o actividad que gestione la autorización del impacto ambiental o cualquier otro estudio, utilice los servicios técnicos de un prestador de servicios, este último será solidaria y subsidiariamente responsable de los mismos y de sus efectos adversos al medio ambiente.
 
 ###### ARTICULO 59.
 
-(DEROGADO, P.O. 21 DE OCTUBRE DE 1994)
+1. En la realización de obras y actividades a que se refiere el artículo 57 de este Libro, se requerirá la presentación de un informe preventivo y no de una manifestación de impacto ambiental, cuando:
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+I. Existan Normas Oficiales Mexicanas o Normas Ambientales Estatales u otras disposiciones que regulen sus emisiones, descargas, aprovechamiento y, en general, todos los impactos ambientales relevantes que puedan producir las obras o actividades;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+II. Las obras o actividades de que se trate, estén expresamente previstas por un Programa de Desarrollo Urbano o Programa de Ordenamiento Ecológico que haya sido evaluado por la Secretaría, debidamente aprobado y publicado en el Periódico Oficial del Estado; o
+
+III. Se trate de instalaciones que pretendan ubicarse en desarrollos turísticos, parques industriales o zonas comerciales previamente autorizados.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Cuando las características de la obra o actividad pretendida así lo requieran, la Secretaría podrá acordar de manera fundada y motivada la presentación del estudio de impacto ambiental conforme a lo previsto en este Libro, aún cuando se actualice alguno de los supuestos señalados en el mismo, cuando la obra o actividad represente un efecto negativo sobre el medio ambiente y los recursos naturales.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. En el caso de que un programa parcial de desarrollo urbano o de ordenamiento ecológico del territorio prevean el desarrollo de obras o actividades de las señaladas en el artículo 57, los Ayuntamientos podrán presentar dichos programas a la Secretaría, para su evaluación, a fin de que ésta emita su autorización en materia de impacto ambiental respecto del conjunto de obras o actividades que se prevean realizar bajo los términos previstos en este precepto.
+
+4. Las obras o actividades que en términos del presente ordenamiento no requieran someterse a los procedimientos de evaluación de impacto ambiental, estarán sujetos al resto de a las disposiciones de este Código, de sus Reglamentos, las Normas Oficiales Mexicanas, las Normas Ambientales Estatales, en su caso, así como a la obtención de las autorizaciones, permisos, licencias o concesiones que requiera.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+5. En los casos previstos en el párrafo 1 de este artículo, la Secretaría, una vez analizado el informe preventivo, determinará en un plazo de quince días naturales contados a partir de la recepción del mismo, si procede o no la presentación de una manifestación de impacto ambiental. Transcurrido el plazo sin que la Secretaría emita su determinación, se entenderá que no es necesaria la presentación de una manifestación de impacto ambiental y se continuará con la dictaminación respecto al informe preventivo.
 
 ###### ARTICULO 60.
 
-Los exhortos, las requisitorias y los oficios de colaboración a que se refieren los artículos 55 y 57 de este código, contendrán las inserciones y anexos necesarios según la naturaleza de la diligencia que haya de practicarse. Serán firmados por el Magistrado, Juez o Procurador General de Justicia del Estado o funcionarios de este último autorizados y, en su caso, por el Secretario o testigos de asistencia con que actúe, llevando el sello del juzgado o tribunal que los expida.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. El Estado, a través de la Secretaría, expedirá las guías y lineamientos para la elaboración y presentación de las manifestaciones de impacto ambiental y los estudios correspondientes, que contendrán los lineamientos mínimos a que deberán sujetarse los responsables de las acciones.
+
+2. En todo caso, deberán contener por lo menos:
+
+I. Descripción de los posibles efectos en el o los ecosistemas por la obra o actividad, tanto en su etapa constructiva como operativa;
+
+II. Medidas Preventivas;
+
+III. Medidas de Mitigación;
+
+IV. Medidas de Compensación; y
+
+V. La protesta de decir verdad, respecto a los datos manifestados, a las medidas propuestas y a que en su contenido se integran las mejores técnicas y metodologías existentes.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 60 BIS.
+
+1. En los supuestos establecidos en el artículo 270 de este Código, cuando el promovente solicite la evaluación de la manifestación de impacto ambiental de forma voluntaria o con motivo de un procedimiento administrativo iniciado de oficio por la Secretaría, deberá de presentar adicionalmente un estudio de daño ambiental.
+
+2. Cuando el promovente se encuentre en los supuestos del artículo 270 de este Código, y desee continuar con la obra y/o actividad que diera lugar al procedimiento por daño ambiental, y sea requisito previo la obtención de la autorización en materia de impacto ambiental a que se refiere el presente Capítulo y su reglamento, será necesario de forma inexcusable que presente fianza para garantizar el cumplimiento de lo establecido en el dictamen por daño ambiental que resulte.
+
+3. La presentación del estudio por daño ambiental de forma conexa a la manifestación de impacto ambiental en términos de este artículo, no presupone la autorización de esta última.
 
 ###### ARTICULO 61.
 
-En casos urgentes, podrá hacerse uso de la vía telegráfica, expresándose con toda claridad las diligencias que han de practicarse, la parte que la solicitó, el nombre del inculpado, si fuere posible, el delito de que se trata y el fundamento de la providencia. Estos exhortos se mandarán mediante oficio al jefe de la oficina telegráfica de la localidad, acompañados de una copia. De esta entrega el empleado respectivo de dicha oficina extenderá recibo. El tribunal requeriente (sic), mandará con posterioridad, por correo, el exhorto o requisitoria en forma.
+1. Quedan exentas de presentar la manifestación del impacto ambiental, las acciones de emergencia que sean necesarias para mitigar los daños causados en las zonas de desastre.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Sin perjuicio de lo anterior y una vez superados (sic) las condiciones de emergencia, el responsable de las acciones a que se refiere este artículo, deberá presentar a la Secretaría un informe detallado del impacto causado para su evaluación.
 
 ###### ARTICULO 62.
 
-Los exhortos a los tribunales extranjeros se remitirán por la vía diplomática al lugar de su destino. Las firmas de las autoridades que los expidan serán legalizadas por el Gobernador del Estado, y las de éste por el Secretario de Relaciones Exteriores de México.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. En el análisis y evaluación del impacto ambiental que realice la Secretaría sobre obras o actividades que por su relevancia, dimensiones o complejidad así lo requieran, se solicitará, dentro de los cinco días hábiles inmediatos a la radicación del expediente, la opinión de las autoridades municipales competentes, para que manifiesten en un término de diez días hábiles su opinión fundada y motivada sobre la viabilidad de la obra o actividad. Una vez transcurrido dicho plazo sin que el municipio hubiese manifestado su opinión, se entenderá que no existe objeción o comentarios al proyecto presentado.
+
+2. El requerimiento de la opinión de las autoridades municipales, se hará de manera fundada y motivada.
 
 ###### ARTICULO 63.
 
-No será necesaria la legalización, si la ley o prácticas del país a cuyo tribunal se dirija el exhorto, no establecen ese requisito para los documentos de igual clase.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La Secretaría podrá requerir al promovente aclaraciones, rectificaciones, ampliaciones, documentos, estudios o información adicional al contenido de la manifestación de impacto ambiental, al estudio de riesgo o al informe preventivo que le sea presentado. El requerimiento suspenderá el término, sin que en ningún caso tal suspensión pueda ser por más de una ocasión ni exceda de 30 días hábiles contados a partir de que ésta sea acordada por la Secretaría. Transcurrido el plazo otorgado, sin que el promovente subsane el requerimiento, la Secretaría declarará la caducidad del procedimiento mediante resolución que deberá ser notificada al promovente.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. En la evaluación del impacto ambiental, la Secretaría podrá solicitar opiniones técnicas de otras dependencias o entidades de la administración pública estatal o de las dependencias y entidades, federales o municipales, o de los sectores de investigación, social y académico, para allegarse mayores elementos de valoración.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+3. Una vez recibida la información adicional solicitada y realizada la evaluación de los mismos, con base a los estudios de su competencia, la Secretaría emitirá la resolución correspondiente, debidamente fundada y motivada, en la que podrá:
+
+I. Autorizar la realización de la obra o actividad de que se trate, en los términos solicitados;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+II. Autorizar de manera condicionada la obra o actividad de que se trate, a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos susceptibles de ser producidos en la construcción, operación normal y en caso de accidente. Cuando se trate de autorizaciones condicionadas, la Secretaría señalará los requerimientos que deban observarse en la realización de la obra o actividad prevista; o
+
+III. Negar la autorización solicitada, cuando:
+
+a) Se contravenga lo establecido en este Código, sus reglamentos, las Normas Oficiales Mexicanas, las Normas Ambientales Estatales, los programas de ordenamiento ecológico, territorial y demás disposiciones aplicables;
+
+b) La obra o actividad de que se trate pueda propiciar que una o más especies sean declaradas como amenazadas o en peligro de extinción o cuando se afecte a una de dichas especies;
+
+c) La información proporcionada por los promoventes resulte falsa respecto de los impactos ambientales de la obra o actividad de que se trate, sin perjuicio de las sanciones a que se haga acreedor conforme a lo establecido por el presente Código;
+
+d) Los estudios presentados no cumplan con las disposiciones establecidas en el Reglamento correspondiente; o
+
+e) Existan riesgos fundados de que se pudieran afectar el equilibrio ecológico o pudieren causar daños al medio ambiente, a las personas, a los recursos naturales o se ponga en riesgo la salud pública, en caso de autorizarse la obra o actividad respectiva.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. La Secretaría resolverá en un término de sesenta días hábiles a partir de la recepción formal del documento, salvo en los casos excepcionales en que por la complejidad y dimensiones del proyecto, se acuerde la ampliación del plazo para su evaluación, hasta por un plazo igual, debiendo notificar al promovente la justificación de su acuerdo.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+5. En caso de transcurrir el término fijado conforme al párrafo anterior sin que la Secretaría resuelva, se entenderá la negativa ficta.
 
 ###### ARTICULO 64.
 
-Respecto de las naciones cuya legislación lo autorice, el exhorto se remitirá directamente por el tribunal exhortante al exhortado, sin más legalización que la exigida por las leyes del país en el cual deba cumplirse.
+1. En la resolución del impacto ambiental procedente, se señalará el plazo máximo de que dispone el solicitante para iniciar las obras o actividades proyectadas. Fenecido el término concedido expirará la vigencia de la aprobación, debiendo, en su caso solicitarse una nueva.
 
-Los exhortos que de estas naciones se dirijan a los tribunales del Estado, podrán también enviarse directamente por el tribunal exhortante al exhortado, bastando que sean legalizados por el Ministro o Cónsul mexicano residente en la nación o lugar del tribunal exhortante.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. El inicio de la obra o actividad pretendida estará sujeto a la autorización que emita la Secretaría en virtud del cumplimiento probado de las condiciones que en su caso contenga el resolutivo respectivo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+3. Cuando se realicen modificaciones al proyecto de obra o actividad durante el procedimiento de evaluación o en su etapa de desarrollo, el promovente deberá informarlo a la Secretaría, la que en un término no mayor a diez días determinará:
+
+I. Si es necesaria la presentación de una nueva manifestación de impacto ambiental;
+
+II. Solicitar información adicional; o,
+
+III. Si la autorización, en su caso, requiere ser modificada con objeto de imponer nuevas condiciones a la realización del proyecto.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. Durante la evaluación, seguimiento y verificación del cumplimiento de las autorizaciones otorgadas, la Secretaría podrá ordenar alguna de las acciones mencionadas en el párrafo anterior, cuando se determine que las condiciones originales de operación o de desarrollo de la obra o actividad han sido modificadas o existan mejores técnicas de mitigación o compensación.
 
 ###### ARTICULO 65.
 
-Los exhortos que se reciban en el Estado, se proveerán dentro de las veinticuatro horas siguientes a su recepción, y se despacharán dentro de tres días, a no ser que las diligencias que hayan de practicarse exijan necesariamente mayor tiempo, en cuyo caso el juez fijará el que crea conveniente.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La presentación de los estudios o informes a los que se refieren estas disposiciones no supone su autorización, por lo que la Secretaría podrá, en cualquier momento, aplicar las disposiciones en materia de procedimiento de aplicación de sanciones y de inspección y vigilancia previstos en este Código. Una vez autorizada la obra o actividad, el responsable de la misma deberá implementar en tiempo y forma las medidas de prevención o mitigación, así como las demás condicionantes, en su caso, que le haya ordenado la Secretaría.
+
+2. Los promoventes de las obras o actividades y los titulares de los inmuebles en los que se pretende su desarrollo, deberán sujetarse a las condiciones y limitaciones que señale la autorización respectiva.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La titularidad de una resolución podrá ser transferida mediante la autorización expresa de la Secretaría, bajo los criterios que disponga el Reglamento de este Libro.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. En el desarrollo en sus diversas etapas de la obra o actividad, la Secretaría, tendrá al promovente y, en su caso, al prestador de servicios, como solidariamente responsables, quienes deberán presentar informes periódicos del cumplimiento de las condiciones y obligaciones derivadas de la autorización.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 66.
 
-Cuando hubieren de ser examinados miembros del cuerpo diplomático mexicano que se encuentren en el extranjero ejerciendo sus funciones, se dirigirá oficio por conducto de la Secretaría de Relaciones Exteriores al embajador o Ministro diplomático respectivo, para que si se trata de él mismo, informe bajo protesta, y si no, examine en la misma forma al que deba declarar.
+1. La Secretaría, sin demérito de las obligaciones en materia de responsabilidad civil, podrá exigir el otorgamiento de seguros, fianzas o garantías respecto del cumplimiento de las condicionantes establecidas en la autorización y, en su caso, al riesgo ambiental que represente la obra o actividad autorizada, cuando se trate de obras o actividades cuya realización pueda producir afectaciones a la salud de las personas, a los ecosistemas o los recursos naturales.
+
+2. La Secretaría publicará la solicitud de autorización en materia de impacto ambiental y podrá ordenar al promovente que, a su costa, se publique en los medios de comunicación un extracto del proyecto y de la manifestación de impacto ambiental o de los estudios de riesgo.
+
+3. Cuando se trate de obras o actividades que puedan generar desequilibrios ecológicos graves o daños a la salud de las personas o a los ecosistemas, la Secretaría podrá iniciar el proceso de consulta pública respectivo, suspendiendo el procedimiento de evaluación.
 
 ###### ARTICULO 67.
 
-Cuando se trate de citaciones, y los dos jueces estuvieran sujetos a un mismo tribunal, aquéllas se solicitarán por oficio. En este caso se podrá observar lo previsto en el artículo 56.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La Secretaría podrá objetar el desarrollo de la obra o actividad en cualquier fase, si no se cumple con la resolución del impacto ambiental y adoptará las medidas pertinentes en términos de este Código para la suspensión y eventual revocación.
+
+2. El seguimiento, evaluación, vigilancia y verificación del cumplimiento de las autorizaciones en materia de impacto ambiental se realizarán de conformidad con los procedimientos de inspección y vigilancia previstos en este Código.
 
 ###### ARTICULO 68.
 
-Si el tribunal exhortado o requerido, considerase que no debe cumplirse el exhorto o requisitoria, por interesarse en ello su competencia, o si tuviera duda sobre este punto, oirá al Ministerio Público y resolverá dentro de tres días, promoviendo en su caso la competencia conforme a las reglas establecidas en este código.
+1. Los productores, empresas y organismos de los sectores social o privado, así como el sector público, podrán desarrollar procesos voluntarios de autorregulación ambiental a través de los cuales obtengan un historial de excelencia ambiental en el Estado, respetando la legislación y normatividad vigentes en la materia, comprometiéndose a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental en Tamaulipas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+2. En consecuencia, la Secretaría fomentará programas de autorregulación y auditoría ambiental y promoverá la aplicación de incentivos fiscales, a quienes participen en dichos programas. Al efecto inducirá y concertará:
+
+I. El desarrollo de procesos productivos adecuados y compatibles con el medio ambiente, así como sistemas de protección y restauración en la materia, convenidos con organizaciones de los sectores social y privado y de carácter académico y cívico;
+
+II. El cumplimiento de normas voluntarias o especificaciones técnicas en materia ambiental, que sean más estrictas que las normas ambientales federales o estatales, o que se refieran a aspectos no previstos por éstas, las cuales serán establecidas de común acuerdo con particulares o con asociaciones u organizaciones que los representen; y
+
+III. Las demás acciones que induzcan a las empresas a alcanzar objetivos de la política ambiental superiores a los previstos en la normatividad ambiental establecida.
 
 ###### ARTICULO 69.
 
-Será apelable la resolución dictada por el juez exhortado o requerido que niegue la práctica de la diligencia.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Los responsables del funcionamiento de una empresa podrán en forma voluntaria y concertada con la Secretaría, a través de la auditoría ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales, y las buenas prácticas de operación e ingeniería aplicables, con objeto de definir las medidas preventivas y correctivas necesarias para proteger el medio ambiente e impulsar el desarrollo sustentable en el Estado.
+
+2. El desarrollo de la auditoría ambiental es de carácter voluntario y no limita las facultades que este Código confiere a las autoridades en materia de inspección y vigilancia.
 
 ###### ARTICULO 70.
 
-Cuando un tribunal no pudiere practicar por sí mismo, en todo o en parte, las diligencias que se le encarguen, por tener que verificarse éstas en población distinta pero dentro de su territorio, podrá encomendarlas al alcalde judicial para su ejecución, remitiendo el exhorto original, o un oficio con las inserciones necesarias, si aquél no pudiera mandarse.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 1995)</small>
+1. La Secretaría desarrollará programas dirigidos a obtener un reporte propio de las empresas y a fomentar la realización de auditorías ambientales en la esfera de su competencia, por parte de las empresas que se ubiquen en el territorio del Estado y podrá supervisar su ejecución.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+2. Con relación a las atribuciones del párrafo anterior, la Secretaría:
+
+I. Elaborará los términos de referencia que establezcan la metodología para la realización de las auditorías ambientales y la forma y términos como se efectuará el propio reporte;
+
+II. Desarrollará programas de capacitación en materia de peritajes y auditorías ambientales;
+
+III. Instrumentará un sistema de reconocimientos y estímulos que permita identificar a las industrias ubicadas en el territorio del Estado, que cumplan oportunamente los compromisos adquiridos en las auditorías ambientales;
+
+IV. Promoverá la creación de centros regionales de apoyo a la mediana, pequeña y micro industria, con el fin de facilitar la realización de auditorías en dichos ramos;
+
+V. Convendrá o concertará con personas físicas o morales, públicas o privadas, la realización de auditorías ambientales;
+
+VI. Establecerá periódicamente programas de incentivos al cumplimiento de las obligaciones ambientales bajo las premisas establecidas en el presente Libro para el cumplimiento voluntario de obligaciones ambientales; y
+
+VII. Podrá eximir de la obligación de realizar verificaciones en determinados períodos, a las empresas que realicen auditorías ambientales voluntarias, en los casos en que así lo considere conveniente. En este supuesto, esa circunstancia deberá constar en resolución por escrito, debidamente fundada y motivada.
 
 ###### ARTICULO 71.
 
-En los casos del artículo anterior, cuando el Alcalde Judicial no pueda dar cumplimiento al exhorto o requisitoria, por hallarse en otro lugar las personas o los bienes que sean objeto de la diligencia, lo remitirá al Juez o Alcalde Judicial del en que aquellos o éstos se encuentren y lo hará saber al que lo encomendó.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La Secretaría pondrá a disposición de quienes resulten o puedan resultar directamente afectados, los programas preventivos y correctivos derivados de las auditorías ambientales, así como el diagnóstico básico del cual derivan.
+
+2. En todo caso, deberán observarse las disposiciones legales relativas a la confidencialidad de la información industrial y comercial.
 
 ###### ARTICULO 72.
 
-Las providencias que se dicten para el cumplimiento de un exhorto o de una requisitoria, se notificarán conforme a las reglas establecidas en el capítulo décimo de este título.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+1. Para el aprovechamiento sustentable de los recursos naturales, la Secretaría podrá establecer programas para:
+
+I. La conservación, protección, mejoramiento y restauración del suelo agrícola, forestal y el destinado a usos pecuarios;
+
+II. La creación y desarrollo de viveros, criaderos, laboratorios, estaciones experimentales y reservas de flora y fauna silvestres, así como de jardines botánicos y parques zoológicos;
+
+III. La captación y aprovechamiento de aguas pluviales;
+
+IV. La reutilización e intercambio de aguas residuales tratadas; y
+
+V. El uso racional del agua por las industrias, establecimientos comerciales y de servicios y de uso doméstico en general.
+
+2. Podrán establecerse, además, programas en materia de saneamiento de aguas en los términos que lo establecen las leyes aplicables, en coordinación, en su caso, con los Ayuntamientos, ya sea por estos mismos o a través de los organismos operadores del servicio de agua potable.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría impulsará y participará en la celebración de convenios con particulares, ejidatarios, instituciones académicas y de investigación, clubes y demás asociaciones que no persigan fines de lucro, con objeto de llevar a cabo programas para el estudio, conservación, restauración y desarrollo de especies de fauna y flora silvestres, en los ranchos y ejidos cinegéticos y en los centros de rehabilitación de fauna que al efecto se establezcan.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+4. La Secretaría impulsará y participará en la capacitación obligatoria de todas y todos los servidores públicos en materia de medio ambiente, con perspectiva de desarrollo sostenible y con especial énfasis en cambio climático.
 
 ###### ARTICULO 73.
 
-Cuando se demore en el Estado el cumplimiento de un exhorto o requisitoria, librados por un Juez del mismo Estado, se recordará su despacho por medio de oficio.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-Si continúa la demora, el Juez requiriente (sic) lo pondrá en conocimiento del superior del requerido; el superior apremiará al moroso, lo obligará a devolver el exhorto diligenciado y exigirá la responsabilidad en que hubiere incurrido.
+1. El Estado, por conducto de la Secretaría y con la participación de las dependencias o entidades estatales inherentes al recurso agua, y los Ayuntamientos, en la esfera de sus respectivas competencias, regulará el aprovechamiento sustentable y prevendrá y controlará la contaminación de las aguas de jurisdicción estatal y las nacionales sobre las que tenga su asignación, considerando los siguientes principios:
+
+I. El agua es un bien de dominio público, vital, vulnerable y finito, con valor social, económico y ambiental, cuya preservación en cantidad y calidad corresponde al poder público y a la sociedad, como prioridad y asunto de seguridad para la Nación y el Estado;
+
+II. El agua proporciona servicios ambientales que deben reconocerse, cuantificarse y compensarse, en términos de este Código;
+
+III. El aprovechamiento del agua debe realizarse de manera eficiente, sin afectar el equilibrio ambiental de los ecosistemas, al tiempo de promoverse su reuso;
+
+IV. El uso doméstico y el uso público urbano tendrán preferencia en relación con cualquier otro uso; y
+
+V. El poder público aplicará sistemas de tratamiento de aguas residuales para su reuso y los promoverá en el ámbito de la sociedad.
+
+2. La prevención y control de la contaminación del agua le corresponderá:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+I. Al Ejecutivo, por medio de la Secretaría, para lo cual deberá;
+
+a) Llevar el control, con el apoyo de los Ayuntamientos, de las descargas de aguas residuales a los sistemas de drenaje y alcantarillado que operen en la Entidad;
+
+b) Requerir a quienes deseen descargar en dichos sistemas y no cumplan con las Normas Oficiales Mexicanas, o las Normas Ambientales Estatales, en su caso, la instalación de sistemas de tratamiento de sus aguas residuales y la aceptación del Ayuntamiento respectivo;
+
+c) Determinar el monto de los derechos que deberán pagar quienes descarguen sus aguas en los sistemas de drenaje y alcantarillado para que la dependencia o entidad estatal competente o los Ayuntamientos puedan llevar a cabo el tratamiento necesario y, en su caso, proceder a la imposición de las sanciones a que haya lugar; y
+
+d) Promover y regular la aplicación de tecnologías apropiadas para el reciclado y reuso de aguas residuales generadas en viviendas y unidades habitacionales principalmente donde no existan sistemas de alcantarillado.
+
+II. A los Ayuntamientos, para lo cual deberán:
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+a) Llevar y actualizar el registro de las descargas en las redes y alcantarillado que administren, y proporcionarlo a la Secretaría con la periodicidad que ésta señale, para ser integrado al Registro Estatal de Descargas de Aguas Residuales;
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+b) Observar el cumplimiento de las condiciones generales de descarga que fijen la Secretaría y las dependencias federales respectivas, para las aguas residuales vertidas por los sistemas de drenaje y alcantarillado en los cuerpos receptores propiedad de la Nación; y
+
+c) Promover el reuso en la industria y agricultura de aguas residuales tratadas, derivadas de aguas nacionales asignadas o concesionadas para la prestación de servicios públicos, así como las que provengan de los sistemas de drenaje y alcantarillado siempre que cumplan con las normas técnicas de calidad.
 
 ###### ARTICULO 74.
 
-Los tribunales, al dirigirse a las autoridades o funcionarios que no sean judiciales, lo harán por oficio.
+La Secretaría ejercerá sus atribuciones con relación al impacto ambiental, sobre el aprovechamiento de los minerales o substancias del subsuelo no reservadas a la Federación, que constituyan depósito de naturaleza semejante a los componentes de los terrenos sobre la base de la sustentación de los servicios ambientales.
 
-### CAPITULO SEXTO. CATEOS
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+### CAPITULO UNICO. DE LAS PREVISIONES GENERALES
 
 ###### ARTICULO 75.
 
-Cuando en la averiguación previa el Ministerio Público requiera la práctica de un cateo, acudirá al Juez competente en solicitud del mismo con observancia de lo dispuesto en el artículo 77 de este código, a cuyo contenido deberá limitarse únicamente la diligencia.
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
 
-El cateo se practicará por el Ministerio Público que lo solicite, al concluir el cual se levantará acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado, y en su ausencia o negativa, por quien practique la diligencia.
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
-
-Si el Juez niega la práctica del cateo, se estará a lo dispuesto en el Artículo 200 de este Código.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
-
-Tratándose de los delitos tipificados en el artículo 16 bis del Código Penal para el Estado de Nuevo León, la petición del cateo deberá ser resuelta a la brevedad después de recibida por la autoridad judicial.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
-
-El auto que niegue la autorización, es apelable por el Ministerio Público. En estos casos el Juez deberá remitir de inmediato el expediente a fin de que la apelación sea resuelta a la brevedad.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+En la realización de las actividades de aprovechamiento de los recursos del subsuelo no reservados a la Federación, se observarán las disposiciones del presente Libro, sus reglamentos y las Normas Oficiales Mexicanas y las Normas Ambientales Estatales, sobre el aprovechamiento racional de los recursos no renovables y otras específicas.
 
 ###### ARTICULO 76.
 
-Una vez ejercitada la acción penal, las diligencias de cateo se practicarán por el Juez que las decrete o por el secretario que se designe en el mandamiento. Quien hubiera solicitado del Ministerio Público la promoción del cateo, podrá asistir a la diligencia.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+Corresponde a la Secretaría:
+
+I. Promover la racional explotación de los recursos minerales o sustancias no reservadas a la Federación, para efectos de la preservación del equilibrio ecológico; y
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+II. Otorgar concesiones a particulares para la explotación y aprovechamiento de los recursos minerales o sustancias no reservadas a la Federación, observando lo dispuesto en el presente Libro.
 
 ###### ARTICULO 77.
 
-Para decretar la práctica de un cateo bastará la existencia de indicios o datos, que hagan presumir fundadamente que el inculpado a quien se trate de aprehender se encuentra en el lugar en que deba efectuarse la diligencia, o que se encuentran en él los objetos materia del delito, el instrumento del mismo, libros, papeles u otros objetos que sirvan para la comprobación del cuerpo del delito o de la responsabilidad del inculpado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+1. La explotación de bancos de materiales para la construcción, de materiales no concesionables por la Federación, no metálicos, así como las actividades análogas que se realicen preponderantemente por medio de trabajos a cielo abierto dentro del territorio del Estado, requerirán de la autorización previa de la Secretaría. Las personas físicas o morales que pretendan llevar a cabo deberán:
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+I. Contar con autorización de la Secretaría para su operación, así como para la ampliación o modificación de sus actividades;
+
+II. Presentar la manifestación de impacto ambiental;
+
+III. Prevenir la emisión o el desprendimiento de polvos, humos, gases o ruidos que pudieran dañar el medio ambiente;
+
+IV. Controlar y disponer adecuadamente de sus residuos y evitar su propagación fuera de los predios en los que se lleven a cabo;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+V. Aplicar las disposiciones que en materia de control de contingencias ambientales establezca la Secretaría, de conformidad a la autorización que emita; y
+
+VI. Presentar y ejecutar un proyecto para la rehabilitación del área en donde se desarrollen.
+
+2. Así mismo, el aprovechamiento estará sujeto a las siguientes previsiones:
+
+I. Se cumplirá con la Norma Ambiental Estatal correspondiente;
+
+II. No deberá alterar o dañar los elementos naturales del área de influencia, así como tampoco la infraestructura existente en su entorno;
+
+III. Se llevará a cabo a cielo abierto en ladera, prohibiéndose efectuarla en forma de túneles; la inclinación de taludes deberá corresponder al ángulo de reposo natural del material que se esté explotando y a sus condiciones de saturación de humedad; y
+
+IV. Se dejará libre de explotación una franja no menor de veinte metros de ancho en todo el perímetro de las colindancias del predio, o mayor según fueren las características del material; cuando en el predio o en alguno de sus linderos, se encuentre una zona de restricción federal o estatal, dicha franja se contará a partir del límite del derecho de vía o zona.
 
 ###### ARTICULO 78.
 
-Los cateos deberán practicarse entre las seis y dieciocho horas; pero si llegadas las mismas no se han terminado, podrán continuarse hasta su conclusión.
+El titular de la autorización para la explotación tendrá, entre otras, las obligaciones siguientes:
+
+I. Ejecutar los trabajos de explotación de materiales geológicos conforme a la resolución respectiva;
+
+II. Mantener en buenas condiciones de seguridad, estabilidad e higiene el predio donde se efectúen los trabajos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+III. Dar aviso a la Secretaría de la conclusión de sus actividades, dentro de los tres días hábiles siguientes a la terminación de los trabajos;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV. Pagar al Estado los derechos correspondientes, conforme a lo establecido en la Ley de Hacienda para el Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+V. Rendir a la Secretaría con la periodicidad que para cada caso ésta señale, los informes sobre el desarrollo de los trabajos de explotación, volúmenes de material extraído y de material desechado; y
+
+VI. Realizar las obras de mejoramiento ambiental que se indiquen en la resolución respectiva.
 
 ###### ARTICULO 79.
 
-Cuando la urgencia del caso lo requiera, podrán practicarse los cateos a cualquiera hora, debiendo expresarse esta circunstancia en el mandamiento judicial.
+1. La resolución para la explotación de un banco de materiales, así como para toda otra actividad que se realice preponderantemente por medio de trabajos a cielo abierto, tendrá la vigencia que en la misma se determine.
+
+2. La solicitud de prórroga de la autorización deberá presentarse con una anticipación equivalente al menos al 10 por ciento del período para que fenezca la vigencia a que se refiere el párrafo anterior y contendrá lo siguiente:
+
+I. Etapa y frente de explotación por iniciar, así como el volumen del material por extraerse en el período que corresponda a la prórroga, conforme a los planos de nivelación y seccionamiento correspondientes; y
+
+II. Firma del solicitante y del respectivo perito.
+
+3. A la solicitud deberá acompañarse copia de la autorización original y, en su caso, de la prórroga anterior; los planos de nivelación y seccionamiento y el estado del avance del cumplimiento de las condicionantes impuestas en la resolución.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. Dentro de los diez días hábiles siguientes a la presentación de la solicitud, la Secretaría procederá a efectuar la verificación correspondiente y una vez realizada ésta, expedirá la orden para el pago de derechos dentro de los tres días hábiles siguientes. Una vez entregado el correspondiente comprobante por el solicitante, la Secretaría emitirá la autorización dentro de los cinco días hábiles siguientes.
+
+5. La autorización a que se refiere el presente Capítulo podrá tramitarse conjuntamente con la solicitud de autorización en materia de impacto ambiental.
 
 ###### ARTICULO 80.
 
-Si al practicarse un cateo resultare casualmente el descubrimiento de un delito distinto del que lo haya motivado, se hará constar en el acta correspondiente, siempre que el delito descubierto sea de los que se persiguen de oficio.
+Procederá la revocación de la autorización para la explotación en los siguientes casos:
+
+I. Se detecten, a través del procedimiento de inspección previsto en este Código, la falta de ejecución, en su caso, de las obras que garanticen la estabilidad de la explotación, la protección y conservación del medio ambiente o la seguridad de los operarios, contempladas en el proyecto y memoria explicativa o en la autorización respectiva, o exigidos por la autoridad en el transcurso del laboreo del banco;
+
+II. Cuando en el desarrollo de las actividades de explotación, existan riesgos que no puedan ser remediados en forma alguna;
+
+III. Se detecte incumplimiento a las disposiciones de este Libro, sus reglamentos, a los términos y condiciones de la autorización o concesión respectiva y a la normatividad ambiental vigente; o
+
+IV. Se hubiere falseado la información en la correspondiente solicitud y sus anexos, sin perjuicio de la adopción por parte de la autoridad de las medidas de seguridad y aplicación de sanciones que procedan.
 
 ###### ARTICULO 81.
 
-Si la visita tuviere que hacerse en la casa oficial de algún agente diplomático, el juez solicitará instrucciones a la Secretaría de Relaciones Exteriores, y procederá de acuerdo con ellas. Mientras las recibe, tomará en el exterior de la casa las providencias que estime convenientes.
+Corresponden, al Estado y a los Ayuntamientos, en sus respectivas competencias, vigilar que los responsables de la exploración, explotación y aprovechamiento de los recursos minerales o substancias a que se refiere este Capítulo, cumplan con las disposiciones que sobre la materia señala el presente Libro, así como en torno del aprovechamiento de los recursos minerales o substancias reservadas a la Federación, cuando el mismo cause desequilibrio ambiental.
 
 ###### ARTICULO 82.
 
-Al practicarse un cateo, si el juez lo autoriza, se recogerán los instrumentos y objetos del delito, así como los libros, papeles o cualesquiera otras cosas que se encuentren, si fueren conducentes al éxito de la investigación o estuvieren relacionadas con el delito, en el caso previsto en el artículo 80 de este Código.
+Para la aplicación de las disposiciones contenidas en el presente Capítulo se considerarán como:
 
-Se formará un inventario de los objetos que se recojan relacionados con el delito que motive el cateo, y, en su caso, otro por separado con los que se relacionen con el nuevo delito.
+I. Fuentes emisoras de competencia estatal:
+
+a) Aquellas industrias y subsectores específicos, que por exclusión del artículo 111 Bis de la Ley General no sean de competencia federal;
+
+b) Aquellas de carácter fijo que funcionen como establecimientos industriales o de carácter móvil que no sean de competencia federal, como el parque vehicular de servicio público y el particular que circule dentro del territorio del Estado; y
+
+c) Las señaladas en otras disposiciones legales aplicables y cuya regulación no corresponda a la competencia federal.
+
+II. Fuentes emisoras de competencia municipal:
+
+a) Los establecimientos mercantiles o de servicios dentro de la circunscripción territorial del municipio; y
+
+b) En general todas aquellas que no sean de competencia estatal o federal.
 
 ###### ARTICULO 83.
 
-Si el inculpado estuviere presente, se les mostrarán los objetos recogidos, para que los reconozca y ponga en ellos su firma o rúbrica, si fueren susceptibles de ello; y si no supiere firmar, sus huellas digitales.
-
-En caso contrario, se unirá a ellos una tira de papel que se sellará en la juntura de los dos extremos, y se invitará al inculpado a que firme o ponga sus huellas digitales. En ambos casos se hará constar esta circunstancia, así como si no pudiera firmar o poner sus huellas digitales o se negare a ello.
+Para la protección de la atmósfera se considerará que la calidad del aire sea satisfactoria en todos los asentamientos humanos y las regiones de la entidad y que las emisiones de contaminantes a la atmósfera, de fuentes artificiales o naturales, fijas o móviles, sean reducidas y controladas.
 
 ###### ARTICULO 84.
 
-En la misma forma que determina este capítulo, se procederá cuando mediare exhorto o requisitoria de otro tribunal o funcionario competente, para el cateo.
+No deberán emitirse contaminantes a la atmósfera que ocasionen o puedan ocasionar desequilibrios ecológicos o daños al medio ambiente, salvo que sean emisiones a la atmósfera conformes con las previsiones de este Libro y sus disposiciones reglamentarias, así como las Normas Oficiales Mexicanas y, en su caso, las Normas Ambientales Estatales.
 
-### CAPITULO SEPTIMO. PLAZOS JUDICIALES
+### CAPITULO I. DE LA PLANEACION AMBIENTAL
 
 ###### ARTICULO 85.
 
-En los procesos penales, los plazos son improrrogables y empezarán a correr desde el día siguiente al de la fecha de la notificación, salvo los casos señalados expresamente en este código.
+En materia de prevención y control de la contaminación atmosférica, el Estado y los Ayuntamientos, de conformidad con sus atribuciones previstas en la Ley General, y anteponiendo la salud de las personas, tendrán a su cargo:
+
+I. Controlar la contaminación del aire en los bienes y zonas de sus respectivas competencias, así como en fuentes fijas que funcionen como establecimientos industriales, comerciales y de servicios, siempre que no estén comprendidos en el artículo 111 bis de la Ley General;
+
+II. Aplicar los criterios generales para la protección a la atmósfera en los programas de desarrollo urbano de su competencia, definiendo las zonas en que sea permitida la instalación de industrias contaminantes;
+
+III. Requerir a los responsables de la operación de fuentes fijas de competencia estatal, el cumplimiento de los límites máximos permisibles de emisión de contaminantes, de conformidad con lo dispuesto en el Reglamento del presente Libro, las Normas Oficiales Mexicanas, las Normas Ambientales Estatales en su caso;
+
+IV. Integrar y mantener actualizado el inventario de fuentes de contaminación;
+
+V. Establecer y operar sistemas de verificación de emisiones de automotores en circulación;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+VI. Establecer y operar, con el apoyo técnico, en su caso, de la Secretaría, sistemas de monitoreo de la calidad del aire; los gobiernos municipales remitirán a la Secretaría los reportes de monitoreo atmosférico, a fin de que aquélla los integre al Sistema Estatal de Información Ambiental;
+
+VII. Establecer requisitos y procedimientos para regular las emisiones del transporte público, excepto el federal, y las medidas de tránsito y, en su caso, la suspensión de circulación, en casos graves de contaminación;
+
+VIII. Aplicar las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica;
+
+IX. Elaborar los informes sobre el estado del medio ambiente en la entidad o municipio correspondiente, estos últimos conforme a los acuerdos de coordinación que celebren;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+X. Establecer e imponer sanciones y medidas por infracciones a este Libro y demás disposiciones aplicables;
+
+XI. Formular y aplicar programas de gestión de calidad del aire, de conformidad con las Normas Oficiales Mexicanas y las Normas Ambientales Estatales en la materia; y
+
+XII. Ejercer las demás atribuciones que les confieren las disposiciones legales y reglamentarias aplicables.
 
 ###### ARTICULO 86.
 
-Los plazos se contarán por días naturales, pero no se tomarán en cuenta los sábados y domingos, ni los días inhábiles, excepto cuando deba hacerse el cómputo por horas, conforme a disposición expresa.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Considerando el dictamen técnico que formule, la Secretaría establecerá los sistemas de monitoreo de la calidad del aire en los términos de los criterios contenidos en este Código y la Ley General.
+
+2. Los Ayuntamientos podrán operar estos sistemas y cumplirán los requisitos y Normas Oficiales Mexicanas correspondientes así como, en su caso, las Normas Ambientales Estatales.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. Los resultados del monitoreo se incorporarán al Sistema Estatal de Información Ambiental a cargo de la Secretaría.
 
 ###### ARTICULO 87.
 
-Los plazos que señala este Código para tomar declaración preparatoria al inculpado, o para resolver la procedencia de su formal prisión o libertad por falta de elementos para procesar, se contarán de momento a momento, desde que el procesado fuere puesto a disposición de la autoridad judicial.
+1. Las actividades y proyectos que constituyan fuentes fijas de contaminación atmosférica de competencia estatal, quedarán afectos a las obligaciones siguientes:
+
+I. Integrar un inventario de sus emisiones y proporcionar toda la información y documentos que le solicite la autoridad en ejercicio de sus facultades;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+II. Instalar equipos o sistemas para el control de las emisiones contaminantes, conforme a lo establecido en la normatividad ambiental federal y estatal, y conforme a las medidas técnicas fijadas por la Secretaría en los términos y plazos establecidos en el presente Libro y sus disposiciones reglamentarias;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+III. Medir sus emisiones contaminantes a la atmósfera conforme a los parámetros y periodicidad señalados en el Reglamento respectivo y en la normatividad ambiental vigente, así como registrar los resultados en el formato que determine la Secretaría;
+
+IV. Llevar a cabo el monitoreo perimetral de sus emisiones contaminantes a la atmósfera, cuando la fuente de que se trate se localice en zonas urbanas o suburbanas, cuando colinde con áreas naturales protegidas o cuando por sus características de operación o por sus materias primas, productos o subproductos, puedan causar deterioro a los ecosistemas;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+V. Dar aviso anticipado a la Secretaría del inicio de operación de sus procesos en el caso de paros programados y de inmediato en el caso de que éstos sean circunstanciales, si los niveles de contaminantes son superiores a los valores normales por un periodo de tiempo, que se establecerá en el Reglamento de este Libro;
+
+VI. Dar aviso inmediato a la autoridad competente en caso de descompostura o falla de los equipos de control, para que ésta determine lo conducente; y
+
+VII. Llevar la bitácora de operación y mantenimiento de sus equipos de proceso y de control, así como dar cumplimiento a las demás obligaciones señaladas a los responsables en el presente Libro y sus disposiciones reglamentarias.
+
+2. Adicionalmente, las actividades y proyectos a que se refiere el párrafo anterior se sujetarán a los criterios siguientes:
+
+I. En las zonas próximas a áreas habitacionales en las que estén permitidas actividades industriales, según los respectivos programas de desarrollo urbano, sólo podrán establecerse industrias medianas o ligeras que por su tecnología y tipo de combustible, garanticen no rebasar los límites de emisión establecidos por la normatividad ambiental federal y estatal; y
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+II. Las empresas públicas y privadas que pretendan realizar el cambio de sus sistemas de combustión para adoptar procedimientos de menor impacto al medio ambiente, deberán comunicarlo previamente a la Secretaría, a efecto de que ésta cuente con la información que le permita emitir el dictamen correspondiente.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. En todo caso, los responsables de las fuentes fijas emisoras de contaminantes de competencia estatal requerirán permiso de operación, por parte de la Secretaría o el Ayuntamiento que corresponda, conforme al procedimiento respectivo y previa la satisfacción de los requisitos establecidos en el Reglamento de este Libro, sin perjuicio de las autorizaciones que deban expedir otras autoridades competentes.
 
 ###### ARTICULO 88.
 
-Cuando este código no fije plazo especial, el término será de tres días.
+Una vez otorgado el permiso de operación, el responsable de las emisiones deberá actualizarlo ante la autoridad competente, dentro de la fecha que señale la misma y conforme a los procedimientos que determinen los reglamentos aplicables.
 
 ###### ARTICULO 89.
 
-Siempre que la práctica de un acto judicial requiera citación de personas que estén fuera del lugar del proceso, para que concurran ante el tribunal, se debe fijar un plazo en que se aumente al señalado por la Ley, el número de días que el tribunal estime suficientes, teniendo en cuenta la mayor o menor facilidad en las comunicaciones.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Las emisiones contaminantes a la atmósfera generadas por fuentes fijas de competencia estatal, deberán canalizarse a través de ductos o chimeneas de descarga; cuando esto no sea posible por razones de índole técnica, el responsable de la fuente emisora deberá presentar un estudio justificativo ante la Secretaría o ante la autoridad municipal que corresponda, a fin de que se resuelva lo conducente.
+
+2. Queda prohibida la emisión de contaminantes a nivel de piso que no estén debidamente canalizados, así como de emisiones fugitivas en equipos de proceso y control.
 
 ###### ARTICULO 90.
 
-Los plazos se reputarán comunes, salvo que por su naturaleza, o por disposición de la Ley, sean individuales.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-### CAPITULO OCTAVO. AUDIENCIAS
+1. La Secretaría podrá expedir conforme a los procedimientos y previa la satisfacción de los requisitos establecidos en el Reglamento del presente Libro, permisos de operación temporales para aquellas fuentes emisoras estacionarias que permanezcan en operación un término no mayor de sesenta días naturales en el mismo sitio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2004)</small>
+2. Los responsables de dichas fuentes deberán apegarse a las disposiciones previstas en este Código, así como a las relativas a impacto ambiental para la elaboración del manifiesto cuando por su actividad se requiera.
+
+3. Los responsables de fuentes fijas de competencia estatal o municipal, están obligados a presentar sus evaluaciones de emisiones con la periodicidad que se señale en el Reglamento de este Libro y en la normatividad ambiental vigente.
+
+### CAPITULO II. DE LOS INSTRUMENTOS ECONOMICOS
 
 ###### ARTICULO 91.
 
-Las audiencias serán públicas, excepto cuando el Juez o Magistrado por su propia consideración o a petición de las partes, estimen que solo asistan las partes y demás personas que deban intervenir en ellas, en virtud de que pudiera afectarse la moral; la integridad física, psicológica o la seguridad de alguna de las partes; directamente el pudor de la víctima o de alguna persona citada para participar; se examine a un menor; se afecte el orden público o en los casos que determine la Ley. En estos casos las diligencias se celebrarán en el despacho del Juez o Magistrado.
+1. Por excepción se permitirá la combustión a cielo abierto en zonas urbanas cuando se efectúe con permiso del Ayuntamiento, para adiestrar y capacitar al personal encargado del combate de incendios y en las actividades previstas por la Ley de Desarrollo Forestal Sustentable para el Estado.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+2. Para obtener el permiso a que se refiere el párrafo anterior, el interesado deberá presentar al Ayuntamiento la solicitud por escrito, cuando menos con diez días hábiles de anterioridad a la fecha en que se tenga programada la acción, con la siguiente información y documentación:
 
-Tratándose del Juicio Oral Penal se determinará que el público abandone la sala de audiencia, cuando se presenten los supuestos del párrafo anterior y solo permanecerán en la sala, las partes y demás personas que deban intervenir en ellas.
+I. Croquis de localización del predio, indicando el lugar preciso en el que se efectuarán las combustiones, así como las construcciones y colindancias más próximas, además de las condiciones que imperen en el lugar;
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+II. Programa calendarizado en el que se precise la fecha y horarios en los que tendrá lugar la combustión; y
 
-Las audiencias se llevarán a cabo, concurran o no las partes, salvo el Ministerio Público y el defensor, que no podrán dejar de asistir a ellas, con excepción de lo establecido en este Código.
+III. Tipos y cantidades del combustible que se incinerará.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
-
-Tratándose de cualquiera de los delitos establecidos en los artículos 165 bis, 176, 357, 357 Bis, 358 Bis 2 ó 395 del Código Penal para el Estado, tanto las autoridades investigadoras como las Judiciales deberán desahogar todas las diligencias con los procesados o sentenciados en las instalaciones del centro de reinserción social en que se encuentre el detenido, a fin de procurar mayor seguridad a la comunidad y evitar riesgos de evasión. La autoridad ejecutora dará las facilidades necesarias para la práctica de las audiencias que requieran la presencia del inculpado.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
-
-Por los mismos fines expuestos en el párrafo anterior, tratándose de cualquiera de los delitos establecidos en los articulas 165 Bis, 176, 357, 357 Bis, 358 Bis 2 ó 395 del Código Penal para el Estado, las autoridades investigadoras o judiciales en su caso, podrán disponer de la presencia del inculpado en forma virtual durante el desahogo de cualquier audiencia dentro del proceso, mediante el sistema de videoconferencia, asegurando en todo caso la posibilidad de contradicción de las partes y la salvaguarda del derecho de defensa.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
-
-En el supuesto a que se refiere el artículo 34 de este Código, no podrán llevarse a cabo las audiencias en que deba participar el inculpado sin el intérprete o traductor a que dicho precepto se refiere. Exceptuando los casos de competencia del juicio oral, si el inculpado se encuentra privado de su libertad, la audiencia podrá celebrarse a través de videoconferencia, en los términos precisados en los artículos 24 y 25 de este ordenamiento.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
-
-La declaración de la víctima o el ofendido, o del testigo según sea el caso, cuando se trate de delitos sexuales, privación ilegal de la libertad con carácter de secuestro, equiparable a la privación ilegal de la libertad con carácter de secuestro o violencia familiar, se llevara a cabo de una manera que no perciba la presencia del Inculpado.
-
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
-
-Es permisible video grabar y fotografiar la audiencia o alguna parte de ella por terceras personas, excepto cuando una de las partes o los intervinientes se opusiere a ello, lo anterior para reconocer el derecho particular de preservar el respeto de su honra y el reconocimiento de su dignidad.
-
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
-
-La prensa y el público podrán ser excluidos de la totalidad o parte de los juicios por consideraciones de moral, orden público o seguridad interior del Estado, o cuando lo exija el interés de la vida privada de las partes o, en la medida estrictamente necesaria en opinión del Juez, cuando por circunstancias especiales del asunto la publicidad pudiera perjudicar los intereses de la justicia.
+3. El Ayuntamiento podrá suspender de manera temporal o definitiva el permiso a que se refiere este artículo, cuando se presente alguna contingencia ambiental en la zona.
 
 ###### ARTICULO 92.
 
-Todos los que asistan a la audiencia estarán con la cabeza descubierta, con respeto y en silencio, quedando prohibido dar señales de aprobación o desaprobación y externar opiniones o manifestarse de cualquier modo sobre la culpabilidad o inocencia del inculpado, sobre las pruebas que se rindan o sobre la conducta de alguno de los que intervienen.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-El transgresor será amonestado; si reincidiere, se le ordenará salir del local donde la audiencia se celebre. Si se resiste a salir o vuelve al lugar, se le expulsará por medio de la fuerza pública, y se le impondrá multa como corrección disciplinaria.
+1. La Secretaría o los Ayuntamientos, en el ámbito de sus respectivas competencias establecerán los mecanismos para evitar o prohibir:
+
+I. La descarga de contaminantes a la atmósfera cualquiera que sea la fuente de su emisión, que provoquen o puedan ocasionar deterioro ambiental, daños o molestias a la salud de las personas y, en general, a los ecosistemas;
+
+II. La circulación de vehículos automotores cuyos niveles de emisión de contaminantes a la atmósfera, rebasen los límites máximos permisibles por la normatividad ambiental;
+
+III. La quema de cualquier tipo de desecho y residuo sólido o líquido; y
+
+IV. Las prácticas de roza, tumba y quema con fines de desmonte o deshierbe de terrenos, excepto aquellas que se encuentren sujetas a la observancia y cumplimiento de la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Quienes realicen actividades agrícolas, ganaderas, forestales o similares en áreas ubicadas fuera de los centros de población, por sí o a través de las asociaciones o grupos en que se encuentren constituidos, elaborarán un plan de prevención de contingencias ambientales, mismo que deberán presentar a la Secretaría para su evaluación, previamente a la ejecución de cualquier quema a cielo abierto. Lo anterior sin demérito de las atribuciones del Ayuntamiento en la materia.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 93.
 
-Cuando se altere el orden, el funcionario que presida la audiencia ordenará que la fuerza pública desaloje a los causantes, a quienes podrá imponerse además, arresto o multa como corrección disciplinaria, continuándose la audiencia en su despacho.
+La certificación o constatación de los niveles de emisión de contaminantes a la atmósfera que respecto de fuentes emisoras en lo particular lleve a cabo la Secretaría, se efectuará con arreglo a las Normas Oficiales Mexicanas formuladas al respecto.
 
 ###### ARTICULO 94.
 
-Si el inculpado altera el orden, o injuria a cualquier persona que se encuentre en la audiencia, se le apercibirá de que si insiste en su actitud, se tendrá por renunciado su derecho de estar presente; si no obstante esto continúa, se le mandará retirar del local, y proseguirá la audiencia con su defensor; además, el Tribunal podrá aplicarle la corrección disciplinaria que estime pertinente.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Los vehículos automotores que circulen en la circunscripción territorial del Estado deberán ser objeto de verificación periódica de manera semestral, con el propósito de controlar las emisiones contaminantes mediante los sistemas estatales que establezca la Secretaría, o en los lugares autorizados para ese efecto.
+
+2. Los vehículos automotores cuyos niveles de emisión de contaminantes a la atmósfera rebasen los límites máximos permisibles establecidos en las Normas Oficiales Mexicanas, no podrán circular en el territorio del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría regulará, desarrollará y controlará el Sistema Estatal de Verificación Vehicular, de conformidad a las previsiones del reglamento respectivo.
 
 ###### ARTICULO 95.
 
-Si es el defensor quien altera el orden, se le apercibirá; y si continúa en la misma actitud, se le expulsará del local. Además, podrá imonérsele (sic) una corrección disciplinaria, designándose de inmediato un defensor de oficio al inculpado, sin perjuicio del derecho de éste para designar en el acto, o con posterioridad, a persona de su confianza que lo defienda, o defenderse por sí mismo.
+Los propietarios de vehículos destinados al transporte público en el Estado adoptarán las medidas necesarias, para controlar y reducir las emisiones vehiculares de contaminantes a la atmósfera, de conformidad con la normatividad aplicable.
 
 ###### ARTICULO 96.
 
-Cuando el Agente del Ministerio Público cometa alguna falta durante la audiencia, se le impondrá multa; en caso de que reincida, el hecho se pondrá en conocimiento del Procurador General de Justicia, para que envíe otro agente a substituirlo.
+1. Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica y lumínica y la generación de contaminación visual, en cuanto rebasen los límites máximos establecidos en las Normas Oficiales Mexicanas o en su caso las Normas Ambientales Estatales.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La Secretaría y los Ayuntamientos, dentro del ámbito de sus respectivas competencias, llevarán a cabo la inspección, vigilancia y aplicación de medidas para exigir el cumplimiento de las disposiciones en la materia.
+
+3. En la realización de obras o actividades susceptibles de producir los efectos contaminantes previstos en el párrafo 1 de este artículo, se efectuarán las acciones preventivas y correctivas necesarias para evitar y mitigar los efectos nocivos de tales contaminantes en los ecosistemas y en el medio ambiente.
 
 ###### ARTICULO 97.
 
-En las audiencias, la policía estará a cargo del funcionario que presida.
+En materia de prevención y control de la contaminación visual, cuando se genere en zonas o por fuentes de competencia federal y afecte áreas de competencia estatal o municipal, las autoridades estatales o municipales promoverán su prevención y control.
 
 ###### ARTICULO 98.
 
-En todos los casos a que se refiere este capítulo, si las conductas fuesen constitutivas de delito, con testimonio del acta que se levante y de las constancias que se estimen conducentes se hará del conocimiento del Ministerio Público, para lo que corresponda.
+En términos de este Código, los Ayuntamientos regularán y controlarán la contaminación visual provocada por estructuras o la colocación de espectaculares de carácter publicitario hacia las vías públicas, a través de las disposiciones reglamentarias y bandos que expidan en la materia.
 
 ###### ARTICULO 99.
 
-En las audiencias el inculpado podrá defenderse por sí mismo o por la persona que nombre libremente.
+1. Para prevenir la contaminación visual, los Ayuntamientos sólo otorgarán licencias para la instalación de estructuras o la colocación de espectaculares de carácter publicitario, considerando distancias, alturas, sitios, tamaños pretendidos y demás características generales, de los elementos visibles desde la vía pública, cuando:
 
-El nombramiento de defensor no excluye el derecho de defenderse por sí mismo.
+I. Estén en armonía con las características de la estética e imagen urbana, conforme a las Normas Ambientales Estatales que correspondan;
 
-El juez o magistrado preguntará siempre al inculpado, antes de cerrar el debate, si quiere hacer uso de la palabra, concediéndosela en caso afirmativo.
+II. Se ubiquen en zonas o áreas permitidas conforme al programa de desarrollo urbano correspondiente; y
 
-Si algún inculpado tuviere varios defensores, sólo se oirá a uno en la defensa; y al mismo o a otro en la réplica.
+III. Se cumpla con la normatividad aplicable en materia urbanística.
+
+2. Queda prohibida la instalación de estructuras, la colocación de espectaculares de carácter publicitario o elementos visibles, en los siguientes casos:
+
+I. En áreas naturales protegidas o en zonas clasificadas como habitacionales;
+
+II. En sitios y monumentos considerados de patrimonio histórico, arquitectónico o cultural;
+
+III. Cuando afecten o impacten nocivamente el paisaje natural o urbano;
+
+IV. Cuando generen o proyecten imágenes o símbolos distractores;
+
+V. Cuando ocasionen riesgo o peligro para la población, o cuando obstaculicen en forma alguna la visibilidad de los señalamientos que permiten a las personas transitar y orientarse dentro de los centros de población;
+
+VI. Cuando obstruyan la visibilidad en túneles, puentes, pasos a desnivel, vialidades o señalamientos de tránsito;
+
+VII. Cuando se pretendan colocar en espacios, monumentos o edificios públicos, en elementos del equipo urbano carretero o ferroviario, o en accidentes geográficos; o
+
+VIII. Contravengan este Código u otros ordenamientos aplicables a la materia.
+
+3. Los Ayuntamientos deberán incorporar en sus bandos de policía y buen gobierno y reglamentos, disposiciones que regulen obras, actividades y elementos publicitarios, a fin de evitar el deterioro del paisaje rural y urbano, y evitar la contaminación visual, procurando crear una imagen armónica de los centros de población.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2021)</small>
+
+ARTICULO 99 BIS. Para lograr la prevención, reducción y control de la contaminación lumínica en la atmósfera, se deberán considerar los siguientes objetivos:
+
+a) Promover la eficiencia energética a través de un uso eficiente del alumbrado exterior, sin menoscabo de la seguridad que debe proporcionar a los peatones, los vehículos y las propiedades;
+
+b) Preservar al máximo posible las condiciones naturales de las horas nocturnas en beneficio de la fauna, la flora y los ecosistemas en general;
+
+c) Prevenir, minimizar y corregir los efectos de la contaminación lumínica en el cielo;
+
+d) Promover la eficiencia energética a través de un uso eficiente del alumbrado exterior, sin menoscabo de la seguridad que debe proporcionar a los peatones, los vehículos y las propiedades;
+
+e) Preservar al máximo posible las condiciones naturales de las horas nocturnas en beneficio de la fauna, la flora y los ecosistemas en general; y
+
+f) Prevenir, minimizar y corregir los efectos de la contaminación lumínica en el cielo.
 
 ###### ARTICULO 100.
 
-Durante la audiencia el inculpado sólo podrá comunicarse con sus defensores, sin poder dirigir la palabra al público.
+1. Para la prevención y control de la contaminación de las aguas de jurisdicción estatal, y las que tuviera asignadas el Estado conforme a la legislación nacional aplicable se deberán aplicar las disposiciones de este Código, observando lo dispuesto en la Ley de Aguas del Estado, las Normas Oficiales Mexicanas y las Normas Ambientales Estatales, y demás ordenamientos aplicables. En esta materia se observarán los siguientes criterios:
 
-Si infringieren esta disposición, tanto al inculpado como a aquél con quien se comunique, se les impondrá arresto o multa como corrección disciplinaria.
+I. La prevención y control de la contaminación del agua es fundamental para evitar que se reduzca su disponibilidad en calidad y cantidad, y para proteger los ecosistemas del Estado;
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+II. El aprovechamiento del agua en actividades productivas susceptibles de generar contaminación, conlleva la responsabilidad del usuario para realizar el tratamiento de las descargas, para reintegrarla en condiciones adecuadas con el fin de reutilizarla en otras actividades y mantener el equilibrio de los ecosistemas;
+
+III. Los ríos, cuencas, vasos y demás depósitos o corrientes de agua, incluyendo las del subsuelo, no deberán recibir aguas residuales sin su previo tratamiento; y
+
+IV. Las aguas residuales de origen urbano deben recibir tratamiento previo a su descarga en ríos, cuencas, vasos, aguas marinas y demás depósitos o corrientes de agua, incluyendo las aguas del subsuelo.
+
+2. Corresponde al Estado, prevenir y controlar la contaminación de las aguas que se encuentren dentro de su territorio, así como las que les fueren asignadas por la Federación, en coordinación con la Comisión Nacional del Agua.
+
+3. El Estado y los Ayuntamientos propiciarán la participación y corresponsabilidad de la sociedad considerando que es condición indispensable para evitar la contaminación del agua.
 
 ###### ARTICULO 101.
 
-La parte ofendida, la víctima o sus legítimos representantes, pueden comparecer en la audiencia y alegar lo que a su derecho convenga, a través del Ministerio Público.
+La prevención y control de la contaminación del agua corresponderá:
 
-### CAPITULO NOVENO. RESOLUCIONES JUDICIALES
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+I. Al Estado, a través de la Secretaría y con la participación que corresponda a otras dependencias o entidades estatales con competencia en materia de aguas:
+
+a) Las aguas de jurisdicción federal que tengan asignadas para la prestación de servicios públicos diversos a los señalados en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
+
+b) Las aguas de jurisdicción del Estado; y
+
+c) Las aguas residuales que se descarguen en los sistemas de drenaje y alcantarillado de su competencia.
+
+II. A los Ayuntamientos, con la participación que corresponda a los organismos municipales operadores del servicio de agua potable y alcantarillado:
+
+a) Las aguas de jurisdicción federal que tengan asignadas; y
+
+b) Las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población;
+
+### CAPITULO UNICO
 
 ###### ARTICULO 102.
 
-Las resoluciones judiciales son: sentencias, las que terminan la instancia resolviendo el asunto en lo principal; autos, determinaciones de otra índole, y decretos, simples determinaciones de trámite.
-
-Toda resolución expresará fecha y lugar en que se pronuncie.
+Las descargas de aguas residuales en los sistemas de drenaje y alcantarillado municipales requieren la autorización del Ayuntamiento respectivo, el cual podrá exigir el previo tratamiento de los contaminantes que contenga.
 
 ###### ARTICULO 103.
 
-Las resoluciones judiciales deberán estar fundadas y motivadas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1991)</small>
+La Secretaría y los Ayuntamientos en la esfera de sus respectivas competencias, podrán verificar que las aguas residuales provenientes de usos públicos urbanos y las de usos industriales o agropecuarios que se descarguen en los sistemas de drenaje y alcantarillado de las poblaciones o en las cuencas, ríos, cauces, vasos y demás depósitos o corrientes de agua, así como las que por cualquier medio se infiltren en el subsuelo y, en general, las que se derramen en los suelos, reúnan las condiciones necesarias para prevenir:
+
+I. La contaminación de los cuerpos receptores;
+
+II. Interferencias en los procesos de depuración de las aguas; y
+
+III. Trastornos, impedimentos o alteraciones en los correctos aprovechamientos, o en el funcionamiento adecuado de los sistemas, y en la capacidad hidráulica en las cuencas, cauces, vasos, mantos acuíferos y demás depósitos de propiedad nacional, así como de los sistemas de alcantarillado.
 
 ###### ARTICULO 104.
 
-Las sentencias contendrán:
+1. En materia de prevención y control de la contaminación del agua, corresponden al Estado y a los Ayuntamientos, por sí o a través de los organismos operadores del recurso agua, de conformidad con la distribución de competencias establecidas en la Ley de Aguas Nacionales, este Código y sus reglamentos y la Ley General:
 
-I.- El lugar y fecha en que se pronuncien;
+I. El control de las descargas de aguas residuales a los sistemas de drenaje y alcantarillado;
 
-II.- La designación del Tribunal que las dicte;
+II. La vigilancia de las Normas Oficiales Mexicanas correspondientes, así como requerir a quienes generen descargas a dichos sistemas y no cumplan con éstas, la instalación de sistemas de tratamiento;
 
-III.- Los nombres y apellidos del acusado, su sobrenombre si lo tuviere, el lugar de su nacimiento, su edad, su estado civil, en su caso a que grupo étnico indígena al que pertenece, su idioma, su residencia o domicilio y su ocupación, oficio o profesión;
+III. Determinar el monto de los derechos correspondientes para que la autoridad estatal respectiva o el Ayuntamiento, en su caso, pueda llevar a cabo el tratamiento necesario y cuando así proceda, a la imposición de las sanciones a que haya lugar; y
 
-IV.- Bajo el rubro "resultando" un extracto breve de los hechos conducentes a la resolución;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-V.- Bajo el rubro "considerando" las razones y fundamentos jurídicos sobre la apreciación de los hechos en el auto de consignación, la valoración de las pruebas;
+IV. Llevar y actualizar el registro de las descargas a los sistemas de drenaje y alcantarillado que administren, el que será integrado al Registro Estatal de Descargas a cargo de la Secretaría.
 
-VI.- La condenación o absolución que proceda y los puntos resolutivos correspondientes.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-Los autos salvo que la Ley disponga casos especiales, deberán dictarse dentro de los tres días siguientes a la fecha de presentación de la promoción o causa que los origine, y contendrán una breve exposición del punto de que se trate, y la resolución que corresponda precedida de su motivación y fundamentos legales.
-
-Los autos que contengan resoluciones de mero trámite, deberán dictarse dentro de cuarenta y ocho horas, contadas desde aquella en que se haga la promoción.
-
-La sentencia se dictará dentro de quince días, contados desde el siguiente al de la conclusión de la audiencia; si el expediente excediere de quinientas hojas, por cada cincuenta de exceso se aumentará un día más de plazo.
+2. Para la protección integral de los ecosistemas del Estado, los usuarios del agua de los sectores público, social o privado que descarguen aguas residuales directamente en cuerpos de agua de jurisdicción federal deberán informar lo conducente a la Secretaría.
 
 ###### ARTICULO 105.
 
-Las resoluciones se pronunciarán por los respectivos jueces o magistrados, firmándolas en unión del secretario o de quien haga las veces de este último.
+1. Todas las descargas en las redes colectoras, ríos, acuíferos, cuencas, cauces, vasos, aguas marinas y demás depósitos o corrientes de agua y los derrames de aguas residuales en los suelos o su infiltración en terrenos, deberán cumplir con las Normas Oficiales Mexicanas y las Normas Ambientales Estatales, en su caso.
+
+2. Corresponderá a quien genere dichas descargas, realizar por sí o por terceros el tratamiento previo requerido.
 
 ###### ARTICULO 106.
 
-Cuando se trate de resoluciones de la competencia del Tribunal Pleno, se dictarán en la forma y con los requisitos establecidos en la Ley Orgánica del Poder Judicial del Estado.
+Para el diseño, operación o administración de equipos y sistemas de tratamiento de aguas residuales, deberán observarse las disposiciones previstas en el presente Código, en los reglamentos de la materia y en las Normas Oficiales Mexicana y en su caso, en las Normas Ambientales Estatales.
 
 ###### ARTICULO 107.
 
-En los casos del artículo que precede, el magistrado que no estuviere conforme con la decisión adoptada, extenderá y firmará su voto particular, expresando suscintamente (sic) los fundamentos esenciales de su opinión. Este voto se agregará al expediente.
+Las aguas residuales derivadas de aguas nacionales asignadas a los Municipios para la prestación de servicios públicos, podrán reusarse si se someten al tratamiento que cumpla con las Normas Oficiales Mexicanas y, en su caso, con las Normas Ambientales Estatales. El reuso de dichas aguas se hará mediante el pago de las cuotas de derechos que fijen las disposiciones estatales y municipales correspondientes y podrá llevarse a cabo hasta antes de la descarga final en bloque de las aguas residuales en los cuerpos receptores competencia de la Federación.
 
 ###### ARTICULO 108.
 
-Los tribunales no pueden, bajo ningún pretexto, aplazar, demorar, omitir o negar la resolución de las cuestiones que sean sometidas a su conocimiento.
+Los responsables de las descargas de aguas residuales podrán solicitar a los Ayuntamientos que tomen a su cargo el tratamiento de las mismas, previo el pago de las cuotas que se fijen en las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 109.
 
-No podrán los tribunales modificar ni variar sus resoluciones, en ningún sentido, después de haberlas firmado, salvo lo que disponga la Ley en materia de recursos.
+1. Quienes realicen descargas de aguas residuales provenientes de actividades industriales, comerciales, de servicios y agropecuarias que se viertan a los sistemas de drenaje y alcantarillado, deberán ser registradas ante la autoridad municipal correspondiente y ante la Secretaría. Mediante la cédula de operación anual, el Ayuntamiento y la Secretaría llevarán el conocimiento actualizado de las descargas.
+
+2. Los datos provenientes del Registro Municipal de Descargas de Aguas Residuales, serán integrados al Registro Estatal de Descargas que opere la Secretaría.
 
 ###### ARTICULO 110.
 
-Las resoluciones judiciales no se entenderán consentidas, sino cuando notificadas se manifieste expresamente su conformidad o se deje pasar el plazo señalado para interponer el recurso que proceda.
+1. El Estado y los Ayuntamientos, en coordinación con la Federación, establecerán y operarán el sistema de monitoreo de la calidad de las aguas de jurisdicción estatal y nacionales que tengan asignadas, así como las residuales que se descarguen a los sistemas de drenaje y alcantarillado.
 
-### CAPITULO DECIMO. NOTIFICACIONES
+2. Para ese efecto, el Estado podrá coordinarse con los Ayuntamientos cuando se trate de aguas nacionales que los Municipios tengan asignadas para la prestación de servicios públicos o de aguas residuales que se descarguen en los sistemas de drenaje y alcantarillado.
+
+### CAPITULO I. DEL SISTEMA ESTATAL DE INFORMACION AMBIENTAL
 
 ###### ARTICULO 111.
 
-Todas las resoluciones serán notificadas al Ministerio Público, al inculpado, al ofendido o querellante, en su caso, y al defensor o representante común, si hubiere varios, observándose lo dispuesto en el último párrafo del artículo 119.
+Los Ayuntamientos promoverán la protección y restauración de los suelos y deberán exigir la presentación de resoluciones favorables de manifestaciones de impacto ambiental con antelación al otorgamiento de autorizaciones para efectuar cambios de uso de suelo, de conformidad al artículo 57 de este Código.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
-
-También podrá notificarse al inculpado privado de su libertad a través de videoconferencia, de lo cual dará fe un Secretario del Tribunal asentándose esa circunstancia.
-
-(REFORMO, P.O. 7 DE JUNIO DE 1991)
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 112.
 
-Las notificaciones se harán a más tardar el día siguiente en que se dicten las resoluciones que las motiven.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
-
-Cuando la resolución entrañe una citación o un término para la práctica de una diligencia, se notificará personalmente con cuarenta y ocho horas de anticipación, cuando menos, al día y hora en que se haya de celebrar la actuación o audiencia a que se refiera, debiéndose tomar en cuenta lo dispuesto en el artículo anterior y en el segundo párrafo del artículo 119 de este Código, y asistiéndose de traductor si la persona por notificarse no habla o no entiende suficientemente el idioma español.
+Con relación a las áreas que presenten procesos de degradación y desertificación, la Secretaría promoverá los acuerdos necesarios con la Federación y con el Ayuntamiento competente, a fin de establecerlas como zonas de restauración ambiental, ajustándose a los lineamientos de la Ley General.
 
 ###### ARTICULO 113.
 
-Las personas que intervengan en un procedimiento designarán, desde su primera comparecencia, domicilio ubicado en el lugar mismo del procedimiento, para que se les hagan las notificaciones, citaciones, requerimientos o emplazamientos que procedieren, informando de los cambios que hubieren.
+1. En la determinación de los usos del suelo que lleven a cabo las autoridades competentes, de conformidad con las disposiciones locales sobre el desarrollo urbano y rural, se especificarán las zonas en las que será permitido el establecimientos (sic) de industrias, comercios o servicios clasificados como riesgosos por la gravedad de los efectos que puedan generar en la salud de las personas, los ecosistemas o en el medio ambiente del Estado.
 
-Si no cumplieren, las notificaciones, aún de carácter personal, citaciones, requerimientos o emplazamientos, se tendrán por bien hechas, por publicación en lugar visible del tribunal, sin perjuicio de las medidas que éste tome para que pueda llevarse adelante el procedimiento.
+2. Para lo dispuesto por el párrafo anterior deberán considerarse:
+
+I. Las condiciones topográficas, meteorológicas y climatológicas de las zonas, de manera que se facilite la rápida dispersión de contaminantes;
+
+II. La proximidad a centros de población, previendo las tendencias de expansión del respectivo asentamiento y la creación de nuevos centros de población;
+
+III. Los impactos que tendría un posible evento extraordinario de la industria, comercio o servicio de que se trate sobre los centros de población y sobre los recursos naturales;
+
+IV. La compatibilidad con otras actividades de la zona;
+
+V. La infraestructura existente y necesaria para la atención de emergencias ecológicas;
+
+VI. La infraestructura para la dotación de servicios básicos; y
+
+VII. La disposición de zonas intermedias de salvaguarda en el predio en el que se pretenden desarrollar obras o actividades riesgosas o altamente riesgosas, que impliquen el uso, manejo o almacenamiento de sustancias peligrosas.
 
 ###### ARTICULO 114.
 
-Los funcionarios a quienes se encomiende hacer las notificaciones, no podrán delegar esa actividad. Asentarán el día y hora en que se verifiquen, leyendo la resolución y dando copia al interesado, si la pidiere.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-Las notificaciones se practicarán, por el actuario, por el secretario o por el juez que actúe, con testigos de asistencia.
+1. El Estado regulará, a través de la Secretaría, la realización de actividades que no sean consideradas altamente riesgosas, cuando éstas afecten el equilibrio de los ecosistemas o el medio ambiente dentro de la circunscripción territorial correspondiente, de conformidad con las Normas Oficiales Mexicanas y las Normas Ambientales Estatales que resulten aplicables.
+
+2. El Estado y los Ayuntamientos coordinarán con la Federación sus acciones respecto de las actividades a que se refiere este precepto.
 
 ###### ARTICULO 115.
 
-Deben firmar las notificaciones:
+1. En caso de contingencia ambiental o de una emergencia ecológica por la afectación grave al medio ambiente, la Secretaría deberá adoptar, de manera inmediata, las medidas necesarias para impedir y mitigar la degradación de los recursos naturales y el ecosistema.
 
-El funcionario que las hace, y la o las personas a quienes se hacen; si estas no quisieran firmar, se hará constar ésta circunstancia.
-
-Si no supieren o no pudieren firmar, estamparán sus huellas digitales.
-
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
-
-Notificado el inculpado por videoconferencia, bastará que el Secretario del Tribunal haga constar y dé fe de si el inculpado expresó su conformidad o inconformidad con la misma.
+2. Si la contingencia ambiental o la emergencia ecológica representa un riesgo inminente para la población en general o para la salud humana, la Secretaría establecerá los procedimientos de coordinación pertinente con las autoridades de protección civil y de salud, con base en la política de desarrollo sustentable del Estado.
 
 ###### ARTICULO 116.
 
-Cuando el inculpado autorice a su defensor para oír notificaciones, requerimientos, emplazamientos o citaciones, practicados con éste se entenderán hechos al primero; a excepción de los de carácter personal.
+1. Cuando la magnitud o gravedad del riesgo de desequilibrios ecológicos o daños al medio ambiente rebasen la circunscripción territorial, los Ayuntamientos asumirán las tareas de prevención y el control de emergencias ecológicas y contingencias ambientales, sin demérito de la acción del Estado conforme al artículo anterior o de la Federación, cuando así resulte necesario para atender esos eventos.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. En todo caso, los Ayuntamientos solicitarán la participación del Estado por conducto de la Secretaría. Esta propondrá, cuando lo estime necesario, la asistencia de la Federación.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 117.
 
-Las notificaciones personales se harán en el tribunal o en el domicilio designado. Si en éste no se encuentra la persona, se le dejará, con cualquiera de los que allí residan, cédula que contendrá: nombre del tribunal que dictó la resolución, causa en la cual se expidió y transcripción, en lo conducente, del proveído que se le notifique; día y hora en que se haga la notificación, y persona en poder de la cual se deje, expresándose el motivo por el que no se hizo en persona al interesado. A los autos se agregará copia autorizada de la cédula, y llevará la firma de quien la haya recibido.
+Cuando para la atención de estas situaciones deban intervenir dos o más dependencias estatales, la Secretaría promoverá la coordinación correspondiente.
+
+# LIBRO TERCERO. DE LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS DEL ESTADO
 
 ###### ARTICULO 118.
 
-Si el que deba ser notificado se niega a recibir al funcionario encargado de hacer la notificación, o las personas que residan en el domicilio se rehusan a recibir la cédula, o no se encuentra nadie en el lugar, aquélla se fijará en la puerta de entrada y el motivo se hará constar en autos.
+1. Las disposiciones de este Libro tienen por objeto propiciar el desarrollo sustentable por medio de la prevención de la generación de los residuos sólidos urbanos y de manejo especial; la gestión integral de los mismos a través de su minimización, valorización y aprovechamiento, en su caso; y la prevención de la contaminación y la remediación de suelos contaminados con estos residuos.
+
+2. En la aplicación del presente Libro, el Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán observar los principios contenidos en la Ley General de Residuos.
 
 ###### ARTICULO 119.
 
-Las resoluciones contra las que proceda el recurso de apelación, y aquéllas en que se mande hacer un requerimiento o correr traslado, se notificarán personalmente a las partes y así se indicará en la resolución. Las demás resoluciones, con excepción de las que se mencionan en el siguiente párrafo se notificarán personalmente al detenido o al procesado, así como a los interesados, en la forma que señala el artículo 117.
+Para los efectos del presente Libro, se observarán las definiciones contenidas en la Ley General de Residuos y demás ordenamientos jurídicos aplicables, así como las siguientes:
 
-Los autos con orden de aprehensión, cateos, providencias precautorias, aseguramiento y otras medidas análogas, respecto de las cuales el tribunal estime que debe guardarse sigilo para su ejecución, se notificarán solamente al Ministerio Público.
+I. Acopio: La acción de reunir residuos temporalmente en un lugar determinado y apropiado para prevenir riesgos a la salud y al medio ambiente, a fin de facilitar su recolección y manejo;
+
+II. Almacenamiento: La retención temporal de los residuos en lugares propicios para evitar su liberación y que causen o puedan causar daños a la salud de las personas, al medio ambiente o los recursos naturales, hasta en tanto se procesen para su aprovechamiento, se les aplique (sic) un tratamiento, se transporten o se disponga finalmente de ellos;
+
+III. Aprovechamiento de residuos: El conjunto de acciones cuyo objetivo es recuperar el valor económico de los residuos mediante su reutilización, remanufactura, rediseño, reciclado y recuperación de materiales secundarios o de energía;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III Bis. Centro de Manejo Integral de Residuos: La instalación cuyo objetivo es realizar la separación aprovechamiento, co-procesamiento, tratamiento y disposición final de residuos sólidos urbanos y de manejo especial, propiciando la disminución de las cantidades de residuos enviadas a disposición final, contemplando la implementación de la mejor tecnología, infraestructura disponible y la aplicación de mejores prácticas, conforme a la normatividad aplicable;
+
+IV. Composteo: El proceso de descomposición aerobia de la materia orgánica mediante la acción de microorganismos específicos, que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+IV Bis. Constancia de No Adeudo Fiscal: Documento que consta que no se tiene adeudo alguno en Contribuciones registradas en el Estado de personas físicas y/o morales, el cual es requisito indispensable para la obtención de otros servicios o derechos;
+
+V. Contenedor: El recipiente destinado al depósito ambientalmente adecuado y de forma temporal de residuos sólidos urbanos o de manejo especial, durante su acopio, almacenamiento, recolección y traslado;
+
+VI. Caracterización de sitios contaminados: La determinación cualitativa y cuantitativa de los contaminantes presentes, provenientes de materiales o residuos regulados por este Libro, para estimar la magnitud y tipo de riesgos que conlleva dicha contaminación;
+
+VII. Diagnóstico básico: El estudio que identifica la situación de la generación y manejo de los residuos que considera la cantidad y composición de los mismos, así como la infraestructura para manejarlos integralmente;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+VII Bis. Economía circular: Modelo de producción y consumo para minimizar la generación de residuos y maximizar la utilización en la economía para avanzar hacia el desarrollo sostenible;
+
+VIII. Estación de transferencia: La instalación en la cual se almacenan residuos con el fin de transportarlos a otro lugar para su aprovechamiento, valorización, tratamiento o disposición final;
+
+IX. Evaluación del riesgo por residuos: El proceso metodológico para determinar la posibilidad de que se produzcan efectos adversos como consecuencia de la exposición de los seres vivos y los recursos naturales a las sustancias contenidas en los residuos regulados por el presente Libro;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+X. Gran generador: La persona física o moral que al año genere una cantidad igual o superior a diez toneladas en peso bruto de residuos o su equivalente en otra unidad de medida;
+
+XI. Manejo integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización y eficiencia sanitaria, ambiental, tecnológica, económica y social;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XII. Microgenerador: Establecimiento industrial, comercial y de servicios que genere una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida;
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+XIII. Minimización: El conjunto de medidas dirigidas a disminuir la generación de residuos y aprovechar el valor de aquellos cuya generación no sea posible evitar;
+
+XIV. Pequeño generador: La persona física o moral que al año genere una cantidad igual o mayor a cuatrocientos kilogramos y menor a diez toneladas en peso bruto total de residuos o su equivalente en otra unidad de medida;
+
+XV. Plan de manejo: El instrumento cuyo objetivo es minimizar la generación y maximizar el aprovechamiento y valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el diagnóstico básico para la gestión integral de residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres órdenes de gobierno;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XVI. Prestador autorizado para el servicio de manejo de residuos: La persona física o moral registrada y autorizada por la Secretaría para prestar servicios a terceros, a fin de que realicen cualquiera de las etapas comprendidas en el manejo integral de los residuos de manejo especial y de aquellas etapas del manejo integral de residuos sólidos urbanos susceptibles de autorización;
+
+XVII. Recolección: La acción de recoger los residuos sólidos urbanos o de manejo especial de sus generadores y trasladarlos a las instalaciones autorizadas para su posterior manejo;
+
+XVIII. Residuo: El material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de valorización o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en este Código y demás ordenamientos que deriven del mismo;
+
+XIX. Residuos de manejo especial: Aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos, así como los suelos mezclados con éstos o sus lixiviados;
+
+XX. Residuos inorgánicos: Aquellos que por sus características no son biodegradables;
+
+XXI. Residuos orgánicos: Aquellos que por sus características son biodegradables;
+
+XXII. Residuos sólidos urbanos: Aquellos generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, así como los suelos mezclados con éstos o sus lixiviados, siempre que no sean considerados por la Ley General de Residuos como residuos de otra índole;
+
+XXIII. Sistema de manejo ambiental: El conjunto de medidas adoptadas para incorporar a criterios ambientales en las actividades cotidianas de las personas físicas y morales, con el propósito de minimizar su impacto negativo al medio ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta la prevención de la generación de residuos, su aprovechamiento y su manejo integral;
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+XXIV. Sitio contaminado: El lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de éstos que ha sido contaminado con materiales o residuos que, por sus cantidades y características, pueden representar un riesgo para la salud humana, los organismos vivos y al aprovechamiento de los bienes o propiedades de las personas;
+
+XXV. Transportación de Residuos: La acción de trasladar los residuos para su correcta valorización o, en su caso, disposición final;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XXVI. Tratamiento: El procedimiento mecánico, físico, químico, biológico o térmico, mediante el cual cambian las características de los residuos y se reduce su volumen o, de ser el caso, su peligrosidad, sin poner en peligro la salud de las personas y utilizándose métodos que produzcan el menor impacto al medio ambiente;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXVI Bis. Tratamientos por Esterilización: Procedimientos que permiten, mediante radiación térmica, la muerte o inactivación de los agentes infecciosos contenidos en los residuos peligrosos;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXVI Ter. Termovalorización: Aprovechamiento de residuos orgánicos para la generación de energía eléctrica;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XXVII. Valorización: El principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+
+XXVII Bis. Vulnerabilidad: Conjunto de condiciones que limitan la capacidad de defensa o de amortiguamiento ante una situación de amenaza y confieren a las poblaciones humanas, ecosistemas y bienes, un alto grado de susceptibilidad a los efectos adversos que puede ocasionar el manejo de los materiales o residuos, que por sus volúmenes y características intrínsecas, sean capaces de provocar daños al ambiente;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XXVIII. Barrido: actividad de recolección manual o mecánica de residuos sólidos depositados en la vía pública;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XXIX. Co-procesamiento: Integración ambientalmente segura de los residuos generados por una industria o fuente conocida, como insumo a otro proceso productivo; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+XXX. Disposición final: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos.
+
+## TITULO SEGUNDO. FACULTADES Y COORDINACION DE LAS AUTORIDADES
 
 ###### ARTICULO 120.
 
-Cuando haya que notificar a una persona fuera del lugar del procedimiento, pero dentro del territorio sujeto a la competencia del tribunal, la notificación podrá hacerse por el notificador del propio tribunal o por medio de oficio comisorio.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-Si la diligencia hubiere de practicarse fuera del territorio del tribunal, se observará lo dispuesto en los artículos 62 y 63 de este código.
+El Ejecutivo del Estado, por conducto de la Secretaría, tendrá las siguientes atribuciones:
+
+I. Formular, conducir y evaluar la política ambiental estatal en materia de residuos;
+
+II. Vincular e integrar la política de gestión integral de residuos, con base en los Programas Nacionales para la Prevención y Gestión Integral de los Residuos y de Remediación de Sitios Contaminados con Residuos;
+
+III. Establecer y evaluar el Programa Estatal para la Prevención y Gestión Integral de los Residuos, que incluirá los de manejo especial y en su caso, los programas regionales o especiales en estos rubros;
+
+IV. Regular y establecer las bases para el cobro de la prestación de servicios relacionados con el manejo integral de los residuos de manejo especial;
+
+V. Promover, en coordinación con la Federación y los Ayuntamientos, la creación de infraestructura para el manejo integral de residuos sólidos urbanos, de manejo especial y peligrosos en el Estado, con la participación de los sectores social y privado;
+
+VI. Promover la investigación, el desarrollo y la aplicación de tecnologías, equipos, sistemas y procesos que eliminen, reduzcan o minimicen la liberación al medio ambiente y la transferencia de uno a otro de sus elementos, de contaminantes provenientes del manejo integral de los residuos sólidos urbanos y de manejo especial;
+
+VII. Participar en el establecimiento y operación, en el marco del Sistema Nacional de Protección Civil y en coordinación con la Federación, de un sistema para la prevención y control de contingencias ambientales y emergencias ecológicas derivadas de la gestión de residuos de manejo especial;
+
+VIII. Promover la educación y capacitación continúa de personas de todos los sectores de la sociedad con objeto de contribuir al cambio de hábitos en materia de prevención y gestión integral de residuos, a favor del desarrollo sustentable;
+
+IX. Coadyuvar con la Federación en la integración de los subsistemas de información nacional sobre la gestión integral de residuos de su competencia;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+X. Diseñar, proponer y gestionar el establecimiento y aplicación de los instrumentos económicos, fiscales, financieros y de mercado que tengan por objeto prevenir o reducir la generación de residuos, su valorización y su gestión integral y sustentable, así como la implementación del enfoque y principios de la economía circular;
+
+XI. Establecer y mantener actualizado el registro de planes de manejo de residuos de manejo especial, conforme a los lineamientos que se determinen en el presente Código;
+
+XII. Evaluar, proponer y establecer los residuos de manejo especial que puedan agregarse al listado de las Normas Oficiales Mexicanas, por considerarse sujetos a planes de manejo; emitir las Normas Ambientales Estatales con relación a la operación, recolección, transporte, almacenamiento, reciclaje, tratamiento, industrialización y disposición final de residuos sólidos y residuos de manejo especial; y establecer las condiciones de seguridad, requisitos y limitaciones en el manejo de los residuos sólidos que presenten riesgo para el ser humano, los recursos naturales, el medio ambiente y los ecosistemas;
+
+XIII. Otorgar, negar, suspender, prorrogar o revocar autorizaciones para el manejo integral, en cualquiera de sus fases, de residuos de manejo especial y registrar los planes que se sometan a su consideración, así como establecer y ejercer las acciones para la verificación del cumplimiento de sus términos y condiciones;
+
+XIV. Elaborar un padrón de prestadores autorizados para el servicio de manejo de residuos;
+
+XV. Determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento, e integrar los resultados al Sistema Estatal de Información Ambiental y de Recursos Naturales;
+
+XVI. Realizar los estudios y proyectos de obras de infraestructura para el manejo de residuos sólidos urbanos y de manejo especial;
+
+XVII. Emitir opinión sobre el diseño, construcción, operación, cierre de estaciones de transferencia, plantas de selección, de tratamiento, y sitios de disposición final de residuos, sin demérito de sus atribuciones en materia de impacto ambiental;
+
+XVIII. Requerir a las autoridades municipales, a los generadores y a las empresas de servicios de manejo, la información necesaria para realizar los diagnósticos básicos de residuos que sirvan para la elaboración de los programas de su competencia;
+
+XIX. Promover programas de prevención y de gestión integral de los residuos sólidos urbanos y de manejo especial, con la participación de los interesados y coadyuvar en la realización de estudios para sustentar el otorgamiento de concesiones para la prestación del servicio de recolección, traslado y disposición final de residuos sólidos urbanos y de manejo especial, en coordinación con los Ayuntamientos cuando tengan competencia para ello;
+
+XX. Proponer al titular del Ejecutivo del Estado la expedición de los ordenamientos jurídicos que permitan la gestión integral de residuos de manejo especial, la prevención de la contaminación de sitios con dichos residuos y su remediación, las Normas Ambientales Estatales con relación al manejo integral de residuos sólidos urbanos, y para establecer las condiciones de seguridad, requisitos y limitaciones en el manejo de los residuos sólidos urbanos que presenten riesgo para el ser humano, los recursos naturales, el medio ambiente y los ecosistemas;
+
+XXI. Participar en la autorización y control de las actividades realizadas por los microgeneradores de residuos peligrosos, así como en el establecimiento y actualización de los registros de éstos de acuerdo a la normatividad aplicable con base a los convenios que se suscriban con la Federación y, en su caso, con los Ayuntamientos conforme a lo dispuesto por este Código;
+
+XXII. Coadyuvar en la promoción de la prevención de la contaminación de sitios con residuos peligrosos y su remediación de acuerdo con los ordenamientos aplicables;
+
+XXIII. Verificar el cumplimiento de las disposiciones jurídicas y los instrumentos en materia de residuos de manejo especial;
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+XXIV. Inspeccionar y vigilar el manejo integral de los residuos de manejo especial, así como verificar el cumplimiento de las disposiciones jurídicas contenidas en la Ley General de Residuos, el presente Código y los demás preceptos de su competencia y en los instrumentos que deriven de aquéllos, e imponer las sanciones y medidas de seguridad que resulten aplicables;
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2023)</small>
+
+XXV. Imponer las sanciones y medidas de seguridad que procedan de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con la Federación y con los Ayuntamientos, conforme a lo dispuesto por este Código;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2023)</small>
+
+XXVI. Aplicar, en colaboración con la federación, el gobierno estatal y municipal instrumentos económicos que incentiven el desarrollo, adopción y ejecución de tecnologías limpias para la generación de energía eléctrica a partir de los residuos;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2023)</small>
+
+XXVII. Diseñar, promover y fomentar políticas públicas, que permitan el uso de tecnologías limpias para el aprovechamiento de los recursos en la generación de energía eléctrica; y
+
+XXVIII. Las demás que se establezcan en la Ley General de Residuos, este Código y otros ordenamientos aplicables.
 
 ###### ARTICULO 121.
 
-Si a pesar de no haber hecho la notificación en la forma que este código establece, la persona que debiera ser notificada se mostrará en diligencias posteriores sabedora de la providencia, la notificación surtirá sus efectos, pero no librará al que debía hacerla correctamente, de las responsabilidades en que hubiere incurrido.
+El Municipio, por conducto del Ayuntamiento tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+I. Formular por sí o con el apoyo de la Secretaría y con la participación de representantes de los distintos sectores social y privado, los programas municipales para la prevención y gestión integral de los residuos sólidos urbanos, los cuales deberán observar lo dispuesto en el Programa Estatal para la Prevención y Gestión Integral de los Residuos;
+
+II. Expedir los reglamentos y demás disposiciones jurídico-administrativas de observancia general dentro de su competencia, a fin de dar cumplimiento a lo establecido en el presente Libro y en la Ley General de Residuos;
+
+III. Establecer políticas, criterios e instrumentos para llevar a cabo la separación de la fuente de residuos orgánicos e inorgánicos y los mecanismos para promover su aprovechamiento;
+
+IV. Propiciar la minimización de residuos sólidos urbanos y controlar el manejo integral de los mismos;
+
+V. Capacitar a los servidores públicos que intervienen en la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos;
+
+VI. Concesionar de manera total o parcial la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos sólidos urbanos, los cuales forman parte del manejo integral, con base en las disposiciones del Código Municipal para el Estado;
+
+VII. Autorizar aquellas etapas del manejo integral de residuos sólidos urbanos que no sean consideradas como servicio público;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+VIII. Establecer y mantener actualizado el registro de grandes generadores de residuos sólidos urbanos e informarlo a la Secretaría, en los términos de este Código;
+
+IX. Verificar el cumplimiento de las disposiciones de este Libro, de las Normas Oficiales Mexicanas, las Normas Ambientales Estatales y demás ordenamientos en materia de residuos sólidos urbanos e imponer las sanciones y medidas de seguridad que resulten aplicables;
+
+X. Participar en el control de los residuos peligrosos generados o manejados por microgeneradores, así como imponer las sanciones que procedan de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban entre el Estado y la Federación, de conformidad con lo establecido en la Ley General de Residuos y este Código;
+
+XI. Coadyuvar en la prevención de la contaminación de sitios con residuos peligrosos y su remediación, de acuerdo con los ordenamientos aplicables;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XII. Determinar con la asistencia técnica de la Secretaría, los costos de las distintas etapas de la operación de los servicios de manejo integral de residuos sólidos urbanos;
+
+XIII. Proponer al Congreso del Estado, al presentar anualmente la iniciativa de Ley de Ingresos del Municipio, las tarifas aplicables al derecho por la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos, sobre la base del manejo integral de los residuos sólidos urbanos, y efectuar su cobro;
+
+XIV. Sancionar a los responsables de los tiraderos a cielo abierto o sitios no controlados de residuos sólidos urbanos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XV. Difundir y promover entre la población, las prácticas de separación, reutilización y reciclaje de residuos, conforme a las políticas, criterios e instrumentos en la materia que establezca la Secretaría, así como fomentar y practicar el reconocimiento a estas acciones;
+
+XVI. Instalar en la vía pública equipamiento para el depósito por separado de residuos sólidos urbanos, distinguiéndose entre orgánicos e inorgánicos;
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2023)</small>
+
+XVII. Promover y dar seguimiento a la formulación, implementación y evaluación del sistema de manejo ambiental en las dependencias y entidades de la administración pública municipal;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2023)</small>
+
+XVIII. Controlar los residuos sólidos urbanos y, en coordinación con el Estado aprovechar la materia orgánica en procesos de generación de energía; y
+
+XIX. Las demás que se establezcan en la Ley General de Residuos, este Código y otros ordenamientos que resulten aplicables.
+
+## TITULO TERCERO. INSTRUMENTOS DE LA POLITICA DE PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS
 
 ###### ARTICULO 122.
 
-Todas las notificaciones que se hagan fuera del tribunal se asentarán en el acta respectiva, agregándose de inmediato al proceso correspondiente.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. El Ejecutivo del Estado, a través de la Secretaría y con base en las directrices que emanen del Programa Estatal de Desarrollo Sustentable, establecerá el Programa Estatal para la Prevención y Gestión Integral de los Residuos, de conformidad con este Libro, las demás disposiciones aplicables y el diagnóstico básico para la gestión integral de residuos sólidos urbanos y de manejo especial.
+
+2. El Programa Estatal para la Prevención y Gestión Integral de los Residuos deberá formularse en concordancia con lo que establezca el Programa Nacional de la materia, considerando los siguientes lineamientos:
+
+I. Aplicar los principios de valorización, responsabilidad compartida y manejo integral de residuos;
+
+II. Armonizar las políticas de ordenamiento ecológico y de desarrollo urbano con el manejo integral de residuos, identificando las áreas apropiadas para la realización de obras de infraestructura para su almacenamiento, tratamiento y disposición final;
+
+III. Promover la cultura, educación y capacitación ambientales, así como la participación de los sectores público, social y privado para el manejo integral de los residuos;
+
+IV. Planear y prever la infraestructura necesaria para asegurar que los residuos se manejen de manera ambientalmente adecuada;
+
+V. Adoptar medidas para la minimización y valorización de residuos, su separación en la fuente de origen, así como su adecuado aprovechamiento, tratamiento y disposición final;
+
+VI. Prever la liberación de los residuos que puedan causar daños al medio ambiente o a la salud de las personas y la transferencia de contaminantes de un medio a otro;
+
+VII. Promover la reducción de la cantidad de los residuos que lleguen a disposición final;
+
+VIII. Promover medidas para evitar el acopio de residuos en áreas o en condiciones no autorizados por la autoridad competente;
+
+IX. Establecer las medidas adecuadas para reincorporar al ciclo productivo residuos reutilizables o reciclables, así como promover el desarrollo de mercados de subproductos para la valorización de los residuos;
+
+X. Determinar las medidas conducentes para evitar la disposición final de residuos que sean incompatibles y puedan provocar reacciones que liberen gases, provoquen incendios o explosiones o que no hayan sido sometidos a procesos de tratamiento; y
+
+XI. Los demás que establezcan este Código, sus Reglamentos y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 123.
 
-Todas las notificaciones hechas contra lo dispuesto en este capítulo serán nulas, excepto en el caso del artículo 121.
+1. En el Programa para la Prevención y Gestión Integral de los Residuos la Secretaría formulará las previsiones para la prevención y gestión integral de los residuos de manejo especial.
 
-La nulidad se reclamará en vía incidental, dentro de los cinco días siguientes al en que se tenga conocimiento de la notificación reclamada, y hasta antes de que se ponga el expediente para conclusiones del Ministerio Público.
-
-Presentada la promoción, se citará a una audiencia dentro de setenta y dos horas, donde se oirá a las partes, resolviendo al día siguiente lo que corresponda.
-
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
-
-Tratándose del Juicio Oral Penal la nulidad se reclamará dentro del día siguiente hábil al en que se tenga conocimiento de la notificación reclamada y hasta antes del debate, expresando los motivos de su reclamación; el Juez resolverá de plano, contra lo cual no se admite recurso alguno.
+2. El Ayuntamiento formulará e instrumentará el Programa Municipal para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos. Para tal fin podrá solicitar el apoyo técnico de la Secretaría, observándose en todo caso la congruencia con los Programas Nacional y Estatal en materia de residuos.
 
 ###### ARTICULO 124.
 
-A los defensores de oficio, cuando no se les pueda hacer la notificación personalmente, se les hará por cédula que se fijará en lugar visible del Tribunal.
+Los programas a que hace referencia el artículo anterior deberán contener, al menos, lo siguiente:
 
-### CAPITULO PRIMERO. REGLAS ESPECIALES PARA LA PRACTICA DE DILIGENCIAS Y LEVANTAMIENTO DE ACTAS DE POLICIA MINISTERIAL
+I. El diagnóstico básico;
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+II. La política en materia de residuos sólidos urbanos y de manejo especial, según corresponda;
 
-## TITULO TERCERO. PREPARACION DE LA ACCION PENAL
+III. La definición de objetivos y metas para la prevención de la generación y el mejoramiento de la gestión de los residuos sólidos urbanos y de manejo especial, así como las estrategias, líneas de acción y plazos para su cumplimiento;
 
-REGLAS GENERALES
+IV. Los medios de financiamiento de las acciones consideradas en los programas;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+V. Los mecanismos para fomentar la vinculación entre los programas correspondientes, a fin de crear sinergias; y
+
+VI. Las previsiones para su evaluación y actualización.
+
+### CAPITULO II. DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION AMBIENTAL
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+## TÍTULO TERCERO. DE LA POLITICA AMBIENTAL ESTATAL
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 125.
 
-El Ministerio Público y los agentes de la policía ministerial a su mando, están obligados a proceder de oficio a la investigación de los delitos del orden común de que tengan noticia; excepto en los casos siguientes:
+Los planes de manejo de residuos sólidos urbanos y de manejo especial deberán estar encaminados, entre otros a los propósitos siguientes:
 
-I.- Cuando se trate de delitos sobre los que solamente se pueda proceder por querella necesaria, si ésta no se ha presentado;
+I. Identificar formas de prevenir o minimizar su generación a través de su valorización y aprovechamiento;
 
-II.- Cuando la ley exija algún requisito previo, si éste no se ha llenado;
+II. Establecer modalidades de manejo en los que aplique el principio de responsabilidad compartida de los distintos sectores involucrados y que respondan a las particularidades de los residuos y de los materiales que los constituyen;
 
-III.- Si el que inicia una investigación no tiene a su cargo la función de proseguirla, dará inmediata cuenta al que corresponda legalmente practicarla.
+III. Establecer mecanismos para reutilizar, reciclar o aprovechar los residuos cuya generación no se pueda evitar, de conformidad con las disposiciones legales aplicables y en la medida en que esto sea ambientalmente adecuado, económicamente viable y tecnológicamente factible;
+
+IV. Reducir el volumen y riesgo en el manejo de los residuos que no se puedan valorizar de conformidad con las disposiciones legales aplicables;
+
+V. Alentar la innovación de procesos, métodos y tecnologías para lograr un manejo integral de los residuos, que sea económicamente factible; y
+
+VI. Disponer en un depósito legalmente autorizado con carácter de final, los residuos que no puedan ser susceptibles de valorizarse.
 
 ###### ARTICULO 126.
 
-Sólo podrán perseguirse a petición de parte ofendida, los delitos que así determine el código penal o las leyes especiales.
+El contenido de los planes de manejo se sujetará a lo previsto en el Reglamento de este Libro, las Normas Oficiales Mexicanas, las Normas Ambientales Estatales y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 127.
 
-Cuando el ofendido sea menor de edad, pero mayor de dieciséis años, podrá querellarse por sí mismo o por quien esté legitimado para ello. Tratándose de menores de esta edad, o de otros incapaces, la querella se presentará por quienes ejerzan la patria potestad o la tutela.
+Estarán obligados a la formulación y ejecución de los planes de manejo los grandes generadores y los productores, importadores, exportadores y distribuidores de los productos que al desecharse se convierten en residuos sólidos urbanos o de manejo especial que se incluyan en los listados de residuos sujetos a planes de manejo, de conformidad con las Normas Oficiales Mexicanas correspondientes. Así mismo, esta obligación se extiende a aquellas fuentes generadoras que se encuentren en las Normas Ambientales Estatales o listados que para tal efecto determine la Secretaría y que por las características de los materiales que los integran sean residuos que así lo requieran.
 
 ###### ARTICULO 128.
 
-Las denuncias y las querellas pueden formularse verbalmente o por escrito.
+La determinación de residuos que podrán sujetarse a planes de manejo se llevará a cabo con base en lo que establezcan las Normas Oficiales Mexicanas y las Normas Ambientales Estatales, a partir de los siguientes criterios mínimos:
 
-Se contraerán, en todo caso, a describir los hechos supuestamente delictivos, sin calificarlos jurídicamente, y se harán en los términos previstos para el ejercicio del derecho de petición.
+I. El volumen de generación de los residuos resulte significativo para la sustentabilidad del medio ambiente;
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+II. El riesgo potencial que represente para la salud de las personas; y
 
-Cuando los hechos denunciados o materia de la querella, no sean constitutivos de delito, o se advierta que existe extemporaneidad o prescripción en los términos del Título Séptimo, Capítulo Séptimo del Código Penal para el Estado de Nuevo León, se dictará el acuerdo de no inicio de la preparación de la acción penal.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
-
-Cuando una denuncia o querella no reúna estos requisitos, el funcionario que la reciba prevendrá al denunciante o querellante para que la modifique, ajustándose a ellos. Así mismo, se informará al denunciante o querellante, dejando constancia en el acta, acerca de la trascendencia jurídica del acto que realiza, sobre las penas en que incurre quien se conduce falsamente ante las autoridades, y sobre las modalidades del procedimiento, según se trate de delito perseguible de oficio o por querella.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
-
-En el caso de que la denuncia o la querella se presenten verbalmente, se hará constar en acta que levantará el funcionario que las reciba. Tanto en este caso como cuando se hagan por escrito, deberán contener la firma o huella digital del que las presente, y sus generales.
-
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
-
-Cuando el denunciante o querellante haga publicar la denuncia o la querella, está obligado a publicar también, a su costa, y en la misma forma utilizada para esa publicación, el acuerdo que recaiga al concluir la averiguación previa, si así lo solicita la persona en contra de la cual se hubiese formulado dicha denuncia o querella; sin perjuicio de las responsabilidades en que aquéllos incurran, conforme a otras leyes aplicables.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+III. Los materiales que los componen tengan un valor económico.
 
 ###### ARTICULO 128 Bis.
 
@@ -1213,17 +2595,57 @@ Al verificarse la información y que de ello se deriven indicios suficientes de 
 
 ###### ARTICULO 129.
 
-Cuando la denuncia o querella se formule por escrito, el funcionario que la reciba deberá asegurarse tanto de la identidad del denunciante o querellante, en su caso, como de los documentos que se anexen.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+Los grandes generadores de residuos sólidos urbanos y de manejo especial, deberán integrar una propuesta para sustentar el desarrollo de cada uno de los planes de manejo, que se entregará a la Secretaría para su validación y en la cual se asentarán, entre otras cuestiones, las siguientes:
+
+I. El nombre, la denominación o razón social de quien presente la propuesta y del representante legal, en su caso; el nombre de los autorizados para recibir notificaciones; el órgano administrativo al que se dirijan y el lugar y fecha de formulación. La propuesta deberá estar firmada por el interesado o su representante legal;
+
+II. Los residuos generados que serán objeto de los planes de manejo;
+
+III. Los procedimientos, métodos o técnicas que se emplearán para el manejo integral de los residuos;
+
+IV. Las empresas autorizadas y registradas como prestadoras de servicios que se ocuparán del manejo integral de los residuos sujetos a los planes de manejo, en cualquiera de sus etapas;
+
+V. El cronograma enunciando los objetivos, las principales actividades y sus fechas de implantación, así como la periodicidad para la evaluación de resultados y la entrega de actualizaciones;
+
+VI. Los responsables de la implantación y seguimiento de los planes de manejo correspondientes;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+VII. La solicitud específica, en su caso, de qué parte de la información proporcionada a la Secretaría requiere ser manejada de manera confidencial por tratarse de información privilegiada de valor comercial para el promovente; y
+
+VIII. Los indicadores para evaluar el desempeño del plan de manejo.
 
 ###### ARTICULO 130.
 
-Las querellas formuladas en representación de personas físicas o morales, se admitirán cuando el compareciente lo haga con poder general para pleitos y cobranzas sin necesidad de que exista cláusula especial para formularlas. En el caso de las personas morales no será necesario acuerdo del Consejo de Administración o de la Asamblea de socios o accionistas o poder especial para el caso determinado, ni instrucciones concretas del mandante.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-Cuando la querella verse sobre responsabilidad de los administradores, en el caso de personas morales se estará a lo dispuesto para tal efecto en la Ley General de Sociedades Mercantiles.
+1. La Secretaría convocará a los productores de bienes de consumo que al desecharse se conviertan en residuos de manejo especial, susceptibles de ser objeto de planes de manejo de conformidad con las disposiciones de la Ley General de Residuos, las Normas Oficiales Mexicanas, las Normas Ambientales Estatales y este Libro.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. En su caso, la Secretaría podrá actuar conjuntamente con los Ayuntamientos en términos de los acuerdos o convenios de colaboración suscritos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+3. En el establecimiento de los planes de manejo previstos en el supuesto del párrafo 1 de este precepto, la Secretaría actuará conforme a lo siguiente:
+
+I. Dará a conocer que son prioritarios para su atención por el grado de dificultad que implica el manejo de los residuos correspondientes o los problemas ambientales que se han visto asociados a las formas de disposición final comunes de los mismos;
+
+II. Propondrá la formulación de proyectos piloto que de manera gradual permitan la devolución de los residuos por los consumidores, a fin de que sean éstos quienes se ocupen de su reciclaje, tratamiento o disposición final;
+
+III. Identificará conjuntamente las alianzas y redes de colaboración que sea necesario establecer, en el marco de la responsabilidad compartida pero diferenciada, a fin de contar con el apoyo necesario de las partes interesadas para facilitar la formulación e implantación de los proyectos piloto a los que hace referencia la fracción anterior;
+
+IV. Identificará el tipo de instrumentos económicos o de otra índole que permitirán sustentar el costo del manejo de los residuos en su fase post-consumo, así como de facilidades administrativas, incentivos o reconocimientos que podrán implantarse para alentar el desarrollo de los planes de manejo;
+
+V. Identificará los medios y mecanismos a través de los cuales se podrá hacer del conocimiento público la existencia de los proyectos pilotos y las formas en las que se espera que los consumidores participen en los planes de manejo de los residuos;
+
+VI. Identificará las necesidades de infraestructura para el manejo integral de los residuos devueltos por los consumidores y la capacidad instalada en el Estado o en el país para ello;
+
+VII. Identificará las necesidades a satisfacer para crear o fortalecer los mercados del reciclaje de los materiales valorizables que puedan recuperarse de los residuos sujetos a los planes de manejo; y
+
+VIII. Identificará nuevos medios y tecnologías viables para el manejo integral de los residuos.
 
 ###### ARTICULO 130 Bis.
 
@@ -1231,13 +2653,15 @@ En los delitos de querella, con la presentación se indicarán los testigos que 
 
 ###### ARTICULO 131.
 
-Cuando en un negocio judicial se arguya de falso un documento, o el tribunal tenga duda fundada sobre su autenticidad, se dará vista al agente del Ministerio Público adscrito, y si éste lo solicita se desglosará de los autos, dejando en ellos copia fotostática; si no fuere posible ésta, copia certificada o transcrita literalmente. El original del documento, que deberán firmar el Juez o Magistrado y el secretario, y el testimonio de las constancias conducentes, se remitirán al Ministerio Público.
+En ningún caso los planes de manejo podrán plantear formas de manejo contrarias a los objetivos y a los principios en los que se basa la normatividad aplicable a la prevención y reducción de riesgos del residuo de que se trate, ni realizarse a través de empresas que no estén autorizadas ante las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 132.
 
-En los casos del artículo anterior, se requerirá a quien haya presentado el documento para que diga si insiste en que se tome en consideración o no; si contestare afirmativamente, y siempre que la falsedad sea de tal naturaleza a juicio del tribunal, que si llegare a dictarse sentencia influyera substancialmente en ella, éste ordenará, a petición del Ministerio Público, que se suspenda el procedimiento civil a partir de la citación para sentencia, hasta en tanto se declare que no ha lugar a intentar la acción penal, o si se intenta hasta que se pronuncie resolución definitiva. Si no se insistiere en que se tome en consideración el documento, no se suspenderá el procedimiento civil.
+El Ejecutivo del Estado, por conducto de la Secretaría, publicará en el Periódico Oficial del Estado y en diarios de circulación local, la relación de los residuos sujetos a planes de manejo.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+## TITULO CUARTO. DEL MANEJO INTEGRAL DE LOS RESIDUOS
 
 ###### ARTICULO 132 Bis.
 
@@ -1245,149 +2669,179 @@ La acción de la querella se considerará abandonada cuando el querellante no oc
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE JULIO DE 2004)</small>
 
-### CAPITULO SEGUNDO. COMPROBACION DEL CUERPO DEL DELITO, VESTIGIOS, OBJETOS RELACIONADOS CON EL DELITO Y DE LA PROBABLE RESPONSABILIDAD DEL INCULPADO
-
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+### CAPITULO I. DE LA INVESTIGACION Y EDUCACION AMBIENTAL
 
 ###### ARTICULO 133.
 
-Inmediatamente que el Ministerio Público o funcionarios encargados de practicar diligencias de Policía tengan conocimiento de la probable existencia de un delito que deba perseguirse de oficio, dictarán todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas; impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso y los instrumentos o cosas, objetos o efectos del mismo; indagar qué personas fueron testigos; evitar que el delito se siga cometiendo y en general impedir que se dificulte la averiguación.
-
-Toda persona que acuda al lugar del hecho delictuoso, tiene obligación de preservar la escena del crimen y de no hacerlo se hará acreedor a las sanciones que establece el Código Penal vigente en el Estado.
-
-Tratándose de delitos que se persiguen por querella se observará en lo conducente lo dispuesto en el párrafo anterior, cuando aquélla se presente.
-
-El Ministerio Público y la Policía Ministerial guardarán sigilo de las averiguaciones previas que conozcan, a fin de no entorpecer las mismas.
-
-En los casos de delito flagrante, cualquier persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad inmediata y ésta, con la misma prontitud, a la del Ministerio Público.
-
-Las detenciones que realice el Ministerio Público conforme a la fracción IV del artículo 3 de este Código, deberán ser ratificadas inmediatamente por el Juez que reciba la consignación o decretar la libertad con las reservas de ley.
-
-El Ministerio Público, si recibe diligencias de Policía Ministerial con detenidos, y la detención fuere injustificada, ordenará que queden en libertad con las reservas de Ley. Si la detención fuera justificada, hará la consignación o, en su caso, retendrá a la persona por los plazos autorizados en este Código.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+Los residuos sólidos urbanos y de manejo especial deberán ser manejados conforme a lo dispuesto por este Código, las Normas Oficiales Mexicanas, las Normas Ambientales Estatales, el Reglamento de este Libro y demás disposiciones aplicables. Para su manejo se observarán los principios establecidos en este Código.
 
 ###### ARTICULO 134.
 
-Se entiende que hay delito flagrante cuando el indiciado es detenido en el momento de estarlo cometiendo. También cuando inmediatamente de ejecutado el hecho delictuoso:
+1. Quienes generen residuos de manejo especial son responsables de su manejo y disposición final. La transferencia de los mismos por la contratación de prestadores autorizados para el servicio de manejo de residuos, implica una responsabilidad solidaria en su manejo integral, para el prestador, en lo que respecta a la etapa del manejo para la que esté autorizado.
 
-1) El indiciado es perseguido materialmente; o
+2. El manejo que se haga de los residuos de manejo especial y peligrosos que tenga asignados el Estado deberá realizarse de manera segura y ambientalmente adecuada conforme a los términos de la Ley General de Residuos, este Código y las condicionantes contenidas en las autorizaciones respectivas.
 
-2) Alguien lo señala como responsable; o
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-3) Se encuentre en su poder el objeto del delito o el instrumento con que se hubiera cometido; o
+3. El co-procesamiento y la incineración de residuos, se restringirán a las condiciones que se establezcan en las leyes de la materia y en las normas oficiales mexicanas correspondientes, en las cuales se estipularán los grados de eficiencia y eficacia que deberán alcanzar los procesos, y los parámetros ambientales que deberán cumplirse a fin de verificar la prevención o reducción de la liberación al ambiente de sustancias contaminantes, particularmente de aquellas que son tóxicas. En los citados ordenamientos se incluirán especificaciones respecto a la caracterización analítica de los residuos susceptibles de co-procesamiento, así como de incineración y de las cenizas resultantes de la misma, y al monitoreo periódico de todas las emisiones sujetas a normas oficiales mexicanas, cuyos costos asumirán los responsables de las plantas de co-procesamiento o de incineración.
 
-4) Existan huellas o indicios que hagan presumir fundadamente su intervención en la comisión del delito.
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 1997)</small>
+4. Para el co-procesamiento de los residuos deberá seguirse la jerarquía de manejo de los residuos que determine la Secretaría Federal, y considerar las mejores técnicas disponibles por razones de viabilidad técnica, económica o de protección ambiental. En caso de que los residuos no sean susceptibles de ser reutilizados o reciclados, pero sean aptos para el co-procesamiento en procesos de producción industrial según lo dispuesto en el Reglamento de la Ley General y las normas oficiales mexicanas aplicables, dicho co-procesamiento podrá ser considerado parte del propio proceso industrial de producción, sin perjuicio de las disposiciones aplicables de la Ley de Infraestructura de la Calidad.
 
-Lo anterior siempre y cuando no haya transcurrido un plazo de setenta y dos horas, desde la comisión de los hechos delictuosos.
-
-Se entiende que existe caso urgente cuando el Ministerio Público exprese y funde los indicios que acrediten:
-
-a).- Que el indiciado haya intervenido en la comisión de alguno de los casos señalados como delitos graves en el código penal;
-
-b).- Que sean delitos que se persigan de oficio;
-
-c).- Que exista riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia; y
-
-d).- Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocurrir ante la autoridad judicial para solicitar la orden de aprehensión.
-
-En los casos previstos en este artículo se observará lo dispuesto en el penúltimo párrafo del artículo anterior.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 135.
 
-Cuando el inculpado fuere detenido o se presentare voluntariamente, el Ministerio Público al que se le ponga a su disposición procederá inmediatamente de la siguiente forma:
-
-1) Hará constar el día, hora y lugar de la detención o comparecencia, así como el nombre y cargo de quien realizó la detención;
-
-2) Le hará saber la imputación que existe en su contra y el nombre del denunciante o querellante;
-
-3) Le hará saber que de acuerdo con la Constitución Política de los Estados Unidos Mexicanos goza de los siguientes derechos durante la averiguación previa:
-
-a).- No declarar. O declarar, si ese es su deseo, asistido por defensor;
-
-b).- Tener una defensa adecuada, por abogado, por sí, o por persona de su confianza. Si no quiere o no puede nombrar defensor, después de haber sido requerido para hacerlo, le designará un defensor de oficio;
-
-c).- Que su defensor comparezca en todos los actos de desahogo de pruebas dentro de la averiguación; y éste tendrá obligación de hacerlo cuantas veces se le requiera;
-
-d).- Que se le faciliten todos los datos que necesite para su defensa y que consten en la averiguación, para cuyo efecto él y su defensor podrán consultar el expediente respectivo, en presencia del Ministerio Público o del personal de su oficina;
-
-e).- Que se le reciba declaración de testigos y demás pruebas que ofrezca concediéndosele el tiempo necesario para ello, siempre que esto no redunde en entorpecimiento de la averiguación, y los testigos se encuentren en el lugar en donde ésta se lleva a cabo. Cuando no sea posible desahogar las pruebas ofrecidas por el inculpado o su defensor, el juez resolverá sobre la admisión y práctica de las mismas; y
-
-f).- Concedérsele, inmediatamente que lo solicite, su libertad provisional bajo caución, conforme a lo dispuesto por la fracción I del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y artículo 194 de este código;
-
-4) Le hará saber que puede comunicarse inmediatamente con quien lo desee, por cualquier medio disponible;
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
-
-5).- Le designará un traductor que le hará saber los derechos anteriores y le asistirá en todos los actos procedimentales sucesivos y en la correcta comunicación con el defensor, cuando el detenido sea un indígena o un extranjero, que no entienda suficientemente el español.
-
-El Ministerio Público, en su caso, de oficio o a petición de parte, verificará que perdure ese canal de comunicación; y si lo estimare prudente, podrá nombrar el defensor o el traductor que mejoren dicha comunicación;
-
-6) Comunicará de inmediato la detención a la Representación Diplomática o Consular que corresponda, si el detenido es un extranjero.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
-
-Cuando la detención se efectúe por elementos de instituciones policiales, los servidores públicos encargados de calificar la detención y poner a la persona a disposición del Ministerio Público, deberán proceder a su identificación por los medios que estén a su alcance.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+Es obligatorio gestionar y obtener la autorización de la Secretaría para la prestación de servicios en materia de manejo integral de residuos. En caso contrario se aplicarán las sanciones previstas en este Código, independientemente de la responsabilidad penal que pudiere derivarse.
 
 ###### ARTICULO 136.
 
-No se procederá a la detención de personas mayores de 70 años o en mujeres en estado de embarazo, o en periodo de puerperio, o bien cuando no hubieren transcurrido 40 días después del parto, ni enfermos terminales a juicio de facultativo; a menos que se le impute la comisión de un delito grave.
+1. Salvo cuando se trate de residuos considerados como peligrosos por la Ley General de Residuos y en las Normas Oficiales Mexicanas correspondientes, los residuos de manejo especial se clasifican como sigue:
 
-Lo mismo se observará tratándose de la ejecución de orden de aprehensión y detención pero no de la ejecución de sanciones.
+I. Residuos de las rocas o los productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales de construcción o se destinen para este fin, así como los productos derivados de la descomposición de las rocas, excluidos de la competencia federal conforme a las fracciones IV y V del artículo 5 de la Ley Minera;
 
-Este tratamiento se perderá en el supuesto de que no acudiera el beneficiado, sin causa justificada, a las diligencias a que fuere citado en cualquier estado del procedimiento.
+II. Residuos de servicios de salud, generados por los establecimientos que realicen actividades médico-asistenciales a las poblaciones humanas o animales y centros de investigación, con excepción de los biológico-infecciosos;
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+III. Residuos generados, en cualquiera de sus etapas, por las actividades, agrícolas, ganaderas, forestales, silvícolas, avícolas o piscícolas, incluyendo los residuos de los insumos utilizados en esas actividades;
 
-No se observará lo dispuesto en el primero y segundo párrafo, cuando sea por motivos de tránsito de vehículos y el probable responsable se encuentre bajo los efectos de bebidas embriagantes, o substancias psicotrópicas, o incurra en el delito de abandono de personas.
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+IV. Residuos industriales no peligrosos generados en instalaciones con dichas características o por procesos industriales, extractivos o de exploración, que no presentan las características de peligrosidad, conforme a la normatividad ambiental vigente y de acuerdo con la determinación de sus características y concentración de las sustancias contenidas en ellos, incluyendo a los recortes de perforación provenientes de la extracción de combustibles fósiles;
+
+V. Residuos de los servicios de transporte, así como los generados a consecuencia de las actividades que se realizan en puertos, aeropuertos, terminales ferroviarias y portuarias y en las aduanas;
+
+VI. Residuos consistentes en lodos provenientes del tratamiento de aguas residuales;
+
+VII. Residuos generados por instalaciones industriales, comerciales y de servicios;
+
+VIII. Residuos de la construcción, mantenimiento y demolición en general;
+
+IX. Residuos tecnológicos provenientes de las industrias de la informática, fabricantes de productos electrónicos o de vehículos automotores y otros que al transcurrir su vida útil, por sus características, requieren de un manejo específico;
+
+X. Residuos generados, acopiados, almacenados o dispuestos para su valorización y aprovechamiento en depósitos de metales, de reciclado, chatarrería, disposición final de vehículos usados, y afines;
+
+XI. Residuos que, en su punto de generación no reúnan las características para clasificarlos como peligrosos, en términos de lo dispuesto por el artículo 16 de la Ley General de Residuos o que por sus volúmenes o concentración de sustancias, no excedan características de corrosividad, reactividad, explosividad, toxicidad e inflamabilidad o que contengan agentes infecciosos que les confieran el carácter de peligrosos;
+
+XII. Los lodos de perforación, provenientes de la extracción de combustible fósiles, que no sean competencias de la federación;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+XIII. Los residuos sólidos urbanos producidos por grandes generadores;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2009)</small>
+
+XIV. Las llantas o neumáticos en desuso, de desecho o caducos; y,
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+
+XV. Todos los demás generados en los procesos productivos, que no reúnan características para ser considerados como peligrosos o como residuos sólidos urbanos.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La Secretaría, mediante determinación fundada y motivada, podrá establecer otras categorías para la clasificación de los residuos de manejo especial.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. Las llantas de desecho, deberán ser depositadas en los sitios establecidos para su disposición final, fomentando su reutilización de forma total o parcial, quedando prohibido su disposición final en terrenos baldíos, en vías públicas y, en general, en sitios distintos a los autorizados por la Secretaría.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. La Secretaría, en coordinación con la Secretaría de Desarrollo Económico, propiciarán las acciones que estimulen el mercado de valor de las llantas de desecho, impulsando programas de valorización que le permitan tanto a las personas físicas como a las morales, involucradas en la cadena comercial y de consumo en el Estado, acceder a los beneficios de su valorización.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+5. Las personas físicas y morales que estén relacionadas con la cadena productiva de la industria llantera como los productores, importadores, exportadores, distribuidores y consumidores deberán participar en los programas que la Secretaría establezca para la valorización de estos residuos de manejo especial, así como en los programas en materia de su gestión integral.
+
+La responsabilidad compartida de los residuos antes mencionados será definida de conformidad con los mecanismos e instrumentos que establezca la Secretaría.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+6. La Secretaría fomentará, en coordinación con los Ayuntamientos y la participación del sector productivo y social, la generación de infraestructura adecuada para el acopio, confinamiento, manejo y disposición final de las llantas de desecho.
 
 ###### ARTICULO 137.
 
-Cuando el probable responsable fuere detenido, se harán constar lugar, fecha y hora en que lo haya sido.
-
-Se le recogerán los objetos que se relacionen con el delito, y aquellos que no deban dejarse en su poder, por temor de que se pierdan o porque se estime inconveniente que los tenga en su posesión; en todo caso se entregará al detenido un recibo en el que se especifiquen los objetos recogidos, agregándose al acta un duplicado, que deberá llevar su firma o huella en su caso. Si se niega a ello, se hará constar su negativa.
-
-> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 1990)</small>
-
-Tratándose de los delitos culposos con motivo del tránsito de vehículos, en donde participen unidades de transporte urbano, o de transporte escolar, recibida por la autoridad garantía suficiente que cubra la reparación del daño para el caso de que resulte responsabilidad del inculpado, deberá hacer entrega del vehículo relacionado con el delito.
+Los residuos sólidos urbanos podrán subclasificarse en orgánicos e inorgánicos, con objeto de facilitar su separación primaria y secundaria, de conformidad con el Programa Estatal para la Prevención y Gestión Integral de los Residuos, los programas municipales para la prevención y gestión integral de los residuos sólidos urbanos y demás ordenamientos legales aplicables.
 
 ###### ARTICULO 138.
 
-(DEROGADO, P.O. 21 DE OCTUBRE DE 1994)
+1. Toda persona que genere residuos tiene la propiedad y responsabilidad de su manejo integral hasta su disposición final.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2005)</small>
+2. Toda persona física o moral que produzca mercancía y que para su comercialización utilice envolturas, empaques, envases, recipientes, embalajes o cualquier otro material inherente al producto final, y que resulten eliminados por sus consumidores por no ser parte de su aprovechamiento, uso o consumo, es generador de residuos y tendrá la responsabilidad que establece este Código para su manejo integral hasta su disposición final.
+
+3. Está prohibido el abandono o manejo incontrolado de los residuos y toda mezcla que dificulte su manejo integral. La responsabilidad inherente para el generador de los residuos subsiste aún cuando el generador transfiera los residuos a prestadores autorizados de servicio de manejo o a los Ayuntamientos o los depositen en los contenedores o sitios autorizados para tal efecto por las autoridades competentes.
+
+4. Los residuos sólidos urbanos y de manejo especial que sean generados en el Estado, deberán ser manejados conforme a lo dispuesto en el presente Libro y demás disposiciones que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+5. Cualquier persona física o moral que lleva a cabo la disposición final de residuos sólidos urbanos y residuos de manejo especial, deberá considerar las especificaciones, características y condiciones mínimas de un Centro de Manejo Integral de Residuos, para su instalación y operación, contemplando la normatividad aplicable vigente.
 
 ###### ARTICULO 139.
 
-Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, acudirá al órgano jurisdiccional, fundando y motivando su petición, para que éste resuelva de plano el arraigo con vigilancia de la autoridad, que ejercerán el Ministerio Público y sus auxiliares. Cuando se trate de delitos que no sean considerados como graves por el Código Penal para el Estado de Nuevo León, el indiciado podrá solicitar sea autorizada la utilización del brazalete electrónico en su persona, en substitución del arraigo. El Juez resolverá lo correspondiente. El arraigo o la utilización del brazalete electrónico se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de treinta días, prorrogables por igual término a petición del Ministerio Público. En caso de prórroga, el Juez resolverá escuchando al Ministerio Público y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
+1. Es obligación de toda persona generadora de residuos sólidos urbanos y de manejo especial:
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+I. Minimizar la generación de residuos y llevar a cabo su separación;
 
-El indiciado que voluntariamente se someta a la utilización del brazalete electrónico podrá realizar todas las actividades personales sin dejar de pernoctar diariamente en su domicilio, para lo cual la autoridad podrá disponer de la vigilancia de la policía.
+II. Fomentar la reutilización y reciclaje de los residuos;
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+III. Cumplir con las disposiciones y normas técnicas aplicables al manejo integral de los residuos sólidos que genere;
 
-Para la aplicación de este artículo se observará en lo procedente lo dispuesto por el artículo 181 Bis del Código Penal vigente en el Estado.
+IV. Poner en conocimiento de las autoridades competentes las infracciones que se estimen se hubieran cometido contra la normatividad de los residuos; y
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+V. Las demás que establezcan los ordenamientos jurídicos aplicables.
 
-En los de los (sic) delitos tipificados por los artículos 165 bis y 176 del Código Penal para el Estado de Nuevo León, el arraigo no podrá exceder de sesenta días, prorrogables por treinta días más a petición del Ministerio Público.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Para el cumplimiento de estas obligaciones la Secretaría y los Ayuntamientos conforme a sus respectivas atribuciones ejercerán las acciones de verificación, inspección y vigilancia de conformidad con este Código.
 
 ###### ARTICULO 140.
 
-Toda mujer que sea detenida en prisión preventiva, lo será en lugar distinto y separado del de los varones, y su custodia será encomendada a personal exclusivamente femenino.
+Los grandes generadores de residuos sólidos urbanos y los generadores de residuos de manejo especial, están obligados a:
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+I. Registrarse ante la Secretaría y obtener autorización para el manejo de los residuos que generen;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+II. Presentar planes de manejo, solicitar su validación, modificación y actualización, así como registrarlos ante la Secretaría;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+III. Utilizar el sistema de manifiestos que establezca la Secretaría, para hacer el seguimiento de la generación y formas de manejo integral de sus residuos a lo largo de su ciclo de vida;
+
+IV. Formular y mantener actualizadas las bitácoras en las que registren el volumen y tipo de residuos generados y la forma de manejo a la que fueron sometidos;
+
+V. Operar el manejo integral de sus residuos por sí o a través de empresas de servicio de manejo, de conformidad con las disposiciones de este Libro y otros ordenamientos que resulten aplicables;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+VI. Presentar a la Secretaría un informe anual de los volúmenes de generación y formas de manejo de los residuos de manejo especial generados; y
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+VII. Contar con un seguro ambiental, cuando así lo requiera la Secretaría.
 
 ###### ARTICULO 141.
 
-Cuando por la naturaleza del delito, de la pena aplicable al imputado o de las circunstancias personales del mismo, no deba ser internado en prisión preventiva y existan elementos para suponer que podría sustraerse a la acción de la justicia, el Ministerio Público podrá solicitar al Juez, fundada y motivadamente, o éste disponer de oficio durante el proceso, el arraigo del indiciado con las características y por el tiempo que el juzgador señale, sin que en ningún caso pueda exceder del máximo señalado en el Artículo 139 tratándose de la averiguación previa, o bien en el proceso por el término constitucional en que éste deba resolverse, a excepción de aquellos delitos para los cuales la ley señale pena alternativa.
+1. Las personas consideradas como microgeneradores de residuos peligrosos, en los términos de la Ley General de Residuos, una vez formalizados los convenios a que se refieren los artículos 12 y 13 de la misma, estarán obligadas a:
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+I. Registrarse ante la Secretaría y obtener autorización de los planes de manejo de los residuos que generen;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+II. Sujetar los residuos peligrosos que generen, a los programas y planes de manejo que se establezcan para tal fin y a las condiciones que fije la Secretaría;
+
+III. Trasladar sus residuos peligrosos a los centros de acopio autorizados o enviarlos a través de transportación autorizada, de conformidad con las disposiciones aplicables; y
+
+IV. Cumplir las demás obligaciones dispuestas en este Código, la Ley General de Residuos y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Una vez formalizado el convenio respectivo, la Secretaría y, en su caso, los Ayuntamientos, podrán ejercer las acciones de verificación del cumplimiento de las normas de desarrollo sustentable.
 
 ###### ARTICULO 141 Bis.
 
@@ -1395,65 +2849,127 @@ Cuando por la naturaleza del delito, de la pena aplicable al imputado o de las c
 
 ###### ARTICULO 142.
 
-La Policía Preventiva estará bajo la dirección y mando del Ministerio Público, en los casos en que solicite su auxilio.
+De conformidad con lo que establece la Ley General de Residuos, una vez formalizado el convenio de coordinación respectivo, los residuos peligrosos que se generen en los domicilios y en oficinas públicas o privadas en cantidades iguales o mayores a las que generan los microgeneradores, deberán ser manejados de acuerdo con los programas y planes de manejo según lo dispuesto en este Libro.
 
-Tanto el Ministerio Público como la Policía, se sujetarán a las disposiciones del presente código y a los reglamentos y leyes orgánicas respectivas, en lo que concierne a las diligencias que hayan de practicar antes de iniciarse el procedimiento judicial.
+## TITULO QUINTO. DE LAS ETAPAS DEL MANEJO INTEGRAL DE RESIDUOS
 
 ###### ARTICULO 143.
 
-Las actas se extenderán de preferencia en papel oficio, autorizándose cada hoja con el sello de la oficina, e insertándose en ellas las formalidades que para el caso deben contener las diligencias de ratificación o de reconocimiento de firma, y de todas las determinaciones o certificaciones relativas. Además, se agregarán los documentos que se presenten.
+1. El manejo integral de los residuos comprende las siguientes etapas:
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+I. Reducción en la fuente;
+
+II. Separación;
+
+III. Aprovechamiento, incluyendo la reutilización y el reciclaje;
+
+IV. Limpia o barrido;
+
+V. Acopio;
+
+VI. Recolección;
+
+VII. Almacenamiento;
+
+VIII. Traslado o transportación;
+
+IX. Valorización;
+
+X. Co-procesamiento;
+
+XI. Tratamiento; y
+
+XII. Disposición final.
+
+2. La etapa de limpia o barrido se excluye del manejo integral de residuos de manejo especial.
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+3. Tratándose de los residuos sólidos urbanos, las etapas de limpia o barrido, recolección, traslado o transportación, tratamiento y disposición final estarán a cargo de los Ayuntamientos, sujetándose a las disposiciones del Código Municipal para el Estado de Tamaulipas y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. En caso de que los Ayuntamientos promuevan sitios de disposición final de residuos sólidos urbanos, deberán contar con la previa autorización de la Secretaría, en los términos de este Código.
 
 ###### ARTICULO 144.
 
-En las oficinas del Ministerio Público, se llevarán los registros necesarios para dar entrada a los asuntos que se tramiten. Se formará expediente por duplicado, con los demás documentos que se reciban y un cuaderno de pruebas, dejando copia certificada cuando la averiguación se traslade a otra Autoridad o se reserve acción penal en contra de persona alguna.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Se requiere autorización de la Secretaría para llevar a cabo las etapas del manejo integral de residuos de manejo especial establecidas en las fracciones II, III y de la V a la XII del párrafo 1 del artículo anterior.
+
+2. Los Ayuntamientos podrán autorizar las etapas del manejo integral de los residuos sólidos urbanos señaladas en las fracciones III, V, VII y X del párrafo 1 del artículo anterior.
+
+3. Las autorizaciones deberán otorgarse por tiempo determinado y podrán ser prorrogadas si se solicitan con una anticipación a su vencimiento de, al menos, la décima parte de su vigencia y se demuestra que se han cumplido con las disposiciones aplicables.
 
 ###### ARTICULO 145.
 
-Cuando se reciban armas u otros objetos que se relacionen con el delito, se hará la descripción de ellos en las actas, expresándose las marcas, matrículas, calidades, materias y demás circunstancias características que faciliten su identificación; si se recibiera dinero o alhajas, se contará el primero, expresándose la clase de moneda y su número, y se especificarán debidamente las segundas, entregándose el recibo correspondiente.
+1. Para el otorgamiento de autorizaciones se requiere:
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+I. Ubicarse en lugares que reúnan los criterios que establezca la normatividad aplicable cuando los mismos sean requeridos para la etapa que se gestiona la autorización; así como acreditar las condiciones requeridas para cada una de las etapas específicas, tales como vehículos apropiados, equipo, tecnología, capacitación, conocimiento de la gestión integral de los residuos y, en general, los recursos humanos, técnicos y financieros que garanticen el óptimo manejo de los mismos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+II. Presentar un plan de manejo registrado ante la Secretaría para la operación segura y ambientalmente adecuada de los residuos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+III. Contar con programas para prevenir y responder a contingencias ambientales o emergencias ecológicas y accidentes y, en su caso, presentar a la Secretaría el seguro que ampare la reparación por responsabilidad civil y de restauración ambiental;
+
+IV. Contar con personal capacitado y continuamente actualizado;
+
+V. Otorgar garantías para asegurar que al cierre de las operaciones de sus instalaciones, éstas queden libres de residuos y no presenten niveles de contaminación que puedan representar un riesgo para la salud de las personas, los recursos naturales, el medio ambiente y los ecosistemas; y
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+VI. Obtener autorización en materia de impacto ambiental.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Además de los requisitos señalados en este artículo, la persona física o moral deberá atender las condiciones de carácter técnico que por la naturaleza del servicio le sean exigibles por la Secretaría, mismas que formarán parte de la autorización.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+
+3. Para todos los trámites y servicios que se realizan en esta Secretaría, además de los requisitos previstos en el presente Código, reglamentos y manuales de procedimientos, guías y todos los señalados en la página de internet de la Secretaría, las personas físicas y morales deberán presentar una "Constancia de No Adeudo Fiscal" expedida por la Oficina Fiscal del Estado.
 
 ###### ARTICULO 146.
 
-A toda persona que deba examinarse como testigo o como perito, se le recibirá la protesta de producirse con verdad, bajo la siguiente formula: "¿Protesta usted, bajo palabra de honor y en nombre de la Ley, declarar con verdad en las diligencias en que va a intervenir?". Al contestar en sentido afirmativo, se le hará saber que la ley sanciona al falso testimonio y se le apercibirá de las sanciones previstas en el artículo 250 del Código Penal vigente en el Estado, observándose lo dispuesto en el artículo 276 de este Código.
-
-En la averiguación previa el Ministerio Público prevendrá a los testigos y peritos para que se presenten ante el Juez cuantas veces fueren requeridos; así como, comuniquen los cambios de domicilio que tuvieren, lo que se hará constar en diligencia formal.
+Durante la vigencia de la autorización, la empresa de servicio de manejo deberá presentar informes acerca de los residuos recibidos y las formas de manejo a los que fueron sometidos en los términos de aquella.
 
 ###### ARTICULO 147.
 
-Las diligencias que se practiquen deberán ser breves y concisas, evitándose vacíos y narraciones superfluas que alarguen los procedimientos.
+1. Son causas de revocación de las autorizaciones:
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+I. La falsedad en la información proporcionada a la Secretaría;
+
+II. La contravención a la normatividad aplicable en las actividades de manejo integral de los residuos;
+
+III. La ausencia de renovación de las garantías otorgadas;
+
+IV. El incumplimiento en la reparación del daño ambiental que se cause con motivo de las actividades autorizadas; y
+
+V. El incumplimiento de las obligaciones establecidas en la autorización, en el presente Código y demás disposiciones aplicables.
+
+2. Para la revocación se ejercerán las disposiciones contenidas en este Código.
 
 ###### ARTICULO 148.
 
-En los casos en que la ley exija una declaración judicial previa, deberá presentarse copia de la sentencia irrevocable en que se haga dicha declaración.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+Las etapas que comprenden el manejo integral de residuos se deberán llevar a cabo conforme a lo que establezca este Libro y demás disposiciones aplicables.
 
 ###### ARTICULO 149.
 
-Los funcionarios del Ministerio Público asentarán en el acta que levanten, todas las observaciones acerca de las circunstancias de tiempo, lugar y modo de la comisión del delito.
+1. Es responsabilidad de todo generador de residuos sólidos urbanos y de manejo especial, buscar opciones e implementar acciones para reducir o minimizar la generación o, en su caso, procurar la biodegradabilidad de los mismos.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+2. Todo generador de residuos deberá llevar a cabo su separación con objeto de evitar que se mezclen con otros generados en las actividades que realice, y propiciará su reutilización, reciclaje y no contaminación.
 
 ###### ARTICULO 150.
 
-Se asentarán en el acta a que se refiere el artículo anterior, todas las observaciones que acerca del probable responsable y la víctima se hubieran recibido, ya sea en el momento de cometer el delito o de su detención, o bien durante la práctica de las diligencias en que se hubiere intervenido.
+1. El Ejecutivo del Estado y los Ayuntamientos instrumentarán sistemas de separación primaria y secundaria de los residuos sólidos urbanos y de manejo especial.
 
-El Ministerio Público que inicie una averiguación previa podrá citar para que declaren sobre los hechos que se averigüen, a las personas que por cualquier concepto participen en ellos o aparezca tengan datos sobre los mismos.
+2. Asimismo, realizarán campañas para fomentar la separación de residuos desde la fuente de su generación.
 
-En el acta se hará constar quién mencionó a la persona que haya de citarse, o porqué motivo el funcionario que practique las diligencias estimó conveniente hacer la citación.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
-
-Toda persona que haya de rendir declaración en los casos de los artículos 133, 134 y 135 tendrá derecho a hacerlo asistido por un defensor nombrado por él.
-
-El defensor podrá impugnar las preguntas que se hagan al declarante si éstas son inconducentes o contra derecho. Pero no puede producir ni inducir las respuestas de su asistido.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE JULIO DE 2004)</small>
-
-### CAPITULO TERCERO. CURACION DE HERIDOS Y ENFERMOS
+### CAPITULO II. DE LOS SISTEMAS DE MANEJO AMBIENTAL
 
 ###### ARTICULO 150 Bis.
 
@@ -1467,203 +2983,265 @@ El cuerpo del delito de que se trate y la probable responsabilidad se acreditar�
 
 ###### ARTICULO 151.
 
-Cuando el delito deje vestigios o indicios de su perpetración, el Ministerio Público lo hará constar en el acta que levante, recogiéndolos si fuere posible.
+Los contenedores que se coloquen en la vía pública deberán ser diferenciados y fácilmente identificables para distinguir aquellos destinados a los residuos sólidos urbanos orgánicos e inorgánicos.
 
 ###### ARTICULO 152.
 
-Cuando se encuentren personas o cosas relacionadas con el delito, se describirá detalladamente su estado y circunstancias.
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+1. Toda persona tendrá la obligación de buscar el mejor aprovechamiento y utilidad de los residuos.
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+2. Para tal efecto en sus actividades domiciliarias, industriales, comerciales o de servicios buscará reutilizar los residuos que genere.
 
 ###### ARTICULO 153.
 
-Cuando el estado y circunstancias a que se refiere el artículo anterior, no pudieran apreciarse debidamente sino por peritos, además de las descripciones posibles, se designarán desde luego éstos, agregando al acta el dictamen o dictámenes que rindan.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+La limpieza o barrido de áreas y vialidades públicas, así como la recolección de residuos sólidos urbanos y su traslado o transportación compete a los Ayuntamientos, sin detrimento de las disposiciones reglamentarias y sin perjuicio de las concesiones que otorguen y los términos de las mismas.
 
 ###### ARTICULO 154.
 
-Si para la comprobación de los elementos del delito o de sus circunstancias, tuviere importancia el reconocimiento de un lugar, se ordenará que se verifique, haciendo constar en el acta la descripción del mismo y todos los detalles que puedan tener significación para la apreciación de los hechos. Así mismo se agregarán las fotografías correspondientes.
+1. La recolección de residuos sólidos urbanos se realizará de acuerdo con los programas administrativos que adopten los Ayuntamientos, los que deberán darse a conocer en el Periódico Oficial del Estado, estableciéndose cuando menos las rutas, lugares, días y horarios en que se realizará.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. El acopio y el almacenamiento de residuos sólidos urbanos deberán observar las disposiciones administrativas que determine el Ayuntamiento, a fin de que el lugar y la actividad cumplan con las previsiones de este Código, siempre que no se trate de una estación de transferencia, la cual será competencia de la Secretaría
 
 ###### ARTICULO 155.
 
-El Ministerio Público procederá a preservar la escena del crimen, recogiendo en los primeros momentos de su investigación, las armas, instrumentos y objetos de cualquiera clase, que pudieran tener relación con el delito y se hallaren en el lugar en que éste se cometió, en sus inmediaciones, en poder del inculpado o en otra parte, expresando cuidadosamente el lugar, tiempo y ocasión en que se encontraron, y haciendo una descripción minuciosa de las circunstancias de su hallazgo.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
-
-De todos estos objetos entregará recibo a la persona en cuyo poder se encuentre, la que expresará su conformidad o motivos de inconformidad. El duplicado se agregará al Acta que se levante.
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1991)</small>
-
-En el caso del artículo anterior, se procederá a levantar el Acta correspondiente, que contendrá: La hora, fecha y modo en que se tenga conocimiento de los hechos; el nombre y el carácter de la persona que dio noticias de ellos y su declaración, así como la de los testigos cuyos dichos sean más importantes y la del inculpado, si se encontrare presente, incluyendo el grupo étnico indígena al que pertenece, en su caso; la descripción de lo que haya sido objeto de inspección ocular; los nombres y domicilios de los testigos que no se hayan podido examinar; el resultado de la observación de las particularidades que se hayan notado a raíz de ocurridos los hechos, en las personas que en ella intervengan; los medios y providencias que se hayan tomado para la investigación de los hechos, así como los demás datos y circunstancias que se estime necesario hacer constar.
+La recolección de residuos de manejo especial es obligación de sus generadores, quienes podrán contratar la realización de esta etapa con un prestador autorizado de servicio de manejo de residuos.
 
 ###### ARTICULO 156.
 
-En los casos de los dos artículos anteriores, el Ministerio Público ordenará el reconocimiento por peritos, siempre que lo estime necesario para apreciar mejor su relación con el delito.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+Los vehículos destinados a la recolección y traslado o transportación de residuos, deberán contar con contenedores distintos que hagan factible su acopio por separado.
 
 ###### ARTICULO 157.
 
-Los instrumentos, armas y objetos a que se refiere el artículo 155 de este Código, se embalarán siempre que lo permita su naturaleza, y se asegurarán acordando su retención o conservación a fin de que no se alteren, destruyan o desaparezcan, y de no correrse tales riesgos, mediante determinación, se entregarán en depósito en el lugar o ante persona designada para ello por el Ministerio Público o Juez en su caso. Si no pudieren conservarse en su forma primitiva, se verificará lo más conveniente para mantenerlos del mejor modo posible.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-Cuando el caso lo amerite dictaminarán peritos. Todo se hará constar en el acta que se levante.
+1. La transportación de residuos sólidos urbanos y de manejo especial en el Estado, se realizará con la autorización de la Secretaría y los Ayuntamientos, conforme a sus respectivas competencias.
+
+2. Para la transportación de residuos sólidos urbanos y de manejo especial se deberán considerar:
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+I. Las condiciones necesarias para el transporte, de acuerdo con el tipo de residuos de que se trate;
+
+II. Las medidas de seguridad en el transporte, tanto para la salud de las personas, el medio ambiente y el desarrollo sustentable; y
+
+III. Las mejores rutas de transporte, dependiendo de los lugares de salida y destino de los residuos.
 
 ###### ARTICULO 158.
 
-Cuando para mayor claridad y comprobación de los hechos, fuere conveniente levantar el plano del lugar del delito y tomar fotografías, tanto de ese lugar como de las personas que hubieren sido víctimas del delito, se practicarán estas operaciones y se hará copia o diseño de los efectos o instrumentos del mismo, aprovechando para ello todos los recursos que ofrezcan la ciencia, la técnica y las artes, solicitando el auxilio de los peritos.
-
-El plano, fotografía, copia o diseño, se unirán al acta debidamente autentificados.
+Los sitios destinados al tratamiento y disposición final de residuos sólidos urbanos y de manejo especial, además de cumplir con los requisitos señalados en el presente Libro, deberán contar con la autorización de impacto ambiental en los términos que se establecen en el Libro Segundo de este Código y demás ordenamientos aplicables.
 
 ###### ARTICULO 159.
 
-Cuando no queden vestigios o indicios del delito, se hará constar, oyendo juicio de peritos acerca de las posibles causas de su desaparición.
+Los productores y comercializadores cuyos productos y servicios generen residuos susceptibles de valorización mediante procesos de reciclaje, instrumentarán planes de manejo que establezcan las acciones para minimizar la generación de sus residuos, prever su manejo responsable y orientar a los consumidores sobre las oportunidades y beneficios de aprovechamiento con base en dicha valorización.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 160.
 
-Cuando el delito fuere de los que no dejan vestigios o indicios de su perpetración, se comprobará por cualquier medio de prueba.
+La Secretaría, con la participación de la Secretaría de Desarrollo Económico, en coordinación con los Ayuntamientos, y de conformidad con el Programa Estatal para la Prevención y Gestión Integral de los Residuos, instrumentarán programas para la utilización de materiales o subproductos provenientes de los residuos, a fin de promover mercados para su aprovechamiento, vinculando a los sectores social y privado.
 
 ###### ARTICULO 161.
 
-Si de las primeras diligencias se desprende que la muerte no se debe a un delito, no se practicará la autopsia, y el Ministerio Público entregará el cadáver.
+Los residuos que hayan sido seleccionados para su reciclaje y que por sus características no puedan ser procesados, deberán enviarse para su tratamiento o, en su caso, disposición final, conforme a lo dispuesto por el Reglamento del presente Libro.
 
-En todos los demás casos será indispensable este requisito, con las excepciones que este código señale.
+#### SECCION SEGUNDA. DEL COMPOSTEO
 
 ###### ARTICULO 162.
 
-Cuando se trate de homicidio, además de la descripción que haga el que practique la diligencia, la harán también los peritos encargados de la autopsia del cadáver, expresando con minuciosidad el estado que guarda y las causas que originaron la muerte.
+1. Los Ayuntamientos diseñarán, construirán y operarán centros de composteo de residuos sólidos urbanos orgánicos, de conformidad con lo que se establezca en el Programa Estatal para la Prevención y Gestión Integral de los Residuos y en los Programas Municipales correspondientes.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Para tal efecto, podrán solicitar el apoyo técnico de la Secretaría.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría y los Ayuntamientos fomentarán esta actividad a través de programas específicos en donde se expongan sus beneficios, se incentive su realización y se genere la importancia del aprovechamiento y valorización de los residuos.
 
 ###### ARTICULO 163.
 
-Los cadáveres deberán ser siempre identificados por cualquier medio legal de prueba. Cuando el rostro de los cadáveres se encuentre desfigurado y sea difícil identificarlos, se hará su reconstrucción siempre que sea posible.
+1. Los lineamientos sobre las características apropiadas de los residuos para la producción de composta o criterios para cada tipo de composta, se fijarán en las Normas Ambientales Estatales que al efecto se expidan.
 
-Si a pesar de haber tomado las providencias que señala este artículo, no se identifica el cadáver, se tomarán fotografías del mismo, agregándose un ejemplar al proceso; se pondrán otras en los lugares públicos, con los datos que puedan servir para que sea reconocido, y se exhortará a todos los que hayan conocido al occiso, para que se presenten ante la autoridad exhortante a declarar sobre la identidad de aquél.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Los vestidos se describirán minuciosamente en autos, y se conservarán en depósito seguro para que puedan ser presentados a los testigos de identidad.
+2. La composta que no pueda ser aprovechada deberá ser enviada a sitios de disposición final de residuos autorizados por la Secretaría.
 
 ###### ARTICULO 164.
 
-Cuando testigos hubieran visto un cadáver, que después no puede ser encontrado, aquéllos harán la descripción del mismo y expresarán si presentaba vestigios exteriores de violencia y/o lesiones, describiendo detalladamente unos y otras, su número, partes en que estaban situados, sus dimensiones, demás características y el arma con que crean que fueron causados. Igualmente declararán si lo conocieron en vida así como acerca de sus hábitos, costumbres, carácter y enfermedades que hubiere padecido.
+Toda persona que lleve a cabo procesos de tratamiento de residuos sólidos urbanos orgánicos para composta, deberá cumplir con las disposiciones que establecen las Normas Oficiales Mexicanas y las Normas Ambientales Estatales en la materia.
 
-Para la investigación de esto último, se utilizará cualquier medio.
+## TITULO SEXTO. PREVENCION, CONTROL Y REMEDIACION DEL SUELO CONTAMINADO
 
 ###### ARTICULO 165.
 
-Los datos a que se refiere el artículo anterior, se proporcionarán a los peritos, cuyo dictamen, para efectos del último párrafo del artículo 309 del Código Penal, deberá reunir los requisitos mínimos siguientes:
-
-I.- Establecer, con base en los datos y características proporcionados, qué instrumento pudo haber causado los vestigios de violencia y/o las lesiones; y
-
-II.- Determinar razonadamente, con base en la ubicación de los vestigios de violencia y/o las lesiones, su número, dimensiones y demás características proporcionadas, qué órgano u órganos vitales pudieron interesarse y qué efectos letales se producen normalmente por ello.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
-
-El dictamen servirá para comprobar el cuerpo del delito, solamente cuando, conforme a las constancias procesales, existan otras pruebas de la comisión del homicidio.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+Toda persona que genere y maneje residuos es responsable de los daños que esas actividades puedan causar a la salud de las personas, al medio ambiente y al desarrollo sustentable.
 
 ###### ARTICULO 166.
 
-Cuando la autoridad reciba noticias de actos que hagan presumir un homicidio, y no existan testigos que hubieren visto el cadáver o éste no aparezca por cualquier causa, el cuerpo del delito se acreditará mediante la prueba de la preexistencia de la persona de que se trate, la forma y medios de vida que le eran propios, así como sus características personales en cuanto a la salud, y el último lugar y fecha en que se le vio.
+La selección, operación y clausura de sitios de disposición final de los residuos se deberá realizar de acuerdo a la Ley General, Ley General de Residuos, este Código, las Normas Oficiales Mexicanas, las Normas Ambiéntales Estatales y demás disposiciones aplicables.
 
 ###### ARTICULO 167.
 
-En caso de lesiones, el herido será atendido bajo la vigilancia de dos médicos legistas, o por los médicos de sanatorios u hospitales públicos, quienes tendrán la obligación de rendir al Ministerio Público, o al juez en su caso, un dictamen previo que detalle el estado en que hubieren recibido al paciente, el tratamiento a que se le sujete, y el tiempo probable que dure su curación. Cuando ésta se logre, rendirán dictamen definitivo, expresando con toda claridad el resultado de las lesiones y el del tratamiento. Se precisará, además el carácter de incurable.
+En los sitios de disposición final se deberá:
 
-Los médicos darán aviso al Ministerio Público o al Juez, tan luego como adviertan que peligra la vida del paciente, así como cuando acaezca su muerte, para los efectos legales correspondientes.
+I. Evitar el confinamiento de residuos líquidos o semilíquidos; y
+
+II. Evitar el confinamiento de residuos mezclados que sean incompatibles y que puedan provocar afectaciones al medio ambiente.
 
 ###### ARTICULO 168.
 
-El ofendido podrá ser atendido en el lugar y por los facultativos que desee, los cuales deberán rendir los dictámenes informativos a que se refiere el artículo anterior. Los médicos legistas seguirán con la obligación de visitar periódicamente al enfermo y de rendir los mismos informes, cuando así lo determine el Ministerio Público o el Juez.
+Quienes resulten responsables de la contaminación de sitios, así como de daños a la salud de las personas como consecuencia de aquélla, sin demérito de las sanciones administrativas o penales que procedan, estarán obligados a:
+
+I. Llevar a cabo las acciones necesarias para remediar las condiciones de los sitios, de acuerdo a lo establecido en las disposiciones aplicables, y,
+
+II. Reparar el daño causado a terceros o al medio ambiente, de conformidad con la legislación aplicable en caso de que la remediación no fuere posible.
 
 ###### ARTICULO 169.
 
-Tratándose de una enfermedad que se sospeche haya sido ocasionada por un delito, los médicos emitirán su opinión sobre sus causas, y describirán minuciosamente todos los síntomas que el enfermo presente, para los efectos de su clasificación legal.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+Los propietarios, poseedores y operadores de sitios contaminados con residuos regulados por el presente Libro, serán responsables solidarios de la reparación de los daños ocasionados, a la salud de las personas, a la calidad de vida de la población, a los recursos naturales y a los ecosistemas.
 
 ###### ARTICULO 170.
 
-En el caso de lesiones internas, envenenamiento u otra enfermedad proveniente del delito, se tendrá por comprobado el cuerpo del delito con la inspección y descripción hecha conforme al artículo 152 de este Código, las manifestaciones exteriores que presente la víctima, y el dictamen médico en que se expresarán los síntomas que tenga, si existen esas lesiones y si han sido producidas por causa externa; en caso de no existir manifestaciones exteriores bastará con el dictamen médico.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+1. La Secretaría, en coordinación con la Secretaría de Salud, establecerá los lineamientos generales para llevar a cabo la evaluación del riesgo ambiental y la caracterización de sitios contaminados con residuos regulados por este Código.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La Secretaría dispondrá, con base en dichos lineamientos, las acciones de remediación que procedan.
+
+3. Los lineamientos a los que se refiere el párrafo 1 de este artículo se publicarán en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 171.
 
-En el caso de aborto, el cuerpo del delito se tendrá por comprobado conforme a lo establecido para el homicidio y los peritos reconocerán a la madre y describirán las lesiones que presente, expresando la edad de la víctima y todo aquello que pueda servir para determinar la naturaleza del delito.
+Las acciones de remediación de sitios contaminados previstas en este Capítulo, se llevarán a cabo mediante programas elaborados y autorizados por la Secretaría y la Secretaría de Salud, de conformidad con los lineamientos a los que se refiere el párrafo 2 del artículo anterior.
 
 ###### ARTICULO 172.
 
-En caso de envenenamiento se recogerán cuidadosamente todos los objetos que hubiere usado la víctima, los restos de alimentos, bebidas y medicinas que hubiera tomado, las deyecciones y vómitos que hubiera tenido los que serán depositados con las precauciones necesarias para evitar su alteración. Se describirán todos los síntomas que presentó la víctima.
-
-A la mayor brevedad serán llamados los peritos, para que reconozcan y hagan el análisis de la substancia recogida, emitiendo su dictamen sobre sus cualidades tóxicas.
-
-En caso de muerte practicarán además de la autopsia del cadáver, el análisis de las vísceras u órganos que determinen los legistas.
+La regulación del uso del suelo, los programas de ordenamiento ecológico y las características hidrológicas del sitio, deberán ser considerados al determinar el grado de remediación de sitios contaminados con residuos regulados por este Código.
 
 ###### ARTICULO 173.
 
-En el delito de robo, se describirán las características y se detallará el estado del objeto del ilícito, haciéndose también constar todas aquellas señales que puedan servir para determinar si hubo escalamiento, horadación o fractura, o si se usaron llaves falsas, verificando cuanto fuere necesario para que los peritos emitan su opinión.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+1. En caso de que no sea posible identificar al responsable de la contaminación por residuos de un sitio, coordinadamente la Secretaría y los Ayuntamientos llevarán a cabo las acciones necesarias para su remediación, conforme a la disposición presupuestal con que cuenten.
+
+2. Si el Estado o los Ayuntamientos llevan a cabo la remediación a que se refiere el párrafo anterior, trasladarán las erogaciones presupuestales al propietario o poseedor a quien beneficiaron esas acciones.
+
+# LIBRO CUARTO. DE LAS AREAS NATURALES PROTEGIDAS ESTATALES Y MUNICIPALES
+
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 174.
 
-En los casos de robo el cuerpo del delito podrá comprobarse por alguno de los medios siguientes:
-
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
-
-I.- Por la confesión del inculpado, aún cuando se ignore quien sea el dueño de la cosa objeto del delito, y siempre que se reúnan los requisitos de los artículos 222 y 311 de este Código;
-
-II.- (DEROGADA, P.O. 21 DE OCTUBRE DE 1994)
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 1991)</small>
-
-III.- Por la prueba de que el inculpado ha tenido o tiene en su poder una cosa que, por sus circunstancias personales, no sea verosímil que haya podido adquirir legítimamente, si no justifica su proceder.
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 1991)</small>
-
-IV.- Por la prueba de la preexistencia, propiedad y falta posterior de la cosa materia del delito.
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 1991)</small>
-
-V.- Por la comprobación que la persona ofendida se hallaba en situación de poseer el objeto materia del delito, que disfruta de buena opinión y que ha hecho gestión judicial o extrajudicial para recuperarla.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
-
-Estas pruebas serán preferidas en el orden numérico en que están colocadas, aceptándose las posteriores a falta de las anteriores.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+El presente Libro tiene por objeto normar el establecimiento, administración y manejo de las áreas naturales protegidas de competencia estatal y municipal.
 
 ###### ARTICULO 175.
 
-Se tendrá por comprobado el cuerpo del delito de robo, cuando sin previo contrato con una empresa de energía eléctrica, de gas o cualquier otro fluido, se encuentre conectada una instalación particular a la de otro, o a la de una empresa.
+1. Todo el territorio del Estado es sujeto de preservación, restauración y protección. En específico se protegerán:
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+I. Aquellas áreas naturales en las que los ambientes y sus recursos naturales originales no hayan sido significativamente alterados por la actividad del ser humano; y
+
+II. Aquellas áreas naturales en las que a pesar de ya haber sido afectadas, requieran, por su especial relevancia para el Estado o su población, ser sometidas a programas de preservación, conservación, remediación, recuperación, rehabilitación o restauración.
+
+2. Las autoridades competentes emitirán las declaratorias de las áreas naturales protegidas, en las cuales no se permitirá la realización de obras o actividades distintas de aquellas que se encuentren expresamente contempladas en el decreto que las creó y en el programa de manejo que para el efecto se emita, de conformidad con lo establecido en el presente Código.
+
+3. La autorización de obras o actividades dentro de las áreas naturales protegidas estatales y municipales estará sujeta a la presentación de la manifestación de impacto ambiental correspondiente, en la cual se deberá demostrar, entre otras cuestiones, la congruencia con los criterios que dieron origen a la creación del área natural protegida, su programa de manejo, la compatibilidad con el Programa del Ordenamiento Ecológico del Estado, los Programas de Desarrollo Urbano Municipal, así como del beneficio que las obras o actividades generarían a la comunidad sin detrimento de la integridad del ecosistema o los servicios ambientales que nos prestan.
 
 ###### ARTICULO 176.
 
-Para la comprobación del cuerpo del delito en los casos de fraude, abuso de confianza o peculado, se estará a lo dispuesto en los artículos 174 fracción I y 181 de este Código.
+Para los efectos de este Libro se entiende por:
+
+I. Declaratoria: El decreto expedido por el titular del Ejecutivo del Estado mediante el cual se establece un área natural protegida;
+
+II. Monitoreo: El proceso sistemático de evaluación de factores ambientales y parámetros biológicos;
+
+III. Patrimonio natural: Los monumentos naturales constituidos por formaciones físicas y biológicas o por grupos de esas formaciones que tengan un valor excepcional desde el punto de vista estético o científico. Estos incluyen las formaciones geológicas y fisiográficas y las zonas estrictamente delimitadas que constituyan el hábitat de especies animal y vegetal amenazadas;
+
+IV. Programa de manejo del área natural protegida: El instrumento rector de planeación y regulación que establece las actividades, acciones y lineamientos básicos para el manejo y la administración del área natural protegida respectiva; y
+
+V. Zona de influencia: Las superficies aledañas a la poligonal de un área natural protegida que mantienen una estrecha interacción social, económica y ambiental con ésta.
+
+## TITULO SEGUNDO. DE LAS AUTORIDADES
 
 ###### ARTICULO 177.
 
-En los casos de daño en propiedad ajena, el Ministerio Público dispondrá que los peritos determinen, en cuanto fuere posible, el modo, lugar y tiempo en que se efectuó; las causas que lo produjeron, el monto de los daños o el peligro corrido para la vida de las personas o para los bienes en cuestión.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+El Ejecutivo del Estado, por conducto de la Secretaría tendrá las siguientes atribuciones:
+
+I. Proponer el estudio correspondiente a la declaración de áreas naturales protegidas estatales y proponer la expedición del decreto correspondiente;
+
+II. Realizar los estudios justificativos para la expedición de declaratorias para el establecimiento de áreas naturales protegidas estatales, considerándose la participación de los sectores público, social, privado y académico;
+
+III. Formular el proyecto de decreto de declaratoria de áreas naturales protegidas estatales y en su caso, llevar a cabo su ejecución;
+
+IV. Administrar el Sistema Estatal de Áreas Naturales Protegidas;
+
+V. Manejar, administrar y vigilar las áreas naturales protegidas estatales así como el cobro de los derechos que sean aplicables por su uso, goce o aprovechamiento;
+
+VI. Elaborar, expedir y aplicar los programas de manejo de las áreas naturales protegidas estatales, así como participar con carácter de coadyuvante en la realización de los programas de las áreas protegidas de competencia municipal;
+
+VII. Coordinar y ejercer las acciones en materia de protección, verificación y vigilancia de las áreas naturales protegidas estatales;
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+VIII. Regular y controlar el uso y aprovechamiento de los recursos naturales en las actividades productivas que se pretendan realizar dentro de las áreas naturales protegidas estatales;
+
+IX. Fomentar, instrumentar, construir, administrar y aplicar los instrumentos económicos para la compensación de servicios ambientales generados en las áreas naturales protegidas estatales, en coordinación con las demás dependencias y entidades de la administración pública estatal que correspondan;
+
+X. Participar en la elaboración del padrón de prestadores de servicios de turismo que compete formular a la Secretaría de Turismo, a fin de que se incorporen aquellos que desarrollan actividades en las áreas naturales protegidas estatales;
+
+XI. Propiciar el acceso del Estado a financiamiento público y privado para la administración, manejo, protección, conservación, preservación y restauración de las áreas naturales protegidas estatales, así como para los incentivos económicos y estímulos fiscales para las personas y organizaciones que participen en el manejo de dichas áreas;
+
+XII. Promover ante el Ejecutivo Federal, en términos de lo dispuesto por la Ley General, la incorporación de criterios ambientales y, específicamente de áreas destinadas a la preservación de los ecosistemas y su biodiversidad, para la distribución de las participaciones a los Estados y los Municipios;
+
+XIII. Coadyuvar en el establecimiento, administración y manejo de las áreas naturales protegidas de competencia de la Federación, así como en la administración y vigilancia de las mismas, previo convenio de coordinación con ese ámbito de competencia;
+
+XIV. Regular el impacto ambiental conforme a las atribuciones previstas en el Libro Segundo de este Código, por obras y actividades que se pretendan desarrollar en las áreas naturales protegidas, de conformidad con la declaratoria de su establecimiento y su programa de manejo; y
+
+XV. Las demás que le confieran la Ley General, este Código, sus Reglamentos y demás disposiciones aplicables.
 
 ###### ARTICULO 178.
 
-Si el delito es de falsificación de documentos, se hará una minuciosa descripción del instrumento argüido de falso, y se depositará en un lugar seguro, haciendo que firmen en él, si fuera posible, las personas que depongan respecto a su falsedad; en caso contrario, se harán constar los motivos.
+La determinación de áreas naturales protegidas estatales tendrá como objeto:
 
-Al expediente se agregará una copia certificada del documento argüido de falso y una fotografía del mismo cuando sea posible.
+I. Preservar los ambientes naturales representativos de las diferentes regiones biogeográficas y ecológicas y de los ecosistemas más frágiles para asegurar el equilibrio y la continuidad de los procesos evolutivos, biológicos y ecológicos que se tutelan en este Código y demás disposiciones que del mismo emanen;
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+II. Preservar y conservar los ambientes naturales dentro de las zonas de los asentamientos humanos y su entorno para mantener el equilibrio ecológico, asegurar el desarrollo sustentable y contribuir a mejorar la calidad de vida de la población;
 
-La comprobación del cuerpo del delito en los casos de falsificación, se hará como lo dispone el artículo 181 de este Código.
+III. Asegurar que el aprovechamiento racional de los ecosistemas y sus elementos, así como el cuidado de la biodiversidad del territorio del Estado se realice de manera sustentable, garantizando la preservación de las especies que están en peligro de extinción, las amenazadas, las endémicas, las raras y las que se encuentran sujetas a protección especial, de conformidad con las disposiciones jurídicas aplicables, mismas que en ningún caso serán objeto de aprovechamiento para fines comerciales;
+
+IV. Salvaguardar la integridad genética de las especies silvestres que habitan en las áreas naturales protegidas y sus entornos, particularmente las endémicas, las amenazadas o en peligro de extinción;
+
+V. Proporcionar un campo propicio para la investigación científica, el estudio y monitoreo de los ecosistemas, su equilibrio y la educación sobre el medio natural y la biodiversidad;
+
+VI. Generar, rescatar y divulgar conocimientos, prácticas y tecnologías tradicionales o nuevas que permitan el aprovechamiento sustentable de la biodiversidad dentro del territorio del Estado;
+
+VII. Proteger los elementos y entornos naturales de zonas, monumentos y vestigios arqueológicos, históricos y artísticos, zonas turísticas y otras áreas de importancia para la recreación, la cultura e identidad nacional y estatal, así como de las comunidades autóctonas asentadas en el territorio del Estado;
+
+VIII. Proteger poblados, vías de comunicación, instalaciones industriales, aprovechamientos agrícolas, mediante zonas forestales en montañas en donde se originen torrentes; el ciclo hidrológico en cuencas así como las demás que tiendan a la protección de elementos circundantes con los que se relacionen medio ambientalmente el área; y
+
+IX. Proteger la biodiversidad, el medio ambiente y la generación de los servicios ambientales.
 
 ###### ARTICULO 179.
 
-Cualquiera persona que tenga en su poder un documento público o privado que se sospeche sea falso, tiene obligación de presentarlo tan luego como para ello sea requerido por la autoridad competente, por resolución fundada y motivada.
+1. Las áreas naturales protegidas se constituirán en zonas representativas de uno o más ecosistemas, en las que habitan especies o se produzcan servicios ambientales de importancia para el Estado.
 
-Se reconocen como excepciones para el cumplimiento de la obligación a que se refiere este artículo, las señaladas en la ley.
+2. Las autoridades municipales no podrán someter a categoría de protección, ningún área natural que se encuentre dentro del perímetro de una ya protegida por las autoridades estatales.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+3. Las áreas naturales protegidas estatales constituyen en su conjunto el Sistema Estatal de Áreas Naturales Protegidas.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. La Secretaría llevará el registro de las áreas integrantes del Sistema Estatal de Áreas Naturales Protegidas en el que consignarán los datos de su inscripción en el Registro Público de la Propiedad Inmueble y del Comercio o en su caso ante los Registros respectivos.
 
 ###### ARTICULO 179 Bis.
 
@@ -1671,37 +3249,51 @@ En los casos de privación ilegal de la libertad con carácter de secuestro que 
 
 ###### ARTICULO 180.
 
-En todos aquellos delitos en que se requieran conocimiento (sic) especiales para su comprobación, se utilizarán asociadas las pruebas de inspección y de peritos, sin perjuicio de las demás.
+1. Los propietarios, poseedores o titulares de derechos sobre tierras, aguas y bosques comprendidos dentro de áreas naturales protegidas, deberán sujetarse a las declaratorias por las que se constituyan dichas áreas, así como a las demás previsiones contenidas en el programa de manejo y en los programas de ordenamiento ecológico que correspondan.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+2. Todos los actos, convenios o contratos relativos a la propiedad, posesión o cualquier derecho relacionado con bienes inmuebles ubicados en áreas naturales protegidas estatales deberán contener referencia de la declaratoria correspondiente y de sus datos de inscripción en el Registro Público de la Propiedad Inmueble y del Comercio o de los demás Registros competentes.
 
 ###### ARTICULO 181.
 
-Sin perjuicio de los medios especificados que este Código señala para comprobar el cuerpo del delito, el Ministerio Público o el Juez, para su comprobación, gozarán de la acción más amplia y de los medios para su investigación o demostración, según su criterio, aunque no sean de los que define y detalle la Ley, siempre que esos medios no estén reprobados por ésta.
+Las áreas naturales podrán ser objeto de protección bajo las siguientes categorías:
 
-Podrán emplearse además la fotografía, filmaciones u otros medios de tecnología existentes, para reproducción de información, imágenes o sonidos conducentes al esclarecimiento de los hechos y se hará constar en el acta.
+I. De competencia estatal:
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+a) Áreas ecológicas protegidas;
+
+b) Parques estatales;
+
+c) Zonas especiales sujetas a conservación ecológica;
+
+d) Zonas de restauración;
+
+e) Paisajes naturales;
+
+f) Reservas naturales comunitarias o privadas;
+
+g) Los santuarios del agua; y
+
+h) Áreas destinadas voluntariamente a la conservación.
+
+II. De competencia municipal:
+
+a) Parques urbanos;
+
+b) Jardines naturales;
+
+c) Zonas de conservación ecológica; y
+
+d) Las demás que determinen otras disposiciones aplicables.
 
 ###### ARTICULO 182.
 
-Tratándose de los delitos que establece el artículo 50 Ter de la Ley Orgánica del Poder Judicial de la Federación, cuando en la etapa de investigación ministerial, el Procurador General de Justicia, a petición del agente del Ministerio Público correspondiente, considere necesaria la intervención de comunicaciones privadas, lo solicitará al Juez de Distrito competente, expresándole:
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
 
-I.- Objeto y necesidad de la intervención;
+Para el cumplimiento de las disposiciones del presente Libro, en relación a las áreas naturales protegidas, se realizará una división y subdivisión que permita identificar y delimitar las porciones del territorio que la conforman, acorde con sus elementos biológicos, físicos y socioeconómicos, los cuales constituyen un esquema integral y dinámico, por lo que cuando se realice la delimitación territorial de las actividades en las áreas naturales protegidas, ésta se llevará a cabo a través de la siguientes zonas, de acuerdo a su categoría de manejo:
 
-II.- Los hechos, circunstancias y demás elementos que se pretendan probar;
+I. Las zonas núcleo: tendrán como principal objetivo la preservación de los ecosistemas a mediano y largo plazos, en donde se podrán autorizar las actividades de preservación de los ecosistemas y sus elementos, de investigación y de colecta científica y educación ambiental, y limitarse o prohibirse aprovechamientos que alteren los ecosistemas; y
 
-III.- Los indicios que hagan presumir fundadamente que la persona cuya comunicación privada se pretende intervenir está vinculada con el delito o delitos que se investigan;
-
-IV.- El tipo de comunicación privada que se considera conveniente intervenir;
-
-V.- La ubicación del lugar o la identificación del medio en que habrá de llevarse a cabo la intervención; y
-
-VI.- Duración de la intervención.
-
-Podrán ser objeto de intervención las comunicaciones privadas que se realicen en forma oral, escrita, por signos, señales o mediante el empleo de aparatos eléctricos, mecánicos, alámbricos e inalámbricos, sistemas o equipos informáticos, así como cualquier otro medio o forma que permita la comunicación entre uno o varios emisores y uno o varios receptores.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+II. Las zonas de amortiguamiento: tendrán como principal objetivo la conservación de los ecosistemas a largo plazo, a través de la orientación de las actividades de aprovechamiento que ahí se lleven a cabo.
 
 ###### ARTICULO 182 Bis.
 
@@ -1773,259 +3365,373 @@ Para tal efecto, la Secretaría de Finanzas y Tesorería General del Estado prov
 
 La persona que preste ayuda eficaz para la investigación y persecución de los delitos previstos por los artículos 165 bis, 176, 318, 325, 357, 357 bis ó 395 del Código Penal para el Estado de Nuevo León, cuando no exista averiguación previa en su contra, los elementos de prueba que aporte o se deriven de la indagatoria iniciada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona.
 
-### CAPITULO CUARTO. CONSIGNACION ANTE LOS TRIBUNALES
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+### CAPÍTULO ÚNICO
 
 ###### ARTICULO 183.
 
-La curación de las personas que hubieren sufrido lesión o enfermedad proveniente de delito, se sujetará a lo dispuesto en el artículo 167 de este código.
+Las zonas núcleo podrán estar conformadas por las siguientes subzonas:
 
-Si no hubiere médico en el lugar o a corta distancia, se podrá encargar de la curación a un práctico.
+I. De protección: aquellas superficies dentro del área natural protegida que han sufrido muy poca alteración, así como ecosistemas relevantes o frágiles y fenómenos naturales que requieren de un cuidado especial para asegurar su conservación a largo plazo.
+
+En las subzonas de protección sólo se permitirá realizar actividades de monitoreo del ambiente y de investigación científica que no implique la extracción o el traslado de especímenes, ni la modificación del hábitat.
+
+II. De uso restringido: Aquellas superficies en buen estado de conservación donde se busca mantener las condiciones actuales de los ecosistemas, e incluso mejorarlas en los sitios que así se requieran, y en las que se podrán realizar excepcionalmente actividades de aprovechamiento que no modifiquen los ecosistemas y que se encuentren sujetas a estrictas medidas de control.
+
+En las subzonas de uso restringido sólo se permitirán la investigación científica y el monitoreo del ambiente, las actividades de educación ambiental y turismo de bajo impacto ambiental que no impliquen modificaciones de las características o condiciones naturales originales, y la construcción de instalaciones de apoyo, exclusivamente para la investigación científica o el monitoreo del ambiente.
 
 ###### ARTICULO 184.
 
-Si la persona enferma o lesionada hubiere de estar detenida, su curación deberá tener lugar precisamente en los hospitales públicos; excepcionalmente en sanatorios particulares, cuando la naturaleza de la alteración de la salud y las disposiciones de esta ley lo permitan; en todo caso, se hará con la custodia correspondiente.
+1. Las zonas de amortiguamiento podrían estar conformadas básicamente por las siguientes subzonas:
+
+I. De preservación: aquellas superficies en buen estado de conservación que contienen ecosistemas relevantes o frágiles, o fenómenos naturales relevantes, en las que el desarrollo de actividades requiere de un manejo específico, para lograr su adecuada conservación;
+
+En las subzonas de preservación sólo se permitirán la investigación científica y el monitoreo del ambiente, las actividades de educación ambiental y las actividades productivas de bajo impacto ambiental que no impliquen modificaciones sustanciales de las características o condiciones naturales originales, promovidas por las comunidades locales o con su participación, y que se sujeten a una superficie constante de los posibles impactos negativos que ocasionen, de conformidad con lo dispuesto en los ordenamientos jurídicos y reglamentarios que resulten aplicables.
+
+II. De uso tradicional: aquellas superficies en donde los recursos naturales han sido aprovechados de manera tradicional y continua, sin ocasionar alteraciones significativas en el ecosistema. Están relacionadas particularmente con la satisfacción de las necesidades socioeconómicas y culturales de los habitantes del área protegida.
+
+En dichas zonas no podrán realizarse actividades que amenacen o perturben la estructura natural de las poblaciones y ecosistemas o los mecanismos propios para su recuperación. Sólo se podrán realizar actividades de investigación científica, educación ambiental y de turismo de bajo impacto ambiental, así como la infraestructura de apoyo que se requiera, utilizando ecotécnicas y materiales tradicionales de construcción propios de la región, aprovechamiento de los recursos naturales para la satisfacción de las necesidades económicas básicas y de autoconsumo de los pobladores, utilizando métodos tradicionales enfocados a la sustentabilidad, conforme lo previsto en las disposiciones legales y reglamentarias aplicables.
+
+III. De aprovechamiento sustentable de los recursos naturales: aquellas superficies en las que los recursos naturales pueden ser aprovechados, y que por motivos de uso y conservación de sus ecosistemas a largo plazo, es necesario que todas las actividades productivas se efectúen bajo esquemas de aprovechamiento sustentable;
+
+En dichas subzonas se permitirán exclusivamente el aprovechamiento y manejo de los recursos naturales renovables, siempre que estas acciones generen beneficios preferentemente para los pobladores locales, la investigación científica, la educación ambiental y el desarrollo de actividades turísticas de bajo impacto ambiental.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+Asimismo, el aprovechamiento sustentable de la vida silvestre podrá llevarse a cabo siempre y cuando se garantice su reproducción controlada o se mantengan o incrementen las poblaciones de las especies aprovechadas y el hábitat del que dependen; y se sustenten en los planes correspondientes autorizados por la Secretaría, conforme a las disposiciones legales y reglamentarias aplicables.
+
+IV. De aprovechamiento sustentable de los ecosistemas: aquellas superficies con usos agrícolas y pecuarios actuales;
+
+En dichas subzonas se podrán realizar actividades agrícolas y pecuarias de baja intensidad que se lleven a cabo en predios que cuenten con aptitud para este fin, y en aquellos en que dichas actividades se realicen de manera cotidiana, así como actividades de agroforestería y silvopastoriles, siempre y cuando sean compatibles con las acciones de conservación del área y contribuyan al control de la erosión y a evitar la degradación de los suelos.
+
+La ejecución de las prácticas agrícolas, pecuarias, agroforestales y silvopastoriles que no estén siendo realizadas en forma sustentable, deberán orientarse hacia la sustentabilidad y a la disminución del uso de agroquímicos e insumos externos para su realización.
+
+V. De aprovechamiento especial: aquellas superficies generalmente de extensión reducida, con presencia de recursos naturales que son esenciales para el desarrollo social, y que deben ser explotadas sin deteriorar el ecosistema, modificar el paisaje de forma sustancial, ni causar impactos ambientales irreversibles en los elementos naturales que conformen;
+
+En dichas subzonas sólo se podrán ejecutar obras públicas o privadas para la instalación de infraestructura o explotación de recursos naturales, que generen beneficios públicos, guarden armonía con el paisaje, no provoquen desequilibrio ecológico grave y estén sujetos a estrictas regulaciones de uso sustentable de los recursos naturales.
+
+VI. De uso público: Aquellas superficies que presentan atractivos naturales para la realización de actividades de recreación y esparcimiento, en donde es posible mantener concentraciones de visitantes, en los límites que se determinen con base en la capacidad de carga de los ecosistemas;
+
+En dichas subzonas se podrán llevar a cabo exclusivamente la construcción de instalaciones para el desarrollo de servicios de apoyo al turismo, a la investigación y monitoreo del ambiente, y la educación ambiental, congruentes con los propósitos de protección y manejo de cada área natural protegida.
+
+VII. De asentamiento humano: Aquellas superficies donde se ha llevado a cabo una modificación sustancial o desaparición de los ecosistemas originales, debido al desarrollo de asentamientos humanos, previos a la declaratoria del área protegida; y
+
+VIII. De recuperación: Aquellas superficies en las que los recursos naturales han resultado severamente alterados o modificados, y que serán objeto de programas de recuperación y rehabilitación.
+
+Para su rehabilitación en estas subzonas deberán utilizarse preferentemente especies nativas de la región o, en su caso, especies compatibles con el funcionamiento y la estructura de los ecosistemas originales.
+
+2. En las zonas de amortiguamiento deberán tomarse en consideración las actividades productivas que lleven a cabo las comunidades que ahí habiten al momento de la expedición de la declaratoria respectiva, basándose en lo previsto tanto en el Programa de Manejo respectivo como en los Programas de Ordenamiento Ecológico que resulten aplicables.
 
 ###### ARTICULO 185.
 
-Siempre que un lesionado o enfermo necesite pronta curación, se solicitarán los servicios de cualquier médico para que la practique, mientras se presente el médico oficial, a quien el primero dará todos los datos que hubiere recogido y que puedan servir para hacer la clasificación del hecho.
+En las zonas núcleo de las áreas naturales protegidas queda expresamente prohibido:
+
+I. Verter o descargar contaminantes en el suelo, subsuelo y cualquier clase de cauce, vaso o acuífero, así como desarrollar cualquier actividad contaminante;
+
+II. Interrumpir, rellenar, desecar o desviar los flujos hidráulicos;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
+
+III. Realizar actividades cinegéticas o de explotación y aprovechamiento de especies de flora y fauna silvestres, sin la autorización correspondiente;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2022)</small>
+
+IV. El establecimiento de cualquier asentamiento humano irregular o de nuevos asentamientos humanos regulares o su expansión territorial que afecte a dichas zonas, así como la extracción de suelo o materiales del subsuelo de estas con fines distintos a los estrictamente científicos o a los que por excepción se establecen en este Código; y
+
+V. Ejecutar acciones que contravengan lo dispuesto por este Código, la declaratoria respectiva y las disposiciones que de ella se deriven o los demás ordenamientos aplicables.
 
 ###### ARTICULO 186.
 
-Cuando a juicio del facultativo que lo atienda, sea urgente el traslado de un enfermo o lesionado, se efectuará sin dilación a un hospital público o a un establecimiento particular, si se tratara de alguien que no debe quedar detenido y así lo solicitara.
+1. Las áreas ecológicas y los parques estatales se constituirán conforme a lo dispuesto por este Libro y demás disposiciones aplicables, sobre la base de que se trate de representaciones biogeográficas, a nivel estatal, de uno o más ecosistemas que sean significativos por su belleza escénica, su valor científico, educativo o de recreo, su valor histórico o por otras razones ambientales de interés general.
 
-Si el lesionado no debe estar privado de su libertad, la autoridad que conozca del caso podrá permitir, si lo juzga conveniente, que sea atendido en lugar distinto, bajo responsiva de médico con título legalmente reconocido, y previa clasificación legal de las lesiones. Sin embargo, la autoridad podrá cerciorarse del estado del lesionado cuando lo estime oportuno.
+2. Dichas áreas serán de uso público y en ellas podrá permitirse la realización de actividades relacionadas con su protección, el incremento de su flora y fauna y su preservación, así como actividades de educación ambiental, turísticas y recreativas.
 
 ###### ARTICULO 187.
 
-En el caso del artículo anterior, o cuando el herido o enfermo se cure en su casa, tanto él como el médico que lo asista, tienen el deber de participar al juzgado cualquier cambio de establecimiento o habitación.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-La infracción a este precepto por parte del herido o enfermo, será bastante para que sea internado en el hospital público correspondiente. Si la infracción la cometiera el médico, se le aplicará corrección disciplinaria.
+1. Corresponde a la Secretaría la organización, administración, manejo y vigilancia de las áreas naturales y los parques estatales, los que podrán coordinarse con las dependencias y entidades federales o municipales, o las demás dependencias o entidades estatales, así como con instituciones públicas y privadas no lucrativas, para la conservación, fomento y debido aprovechamiento.
+
+2. Los aprovechamientos forestales en áreas naturales protegidas se autorizarán en cuanto exista, a juicio de las instancias competentes, dictamen de la conveniencia del mismo en términos ambientales.
 
 ###### ARTICULO 188.
 
-En el caso del artículo 186 de este código, el médico que dé la responsiva tiene la obligación de extender el certificado de sanidad o el de defunción, en su caso, así como participar a la autoridad los accidentes y complicaciones que sobrevengan, expresando si son consecuencia inmediata de la lesión o provenientes de otra causa; si no se cumple con alguna de estas obligaciones, se utilizarán los medios de apremio que se estime necesario y se aplicará corrección disciplinaria.
+1. Las zonas especiales sujetas a conservación ecológica, son aquellas constituidas en zonas circunvecinas a los asentamientos humanos, en las que existen uno o más ecosistemas en buen estado de conservación, destinadas a preservar los elementos naturales indispensables al equilibrio ecológico y al bienestar general.
+
+2. En dichas áreas podrá permitirse la realización de actividades relacionadas con la preservación, repoblación, propagación, aclimatación, refugio e investigación de las especies mencionadas dentro del programa de manejo respectivo, así como las relativas a la educación y difusión de la materia.
+
+3. Asimismo, podrá autorizarse el aprovechamiento de los recursos naturales a las comunidades que ahí habiten en el momento de la expedición de la declaratoria respectiva, o que resulten posibles según los estudios que se realicen, pero en todo momento deberán sujetarse a las Normas Oficiales Mexicanas, las Normas Ambientales Estatales y los usos de suelo que al efecto se establezcan en la propia declaratoria o en las resoluciones que las modifiquen.
 
 ###### ARTICULO 189.
 
-Los lesionados que no deban estar detenidos, y que ingresen para su curación a los hospitales públicos, tan luego como estén sanos saldrán de allí sin necesidad de orden especial en ese sentido. En caso contrario, serán trasladados a la prisión, pero en ambos casos se dará aviso a la autoridad que corresponda, por el médico que lo haya asistido.
+En el establecimiento, administración y manejo de las áreas naturales protegidas a que se refiere el párrafo 3 del artículo anterior, participarán habitantes de los asentamientos humanos de la región, de conformidad con los convenios de concertación que al efecto se celebren, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección de las áreas naturales protegidas de competencia estatal y municipal.
 
 ###### ARTICULO 190.
 
-Siempre que un lesionado, internado en un hospital público, salga de él, él o los médicos que lo asistan rendirán dictámenes en que hagan la clasificación legal, señalando el tiempo que dilatare la curación o dando el certificado de sanidad según el caso.
+1. Los paisajes naturales se establecerán conforme a este Libro y al Reglamento del mismo, en áreas que contengan uno o varios elementos naturales de importancia estatal, que unan dos o más áreas naturales protegidas, consistentes en lugares u objetivos naturales que por su carácter único y excepcional, interés estético, valor histórico o científico se resuelva incorporar a un régimen de protección, aunque no tengan la variedad de ecosistemas ni la superficie necesaria para ser incluidos en otras categorías de manejo.
+
+2. En los paisajes naturales se permitirán las actividades propias de las comunidades previamente asentadas, así como las relativas a la recreación, la cultura, la preservación de sus ecosistemas y aspectos arquitectónicos, siempre y cuando sean congruentes con el programa de manejo que al efecto se emita y los objetivos de protección de la declaratoria correspondiente.
 
 ###### ARTICULO 191.
 
-Los certificados de lesiones, defunción o de sanidad, expedidos por médicos particulares, estarán sujetos a la revisión de los médicos oficiales, quienes rendirán el dictamen definitivo.
+1. Las reservas naturales comunitarias o privadas, podrán ser constituidas de manera voluntaria por sus propietarios o legítimos poseedores, sobre cualquier tipo de terreno, quienes podrán imponer, con base en estudios que así lo justifiquen, las medidas de protección que consideren pertinentes.
+
+2. La administración, manejo y vigilancia de estas áreas naturales correrán por cuenta de los propietarios o poseedores, mientras que el plan de manejo se hará de manera conjunta con las autoridades.
+
+3. Las autoridades estatales o municipales, según corresponda, prestarán la colaboración necesaria para la consecución de los objetivos por los que se haya constituido el área correspondiente.
 
 ###### ARTICULO 192.
 
-Cuando la persona privada de libertad esté enferma o lesionada y requiera auxilios médicos que no le puedan ser proporcionados en la cárcel, la autoridad a cuya disposición se encuentra podrá autorizar que se la (sic) traslade a un hospital público o privado, después de recabar los informes respectivos y de tomar las medidas que estime necesarias para el aseguramiento del inculpado. Si la autoridad considera que la vigilancia policial no es suficiente o no es posible, podrá exigir caución.
-
-La autoridad revocará la concesión inmediatamente después de que el inculpado sane o de que haya motivo para temer la fuga.
-
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+Los santuarios del agua se establecerán conforme este Libro y su Reglamento en lugares que sean necesarios para preservar las condiciones naturales que permitan la continuidad del ciclo hidrológico, entendiendo éste como el proceso de lluvia-evaporación-escurrimiento-infiltración-lluvia, siendo esencial para el hombre y los ecosistemas y que además son espacios que albergan a la biodiversidad acuática y terrestre.
 
 ###### ARTICULO 192 Bis.
 
 El Ministerio Público emitirá determinación de reserva de la preparación de la acción penal cuando considere que de lo actuado no resultan elementos bastantes para el ejercicio de la acción penal. Lo anterior sin perjuicio de proseguir la investigación si con posterioridad pudieren allegar medios de convicción, notificando lo anterior al denunciante o querellante.
 
-### CAPITULO PRIMERO. REGLAS GENERALES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 193.
 
-Agotada la averiguación por el Ministerio Público, por reunirse los requisitos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, ejercitará la acción penal.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
-
-El Ministerio Público estará obligado a precisar de una manera breve el hecho por el cual ejercita acción penal; expresará el delito que se le imputa al inculpado, incluyendo las modalidades o circunstancias modificativas o calificativas de éste, en su caso, así como el lugar, tiempo y circunstancias de ejecución, que podrán acreditarse con pruebas directas o circunstanciales, propondrá las cuestiones de derecho y citará las leyes aplicables.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
-
-Tratándose de delitos sexuales, delitos contra la familia, delitos contra la vida e integridad de las personas, delitos contra la libertad, corrupción de menores o de personas privadas de la voluntad y pornografía infantil; cuando la víctima del delito carezca de la capacidad de precisar lugar, tiempo y circunstancias de ejecución de los hechos en razón de tratarse de menores de 13 años de edad, o bien, cuando la víctima padezca una enfermedad o esté sujeta a un tratamiento médico que le impida ubicarse en tiempo, lugar y espacio, o se halle en un estado de inconsciencia de sus actos, determinado por el empleo de sustancias tóxicas, embriagantes o estupefacientes, y además, no existan testigos directos del hecho punible, el Ministerio Público acreditando estos supuestos, ejercitará la acción penal únicamente con los requisitos que al efecto establecen los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
-
-En caso de que la detención de una persona exceda de los términos señalados en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y 3 fracción IV, tercer párrafo de este Código, se presumirá que estuvo incomunicada y las declaraciones que haya rendido no tendrán validez.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
+Los parques urbanos son aquellas áreas de uso público, constituidos en los centros de población para obtener y preservar el equilibrio de los ecosistemas urbanos y los elementos de la naturaleza, de manera que se proteja un ambiente sano, el esparcimiento de la población y valores artísticos, históricos y de belleza natural que sean significativos para la localidad.
 
 ###### ARTICULO 194.
 
-El Ministerio Público no podrá otorgar la libertad bajo caución del inculpado cuando exista culpa grave por conducir en estado de voluntaria intoxicación que produzca homicidio o lesiones graves. Si podrá otorgarse la libertad provisional en los supuestos previstos por el artículo 493, fijando la caución que corresponda conforme al artículo 20 fracción I de la Constitución Política de los Estados Unidos Mexicanos y 497 de este Código, sin perjuicio de solicitar su Arraigo en caso necesario.
+Los jardines naturales estarán integrados por camellones, andadores, jardines escolares y, en general, cualquier área de uso público en zonas industriales o circunvecinas de los asentamientos humanos, en las que existan ecosistemas en buen estado, que se destinen a preservar los elementos naturales indispensables para el equilibrio ambiental y el bienestar de la población.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
+## TITULO CUARTO. DE LOS INSTRUMENTOS DE POLITICA AMBIENTAL
 
-Cuando en el curso de la averiguación aparecieren modificadas las condiciones que existían en el momento de concederse la libertad provisional bajo caución, el Ministerio Público podrá variar el monto de la garantía otorgada, sujetándose a las reglas contenidas en el Capítulo respectivo.
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
-
-El Ministerio Público podrá hacer efectiva la garantía si el indiciado no acatare, sin causa justificada, las disposiciones que el primero dictare.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
-
-La garantía se devolverá por el Ministerio Público cuando se resuelva el no ejercicio de la acción penal. Consignado el caso, el inculpado está obligado a presentarse ante el Juez.
-
-## TITULO CUARTO. PREPARACION DEL PROCESO
-
-PRIMERA PARTE
-
-### CAPITULO SEGUNDO. APREHENSION DEL INCULPADO
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+### CAPITULO I. DE LA DISTRIBUCION DE COMPETENCIAS
 
 ###### ARTICULO 195.
 
-El tribunal ante el cual se ejercite la acción penal, radicará de inmediato el asunto. Sin más trámite le abrirá expediente, en el que se resolverá lo que legalmente corresponda. Ordenará la presentación del inculpado y la garantía otorgada ante el Ministerio Público se considerará prorrogada ante el Juez, hasta en tanto no se decida su modificación o cancelación. Acordará en su caso, la retención de los bienes asegurados o los que asegure y de no correrse en su caso, riesgo de que se alteren, destruyan o desaparezcan, acordará su entrega en depósito en el lugar o ante la persona designada para ello, donde quedarán a disposición para la práctica de diligencias. Lo mismo hará sobre las cosas, bienes, objetos y valores distintos a los antes mencionados. Tratándose de armas de fuego se estará a lo dispuesto en las leyes relativas.
+Las zonas de restauración ambiental, se constituirán en las áreas que presenten procesos acelerados de deterioro del suelo que impliquen la pérdida de recursos naturales de difícil regeneración, recuperación o afectaciones irreversibles a los ecosistemas o sus elementos.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2005)</small>
-
-Si durante el plazo de diez días, contados a partir del día en que se haya hecho la consignación, el Juez no dicta auto de radicación en el asunto, el Ministerio Público podrá recurrir en queja ante el Tribunal Superior de Justicia. El Juez ordenará o negará la aprehensión o la comparecencia solicitada por el Ministerio Público, dentro de quince días contados a partir del día en que se haya acordado la radicación. Si no resuelve oportunamente sobre este punto, el Ministerio Público procederá en los términos previstos en la primera parte de este párrafo.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+## TITULO TERCERO. DE LAS DECLARATORIAS Y ADMINISTRACION DE AREAS NATURALES PROTEGIDAS
 
 ###### ARTICULO 196.
 
-Las diligencias practicadas por la Policía Ministerial y por el Ministerio Público, no tendrán que repetirse por los jueces, salvo el derecho de las partes para objetarlas. Sin embargo, las partes y el defensor podrán proponer pruebas conducentes al esclarecimiento de los hechos. El Juez está facultado para ordenar la repetición de cualquier diligencia pertinente si lo solicitan las partes. Tratándose de la prueba testimonial, se estará a lo dispuesto en el artículo 281 de este Código, en su caso.
+1. Corresponde al Ejecutivo del Estado la expedición y publicación en el Periódico Oficial del Estado de las declaratorias que establezcan o modifiquen las áreas naturales protegidas estatales, conforme a lo dispuesto en este Código, Reglamento de este Libro y los estudios técnicos que así lo fundamenten.
 
-### CAPITULO TERCERO. DECLARACION PREPARATORIA
+2. Los Ayuntamientos establecerán las áreas naturales protegidas municipales, conforme a lo dispuesto por este Código, el Reglamento de este Libro y demás disposiciones aplicables.
+
+### CAPITULO II. DEL ORDENAMIENTO ECOLOGICO
 
 ###### ARTICULO 197.
 
-Para que el juez libre una orden de aprehensión, se requiere:
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-I.- Que el Ministerio Público la haya solicitado; y
+1. Previamente a la expedición de las declaratorias para el establecimiento de las áreas naturales protegidas a que se refiere el párrafo 1 del artículo anterior, la Secretaría deberá realizar los estudios que lo justifiquen en términos del presente Libro, los cuales deberán ser puestos a disposición del público.
 
-II.- Que se reúnan los requisitos previstos por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+2. Asimismo, se deberá solicitar la opinión de:
+
+I. Los gobiernos municipales en cuyas circunscripciones territoriales se localizará el área natural de que se trate;
+
+II. Las dependencias y entidades de la administración pública estatal que conforme a sus atribuciones deban brindarla;
+
+III. Las organizaciones de los sectores social y privado, y demás personas físicas o morales interesadas, y
+
+IV. Las universidades e instituciones educativas del Sistema Educativo Estatal que realicen actividades académicas en áreas del conocimiento relacionadas con el medio ambiente, los recursos naturales y el desarrollo sustentable.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría deberá considerar los comentarios y opiniones recibidos y poner a disposición de los interesados la respuesta respectiva.
 
 ###### ARTICULO 198.
 
-La orden de aprehensión que el juez dicte, se entregará al Ministerio Público para su debido cumplimiento.
+1. Las declaratorias para el establecimiento, administración, manejo y vigilancia de las áreas naturales protegidas estatales, deberán contener los siguientes elementos:
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+I. La delimitación precisa del área, señalando la superficie, ubicación, deslindes y en su caso, zonificación correspondiente;
+
+II. Las limitaciones, condiciones y modalidades a que se sujetarán las actividades o aprovechamientos de sus recursos naturales en general o específicamente de aquellas sujetas a protección;
+
+III. Los lineamientos generales para su administración, el establecimiento de órganos que concurrirán en ello y la creación de fondos y fideicomisos, en su caso;
+
+IV. Las disposiciones para la coordinación de las acciones destinadas a su preservación, restauración, aprovechamiento y vigilancia; y
+
+V. Los lineamientos para la elaboración del programa de manejo.
+
+2. Las declaratorias se inscribirán en el Registro Público de la Propiedad Inmueble y del Comercio y en los demás Registros competentes.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 199.
 
-Siempre que se lleve a cabo una aprehensión en virtud de orden judicial, la Policía Ministerial, asentando la fecha y hora de la detención, está obligada a poner al detenido, sin dilación alguna y bajo su más estricta responsabilidad, a disposición del Juez respectivo, lo cual se llevará a cabo mediante la recepción por el tribunal de la copia de la constancia de internamiento del lugar donde haya quedado recluido, lo que deberá verificarse en forma inmediata por parte de los elementos que ejecuten la orden. La contravención a lo previsto en este artículo se sancionará conforme lo dispone el Código Penal vigente en el Estado.
-
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2009)</small>
+Cuando en la realización de los estudios previos para el establecimiento de áreas naturales protegidas deban intervenir diversas dependencias de la administración pública estatal, la coordinación de dichos estudios y la formulación de la propuesta de declaratoria respectiva corresponderá a la Secretaría.
 
 ###### ARTICULO 200.
 
-Si el Juez niega la orden de aprehensión, de comparecencia, de cateo, de arraigo, de presentación o de embargo precautorio, por considerar que no están reunidos los requisitos de los artículos 16 de la Constitución Política de los Estados Unidos Mexicanos, 193 y 197 de este Código, y se solicitare replantear el auto en que se ejercita la acción penal o la práctica de nuevas pruebas, se regresará el expediente al Ministerio Público a efecto de que realice un nuevo auto de ejercicio de la acción penal o desahogue de nuevas pruebas estando facultado para solicitar de nueva cuenta la orden de aprehensión, de comparecencia o de cateo, de arraigo, de presentación o embargo precautorio, con un nuevo planteamiento o en el mismo sentido apoyado en pruebas diversas a las anteriores, ya consideradas por la autoridad judicial, debiendo el juzgador valorar en su conjunto todas y cada una de las pruebas que obran en el expediente, tanto la (sic) nuevas como las anteriores, al emitir un nuevo auto.
+Cuando el establecimiento de un área natural protegida pueda implicar la imposición de modalidades a la propiedad federal, el Estado formulará el planteamiento correspondiente a la Federación, con objeto de adoptar la determinación correspondiente sin demérito del régimen aplicable a dichas áreas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE OCTUBRE DE 1994)</small>
+### CAPITULO III. DE LA REGULACION AMBIENTAL DE LOS ASENTAMIENTOS HUMANOS
 
-### CAPITULO CUARTO. AUTO DE FORMAL PRISION, DE SUJECION A PROCESO Y LIBERTAD
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 201.
 
-Dentro de cuarenta y ocho horas, contadas desde que un detenido ha quedado a disposición de la autoridad judicial, se procederá a tomarle su declaración preparatoria.
-
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1994)</small>
-
-Se entenderá que el inculpado queda a disposición del juzgador para los efectos constitucionales y legales correspondientes, desde el momento en que el Ministerio Público lo ponga a disposición de aquél en la prisión preventiva o en el centro de salud en el que se encuentre. El Ministerio Público dejará constancia de que el detenido quedó a disposición de la autoridad judicial, y entregará copia de aquella al encargado del reclusorio o del centro de salud, quien asentará día y hora del recibo.
+Las autoridades estatales y municipales podrán participar en el establecimiento, manejo, administración y vigilancia de las áreas naturales protegidas federales, en los términos que se señalen en la Ley General y de conformidad con los acuerdos de coordinación que al efecto se celebren.
 
 ###### ARTICULO 202.
 
-La declaración preparatoria se desahogará en audiencia pública, sin que en ella estén quienes tengan que ser examinados como testigos.
+1. Una vez establecida un área natural protegida estatal o municipal, sólo podrá ser modificada su extensión y, en su caso, los usos del suelo permitidos o cualquiera de sus disposiciones, por la autoridad que la haya establecido, siguiendo las mismas formalidades previstas en este Código para la expedición de la declaratoria respectiva.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+2. En los programas de ordenamiento urbano deberán considerarse los decretos para el establecimiento de áreas naturales protegidas estatales o municipales.
+
+3. El Ejecutivo Estatal y los Ayuntamientos, a través de las dependencias competentes, fomentarán programas de regulación de la tenencia de la tierra en las áreas naturales protegidas de su jurisdicción con objeto de promover la seguridad jurídica en los predios en ellas comprendidos.
 
 ###### ARTICULO 203.
 
-En ningún caso y por ningún motivo, podrá el juez emplear la incomunicación, la intimidación, la tortura o cualquier otro medio de coacción para obligar al detenido a declarar.
+1. El Sistema Estatal de Áreas Naturales Protegidas tiene como propósito unificar las regulaciones y criterios para su establecimiento, administración, manejo y vigilancia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La Secretaría llevará el Sistema Estatal de las Áreas Naturales Protegidas.
+
+3. En dicho sistema se registrarán los datos relacionados con el establecimiento del área de que se trate y los contenidos de la declaratoria respectiva, así como los programas de manejo.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. La Secretaría promoverá que el programa de manejo incluya la conservación, administración, desarrollo y vigilancia de las áreas integrantes del Sistema.
 
 ###### ARTICULO 204.
 
-El Juez está obligado a hacer saber al inculpado, en este acto:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+El Ejecutivo Estatal, a través de la Secretaría, con la participación de las demás dependencias estatales competentes y los Ayuntamientos que así lo convengan, promoverá:
 
-I.- Los hechos que el Ministerio Público le imputa en el pliego de consignación; el nombre de la persona o personas que le imputan la comisión del delito o delitos, la naturaleza y causa de la acusación para que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo.
+I. Las inversiones públicas, privadas y sociales para el establecimiento y manejo de las áreas naturales protegidas estatales;
 
-> <small>(REFORMADA P.O. 21 DE OCTUBRE DE 1994)</small>
+II. La utilización de mecanismos para captar recursos económicos y financiar o apoyar el manejo de las áreas naturales protegidas estatales; y
 
-II.- La garantía de libertad caucional, en los casos en que proceda, y el procedimiento para obtenerla;
-
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
-
-III.- Que tiene derecho a una adecuada defensa, por abogado, por sí o por persona de su confianza. Si no quiere o no puede nombrar un defensor, después de ser requerido para ello, el Juez le nombrará uno de oficio.
-
-En caso de que la designación recaiga sobre quien no tenga cédula profesional de licenciado en derecho o autorización de pasante, conforme a la Ley que reglamente el ejercicio de las profesiones, el Tribunal dispondrá que intervenga, además del designado, un defensor de oficio que oriente a aquél, y directamente al propio inculpado, en todo lo que concierne a su adecuada defensa;
-
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
-
-IV.- Que tiene derecho a que el defensor se halle presente en todos los actos del juicio y éste (sic) obligación de comparecer cuantas veces se le requiera;
-
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
-
-V.- Que tiene derecho a no declarar. O declarar, si ese es su deseo, asistido por defensor;
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
-
-VI.- Que tiene derecho a que se le designe un traductor que le hará saber los derechos anteriores y le asistirá en todos los actos procedimentales sucesivos y en la correcta comunicación con el defensor, cuando el detenido sea un indígena o un extranjero que no entienda suficientemente el español.
-
-El juez, en su caso, de oficio o a petición de parte, verificará que perdure ese canal de comunicación; y si lo estimare prudente, podrá nombrar el defensor o el traductor que mejoren dicha comunicación;
-
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
-
-VII.- Que tiene derecho, si el inculpado es extranjero, a que se comunique a la Representación Diplomática o Consular que corresponda;
-
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
-
-VIII.- Que se le recibirán todos los testigos y las pruebas que ofrezca en los términos de ley, auxiliándosele para obtener la comparecencia de las personas que indique, siempre que éstas estén domiciliadas en el lugar del juicio y que le serán facilitados, para su defensa, todos los datos que solicite y que consten en el proceso;
-
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
-
-IX.- Que tiene derecho, si así lo solicita, a ser careado con los testigos que depusieron en su contra para que pueda hacerles todas las preguntas conducentes a su defensa; y
-
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
-
-X.- Que tiene derecho a ser juzgado antes de cuatro meses si se trata de delito cuya pena máxima no exceda de dos años de prisión y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+III. Los incentivos económicos y los estímulos fiscales para las personas y organizaciones públicas, sociales o privadas que participen en la administración y vigilancia de las áreas naturales protegidas estatales, así como para quienes aporten recursos económicos para tales fines o destinen sus predios a acciones de preservación en términos del presente Código.
 
 ###### ARTICULO 205.
 
-La declaración preparatoria comenzará por los generales del inculpado, en las (sic) que se incluirán también los apodos que tuviere, el grupo étnico indígena al que pertenezca en su caso, y si habla y entiende suficientemente el idioma castellano y sus demás circunstancias personales.
+1. En el otorgamiento o expedición de permisos, licencias, concesiones, o en general, de autorizaciones a que se sujeten la exploración, explotación o aprovechamiento de recursos en áreas naturales protegidas estatales, se observarán las disposiciones del presente Código, de las leyes en que se fundamenten las declaratorias de creación correspondientes, las prevenciones de las propias declaratorias, los programas de manejo y las demás disposiciones que resulten aplicables.
 
-Será examinado previa exhortación de conducirse con verdad.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+2. En tales casos el solicitante deberá demostrar ante la autoridad competente, su capacidad técnica y económica para llevar a cabo la exploración, explotación o aprovechamiento de que se trate mediante los procedimientos que este Código contempla para que se expida la autorización pertinente. Además, la Secretaría podrá exigir, previo al otorgamiento de las autorizaciones de las actividades mencionadas, la contratación de seguros o fianzas para garantizar las posibles afectaciones a los ecosistemas integrantes de las áreas naturales protegidas estatales.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría prestará a ejidatarios, comuneros y pequeños propietarios, la asesoría técnica necesaria para el cumplimiento de lo dispuesto en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. La Secretaría podrá realizar la cancelación o revocación del permiso, licencia, concesión o autorización correspondiente, cuando exista incumplimiento en los términos de su otorgamiento, sin demerito de solicitar la actuación de cualquier otra autoridad competente.
 
 ###### ARTICULO 206.
 
-Tanto la defensa como el Agente del Ministerio Público, quienes deberán estar presentes en la diligencia, podrán interrogar al inculpado. Las preguntas que se hagan a éste deberán referirse a hechos propios, se formularán en términos precisos, y cada uno abarcará un solo hecho, salvo cuando se trate de hechos complejos, en que por la íntima relación que existe entre ellos, no pueda afirmarse o negarse uno sin afirmar o negar el otro. El Juez por objeción fundada de parte, desechará las preguntas que a su juicio sean impertinentes o inconducentes para los fines del proceso, así como las no claras o que ofusquen la razón, las que encierran diferentes significados, capciosas, sugestivas, las que contienen más de un hecho, las ya contestadas, pero las preguntas y las objeciones, se asentarán en autos cuando así lo solicite quien la hubiese formulado.
+1. Los pueblos indígenas, organizaciones sociales, personas morales, públicas o privadas, y demás personas interesadas en destinar voluntariamente a la conservación predios de su propiedad podrán establecer, administrar y manejar dichas áreas, conforme a lo dispuesto por este Libro.
 
-Antes de resolver sobre la objeción planteada por una de las partes, el Juez escuchará al que formula la pregunta. La decisión del Juez que decrete fundada o infundada la objeción planteada por la contraparte del que interroga no admitirá recurso alguno.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+2. Las áreas destinadas voluntariamente a la conservación se establecerán mediante certificado que expida la Secretaría, en el cual las reconozca como áreas naturales protegidas. Los interesados en obtener dicho certificado presentarán una solicitud que contenga:
+
+I. Nombre del propietario;
+
+II. Documento legal que acredite la propiedad del predio;
+
+III. En su caso, la resolución de la asamblea ejidal o comunal en la que se manifieste la voluntad de destinar sus predios a la conservación;
+
+IV. Nombre de las personas autorizadas para realizar actos de administración en el área;
+
+V. Denominación, ubicación, superficie y colindancia del área;
+
+VI. Descripción de las características físicas y biológicas generales del área;
+
+VII. Estrategia de manejo que incluya la zonificación del área, y
+
+VIII. Plazo por el que se desea certificar el área, el cual no podrá ser menor a quince años.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. Para la elaboración de la estrategia de manejo a que se refiere este artículo, la Secretaría otorgará la asesoría técnica necesaria, a petición de los promoventes.
+
+4. En las áreas privadas y sociales destinadas voluntariamente a la conservación de competencia de la Federación, podrán establecerse todas las subzonas previstas en el presente Libro, así como cualesquiera otras decididas libremente por los propietarios.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+5. El certificado que expida la Secretaría deberá contener:
+
+I. Nombre del propietario;
+
+II. Denominación, ubicación, superficie y colindancias del área;
+
+III. Características físicas y biológicas generales y el estado de conservación del predio, que sustentan la emisión del certificado;
+
+IV. Estrategia de manejo;
+
+V. Deberes del propietario, y
+
+VI. Vigencia mínima de quince años.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+6. La Secretaría podrá establecer diferentes niveles de certificación en función de las características físicas y biológicas generales y el estado de conservación de los predios, así como el plazo por el que se emite el certificado y su estrategia de manejo, para que, con base en estos niveles, las autoridades correspondientes definan y determinen el acceso a los instrumentos económicos que tendrán los propietarios de dichos predios. Asimismo, dichos niveles serán considerados por las dependencias competentes, en la certificación de productos o servicios.
+
+7. Las áreas destinadas voluntariamente a la conservación se administrarán por su propietario y se manejarán conforme a la estrategia de manejo definida en el certificado. Cuando dichas áreas se ubiquen dentro del polígono de otras áreas naturales protegidas previamente declaradas como tales por la Federación o los Ayuntamientos, la estrategia de manejo observará lo dispuesto en las declaratorias y los programas de manejo correspondientes.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+8. Asimismo, cuando el Ejecutivo Federal, el Estado o los Ayuntamientos establezcan un área natural protegida cuya superficie incluya total o parcialmente una o varias áreas destinadas voluntariamente a la conservación, tomarán en consideración las estrategias de manejo determinadas en los certificados que expida la Secretaría.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+9. Cuando en las áreas destinadas voluntariamente a la conservación se realice el aprovechamiento sustentable de recursos naturales, los productos obtenidos podrán ostentar un sello de sustentabilidad expedido por la Secretaría conforme al procedimiento previsto en el Reglamento. Lo previsto por este párrafo no aplica para el aprovechamiento de recursos forestales cuyos productos se certificarán con base en la legislación para el desarrollo forestal sustentable.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+10. El Reglamento establecerá los procedimientos relativos a la modificación de superficies de manejo, así como la transmisión, extinción o prórroga de los certificados expedidos por la Secretaría.
 
 ###### ARTICULO 207.
 
-La declaración preparatoria se rendirá oralmente por el inculpado, sin que sea aconsejado o asesorado por persona alguna en el momento de exponer los hechos, salvo en lo que respecta a las informaciones u orientaciones que legalmente deba darle al juzgador. El inculpado podrá dictar sus declaraciones, pero si no lo hiciere, las redactará con la mayor exactitud posible el juzgador que practique la diligencia.
+1. El programa de manejo de las áreas naturales protegidas es el instrumento de planeación y normatividad que contendrá, entre otros aspectos, las líneas de acción, criterios, disposiciones y, en su caso, actividades específicas a realizar y deberá contener lo siguiente:
 
-Si fueren varios los inculpados por los mismos hechos, se les tomará declaración por separado, en una sola audiencia. Cuando haya diversos inculpados que deban rendir declaración, el juez adoptará las medidas precautorias para que no se comuniquen entre sí.
+I. El diagnóstico y las características físicas, biológicas, sociales y culturales del área natural protegida estatal, en el contexto nacional, regional y local, así como el análisis de la situación que guarda la tenencia de la tierra en la superficie respectiva;
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+II. Las estrategias, componentes, zonificación de las actividades, administración y finanzas, mecanismos de seguimiento y evaluación, estructura organizativa, estudios de capacidad de carga turística, prevención y control de contingencias, vigilancia y las demás que se requieran por las características propias del área;
+
+III. Las acciones a realizar a corto, mediano y largo plazos, estableciéndose su vinculación con la política estatal de desarrollo sustentable, así como con los programas sectoriales correspondientes. Dichas acciones comprenderán, entre otras, las siguientes: de investigación y educación ambiental; de protección y aprovechamiento sustentable de los recursos naturales, la flora y la fauna; de desarrollo de actividades recreativas, turísticas, obras de infraestructura y demás actividades productivas; de financiamiento para la administración del área; de prevención y control de contingencias; de vigilancia, y las demás que se requieran por las características propias del área natural protegida estatal;
+
+IV. La forma en que se organizará la administración del área y los mecanismos de participación de los individuos y comunidades asentadas en la misma, así como de todas aquellas personas, instituciones, grupos y organizaciones sociales interesadas en su protección y aprovechamiento sustentable;
+
+V. Los objetivos específicos del área natural protegida estatal;
+
+VI. La referencia a las Normas Oficiales Mexicanas y las Normas Ambientales Estatales aplicables a todas y cada una de las actividades a que esté sujeta el área;
+
+VII. Los inventarios biológicos existentes y los que se prevea realizar; y
+
+VIII. Las reglas de carácter administrativo a que se sujetarán las actividades que se desarrollen en el área natural protegida de que se trate.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La Secretaría deberá publicar en el Periódico Oficial del Estado un resumen del programa de manejo respectivo y el plano de localización del área.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. En tanto se expide el programa de manejo correspondiente, la Secretaría emitirá mediante acuerdo administrativo, las normas y criterios que deben observarse para la realización de cualquier actividad dentro de las áreas naturales protegidas estatales, conforme a lo dispuesto en el presente Código, el Reglamento de este Libro y la declaratoria respectiva.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 208.
 
-Recibida la declaración preparatoria o, en su caso, la manifestación del inculpado de que no desea declarar, el juez, si así lo solicita aquél, lo careará con los testigos que depusieron en su contra, los que nuevamente lo harán en su presencia, si ahí estuvieran, para que pueda hacerles todas las preguntas conducentes a su defensa. Lo dispuesto en este artículo no excluye lo previsto en los artículos del 305 al 309 de este código.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+La Secretaría promoverá la participación convergente de sus habitantes, propietarios o poseedores y demás organizaciones sociales, públicas y privadas, en el establecimiento, administración y manejo de las áreas naturales protegidas estatales o municipales a que se refieren los artículos anteriores, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y conservación de los ecosistemas.
 
 ###### ARTICULO 209.
 
-El Ministerio Público solicitará al Juez dicte la orden de comparecencia tratándose de delitos sancionados con pena no privativa de la libertad o alternativa, o bien cuando se trate de delitos perseguibles a instancia de parte sancionados con pena máxima de tres años de prisión o de oficio sancionados con pena máxima de dos años de prisión. Lo mismo sucederá en casos de delitos culposos no graves y el indiciado no se encuentre detenido.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+1. La Secretaría podrá, una vez que se cuente con el programa de manejo respectivo, otorgará (sic) a los Ayuntamientos, así como a ejidos, comunidades agrarias, grupos y organizaciones sociales y demás personas físicas o jurídicas colectivas interesadas, la administración y, en su caso, vigilancia de las áreas naturales protegidas estatales. Para tal efecto, se deberán suscribir los convenios correspondientes, sujetándose a lo establecido por este Código.
+
+2. Quienes en virtud de lo dispuesto por el presente artículo adquieran la responsabilidad de administrar y vigilar las áreas naturales protegidas estatales, estarán obligados a sujetarse a las previsiones contenidas en este Código, el Reglamento de este Libro, las Normas Oficiales Mexicanas y las Normas Ambientales Estatales que se expidan en la materia, así como a cumplir los decretos por los que se establezcan dichas áreas y los programas de manejo respectivos.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría supervisará y evaluará el cumplimiento de los convenios a que se refiere este precepto.
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+## TITULO CUARTO. DE LAS DISPOSICIONES COMPLEMENTARIAS
 
 ###### ARTICULO 209 Bis.
 
@@ -2057,257 +3763,503 @@ Tratándose de delitos sancionados con pena alternativa, si el inculpado no se p
 
 ###### ARTICULO 210.
 
-Cuando el inculpado designe varias personas para que lo defiendan, señalarán quien llevará la voz de la defensa en cada diligencia en que deban estar presentes.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+El Ejecutivo Estatal podrá promover ante la Federación el establecimiento de áreas naturales protegidas federales, así como convenir con aquélla la transferencia y manejo de éstas.
 
 ###### ARTICULO 211.
 
-No pueden ser defensores los que se hallen presos ni los que estén procesados. Tampoco podrán serlo los que hayan sido condenados por alguno de los delitos señalados en el capítulo segundo, título noveno, del libro segundo del Código Penal, ni los ausentes que, por el lugar en que se encuentren, no puedan acudir ante el Tribunal dentro de las veinticuatro horas en que debe hacerse su nombramiento a todo defensor.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-### CAPITULO PRIMERO. PRUEBAS
+A la Secretaría, en materia de áreas naturales protegidas, le corresponden las atribuciones siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+I. Fomentar y desarrollar actividades tendentes a la conservación de los ecosistemas y su biodiversidad en las áreas naturales protegidas estatales y en sus zonas de influencia;
+
+II. Formular, ejecutar y evaluar los programas de subsidios para fomentar el desarrollo de actividades prioritarias de interés general que permitan proteger, manejar y restaurar los ecosistemas y su biodiversidad a través de las comunidades rurales ubicadas en zonas marginadas dentro de las áreas naturales protegidas estatales o en sus zonas de influencia;
+
+III. Ejecutar y promover en las áreas naturales protegidas estatales y en sus zonas de influencia los programas especiales, productivos o de cualquier otra naturaleza que se prevean en el sistema estatal de planeación;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+IV. Formular, promover, ejecutar y evaluar proyectos para la conservación, recuperación de especies y poblaciones consideradas como prioritarias, con la participación, en su caso, de las personas que manejen dichas especies o poblaciones y demás involucrados, así como de otras unidades administrativas de la Secretaría, dependencias y entidades de la administración pública estatal, y de los Ayuntamientos;
+
+V. Promover la captación de donativos, aportaciones, asignaciones y demás recursos, en numerario o en especie, que sean necesarios para apoyar las obras, acciones e inversiones que se requieran para la conservación de los ecosistemas y su biodiversidad, así como para la conservación de las especies prioritarias, de conformidad con las disposiciones aplicables;
+
+VI. Proponer al Ejecutivo Estatal la adopción de estímulos e incentivos económicos destinados a la conservación de los ecosistemas y su biodiversidad, así como para la atención de las especies y poblaciones prioritarias para la conservación;
+
+VII. Participar con las autoridades competentes en la promoción y definición de acciones y programas de conocimiento y cultura para la conservación;
+
+VIII. Promover y participar, con las autoridades competentes, en acciones de capacitación y asistencia técnica en materia de áreas naturales protegidas estatales para fortalecer el desarrollo de las comunidades rurales;
+
+IX. Promover la participación de la sociedad en materia de áreas naturales protegidas estatales; y
+
+X. Las demás previstas en los ordenamientos jurídicos aplicables.
+
+# LIBRO QUINTO. DE LA VIDA SILVESTRE
+
+## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
+
+### CAPITULO IV. LA EVALUACION DEL IMPACTO AMBIENTAL Y LA AUTORIZACION DE OBRAS Y ACTIVIDADES
 
 ###### ARTICULO 212.
 
-Dentro de las setenta y dos horas siguientes al momento en que el inculpado quede a disposición del Juez, éste resolverá la situación jurídica de aquél con el auto de formal prisión o de sujeción a proceso o de libertad, en su caso.
+1. Las disposiciones de este Libro tienen por objeto sentar las bases para la conservación y aprovechamiento sustentable de la vida silvestre y su hábitat en el territorio del Estado.
 
-La formal prisión se pronunciará cuando se reúnan los siguientes requisitos:
+2. La vida silvestre está conformada por la fauna y la flora que coexiste en condiciones naturales, temporales o permanentes, o en cautiverio, y únicamente pueden ser objeto de apropiación particular o privada y de comercio mediante las disposiciones contenidas en este Código y las disposiciones de otros ordenamientos relacionados aplicables.
 
-I.- Que se haya tomado declaración preparatoria del inculpado, en la forma y con los requisitos que establece el capítulo anterior, o bien que conste en el expediente que se rehusó a declarar;
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
-
-II.- Que el delito que se impute al inculpado tenga señalada sanción privativa de libertad y de lo actuado aparezcan datos suficientes que acrediten el cuerpo del delito incluyendo las modalidades o circunstancias modificativas o calificativas de éste; y
-
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1997)</small>
-
-III.- Que de lo actuado aparezcan datos suficientes que hagan probable la responsabilidad del inculpado.
-
-El plazo al que se refiere el párrafo primero de este artículo, se duplicará únicamente cuando lo solicite el inculpado, o su defensor, al rendir su preparatoria o dentro de las tres horas siguientes, siempre que sea con la finalidad de aportar y desahogar pruebas para que el Juez resuelva su situación jurídica.
-
-El Juez no ampliará de oficio el plazo constitucional y el Ministerio Público, en la ampliación del plazo solicitado y concedido, sólo puede promover lo que corresponda al interés social que representa, respecto de las pruebas que se ofrecieran en tal caso.
-
-La ampliación del plazo se notificará al Director del reclusorio o a los encargados del lugar en donde, en su caso, se encuentre detenido preventivamente el inculpado, para los efectos a que se refiere la última parte del primer párrafo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.
+3. El aprovechamiento sustentable de recursos maderables y no maderables será regulado por la Ley Forestal.
 
 ###### ARTICULO 213.
 
-Dictado el auto de formal prisión, el juez ordenará que se identifique al procesado por el sistema administrativamente adoptado para el caso, salvo cuando la ley disponga lo contrario. Si se dictase sentencia absolutoria, o en virtud de haberse sobreseído por cualquier causa el procedimiento, se ordenará de oficio la cancelación de la ficha de identificación correspondiente.
+En materia de vida silvestre, la concurrencia del Estado y de los Ayuntamientos tendrá los siguientes propósitos:
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+I. Garantizar la unidad de propósitos y la congruencia en la acción de los distintos órdenes de gobierno relativa a la ejecución de los lineamientos de la política estatal en materia de vida silvestre;
+
+II. Desarrollar las facultades del Estado para coordinar la definición, regulación y supervisión de las acciones de conservación y de aprovechamiento sustentable de la diversidad biológica que compone la vida silvestre y su hábitat;
+
+III. Reconocer a esos ámbitos de competencia sus atribuciones para ejecutar las acciones relativas al cumplimiento de los lineamientos de la política estatal en materia de vida silvestre y su hábitat dentro de su territorio;
+
+IV. Especificar las atribuciones que a ambas esferas de competencia les corresponde ejercer de manera exclusiva en la materia; y
+
+V. Establecer los mecanismos de coordinación necesarios para señalar la adecuada colaboración entre los distintos órdenes de gobierno en las materias que regula el presente Libro, cuidando no afectar la continuidad e integridad de los procesos ecosistémicos asociados a la vida silvestre.
 
 ###### ARTICULO 214.
 
-El auto de formal prisión se notificará al procesado inmediatamente que se dicte, si éste estuviera detenido, remitiéndole al director o al alcaide del establecimiento de su detención, copia autorizada de la resolución, y expidiéndose al interesado si la solicitare. Si este funcionario no recibe copia autorizada de la mencionada resolución dentro de los plazos a que se refieren los párrafos primero y sexto del artículo 212 de este código, lo dará a conocer por escrito al citado juez en el momento mismo de la conclusión de los plazos; y si a pesar de ello dicho funcionario no recibe la copia autorizada del auto de formal prisión dentro de las tres horas siguientes, pondrá en libertad al inculpado.
-
-La contravención a lo dispuesto en la segunda parte de este artículo será sancionado conforme lo dispone el código penal.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+En todo lo no previsto en el presente Libro se aplicarán las disposiciones de la Ley de Vida Silvestre y de otros ordenamientos relacionados sobre la materia.
 
 ###### ARTICULO 215.
 
-Cuando el delito no merezca sanción privativa de libertad o tenga señalada una alternativa, no se restringirá la libertad del inculpado y se dictará auto de sujeción a proceso, con los requisitos del de formal prisión, para el sólo efecto de señalar el delito por el que se ha de seguir el proceso.
+Para los efectos de este Libro se entenderá por:
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+I. Aprovechamiento extractivo: la utilización de ejemplares, derivados o partes de especies silvestres a través de la captura, colecta o actividades cinegéticas;
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+II. Aprovechamiento no extractivo: las actividades directamente relacionadas con la vida silvestre en su hábitat natural que no impliquen la remoción de ejemplares, sus partes o derivados y que de no ser adecuadamente reguladas pudieran causar impactos significativos sobre eventos biológicos, poblaciones o hábitats de las especies silvestres;
+
+III. Aprovechamiento y uso sustentable: la utilización de los recursos de vida silvestre en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte por periodos indefinidos;
+
+IV. Bioma: la gran comunidad unitaria caracterizada por el tipo de animales y plantas que alberga;
+
+V. Biotopo: el territorio o espacio vital cuyas condiciones ambientales son las adecuadas para que en él se desarrolle una determinada comunidad de seres vivos;
+
+VI. Capacidad de carga: la estimación de la tolerancia de un ecosistema al uso de sus componentes y que no rebase su capacidad de recuperarse en el corto plazo, sin la aplicación de medidas de restauración o recuperación para restablecer el equilibrio ecológico;
+
+VII. Captura: la extracción de ejemplares vivos de fauna silvestre del hábitat en que se encuentran;
+
+VIII. Caza: la actividad que consiste en dar muerte a un ejemplar de fauna silvestre a través de medios permitidos;
+
+IX. Caza furtiva: la acción que consiste en dar muerte a uno o varios ejemplares de fauna silvestre, a través de cualquier medio no permitido y sin permisos o licencias emitidos por la autoridad correspondiente;
+
+X. Caza deportiva o actividad cinegética: la actividad que consiste en la búsqueda, persecución o acecho para dar muerte a través de medios permitidos a un ejemplar de fauna silvestre, cuyo aprovechamiento haya sido autorizado con el propósito de obtener una pieza o trofeo;
+
+XI. Colecta: la extracción de ejemplares, partes o derivados de vida silvestre del hábitat en que se encuentran;
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+XII. Comisión: la Comisión Estatal para la Conservación y Aprovechamiento Económico de la Vida Silvestre;
+
+XIII. Conservación: la protección, restauración, cuidado, manejo y mantenimiento de los ecosistemas, los hábitats, las especies y las poblaciones de la vida silvestre dentro o fuera de sus entornos naturales, de manera que se salvaguarden las condiciones naturales para su permanencia a largo plazo;
+
+XIV. Desarrollo de poblaciones: las prácticas planificadas de manejo de poblaciones de especies silvestres en vida libre que se realizan en áreas delimitadas dentro de su ámbito de distribución natural, dirigidas expresamente a garantizar la conservación de sus hábitats, así como a incrementar sus tasas de supervivencia de tal manera que se asegure la permanencia de la población bajo un manejo adecuado;
+
+XV. Derivados: los materiales generados por los ejemplares a través de procesos biológicos cuyo aprovechamiento no implica la destrucción de los ejemplares o partes. Para estos efectos se considerarán productos los derivados no transformados, y subproductos aquellos que han sido sujetos a algún proceso de transformación;
+
+XVI. Duplicados: cada uno de los ejemplares de una especie o partes de ellos producto de una misma colecta científica;
+
+XVII. Ejemplares o poblaciones exóticas: aquellas que se encuentran fuera de su ámbito de distribución natural, lo que incluye a los híbridos y modificados;
+
+XVIII. Ejemplares o poblaciones ferales: las pertenecientes a especies domésticas que al quedar fuera del control del ser humano se establecen en el hábitat natural de la vida silvestre;
+
+XIX. Ejemplares o poblaciones nativas: aquellas pertenecientes a especies silvestres que se encuentran dentro de su ámbito de distribución natural;
+
+XX. Ejemplares o poblaciones que se tornen perjudiciales: las pertenecientes a especies silvestres o domésticas que por modificaciones a su hábitat o a su biología o que por encontrarse fuera de su área de distribución natural tengan efectos negativos para el medio ambiente, otras especies o el ser humano y requieran de la aplicación de medidas especiales de manejo o control;
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+XXI. Especies y poblaciones en riesgo: las identificadas por la Secretaría Federal, por las Normas Oficiales Mexicanas y las Normas Ambientales Estatales, en su caso;
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+XXII. Especies y poblaciones prioritarias para la conservación: las identificadas por la Secretaría, las Normas Oficiales Mexicanas y las Normas Ambientales Estatales en su caso;
+
+XXIII. Especies y poblaciones migratorias: aquellas que se desplazan latitudinal, longitudinal o altitudinalmente de manera periódica como parte de su ciclo biológico;
+
+XXIV. Estudio de poblaciones: aquel que se realiza con el objeto de conocer sus parámetros demográficos tales como el tamaño y densidad, la proporción de sexos y edades y las tasas de natalidad, mortalidad y crecimiento durante un período determinado, así como la adición de cualquier otra información relevante;
+
+XXV. Fauna silvestre: los animales vertebrados e invertebrados, residentes o migratorios que viven en condiciones naturales en el territorio del Estado y que no requieren del cuidado del ser humano para su supervivencia. La clasificación de las especies se establecerá en el Reglamento del presente Libro;
+
+XXVI. Flora silvestre: el conjunto de plantas vasculares y no vasculares existentes en el territorio del Estado que viven en condiciones naturales y las cuales se indicarán en el Reglamento de este Libro;
+
+XXVII. Hábitat: el sitio específico en un medio ambiente físico ocupado por un organismo, población, especie o comunidades de especies en un tiempo determinado;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+XXVII Bis. Jardín para Polinizadores: Espacio público o privado en el que se colocan plantas nativas de la región, que proveen alimento, refugio, agua y espacio para los polinizadores;
+
+XXVIII. Licencia de caza deportiva o para actividades cinegéticas: el documento mediante el cual la Comisión acredita que una persona está calificada, tanto por sus conocimientos sobre los instrumentos y medios de las actividades cinegéticas, como de las regulaciones en la materia para realizar la caza deportiva en el territorio del Estado;
+
+XXIX. Legítimo poseedor: el poseedor de buena fe en los términos del Código Civil para el Estado de Tamaulipas;
+
+XXX. Manejo: la aplicación de métodos y técnicas para la conservación y aprovechamiento sustentable de la vida silvestre y su hábitat;
+
+XXXI. Manejo en vida libre: aquel que se hace con ejemplares o poblaciones de especies que se desarrollan en condiciones naturales sin imponer restricciones a sus movimientos;
+
+XXXII. Manejo intensivo: aquel que se realiza sobre ejemplares o poblaciones de especies silvestres en condiciones de cautiverio o confinamiento;
+
+XXXIII. Manejo de hábitat: aquel que se realiza sobre la vegetación, el suelo y otros elementos o características fisiográficas en áreas definidas con metas específicas de preservación, conservación, mantenimiento, mejoramiento o restauración;
+
+XXXIV. Manejo integral: aquel que considera de manera relacionada aspectos biológicos sociales, económicos y culturales vinculados con la vida silvestre y su hábitat;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+
+XXXV. Marca: el método de identificación aprobado por la Comisión que, conforme a lo establecido en la Ley de Infraestructura de la Calidad, puede demostrar la legal procedencia de ejemplares, partes o derivados;
+
+XXXVI. Muestreo: el levantamiento sistemático de los datos que indican las características generales, la magnitud, la estructura y las tendencias de una población o de su hábitat con el fin de diagnosticar su estado actual y proyectar los escenarios que podría enfrentar en el futuro;
+
+XXXVII. Parte: la porción, fragmento o componente de un ejemplar. Para estos efectos se considerarán productos las partes no transformadas, y subproductos aquéllas que han sido sujetas a algún proceso de transformación;
+
+XXXVIII. Plan de Manejo de Vida Silvestre: el documento técnico operativo de las unidades de manejo para la conservación de vida silvestre, sujeto a aprobación de la Comisión, que describe y programa actividades para el manejo de especies silvestres particulares y sus hábitats, y establece metas e indicadores de éxito en función de las poblaciones y el hábitat;
+
+XXXIX. Población: el conjunto de individuos de una especie silvestre que comparten el mismo hábitat. Se considera la unidad básica de manejo de las especies silvestres en vida libre;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+XXXIX Bis. Polinizadores: Animales como abejas, avispas, hormigas, murciélagos, colibríes, mariposas, polillas, escarabajos, entre otros, que se alimentan del néctar de las flores y durante sus visitas transportan accidentalmente polen de una flor a otra, permitiendo que las plantas produzcan frutos;
+
+XL. Predio: La unidad territorial delimitada por un polígono que puede contener cuerpos de agua o ser parte de ellos;
+
+XLI. Recuperación: el restablecimiento de los procesos naturales y de los parámetros genéticos, demográficos o ecológicos de una población o especie para evitar el deterioro y propiciar el retorno a un hábitat sano que incremente la diversidad biológica;
+
+XLII. Recursos forestales no maderables: la parte no leñosa de la vegetación de un ecosistema forestal, susceptible de aprovechamiento o uso, incluyendo líquenes, musgos, hongos y resinas;
+
+XLIII. Reintroducción: la liberación o reforestación planificada al hábitat natural de ejemplares de una especie o subespecie silvestre que se realiza con objeto de restituir una población desaparecida;
+
+XLIV. Repoblación: la liberación o reforestación planificada al hábitat natural de ejemplares de una especie o subespecie silvestre con objeto de reforzar una población disminuida;
+
+XLV. Reproducción asistida: la forma de reproducción de ejemplares de la vida silvestre en confinamiento, consistente en un conjunto de técnicas encaminadas a la inducción, aceleración o modificación de ciertas fases de sus procesos reproductivos;
+
+XLVI. Reproducción controlada: el manejo planificado de ejemplares, poblaciones o hábitats de la vida silvestre para asegurar el incremento en el número de individuos, que se realiza bajo condiciones de protección y de seguimiento sistemático permanente o de reproducción asistida;
+
+XLVII. Tasa de aprovechamiento: la cantidad de ejemplares, partes o derivados que se pueden extraer dentro de un área y un período determinados (sic) de manera que no se afecte el mantenimiento del recurso y su potencial productivo en el largo plazo;
+
+XLVIII. Traslocación: la liberación planificada al hábitat natural de ejemplares de una especie o subespecie, que se realiza para sustituir poblaciones desaparecidas;
+
+XLIX. Trasiego: la acción de mudar de lugar una especie o especies determinadas;
+
+L. Unidades de manejo para la conservación de vida silvestre: los predios e instalaciones debidamente registrados que operan de conformidad con un plan de manejo aprobado y dentro de los cuales se da seguimiento permanente al estado del hábitat de poblaciones o ejemplares que ahí se distribuyen; y
+
+LI. Vida silvestre: los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales.
+
+## TITULO SEGUNDO. DE LAS AUTORIDADES
 
 ###### ARTICULO 216.
 
-Los autos de formal prisión y de sujeción a proceso se dictarán por el delito que aparezca comprobado, tomando en consideración sólo los hechos materia de la consignación, la descripción típica legal y la probable responsabilidad correspondiente, aún cuando con ello se modifique la clasificación hecha en promociones o resoluciones anteriores.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+Corresponden al Estado, por conducto de la Secretaría, de conformidad con lo dispuesto en el presente Libro y las demás disposiciones aplicables, las siguientes atribuciones:
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+I. Formular y conducir la política estatal sobre la preservación, conservación, remediación, rehabilitación, restauración, recuperación y aprovechamiento sustentable de la vida silvestre, misma que guardará congruencia con los lineamientos de la política nacional en la materia;
+
+II. Formular propuestas en materia de vida silvestre a las autoridades competentes, con el propósito de promover el cumplimiento de la legislación, sobre su conservación y aprovechamiento sustentable;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+III. Conducir la política estatal de información y difusión en materia de vida silvestre; así como la integración, seguimiento y actualización de la información de la vida silvestre en el Sistema Estatal de Información sobre la Vida Silvestre, en compatibilidad e interrelación con el Subsistema Nacional de Información sobre la Vida Silvestre, en el ámbito de su jurisdicción territorial;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+IV. Inspeccionar el cumplimiento de la normatividad en materia de vida silvestre, con base en sus atribuciones y las que mediante convenio le transfiera la Federación;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+V. Impulsar acciones para que las obras públicas proliferen en armonía con la reforestación y establecimiento de plantas y árboles endémicos, nativos y melíferos; y
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+VI. Promover la reforestación estratégica en zonas urbanas y rurales, con plantas y árboles que sean endémicos y nativos de cada área geográfica, propiciando la diversidad de especies melíferas que favorezcan la alimentación de los polinizadores.
 
 ###### ARTICULO 217.
 
-Cuando no proceda lo previsto en los artículos 212 y 215 de este código, se dictará auto de libertad o de no sujeción a proceso, en su caso, sin perjuicio de volver a proceder en contra del inculpado, con nuevos datos que el Ministerio Público le aporte posteriormente al Juez de su adscripción y desahogue ante éste, solicitándole nuevamente la orden de aprehensión.
+Corresponden al Estado, por conducto de la Comisión, las siguientes atribuciones:
 
-Transcurridos doce meses, a partir de que cause estado el auto antes mencionado, sin aportarse nuevos datos, la libertad se considerará definitiva sin necesidad de declaración judicial.
+I. Regular el manejo, control y remediación de los problemas asociados a ejemplares y poblaciones ferales, así como aplicar las disposiciones en la materia;
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+II. Compilar la información sobre los usos y formas de aprovechamiento de ejemplares, partes y derivados de la vida silvestre con fines de subsistencia por parte de las comunidades rurales, y promover la organización de los distintos grupos y su integración a los procesos del desarrollo sustentable en los términos de este Libro;
+
+III. Apoyar, asesorar técnicamente y capacitar a las comunidades rurales para el desarrollo de actividades de preservación y aprovechamiento sustentable de la vida silvestre; elaborar planes de manejo de vida silvestre; desarrollar estudios de poblaciones de vida silvestre y atender las solicitudes de autorización en estas materias;
+
+IV. Crear y administrar el Registro Estatal de Organizaciones relacionadas con la conservación y aprovechamiento sustentable de la vida silvestre;
+
+V. Crear y administrar el Registro Estatal de Prestadores de Servicios vinculados a la transformación, tratamiento, preparación, aprovechamiento y comercialización de ejemplares, partes y derivados de la vida silvestre, así como llevar a cabo la supervisión de sus actividades;
+
+VI. Crear y administrar el Padrón Estatal de Mascotas de Especies Silvestres y Aves de Presa;
+
+VII. Ejercer las atribuciones previstas en los convenios de asunción de funciones en materia de vida silvestre;
+
+VIII. Coordinar la participación social en las actividades que incumben a las autoridades estatales; y
+
+IX. Vigilar el cumplimiento de la normatividad en materia de vida silvestre, con base en sus atribuciones.
 
 ###### ARTICULO 218.
 
-Cuando el auto de libertad se dicte en virtud de omisiones del Ministerio Público o de agentes de la Policía Ministerial, se mencionarán expresamente tales omisiones, para que se exija a éstos la responsabilidad en que hubieren incurrido.
+1. El Estado podrá convenir con los Ayuntamientos la transferencia del ejercicio de atribuciones propias o convenidas con la Federación para su desempeño, sobre la base de la capacidad de la autoridad municipal para su realización. En todo caso, se privilegiarán los criterios de sustentabilidad del desarrollo y la eficacia en el cumplimiento de las funciones.
 
-SEGUNDA PARTE
+2. Dichas atribuciones serán ejercidas conforme a lo dispuesto en este Libro y demás disposiciones aplicables.
 
-### CAPITULO SEGUNDO. CONFESION
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+### CAPITULO V. DE LA AUTORREGULACION Y LAS AUDITORIAS AMBIENTALES
 
 ###### ARTICULO 219.
 
-La Ley reconoce como medios de prueba los siguientes:
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 1991)</small>
+1. Cuando por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública del Estado u otras disposiciones aplicables se requiera de la intervención de otras dependencias, la Secretaría y la Comisión ejercerán sus atribuciones en coordinación con las mismas.
 
-I.- Confesión;
+2. Las dependencias y entidades de la administración pública estatal que ejerzan atribuciones que les confieren otros ordenamientos cuyas disposiciones se relacionen con el objeto del presente Libro, ajustarán su ejercicio a la política estatal sobre la vida silvestre establecida en este ordenamiento y las disposiciones que de éste se deriven.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 1991)</small>
-
-II.- Documentos Públicos y Privados;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 1991)</small>
-
-III.- Dictámenes de Peritos;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 1991)</small>
-
-IV.- Inspección;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 1991)</small>
-
-V.- Declaración de Testigos; y
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
-
-VI.- Todos aquéllos que se ofrezcan como tales, siempre y cuando, a juicio del funcionario que practique la averiguación o del Juez o tribunal, sean pertinentes o conducentes y no estén prohibidos por la Ley.
-
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
-
-La parte que presente esos medios de prueba deberá suministrar los aparatos o elementos necesarios para que pueda apreciarse el valor de los registros o reproducirse los sonidos, imágenes, figuras y datos.
-
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
-
-El tribunal con citación de las partes señalará día y hora para la reproducción de los sonidos e imágenes a que se refiere esta fracción, certificando su contenido relacionado con los hechos que se pretenden comprobar.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
-
-Cuando los funcionarios mencionados lo consideren necesario, podrán, por cualquier medio legal, verificar la autenticidad de dichos medios de prueba.
+## TITULO TERCERO. DE LA CONCERTACION Y PARTICIPACION SOCIAL
 
 ###### ARTICULO 220.
 
-Los tribunales no tienen límites temporales para ordenar la aportación de los medios que juzguen indispensables para formar su convicción respecto de la existencia del delito y de los demás hechos sujetos a prueba, ni rigen para los juzgadores las limitaciones y prohibiciones en materia de pruebas, establecidas en relación con las partes.
+Conforme a los criterios generales que establezca la Secretaría, la Comisión promoverá la participación de las personas y sectores involucrados en la formulación y aplicación de las medidas para la conservación y aprovechamiento sustentable de la vida silvestre, que estén dentro del ámbito de su competencia.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+###### ARTICULO 220 Bis.
+
+Es responsabilidad de toda persona en el Estado, respetar, mantener y cuidar de los Jardines para Polinizadores, para contribuir a la conservación de la biodiversidad y la resiliencia de los ecosistemas.
 
 ###### ARTICULO 221.
 
-No podrá condenarse a un acusado sino cuando se pruebe que cometió el delito por el que se le acusa. En caso de duda debe absolverse.
+Para alcanzar los objetivos de la política estatal sobre vida silvestre, la Comisión podrá celebrar convenios de concertación con las personas físicas y jurídicas interesadas en el fomento, conservación y aprovechamiento sustentable de la vida silvestre.
 
-### CAPITULO TERCERO. DOCUMENTOS PUBLICOS Y PRIVADOS
+## TITULO CUARTO. DE LA CONSERVACION DE LA VIDA SILVESTRE
+
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 222.
 
-La confesión es la declaración voluntaria hecha por el inculpado, con asistencia de su defensor, reconociendo su participación en la comisión de un hecho descrito en la Ley como delito.
+1. La Comisión identificará, a través de listas y catálogos, las especies o poblaciones en riesgo de conformidad con lo establecido por las Normas Oficiales Mexicanas y las Normas Ambientales Estatales correspondientes, señalando el nombre científico y el nombre común más utilizado de las especies; la información relativa a las poblaciones, tendencias y factores de riesgo; la justificación técnica-científica de la propuesta, y la metodología empleada para obtener la información.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+2. Las listas y catálogos respectivos serán revisados y, de ser necesario, actualizados cada tres años o antes si se presenta información suficiente para la inclusión, exclusión o cambio de categoría de alguna especie o población. Las listas y catálogos y sus actualizaciones indicarán el género, la familia, la especie y, en su caso, la subespecie. A su vez, serán publicadas en el Periódico Oficial del Estado.
 
 ###### ARTICULO 223.
 
-La confesión podrá rendirse ante el Ministerio Público que practique la averiguación previa o ante el juez o tribunal de la causa. En estos últimos casos se admitirá en cualquier estado del procedimiento y hasta antes de pronunciarse sentencia irrevocable.
+Cualquier persona, de conformidad con lo establecido en el Reglamento de este Libro y en las Normas Oficiales Mexicanas y las Normas Ambientales Estatales, podrá presentar a la Comisión propuestas de inclusión, exclusión o cambio de categoría de riesgo para especies silvestres o poblaciones, a las cuales deberá anexar la información mencionada en el párrafo 1 del artículo anterior.
 
-### CAPITULO CUARTO. PERITOS
+### CAPITULO II. DEL AGUA
 
 ###### ARTICULO 224.
 
-El tribunal recibirá las pruebas documentales que le presenten las partes hasta antes de que se declare visto el proceso, y las agregará al expediente, asentando razón en autos.
+1. Entre las especies y poblaciones en riesgo estarán comprendidas las que se identifiquen como:
+
+I. En peligro de extinción: aquellas cuyas áreas de distribución o tamaño de sus poblaciones en el territorio estatal han disminuido en forma tal que pongan en riesgo su viabilidad biológica en todo su hábitat natural, debido a factores como la destrucción o modificación del hábitat, aprovechamiento y uso no sustentable y enfermedades o depredación, entre otros;
+
+II. Amenazadas: aquellas que podrían llegar a encontrarse en peligro de desaparecer a corto o mediano plazos si siguen operando los factores que inciden negativamente en su viabilidad, al ocasionar el deterioro o modificación de su hábitat, o disminuir directamente el tamaño de sus poblaciones; y
+
+III. Sujetas a protección especial: aquellas que podrían llegar a encontrarse amenazadas por factores que inciden negativamente en su viabilidad.
+
+2. En los casos de las fracciones del párrafo anterior, la Comisión determinará la necesidad de propiciar su recuperación y conservación, o la recuperación y preservación de poblaciones de especies asociadas.
 
 ###### ARTICULO 225.
 
-Siempre que alguno de los interesados pidiere copia o testimonio de parte de documentos que obren en los archivos públicos, los otros interesados tendrán derecho a que se adicione, con lo que crean conducente de los mismos documentos.
+Los ejemplares confinados de las especies probablemente extintas en el medio silvestre serán destinados exclusivamente al desarrollo de proyectos de conservación, restauración, reproducción, repoblación y reintroducción, así como de investigación y educación ambiental autorizados por la Comisión.
 
 ###### ARTICULO 226.
 
-Los documentos que durante la instrucción presentaren las partes, o que deban obrar en el proceso, se agregarán a éste y de ello se asentará razón en el expediente.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La Secretaría, con la participación de la Comisión, promoverá, fomentará e impulsará la conservación, preservación y protección de las especies y poblaciones en riesgo por medio del desarrollo de proyectos de conservación, reproducción y recuperación, el establecimiento de medidas especiales de manejo y conservación de hábitat críticos y de áreas de refugio para proteger especies acuáticas, la coordinación de programas de muestreo y seguimiento permanente, así como de la certificación del aprovechamiento sustentable con la participación de las personas que manejen dichas especies o poblaciones y demás involucrados.
+
+2. El programa de certificación deberá seguir los lineamientos establecidos en el Reglamento de este Libro y en las Normas Oficiales Mexicanas o las Normas Ambientales Estatales que para tal efecto se elaboren.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría suscribirá convenios y acuerdos de concertación y coordinación con el fin de promover la recuperación y conservación de especies y poblaciones en riesgo.
 
 ###### ARTICULO 227.
 
-La compulsa de los documentos existentes fuera de la jurisdicción del tribunal en que se siga el proceso, se hará en virtud de exhorto que se dirija al Juez del lugar en que aquéllos se encuentren.
+1. Para la elaboración de las listas de especies y poblaciones prioritarias de conservación, la Comisión considerará, al menos los siguientes supuestos;
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+I. La importancia estratégica para la conservación de hábitats y de otras especies;
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+II. La importancia de la especie o población para el mantenimiento de la biodiversidad, la estructura y el funcionamiento de un ecosistema o parte de él;
+
+III. El carácter endémico cuando se trate de especies o poblaciones en riesgo; y
+
+IV. El alto grado de interés social, cultural, científico o económico de las especies o publicaciones.
+
+2. Las listas a que se refiere este artículo se publicarán en el Periódico Oficial del Estado y serán revisadas y, de ser necesario, actualizadas cada tres años o antes si se considera necesario.
 
 ###### ARTICULO 228.
 
-Los documentos privados que se presenten en el proceso, se mostrarán a la persona a quien se le atribuyan, para que diga si reconoce su contenido y su firma o huella dactilar.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+La Comisión promoverá el desarrollo de proyectos para la conservación y la recuperación de especies y poblaciones prioritarias con la participación de las personas que manejen dichas especies o poblaciones y demás interesados.
 
 ###### ARTICULO 229.
 
-Cuando el Ministerio Público creyere fundadamente que pueden encontrarse pruebas del delito en la correspondencia y en el correo electrónico que se dirija al indiciado, pedirá al Juez, y éste ordenará, que se recoja dicha correspondencia y se verifique el contenido del correo electrónico y del equipo en que se generó.
+1. La conservación del hábitat natural de la vida silvestre es de utilidad pública.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La Secretaría, previa opinión de la Comisión podrá proponer al Ejecutivo del Estado el establecimiento de hábitats críticos para la conservación de la vida silvestre, mediante la emisión de Acuerdo Gubernamental.
 
 ###### ARTICULO 230.
 
-La correspondencia y los correos electrónicos presentados ante el Juez se abrirán por éste mismo en presencia del Secretario, del Ministerio Público, y del inculpado si estuviere en el lugar.
+1. La Comisión podrá acordar con los propietarios o legítimos poseedores de predios en los que existan hábitats críticos, medidas especiales de manejo y conservación.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+2. La realización de cualquier obra o de aquellas actividades que puedan afectar la protección, recuperación y restablecimiento de los elementos naturales en los hábitats críticos deberá quedar sujeta a las condiciones que se establezcan como medidas especiales de manejo y conservación en los planes de manejo de vida silvestre de que se trate, así como del informe preventivo correspondiente de conformidad con lo establecido en el Reglamento de este Libro.
+
+3. El Ejecutivo podrá imponer limitaciones a los derechos de dominio en los predios que abarquen dicho hábitat con el objeto de dar cumplimiento a las medidas necesarias para su manejo y conservación.
 
 ###### ARTICULO 231.
 
-El Juez leerá para sí la correspondencia y los correos electrónicos. Si no tuviera relación con el hecho que se averigua, la devolverá al inculpado o a alguna persona de su familia, o apoderado, si aquél estuviera ausente.
-
-Si la correspondencia o el correo electrónico tuviera alguna relación con el hecho materia del juicio, el Juez comunicará su contenido al indiciado, y mandará agregar el documento al proceso y en el caso del correo electrónico éste se deberá imprimir y agregar el documento impreso al proceso de la misma forma en que se realizaría con la correspondencia. En todo caso, levantará acta de la diligencia.
+La Secretaría, con la opinión de la Comisión, podrá proponer al Ejecutivo del Estado el establecimiento de áreas de refugio mediante la emisión de Acuerdo Gubernamental, para proteger especies nativas y endémicas de la vida silvestre que se desarrollan en el medio acuático, aguas y terrenos inundables, con objeto de conservar y contribuir, a través de medidas de manejo y conservación, al desarrollo de dichas especies, así como para conservar y proteger sus hábitats. Al efecto elaborará los programas de protección correspondientes.
 
 ###### ARTICULO 232.
 
-No se tendrán por documentos auténticos, las certificaciones expedidas por personas que no desempeñen cargo público en la fecha en que se expidan, aunque se refieran a actos acaecidos cuando ejercían dicho cargo.
+1. Las áreas de refugio para proteger especies acuáticas podrán ser establecidas en sitios claramente definidos en cuanto a su ubicación y deslinde, mediante el instrumento que las crea.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+2. Las áreas de refugio para proteger especies acuáticas podrán ser establecidas para la protección de:
+
+I. Todas las especies nativas de la vida silvestre presentes en el sitio, que se desarrollen en medio acuático;
+
+II. Aquellas especies nativas de la vida silvestre que se desarrollen en medio acuático, mencionadas en el instrumento correspondiente;
+
+III. Aquellas especies nativas de la vida silvestre que se desarrollen en medio acuático, no excluidas específicamente por dicho instrumento; y
+
+IV. Los ejemplares con características específicas de poblaciones, especies o grupos de especies nativas de la vida silvestre que se desarrollen en medio acuático y que sean afectados en forma negativa por el uso de determinados medios de aprovechamiento.
+
+3. Previo a la expedición del Acuerdo, la Comisión elaborará los estudios justificativos, mismos que deberán contener información general, diagnóstico, descripción de las características físicas del área, justificación y aspectos socioeconómicos, de conformidad con lo establecido en el Reglamento de este Libro.
 
 ###### ARTICULO 233.
 
-El Juez ordenará, a petición de parte, que cualquiera administración telegráfica o negociación que ofrezca el servicio de internet, le facilite copia de los telegramas o correos electrónicos, por ella transmitidos o recibidos, según sea el caso, siempre que esto pueda contribuir al esclarecimiento de un delito.
+1. Cuando la superficie de alguna de las áreas de refugio para proteger especies acuáticas coincida con el polígono de algún área natural protegida, el programa de protección respectivo deberá compatibilizarse con los objetivos generales establecidos en la declaratoria correspondiente y en el programa de manejo del área natural protegida en cuestión.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. En los casos a que se refiere el párrafo anterior, corresponderá a la Secretaría llevar a cabo la coordinación de las medidas de manejo y conservación establecidas en el programa de protección.
 
 ###### ARTICULO 234.
 
-El auto que se dicte en los casos de los artículos anteriores, determinará con exactitud la correspondencia epistolar o telegráfica o electrónica, entendiéndose esta última como correo electrónico, que haya de ser examinado. La solicitud se hará por escrito fundado y motivado, expresando el objeto y la necesidad de la examinación de dicho sistema o medio de comunicación.
-
-En el caso de correo electrónico los comisionarios, permisionarios y demás titulares de los medios o sistemas que proporcionen este servicio, deberán colaborar eficientemente con la autoridad correspondiente para determinar con exactitud los correos o cuentas electrónicas que hayan de ser examinadas.
+La realización de cualquier obra o de aquellas actividades que puedan afectar la protección, recuperación y restablecimiento de los elementos naturales en áreas de refugio para proteger especies acuáticas, deberá quedar sujeta a las condiciones que se establezcan como medidas de manejo y conservación en los programas de protección de que se trate, así como del informe preventivo correspondiente de conformidad con lo establecido en el Reglamento de este Libro.
 
 ###### ARTICULO 235.
 
-En los casos en que existan documentos que se ofrezcan como prueba, en poder de un tercero particular, el juez lo requerirá para que exhiba el original o presente copia que será compulsada.
+Cuando se presenten problemas de destrucción, contaminación, degradación, desertificación o desequilibrio del hábitat de la vida silvestre, la Secretaría, con la colaboración de la Comisión, formulará y ejecutará a la brevedad posible programas de prevención, de atención de emergencias y de restauración para la recuperación, remediación, rehabilitación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales de la vida silvestre, tomando en cuenta lo dispuesto en los artículos 78, 78 bis y 78 bis 1 de la Ley General, y de conformidad con lo establecido en el Reglamento de este Libro y las demás disposiciones aplicables.
 
-Si el tenedor del documento se resistiere a exhibirlo, el juez, en audiencia verbal y en vista de lo que aleguen el tenedor y las partes, resolverá si debe hacerse la exhibición.
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+
+Para efectos del párrafo anterior, la Secretaría tomará en consideración el empleo de especies endémicas para polinizadores.
 
 ###### ARTICULO 236.
 
-Si el documento o la constancia que se pide, se encontrare en los libros, cuadernos o archivos de una casa de comercio o de un establecimiento industrial, el que pida al juez la compulsa deberá fijar con precisión la constancia que solicita, y la copia de ella se sacará en el escritorio u oficina del establecimiento, sin que el dueño o director esté obligado a presentar otras partidas o documentos diferentes a los designados.
+1. La Comisión podrá establecer limitaciones al aprovechamiento de poblaciones de la vida silvestre incluyendo las vedas, su modificación o levantamiento, de acuerdo con lo previsto en el artículo 81 de la Ley General, cuando a través de otras medidas no se pueda lograr la conservación o recuperación de las poblaciones.
+
+2. En casos de desastres naturales o derivados de actividades humanas, la Comisión podrá establecer vedas temporales al aprovechamiento como medida preventiva y complementaria a otras medidas con la finalidad de evaluar los daños ocasionados, permitir la recuperación de las poblaciones y evitar riesgos a la salud de las personas.
+
+3. Las vedas podrán establecerse, modificarse o levantarse a solicitud de las personas físicas o morales interesadas, las que deberán presentar los estudios de población correspondientes de conformidad con lo establecido en el Reglamento de este Libro. La Comisión evaluará estos antecedentes y la información disponible sobre los aspectos biológicos, sociales y económicos involucrados y resolverá lo que corresponda.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MARZO DE 2018)</small>
+
+# LIBRO SEXTO. DE LOS PROCEDIMIENTOS ANTE LA SECRETARÍA DE DESARROLLO URBANO Y MEDIO AMBIENTE
+
+## TITULO PRIMERO. DEL PROCEDIMIENTO ADMINISTRATIVO AMBIENTAL
 
 ###### ARTICULO 237.
 
-Los documentos públicos y privados podrán presentarse en cualquier estado del proceso, hasta antes de que se declare visto, y no se admitirán después, sino con protesta formal que haga el que los presente, de no haber tenido noticia de ellos anteriormente.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Las disposiciones de este Título se aplicarán a los actos, procedimientos y resoluciones que se tramiten ante la Secretaría, a excepción de la regulación que se encuentre prevista de manera expresa en el presente Código.
+
+2. La actuación administrativa en el procedimiento se desarrollará con arreglo a los principios de economía, celeridad, eficacia, legalidad, publicidad y buena fe.
+
+3. El procedimiento administrativo ambiental podrá iniciarse de oficio o a petición de parte interesada.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 238.
 
-Cuando se niegue o ponga en duda la autenticidad de un documento, podrá pedirse y decretarse el cotejo de letras o firmas, que se practicará conforme a las siguientes reglas:
+Los escritos regulados por este Libro deberán ser presentados ante la Secretaría, de manera personal, por correo o mediante mensajería, salvo el caso en que se encuentre previsto de manera expresa en el presente Código.
 
-I.- El cotejo se hará por peritos, pudiendo asistir a la diligencia respectiva el funcionario que lo ordene; en ese caso, se levantará el acta respectiva;
+### CAPITULO III. DE LOS MINERALES NO RESERVADOS A LA FEDERACION
 
-II.- El cotejo se hará con documentos indubitables, o con los que las partes, de común acuerdo, reconozcan como tales; con aquellos cuya letra o firma haya sido reconocida judicialmente, y con el escrito impugnado, en la parte en que reconozca la letra como suya aquel a quien se atribuye;
-
-III.- El funcionario podrá ordenar que se repita el cotejo por otros peritos.
-
-### CAPITULO QUINTO. INSPECCION Y RECONSTRUCCION DE HECHOS
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 239.
 
-Siempre que para el examen de personas, hechos u objetos, se requieran conocimientos especiales, se procederá con intervención de peritos. El servicio pericial es de interés público.
+Son elementos y requisitos del acto administrativo ambiental:
+
+I. Ser expedido por órgano competente, a través de servidor público y que reúna las formalidades de la ley o decreto para emitirlo;
+
+II. Tener objeto que pueda ser materia del mismo; determinado o determinable; preciso en cuanto a las circunstancias de tiempo y lugar, y previsto por la ley;
+
+III. Cumplir con la finalidad de interés público regulado por las normas en que se concreta, sin que puedan perseguirse otros fines distintos;
+
+IV. Hacer constar por escrito y con la firma autógrafa de la autoridad que lo expida, salvo en aquellos casos en que el Código autorice otra forma de expedición;
+
+V. Estar fundado y motivado;
+
+VI. Ser expedido sujetándose a las disposiciones relativas a los procedimientos administrativos previstos en este Código;
+
+VII. Mencionar el órgano del cual emana;
+
+VIII. Ser expedido sin que medie error respecto a la referencia específica de identificación del expediente, documentos o nombre completo de las personas;
+
+IX. Ser expedido señalando lugar y fecha de emisión;
+
+X. Tratándose de actos administrativos que deban notificarse deberá hacerse mención de la oficina en que se encuentra y puede ser consultado el expediente respectivo;
+
+XI. Tratándose de actos administrativos recurribles deberá hacerse mención de los recursos que procedan; y
+
+XII. Ser expedido atendiendo los puntos planteados por el promovente o que estén establecidos por el Código.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 240.
 
-Los peritos que examinaren deberán ser dos o más; bastará uno cuando sólo éste pueda ser conseguido, o cuando haya urgencia o peligro de que desaparezcan las evidencias.
+Los actos administrativos de carácter general, que expida la Secretaría, deberán publicarse en el Periódico Oficial del Estado.
 
 ###### ARTICULO 241.
 
-Con independencia de las diligencias de pericia desahogadas en la averiguación previa, la defensa y el Ministerio Público tendrán derecho a nombrar hasta dos peritos en el proceso, para dictaminar sobre cada punto que amerite intervención pericial. El tribunal hará saber a los peritos su nombramiento, y les manifestará todos los datos que fueren necesarios para que emitan su opinión.
+El acto administrativo será válido hasta en tanto su invalidez no haya sido declarada por autoridad administrativa o jurisdiccional, según sea el caso.
 
 ###### ARTICULO 242.
 
-Cuando se trate de lesión proveniente de delito, y la persona lesionada se encontrare en algún hospital público, los médicos de éste se tendrán por peritos nombrados, sin perjuicio de que el Juez nombre otros, si lo creyere conveniente, para que junto con los primeros dictaminen sobre la lesión y hagan su clasificación legal.
+1. El acto administrativo válido será eficaz y exigible a partir de que surta efectos la notificación legalmente efectuada.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Se exceptúa de lo dispuesto en el párrafo anterior, el acto administrativo por el cual se otorgue un beneficio al particular, caso en el cual su cumplimiento será exigible por éste a la Secretaría desde la fecha en que se dictó o aquélla que tenga señalada para iniciar su vigencia; así como los casos en virtud de los cuales se realicen actos de inspección, investigación y vigilancia conforme a las disposiciones de este Código, los cuales son exigibles a partir de la fecha en que la Secretaría los efectúe.
 
 ###### ARTICULO 243.
 
-La autopsia de los cadáveres de personas que hayan fallecido en un hospital público y a consecuencia de delito, la practicarán los médicos de éste, salvo la facultad del juez o del Ministerio Público, en su caso, para encomendarla a otros.
+1. Las promociones deberán hacerse por escrito y en las cuales se precisará lo siguiente:
+
+I. El nombre, denominación o razón social de quién o quiénes promuevan, y en su caso de su representante legal;
+
+II. El domicilio para recibir notificaciones, así como nombre de la persona o personas autorizadas para recibirlas;
+
+III. La petición que se formula, los hechos o razones que dan motivo a la petición,
+
+IV. La autoridad administrativa a que se dirigen; y
+
+V. El lugar y fecha de su emisión.
+
+2. El escrito deberá estar firmado por el interesado o su representante legal, a menos que no sepa o no pueda firmar, caso en el cual se imprimirá su huella digital.
+
+3. La persona que promueva deberá adjuntar a su escrito los documentos que acrediten su personalidad.
 
 ###### ARTICULO 244.
 
-A excepción de los casos previstos en los dos artículos anteriores, el reconocimiento o la autopsia se practicarán por los médicos legistas oficiales, o por los peritos médicos que designe el juez o el Ministerio Público.
+1. Los escritos y sus anexos deberán presentarse en original y copia para que se le acuse recibo.
 
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2008)</small>
+2. Cuando en un procedimiento se tenga que dar vista a terceros, los interesados estarán obligados a proporcionar datos y a entregar juegos adicionales de los documentos necesarios a la autoridad ante la cual realicen el trámite correspondiente.
 
 ###### ARTICULO 244 Bis.
 
@@ -2315,213 +4267,359 @@ Cuando se trate de daño a la integridad psicológica, proveniente del delito de
 
 ###### ARTICULO 245.
 
-Los peritos que acepten el cargo, con excepción de los oficiales, tienen obligación de presentarse al juez o al Ministerio Público, para que les tome la protesta legal.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-En casos urgentes, harán la protesta al producir y ratificar el dictamen.
+La Secretaría en sus relaciones con los particulares, tendrá las siguientes obligaciones:
+
+I. Solicitar la comparecencia de éstos, previa citación en la que se hará constar expresamente el lugar, fecha, hora y objeto de la comparecencia, así como los efectos de no atenderla;
+
+II. Requerir informes, documentos y otros datos, cuando así sea pertinente para el ejercicio de las atribuciones previstas en este Código;
+
+III. Hacer del conocimiento de éstos, en cualquier momento, del estado de la tramitación de los procedimientos en los que tengan interés jurídico, y a proporcionar copia de los documentos contenidos en ellos;
+
+IV. Hacer constar en las copias de los documentos que se presenten junto con los originales, la presentación de los mismos;
+
+V. Admitir las pruebas permitidas por el Código y recibir alegatos, los que deberán ser tomados en cuenta al dictar resolución;
+
+VI. Abstenerse de requerir documentación o solicitar información que ya se encuentren en el expediente que se está tramitando;
+
+VII. Proporcionar información y orientar acerca de los requisitos jurídicos o técnicos que las disposiciones legales vigentes en materia ambiental impongan a los proyectos, actuaciones o solicitudes que se propongan realizar;
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+VIII. Permitir el acceso a sus registros y archivos en los términos previstos en este Código u otras leyes;
+
+IX. Facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones; y
+
+X. Dictar resolución expresa sobre cuantas peticiones le formulen, dentro del plazo que este Titulo establezca.
 
 ###### ARTICULO 246.
 
-El funcionario que practique las diligencias fijará a los peritos el tiempo en que deban cumplir su cometido. Si legalmente citados y aceptado el cargo, no concurren a desempeñarlo, se hará uso de alguno de los medios de apremio.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-Si a pesar de haber sido apremiado el perito, no cumple con las obligaciones impuestas en el párrafo anterior, se hará su consignación al Ministerio Público para que proceda por el delito a que se refiere el artículo específico del código penal.
+1. Salvo que ya se encuentre previsto de manera expresa en el presente Código, no podrá exceder de tres meses el tiempo para que la Secretaría resuelva lo que corresponda.
+
+2. Transcurrido el plazo referido o el aplicable, se entenderá que la falta de resolución entraña la negativa, salvo que en forma expresa se determine la afirmativa en éste Código.
+
+3. A petición del interesado, se deberá expedir constancia de que ha transcurrido el plazo legal para resolver dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la autoridad competente.
 
 ###### ARTICULO 247.
 
-Siempre que los peritos nombrados discordaren entre sí, el juez los citará a una junta, en la que se asentará el resultado de la discusión.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-Si los peritos no se pusieren de acuerdo, el juez nombrará a un tercero en discordia.
+1. Cuando los escritos que presenten los interesados no contengan los datos o no cumplan con los requisitos aplicables, la Secretaría deberá prevenir a los interesados, por escrito y por una sola vez, para que subsanen la omisión. Transcurrido el plazo correspondiente sin desahogar la prevención, se desechará el trámite.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1991)</small>
+2. La prevención de información faltante deberá hacerse dentro del primer tercio del plazo de respuesta o, de no requerirse resolución alguna, dentro de los diez días hábiles siguientes a la presentación del escrito correspondiente. La fracción de día que en su caso resulte de la división del plazo de respuesta se computará como un día completo. En caso de que la resolución del trámite sea inmediata, la prevención de información faltante también deberá hacerse de manera inmediata a la presentación del escrito respectivo.
+
+3. De no realizarse la prevención mencionada en el párrafo anterior dentro del plazo aplicable, no se podrá desechar el trámite argumentando que está incompleto. En el supuesto de que el requerimiento de información se haga en tiempo, el plazo para que la dependencia correspondiente resuelve el trámite se suspenderá y se reanudará a partir del día hábil inmediato siguiente a aquel en el que el interesado conteste.
 
 ###### ARTICULO 248.
 
-Los peritos deberán tener título oficial en la ciencia o arte a que se refiere el punto sobre el cual deba dictaminarse, si la profesión o artes están legalmente reglamentadas; en caso contrario, se nombrarán peritos prácticos. Cuando el inculpado pertenezca a un grupo étnico indígena, podrán ser peritos prácticos, personas que pertenezcan a dicho grupo étnico indígena.
+Salvo disposición expresa en contrario, los plazos para que la autoridad conteste empezarán a correr al día hábil inmediato siguiente a la presentación del escrito correspondiente.
 
 ###### ARTICULO 249.
 
-También podrán ser nombrados peritos prácticos, cuando no hubiere titulados en el lugar en que se siga la instrucción; pero en este caso se librará exhorto o requisitoria al juez del lugar en que los haya, para que, en vista de la opinión de los prácticos, emitan la suya.
+El procedimiento administrativo continuará de oficio, sin perjuicio del impulso que puedan darle los interesados. En caso de corresponderle a estos últimos y no lo hicieren, operará la caducidad en los términos previstos en el presente Código.
 
 ###### ARTICULO 250.
 
-Los peritos deberán ser citados en la misma forma que los testigos; reunirán, además, las propias condiciones de éstos, y estarán sujetos a iguales causas de impedimento. Serán preferidos los que hablen el idioma español.
+1. Los promoventes con capacidad de ejercicio podrán actuar por sí o por medio de representante o apoderado.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La representación de las personas físicas o morales ante la Secretaría para formular solicitudes, participar en el procedimiento administrativo, interponer recursos, desistirse y renunciar a derechos, deberá acreditarse mediante instrumento público, y en el caso de personas físicas, también mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las propias autoridades o fedatario público, o declaración en comparecencia personal del interesado.
 
 ###### ARTICULO 251.
 
-Los peritos practicarán todas las operaciones y experimentos que su ciencia o arte les sugiera, y expresarán los hechos y circunstancias que sirvan de fundamento a su dictamen.
+Sin perjuicio de lo anterior, el interesado o su representante legal mediante escrito firmado podrá autorizar a la persona o personas que estime pertinente para oír y recibir notificaciones, realizar trámites, gestiones y comparecencias que fueren necesarios para la tramitación de tal procedimiento, incluyendo la interposición del recurso de revisión.
 
 ###### ARTICULO 252.
 
-El juez, cuando lo considere conveniente, asistirá al reconocimiento que los peritos hagan de personas, lugares y objetos, pero deberá hacerlo del conocimiento de las partes, para que hagan valer su derecho.
+Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán con el representante común o interesado que expresamente hayan señalado y, en su defecto, con el que figure.
+
+### CAPITULO VI. DE LOS TERMINOS Y PLAZOS
 
 ###### ARTICULO 253.
 
-Los peritos emitirán su dictamen por escrito, y lo ratificarán en diligencia especial.
+Las actuaciones y diligencias administrativas se practicarán en días y horas hábiles. Los días considerados como inhábiles serán los sábados y domingos; los que se señalen como de descanso obligatorio por las disposiciones de la Ley Federal del Trabajo y los días en que se tengan vacaciones generales o así se determine en virtud de las disposiciones de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas.
 
-Los peritos oficiales no necesitarán ratificar sus dictámenes, sino cuando el funcionario que practique las diligencias lo estime necesario.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 254.
 
-Cuando el juicio pericial recaiga sobre objetos que se consuman al ser analizados, no se permitirá que se verifique el primer análisis sino sobre la mitad de las substancias a lo sumo, a no ser que su cantidad sea tan escasa que los peritos no puedan emitir su opinión sin consumirlas todas. Esto se hará constar en el acta.
+1. Los términos podrán suspenderse por causa de fuerza mayor o caso fortuito, debidamente fundada y motivada por la Secretaría.
+
+2. Cuando así lo requiera la Secretaría podrá habilitar días inhábiles.
 
 ###### ARTICULO 255.
 
-La designación de peritos hecha por el juez o por el Ministerio Público deberá recaer en personas que desempeñen este empleo por nombramiento oficial y a sueldo.
+1. En los plazos establecidos por periodos se computarán todos los días; cuando se fijen por mes o por año se entenderá que el plazo concluye el mismo número de día del mes o año de calendario que corresponda, respectivamente; cuando no exista el mismo número de día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
 
-Si no hubiere peritos oficiales, se nombrarán de entre las personas que desempeñen el profesorado del ramo correspondiente en las escuelas del Estado, o bien de entre los funcionarios o empleados de carácter técnico, en establecimientos o corporaciones dependientes del Estado.
+2. Si el último día del plazo o la fecha determinada son inhábiles o las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores, se prorrogará el plazo hasta el siguiente día hábil.
 
-Si no hubiere peritos de los que menciona el párrafo anterior, y el juez o el Ministerio Público lo estimaren conveniente, podrán nombrar otros.
-
-En estos casos, los honorarios se cubrirán según lo que se pague por costumbre en los establecimientos particulares de que se trate a los empleados permanentes de los mismos, teniendo en cuenta el tiempo que los peritos debieron ocupar en el desempeño de su comisión.
+3. Cuando el último día del plazo sea inhábil, se entenderá prorrogado hasta el día hábil siguiente.
 
 ###### ARTICULO 256.
 
-Cuando los peritos que perciban sueldo del erario sean nombrados por el Juez o a petición del Ministerio Público, no podrán cobrar honorarios.
+1. Las diligencias o actuaciones del procedimiento administrativo se efectuarán en un horario de 8:00 a 16:00 horas. Una diligencia iniciada en horas hábiles podrá concluirse en día y hora inhábiles sin afectar su validez.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Cuando así lo requiera, la Secretaría podrá habilitar horas inhábiles.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 257.
 
-Cuando el funcionario que practique las diligencias lo crea conveniente, podrá ordenar que asistan peritos a ellas.
+La Secretaría, podrá ampliar los términos y plazos establecidos en éste Código, sin que dicha ampliación exceda en ningún caso de la mitad del plazo previsto originalmente, cuando así lo exija el asunto y no se perjudiquen los derechos de los interesados o de terceros.
 
-### CAPITULO SEXTO. TESTIGOS
+### CAPITULO I. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DE LA ATMOSFERA
 
 ###### ARTICULO 258.
 
-La inspección puede practicarse de oficio o a petición de parte, pudiendo concurrir a ellas los interesados y hacer las observaciones que estimen oportunas.
+Para efectos de las notificaciones, citatorios, emplazamientos, requerimientos, visitas e informes, a falta de términos o plazos establecidos en el presente Código, estos no excederán de diez días.
 
-La inspección debe ser practicada invariablemente, bajo pena de nulidad, con la asistencia del Ministerio Público o, en su caso, del juez, según se trate de la averiguación previa o del proceso.
+### CAPITULO VII
+
+DEL ACCESO A LA DOCUMENTACION E INFORMACION.
 
 ###### ARTICULO 259.
 
-El juez o el Ministerio Público, al practicar la inspección, procurarán estar asistidos de los peritos que deban emitir posteriormente su dictamen, sobre los lugares u objetos inspeccionados.
+1. Los promoventes en un procedimiento administrativo tendrán derecho de acceder a la documentación e información que obre en el expediente relacionado con el trámite de que se trate.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
 
-Para la descripción de lo inspeccionado se emplearán según el caso dibujos, planos topográficos, fotografías ordinarias o métricas, moldeados o cualquier otro medio para reproducir las cosas, haciéndose constar en el acta cuál de ellos, en qué forma o con qué objeto se emplearon. Se hará la descripción por escrito de todo lo que no hubiere sido posible efectuar por los medios anteriores, procurándose fijar con claridad los caracteres, señales o vestigios que el delito dejare, el instrumento o medio que probablemente se haya empleado o la forma en que se hubiere usado.
+2. Los promoventes podrán solicitar que les sea expedida a su costa, copia certificada de los documentos contenidos en el expediente administrativo en el que se actúa.
+
+### CAPITULO VIII. DE LA TRAMITACION Y LAS PRUEBAS
 
 ###### ARTICULO 260.
 
-A juicio del funcionario que practique la inspección a petición de parte, se levantarán planos o se sacarán las fotografías que fueren conducentes.
+1. En el despacho de los expedientes se guardará y respetará el orden riguroso de tramitación en los asuntos de la misma naturaleza; la alteración del orden sólo podrá realizarse cuando exista causa debidamente motivada de la que quede constancia.
 
-De las diligencias se levantará acta circunstanciada, que firmarán los que en ella hubieren intervenido, si quisieren y pudieren hacerlo.
+2. El incumplimiento a lo dispuesto en el párrafo anterior, será causa de responsabilidad para el servidor público infractor.
 
 ###### ARTICULO 261.
 
-El funcionario que practique una diligencia de inspección deberá cumplir, en lo conducente con las reglas contenidas en los capítulos I, y II del Título Tercero de este código.
+1. En los procedimientos administrativos ambientales se admitirán toda clase de pruebas, excepto la confesional de las autoridades y la testimonial. No se considerará comprendida en esta prohibición la petición de informes a las autoridades administrativas, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La Secretaría podrá allegarse los medios de prueba que considere necesarios, sin más limitaciones que las establecidas en la ley.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría acordará sobre la admisibilidad de las pruebas ofrecidas. Sólo podrá rechazar las pruebas propuestas cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes e innecesarias o contrarias a la moral y al derecho. Tal resolución deberá estar debidamente fundada y motivada.
 
 ###### ARTICULO 262.
 
-Al practicarse una inspección ocular, podrá examinarse a las personas presentes que puedan proporcionar algún dato útil a la averiguación, a cuyo efecto se les podrá prevenir que no abandonen el lugar.
+1. El desahogo de las pruebas ofrecidas y admitidas se realizará dentro de un plazo no menor a tres ni mayor a quince días contados a partir de su admisión.
+
+2. Si se ofreciesen pruebas que ameriten ulterior desahogo, se concederá al interesado un plazo no menor a ocho ni mayor a quince días para tal efecto.
+
+3. Las pruebas supervenientes podrán presentarse siempre que no se haya emitido la resolución definitiva.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 263.
 
-En caso de lesiones, al sanar el lesionado se procurará hacer la inspección ocular y la descripción de las consecuencias apreciables que hubieren dejado.
+La Secretaría notificará a los interesados, con una anticipación de tres días, el inicio de las actuaciones necesarias para el desahogo de las pruebas que hayan sido admitidas.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 264.
 
-En los delitos sexuales y en el aborto, puede concurrir al reconocimiento que practiquen los médicos, el funcionario que conozca del asunto, si lo juzga indispensable.
-
-Además de las personas a que se refiere este artículo, únicamente se permitirá asistir a la diligencia a aquellas que designe la reconocida, cuando quiera que la acompañen.
+Cuando las disposiciones legales así lo establezcan o se juzgue pertinente para la Secretaría, se solicitarán los informes u opiniones necesarios para resolver el asunto, citándose el precepto que lo exija o motivando, en su caso, la conveniencia de solicitarlos.
 
 ###### ARTICULO 265.
 
-La inspección podrá tener el carácter de reconstrucción de hechos, y tendrá por objeto apreciar las declaraciones que se hayan rendido y los dictámenes periciales que se hayan formulado.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+1. Los informes u opiniones de otros órganos administrativos podrán ser de obligatoria solicitud para la Secretaría cuando así se señale en éste Código, los demás tendrán carácter de solicitud discrecional.
 
-Esta se practicará en la averiguación previa únicamente cuando el Ministerio Público lo estime necesario, en la instrucción, a solicitud de las partes, o antes de cerrarse la misma, si por la naturaleza del hecho delictuoso o de las pruebas rendidas proceda a juicio del Juez.
+2. Los informes u opiniones sólo serán vinculatorios cuando así lo establezca expresamente éste Código.
 
-También podrá llevarse a cabo durante la vista del proceso, aun cuando se haya practicado con anterioridad a petición de las partes y a juicio del juez o tribunal, en su caso.
+3. En todo caso, los informes u opiniones solicitados deberán incorporarse al expediente.
+
+4. A la autoridad administrativa a la cual se le solicite un informe u opinión, deberá emitirlo dentro del plazo de quince días, salvo que alguna disposición establezca un plazo distinto. En éste supuesto se ampliará en quince días el plazo previsto por el Código para la emisión de la resolución correspondiente.
+
+5. Si transcurrido el plazo a que se refiere el párrafo anterior, no se recibiese el informe u opinión, cuando se trate de informes u opiniones obligatorios o vinculantes, se entenderá que no existe objeción a las pretensiones del interesado.
 
 ###### ARTICULO 266.
 
-Esta diligencia deberá practicarse precisamente en la hora y lugar en donde se cometió el delito, cuando estas circunstancias tengan influencia en la apreciación de los hechos que se reconstruyan; en caso contrario, podrá practicarse en cualquier otro lugar y hora.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Concluida la tramitación del procedimiento administrativo y antes de dictar resolución se pondrán las actuaciones a disposición de los interesados para que, en su caso, formulen alegatos, los que serán tomados en cuenta por la Secretaría al dictar la resolución.
+
+2. En un plazo no mayor a cinco días los interesados podrán presentar por escrito sus alegatos.
+
+3. Si antes del vencimiento del plazo los interesados manifestaran su decisión de no presentar alegatos, se tendrá por concluido el procedimiento.
+
+### CAPITULO IX
+
+DE LA TERMINACION.
 
 ###### ARTICULO 267.
 
-No se practicará la reconstrucción sin que hayan sido examinadas las personas que hubieren intervenido en los hechos, o que los hayan presenciado y deban tomar parte en ella. En el caso a que se refiere la primera parte del artículo anterior, es necesario, además, que se haya llevado a cabo la simple inspección ocular del lugar.
+Ponen fin al procedimiento administrativo:
+
+I. La resolución del mismo;
+
+II. El desistimiento;
+
+III. La renuncia al derecho en que se funde la solicitud, cuando tal renuncia no esté prohibida por el ordenamiento jurídico;
+
+IV. La declaración de caducidad; y
+
+V. La imposibilidad material de continuarlo por causas supervenientes.
 
 ###### ARTICULO 268.
 
-La diligencia de reconstrucción de hechos podrá repetirse cuantas veces se estime necesario.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. En el procedimiento administrativo ambiental iniciado a instancia del interesado, cuando se produzca su paralización por causas imputables al mismo durante un periodo de 45 días, se producirá la caducidad del mismo. La Secretaría hará el asiento correspondiente en el expediente y acordará el archivo de las actuaciones, notificándoselo al interesado. Contra la resolución que declare la caducidad procederá el recurso previsto en este Código.
+
+2. La caducidad no producirá por sí misma la prescripción de las acciones del particular, pero los procedimientos caducados no interrumpen ni suspenden el plazo de prescripción.
+
+3. Cuando se trate de procedimientos administrativos ambientales iniciados de oficio, se entenderán caducados y se procederá al archivo de las actuaciones, a solicitud de parte interesada o de oficio, en el plazo de 45 días contados a partir de la expiración del plazo para dictar resolución.
+
+## TITULO SEGUNDO
+
+DEL PROCEDIMIENTO POR DAÑO AMBIENTAL.
+
+### CAPITULO UNICO
 
 ###### ARTICULO 269.
 
-A esta diligencia deberán concurrir:
+1. Sin demérito de las responsabilidades penales, civiles y administrativas que procedan, quienes infrinjan daños ambientales causados en el territorio estatal, por acción u omisión, serán sujetos al procedimiento de cuantificación y compensación por daño ambiental.
 
-I.- El juez con su Secretario o testigos de asistencia;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-II.- La persona que la promoviere;
+2. El procedimiento por daño ambiental tiene como objeto la restauración del medio ambiente y, en su defecto, el resarcimiento económico por el daño ocasionado.
 
-III.- El inculpado y su defensor;
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-IV.- El Ministerio Público;
-
-V.- Los testigos presenciales, si residieren en el lugar;
-
-VI.- Los peritos nombrados, siempre que el juez o las partes lo estimen necesario; y
-
-VII.- Las demás personas que el Juez exprese en el mandamiento respectivo.
+3. Cuando el procedimiento por daño ambiental sea promovido por el responsable, sin que exista por parte de la Secretaría instaurado un procedimiento de inspección y vigilancia, en lo conducente, se tramitará conforme a las disposiciones del Título Primero de este Libro.
 
 ###### ARTICULO 270.
 
-El Juez, al dictar el mandamiento, lo hará saber con la debida anticipación, a fin de que sean citadas las personas que deban concurrir a la diligencia.
+Serán sujetos del procedimiento a que se refiere este Título:
 
-###### ARTICULO 271.
+I. Los responsables de las obras o actividades que hayan iniciado labores de construcción u operación, sin contar con la autorización correspondiente;
 
-Para practicarla, el personal del juzgado o el Ministerio Público, se trasladarán al lugar de los hechos juntamente con las personas que deban concurrir; tomarán a testigos y peritos la protesta de producirse con verdad; designarán a la persona o personas que substituyan a los sujetos del delito que no estén presentes, y darán fe de las circunstancias y pormenores que tengan relación con éste.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-Enseguida leerán la declaración del inculpado y de la víctima, en su caso, y harán que éstos expliquen prácticamente las circunstancias de lugar, tiempo y forma en que se desarrollaron los hechos. Lo mismo se hará con cada uno de los testigos presentes.
+II. Quien o quienes, sin contar con la autorización expresa que se requiere de la Secretaría, aproveche, use, goce, disponga y, en general, utilice, con fines de lucro o sin él, los recursos naturales, flora y fauna silvestres o los recursos bióticos de las áreas naturales protegidas de competencia estatal;
 
-Los peritos emitirán su opinión en vista de las declaraciones rendidas y de los vestigios o indicios existentes, atendiendo a las indicaciones y preguntas que hagan la autoridad y las partes, procurando que los dictámenes versen sobre puntos precisos.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1991)</small>
+III. Los responsables de emisiones a la atmósfera, descargas, acopio, disposición o manejo de contaminantes, aguas residuales o residuos de manejo especial, sin el permiso o autorización de la Secretaría, cuando sean requeridos en términos del presente Código, o aún contando con el permiso o autorización, se produzcan efectos ambientales excedentes de los parámetros autorizados;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+IV. El que contando con un permiso o autorización o en la gestión para obtenerla, proporcione datos falsos a la Secretaría en informes, manifestaciones, reportes, registros, cédulas y, en general, cualquier información a la que estén obligados en términos de este Código, siempre que de tal falsedad se pueda presumir la existencia de un daño ambiental;
+
+V. El que contamine o deteriore el ambiente o afecte los recursos naturales o la biodiversidad y cuya consecuencia sea un daño ambiental; y
+
+VI. El que por acción u omisión genere un daño ambiental.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 271.
+
+1. Cuando la Secretaría con motivo de sus facultades de inspección y vigilancia, advierta la actualización de alguno de los supuestos del artículo 270 de este Código, seguirá el procedimiento administrativo establecido en el Capítulo Único del Título Segundo del Libro Séptimo, y dentro del acuerdo de emplazamiento, le requerirá al particular para que dentro de los quince días hábiles siguientes presente un estudio de daño ambiental, exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes, en relación con la actuación de la Secretaría o los Ayuntamientos, cuando les corresponda.
+
+2. Dentro del acuerdo de emplazamiento, la Secretaría ordenará las medidas correctivas o de urgente aplicación que procedan.
 
 ###### ARTICULO 272.
 
-Cuando alguna de las partes solicite la reconstrucción, deberá precisar cuales son los hechos y circunstancias que desea esclarecer, pudiéndose repetir la diligencia cuantas veces sea necesario, a juicio del Ministerio Público, del Juzgador o del Tribunal.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-### CAPITULO SEPTIMO. CONFRONTACION
+1. Conforme a lo dispuesto en el artículo 271 de este Código, los responsables de las obras o actividades referidas en el artículo 270 del presente Código, deberán someter a consideración de la Secretaría la evaluación de un estudio de daños ambientales bajo los lineamientos que para tal efecto formule la propia Secretaría.
+
+2. El estudio deberá contener, por lo menos:
+
+I. Evidencia de la condición ambiental que prevalecía en el sitio previo a la realización de las obras o actividades;
+
+II. Análisis, cuantificación y valorización de los impactos generados por la obra o actividad, así como de los impactos sinérgicos generados;
+
+III. Análisis, en su caso, del riesgo; y
+
+IV. Propuesta de medios de mitigación y compensación a los impactos identificados.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+3. Cuando la evaluación del estudio de daños ambientales se presente dentro del plazo otorgado en el acuerdo de emplazamiento efectuado con motivo de un procedimiento de inspección y vigilancia, el dictamen que se emita en términos del artículo 275 del presente Código, se deberá de tomar en consideración al momento de emitir la resolución definitiva en el procedimiento.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPITULO II. DE LA CONTAMINACION POR RUIDO, VIBRACIONES, OLORES, ENERGIA TERMICA Y LUMINICA Y VISUAL
 
 ###### ARTICULO 273.
 
-Si de las primeras diligencias, efectuadas a resultas de la denuncia, queja, o por cualquier circunstancia, apareciere necesario el examen de algunas personas para el esclarecimiento de un hecho delictuoso, de sus características, o del delincuente, el Ministerio Público o el Juez en su caso, deberán examinarlas, en cualquier estado del procedimiento.
+1. Durante el desarrollo de la visita de inspección y vigilancia o en cualquier momento dentro del procedimiento, la Secretaría podrá imponer las medidas de seguridad que correspondan, en términos del artículo 294 del presente Código. La Secretaría podrá ordenar el levantamiento de la medida de seguridad, cuando se cumpla con lo dispuesto en el primer párrafo del artículo 274 de este Código.
+
+2. Sin perjuicio de lo anterior, en cualquier momento del procedimiento de evaluación del daño ambiental, la Secretaría podrá suspender las obras o actividades iniciadas, cuando el impacto adverso ocasionado haya atentado, atente o pueda ocasionar afectaciones contra la salud de las personas, o riesgo para el equilibrio ecológico, los ecosistemas o los recursos que lo integran, y los bienes y propiedades pertenecientes a los particulares.
 
 ###### ARTICULO 274.
 
-Podrá examinarse a los ausentes en la forma prevista por este código, sin que esto demore la marcha de la averiguación o de la instrucción o impida que una u otra se de por terminada cuando se hayan reunido los elementos bastantes.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1991)</small>
+1. La recepción del estudio para la evaluación por daño ambiental a cargo de la Secretaría no presupone la autorización de la obra o actividad causante del daño; sin embargo, el interesado podrá solicitar autorización para continuar con la misma durante el procedimiento de su evaluación, para lo cual deberá de tramitar de forma conjunta, cuando proceda, la autorización en materia de impacto ambiental en términos del artículo 60 Bis de este Código y garantizar fehacientemente, a juicio de la Secretaría, la reparación del probable daño ambiental causado o que pudiere causar.
+
+2. La solicitud referida en el párrafo anterior deberá presentarse bajo protesta de decir verdad, conteniendo la descripción de los actos y omisiones que causaron el procedimiento.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+3. Una vez presentada y autorizada la garantía, la Secretaría podrá acordar la continuación de la obra o la actividad, siempre que la misma no implique:
+
+I. La Contravención del interés público;
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+II. La presunción de una afectación grave o irreversible al medio ambiente, los ecosistemas o la biodiversidad conforme los elementos de juicio de que se disponga;
+
+III. La pretensión de un objeto distinto del uso del suelo al autorizado por la autoridad competente;
+
+IV. El desarrollo de actividades riesgosas competencia del Estado;
+
+V. El aprovechamiento de fauna o flora silvestres o de recursos forestales; y
+
+VI. La actuación en áreas naturales protegidas.
 
 ###### ARTICULO 275.
 
-Toda persona, cualquiera que sea su edad, sexo, condición social o antecedentes, deberá ser examinada como testigo, siempre que pueda proporcionar algún dato para la averiguación del delito y del delincuente.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-Si cualquiera de las partes o el defensor durante el proceso, presenta testigos sin la citación previa de la autoridad judicial que conozca del asunto, se les tomará declaración, si concurren el Ministerio Público y el defensor.
+1. Una vez recibido el estudio por daño ambiental, la Secretaría, lo evaluará y, considerando la gravedad del daño ambiental, el lucro obtenido por el responsable, los beneficios o perjuicios al desarrollo sustentable regional que pudiera generar la obra o actividad de que se trate, el impacto al ambiente ocurrido previamente a la causal del procedimiento y la reincidencia del responsable, podrá:
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-El Juez o Tribunal exigirá al testigo la respectiva acreditación, mediante la exhibición de su credencial para votar con fotografía en su caso o de un documento fidedigno, del cual se tomará nota en autos; si no tuviere o no pudiere hacerlo se le identificará por cualquier otro medio y aún así deberá de examinársele haciéndose constar esto en autos. Lo mismo hará el Ministerio Público con relación a los testigos que ante él declaren, en el periodo de la preparación de la acción penal. Toda persona que sea testigo está obligada a declarar respecto de los hechos investigados.
+I. Dictaminar favorablemente y en sus términos;
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-El testimonio deberá ser breve y conciso, evitándose vacíos y narraciones superfluas que alarguen la diligencia.
+II. Dictaminar de manera condicionada; o
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-En el desahogo de la testimonial se observarán las siguientes reglas tendientes a conocer la verdad histórica del hecho; el relato del suceso será secuencial sobre las siguientes interrogantes: cuándo, dónde, qué, quién, por qué, cómo, con qué, además dará la razón de su dicho, expresando si los hechos sobre los cuales declaró los hubiere presenciado, deducido o si los hubiere oído por expresión de otras personas, pudiendo declarar lo demás que estime conducente en relación al hecho, las personas, las cosas o los lugares relacionados. Las preguntas que formulen las partes deberán guardar relación con los hechos.
+III. Dictaminar de manera negativa.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-El Juez o tribunal, por objeción fundada de parte, desechará las preguntas impertinentes o inconducentes para los fines del proceso, así como las no claras o que ofusquen la razón, las que encierran diferentes significados, capciosas, sugestivas, las que contienen más de un hecho, las ya contestadas. Las preguntas y objeciones se asentarán en autos cuando así lo solicite quien la hubiese formulado.
+2. El dictamen deberá contener los montos, conceptos, condiciones y alcances técnicos de la reparación del daño ambiental causado.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+3. En todo caso, se aplicará la garantía presentada por el particular para la autorización provisional de la continuación de la obra o actividad.
 
-Antes de resolver sobre la objeción planteada por una de las partes, el Juez escuchará a la que formula la pregunta. La decisión del Juez que decrete fundada o infundada la objeción planteada por la contraparte del que interroga, no admitirá recurso alguno.
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+4. El dictamen por daño ambiental, no presupone la autorización en materia de impacto ambiental, riesgo o informe preventivo, por lo que el particular que deseé continuar con las actividades de que se trate, estará obligado a continuar con el trámite de la autorización en materia ambiental que corresponda.
 
-El valor probatorio del testimonio se calificará en la sentencia.
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+5. La presentación del estudio de daño ambiental, con motivo del requerimiento efectuado en el acuerdo de emplazamiento dentro un procedimiento de inspección y vigilancia, no suspende el procedimiento.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 275 Bis.
 
@@ -2547,71 +4645,73 @@ La Procuraduría prestará apoyo y protección suficientes a Jueces, Agentes del
 
 ###### ARTICULO 276.
 
-No se obligará a declarar al tutor, curador, pupilo, concubino o cónyuge del inculpado, ni a sus parientes por consanguinidad o afinidad en la línea recta ascendente o descendente, sin limitación de grados y en la colateral hasta el cuarto inclusive y por parentesco civil.
+1. El dictamen emitido por la Secretaría en términos del artículo 275 de este Código, es independiente de las sanciones a que se haga acreedor el responsable, no obstante, la presentación del estudio de daño ambiental será considerada como atenuante al momento de imponer las sanciones que correspondan.
 
-Si estas personas tuvieren voluntad de declarar, se les recibirá su declaración por el Ministerio Público o el juez, en su caso, y se hará constar esta circunstancia.
+2. En los casos en que la Secretaría tenga conocimiento de actos u omisiones que pudieran constituir delitos, conforme a lo previsto en el Código Penal para el Estado de Tamaulipas, deberá formular y presentar la denuncia ante la autoridad competente de procuración de justicia.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
-
-Tampoco se podrá obligar a declarar a las personas que hubieren participado en un procedimiento de mediación o conciliación, en los términos de la ley aplicable a la materia, en relación con la información obtenida o sobre la cual tuvieron conocimiento durante el desarrollo de dichos métodos alternos.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 277.
 
-No puede oponerse tacha a los testigos, pero el juez, de oficio o a petición de parte, hará constar en el proceso todas las circunstancias que influyan en el valor probatorio de los testimonios.
+1. Se considera responsable al que conforme a la legislación aplicable tenga la calidad de propietario, poseedor o análogo, del área en que se desarrollen los supuestos a que se refiere el artículo 270 de este Código, de igual manera, se consideran corresponsables a los propietarios de bienes muebles directamente relacionados, salvo prueba en contrario.
 
-Los testigos darán siempre razón de su dicho, y se hará constar en la diligencia.
+2. En los casos de personas morales responsables de daños ambientales o contra la gestión ambiental, sus representantes serán subsidiaria y solidariamente responsables, de conformidad con las disposiciones legales correspondientes.
+
+# LIBRO SEPTIMO. DE LOS PROCEDIMIENTOS ESPECIALES Y LAS SANCIONES
+
+## TITULO PRIMERO. DE LA DENUNCIA POPULAR
+
+### CAPÍTULO ÚNICO
 
 ###### ARTICULO 278.
 
-Cuando los testigos que deban ser examinados no estuvieren presentes, serán citados por medio de cédula, debiendo reunir ésta los requisitos siguientes:
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-I.- Denominación legal del tribunal o dependencia oficial ante quien deba presentarse;
+1. Toda persona, grupo social, organización no gubernamental, asociación y sociedad, por sí o mediante un representante común, podrán denunciar ante la Secretaría, cualquier hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al medio ambiente o a los recursos naturales, o contravenga las disposiciones del presente Código y de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
 
-II.- Nombre, apellido y domicilio si se supieren; en caso contrario, los datos necesarios para su identificación;
-
-III.- Día, hora y lugar en que deba comparecer;
-
-IV.- La sanción que se le impondrá si no compareciere; y
-
-V.- La firma del juez, secretario o funcionario.
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1991)</small>
+2. Cuando una autoridad estatal o municipal sin competencia en la materia reciba una denuncia de las referidas en el párrafo anterior, deberá turnarla a la autoridad competente para su atención y desahogo en un plazo que no exceda los diez días hábiles contados a partir de la fecha en que se recibió la misma.
 
 ###### ARTICULO 279.
 
-La citación puede hacerse verbalmente al testigo, donde quiera que se encuentre o en su domicilio, aún cuando no estuviere en él; en este caso se hará constar el nombre de la persona a quien se haga; y si ésta manifestare que el citado está ausente, dirá desde hace cuanto tiempo, donde se encuentra y cuando espera su regreso, lo que se hará constar para que el Juez o la autoridad dicten las providencias a efecto de que comparezca.
+1. La denuncia popular podrá interponerse por cualquier persona, bastando que se presente por escrito y contenga:
 
-Cuando no se pueda hacer la citación verbalmente, se hará por cédula, la cual será entregada por personal del juzgado o por los Auxiliares del Ministerio Público directamente a la persona citada, quien deberá firmar el recibo correspondiente en la copia de la cédula, o bien estampar en ésta sus huellas digitales cuando no sepa firmar; si se negare a hacerlo, el personal comisionado asentará éste hecho y el motivo que el citado expresare para su negativa.
+I. El nombre o razón social, domicilio, teléfono si lo tiene, del denunciante y, en su caso, de su representante legal;
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
+II. Los actos, hechos u omisiones denunciados;
 
-Cuando el caso lo permita, podrá enviarse la cédula por correo, en sobre cerrado y sellado, con acuse de recibo, o por cualquier otro medio, debiendo certificar esta circunstancia el Secretario del Juzgado.
+III. Los datos que permitan identificar al presunto infractor o localizar la fuente contaminante; y
+
+IV. Las pruebas que, en su caso, ofrezca.
+
+2. Asimismo, podrá formularse la denuncia por vía telefónica o por los medios electrónicos de comunicación, en cuyo supuesto el servidor público que la reciba levantará acta circunstanciada y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de cinco días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la autoridad competente investigue de oficio los hechos constitutivos de la misma.
+
+3. No se admitirán denuncias notoriamente improcedentes o infundadas, o aquéllas en las que se advierta mala fe, lo cual se notificará al denunciante.
+
+4. El denunciante podrá solicitar a la autoridad correspondiente, guardar secreto respecto de su identidad, por razones de seguridad, sin perjuicio del seguimiento de la denuncia conforme a las atribuciones que le otorgan el presente Código y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 280.
 
-Si el testigo fuere militar, la citación se hará por conducto del superior jerárquico respectivo; lo mismo se observará cuando se trate de un servidor de la administración pública.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 1994)</small>
+Con base en la recepción de la denuncia en términos de los supuestos del artículo anterior, la Secretaría o, en su caso, el Ayuntamiento, llevarán a cabo las diligencias necesarias para la comprobación de los hechos denunciados y realizará la evaluación correspondiente.
 
 ###### ARTICULO 281.
 
-Si el testigo se encontrare fuera del lugar del juicio, pero dentro de la jurisdicción del Juez, podrá examinarlo por conducto del Alcalde Judicial del lugar donde resida, librando la requisitoria correspondiente. Si se encontrare fuera de su jurisdicción, se librará exhorto al juez de su residencia para que lo examine. Si ésta se ignorase, se encargará a la policía que averigüe su paradero y lo cite.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+1. La Secretaría con base en sus atribuciones, iniciará las acciones que procedan, ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación vigente.
 
-Si no tuviere éxito, se le citará por edictos en el Boletín Judicial, y en un diario de los de mayor circulación en el Estado. Si no compareciere, se declarará sin materia. Lo mismo sucederá si el testigo no se presenta a los requerimientos judiciales, a pesar del apremio judicial.
-
-> <small>(REFORMADO PRIMER PARRAFO P.O. 21 DE OCTUBRE DE 1994)</small>
+2. Lo anterior sin demérito de lo que corresponda a los procesos de inspección y vigilancia.
 
 ###### ARTICULO 282.
 
-Toda persona está obligada a presentarse ante los Tribunales y ante el Ministerio Público cuando sea citada, a menos que no pueda hacerlo porque padezca alguna enfermedad que se lo impida, o tenga alguna otra imposibilidad física para presentarse.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1991)</small>
+1. La Secretaría o el Ayuntamiento, en su caso, dispondrá las acciones de inspección procedentes con la celeridad que amerite los hechos denunciados conforme las disposiciones de este Libro, al practicar la notificación a la persona o personas a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida.
 
-En este último caso los que deban tomar la declaración se trasladarán al lugar donde se encuentre el testigo para recibirla.
+2. Hecha la notificación el presunto responsable deducirá sus derechos en términos de las disposiciones de inspección y vigilancia de este Libro.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 282 Bis.
 
@@ -2619,239 +4719,699 @@ El patrón está obligado a permitir que comparezcan ante el Ministerio Público
 
 ###### ARTICULO 283.
 
-Cuando haya que examinar a altos funcionarios del estado o de la federación, o a militares de alto rango, se les recibirá su declaración por oficio, previo interrogatorio que se les envíe.
+La Secretaría, a más tardar dentro de los quince días hábiles siguientes a la presentación de la denuncia, hará del conocimiento del denunciante, el trámite que se haya dado a aquélla y, en su oportunidad, el resultado de la verificación de los hechos objeto de la denuncia, así como de las medidas y sanciones impuestas, en su caso, dentro de la resolución correspondiente.
+
+## TITULO SEGUNDO. DE LA INSPECCION Y VIGILANCIA
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 284.
 
-Las declaraciones de los testigos se tomarán por separado, y el juez dispondrá lo que estime pertinente para que aquéllos no se comuniquen entre sí. Solo las partes podrán asistir a la diligencia, salvo en los casos siguientes:
+Las disposiciones de este Libro se aplicarán en la realización de requerimientos administrativos ambientales, actos de inspección y vigilancia, ejecución de medidas de seguridad, determinación de infracciones administrativas y sus sanciones, según corresponda, cuando se trate de asuntos regulados por el presente Código, reglamentos y demás disposiciones que del mismo deriven.
 
-I.- Cuando el testigo sea ciego;
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-II.- Cuando sea sordo o mudo; y
+ARTICULO 284 BIS.
 
-III.- Cuando ignore el idioma español.
+1. El requerimiento administrativo ambiental será formulado para verificar el cumplimiento de obligaciones formales por parte de las personas físicas o morales que cuenten con permisos, concesiones, autorizaciones o análogas, que deban ser presentadas periódicamente, o por única ocasión, ante la Secretaría.
+
+2. Se consideran obligaciones formales, entre otras, las siguientes:
+
+I. Cédulas de Operación Anual; altas, bajas y modificaciones;
+
+II. Planes de Manejo;
+
+III. Avisos de inicio, suspensión y conclusión de proyectos con autorización de impacto ambiental;
+
+IV. Documentación comprobatoria de condicionantes;
+
+V. Bitácoras; en el caso de aprovechamientos realizados al amparo de concesiones;
+
+VI. Cumplimiento de condicionantes; en los términos que se establezcan en el permiso, autorización, concesión o análogo, según se trate. En este supuesto, la sanción que, en su caso corresponda, se aplicará por cada una de las condicionantes incumplidas;
+
+VII. Estudios, tramites, autorizaciones de otras autoridades, y cualquier requisito establecido en las autorizaciones, concesiones, permisos o análogos, según se trate;
+
+VIII. Informes de cumplimiento de medidas correctivas o de urgente aplicación, con su documentación comprobatoria; y
+
+IX. Las que deriven de este Código y sus reglamentos, así como de los actos de autoridad emitidos por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 284 TER.
+
+1. El requerimiento administrativo ambiental es procedente cuando los obligados en la presentación de trámites ambientales, informes, documentación comprobatoria y demás obligaciones de carácter formal en términos del artículo 284 Bis sean omisos en presentarlos y se seguirá conforme al siguiente procedimiento:
+
+I. El procedimiento se inicia con un acuerdo de requerimiento al obligado para que en un término de quince días hábiles cumpla con la obligación formal omitida.
+
+En caso de que el requisito o trámite requiera la substanciación de un procedimiento administrativo ante autoridad diversa, bastará con la presentación del acuse de recibido del escrito o solicitud con la que se ha iniciado el trámite correspondiente para dar por cumplido el requerimiento;
+
+II. El acuerdo será notificado de manera personal en el domicilio del obligado o aquel que conste en el registro de la Secretaría, aplicando las reglas para las notificaciones establecidas por el artículo 290 Bis del presente Código;
+
+III. En caso de incumplimiento al requerimiento una vez transcurrido el plazo otorgado, sin mayor trámite se impondrá al obligado una de las sanciones establecidas por el artículo 304 del presente Código.
+
+2. En caso de que el infractor dé cumplimiento dentro del plazo otorgado, será considerado como atenuante al momento de imponer la sanción.
 
 ###### ARTICULO 285.
 
-En el caso de la fracción I del artículo anterior, el testigo designará persona que verifique su declaración, la que firmará junto con aquél.
+1. Las autoridades competentes podrán realizar, por conducto del personal debidamente autorizado, visitas de inspección para verificar el cumplimiento de este ordenamiento.
 
-En caso contrario, lo hará la autoridad, observando esta regla también cuando se trate del inculpado.
-
-En el supuesto de las fracciones II y III, se utilizarán intérpretes.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
-
-Cuando sea sordo, mudo o ambos, que sepa leer y escribir, se tomará y rendirá la protesta y declarará por escrito. Los que no sepan lo harán por signos siempre que éstos revelen hechos de fácil percepción y comprensión. En el supuesto de las fracciones II y III del artículo ya citado se utilizarán intérpretes.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+2. Dichas visitas podrán ser ordinarias, que se efectuarán en días y horas hábiles, y extraordinarias, que podrán efectuarse en todo momento.
 
 ###### ARTICULO 286.
 
-A todo testigo o perito, antes de comenzar su declaración se le recibirá la protesta de producirse con verdad bajo la fórmula establecida en el artículo 146 del presente Código, observándose lo dispuesto en el artículo 276 del citado ordenamiento.
+1. Para practicar una visita, los inspectores deberán contar con identificación vigente con fotografía, emitida por la autoridad administrativa correspondiente que los acredite para desempeñar dicha función, así como estar provistos de orden escrita con firma autógrafa expedida por la autoridad competente, debidamente fundada y motivada, en la que deberá señalarse zona o el lugar que habrá de inspeccionarse, el objeto de la visita y el alcance que deba tener ésta.
 
-A los menores de dieciocho años se les exhortará para que se conduzcan con verdad.
+2. Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de inspección, estarán obligados a permitir el acceso y dar facilidades e informes a los inspectores para el desarrollo de su labor.
+
+3. Al iniciar la visita, el inspector deberá identificarse debidamente y entregar copia autógrafa de la orden de inspección al propietario, responsable, encargado u ocupante del establecimiento y con dicha persona se entenderá la visita de inspección.
 
 ###### ARTICULO 287.
 
-Después de tomarle la protesta de decir verdad, se preguntará al testigo su nombre, apellido, edad, lugar de origen, nacionalidad, domicilio, estado civil, profesión u ocupación; si se halla ligado con el inculpado o el ofendido por vínculos de parentesco, amistad o cualquiera otros y si tiene algún motivo de odio o rencor contra alguno de ellos.
+1. Al iniciarse la inspección se levantará acta circunstanciada, en presencia de dos testigos propuestos por la persona con quien se entienda la visita; si éstos no son designados o los designados no aceptan servir como tales, los inspectores los designarán. Los designados como testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la inspección, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigos, en tales circunstancias la persona con la que se entienda la inspección deberá designar de inmediato otros y ante la negativa o impedimento de los designados, los inspectores podrán designar a quienes deban sustituirlos.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+2. La sustitución, concurrencia o ausencia de los testigos no afectará la validez de la visita, ni el acta, siempre y cuando el verificador haga constar la circunstancia en esta última.
+
+3. Se dejará copia del acta circunstanciada a la persona con quien se entendió la diligencia, aunque se hubiere negado a firmar, lo que no afectará la validez de la misma ni del documento de que se trate.
+
+4. En las actas se hará constar:
+
+I. Nombre, denominación o razón social del inspeccionado;
+
+II. Hora, día, mes y año en que se inicie y concluya la diligencia;
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+III. Calle, número, población, colonia, o alguna otra referencia para establecer su ubicación geográfica, así como, teléfono u otra forma de comunicación disponible, además; Municipio y código postal en que se encuentre ubicado el lugar donde se practique la visita;
+
+IV. Número y fecha del oficio que contenga la orden, así como autoridad que la expide;
+
+V. Nombre y cargo de la persona con quien se entendió la diligencia;
+
+VI. Nombre, domicilio y forma de identificación de las personas que fungieron como testigos;
+
+VII. Hechos circunstanciados referentes a la actuación;
+
+VIII. Manifestación del visitado, en su caso, si quiere hacerla o razón de su negativa; y,
+
+IX. Nombre y firma de quienes intervinieron en la diligencia incluyendo los de quien o quienes la hubieren llevado a cabo. Si se negaren a firmar el visitado o su representante legal, ello no afectará la validez del acta, debiendo el verificador asentar la razón relativa, en su caso.
+
+5. La persona con quien se entienda la visita, podrá formular observaciones al final de la misma, las cuales deberán quedar asentadas en el acta; asimismo, podrá ofrecer pruebas en relación a los hechos contenidos en ella, o bien ofrecerlas por escrito dentro del término de cinco días hábiles siguientes a la fecha en que se hubiere levantado.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 288.
 
-Los testigos declararán de viva voz observándose las reglas previstas en el artículo 275 de este Código, sin que les sea permitido leer las respuestas que llevan escritas; podrán ver algunas notas o documentos que llevaren, según la naturaleza de la causa, a juicio del Tribunal.
-
-El Ministerio Público y la defensa tendrán el derecho de interrogar al testigo; el Tribunal podrá disponer que los interrogatorios se hagan por su conducto, cuando el testigo sea menor de doce años; tendrá la facultad de desechar las preguntas a objeción de parte en términos del artículo 275 de este Código; además podrá interrogar al testigo sobre los puntos que estime convenientes.
+La Secretaría o los Ayuntamientos, en su caso, de conformidad con las disposiciones aplicables podrán verificar bienes, personas y vehículos de transporte con el objeto de comprobar el cumplimiento de las disposiciones legales, para lo cual se deberán cumplir, en lo conducente, las formalidades previstas para las visitas de verificación.
 
 ###### ARTICULO 289.
 
-Las declaraciones se redactarán con claridad, y usando hasta donde sea posible las mismas palabras empleadas por el testigo. Si éste quisiere dictar o escribir su declaración, se le permitirá hacerlo.
+La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o varias personas obstaculicen o se opongan a la práctica de las misma, sin demérito a las sanciones que correspondan.
 
 ###### ARTICULO 290.
 
-Si la declaración se refiere a algún objeto puesto en depósito, después de interrogar al testigo acerca de las señales que caracterizan dicho objeto, se le mostrará para que lo reconozca y firme sobre él si fuere posible.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Recibida el acta de inspección por la autoridad ordenadora, se requerirá al interesado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o urgentes necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, fundando y motivando el requerimiento, señalando el plazo que corresponda, y para que dentro del término de quince días hábiles exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes, en relación con la actuación de la Secretaría o los Ayuntamientos, cuando les corresponda.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. El tiempo para el desahogo de pruebas será de quince días. De ser el caso, y cuando la naturaleza de las pruebas lo amerite, la Secretaría o los Ayuntamientos, según corresponda, podrán acordar la ampliación para el desahogo de las pruebas.
+
+3. Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el párrafo anterior, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones, para que en un plazo tres días hábiles, presente por escrito sus alegatos. Sin importar que el interesado haya hecho uso o no de su derecho de ofrecer pruebas, la autoridad deberá acordar lo conducente.
+
+4. Una vez oído al presunto infractor, recibidas y desahogadas las pruebas que ofreciere, en caso de que el interesado no haya hecho uso del derecho que le concede el párrafo anterior dentro del plazo mencionado, se procederá a dictar la resolución administrativa que corresponda, dentro de los treinta días hábiles siguientes, misma que se notificará al interesado personalmente o por correo certificado.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 290 BIS.
+
+1. Las notificaciones de los actos administrativos dictados con motivo de la aplicación de este Código, se realizarán:
+
+I. Personalmente o por correo certificado con acuse de recibo, cuando se trate de emplazamientos y resoluciones administrativas definitivas, sin perjuicio de que la notificación de estos actos pueda efectuarse en las oficinas de las unidades administrativas competentes de la Secretaría, si las personas a quienes deba notificarse se presentan en las mismas. En este último caso, se asentará la razón correspondiente;
+
+II. Por lista, colocada en los estrados de la unidad administrativa competente, cuando la persona a quien deba notificarse no pueda ser ubicada después de iniciadas las facultades de inspección, vigilancia o verificación a las que se refiere el presente Título, o cuando no hubiera señalado domicilio en la población donde se encuentre ubicada la sede de la autoridad ordenadora;
+
+III. Por edicto, toda notificación cuando se desconozca el domicilio del interesado o, en su caso, cuando la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal o autorizado para tales efectos.
+
+Tratándose de actos distintos a los señalados en la fracción I de este artículo, las notificaciones podrán realizarse por correo ordinario, mensajería, telegrama o, previa solicitud por escrito del interesado, a través de telefax, medios de comunicación electrónica u otro similar o en las oficinas de las unidades administrativas de la Secretaría, si se presentan las personas que han de recibirlas a más tardar dentro del término de cinco días hábiles siguientes contados a partir del día en que se dicten los actos que han de notificarse. Lo anterior, sin perjuicio de que la autoridad ordenadora lo haga por lista, dentro del término de diez días hábiles contados a partir del día en que se dicten los actos que han de notificarse, el cual se fijará en lugar visible de las oficinas de las unidades administrativas de la Secretaría.
+
+Si los interesados, sus representantes legales o las personas autorizadas por ellos, no ocurren (sic) a las oficinas de las unidades administrativas de la Secretaría, a notificarse dentro del término señalado en el párrafo anterior, las notificaciones se darán por hechas, y surtirán sus efectos el día hábil siguiente al de la fijación de la lista.
+
+De toda notificación por lista se agregará, al expediente, un tanto de aquel, asentándose la razón correspondiente; y
+
+IV. Por instructivo, solamente en el caso señalado en el tercer párrafo del artículo 290 Ter del presente Código.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 290 TER.
+
+1. Las notificaciones personales se harán en el domicilio del interesado o en el último domicilio que la persona a quien se deba notificar haya señalado en la población donde se encuentre la sede de las unidades administrativas de la Secretaría, o bien, personalmente en el recinto oficial de éstas, cuando comparezcan voluntariamente a recibirlas en los dos primeros casos, el notificador deberá cerciorarse que se trata del domicilio del interesado o del designado para esos efectos y deberá entregar el original del acto que se notifique y copia de la constancia de notificación respectiva, así como señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en el acta de notificación, sin que ello afecte su validez.
+
+2. Las notificaciones personales, se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará en un lugar visible del mismo, o con el vecino más inmediato.
+
+3. Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla o, en su caso, de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio, o con el vecino más cercano, lo que se hará constar en el acta de notificación, sin que ello afecte su validez.
+
+4. De las diligencias en que conste la notificación, el notificador tomará razón por escrito.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 290 QUATER.
+
+Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un resumen de los actos por notificar. Dichas publicaciones deberán efectuarse por dos días consecutivos en el Periódico Oficial del Estado y en uno de los periódicos diarios de mayor circulación en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 290 QUINQUIES.
+
+1. Las notificaciones personales surtirán sus efectos el día en que hubieren sido realizadas. Los plazos empezarán a correr a partir del día hábil siguiente a aquel en que se haya surtido efectos la notificación.
+
+2. Se tendrá como fecha de notificación por correo certificado la que conste en el acuse de recibo.
+
+3. En las notificaciones por edictos se tendrá como fecha de notificación la de la última publicación en el Periódico Oficial del Estado y en uno de los periódicos diarios de mayor circulación en el Estado.
+
+4. Las notificaciones por lista surtirán sus efectos al día hábil siguiente al de la fijación del mismo.
 
 ###### ARTICULO 291.
 
-Si la declaración se refiere a un hecho que hubiese dejado vestigios permanentes en algún lugar, el testigo podrá ser conducido a él para que haga las explicaciones convenientes.
+1. En la resolución administrativa correspondiente se señalarán o, en su caso, adicionarán las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables.
+
+2. Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora haber dado cumplimiento a los términos del requerimiento respectivo. En los casos en que el infractor cumpla con las medidas ordenadas por la autoridad, o subsane las irregularidades que motivaron la imposición de la sanción, la autoridad podrá modificar o revocar la sanción impuesta. Para ello, el infractor no deberá ser reincidente.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 292.
 
-Concluida la diligencia, se leerá al testigo su declaración, o la leerá él mismo si quisiere, para que la ratifique o la enmiende. En seguida, el testigo firmará esa declaración.
+1. Los hechos que se conozcan con motivo del ejercicio de las facultades de vigilancia e inspección previstas en este Código, o bien que consten en los expedientes, documentos o bases de datos que lleven, tengan acceso o en su poder la Secretaría o los Ayuntamientos, en su caso, así como aquéllos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría o los Ayuntamientos, según sea el caso.
 
-Si no supiere o no quisiere firmar, se hará constar esta circunstancia.
+2. Cuando así proceda, la Secretaría o los Ayuntamientos, en su caso, harán del conocimiento del Ministerio Público la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
+
+## TITULO TERCERO
+
+### CAPITULO UNICO. DE LAS MEDIDAS DE SEGURIDAD
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 293.
 
-Siempre que se tome declaración a un menor de edad, a un pariente del inculpado o a cualquiera otra persona, que por circunstancias especiales sea sospechosa de falta de veracidad o de exactitud de su dicho, se hará constar esto en acta.
+1. En casos donde se presenten emergencias ecológicas o contingencias ambientales que no rebasen el territorio del Estado y no requieran de la acción exclusiva de la Federación o en casos de contaminación con repercusiones peligrosas para la salud humana, la biodiversidad, los ecosistemas y sus componentes, el titular de la Secretaría y los Ayuntamientos podrán ordenar como medida de seguridad la retención de sustancias o materiales contaminantes, la clausura temporal, parcial o total de las fuentes contaminantes y promoverán ante las autoridades competentes en los términos de las disposiciones aplicables, la ejecución de las medidas de seguridad que se establezcan para tal efecto.
+
+2. Cuando los ordenamientos a que se refiere el párrafo anterior, no incluyan medidas de seguridad para hacer frente a los riesgos de desequilibrio ecológico, la Secretaría o los Ayuntamientos previa opinión de las autoridades competentes, emitirán las disposiciones conducentes.
 
 ###### ARTICULO 294.
 
-Si de la instrucción aparecieren presunciones bastantes, para sospechar que algún testigo se ha producido con falsedad o se ha contradicho manifiestamente en sus declaraciones, será inmediatamente puesto a disposición del Ministerio Público; se mandarán compulsar las piezas conducentes para la averiguación del delito, y se formarán separadamente el proceso correspondiente, sin que por esto se suspenda la causa que se esté siguiendo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1998)</small>
+1. Cuando la Secretaría o los Ayuntamientos, en el ámbito de su competencia, estimen que existe riesgo inminente de desequilibrio ecológico, de daño o deterioro graves a los elementos y recursos naturales, o se realicen obras o actividades sin contar con la autorización de impacto ambiental o riesgo debiendo sujetarse a la obtención previa de ésta, casos de contaminación con repercusiones peligrosas para la salud de las personas, los ecosistemas o sus componentes, podrán ordenar alguna o algunas de las medidas de seguridad siguientes:
+
+I. La clausura temporal parcial o total, de las fuentes contaminantes, de las instalaciones en que se manejen o almacenen productos o subproductos de sustancias contaminantes, o se desarrollen las actividades que den lugar a los supuestos a que se refiere el presente artículo;
+
+II. El aseguramiento precautorio de materiales que se manejen en la realización de actividades riesgosas, así como de especimenes, bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que dé lugar a la imposición de la medida de seguridad;
+
+III. La neutralización o cualquier acción análoga para impedir que materiales que se manejen en la realización de actividades riesgosas, generen los efectos previstos en este artículo; y
+
+IV. La suspensión de obras o actividades.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La Secretaría o los Ayuntamientos, en su caso, podrán promover ante la autoridad competente la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
 
 ###### ARTICULO 295.
 
-Cuando hubiere la posibilidad o el riesgo de que se ausentare alguna persona que puede declarar acerca del delito, de sus circunstancias, o de la persona del inculpado, el Tribunal, a solicitud del reo, su defensor o la parte ofendida, podrá arraigar al testigo por el tiempo que fuere estrictamente indispensable para que rinda su declaración, sin que exceda de treinta días. Igualmente, el Ministerio Público tanto durante la averiguación previa como durante la instrucción, podrá solicitar al Juez el arraigo de testigos en el caso previsto en la primera parte.
+Cuando la autoridad competente ordene alguna de las medidas de seguridad a que se refiere el artículo anterior, indicará al interesado las acciones que deberán llevarse a cabo para subsanar las irregularidades, así como los plazos para su realización a fin de que una vez cumplidas se ordene el retiro de la medida de seguridad impuesta.
 
-Para la aplicación de lo ordenado en este artículo se deberá observar en lo conducente lo dispuesto por el numeral 139 de este Código y el Artículo 181 Bis del Código Penal del Estado.
+## TITULO CUARTO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+
+### CAPITULO I
+
+DISPOSICIONES GENERALES.
 
 ###### ARTICULO 296.
 
-Los tribunales tendrán en todo tiempo la facultad de hacer comparecer a los testigos, cuando éstos no cumplan con las prevenciones que se les hagan.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-### CAPITULO OCTAVO. CAREOS
+Para la imposición de las sanciones por infracciones a este Código, se tomará en cuenta:
+
+I. La gravedad de la infracción, considerando principalmente los siguientes criterios: impacto en la salud de las personas; generación de desequilibrios ecológicos; la afectación de recursos naturales o de la biodiversidad; y, en su caso, los niveles en que se hubieran rebasado los límites establecidos en las Normas Oficiales Mexicanas o las Normas Ambientales Estatales aplicables;
+
+II. Las condiciones económicas del infractor;
+
+III. La reincidencia, si la hubiere;
+
+IV. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción;
+
+V. El beneficio directamente obtenido por el infractor por los actos que motiven la sanción; y
+
+VI. El cumplimiento voluntario de las obligaciones ambientales.
+
+### CAPITULO III. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DEL AGUA
 
 ###### ARTICULO 297.
 
-Toda persona que tuviere que referirse a otra en su declaración o en cualquier otro acto, lo hará de un modo claro y preciso, que no deje duda respecto a la persona que señale, mencionando su nombre, apellido, domicilio y demás circunstancias que puedan darla a conocer.
+1. Solo tratándose del pago de multas la autoridad competente, podrá otorgar al infractor la opción para pagarla o de realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del medio ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. En los casos de infracciones a este Código que impliquen la reparación del daño causado al medio ambiente, la Secretaría o los Ayuntamientos, en su caso, no podrán establecer ninguna excepción o condonación al cumplimiento de las obligaciones correlativas.
 
 ###### ARTICULO 298.
 
-Cuando el que declare ignore los datos a que se refiere el artículo anterior, pero manifieste poder reconocer a la persona si se la presentan, se procederá a la confrontación.
-
-También se practicará esta diligencia, cuando el declarante asegure conocer a una persona y haya motivo para sospechar que no la conoce.
+Cuando proceda como sanción la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá en el acto a levantar acta circunstanciada de los hechos u omisiones encontrados en la que se deberá indicar al infractor las medidas correctivas o de urgente aplicación, las acciones que deberá llevar a cabo para subsanar las irregularidades que motivaron dicha sanción y los plazos para su realización.
 
 ###### ARTICULO 299.
 
-Al practicarse la confrontación, se observará:
+1. (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
-I.- Que la persona que sea objeto de ella no se disfrace, se desfigure, o borre las huellas o señales que puedan servir para que se la identifique;
-
-II.- Que el confrontado se presente acompañado de otros individuos vestidos con ropas semejantes, y aún con las mismas señas de él, si fuere posible; y
-
-III.- Que los individuos que acompañen a la persona que va a confrontarse, sean de condición análoga, atendiendo a su educación, modales y circunstancias especiales.
+2. Los Ayuntamientos regularán las sanciones administrativas por violaciones a los reglamentos que expidan en esta materia.
 
 ###### ARTICULO 300.
 
-Si alguna de las partes pidiere que se tomaran mayores precauciones que las prevenidas en el artículo anterior, podrá acordarlas la autoridad, siempre que no perjudiquen la verdad, ni aparezcan inútiles o maliciosas.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La Secretaría y los Ayuntamientos, en su caso, podrán establecer programas para el cumplimiento voluntario de las obligaciones ambientales fuera de los plazos señalados por los ordenamientos aplicables. Dicho cumplimiento no eximirá de la responsabilidad contraída por el infractor y de que, a través del procedimiento administrativo pertinente se le imponga la sanción que corresponda. En caso de que proceda la imposición de una multa esta podrá ser reducida entre un treinta a un sesenta por ciento en su monto de acuerdo a lo previsto en el presente Código, sobre la base de las características y gravedad de las obligaciones incumplidas.
+
+2. Se considerará que el cumplimiento no es voluntario en los siguientes casos:
+
+I. Exista cualquier procedimiento administrativo abierto por el cumplimento específico de dichas obligaciones;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+II. Se encuentre dentro del término de cinco días otorgados para manifestar lo que a su derecho convenga después de practicada una visita de inspección por parte de la Secretaría o los Ayuntamientos, en su caso;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+III. Se le haya dejado citatorio por parte de la Secretaría o el Ayuntamiento, en su caso, en el que se le informe la fecha y hora en la que se va practicar una visita de inspección;
+
+IV. Después de iniciado un trámite donde sea necesario o la autoridad le requiera comprobante del cumplimento de la obligación ambiental;
+
+V. Existan obligaciones incumplidas en materia de impacto ambiental; y
+
+VI. Cualquier otra que señale la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+3. La multa y el arresto administrativo podrán ser conmutados por trabajo comunitario en actividades de conservación de la vida silvestre y su hábitat natural.
 
 ###### ARTICULO 301.
 
-El que debe ser confrontado, podrá elegir el sitio en que quiera ser colocado entre sus acompañantes a esta diligencia, y pedir se excluya de la reunión a la persona que le parezca sospechosa.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-Queda al arbitrio de la autoridad acceder o negar tal petición.
+1. La Secretaría podrá solicitar a instituciones de educación superior, centros de investigación y de expertos reconocidos en la materia, la elaboración de dictámenes que serán considerados en la emisión de las resoluciones que pongan fin a los procedimientos administrativos a que se refiere este Código, así como en otros actos que realice la propia Secretaría.
+
+2. En caso de se acredite la infracción, el costo del dictamen solicitado será considerado al momento de establecer la sanción pecuniaria, cuando así proceda.
 
 ###### ARTICULO 302.
 
-La diligencia de confrontación se preparará colocando en fila a la persona que vaya a ser confrontada y a las que la acompañan.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-Se tomará al declarante la protesta de decir verdad, y se le interrogará acerca de:
+A solicitud de los interesados, la Secretaría y los Ayuntamientos, en su caso, podrán celebrar convenios en los que pongan fin a un procedimiento en concreto, siempre que concurran las siguientes condiciones:
 
-I.- Si persiste en su declaración anterior;
+I. Impliquen el incumplimiento de una norma imperativa, para la protección de la salud humana, el medio ambiente y el desarrollo sustentable;
 
-II.- Si conocía con anterioridad a la persona a quien atribuye el hecho; si la conoció en el momento de la ejecución que se averigua; y
+II. No sean contrarios al interés público; y
 
-III.- Si después de la ejecución del hecho la ha visto, en qué lugar, y por qué causa o motivo.
+III. No sean contrarios a la ley.
 
 ###### ARTICULO 303.
 
-Se conducirá entonces al declarante frente a las personas que formen fila; si hubiera afirmado conocer a aquella de cuya confrontación se trata, se le permitirá reconocerla detenidamente, y se le prevendrá que la señale en forma precisa.
+Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en este Código, sus Reglamentos y demás disposiciones aplicables, así como los que se obtengan del remate en subasta pública o la venta directa de los bienes decomisados, se destinarán a la integración de los fondos y fideicomisos establecidos en el presente ordenamiento para desarrollar programas vinculados con los objetos materia del mismo.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+### CAPITULO II
 
-Cuando la víctima, el ofendido o el testigo sean menores de edad, o se trate de delitos sexuales, delitos contra la libertad, secuestro o violencia familiar, la diligencia de confrontación se efectuará de tal manera que quien deba de identificar al inculpado no pueda ser visto por este. Tratándose de los demás delitos calificados como graves por el Artículo 16 Bis del Código Penal vigente en el Estado, a criterio de la autoridad competente la diligencia de confrontación podrá efectuarse en los términos anteriores. En ambos casos invariablemente deberá estar presente el defensor del inculpado Si la autoridad estima pertinente o si lo solicita cualquiera de las partes se puede vídeo grabar la diligencia.
+DE LAS SANCIONES POR ACTOS EN CONTRA DEL MEDIO AMBIENTE.
 
 ###### ARTICULO 304.
 
-Cuando sean varios los declarantes o las personas confrontadas, se verificarán tantos actos separados, cuantas sean las confrontaciones que deban hacerse.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+1. Las violaciones a los preceptos de este Código, sus reglamentos y demás disposiciones que del mismo deriven, constituyen infracción y serán sancionadas administrativamente por la Secretaría o los Ayuntamientos, en el ámbito de su competencia, de la siguiente forma:
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. Multa por el equivalente de treinta a cincuenta mil veces el valor diario de la Unidad de Medida y Actualización al momento de imponer la sanción;
+
+Para efectos de esta fracción, se consideran infracciones administrativas, entre otras, las siguientes:
+
+a) No presentar información solicitada por autoridad competente en materia ambiental;
+
+b) Incumplir con la presentación en tiempo y forma de la cédula de operación anual;
+
+c) Incumplir con las medidas de ahorro de agua potable;
+
+d) No presentar la cédula de operación anual en los términos solicitados por la Secretaría o los Ayuntamientos, cuando les corresponda;
+
+e) Trasplantar un árbol público o afectar negativamente áreas verdes o jardineras públicas, incluyendo las localizadas en banquetas y camellones, sin la autorización previa de la autoridad competente;
+
+f) Rebasar los límites permisibles de ruido, vibraciones, energía térmica y lumínica, vapores, gases u olores;
+
+g) No respetar los límites o disposiciones establecidos por autoridad competente, en materia de emisiones a la atmósfera por fuente fija;
+
+h) Operar sistemas o plantas de tratamiento sin cumplir con las condiciones particulares de descarga de aguas residuales;
+
+i) Construir una obra nueva, ampliar una existente o realizar nuevas actividades industriales, comerciales o de servicios, que puedan ocasionar un daño al medio ambiente, sin contar con resolutivo en materia de impacto ambiental;
+
+j) Obstruir la labor del personal autorizado al realizar la inspección ambiental fundamentada por orden escrita;
+
+k) Conducirse con falsedad en los informes preventivos, manifestaciones de impacto ambiental, estudios de riesgo o estudios de daños ambientales;
+
+l) No aplicar las medidas de urgente aplicación en tiempo y forma, impuestas como resultado del procedimiento de inspección ambiental;
+
+m) Realizar obras o actividades que dañen gravemente el medio ambiente o que pongan en peligro la salud de las personas;
+
+n) No reparar cuando se realicen obras o actividades afectadas de exploración, explotación o manejo de minerales o cualquier depósito del subsuelo, los daños ecológicos causados al suelo, subsuelo y estructuras geomorfológicas;
+
+o) No cumplir con los términos y condicionantes establecidas en el resolutivo de impacto ambiental, autorización, permiso, concesión o análogos emitidos por la Secretaría o el Ayuntamiento, según se trate. En este caso, se sancionará individualmente por cada término y condicionante incumplido;
+
+p) No cumplir con las obligaciones formales a que hace referencia el artículo 284 Bis de este Código; y
+
+q) Incumplir lo establecido en este Código, sus reglamentos y demás disposiciones que del mismo deriven.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+II. Clausura temporal o definitiva, parcial o total, cuando:
+
+a) El infractor hubiere incumplido dentro de los plazos y condiciones impuestos por la autoridad, con las medidas correctivas o de urgente aplicación ordenadas;
+
+b) En casos de reincidencia cuando las infracciones generen efectos adversos al ambiente o a la salud de las personas o al medio ambiente; o
+
+c) En casos de incumplimiento en tres o más ocasiones, a alguna o algunas medidas correctivas o de urgente aplicación impuestas por la autoridad.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+III. Arresto administrativo hasta por treinta y seis horas, en los siguientes casos:
+
+a) Cuando derivado de dos o más visitas de inspección en el transcurso de un año, el propietario, poseedor o responsable del establecimiento hubiere incumplido con las medidas técnicas y de seguridad que la autoridad respectiva haya decretado, y que con tal omisión se causara o hubiese causado grave deterioro ambiental con repercusiones graves para la salud de las personas o los ecosistemas; o
+
+b) Cuando habiéndose decretado como medida de seguridad una suspensión temporal parcial o total en los casos previstos por el presente Código, el propietario, poseedor o responsable del establecimiento no hubiese acatado tal medida, inclusive para el caso de rompimiento de sellos de clausura, sin perjuicio de la denuncia en su caso ante el Ministerio Público por el delito o delitos que resulten o pudiesen resultar.
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+IV. La revocación del permiso, licencia o autorización que en el ámbito de su competencia hubieren otorgado, cuando así lo amerite la naturaleza y gravedad de la infracción; y
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+V. El decomiso de los instrumentos, productos o subproductos directamente relacionados con infracciones relativas a lo dispuesto en el presente Código, cuando:
+
+a) El emplazado y directamente responsable, no presente el estudio de daño ambiental requerido en términos de lo dispuesto en el artículo 271 del presente Código. En este supuesto, en caso de haberse impuesto como medida de seguridad el aseguramiento, éstos se constituirán como bienes decomisados para hacer efectiva esta disposición, quedando sin materia el aseguramiento.
+
+b) Cuando los instrumentos, productos o subproductos, provengan de actividades ilícitas en términos del artículo 270, fracción II de este Código.
+
+VI. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
+
+VII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
+
+VIII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
+
+IX. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
+
+2. A su vez, la autoridad ambiental competente podrá solicitar a quien los hubiere otorgado, la suspensión, revocación, o cancelación de la concesión, permiso, licencia y, en general, de toda autorización otorgada para la realización de actividades comerciales, industriales o de servicios o para el aprovechamiento de recursos naturales que haya dado lugar a la sanción impuesta en términos de este artículo.
+
+3. La autoridad ordenadora podrá conmutar el arresto impuesto por multa, siempre y cuando se garantice, a juicio de la dependencia respectiva, el cumplimiento de las medidas correctivas que se hubiesen decretado.
+
+4. En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces el monto originalmente impuesto, sin exceder el doble del máximo permitido, así como la clausura definitiva. Son reincidentes las personas declaradas infractoras por haber incurrido en igual acto u omisión en un lapso no mayor de cinco años.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 304 BIS.
+
+1. Cuando proceda como sanción el decomiso o la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, observando las disposiciones aplicables a la realización de inspecciones.
+
+2. En el caso de decomiso, se requerirá al depositario la entrega o puesta a disposición de los bienes ante la Secretaría o Ayuntamiento, según se trate, quien una vez que cause estado la resolución que ordena el decomiso, procederá en términos del artículo 304 Ter.
+
+3. En los casos en que se imponga como sanción la clausura temporal, la Secretaría deberá indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 304 TER.
+
+1. La Secretaría dará a los bienes decomisados alguno de los siguientes destinos:
+
+I. Venta a través de invitación a cuando menos tres compradores, en aquellos casos en que el valor de lo decomisado no exceda de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de imponer la sanción. Si dichos invitados no comparecen el día señalado para la venta o sus precios no fueren aceptados, la autoridad podrá proceder a su venta directa;
+
+II. Remate en subasta pública cuando el valor de lo decomisado exceda de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de imponer la sanción;
+
+III. Donación a organismos públicos e instituciones científicas o de enseñanza superior o de beneficencia pública, según la naturaleza del bien decomisado y de acuerdo a las funciones y actividades que realice el donatario, siempre y cuando no sean lucrativas, o
+
+IV. Destrucción cuando las condiciones del bien lo justifiquen.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+ARTICULO 304 QUATER.
+
+1. Para efectos de lo previsto en las fracciones I y II del artículo anterior, únicamente serán procedentes dichos supuestos, cuando los bienes decomisados sean susceptibles de apropiación, conforme a las disposiciones jurídicas aplicables.
+
+2. En la determinación del valor de los bienes sujetos a remate o venta, la Secretaría considerará el precio que respecto de dichos bienes corra en el mercado, al momento de realizar la operación.
+
+3. En ningún caso, los responsables de la infracción que hubiera dado lugar al decomiso podrán participar ni beneficiarse de los actos señalados en el artículo 304 Ter de este Código, mediante los cuales se lleve a cabo la enajenación de los bienes decomisados.
+
+### CAPITULO III
+
+DE LAS SANCIONES POR EL MANEJO DE RESIDUOS.
 
 ###### ARTICULO 304 Bis.
 
 Tratándose del reconocimiento de una persona ausente mediante fotografías, dibujos o videos, se le mostrará a quien debiera hacer el reconocimiento junto con otras fotografías, dibujos o videos, que correspondan a individuos con apariencia semejante a aquélla, siguiéndose en lo conducente las disposiciones anteriores.
 
-### CAPITULO NOVENO. VALOR JURIDICO DE LA PRUEBA
+### CAPITULO IV. DE LA CONTAMINACION DEL SUELO Y SUBSUELO
 
 ###### ARTICULO 305.
 
-Con excepción de los mencionados en la fracción IV del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, los careos se practicarán cuando exista contradicción en las declaraciones de dos personas, pudiendo repetirse cuando el tribunal lo estime oportuno o cuando surjan nuevos puntos de contradicción.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+Las violaciones a los preceptos del Libro Tercero del presente ordenamiento, sus reglamentos y demás disposiciones que del mismo deriven, constituyen infracción y serán sancionadas administrativamente por la Secretaría o los Ayuntamientos, en el ámbito de sus competencias, de la siguiente forma:
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. Multa por el equivalente de 20 a 50 mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de imponer la sanción.
+
+Para efectos de esta fracción, se consideran infracciones administrativas, entre otras, las siguientes:
+
+a) Depositar, incentivar, abandonar, derramar o quemar residuos sólidos urbanos en bienes de uso común, caminos, carreteras, derechos de vía, lotes baldíos, predios de propiedad privada y cuerpos o corrientes de agua de competencia estatal;
+
+b) Rebasar los límites o disposiciones establecidos por autoridad competente, en materia de descargas de aguas residuales o que como consecuencia de su acción se perjudiquen las redes de drenaje y alcantarillado o cuerpos receptores de los Municipios;
+
+c) Operar sistemas o plantas de tratamiento sin cumplir con las condiciones particulares de descarga de aguas residuales;
+
+d) Generar, manejar o disponer residuos de manejo especial sin previa autorización;
+
+e) Depositar, incentivar, abandonar, derramar o quemar residuos de manejo especial en bienes de uso común, caminos, carreteras, derechos de vía, lotes baldíos, predios de propiedad privada y cuerpos o corrientes de agua de competencia estatal;
+
+f) Autorizar el uso para la disposición de residuos de manejo especial o sólidos urbanos sin la autorización de la Secretaría;
+
+g) Desarrollar cualquiera de las etapas de manejo de residuos de manejo especial y/o sólidos urbanos, sin contar con la autorización de la Secretaría o el Ayuntamiento, según corresponda;
+
+h) Incumplir con los términos y condicionantes establecidos en las autorizaciones otorgadas para desarrollar cualquiera de las etapas de manejo de residuos de manejo especial y/o sólidos urbanos, según corresponda. En este caso, se sancionará individualmente cada incumplimiento; e
+
+i) Incumplir con lo dispuesto en el Libro Tercero de este ordenamiento, sus reglamentos y demás disposiciones que del mismo deriven.
+
+II. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
+
+III. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
+
+### CAPITULO IV. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS POR ACTOS EN CONTRA DE LAS AREAS NATURALES PROTEGIDAS
 
 ###### ARTICULO 306.
 
-Los careos serán únicamente de un testigo con otro, con el procesado o con el ofendido; a estas diligencias no concurrirán más personas que las que deban carearse, las partes, sus representantes o defensores, y los intérpretes si fuere necesario.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-En esta diligencia queda prohibida la intervención de cualquiera persona distinta de los careados.
+Las violaciones a los preceptos del Libro Cuarto del presente ordenamiento, sus reglamentos y demás disposiciones que del mismo deriven, constituyen infracción y serán sancionadas administrativamente por la Secretaría o los Ayuntamientos, en el ámbito de sus competencias, de la siguiente forma:
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+I. Multa por el equivalente de 30 a 50 mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de imponer la sanción.
+
+Se consideran infracciones administrativas, entre otras, las siguientes:
+
+a) Realizar obras o actividades de explotación o aprovechamiento de recursos, que no estén autorizadas, en áreas naturales protegidas de competencia estatal;
+
+b) Ocasionar, por acción u omisión, un daño sobre cualquier área natural protegida de competencia estatal;
+
+c) Realizar obras y/o actividades, dentro de áreas naturales protegidas de competencia estatal, sin contar con el dictamen de conveniencia emitido por la Secretaría; y
+
+d) Todas aquellas que deriven de la aplicación de este Código, sus reglamentos y demás disposiciones que del mismo deriven.
+
+II. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2021)
+
+### CAPITULO V. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS POR ACTOS EN CONTRA DE LA VIDA SILVESTRE
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 307.
 
-No se podrá practicar más de un careo en una sola diligencia de este tipo; en caso contrario, ésta será nula.
+Las violaciones a los preceptos del Libro Quinto del presente ordenamiento, sus reglamentos y demás disposiciones que del mismo deriven, constituyen infracción y serán sancionadas administrativamente por la Secretaría o los Ayuntamientos, conforme a lo que se establezca en los Convenios de Colaboración y Coordinación que estos celebren con la Federación, referentes a la materia de protección a la Vida Silvestre.
+
+# LIBRO OCTAVO. DE LOS MEDIOS DE IMPUGNACION
+
+## TITULO UNICO
+
+### CAPITULO I. DEL RECURSO DE REVISION
 
 ###### ARTICULO 308.
 
-Los careos, salvo los exceptuados en el artículo 305 de este código, se practicarán dando lectura a las declaraciones que se reputen contradictorias, llamando la atención de los careados sobre sus contradicciones, a fin de que discutan entre sí y pueda aclararse la verdad.
+1. Los actos y resoluciones dictados con motivo de la aplicación de este Código, sus reglamentos y demás disposiciones relativas, podrán ser recurridas por los interesados en el término de quince días hábiles siguientes a la fecha de su notificación.
+
+2. El recurso se presentará ante el órgano o la unidad administrativa que emitió el acto o resolución.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 309.
 
-Cuando, por cualquier motivo, no pudiere obtenerse la comparecencia de alguno de los que deban ser careados, se practicará careo supletorio, leyéndose al presente la declaración del otro, y haciéndole notar las contradicciones que hubiere entre aquélla y lo declarado por él.
+El recurso de revisión se interpondrá por escrito debiendo el promovente depositar fianza de garantía suficiente para garantizar el acto o la resolución impugnada, ante el titular de la Secretaría, en el caso del Estado, y ante el Presidente Municipal respectivo, en el caso de los Ayuntamientos, sin perjuicio de lo que en esta materia dispongan los bandos, ordenanzas, reglamentos municipales, personalmente o por correo certificado con acuse de recibo, en cuyo caso se tendrá como fecha de presentación la del día en que el escrito correspondiente se haya depositado en el Servicio Postal Mexicano.
 
-Si los que deban carearse estuvieren fuera del Estado, se librará el exhorto correspondiente.
-
-### CAPITULO PRIMERO. PROCEDIMIENTO SUMARIO
+### CAPITULO V. DE LAS ACTIVIDADES RIESGOSAS
 
 ###### ARTICULO 310.
 
-Los jueces y tribunales apreciarán las pruebas con sujeción a las reglas de este capítulo.
+En el escrito de interposición del recurso de revisión, el interesado deberá expresar lo siguiente:
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+I. El órgano administrativo a quien se dirige;
+
+II. El nombre del recurrente; y del tercero perjudicado si lo hubiere, así como el domicilio que señale para oír y recibir notificaciones y documentos;
+
+III. El acto o resolución administrativo que impugna, así como la fecha en que fue notificado de la misma o bien tuvo conocimiento de esta;
+
+IV. La autoridad emisora de la resolución que recurre;
+
+V. La descripción de los hechos antecedentes de la resolución que se recurre;
+
+VI. Los agravios que le causan y los argumentos de derecho en contra de la resolución que se recurre; y
+
+VII. Las pruebas que se ofrezcan, relacionándolas con los hechos que se mencionan.
 
 ###### ARTICULO 311.
 
-La confesión tendrá valor probatorio pleno, sólo cuando concurran los siguientes requisitos:
+Con el recurso de revisión se deberán acompañar los siguientes documentos:
 
-I.- Que sea hecha por persona no menor de dieciocho años cumplidos, capaz de entender y de querer y con pleno conocimiento de la causa que se le instruye;
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
 
-II.- Que sea de hecho propio y en su contra;
+I. Los que acrediten la personalidad del promovente, cuando actúe en nombre de otro o de persona moral;
 
-III.- Que se hubiera rendido con asistencia del defensor, ante el Ministerio Público que practicó la investigación o ante el Juez o Tribunal de la causa;
+II. La notificación del acto impugnado; si la notificación fue por edictos se deberá acompañar la última publicación o la manifestación bajo la protesta de decir verdad de la fecha en que tuvo conocimiento de la resolución;
 
-IV.- Que se hubiera rendido sin el empleo de incomunicación, intimidación, tortura o cualquier otro medio de coacción o de violencia física o moral; y
+III. Aquellos en los que conste el acto o la resolución recurrida, cuando dicha actuación haya sido por escrito, o tratándose de actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse por escrito de iniciación del procedimiento, o el documento por el cual no hubiere recaído resolución alguna; y
 
-V.- Que no existan datos que, a juicio del Juez o Tribunal, la hagan inverosímil.
-
-La Policía Judicial podrá rendir informes pero no obtener confesiones; si lo hace, éstas carecerán de todo valor probatorio.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+IV. Las pruebas que se acompañen, junto con el pliego de posiciones, en su caso.
 
 ###### ARTICULO 312.
 
-El valor de los registros obtenidos con la reproducción de imágenes o sonidos, o mediante el uso de sistemas de informática, ordenados por el Juez de la causa y registrados en su presencia o utilizados ante los Jueces de Preparación de lo Penal y del Juicio Oral Penal, harán prueba plena, excepto si se comprueba que fueron alterados; y para tal efecto deberán tener la certificación judicial que acredite la fecha, hora y lugar de realización, y el nombre de los funcionarios y demás personas que hubieren intervenido, lo que deberá hacerse constar en acta que será firmada por el Secretario.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. El promovente podrá ofrecer como medios de prueba, los que estime conducentes a la demostración de sus pretensiones, salvo la confesional de la autoridad y los testimoniales siendo admisibles cualesquiera que sean adecuados para que produzcan convicción en el titular de la Secretaría o el Presidente Municipal, en su caso.
+
+2. Son admisibles los siguientes medios de prueba:
+
+I. Documentos públicos y privados;
+
+II. Dictámenes periciales;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+III. Reconocimiento, examen o inspección del titular de la Secretaría o el Presidente Municipal, cuando le corresponda;
+
+IV. Fotografías, copias fotostáticas, registros dactiloscópicos, reproducciones, experimentos y, en general, todos aquellos elementos aportados por la ciencia;
+
+V. Informes de las autoridades; y,
+
+VI. Presunciones.
 
 ###### ARTICULO 313.
 
-Los documentos públicos harán prueba plena, salvo el derecho de las partes para redargüirlos de falsedad, y para pedir su cotejo con los protocolos o con los originales existentes en los archivos.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+1. Dentro de los diez días hábiles siguientes, contados a partir de la presentación del recurso, el titular de la Secretaría y el Presidente Municipal, en caso de los Ayuntamientos, deberá proveer sobre la admisión, prevención o desechamiento del recurso, lo cual deberá notificársele al recurrente personalmente.
+
+2. Si se admite el recurso a trámite, deberá pronunciarse respecto al desahogo y en su caso admisión de las probanzas ofrecidas.
+
+3. Se desechará el recurso, cuando:
+
+I. El escrito de interposición no contenga la firma autógrafa o huella digital del promovente;
+
+II. En caso de no haberse presentado en el tiempo establecido para hacerlo;
+
+III. Si encontrare motivo manifiesto de improcedencia; y
+
+IV. Cuando prevenido el recurrente para que aclare o complete el recurso, no lo hiciere.
 
 ###### ARTICULO 314.
 
-Son documentos públicos los que señale como tales el Código de Procedimientos Civiles vigente en el Estado, o cualquier otra Ley Estatal o Federal, así como los registros de videograbación, audiograbación o cualquier medio apto para producir fe que permita garantizar la fidelidad e integridad de la información, así como la conservación, la reproducción de su contenido y el acceso a los mismos autentificados por el Secretario del Juez.
+1. La interposición del recurso suspenderá la ejecución del acto impugnado, siempre y cuando:
+
+I. Lo solicite expresamente el recurrente;
+
+II. Se admita el recurso;
+
+III. No contravenga disposiciones de orden público;
+
+IV. No se ocasionen daños o perjuicios a terceros, a menos que se garanticen éstos para el caso de no obtener resolución favorable; y
+
+V. Tratándose de la imposición de sanciones económicas, el recurrente garantice su importe en términos de lo previsto por la legislación aplicable.
+
+2. Tratándose de medidas de seguridad no procederá la suspensión de las mismas en caso de interposición del recurso.
 
 ###### ARTICULO 315.
 
-Para que se reputen auténticos los documentos públicos procedentes del extranjero, deberán ser legalizados por el representante autorizado para atender los asuntos de la República, en el lugar donde sean expedidos.
+Es improcedente el recurso:
+
+I. Contra actos o resoluciones que hayan sido impugnados en un anterior recurso administrativo o en un proceso jurisdiccional;
+
+II. Contra actos o resoluciones que no afecten intereses jurídicos del recurrente;
+
+III. Contra actos o resoluciones que se hayan consentido expresamente por el recurrente, mediante manifestaciones escritas de carácter indubitable;
+
+IV. Cuando de las constancias de autos se desprende que no existe el acto impugnados (sic); y
+
+V. Por haber dejado de existir el objeto o materia del mismo.
 
 ###### ARTICULO 316.
 
-Cuando no haya representante mexicano en el lugar donde se expidan los documentos públicos y, por tanto, los legalice el representante de una nación amiga, la firma de este representante deberá ser legalizada por el cónsul de esa nación, que resida en la capital del Estado, y, en su caso, por el ministro o cónsul que resida en la capital de la República.
+Será sobreseído el recurso cuando:
+
+I. El recurrente se desista expresamente;
+
+II. Durante el procedimiento sobreviniere alguna de las causas de improcedencia del recurso;
+
+III. El recurrente fallezca durante el procedimiento, siempre que el acto sólo afecte sus derechos estrictamente personales;
+
+IV. La autoridad haya satisfecho claramente las pretensiones del recurrente; y
+
+V. En los demás casos en que por disposición legal haya impedimento para emitir resolución que decida el asunto planteado.
 
 ###### ARTICULO 317.
 
-Los documentos privados sólo harán prueba contra su autor, si fueren judicialmente reconocidos por él o no los hubiere objetado a pesar de saber que figuran en el proceso. Los provenientes de un tercero serán estimados como presunciones.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. El titular de la Secretaría o el Presidente Municipal, en el caso de los Ayuntamientos, emitirá la resolución del recurso dentro de los 20 días hábiles siguientes al término del periodo para la formulación de los alegatos.
+
+2. La resolución que confirme, modifique o revoque el acto o la resolución recurrida, se fundarán en derecho y examinará todos los agravios hechos valer por el recurrente. Cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
+
+3. Dicha resolución se notificará al interesado, personalmente o por correo certificado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+### CAPITULO II. DEL JUICIO DE NULIDAD ANTE EL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 318.
 
-Los documentos privados, comprobados por testigos, se considerarán como prueba testimonial.
+Contra el acuerdo o la resolución del recurso de revisión que ponga fin al mismo, emitidos por la autoridad administrativa correspondiente, el interesado podrá interponer el juicio de nulidad ante el Tribunal de Justicia Administrativa del Estado.
 
 ###### ARTICULO 319.
 
-Los tribunales apreciarán los dictámenes periciales según las circunstancias del caso.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+1. El juicio de nulidad se interpondrá ante el Tribunal de Justicia Administrativa del Estado, dentro de los plazos y en los términos establecidos en la Ley del Procedimiento Contencioso Administrativo del Estado de Tamaulipas.
+
+2. (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 320.
 
-Tratándose de lesiones, el Tribunal valorará los dictámenes periciales que se hayan practicado dentro del procedimiento hasta antes de declarar cerrada la instrucción para su clasificación legal.
+Para la tramitación del juicio de nulidad se estará a lo dispuesto en la Ley del Procedimiento Contencioso Administrativo del Estado de Tamaulipas.
+
+## TRANSITORIOS
 
 ###### ARTICULO 321.
 
@@ -2917,13 +5477,11 @@ El servidor público que expida la certificación deberá reservar la identidad 
 
 Los tribunales expondrán en sus resoluciones los razonamientos que hayan tomado en cuenta, para otorgar eficacia jurídica a las pruebas que no la tengan específicamente señalada en este capítulo.
 
-## TITULO QUINTO. INSTRUCCION
+## TITULO QUINTO. DE LAS NORMAS AMBIENTALES ESTATALES
 
-PRIMERA PARTE
+### CAPITULO UNICO
 
-PROCEDIMIENTOS
-
-### CAPITULO SEGUNDO. DEL PROCEDIMIENTO ORDINARIO
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 328.
 
@@ -2979,7 +5537,7 @@ Cuando en el curso del juicio sumario apareciere que no se dan los supuestos del
 
 Las resoluciones en el juicio sumario no admiten más recurso que el de apelación, tratándose de auto de plazo constitucional, y de sentencia definitiva, en los términos contemplados en este código.
 
-### CAPITULO TERCERO. PROCEDIMIENTOS ANTE LOS ALCALDES JUDICIALES
+### CAPITULO UNICO. DEL OBJETO
 
 ###### ARTICULO 338.
 
@@ -2993,17 +5551,15 @@ Dictado el auto de plazo constitucional, se ordenará poner el proceso a la vist
 
 Transcurridos los plazos a que se refiere el artículo anterior, o si no se hubiere promovido prueba, el Juez declarará cerrada la instrucción y abrirá el período de juicio.
 
-### CAPITULO PRIMERO. CONCLUSIONES
+### CAPITULO UNICO. DE LAS AUTORIDADES Y SUS FACULTADES
 
 ###### ARTICULO 341.
 
 (DEROGADO, P.O. 28 DE JULIO DE 1995)
 
-## TITULO SEXTO. JUICIO
+## TITULO SEXTO. DE LA INFORMACION AMBIENTAL
 
-### CAPITULO SEGUNDO. AUDIENCIA DE VISTA
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+### CAPITULO I. DE LOS PROGRAMAS ESTATAL Y MUNICIPALES PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS
 
 ###### ARTICULO 342.
 
@@ -3069,7 +5625,7 @@ Si el Procurador confirma las conclusiones de no acusación, el juez, al recibir
 
 Si la defensa no formula conclusiones en el plazo señalado en el artículo 342 de este código, se tendrán por formuladas las de inculpabilidad.
 
-### CAPITULO TERCERO. SENTENCIA
+### CAPITULO II. DE LOS PLANES DE MANEJO
 
 ###### ARTICULO 354.
 
@@ -3107,15 +5663,15 @@ Cuando el juez, después de la vista, creyere necesaria para ilustrar su criteri
 
 El auto que decrete diligencias para mejor proveer suspenderá el plazo para dictar sentencia y no admitirá recurso alguno.
 
-### CAPITULO CUARTO. ACLARACION DE SENTENCIA
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 360.
 
 La sentencia se pronunciará de acuerdo con lo previsto en el artículo 104 de este código.
 
-### CAPITULO QUINTO. SOBRESEIMIENTO
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1991)</small>
+### CAPITULO II. DE SU CLASIFICACION
 
 ###### ARTICULO 361.
 
@@ -3151,7 +5707,7 @@ Contra la resolución que se dicte otorgando o negando la aclaración, no proced
 
 El trámite de la aclaración interrumpe el plazo señalado para interponer la apelación.
 
-### CAPITULO PRIMERO. REGLAS GENERALES
+### CAPITULO III. DE LAS OBLIGACIONES GENERALES
 
 ###### ARTICULO 369.
 
@@ -3217,9 +5773,9 @@ El inculpado a cuyo favor se haya decretado el sobreseimiento será puesto en ab
 
 El auto de sobreseimiento surtirá efectos de una sentencia absolutoria, y una vez ejecutoriado tendrá el valor de cosa juzgada.
 
-## TITULO SEPTIMO. RECURSOS
+## TITULO SEPTIMO. DE LA CONCIENTIZACIÓN SOCIAL
 
-### CAPITULO SEGUNDO. REVOCACION
+### CAPITULO I. DE LAS AUTORIZACIONES
 
 ###### ARTICULO 375.
 
@@ -3235,7 +5791,7 @@ La negativa a firmar o estampar sus huellas digitales, se entenderá como inconf
 
 No procederá ningún recurso cuando la parte se hubiere conformado expresamente con una resolución, o cuando no interponga el recurso dentro de los términos que la Ley señale.
 
-### CAPITULO TERCERO. APELACION
+### CAPITULO II. DE LA REDUCCION, SEPARACION Y APROVECHAMIENTO
 
 ###### ARTICULO 378.
 
@@ -3251,7 +5807,7 @@ El recurso se interpondrá en el acto de la notificación, o al día siguiente h
 
 El tribunal ante quien se interponga el recurso, lo admitirá o desechará de plano si creyere que no es necesario oír a las partes, en caso contrario, las citará a una audiencia verbal dentro de 3 días, en la que pronunciará la resolución que corresponda, contra la cual no se admite recurso alguno.
 
-### CAPITULO CUARTO. DENEGADA APELACION
+### CAPITULO III. DE LA RECOLECCION Y TRANSPORTE
 
 ###### ARTICULO 381.
 
@@ -3465,7 +6021,9 @@ Cuando la sala notare que el defensor ha faltado a sus deberes, no interponiendo
 
 Si el defensor fuere de oficio, el Magistrado además estará obligado a llamar la atención al superior de aquél, sobre la negligencia o ineptitud manifestada.
 
-### CAPITULO QUINTO. QUEJA
+### CAPITULO IV. DE LA VALORIZACION DE LOS RESIDUOS
+
+#### SECCION PRIMERA. DEL RECICLAJE
 
 ###### ARTICULO 401.
 
@@ -3505,7 +6063,7 @@ Las partes podrán presentar por escrito, dentro de este plazo, sus alegatos.
 
 Si la admisión del recurso de apelación se declara procedente, la resolución respectiva, que deberá señalar también él o los efectos, se enviará al juez para su cumplimiento.
 
-### CAPITULO SEXTO. SENTENCIA EJECUTORIA
+### CAPITULO I. DE LA PREVENCION Y CONTROL DE SITIOS
 
 ###### ARTICULO 409.
 
@@ -3517,7 +6075,7 @@ La Sala a que corresponda substanciar el recurso, en el término de 48 horas, le
 
 Transcurrido este término, con informe o sin él, se dictará la resolución que proceda y si estima fundado el recurso, la Sala requerirá al juez para que cumpla con las obligaciones determinadas en el artículo 195. La falta de informe a que se refiere el párrafo anterior, establece la presunción de ser cierta la omisión atribuida, y hará incurrir al juez en multa de 10 a 100 cuotas.
 
-### CAPITULO PRIMERO. COMPETENCIA OBJETIVA
+### CAPITULO II. DE LA REMEDIACION DE SITIOS CONTAMINADOS
 
 ###### ARTICULO 410.
 
@@ -3529,9 +6087,9 @@ II.- Aquéllas contra las cuales no conceda la ley recurso alguno; y
 
 III.- Las sentencias de segunda instancia.
 
-## TITULO OCTAVO
+## TITULO OCTAVO. DE LA PARTICIPACION SOCIAL
 
-### CAPITULO SEGUNDO. COMPETENCIA SUBJETIVA
+### CAPITULO UNICO. DEL OBJETO
 
 ###### ARTICULO 411.
 
@@ -3605,7 +6163,7 @@ Ningún tribunal podrá sostener competencia con su superior jerárquico, pero s
 
 Los conflictos de jurisdicción que se susciten entre los tribunales del Estado y los de la Federación o los de otra Entidad Federativa, se sustanciarán de acuerdo con las disposiciones relativas del Código Federal de Procedimientos Penales.
 
-### CAPITULO TERCERO. SUSPENSION DEL PROCEDIMIENTO
+### CAPÍTULO ÚNICO
 
 ###### ARTICULO 428.
 
@@ -3735,7 +6293,7 @@ Si en la sentencia fuere desechada la recusación, pagará el que la interpuso u
 
 De esta multa, será solidariamente responsable el que hubiere patrocinado al recusable.
 
-### CAPITULO PRIMERO. ACUMULACION DE PROCESOS
+### CAPITULO I. DE LAS DECLARATORIAS
 
 ###### ARTICULO 449.
 
@@ -3795,9 +6353,9 @@ El tribunal resolverá de plano sobre la suspensión del procedimiento, con la s
 
 En el caso de la fracción II del mismo artículo, cuando lo solicite el inculpado resolverá con audiencia del Ministerio Público.
 
-## TITULO NOVENO. INCIDENTES
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO SEGUNDO. SEPARACION DE PROCESOS
+### CAPITULO II. DEL SISTEMA ESTATAL DE AREAS NATURALES PROTEGIDAS
 
 ###### ARTICULO 454.
 
@@ -3861,7 +6419,7 @@ El incidente de acumulación se substanciará por separado.
 
 Serán aplicables las disposiciones de este capítulo a las averiguaciones que se consignen a los tribunales, aún cuando no exista auto de formal prisión o de sujeción a proceso.
 
-### CAPITULO TERCERO. REPARACION DE DAÑO Y PERJUICIO EXIGIBLE A TERCERAS PERSONAS
+### CAPITULO III. DE LOS PROGRAMAS DE MANEJO
 
 ###### ARTICULO 465.
 
@@ -3893,7 +6451,7 @@ El auto en que se decrete la separación, sólo es apelable en el efecto devolut
 
 Cuando varios tribunales conocieren de procesos cuya separación se hubiere decretado, el que primero pronuncie sentencia ejecutoria la comunicará a los otros; éstos dictarán su fallo, de acuerdo con lo que dispone el código penal para la imposición de sanciones en caso de concurso y de reincidencia.
 
-### CAPITULO CUARTO. INCIDENTES NO ESPECIFICADOS
+### CAPITULO UNICO
 
 ###### ARTICULO 471.
 
@@ -3933,7 +6491,7 @@ El fallo condenatorio en este incidente será apelable en ambos efectos, pudiend
 
 La sentencia condenatoria será ejecutada por el propio juez, que deberá ajustarse a las disposiciones sobre ejecución de sentencia del Código de Procedimientos Civiles.
 
-### CAPITULO QUINTO. INCIDENTE DE LIBERTAD POR DESVANECIMIENTO DE DATOS
+### CAPITULO UNICO
 
 ###### ARTICULO 480.
 
@@ -3973,11 +6531,11 @@ Cuando en opinión del Ministerio Público se hayan desvanecido los datos que si
 
 La resolución que declare procedente este incidente, tendrá los mismos efectos del auto de libertad por falta de méritos, quedando expedita la acción del Ministerio Público, para pedir de nuevo la aprehensión del inculpado si aparecieren nuevos datos que lo ameriten, así como nueva formal prisión del mismo.
 
-## TITULO DECIMO. PROCEDIMIENTO RELATIVO A LOS ENFERMOS MENTALES Y SORDOMUDOS
+## TITULO SEGUNDO. DE LA DISTRIBUCION Y COORDINACION DE COMPETENCIAS
 
-### CAPITULO PRIMERO. LIBERTAD PROVISIONAL BAJO CAUCION
+### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 487.
 
@@ -4027,9 +6585,9 @@ Serán apelables las resoluciones que concluyan las dos etapas del procedimiento
 
 No procederá recurso alguno contra cualquier auto o resolución distintos a los anteriores, dictados en el procedimiento especial.
 
-## TITULO DECIMO PRIMERO. DE LAS LIBERTADES
+## TITULO TERCERO. DEL APROVECHAMIENTO SUSTENTABLE DE LOS RECURSOS NATURALES
 
-### CAPITULO PRIMERO. REGLAS COMUNES
+### CAPITULO I. DE LAS ESPECIES Y POBLACION EN RIESGO Y PRIORITARIAS PARA LA CONSERVACION
 
 ###### ARTICULO 493.
 
@@ -4259,9 +6817,9 @@ Cuando un tercero haya constituido depósito, fianza o hipoteca para garantizar 
 
 Para revocar la libertad caucional siempre se deberá oír previamente al Ministerio Público. También se oirá, en su caso, al procesado o su defensor o al fiador, en las hipótesis previstas en las fracciones I y III del artículo 505, y III del 506 de este código.
 
-## TITULO DECIMO SEGUNDO. EJECUCION DE SENTENCIAS
+## TITULO CUARTO. DE LA PROTECCION Y REGULACION AMBIENTAL
 
-### CAPITULO SEGUNDO. LIBERTAD PREPARATORIA
+### CAPITULO II. DEL HABITAT CRITICO PARA LA CONSERVACION DE LA VIDA SILVESTRE
 
 ###### ARTICULO 512.
 
@@ -4321,9 +6879,9 @@ En lo no previsto a ese respecto por el presente artículo, el Juez se ajustará
 
 Las resoluciones dictadas en ejecución de sentencia para la reparación y perjuicio no admiten recurso alguno.
 
-### CAPITULO TERCERO. CONVERSION, CONMUTACION Y SUBSTITUCION DE SANCIONES
+### CAPITULO III. DE LAS AREAS DE REFUGIO PARA PROTEGER LAS ESPECIES ACUATICAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 517.
 
@@ -4361,7 +6919,11 @@ Las resoluciones dictadas en ejecución de sentencia para la reparación y perju
 
 (DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
-### CAPITULO CUARTO. REHABILITACION
+### CAPITULO IV
+
+DE LA RESTAURACION, REHABILITACION Y RECUPERACION.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 526.
 
@@ -4385,7 +6947,7 @@ Lo dispuesto en el artículo anterior excluye la posibilidad de aplicar simultá
 
 Para que puedan operar la conversión, conmutación o substitución, es indispensable cubrir o garantizar previamente la reparación del daño o perjuicio.
 
-### CAPITULO QUINTO. INDULTO Y RECONOCIMIENTO DE LA INOCENCIA DEL SENTENCIADO
+### CAPITULO V. DE LAS VEDAS
 
 ###### ARTICULO 531.
 
@@ -4433,7 +6995,11 @@ Después de tres años de haberse cumplido la pena impuesta; de seis años, si s
 
 Tratándose de primarios, transcurrido un tiempo igual a la sentencia, más una cuarta parte sin que sea inferior a tres años, la autoridad correspondiente, previa evaluación, podrá otorgar Carta de No Antecedentes Penales, quedando el mismo, sólo para efectos de información administrativa.
 
-### CAPITULO UNICO. JUICIOS DE RESPONSABILIDAD
+### CAPITULO I
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+
+DISPOSICIONES GENERALES
 
 ###### ARTICULO 540.
 
@@ -4475,11 +7041,9 @@ A los cinco días de celebrada la vista, el tribunal declarará si es o no funda
 
 En el primer caso, remitirá las diligencias originales con informe al Ejecutivo, para que éste, sin más trámite, ordene la libertad del sentenciado y la cancelación de los antecedentes penales. En el segundo caso, se mandarán archivar las diligencias.
 
-## TITULO DECIMO TERCERO
+## TITULO QUINTO. DE LAS EMERGENCIAS ECOLOGICAS Y LAS CONTINGENCIAS AMBIENTALES
 
-### CAPÍTULO PRIMERO. DEL PROCEDIMIENTO ORAL PENAL
-
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2005)</small>
+### CAPITULO II. DEL ACTO ADMINISTRATIVO AMBIENTAL
 
 ###### ARTICULO 548.
 
@@ -4503,13 +7067,11 @@ Fuera de los casos previstos en este título, para conocer de los delitos cometi
 
 > <small>(ADICIONADO, CON LOS CAPITULOS QUE LO INTEGRAN P.O. 28 DE JULIO DE 2004)</small>
 
-## TITULO DECIMO CUARTO
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE DICIEMBRE DE 2005)</small>
+### CAPITULO III
 
-### CAPITULO SEGUNDO. DEL PROCEDIMIENTO ABREVIADO
-
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+DE LA EFICIENCIA DEL ACTO ADMINISTRATIVO.
 
 ###### ARTICULO 553.
 
@@ -5167,9 +7729,9 @@ La sentencia se pronunciará siempre en nombre del Estado de Nuevo León, en la 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2004)</small>
 
-### CAPITULO TERCERO. DE LA SUSPENSION DEL PROCEDIMIENTO A PRUEBA DEL PROCESADO
+### CAPITULO IV
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+DEL PROCEDIMIENTO ADMINISTRATIVO.
 
 ###### ARTICULO 601.
 
@@ -5268,6 +7830,8 @@ Si el delito fuere grave, la reducción será de un cuarto de la pena que corres
 Las resoluciones en el Procedimiento Abreviado no admiten más recurso que el de apelación tratándose de sentencia definitiva.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2004)</small>
+
+### CAPITULO V. DE LOS PROMOVENTES
 
 ###### ARTICULO 610.
 
@@ -5405,232 +7969,282 @@ En los procedimientos suspendidos conforme a este Capítulo, el Juez tomará las
 
 T R A N S I T O R I O S :
 
-###### ARTICULO PRIMERO
-
-- El presente Código entrará en vigor el día treinta (30) de marzo del año en curso de mil novecientos noventa.
-
-###### ARTICULO SEGUNDO
-
-- El presente Código de Procedimientos Penales abroga el Código a que se refiere el Decreto N° 228, publicado en el Periódico Oficial del Estado del día 21 de diciembre de 1984.
-
-###### ARTICULO TERCERO
-
-- Todas las disposiciones legales en cuanto se opongan a este Código quedan derogadas.
-
-###### ARTICULO CUARTO
-
-- Todos los procesos y recursos que en cualquiera instancia estén pendientes de trámite al comenzar a regir este Código, se sujetarán a sus disposiciones.
-
-###### ARTICULO QUINTO
-
-- Los plazos que estén corriendo al comenzar a regir este Código, se computarán conforme al mismo o al anterior, según el que señale el mayor.
-
-Envíese al Ejecutivo del Estado y publíquese en el Periódico Oficial del Estado.
-
-Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey su Capital a los trece días del mes de febrero de mil novecientos noventa.- PRESIDENTE: DIP. HUMBERTO SALAZAR GARZA.- DIP. SECRETARIO: CONSUELO BOTELLO DE FLORES.- DIP. SECRETARIO: CARLOS MIRELES MORALES.- RUBRICAS.
-
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los veintiséis días del mes de febrero de mil novecientos noventa.
-
-EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO
-
-LIC. JORGE A. TREVIÑO
-
-EL C. SECRETARIO GENERAL DE GOBIERNO
-
-LIC. JOSE N. GONZALEZ PARAS
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
-
-P.O. 20 DE JUNIO DE 1990.
-
-UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación.
-
-P.O. 7 DE JUNIO DE 1991.
-
-UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 1 DE JUNIO DE 1994.
-
-PRIMERO: La presente Ley entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO: Se abroga la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad para el Estado de Nuevo León, promulgada con fecha 1-uno de junio de 1973- mil novecientos setenta y tres.
-
-TERCERO: Se derogan los artículos 83, 84, 99, 100, 101, 102, 103, 104, 105, 106, 107, 112, 114 y 115 del Código Penal del Estado de Nuevo León.
-
-CUARTO: Se derogan los artículos 512, el párrafo primero del artículo 516, y los artículos 517, 518, 519, 520, 521, 522, 523, 524, 525, 528, 529, 540 y 541 del Código de Procedimientos Penales del Estado de Nuevo León.
-
-QUINTO: Se derogan todas las disposiciones que se opongan a los preceptos de esta Ley.
-
-SEXTO: La libertad definitiva de los reclusos ya condenados en Primera o en Segunda Instancia para el día en que entre en vigor esta Ley, cualquiera que sea el delito imputado, se ajustará a los términos que a ese respecto dispone la anterior Ley sobre Ejecución de Penas Privativas y Restrictivas de la Libertad para el Estado de Nuevo León.
-
-SEPTIMO: Todas las solicitudes de libertad preparatoria y de indulto que se hallen pendientes de decidir al entrar en vigor esta Ley, se resolverán de acuerdo a ella o a los códigos o leyes anteriores que le resulten más favorables al solicitante.
-
-OCTAVO: El Ejecutivo del Estado, a través de la Dirección de Prevención y Readaptación Social, expedirá los reglamentos necesarios para los establecimientos penitenciarios y su régimen interior, para el Consejo Técnico Interdisciplinario, para el Consejo Técnico General y para el Patronato de Asistencia a Liberados.
-
-P.O. 21 DE OCTUBRE DE 1994.
-
-PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO: Se derogan todas las disposiciones que se opongan a las presentes reformas.
-
-TERCERO: Las autoridades que conozcan, en su caso, de averiguaciones previas o de procesos penales en primera o segunda instancia, en trámite al entrar en vigor las presentes reformas y adiciones, estarán a lo más favorable a las personas inculpadas o procesadas, en contraste a lo previsto actualmente en los códigos penal y de procedimientos penales.
-
-P.O. 28 DE JULIO DE 1995.
-
 ###### ARTICULO PRIMERO.
 
-Las presentes reformas entrarán en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
+El presente Código se publicará en el Periódico Oficial del Estado y entrará en vigor a los 90 días siguientes al de su publicación.
+
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan todas las disposiciones legales que se opongan a la presente reforma.
+El artículo 156 del presente Código entrará en vigor a los tres años posteriores a su publicación. Los Ayuntamientos deberán promover programas de concientización para la creación de una cultura de separación de los residuos sólidos entre la población.
 
 ###### ARTICULO TERCERO.
 
-Los asuntos que se encuentren en trámite al entrar en vigor estas reformas, seguirán siendo competencia de los órganos jurisdiccionales que estén conociendo de los mismos.
+Se abroga la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Tamaulipas, expedida por Decreto No. LVIII-858 del 19 de octubre de 2004 de la Quincuagésima Octava Legislatura, publicada en el Periódico Oficial del Estado con fecha del 29 de diciembre de 2004, y sus reformas y adiciones contenidas en los Decretos No. LIX-39, del 7 de septiembre de 2005 de la Quincuagésima Novena Legislatura, publicado en el Periódico Oficial del Estado No. 122, del 12 de octubre del 2005, y el Decreto No. LIX-568, del 27 de septiembre de 2006 de la Quincuagésima Novena Legislatura, publicado en el Periódico Oficial del Estado No. 127, del 24 de octubre del 2006.
 
-P.O. 5 DE JUNIO DE 1996.
+###### ARTICULO CUARTO.
 
-UNICO:- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+Se abroga el Decreto Gubernamental mediante el cual se establece el Registro Estatal Ambiental (REA), publicado en el Periódico Oficial del Estado No. 102, del 22 de agosto del 2002.
 
-P.O. 29 DE ENERO DE 1997.
+###### ARTICULO QUINTO.
+
+Todos los asuntos que se encuentren en trámite al entrar en vigor el presente Código se desahogarán en los términos previstos por la ley o leyes vigentes al momento de su inicio. Los trámites que se hayan iniciado durante la vigencia de la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Tamaulipas deberán concluirse atendiendo dicha ley.
+
+###### ARTICULO SEXTO.
+
+En términos de las atribuciones que le confieren las normas constitucionales aplicables, el Ejecutivo del Estado contará con 180 días a partir de la publicación del presente Código para expedir las disposiciones reglamentarias a que se refiere este Código, conforme a los estudios que realicen en torno a la operatividad de sus preceptos.
+
+###### ARTICULO SEPTIMO.
+
+Se derogan todas las disposiciones que se opongan al presente Código.
+
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 2 de junio del año 2008.- DIPUTADO PRESIDENTE.- JOSE MANUEL ABDALA DE LA FUENTE.- Rúbrica.- DIPUTADO SECRETARIO.- JUAN CARLOS ALBERTO OLIVARES GUERRERO.- Rúbrica.- DIPUTADO SECRETARIO.- GELACIO MARQUEZ SEGURA.- Rúbrica."
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los tres días del mes de junio del año dos mil ocho.
+
+ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION.".- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CÓDIGO.</small>
+
+P.O. 12 DE MAYO DE 2009.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Los Ayuntamientos en los que se instalen Centros de Verificación de contaminantes por fuentes móviles o en los que funcionen las unidades móviles de verificación, deberán coordinarse con la Agencia Ambiental para el Desarrollo Sustentable, a efecto de celebrar los actos jurídicos que se requieran para la exacta observancia de las disposiciones relativas a la verificación vehicular de contaminantes. Asimismo, deberán adecuar sus propias determinaciones legales que incidan en la materia para ejercer las acciones de autoridad que privilegien el cumplimiento de las normas protectoras del medio ambiente, incluidas aquellas que versen sobre la recaudación de derechos por ese concepto.
+
+P.O. 27 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 20 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-388 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, Y EL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-461 MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS 6 Y 7 AL ARTÍCULO 36, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-523 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 304 DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS; Y SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 158 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-1047 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES V Y VI, Y SE ADICIONA LA FRACCIÓN VII, AL ARTÍCULO 39, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-528 MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES VIII BIS Y XXXVI BIS AL ARTÍCULO 4, ASÍ COMO EL ARTÍCULO 99 BIS AL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-632 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 8 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS; LA FRACCIÓN XIV DEL ARTÍCULO 64 DE LA LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS; Y LA FRACCIÓN XXXV DEL ARTÍCULO 215 DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-817 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, CON RELACIÓN A LAS CONSTANCIAS DE NO ADEUDO FISCAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-830 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El titular de la Secretaría de Desarrollo Urbano y Medio Ambiente, dentro de los 60 días hábiles siguientes, a partir de la entrada en vigor del presente Decreto, deberá presentar al Ejecutivo del Estado, las modificaciones a los reglamentos que correspondan, para ajustarlos a lo dispuesto en este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se armoniza la normatividad reglamentaria que se ve modificada por la entrada en vigor del presente Decreto conforme a lo dispuesto en el artículo anterior, en lo conducente, se estará a lo dispuesto en los reglamentos respectivos, en tanto no se oponga al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El titular de la Secretaría de Desarrollo Urbano y Medio Ambiente, dentro de los 180 días hábiles siguientes a la entrada en vigor del presente Decreto, deberá emitir la Norma Ambiental Estatal para Centros de Manejo Integral de Residuos.
+
+###### ARTÍCULO QUINTO.
+
+Los municipios y/o quienes operen sitios de disposición final de residuos sólidos urbanos y/o de manejo especial, contarán con un plazo de cinco años a partir de la emisión de la Norma Ambiental Estatal para Centros de Manejo Integral de Residuos, para realizar las adecuaciones técnicas y presupuestales necesarias para cumplir con lo señalado en el numeral 5 del artículo 138 del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65 -109 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 23, FRACCIÓN IV, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-148 MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS Y LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-161 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4, FRACCIONES L Y LI, Y 185, FRACCIÓN III; Y SE ADICIONAN UNA FRACCIÓN LII AL ARTÍCULO 4, Y UNA FRACCIÓN IV RECORRIÉNDOSE LA ACTUAL EN SU ORDEN NATURAL AL ARTÍCULO 185, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-533 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 120, FRACCIÓN XXV; Y 121, FRACCIÓN XVII; Y SE ADICIONAN LAS FRACCIONES XXVI Y XXVII, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XXVI PARA PASAR A SER XXVIII DEL ARTÍCULO 120; Y LA FRACCIÓN XVIII, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL PARA SER XIX DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-562 MEDIANTE EL CUAL SE REFORMAN LOS NUMERALES 1 Y 5; Y SE ADICIONAN UN PÁRRAFO SEGUNDO AL NUMERAL 1, Y UN NUMERAL 8, AL ARTÍCULO 36, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor de esta reforma, una vez que sea publicada en el Periódico Oficial del Estado, la Secretaría de Desarrollo Urbano y Medio Ambiente tendrá 180 días para elaborar la norma ambiental para llevar a cabo las verificaciones de biodegradabilidad de los productos.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones de la presente reforma entrarán en vigencia, para los entes señalados en el segundo párrafo del numeral 1 del artículo 36, en un plazo de 180 días, contados a partir de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones de la presente reforma entrarán en vigor a partir del 1 de enero de 2024.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-663 MEDIANTE EL CUAL SE ADICIONAN LA FRACCIÓN XIV BIS AL ARTÍCULO 4; Y EL NUMERAL 4 AL ARTÍCULO 72, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS; Y SE REFORMAN LAS FRACCIONES XXII Y XXIII; Y SE ADICIONA LA FRACCIÓN XXIV AL ARTÍCULO 19, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las capacitaciones obligatorias de todas y todos los servidores públicos en materia de medio ambiente, con perspectiva de desarrollo sostenible y con especial énfasis en cambio climático, se implementarán de manera progresiva de conformidad a la capacidad presupuestal, técnica y operativa de las dependencias y municipios.
+
+P.O. 23 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-673 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-712 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II Y IV, DEL ARTÍCULO 10; Y SE ADICIONAN LAS FRACCIONES XXVI BIS, XXVI TER Y XXVII BIS AL ARTÍCULO 119; Y LOS NUMERALES 3 Y 4 AL ARTÍCULO 134, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-239 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 120 Y SE ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 119 DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1362 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN I BIS AL ARTÍCULO 4; Y UN ARTÍCULO 20 BIS, AL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, a través de la dependencia competente en materia de desarrollo sustentable, promoverá la incorporación de los criterios de agroecología en los instrumentos de planeación ambiental, de conformidad con la disponibilidad presupuestaria y las disposiciones jurídicas aplicables.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 25 DE JULIO DE 1997
+P.O. 7 DE ENERO DE 2010.
 
-###### ARTÍCULO UNICO.
+###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 24 DE JUNIO DE 1998.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 7 DE JULIO DE 1999.
-
-Artículo Único: Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 28 DE ABRIL DE 2004.
-
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo.- Los procedimientos regulados por las disposiciones que son reformadas a través del presente Decreto y que se encuentren en trámite al entrar en vigor el mismo, se regirán por lo dispuesto por la legislación conforme a la cual se iniciaron.
-
-Las partes, en los procedimientos referidos en el párrafo anterior, podrán optar por los beneficios derivados de las mencionadas reformas.
-
-P.O. 14 DE JULIO DE 2004.
-
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo.- Las autoridades responsables de los Tribunales del Poder Judicial y del Poder Ejecutivo expedirán los lineamientos mediante los cuales, sin contravenir las disposiciones legales, se facilitará a las personas que lo soliciten el acceso a la información que obre en su poder.
-
-P.O. 28 DE JULIO DE 2004.
-
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo.- Las disposiciones referentes al procedimiento abreviado, la suspensión del procedimiento de preparación de la acción penal, la suspensión del procedimiento a prueba del procesado y la mediación y conciliación penal, entrarán en vigor a los 30 días siguientes a la publicación del presente Decreto.
-
-Artículo Tercero.- Las disposiciones del Juicio Oral Penal entrarán en vigor dentro de los 120 días siguientes a la publicación de este Decreto, previo acuerdo expedido por el Consejo de la Judicatura del Estado y publicado en su Órgano de difusión así como en el Periódico Oficial del Estado.
-
-Artículo Cuarto.- Los procedimientos que en cualquier instancia estén en trámite al iniciar la vigencia de este Decreto, se tramitarán con las disposiciones de carácter general que estuvieran vigentes al momento del inicio de dichos procedimientos.
-
-P.O. 10 DE DICIEMBRE DE 2004.
-
-Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
-
-P.O. 30 DE DICIEMBRE DE 2004.
-
-Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 5 DE OCTUBRE DE 2005.
-
-Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 7 DE DICIEMBRE DE 2005.
-
-Artículo Primero.- El Artículo Primero del presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo.- El Artículo Segundo del presente Decreto en lo relativo al artículo 553 fracciones II y III del Código de Procedimientos Penales, entrará en vigor a los ciento veinte días de su publicación en el Periódico Oficial del Estado y el resto de las reformas señaladas en el Artículo Segundo del presente Decreto, entrarán en vigor a los 30 días de su publicación en dicho medio de difusión.
-
-P.O. 10 DE FEBRERO DE 2006.
-
-Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo.- El artículo 22 fracción XVII de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León entrará en vigor el día 15 de febrero de 2006.
-
-Artículo Tercero.- El Ejecutivo del Estado y las autoridades municipales en el ámbito de su competencia, deberán expedir, en un término que no exceda de noventa días contados a partir de la entrada en vigor del presente decreto, las disposiciones reglamentarias que regulen el servicio comunitario.
-
-Artículo Cuarto.- El Ejecutivo del Estado deberá expedir en un plazo no mayor de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto el Reglamento del Consejo Estatal de Salud, en el cual deberán regularse las funciones del Consejo y sus Comisiones, así como la integración de éstas.
-
-Artículo Quinto.- Se concede a las personas físicas y morales que transporten con fines comerciales bebidas alcohólicas dentro del Estado de Nuevo León, un plazo de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para obtener la Autorización de Transporte de Bebidas Alcohólicas expedida por la Secretaría de Salud, en los términos de las disposiciones de este Decreto.
-
-P.O. 11 DE SEPTIEMBRE DE 2006.
-
-Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 13 DE MARZO DE 2007.
-
-Artículo Primero.- Las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo.- El Ejecutivo del Estado, deberá expedir el reglamento respectivo, donde se establezcan los términos, montos y condiciones respecto a las recompensas a que se hace referencia en el Artículo 182 bis 6 del Código de Procedimientos Penales del Estado de Nuevo León, en un término de cuarenta y cinco días naturales contados a partir de la vigencia del presente decreto.
-
-P.O. 30 DE MARZO DE 2007.
-
-Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; excepto en lo referente a los delitos de Violencia Familiar establecido en el Artículo 287 Bis, el Equiparable a la Violencia Familiar dispuesto en el Artículo 287 Bis 2 y el de Lesiones tipificado en los artículos 300 y 301, cuando el inculpado fuere pariente o persona que tenga relación con el ofendido según lo dispongan los artículos 287 Bis y 287 Bis 2, todos del Código Penal para el Estado de Nuevo León, respecto de los cuales el Procedimiento Oral Penal entrará en vigor a los noventa días naturales contados a partir del día de la publicación del presente Decreto.
-
-P.O. 25 DE JULIO DE 2007.
-
-Artículo Único.- Las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE OCTUBRE DE 2007.
-
-Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 23 DE SEPTIEMBRE DE 2008.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 24 DE NOVIEMBRE DE 2008.
-
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 31 DE DICIEMBRE DE 2008.
-
-Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 14 DE ENERO DE 2009.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 20 DE FEBRERO DE 2009.
-
-PRIMERO.- El presente Decreto entrara en vigor el día 1 de julio de 2009.
-
-SEGUNDO.- Las disposiciones del presente Decreto no serán aplicables a los procedimientos jurisdiccionales iniciados con anterioridad a la vigencia del mismo.
-
-P.O. 17 DE JULIO DE 2009.
-
-DECRETO No. 399, POR EL QUE SE REFORMA EL ARTICULO 182 BIS 7 DEL CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 17 DE JULIO DE 2009.
-
-DECRETO No. 400, POR EL QUE SE REFORMAN LOS ARTICULOS 200, 385 Y 577 DEL CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 3 DE OCTUBRE DE 2009.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 18 DE MARZO DE 2010.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Segundo.- El Ejecutivo del Estado deberá realizar las reformas al Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, a fin de establecer y regular el funcionamiento de la Unidad Especializada Antisecuestros en un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor del presente Decreto.
-
-Tercero.- La Secretaría de Finanzas y Tesorería General del Estado deberá realizar las modificaciones presupuestales y determinar las partidas necesarias para el funcionamiento adecuado de la Unidad Especializada Antisecuestros, en un plazo no mayor a 90 días naturales contador a partir de la entrada en vigor del presente Decreto.
+P.O. 16 DE DICIEMBRE DE 2010.
