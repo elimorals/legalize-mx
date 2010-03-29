@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2010-03-18"
+last_updated: "2010-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -1772,6 +1772,16 @@ Para tal efecto, la Secretaría de Finanzas y Tesorería General del Estado prov
 ###### ARTICULO 182 Bis 7.
 
 La persona que preste ayuda eficaz para la investigación y persecución de los delitos previstos por los artículos 165 bis, 176, 318, 325, 357, 357 bis ó 395 del Código Penal para el Estado de Nuevo León, cuando no exista averiguación previa en su contra, los elementos de prueba que aporte o se deriven de la indagatoria iniciada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2010)</small>
+
+###### ARTICULO 182 Bis 8.
+
+A la persona que preste ayuda eficaz para la investigación y persecución de cualquiera de los delitos previstos en los Títulos Séptimo y Octavo del Libro Segundo del Código Penal para el Estado de Nuevo León o aporte elementos de prueba suficientes para dictar el auto de formal prisión o vinculación a proceso de su o sus coparticipes, le serán aplicables en beneficio por su cooperación, las reglas establecidas en el artículo 73 del Código Penal para el Estado de Nuevo León.
+
+Cuando no exista averiguación previa, los elementos de prueba que aporte o se deriven de la indagatoria iniciada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona.
+
+Para que operen a su favor cualquiera de los beneficios contenidos en los dos párrafos que anteceden, será necesario, en su caso, devolver el monto de lo sustraído o garantizarlo conforme a la ley.
 
 ### CAPITULO CUARTO. CONSIGNACION ANTE LOS TRIBUNALES
 
@@ -5634,3 +5644,7 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- El Ejecutivo del Estado deberá realizar las reformas al Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, a fin de establecer y regular el funcionamiento de la Unidad Especializada Antisecuestros en un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
 Tercero.- La Secretaría de Finanzas y Tesorería General del Estado deberá realizar las modificaciones presupuestales y determinar las partidas necesarias para el funcionamiento adecuado de la Unidad Especializada Antisecuestros, en un plazo no mayor a 90 días naturales contador a partir de la entrada en vigor del presente Decreto.
+
+P.O. 29 DE MARZO DE 2010.
+
+Único.- El presenté Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
