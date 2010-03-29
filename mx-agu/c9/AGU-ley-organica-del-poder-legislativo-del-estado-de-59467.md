@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-59467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-02-04"
-last_updated: "2009-03-02"
+last_updated: "2010-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2010.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de febrero de 2008.
 
@@ -713,7 +713,9 @@ X. De Recreación y Deporte;
 
 XI. De Desarrollo Agropecuario;
 
-XII. De Agrietamiento del Suelo y Sustentabilidad del Agua;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
+
+XII. De Recursos Hidráulicos;
 
 XIII. De Salud Pública y Asistencia Social;
 
@@ -927,11 +929,15 @@ III. Las acciones que se realicen en materia de fomento agropecuario y para la p
 
 IV. Otros análogos que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento de esta Comisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2010)</small>
+
 ###### ARTÍCULO 76.
 
-Corresponde a la Comisión de Agrietamiento del Suelo y Sustentabilidad del Agua, el estudio y Dictamen de los siguientes asuntos:
+Corresponde a la Comisión de Recursos Hidráulicos el estudio y dictamen de los siguientes asuntos:
 
-I. La legislación, normatividad, planes y programas encaminados a la optimización de uso y la sustentabilidad del agua;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
+
+I. La legislación, normatividad, planes y programas encaminados a la tecnificación y optimización de los Recursos Hidráulicos para el uso y sustentabilidad del agua;
 
 II. La legislación tendiente a la regulación y sanción del manejo de aguas residuales y su tratamiento;
 
@@ -941,9 +947,15 @@ IV. La legislación y programas tendientes a la regulación del suelo, difusión
 
 V. La legislación y programas tendientes a la regulación y fomento de la reutilización del agua;
 
-VI. La legislación y programas tendientes a la regulación y fomento de estudios geofísicos relativos a las fallas y agrietamiento en el Estado; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-VII. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sea materia de tratamiento por esta Comisión.
+VI. La legislación y programas tendientes a la regulación y fomento de estudios geofísicos relativos a las fallas y agrietamiento en el Estado para evitar el desabasto de los Recursos Hidráulicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MARZO DE 2010)</small>
+
+VII. La normatividad referente a la regulación de los organismos municipales o paramunicipales de agua potable, y de las demás entidades y organismos relacionados con la materia; y
+
+VIII. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sea materia de tratamiento por esta Comisión.
 
 ###### ARTÍCULO 77.
 
@@ -1994,5 +2006,11 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 P.O. 30 DE ENERO DE 2009.
 
 ###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE MARZO DE 2010.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
