@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-del-gobierno-municipal-de-monterrey-71253"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-30"
-last_updated: "2009-11-30"
+last_updated: "2010-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGANICO DEL GOBIERNO MUNICIPAL DE MONTERREY, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de noviembre de 2009.
 
@@ -34,6 +34,10 @@ EL C. PRESIDENTE MUNICIPAL DE LA CIUDAD DE MONTERREY NUEVO LEÓN, FERNANDO ALEJA
 QUE EL REPUBLICANO AYUNTAMIENTO DEL MUNICIPIO DE MONTERREY, EN SESIÓN ORDINARIA CELEBRADA EL DÍA 24 DE NOVIEMBRE DE 2009, APROBÓ LOS ACUERDOS CONTENIDOS EN EL DICTAMEN PRESENTADO POR LA COMISIÓN DE GOBERNACIÓN Y REGLAMENTACIÓN, EN LOS CUALES SE APRUEBA EL REGLAMENTO ORGÁNICO DEL GOBIERNO MUNICIPAL DE MONTERREY; LOS CUALES A CONTINUACIÓN SE TRANSCRIBEN:
 
 A C U E R D O S:
+
+PRIMERO: Se aprueba el REGLAMENTO ORGÁNICO DEL GOBIERNO MUNICIPAL DE MONTERREY, en la forma y términos que a continuación se señalan y por tanto se abroga el "Reglamento Orgánico de la Administración Pública del Municipio de Monterrey", publicado en el Periódico Oficial del Estado de Nuevo León en fecha 28 de diciembre de 2006, así como sus reformas.
+
+REGLAMENTO ORGÁNICO DEL GOBIERNO MUNICIPAL DE MONTERREY
 
 PRIMERO: Se aprueba el REGLAMENTO ORGÁNICO DEL GOBIERNO MUNICIPAL DE MONTERREY, en la forma y términos que a continuación se señalan y por tanto se abroga el "Reglamento Orgánico de la Administración Pública del Municipio de Monterrey", publicado en el Periódico Oficial del Estado de Nuevo León en fecha 28 de diciembre de 2006, así como sus reformas.
 
@@ -193,7 +197,9 @@ IX.- Secretaría de la Contraloría
 
 X.- Secretaría de Desarrollo Económico
 
-XI.- Secretaría de Policía Preventiva de Monterrey
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
+
+XI.- Secretaría de Policía Preventiva Municipal de Monterrey
 
 XII.- Secretaria de Planeación y Comunicación
 
@@ -265,13 +271,25 @@ A) Fomentar, gestionar y organizar la participación ciudadana en los programas 
 
 B) Vigilar en toda actividad ciudadana, que ésta se desarrolle dentro de los límites de respeto a la vida privada, a la moral y a la paz pública;
 
-C) Promover el seguimiento a las acciones de gestoría social que emprenda el R. Ayuntamiento;
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
+
+C) Conformar y mantener actualizado un registro de las Asociaciones Civiles constituidas en nuestro Municipio;
 
 D) Promover la mediación entre los servidores públicos y la comunidad, como un método alterno de solución de controversias entre particulares, que contribuya a lograr la armonía social;
 
 E) Implementar mecanismos de capacitación en la cultura y las técnicas de los medios alternos para la solución de controversias;
 
-F) Asesorar a las distintas dependencias de la Administración Pública Municipal, sus titulares y a los particulares de los beneficios que conlleva el aplicar la medición.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
+
+F) Llevar a cabo la mediación y solución de conflictos entre vecinos, siempre y cuando el conflicto, diferencia o disputa entre las partes no contravenga ninguna disposición legal establecida, ni afecte a los derechos de terceros;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MARZO DE 2010)</small>
+
+G) Implementar mecanismos de capacitación en la cultura y las técnicas de los medios alternos para la solución de controversias;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MARZO DE 2010)</small>
+
+H) Asesorar a las distintas dependencias de la Administración Pública Municipal, sus titulares y a los particulares de los beneficios que conlleva el aplicar la mediación.
 
 IV.- De administración:
 
@@ -953,11 +971,15 @@ A) Auxiliar al Ministerio Público en la investigación y persecución de los de
 
 B) Imponer sanciones a las personas que infrinjan los reglamentos de tránsito;
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
+
 C) Auxiliar a solicitud de las autoridades federales, estatales y de otros municipios, en localización y persecución de los delincuentes.
 
 Los demás que en las materias de su competencia le atribuyan al Municipio las Leyes y Reglamentos vigentes o le asigne el Presidente Municipal.
 
-Para el despacho de los asuntos de su competencia, el Secretario de Vialidad y Tránsito se auxiliará con las Direcciones: Administrativa, de Ingeniería Vial, Tránsito y Vialidad, de Accidentes, de Capacitación y Desarrollo, de Promoción Social y demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
+
+Para el despacho de los asuntos de su competencia, el Secretario de Vialidad y Tránsito se auxiliará con las Direcciones: Administrativa, de Ingeniería Vial, Tránsito y Vialidad, de Accidentes, y demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
 
 ### CAPÍTULO XII. SECRETARÍA DE LA CONTRALORÍA
 
@@ -1003,7 +1025,9 @@ B) Organizar los trabajos del proceso de entrega-recepción del estado que guard
 
 C) Coordinar las acciones de entrega-recepción de los titulares de las Secretarías, Direcciones Generales y Direcciones mediante acta administrativa y anexos en los que se detallen los asuntos y recursos asignados para garantizar la continuidad y operación de las mismas;
 
-D) Tener a su cargo el control y resguardo de la seguridad de las instalaciones del Palacio Municipal, mediante la asignación de los agentes preventivos que sean necesarios.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
+
+D) Tener a su cargo el control y resguardo de la seguridad de las instalaciones del palacio municipal, y otras dependencias municipales que sean asignadas, mediante la asignación de los agentes preventivos que sean necesarios.
 
 III.- De Transparencia, Modernización y Combate a la Corrupción:
 
@@ -1063,11 +1087,15 @@ Los demás que en las materias de su competencia le atribuyan al Municipio las l
 
 Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Económico de Monterrey se auxiliará con las Direcciones de: Empleo y Desarrollo Empresarial, de Vivienda y Patrimonio, de Relaciones Interinstitucionales y de Turismo, y demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el desarrollo de la Secretaría.
 
-### CAPÍTULO XIV. SECRETARÍA DE POLICÍA PREVENTIVA DE MONTERREY
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE MARZO DE 2010)</small>
+
+### CAPÍTULO XIV. SECRETARÍA DE POLICÍA PREVENTIVA MUNICIPAL DE MONTERREY
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2010)</small>
 
 ###### ARTÍCULO 26.
 
-A la Secretaría de Policía Preventiva de Monterrey le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Policía Preventiva Municipal de Monterrey le corresponde el despacho de los siguientes asuntos:
 
 I.- De Administración, Gobierno y Operatividad:
 
@@ -1119,7 +1147,9 @@ A) Promover la organización y funcionamiento de consejos o comités consultivos
 
 Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
 
-Para el despacho de los asuntos de su competencia, el Secretario de la Policía Preventiva de Monterrey se auxiliará con las Direcciones: Operativa, Administrativa, de Prevención, de Reclusorios Proyectos Estratégicos, y demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
+
+Para el despacho de los asuntos de su competencia, el Secretario de la Policía Preventiva Municipal de Monterrey se auxiliará con las Direcciones: Operativa, Administrativa, de Prevención y Reclusorios, de Tecnología y Proyectos, y demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
 
 ### CAPÍTULO XV. SECRETARIA DE PLANEACIÓN Y COMUNICACIÓN
 
@@ -1277,7 +1307,9 @@ Los organismos descentralizados gozarán de personalidad jurídica y patrimonio 
 
 El R. Ayuntamiento designará un Comisario para cada uno de los organismos descentralizados y establecerá las formas para contar con una adecuada información sobre el funcionamiento de dichos organismos.
 
-### CAPÍTULO XIX (SIC). DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+> <small>(REFORMADA SU NUMERACION, P.O. 29 DE MARZO DE 2010)</small>
+
+### CAPÍTULO XVIII. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
 
 ###### ARTÍCULO 35.
 
@@ -1328,3 +1360,11 @@ FERNANDO ALEJANDRO LARRAZÁBAL BRETÓN
 C. SECRETARIO DEL R. AYUNTAMIENTO
 
 JUAN CARLOS RUIZ GARCÍA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE MARZO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma al Reglamento Orgánico del Gobierno Municipal de Monterrey, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
