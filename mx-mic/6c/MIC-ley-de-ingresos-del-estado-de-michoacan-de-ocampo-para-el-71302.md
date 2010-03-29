@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-71302
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2009-12-31"
-last_updated: "2009-12-31"
+last_updated: "2010-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACAN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑ0 2010
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2010.
 
 Ley publicada en la Trigésima Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 31 de diciembre de 2009.
 
@@ -1343,7 +1343,9 @@ Los pagos por la prestación de los servicios señalados en este Capítulo, esta
 
 El presente Capítulo, no establece servicios urgentes o extraurgentes.
 
-### CAPÍTULO VII. DERECHOS POR SERVICIOS DEL REGISTRO PÚBLICO DE LA PROPIEDAD RAIZ, DEL COMERCIO Y DEL ARCHIVO GENERAL DE NOTARÍAS
+> <small>(REFORMADA SU DENOMINACION. P.O. 29 DE MARZO DE 2010)</small>
+
+### CAPÍTULO VII. DERECHOS POR SERVICIOS DEL REGISTRO PÚBLICO DE LA PROPIEDAD RAIZ Y DEL COMERCIO, Y DEL ARCHIVO GENERAL DE NOTARÍAS
 
 ###### ARTÍCULO 13.
 
@@ -1399,7 +1401,19 @@ Por la trascripción de cada hoja adicional de
 
 documentos que obran en el archivo. 40.00
 
-B) Por la inscripción de documentos de propiedad, ya sea traslativos de dominio, por cada bien inmueble que se consigne en el Título correspondiente, causarán derechos equivalentes al 0.090% sobre el valor de la propiedad, tomando en cuenta el más alto señalado en el Título o en sus anexos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2010)</small>
+
+B) Por la inscripción de documentos de propiedad, ya sea traslativos de dominio, por cada bien inmueble que se consigne en el Título correspondiente:
+
+1) No habitacionales, independientemente de su valor:
+
+a) Inmuebles rústicos, se pagarán derechos por el equivalente a 4 días de salario mínimo.
+
+b) Inmuebles urbanos, se pagarán derechos por el equivalente a 12 días de salario mínimo.
+
+2) Habitacionales cuyo valor al término de su edificación no exceda de veinticinco veces el salario mínimo, elevado al año, se pagarán derechos por el equivalente a 6 días de salario mínimo,
+
+3) Habitacionales cuyo valor al término de su edificación exceda el límite a que se refiere el numeral anterior, se pagarán derechos por el equivalente a 8 días de salario mínimo.
 
 En el caso de fusiones, se cobrará por propiedad, la que resulte de la fusión y de acuerdo a la tarifa establecida en el artículo 16, primer párrafo de esta Ley.
 
@@ -1459,7 +1473,9 @@ o de existencia de testamento. 93.00
 
 III. Por actos del registro de comercio:
 
-A) Se causarán derechos por el equivalente al 0.045%, sobre el capital social por las inscripciones en el registro de comercio, de:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2010)</small>
+
+A) Se causarán derechos por el equivalente a 6 días de salario mínimo, por las inscripciones en el Registro de Comercio, de:
 
 a) Escrituras constitutivas;
 
@@ -1467,7 +1483,9 @@ b) Documentos en que consten los actos de emisión de bonos y obligaciones de so
 
 c) Actas en que se haga constar aumento de capital; y,
 
-d) Por la inscripción de gravámenes de bienes muebles relativos a garantías prendarias se cobrará el 0.045% sobre el monto del crédito.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
+
+d) Por la inscripción de gravámenes relativos a garantías prendarias.
 
 B) Por la cancelación de inscripciones en el Registro de Comercio, se cobrará el 50 % de los derechos que se causen por la inscripción.
 
@@ -1533,19 +1551,27 @@ mencionados en el inciso anterior, por cada
 
 instrumento: 300.00
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2010)</small>
+
 ###### ARTÍCULO 14.
 
-Por la inscripción en el Registro Público de la Propiedad, de documentos relativos a gravámenes de bienes inmuebles, se causarán derechos por el equivalente al 0.090% sobre el monto del crédito.
+Por la inscripción en el Registro Público de la Propiedad, de documentos relativos a gravámenes de bienes inmuebles, se causarán derechos por el equivalente a 12 días de salario mínimo, por cada inmueble otorgado en garantía.
 
 Tratándose de cesión de derechos litigiosos de crédito, se cobrará de acuerdo a lo establecido en el primer párrafo de este artículo.
 
-Tratándose de reestructura de créditos garantizados con bienes inmuebles, o convenios modificatorios a los contratos de crédito, se cobrará el 0.045%.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
+
+Tratándose de reestructura de créditos garantizados con bienes inmuebles, o convenios modificatorios a los contratos de crédito, se causarán derechos por el equivalente a 4 días de salario mínimo, por cada inmueble otorgado en garantía.
 
 En convenio modificatorio en donde se modifique cualquier cláusula del contrato, se cobrará de acuerdo a lo establecido en el artículo 16 primer párrafo de esta Ley, y por cada inmueble, dado en garantía en el contrato principal.
 
-Por la inscripción de documentos relativos a gravámenes por créditos para la adquisición de vivienda de interés social y popular, se pagarán derechos equivalentes al 0.045%.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
 
-Por la cancelación de gravámenes, se causará el 0.045% sobre el valor del crédito a cancelar de los derechos de inscripción que a los mismos correspondan conforme a este artículo.
+Por la inscripción de documentos relativos a gravámenes por créditos para la adquisición de vivienda de interés social y popular, se pagarán derechos por 6 y 8 días de salario mínimo, respectivamente.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
+
+Por la cancelación de gravámenes, se causará el 50% de los derechos de inscripción que a los mismos correspondan conforme a este artículo.
 
 ###### ARTÍCULO 15.
 
@@ -2380,3 +2406,15 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 30 treinta días del mes de diciembre del año 2009 dos mil nueve.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE MARZO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dése cuenta del presente Decreto, al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y a la Titular de la Auditoría Superior de Michoacán del H. Congreso del Estado de Michoacán de Ocampo, para conocimiento y efectos procedentes.
