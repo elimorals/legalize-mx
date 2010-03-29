@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-concurso-progol-de-pronosticos-para-la-31947"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2010-01-29"
+last_updated: "2010-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31947&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL CONCURSO PROGOL DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MARZO DE 2010.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -261,7 +261,9 @@ El Consejo Directivo de Pronósticos autorizará la asignación del porcentaje d
 
 El total para premiación asignado a cada una de las categorías se prorrateará entre todas las quinielas ganadoras a la misma categoría de premiación redondeando importes conforme a lo dispuesto en la Ley Monetaria de los Estados Unidos Mexicanos.
 
-De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la Reserva de Contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
+> <small>(REFORMADO, D.O.F. 29 DE MARZO DE 2010)</small>
+
+De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la Entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar las Reservas y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JULIO DE 2005)</small>
 
@@ -347,21 +349,11 @@ Es aplicable a los agentes autorizados por Pronósticos para efectuar la venta d
 
 ### Capítulo VI. Del pago de los premios
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 29 DE MARZO DE 2010)</small>
 
 ###### Artículo 29o.
 
-A partir del siguiente día hábil a la fecha de celebración del concurso correspondiente, Pronósticos procederá al pago de los premios de hasta $9,999,999.99 (nueve millones novecientos noventa y nueve mil novecientos noventa y nueve pesos 99/100 M.N.), en moneda nacional.
-
-El pago se efectuará contra la presentación y entrega material del boleto correspondiente a la quiniela que hubiere resultado ganadora o bien una vez corroborada la autenticidad del mismo, tratándose de registro electrónico.
-
-Para aquellos boletos cuyo premio resulte superior a la cantidad señalada en el primer párrafo de este artículo, Pronósticos contará con 5 (cinco) días hábiles para identificarlos, verificarlos y validarlos por los medios que considere idóneos, previo al pago del mismo.
-
-Al efectuar el pago se descontará y retendrá el importe de los impuestos que fijen las leyes respectivas.
-
-Los tenedores de boletos premiados podrán cobrar su importe ante cualquier agente autorizado, siempre que su monto no exceda la suma que autorice Pronósticos.
-
-Cualquiera que sea el importe del premio podrán hacerlo efectivo en las oficinas generales de Pronósticos o en las instituciones u organismos que señale y que se harán del conocimiento del público.
+Los tenedores de boletos premiados podrán cobrar su importe en las Oficinas Generales de Pronósticos, en las Instituciones u Organismo que éste señale y que se hará del conocimiento del público, así como ante cualquier agente autorizado, de conformidad a lo establecido en el artículo 11 del “Acuerdo que establece los datos, documentos y formatos de los trámites de Pronósticos para la Asistencia Pública”.
 
 ###### Artículo 30o.
 
@@ -473,7 +465,9 @@ El Consejo Directivo de Pronósticos autorizará la asignación del porcentaje d
 
 El total para premiación asignado a la única categoría de premiación se prorrateará entre todas las quinielas ganadoras a la misma categoría de premiación redondeando importes conforme a lo dispuesto en la Ley Monetaria de los Estados Unidos Mexicanos.
 
-De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la Entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la Reserva de Contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
+> <small>(REFORMADO, D.O.F. 29 DE MARZO DE 2010)</small>
+
+De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la Entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar las Reservas y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
 
 > <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
@@ -518,6 +512,102 @@ El participante que tenga interés legítimo, podrá impugnar los resultados de 
 ###### Artículo 44o.
 
 El participante ganador podrá cobrar el premio al que fue acreedor conforme a lo establecido en los Artículos 29o. al 33o. de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+
+### Capítulo XII. Disposiciones Generales de Progol Media Semana
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+
+###### Artículo 45o.
+
+El concurso Progol Media Semana, consiste en una competencia entre los aspirantes a un premio con base en la predicción o pronóstico de los resultados de un conjunto de 9 (nueve) partidos de fútbol soccer que figuren en competiciones que se encuentren autorizadas por las Instituciones competentes en el ámbito nacional, así como en el internacional y que se inicia en el momento de aceptación del pago de Progol Media Semana y termina con el acto denominado "Selección de Ganadores", en el cual se determinarán las quinielas y combinaciones ganadoras, así como el importe de los premios correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+
+### Capítulo XIII. De los procedimientos para participar en Progol Media Semana
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+
+###### Artículo 46o.
+
+Para poder concursar en la modalidad Progol Media Semana, el participante deberá de observar los procedimientos que señalan los artículos 4o. al 16o. de este Reglamento, debido a que aplican en los mismos términos para el presente concurso.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+
+### Capítulo XIV. Selección de ganadores de Progol Media Semana
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+
+###### Artículo 47o.
+
+La suspensión de las ventas y la verificación de las ceremonias se llevará a cabo conforme a lo establecido en los artículos 36o. y 37o. del presente Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+
+###### Artículo 48o.
+
+Conocidos los resultados de los partidos de fútbol soccer de la modalidad Progol Media Semana de un concurso o determinados por sorteo en la forma en que se indica en el Capítulo II de este Reglamento, se procederá a seleccionar al ganador o ganadores, comparando cada una de las quinielas contenidas en el archivo de quinielas concursantes, con los resultados definitivos de cada partido considerado en el concurso, en los términos previstos por el artículo 5o. del presente Reglamento, con el fin de seleccionar todas aquellas quinielas participantes que coincidan con los resultados oficiales de los partidos programados para el concurso Progol Media Semana. Las quinielas que logren mayor número de aciertos se harán acreedoras a la parte proporcional del número asignado a la única categoría de premiación del concurso Progol Media Semana.
+
+A este acto se le denomina Selección de Ganadores definido en los términos del numeral 13 del artículo 3o. de este Reglamento.
+
+Concluida la ceremonia e identificadas las quinielas ganadoras, se levantará acta con la intervención del Inspector designado por la Secretaría de Gobernación y de los servidores públicos mencionados en el párrafo segundo del artículo 36o. de este Reglamento, quienes deben intervenir y suscribir el documento, para todos los efectos legales; en la cual se harán constar los antecedentes del concurso, sus resultados y cualquier incidente que ocurriera durante el mismo. A dicha acta se anexará archivo electrónico en el que se hará constar la lista producida por el sistema de computación que contenga los números de los boletos ganadores de la única categoría de premiación conforme a lo establecido en el artículo 50o., así como el importe correspondiente a la única categoría de premiación.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+
+###### Artículo 49o.
+
+Se considera Fondo de cada concurso el valor conjunto de todas las combinaciones que hayan sido captadas, controladas, registradas y aseguradas en el sistema central de captación de transacciones en línea, para los efectos de su participación en el concurso Progol Media Semana.
+
+Dicho fondo se aplicará como sigue:
+
+Hasta el 10% a los agentes autorizados como comisión por las ventas que realicen, en términos del contrato de comisión mercantil celebrado entre ellos y Pronósticos.
+
+Un mínimo del 50% destinado a premiación de los concursantes ganadores.
+
+El Consejo Directivo de Pronósticos autorizará la asignación del porcentaje destinado a premiación de los concursantes ganadores, a la única categoría de premiación para las quinielas que logren el mayor número de aciertos como se señala en el artículo 50o. de este Reglamento y la dará a conocer previamente al público en medios de comunicación masiva. Esta autorización tendrá vigencia hasta en tanto el propio Consejo Directivo no la modifique y le dé la publicidad señalada con antelación.
+
+El total para premiación asignado a la única categoría de premiación se prorrateará entre todas las quinielas ganadoras a la misma categoría de premiación redondeando importes conforme a lo dispuesto en la Ley Monetaria de los Estados Unidos Mexicanos.
+
+De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la Entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar las Reservas y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+
+###### Artículo 50o.
+
+El monto del fondo para el pago de los premios se distribuirá entre las quinielas que logren el mayor número de aciertos en Progol Media Semana de la siguiente manera:
+
+a) A los concursantes con 9 (nueve) aciertos.
+
+b) Si no hay cuando menos una quiniela con 9 (nueve) aciertos, entonces el premio se distribuye entre las quinielas que tengan 8 (ocho) aciertos y así sucesivamente.
+
+c) Si no hay cuando menos una quiniela con 1 (un) acierto, entonces el concurso se declara desierto y el monto del fondo será destinado a las Reservas existentes.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+
+###### Artículo 51o.
+
+Si por causas de fuerza mayor no acudiera al evento el Inspector designado por la Secretaría de Gobernación, se procederá con el concurso conforme a lo establecido en el artículo 42o. de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+
+### Capítulo XV. Del pago de los premios de Progol Media Semana
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+
+###### Artículo 52o.
+
+El participante ganador podrá cobrar el premio al que fue acreedor conforme a lo establecido en los artículos 29o. al 33o. de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+
+### Capítulo XVI. De las reclamaciones de Progol Media Semana
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+
+###### Artículo 53o.
+
+El participante que tenga interés directo, podrá impugnar los resultados de la Selección de Ganadores conforme a lo establecido en los artículos 23o. al 28o. de este Reglamento.
 
 ## Transitorios
 
@@ -572,3 +662,7 @@ D.O.F. 29 DE ENERO DE 2010.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
+
+D.O.F. 29 DE MARZO DE 2010.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
