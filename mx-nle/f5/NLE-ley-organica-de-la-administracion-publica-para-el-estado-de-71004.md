@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-710
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-10-02"
-last_updated: "2009-10-02"
+last_updated: "2010-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el viernes 2 de octubre de 2009.
 
@@ -327,9 +327,19 @@ XXXV. Mantener al corriente el escalafón y el tabulador de los trabajadores al 
 
 XXXVI. Llevar el registro de proveedores de bienes y servicios de la Administración Pública Estatal;
 
-XXXVII. Coordinar, supervisar y evaluar las actividades y resultados de las entidades sectorizadas a la Secretaría; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-XXXVIII. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
+XXXVII. Coordinar, supervisar y evaluar las actividades y resultados de las entidades sectorizadas a la Secretaría;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2010)</small>
+
+XXXVIII. Representar al Estado en los juicos o procedimientos en que éste sea parte o resulte algún interés patrimonial directo o indirecto;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2010)</small>
+
+XXXIX. Presentar las denuncias, acusaciones o querellas con motivo de hechos delictuosos donde resulte afectado el patrimonio del Estado, con las excepciones que marca la Ley, dándole el seguimiento correspondiente; y
+
+XL. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
 
 ###### Artículo 22.
 
@@ -345,9 +355,9 @@ IV. Presentar al Ejecutivo, en coordinación con el Secretario General de Gobier
 
 V. Informar al Ejecutivo Estatal sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado, a fin de que promueva su reforma o derogación;
 
-VI. Intervenir como representante legal del Ejecutivo del Estado en los juicios en que este sea parte, excepto en las acciones de inconstitucionalidad y controversias constitucionales a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los medios de control de la constitucionalidad local cuya representación corresponde a la Consejería Jurídica del Gobernador. En el caso de los juicios de amparo en que se señale como responsable a las autoridades del Poder Ejecutivo, únicamente conocerá del trámite de los mismos;
+VI. (DEROGADA, P.O. 29 DE MARZO DE 2010)
 
-VII. Asesorar a los municipios en el ejercicio de acciones patrimoniales y de todo orden, cuando así lo soliciten;
+VII. (DEROGADA, P.O. 29 DE MARZO DE 2010)
 
 VIII. Convenir y fortalecer las relaciones con los gobiernos federal y municipales, y con otros Estados, así como con la Secretaría de Seguridad Pública, para coordinar esfuerzos en materia de prevención contra la delincuencia organizada, en protección ciudadana y en la persecución de delitos;
 
@@ -359,17 +369,21 @@ XI. Dirigir las actividades de la Policía Ministerial en el Estado y coordinar 
 
 XII. Intervenir en los asuntos y procedimientos en que se ventilen intereses de los ausentes, menores e incapaces, en los casos determinados por la Ley;
 
-XIII. Formular y desarrollar programas de capacitación para el personal de la Procuraduría y de la Policía Ministerial;
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2010)</small>
 
-XIV. Proponer al Gobernador programas que tiendan a prevenir la delincuencia;
+XIII. Ejercer a través del Ministerio Público la acción de extinción de dominio, solicitar las medidas cautelares y efectuar las intervenciones que le correspondan de acuerdo con la Ley de Extinción de Dominio para el Estado de Nuevo León;
 
-XV. Llevar la estadística e identificación delincuencial del Estado;
+XIV. Formular y desarrollar programas de capacitación para el personal de la Procuraduría y de la Policía Ministerial;
 
-XVI. Ejercer las funciones que le encomienden las leyes, en materia de menores infractores;
+XV. Proponer al Gobernador programas que tiendan a prevenir la delincuencia;
 
-XVII. Coordinar, supervisar y evaluar las actividades y resultados de las entidades que le sean sectorizadas; y
+XVI. Llevar la estadística e identificación delincuencial del Estado;
 
-XVIII. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
+XVII. Ejercer las funciones que le encomienden las leyes, en materia de menores infractores;
+
+XVIII. Coordinar, supervisar y evaluar las actividades y resultados de las entidades que le sean sectorizadas; y
+
+XIX. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
 
 ###### Artículo 23.
 
@@ -853,13 +867,19 @@ El Consejero Jurídico del Gobernador podrá opinar previamente sobre el nombram
 
 VIII. Participar, junto con las demás dependencias y entidades competentes, en la actualización y simplificación del orden normativo jurídico, cuando el Titular del Ejecutivo así lo encomiende;
 
-IX. Representar al Gobernador del Estado en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los medios de control de la constitucionalidad local. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-X. Representar al Gobernador del Estado ante la Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León en todos aquellos procedimientos en los que el Titular del Ejecutivo del Estado deba intervenir conforme a la Ley de la materia. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
+IX. Representar jurídicamente al Gobernador del Estado en asuntos extrajudiciales y en los juicios o procedimientos en que este sea parte, tenga el carácter de tercero o le resulte algún interés jurídico, así como en las acciones de inconstitucionalidad y controversias constitucionales a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, y en los medios de control de la constitucionalidad local. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
 
-XI. Solicitar de las dependencias y entidades de la Administración Pública Estatal la información y apoyo que requiera para el cumplimiento de sus funciones; y
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2010)</small>
 
-XII. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
+X. Intervenir como parte ante el Tribunal de lo Contencioso Administrativo del Estado cuando el acto impugnado sea de naturaleza administrativa estatal, en los términos de lo dispuesto por el articulo 33 fracción III de la Ley de Justicia Administrativa para el Estado de Nuevo León;
+
+XI. Representar al Gobernador del Estado ante la Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León en todos aquellos procedimientos en los que el Titular del Ejecutivo del Estado deba intervenir conforme a la Ley de la materia. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
+
+XII. Solicitar de las dependencias y entidades de la Administración Pública Estatal la información y apoyo que requiera para el cumplimiento de sus funciones; y
+
+XIII. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
 
 ## TÍTULO CUARTO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL Y SECTORIZACIÓN DE LAS ENTIDADES
 
@@ -1046,3 +1066,23 @@ LOMBARDO VICTORIANO GUAJARDO GUAJARDO
 EL C. OFICIAL MAYOR DE GOBIERNO
 
 ROBERTO CANTÚ FLORES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE MARZO DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Quedan vigentes todas las leyes, reglamentos y demás disposiciones jurídicas, en cuanto no se opongan al presente Decreto.
+
+Tercero.- El Ejecutivo del Estado deberá emitir las modificaciones a los Reglamentos de la Procuraduría General de Justicia, la Consejería Jurídica del Gobernador y la Secretaría de Finanzas y Tesorería General del Estado, en los términos del presente Decreto, en un plazo no mayor de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Cuarto.- El personal de la Dirección de lo Contencioso de la Procuraduría General de Justicia del Estado quedará adscrito, con motivo del presente Decreto, a la Consejería Jurídica del Gobernador, incluyendo los recursos humanos y materiales que tenga asignados.
+
+El personal de dicha Dirección conservará los derechos que haya adquirido en virtud de su relación laboral con la Administración Pública Estatal.
+
+Quinto.- Los asuntos que se encuentren en trámite actualmente en los que sea parte el Estado o el Titular del Ejecutivo del Estado, la representación legal de los mismos se transfiere a las dependencias que la ostentarán de conformidad con lo establecido en el presente Decreto.
+
+Sexto.- Las atribuciones, asuntos o funciones conferidas en otros ordenamientos jurídicos a las dependencias o entidades previstas con anterioridad a la presente reforma, se entenderán concedidas a las dependencias que por virtud de este Decreto asumen dichos asuntos, atribuciones o funciones.
+
+En consecuencia, las menciones contenidas en otras Leyes, Reglamentos y en general en cualquier otra disposición, respecto de las dependencias o entidades antes mencionadas se entenderán referidas a las dependencias, que de acuerdo con el presente Decreto absorben tales funciones.
