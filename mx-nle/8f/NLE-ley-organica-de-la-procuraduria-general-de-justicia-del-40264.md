@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-40264"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-07-30"
-last_updated: "2010-03-18"
+last_updated: "2010-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2004.
 
@@ -43,15 +43,17 @@ LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
 Esta Ley es de orden público e interés social y tiene por objeto establecer la organización y funcionamiento de la Procuraduría General de Justicia del Estado de Nuevo León, para el despacho de los asuntos que al Ministerio Público y al Procurador General de Justicia atribuyen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Nuevo León, este ordenamiento y demás disposiciones legalmente aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
+
 ###### Artículo 2.
 
-La Procuraduría General de Justicia del Estado es la dependencia del Poder Ejecutivo que representa a la institución del Ministerio Público, encargada de defender los intereses de la sociedad debiendo por lo tanto, organizar, controlar y supervisar esta institución; vigilar el cumplimiento de las leyes; promover y coordinar la participación ciudadana en la actividad de la prevención del delito, a fin de lograr la procuración de justicia; e intervenir como representante legal del Ejecutivo del Estado en los juicios en que éste sea parte ó tenga el carácter de tercero, con las excepciones que marca la Ley.
+La Procuraduría General de Justicia del Estado es la dependencia del Poder Ejecutivo que representa a la institución del Ministerio Público, encargada de defender los intereses de la sociedad debiendo por lo tanto, organizar, controlar y supervisar esta institución; vigilar el cumplimiento de las leyes; y promover y coordinar la participación ciudadana en la actividad de la prevención del delito, a fin de lograr la procuración de justicia.
 
-> <small>(REFORMADO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
 
 ###### Artículo 3.
 
-El Ministerio Público es la institución que tiene como fin, en representación de la sociedad, investigar los delitos y brindar la debida protección a sus víctimas; perseguir a los posibles responsables de los mismos; ejercer ante los tribunales la acción penal y exigir la reparación de los daños y perjuicios; intervenir en asuntos del orden civil, familiar, penal y de adolescentes infractores en los casos en que señalen las leyes y realizar las demás funciones que los ordenamientos jurídicos establezcan.
+El Ministerio Público es la institución que tiene como fin, en representación de la sociedad, investigar los delitos y brindar la debida protección a sus víctimas; perseguir a los posibles responsables de los mismos; ejercer ante los tribunales la acción penal y exigir la reparación de los daños y perjuicios; intervenir en asuntos del orden civil, familiar, penal y de adolescentes infractores en los casos en que señalen las leyes, ejercitar la acción de extinción de dominio, solicitar las medidas cautelares y efectuar las intervenciones que le correspondan de acuerdo con la Ley de Extinción de Dominio para el Estado de Nuevo León y realizar las demás funciones que los ordenamientos jurídicos establezcan.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
 
@@ -111,19 +113,27 @@ a. La Dirección General de Averiguaciones Previas, de la que formarán parte:
 
 5. La Dirección de Agentes del Ministerio Público en Delitos Inmobiliarios, Regístrales y de Despojo de Inmueble.
 
-b. La Dirección General de Control de Procesos y Amparos de la que formarán parte:
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
 
-1. La Dirección de Agentes del Ministerio Público Adscritos a Juzgados; y
+b. La Dirección General de Control de Procesos y Amparos, de la que formarán parte:
 
-2. La Dirección de Amparos.
+1. La Dirección de Agentes del Ministerio Público Adscritos a Juzgados.
+
+2. La Dirección de Amparos; y
+
+3. La Dirección de Extradiciones y Asuntos Internacionales.
 
 II.- La Subprocuraduría Jurídica, de la cual dependerán:
 
-a. La Dirección General de Derechos Humanos, de la que formará parte el Centro de Orientación, Protección y Apoyo a Víctimas de Delitos;
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
 
-b. La Dirección de Extradiciones y Asuntos Internacionales;
+a. La Dirección de Derechos Humanos;
 
-c. La Dirección de lo Contencioso;
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
+
+b. El Centro de Orientación, Protección y Apoyo a Víctimas de Delitos;
+
+c. (DEROGADO, P.O. 29 DE MARZO DE 2010)
 
 d. La Dirección de Estudios y Asuntos Legislativos;
 
@@ -249,7 +259,7 @@ IV.- Proteger los derechos e intereses de los ausentes, menores e incapaces en l
 
 V.- Proporcionar atención a las víctimas y ofendidos por delitos y facilitar su coadyuvancia;
 
-VI.- Representar jurídicamente al Ejecutivo del Estado, con las excepciones que marca la Ley;
+VI.- (DEROGADA, P.O. 29 DE MARZO DE 2010)
 
 VII.- Realizar estudios y desarrollar programas de prevención del delito en el ámbito de su competencia;
 
@@ -275,9 +285,15 @@ XVII.- Mantener bajo su autoridad y mando inmediato a la Agencia Estatal de Inve
 
 XVIII.- Requerir, para el cumplimiento de sus atribuciones, informes, documentos y opiniones de instancias oficiales federales, estatales y municipales, así como de personas físicas ó morales;
 
-XIX.- Establecer medios de información a la comunidad, en forma sistemática y directa, para dar cuenta de las actividades de la Institución; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-XX.- Las demás que se determinen en esta Ley, su Reglamento y otras disposiciones legalmente aplicables.
+XIX.- Establecer medios de información a la comunidad; en forma sistemática y directa, para dar cuenta de las actividades de la Institución;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2010)</small>
+
+XX.- Ejercer a través del Ministerio Publico la acción de extinción de dominio, solicitar las medidas cautelares y efectuar las intervenciones que le correspondan de acuerdo con la Ley de Extinción de Dominio para el Estado de Nuevo León; y
+
+XXI.- Las demás que se determinen en esta Ley, su Reglamento y otras disposiciones legalmente aplicables.
 
 ###### Artículo 23.
 
@@ -651,9 +667,13 @@ VIII.- Poner en conocimiento del Subprocurador del Ministerio Público, sin demo
 
 IX.- Rendir, al Subprocurador del Ministerio Público, los informes correspondientes sobre los bienes recuperados e instrumentos del delito vinculados a las averiguaciones previas;
 
-X.- Establecer, en coordinación con la Dirección General de Derechos Humanos, lineamientos para brindar apoyo jurídico, psicológico y social a las víctimas y ofendidos por delitos y, en caso de ser necesario, a sus familiares;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-XI.- Remitir para su debida atención, a la Dirección General de Derechos Humanos, a los menores, incapaces o a cualquier otra persona cuando de los casos en que intervenga se desprenda que es necesaria su atención;
+X.- Establecer, en coordinación con el Centro de Orientación, Protección y Apoyo a Víctimas de Delitos, lineamientos para brindar apoyo jurídico, psicológico y social a las víctimas y ofendidos por delitos y, en caso de ser necesario, a sus familiares;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
+
+XI.- Remitir para su debida atención, al Centro de Orientación, Protección y Apoyo a Víctimas de Delitos, a los menores, incapaces o a cualquier otra persona cuando de los casos en que intervenga se desprenda que es necesaria su atención;
 
 XII.- Coordinarse con las autoridades competentes a fin de localizar, en los términos de convenciones internacionales de las que México sea parte, a menores trasladados ilícitamente, dentro y fuera de la República;
 
@@ -757,15 +777,21 @@ VIII.- Concurrir a las visitas de reclusorios que practiquen los Jueces ante los
 
 IX.- Expedir los lineamientos para la actuación del Ministerio Público en los procesos que son de la competencia de los Jueces Menores;
 
-X.- Coordinarse con la Dirección de Extradiciones y Asuntos Internacionales, para formular pedimentos de cumplimientos de mandamientos judiciales en el extranjero;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
+
+X.- Formular pedimentos de cumplimientos de mandamientos judiciales en el extranjero, apoyándose en la Dirección de Extradiciones y Asuntos Internacionales;
 
 XI.- Operar y ejecutar bases, convenios u otros instrumentos de coordinación o colaboración celebrados por la Institución en materia de derecho familiar y de procesos penales, incluyendo lo relativo al cumplimiento de mandamientos judiciales;
 
 XII.- Mantener comunicación con el Poder Judicial del Estado y el Poder Judicial de la Federación, y demás autoridades competentes en los asuntos de su competencia;
 
-XIII.- Establecer, en coordinación con la Dirección General de Derechos Humanos, lineamientos para brindar apoyo jurídico, psicológico y social a las víctimas y ofendidos por delitos y, en caso de así ser necesario, a sus familiares;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-XIV.- Remitir para su debida atención, a la Dirección General de Derechos Humanos, a los menores, incapaces o a cualquier otra persona cuando de los casos en que intervenga se desprenda que es necesaria su atención;
+XIII.- Establecer, en coordinación con el Centro de Orientación, Protección y Apoyo a Víctimas de Delitos, lineamientos para brindar apoyo jurídico, psicológico y social a las víctimas y ofendidos por delitos y, en caso de así ser necesario, a sus familiares;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
+
+XIV.- Remitir para su debida atención, al Centro de Orientación, Protección y Apoyo a Víctimas de Delitos a los menores, incapaces o a cualquier otra persona cuando de los casos en que intervenga se desprenda que es necesaria su atención;
 
 XV.- Implementar y mantener actualizado un sistema de compilación de tesis judiciales dictadas en materia de amparo contra actos de la Procuraduría General de Justicia del Estado y del Poder Judicial Estatal; y en general, de todos aquellos criterios judiciales que sean relevantes;
 
@@ -809,19 +835,45 @@ IX.- Coordinar la intervención del Ministerio Público del Estado, con la Procu
 
 X.- Las que le encomiende el Director General de Control de Procesos y de Amparos, o le otorgue esta Ley, su Reglamento y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2010)</small>
+
+###### Artículo 38 Bis.
+
+La Dirección de Extradiciones y Asuntos Internacionales depende de la Dirección General de Control de Procesos y Amparos y es la unidad administrativa responsable de realizar las gestiones necesarias para dar seguimiento y cabal cumplimiento a los compromisos de carácter internacional asumidos por la Federación o el Estado, dentro de sus respectivas competencias, en materia de extradiciones y procuración de justicia, así como representar a la Institución en el ámbito internacional, siendo competente para:
+
+I. Auxiliar a las unidades administrativas de la Procuraduría en la práctica de diligencias, obtención e intercambio de información en el extranjero.
+
+II. Colaborar con las unidades administrativas de la Procuraduría que así lo requieran en la formulación de pedimentos de cumplimientos de mandamientos Judiciales en el extranjero.
+
+III. Apoyar, facilitar y coadyuvar con las notificaciones de comparecencia por delitos de extranjeros en el Estado o de mexicanos en el extranjero que sean requeridos por autoridad competente para el desahogo de diligencias en los procesos instaurados.
+
+IV. Solicitar, o en su caso brindar, al Ministerio Público de la Federación, el auxilio necesario para la práctica de diligencias que asilo requieran.
+
+V. Desahogar las consultas jurídicas que le sean formuladas por las unidades administrativas de la Procuraduría, en materia de extradiciones y de asuntos internacionales vinculados con la procuración de justicia.
+
+VI. Realizar, en coordinación con la Dirección de Estudios y Asuntos Legislativos, el análisis jurídico de la legislación nacional y extranjera en las materias penal y procesal penal, así como de los instrumentos jurídicos internacionales relativos al desahogo de los procedimientos de extradición.
+
+VII. Coadyuvar en los términos de las leyes aplicables en el trámite y resolución de cualquier solicitud de extradición en la que el Estado tenga interés jurídico.
+
+VIII. Participar en las reuniones entre Procuradurías celebradas en México o en el extranjero en materia de asuntos internacionales; y
+
+IX. Las demás que le encomiende el Director General de Control de Procesos y Amparos o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2010)</small>
+
 ###### Artículo 39.
 
-La Subprocuraduría Jurídica depende directamente del Procurador, y es la unidad administrativa responsable de realizar las acciones necesarias para la obtención de una óptima procuración de justicia, dirigiendo las acciones necesarias para el debido respeto a los derechos humanos, atendiendo los vínculos de carácter internacional de la dependencia, representando jurídicamente al Ejecutivo del Estado, proponiendo las reformas legislativas necesarias, brindando orientación social en materia de procuración de justicia a la comunidad, capacitando al personal de la Procuraduría e impulsando el uso de métodos alternos para la prevención y solución de conflictos, siendo competente para:
+La Subprocuraduría Jurídica depende directamente del Procurador, y es la unidad administrativa responsable de realizar las acciones necesarias para la obtención de una óptima procuración de justicia, dirigiendo las acciones necesarias para el debido respeto a los derechos humanos, proponiendo las reformas legislativas necesarias, brindando orientación social en materia de procuración de justicia a la comunidad, capacitando al personal de la Procuraduría e impulsando el uso de métodos alternos para la prevención y solución de conflictos, siendo competente para:
 
 I.- Dirigir las acciones necesarias para promover el debido respeto a los derechos humanos en la Institución;
 
 II.- Proporcionar atención a las víctimas y ofendidos por delitos y facilitar su coadyuvancia;
 
-III.- Realizar, en coordinación con la Subprocuraduría del Ministerio Público, las acciones necesarias en materia de extradiciones;
+III.- (DEROGADA, P.O. 29 DE MARZO DE 2010)
 
-IV.- Atender y dar seguimiento a los asuntos internacionales que correspondan a la Institución, y a los acuerdos tomados por las instancias competentes para el respeto de los instrumentos internacionales en materia de procuración de justicia;
+IV.- (DEROGADA, P.O. 29 DE MARZO DE 2010)
 
-V.- Conocer de los asuntos relacionados con la representación jurídica del Ejecutivo del Estado, con las excepciones que marca la Ley;
+V.- (DEROGADA, P.O. 29 DE MARZO DE 2010)
 
 VI.- Representar al Procurador o a cualquier otro servidor público de la Procuraduría, en los juicios no penales en los que ésta sea parte y en los que se promuevan en contra de sus servidores públicos que deriven de actos realizados en representación de la Institución, con las excepciones que marque la ley;
 
@@ -847,89 +899,57 @@ XVI.- Desarrollar y someter a la aprobación del Procurador los Manuales de Orga
 
 XVII.- Las que le encomiende el Procurador o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
+
 ###### Artículo 40.
 
-La Dirección General de Derechos Humanos depende de la Subprocuraduría Jurídica y es la unidad administrativa responsable de realizar las acciones que garanticen el respeto a los derechos humanos en la Institución y de brindar la debida atención a víctimas y ofendidos por delitos a través del Centro de Orientación, Protección y Apoyo a Víctimas de Delitos, siendo competente para:
+La Dirección de Derechos Humanos depende de la Subprocuraduría Jurídica y es la unidad administrativa responsable de realizar las acciones que garanticen el respeto a los derechos humanos en la Institución, siendo competente para:
 
-I.- Establecer, en coordinación con el Instituto de Formación Profesional y otras instituciones competentes, los programas de orientación y capacitación en materia de derechos humanos que se impartan a los servidores públicos de la Procuraduría para promover entre ellos el respeto absoluto a los derechos humanos;
+I.- Establecer, en coordinación con el Instituto de Formación Profesional y otras instituciones competentes, los programas de orientación y capacitación en materia de derechos humanos que se impartan a los servidores públicos de la Procuraduría para promover entre ellos el respeto absoluto a los derechos humanos.
 
-II.- Establecer, en coordinación con la Dirección de Orientación Social, los programas de orientación y difusión en materia de derechos humanos y de atención a ofendidos por delitos, que se impartan a la ciudadanía;
+II.- Establecer, en coordinación con la Dirección de Orientación Social, los programas de orientación y difusión en materia de derechos humanos y de atención a ofendidos por delitos, que se impartan a la ciudadanía.
 
-III.- Difundir, en coordinación con la Dirección de Extradiciones y Asuntos Internacionales, entre los servidores públicos de la Procuraduría, el contenido de los tratados internacionales ratificados por México en materia de derechos humanos;
+III.- Difundir, en coordinación con la Dirección de Extradiciones y Asuntos Internacionales, entre los servidores públicos de la Procuraduría, el contenido de los tratados internacionales ratificados por México en materia de derechos humanos.
 
-IV.- Realizar programas de difusión y orientación mediante conferencias, cursos, seminarios y eventos que tiendan a fortalecer el respeto absoluto de los derechos humanos, dirigidos a los servidores públicos de la Procuraduría y a la comunidad en general;
+IV.- Realizar programas de difusión y orientación mediante conferencias, cursos, seminarios y eventos que tiendan a fortalecer el respeto absoluto de los derechos humanos, dirigidos a los servidores públicos de la Procuraduría y a la comunidad en general.
 
-V.- Establecer los vínculos interinstitucionales con la Comisión Nacional de los Derechos Humanos, la Comisión Estatal de Derechos Humanos, y cualquier otra dependencia pública o privada en materia de derechos humanos;
+V.- Establecer los vínculos interinstitucionales con la Comisión Nacional de los Derechos Humanos, la Comisan Estatal de Derechos Humanos, y cualquier otra dependencia pública o privada en materia de derechos humanos.
 
-VI.- Proponer al Subprocurador Jurídico, la celebración de convenios y bases de colaboración con instituciones públicas y privadas, nacionales e internacionales para la capacitación y difusión general del respeto a los derechos humanos;
+VI.- Proponer al Subprocurador Jurídico, la celebración de convenios y bases de colaboración con instituciones públicas y privadas, nacionales e internacionales para la capacitación y difusión general del respeto a los derechos humanos.
 
-VII.- Proponer al Subprocurador Jurídico la celebración de convenios con instituciones de asistencia médica y social, públicas y privadas, para brindar la debida atención a las víctimas y ofendidos por delitos;
+VII.- Dar seguimiento a los acuerdos tomados por las instancias de coordinación para el respeto de los instrumentos internacionales en materia de derechos humanos de los que México sea parte, con la participación de las demás unidades administrativas competentes de la Institución.
 
-VIII.- Dar seguimiento a los acuerdos tomados por las instancias de coordinación para el respeto de los instrumentos internacionales en materia de derechos humanos y de atención a víctimas y ofendidos por delitos, de los que México sea parte, con la participación de las demás unidades administrativas competentes de la Institución;
+VIII.- Establecer y coordinar, con el resto de las unidades administrativas de la Procuraduría, medidas generales de prevención a violaciones de los derechos humanos, vigilando su cumplimiento y proporcionándoles orientación en la materia.
 
-IX.- Establecer y coordinar, con el resto de las unidades administrativas de la Procuraduría, medidas generales de prevención a violaciones de los derechos humanos, vigilando su cumplimiento y proporcionándoles orientación en la materia;
+IX.- Instalar, en coordinación con las demás unidades administrativas de la Procuraduría, módulos para la protección y promoción de los derechos humanos.
 
-X.- Instalar, en coordinación con las demás unidades administrativas de la Procuraduría, módulos para la protección y promoción de los derechos humanos;
+X.- Las que le encomiende el Subprocurador Jurídico y le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
 
-XI.- Establecer, en coordinación con las demás unidades administrativas de la Procuraduría, lineamientos para brindar apoyo jurídico, médico y psicológico a las víctimas y ofendidos por delitos y en caso de así ser necesario, a sus familiares;
-
-XII.- Proporcionar orientación y asesoría jurídica, así como atención médica y psicológica a las víctimas y ofendidos por delitos y en caso de así ser necesario, a sus familiares;
-
-XIII.- Coordinarse con las áreas competentes de la Institución para promover que se garantice y haga efectiva la reparación de los daños y perjuicios a las víctimas y ofendidos por delitos, de conformidad con las disposiciones legalmente aplicables;
-
-XIV.- Canalizar a las víctimas y ofendidos por delitos, así como a otras personas cuando resulte necesario, a las dependencias y entidades que proporcionen servicios de carácter tutelar, asistencial, preventivo, médico, psicológico y educacional, vigilando su debida atención;
-
-XV.- Realizar las acciones que le correspondan en materia de métodos alternos para la prevención y solución de conflictos conforme a la Ley de la materia y demás disposiciones legalmente aplicables; y
-
-XVI.- Las que le encomiende el Subprocurador Jurídico y les otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
 
 ###### Artículo 41.
 
-La Dirección de Extradiciones y Asuntos Internacionales depende de la Subprocuraduría Jurídica y es la unidad administrativa responsable de realizar las gestiones necesarias para dar seguimiento y cabal cumplimiento a los compromisos de carácter internacional asumidos por la Federación o el Estado, dentro de sus respectivas competencias, en materia de extradiciones y procuración de justicia, así como de representar a la Institución en el ámbito internacional, siendo competente para:
+El Centro de Orientación, Protección y Apoyo a Víctimas de Delitos depende de la Subprocuraduría Jurídica y es la unidad administrativa responsable de brindar la debida atención a víctimas y ofendidos por delitos, siendo competente para:
 
-I.- Auxiliar a las unidades administrativas de la Procuraduría en la práctica de diligencias, obtención e intercambio de información en el extranjero;
+I.- Proponer al Subprocurador Jurídico la celebración de convenios con instituciones de asistencia médica y social, públicas y privadas, para brindar la debida atención a las víctimas y ofendidos por delitos.
 
-II.- Colaborar con las unidades administrativas de la Procuraduría que así lo requieran en la formulación de pedimentos de cumplimientos de mandamientos judiciales en el extranjero;
+II.- Dar seguimiento a los acuerdos tomados por las instancias de coordinación para el respeto de los instrumentos internacionales en materia de atención a víctimas y ofendidos por delitos, de los que México sea parte, con la participación de las demás unidades administrativas competentes de la Institución.
 
-III.- Apoyar, facilitar y coadyuvar con las notificaciones de comparecencia por delitos de extranjeros en el Estado o de mexicanos en el extranjero que sean requeridos por autoridad competente para el desahogo de diligencias en los procesos instaurados;
+III.- Establecer, en coordinación con las demás unidades administrativas de la Procuraduría, lineamientos para brindar apoyo jurídico, médico y psicológico a las víctimas y ofendidos por delitos y en caso de así ser necesario a sus familiares.
 
-IV.- Solicitar, o en su caso brindar, al Ministerio Público de la Federación, el auxilio necesario para la práctica de diligencias que así lo requieran;
+IV.- Proporcionar orientación y asesoría jurídica, así como atención médica y psicológica a las víctimas y ofendidos por delitos y en caso de ser necesario, a sus familiares.
 
-V.- Desahogar las consultas jurídicas que le sean formuladas por las unidades administrativas de la Procuraduría, en materia de extradiciones y de asuntos internacionales vinculados con la procuración de justicia;
+V.- Coordinarse con las áreas competentes de la Institución para promover que se garantice y haga efectiva la reparación de los daños y perjuicios a las víctimas y ofendidos por delitos, de conformidad con las disposiciones legalmente aplicables.
 
-VI.- Realizar, en coordinación con la Dirección de Estudios y Asuntos Legislativos, el análisis jurídico de la legislación nacional y extranjera en las materias penal y procesal penal, así como de los instrumentos jurídicos internacionales relativos al desahogo de los procedimientos de extradición;
+VI.- Canalizar a las víctimas y ofendidos por delitos, así como a otras personas cuando resulte necesario, a las dependencias y entidades que proporcionen servicios de carácter tutelar, asistencial, preventivo, médico, psicológico y educacional, vigilando su debida atención.
 
-VII.- Coadyuvar en los términos de las leyes aplicables en el trámite y resolución de cualquier solicitud de extradición en la que el Estado tenga interés jurídico;
+VII.- Realizar las acciones que le correspondan en materia de métodos alternos para la prevención y solución de conflictos conforme a la Ley de la materia y demás disposiciones legítimamente aplicables; y
 
-VIII.- Participar en las reuniones entre Procuradurías celebradas en México o en el extranjero en materia de asuntos internacionales; y
-
-IX.- Las demás que le encomiende el Subprocurador Jurídico o le otorguen esta Ley, su Reglamento, y demás disposiciones legalmente aplicables.
+VIII.- Las que le encomiende el Subprocurador Jurídico y le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
 
 ###### Artículo 42.
 
-La Dirección de lo Contencioso depende de la Subprocuraduría Jurídica y es la unidad administrativa responsable de intervenir como representante legal del Ejecutivo del Estado en los juicios en que éste sea parte, siendo competente para:
-
-I.- Intervenir, por instrucciones del Subprocurador Jurídico, en los juicios de amparo en que se señalen como responsables a las autoridades del Poder Ejecutivo, con excepción de las autoridades señaladas en el artículo 38, fracción I de esta Ley;
-
-II.- Elaborar los informes previos y justificados en los juicios de amparo en que se señalen como autoridades responsables al Gobernador del Estado y Secretario General de Gobierno y dar el seguimiento al proceso de garantías hasta su total conclusión;
-
-III.- Formular todos los escritos y promociones en los negocios en que el Estado fuese parte o tercero extraño al procedimiento y en cualquier caso en que al Estado le pueda derivar algún interés, haciendo el seguimiento al proceso correspondiente;
-
-IV.- Acreditar a los servidores públicos de su adscripción, como delegados de las autoridades responsables señaladas en la fracción II de este artículo, en los juicios de amparo respectivos, conforme a los términos de la Ley de la materia;
-
-V.- Redactar las denuncias, acusaciones o querellas con motivo de hechos delictuosos donde resulte afectado el patrimonio del Estado, con las excepciones que marca la Ley, dándole el seguimiento correspondiente a la averiguación previa que al efecto se forme;
-
-VI.- Mantener comunicación con el Poder Judicial del Estado y el Poder Judicial de la Federación, en los asuntos de su competencia;
-
-VII.- Dar seguimiento a las controversias constitucionales en que sea parte el Estado de Nuevo León, así como a las acciones de inconstitucionalidad;
-
-VIII.- Resolver las consultas que formule el Ejecutivo del Estado y de los municipios, derivadas de acciones ejercitadas en contra de las Dependencias a su cargo;
-
-IX.- Elaborar las opiniones para asesorar al personal de la Procuraduría en el orden técnico-jurídico respecto de los asuntos que lo requieran;
-
-X.- Elaborar las opiniones para asesorar a los municipios en el ejercicio de acciones patrimoniales y de todo orden, cuando así lo soliciten y lo ordene el Procurador; y
-
-XI.- Las que le encomiende el Subprocurador Jurídico o le otorguen esta Ley, su Reglamento, y demás disposiciones legalmente aplicables.
+(DEROGADO, P.O. 29 DE MARZO DE 2010)
 
 ###### Artículo 43.
 
@@ -2116,3 +2136,21 @@ Primero.- El presente Decreto entraré en vigor al día siguiente de su publicac
 Segundo.- El Ejecutivo del Estado deberá realizar las reformas al Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, a fin de establecer y regular el funcionamiento de la Unidad Especializada Antisecuestros en un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
 Tercero.- La Secretaría de Finanzas y Tesorería General del estado deberá realizar las modificaciones presupuestales y determinar las partidas necesarias para el funcionamiento adecuado de la Unidad Especializada Antisecuestros, en un plazo no mayor a 90 días naturales contador (sic) a partir de la entrada en vigor del presente Decreto.
+
+P.O. 29 DE MARZO DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Quedan vigentes todas las leyes, reglamentos y demás disposiciones jurídicas, en cuanto no se opongan al presente Decreto.
+
+Tercero.- El Ejecutivo del Estado deberá emitir las modificaciones a los Reglamentos de la Procuraduría General de Justicia, la Consejería Jurídica del Gobernador y la Secretaría de Finanzas y Tesorería General del Estado, en los términos del presente Decreto, en un plazo no mayor de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Cuarto.- El personal de la Dirección de lo Contencioso de la Procuraduría General de Justicia del Estado quedará adscrito, con motivo del presente Decreto, a la Consejería Jurídica del Gobernador, incluyendo los recursos humanos y materiales que tenga asignados.
+
+El personal de dicha Dirección conservará los derechos que haya adquirido en virtud de su relación laboral con la Administración Pública Estatal.
+
+Quinto.- Los asuntos que se encuentren en trámite actualmente en los que sea parte el Estado o el Titular del Ejecutivo del Estado, la representación legal de los mismos se transfiere a las dependencias que la ostentarán de conformidad con lo establecido en el presente Decreto.
+
+Sexto.- Las atribuciones, asuntos o funciones conferidas en otros ordenamientos jurídicos a las dependencias o entidades previstas con anterioridad a la presente reforma, se entenderán concedidas a las dependencias que por virtud de este Decreto asumen dichos asuntos, atribuciones o funciones.
+
+En consecuencia, las menciones contenidas en otras leyes, Reglamentos y en general en cualquier otra disposición, respecto de las dependencias o entidades antes mencionadas se entenderán referidas a las dependencias, que de acuerdo con el presente Decreto absorben tales funciones.
