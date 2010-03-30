@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2010-02-05"
+last_updated: "2010-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MARZO DE 2010.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -277,9 +277,11 @@ Los reglamentos, acuerdos o resoluciones del Pleno que sean aprobados con modifi
 
 Si el asunto fuere de interés general, deberá remitirse en algún medio de almacenamiento magnético o digital al Secretario Ejecutivo antes mencionado, al día siguiente de su aprobación, a fin de agilizar su publicación en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 30 DE MARZO DE 2010)</small>
+
 ###### Artículo 21.
 
-Las facultades no delegables del Pleno, contenidas en las fracciones II, XVII, XIX, así como en la XL, del artículo 81 de la Ley, se regirán por los lineamientos contenidos en los acuerdos generales y demás disposiciones que emita el Pleno.
+Las facultades no delegables del Pleno, contenidas en las fracciones II, XVII, XVIII, XIX, así como en la XL, del artículo 81 de la Ley, se regirán por los lineamientos contenidos en los acuerdos generales y demás disposiciones que emita el Pleno.
 
 ###### Artículo 22.
 
@@ -1483,7 +1485,9 @@ XXV. Proponer a la Comisión de Administración, los estudios y dictámenes téc
 
 XXVI. Coordinar la actualización de las estructuras ocupacionales y las plantillas autorizadas para las unidades administrativas, órganos auxiliares y jurisdiccionales del Consejo;
 
-XXVII. Coordinar la integración y actualización del manual de organización general del Consejo y de los manuales específicos de organización y procedimientos de las áreas que lo integran;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 30 DE MARZO DE 2010)</small>
+
+XXVII. Coordinar la integración y actualización del manual de organización general del Consejo y su presentación a la Comisión de Administración, así como aprobar los manuales específicos de organización y procedimientos de las áreas que lo integran;
 
 XXVIII. Dirigir y evaluar la operación y funcionamiento de las unidades administrativas adscritas a esta secretaría;
 
@@ -3552,3 +3556,11 @@ SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, par
 TERCERO.- El personal de la Secretaría Ejecutiva del Pleno y el de la Secretaría General de la Presidencia deberá integrar la estructura inicial de la Secretaría Ejecutiva del Pleno y de la Presidencia del Consejo de la Judicatura Federal, lo que deberá hacerse del conocimiento de la Dirección General de Programación y Presupuesto y de la Dirección General de Recursos Humanos.
 
 CUARTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo.
+
+D.O.F. 30 DE MARZO DE 2010
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo.
