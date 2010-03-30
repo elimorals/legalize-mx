@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-instituye-un-patrimonio-de-beneficio-universitario-1623
 country: "mx"
 rank: "ley"
 publication_date: "1961-06-07"
-last_updated: "1964-01-25"
+last_updated: "2010-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY QUE INSTITUYE UN PATRIMONIO DE BENEFICIO UNIVERSITARIO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1964.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NUM. 52, PUBLICADO EN EL P.O. DE 30 DE MARZO DE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 7 de junio de 1961.
 
@@ -96,3 +98,15 @@ P.O. 25 DE ENERO DE 1964.
 ###### ARTICULO SEGUNDO
 
 - Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE MARZO DE 2010.
+
+Primero.- El presente Decreto entrará en vigor en la fecha de su publicación en el
+
+Periódico Oficial del Estado.
+
+Segundo.- Inscríbase en el Registro Público de la Propiedad y del Comercio con las anotaciones conducentes, al margen de las inscripciones conforme a lo descrito en el presente Dictamen.
+
+> <small>N. DE E. SE TRANSCRIBE EL ARTICULO PRIMERO DEL DECRETO NUM. 52. QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+Artículo Primero.- Se abroga la Ley que Instituye un Patrimonio de Beneficio Universitario expedida por el H. Congreso del Estado, mediante Decreto numero 129 de fecha 31 de mayo de 1961, publicado en el Periódico Oficial del Estado de fecha 07 de junio de 1961 y reformada mediante Decreto numero 119 de fecha 14 de enero de 1964 publicado en el Periódico Oficial del Estado de fecha 25 de enero de 1964.
