@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-consejo-de-honor-y-justicia-de-seguridad-29260"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-28"
-last_updated: "2009-03-10"
+last_updated: "2010-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29260&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DEL CONSEJO DE HONOR Y JUSTICIA DE SEGURIDAD PUBLICA PARA EL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE HONOR Y JUSTICIA DE LA SECRETARIA DE SEGURIDAD PUBLICA, PUBLICADO EN EL P.O. DE 30 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 28 de febrero de 2003.
 
@@ -946,3 +948,29 @@ El presente decreto entrará en vigor al cuarto día siguiente al de su publicac
 ###### ARTÍCULO SEGUNDO.
 
 Los asuntos que actualmente estén pendientes de resolver ante el Consejo de Honor y Justicia de Seguridad Pública para el Estado, se tramitarán con base en los dispositivos con que se iniciaron hasta su debida conclusión.
+
+P.O. 30 DE MARZO DE 2010.
+
+Entrada en vigencia
+
+Artículo Primero. El presente Reglamento entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Reglamento del Consejo de Honor y Justicia, contenido en el Decreto Gubernativo número 150, publicado en el Periódico Oficial del Gobierno del Estado número 34 Segunda Parte, del 28 de febrero del 2003.
+
+Derogación de otras disposiciones jurídicas
+
+Artículo Tercero. Se deroga cualquier disposición reglamentaria o administrativa que se oponga a las disposiciones del presente ordenamiento.
+
+Trámite de los procedimientos disciplinarios
+
+Artículo Cuarto. Los procedimientos disciplinarios que se encuentren en trámite al momento de la entrada en vigor del presente decreto, se sujetarán a las disposiciones procesales vigentes al momento de la falta administrativa, inclusive los recursos que se encuentren pendientes de su resolución hasta su debida conclusión, con la salvedad señalada en el Artículo Transitorio siguiente.
+
+Competencia
+
+Artículo Quinto. El Consejo de Honor y Justicia de las Instituciones Policiales será competente para continuar conociendo de los procedimientos administrativos o de los recursos que se encuentren en trámite a la entrada en vigor del presente decreto.
+
+Área competente
+
+Artículo Sexto. En tanto se crea la Unidad, las facultades conferidas a la misma en el presente ordenamiento serán ejercidas por la Dirección Jurídica, de Visitaduría Interna y Derechos Humanos de la Secretaría.
