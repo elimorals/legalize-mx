@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-seguridad-publica-en-materia-de-57133"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-18"
-last_updated: "2007-09-18"
+last_updated: "2010-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE SEGURIDAD PUBLICA EN MATERIA DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO EN MATERIA DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS, PUBLICADO EN EL P.O. DE 30 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 18 de septiembre de 2007.
 
@@ -458,3 +460,31 @@ JOSE GERARDO MOSQUEDA
 EL SECRETARIO DE SEGURIDAD PÚBLICA
 
 BALTAZAR VILCHES HINOJOSA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL REGLAMENTO.</small>
+
+P.O. 30 DE MARZO DE 2010.
+
+Vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de Reglamento
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 48 que contiene el Reglamento de la Ley de Seguridad Pública en materia de Servicios (sic) Seguridad Privada para el Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado número 150, Segunda Parte, del 18 de septiembre de 2007.
+
+Continuidad y conclusión de trámites vigentes
+
+Artículo Tercero. Los trámites que en materia de seguridad privada actualmente estén en curso ante la Secretaría antes de la entrada en vigor del presente Decreto, continuarán hasta su conclusión de conformidad con las disposiciones vigentes en el momento de su iniciación, con la salvedad de que los trámites los desahogará la Dirección Jurídica, de Visitaduría Interna y Derechos Humanos.
+
+Plazo para capacitación del personal de los prestadores autorizados
+
+Artículo Cuarto. Los prestadores de servicios que actualmente cuenten con autorización, tendrán el periodo de un año contando a partir de la entrada en vigencia de este Decreto, para que todo su personal se encuentre capacitado conforme los lineamientos establecidos en el presente reglamento.
+
+Regularización de actividades
+
+Artículo Quinto. Las personas que presenten servicios de seguridad privada y que no cuenten con autorización del Estado, tendrán un plazo de seis meses contados a partir de la entrada en vigencia del presente Decreto para acudir a la Secretaría, regularizarse y obtener su autorización en los términos de este Reglamento.
+
+Derogación de disposiciones
+
+Artículo Sexto. Se derogan todas aquellas disposiciones que se opongan al presente Decreto Gubernativo.
