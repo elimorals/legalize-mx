@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-674
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-16"
-last_updated: "2009-02-16"
+last_updated: "2010-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 30 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 16 de febrero de 2009.
 
@@ -1014,3 +1016,17 @@ LA SECRETARIA DE GOBIERNO
 LIC. CORA AMALIA CASTILLA MADRID
 
 La presente hoja forma parte integral del Reglamento Interior de la Secretaría de Gobierno del Estado de Quintana Roo, expedido el veintiséis de enero del año dos mil nueve.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE MARZO DE 2010.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaria de Gobierno del Estado de Quintana Roo, expedido por el Gobernador del Estado, con fecha 16 de febrero del año 2009 y publicado en el Periódico Oficial del Estado de Quintana Roo, con fecha 16 de febrero de ese mismo año, así como todas sus reformas y fe de texto correspondientes.
+
+TERCERO. Se derogan todas las disposiciones reglamentarias y administrativas de igualo menor jerarquía que se opongan al presente Reglamento.
+
+CUARTO. Las unidades administrativas de la Secretaría deberán elaborar sus manuales de organización, manuales de procedimientos y manuales de servicios y atención al público, en términos del presente Reglamento y en el ámbito de sus respectivas competencias.
+
+QUINTO. Los asuntos que se encuentren en trámite en las unidades administrativas cuyas facultades se reforman, serán atendidos y resueltos en los términos de las competencias que establece el presente Reglamento.
