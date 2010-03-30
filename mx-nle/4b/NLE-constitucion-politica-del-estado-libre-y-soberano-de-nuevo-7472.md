@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2010-03-29"
+last_updated: "2010-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -2053,9 +2053,9 @@ Toda persona tiene derecho a la protección de la salud. La ley establecerá las
 
 Todos los habitantes tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como del deber de conservarlo. Los Poderes del Estado, en forma coordinada con la ciudadanía, velarán por la conservación de los recursos naturales, así como su uso y explotación; a proteger y mejorar la calidad de vida, tanto como defender y restaurar el medio ambiente, en forma solidaria en el logro de estos objetivos de orden superior.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2010)</small>
 
-El niño tiene derecho a la vida sana, a la satisfacción de sus necesidades de salud, alimentación, educación, sano esparcimiento, a la preparación para el trabajo y a llevar una vida digna y libre de violencia, para su desarrollo integral. Nadie podrá darle malos tratos, ni inducirlo a prácticas que afecten su formación. El Estado proveerá lo necesario y expedirá leyes y normas para garantizar el acceso y goce pleno de los derechos del niño.
+La niñez tiene derecho a una vida sana, a la satisfacción de sus necesidades de salud, alimentación, educación, sano esparcimiento, a la preparación para el trabajo y a llevar una vida digna y libre de violencia, para su desarrollo integral. El Estado proveerá lo necesario y expedirá leyes y normas para garantizar el acceso y goce pleno de todos sus derechos, tomando como consideración fundamental que siempre se atenderá al interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
 
@@ -3338,3 +3338,7 @@ P.O. 1 DE MAYO DE 2009.
 P.O. 29 DE MARZO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MARZO DE 2010.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
