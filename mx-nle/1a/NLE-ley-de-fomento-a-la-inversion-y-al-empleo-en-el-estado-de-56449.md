@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-inversion-y-al-empleo-en-el-estado-de-56449
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-20"
-last_updated: "2007-07-20"
+last_updated: "2010-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA INVERSION Y AL EMPLEO EN EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2007.
 
@@ -385,6 +385,10 @@ La Secretaría será responsable de dar seguimiento a las solicitudes de incenti
 
 Para el otorgamiento de incentivos, la Secretaría, el Comité o el Consejo harán uso de un sistema de ponderación de los factores a que se refiere el artículo 26 de esta Ley, mismo que será definido a través del Reglamento de la misma.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2010)</small>
+
+Dando prioridad al otorgamiento de incentivos a las empresas de nueva creación que se establezcan en los municipios con ultracrecimiento, entendiéndose por éstos los que presenten un crecimiento mayor al 30% en el numero de registros catastrales ante la Dirección de Catastro de la Secretaría de Finanzas y Tesorería General del Estado, respecto del ejercicio 2005.
+
 ###### ARTÍCULO 29.
 
 Los inversionistas que decidan invertir en el Estado, deberán celebrar convenios con las dependencias correspondientes en donde se especifiquen los términos y condiciones de los incentivos otorgados en los términos de los artículos de esta Ley.
@@ -616,3 +620,11 @@ ALEJANDRO ALBERTO CARLOS PÁEZ Y ARAGÓN
 EL C. SECRETARIO DE OBRAS PÚBLICAS
 
 LOMBARDO VICTORIANO GUAJARDO GUAJARDO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE MARZO DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo. El Ejecutivo del Estado deberá realizar las modificaciones que correspondan al Reglamento de la Ley de Fomento a la Inversión y al Empleo en el Estado de Nuevo León.
