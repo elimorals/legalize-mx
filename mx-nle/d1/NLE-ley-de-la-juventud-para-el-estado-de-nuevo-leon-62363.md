@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2008-07-28"
+last_updated: "2010-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2010
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
 
@@ -399,7 +399,9 @@ XVI. Acciones que impulsen la organización juvenil autónoma, democrática y co
 
 XVII. La creación, promoción y apoyo de un sistema de información que permita a los jóvenes del Estado obtener, procesar, intercambiar y difundir información actualizada de interés para los entornos juveniles;
 
-XVIII. Mecanismos para que el joven discapacitado pueda llegar a bastarse a sí mismo, teniendo como objetivo su participación activa a la comunidad; y
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2010)</small>
+
+XVIII. Programas, acciones y mecanismos para que los jóvenes con discapacidad puedan llegar a ser autosuficientes, cuyo objetivo sea su participación activa en la comunidad y a la vez garanticen el impulso de sus proyectos innovadores y emprendedores; y
 
 XIX. Lineamientos que permitan asegurar el cuidado y asistencia que se solicite para el joven con discapacidad, tomando en cuenta la situación económica de sus padres o de quienes ejerzan la patria potestad o custodia.
 
@@ -420,3 +422,9 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN
 
 JOSÉ NATIVIDAD GONZÁLEZ PARÁS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE MARZO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
