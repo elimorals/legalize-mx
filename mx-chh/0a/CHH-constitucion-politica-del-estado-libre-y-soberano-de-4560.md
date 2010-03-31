@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2009-12-30"
+last_updated: "2010-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2010.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -935,7 +935,9 @@ E.- Las disposiciones aplicables en aquellos municipios que no cuenten con los b
 
 VI.- Examinar, discutir y aprobar anualmente el presupuesto de egresos del Estado, discutiendo y aprobando primero las contribuciones que a su juicio deben decretarse para cubrirlo.
 
-El Ejecutivo del Estado hará llegar al Congreso la iniciativa de ley de ingresos y el proyecto de presupuesto de egresos, a más tardar el día nueve de diciembre, debiendo comparecer el encargado de las finanzas del Estado a dar cuenta de las mismas.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
+
+El Ejecutivo del Estado hará llegar al Congreso la iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos, a más tardar el día treinta de noviembre, debiendo comparecer el encargado de las finanzas del Estado a dar cuenta de las mismas.
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 2007)</small>
 
@@ -1539,9 +1541,9 @@ VII.- Hacer observaciones a las leyes o decretos en los términos del artículo 
 
 VIII.- Prestar al Poder Judicial los auxilios que demande para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2010)</small>
 
-IX.- Presentar anualmente al Congreso, antes del día diez de diciembre, la iniciativa de ley de ingresos y el proyecto de presupuesto de egresos para el año siguiente, debiendo comparecer el encargado de las finanzas del Estado a dar cuenta de ambas, en la fecha en que el Congreso lo solicite.
+IX.- Presentar anualmente al Congreso, a más tardar el día treinta de noviembre, la iniciativa de ley de ingresos y el proyecto de presupuesto de egresos para el año siguiente, debiendo comparecer el encargado de las finanzas del Estado a dar cuenta de ambas, en la fecha en que el Congreso lo solicite.
 
 > <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
@@ -3574,6 +3576,12 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 30 DE DICIEMBRE DE 2009.
+
+PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política Local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MARZO DE 2010.
 
 PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política Local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
 
