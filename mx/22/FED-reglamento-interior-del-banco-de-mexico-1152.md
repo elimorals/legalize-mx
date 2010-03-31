@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2009-09-29"
+last_updated: "2010-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -499,7 +499,11 @@ V. Colaborar con bancos centrales, acuñadores y proveedores en aspectos relacio
 
 > <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2009)</small>
 
-VI. Operar las sucursales del Banco, incluyendo la adquisición, arrendamiento y enajenación de bienes muebles, la contratación de servicios de cualquier naturaleza, así como la obra inmobiliaria y los servicios relacionados con ésta, que la Dirección de Recursos Materiales solicite contratar, conforme a la normatividad aplicable. Asimismo, realizar los pagos derivados de dichas operaciones por medio de los sistemas institucionales;
+VI. Operar las sucursales del Banco, incluyendo la adquisición, arrendamiento y enajenación de bienes muebles, la contratación de servicios de cualquier naturaleza, así como la obra inmobiliaria y los servicios relacionados con ésta, que la Dirección de Recursos Materiales solicite contratar, conforme a la normatividad aplicable. Asimismo, realizar los pagos derivados de dichas operaciones por medio de los sistemas institucionales.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 2010)</small>
+
+En las ausencias de los Gerentes de Caja Regionales de las Sucursales, los Jefes de la Oficina de Administración y de Caja de las propias Sucursales podrán formalizar los actos a que se refiere el párrafo anterior, firmando de forma mancomunada los titulares de las dos Oficinas;
 
 VII. Tener a su cuidado la colección numismática del Banco;
 
@@ -509,17 +513,17 @@ VII. Tener a su cuidado la colección numismática del Banco;
 
 VIII. Proporcionar, en el ámbito de su competencia, a la Dirección General de Análisis del Sistema Financiero la información y documentación necesaria para que ésta imponga, junto con la Dirección Jurídica, las sanciones a que se refiere el artículo 48 Bis 1 de la Ley de Instituciones de Crédito;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2010)</small>
 
-> <small>(ADICIONADA, D.O.F. 10 DE JUNIO DE 2009)</small>
+IX. Formalizar los actos necesarios para la acuñación y comercialización de las monedas de oro, plata y platino, conforme a lo previsto en los artículos 56, último párrafo, y 62, fracción II, de la Ley, así como medallas acuñadas en dichos metales;
 
-IX. Formalizar los actos necesarios para la acuñación y comercialización de las monedas de oro, plata y platino, conforme a lo previsto en los artículos 56, último párrafo, y 62, fracción II, de la Ley, así como medallas acuñadas en dichos metales, y
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+X. Tramitar, registrar y conciliar las operaciones que realice el Banco, respecto a monedas y medallas, y
 
-> <small>(ADICIONADA, D.O.F. 10 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2010)</small>
 
-X. Tramitar, registrar y conciliar las operaciones que realice el Banco, respecto a monedas y medallas.
+XI. Administrar los transportes aéreos del Banco de México.
 
 ###### ARTICULO 17.
 
@@ -1317,11 +1321,11 @@ IV. Promover programas de modernización de los procesos a través de los cuales
 
 V. Mantener relaciones con organismos e instituciones nacionales e internacionales, en el ámbito de su competencia.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 30.
 
-El Contralor tendrá, además de las atribuciones señaladas en el artículo 30 Bis, las siguientes:
+El Contralor tendrá, además de las atribuciones señaladas en los artículos 30 Bis, 30 Bis 2, 30 Bis 3 y 30 Bis 4, las siguientes:
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -1335,13 +1339,7 @@ II. Llevar el registro de firmas autógrafas de los funcionarios y empleados del
 
 III. Expedir en favor de los funcionarios y empleados a que se refiere la fracción anterior, para los efectos de los artículos 8o. y 10 de este Reglamento, certificados relacionados con la firma electrónica, así como llevar el registro de los mismos;
 
-(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
-
-IV. Recibir, tramitar y resolver inconformidades de los proveedores, contratistas y adquirentes, sobre licitaciones y adjudicaciones de pedidos y contratos.
-
-Recibir y desahogar las quejas materia del procedimiento de conciliación que le presenten los propios proveedores, contratistas y adquirentes con motivo de contratos que tengan celebrados con el Banco.
-
-El Contralor designará al personal que deberá efectuar las notificaciones relacionadas con los procedimientos a que se refieren los dos párrafos anteriores, incluyendo aquellas que tengan carácter personal. Para los efectos previstos en este párrafo, será medio de identificación de los notificadores la credencial que para tal efecto expida en su favor el Banco de México;
+IV. (DEROGADA, D.O.F. 31 DE MARZO DE 2010)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -1379,23 +1377,17 @@ XII. Llevar el registro de los cargos, puestos o comisiones en el Banco, cuyos t
 
 XIII. Expedir constancias de los registros que sean de su competencia conforme al presente Reglamento o cualquiera otra disposición;
 
-(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
+XIV. (DEROGADA, D.O.F. 31 DE MARZO DE 2010)
 
-XIV. Conocer, sustanciar y proveer lo necesario para la debida resolución de los recursos de revisión y reconsideración interpuestos en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno;
-
-(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
-
-XV. Notificar a los interesados, las resoluciones de los recursos a que se refiere la fracción anterior, y
+XV. (DEROGADA, D.O.F. 31 DE MARZO DE 2010)
 
 (REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
 XVI. Suscribir con los demás sujetos obligados señalados en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, acuerdos o programas con fines de cooperación respecto de la materia de dicha Ley y del Reglamento que al efecto expida la Junta de Gobierno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2010)</small>
 
-> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2008)</small>
-
-Al Contralor estará adscrita la Dirección de Auditoría, así como la Gerencia de Control Normativo.
+Al Contralor estarán adscritas la Dirección de Auditoría, así como la Gerencia de Control Normativo. A esta última le estará adscrita la Subgerencia de Control Normativo.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -1464,6 +1456,40 @@ XII. Elaborar y expedir las reglas necesarias para su operación;
 XIII. Nombrar y remover a su secretario, quien deberá ser un funcionario adscrito a la unidad administrativa del Contralor, y
 
 XIV. Realizar cualquier otra actividad complementaria o conexa a las anteriores.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 2010)</small>
+
+ARTICULO 30 BIS 2.- La Gerencia de Control Normativo, contará con las atribuciones siguientes:
+
+I. Recibir y desahogar las quejas materia del procedimiento de conciliación que le presenten los proveedores y contratistas con motivo de contratos que tengan celebrados con el Banco;
+
+II. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión que interpongan los licitantes, proveedores, contratistas y adquirentes, en contra de las resoluciones de inconformidades previstas en la fracción I del artículo 30 Bis 3. Corresponderá al titular de la Gerencia de Control Normativo resolver dicho recurso de revisión;
+
+III. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión que interpongan los licitantes, proveedores y contratistas, en contra de las sanciones impuestas por el Banco, a que se refiere la fracción II del artículo 30 Bis 3 del presente Reglamento. Corresponderá al titular de la Gerencia de Control Normativo resolver dicho recurso de revisión;
+
+IV. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión que se interponga en términos de la Ley Federal de Responsabilidad Patrimonial del Estado, en contra de las resoluciones que se emitan respecto de las reclamaciones a que se refiere la fracción III del artículo 30 Bis 3 de este Reglamento. Corresponderá al titular de la referida Gerencia resolver el recurso de revisión, y
+
+V. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución de los recursos de revisión y reconsideración, así como del procedimiento para subsanar el incumplimiento de entrega de información por parte del Banco, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento del Banco de México relativo a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental. Corresponderá al titular de la Gerencia de Control Normativo resolver los referidos recursos.
+
+Las atribuciones previstas en las fracciones I y V de este artículo, en las ausencias del titular de la Gerencia de Control Normativo, serán ejercidas por el titular de la Subgerencia de Control Normativo. Corresponderá al Contralor el desahogo y resolución de los recursos de revisión previstos en las fracciones II, III y IV del presente artículo, en las ausencias del titular de la Gerencia de Control Normativo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 2010)</small>
+
+ARTICULO 30 BIS 3.- La Subgerencia de Control Normativo, contará con las atribuciones siguientes:
+
+I. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución de las inconformidades de los licitantes, proveedores, contratistas y adquirentes, sobre licitaciones y adjudicaciones de pedidos y contratos. Corresponderá al titular de la Subgerencia de Control Normativo resolver las inconformidades antes citadas;
+
+II. Imponer las sanciones a que se refieren los títulos Cuarto de las Normas del Banco de México en Materia de Adquisiciones y Arrendamientos de Bienes Muebles, así como de Servicios, y Quinto de las Normas del Banco de México en Materia de Obra Inmobiliaria y Servicios Relacionados con la Misma, a licitantes, proveedores y contratistas. Las sanciones a que se refiere esta fracción, serán independientes de las de orden civil, penal o de cualquier otra índole que puedan derivar de la comisión de los mismos hechos, y
+
+III. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución de las reclamaciones que se interpongan ante el Banco de México, en términos de la Ley Federal de Responsabilidad Patrimonial del Estado. Corresponderá al titular de la Subgerencia de Control Normativo resolver las reclamaciones antes citadas.
+
+Las atribuciones previstas en las fracciones anteriores, en las ausencias del titular de la Subgerencia de Control Normativo, serán ejercidas por el Jefe de la Oficina de Regulación de Contrataciones y Atención de Procedimientos del propio Banco.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 2010)</small>
+
+ARTICULO 30 BIS 4.- La reclamación y el recurso de revisión que se interpongan en términos de la Ley Federal de Responsabilidad Patrimonial del Estado, se tramitarán aplicando, en lo conducente, el Capítulo IV de este Reglamento.
+
+La Gerencia y Subgerencia de Control Normativo, en el ámbito de sus competencias, designarán al personal que deberá efectuar las notificaciones relacionadas con los procedimientos a que se refieren los artículos 30 Bis 2 y 30 Bis 3 de este Reglamento, incluyendo aquellas que tengan carácter personal. Para los efectos previstos en este párrafo, será medio de identificación de los notificadores la credencial que para tal efecto expida en su favor el Banco de México.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
 
@@ -2006,3 +2032,9 @@ PRIMERO. Las presentes reformas, adiciones y derogaciones al Reglamento Interior
 SEGUNDO. Las referencias a la Gerencia de Seguimiento Presupuestal y a la Gerencia de Presupuestos y Contabilidad, contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Gerencia de Verificación de Egresos, así como a la Gerencia de Contabilidad e Información Financiera, respectivamente.
 
 Asimismo, las referencias a la Unidad de Administración de Riesgos, contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Gerencia de Administración de Riesgos.
+
+D.O.F. 31 DE MARZO DE 2010
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones al Reglamento Interior del Banco de México, entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los procedimientos y recursos administrativos que se encuentren en trámite a la entrada en vigor de las presentes reformas, adiciones y derogaciones, continuarán substanciándose hasta su total conclusión, conforme a las disposiciones vigentes al momento de su inicio.
