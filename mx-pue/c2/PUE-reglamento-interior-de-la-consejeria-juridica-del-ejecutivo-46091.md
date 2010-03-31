@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-consejeria-juridica-del-ejecutivo-460
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-01"
-last_updated: "2005-07-01"
+last_updated: "2010-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO ESTATAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO ESTATAL, PUBLICADO EN EL P.O. DE 31 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 1 de julio de 2005.
 
@@ -900,3 +902,15 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- En tanto se expidan los manuales administrativos, el Titular de la Consejería queda facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal para los fines de orden administrativo.
 
 Dado en la Sede del Poder Ejecutivo, a los veinte días del mes de abril de dos mil cinco.- Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.- El Consejero Jurídico del Ejecutivo Estatal.- DOCTOR RICARDO VELÁZQUEZ CRUZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 31 DE MARZO DE 2010.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Consejería Jurídica del Ejecutivo Estatal, publicado en el Periódico Oficial del Estado el día primero de julio de dos mil cinco.
+
+TERCERO.- En tanto se expidan los manuales administrativos, el Titular de la Consejería queda facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal para los fines de orden administrativo.
+
+CUARTO.- Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
