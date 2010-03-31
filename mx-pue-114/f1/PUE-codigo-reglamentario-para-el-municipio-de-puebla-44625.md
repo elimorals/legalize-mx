@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2010-02-08"
+last_updated: "2010-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -1659,9 +1659,11 @@ XII. Las demás que le confiera el presente capítulo.
 
 DE LAS SESIONES DEL CONSEJO DE PARTICIPACIÓN CIUDADANA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2010)</small>
+
 ###### Artículo 177.
 
-La Sesiones del consejo de Participación Ciudadana pueden ser:
+Las Sesiones del Consejo de Participación Ciudadana serán públicas; con carácter de:
 
 I. Ordinarias;
 
@@ -1801,9 +1803,11 @@ VI. Las señaladas en el presente capítulo en el ámbito de su competencia.
 
 Los Consejos Ciudadanos para cumplir con el objeto por el que fueron creados podrán integrar las comisiones que fuesen necesarias, las serán presididas por un miembro del Consejo Ciudadano. Las cuales informarán y someterán para su aprobación sus planes y programas al Consejo Ciudadano al que pertenezcan.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
+
 ###### Artículo 195.
 
-Las sesiones de los Consejos Ciudadanos estarán presididas por el Presidente del mismo.
+Las sesiones de los Consejos Ciudadanos serán públicas y estarán presididas por el Presidente del mismo.
 
 ###### Artículo 196.
 
@@ -9437,7 +9441,7 @@ XVII. Producto cárnico: Se entenderá por éste lo contemplado en el artículo 
 
 XVIII. Reinspección: Revisión para constatar el cumplimiento de las disposiciones de este Código y demás ordenamientos legales aplicables en la materia; de las canales o subproductos que ya fueron sujetos a inspección por un rastro distinto del Municipal;
 
-XIX. Resello: Sello que se coloca con la leyenda "Inspeccionado y Aprobado" en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
+XIX. Resello: Sello que se coloca con la leyenda “Inspeccionado y Aprobado” en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
 
 XX. Subproducto: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante.
 
@@ -9657,9 +9661,9 @@ DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al "Servicio de Transporte del Producto Cárnico y sus Derivados", por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
+Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al “Servicio de Transporte del Producto Cárnico y sus Derivados”, por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -9667,7 +9671,7 @@ DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo “De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas”, y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
 
 Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
 
@@ -10801,7 +10805,7 @@ OBRAS O INSTALACIONES EN LA VÍA PÚBLICA: Toda persona que ocupe con obras o in
 
 En las licencias que la Dirección expida para la ocupación o uso de la Vía Pública se indicará el plazo para retirar o trasladar las obras o las instalaciones a que se ha hecho referencia, así como el área autorizada a ocupar. Toda licencia que se expida para la ocupación y uso de la vía pública, se entenderá condicionada a la observancia de este Capítulo aunque no se exprese.
 
-Cuando las obras o instalaciones ocupen el arroyo de tránsito vehicular, los señalamientos viales preventivos necesarios deberán colocarse como mínimo 50 mts. antes del lugar, en el sentido del tránsito, siempre y cuando no sean arterias de alta velocidad.
+Cuando las obras o instalaciones ocupen el arroyo de transito vehicular, los señalamientos viales preventivos necesarios deberán colocarse como mínimo 50 mts. antes del lugar, en el sentido del tránsito, siempre y cuando no sean arterias de alta velocidad.
 
 ###### Artículo 691.
 
@@ -15888,10 +15892,6 @@ En los casos que impliquen peligro de incendio, el Departamento de Bomberos podr
 ###### Artículo 1170.
 
 Se consideran como Medidas de Seguridad las disposiciones que dicte la Dirección o la Unidad Operativa Municipal de Protección Civil, encaminadas a prevenir, reducir y/o evitar la pérdida de vidas, lesiones o daños en bienes o personas que puedan causar las instalaciones, edificaciones, construcciones, obras, trabajos o acciones que ejecuten personas físicas o morales, sean públicas o privadas.
-
-###### Artículo 1170.
-
-Se consideran como Medidas de Seguridad las disposiciones que dicte la Dirección la unidad municipal de protección civil, encaminadas a prevenir, reducir y/o evitar la pérdida de vidas, lesiones o daños en bienes o personas que puedan causar las instalaciones, edificaciones, construcciones, obras, trabajos o acciones que ejecuten personas físicas o morales, sean públicas o privadas.
 
 ###### Artículo 1171.
 
@@ -29121,7 +29121,7 @@ X. Empresa: Persona moral legalmente constituida, y que cuenta con medios propio
 
 XI. Promotor: Persona física que deberá contar con licencia legalmente expedida por la Comisión que autorice dentro del Municipio permanente o eventualmente, a promover espectáculos de Box y Lucha Libre profesional, considerados como empleados de las empresas, y en consecuencia éstas serán responsables directas de cualquier falta o infracción que cometan;
 
-XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deporitvo y que reditúe en beneficios económicos para los mismos;
+XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y que reditúe en beneficios económicos para los mismos;
 
 XIII. Manejador: Persona física que deberá contar con licencia legalmente expedida por la Comisión que le autorice actuar dentro del Municipio, y que será la encargada de cuidar la forma y condición física de los boxeadores y luchadores, proporcionándoles el adiestramiento técnico necesario;
 
@@ -29667,7 +29667,7 @@ El Comisionado está facultado para autorizar la sustitución o cambio de boxead
 
 I. En Box: en caso de fuerza mayor debidamente comprobada, si alguno de los participantes de una pelea preliminar o estelar no puede actuar en la función anunciada, se sustituirá dicho peleador por el emergente de la misma categoría y peso, si el boxeador fuese de la pelea estelar, además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función;
 
-II. En la lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
+II. En lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -30933,7 +30933,7 @@ I. Amonestaciones públicas o privadas;
 
 II. Sanciones económicas, que puede ir de los diez a los cien días de salario mínimo general vigente de la zona tomando en cuanta los antecedentes de los infractores, la gravedad de la falta y de las circunstancias que hayan mediado el caso;
 
-III. Suspensión temporal de la licencia que pueden ser de quince días hasta un año, para poder presentar o actuar en espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio, a juicio de la Comisión y tomando en cuenta las circunstancias señaladas en la fracción anterior, y
+III. Suspensión temporal de la licencia que puedan ser de quince días hasta un año, para poder presentar o actuar en espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio, a juicio de la Comisión y tomando en cuenta las circunstancias señaladas en la fracción anterior, y
 
 IV. Suspensión definitiva de la licencia para poder presentar o actuar en espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio, a juicio de la Comisión.
 
@@ -32798,3 +32798,15 @@ PRIMERO.- El presente Dictamen surtirá sus efectos al día siguiente de su publ
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Dictamen.
 
 TERCERO.- El retiro de vehículos abandonados en la vía pública se realizará de acuerdo a la suficiencia presupuestal y a la capacidad material con que cuente la Secretaría de Seguridad Pública y Tránsito Municipal.
+
+P.O. 31 DE MARZO DE 2010.
+
+PRIMERO. La presente reforma surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se apongan (sic) al presente Punto de Acuerdo.
+
+SE TRANSCRIBEN LOS PUNTO DE ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- Se aprueba la reforma del acápite del artículo 177; y el artículo 195 del Código Reglamentario para el Municipio de Puebla, en los términos del Considerando XVII del presente Punto de Acuerdo.
+
+SEGUNDO.- Se instruye al Secretario del Ayuntamiento para que en la reforma legal correspondiente, realice los trámites necesarios ante la Secretaría de Gobernación del Estado y sea publicado por una sola vez en el Periódico Oficial del Estado, el presente Punto de Acuerdo.
