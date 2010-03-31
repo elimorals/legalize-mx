@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2009-04-14"
+last_updated: "2010-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -193,11 +193,15 @@ El Estado de Michoacán de Ocampo es parte integrante de los Estados Unidos Mexi
 
 El Estado puede arreglar con las entidades federativas limítrofes, por convenios amistosos, sus respectivos límites; pero no se llevarán a efecto esos arreglos sin la aprobación del Congreso de la Unión.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
 
 ###### Artículo 15.
 
-El Estado tendrá como base de su división territorial y de su organización política y administrativa el Municipio Libre. Cada Municipio conservará la extensión y límites que le señale la Ley de División Territorial.
+El Estado tendrá como base de su división territorial y de su organización política y administrativa el Municipio Libre.
+
+El Estado de Michoacán está conformado por los siguientes municipios: Acuitzio, Aguililla, Álvaro Obregón, Angamacutiro, Angangueo, Apatzingán, Áporo, Aquila, Ario, Arteaga, Briseñas, Buenavista, Carácuaro, Coahuayana, Coalcomán, Coeneo, CojumatIán, Contepec, Copándaro, Cotija, Cuitzeo, Charapan, Charo, Chavinda, Cherán, Chilchota, Chinicuila, Chucándiro, Churintzio, Churumuco, Ecuandureo, Epitacio Huerta, Erongarícuaro, Gabriel Zamora, Hidalgo, Huandacareo, Huaniqueo, Huetamo, Huiramba, Indaparapeo, Irimbo, Ixtlán, Jacona, Jiménez, JiquiIpan, José Sixto Verduzco, Juárez, Jungapeo, Lagunillas, La Huacana, La Piedad, Lázaro Cárdenas, Los Reyes, Madero, Maravatío, Marcos Castellanos, MoreIia, Morelos, Múgica, Nahuatzen, Nocupétaro, Nuevo Parangaricutiro, Nuevo Urecho, Numarán, Ocampo, Pajacuarán, Panindícuaro, Parácuaro, Paracho, Pátzcuaro, Penjamillo, Peribán, Purépero, Puruándiro, Queréndaro, Quiroga, Sahuayo, San Lucas, Santa Ana Maya, Salvador Escalante, Senguio, Susupuato, Tacámbaro, Tancítaro, Tangamandapio, Tangancícuaro, Tanhuato, Taretan, Tarímbaro, Tepalcatepec, Tingambato, Tingüindín, Tiquicheo, Tlalpujahua, TlazazaIca, Tocumbo, Tumbiscatío, Turicato, Tuxpan, TuzantIa, Tzintzuntzan, Tzitzio, Uruapan, Venustiano Carranza, Villamar, Vista Hermosa, Yurécuaro, Zacapu, Zamora, Zináparo, Zinapécuaro, Ziracuaretiro y Zitácuaro.
+
+Cada Municipio conservará la extensión y límites que le señale la legislación correspondiente.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -547,15 +551,25 @@ III.- Legislar sobre el fraccionamiento y expropiación de tierras, conforme a l
 
 IV.- Crear municipios dentro de los límites territoriales de los existentes, lo que deberá hacerse conforme a estas bases:
 
-a).- La solicitud de erección debe ser hecha por un grupo de ciudadanos en número no menor de mil y con residencia en la localidad de tres años, cuando menos;
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
 
-b).- La fracción territorial que haya de constituirse en nuevo municipio, debe contar con una población no menor de diez mil habitantes;
+a) La solicitud de erección deberá presentarse por escrito ante el Congreso del Estado por un grupo de ciudadanos en número no menor al cincuenta por ciento, más uno de los vecinos inscritos en el padrón electoral del territorio demandante que pretenda establecerse en nuevo Municipio; y con residencia en la localidad de tres años, cuando menos;
 
-c).- Es preciso comprobar que dicha fracción tiene los elementos necesarios para su existencia económica y administrativa, así como que el municipio o los municipios de que se segregue, puedan seguir subsistiendo sin grave menoscabo de su hacienda municipal;
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
 
-d).- El Congreso debe tener la opinión del ayuntamiento o ayuntamientos del municipio o de los municipios de cuyo territorio pretenda formarse la nueva circunscripción municipal, así como del Gobernador del Estado, quienes deberán emitirla dentro del mes siguiente a la fecha en que les fuere pedida, y
+b) La solicitud deberá contener un expediente técnico con el diagnóstico económico, social, político; los proyectos de plan de desarrollo municipal, desarrollo urbano, desarrollo sustentable y presupuesto de ingresos y egresos que garantice su existencia económica y administrativa, así como que el municipio de que se escinda, pueda seguir subsistiendo sin grave menoscabo de su hacienda municipal, además de la estructura organizacional propuesta;
 
-e).- La creación del nuevo municipio debe ser aprobada por las dos terceras partes de los diputados presentes;
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
+
+c) La fracción territorial que haya de constituirse en nuevo municipio, debe contar con una población no menor de cuarenta mil habitantes;
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
+
+d) Que el poblado que se elija como cabecera municipal tenga una población no inferior a veinte mil habitantes y cuente con la infraestructura que garantice la prestación de los servicios públicos; y,
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
+
+e) El Congreso debe solicitar la opinión del ayuntamiento de cuyo territorio pretenda formarse la nueva circunscripción municipal, así como la del Gobernador, quienes deberán emitirla dentro de los treinta días hábiles siguientes a la fecha en que les fuere requerida;
 
 V.- Agrupar dos o más Municipios en uno solo, cuando a su juicio no reunan las condiciones expresadas en la fracción anterior. El acuerdo debe ser aprobado por las dos terceras partes de los Diputados presentes;
 
@@ -2817,13 +2831,13 @@ Artículo Segundo.- Para dar cumplimento a la fracción IV del artículo 164 de 
 
 P.O. 21 DE OCTUBRE DE 2005.
 
-DECRETO No. 489
+DECRETO No. 12
 
-Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo.
 
-Artículo Segundo. Para la elección por primera y única vez de los magistrados del Tribunal de lo Contencioso Administrativo del Estado, la lista que someta el Titular del Poder Ejecutivo al Congreso del Estado, será tomada del padrón de aspirantes a magistrados que remita el Supremo Tribunal de Justicia del Estado, mismos que deberán cubrir los requisitos que señale la Ley de la materia.
+Artículo Segundo. Para la elección por primera y única vez de los magistrados del Tribunal de lo Contencioso Administrativo del Estado, la lista que someta el Tribunal del Poder Ejecutivo al Congreso del Estado, será tomada del padrón de aspirantes a magistrados que remita el Supremo Tribunal de Justicia del Estado, mismos que deberán cubrir los requisitos que señale la Ley de la materia.
 
-Artículo Tercero. Para dar cumplimento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría enviar a los Ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, remitan al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
+Artículo Tercero. Para dar cumplimento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría enviar a los Ayuntamientos del Estado, la minuta Proyecto de Decreto, para que en el término de un mes después de recibida, remitan al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
 
 P.O. 21 DE OCTUBRE DE 2005.
 
@@ -2877,7 +2891,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. El Gobernador del Estado en funciones, concluirá su ejercicio constitucional el día catorce de febrero de dos mil ocho, periodo para el que fue electo.
 
-La Septuagésima Legislatura, concluirá su ejercicio constitucional el día catorce de enero del año dos mil ocho, periodo para el que fue electa.
+La Septuagésima Legislatura, concluirá su ejercicio constitucional el día catorce de enero del año dos mil ocho., periodo para el que fue electa.
 
 Los ayuntamientos del Estado, concluirán su ejercicio constitucional el día treinta y uno de diciembre del año dos mil siete, periodo para el que fueron electos.
 
@@ -3010,3 +3024,13 @@ Remítase a los ayuntamientos del Estado, el Proyecto de Decreto, para que, en l
 ###### ARTÍCULO TERCERO.
 
 Las comisiones de Gobernación y Puntos Constitucionales del Congreso del Estado contarán con un término de ciento ochenta días, a partir de la entrada en vigor del presente Decreto, para presentar ante el Pleno la Iniciativa con carácter de Dictamen de la Ley Reglamentaria en materia de pensiones previstas en la fracción XVII bis.
+
+P.O. 31 DE MARZO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto a los ayuntamientos del Estado, para que procedan en términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
