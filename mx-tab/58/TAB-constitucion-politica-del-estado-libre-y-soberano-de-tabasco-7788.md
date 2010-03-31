@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2010-02-24"
+last_updated: "2010-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2010.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -919,7 +919,9 @@ XXXVII.- Crear nuevos Municipios, modificar o suprimir algunos de los existentes
 
 XXXVIII.- Designar el día anterior al de la clausura en los períodos de sesiones ordinarias, la Comisión Permanente que ha de funcionar en los recesos del Congreso; y (sic)
 
-XXXIX.- (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2010)</small>
+
+XXXIX.- Legislar sobre la forma en que los poderes del Estado, órganos autónomos y los Ayuntamientos deberán establecer los tabuladores desglosados de las remuneraciones que habrán de percibir sus servidores públicos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -1705,9 +1707,9 @@ Las leyes locales no establecerán exenciones o subsidios respecto de las mencio
 
 VI.- El Congreso del Estado, aprobará las Leyes de Ingresos de los municipios; así mismo, revisara y fiscalizará sus cuentas públicas, en relación a los planes municipales y a sus programas operativos anuales.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
 
-Los presupuestos de egresos serán aprobados por los Ayuntamientos, sobre la base de sus ingresos disponibles. Dichos presupuestos deberán considerar partidas para que se ejecuten las acciones señaladas en el apartado B del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
+Los Presupuestos de Egresos aprobados por los Ayuntamientos, sobre la base de sus ingresos disponibles, deberán incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en los artículos 127 de la Constitución Política de los Estados Unidos Mexicanos y 75 de esta Constitución. Asimismo deberán considerar partidas para que se ejecuten las acciones señaladas en el apartado B del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
 
@@ -1931,11 +1933,27 @@ Ningún ciudadano podrá desempeñar a la vez dos o más cargos de elección pop
 
 Todo funcionario y empleado público del Estado o de los Municipios, sin excepción alguna, antes de tomar posesión de su cargo otorgará ante quien corresponda protesta de cumplir las obligaciones que contrae, guardar y hacer guardar sin reserva alguna la Constitución General de la República, la del Estado y las Leyes que de ellas emanen, usándose la forma prevista en el Artículo 58 adaptándola a cada caso.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 75.
 
-El Gobernador del Estado, los Diputados, los Magistrados del Tribunal Superior de Justicia y los demás servidores públicos, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual o equitativamente en el presupuesto de Egresos del Estado, de los Municipios, o en los presupuestos de las entidades paraestatales, según corresponda.
+El Gobernador del Estado, los diputados, los magistrados del Tribunal Superior de Justicia; del Tribunal Electoral de Tabasco; del Tribunal de Conciliación y Arbitraje, y del Tribunal de lo Contencioso Administrativo, los integrantes del Instituto Electoral y de Participación Ciudadana de Tabasco, del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, los regidores de los Ayuntamientos y los demás servidores públicos del Estado y de los municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones, órganos y organismos autónomos y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será proporcional a sus responsabilidades.
+
+Los poderes Legislativo, Ejecutivo y Judicial del Estado, los Ayuntamientos, así como los organismos con autonomía reconocida en esta Constitución o por la Ley, deberán incluir en sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos.
+
+Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
+
+II. Ningún servidor público podrá recibir remuneración por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida en el presupuesto de egresos que corresponda, para el Presidente de la República y para el Gobernador del Estado, respectivamente;
+
+III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida en el presupuesto, que corresponda para el Gobernador del Estado;
+
+IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco prestamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieren los servidores públicos por razón del cargo desempeñado;
+
+V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciarla totalidad de sus elementos fijos y variables tanto en efectivo como en especie; y
+
+VI. El Congreso del Estado, expedirá las leyes para hacer efectivo el cumplimiento de las reformas y adiciones previstas en esta Constitución.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 1983)</small>
 
@@ -2788,3 +2806,17 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Hasta en tanto no se hagan las reformas pertinentes a las disposiciones jurídicas secundarias seguirán aplicándose las vigentes en lo que no se opongan al presente Decreto.
 
 TERCERO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los 17 H. Ayuntamientos.
+
+P.O. 31 DE MARZO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+SEGUNDO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+CUARTO.- Las remuneraciones que a la fecha sean superiores a las bases determinadas en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes a partir del ejercicio fiscal del año siguiente a la fecha en que entre en vigor.
+
+QUINTO.- Las remuneraciones de los servidores públicos a que se refiere este Decreto, durante el ejercicio fiscal 2010, les serán cubiertas en los términos de las disposiciones vigentes en dicho ejercicio fiscal.
+
+SEXTO.- Las conductas tendientes a eludir lo dispuesto en el presente Decreto, serán sancionadas de conformidad a lo dispuesto en la legislación aplicable.
