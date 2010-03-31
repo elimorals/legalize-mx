@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-59731"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2008-07-29"
+last_updated: "2010-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO FAMILIAR PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -2129,17 +2129,11 @@ Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo ac
 
 En caso de que el reconocimiento se efectúe sucesivamente por los padres que no vivan juntos, ejercerá la custodia el primero que lo hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el Juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
+
 ###### Artículo 363.
 
-La investigación de la paternidad de los hijos nacidos fuera de matrimonio está permitida:
-
-I. En los casos de rapto, estupro o violación, cuando la época del delito coincida con la de la concepción;
-
-II. Cuando el hijo se encuentre en posesión de estado de hijo del presunto padre;
-
-III. Cuando el hijo haya sido concebido durante el tiempo en que la madre habitaba bajo el mismo techo con el pretendido padre, viviendo maritalmente; y,
-
-IV. Cuando el hijo tenga a su favor un principio de prueba contra el pretendido padre.
+Es derecho del padre, madre, hijo, ascendientes y descendientes, investigar y reclamar el parentesco por consanguinidad.
 
 ###### Artículo 364.
 
@@ -2155,15 +2149,17 @@ II. Los nacidos dentro de los trescientos días siguientes al en que cesó la vi
 
 ###### Artículo 366.
 
-La posesión de estado, para los efectos de la fracción II del artículo 363, se justificará demostrando por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre, o por su familia, como hijo del primero, y que éste ha proveído a su subsistencia, educación y establecimiento.
+(DEROGADO, P.O. 31 DE MARZO DE 2010)
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
 
 ###### Artículo 367.
 
-Está permitido al hijo nacido fuera de matrimonio y a sus descendientes investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios; pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada.
+La paternidad será probada por los medios ordinarios establecidos por la ley. Para ello, si se ofreciera prueba biológica o cualquier otra proveniente del avance de los conocimientos científicos y el presunto progenitor se negara a practicarse la misma, se presumirá, salvo prueba en contrario, que es la madre o el padre.
 
 ###### Artículo 368.
 
-No obstante lo dispuesto en la parte final del artículo anterior, el hijo podrá investigar la maternidad si ésta se deduce de una sentencia civil o criminal.
+(DEROGADO, P.O. 31 DE MARZO DE 2010)
 
 ###### Artículo 369.
 
@@ -6208,3 +6204,7 @@ P.O. 29 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE MARZO DE 2010.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
