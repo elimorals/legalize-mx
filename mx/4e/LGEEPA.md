@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2008-05-16"
+last_updated: "2010-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE ABRIL DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -146,7 +146,9 @@ XXVI. Protección: El conjunto de políticas y medidas para mejorar el ambiente 
 
 XXVII. Recursos biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
 
-XXVIII. Recursos genéticos: El material genético de valor real o potencial;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2010)</small>
+
+XXVIII. Recursos Genéticos: Todo material genético, con valor real o potencial que provenga de origen vegetal, animal, microbiano, o de cualquier otro tipo y que contenga unidades funcionales de la herencia, existentes en el territorio nacional y en las zonas donde la nación ejerce soberanía y jurisdicción;
 
 XXIX. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
@@ -3505,3 +3507,7 @@ Asimismo, conservarán su número y fecha de registro, pero su renovación deber
 ###### ARTÍCULO QUINTO.
 
 Los procedimientos de certificación de predios destinados voluntariamente a la conservación que hubieren iniciado con anterioridad a la entrada en vigor del presente Decreto, serán resueltos de conformidad con las disposiciones vigentes al momento de la presentación de la solicitud correspondiente, pero su renovación deberá ajustarse a las disposiciones del presente Decreto.
+
+D.O.F. 1 DE ABRIL DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
