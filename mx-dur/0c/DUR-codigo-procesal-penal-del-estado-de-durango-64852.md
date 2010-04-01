@@ -4,7 +4,7 @@ identifier: "DUR-codigo-procesal-penal-del-estado-de-durango-64852"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-05"
-last_updated: "2009-12-10"
+last_updated: "2010-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,7 @@ state: "DUR"
 
 CODIGO PROCESAL PENAL DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO DE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2009, SE ADOPTARA EN EL PRIMER DISTRITO JUDICIAL O REGION QUE TENGA COMO CABECERA LA CIUDAD DE VICTORIA DE DURANGO, DURANGO, Y CON TAL EFECTO ENTRARAN EN VIGOR EN SU JURISDICCION TERRITORIAL, A LAS CERO HORAS DEL DIA 14 DE DICIEMBRE DE 2009, EL DECRETO NUMERO 232, PUBLICADO EN EL P.O DEL 5 DE DICIEMBRE DE 2008 Y SUS REFORMAS POSTERIORES.</small>
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO QUINTO DE LA DECLARATORIA, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO SE ADOPTA EL SISTEMA INTEGRAL DE JUSTICIA PARA MENORES INFRACTORES Y SE INCORPORARA AL DECRETO NUMERO 232, PUBLICADO EN EL P.O. DEL 5 DE DICIEMBRE DE 2008 Y SUS REFORMAS POSTERIORES; MISMOS QUE ENTRARAN EN VIGOR A LAS CERO HORAS DEL DIA 14 DE DICIEMBRE DE 2009 EN TODO EL TERRITORIO DEL ESTADO.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2010.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Durango, el viernes 5 de diciembre de 2008.
 
@@ -2075,25 +2071,29 @@ Los agentes policiales estarán obligados a detener a quienes sorprendan en la c
 
 Cuando se detenga a una persona por un hecho que pudiera constituir un delito que requiera querella de parte ofendida, será informado inmediatamente quien pueda presentarla y si éste no se presenta en un plazo razonable que no podrá ser superior a veinticuatro horas, el detenido será puesto en libertad de inmediato.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
-
-El Ministerio Público podrá dejar sin efecto la detención u ordenar que el detenido sea conducido ante el juez, dentro del plazo de cuarenta y ocho horas a que se refiere el artículo 16, párrafo décimo, de la Constitución Política de los Estados Unidos Mexicanos. Cuando no pretenda solicitar prisión preventiva en contra del imputado, deberá dejar sin efecto la detención; sin perjuicio de que pueda fijarle una caución a fin de garantizar su comparecencia ante el juez.
+El Ministerio Público podrá dejar sin efecto la detención u ordenar que el detenido sea conducido ante el juez, dentro del plazo de cuarenta y ocho horas a que se refiere el artículo 16, párrafo décimo, de la Constitución Política de los Estados Unidos Mexicanos. Cuando no pretenda solicitar prisión preventiva en contra del imputado, podrá dejar sin efecto la detención; sin perjuicio de que pueda fijarle una caución a fin de garantizar su comparecencia ante el juez.
 
 En todos los casos, el Ministerio Público debe examinar inmediatamente después de que la persona es conducida a su presencia, las condiciones en las que se realizó la detención. Si ésta no fue conforme a las disposiciones de la ley, dispondrá la libertad inmediata de la persona y, en su caso, velará por la aplicación de las sanciones disciplinarias o penales que correspondan.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2010)</small>
 
 ###### Artículo 176.
 
 Supuestos de flagrancia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+Se podrá detener a una persona sin orden judicial en caso de flagrancia. Se entiende que hay delito flagrante cuando:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2009)</small>
+I. La persona es detenida en el momento de estarlo cometiendo; o
 
-Se podrá detener a una persona sin orden judicial en caso de flagrancia. Se entiende que hay delito flagrante cuando: la persona es sorprendida en el momento de estarlo cometiendo o inmediatamente después de cometerlo es perseguido materialmente, en virtud de que es señalado por la víctima u ofendido, algún testigo presencial de los hechos o quien hubiere intervenido con ella en la comisión del delito, y se le encuentren objetos o indicios que hagan presumir fundadamente que acaba de intervenir en un delito.
+II. Inmediatamente después de cometerlo es detenido en virtud de que:
 
-Quien proceda a la detención, deberá ponerlo a disposición del Ministerio Público, sin demora alguna y se recabará un registro de la detención.
+a. Es perseguido material e ininterrumpidamente;
+
+b. Es señalado inequívocamente por la víctima u ofendido, algún testigo presencial de los hechos o quien hubiere intervenido con ella en la comisión del delito, o;
+
+c. Se le encuentren objetos o aparezcan indicios que hagan presumir fundadamente que acaba de intervenir en un delito.
 
 ###### Artículo 177.
 
@@ -2969,7 +2969,9 @@ VII. Revelación de secretos;
 
 VIII. Estupro;
 
-IX. Abuso sexual a que se refiere el artículo 179 del Código Penal del Estado de Durango;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2010)</small>
+
+IX. Abuso sexual a que se refiere el artículo 178 del Código Penal del Estado de Durango;
 
 X. Hostigamiento sexual;
 
@@ -6168,3 +6170,13 @@ Artículo Quinto.- El Sistema Procesal Penal Acusatorio se adopta el Sistema Int
 2.- Código Penal para el Estado Libre y Soberano de Durango aprobado mediante el Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 48 de fecha 14 de Junio de 2009 y sus reformas posteriores; y
 
 3.- Código Procesal Penal aprobado mediante el Decreto N° 232 del 4 de diciembre de 2008, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2009 y sus reformas posteriores.
+
+P.O. 1 DE ABRIL DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor una vez que se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
