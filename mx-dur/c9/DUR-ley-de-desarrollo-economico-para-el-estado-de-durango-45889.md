@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-economico-para-el-estado-de-durango-45889"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-31"
-last_updated: "2009-12-24"
+last_updated: "2010-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO ECONOMICO PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 31 de julio de 2005.
 
@@ -425,9 +425,11 @@ El derecho a recibir el subsidio único a que se refiere el presente artículo, 
 
 En caso de que la empresa declare falsamente o no cumpla con los requisitos establecidos en el presente artículo respecto del tiempo en que se encuentren laborando las personas con discapacidad o adultos mayores, estarán obligados a la devolución de las cantidades recibidas con motivo del subsidio y a pagar las cantidades correspondientes a los beneficios descritos en los articules 16 y 16 bis, más los accesorios correspondientes de acuerdo con lo establecido por el Código Fiscal del Estado. En su caso, la devolución de la cantidad correspondiente, deberá enterarse en las cajas recaudadoras de la Secretaría de Finanzas y de Administración del Gobierno del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 2010)</small>
+
 ###### Artículo 17.
 
-Tratándose de proyectos de inversión que se considere estratégicos o de alto impacto por su ubicación, monto, empleos a generar y efectos multiplicadores en la economía de la entidad, el Gobernador del Estado podrá otorgar excepcionalmente los siguientes apoyos:
+Tratándose de proyectos de inversión que se considere estratégicos o de alto impacto por su ubicación, monto, empleos a generar y efectos multiplicadores en la economía de la entidad, el Gobernador del Estado, a través de la Secretaría, podrá otorgar excepcionalmente los siguientes apoyos:
 
 I. Otorgar recursos financieros y materiales para la ejecución de obras de infraestructura pública que favorezcan la instalación, operación y desarrollo de las empresas o instituciones para la investigación, desarrollo y aplicación de tecnología;
 
@@ -437,7 +439,9 @@ III. Crear asociaciones, fideicomisos, comodatos o constituir derechos reales so
 
 IV. Realizar aportaciones económicas a título gratuito para sufragar parcialmente la inversión realizada en estos proyectos.
 
-El acuerdo relativo a los proyectos estratégicos o de alto impacto para la economía de la entidad, serán emitidas por el Gobernador del Estado previo dictamen y resolución positivos de la Secretaría y de la Secretaría de Finanzas y de Administración.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2010)</small>
+
+Una vez que la Secretaría haya analizado la solicitud de apoyo por parte de la empresa; determinado que se trata de un proyecto estratégico o de alto impacto, y que tiene la capacidad presupuestal suficiente, en coordinación con la Secretaría de Finanzas y de Administración, el Gobierno del Estado otorgará los apoyos especiales a que se refiere este artículo, en los términos del convenio que formalice por conducto de la Secretaría con la empresa, tomando en consideración los programas operativos, criterios y necesidades reales de cada proyecto.
 
 ###### Artículo 18.
 
@@ -882,3 +886,13 @@ SEGUNDO.- La exención que establece el artículo 16, se otorgará sólo por cad
 TERCERO.- El acceso preferencial al que se refiere el artículo 39 de esta Ley será registrado por la Secretaría, la que deberá mantener actualizada permanentemente la lista de beneficiarios.
 
 CUARTO.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 1 DE ABRIL DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
