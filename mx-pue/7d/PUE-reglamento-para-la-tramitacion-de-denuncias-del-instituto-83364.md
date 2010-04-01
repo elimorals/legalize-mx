@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-para-la-tramitacion-de-denuncias-del-instituto-83364
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-10"
-last_updated: "2010-02-24"
+last_updated: "2010-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "PUE"
 
 REGLAMENTO PARA LA TRAMITACIÓN DE DENUNCIAS DEL INSTITUTO ELECTORAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA APROBADA EN SESIÓN ESPECIAL: 24 DE FEBRERO DE 2010.
+ÚLTIMA REFORMA APROBADA EN SESIÓN ESPECIAL: 1 DE ABRIL DE 2010.
 
 Reglamento aprobado por unanimidad de votos de los integrantes del Consejo General del Instituto Electoral del Estado, en sesión ordinaria de fecha martes 10 de noviembre de 2009.
 
@@ -142,19 +142,23 @@ XXIII. Precampaña electoral: Conjunto de actividades que de manera previa al re
 
 XXIV. Procedimiento sancionador ordinario: Procedimiento aplicable en cualquier tiempo para los casos de violaciones a las disposiciones del Código de Instituciones y Procesos Electorales del Estado de Puebla.
 
-XXV. Procedimiento especial sancionador: Procedimiento que tiene como finalidad determinar, de manera expedita, la presunta violación a las disposiciones del Código de Instituciones y Procesos Electorales del Estado de Puebla y la responsabilidad de los sujetos denunciados mediante la valoración de los medios de prueba que obren en el expediente.
+> <small>(ADICIONADA, SESIÓN 1 DE ABRIL DE 2010)</small>
 
-XXVI. Propaganda Electoral: Conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que, durante la campaña electoral, producen y difunden los partidos políticos, las coaliciones, en su caso, los candidatos registrados y sus simpatizantes con el propósito de propiciar la exposición, desarrollo y discusión ante el electorado, de los programas y acciones fijados por los propios partidos políticos en sus documentos básicos y particularmente en la plataforma electoral que para la elección hubieren registrado.
+XXV. Procedimiento de oficio: El que inicia sin mediar instancia de parte cuando el Consejo conozca, o algún órgano o integrante del Consejo en ejercicio de sus atribuciones informen de la presunta violación a las disposiciones del Código o sus normas reglamentarias.
 
-XXVII. Reglamento: el Reglamento para la tramitación de denuncias del Instituto Electoral del Estado;
+XXVI. Procedimiento especial sancionador: Procedimiento que tiene como finalidad determinar, de manera expedita, la presunta violación a las disposiciones del Código de Instituciones y Procesos Electorales del Estado de Puebla y la responsabilidad de los sujetos denunciados mediante la valoración de los medios de prueba que obren en el expediente.
 
-XXVIII. Reglamento de Comisiones: el Reglamento de Comisiones del Instituto Electoral del Estado;
+XXVII. Propaganda Electoral: Conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que, durante la campaña electoral, producen y difunden los partidos políticos, las coaliciones, en su caso, los candidatos registrados y sus simpatizantes con el propósito de propiciar la exposición, desarrollo y discusión ante el electorado, de los programas y acciones fijados por los propios partidos políticos en sus documentos básicos y particularmente en la plataforma electoral que para la elección hubieren registrado.
+
+XXVIII. Reglamento: el Reglamento para la tramitación de denuncias del Instituto Electoral del Estado;
+
+XIX. Reglamento de Comisiones: el Reglamento de Comisiones del Instituto Electoral del Estado;
 
 > <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
-XXIX. Secretario: El Secretario General del Consejo General del Instituto Electoral del Estado;
+XXX. Secretario: El Secretario General del Consejo General del Instituto Electoral del Estado;
 
-XXX. Sujetos Infractores: persona sujeta a responsabilidad por presuntas infracciones cometidas a las disposiciones en materia electoral.
+XXXI. Sujetos Infractores: persona sujeta a responsabilidad por presuntas infracciones cometidas a las disposiciones en materia electoral.
 
 ###### ARTÍCULO 4.
 
@@ -292,33 +296,37 @@ I. Recibir y sustanciar las denuncias presentadas;
 
 II. Acordar la admisión o improcedencia de las denuncias presentadas;
 
-III. Requerir al denunciante cuando omita alguno de los requisitos para la presentación de la denuncia señalados en el Reglamento;
+> <small>(ADICIONADA, SESIÓN 1 DE ABRIL DE 2010)</small>
+
+III. Acordar el inicio de la investigación de oficio instruyendo al Secretario para que realice las diligencias necesarias para contar con los elementos que permitan continuar con el procedimiento de oficio;
+
+IV. Requerir al denunciante cuando omita alguno de los requisitos para la presentación de la denuncia señalados en el Reglamento;
 
 > <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
-IV. Dictar u ordenar las medidas cautelares que considere necesarias para lograr la cesación de los actos o hechos que constituyan una presunta infracción; siendo estas, a solicitud del denunciante, las que en su caso estime pertinentes proponer el Secretario o las que determine la Comisión;
+V. Dictar u ordenar las medidas cautelares que considere necesarias para lograr la cesación de los actos o hechos que constituyan una presunta infracción; siendo estas, a solicitud del denunciante, las que en su caso estime pertinentes proponer el Secretario o las que determine la Comisión;
 
 > <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
-V. Solicitar al Secretario los informes que estime necesarios sobre la investigación de los hechos denunciados;
+VI. Solicitar al Secretario los informes que estime necesarios sobre la investigación de los hechos denunciados;
 
 > <small>(ADICIONADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
-VI. Requerir a las autoridades federales, estatales o municipales los informes o documentos necesarios para la investigación de los hechos denunciados por conducto del Consejero Presidente;
+VII. Requerir a las autoridades federales, estatales o municipales los informes o documentos necesarios para la investigación de los hechos denunciados por conducto del Consejero Presidente;
 
-VII. Aprobar la ampliación del plazo para la etapa de investigación;
+VIII. Aprobar la ampliación del plazo para la etapa de investigación;
 
-VIII. Conocer y aprobar el dictamen correspondiente derivado de las denuncias presentadas;
+IX. Conocer y aprobar el dictamen correspondiente derivado de las denuncias presentadas;
 
-IX. Interpretar el presente Reglamento y resolver los casos no previstos en él y, en su caso, someter a aprobación del Consejo los criterios que considere pertinentes;
+X. Interpretar el presente Reglamento y resolver los casos no previstos en él y, en su caso, someter a aprobación del Consejo los criterios que considere pertinentes;
 
-X. Acordar las medidas conducentes para garantizar el adecuado desarrollo del procedimiento y normar cada una de sus etapas en caso de que existan violaciones al mismo;
+XI. Acordar las medidas conducentes para garantizar el adecuado desarrollo del procedimiento y normar cada una de sus etapas en caso de que existan violaciones al mismo;
 
-XI. Proponer al Consejo reformas o modificaciones al presente Reglamento;
+XII. Proponer al Consejo reformas o modificaciones al presente Reglamento;
 
-XII. Vigilar en el ámbito de su competencia el cumplimiento del presente Reglamento; y
+XIII. Vigilar en el ámbito de su competencia el cumplimiento del presente Reglamento; y
 
-XIII. Las demás que le confiera el presente Reglamento, el Consejo y las demás disposiciones aplicables.
+XIV. Las demás que le confiera el presente Reglamento, el Consejo y las demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
@@ -334,41 +342,55 @@ I. Coadyuvar con la Comisión en la recepción y substanciación de las denuncia
 
 II. Coadyuvar con la Comisión en el análisis de la admisión o improcedencia de las denuncias presentadas;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+> <small>(ADICIONADA, SESIÓN 1 DE ABRIL DE 2010)</small>
 
-III. Coadyuvar con la Comisión en requerir al denunciante cuando omita alguno de los requisitos para la presentación de la denuncia señalados en el Reglamento;
+III. Realizar las diligencias necesarias para contar con los elementos que permitan continuar con el procedimiento de oficio;
 
-IV. Emplazar una vez acordada la admisión de la denuncia al denunciado;
+> <small>(ADICIONADA, SESIÓN 1 DE ABRIL DE 2010)</small>
 
-> <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
-
-V. Presentar a la Comisión la propuesta de medidas cautelares que considere conducentes;
-
-> <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
-
-VI. Investigar los hechos denunciados;
+IV. Rendir a la Comisión el informe derivado de las diligencias que servirán para determinar la continuación del procedimiento de oficio;
 
 > <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
 
-VII. Coadyuvar con la Comisión en la elaboración del proyecto de resolución del Consejo, en caso de acordarse la improcedencia de la denuncia;
+V. Coadyuvar con la Comisión en requerir al denunciante cuando omita alguno de los requisitos para la presentación de la denuncia señalados en el Reglamento;
 
-VIII. Requerir a solicitud de las partes y de la Comisión las pruebas necesarias y conducentes para la correcta integración del expediente;
+VI. Emplazar una vez acordada la admisión de la denuncia al denunciado;
 
 > <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
-IX. Realizar las diligencias que sean solicitadas como pruebas, así como las que se consideren necesarias para preservar la materia de la denuncia;
+VII. Presentar a la Comisión la propuesta de medidas cautelares que considere conducentes;
 
-X. Remitir el expediente integrado a la Comisión;
+> <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
-XI. Proponer al Consejo reformas o modificaciones al presente Reglamento; y
+VIII. Investigar los hechos denunciados;
 
-XII. Las demás que le confiera el Consejo, la Comisión, y las demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+IX. Coadyuvar con la Comisión en la elaboración del proyecto de resolución del Consejo, en caso de acordarse la improcedencia de la denuncia;
+
+X. Requerir a solicitud de las partes y de la Comisión las pruebas necesarias y conducentes para la correcta integración del expediente;
+
+> <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
+XI. Realizar las diligencias que sean solicitadas como pruebas, así como las que se consideren necesarias para preservar la materia de la denuncia;
+
+XII. Remitir el expediente integrado a la Comisión;
+
+XIII. Proponer al Consejo reformas o modificaciones al presente Reglamento; y
+
+XIV. Las demás que le confiera el Consejo, la Comisión, y las demás disposiciones aplicables.
 
 ARTÍCULO 12 bis.- Son atribuciones de los Consejos que reciban una denuncia:
 
-I. Remitir la denuncia que reciban al día siguiente de su recepción al Consejo para su trámite; y
+> <small>(REFORMADA, SESIÓN 1 DE ABRIL DE 2010)</small>
 
-II. Las demás que le confiera el Consejo, la Comisión, y las demás disposiciones aplicables.
+I. Remitir la denuncia que reciban al día siguiente de su recepción al Consejo para su trámite;
+
+> <small>(ADICIONADA, SESIÓN 1 DE ABRIL DE 2010)</small>
+
+II. Aprobar la remisión al Consejo de la solicitud de inicio del procedimiento de oficio, cuando en el ejercicio de sus atribuciones haya tenido conocimiento de que se ha violado una disposición del Código o sus normas reglamentarias; y
+
+III. Las demás que le confiera el Consejo, la Comisión, y las demás disposiciones aplicables.
 
 ### CAPÍTULO CUARTO. DE LA IMPROCEDENCIA, DESECHAMIENTO Y SOBRESEIMIENTO
 
@@ -586,13 +608,35 @@ En los casos en que se haya ordenado el retiro de propaganda en lugares prohibid
 
 ### CAPÍTULO OCTAVO. DE LAS DENUNCIAS
 
+> <small>(REFORMADO, SESIÓN 1 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 30.
 
 Los procedimientos para conocer de las faltas cometidas a las disposiciones establecidas en el Código, iniciarán con la denuncia que interponga cualquier persona en contra de los sujetos infractores que presuntamente hayan incumplido con dichas disposiciones.
 
-El procedimiento dará inicio a petición de parte.
+El procedimiento dará inicio a petición de parte o de oficio.
 
-Será a petición de parte, mediante escrito de denuncia en la que se haga del conocimiento del Instituto la presunta comisión de una falta cometida a las disposiciones establecidas en el Código.
+Será a petición de parte, mediante escrito de denuncia en la que se haga del conocimiento del Instituto la presunta comisión de una falta cometida a las disposiciones establecidas en el Código o sus normas reglamentarias.
+
+Será de oficio, cuando el Consejo tenga conocimiento de la presunta violación a las disposiciones del Código o sus normas reglamentarias o cuando algún órgano o integrante del Consejo en ejercicio de sus atribuciones tenga conocimiento de presuntas violaciones.
+
+El procedimiento para iniciar de oficio la investigación de hechos deberá de observar lo siguiente:
+
+I. El órgano o integrante del Consejo que en ejercicio de sus atribuciones, informe de la presunta violación a las disposiciones del Código o sus normas reglamentarias, lo comunicará de inmediato al Consejero Presidente;
+
+II. El Consejero Presidente informará de inmediato a la Comisión la comunicación indicada en la fracción inmediata anterior;
+
+III. La Comisión acordará el inicio de la investigación e instruirá al Secretario para que realice las diligencias necesarias para recabar información materia de la misma;
+
+IV. El Secretario rendirá un informe respecto a las diligencias realizadas, fundando y motivando la procedencia o improcedencia de la continuación del procedimiento de oficio;
+
+V. La Comisión dentro de los tres días siguientes a la recepción del informe del Secretario acordará la continuación de la investigación o improcedencia de la misma;
+
+VI. Si se acuerda la continuación del procedimiento de oficio se aplicará en lo conducente las disposiciones contempladas en el procedimiento ordinario; y
+
+VII. Si se acuerda la improcedencia se desechará de plano, observando para ello lo dispuesto en el presente Reglamento.
+
+Los procedimientos relacionados con la difusión de propaganda que calumnie o denigre a los partidos políticos o coaliciones y sus candidatos o a las instituciones, así como aquellos que en términos del artículo 89 fracción XXII del Código les corresponde a los partidos políticos o coaliciones tratándose de actos violatorios realizados por las autoridades u otros partidos en contra de su propaganda, candidatos o miembros, sólo podrán iniciar a petición de parte.
 
 > <small>(ADICIONADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
@@ -606,9 +650,11 @@ ARTÍCULO 30 BIS.- Una vez recibida la denuncia, el Consejo la remitirá, por co
 
 El presente procedimiento será aplicable en cualquier tiempo para la atención de conductas imputables a sujetos infractores que vulneren las disposiciones del Código y sus normas reglamentarias.
 
+> <small>(REFORMADO, SESIÓN 1 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 32.
 
-El procedimiento ordinario para conocer de las faltas cometidas a las disposiciones establecidas en el Código y sus normas reglamentarias, iniciará con la denuncia que interponga cualquier persona en contra de los sujetos infractores que presuntamente hayan incumplido con dichas disposiciones.
+El procedimiento ordinario para conocer de las faltas cometidas a las disposiciones establecidas en el Código y sus normas reglamentarias, iniciará de oficio o con la denuncia que interponga cualquier persona en contra de los sujetos infractores que presuntamente hayan incumplido con dichas disposiciones.
 
 ###### ARTÍCULO 33.
 
@@ -643,6 +689,10 @@ VII. Presentar las copias legibles necesarias para correr traslado al o los denu
 ###### ARTÍCULO 35.
 
 Los Consejos que reciban una denuncia, deberán remitirla al día siguiente de su recepción al Consejo para su trámite.
+
+> <small>(ADICIONADA, SESIÓN 1 DE ABRIL DE 2010)</small>
+
+Cuando en ejercicio de sus atribuciones informen de la presunta violación a las disposiciones del Código o sus normas reglamentarias deberán aprobar la remisión al Consejo de la solicitud de inicio del procedimiento de oficio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
@@ -1112,6 +1162,10 @@ En lo conducente serán aplicables las sanciones establecidas en los artículos 
 
 La denuncia relacionada con propaganda electoral en radio y televisión deberá ser presentada por los ciudadanos, los partidos políticos y/o coaliciones acreditados o registrados ante el Consejo.
 
+> <small>(ADICIONADO, SESIÓN 1 DE ABRIL DE 2010)</small>
+
+Será de oficio, cuando algún órgano o integrante del Consejo en ejercicio de sus atribuciones, informe de la presunta violación.
+
 > <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 81.
@@ -1329,3 +1383,9 @@ SESIÓN ESPECIAL: 24 DE FEBRERO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 Las reformas al presente Reglamento entrarán en vigor al día siguiente de su aprobación por el consejo general del Instituto electoral del Estado.
+
+SESIÓN ESPECIAL: 1 DE ABRIL DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+Las reformas al presente Reglamento, entrarán en vigor al día siguiente de su aprobación por el Consejo General del Instituto Electoral del Estado.
