@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-procuraduria-de-la-defensa-del-menor-y-la-familia-721
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-20"
-last_updated: "2009-12-20"
+last_updated: "2010-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LA PROCURADURIA DE LA DEFENSA DEL MENOR, LA MUJER Y LA FAMILIA PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 20 de diciembre de 2009.
 
@@ -195,7 +195,9 @@ XXVIII. Elaborar el proyecto de presupuesto anual de la Procuraduría, y turnarl
 
 XXIX. Celebrar convenios relacionados con asuntos de menores, la mujer y la familia, previa autorización del Director General del Sistema para el Desarrollo Integral de la Familia en el Estado, con autoridades municipales de la entidad;
 
-XXX. Cuando las niñas, los niños o adolescentes que se va a adoptar no tiene padres, tutor, o quien ejerza sobre él la patria potestad, podrá consentir en ella; tomando en consideración que en la adopción prevalezca en todo momento el interés superior del mismo; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2010)</small>
+
+XXX. Cuando las niñas, los niños o adolescentes que se van a adoptar no tiene (sic) padres, tutor o quien ejerza sobre ellos la patria potestad, podrá consentir en ella; así mismo, también en aquellos casos en que el Titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia tenga la custodia definitiva de una niña, niño o adolescente, ejerza la patria potestad del mismo, o bien si se tratare de una entrega voluntaria con el propósito de adopción, tomando en consideración que en la adopción prevalezca en todo momento el interés superior del mismo; y
 
 XXXI. Las demás que le confiera esta Ley, el Director General y otras disposiciones legales aplicables.
 
@@ -203,7 +205,9 @@ XXXI. Las demás que le confiera esta Ley, el Director General y otras disposici
 
 El Subprocurador de la Defensa del Menor, la Mujer y la Familia, tiene las siguientes obligaciones y atribuciones:
 
-I. Las señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, XV, XVII y XVIII del artículo 5 de la presente Ley; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2010)</small>
+
+I. Las señaladas en las fracciones I, II, III, IV, V, VI, VIII, IX, XV, XVII y XVIII del artículo 6 de la presente Ley; y
 
 II. Las demás que le sean encomendadas por el Procurador de la Defensa del Menor, la Mujer y la Familia y demás leyes aplicables.
 
@@ -211,7 +215,9 @@ II. Las demás que le sean encomendadas por el Procurador de la Defensa del Meno
 
 Los Delegados Municipales tienen las siguientes obligaciones y atribuciones:
 
-I. Las señaladas en las fracciones I, II, III, IV, V, VI, VII y IX, del artículo 5 de la presente Ley; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2010)</small>
+
+I. Las señaladas en las fracciones I, II, III, IV, V, VI, y IX del artículo 6 de la presente Ley; y
 
 II. Las demás que le sean encomendadas por el Procurador de la Defensa del Menor, la Mujer y la Familia y demás leyes aplicables.
 
@@ -334,3 +340,11 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE ABRIL DE 2010.
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente.
