@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-483-de-la-comision-estatal-de-derechos-humanos-27314
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-27"
-last_updated: "2002-12-27"
+last_updated: "2010-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 483 DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ABRIL DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el viernes 27 de diciembre de 2002.
 
@@ -47,9 +47,17 @@ Esta ley es de observancia general y de orden público y de aplicación en todo 
 
 Se aplicará asimismo cuando el peticionario o quejoso se encuentre fuera del Estado y la violación a los derechos humanos produzca o pueda producir sus efectos dentro de éste, en la persona o bienes de aquellos.
 
+> <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2010)</small>
+
+Para los efectos de esta Ley se entiende por derechos humanos el conjunto de condiciones de vida, prerrogativas y libertades inherentes a la naturaleza y dignidad de la persona, cuya realización efectiva resulta indispensable para el desarrollo integral del individuo que vive en una sociedad jurídicamente organizada; que están reconocidos y garantizados en la Constitución Política de los Estados Unidos Mexicanos, en los Convenios y Tratados Internacionales, suscritos y ratificados por el Estado Mexicano y en la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
+
 ###### ARTÍCULO 2.
 
 La Comisión Estatal de Derechos Humanos es un organismo autónomo de Estado, con personalidad jurídica y patrimonio propios, goza de autonomía técnica y presupuestal; y sólo puede ser fiscalizada en términos de lo preceptuado por la Constitución Política Local.
+
+> <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2010)</small>
+
+La Comisión tiene por objeto la protección, vigilancia, defensa, promoción, difusión, estudio y cualquier otro tema concerniente a los Derechos Humanos en el Estado de Veracruz de Ignacio de la Llave, así como garantizar a cualquier persona o grupo social no ser sujetos a ninguna forma de discriminación o exclusión a consecuencia de un acto de autoridad.
 
 Todos los servicios que presta son gratuitos.
 
@@ -59,6 +67,10 @@ La Comisión de Derechos Humanos tiene competencia en todo el Estado de Veracruz
 
 Cuando en un mismo hecho se involucren autoridades o servidores públicos federales, estatales y municipales, la competencia se surtirá en favor de la Comisión Nacional de Derechos Humanos, salvo que puedan dividirse los hechos, sin que se divida la causa, de ser así, se hará el desglose correspondiente para su envío.
 
+> <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2010)</small>
+
+Las autoridades o servidores públicos que ejerzan actos de censura sobre las comunicaciones enviadas a la Comisión, las escuchen o interfieran, serán sancionados de acuerdo a las responsabilidades establecidas en las leyes correspondientes.
+
 ###### ARTÍCULO 4.
 
 Son atribuciones de la Comisión Estatal:
@@ -67,9 +79,13 @@ I. Recibir, conocer e investigar, a solicitud de parte o de oficio, peticiones o
 
 II. Intervenir en los juicios de protección de los derechos humanos conforme a la legislación de la materia;
 
-III. Formular recomendaciones públicas autónomas, no vinculatorias, así como denuncias y quejas ante las autoridades respectivas en los términos previstos en la Constitución Política Local; igualmente, formular recomendaciones y observaciones o sugerencias generales a las autoridades del Estado para que dentro del ámbito de su competencia promuevan los cambios y modificaciones de disposiciones legales y reglamentarias, así como de prácticas administrativas, de manera que se generen las condiciones necesarias para que las personas gocen de una mejor protección de los derechos humanos que establece la Constitución Política Local;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2010)</small>
 
-IV. Hacer del conocimiento del H. Congreso del Estado, y de la autoridad que estime pertinente, el incumplimiento reiterado de las recomendaciones;
+III. Formular recomendaciones públicas autónomas, no vinculatorias, así como denuncias y quejas ante las autoridades respectivas, en los términos previstos en la Constitución Política Local; igualmente, formular recomendaciones y observaciones o sugerencias generales a las autoridades del Estado para que dentro del ámbito de su competencia promuevan los cambios y modificaciones de disposiciones legales y reglamentarias, así como de prácticas administrativas, de manera que se generen las condiciones necesarias para que las personas gocen de una mejor protección de los derechos humanos que establecen la Constitución Política de los Estados Unidos Mexicanos, los tratados e instrumentos internacionales en materia de derechos humanos, que el Estado Mexicano haya firmado y ratificado y la Constitución Política del Estado de Veracruz de Ignacio de la Llave, de acuerdo al marco normativo aplicable;
+
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2010)</small>
+
+IV. Hacer del conocimiento del Congreso del Estado, por conducto de la Comisión Permanente de Derechos Humanos y Atención a Grupos Vulnerables, y de las autoridades que estime pertinente, el incumplimiento reiterado de las recomendaciones, con la finalidad de que su intervención asegure la efectividad y cumplimiento de las mismas;
 
 V. Turnar a las Comisiones Estatales de Derechos Humanos, los asuntos de su competencia conforme a la legislación aplicable;
 
@@ -81,11 +97,15 @@ VIII. Promover el estudio, investigación, análisis y difusión de los derechos
 
 IX. Diseñar y ejecutar los programas preventivos y operativos que en materia de los derechos humanos se requieran;
 
-X. Vigilar y exigir el respeto a los derechos humanos en el sistema penitenciario estatal;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2010)</small>
+
+X. Vigilar, supervisar y exigir el respeto a los derechos humanos en el sistema penitenciario estatal. En los casos en que la Comisión Estatal de Derechos Humanos presuma malos tratos o tortura de los detenidos solicitará el reconocimiento médico, comunicando a las autoridades competentes los resultados de las revisiones practicadas. Estas atribuciones se ejercerán sin perjuicio de las que en la materia le corresponden a la Comisión Nacional de los Derechos Humanos;
 
 XI. Dictar las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las presuntas violaciones a los derechos humanos;
 
-XII. Formular programas y proponer acciones en coordinación con organismos públicos o privados que impulsen, dentro de la entidad federativa, el cumplimiento de los tratados, acuerdos y convenciones internacionales en materia de derechos humanos, firmados y ratificados por el Estado Mexicano;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2010)</small>
+
+XII. Formular programas y proponer acciones en coordinación con organismos públicos o privados que impulsen, dentro de la entidad federativa, el cumplimiento de los tratados, acuerdos y convenciones internacionales en materia de derechos humanos, firmados y ratificados por el Estado Mexicano; para ello deberá elaborar y mantener actualizada una recopilación de dichos documentos que se divulgarán entre la sociedad y las entidades públicas;
 
 XIII. Orientar, gestionar y otorgar el apoyo que requieran los quejosos, ofendidos y víctimas del delito para hacer efectivos sus derechos;
 
@@ -93,11 +113,17 @@ XIV. Expedir su Reglamento Interno; y
 
 XV. Las demás que otorguen la Constitución Política Local, esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 5.
 
-La Comisión no es competente para conocer de asuntos electorales, laborales, agrarios y jurisdiccionales en cuanto al fondo. Tampoco lo será respecto a consultas que formulen las autoridades, los particulares u otras entidades sobre interpretación de disposiciones constitucionales y legales, ni en aquellos casos en que se pueda comprometer o vulnerar su autonomía o su autoridad moral.
+La Comisión no es competente para conocer de asuntos electorales, laborales, agrarios y jurisdiccionales en cuanto al fondo; el conocimiento de quejas relacionadas con estas materias sólo se admitirá y conocerá por parte de la Comisión, cuando se trate de actos u omisiones administrativas de carácter procesal. Tampoco será competente respecto a consultas que formulen las autoridades, los particulares u otras entidades sobre interpretación de disposiciones constitucionales y legales, ni en aquellos casos en que se pueda comprometer o vulnerar su autonomía o su autoridad moral.
 
 Para los efectos de esta Ley y de su Reglamento son asuntos jurisdiccionales en cuanto al fondo, todas las resoluciones que se regulan en las normas procesales de los ordenamientos jurídicos de las diferentes materias del derecho.
+
+> <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2010)</small>
+
+Todos las demás resoluciones o actos de autoridades podrán ser reclamados ante la Comisión.
 
 ###### ARTÍCULO 6.
 
@@ -121,7 +147,9 @@ VIII. Intervenir, por sí o por medio de los visitadores, en los juicios sobre p
 
 IX. Aprobar, emitir, plantear y dar a conocer las recomendaciones públicas o generales, no vinculatorias, y los acuerdos que resulten de las investigaciones efectuadas con motivo de las quejas interpuestas ante el Organismo por violaciones a los derechos humanos;
 
-X. Celebrar acuerdos, convenios, bases de coordinación, con entidades públicas o privadas, para el cumplimiento de sus atribuciones;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2010)</small>
+
+X. Celebrar acuerdos, convenios o bases de coordinación con entidades públicas o privadas, organismos no gubernamentales de derechos humanos, así como con instituciones académicas y culturales que tengan por objeto la defensa de los derechos humanos para un mejor cumplimiento de sus atribuciones;
 
 XI. Rendir, a la sociedad, un informe anual de las actividades desarrolladas;
 
@@ -139,7 +167,9 @@ Para ausentarse por un período mayor al señalado anteriormente, deberá obtene
 
 XVII. Iniciar, a petición de parte o de oficio, las quejas que le presenten sobre presuntas violaciones a los derechos humanos, así como efectuar las investigaciones necesarias;
 
-XVIII. Dar publicidad a las recomendaciones, a las conciliaciones, y a los acuerdos que emita la Comisión Estatal de Derechos Humanos que sean de relevancia para la sociedad;
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2010)</small>
+
+XVIII. Dar publicidad a las recomendaciones, a las conciliaciones y a los acuerdos que emita la Comisión Estatal de Derechos Humanos, que sean de relevancia para la sociedad, así como a los estudios que fomenten y difundan una cultura de respeto a los derechos humanos;
 
 XIX. Formular denuncias ante la autoridad competente por violaciones graves a los derechos humanos o de lesa humanidad, o de aquellas que puedan ser constitutivas de delitos perseguibles de oficio;
 
@@ -147,7 +177,9 @@ XX. Comunicar al superior jerárquico la falta de atención de los servidores p�
 
 XXI. Dictar las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las violaciones a los derechos humanos y, en su caso, pedir el informe sobre las medidas adoptadas en el cumplimiento de éstas;
 
-XXII. Delegar las atribuciones contenidas en las fracciones II, IV, VI, VIII, X, XIV, XV, XVII, XIX, XX y XXI de éste artículo; y
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2010)</small>
+
+XXII. Delegar en los titulares de sus Visitadurías Generales las atribuciones contenidas en las fracciones II, IV, VI, VIII, X, XIV, XV, XVII, XIX, XX y XXI; y
 
 XXIII. Las demás que señale la Constitución Política Local, esta Ley y demás disposiciones aplicables.
 
@@ -243,6 +275,10 @@ VI. Las que señalen esta Ley y demás disposiciones aplicables.
 
 Las atribuciones señaladas en este artículo se ejercerán, tratándose de mujeres y menores de edad en conflicto con la ley penal, en los lugares en que éstos o aquéllas se encuentren.
 
+> <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2010)</small>
+
+La Comisión deberá visitar cada una de las instalaciones físicas del sistema penitenciario del Estado y Municipios, por lo menos tres veces al año, sin aviso previo a las autoridades responsables de las mismas.
+
 ###### ARTÍCULO 12.
 
 Las atribuciones contenidas en los artículos 4, 7, 8, 9, 10 y 11 de la presente Ley, serán ejercidas, conjunta o separadamente, por el Presidente de la Comisión, los visitadores, directores y delegados de la misma, de acuerdo con lo establecido en esta Ley y demás disposiciones aplicables.
@@ -265,6 +301,22 @@ El nombramiento del Presidente de la Comisión Estatal de Derechos Humanos se ha
 
 En los recesos del H. Congreso, la Diputación Permanente hará el nombramiento del Presidente con carácter provisional, en tanto aquél se reúne y expide la aprobación definitiva.
 
+> <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2010)</small>
+
+El procedimiento para el nombramiento del titular de la Presidencia de la Comisión Estatal de Derechos Humanos se sujetará a lo siguiente:
+
+I. Cuando falten cuarenta y cinco días para la conclusión del periodo para el que fue nombrada o nombrado el Presidente de la Comisión Estatal de Derechos Humanos, la Comisión de Derechos Humanos y Atención a Grupos Vulnerables del Congreso del Estado llamará, mediante convocatoria abierta, publicada en al menos dos de los diarios de mayor circulación en el Estado, a organismos no gubernamentales, asociaciones y colegios vinculados a la defensa y promoción de los derechos humanos y, en general, a las entidades, instituciones y personalidades académicas o intelectuales, para que presenten propuestas a efecto de cubrir la vacante;
+
+II. La recepción de propuestas se hará en un plazo de diez días, contados a partir del siguiente a aquel en que se haga pública la convocatoria respectiva;
+
+III. Cumplido dicho plazo, las propuestas recibidas se publicarán, a fin de que las o los interesados puedan aportar mayores elementos de juicio, ante los integrantes de la Comisión de Derechos Humanos y Atención a Grupos Vulnerables del Congreso del Estado;
+
+IV. Después de cinco días de publicadas las propuestas se cerrará la recepción de opiniones y la Comisión de Derechos Humanos y Atención a Grupos Vulnerables del Congreso del Estado citará de inmediato, y por un término no mayor a diez días hábiles, a comparecer a las y los ciudadanos que cumplan los requisitos, con objeto de que aporten mayores elementos que permitan conocer sus objetivos de trabajo en la materia;
+
+V. Después de siete días de haber concluido el periodo de comparecencias de las y los candidatos propuestos, la Comisión de Derechos Humanos y Atención a Grupos Vulnerables deberá emitir su dictamen, que contendrá una terna de candidatos, el cual será sometido al Pleno del Congreso del Estado o, en sus recesos, a la Diputación Permanente para que se realice el nombramiento; y
+
+VI. En caso de que ninguno de los integrantes de la terna contenida en el dictamen señalado en la fracción anterior obtenga la mayoría de votos que exige la Constitución Política del Estado, la Comisión de Derechos Humanos y Atención a Grupos Vulnerables deberá emitir, en un plazo perentorio de cinco días posteriores a la sesión correspondiente, un nuevo dictamen, que contendrá igualmente una terna de aspirantes al cargo, de la que no podrán formar parte las personas propuestas originalmente.
+
 ###### ARTÍCULO 16.
 
 Para su designación, el Presidente de la Comisión Estatal de Derechos Humanos, deberá reunir los siguientes requisitos:
@@ -281,9 +333,11 @@ IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite
 
 El Presidente de la Comisión Estatal de Derechos Humanos durará en sus funciones cinco años, y podrá ser designado, exclusivamente, para un segundo período.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 18.
 
-El Consejo Consultivo de la Comisión estará integrado por cuatro personas que gocen de reconocido prestigio dentro del Estado, deberán ser ciudadanos en pleno ejercicio de sus derechos, veracruzanos con residencia en la Entidad durante los dos años anteriores al día de la designación; o mexicanos por nacimiento, con residencia mínima de cinco años en el Estado.
+El Consejo Consultivo de la Comisión estará integrado por diez ciudadanos o ciudadanas, cuidando que ningún género sea representado en proporción superior al cincuenta por ciento. Los integrantes del Consejo Consultivo deberán gozar de reconocido prestigio y probidad dentro de la sociedad del Estado, por su labor en la promoción, estudio o difusión de los derechos humanos; deberán, además, estar en pleno ejercicio de sus derechos, ser veracruzanos con residencia en la entidad durante los dos años anteriores al día de la designación; o mexicanos por nacimiento, con residencia mínima de cinco años en el Estado.
 
 Los Consejeros durarán en sus funciones cinco años y podrán ser designados, exclusivamente, para un segundo período.
 
@@ -293,9 +347,15 @@ El Presidente de la Comisión, lo es también del Consejo Consultivo.
 
 Con excepción de éste, el cargo de consejero es honorífico.
 
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 20.
 
-El nombramiento de los Consejeros se hará mediante decreto del H. Congreso del Estado a partir de ternas propuestas por el Presidente de la Comisión y, en sus recesos, por la Diputación Permanente.
+El nombramiento de los Consejeros se hará mediante decreto del Congreso del Estado y, en los recesos de éste, por la Diputación Permanente.
+
+Para el nombramiento de Consejeros, el Congreso del Estado, por conducto de la Comisión Permanente de Derechos Humanos y Atención a Grupos Vulnerables, consultará a cinco diversas asociaciones u organismos civiles debidamente acreditados y constituidos legalmente, con sede y trabajo en materia de defensa, promoción y divulgación de los derechos humanos en la Entidad; y oirá las opiniones de la o del Presidente de la Comisión Estatal de Derechos Humanos y de, por lo menos, tres académicos reconocidos y especialistas en la materia.
+
+La Comisión Permanente mencionada fundamentará y presentará al Congreso del Estado o, en su caso, a la Diputación Permanente, las propuestas suficientes, que no serán menores a quince personas, para que de entre ellas se realicen los nombramientos respectivos.
 
 ###### ARTÍCULO 21.
 
@@ -319,7 +379,7 @@ VIII. Designar, de entre los visitadores generales, al Presidente Interino de la
 
 IX. Si la ausencia temporal se convierte en definitiva, o por renuncia del Presidente de la Comisión, el Consejo designará de entre los visitadores generales al Presidente Interino de la Comisión, hasta en tanto el H. Congreso del Estado nombre al titular de la Comisión que habrá de concluir el período;
 
-X. Si vencido el período para el que fue designado el Presidente de la Comisión por el H. Congreso del Estado, éste no nombra al nuevo titular, aquél continuará en sus funciones hasta en tanto éste ejerce su atribución; y
+X. (DEROGADA, G.O. 1 DE ABRIL DE 2010)
 
 XI. Las demás que le otorgue esta Ley y normas legales aplicables, o que por disposición de éstas deba conocer un órgano colegiado.
 
@@ -383,13 +443,11 @@ IV. Las percepciones derivadas de suscripciones, pago de cuotas de inscripción 
 
 ### CAPÍTULO QUINTO. DE LOS PROCEDIMIENTOS
 
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 25.
 
-Los procedimientos que se sigan ante la Comisión Estatal de Derechos Humanos, serán breves y sencillos. Se procurará observar las formalidades esenciales del procedimiento, y se seguirán, además, de acuerdo con los principios de inmediatez, concentración y rapidez.
-
-Las pruebas que consten en los expedientes de queja serán valoradas en su conjunto, de acuerdo con los principios de la lógica, de la experiencia, buena fe y, en su caso, de la legalidad, con el fin de que puedan producir convicción sobre los hechos materia de la queja.
-
-El Reglamento Interno establecerá los procedimientos que deberán seguirse para el cumplimiento de las atribuciones de la Comisión.
+Los procedimientos que se sigan ante la Comisión Estatal de Derechos Humanos serán breves y sencillos. Se procurará observar las formalidades esenciales del procedimiento y se seguirán, además, de acuerdo con los principios de objetividad, profesionalismo, igualdad, inmediatez, concentración, rapidez y transparencia.
 
 ### CAPÍTULO SEXTO. DE LAS RESPONSABILIDADES
 
@@ -412,6 +470,18 @@ No podrán ser citados a declarar ante ninguna autoridad por las investigaciones
 Las autoridades y servidores públicos estatales y municipales involucrados en asuntos de la competencia de la Comisión Estatal de Derechos Humanos o que por razón de sus funciones puedan proporcionar información pertinente, deberán cumplir en sus términos con las peticiones que ésta les formule, así como facilitar el desempeño de la misma.
 
 Serán responsables penal y administrativamente por los actos u omisiones en que incurran durante o con motivo de la tramitación de quejas, conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 28 BIS. El procedimiento a seguir en el caso de que la conducta de omisión se mantenga o se entorpezcan las investigaciones, por parte de autoridades o de los servidores públicos a quienes la Comisión solicite intervenir o colaborar en las mismas, será:
+
+I. La Comisión rendirá un informe al Congreso del Estado, por conducto de la Comisión Permanente de Derechos Humanos y Atención a Grupos Vulnerables, así como a las autoridades competentes, sobre los probables delitos o faltas que hubieren cometido las autoridades o servidores públicos, con el propósito de la aplicación de los procedimientos y, en su caso, de las sanciones que procedan;
+
+II. La Comisión tendrá la facultad de solicitar amonestaciones por escrito, públicas o privadas, según sea el caso, al superior jerárquico de los servidores públicos que incumplan el deber legal a que se refiere el artículo 28 de esta Ley;
+
+III. El Congreso del Estado podrá citar a comparecer a cualquier funcionario de la administración pública estatal y municipal, ante la Comisión Permanente de Derechos Humanos y Atención a Grupos Vulnerables, para que informe las razones de su conducta, cuando la autoridad responsable no acepte o no cumpla total o parcialmente una recomendación;
+
+IV. La Comisión, por conducto del representante legal, estará presente en la comparecencia del servidor público y podrá intervenir en ella en una sola ocasión y sin derecho de réplica.
 
 ### CAPÍTULO OCTAVO. DEL RÉGIMEN LABORAL
 
@@ -437,7 +507,9 @@ El Presidente, los visitadores, directores y delegados podrán plantear la inmed
 
 El personal de la Comisión Estatal guardará la confidencialidad de la información y de la documentación relativa a los asuntos que tengan bajo su responsabilidad.
 
-Al personal de la Comisión Estatal de Derechos Humanos le está prohibido expedir copias literales, fotocopias certificadas o simples a persona alguna, sean o no parte en el expediente respectivo.
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 2010)</small>
+
+Para la expedición de copias literales, fotocopias certificadas o simples a quienes las soliciten, sean o no parte en el expediente respectivo, la Comisión observará lo previsto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Veracruz de Ignacio de la Llave.
 
 ###### ARTÍCULO 34.
 
@@ -476,3 +548,13 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.
 LICENCIADO MIGUEL ALEMÁN VELAZCO.
 
 GOBERNADOR DEL ESTADO.- RÚBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 1 DE ABRIL DE 2010.
+
+Primero. Este decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. En un plazo de sesenta días a partir de la entrada en vigor de este ordenamiento, se nombrará a los consejeros del Consejo Consultivo de la Comisión Estatal de Derechos Humanos, con excepción del Presidente de ésta, en los términos señalados en este Decreto, a efecto de que dicho órgano se encuentre integrado con el número de Consejeros previsto en las disposiciones aplicables.
