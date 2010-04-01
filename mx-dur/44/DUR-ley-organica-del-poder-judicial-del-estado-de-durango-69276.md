@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2009-12-10"
+last_updated: "2010-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -431,9 +431,11 @@ Podrán establecerse salas unitarias con carácter de auxiliares y competencia d
 
 Las sesiones de las salas serán privadas y las audiencias serán públicas, excepto cuando sus integrantes determinen que deban ser privadas porque estimen que así lo exige el caso o lo prevenga la ley. Las sesiones tendrán verificativo por lo menos un día hábil de cada semana en el día y hora que sus integrantes determinen mediante acuerdos especiales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 18.
 
-Las resoluciones de la Sala Colegiada serán tomadas por unanimidad o por mayoría de votos de los magistrados, quienes no podrán abstenerse de votar sino por impedimento, excusa o recusación que previamente calificará la propia Sala, en cuyo caso se integrará la Sala como se dispone en esta ley. Cada Magistrado será ponente de los asuntos que le sean turnados, salvo el caso de excusa o recusación en que se atenderá a lo dispuesto por el artículo 14 de esta ley.
+Las resoluciones de la Sala Colegiada serán tomadas por unanimidad o por mayoría de votos de los magistrados, quienes no podrán abstenerse de votar sino por impedimento, excusa o recusación que previamente calificará la propia Sala, en cuyo caso se integrará la Sala como se dispone en esta ley. Cada Magistrado será ponente de los asuntos que le sean turnados, salvo el caso de excusa o recusación en que se atenderá a lo dispuesto por los artículos 163 y 164 de esta ley.
 
 Las resoluciones llevarán la firma de los magistrados que las acuerden y del Secretario de Acuerdos de la Sala.
 
@@ -1921,7 +1923,7 @@ Las faltas serán valoradas y, en su caso, sancionadas, en lo conducente, de con
 
 En todo caso, se considerarán como faltas graves, el incumplimiento de las obligaciones señaladas en las fracciones XI a XIII, y XV a XVII del artículo 47 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, en las fracciones I a VI, IX, XII, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXIII del artículo 143 de esta ley y las señaladas en el artículo 125 de la Constitución Política del Estado Libre y Soberano de Durango.
 
-Tratándose de los jueces, la destitución sólo procederá en los casos a que se refiere el artículo 117 de la Constitución Política del Estado Libre y Soberano de Durango, el artículo 143 fracciones I a VI, IX, XII, XV a XXI y XXIII de esta ley, así como en las del artículo 47 fracciones XI, XIII y XV a XVII de la ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios; y cuando reincidan por lo menos en tres ocasiones en un lapso de tres años en una causa de responsabilidad, sin haber atendido a las observaciones o amonestaciones que se les hagan por faltas a la moral o a la disciplina que deben guardar, conforme a la ley y a los reglamentos respectivos.
+Tratándose de los jueces, la destitución sólo procederá en los casos a que se refiere el artículo 117 de la Constitución Política del Estado Libre y Soberano de Durango, el artículo 143 fracciones l a VI, IX, XII, XV a XXI y XXIII de esta ley, así como en las del artículo 47 fracciones XI, XIII y XV a XVII de la ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios; y cuando reincidan por lo menos en tres ocasiones en un lapso de tres años en una causa de responsabilidad, sin haber atendido a las observaciones o amonestaciones que se les hagan por faltas a la moral o a la disciplina que deben guardar, conforme a la ley y a los reglamentos respectivos.
 
 ###### ARTÍCULO 146.
 
@@ -2263,9 +2265,11 @@ Los secretarios y demás servidores públicos de los juzgados foráneos, otorgar
 
 ### CAPÍTULO VIII. DE LAS VACACIONES Y DÍAS INHÁBILES
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 201.
 
-Todos los servidores públicos del Poder Judicial del Estado disfrutarán anualmente de dos periodos de vacaciones de once días hábiles cada uno, según lo determine el Consejo de la Judicatura en el calendario anual de actividades.
+Todos los servidores públicos del Poder Judicial del Estado disfrutarán anualmente de dos periodos vacacionales; el primero, iniciará el primer día hábil de la segunda quincena del mes de julio y se regresará a laborar el primer día hábil del mes de agosto; y el segundo, iniciará el primer día hábil de la segunda quincena del mes de diciembre regresando a laborar el primer día hábil del mes de enero.
 
 ###### ARTÍCULO 202.
 
@@ -2829,13 +2833,11 @@ Los servidores públicos y empleados del Tribunal Electoral del Poder Judicial d
 
 ### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 248.
 
-De conformidad con el artículo 97 de la Constitución Política del Estado Libre y Soberano de Durango, el Tribunal para Menores Infractores del Poder Judicial del Estado, será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado, competente para resolver las conductas tipificadas como delitos por el Código Penal o por las leyes estatales, en las que se encuentren implicados los menores de edad.
+De conformidad con el artículo 97 de la Constitución Política del Estado Libre y Soberano de Durango, el Tribunal para Menores Infractores del Poder Judicial del Estado, será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado competente para resolver las conductas tipificadas como delito por el Código Penal o por Leyes Estatales, en las que se encuentren implicadas personas que tengan entre doce años cumplidos y menos de dieciocho años de edad.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2847,13 +2849,11 @@ El Tribunal para Menores Infractores del Poder Judicial del Estado, se integrar�
 
 Los magistrados de menores percibirán la remuneración que corresponda a los magistrados del Tribunal Superior de Justicia del Estado, la cual no podrá ser disminuida durante el periodo de su encargo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 250.
 
-Por lo que respecta a los requisitos para la designación del personal, nombramientos, organización, estructura y funcionamiento, del Tribunal para Menores Infractores del Poder Judicial del Estado se estará a lo dispuesto en el Código de Justicia para Menores Infractores en el Estado de Durango.
+Por lo que respecta a los requisitos para la designación del personal, nombramientos, carrera judicial, organización, estructura y funcionamiento del Tribunal para Menores Infractores del Poder Judicial del Estado se estará a lo dispuesto en el Código de Justicia para Menores Infractores en el Estado de Durango y esta ley.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2869,19 +2869,33 @@ Por lo que respecta a los requisitos para la designación del personal, nombrami
 
 La administración, vigilancia y disciplina del Tribunal para Menores Infractores estarán a cargo de la Comisión de Administración, que se integrará por el Presidente de dicho Tribunal, quien la presidirá, por un Juez designado por insaculación y por un integrante del Consejo de la Judicatura designado por el Tribunal Superior de Justicia. La Comisión sesionará en las oficinas que al efecto se destinen en la sede del Tribunal para Menores Infractores del Poder Judicial del Estado.
 
-El Secretario General de Acuerdos del Tribunal para Menores Infractores del Poder Judicial del Estado, fungirá como Secretario de la Comisión y concurrirá a las sesiones con voz, pero sin voto.
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Las sesiones serán ordinarias o extraordinarias. Las ordinarias se verificarán una vez por mes, el día que se fije por acuerdo de la propia comisión, y las extraordinarias cuando sea necesario a convocatoria del presidente o a solicitud expresa por escrito de dos de los comisionados.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2010)</small>
+
+El Secretario General de Acuerdos del Tribunal para Menores Infractores del Poder Judicial del Estado, fungirá como Secretario de la Comisión y concurrirá a las sesiones con voz, pero sin voto, y será el ejecutor de los acuerdos y resoluciones que se emitan.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 252.
 
-La Comisión de Administración, a convocatoria de su Presidente, sesionará válidamente con la asistencia de sus tres integrantes y adoptará resoluciones por mayoría de votos de los presentes. Los comisionados no podrán abstenerse de votar, salvo que tengan excusas o impedimento legal.
+La Comisión de Administración, a convocatoria de su Presidente, sesionará válidamente con la asistencia de sus tres integrantes y adoptará resoluciones por unanimidad o mayoría de votos de los presentes. Los comisionados no podrán abstenerse de votar, salvo que tengan excusa o impedimento legal calificado oportunamente por los otros miembros de la comisión; cuando no hayan Estado presentes en la discusión del asunto; o no se les hubieran turnado con oportunidad los antecedentes del caso respectivo.
+
+> <small>(ADICIONADO P.O. 1 DE ABRIL DE 2010)</small>
+
+En caso de excusa del Presidente, será sustituido por el Magistrado Supernumerario; tratándose del Consejero de la Judicatura, el Pleno del Tribunal Superior designará al sustituto; y de ser el Juez, será suplido por otro Juez del propio Tribunal para Menores, designado por insaculación.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Cuando una sesión de la Comisión no se pueda celebrar por falta de quórum, se convocará nuevamente por el Presidente, para que tenga verificativo dentro de las cuarenta y ocho horas siguientes.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 El comisionado que disintiere de la mayoría, podrá formular por escrito voto particular dentro del término de tres días siguientes a la resolución, el cual se insertará en el acta respectiva.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Las sesiones ordinarias o extraordinarias de la Comisión serán privadas.
 
@@ -2905,13 +2919,17 @@ I. Elaborar y aprobar el Reglamento Interno del Tribunal para Menores Infractore
 
 II. Expedir las normas interiores en materia administrativa, de ingreso, de escalafón y de régimen disciplinario del Tribunal para Menores Infractores del Poder Judicial del Estado, tomando en cuenta las disposiciones de esta ley y las del Código de Justicia para Menores Infractores para el Estado de Durango;
 
-III. Remitir de inmediato, por conducto de su Presidente, a la instancia competente, las renuncias de los magistrados del Tribunal para Menores Infractores del Poder Judicial del Estado y acordar sobre las que presenten los jueces, secretarios y demás personal jurídico y administrativo del mismo;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2010)</small>
+
+III. Remitir de inmediato a la instancia competente, las renuncias de los Magistrados del Tribunal para Menores Infractores del Poder Judicial del Estado y acordar sobre las que presenten los jueces, secretarios y demás personal jurídico y administrativo del mismo;
 
 IV. Decretar, cuando proceda, la suspensión, remoción o cese del Secretario General, así como del resto del personal jurídico y administrativo del Tribunal para Menores Infractores del Poder Judicial del Estado;
 
 V. Aprobar el anteproyecto de presupuesto de egresos del Tribunal para Menores Infractores del Poder Judicial del Estado para proponerlo al Presidente del Tribunal Superior de Justicia, para su inclusión en el del Poder Judicial del Estado;
 
-VI. Resolver sobre las renuncias y licencias de los titulares de los órganos auxiliares de la Comisión, removerlos por causa justificada o suspenderlos en los términos que determinen las leyes y los acuerdos correspondientes, y formular denuncia o querella en los casos en que legalmente proceda;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2010)</small>
+
+VI. Resolver sobre las renuncias y licencias del personal jurídico y administrativo de los diversos órganos del Tribunal para Menores Infractores del Poder Judicial del Estado así como de los titulares de los Órganos Auxiliares de la Comisión; a estos últimos removerlos por causa justificada o suspenderlos en los términos que determinen las leyes y los acuerdos correspondientes, y formular denuncia o querella en los casos en que legalmente proceda;
 
 VII. Establecer las disposiciones generales para la promoción de los servidores públicos con funciones no jurisdiccionales, así como el ingreso, estímulos, capacitación, ascenso y promociones por escalafón y remoción del personal administrativo del Tribunal para Menores Infractores del Poder Judicial del Estado, tomando en cuenta, en lo conducente, las disposiciones contenidas en el Título Quinto de esta ley y los acuerdos y resoluciones del Consejo de la Judicatura;
 
@@ -2923,11 +2941,15 @@ X. Proponer ante el Instituto de Especialización Judicial, por conducto del Con
 
 XI. Vigilar que los servidores del Tribunal para Menores Infractores del Poder Judicial del Estado cumplan en tiempo y forma con la presentación de las declaraciones de situación patrimonial;
 
-XII. Ejercer, en lo conducente, y en lo que no se oponga al presente capítulo, las facultades y obligaciones señaladas en el artículo 97 fracciones I, II y III de esta ley. Para estos efectos, las referencias al Poder Judicial del Estado, se entenderán al Tribunal para Menores Infractores, los hechos a las salas y juzgados, se entienden hechos a la sala y juzgados del Tribunal para Menores Infractores, y las del Consejo de la Judicatura a la Comisión de Administración;
+XII. (DEROGADA, P.O. 1 DE ABRIL DE 2010)
 
 XIII. Nombrar a los secretarios, a los actuarios, oficiales de partes, así como al personal administrativo y técnico que se requiera para el buen funcionamiento del Tribunal para Menores Infractores del Poder Judicial del Estado; y
 
 XIV. Desempeñar cualquier otra función que la ley o el Reglamento Interno del Tribunal para Menores Infractores del Poder Judicial del Estado le encomienden.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2010)</small>
+
+En caso de existir dudas con respecto a las determinaciones que expida la Comisión, el Presidente solicitará su reconsideración ante el Pleno del Tribunal Superior de Justicia, el que resolverá uniinstancialmente (sic) lo conducente. En caso de incumplimiento se procederá de igual forma.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2961,6 +2983,18 @@ VIII. Las demás que les señalen la ley, el Reglamento Interno y los acuerdos g
 
 Para el adecuado ejercicio de las funciones que tiene encomendadas, la Comisión de Administración contará con los órganos auxiliares siguientes: la Secretaría Administrativa y el Centro de Documentación y Estadística Jurisdiccional.
 
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2010)</small>
+
+Para efectos de revisión, supervisión e inspección de las conductas del personal de la Sala, Juzgados y demás órganos del Tribunal para Menores Infractores se auxiliará de la Visitaduría Judicial, Órgano Auxiliar del Consejo de la Judicatura del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2010)</small>
+
+Igualmente se auxiliará del Instituto de Especialización Judicial del propio Consejo de la Judicatura para efectos de la formación, capacitación y especialización de los servidores del Tribunal para Menores Infractores.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2010)</small>
+
+En ambos supuestos se aplicarán las disposiciones de esta ley relativas a estos órganos, en lo conducente.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
@@ -2976,6 +3010,10 @@ La Secretaría Administrativa tendrá a su cargo la atención, ejecución y cump
 ###### ARTÍCULO 258.
 
 El Centro de Documentación y Estadística Jurisdiccional se sujetará a las reglas de organización y funcionamiento que determine la Comisión de Administración y tendrá a su cargo la actualización, incremento y vigilancia del acervo documental y lo relacionado con los servicios de consulta, difusión e intercambio bibliotecario que al efecto precise el Reglamento Interno del propio Tribunal para Menores Infractores del Poder Judicial del Estado, así como registrar, clasificar y compilar los criterios relevantes sustentados por el Tribunal para Menores Infractores del Poder Judicial del Estado, sistematizando los datos cuantitativos de la actividad jurisdiccional de éste.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2010)</small>
+
+También tendrá a su cargo las funciones inherentes a la materia de transparencia y acceso a la información pública.
 
 T R A N S I T O R I O S
 
@@ -3110,3 +3148,15 @@ II.- A los jueces de Menores y de Ejecución, se les respetarán sus derechos la
 III.- Al Secretario General de Acuerdos del Tribunal, los secretarios proyectistas, secretarios de acuerdos y demás personal de base y de confianza que labora en el Tribunal para Menores Infractores del Estado de Durango, se les respetarán sus derechos laborales adquiridos conforme al Código de Justicia para Menores Infractores vigente (sic) el Estado de Durango, de fecha (11) once (sic) septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha;
 
 IV.- En la readscripción de los empleados y trabajadores del Tribunal para Menores Infractores, al Poder Judicial, se respetarán sus derechos adquiridos.
+
+P.O. 1 DE ABRIL DE 2010.
+
+Artículo Segundo (sic).- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Séptimo (sic).- De las apelaciones, revisiones forzosas y extraordinarias seguirán conociendo las Salas Colegiadas y Unitarias del Tribunal Superior de Justicia como lo venían haciendo hasta la conclusión de los asuntos del Sistema Penal Tradicional.
+
+TRANSITORIOS DEL DECRETO
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente .de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Artículo Segundo.- Quedan derogadas las disposiciones que se opongan al presente decreto.
