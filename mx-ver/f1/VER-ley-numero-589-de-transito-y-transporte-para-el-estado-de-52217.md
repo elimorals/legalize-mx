@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2010-02-22"
+last_updated: "2010-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 589 DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE ABRIL DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -183,7 +183,9 @@ III. Proponer al Gobernador del Estado la celebración de acuerdos y convenios e
 
 IV. Autorizar la transferencia de la titularidad de las concesiones en todas las modalidades;
 
-V. Autorizar las tarifas a que se sujetará la prestación del servicio de transporte público en todas las modalidades;
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2010)</small>
+
+V. Autorizar las tarifas a que se sujetará la prestación del servicio de transporte público, con excepción de las relativas a las modalidades de urbano, suburbano y foráneo, las cuales serán autorizadas por el Congreso del Estado;
 
 VI. Acordar la creación de Coordinaciones Regionales de Tránsito y Transporte;
 
@@ -329,7 +331,9 @@ III. Participar en la elaboración de proyectos de iniciativas de ley, reglament
 
 IV. Expedir las normas generales estatales de carácter técnico, relativas a las características del transporte;
 
-V. Implementar e impartir cursos de capacitación a los operarios y conductores de transporte público y particular, así como al personal al servicio de la administración pública estatal o municipal;
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2010)</small>
+
+V. En coordinación con el Instituto de Capacitación para el Trabajo de Veracruz, o con cualquier institución de capacitación pública o privada que cuente con los programas correspondientes, debidamente certificados por la institución respectiva, implementar e impartir cursos de capacitación a los operarios y conductores de transporte público y particular, así como al personal al servicio de la administración pública estatal o municipal;
 
 VI. Elaborar, organizar e implementar planes y programas académicos en materia de transporte y vialidad;
 
@@ -455,7 +459,9 @@ Las decisiones que se adopten en el seno del Consejo no serán obligatorias para
 
 Las autoridades de tránsito fomentarán, de manera permanente, la preparación y difusión de campañas, cursos, pláticas, talleres y conferencias que orienten y eduquen a la sociedad sobre la importancia de la seguridad del tránsito y el transporte de peatones, pasajeros y conductores de vehículos.
 
-En los términos que disponga la normatividad aplicable, las autoridades de tránsito y transporte se coordinarán con la Secretaría de Educación del Estado y con las dependencias gubernamentales federales, estatales o municipales, así como con instituciones del sector privado o social, para que coadyuven a implementar los programas de educación vial.
+> <small>(REFORMADO G.O. 2 DE ABRIL DE 2010)</small>
+
+En los términos que disponga la normatividad aplicable, las autoridades de Tránsito y Transporte se coordinarán con la Secretaría de Educación del Estado y con las dependencias gubernamentales federales, estatales y municipales, así como con instituciones del sector privado o social, para implementar programas de educación vial que se incluyan también en la educación básica.
 
 ###### Artículo 31.
 
@@ -767,7 +773,9 @@ La Dirección suspenderá una licencia para conducir a su titular, hasta por sei
 
 I. Por la comisión de tres infracciones, en el plazo de un año, a la presente Ley o a su Reglamento;
 
-II. Cuando el titular de la misma sea sancionado por conducir en estado de ebriedad, bajo el influjo de estupefacientes u otras sustancias tóxicas;
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2010)</small>
+
+II. Cuando el titular de la misma sea sancionado por conducir en estado de ebriedad, bajo el influjo de estupefacientes u otras sustancias tóxicas, con excepción de los operarios del transporte público de pasajeros en sus modalidades urbano, suburbano o foráneo, para quienes procede la cancelación;
 
 III. Por abandonar el lugar del accidente habiéndolo ocasionado, excepto en los casos en que resulte lesionado y sea trasladado a un centro médico para su atención;
 
@@ -797,9 +805,15 @@ IV. Por actualizar alguna hipótesis prevista en el Código Penal para el Estado
 
 V. Por ser el responsable, en segunda ocasión, de accidentes con saldos de lesionados;
 
-VI. Por alterar los datos contenidos en la licencia; y
+VI. Por alterar los datos contenidos en la licencia; y (sic)
 
-VII. Por resolución judicial que cause ejecutoria.
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2010)</small>
+
+VII. Por resolución judicial que cause ejecutoria; y
+
+> <small>(ADICIONADA, G.O. 2 DE ABRIL DE 2010)</small>
+
+VIII. Cuando el titular sea operario del transporte público de pasajeros en sus modalidades de urbano, suburbano o foráneo y conduzca en estado de ebriedad, bajo el influjo de estupefacientes u otras sustancias tóxicas o viole las disposiciones de los artículos 75 y 83 de esta Ley.
 
 En la prestación del servicio público de transporte, en todas las modalidades, las disposiciones reglamentarias señalarán las demás causas de cancelación.
 
@@ -873,6 +887,18 @@ A los conductores de vehículos de transporte público les queda prohibido abast
 
 Los conductores, propietarios de vehículos y la empresa aseguradora, en términos de lo dispuesto por el artículo 46 de esta Ley, están solidariamente obligados a responder por los daños y perjuicios causados a terceros en su persona y patrimonio.
 
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+
+Cuando se cometa el delito de homicidio o el de lesiones previstas en las fracciones de la IV a la VI del artículo 137 del Código Penal, la Dirección de Tránsito y Transporte del Estado retendrá el vehículo que haya intervenido en el accidente para garantizar el pago, y lo pondrá sin demora a disposición de la autoridad competente, para la determinación de la responsabilidad procedente.
+
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+
+Probada la culpabilidad del operario por la autoridad competente, en caso de insolvencia del mismo, el concesionario o permisionario deberá indemnizar a la víctima o a sus deudos, con la póliza del seguro correspondiente y, de no ser suficiente, con sus recursos propios.
+
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+
+El monto de la indemnización y los mecanismos para su pago inmediato los determinará la autoridad jurisdiccional competente. La indemnización por ese concepto nunca será menor de dos mil ni superior a cuatro mil salarios mínimos vigentes en la capital del estado. Tan luego como resulte cubierta la indemnización procedente y a entera satisfacción de la víctima o sus deudos, el vehículo será devuelto sin demora al concesionario o permisionario.
+
 ###### Artículo 75.
 
 Los conductores u operarios, además de las obligaciones señaladas en los artículos anteriores, deberán:
@@ -883,7 +909,9 @@ II. Abstenerse de conducir cuando estén impedidos para hacerlo por circunstanci
 
 III. Transportar en la unidad sólo el número de personas especificadas en la tarjeta de circulación correspondiente;
 
-IV. Prescindir de llevar bultos u objetos que obstruyan la visibilidad del conductor al frente, a los lados o en la parte posterior del vehículo;
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2010)</small>
+
+IV. No llevar bultos u objetos que obstruyan la visibilidad del conductor al frente, a los lados o en la parte posterior del vehículo, cuando con éste se preste el servicio público de pasajeros en sus modalidades urbano, suburbano y foráneo; quedan prohibidos los elementos que puedan distraer al conductor u operario como teléfonos celulares y radio comunicadores;
 
 V. No causar molestias a otros conductores, a peatones y al público en general con ruidos, señas y otras actitudes ofensivas y acatar estrictamente las normas sobre uso de bocinas, silbatos, escapes, cambios de luces y accesorios de vehículo;
 
@@ -944,6 +972,10 @@ Cuando se presenten situaciones que perturben la paz pública y trastornen la ci
 ###### Artículo 83.
 
 Los límites máximos y mínimos de velocidad para la circulación de vehículos en la vía pública se fijarán en el Reglamento, de acuerdo con las normas internacionales.
+
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+
+En los casos de las unidades que presten el servicio de transporte público de pasajeros en sus modalidades urbano, suburbano y foráneo, sus operarios deberán respetar los siguientes límites máximos de velocidad: en zonas urbanas y de población densa, cuarenta kilómetros por hora; en zonas escolares, diez kilómetros por hora; y en zonas no urbanas ochenta kilómetros por hora, salvo restricciones propias del camino, conforme con los señalamientos viales.
 
 ###### Artículo 84.
 
@@ -1271,6 +1303,10 @@ Los vehículos mencionados en el párrafo anterior deberán ser, por lo menos, d
 
 A los vehículos destinados a las modalidades de urbano, suburbano, foráneo y rural mixto no se les permitirá una antigüedad superior a los quince años. En el caso de las unidades de taxi y colectivo, será de cinco años su antigüedad máxima.
 
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+
+Los vehículos que presten el servicio en las modalidades de urbano, suburbano y foráneo deberán estar equipados con gobernadores electrónicos de velocidad variable, circuitos para cerrar automáticamente sus puertas y que impidan que se abran mientras el vehículo se encuentre en movimiento o no permitan la marcha de la unidad si las puertas están abiertas; un sistema de posicionamiento global electrónico y dispositivos de conteo de pasajeros.
+
 ###### Artículo 121.
 
 Los vehículos contarán con equipo anticontaminante y cumplirán con las normas sobre no emisión de sustancias o de energía nocivas, en la forma y términos que disponga la Ley Estatal de Protección Ambiental y demás normatividad aplicable.
@@ -1375,9 +1411,15 @@ IX. Cumplir con las disposiciones aplicables en materia de protección al ambien
 
 X. Inscribirse en el Registro de Transporte Público;
 
-XI. Prestar el servicio de manera gratuita, por causas de fuerza mayor, caso fortuito, desastres naturales, contingencias o causas análogas que les informe la Secretaría; y
+XI. Prestar el servicio de manera gratuita, por causas de fuerza mayor, caso fortuito, desastres naturales, contingencias o causas análogas que les informe la Secretaría; y (sic)
 
-XII. Las demás establecidas en esta Ley y otras disposiciones jurídicas y administrativas aplicables en la materia.
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2010)</small>
+
+XII. Proporcionar a la Dirección de Tránsito y Transporte del Estado los padrones de los operadores de las unidades concesionadas; y
+
+> <small>(ADICIONADA, G.O. 2 DE ABRIL DE 2010)</small>
+
+XIII. Las demás establecidas en esta ley y otras disposiciones jurídicas y administrativas aplicables en la materia.
 
 ### Capítulo VI. Suspensión, Terminación y Revocación de las Concesiones
 
@@ -1397,7 +1439,9 @@ V. Se conceda temporalmente a terceros el uso o disfrute de la concesión;
 
 VI. Se altere la documentación que ampare la concesión o cualquiera de los documentos del vehículo;
 
-VII. Se cometa un delito con el vehículo autorizado para prestar el servicio de transporte público;
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2010)</small>
+
+VII. Se cometa un delito con el vehículo autorizado para prestar el servicio de transporte público, con excepción de los delitos de homicidio o de lesiones, en este último concepto, las establecidas en las fracciones IV a la VI del artículo 137 del Código Penal para el Estado, a efecto de que por esos ilícitos se proceda a la suspensión temporal por seis meses de la concesión;
 
 VIII. Se niegue, sin causa justificada, previo apercibimiento de la Dirección, la prestación del servicio concesionado a cualquier persona que lo solicite;
 
@@ -1463,17 +1507,39 @@ El Gobierno del Estado, por conducto de la Secretaría, tendrá en todo tiempo e
 
 Para cumplir con lo previsto en el párrafo anterior, se estará al procedimiento que señale el Reglamento.
 
-### Capítulo VII. Tarifas del Transporte Público
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
 
-### Capítulo VIII. Servicios Auxiliares del Transporte Público
+### Capítulo VI Bis. Requisa
+
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+
+###### Artículo 137 Bis.
+
+El Ejecutivo del Estado podrá, fundada y motivadamente, ordenar la requisa del servicio público de transporte de pasajeros y de los servicios auxiliares, en todo o parte del territorio estatal, a fin de garantizar la prestación del servicio público de transporte y satisfacer las necesidades de la población en general, en los casos siguientes:
+
+I. De desastre natural, alteración del orden público o cuando se prevea algún peligro inminente para la paz y la seguridad interior del Estado; o
+
+II. Cuando prevalezca el deterioro de la calidad, seguridad, oportunidad, permanencia o continuidad en la prestación del servicio público de transporte.
+
+Al efecto, el Gobierno podrá utilizar el personal que estuviere encargado de la operación de las unidades de transporte público requisadas, con pleno respeto a sus derechos laborales. La requisa se mantendrá mientras subsistan las condiciones que la motivaron.
+
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+
+###### Artículo 137 Ter.
+
+El Gobierno del Estado podrá indemnizar a los concesionarios afectados hasta en un cincuenta por ciento de los daños que la requisa les hubiere causado. La indemnización se cubrirá con base en el avalúo que practique la Dirección General de Tránsito y Transporte, dentro de un plazo máximo de noventa días contado a partir del siguiente a aquel en que hubiere sido dejada sin efecto la medida. Si los concesionarios no estuvieren de acuerdo sobre el monto de la indemnización, se nombrarán peritos por ambas partes para efectos de determinar el monto de la misma.
+
+### Capítulo VII. Tarifas del Transporte Público
 
 ###### Artículo 138.
 
 Tarifa es el precio que el usuario paga por los servicios de transporte público que se le prestan.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE ABRIL DE 2010)</small>
+
 ###### Artículo 139.
 
-El Gobierno del Estado, por conducto de la Secretaría, fijará y modificará las condiciones y reglas de aplicación de las tarifas, conforme a las cuales se prestará el servicio de transporte público de pasajeros.
+El Gobierno del Estado, por conducto de la Secretaría, fijará y modificará las condiciones y reglas de aplicación de las tarifas, conforme a las cuales se prestará el servicio de transporte público de pasajeros, excepto en sus modalidades de urbano, suburbano y foráneo para las cuales resolverá el Congreso del Estado.
 
 Cuando se trate de la modalidad de taxi y el usuario solicite los servicios para transportarse fuera de la localidad o requiera el servicio por un tiempo determinado, la tarifa se fijará en forma convencional.
 
@@ -1489,9 +1555,13 @@ Los servicios de transporte de carga especializada, para arrastre y salvamento, 
 
 Las tarifas cubrirán los gastos de amortización, conservación y explotación, el monto de los fondos de reserva y una utilidad justa y adecuada sobre el capital invertido, de conformidad con las condiciones socioeconómicas de los usuarios a quienes está destinado el servicio.
 
-El monto de las tarifas se determinará tomando en consideración el incremento a los salarios mínimos y el índice inflacionario reconocido oficialmente por el Banco de México, el precio unitario del energético de que se trate y los costos directos e indirectos que incidan en la prestación del servicio.
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
 
-Las tarifas deberán revisarse durante el tercer trimestre de cada año y, durante el cuarto trimestre la Secretaría emitirá la resolución sobre el incremento o no de las tarifas en términos de lo dispuesto en este artículo.
+El incremento al monto de las tarifas se determinará multiplicando el índice inflacionario reconocido oficialmente por el Banco de México al final de cada ejercicio fiscal por la tarifa vigente. Si el resultado de la operación excede cincuenta centavos, el incremento será de cincuenta centavos; de no rebasarlo, el producto se acumulará para el ejercicio siguiente; si el resultado de la sumatoria de los dos ejercicios supera los cincuenta centavos, el incremento se ajustará a cincuenta centavos, estableciendo la nueva tarifa base de cobro al usuario para el año que corra. En el cálculo de los incrementos subsecuentes se empleará la misma fórmula sobre la base del precio establecido. Si en algún ejercicio fiscal la operación descrita arroja como resultado una cantidad superior a un peso, el Congreso determinará el incremento correspondiente. Las tarifas deberán revisarse durante el tercer trimestre de cada año y, durante el cuarto trimestre, el Congreso del Estado emitirá la resolución sobre el incremento o no de las tarifas en términos de lo dispuesto en este artículo.
+
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
+
+El Consejo Técnico Estatal del Transporte integrará, al final de cada ejercicio fiscal, un catálogo de conceptos, fundado y motivado, en donde considerará los criterios que provoquen desestabilización en la rentabilidad de la prestación del servicio, proponiendo al Congreso del Estado esos criterios, para que los considere y en su momento determine los equilibrios financieros que permitan a los concesionarios y permisionarios del transporte público de pasajeros en sus modalidades urbano, suburbano y foráneo, garantizar que la prestación del servicio a los usuarios sea con calidad, seguridad, oportunidad, permanencia y continuidad.
 
 ###### Artículo 143.
 
@@ -1513,7 +1583,7 @@ En los vehículos destinados al servicio de transporte público de pasajeros en 
 
 Los prestadores del servicio de transporte público de pasajeros, con excepción de las modalidades de taxi, escolar y para personal de empresas, estarán obligados a entregar a los usuarios un boleto por el importe de la tarifa y que les ampare el seguro de viajero. Cuando por alguna circunstancia se trate de pago no sujeto a tarifa pero convenido entre las partes, el usuario tendrá derecho a que se le entregue un recibo en el que se mencione la cantidad pagada y el servicio prestado.
 
-### Capítulo IX. Registro de Transporte Público
+### Capítulo VIII. Servicios Auxiliares del Transporte Público
 
 ###### Artículo 147.
 
@@ -1537,7 +1607,7 @@ Para la construcción o habilitación de terminales, deberán cumplirse las disp
 
 La Dirección determinará los lugares destinados a las paradas de ascenso y descenso en la vía pública, procurando que cuenten con cobertizo, la señalización correspondiente y la accesibilidad para personas con capacidades diferentes, de la tercera edad y mujeres en período de gestación.
 
-### Capítulo I. Inspección y Vigilancia
+### Capítulo IX. Registro de Transporte Público
 
 ###### Artículo 152.
 
@@ -1593,7 +1663,7 @@ Ningún vehículo del servicio de transporte público podrá circular en las ví
 
 ## TÍTULO CUARTO. OBSERVANCIA DE LA LEY
 
-### Capítulo II. Infracciones y Sanciones
+### Capítulo I. Inspección y Vigilancia
 
 ###### Artículo 159.
 
@@ -1629,7 +1699,7 @@ Una vez elaborada el acta, el servidor público que la haya levantado proporcion
 
 En caso de alguna infracción a las disposiciones de la presente Ley y su Reglamento, el visitado contará con un término de diez días hábiles a fin de que presente las pruebas y defensas que estime conducentes. Con vista en ellas o a falta de su presentación, la autoridad que haya girado la orden de visita dictará la resolución que corresponda.
 
-### Capítulo III. Recurso de Revocación
+### Capítulo II. Infracciones y Sanciones
 
 ###### Artículo 162.
 
@@ -1731,6 +1801,8 @@ II. Dentro del término de quince días hábiles, contado a partir de la recepci
 
 Las autoridades de tránsito y de transporte, en coordinación con las encargadas de la protección al medio ambiente, realizarán el control y vigilancia del cumplimiento a las disposiciones en la materia, de conformidad con los convenios que al efecto se suscriban para efecto de la sanción que corresponda.
 
+### Capítulo III. Recurso de Revocación
+
 ###### Artículo 173.
 
 Contra los actos y resoluciones que se dicten en materia de tránsito y transporte procederá el recurso de revocación, en los términos establecidos por el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
@@ -1784,3 +1856,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. Dentro de los ciento ochenta días naturales siguientes al inicio de la vigencia del presente Decreto, se deberán realizar las adecuaciones correspondientes al Código Financiero para el estado de Veracruz de Ignacio de la Llave, en materia de derechos prestados por la Secretaría de Finanzas y Planeación, por Registro y Control de Vehículos de Servicio Privado.
+
+G.O. 2 DE ABRIL DE 2010.
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo tercero. Los concesionarios y permisionarios que presten el servicio de transporte público en sus modalidades de urbano, suburbano y foráneo, contarán con un tiempo perentorio de ciento veinte días hábiles para cumplir con lo establecido en el artículo 120 de esta ley, de lo contrario serán retiradas de circulación las unidades vehiculares autorizadas para prestar el servicio, sin perjuicio de la aplicación de cualquier otra sanción administrativa que pudiere proceder.
