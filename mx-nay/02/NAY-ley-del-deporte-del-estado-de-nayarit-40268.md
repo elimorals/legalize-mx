@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-deporte-del-estado-de-nayarit-40268"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-01"
-last_updated: "2004-05-01"
+last_updated: "2010-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY DEL DEPORTE DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LA LEY DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 3 DE ABRIL DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Sexta del Periódico Oficial del Estado de Nayarit, el sábado 1 de mayo de 2004.
 
@@ -760,3 +762,19 @@ DADO en la Sala de Sesiones "Licenciado Benito Juárez" de este Honorable Congre
 Dip. Yolanda del Real Ureña, Presidenta.- Rúbrica.- Dip. Enrique Mejía Pérez, Secretario.- Rúbrica.- Dip. Juan Manuel Mier Pacina, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 59 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, Tepic, su capital, a los treinta días del mes de abril del año dos mil cuatro. C.P. ANTONIO ECHEVARRIA DOMINGUEZ.- Rúbrica.- El Secretario General de Gobierno, Lic. Adán Meza Barajas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE ABRIL DE 2010
+
+Primero.- La presente Ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- El Reglamento deberá ser expedido en un plazo no mayor de 180 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+Tercero.- El Instituto Nayarita de Cultura Física y Deporte en un plazo de 180 días contados a partir de la entrada en vigor de la presente Ley, deberá integrar el Sistema Estatal de Cultura Física y Deporte, asimismo deberá elaborar el Programa y crear el Registro Estatal.
+
+Cuarto.- Las autoridades correspondientes en el ámbito de sus competencias deberán constituir dentro del término de 90 días el Fondo Estatal del Deporte, el Salón de la Fama del Deporte Nayarita, el Centro de Medicina Deportiva y Ciencias Aplicables del Estado de Nayarit, el Comité Antidopaje del Estado de Nayarit y la Comisión Estatal de Apelación y Arbitraje Deportivo.
+
+Quinto.- Se abroga la Ley del Deporte del Estado de Nayarit contenida en el Decreto 8542 publicado el 1 de mayo del 2004 en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Sexto.- El Instituto que se crea con la presente Ley seguirá ejerciendo los recursos financieros y materiales asignados al Instituto Nayarita del Deporte y la Juventud constituido mediante el Decreto que se abroga; asimismo quedan a salvo los derechos laborales adquiridos por los servidores públicos de dicho organismo descentralizado.
