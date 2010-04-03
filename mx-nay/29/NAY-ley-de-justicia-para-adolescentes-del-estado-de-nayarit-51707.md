@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-para-adolescentes-del-estado-de-nayarit-51707"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-09"
-last_updated: "2006-09-09"
+last_updated: "2010-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 9 de septiembre de 2006.
 
@@ -85,7 +85,9 @@ IX. Dirección de Reintegración Social para Adolescentes: la (sic) unidad admin
 
 X. Juez: El titular del Juzgado especializado en la impartición de justicia para adolescentes del Poder Judicial, encargado de conocer y resolver en primera instancia y lo relativo al beneficio de la suspensión de la medida conforme a lo previsto por esta Ley;
 
-XI. Magistrado: El titular de la Sala Unitaria del Poder Judicial a quien, le corresponde, en segunda instancia, conocer y resolver de los medios de impugnación interpuestos en el proceso instaurado al adolescente previsto en esta Ley;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2010)</small>
+
+XI. Magistrados: Los integrantes de la Sala del Tribunal Superior de Justicia a quienes les corresponde, en el ámbito de su competencia, conocer y resolver de los medios de impugnación interpuestos en el proceso instaurado al adolescente previstos en esta Ley;
 
 XII. Ministerio Público: La autoridad especializada, encargada de la investigación y persecución de las conductas tipificadas como delitos en las leyes penales del Estado que se atribuyan al adolescente, adscrita a la Procuraduría General de Justicia del Estado; y
 
@@ -459,9 +461,11 @@ V. Las demás que les otorguen esta Ley y otras disposiciones legales aplicables
 
 #### Sección Segunda. Magistrado
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2010)</small>
+
 ###### Artículo 39.
 
-Al Magistrado le corresponde, en segunda instancia, conocer y resolver de los medios de impugnación interpuestos en el proceso instaurado al adolescente, realizar los demás actos que le son previstos en esta Ley, así como aquéllos que conforme al Código de Procedimientos Penales u otras leyes correspondan a los juzgadores de segundo grado.
+A los Magistrados de la Sala del Tribunal Superior de Justicia les corresponde conocer y resolver en el ámbito de su competencia, de los medios de impugnación interpuestos en el proceso instaurado al adolescente, realizar los demás actos que le son previstos en esta Ley, así como aquellos que conforme al Código de Procedimientos Penales u otras leyes, correspondan a los juzgadores de segundo grado.
 
 #### Sección Tercera. Comité Auxiliar Técnico
 
@@ -1139,19 +1143,25 @@ El recurso de apelación será interpuesto por escrito ante el Juez que dictó l
 
 Deberá indicarse, por separado, cada motivo con sus fundamentos. Fuera de esta oportunidad no podrá alegarse otro motivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 2010)</small>
+
 ###### Artículo 138.
 
-Interpuesto el recurso, el Juez que dictó la sentencia emplazará a los interesados para que comparezcan ante el Tribunal competente para conocer de este recurso. Vencido el plazo sin que se produzcan adhesiones, se remitirán las diligencias a la Sala Unitaria de Adolescentes para que resuelva.
+Interpuesto el recurso, el Juez que dictó la sentencia emplazará a los interesados para que comparezcan ante el Tribunal competente para conocer de este recurso. Vencido el plazo sin que se produzcan adhesiones, se remitirán las diligencias a la Sala especializada en justicia para adolescentes para que resuelva.
 
 Si se producen adhesiones durante el emplazamiento, correrá traslado a las otras partes para que contesten la adhesión en un plazo de tres días.
 
 Sólo se remitirá copia de las actuaciones pertinentes o se formará un legajo especial, para no demorar el trámite del proceso.
 
-Excepcionalmente, la Sala Unitaria de Adolescentes podrá solicitar otras copias o las actuaciones originales. Ello no implicará la paralización ni suspensión del proceso.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2010)</small>
+
+Sin suspender el proceso la Sala Colegiada para Adolescentes podrá solicitar otras copias o las actuaciones originales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 2010)</small>
 
 ###### Artículo 139.
 
-Si la Sala Unitaria para Adolescentes estima que este recurso o la adhesión no son admisibles, así lo declarará y devolverá las actuaciones.
+Si la Sala Colegiada para Adolescentes estima que este recurso o la adhesión no son admisibles, así lo declarará y devolverá las actuaciones al inferior para la continuación del procedimiento.
 
 Si se declara admisible y no fuere necesario convocar a una audiencia oral, en la misma resolución dictará sentencia.
 
@@ -1169,7 +1179,9 @@ Quienes intervengan en la discusión podrán dejar breves notas escritas sobre s
 
 El adolescente será representado por su defensor, pero podrá asistir a la audiencia y, en ese caso, se le concederá la palabra en último término.
 
-En la audiencia, el Magistrado podrá interrogar a los recurrentes sobre las cuestiones planteadas en el recurso.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2010)</small>
+
+En la audiencia, los Magistrados podrán interrogar libremente a los recurrentes.
 
 ###### Artículo 142.
 
@@ -1219,9 +1231,11 @@ I. El adolescente o su defensor; y
 
 II. El Ministerio Público.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2010)</small>
+
 ###### Artículo 147.
 
-La revisión se solicitará por escrito ante la Sala Unitaria de Adolescentes. Deberá contener la concreta referencia de los motivos en que se funda y las disposiciones legales aplicables. Junto con el escrito se ofrecerán las pruebas y se acompañarán las documentales.
+La revisión se solicitará por escrito ante la Sala Colegiada para Adolescentes. Deberá contener la concreta referencia de los motivos en que se funda y las disposiciones legales aplicables. Junto con el escrito se ofrecerán las pruebas y se acompañarán las documentales.
 
 ###### Artículo 148.
 
@@ -1788,3 +1802,11 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez" de este Honorable Congreso del
 Dip. Manuel Fernando Jiménez González, Presidente.- Rúbrica.- Dip. Oscar Zermeño Barragán, Secretario.- Rúbrica.- Dip. Angélica C. del Real Chávez, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los ocho días del mes de septiembre del año dos mil seis. Lic. Ney González Sánchez.- Rúbrica.- La Secretaria General de Gobierno, Profa. Cora Cecilia Pinedo Alonso.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE ABRIL DE 2010.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo. Los asuntos en actual trámite de la Sala Penal del Tribunal Superior de Justicia, pasarán al conocimiento para su resolución por la Sala Colegiada para Adolescentes que al efecto integre y dote de competencia.
