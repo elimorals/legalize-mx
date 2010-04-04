@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2009-12-31"
+last_updated: "2010-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -635,7 +635,7 @@ Para los efectos de este Título, se entiende por salario, el salario mínimo ge
 
 ###### ARTICULO 52.
 
-Los servicios que se presten por el Registro Público de la Propiedad y del Comercio causarán derechos conforme a un porcentaje de la base que corresponda o en días de salario o fracción del mismo de acuerdo a lo siguiente:
+Los servicios que se presten por el Registro Público de la Propiedad y del Comercio, causarán derechos conforme a un porcentaje de la base que corresponda o en días de salario o fracción del mismo de acuerdo a lo siguiente:
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
@@ -701,9 +701,7 @@ de la operación, según corresponda. 1.0%
 
 III.- La cancelación de la inscripción a que se refiere la fracción anterior, sobre el monto de la obligación garantizada o sobre el monto de la operación, según corresponda. 0.15%
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL CONSIDERANDO TERCERO DEL DICTAMEN CORRESPONDIENTE AL PROCESO LEGISLATIVO DEL DECRETO 445 SE ADVIERTE QUE LA REFORMA ES APLICABLE AL PRIMER PÁRRAFO DE LA FRACCIÓN IV DE ESTE ARTÍCULO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE ABRIL DE 2010)</small>
 
 IV.- La inscripción de contratos de créditos
 
@@ -715,7 +713,23 @@ de crédito, de seguros o fianzas y organizaciones
 
 auxiliares o por sociedades financieras de objeto
 
-limitado. 100
+limitado, Sociedades Financieras de Objeto
+
+Múltiple y Sociedades Nacionales de Crédito.
+
+Así como la inscripción de créditos con garantía
+
+hipotecaria otorgados por los gobiernos Federal,
+
+Estatal y Municipales, dependencias
+
+gubernamentales, órganos desconcentrados,
+
+organismos descentralizados y en general
+
+por instituciones públicas pertenecientes a
+
+cualquiera de los tres niveles de gobierno. 100
 
 La cancelación de inscripción a que se refiere
 
@@ -845,17 +859,7 @@ a la escritura constitutiva de personas morales que
 
 no implique aumento de capital o patrimonio. 5
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-La inscripción de contratos de créditos
-
-otorgados por sociedades financieras de 1.0%
-
-objeto múltiple, sobre el monto de la
-
-operación, según corresponda.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 4 DE ABRIL DE 2010)</small>
 
 XXVI.- La inscripción de actas de emisión de bonos
 
@@ -2025,77 +2029,53 @@ lomerío:
 
 1) De 1 a 10 HAS. 55
 
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2010)</small>
+
+En los siguientes casos, se pagará el importe del numeral 1) y, adicionalmente, por el excedente del límite superior de dicho numeral, por hectárea o fracción, como sigue:
+
 2) De 10.01 a 50.0 HAS. 100
 
 3) De 50.01 a 100.0 HAS. 1.86 por HA ó fracción
 
 4) De 100.01 A 500.0 HAS. 1.10 por HA ó fracción
 
-5) De 500.01 a 1000.0 HAS. 0.77 por HA ó fracción
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2010)</small>
 
-6) De 1000.01 a 2000 HAS. 0.55 por HA ó fracción
+5) De 500.01 a 1000.0 HAS. 0.77
 
-7) De 2000.01 en adelante 0.39 por HA ó fracción
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2010)</small>
 
-b).- Terreno quebrado:
+6) De 1000.01 a 2000 HAS. 0.55
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2010)</small>
+
+7) De 2000.01 en adelante 0.39
+
+> <small>(ADICIONADO [N. DE E. REFORMADO] , P.O. 4 DE ABRIL DE 2010)</small>
+
+b).- Por predio con topografía irregular:
 
 1) De 1 a 10 136
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2009)</small>
-
 En los siguientes casos, se pagará el importe del numeral 1) y, adicionalmente, por el excedente del límite superior de dicho numeral, por hectárea o fracción, como sigue:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+2) De 10.01 a 50.0 Has 3.45
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+3) De 50.01 a 100.0 Has 3.38
 
-2) De 10.01 a 50.0 Has 2.0
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-3) De 50.01 a 100.0 Has 1.86
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-4) De 100.01 A 500.0 Has 1.10
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+4) De 100.01 a 500.0 Has 2.0
 
 5) De 500.01 a 1000.0 Has 1.40
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
 6) De 1000.01 a 2000 Has 1.0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
 7) De 2000.01 Has. en adelante 0.70
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 El excedente de la medida del plano tamaño
 
 oficio, se cobrará por decímetro cuadrado a
 
 razón de: 0.10
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 Los costos citados en la presente fracción, se incrementarán de acuerdo a la distancia que exista entre el límite urbano de la ciudad donde radica la oficina de Catastro encargada de la medición de predios y elaboración de planos, con la ubicación del bien inmueble, de acuerdo a lo siguiente:
 
@@ -2922,3 +2902,7 @@ Se derogan todas las disposiciones legales y que se opongan al presente decreto.
 P.O. 31 DE DICIEMBRE DE 2009.
 
 Primero.- El presente Decreto entrará en vigor el día 1 de enero del año 2010.
+
+P.O. 4 DE ABRIL DE 2010.
+
+Ú N I C O.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
