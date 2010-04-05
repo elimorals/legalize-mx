@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2010-01-25"
+last_updated: "2010-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2010.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2041,7 +2041,7 @@ XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro 
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
-XII.- La negativa injustificada de los cónyuges a cumplir con las obligaciones alimentarias entre si o hacia sus hijos, sin que sea necesario agotar previamente los procedimientos tendientes a exigir su cumplimiento. También será causa de divorció el incumplimiento sin justa causa por alguno de los cónyuges de la sentencia ejecutoriada que lo condenó al pago de alimentos a favor del otro cónyuge o de sus hijos;
+XII.- La negativa injustificada de los cónyuges a cumplir con las obligaciones alimentarías entre sí o hacia sus hijos, sin que sea necesario agotar previamente los procedimientos tendientes a exigir su cumplimiento. También será causa de divorcio el incumplimiento sin justa causa por alguno de los cónyuges de la sentencia ejecutoriada que lo condenó al pago de alimentos a favor del otro cónyuge o de sus hijos;
 
 XIII.- La acusación hecha por un cónyuge contra el otro, si resultare calumniosa;
 
@@ -2893,19 +2893,23 @@ III.- A percibir la pensión hereditaria y los alimentos que fije la ley.
 
 DE LA ADOPCION.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2010)</small>
 
 ###### Artículo 413.
 
-El mayor de veinticinco años, en pleno ejercicio de sus derechos, puede adoptar uno o más menores o a uno o más discapacitados, siempre que el adoptante tenga al menos quince años más que el adoptado y que acredite además:
+La adopción es una institución jurídica de origen público, por la que a través de un acto de voluntad, se crean lazos de parentesco civil entre el adoptante y el adoptado, análogos a los que existen entre el padre o madre y sus hijos. El mayor de veinticinco años de edad, en pleno ejercicio de sus derechos, puede adoptar uno o más menores de edad siempre que el adoptante tenga al menos quince años más que el adoptado; o a uno o más incapaces, en este caso sin importar la diferencia de edad entre adoptante y adoptado. Asimismo, el adoptante deberá acreditar:
 
-I.- Que tiene medios suficientes para proveer la subsistencia, la educación y el cuidado de la persona que trata de adoptarse como hijo propio, según las circunstancias de la persona que trata de adoptar;
+I.- Que tiene medios suficientes para proveer la subsistencia, la educación y el cuidado de la persona que trata de adoptarle como hijo propio, según las circunstancias de la persona que trata de adoptar;
 
 II.- Que la adopción es benéfica para la persona que pretende adoptarse, atendiendo al interés superior de la misma, debiendo dar vista al Ministerio Público y al Sistema Estatal para el Desarrollo Integral de la Familia, quienes sólo podrán oponerse por razones debidamente fundadas y motivadas, el juez calificará dichas razones tomando en cuenta los intereses del menor;
 
-III.- Que el adoptante es persona apta para adoptar; y
+III.- Que goza de buena salud física y mental, siendo apto y adecuado para adoptar;
 
-IV.- Que es de buenas costumbres.
+IV.- Que es de buenas costumbres; y
+
+V.- En el caso de la adopción plena, haber asistido al curso para padres adoptantes, impartido por el Sistema para el Desarrollo Integral de la Familia del Estado.
+
+Los mayores de edad que no sean incapaces podrán ser adoptados, siempre que se encuentren incorporados a un núcleo familiar formado por su progenitor y la persona que pretenda adoptar. En este caso únicamente se deberá acreditar el matrimonio civil, así como el consentimiento expreso de quien se pretende adoptar.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -2921,9 +2925,11 @@ Nadie puede ser adoptado por más de una persona, salvo el caso previsto en el a
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
+> <small>(REFORMADO, [N. DE E. ADICIONADO] P.O. 5 DE ABRIL DE 2010)</small>
+
 ###### Artículo 417.
 
-(DEROGADO, P.O. 6 DE MARZO DE 2000)
+Concedida la adopción, el Sistema para el Desarrollo Integral de la Familia del Estado, a través de la Procuraduría de la Defensa del Menor y la Familia, le dará seguimiento por un periodo de dos años, informando de ello semestralmente al Juez que la autorizó.
 
 ###### Artículo 418.
 
@@ -2951,11 +2957,11 @@ V.- Las instituciones de asistencia social públicas o privadas que hubieren aco
 
 Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2010)</small>
 
 ###### Artículo 421.
 
-Si el tutor, el Ministerio Público o el Sistema para el Desarrollo Integral de la Familia no consienten en la adopción, deberán expresar la causa en que se funden, la que el juez calificará tomando en cuenta los intereses del menor o discapacitado.
+Si el tutor, el Ministerio Público o el Sistema para el Desarrollo Integral de la Familia del Estado no consienten en la adopción, deberán expresar la causa en que se funden, la que el juez calificará tomando en cuenta los intereses del menor o incapaz.
 
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -3009,9 +3015,9 @@ I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor d
 
 II.- Por ingratitud del adoptado; y
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
 
-III.- Cuando el Sistema Estatal para el Desarrollo Integral de la Familia justifique que existe causa grave que ponga en peligro al menor o discapacitado o bien cuando el adoptante o el adoptado hayan sido condenados por el delito de Violencia Familiar.
+III.- Cuando el Sistema para el Desarrollo Integral de la Familia del Estado, a través de la Procuraduría de la Defensa del Menor y la Familia justifique que existe causa grave que ponga en peligro al menor de edad o incapaz o bien cuando el adoptante o el adoptado hayan sido condenados por el delito de violencia familiar.
 
 ###### Artículo 429.
 
@@ -3349,21 +3355,25 @@ I.- Cuando el que la ejerza sea condenado expresamente a la pérdida de ese dere
 
 II.- En los casos de divorcio, teniendo en cuenta lo que dispone el Artículo 305 de este Código;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADA P.O. 5 DE ABRIL DE 2010)</small>
 
-III.- Cuando por las costumbres de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aún cuando esos hechos no cayeren bajo la sanción de la ley penal; y (sic)
+III.- Cuando por las costumbres de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o el desarrollo psicosexual, afectivo, intelectual o física de los hijos, aún cuando estos hechos no cayeren bajo la sanción de la normatividad penal;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
 
-IV.- Por la exposición que el que la ejerce hiciere del menor de edad o por que lo deje abandonado por más de dos meses;
+IV.- Por la exposición que el que la ejerce hiciere del menor de edad o porque lo deje abandonado por más de treinta días naturales aunque lo haya confiado a una institución pública o privada de asistencia social;
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
 
-V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor sobre quien ejerce la patria potestad; y
+V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor sobre quien ejerce la patria potestad;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
 
-VI.- Cuando el que la ejerza incurra en conductas de violencia familiar en donde la víctima sea el menor de edad.
+VI.- Cuando el que la ejerza incurra en conductas de violencia familiar en donde la víctima sea el menor de edad; o
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+VII.- Cuando quien la ejerza abandone al menor de edad por más de sesenta días naturales si lo confió a familiares que tengan relación con el menor de edad hasta el tercer grado.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
 
@@ -13445,7 +13455,7 @@ En las operaciones hechas por el mandatario, con violación o con exceso del enc
 
 ###### Artículo 2438.
 
-El mandatario está obligado a dar oportunamente noticia al mandante, de todos los hechos o circunstancias que puedan determinarlo a revocar o modificar el encargo. Asimismo debe dársela sin demora de la ejecución de dicho cargo.
+El mandatario está obligado a dar oportunamente noticia al mandante, de todos los hechos o circunstancias que puedan determinarlo a revocar o modificar el encargo. Asimismo debe dársela sin demora de la ejecución de dicho encargo.
 
 ###### Artículo 2439.
 
@@ -16396,6 +16406,12 @@ P.O. 23 DE NOVIEMBRE DE 2009.
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 P.O. 25 DE ENERO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE ABRIL DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
