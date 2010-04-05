@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-instituto-municipal-de-vivienda-de-61671"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-23"
-last_updated: "2010-02-22"
+last_updated: "2010-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE VIVIENDA DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 23 de junio de 2008.
 
@@ -1223,27 +1223,17 @@ Las áreas administrativas del Instituto, deberán de proporcionarle al órgano 
 
 #### SECCION PRIMERA. De las Relaciones de Trabajo
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
-
 ###### ARTÍCULO 72.
 
-Las relaciones entre el Instituto y los trabajadores de base que presten sus servicios en él, se regirán por lo dispuesto en el Reglamento Interior de Trabajo del Instituto Municipal de Vivienda de Aguascalientes y, de manera supletoria, por lo dispuesto en el Reglamento Interior de Trabajo del Municipio de Aguascalientes.
-
-El Reglamento Interior de Trabajo del Instituto Municipal de Vivienda de Aguascalientes, no deberá contravenir las disposiciones de la Ley Federal del Trabajo ni del Reglamento Interior de Trabajo del Municipio de Aguascalientes.
+(DEROGADO, P.O. 5 DE ABRIL DE 2010)
 
 ###### ARTÍCULO 73.
 
-Las responsabilidades administrativas de los servidores públicos del Instituto así como la aplicación de las sanciones administrativas correspondientes, se investigarán y determinarán por el titular del área a que pertenezcan, conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+(DEROGADO, P.O. 5 DE ABRIL DE 2010)
 
 ###### ARTÍCULO 74.
 
-Sin perjuicio de lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, y el Reglamento Interior de Trabajo del Municipio de Aguascalientes para efecto de este reglamento se consideran faltas administrativas de los servidores públicos del Instituto, las siguientes:
-
-I.- Distraer su atención o la de sus compañeros en asuntos no oficiales del Instituto;
-
-II.- No acudir a la capacitación que programe el Instituto; y,
-
-III.- Las demás que señalen las leyes y reglamentos.
+(DEROGADO, P.O. 5 DE ABRIL DE 2010)
 
 ###### ARTÍCULO 75.
 
@@ -1306,3 +1296,15 @@ El Comité Interno de Licitación de Obra Pública y Servicios relacionados debe
 P.O. 22 DE FEBRERO DE 2010.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE ABRIL DE 2010.
+
+PRIMERO.- Con el presente ordenamiento legal se da cumplimiento a lo dispuesto por el artículo 33 del Estatuto Jurídico de los Trabajadores al servicio de los gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Públicos Descentralizados.
+
+SEGUNDO.- Este ordenamiento legal entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Aguascalientes, debiendo de depositarse ante la (sic) Tribunal de Arbitraje y ordenarse su inmediata difusión a los trabajadores del IMUVI.
+
+TERCERO.- Se derogan los artículos 72, 73 y 74 del Reglamento del Instituto Municipal de Vivienda de Aguascalientes, en razón de que dichos artículos se relacionan con la materia que regulara el Reglamento que nos ocupa tras su entrada en vigor.
+
+CUARTO.- En un término no mayor de noventa días contados a la entrada en vigor del presente Reglamento, la Dirección Administrativa y Financiera emitirán el Manual de Políticas de Capacitación para los Trabajadores del IMUVI.
+
+QUINTO.- Se autoriza al Director General del IMUVI para tramitar la publicación del Reglamento Interior de Trabajo del IMUVI en el Periódico Oficial del Estado, el cual fue debidamente autorizado en Sesión Extraordinaria de la Junta de Gobierno del IMUVI celebrada con fecha 18 de Marzo del año 2009.
