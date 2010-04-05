@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-de-la-ninez-y-la-adolescencia-del-19740"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-05"
-last_updated: "2008-06-30"
+last_updated: "2010-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY PARA LA PROTECCION DE LA NIÑEZ Y LA ADOLESCENCIA DEL ESTADO DE AGUASCALIENTES
 
-LEY PARA LA PROTECCION DE LA NIÑEZ Y LA ADOLESCENCIA DEL ESTADO DE AGUASCALIENTES
+LEY PARA LA PROTECCIÓN DE LA NIÑEZ Y LA ADOLESCENCIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 5 de febrero de 2001.
 
@@ -105,7 +105,7 @@ VII. Los principios generales de Derecho.
 
 ### CAPITULO II. Derechos y Libertades Fundamentales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### Artículo 9o.
 
@@ -159,7 +159,7 @@ IV. A ser protegidos y orientados contra el consumo de drogas, estupefacientes, 
 
 V. A la salud y a los servicios integrales para la prevención, el tratamiento de enfermedades, su atención y rehabilitación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2008)</small>
 
 D). A la educación, recreación, información, participación y descanso:
 
@@ -579,6 +579,10 @@ De inmediato el Ministerio Público remitirá al menor, dependiendo de su edad, 
 
 Constatado el abandono, y transcurrido el plazo de dos meses, y una vez agotada la investigación correspondiente y sin que nadie se haya presentado a reclamar al menor resguardado, la Procuraduría de la Defensa del Menor y la Familia procederá a registrar al menor ante el Dirección General de Registro Civil cuando no exista constancia de su registro o datos que permitan determinar su identidad.
 
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2010)</small>
+
+Si quien ejerce la patria potestad sobre menores de edad albergados en una Institución Pública o Privada de Asistencia Social, no se presenta a convivir con éste por más de treinta días naturales, el Procurador de la Defensa del Menor y la Familia levantará acta circunstanciada en la que conste el abandono de esos menores de edad, firmándola con la asistencia de dos testigos y determinando en élla lo relativo a la custodia en términos del Artículo 15 de esta Ley.
+
 ###### Artículo 68.
 
 Cuando la Procuraduría de la Defensa del Menor y la Familia tenga conocimiento de que alguna de las personas a las que se refiere esta Ley, está siendo maltratada o abusada de cualquier manera y lo constate mediante intervenciones de las áreas de trabajo social así como de psicología, procederá a presentar la denuncia correspondiente ante el Ministerio Público, quien actuará de manera inmediata y en especial cuando peligre su seguridad, procediendo a remitirla a la institución pública o privada que las atienda de acuerdo con su edad.
@@ -923,7 +927,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 8 DE AGOSTO DE 2005.
 
@@ -940,3 +944,9 @@ P.O. 30 DE JUNIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE ABRIL DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
