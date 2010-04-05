@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-409
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-10"
-last_updated: "2010-03-06"
+last_updated: "2010-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2010.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 10 de septiembre de 2004.
 
@@ -81,9 +81,13 @@ Para los efectos de esta Ley, se entiende por:
 
 I. Ley: A la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes en el Estado de México;
 
-II. Niña o Niño: A todo ser humano menor de doce años de edad;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2010)</small>
 
-III. Adolescente: Todo ser humano mayor de doce años y menor de dieciocho años de edad;
+II. Niña o Niño: Toda persona cuya edad sea menor a doce años cumplidos;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2010)</small>
+
+III. Adolescente: Toda persona cuya edad este comprendida entre los doce años cumplidos y menor a los dieciocho años cumplidos;
 
 IV. Interés superior de las niñas, niños y adolescentes: Este interés implica que las políticas, las acciones y la toma de decisiones de las instituciones publicas, privadas, tribunales, autoridades administrativas o los órganos legislativos, relacionados con este periodo de vida, deberán dar prioridad a los derechos reconocidos en los ordenamientos legales;
 
@@ -101,7 +105,9 @@ X. Maltrato: Todo acto de agresión física, psicoemocional, verbal, patrimonial
 
 XI. Capacidad Diferente: Aquellas personas que sufren una pérdida, alteración o disminución de un órgano o función física, sensorial o intelectual, que limita las actividades de la vida diaria e impide su desarrollo individual y social;
 
-XII. Discapacidad: Es toda restricción o ausencia de la capacidad de realizar una actividad en la forma o dentro del margen que se considera normal para un ser humano;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2010)</small>
+
+XII. Discapacidad: Es toda restricción o ausencia de la capacidad de realizar una actividad en la forma o dentro del margen que se considera normal para una persona;
 
 XIII. Niñas, niños y adolescentes que se encuentren en circunstancias especialmente difíciles: Aquellas que dentro o fuera del ámbito familiar y en especial por causas de pobreza o miseria, estén temporal o permanentemente sujetos a:
 
@@ -766,3 +772,9 @@ El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotep
 QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El Presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
