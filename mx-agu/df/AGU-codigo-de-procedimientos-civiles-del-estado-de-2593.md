@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2009-11-23"
+last_updated: "2010-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2010.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -707,6 +707,10 @@ III.- En todos los demás casos previstos por la ley.
 
 En los casos de las fracciones I y II, los edictos se publicarán por tres veces, con intervalos no menores de siete días en el Periódico Oficial y otro periódico de circulación estatal, haciéndose saber al citado que deberá presentarse dentro de un término que no será menor de quince días ni excederá de treinta, si se trata de citaciones.
 
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2010)</small>
+
+Previo al emplazamiento por edictos, el Juez deberá girar oficio a la Policía Ministerial, al Registro Público de la Propiedad y del Comercio, a la Dirección General de Catastro, a la Comisión Federal de Electricidad y a cualquier otra dependencia pública que considere pertinente, a fin de que le informen si en sus registros cuentan con algún domicilio de quien se deba emplazar. En todo caso el Juez otorgará un término de cinco días para que se le remita el referido informe.
+
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 115.
@@ -907,7 +911,11 @@ X.- En los negocios relativos a suplir el consentimiento de quien ejerza la patr
 
 XI.- Para decidir las diferencias conyugales y los juicios de nulidad de matrimonio, el del domicilio conyugal;
 
-XII.- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge abandonado.
+XII.- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge abandonado;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XIII.- Para decidir sobre la pérdida de la patria potestad, el Juez del domicilio que habite el menor de edad o incapaz de que se trate.
 
 ###### ARTICULO 143.
 
@@ -5820,3 +5828,9 @@ P.O. 23 DE NOVIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE ABRIL DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
