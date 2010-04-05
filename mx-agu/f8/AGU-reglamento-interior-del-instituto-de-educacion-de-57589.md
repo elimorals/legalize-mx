@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-de-educacion-de-57589"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-19"
-last_updated: "2008-12-08"
+last_updated: "2010-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2010.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de noviembre de 2007.
 
@@ -690,55 +690,121 @@ I. Promover la comunicación y vinculación entre las instituciones de educació
 
 II. Proponer a las instancias administrativas y de planeación correspondientes el destino del financiamiento educativo para las instituciones de enseñanza media, enseñanza superior y de investigación científica, con base en los lineamientos y las disposiciones que establezcan las Autoridades competentes y sus propios órganos de gobierno;
 
-III. Organizar, supervisar y evaluar la educación media y educación superior que se imparta en el Estado;
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2010)</small>
 
-IV. Organizar, supervisar y evaluar academias y centros de formación para el trabajo incorporados al IEA;
+III. Supervisar los servicios de educación normal a cargo del IEA, los incorporados y organismos públicos que preste dicho servicio educativo;
 
-V. Atender la orientación vocacional en el nivel medio y la orientación profesional en el nivel superior;
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2010)</small>
 
-VI. Supervisar que las instituciones educativas particulares que impartan educación media y educación superior cumplan con las disposiciones y normatividad aplicables y en su caso, promover la cancelación del registro ante las autoridades correspondientes;
+IV. Gestionar ante las autoridades educativas competentes la aprobación de los proyectos de creación, crecimiento, fusión y suspensión temporal o definitiva de los planteles de educación normal, previamente justificados por su Dirección;
 
-VII. Proponer a las Instituciones de Educación media y Educación Superior que operen en el Estado iniciativas de planeación, desarrollo, mejoramiento y evaluación de sus planes, programas e infraestructura;
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2010)</small>
 
-VIII. Coadyuvar con la CEEM en las adiciones y modificaciones a los planes y programas de estudio de bachillerato, centros de formación y academias, de acuerdo con las características y necesidades del entorno, conforme a la normatividad vigente aplicable para cada subsistema;
+V. Evaluar en forma sistemática y continua los planes y programas de estudio, los libros de texto, métodos y materiales educativos destinados a la educación normal; así como también aquellos que se encuentren en proceso de investigación, con el objeto de mantenerlos actualizados;
 
-IX. Coadyuvar con la CEES en las adiciones y modificaciones a los planes y programas de estudio de Instituciones de Educación Superior, de acuerdo con las características y necesidades del entorno, conforme a la normatividad vigente aplicable;
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2010)</small>
 
-X. Promover y participar en la vinculación entre las Instituciones de educación media y educación superior, con el sector productivo de la entidad, en coordinación con las propias instituciones y áreas del sector público involucradas en este aspecto;
+VI. Establecer los criterios e instrumentos de evaluación permanente cuantitativa y cualitativa de los estudiantes de educación normal, a fin de obtener los parámetros que permitan determinar el rendimiento escolar individual, por materia, grado y licenciatura, así como también el desempeño del docente;
 
-XI. Establecer estrategias académicas de vinculación del sector educativo, productivo y social, a través de conferencias, seminarios, talleres y demás actividades;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
 
-XII. Fomentar la cultura emprendedora en el sector educativo a través de convenios con dependencias públicas, privadas, y organismos no gubernamentales del sector productivo;
+VII. Organizar, supervisar y evaluar la educación media y educación superior que se imparta en el Estado;
 
-XIII. Promover la participación de las instituciones de educación media y educación superior en los proyectos para emprendedores que promueva el sector educativo, productivo y social;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
 
-XIV. Promover el intercambio educativo a través de convenios con otras entidades federativas y países;
+VIII. Organizar, supervisar y evaluar academias y centros de formación para el trabajo incorporados al IEA;
 
-XV. Apoyar e impulsar el aprendizaje de un segundo idioma en la educación media y educación superior;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
 
-XVI. Promover, apoyar y dar seguimiento a las políticas educativas estatales en la educación media y educación superior de las entidades públicas y privadas que la impartan en el Estado, fortaleciendo con ello las políticas que a nivel federal se establezcan;
+IX. Atender la orientación vocacional en el nivel medio y la orientación profesional en el nivel superior;
 
-XVII. Coadyuvar con las áreas administrativas competentes en el establecimiento de los criterios y lineamientos de evaluación para las instituciones que imparten educación media y educación superior en el Estado;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
 
-XVIII. Definir las estrategias para la capacitación y actualización de los profesionistas que imparten educación media en las instituciones públicas y privadas del Estado, a fin de lograr la acreditación técnico-pedagógica;
+X. Supervisar que las instituciones educativas particulares que impartan educación media y educación superior cumplan con las disposiciones y normatividad aplicables y en su caso, promover la cancelación del registro ante las autoridades correspondientes;
 
-XIX. Control, seguimiento y verificación permanente de las plantillas docentes de las Instituciones de educación media y educación superior públicas y privadas que operen en el Estado;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
 
-XX. Promover e impulsar las áreas de investigación en las instituciones de educación media y educación superior que operen en el Estado;
+XI. Proponer a las Instituciones de Educación media y Educación Superior que operen en el Estado iniciativas de planeación, desarrollo, mejoramiento y evaluación de sus planes, programas e infraestructura;
 
-XXI. Promover e impulsar las (sic) certificación de procesos administrativos, así como la acreditación de planes y programas de las instituciones de educación media y educación superior que operen en el Estado;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
 
-XXII. Coordinar, Supervisar y Evaluar los trabajos que los organismos públicos del sector educativo realicen y que impacten en el Sistema Estatal de Educación;
+XII. Coadyuvar con la CEEM en las adiciones y modificaciones a los planes y programas de estudio de bachillerato, centros de formación y academias, de acuerdo con las características y necesidades del entorno, conforme a la normatividad vigente aplicable para cada subsistema;
 
-XXIII. Coordinar, impulsar y fomentar las actividades deportivas, culturales y de recreación en las instituciones de educación media que operan en el Estado en apoyo con las autoridades competentes en la materia;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
 
-XXIV. Proponer a las Instituciones de educación media y de educación superior los perfiles profesionales de los docentes sustentables para las asignaturas;
+XIII. Coadyuvar con la CEES en las adiciones y modificaciones a los planes y programas de estudio de Instituciones de Educación Superior, de acuerdo con las características y necesidades del entorno, conforme a la normatividad vigente aplicable;
 
-XXV. Delegar en sus Subdirecciones, Jefaturas y Subjefaturas y demás áreas administrativas de la Dirección las facultades del presente artículo;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
 
-XXVI. Conocer de las incidencias laborales que le reporte la Subdirección a su cargo y en caso (sic) remitir a la Dirección Jurídica el acta correspondiente, para el trámite legal conducente;
+XIV. Promover y participar en la vinculación entre las Instituciones de educación media y educación superior, con el sector productivo de la entidad, en coordinación con las propias instituciones y áreas del sector público involucradas en este aspecto;
 
-XXVII. Las demás que le encomiende el Director General y que sean afines a las anteriores.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XV. Establecer estrategias académicas de vinculación del sector educativo, productivo y social, a través de conferencias, seminarios, talleres y demás actividades;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XVI. Fomentar la cultura emprendedora en el sector educativo a través de convenios con dependencias públicas, privadas, y organismos no gubernamentales del sector productivo;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XVII. Promover la participación de las instituciones de educación media y educación superior en los proyectos para emprendedores que promueva el sector educativo, productivo y social;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XVIII. Promover el intercambio educativo a través de convenios con otras entidades federativas y países;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XIX. Apoyar e impulsar el aprendizaje de un segundo idioma en la educación media y educación superior;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XX. Promover, apoyar y dar seguimiento a las políticas educativas estatales en la educación media y educación superior de las entidades públicas y privadas que la impartan en el Estado, fortaleciendo con ello las políticas que a nivel federal se establezcan;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XXI. Coadyuvar con las áreas administrativas competentes en el establecimiento de los criterios y lineamientos de evaluación para las instituciones que imparten educación media y educación superior en el Estado;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XXII. Definir las estrategias para la capacitación y actualización de los profesionistas que imparten educación media en las instituciones públicas y privadas del Estado, a fin de lograr la acreditación técnico-pedagógica;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XXIII. Control, seguimiento y verificación permanente de las plantillas docentes de las Instituciones de educación media y educación superior públicas y privadas que operen en el Estado;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XXIV. Promover e impulsar las áreas de investigación en las instituciones de educación media y educación superior que operen en el Estado;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XXV. Promover e impulsar las (sic) certificación de procesos administrativos, así como la acreditación de planes y programas de las instituciones de educación media y educación superior que operen en el Estado;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XXVI. Coordinar, Supervisar y Evaluar los trabajos que los organismos públicos del sector educativo realicen y que impacten en el Sistema Estatal de Educación;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XXVII. Coordinar, impulsar y fomentar las actividades deportivas, culturales y de recreación en las instituciones de educación media que operan en el Estado en apoyo con las autoridades competentes en la materia;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XXVIII. Proponer a las Instituciones de educación media y de educación superior los perfiles profesionales de los docentes sustentables para las asignaturas;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XXIX. Delegar en sus Subdirecciones, Jefaturas y Subjefaturas y demás áreas administrativas de la Dirección las facultades del presente artículo;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XXX. Conocer de las incidencias laborales que le reporte la Subdirección a su cargo y en caso (sic) remitir a la Dirección Jurídica el acta correspondiente, para el trámite legal conducente;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+XXXI. Las demás que le encomiende el Director General y que sean afines a las anteriores.
 
 ### CAPÍTULO VI. Del Director de Becas y Financiamiento Educativo
 
@@ -884,13 +950,13 @@ XII. Las demás que el Director General le encomiende en el ejercicio de sus atr
 
 La Dirección de Desarrollo Educativo depende de la Dirección General y su titular tendrá a su cargo las siguientes facultades:
 
-I. Supervisar los servicios de educación normal a cargo del IEA, los incorporados y organismos públicos que preste dicho servicio educativo;
+I. (ABROGADA, P.O. 5 DE ABRIL DE 2010)
 
 II. Proponer políticas y planes generales para la actualización permanente y la capacitación de los docentes y directivos en servicio de educación especial, básica y normal, tomando en cuenta las opiniones y propuestas que al respecto emitan las autoridades educativas locales y de diversos sectores sociales involucrados en la educación;
 
 III. Aprobar y supervisar los cursos de capacitación, actualización y superación permanente del personal directivo y docente de educación especial, básica y normal en la entidad;
 
-IV. Gestionar ante las autoridades educativas competentes la aprobación de los proyectos de creación, crecimiento, fusión y suspensión temporal o definitiva de los planteles de educación normal, previamente justificados por su Dirección;
+IV. (ABROGADA, P.O. 5 DE ABRIL DE 2010)
 
 V. Coordinar, supervisar y evaluar los programas de actualización y capacitación de maestros implementados por la SEP;
 
@@ -906,9 +972,9 @@ X. Asesorar a las autoridades educativas en lo relativo al contenido de los prog
 
 XI. Supervisar que los cursos de actualización y capacitación que se impartan tengan valor escalafonario, cuando reúnan los requisitos para ello;
 
-XII. Evaluar en forma sistemática y continua los plantes (sic) y programas de estudio, libros de texto, métodos y materiales educativos destinados a la educación normal; así como también aquellos que se encuentren en proceso de investigación, con el objeto de mantenerlos actualizados;
+XII. (ABROGADA, P.O. 5 DE ABRIL DE 2010)
 
-XIII. Establecer los criterios e instrumentos de evaluación permanente cuantitativa y cualitativa de los estudiantes de educación normal, a fin de obtener los parámetros que permitan determinar el rendimiento escolar individual, por materia, grado y licenciatura, así como también el desempeño del docente;
+XIII. (ABROGADA, P.O. 5 DE ABRIL DE 2010)
 
 XIV. Dirección, supervisión y vigilancia de las Coordinación (sic) operativas del (sic) Programas Compensa- torios (sic), Programa Escuelas de Calidad, UMBRAL y Biblos, así como los que le sean encomendados por el Director General;
 
@@ -1071,3 +1137,7 @@ COMISARIO PÚBLICO.
 P.O. 8 DE DICIEMBRE DE 2008.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 5 DE ABRIL DE 2010.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
