@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "2009-07-03"
+last_updated: "2010-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2010.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -177,11 +177,15 @@ VI.- Los Recaudadores.
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2009)</small>
 
-VII.- El Director de Verificación Aduanera;
+VII.- El Director de Verificación Aduanera.
 
 > <small>(ADICIONADA, P.O. 3 DE JULIO DE 2009)</small>
 
 VIII.- El Subsecretario de Finanzas, los Subprocuradores de la Procuraduría Fiscal, Subdirectores de las direcciones señaladas en las fracciones IV, V y VII y los Subrecaudadores de Rentas del Estado.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2010)</small>
+
+IX.- Los auditores, visitadores, inspectores, interventores, notificadores, ejecutores y verificadores fiscales, designados por las autoridades competentes en los términos del Reglamento Interno de la Secretaría de Planeación y Finanzas del Estado de Baja California, para que ejerzan las atribuciones que expresamente se les encomiende de conformidad con la legislación fiscal aplicable.
 
 ###### ARTICULO 15.
 
@@ -2700,3 +2704,7 @@ P.O. 3 DE JULIO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE ABRIL DE 2010.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
