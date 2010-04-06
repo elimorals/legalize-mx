@@ -4,7 +4,7 @@ identifier: "LGDLPI"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-03-13"
-last_updated: "2003-03-13"
+last_updated: "2010-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29246&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDLPI"
 
 LEY GENERAL DE DERECHOS LINGÜISTICOS DE LOS PUEBLOS INDIGENAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ABRIL DE 2010.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 13 de marzo de 2003.
 
@@ -136,9 +136,17 @@ XI. Apoyar la formación y acreditación profesional de intérpretes y traductor
 
 XII. Garantizar que las instituciones, dependencias y oficinas públicas cuenten con personal que tenga conocimientos de las lenguas indígenas nacionales requeridas en sus respectivos territorios;
 
-XIII. Establecer políticas, acciones y vías para proteger y preservar el uso de las lenguas y culturas nacionales de los migrantes indígenas en el territorio nacional y en el extranjero, y
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2010)</small>
 
-XIV. Propiciar y fomentar que los hablantes de las lenguas indígenas nacionales participen en las políticas que promuevan los estudios que se realicen en los diversos órdenes de gobierno, espacios académicos y de investigación.
+XIII. Establecer políticas, acciones y vías para proteger y preservar el uso de las lenguas y culturas nacionales de los migrantes indígenas en el territorio nacional y en el extranjero;
+
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2010)</small>
+
+XIV. Propiciar y fomentar que los hablantes de las lenguas indígenas nacionales participen en las políticas que promuevan los estudios que se realicen en los diversos órdenes de gobierno, espacios académicos y de investigación, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE ABRIL DE 2010)</small>
+
+XV. Instrumentar las medidas necesarias para que en los municipios indígenas del país, las señales informativas de nomenclatura oficial así como sus topónimos, sean inscritos en español y en las lenguas originarias de uso en el territorio.
 
 ### Capítulo IV. DEL INSTITUTO NACIONAL DE LENGUAS INDÍGENAS
 
@@ -261,3 +269,9 @@ Octavo. Se derogan todas las disposiciones que contravengan al presente Decreto.
 México, D.F., a 15 de diciembre de 2002.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Sara I. Castellanos Cortés, Secretario.- Dip. Adela Cerezo Bautista, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de marzo de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 6 DE ABRIL DE 2010.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
