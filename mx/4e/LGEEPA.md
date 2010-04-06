@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2010-04-01"
+last_updated: "2010-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ABRIL DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -1688,7 +1688,9 @@ Será nulo todo acto, convenio o contrato que contravenga lo establecido en la m
 
 Para la preservación y aprovechamiento sustentable de la flora y fauna silvestre, se considerarán los siguientes criterios:
 
-I. La preservación de la biodiversidad y del hábitat natural de las especies de flora y fauna que se encuentran en el territorio nacional y en las zonas donde la nación ejerce su soberanía y jurisdicción;
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2010)</small>
+
+I. La preservación y conservación de la biodiversidad y del hábitat natural de las especies de flora y fauna que se encuentran en el territorio nacional y en las zonas donde la nación ejerce su soberanía y jurisdicción;
 
 II. La continuidad de los procesos evolutivos de las especies de flora y fauna y demás recursos biológicos, destinando áreas representativas de los sistemas ecológicos del país a acciones de preservación e investigación;
 
@@ -1724,7 +1726,9 @@ II. El establecimiento o modificación de vedas de la flora y fauna silvestres;
 
 III. Las acciones de sanidad fitopecuaria;
 
-IV. La protección y conservación de la flora y fauna del territorio nacional, contra la acción perjudicial de plagas y enfermedades, o la contaminación que pueda derivarse de actividades fitopecuarias;
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2010)</small>
+
+IV. La protección y conservación de la flora y fauna del territorio nacional, contra la acción perjudicial de especies exóticas invasoras, plagas y enfermedades, o la contaminación que pueda derivarse de actividades fitopecuarias;
 
 > <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1768,9 +1772,11 @@ La Secretaría deberá promover y apoyar el manejo de la flora y fauna silvestre
 
 La Secretaría expedirá las normas oficiales mexicanas para la preservación y aprovechamiento sustentable de la flora y fauna silvestre y otros recursos biológicos.
 
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2010)</small>
+
 ###### ARTICULO 85.
 
-Cuando así se requiera para la protección de especies, la Secretaría promoverá ante la Secretaría de Comercio y Fomento Industrial el establecimiento de medidas de regulación o restricción, en forma total o parcial, a la exportación o importación de especímenes de la flora y fauna silvestres e impondrá las restricciones necesarias para la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del y destinadas al extranjero.
+Cuando así se requiera para la protección de especies, hábitats, ecosistemas, la economía o la salud pública, la Secretaría promoverá ante la Secretaría de Economía, el establecimiento de medidas de regulación o restricción, en forma total o parcial, a la exportación o importación de especímenes de la flora y fauna silvestres nativos o exóticos e impondrá las restricciones necesarias para la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del y destinadas al extranjero.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3511,3 +3517,9 @@ Los procedimientos de certificación de predios destinados voluntariamente a la 
 D.O.F. 1 DE ABRIL DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE ABRIL DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
