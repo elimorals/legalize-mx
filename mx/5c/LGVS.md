@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2008-10-14"
+last_updated: "2010-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ABRIL DE 2010.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -88,65 +88,73 @@ XV. Ejemplares o poblaciones nativos: Aquellos pertenecientes a especies silvest
 
 XVI. Ejemplares o poblaciones que se tornen perjudiciales: Aquellos pertenecientes a especies silvestres o domésticas que por modificaciones a su hábitat o a su biología, o que por encontrarse fuera de su área de distribución natural, tengan efectos negativos para el ambiente natural, otras especies o el hombre, y por lo tanto requieran de la aplicación de medidas especiales de manejo o control.
 
-XVII. Especies y poblaciones prioritarias para la conservación: Aquellas determinadas por la Secretaría de acuerdo con los criterios establecidos en la presente Ley, para canalizar y optimizar esfuerzos de conservación y recuperación.
+> <small>(ADICIONADA, D.O.F. 6 DE ABRIL DE 2010)</small>
 
-XVIII. Especies y poblaciones en riesgo: Aquellas identificadas por la Secretaría como probablemente extintas en el medio silvestre, en peligro de extinción, amenazadas o sujetas a protección especial, con arreglo a esta Ley.
+XVII. Especie exótica invasora: Es aquella especie o población que no es nativa, que se encuentra fuera de su ámbito de distribución natural, que es capaz de sobrevivir, reproducirse y establecerse en hábitat y ecosistemas naturales y que amenaza la diversidad biológica nativa, la economía o la salud pública.
 
-XIX. Especies y poblaciones migratorias: Aquellas que se desplazan latitudinal, longitudinal o altitudinalmente de manera periódica como parte de su ciclo biológico.
+XVIII. Especies y poblaciones prioritarias para la conservación: Aquellas determinadas por la Secretaría de acuerdo con los criterios establecidos en la presente Ley, para canalizar y optimizar esfuerzos de conservación y recuperación.
 
-XX. Estudio de poblaciones: Aquel que se realiza con el objeto de conocer sus parámetros demográficos, tales como el tamaño y densidad; la proporción de sexos y edades; y las tasas de natalidad, mortalidad y crecimiento durante un período determinado, así como la adición de cualquier otra información relevante.
+XIX. Especies y poblaciones en riesgo: Aquellas identificadas por la Secretaría como probablemente extintas en el medio silvestre, en peligro de extinción, amenazadas o sujetas a protección especial, con arreglo a esta Ley.
 
-XXI. Hábitat: El sitio específico en un medio ambiente físico, ocupado por un organismo, por una población, por una especie o por comunidades de especies en un tiempo determinado.
+XX. Especies y poblaciones migratorias: Aquellas que se desplazan latitudinal, longitudinal o altitudinalmente de manera periódica como parte de su ciclo biológico.
 
-XXII. Licencia de caza: El documento mediante el cual la autoridad competente acredita que una persona está calificada, tanto por sus conocimientos sobre los instrumentos y medios de las actividades cinegéticas, como de las regulaciones en la materia, para realizar la caza deportiva en el territorio nacional.
+XXI. Estudio de poblaciones: Aquel que se realiza con el objeto de conocer sus parámetros demográficos, tales como el tamaño y densidad; la proporción de sexos y edades; y las tasas de natalidad, mortalidad y crecimiento durante un período determinado, así como la adición de cualquier otra información relevante.
 
-XXIII. Legítimo poseedor: El poseedor de buena fe en los términos del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
+XXII. Hábitat: El sitio específico en un medio ambiente físico, ocupado por un organismo, por una población, por una especie o por comunidades de especies en un tiempo determinado.
 
-XXIV. Manejo: Aplicación de métodos y técnicas para la conservación y aprovechamiento sustentable de la vida silvestre y su hábitat.
+XXIII. Licencia de caza: El documento mediante el cual la autoridad competente acredita que una persona está calificada, tanto por sus conocimientos sobre los instrumentos y medios de las actividades cinegéticas, como de las regulaciones en la materia, para realizar la caza deportiva en el territorio nacional.
 
-XXV. Manejo en vida libre: El que se hace con ejemplares o poblaciones de especies que se desarrollan en condiciones naturales, sin imponer restricciones a sus movimientos.
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2010)</small>
 
-XXVI. Manejo intensivo: Aquel que se realiza sobre ejemplares o poblaciones de especies silvestres en condiciones de cautiverio o confinamiento.
+XXIV. Legítimo poseedor: El poseedor de buena fe en los términos del Código Civil Federal.
 
-XXVII. Manejo de hábitat: Aquel que se realiza sobre la vegetación, el suelo y otros elementos o características fisiográficas en áreas definidas, con metas específicas de conservación, mantenimiento, mejoramiento o restauración.
+XXV. Manejo: Aplicación de métodos y técnicas para la conservación y aprovechamiento sustentable de la vida silvestre y su hábitat.
 
-XXVIII. Manejo integral: Aquel que considera de manera relacionada aspectos biológicos, sociales, económicos y culturales vinculados con la vida silvestre y su hábitat.
+XXVI. Manejo en vida libre: El que se hace con ejemplares o poblaciones de especies que se desarrollan en condiciones naturales, sin imponer restricciones a sus movimientos.
 
-XXIX. Marca: El método de identificación, aprobado por la autoridad competente, que conforme a lo establecido en la Ley Federal sobre Metrología y Normalización, puede demostrar la legal procedencia de ejemplares, partes o derivados.
+XXVII. Manejo intensivo: Aquel que se realiza sobre ejemplares o poblaciones de especies silvestres en condiciones de cautiverio o confinamiento.
 
-XXX. Muestreo: El levantamiento sistemático de datos indicadores de las características generales, la magnitud, la estructura y las tendencias de una población o de su hábitat, con el fin de diagnosticar su estado actual y proyectar los escenarios que podría enfrentar en el futuro.
+XXVIII. Manejo de hábitat: Aquel que se realiza sobre la vegetación, el suelo y otros elementos o características fisiográficas en áreas definidas, con metas específicas de conservación, mantenimiento, mejoramiento o restauración.
 
-XXXI. Parte: La porción, fragmento o componente de un ejemplar. Para efectos de las disposiciones que se aplican al comercio exterior, se considerarán productos las partes no transformadas y subproductos aquellas que han sido sujetas a algún proceso de transformación.
+XXIX. Manejo integral: Aquel que considera de manera relacionada aspectos biológicos, sociales, económicos y culturales vinculados con la vida silvestre y su hábitat.
 
-XXXII. Plan de manejo: El documento técnico operativo de las Unidades de Manejo para la Conservación de Vida Silvestre sujeto a aprobación de la Secretaría, que describe y programa actividades para el manejo de especies silvestres particulares y sus hábitats y establece metas e indicadores de éxito en función del hábitat y las poblaciones.
+XXX. Marca: El método de identificación, aprobado por la autoridad competente, que conforme a lo establecido en la Ley Federal sobre Metrología y Normalización, puede demostrar la legal procedencia de ejemplares, partes o derivados.
 
-XXXIII. Población: El conjunto de individuos de una especie silvestre que comparten el mismo hábitat. Se considera la unidad básica de manejo de las especies silvestres en vida libre.
+XXXI. Muestreo: El levantamiento sistemático de datos indicadores de las características generales, la magnitud, la estructura y las tendencias de una población o de su hábitat, con el fin de diagnosticar su estado actual y proyectar los escenarios que podría enfrentar en el futuro.
 
-XXXIV. Predio: Unidad territorial delimitada por un polígono que puede contener cuerpos de agua o ser parte de ellos.
+XXXII. Parte: La porción, fragmento o componente de un ejemplar. Para efectos de las disposiciones que se aplican al comercio exterior, se considerarán productos las partes no transformadas y subproductos aquellas que han sido sujetas a algún proceso de transformación.
 
-XXXV. Recuperación: El restablecimiento de los procesos naturales y de los parámetros genéticos, demográficos o ecológicos de una población o especie, con referencia a su estado al iniciar las actividades de recuperación, así como a su abundancia local, estructura y dinámica en el pasado, para retornar a cumplir con su papel ecológico y evolutivo con la consecuente mejoría en la calidad del hábitat.
+XXXIII. Plan de manejo: El documento técnico operativo de las Unidades de Manejo para la Conservación de Vida Silvestre sujeto a aprobación de la Secretaría, que describe y programa actividades para el manejo de especies silvestres particulares y sus hábitats y establece metas e indicadores de éxito en función del hábitat y las poblaciones.
 
-XXXVI. Recursos forestales maderables: Los constituidos por árboles.
+XXXIV. Población: El conjunto de individuos de una especie silvestre que comparten el mismo hábitat. Se considera la unidad básica de manejo de las especies silvestres en vida libre.
 
-XXXVII. Reintroducción: La liberación planificada al hábitat natural de ejemplares de la misma subespecie silvestre o, si no se hubiera determinado la existencia de subespecies, de la misma especie silvestre, que se realiza con el objeto de restituir una población desaparecida.
+XXXV Predio: Unidad territorial delimitada por un polígono que puede contener cuerpos de agua o ser parte de ellos.
 
-XXXVIII. Repoblación: La liberación planificada al hábitat natural de ejemplares de la misma subespecie silvestre o, si no se hubiera determinado la existencia de subespecies, de la misma especie silvestre, con el objeto de reforzar una población disminuida.
+XXXVI. Recuperación: El restablecimiento de los procesos naturales y de los parámetros genéticos, demográficos o ecológicos de una población o especie, con referencia a su estado al iniciar las actividades de recuperación, así como a su abundancia local, estructura y dinámica en el pasado, para retornar a cumplir con su papel ecológico y evolutivo con la consecuente mejoría en la calidad del hábitat.
 
-XXXIX. Reproducción controlada: El manejo planificado de ejemplares, poblaciones o hábitats de la vida silvestre para asegurar el incremento en el número de individuos, que se realiza bajo condiciones de protección, de seguimiento sistemático permanente o de reproducción asistida.
+XXXVII. Recursos forestales maderables: Los constituidos por árboles.
+
+XXXVIII. Reintroducción: La liberación planificada al hábitat natural de ejemplares de la misma subespecie silvestre o, si no se hubiera determinado la existencia de subespecies, de la misma especie silvestre, que se realiza con el objeto de restituir una población desaparecida.
+
+XXXIX. Repoblación: La liberación planificada al hábitat natural de ejemplares de la misma subespecie silvestre o, si no se hubiera determinado la existencia de subespecies, de la misma especie silvestre, con el objeto de reforzar una población disminuida.
+
+XL. Reproducción controlada: El manejo planificado de ejemplares, poblaciones o hábitats de la vida silvestre para asegurar el incremento en el número de individuos, que se realiza bajo condiciones de protección, de seguimiento sistemático permanente o de reproducción asistida.
 
 Se entenderá por reproducción asistida, la forma de reproducción de ejemplares de la vida silvestre en confinamiento, consistente en un conjunto de técnicas encaminadas a la inducción, aceleración o modificación de ciertas fases de sus procesos reproductivos.
 
-XL. Secretaría: La Secretaría de Medio Ambiente, Recursos Naturales y Pesca.
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2010)</small>
 
-XLI. Servicios ambientales: Los beneficios de interés social que se derivan de la vida silvestre y su hábitat, tales como la regulación climática, la conservación de los ciclos hidrológicos, la fijación de nitrógeno, la formación de suelo, la captura de carbono, el control de la erosión, la polinización de plantas, el control biológico de plagas o la degradación de desechos orgánicos.
+XLI. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales.
 
-XLII. Tasa de aprovechamiento: La cantidad de ejemplares, partes o derivados que se pueden extraer dentro de un área y un período determinados, de manera que no se afecte el mantenimiento del recurso y su potencial productivo en el largo plazo.
+XLII. Servicios ambientales: Los beneficios de interés social que se derivan de la vida silvestre y su hábitat, tales como la regulación climática, la conservación de los ciclos hidrológicos, la fijación de nitrógeno, la formación de suelo, la captura de carbono, el control de la erosión, la polinización de plantas, el control biológico de plagas o la degradación de desechos orgánicos.
 
-XLIII. Traslocación: La liberación planificada al hábitat natural de ejemplares de la misma especie, que se realiza para sustituir poblaciones desaparecidas de una subespecie silvestre distinta y de la cual ya no existen ejemplares en condiciones de ser liberados.
+XLIII. Tasa de aprovechamiento: La cantidad de ejemplares, partes o derivados que se pueden extraer dentro de un área y un período determinados, de manera que no se afecte el mantenimiento del recurso y su potencial productivo en el largo plazo.
 
-XLIV. Unidades de manejo para la conservación de vida silvestre: Los predios e instalaciones registrados que operan de conformidad con un plan de manejo aprobado y dentro de los cuales se da seguimiento permanente al estado del hábitat y de poblaciones o ejemplares que ahí se distribuyen.
+XLIV. Traslocación: La liberación planificada al hábitat natural de ejemplares de la misma especie, que se realiza para sustituir poblaciones desaparecidas de una subespecie silvestre distinta y de la cual ya no existen ejemplares en condiciones de ser liberados.
 
-XLV. Vida silvestre: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales.
+XLV. Unidades de manejo para la conservación de vida silvestre: Los predios e instalaciones registrados que operan de conformidad con un plan de manejo aprobado y dentro de los cuales se da seguimiento permanente al estado del hábitat y de poblaciones o ejemplares que ahí se distribuyen.
+
+XLVI. Vida silvestre: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales.
 
 ###### Artículo 4o.
 
@@ -424,6 +432,22 @@ La Secretaría determinará, a través de las normas oficiales mexicanas corresp
 
 El manejo de ejemplares y poblaciones exóticos sólo se podrá llevar a cabo en condiciones de confinamiento, de acuerdo con un plan de manejo que deberá ser previamente aprobado por la Secretaría y en el que se establecerán las condiciones de seguridad y de contingencia, para evitar los efectos negativos que los ejemplares y poblaciones exóticos pudieran tener para la conservación de los ejemplares y poblaciones nativos de la vida silvestre y su hábitat.
 
+> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis.
+
+No se permitirá la liberación o introducción a los hábitats y ecosistemas naturales de especies exóticas invasoras.
+
+La Secretaría determinará dentro de normas oficiales mexicanas y/o acuerdos secretariales las listas de especies exóticas invasoras. Las listas respectivas serán revisadas y actualizadas cada 3 años o antes si se presenta información suficiente para la inclusión de alguna especie o población. Las listas y sus actualizaciones indicarán el género, la especie y, en su caso, la subespecie y serán publicadas en el Diario Oficial de la Federación y en la Gaceta Ecológica.
+
+Asimismo, expedirá las normas oficiales mexicanas y/o acuerdos secretariales relativos a la prevención de la entrada de especies exóticas invasoras, así como el manejo, control y erradicación de aquéllas que ya se encuentren establecidas en el país o en los casos de introducción fortuita, accidental o ilegal.
+
+> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis 1.
+
+No se autorizará la importación de especies exóticas invasoras o especies silvestres que sean portadoras de dichas especies invasoras que representen una amenaza para la biodiversidad, la economía o salud pública.
+
 ###### Artículo 28.
 
 El establecimiento de confinamientos sólo se podrá realizar de conformidad con lo establecido en las disposiciones aplicables, con la finalidad de prevenir y minimizar los efectos negativos sobre los procesos biológicos y ecológicos, así como la sustitución o desplazamiento de poblaciones de especies nativas que se distribuyan de manera natural en el sitio.
@@ -664,7 +688,9 @@ La importación, exportación y reexportación de ejemplares, partes y derivados
 
 > <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2006)</small>
 
-Artículo 55 bis.- Queda prohibida la importación, exportación y reexportación de ejemplares de cualquier especie de mamífero marino y primate, así como de sus partes y derivados, con excepción de aquéllos destinados a la investigación científica, previa autorización de la Secretaría.
+###### Artículo 55 Bis.
+
+Queda prohibida la importación, exportación y reexportación de ejemplares de cualquier especie de mamífero marino y primate, así como de sus partes y derivados, con excepción de aquéllos destinados a la investigación científica, previa autorización de la Secretaría.
 
 ## TÍTULO VI. CONSERVACIÓN DE LA VIDA SILVESTRE
 
@@ -1477,3 +1503,9 @@ Amazona auropalliata
 o sus equivalentes de conformidad con la nomenclatura científica aplicable y cualquier otra ave de esta misma familia que fuese descubierta dentro del territorio nacional.
 
 QUINTO.- Quedan derogadas todas las disposiciones que se opongan al presente decreto.
+
+D.O.F. 6 DE ABRIL DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
