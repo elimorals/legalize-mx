@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-fiscalizacion-de-los-recursos-de-los-62714"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-08"
-last_updated: "2008-09-08"
+last_updated: "2010-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62714&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2008-09-08"
 
 REGLAMENTO PARA LA FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS NACIONALES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR A PARTIR DEL 1 DE ENERO DE 2009, CON EXCEPCION DE LO SEÑALADO EN EL MISMO TRANSITORIO.</small>
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 2010.
 
 Reglamento publicado en la Tercera y Cuarta Secciones del Diario Oficial de la Federación, el lunes 8 de septiembre de 2008.
 
@@ -403,7 +401,11 @@ Ingresos por Colectas Públicas
 
 5.1 Los partidos no podrán recibir aportaciones de personas no identificadas, por lo que no podrán recibir aportaciones mediante cheque de caja o por cualquier otro medio que no haga posible la identificación del aportante. Esto, con excepción de las aportaciones obtenidas mediante colectas realizadas en mítines o en la vía pública.
 
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2010)</small>
+
 5.2 Los ingresos por colectas realizadas en mítines o en la vía pública serán reportados en el rubro de financiamiento de simpatizantes en efectivo. Se deberán contabilizar y registrar en un control por separado los montos obtenidos en cada una de las colectas que se realicen. Dicho control deberá especificar la fecha o periodo, el lugar y el monto recaudado en cada una de las colectas, así como el nombre del responsable de cada una de ellas.
+
+En los informes preliminares que se refiere el artículo 83, párrafo 1, inciso d), fracción II, del Código Federal de Instituciones y Procedimientos Electorales, se adicionará un reporte sobre las actividades a realizarse para obtener ingresos por colectas públicas durante el resto de la campaña.
 
 5.3 La suma de las colectas realizadas en mítines o en la vía pública queda comprendida dentro del límite establecido en el artículo 2.11 del presente Reglamento, de conformidad con lo establecido en el artículo 78, párrafo 5 del Código.
 
@@ -411,9 +413,19 @@ ARTICULO 6
 
 Autofinanciamiento
 
-6.1 El autofinanciamiento de los partidos estará constituido por los ingresos que obtengan de sus actividades promocionales, tales como conferencias, espectáculos, rifas y sorteos, eventos culturales, ventas editoriales, de bienes y propaganda utilitaria, así como cualquier otra similar que realicen para allegarse de fondos, las que estarán sujetas a las leyes correspondientes a su naturaleza. En el informe anual deberán reportarse por separado la totalidad de los ingresos obtenidos y de los egresos realizados con motivo de las actividades de autofinanciamiento, mismos que deberán ser debidamente registrados de conformidad con lo establecido en el Catálogo de Cuentas. El monto total del autofinanciamiento de los partidos queda comprendido dentro del límite establecido en el artículo 78, párrafo 5 del Código.
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2010)</small>
 
-6.2 Los ingresos por autofinanciamiento estarán apoyados en un control por cada evento, que deberá contener número consecutivo, tipo de evento, forma de administrarlo, fuente de ingresos, control de folios, números y fechas de las autorizaciones legales para su celebración, importe total de los ingresos brutos obtenidos, importe desglosado de los gastos, ingreso neto y, en su caso, la pérdida obtenida, y nombre y firma del responsable del evento. Este control pasará a formar parte del sustento documental del registro del ingreso del evento.
+6.1 El autofinanciamiento de los partidos estará constituido por los ingresos que obtengan de sus actividades promocionales, tales como conferencias, espectáculos, rifas y sorteos, eventos culturales, ventas editoriales, de bienes y propaganda utilitaria, así como cualquier otro similar que realicen para allegarse de fondos, las que estarán sujetas a las leyes correspondientes a su naturaleza.
+
+En el caso de los espectáculos y eventos culturales, los partidos políticos notificarán a la Unidad de Fiscalización sobre su celebración con al menos setenta y dos horas de anticipación. En estos dos casos, la Unidad podrá designar auditores para el efecto de que asistan a los mismos, con el objeto de llevar a cabo una visita de verificación, para la cual se deberá establecer y comunicar los propósitos de la misma. Sobre el documento que establezca dichos propósitos, se remitirá copia al partido político.
+
+En todo caso, los partidos políticos entregarán a la Unidad (sic) Fiscalización los elementos de convicción sobre la legalidad del espectáculo o evento cultural referido.
+
+En el informe anual deberán reportarse por separado la totalidad de los ingresos obtenidos y de los egresos realizados con motivo de la actividades de autofinanciamiento, mismos que deberán ser debidamente registrados de conformidad con lo establecido en el Catálogo de Cuentas. El monto total de autofinanciamiento de los partidos queda comprendido dentro del límite establecido en el artículo 78, párrafo 5, del Código.
+
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2010)</small>
+
+6.2 Los ingresos por autofinanciamiento estarán apoyados en un control por cada evento, que deberá precisar la naturaleza, la fecha en que se realice, así como contener número consecutivo, tipo de evento, forma de administrarlo, fuente de ingresos, control de folios, números y fechas de las autorizaciones legales para su celebración, modo de pago y su estimación, importe total de los ingresos brutos obtenidos, importe desglosado de los gastos, ingreso neto y, en su caso, la pérdida obtenida, y nombre y firma del responsable por cada evento. Este control pasará a formar parte del sustento documental del registro del ingreso del evento.
 
 6.3 En cuanto a las rifas y sorteos, resultarán aplicables las siguientes reglas:
 
@@ -735,7 +747,9 @@ Gastos de Campaña
 
 13.2 Para el manejo de los egresos que se efectúen en las campañas políticas para Senadores de la República, cada partido deberá abrir una cuenta bancaria única para cada campaña, la cual se identificará como CBSR-(PARTIDO)-(ESTADO). En caso de que el partido determine realizar campañas independientes para cada uno de sus candidatos a senadores en una determinada entidad federativa, deberá abrir una cuenta de cheques para cada una de ellas, y se identificarán como CBSR-(PARTIDO)-(NUMERO)-(ESTADO), en el entendido de que, de conformidad con el artículo 21.1 del presente Reglamento, deberá presentarse un solo informe de campaña por la fórmula de candidatos. Deberá respetarse lo establecido en los artículos 12.7, 12.8 y 12.9 del presente Reglamento.
 
-13.3 En el caso de las campañas políticas para Diputados Federales, los partidos deberán abrir cuentas bancarias para efectuar sus erogaciones cuando la suma de recursos que el partido le haya asignado para efectuar sus gastos de campaña, más la suma de las aportaciones que el candidato haya realizado exclusivamente para su campaña, rebase el monto equivalente a un cinco por ciento del tope de gastos de campaña que haya establecido el Consejo para esa elección. La Unidad de Fiscalización realizará los cálculos correspondientes, los notificará por oficio a los partidos y ordenará su publicación en el Diario Oficial dentro de los quince días siguientes a aquél en el que el Consejo fije el tope de gasto. Estas cuentas se identificarán como CBDMR-(PARTIDO)-(DISTRITO)-(ESTADO). En todo caso, deberá respetarse lo establecido en los artículos 12.7, 12.8 y 12.9 del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2010)</small>
+
+13.3 En el caso de las campañas políticas para Diputados Federales, los partidos deberán abrir cuentas bancarias únicas para cada campaña, la cual se identificará como CBDMR - (PARTIDO) - (DISTRITO) - (ESTADO). Deberá respetarse lo establecido en los artículos 12.7, 12.8 y 12.9 del presente Reglamento.
 
 13.4 Las cuentas bancarias a que se refiere el presente artículo deberán abrirse a nombre del partido y serán manejadas mancomunadamente por las personas que designe cada candidato y que autorice el órgano de finanzas del partido. Los estados de cuenta respectivos deberán conciliarse mensualmente y remitirse a la autoridad electoral cuando lo solicite.
 
@@ -1003,9 +1017,17 @@ b) Se eximirá del requisito de especificar la clave de elector hasta en un diez
 
 15.13 Lo establecido en el presente artículo no releva a los partidos ni a las personas físicas que reciban pagos por parte de los partidos, del cumplimiento de las obligaciones que les imponen las leyes fiscales, laborales o cualquier otra que resulte aplicable.
 
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2010)</small>
+
 15.14 El partido deberá elaborar una relación anual nacional de las personas que recibieron reconocimientos por actividades políticas por parte del CEN, de los CDEs en cada entidad federativa, y en las campañas electorales federales, en las que se especifique el monto total que percibió cada una de ellas y el total nacional durante el ejercicio correspondiente. Los nombres de las personas deberán aparecer en el siguiente orden: apellido paterno, apellido materno y nombre(s). Dicha relación deberá presentarse totalizada por persona, incluyendo un desglose de cada reconocimiento recibido por cada una de ellas, y deberá remitirse en medios impresos y magnéticos a la Unidad de Fiscalización junto con el informe anual.
 
+Durante el procedimiento de revisión de los informes, la Unidad de Fiscalización seguirá técnicas muestrales de auditoría para solicitar por oficio, que las personas que hayan recibido reconocimiento por actividades políticas, confirmen o rectifiquen las operaciones amparadas en dichos recibos. De los resultados de dichas prácticas se informará en el dictamen consolidado correspondiente, considerando el derecho de audiencia contemplado en el procedimiento de revisión de informes respectivo.
+
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2010)</small>
+
 15.15 Junto con los informes de campaña, el partido deberá presentar una relación de las personas que recibieron reconocimientos por actividades políticas en las campañas electorales federales. Los nombres de las personas deberán aparecer en el siguiente orden: apellido paterno, apellido materno y nombre(s). Dicha relación deberá presentarse totalizada por persona, incluyendo un desglose de cada reconocimiento recibido por cada una de ellas así como el total nacional, y deberá remitirse en medios impresos y magnéticos a la Unidad de Fiscalización.
+
+Durante el procedimiento de revisión de los informes, la Unidad de Fiscalización seguirá técnicas muestrales de auditoría para solicitar por oficio, que las personas que hayan recibido reconocimiento por actividades políticas, confirmen o rectifiquen las operaciones amparadas en dichos recibos. De los resultados de dichas prácticas se informará en el dictamen consolidado correspondiente, considerando el derecho de audiencia contemplado en el procedimiento de revisión de informes respectivo.
 
 15.16 Los gastos efectuados por el partido por concepto de honorarios profesionales y honorarios asimilables a sueldos deberán formalizarse con el contrato correspondiente, en el cual se establezcan claramente las obligaciones y derechos de ambas partes, el objeto del contrato, tiempo, tipo y condiciones del mismo, importe contratado, formas de pago, penalizaciones y todas las demás condiciones a las que se hubieren comprometido.
 
@@ -1421,7 +1443,23 @@ ARTICULO 22
 
 Procesos extraordinarios
 
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2010)</small>
+
 22.1 En términos del artículo 85 del Código, en casos de excepción y previo acuerdo del Consejo General, la Unidad de Fiscalización podrá abrir procesos extraordinarios de fiscalización con plazos diferentes a los establecidos en el artículo 84 del Código. La determinación de abrir procesos extraordinarios de fiscalización podrá realizarse respecto de uno, varios o la totalidad de los partidos políticos.
+
+En términos del artículo 81 del Código, cuando la Unidad de Fiscalización considere procedente realizar visitas de verificación durante la etapa de revisión de los informes, o bien, dentro de los periodos de precampaña y campaña, podrá en todo momento y de manera aleatoria seleccionar uno o varios distritos en donde se llevarán a cabo dichas verificaciones muestrales respecto de la totalidad de los precandidatos o candidatos que se encuentren inscritos en la contienda electoral.
+
+Estas visitas permitirán a la Unidad de Fiscalización contar con los insumos necesarios para cotejar los gastos que reporte el precandidato o candidato del partido político y los datos obtenidos de la verificación correspondiente.
+
+Las visitas de verificación deberán realizarse por el personal designado por la propia Unidad de Fiscalización con el auxilio, en su caso, del personal de la Junta Distrital o Local que corresponda, o bien, mediante la contratación de auditores externos.
+
+En las visitas que ordene la autoridad podrán requerirse a los partidos, entre otra información, la acreditación de la propiedad de los inmuebles verificados con la exhibición de la escritura pública o de los contratos que generen el derecho del uso del mismo. De no contar con dicho documento en el momento de la verificación, el partido queda obligado a entregarlo a la Unidad de Fiscalización antes del vencimiento del plazo para la revisión de los informes.
+
+Los resultados de las visitas de verificación serán determinados en el dictamen y la resolución que en su momento proponga la Unidad de Fiscalización al Consejo General respecto de las irregularidades encontradas en la revisión de los informes de precampaña o de campaña, según sea el caso.
+
+En todo caso, la visita únicamente podrá consistir en la verificación del cumplimiento de los requisitos reglamentarios para la comprobación de los ingresos y egresos de los recursos del partido político, acto que deberá asentarse en acta circunstanciada, incorporando las circunstancias de hecho que se presentaron en su desarrollo, así como los datos y hechos más relevantes que hubieran sido detectados por el personal actuante. El acta deberá ser firmada por la persona que el partido designe para atender la visita de verificación, así como por el auditor que la realice. De dicha acta se entregará copia al partido político. En caso de la negativa a firmar el acta, será firmada por dos testigos de asistencia.
+
+En todos los casos, se entregará copia del acta al partido político.
 
 22.2 La Unidad de Fiscalización notificará a los partidos mediante oficio la determinación de iniciar procesos extraordinarios de fiscalización, señalando lo siguiente:
 
@@ -1601,19 +1639,15 @@ Proveedores
 
 30.1 Los partidos serán responsables de verificar que los comprobantes que les expidan los proveedores de bienes o servicios se ajusten a lo dispuesto dentro del Capítulo III del Título Primero del presente Reglamento.
 
-30.2 El partido deberá formular una relación de los proveedores y prestadores de servicios con los cuales realice operaciones, que durante el periodo de campaña o ejercicio objeto de revisión, superen los mil días de salario mínimo, para lo cual deberán incluir el nombre comercial de cada proveedor, así como el nombre asentado en las facturas que expida; su Registro Federal de Contribuyentes; su domicilio fiscal completo; los montos de las operaciones realizadas y los bienes o servicios obtenidos. Esta relación deberá presentarse a la autoridad electoral en medio magnético en hoja de cálculo Excel, de forma impresa y en medio magnético.
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2010)</small>
 
-30.3 El partido deberá formular una relación de los proveedores y prestadores de servicios con los cuales realice operaciones, que durante el periodo de campaña o ejercicio objeto de revisión, superen los diez mil días de salario mínimo, para lo cual deberá conformar y conservar un expediente por cada uno de ellos, que presentará a la autoridad electoral cuando le sea solicitado. Dicha relación deberá presentarse en hoja de cálculo Excel, de forma impresa y en medio magnético. El expediente de cada proveedor deberá incluir:
+30.2 El partido deberá elaborar una relación de los proveedores y prestadores de servicios con los cuales realice operaciones, que durante el periodo de precampaña, campaña o ejercicio objeto de revisión, superen los quinientos días de salario mínimo, para lo cual deberán incluir el nombre comercial de cada proveedor, así como el nombre asentado en las facturas que expida; su Registro Federal de Contribuyentes; su domicilio fiscal completo; los montos de las operaciones realizadas y los bienes o servicios obtenidos. Esta relación deberá presentarse a la autoridad electoral en hoja de cálculo excel, de forma impresa y en medio magnético.
 
-a) Nombre o denominación social, Registro Federal de Contribuyentes, domicilio completo y número de teléfono;
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2010)</small>
 
-b) Los montos de las operaciones realizadas y los bienes o servicios obtenidos;
+30.3 El partido deberá formular una relación de los proveedores y prestadores de servicios con los cuales realice operaciones, que durante el periodo de precampaña, campaña o ejercicio objeto de revisión, superen los cinco mil días de salario mínimo, para lo cual deberá conformar y conservar un expediente por cada uno de ellos, que presentará a la autoridad electoral cuando le sea solicitado. Dicha relación deberá presentarse en hoja de cálculo excel, de forma impresa y en medio magnético. El expediente de cada proveedor deberá incluir: a) Nombre o denominación social, Registro Federal de Contribuyentes, domicilio completo y número de teléfono; b) Los montos de las operaciones realizadas y los bienes o servicios obtenidos; c) Copia fotostática del alta ante la Secretaría de Hacienda y Crédito Público, así como de la Cédula de Identificación Fiscal; d) Copia fotostática del acta constitutiva en caso de tratarse de una persona moral, que cuente sello de inscripción en el Registro Público de la Propiedad y de Comercio que corresponda; y e) Nombre del o de los representantes o apoderados legales, en su caso.
 
-c) Copia fotostática del alta ante la Secretaría de Hacienda y Crédito Público, así como de la Cédula de Identificación Fiscal;
-
-d) Copia fotostática del acta constitutiva en caso de tratarse de una persona moral, que cuente sello de inscripción en el Registro Público de la Propiedad y de Comercio que corresponda; y
-
-e) Nombre del o de los representantes o apoderados legales, en su caso.
+En los casos de los incisos d) y e), la Unidad de Fiscalización podrá coadyuvar para la obtención de dichos requisitos, siempre y cuando el partido acredite la imposibilidad de obtener la mencionada información.
 
 ARTICULO 31
 
@@ -1649,11 +1683,25 @@ f) Cumplir con las contribuciones a los organismos de seguridad social.
 
 32.4 El cumplimiento de las normas contenidas en el presente Reglamento no releva a los partidos del cumplimiento de las obligaciones que en la materia les impongan las legislaciones electorales locales. La Unidad de Fiscalización, a través del órgano competente del Instituto, podrá, en los términos de lo establecido por el artículo 2 del Código, solicitar información a las autoridades electorales locales respecto de la transferencia de recursos locales al ámbito federal, informarles respecto de la transferencia de recursos federales al ámbito local, y evaluar la pertinencia de que se lleven a cabo intercambios de información respecto del origen y la aplicación de los recursos de los partidos en los distintos ámbitos de competencia de cada autoridad.
 
-32.5 A fin de garantizar la plena procedencia lícita de los recursos obtenidos por los partidos a través de las diversas modalidades de financiamiento privado, la Unidad de Fiscalización remitirá a la Unidad de Inteligencia Financiera de la SHCP los nombres de todos los aportantes, así como los montos de sus aportaciones, que sean reportados en los informes anuales y de campaña.
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2010)</small>
 
-32.6 La Unidad de Fiscalización remitirá a la Unidad de Inteligencia Financiera de la SHCP los listados de candidatos a cargos de elección popular y de dirigentes de los partidos que encuadren en la definición de personas políticamente expuestas en términos de las disposiciones de carácter general emitidas por dicha Unidad. Lo anterior, con el objeto de verificar la transparencia sobre el financiamiento privado de los partidos y sus candidatos, así como prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo ordenamiento legal.
+32.5 A fin de garantizar la plena procedencia lícita de los recursos obtenidos por los partidos a través de las diversas modalidades de financiamiento privado, la Unidad de Fiscalización remitirá a la CNBV, al Servicio de Administración Tributaria y a la Unidad de Inteligencia Financiera de la SHCP, los nombres de todos los aportantes, así como los montos de sus aportaciones, que sean reportados en los informes anuales, de precampaña y de campaña.
 
-32.7 El Instituto podrá celebrar convenios o bases de colaboración con la Unidad de Inteligencia Financiera de la SHCP con el fin de coadyuvar al logro de los objetivos señalados en los artículos 32.5 y 32.6.
+Una vez que dichos informes hayan quedado firmes, la propia Unidad notificará de este hecho a las autoridades que aquí se señalan.
+
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2010)</small>
+
+32.6 La Unidad de Fiscalización remitirá a la CNBV, al Servicio de Administración Tributaria y a la Unidad de Inteligencia Financiera de la SHCP, los listados de candidatos a cargos de elección popular, de dirigentes y de los titulares nacionales de sus órganos de finanzas de los partidos que encuadren en la definición de personas políticamente expuestas. Lo anterior con el objeto de verificar la procedencia lícita de los recursos provenientes del financiamiento privado de los partidos, así como prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo ordenamiento legal.
+
+La Unidad de Fiscalización informará a las autoridades señaladas en el párrafo anterior de los casos en los que las personas reportadas como políticamente expuestas dejen de ostentarse con la condición o cargo que tenían.
+
+En cualquier momento los partidos políticos podrán remitir a la Unidad de Fiscalización una relación adicional de las personas que encuadren en el concepto de persona políticamente expuesta definido por la Secretaría de Hacienda y Crédito Público. Dicha relación será entregada por el representante legal del partido ante el Instituto.
+
+Asimismo, serán consideradas personas políticamente expuestas los auditores internos y externos, así como el personal de la Unidad de Fiscalización que esté vinculado con la revisión.
+
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2010)</small>
+
+32.7 El Instituto podrá celebrar convenios con la SHCP, la CNBV, el Servicio de Administración Tributaria y la Unidad de Inteligencia Financiera, para el intercambio de información de acuerdo con la legislación aplicable con el fin de coadyuvar al logro de los objetivos señalados en los artículos 32.5 y 32.6.
 
 ARTICULO 33
 
@@ -1790,3 +1838,15 @@ Segundo. En un plazo que no exceda de tres meses contados a partir de la aprobac
 SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación.
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 10 de julio de dos mil ocho.- El Consejero Presidente del General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 7 DE ABRIL DE 2010.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO...
+
+SEGUNDO. La modificación al Reglamento para la Fiscalización de los Recursos de los Partidos Políticos Nacionales entrará en vigor al día siguiente de su aprobación por el Consejo General.
+
+TERCERO. Se instruye al Secretario Ejecutivo del Instituto Federal Electoral para que ordene la publicación del presente acuerdo en la Gaceta del Instituto Federal Electoral, dentro de los treinta días siguientes a la aprobación del mismo; y dentro de los quince días siguientes a aquél en el que concluya el plazo para la interposición del recurso correspondiente en contra del mismo ante el Tribunal Electoral del Poder Judicial de la Federación, o en caso de que se presente dicho recurso, dentro de los quince días siguientes a aquél en el que sea notificada la sentencia que lo resolviere, remita el mismo para su publicación en el Diario Oficial de la Federación, junto con la sentencia recaída a dicho recurso.
