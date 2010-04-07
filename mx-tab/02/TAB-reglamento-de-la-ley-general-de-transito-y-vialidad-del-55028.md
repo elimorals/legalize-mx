@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-general-de-transito-y-vialidad-del-55028"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-14"
-last_updated: "2007-05-12"
+last_updated: "2010-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO DE LA LEY GENERAL DE TRANSITO Y VIALIDAD DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tabasco, el miércoles 14 de marzo de 2007.
 
@@ -671,11 +671,111 @@ Los vehículos que transporten personas en la condición de turistas, podrán ci
 
 Queda prohibido el uso de placas, tarjetas de circulación y calcomanías de placas en vehículos diferentes para las que fueron expedidas. Para el caso en que se detecten las placas y/o tarjetas de circulación en vehículos distintos a los registrados, se procederá a retener los documentos y detener el vehículo, hasta en tanto el propietario acredite con la documentación respectiva la legítima propiedad del mismo.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE ABRIL DE 2010)</small>
+
+### CAPÍTULO III. DE LAS PLACAS DE DEMOSTRACIÓN, PERMISOS PARA VEHÍCULOS EN TRASLADO Y PERMISOS DE CIRCULACIÓN PARA VEHÍCULOS NUEVOS
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 46 BIS.- Las placas de demostración y los permisos para vehículos en traslado serán otorgados exclusivamente a aquellos fabricantes, ensambladores, distribuidores, concesionarios o comerciantes de vehículos nuevos que tengan su domicilio dentro del territorio del estado de Tabasco, para ser utilizados bajo su más estricta responsabilidad.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 46 TER.- Para los efectos de este Reglamento se entenderá por:
+
+l. Placas de demostración: Aquellas otorgadas exclusivamente a los fabricantes, ensambladores, distribuidores, concesionarios o comerciantes de vehículos nuevos, para identificar temporalmente un automóvil que aún no ha sido enajenado por primera vez al consumidor y que requiere poder circular con la intención de ser sometido a prueba o demostración, ajustándose a las restricciones que la autoridad establezca.
+
+II. Permisos para vehículos en traslado: El documento expedido por la Dirección General, otorgado exclusivamente a los fabricantes, ensambladores, distribuidores, concesionarios o comerciantes de vehículos nuevos para identificar temporalmente un automóvil, que aún no ha sido enajenado por primera vez al consumidor y que requiere ser trasladado entre los patios de encierro, salas de exhibición y exhibiciones temporales, así como para la carga de combustible, pruebas mecánicas de calidad y entrega a domicilio, ajustándose a las restricciones que la autoridad establezca; y
+
+III. Permiso de circulación para vehículos nuevos: El documento expedido por única vez por la Dirección General, a través de los fabricantes, ensambladores, distribuidores, concesionarios o comerciantes de vehículos nuevos agencias (sic) otorgado exclusivamente al comprador de un vehículo nuevo con el fin de poder circular temporalmente, en tanto no realice el emplacamiento respectivo.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 46 QUÁTER.- Para la emisión, refrendo, canje o reposición de placas de demostración, los fabricantes, ensambladores, distribuidores, concesionarios o comerciantes que las soliciten deberán satisfacer ante la Dirección General los siguientes requisitos:
+
+l. Encontrarse inscrito en el Registro de Distribuidores y Concesionarios Automotrices;
+
+II. Presentar solicitud de placas de demostración en papel membretado y firmada por el representante legal de la empresa, en la cual se deberán describir las características y especificaciones del vehículo a matricular;
+
+III. Presentar identificación oficial vigente del representante legal; y
+
+IV. Presentar constancia de inspección vehicular.
+
+Una vez satisfechos los requisitos establecidos en este artículo, los interesados deberán realizar el pago de los derechos correspondientes.
+
+Únicamente se expedirá un juego de placas de demostración por cada vehículo que sea destinado para fines de demostración o prueba, debiendo darse de baja al momento de su enajenación, pudiendo reasignar dicho juego de placas a otro vehículo de demostración, previo cumplimiento de los requisitos previstos y dentro del periodo de vigencia de las mismas.
+
+Las placas de demostración tendrán una vigencia de un año.
+
+La Dirección General implementará programas para facilitar la inspección de los vehículos destinados a prueba o demostración en las instalaciones de las distribuidoras automotrices.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 46 QUINTUS.- Para la expedición de los permisos para vehículos en traslado, los fabricantes, ensambladores, distribuidores, concesionarios o comerciantes de vehículos nuevos, deberán presentar solicitud y el pago anual correspondiente para la utilización del sistema informático que determine la Secretaría de Administración y Finanzas, a efectos de que la propia negociación pueda tramitar los mencionados permisos.
+
+La Dirección General establecerá los formatos y determinará los requisitos para acreditar la información a registrar.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 46 SEXTUS.- Los distribuidores y concesionarios automotrices en el estado deberán darse de alta en el Registro de Distribuidores y Concesionarios Automotrices que para tales efectos llevará la Dirección General en coordinación con la Secretaría de Administración y Finanzas.
+
+El registro a que se refiere el párrafo anterior, se constituirá con la siguiente información:
+
+I. Datos de identificación del distribuidor;
+
+II. Información de sus representantes legales y gerentes;
+
+III. Acta constitutiva de la empresa y, en su caso, modificaciones relacionadas con objeto social, domicilio y denominación;
+
+IV. Instrumentos públicos relacionados con la representación legal de sus apoderados; y
+
+V. Información de sus sucursales, en su caso.
+
+La Dirección General establecerá los formatos y determinará los documentos necesarios para acreditar la información a registrar.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 46 SÉPTIMUS.- Con independencia de las disposiciones establecidas en la Ley y en este Reglamento para la circulación de vehículos, aquellos que lo hagan con placas de demostración se sujetarán a las siguientes medidas:
+
+I. Sólo podrán circular con placas de demostración vehículos cuyo año modelo de fabricación no sea mayor a un año de antigüedad;
+
+II. Ser utilizados exclusivamente para prueba o demostración;
+
+III. Circular únicamente en un horario de 8:00 a 20:00 horas de lunes a viernes y de 8:00 a 18:00 horas los sábados y domingos; y
+
+IV. Estar plenamente identificados con la leyenda "vehículo de demostración", "demo", "demostración", o cualquier otra que lo identifique como tal.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 46 OCTAVUS.- Con independencia de las disposiciones establecidas en la Ley y en este Reglamento para la circulación de vehículos, para el traslado de vehículos por parte de los distribuidores o concesionarios automotrices, los permisos para vehículos en traslado se sujetarán a las siguientes medidas:
+
+I. Ser utilizados exclusivamente para su traslado entre los patios de encierro, salas de exhibición y exhibiciones temporales, así como para la carga de combustible, pruebas mecánicas de calidad y entrega a domicilio; y
+
+II. Ser conducidos únicamente por personal que labore en la negociación titular del permiso.
+
+Los permisos para vehículos en traslado tendrán una vigencia de veinticuatro horas, contadas a partir de la hora de su expedición.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 46 NOVENUS.- Los permisos de circulación para vehículos nuevos sólo podrán ser tramitados por los distribuidores o concesionarios automotrices registrados y tendrán una vigencia de setenta y dos horas a partir de su expedición. Estos permisos serán expedidos una sola ocasión y no serán renovables.
+
+Para la expedición de estos permisos, se deberán satisfacer los siguientes requisitos:
+
+I. Presentar identificación oficial del propietario del vehículo;
+
+II. Presentar licencia de conducir vigente del propietario del vehículo; y
+
+III. Presentar el documento idóneo que ampare la propiedad del vehículo.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 46 DÉCIMUS.- En caso de que la Dirección General detecte que a las placas de demostración, permisos para vehículos en traslado o permisos de circulación para vehículos nuevos se les dé un uso distinto a aquel para el cual fueron emitidas, estará facultada para requerir su devolución y cancelación, con independencia de las demás sanciones que sean aplicables al caso que corresponda.
+
+Concluida la vigencia de las placas de demostración la autoridad requerirá la entrega de las mismas para su cancelación.
 
 ## TÍTULO QUINTO. DE LA CIRCULACIÓN
 
-### CAPÍTULO II. REGLAS DE CIRCULACIÓN
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 47.
 
@@ -705,7 +805,7 @@ Se prohíbe la circulación de vehículos a motor con escape libre sin el dispos
 
 La emisión de perturbaciones electromagnéticas, ruidos, gases y demás emanaciones, en las vías públicas, se regulará por las normas que determinen las autoridades competentes.
 
-### CAPÍTULO III. DE LOS CONDUCTORES
+### CAPÍTULO II. REGLAS DE CIRCULACIÓN
 
 ###### ARTÍCULO 53.
 
@@ -999,7 +1099,7 @@ V. En sentido contrario al que tenga la calle transversal; y
 
 VI. En avenidas de alta circulación.
 
-### CAPÍTULO IV. DE LAS RESTRICCIONES EN LA VÍA PÚBLICA
+### CAPÍTULO III. DE LOS CONDUCTORES
 
 ###### ARTÍCULO 83.
 
@@ -1297,7 +1397,7 @@ En el caso que la autoridad de Tránsito y Vialidad se percate que de manera inj
 
 Aquellos vehículos que ocasionalmente presten servicios de emergencia, gozarán igualmente de las excepciones previstas en el artículo anterior.
 
-### CAPÍTULO V. REGLAS PARA CASOS ESPECIALES
+### CAPÍTULO IV. DE LAS RESTRICCIONES EN LA VÍA PÚBLICA
 
 ###### ARTÍCULO 100.
 
@@ -1361,7 +1461,7 @@ Sólo se permitirá el tránsito de animales de tiro, carga o silla, cabezas de 
 
 Los animales conducidos en manada o rebaño irán al paso, lo más cerca posible del borde derecho de la vía y de forma que nunca ocupen más de la mitad derecha de la calle, divididos en grupos de longitud moderada, guiados por personas capaces de dominarlos y suficientemente separados para entorpecer lo menos posible la circulación, además de llevar el señalamiento adecuado. En el caso de que se encuentren con otro ganado que transite en sentido contrario, sus responsables cuidarán de que el cruce se haga con la mayor rapidez y en zona de visibilidad suficiente y si circunstancialmente esto no se hubiera podido conseguir, adoptarán las precauciones precisas para que los conductores de los vehículos que eventualmente se aproximen puedan detenerse o reducir la velocidad a tiempo.
 
-### CAPÍTULO I. DE LOS ACCIDENTES DE TRÁNSITO
+### CAPÍTULO V. REGLAS PARA CASOS ESPECIALES
 
 ###### ARTÍCULO 106.
 
@@ -1409,7 +1509,7 @@ Los conductores deberán detener sus vehículos antes del cruce ferroviario a un
 
 ## TÍTULO SEXTO. DE LOS ACCIDENTES E INCIDENTES DE TRÁNSITO
 
-### CAPÍTULO II. DE LOS INCIDENTES DE TRÁNSITO
+### CAPÍTULO I. DE LOS ACCIDENTES DE TRÁNSITO
 
 ###### ARTÍCULO 113.
 
@@ -1513,7 +1613,7 @@ El arrastre de vehículos participantes en accidentes se hará por los servicios
 
 En un accidente en el que no se hayan producido pérdidas de vidas humanas o lesiones y que las partes involucradas hayan llegado a un convenio celebrado ante la Dirección General, el responsable podrá solicitar la liberación de su vehículo presentando la documentación requerida mediante la cuál se acredite fehacientemente la propiedad.
 
-### CAPÍTULO I. MEDIDAS CAUTELARES
+### CAPÍTULO II. DE LOS INCIDENTES DE TRÁNSITO
 
 ###### ARTÍCULO 118.
 
@@ -1533,9 +1633,7 @@ Todo incidente de tránsito será sancionado por la autoridad responsable confor
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
 
-### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO RESULTANTE DE ACCIDENTES, INCIDENTES E INFRACCIONES DE TRÁNSITO PARA LA APLICACIÓN DE SANCIONES
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+### CAPÍTULO I. MEDIDAS CAUTELARES
 
 ###### ARTÍCULO 121.
 
@@ -1557,13 +1655,17 @@ III. Cuando las placas del vehículo no coincidan en números y letras con la ca
 
 IV. Por encontrarse estacionado el vehículo en lugar prohibido o en doble fila, y no esté presente el conductor, o bien no quiera o no pueda moverlo.
 
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2010)</small>
+
+V. Cuando se incumpla con lo dispuesto en el artículo 46 Septimus y 46 Octavus de este Reglamento.
+
 La autoridad de Tránsito y Vialidad o el concesionario de servicio de grúas al retirar los vehículos de la vía pública para remitirlos al depósito correspondiente, lo harán tomando las medidas necesarias para evitar que se produzca daños a los mismos;
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DE 2007)</small>
 
-### CAPÍTULO III. DEL TABULADOR DE SANCIONES
+### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO RESULTANTE DE ACCIDENTES, INCIDENTES E INFRACCIONES DE TRÁNSITO PARA LA APLICACIÓN DE SANCIONES
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 122.
 
@@ -1591,6 +1693,10 @@ La Dirección General en forma indistinta a las horas del arresto previstas para
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2007)</small>
 
+### CAPÍTULO III. DEL TABULADOR DE SANCIONES
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 125.
 
 El tabulador de sanciones en lo que al "resumen del concepto de la infracción" se refiere tiene un fin preponderantemente orientador. En todo caso, se estará a lo dispuesto en los artículos de la Ley y el Reglamento descritos en el tabulador.
@@ -1602,6 +1708,8 @@ El tabulador de sanciones en lo que al "resumen del concepto de la infracción" 
 Las multas se fijan en días de salario mínimo general vigente en el Estado de Tabasco y de acuerdo a las disposiciones que fija la Ley en cuanto a su gravedad. La aplicación de las sanciones derivadas de las infracciones cometidas se sujetarán a lo previsto en el presente Reglamento, y por el siguiente tabulador, que establece cantidades mínimas y máximas de las sanciones en forma de multa o arresto que podrán ser impuestas:
 
 > <small>N. DE E. VEASE TABULADOR DE SANCIONES EN EL P.O. DE 12 DE MAYO DE 2007, PAGINAS DE LA 21 A LA 35.</small>
+
+> <small>N. DE E. REFORMAS AL TABULADOR DE SANCIONES, P.O. 7 DE ABRIL DE 2010.</small>
 
 Al infractor que pague la multa dentro de los quince días hábiles posteriores a la fecha de expedición, gozará de un descuento del 50%. En caso de que el infractor opte por el arresto y exista acumulación de infracciones en ningún caso podrá exceder de 36 horas.
 
@@ -1640,3 +1748,17 @@ PRIMERO.- Las reformas, adiciones y derogaciones al Reglamento de la Ley General
 SEGUNDO.- Al entrar en vigor las reformas, adiciones y derogaciones al presente Reglamento, se derogan todas las disposiciones de igual rango o naturaleza que se oponga al mismo.
 
 TERCERO.- El Reglamento de la Ley General de Tránsito y Vialidad será aplicable en el Estado de Tabasco, dejando de tener validez en el Municipio al que se le haya transferido el servicio público de tránsito de conformidad con lo que establecen los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos y 65 de la Constitución Política del Estado Libre y Soberano de Tabasco y hasta en tanto la autoridad municipal no emita el Reglamento respectivo.
+
+P.O. 7 DE ABRIL DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes adiciones entrarán en vigor a los treinta días siguientes a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Dirección General de la Policía Estatal de Caminos en coordinación con la Secretaría de Administración y Finanzas, tomará las medidas presupuestales y administrativas necesarias para la adecuada implementación de las nuevas disposiciones jurídico normativas.
+
+###### ARTÍCULO TERCERO.
+
+Los distribuidores y concesionarios automotrices deberán, en un plazo que no exceda de treinta días a partir de la publicación de este Acuerdo, entregar ante la Dirección General de la Policía Estatal de Caminos las placas de demostración que tengan en su poder, así como gestionar, ante la misma autoridad, la expedición de nuevas placas.
