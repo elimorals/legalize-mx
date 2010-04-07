@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-civil-para-el-estado-de-sonora-46456"
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-03"
-last_updated: "2009-08-31"
+last_updated: "2010-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE AGOSTO DE 2009
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE ABRIL DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 3 de octubre de 2005.
 
@@ -98,6 +98,10 @@ XV.- Evacuación: Medida de seguridad que consiste en la movilización de la pob
 XVI.- Emergencia: Situación anormal que puede causar un daño o propiciar un riesgo extraordinario para la seguridad e integridad de la población en general. La emergencia puede darse en los niveles interno, externo, múltiple y global, cada uno de los cuales conlleva las fases de prealerta, alerta y alarma;
 
 XVII.- Estado o situación de normalidad: Funcionamiento ordinario de las comunidades;
+
+> <small>(ADICIONADA, B.O. 7 DE ABRIL DE 2010)</small>
+
+XVII Bis.- FONDES: Fondo de Desastres Naturales del Estado de Sonora;
 
 XVIII.- Mitigación: Disminución o reparación de un daño;
 
@@ -181,7 +185,7 @@ VI.- Emitir las declaratorias de estado de emergencia o de zonas de desastre y o
 
 VII.- Solicitar al Ejecutivo Federal los apoyos necesarios para el desarrollo de las acciones de auxilio y recuperación derivadas de los efectos de un siniestro, emergencia o desastre;
 
-VIII.- Promover la constitución de un Fondo Estatal para la Prevención y Atención de Emergencias y Desastres, con recursos públicos y privados, para la realización de acciones y la implementación de mecanismos tendientes a evitar o disminuir los riesgos de los agentes destructivos sobre la población y sus bienes, servicios y medio ambiente; y
+VIII.- (DEROGADA, B.O. 7 DE ABRIL DE 2010)
 
 IX.- Las demás que le otorgue la presente Ley y disposiciones legales aplicables.
 
@@ -713,13 +717,29 @@ La declaratoria de zona de desastre deberá contener, en cuanto correspondan, lo
 
 Los centros de distribución de ayuda operados por autoridades en situaciones de siniestro, emergencia o desastre no podrán utilizarse con fines de propaganda o proselitismo político.
 
-### CAPÍTULO ÚNICO. DE LOS GRUPOS VOLUNTARIOS
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 7 DE ABRIL DE 2010)</small>
+
+### CAPÍTULO III. DEL FONDO DE DESASTRES NATURALES DEL ESTADO DE SONORA
+
+> <small>(ADICIONADO, B.O. 7 DE ABRIL DE 2010)</small>
+
+###### ARTÍCULO 32 Bis.
+
+Se crea el Fondo de Desastres Naturales del Estado de Sonora como un instrumento financiero del Sistema Estatal, el cual operará bajo las reglas que al efecto emita el Gobernador del Estado y cuyo objeto es apoyar, en forma inmediata, a los municipios del Estado y a las entidades y dependencias de la administración pública estatal, en las acciones de auxilio y recuperación derivadas de los efectos de un desastre o siniestro.
+
+El Gobernador del Estado deberá incluir en la iniciativa con proyecto de Decreto de Presupuesto de Egresos del Gobierno del Estado que presente al Congreso del Estado para el ejercicio que corresponda, recursos para ser destinados al FONDES.
+
+El FONDES se integra por los siguientes instrumentos:
+
+I.- Un Fondo Revolvente a cargo de la Unidad Estatal, el cual tiene por objeto proporcionar suministros de auxilio y asistencia ante situaciones de emergencia, de un siniestro o desastre, para responder de manera inmediata y oportuna a las necesidades urgentes para la protección de la vida y la salud de la población. A este Fondo se le deberán destinar recursos suficientes, los cuales se establecerán en el Decreto del Presupuesto de Egresos del Gobierno del Estado del ejercicio fiscal que corresponda para el FONDES; y
+
+II.- El Fideicomiso Fondo de Desastres Naturales del Estado de Sonora, el cual será constituido por el Gobernador del Estado con el objeto de poder contar con los recursos económicos necesarios que garanticen a los municipios del Estado y a las entidades y dependencias de la administración pública estatal acceder, en el menor tiempo posible, a los apoyos del Gobierno Federal establecidos en el Fondo de Desastres Naturales. Los recursos que se establezcan para el FONDES en el Decreto del Presupuesto de Egresos del Gobierno del Estado del ejercicio fiscal que corresponda, deberá destinarse al presente Fideicomiso.
+
+El Ejecutivo del Estado podrá adquirir para el FONDES, un instrumento financiero de transferencia de riesgos, el cual le permitirá al Estado transferir sus riesgos y el costo generado por los desastres naturales, al mismo tiempo que le blinde, financieramente, sus recursos públicos y los potencialice. El costo de este instrumento, que podrá ser a través de un seguro tradicional o un bono catastrófico, deberá, en su caso, ser incluido en el Decreto de Presupuesto de Egresos del Gobierno del Estado del ejercicio fiscal que corresponda, para el FONDES.
 
 ## TÍTULO QUINTO. DE LA PARTICIPACIÓN SOCIAL Y PRIVADA
 
-### CAPÍTULO ÚNICO. DE LAS OBLIGACIONES DE LOS PARTICULARES
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE AGOSTO DE 2009)</small>
+### CAPÍTULO ÚNICO. DE LOS GRUPOS VOLUNTARIOS
 
 ###### ARTÍCULO 33.
 
@@ -753,7 +773,7 @@ VI.- Las demás que señale esta Ley y otras disposiciones aplicables.
 
 ## TÍTULO SEXTO. DE LAS OBLIGACIONES DE LOS PARTICULARES
 
-### CAPÍTULO I. DE LAS VISITAS DE INSPECCIÓN
+### CAPÍTULO ÚNICO. DE LAS OBLIGACIONES DE LOS PARTICULARES
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE AGOSTO DE 2009)</small>
 
@@ -817,7 +837,9 @@ Es obligación de todos los habitantes del Estado con capacidad de ejercicio inf
 
 ## TÍTULO SÉPTIMO. DE LAS VISITAS DE INSPECCIÓN Y DE LAS MEDIDAS CORRECTIVAS Y DE SEGURIDAD
 
-### CAPÍTULO II. DE LAS MEDIDAS CORRECTIVAS Y DE SEGURIDAD
+### CAPÍTULO I. DE LAS VISITAS DE INSPECCIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 43.
 
@@ -865,7 +887,7 @@ Transcurrido el plazo a que se refiere la fracción VII del artículo 44, dentro
 
 La resolución que se dicte deberá señalar si el visitado requiere solventar las observaciones por omisiones o contravenciones asentadas en el acta; llevar a cabo acciones y medidas correctivas o de seguridad tendientes a cumplimentar lo señalado en el Programa Interno, así como lo relativo al establecimiento o funcionamiento de la Unidad Interna; los plazos para ejecutarlas y, en su caso, las infracciones o sanciones a que hubiere lugar en caso de incumplimiento.
 
-### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO II. DE LAS MEDIDAS CORRECTIVAS Y DE SEGURIDAD
 
 ###### ARTÍCULO 47.
 
@@ -915,7 +937,7 @@ Para la determinación y ejecución de las medidas de seguridad en situaciones d
 
 ## TÍTULO OCTAVO. DE LAS INFRACCIONES, SANCIONES Y RECURSOS
 
-### CAPÍTULO II. DE LOS RECURSOS
+### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTÍCULO 51.
 
@@ -1004,6 +1026,8 @@ Los funcionarios de protección civil que no cumplan con lo establecido en esta 
 Cuando los Inspectores, con motivo del ejercicio de sus atribuciones, tengan conocimiento de una infracción a las disposiciones de la presente Ley o su Reglamento, asentarán dichas circunstancias en las actas respectivas, a fin de que se dicten las medidas correctivas y de seguridad y apliquen las sanciones establecidas en esta Ley, según corresponda.
 
 Los verificadores no podrán recibir alguna gratificación o dádivas con el propósito de omitir o alterar la información de las actuaciones de las diligencias, quedando sujetos en todo caso a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+
+### CAPÍTULO II. DE LOS RECURSOS
 
 ###### ARTÍCULO 55.
 
@@ -1180,3 +1204,13 @@ Los propietarios, poseedores, administradores o encargados de establecimientos, 
 ###### ARTÍCULO CUARTO.
 
 En un plazo no mayor a treinta días contados a partir de la entrada en vigor de la presente Ley, el Titular del Ejecutivo Estatal y los ayuntamientos, en su respectivo ámbito de competencia, deberán realizar las adecuaciones pertinentes y emitir las disposiciones administrativas necesarias para cumplir cabalmente con las disposiciones de este ordenamiento.
+
+B.O. 7 DE ABRIL DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobernador del Estado, en un plazo de noventas (sic) días naturales, contado a partir de la entrada en vigor del presente Decreto, deberá emitir las reglas a que se refiere el artículo 32 Bis del presente ordenamiento y, de ser el caso, realizar la propuesta de modificación presupuestal que resulte pertinente.
