@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-gobierno-59888"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-30"
-last_updated: "2009-01-24"
+last_updated: "2010-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de enero de 2008.
 
@@ -169,21 +169,21 @@ D.1. DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS:
 
 D.1.1. DIRECCIÓN DEL ARCHIVO GENERAL DE NOTARÍAS; Y
 
-D.2. DIRECCIÓN GENERAL DE LA POLICÍA ESTATAL DE CAMINOS:
+D.2. (DEROGADO, P.O. 7 DE ABRIL DE 2010)
 
-D.2.1. DIRECCIÓN DE SERVICIOS OPERATIVOS;
+D.2.1. (DEROGADO, P.O. 7 DE ABRIL DE 2010)
 
-D.2.2. DIRECCIÓN REGIONAL;
+D.2.2. (DEROGADO, P.O. 7 DE ABRIL DE 2010)
 
-D.2.3. DIRECCIÓN DE INGENIERÍA DE TRÁNSITO Y EDUCACIÓN VIAL;
+D.2.3. (DEROGADO, P.O. 7 DE ABRIL DE 2010)
 
-D.2.4. DIRECCIÓN DE SERVICIOS AL PÚBLICO;
+D.2.4. (DEROGADO, P.O. 7 DE ABRIL DE 2010)
 
-D.2.5. UNIDAD DE ASUNTOS JURÍDICOS;
+D.2.5. (DEROGADO, P.O. 7 DE ABRIL DE 2010)
 
-D.2.6. UNIDAD ADMINISTRATIVA Y DE PLANEACIÓN; Y
+D.2.6. (DEROGADO, P.O. 7 DE ABRIL DE 2010)
 
-D.2.7. COORDINACIÓN DE ASESORES.
+D.2.7. (DEROGADO, P.O. 7 DE ABRIL DE 2010)
 
 D.3. DIRECCIÓN GENERAL DE LA DEFENSORÍA DE OFICIO.
 
@@ -1681,461 +1681,39 @@ La Dirección del Registro Público de la Propiedad y del Comercio se regirá po
 
 ###### Artículo 67.
 
-Corresponde a la Dirección General de la Policía Estatal de Caminos, en el ámbito de su jurisdicción, el ejercicio de las siguientes funciones:
-
-I. Elaborar el programa anual de trabajo de acuerdo a los lineamientos del Plan Estatal de Desarrollo, Ley General de Tránsito y Vialidad del Estado de Tabasco y su Reglamento, Reglamento Interior de la Secretaría de Gobierno y demás disposiciones legales aplicables;
-
-II. Presentar al Secretario el programa de trabajo de la Dirección General;
-
-III. Administrar y dirigir a la Policía Estatal de Caminos, así como coordinar sus acciones con las demás autoridades federales, estatales y municipales;
-
-IV. Determinar las políticas y líneas generales de acción para cumplimiento de los planes operativos y administrativos que lleven a cabo, cada una de las áreas que integran la estructura orgánica de la Dirección General;
-
-V. Organizar, promover, realizar y evaluar, con la participación de las autoridades y sectores involucrados, campañas preventivas de información o colaboración, respecto a los rubros de tránsito y vialidad en el Estado, considerando sus implicaciones en la contaminación del ambiente;
-
-VI. Dirigir, coordinar y supervisar los servicios de vigilancia y control de las carreteras, caminos y vialidades de jurisdicción estatal;
-
-VII. Vigilar el cumplimiento de las normas que rigen el tránsito y la vialidad de personas, objetos y vehículos, así como el estacionamiento en las vías públicas abiertas a la circulación que no sean de competencia federal o municipal;
-
-VIII. Vigilar que las personas que conduzcan vehículos automotores cumplan con los requisitos y condiciones que les permitan hacerlo, en término de las disposiciones legales aplicables;
-
-IX. Procurar que los usuarios de las vías públicas se abstengan de realizar todo acto que pueda constituir un obstáculo a la libre circulación de peatón y/o vehículos, poner en peligro a las personas o causar daños a propiedades públicas o privadas;
-
-X. Coordinar las acciones de vigilancia de los vehículos que circulan en las vías públicas para que estén debidamente registrados e inscritos en el padrón vehicular estatal conforme a las leyes y disposiciones relativas, así como, cuenten con los sistemas adecuados para la protección del conductor y de las personas y bienes en general;
-
-XI. Supervisar que los servidores públicos de la Dirección General en el cumplimiento de sus obligaciones y de atención al público, se desempeñen con legalidad, honradez, lealtad, imparcialidad y eficiencia en las áreas a su cargo o comisión;
-
-XII. Sancionar las acciones y/u omisiones que cometan los usuarios de las vías públicas de conformidad con la legislación en la materia, turnando a los infractores a las autoridades competentes en el caso de la comisión de un delito;
-
-XIII. Coordinar los esfuerzos de colaboración con los agentes investigadores del ministerio público y autoridades judiciales del estado según sus atribuciones, así como, con las autoridades fiscales;
-
-XIV. Fomentar el establecimiento de estacionamientos públicos, propiciando su ubicación en zonas de alta demanda, así como, cercanas a terminales del transporte público;
-
-XV. Establecer una política de señalización de la vía pública para determinar los límites de velocidad con facultad en las consideraciones de la Ley General de Tránsito y Vialidad del Estado de Tabasco y su Reglamento;
-
-XVI. Mantener actualizada la base de datos integrada por el padrón vehicular, licencias, infracciones de tránsito y datos estadísticos, mediante el procesamiento electrónico de la información;
-
-XVII. Organizar, integrar y tener bajo su custodia el archivo general que resguarde los expedientes de los vehículos automotores del servicio particular inscritos en el padrón respectivo;
-
-XVIII. Proponer las políticas, normas y lineamientos para el desarrollo y modernización de las vialidades del estado;
-
-XIX. Proponer políticas y lineamientos para regular el otorgamiento de placas, permisos y tarjetas de circulación, refrendos y demás trámites necesarios para el servicio particular y/o público del transporte, previo al pago de los derechos por estos conceptos a la Secretaría de Administración y Finanzas;
-
-XX. Aplicar en materia de transporte público las disposiciones legales consignadas por la Ley General de Tránsito y Vialidad del Estado de Tabasco y su Reglamento;
-
-XXI. Coordinarse con la Dirección General de Transporte para la ubicación de paradas y terminales del transporte público de pasaje y carga;
-
-XXII. Atender a la ciudadanía de acuerdo con los programas de atención al público y simplificación administrativa;
-
-XXIII. Establecer coordinación con las dependencias y entidades de los distintos órdenes de gobierno en la realización de trabajos relacionados con la vialidad;
-
-XXIV. Promover la realización de estudios y proyectos que permitan regular y vigilar el tránsito vehicular y peatonal de las vías públicas del Estado;
-
-XXV. Instrumentar los programas de capacitación y difusión que coadyuven a elevar la cultura, actitud y conocimientos de operación y conducción respeto a la señalización y auxilio vial entre la población;
-
-XXVI. Vigilar la administración de los depósitos vehiculares, en los que se custodia y resguarda los vehículos automotores que ingresen al mismo con base a las leyes, reglamentos y demás disposiciones relativas;
-
-XXVII. Regular y vigilar las actividades de enseñanza para la conducción de vehículos que impartan los establecimientos particulares autorizados para ello;
-
-XXVIII. Dar cumplimiento a las disposiciones emitidas por el Ejecutivo Estatal a través de la Secretaria de Gobierno;
-
-XXIX. Someter a acuerdo del Secretario los asuntos confiados a la Dirección General;
-
-XXX. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones que realizan cada una de las áreas que integran la estructura orgánica de la Dirección General;
-
-XXXI. Recibir en acuerdo a los Titulares de las unidades, Subdirectores, Delegados, Subdelegados, Jefes de Destacamento y Jefes de Departamentos para precisar y hacer más eficientes las acciones de trabajo de la corporación;
-
-XXXII. Asesorar técnicamente en asuntos de su competencia al Secretario;
-
-XXXIII. Autorizar los planes y programas para el establecimiento de un sistema de información que coadyuve a la toma de decisiones en forma oportuna y eficaz;
-
-XXXIV. Autorizar los programas para la profesionalización de los cuerpos policiales y la modernización del equipo e infraestructura, utilizados en los servicios que se brindad (sic) a la sociedad;
-
-XXXV. Autorizar el ingreso a nuevos elementos policiales de acuerdo a la normatividad establecida;
-
-XXXVI. Gestionar los recursos necesarios para la formación de nuevos cuerpos policiales con vocación y espíritu de servicio;
-
-XXXVII. Coordinar que las acciones emprendidas en la administración de los recursos humanos, financieros y materiales, asignados a la Dirección General, se lleven a cabo de manera racional, oportuna y transparente;
-
-XXXVIII. Emitir políticas, normas, circulares en el ámbito de sus facultades para eficientar las funciones de cada una de las áreas operativas y administrativas que conforman la estructura orgánica de la corporación;
-
-XXXIX. Autorizar documentos internos de la competencia de la Dirección General;
-
-XL. Planear, programar, organizar, dirigir, controlar y evaluar las funciones de los servicios informáticos y redes electrónicas de información, con la finalidad de que la información se encuentre disponible para todas las áreas que conforman la Dirección General, a través de una base de datos confiable, eficiente y en el momento oportuno;
-
-XLI. Atender la inconformidad ciudadana ante la aplicación de la Ley General de Tránsito y Vialidad del Estado de Tabasco y su Reglamento, sustentando legalmente la improcedencia de las sanciones para la aplicación del descuento o exención de la misma, así como, las quejas por excesos u omisiones de cualquier funcionario de la corporación;
-
-XLII. Autorizar los apoyos que soliciten las instituciones del Poder Ejecutivo, Legislativo o Judicial, en relación con los trámites de licencias, infracciones y lo relacionado con la vialidad;
-
-XLIII. Convocar a reuniones ordinarias y extraordinarias de trabajo a los Directivos de las Unidades Operativas y Administrativas;
-
-XLIV. Participar en reuniones ordinarias y extraordinarias que la superioridad determine; y
-
-XLV. Las demás que le confieran las disposiciones legales aplicables o le asigne el Gobernador o Secretario.
+(DEROGADO, P.O. 7 DE ABRIL DE 2010)
 
 ###### Artículo 68.
 
-Para el desempeño de sus funciones la Dirección General de la Policía Estatal de Caminos, contará con las siguientes unidades administrativas:
-
-I. Dirección de Servicios Operativos;
-
-II. Dirección Regional;
-
-III. Dirección de Ingeniería de Tránsito y Educación Vial;
-
-IV. Dirección de Servicios al Público;
-
-V. Unidad de Asuntos Jurídicos;
-
-VI. Unidad Administrativa y de Planeación; y
-
-VII. Coordinación de Asesores.
+(DEROGADO, P.O. 7 DE ABRIL DE 2010)
 
 ###### Artículo 69.
 
-Corresponde a la Dirección de Servicios Operativos, el ejercicio de las siguientes funciones:
-
-I. Elaborar y presentar al Director General el programa de trabajo anual y, los operativos especiales de carácter emergente;
-
-II. Planear, programar, organizar, controlar, supervisar y evaluar que el desempeño de las funciones que se realizan en las diferentes áreas operativas, se lleve a cabo con sentido de responsabilidad, honestidad y espíritu de servicio;
-
-III. Gestionar la consecución y aplicación de los recursos humanos, materiales y de servicios que sean necesarios para el cabal desarrollo de las funciones que se le tengan encomendadas;
-
-IV. Establecer los criterios para zonificar la ciudad de Villahermosa, estructurándola en áreas de trabajo, asignándoles los elementos humanos y materiales indispensables para el cumplimiento de las actividades;
-
-V. Supervisar que se cumplan las funciones encomendadas a las áreas operativas, relacionadas con el control de la vialidad en las vías de comunicación del municipio de Centro que no sean de competencia federal;
-
-VI. Supervisar que se aplique correctamente el Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco durante el servicio de vigilancia y control de la vialidad a los conductores de vehículos automotores, que transiten en las carreteras y vías de comunicación estatal del municipio el Centro;
-
-VII. Coordinar y supervisar el establecimiento de medidas de seguridad vial para prevenir accidentes de tránsito;
-
-VIII. Atender las inconformidades de los conductores o de aquellas personas a quienes no se les ha brindado un buen servicio;
-
-IX. Verificar que los elementos de seguridad pública cumplan con las normas establecidas y, en su caso, sancionarlos administrativamente o, en su defecto, canalizarlos a las autoridades correspondientes, cuando incurran en las faltas al cumplimiento de sus funciones durante su jornada de labores;
-
-X. Implementar y coordinar operativos viales en eventos múltiples realizados en el municipio de Centro, que permitan regular el tráfico vehicular de manera eficiente;
-
-XI. Someter a consideración del Director General los cambios de mandos en las áreas operativas;
-
-XII. Supervisar los dispositivos de seguridad vial que tengan que llevarse a cabo cuando realicen actos de relevancia social, deportivos y cívicos;
-
-XIII. Coordinar las campañas para detectar y detener unidades automotrices que circulen en las vías públicas en malas condiciones;
-
-XIV. Verificar se haga la distribución del personal operativo dando prioridad a las áreas donde exista mayor saturación en la circulación;
-
-XV. Solicitar a la Dirección de Ingeniería de Tránsito y Educación Vial, la elaboración de estudios y proyectos que permitan regular y vigilar específicamente el tránsito vehicular y peatonal en el municipio el Centro, principalmente en las zonas urbanas y conurbanas de la Ciudad de Villahermosa;
-
-XVI. Implementar medidas que limiten y restrinjan el tránsito vehicular en la vía pública, con el fin de mejorar la vialidad, preservar el medio ambiente, el orden público y la integridad de las personas;
-
-XVII. Someter a consideración del Director General, los programas de reordenamiento vial, atendiendo los índices de crecimiento urbano y suburbano del municipio de Centro;
-
-XVIII. Coordinar las verificaciones físicas, el peritaje y avalúo de daños materiales ocasionados por accidentes de unidades motrices, en las vías públicas de competencia estatal;
-
-XIX. Autorizar que las unidades motrices al ingresar o egresar de los depósitos vehiculares (retenes), lo hagan de acuerdo a los mecanismos administrativos establecidos;
-
-XX. Garantizar que las unidades que ingresen a los depósitos de vehículos (retenes), sean entregadas a sus propietarios, previo pago de la infracción, en las mismas condiciones en que ingresaron;
-
-XXI. Elaborar programa de modernización de los equipos de radio-comunicación, armamento y vehículos en coordinación con la Dirección Regional y la Unidad Administrativa y de Planeación;
-
-XXII. Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás disposiciones emitidas por la superioridad, con la finalidad de mejorar las funciones asignadas;
-
-XXIII. Vigilar que el sistema de radiocomunicación y equipo de radiopatrullas se mantengan permanente (sic) en operatividad;
-
-XXIV. Participar en las reuniones de trabajo con la Subsecretaría de Administración de la Secretaría de Administración y Finanzas para solicitar los tipos de uniformes, grados y divisas que utilizan el personal operativo en la realización de sus funciones, en coordinación con las (sic) Dirección Regional y la Unidad Administrativa y de Planeación;
-
-XXV. Definir y establecer el reglamento de sanciones disciplinarias administrativas que norman la actividad laboral del personal operativo;
-
-XXVI. Elaborar el programa de capacitación laboral que permita la profesionalización de los cuerpos policiales y el establecimiento de un sistema escalafonario;
-
-XXVII. Generar informes que permitan elaborar una base de datos estadísticos relacionados con las actividades que se lleven a cabo;
-
-XXVIII. Autorizar documentos internos de la competencia de la Unidad;
-
-XXIX. Mantener permanentemente informado al Director General;
-
-XXX. Participar en reuniones de trabajo ordinarias y extraordinarias que convoque la superioridad; y
-
-XXXI. Las demás que le confieran las disposiciones legales aplicables o le asigne el Director General.
+(DEROGADO, P.O. 7 DE ABRIL DE 2010)
 
 ###### Artículo 70.
 
-Corresponde a la Dirección Regional, el ejercicio de las siguientes funciones:
-
-I. Elaborar y presentar al Director General el programa de trabajo anual que deberán realizar las delegaciones y/o destacamentos en los municipios del Estado;
-
-II. Dirigir los servicios que brindan las delegaciones y destacamentos en el Estado, mediante la implementación de un programa de visitas permanente;
-
-III. Implementar los mecanismos de control y evaluación para medir el desempeño de las funciones que se realizan en las delegaciones y/o destacamentos;
-
-IV. Elaborar diagnósticos de control vehicular para estructurar las zonas con mayor fluidez vehicular en la jurisdicción de cada una de las delegaciones y/o destacamentos;
-
-V. Gestionar la consecución y aplicación de los recursos que sean necesarios para el cabal desarrollo de las funciones de las delegaciones y/o destacamentos;
-
-VI. Solicitar el apoyo del Departamento de Ingeniería de Tránsito para que realicen los estudios correspondientes a efectos de regular con eficiencia las actividades de control de la vialidad en las delegaciones y/o destacamentos;
-
-VII. Solicitar la autorización a la Dirección General la aplicación de los programas de reordenamiento vial que presenten los titulares de las delegaciones y/o destacamentos, atendiendo los índices de crecimiento urbano y suburbano de los municipios;
-
-VIII. Supervisar el aprovechamiento y utilización de los recursos humanos, técnicos, financieros y materiales asignados;
-
-IX. Supervisar la aplicación correcta de la Ley General de Tránsito y Vialidad del Estado de Tabasco y su Reglamento, a los conductores de vehículos automotores, de tracción humana y tracción animal, en las vías de comunicación de jurisdicción estatal;
-
-X. Solicitar el apoyo del Departamento de Ingeniería de Tránsito para que lleven a cabo los estudios correspondientes a efecto de regular con eficiencia las actividades de control vehicular en las vías de jurisdicción estatal;
-
-XI. Autorizar, previo acuerdo del Director General, los programas de reordenamiento vial que presenten los titulares de las delegaciones y destacamentos, atendiendo los problemas que se presenten en las carreteras de jurisdicción estatal;
-
-XII. Elaborar el programa de modernización de los equipos de radiocomunicación, armamento y vehículos en coordinación con la Unidad Administrativa y de Planeación;
-
-XIII. Mantener actualizados los archivos y expedientes de las delegaciones y/o destacamentos;
-
-XIV. Rendir informe diario, semanal y mensual a la superioridad de las actividades desarrolladas;
-
-XV. Definir los tipos de uniforme, grados, pertrechos y divisas que utiliza el personal operativo en coordinación con la Unidad Administrativa y de Planeación;
-
-XVI. Definir y establecer en coordinación con la Dirección de Servicios Operativos, el Reglamento Interno y de Sanciones Disciplinarias Administrativas, que norman la conducta del personal;
-
-XVII. Participar coordinadamente con las autoridades municipales, estatales y/o federales en campañas, operativos en los cuales sea necesaria la presencia de la Policía Estatal de Caminos;
-
-XVIII. Proponer en coordinación con la Unidad Administrativa y de Planeación las normas para las características de las unidades radiopatrullas asignadas;
-
-XIX. Solicitar el apoyo de la Unidad Administrativa y de Planeación para que periódicamente se realicen visitas a las delegaciones y destacamentos, sin necesidad de que previamente sea avisadas, a efecto de evaluar administrativa y operativamente la calidad del servicio que se brinda la ciudadanía;
-
-XX. Implementar las medidas necesarias para solucionar las deficiencias detectadas durante las visitas referidas en la fracción anterior;
-
-XXI. Realizar los actos protocolarios de rotación o cambio de titulares en las delegaciones y/o destacamentos por necesidades del servicio o por acuerdo del Director General, previo análisis del puesto y perfil del prospecto;
-
-XXII. Rendir informe diario, semanal y mensual a la superioridad de las actividades desarrolladas;
-
-XXIII. Autorizar documentos internos que sean competencia de la Dirección Regional;
-
-XXIV. Mantener informado al Director General de eventos importantes y relevantes de los cuales se tenga conocimiento en el Estado;
-
-XXV. Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás disposiciones emitidas por el Director General y sanciones contempladas en el Reglamento interno;
-
-XXVI. Participar en reuniones de trabajo ordinarias y extraordinarias a las cuales convoque la superioridad; y
-
-XXVII. Las demás que le confieran las disposiciones legales aplicables o le asigne el Director General.
+(DEROGADO, P.O. 7 DE ABRIL DE 2010)
 
 ###### Artículo 71.
 
-Corresponde a la Dirección de Ingeniería de Tránsito y Educación Vial, el ejercicio de las siguientes funciones:
-
-I. Colaborar con las dependencias de la Administración Pública Estatal y de los municipios, en la planeación, organización y elaboración de estudios viales, a través de la investigación técnica, proyectos geométricos, impactos viales, reestructuración urbana, investigación humanística.
-
-II. Desarrollar, con base en los estudios a los que se refiere la fracción anterior, programas en obras viales y cursos de capacitación que vinculen y sensibilicen a la ciudadanía en materia de seguridad vial;
-
-III. Realizar y dirigir proyectos de señalización para el mejoramiento del sistema vial urbano;
-
-IV. Emitir opiniones y diagnósticos respecto a los proyectos de vialidad originales en dependencias estatales, municipales e incluso por empresas consultoras apegados a la ingeniería de tránsito y vialidad;
-
-V. Establecer coordinación con la Dirección General de Transportes para ubicación y reubicación de paradas y terminales de transporte público;
-
-VI. Colaborar con las Secretarías de Comunicaciones y Transportes y de Asentamientos y Obras Publicas, así como, con la Administración Pública Municipal en acciones de la ingeniería vial, caminos y vialidades de jurisdicción estatal, al igual que con las dependencias de gobierno que sean necesarias;
-
-VII. Brindar asesoría y apoyo a la Administración Pública Municipal en acciones de la ingeniería vial, caminos y vialidades de jurisdicción estatal;
-
-VIII. Participar en proyectos y control de estacionamientos públicos y privado, emitir opiniones con base en la normatividad sobre estudios de impacto vial que presentan los nuevos desarrollos de la ciudad sean comerciales, industriales, habitacionales, etc.;
-
-IX. Dar informes estadísticos sobre los accidentes de tránsito en cruceros y avenidas principales, con motivos, causas y frecuencias;
-
-X. Establecer la coordinación necesaria para impartir cursos de capacitación, aplicar programas de educación y seguridad vial, minimizando accidentes a través de la educación, con instructores, promotoras y operativos de servicios en la vía pública;
-
-XI. Impartir la educación vial a todos los niveles escolares;
-
-XII. Elaborar estudios y proyectos de origen y destino, capacidad vial y peatonal para diagnosticar las necesidades recurrentes;
-
-XIII. Organizar anualmente la Semana Nacional de Educación Vial;
-
-XIV. Impartir clases de educación vial en los centros escolares, en parques públicos, centros recreativos y otros;
-
-XV. Capacitar en educación vial a conductores que soliciten licencia para conducir;
-
-XVI. Brindar asesoría médica y psicológica a conductores que soliciten licencia para conducir;
-
-XVII. Supervisar que se mantengan en óptimas condiciones de funcionalidad los señalamientos viales y equipos semafóricos utilizados en la regularización y control del tránsito vehicular;
-
-XVIII. Autorizar los lineamientos para el establecimiento de estacionamientos en la vía pública, sin que se alteren las disposiciones de otros ordenamientos;
-
-XIX. Realizar campañas permanentes de educación vial y seguridad operativa con promotoras viales en actos cívicos, eventos festivos, así como, entradas y salida de escolares; y
-
-XX. Las demás que le confieran las disposiciones legales aplicables o le asigne el Director General.
+(DEROGADO, P.O. 7 DE ABRIL DE 2010)
 
 ###### Artículo 72.
 
-Corresponde a la Dirección de Servicios al Público, el ejercicio de las siguientes funciones:
-
-I. Rendir informes periódicos a su inmediato superior jerárquico de las actividades desarrolladas por la Unidad a su cargo;
-
-II. Elaborar y proponer los proyectos de presupuesto y programas de la Unidad a su cargo, así como gestionar la aplicación de los recursos que sean necesarios para el cabal desarrollo de las tareas que tenga encomendadas;
-
-III. Proponer al personal de la Unidad a su cargo, conceder permisos, licencias y llevar el control de los recursos humanos y materiales;
-
-IV. Vigilar que se cumpla con lo dispuesto por la Ley General de Tránsito y Vialidad del Estado de Tabasco, el Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco, Ley de Hacienda del Estado de Tabasco, Ley de Ingresos del Estado de Tabasco del año fiscal respectivo, Ley de Transportes para el Estado de Tabasco y su Reglamento, Ley de Impuesto sobre Tenencia y Uso de Vehículos, así como los demás ordenamientos relativos a las funciones propias de la Dirección;
-
-V. Proporcionar al Departamento de Estadística de la Dirección Administrativa la información oportuna para la integración de datos estadísticos de los diversos conceptos emanados del Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco relacionados con la naturaleza de las funciones de la Dirección;
-
-VI. Proponer los programas de capacitación y evaluación del personal de la Dirección;
-
-VII. Revisar, analizar y verificar la autenticidad de los documentos que acrediten la propiedad de los vehículos automotores o la posesión pública y pacífica de los mismos, en aquellos casos en los que se detecten irregularidades en las formalidades de registro y control a efecto de determinar por la superioridad la viabilidad del trámite respectivo o, en su caso, se ordene la regularización respectiva;
-
-VIII. Registrar, tramitar y dar seguimiento de solicitudes de expedición de certificaciones de documentos que se resguardan en el Archivo General de la Dirección Administrativa, para su atención y resolución mediante acuerdos administrativos;
-
-IX. Elaborar acuerdos para la suspensión temporal y/o definitiva de licencias o permisos de conducir vehículos cuando se encuentren en alguna de las causales previstas por el Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco;
-
-X. Proporcionar información solicitada por la Unidad de Asuntos Jurídicos sobre vehículos, licencias o infracciones;
-
-XI. Supervisar que los servidores públicos en el cumplimiento de sus obligaciones y de atención al público, se desempeñen con legalidad, honradez, lealtad, imparcialidad y eficiencia en las áreas a su cargo o comisión;
-
-XII. Atender la demanda ciudadana por delegación de la Dirección General de la Policía Estatal de Caminos, informando oportunamente de los asuntos en trámite, y de los acuerdos emitidos en respuesta a las necesidades planteadas por el usuario;
-
-XIII. Llevar el control de los recursos y materiales asignados, asimismo, conceder permisos, licencias y otros beneficios laborales;
-
-XIV. Hacer cumplir las normas establecidas en cuanto a la aplicación de sanciones administrativas al personal, cuando incurran las (sic) faltas al deber;
-
-XV. Informar adecuadamente y con cortesía a la ciudadanía que va a efectuar, ante esa o cualquier otra dirección, los diferentes trámites como son licencias y permisos de manejo, emplacamiento y/o cualquiera que modifique el registro de una unidad en el padrón vehicular;
-
-XVI. Mantener coordinación con la Unidad Administrativa y de Planeación a efecto de mantener actualizado el padrón de vehículos del servicio particular, licencias de conducir y control de infracciones;
-
-XVII. Mantener coordinación con la Dirección Regional para establecer los mecanismos de colaboración y programas administrativos en las Delegaciones y Destacamentos de Tránsito en materia de trámites y servicios de atención al público; y
-
-XVIII. Las demás que le confieran las disposiciones legales aplicables o le asigne el Director General.
+(DEROGADO, P.O. 7 DE ABRIL DE 2010)
 
 ###### Artículo 73.
 
-Corresponde a la Unidad de Asuntos Jurídicos, el ejercicio de las siguientes funciones:
-
-I. Brindar asesoría jurídica al Director General, en las diligencias en que participa como representante de la corporación;
-
-II. Establecer estrecha coordinación con las demás áreas de la Dirección General para responder con eficiencia a las demandas del servicio;
-
-III. Acordar con el Director General las políticas de actuación e intervención en siniestros viales y demás asuntos de su competencia;
-
-IV. Dar cumplimiento a las órdenes de autoridades correspondientes, para la devolución de vehículos embargados o robados;
-
-V. Elaborar las notificaciones a quién corresponda, cuando por accidentes de tránsito terrestre, resulten dañados bienes propiedad de la Nación, del Estado o bienes municipales; para que éstas a su vez formulen las reclamaciones correspondientes o manifiesten lo que a su derecho convenga;
-
-VI. Elaborar el informe correspondiente a la Secretaría de Contraloría del Estado y la Subsecretaría de Administración de la Secretaría de Administración y Finanzas de todos los accidentes en que se encuentren involucrados vehículos propiedad del Gobierno del Estado;
-
-VII. Contestar en tiempo y forma los informes requeridos por las autoridades judiciales y ministeriales;
-
-VIII. Elaborar y remitir los informes en los juicios de amparo y contenciosos administrativos, que competan a la Dirección General, así también ofrecer pruebas, formular alegatos, interponer toda clase de recursos, y en general vigilar y atender su tramitación;
-
-IX. Intervenir en todos los asuntos legales donde se involucren a la Dirección General, y a sus elementos, cuando estén o actúen en el cumplimiento de su deber;
-
-X. Vigilar en estricto cumplimiento a las leyes, y reglamentos y demás ordenamientos jurídicos, así como de acuerdos y disposiciones de carácter obligatorio, por parte de cada una de las áreas de la Dirección General;
-
-XI. Custodiar y resguardar la documentación e información que por sus funciones conserve bajo su cuidado, vigilando el uso e impidiendo la sustracción, alteración, destrucción y ocultamiento, así como la utilización indebida de los mismos;
-
-XII. Mantener informado a la superioridad de todos los asuntos que se conozcan en el área a su cargo;
-
-XIII. Proponer a la superioridad para su autorización, el calendario de guardias del personal que por las funciones propias de la Unidad, deberán laborar los sábados, domingos y días festivos;
-
-XIV. Proponer a la superioridad, políticas, medidas y procedimientos para eficientar las acciones de trabajo del área bajo el cargo;
-
-XV. Cumplir y hacer cumplir al personal, los acuerdos, órdenes, circulares y demás disposiciones que emita la Unidad Administrativa y de Planeación;
-
-XVI. Establecer previo acuerdo con la superioridad las normas disciplinarias que deben acatar el personal y, vigilar que observen buena conducta en el desempeño de su cargo, empleo o comisión, actuando con entera imparcialidad, discreción y rectitud en el mismo;
-
-XVII. Hacer cumplir las normas establecidas en cuanto a la aplicación de sanciones administrativas al personal a su cargo, cuando incurran en faltas al deber;
-
-XVIII. Rendir informe diario y semanal a la superioridad de las actividades desarrolladas;
-
-XIX. Participar en las reuniones ordinarias y extraordinarias que la superioridad determine; y
-
-XX. Las demás que le confieran las disposiciones legales aplicables o le asigne el Director General.
+(DEROGADO, P.O. 7 DE ABRIL DE 2010)
 
 ###### Artículo 74.
 
-Corresponde a la Unidad Administrativa y de Planeación, el ejercicio de las siguientes funciones:
-
-I. Coordinar la elaboración del programa anual de trabajo de la Dirección General acorde a las políticas y estrategias institucionales;
-
-II. Elaborar planes y programas que permitan la capacitación y el desarrollo de los recursos humanos, así como la optimización de los recursos financieros y materiales;
-
-III. Gestionar y comprobar ante la Dirección General de Administración, de la Secretaría de Gobierno los recursos que sean requeridos para el funcionamiento de la Dirección General;
-
-IV. Coordinar las actividades de entrega recepción de las unidades administrativas que integran la Dirección General y respaldar la información de manera trimestral, e informar de ello al titular de la referida Dirección General; así como, a la Dirección General de Administración, de la Secretaría;
-
-V. Planear, coordinar, fundamentar e integrar la información mensual de los asuntos de trámite de atención a la ciudadanía e informar al titular de la Dirección General; así como, a la Dirección General de Administración de la Secretaría;
-
-VI. Elaborar el anteproyecto del presupuesto de egresos de la Dirección General acorde a los lineamiento establecidos por la Secretaría de Administración y Finanzas;
-
-VII. Colaborar en la modernización administrativa de las áreas que integran la Dirección General con la finalidad de que se puedan brindar servicios con calidad, eficiencia y honestidad, principalmente en aquellas que brindan un servicio al público;
-
-VIII. Establecer estrategias que permiten controlar y supervisar que la administración de los recursos autorizados, a través del Presupuesto General de Egresos, se lleve a cabo de manera eficiente, racional y oportuna;
-
-IX. Supervisar que las normas y lineamientos para el reclutamiento, selección y contratación de personal, sean acordes a las necesidades de la corporación, y a las emitidas por la Secretaria de Administración y Finanzas;
-
-X. Ofrecer asesoría, al personal adscrito a la Dirección General y a sus familiares, en materia de trámites para las prestaciones sociales a que tenga derecho;
-
-XI. Coordinarse con los titulares de las Unidades de la Dirección General para establecer criterios con la finalidad de proporcionar los recursos y servicios que requieran para el cumplimiento de sus funciones;
-
-XII. Almacenar y autorizar el suministro del material y equipo de oficina a las áreas solicitantes, de acuerdo a los criterios de racionalización;
-
-XIII. Controlar y resguardar la asignación del mobiliario y equipo de oficina, así como de otros bienes;
-
-XIV. Establecer lineamientos para las altas y bajas de los activos asignados a las diversas áreas que integran la Dirección General;
-
-XV. Coordinar la logística para la realización de eventos;
-
-XVI. Proponer los convenios para la prestación de servicio social en la Dirección General;
-
-XVII. Elaborar el programa de mantenimiento a instalaciones, equipos y parque vehicular;
-
-XVIII. Coordinar la elaboración de informes estadísticos mensuales y anuales de las acciones realizadas por las diferentes Unidades que integran la Dirección General;
-
-XIX. Elaborar y/o actualizar los manuales administrativos de organización y procedimientos de la Dirección General;
-
-XX. Elaborar diagnósticos organizacionales con el propósito de detectar fallas, carencias e irregularidades que obstaculicen el buen funcionamiento de las diferentes áreas de la Dirección General;
-
-XXI. Supervisar que los servicios médicos se brinden con oportunidad y eficiencia, de acuerdo a la normatividad establecida;
-
-XXII. Supervisar que los servicios de mantenimiento preventivo y correctivo que otorgue el taller mecánico de la Dirección General a los vehículos de la corporación, se hagan de acuerdo a los procedimientos autorizados;
-
-XXIII. Coordinar la elaboración de los Proyectos Anuales de Inversión de la Dirección General;
-
-XXIV. Supervisar que los pagos ordinarios, extraordinarios y complementarios que se haga al personal de la Dirección General se realicen de acuerdo a las normas administrativas establecidas;
-
-XXV. Dar respuesta a las peticiones de información relacionada con los recursos humanos, materiales y datos estadísticos relacionados con accidentes de tránsito que sean solicitadas por las dependencias federales, estatales y municipales;
-
-XXVI. Atender a las peticiones del personal en materia de relaciones laborales;
-
-XXVII. Garantizar el resguardo de los documentos oficiales relacionados con las expediciones de licencias, emplacamientos, infracciones, refrendos, y otros documentos propios de los servicios que se brindan al público;
-
-XXVIII. Coordinar el montaje del stand de la Dirección General en la feria anual, en donde se exponen las actividades realizadas;
-
-XXIX. Organizar los eventos conmemorativos sociales que propicien la integración del personal de la Dirección General;
-
-XXX. Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás disposiciones emitidas por la superioridad, con la finalidad de mejorar el servicio;
-
-XXXI. Mantener oportuna y permanentemente informado al Director General de los recursos y los bienes con que cuentan la Dirección General;
-
-XXXII. Participar en reuniones de trabajo ordinarias y extraordinarias que convoque la Dirección General; y
-
-XXXIII. Las demás que le confieran las disposiciones legales aplicables o le asigne el Director General.
+(DEROGADO, P.O. 7 DE ABRIL DE 2010)
 
 ###### Artículo 75.
 
-A la Coordinación de Asesores le corresponde el ejercicio de las siguientes funciones:
-
-I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones correspondientes a la Coordinación de Asesores;
-
-II. Contribuir al proceso de toma de decisiones del Director General a través del estudio e identificación de los problemas específicos de las unidades administrativas;
-
-III. Revisar los proyectos necesarios de acuerdo a las instrucciones del Director General;
-
-IV. Diseñar, implementar y mantener un sistema de información ágil y oportuno al Director General sobre el desarrollo y avance de los programas de la Dirección General;
-
-V. Coordinar las acciones de las unidades administrativas, en cuanto al apoyo al Director General en sus presentaciones públicas;
-
-VI. Proponer al Director General mecanismos técnicos que permitan elevar los niveles de eficiencia en la administración y aplicación de los recursos de la Dirección General;
-
-VII. Apoyar a las demás unidades administrativas de la Dirección General en la elaboración de trabajos especiales;
-
-VIII. Elaborar los estudios que en materia de tránsito y vialidad, solicite el Director General;
-
-IX. Informar periódicamente al Director General, sobre las funciones realizadas por la Coordinación de Asesores; y
-
-X. Las demás que le confieran las disposiciones legales aplicables o le asigne el Director General.
+(DEROGADO, P.O. 7 DE ABRIL DE 2010)
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DE LA DEFENSORÍA DE OFICIO
 
@@ -2326,3 +1904,9 @@ N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 P.O. 24 DE ENERO DE 2009.
 
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE ABRIL DE 2010.
+
+PRIMERO.- El presente acuerdo entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El personal, los activos patrimoniales constituidos por los muebles e inmuebles y en general, los pasivos y obligaciones que tuviese la Dirección General de la Policía Estatal de Caminos, se incorporarán a la Secretaría de Seguridad Pública.
