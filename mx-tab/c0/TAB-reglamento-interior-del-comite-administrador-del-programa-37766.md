@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-comite-administrador-del-programa-37766
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-14"
-last_updated: "2004-02-14"
+last_updated: "2010-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL COMITE ADMINISTRADOR DEL PROGRAMA ESTATAL DE CONSTRUCCION DE ESCUELAS (CAPECE)
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE LA INFRAESTRUCTURA FISICA EDUCATIVA (ITIFE), PUBLICADO EN EL SUPLEMENTO E DEL P.O. DE 7 DE ABRIL DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 14 de febrero de 2004.
 
@@ -520,3 +522,23 @@ SECRETARIO DE GOBIERNO
 ARQ. JESÚS TAPIA MAYANS
 
 SECRETARIO DE COMUNICACIONES, ASENTAMIENTOS Y OBRAS PÚBLICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE ABRIL DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Comité Administrador del Programa Estatal de Construcción de Escuelas (CAPECE), publicado en el Suplemento B 6411 al Periódico Oficial de fecha 14 de febrero de 2004, así como las demás disposiciones de igual rango, que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los Manuales de Organización y Procedimientos serán expedidos en un plazo no mayor a noventa días hábiles, posteriores a la expedición del presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Los casos no previstos en el presente Reglamento serán resueltos por el Director General.
