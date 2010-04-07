@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2009-10-10"
+last_updated: "2010-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2010.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -788,6 +788,12 @@ I.- Las salas serán colegiadas, integradas por tres magistrados, para conocer d
 II.- El recurso de casación podrá ser conocido por magistrados que hubieren intervenido en el mismo asunto en apelación y el recurso de revisión por magistrados que hubieren intervenido en el mismo asunto en apelación o casación.
 
 III.- Las salas especializadas para adolescentes infractores siempre serán unitarias y conocerán de los recursos de apelación, casación y revisión, los que, aunque atañan a un mismo proceso, pueden resolverse por una misma sala.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2010)</small>
+
+En materia de extinción de dominio:
+
+I. Las salas serán colegiadas, integradas por tres magistrados civiles, para conocer de los recursos de apelación y de revisión, en los términos de la Ley de la materia.
 
 ###### ARTICULO 60.
 
@@ -2025,15 +2031,15 @@ En asuntos de su competencia y cuando su mejor despacho lo requiera, podrán los
 
 ARTICULO 149 BIS.- Los tribunales de juicio en materia penal se integrarán siempre colegiadamente con tres jueces; y con uno, los de juicio especial para adolescentes infractores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 150.
 
-Corresponde a los jueces de primera instancia de acuerdo a su ramo y a los especializados para adolescentes infractores:
+Corresponde a los jueces de primera instancia de acuerdo a su ramo:
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2010)</small>
 
-I.- Conocer de los asuntos civiles, familiares, penales o los relativos a adolescentes infractores que no estén expresamente encomendados a otra autoridad judicial y los que en forma explícita les señalen las leyes;
+I.- Conocer de los asuntos civiles, familiares, penales o de extinción de dominio, que no estén expresamente encomendados a otra autoridad judicial y los que en forma explícita les señalen las leyes;
 
 II.- (DEROGADA, P.O. 9 DE AGOSTO DE 2006)
 
@@ -2116,6 +2122,10 @@ IV. Las demás que les otorgue la ley.
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2006)</small>
 
 Los jueces integrantes de los Tribunales de Juicio Oral en materia Penal ejercerán la función de Jueces de Ejecución de Penas en el Estado, dentro del Distrito Judicial correspondiente, con la posibilidad de prorrogar su jurisdicción a otros distritos, de conformidad con las disposiciones generales que el Supremo Tribunal de Justicia del Estado dicte, en los términos de las facultades otorgadas al Pleno en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2010)</small>
+
+ARTICULO 150 CUATER (SIC).- Los Tribunales de Extinción de Dominio conocerán de la acción de extinción de dominio, en los términos de la Ley de la materia.
 
 ###### ARTICULO 151.
 
@@ -3328,3 +3338,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 10 DE OCTUBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE ABRIL DE 2010.
+
+PRIMERO.- El presente Artículo Segundo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Pleno del Supremo Tribunal de Justicia del Estado, con fundamento en lo dispuesto por el artículo 50 de la Ley Orgánica del Poder Judicial, realizará el nombramiento y adscripción de los jueces especializados que integrarán el o los Tribunales de Extinción de Dominio, previo a la entrada en vigor de la Ley de Extinción de Dominio. El Supremo Tribunal de Justicia podrá adscribir a jueces civiles de primera instancia en dichos Tribunales, hasta que se capaciten y nombren a los especializados.
+
+La organización y funcionamiento de los Tribunales de Extinción de Dominio, así como para las Salas Colegiadas que conozcan de la materia en alzada, se regirá por los acuerdos generales que al efecto dicte el Supremo Tribunal de Justicia.
