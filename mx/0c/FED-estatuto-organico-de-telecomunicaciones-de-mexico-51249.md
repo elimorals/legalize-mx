@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-telecomunicaciones-de-mexico-51249"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-08-14"
-last_updated: "2008-11-12"
+last_updated: "2010-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-06"
 
 ESTATUTO ORGANICO DE TELECOMUNICACIONES DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ABRIL DE 2010.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de agosto de 2006.
 
@@ -313,7 +313,9 @@ Corresponde a la Dirección de Asuntos Jurídicos:
 
 I. Las funciones de representación legal del Organismo ante autoridades administrativas o judiciales, federales o estatales en procedimientos legales, emitir dictámenes sobre actos jurídicos que afecten directa o indirectamente al patrimonio de la entidad, así como realizar todo tipo de promociones legales y asesorar a las áreas del Organismo en materia jurídica;
 
-II. Asesorar jurídicamente al Organismo, actuar como órgano de consulta, fijar, sistematizar, compilar y difundir los criterios de interpretación y aplicación de las disposiciones jurídicas de la competencia del Organismo y vigilar su observancia;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2010)</small>
+
+II. Asesorar jurídicamente al Organismo, actuar como órgano de consulta y difundir los criterios de interpretación emitidos por las dependencias de la Administración Pública Federal competentes, a las unidades administrativas del Organismo;
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
 
@@ -325,7 +327,9 @@ IV. Representar al organismo en los asuntos administrativos o judiciales contenc
 
 V. Formular e instrumentar informes, interponer recursos y promover amparos y demás trámites procedimentales conducentes en los juicios en que el Organismo sea parte, así como llevar su registro;
 
-VI. Resolver las consultas jurídicas que formulen las áreas del Organismo, otras dependencias o entidades de la Administración Pública Federal, Estatal o Municipal, así como las que efectúen los particulares;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2010)</small>
+
+VI. Resolver las consultas jurídicas en el ámbito de su competencia, que formulen las unidades administrativas del organismo;
 
 VII. Dictaminar cuando lo solicite la Dirección de Administración de Recursos Humanos, la procedencia de las sanciones laborales, cuando exista plena responsabilidad de los trabajadores;
 
@@ -335,9 +339,9 @@ IX. Dictaminar cuando le solicite la Dirección de Finanzas y Administración, r
 
 X. Aprobar el contenido de las garantías que constituyan los usuarios de los servicios a favor del Organismo, así como los proveedores y contratistas en materia de adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles y obras públicas, respectivamente;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2010)</small>
 
-XI. Formular los anteproyectos de leyes, reglamentos, decretos, acuerdos y demás disposiciones en materia de telecomunicaciones, así como sus reformas necesarias, proponiéndolas al Director General para su aprobación por la Secretaría de Comunicaciones y Transportes, en su carácter de Coordinadora del Sector, así como formular las disposiciones jurídico administrativas necesarias para el mejor funcionamiento del organismo;
+XI. Formular los proyectos de leyes, reglamentos, decretos, acuerdos y demás disposiciones que se relacionen con los servicios que presta el Organismo, así como sus reformas necesarias, proponiéndolas al Director General para su aprobación por la Secretaría de Comunicaciones y Transportes, en su carácter de Coordinadora del Sector, así como formular las disposiciones jurídico administrativas necesarias para el mejor funcionamiento del Organismo;
 
 XII. Realizar los trámites necesarios para la regularización de los inmuebles que ocupa el Organismo, e intervenir dentro de su ámbito de competencia en la adquisición, arrendamiento y enajenación de los mismos;
 
@@ -385,7 +389,13 @@ IX. Coordinar con las unidades administrativas la implantación de métodos y pr
 
 X. Integrar y dar seguimiento al programa de modernización administrativa;
 
-XI. Participar en el análisis de los acuerdos internacionales en los que deba participar el Organismo en materia satelital y en la coordinación internacional de frecuencias y posiciones orbitales para su uso satelital;
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2010)</small>
+
+XBis (sic). Dirigir, coordinar y supervisar las acciones en materia de transparencia y acceso a la información pública gubernamental, de conformidad con las disposiciones legales en la materia y con las directrices que señale el Comité de Información del Organismo;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2010)</small>
+
+XI. Participar en el análisis de los acuerdos internacionales de competencia del Organismo;
 
 XII. Apoyar a la Dirección General, en la elaboración del informe a la Junta Directiva, los de autoevaluación y los que requiera el Organo de Gobierno;
 
@@ -923,7 +933,9 @@ XIV. Administrar y desarrollar tecnología especializada para la investigación 
 
 XV. Establecer un registro que recopile, sistematice y mantenga actualizada la información de los servidores públicos que manejan valores e información estratégica y privilegiada, así como de los actos delictivos perpetrados en contra de dichos servidores públicos; robos y asaltos a las instalaciones y en los puntos temporales de los operativos para la prestación de los servicios que proporciona Telecomm;
 
-XVI. Realizar las acciones necesarias para la debida ejecución y seguimiento de las investigaciones que se realicen en Telecomm;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2010)</small>
+
+XVI. Realizar las acciones para la debida ejecución y seguimiento de las investigaciones que se realicen en el Organismo, incluyendo entre otras, el levantamiento de actas administrativas; así como la vigilancia de los bienes y personas;
 
 XVII. Informar al Director General, el resultado de las investigaciones, y
 
@@ -1086,6 +1098,12 @@ El Secretario de la Junta Directiva de Telecomunicaciones de México, certifica 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 12 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos pendientes de resolución a la entrada en vigor de este Acuerdo, se seguirán substanciando por las áreas administrativas que conforme a este ordenamiento les competa.
+
+D.O.F. 8 DE ABRIL DE 2010.
 
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
