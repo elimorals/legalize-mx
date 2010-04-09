@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-notimex-agencia-de-noticias-del-estado-711
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-12-21"
-last_updated: "2009-12-21"
+last_updated: "2010-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71179&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-12-03"
 
 ESTATUTO ORGANICO DE NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ABRIL DE 2010.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 21 de diciembre de 2009.
 
@@ -781,11 +781,23 @@ PRIMERO.- El presente Estatuto entrará en vigor el día siguiente de su publica
 
 SEGUNDO.- Se abroga el Estatuto Orgánico de Notimex, Agencia de Noticias del Estado Mexicano publicado en el Diario Oficial de la Federación el 1 de septiembre de 2008, así como su aclaración, publicada en el mismo órgano de difusión el día 26 del mismo mes y año.
 
-TERCERO.- Con la finalidad de que no se altere la continuidad de la operación de la Agencia, ésta contará con los recursos financieros, humanos y materiales asignados para ejercicios correspondientes, durante la etapa de transición, misma que se amplía hasta en tanto se cuente con el Dictamen Organizacional que expida la Secretaría de la Función Pública respecto del presente Estatuto y el Dictamen Presupuestal que emita la Secretaría de Hacienda y Crédito Público, referentes a la aprobación y registro de la estructura organizacional correspondiente.
+TERCERO.- (DEROGADO, D.O.F. 9 DE ABRIL DE 2010)
 
 CUARTO.- La denominación de las áreas de los dos niveles inferiores al de la Dirección General señaladas en este Estatuto Orgánico, así como en las referencias que se hagan en cualquier documento oficial, se entenderán hechas a las mismas como "En la etapa de transición" y surtirán los efectos jurídicos correspondientes propios del área y del cargo para los servidores públicos que las ocupen durante y hasta la terminación de la etapa de transición.
 
 QUINTO.- Los servidores públicos que ocupen cargos dentro de los dos niveles jerárquicos administrativos inferiores al del Director General, durante la duración etapa de transición, recibirán el nombramiento con el carácter y bajo la denominación de "Encargado del Despacho en la etapa de transición".
+
+> <small>(ADICIONADO, D.O.F. 9 DE ABRIL DE 2010)</small>
+
+SEXTO.- Con la finalidad de que no se altere la continuidad de la operación de la Agencia, ésta contará con los recursos financieros, humanos y materiales asignados para ejercicios correspondientes, durante la etapa de transición, misma que se amplía hasta en tanto se cuente con la autorización y registro de la estructura organizacional de la Agencia emitida en el ámbito de su competencia por la Secretaría de la Función Pública.
+
+> <small>(ADICIONADO, D.O.F. 9 DE ABRIL DE 2010)</small>
+
+SEPTIMO.- Una vez que concluya la Etapa de Transición, los servidores públicos que ocupen cargos dentro de los dos niveles jerárquicos administrativos inferiores al del Director General, ostentarán su nombramiento con el carácter y bajo la denominación de "Encargado del Despacho", hasta que la Junta de Gobierno, a propuesta del Director General, realice los nombramientos o revocaciones respectivos.
+
+> <small>(ADICIONADO, D.O.F. 9 DE ABRIL DE 2010)</small>
+
+OCTAVO.- Las modificaciones y adiciones realizadas al presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 APROBADO POR LA JUNTA DE GOBIERNO DE NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO EN SESION ORDINARIA DE FECHA 3 DE DICIEMBRE DE 2009.
 
@@ -796,3 +808,9 @@ El Director General de Notimex, Agencia de Noticias del Estado Mexicano
 Lic. Sergio Uzeta Murcio
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 9 DE ABRIL DE 2010.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
