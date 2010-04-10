@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2010-03-25"
+last_updated: "2010-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2010.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -1413,7 +1413,7 @@ I. Estar presentes en todas las sesiones que celebre el Congreso;
 
 II. Sólo por las causas enunciadas en la Ley Orgánica y en este Reglamento, los diputados podrán dejar de asistir a las sesiones que celebre el Congreso, y en tales casos, habrán de hacerlas del conocimiento del Presidente de la Directiva;
 
-III .Durante las sesiones plenarias, solicitar permiso al Presidente del Congreso o, en su caso, al Pleno, para poder salir del recinto legislativo;
+III. Durante las sesiones plenarias, solicitar permiso al Presidente del Congreso o, en su caso, al Pleno, para poder salir del recinto legislativo;
 
 IV. Guardar compostura durante las sesiones, y
 
@@ -1773,6 +1773,14 @@ III. Coordinarse con el Instituto de Investigaciones Legislativas, para la obten
 
 IV. Las demás que le asignen los presidentes de las comisiones, o le encomiende la coordinación, en relación con los dictámenes a su cargo.
 
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2010)</small>
+
+Para ser asesor de comisiones se requiere contar con título y cédula profesional legalmente expedidos; acreditar conocimientos en la materia que trate la comisión a la que se le asigne; y contar, preferentemente, con estudios de posgrado que solventen su especialidad.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2010)</small>
+
+En los criterios de selección de los asesores de comisiones, se observarán los principios de convocatoria pública y examen de oposición; procesos que deberán ser reglamentados por la Coordinación de Asesoría y Secretariado Técnico de Comisiones, y en los que la resolución final será pronunciada por la comisión a la que se asignará el asesor.
+
 ###### ARTICULO 190.
 
 A los secretarios técnicos corresponde, conforme a las instrucciones del presidente de la comisión respectiva:
@@ -1944,6 +1952,12 @@ PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en 
 SEGUNDO. La Junta de Coordinación Política contará con un plazo de noventa días, contados a partir de la vigencia de este Decreto, para presentar al Pleno, para su aprobación, una campana a escala de la de "Dolores Hidalgo", conforme a las características y materiales que la misma Junta disponga.
 
 P.O. 25 DE MARZO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 10 DE ABRIL DE 2010.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
