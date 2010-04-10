@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-profesiones-para-el-estado-de-chihuahua-11452"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "1997-12-27"
+last_updated: "2010-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -107,7 +107,9 @@ b).- Título o diploma de especialidad, a quien haya realizado estudios especial
 
 c).- Título de maestría, a quien haya concluido estudios de tipo superior posteriores a la licenciatura.
 
-d).- Título de doctorado, a quien haya terminado estudios de tipo superior, posteriores a la maestría.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2010)</small>
+
+d).- Título de doctorado, a quien haya terminado estudios de tipo superior, posteriores a la maestría o a la licenciatura, en su caso, de acuerdo a las disposiciones reglamentarias que para tal efecto expidan las instituciones educativas autorizadas.
 
 ###### ARTICULO 9.
 
@@ -1132,3 +1134,9 @@ C.P. FRANCISCO JAVIER BARRIO TERRAZAS.
 EL SECRETARIO DE GOBIERNO
 
 LIC. FRANCISCO HUGO GUTIERREZ DAVILA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE ABRIL DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
