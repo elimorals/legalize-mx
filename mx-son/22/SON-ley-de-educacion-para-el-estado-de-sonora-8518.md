@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2009-09-17"
+last_updated: "2010-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACION PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE ABRIL DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -192,6 +192,10 @@ Lo anterior considerando la opinión de los diversos sectores involucrados en la
 > <small>(ADICIONADA, B.O. 7 DE NOVIEMBRE DE 2005)</small>
 
 II Bis.- Coordinarse con la Secretaría de Salud para implementar programas que fomenten en los educandos el consumo de alimentos con alto valor nutricional, así como establecer lineamientos para evitar la venta o consumo de alimentos con bajo o nulo valor nutricional en las tiendas escolares y, en general, en los espacios donde se expende o consumen alimentos en las instituciones de nivel básico;
+
+> <small>(ADICIONADA, B.O. 12 DE ABRIL DE 2010)</small>
+
+II Bis A.- Coordinarse con las autoridades en materia de seguridad pública y salud del Estado, con los Municipios y las Sociedades de Padres de Familia, según corresponda, para implementar programas que proporcionen a los alumnos de educación básica, información veraz sobre los efectos nocivos de las drogas y la violencia, para que al conocer dicha información y sustentados en su propia inteligencia y voluntad, decidan mantenerse al margen de éstas, buscando con ello reducir y combatir el uso de alcohol, tabaco y otras drogas, así como los comportamientos violentos que pudieran derivarse de ellos;
 
 III.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, con respecto al calendario fijado por la Secretaría de Educación Pública;
 
@@ -976,3 +980,9 @@ Dentro de los noventa días siguientes a la fecha de entrada en vigor del presen
 ###### ARTÍCULO TERCERO.
 
 La Secretaría de Hacienda proveerá lo necesario a efecto de que en el presupuesto de egresos del siguiente ejercicio fiscal se contemplen los recursos necesarios para la promoción, implementación y operación de la acreditación internacional de conocimientos y habilidades competitivas, emprendedoras y humanistas.
+
+B.O. 12 DE ABRIL DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
