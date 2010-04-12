@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-defensoria-de-oficio-en-el-estado-de-12550"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1975-03-24"
-last_updated: "2006-09-25"
+last_updated: "2010-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY ORGANICA DE LA DEFENSORIA DE OFICIO EN EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGANICA DE LA DEFENSORIA PUBLICA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 12 DE ABRIL DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Hidalgo, el 24 de marzo de 1975.
 
@@ -326,3 +328,13 @@ CUARTO.- Las instituciones encargadas de la formulación de los agentes de las P
 QUINTO.- Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida, de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley, en todo aquello que les beneficie.
 
 SEXTO.- Al entrar en vigor esta Ley, se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE ABRIL DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Defensoría de Oficio del Estado de Hidalgo, Publicada en el Periódico Oficial del Estado con fecha 24 de marzo de 1975.
