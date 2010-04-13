@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2010-03-04"
+last_updated: "2010-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE ABRIL DE 2010.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -77,9 +77,9 @@ La soberanía estatal reside esencial y originariamente en el pueblo del Estado 
 
 En el Estado de México todos los individuos son iguales y tienen las libertades, derechos y garantías que la Constitución Federal, esta Constitución y las leyes del Estado establecen.
 
-> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 13 DE ABRIL DE 2010)</small>
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas. El Estado garantizará la vigencia del principio de igualdad, combatiendo toda clase de discriminación.
+Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas. El Estado garantizará la vigencia del principio de igualdad, combatiendo toda clase de discriminación.
 
 > <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1857,7 +1857,9 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 El Ejecutivo del Estado podrá convenir con los ayuntamientos la asunción de las funciones que originalmente le corresponden a aquél, la ejecución de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo hagan necesario.
 
-Los municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan.
+> <small>(REFORMADO, G.G. 13 DE ABRIL DE 2010)</small>
+
+Los municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, asimismo, podrán asociarse para concesionar los servicios públicos, de conformidad con las disposiciones jurídicas aplicables, prefiriéndose en igualdad de circunstancias a vecinos del municipio. Cuando trascienda el periodo constitucional del Ayuntamiento se requerirá autorización de la Legislatura del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -3108,3 +3110,29 @@ PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 13 DE ABRIL DE 2010.
+
+DECRETO No. 74, POR EL QUE SE REFORMA EL ARTICULO 126 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del plazo de ciento ochenta días naturales posteriores al de la entrada en vigor del presente Decreto, la Legislatura del Estado de México, deberá expedir y adecuar los ordenamientos jurídicos a que haya lugar.
+
+G.G. 13 DE ABRIL DE 2010.
+
+DECRETO No. 75, POR EL QUE SE REFORMA EL ARTICULO 5 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La Legislatura deberá realizar las adecuaciones necesarias a los ordenamientos jurídicos que corresponda, en un plazo no mayor a noventa días hábiles, contados a partir de la publicación del presente Decreto.
