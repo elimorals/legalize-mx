@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-10-2009-de-seis-de-octubre-de-dos-70461"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-10-20"
-last_updated: "2009-10-20"
+last_updated: "2010-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70461&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-10-06"
 
 ACUERDO GENERAL NUMERO 10/2009 DE SEIS DE OCTUBRE DE DOS MIL NUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ABRIL DE 2010.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 20 de octubre de 2009.
 
@@ -53,11 +53,17 @@ TERCERO. Por cada plaza de la Suprema Corte de Justicia de la Nación, la Direcc
 
 Los expedientes de las plazas deben contener los datos y documentos precisados en el respectivo Acuerdo General del Comité de Gobierno y Administración.
 
-CUARTO. Sólo podrán crearse plazas por el Pleno de la Suprema Corte de Justicia de la Nación a proposición del Comité de Gobierno y Administración tratándose de los órganos de la Suprema Corte de Justicia de la Nación diversos a sus Salas, o por la Ponencia respectiva, siempre y cuando existan recursos presupuestales para ello.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO, APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. EL 13 DE ABRIL DE 2010)</small>
 
-Las plazas de las Secretarías de Acuerdos de las Salas sólo podrán transformarse o crearse por el Pleno a propuesta de la Sala respectiva.
+CUARTO. Las plazas de la Suprema Corte de Justicia de la Nación sólo podrán crearse y/o transformarse por los Ministros Ponentes, por las Salas y por el Comité de Gobierno y Administración, conforme a lo siguiente:
 
-El Secretario General de Acuerdos, tratándose de los movimientos autorizados por el Pleno o el Coordinador de la Ponencia respectiva, en el caso de la creación o transformación autorizada por el Ministro Ponente que corresponda, deberán informar a la Dirección General de Personal el puesto y adscripción de las plazas de la Suprema Corte de Justicia de la Nación creadas o transformadas con el objeto de que ésta asigne el número progresivo que les corresponda.
+a) Las plazas de las Ponencias, por el Ministro Ponente;
+
+b) Las plazas de las Secretarías de Acuerdos de las Salas, por la Sala respectiva, y
+
+c) Las plazas de la Secretaría General de Acuerdos; de la Subsecretaría General de Acuerdos; de los Organos de apoyo administrativo; jurídicos de apoyo; de las Secretarías Ejecutivas; de la Contraloría, y de las Direcciones Generales, por el Comité de Gobierno y Administración, a propuesta de los titulares de aquéllos.
+
+Los Coordinadores de Ponencias, los Secretarios de Acuerdos de las Salas y el Oficial Mayor, deberán informar a la Dirección General de Personal los movimientos autorizados por el Ministro Ponente, por las Salas y por el Comité de Gobierno y Administración, respectivamente, a efecto de que se asigne el número progresivo que corresponda a las plazas creadas y/o transformadas.
 
 QUINTO. Por ningún motivo se podrán cubrir remuneraciones a servidores de base o de confianza que no ocupen una plaza expresamente creada por el Pleno o por las Ponencias de la Suprema Corte de Justicia de la Nación, o que no cuenten con un nombramiento otorgado en términos de lo señalado en el artículo 163 del Reglamento Interior de la Suprema Corte de Justicia de la Nación.
 
@@ -302,3 +308,11 @@ TOTAL DE PLAZAS PERMANENTES EN LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que el documento que antecede corresponde al ANEXO II del Acuerdo General Número 10/2009, DE SEIS DE OCTUBRE DE DOS MIL NUEVE, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, que fue emitido por el Tribunal Pleno en Sesión Privada celebrada el martes seis de octubre del presente año, por unanimidad de votos de los señores Ministros Presidente Guillermo I. Ortiz Mayagoitia, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.- México, Distrito Federal, a nueve de octubre de dos mil nueve.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia fotostática constante de sesenta fojas útiles concuerda fiel y exactamente con el original del ANEXO II del Acuerdo General Plenario 10/2009, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su difusión.- México, Distrito Federal, a quince de octubre de dos mil nueve.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 13 DE ABRIL DE 2010.
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 10/2009 en esos medios electrónicos.
