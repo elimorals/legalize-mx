@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2009-11-16"
+last_updated: "2010-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE ABRIL DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -237,9 +237,9 @@ Son prerrogativas de los diputados, además de las establecidas por los artícul
 
 I. Gozar de las licencias que le conceda el Pleno o la Permanente, en los términos de este Reglamento;
 
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, G.O. 14 DE ABRIL DE 2010)</small>
 
-II. Reasumir su cargo, previo aviso por escrito al Presidente, presentándolo por lo menos durante cuarenta y ocho horas antes de la celebración de la sesión en la que sea comunicado al Pleno o la Diputación Permanente, cesando sus funciones el suplente cinco días después de la sesión de referencia;
+II. Reasumir su cargo en el momento en que lo decidan, previo aviso por escrito al Presidente, quien lo comunicará de inmediato al suplente, en su caso, para que éste cese en sus funciones al recibir dicha comunicación;
 
 III. Recibir atención médica, así como ser beneficiarios de seguros de vida y gastos médicos, en los términos del presupuesto o del seguro que se contrate;
 
@@ -1592,3 +1592,9 @@ G.O. 16 DE NOVIEMBRE DE 2009.
 Artículo primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 14 DE ABRIL DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
