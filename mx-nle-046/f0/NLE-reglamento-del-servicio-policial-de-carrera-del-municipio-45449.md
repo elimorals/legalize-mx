@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-servicio-policial-de-carrera-del-municipio-45449
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-27"
-last_updated: "2008-09-29"
+last_updated: "2010-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DEL SERVICIO POLICIAL DE CARRERA DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 27 de junio de 2005.
 
@@ -65,9 +65,11 @@ REGLAMENTO DEL SERVICIO POLICIAL DE CARRERA DEL MUNICIPIO DE SAN NICOLÁS DE LOS
 
 El presente reglamento tiene por objeto establecer las normas para la organización, desarrollo y funcionamiento del Servicio Policial de Carrera, así como los derechos, obligaciones y las sanciones administrativas internas a que estarán sujetos los elementos de la Policía Municipal de San Nicolás de los Garza, Nuevo León.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 2.
 
-El Servicio Policial de Carrera es un sistema integral que establece los requisitos, las bases, reglas y parámetros para el ingreso, actuación, desarrollo, permanencia y retiro de los miembros de la Policía Municipal, así como las reglas para el ascenso, promoción y acceso a prestaciones laborales dentro de la corporación, lo anterior sustentado en la capacitación permanente y profesional.
+La Carrera Policial es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del servicio de los integrantes de las Instituciones Policiales.
 
 ###### ARTÍCULO 3.
 
@@ -85,9 +87,11 @@ El Servicio Policial de Carrera tiene como base el reclutamiento, selección, co
 
 La operación de Servicio Policial de Carrera en el Municipio quedará a cargo del Comité del Servicio Policial de Carrera el cual estará compuesto por el Secretario de Seguridad, Vialidad y Tránsito, un Director de Seguridad Pública, el Director Administrativo de la Secretaría de Seguridad Vialidad y Tránsito, el Director General de Recursos Humanos y un servidor público del Municipio designado por el C. Presidente Municipal.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 6.
 
-El Comité del Servicio Policial de Carrera tiene a su cargo el desarrollo, implementación, ejecución y seguimiento del Servicio Policial de Carrera y dictaminará sobre la selección, admisión, desempeño, ascenso, promoción, separación y retiro del personal.
+El Comité del Servicio Policial de Carrera tiene a su cargo el desarrollo, implementación, ejecución y seguimiento del Servicio Policial de Carrera y dictaminará sobre la selección, admisión, desempeño, ascenso, promoción, separación y retiro del personal, en términos del presente reglamento.
 
 ###### ARTÍCULO 7.
 
@@ -103,49 +107,71 @@ La formación permanente consistirá en la impartición de cursos de actualizaci
 
 El Comité del Servicio Policial de Carrera impulsará un programa permanente de formación policial, cuya finalidad será el mejoramiento continuo del desarrollo profesional, técnico, físico y cultural de los elementos de la corporación de Seguridad Pública Municipal.
 
-## TÍTULO TERCERO. ESTRUCTURA ORGÁNICA DEL SERVICIO POLICIAL DE CARRERA
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO PRIMERO. DE LAS CONVOCATORIAS DEL SERVICIO POLICIAL DE CARRERA
+## TÍTULO TERCERO. DE LA CARRERA POLICIAL Y DE LA PROFESIONALIZACIÓN
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2010)</small>
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 10.
 
-Los grados que integran el servicio policial de carrera de la Dirección de Policía Municipal de San Nicolás de los Garza, son:
+El personal adscrito se organizará bajo un esquema de jerarquización terciaria, cuya célula básica se compondrá invariablemente por tres elementos.
 
-a) Coordinador Operativo
+Los titulares de las categorías jerárquicas estarán facultados para ejercer la autoridad y mando policial en los diversos cargos o comisiones.
 
-b) Inspector
-
-c) Subinspector
-
-d) Supervisor Segundo
-
-e) Suboficial
-
-f) Policía Primero
-
-g) Policía Segundo
-
-h) Policía Tercero
-
-i) Policía
-
-En escala ascendente, el grado inicial de la carrera policial es el de Policía; enseguida, el de Policía Tercero, así sucesivamente hasta el grado de Coordinador Operativo que constituye el grado más alto del servicio policial de carrera.
-
-Todas las demás categorías y puestos de carácter administrativo dentro de la corporación de Seguridad Pública Municipal, serán considerados de libre designación y están excluidos del servicio policial de carrera.
+> <small>(REFORMADO Y REUBICADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 11.
 
-El Comité del Servicio Policial de Carrera deberá formular la descripción de grados, la definición de los perfiles, así como los requisitos que deben de reunir los policías para cada grado que ocupen en la escala jerárquica, a fin de contar con una base sólida en la estructura orgánica, de acuerdo a la antigüedad, desempeño, escolaridad, capacitación y disciplina.
+Los Cuerpos de Seguridad comprenden el grado policial, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, haya acumulado el personal adscrito. Se regirá por las normas siguientes:
+
+I. La Administración Municipal deberán (sic) consultar los antecedentes de cualquier aspirante en el Registro Nacional antes de que se autorice su ingreso a las mismas;
+
+II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el centro de control de confianza respectivo;
+
+III. Ninguna persona podrá ingresar a los Cuerpos de Seguridad si no ha sido debidamente certificado y registrado en el Sistema;
+
+IV. Sólo ingresarán y permanecerán en los Cuerpos de Seguridad, aquellos aspirantes e integrantes que cursen y aprueben los programas de formación, capacitación y profesionalización;
+
+V. La permanencia de los integrantes en los Cuerpos de Seguridad está condicionada al cumplimiento de los requisitos que determine la Ley y el presente Reglamento;
+
+VI. Los méritos de los integrantes de los Cuerpos de Seguridad serán evaluados por las instancias encargadas de determinar las promociones y verificar que se cumplan los requisitos de permanencia, señaladas en las leyes respectivas;
+
+VII. Para la promoción de los integrantes de los Cuerpos de Seguridad se deberán considerar, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo; y
+
+VIII. Los integrantes podrán ser cambiados de adscripción, con base en las necesidades del servicio.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 12.
 
-La Secretaría de Seguridad, Vialidad y Tránsito del Municipio someterá a consideración del Comité del Servicio Policial de Carrera, la estructura orgánica de la corporación de policía; en todo caso, deberá contener los departamentos, las áreas y las funciones, así como la propuesta de que grados de policía pudieran ocupar los distintos puestos y áreas de responsabilidad. Esta propuesta deberá ir acorde a los principios del sistema integral de profesionalización.
+Las jerarquías que integran la carrera policial serán las siguientes:
 
-Dentro de cada puesto administrativo, mismos que no forman parte del servicio policial de carrera, se elaborará la descripción de funciones, responsabilidades, metas y objetivos, con el fin de efectuar una evaluación del desempeño justa, objetiva, real y apegada a la legalidad, bajo los principios de evaluación del desempeño que señala este reglamento en la que se considere aplicable.
+I. Comisario;
+
+II. Inspector;
+
+III. Subinspector;
+
+IV. Oficial;
+
+V. Suboficial;
+
+VI. Policía Primero;
+
+VII. Policía Segundo;
+
+VIII. Policía Tercero;
+
+IX. Policía Raso.
 
 ## TÍTULO CUARTO. DEL DESARROLLO DEL SERVICIO POLICIAL DE CARRERA
 
-### CAPÍTULO SEGUNDO. DEL INGRESO
+### CAPÍTULO PRIMERO. DE LAS CONVOCATORIAS DEL SERVICIO POLICIAL DE CARRERA
 
 ###### ARTÍCULO 13.
 
@@ -155,39 +181,81 @@ A) Convocatorias para aspirantes a ingresar al Servicio Policial de Carrera; est
 
 B) Convocatorias para promociones y ascensos en el escalafón de grados; los requisitos que deberá contener cada convocatoria están precisados en el Capitulo Segundo, dependiendo del proceso de que se trate.
 
-### CAPÍTULO TERCERO. EVALUACIÓN DEL DESEMPEÑO DE LOS ELEMENTOS DE LA POLICÍA MUNICIPAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ABRIL DE 2010)</small>
+
+### CAPÍTULO SEGUNDO. DE LA PERMANENCIA EN EL SERVICIO
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 14.
 
-Previo al ingreso de los aspirantes al curso básico para policía municipal, el Comité deberá consultar en el Registro Nacional de Personal de Seguridad Pública los antecedentes de cada aspirante, en caso de tener antecedentes negativos, no se le podrá permitir el acceso al curso básico policial.
+La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la Ley y en el (sic) éste Reglamento para continuar en el servicio activo de las Instituciones Policiales. Son requisitos de ingreso y permanencia en las Instituciones Policiales, los siguientes:
+
+A. De Ingreso:
+
+I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
+
+II. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
+
+III. En su caso, tener acreditado el Servicio Militar Nacional;
+
+IV. Acreditar que ha concluido los estudios de enseñanza media básica;
+
+V. Aprobar el concurso de ingreso y los cursos de formación;
+
+VI. Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
+
+VII. Aprobar los procesos de evaluación de control de confianza;
+
+VIII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+IX. No padecer alcoholismo;
+
+X. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+XI. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+
+XII. Cumplir con los deberes establecidos en la Ley y éste Reglamento;
+
+XIII. Los demás que establezcan otras disposiciones legales aplicables.
+
+B. De Permanencia:
+
+I. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso;
+
+II. Mantener actualizado su Certificado Único Policial;
+
+III. No superar la edad máxima de retiro que establezcan las disposiciones aplicables;
+
+IV. Acreditar que ha concluido los estudios de enseñanza media básica;
+
+V. Aprobar los cursos de formación, capacitación y profesionalización;
+
+VI. Aprobar los procesos de evaluación de control de confianza;
+
+VII. Aprobar las evaluaciones del desempeño;
+
+VIII. Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables;
+
+IX. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+X. No padecer alcoholismo;
+
+XI. Someterse a exámenes para comprobar la ausencia de alcoholismo;
+
+XII. Someterse a exámenes para comprobar el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+XIII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+
+XIV. No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un termino de treinta días, y
+
+XV. Las demás que establezcan las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 15.
 
-Una vez realizado y aprobado el curso básico policial en los términos de este Reglamento para ingresar al Servicio Policial de Carrera, se requiere:
-
-I.- Ser mexicano, en pleno ejercicio de sus derechos políticos y civiles;
-
-II.- Tener 18 años cumplidos;
-
-III.- Ser de notoria buena conducta;
-
-IV.- Haber cumplido con el Servicio Militar, con excepción de las mujeres;
-
-V.- No haber sido condenado mediante sentencia irrevocable por delito doloso ni estar sujeto a proceso penal;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2008)</small>
-
-VI.- Acreditar que ha concluido los estudios correspondientes a la educación de tipo medio superior;
-
-VII.- Haber realizado y aprobar, el curso de formación básica inicial para policía Preventivo impartido por la Academia de Policía Municipal;
-
-VIII.- Los aspirantes deberán someterse y aprobar exámenes de conocimientos, psicométricos, psicológicos, médicos, de aptitudes psicofísicas, y pruebas de laboratorio para la detección de sustancias consideradas como narcóticos;
-
-IX.- El aspirante deberá aprobar el examen correspondiente para comprobar que no hace uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo;
-
-X.- No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público; y
-
-XI.- No contar con antecedentes negativos en el Registro Nacional de Personal de Seguridad pública.
+Las instancias responsables del Servicio de Carrera Policial fomentarán la vocación de servicio mediante la promoción y permanencia en las instituciones policiales para satisfacer las expectativas de desarrollo profesional de sus integrantes.
 
 ###### ARTÍCULO 16.
 
@@ -235,7 +303,7 @@ IV. Que las necesidades del servicio así lo requieran.
 
 El número de matrícula de un elemento no se podrá asignar a otro, ni aún en el caso de que el primero se haya separado definitivamente del servicio.
 
-### CAPÍTULO CUARTO. DE LAS PROMOCIONES Y ASCENSOS
+### CAPÍTULO TERCERO. EVALUACIÓN DEL DESEMPEÑO DE LOS ELEMENTOS DE LA POLICÍA MUNICIPAL
 
 ###### ARTÍCULO 25.
 
@@ -291,153 +359,183 @@ El Comité del Servicio Policial de Carrera diseñará un sistema de calificaci�
 
 El Comité del Servicio Policial de Carrera precisará con base a estos parámetros, los procedimientos y la mecánica de evaluación, con el propósito de que sea un proceso claro, objetivo y justo.
 
-### CAPÍTULO QUINTO. SISTEMA DE REMUNERACIONES, ESTÍMULOS Y RECOMPENSAS PARA LOS INTEGRANTES DEL SERVICIO POLICIAL DE CARRERA
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ABRIL DE 2010)</small>
+
+### CAPÍTULO CUARTO. DE LAS PROMOCIONES
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 32.
 
-La promoción de los integrantes del cuerpo de seguridad pública se realizará en forma vertical, ya que podrán ascender a las plazas vacantes disponibles de las jerarquías del grado inmediato superior al que ostente, previa convocatoria que para ese efecto expida el Comité del Servicio Policial de Carrera.
+La promoción es el acto mediante el cual se otorga a los integrantes de los Cuerpos de Seguridad, el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en las disposiciones legales aplicables.
+
+Las promociones sólo podrán conferirse atendiendo a la normatividad aplicable y cuando exista una vacante para la categoría jerárquica superior inmediata correspondiente a su grado.
+
+Al personal que sea promovido, le será ratificada su nueva categoría jerárquica mediante la expedición de la constancia de grado correspondiente.
+
+Para ocupar un grado dentro de las Instituciones Policiales, se deberán reunir los requisitos establecidos por la Ley y éste Reglamento.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 33.
 
-Para realizar una promoción de ascenso se requerirá, conforme a la norma de competencia que establezca el Comité del Servicio Policial de Carrera, satisfacer las siguientes exigencias:
+La antigüedad del personal adscrito se clasificará y computará de la siguiente forma:
 
-A).- Para Policía, Policía Tercero, Policía Segundo y Policía Primero:
+I.- Antigüedad en el servicio, a partir de la fecha de su ingreso a los Cuerpos de Seguridad; y,
 
-1.- Tomar y aprobar el curso de formación inicial para Policía;
+II.- Antigüedad en el grado, a partir de la fecha señalada en la constancia o patente de grado correspondiente.
 
-2.- Someterse y aprobar examen Médico;
+La antigüedad contará hasta el momento en que esta calidad deba determinarse para los efectos de la Carrera Policial.
 
-3.- Someterse y aprobar examen Físico;
-
-4.- Conservar los requisitos de ingreso;
-
-5.- Aprobar examen Toxicológico; y,
-
-6.- Aprobar el examen de merito para Policía, Policía Tercero, Policía Segundo y Policía Primero.
-
-B).- De Policía Primero a Suboficial:
-
-1.- Tomar y aprobar el curso de Actualización para mandos medios;
-
-2.- Conservar los requisitos de ingreso;
-
-3.- Someterse y aprobar los exámenes Psicológico, Físico, Médico y Toxicológico;
-
-4.- Escolaridad Mínima de secundaria o su equivalente; y,
-
-5.- Aprobar el examen de Mérito.
-
-C).- De Suboficial a Supervisor Segundo:
-
-1.- Cumplir los requisitos del grado inmediato anterior; y,
-
-2.- Aprobar exámenes de mérito.
-
-D).- De Supervisor Segundo a Subinspector:
-
-1.- Tomar y aprobar el curso para mandos superiores;
-
-2.- Conservar los requisitos de ingreso;
-
-3.- Someterse y aprobar los exámenes Psicológico, Físico, Médico, Toxicológico y el de Mérito, además de los que determine el Comité; y,
-
-4.- Escolaridad mínima de secundaria.
-
-E).- De Subinspector a Inspector y de Inspector a Coordinador Operativo:
-
-1.- Conservar los requisitos del grado inmediato anterior; y,
-
-2.- Someterse y aprobar los exámenes Psicológico, Físico, Médico, Toxicológico y el de mérito. Además de los que determine el Comité.
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2008)</small>
-
-Además de todo lo anterior, y para todos los grados precedentemente enunciados, se requerirá acreditar que ha concluido los estudios correspondientes a la educación de tipo medio-superior, certificar que ha sido aprobado en la prueba anual de confianza, así como, satisfacer el perfil psicológico exigido por el Servicio Policial de Carrera para cada uno de los grados.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 34.
 
-El Comité del Servicio Policial de Carrera, a través de la Academia de Policía Municipal, será el órgano encargado de formular la convocatoria para los ascensos de acuerdo a los criterios y políticas que el Comité haya determinado. Para lo anterior, deberá tomar en cuenta las plazas vacantes, la conveniencia de crear nuevos puestos, el presupuesto disponible, y en general deberá observar todas las circunstancias necesarias para llevar a cabo un concurso que en todo momento será abierto, claro, transparente y basado en la legalidad.
+El personal adscrito a los Cuerpos de Seguridad que haya alcanzado la edad límite para la permanencia, previstas en las disposiciones que los rijan, podrán ser reubicados, a consideración de las instancias, en otras áreas de los servicios de las propias instituciones.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 35.
 
-La convocatoria para llevar a cabo los concursos deberá darse a conocer cuando menos un mes antes del concurso y deberá contener toda la información referente al tipo de convocatoria, las bases generales y específicas del concurso, el puesto o nivel de sueldo de que se trate, el tipo de vacante, el número de vacantes, las bases de los exámenes de evaluación, la fecha, hora y lugar de aplicación; así también, deberá contener las fechas de publicación de los resultados.
+La certificación es el proceso mediante el cual los integrantes de los Cuerpos de Seguridad se someten a las evaluaciones periódicas establecidas por el Centro de Control de Confianza correspondiente, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
+
+El Municipio contratara únicamente al personal adscrito que cuente con el requisito de certificación expedido por su centro de control de confianza respectivo.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 36.
 
-La convocatoria deberá tener una adecuada difusión y publicarse en lugares visibles de la corporación, el no conocimiento de la convocatoria no es materia de recurso para impugnar un proceso de promoción y ascenso.
+La certificación tiene por objeto:
+
+A.- Reconocer habilidades, destrezas, actitudes, conocimientos generales y específicos para desempeñar sus funciones, conforme a los perfiles aprobados por el Consejo Nacional;
+
+B.- Identificar los factores de riesgo que interfieran, repercutan o pongan en peligro el desempeño de las funciones policiales, con el fin de garantizar la calidad de los servicios, enfocándose a los siguientes aspectos del personal adscrito a los Cuerpos de Seguridad:
+
+I. Cumplimiento de los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
+
+II. Observancia de un desarrollo patrimonial justificado, en el que sus egresos guarden adecuada proporción con sus ingresos;
+
+III. Ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+IV. Ausencia de vínculos con organizaciones delictivas;
+
+V. Notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal y no estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público, y
+
+VI. Cumplimiento de los deberes establecidos en la Ley y en éste Reglamento.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 37.
 
-Siempre que exista una convocatoria de promoción o ascensos, se emitirán circulares y comunicaciones a quienes pueden aspirar a ellos, así como avisos o carteles en las dependencias respectivas, con la finalidad de que los elementos de seguridad pública tengan la oportunidad de concursar para obtener un ascenso, previo cumplimiento de los requisitos estipulados.
+La profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de los Cuerpos de Seguridad.
+
+Los planes de estudio para la profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza aprendizaje que estarán comprendidos en el programa rector que se aprueben conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 38.
 
-Los exámenes de evaluación para promociones y ascensos que deberá aplicar el Comité del Servicio Policial de Carrera consistirán en:
+Los requisitos para participar en la promoción serán los siguientes:
 
-I.- El resultado de la evaluación del desempeño de los candidatos a ocupar las nuevas vacantes;
+I. Perfil y capacidad;
 
-II.- Curriculum profesional y académico, que se integra con:
+II. Acreditar la aprobación de los exámenes:
 
-a).- Cursos de formación básica, actualización, inducción y otros necesarios para el desempeño del servicio;
+a) De aptitud física;
 
-b).- Nivel de Escolaridad; y
+b) De aptitud psicológica;
 
-c).- Antigüedad en el Puesto.
+c) Médico toxicológico;
 
-III.- El resultado de los exámenes en las siguientes áreas:
+III. Antigüedad en la corporación;
 
-a).- Médico;
+IV. Conducta;
 
-b).- Psicomotriz;
+V. Méritos especiales;
 
-c).- Conocimiento del puesto;
+VI. Aprobar los cursos correspondientes.
 
-d).- Tácticas y manejo de equipo;
+Para la promoción, además se deberán considerar, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo; así mismo el aspirante deberá tener actualizado el Certificado Único Policial, que expedirá el Centro de Control de Confianza respectivo.
 
-e).- Batería de exámenes psicológicos; y,
-
-f).- Pruebas de laboratorio para la detección del consumo de sustancias consideradas como toxicas.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 39.
 
-Las promociones y ascensos de los elementos de la Policía Municipal que formen parte del Servicio Policial de Carrera se concederán tomando en cuenta los factores escalafonarios a que alude el presente Capítulo.
+La conducta del personal adscrito:
 
-En caso de empate de calificaciones entre dos o más elementos en busca de una sola plaza, ascenderá el candidato seleccionado con base a los siguientes criterios:
+I. Conducta Profesional: Será acreditado para los efectos de este Reglamento, con el kárdex del personal adscrito;
 
-I.- Mayor antigüedad;
+II. Conducta Ciudadana: Será acreditada a través de una investigación que se realizará con los vecinos.
 
-II.- Mayores méritos;
-
-III.- Mayor tiempo en el servicio operativo;
-
-IV.- Mayor escolaridad; y,
-
-V.- Los que menos comisiones fuera del servicio operativo hayan desempeñado.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 40.
 
-Los elementos de la corporación policial que forman parte del sistema profesional, que ostenten título profesional a nivel licenciatura, podrán ser promovidos al grado de Inspector en la escala jerárquica policial en los términos de este reglamento, si existe el puesto vacante.
+Los exámenes de conocimientos generales de la actividad policial en materias técnico-operativos, abarcarán, entre otras áreas, las siguientes:
 
-Si se trata de un aspirante a la Carrera Policial que ya ostente el título profesional o el grado académico a que se alude en el párrafo anterior podrá aspirar a los grados correspondientes siempre y cuando apruebe los cursos básicos y de inducción correspondiente y obtenga evaluaciones satisfactorias por parte del Comité.
+I. Cursos de adiestramiento y capacitación;
 
-Si durante el servicio, el elemento obtiene el título profesional a nivel licenciatura o alguno de los postgrados, y reúne los requisitos del segundo párrafo de este artículo, podrá ser ascendido a Inspector y si ya ostentara ese grado, será ascendido un grado inmediato superior.
+II. Mediante examen de conocimientos, aptitudes y destrezas;
+
+III. Básico de cómputo; y
+
+IV. Técnicas de función policial.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 41.
 
-Para tener derecho a una promoción, los elementos de la Policía Municipal, deberán cumplir con los requisitos conducentes a que se refiere el presente Reglamento y haber obtenido resultados favorables en su evaluación del desempeño.
+El examen médico será practicado por médicos y comprenderá:
+
+I.- Examen de salud;
+
+II.- Examen toxicológico.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 42.
 
-Los elementos de la Policía Municipal interesados en concursa para un ascenso, deberán presentar solicitud de concurso ante el Comité del Servicio Policial de Carrera para el efecto de que sean analizadas por el Organismo evaluador.
+El examen de aptitudes físicas comprenderá las siguientes pruebas:
+
+I. Resistencia;
+
+II. Flexibilidad;
+
+III. Velocidad;
+
+IV. Fuerza.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 43.
 
-Tendrán derecho a concursar únicamente los elementos que cubran los requisitos establecidos, cuyos nombres aparecerán en la lista que emita el órgano evaluador y que será publicada en lugares visibles de la corporación.
+El examen psicológico comprenderá psicometrías enfocadas a la personalidad, adaptabilidad al puesto e inteligencia, para determinar la capacidad y aptitud para desempeñarse en el nuevo grado.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 44.
 
-En caso de no existir concursantes o no se cubrieran los requisitos una vez lanzada la convocatoria, en última instancia se habilitará al elemento de mayor antigüedad en el grado inmediato al que se necesita cubrir, en tanto se logra hacer efectivo el concurso.
+Para participar en la promoción del grado inmediato superior al que aspire el personal adscrito, además de cumplir con los requisitos previstos en el presente Reglamento, deberán cumplir con lo siguiente:
 
-### CAPÍTULO SEXTO. DERECHOS DE LOS MIEMBROS DEL SERVICIO POLICIAL DE CARRERA DE LA POLICÍA MUNICIPAL
+I. Para ascender de Policía Raso a Policía Tercero tener como mínimo 2 años de antigüedad en el grado;
+
+II. Para ascender de Policía Tercero a Policía Segundo tener como mínimo 2 años de antigüedad en el grado;
+
+III. Para ascender de Policía Segundo a Policía Primero tener como mínimo 2 años de antigüedad en el grado;
+
+IV. Para ascender de Policía Primero a Suboficial tener como mínimo 3 años de antigüedad en el grado;
+
+V. Para ascender de Suboficial a Oficial tener como mínimo 3 años de antigüedad en el grado;
+
+VI. Para ascender de Oficial a Subinspector tener como mínimo 3 años de antigüedad en el grado;
+
+VII. Para ascender de Subinspector a Inspector tener como mínimo 5 años de antigüedad en el grado.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 44 BIS.- El grado que ostenten los policías será acreditado por un nombramiento que se expedirá a cada uno de los interesados.
+
+### CAPÍTULO QUINTO. SISTEMA DE REMUNERACIONES, ESTÍMULOS Y RECOMPENSAS PARA LOS INTEGRANTES DEL SERVICIO POLICIAL DE CARRERA
 
 ###### ARTÍCULO 45.
 
@@ -455,19 +553,37 @@ I.- Se otorgará una vez al año, el equivalente de 15 días de sueldo en vales 
 
 II.- A los elementos que hayan realizado acciones relevantes en beneficio de la sociedad se les otorgará un mes de sueldo. La relevancia de las acciones serán analizadas por el Comité a propuesta del Secretario de Seguridad, Vialidad y Tránsito y determinará sobre la procedencia del estímulo y del registro de la misma en la hoja de servicio de cada elemento. La entrega correspondiente se realizará en el mes de enero de cada año.
 
-### CAPÍTULO SÉPTIMO. DE LA SEPARACIÓN Y RETIRO DEL POLICÍA DE CARRERA
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ABRIL DE 2010)</small>
+
+### CAPÍTULO SEXTO. DE LAS PRESTACIONES
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 48.
 
-Todos los policías de carrera en los términos de presente Reglamento tendrán derecho a las prestaciones laborales siguientes:
+El personal adscrito gozará de las siguientes prestaciones:
 
-I.- Indemnización por muerte en el servicio por un monto de $200.000.00 (doscientos mil pesos 00/100 M. N.) y de $100.000.00 (cien mil pesos 00/100 M. N.) por muerte natural, a cargo del erario municipal o por seguro contratado por el municipio. Los beneficiarios serán las personas designadas por el propio elemento de policía;
+I.- Recibir un salario acorde con la calidad y riesgo de las funciones en sus rangos y puestos respectivos, así como en las misiones que cumplan, las cuales no podrán ser disminuidas durante el ejercicio de su encargo;
 
-II.- Indemnización por incapacidad total y permanente de conformidad con la Ley Federal del Trabajo;
+II.- Quince días de vacaciones por cada seis meses de servicio;
 
-III.- Indemnización por incapacidad parcial de conformidad con la Ley Federal del Trabajo; y.
+III.- Dotación de uniformes y equipo necesario para el desempeño de su función;
 
-IV.- Derecho a Jubilación de conformidad con las normas imperantes en el Municipio.
+IV.- Permisos con goce de sueldo hasta por tres días continuos por los siguientes motivos:
+
+a) Muerte de un familiar de primer grado en línea ascendente y descendente o colateral;
+
+b) Enfermedad grave de un familiar en primer grado en línea ascendente o descendente. En casos de las madres, podrá aplicarse lo anterior sin necesidad de que la enfermedad sea grave. En este caso la enfermedad deberá acreditarse mediante certificado médico;
+
+V.- Licencia sin goce de sueldo hasta por seis meses, para atender problemas familiares, contingencias o imprevistos que requieran su presencia. En ambos casos la licencia debe solicitarse por escrito;
+
+VI.- Servicio médico de calidad, para si mismo, su esposa o concubina y sus hijos solteros menores de veinticinco años, siempre y cuando se encuentren estudiando;
+
+VII.- Servicio médico de calidad, para sus hijos con discapacidad que les impida desempeñar una actividad laboral;
+
+VIII.- Seguro de vida en caso de muerte en el servicio o natural a favor de las personas que designe. La cuantía de este seguro se determinará por el Republicano Ayuntamiento;
+
+IX.-Beca para sus hijos en los términos que acuerde el Republicano Ayuntamiento, para el caso de fallecimiento en el cumplimiento de su función.
 
 ###### ARTÍCULO 49.
 
@@ -481,11 +597,11 @@ III.- Participar en los concursos que se convoquen con el fin de ser promovidos 
 
 IV.- Recibir los cursos de capacitación y especialización que se impartan a los elementos de la corporación;
 
-V.- Gozare de los servicios de seguridad social que el municipio establece a favor de los servidores públicos de confianza;
+V.- (DEROGADA, P.O. 14 DE ABRIL DE 2010)
 
 VI.- Recibir asesoría Jurídica de la autoridad Municipal ante cualquier instancia, en los casos en que en estricto cumplimiento del servicio su conducta sea considerada como delito;
 
-VII.- Recibir el equipo de trabajo consistente en la dotación de armas, municiones y divisas, que deberán portar en el ejercicio de sus funciones;
+VII.- (DEROGADA, P.O. 14 DE ABRIL DE 2010)
 
 VIII.- Ser evaluados en su desempeño con imparcialidad y justicia;
 
@@ -505,11 +621,9 @@ XV.- Los demás que determinen otros ordenamientos aplicables.
 
 ###### ARTÍCULO 50.
 
-Todo elemento del cuerpo de Seguridad Pública tiene derecho a consideración de la superioridad, a las siguientes prerrogativas:
+(DEROGADO, P.O. 14 DE ABRIL DE 2010)
 
-I.- Permisos de ausencia de servicio, previa petición justificada hecha al menos una semana antes del día que se solicita, ante su superior jerárquico, en el entendimiento que será limitada la cantidad de autorizaciones concedidas a una misma persona; y,
-
-II.- A las audiencias con el superior para sugerencias, aclaraciones y peticiones de diversa índole, con relación al ejercicio del servicio.
+### CAPÍTULO SÉPTIMO. DE LA SEPARACIÓN Y RETIRO DEL POLICÍA DE CARRERA
 
 ###### ARTÍCULO 51.
 
@@ -563,15 +677,27 @@ Los elementos del Cuerpo de Seguridad Pública tienen la obligación de portar e
 
 El equipo que porten deberá estar siempre limpio y en buenas condiciones, debiendo reportar de inmediato cualquier falla o descompostura al departamento que corresponda. De la misma forma deberán hacerlo con los vehículos o semovientes que utilicen en su servicio. Además, deberán acatar las disposiciones ecológicas sobre ruido, y se abstendrán de hacer funcionar las sirenas de los vehículos a niveles superiores al número de decibeles permitido, así como hacerlas funcionar de manera innecesaria.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 60.
 
-La corporación proporcionara a los elementos del Cuerpo de Seguridad Pública al menos dos veces al año o cuando sea necesario, el uniforme consistente en pantalón, camisa, chamarra, calzado, cinturón, insignias y divisas; armas de fuego, fornituras, monturas, dotación de municiones, chalecos antibalas y, en general, los implementos necesarios de acuerdo al desempeño de su servicio, los cuales deberán encontrarse en condiciones óptimas para su uso.
+La Secretaría proporcionará a los elementos de los cuerpos de seguridad el uniforme reglamentario, así como el equipo necesario para desempeñar con eficacia su labor.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 60 BIS.- Los elementos del cuerpo operativo de seguridad pública que utilicen para su función vehículos dotados con accesorios consistentes en sirenas, altavoces, torretas con luces intermitentes, deben observar de forma estricta y cuidadosa todas y cada una de las normas previstas en las disposiciones legales aplicables.
 
 ## TÍTULO SEXTO. DE LAS CONDECORACIONES Y RECONOCIMIENTOS POLICIALES
 
 ###### ARTÍCULO 61.
 
 La Secretaría de Seguridad, Vialidad y Tránsito manifestará públicamente el reconocimiento al miembro de la corporación cuando sea ejemplar en su comportamiento y servicio en beneficio de la seguridad pública y la comunidad.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 61 BIS.- El régimen de estímulos es el mecanismo por el cual el personal adscrito recibe el reconocimiento público por actos de servicio meritorios o por su trayectoria ejemplar.
+
+Todo estímulo otorgado será acompañado de una constancia que lo acredite, la cual deberá ser integrada al kárdex del personal adscrito y en su caso, con la autorización de portación de la condecoración o distintivo correspondiente.
 
 ###### ARTÍCULO 62.
 
@@ -964,3 +1090,11 @@ Para el caso de los elementos operativos en activo de la Secretaria de Seguridad
 ###### ARTÍCULO SEGUNDO
 
 La presente reforma entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ABRIL DE 2010.
+
+SE TRANSCRIBE EL ARTICULO TRANSITORIO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+...
+
+SEGUNDO.- La presente reforma entrará en vigor al momento de su aprobación.
