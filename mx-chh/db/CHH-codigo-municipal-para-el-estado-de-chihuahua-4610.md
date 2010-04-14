@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2009-12-05"
+last_updated: "2010-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2010.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -541,7 +541,11 @@ II.- Iniciar leyes y decretos ante el Congreso del Estado en asuntos de la compe
 
 III.- Vigilar que los actos de las autoridades municipales, observen los requisitos de legalidad y seguridad jurídica que establece la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado;
 
-IV.- Crear organismos descentralizados, fideicomisos y empresas de participación municipal;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2010)</small>
+
+IV. Crear organismos descentralizados, fideicomisos y empresas de participación municipal.
+
+En la creación de estos organismos descentralizados, fideicomisos y empresas de participación municipal, podrán participar dos o más ayuntamientos, constituyendo organismos intermunicipales, celebrando el convenio de coordinación respectivo, con la aprobación de dos terceras partes de los integrantes del Ayuntamiento;
 
 V.- Asignar a cada Regidor, los ramos que considere convenientes para su mejor atención;
 
@@ -4004,3 +4008,9 @@ P.O. 26 DE SEPTIEMBRE DE 2009.
 P.O. 5 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor 60 días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ABRIL DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
