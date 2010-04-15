@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-auditoria-superior-de-la-69788"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-26"
-last_updated: "2009-08-26"
+last_updated: "2010-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69788&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-08-21"
 
 REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ABRIL DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 26 de agosto de 2009.
 
@@ -45,9 +45,9 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 
 20000 Auditor Especial de Cumplimiento Financiero
 
-20100 Dirección de Auditoría Forense
+20100 (DEROGADO, D.O.F. 15 DE ABRIL DE 2010)
 
-20110 Subdirección de Auditoría Forense
+20110 (DEROGADO, D.O.F. 15 DE ABRIL DE 2010)
 
 21000 Dirección General de Auditoría Financiera Federal “A”
 
@@ -194,6 +194,34 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 25520 Subdirección de Auditoría “E5.2”
 
 25530 Subdirección de Auditoría “E5.3”
+
+> <small>(ADICIONADO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+26000 Dirección General de Auditoría Forense
+
+> <small>(ADICIONADO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+26100 Dirección de Auditoría Forense “A”
+
+> <small>(ADICIONADO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+26110 Subdirección de Auditoría Forense “A1”
+
+> <small>(ADICIONADO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+26120 Subdirección de Auditoría Forense “A2”
+
+> <small>(ADICIONADO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+26200 Dirección de Auditoría Forense “B”
+
+> <small>(ADICIONADO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+26210 Subdirección de Auditoría Forense “B1”
+
+> <small>(ADICIONADO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+26220 Subdirección de Auditoría Forense “B2”
 
 30000 Auditor Especial de Desempeño
 
@@ -361,11 +389,17 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 
 51330 Subdirección Jurídica “C3”
 
-51400 Dirección de Auditoría de Desempeño de Legalidad y Situación Patrimonial
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2010)</small>
 
-51410 Subdirección de Auditoría de Desempeño de Legalidad
+51400 Dirección Jurídica “D”
 
-51420 Subdirección de Situación Patrimonial
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+51410 Subdirección Jurídica “D1”
+
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+51420 Subdirección Jurídica “D2”
 
 52000 Dirección General de Responsabilidades
 
@@ -485,7 +519,9 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 
 63320 Subdirección de Operaciones y Centro de Cómputo
 
-64000 Dirección General del Instituto de Capacitación y Desarrollo en Fiscalización Superior
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+64000 Instituto de Capacitación y Desarrollo en Fiscalización Superior
 
 64100 Dirección de Capacitación y Desarrollo Institucional
 
@@ -724,6 +760,10 @@ I. Coordinar y supervisar la práctica de auditorías para verificar que los ing
 II. Coordinar y supervisar la práctica de las auditorías para constatar que los egresos se ajustaron a lo presupuestado y aplicado al fin establecido y evaluar el cumplimiento de metas y objetivos previstos, conforme a las disposiciones legales correspondientes o, en su caso, que los presupuestos se modificaron de acuerdo con las disposiciones jurídicas establecidas para tal efecto; asimismo, constatar que las erogaciones fueron debidamente justificadas y comprobadas y, que los recursos asignados o transferidos, se aplicaron con apego a los programas aprobados;
 
 III. Coordinar y supervisar la práctica de auditorías a las entidades fiscalizadas, para evaluar si la captación, recaudación, administración, custodia, manejo, ejercicio y aplicación de los recursos federales, incluyendo subsidios, transferencias y donativos, y si los actos, contratos, convenios, mandatos, fondos, fideicomisos, prestación de servicios públicos, operaciones o cualquier acto que las entidades fiscalizadas, celebren o realicen, relacionados con el ejercicio del gasto público federal, se ajustaron a la legalidad, y si no han causado daños o perjuicios, o ambos, en contra de la Hacienda Pública Federal o, en su caso, del patrimonio de los entes públicos federales o de las entidades paraestatales federales;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+III Bis. Coordinar y supervisar la práctica de auditorías forenses;
 
 IV. Ordenar y supervisar la práctica de exámenes a los sistemas administrativos y mecanismos de control interno de las entidades fiscalizadas, para constatar que existen, se aplican y están correctamente diseñados para salvaguardar sus activos y recursos;
 
@@ -1187,6 +1227,48 @@ IX. Obtener durante el desarrollo de las auditorías a su cargo, como resultado 
 
 X. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+###### Artículo 19 Bis.
+
+La Dirección General de Auditoría Forense estará adscrita a la Auditoría Especial de Cumplimiento Financiero y su titular tendrá las siguientes atribuciones:
+
+I. Practicar las auditorías forenses conforme al Programa Anual de Auditorías para la Fiscalización de la Cuenta Pública, aprobado por el Auditor Superior de la Federación, considerando que la auditoría forense tiene como objeto la revisión de los procesos, hechos y evidencias para la detección o investigación de actos u omisiones que impliquen alguna irregularidad o conducta ilícita, con el propósito de documentar con pruebas válidas y suficientes las conclusiones derivadas de los hallazgos e irregularidades detectadas, apoyándose cuando así se requiera, con la tecnología y herramienta forense para el desarrollo de sus investigaciones;
+
+II. Practicar, conforme al Programa Anual de Auditorías para la Fiscalización de la Cuenta Pública, aprobado por el Auditor Superior de la Federación, las revisiones en las entidades fiscalizadas, a fin de comprobar que las operaciones referentes a la recaudación, obtención y captación de los ingresos; el movimiento de fondos de la Federación; las operaciones relacionadas con la deuda pública en su contratación, registro, renegociación, administración y pago; los egresos, incluyendo subsidios, transferencias y donativos, y que los recursos y obligaciones, se hayan realizado, administrado, registrado y aplicado de acuerdo con las leyes correspondientes y al fin establecido; así como, evaluar el cumplimiento de metas y objetivos previstos, conforme a las disposiciones jurídicas aplicables;
+
+III. Practicar auditorías a los recursos federales que a título de subsidios o por cualquier otro concepto, excepto participaciones, los Poderes de la Unión y entes públicos federales hayan otorgado con cargo a su presupuesto a entidades federativas, particulares, y en general a cualquier entidad pública o privada, para verificar su aplicación al objeto autorizado, en cumplimiento de las disposiciones jurídicas aplicables;
+
+IV. Verificar que las operaciones que realicen las entidades fiscalizadas sean acordes con la Ley de Ingresos y el Presupuesto de Egresos de la Federación; se efectúen con apego a las disposiciones respectivas del Código Fiscal de la Federación y leyes fiscales sustantivas; las leyes General de Deuda Pública, Federal de Presupuesto y Responsabilidad Hacendaria; orgánicas del Congreso General de los Estados Unidos Mexicanos, de la Administración Pública Federal, del Poder Judicial de la Federación y demás disposiciones legales, reglamentarias y administrativas aplicables a estas materias;
+
+V. Practicar auditorías a efecto de constatar la existencia, procedencia y registro de los activos y pasivos de las entidades fiscalizadas, de los fideicomisos, fondos y mandatos o cualquier otra figura análoga, para verificar la razonabilidad de las cifras mostradas en los estados financieros consolidados y particulares de la Cuenta Pública;
+
+VI. Practicar auditorías sobre el desempeño a las entidades fiscalizadas, en los términos previstos en la Ley de Fiscalización y Rendición de Cuentas de la Federación;
+
+VII. Recabar, analizar y procesar la información que requiera para el ejercicio de sus atribuciones, incluyendo aquella información contenida en los diversos medios de almacenamiento y bases de datos, para lo cual podrá utilizar herramientas tecnológicas e informáticas especializadas;
+
+VIII. Investigar, documentar y evidenciar hechos, actos u omisiones que impliquen alguna irregularidad o conducta ilícita, y cuando así se requiera, contar con el apoyo de especialistas externos;
+
+IX. Recibir quejas y denuncias sobre posibles irregularidades o conductas ilícitas de servidores públicos o terceros en la captación, recaudación, administración, custodia, manejo, ejercicio y aplicación de los recursos federales y, en caso de existir elementos que acrediten su intervención, proponer la revisión correspondiente;
+
+X. Citar a los quejosos o denunciantes, en su caso, para que ratifiquen o amplíen la información proporcionada, y con ello contar con mayores elementos de prueba;
+
+XI. Requerir a las instancias de control competentes y a las entidades de fiscalización superior de las entidades federativas, los informes, resultados o demás información que se requiera para el ejercicio de sus funciones;
+
+XII. Obtener copia de los documentos que tenga a la vista y previo cotejo, certificarlos cuando así se requiera. Igualmente podrá expedir copias certificadas de las constancias que obren en sus archivos, con las limitaciones que señalan las disposiciones jurídicas en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental;
+
+XIII. Solicitar a la Unidad de Asuntos Jurídicos la presentación de las denuncias penales a que haya lugar, como resultado de las irregularidades detectadas;
+
+XIV. Proponer a su superior jerárquico la conclusión de las auditorías forenses en el momento en que, derivado de los hallazgos y conclusiones obtenidas durante el proceso de investigación, se determine que no existen los elementos suficientes para presumir alguna irregularidad;
+
+XV. Proponer programas de capacitación, especialización y certificación para el personal auditor, orientados a desarrollar y fortalecer las habilidades y capacidad técnica en materia de auditoría forense;
+
+XVI. Proponer la celebración de convenios, bases de colaboración o acuerdos interinstitucionales con organizaciones nacionales e internacionales en materia forense, y
+
+XVII. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables.
+
+Las atribuciones previstas en este artículo podrán ser ejercidas indistintamente por los Directores, Subdirectores, Jefes de Departamento y auditores adscritos a la Dirección General de Auditoría Forense, salvo las previstas en las fracciones XIII, XIV y XVI, que son de ejercicio directo de su titular.
+
 ###### Artículo 20.
 
 La Dirección General de Auditoría de Desempeño al Desarrollo Económico estará adscrita a la Auditoría Especial de Desempeño y su titular tendrá las siguientes atribuciones:
@@ -1639,9 +1721,11 @@ VIII. Coordinar la operación del Sistema de Gestión de la Calidad, y
 
 IX. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
 ###### Artículo 33.
 
-La Dirección General del Instituto de Capacitación y Desarrollo en Fiscalización Superior estará adscrita a la Unidad General de Administración y su titular tendrá las siguientes atribuciones:
+El Instituto de Capacitación y Desarrollo en Fiscalización Superior estará adscrito a la Unidad General de Administración y su titular tendrá las siguientes atribuciones:
 
 I. Proponer, para aprobación de su superior jerárquico, las políticas, normas y procedimientos relativos a la capacitación del personal de la Auditoría Superior de la Federación y verificar su aplicación;
 
@@ -1930,3 +2014,9 @@ QUINTO.- La Dirección General Jurídica conocerá y atenderá los asuntos, juic
 SEXTO.- La Dirección General Jurídica conocerá y atenderá los asuntos que se encuentren en trámite en la Dirección General Consultiva y de Asistencia Jurídica, a la entrada en vigor del presente Reglamento.
 
 México, D.F., a 21 de agosto de 2009.- El Auditor Superior de la Federación, Arturo González de Aragón O.- Rúbrica.
+
+> <small>N. DE E. A CONTINUCION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 15 DE ABRIL DE 2010.
+
+UNICO.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
