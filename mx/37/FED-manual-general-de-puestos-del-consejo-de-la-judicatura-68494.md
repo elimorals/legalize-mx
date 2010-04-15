@@ -4,7 +4,7 @@ identifier: "FED-manual-general-de-puestos-del-consejo-de-la-judicatura-68494"
 country: "mx"
 rank: "manual"
 publication_date: "2009-05-21"
-last_updated: "2009-10-13"
+last_updated: "2010-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68494&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-03-11"
 
 MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ABRIL DE 2010.
 
 Manual publicado en las Secciones Segunda y Tercera del Diario Oficial de la Federación, el jueves 21 de mayo de 2009.
 
@@ -2767,7 +2767,9 @@ II. Descripción.-
 
 II.1 Objetivo del puesto:
 
-Apoyar en el despacho de los asuntos que son del conocimiento del Juzgado de Distrito al que se encuentre adscrito, en su caso, practicar las diligencias, dictar las providencias de trámite y resoluciones de carácter urgente.
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+Apoyar en el despacho de los asuntos que son del conocimiento del Juzgado de Distrito al que se encuentre adscrito, en su caso, practicar las diligencias, dictar las providencias de trámite y resoluciones de carácter urgente. Así como prestar el apoyo temporal cuando sea comisionado, auxiliando en el trámite y resolución urgente de los asuntos encomendados, correspondientes a diversos órganos jurisdiccionales de aquél al que se encuentra adscrito.
 
 II.2 Funciones:
 
@@ -2805,6 +2807,10 @@ De manera general mas no limitativa, las siguientes:
 
 14. Las demás que correspondan al ámbito de su competencia.
 
+> <small>(ADICIONADO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+Asimismo, cuando sea comisionado limitará su función al apoyo que el titular solicitante determine, en la inteligencia de que la referida comisión no le impide conservar sus atribuciones de fedatario público en las actuaciones que realice con motivo del apoyo que preste.
+
 II.3 Norma de creación:
 
 Artículos 42 y 110 fracción IX de la Ley Orgánica del Poder Judicial de la Federación.
@@ -2831,7 +2837,9 @@ II.4 Responsabilidades:
 
 10. Abstenerse de incurrir en las responsabilidades que se establecen en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y el Título Octavo de la Ley Orgánica del Poder Judicial de la Federación.
 
-11. Las demás que determine el Juez de Distrito de su adscripción.
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+11. Las demás que determine el Juez de Distrito de su adscripción o, en caso de que sea comisionado, el Juez de Distrito solicitante del apoyo temporal.
 
 II.5 Responsabilidad por manejo de recursos:
 
@@ -7169,7 +7177,9 @@ II. Descripción.-
 
 II.1 Objetivo del puesto:
 
-Llevar el control y seguimiento de los expedientes y trámites que le sean encomendados en el Organo Jurisdiccional de su adscripción, así como capturar la información de los proyectos de estudios y resoluciones de carácter jurídico o administrativo.
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+Llevar el control y seguimiento de los expedientes y trámites que le sean encomendados en el Organo Jurisdiccional de su adscripción, así como capturar la información de los proyectos de estudios y resoluciones de carácter jurídico o administrativo. Asimismo, prestar el apoyo temporal cuando sea comisionado, auxiliando en el trámite y resolución urgente de los asuntos encomendados, correspondientes a diversos órganos jurisdiccionales de aquél al que se encuentra adscrito, limitando su función al apoyo que el titular solicitante determine.
 
 II.2 Funciones:
 
@@ -7183,7 +7193,9 @@ II.2 Funciones:
 
 5. Llevar controles internos relativos al ejercicio de sus funciones.
 
-6. Las demás que le encomiende su jefe inmediato.
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+6. Las demás que le encomiende su jefe inmediato o, en caso de que sea comisionado, le determine el titular solicitante del apoyo temporal.
 
 II.3 Norma de creación:
 
@@ -7205,7 +7217,9 @@ II.4 Responsabilidades:
 
 7. Abstenerse de incurrir en las responsabilidades que se establecen en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y el Título Octavo de la Ley Orgánica del Poder Judicial de la Federación.
 
-8. Las demás que le encomiende el Titular del Organo Jurisdiccional de su adscripción.
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2010)</small>
+
+8. Las demás que le encomiende el Titular del Organo Jurisdiccional de su adscripción o, en caso de que sea comisionado, el Juez de Distrito solicitante del apoyo temporal.
 
 II.5 Responsabilidad por manejo de recursos:
 
@@ -9022,3 +9036,7 @@ EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CON
 D.O.F. 13 DE OCTUBRE DE 2009.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 15 DE ABRIL DE 2010.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
