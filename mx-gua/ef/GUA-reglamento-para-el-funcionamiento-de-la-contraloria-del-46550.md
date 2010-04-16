@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-el-funcionamiento-de-la-contraloria-del-46550"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-04"
-last_updated: "2007-09-18"
+last_updated: "2010-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE LA CONTRALORIA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2010.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 4 de octubre del 2005.
 
@@ -165,33 +165,43 @@ Tanto el representante del Poder Legislativo como el de los Partidos Políticos,
 
 Para el buen desempeño de la Contraloría, los titulares de las unidades administrativas responsables del manejo de recursos humanos o económicos, tienen la obligación de presentar la documentación e información que les sea requerida en los supuestos previstos en los artículos 9 y 10 de este reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 2010)</small>
+
 ###### Artículo 9.
 
-Las auditorías o revisiones previstas en el programa anual de auditorías aprobado por el Consejo, se sujetarán al siguiente procedimiento:
+Las auditorías previstas en el programa anual de auditorías aprobado por el Consejo, se sujetarán al siguiente procedimiento:
 
-La Contraloría notificará por escrito al titular de la unidad administrativa correspondiente el inicio de la revisión, especificando el motivo de la misma, así como la documentación e información que se requiere, la cual deberá entregarse en un plazo de diez días hábiles contados a partir del día siguiente a aquél en que se notifique el requerimiento, plazo que podrá duplicarse a solicitud del titular de la unidad administrativa, por causa justificada.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+
+La Contraloría notificará por escrito al titular de la unidad administrativa correspondiente el inicio de la auditoría, especificando el motivo de la misma, así como la documentación e información que se requiere, la cual deberá entregarse en un plazo de diez días hábiles contados a partir del día siguiente a aquél en que se notifique el requerimiento, plazo que podrá duplicarse a solicitud del titular de la unidad administrativa.
 
 La información se entregará a la Contraloría en la forma en que la genera la unidad administrativa correspondiente.
 
 En caso de que el titular de la unidad administrativa incurra en errores u omisiones al cumplir el requerimiento, la Contraloría le solicitará por escrito que haga las aclaraciones y ampliaciones correspondientes, mismas que deberán realizarse dentro de los seis días hábiles siguientes a la fecha de notificación de la solicitud de aclaración.
 
-Una vez concluida la revisión, la Contraloría informará sobre los resultados al titular de la unidad administrativa correspondiente, quien contará con un plazo de diez días hábiles para hacer las aclaraciones que estime pertinentes.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+
+Una vez concluida la revisión de la documentación e información obtenida, la Contraloría informará sobre los resultados al titular de la unidad administrativa auditada y, en su caso, a los titulares de las áreas que resulten involucradas en las observaciones. Todos contarán con un plazo de diez días hábiles para hacer las aclaraciones que estimen pertinentes, aportando los elementos necesarios para sustentarlas.
 
 La Contraloría tendrá veinte días hábiles para elaborar su dictamen, los cuales empezarán a correr una vez transcurrido el plazo señalado en el párrafo anterior. Dentro de los seis días hábiles siguientes, lo presentará al Secretario del Consejo a fin de que éste dé cuenta del mismo al Consejo en la sesión más próxima.
 
-El Consejo emitirá el acuerdo correspondiente, ordenando, en su caso, las medidas legales procedentes.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2006)</small>
+El Consejo emitirá el acuerdo correspondiente, ordenando, en su caso, las medidas legales procedentes, Cuando el Consejo modifique algún aspecto del dictamen, podrá ordenar a la Contraloría reponer el procedimiento de auditoría en relación al aspecto modificado. En dicho caso, el día hábil siguiente a aquel en que sea informada sobre la modificación, la Contraloría deberá notificarla al área o áreas que correspondan, para que, en un plazo máximo de cinco días posteriores a la notificación, rindan el informe correspondiente y adjunten la documentación que lo sustente. La Contraloría deberá rendir su dictamen dentro de los cinco días siguientes al de la recepción del Informe o al del vencimiento del plazo para rendirlo, presentándolo al Secretario del Consejo para que éste dé cuenta del mismo en la sesión más próxima. Tomando en cuenta la complejidad de la información, el Consejo podrá ampliar o reducir los plazos señalados para la reposición del procedimiento.
 
-El tiempo trascurrido desde la fecha en que la Contraloría notifique a la unidad administrativa sobre el inicio de la revisión, hasta la fecha en que aquélla entregue el dictamen correspondiente al Secretario del Consejo, no deberá exceder de 120 días hábiles.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+
+El tiempo trascurrido desde la fecha en que la Contraloría notifique a la unidad administrativa sobre el inicio de la auditoría, hasta la fecha en que aquélla entregue el dictamen correspondiente al Secretario del Consejo, no deberá exceder de 120 días hábiles.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2010)</small>
+
+La entrega de la documentación e información que la Contraloría requiera a las áreas del Instituto durante el desarrollo de las auditorías, se deberá hacer en el horario comprendido de las 8:30 a las 16:00 horas, de lunes a viernes, con excepción de los días en los que no se labore en el Instituto. Cuando Institucionalmente se establezca un horario de labores distinto, será éste el aplicable. El Consejo y la Contraloría podrán habilitar días y horas para los efectos aquí señalados.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
 
 ###### Artículo 10.
 
-Además de las auditorías o revisiones previstas en el programa anual de auditorías aprobado por el Consejo, la Contraloría deberá realizar revisiones a las unidades administrativas en los supuestos previstos en los artículos 11 y 24 de este reglamento, sujetándose a lo dispuesto en el artículo anterior.
-
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
-
-Durante el tiempo en que se desarrolle un proceso electoral no se realizarán auditorías o revisiones, salvo en los casos de extrema gravedad y urgencia, a juicio de la Contraloría.
+Además de las auditorías previstas en el programa anual de auditorías aprobado por el Consejo, la Contraloría deberá realizar revisiones a las unidades administrativas en los supuestos previstos en los artículos 11 y 24 de este reglamento, sujetándose a lo dispuesto en el artículo anterior.
 
 ###### Artículo 11.
 
@@ -225,11 +235,11 @@ VII.- Instaurar y sustanciar el procedimiento de responsabilidad administrativa,
 
 VIII.- Asistir, o designar a quien deba asistir en su representación, con voz pero sin voto, a las sesiones del Comité;
 
-IX.- Asistir a la celebración de contratos y convenios en los que participe el Instituto con dependencias, organismos públicos o particulares;
+IX.- (DEROGADA, P.O. 16 DE ABRIL DE 2010)
 
 X.- Proponer a los Integrantes de la Contraloría el programa de trabajo para inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del instituto para su autorización por el Consejo;
 
-XI.- Informar al Consejo la situación que guarda la Contraloría;
+XI.- (DEROGADA, P.O. 16 DE ABRIL DE 2010)
 
 XII.- Hacer del conocimiento del Consejo sobre las dudas que se susciten en la aplicación del presente reglamento, a efecto de que se emita un criterio de interpretación;
 
@@ -237,9 +247,15 @@ XIII.- Firmar, junto con los Integrantes de la Contraloría, todas las resolucio
 
 XIV.- Realizar las gestiones necesarias para la habilitación de la Unidad de la Defensoría Administrativa del Servidor Público, en los casos a que se refiere el artículo 28 del presente reglamento.
 
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2010)</small>
+
+XV.- Habilitar días y horas para la recepción de información y documentación por parte de la Contraloría.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 2010)</small>
+
 ###### Artículo 14.
 
-La Contraloría contará con un Contador Público, el cual tendrá las siguientes atribuciones:
+la (sic) Contraloría contará con un Contador Público, el cual tendrá las siguientes atribuciones:
 
 I.- Auxiliar a la Contraloría y a su Presidente, en el ejercicio de sus atribuciones;
 
@@ -255,13 +271,13 @@ VI.- Recibir los informes que sean competencia de la Contraloría;
 
 VII.- Recibir en ausencia del Presidente las inconformidades que presenten los proveedores y/o prestadores de servicios, respecto a los actos relacionados con las licitaciones públicas y adjudicaciones de pedidos y contratos celebrados con el Instituto, así como dar cuenta de las mismas; de la misma forma, recibir y dar cuenta de las denuncias o quejas presentadas contra los Servidores Públicos;
 
-VIII.- Notificar a las unidades administrativas de la existencia de errores en sus informes;
+VIII.- (DEROGADA, P.O. 16 DE ABRIL DE 2010)
 
 IX.- Formar y conservar el archivo de los asuntos que se traten en la Contraloría en ejercicio de sus atribuciones;
 
 X.- Revisar las actividades o procesos de administración, aprobación y contabilización que le ordene la Contraloría;
 
-XI.- Dar cuenta al Presidente de las transferencias aprobadas por el Consejo;
+XI.- (DEROGADA, P.O. 16 DE ABRIL DE 2010)
 
 XII.- Asesorar e intervenir en los actos de entrega y recepción, en los términos de la reglamentación respectiva;
 
@@ -528,3 +544,7 @@ P.O. 13 DE OCTUBRE DE 2006.
 P.O. 18 DE SEPTIEMBRE DE 2007.
 
 Único.- La presente adición entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE ABRIL DE 2010.
+
+Único.- Las reformas y adiciones al presente reglamento entrarán en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
