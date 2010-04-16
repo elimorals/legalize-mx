@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-368
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2005-07-11"
+last_updated: "2010-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2010.
 
 Reglamento publicado en la Séptima Sección del Periódico Oficial del Estado de Puebla, el viernes 19 de diciembre de 2003.
 
@@ -221,13 +221,11 @@ a) El marco jurídico que regule las comunicaciones y transportes en la Entidad,
 
 b) Las demás que le confiera la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, las leyes aplicables o le asigne el Presidente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2010)</small>
 
-VI.- SALUD Y GRUPOS CON CAPACIDAD DIFERENCIADA:
+VI.- Salud:
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
-
-a) La normatividad en el área de salud, asistencia social y grupos con capacidad diferenciada; y
+a) La normatividad en el área de salud y asistencia social; y
 
 b) Las demás que le confiera la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, las leyes aplicables o le asigne el Presidente.
 
@@ -319,7 +317,39 @@ a) Orientar a los gobiernos municipales sobre las funciones que les correspondan
 
 b) Las demás que le confiera la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, las leyes aplicables o le asigne el Presidente.
 
-XVIII.- INSTRUCTORA:
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2010)</small>
+
+XVIII.- Ciencia y Tecnología:
+
+a) La legislación en materia de ciencia y tecnología;
+
+b) Los procesos que hagan posible la definición de prioridades, asignación y optimización de recursos del Gobierno Estatal y Federal para la ciencia y la tecnología; y
+
+c) Las demás que le confiera la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, las leyes aplicables o le asigne el Presidente.
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2010)</small>
+
+XIX.- Juventud:
+
+a) La legislación en materia de Juventud;
+
+b) Promover la participación de la juventud ante las instituciones, organismos públicos y privados, estatales o nacionales en la vida social, política, económica, cultural y deportiva; y
+
+c) Las demás que le confiera la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, las leyes aplicables o le asigne el Presidente.
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2010)</small>
+
+XX.- Atención a Personas con Discapacidad:
+
+a) Legislación y atención de las personas que sufran cualquier tipo de discapacidad;
+
+b) Vincular a este sector con las autoridades para lograr la plena inclusión e integración de las personas con discapacidad en un marco de igualdad de oportunidades, en todos los ámbitos de la vida; y
+
+c) Las demás que le confiera la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, las leyes aplicables o le asigne el Presidente.
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2010)</small>
+
+XXI.- Instructora:
 
 a) Substanciación de los procedimientos de juicio político y de declaración de procedencia, en términos de la normatividad de la materia; y
 
@@ -2014,3 +2044,29 @@ Los asuntos turnados a la Comisión General de Trabajo y Previsión Social, segu
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 16 DE ABRIL DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Comisión de Salud y Grupos con Capacidad Diferenciada que actualmente conoce de los asuntos turnados por el Pleno, seguirá conociendo hasta su conclusión, a la entrada en vigor del presente Decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las Comisiones que actualmente conocen de los asuntos turnados por el Pleno, seguirán conociendo hasta su conclusión, a la entrada en vigor del presente Decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
