@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2010-01-22"
+last_updated: "2010-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -483,7 +483,9 @@ VI.- El Estado, subsidiariamente, por sus funcionarios o empleados.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-Artículo 51 ter.- Serán aplicables a la obligación de reparar el daño y los perjuicios causados por el delito, las siguientes disposiciones:
+###### Artículo 51 Ter.
+
+Serán aplicables a la obligación de reparar el daño y los perjuicios causados por el delito, las siguientes disposiciones:
 
 I.- Tendrá carácter de preferente con respecto a la multa y a cualquier otra obligación asumida con posterioridad al delito, excepto las de carácter alimentario o laboral, salvo que se demuestre que éstas fueron contraídas para evadir el cumplimiento de aquéllas, y
 
@@ -943,7 +945,9 @@ III.- Si el salario percibido por el sentenciado fuere mayor de quince tantos de
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-Artículo 102 bis.- Si la persona sentenciada se encuentra gozando de su libertad caucional, el depositante podrá autorizar que la garantía que haya exhibido para tal efecto, se aplique primero a la reparación del daño, a la multa y pago de la multa que conmuta la pena, ordenándose la devolución del remanente, en su caso, a quien exhibió la caución. Si el importe de la garantía fuere insuficiente, la persona sentenciada deberá cubrir la diferencia en términos de Ley.
+###### Artículo 102 Bis.
+
+Si la persona sentenciada se encuentra gozando de su libertad caucional, el depositante podrá autorizar que la garantía que haya exhibido para tal efecto, se aplique primero a la reparación del daño, a la multa y pago de la multa que conmuta la pena, ordenándose la devolución del remanente, en su caso, a quien exhibió la caución. Si el importe de la garantía fuere insuficiente, la persona sentenciada deberá cubrir la diferencia en términos de Ley.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
@@ -1545,9 +1549,13 @@ Al que realice una llamada de emergencia o permita utilizar su teléfono, a sabi
 
 ### CAPITULO CUARTO.- DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
 
-#### SECCION PRIMERA.- DELITO CONTRA LA ECOLOGIA
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ABRIL DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
+#### SECCION PRIMERA.- DELITOS CONTRA EL MEDIO AMBIENTE
+
+(NOTA: EL 5 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 6/2010, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE ABRIL DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
 
 ###### Artículo 187.
 
@@ -1579,7 +1587,9 @@ Son medios de transporte los vehículos destinados a prestar un servicio públic
 
 > <small>(ADICIONADO, P.O. 2 DE MARZO DE 2001)</small>
 
-Artículo 190 bis.- Al que a sabiendas de que no cuenta con la concesión o permiso otorgado por la autoridad competente preste el servicio público de transporte o del servicio mercantil, se le impondrán de tres meses a tres años de prisión y multa de cincuenta a quinientos días de salario.
+###### Artículo 190 Bis.
+
+Al que a sabiendas de que no cuenta con la concesión o permiso otorgado por la autoridad competente preste el servicio público de transporte o del servicio mercantil, se le impondrán de tres meses a tres años de prisión y multa de cincuenta a quinientos días de salario.
 
 Igual sanción se impondrá al propietario del medio de transporte que realice, contrate o permita la prestación de estos servicios.
 
@@ -1613,23 +1623,9 @@ Las autoridades de Tránsito, bajo su responsabilidad, deberán denunciar ante e
 
 #### SECCION SEGUNDA.- DELITOS CONTRA LA INFRAESTRUCTURA HIDRAULICA
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
+(NOTA: EL 5 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 6/2010, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE ABRIL DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-ARTÍCULO 198 quáter.- Se aplicará prisión de uno a cuatro años y multa de tres a veinte mil días de salario, a quien de manera dolosa o culposa realice, autorice, consienta, permita u ordene, la descarga, el depósito o infiltración de contaminantes, sustancias corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas, al sistema de alcantarillado o drenaje de las poblaciones, en contravención a las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas, así como a las normas técnicas ecológicas aplicables, que causen o puedan causar afectación a la salud de la población o al ecosistema.
-
-Igual sanción se aplicará si la descarga, el depósito o infiltración a que se refiere el párrafo anterior se realiza en ríos, cuencas, vasos o demás depósitos de corrientes de agua y ocasione o pueda ocasionar daños a la salud pública o al ecosistema.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
-
-ARTÍCULO 198 quinquies.- Se aplicará prisión de uno a cuatro años y multa de tres a cien días de salario, independientemente del pago de los daños causados, a quien de manera dolosa, sin la autorización correspondiente, y en contravención a las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas, así como a las normas técnicas ecológicas aplicables, cause daño, deterioro, alteración o destrucción en:
-
-I.- Los sistemas de tratamiento de aguas residuales, sulfhídricas o salinas, estatales o municipales;
-
-II.- Los aparatos de medición de las tomas de agua;
-
-III.- Los tableros de control, pozos, bombas, válvulas, instalaciones o instrumentos de la red de agua potable, alcantarillado y drenaje, de jurisdicción estatal o municipal; y
-
-IV.- Las redes de agua potable, drenaje o sistemas de alcantarillado de jurisdicción estatal o municipal.
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2010)</small>
 
 ###### Artículo 195.
 
@@ -1651,33 +1647,111 @@ La disposición del artículo 195 de este Código no comprende la correspondenci
 
 #### SECCION SEGUNDA (SIC).- INCENDIO Y OTROS ESTRAGOS
 
-###### ARTÍCULO 198.
+###### Artículo 198.
 
-Se aplicará prisión de dos a ocho años y multa de treinta a dos mil días de salario, a quien con peligro de la salud pública o de la riqueza ecológica, y en contravención a las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas, así como a las normas técnicas ecológicas aplicables, realice, autorice, permita u ordene cualquiera de las siguientes conductas:
+Se aplicará prisión de dos a diez años y multa de treinta a dos mil días de salario, a quien con peligro de la salud pública, ocasione un daño ambiental o desequilibrio ecológico, y en contravención a las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas aplicables, realice, autorice, permita u ordene cualquiera de las siguientes conductas:
 
-I.- Tale, corte, desmonte, destruya árboles, bosques y/o afecte de manera ilícita, recursos forestales, excepto en los casos de aprovechamientos de dichos recursos para uso doméstico, conforme a lo dispuesto en la Ley Forestal;
+I.- Tale, corte, desmonte, destruya árboles, bosques y/o afecte de manera ilícita, recursos forestales, excepto en los casos de aprovechamientos de dichos recursos para uso doméstico, conforme a lo dispuesto en la Ley de Desarrollo Forestal Sustentable del Estado;
 
-II.- Transporte, comercie, acopie o transforme recursos forestales maderables obtenidos por la tala clandestina, en cantidades superiores a tres metros cúbicos rollo o su equivalente;
+II.- Transporte, comercie, acopie, almacene o transforme recursos forestales maderables obtenidos por la tala clandestina en cantidades superiores a tres metros cúbicos rollo o su equivalente;
 
-III.- Expulse o descargue en la atmósfera gases, humos, polvos, líquidos o partículas que causen o puedan ocasionar daños a la salud pública, la flora, la fauna o a los ecosistemas, en jurisdicción estatal o municipal;
+III.- Expulse o descargue en la atmósfera gases, humos, polvos, líquidos, vapores o partículas sólidas que causen o puedan ocasionar daños graves a la salud pública o al medio ambiente en jurisdicción estatal o municipal;
 
-IV.- Realice actividades con materiales o residuos que por su composición o cantidad sean considerados potencialmente riesgosos, que no sean competencia de la Federación, y que provoquen contaminación en tierras y aguas de jurisdicción estatal y municipal; y
+IV.- Transporte, comercie, almacene, deseche, descargue o realice cualquier actividad empleando residuos sólidos urbanos o de manejo especial, sin la autorización correspondiente y en volúmenes que causen o puedan causar daños graves a la salud pública, al medio ambiente o a los recursos naturales; y
 
-V.- Realice obras o actividades, sin obtener de la autoridad correspondiente la autorización de impacto y riesgo ambiental, o no implemente las medidas preventivas y correctivas que establecen las normas o disposiciones aplicables o le indique la autoridad competente, para la mitigación de impactos ambientales y de seguridad de las personas, sus bienes y el ambiente; ocasionando daños a la salud pública, la flora, la fauna o a los ecosistemas de jurisdicción estatal o municipal.
+V.- Realice obras o actividades sin obtener de la autoridad correspondiente la autorización de impacto y riesgo ambiental o no implemente las medidas preventivas, correctivas o de seguridad, indicadas por la autoridad ambiental, ocasionando daños a la salud pública, al medio ambiente o a los recursos naturales.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
 
-ARTÍCULO 198 bis.- Se impondrá prisión de uno a tres años y multa de cien a trescientos cincuenta días de salario, a los prestadores de servicios ambientales autorizados, centros de verificación, laboratorios y/o cualquier persona física o moral que de manera dolosa o culposa, proporcione documentación o información falsa o alterada, u omitan datos, con el objeto de que las autoridades ambientales y/o fiscales competentes, otorguen o avalen licencias, autorizaciones, registros, constancias o permisos de cualquier tipo o cancelen sanciones o créditos fiscales.
+###### Artículo 198 Bis.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
+Se impondrá de seis meses a tres años de prisión y multa de cincuenta a doscientos días de salario, al titular de una concesión de un centro de verificación vehicular, responsable y/o al empleado de éste, que de manera dolosa o culposa, realice, autorice, permita u ordene cualquiera de las siguientes conductas:
 
-ARTÍCULO 198 ter.- Se impondrá de seis meses a tres años de prisión y multa de cincuenta a doscientos días de salario, a quien de manera dolosa o culposa, sustituya, trafique o haga uso indebido de documentos oficiales, relativos al programa de verificación de vehículos automotores; así como a quien condicione ilícitamente la aprobación de la verificación vehicular a la entrega de dádivas en efectivo o en especie, o por cualquier motivo cobre por la verificación una cantidad superior a la autorizada oficialmente.
+I.- Altere o haga uso indebido de documentos oficiales;
+
+II.- Utilice simuladores de revoluciones para el proceso de verificación;
+
+III.- Sustituya vehículos en el proceso de verificación;
+
+IV.- Condicione la aprobación o la entrega de documentación comprobatoria de la verificación vehicular a la entrega de dinero adicional al previsto en la tarifa oficial; y
+
+V.- Cobre una tarifa superior autorizada por la autoridad competente.
+
+(REFORMADO, P.O. 16 DE ABRIL DE 2010) (F. DE E., P.O. 3 DE MAYO DE 2010)
+
+###### Artículo 198 Ter.
+
+Se impondrá pena de uno a nueve años de prisión y multa de doscientos a dos mil días de salario al que, sin la autorización de la autoridad correspondiente, realice actividades de explotación, extracción, procesamiento o aprovechamiento de minerales o sustancias no reservadas a la federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su imperismo, que puedan utilizarse como materia prima que genere un daño a la salud pública, al medio ambiente o a los recursos naturales.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE ABRIL DE 2010)</small>
+
+###### Artículo 198 Quáter.
+
+Se impondrá pena de uno a tres años de prisión y multa de trescientos a dos mil días de salario, al prestador de servicios ambientales, profesionistas o técnicos en materia forestal que falte a la verdad, alterando documentos o emita dictámenes, estudios o resoluciones, que ocasionen daño a la salud pública, al medio ambiente o a los recursos naturales.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE ABRIL DE 2010)</small>
+
+###### Artículo 198 Quinquies.
+
+Se impondrá de tres a ocho años de prisión y multa de cien a mil días de salario a los propietarios o representantes legales de las industrias, comercios o servicios, que incumplan lo dispuesto en las disposiciones legales en materia ambiental, provocando un daño a la salud pública, al medio ambiente o a los recursos naturales, realizando las siguientes conductas:
+
+I.- Omitan el empleo de los equipos anticontaminantes en empresas, industrias o fuentes móviles que generen contaminantes atmosféricos;
+
+II.- No instalen o no utilicen adecuadamente las plantas de tratamiento de aguas residuales;
+
+III.- Maneje, almacene, acopie, transfiera, transporte o recicle de forma inadecuada los residuos sólidos que generen; y
+
+IV.- Asiente datos falsos en los registros, bitácoras o cualquier otro documento utilizado, con el propósito de simular el cumplimiento de las obligaciones derivadas de la normatividad ambiental aplicable.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2010)</small>
+
+###### Artículo 198 Sexies.
+
+Para los efectos de los delitos contra el medio ambiente, la reparación del daño incluirá además:
+
+I.- La realización de acciones necesarias para restablecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados, al estado en que se encontraban antes de realizarse el delito; y
+
+II.- La suspensión, modificación o demolición de las construcciones, obras, maquinaria, instrumentos o actividades que hubieran dado lugar al delito ambiental respectivo.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2010)</small>
+
+###### Artículo 198 Septies.
+
+Se impondrá prisión de uno a tres años y multa de cien a trescientos cincuenta días de salario e inhabilitación para ocupar cargo, empleo o comisión en el servicio público hasta por un lapso de seis años, cuando en la comisión de un delito previsto en esta sección, intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de ese carácter, integre expedientes, otorgue o avale licencias, autorizaciones, registros, constancias o permisos de cualquier tipo que causen o puedan causar daños graves a la salud pública, al medio ambiente o a los recursos naturales.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2010)</small>
+
+###### Artículo 198 Octies.
+
+En caso de que alguno de los delitos previstos en esta Sección afecten un área natural protegida de jurisdicción o administración estatal, la pena de prisión podrá aumentarse hasta cinco años más, y la pena económica hasta en mil días de salario.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE JULIO DE 2001)</small>
 
 #### SECCION CUARTA.- DELITOS CONTRA EL ORDEN EN EL DESARROLLO URBANO
 
 > <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
+
+###### Artículo 198 Nonies.
+
+Se aplicará prisión de uno a diez años y multa de tres a veinte mil días de salario, a quien de manera dolosa o culposa, realice, autorice, consienta, permita u ordene la descarga, el depósito o infiltración de contaminantes, sustancias corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas, al sistema de alcantarillado o drenaje de las poblaciones, en contravención a las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas aplicables, que causen o puedan causar daño a la salud pública, al medio ambiente o a los recursos naturales.
+
+Igual sanción se aplicará si la descarga, el depósito o infiltración, a que se refiere el párrafo anterior, se realiza en ríos, cuencas, vasos o demás depósitos de corrientes de agua.
+
+(NOTA: EL 5 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 6/2010, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE ABRIL DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2010)</small>
+
+###### Artículo 198 Decies.
+
+Se aplicará prisión de uno a cuatro años y multa de tres a cien días de salario, independientemente del pago de los daños causados, a quien en contravención a las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas aplicables, cause daño, deterioro, alteración o destrucción en:
+
+I.- Los sistemas de tratamiento de aguas residuales, sulfhídricas o salinas estatales o municipales;
+
+II.- Los aparatos de medición de las tomas de agua;
+
+III.- Los tableros de control, pozos, bombas, válvulas, instalaciones o instrumentos de la red de agua potable, alcantarillado y drenaje de jurisdicción estatal o municipal; y
+
+IV.- Las redes de agua potable, drenaje o sistemas de alcantarillado de jurisdicción estatal o municipal.
 
 #### SECCION PRIMERA.- DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
@@ -1711,23 +1785,29 @@ I.- Instiguen, compelen o dirijan la conformación de un asentamiento humano irr
 
 II.- Con el carácter de funcionarios públicos realicen actos u omisiones para alentar o permitir un asentamiento irregular.
 
-> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
 
 ###### Artículo 199 Quáter.
 
-La pena de prisión se incrementará hasta en una mitad más cuando las conductas previstas en el presente Capítulo se realicen sobre áreas protegidas o de preservación ecológica o en zonas no consideradas aptas para vivienda por los Planes y Programas de Desarrollo Urbano respectivos.
+La pena de prisión se incrementará hasta en una mitad más cuando las conductas previstas en la presente Sección, se realicen sobre áreas naturales protegidas o de preservación ecológica o en zonas no consideradas aptas para vivienda por los Planes y Programas de Desarrollo Urbano respectivos.
 
-> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 2010)</small>
 
 ###### Artículo 199 Quinquies.
 
-Son aplicables a los delitos previstos en este Capítulo las siguientes disposiciones:
+Son aplicables a los delitos previstos en esta Sección, las siguientes disposiciones:
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
 
 I.- Las penas que resulten por la comisión de los delitos en mención, se impondrán independientemente de las que correspondan en caso de acreditarse un daño patrimonial o lucro indebido con motivo de los mismos;
 
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+
 II.- Se entiende por asentamiento humano irregular un grupo de personas que se establezcan o pretendan establecerse en un inmueble dividido o lotificado para fines de vivienda, comercio o industria, sin contar con las autorizaciones expedidas por las autoridades competentes y por fraccionamiento irregular cualquier división de un predio en lotes sin tener las autorizaciones administrativas correspondientes; y
 
-III.- No se considerará fraccionamiento irregular, para los efectos de este Título, cuando un ascendiente transfiera la propiedad o posesión de partes de un inmueble a sus descendientes, pero éstos deberán cumplir las normas aplicables según el tipo de propiedad de que se trate, para ceder sus derechos a terceros.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2010)</small>
+
+III.- No se considerará fraccionamiento irregular, para los efectos de esta Sección, cuando un ascendiente transfiera la propiedad o posesión de partes de un inmueble a sus descendientes, pero estos deberán cumplir las normas aplicables según el tipo de propiedad de que se trate, para ceder sus derechos a terceros.
 
 #### SECCION TERCERA.- QUEBRANTAMIENTO DE SELLOS
 
@@ -1891,7 +1971,9 @@ Se entenderá como empleado al menor de dieciocho años de edad que por cualquie
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
-Artículo 218 bis.- Cuando un médico legalmente autorizado o institución de salud atiendan a un farmacodependiente menor de dieciocho años de edad que posea algún enervante, estupefaciente, psicotrópico o cualquier otra substancia tóxica y demás substancias o vegetales que determine la Ley General de Salud, cuyo uso esté prohibido o controlado; o que se encuentre bajo el influjo de las substancias antes descritas, deberá hacerlo del conocimiento del Ministerio Público y de las autoridades sanitarias a la brevedad posible, para los efectos legales correspondientes y para brindarles el tratamiento que corresponda.
+###### Artículo 218 Bis.
+
+Cuando un médico legalmente autorizado o institución de salud atiendan a un farmacodependiente menor de dieciocho años de edad que posea algún enervante, estupefaciente, psicotrópico o cualquier otra substancia tóxica y demás substancias o vegetales que determine la Ley General de Salud, cuyo uso esté prohibido o controlado; o que se encuentre bajo el influjo de las substancias antes descritas, deberá hacerlo del conocimiento del Ministerio Público y de las autoridades sanitarias a la brevedad posible, para los efectos legales correspondientes y para brindarles el tratamiento que corresponda.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
@@ -1999,7 +2081,9 @@ Si el delincuente fuera ascendiente, descendiente, cónyuge, hermano, tutor, cur
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-Artículo 228 bis.- Las sanciones que señalan los artículos 227 y 228 se duplicarán si la persona explotada es menor de dieciséis años.
+###### Artículo 228 Bis.
+
+Las sanciones que señalan los artículos 227 y 228 se duplicarán si la persona explotada es menor de dieciséis años.
 
 #### SECCION PRIMERA.- FALSIFICACION DE ACCIONES, OBLIGACIONES Y OTROS DOCUMENTOS DE CREDITO PUBLICO
 
@@ -2203,7 +2287,9 @@ II.- Al que introduzca al Estado o ponga en circulación los documentos menciona
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2000)</small>
 
-Artículo 245 BIS.- Se impondrá prisión de tres a nueve años y multa de ciento cincuenta a cuatrocientos días de salario:
+###### Artículo 245 Bis.
+
+Se impondrá prisión de tres a nueve años y multa de ciento cincuenta a cuatrocientos días de salario:
 
 I.- Al que produzca, imprima, enajene aun gratuitamente, distribuya o altere tarjetas, títulos, documentos o instrumentos utilizados para el pago de bienes y servicios o para disposición de efectivo, sin consentimiento de quien esté facultado para ello;
 
@@ -2657,7 +2743,9 @@ Comete el delito de sustracción de menores, el familiar de un menor de catorce 
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
-Artículo 283 BIS.- También comete el delito de sustracción de menores el ascendiente, pariente colateral o afín hasta el cuarto grado que retenga a un menor en los siguientes casos:
+###### Artículo 283 Bis.
+
+También comete el delito de sustracción de menores el ascendiente, pariente colateral o afín hasta el cuarto grado que retenga a un menor en los siguientes casos:
 
 I.- Cuando haya perdido la patria potestad o ejerciendo ésta se encuentre suspendido o limitado;
 
@@ -2687,7 +2775,7 @@ Las mismas sanciones se impondrán a los terceros que recibieren al menor y a la
 
 #### SECCION CUARTA.- REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
-###### Artículo 284. Bis.
+###### Artículo 284 Bis.
 
 Se considera como violencia familiar la agresión física o moral de manera individual o reiterada, que se ejercita en contra de un miembro de la familia por otro integrante de la misma, con afectación a la integridad física o psicológica o de ambas, independientemente de que pueda producir afectación orgánica.
 
@@ -2695,11 +2783,11 @@ Comete el delito de violencia familiar el cónyuge; la cónyuge; concubino; conc
 
 A quien cometa el delito de violencia familiar, se le impondrán de uno a seis años de prisión y multa de cincuenta a ciento cincuenta días de salario; y estará sujeto a tratamiento integral para su rehabilitación por un tiempo que no rebase la sanción privativa de la libertad que se haya impuesto, así como la pérdida de la patria potestad, de los derechos hereditarios y de alimentos.
 
-La Autoridad Judicial y el Ministerio Público, en su caso, dictará las medidas necesarias para el tratamiento psicoterapéutico del agresor y la víctima, ordenando cuando sea procedente las medidas apropiadas para salvaguardar la integridad de sus familiares.
+La Autoridad Judicial y el Ministerio Público, en su caso, dictará las medidas necesarias para el tratamiento psicoterapéutico del agresor y de la víctima, ordenando cuando sea procedente las medidas apropiadas para salvaguardar la integridad de sus familiares.
 
 (ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2003
 
-###### Artículo 284. Ter.
+###### Artículo 284 Ter.
 
 Se equipara al delito de violencia familiar y se sancionará como tal, a quien abusando de la confianza depositada o de una relación de cualquier índole con la víctima, ejecute conductas que entrañen el uso de la violencia física o moral en contra de cualquier menor de catorce años, que dañe su integridad física o psicológica.
 
@@ -2851,9 +2939,9 @@ V.- Cuando se cometa robo de infante.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-###### Artículo 302
+###### Artículo 302 Bis.
 
-Bis.- Se impondrá de treinta años de prisión a prisión vitalicia y multa de cuatro mil a ocho mil días de salario, si en la privación de la libertad a que se hace referencia el artículo 302 concurre alguna o algunas de las circunstancias siguientes:
+Se impondrá de treinta años de prisión a prisión vitalicia y multa de cuatro mil a ocho mil días de salario, si en la privación de la libertad a que se hace referencia el artículo 302 concurre alguna o algunas de las circunstancias siguientes:
 
 a) Que el autor sea o haya sido integrante de alguna institución de seguridad pública, o se ostente como tal sin serlo;
 
@@ -2865,9 +2953,9 @@ d) Que la víctima padezca una enfermedad crónica o grave o tenga una discapaci
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-###### Artículo 302
+###### Artículo 302 Ter.
 
-Ter.- Si el secuestrado fallece en el tiempo en que se encuentra privado de la libertad, por causas directamente relacionadas con el ilícito que se comete en su contra, o es privado de la vida por su o sus secuestradores, se impondrán de cuarenta años de prisión a prisión vitalicia y multa de seis mil a doce mil días de salario.
+Si el secuestrado fallece en el tiempo en que se encuentra privado de la libertad, por causas directamente relacionadas con el ilícito que se comete en su contra, o es privado de la vida por su o sus secuestradores, se impondrán de cuarenta años de prisión a prisión vitalicia y multa de seis mil a doce mil días de salario.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3749,6 +3837,14 @@ Comete el delito de fraude de usura, el que se aprovechare de la ignorancia o la
 
 Se impondrá prisión de siete a diez años y multa de quinientos a mil días de salario, más la reparación del daño en el que se incluirán los accesorios financieros calculados a la misma tasa de interés permitida por el Banco de México a sus intermediarios financieros.
 
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2010)</small>
+
+###### Artículo 406 Bis.
+
+Se impondrán las mismas sanciones previstas en el último párrafo del artículo anterior, al que mediante la oferta pública capte recursos del público, ofreciendo rendimientos ostensiblemente superiores a los otorgados por el sistema financiero mexicano, para su colocación en el público mediante actos causantes de pasivo o la celebración de otro acto jurídico de cualquier naturaleza, sin realizar las provisiones necesarias para responder por la inversión y sus rendimientos o preste cualquier servicio de banca o crédito, sin contar con la autorización correspondiente.
+
+Para efectos de este artículo se entenderá que existe captación de recursos del público cuando: a) se solicite, promueva u ofrezca la obtención de fondos o recursos de persona indeterminada, mediante gestión personal, de grupo o utilizando medios de comunicación masiva; o b) se soliciten u obtengan fondos o recursos de forma habitual o profesional.
+
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
 ###### Artículo 407.
@@ -3807,7 +3903,9 @@ Cuando el dueño de una cosa la incendie para defraudar a sus acreedores, o para
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
-Artículo 413 bis.- Al que sin consentimiento realizare o pintare signos, leyendas, dibujos o cualquiera otra manifestación gráfica, en bienes inmuebles de propiedad privada se le impondrá prisión de treinta días a tres años y multa de diez a doscientos cincuenta días de salario.
+###### Artículo 413 Bis.
+
+Al que sin consentimiento realizare o pintare signos, leyendas, dibujos o cualquiera otra manifestación gráfica, en bienes inmuebles de propiedad privada se le impondrá prisión de treinta días a tres años y multa de diez a doscientos cincuenta días de salario.
 
 Si las conductas a que se refiere el párrafo anterior se realizaren en una escuela, biblioteca, edificio público, museo, monumento u obra de arte, o que se considere parte del patrimonio histórico, artístico o cultural del Estado, se impondrán al responsable de sesenta días a seis años de prisión y multa de veinte a quinientos días de salario.
 
@@ -4540,3 +4638,9 @@ P.O. 22 DE ENERO DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que contravengan las contenidas en el presente Decreto.
+
+P.O. 16 DE ABRIL DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
