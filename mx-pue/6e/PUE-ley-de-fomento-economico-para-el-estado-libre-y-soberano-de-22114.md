@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fomento-economico-para-el-estado-libre-y-soberano-de-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-03"
-last_updated: "2001-08-03"
+last_updated: "2010-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22114&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DE FOMENTO ECONOMICO PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE FOMENTO ECONOMICO DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 16 DE ABRIL DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Puebla, el viernes 3 de agosto de 2001.
 
@@ -1348,3 +1350,35 @@ Los derechos adquiridos al amparo de las Leyes de Fomento anteriormente expedida
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veintiséis días del mes de julio de dos mil uno. Diputado Presidente.- JULIO CÉSAR BOUCHOT GARRIDO.- Rúbrica.- Diputado Vicepresidente.- CARLOS MANUEL BALDERAS CEBALLOS.- Rúbrica.- Diputado Secretario.- CÉSAR AUGUSTO REYES CABRERA.- Rúbrica.- Diputado Secretario.- GERARDO COETO CASTRO.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los tres días del mes de agosto del año dos mil uno.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO HÉCTOR JIMÉNEZ Y MENESES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE ABRIL DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fomento Económico para el Estado Libre y Soberano de Puebla, de fecha veintiséis de julio de dos mil uno, publicada en el Periódico Oficial del Estado el tres de agosto del mismo año.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Gobernador del Estado de Puebla expedirá el Reglamento de la presente Ley, en un plazo que no exceda de ciento veinte días hábiles contados a partir de la entrada en vigor de este ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+En tanto no se expida el Reglamento de esta Ley, estarán vigentes las disposiciones contenidas en la Ley anterior en cuanto no se opongan a la presente.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos, gestiones, trámites, juicios o asuntos análogos que se tramiten ante la Secretaría de Desarrollo Económico, así como los contratos, convenios y demás instrumentos jurídicos en los que consten acuerdo de voluntades, que a la fecha de entrada en vigor de la presente Ley se encuentren pendientes de substanciación, resolución y ejecución, continuarán substanciándose o surtiendo sus efectos hasta su conclusión, conforme a la normatividad aplicable.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las erogaciones que se deriven de la aplicación de esta Ley, estarán sujetas a la suficiencia presupuestal correspondiente.
