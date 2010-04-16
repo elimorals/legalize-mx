@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2010-02-08"
+last_updated: "2010-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -7891,9 +7891,11 @@ VI.- Los herederos o legatarios; sus descendientes, ascendientes, cónyuge o her
 
 VII.- Los que hayan sido condenados por el delito de falsedad.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+
 ###### Artículo 1401.
 
-Cuando el testador ignora el idioma del país, concurrirán al acto y firmarán el testamento, además de los testigos y el Notario, dos intérpretes nombrados por el mismo testador.
+Cuando el testador ignore el idioma del país, concurrirán al acto y firmarán el testamento, el Notario, un intérprete nombrado por el mismo testador, así como los testigos cuando así lo exigiere la ley.
 
 ###### Artículo 1402.
 
@@ -7927,9 +7929,25 @@ Si los interesados están ausentes o son desconocidos, la noticia se dará al ju
 
 Del Testamento Publico Abierto.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+
 ###### Artículo 1409.
 
-Testamento público abierto, es el que se otorga ante Notario y tres testigos idóneos.
+Testamento público abierto, es el que se otorga ante el Notario y, cuando así lo solicite el testador o la ley así lo exigiese, ante uno o dos testigos que sepan leer y escribir.
+
+Se requerirá siempre la participación de dos testigos instrumentales:
+
+I- Si el testador es menor de edad.
+
+II- Si el testador no sabe leer o escribir, no puede leer su testamento, o no puede firmar ni poner su huella digital.
+
+III- Si el testador es enteramente sordo o ciego.
+
+IV- Si el testador desconoce el idioma español.
+
+V- Cuando el testador tenga noventa ó más años de edad, a la fecha del otorgamiento de su testamento.
+
+VI- Si el testador dicta su testamento en el lecho de su enfermedad. En este caso y en el de la fracción anterior, uno de los testigos deberá ser médico en ejercicio de su profesión, quien en el acto de otorgamiento del testamento certificará la capacidad y comprensión del testador.
 
 ###### Artículo 1410.
 
@@ -7943,31 +7961,41 @@ Todas estas formalidades serán indispensables para la validez del testamento, a
 
 ###### Artículo 1411.
 
-Si alguno de los testigos no supiere escribir, firmará otro de ellos por él, pero cuando menos, deberá constar la firma entera de dos testigos.
+(DEROGADO, P.O. 16 DE ABRIL DE 2010)
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
 
 ###### Artículo 1412.
 
-Si el testador no pudiere o no supiere escribir, intervendrá otro testigo más, que firme a su ruego.
+Si el testador no pudiere o no supiere escribir, firmará a su ruego uno de los testigos.
 
 ###### Artículo 1413.
 
-En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
+(DEROGADO, P.O. 16 DE ABRIL DE 2010)
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
 
 ###### Artículo 1414.
 
-El que fuere enteramente sordo; pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre.
+El que fuere enteramente sordo; pero que sepa leer, deberá dar lectura a su testamento; si no supiese o no pudiere leerlo, designará a uno de los testigos para que lo lea en su nombre.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
 
 ###### Artículo 1415.
 
-Cuando sea ciego el testador, se dará lectura al testamento dos veces: una por el Notario, como está prescrito en este capítulo y otra en igual forma por uno de los testigos u otra persona que el testador designe.
+Cuando sea ciego el testador o no pudiera leer su testamento, se dará lectura al testamento dos veces: una por el Notario, como está prescrito en este capítulo y otra en igual forma por uno de los testigos.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
 
 ###### Artículo 1416.
 
-Cuando el testador ignore el idioma del país, si puede, escribirá de su puño y letra su testamento, que será traducido al español por los dos intérpretes a que se refiere el artículo 1401. La traducción se transcribirá como testamento en el Protocolo respectivo y el original se archivará en el Apéndice correspondiente del Notario que intervenga en el acto.
+Cuando el testador ignore el idioma del país, si puede, escribirá de su puño y letra su testamento, que será traducido al español por el intérprete a que se refiere el artículo 1401.
 
-Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por los dos intérpretes que deben concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
+La traducción se transcribirá como testamento en el Protocolo del Notario y el original se archivará en el apéndice correspondiente del Notario que intervenga en el acto.
 
-Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por los dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
+Si el testador no puede o no sabe escribir, el intérprete escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por el intérprete que deba concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
+
+Si el testador no puede o no sabe leer, dictará en su idioma el testamento al intérprete. Traducido por el intérprete, se procederá como dispone el párrafo segundo de este artículo.
 
 ###### Artículo 1417.
 
@@ -8105,13 +8133,17 @@ Toda persona que tuviere en su poder un testamento cerrado y no lo presente, com
 
 Del Testamento Ológrafo.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+
 ###### Artículo 1448.
 
-Se llama testamento ológrafo al escrito de puño y letra del testador.
+Se llama testamento ológrafo al escrito de puño y letra del testador; o que conste en documento impreso por cualquier medio con la expresión al final, de puño y letra del testador, de que ese es su testamento, anotando por lo menos, el lugar y la fecha de su otorgamiento, y escribiendo luego su nombre y firma.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
 
 ###### Artículo 1449.
 
-Este testamento podrá ser otorgado por las personas mayores de edad, y para que sea válido, deberá estar totalmente escrito por el testador y firmado por él, con expresión del día, mes y año en que se otorgue.
+Este testamento podrá ser otorgado por las personas mayores de edad.
 
 Los extranjeros podrán otorgar testamento ológrafo en su propio idioma.
 
@@ -8121,29 +8153,41 @@ Si contuviere palabras tachadas, enmendadas o entre renglones, las salvará el t
 
 La omisión de esta formalidad por el testador, sólo afecta a la validez de las palabras tachadas, enmendadas o entre renglones, pero no al testamento mismo.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+
 ###### Artículo 1451.
 
-El testador hará por duplicado su testamento ológrafo e imprimirá en cada ejemplar su huella digital. El original dentro de un sobre cerrado y lacrado, será depositado en la sección correspondiente del Registro Público y el duplicado, también encerrado en un sobre lacrado y con la nota en la cubierta, de que se hablará después, será devuelto al testador. Este podrá poner en los sobres que contengan los testamentos, los sellos, señales o marcas que estime necesarios para evitar violaciones.
+El testador hará por duplicado su testamento ológrafo e imprimirá en el anverso de cada hoja de ambos ejemplares su huella digital. El original dentro de un sobre cerrado y lacrado, será depositado en la sección correspondiente del Registro Público y el duplicado, también encerrado en un sobre lacrado y con la nota en la cubierta, de que se hablará después, será devuelto al testador. Éste podrá poner en los sobres que contengan los testamentos, los sellos, señales o marcas que estime necesarias para evitar violaciones.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
 
 ###### Artículo 1452.
 
-El depósito en el Registro Público se hará personalmente por el testador, quien si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original, el testador, de su puño y letra, pondrá la siguiente constancia: "Dentro de este sobre se contiene mi testamento". A continuación se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y por el encargado de la oficina. En caso de que intervengan testigos de identificación, también firmarán.
+El depósito en el Registro Público se hará personalmente por el testador, quien se identificará ante él con documentación oficial con fotografía. En la parte exterior del sobre que contenga el testamento original, el testador, de su puño y letra, pondrá la siguiente constancia: “dentro de este sobre se contiene mi testamento”, A continuación se expresará su nombre, el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y en su caso también por quien presentó el testamento, y por el encargado de la oficina. A la constancia se anexará copia de la documentación oficial con que se identificó el testador, o quien presentó el testamento para su registro.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
 
 ###### Artículo 1453.
 
-En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia extendida por el encargado de la oficina: "Recibí el pliego cerrado que el señor ..............................................................afirma contiene original su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado." Se pondrá luego el lugar y la fecha en que se extiende la constancia que será firmada por el encargado de la oficina, poniéndose también al calce la firma del testador y de los testigos de identificación, cuando intervengan.
+En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia extendida por el encargado de la oficina: “Recibí el pliego cerrado que el señor ... afirma contiene original su testamento ológrafo del cual, según afirmación del testador, existe dentro de este sobre un duplicado”. Se pondrá luego el lugar y la fecha en que se extiende la constancia que será firmada por el encargado de la oficina, poniéndose también al calce la firma del testador o de quien presentó el testamento para su registro.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
 
 ###### Artículo 1454.
 
-Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Registro Público, el encargado de ellas deberá concurrir al lugar donde aquel se encontrare, para cumplir las formalidades del depósito.
+Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Registro Público, el encargado de ellas deberá concurrir al lugar donde aquél se encontrare, para cumplir las formalidades del depósito; o bien, el testador lo enviará al Registro Público con persona autorizada específicamente para esos efectos, debiendo constar esa autorización por escrito, con la certificación notarial de la identidad del testador y la ratificación de este respecto a su firma y contenido en el escrito de autorización.
 
 ###### Artículo 1455.
 
 Hecho el depósito, el encargado del Registro tomará razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al mismo testador, o al Juez competente.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+
 ###### Artículo 1456.
 
-En cualquier tiempo el testador tendrá derecho de retirar del archivo personalmente o por medio de mandatario con poder solemne y especial, el testamento depositado; haciéndose constar la entrega en una acta que firmarán el interesado y el encargado de la oficina.
+En cualquier tiempo el testador tendrá derecho de retirar del archivo personalmente o por medio de persona autorizada en los términos del artículo 1454, el testamento depositado, haciéndose constar la entrega en un acta que firmarán quien retira el testamento y el encargado de la oficina.
+
+El acto de retiro del testamento, o la manifestación del testador de retirarlo implica la revocación del testamento, sin perjuicio de que el testamento se pudiera revocar por cualquier otro medio legal.
 
 ###### Artículo 1457.
 
@@ -12603,7 +12647,7 @@ El arredador (sic) que no haga las obras que ordene la autoridad competente en e
 
 El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la ley para que sea fiador.
 
-Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arrendatario dar fianza o subsistir esa garantía con el depósito de un mes de renta.
+Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
 
 No puede renunciarse anticipadamente el derecho de cobrar la indemnización que conceden los Artículos 2330, 2331 y 2332.
 
@@ -13105,7 +13149,7 @@ Solamente será gratuito el mandato cuando así se haya convenido expresamente.
 
 ###### Artículo 2433.
 
-El mandato será simpre por escrito y podrá otorgarse:
+El mandato será siempre por escrito y podrá otorgarse:
 
 I.- En escritura pública;
 
@@ -16382,3 +16426,9 @@ P.O. 8 DE FEBRERO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 16 DE ABRIL DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
