@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-notariado-para-el-estado-de-oaxaca-6943"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-30"
-last_updated: "2001-03-30"
+last_updated: "2010-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DEL 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 30 de julio de 1994.
 
@@ -157,7 +157,9 @@ I.- Ser mexicano por nacimiento y estar en pleno goce de sus derechos ciudadanos
 
 II.- Tener una residencia en el Estado no menor de cinco años;
 
-III.- Haber cumplido 35 años edad y tener un modo honesto de vivir;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2010)</small>
+
+III.- Haber cumplido treinta años de edad y tener un modo honesto de vivir;
 
 IV.- Tener título de Licenciado en Derecho expedido en forma legal e inscrito en la Dirección General de Profesiones y en el Tribunal Superior de Justicia del Estado;
 
@@ -165,9 +167,9 @@ V.- No ser ministro de algún culto;
 
 VI.- Acreditar mediante certificado expedido por Médico Titulado, no padecer enfermedad mental o impedimento físico que obstaculice el ejercicio de las funciones notariales;
 
-VIl.- No haber sido condenado en sentencia ejecutoria por delito intencional, ni estar sujeto a proceso, así como no haber sido declarado en quiebra o sujeto a concurso, sin que haya sido rehabilitado;
+VII.- No haber sido condenado en sentencia ejecutoria por delito intencional, ni estar sujeto a proceso, así como no haber sido declarado en quiebra o sujeto a concurso, sin que haya sido rehabilitado;
 
-VIll.- Tener cuando menos cinco años de práctica de la Profesión de Abogado, contados desde la fecha del examen profesional respectivo;
+VIII.- Tener cuando menos cinco años de práctica de la Profesión de Abogado, contados desde la fecha del examen profesional respectivo;
 
 IX.- Haber practicado un año en alguna Notaría del país en forma continua. Los Notarios del Estado darán aviso de inicio a la Dirección General de Notarías proporcionando el nombre, domicilio, profesión y edad del aspirante y para justificar su continuidad, cada tres meses reiterará el aviso a la misma Dirección.
 
@@ -175,7 +177,7 @@ Tratándose de Notarías fuera del Estado, deberá acreditar documentalmente, el
 
 X.- Presentar y aprobar examen especial en los términos que previene el siguiente capítulo de esta Ley;
 
-XI.- Otorgar fianza por el importe de quinientos días de salario mínimo vigente en el Estado de Oaxaca para garantizar el pago de la reparación de daño en el caso de que, por sentencia ejecutoria sea condenado por delito cometido en el ejercicio del Notariado o, en su caso, el pago de la responsabilidad civil a que hubiere dado lugar.
+XI.- Otorgar fianza por el importe de quinientos días de salario mínimo vigente en el Estado de Oaxaca para garantizar el pago de la reparación de daño en el caso de que, por sentencia ejecutoria sea condenado por delito cometido en el ejercicio del Notariado o, en su caso, el pago de la responsabilidad civil a que hubiere dado lugar;
 
 En el mes de enero de cada año par esa garantía será incrementada en la misma proporción en la que hubiere aumentado el salario mínimo en el Estado. Si el Notario es de nueva designación, no podrá tener acceso al ejercicio de sus funciones sino hasta que se haya cumplido con este requisito;
 
@@ -1248,3 +1250,7 @@ Al C.................
 P.O. 30 DE MARZO DEL 2001.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE ABRIL DE 2010.
+
+ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
