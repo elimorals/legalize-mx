@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-18581"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-11-26"
-last_updated: "2005-07-11"
+last_updated: "2010-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Gobierno Constitucional del Estado de Puebla el viernes 26 de noviembre de 1999.
 
@@ -863,9 +863,9 @@ IV.- Desarrollo Social;
 
 V.- Comunicaciones y Transportes;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2010)</small>
 
-VI.- Salud y Grupos con Capacidad Diferenciada;
+VI.- Salud;
 
 VII.- Educación, Cultura y Deporte;
 
@@ -899,13 +899,25 @@ XV.- Desarrollo Urbano y Medio Ambiente;
 
 XVI.- Migración y Asuntos Internacionales;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2010)</small>
 
-XVII.- Asuntos Municipales; y
+XVII.- Asuntos Municipales;
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2010)</small>
 
-XVIII.- Instructora.
+XVIII.- Ciencia y Tecnología;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2010)</small>
+
+XIX.- Juventud;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2010)</small>
+
+XX.- Atención a Personas con Discapacidad; y
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2010)</small>
+
+XXI.- Instructora.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
@@ -1450,3 +1462,35 @@ Los asuntos turnados a la Comisión General de Trabajo y Previsión Social, segu
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 16 DE ABRIL DE 2010.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCION VI DEL ARTICULO 43 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Comisión de Salud y Grupos con Capacidad Diferenciada que actualmente conoce de los asuntos turnados por el Pleno, seguirá conociendo hasta su conclusión, a la entrada en vigor del presente Decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2010.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LAS FRACCIONES XVII A XX DEL ARTICULO 43 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las Comisiones que actualmente conocen de los asuntos turnados por el Pleno, seguirán conociendo hasta su conclusión, a la entrada en vigor del presente Decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2010.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LAS FRACCIONES XIX A XXI DEL ARTICULO 43 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
