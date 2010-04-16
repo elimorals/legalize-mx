@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-comite-de-planeacion-para-el-15896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-28"
-last_updated: "2003-05-16"
+last_updated: "2010-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO BAJA CALIFORNIA
 
-REGLAMENTO INTERNO DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO INTERNO DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 28 de enero de 2000.
 
@@ -463,7 +463,9 @@ La Dirección, para el adecuado cumplimiento de sus atribuciones, contará con e
 
 I.- Area de Planeación Sectorial;
 
-II.- Area de Sistematización Estadística;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2010)</small>
+
+II.- Área de Programas y Estudios de Población; y,
 
 III.- Area Administrativa y Contable.
 
@@ -531,31 +533,23 @@ XI.- Asesorar técnicamente a los Subcomités, para el adecuado cumplimiento de 
 
 XII.- Las demás que determine el Director.
 
-###### ARTICULO 47.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
 
-Corresponden al Area de Sistematización Estadística las siguientes atribuciones.
+###### ARTÍCULO 47.
 
-I.- Administrar la información que se genera a través de los distintos Subcomités, seguimiento de la planeación sectorial, actualización de avances planteados en cada Subcomité, acciones específicas, metas, calendarización y responsables en el sistema de información;
+Corresponden al Área de Programas y Estudios de Población las siguientes atribuciones:
 
-II.- Elaboración de material estadístico de apoyo para las reuniones con los Subcomités;
+I.- Elaborar el programa de actividades de su unidad administrativa, incluyendo acciones de Paternidad Responsable, Educación en Población, Familia y Población, Participación de la Mujer, Comunicación en Población y Fortalecimiento de la Política de Población y someterlos a la consideración del Director para su aprobación definitiva;
 
-III.- Participar en la elaboración, instrumentación, seguimiento, evaluación y actualización del Plan Estatal de Desarrollo;
+II.- Planear, coordinar y promover conjuntamente con las otras unidades administrativas y áreas del COPLADE, la realización de estudios, foros, mesas redondas, consultas, así como todo tipo de eventos que coadyuven al mejoramiento y desarrollo del programa de población;
 
-IV.- Participar en la elaboración del Informe de Gobierno;
+III.- Coordinar, supervisar y controlar las diferentes etapas operativas para la realización de encuestas y mantenimiento del Marco Muestral de Viviendas;
 
-V.- Participar en la Elaboración del Anuario Estadístico del Estado;
+IV.- Participar en la elaboración del Anuario Estadístico del Estado;
 
-VI.- Dar seguimiento al Sistema de Información Estadístico Integral del Estado;
+V.- Coordinar sus acciones con los Comités Municipales de Población, los Subcomités de Población y el Técnico Regional de Estadística e Información Geográfica.
 
-VII.- Mantener en condiciones óptimas de operación los equipos de cómputo, comunicaciones y demás recursos de la red;
-
-VIII.- Elaborar y diseñar sistemas de información internos para el control administrativo;
-
-IX.- Administrar la base de datos de información a través del control de usuarios y cargas de operación;
-
-X.- Vigilar que todos los sistemas de cómputo estén administrados correctamente;
-
-XI.- Las demás que le señale el Director.
+VI.- Las demás que sean encomendadas por el Director.
 
 ###### ARTICULO 48.
 
@@ -638,3 +632,9 @@ A la entrada en vigor del presente ordenamiento, cuando en el contenido del Decr
 P.O. 16 DE MAYO DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 16 DE ABRIL DE 2010.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO DEL EJECUTIVO DEL ESTADO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 43 Y 47 DEL REGLAMENTO INTERNO DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
