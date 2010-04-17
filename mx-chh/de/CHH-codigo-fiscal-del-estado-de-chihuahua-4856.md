@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2008-04-23"
+last_updated: "2010-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2010.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -593,7 +593,11 @@ El Tesorero podrá dispensar la garantía del interés fiscal cuando, en relaci�
 
 ### CAPITULO VI. SUJETOS
 
-70.- Sujeto pasivo de la relación fiscal es la persona física o moral, mexicana o extranjera que, de acuerdo con las leyes, está obligada al pago de una prestación determinada al fisco estatal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+
+70.- Las personas físicas o morales, mexicanas o extranjeras; la Federación, el Estado, los municipios y sus organismos descentralizados y demás entidades paraestatales, así como las personas de derecho público con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos o de la Constitución Política del Estado de Chihuahua, están obligadas a contribuir para los gastos públicos conforme a este Código y demás disposiciones fiscales estatales.
 
 También es sujeto pasivo cualquier agrupación que constituya una unidad económica diversa de la de sus miembros. Para la aplicación de las leyes fiscales, se asimilan estas agrupaciones a las personas morales.
 
@@ -643,15 +647,21 @@ IV.- Tratándose de personas físicas o morales, residentes fuera del Estado, qu
 
 V.- Las personas domiciliadas fuera del Estado que perciban ingresos cuya fuente se localice en el territorio de la Entidad o realicen actos u operaciones en el Estado o que surtan sus efectos dentro de él, están obligadas a pagar las contribuciones establecidas en este Código. Los sujetos residentes en la Entidad que con ellos contraten o intervengan en la relación jurídica o económica correspondiente, estarán obligados a retener el gravamen que se cause.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-73.- La Federación, los Estados y los Municipios no son sujetos de impuestos, contribuciones especiales, derechos, y aprovechamientos, estando exentos de los mismos:
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
-a).- Las instituciones y asociaciones de beneficencia pública y privada;
+73.- Las personas físicas y morales y los entes públicos a que se refiere el artículo 70 de este Código, son sujetos de impuestos, contribuciones especiales o extraordinarias, derechos, aprovechamientos y demás obligaciones que prevean las disposiciones fiscales del Estado.
 
-b).- Las sociedades cooperativas, de acuerdo con las leyes respectivas, y
+Tratándose de impuestos y contribuciones especiales o extraordinarias a cargo de los entes públicos a que se refiere el artículo 70 de este Código, deberá estarse a lo que establezcan las disposiciones aplicables a cada impuesto y contribución especial o extraordinaria en particular.
 
-c).- Las demás personas que expresamente señalen las leyes del Estado.
+Están exentos del pago de impuestos:
+
+a) Las instituciones y asociaciones de beneficencia pública y privada;
+
+b) Las sociedades cooperativas, de acuerdo con las disposiciones fiscales del Estado, y
+
+c) Las demás personas que expresamente señalen las disposiciones fiscales del Estado.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
@@ -1803,9 +1813,11 @@ Para los efectos de este impuesto quedan comprendidas en el concepto de remunera
 
 DEL SUJETO
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-167.- Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas que realicen pagos por concepto de remuneración al trabajo personal en los términos a que se refiere el artículo anterior.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+167.- Son sujetos de este impuesto las personas físicas y morales, mexicanas o extranjeras; la Federación, el Estado, los municipios, sus organismos descentralizados y demás entidades paraestatales, así como los entes de derecho público con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Chihuahua y las unidades económicas que realicen pagos por concepto de remuneración al trabajo personal subordinado en los términos a que se refiere el artículo 166 de este Código.
 
 DE LA BASE
 
@@ -4866,3 +4878,13 @@ El presente Decreto entrará en vigor inmediatamente después de su aprobación 
 ###### ARTÍCULO SEGUNDO.
 
 Para el cómputo de los plazos que rijan en los procedimientos dentro del Sistema de Justicia Penal Tradicional, se ajustarán a lo que establezca el artículo 69 del Código de Procedimientos Civiles, únicamente para el cómputo de éstos, hasta que dichos procesos se concluyan en forma definitiva.
+
+P.O. 17 DE ABRIL DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de abril del año 2010.
+
+###### ARTÍCULO SEGUNDO.
+
+Se otorga un estímulo fiscal por el ejercicio fiscal de 2010, al Estado y los Municipios, así como a sus organismos descentralizados y demás entidades paraestatales y entes de derecho público con autonomía derivada de la Constitución Política del Estado de Chihuahua, consistente en el no pago de impuestos estatales y contribuciones extraordinarias o especiales establecidas en las disposiciones fiscales del Estado.
