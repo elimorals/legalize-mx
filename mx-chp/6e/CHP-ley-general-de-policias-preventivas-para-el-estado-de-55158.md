@@ -4,7 +4,7 @@ identifier: "CHP-ley-general-de-policias-preventivas-para-el-estado-de-55158"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-03-14"
-last_updated: "2007-03-14"
+last_updated: "2010-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY GENERAL DE POLICIAS PREVENTIVAS PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY QUE ESTABLECE LAS BASES DE OPERACION DE LA SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -1134,3 +1136,21 @@ Dado en el salón de Sesiones del Honorable del (sic) Congreso del Estado de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 13 días del mes de febrero del año 2007.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE ABRIL DE 2010.
+
+Artículo Primero: La presente Ley entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo: Se abroga la Ley General de Policías Preventivas del Estado de Chiapas, publicada en el Periódico Oficial número 017 Segunda Sección, Tomo III, de fecha 14 de marzo de 2007, así como las demás disposiciones que contravengan a la presente Ley.
+
+Artículo Tercero: El Titular de la Secretaría de Seguridad y Protección Ciudadana, deberá remitir al Ejecutivo del Estado en un plazo no mayor de sesenta días naturales contados a partir de la entrada en vigencia de la presente Ley, los Reglamentos y demás disposiciones complementarias que emanen de ésta para su aprobación, expedición y publicación, hasta en tanto, serán aplicables las disposiciones contenidas en los Reglamentos derivados de la Ley que se deroga, los cuales continuarán surtiendo sus efectos en todo aquello que no se opongan a la presente.
+
+Artículo Cuarto: La Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad, asumirá de inmediato las funciones que había venido realizando el Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad.
+
+Artículo Quinto: La Secretaría de Seguridad y Protección Ciudadana, deberá llevar a cabo, en términos de esta Ley y de la Ley del Sistema Estatal de Seguridad Pública, todas las acciones necesarias para implementar la Carrera Policial.
+
+Artículo Sexto: La asignación de grados y jerarquías al personal operativo y de servicio deberá realizarse en un plazo no mayor a sesenta días naturales a partir de la entrada en vigencia de la presente Ley.
+
+Artículo Séptimo: Las instancias normativas deberán llevar a cabo de inmediato todas las acciones necesarias para adecuar la estructura de la Secretaría de Seguridad y Protección Ciudadana, conforme a lo dispuesto en la presente Ley.
