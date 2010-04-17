@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-del-deporte-44556"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-03-17"
-last_updated: "2005-03-17"
+last_updated: "2010-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44556&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY ORGANICA DEL INSTITUTO DEL DEPORTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL SISTEMA ESTATAL DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 17 de marzo de 2005
 
@@ -310,3 +312,17 @@ Dado en el salón de sesiones del Honorable congreso del Estado Libre y Soberano
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los catorce días del mes de marzo del año dos mil cinco
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Rubén F. Velázquez López, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE ABRIL DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley del Instituto del Deporte, publicada mediante Decreto 128, en el Periódico Oficial número 294, Tomo II, de fecha jueves 17 de marzo de 2004.
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones que se opongan a la presente ley.
+
+Artículo Cuarto.- El Consejo del Sistema del Deporte, el Comité Estatal contra el uso de sustancias prohibidas y la Comisión Resolutiva de Inconformidades, deberán quedar instalados en un término no mayor de sesenta días contados a partir de la entrada del presente Decreto.
+
+Artículo Quinto.- El Reglamento de la Ley del Sistema Estatal de Cultura Física y Deporte para el Estado de Chiapas, deberá expedirse dentro de los noventa días siguientes a la fecha de entrada en vigor de la presente ley.
