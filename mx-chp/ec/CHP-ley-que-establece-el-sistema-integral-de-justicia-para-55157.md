@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-el-sistema-integral-de-justicia-para-55157"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-07"
-last_updated: "2009-03-18"
+last_updated: "2010-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 7 de marzo de 2007.
 
@@ -265,9 +265,11 @@ Los magistrados y jueces de los tribunales especializados, en sus resoluciones, 
 
 La Defensoría, es el órgano especializado del Poder Judicial del Estado, encargado de proporcionar obligatoria y gratuitamente la asesoría jurídica y la defensa de derechos de los adolescentes durante la investigación y el proceso, el cual se (sic) conducirá sus actuaciones con autonomía funcional, independencia e imparcialidad.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 24.
 
-La Unidad de Ejecución de Medidas, es el órgano especializado de la Secretaría de Seguridad Pública que aplicará las medidas impuestas a los adolescentes conforme a lo establecido por la presente Ley, actuará con autonomía técnica, cuyo objetivo será la reintegración del adolescente a la sociedad y la familia.
+La Unidad de Ejecución de Medidas, es el Órgano Administrativo especializado de la Secretaría, adscrito a la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad, encargado del control y supervisión de la legalidad de la ejecución de la sanción para adolescentes, tendrá competencia para resolver los incidentes que se presenten durante la ejecución de la sanción y para vigilar y garantizar el cumplimiento de los objetivos para la reintegración del adolescente a la sociedad y la familia.
 
 ###### Artículo 25.
 
@@ -773,7 +775,7 @@ La ejecución de las sanciones comprende todas las acciones destinadas a promove
 
 ###### Artículo 75.
 
-La Unidad de ejecución de sanciones, es el órgano Administrativo de la Secretaría de Seguridad Publica, encargado del control y supervisión de la legalidad de la ejecución de la sanción para adolescentes, tendrá competencia para resolver los incidentes que se presenten durante la ejecución de la sanción y para vigilar y garantizar el cumplimiento de los objetivos fijados por esta Ley.
+(DEROGADO, P.O. 17 DE ABRIL DE 2010)
 
 ###### Artículo 76.
 
@@ -3522,3 +3524,13 @@ P.O. 18 DE MARZO DE 2009.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 17 DE ABRIL DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero.- Se extingue la Unidad de Ejecución de Medidas como Órgano desconcentrado, por lo tanto los recursos humanos, materiales y financieros, así como los compromisos que haya adquirido se transfieren a la Unidad de Ejecución de Medidas de la Secretaría de Seguridad y Protección Ciudadana.
+
+Artículo Cuarto.- Las dependencias normativas, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones necesarias para el cumplimiento del presente Decreto.
