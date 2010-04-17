@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2009-11-25"
+last_updated: "2010-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2010.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -742,6 +742,12 @@ No podrá prescindirse del pago de la reparación del daño y la sanción econó
 ARTICULO 71 C.- Cuando la orden de aprehensión o el auto de formal prisión se dicte en contra de una persona mayor de 70 años de edad o de permanente salud precaria, el juez podrá ordenar que la prisión preventiva se lleve a cabo en el domicilio del indiciado o procesado bajo las medidas de seguridad que correspondan. La petición se tramitará incidentalmente.
 
 No gozarán de esta beneficio quienes, a criterio del juez, puedan sustraerse de la acción de la justicia o manifiesten conducta que haga presumir fundadamente que causarán daño al denunciante o querellante, a la víctima u ofendido o a quienes directa o indirectamente participen o deban participar en el proceso.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+ARTICULO 71 D.- Cuando el responsable de un delito doloso sea o haya sido miembro de alguna corporación policial pública o privada en los últimos cinco años contados a partir de la comisión del ilícito, la sanción prevista en el delito que corresponda aumentará hasta en una mitad; además de imponérsele la destitución e inhabilitación para ejercer empleo, cargo o comisión de la misma naturaleza de manera permanente, cuando así proceda.
+
+Lo dispuesto en el párrafo anterior será aplicable a los siguientes delitos previstos en este ordenamiento: delitos contra el orden constitucional del Estado y su integridad territorial previsto en los artículos 127 y 128; conspiración relacionado con el artículo 129, rebelión contemplado en los artículos 130, 131,132 y 135; sedición y otros desórdenes públicos con relación a los numerales 140 y 143; terrorismo de conformidad con el artículo 145; evasión de presos referido en los artículos 146, 148 y 152; armas prohibidas concerniente a lo dispuesto en el numeral 157; asociaciones delictuosas relativo a los numerales 158, 159 y 160; delitos de tránsito ejecutados por conductores de vehículos o autoridades de tránsito referente al numeral 163; ultraje a insignias públicas respecto a los artículos 188 y 189; corrupción y prostitución de menores e incapaces con relación a los artículos 200, 201 y 202 Bis; lenocinio previsto en el artículo 206; revelación de secretos relativo a los numerales 208 y 209: ejercicio indebido de funciones tocante al artículo 211; abuso de autoridad, intimidación y tortura con relación a los artículos 212, 213 y 214; coalición de servidores públicos respecto en el artículo 215; tráfico de influencia consignado en el artículo 216, cohecho contemplado en el artículo 217; peculado señalado en el numeral 218; concusión previsto en el artículo 221; delitos cometidos en la custodia de documentos relativo al artículo 224; enriquecimiento ilícito de conformidad con lo que dispone el artículo 225; falsedad en declaraciones judiciales y en informes dados a una autoridad contemplado en el artículo 246; usurpación de funciones públicas o de profesión referido en el artículo 249; uso indebido de condecoraciones, insignias, distintivos o uniformes de conformidad con lo que establece el artículo 250; atentados al pudor tocante a los artículos 255 y 256; estupro citado en el artículo 258; violación mencionado en el articulo 260; hostigamiento o acoso sexual previsto en el numeral 260 Bis; sustracción y trafico de infantes concerniente al artículo 265; amenazas relacionado con los artículos 276, 277, 278; chantaje previsto en el artículo 279; allanamiento de morada contemplado en el artículo 280; asalto en referencia a los artículos 281 y 282; privación ilegal de la libertad y otros derechos de conformidad con el artículo 283; secuestro o plagio previsto en el artículo 284; desaparición forzada de personas mencionado en el articulo 291 A; trata de personas aludido en los numerales 291 B, 291 C, 291 D y 291 E; calumnia tocante al artículo 297; lesiones relacionado con los artículos 308, 309 Y 310; homicidio de conformidad con el numeral 321; robo relacionado con los artículos 343 y 347; abigeato referente a los artículos 357, 358, 359, 360 y 363; abuso de confianza citado en el artículo 364 y encubrimiento señalado en el artículo 381.
 
 ### CAPITULO V. SANCIONES EN LOS CASOS DE CONCURSO DE DELITOS, REINCIDENCIA Y HABITUALIDAD
 
@@ -3884,5 +3890,9 @@ P.O. 28 DE MARZO DE 2009.
 Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
 
 P.O. 25 DE NOVIEMBRE DE 2009.
+
+Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 17 DE ABRIL DE 2010.
 
 Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
