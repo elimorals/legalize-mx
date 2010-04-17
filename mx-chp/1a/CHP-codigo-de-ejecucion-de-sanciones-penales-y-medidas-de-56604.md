@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-ejecucion-de-sanciones-penales-y-medidas-de-56604"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-05-30"
-last_updated: "2009-12-30"
+last_updated: "2010-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO DE EJECUCION DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 30 de mayo de 2007.
 
@@ -69,9 +69,13 @@ III. Código: A éste Ordenamiento;
 
 IV. Comisión Interdisciplinaria: A la Comisión Interdisciplinaria de los centros;
 
-V. Comité Técnico: Al Comité Técnico del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
 
-VI. Consejo: Al Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad;
+V. Comité Técnico: Al Comité Técnico de la Secretaría de Seguridad y Protección Ciudadana;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+
+VI. Subsecretaría: A la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad;
 
 VII. Constitución del Estado: La Constitución Política del Estado de Chiapas;
 
@@ -87,7 +91,9 @@ XII. Secretaría Ejecutiva: A la Secretaría Ejecutiva del Consejo de Ejecución
 
 XIII. Secretario de Seguridad: Al Titular de la Secretaría de Seguridad y Protección Ciudadana;
 
-XIV. Secretario Ejecutivo: Al Titular de la Secretaría Ejecutiva del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+
+XIV. Subsecretario: Al Subsecretario de Ejecución de Sanciones Penales y Medidas de Seguridad.
 
 ###### Artículo 3°.
 
@@ -135,7 +141,7 @@ El régimen de prisión preventiva, tiene por objeto mantener al interno a dispo
 
 Para la mejor individualización del tratamiento y tomando en cuenta las condiciones de cada lugar y las posibilidades presupuestales, existirán instituciones especializadas y establecimientos especiales, así como establecimientos de mínima, media y de máxima seguridad.
 
-> <small>(REFORMADO, P.O 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 8°.
 
@@ -191,27 +197,35 @@ El tratamiento penitenciario, consiste en todas aquellas actividades encaminadas
 
 Dicho tratamiento, tendrá como finalidad desarrollar en ellos una actitud de respeto a sí mismos y, de responsabilidad individual y social con respecto a sus familias y a la sociedad en general.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 14.
 
-El cumplimiento de éste Código corresponde al Consejo, a través de sus autoridades y las demás que éste Ordenamiento y otras disposiciones legales, les encomienden su cumplimiento.
+El cumplimiento de este Código corresponde a la Secretaría, a través de la Subsecretaría y las demás autoridades que este Ordenamiento y otras disposiciones legales, les encomienden su cumplimiento.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 15.
 
-Todos los cuerpos de Seguridad Pública del Estado, están obligados a prestar auxilio y apoyo necesarios al Consejo, para el cumplimiento de sus determinaciones en materia de ejecución de sanciones privativas y restrictivas de la libertad, así como de medidas de seguridad.
+Todos los cuerpos de Seguridad Pública del Estado, están obligados a prestar auxilio y apoyo necesarios a la Subsecretaría, para el cumplimiento de sus determinaciones en materia de ejecución de sanciones privativas y restrictivas de la libertad, así como de medidas de seguridad.
 
 ## Título Segundo. De las Autoridades en Materia de Ejecución de las Sanciones Penales, y de Medidas de Seguridad
 
-### Capítulo I. Del Consejo
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ABRIL DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+### Capítulo I. De la Subsecretaría
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 16.
 
-El Consejo, es un órgano desconcentrado jerárquicamente subordinado a la Secretaría de Seguridad y Protección Ciudadana, con plena autonomía administrativa, presupuestal, técnica, de gestión y de ejecución y que para el desahogo de sus atribuciones, contará con una Secretaría Ejecutiva, con las Unidades Administrativas y el personal necesario para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto que se le asigne.
+La Subsecretaría, es un órgano administrativo de la Secretaría, que contará con los órganos administrativos y el personal necesario para el cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 17.
 
-Son atribuciones del Consejo las siguientes:
+Son atribuciones de la Subsecretaría las siguientes:
 
 I. Que se cumplan (sic) la ejecución de las sanciones penales, las medidas de seguridad impuestas por los Tribunales del Estado de Chiapas, en sentencias ejecutoriadas; y,
 
@@ -221,11 +235,13 @@ II. La reinserción social del sentenciado.
 
 #### Sección Primera. Del Comité Técnico
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 18.
 
-El Comité Técnico es el órgano del Consejo que tiene como objetivo conocer, analizar y resolver las solicitudes que presenten los internos para obtener los beneficios legales a que se hagan acreedores conforme a este Código.
+El Comité Técnico, es el órgano de la Secretaría que tiene como objetivo conocer, analizar y resolver las solicitudes que presenten los internos para obtener los beneficios legales a que se hagan acreedores conforme a este Código.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
 
 El Comité Técnico, estará integrado por:
 
@@ -235,19 +251,27 @@ II. El Secretario de Seguridad y Protección Ciudadana.
 
 III. El Secretario de Salud.
 
-IV. El Ministro de Justicia.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+
+IV. El Procurador General de Justicia.
 
 V. El Director General del Sistema DIF-Chiapas.
 
-VI. El Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
 
-Los cargos del Comité Técnico serán honoríficos. Sus miembros podrán designar a un representante, excepto el Secretario Ejecutivo y funcionarán con base en lo establecido en el Reglamento que para tal efecto se expida.
+VI. El Subsecretario de Ejecución de Sanciones Penales y Medidas de Seguridad.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+Los cargos del Comité Técnico serán honoríficos. Sus miembros podrán designar a un representante, excepto el Subsecretario y funcionarán con base en lo establecido en el Reglamento que para tal efecto se expida.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 19.
 
-El Comité Técnico sesionará ordinariamente cada tres meses y celebrará reuniones extraordinarias en cualquier tiempo, a convocatoria del Secretario Ejecutivo.
+El Comité Técnico sesionará ordinariamente cada tres meses y celebrará reuniones extraordinarias en cualquier tiempo, a convocatoria del Subsecretario.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
 
 Las sesiones, serán válidas con la presencia mayoritaria de sus integrantes y sus resoluciones, serán aprobadas por mayoría de votos.
 
@@ -259,7 +283,9 @@ Son atribuciones del Comité:
 
 I. Resolver y aprobar los beneficios legales a los internos;
 
-II. Decretar la suspensión definitiva o modificación de la sanción privativa de libertad impuesta, a propuesta de la Secretaría Ejecutiva, en los términos del presente Código;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+
+II. Decretar la suspensión definitiva o la modificación de la sanción privativa de libertad impuesta, a propuesta de la Subsecretaría, en los términos de este Código;
 
 III. Establecer el procedimiento para el otorgamiento de los beneficios a que se refiere este Código; y,
 
@@ -269,37 +295,61 @@ IV. Las que señalen el presente Código, su Reglamento y demás disposiciones a
 
 #### Sección Segunda. Del Secretario de Seguridad
 
-> <small>(REFORMADO Y REUBICADO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 21.
 
-Corresponde al Secretario de Seguridad:
+Corresponde al Secretario:
 
-I. Incluir al proyecto del presupuesto de la Secretaría, el proyecto de presupuesto anual de egresos del Consejo, previa propuesta del Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
 
-II. Evaluar el debido cumplimiento de los programas del Consejo;
+I. Incluir al proyecto del presupuesto de la Secretaría, el proyecto de presupuesto anual de egresos de la Subsecretaría, previa propuesta del Subsecretario;
 
-III. Remitir para su publicación los ordenamientos jurídicos internos, consensados con la Secretaría Ejecutiva;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
 
-IV. Aprobar la estructura y organización administrativa de la Secretaría Ejecutiva, así como las modificaciones que para tal efecto procedan;
+II. Evaluar el debido cumplimiento de los programas de la Subsecretaría;
 
-V. Autorizar, de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios que deba celebrar el Consejo, en materia de sistemas penitenciarios;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+
+III. Remitir para su publicación los ordenamientos jurídicos internos, consensados con la Subsecretaría;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+
+IV. Aprobar la estructura y organización administrativa de la Subsecretaría, así como las modificaciones que para tal efecto procedan;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+
+V. Autorizar, de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios que deba celebrar la Subsecretaría, en materia de sistemas penitenciarios;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 VI. Nombrar y remover a las autoridades de los Centros;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 VII. Autorizar la inversión y empleo de los fondos, que con motivo al porcentaje destinado al sostenimiento de las necesidades del interno se recaudaren; asimismo aprobar el ingreso de recursos autogenerados en los Centros;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 VIII. Coadyuvar con los demás Órganos de la Administración Pública Estatal y autoridades competentes, en la ejecución de la política criminal que se implante en el Estado;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 IX. Implantar medidas para mejorar el funcionamiento administrativo, técnico y operativo de los Centros, así como atender las necesidades prioritarias de los internos;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 X. Celebrar acuerdos o convenios de coordinación que estime necesarios para llevar a cabo los fines de este ordenamiento; y,
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 XI. Las demás disposiciones que este Código y otros ordenamientos aplicables establezcan.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 22.
 
-La Secretaría Ejecutiva, estará a cargo de un Secretario Ejecutivo que será nombrado por el Gobernador del Estado, quien deberá cumplir con los siguientes requisitos:
+La Subsecretaría estará a cargo de un titular que será designado por el Gobernador del Estado, quien deberá cumplir con los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos y tener su domicilio en el Estado;
 
@@ -315,13 +365,17 @@ Tener experiencia acreditada en materia penitenciaria.
 
 #### Sección Tercera. De la Secretaría Ejecutiva
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 23.
 
-Son atribuciones de la Secretaría Ejecutiva, las siguientes:
+Son atribuciones del Subsecretario, las siguientes:
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 I. Rendir al Secretario de Seguridad los informes y datos que le solicite;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 II. Ejecutar las sanciones penales, así como las medidas de seguridad en los Centros, sujetándose a lo dispuesto por este Código;
 
@@ -329,83 +383,159 @@ II. Ejecutar las sanciones penales, así como las medidas de seguridad en los Ce
 
 III. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2009)
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 IV. Proporcionar las constancias y los informes de antecedentes penales que soliciten;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 V. Trasladar, intercambiar, custodiar, vigilar y brindar el tratamiento respectivo a toda persona que fuere privada de su libertad, desde el momento de su ingreso a cualquier Centro de Reinserción Social;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 VI. Ordenar el traslado de los internos sentenciados;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 VII. Estudiar y clasificar a las personas a las cuales se les haya impuesto una sanción penal o medida de seguridad por los tribunales penales del Estado, a fin de aplicar a cada uno el tratamiento individualizado que corresponda, de acuerdo al sistema progresivo técnico en todas sus fases;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 VIII. Ejecutar por conducto de los Centros, las sanciones penales privativas de la libertad;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 IX. Velar el efectivo cumplimiento de las sanciones que sean distintas a la privativa de la libertad que impusieren, así como las multas;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 X. Entablar correspondencia con los organismos públicos y autoridades que deban intervenir en la ejecución de lo resuelto en las sentencias;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 XI. Determinar los lugares de internamiento de los inimputables, así como, aplicar y vigilar el tratamiento para los mismos;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 XII. Conocer, investigar y resolver las inconformidades de los internos respecto al trato de que son objeto y, en caso de que éste constituya algún delito, denunciar al responsable ante el Fiscal del Ministerio Público;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 XIII. Supervisar la vigilancia a que estarán sujetas las personas que gocen de los beneficios señalados en este Código;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 XIV. Seleccionar y capacitar al personal de los Centros en todos los niveles, tomando como base su aptitud, vocación y antecedentes personales, previamente a la toma de posesión del cargo y durante el desempeño del mismo. Para el efecto, podrán establecerse cursos teóricos y prácticos de formación y perfeccionamiento, siendo requisito necesario para la obtención del cargo, la aprobación de los exámenes respectivos;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 XV. Proporcionar al Fiscal del Ministerio Público los informes y datos que le solicite; así como a la Comisión Nacional de Derechos Humanos y a la Comisión de Derechos Humanos del Estado.
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 XVI. Supervisar la administración de los Centros;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 XVII. Vigilar el ejercicio presupuestario de los Centros;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 XVIII. Ordenar a las autoridades penitenciarias, que adopten las acciones necesarias para proteger a los sentenciados y visitantes de los Centros;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 XIX. Elaborar y ejecutar los planes y programas relacionados con la reinserción social en el Estado;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 XX. Resolver las controversias que se le planteen por interpretación de los ordenamientos internos o por cualquier otra circunstancia;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 XXI. Proponer al Comité Técnico, los beneficios legales a los internos;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 XXII. Proponer al Secretario de Seguridad, los nombramientos y remociones del personal de los Centros;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 XXIII. Otorgar concesiones a los particulares, o permisos para la venta de productos dentro de los Centros, o autorizar dicha actividad a las autoridades penitenciarias;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 XXIV. Vigilar y, en su caso, suspender en forma temporal o permanente a los concesionarios que oferten productos dentro de los Centros a precios superiores a los del mercado externo;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 XXV. Supervisar la administración de los fondos de los recursos autogenerados y del producto del trabajo de los internos;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 XXVI. Suscribir los convenios y acuerdos de coordinación de carácter general, a fin de que los internos, procesados o con sentencia ejecutoriada por delito del orden común o federal, compurguen su pena en Centros dependientes del Ejecutivo Federal o Estatal;
 
-XXVII. Ejercer la representación legal del Consejo;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+
+XXVII. Ejercer la representación legal de la Subsecretaría;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 XXVIII. Previa autorización del Secretario de Seguridad, determinar la inversión y empleo de los fondos, que con motivo al porcentaje destinado al sostenimiento de las necesidades del interno se recaudaren; asimismo aprobar y normar el ingreso de recursos autogenerados en los Centros;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 XXIX. Emitir y someter a consideración del Secretario de Seguridad, los lineamientos y ordenar las acciones, para implantar un sistema electrónico para las operaciones de compraventa de productos por los internos;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 XXX. Emitir y someter a consideración del Secretario de Seguridad, los lineamientos de salubridad general de los Centros;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 XXXI. A propuesta del Comité Técnico, determinar el sistema de reinserción, en lo que favorezca a las personas sujetas a prisión preventiva;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 XXXII. Implementar previa consideración del Secretario de Seguridad, los planes y programas relacionados con la reinserción social en el Estado;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 XXXIII. Autorizar previa consideración del Secretario de Seguridad, los mecanismos adecuados, para la prevención y erradicación de la delincuencia en el interior de los Centros;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 XXXIV. Organizar el funcionamiento de los Centros, así como supervisar la administración de los mismos donde se encuentren indiciados, procesados y, en su caso, sentenciados;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 XXXV. Ordenar que en los Centros se imparta a los internos diferentes formas y grados de instrucción con una visión integral que no se circunscriba sólo en el aspecto académico; si no en todo aquello que contribuya a su reinserción;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 XXXVI. Previa aprobación del Secretario de Seguridad, establecer en los Centros, unidades industriales, artesanales o de trabajo, destinadas a la capacitación de los internos, así como implementar mecanismos que permitan otorgarles estímulos e ingresos que mejoren su economía familiar y en su caso, les permita reparar el daño causado;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 XXXVII. Vigilar el funcionamiento y régimen de los sistemas de supervisión y custodia de los Centros;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 XXXVIII. Previa aprobación del Secretario de Seguridad, crear y establecer medidas de selección, capacitación y promoción del personal de los Centros;
 
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
 XXXIX. Supervisar que en los Centros se respeten los derechos de los internos;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
 XL. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario de Seguridad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 24.
 
-La Secretaría Ejecutiva, será el superior jerárquico de las autoridades penitenciarias de los Centros.
+El Secretario, será el superior jerárquico de las autoridades penitenciarias de los Centros.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MAYO DE 2008)</small>
 
@@ -421,9 +551,13 @@ La representación, trámite y resolución de los asuntos competencia de la Secr
 
 La Institución del Ministerio Público, tendrá las atribuciones siguientes:
 
-I. Coadyuvar con el Consejo en el cumplimiento de las sanciones penales y medidas de seguridad impuestas por los tribunales penales del Estado.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
 
-II.- Rendir informes, documentos y, en general, toda clase de datos que le sean requeridos por la Secretaría Ejecutiva, y en su caso, solicitar los que sean necesarios para el ejercicio de sus funciones.
+I.- Coadyuvar con la Subsecretaría en el cumplimiento de las sanciones penales y medidas de seguridad impuestas por los tribunales penales del Estado.
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+
+II.- Rendir informes, documentos y, en general, toda clase de datos que le sean requeridos por la Subsecretaría, y en su caso, solicitar los que sean necesarios para el ejercicio de sus funciones.
 
 III. Ser parte en la tramitación de los incidentes que se promuevan en los términos del presente Código.
 
@@ -473,23 +607,31 @@ XV. Aplicación de todos los principios derivados de las garantías individuales
 
 Se considerará como parte de su sanción, el trabajo que realice el interno dentro de los Centros, por constituir uno de los medios para su reinserción social, conforme al artículo 18 de la Constitución Federal.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 28.
 
-La ejecución de las sentencias en materia penal, corresponde al Consejo por conducto de la Secretaría Ejecutiva, quien determinará, en su caso, el lugar y las modalidades de ejecución.
+La ejecución de las sentencias en materia penal, corresponde a la Subsecretaría, quien determinará, en su caso, el lugar y las modalidades de ejecución.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 29.
 
-Corresponde a la Secretaría Ejecutiva, el control de la legalidad de la ejecución de las sanciones penales y medidas de seguridad, de conformidad con las normas que establece el presente Código y demás disposiciones legales aplicables.
+Corresponde a la Subsecretaría, el control de la legalidad de la ejecución de las sanciones penales y medidas de seguridad, de conformidad con las normas que establece el presente código y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 30.
 
-La Secretaría Ejecutiva, controlará el cumplimiento adecuado del régimen penitenciario; entre otras medidas, dispondrá las inspecciones de los establecimientos penitenciarios que fueren necesarias y podrá hacer comparecer ante sí, a los sentenciados con fines de vigilancia y control.
+La Subsecretaría, controlará el cumplimiento adecuado del régimen penitenciario; entre otras medidas, dispondrá las inspecciones de los establecimientos penitenciarios que fueren necesarias y podrá hacer comparecer ante sí, a los sentenciados con fines de vigilancia y control.
 
 ### Capítulo II. De los Derechos del Sentenciado
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 31.
 
-El sentenciado podrá, durante la ejecución de su sanción, plantear ante la Secretaría Ejecutiva, todas las observaciones y quejas en forma oral o por escrito que estime convenientes, la cual deberá responder en forma puntual en un plazo no mayor de quince días, pero en caso de que esté en peligro la vida o la integridad de los internos, la respuesta ha de ser inmediata. En caso de omisión, la Secretaría Ejecutiva será sujeta a las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Chiapas, sin perjuicio de las responsabilidades penales que sean aplicables.
+El sentenciado podrá, durante la ejecución de su sanción, plantear ante la Secretaría, todas las observaciones y quejas en forma oral o por escrito que estime convenientes, la cual deberá responder en forma puntual, a través de la Subsecretaría, en un plazo no mayor de veinte días, pero en caso de que esté en peligro la vida o la integridad de los internos, la respuesta ha de ser inmediata. En caso de omisión, la Subsecretaría será sujeta a las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Chiapas, sin perjuicio de las responsabilidades penales que sean aplicables.
 
 ###### Artículo 32.
 
@@ -503,9 +645,11 @@ El sentenciado, tendrá derecho a una adecuada defensa por sí o por persona o p
 
 Si el sentenciado no paga la multa en el plazo que fija la sentencia, será citado para que acredite su insolvencia, o indique si pretende sustituir la multa por trabajo a favor de la comunidad o bien solicitar plazo para pagarla.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 34.
 
-En los casos en que la multa sea sustituida por trabajo a favor de la comunidad, la Secretaría Ejecutiva fijará el tiempo, las condiciones y el lugar donde el sentenciado cumplirá el trabajo y el plazo de las cuotas para el pago según el caso. Lo anterior de conformidad con los convenios que para tal efecto celebre el Consejo.
+En los casos en que la multa sea sustituida por trabajo a favor de la comunidad, la Subsecretaría, fijará el tiempo, las condiciones y el lugar donde el sentenciado cumplirá el trabajo y el plazo de las cuotas para el pago según el caso. Lo anterior de conformidad con los convenios que para tal efecto celebre la Secretaría.
 
 #### Sección Segunda. De la Reparación del Daño
 
@@ -515,13 +659,21 @@ Para efectos de la reparación del daño se observará lo siguiente:
 
 I. El daño y reparación serán fijados por el Juez de la causa conforme a las pruebas que obren en el proceso y en caso de no pagarse podrá ser garantizado en cualquiera de las formas que establece la ley: ya sea por el propio interesado o por tercero y en casos especiales y de manera subsidiaria por el Fondo Auxiliar de Administración de Justicia;
 
-II. Efectuado el pago de la sanción pecuniaria, en todo o parte, la autoridad competente, dentro del improrrogable término de tres días, pondrá la cantidad correspondiente a la reparación del daño a disposición de la Secretaría Ejecutiva, la cual hará comparecer a quien tenga derecho a ella, para hacerle entrega inmediata de su importe. En caso de que nadie comparezca dicha cantidad se depositará en el Fondo Auxiliar de Administración de Justicia;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
 
-III. En caso de que la autoridad competente no dé cumplimiento a la obligación que le impone la fracción anterior, la Secretaría Ejecutiva, dará vista a la instancia correspondiente, para determinar la responsabilidad a que diere lugar; y,
+II.- Efectuado el pago de la sanción pecuniaria, en todo o en parte, la autoridad competente, dentro del improrrogable término de tres días, pondrá la cantidad correspondiente a la reparación del daño a disposición de la Subsecretaría, la cual hará comparecer a quien tenga derecho a ella, para hacerle entrega inmediata de su importe. En caso de que nadie comparezca, dicha cantidad se depositará en el Fondo Auxiliar de Administración de Justicia;
 
-IV. En los casos de embargo precautorio, la Secretaría Ejecutiva, solicitará su ejecución a la autoridad administrativa correspondiente para que lo realice mediante el procedimiento económico coactivo.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
 
-En los casos en que el Estado sea obligado solidario, el pago de la reparación del daño se hará una vez acreditada la imposibilidad de cobro al sentenciado, y de conformidad con la disponibilidad presupuestaria del ejercicio fiscal de que se trate, previa solicitud de la víctima o el ofendido, presentando la sentencia ejecutoriada respectiva a la Secretaría Ejecutiva.
+III.- En caso de que la autoridad competente no dé cumplimiento a la obligación que le impone la fracción anterior, la Subsecretaría, dará vista a la instancia correspondiente, para determinar la responsabilidad a que diere lugar; y,
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+
+IV.- En los casos de embargo precautorio, la Subsecretaría, solicitará su ejecución a la autoridad administrativa correspondiente para que lo realice mediante el procedimiento económico coactivo.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+En los casos en que el Estado sea obligado solidario, el pago de la reparación del daño se hará una vez acreditada la imposibilidad de cobro al sentenciado, y de conformidad con la disponibilidad presupuestaria del ejercicio fiscal de que se trate, previa solicitud de la víctima o el ofendido, presentando la sentencia ejecutoriada respectiva a la Subsecretaría.
 
 ### Capítulo IV. De las Sanciones Penales de Trabajo en Favor de la Comunidad y Tratamiento en Libertad
 
@@ -535,9 +687,11 @@ El trabajo a favor de la comunidad, consiste en la prestación de servicios no r
 
 El trabajo a favor de la comunidad, se llevará a cabo en jornadas distintas del horario de las labores que representen la fuente de ingresos para la subsistencia del sujeto y de su familia.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 38.
 
-Cuando el trabajo a favor de la comunidad sea sustituto de prisión no mayor de un año o de sanciones impuestas en casos de delitos con pena alternativa, el Consejo, mediante convenios con los Ayuntamientos, procurará que éstos determinen la naturaleza, lugar y modo en que habrá de prestarse aquél.
+Cuando el trabajo á favor de la comunidad sea sustituto de prisión no mayor de un año o de sanciones impuestas en casos de delitos con pena alternativa, la Subsecretaría, mediante convenios con los Ayuntamientos, procurará que estos determinen la naturaleza, lugar y modo en que habrá de prestarse aquél.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
 
@@ -549,9 +703,11 @@ La jornada máxima de trabajo a favor de la comunidad será de cuatro horas. El 
 
 Por ningún concepto, se desarrollará el trabajo a favor de la comunidad en forma que resulte degradante o humillante para el sentenciado.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 41.
 
-La Secretaría Ejecutiva, designará delegados para vigilar el cumplimiento de las sanciones de trabajo en favor de la comunidad, de cuyo resultado deberá expedir, trimestralmente, constancias que serán agregadas al expediente técnico.
+La Subsecretaría, designará delegados para vigilar el cumplimiento de las sanciones de trabajo a favor de la comunidad, de cuyo resultado deberá expedir, trimestralmente, constancias que serán agregadas al expediente técnico.
 
 ###### Artículo 42.
 
@@ -563,43 +719,55 @@ Los delegados, proporcionarán orientación e información a los sentenciados so
 
 El tratamiento en libertad, implica un régimen condicionado de vida en sociedad, que consiste en el sometimiento del sentenciado a las técnicas socio terapéuticas, psicoterapéuticas y todas aquéllas que coadyuven a lograr una mejor reinserción social.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 44.
 
-El tratamiento en libertad de imputables, estará bajo la orientación y cuidado de la Secretaría Ejecutiva. Para tal efecto, diseñará los programas que efectivamente conduzcan a la reinserción social del sentenciado.
+El tratamiento en libertad de imputables, estará bajo la orientación y cuidado de la Subsecretaría. Para tal efecto, diseñará los programas que efectivamente conduzcan a la reinserción social del sentenciado.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 45.
 
-El tratamiento en libertad, se llevará a cabo en instituciones públicas, educativas o en instituciones privadas asistenciales, con quienes el Consejo celebre convenios.
+El tratamiento en libertad, se llevará a cabo en instituciones públicas, educativas o en instituciones privadas asistenciales, con quienes la Subsecretaría celebre convenios.
 
 #### Sección Tercera. De la Impugnación de las Constancias y Modalidades de las Sanciones de Trabajo a Favor de la Comunidad y Tratamiento en Libertad
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 46.
 
-Los sentenciados, podrán impugnar, de conformidad con lo dispuesto en éste Código, el contenido de las constancias de las sanciones de trabajo a favor de la comunidad y tratamiento en libertad, así como las modalidades que la Secretaría Ejecutiva les hubiere impuesto para cumplir las sanciones de tratamiento en libertad y semilibertad, y trabajo a favor de la comunidad.
+Los sentenciados, podrán impugnar, de conformidad con lo dispuesto en este Código, el contenido de las constancias de las sanciones de trabajo a favor de la comunidad y tratamiento en libertad, así como las modalidades que la Subsecretaría les hubiere impuesto para cumplir las sanciones de tratamiento en libertad y semilibertad, y trabajo a favor de la comunidad.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 47.
 
-Toda persona podrá acudir ante la Secretaría Ejecutiva, para denunciar cualquier incumplimiento o forma de simulación que favorezca la impunidad del sentenciado.
+Toda persona podrá acudir ante la Subsecretaría, para denunciar cualquier incumplimiento o forma de simulación que favorezca la impunidad del sentenciado.
 
 ### Capítulo V. De las Sanciones Privativas y Restrictivas de Derechos
 
 #### Sección Primera. Generalidades
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 48.
 
-La ejecución de las sanciones privativas y restrictivas de derechos consistirá, en ejercer sobre el sentenciado, observaciones y orientaciones de su conducta por personal especializado dependiente de la Secretaría Ejecutiva.
+La ejecución de las sanciones privativas y restrictivas de derechos consistirá, en ejercer sobre el sentenciado, observaciones y orientaciones de su conducta por personal especializado dependiente de la Subsecretaría.
 
 #### Sección Segunda. Suspensión e Inhabilitación
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 49.
 
-La Secretaría Ejecutiva, proveerá lo conducente para el cumplimiento de la suspensión de los derechos políticos y los de tutela, cúratela, de ser apoderado, defensor, albacea, perito, depositario o interventor judicial, síndico o interventor en quiebras, árbitro o representante de ausentes, así como, de los derechos directamente afectados por la sentencia condenatoria exclusivamente haciendo del conocimiento de la autoridad correspondiente el contenido de la misma.
+La Subsecretaría, proveerá lo conducente para el cumplimiento de la suspensión de los derechos políticos y los de tutela, curatela, de ser apoderado, defensor, albacea, perito, depositario o interventor judicial, síndico o interventor en quiebras, árbitro o representante de ausentes, así como, de los derechos directamente afectados por la sentencia condenatoria exclusivamente haciendo del conocimiento de la autoridad correspondiente el contenido de la misma.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 50.
 
-Después de practicado el cómputo definitivo de la suspensión o inhabilitación, la Secretaría Ejecutiva, ordenará las comunicaciones e inscripciones que correspondan e informará a la autoridades correspondientes.
-
-Asimismo, les informará sobre la finalización de la condena.
+Después de practicado el cómputo definitivo de la suspensión o inhabilitación, la Subsecretaría, ordenará las comunicaciones e inscripciones que correspondan e informará a las autoridades correspondientes. Asimismo, les informará sobre la finalización de la condena.
 
 ### Capítulo VI. De las Medidas de Seguridad
 
@@ -615,31 +783,37 @@ Cuando en el curso de la ejecución de la sanción privativa de libertad, se acr
 
 Si el padecimiento fuese de carácter temporal, el interno será remitido al establecimiento especializado por el tiempo necesario para su recuperación, sin que dicho internamiento pueda exceder del tiempo ordenado por la sanción privativa de la libertad que se le hubiere impuesto, o de la parte de la misma que le faltare compurgar.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 54.
 
-Si el padecimiento fuese irreversible, la Secretaría Ejecutiva podrá decretar la suspensión definitiva de la sanción privativa de libertad impuesta, previa aprobación del Comité Técnico, y dictará las medidas necesarias para garantizar el principio de interés superior de la salud del interno.
+Si el padecimiento fuese irreversible, la Subsecretaría podrá decretar la suspensión definitiva de la sanción privativa de libertad impuesta, previa aprobación del Comité Técnico, y dictará las medidas necesarias para garantizar el principio de interés superior de la salud del interno.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 55.
 
-La autoridad competente hará del conocimiento de la Secretaría Ejecutiva, la extinción de medidas de seguridad, a efecto de que la persona sea entregada a quien legalmente corresponda.
+La autoridad competente hará del conocimiento de la Subsecretaría, la extinción de medidas de seguridad, a efecto de que la persona sea entregada a quien legalmente corresponda.
 
 ###### Artículo 56.
 
 Los tratamientos médicos y psiquiátricos que se apliquen a los internos que sufran de algún padecimiento que afecte su capacidad de comprensión, les serán aplicados de acuerdo con el principio de protección del interés superior de la salud y la dignidad humana.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 57.
 
-La Secretaría Ejecutiva, dará seguimiento a la aplicación de las medidas de tratamiento para inimputables en los hospitales y establecimientos correspondientes, por conducto de los delegados, quienes realizarán visitas a dichos establecimientos a fin de verificar el cumplimiento de la medida de seguridad impuesta.
+La Subsecretaría, dará seguimiento a la aplicación de las medidas de tratamiento para inimputables en los hospitales y establecimientos correspondientes, por conducto de los delegados, quienes realizarán visitas a dichos establecimientos a fin de verificar el cumplimiento de la medida de seguridad impuesta.
 
 ###### Artículo 58.
 
 Todas las obligaciones que la Ley establece a cargo de los directores de los centros, son aplicables, en lo conducente, a quienes ejecuten las medidas de seguridad y a los directores de los hospitales y centros especializados.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 59.
 
-La Secretaría Ejecutiva, de oficio o a petición de parte, comprobará que el interno en institución de salud, no sea privado de su libertad por más tiempo que el señalado por las reglas de la prescripción del delito de que se trate.
+La Subsecretaría, de oficio o a petición de parte, comprobará que el interno en institución de salud, no sea privado de su libertad por más tiempo que el señalado por las reglas de la prescripción del delito de que se trate.
 
 ## Título Cuarto. Sanciones Restrictivas de Libertad
 
@@ -657,41 +831,53 @@ c) Salida diurna con reclusión nocturna y viceversa.
 
 ### Capítulo II. De los Sentenciados a Confinamiento
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 61.
 
-Los Sentenciados a confinamiento, residirán en el lugar señalado por la Secretaría Ejecutiva, la cual ejercerá su vigilancia y podrá delegarla a la autoridad municipal que corresponda, o a cualquiera que ella determine.
+Los Sentenciados a confinamiento, residirán en el lugar señalado por la Subsecretaría, la cual ejercerá su vigilancia y podrá delegarla a la autoridad municipal que corresponda, o a cualquiera que ella determine.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 62.
 
-La Secretaría Ejecutiva, hará la designación del lugar donde se ejecute el confinamiento, conciliando las exigencias de la tranquilidad pública con la salud y las necesidades del sentenciado. Cuando se trate de delitos contra el orden constitucional y la seguridad del Estado, la designación la hará el juez de la causa.
+La Subsecretaría, hará la designación del lugar donde se ejecute el confinamiento, conciliando las exigencias de la tranquilidad pública con la salud y las necesidades del sentenciado. Cuando se trate de delitos contra el orden constitucional y la seguridad del Estado, la designación la hará el juez de la causa.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 63.
 
-Las Secretaría Ejecutiva cuidará que el confinado obtenga trabajo en el lugar del confinamiento, y en caso de que no lo obtuviere por causa no imputable al mismo, se le auxiliará con ese fin por conducto de la Institución que al efecto se constituya.
+La Subsecretaría, cuidará que el confinado obtenga trabajo en el lugar del confinamiento, y en caso de que no lo obtuviere por causa no imputable al mismo, se le auxiliará con ese fin por conducto de la institución que al efecto se constituya.
 
 ### Capítulo III
 
 De los Sentenciados con Prohibición de ir a Determinado Lugar o Residir en él.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 64.
 
-La vigilancia de las personas a quienes se les prohíba ir o residir en lugar determinado, estará a cargo de los delegados de la Secretaría Ejecutiva, o en su caso solicitará auxilio de las autoridades municipales del lugar prohibido.
+La vigilancia de las personas a quienes se les prohíba ir o residir en determinado lugar, estará a cargo de los delegados de la Subsecretaría, o en su caso solicitará auxilio de las autoridades municipales del lugar prohibido.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 65.
 
-La Secretaría Ejecutiva, dará aviso a la autoridad municipal del lugar prohibido, para que en auxilio de las labores del Consejo proceda a dictar las medidas necesarias para vigilar a los sentenciados o liberados a quienes se les prohíba ir o residir en lugar determinado. En caso de quebrantamiento de la sanción, la autoridad municipal, procederá a retirarlo y comunicará a la Secretaría Ejecutiva, para que ésta dicte y ordene las medidas conducentes.
+El Subsecretario, dará aviso a la autoridad municipal del lugar prohibido, para que en auxilio de las labores de la Subsecretaría proceda a dictar las medidas necesarias para vigilar a los sentenciados o liberados a quienes se les prohíba ir o residir en lugar determinado. En caso de quebrantamiento de la sanción, la autoridad municipal, procederá a retirarlo y comunicará al Subsecretario, para que éste dicte y ordene las medidas conducentes.
 
 ### Capítulo IV. De los Sentenciados a Vigilancia de la Policía
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 66.
 
-Los sentenciados a la vigilancia de la autoridad, quedarán sujetos al control de la Secretaría Ejecutiva, la cual podrá solicitar auxilio a la autoridad municipal o a cualquier otra del lugar de residencia de aquéllos.
+Los sentenciados a la vigilancia de la autoridad, quedarán sujetos al control de la Subsecretaría, la cual podrá solicitar auxilio a la autoridad municipal o a cualquiera otra del lugar de residencia de aquellos.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 67.
 
-Los sentenciados a la vigilancia de la autoridad, podrán transitar libremente en el lugar designado por la Secretaría Ejecutiva, pero no podrán salir de él sin autorización de ésta.
+Los sentenciados a la vigilancia de la autoridad, podrán transitar libremente en el lugar designado por la Subsecretaría, pero no podrán salir de él sin autorización de ésta.
 
 ###### Artículo 68.
 
@@ -705,13 +891,17 @@ Las autoridades encargadas de la vigilancia, promoverán para que el sentenciado
 
 Las sanciones privativas de libertad, se ejecutarán en los términos establecidos por la Ley y las resoluciones judiciales, no deberán afectar ningún otro derecho cuya restricción no hubiera sido decretada por las mismas. No se considerará restricción al trabajo como tratamiento para la reinserción social en términos de este Código.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 70.
 
-Tratándose de delitos graves, así calificados por la ley, el Ministerio Público o el Órgano Jurisdiccional de la causa, podrá ordenar la prisión preventiva del sujeto activo del delito, debiendo hacer del conocimiento inmediato de la Secretaría Ejecutiva y al Director del Centro de Reinserción Social respectivo.
+Tratándose de delitos graves, así calificados por la ley, el Ministerio Público o el Órgano Jurisdiccional de la causa, podrá ordenar la prisión preventiva del sujeto activo del delito, debiendo hacer del conocimiento inmediato de la Subsecretaría y al Director del Centro de Reinserción Social respectivo.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 71.
 
-Cuando el sentenciado debiere cumplir una sanción privativa de libertad, el Órgano Jurisdiccional de la causa, dentro de las siguientes cuarenta y ocho horas, remitirá copia certificada de la sentencia, con la manifestación de hallarse firme, a la Secretaría Ejecutiva y al Director del Centro de Reinserción Social respectivo, dando orden de su ingreso.
+Cuando el sentenciado debiere cumplir una sanción privativa de libertad, el Órgano Jurisdiccional de la causa, dentro de las siguientes cuarenta y ocho horas, remitirá copia certificada de la sentencia, con la manifestación de hallarse firme, a la Subsecretaría y al Director del Centro de Reinserción Social respectivo, dando orden de su ingreso.
 
 ###### Artículo 72.
 
@@ -735,9 +925,11 @@ De la Personalización de las Sanciones Privativas de la Libertad en la Fase de 
 
 La ejecución material de la sanción privativa de la libertad, se hará de forma personalizada, considerando las características, circunstancias y la voluntad del sentenciado, con aportación de las diversas ciencias y disciplinas para establecer las condiciones que permitan una efectiva reinserción social del sujeto, así como la conducta observada por los internos durante su reclusión. Para ello, los sentenciados a la privación de la libertad serán internados en Centros debidamente clasificados para la ejecución de la pena.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 76.
 
-Las sanciones privativas de la libertad impuestas por el Órgano Jurisdiccional de la causa, serán personalizadas por la Secretaría Ejecutiva, en los términos dispuestos por este Código entre otras formas, a través del otorgamiento de la remisión parcial de la sanción.
+Las sanciones privativas de la libertad impuestas por el Órgano Jurisdiccional de la causa, serán personalizadas por la Subsecretaría, en los términos dispuestos por este Código entre otras formas, a través del otorgamiento de la remisión parcial de la sanción.
 
 ###### Artículo 77.
 
@@ -747,25 +939,33 @@ El Órgano Jurisdiccional de la causa, aplicará los beneficios establecidos en 
 
 Los informes que requieran las autoridades competentes federales o locales en materia de ejecución, para efectos de la personalización de la sanción de los internos provenientes de ambas, que por virtud de los convenios relativos cumplan su sanción en los centros, serán proporcionados conforme a lo siguiente:
 
-I. La Secretaría Ejecutiva, remitirá a dichas autoridades las constancias a que se refiere este Código; y,
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+
+I. La Subsecretaría, remitirá a dichas autoridades las constancias a que se refiere este Código; y,
 
 II. En el informe suministrado se señalará que de acuerdo con el principio de derecho penal de hecho, el ordenamiento del beneficio de la remisión parcial de la sanción durante su ejecución, se sustanciará únicamente en el estudio de personalidad realizado al recluso durante su estancia en los Centros, por lo que de acuerdo con los principios enunciados en éste Código, la restricción de éste beneficio tendrá lugar cuando haya cometido faltas graves.
 
 ### Capítulo III. Sustitución, Conmutación de Sanciones Privativas de Libertad y Aplicación de Ley más Favorable
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 79.
 
-Quien haya sido sancionado por sentencia irrevocable y se encuentre en los casos de conmutación de sanciones privativas o de aplicación de ley más favorable a que se refiere el Código Penal del Estado de Chiapas, podrá solicitar, al Comité Técnico, a través de la Secretaría Ejecutiva, en su caso, la conmutación, la reducción de sanción y el sobreseimiento que proceda, sin perjuicio de que dichas autoridades actúen de oficio y sin detrimento de la obligación de reparar los daños y perjuicios legalmente exigibles.
+Quien haya sido sancionado por sentencia irrevocable y se encuentre en los casos de conmutación de sanciones privativas o de aplicación de ley más favorable a que se refiere el Código Penal para él Estado de Chiapas, podrá solicitar al Comité Técnico, a través de la Subsecretaría, en su caso, la conmutación, la reducción de sanción y el sobreseimiento que proceda, sin perjuicio de que dichas autoridades actúen de oficio y sin detrimento de la obligación de reparar los daños y perjuicios legalmente exigibles.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 80.
 
-Recibida la solicitud por la Secretaría Ejecutiva, se resolverá de conformidad con el procedimiento establecido por este Código. Dictada la resolución se comunicará a la autoridad penitenciaria del Centro o establecimiento en que se encuentre el reo compurgando su pena o medida de seguridad. La Secretaría Ejecutiva, deberá notificar la resolución al interesado.
+Recibida la solicitud por la Subsecretaría, se resolverá de conformidad con el procedimiento establecido por este Código.
+
+Dictada la resolución se comunicará a la autoridad penitenciaria del Centro o establecimiento en que se encuentre el reo compurgando su pena o medida de seguridad. La Subsecretaría, deberá notificar la resolución al interesado.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 81.
 
-La Secretaría Ejecutiva dejará sin efecto la sustitución y ordenará que se ejecute la sanción de prisión impuesta, cuando el sentenciado no cumpla con las condiciones que le fueran señaladas para tal efecto, salvo que la Secretaría Ejecutiva estime conveniente apercibirlo de que sí incurre en nueva falta, se hará efectiva la sanción sustituida, cuando al sentenciado se le condene por otro delito. Si el nuevo delito es culposo, el juez de la causa resolverá si se debe aplicar la sanción sustituida.
+La Subsecretaría dejará sin efecto la sustitución y ordenará que se ejecute la sanción de prisión impuesta, cuando el sentenciado no cumpla con las condiciones que le fueran señaladas para tal efecto, salvo que la Subsecretaría estime conveniente apercibirlo de que si incurre en nueva falta, se hará efectiva la sanción sustituida, cuando al sentenciado se le condene por otro delito. Si el nuevo delito es culposo, el juez de la causa resolverá si se debe aplicar la sanción sustituida.
 
 ###### Artículo 82.
 
@@ -775,13 +975,17 @@ En caso de hacerse efectiva la sanción de prisión sustituida, se tomará en cu
 
 En caso de haberse nombrado fiador para el cumplimiento de los deberes inherentes a la sustitución de sanciones, la obligación de aquél concluirá al extinguirse la sanción impuesta.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 84.
 
-Cuando el fiador tenga motivos fundados para no continuar en su desempeño, los expondrá a la Secretaría Ejecutiva, a fin de que ésta, sí los estima justos, prevenga al sentenciado que presente nuevo fiador dentro del plazo que prudentemente deberá fijarle, apercibido de que se hará efectiva la sanción si no lo hace.
+Cuando el fiador tenga motivos fundados para no continuar en su desempeño, los expondrá a la Subsecretaría, a fin de que ésta, si los estima justos, prevenga al sentenciado que presente nuevo fiador dentro del plazo que prudentemente deberá fijarle, apercibido de que se hará efectiva la sanción si no lo hace.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 85.
 
-En caso de muerte o insolvencia del fiador, el sentenciado deberá poner el hecho del conocimiento de la Secretaría Ejecutiva, para el efecto, y bajo apercibimiento de ley, para nombrar un nuevo fiador.
+En caso de muerte o insolvencia del fiador, el sentenciado deberá poner el hecho del conocimiento de la Subsecretaría, para el efecto, y bajo el apercibimiento de ley, para nombrar un nuevo fiador.
 
 ###### Artículo 86.
 
@@ -807,17 +1011,21 @@ Para los efectos del presente capítulo, los internos o sus defensores promover�
 
 El sentenciado que haya sido inhabilitado en el goce y ejercicio de los derechos previstos específicamente por la ley y la sentencia, podrá solicitar su rehabilitación por escrito. La rehabilitación de los derechos políticos se otorgará en la forma y términos que disponga la legislación aplicable.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 91.
 
-Si el sentenciado hubiera cumplido ya la sanción privativa de libertad, pasado el término que señala el artículo siguiente, podrá ocurrir ante la Secretaría Ejecutiva, solicitando se le rehabilite en los derechos que se le privó, o en cuyo ejercicio estuviere suspenso, para lo cual acompañará a su escrito relativo, los documentos siguientes:
+Si el sentenciado hubiera cumplido ya la sanción privativa de libertad, pasado el término que señala el artículo siguiente, podrá ocurrir ante la Subsecretaría, solicitando se le rehabilite en los derechos que se le privó, o en cuyo ejercicio estuviere suspenso, para lo cual acompañara a su escrito relativo, los documentos siguientes:
 
 I. Certificado expedido por la autoridad penitenciaria que acredite haber extinguido la sanción privativa de libertad que se le hubiere impuesto, o que se le concedió la conmutación;
 
 II. Certificado de la autoridad municipal o su equivalente del lugar donde hubiere residido desde que comenzó la inhabilitación o la suspensión.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 92.
 
-Recibida la solicitud, la Secretaría Ejecutiva, emitirá la declaración de rehabilitación dentro de tres días hábiles siguientes, expidiendo la constancia misma que comunicará a las autoridades respectivas.
+Recibida la solicitud, la Subsecretaría, emitirá la declaración de rehabilitación dentro de tres días hábiles siguientes, expidiendo la constancia misma que comunicará a las autoridades respectivas.
 
 ### Capítulo V. Del Tratamiento de Reinserción Social
 
@@ -887,9 +1095,11 @@ En cada Centro, habrá una Comisión Interdisciplinaria, que estará integrada p
 
 ### Capítulo VI. De los Centros de Reinserción Social
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 105.
 
-Los Centros de Reinserción Social, son las instalaciones administradas por el Consejo y destinadas para la compurgación de las sanciones penales y medidas de seguridad.
+Los Centros de Reinserción Social, son las instalaciones administradas por la Subsecretaría y destinadas para la compurgación de las sanciones penales y medidas de seguridad.
 
 Para los fines de individualización del tratamiento, los Centros se clasificarán en:
 
@@ -1065,9 +1275,11 @@ VII. Será facilitado por la Administración; y,
 
 VIII. No se supeditará al logro de intereses económicos, sin embargo, se favorecerá la creación de empresas productivas.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 129.
 
-El trabajo en los reclusorios, se organizará previo estudio de las características de la economía local, especialmente del mercado, a fin de favorecer la correspondencia entre las demandas de éste y la producción penitenciaria. Para este último efecto, se trazará un plan de trabajo y producción que será sometido a la aprobación, en los términos del convenio respectivo, de Secretaría Ejecutiva y de las autoridades competentes.
+El trabajo en los reclusorios, se organizará previo estudio de las características de la economía local, especialmente del mercado, a fin de favorecer la correspondencia entre las demandas de éste y la producción penitenciaria. Para este último efecto, se trazará un plan de trabajo y producción que será sometido a la aprobación, en los términos del convenio respectivo, de la Subsecretaría y de las autoridades competentes.
 
 ###### Artículo 130.
 
@@ -1193,9 +1405,11 @@ Todo interno, será sometido a un examen clínico a su ingreso al Centro o estab
 
 El régimen disciplinario de los Centros penitenciarios se dirigirá tanto a garantizar la seguridad del establecimiento, como a conseguir una convivencia armónica entre internos y autoridades.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 149.
 
-El Director del reclusorio, podrá imponer las correcciones previstas en este Código y las contenidas en los reglamentos respectivos, tras un procedimiento sumario en que se comprueben la falta y la responsabilidad del interno y se escuche a éste en su defensa. El interno, podrá inconformarse con la corrección aplicada, recurriendo para ello a la Secretaría Ejecutiva, el cual deberá también aprobar las sanciones de aislamiento en celda.
+El Director del reclusorio, podrá imponer las correcciones previstas en este Código y las contenidas en los reglamentos respectivos, tras un procedimiento sumario en que se comprueben la falta y la responsabilidad del interno y se escuche a éste en su defensa. El interno, podrá inconformarse con la corrección aplicada, recurriendo para ello a la Subsecretaría, el cual deberá también aprobar las sanciones de aislamiento en celda.
 
 ###### Artículo 150.
 
@@ -1331,11 +1545,11 @@ La Comisión Interdisciplinaria, estará a cargo del sistema de cómputo para la
 
 ### Capítulo III. De la Libertad Preparatoria
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 168.
 
-Se concederá libertad preparatoria al condenado, por resolución del Comité Técnico, previo dictamen de la Secretaría Ejecutiva, siempre que concurran las siguientes circunstancias:
+Se concederá libertad preparatoria al condenado, por resolución del Comité Técnico, previo dictamen de la Subsecretaría, siempre que concurran las siguientes circunstancias:
 
 I. Que hubiere cumplido las tres quintas partes de su condena, si se trata de delitos dolosos o la mitad de la misma en caso de delitos culposos;
 
@@ -1367,19 +1581,27 @@ I. Los sentenciados por los delitos de homicidio calificado, delincuencia organi
 
 II. Los reincidentes por delito doloso, o sean considerados delincuentes habituales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 171.
 
-La Secretaría Ejecutiva, solicitará al Juez correspondiente revoque la libertad del sentenciado y ordene su reprehensión, tan pronto tenga conocimiento que éste incurra en alguna de las siguientes causas:
+La Subsecretaría, solicitará al juez correspondiente revoque la libertad del sentenciado y ordene su reaprehensión, tan pronto tenga conocimiento que éste incurra en alguna de las siguientes causas:
 
-I. El liberado incumpla injustificadamente con las condiciones impuestas para otorgarle el beneficio; la Secretaría Ejecutiva podrá, en caso de un primer incumplimiento, amonestar al sentenciado y apercibirlo de solicitar la revocación del beneficio en caso de un segundo incumplimiento. Cuando el liberado infrinja medidas que establezcan presentaciones frecuentes para tratamiento, la solicitud sólo procederá al tercer incumplimiento.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
 
-II. El liberado sea condenado por nuevo delito doloso, mediante sentencia ejecutoriada. Si el nuevo delito fuere culposo la Secretaría Ejecutiva podrá motivadamente y, según la gravedad del hecho, solicitar la revocación o mantener la libertad preparatoria.
+I.- El liberado incumpla injustificadamente con las condiciones impuestas para otorgarle el beneficio; la Subsecretaría podrá, en caso de un primer incumplimiento, amonestar al sentenciado y apercibirlo de solicitar la revocación del beneficio en caso de un segundo incumplimiento. Cuando el liberado infrinja medidas que establezcan presentaciones frecuentes para tratamiento, la solicitud sólo procederá al tercer incumplimiento.
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+
+II.- El liberado sea condenado por nuevo delito doloso, mediante sentencia ejecutoriada. Si el nuevo delito fuere culposo la Subsecretaría podrá motivadamente y, según la gravedad del hecho, solicitar la revocación o mantener la libertad preparatoria.
 
 El condenado cuya libertad preparatoria sea revocada deberá cumplir el resto de la pena de prisión, para lo cual la autoridad considerará el tiempo de cumplimiento en libertad. Los hechos que origen (sic) los nuevos procesos a que se refiere la fracción II, de este artículo interrumpen los plazos para extinguir la sanción.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 172.
 
-Los sentenciados que disfruten de libertad preparatoria, quedarán bajo el cuidado y vigilancia de la Secretaría Ejecutiva o en su caso de los delegados.
+Los sentenciados que disfruten de libertad preparatoria, quedarán bajo el cuidado y vigilancia de la Subsecretaría o en su caso de los delegados.
 
 ### Capítulo IV. De la Libertad con Sentencia Suspendida
 
@@ -1443,7 +1665,7 @@ La Mesa de Reconciliación del Gobierno del Estado de Chiapas, es un órgano per
 
 Dicho órgano tiene por objeto, previo el estudio y análisis respecto de la integración de los procesos penales, desde la fase de averiguación previa hasta sentencias ejecutoriadas, emitir las recomendaciones necesarias a las autoridades correspondientes para que realicen las acciones pertinentes que garanticen la legalidad en el debido proceso y respeto a los derechos humanos y garantías individuales de los inculpados.
 
-ADICIONADO, P.O. 8 DE JULIO DE 2009)
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2009)</small>
 
 ###### Artículo 178 Quater.
 
@@ -1531,9 +1753,11 @@ Si el sentenciado se acoge a la condena condicional, se le concederá inmediatam
 
 ### Capítulo I. Procedimientos Ordinarios de Ejecución
 
+> <small>(REFORMADO PRIMER PARAFO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 188.
 
-La Secretaría Ejecutiva conocerá y resolverá, sobre:
+La Subsecretaría conocerá y resolverá, sobre:
 
 I. La personalización, adecuación y modificación de la sanción privativa de libertad, en los términos que la legislación penal y este Código establecen, así como de las peticiones de traslado que formulen internos o autoridades de otras Entidades Federativas;
 
@@ -1543,13 +1767,17 @@ III. Los incidentes y medios de impugnación que surjan con motivo de la privaci
 
 IV. Los conflictos que se puedan presentar en la tramitación de la rehabilitación de los derechos del sentenciado.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 189.
 
-El órgano jurisdiccional de la causa, remitirá a la Secretaría Ejecutiva y a la autoridad penitenciaria, copia certificada de toda sentencia ejecutoriada en la que se imponga sanción privativa de la libertad, de trabajo a favor de la comunidad o en la que se decrete una medida de seguridad, excepto en los casos en que el sentenciado estuviese sustraído de la acción de la justicia, con dicho documento se radicará el expediente de ejecución.
+El Órgano Jurisdiccional de la causa, remitirá a la Subsecretaría ya la autoridad penitenciaria, copia certificada de toda sentencia ejecutoriada en la que se imponga sanción privativa de la libertad, de trabajo a favor de la comunidad o en la que se decrete una medida de seguridad, excepto en los casos en que el sentenciado estuviese sustraído de la acción de la justicia, con dicho documento se radicará el expediente de ejecución.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 190.
 
-La Secretaría Ejecutiva, instrumentará los sistemas necesarios para la debida integración del expediente de ejecución hasta que se declaren extinguida la sanción y las medidas de seguridad impuestas.
+La Subsecretaría, instrumentará los sistemas necesarios para la debida integración del expediente de ejecución hasta que se declare extinguida la sanción y las medidas de seguridad impuestas.
 
 ### Capítulo II. Incidentes en el Procedimiento de Ejecución
 
@@ -1559,13 +1787,19 @@ Los incidentes se sustanciarán de la siguiente forma:
 
 I. Con la promoción del interesado, se dará vista a las partes para que contesten en un término máximo de tres días hábiles;
 
-II. Si la Secretaría Ejecutiva lo creyere necesario, o alguna de las partes promoviere prueba, se abrirá un período de ofrecimiento de pruebas que no excederá de tres días hábiles; concluido dicho término, se citará a una audiencia indiferible dentro de los dos días siguientes en la que se desahogarán y escucharán brevemente los alegatos, dictándose la resolución correspondiente.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
 
-En caso de no existir ofrecimiento de prueba, si lo estimare pertinente la Secretaría Ejecutiva, resolverá dentro de los tres días siguientes a la recepción de la promoción del interesado.
+II. Si la Subsecretaría lo creyere necesario, o alguna de las partes promoviere prueba, se abrirá período de ofrecimiento de pruebas que no excederá de tres días hábiles; concluido dicho término, se citará a una audiencia indiferible dentro de los dos días siguientes en la que se desahogarán y escucharán brevemente los alegatos, dictándose la resolución correspondiente.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+En caso de no existir ofrecimiento de prueba, si lo estimare pertinente la Subsecretaría, resolverá dentro de los tres días siguientes a la recepción de la promoción del interesado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 192.
 
-Todas las cuestiones que se propongan ante la Secretaría Ejecutiva, que se originen de la actuación de ésta, se sustanciarán en los términos del artículo anterior, cuya resolución no admitirá recurso alguno.
+Todas las cuestiones que se propongan ante la Subsecretaría, que se originen de la actuación de ésta, se sustanciarán en los términos del artículo anterior, cuya resolución no admitirá recurso alguno.
 
 Las que se deriven de otras autoridades penitenciarias y que no tengan una forma de tramitación específica, se resolverán en los mismos términos.
 
@@ -1575,9 +1809,11 @@ Las que se deriven de otras autoridades penitenciarias y que no tengan una forma
 
 El recurso de revisión, es el medio de impugnación administrativo que hace valer quien considere conculcados sus derechos por actos emitidos por las autoridades penitenciarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 194.
 
-El recurso de revisión, se interpondrá ante la autoridad que dicte el acto impugnado y lo resolverá la Secretaría Ejecutiva.
+El recurso de revisión, se interpondrá ante la autoridad que dicte el acto impugnado y lo resolverá la Subsecretaría.
 
 Procederá contra las determinaciones del Director del Centro de reclusión, establecimiento especializado, o de la Comisión Interdisciplinaria de los mismos, que resuelvan las inconformidades hechas valer por el quejoso, con excepción de aquéllas que se refieran a la imposición de sanciones por faltas consideradas como graves.
 
@@ -1591,13 +1827,21 @@ II. Se interpondrá por escrito, dentro de los tres días hábiles a partir de q
 
 III. Conjuntamente con la notificación de la resolución que imponga una sanción disciplinaria, la autoridad penitenciaria notificará al interno el plazo legal para impugnarla;
 
-IV. Interpuesto el recurso, la Secretaría Ejecutiva, dentro de las siguientes veinticuatro horas a la recepción del recurso, sin sustanciación alguna, lo admitirá y solicitará a la autoridad responsable un informe circunstanciado, el cual deberá rendir en un término de cuarenta y ocho horas, adjuntando las constancias relativas al acto; consecuentemente, se abrirá un plazo común de tres días para el ofrecimiento de pruebas;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
 
-V. Agotado el término, inmediatamente la Secretaría Ejecutiva, fijará fecha para la celebración de la audiencia de desahogo de pruebas y alegatos, la cual deberá celebrar dentro de los siguientes tres días hábiles;
+IV. Interpuesto el recurso, la Subsecretaría, dentro de las siguientes veinticuatro horas a la recepción del recurso, sin sustanciación alguna, lo admitirá y solicitará a la autoridad responsable un informe circunstanciado, el cual deberá rendir en un término de cuarenta y ocho horas, adjuntando las constancias relativas al acto; consecuentemente se abrirá un plazo común de tres días para el ofrecimiento de pruebas;
 
-VI. La Secretaría Ejecutiva, deberá suplir las deficiencias en la expresión de agravios del quejoso; y,
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
 
-VII. Celebrada la audiencia, la Secretaría Ejecutiva, resolverá de plano dentro del término de dos días hábiles. En caso de existir peligro para la integridad y vida de los internos, se resolverá de plano sin sustanciación.
+V. Agotado el término, inmediatamente la Subsecretaría, fijará fecha para la celebración de la audiencia de desahogo de pruebas y alegatos, la cual deberá celebrar dentro de los siguientes tres días hábiles;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+
+VI. La Subsecretaría, deberá suplir las deficiencias en la expresión de agravios del quejoso; y,
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+
+VII. Celebrada la audiencia, la Subsecretaría, resolverá de plano dentro del término de dos días hábiles. En caso de existir peligro para la integridad y vida de los internos, se resolverá de plano sin sustanciación.
 
 ###### Artículo 196.
 
@@ -1607,17 +1851,23 @@ l. Determinar si el derecho demandado por el quejoso ha sido violado y en su cas
 
 ll. La adopción de medidas generales para evitar la repetición de los actos u omisiones impugnados, previniendo a las autoridades penitenciarias para tal efecto.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+
 ###### Artículo 197.
 
-Cuando la violación acreditada consistiere en la falta, o inadecuada prestación de servicios necesarios para garantizar las condiciones de vida digna en reclusión, o en la insatisfacción de los derechos establecidos en el artículo 18 de la Constitución Federal, la Secretaría Ejecutiva, determinará con precisión las correcciones y adecuaciones necesarias y requerirá al Director del Centro o establecimiento especializado, para que, en un plazo no mayor de quince días se solventen, con excepción de aquellos casos en que se encuentre en peligro la vida o integridad corporal, en cuyo caso, se dará cumplimiento de manera inmediata.
+Cuando la violación acreditada consistiere en la falta, o inadecuada prestación de servicios necesarios para garantizar las condiciones de vida digna en reclusión, o en la insatisfacción de los derechos establecidos en el artículo 18 de la Constitución Federal, la Subsecretaría, determinará con precisión las correcciones y adecuaciones necesarias y requerirá al Director del Centro o establecimiento especializado, para que, en un plazo no mayor de quince días se solventen, con excepción de aquellos casos en que se encuentre en peligro la vida o integridad corporal, en cuyo caso, se dará cumplimiento de manera inmediata.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 198.
 
-Cuando el Director del Centro o establecimiento no cuente con los recursos materiales y humanos suficientes y adecuados para dar cumplimiento a lo establecido en el artículo anterior, se le hará saber a la Secretaría Ejecutiva, para que le sean administrados a fin de cumplir con el compromiso adquirido.
+Cuando el Director del Centro o establecimiento no cuente con los recursos materiales y humanos suficientes y adecuados para dar cumplimiento a lo establecido en el artículo anterior, se le hará saber a la Subsecretaría, para que le sean administrados a fin de cumplir con el compromiso adquirido.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 199.
 
-Concluido el plazo concedido, la Secretaría Ejecutiva realizará una inspección para verificar el cumplimiento de cada uno de los puntos del auto respectivo; de no acreditarse éste, dictará auto de incumplimiento y se procederá conforme a las disposiciones legales aplicables.
+Concluido el plazo concedido, la Subsecretaría realizará una inspección para verificar el cumplimiento de cada uno de los puntos del auto respectivo; de no acreditarse éste, dictará auto de incumplimiento y se procederá conforme a las disposiciones legales aplicables.
 
 ## Transitorios
 
@@ -1710,3 +1960,15 @@ P.O. 30 DE DICIEMBRE DE 2009.
 Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE ABRIL DE 2010.
+
+Artículo Primero: El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo: Se extingue el Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad; por lo tanto, los recursos financieros, humanos y materiales, así como los compromisos y procedimientos que hasta la entrada en vigor del presente Decreto se encuentran asignados al mismo, serán transferidos a la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad de la Secretaría de Seguridad y Protección Ciudadana.
+
+Artículo Tercero: Los compromisos adquiridos por el Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad, se entenderán conferidos a la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad de la Secretaría de Seguridad y Protección Ciudadana, quien los asumirá inmediatamente.
+
+Artículo Cuarto: Las instancias normativas, en el ámbito de sus respectivas competencias deberán llevar a cabo de inmediato las adecuaciones administrativas y presupuestales que seden con motivo a esta reforma y deberán sujetarse a los principios de racionalidad y austeridad.
+
+Artículo Quinto: Se derogan las disposiciones que se opongan al presente Decreto.
