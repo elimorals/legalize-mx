@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-429
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-26"
-last_updated: "2004-11-26"
+last_updated: "2010-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 26 de noviembre de 2004.
 
@@ -276,6 +276,10 @@ ii. Coordinación "C" de Agentes del Ministerio Público Auxiliares del Procurad
 VIII. Secretaría Particular.
 
 IX. Secretaría Técnica.
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2010)</small>
+
+X. Unidad Especializada Antisecuestros.
 
 La estructura organizacional de las coordinaciones y demás áreas administrativas, técnicas u operativas, así como las facultades específicas de sus titulares que no estén señaladas en el presente Reglamento serán determinadas por el Procurador en el manual de organización correspondiente.
 
@@ -860,6 +864,210 @@ III. Instruir y sustanciar los procedimientos de responsabilidad administrativa 
 IV. Dar cuenta al Visitador General, de todos los escritos y documentos que presenten los interesados de los casos en trámite, así como de los oficios que se reciban en la Coordinación a fin de dictar los acuerdos, practicar las notificaciones necesarias o resolver lo que en derecho corresponda; y
 
 V. Las demás que determinen sus superiores jerárquicos de acuerdo a sus facultades, así como las que se señalen en otros ordenamientos aplicables de carácter administrativo.
+
+> <small>(ADICIONADO CON LOS NUMERALES Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE ABRIL DE 2010)</small>
+
+G. UNIDAD ESPECIALIZADA ANTISECUESTROS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE ABRIL DE 2010)</small>
+
+1. DE LA UNIDAD
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis.
+
+La Unidad Especializada Antisecuestros es un órgano desconcentrado de la Procuraduría General de Justicia del Estado, con autonomía técnica y operativa en el ejercicio de sus funciones. Queda adscrita de forma directa al Procurador General de Justicia y estará a cargo de un Director.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis 1.
+
+La Unidad Especializada Antisecuestros tendrá por objeto llevar a cabo toda investigación e intervención para el esclarecimiento de los hechos que puedan ser constitutivos del delito de privación ilegal de la libertad con carácter de secuestro o sus equiparables, así como para dar seguimiento al juicio respectivo, con las atribuciones y obligaciones que para el Ministerio Público y la Policía establecen la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado, así como las leyes, reglamentos, decretos, acuerdos y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis 2.
+
+Para el cumplimiento de sus funciones, la Unidad estará conformada por:
+
+I. Un Director;
+
+II. Los Agentes del Ministerio Público Especializados que sean necesarios para el desempeño de la función;
+
+III. Una Coordinación Operativa que contará con:
+
+a) Un Grupo de Gestión de Crisis,
+
+b) Un Grupo de Inteligencia,
+
+c) Un Grupo de Investigación Policial, y
+
+d) Un Grupo de Operaciones Especiales.
+
+IV. Un área administrativa.
+
+El personal antes mencionado será nombrado y removido directamente por el Procurador General de Justicia del Estado, debiendo acreditar y reunir los perfiles, cualidades y habilidades que se requieren en congruencia con los fines que corresponden a la Unidad, y en lo particular a su función a desempeñar en la misma.
+
+Los nombres del personal que compondrán los titulares de las Unidades administrativas a excepción del Director de la Unidad y el Coordinador Operativo, será información reservada y confidencial, en términos de lo dispuesto por la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis 3.
+
+La Unidad Especializada Antisecuestros deberá contar con el personal suficiente para el cumplimiento de sus funciones, dotándosele del equipamiento necesario y de tecnología de vanguardia.
+
+A los elementos se les deberá otorgar de manera continua y permanente capacitación y especialización de acuerdo con sus respectivas funciones.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis 4.
+
+La Unidad estará a cargo de un Director y le corresponde:
+
+I. Proponer al Procurador las políticas generales de actuación de la Unidad;
+
+II. Coordinar los servicios de la Unidad para cumplir con las órdenes del Procurador;
+
+III. Dirigir y supervisar la adecuada integración de las Averiguaciones Previas relacionadas con el delito de privación ilegal de la libertad con carácter de secuestro y sus equiparables;
+
+IV. Desarrollar y mantener enlaces con otras instituciones de procuración de justicia, corporaciones policiales y agencias de inteligencia federales, estatales y/o municipales, así como con la Secretaría de la Defensa Nacional. En su caso, implementar las acciones para ejecutar operativos conjuntos;
+
+V. Coordinar los procesos de manejo de crisis, negociación y atención a familiares y víctimas de los delitos de privación ilegal de la libertad;
+
+VI. Dirigir los procesos de Planeación Estratégica, Táctica y Operativa que orientan la investigación, persecución y esclarecimiento de los delitos de privación ilegal de la libertad;
+
+VII. Desarrollar y supervisar la operación de una base de datos especializada en el delito de privación ilegal de la libertad, que articule información diversa de inteligencia, de las investigaciones en curso, de datos históricos relacionados, de registro de personas o bienes y toda aquella que tenga relación con el objetivo primario de esta unidad administrativa;
+
+VIII. Establecer y administrar el vínculo con el Sistema Único de Información Criminal desarrollado por el gobierno federal para el intercambio de información sobre este delito;
+
+IX. Supervisar los medios de enlace -telefónicos, electrónicos y/o presenciales- con la ciudadanía para facilitar la orientación y denuncia respecto al delito de privación ilegal de la libertad;
+
+X. Definir los lineamientos generales de prevención y participación ciudadana que conformarán las políticas, planes y programas en la materia;
+
+XI. Aprobar la propuesta de presupuesto, los manuales de operación y los protocolos generales y específicos de la Unidad para ser sometidos a consideración del Procurador, y
+
+XII. Supervisar la planeación y ejecución administrativa.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis 5.
+
+A los Agentes del Ministerio Público adscritos a esta Unidad les corresponden las funciones del Ministerio Público en materia de investigación y persecución de los delitos establecidas en la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado, leyes, reglamentos y demás disposiciones aplicables, en relación con el delito de privación ilegal de la libertad con carácter de secuestro y sus equiparables.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis 6.
+
+La Coordinación operativa estará a cargo de un Coordinador, se conformará por elementos de la Agencia Estatal de Investigaciones y de la Dirección de Criminalística y Servicios Periciales de la Procuraduría, contará con los grupos de Gestión de Crisis, Inteligencia, Investigación Policial y Operaciones Especiales, y le corresponde:
+
+I. Desarrollar los criterios generales, manuales y procedimientos específicos de planeación operativa de la Unidad;
+
+II. Dirigir los procesos de gestión de crisis derivados de los casos de privación ilegal de la libertad en su modalidad de secuestro, que la Unidad asuma bajo su responsabilidad;
+
+III. Ser el enlace y brindar atención personalizada y profesional a los familiares de las víctimas de secuestro durante el desarrollo del evento;
+
+IV. Integrar y dirigir un equipo de inteligencia que procure la obtención, procesamiento, interpretación y análisis de información, a través de la utilización de recursos humanos, técnicos y tecnológicos, para el apoyo en la investigación y persecución de los delitos de privación ilegal de la libertad en su modalidad de secuestro;
+
+V. Administrar la base de datos especializada en este delito, que articule información diversa de inteligencia, de las investigaciones en curso, de datos históricos relacionados, de registro de personas o bienes y toda aquella que tenga relación con el objetivo primario de esta unidad administrativa;
+
+VI. Ser el vínculo operativo con el Sistema Único de Información Criminal desarrollado por el Gobierno Federal para el intercambio de información en esta materia;
+
+VII. Coordinar y administrar los medios de enlace -telefónicos, electrónicos y/o presenciales- con la ciudadanía para facilitar la orientación y denuncia respecto al delito de privación ilegal de la libertad;
+
+VIII. Fungir como enlace operativo con otras instituciones de procuración de justicia, corporaciones policiales y agencias de inteligencia federales, estatales y/o municipales, así como con la Secretaría de la Defensa Nacional. En su caso, participar en las acciones para ejecutar operativos conjuntos;
+
+IX. Planear los operativos y dirigir al equipo de investigación policial, con el fin de obtener elementos de prueba que coadyuven a la integración y fortalecimiento de las averiguaciones previas, a la liberación de las víctimas del secuestro y a la consignación de los presuntos responsables;
+
+X. Planear y coordinar los operativos que se deriven de órdenes judiciales que permitan la preservación de la integridad física de las víctimas, su liberación y la consignación de los presuntos responsables de los delitos de privación ilegal de la libertad en su modalidad de secuestro, y
+
+XI. Las demás que le encomiende el Director o les otorguen la Constitución Federal, la propia del Estado, las leyes, reglamentos y demás disposiciones legalmente aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis 7.
+
+El área administrativa actuará como enlace con la propia de la Procuraduría y se encargará de apoyar administrativamente a las distintas áreas de la Unidad. Se conformará por el personal estrictamente necesario para tal efecto.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE ABRIL DE 2010)</small>
+
+2. DE LA COMISIÓN
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis 8.
+
+Se crea la Comisión Especial de Atención al Delito de Secuestro, conformada por servidores públicos y ciudadanos, cuya atribución será consultiva y propositiva para el análisis, diagnóstico, aportación y evaluación de instrumentos y acciones de planeación en la prevención y persecución del delito de secuestro, proponiendo al Director de la Unidad las políticas, planes, programas y acciones encaminadas a ese fin.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis 9.
+
+La participación de personas o ciudadanos de los sectores social, privado o académico en la Comisión, es a título de colaboración ciudadana y su desempeño tendrá carácter honorífico, rigiéndose por principios de buena fe y propósitos de interés general. Sólo el personal remunerado y los servidores públicos que laboren en la Administración Pública Estatal y formen parte de esta Comisión tendrán el carácter de servidores públicos, y se regirán de acuerdo a la legislación de la materia.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis 10.
+
+La Comisión Especial de Atención al Delito de Secuestro se integrará por:
+
+I. Un Presidente que será el Procurador General de Justicia del Estado;
+
+II. Un Secretario Ejecutivo que será un ciudadano, a invitación del Gobernador del Estado, y
+
+III. Cinco Vocales que serán:
+
+a) El Secretario General de Gobierno;
+
+b) El Secretario de Seguridad Pública, y
+
+c) Tres ciudadanos a invitación del Gobernador.
+
+En la Comisión habrá un Secretario Técnico, que será el Director de la Unidad Especializada Antisecuestro, quien se encargará de dar seguimiento a los acuerdos tomados al interior de la Comisión, contando con derecho a voz y voto.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis 11.
+
+En las sesiones de la Comisión sus integrantes contarán con derecho a voz y voto en el desahogo y adopción de los acuerdos que sean propios de su consideración de acuerdo a lo establecido en el artículo 27 Bis 9. El Presidente tendrá voto de calidad en caso de empate.
+
+Los integrantes de la Comisión deberán nombrar a sus respectivos suplentes, quienes actuarán en su ausencia, con los mismos derechos y obligaciones que los titulares.
+
+La Comisión sesionará de manera ordinaria una vez al mes, y las extraordinarias que sean necesarias. Para tal efecto la Comisión deberá emitir sus lineamientos, por el voto de la mayoría simple de sus integrantes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE ABRIL DE 2010)</small>
+
+3. DEL FONDO
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis 12.
+
+Para solventar requerimientos económicos necesarios para la adecuada atención al delito de secuestro, se crea el Fondo para la Unidad Especializada Antisecuestros, el cual se integrará con:
+
+I.- Las partidas presupuestales que le asigne el Gobierno del Estado, previstas específicamente en la Ley de Egresos del Estado;
+
+II.- Las aportaciones o donativos que los particulares u organismos públicos, privados y sociales, nacionales o extranjeros otorguen de manera altruista, mediante los procedimientos respectivos; y,
+
+III.- Los rendimientos que se obtengan de las inversiones y reinversiones de los recursos del Fondo.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis 13.
+
+Los recursos del Fondo serán administrados por la Procuraduría General de Justicia del Estado, por medio de un fideicomiso de orden público.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis 14.
+
+La Contraloría y Transparencia Gubernamental, administrativamente comprobará la debida aplicación de los recursos a que se refiere el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2010)</small>
+
+###### Artículo 27 Bis 15.
+
+Los lineamientos, directrices, criterios y políticas para el manejo del Fondo se establecerán por Comisión Especial de Atención al Delito de Secuestro.
 
 #### SECCIÓN SEGUNDA. DEL ARCHIVO GENERAL Y DE LA BIBLIOTECA DE LA PROCURADURÍA
 
@@ -1838,3 +2046,17 @@ EL C. PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 LUIS CARLOS TREVIÑO BERCHELMANN
 
 Hoja de firmas que corresponde al Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE ABRIL DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se instruye a la Secretaría de Finanzas y Tesorería General del Estado para que en un plazo no mayor a treinta días, contados a partir de la entrada en vigor del presente Decreto, realice las modificaciones presupuestales y determine las partidas necesarias para el funcionamiento adecuado de la Unidad Especializada Antisecuestros, en los términos del presente Decreto.
+
+TERCERO.- La Comisión Especial de Atención al Delito de Secuestro deberá integrarse en un plazo no mayor de 30 días, contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- La Comisión Especial de Atención al Delito de Secuestro deberá emitir sus lineamientos internos, así como los relativos al manejo del Fondo, en un plazo no mayor a 30 días contados a partir de su instalación.
+
+QUINTO.- En un plazo no mayor de sesenta días, contados a partir de la entrada en vigor del presente Decreto se deberá crear el Fideicomiso al que se hace referencia en el mismo.
