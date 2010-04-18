@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-adopciones-para-el-estado-de-durango-71911"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-20"
-last_updated: "2009-12-20"
+last_updated: "2010-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ADOPCIONES PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 20 de diciembre de 2009.
 
@@ -161,15 +161,19 @@ Nadie puede ser adoptado por más de dos personas. Los cónyuges podrán adoptar
 
 En el Estado de Durango, podrá adoptar persona soltera siempre y cuando reúna y acredite los requisitos establecidos por la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2010)</small>
+
 ###### Artículo 10.
 
-En todos los casos de adopción se preferirá al que haya acogido al menor que se pretende adoptar, siempre y cuando reúna los requisitos que marca el artículo 7 de esta Ley; así como en los casos en que el menor se encuentre cohabitando y al cuidado de los adoptantes bajo la figura de familia sustituta tal y como lo establece la Ley para la Protección de los Derechos de las Niñas, los Niños y Adolescentes en el Estado de Durango.
+En todos los casos de adopción se preferirá al que haya acogido a la niña, niño o adolescente que se pretende adoptar, siempre y cuando reúna los requisitos que marca el artículo 7 de esta Ley; así como en los casos en que la niña, niño o adolescente se encuentre cohabitando y al cuidado de los adoptantes bajo la figura de familia sustituta tal y como lo establece la Ley para la Protección de los Derechos de las Niñas, los Niños y Adolescentes en el Estado de Durango.
 
 Previamente a que una niña, niño o adolescente se integre a un seno familiar sustituto, deberán observarse convivencias, con el objeto de lograr una mejor integración de éste con su familia sustituta.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2010)</small>
+
 ###### Artículo 11.
 
-Cuando el Juez competente así lo determine, el o los adoptantes podrán adoptar dos o más menores de manera simultánea.
+Cuando el Juez de lo Familiar así lo determine, el o los adoptantes podrán adoptar dos o más niñas, niños o adolescentes de manera simultánea.
 
 ###### Artículo 12.
 
@@ -192,6 +196,10 @@ I. El o los que ejercen la patria potestad sobre las niñas, los niños o adoles
 II. El tutor del que se va a adoptar;
 
 III. El Titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia de DIF cuando el que se va a adoptar no tiene padres, tutor, o quien ejerza sobre él la patria potestad, podrá consentir en ella, tomando en consideración que en la adopción prevalezca en todo momento el interés superior de las niñas, los niños o adolescentes.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2010)</small>
+
+Así mismo, también en aquellos casos en que el Titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia tenga la custodia definitiva de una niña, niño o adolescente, ejerza la patria potestad del mismo, o bien si se tratare de una entrega voluntaria con el propósito de adopción.
 
 ###### Artículo 15.
 
@@ -229,9 +237,11 @@ Si el Juez competente, encuentra que no se ha dado cumplimiento a alguno de los 
 
 Se crea el Consejo Técnico de Adopciones como cuerpo colegiado interdisciplinario encargado de llevar a cabo las funciones necesarias para la realización de los procedimientos administrativos previos a la adopción.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2010)</small>
+
 ###### Artículo 21.
 
-Los procedimientos administrativos previos a la adopción se llevarán a cabo de conformidad con lo establecido en el Reglamento para la Adopción de Menores del Sistema para el Desarrollo Integral de la Familia del Estado de Durango.
+Los procedimientos administrativos previos a la adopción se llevarán a cabo de conformidad con lo establecido en el Reglamento correspondiente.
 
 ###### Artículo 22.
 
@@ -576,3 +586,11 @@ EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO
 C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 
 EL SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE ABRIL DE 2010.
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado en el presente.
