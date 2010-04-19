@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-v-2008-del-comite-de-61957"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-07-22"
-last_updated: "2008-07-22"
+last_updated: "2010-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61957&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-07-11"
 
 ACUERDO GENERAL DE ADMINISTRACION V/2008, DEL DOCE DE JUNIO DE DOS MIL OCHO, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ESTABLECEN LOS REQUISITOS Y LOS PROCEDIMIENTOS PARA LA CREACION DE PLAZAS, EL OTORGAMIENTO DE NOMBRAMIENTOS Y DE LICENCIAS, ASI COMO PARA LA COMISION, LA READSCRIPCION, LA SUSPENSION Y LA REMOCION DE LOS SERVIDORES PUBLICOS DE ESTE ALTO TRIBUNAL, SALVO LOS DE SUS SALAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA: TOMO XXXI, ABRIL DE 2010, PAGINA 2843.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 22 de julio de 2008.
 
@@ -29,13 +29,17 @@ Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- 
 
 ACUERDO GENERAL DE ADMINISTRACION V/2008, DEL DOCE DE JUNIO DE DOS MIL OCHO, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ESTABLECEN LOS REQUISITOS Y LOS PROCEDIMIENTOS PARA LA CREACION DE PLAZAS, EL OTORGAMIENTO DE NOMBRAMIENTOS Y DE LICENCIAS, ASI COMO PARA LA COMISION, LA READSCRIPCION, LA SUSPENSION Y LA REMOCION DE LOS SERVIDORES PUBLICOS DE ESTE ALTO TRIBUNAL, SALVO LOS DE SUS SALAS.
 
-El Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, integrado por los señores Ministros Guillermo I. Ortiz Mayagoitia, Juan N. Silva Meza y José Fernando Franco González Salas, con fundamento en el artículo 110, fracción III, del Reglamento Interior de la Suprema Corte de Justicia de la Nación, y
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+El Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, integrado por los señores Ministros Guillermo I. Ortiz Mayagoitia, Juan N. Silva Meza y Margarita Beatriz Luna Ramos, con fundamento en el artículo 110, fracción III, del Reglamento Interior de la Suprema Corte de Justicia de la Nación, y
 
 CONSIDERANDO:
 
 PRIMERO. De conformidad con lo dispuesto en el artículo 11, fracción XI, de la Ley Orgánica del Poder Judicial de la Federación, el Tribunal Pleno de la Suprema Corte de Justicia de la Nación tiene, entre otras atribuciones, la de nombrar los comités que sean necesarios para la atención de los asuntos de su competencia;
 
-SEGUNDO. En el artículo 110 del Reglamento Interior de la Suprema Corte de Justicia de la Nación se establece que corresponde al Comité de Gobierno y Administración atender los asuntos y programas relacionados con la administración de la Suprema Corte de Justicia de la Nación y aquellos que no sean competencia de otros Comités;
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+SEGUNDO. En el artículo 110 del Reglamento Interior de la Suprema Corte de Justicia de la Nación se establece que corresponde al Comité de Gobierno y Administración atender los asuntos y programas relacionados con la administración de la Suprema Corte de Justicia de la Nación y aquellos que no sean competencia de otros comités;
 
 TERCERO. En términos de lo previsto en el artículo 14, fracciones IX, XIII y XIX, de la Ley Orgánica del Poder Judicial de la Federación el Presidente de la Suprema Corte de Justicia de la Nación está facultado para emitir las disposiciones generales necesarias para determinar el ingreso, los estímulos, la capacitación, los ascensos o promociones por escalafón, el nombramiento, las licencias y la remoción del personal de la estructura administrativa de este Alto Tribunal, atribución que ejerce al seno del Comité de Gobierno y Administración;
 
@@ -43,25 +47,33 @@ CUARTO. Los artículos 5o., fracción IV, 6o., 12, 15, 63 y 64 de la Ley Federal
 
 QUINTO. El veintinueve de enero de dos mil siete, el Comité de Gobierno y Administración emitió el Acuerdo General de Administración I/2007, por el que se establecen los requisitos y los procedimientos para la creación de plazas, el otorgamiento de nombramientos y de licencias, así como para la comisión, la readscripción, la suspensión y la remoción de los servidores públicos de este Alto Tribunal, salvo los de sus Salas;
 
-SEXTO. La aplicación durante más de un año de lo dispuesto en el citado Acuerdo General I/2007, torna necesario realizar algunas reformas a lo previsto en él, con el objeto de lograr una simplificación administrativa de los procesos operativos que, a la vez de permitir conservar el orden alcanzado en los últimos años, permita una mejora administrativa para contar con procesos más eficientes, expeditos y con alta calidad acordes a las necesidades actuales, vía practicidad y eficiencia tratándose de los requisitos y procedimientos para la creación de plazas, el otorgamiento de nombramientos y de licencias, así como para la comisión, la readscripción, la suspensión y la remoción de servidores públicos de este alto Tribunal, salvo los de sus Salas, sin menoscabo de que la Contraloría realice la revisión de la aplicación de esas reglas e informe a este Comité.
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+SEXTO. La aplicación durante más de un año de lo dispuesto en el citado Acuerdo General I/2007, torna necesario realizar algunas reformas a lo previsto en él, con el objeto de lograr una simplificación administrativa de los procesos operativos que, a la vez de permitir conservar el orden alcanzado en los últimos años, permita una mejora administrativa para contar con procesos más eficientes, expeditos y con alta calidad acordes a las necesidades actuales, vía practicidad y eficiencia tratándose de los requisitos y procedimientos para la creación de plazas, el otorgamiento de nombramientos y de licencias, así como para la comisión, la readscripción, la suspensión y la remoción de servidores públicos de este Alto Tribunal, salvo los de sus Salas, sin menoscabo de que la Contraloría realice la revisión de la aplicación de esas reglas e informe a este comité.
 
 Por lo expuesto, y con fundamento en las citadas disposiciones legales, se expide el siguiente
 
 ACUERDO:
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
 Este Acuerdo tiene por objeto establecer los requisitos y los procedimientos para la creación de plazas, el otorgamiento de nombramientos y de licencias, así como para la comisión, la readscripción, la suspensión y la remoción de los servidores públicos de este Alto Tribunal, salvo los de sus Salas.
 
-A falta de disposición expresa se aplicarán supletoriamente la Ley Orgánica del Poder Judicial de la Federación, la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B, del Artículo 123 constitucional y el Reglamento Interior de la Suprema Corte de Justicia de la Nación.
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+A falta de disposición expresa se aplicarán supletoriamente la Ley Orgánica del Poder Judicial de la Federación, la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B, del Artículo 123 Constitucional y el Reglamento Interior de la Suprema Corte de Justicia de la Nación.
 
 ###### Artículo 2.
 
 Para efectos de este Acuerdo se entenderá por:
 
-I. Acuerdo General de Administración III/2005: Acuerdo General de Administración III/2005, del nueve de mayo de dos mil cinco, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, relativo a los nombramientos de los servidores públicos de este Alto Tribunal, salvo los de sus Salas, en las plazas señaladas en el anexo II del Acuerdo General plenario 8/2005, del ocho de marzo del mismo año;
+> <small>(REFORMADA POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+I. Acuerdo General de Administración III/2005: Acuerdo General de Administración III/2005, del nueve de mayo de dos mil cinco, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, relativo a los nombramientos de los servidores públicos de este Alto Tribunal, salvo los de sus Salas, en las plazas señaladas en el anexo II del Acuerdo General Plenario 8/2005, del ocho de marzo del mismo año;
 
 II. CGA: Comité de Gobierno y Administración;
 
@@ -73,7 +85,9 @@ V. Dirección de Personal: La Dirección General de Personal;
 
 VI. Dirección de Presupuesto y Contabilidad: La Dirección General de Presupuesto y Contabilidad;
 
-VII. Identificación Oficial: Credencial de Elector, Pasaporte, Cédula Profesional o cualquier documento análogo oficial;
+> <small>(REFORMADA POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+VII. Identificación oficial: Credencial de elector, pasaporte, cédula profesional o cualquier documento análogo oficial;
 
 VIII. Ley Reglamentaria: Ley Federal de los Trabajadores al Servicio del Estado;
 
@@ -89,7 +103,9 @@ XIII. Nombramiento provisional: El que se otorga para cubrir una vacante tempora
 
 XIV. Oficial Mayor: El titular de la Oficialía Mayor de la Suprema Corte de Justicia de la Nación;
 
-XV. Organos de la Suprema Corte: La Secretaría General de Acuerdos; la Subsecretaría General de Acuerdos; la Secretaría General de la Presidencia; la Coordinación de Asesores de la Presidencia; la Oficialía Mayor; las Secretarías Ejecutivas de Asuntos Jurídicos, Jurídico Administrativa, de Administración y de Servicios; la Contraloría, las Direcciones Generales y la Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad, todas de la Suprema Corte de Justicia de la Nación;
+> <small>(REFORMADA POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+XV. Órganos de la Suprema Corte: La Secretaría General de Acuerdos; la Subsecretaría General de Acuerdos; la Secretaría General de la Presidencia; la Coordinación de Asesores de la Presidencia; la Oficialía Mayor; las Secretarías Ejecutivas de Asuntos Jurídicos, Jurídico Administrativa, de Administración y de Servicios; la Contraloría, las Direcciones Generales y la Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad, todas de la Suprema Corte de Justicia de la Nación;
 
 XVI. Plaza definitiva: La que se crea para el ejercicio de las atribuciones que deben desarrollarse por un tiempo indefinido y en forma permanente;
 
@@ -139,11 +155,15 @@ VII. El Comité de Archivo, Biblioteca e Informática respecto de las Direccione
 
 VIII. El CGA respecto de la Secretaría General de la Presidencia, la Coordinación de Asesores de la Presidencia, la Oficialía Mayor, las Secretarías Ejecutivas de Administración, Servicios y de Asuntos Jurídicos, la Contraloría; así como las Direcciones Generales de Presupuesto y Contabilidad, de Adquisiciones y Servicios, de Obras y Mantenimiento, de la Tesorería y de Atención y Servicio.
 
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
 ###### Artículo 4.
 
-El Presidente podrá delegar las facultades otorgadas en su favor en el presente Acuerdo General, en forma conjunta o en separada al Secretario General de la Presidencia o al Oficial Mayor.
+El Presidente podrá delegar las facultades otorgadas en su favor en el presente Acuerdo General, en forma conjunta o en separada al secretario general de la Presidencia o al Oficial Mayor.
 
-### CAPITULO SEGUNDO. DE LA CREACION DE PLAZAS
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+### CAPÍTULO SEGUNDO. DE LA CREACIÓN DE PLAZAS
 
 ###### Artículo 5.
 
@@ -175,9 +195,11 @@ Una vez que el respectivo Comité de Ministros estime justificada la solicitud l
 
 Si el CGA estima que se justifica la creación o transformación de la plaza solicitada propondrá al Pleno de la Suprema Corte, por conducto de la Secretaría General de Acuerdos, el proyecto de acuerdo correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
 ###### Artículo 8.
 
-Una vez que el Pleno de la Suprema Corte apruebe la creación o transformación de una plaza, la Secretaría General de Acuerdos remitirá copia certificada del acuerdo respectivo a la Dirección de Personal y al titular del órgano de la Suprema Corte al que se adscriba aquélla, especificando el número y tipo de plaza que le ha sido asignado, su temporalidad y, en su caso, el rango del nombramiento respectivo.
+Una vez que el Pleno de la Suprema Corte apruebe la creación o transformación de una plaza, la Secretaría General de Acuerdos remitirá copia certificada del Acuerdo respectivo a la Dirección de Personal y al titular del órgano de la Suprema Corte al que se adscriba aquélla, especificando el número y tipo de plaza que le ha sido asignado, su temporalidad y, en su caso, el rango del nombramiento respectivo.
 
 No podrá realizarse pago alguno respecto de una plaza que no sea creada o transformada por el Pleno de la Suprema Corte.
 
@@ -205,13 +227,17 @@ IV. Documento en el que se precisen las funciones que corresponde desempeñar al
 
 V. En su caso, copia certificada del acuerdo del Pleno de la Suprema Corte mediante el cual se transforme la plaza y, por ende, se cancele, o bien, del acuerdo de la Dirección de Personal en el que se haga constar la conclusión del tiempo o de la obra para el cual se creó la plaza respectiva.
 
-### CAPITULO TERCERO. DE LOS NOMBRAMIENTOS
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+### CAPÍTULO TERCERO. DE LOS NOMBRAMIENTOS
 
 ###### Artículo 12.
 
 La autorización de los nombramientos definitivos y provisionales del personal de la Suprema Corte corresponde al Presidente, los demás nombramientos serán autorizados por el Oficial Mayor conforme al procedimiento previsto en este Acuerdo General. En todos los casos, la expedición y firma de los nombramientos estará a cargo del Oficial Mayor.
 
-Para ocupar una plaza de Director de Area o de nivel superior se requerirá experiencia profesional de cinco años en áreas afines y título profesional, con las salvedades aprobadas respecto al referido plazo, excepcionalmente, por el Presidente o por el CGA, atendiendo a la naturaleza de la función desarrollada.
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+Para ocupar una plaza de Director de Área o de nivel superior se requerirá experiencia profesional de cinco años en áreas afines y título profesional, con las salvedades aprobadas respecto al referido plazo, excepcionalmente, por el Presidente o por el CGA, atendiendo a la naturaleza de la función desarrollada.
 
 Todo personal de nuevo ingreso deberá someterse al examen psicométrico. El resultado en éste que el Presidente considere desfavorable, impedirá ocupar cargos relacionados con actividades presupuestales, de vigilancia, de control y fiscalización, así como de desarrollo humano. En las demás áreas será responsabilidad del titular del órgano respectivo el ingreso del personal a su cargo.
 
@@ -307,13 +333,17 @@ Es responsabilidad del titular del órgano correspondiente valorar las aptitudes
 
 Sólo en casos excepcionales debidamente motivados se podrá negar el otorgamiento del nombramiento propuesto, para ocupar una plaza desierta.
 
-Los nombramientos interinos en las plazas de base, en términos de los (sic) previsto en el artículo 7, fracción I, del Reglamento de Escalafón, serán firmados por el Secretario Ejecutivo de Administración, conforme a la propuesta que realice el titular del órgano respectivo, sin menoscabo de que a más tardar a los cinco meses contados a partir de la fecha de inicio del nombramiento, el titular del órgano correspondiente deberá proceder en los términos de lo señalado en la fracción I, del artículo 30, del Reglamento de Escalafón, debiendo acompañarse el examen de conocimientos formulado por dicho titular.
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+Los nombramientos interinos en las plazas de base, en términos de lo previsto en el artículo 7, fracción I, del Reglamento de Escalafón, serán firmados por el Secretario Ejecutivo de Administración, conforme a la propuesta que realice el titular del órgano respectivo, sin menoscabo de que a más tardar a los cinco meses contados a partir de la fecha de inicio del nombramiento, el titular del órgano correspondiente deberá proceder en los términos de lo señalado en la fracción I, del artículo 30, del Reglamento de Escalafón, debiendo acompañarse el examen de conocimientos formulado por dicho titular.
 
 Si durante el desarrollo del mencionado procedimiento escalafonario el titular de la plaza vacante temporal decide regresar a ésta, el concurso se cancelará por la Comisión Mixta de Escalafón.
 
 Por necesidades del servicio, el Oficial Mayor podrá autorizar nombramientos hasta por seis meses en plazas de base vacantes, mientras se efectúa el respectivo concurso de escalafón.
 
-Tratándose de las vacantes previstas en el artículo 6 del Reglamento de Escalafón que estén adscritas a Casas de la Cultura Jurídica, el examen de conocimientos al que se refiere el diverso 27 de ese Reglamento se aplicará simultáneamente, conforme a los lineamientos que emita la Comisión Mixta de Escalafón que garanticen la transparencia e imparcialidad del concurso, por el titular de la Casa de la Cultura Jurídica en el inmueble de ésta y, en caso de que existan aspirantes que radiquen en la zona metropolitana de la Ciudad de México, por un integrante de la citada Comisión en el lugar que ésta designe.
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+Tratándose de las vacantes previstas en el artículo 6 del Reglamento de Escalafón que estén adscritas a Casas de la Cultura Jurídica, el examen de conocimientos al que se refiere el diverso 27 de ese reglamento se aplicará simultáneamente, conforme a los lineamientos que emita la Comisión Mixta de Escalafón que garanticen la transparencia e imparcialidad del concurso, por el titular de la Casa de la Cultura Jurídica en el inmueble de ésta y, en caso de que existan aspirantes que radiquen en la zona metropolitana de la Ciudad de México, por un integrante de la citada comisión en el lugar que ésta designe.
 
 Los nombramientos derivados de los procedimientos escalafonarios se remitirán para su firma al Oficial Mayor y deberán otorgarse en el rango que correspondía a su anterior ocupante, salvo en los casos de las plazas de nueva creación y en las vacantes de última categoría.
 
@@ -343,7 +373,9 @@ II. Documento en el que conste la autorización del nombramiento por el Presiden
 
 III. Documento en el que se precisen las funciones a desempeñar;
 
-IV. Currículum Vítae de la persona propuesta y última constancia de estudios;
+> <small>(REFORMADA POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+IV. Currículum vitae de la persona propuesta y última constancia de estudios;
 
 V. En su caso, los resultados de las evaluaciones psicométricas aplicadas por la Dirección de Personal;
 
@@ -377,9 +409,13 @@ XIX. En su caso, copia certificada de los reconocimientos, diplomas, agradecimie
 
 XX. Registro anual de las aportaciones realizadas por la Suprema Corte, de su presupuesto o con motivo de la retención respectiva, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado respecto de cada trabajador.
 
-El Registro anual de las aportaciones realizadas por la Suprema Corte, de su presupuesto o con motivo de la retención respectiva, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado respecto de cada trabajador quedará, a cargo de la Dirección de Nómina de la Dirección de Personal.
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
 
-Es responsabilidad de la Dirección de Personal mantener actualizados los expedientes a los que se refiere este Acuerdo, siendo obligación de los trabajadores remitir a esa Dirección la documentación prevista en las fracciones IV, VI, VII, VIII, IX, X, XIII, XVI, XVII y XIX de este artículo.
+El registro anual de las aportaciones realizadas por la Suprema Corte, de su presupuesto o con motivo de la retención respectiva, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado respecto de cada trabajador quedará, a cargo de la Dirección de Nómina de la Dirección de Personal.
+
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+Es responsabilidad de la Dirección de Personal mantener actualizados los expedientes a los que se refiere este Acuerdo, siendo obligación de los trabajadores remitir a esa dirección la documentación prevista en las fracciones IV, VI, VII, VIII, IX, X, XIII, XVI, XVII y XIX de este artículo.
 
 En el caso de que no exista en el expediente personal respectivo el documento al que se refiere la fracción III, el titular de cada órgano será responsable de remitirlo a la Dirección de Personal. A su vez, el documento señalado en la fracción XV deberá remitirse por el titular de la Dirección de Servicios Médicos.
 
@@ -389,7 +425,9 @@ En el mes de agosto de cada año, tomando en cuenta la opinión favorable del ti
 
 Cuando los ascensos requieran la transformación de plazas deberán seguirse, simultáneamente, los procedimientos para la creación de aquéllas y la expedición de los nombramientos correspondientes, de acuerdo con lo previsto en el artículo 5 de este Acuerdo.
 
-Los trabajadores que cumplan con los requisitos para jubilarse, con doce meses o menos de anticipación a la fecha de su jubilación, podrán solicitar por única vez su ascenso de un rango ante la Dirección de Personal, dicha Dirección certificará los años de servicio del servidor público en el Gobierno Federal, su antigüedad en el Poder Judicial de la Federación y en el puesto que ocupa; así como que en el expediente personal del servidor público no exista nota desfavorable.
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+Los trabajadores que cumplan con los requisitos para jubilarse, con doce meses o menos de anticipación a la fecha de su jubilación, podrán solicitar por única vez su ascenso de un rango ante la Dirección de Personal, dicha dirección certificará los años de servicio del servidor público en el Gobierno Federal, su antigüedad en el Poder Judicial de la Federación y en el puesto que ocupa; así como que en el expediente personal del servidor público no exista nota desfavorable.
 
 El Oficial Mayor, basado en la opinión del titular del órgano que corresponda y la emitida por la Dirección de Personal determinará, de acuerdo a los antecedentes laborales del trabajador, si es merecedor del ascenso de un rango dentro del mismo puesto. Las autorizaciones de más rangos serán determinadas por el CGA, tomando en cuenta, en su caso, la opinión antes señalada.
 
@@ -401,7 +439,9 @@ La autorización del nombramiento del personal de apoyo de los Ministros jubilad
 
 Para el otorgamiento de nombramientos se observará lo previsto en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, en cuanto a que el competente para otorgarlos o proponerlos se debe abstener de intervenir o participar en los mismos cuando tenga interés personal, familiar o de negocios o, pueda derivar alguna ventaja o beneficio para él o para las personas a las que se refiere la fracción XI de ese numeral.
 
-### CAPITULO CUARTO. DE LAS LICENCIAS
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+### CAPÍTULO CUARTO. DE LAS LICENCIAS
 
 ###### Artículo 25.
 
@@ -457,7 +497,9 @@ Cuando los servidores públicos sean nombrados para cubrir un interinato de una 
 
 Los servidores públicos a quienes se otorgue un nombramiento provisional serán removidos libremente sin responsabilidad para este Alto Tribunal cuando se reincorpore el que haya disfrutado de la licencia, pero en caso de que, a consideración del titular, se hayan distinguido por la calidad de su trabajo, deberán ser considerados con preferencia para alguna otra vacante que se presente, de la misma o similar categoría, en el órgano respectivo.
 
-### CAPITULO QUINTO. DE LAS COMISIONES Y DE LA READSCRIPCION
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+### CAPÍTULO QUINTO. DE LAS COMISIONES Y DE LA READSCRIPCIÓN
 
 ###### Artículo 29.
 
@@ -471,9 +513,11 @@ Tratándose de las plazas de la Secretaría General de la Presidencia y de las D
 
 El Presidente podrá comisionar servidores públicos para laborar en un diverso órgano al de su adscripción durante el tiempo que resulte necesario, así como laborar en otros órganos del Poder Judicial de la Federación.
 
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
 ###### Artículo 30.
 
-Cuando el CGA o el Presidente comisionen a un servidor público para ejercer las funciones de Director de Area o de un puesto superior, a partir de que se cumpla un mes en el encargo, éste tendrá derecho a obtener la remuneración equivalente a la del puesto al que fue comisionado.
+Cuando el CGA o el Presidente comisionen a un servidor público para ejercer las funciones de Director de Área o de un puesto superior, a partir de que se cumpla un mes en el encargo, éste tendrá derecho a obtener la remuneración equivalente a la del puesto al que fue comisionado.
 
 ###### Artículo 31.
 
@@ -491,15 +535,21 @@ El Oficial Mayor, de acuerdo al planteamiento remitido por la Dirección de Pers
 
 Las readscripciones no podrán modificar la naturaleza de base del nombramiento correspondiente.
 
-Tratándose de plazas adscritas a diferentes órganos de la Suprema Corte, en forma adicional a lo anterior, se requerirá de la autorización conjunta de los titulares respectivos para llevar a cabo la readcripción (sic) de las plazas vacantes o de la plaza y trabajador que las ocupan.
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+Tratándose de plazas adscritas a diferentes órganos de la Suprema Corte, en forma adicional a lo anterior, se requerirá de la autorización conjunta de los titulares respectivos para llevar a cabo la readscripción de las plazas vacantes o de la plaza y trabajador que las ocupan.
+
+> <small>(REFORMADO PRIMER PARRAFO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
 
 ###### Artículo 32.
 
-La modificación de los organigramas que propongan los titulares de los órganos de la Suprema Corte, estarán sujetos al dictamen favorable del Oficial Mayor y del Secretario Ejecutivo Jurídico Administrativo, en el ámbito de sus competencias, cuyas modificaciones deberán notificarse a las Direcciones Generales de Personal, de Planeación de lo Jurídico y de Presupuesto y Contabilidad, dentro de los quince días naturales siguientes a aquél en que se modifiquen. No se requerirá de dictamen alguno cuando los cambios de organigrama no afecten la naturaleza de los nombramientos respectivos, es decir, de confianza o de base, ni impliquen otorgar atribuciones ajenas a las del puesto de la plaza de que se trate.
+La modificación de los organigramas que propongan los titulares de los órganos de la Suprema Corte, estarán sujetos al dictamen favorable del Oficial Mayor y del Secretario Ejecutivo Jurídico Administrativo, en el ámbito de sus competencias, cuyas modificaciones deberán notificarse a las Direcciones Generales de Personal, de Planeación de lo Jurídico y de Presupuesto y Contabilidad, dentro de los quince días naturales siguientes a aquel en que se modifiquen. No se requerirá de dictamen alguno cuando los cambios de organigrama no afecten la naturaleza de los nombramientos respectivos, es decir, de confianza o de base, ni impliquen otorgar atribuciones ajenas a las del puesto de la plaza de que se trate.
 
 La Dirección General de Planeación de lo Jurídico remitirá oportunamente a la Dirección General de Difusión, los organigramas y sus modificaciones para que se publiquen en la página de Internet de la Suprema Corte.
 
-### CAPITULO SEXTO. DE LA SUSPENSION Y DE LA TERMINACION DE LOS EFECTOS DEL NOMBRAMIENTO
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+### CAPÍTULO SEXTO. DE LA SUSPENSIÓN Y DE LA TERMINACIÓN DE LOS EFECTOS DEL NOMBRAMIENTO
 
 ###### Artículo 33.
 
@@ -517,15 +567,21 @@ III. Por muerte del trabajador; y,
 
 IV. Por incapacidad permanente del trabajador, física o mental, que le impida el desempeño de sus labores.
 
-En estas hipótesis, previo dictamen de la Comisión Substanciadora Unica del Poder Judicial de la Federación, no será necesario solicitar y obtener por parte del Pleno, la autorización de la terminación de los efectos de nombramiento del trabajador de base de que se trate, pero el titular del órgano respectivo sustentará las causas que motivaron la baja del servidor público con los elementos probatorios que resulten idóneos.
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
 
-En los supuestos contemplados en la fracción V del artículo 46 de la Ley Reglamentaria, será necesario llevar a cabo los procedimientos establecidos para tal efecto en el presente Acuerdo, así como solicitar y obtener por parte del Pleno, previo dictamen de la Comisión Substanciadora Unica del Poder Judicial de la Federación, la autorización de la terminación de los efectos de nombramiento del respectivo trabajador de base.
+En estas hipótesis, previo dictamen de la Comisión Substanciadora Única del Poder Judicial de la Federación, no será necesario solicitar y obtener por parte del Pleno, la autorización de la terminación de los efectos de nombramiento del trabajador de base de que se trate, pero el titular del órgano respectivo sustentará las causas que motivaron la baja del servidor público con los elementos probatorios que resulten idóneos.
+
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+En los supuestos contemplados en la fracción V del artículo 46 de la Ley Reglamentaria, será necesario llevar a cabo los procedimientos establecidos para tal efecto en el presente Acuerdo, así como solicitar y obtener por parte del Pleno, previo dictamen de la Comisión Substanciadora Única del Poder Judicial de la Federación, la autorización de la terminación de los efectos de nombramiento del respectivo trabajador de base.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DE LAS MODIFICACIONES AL ACUERDO.</small>
+
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
 
 ###### Artículo 34.
 
-Cuando proceda dar de baja a algún servidor público que en términos de lo dispuesto en el artículo 180 de la Ley Orgánica del Poder Judicial de la Federación sea de confianza, se le concederá la garantía de audiencia conforme al procedimiento establecido en el Acuerdo General Plenario 5/2006 y en este Acuerdo, cuya instauración tendrá como único objetivo permitir a éste defenderse de las causas o motivos que se aduzcan como pérdida de la confianza.
-
-Cuando el Presidente o los Comités de Ministros tengan pruebas fehacientes de que se ha perdido la confianza respecto de un trabajador, cuyas funciones son de las de dirección previstas en el artículo 180 de la Ley Orgánica del Poder Judicial de la Federación, o preste directamente sus servicios a los Ministros, podrán darlo de baja sin necesidad de instaurar el procedimiento precisado en el párrafo anterior.
+Cuando proceda dar de baja a algún servidor público que en términos de lo dispuesto en el artículo 180 de la Ley Orgánica del Poder Judicial de la Federación sea de confianza y no pertenezca a las Salas, se estará a lo previsto en el artículo 42 del presente Acuerdo.
 
 ###### Artículo 35.
 
@@ -533,15 +589,19 @@ La relación jurídica de los trabajadores al servicio de este Alto Tribunal, en
 
 Cuando el titular del órgano al que se encuentra adscrito el servidor público, presuma que el trabajador ha incurrido en una conducta que podría configurar alguna de las causas contempladas en la fracción V del artículo 46 de la Ley Reglamentaria, deberá realizar por su cuenta la investigación correspondiente y recabar los elementos probatorios, entre otros las actas de hechos respectivas, que permitan, en su caso, determinar la probable responsabilidad del servidor público en las causas que se le imputan, así como la necesidad de instruir en su contra el procedimiento laboral establecido en este Acuerdo y en el ordenamiento antes mencionado.
 
+> <small>(REFORMADO PRIMER PARRAFO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
 ###### Artículo 36.
 
-Cuando el titular del órgano de adscripción haya determinado la presunta responsabilidad de un trabajador en una conducta que podría configurar alguna de las causas de cese previstas en el artículo 46, fracción V, de la Ley Reglamentaria, instruirá en su contra el procedimiento laboral previsto en dicho ordenamiento y en este Acuerdo, procediendo a levantar el acta administrativa que señala el artículo 46 bis de la mencionada Ley, para lo cual, se sujetará a las bases siguientes:
+Cuando el titular del órgano de adscripción haya determinado la presunta responsabilidad de un trabajador en una conducta que podría configurar alguna de las causas de cese previstas en el artículo 46, fracción V, de la Ley Reglamentaria, instruirá en su contra el procedimiento laboral previsto en dicho ordenamiento y en este Acuerdo, procediendo a levantar el acta administrativa que señala el artículo 46 bis de la mencionada ley, para lo cual, se sujetará a las bases siguientes:
 
 I. El titular del órgano respectivo ordenará que con los elementos que sustenten la imputación hecha al trabajador y, en su caso, con la queja que se hubiese recibido en su contra, se abra el expediente respectivo.
 
 En el mismo acuerdo inicial se citará al probable infractor y a las demás personas que aparezcan involucradas en los hechos sujetos a investigación, para que se presenten al levantamiento del acta administrativa, lo que deberá tener verificativo dentro de los diez días naturales que sigan a la fecha de inicio del procedimiento. También se notificará al Sindicato.
 
-En el citatorio respectivo se hará saber al trabajador, con precisión, el motivo del inicio del procedimiento, corriéndole traslado de las pruebas que apoyen la queja o la imputación que se le haga; asimismo, se le informará del derecho que tiene a ser asesorado por persona de su confianza o por quien designe el sindicato, para lo cual bastará que se exhiba el oficio de comisión respectivo y la constancia que la acredite con tal carácter;
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+En el citatorio respectivo se hará saber al trabajador, con precisión, el motivo del inicio del procedimiento, corriéndole traslado de las pruebas que apoyen la queja o la imputación que se le haga; asimismo, se le informará del derecho que tiene a ser asesorado por persona de su confianza o por quien designe el Sindicato, para lo cual bastará que se exhiba el oficio de comisión respectivo y la constancia que la acredite con tal carácter;
 
 II. Mientras dura el procedimiento administrativo, el titular del órgano de adscripción podrá ordenar el cambio de oficina o lugar donde labora el trabajador investigado, dentro de las unidades o dependencias que estén a su cargo y dentro de la misma población. Tratándose de las causas establecidas en los incisos a), c), e) y h) de la fracción V del artículo 46 de la Ley Reglamentaria, el referido titular podrá suspender al trabajador, supuesto en el cual sólo percibirá el 50% de su sueldo, dando aviso a la Dirección de Personal;
 
@@ -559,7 +619,9 @@ Si no obstante haber dejado el citatorio antes referido, el trabajador no espera
 
 En caso de que en el domicilio del trabajador se negaren a recibir la notificación, tanto el interesado como la persona con la que se entiende la diligencia, la notificación se hará por instructivo fijándolo en la puerta del mismo y adjuntándole copia del auto por notificar;
 
-VII. Cuando el trabajador se encuentre disfrutando de su período vacacional o de licencia, el titular del órgano respectivo deberá proceder a su citación una vez que aquél reanude la prestación de sus servicios; y,
+> <small>(REFORMADA POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+VII. Cuando el trabajador se encuentre disfrutando de su periodo vacacional o de licencia, el titular del órgano respectivo deberá proceder a su citación una vez que aquél reanude la prestación de sus servicios; y,
 
 VIII. El titular del órgano de adscripción deberá satisfacer el requisito establecido por el artículo 46 bis de la Ley Reglamentaria, relativo a dar intervención al representante sindical del trabajador en el levantamiento del acta.
 
@@ -567,11 +629,15 @@ VIII. El titular del órgano de adscripción deberá satisfacer el requisito est
 
 En términos de lo previsto en el mencionado artículo 46 bis de la Ley Reglamentaria, el levantamiento del acta administrativa deberá cumplir los siguientes requisitos:
 
-I. Encontrándose debidamente notificados el trabajador y el representante sindical, se procederá a designar dos testigos de asistencia, dando oportunidad al trabajador de señalar uno de ellos, si así lo desea y el otro testigo, o ambos de ser este el caso, serán propuestos por quien levante el acta. Acto seguido se informará al trabajador el motivo del procedimiento, los hechos que se le atribuyen y las pruebas que existen en su contra, que deberán coincidir con los que se le hicieron saber a través del citatorio;
+> <small>(REFORMADO PRIMER PARRAFO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+I. Encontrándose debidamente notificados el trabajador y el representante sindical, se procederá a designar dos testigos de asistencia, dando oportunidad al trabajador de señalar uno de ellos, si así lo desea y el otro testigo, o ambos de ser éste el caso, serán propuestos por quien levante el acta. Acto seguido se informará al trabajador el motivo del procedimiento, los hechos que se le atribuyen y las pruebas que existen en su contra, que deberán coincidir con los que se le hicieron saber a través del citatorio;
 
 II. Si el día fijado para la instrumentación del acta administrativa el trabajador no se presenta, no obstante encontrarse debidamente notificados tanto éste como el representante sindical, deberá levantarse el acta, a menos que exista causa justificada o de fuerza mayor que, a criterio del titular del órgano de adscripción, obligue a señalar otra fecha para desahogar la diligencia, en cuyo caso deberá notificarse nuevamente.
 
-Si en la hora y fecha fijadas por segunda ocasión para el levantamiento del acta administrativa, el trabajador o el representante sindical tampoco asisten, el titular del órgano respectivo deberá cerciorarse de que se cumplió con su llamamiento oportuno y hará constar al inicio del acta las circunstancias específicas que tengan relación con el particular y seguirá el trámite que previene el artículo 46 bis de la Ley citada;
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+Si en la hora y fecha fijadas por segunda ocasión para el levantamiento del acta administrativa, el trabajador o el representante sindical tampoco asisten, el titular del órgano respectivo deberá cerciorarse de que se cumplió con su llamamiento oportuno y hará constar al inicio del acta las circunstancias específicas que tengan relación con el particular y seguirá el trámite que previene el artículo 46 bis de la ley citada;
 
 III. Habiendo comparecido el trabajador, se recibirá su declaración, así como las que formulen los testigos de cargo y de descargo que se propongan, debiendo señalarse en el texto del acta, para que obren como anexos, los documentos que, al formularse ésta, se hayan agregado a la misma; y,
 
@@ -599,21 +665,31 @@ La probable responsabilidad a que se refiere el párrafo anterior podrá surgir 
 
 En caso de imponerse la referida sanción se ordenará a la Dirección de Personal que aplique los descuentos quincenales que procedan, mismos que no serán mayores del veinticinco por ciento del sueldo, hasta que cubra la totalidad de lo que corresponda.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DE LAS MODIFICACIONES AL ACUERDO.</small>
+
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
 ###### Artículo 42.
 
-El procedimiento de baja de los trabajadores de confianza, se sujetará a lo siguiente:
+La baja de los servidores públicos de confianza que no pertenezcan a las Salas, se sujetará al siguiente trámite:
 
-I. Al advertir que el trabajador ha incurrido en un motivo razonable de pérdida de la confianza, el procedimiento será iniciado por su superior jerárquico, quien podrá suspenderlo provisionalmente con el 50% de salario, debiendo poner en conocimiento del Comité de Ministros correspondiente la instauración del procedimiento, en el que se le permitirá declarar lo que a su derecho convenga y ofrecer pruebas documentales. En su caso, se dará vista al solicitante de la pérdida de confianza, para que en un plazo de cinco días hábiles manifieste lo que estime conveniente;
+I. El jefe inmediato informará al titular del órgano que corresponda sobre la conducta del servidor público que a su juicio genera la pérdida de confianza.
 
-II. La Secretaría Ejecutiva de Asuntos Jurídicos substanciará el procedimiento con el apoyo de la Dirección de Personal para realizar las notificaciones que correspondan y, durante su desarrollo, para mejor proveer, el Presidente podrá recabar pruebas documentales o solicitar informes a los diversos órganos de este Alto Tribunal.
+Para tal efecto, se entiende por titular del órgano, a los titulares de los siguientes órganos jurisdiccionales y administrativos: Secretaría General de Acuerdos, Subsecretaría General de Acuerdos, Secretaría General de la Presidencia, Oficialía Mayor, Secretarías Ejecutivas, Contraloría, Coordinación de Asesores de la Presidencia, Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad y Direcciones Generales.
 
-La referida Secretaría deberá presentar el proyecto de resolución al Comité de Ministros respectivo dentro de los veinte días naturales siguientes al en que el trabajador exprese sus defensas o, en su caso, el solicitante de la pérdida de la confianza responda a la vista que se dé de esas defensas. Dicho plazo podrá prorrogarse hasta por veinte días naturales, en casos plenamente justificados.
+II. El titular del órgano, con apoyo de la Dirección de Personal, notificará personalmente al servidor público sobre los motivos que generan la pérdida de la confianza, a efecto de que en un plazo de cinco días hábiles contados a partir de que surta efectos la notificación respectiva, manifieste por escrito lo que a su derecho convenga.
 
-El emplazamiento de inicio del procedimiento de baja, así como la notificación de la resolución respectiva serán realizados por la Dirección de Personal en un plazo no mayor a cinco días hábiles contados a partir del día siguiente en que sean recibidas en dicha Dirección las instrucciones respectivas;
+Transcurrido dicho plazo, con informe o sin él, si a juicio del titular del órgano procede la baja del servidor público de que se trata, dentro de los tres días hábiles siguientes deberá hacerlo del conocimiento de la Secretaría Ejecutiva de Asuntos Jurídicos, remitiéndole la documentación relativa.
 
-III. Si el Comité respectivo decreta la baja, se informará al CGA para que ordene su formalización; y,
+En casos excepcionales, el titular del órgano, bajo su más estricta responsabilidad, podrá ordenar la suspensión provisional del servidor público con el 50% de sueldo, con aviso a la Dirección de Personal.
 
-IV. Cuando el Presidente o los Comités de Ministros tengan pruebas fehacientes de que se le ha perdido la confianza a un trabajador cuyas funciones sean las de dirección previstas en el artículo 180 de la Ley Orgánica del Poder Judicial de la Federación, o que presta directamente sus servicios a los Ministros, podrán darlo de baja sin necesidad de instaurar el procedimiento referido anteriormente.
+III. Recibida la documentación a que se refiere el numeral que antecede, la Secretaría Ejecutiva de Asuntos Jurídicos deberá emitir su opinión y elaborar el punto informativo respectivo para ser incluido en el orden del día de la próxima sesión del CGA.
+
+IV. El acuerdo tomado por el CGA se hará del conocimiento del titular del órgano para los efectos conducentes, por conducto de la Secretaría Ejecutiva de Asuntos Jurídicos y se notificará personalmente al servidor público a través de la Dirección de Personal.
+
+Cuando se hubiese suspendido temporalmente al servidor público y el CGA determine que no es procedente declarar su baja, el titular del órgano deberá dictar las medidas necesarias para que de inmediato se reincorpore a sus funciones y se le cubran los salarios y demás prestaciones que dejó de percibir con motivo de la suspensión.
+
+V. Tratándose de los titulares de los órganos precisados en el segundo párrafo de la fracción I del presente artículo, así como de los servidores públicos que presten sus servicios directamente al Presidente o a los Ministros, podrá decretarse su baja sin necesidad de observar el trámite antes precisado cuando a consideración de éstos existan motivos razonables de pérdida de la confianza.
 
 TRANSITORIOS:
 
@@ -621,10 +697,20 @@ PRIMERO. Este Acuerdo entrará en vigor el primero de agosto de dos mil ocho.
 
 SEGUNDO. Se abroga el Acuerdo General de Administración I/2007, del veintinueve de enero de dos mil siete, del Comité de Gobierno y Administración, por el que se establecen los requisitos y los procedimientos para la creación de plazas, el otorgamiento de nombramientos y de licencias, así como para la comisión, la readscripción, la suspensión y la remoción de los servidores públicos de este Alto Tribunal, salvo los de sus Salas.
 
-TERCERO. Los servidores públicos que cuenten con comisiones actuales para ejercer funciones de Director de Area o de un puesto superior, obtendrán la remuneración equivalente a la del puesto al que fueron comisionados a partir del primero de enero de dos mil ocho.
+> <small>(REFORMADO POR LAS MODIFICACIONES AUTORIZADAS POR EL COMITE DE GOBIERNO Y ADMINISTRACION EL OCHO DE OCTUBRE DE DOS MIL NUEVE, S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843)</small>
+
+TERCERO. Los servidores públicos que cuenten con comisiones actuales para ejercer funciones de Director de Área o de un puesto superior, obtendrán la remuneración equivalente a la del puesto al que fueron comisionados a partir del primero de enero de dos mil ocho.
 
 CUARTO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
 
 El Ministro Presidente, Guillermo I. Ortiz Mayagoitia.- Rúbrica.- El Ministro, Juan N. Silva Meza.- Rúbrica.- El Ministro, José Fernando Franco González Salas.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CENTINA (SIC), SECRETARIO EJECUTIVO DE ASUNTOS JURIDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia del "ACUERDO GENERAL DE ADMINISTRACION V/2008, DEL DOCE DE JUNIO DE DOS MIL OCHO, DEL COMITE DE GOBIERNO Y ADMINSTRACION (SIC) DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ESTABLECEN LOS REQUISITOS Y LOS PROCEDIMIENTOS PARA LA CREACION DE PLAZAS, EL OTORGAMIENTO DE NOMBRAMIENTOS Y DE LICENCIAS, ASI COMO PARA LA COMISION, LA READSCRIPCION, LA SUSPENSION Y LA REMOCION DE LOS SERVIDORES PUBLICOS DE ESTE ALTO TRIBUNAL, SALVO LOS DE SUS SALAS".- Constante de treinta y ocho fojas útiles, concuerda fiel y exactamente con el original que obra en esta Secretaría Ejecutiva y se certifica para la difusión correspondiente. México, Distrito Federal, a once de julio de dos mil ocho.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LO S ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843.
+
+PRIMERO. La modificación de los artículos 34 y 42 del Acuerdo General de Administración V/2008, entrará en vigor a partir del nueve de octubre de dos mil nueve.
+
+SEGUNDO. Publíquese esta modificación en el Semanario Judicial de la Federación y su Gaceta; y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; sin menoscabo de difundir en éstos el texto íntegro del Acuerdo General de Administración V/2008.
