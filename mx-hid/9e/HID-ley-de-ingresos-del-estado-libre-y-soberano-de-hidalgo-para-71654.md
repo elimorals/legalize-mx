@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ingresos-del-estado-libre-y-soberano-de-hidalgo-para-716
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2009-12-31"
-last_updated: "2009-12-31"
+last_updated: "2010-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE HIDALGO PARA EL EJERCICIO FISCAL DEL AÑO 2010
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2009.
 
@@ -175,9 +175,15 @@ VI.- EL ESTADO PERCIBIRÁ INGRESOS POR CONCEPTO DE PARTICIPACIONES Y FONDOS DE A
 
 Las Participaciones y Fondos de Aportaciones Federales se percibirán de acuerdo con las bases, cuotas y conductos que establezca la Ley de Coordinación Fiscal Federal, así como los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal, el de Colaboración Administrativa en Materia Fiscal Federal y sus respectivos anexos, así como los demás que se suscriban para el efecto con la Federación.
 
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2010)</small>
+
 VII.- TODO LO ANTERIOR SIGNIFICA UN TOTAL ESTIMADO POR CONCEPTOS POR LAS SIGUIENTES CANTIDADES:
 
-Concepto (Monto Pesos)
+Monto
+
+(Pesos)
+
+Concepto
 
 INGRESOS PROPIOS 855,801,779
 
@@ -323,7 +329,11 @@ Fondo de Compensación 0
 
 Fondo de Fiscalización 201,820,000
 
-TOTAL 21,712,319,055
+Ingresos extraordinarios 0
+
+Crédito 370,456,297
+
+TOTAL 22,082,775,352
 
 ###### Artículo 2.
 
@@ -393,6 +403,14 @@ Lo establecido en los Artículos anteriores, se aplicará a los ingresos que por
 
 Las Entidades y Organismos a que se refiere el Artículo anterior y las empresas de Participación Estatal, deberán estar inscritas en el Registro Estatal correspondiente y llevar contabilidad de conformidad con las disposiciones fiscales, así como presentar las declaraciones e informes que correspondan en los términos de dichos ordenamientos.
 
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2010)</small>
+
+###### Artículo 11.
+
+La transferencia de recursos a los Municipios con motivo de los financiamientos que les otorgue el Instituto para el Financiamiento del Estado de Hidalgo queda contemplada dentro del Ramo 23 "Transferencia de Recursos a Municipios" del Anexo 1del Decreto de Presupuesto de Egresos del Estado Libre y Soberano de Hidalgo correspondiente al Ejercicio Fiscal del año 2010.
+
+En caso de que el Congreso del Estado en la revisión y aprobación de la Ley de Ingresos y Presupuesto de Egresos de cada uno de los Municipios involucrados en el presente financiamiento, no aprobara un monto específico para cualquier Ejercicio Fiscal comprometido, se entenderá que continuará vigente el monto aprobado en el año inmediato anterior.
+
 T R A N S I T O R I O S
 
 ###### Articulo 1o.
@@ -432,3 +450,15 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO.
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE ABRIL DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
