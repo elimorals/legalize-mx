@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-para-la-educacion-de-las-67843"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-03-30"
-last_updated: "2009-03-30"
+last_updated: "2010-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 ESTATUTO DEL INSTITUTO PARA LA EDUCACION DE LAS PERSONAS JOVENES Y ADULTAS DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2010.
 
 Estatuto publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 30 de marzo de 2009.
 
@@ -50,21 +50,23 @@ Para la atención de los asuntos de su competencia, el Instituto sujetará sus a
 
 El Instituto, a través de sus unidades administrativas, conducirá sus actividades en forma programada de acuerdo a los lineamientos y disposiciones que emitan sus órganos de gobierno y con base en las políticas que para el logro de los objetivos y prioridades de la planeación estatal, fije y establezca el Ejecutivo Estatal, por conducto del Instituto de Educación de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 4°.
 
 Para efectos del presente estatuto se entiende por:
 
-"Instituto" al Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes.
+I. "Instituto" o "INEPJA": al Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes.
 
-"La ley" La Ley de Creación del Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes.
+II. "La Ley" a la Ley de Creación del Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes.
 
-"INEA" Instituto para la Educación de los Adultos.
+III. "INEA" al Instituto para la Educación de los Adultos.
 
-"INEPJA" Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes.
+IV. "INEPJA": al Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes.
 
-"CODESI" Consejo Directivo de Evaluación y Seguimiento Institucional; y
+V. "CODESI": al Consejo Directivo de Evaluación y Seguimiento Institucional; y
 
-"SASA" Sistema Automatizado de Seguimiento a la Acreditación, de Educación para Adultos.
+VI. "SASA": al Sistema Automatizado de Seguimiento a la Acreditación, de Educación para Adultos.
 
 ### CAPÍTULO II. De la Junta de Gobierno
 
@@ -158,59 +160,69 @@ La delegación de facultades del Director General será expresa; el Director Gen
 
 Para la atención de sus responsabilidades y el cumplimiento de sus fines, el Instituto contará con direcciones, unidades técnicas y administrativas, jefaturas de departamento un órgano de control y vigilancia y coordinaciones de zona, todas ellas centrales con facultades normativas, de evaluación y control y con una estructura desconcentrada para la operación de los programas y servicios educativos.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 12.
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, el Instituto para la Educación de las Personas Jóvenes y Adultas contará con las siguientes áreas administrativas:
+Para el estudio, planeación y despacho de los asuntos de su competencia, el Instituto para la Educación de las Personas Jóvenes y Adultas contará con las siguientes Áreas administrativas:
 
-I. Dirección General:
+1. Dirección General:
 
-Unidad de Asuntos Jurídicos
+1.1 Unidad de Asuntos Jurídicos
 
-Unidad de Calidad
+1.2 Unidad de Calidad
 
-Unidad de Contraloría
+1.3 Unidad de Contraloría
 
-II. Direcciones de Área
-
-1. Dirección de Administración y Programación
+1.4 Coordinación de Enlace con Empresas y Patronato Pro Educación de Adultos
 
 De la que dependerán las siguientes Jefaturas de Departamento:
 
-Departamento de Recursos Financieros
+a) Departamento de Vinculación con Empresas
 
-Departamento de Planeación
+b) Departamento de Enlace con el Patronato Pro Educación de Adultos
+
+2. Direcciones de Área
+
+2.1 Dirección de Administración y Programación
+
+De la que dependerán las siguientes Jefaturas de Departamento:
+
+a) Departamento de Recursos Financieros
+
+b) Departamento de Planeación
 
 I. Análisis Estadístico
 
 II. Control presupuestal
 
-Departamento de Recursos Materiales y apoyo logístico.
+c) Departamento de Recursos Materiales y Apoyo Logístico
 
 I. Recursos Materiales
 
-II. Apoyo logístico
+II. Apoyo Logístico
 
-Departamento de Comunicación y Difusión
+d) Departamento de Comunicación y Difusión
 
-Departamento de Recursos Humanos
+e) Departamento de Recursos Humanos
 
-Departamento de Sistemas
+f) Departamento de Sistemas
 
-2. Dirección de Operación
+2.2 Dirección de Operación.
 
-De la que dependerán las siguientes Jefaturas de Departamento.
+De la que dependerán las siguientes Jefaturas de Departamento:
 
-Departamento de Acreditación y Certificación.
+a) Departamento de Acreditación y Certificación
 
-Coordinaciones de Zona
+b) Coordinaciones de Zona
 
-3. Dirección Académica
+2.3 Dirección Académica
 
-De la que dependerán las siguientes Jefaturas de Departamento.
+De la que dependerán las siguientes Jefaturas de Departamento:
 
-a. Departamento de Formación y Seguimiento
+a) Departamento de Formación y Seguimiento
 
-b. Departamento de Tecnología Educativa e Investigación
+b) Departamento de Tecnología Educativa e Investigación
 
 ###### ARTÍCULO 13.
 
@@ -331,6 +343,66 @@ XIX. Brindar la asesoría y apoyo que soliciten las coordinaciones de zona y/o d
 XX. Elaborar el Manual de procesos de su área correspondiente, así como ejecutar los objetivos del mismo, respecto al sistema de gestión de calidad del Instituto; y
 
 XXI. Ejercer las demás facultades que le sean asignadas por el Director General y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 16 BIS. - Corresponde al Departamento de Vinculación a Empresas lo siguiente:
+
+I.- Promover y difundir programas da vinculación con dependencias gubernamentales, con instituciones de la iniciativa privada y de la sociedad civil, en apoyo al abatimiento del rezago educativo de las personas jóvenes y adultas en el estado de Aguascalientes;
+
+II.- Fungir como responsable entre las instituciones vinculadas, la coordinación de (sic) y la Dirección General para brindar los servicios de educación básica para jóvenes y adultos, así como de los talleres de competencias ocupacionales que se oferten;
+
+III.- Elaborar un diagnóstico anual de las empresas o instituciones en la entidad para ofrecer los servicios de educación básica;
+
+IV.- Llevar a cabo el seguimiento periódico de los servicios educativos brindados a las instituciones vinculadas y rendir los informes correspondientes;
+
+V.- Promover y difundir programas de bachillerato en línea, con dependencias gubernamentales, con instituciones de la iniciativa privada y de la sociedad civil, con el personal institucional y solidario del Instituto y con la población abierta, para que inicien o concluyan su bachillerato, como una alternativa de desarrollo personal y profesional;
+
+VI.- Apoyar a los estudiantes de bachillerato en su proceso de inscripción, seguimiento y acreditación a los estudiantes del Bachillerato en línea;
+
+VII.- Aplicar exámenes a los estudiantes del programa de Bachillerato en Línea;
+
+VIII.- Desarrollar normas de competencia ocupacional en artes y oficios para certificar las competencias adquiridas a través de talleres de capacitación que oferte el instituto;
+
+IX.- Desarrollar instrumentos de evaluación para certificar en competencias ocupacionales a los educandos que participan en los talleres de competencias ocupacionales;
+
+X. Promover, gestionar, vincular e instalar talleres para capacitar en artes y oficios a personas que reciben los servicios de educación básica;
+
+XI.- Proponer, evaluar y certificar a personas en rezago educativo, en competencias ocupacionales en artes y oficios en base a las normas de competencias desarrolladas por esta área;
+
+Xll.- Elaborar el Manual de procesos de su área correspondiente, así como ejecutar los objetivos del mismo, respecto al sistema de gestión de calidad del Instituto; y
+
+XIII.- Ejercer las demás facultades que le sean asignadas por el Director General y que sean afines o complementarias a las mencionadas en las fracciones anteriores; (sic)
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 16 TER. - Corresponde al departamento de enlace con el Patronato, las siguientes facultades y atribuciones:
+
+I.- Coordinar, administrar, supervisar y evaluar las actividades del Patronato Pro Educación de los Adultos A. C., con el propósito de lograr un adecuado manejo financiero, transparente y responsable de los recursos que el INEPJA le transfiere;
+
+II.- Verificar y controlar los ingresos y egresos del Capítulo 7000 vía ramo 33, convenios ramo 11, recursos estatales, municipales, así como el control de ingresos de aportaciones del gobierno del estado, municipios y empresas;
+
+III.- Elaborar programas que contemplen acciones, tiempos y formas de realizar cierres mensuales de gratificaciones a figuras solidarias en el cual intervengan las coordinaciones de zona, el departamento de información y estadística del INEPJA y el Patronato Pro- Educación de los Adultos A. C. de forma coordinada;
+
+IV.- Asesorar y Coadyuvar con el Patronato Pro- Educación de Adultos A. C. en la aplicación y cumplimiento de los programas desarrollados por el INEPJA;
+
+V.- Verificar que la administración, actuación y destino de las gratificaciones de agentes solidarios, sean debidamente ejecutadas por el Patronato Pro- Educación de los Adultos A. C. contribuyendo así al buen funcionamiento de los programas operativos manejados por el INEPJA;
+
+VI. - Observar que en los programas y ejecución de recursos en que participa el Patronato Pro-Educación de los Adultos A. C. se cumpla con la normatividad que aplica a los recursos correspondientes rige al INEPJA;
+
+VII.- Supervisar el cumplimiento de los convenios entre el INEPJA y el Patronato Pro Educación de los Adultos A. C., respecto a la entrega de gratificaciones a figuras solidarias;
+
+VIII.- Verificar mensualmente la entrega de gratificaciones a figuras solidarias, en relación a la comprobación de la entrega de gratificaciones llevada a cabo por Telecom y que envía al Patronato Pro Educación de los Adultos A. C.;
+
+IX.- Supervisar los estados financieros del Patronato Pro-Educación de Adultos A. C. mensualmente;
+
+X.- Participar y asesorar en la elaboración de convenios con municipios y el sector empresarial en el estado para la colaboración en el rezago educativo;
+
+XI.- Apoyar administrativamente a las diversas áreas del INEPJA en su coordinación con el Patronato Pro Educación de los Adultos A. C.;
+
+XII.- Elaborar el Manual de procesos de su área correspondiente, así como ejecutar los objetivos del mismo, respecto al sistema de gestión de calidad del Instituto; y
+
+XIII. - Ejercer las demás facultades que le sean asignadas por el Director General y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
 
 ### CAPÍTULO V. De la Dirección de Administración y Programación
 
@@ -991,3 +1063,19 @@ SEGUNDO. - Queda abrogado y sin efectos el Estatuto Orgánico del Instituto para
 Jesús Chambon Arroyo,
 
 DIRECTOR GENERAL DEL INEPJA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+P.O. 19 DE ABRIL DE 2010.
+
+SE TRANSCRIBEN LOS PUNTOS DE ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- La Junta de Gobierno del Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes, aprueba el proyecto de modificaciones y adiciones que propone el Director General al Estatuto Orgánico del INEPJA.
+
+SEGUNDO.- El presente acuerdo surtirá sus efectos al día siguiente de su aprobación.
+
+TERCERO.- Realícese el trámite pertinente para la publicación en el Periódico Oficial del Estado de la reforma y adición a los artículos 12 y 16, 16 bis y 16 ter, del Estatuto Orgánico del INEPJA.
+
+CUATRO (SIC).- La presente modificación y adición aprobada al Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+QUINTO.- Se ordena inscribir la presente reforma, en el Registro Público de la Propiedad en el Estado, en el libro correspondiente a las Entidades Paraestatales.
