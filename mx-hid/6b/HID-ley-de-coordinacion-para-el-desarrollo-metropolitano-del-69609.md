@@ -4,7 +4,7 @@ identifier: "HID-ley-de-coordinacion-para-el-desarrollo-metropolitano-del-69609"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-10"
-last_updated: "2009-08-10"
+last_updated: "2010-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE COORDINACION PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2010.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de agosto de 2009.
 
@@ -229,9 +229,11 @@ V.- Supervisar el desarrollo de los proyectos en las Zonas Metropolitanas; y
 
 VI.- Las demás que le confiera el Consejo o la Legislación aplicable.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2010)</small>
+
 ###### Artículo 9.
 
-La Coordinación será la Unidad de Apoyo del Ejecutivo facultada para la atención del tema metropolitano en la Entidad, de igual manera será el medio de consulta y opinión encargada de dar el seguimiento y evaluación a las Comisiones Metropolitanas, al plan, programas, proyectos, acciones y obras de carácter metropolitano; así como la instancia de estudio, análisis y concertación de proyectos metropolitanos a corto, mediano y largo plazo.
+La Coordinación será la unidad administrativa de la Secretaría de Planeación y Desarrollo Regional, facultada para la atención del tema metropolitano en la Entidad, de igual manera, será el medio de consulta y opinión encargada de dar seguimiento y evaluar a las Comisiones Metropolitanas, al plan, programas, proyectos, acciones y obras de carácter metropolitano; así como la instancia de estudio, análisis y concertación de proyectos metropolitanos a corto, mediano y largo plazo.
 
 ###### Artículo 10.
 
@@ -245,7 +247,9 @@ I.- Coadyuvar con las diferentes Dependencias de la Administración Pública Est
 
 II.- Promover entre los sectores público, social y privado la coordinación de acciones para el desarrollo al interior de las Zonas Metropolitanas;
 
-III.- Proponer al Ejecutivo la celebración de Convenios con la Federación, Estados, Distrito Federal y Municipios que permitan cumplir eficazmente con los programas y acciones que establezcan en materia de desarrollo metropolitano;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2010)</small>
+
+III.- Proponer a la Secretaría, la celebración de Convenios del Estado, con la Federación, Estados, Distrito Federal y Municipios, que permitan cumplir eficazmente con los programas y acciones que establezcan en materia de desarrollo metropolitano;
 
 IV.- Coordinar con los Municipios integrantes de las Zonas Metropolitanas los convenios, acuerdos y lineamientos para la elaboración de los programas del desarrollo metropolitano;
 
@@ -255,7 +259,9 @@ VI.- Proponer al Consejo los programas, lineamientos y modalidades de desarrollo
 
 VII.- Promover, coordinar y evaluar con las Dependencias y Organismos Descentralizados de la Administración Pública Federal, Estatal y Municipal las acciones y programas orientados al desarrollo de las Zonas Metropolitanas;
 
-VIII.- Proponer al Ejecutivo, el reconocimiento de nuevas Zonas Metropolitanas, a efecto de que se gestione y emita el Decreto correspondiente;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2010)</small>
+
+VIII.- Proponer a la Secretaría, el reconocimiento de nuevas Zonas Metropolitanas, a efecto de que se gestione y emita el Decreto Correspondiente;
 
 IX.- Coordinar, evaluar y dar seguimiento a los trabajos de las Comisiones Metropolitanas y al cumplimiento de sus acuerdos;
 
@@ -337,7 +343,9 @@ V.- Suscribir los fideicomisos y en general otorgar todos los actos jurídicos n
 
 VI.- Formular el programa de desarrollo, el programa operativo anual y el anteproyecto del presupuesto anual de egresos de la Coordinación, en términos de las disposiciones aplicables;
 
-VII.- Elaborar y presentar al Ejecutivo, el Reglamento Interior de la Coordinación para su aprobación.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2010)</small>
+
+VII.- Elaborar y presentar a la Secretaría, el Proyecto de Reglamento Interior de la Coordinación, para su expedición por el Titular del Ejecutivo;
 
 VIII.- Elaborar los manuales de organización y procedimientos de acuerdo al Reglamento de esta Ley;
 
@@ -359,7 +367,9 @@ XVI.- Proporcionar los datos de las actividades desarrolladas por la Coordinaci�
 
 XVlI.- Elaborar la estructura orgánica de la Coordinación con base en el presupuesto autorizado;
 
-XVlII.- Proponer al Ejecutivo, el nombramiento y remoción de los titulares de las áreas administrativas que integran la Coordinación;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2010)</small>
+
+XVlII.- Proponer a la Secretaría, el nombramiento y remoción de los titulares de las áreas administrativas que integran la Coordinación;
 
 XIX.- Proponer al Consejo, los programas, estrategias y políticas de trabajo de las Comisiones;
 
@@ -453,7 +463,9 @@ Corresponden a los Municipios integrantes de las Zonas Metropolitanas:
 
 I.- Participar en la planeación y regulación de las conurbaciones, en los términos de esta Ley y de la Legislación Lederal (sic) y Local;
 
-II.- Celebrar con el Gobierno del Estado de Hidalgo Convenios y Acuerdos de Coordinación y Concertación que apoyen los objetivos y prioridades previstas en los Programas de Desarrollo Urbano de Zonas Metropolitanas y los demás que de éstos se deriven;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2010)</small>
+
+II.- Proponer a la Secretaría, la firma de Convenios que apoyen los objetivos y prioridades previstas en los Programas de Desarrollo Urbano de Zonas Metropolitanas y los demás que de éstos se deriven;
 
 III.- Proponer y ejecutar proyectos de desarrollo metropolitano;
 
@@ -554,3 +566,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE ABRIL DE 2010.
+
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan toda las disposiciones que se opongan al presente Decreto.
