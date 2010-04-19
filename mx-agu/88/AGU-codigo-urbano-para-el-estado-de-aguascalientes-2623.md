@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "2010-03-29"
+last_updated: "2010-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2010.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -4335,19 +4335,21 @@ Queda prohibido el establecimiento de fraccionamientos en lugares no aptos para 
 
 La construcción de vivienda multifamiliar o edificios habitacionales dentro de algún fraccionamiento sólo podrá ejecutarse en las zonas y porcentajes que para tal efecto hayan sido autorizados por la Comisión Estatal.
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2010)</small>
 
-ARTICULO 290 BIS.- Cuando en un fraccionamiento, condominio o desarrollo especial se realicen obras de saneamiento, protección o modificación de infraestructura para reducir o suprimir las restricciones existentes en un predio, el mismo deberá destinarse exclusivamente para mejorar la infraestructura, equipamiento y áreas verdes de la zona.
+ARTICULO 290 BIS.- Cuando en un fraccionamiento, condominio o desarrollo especial se realicen obras de saneamiento, protección o modificación de infraestructura para reducir o suprimir las restricciones existentes en un predio, el mismo deberá destinarse para los usos y destinos de suelo que resulten de la compatibilidad urbanística que corresponda a la zona y tipo de viabilidad que dé acceso a los predios, de conformidad con la zonificación prevista en los programas municipales de desarrollo urbano vigentes; asimismo para mejorar la infraestructura, equipamiento y áreas verdes de la zona.
 
 ###### ARTICULO 291.
 
 Las construcciones en condominio, además de cumplir con lo dispuesto en el párrafo anterior, deberán respetar lo previsto en este Código, en cuanto a las densidades y características de las obras, así como a la extensión de las áreas libres, de estacionamiento y de uso común.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 292.
 
-Los Ayuntamientos aprovecharán para infraestructura, equipamiento y servicios, cuando menos el 50% de las áreas de donación que reciban por parte de los fraccionadores, conforme a lo dispuesto en este Código y el dictamen correspondiente.
+Los Ayuntamientos deberán destinar para infraestructura, equipamiento y servicios, cuando menos el 50% de las áreas de donación que reciban por parte de los fraccionadores, conforme al presente Código y dictamen correspondiente.
+
+Los Ayuntamientos podrán realizar actos traslativos de dominio o de posesión para autorizar que otras dependencias u organismos públicos o privados sin fines de lucro, sean quienes dén cumplimiento a la obligación que se establece en el párrafo que antecede, debiendo cumplirse para ello con las formalidades que establezcan los ordenamientos municipales aplicables.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
@@ -4372,6 +4374,16 @@ V.- La compra o permuta de bienes inmuebles que sean necesarios para la ampliaci
 ###### ARTICULO 294.
 
 Es obligación del fraccionador donar al Ayuntamiento correspondiente, el equipamiento de limpia y seguridad pública que le sea determinado por el Ayuntamiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ABRIL DE 2010)</small>
+
+Como parte del equipamiento de limpia se deberán instalar contenedores para separar los residuos sólidos urbanos, con subdivisiones para papel y cartón, plástico, vidrio, metal y residuos orgánicos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 19 DE ABRIL DE 2010)</small>
 
 El área ocupada para equipamiento de seguridad pública será considerada como parte de la superficie que el fraccionador está obligado a donar al Ayuntamiento.
 
@@ -4557,6 +4569,12 @@ i) Placas de nomenclatura y señalamientos viales en las calles; y
 
 j) Equipamiento de limpia y seguridad pública, en caso de que se requiera, previo dictamen del Ayuntamiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2010)</small>
+
+Como parte del equipamiento de limpia se deberán instalar contenedores para separar los residuos sólidos urbanos, con subdivisiones para papel y cartón, plástico, vidrio, metal y residuos orgánicos.
+
 ###### ARTICULO 312.
 
 Los fraccionamientos habitacionales urbanos de tipo medio, deberán tener como mínimo, las siguientes características:
@@ -4623,6 +4641,12 @@ i) Placas de nomenclatura en los cruces de las calles; y
 
 j) Equipamiento de limpia y seguridad pública, en caso de que se requiera, previo dictamen del Ayuntamiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2010)</small>
+
+Como parte del equipamiento de limpia se deberán instalar contenedores para separar los residuos sólidos urbanos, con subdivisiones para papel y cartón, plástico, vidrio, metal y residuos orgánicos.
+
 ###### ARTICULO 313.
 
 Los fraccionamientos habitacionales urbanos de tipo popular, deberán tener como mínimo, las siguientes características:
@@ -4680,6 +4704,12 @@ h) Placas de nomenclatura en los cruces de calles y señalamientos viales en las
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 i) Equipamiento de limpia y seguridad pública, en caso de que se requiera, previo dictamen del Ayuntamiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2010)</small>
+
+Como parte del equipamiento de limpia se deberán instalar contenedores para separar los residuos sólidos urbanos, con subdivisiones para papel y cartón, plástico, vidrio, metal y residuos orgánicos.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
@@ -4775,6 +4805,12 @@ h) Placas de nomenclatura en los cruces de las calles; e
 
 i) Equipamiento de limpia y seguridad pública.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2010)</small>
+
+Como parte del equipamiento de limpia se deberán instalar contenedores para separar los residuos sólidos urbanos, con subdivisiones para papel y cartón, plástico, vidrio, metal y residuos orgánicos.
+
 ###### ARTICULO 321.
 
 Los fraccionamientos especiales de granjas de explotación agropecuaria, deberán tener como mínimo, las siguientes características:
@@ -4817,6 +4853,12 @@ h) Placas de nomenclatura en los cruces de las calles; e
 
 i) Equipamiento de limpia y seguridad pública.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2010)</small>
+
+Como parte del equipamiento de limpia se deberán instalar contenedores para separar los residuos sólidos urbanos, con subdivisiones para papel y cartón, plástico, vidrio, metal y residuos orgánicos.
+
 ###### ARTICULO 322.
 
 Los fraccionamientos comerciales deberán ajustarse a las especificaciones que en cada caso fije la Comisión Estatal, de acuerdo a las siguientes características:
@@ -4831,7 +4873,13 @@ IV.- Zonificación de los giros o servicios comerciales;
 
 V.- El fraccionador deberá donar al Municipio el 5% de la superficie neta del fraccionamiento, debidamente urbanizada;
 
-VI.- Obras de urbanización e instalaciones de los servicios públicos, tales como: red de agua potable, sistema de alcantarillado, servicios sanitarios y de recolección de basura, red de electrificación, alumbrado público, ductos para teléfono y las demás que resulten necesarias para el adecuado desarrollo de las funciones comerciales;
+VI.- Obras de urbanización e instalaciones de los servicios públicos, tales como: red de agua potable, sistema de alcantarillado, servicios sanitarios y de recolección de basura, red de electrificación, alumbrado público, ductos para teléfono y las demás que resulten necesarias para el adecuado desarrollo de las funciones comerciales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2010)</small>
+
+Para la recolección de basura se deberán instalar contenedores para separar los residuos sólidos urbanos, con subdivisiones para papel y cartón, plástico, vidrio, metal y residuos orgánicos;
 
 VII.- Espacios libres y su aprovechamiento;
 
@@ -4885,6 +4933,12 @@ IX.- Equipamiento de limpia y seguridad pública.
 
 En este tipo de fraccionamientos únicamente se permitirá la construcción de criptas, oficinas, caseta de vigilancia, iglesias, velatorios, crematorios y servicios conexos a las actividades funerarias.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2010)</small>
+
+Como parte del equipamiento de limpia se deberán instalar contenedores para separar los residuos sólidos urbanos, con subdivisiones para papel y cartón, plástico, vidrio, metal y residuos orgánicos.
+
 ###### ARTICULO 326.
 
 Los fraccionamientos industriales deberán tener como mínimo, las siguientes características:
@@ -4929,9 +4983,11 @@ i) Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles y 
 
 j) Placas de nomenclatura y señalamientos viales en las calles; y
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-k) Equipamiento de limpia y seguridad pública; y.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2010)</small>
+
+k).- Equipamiento de limpia y seguridad pública. Como parte del equipamiento de limpia se deberán instalar contenedores para separar los residuos sólidos urbanos, con subdivisiones para papel y cartón, plástico, vidrio, metal y residuos orgánicos; y
 
 VI.- Ubicación: Deberán constituirse a una distancia del límite urbano determinada por el Ayuntamiento.
 
@@ -4983,6 +5039,12 @@ j) Placas de nomenclatura y señalamientos viales en las calles; y
 
 k) Equipamiento de limpia y seguridad pública.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2010)</small>
+
+Como parte del equipamiento de limpia se deberán instalar contenedores para separar los residuos sólidos urbanos, con subdivisiones para papel y cartón, plástico, vidrio, metal y residuos orgánicos.
+
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ARTICULO 327 BIS.- Los fraccionamientos micro productivos, deberán tener como mínimo, las siguientes características:
@@ -5024,6 +5086,12 @@ i).- Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles 
 j).- Placas de nomenclatura, señalamientos viales en las calles; y
 
 k).- Equipamiento de limpia y seguridad pública.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2010)</small>
+
+Como parte del equipamiento de limpia se deberán instalar contenedores para separar los residuos sólidos urbanos, con subdivisiones para papel y cartón, plástico, vidrio, metal y residuos orgánicos.
 
 Si este tipo de fraccionamientos se constituye con fines pecuarios no será obligatorio cumplir con los requisitos que se establecen en los incisos e), g) y h) de la Fracción V de este Artículo, y sus lotes podrán ser de hasta 1000 metros cuadrados.
 
@@ -8770,3 +8838,35 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 En un plazo de 180 días naturales, tanto el Ejecutivo del Estado, como los Ayuntamientos, deberán emitir las normas reglamentarias correspondientes para asignar la supervisión de manera única, respecto de los fraccionamientos, condominios y desarrollos especiales, a las Unidades Externas de Supervisión; mientras tanto se encontrarán obligados a realizar la supervisión conforme a lo previsto antes de la entrada en vigencia del presente Decreto.
+
+P.O. 19 DE ABRIL DE 2010.
+
+DECRETO NUMERO 385, POR EL QUE SE REFORMA EL ARTICULO 292 DEL CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ABRIL DE 2010.
+
+DECRETO NUMERO 386, POR EL QUE SE REFORMA EL ARTICULO 290 BIS DEL CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ABRIL DE 2010.
+
+DECRETO NUMERO 387, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DEL CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del 1° de enero del año 2012.
+
+###### ARTÍCULO SEGUNDO.
+
+En el caso de los fraccionamientos ya autorizados y construidos pero no recibidos por el Municipio, los particulares tendrán a su cargo, sustituir los contenedores para almacenamiento de residuos sólidos urbanos, en términos de lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En el caso de los fraccionamientos ya autorizados, construidos y recibidos por el Municipio, éstos serán los responsables de sustituir los contenedores para almacenamiento de residuos sólidos urbanos, por los establecidos en el presente Decreto.
