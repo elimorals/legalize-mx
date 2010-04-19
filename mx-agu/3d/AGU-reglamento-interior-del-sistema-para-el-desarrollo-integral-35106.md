@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-sistema-para-el-desarrollo-integral-351
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-24"
-last_updated: "2009-10-05"
+last_updated: "2010-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 24 de noviembre de 2003.
 
@@ -959,6 +959,8 @@ a) Departamento Administrativo:
 
 7.- (DEROGADO, P.O. 5 DE OCTUBRE DE 2009)
 
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 19 DE ABRIL DE 2010)</small>
+
 b) Departamento de Finanzas:
 
 1. Unidad de Contabilidad;
@@ -967,13 +969,15 @@ b) Departamento de Finanzas:
 
 3. Unidad de Egresos;
 
-4. Unidad de Ingresos.
+4. Unidad de Ingresos;
+
+7 (sic).- (DEROGADO, P.O. 19 DE ABRIL DE 2010)
 
 c) Departamento Administrativo de Servicios Médicos.
 
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O.19 DE ABRIL DE 2010)</small>
 
-1. Unidad de soporte administrativo.
+1. Unidad de Soporte Administrativo.
 
 III.- DIRECCION DE DESARROLLO FAMILIAR:
 
@@ -1121,11 +1125,11 @@ a) Unidad de Diseño Gráfico;
 
 b) Unidad de Difusión;
 
-c) Unidad de Información;
+c) Unidad de Información.
 
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O.19 DE ABRIL DE 2010)</small>
 
-d) Unidad de comunicación interna.
+d) Unidad de Comunicación Interna.
 
 > <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2036,3 +2040,7 @@ P.O. 23 DE MARZO DE 2009.
 P.O. 5 DE OCTUBRE DE 2009.
 
 Único.- Las presentes disposiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ABRIL DE 2010.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
