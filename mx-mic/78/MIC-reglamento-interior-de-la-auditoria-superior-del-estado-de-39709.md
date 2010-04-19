@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-auditoria-superior-del-estado-de-3970
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-01"
-last_updated: "2004-06-01"
+last_updated: "2010-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DE MICHOACAN, PUBLICADO EN EL P.O. DE 19 DE ABRIL DEL 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el martes 1 de junio de 2004.
 
@@ -728,3 +730,27 @@ SEGUNDO.- Los manuales de organización y de procedimientos, así como los Regla
 Palacio del Poder Legislativo.- Morelia, Michoacán de Ocampo, al 1 primer día del mes de abril de 2004 dos mil cuatro.
 
 PRESIDENTE. - DIP. RAÚL MORÓN OROZCO.- PRIMER SECRETARIO.- DIP. RAFAEL RAMÍREZ SÁNCHEZ. - SEGUNDO SECRETARIO.- DIP. ESTEBAN ARROYO BLANCO.- TERCER SECRETARIO.- DIP. GILBERTO CORIA GUDIÑO. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE ABRIL DEL 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Auditoría Superior de Michoacán, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 1º de junio de 2004.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado emitirá la normatividad relativa al Servicio Civil de Carrera, dentro del término de 180 días, a partir de la entrada en vigor del presente Reglamento, si no lo aprobara, la Auditoría Superior de Michoacán emitirá los lineamientos respectivos para instrumentarlo.
+
+###### ARTÍCULO CUARTO.
+
+La Comisión Inspectora de la Auditoría Superior de Michoacán, elaborará la propuesta de Reglamento del Fondo para el Fortalecimiento de la Fiscalización Superior, dentro del término de noventa días, a partir de la entrada en vigor del presente.
+
+###### ARTÍCULO QUINTO.
+
+El Código de Ética Profesional de la Auditoría Superior de Michoacán, deberá ser emitido por la misma en un periodo que no excederá de noventa días hábiles, contados a partir de la vigencia del presente Reglamento.
