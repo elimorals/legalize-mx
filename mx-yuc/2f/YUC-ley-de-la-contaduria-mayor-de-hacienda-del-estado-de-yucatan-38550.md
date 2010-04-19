@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-contaduria-mayor-de-hacienda-del-estado-de-yucatan-38
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-31"
-last_updated: "2004-03-31"
+last_updated: "2010-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE FISCALIZACION DE LA CUENTA PUBLICA DEL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 19 DE ABRIL DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 31 de marzo de 2004.
 
@@ -674,3 +676,85 @@ EL SECRETARIO GENERAL DE GOBIERNO
 (RUBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIERREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 19 DE ABRIL DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Al entrar en vigor esta Ley, quedará abrogada la Ley de la Contaduría Mayor de Hacienda del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, mediante Decreto número 491 el 31 de marzo del año 2004.
+
+###### ARTÍCULO TERCERO.
+
+Todos los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda del Estado de Yucatán al entrar en vigor esta Ley, se seguirán tramitando hasta su conclusión ante la Auditoría Superior del Estado de Yucatán, con base en la Ley que se abroga en el Artículo Transitorio Segundo de este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones que se opongan a lo establecido en esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Reglamento de esta Ley, deberá ser propuesto al Congreso por el Auditor Superior del Estado, a más tardar a los 180 días naturales siguientes a la entrada en vigor de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Las referencias que se hagan en otras leyes y disposiciones administrativas a la Ley de la Contaduría Mayor de Hacienda del Estado de Yucatán, se tendrán por realizadas a la Ley de Fiscalización de la Cuenta Pública del Estado de Yucatán.
+
+###### ARTÍCULO SÉPTIMO.
+
+La legislación que deba adecuarse por la expedición de esta Ley, deberá realizarse paulatinamente a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Los convenios de colaboración que se hubieren celebrado con anterioridad a la entrada en vigor de esta Ley, por la Contaduría Mayor de Hacienda del Estado, conservarán su valor y eficacia y estarán a cargo de la Auditoría Superior del Estado.
+
+###### ARTÍCULO NOVENO.
+
+Todos los bienes, archivos y recursos presupuestales asignados a la Contaduría Mayor de Hacienda del Estado, pasarán a formar parte del patrimonio de la Auditoría Superior del Estado del Congreso, a partir de la entrada en vigor de este Decreto. De igual manera, el órgano que se crea en esta Ley se subroga en todos los derechos y obligaciones de la Contaduría Mayor de Hacienda del Estado.
+
+Los servidores públicos y empleados de la Contaduría Mayor de Hacienda conservarán sus derechos y prestaciones laborales con motivo de la entrada en vigor de este Decreto y de las disposiciones legales que en consecuencia se emitan.
+
+###### ARTÍCULO DÉCIMO.
+
+El Congreso deberá nombrar a los integrantes e instalar la Comisión de Vigilancia de la Cuenta Pública a que se refiere esta Ley, en el Primer Periodo de Sesiones de la LIX Legislatura, conforme a lo establecido en la Ley Orgánica del Poder Legislativo del Estado de Yucatán, respecto de las demás Comisiones Permanentes. A partir de su instalación empezará a ejercer las atribuciones establecidas en esta Ley.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Las atribuciones que la Ley Orgánica del Poder Legislativo del Estado de Yucatán, otorga a la Comisión Permanente de Hacienda Pública, Inspección de la Contaduría Mayor de Hacienda y Patrimonio Estatal y Municipal, respecto de la Inspección de la Contaduría Mayor de Hacienda, se derogan a partir de que la Comisión de Vigilancia de la Cuenta Pública ejerza sus atribuciones conforme al Artículo transitorio anterior.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las atribuciones de la Comisión de Vigilancia de la Cuenta Pública establecidas en esta Ley, serán ejercidas por la Comisión Permanente de Hacienda Pública, Inspección de la Contaduría Mayor de Hacienda y Patrimonio Estatal y Municipal, hasta que aquella Comisión esté integrada e instalada por la LIX Legislatura.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+La LIX Legislatura deberá reformar la Ley Orgánica del Poder Legislativo del Estado de Yucatán, a fin de establecer la Comisión Permanente de Vigilancia de la Cuenta Pública y modificar las atribuciones de la Comisión Permanente de Hacienda Pública, Inspección de la Contaduría Mayor de Hacienda y Patrimonio Estatal y Municipal.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+El procedimiento, términos y plazos previstos en esta Ley, para la presentación y fiscalización de las cuentas públicas, se aplicarán a partir del ejercicio fiscal correspondiente al año 2011. La fiscalización de los ejercicios anteriores al año 2011, se llevarán conforme a las disposiciones de la Ley de la Contaduría Mayor de Hacienda del Estado de Yucatán.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+El nombramiento del titular de la Unidad de Vigilancia y Control de la Auditoría Superior del Estado, deberá realizarse en un plazo que no exceda de 60 días contados a partir del nombramiento del Auditor Superior del Estado.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El informe de la cuenta pública de los sujetos de revisión correspondiente al período comprendido de julio a diciembre de 2009, será presentado al Congreso, por el Auditor Superior del Estado o por el encargo del despacho, dentro del mes junio del año 2010. Si por alguna razón justificada, el plazo no fuere suficiente, lo hará del conocimiento del Congreso, a fin de solicitar una prórroga que no podrá exceder de 6 meses.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+El informe de la cuenta pública de los sujetos de revisión y entidades fiscalizadas correspondientes al período comprendido de enero a junio de 2010, será presentado al Congreso, por el Auditor Superior del Estado, dentro del mes (sic) diciembre del año 2010. Si por alguna razón justificada, el plazo no fuere suficiente, lo hará del conocimiento del Congreso, a fin de solicitar una prórroga que no podrá exceder de 6 meses.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+El informe de la cuenta pública de las entidades fiscalizadas, correspondiente al período comprendido de julio a diciembre de 2010, será presentado al Congreso, por el Auditor Superior del Estado, dentro del mes (sic) junio del año 2011. Si por alguna razón justificada, el plazo no fuere suficiente, lo hará del conocimiento del Congreso, a fin de solicitar una prórroga que no podrá exceder de 6 meses.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+El Congreso del Estado deberá emitir la convocatoria para elegir al Auditor Superior del Estado, dentro de los 90 días naturales siguientes contados a partir de la publicación de este Decreto.
