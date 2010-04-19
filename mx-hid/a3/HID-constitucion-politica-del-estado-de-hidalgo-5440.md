@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2009-12-14"
+last_updated: "2010-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -123,9 +123,9 @@ El varón y la mujer son iguales ante la ley. Esta protegerá la organización y
 
 Toda persona tiene derecho a decidir, de manera libre, responsable e informada, sobre el número y el espaciamiento de sus hijos.
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2010)</small>
 
-Los niños, niñas, adolescentes y personas con capacidades diferentes, tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral.
+Los niños, niñas, adolescentes, adultos mayores y personas con capacidades diferentes, tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -3188,3 +3188,7 @@ P.O. 14 DE DICIEMBRE DE 2009.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE ABRIL DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
