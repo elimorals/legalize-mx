@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-equilibrio-ecologico-y-proteccion-del-ambiente-del-2918"
 country: "mx"
 rank: "ley"
 publication_date: "1991-11-30"
-last_updated: "2008-03-31"
+last_updated: "2010-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE EQUILIBRIO ECOLOGICO Y PROTECCION DEL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE ABRIL DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 30 de noviembre de 1991.
 
@@ -1233,6 +1233,10 @@ TODOS LOS ACTOS, CONVENIOS O CONTRATOS RELATIVOS A LA PROPIEDAD, POSESION O CUAL
 
 LOS NOTARIOS O CUALESQUIERA DE LOS OTROS FEDATARIOS PUBLICOS SOLO PODRAN AUTORIZAR LAS ESCRITURAS PUBLICAS, ACTOS, CONVENIOS O CONTRATOS EN LOS QUE INTERVENGAN, CUANDO SE CUMPLA CON LO DISPUESTO EN EL PRESENTE ARTICULO.
 
+> <small>(ADICIONADO, B.O. 23 DE ABRIL DE 2010)</small>
+
+ARTICULO 100 BIS.- TODAS LAS CONCESIONES, LICENCIAS, PERMISOS, Y EN GENERAL AUTORIZACIONES QUE EMITAN LAS AUTORIDADES ESTATALES O MUNICIPALES, DEBERAN SER ACORDES CON LOS DECRETOS DE CREACION O MODIFICACION DE LAS AREAS NATURALES PROTEGIDAS DE JURISDICCION FEDERAL, ESTATAL Y MUNICIPAL. EL INCUMPLIMIENTO A ESTA DISPOSICION DARA LUGAR A LA NULIDAD ABSOLUTA DEL ACTO.
+
 ## TITULO SEPTIMO. MEDIDAS DE CONTROL Y DE SEGURIDAD, SANCIONES Y DELITOS
 
 ### CAPITULO I. DISPOSICIONES COMUNES
@@ -1486,3 +1490,7 @@ SEGUNDO.- En cuanto a la mención que se haga, en la presente ley, de la Secreta
 B.O. 31 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE ABRIL DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
