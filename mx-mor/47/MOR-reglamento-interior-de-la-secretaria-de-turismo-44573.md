@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-turismo-44573"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-30"
-last_updated: "2008-01-30"
+last_updated: "2010-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO, PUBLICADO EN LA SEGUNDA SECCION DEL P.O. DE 21 DE ABRIL DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 30 de marzo de 2005.
 
@@ -486,3 +488,13 @@ RÚBRICAS.
 P.O. 30 DE ENERO DE 2008.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 21 DE ABRIL DE 2010.
+
+PRIMERO. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Turismo, publicado en el Periódico Oficial 4835 de fecha 30 de marzo de 2005 y todas las disposiciones administrativas de igual o menor rango que se opongan al presente Reglamento.
+
+TERCERO. En tanto se actualizan los manuales a que se refiere este Reglamento, la persona titular de la Secretaría queda facultada para resolver, para fines administrativos, las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+CUARTO. En el plazo de 120 días contados a partir del inicio de la vigencia del presente Reglamento, la persona titular de la Secretaría deberá expedir los manuales administrativos de conformidad con las disposiciones legales y administrativas aplicables.
