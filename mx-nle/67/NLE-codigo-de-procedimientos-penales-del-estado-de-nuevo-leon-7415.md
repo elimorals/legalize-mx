@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2010-03-29"
+last_updated: "2010-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -1185,9 +1185,9 @@ Las denuncias y las querellas pueden formularse verbalmente o por escrito.
 
 Se contraerán, en todo caso, a describir los hechos supuestamente delictivos, sin calificarlos jurídicamente, y se harán en los términos previstos para el ejercicio del derecho de petición.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2010)</small>
 
-Cuando los hechos denunciados o materia de la querella, no sean constitutivos de delito, o se advierta que existe extemporaneidad o prescripción en los términos del Título Séptimo, Capítulo Séptimo del Código Penal para el Estado de Nuevo León, se dictará el acuerdo de no inicio de la preparación de la acción penal.
+Cuando los hechos denunciados o materia de la querella, no sean constitutivos de delito, o se advierta que existe extemporaneidad o prescripción en los términos del libro Primero, Titulo Séptimo, Capitulo Séptimo del Código Penal para el Estado de Nuevo León, se dictará el acuerdo de no inicio de la preparación de la acción penal, con excepción de lo establecido en el párrafo tercero de la fracción XII del artículo 3 de esta Código.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -5646,5 +5646,9 @@ Segundo.- El Ejecutivo del Estado deberá realizar las reformas al Reglamento de
 Tercero.- La Secretaría de Finanzas y Tesorería General del Estado deberá realizar las modificaciones presupuestales y determinar las partidas necesarias para el funcionamiento adecuado de la Unidad Especializada Antisecuestros, en un plazo no mayor a 90 días naturales contador a partir de la entrada en vigor del presente Decreto.
 
 P.O. 29 DE MARZO DE 2010.
+
+Único.- El presenté Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE ABRIL DE 2010.
 
 Único.- El presenté Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
