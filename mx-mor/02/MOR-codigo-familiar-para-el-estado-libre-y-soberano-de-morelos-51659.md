@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2008-12-11"
+last_updated: "2010-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -2035,9 +2035,15 @@ I.- Cuando el que la ejerza es condenado judicialmente a la pérdida de ese dere
 
 II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 439, del Código Procesal Familiar;
 
-III.- Cuando el que la ejerza no cumpla, cualquiera que sea la causa, los deberes inherentes al cargo, comprometiendo la salud, la seguridad o la moralidad de los sujetos a patria potestad, sin perjuicio de las sanciones penales que procedan; y
+III.- Cuando el que la ejerza no cumpla, cualquiera que sea la causa, los deberes inherentes al cargo, comprometiendo la salud, la seguridad o la moralidad de los sujetos a patria potestad, sin perjuicio de las sanciones penales que procedan; y (sic)
 
-IV.- Por la exposición o el abandono del sujeto a patria potestad que dure hasta tres meses, por quien ejerza ésta conforme a la Ley.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+IV.- Por la exposición o el abandono que dure treinta días naturales en forma continua, del sujeto a patria potestad, por parte de quien ejerza ésta conforme a la Ley;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+V. Porque se reúnan treinta días naturales de abandono por parte de quien ejerza la patria potestad conforme a la Ley, aún cuando sea en períodos discontinuos, siempre que tales periodos queden comprendidos dentro de un lapso de noventa días naturales.
 
 En el caso de ulteriores nupcias de quien ejerza la patria potestad, no confiere al cónyuge nuevo el derecho de su ejercicio respecto de las personas que están sujetas a ella.
 
@@ -2829,9 +2835,13 @@ EFECTOS DE LA ADOPCIÓN. La adopción tiene los siguientes efectos:
 
 I.- Podrán ser adoptados los menores de edad, abandonados, expósitos, acogidos o entregados a una institución de asistencia autorizada para promover su adopción, e incapacitados aún cuando sean mayores de edad siempre que la adopción sea benéfica.
 
-Para efectos de este Código el menor expósito es aquél del que se desconoce quienes son sus padres o familiares, y que posterior a tres meses de que fue acogido por una institución pública o privada, ha sido declarado en estado de exposición.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2010)</small>
 
-Se entiende por menor abandonado el acogido por una institución pública o privada de protección a menores, cuyos padres se han desinteresado de él durante tres meses y que ha sido declarado en estado de abandono.
+Para efectos de este Código el menor expósito es aquél del que se desconoce quién ejerce patria potestad sobre él, y que posterior a treinta días naturales de que fue acogido por una institución pública o privada, ha sido declarado en estado de exposición.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2010)</small>
+
+Se entiende por menor abandonado el acogido por una institución pública o privada de protección a menores, cuyos sujetos que ejercen patria potestad se han desinteresado de él durante treinta días naturales continuos, o aún cuando sea en períodos discontinuos, siempre que tales periodos queden comprendidos dentro de un lapso de noventa días naturales. En ambos supuestos se deberá declarar el estado de abandono.
 
 II.- La patria potestad se ejercerá en los términos y por las personas señaladas en este Código para los hijos consanguíneos, y
 
@@ -5994,3 +6004,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo dispuesto en la presente.
 
 TERCERO.- Aprobado que sea, remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 21 DE ABRIL DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Los juicios y procedimientos relacionados con las reformas contenidas en este Decreto, serán substanciados hasta su culminación, conforme a las normas bajo las cuales fueron iniciados.
