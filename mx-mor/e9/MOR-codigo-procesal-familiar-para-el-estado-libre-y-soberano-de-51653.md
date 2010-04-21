@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2008-11-12"
+last_updated: "2010-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2010.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -107,7 +107,7 @@ Artículos
 
 ## TÍTULO CUARTO: DE LAS PROVIDENCIAS CAUTELARES 230-240
 
-## TÍTULO QUINTO: DEL ARRAIGO 241-244
+## TÍTULO QUINTO: DEL ARRAIGO 41-244
 
 ## TÍTULO SEXTO: DEL EMBARGO PRECAUTORIO 245-258
 
@@ -947,7 +947,11 @@ VII.- En los conflictos acerca de alimentos, el del domicilio del acreedor alime
 
 > <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2007)</small>
 
-VIII.- En los juicios sucesorios, el Tribunal en cuyo ámbito espacial haya tenido su último domicilio el auto de la herencia, o, en su defecto, el de la ubicación de los bienes raíces que formen el caudal hereditario, si estuvieren en varios lugares, el de aquél en que se encuentre el mayor número de bienes y a falta de domicilio el del lugar del fallecimiento del autor de la sucesión. Si este no estuviere domiciliado en la República será competente el Tribunal que lo fuese de acuerdo con las reglas anteriores en la hipótesis de apertura del juicio sucesorio ante Tribunales Mexicanos.
+VIII.- En los juicios sucesorios, el Tribunal en cuyo ámbito espacial haya tenido su último domicilio el auto de la herencia, o, en su defecto, el de la ubicación de los bienes raíces que formen el caudal hereditario, si estuvieren en varios lugares, el de aquél en que se encuentre el mayor número de bienes y a falta de domicilio el del lugar del fallecimiento del autor de la sucesión. Si este no estuviere domiciliado en la República será competente el Tribunal que lo fuese de acuerdo con las reglas anteriores en la hipótesis de apertura del juicio sucesorio ante Tribunales Mexicanos;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+IX.- En los juicios especiales de pérdida de patria potestad de menores acogidos por algún centro asistencial público o privado, será juez competente el del domicilio del centro asistencial público o privado que esté legitimado para ejercitar la acción.
 
 ###### ARTÍCULO 74.
 
@@ -1460,6 +1464,10 @@ VI. Si se ignorase el domicilio de la persona emplazada, el emplazamiento se har
 VII. Cuando se trate de personas inciertas o ignoradas, el emplazamiento se hará por edictos en forma que se prescribe en la fracción anterior de este artículo; pero en este caso los edictos deberán contener, además, datos bastantes para que las personas inciertas o ignoradas puedan identificar su interés en el negocio de que se trate.
 
 En todos los casos de emplazamiento, los jueces tendrán obligación de cerciorarse de oficio de que el emplazamiento se hizo de acuerdo con la noticia del mismo pudo (sic) razonablemente llegar al interesado y tienen facultades para mandar reponer el irregularmente hecho, antes de que el juicio continúe sus trámites.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2010)</small>
+
+Para el caso único del juicio especial de pérdida de patria potestad de menores acogidos por algún centro asistencial público o privado, cuando se ignore el domicilio de la persona que debe ser emplazada, o ésta sea incierta o desconocida, una vez agotados los medios de investigación por parte de la autoridad jurisdiccional, el emplazamiento se hará por edictos que se publicarán en el Boletín Judicial que edita el Tribunal Superior de Justicia del Estado de Morelos y en un periódico diario de los de mayor circulación que se publican en el Estado de Morelos, por dos veces, con un intervalo entre una y otra publicación de seis días naturales sin contar los correspondientes a las publicaciones. Si el día en que se deba hacer la segunda publicación, corresponde a un día inhábil, la misma se recorrerá al día hábil siguiente.
 
 ###### ARTÍCULO 135.
 
@@ -3759,11 +3767,95 @@ SUSPENSIÓN DE LA PATRIA POTESTAD. Los asuntos que versen sobre suspensión de l
 
 La resolución que se dicte no es apelable.
 
-### CAPÍTULO V. DE LA RECTIFICACIÓN DE ACTAS DEL REGISTRO CIVIL
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2010)</small>
+
+### CAPÍTULO V. DEL JUICIO DE PÉRDIDA DE PATRIA POTESTAD DE MENORES ACOGIDOS POR ALGÚN CENTRO ASISTENCIAL PÚBLICO O PRIVADO
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 455 BIS.- PROCEDENCIA Y SUJETOS LEGITIMADOS PARA EJERCITAR LA ACCIÓN.
+
+Procederá el juicio de pérdida de patria potestad tratándose de menores de edad acogidos por algún centro asistencial público o privado, en los casos previstos por el artículo 247 fracciones III, IV y V del Código Familiar para el Estado Libre y Soberano de Morelos.
+
+Corresponderá a la Procuraduría de la Defensa del Menor y la Familia; al representante legal de la institución en que se encuentre acogido el menor, o al Ministerio Público, el ejercicio de la acción relativa a la promoción del juicio.
+
+En este procedimiento corresponderá al juzgador, en caso de ser necesario, el dictar las medidas conducentes que impulsen el procedimiento hasta su conclusión.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 455 TER.- ADMISIÓN DE LA DEMANDA Y EMPLAZAMIENTO.
+
+Admitida la demanda se dará intervención al Ministerio Público; en caso de que la acción sea ejercitada por instituciones privadas, también se dará intervención a la Procuraduría de la Defensa del Menor y la Familia, y se emplazará a quien ejerza la patria potestad y al tutor si se le conociere, para que la contesten dentro del término improrrogable de tres días hábiles.
+
+En caso de que el emplazamiento se realice por edictos, el plazo a que se refiere este artículo será de cinco días hábiles.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 455 QUATER.- NOTIFICACIONES.
+
+Las notificaciones se sujetarán a lo dispuesto por el Capítulo IV del Título Quinto del Libro Primero del Código Procesal Familiar para el Estado Libre y Soberano de Morelos.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 455 QUINQUIES.- EXCEPCIONES.
+
+Todas las excepciones deberán oponerse precisamente al contestar la demanda y se resolverán en sentencia definitiva. Si la parte demandada no formula su contestación en el plazo señalado, se le tendrá por contestado en sentido negativo.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 455 SEXIES.- INCIDENTES.
+
+Los incidentes no suspenderán el procedimiento y se resolverán de plano en sentencia definitiva.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 455 SEPTIES.- MEDIDAS CAUTELARES.
+
+Transcurrido el término para contestar la demanda, el Juez dictará las medidas cautelares suficientes para resguardar el interés superior del menor y su integración a un ambiente familiar adecuado.
+
+Para los efectos del párrafo anterior, el Juzgador deberá, en su caso y sin dilación alguna, escuchar al menor cuando éste tenga por lo menos siete años cumplidos para que exprese su opinión libremente sobre el asunto.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 455 OSTIES (SIC).- OFRECIMIENTO Y DESAHOGO DE PRUEBAS.
+
+Las pruebas deberán de ser ofrecidas junto con los escritos de demanda y contestación.
+
+En caso de que las pruebas requieran de actuaciones posteriores para su desahogo, al día siguiente de aquél en que venza el plazo concedido para la contestación de la demanda, el Juez dictará un auto teniendo por fijada la litis, resolviendo sobre la admisión o rechazo de los medios de prueba ofrecidos, proveyendo lo legalmente necesario para su preparación, y señalará día y hora para la celebración de la audiencia para el desahogo de pruebas.
+
+La audiencia para el desahogo de pruebas deberá celebrarse dentro de un plazo que no será menor de cinco días hábiles ni mayor de diez días hábiles.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 455 NONIES.- FORMULACIÓN DE ALEGATOS.
+
+En la misma audiencia de desahogo de pruebas y una vez que éstas sean desahogadas, el Juez dictará un acuerdo por el que se concederá a las partes un plazo de dos días hábiles para formular sus alegatos por escrito.
+
+Si las pruebas no requieren de una actuación posterior para su desahogo, al día siguiente de aquél en que venza el plazo concedido para la contestación de la demanda, el Juez dictará un auto teniendo por fijada la litis, resolviendo sobre la admisión o rechazo de los medios de prueba ofrecidos y concederá a las partes dos días para formular sus alegatos por escrito.
+
+La sola conclusión del plazo para formular alegatos, surtirá efectos de citación para sentencia, la que deberá ser emitida y publicada dentro del plazo de cinco días hábiles.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 455 DECIES.- DISTINCIONES DEL JUICIO ESPECIAL.
+
+En lo no previsto en el presente Capítulo, en el juicio especial de pérdida de patria potestad tratándose de menores de edad acogidos por algún centro asistencial público o privado, se aplicarán las reglas señaladas para el proceso del orden familiar en general, atendiendo además los siguientes plazos:
+
+I. Dos días hábiles para interponer el recurso de revocación, y
+
+II. Tres días hábiles para apelar la sentencia definitiva. Cuando el emplazamiento se haga por edictos el plazo será de veinte días hábiles.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 455 UNDECIES.- APELACIÓN DE AUTOS Y SENTENCIAS EN EL PROCEDIMIENTO PREVISTO POR EL PRESENTE TÍTULO.
+
+En el juicio de Pérdida de Patria Potestad de Menores Acogidos por algún Centro Asistencial Público o Privado, solamente los autos y sentencias interlocutorias que decidan incidentes y las sentencias definitivas, serán apelables; el recurso sólo se admitirá en el efecto devolutivo.
+
+(REUBICADO [N. DE E. ANTES CAPITULO V], P.O. 21 DE ABRIL DE 2010)
+
+### CAPÍTULO VI. DE LA RECTIFICACIÓN DE ACTAS DEL REGISTRO CIVIL
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
-
-### CAPÍTULO I. GENERALIDADES
 
 ###### ARTÍCULO 456.
 
@@ -3857,7 +3949,7 @@ DEL EXPEDIENTE DE VIDA.- Para efectos del presente capítulo el expediente de vi
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO II. REGLAS DE TRÁMITE
+### CAPÍTULO I. GENERALIDADES
 
 ###### ARTÍCULO 462.
 
@@ -3889,7 +3981,7 @@ Cuando fuere necesaria la audiencia de una persona, se la citará conforme a Der
 
 (DEROGADO, P.O. 15 DE AGOSTO DE 2007)
 
-### CAPÍTULO ÚNICO. TRAMITACIÓN DE INCIDENTES
+### CAPÍTULO II. REGLAS DE TRÁMITE
 
 ###### ARTÍCULO 466.
 
@@ -4209,11 +4301,15 @@ I. En la promoción inicial manifestar el nombre y edad del menor o incapacitado
 
 II. Cuando el menor hubiere sido acogido por una institución de asistencia social pública o privada, el adoptante o la institución según sea el caso, recabarán ante la Procuraduría de la Defensa del Menor y la Familia del Sistema para el Desarrollo Integral de la Familia en Morelos constancia del tiempo de la exposición o abandono para los efectos que establece el Código Familiar;
 
-III. Si hubieren transcurrido menos de tres meses del abandono, se decretará el depósito de quien se pretenda adoptar a favor del presunto adoptante, entretanto se consuma dicho plazo;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+III. Si hubieren transcurrido menos de treinta días naturales de la exposición o del abandono, se podrá decretar el depósito de quien se pretenda adoptar a favor del presunto adoptante, entretanto se consuma dicho plazo;
 
 IV. Si no se conociera el nombre de los padres o no hubiere sido acogido por institución de asistencia social, pública o privada, se decretará la custodia con el presunto adoptante, siempre y cuando ello fuere aconsejable a criterio del Juez;
 
-V. En el supuesto en que el menor haya sido entregado a alguna institución pública por quienes ejerzan la patria potestad para promover su adopción, no se requerirá que transcurra el plazo de tres meses; y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+V. En el supuesto en que el menor haya sido entregado a alguna institución pública por quienes ejerzan la patria potestad para promover su adopción, no se requerirá que transcurra el plazo de treinta días naturales, a que se refiere el artículo 368 del Código Familiar para el Estado Libre y Soberano de Morelos; y
 
 VI. En el caso de adopción internacional, el adoptante deberá acreditar su legal estancia en el país con la finalidad de realizar una adopción, y cumplir con lo que dispone el Código Familiar en materia de adopción, así como lo dispuesto en la Convención sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional. La documentación que presenten los solicitantes en idioma distinto al español, incluirá la traducción oficial, y estar apostillada o legalizada por la Secretaría de Relaciones Exteriores.
 
@@ -4561,7 +4657,7 @@ FACULTADES DEL MINISTERIO PÚBLICO. El Ministerio Público velará por los inter
 
 ## TÍTULO SEGUNDO. IMPUGNACIÓN DE LAS RESOLUCIONES JUDICIALES
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. TRAMITACIÓN DE INCIDENTES
 
 ###### ARTÍCULO 552.
 
@@ -4593,7 +4689,7 @@ AUDIENCIA EN EL INCIDENTE. En los casos urgentes podrá oírse a las partes, rec
 
 ## TÍTULO PRIMERO. DE LA EJECUCIÓN FORZOSA
 
-### CAPÍTULO II. DE LA REVOCACIÓN Y REPOSICIÓN
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 556.
 
@@ -4637,7 +4733,7 @@ PERSONAS FACULTADAS PARA INTERPONER RECURSOS. Sólo las partes y las personas a 
 
 ABANDONO DE LOS RECURSOS. Los recursos se tendrán por abandonados cuando no se continúen en forma legal o no se interpongan por las personas o con los requisitos que establece la ley. El abandono de un recurso no trae condena en costas, pero sujeta al que lo hizo valer a indemnizar a la contraparte de los perjuicios que le cause por la suspensión, si se hubiere decretado.
 
-### CAPÍTULO III. DE LA APELACIÓN
+### CAPÍTULO II. DE LA REVOCACIÓN Y REPOSICIÓN
 
 ###### ARTÍCULO 565.
 
@@ -4665,7 +4761,7 @@ La resolución que se dicte no es recurrible. En los juicios que se tramitan ora
 
 PROCEDENCIA DE LA REPOSICIÓN. Procede la reposición de los proveídos y autos del Tribunal Superior, y para éstos son aplicables las mismas reglas que para la revocación se establecen en el artículo anterior.
 
-### CAPÍTULO IV. DE LA QUEJA
+### CAPÍTULO III. DE LA APELACIÓN
 
 ###### ARTÍCULO 569.
 
@@ -4875,7 +4971,7 @@ Estas acciones y excepciones se tramitarán incidentalmente por cuerda separada 
 
 EJECUTORIEDAD DE LAS SENTENCIAS DEFINITIVAS DE SEGUNDA INSTANCIA. Las sentencias definitivas de segunda instancia causarán ejecutoria por ministerio de la ley. Tan pronto como haya transcurrido el término de quince días sin que haya sido impugnada por amparo por ninguna de las partes, se enviarán los autos, originales en su caso, y testimonio de la resolución al inferior para su cumplimiento.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO IV. DE LA QUEJA
 
 ###### ARTÍCULO 590.
 
@@ -4929,7 +5025,7 @@ FALTA O DEFICIENCIA EN LOS INFORMES DEL FUNCIONARIO. La falta o deficiencia en l
 
 ## TÍTULO SEGUNDO. DE LA EJECUCIÓN DE LAS SENTENCIAS FORÁNEAS
 
-### CAPÍTULO II. DE LOS EMBARGOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 597.
 
@@ -5165,7 +5261,7 @@ REVOCACIÓN DE ACTOS SIMULADOS O FRAUDULENTOS. El ejecutante o depositario tendr
 
 EMPLEO DE DIVERSAS FORMAS DE EJECUCIÓN. El acreedor puede servirse acumulativamente de las varias formas de ejecución forzosa previstas por la ley.
 
-### CAPÍTULO III. DE LAS VENTAS Y REMATES JUDICIALES
+### CAPÍTULO II. DE LOS EMBARGOS
 
 ###### ARTÍCULO 626.
 
@@ -5425,7 +5521,7 @@ III. En los casos de reembargo, el depositario del primer secuestro lo será res
 
 EMBARGOS SIMULTÁNEOS. En caso de que dos ejecutadores practiquen simultáneamente embargos ordenados en juicios distintos, los realizarán asociados y tendrán igual preferencia, levantándose un acta para cada expediente y correspondiendo el nombramiento del depositario al ejecutante en el embargo ordenado por el juzgado de número inferior.
 
-### CAPÍTULO IV. FINAL DE LA EJECUCIÓN FORZOSA
+### CAPÍTULO III. DE LAS VENTAS Y REMATES JUDICIALES
 
 ###### ARTÍCULO 645.
 
@@ -5655,7 +5751,7 @@ FACULTADES DEL JUEZ DURANTE LOS REMATES. El juez tendrá durante la tramitación
 
 AUTORIZACIÓN JUDICIAL PARA GASTOS DE EJECUCIÓN. Cualquier liquidación que tenga que hacerse respecto al pago de los gravámenes que afecten a los bienes vendidos, gastos de ejecución y demás, se regularán por el juez con un escrito de cada parte, y resolución dentro del tercer día.
 
-### CAPÍTULO I. SENTENCIAS DICTADAS POR LOS TRIBUNALES DE LOS ESTADOS
+### CAPÍTULO IV. FINAL DE LA EJECUCIÓN FORZOSA
 
 ###### ARTÍCULO 666.
 
@@ -5717,7 +5813,7 @@ HIPÓTESIS PARA PEDIR UNA NUEVA EJECUCIÓN FORZOSA. Si la distribución de la su
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO II. COOPERACION INTERNACIONAL
+### CAPÍTULO I. SENTENCIAS DICTADAS POR LOS TRIBUNALES DE LOS ESTADOS
 
 ###### ARTÍCULO 673.
 
@@ -5750,6 +5846,8 @@ IV. Siempre que la parte condenada haya sido emplazada personalmente para ocurri
 ###### ARTÍCULO 677.
 
 DESPACHO DEL SUPERIOR DEL JUEZ REQUERIDO. El Juez que reciba despacho u orden de su superior para ejecutar cualquiera diligencia, es mero ejecutor, y, en consecuencia, no dará curso a ninguna defensa o contrapretensión que opongan los interesados, y se tomará simple razón de sus respuestas en el expediente, antes de devolverlo.
+
+### CAPÍTULO II. COOPERACION INTERNACIONAL
 
 ###### ARTÍCULO 678.
 
@@ -6676,3 +6774,9 @@ El presente Decreto, entrará en vigor, al día siguiente de su publicación en 
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 21 DE ABRIL DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Los juicios y procedimientos relacionados con las reformas contenidas en este Decreto, serán substanciados hasta su culminación, conforme a las normas bajo las cuales fueron iniciados.
