@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-tabasqueno-de-59405"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-19"
-last_updated: "2008-01-19"
+last_updated: "2010-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
 
-REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
+REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 19 de enero de 2008.
 
@@ -207,11 +207,19 @@ VII. Dirección de Administración y Finanzas;
 
 VIII. Dirección de Capacitación Vinculación y Difusión;
 
-IX. Dirección de Archivo e Informática;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
-X. Órgano de Control Interno; y
+IX. Dirección de Informática;
 
-XI. Las demás unidades y personal técnico y administrativo que conforme a la disponibilidad presupuestaria, autorice el Pleno a propuesta de su Presidente.
+X. Órgano de Control Interno; y (sic)
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+XI. Unidad de Archivos; y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+XII. Las demás unidades y personal técnico y administrativo que conforme a la disponibilidad presupuestaria, autorice el Pleno a propuesta de su Presidente.
 
 ### Capítulo III. Del Pleno
 
@@ -235,7 +243,9 @@ VII. Aprobar los mecanismos para el control y evaluación de las actividades del
 
 VIII. Autorizar la participación del personal en las actividades relacionadas con el Instituto;
 
-IX. Analizar los programas a cargo de la Secretaría Ejecutiva y Direcciones;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+IX. Analizar los programas a cargo de la Secretaría Ejecutiva, Direcciones, Órgano de Control Interno y la Unidad de Archivos;
 
 X. Aprobar los programas que le proponga la Secretaría Ejecutiva;
 
@@ -277,7 +287,9 @@ X. Expedir las bases para la selección, permanencia, promoción, capacitación 
 
 XI. Las demás que le señale la Ley, su Reglamento o cualquier otra disposición legal aplicable.
 
-### Capítulo V. Del Consejero Presidente
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ABRIL DE 2010)</small>
+
+### Capítulo V. Del Presidente
 
 ###### Artículo 24.
 
@@ -317,7 +329,9 @@ XVI. Cumplimentar los acuerdos del Pleno y del Órgano de Gobierno;
 
 XVII. Rendir los informes previos y justificados en los amparos que se promuevan en contra de las resoluciones del Instituto;
 
-XVIII. Ejercer por conducto de la Dirección de Administración y Finanzas el presupuesto del Instituto, para lo cual gozará de las más altas facultades de administración y para pleitos y cobranzas, con la limitante de que para su delegación requerirá autorización del Órgano de Gobierno;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+XVIII. Ejercer por conducto de la Dirección de Administración y Finanzas el presupuesto del Instituto, para lo cual gozará de las más amplias facultades de administración y para pleitos y cobranzas, con la limitante de que para su delegación requerirá autorización del Órgano de Gobierno;
 
 XIX. Dar cuenta al Órgano de Gobierno de la situación financiera y presupuestal que informe mensualmente la Dirección de Administración y Finanzas, y vigilar el cumplimiento de las normas de control y evaluación del presupuesto;
 
@@ -337,7 +351,13 @@ XXVI. Vigilar que los servidores públicos del Instituto cumplan con la Ley y de
 
 XXVII. Proponer al Órgano de Gobierno las medidas administrativas necesarias para el buen desempeño del Instituto; y
 
-XXVIII. Las demás que le señale la Ley, su Reglamento o cualquier otra disposición legal aplicable.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+XXVIII. Nombrar al personal necesario en casos urgentes, dando cuenta al Órgano de Gobierno en la próxima reunión para que los ratifique o rectifique.
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+XXIX. Las demás que le señale la Ley, su Reglamento o cualquier otra disposición legal aplicable.
 
 ### Capítulo VI. De los Consejeros
 
@@ -387,7 +407,9 @@ V. Apoyar al Presidente en la recepción y substanciación de los asuntos que se
 
 VI. Realizar el sorteo de los asuntos para resolver, observando las disposiciones contenidas en este Reglamento;
 
-VII. Publicar en la página electrónica del Instituto, en coordinación con la Dirección de Archivo e informática, la fecha y hora de las sesiones del Pleno, así como de la propuesta de orden del día correspondiente;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+VII. Publicar en la página electrónica del Instituto, en coordinación con la Dirección de Informática, la fecha y hora de las sesiones del Pleno, así como de la propuesta de orden del día correspondiente;
 
 VIII. Asistir al Presidente durante las sesiones del Pleno y/o del Órgano de Gobierno;
 
@@ -409,7 +431,9 @@ XVI. Elaborar los proyectos de convenios y acuerdos que deba suscribir el Instit
 
 XVII. Instalar y operar la oficialía de partes del Instituto;
 
-XVIII. Coordinar las Direcciones a su cargo, vigilando el buen desempeño de los asuntos que tengan encomendados;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+XVIII. Coordinar las Direcciones y Unidades a su cargo, vigilando el buen desempeño de los asuntos que tengan encomendados, así como recibir del Órgano de Control los informes cuatrimestrales y presentar al Pleno, cuando se le requiera, los avances de cada Dirección en la ejecución de sus respectivos programas de trabajo;
 
 XIX. Coordinar y supervisar la elaboración de proyectos de recomendaciones, lineamientos, bases o normas y demás instrumentos jurídicos que conforme a la Ley deba expedir el Instituto;
 
@@ -429,13 +453,19 @@ XXVI. Las que le confiera el Pleno del Instituto; y
 
 XXVII. Las demás que le señale la Ley, su Reglamento o cualquier otra disposición legal aplicable.
 
-### CAPÍTULO VIII. De las Atribuciones Genéricas de las Direcciones
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ABRIL DE 2010)</small>
+
+### CAPÍTULO VIII. De las Atribuciones Genéricas de las Direcciones, del Órgano de Control Interno y de la Unidad de Archivos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2010)</small>
 
 ###### Artículo 27.
 
-Son atribuciones genéricas de los titulares de las Direcciones:
+Son atribuciones genéricas de los titulares de las Direcciones, del Órgano de Control Interno y de la Unidad de Archivos:
 
-I. Planear, presupuestar, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo de los programas y acciones encomendadas a su cargo;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+I. Planear, presupuestar, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo de los programas y acciones encomendadas a su cargo, así como presentarlos a la Secretaría Ejecutiva.
 
 II. Acordar con su superior inmediato la resolución de los asuntos relevantes, cuya tramitación se encuentre dentro del área de su competencia;
 
@@ -451,9 +481,15 @@ VII. Proporcionar la información, datos o cooperación técnica que les sea req
 
 VIII. Proporcionar a la Dirección de Administración y Finanzas la información correspondiente a sus proyectos y programas, particularmente lo relativo a sus necesidades de recursos materiales, humanos y financieros, para la elaboración del proyecto de presupuesto del Instituto;
 
-IX. Proponer los formatos internos y externos convenientes para la operación del área a su cargo; y
+IX. Proponer los formatos internos y externos convenientes para la operación del área a su cargo; y (sic)
 
-X. Las demás que le señale la Ley, su Reglamento o cualquier otra disposición legal aplicable.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+X. Informar al Órgano de Control Interno de manera cuatrimestral, los avances de sus programas de trabajo.
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+XI. Las demás que le señale la Ley, su Reglamento o cualquier otra disposición legal aplicable.
 
 ###### Artículo 28.
 
@@ -461,15 +497,23 @@ La Dirección Jurídica Consultiva tendrá las siguientes atribuciones específi
 
 I. Fungir corno unidades de acceso a la Información;
 
-II. Apoyar a la Secretaría Ejecutiva en el trámite y substanciación de los procedimientos de queja;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
-III. Apoyar a la Secretaría Ejecutiva en la instalación y operación de la oficialía de partes y en la notificación de las resoluciones y acuerdos del Pleno;
+II. Realizar los trámites y substanciación de los procedimientos de queja y recursos de revisión turnados por la Secretaria Ejecutiva;
 
-IV. Apoyar a la Secretaría Ejecutiva en la elaboración de los estudios y proyectos de su competencia;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+III. Notificar los acuerdos y resoluciones turnados por la Secretaría Ejecutiva;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+IV. Realizar las opiniones, estudios y proyectos solicitados por la Secretaría Ejecutiva, en los asuntos competencia del Instituto;
 
 V. Representar legalmente al Instituto en los procedimientos administrativos jurisdiccionales y judiciales que no correspondan a otra área;
 
-VI. Revisar los aspectos jurídicos de los acuerdos, convenios y contratos que suscriba el Instituto;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+VI. Elaborar los acuerdos, convenios y contratos que suscriba el Instituto;
 
 VII. Realizar los trámites necesarios para que se publiquen en el Periódico Oficial del Estado, los acuerdos que el Instituto deba divulgar por ese medio;
 
@@ -479,11 +523,25 @@ IX. Apoyar y asesorar al Instituto en la elaboración de los informes que deban 
 
 X. Custodiar la información reservada o confidencial cuando así sea solicitada por el Instituto para resolver un recurso;
 
-XI. Elaborar opiniones y estudios y proponer proyectos legislativos sobre iniciativas o actualizaciones de leyes, reglamentos y en general, sobre cualquier ordenamiento jurídico relacionado con el ámbito de competencia del Instituto;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
-XII. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presidente o el Secretario Ejecutivo; y
+XI. Elaborar proyectos legislativos relacionados con el ámbito de competencia del Instituto;
 
-XIII. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+XII. Asesorar a las unidades administrativas del Instituto;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+XIII. Brindar asesoría a los Sujetos Obligados cuando así lo requieran, en asuntos relacionados con la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco y sus ordenamientos correlativos;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+XIV. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presidente o el Secretario Ejecutivo; y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+XV. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
 
 ###### Artículo 29.
 
@@ -497,7 +555,9 @@ III. Auxiliar al Presidente en la elaboración del anteproyecto de presupuesto a
 
 IV. Conducir, en el ámbito de su competencia, la operación y racionalización del presupuesto del Instituto;
 
-V. Elaborar los manuales de organización y procedimientos administrativos que de acuerdo a su competencia le correspondan;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+V. Elaborar los manuales administrativos que de acuerdo a su competencia le correspondan;
 
 VI. Instrumentar el sistema del Servicio Profesional y del Personal Administrativo del Instituto en los términos previstos en las bases fijadas por el Pleno y conforme a la disponibilidad presupuestal;
 
@@ -509,11 +569,15 @@ IX. Administrar los ingresos que reciba el Instituto, entre éstos el obtenido p
 
 X. Formular y presentar al Órgano de Gobierno, los estados financieros e informes estadísticos y económicos del Instituto;
 
-XI. Elaborar los informes y evaluaciones que el Instituto deba remitir al Órgano Superior de Fiscalización;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+XI. Elaborar los informes y evaluaciones financieras, presupuestales y de recursos humanos que el Instituto deba remitir al Órgano Superior de Fiscalización;
 
 XII. Solventar de forma conjunta con el Órgano Interno de Control las observaciones que formule la Legislatura del Estado a través del Órgano Superior de Fiscalización;
 
-XIII. Atender las necesidades de recursos humanos y materiales de los órganos y unidades administrativas del Instituto, de acuerdo con los lineamientos fijados por el Presidente, conforme a la disponibilidad presupuestal;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+XIII. Suministrar los recursos humanos y materiales a las unidades administrativas del Instituto, de acuerdo con los lineamientos fijados por el Presidente, conforme a la disponibilidad presupuestal;
 
 XIV. Establecer, controlar y evaluar el programa interno de protección civil, así como emitir las normas necesarias para su operación, desarrollo y vigilancia, en los términos de las disposiciones aplicables;
 
@@ -529,13 +593,17 @@ La Dirección de Capacitación, Vinculación y Difusión tendrá las siguientes 
 
 I. Elaborar y proponer al Secretario Ejecutivo, proyectos que tengan como finalidad propiciar una cultura de Transparencia y Acceso a la Información Pública, así como Protección de Datos Personales, mediante la realización de diplomados, seminarios, talleres, cursos, foros o conferencias, así como las acciones de difusión correspondientes;
 
-II. Proponer mecanismos de coordinación para la capacitación, vinculación y difusión, con las universidades públicas y privadas, así como con institutos tecnológicos y demás instituciones de educación superior, para que se incluyan en los programas de estudios, asignaturas sobre la Transparencia y el Acceso a la Información Pública, así como Protección de Datos Personales;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+II. Proponer mecanismos de coordinación para la capacitación, vinculación y difusión, con las instituciones educativas, para que se incluyan en los programas de estudios, asignaturas sobre la Transparencia y el Acceso a la Información Pública, así como Protección de Datos Personales;
 
 III. Impulsar en coordinación con las instituciones de educación superior, la integración de un centro de investigación, difusión y docencia sobre la Transparencia y el Derecho de Acceso a la Información Pública, así como la Protección de Datos Personales, para fomentar el conocimiento sobre el tema y que coadyuve con el Instituto;
 
-IV. Proponer los mecanismos. de coordinación y realizar las gestiones necesarias para que en los planes y programas de estudio de educación básica y media superior, se incluyan temas que versen sobre la importancia social de la Transparencia y el Derecho de Acceso a la Información Pública, así como el Derecho ala Protección de Datos Personales;
+IV. (DEROGADA, P.O. 21 DE ABRIL DE 2010)
 
-V. Proponer convenios con las Instituciones de Educación Superior para que sus alumnos realicen sus prácticas profesionales y de servicio social en el Instituto con el objetivo de fomentar la cultura de transparencia y acceso a la información;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+V. Proponer convenios con las Instituciones de Educación Superior para que sus alumnos realicen sus prácticas profesionales y de servicio social en el Instituto, con el objetivo de fomentar la cultura de transparencia y acceso a la información;
 
 VI. Establecer vínculos con las instituciones públicas y privadas de la entidad para ejecutar programas que permitan difundir las actividades del Instituto y realizar actos para dar a conocer el derecho de acceso a la información pública y la Protección de Datos Personales;
 
@@ -553,83 +621,83 @@ XII. Proponer y ejecutar la política de comunicación social;
 
 XIII. Difundir las normas, lineamientos, bases y criterios que determine el Pleno;
 
-XIV. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presidente o el Secretario Ejecutivo; y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
-XV. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
+XIV. Realizar las evaluaciones de los portales de transparencia de los Sujetos Obligados;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+XV. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presidente o el Secretario Ejecutivo; y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2010)</small>
+
+XVI. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2010)</small>
 
 ###### Artículo 31.
 
-La Dirección de Archivo e Informática tendrá las siguientes atribuciones específicas:
+La Dirección de Informática tendrá las siguientes atribuciones específicas:
 
-I. La organización de los archivos del Instituto asegurando la disponibilidad, localización expedita, integridad y conservación de los documentos de archivo que se posean;
+I. Proponer índices de evaluación a las páginas electrónicas de los Sujetos Obligados;
 
-II. Proponer índices de evaluación a las páginas electrónicas de los sujetos obligados y llevarlos a cabo;
+II. Administrar y conservar los documentos electrónicos, generados o recibidos, cuyo contenido y estructura permitan identificarlos como documentos de archivo, así como aplicar las medidas técnicas de conservación que aseguren la validez, autenticidad, confidencialidad, integridad y disponibilidad de dichos documentos, de conformidad con las normas nacionales e internacionales, por lo que deberá informar trimestralmente a la Unidad de Archivos la relación de los archivos electrónicos que se encuentren bajo su resguardo;
 
-III. Elaborar por área una guía simple de los archivos con los que cuenta el Instituto, la cual deberá contener la serie documental, la relación de los archivos de trámite y de concentración, así como el nombre y cargo del responsable de los mismos;
+III. Verificar que existan los programas de respaldo y transferencia de los documentos electrónicos en cada área, responsabilizando a éstas del cuidado, organización y conservación de sus archivos;
 
-IV. Organizar en cada área un archivo de trámite, en el cual se administrarán los documentos vigentes;
+IV. Proponer el proyecto de infraestructura informática;
 
-V. Contar con un archivo de concentración, en el cual se administrarán los documentos cuya consulta es esporádica por parte de las áreas y que permanecen en él hasta su destino final;
+V. Desarrollar el sitio del Instituto en Internet, de tal forma que éste sea de fácil acceso, así como encargarse de su actualización;
 
-VI. Llevar un archivo que contenga la memoria documental del Instituto;
+VI. Investigar las fórmulas de desarrollo tecnológico para mejorar el uso de la infraestructura informática;
 
-VII. Administrar y conservar los documentos electrónicos, generados o recibidos, cuyo contenido y estructura permitan identificarlos como documentos de archivo, así como aplicar las medidas técnicas de conservación que aseguren la validez, autenticidad, confidencialidad, integridad y disponibilidad de dichos documentos, de conformidad con las normas nacionales e internacionales;
+VII. Investigar y mantenerse actualizado sobre las plataformas tecnológicas que puedan ayudar a lograr un óptimo acceso a la información pública, encargándose de su implementación, mantenimiento y continua actualización;
 
-VIII. Verificar que existan los programas de respaldo y transferencia de los documentos electrónicos en cada área, responsabilizando a éstas del cuidado, organización y conservación de sus archivos;
+VIII. Proponer programas de capacitación del personal en el uso de las nuevas tecnologías y evaluar sus resultados;
 
-IX. Proponer al Presidente las medidas de preservación o prevención de los documentos para evitar el deterioro por agentes intrínsecos y extrínsecos;
+IX. Implementar los sistemas que permitan recabar la información y elementos estadísticos que reflejen el estado de las funciones del Instituto;
 
-X. Proponer al Presidente el proyecto de infraestructura informática;
+X. Proporcionar asesoría en cuestiones técnicas de informática a servidores públicos del Instituto, así como a las personas que funjan como enlaces en todos los Sujetos Obligados;
 
-XI. Desarrollar el sitio del Instituto en Internet, de tal forma que éste sea de fácil acceso, así como encargarse de su actualización;
+XI. Fungir como enlace con otras instancias en materia de tecnología de la información;
 
-XII. Investigar las fórmulas de desarrollo tecnológico para mejorar el uso de la infraestructura informática;
+XII. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presidente o el Secretario Ejecutivo; y
 
-XIII. Investigar y mantenerse actualizado sobre las plataformas tecnológicas que puedan ayudar a lograr un óptimo acceso a la información pública, encargándose de su implementación, mantenimiento y continua actualización;
+XIII. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
 
-XIV. Proponer programas de capacitación del personal en el uso de las nuevas tecnologías y evaluar sus resultados;
-
-XV. Implementar los sistemas que permitan recabar la información y elementos estadísticos que reflejen el estado de las funciones del Instituto;
-
-XVI. Proporcionar asesoría en cuestiones técnicas de informática a servidores públicos del Instituto, así como a las personas que funjan como enlaces en todos los sujetos obligados;
-
-XVII. Fungir como enlace con otras instancias en materia de tecnología de la información;
-
-XVIIII (sic). Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presidente o el Secretario Ejecutivo; y
-
-XIX. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2010)</small>
 
 ###### Artículo 32.
 
 El Órgano de Control Interno del Instituto tendrá las siguientes atribuciones específicas:
 
-I. Planear, programar, organizar y coordinar el sistema de control y evaluación del Instituto, así como inspeccionar el ejercicio del gasto, y su congruencia con el presupuesto de egresos;
+I. Planear, programar, organizar y coordinar el sistema de control y evaluación del Instituto e inspeccionar el ejercicio del gasto, y su congruencia con el presupuesto de egresos;
 
-II. Fijar en consulta con el Órgano superior de Fiscalización del Estado, los mecanismos de control, fiscalización, contabilidad y auditoria que debe observar el Instituto;
+II. Atender los requerimientos de información del Órgano Superior de Fiscalización, tales como autoevaluaciones financieras y presupuestales, acciones principales de evaluación y control;
 
-III. Vigilar el cumplimiento de las políticas y de los programas establecidos por el Instituto, así como de las normas mencionadas en la fracción anterior;
+III. Vigilar la aplicación del gasto público para lograr el máximo rendimiento de los recursos del Instituto y el adecuado equilibrio presupuestal;
 
-IV. Practicar auditoria a los servidores públicos del Instituto;
+IV. Supervisar que las adquisiciones que realice el Instituto sean favorables a su economía, procurando que la cantidad y calidad de los bienes adquiridos correspondan a sus necesidades reales, con apego a las normas de la materia;
 
-V. Vigilar la aplicación del gasto público para lograr el máximo rendimiento de los recursos del Instituto y el adecuado equilibrio presupuestal;
+V. Informar al Presidente de manera cuatrimestral el resultado de las evaluaciones programáticas realizadas y proponer las medidas preventivas y correctivas que procedan;
 
-VI. Supervisar que las adquisiciones que realice el Instituto sean favorables a su economía, procurando que la cantidad y calidad de los bienes adquiridos correspondan a sus necesidades reales, con apego a las normas de la materia;
+VI. Realizar y remitir al Órgano Superior de Fiscalización del Estado, los informes previstos en la Ley de Fiscalización Superior del Estado de Tabasco que le correspondan;
 
-VII. Informar anualmente al Presidente el resultado de las evaluaciones realizadas y proponer las medidas preventivas y correctivas que procedan;
+VII. Conocer e investigar de oficio o a petición de parte, los actos, omisiones o conductas de los servidores públicos que puedan constituir responsabilidades administrativas, así como iniciar e instaurar el procedimiento administrativo correspondiente y presentar al Pleno el proyecto de resolución;
 
-VIII. Realizar las auto-evaluaciones que deban remitirse al Órgano Superior de Fiscalización;
+VIII. Vigilar el cumplimiento de las normas internas del Instituto;
 
-IX. Conocer e investigar de oficio o a petición de parte, los actos, omisión es o conductas de los servidores públicos que puedan constituir responsabilidades administrativas, así como iniciar e instaurar el procedimiento administrativo correspondiente y presentar al Pleno el proyecto de resolución;
+IX. Participar en los procesos de entrega-recepción de las áreas que integren el Instituto;
 
-X. Vigilar el cumplimiento de las normas internas del Instituto;
+X. Participar en la elaboración y actualización de los inventarios generales de bienes muebles e inmuebles propiedad del Instituto;
 
-XI. Participar en los procesos de entrega-recepción de las áreas que integren el Instituto;
+XI. Diseñar y aplicar los programas, mecanismos y procedimientos de supervisión, auditoría, seguimiento y evaluación de las actividades que realicen las distintas unidades administrativas del Instituto, bajo la supervisión de la Secretaría Ejecutiva;
 
-XII. Participar en la elaboración y actualización de los inventarios generales de bienes muebles e inmuebles propiedad del Instituto;
+XII. Integrar el padrón de los servidores públicos del Instituto obligados a presentar Declaración de su Situación Patrimonial, implementar mecanismos para su presentación, recibir éstas en los términos que prevé la legislación de la materia; verificar y practicar las investigaciones que fueren pertinentes e informar al Órgano de Gobierno su cumplimiento;
 
-XIII. Diseñar los programas, mecanismos y procedimientos de supervisión, seguimiento y evaluación de las actividades que realicen las distintas direcciones y unidades administrativas del Instituto, bajo la supervisión de la Secretaría Ejecutiva;
+XIII. Dar seguimiento a las observaciones y recomendaciones que resulten de las auditorías practicadas al Instituto y colaborar en la solventación de las mismas;
 
-XIV. Integrar el padrón de los servidores públicos del Instituto obligados a presentar Declaración de su Situación Patrimonial, implementar mecanismos para su presentación, recibir éstas en los términos que prevé la legislación de la materia; verificar y practicar las investigaciones que fueren pertinentes e informar al Órgano de Gobierno su cumplimiento;
+XIV. Informar de manera mensual al Presidente de las actividades realizadas en el área y de forma cuatrimestral, lo relacionado con los Informes que las unidades administrativas realicen;
 
 XV. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presidente o el Secretario Ejecutivo; y
 
@@ -637,23 +705,53 @@ XVI. Las que le señale la Ley, el Reglamento o cualquier otra disposición lega
 
 ### Capítulo X. De las Responsabilidades y Suplencias
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2010)</small>
+
 ###### Artículo 33.
 
-En el ejercicio de sus funciones, el personal del Instituto observará las obligaciones inherentes a su calidad de servidores públicos y en caso de que Incurran en faltas durante el desempeño de su empleo, cargo o comisión, conforme a los procedimientos previstos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco, se les impondrán las sanciones allí previstas, independientemente de la responsabilidad civil o penal en que incurran.
+La Unidad de Archivos tendrá las siguientes atribuciones específicas:
+
+I. La organización de los archivos del Instituto asegurando la disponibilidad, localización expedita, integridad y conservación de los documentos de archivo que se posean;
+
+II. Elaborar por área una guía simple de los archivos con los que cuenta el Instituto, la cual deberá contener la serie documental, la relación de los archivos de trámite y de concentración, así como el nombre y cargo del responsable de los mismos;
+
+III. Organizar en cada área un archivo de trámite, en el cual se administrarán los documentos vigentes;
+
+IV. Contar con un archivo de concentración, en el cual se administrarán los documentos cuya consulta es esporádica por parte de las áreas y que permanecen en él hasta su destino final;
+
+V. Llevar un archivo que contenga la memoria documental del Instituto;
+
+VI. Proponer las medidas de preservación o prevención de los documentos para evitar el deterioro por agentes intrínsecos y extrínsecos;
+
+VII. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presidente o el Secretario Ejecutivo; y
+
+VIII. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2010)</small>
 
 ### CAPÍTULO IX. De las Direcciones
 
 ###### Artículo 34.
 
-El Secretario Ejecutivo, Directores, Subdirectores, Coordinadores, Jefes de Departamento y demás mandos medios o superiores que laboren en el Instituto, no podrán desempeñar otro empleo, cargo o comisión en la administración pública federal, estatal o municipal.
+En el ejercicio de sus funciones, el personal del Instituto observará las obligaciones inherentes a su calidad de servidores públicos y en caso de que incurran en faltas durante el desempeño de su empleo, cargo o comisión, conforme a los procedimientos previstos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco, se les impondrán las sanciones allí previstas, independientemente de la responsabilidad civil o penal en que incurran.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2010)</small>
 
 ###### Artículo 35.
 
-Las solicitudes de licencia que presenten los Consejeros se formularán por escrito; las que no excedan de 30 días se considerarán temporales y. las superiores a ese plazo, definitivas. Estas últimas serán cubiertas por-el respectivo suplente, conforme lo dispuesto por el artículo 22 de la Ley.
+El Secretario Ejecutivo, Directores, Subdirectores, Coordinadores, Jefes de Departamento y demás mandos medios o superiores que laboren en el Instituto, no podrán desempeñar otro empleo, cargo o comisión en la administración pública federal, estatal o municipal, excepto las de carácter académico, como la docencia e investigación.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2010)</small>
 
 ###### Artículo 36.
 
-Las ausencias temporales del Secretario Ejecutivo, de los titulares de las Direcciones, del Órgano de Control Interno y de las unidades administrativas, serán cubiertas por el servidor público que el Presidente designe.
+Las solicitudes de licencia que presenten los Consejeros se formularán por escrito; las que no excedan de 30 días se considerarán temporales y las superiores a ese plazo, definitivas. Estas últimas serán cubiertas por el respectivo suplente, conforme lo dispuesto por el artículo 22 de la Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2010)</small>
+
+###### Artículo 37.
+
+Las ausencias temporales del Secretario Ejecutivo serán cubiertas por el titular de la Dirección Jurídica Consultiva. Las de los titulares de las Direcciones, del Órgano de Control Interno y de las unidades administrativas, serán cubiertas por el servidor público que el Presidente designe.
 
 Las ausencias definitivas de los servidores públicos antes mencionados serán cubiertas por la persona que el Órgano de Gobierno determine.
 
@@ -678,3 +776,13 @@ LIC. KARLA CANTORAL DOMINGUEZ
 SECRETARIA EJECUTIVA
 
 El presente reglamento fue aprobado, en forma unánime, por el Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, en sesión ordinaria del día 08 de enero del 2008.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ABRIL DE 2010.
+
+Primero. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Para la difusión del presente acuerdo, se publicará en la página web del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
+
+Tercero. Una vez realizada la publicación en el Periódico Oficial del Estado, deberá darse circulación a este Acuerdo para su debido cumplimiento.
