@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-la-contraloria-del-5780
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-05"
-last_updated: "2008-12-24"
+last_updated: "2010-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORÍA, PUBLICADO EN EL P.O. DE 21 DE ABRIL DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -1140,3 +1142,15 @@ El presente Decreto entrara en vigor a partir del día dos de enero de dos mil n
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 21 DE ABRIL DE 2010.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de la Contraloría del Poder Ejecutivo del Gobierno del Estado de Morelos, publicado el cinco de diciembre del dos mil siete en el Periódico Oficial "Tierra y Libertad" número cuatro mil quinientos setenta y tres y todas sus reformas.
+
+TERCERO. Los Manuales de Organización y de Políticas y Procedimientos, deberán expedirse en un plazo no mayor a noventa días hábiles, y en tanto se expidan dichos Manuales, el Secretario resolverá las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+CUARTO. Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Reglamento.
+
+QUINTO. Todas las actuaciones y procedimientos que se encuentren en trámite, así como las causas que le den origen, deberán ajustarse a las reglas previstas por el Reglamento vigente al día de su inicio hasta su conclusión definitiva.
