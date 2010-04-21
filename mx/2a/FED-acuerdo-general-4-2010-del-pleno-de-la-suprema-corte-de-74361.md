@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-4-2010-del-pleno-de-la-suprema-corte-de-74361"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-04-09"
-last_updated: "2010-04-09"
+last_updated: "2010-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2010-03-25"
 
 ACUERDO GENERAL NUMERO 4/2010, DE VEINTICINCO DE MARZO DE DOS MIL DIEZ, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ORDENA A LOS JUZGADOS DE DISTRITO Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO LA SUSPENSION DEL ENVIO A ESTE ALTO TRIBUNAL DE LOS RECURSOS DE REVISION EN LOS QUE SUBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DEL ARTICULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD, DEL CODIGO PENAL FEDERAL Y DEL CODIGO FEDERAL DE PROCEDIMIENTOS PENALES, PUBLICADO EL VEINTE DE AGOSTO DE DOS MIL NUEVE, Y EL APLAZAMIENTO DE LA RESOLUCION DE LOS MISMOS; ASI COMO LA DEVOLUCION A LOS TRIBUNALES COLEGIADOS DE LOS QUE SE ENCUENTRAN EN LA PROPIA SUPREMA CORTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL NUMERO 5/2010, DE OCHO DE ABRIL DE DOS MIL DIEZ, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 21 DE ABRIL DE 2010, SE LEVANTA EL APLAZAMIENTO DISPUESTO EN EL PRESENTE ORDENAMIENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ABRIL DE 2010.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 9 de abril de 2010.
 
@@ -70,3 +72,11 @@ TERCERO. Publíquese este Acuerdo General en el Diario Oficial de la Federación
 El Presidente en Funciones de la Suprema Corte de Justicia de la Nación, Ministro Sergio Salvador Aguirre Anguiano.- Rúbrica.- El Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbrica.
 
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NUMERO 4/2010, DE VEINTICINCO DE MARZO DE DOS MIL DIEZ, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ORDENA A LOS JUZGADOS DE DISTRITO Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO LA SUSPENSION DEL ENVIO A ESTE ALTO TRIBUNAL DE LOS RECURSOS DE REVISION EN LOS QUE SUBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DEL ARTICULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD, DEL CODIGO PENAL FEDERAL Y DEL CODIGO FEDERAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION DEL VEINTE DE AGOSTO DE DOS MIL NUEVE, Y EL APLAZAMIENTO DE LA RESOLUCION DE LOS MISMOS; ASI COMO LA DEVOLUCION A LOS TRIBUNALES COLEGIADOS DE LOS QUE SE ENCUENTRAN EN LA PROPIA SUPREMA CORTE, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de nueve votos de los señores Ministros José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, Luis María Aguilar Morales, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Juan N. Silva Meza y Presidente en funciones Sergio Salvador Aguirre Anguiano.- México, Distrito Federal, a veinticinco de marzo de dos mil diez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMENTO.</small>
+
+D.O.F. 21 DE ABRIL DE 2010.
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Tribunales Colegiados de Circuito.
