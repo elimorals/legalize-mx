@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2009-11-23"
+last_updated: "2010-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE ABRIL DE 2010.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -433,15 +433,21 @@ En los casos de readscripción en órganos especializados, además de tomar en c
 
 El Consejo ponderará si deben o no tomarse en consideración las solicitudes de readscripción de magistrados que se encuentren a cargo de algún Tribunal Unitario de Circuito, cuando exista déficit de magistrados de circuito y, por tanto, dificultad para cubrir las necesidades en tales órganos.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTICULO 39 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 22 DE ABRIL DE 2010)</small>
+
 ###### Artículo 39.
 
-El Consejo, de conformidad con lo dispuesto en el artículo 118, párrafo tercero, de la Ley, a efecto de que los magistrados de circuito y jueces de distrito puedan proponer la plaza y materia del órgano de su adscripción, siempre que ello fuese posible, tomará en cuenta los siguientes elementos:
+Los magistrados de Circuito y jueces de Distrito podrán proponer la plaza y materia del órgano al cual soliciten su readscripción, en concordancia con lo dispuesto en el artículo 118 párrafo tercero de la Ley, sujetándose a las siguientes disposiciones:
 
 I. Los criterios previstos por el artículo 120 de la Ley;
 
-II. La solicitud de readscripción, la que deberá presentarse por escrito, dirigida a la Comisión de Adscripción, en que manifieste las razones por las que solicita el cambio de adscripción; y
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTICULO 39 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 22 DE ABRIL DE 2010)</small>
 
-III. La antigüedad, la que deberá ser mínimo de un año en el órgano jurisdiccional al que se encuentre adscrito, salvo causas extraordinarias o casos de notoria urgencia determinados por el Pleno, debidamente acreditados.
+II. La solicitud de readscripción, la que deberá presentarse por escrito, dirigida a la Comisión de Adscripción, en la que se manifiesten las razones por las que se solicita el cambio de adscripción; y
+
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTICULO 39 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 22 DE ABRIL DE 2010)</small>
+
+III. El acreditamiento de una antigüedad mínima de dos años en el órgano jurisdiccional al que se encuentre adscrito el solicitante, salvo los casos que exijan las necesidades del servicio, en los que el Pleno podrá exceptuar la presente regla.
 
 En caso de igualdad de puntuación, el Consejo preferirá a aquel servidor público que, en ocasión anterior, hubiera sido readscrito por necesidades del servicio.
 
@@ -1540,3 +1546,11 @@ PRIMERO. El presente acuerdo entrará en vigor el día uno de enero de dos mil d
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Carrera Judicial y las Condiciones de los Funcionarios Judiciales.
+
+D.O.F. 22 DE ABRIL DE 2010.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en las páginas de Internet e Intranet del Consejo de la Judicatura Federal.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Carrera Judicial y las Condiciones de los Funcionarios Judiciales.
