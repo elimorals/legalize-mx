@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2010-02-22"
+last_updated: "2010-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE ABRIL DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -955,25 +955,33 @@ Son atribuciones de la Comisión de Fomento Agropecuario:
 
 I. Vigilar el cumplimiento de las disposiciones legales que señalan obligaciones al Ayuntamiento en materia de tierras, bosques, minas y aguas;
 
-II. Impulsar el desarrollo y mejoramiento de las actividades agropecuarias;
+> <small>(ADICIONADA, G.O. 22 DE ABRIL DE 2010)</small>
 
-III. Informar a las autoridades agrarias, cuando éstas lo requieran, de las parcelas ejidales que sean dadas en arrendamiento y de las que permanezcan abandonadas o sin cultivo;
+II. Promover en el municipio esquemas de distribución de insumos tales como tianguis y ferias agropecuarias en coordinación con el sector privado rural y con los organismos y asociaciones de productores, a efecto de lograr que la población tenga acceso a productos del campo y para el campo a un precio accesible, permitiendo un mayor desarrollo de la industria agropecuaria;
 
-IV. Informar al Presidente del Comité Directivo del Distrito de Temporal o su equivalente para que se proporcionen cursos intensivos que permitan a ejidatarios, comuneros y pequeños propietarios, utilizar positivamente los avances de la tecnología;
+III. Impulsar el desarrollo y mejoramiento de las actividades agropecuarias;
 
-V. Fomentar, solicitar y proporcionar, a través del auxilio de las dependencias o entidades federales, estatales y municipales, asesoría agropecuaria a ejidatarios, comuneros y pequeños propietarios;
+IV. Informar a las autoridades agrarias, cuando éstas lo requieran, de las parcelas ejidales que sean dadas en arrendamiento y de las que permanezcan abandonadas o sin cultivo;
 
-VI. Fomentar en el Municipio, atendiendo a la actividad que predomine, la producción agrícola, ganadera, forestal, frutícola, apícola y pesquera para procurar el uso de los recursos naturales en la forma más productiva y razonable;
+V. Informar al Presidente del Comité Directivo del Distrito de Temporal o su equivalente para que se proporcionen cursos intensivos que permitan a ejidatarios, comuneros y pequeños propietarios, utilizar positivamente los avances de la tecnología;
 
-VII. Coadyuvar en el establecimiento y organización rural para proporcionar cursos intensivos que permitan a ejidatarios, comuneros y pequeños propietarios utilizar positivamente los avances de la tecnología;
+VI. Fomentar, solicitar y proporcionar, a través del auxilio de las dependencias o entidades federales, estatales y municipales, asesoría agropecuaria a ejidatarios, comuneros y pequeños propietarios;
 
-VIII. Denunciar la tala ilegal de árboles;
+VII. Fomentar en el Municipio, atendiendo a la actividad que predomine, la producción agrícola, ganadera, forestal, frutícola, apícola y pesquera para procurar el uso de los recursos naturales en la forma más productiva y razonable;
 
-IX. Emitir, con la aprobación del Presidente Municipal, opinión fundada ante la autoridad competente respecto al derribo o desrame de árboles en lugares públicos, urbanos o rurales; y (sic)
+VIII. Coadyuvar en el establecimiento y organización rural para proporcionar cursos intensivos que permitan a ejidatarios, comuneros y pequeños propietarios utilizar positivamente los avances de la tecnología;
 
-X. Recabar de la autoridad competente, previa solicitud fundada y aprobada en sesión de Cabildo, autorización para el derribo o desrame de árboles en lugares públicos, urbanos y rurales que sean necesarios para obras públicas del Ayuntamiento o para la seguridad de las personas; y
+IX. Denunciar la tala ilegal de árboles;
 
-XI. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2010)</small>
+
+X. Emitir, con la aprobación del Presidente Municipal, opinión fundada ante la autoridad competente respecto al derribo o desrame de árboles en lugares públicos, urbanos o rurales;
+
+XI. Recabar de la autoridad competente, previa solicitud fundada y aprobada en sesión de Cabildo, autorización para el derribo o desrame de árboles en lugares públicos, urbanos y rurales que sean necesarios para obras públicas del Ayuntamiento o para la seguridad de las personas; y
+
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2010)</small>
+
+XII. Las demás que expresamente le señalen esta Ley y demás leyes aplicables.
 
 ###### Artículo 55.
 
@@ -3082,3 +3090,9 @@ G.O. 22 DE FEBRERO DE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 22 DE ABRIL DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto
