@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-de-promocion-turistica-de-63457"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-10-06"
-last_updated: "2008-10-06"
+last_updated: "2010-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63457&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-06-13"
 
 ESTATUTO ORGANICO DEL CONSEJO DE PROMOCION TURISTICA DE MEXICO, S.A. DE C.V.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ESTATUTO ORGANICO CONSEJO DE PROMOCION TURISTICA DE MEXICO, S.A. DE C.V., PUBLICADO EN EL D.O.F. DE 22 DE ABRIL DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de octubre de 2008.
 
@@ -978,3 +980,15 @@ El Coordinador de Asuntos Jurídicos
 Luis Ricaud Velasco
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 22 DE ABRIL DE 2010.
+
+PRIMERO.- El Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V., que se aprueba, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las modificaciones a la estructura orgánica que, en su caso, deriven de la entrada en vigor del Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V., deberán ser realizadas mediante movimientos compensados, sin afectar el presupuesto regularizable de servicios personales.
+
+TERCERO.- En relación con los artículos 32, fracción XIX, 34, último párrafo y 42 fracción XVI del presente Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V.; deberán actualizarse los instrumentos normativos necesarios para la operación y funcionamiento de la Entidad, para lo cual las distintas áreas que componen su estructura organizacional, dentro del ámbito de sus atribuciones, iniciarán los trabajos conducentes al caso. Los instrumentos normativos vigentes tales como manuales, bases, lineamientos, políticas, circulares, etcétera, así como los Grupos de Trabajo y Comités Técnicos Especializados y de Apoyo emanados de aquéllos, seguirán aplicándose y funcionando, en tanto no contravengan las disposiciones del presente estatuto orgánico.
+
+CUARTO.- Se abroga el Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V., publicado en el Diario Oficial de la Federación del 6 de octubre de 2008, y se ratifican los poderes que se hayan otorgado durante la vigencia del mismo.
