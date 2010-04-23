@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-general-de-acciones-de-urbanizacion-para-el-45592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-16"
-last_updated: "2010-03-12"
+last_updated: "2010-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "BCN"
 REGLAMENTO GENERAL DE ACCIONES DE URBANIZACION PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2010.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL EL 23 DE ABRIL DE 2010.</small>
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 16 de noviembre de 2001.
 
@@ -153,9 +155,9 @@ Para los efectos del presente Reglamento, se establecen las siguientes abreviatu
 
 I.- Ayuntamiento.- Es el órgano colegiado conformado por los Munícipes, responsable del gobierno del Municipio de Mexicali, Baja California;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2010)</small>
+(REFORMADA, P.O. 5 DE MARZO DE 2010) (F. DE E., 23 DE ABRIL DE 2010)
 
-II.- Dirección.- Es la Dirección de Administración Urbana del Gobierno Municipal de Mexicali, Baja California, a la que corresponderá la aplicación de las disposiciones del presente Reglamento, en los casos en que no se determine expresamente otra autoridad. La Dirección actuará por sí o a través de sus Departamentos, en los términos del Reglamento Interior de la Administración Pública Municipal de Mexicali, Baja California;
+II.- Dirección.- Es la Dirección de Administración Urbana del Gobierno Municipal de Mexicali, Baja California, a la que corresponderá la aplicación de las disposiciones del presente Reglamento, en los casos en que no se determine expresamente otra autoridad. La Dirección actuará por sí o a través de sus Departamentos, en los términos del Reglamento de la Administración Pública del Municipio de Mexicali, Baja California;
 
 III.- Ley.- Es la Ley de Desarrollo Urbano del Estado de Baja California;
 
