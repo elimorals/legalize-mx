@@ -4,7 +4,7 @@ identifier: "COA-ley-de-coordinacion-fiscal-del-estado-de-coahuila-59300"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-28"
-last_updated: "2007-12-28"
+last_updated: "2010-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 28 de diciembre de 2007.
 
@@ -133,9 +133,11 @@ II. La Comisión Permanente Estatal de Funcionarios Fiscales.
 
 La Reunión Estatal de Funcionarios Fiscales se constituye como instancia de coordinación de los Ayuntamientos del Estado entre sí y con el Gobierno del Estado de Coahuila, para la adopción de los sistemas de su administración tributaria.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 10.
 
-La Reunión Estatal de Funcionarios Fiscales se integrará por el Secretario de Finanzas, el Coordinador de la Comisión de Finanzas del Congreso del Estado, los Tesoreros Municipales y el Subsecretario de Ingresos de la Secretaría de Finanzas, quien fungirá como Secretario Técnico.
+La reunión estatal de funcionarios fiscales, se integrará por el Secretario Ejecutivo del Servicio de Administración Tributaria del Estado de Coahuila, el Coordinador de la Comisión de Finanzas del Congreso del Estado, los Tesoreros Municipales y el funcionario que designe el Secretario Ejecutivo que fungirá como Secretario Técnico.
 
 ###### ARTÍCULO 11.
 
@@ -153,7 +155,9 @@ III. Proponer proyectos de reformas, ajustes o adecuaciones al Código Financier
 
 IV. Elección de los integrantes de la Comisión Permanente Estatal de Funcionarios Fiscales.
 
-V. Establecer las aportaciones ordinarias y extraordinarias que deban cubrir el Estado y los Municipios, para el sostenimiento de los órganos a que se refiere la fracción I y II, del artículo 28 de la presente Ley.
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2010)</small>
+
+V. Establecer las aportaciones ordinarias y extraordinarias que deban cubrir el Estado y los Municipios para el sostenimiento de los órganos a que se refiere las fracciones I y II, del artículo 8 de la presente Ley.
 
 VI. Los demás que determine la propia Reunión Estatal de Funcionarios Fiscales.
 
@@ -163,13 +167,17 @@ VI. Los demás que determine la propia Reunión Estatal de Funcionarios Fiscales
 
 La Comisión Permanente Estatal de Funcionarios Fiscales, se integrará de la siguiente manera:
 
-I. Por el Secretario de Finanzas, quien la presidirá;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2010)</small>
 
-II. Por el Subsecretario de Ingresos de la Secretaria de Finanzas, quien fungirá como Secretario Técnico;
+I. Por el Secretario Ejecutivo del Servicio de Administración Tributaria, quien la presidirá;
 
-III. Por los Municipios de la Entidad, representados por cinco de éstos que al efecto elijan, los cuales actuarán a través de sus Tesoreros Municipales.
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2010)</small>
 
-IV. Por el Coordinador de la Comisión de Finanzas del Congreso del Estado, o la persona que éste designe.
+II. Por el funcionario que designe el Secretario Ejecutivo del Servicio de Administración Tributaria, quien fungirá como Secretario Técnico;
+
+III. Por los Municipios de la Entidad, representados por cinco de éstos que al efecto elijan, los cuales actuarán a través de sus Tesoreros Municipales;
+
+IV. (DEROGADA, P.O. 23 DE ABRIL DE 2010)
 
 ###### ARTÍCULO 14.
 
@@ -260,3 +268,19 @@ EL SECRETARIO DE FINANZAS
 LIC. JORGE JUAN TORRES LÓPEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE ABRIL DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en vigor a partir de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de los artículos 10 y 11 de esta Ley, las atribuciones establecidas en los artículos 12, 13 y 17 conferidas al Secretario Ejecutivo del Servicio de Administración Tributaria del Estado de Coahuila, se consideran atribuidas al Subsecretario de Ingresos de la Secretaría de Finanzas del Gobierno del Estado de Coahuila, en tanto inicia operaciones el Organismo antes mencionado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
