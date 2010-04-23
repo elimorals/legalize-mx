@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-12238"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-17"
-last_updated: "2010-01-22"
+last_updated: "2010-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -1651,9 +1651,9 @@ P.O. 13 DE NOVIEMBRE DE 2009.
 
 DECRETO NUMERO 278, POR EL QUE SE APRUEBA LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2010)</small>
 
-PRIMERO.- La presente Ley entrará en vigor el día tres de mayo de 2010.
+PRIMERO.- La presente Ley entrará en vigor el día once de agosto de 2010.
 
 SEGUNDO.- Hasta en tanto entre en vigor esta Ley, seguirá vigente la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California publicada el día 17 de abril de 1998 en el Periódico Oficial del Estado de Baja California.
 
@@ -1666,5 +1666,9 @@ QUINTO.- Los asuntos a cargo de la Dirección de Asuntos Internos y Contraloría
 SEXTO.- Las referencias que se hacen o que se hagan y las atribuciones que se otorgan en otras leyes, reglamentos, decretos y demás disposiciones legales, a la Dirección de Asuntos Internos y Contraloría se entenderán hechas a la Visitaduría General.
 
 P.O. 22 DE ENERO DE 2010.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 23 DE ABRIL DE 2010.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
