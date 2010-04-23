@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-defensoria-de-oficio-del-estado-de-baja-california-33
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-22"
-last_updated: "2010-01-22"
+last_updated: "2010-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 LEY DE LA DEFENSORIA DE OFICIO DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIOS SEGUNDO DE LA LEY ORGANICA DE LA DEFENSORIA PUBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 22 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN VIGENCIA.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO REFORMADO Y SEGUNDO DE LA LEY ORGANICA DE LA DEFENSORIA PUBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 22 DE MAYO DE 2009 , EL PRESENTE ORDENAMIENTO HA QUEDADO SIN VIGENCIA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: NO VIGENTE.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN VIGENCIA.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 22 de agosto de 2003.
 
@@ -475,9 +475,9 @@ P.O. 27 DE OCTUBRE DE 2006.
 
 P.O. 22 DE MAYO DE 2009.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2010)</small>
 
-PRIMERO.- Inicio de Vigencia.- La presente ley entrará en vigor a las cero horas del día tres de mayo del año 2010.
+PRIMERO.- Inicio de Vigencia.- La presente ley entrará en vigor a las cero horas del día once de agosto del año 2010.
 
 SEGUNDO.- Hasta en tanto entre en vigor esta Ley, seguirá vigente la ley de la Defensoría de Oficio del Estado de Baja California publicada el día 22 de agosto de 2003, en el Periódico Oficial del Estado.
 
@@ -490,3 +490,7 @@ Los Defensores adscritos al nuevo sistema de justicia penal que aprueben las eva
 P.O. 22 DE ENERO DE 2010.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 23 DE ABRIL DE 2010.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL FEDERAL VIGENTE.
