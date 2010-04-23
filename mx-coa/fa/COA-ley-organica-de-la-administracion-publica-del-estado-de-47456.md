@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-47456"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-12-07"
-last_updated: "2009-06-19"
+last_updated: "2010-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2010.
 
 Ley publicada en Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 7 de diciembre de 2005.
 
@@ -1301,9 +1301,13 @@ I. La prestación de un servicio público o social y la realización de activida
 
 II. La explotación de bienes o recursos propiedad del Estado;
 
-III. La investigación científica, difusión de la cultura, impartición de la educación; o
+III. La investigación científica, difusión de la cultura, impartición de la educación; o (sic)
 
-IV. La obtención o aplicación de recursos para fines de asistencia o seguridad social.
+IV. La obtención o aplicación de recursos para fines de asistencia o seguridad social;
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2010)</small>
+
+V. Llevar a cabo la administración y recaudación tributaria.
 
 ###### ARTÍCULO 50.
 
@@ -1664,3 +1668,9 @@ TERCERO. Las dependencias y entidades que actualmente ejecutan funciones que med
 CUARTO. El Titular de la Unidad Desconcentrada para la Ejecución de Penas y Reinserción Social, concluirá su cargo al término del período para el cual fue conferido o al finalizar el período de Gobierno dentro del cual hubiere sido otorgado; pero sus efectos se extenderán hasta que el nuevo funcionario designado entre en funciones o hasta que se expida nuevo nombramiento, sin que por tal motivo se entienda prorrogado o ratificado.
 
 QUINTO. Se derogan todas las disposiciones legales que se opongan a lo establecido por este Decreto.
+
+P.O. 23 DE ABRIL DE 2010.
+
+PRIMERO. La presente Ley deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en vigor a partir de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
