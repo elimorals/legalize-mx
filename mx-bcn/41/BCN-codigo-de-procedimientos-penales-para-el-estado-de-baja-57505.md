@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2010-01-22"
+last_updated: "2010-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGENCIA DEL PRESENTE ORDENAMIENTO, VEASE, SEGUN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, VER ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 359, SE DECLARA INCORPORADO AL ORDEN JURÍDICO DE BAJA CALIFORNIA, A TRAVÉS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, EL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL QUE SE CONSAGRA EN EL PRIMER PÁRRAFO DEL ARTÍCULO 20 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL P.O. DE 23 DE ABRIL DE 2010.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2010.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -3029,9 +3029,9 @@ IV. La mención de las circunstancias modificatorias de la responsabilidad penal
 
 V. La autoría o participación que se atribuye al imputado;
 
-VI. Los medios de prueba que el Ministerio Público se propone producir en el juicio oral;
-
 VII. La pena que el Ministerio Público solicite y los medios de prueba relativos a la individualización de la misma;
+
+VII. La pena que el Ministerio Público solicite y los medios de prueba en el juicio oral;
 
 VIII. El daño que, en su caso, se considere se haya causado a la víctima u ofendido, y los medios de prueba que ofrezcan para acreditarlo; y
 
@@ -4585,9 +4585,9 @@ Rechazo.- El rechazo de la solicitud de revisión no impedirá la interposición
 
 T R A N S I T O R I O S
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2010)</small>
 
-Artículo Primero.- El presente Código entrará en vigor a las cero horas de día tres de mayo del año dos mil diez en el partido judicial de Mexicali y en forma sucesiva en los demás partidos judiciales del Estado, conforme al siguiente orden:
+Artículo Primero.- El presente Código entrará en vigor a las cero horas del día once de agosto del año dos mil diez en el partido judicial de Mexicali y en forma sucesiva en los demás partidos judiciales del Estado, conforme al siguiente orden:
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
@@ -4680,3 +4680,21 @@ P.O. 13 DE NOVIEMBRE DE 2009.
 P.O. 22 DE ENERO DE 2010.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 23 DE ABRIL DE 2010.
+
+EL DECRETO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 23 DE ABRIL DE 2010.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL DECRETO NÚMERO 359, QUE DECLARA INCORPORADO AL ORDEN JURÍDICO DE BAJA CALIFORNIA, A TRAVÉS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, EL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL.</small>
+
+PRIMERO.- Se declara incorporado al orden jurídico de Baja California, a través del Código de Procedimientos Penales para el Estado de Baja California, el Sistema procesal penal acusatorio y oral que se consagra en el primer párrafo del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, y el cual entrará en vigor de acuerdo a los (sic) dispuesto por el artículo primero transitorio del citado código, en las siguientes fechas: A partir de las cero horas de:
+
+a.- El once de agosto del año 2010 en el Municipio de Mexicali
+
+b.- El tres de mayo del año 2012 en el Municipio de Ensenada
+
+c.- El tres de mayo del año 2013 en los Municipios de Tijuana, Playas de Rosarito y Tecate.
+
+SEGUNDO.- Publíquese el presente en el Periódico oficial del Estado.
