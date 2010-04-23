@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-justicia-alternativa-para-el-estado-de-baja-57613"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-19"
-last_updated: "2010-01-22"
+last_updated: "2010-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO REFORMADO, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR EN LAS FECHAS Y CONFORME AL ORDEN QUE SE ESTABLECE EN EL MISMO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO REFORMADO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EN LAS FECHAS Y CONFORME AL ORDEN QUE SE ESTABLECE EN EL MISMO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2010.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -355,7 +355,7 @@ Los especialistas estarán impedidos para fungir como testigos o peritos en asun
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-No podrán ejercer la abogacía por sí o por interpósita persona, salvo en causa propia, de su cónyuge, concubina o concubinario, de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado.
+No podrá ejercer la abogacía por sí o por interpósita persona, salvo en causa propia, de su cónyuge, concubina o concubinario, de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -429,7 +429,7 @@ II. Cumplir con las obligaciones de dar, hacer o no hacer establecidas en el con
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-III. En caso de utilizar servicios de especialistas privados, cubrir los honorarios correspondientes, conforme a lo que hayan pactado entre sí, a lo dispuesto en la Ley, o a lo que establezca la Ley de Aranceles del Estado de Baja California.
+III. En caso de utilizar servicios de especialistas privados, cubrir los honorarios correspondientes, conforme a lo que hayan pactado entre sí, a lo dispuesto en esta Ley, o a lo que establezca la Ley de Aranceles del Estado de Baja California.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -711,7 +711,7 @@ VI. La solicitud expresa de las partes de que el convenio se eleve a la categor�
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-VII. La firma o huellas dactilares de quienes lo suscriban y, en su caso, el nombre de la persona o personas que hayan firmado a ruego de una o ambos partes, cuando éstos no sepan firmar;
+VII. La firma o huellas dactilares de quienes lo suscriban y, en su caso, el nombre de la persona o personas que hayan firmado a ruego de una o ambas partes, cuando éstos no sepan firmar;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -857,9 +857,9 @@ II. El día 20 de abril de 2010, en el Partido Judicial de Tijuana.
 
 III. El día 20 de abril de 2011, en el Partido Judicial de Ensenada.
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2010)</small>
 
-IV. Tratándose de los medios alternativos en materia penal, las normas que se contienen en esta Ley, se comenzarán a aplicar el día tres de mayo del año dos mil diez en el Partido Judicial de Mexicali; el día primero de febrero del año dos mil once en el Partido Judicial de Ensenada y el día primero de febrero del año dos mil doce en los municipios de Tijuana, Tecate y Playas de Rosarito.
+IV. Tratándose de los medios alternativos en materia penal, las normas que se contienen en esta Ley, se comenzarán a aplicar el día once de agosto del año dos mil diez en el Partido Judicial de Mexicali; el día tres de mayo del año dos mil doce en el Partido Judicial de Ensenada y el día tres de mayo del año dos mil trece en los municipios de Tijuana, Tecate y Playas de Rosarito.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -922,3 +922,7 @@ P.O. 13 DE NOVIEMBRE DE 2009.
 P.O. 22 DE ENERO DE 2010.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 23 DE ABRIL DE 2010.
+
+EL DECRETO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
