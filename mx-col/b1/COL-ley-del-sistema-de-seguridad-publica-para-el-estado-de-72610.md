@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-72610"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-23"
-last_updated: "2010-01-23"
+last_updated: "2010-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2010.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de enero de 2010.
 
@@ -115,7 +115,9 @@ IV. Consejo Estatal: el Consejo Estatal de Seguridad Pública;
 
 V. Consejo Municipal: al Consejo Municipal de Seguridad Pública de cada Ayuntamiento;
 
-VI. Secretario Ejecutivo: al Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2010)</small>
+
+VI. Secretario Ejecutivo: al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública;
 
 VII. Secretario Ejecutivo Municipal: al Secretario Ejecutivo del Consejo Municipal de cada Ayuntamiento;
 
@@ -203,9 +205,11 @@ La policía Municipal, acatará las órdenes que el Gobernador del Estado le tra
 
 El Estado y los Municipios integrarán los instrumentos de información del Sistema Nacional de Seguridad Pública, para cuyo efecto establecerán las bases de datos sobre la seguridad pública.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 10.
 
-Las autoridades competentes establecerán mecanismos eficaces para que la sociedad participe en la planeación y supervisión de la seguridad pública, en los términos de esta Ley y demás ordenamientos aplicables.
+Las autoridades competentes establecerán mecanismos eficaces para que la sociedad participe en la planeación y supervisión de la seguridad pública y protección civil, en los términos de esta Ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -215,7 +219,9 @@ I. El Consejo Estatal;
 
 II. Los Consejos Municipales; y
 
-III. El Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2010)</small>
+
+III. El Secretariado Ejecutivo.
 
 ###### ARTÍCULO 12.
 
@@ -235,7 +241,9 @@ I. El Gobernador del Estado, quien lo presidirá;
 
 II. El Presidente del Supremo Tribunal de Justicia del Estado;
 
-III. El Presidente de la Comisión de Seguridad Pública, Prevención y Readaptación Social, y Protección Civil del Congreso del Estado;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2010)</small>
+
+III. El Presidente de la Comisión de Seguridad Pública, Protección Civil, Prevención y Readaptación Social del Congreso del Estado;
 
 IV. El Secretario;
 
@@ -253,19 +261,31 @@ X. Los presidentes municipales;
 
 XI. El Director;
 
-XII. El Representante en el Estado de la Secretaría de Gobernación;
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2010)</small>
 
-XIII. El Delegado del Centro de Investigación y Seguridad Nacional;
+XII. El Director General de Prevención y Readaptación Social del Estado;
 
-XIV. El Delegado en la Entidad de la Procuraduría General de la República;
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2010)</small>
 
-XV. El Director de la Policía Ministerial; y
+XIII. El Director General de Protección Civil del Estado;
 
-XVI. El Secretario Ejecutivo.
+XIV. El Representante en el Estado de la Secretaría de Gobernación;
+
+XV. El Delegado del Centro de Investigación y Seguridad Nacional;
+
+XVI. El Delegado en la Entidad de la Procuraduría General de la República;
+
+XVII. El Director de la Policía Ministerial; y
+
+XVIII. El Secretario Ejecutivo.
 
 El Presidente del Consejo Estatal será suplido en sus ausencias por el Secretario, de los demás integrantes del mismo, lo será por aquel personal acreditado por su titular.
 
 El Consejo Estatal podrá invitar, por la naturaleza de los asuntos a tratar, a las personas, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública. La participación de los invitados del Consejo será con carácter honorífico, quienes tendrán derecho a voz pero no a voto.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2010)</small>
+
+El Director General de Protección Civil del Estado, o su representante en su caso, tendrá participación dentro del Consejo Estatal, sólo en asuntos relacionados en materia de protección civil.
 
 ###### ARTÍCULO 15.
 
@@ -297,7 +317,9 @@ I. Establecer los instrumentos necesarios que sean suficientes para cumplir con 
 
 II. Emitir acuerdos y resoluciones generales para el funcionamiento del Sistema;
 
-III. Establecer los lineamientos para la formulación de políticas generales en materia de seguridad pública;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2010)</small>
+
+III. Establecer los lineamientos para la formulación de políticas generales en materia de seguridad pública y protección civil;
 
 IV. Promover la implementación de políticas en materia de atención a víctimas del delito;
 
@@ -357,7 +379,9 @@ I. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal;
 
 II. Elaborar las propuestas de contenido del Programa Estatal de Seguridad Pública y someterlas a la aprobación del Consejo Estatal;
 
-III. Levantar las actas y certificar los acuerdos que se tomen en el Consejo Estatal, así como llevar el archivo de estos;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2010)</small>
+
+III. Levantar las actas y certificar los acuerdos y demás documentación que se genere e integre en el Consejo Estatal, en el Sistema y en el Secretariado Ejecutivo, así como llevar el archivo de estos;
 
 IV. Proponer, para su aprobación al Consejo Estatal, políticas, lineamientos y acciones para el buen desempeño de las instituciones de seguridad pública en el Estado;
 
@@ -427,15 +451,23 @@ I. El Presidente Municipal, quien lo presidirá;
 
 II. Un miembro de la Comisión de Seguridad Pública, Tránsito y Transporte del Cabildo, propuesto por éste;
 
-III. El Agente del Ministerio Público con jurisdicción en el municipio; cuando fueren varios, el Procurador General de Justicia designará al representante;
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2010)</small>
 
-IV. El titular de la Policía Municipal Preventiva;
+III. Un representante de la Secretaría, quien sólo tendrá voz;
 
-V. Un representante de la Dirección, quien sólo tendrá voz;
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2010)</small>
 
-VI. El Presidente del Comité Municipal de Consulta y Participación de la Comunidad, quien sólo tendrá voz; y
+IV. El Director Municipal de Protección Civil;
 
-VII. El Secretario Ejecutivo Municipal.
+V. El Agente del Ministerio Público con jurisdicción en el municipio; cuando fueren varios, el Procurador General de Justicia designará al representante;
+
+VI. El titular de la Policía Municipal Preventiva;
+
+VII. Un representante de la Dirección, quien sólo tendrá voz;
+
+VIII. El Presidente del Comité Municipal de Consulta y Participación de la Comunidad, quien sólo tendrá voz; y
+
+IX. El Secretario Ejecutivo Municipal.
 
 A convocatoria del Consejo, podrán participar además los funcionarios que por razón de sus atribuciones, estén vinculados con los fines de la seguridad pública.
 
@@ -487,7 +519,9 @@ V. Evaluar el funcionamiento del sistema de información municipal de seguridad 
 
 VI. La aprobación de reglas para la aplicación en el municipio del Sistema;
 
-VII. Fomentar la participación de la sociedad en las tareas de planeación y supervisión de la seguridad pública; y
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2010)</small>
+
+VII. Fomentar la participación de la sociedad en las tareas de planeación y supervisión de la seguridad pública y protección civil; y
 
 VIII. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
@@ -599,25 +633,29 @@ III. Todas aquellas que les confieran las normas jurídicas aplicables, les asig
 
 ### CAPÍTULO VI. DE LA PARTICIPACIÓN COMUNITARIA EN LA COORDINACIÓN DE LA SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 34.
 
-La sociedad participará en las tareas de planeación y supervisión de la seguridad pública, a través de los Comités de Consulta y Participación de la Comunidad, y de bienestar social comunitario, que se integrarán considerando a:
+La sociedad participará en las tareas de planeación y supervisión de la seguridad pública y protección civil, a través de los Comités de Consulta y Participación de la Comunidad, y de bienestar social comunitario, que se integrarán considerando a:
 
-I. Las personas cuya actividad esté vinculada con la prevención, procuración, administración de justicia y la readaptación social;
+I. Las personas cuya actividad esté vinculada con la prevención, procuración, administración de justicia, readaptación social y protección civil;
 
-II. Los servidores públicos cuyas funciones legales tengan relación con la seguridad pública;
+II. Los servidores públicos cuyas funciones legales tengan relación con la seguridad pública y protección civil;
 
-III. Las instituciones que tengan en su objeto social el fomento de las actividades educativas, culturales o deportivas y que se interesen en coadyuvar con los propósitos y fines de los programas de seguridad pública; y
+III. Las instituciones que tengan en su objeto social el fomento de las actividades educativas, culturales o deportivas y que se interesen en coadyuvar con los propósitos y fines de los programas de seguridad pública y protección civil; y
 
-IV. Aquellos ciudadanos que realicen actividades relacionadas con el tema de seguridad pública, conforme a los usos y costumbres del lugar.
+IV. Aquellos ciudadanos que realicen actividades relacionadas con el tema de seguridad pública y protección civil, conforme a los usos y costumbres del lugar.
 
-Para proceder a la integración de esos Comités, los Consejos Estatal y Municipales convocarán a los sectores sociales de la comunidad, llamando a las personas más representativas e interesadas en colaborar con la seguridad pública. En el Comité Estatal quedarán integrados, además, los Presidentes de los Comités Municipales.
+Para proceder a la integración de esos Comités, los Consejos Estatal y Municipales convocarán a los sectores sociales de la comunidad, llamando a las personas más representativas e interesadas en colaborar con la seguridad pública y protección civil. En el Comité Estatal quedarán integrados, además, los Presidentes de los Comités Municipales.
 
 ###### ARTÍCULO 35.
 
 Dentro de los Consejos Estatal y Municipales para la seguridad pública que prevé esta Ley, se promoverá la participación de la comunidad, para:
 
-I. Conocer y opinar sobre políticas y seguridad pública;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2010)</small>
+
+I. Conocer y opinar sobre políticas y seguridad pública y protección civil;
 
 II. Sugerir medidas específicas y acciones concretas para mejorar esta función;
 
@@ -627,15 +665,19 @@ IV. Proponer reconocimientos por méritos y estímulos para los miembros de las 
 
 V. Realizar denuncias o quejas sobre irregularidades;
 
-VI. Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2010)</small>
+
+VI. Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública y protección civil;
 
 VII. Aplicar y vigilar en coordinación con las autoridades competentes el cumplimiento del Reglamento para la Prevención y Seguridad Escolar, mecanismo que garantizará la integridad física de los alumnos; y
 
 VIII. Gestionar recursos y apoyos, y desarrollar actividades que contribuyan al bienestar social de su comunidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 36.
 
-En los Consejos Estatal y Municipales, habrá un Comité de Consulta y Participación de la Comunidad que estará vinculado con cada una de las instituciones de seguridad pública que funcione en la Entidad o Municipio.
+En los Consejos Estatal y Municipales, habrá un Comité de Consulta y Participación de la Comunidad que estará vinculado con cada una de las instituciones de seguridad pública y protección civil que funcione en la Entidad o Municipio.
 
 Dichos Consejos deberán constituir formalmente a los Comités respectivos, los cuales elegirán una mesa directiva integrada por un presidente, un secretario relator y el número de vocales que determine cada Consejo.
 
@@ -681,9 +723,11 @@ Las reglas anteriores podrán ser complementadas por otras que emitan los Consej
 
 ### CAPÍTULO VII. DEL CONSEJO CIUDADANO PARA LA SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 39.
 
-El Consejo Ciudadano para la Seguridad Pública es un órgano colegiado de consulta, análisis y opinión, que tiene por objeto coadyuvar con las autoridades de seguridad pública del Estado, en la evaluación de acciones y programas en materia de seguridad pública y prevención del delito.
+El Consejo Ciudadano para la Seguridad Pública es un órgano colegiado de consulta, análisis y opinión, que tiene por objeto coadyuvar con las autoridades de seguridad pública del Estado, en la evaluación de acciones y programas en materia de seguridad pública, prevención del delito y protección civil.
 
 En cada uno de los municipios del Estado deberá conformarse un comité ciudadano de seguridad pública, cuyo titular formará parte del Consejo Ciudadano para la Seguridad Pública del Estado en su calidad de consejero y en representación de su respectivo municipio. Dicho comité tendrá la misma naturaleza que el Consejo a que se refiere este capítulo.
 
@@ -693,11 +737,17 @@ El Consejo y Comité, respectivamente, estarán integrados en la forma y términ
 
 El Consejo Ciudadano para la Seguridad Pública del Estado y los comités tendrán las siguientes atribuciones, en el ámbito de sus respectivas competencias.
 
-I. Emitir opiniones y sugerencias en materia de seguridad pública, realizando las que en derecho procedan;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2010)</small>
 
-II. Establecer el vínculo con organizaciones del sector social y privado que desarrollen actividades relacionadas con las materias de seguridad pública y prevención del delito, a fin de coadyuvar al mejoramiento de la seguridad pública en el Estado y sus municipios;
+I. Emitir opiniones y sugerencias en materia de seguridad pública y protección civil, realizando las que en derecho procedan;
 
-III. Proponer políticas, programas, estrategias y acciones, vinculadas a la prevención, investigación y combate al delito y, en general, a lo relacionado con la seguridad pública en el Estado y sus municipios;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2010)</small>
+
+II. Establecer el vínculo con organizaciones del sector social y privado que desarrollen actividades relacionadas con las materias de seguridad pública, prevención del delito y protección civil, a fin de coadyuvar al mejoramiento de la seguridad pública en el Estado y sus municipios;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2010)</small>
+
+III. Proponer políticas, programas, estrategias y acciones, vinculadas a la prevención, investigación y combate al delito y, en general, a lo relacionado con la seguridad pública y protección civil en el Estado y sus municipios;
 
 IV. Opinar sobre el otorgamiento de reconocimientos a los servidores públicos que se destaquen en el ejercicio de sus funciones de seguridad pública o que realicen acciones relevantes;
 
@@ -739,7 +789,9 @@ El Consejo Ciudadano para la Seguridad Pública del Estado se integrará por:
 
 I. El Gobernador del Estado o la persona que designe para este encargo;
 
-II. El Presidente de la Comisión de Seguridad Pública, Prevención y Readaptación Social y Protección Civil del Congreso del Estado; y
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2010)</small>
+
+II. El Presidente de la Comisión de Seguridad Pública, Protección Civil, Prevención y Readaptación Social del Congreso del Estado; y
 
 III. Representantes de organizaciones civiles, estudiantiles, religiosas, del sector empresarial, obrero, patronal y de todas aquellas organizaciones legalmente constituidas que representen el sector privado de la sociedad, de entre las cuales se formará la Comisión Ejecutiva.
 
@@ -2948,3 +3000,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 2I del mes de Enero del año dos mil diez.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, DR. J. JESÚS OROZCO ALFARO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE ABRIL DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
