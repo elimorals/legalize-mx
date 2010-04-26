@@ -4,7 +4,7 @@ identifier: "ROO-ley-que-establece-las-bases-de-apertura-y-cierre-de-las-71043"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-30"
-last_updated: "2009-10-30"
+last_updated: "2010-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY QUE ESTABLECE LAS BASES DE APERTURA Y CIERRE DE LAS CASAS DE EMPEÑO O PRESTAMO EN EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de octubre de 2009.
 
@@ -119,7 +119,9 @@ B). Cumplidos los requisitos anteriores, adicionalmente se deberá:
 
 1.- Exhibir el recibo fiscal de pago de los derechos correspondientes expedido por la Secretaría;
 
-2.- Presentar dentro de los cinco días posteriores al de la aprobación de la solicitud, póliza de seguro otorgada por compañía aseguradora autorizada o en su caso fianza cuyo monto asegurado sea equivalente a quince mil veces el salario mínimo vigente en el Estado, o el suficiente para garantizar los daños y perjuicios que pudiera ocasionarse a los bienes empeñados, misma que en ningún caso podrá ser menor a la cantidad antes estipulada; dicha póliza o fianza deberá ser refrendada anualmente para efectos de la revalidación de la autorización correspondiente.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2010)</small>
+
+2.- Presentar dentro de los cinco días posteriores al de la aprobación de la solicitud, póliza de seguro otorgada por compañía aseguradora autorizada o en su caso fianza cuyo monto asegurado sea equivalente a cuatro mil veces el salario mínimo vigente en el Estado, o el suficiente para garantizar los daños y perjuicios que pudiera ocasionarse a los bienes empeñados, misma que en ningún caso podrá ser menor a la cantidad antes estipulada; dicha póliza o fianza deberá ser refrendada anualmente para efectos de la revalidación de la autorización correspondiente.
 
 ###### ARTÍCULO 10.
 
@@ -173,15 +175,19 @@ Recibida la solicitud, en un plazo no mayor de 20 días hábiles, la Secretaría
 
 La existencia de un dato falso en la solicitud, será motivo suficiente para resolver negativamente la autorización y registro.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 15.
 
-En caso de que la resolución notificada niegue el otorgamiento de la autorización, el solicitante podrá inconformarse en los términos previstos por el Capítulo VIII de la presente ley.
+En caso de que la resolución notificada niegue el otorgamiento de la autorización, el solicitante podrá inconformarse en los términos previstos por el artículo 35 de la presente ley.
 
 ### CAPÍTULO III. DE LA EXPEDICIÓN DE LA AUTORIZACIÓN
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 16.
 
-La Secretaría al resolver favorablemente la solicitud de una autorización, requerirá al promovente para que dentro del término de cinco días hábiles contados a partir de la notificación de la resolución, exhiba la póliza de seguro o fianza en los términos previstos por el numeral 2 del apartado B del artículo 9 de esta ley o por la suma equivalente al número de salarios mínimos vigentes en el Estado, que la misma determine como suficiente, la cual (sic) ningún caso podrá ser menor a quince mil veces el salario mínimo vigente del Estado, así como el recibo fiscal de pago de los derechos correspondientes.
+La Secretaría al resolver favorablemente la solicitud de una autorización, requerirá al promovente para que dentro del término de cinco días hábiles contados a partir de la notificación de la resolución, exhiba la póliza de seguro o fianza en los términos previstos por el numeral 2 del apartado B del artículo 9 de esta ley o por la suma equivalente al número de salarios mínimos vigentes en el Estado, que la misma determine como suficiente, la cual en ningún caso podrá ser menor a cuatro mil veces el salario mínimo vigente del Estado, así como el recibo fiscal de pago de los derechos correspondientes.
 
 ###### ARTÍCULO 17.
 
@@ -223,9 +229,11 @@ De aprobarse, se expedirá una nueva con las modificaciones solicitadas y se can
 
 Durante el tiempo que la Secretaría determine la procedencia de la solicitud, deberá proporcionarle a la casa de empeño o préstamo el documento provisional respectivo para que ésta pueda seguir funcionando; el cuál dejará de ser efectivo al momento de la notificación de la resolución de la solicitud.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 22.
 
-En caso de que la resolución notificada niegue la modificación de la autorización, el interesado podrá inconformarse en los términos previstos por el Capítulo VIII de la presente ley.
+En caso de que la resolución notificada niegue la modificación de la autorización, el interesado podrá inconformarse en los términos previstos por el artículo 35 de la presente ley.
 
 ### CAPÍTULO V. REVALIDACIÓN DE LA AUTORIZACIÓN
 
@@ -285,9 +293,13 @@ IV. El día, hora y lugar para que presente su escrito de declaración y ofrecim
 
 Las infracciones a las disposiciones de esta ley serán sancionadas con:
 
-I. Multa hasta por la cantidad equivalente a mil salarios mínimos vigentes en el Estado;
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2010)</small>
 
-II. Cancelación de la autorización.
+I.- Amonestación con apercibimiento. Tratándose de la primera vez que se cometa la infracción, y que no sean los supuestos previstos en el artículo 34 de esta Ley;
+
+II.- Multa hasta por la cantidad equivalente a mil salarios mínimos vigentes en el Estado;
+
+III.- Cancelación de la autorización.
 
 ###### ARTÍCULO 31.
 
@@ -364,3 +376,17 @@ LIC. CORA AMALIA CASTILLA MADRID
 EL SECRETARIO DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
 LIC. FREDDY EFRÉN MARRUFO MARTIN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE ABRIL DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- La Secretaría de Hacienda contará con 60 días naturales a partir de la entrada en vigor del presente Decreto, para hacer las adecuaciones correspondientes al Reglamento de la Ley que Establece las Bases de Apertura y Cierre de las Casas de Empeño o Préstamo en el Estado de Quintana Roo, publicado en el Periódico Oficial del Estado el 28 de enero de 2010.
+
+TERCERO.- Las Casas de Empeño o Préstamo ya Instaladas y en funcionamiento en el Estado, con anterioridad al presente Decreto, contarán con una prórroga de 60 días naturales a partir de la entrada en vigor de este Decreto para cumplir en específico con la presentación de la Póliza de Seguro o Fianza que establece la ley en la materia.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
