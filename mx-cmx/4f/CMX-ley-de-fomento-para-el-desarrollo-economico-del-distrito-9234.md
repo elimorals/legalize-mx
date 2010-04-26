@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-para-el-desarrollo-economico-del-distrito-9234"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-26"
-last_updated: "2009-04-23"
+last_updated: "2010-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-18"
 
 LEY DE FOMENTO PARA EL DESARROLLO ECONOMICO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ABRIL DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 26 de diciembre de 1996.
 
@@ -424,21 +424,45 @@ V. Agilizar y reducir trámites para el establecimiento y operación de las empr
 
 La administración pública, en el ámbito de su competencia, promoverá un marco regulatorio de apertura y funcionamiento de las empresas simplificado y transparente, con el propósito de que operen en condiciones competitivas.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE ABRIL DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 26 DE ABRIL DE 2010)</small>
 
-### CAPITULO II. De las micro, pequeña y mediana empresas
+### CAPITULO II. De las micro, pequeña, mediana empresa y sociedades cooperativas
+
+> <small>(ADICIONADO, G.O. 26 DE ABRIL DE 2010)</small>
 
 ###### Artículo 29.
 
-(DEROGADO, G.O. 23 DE ABRIL DE 2009)
+Se dará atención prioritaria a las micro, pequeña, mediana empresa y sociedades cooperativas en general y por sectores y ramas de la actividad económica, con la finalidad de que utilicen óptima y eficientemente su capacidad instalada, el uso intensivo de mano de obra con menor inversión y desarrollen su capacidad de adaptación a los cambios tecnológicos.
+
+> <small>(ADICIONADO, G.O. 26 DE ABRIL DE 2010)</small>
 
 ###### Artículo 30.
 
-(DEROGADO, G.O. 23 DE ABRIL DE 2009)
+La Secretaría propiciará el desarrollo y la consolidación de las micro, pequeña, mediana empresas y sociedades cooperativas por medio de las siguientes acciones:
+
+I. Impulsar su operación en economías de escala para mejorar su productividad y eficiencia;
+
+II. Promover su integración a los programas de conservación de empleo, protección de la planta productiva y de sustitución de importaciones; así como a las compras y necesidades del sector público con objeto de vincularlas al mercado interno;
+
+III. Difundir información sobre avances tecnológicos, oportunidades de comercialización y facilidades de financiamiento, que les permita fortalecer y aumentar sus ventajas competitivas;
+
+IV. Vincular sus necesidades con la oferta de tecnología adecuada;
+
+V. Promover la mayor participación de estas empresas en exportaciones directas e indirectas, con el objeto de hacer del comercio exterior un instrumento de desarrollo orientado a fortalecer y elevar la competitividad de la planta productiva local;
+
+VI. Promover ante las instituciones competentes la facilitación y simplificación de los mecanismos de apoyo y financiamiento competitivo para estas empresas, principalmente para las que cuenten con potencial exportador o que exportan directa o indirectamente al producir partes y componentes de bienes exportables;
+
+VII. Promover y facilitar la localización y el establecimiento de estas empresas y de las sociedades cooperativas en las zonas de fomento económico y su participación en proyectos de reciclamiento del suelo, de acuerdo con los programas de desarrollo urbano;
+
+VIII. Promover instancias de atención especializada a las micro, pequeñas, medianas empresas y sociedades cooperativas, con el objeto de proporcionarles servicios de consultoría, asesoría e información para la localización de mercados y oportunidades específicas de exportación o de coinversiones;
+
+IX. Y las demás que se contemplen en las Leyes aplicables en la materia.
+
+> <small>(ADICIONADO, G.O. 26 DE ABRIL DE 2010)</small>
 
 ###### Artículo 31.
 
-(DEROGADO, G.O. 23 DE ABRIL DE 2009)
+Para que las micro, pequeñas, medianas empresas y sociedades cooperativas eleven su rentabilidad, el aprovechamiento de sus recursos e incrementen el empleo, se promoverán instrumentos y mecanismos de fomento y otros apoyos financieros, mediante la coordinación y concertación con las instituciones competentes para la reconversión productiva, la capitalización, investigación y desarrollo tecnológico.
 
 ### CAPITULO III. De la promoción del empleo productivo
 
@@ -757,3 +781,11 @@ Artículo Primero. Publíquese en la Gaceta Oficial del Distrito Federal y para 
 Artículo Segundo. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 ...
+
+G.O. 26 DE ABRIL DE 2010.
+
+Primero.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal, para su promulgación y debido cumplimiento.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Tercero.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y publicación y para su mayor difusión publíquese en el Diario Oficial de la Federación.
