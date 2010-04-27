@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2009-12-28"
+last_updated: "2010-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ABRIL DE 2010.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 28 DE DICIEMBRE DE 2009.
 
@@ -4186,9 +4186,9 @@ IX. No informar a la autoridad fiscal sobre la inmovilización de los depósitos
 
 X. No proporcionar la información a que se refiere el artículo 32-E de este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 84-B.
 
@@ -8427,3 +8427,9 @@ Los contribuyentes a que se refiere este Artículo, podrán asignar hasta el 31 
 Tercero. Los contribuyentes que de julio de 2002 al 29 de agosto de 2005, fecha de publicación de la Cuarta Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2005, hubieran efectuado indebidamente el pago de alguna de sus obligaciones fiscales correspondientes a dicho periodo o a los ejercicios de 2002, 2003 o 2004, mediante transferencia electrónica de fondos de conformidad con la regla 2.9.8., vigente en la Resolución Miscelánea Fiscal para 2002, 2003, 2004 y hasta el 29 de agosto de 2005 y que hubieran presentado declaración complementaria a través de los desarrollos electrónicos a que se refieren los Capítulos 2.14. a 2.19., podrán asignar el pago realizado mediante dicha transferencia, siempre que lo realicen de conformidad con lo dispuesto en el Artículo Transitorio anteriormente señalado.
 
 Los contribuyentes a que se refiere este Artículo, podrán asignar hasta el 31 de diciembre de 2010, el pago realizado respecto de las obligaciones fiscales que corresponda mediante el procedimiento mencionado.
+
+D.O.F. 27 DE ABRIL DE 2010.
+
+> <small>N. DE E. LA MODIFICACION A QUE HACE REFERENCIA EL DECRETO PUBLICADO EN LA FECHA ARRIBA SEÑALADA, NO AFECTA AL TEXTO DEL PRESENTE ORDENAMIENTO.</small>
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
