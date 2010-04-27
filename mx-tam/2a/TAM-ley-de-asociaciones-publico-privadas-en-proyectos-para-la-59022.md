@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asociaciones-publico-privadas-en-proyectos-para-la-59022
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2009-04-30"
+last_updated: "2010-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ASOCIACIONES PUBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACION DE SERVICIOS DEL ESTADO DE TAMAULlPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2010.
 
 Ley publicada en el Extraordinario N° 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -140,6 +140,10 @@ Infraestructura pública y proyectos para la prestación de servicios.
 1. El Programa hará referencia a la necesidad de infraestructura pública en el largo plazo y planteará opciones para su ejecución, señalándose aquéllas que puedan realizarse a través de asociaciones público-privadas en proyectos para la prestación de servicios.
 
 2. Cuando en la iniciativa de Decreto del Presupuesto de Egresos del Estado se plantee la asignación de recursos para proyectos previstos en esta ley, el Ejecutivo del Estado señalará la naturaleza y alcances del proyecto en el Programa.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2010)</small>
+
+3. En la iniciativa de decreto del Presupuesto de Egresos del Estado se incluirán los proyectos de desarrollo e inversión en infraestructura cuya realización requiera de previsiones presupuestales multianuales. La aprobación de las asignaciones presupuestales relativas a dichos proyectos vincula a su inclusión en las asignaciones de gasto público necesarias para su culminación en los subsiguientes presupuestos de egresos.
 
 ###### Artículo 8.
 
@@ -1300,3 +1304,9 @@ P.O. 30 DE ABRIL DE 2009.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ABRIL DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
