@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-66-2006-del-pleno-del-consejo-de-la-52169"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-11-09"
-last_updated: "2009-05-06"
+last_updated: "2010-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52169&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-10-30"
 
 ACUERDO GENERAL 66/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL PROCESO PRESUPUESTARIO EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ABRIL DE 2010.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 9 de noviembre de 2006.
 
@@ -933,11 +933,11 @@ IV. Cualquier otro documento que por su naturaleza sea considerado ingreso.
 
 En los casos excepcionales en que no se cuente con alguno de los documentos antes citados, y se desconozca el origen del ingreso, Programación y Presupuesto registrará con base en los estados de cuenta bancarios en los cuales se identifique el ingreso a la cuenta correspondiente.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 80/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 7/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ABRIL DE 2010)</small>
 
 ###### Artículo 95.
 
-Las recuperaciones de recursos presupuestales de ejercicios anteriores que se registren contablemente en el ejercicio fiscal en curso, deberán ser reintegradas a la Tesorería de la Federación, previa autorización de la Comisión de Administración, por conducto de la Secretaría a través de Programación y Presupuesto, de conformidad a las disposiciones legales aplicables.
+Las recuperaciones de recursos presupuestales de ejercicios anteriores que se registren contablemente en el ejercicio fiscal en curso, por hasta tres millones de pesos 00/100 moneda nacional en un sólo mes, deberán ser reintegradas a la Tesorería de la Federación por conducto de la Secretaría, a través de Programación y Presupuesto, de conformidad con las disposiciones legales aplicables. Los reintegros mayores a tres millones de pesos 00/100 moneda nacional, deberán contar con la autorización previa de la Comisión de Administración. Los reintegros por montos iguales o menores se efectuarán directamente por la Secretaría a través de Programación y Presupuesto, previa opinión favorable de la Contraloría del Poder Judicial de la Federación.
 
 ###### Artículo 96.
 
@@ -1328,3 +1328,11 @@ PRIMERO.- El presente acuerdo entrará en vigor a partir del día siguiente de s
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 66/2006, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Proceso Presupuestario en el Consejo de la Judicatura Federal.
+
+D.O.F. 27 DE ABRIL DE 2010.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la páginas de Internet e Intranet del Consejo de la Judicatura Federal.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 66/2006, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Proceso Presupuestario en el Consejo de la Judicatura Federal.
