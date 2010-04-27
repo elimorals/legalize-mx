@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2009-12-30"
+last_updated: "2010-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ABRIL DE 2010.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -3432,11 +3432,15 @@ IV.- Aditivo: toda substancia que se incluya en la formulación de los medicamen
 
 V.- Materiales: los insumos necesarios para el envase y empaque de los medicamentos.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 222.
 
-La Secretaría de Salud sólo concederá la autorización correspondiente a los medicamentos, cuando se demuestre que las substancias que contengan reúnan las características de seguridad y eficacia exigidas, y tomará en cuenta, en su caso, lo dispuesto por el artículo 428 de esta Ley.
+La Secretaría de Salud sólo concederá la autorización correspondiente a los medicamentos, cuando se demuestre que éstos, sus procesos de producción y las sustancias que contengan reúnan las características de seguridad, eficacia y calidad exigidas, que cumple con lo establecido en esta Ley y demás disposiciones generales, y tomará en cuenta, en su caso, lo dispuesto por el artículo 428 de esta Ley.
+
+Para el otorgamiento de registro sanitario a cualquier medicamento, se verificará previamente el cumplimiento de las buenas prácticas de fabricación y del proceso de producción del medicamento así como la certificación de sus principios activos. Las verificaciones se llevarán a cabo por la Secretaría o sus terceros autorizados o, de ser el caso, se dará reconocimiento al certificado respectivo expedido por la autoridad competente del país de origen, siempre y cuando existan acuerdos de reconocimiento en esta materia entre las autoridades competentes de ambos países.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6074,21 +6078,21 @@ Se sancionará con multa hasta dos mil veces el salario mínimo general diario v
 
 Se sancionará con multa de dos mil hasta seis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 142, 147, 153, 198, 200, 204, 241, 259, 260, 265, 267, 304, 307, 341, 348, segundo y tercer párrafo, 349, 350 bis, 350 bis 2, 350 bis 3 y 373 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 421.
 
 Se sancionará con una multa equivalente de seis mil hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 101, 125, 127, 149, 193, 210, 212, 213, 218, 220, 230, 232, 233, 237, 238, 240, 242, 243, 247, 248, 251, 252, 255, 256, 258, 266, 306, 308, 309, 315, 317, 330, 331, 332, 334, 335, 336, 338, último párrafo, 342, 348, primer párrafo, 350 bis 1, 365, 367, 375, 376, 400, 411 y 413 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 421 Bis.
 
 Se sancionará con multa equivalente de doce mil hasta dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 100, 122, 126, 146, 166 Bis 19, 166 Bis 20, 205, 235, 254, 264, 281, 289, 293, 298, 325, 327 y 333 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 422.
 
@@ -6420,11 +6424,25 @@ Cuando la conducta descrita en el párrafo anterior sea producto de negligencia,
 
 En materia de medicamentos se aplicarán las penas que a continuación se mencionan, a la persona o personas que realicen las siguientes conductas delictivas:
 
-I.- A quien adultere, falsifique, contamine, altere o permita la adulteración, falsificación, contaminación o alteración de medicamentos, fármacos, materias primas o aditivos para uso o consumo humanos o los fabrique sin los registros, licencias o autorizaciones que señala esta Ley, se le aplicará una pena de uno a nueve años de prisión y multa equivalente a cien mil días de salario mínimo general vigente en la zona económica de que se trate;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- A quien falsifique o adultere o permita la adulteración o falsificación de material para envase o empaque de medicamentos, sus leyendas, la información que contengan o sus números o claves de identificación, se le aplicará una pena de uno a cinco años de prisión y multa equivalente a cincuenta mil días de salario mínimo general vigente en la zona económica de que se trate, y
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2010)</small>
 
-III.- A quien venda u ofrezca en venta, comercie, distribuya o transporte medicamentos, fármacos, materias primas o aditivos falsificados, alterados o adulterados, ya sea en establecimientos o en cualquier otro lugar, o bien venda u ofrezca en venta, comercie, distribuya o transporte materiales para envase o empaque de medicamentos, fármacos, materias primas o aditivos, sus leyendas, información que contengan o números o claves de identificación, que se encuentran falsificados, alterados o adulterados, le será impuesta una pena de uno a cinco años de prisión y multa equivalente a cincuenta mil días de salario mínimo general vigente en la zona económica de que se trate.
+I.- A quien adultere, falsifique, contamine, altere o permita la adulteración, falsificación, contaminación o alteración de medicamentos, fármacos, materias primas o aditivos, de sus envases finales para uso o consumo humanos o los fabrique sin los registros, licencias o autorizaciones que señala esta Ley, se le aplicará una pena de tres a quince años de prisión y multa de cincuenta mil a cien mil días de salario mínimo general vigente en la zona económica de que se trate;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2010)</small>
+
+II.- A quien falsifique o adultere o permita la adulteración o falsificación de material para envase o empaque de medicamentos, etiquetado, sus leyendas, la información que contenga o sus números o claves de identificación, se le aplicará una pena de uno a nueve años de prisión y multa de veinte mil a cincuenta mil días de salario mínimo general vigente en la zona económica de que se trate, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2010)</small>
+
+III.- A quien venda u ofrezca en venta, comercie, distribuya o transporte medicamentos, fármacos, materias primas o aditivos falsificados, alterados, contaminados o adulterados, ya sea en establecimientos o en cualquier otro lugar, o bien venda u ofrezca en venta, comercie, distribuya o transporte materiales para envase o empaque de medicamentos, fármacos, materias primas o aditivos, sus leyendas, información que contenga números o claves de identificación, que se encuentran falsificados, alterados o adulterados, le será impuesta una pena de uno a nueve años de prisión y multa de veinte mil a cincuenta mil días de salario mínimo general vigente en la zona económica de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2006)</small>
 
 Para los efectos del presente artículo, se entenderá por medicamento, fármaco, materia prima, aditivo y material, lo preceptuado en las fracciones I, II, III, IV y V del artículo 221 de esta Ley; y se entenderá por adulteración, contaminación, alteración y falsificación, lo previsto en los artículos 206, 207, 208 y 208 bis de esta Ley.
 
@@ -7013,3 +7031,19 @@ Primero.- El presente Decreto entrará en vigor el día 1 de enero del 2010.
 Segundo.- El Ejecutivo Federal procederá a reformar y adicionar el Reglamento de la Ley General de Salud en materia de Protección Social en Salud, en un plazo que no excederá de nueve meses contados a partir de la entrada en vigor del presente Decreto. Mientras tanto las disposiciones de aquel se seguirán aplicando en lo que no se oponga al presente Decreto.
 
 Tercero.- A partir de la entrada en vigor de este Decreto, se podrán incorporar al Sistema de Protección Social en Salud la Población susceptible de nueva incorporación, con el fin de alcanzar el 100% de la cobertura en el año 2011.
+
+D.O.F. 27 DE ABRIL DE 2010.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 222 DE LA LEY GENERAL DE SALUD.
+
+PRIMERO. El presente Decreto entrará en vigor a los ciento ochenta días de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se otorgan noventa días a la Secretaría de Salud, para que ajuste el Reglamento de Insumos para la Salud.
+
+TERCERO. Se otorgan ciento ochenta días a la Secretaría de Salud, para crear la Norma Oficial Mexicana correspondiente.
+
+D.O.F. 27 DE ABRIL DE 2010.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 464 TER DE LA LEY GENERAL DE SALUD.
+
+Único.- El presente Decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
