@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-gasto-publico-23211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2010-01-20"
+last_updated: "2010-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE GASTO PUBLICO
 
-LEY DE GASTO PUBLICO
+LEY DE GASTO PÚBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre de 2001.
 
@@ -131,15 +131,21 @@ La Secretaría de Finanzas realizará la programación del gasto con apego al Pr
 
 ### CAPITULO III. DE LA PRESUPUESTACION
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2010)</small>
+
 ###### ARTICULO 15.
 
-El Presupuesto de Egresos del Estado, es el documento jurídico contable y de política económica, aprobado por el Congreso a iniciativa del titular del Ejecutivo, en el que se consigna de acuerdo a su naturaleza y cuantía el gasto público que ejercerán las dependencias y entidades públicas, en cumplimiento de sus funciones, entre el 1 de enero y el 31 de diciembre de cada año.
+El Presupuesto de Egresos del Estado, es el documento jurídico contable y de política económica, aprobado por el Congreso a iniciativa del titular del Ejecutivo, en el que se consigna de acuerdo a su naturaleza y cuantía el gasto público que ejercerán las dependencias y entidades públicas, en cumplimiento de sus funciones, entre el 1 de enero y el 31 de diciembre de cada año. Se exceptúa de lo anterior los proyectos de desarrollo e inversión en infraestructura cuya realización requiera de previsiones presupuestales multianuales.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 16.
 
-El Presupuesto de Egresos del Estado contendrá las actividades, obras, servicios públicos previstos en los programas a cargo de las entidades que en el mismo se señalen. A su vez, considerará los proyectos de desarrollo cuya realización hubiere requerido de previsiones presupuesta les posteriores al ejercicio en el cual se contemplaron por primera vez.
+El Presupuesto de Egresos del Estado contendrá las actividades, obras, servicios públicos previstos en los programas a cargo de las entidades que en el mismo se señalen. A su vez, considerará los proyectos de desarrollo cuya realización hubiere requerido de previsiones presupuestales posteriores al ejercicio en el cual se contemplaron por primera vez.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2010)</small>
+
+La aprobación de las asignaciones presupuestales relativas a dichos proyectos vincula a su inclusión en las asignaciones de gasto público necesarias para su culminación en los subsiguientes presupuestos de egresos.
 
 ###### ARTICULO 17.
 
@@ -269,7 +275,7 @@ La Secretaría de Finanzas incluirá en el anteproyecto de su propio presupuesto
 
 ### CAPITULO IV. DE LA DEUDA PUBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 38.
 
@@ -331,7 +337,7 @@ El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá ampl
 
 El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá efectuar reducciones a los montos de los presupuestos aprobados a las dependencias y entidades, cuando se presenten contingencias que repercutan en una disminución de los ingresos presupuestados, así como las que se deriven de la aplicación de medidas de austeridad, racionalidad y atención a renglones prioritarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 49.
 
@@ -521,7 +527,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE -"SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- El SECRETARIO GENERAL DE GOBIERNO ENCARGADO DEL DESPACHO POR MINISTERIO DE LEY.- BLADIMIR MARTINEZ RUIZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 2 DE OCTUBRE DE 2002
 
@@ -543,7 +549,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 30 DE ABRIL DE 2009.
 
-DECRETO No. LX-565, POR EL QUE SE REFORMA EL ARTICULO 18 DE LA LEY DE GASTO PUBLICO DEL ESTADO.
+DECRETO No. LX-565, POR EL QUE SE REFORMA EL ARTÍCULO 18 DE LA LEY DE GASTO PÚBLICO DEL ESTADO.
 
 ###### ARTICULO UNICO.
 
@@ -551,7 +557,7 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 
 P.O. 30 DE ABRIL DE 2009.
 
-DECRETO No. LX-566, POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 51 DE LA LEY DE GASTO PUBLICO DEL ESTADO.
+DECRETO No. LX-566, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 51 DE LA LEY DE GASTO PÚBLICO DEL ESTADO.
 
 ###### ARTICULO UNICO.
 
@@ -562,3 +568,9 @@ P.O. 20 DE ENERO DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ABRIL DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
