@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-deuda-publica-estatal-y-municipal-de-tamaulipas-8083"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-30"
-last_updated: "2010-01-20"
+last_updated: "2010-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 30 de diciembre de 1995.
 
@@ -195,9 +195,9 @@ b).- Que el plazo de pago no exceda de un año.
 
 c).- Que no requiera de garantías específicas.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2010)</small>
 
-d).- Que su pago se realice dentro del término del plazo pactado. En el último año del periodo constitucional del Ejecutivo, los pagos se realizarán a más tardar en el mes de diciembre.
+d).- Que su pago se realice dentro del término del plazo pactado. Tratándose del último año del periodo constitucional del Ejecutivo, los pagos se realizarán a más tardar en el mes de diciembre. Se exceptúa de lo anterior los financiamientos que se contraten para la ejecución o para otorgarse en garantía de los proyectos de desarrollo e inversión en infraestructura cuya realización requiera de previsiones presupuestales multianuales, conforme a los términos previstos en el artículo 70 de la Constitución Política del Estado, en cuyo caso, el plazo de pago podrá pactarse hasta el término de la realización del proyecto, siempre y cuando no exceda el plazo de un año, contado a partir de la obtención del financiamiento.
 
 XIV.- Concertar, formalizar y aplicar créditos cuando estén contenidos en el programa de financiamiento estatal, salvo las excepciones previstas por esta ley.
 
@@ -434,3 +434,9 @@ P.O. 20 DE ENERO DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ABRIL DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
