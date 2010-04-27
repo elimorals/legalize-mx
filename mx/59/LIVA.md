@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2009-12-07"
+last_updated: "2010-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ABRIL DE 2010.
 
 ULTIMA MODIFICACION MISCELANEA FISCAL PUBLICADA EN DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2003.
 
@@ -2157,3 +2157,9 @@ b. Tratándose del otorgamiento del uso o goce temporal de bienes, lo dispuesto 
 ## Transitorio
 
 Único.- El presente Decreto entrará en vigor el 1 de enero de 2010.
+
+D.O.F. 27 DE ABRIL DE 2010.
+
+> <small>N. DE E. LA MODIFICACION A QUE HACE REFERENCIA EL DECRETO PUBLICADO EN LA FECHA ARRIBA SEÑALADA, NO AFECTA AL TEXTO DEL PRESENTE ORDENAMIENTO.</small>
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
