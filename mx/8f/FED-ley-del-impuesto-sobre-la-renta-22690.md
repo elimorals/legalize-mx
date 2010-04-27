@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-22690"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-01"
-last_updated: "2009-12-30"
+last_updated: "2010-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ABRIL DE 2010.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de enero de 2002.
 
@@ -1678,9 +1678,9 @@ Cuando al término de un ejercicio proceda disminuir las reservas a que se refie
 
 Los contribuyentes que hubieran adquirido bienes o derechos por dación en pago o por adjudicación, que no puedan conservar en propiedad por disposición legal, no podrán deducirlos conforme al artículo 29 de esta Ley. Para determinar la ganancia obtenida o la pérdida sufrida en la enajenación que realicen de los citados bienes o derechos, restarán al ingreso que obtengan por dicha enajenación en el ejercicio en el cual se enajene el bien o derecho, el costo comprobado de adquisición, el cual se podrá ajustar multiplicándolo por el factor de actualización correspondiente al periodo comprendido desde el mes en el que el bien o derecho fue adquirido por dación en pago o por adjudicación y hasta el mes inmediato anterior a la fecha en la que dicho bien o derecho sea enajenado a un tercero, por quien lo recibió en pago o por adjudicación. Tratándose de acciones, el monto que se restará en los términos de este párrafo, será el costo promedio por acción que se determine de acuerdo con lo dispuesto por el artículo 24 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 58.
 
@@ -1820,9 +1820,9 @@ El Servicio de Administración Tributaria mediante reglas de carácter general p
 
 Tratándose de cuentas denominadas en moneda extranjera, la conversión de los saldos, de los depósitos y de los retiros, se efectuará considerando el tipo de cambio para solventar obligaciones en moneda extranjera pagaderas en la República Mexicana que al efecto publique en el Diario Oficial de la Federación el Banco de México, correspondiente al segundo día hábil anterior al día en el que se calculen los saldos inicial o final, se efectúen los depósitos o los retiros, se cancelen, enajenen o traspasen las cuentas o activos financieros, según se trate. Los días en los que el Banco de México no publique dicho tipo de cambio se deberá utilizar el último tipo de cambio publicado con anterioridad al segundo día hábil a aquél en el que se calculen los saldos antes referidos o se efectúen los depósitos, retiros o se cancelen, enajenen o traspasen las cuentas o los activos financieros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 58-B.
 
@@ -3154,7 +3154,7 @@ V. Mantener a disposición del público en general la información relativa a la
 
 > <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
-VI. Informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquél en el que se realice la operación, de los donativos recibidos en efectivo en moneda nacional o extranjera, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos.
+VI. Informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquel en el que se realice la operación, de los donativos recibidos en efectivo en moneda nacional o extranjera, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos.
 
 La información a que se refiere esta fracción estará a disposición de la Secretaría de Hacienda y Crédito Público, en los términos del segundo párrafo del artículo 69 del Código Fiscal de la Federación.
 
@@ -4354,7 +4354,7 @@ IV. Presentar declaraciones provisionales y anual en los términos de esta Ley.
 
 > <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
-V. Informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquél en el que se realice la operación, de las contraprestaciones recibidas en efectivo, en moneda nacional, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos.
+V. Informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquel en el que se realice la operación, de las contraprestaciones recibidas en efectivo, en moneda nacional, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos.
 
 La información a que se refiere esta fracción estará a disposición de la Secretaría de Hacienda y Crédito Público, en los términos del segundo párrafo del Artículo 69 del Código Fiscal de la Federación.
 
@@ -4502,7 +4502,7 @@ El pago efectuado conforme a este artículo será acreditable contra el impuesto
 
 ###### Artículo 154 Ter.
 
-Los contribuyentes que obtengan ingresos por la enajenación de bienes, deberán informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquél en el que se realice la operación, de las contraprestaciones recibidas en efectivo en moneda nacional o extranjera, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos. Las referidas reglas de carácter general podrán establecer supuestos en los que no sea necesario presentar la información a que se refiere este artículo.
+Los contribuyentes que obtengan ingresos por la enajenación de bienes, deberán informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquel en el que se realice la operación, de las contraprestaciones recibidas en efectivo en moneda nacional o extranjera, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos. Las referidas reglas de carácter general podrán establecer supuestos en los que no sea necesario presentar la información a que se refiere este artículo.
 
 La información a que se refiere esta fracción estará a disposición de la Secretaría de Hacienda y Crédito Público, en los términos del segundo párrafo del Artículo 69 del Código Fiscal de la Federación.
 
@@ -5454,6 +5454,10 @@ Tratándose de los ingresos que obtenga un residente en el extranjero por conduc
 
 El impuesto se determinará aplicando, sobre el remanente distribuible, la tasa máxima para aplicarse sobre el excedente del límite inferior que establece la tarifa contenida en el artículo 177 de esta Ley. El impuesto lo deberá enterar la persona moral por cuenta del residente en el extranjero, junto con la declaración señalada en el artículo 113 de esta Ley o, en su caso, en las fechas establecidas para la misma. Asimismo, la citada persona moral deberá proporcionar a los contribuyentes constancia del entero efectuado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 195.
 
 Tratándose de ingresos por intereses se considerará que la fuente de riqueza se encuentra en territorio nacional cuando en el país se coloque o se invierta el capital, o cuando los intereses se paguen por un residente en el país o un residente en el extranjero con establecimiento permanente en el país.
@@ -5561,10 +5565,6 @@ Cuando la enajenación de los títulos a que se refiere este artículo se efect�
 > <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 Cuando en este artículo se haga referencia a intermediario, se entenderá como tal a las instituciones de crédito y casas de bolsa del país, que intervengan en la adquisición de títulos a que hace referencia el presente artículo.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 195-A.
 
@@ -6364,7 +6364,7 @@ Las sociedades mercantiles que tributen en los términos del Título II de esta 
 
 > <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
-I. Los accionistas que aporten bienes inmuebles a la sociedad, acumularán la ganancia por la enajenación de los bienes aportados, cuando se dé cualquiera de los siguientes supuestos:
+I. Los accionistas que aporten bienes inmuebles a la sociedad, acumularán la ganancia por la enajenación de los bienes aportados, cuando se de cualquiera de los siguientes supuestos:
 
 a) Enajenen las acciones de dicha sociedad, en la proporción que dichas acciones representen del total de las acciones que recibió el accionista por la aportación del inmueble a la sociedad, siempre que no se hubiera acumulado dicha ganancia previamente.
 
@@ -8256,11 +8256,67 @@ d) Cuando conforme a la Ley del Impuesto sobre la Renta se deba aplicar la reduc
 
 e) Para los efectos del artículo 113 de la Ley del Impuesto sobre la Renta, se calculará el impuesto correspondiente conforme a las disposiciones contenidas en dicho precepto, aplicando la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+Tarifa
+
+Límite inferior Límite superior Cuota fija Por ciento
+
+para aplicarse
+
+sobre el
+
+excedente del
+
+límite inferior
+
+$ $ $ %
+
+0.01 496.07 0.00 1.92
+
+496.08 4,210.41 9.52 6.40
+
+4,210.42 7,399.42 247.23 10.88
+
+7,399.43 8,601.50 594.24 16.00
+
+8,601.51 10,298.35 786.55 17.92
+
+10,298.36 20,770.29 1,090.62 21.36
+
+20,770.30 32,736.83 3,327.42 23.52
+
+32,736.84 En adelante 6,141.95 30.00
 
 f) Para los efectos del artículo 177 de la Ley del Impuesto sobre la Renta, se calculará el impuesto correspondiente conforme a las disposiciones contenidas en dicho precepto, aplicando la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+Tarifa
+
+Límite inferior Límite superior Cuota fija Por ciento
+
+para aplicarse
+
+sobre el
+
+excedente del
+
+límite inferior
+
+$ $ $ %
+
+0.01 5,952.84 0.00 1.92
+
+5,952.85 50,524.92 114.24 6.40
+
+50,524.93 88,793.04 2,966.76 10.88
+
+88,793.05 103,218.00 7,130.88 16.00
+
+103,218.01 123,580.20 9,438.60 17.92
+
+123,580.21 249,243.48 13,087.44 21.36
+
+249,243.49 392,841.96 39,929.04 23.52
+
+392,841.97 En adelante 73,703.40 30.00
 
 II. Para el ejercicio fiscal de 2013, se estará a lo siguiente:
 
@@ -8274,11 +8330,67 @@ d) Cuando conforme a la Ley del Impuesto sobre la Renta se deba aplicar la reduc
 
 e) Para los efectos del artículo 113 de la Ley del Impuesto sobre la Renta, se calculará el impuesto correspondiente conforme a las disposiciones contenidas en dicho precepto, aplicando la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+Tarifa
+
+Límite inferior Límite superior Cuota fija Por ciento
+
+para aplicarse
+
+sobre el
+
+excedente del
+
+límite inferior
+
+$ $ $ %
+
+0.01 496.07 0.00 1.92
+
+496.08 4,210.41 9.52 6.40
+
+4,210.42 7,399.42 247.23 10.88
+
+7,399.43 8,601.50 594.24 16.00
+
+8,601.51 10,298.35 786.55 17.92
+
+10,298.36 20,770.29 1,090.62 20.65
+
+20,770.30 32,736.83 3,253.07 22.73
+
+32,736.84 En adelante 5,973.06 29.00
 
 f) Para los efectos del artículo 177 de la Ley del Impuesto sobre la Renta, se calculará el impuesto correspondiente conforme a las disposiciones contenidas en dicho precepto, aplicando la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+Tarifa
+
+Límite inferior Límite superior Cuota fija Por ciento
+
+para aplicarse
+
+sobre el
+
+excedente del
+
+límite inferior
+
+$ $ $ %
+
+0.01 5,952.84 0.00 1.92
+
+5,952.85 50,524.92 114.24 6.40
+
+50,524.93 88,793.04 2,966.76 10.88
+
+88,793.05 103,218.00 7,130.88 16.00
+
+103,218.01 123,580.20 9,438.60 17.92
+
+123,580.21 249,243.48 13,087.44 20.65
+
+249,243.49 392,841.96 39,036.84 22.73
+
+392,841.97 En adelante 71,676.72 29.00
 
 DISPOSICIÓN DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA
 
@@ -8316,13 +8428,21 @@ El entero del impuesto diferido a que se refiere el párrafo anterior, se deber�
 
 a) 25%, mediante declaración que se presente en el mes de junio del ejercicio fiscal de 2010.
 
-b) 25%, en la misma fecha en que deba presentarse la declaración de consolidación del ejercicio fiscal de 2011.
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2010)</small>
 
-c) 20%, en la misma fecha en que deba presentarse la declaración de consolidación del ejercicio fiscal de 2012.
+b) 25% en la misma fecha en que deba presentarse la declaración de consolidación del ejercicio fiscal en 2011.
 
-d) 15%, en la misma fecha en que deba presentarse la declaración de consolidación del ejercicio fiscal de 2013.
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2010)</small>
 
-e) 15%, en la misma fecha en que deba presentarse la declaración de consolidación el ejercicio fiscal de 2014.
+c) 20% en la misma fecha en que deba presentarse la declaración de consolidación del ejercicio fiscal en 2012.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2010)</small>
+
+d) 15% en la misma fecha en que deba presentarse la declaración de consolidación del ejercicio fiscal en 2013.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2010)</small>
+
+e) 15% en la misma fecha en que deba presentarse la declaración de consolidación del ejercicio fiscal en 2014.
 
 VII. Las sociedades controladoras que hubieran optado por aplicar la fracción VIII de este artículo, deberán efectuar el entero del impuesto sobre la renta a que se refiere el artículo 78, segundo párrafo de la Ley del Impuesto sobre la Renta, correspondiente a los ejercicios anteriores a 2005, que no hubiera sido pagado al 31 de diciembre de 2009, conforme a lo siguiente:
 
@@ -8421,3 +8541,7 @@ XVI. Los contribuyentes que durante el ejercicio fiscal 2009 hubieran sido benef
 D.O.F. 30 DE DICIEMBRE DE 2009.
 
 Único.- El presente Decreto entrará en vigor el 1 de enero de 2010.
+
+D.O.F. 27 DE ABRIL DE 2010.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
