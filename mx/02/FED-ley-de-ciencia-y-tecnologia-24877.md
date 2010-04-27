@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ciencia-y-tecnologia-24877"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-05"
-last_updated: "2009-06-12"
+last_updated: "2010-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-03"
 
 LEY DE CIENCIA Y TECNOLOGIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ABRIL DE 2010.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de junio de 2002.
 
@@ -775,11 +775,13 @@ II. Estará integrado por científicos, tecnólogos, empresarios y por represent
 
 III. En su integración se observarán los criterios de pluralidad, de renovación periódica y de representatividad de las diversas áreas y especialidades de la comunidad científica y tecnológica y de los sectores social y privado, así como de equilibrio entre las diversas regiones del país;
 
-IV. Tendrá una organización basada en comités de trabajo especializados por disciplinas y áreas de la ciencia y la tecnología;
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2010)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+IV. Tendrá una organización basada en comités de trabajo integrados por especialistas en los diversos temas de la ciencia y la tecnología;
 
-V. Contará con una mesa directiva formada por dieciocho integrantes, quince de los cuales serán los titulares que representen a las siguientes organizaciones: la Academia Mexicana de Ciencias, A.C.; la Academia Mexicana de Ingeniería, A.C.; la Academia Nacional de Medicina, A.C.; la Asociación Mexicana de Directivos de la Investigación Aplicada y Desarrollo Tecnológico, A.C.; la Asociación Nacional de Universidades e Instituciones de Educación Superior; la Confederación Nacional de Cámaras Industriales; el Consejo Nacional Agropecuario y un representante de la Red Nacional de Consejos y Organismos Estatales de Ciencia y Tecnología, A.C.; la Universidad Nacional Autónoma de México; el Instituto Politécnico Nacional; el Centro de Investigación y Estudios Avanzados del Instituto Politécnico Nacional; la Academia Mexicana de la Lengua; la Academia Mexicana de Historia; el Sistema de Centros Públicos de Investigación y el Consejo Mexicano de Ciencias Sociales.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE ABRIL DE 2010)</small>
+
+V. Contará con una mesa directiva formada por veinte integrantes, diecisiete de los cuales serán los titulares que representen a las siguientes organizaciones: la Academia Mexicana de Ciencias, A. C.; la Academia Mexicana de Ingeniería, A. C.; la Academia Nacional de Medicina, A. C.; la Asociación Mexicana de Directivos de la Investigación Aplicada y Desarrollo Tecnológico, A.C.; la Asociación Nacional de Universidades e Instituciones de Educación Superior; la Confederación Nacional de Cámaras Industriales; el Consejo Nacional Agropecuario; la Confederación Patronal de la República Mexicana; la Cámara Nacional de la Industria de la Transformación, y un representante de la Red Nacional de Consejos y Organismos Estatales de Ciencia y Tecnología, A.C.; la Universidad Nacional Autónoma de México; el Instituto Politécnico Nacional; el Centro de Investigación y Estudios Avanzados del Instituto Politécnico Nacional; la Academia Mexicana de la Lengua; la Academia Mexicana de Historia; el Sistema de Centros Públicos de Investigación y el Consejo Mexicano de Ciencias Sociales.
 
 Los otros tres integrantes, quienes actuarán a título personal, serán investigadores, representantes uno de ellos de las ciencias exactas o naturales, uno de las ciencias sociales o humanidades y uno de la ingeniería o tecnología. Estos integrantes se renovarán cada tres años y serán seleccionados por los propios miembros del Sistema Nacional de Investigadores, a través de convocatoria que expidan conjuntamente el CONACyT y el Foro Consultivo, la que cuidará se logre un adecuado equilibrio regional.
 
@@ -1248,3 +1250,7 @@ Artículo Tercero. En un plazo no mayor a seis meses a la entrada en vigor del p
 Artículo Cuarto. Los órganos de gobierno de los Centros Públicos de Investigación deberán expedir a más tardar un año después a la entrada en vigor del presente Decreto los lineamientos, condiciones, términos, requisitos y criterios a que se refiere el artículo 51 de esta Ley.
 
 Artículo Quinto. Los órganos de gobierno de los Centros Públicos de Investigación deberán expedir a más tardar un año después a la entrada en vigor del presente Decreto los Estatutos de Personal Académico a que hace mención el artículo 52 de esta Ley.
+
+D.O.F. 27 DE ABRIL DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
