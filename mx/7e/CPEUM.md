@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2009-08-24"
+last_updated: "2010-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ABRIL DE 2010.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -3332,9 +3332,11 @@ I.- Para ser magistrado del Tribunal Superior se deberán reunir los mismos requ
 
 Para cubrir las vacantes de magistrados del Tribunal Superior de Justicia, el Jefe de Gobierno del Distrito Federal someterá la propuesta respectiva a la decisión de la Asamblea Legislativa. Los Magistrados ejercerán el cargo durante seis años y podrán ser ratificados por la Asamblea; y si lo fuesen, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución;
 
-II.- La administración, vigilancia y disciplina del Tribunal Superior de Justicia, de los juzgados y demás órganos judiciales, estará a cargo del Consejo de la Judicatura del Distrito Federal. El Consejo de la Judicatura tendrá siete miembros, uno de los cuales será el presidente del Tribunal Superior de Justicia, quien también presidirá el Consejo. Los miembros restantes serán: un Magistrado, un Juez de Primera Instancia y un Juez de Paz, elegidos mediante insaculación; uno designado por el Jefe de Gobierno del Distrito Federal y otros dos nombrados por la Asamblea Legislativa. Todos los Consejeros deberán reunir los requisitos exigidos para ser magistrado y durarán cinco años en su cargo; serán sustituidos de manera escalonada y no podrán ser nombrados para un nuevo periodo.
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2010)</small>
 
-El Consejo designará a los Jueces de Primera Instancia y a los que con otra denominación se creen en el Distrito Federal, en los términos que las disposiciones prevean en materia de carrera judicial;
+II.- La administración, vigilancia y disciplina del Tribunal Superior de Justicia, de los juzgados y demás órganos judiciales, estará a cargo del Consejo de la Judicatura del Distrito Federal. El Consejo de la Judicatura tendrá siete miembros, uno de los cuales será el presidente del Tribunal Superior de Justicia, quien también lo será del Consejo. Los miembros restantes serán: un Magistrado y dos jueces elegidos por mayoría de votos de las dos terceras partes del Pleno de Magistrados; uno designado por el Jefe del Gobierno del Distrito Federal y otros dos nombrados por la Asamblea Legislativa. Todos los Consejeros deberán reunir los requisitos exigidos para ser Magistrado y serán personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades, en el caso de los elegidos por el Pleno de Magistrados deberán gozar, además, con reconocimiento por sus méritos profesionales en el ámbito judicial. Durarán cinco años en su cargo; serán sustituidos de manera escalonada y no podrán ser nombrados para un nuevo periodo.
+
+El Consejo designará a los jueces del Distrito Federal, en los términos que las disposiciones prevean en materia de carrera judicial. También determinará el número y especialización por materia de las salas del tribunal y juzgados que integran el Poder Judicial del Distrito Federal, de conformidad con lo que establezca el propio Consejo;
 
 III.- Se determinarán las atribuciones y las normas de funcionamiento del Consejo de la Judicatura, tomando en cuenta lo dispuesto por el artículo 100 de esta Constitución;
 
@@ -5629,6 +5631,10 @@ c) Los incrementos a las retribuciones nominales o adicionales sólo podrán rea
 Cuarto. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de su competencia, deberán expedir o adecuar la legislación, de conformidad con los términos del presente Decreto, dentro de un plazo de 180 días naturales siguientes a su entrada en vigor.
 
 Quinto. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de su competencia, deberán tipificar y sancionar penal y administrativamente las conductas de los servidores públicos cuya finalidad sea eludir lo dispuesto en el presente Decreto, dentro de un plazo de 180 días naturales siguientes a su entrada en vigor.
+
+D.O.F. 27 DE ABRIL DE 2010.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
