@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2009-11-27"
+last_updated: "2010-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ABRIL DE 2010.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -318,9 +318,7 @@ Los contribuyentes a que se refiere esta Ley, pagarán el impuesto a su cargo, s
 
 Únicamente procederá el acreditamiento del impuesto trasladado al contribuyente por la adquisición de los bienes a que se refiere el inciso A) de la fracción I del artículo 2o. de esta Ley, así como el pagado por el propio contribuyente en la importación de los bienes a que refieren los incisos A), C), D) y E) de dicha fracción, siempre que sea acreditable en los términos de la citada Ley.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-Las personas físicas y morales que adquieran alcohol, alcohol desnaturalizado y mieles incristalizables, así como los importadores de dichos bienes, podrán acreditar el impuesto pagado por la enajenación o importación de los mismos, contra el que causen por la enajenación de bebidas alcohólicas. Cuando los bienes antes citados sean utilizados para la elaboración de productos distintos a las bebidas alcohólicas, podrán acreditarlo contra el impuesto sobre la renta que resulte a su cargo.
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -480,7 +478,9 @@ c) Las que realicen personas diferentes de los fabricantes, productores o import
 
 d) Las de cerveza, bebidas refrescantes, puros y otros tabacos labrados, que se efectúen al público en general, salvo que el enajenante sea fabricante, productor, envasador, distribuidor o importador de los bienes que enajene. No gozarán del beneficio establecido en este inciso, las enajenaciones de los citados bienes efectuadas por comerciantes que obtengan la mayor parte del importe de sus ingresos de enajenaciones a personas que no forman parte del público en general. No se consideran enajenaciones efectuadas con el público en general cuando por las mismas se expidan comprobantes que cumplan con los requisitos a que se refiere el artículo 29-A del Código Fiscal de la Federación.
 
-e) (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2003)
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
+
+e) Alcohol, alcohol desnaturalizado y mieles incristalizables, siempre que por su enajenación se cumpla con las obligaciones establecidas en el artículo 19, fracciones I, II, primer párrafo, VI, VIII, X, XII y XIV de esta Ley y las demás obligaciones que establezcan las disposiciones fiscales.
 
 f) (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -596,15 +596,17 @@ II.- Las efectuadas por pasajeros en los términos de la legislación aduanera y
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
-III. Las de aguamiel y productos derivados de su fermentación.
+III.- Las de aguamiel y productos derivados de su fermentación.
 
 > <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
-IV. Las de los bienes en franquicia de conformidad con lo dispuesto en la Ley Aduanera.
+IV.- Las de los bienes en franquicia de conformidad con lo dispuesto en la Ley Aduanera.
 
-V. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2010)</small>
 
-VI. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
+V.- Alcohol, alcohol desnaturalizado y mieles incristalizables, siempre que por su importación se cumpla con las obligaciones establecidas en el artículo 19, fracciones I, VI, VIII, XI, XIV y XIX de esta Ley y las demás obligaciones que establezcan las disposiciones fiscales.
+
+VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -1028,7 +1030,7 @@ A partir del 1o. de enero de 1982 quedará abrogada la Ley del Impuesto sobre Co
 
 Al entrar en vigor la presente Ley, quedarán derogadas las leyes siguientes:
 
-I.- Ley del Impuesto sobre Producción y Consumo de Cerveza, a excepción de los artículos 10, fracciones II a XXV y XXVII a XXIX y 25, que continuarán en vigor hasta el 31 de diciembre de 1981, fecha a partir de la cual queda abrogada dicha Ley.
+I.- Ley del Impuesto sobre Producción y Consumo de Cerveza, a excepción de los artículos 10, fracciones II a XXV y XXVII a XXIX y 25, que continuarán en vigor hasta el 31 de diciembre de 1981, fecha a partir de la cual queda abrogado dicha Ley.
 
 II.- Ley Federal de Impuestos a las Industrias del Azúcar, Alcohol, Aguardiente y Envasamiento de Bebidas Alcohólicas, a excepción de los artículos 13 a 16, 52, 53, 54 y 56, que continuarán en vigor hasta el 31 de diciembre de 1981, fecha a partir de la cual queda abrogada dicha Ley.
 
@@ -1078,7 +1080,7 @@ Los contribuyentes obligados al pago del impuesto establecido en esta Ley, por l
 
 En tanto se expida el reglamento, los importadores que introduzcan al país bebidas alcohólicas en recipientes mayores, requerirán autorización de la Secretaría de Hacienda y Crédito Público, para cumplir con los requisitos de información y control que señala la fracción V del artículo 13 de esta Ley.
 
-Los importadores, para adherir los marbetes a los envases menores en sus almacenes, bodegas o depósitos dentro de los quince días siguientes al día en que se retiren los bienes de la aduana, en tanto se expida el reglamento, requerirán autorización de la Secretaría de Hacienda y Crédito Público la cual no será necesaria cuando se esté gozando de autorización concedida para este efecto en los términos de la Ley Federal del Impuesto a las Industrias del Azúcar, Alcohol, Aguardiente y Envasamiento de Bebidas Alcohólicas.
+Los importadores, para adherir los marbetes a los envases menores en sus almacenes, bodegas o depósitos dentro de los quince días siguientes al día en que se retiren los bienes de la aduana, en tanto se expida el reglamento, requerirán autorización de la Secretaría de Hacienda y Crédito Público la cual no será necesaria cuando se esté gozando de autorización concedida para este efecto en los términos de la Ley Federal de Impuesto a las Industrias del Azúcar, Alcohol, Aguardiente y Envasamiento de Bebidas Alcohólicas.
 
 ARTICULO DECIMOSEGUNDO.- Durante 1981, los contribuyentes del impuesto establecido en esta Ley, por la enajenación de bienes, calcularán el impuesto aplicando la tasa correspondiente en los términos del artículo 2o. de esta Ley, al valor de enajenación señalado en el artículo 11 de este ordenamiento o sobre el precio máximo en que enajenaron sus productos durante los dos últimos meses de 1980, el que sea mayor.
 
@@ -1318,7 +1320,7 @@ I.- Los productores o envasadores de agua mineral natural o con sabor, que de co
 
 II.- Los productores o importadores de cigarros para calcular el impuesto por la enajenación de esos bienes, considerarán como valor el precio de venta al detallista de los mismos. Este impuesto no se pagará por las enajenaciones subsecuentes.
 
-III.- Para los efectos del Artículo Décimotercero, fracción IV, inciso b), de la Ley que Establece, Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales, vigente a partir del 1o. de enero de 1986, son cigarros populares sin filtro los que el 1o. de enero de 1987, tengan un precio máximo al público que no exceda de $110.00 por cajetilla de cigarros.
+III.- Para los efectos del Artículo Decimotercero, fracción IV, inciso b), de la Ley, que Establece, Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales, vigente a partir del 1o. de enero de 1986, son cigarros populares sin filtro los que el 1o. de enero de 1987, tengan un precio máximo al público que no exceda de $110.00 por cajetilla de cigarros.
 
 IV.- No se pagará el Impuesto Especial sobre Producción y Servicios por la enajenación del alcohol que realice Azúcar, S. A. de C.V., a los productores que lo utilicen como insumo para la elaboración de bebidas alcohólicas, siempre que se encuentren registrados ante esa entidad.
 
@@ -1368,7 +1370,7 @@ ARTICULO DECIMOSEXTO.- Durante el año de 1989, se aplicarán en materia del imp
 
 I.- Los productores o envasadores de agua mineral natural o con sabor, que de conformidad con el artículo 5o.-A de la Ley del Impuesto Especial sobre Producción y Servicios, estén obligados a retener ese impuesto, lo harán sobre el 50% del impuesto que corresponde a los adquirentes de esos bienes durante el ejercicio fiscal de 1989, siempre que los adquirentes de esos bienes se encuentren en población distinta a aquélla en que esté ubicada la fábrica.
 
-Los contribuyentes a que se refiere esta fracción, efectuarán la retención del impuesto que corresponda a sus adquirentes, sobre el margen de comercialización generalmente aceptado conforme a los precios de mercado del bien de que se trate al realizarse la enajenación y enterarlo mediante declaración en las oficinas autorizadas, a más tardar el día 7 del mes siguiente a aquél en que se efectuó la retención. En los casos en que no se conozca el margen de comercialización, el retenedor considerará que dicho margen es del 35%.
+Los contribuyentes a que se refiere esta fracción, efectuarán la retención del impuesto que corresponda a sus adquirentes, sobre el margen de comercialización generalmente aceptado y conforme a los precios de mercado del bien de que se trate al realizarse la enajenación y enterarlo mediante declaración en las oficinas autorizadas, a más tardar el día 7 del mes siguiente a aquél en que se efectuó la retención. En los casos en que no se conozca el margen de comercialización, el retenedor considerará que dicho margen es del 35%.
 
 Los contribuyentes a los que se les retenga el impuesto, de conformidad con lo señalado en esta fracción, deberán presentar declaración de pago provisional en la que acreditarán el impuesto que les debió haber sido retenido en los términos de la Ley del Impuesto Especial sobre Producción y Servicios.
 
@@ -1390,9 +1392,9 @@ A.- En la enajenación o importación de:
 
 a).- Cigarros .......... 160%
 
-b).- Cigarros populares sin filtro elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1º. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión, así como puros y otros tabacos labrados ............ 25%
+b).- Cigarros populares sin filtro elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1º. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión así como puros y otros tabacos labrados ............ 25%
 
-5.- Gasolina que contenga tetra-etilo de plomo y su octanaje no exceda de 82 octanos o la de mayor octanaje que no contenga tetraetilo de plomo, así como el diesel y gas L.P. utilizado como carburante de vehículos automotores ............ 122%
+5.- Gasolina que contenga tetra-etilo de plomo y su octanaje no exceda de 82 octanos o la de mayor octanaje que no contenga tetraetilo de plomo así como el diesel y gas L.P. utilizado como carburante de vehículos automotores ............ 122%
 
 B.- A los productores o importadores de los bienes señalados en el apartado anterior, le serán aplicables las demás disposiciones que prevé la Ley del Impuesto Especial de (sic) Producción y Servicios.
 
@@ -1596,9 +1598,9 @@ Artículo Décimo Primero. Durante el año de 1996, para efectos del artículo 2
 
 ## Transitorios
 
-Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
+Primero. El presente decreto entrará en vigor el 1o. de enero de 1996.
 
-Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
+Segundo. De conformidad con disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
 
 D.O.F. 10 DE MAYO DE 1996.
 
@@ -1614,7 +1616,7 @@ Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y S
 
 Artículo Décimo Tercero.- En relación con las modificaciones a que se refiere el Artículo Décimo Segundo que antecede, se estará a lo siguiente:
 
-I.- Las adiciones a los artículos 8o.-B, último párrafo y 19, fracciones II, tercer párrafo y X, y la reforma al artículo 19, fracción V, primer párrafo de la Ley del Impuesto Especial sobre Producción y Servicios, entrarán en vigor el 1o. de marzo de 1997.
+I.- Las adiciones a los artículos 8o.-B, último párrafo y 19, fracciones II, tercer párrafo y X, y la reforma al artículo 19, fracción V, primer párrafo de la Ley del Impuesto Especial sobre Producción y Servicios, entrará en vigor el 1o. de marzo de 1997.
 
 II.- La obligación de adherir precintos a los envases o recipientes a que se refiere la fracción IV del artículo 19 de esta Ley, entrará en vigor el 1o. de marzo de 1997.
 
@@ -2334,7 +2336,7 @@ El Servicio de Administración Tributaria, tendrá un plazo de 120 días natural
 
 ###### ARTÍCULO TERCERO.
 
-(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 2005)
+Las cajetillas que contengan cigarros que se produzcan o importen a partir del 1o. de enero de 2006, deberán contener el marbete a que hace referencia el artículo segundo transitorio del presente Decreto.
 
 ###### ARTÍCULO CUARTO.
 
@@ -2473,6 +2475,14 @@ Octavo.- El Servicio de Administración Tributaria publicará las reglas de car�
 Noveno.- Para los efectos de lo dispuesto por el artículo 2o., fracción I, inciso A), numeral 1 de la Ley del Impuesto Especial sobre Producción y Servicios, tratándose de cerveza, en sustitución de la tasa establecida en dicho numeral, durante los años de 2010, 2011 y 2012, se aplicará la tasa de 26.5%, y durante 2013, la tasa de 26%.
 
 Décimo.- Para los efectos de lo dispuesto por el artículo 2o., fracción I, inciso A), numeral 3 de la Ley del Impuesto Especial sobre Producción y Servicios, en sustitución de la tasa establecida en dicho numeral, durante los años 2010, 2011 y 2012, se aplicará la tasa de 53%, y durante 2013, la tasa de 52%.
+
+D.O.F. 28 DE ABRIL DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en al (sic) Diario Oficial de la Federación.
+
+Segundo. A partir de la entrada en vigor del presente Decreto, se dejan sin efecto en lo que se opongan al mismo las disposiciones de carácter administrativo, consultas e interpretaciones de carácter general contenidas en circulares o publicadas en el Diario Oficial de la Federación en materia del impuesto especial sobre producción y servicios.
+
+Tercero. Las personas físicas y morales que adquirieron o importaron alcohol, alcohol desnaturalizado y mieles incristalizables, podrán acreditar el impuesto especial sobre producción y servicios que les hubiera sido trasladado en las adquisiciones realizadas o el que hubiesen pagado con motivo de la importación de los bienes mencionados, con anterioridad a la entrada en vigor del presente Decreto, en los términos del tercer párrafo del artículo 4 de la Ley del Impuesto Especial sobre Producción y Servicios vigente hasta antes de la entrada en vigor de este Decreto.
 
 ###### ARTICULO QUINTO.
 
