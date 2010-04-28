@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-seguridad-publica-54501
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-12"
-last_updated: "2007-03-12"
+last_updated: "2010-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54501&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-03-08"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA, PUBLICADO EN EL D.O.F. DE 28 DE ABRIL DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 12 de marzo de 2007.
 
@@ -1094,3 +1096,21 @@ QUINTO.- El Secretario deberá integrar la instancia de coordinación de la poli
 SEXTO.- El Secretario deberá expedir el Acuerdo de creación del Consejo Ciudadano de Seguridad Pública y formular las invitaciones a las organizaciones de la sociedad civil correspondientes.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de marzo de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Seguridad Pública, Genaro García Luna.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 28 DE ABRIL DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública, publicado en el Diario Oficial de la Federación el 12 de marzo de 2007 y se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO.- La Oficialía Mayor de la Secretaría realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades administrativas que por virtud de este Reglamento modifican sus funciones, sean transferidos a las unidades administrativas que correspondan, en términos del presupuesto aprobado para dicha Dependencia.
+
+CUARTO.- Los expedientes o asuntos pendientes de resolución a la entrada en vigor de este Reglamento, continuarán siendo tramitados hasta su total conclusión por las unidades administrativas a las que hayan sido turnados o, en su defecto, a aquéllas a las cuales se les haya conferido la atribución correspondiente.
+
+QUINTO.- Las erogaciones que deriven de la aplicación del presente Reglamento se realizarán mediante movimientos compensados en el presupuesto de la Secretaría de Seguridad Pública. En tal virtud, no se requerirán recursos adicionales para tales efectos en el presente ejercicio, ni se incrementará su presupuesto regularizable.
+
+SEXTO.- Las menciones que en otras disposiciones se hagan a la Coordinación General de Asuntos Jurídicos, se entenderán referidas a la Unidad de Asuntos Jurídicos.
+
+SÉPTIMO.- En tanto se expida el Reglamento de la Ley de la Policía Federal, seguirán en vigor los esquemas de coordinación de la policía federal a que alude el artículo 6 del Reglamento Interior que se abroga.
