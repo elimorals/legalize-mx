@@ -4,7 +4,7 @@ identifier: "LFC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-29"
-last_updated: "2006-01-26"
+last_updated: "2010-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFC"
 
 LEY FEDERAL DE CINEMATOGRAFIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ABRIL DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 29 de diciembre de 1992.
 
@@ -452,57 +452,181 @@ VI.- Aplicar las sanciones que correspondan por infracciones a la presente Ley, 
 
 VII.- Las demás que le concedan otras disposiciones legales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LOS INTEGRAN, D.O.F. 5 DE ENERO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-### CAPITULO X. De las sanciones
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 28 DE ABRIL DE 2010)</small>
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+### CAPITULO X. De las visitas de verificación
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 43.
 
-La facultad de imponer las sanciones establecidas en esta Ley compete a la Secretaría de Educación Pública y a la Secretaría de Gobernación, sin perjuicio de aquellas que corresponda imponer a las demás dependencias de la Administración Pública Federal.
+A efecto de comprobar el cumplimiento de las disposiciones contenidas en esta Ley, su Reglamento y demás ordenamientos de carácter general que resulten aplicables, la Secretaría de Gobernación, a través de la Dirección General de Radio, Televisión y Cinematografía, practicará visitas de verificación, cumpliendo con las formalidades previstas en la Ley Federal de Procedimiento Administrativo.
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 44.
 
-Los infractores de los Artículos 27, 39 y 40 de la presente Ley, serán sancionados por la Secretaría de Educación Pública, según la gravedad de la falta, la intención o dolo existente, con las sanciones siguientes:
+En las visitas tendientes a comprobar el cumplimiento de la obligación consignada en el artículo 24 de la presente Ley, el visitado podrá formular observaciones en el acto de la diligencia y ofrecer pruebas en relación con los hechos contenidos en el acta de visita de verificación, o bien, hacer uso de tal derecho mediante escrito dirigido a la autoridad que hubiese ordenado la visita, dentro del término de diez días hábiles, siguientes a la fecha en que se hubiere levantado el acta.
 
-I.- Amonestación con apercibimiento;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Multa de quinientos a cinco mil veces el salario mínimo general diario vigente en el Distrito Federal a la fecha en que se cometa la infracción.
-
-En caso de reincidencia, se podrá imponer multa hasta por el doble del monto superior marcado en la fracción II.
-
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 45.
 
-Los infractores a los Artículos 8o., 17, 19 segundo párrafo, 20, 21, 23 y 25 de la presente Ley, serán sancionados por la Secretaría de Gobernación, según la gravedad de la falta, la intención o dolo existente, con las sanciones siguientes:
+Si transcurrido el término a que se refiere el artículo anterior, el visitado no acredita fehacientemente que cuenta con la autorización y clasificación expedidas por la autoridad competente, para exhibir y/o comercializar las películas materia de verificación en la visita, la autoridad dictará las medidas de aseguramiento que, a su juicio, correspondan.
 
-I.- Amonestación con apercibimiento;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Clausura temporal o definitiva de los espacios o locales;
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 28 DE ABRIL DE 2010)</small>
 
-III.- Multa de quinientos a cinco mil veces el salario mínimo general diario vigente en el Distrito Federal a la fecha en que se cometa la infracción.
+### CAPITULO XI. De las medidas de aseguramiento
 
-IV.- Multa de cinco mil a quince mil veces el salario mínimo general diario vigente en el Distrito Federal a la fecha en que se cometa la infracción, a quienes infrinjan los Artículos 8o., 17, 19 segundo párrafo, 22 y 23 de esta Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Retiro de las películas que se exhiban o pretendan exhibirse públicamente o se comercialicen en cualquier forma o medio, sin la autorización a que se refiere la fracción I del Artículo 42 de esta Ley.
-
-En caso de reincidencia, se podrá imponer multa hasta por el doble del monto superior correspondiente.
-
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 46.
 
-Las sanciones a que se refiere la presente Ley se aplicarán conforme a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
+La Secretaría de Gobernación, a través de la Dirección General de Radio, Televisión y Cinematografía, podrá dictar medidas de aseguramiento de carácter preventivo, con el propósito de impedir la realización de conductas que, presumiblemente, contravengan lo dispuesto por el artículo 24 de la presente Ley.
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 47.
 
-Los afectados por las resoluciones dictadas en esta materia, podrán interponer el recurso de revisión dentro de un plazo de quince días hábiles siguientes a la fecha de su notificación, en que se resolverá en los términos de la Ley Federal de Procedimiento Administrativo.
+Las medidas de aseguramiento consistirán en:
+
+I. Prohibir la exhibición pública de películas en salas cinematográficas o lugares que hagan sus veces, que no cuenten con la autorización y clasificación a que se refiere el artículo 24 de la presente Ley;
+
+II. Prohibir la comercialización de películas, incluidas la venta o renta, que no cuenten con la autorización y clasificación a que se refiere el artículo 24 de la presente Ley, y que se lleve a cabo en establecimientos legalmente constituidos;
+
+III. Ordenar la retención provisional de las películas que se ubiquen en los supuestos descritos en las fracciones anteriores.
+
+La autoridad deberá notificar personalmente al interesado la medida de aseguramiento dictada, a través de mandamiento escrito debidamente fundado y motivado, en el que se precise que el aseguramiento subsistirá hasta en tanto el interesado acredite haber cumplido con la obligación consignada en el artículo 24 de la presente Ley, en cuyo caso, dentro de los diez días hábiles siguientes, la autoridad administrativa procederá a realizar las acciones necesarias para que las películas vuelvan al estado en que se encontraban antes de la medida de aseguramiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
+
+###### ARTICULO 48.
+
+Tratándose de películas incorporadas en formato de videograma, disco compacto o láser, así como cualquier otro sistema de duplicación para su venta o alquiler, la prohibición a que se refiere la fracción II del artículo anterior, comprenderá también la colocación de sellos sobre los ejemplares de dichas películas, que impidan al público el acceso a las mismas, y que contendrán la leyenda: “Se prohíbe la comercialización de esta película, toda vez que carece de la autorización y clasificación a que se refiere el artículo 24 de la Ley Federal de Cinematografía”.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
+
+###### ARTICULO 49.
+
+Para llevar a cabo la retención provisional a que se refiere la fracción III del artículo 47 de esta Ley, el mandamiento de autoridad que la ordene deberá precisar el nombre de la persona o personas que la realizarán, quienes deberán identificarse plenamente ante el interesado; asimismo, se indicará que las películas retenidas serán trasladadas a las oficinas que ocupa la Dirección General de Radio, Televisión y Cinematografía de la Secretaría de Gobernación, donde permanecerán bajo el resguardo de su Director General, quien será responsable de su conservación, así como de rendir mensualmente a su superior jerárquico, un informe sobre el estado que guarden los materiales cinematográficos retenidos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
+
+###### ARTICULO 50.
+
+Al practicarse las medidas de aseguramiento deberá levantarse el acta circunstanciada correspondiente, en la que se hagan constar todos los pormenores de la diligencia.
+
+Si se trata de retención provisional, en el acta se deberán señalar los títulos y número exacto de las películas objeto de la medida de aseguramiento; cuando éstos no coincidieren con los datos asentados en el acta de visita de verificación, se hará constar expresamente tal circunstancia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
+
+###### ARTICULO 51.
+
+Las medidas de aseguramiento se aplicarán sin perjuicio de las sanciones que correspondan, en los términos del artículo 54 de esta Ley; por lo tanto, en ningún caso, el procedimiento administrativo podrá sobreseerse en virtud de que el interesado obtenga las autorizaciones y clasificaciones correspondientes durante su tramitación, por lo que la autoridad deberá dictar la resolución definitiva que en derecho corresponda, imponiendo las sanciones que resulten procedentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REUBICADO [N. DE E. ANTES CAPITULO X], D.O.F. 28 DE ABRIL DE 2010)
+
+### CAPITULO XII. De las sanciones
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1999) (REUBICADO [N. DE E. ANTES ARTICULO 43], D.O.F. 28 DE ABRIL DE 2010)
+
+###### ARTICULO 52.
+
+La facultad de imponer las sanciones establecidas en esta Ley compete a la Secretaría de Educación Pública y a la Secretaría de Gobernación, sin perjuicio de aquellas que corresponda imponer a las demás dependencias de la Administración Pública Federal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 44], D.O.F. 28 DE ABRIL DE 2010)</small>
+
+###### ARTICULO 53.
+
+Los infractores de los artículos 27, 39 y 40 de la presente Ley, serán sancionados por la Secretaría de Educación Pública, según la gravedad de la falta, la intención o dolo existente, con las sanciones siguientes:
+
+I. Amonestación con apercibimiento, y
+
+II. Multa de quinientos a cinco mil veces el salario mínimo general diario vigente en el Distrito Federal a la fecha en que se cometa la infracción.
+
+En caso de reincidencia, se podrá imponer multa hasta por el doble del monto superior marcado en la fracción II.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 45], D.O.F. 28 DE ABRIL DE 2010)</small>
+
+###### ARTICULO 54.
+
+La Secretaría de Gobernación impondrá a los infractores de los artículos 8o., 17, 19, segundo párrafo, 21, 22, 23, 24 y 25 de la presente Ley, atendiendo a los daños que se hubieren producido o puedan producirse; el carácter intencional o no de la acción u omisión constitutiva de la infracción; la gravedad de ésta y la reincidencia, una o más de las siguientes sanciones:
+
+I. Amonestación con apercibimiento;
+
+II. Clausura temporal o definitiva de los espacios o locales;
+
+III. Multa de quinientos a cinco mil veces el salario mínimo general diario vigente en el Distrito Federal a la fecha en que se cometa la infracción;
+
+IV. Multa de cinco mil a quince mil veces el salario mínimo general diario vigente en el Distrito Federal a la fecha en que se cometa la infracción, a quienes infrinjan los artículos 8o., 17, 19 segundo párrafo, 22 y 23 de esta Ley, y
+
+V. Retiro de las películas que se exhiban públicamente o se comercialicen en cualquier forma o medio, sin la autorización a que se refiere el artículo 24 de esta Ley.
+
+En caso de reincidencia, se podrá imponer multa hasta por el doble del monto superior correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
+
+###### ARTICULO 55.
+
+Para ejecutar una resolución firme que imponga como sanción el retiro de películas, cuando las medidas de aseguramiento dictadas previamente fuesen las previstas en las fracciones I y II del artículo 47 de esta Ley, la autoridad competente deberá observar, en lo que resulte aplicable, el procedimiento establecido para la retención provisional.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
+
+###### ARTICULO 56.
+
+Las películas retiradas con motivo de la sanción impuesta, serán clasificadas por la autoridad competente y permanecerán en las oficinas que ocupa la Dirección General de Radio, Televisión y Cinematografía.
+
+Los representantes de instituciones de educación pública del país, que acrediten fehacientemente tal carácter ante la Dirección General antes mencionada, podrán solicitar la donación de ejemplares de películas, para ser empleados únicamente con fines educativos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1999) (REUBICADO [N. DE E. ANTES ARTICULO 46], D.O.F. 28 DE ABRIL DE 2010)
+
+###### ARTICULO 57.
+
+Las sanciones a que se refiere la presente Ley se aplicarán conforme a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 47], D.O.F. 28 DE ABRIL DE 2010)</small>
+
+###### ARTICULO 58.
+
+Los afectados por las resoluciones dictadas en esta materia, podrán interponer el recurso de revisión dentro de un plazo de quince días hábiles siguientes a la fecha de su notificación, el que se resolverá en los términos de la Ley Federal de Procedimiento Administrativo.
 
 ## TRANSITORIOS
 
@@ -559,3 +683,7 @@ D.O.F. 30 DE DICIEMBRE DE 2002.
 D.O.F. 26 DE ENERO DE 2006.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE ABRIL DE 2010.
+
+Artículo Único. El presente decreto entrará en vigor sesenta días después de su publicación en el Diario Oficial de la Federación.
