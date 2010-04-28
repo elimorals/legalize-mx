@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-las-comisiones-del-consejo-general-del-67668"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-18"
-last_updated: "2009-02-18"
+last_updated: "2010-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO DE ELECCIONES Y PARTICIPACION CIUDADANA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 18 de febrero de 2009.
 
@@ -203,9 +203,17 @@ d) Informática;
 
 e) Reglamentos;
 
-f) Registro de Electores; y
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2010)</small>
 
-g) Las demás que el Consejo General considere necesarias en términos del párrafo primero del artículo 145 del Código.
+f) Registro de Electores;
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2010)</small>
+
+g) Programa de Resultados Electorales Preliminares; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE ABRIL DE 2010)</small>
+
+h) Las demás que el Consejo General considere necesarias en términos del párrafo primero del artículo 145 del Código.
 
 ###### Artículo 18.
 
@@ -286,6 +294,30 @@ a) La supervisión de los programas relativos al registro de electores;
 b) Formular las recomendaciones que estime necesarias en materia de reseccionamiento, cartografía electoral, catálogo general de electores, inscripción de ciudadanos en el padrón electoral, lista nominal con imagen, depuración del padrón, procedimiento técnico censal, credencial para votar con fotografía y cualquier otra tendente a mejorar procedimientos relacionados con el registro de electores que impacten en los procesos electorales locales; y
 
 c) Las demás que le confiera el Código, el Consejo General, este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2010)</small>
+
+###### Artículo 23 Bis.
+
+La Comisión especial del Programa de Resultados Electorales Preliminares funcionará únicamente durante los procesos electorales locales y tendrá las atribuciones siguientes:
+
+a) Contribuir al cumplimiento de la atribución del Consejo General señalada en la fracción XXVIII del artículo 147 del Código de Elecciones y Participación Ciudadana, consistente en instalar un sistema electrónico de información para recibir y divulgar los resultados preliminares de las elecciones.
+
+b) Fungir como enlace entre el Consejo General y la empresa responsable de la implementación y ejecución del Programa de Resultados Electorales Preliminares;
+
+c) Dar seguimiento al programa de resultados electorales preliminares que se implementa para recibir y divulgar los resultados que en forma preliminar se den el día de la jornada electoral;
+
+d) Vigilar el adecuado funcionamiento del programa de resultados electorales preliminares;
+
+e) Evaluar y revisar periódicamente el avance de las acciones necesarias para la implementación del programa de resultados electorales preliminares de acuerdo al plan de trabajo propuesto por la empresa responsable;
+
+f) Formular al Consejo General, las recomendaciones que estime necesarias con relación a la implementación de dicho programa;
+
+g) Las demás que le confiera el Código, el Consejo General, este precepto y otras disposiciones legales aplicables.
+
+El titular de la Dirección Ejecutiva de Organización Electoral fungirá como Secretario Técnico de la Comisión Especial del Programa de Resultados Electorales Preliminares en las sesiones que al respecto se celebren, debiendo coordinarse permanente con la Comisión para coadyuvar en el cumplimiento de las atribuciones de ésta.
+
+El titular de la Unidad Técnica de Informática deberá proporcionar a la Comisión el apoyo necesario para el mejor desarrollo de sus atribuciones. La comisión podrá contar además con el auxilio de las áreas del Instituto que considere pertinentes.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LOS PRESIDENTES Y DE LOS SECRETARIOS TÉCNICOS DE LAS COMISIONES
 
@@ -450,3 +482,17 @@ Certifico y Hago Constar
 Que las presentes copias fotostáticas, constantes de cinco fojas útiles, relativas al Acuerdo del Consejo General del Instituto de Elecciones y Participación Ciudadana, por el que se expide el Reglamento de las Comisiones del Consejo General de este organismo electoral, coincide fiel y exactamente con el original que tuve a la vista y que obra en los archivos del Consejo General de este organismo electoral.
 
 Lo que se hace constar para los efectos legales a que haya lugar, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 13 trece días del mes de febrero del año 2009, dos mil nueve. Doy fe.- Rúbrica.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 28 DE ABRIL DE 2010.
+
+...
+
+SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR A PARTIR DE SU APROBACIÓN.
+
+TERCERO.- EN TÉRMINOS DE LO DISPUESTO POR LOS ARTÍCULOS 391 Y 395 DEL CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, NOTIFÍQUESE EL CONTENIDO DEL PRESENTE ACUERDO A LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS ACREDITADOS ANTE EL CONSEJO GENERAL DE ESTE ORGANISMO ELECTORAL.
+
+CUARTO.- NOTIFÍQUESE ESTE ACUERDO A LA DIRECCIÓN EJECUTIVA DE ORGANIZACIÓN ELECTORAL, A LA UNIDAD TÉCNICA DE INFORMÁTICA Y A LA EMPRESA RESPONSABLE DE IMPLEMENTAR EL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES, PARA LOS EFECTOS A QUE HAYA LUGAR EN EL ÁMBITO DE SUS RESPECTIVAS COMPETENCIAS.
+
+QUINTO.- PUBLÍQUESE EN EL PERIÓDICO OFICIAL DEL ESTADO.
