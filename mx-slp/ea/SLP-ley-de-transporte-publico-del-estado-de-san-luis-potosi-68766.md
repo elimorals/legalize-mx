@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2009-04-23"
+last_updated: "2010-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -649,9 +649,11 @@ V. Justificación de su solicitud con estudio técnico.
 
 Tratándose de ampliación de ruta o rutas, los interesados deberán cumplir con los requisitos que establecen los artículos 38 y 39 de este Ordenamiento y, en igualdad de circunstancias, tendrán prioridad los titulares de las mismas. La Secretaría, por si, o a través de la Dirección General competente, con acuerdo del titular del Ejecutivo y según corresponda, previo análisis y recomendación del ayuntamiento respectivo, autorizará, en su caso, la ampliación, conforme al estudio técnico que al efecto realice; y propondrá la convocatoria para concurso de concesiones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2010)</small>
+
 ###### ARTICULO 44.
 
-Para el acceso de las personas con discapacidad al transporte público colectivo, se adoptarán las medidas necesarias de adecuación consistentes en rampas o mecanismos especiales, las que deberán cumplir con las disposiciones reglamentarias que para tal efecto emita el titular del Ejecutivo.
+Para el acceso de las personas con discapacidad al transporte público colectivo, se adoptarán las medidas necesarias de adecuación consistentes en rampas, elevadores y mecanismos especiales, las que deberán cumplir con las disposiciones reglamentarias que para tal efecto emita el titular del Ejecutivo.
 
 El Ejecutivo del Estado al otorgar, refrendar o modificar las concesiones para la prestación del servicio público de transporte colectivo, observará que en cada ruta las unidades correspondientes a la misma, reúnan las especificaciones señaladas en el párrafo anterior.
 
@@ -1836,3 +1838,11 @@ El Secretario General de Gobierno
 Lic. Héctor Vega Robles
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE ABRIL DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
