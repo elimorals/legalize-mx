@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-del-equilibrio-ecologico-y-la-1806
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-29"
-last_updated: "2000-11-29"
+last_updated: "2010-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18067&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-11-22"
 
 REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE AUDITORIA AMBIENTAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE AUTORREGULACION Y AUDITORIAS AMBIENTALES, PUBLICADO EN EL D.O.F. DE 29 DE ABRIL DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 29 de noviembre de 2000.
 
@@ -480,3 +482,27 @@ El comité de evaluación a que se refiere el artículo 38 de este Reglamento y 
 Cuarto.- Los certificados como industria limpia expedidos con anterioridad a la entrada en vigor del presente Reglamento continuarán vigentes hasta la fecha indicada en los mismos y podrán ser prorrogados en los términos de este ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de noviembre de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- La Secretaria de Medio Ambiente, Recursos Naturales y Pesca, Julia Carabias Lila.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 29 DE ABRIL DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor a los sesenta días hábiles siguientes a su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Auditoría Ambiental, publicado el 29 de noviembre del año 2000 en el Diario Oficial de la Federación.
+
+TERCERO.- Todas aquellas auditorías y renovaciones que se encuentren en desarrollo a la entrada en vigor del presente Reglamento, se concluirán en los términos del anterior Reglamento de la Ley General del Equilibrio Ecológico y Protección al Ambiente en materia de Auditoría Ambiental.
+
+CUARTO.- Todos aquellos Certificados y reconocimientos que a la entrada en vigor del presente Reglamento hayan sido expedidos por la Procuraduría, conservarán la vigencia señalada en los mismos hasta que les corresponda renovar su Certificado.
+
+QUINTO.- Todas aquellas solicitudes de aprobaciones de unidades de verificación en materia de Auditoría Ambiental que a la entrada en vigor del presente Reglamento se encuentren en curso, serán resueltas conforme lo establece la Convocatoria publicada el 22 de marzo del 2002 en el Diario Oficial de la Federación.
+
+SEXTO.- Todas aquellas aprobaciones de unidades de verificación en materia de Auditoría Ambiental que a la entrada en vigor del presente Reglamento hayan sido expedidas conservarán su vigencia en los términos en los cuales fueron expedidas.
+
+SÉPTIMO.- Los Términos de Referencia a que se hace referencia en el artículo 8 del presente Reglamento se deberán publicar en un término máximo de ciento ochenta días hábiles, mientras tanto se aplicarán los Términos de Referencia vigentes y su cumplimiento tendrá los efectos de validez para el presente Reglamento.
+
+OCTAVO.- Los formatos de solicitud para la obtención de un certificado, plan de acción, solicitud de renovación del certificado, formato de indicadores de Desempeño Ambiental, formato de modificación del calendario de Plan de Acción, solicitud de aprobación-renovación del auditor ambiental y solicitud de modificación de aprobación del Auditor Ambiental, se publicarán en el Diario Oficial de la Federación en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto. La versión electrónica de los formatos se publicará en la página de Internet de la Procuraduría en el mismo plazo.
+
+NOVENO.- La Procuraduría publicará en su página de Internet el Manual de Uso del Certificado y del Sello a que se refiere el artículo 30 del presente Reglamento en un plazo no mayor a ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+DÉCIMO.- La Secretaría conjuntamente con la entidad de acreditación, dentro de los noventa días naturales siguientes a la entrada en vigor del presente instrumento publicará en el Diario Oficial de la Federación, la convocatoria para la acreditación y aprobación de Auditores Ambientales.
