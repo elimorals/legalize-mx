@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-servicio-de-administracion-57210"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-22"
-last_updated: "2007-10-22"
+last_updated: "2010-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57210&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-10-17"
 
 REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACION TRIBUTARIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ABRIL DE 2010.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 22 de octubre de 2007.
 
@@ -45,187 +45,195 @@ Se expide el Reglamento Interior del Servicio de Administración Tributaria, par
 
 El Servicio de Administración Tributaria, como órgano desconcentrado de la Secretaría de Hacienda y Crédito Público, tiene a su cargo el ejercicio de las facultades y el despacho de los asuntos que le encomiendan la Ley del Servicio de Administración Tributaria y los distintos ordenamientos legales aplicables, así como los reglamentos, decretos, acuerdos y órdenes del Presidente de la República y los programas especiales y asuntos que el Secretario de Hacienda y Crédito Público le encomiende ejecutar y coordinar en las materias de su competencia.
 
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
+
 ###### Artículo 2.
 
 Para el despacho de los asuntos de su competencia, el Servicio de Administración Tributaria contará con las siguientes unidades administrativas:
 
-Jefatura.
+A. Jefatura.
 
-Unidades Administrativas Centrales:
+B. Unidades Administrativas Centrales:
 
-Administración General de Aduanas:
+I.- Administración General de Aduanas:
 
-Administración Central de Operación Aduanera.
+a) Administración Central de Operación Aduanera.
 
-Administración Central de Regulación Aduanera.
+b) Administración Central de Regulación Aduanera.
 
-Administración Central de Planeación Aduanera.
+c) Administración Central de Planeación Aduanera.
 
-Administración Central de Contabilidad y Glosa.
+d) Administración Central de Contabilidad y Glosa.
 
-Administración Central de Investigación Aduanera.
+e) Administración Central de Investigación Aduanera.
 
-Administración Central de Inspección Fiscal y Aduanera.
+f) Administración Central de Inspección Fiscal y Aduanera.
 
-Administración Central de Asuntos Internacionales.
+g) Administración Central de Asuntos Internacionales.
 
-Administración General de Servicios al Contribuyente:
+h) Administración Central de Competencias y Modernización Aduanera.
 
-Administración Central de Servicios Tributarios al Contribuyente.
+II.- Administración General de Servicios al Contribuyente:
 
-Administración Central de Promoción y Vigilancia del Cumplimiento.
+a) Administración Central de Servicios Tributarios al Contribuyente.
 
-Administración Central de Operación de Canales de Servicios.
+b) Administración Central de Promoción y Vigilancia del Cumplimiento.
 
-Administración Central de Gestión de Calidad.
+c) Administración Central de Operación de Canales de Servicios.
 
-Administración Central de Identificación del Contribuyente.
+d) Administración Central de Gestión de Calidad.
 
-Administración Central de Cuenta Tributaria y Contabilidad de Ingresos.
+e) Administración Central de Identificación del Contribuyente.
 
-Coordinación Nacional de Administraciones Locales de Servicios al Contribuyente.
+f) Administración Central de Cuenta Tributaria y Contabilidad de Ingresos.
 
-Administración General de Auditoría Fiscal Federal:
+g) Coordinación Nacional de Administraciones Locales de Servicios al Contribuyente.
 
-Administración Central de Operación de la Fiscalización Nacional.
+III.- Administración General de Auditoría Fiscal Federal:
 
-Administración Central de Análisis Técnico Fiscal.
+a) Administración Central de Operación de la Fiscalización Nacional.
 
-Administración Central de Planeación y Programación de Auditoría Fiscal Federal.
+b) Administración Central de Análisis Técnico Fiscal.
 
-Administración Central de Verificación y Evaluación de Entidades Federativas en Materia de Coordinación Fiscal.
+c) Administración Central de Planeación y Programación de Auditoría Fiscal Federal.
 
-Administración Central de Fiscalización Estratégica.
+d) Administración Central de Verificación y Evaluación de Entidades Federativas en Materia de Coordinación Fiscal.
 
-Administración Central de Comercio Exterior.
+e) Administración Central de Fiscalización Estratégica.
 
-Administración Central de Normatividad de Auditoría Fiscal Federal.
+f) Administración Central de Comercio Exterior.
 
-Administración Central de Devoluciones y Compensaciones.
+g) Administración Central de Normatividad de Auditoría Fiscal Federal.
 
-Administración General de Grandes Contribuyentes:
+h) Administración Central de Devoluciones y Compensaciones.
 
-Administración Central de Planeación y Programación de Fiscalización a Grandes Contribuyentes.
+IV.- Administración General de Grandes Contribuyentes:
 
-Administración Central de Normatividad de Grandes Contribuyentes.
+a) Administración Central de Planeación y Programación de Fiscalización a Grandes Contribuyentes.
 
-Administración Central de Normatividad Internacional.
+b) Administración Central de Normatividad de Grandes Contribuyentes.
 
-Administración Central de lo Contencioso de Grandes Contribuyentes.
+c) Administración Central de Normatividad Internacional.
 
-Administración Central de Fiscalización a Empresas que Consolidan Fiscalmente.
+d) Administración Central de lo Contencioso de Grandes Contribuyentes.
 
-Administración Central de Fiscalización al Sector Financiero.
+e) Administración Central de Fiscalización a Empresas que Consolidan Fiscalmente.
 
-Administración Central de Fiscalización Internacional.
+f) Administración Central de Fiscalización al Sector Financiero.
 
-Administración Central de Fiscalización de Precios de Transferencia.
+g) Administración Central de Fiscalización Internacional.
 
-Administración Central de Fiscalización a Grandes Contribuyentes Diversos.
+h) Administración Central de Fiscalización de Precios de Transferencia.
 
-Administración Central de Fiscalización de Comercio Exterior.
+i) Administración Central de Fiscalización a Grandes Contribuyentes Diversos.
 
-Administración General Jurídica:
+j) Administración Central de Fiscalización de Comercio Exterior.
 
-Administración Central de Amparo e Instancias Judiciales.
+V.- Administración General Jurídica:
 
-Administración Central de lo Contencioso.
+a) Administración Central de Amparo e Instancias Judiciales.
 
-Administración Central de Operación de Jurídica.
+b) Administración Central de lo Contencioso.
 
-Administración Central de Normatividad de Impuestos Internos.
+c) Administración Central de Operación de Jurídica.
 
-Administración Central de Normatividad de Comercio Exterior y Aduanal.
+d) Administración Central de Normatividad de Impuestos Internos.
 
-Administración Central de Asuntos Penales y Especiales.
+e) Administración Central de Normatividad de Comercio Exterior y Aduanal.
 
-Administración General de Recaudación:
+f) Administración Central de Asuntos Penales y Especiales.
 
-Administración Central de Cobro Coactivo.
+VI.- Administración General de Recaudación:
 
-Administración Central de Cobro Persuasivo y Garantías.
+a) Administración Central de Cobro Coactivo.
 
-Administración Central de Planeación y Estrategias de Cobro.
+b) Administración Central de Cobro Persuasivo y Garantías.
 
-Administración Central de Notificación.
+c) Administración Central de Planeación y Estrategias de Cobro.
 
-Administración Central de Programas Operativos con Entidades Federativas.
+d) Administración Central de Notificación.
 
-Coordinación de Apoyo Operativo de Recaudación.
+e) Administración Central de Programas Operativos con Entidades Federativas.
 
-Administración General de Recursos y Servicios:
+f) Coordinación de Apoyo Operativo de Recaudación.
 
-Administración Central de Recursos Financieros.
+VII.- Administración General de Recursos y Servicios:
 
-Administración Central de Capital Humano.
+a) Administración Central de Recursos Financieros.
 
-Administración Central de Recursos Materiales.
+b) Administración Central de Capital Humano.
 
-Administración Central de Apoyo Jurídico.
+c) Administración Central de Recursos Materiales.
 
-Administración Central de Capacitación Fiscal.
+d) Administración Central de Apoyo Jurídico.
 
-Administración Central de Operación de Recursos y Servicios.
+e) Administración Central de Capacitación Fiscal.
 
-Administración Central de Destino de Bienes.
+f) Administración Central de Operación de Recursos y Servicios.
 
-Administración General de Comunicaciones y Tecnologías de la Información:
+g) Administración Central de Destino de Bienes.
 
-Administración Central de Planeación y Programación Informática.
+h) Administración Central de Fideicomisos.
 
-Administración Central de Operación y Servicios Tecnológicos.
+VIII.- Administración General de Comunicaciones y Tecnologías de la Información:
 
-Administración Central de Servicios de Información.
+a) Administración Central de Planeación y Programación Informática.
 
-Administración Central de Transformación Tecnológica.
+b) Administración Central de Operación y Servicios Tecnológicos.
 
-Administración Central de Desarrollo y Mantenimiento de Aplicaciones.
+c) Administración Central de Servicios de Información.
 
-Administración Central de Seguridad, Monitoreo y Control.
+d) Administración Central de Transformación Tecnológica.
 
-Administración General de Evaluación:
+e) Administración Central de Desarrollo y Mantenimiento de Aplicaciones.
 
-Administración Central de Coordinación Evaluatoria.
+f) Administración Central de Seguridad, Monitoreo y Control.
 
-Administración Central de Análisis y Evaluación.
+IX.- Administración General de Evaluación:
 
-Administración Central de Evaluación de la Confiabilidad.
+a) Administración Central de Coordinación Evaluatoria.
 
-Administración Central de Evaluación de Comercio Exterior y Aduanal.
+b) Administración Central de Análisis y Evaluación.
 
-Administración Central de Evaluación de Impuestos Internos.
+c) Administración Central de Evaluación de la Confiabilidad.
 
-Administración Central de Evaluación de Seguimiento.
+d) Administración Central de Evaluación de Comercio Exterior y Aduanal.
 
-Administración General de Planeación:
+e) Administración Central de Evaluación de Impuestos Internos.
 
-Administración Central de Desarrollo de Modelos.
+f) Administración Central de Evaluación de Seguimiento.
 
-Administración Central de Inteligencia Tributaria de Impuestos Internos.
+g) Administración Central de Control y Seguridad Institucional.
 
-Administración Central de Planeación y Evaluación de la Gestión.
+h) Coordinaciones de Evaluación “1”, “2”, “3”, “4”, “5”, “6”, “7”, “8” y “9”.
 
-Administración Central del Centro de Competencias.
+X.- Administración General de Planeación:
 
-Administración Central de Inteligencia Tributaria de Comercio Exterior.
+a) Administración Central de Desarrollo de Modelos.
 
-Administración Central de Comunicación Institucional.
+b) Administración Central de Inteligencia Tributaria de Impuestos Internos.
 
-Unidades Administrativas Regionales:
+c) Administración Central de Planeación y Evaluación de la Gestión.
 
-Administraciones Regionales.
+d) Administración Central del Centro de Competencias.
 
-Administraciones Locales.
+e) Administración Central de Inteligencia Tributaria de Comercio Exterior.
 
-Aduanas.
+f) Administración Central de Comunicación Institucional.
+
+C. Unidades Administrativas Regionales:
+
+I.- Administraciones Regionales.
+
+II.- Administraciones Locales.
+
+III.- Aduanas.
 
 El Servicio de Administración Tributaria contará con un Órgano Interno de Control que se regirá conforme al artículo 39 de este Reglamento.
 
-Las Administraciones Generales estarán integradas por sus titulares y por Administradores Centrales, Coordinadores, Administradores, Subadministradores, Jefes de Departamento, Enlaces, Supervisores, Auditores, Ayudantes de Auditor, Inspectores, Abogados Tributarios, Ejecutores, Notificadores, Verificadores, personal al servicio de la Administración Central de Inspección Fiscal y Aduanera y por los demás servidores públicos que señala este Reglamento, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+Las Administraciones Generales estarán integradas por sus titulares y por Administradores Centrales, Coordinadores, Administradores, Subadministradores, Jefes de Departamento, Enlaces, Supervisores, Auditores, Ayudantes de Auditor, Inspectores, Abogados Tributarios, Ejecutores, Notificadores, Verificadores, Oficiales de Comercio Exterior, personal al servicio de la Administración Central de Inspección Fiscal y Aduanera y por los demás servidores públicos que señala este Reglamento, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
-En cada circunscripción territorial, el Administrador General de Comunicaciones y Tecnologías de la Información designará a un servidor público quien, con el equipo de trabajo necesario, coordinará la implementación de los sistemas, métodos, procedimientos, medidas y proyectos de la competencia de la citada Administración General.
-
-La Administración General de Evaluación contará con nueve Coordinaciones de Evaluación, una por cada Administración General, al frente de la cual habrá un Coordinador, para ejercer respecto de la Administración General que le corresponda las facultades previstas en el artículo 32, fracciones II, III, VIII, XX y XXI de este Reglamento.
+En cada circunscripción territorial, el Administrador General de Comunicaciones y Tecnologías de la Información designará, conforme a las disposiciones jurídicas aplicables, a un servidor público quien, con el equipo de trabajo necesario, coordinará la instrumentación de los sistemas, métodos, procedimientos, medidas y proyectos de la competencia de la citada Administración General.
 
 ###### Artículo 3.
 
@@ -235,7 +243,9 @@ I.- Nombrar y remover a los servidores públicos que conforman el Servicio de Ad
 
 II.- Autorizar a servidores públicos del Servicio de Administración Tributaria para que realicen actos y suscriban documentos específicos, siempre y cuando no formen parte del ejercicio de sus facultades indelegables.
 
-III.- Evaluar el funcionamiento de las unidades administrativas que conforman el Servicio de Administración Tributaria y, en su caso, expedir o instruir la expedición de los lineamientos para el análisis, control y evaluación en los procedimientos respectivos.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+III.- Evaluar el funcionamiento de las unidades administrativas que conforman el Servicio de Administración Tributaria y, en su caso, expedir o instruir la expedición de los lineamientos para el análisis, control y evaluación de los procedimientos respectivos, incluyendo los relacionados con la integración y operación del Comité de Interventorías Internas de dicho órgano desconcentrado.
 
 IV.- Coordinar la administración de los recursos humanos, financieros y materiales asignados a las unidades administrativas que conforman el Servicio de Administración Tributaria.
 
@@ -243,7 +253,9 @@ V.- Dirigir y coordinar el proceso de Planeación Estratégica del Servicio de A
 
 VI.- Celebrar acuerdos que no requieran autorización de la Junta de Gobierno.
 
-VII.- Recibir en acuerdo a los titulares de las unidades administrativas del Servicio de Administración Tributaria y resolver los asuntos que sean competencia de las mismas.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+VII.- Recibir en acuerdo a los titulares de las unidades administrativas del Servicio de Administración Tributaria.
 
 VIII.- Representar legalmente al Servicio de Administración Tributaria, tanto en su carácter de autoridad fiscal, como de órgano desconcentrado, así como a los órganos que lo conforman, con la suma de facultades generales y especiales que, en su caso, requiera conforme a la legislación aplicable.
 
@@ -269,7 +281,17 @@ XVIII.- Representar al Secretario de Hacienda y Crédito Público en controversi
 
 XIX.- Coordinar la integración del programa anual de mejora continua.
 
-XX.- Aquellas que le confiere el artículo 14 de la Ley del Servicio de Administración Tributaria o cualquier otra disposición jurídica.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XX.- Emitir los lineamientos para la integración y funcionamiento del Comité de Impuestos Internos y del de Aduanas y Comercio Exterior, así como los procedimientos para el análisis y discusión de políticas operativas y administrativas en las materias de la competencia de cada uno de ellos y para la emisión por parte de los citados órganos colegiados de las recomendaciones que procedan a las unidades administrativas del referido órgano desconcentrado; presidir dichos comités, y nombrar a su suplente en los mismos.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXI.- Constituir las instancias de consulta y los comités especializados a que se refiere el artículo 19 de la Ley del Servicio de Administración Tributaria, expedir los lineamientos de funcionamiento de los mismos y presidir los referidos comités.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXII.- Aquellas que le confiere el artículo 14 de la Ley del Servicio de Administración Tributaria o cualquier otra disposición jurídica.
 
 La administración, representación, dirección, supervisión y coordinación de las unidades administrativas, así como de los servidores públicos del Servicio de Administración Tributaria, recaerán directamente en el Jefe de dicho órgano desconcentrado.
 
@@ -277,15 +299,17 @@ La máxima autoridad administrativa del Servicio de Administración Tributaria r
 
 Los titulares de las unidades administrativas del Servicio de Administración Tributaria podrán seguir ejerciendo las facultades que les correspondan conforme a este Reglamento, sin perjuicio de las facultades que sean delegadas en términos del párrafo anterior.
 
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
+
 ###### Artículo 4.
 
-El Jefe del Servicio de Administración Tributaria no podrá delegar las facultades conferidas en las fracciones II, III, IV, VII, IX, XI, XII y XVII del artículo anterior.
+El Jefe del Servicio de Administración Tributaria no podrá delegar las facultades conferidas en las fracciones II, VII, IX, XI, XII y XVII del artículo anterior.
 
 ###### Artículo 5.
 
 El Jefe del Servicio de Administración Tributaria propondrá para aprobación de la Junta de Gobierno:
 
-I.- El informe del presupuesto correspondiente al ejercicio que se reporte, así como el relativo a la actividad recaudadora del ejercicio inmediato anterior, además del reporte de los programas a ejecutar por el Servicio de Administración Tributaria que se presenten al Congreso de la Unión, conforme a lo establecido en el último párrafo del artículo 14 de la Ley del Servicio de Administración Tributaria.
+I.- (DEROGADA, D.O.F. 29 DE ABRIL DE 2010)
 
 II.- La política operativa, normativa y funcional, así como los programas que deben seguir las unidades administrativas del Servicio de Administración Tributaria.
 
@@ -319,15 +343,19 @@ La Comisión del Servicio Fiscal de Carrera a que se refiere el artículo 18 de 
 
 ### Capítulo II. De las Suplencias
 
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
+
 ###### Artículo 8.
 
-El Jefe del Servicio de Administración Tributaria será suplido en sus ausencias por los Administradores Generales de Grandes Contribuyentes, Jurídico, de Recaudación, de Auditoría Fiscal Federal, de Aduanas o de Servicios al Contribuyente; por el Administrador Central de Amparo e Instancias Judiciales o el Administrador Central de lo Contencioso, en el orden indicado.
+El Jefe del Servicio de Administración Tributaria será suplido en sus ausencias por los Administradores Generales de Grandes Contribuyentes, Jurídico, de Recaudación, de Auditoría Fiscal Federal, de Aduanas o de Servicios al Contribuyente, por el Administrador Central de Amparo e Instancias Judiciales, por el Administrador Central de lo Contencioso o por el Administrador Central de lo Contencioso de Grandes Contribuyentes, en el orden indicado.
 
-Los Administradores Generales serán suplidos por los Administradores Centrales adscritos a su respectiva Administración General, en el orden en el que se enumeran en el artículo 2 de este Reglamento.
+El Jefe del Servicio de Administración Tributaria será suplido en sus ausencias por los Administradores Locales Jurídicos exclusivamente para interponer ante los Tribunales Colegiados de Circuito los recursos de revisión a que se refiere el artículo 63 de la Ley Federal de Procedimiento Contencioso Administrativo en contra de las sentencias emitidas por el Pleno, Sección o Salas Regionales del Tribunal Federal de Justicia Fiscal y Administrativa que se dicten en los juicios contenciosos administrativos.
 
-Los Administradores Centrales serán suplidos por los Coordinadores o Administradores que de ellos dependan, en el orden que se establece para cada Administración Central en los artículos 11, 14, 17, 20, 22, 25, 28, 32 y 35 de este Reglamento.
+Los Administradores Generales serán suplidos por los Administradores Centrales y Coordinadores adscritos a su respectiva Administración General, en el orden en el que se enumeran en el artículo 2 de este Reglamento.
 
-Los Administradores Locales y Regionales y los Coordinadores serán suplidos por los Administradores o Subadministradores que de ellos dependan, en el orden en que se mencionan en este Reglamento.
+Los Administradores Centrales serán suplidos por los Administradores o Coordinadores que de ellos dependan, en el orden que se establece para cada Administración Central en los artículos 11, 14, 17, 20, 22, 25, 28, 32 y 35 de este Reglamento.
+
+Los Administradores Regionales y Locales y los Coordinadores serán suplidos por los Administradores o Subadministradores que de ellos dependan, en el orden en que se mencionan en este Reglamento.
 
 Los Administradores de las Aduanas serán suplidos indistintamente por los Subadministradores, Jefes de Sección, Jefes de Sala o Jefes de Departamento adscritos a ellas.
 
@@ -347,11 +375,15 @@ I.- Establecer los programas de actividades, lineamientos, directrices y procedi
 
 II.- Acordar y resolver los asuntos de la competencia de las unidades administrativas a su cargo, así como conceder audiencia al público.
 
-III.- Nombrar, designar, remover, cambiar de adscripción o radicación, comisionar, reasignar o trasladar y demás acciones previstas en los ordenamientos aplicables, a los servidores públicos, verificadores, notificadores y ejecutores que conforman las unidades administrativas a su cargo.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+III.- Nombrar, designar, remover, cambiar de adscripción o radicación, comisionar, reasignar o trasladar y demás acciones previstas en los ordenamientos aplicables, y conforme a los mismos, a los servidores públicos, verificadores, notificadores y ejecutores que conforman las unidades administrativas a su cargo.
 
 IV.- Coordinarse con las demás unidades administrativas del Servicio de Administración Tributaria para la integración y el seguimiento del programa anual de mejora continua, así como para el mejor despacho de los asuntos de su competencia.
 
-V.- Certificar copias, impresiones o reproducciones que deriven del microfilm, disco óptico, medios magnéticos, digitales, electrónicos o magneto ópticos de documentos que tengan en su poder u obren en sus archivos; expedir certificaciones de hechos, documentos y expedientes relativos a los asuntos de su competencia; expedir las constancias que se deban enviar a las autoridades fiscales de los países con los que se tengan celebrados convenios o tratados en materia fiscal o aduanera y, en su caso, solicitar previamente su legalización o apostillamiento, así como llevar a cabo la compulsa de documentos públicos o privados, en términos del artículo 63 del Código Fiscal de la Federación.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+V.- Certificar copias de documentos que tengan en su poder u obren en sus archivos, incluso impresiones o reproducciones que deriven del microfilm, disco óptico, medios magnéticos, digitales, electrónicos o magneto ópticos; certificar hechos, documentos y expedientes relativos a los asuntos de su competencia; expedir las constancias que se deban enviar a las autoridades fiscales de los países con los que se tengan celebrados convenios o tratados en materia fiscal o aduanera y, en su caso, solicitar previamente su legalización o apostillamiento, así como llevar a cabo la compulsa de documentos públicos o privados, en términos del artículo 63 del Código Fiscal de la Federación.
 
 VI.- Supervisar y evaluar el cumplimiento de los programas de actividades, lineamientos, directrices y procedimientos de las áreas que integran las unidades administrativas a su cargo, en las materias de su competencia.
 
@@ -439,25 +471,49 @@ XLVII.- Llevar a cabo las acciones que correspondan para dar cumplimiento a sent
 
 XLVIII.- Revocar sus propias resoluciones cuando se hayan emitido en contravención a las disposiciones fiscales, siempre que la resolución no se encuentre firme, hubiere sido impugnada ante el Tribunal Federal de Justicia Fiscal y Administrativa, y medie solicitud de la unidad administrativa encargada de la defensa jurídica en los términos del artículo 22 de la Ley Federal de Procedimiento Contencioso Administrativo.
 
-XLIX.- Las demás facultades que en el ámbito de sus respectivas competencias atribuyan al Servicio de Administración Tributaria las leyes, reglamentos y demás disposiciones aplicables o que les confiera el Jefe del Servicio de Administración Tributaria.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XLIX.- Proponer, diseñar, desarrollar, instrumentar, evaluar y actualizar, los modelos de riesgo tributarios y aduaneros, de conformidad con los lineamientos que emita la Administración General de Planeación, excepto los relativos al combate a la corrupción.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+L.- Proporcionar a las instancias competentes en materia de seguridad nacional la información y la documentación que se requiera, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LI.- Dar a conocer a los servidores públicos adscritos a las unidades administrativas a su cargo, los manuales de procedimientos, de operación, de organización general y específicos, los de servicio al público, así como las disposiciones jurídicas e instrucciones que emitan las unidades administrativas competentes, que resulten aplicables en el desempeño de las funciones que tengan conferidas.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LII.- Las demás facultades que en el ámbito de sus respectivas competencias atribuyan al Servicio de Administración Tributaria las leyes, reglamentos y demás disposiciones aplicables o que les confiera el Jefe del Servicio de Administración Tributaria.
 
 Las Administraciones Generales y las Administraciones Centrales que de ellas dependan, así como las Coordinaciones, las Administraciones y las Subministraciones que dependan de éstas, tendrán su sede en la Ciudad de México, Distrito Federal y ejercerán sus facultades en todo el territorio nacional, excepto la Administración Central de Capacitación Fiscal, la Administración Central de Operación y Servicios Tecnológicos, las Administraciones para el Destino de Bienes, así como las Administraciones de Operación de Recursos y Servicios y las Subadministraciones de Recursos y Servicios, cuyas sedes podrán ubicarse fuera de la Ciudad de México.
 
 Las unidades administrativas regionales tendrán la sede que se establece en el artículo 37 de este Reglamento y ejercerán su competencia dentro de la circunscripción territorial que al efecto se determine en el acuerdo correspondiente, con excepción de la facultad de notificar y la de verificación en materia de Registro Federal de Contribuyentes y de cualquier padrón contemplado en la legislación fiscal y aduanera, las cuales podrán ejercerse en todo el territorio nacional. Asimismo, dichas unidades podrán solicitar a otras unidades con circunscripción territorial distinta, iniciar, continuar o concluir cualquier procedimiento y, en su caso, realizar los actos jurídicos correspondientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE ABRIL DE 2010)</small>
+
 ###### Artículo 10.
 
-Los Administradores Centrales, Regionales, Locales y de las Aduanas, así como los Coordinadores, además de las facultades que les confiere este Reglamento, tendrán las siguientes:
+Los Administradores Centrales, Regionales, Locales y de las Aduanas; los Coordinadores, y los Administradores adscritos a las Unidades Administrativas Centrales, además de las facultades que les confiere este Reglamento, tendrán las siguientes:
 
-I.- Las señaladas en las fracciones II, IV, V, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVII, XXI, XXII, XXIV, XXVI, XXVII, XXX, XXXI, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL, XLI, XLIII, XLVII y XLVIII del artículo anterior.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+I.- Las señaladas en las fracciones II, IV, V, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVII, XXI, XXII, XXIV, XXVI, XXVII, XXX, XXXI, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL, XLI, XLIII, XLVII, XLVIII, XLIX, L y LI del artículo anterior de este Reglamento.
 
 II.- Proponer indicadores de gestión y desempeño que permitan determinar el nivel de productividad, cumplimiento de políticas y obtención de resultados de la unidad administrativa a su cargo.
 
 III.- Supervisar el cumplimiento de las disposiciones legales y administrativas y de los sistemas y procedimientos establecidos por las Administraciones Generales a las que se encuentren adscritos.
 
-IV.- Nombrar, remover o comisionar a los servidores públicos, verificadores, notificadores y ejecutores de las unidades administrativas a su cargo.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+IV.- Nombrar, remover o comisionar, conforme a los ordenamientos aplicables, a los servidores públicos, verificadores, notificadores y ejecutores de las unidades administrativas a su cargo.
 
 Además de las señaladas en las fracciones anteriores, los Administradores Centrales y los Coordinadores ejercerán las facultades contenidas en las fracciones XX, XXVIII, XXIX, XLV y XLVI del artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+Los Subadministradores, además de las facultades que les confiere este Reglamento, contarán con las señaladas en las fracciones II, IV, V, VIII, X, XI, XIII, XIV, XVI, XVII, XXVII, XXXI, XXXV, XXXVII, XXXVIII, XXXIX, XL, XLI y XLIII del artículo anterior de este Reglamento.
 
 ### Capítulo II. De la Administración General de Aduanas
 
@@ -549,13 +605,17 @@ XLI.- Aplicar las autorizaciones previas, franquicias, exenciones, estímulos fi
 
 XLII.- Tramitar las importaciones o internaciones temporales de vehículos.
 
-XLIII.- Proponer las acciones a desarrollar que impliquen la aplicación de los recursos de los fideicomisos públicos en los que el Servicio de Administración Tributaria sea parte.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XLIII.- Proponer, en coordinación con la Administración General de Recursos y Servicios las acciones a desarrollar que impliquen la aplicación de los recursos de los fideicomisos públicos en los que el Servicio de Administración Tributaria sea parte.
 
 XLIV.- Autorizar la inscripción en el registro de empresas certificadas y en el registro de almacenes generales de depósito certificados; otorgar autorizaciones para la prestación de servicios de prevalidación electrónica de datos y para la prestación de servicios necesarios para llevar a cabo el control de la importación temporal de remolques, semiremolques y portacontenedores; modificar, prorrogar, renovar o cancelar dichas autorizaciones u ordenar la suspensión de las operaciones, y resolver otros asuntos relacionados con tales autorizaciones.
 
 XLV.- Habilitar inmuebles para la introducción de mercancías bajo el régimen de recinto fiscalizado estratégico y emitir la autorización para su administración; otorgar autorización para destinar mercancías al régimen de recinto fiscalizado estratégico, así como modificar, prorrogar o cancelar dichas autorizaciones u ordenar la suspensión de las operaciones correspondientes.
 
-XLVI.- Autorizar, modificar, prorrogar, suspender y, en su caso, cancelar la inscripción de las empresas transportistas que trasladan mercancías bajo el régimen aduanero de tránsito en el registro correspondiente y otorgar el código alfanumérico armonizado del transportista.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XLVI.- Autorizar, modificar, prorrogar, suspender y, en su caso, cancelar la inscripción en el registro de empresas transportistas de mercancías en tránsito y en el registro del código alfanumérico armonizado del transportista.
 
 XLVII.- Emitir la opinión sobre el otorgamiento o cancelación de las autorizaciones en materia de segundo reconocimiento a que se refiere el artículo 28, fracción XLVII de este Reglamento; vigilar el cumplimiento de las obligaciones de las personas autorizadas en los términos del segundo párrafo del artículo 16 de la Ley Aduanera y de los dictaminadores aduaneros y dar a conocer a la autoridad competente las irregularidades y los hechos que impliquen la aplicación de sanciones o que puedan constituir causales de cancelación de dichas autorizaciones, así como coadyuvar en la integración de los expedientes respectivos.
 
@@ -591,7 +651,9 @@ LXII.- Recibir y requerir a los particulares, responsables solidarios y terceros
 
 LXIII.- Informar a las personas que presten los servicios señalados en el artículo 14 de la Ley Aduanera, de las mercancías respecto de las cuales se haya declarado el abandono, que no serán objeto de destino, a fin de que puedan disponer de ellas de conformidad con las disposiciones aplicables.
 
-LXIV.- Autorizar la exención de los impuestos al comercio exterior por la entrada al territorio nacional de las mercancías que sean donadas para ser destinadas a fines culturales, de enseñanza, de investigación, de salud pública o de servicio social, que importen organismos públicos, así como personas morales autorizadas para recibir donativos deducibles en el impuesto sobre la renta.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXIV.- Autorizar, modificar, prorrogar y, en su caso, cancelar la autorización de exención de los impuestos al comercio exterior por la entrada al territorio nacional de las mercancías que sean donadas para ser destinadas a fines culturales, de enseñanza, de investigación, de salud pública o de servicio social, que importen organismos públicos, así como personas morales autorizadas para recibir donativos deducibles en el impuesto sobre la renta.
 
 LXV.- Supervisar a la Unidad de Apoyo para la Inspección Fiscal y Aduanera.
 
@@ -615,109 +677,165 @@ LXXIV.- Coordinar los programas en materia de seguridad, en el ámbito de su com
 
 LXXV.- Resolver las consultas relacionadas con la operación aduanera que no impliquen la interpretación jurídica de las disposiciones fiscales y aduaneras.
 
-LXXVI.- Autorizar a los almacenes generales de depósito para que presten el servicio de depósito fiscal y para que en sus instalaciones se adhieran los marbetes o precintos a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXXVI.- Autorizar a los almacenes generales de depósito para que presten el servicio de depósito fiscal y para que en sus instalaciones se adhieran los marbetes o precintos a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, así como modificar, suspender temporalmente o cancelar dichas autorizaciones.
 
 LXXVII.- Ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de registro de contribuyentes, para comprobar los datos que se encuentran en el Registro Federal de Contribuyentes y realizar las inscripciones y actualizaciones de los mismos por actos de autoridad, en el ámbito de su competencia.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXXVIII.- Recabar, inventariar y mantener actualizado el marco de referencia de sus procesos y organización, así como las metodologías de diseño asociadas en las aduanas del país.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXXIX.- Analizar y definir los modelos de integración de la información en el ámbito de su competencia.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXXX.- Determinar y establecer, en coordinación con la Administración General de Planeación, los métodos, técnicas, herramientas y mediciones de calidad en las aduanas del país.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXXXI.- Desarrollar, en coordinación con la Administración General de Planeación, esquemas de evaluación de la eficiencia y productividad de los procesos sustantivos y administrativos de las aduanas del país.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXXXII.- Instrumentar los mecanismos para la realización de proyectos especiales por sector de contribuyentes, responsables solidarios, productores, importadores, exportadores y demás obligados.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXXXIII.- Analizar, en coordinación con la Administración General de Planeación, las propuestas de modificación de los procesos, estructuras, servicios y acciones de mejora en las aduanas del país.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXXXIV.- Desarrollar, en coordinación con la Administración General de Planeación, prácticas organizacionales que permitan la mejora continua en las aduanas del país, así como llevar a cabo las actividades tendientes a la adopción de las mismas.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXXXV.- Emitir en coordinación con la Administración General de Planeación, políticas generales en materia de administración de riesgo en las aduanas del país.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXXXVI.- Definir, en coordinación con la Administración General de Planeación, la estructura del repositorio institucional de los procesos en materia aduanera, así como la metodología y los procedimientos para administrar su contenido.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXXXVII.- Imponer y revocar sanciones a los Oficiales de Comercio Exterior por incumplimiento en el desempeño de sus funciones, de conformidad con las disposiciones aplicables.
 
 La Administración General de Aduanas, sus unidades administrativas centrales y las aduanas ejercerán las facultades señaladas en este Reglamento respecto de todos los contribuyentes, inclusive aquéllos que son competencia de la Administración General de Grandes Contribuyentes.
 
 La Administración General de Aduanas estará a cargo de un Administrador General, auxiliado en el ejercicio de sus facultades por los servidores públicos que en adelante se señalan.
 
-Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Aduanas.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
-Administrador Central de Operación Aduanera:
+Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Aduanas:
 
-Administrador de Operación Aduanera "1".
+1. Administrador Central de Operación Aduanera:
 
-Administrador de Operación Aduanera "2".
+a) Administrador de Operación Aduanera “1”.
 
-Administrador de Operación Aduanera "3".
+b) Administrador de Operación Aduanera “2”.
 
-Administrador de Operación Aduanera "4".
+c) Administrador de Operación Aduanera “3”.
 
-Administrador de Operación Aduanera "5".
+d) Administrador de Operación Aduanera “4”.
 
-Administrador de Operación Aduanera "6".
+e) Administrador de Operación Aduanera “5”.
 
-Administrador de Operación Aduanera "7".
+f) Administrador de Operación Aduanera “6”.
 
-Administrador de Operación Aduanera "8".
+g) Administrador de Operación Aduanera “7”.
 
-Administrador de Operación Aduanera "9".
+2. Administrador Central de Regulación Aduanera:
 
-Administrador de Operación Aduanera "10".
+a) Administrador de Regulación Aduanera “1”.
 
-Administrador Central de Regulación Aduanera:
+b) Administrador de Regulación Aduanera “2”.
 
-Administrador de Regulación Aduanera "1".
+c) Administrador de Regulación Aduanera “3”.
 
-Administrador de Regulación Aduanera "2".
+d) Administrador de Regulación Aduanera “4”.
 
-Administrador de Regulación Aduanera "3".
+e) Administrador de Regulación Aduanera “5”.
 
-Administrador de Regulación Aduanera "4".
+f) Administrador de Regulación Aduanera “6”.
 
-Administrador de Regulación Aduanera "5".
+g) Administrador de Regulación Aduanera “7”.
 
-Administrador Central de Planeación Aduanera:
+h) Administrador de Regulación Aduanera “8”.
 
-Administrador de Planeación Aduanera "1".
+3. Administrador Central de Planeación Aduanera:
 
-Administrador de Planeación Aduanera "2".
+a) Administrador de Planeación Aduanera “1”.
 
-Administrador de Planeación Aduanera "3".
+b) Administrador de Planeación Aduanera “2”.
 
-Administrador de Planeación Aduanera "4".
+c) Administrador de Planeación Aduanera “3”.
 
-Administrador de Planeación Aduanera "5".
+d) Administrador de Planeación Aduanera “4”.
 
-Administrador de Planeación Aduanera "6".
+e) Administrador de Planeación Aduanera “5”.
 
-Administrador Central de Contabilidad y Glosa:
+f) Administrador de Planeación Aduanera “6”.
 
-Administrador de Contabilidad y Glosa "1".
+4. Administrador Central de Contabilidad y Glosa:
 
-Administrador de Contabilidad y Glosa "2".
+a) Administrador de Contabilidad y Glosa “1”.
 
-Administrador de Contabilidad y Glosa "3".
+b) Administrador de Contabilidad y Glosa “2”.
 
-Administrador de Contabilidad y Glosa "4".
+c) Administrador de Contabilidad y Glosa “3”.
 
-Administrador de Contabilidad y Glosa "5".
+d) Administrador de Contabilidad y Glosa “4”.
 
-Administrador de Contabilidad y Glosa "6".
+e) Administrador de Contabilidad y Glosa “5”.
 
-Administrador Central de Investigación Aduanera:
+f) Administrador de Contabilidad y Glosa “6”.
 
-Administrador de Investigación Aduanera "1".
+5. Administrador Central de Investigación Aduanera:
 
-Administrador de Investigación Aduanera "2".
+a) Administrador de Investigación Aduanera “1”.
 
-Administrador de Investigación Aduanera "3".
+b) Administrador de Investigación Aduanera “2”.
 
-Administrador de Investigación Aduanera "4".
+c) Administrador de Investigación Aduanera “3”.
 
-Administrador de Investigación Aduanera "5".
+d) Administrador de Investigación Aduanera “4”.
 
-Administrador Central de Inspección Fiscal y Aduanera:
+e) Administrador de Investigación Aduanera “5”.
 
-Administrador de Inspección Fiscal y Aduanera "1".
+6. Administrador Central de Inspección Fiscal y Aduanera:
 
-Administrador de Inspección Fiscal y Aduanera "2".
+a) Administrador de Inspección Fiscal y Aduanera “1”.
 
-Administrador Central de Asuntos Internacionales:
+b) Administrador de Inspección Fiscal y Aduanera “2”.
 
-Administrador de Asuntos Internacionales "1".
+7. Administrador Central de Asuntos Internacionales:
 
-Administrador de Asuntos Internacionales "2".
+a) Administrador de Asuntos Internacionales “1”.
 
-Administrador de Asuntos Internacionales "3".
+b) Administrador de Asuntos Internacionales “2”.
 
-Administrador de Asuntos Internacionales "4".
+c) Administrador de Asuntos Internacionales “3”.
 
-Administradores de las Aduanas.
+d) Administrador de Asuntos Internacionales “4”.
+
+8. Administrador Central de Competencias y Modernización Aduanera:
+
+a) Administrador de Competencias y Modernización Aduanera “1”.
+
+b) Administrador de Competencias y Modernización Aduanera “2”.
+
+c) Administrador de Competencias y Modernización Aduanera “3”.
+
+d) Administrador de Competencias y Modernización Aduanera “4”.
+
+9. Administradores de las Aduanas.
 
 La Administración General de Aduanas contará adicionalmente con el personal que se requiera para satisfacer las necesidades del servicio.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
 ###### Artículo 12.
 
@@ -725,15 +843,15 @@ Compete a las siguientes unidades administrativas de la Administración General 
 
 A. Administración Central de Operación Aduanera:
 
-Las señaladas en las fracciones I, II, III, VIII, IX, X, XI, XII, XV, XVI, XVIII, XX, XXI, XXVIII, XXXII, XXXIV, XXXVIII, XXXIX, XLVII, LVI, LXVI, LXVII, LXVIII y LXXV del artículo anterior de este Reglamento.
+Las señaladas en las fracciones I, II, VIII, IX, X, XI, XII, XV, XVI, XVIII, XX, XXI, XXVIII, XXIX, XXXIV, XXXVIII, XXXIX, XL, XLII, XLVII, LIII, LVI, LXVI y LXXV del artículo anterior de este Reglamento.
 
 B. Administración Central de Regulación Aduanera:
 
-Las señaladas en las fracciones I, II, IV, V, IX, XIII, XV, XVI, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVIII, XXXI, XLIV, XLV, XLVI, XLVIII, XLIX, LI, LX, LXII, LXIV, LXXV y LXXVI del artículo anterior de este Reglamento.
+Las señaladas en las fracciones I, II, IV, V, IX, XIII, XV, XVI, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVIII, XXXI, XXXII, XLIV, XLV, XLVI, XLVIII, XLIX, LI, LX, LXII, LXIV, LXVI, LXVII, LXVIII, LXIX LXXV y LXXVI del artículo anterior de este Reglamento.
 
 C. Administración Central de Planeación Aduanera:
 
-Las señaladas en las fracciones I, II, III, IX, XVI, XX, XXVIII, XXX, XLIII, LIV y LXIX del artículo anterior de este Reglamento.
+Las señaladas en las fracciones I, II, IX, XVI, XX, XXVIII, XXX, XLII, XLIII, LIV y LXVIII del artículo anterior de este Reglamento.
 
 D. Administración Central de Contabilidad y Glosa:
 
@@ -741,11 +859,11 @@ Las señaladas en las fracciones I, II, VII, IX, X, XI, XII, XIII, XIV, XVI, XVI
 
 E. Administración Central de Investigación Aduanera:
 
-Las señaladas en las fracciones II, VIII, IX, XI, XII, XIV, XVI, XVIII, XXVIII, XXXIX, LX y LXII del artículo anterior de este Reglamento.
+Las señaladas en las fracciones II, VIII, IX, XI, XII, XIV, XVI, XVIII, XXVIII, XXXIX, LX, LXII y LXX del artículo anterior de este Reglamento.
 
 F. Administración Central de Inspección Fiscal y Aduanera:
 
-I.- Las señaladas en las fracciones VIII, XVI y LX del artículo anterior de este Reglamento.
+I.- Las señaladas en las fracciones VIII, IX, XVI, XVIII, LVIII, LXIX y LXXXVII del artículo anterior de este Reglamento.
 
 II.- Actuar como Unidad de Apoyo para la Inspección Fiscal y Aduanera.
 
@@ -753,13 +871,25 @@ III.- Prestar servicios de seguridad y protección a las instalaciones, edificio
 
 G. Administración Central de Asuntos Internacionales:
 
-Las señaladas en las fracciones II, IX, XIV, XVI, XVIII, XXVIII, LXI, LXII y LXXIV del artículo anterior de este Reglamento.
+Las señaladas en las fracciones II, IX, XIV, XVI, XVIII, XXVIII, XXXIX, LX, LXI, LXII, LXIII y LXXIV del artículo anterior de este Reglamento.
+
+H. Administración Central de Competencias y Modernización Aduanera:
+
+Las señaladas en las fracciones III, XX, LXXVIII, LXXIX, LXXX, LXXXI, LXXXII, LXXXIII, LXXXIV, LXXXV, LXXXVI y LXXXVII del artículo anterior de este Reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
 ###### Artículo 13.
 
-Compete a las Administraciones y Subadministraciones de las Aduanas, dentro de la circunscripción territorial que les corresponda, ejercer las facultades señaladas en las fracciones II, VI, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XX, XXI, XXV, XXVI, XXVII, XXVIII, XXX, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXIX, XL, XLI, XLII, XLIII, XLVII, LIII, LVI, LVII, LVIII, LIX, LX, LXII, LXIII, LXVI, LXVII, LXXII, LXXIII y LXXVII del artículo 11 de este Reglamento.
+Compete a las Administraciones y Subadministraciones de las Aduanas, dentro de la circunscripción territorial que les corresponda, ejercer las facultades señaladas en las fracciones II, VI, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XX, XXI, XXV, XXVI, XXVII, XXVIII, XXX, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXIX, XL, XLI, XLII, XLIII, XLVII, XLVIII, LIII, LVI, LVII, LVIII, LIX, LX, LXII, LXIII, LXVI, LXVII, LXXII, LXXIII y LXXVII del artículo 11 de este Reglamento.
 
-Compete a los Verificadores adscritos a las aduanas, ejercer las facultades establecidas en las fracciones XII, XVIII, XXVII, XXXIV, XXXVII, XXXIX, XL, XLI, XLII, LVIII, LIX, LX, LXVII y LXXIII del artículo 11 de este Reglamento, así como practicar el reconocimiento aduanero de las mercancías de comercio exterior, recibir de los particulares, responsables solidarios y terceros con ellos relacionados catálogos y demás elementos que le permitan identificar las mercancías, a fin de verificar el cumplimiento de las disposiciones legales en materia aduanera y llevar a cabo los actos necesarios para cerciorarse del cumplimiento de las disposiciones legales que regulan y gravan la entrada al territorio nacional y la salida del mismo de mercancías y medios de transporte, el despacho aduanero y los hechos y actos que deriven de éste o de dicha entrada o salida.
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+Compete a las Administraciones de las Aduanas, dentro de la circunscripción territorial que les corresponda, ejercer la facultad señalada en la fracción LXXXVII del artículo 11 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+Compete a los Verificadores adscritos a las aduanas, ejercer las facultades establecidas en las fracciones X, XI, XII, XVIII, XXVII, XXXIV, XXXVII, XXXIX, XL, XLI, XLII, LVIII, LIX, LX, LXVII y LXXIII del artículo 11 de este Reglamento, así como practicar el reconocimiento aduanero de las mercancías de comercio exterior, recibir de los particulares, responsables solidarios y terceros con ellos relacionados catálogos y demás elementos que le permitan identificar las mercancías, a fin de verificar el cumplimiento de las disposiciones legales en materia aduanera y llevar a cabo los actos necesarios para cerciorarse del cumplimiento de las disposiciones legales que regulan y gravan la entrada al territorio nacional y la salida del mismo de mercancías y medios de transporte, el despacho aduanero y los hechos y actos que deriven de éste o de dicha entrada o salida.
 
 Cada Aduana estará a cargo de un Administrador del que dependerán los Subadministradores, Jefes de Sala, Jefes de Departamento, Jefes de Sección, Verificadores, Notificadores, Visitadores, el personal al servicio de la Administración Central de Inspección Fiscal y Aduanera que ésta determine y el personal que las necesidades del servicio requiera.
 
@@ -771,7 +901,9 @@ Compete a la Administración General de Servicios al Contribuyente:
 
 I.- Participar en los programas relativos a la aplicación de las disposiciones en materia de participación de los trabajadores en las utilidades de las empresas, conjuntamente con las unidades administrativas de la Secretaría de Hacienda y Crédito Público, del propio Servicio de Administración Tributaria y demás dependencias competentes.
 
-II.- Proponer y apoyar a la Administración General de Planeación en el ejercicio de las facultades establecidas en las fracciones XXVIII y XXIX del artículo 35 de este Reglamento.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+II.- Apoyar a la Administración General de Planeación en el ejercicio de las facultades establecidas en las fracciones XXVIII y XXIX del artículo 35 de este Reglamento y formular propuestas a dicha Administración General en las materias a que se refieren las citadas fracciones.
 
 III.- Prestar, a través de diversos canales de atención a los contribuyentes, los servicios de asistencia en el cumplimiento de las obligaciones fiscales y aduaneras, así como darles a conocer sus derechos; normar y ejercer las acciones de los programas en materia de prevención y resolución de problemas del contribuyente y síndicos del contribuyente.
 
@@ -787,7 +919,7 @@ VIII.- Llevar el registro de contribuyentes que obtengan el certificado digital 
 
 IX.- Normar los programas y procedimientos para la inscripción, así como realizar la inscripción, suspensión, modificación y cancelación de los registros y padrones de importadores, de exportadores sectoriales, de importadores de sectores específicos y de cualquier otro padrón o registro previsto en la legislación fiscal o aduanera, así como dejar sin efectos la suspensión del registro en dichos padrones, y normar el procedimiento de inscripción en el registro de representantes legales de los contribuyentes.
 
-X.- Tramitar y resolver las solicitudes de registro que prevean las disposiciones fiscales sobre operaciones de financiamiento, bancos, fondos de pensiones y jubilaciones, así como de fondos de inversión del extranjero.
+X.- (DEROGADA, D.O.F. 29 DE ABRIL DE 2010)
 
 XI.- Normar y ejercer las acciones de los programas en materia de civismo fiscal.
 
@@ -825,7 +957,9 @@ XXVII.- Elaborar y actualizar los instructivos de operación para la recepción 
 
 XXVIII.- Verificar que los diferentes cuentadantes de la Federación apliquen correctamente las cuentas contables y claves de cómputo que conforman el Sistema de Contabilidad de los Ingresos Federales.
 
-XXIX.- Entregar a la Administración General de Planeación los reportes necesarios para cumplir con las peticiones realizadas por las diferentes autoridades.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXIX.- Entregar a la unidad administrativa del Servicio de Administración Tributaria que corresponda los reportes necesarios para cumplir con las peticiones realizadas por las diferentes autoridades.
 
 XXX.- Participar en la definición e instrumentación de los mecanismos para la implementación de los proyectos especiales en materia de recaudación, en forma desagregada por sector de contribuyentes.
 
@@ -863,111 +997,171 @@ XLVI.- Dejar sin efectos sus propias resoluciones, cuando se hayan emitido en co
 
 XLVII.- Resolver las solicitudes de autorización para registrar equipos electrónicos, imprimir comprobantes, autoimprimir y utilizar equipos propios para el registro de operaciones, registrar nuevos modelos de equipos electrónicos de registro fiscal y de máquinas registradoras de comprobación fiscal autónomas y equipo terminal punto de venta, utilizar equipos propios y de franquicia en el registro de operaciones con el público en general y para la autoimpresión e impresión de comprobantes fiscales, inclusive tratándose de los sujetos a que se refiere el apartado B del artículo 20 de este Reglamento.
 
-XLVIII.- Participar en el diseño y elaboración de un marco geográfico fiscal que permita georeferenciar cualquier tipo de información, así como actualizar tanto el sistema de información geográfica fiscal como dicho marco.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XLVIII.- Diseñar y elaborar un marco geográfico fiscal que permita georeferenciar cualquier tipo de información, así como actualizar tanto el sistema de información geográfica fiscal como dicho marco.
 
 La Administración General de Servicios al Contribuyente estará a cargo de un Administrador General, auxiliado en el ejercicio de sus facultades por los servidores públicos que en adelante se señalan.
 
-Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Servicios al Contribuyente.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
-Administrador Central de Servicios Tributarios al Contribuyente:
+Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Servicios al Contribuyente:
 
-Administrador de Servicios Tributarios al Contribuyente "1".
+1. Administrador Central de Servicios Tributarios al Contribuyente:
 
-Administrador de Servicios Tributarios al Contribuyente "2".
+a) Administrador de Servicios Tributarios al Contribuyente “1”.
 
-Administrador de Servicios Tributarios al Contribuyente "3".
+b) Administrador de Servicios Tributarios al Contribuyente “2”.
 
-Administrador de Servicios Tributarios al Contribuyente "4".
+c) Administrador de Servicios Tributarios al Contribuyente “3”.
 
-Administrador Central de Promoción y Vigilancia del Cumplimiento:
+d) Administrador de Servicios Tributarios al Contribuyente “4”.
 
-Administrador de Promoción y Vigilancia del Cumplimiento "1".
+2. Administrador Central de Promoción y Vigilancia del Cumplimiento:
 
-Administrador de Promoción y Vigilancia del Cumplimiento "2".
+a) Administrador de Promoción y Vigilancia del Cumplimiento “1”.
 
-Administrador de Promoción y Vigilancia del Cumplimiento "3".
+b) Administrador de Promoción y Vigilancia del Cumplimiento “2”.
 
-Administrador de Promoción y Vigilancia del Cumplimiento "4".
+c) Administrador de Promoción y Vigilancia del Cumplimiento “3”.
 
-Administrador Central de Operación de Canales de Servicios:
+d) Administrador de Promoción y Vigilancia del Cumplimiento “4”.
 
-Administrador de Operación de Canales de Servicios "1".
+3. Administrador Central de Operación de Canales de Servicios:
 
-Administrador de Operación de Canales de Servicios "2".
+a) Administrador de Operación de Canales de Servicios “1”.
 
-Administrador de Operación de Canales de Servicios "3".
+b) Administrador de Operación de Canales de Servicios “2”.
 
-Administrador de Operación de Canales de Servicios "4".
+c) Administrador de Operación de Canales de Servicios “3”.
 
-Administrador Central de Gestión de Calidad:
+d) Administrador de Operación de Canales de Servicios “4”.
 
-Administrador de Gestión de Calidad "1".
+4. Administrador Central de Gestión de Calidad:
 
-Administrador de Gestión de Calidad "2".
+a) Administrador de Gestión de Calidad “1”.
 
-Administrador Central de Identificación del Contribuyente:
+b) Administrador de Gestión de Calidad “2”.
 
-Administrador de Identificación del Contribuyente "1".
+5. Administrador Central de Identificación del Contribuyente:
 
-Administrador de Identificación del Contribuyente "2".
+a) Administrador de Identificación del Contribuyente “1”.
 
-Administrador de Identificación del Contribuyente "3".
+b) Administrador de Identificación del Contribuyente “2”.
 
-Administrador de Identificación del Contribuyente "4".
+c) Administrador de Identificación del Contribuyente “3”.
 
-Administrador Central de Cuenta Tributaria y Contabilidad de Ingresos:
+d) Administrador de Identificación del Contribuyente “4”.
 
-Administrador de Cuenta Tributaria y Contabilidad de Ingresos "1".
+6. Administrador Central de Cuenta Tributaria y Contabilidad de Ingresos:
 
-Administrador de Cuenta Tributaria y Contabilidad de Ingresos "2".
+a) Administrador de Cuenta Tributaria y Contabilidad de Ingresos “1”.
 
-Administrador de Cuenta Tributaria y Contabilidad de Ingresos "3".
+b) Administrador de Cuenta Tributaria y Contabilidad de Ingresos “2”.
 
-Administrador de Cuenta Tributaria y Contabilidad de Ingresos "4".
+c) Administrador de Cuenta Tributaria y Contabilidad de Ingresos “3”.
 
-Administrador de Cuenta Tributaria y Contabilidad de Ingresos "5".
+d) Administrador de Cuenta Tributaria y Contabilidad de Ingresos “4”.
 
-Coordinador Nacional de Administraciones Locales de Servicios al Contribuyente.
+e) Administrador de Cuenta Tributaria y Contabilidad de Ingresos “5”.
 
-Administradores Locales de Servicios al Contribuyente.
+7. Coordinador Nacional de Administraciones Locales de Servicios al Contribuyente.
+
+8. Administradores Locales de Servicios al Contribuyente.
 
 La Administración General de Servicios al Contribuyente contará adicionalmente con el personal que se requiera para satisfacer las necesidades del servicio.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
 ###### Artículo 15.
 
 Compete a las siguientes unidades administrativas de la Administración General de Servicios al Contribuyente ejercer las facultades que a continuación se precisan:
 
-A. Administración Central de Servicios Tributarios al Contribuyente:
+A. A la Administración Central de Servicios Tributarios al Contribuyente y a las unidades administrativas adscritas a la misma:
+
+I.- Administración Central de Servicios Tributarios al Contribuyente:
 
 Las señaladas en las fracciones VII, VIII, XI, XXXIII, XLIV y XLVII del artículo anterior de este Reglamento.
 
-B. Administración Central de Promoción y Vigilancia del Cumplimiento:
+II.- Administraciones de Servicios Tributarios al Contribuyente “1”, “2”, “3” y “4”:
+
+a) Las señaladas en las fracciones XI y XLIV del artículo anterior de este Reglamento.
+
+b) Llevar el registro de contribuyentes que obtengan el certificado digital que confirme el vínculo entre el firmante y los datos de creación de la firma electrónica avanzada.
+
+c) Resolver las solicitudes de autorización para registrar equipos electrónicos o nuevos modelos de equipos electrónicos de registro fiscal, de máquinas registradoras de comprobación fiscal autónomas y de equipo terminal punto de venta.
+
+B. A la Administración Central de Promoción y Vigilancia del Cumplimiento y a las unidades administrativas adscritas a la misma:
+
+I.- Administración Central de Promoción y Vigilancia del Cumplimiento:
 
 Las señaladas en las fracciones II, III, XII, XXV, XXVI, XXXII, XL, XLV, XLVI y XLVII del artículo anterior de este Reglamento.
 
-C. Administración Central de Operación de Canales de Servicios:
+II.- Administraciones de Promoción y Vigilancia del Cumplimiento “1”, “2”, “3” y “4”:
+
+a) Las señaladas en las fracciones XXV, XXVI, XXXII y XL del artículo anterior de este Reglamento.
+
+b) Prestar, a través de diversos canales de atención a los contribuyentes, los servicios de asistencia en el cumplimiento de las obligaciones fiscales y aduaneras.
+
+c) Verificar el exacto cumplimiento de las obligaciones en materia de registro y actualización del Registro Federal de Contribuyentes; requerir la presentación de avisos, solicitudes y demás documentos autorizados en materia de Registro Federal de Contribuyentes, cuando los obligados no lo hagan en los plazos respectivos; tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes en esta materia, así como requerir la rectificación de errores u omisiones contenidos en los citados documentos.
+
+C. A la Administración Central de Operación de Canales de Servicios y a las unidades administrativas adscritas a la misma:
+
+I.- Administración Central de Operación de Canales de Servicios:
 
 Las señaladas en las fracciones I, III, IV, V, XIV, XXIII, XXXV y XXXVI del artículo anterior de este Reglamento.
 
-D. Administración Central de Gestión de Calidad:
+II.- Administraciones de Operación de Canales de Servicios “1”, “2”, “3” y “4”:
+
+Prestar, a través de diversos canales de atención a los contribuyentes, los servicios de asistencia en el cumplimiento de las obligaciones fiscales y aduaneras, así como darles a conocer sus derechos.
+
+D. A la Administración Central de Gestión de Calidad y a las Administraciones de Gestión de Calidad “1” y “2”:
 
 Las señaladas en las fracciones VI, XXI, XXXIV y XXXVII del artículo anterior de este Reglamento.
 
-E. Administración Central de Identificación del Contribuyente:
+E. A la Administración Central de Identificación del Contribuyente y a las unidades administrativas adscritas a la misma:
 
-Las señaladas en las fracciones IV, IX, X, XII, XIII, XIV, XXVI, XXIX, XXX, XXXI, XXXVIII, XXXIX, XLIII y XLVIII del artículo anterior de este Reglamento.
+I.- Administración Central de Identificación del Contribuyente:
 
-F. Administrador Central de Cuenta Tributaria y Contabilidad de Ingresos:
+Las señaladas en las fracciones IV, IX, XII, XIII, XIV, XXVI, XXIX, XXX, XXXI, XXXVIII, XXXIX, XLIII y XLVIII del artículo anterior de este Reglamento.
+
+II.- Administraciones de Identificación del Contribuyente “1”, “2”, “3” y “4”:
+
+a) La señalada en la fracción XXVI del artículo anterior de este Reglamento.
+
+b) Verificar el exacto cumplimiento de las obligaciones en materia de inscripción y actualización en el Registro Federal de Contribuyentes; requerir la presentación de avisos, solicitudes y demás documentos autorizados en materia de Registro Federal de Contribuyentes, cuando los obligados no lo hagan en los plazos respectivos; tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes en esta materia, así como requerir la rectificación de errores u omisiones contenidos en los citados documentos.
+
+F. A la Administración Central de Cuenta Tributaria y Contabilidad de Ingresos y a las unidades administrativas adscritas a la misma:
+
+I.- Administración Central de Cuenta Tributaria y Contabilidad de Ingresos:
 
 Las señaladas en las fracciones XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXVII, XXVIII, XXIX y XXX del artículo anterior de este Reglamento.
 
-G. Coordinación Nacional de Administraciones Locales de Servicios al Contribuyente:
+II.- Administraciones de Cuenta Tributaria y Contabilidad de Ingresos “1”, “2”, “3”, “4” y “5”:
 
-La señalada en la fracción VI del artículo anterior de este Reglamento.
+a) Las señaladas en las fracciones XX y XXVII del artículo anterior de este Reglamento.
+
+b) Integrar y actualizar los archivos que se utilicen para el procesamiento electrónico de datos y verificar la integridad de la información contenida en los mismos previa opinión de la Administración General de Planeación.
+
+G. A la Coordinación Nacional de Administraciones Locales de Servicios al Contribuyente:
+
+Las señaladas en las fracciones VI, VII y XXIV del artículo anterior de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
 ###### Artículo 16.
 
-Compete a las Administraciones Locales de Servicios al Contribuyente a que se refiere el artículo 14 de este Reglamento, dentro de la circunscripción territorial que a cada una corresponda, ejercer las facultades señaladas en las fracciones I, III, IV, V, VI, VIII, IX, X, XI, XII, XIV, XVII, XVIII, XX, XXIII, XXIV, XXV, XXVI, XXXII, XXXIII, XXXIV, XXXVI, XXXVII, XXXIX, XL, XLI, XLII, XLIII, XLV, XLVI y XLVII del artículo 14 de este Reglamento.
+Compete a las Administraciones Locales de Servicios al Contribuyente dentro de la circunscripción territorial que a cada una corresponda, ejercer las facultades señaladas en las fracciones I, III, IV, V, VI, VIII, IX, XI, XII, XIV, XVII, XVIII, XX, XXIII, XXIV, XXV, XXVI, XXXII, XXXIII, XXXIV, XXXVI, XXXVII, XXXIX, XL, XLI, XLII, XLIII, XLV, XLVI y XLVII del artículo 14 de este Reglamento.
+
+Compete a las Subadministraciones Locales de Servicios al Contribuyente, dentro de la circunscripción territorial que corresponda a la Administración Local a la que se encuentran adscritas, ejercer las siguientes facultades:
+
+I.- La señalada en la fracción XL del artículo 14 de este Reglamento.
+
+II.- Prestar, a través de diversos canales de atención a los contribuyentes, los servicios de asistencia en el cumplimiento de las obligaciones fiscales y aduaneras, así como darles a conocer sus derechos.
+
+III.- Verificar el exacto cumplimiento de las obligaciones en materia de inscripción y actualización del Registro Federal de Contribuyentes; requerir la presentación de avisos, solicitudes y demás documentos autorizados en materia de Registro Federal de Contribuyentes, cuando los obligados no lo hagan en los plazos respectivos; tramitar y resolver las solicitudes de aclaraciones que presenten los contribuyentes en esta materia, así como requerir la rectificación de errores u omisiones contenidos en los citados documentos.
+
+IV.- Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes sobre problemas relacionados con la presentación de declaraciones, imposición de multas, requerimientos, solicitudes y avisos al Registro Federal de Contribuyentes.
 
 Las Administraciones Locales de Servicios al Contribuyente estarán a cargo de un Administrador Local, auxiliado en el ejercicio de sus facultades por los Subadministradores, Jefes de Departamento, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
@@ -1071,139 +1265,197 @@ Respecto de las entidades y sujetos a que se refiere el artículo 20 apartado B,
 
 La Administración General de Auditoría Fiscal Federal estará a cargo de un Administrador General, auxiliado en el ejercicio de sus facultades por los servidores públicos que en adelante se señalan.
 
-Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Auditoría Fiscal Federal.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
-Administrador Central de Operación de la Fiscalización Nacional:
+Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Auditoría Fiscal Federal:
 
-Coordinador de Operación de la Fiscalización Nacional.
+1. Administrador Central de Operación de la Fiscalización Nacional:
 
-Administrador de Operación de la Fiscalización Nacional "1".
+a) Coordinador de Operación de la Fiscalización Nacional.
 
-Administrador de Operación de la Fiscalización Nacional "2".
+b) Administrador de Operación de la Fiscalización Nacional “1”.
 
-Administrador de Operación de la Fiscalización Nacional "3".
+c) Administrador de Operación de la Fiscalización Nacional “2”.
 
-Administrador Central de Análisis Técnico Fiscal:
+d) Administrador de Operación de la Fiscalización Nacional “3”.
 
-Administrador de Análisis Técnico Fiscal "1".
+2. Administrador Central de Análisis Técnico Fiscal:
 
-Administrador de Análisis Técnico Fiscal "2".
+a) Administrador de Análisis Técnico Fiscal “1”.
 
-Administrador de Análisis Técnico Fiscal "3".
+b) Administrador de Análisis Técnico Fiscal “2”.
 
-Administrador de Análisis Técnico Fiscal "4".
+c) Administrador de Análisis Técnico Fiscal “3”.
 
-Administrador de Análisis Técnico Fiscal "5".
+d) Administrador de Análisis Técnico Fiscal “4”.
 
-Administrador Central de Planeación y Programación:
+e) Administrador de Análisis Técnico Fiscal “5”.
 
-Administrador de Planeación y Programación "1".
+3. Administrador Central de Planeación y Programación de Auditoría Fiscal Federal:
 
-Administrador de Planeación y Programación "2".
+a) Administrador de Planeación y Programación de Auditoría Fiscal Federal “1”.
 
-Administrador de Planeación y Programación "3".
+b) Administrador de Planeación y Programación de Auditoría Fiscal Federal “2”.
 
-Administrador de Planeación y Programación "4".
+c) Administrador de Planeación y Programación de Auditoría Fiscal Federal “3”.
 
-Administrador Central de Verificación y Evaluación de Entidades Federativas en Materia de Coordinación Fiscal:
+d) Administrador de Planeación y Programación de Auditoría Fiscal Federal “4”.
 
-Administrador de Verificación y Evaluación de Entidades Federativas en Materia de Coordinación Fiscal "1".
+4. Administrador Central de Verificación y Evaluación de Entidades Federativas en Materia de Coordinación Fiscal:
 
-Administrador de Verificación y Evaluación de Entidades Federativas en Materia de Coordinación Fiscal "2".
+a) Administrador de Verificación y Evaluación de Entidades Federativas en Materia de Coordinación Fiscal “1”.
 
-Administrador de Verificación y Evaluación de Entidades Federativas en Materia de Coordinación Fiscal "3".
+b) Administrador de Verificación y Evaluación de Entidades Federativas en Materia de Coordinación Fiscal “2”.
 
-Administrador Central de Fiscalización Estratégica:
+c) Administrador de Verificación y Evaluación de Entidades Federativas en Materia de Coordinación Fiscal “3”.
 
-Coordinador de Fiscalización Estratégica.
+5. Administrador Central de Fiscalización Estratégica:
 
-Administrador de Fiscalización Estratégica "1".
+a) Coordinador de Fiscalización Estratégica.
 
-Administrador de Fiscalización Estratégica "2".
+b) Administrador de Fiscalización Estratégica “1”.
 
-Administrador de Fiscalización Estratégica "3".
+c) Administrador de Fiscalización Estratégica “2”.
 
-Administrador de Fiscalización Estratégica "4".
+d) Administrador de Fiscalización Estratégica “3”.
 
-Administrador de Fiscalización Estratégica "5".
+e) Administrador de Fiscalización Estratégica “4”.
 
-Administrador de Fiscalización Estratégica "6".
+f) Administrador de Fiscalización Estratégica “5”.
 
-Administrador de Fiscalización Estratégica "7".
+g) Administrador de Fiscalización Estratégica “6”.
 
-Administrador Central de Comercio Exterior:
+h) Administrador de Fiscalización Estratégica “7”.
 
-Coordinador de Comercio Exterior.
+6. Administrador Central de Comercio Exterior:
 
-Administrador de Comercio Exterior "1".
+a) Coordinador de Comercio Exterior.
 
-Administrador de Comercio Exterior "2".
+b) Administrador de Comercio Exterior “1”.
 
-Administrador de Comercio Exterior "3".
+c) Administrador de Comercio Exterior “2”.
 
-Administrador de Comercio Exterior "4".
+d) Administrador de Comercio Exterior “3”.
 
-Administrador de Comercio Exterior "5".
+e) Administrador de Comercio Exterior “4”.
 
-Administrador Central de Normatividad de Auditoría Fiscal Federal:
+f) Administrador de Comercio Exterior “5”.
 
-Administrador de Normatividad de Auditoría Fiscal Federal "1".
+7. Administrador Central de Normatividad de Auditoría Fiscal Federal:
 
-Administrador de Normatividad de Auditoría Fiscal Federal "2".
+a) Administrador de Normatividad de Auditoría Fiscal Federal “1”.
 
-Administrador de Normatividad de Auditoría Fiscal Federal "3".
+b) Administrador de Normatividad de Auditoría Fiscal Federal “2”.
 
-Administrador de Normatividad de Auditoría Fiscal Federal "4".
+c) Administrador de Normatividad de Auditoría Fiscal Federal “3”.
 
-Administrador Central de Devoluciones y Compensaciones:
+d) Administrador de Normatividad de Auditoría Fiscal Federal “4”.
 
-Administrador de Devoluciones y Compensaciones "1".
+8. Administrador Central de Devoluciones y Compensaciones:
 
-Administrador de Devoluciones y Compensaciones "2".
+a) Administrador de Devoluciones y Compensaciones “1”.
 
-Administrador de Devoluciones y Compensaciones "3".
+b) Administrador de Devoluciones y Compensaciones “2”.
 
-Administrador de Devoluciones y Compensaciones "4".
+c) Administrador de Devoluciones y Compensaciones “3”.
 
-Administradores Locales de Auditoría Fiscal.
+d) Administrador de Devoluciones y Compensaciones “4”.
+
+9. Administradores Locales de Auditoría Fiscal.
 
 La Administración General de Auditoría Fiscal Federal contará adicionalmente con el personal que se requiera para satisfacer las necesidades del servicio.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
 ###### Artículo 18.
 
 Compete a las siguientes unidades administrativas de la Administración General de Auditoría Fiscal Federal ejercer las facultades que a continuación se precisan:
 
-A. Administración Central de Operación de la Fiscalización Nacional:
+A. A la Administración Central de Operación de la Fiscalización Nacional y a las unidades administrativas adscritas a la misma:
+
+I.- Administración Central de Operación de la Fiscalización Nacional:
 
 Las señaladas en las fracciones II, III, VII, VIII, IX, X, XIII, XIV, XV, XVII, XVIII, XXI, XXIV, XXV, XXVII, XXVIII, XXXVIII y XLIII del artículo anterior de este Reglamento.
 
-B. Administración Central de Análisis Técnico Fiscal:
+II.- Coordinación de Operación de la Fiscalización Nacional:
+
+Las señaladas en las fracciones II, VII, X y XIII del artículo anterior de este Reglamento.
+
+III.- Administraciones de Operación de la Fiscalización Nacional “1”, “2” y “3”:
+
+Las señaladas en las fracciones II, III, VII, X y XXI del artículo anterior de este Reglamento.
+
+B. A la Administración Central de Análisis Técnico Fiscal y a las unidades administrativas adscritas a la misma:
+
+I.- Administración Central de Análisis Técnico Fiscal:
 
 Las señaladas en las fracciones I, II, III, IV, V, VI, VII, X, XI, XVII, XVIII, XIX, XX, XXI, XXIV, XXVI, XXVIII, XXIX, XXX, XLIII y XLIV del artículo anterior de este Reglamento.
 
-C. Administración Central de Planeación y Programación:
+II.- Administraciones de Análisis Técnico Fiscal “1”, “2”, “3”, “4” y “5”:
+
+Las señaladas en las fracciones XXI, XXIX, XXX y XLIV del artículo anterior de este Reglamento.
+
+C. A la Administración Central de Planeación y Programación de Auditoría Fiscal Federal y a las unidades administrativas adscritas a la misma:
+
+I.- Administración Central de Planeación y Programación de Auditoría Fiscal Federal:
 
 Las señaladas en las fracciones II, III, IV, V, VI, VII, XXI, XXIX, XXXV y XLIII del artículo anterior de este Reglamento.
 
-D. Administración Central de Verificación y Evaluación de Entidades Federativas en Materia de Coordinación Fiscal:
+II.- Administraciones de Planeación y Programación de Auditoría Fiscal Federal “1”, “2”, “3” y “4”:
 
-Las señaladas en las fracciones XXXIX, XLI y XLII del artículo anterior de este Reglamento.
+Las señaladas en las fracciones II, III, VII y XXI del artículo anterior de este Reglamento.
 
-E. Administración Central de Fiscalización Estratégica:
+D. A la Administración Central de Verificación y Evaluación de Entidades Federativas en Materia de Coordinación Fiscal y a las unidades administrativas adscritas a la misma:
+
+I.- Administración Central de Verificación y Evaluación de Entidades Federativas en Materia de Coordinación Fiscal:
+
+Las señaladas en las fracciones II, XXXIX, XLI y XLII del artículo anterior de este Reglamento.
+
+II.- Administraciones de Verificación y Evaluación de Entidades Federativas en Materia de Coordinación Fiscal “1”, “2” y “3”:
+
+Las señaladas en las fracciones II, XXXIX, XLI y XLII del artículo anterior de este Reglamento.
+
+E. A la Administración Central de Fiscalización Estratégica y a las unidades administrativas adscritas a la misma:
+
+I.- Administración Central de Fiscalización Estratégica:
 
 Las señaladas en las fracciones II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXXI, XXXII, XXXIV, XXXV, XXXVIII y XLIII del artículo anterior de este Reglamento.
 
-F. Administración Central de Comercio Exterior:
+II.- Coordinación de Fiscalización Estratégica:
+
+Las señaladas en las fracciones II, III, VIII, IX, X, XI, XII, XV, XVII, XVIII, XIX, XX, XXI, XXIII, XXIV, XXVI, XXIX y XLIII del artículo anterior de este Reglamento.
+
+III.- Administraciones de Fiscalización Estratégica “1”, “2”, “3”, “4”, “5”, “6” y “7”:
+
+Las señaladas en las fracciones II, III, VIII, IX, X, XI, XII, XV, XVII, XVIII, XIX, XX, XXI, XXIII, XXIV, XXVI, XXIX y XLIII del artículo anterior de este Reglamento.
+
+F. A la Administración Central de Comercio Exterior y a las unidades administrativas adscritas a la misma:
+
+I.- Administración Central de Comercio Exterior:
 
 Las señaladas en las fracciones II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XVI, XVII, XVIII, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXXI, XXXII, XXXV, XXXVIII y XLIII del artículo anterior de este Reglamento.
 
-G. Administración Central de Normatividad de Auditoría Fiscal Federal:
+II.- Coordinación de Comercio Exterior:
+
+Las señaladas en las fracciones II, III, VII, IX, X, XI, XII, XVII, XVIII, XX, XXI, XXII, XXIII, XXIV, XXVI, XXVIII y XLIII del artículo anterior de este Reglamento.
+
+III.- Administraciones de Comercio Exterior “1”, “2”, “3”, “4” y “5”:
+
+Las señaladas en las fracciones II, III, V, VI, VII, IX, X, XI, XII, XVI, XVII, XVIII, XX, XXI, XXII, XXIII, XXIV, XXVI, XXVIII y XLIII del artículo anterior de este Reglamento.
+
+G. A la Administración Central de Normatividad de Auditoría Fiscal Federal y a las Administraciones de Normatividad de Auditoría Fiscal Federal “1”, “2”, “3” y “4”:
 
 Asistir, de oficio o a petición de parte y en coordinación con la Administración General Jurídica, a las unidades administrativas de la Administración General de Auditoría Fiscal Federal a fin de que en los procedimientos administrativos que dichas unidades lleven a cabo se cumplan las formalidades previstas en las disposiciones que los regulan, establecer el criterio de interpretación que dichas unidades administrativas deberán seguir en la aplicación de las disposiciones fiscales y aduaneras, tomando en cuenta la normatividad previamente emitida por la Administración General Jurídica, así como coadyuvar con ésta en el análisis de los proyectos e iniciativas de carácter legislativo, en materias relacionadas con la competencia de la Administración General de Auditoría Fiscal Federal.
 
-H. Administración Central de Devoluciones y Compensaciones:
+H. A la Administración Central de Devoluciones y Compensaciones y a las unidades administrativas adscritas a la misma:
+
+I.- Administración Central de Devoluciones y Compensaciones:
 
 Las señaladas en las fracciones II, X, XXV, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII y XL del artículo anterior de este Reglamento.
+
+II.- Administraciones de Devoluciones y Compensaciones “1”, “2”, “3” y “4”:
+
+Las señaladas en las fracciones II, X, XXXII, XXXIII y XXXV del artículo anterior de este Reglamento.
 
 ###### Artículo 19.
 
@@ -1357,7 +1609,9 @@ LX.- Representar al Secretario de Hacienda y Crédito Público, al Jefe del Serv
 
 LXI.- Interponer con la representación del Secretario de Hacienda y Crédito Público, del Jefe del Servicio de Administración Tributaria y de las unidades administrativas de dicho órgano desconcentrado, el recurso de revisión contra las sentencias y resoluciones que pongan fin al juicio, dictadas por las Salas del Tribunal Federal de Justicia Fiscal y Administrativa, respecto de los juicios de su competencia; comparecer y alegar en los juicios de amparo que interpongan los particulares en contra de las sentencias y resoluciones definitivas dictadas por el Tribunal Federal de Justicia Fiscal y Administrativa.
 
-LXII.- Elaborar y presentar los informes previos y justificados que se deban rendir en relación con los juicios de amparo interpuestos contra sus propios actos o de las unidades administrativas que de ella dependan; intervenir cuando la mencionada unidad administrativa tenga el carácter de tercero perjudicado en los juicios de amparo e interponer los recursos que procedan.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXII.- Representar a las unidades administrativas del Servicio de Administración Tributaria, en los juicios de amparo en los que sean señaladas como autoridades responsables o cuando tengan el carácter de tercero perjudicado, interponer los recursos que procedan en representación de las mismas así como intervenir con las facultades de delegado en las audiencias, rendir pruebas, formular alegatos y promover los incidentes previstos en la Ley de Amparo.
 
 LXIII.- Designar a los servidores públicos que tengan el carácter de delegados en los juicios de su competencia.
 
@@ -1368,6 +1622,10 @@ LXV.- Resolver los recursos administrativos hechos valer contra actos o resoluci
 LXVI.- Continuar con la práctica de los actos de fiscalización que hayan iniciado otras autoridades fiscales.
 
 LXVII.- Emitir conjuntamente con la Administración General de Recaudación en los casos en que lo solicite la Procuraduría Fiscal de la Federación un informe en el que se señale si se encuentran pagados o garantizados los créditos fiscales, conforme a los lineamientos que se emitan para tal efecto.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXVIII.- Tramitar y resolver las solicitudes de registro que prevean las disposiciones fiscales sobre operaciones de financiamiento, bancos, fondos de pensiones y jubilaciones, así como de fondos de inversión del extranjero.
 
 B. Sujetos y entidades:
 
@@ -1387,7 +1645,9 @@ El monto de la cantidad establecida en esta fracción se actualizará en el mes 
 
 V.- Los Estados Extranjeros, los Organismos Internacionales, los miembros del servicio exterior mexicano, los miembros del personal diplomático y consular extranjero que no sean nacionales, así como los servidores públicos cuando por el carácter de sus funciones permanezcan en el extranjero en el año de calendario por más de ciento ochenta y tres días naturales, ya sean consecutivos o no.
 
-VI.- Cualquier persona física o moral en materia de verificación de la determinación de deducciones autorizadas e ingresos acumulables en operaciones celebradas con partes relacionadas; verificaciones de origen llevadas a cabo al amparo de los diversos tratados comerciales de los que México sea parte; acreditamiento de impuestos pagados en el extranjero de los intereses a que se refiere el artículo 32, fracción XXVI de la Ley del Impuesto sobre la Renta y de inversiones en regímenes fiscales preferentes a que se refiere el Título VI de la propia Ley; verificación de la repatriación de capitales, del impuesto especial sobre producción y servicios a la exportación tratándose de regímenes fiscales preferentes e intercambio de información con autoridades competentes extranjeras que se realiza al amparo de los diversos acuerdos, tratados y convenios celebrados por México, así como interpretación y aplicación de acuerdos, convenios o tratados de los que México sea parte en materia fiscal y aduanera, u otros que contengan disposiciones sobre dichas materias.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+VI.- Cualquier persona física o moral en materia de verificación de la determinación de deducciones autorizadas e ingresos acumulables en operaciones celebradas con partes relacionadas; verificaciones de origen llevadas a cabo al amparo de los diversos tratados comerciales de los que México sea parte; acreditamiento de impuestos pagados en el extranjero, de los intereses a que se refiere el artículo 32, fracción XXVI de la Ley del Impuesto sobre la Renta y de inversiones en regímenes fiscales preferentes a que se refiere el Título VI de la propia Ley; verificación de la repatriación de capitales, del impuesto especial sobre producción y servicios a la exportación tratándose de regímenes fiscales preferentes e intercambio de información con autoridades competentes extranjeras que se realiza al amparo de los diversos acuerdos, tratados y convenios celebrados por México, así como interpretación y aplicación de acuerdos, convenios o tratados de los que México sea parte en materia fiscal y aduanera, u otros que contengan disposiciones sobre dichas materias.
 
 VII.- El Poder Legislativo, el Poder Judicial de la Federación y la Administración Pública Centralizada, en términos de la Ley Orgánica de la Administración Pública Federal.
 
@@ -1409,331 +1669,333 @@ Cuando la Administración General de Grandes Contribuyentes o cualquiera de las 
 
 La Administración General de Grandes Contribuyentes estará a cargo de un Administrador General, auxiliado en el ejercicio de sus facultades por los servidores públicos que en adelante se señalan.
 
-Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Grandes Contribuyentes.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
-Administrador Central de Planeación y Programación:
+Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Grandes Contribuyentes:
 
-Administrador de Planeación y Programación.
+1. Administrador Central de Planeación y Programación de Fiscalización a Grandes Contribuyentes:
 
-Administrador Central de Normatividad de Grandes Contribuyentes:
+a) Administrador de Planeación y Programación de Fiscalización a Grandes Contribuyentes.
 
-Administrador de Normatividad de Grandes Contribuyentes “1”.
+2. Administrador Central de Normatividad de Grandes Contribuyentes:
 
-Administrador de Normatividad de Grandes Contribuyentes “2”.
+a) Administrador de Normatividad de Grandes Contribuyentes “1”.
 
-Administrador de Normatividad de Grandes Contribuyentes “3”.
+b) Administrador de Normatividad de Grandes Contribuyentes “2”.
 
-Administrador de Normatividad de Grandes Contribuyentes “4”.
+c) Administrador de Normatividad de Grandes Contribuyentes “3”.
 
-Administrador de Normatividad de Grandes Contribuyentes “5”.
+d) Administrador de Normatividad de Grandes Contribuyentes “4”.
 
-Administrador Central de Normatividad Internacional:
+e) Administrador de Normatividad de Grandes Contribuyentes “5”.
 
-Administrador de Normatividad Internacional “1”.
+3. Administrador Central de Normatividad Internacional:
 
-Administrador de Normatividad Internacional “2”.
+a) Administrador de Normatividad Internacional “1”.
 
-Administrador de Normatividad Internacional “3”.
+b) Administrador de Normatividad Internacional “2”.
 
-Administrador de Normatividad Internacional “4”.
+c) Administrador de Normatividad Internacional “3”.
 
-Administrador de Normatividad Internacional “5”.
+d) Administrador de Normatividad Internacional “4”.
 
-Administrador Central de lo Contencioso de Grandes Contribuyentes:
+e) Administrador de Normatividad Internacional “5”.
 
-Administrador de lo Contencioso de Grandes Contribuyentes “1”.
+4. Administrador Central de lo Contencioso de Grandes Contribuyentes:
 
-Administrador de lo Contencioso de Grandes Contribuyentes “2”.
+a) Administrador de lo Contencioso de Grandes Contribuyentes “1”.
 
-Administrador de lo Contencioso de Grandes Contribuyentes “3”.
+b) Administrador de lo Contencioso de Grandes Contribuyentes “2”.
 
-Administrador de lo Contencioso de Grandes Contribuyentes “4”.
+c) Administrador de lo Contencioso de Grandes Contribuyentes “3”.
 
-Administrador de lo Contencioso de Grandes Contribuyentes “5”.
+d) Administrador de lo Contencioso de Grandes Contribuyentes “4”.
 
-Administrador de lo Contencioso de Grandes Contribuyentes “6”.
+e) Administrador de lo Contencioso de Grandes Contribuyentes “5”.
 
-Administrador Central de Fiscalización a Empresas que Consolidan Fiscalmente:
+f) Administrador de lo Contencioso de Grandes Contribuyentes “6”.
 
-Administrador de Fiscalización a Empresas que Consolidan Fiscalmente “1”:
+5. Administrador Central de Fiscalización a Empresas que Consolidan Fiscalmente:
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “1”.
+a) Administrador de Fiscalización a Empresas que Consolidan Fiscalmente “1”:
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “2”.
+i) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “1”.
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “3”.
+ii) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “2”.
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “4”.
+iii) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “3”.
 
-Administrador de Fiscalización a Empresas que Consolidan Fiscalmente “2":
+iv) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “4”.
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “5”.
+b) Administrador de Fiscalización a Empresas que Consolidan Fiscalmente “2”:
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “6”.
+i) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “5”.
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “7”.
+ii) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “6”.
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “8”.
+iii) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “7”.
 
-Administrador de Fiscalización a Empresas que Consolidan Fiscalmente “3”:
+iv) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “8”.
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “9”.
+c) Administrador de Fiscalización a Empresas que Consolidan Fiscalmente “3”:
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “10”.
+i) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “9”.
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “11”.
+ii) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “10”.
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “12”.
+iii) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “11”.
 
-Administrador de Fiscalización a Empresas que Consolidan Fiscalmente “4”:
+iv) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “12”.
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “13”.
+d) Administrador de Fiscalización a Empresas que Consolidan Fiscalmente “4”:
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “14”.
+i) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “13”.
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “15”.
+ii) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “14”.
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “16”.
+iii) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “15”.
 
-Administrador de Fiscalización a Empresas que Consolidan Fiscalmente “5”:
+iv) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “16”.
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “17”.
+e) Administrador de Fiscalización a Empresas que Consolidan Fiscalmente “5”:
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “18”.
+i) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “17”.
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “19”.
+ii) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “18”.
 
-Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “20”.
+iii) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “19”.
 
-Administrador Central de Fiscalización al Sector Financiero:
+iv) Subadministrador de Fiscalización a Empresas que Consolidan Fiscalmente “20”.
 
-Administrador de Fiscalización al Sector Financiero “1”:
+6. Administrador Central de Fiscalización al Sector Financiero:
 
-Subadministrador de Fiscalización al Sector Financiero “1”.
+a) Administrador de Fiscalización al Sector Financiero “1”:
 
-Subadministrador de Fiscalización al Sector Financiero “2”.
+i) Subadministrador de Fiscalización al Sector Financiero “1”.
 
-Subadministrador de Fiscalización al Sector Financiero “3”.
+ii) Subadministrador de Fiscalización al Sector Financiero “2”.
 
-Subadministrador de Fiscalización al Sector Financiero “4”.
+iii) Subadministrador de Fiscalización al Sector Financiero “3”.
 
-Administrador de Fiscalización al Sector Financiero “2”:
+iv) Subadministrador de Fiscalización al Sector Financiero “4”.
 
-Subadministrador de Fiscalización al Sector Financiero “5”.
+b) Administrador de Fiscalización al Sector Financiero “2”:
 
-Subadministrador de Fiscalización al Sector Financiero “6”.
+i) Subadministrador de Fiscalización al Sector Financiero “5”.
 
-Subadministrador de Fiscalización al Sector Financiero “7”.
+ii) Subadministrador de Fiscalización al Sector Financiero “6”.
 
-Subadministrador de Fiscalización al Sector Financiero “8”.
+iii) Subadministrador de Fiscalización al Sector Financiero “7”.
 
-Administrador de Fiscalización al Sector Financiero “3”:
+iv) Subadministrador de Fiscalización al Sector Financiero “8”.
 
-Subadministrador de Fiscalización al Sector Financiero “9”.
+c) Administrador de Fiscalización al Sector Financiero “3”:
 
-Subadministrador de Fiscalización al Sector Financiero “10”.
+i) Subadministrador de Fiscalización al Sector Financiero “9”.
 
-Subadministrador de Fiscalización al Sector Financiero “11”.
+ii) Subadministrador de Fiscalización al Sector Financiero “10”.
 
-Subadministrador de Fiscalización al Sector Financiero “12”.
+iii) Subadministrador de Fiscalización al Sector Financiero “11”.
 
-Administrador de Fiscalización al Sector Financiero “4”:
+iv) Subadministrador de Fiscalización al Sector Financiero “12”.
 
-Subadministrador de Fiscalización al Sector Financiero “13”.
+d) Administrador de Fiscalización al Sector Financiero “4”:
 
-Subadministrador de Fiscalización al Sector Financiero “14”.
+i) Subadministrador de Fiscalización al Sector Financiero “13”.
 
-Subadministrador de Fiscalización al Sector Financiero “15”.
+ii) Subadministrador de Fiscalización al Sector Financiero “14”.
 
-Subadministrador de Fiscalización al Sector Financiero “16”.
+iii) Subadministrador de Fiscalización al Sector Financiero “15”.
 
-Administrador de Fiscalización al Sector Financiero “5”:
+iv) Subadministrador de Fiscalización al Sector Financiero “16”.
 
-Subadministrador de Fiscalización al Sector Financiero “17”.
+e) Administrador de Fiscalización al Sector Financiero “5”:
 
-Subadministrador de Fiscalización al Sector Financiero “18”.
+i) Subadministrador de Fiscalización al Sector Financiero “17”.
 
-Subadministrador de Fiscalización al Sector Financiero “19”.
+ii) Subadministrador de Fiscalización al Sector Financiero “18”.
 
-Subadministrador de Fiscalización al Sector Financiero “20”.
+iii) Subadministrador de Fiscalización al Sector Financiero “19”.
 
-Administrador Central de Fiscalización Internacional:
+iv) Subadministrador de Fiscalización al Sector Financiero “20”.
 
-Administrador de Fiscalización Internacional “1”:
+7. Administrador Central de Fiscalización Internacional:
 
-Subadministrador de Fiscalización Internacional “1”.
+a) Administrador de Fiscalización Internacional “1”:
 
-Subadministrador de Fiscalización Internacional “2”.
+i) Subadministrador de Fiscalización Internacional “1”.
 
-Subadministrador de Fiscalización Internacional “3”.
+ii) Subadministrador de Fiscalización Internacional “2”.
 
-Subadministrador de Fiscalización Internacional “4”.
+iii) Subadministrador de Fiscalización Internacional “3”.
 
-Administrador de Fiscalización Internacional “2”:
+iv) Subadministrador de Fiscalización Internacional “4”.
 
-Subadministrador de Fiscalización Internacional “5”.
+b) Administrador de Fiscalización Internacional “2”:
 
-Subadministrador de Fiscalización Internacional “6”.
+i) Subadministrador de Fiscalización Internacional “5”.
 
-Subadministrador de Fiscalización Internacional “7”.
+ii) Subadministrador de Fiscalización Internacional “6”.
 
-Subadministrador de Fiscalización Internacional “8”.
+iii) Subadministrador de Fiscalización Internacional “7”.
 
-Administrador de Fiscalización Internacional “3”:
+iv) Subadministrador de Fiscalización Internacional “8”.
 
-Subadministrador de Fiscalización Internacional “9”.
+c) Administrador de Fiscalización Internacional “3”:
 
-Subadministrador de Fiscalización Internacional “10”.
+i) Subadministrador de Fiscalización Internacional “9”.
 
-Subadministrador de Fiscalización Internacional “11”.
+ii) Subadministrador de Fiscalización Internacional “10”.
 
-Subadministrador de Fiscalización Internacional “12”.
+iii) Subadministrador de Fiscalización Internacional “11”.
 
-Administrador de Fiscalización Internacional “4”:
+iv) Subadministrador de Fiscalización Internacional “12”.
 
-Subadministrador de Fiscalización Internacional “13”.
+d) Administrador de Fiscalización Internacional “4”:
 
-Subadministrador de Fiscalización Internacional “14”.
+i) Subadministrador de Fiscalización Internacional “13”.
 
-Subadministrador de Fiscalización Internacional “15”.
+ii) Subadministrador de Fiscalización Internacional “14”.
 
-Subadministrador de Fiscalización Internacional “16”.
+iii) Subadministrador de Fiscalización Internacional “15”.
 
-Administrador Central de Fiscalización de Precios de Transferencia:
+iv) Subadministrador de Fiscalización Internacional “16”.
 
-Administrador de Fiscalización de Precios de Transferencia “1”:
+8. Administrador Central de Fiscalización de Precios de Transferencia:
 
-Subadministrador de Fiscalización de Precios de Transferencia “1”.
+a) Administrador de Fiscalización de Precios de Transferencia “1”:
 
-Subadministrador de Fiscalización de Precios de Transferencia “2”.
+i) Subadministrador de Fiscalización de Precios de Transferencia “1”.
 
-Subadministrador de Fiscalización de Precios de Transferencia “3”.
+ii) Subadministrador de Fiscalización de Precios de Transferencia “2”.
 
-Subadministrador de Fiscalización de Precios de Transferencia “4”.
+iii) Subadministrador de Fiscalización de Precios de Transferencia “3”.
 
-Administrador de Fiscalización de Precios de Transferencia “2”:
+iv) Subadministrador de Fiscalización de Precios de Transferencia “4”.
 
-Subadministrador de Fiscalización de Precios de Transferencia “5”.
+b) Administrador de Fiscalización de Precios de Transferencia “2”:
 
-Subadministrador de Fiscalización de Precios de Transferencia “6”.
+i) Subadministrador de Fiscalización de Precios de Transferencia “5”.
 
-Subadministrador de Fiscalización de Precios de Transferencia “7”.
+ii) Subadministrador de Fiscalización de Precios de Transferencia “6”.
 
-Subadministrador de Fiscalización de Precios de Transferencia “8”.
+iii) Subadministrador de Fiscalización de Precios de Transferencia “7”.
 
-Administrador de Fiscalización de Precios de Transferencia “3”:
+iv) Subadministrador de Fiscalización de Precios de Transferencia “8”.
 
-Subadministrador de Fiscalización de Precios de Transferencia “9”.
+c) Administrador de Fiscalización de Precios de Transferencia “3”:
 
-Subadministrador de Fiscalización de Precios de Transferencia “10”.
+i) Subadministrador de Fiscalización de Precios de Transferencia “9”.
 
-Subadministrador de Fiscalización de Precios de Transferencia “11”.
+ii) Subadministrador de Fiscalización de Precios de Transferencia “10”.
 
-Subadministrador de Fiscalización de Precios de Transferencia “12”.
+iii) Subadministrador de Fiscalización de Precios de Transferencia “11”.
 
-Administrador de Fiscalización de Precios de Transferencia “4”:
+iv) Subadministrador de Fiscalización de Precios de Transferencia “12”.
 
-Subadministrador de Fiscalización de Precios de Transferencia “13”.
+d) Administrador de Fiscalización de Precios de Transferencia “4”:
 
-Subadministrador de Fiscalización de Precios de Transferencia “14”.
+i) Subadministrador de Fiscalización de Precios de Transferencia “13”.
 
-Subadministrador de Fiscalización de Precios de Transferencia “15”.
+ii) Subadministrador de Fiscalización de Precios de Transferencia “14”.
 
-Subadministrador de Fiscalización de Precios de Transferencia “16”.
+iii) Subadministrador de Fiscalización de Precios de Transferencia “15”.
 
-Administrador Central de Fiscalización a Grandes Contribuyentes Diversos:
+iv) Subadministrador de Fiscalización de Precios de Transferencia “16”.
 
-Administrador de Fiscalización a Grandes Contribuyentes Diversos “1”:
+9. Administrador Central de Fiscalización a Grandes Contribuyentes Diversos:
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “1”.
+a) Administrador de Fiscalización a Grandes Contribuyentes Diversos “1”:
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “2”.
+i) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “1”.
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “3”.
+ii) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “2”.
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “4”.
+iii) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “3”.
 
-Administrador de Fiscalización a Grandes Contribuyentes Diversos “2”:
+iv) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “4”.
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “5”.
+b) Administrador de Fiscalización a Grandes Contribuyentes Diversos “2”:
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “6”.
+i) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “5”.
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “7”.
+ii) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “6”.
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “8”.
+iii) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “7”.
 
-Administrador de Fiscalización a Grandes Contribuyentes Diversos “3”:
+iv) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “8”.
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “9”.
+c) Administrador de Fiscalización a Grandes Contribuyentes Diversos “3”:
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “10”.
+i) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “9”.
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “11”.
+ii) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “10”.
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “12”.
+iii) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “11”.
 
-Administrador de Fiscalización a Grandes Contribuyentes Diversos “4”:
+iv) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “12”.
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “13”.
+d) Administrador de Fiscalización a Grandes Contribuyentes Diversos “4”:
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “14”.
+i) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “13”.
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “15”.
+ii) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “14”.
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “16”.
+iii) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “15”.
 
-Administrador de Fiscalización a Grandes Contribuyentes Diversos “5”:
+iv) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “16”.
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “17”.
+e) Administrador de Fiscalización a Grandes Contribuyentes Diversos “5”:
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “18”.
+i) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “17”.
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “19”.
+ii) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “18”.
 
-Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “20”.
+iii) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “19”.
 
-Administrador Central de Fiscalización de Comercio Exterior:
+iv) Subadministrador de Fiscalización a Grandes Contribuyentes Diversos “20”.
 
-Administrador de Fiscalización de Comercio Exterior “1”:
+10. Administrador Central de Fiscalización de Comercio Exterior:
 
-Subadministrador de Fiscalización de Comercio Exterior “1”.
+a) Administrador de Fiscalización de Comercio Exterior “1”:
 
-Subadministrador de Fiscalización de Comercio Exterior “2”.
+i) Subadministrador de Fiscalización de Comercio Exterior “1”.
 
-Subadministrador de Fiscalización de Comercio Exterior “3”.
+ii) Subadministrador de Fiscalización de Comercio Exterior “2”.
 
-Subadministrador de Fiscalización de Comercio Exterior “4”.
+iii) Subadministrador de Fiscalización de Comercio Exterior “3”.
 
-Administrador de Fiscalización de Comercio Exterior “2”:
+iv) Subadministrador de Fiscalización de Comercio Exterior “4”.
 
-Subadministrador de Fiscalización de Comercio Exterior “5”.
+b) Administrador de Fiscalización de Comercio Exterior “2”:
 
-Subadministrador de Fiscalización de Comercio Exterior “6”.
+i) Subadministrador de Fiscalización de Comercio Exterior “5”.
 
-Subadministrador de Fiscalización de Comercio Exterior “7”.
+ii) Subadministrador de Fiscalización de Comercio Exterior “6”.
 
-Subadministrador de Fiscalización de Comercio Exterior “8”.
+iii) Subadministrador de Fiscalización de Comercio Exterior “7”.
 
-Administrador de Fiscalización de Comercio Exterior “3”:
+iv) Subadministrador de Fiscalización de Comercio Exterior “8”.
 
-Subadministrador de Fiscalización de Comercio Exterior “9”.
+c) Administrador de Fiscalización de Comercio Exterior “3”:
 
-Subadministrador de Fiscalización de Comercio Exterior “10”.
+i) Subadministrador de Fiscalización de Comercio Exterior “9”.
 
-Subadministrador de Fiscalización de Comercio Exterior “11”.
+ii) Subadministrador de Fiscalización de Comercio Exterior “10”.
 
-Subadministrador de Fiscalización de Comercio Exterior “12”.
+iii) Subadministrador de Fiscalización de Comercio Exterior “11”.
 
-Administrador de Fiscalización de Comercio Exterior “4”:
+iv) Subadministrador de Fiscalización de Comercio Exterior “12”.
 
-Subadministrador de Fiscalización de Comercio Exterior “13”.
+d) Administrador de Fiscalización de Comercio Exterior “4”:
 
-Subadministrador de Fiscalización de Comercio Exterior “14”.
+i) Subadministrador de Fiscalización de Comercio Exterior “13”.
 
-Subadministrador de Fiscalización de Comercio Exterior “15”.
+ii) Subadministrador de Fiscalización de Comercio Exterior “14”.
 
-Subadministrador de Fiscalización de Comercio Exterior “16”.
+iii) Subadministrador de Fiscalización de Comercio Exterior “15”.
+
+iv) Subadministrador de Fiscalización de Comercio Exterior “16”.
 
 La Administración General de Grandes Contribuyentes contará adicionalmente con el personal que se requiera para satisfacer las necesidades del servicio.
 
@@ -1741,15 +2003,17 @@ La Administración General de Grandes Contribuyentes contará adicionalmente con
 
 Compete a las siguientes unidades administrativas de la Administración General de Grandes Contribuyentes ejercer las facultades que a continuación se precisan:
 
-A. A la Administración Central de Planeación y Programación y a la unidad administrativa adscrita a la misma:
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
-I.- Administración Central de Planeación y Programación:
+A. A la Administración Central de Planeación y Programación de Fiscalización a Grandes Contribuyentes y a la unidad administrativa adscrita a la misma:
 
-Las señaladas en el apartado A, fracciones II, III, IV, XXI, XLV, L, LIII, LIV y LVI del artículo anterior de este Reglamento.
+I.- Administración Central de Planeación y Programación de Fiscalización a Grandes Contribuyentes:
 
-II.- Administración de Planeación y Programación:
+Las señaladas en el apartado A, fracciones II, III, IV, XXI, XXXIV, XLV, L, LIII, LIV y LVI del artículo anterior de este Reglamento.
 
-Las señaladas en el apartado A, fracciones II, III, IV, XXI, LIV y LVI del artículo anterior de este Reglamento.
+II.- Administración de Planeación y Programación de Fiscalización a Grandes Contribuyentes:
+
+Las señaladas en el apartado A, fracciones II, III, IV, XXI, XXXIV, LIV y LVI del artículo anterior de este Reglamento.
 
 B. A la Administración Central de Normatividad de Grandes Contribuyentes y a las unidades administrativas adscritas a la misma:
 
@@ -1765,11 +2029,15 @@ C. A la Administración Central de Normatividad Internacional y a las unidades a
 
 I.- Administración Central de Normatividad Internacional:
 
-Las señaladas en el apartado A, fracciones II, IV, XXXVII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, L, LI, LII, LIII, LIV, LV, LVI y LVII del artículo anterior de este Reglamento.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+Las señaladas en el apartado A, fracciones II, IV, XXXVII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, L, LI, LII, LIII, LIV, LV, LVI, LVII y LXVIII del artículo anterior de este Reglamento.
 
 II.- Administraciones de Normatividad Internacional “1”, “2”, “3”, “4” y “5”:
 
-Las señaladas en el apartado A, fracciones II, IV, XLIV, XLVI, XLVII, XLVIII, XLIX, L, LIV, LV, LVI y LVII del artículo anterior de este Reglamento.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+Las señaladas en el apartado A, fracciones II, IV, XLIV, XLVI, XLVII, XLVIII, XLIX, L, LIV, LV, LVI, LVII y LXVIII del artículo anterior de este Reglamento.
 
 D. A la Administración Central de lo Contencioso de Grandes Contribuyentes y a las unidades administrativas adscritas a la misma:
 
@@ -1879,13 +2147,17 @@ III.- Asistir a las unidades administrativas adscritas al Servicio de Administra
 
 IV.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, la documentación, datos e informes que sean necesarios para el ejercicio de sus facultades, así como recabar de los servidores públicos y de los fedatarios los informes y datos que tengan con motivo de sus funciones, para el objeto antes citado; requerir, respecto de los hechos en que pudiera querellarse, denunciar, formular declaratoria de que se haya sufrido o se pueda sufrir perjuicio, en asuntos relativos a su competencia, a los contribuyentes, importadores, exportadores, responsables solidarios o terceros con ellos relacionados, contadores públicos registrados que hayan formulado dictámenes o declaratorias para efectos fiscales y a cualquier persona relacionada con dichos hechos, para que exhiban y proporcionen la contabilidad, declaraciones, avisos, datos, otros documentos, instrumentos e informes y, en el caso de los contadores, para que exhiban sus papeles de trabajo, a fin de allegarse las pruebas necesarias para formular cualquiera de los requisitos de procedibilidad a que se refiere el artículo 92 del Código Fiscal de la Federación, para proceder penalmente por la probable comisión de delitos fiscales previstos en el Título IV, Capítulo II del Código Fiscal de la Federación que incidan en la competencia del Servicio de Administración Tributaria.
 
-V.- Resolver las consultas que formulen los interesados en situaciones reales y concretas sobre la aplicación de las disposiciones fiscales y aduaneras, así como las solicitudes que presenten respecto a las autorizaciones previstas en dichas disposiciones, que no sean competencia de otras unidades administrativas del Servicio de Administración Tributaria.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+V.- Resolver las consultas que formulen los interesados en situaciones reales y concretas sobre la aplicación de las disposiciones fiscales y aduaneras; resolver las solicitudes de autorización previstas en dichas disposiciones, que no sean competencia de otras unidades administrativas del Servicio de Administración Tributaria, así como revocarlas o dejarlas sin efectos.
 
 VI.- Orientar y asistir legalmente a los servidores públicos adscritos al Servicio de Administración Tributaria, en los asuntos que deriven del ejercicio de las atribuciones propias de sus cargos, de conformidad con los lineamientos que al efecto determine el Jefe del citado órgano desconcentrado.
 
 VII.- Resolver los recursos administrativos hechos valer contra actos o resoluciones de las unidades administrativas del Servicio de Administración Tributaria, derivados de las facultades a que se refiere el artículo 95-Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; representar al Secretario de Hacienda y Crédito Público, al Jefe del Servicio de Administración Tributaria y a las unidades administrativas del propio órgano desconcentrado, en toda clase de procedimientos judiciales o administrativos contra actos o resoluciones de éstos, por la aplicación que dichas autoridades hagan del referido artículo 95-Bis y de las disposiciones de carácter general a que el mismo se refiere, así como para ejercer las acciones, excepciones y defensas que correspondan a las autoridades señaladas en dichos procedimientos, siempre que no sean competencia de otra unidad administrativa del Servicio de Administración Tributaria.
 
-VIII.- Declarar la prescripción de los créditos fiscales y la extinción de las facultades de la autoridad para comprobar el cumplimiento de las disposiciones fiscales, para determinar las contribuciones omitidas y sus accesorios y para imponer multas en relación con los impuestos, derechos, contribuciones de mejoras y sus accesorios de carácter federal.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+VIII.- Declarar, a petición de parte, la prescripción de los créditos fiscales y la extinción de las facultades de la autoridad para comprobar el cumplimiento de las disposiciones fiscales, para determinar las contribuciones omitidas y sus accesorios y para imponer multas en relación con los impuestos, derechos, contribuciones de mejoras y sus accesorios de carácter federal.
 
 IX.- Resolver los recursos administrativos hechos valer contra actos o resoluciones de ella misma o de cualquier unidad administrativa del Servicio de Administración Tributaria que no tenga conferida de manera expresa dicha facultad, o de autoridades fiscales de las entidades federativas en cumplimiento de convenios de coordinación fiscal, así como el recurso de inconformidad previsto en la Ley de Coordinación Fiscal.
 
@@ -1899,7 +2171,9 @@ XIII.- Elaborar, para aprobación superior, las disposiciones administrativas de
 
 XIV.- Representar al Servicio de Administración Tributaria en juicios mercantiles, civiles y en otros en que dicho órgano sea parte o en los que éste tenga interés jurídico; formular las demandas y contestaciones correspondientes y desistirse de las mismas; allanarse o transigir en estos juicios, así como representar al Servicio de Administración Tributaria en los procedimientos en que deba comparecer; interponer los recursos a que tenga derecho y actuar en todas las instancias del juicio, procedimiento o recurso de que se trate y en el juicio de amparo que promuevan los particulares contra las resoluciones dictadas en aquéllos.
 
-XV.- Proponer el contenido de los informes previos y justificados que deban rendir en relación con los juicios de amparo promovidos contra actos de las unidades administrativas del Servicio de Administración Tributaria; intervenir en los juicios de amparo en representación de dichas unidades administrativas cuando tengan el carácter de tercero perjudicado y proponer los términos e interponer los recursos que procedan, así como actuar en estos juicios con las facultades de delegado en las audiencias.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XV.- Representar a las unidades administrativas del Servicio de Administración Tributaria en los juicios de amparo en los que sean señaladas como autoridades responsables o cuando tengan el carácter de tercero perjudicado, interponer los recursos que procedan en representación de las mismas, así como intervenir con las facultades de delegado en las audiencias, rendir pruebas, formular alegatos y promover los incidentes previstos en la Ley de Amparo.
 
 XVI.- Designar a los servidores públicos que tengan el carácter de delegados en los juicios de su competencia.
 
@@ -1919,131 +2193,175 @@ XXIII.- Compilar la normatividad interna del Servicio de Administración Tributa
 
 XXIV.- Analizar de oficio o previa solicitud de la unidad administrativa, que los actos administrativos dirigidos de manera individual a contribuyentes, que emitan las Administraciones Locales de las otras unidades administrativas del Servicio de Administración Tributaria, cumplan las formalidades previstas en las disposiciones legales que regulan dichos actos, a fin de evitar vicios de fondo o de procedimiento.
 
-XXV.- Resolver las autorizaciones para recibir donativos deducibles del impuesto sobre la renta y las consultas que sean formuladas sobre dicha materia, inclusive tratándose de los sujetos a que se refiere el apartado B del artículo 20 de este Reglamento, siempre que no impliquen la interpretación de un tratado en materia internacional.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXV.- Resolver, las solicitudes de autorización para recibir donativos deducibles del impuesto sobre la renta; revocar, no renovar o dar a conocer la pérdida de la vigencia de dicha autorización y atender las consultas que sean formuladas sobre la materia, inclusive tratándose de los sujetos a que se refiere el apartado B del artículo 20 de este Reglamento, siempre que no impliquen la interpretación de un tratado en materia internacional.
 
 XXVI.- Revocar las respuestas favorables a los contribuyentes que lo soliciten y manifiesten su conformidad.
 
 XXVII.- Ordenar el pago, ya sea en dinero o en bienes equivalentes, del valor de las mercancías que, depositadas en los recintos fiscales y bajo la custodia de las autoridades aduaneras, se extravíen o por cualquier otra circunstancia no se puedan entregar, en coordinación con la unidad administrativa competente.
 
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXVIII.- Notificar actos administrativos emitidos por otras unidades administrativas del Servicio de Administración Tributaria.
+
 La Administración General Jurídica estará a cargo de un Administrador General, auxiliado en el ejercicio de sus facultades por los servidores públicos que en adelante se señalan.
 
-Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General Jurídica.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
-Administrador de Amparo e Instancias Judiciales “1”.
+Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General Jurídica:
 
-Administrador de Amparo e Instancias Judiciales “2”.
+1. Administrador Central de Amparo e Instancias Judiciales:
 
-Administrador de Amparo e Instancias Judiciales “3”.
+a) Administrador de Amparo e Instancias Judiciales “1”.
 
-Administrador de Amparo e Instancias Judiciales “4”.
+b) Administrador de Amparo e Instancias Judiciales “2”.
 
-Administrador de Amparo e Instancias Judiciales “5”.
+c) Administrador de Amparo e Instancias Judiciales “3”.
 
-Administrador Central de lo Contencioso:
+d) Administrador de Amparo e Instancias Judiciales “4”.
 
-Administrador de lo Contencioso “1”.
+e) Administrador de Amparo e Instancias Judiciales “5”.
 
-Administrador de lo Contencioso “2”.
+2. Administrador Central de lo Contencioso:
 
-Administrador de lo Contencioso “3”.
+a) Administrador de lo Contencioso “1”.
 
-Administrador de lo Contencioso “4”.
+b) Administrador de lo Contencioso “2”.
 
-Administrador de lo Contencioso “5”.
+c) Administrador de lo Contencioso “3”.
 
-Administrador de lo Contencioso “6”.
+d) Administrador de lo Contencioso “4”.
 
-Administrador Central de Operación de Jurídica:
+e) Administrador de lo Contencioso “5”.
 
-Administrador de Operación de Jurídica “1”.
+f) Administrador de lo Contencioso “6”.
 
-Administrador de Operación de Jurídica “2”.
+3. Administrador Central de Operación de Jurídica:
 
-Administrador de Operación de Jurídica “3”.
+a) Administrador de Operación de Jurídica “1”.
 
-Administrador de Operación de Jurídica “4”.
+b) Administrador de Operación de Jurídica “2”.
 
-Administrador de Operación de Jurídica “5”.
+c) Administrador de Operación de Jurídica “3”.
 
-Administrador Central de Normatividad de Impuestos Internos:
+d) Administrador de Operación de Jurídica “4”.
 
-Administrador de Normatividad de Impuestos Internos “1”.
+e) Administrador de Operación de Jurídica “5”.
 
-Administrador de Normatividad de Impuestos Internos “2”.
+4. Administrador Central de Normatividad de Impuestos Internos:
 
-Administrador de Normatividad de Impuestos Internos “3”.
+a) Administrador de Normatividad de Impuestos Internos “1”.
 
-Administrador de Normatividad de Impuestos Internos “4”.
+b) Administrador de Normatividad de Impuestos Internos “2”.
 
-Administrador de Normatividad de Impuestos Internos “5”.
+c) Administrador de Normatividad de Impuestos Internos “3”.
 
-Administrador de Normatividad de Impuestos Internos “6”.
+d) Administrador de Normatividad de Impuestos Internos “4”.
 
-Administrador de Normatividad de Impuestos Internos “7”.
+e) Administrador de Normatividad de Impuestos Internos “5”.
 
-Administrador Central de Normatividad de Comercio Exterior y Aduanal:
+f) Administrador de Normatividad de Impuestos Internos “6”.
 
-Administrador de Normatividad de Comercio Exterior y Aduanal “1”.
+g) Administrador de Normatividad de Impuestos Internos “7”.
 
-Administrador de Normatividad de Comercio Exterior y Aduanal “2”.
+5. Administrador Central de Normatividad de Comercio Exterior y Aduanal:
 
-Administrador de Normatividad de Comercio Exterior y Aduanal “3”.
+a) Administrador de Normatividad de Comercio Exterior y Aduanal “1”.
 
-Administrador de Normatividad de Comercio Exterior y Aduanal “4”.
+b) Administrador de Normatividad de Comercio Exterior y Aduanal “2”.
 
-Administrador de Normatividad de Comercio Exterior y Aduanal “5”.
+c) Administrador de Normatividad de Comercio Exterior y Aduanal “3”.
 
-Administrador de Normatividad de Comercio Exterior y Aduanal “6”.
+d) Administrador de Normatividad de Comercio Exterior y Aduanal “4”.
 
-Administrador de Normatividad de Comercio Exterior y Aduanal “7”.
+e) Administrador de Normatividad de Comercio Exterior y Aduanal “5”.
 
-Administrador Central de Asuntos Penales y Especiales:
+f) Administrador de Normatividad de Comercio Exterior y Aduanal “6”.
 
-Administrador de Asuntos Penales y Especiales “1”.
+g) Administrador de Normatividad de Comercio Exterior y Aduanal “7”.
 
-Administrador de Asuntos Penales y Especiales “2”.
+6. Administrador Central de Asuntos Penales y Especiales:
 
-Administrador de Asuntos Penales y Especiales “3”.
+a) Administrador de Asuntos Penales y Especiales “1”.
 
-Administrador de Asuntos Penales y Especiales “4”.
+b) Administrador de Asuntos Penales y Especiales “2”.
 
-Administradores Locales Jurídicos.
+c) Administrador de Asuntos Penales y Especiales “3”.
+
+d) Administrador de Asuntos Penales y Especiales “4”.
+
+7. Administradores Locales Jurídicos.
 
 La Administración General Jurídica contará adicionalmente con el personal que se requiera para satisfacer las necesidades del servicio.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
 ###### Artículo 23.
 
 Compete a las siguientes unidades administrativas de la Administración General Jurídica ejercer las facultades que a continuación se precisan:
 
-A. Administración Central de Amparo e Instancias Judiciales:
+A. A la Administración Central de Amparo e Instancias Judiciales y a las unidades administrativas adscritas a la misma:
+
+I.- Administración Central de Amparo e Instancias Judiciales:
 
 Las señaladas en las fracciones I, III, IV, VII, VIII, IX, X, XI, XII, XIV, XV, XVI, XVIII y XXII del artículo anterior de este Reglamento.
 
-B. Administración Central de lo Contencioso:
+II.- Administraciones de Amparo e Instancias Judiciales “1”, “2”, “3”, “4” y “5”:
 
-Las señaladas en las fracciones I, III, IV, VI, VII, VIII, IX, X, XI, XII, XIV, XV, XVI, XVII, XVIII, XXII y XXIV del artículo anterior de este Reglamento.
+Las señaladas en las fracciones X, XI, XV y XVI del artículo anterior de este Reglamento.
 
-C. Administración Central de Operación de Jurídica:
+B. A la Administración Central de lo Contencioso y a las unidades administrativas adscritas a la misma:
 
-Las señaladas en las fracciones I y III del artículo anterior de este Reglamento.
+I.- Administración Central de lo Contencioso:
 
-D. Administración Central de Normatividad de Impuestos Internos:
+Las señaladas en las fracciones I, III, IV, VI, VII, VIII, IX, X, XI, XII, XIV, XV, XVI, XVII, XVIII, XXII, XXIV y XXVIII del artículo anterior de este Reglamento.
+
+II.- Administraciones de lo Contencioso “1”, “2”, “3”, “4”, “5” y “6”:
+
+Las señaladas en las fracciones VIII, IX, X, XI, XVI y XXVIII del artículo anterior de este Reglamento.
+
+C. A la Administración Central de Operación de Jurídica y a las Administraciones de Operación de Jurídica “1”, “2”, “3”, “4” y “5”:
+
+Las señaladas en las fracciones I, III y XXVIII del artículo anterior de este Reglamento.
+
+D. A la Administración Central de Normatividad de Impuestos Internos y a las unidades administrativas adscritas a la misma:
+
+I.- Administración Central de Normatividad de Impuestos Internos:
 
 Las señaladas en las fracciones I, II, III, IV, V, XIII, XIX, XX, XXI, XXII, XXIII y XXV del artículo anterior de este Reglamento.
 
-E. Administración Central de Normatividad de Comercio Exterior y Aduanal:
+II.- Administraciones de Normatividad de Impuestos Internos “1”, “2”, “3”, “4”, “5”, “6” y “7”:
+
+Las señaladas en las fracciones III, V y XXV del artículo anterior de este Reglamento.
+
+E. A la Administración Central de Normatividad de Comercio Exterior y Aduanal y a las unidades administrativas adscritas a la misma:
+
+I.- Administración Central de Normatividad de Comercio Exterior y Aduanal:
 
 Las señaladas en las fracciones I, II, III, IV, V, XIII, XXI, XXIII y XXVII del artículo anterior de este Reglamento.
 
-F. Administración Central de Asuntos Penales y Especiales:
+II.- Administraciones de Normatividad de Comercio Exterior y Aduanal “1”, “2”, “3”, “4”, “5”, “6” y “7”:
+
+Las señaladas en las fracciones III y V del artículo anterior de este Reglamento.
+
+F. A la Administración Central de Asuntos Penales y Especiales y a las unidades administrativas adscritas a la misma:
+
+I.- Administración Central de Asuntos Penales y Especiales:
 
 Las señaladas en las fracciones I, III, IV, VI, XII, XIV, XV, XVI y XVII del artículo anterior de este Reglamento.
+
+II.- Administraciones de Asuntos Penales y Especiales “1”, “2”, “3” y “4”:
+
+Las señaladas en las fracciones III, XII, XIV y XV del artículo anterior de este Reglamento.
 
 ###### Artículo 24.
 
 Compete a las Administraciones Locales Jurídicas dentro de la circunscripción territorial que a cada una corresponda, ejercer las facultades siguientes:
 
-I.- Las señaladas en las fracciones I, III, IV, V, VI, VII, VIII, X, XI, XII, XIV, XV, XVI, XVII, XXIV y XXVII del artículo 22 de este Reglamento.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+I.- Las señaladas en las fracciones I, III, IV, V, VI, VII, VIII, X, XI, XII, XIV, XV, XVI, XVII, XXIV, XXVII y XXVIII del artículo 22 de este Reglamento.
 
 II.- Contestar las demandas formuladas ante la Sala Regional del Tribunal Federal de Justicia Fiscal y Administrativa cuya sede se encuentre dentro de su circunscripción territorial, interpuestas contra resoluciones o actos de ella misma, de cualquier unidad administrativa del Servicio de Administración Tributaria o de las autoridades fiscales de las entidades federativas por la aplicación que dichas autoridades hagan de las leyes fiscales federales en cumplimiento de convenios y acuerdos de coordinación fiscal, inclusive las interpuestas contra requerimientos de pago a cargo de instituciones de fianzas con base en pólizas que se hayan expedido para asegurar el interés fiscal; ejercer las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios ante dicho Tribunal, así como en representación del Secretario de Hacienda y Crédito Público y del Jefe del Servicio de Administración Tributaria, e interponer, con la representación de los mismos y de la autoridad demandada, el recurso de revisión contra las sentencias y resoluciones definitivas dictadas por el Tribunal Federal de Justicia Fiscal y Administrativa en dichos juicios.
 
@@ -2059,6 +2377,10 @@ Si los actos o resoluciones impugnados corresponden a unidades administrativas c
 
 Las Administraciones Locales Jurídicas estarán a cargo de un Administrador Local, auxiliado en el ejercicio de sus facultades por los Subadministradores, así como por los Jefes de Departamento, Notificadores, Ejecutores y demás personal que se requiera para satisfacer las necesidades del servicio.
 
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+Además de las facultades previstas en las fracciones anteriores, compete a las Administraciones Locales Jurídicas de Naucalpan, del Centro del Distrito Federal, del Norte del Distrito Federal, del Oriente del Distrito Federal y del Sur del Distrito Federal, dentro de la circunscripción territorial que a cada una corresponda ejercer la facultad contenida en la fracción XXV del artículo 22 de este Reglamento.
+
 ### Capítulo VII. De la Administración General de Recaudación
 
 ###### Artículo 25.
@@ -2067,7 +2389,9 @@ Compete a la Administración General de Recaudación:
 
 I.- Participar con las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público y del Servicio de Administración Tributaria, en el establecimiento de los lineamientos para depurar y cancelar los créditos fiscales.
 
-II.- Participar en el diseño y elaboración de un marco geográfico fiscal que permita georeferenciar cualquier tipo de información, así como actualizar tanto el sistema de información geográfica fiscal como dicho marco.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+II.- Participar con la Administración General de Servicios al Contribuyente, en el diseño y elaboración de un marco geográfico fiscal que permita georeferenciar cualquier tipo de información, así como en la actualización del sistema de información geográfica fiscal y de dicho marco.
 
 III.- Notificar todo tipo de actos administrativos, incluyendo los que determinen créditos fiscales, citatorios, requerimientos y solicitud de informes que emitan las unidades administrativas del Servicio de Administración Tributaria, así como habilitar a terceros para que realicen notificaciones.
 
@@ -2075,7 +2399,9 @@ IV.- Llevar a cabo el procedimiento administrativo de ejecución para hacer efec
 
 V.- Enajenar, dentro o fuera de remate, bienes y negociaciones embargados a través del procedimiento administrativo de ejecución, así como expedir el documento que ampare la enajenación de los mismos.
 
-VI.- Tramitar y aceptar o rechazar, según proceda, las garantías para asegurar el interés fiscal así como sus ampliaciones, disminuciones o sustituciones; ampliar el embargo en bienes del contribuyente o responsable solidario cuando estime que los bienes embargados son insuficientes para cubrir los créditos fiscales, o cuando la garantía del interés fiscal resulte insuficiente, y fijar los honorarios del depositario interventor de negociaciones o administrador de bienes raíces, en coordinación con las unidades administrativas competentes.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+VI.- Tramitar, aceptar, rechazar o cancelar, según proceda, las garantías para asegurar el interés fiscal así como sus ampliaciones, disminuciones o sustituciones; ampliar el embargo en bienes del contribuyente o responsable solidario cuando estime que los bienes embargados son insuficientes para cubrir los créditos fiscales, o cuando la garantía del interés fiscal resulte insuficiente, y fijar los honorarios del depositario interventor de negociaciones o del administrador de bienes raíces, en coordinación con las unidades administrativas competentes.
 
 VII.- Tramitar y, en su caso, autorizar las solicitudes de pago diferido o en parcialidades de los créditos fiscales, mediante garantía de su importe y accesorios legales, inclusive tratándose de aprovechamientos, así como determinar y liquidar a los contribuyentes, responsables solidarios y demás obligados, las diferencias que hubiere por haber realizado pagos a plazos, diferidos o en parcialidades, sin tener derecho a ello.
 
@@ -2129,53 +2455,63 @@ XXXI.- Enviar a los contribuyentes comunicados y en general realizar, en el ámb
 
 XXXII.- Emitir conjuntamente con la Administración General de Auditoría Fiscal Federal o con la Administración General de Grandes Contribuyentes, según corresponda, en los casos en que lo solicite la Procuraduría Fiscal de la Federación un informe en el que se señale si se encuentran pagados o garantizados los créditos fiscales, conforme a los lineamientos que se emitan para tal efecto.
 
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXXIII.- Determinar, cuando proceda, el impuesto a los depósitos en efectivo y sus accesorios, que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXXIV.- Declarar, cuando proceda, la prescripción de oficio de los créditos fiscales.
+
 La Administración General de Recaudación estará a cargo de un Administrador General, auxiliado en el ejercicio de sus facultades por los servidores públicos que en adelante se señalan.
 
-Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Recaudación.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
-Administrador Central de Cobro Coactivo:
+Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Recaudación:
 
-Administrador de Cobro Coactivo “1”.
+1. Administrador Central de Cobro Coactivo:
 
-Administrador de Cobro Coactivo “2”.
+a) Administrador de Cobro Coactivo “1”.
 
-Administrador de Cobro Coactivo “3”.
+b) Administrador de Cobro Coactivo “2”.
 
-Administrador de Cobro Coactivo “4”.
+c) Administrador de Cobro Coactivo “3”.
 
-Administrador Central de Cobro Persuasivo y Garantías:
+d) Administrador de Cobro Coactivo “4”.
 
-Administrador de Cobro Persuasivo y Garantías “1”.
+2. Administrador Central de Cobro Persuasivo y Garantías:
 
-Administrador de Cobro Persuasivo y Garantías “2”.
+a) Administrador de Cobro Persuasivo y Garantías “1”.
 
-Administrador de Cobro Persuasivo y Garantías “3”.
+b) Administrador de Cobro Persuasivo y Garantías “2”.
 
-Administrador de Cobro Persuasivo y Garantías “4”.
+c) Administrador de Cobro Persuasivo y Garantías “3”.
 
-Administrador Central de Planeación y Estrategias de Cobro:
+d) Administrador de Cobro Persuasivo y Garantías “4”.
 
-Administrador de Planeación y Estrategias de Cobro “1”.
+3. Administrador Central de Planeación y Estrategias de Cobro:
 
-Administrador de Planeación y Estrategias de Cobro “2”.
+a) Administrador de Planeación y Estrategias de Cobro “1”.
 
-Administrador Central de Notificación:
+b) Administrador de Planeación y Estrategias de Cobro “2”.
+
+4. Administrador Central de Notificación:
 
 Administrador de Notificación.
 
-Administrador Central de Programas Operativos con Entidades Federativas:
+5. Administrador Central de Programas Operativos con Entidades Federativas:
 
-Administrador de Programas Operativos con Entidades Federativas “1”.
+a) Administrador de Programas Operativos con Entidades Federativas “1”.
 
-Administrador de Programas Operativos con Entidades Federativas “2”.
+b) Administrador de Programas Operativos con Entidades Federativas “2”.
 
-Coordinador de Apoyo Operativo de Recaudación:
+6. Coordinador de Apoyo Operativo de Recaudación:
 
-Administrador de Apoyo Operativo de Recaudación “1”.
+a) Administrador de Apoyo Operativo de Recaudación “1”.
 
-Administrador de Apoyo Operativo de Recaudación “2”.
+b) Administrador de Apoyo Operativo de Recaudación “2”.
 
-Administradores Locales de Recaudación.
+7. Administradores Locales de Recaudación.
 
 La Administración General de Recaudación contará adicionalmente con el personal que se requiera para satisfacer las necesidades del servicio.
 
@@ -2185,11 +2521,15 @@ Compete a las siguientes unidades administrativas de la Administración General 
 
 A. Administración Central de Cobro Coactivo:
 
-Las señaladas en las fracciones I, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIV, XVI, XVII, XVIII, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXIX, XXX y XXXII del artículo anterior de este Reglamento.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+Las señaladas en las fracciones I, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIV, XVI, XVII, XVIII, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXIX, XXX, XXXII, XXXIII y XXXIV del artículo anterior de este Reglamento.
 
 B. Administración Central de Cobro Persuasivo y Garantías:
 
-Las señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXIII, XXIV, XXV, XXVII, XXIX, XXX y XXXI del artículo anterior de este Reglamento.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+Las señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXIII, XXIV, XXV, XXVII, XXIX, XXX, XXXI, XXXIII y XXXIV del artículo anterior de este Reglamento.
 
 C. Administración Central de Planeación y Estrategias de Cobro:
 
@@ -2201,7 +2541,9 @@ Las señaladas en las fracciones I, II, III, IV, XXVII, XXX y XXXI del artículo
 
 E. Administración Central de Programas Operativos con Entidades Federativas:
 
-I.- Las señaladas en las fracciones I, III, XXI, XXIV y XXVIII del artículo anterior de este Reglamento.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+I.- Las señaladas en las fracciones I, III, IX, XVI, XVII, XXI, XXIV y XXVIII del artículo anterior de este Reglamento.
 
 II.- La señalada en la fracción XLIV del artículo 9 de este Reglamento.
 
@@ -2209,9 +2551,11 @@ F. Coordinación de Apoyo Operativo de Recaudación:
 
 Las señaladas en las fracciones I, III, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXVI, XXVIII, XXIX, XXX y XXXI del artículo anterior de este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE ABRIL DE 2010)</small>
+
 ###### Artículo 27.
 
-Compete a las Administraciones Locales de Recaudación, dentro de la circunscripción territorial que a cada una corresponda, ejercer las facultades señaladas en las fracciones III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIV, XVI, XVII, XVIII, XX, XXII, XXV, XXVI, XXVII, XXIX, XXX y XXXI del artículo 25 de este Reglamento.
+Compete a las Administraciones Locales de Recaudación, dentro de la circunscripción territorial que a cada una corresponda, ejercer las facultades señaladas en las fracciones III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIV, XVI, XVII, XVIII, XX, XXII, XXV, XXVI, XXVII, XXIX, XXX, XXXI, XXXIII y XXXIV del artículo 25 de este Reglamento.
 
 Las Administraciones Locales de Recaudación estarán a cargo de un Administrador Local, auxiliado en el ejercicio de sus facultades por los Subadministradores, Jefes de Departamento, Notificadores, Ejecutores, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
@@ -2275,11 +2619,17 @@ XXVI.- Revisar y actualizar las disposiciones reglamentarias y los procedimiento
 
 XXVII.- Revisar y actualizar las disposiciones y los procedimientos de los subsistemas que conforman el sistema de certificación de competencias laborales del Servicio de Administración Tributaria.
 
-XXVIII.- Investigar y analizar las prácticas administrativas nacionales e internacionales y celebrar convenios con instituciones, tendientes a fortalecer la protección del capital intelectual y el desarrollo de los recursos humanos del Servicio de Administración Tributaria.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
 
-XXIX.- Establecer y aplicar las políticas, lineamientos y procedimientos para la contratación de la obra pública y la adquisición, arrendamiento o contratación de bienes y servicios que requiera el Servicio de Administración Tributaria.
+XXVIII.- Investigar y analizar las prácticas administrativas nacionales e internacionales tendientes a fortalecer la protección del capital intelectual y el desarrollo de los recursos humanos del Servicio de Administración Tributaria.
 
-XXX.- Establecer políticas, directrices, normas y criterios jurídicos para la celebración de contratos, convenios y demás actos relacionados con las materias de su competencia; suscribir, modificar y revocar en representación del Servicio de Administración Tributaria, los convenios y contratos que el mismo celebre y que no sean de responsabilidad directa de otra unidad administrativa, conforme a los lineamientos que emita su Titular y de cuya ejecución se desprendan obligaciones patrimoniales a cargo del Servicio de Administración Tributaria, incluso los relativos a la celebración de rifas, sorteos o loterías cuyo objeto sea incentivar el cumplimiento voluntario de las disposiciones fiscales y aduaneras, así como apoyar las funciones recaudatorias, fiscalizadoras y aduaneras, previa solicitud de la unidad administrativa correspondiente; suscribir los demás documentos que impliquen actos de administración; llevar a cabo los procesos de adquisición y arrendamiento de bienes y servicios; supervisar la prestación de servicios que contrate y la adecuada conservación de los bienes muebles e inmuebles que bajo cualquier título tenga en su posesión; realizar las acciones necesarias para la regularización jurídica y administrativa de los bienes inmuebles, así como aplicar las normas para la administración y baja de bienes muebles de las dependencias de la Administración Pública Federal.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXIX.- Establecer, de conformidad con las disposiciones normativas correspondientes, las directrices, lineamientos y procedimientos para la contratación de la obra pública y la adquisición, arrendamiento o contratación de bienes y servicios que requiera el Servicio de Administración Tributaria, así como aplicar los que emitan las dependencias competentes.
+
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXX.- Establecer lineamientos, directrices, normas y criterios jurídicos para la celebración de contratos, convenios y demás actos relacionados con las materias de su competencia; suscribir, modificar y revocar en representación del Servicio de Administración Tributaria, los convenios y contratos que el mismo celebre y que no sean de responsabilidad directa de otra unidad administrativa, conforme a los lineamientos que emita su Titular y de cuya ejecución se desprendan obligaciones patrimoniales a cargo del Servicio de Administración Tributaria, incluso los relativos a la celebración de rifas, sorteos o loterías cuyo objeto sea incentivar el cumplimiento voluntario de las disposiciones fiscales y aduaneras, así como apoyar las funciones recaudatorias, fiscalizadoras y aduaneras, previa solicitud de la unidad administrativa correspondiente; suscribir los demás documentos que impliquen actos de administración; llevar a cabo los procesos de adquisición y arrendamiento de bienes y servicios; supervisar la prestación de servicios que contrate y la adecuada conservación de los bienes muebles e inmuebles que bajo cualquier título tenga en su posesión; realizar las acciones necesarias para la regularización jurídica y administrativa de los bienes inmuebles, así como aplicar las normas para la administración y baja de bienes muebles de las dependencias de la Administración Pública Federal.
 
 XXXI.- Proponer al Jefe del Servicio de Administración Tributaria los proyectos de programas que establece el Sistema Nacional de Protección Civil y llevar a cabo la comunicación y coordinación permanentes con el citado Sistema.
 
@@ -2331,107 +2681,145 @@ LIV.- Otorgar, modificar y revocar la concesión prevista en el artículo 31 de 
 
 LV.- Proporcionar el soporte administrativo y de interlocución del Servicio de Administración Tributaria con relación a los proyectos por desarrollar con organismos financieros internacionales, en el ámbito de su competencia.
 
-LVI.- Proporcionar y administrar, directamente o a través de terceros especializados que al efecto contrate, los bienes inmuebles necesarios para el almacenaje y preservación de los bienes embargados por autoridades fiscales y aduaneras, así como llevar a cabo el cuidado y protección de los bienes muebles embargados que se le entreguen.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LVI.- Proporcionar y administrar, directamente o a través de terceros especializados que al efecto contrate, los bienes inmuebles necesarios para el almacenaje y preservación de los bienes muebles que sean entregados por las unidades administrativas del Servicio de Administración Tributaria en relación con el pago en especie y los procedimientos administrativos fiscales y aduaneros, incluyendo el abandono, así como llevar a cabo el cuidado y protección de los mismos.
 
 LVII.- Custodiar y preservar las obras aceptadas como pago en especie, así como llevar el control administrativo de los registros de consulta pública.
 
-LVIII.- Implementar, en coordinación con la Administración General de Planeación, un sistema de costos en el Servicio de Administración Tributaria, que permita medir el costo-beneficio de los procesos tributarios y administrativos.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LVIII.- Aplicar, en coordinación con la Administración General de Planeación, un sistema de costos en el Servicio de Administración Tributaria, que permita medir el costo-beneficio de los procesos tributarios y administrativos.
 
 LIX.- Determinar las políticas, procedimientos y criterios para el control, identificación, recepción, almacenaje, custodia, maniobra, traslado, entrega, transferencia y destino de las mercancías de comercio exterior que han pasado a propiedad del Fisco Federal o de las que pueda disponer en términos de las disposiciones aplicables, que deban aplicar las unidades administrativas del Servicio de Administración Tributaria.
 
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LX.- Determinar las políticas, procedimientos y criterios para el control, identificación, recepción, almacenaje, custodia, maniobra, traslado, entrega, transferencia y destino de los bienes que sean entregados por las unidades administrativas del Servicio de Administración Tributaria en relación con el pago en especie y los procedimientos administrativos fiscales y aduaneros, incluyendo el abandono.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXI.- Celebrar convenios con instituciones públicas o privadas a fin de fortalecer la protección del capital intelectual y el desarrollo de los recursos humanos del Servicio de Administración Tributaria.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXII.- Supervisar el cumplimiento de los acuerdos emitidos por los órganos de gobierno de los fideicomisos públicos en los que el Servicio de Administración Tributaria sea parte.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXIII.- Dar seguimiento y elaborar los informes relacionados con la ejecución de los proyectos financiados con recursos de los fideicomisos públicos en los que el Servicio de Administración Tributaria sea parte.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+LXIV.- Asesorar a las unidades administrativas del Servicio de Administración Tributaria e instrumentar las acciones a desarrollar en los asuntos relacionados con los fideicomisos públicos en los que dicho órgano desconcentrado sea parte, así como proponer las acciones a desarrollar que impliquen la aplicación de recursos de los referidos fideicomisos.
+
 La Administración General de Recursos y Servicios estará a cargo de un Administrador General, auxiliado en el ejercicio de sus facultades por los servidores públicos que en adelante se señalan.
 
-Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Recursos y Servicios.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
-Administrador de Gestión Interna.
+Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Recursos y Servicios:
 
-Administrador de Planeación y Proyectos.
+1. Administrador de Gestión Interna.
 
-Administrador Central de Recursos Financieros:
+2. Administrador de Planeación y Proyectos.
 
-Administrador de Recursos Financieros "1".
+3. Administrador Central de Recursos Financieros:
 
-Administrador de Recursos Financieros "2".
+a) Administrador de Recursos Financieros “1”.
 
-Administrador de Recursos Financieros "3".
+b) Administrador de Recursos Financieros “2”.
 
-Administrador Central de Capital Humano:
+c) Administrador de Recursos Financieros “3”.
 
-Administrador de Capital Humano "1".
+4. Administrador Central de Capital Humano:
 
-Administrador de Capital Humano "2".
+a) Administrador de Capital Humano “1”.
 
-Administrador de Capital Humano "3".
+b) Administrador de Capital Humano “2”.
 
-Administrador de Capital Humano "4".
+c) Administrador de Capital Humano “3”.
 
-Administrador Central de Recursos Materiales:
+d) Administrador de Capital Humano “4”.
 
-Administrador de Recursos Materiales "1".
+5. Administrador Central de Recursos Materiales:
 
-Administrador de Recursos Materiales "2".
+a) Administrador de Recursos Materiales “1”.
 
-Administrador de Recursos Materiales "3".
+b) Administrador de Recursos Materiales “2”.
 
-Administrador de Recursos Materiales "4".
+c) Administrador de Recursos Materiales “3”.
 
-Administrador de Recursos Materiales "5".
+d) Administrador de Recursos Materiales “4”.
 
-Administrador Central de Apoyo Jurídico:
+e) Administrador de Recursos Materiales “5”.
 
-Administrador de Apoyo Jurídico "1".
+6. Administrador Central de Apoyo Jurídico:
 
-Administrador de Apoyo Jurídico "2".
+a) Administrador de Apoyo Jurídico “1”.
 
-Administrador de Apoyo Jurídico "3".
+b) Administrador de Apoyo Jurídico “2”.
 
-Administrador de Apoyo Jurídico "4".
+c) Administrador de Apoyo Jurídico “3”.
 
-Administrador de Apoyo Jurídico "5".
+d) Administrador de Apoyo Jurídico “4”.
 
-Administrador Central de Capacitación Fiscal:
+e) Administrador de Apoyo Jurídico “5”.
 
-Administrador de Capacitación Fiscal "1".
+7. Administrador Central de Capacitación Fiscal:
 
-Administrador de Capacitación Fiscal "2".
+a) Administrador de Capacitación Fiscal “1”.
 
-Administrador de Capacitación Fiscal "3".
+b) Administrador de Capacitación Fiscal “2”.
 
-Administrador de Capacitación Fiscal "4".
+c) Administrador de Capacitación Fiscal “3”.
 
-Administrador Central de Operación de Recursos y Servicios:
+d) Administrador de Capacitación Fiscal “4”.
 
-Administrador de Operación de Recursos y Servicios "1".
+8. Administrador Central de Operación de Recursos y Servicios:
 
-Administrador de Operación de Recursos y Servicios "2".
+a) Administrador de Operación de Recursos y Servicios “1”.
 
-Administrador de Operación de Recursos y Servicios "3".
+b) Administrador de Operación de Recursos y Servicios “2”.
 
-Administrador de Operación de Recursos y Servicios "4".
+c) Administrador de Operación de Recursos y Servicios “3”.
 
-Administrador de Operación de Recursos y Servicios "5".
+d) Administrador de Operación de Recursos y Servicios “4”.
 
-Administrador de Operación de Recursos y Servicios "6".
+e) Administrador de Operación de Recursos y Servicios “5”.
 
-Administrador de Operación de Recursos y Servicios "7".
+f) Administrador de Operación de Recursos y Servicios “6”.
 
-Administrador de Operación de Recursos y Servicios "8".
+g) Administrador de Operación de Recursos y Servicios “7”.
 
-Administrador de Operación de Recursos y Servicios "9".
+h) Administrador de Operación de Recursos y Servicios “8”.
 
-Subadministradores de Recursos y Servicios.
+i) Administrador de Operación de Recursos y Servicios “9”.
 
-Administrador Central de Destino de Bienes:
+j) Subadministradores de Recursos y Servicios.
 
-Administrador de Destino de Bienes "1".
+9. Administrador Central de Destino de Bienes:
 
-Administrador de Destino de Bienes "2".
+a) Administrador de Destino de Bienes “1”.
 
-Administrador de Destino de Bienes "3".
+b) Administrador de Destino de Bienes “2”.
 
-Administradores para el Destino de Bienes.
+c) Administrador de Destino de Bienes “3”.
+
+d) Administradores para el Destino de Bienes.
+
+10. Administrador Central de Fideicomisos:
+
+a) Administrador de Fideicomisos “1”.
+
+b) Administrador de Fideicomisos “2”.
+
+c) Administrador de Fideicomisos “3”.
+
+d) Administrador de Fideicomisos “4”.
 
 La Administración General de Recursos y Servicios contará adicionalmente con el personal que se requiera para satisfacer las necesidades del servicio.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
 ###### Artículo 29.
 
@@ -2439,11 +2827,11 @@ Compete a las siguientes unidades administrativas de la Administración General 
 
 A. Administración Central de Recursos Financieros:
 
-Las señaladas en las fracciones I, II, IV, V, VI, VII, L, LV y LVIII el artículo anterior de este Reglamento.
+Las señaladas en las fracciones I, II, IV, V, VI, VII, L, LV y LVIII del artículo anterior de este Reglamento.
 
 B. Administración Central de Capital Humano:
 
-Las señaladas en las fracciones II, III, IV, VIII, IX, X, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXXIX, XL, XLII, XLIII, XLVI, XLVIII y LIII del artículo anterior de este Reglamento.
+Las señaladas en las fracciones II, III, IV, VIII, IX, X, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXXIX, XLII, XLIII, XLVI, XLVIII, LIII y LXI del artículo anterior de este Reglamento.
 
 C. Administración Central de Recursos Materiales:
 
@@ -2451,23 +2839,27 @@ Las señaladas en las fracciones II, IV, XXIX, XXX, XXXI, XLIV, XLV, XLVII, L, L
 
 D. Administración Central de Apoyo Jurídico:
 
-Las señaladas en las fracciones IV, IX, X, XI, XII, XIII, XXI, XXII, XXX, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XLVII, XLIX, LI, LII y LIV del artículo anterior de este Reglamento.
+Las señaladas en las fracciones IV, IX, X, XI, XII, XIII, XXI, XXII, XXX, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XLIX, LI, LII y LIV del artículo anterior de este Reglamento.
 
 E. Administración Central de Capacitación Fiscal:
 
-Las señaladas en las fracciones II, IV, XV, XX, XXIII, XXVII, XXVIII, XXXIX, XLI y XLII del artículo anterior de este Reglamento.
+Las señaladas en las fracciones II, IV, XV, XX, XXIII, XXVII, XXVIII, XXXIX, XL, XLI y LXI del artículo anterior de este Reglamento.
 
 F. Administración Central de Operación de Recursos y Servicios:
 
-Las señaladas en las fracciones II, IV, V, VI, VII, IX, XV, XVI, XVII, XVIII, XIX, XXI, XXIII, XXX, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XLIV, XLV, XLVI, XLVIII, LI y LIII del artículo anterior de este Reglamento.
+Las señaladas en las fracciones II, IV, V, VI, VII, IX, XV, XVI, XVII, XVIII, XIX, XXI, XXIII, XXX, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XLIV, XLV, XLVI, XLVIII, L, LI, LIII, LVI, LVII y LXI del artículo anterior de este Reglamento.
 
 G. Administración Central de Destino de Bienes:
 
-Las señaladas en las fracciones IV, XXX, LI, LVI, LVII y LIX del artículo anterior de este Reglamento.
+Las señaladas en las fracciones IV, XXX, LI, LVI, LVII, LIX y LX del artículo anterior de este Reglamento.
 
-H. Administraciones de Operación de Recursos y Servicios "1", "2", "3", "4", "5", "6", "7", "8" y "9" y Subadministraciones de Recursos y Servicios:
+H. Administraciones de Operación de Recursos y Servicios “1”, “2”, “3”, “4”, “5”, “6”, “7”, “8” y “9”, y Subadministraciones de Recursos y Servicios:
 
-Las señaladas en las fracciones II, IV, V, VI, VII, IX, XVI, XVII, XVIII, XIX, XXI, XXIII, XXX, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XLIV, XLV, XLVI, XLVIII, LI y LII del artículo anterior de este Reglamento.
+Las señaladas en las fracciones II, IV, V, VI, VII, IX, XVI, XVII, XVIII, XIX, XXI, XXIII, XXX, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XLIV, XLV, XLVI, XLVIII, L, LI, LII, LVI, LVII y LXI del artículo anterior de este Reglamento.
+
+I. Administración Central de Fideicomisos y Administraciones de Fideicomisos de Comercio Exterior y Aduanero “1”, “2”, “3” y “4”:
+
+Las señaladas en las fracciones XLVII, LXII, LXIII y LXIV del artículo anterior de este Reglamento.
 
 ### Capítulo IX. De la Administración General de Comunicaciones y Tecnologías de la Información
 
@@ -2477,7 +2869,9 @@ Compete a la Administración General de Comunicaciones y Tecnologías de la Info
 
 I.- Definir y establecer las estrategias en materia de tecnologías de la información y comunicaciones del Servicio de Administración Tributaria.
 
-II.- Planear, definir, establecer y difundir las políticas, normas, lineamientos, metodologías, estándares, procesos, procedimientos y programas, para proporcionar y administrar los servicios, el desarrollo, implementación y mantenimiento de soluciones, sistemas, aplicaciones y la administración de proyectos en materia de comunicaciones y tecnologías de la información inclusive para la contratación de servicios y la adquisición o arrendamiento de bienes en dicha materia que automaticen las funciones y procesos de las unidades administrativas del Servicio de Administración Tributaria, así como para la integridad, precisión, confiabilidad, protección, consistencia, intercambio, almacenamiento, eliminación de la información y seguridad de la misma, conforme a los objetivos y plan estratégico de dicho órgano desconcentrado; supervisar; proteger y vigilar su cumplimiento y promover entre las unidades administrativas del Servicio de Administración Tributaria una cultura de calidad, seguridad y protección de la información, a fin de minimizar la exposición al riesgo del contenido de la misma vigilando el uso y confidencialidad de los datos, herramientas de explotación y portales de información.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+II.- Planear, definir, establecer y difundir las directrices, normas, lineamientos, metodologías, estándares, procesos, procedimientos y programas, para proporcionar y administrar los servicios, el desarrollo, implementación y mantenimiento de soluciones, sistemas, aplicaciones y la administración de proyectos en materia de comunicaciones y tecnologías de la información inclusive para la contratación de servicios y la adquisición o arrendamiento de bienes en dicha materia que automaticen las funciones y procesos de las unidades administrativas del Servicio de Administración Tributaria, así como para la integridad, precisión, confiabilidad, protección, consistencia, intercambio, almacenamiento, eliminación de la información y seguridad de la misma, conforme a los objetivos y plan estratégico de dicho órgano desconcentrado; supervisar; proteger y vigilar su cumplimiento y promover entre las unidades administrativas del Servicio de Administración Tributaria una cultura de calidad, seguridad y protección de la información, a fin de minimizar la exposición al riesgo del contenido de la misma vigilando el uso y confidencialidad de los datos, herramientas de explotación y portales de información.
 
 III.- Establecer la arquitectura organizacional en materia de comunicaciones y tecnologías de la información, para los servicios que proporcione a las unidades administrativas del Servicio de Administración Tributaria.
 
@@ -2495,7 +2889,9 @@ IX.- Promover y difundir las políticas de gobierno electrónico en el Servicio 
 
 X.- Intercambiar información sobre prácticas administrativas en materia de comunicaciones y tecnologías de la información con las dependencias y entidades de la Administración Pública Federal.
 
-XI.- Definir e instrumentar los procedimientos y medidas de control y evaluación del cumplimiento de las políticas de seguridad institucional en materia de comunicaciones y tecnologías de la información, inclusive las relativas a la administración de identidades, control de acceso, protección a la confidencialidad, verificación de integridad y mecanismos de no repudio para la explotación de bitácoras, la implementación de las soluciones tecnológicas que los habilitan y para las necesidades de intercambio, transmisión y almacenamiento de información.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XI.- Definir e instrumentar, previa opinión de la Administración General de Evaluación, los procedimientos y medidas de control y evaluación del cumplimiento de las políticas de seguridad institucional en materia de comunicaciones y tecnologías de la información, inclusive las relativas a la administración de identidades, control de acceso, protección a la confidencialidad, verificación de integridad y mecanismos de no repudio para la explotación de bitácoras, la instrumentación de las soluciones tecnológicas que los habilitan y para las necesidades de intercambio, transmisión y almacenamiento de información.
 
 XII.- Definir e instrumentar los procedimientos y medidas de control y evaluación del cumplimiento de las políticas de seguridad institucional en materia de comunicaciones y tecnologías de la información que se deban adoptar en los contratos que se lleven a cabo.
 
@@ -2519,7 +2915,9 @@ XXI.- Implementar los controles, esquemas de configuraciones o de monitoreo de s
 
 XXII.- Diseñar, definir y coordinar la implementación de los procesos tecnológicos, estructuras lógicas, protocolos, estándares, procedimientos de intercambio de información y demás definiciones tecnológicas y de procedimiento en materia de firma electrónica avanzada, comprobantes fiscales digitales y demás documentos o aplicaciones de carácter digital que prevean las disposiciones aplicables.
 
-XXIII.- Emitir las políticas y lineamientos para la utilización de mecanismos electrónicos de registro, medición, comunicación o intercambio de información con contribuyentes y terceros, así como evaluar las solicitudes que al respecto se formulen y emitir el dictamen correspondiente.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXIII.- Emitir directrices, procedimientos y lineamientos, para la utilización de mecanismos electrónicos de registro, medición, comunicación o intercambio de información con contribuyentes y terceros, así como evaluar las solicitudes que al respecto se formulen y emitir el dictamen correspondiente.
 
 XXIV.- Acordar y establecer con las demás unidades administrativas del Servicio de Administración Tributaria los niveles de servicio en materia de comunicaciones y tecnologías de la información que se deban cubrir en los servicios que proporcione en forma directa o a través de terceros, así como establecer mecanismos de control para vigilar su cumplimiento.
 
@@ -2533,21 +2931,23 @@ XXVIII.- Celebrar toda clase de actos jurídicos en materia de comunicaciones y 
 
 La Administración General de Comunicaciones y Tecnologías de la Información, estará a cargo de un Administrador General, auxiliado en el ejercicio de sus facultades por los servidores públicos que en adelante se señalan.
 
-Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Comunicaciones y Tecnologías de la Información.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
-Administrador Central de Planeación y Programación Informática.
+Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Comunicaciones y Tecnologías de la Información:
 
-Administrador Central de Operación y Servicios Tecnológicos.
+1. Administrador Central de Planeación y Programación Informática.
 
-Administrador Central de Servicios de Información.
+2. Administrador Central de Operación y Servicios Tecnológicos.
 
-Administrador Central de Transformación Tecnológica.
+3. Administrador Central de Servicios de Información.
 
-Administrador Central de Desarrollo y Mantenimiento de Aplicaciones.
+4. Administrador Central de Transformación Tecnológica.
 
-Administrador Central de Seguridad, Monitoreo y Control.
+5. Administrador Central de Desarrollo y Mantenimiento de Aplicaciones.
 
-Administradores Regionales de Comunicaciones y Tecnologías de la Información.
+6. Administrador Central de Seguridad, Monitoreo y Control.
+
+7. Administradores Regionales de Comunicaciones y Tecnologías de la Información.
 
 La Administración General de Comunicaciones y Tecnologías de la Información también contará con el personal que se requiera para satisfacer las necesidades del servicio.
 
@@ -2579,6 +2979,10 @@ F. Administración Central de Seguridad, Monitoreo y Control:
 
 Las señaladas en las fracciones II, III, IV, V, VI, VII, VIII, XI, XII, XVI, XIX, XX, XXI, XXII, XXIII y XXV del artículo anterior de este Reglamento.
 
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+Artículo 31 BIS.- Compete a las Administraciones Regionales de Comunicaciones y Tecnologías de la Información ejercer, respecto de todas las unidades administrativas regionales que se encuentren en su circunscripción territorial, las facultades señaladas en las fracciones VI, VIII, XXIV, XXV, XXVI y XXVII del artículo 30 de este Reglamento.
+
 ### Capítulo X. De la Administración General de Evaluación
 
 ###### Artículo 32.
@@ -2587,21 +2991,31 @@ Compete a la Administración General de Evaluación:
 
 I.- Someter a la aprobación del Jefe del Servicio de Administración Tributaria los planes, políticas, lineamientos y programas relacionados con el ámbito de su competencia, que deban seguir las unidades administrativas que le sean adscritas.
 
-II.- Vigilar y evaluar que el diseño e instrumentación de los sistemas, procesos y procedimientos de trabajo que apliquen las unidades administrativas del Servicio de Administración Tributaria cumplan con las disposiciones aplicables, así como la correcta operación de los mismos desde el punto de vista de seguridad interna.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
 
-III.- Solicitar la colaboración de las unidades administrativas del Servicio de Administración Tributaria, a fin de que coadyuven en el desarrollo de las funciones a que se refiere este artículo; requerir a dichas unidades la información y documentación necesaria para el ejercicio de sus atribuciones, incluido el acceso a las bases de datos que contengan la referida información y, en su caso, intervenir en las actividades sujetas a vigilancia, previa autorización del titular de la unidad administrativa de que se trate o de su superior jerárquico, inclusive en los actos de fiscalización del cumplimiento de las disposiciones fiscales y aduaneras, así como participar en los actos de fiscalización antes referidos, previa habilitación del personal necesario por parte de la unidad administrativa competente.
+II.- Vigilar y evaluar que el diseño e instrumentación de los sistemas, procesos, normas y procedimientos que apliquen las unidades administrativas del Servicio de Administración Tributaria cumplan con las disposiciones aplicables, así como la correcta operación de los mismos desde el punto de vista de seguridad interna.
 
-IV.- Coordinar con las demás Administraciones Generales del Servicio de Administración Tributaria la instrumentación de las medidas que se estimen pertinentes para prevenir el desvío de la actuación de los servidores públicos.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+III.- Solicitar la colaboración de las unidades administrativas del Servicio de Administración Tributaria, a fin de que coadyuven en el desarrollo de las funciones a que se refiere este artículo; requerir a dichas unidades la información y documentación necesaria para el ejercicio de sus atribuciones, incluido el acceso a las bases de datos que contengan la referida información y, en su caso, participar en las actividades sujetas a vigilancia, previa autorización del titular de la unidad administrativa de que se trate o de su superior jerárquico, inclusive en los actos de fiscalización del cumplimiento de las disposiciones fiscales y aduaneras, así como participar en los actos de fiscalización antes referidos, previa habilitación del personal necesario por parte de la unidad administrativa competente.
+
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+IV.- Coordinar con las demás Administraciones Generales del Servicio de Administración Tributaria la instrumentación de las medidas que se estimen pertinentes para prevenir el desvío de la actuación de los servidores públicos de dicho órgano desconcentrado.
 
 V.- Coordinar sus acciones con la Procuraduría Fiscal de la Federación, las unidades administrativas del Servicio de Administración Tributaria y el Órgano Interno de Control en dicho órgano desconcentrado, para dar seguimiento a los asuntos de su competencia.
 
-VI.- Analizar los hechos que puedan ser causa de responsabilidad de los servidores públicos del Servicio de Administración Tributaria en el desempeño de sus funciones haciendo acopio de los elementos probatorios y, en su caso, remitir el expediente con sus conclusiones a la Administración General Jurídica o denunciar ante el Órgano Interno de Control en el Servicio de Administración Tributaria los hechos que puedan constituir responsabilidades administrativas de los citados servidores públicos, así como dar seguimiento a las acciones que ejercite en la materia.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+VI.- Recopilar las pruebas, constancias, informes y documentación, inclusive aquellas que se encuentren almacenadas en medios electrónicos, a fin de detectar posibles desviaciones de las conductas de los servidores públicos del Servicio de Administración Tributaria, así como analizarlas y evaluarlas con carácter confidencial y, en su caso, proponer las acciones que correspondan de conformidad con las disposiciones aplicables, remitir el expediente con sus conclusiones a la Administración General Jurídica y denunciar ante el Órgano Interno de Control en el Servicio de Administración Tributaria los hechos que puedan constituir responsabilidades administrativas de los citados servidores públicos, así como dar seguimiento a las acciones que ejerza en la materia.
 
 VII.- Revisar los contratos y licitaciones públicas que se hayan llevado a cabo en el Servicio de Administración Tributaria para verificar su transparencia.
 
 VIII.- Procurar el establecimiento de criterios de calidad en las unidades administrativas del Servicio de Administración Tributaria que así lo ameriten.
 
-IX.- Entrevistar y aplicar evaluaciones de confiabilidad a los candidatos a ingresar al Servicio de Administración Tributaria para ocupar puestos de alto riesgo y a los servidores públicos del citado órgano desconcentrado que sean candidatos a ocupar dichos puestos, así como a los servidores públicos del Servicio de Administración Tributaria cuando así lo determine esta Administración General o a la que se encuentren adscritos; investigar antecedentes académicos, así como practicar investigaciones socioeconómicas a los servidores públicos que ocupen puestos de alto riesgo en el Servicio de Administración Tributaria y a los candidatos para ocuparlos.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+IX.- Coordinar la evaluación de la confiabilidad en el Servicio de Administración Tributaria, así como emitir criterios relativos a dicha materia; entrevistar y aplicar evaluaciones de confiabilidad a los candidatos a ingresar al Servicio de Administración Tributaria para ocupar puestos de riesgo y a los servidores públicos del citado órgano desconcentrado que sean candidatos a ocupar dichos puestos, así como a los servidores públicos del Servicio de Administración Tributaria cuando así lo determine esta Administración General o la unidad administrativa central a la que se encuentren adscritos; aplicar evaluaciones de confiabilidad, en su caso, a las personas con las que el Servicio de Administración Tributaria mantenga alguna relación contractual, así como a las personas que presten sus servicios o fuesen subcontratadas por aquéllas o los terceros relacionados con las mismas que mediante cualquier instrumento jurídico o causa legal tengan acceso a la información o documentación de dicho órgano desconcentrado; aplicar evaluaciones de confiabilidad a personas relacionadas con instituciones públicas y privadas en los términos de los convenios que se tengan celebrados para tales efectos; investigar antecedentes académicos, así como practicar investigaciones socioeconómicas y exámenes toxicológicos a los servidores públicos del Servicio de Administración Tributaria y a los candidatos a ingresar al mismo.
 
 X.- Entrevistar y aplicar, como parte del examen psicotécnico a que se refiere la Ley Aduanera, evaluaciones de confiabilidad de los aspirantes a agentes aduanales, agentes aduanales sustitutos, dictaminadores aduaneros y apoderados aduanales, o bien, a quienes ya se encuentren autorizados como tales.
 
@@ -2611,7 +3025,9 @@ XII.- Requerir y obtener de los servidores y fedatarios públicos, contribuyente
 
 XIII.- Practicar revisiones administrativas a las actuaciones de los servidores públicos adscritos al Servicio de Administración Tributaria con motivo de denuncias por presuntos actos de corrupción y quejas relacionadas con aspectos laborales o administrativos, a fin de constatar su probidad en el cumplimiento de las disposiciones aplicables y que sus actividades se realizan conforme al marco normativo que regula la operación de su cargo o comisión.
 
-XIV.- Programar, proponer y ejecutar las acciones con carácter confidencial que permitan prevenir y detectar las irregularidades en los servicios que presta el Servicio de Administración Tributaria a los contribuyentes, o aquellas que sean necesarias para corregirlas, así como darles seguimiento.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XIV.- Programar, proponer y ejecutar las acciones con carácter confidencial que permitan prevenir y detectar las irregularidades en los servicios que presta el Servicio de Administración Tributaria a los contribuyentes, así como las que sean necesarias para corregirlas y dar seguimiento a éstas.
 
 XV.- Revisar la adecuada utilización de los recursos asignados a las unidades administrativas del Servicio de Administración Tributaria.
 
@@ -2629,71 +3045,135 @@ XXI.- Coordinar y vigilar que las unidades administrativas del Servicio de Admin
 
 XXII.- Diseñar y actualizar el Modelo de Administración de Riesgos de Corrupción del Servicio de Administración Tributaria, coordinar su implantación en las unidades administrativas de dicho órgano desconcentrado, así como evaluar sus resultados.
 
-XXIII.- Dar seguimiento a los asuntos que le requiera el Jefe del Servicio de Administración Tributaria, informando el inicio de dicho seguimiento al titular de la unidad administrativa de que se trate.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXIII.- Planear, organizar, establecer, dirigir y controlar estrategias que permitan crear e instrumentar mecanismos y sistemas para prevenir y combatir conductas ilícitas en materia fiscal y aduanera en cualquier lugar en el que las unidades administrativas del Servicio de Administración Tributaria ejerzan sus facultades, de conformidad con las disposiciones legales aplicables; así como realizar los actos de prevención que se requieran en apoyo a las unidades administrativas del Servicio de Administración Tributaria en el ejercicio de sus facultades.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXIV.- Coadyuvar con las autoridades fiscales y aduaneras del Servicio de Administración Tributaria en la práctica de visitas domiciliarias, actos de vigilancia, inspecciones, verificación de mercancías en transporte, verificación en tránsito de vehículos de procedencia extranjera y de aeronaves y embarcaciones; en la vigilancia y custodia de los recintos fiscales y fiscalizados y de los bienes y valores depositados en ellos; en los demás actos para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones, aprovechamientos y sus accesorios que establezcan las disposiciones fiscales y aduaneras; así como en la verificación, tanto de la existencia de los documentos que acrediten la legal estancia y tenencia de las mercancías de comercio exterior, como del cumplimiento de las obligaciones en materia de regulaciones y restricciones no arancelarias y, en general, coadyuvar en el desarrollo de las demás actividades que tengan encomendadas conforme al presente Reglamento y las demás disposiciones aplicables.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXV.- Dar seguimiento y, en su caso, cumplir los acuerdos tomados por el Comité de Interventorías Internas del Servicio de Administración Tributaria; así como planear y desarrollar las interventorías internas que autorice dicho Comité.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXVI.- Nombrar, designar, remover, cambiar de adscripción, comisionar, reasignar o trasladar en los casos de interventorías internas a los servidores públicos del Servicio de Administración Tributaria, conforme a las disposiciones aplicables y a los lineamientos que para tal efecto emita el Comité de Interventorías Internas de dicho órgano desconcentrado, así como emitir la validación y realizar la suscripción a que se refieren las fracciones IX y XVII del artículo 28 del presente Reglamento en los supuestos comprendidos en la presente fracción, así como respecto del personal adscrito a la Administración General de Evaluación.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXVII.- Establecer para el mejor desempeño de sus facultades, acciones de coordinación con las demás unidades administrativas del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público, con las dependencias y entidades de la Administración Pública Federal y con las autoridades de las entidades federativas y municipios, de conformidad con la legislación fiscal y aduanera y demás disposiciones, en relación con las medidas de seguridad, control y vigilancia que deben aplicarse en aeropuertos, puertos marítimos, terminales ferroviarias o de autotransporte de carga o de pasajeros y cruces fronterizos autorizados para el tráfico internacional; coordinarse con las dependencias y organismos que lleven a cabo sus funciones en los mismos, y prestar servicios de seguridad y protección a las instalaciones y edificios, así como a servidores públicos, tanto de la Secretaría de Hacienda y Crédito Público, como del Servicio de Administración Tributaria que mediante acuerdo determine el Presidente de la Junta de Gobierno de dicho órgano desconcentrado, en los términos que se establezcan en el mismo.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXVIII.- Mantener comunicación con las autoridades fiscales y aduaneras de otros países para obtener y proporcionar información y documentación relacionada con asuntos fiscales y aduaneros de su competencia.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXIX.- Coordinar a las unidades administrativas del Servicio de Administración Tributaria para la aplicación de los sondeos y encuestas que se realicen a fin de evaluar la operación recaudatoria, la calidad y cobertura de los registros de padrones contemplados en la legislación fiscal y aduanera y demás servicios que preste o actividades que realice dicho órgano desconcentrado, incluso los que se presten o realicen al interior de dicho órgano desconcentrado, de acuerdo con lo que al efecto determinen las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXX.- Coordinar la instrumentación de acciones sobre la seguridad institucional del Servicio de Administración Tributaria, así como emitir criterios relativos a dicha materia.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXXI.- Emitir propuestas y opiniones a la Administración General de Comunicaciones y Tecnologías de la Información sobre los procedimientos y medidas a que se refiere el artículo 30, fracción XI del presente Reglamento, previo a su definición e instrumentación.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXXII.- Supervisar, evaluar y, en su caso, recomendar a la Administración General de Comunicaciones y Tecnologías de la Información la adecuación de los procesos de seguridad institucional en materia de comunicaciones y tecnologías de la información; de los sistemas de control de acceso, identificación y autentificación de usuarios de los bienes y servicios informáticos, así como de los demás procesos y sistemas utilizados para salvaguardar la confidencialidad, la integridad y la disponibilidad de los servicios e infraestructura de cómputo, comunicaciones y tecnologías de la información del Servicio de Administración Tributaria.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXXIII.- Ejecutar los mecanismos de control, configuración y monitoreo de seguridad para los servicios electrónicos, sistemas y aplicaciones, comunicación e intercambio de datos, sistemas operativos, infraestructura, mecanismos de almacenamiento y acceso a la información institucional, en el ámbito de su competencia.
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXXIV.- Requerir y obtener de las personas que prestan los servicios de segundo reconocimiento aduanero todo tipo de documentación e información relacionada con las operaciones de comercio exterior en las que participen, así como la relativa a otras operaciones y trámites en materia aduanera de los que tengan conocimiento.
 
 La Administración General de Evaluación estará a cargo de un Administrador General, auxiliado en el ejercicio de sus facultades por los servidores públicos que en adelante se señalan.
 
-Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Evaluación.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
-Administrador Central de Coordinación Evaluatoria:
+Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Evaluación:
 
-Administrador de Coordinación Evaluatoria "1".
+1. Administrador Central de Coordinación Evaluatoria:
 
-Administrador de Coordinación Evaluatoria "2".
+a) Administrador de Coordinación Evaluatoria “1”.
 
-Administrador de Coordinación Evaluatoria "3".
+b) Administrador de Coordinación Evaluatoria “2”.
 
-Administrador de Coordinación Evaluatoria "4".
+c) Administrador de Coordinación Evaluatoria “3”.
 
-Administrador Central de Análisis y Evaluación:
+d) Administrador de Coordinación Evaluatoria “4”.
 
-Administrador de Análisis y Evaluación "1".
+2. Administrador Central de Análisis y Evaluación:
 
-Administrador de Análisis y Evaluación "2".
+a) Administrador de Análisis y Evaluación “1”.
 
-Administrador de Análisis y Evaluación "3".
+b) Administrador de Análisis y Evaluación “2”.
 
-Administrador Central de Evaluación de la Confiabilidad:
+c) Administrador de Análisis y Evaluación “3”.
 
-Administrador de Evaluación de la Confiabilidad "1".
+3. Administrador Central de Evaluación de la Confiabilidad:
 
-Administrador de Evaluación de la Confiabilidad "2".
+a) Administrador de Evaluación de la Confiabilidad “1”.
 
-Administrador de Evaluación de la Confiabilidad "3".
+b) Administrador de Evaluación de la Confiabilidad “2”.
 
-Administrador de Evaluación de la Confiabilidad "4".
+c) Administrador de Evaluación de la Confiabilidad “3”.
 
-Administrador Central de Evaluación de Comercio Exterior y Aduanal:
+d) Administrador de Evaluación de la Confiabilidad “4”.
 
-Administrador de Evaluación de Comercio Exterior y Aduanal "1".
+4. Administrador Central de Evaluación de Comercio Exterior y Aduanal:
 
-Administrador de Evaluación de Comercio Exterior y Aduanal "2".
+a) Administrador de Evaluación de Comercio Exterior y Aduanal “1”.
 
-Administrador de Evaluación de Comercio Exterior y Aduanal "3".
+b) Administrador de Evaluación de Comercio Exterior y Aduanal “2”.
 
-Administrador Central de Evaluación de Impuestos Internos:
+c) Administrador de Evaluación de Comercio Exterior y Aduanal “3”.
 
-Administrador de Evaluación de Impuestos Internos "1".
+d) Administrador de Evaluación de Comercio Exterior y Aduanal “4”.
 
-Administrador de Evaluación de Impuestos Internos "2".
+5. Administrador Central de Evaluación de Impuestos Internos:
 
-Administrador de Evaluación de Impuestos Internos "3".
+a) Administrador de Evaluación de Impuestos Internos “1”.
 
-Administrador Central de Evaluación de Seguimiento:
+b) Administrador de Evaluación de Impuestos Internos “2”.
 
-Administrador de Evaluación de Seguimiento "1".
+c) Administrador de Evaluación de Impuestos Internos “3”.
 
-Administrador de Evaluación de Seguimiento "2".
+d) Administrador de Evaluación de Impuestos Internos “4”.
 
-Administrador de Evaluación de Seguimiento "3".
+6. Administrador Central de Evaluación de Seguimiento:
 
-Coordinadores de Evaluación.
+a) Administrador de Evaluación de Seguimiento “1”.
 
-Administradores Regionales de Evaluación.
+b) Administrador de Evaluación de Seguimiento “2”.
+
+c) Administrador de Evaluación de Seguimiento “3”.
+
+7. Administrador Central de Control y Seguridad Institucional:
+
+a) Administrador de Control y Seguridad Institucional “1”.
+
+b) Administrador de Control y Seguridad Institucional “2”.
+
+c) Administrador de Control y Seguridad Institucional “3”.
+
+d) Administrador de Control y Seguridad Institucional “4”.
+
+8. Coordinadores de Evaluación “1”, “2”, “3”, “4”, “5”, “6”, “7”, “8” y “9”.
+
+9. Administradores Regionales de Evaluación.
 
 La Administración General de Evaluación contará con los Coordinadores, Administradores, Subadministradores, Jefes de Departamento y demás personal que se requiera para satisfacer las necesidades del servicio.
 
 Cada Coordinación de Evaluación estará a cargo de un Coordinador del que dependerán los Subadministradores de Coordinación "1" y "2", así como los Jefes de Departamento y demás personal que las necesidades del servicio requiera.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
 ###### Artículo 33.
 
@@ -2701,33 +3181,43 @@ Compete a las siguientes unidades administrativas de la Administración General 
 
 A. Administración Central de Coordinación Evaluatoria:
 
-Las señaladas en las fracciones I, III, IV, V, VI, VIII y XX del artículo anterior de este Reglamento.
+Las señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXIII, XXV, XXVI, XXVIII, XXIX, XXXII y XXXIII del artículo anterior de este Reglamento.
 
 B. Administración Central de Análisis y Evaluación:
 
-Las señaladas en las fracciones III, IV, VIII, XI, XIV, XVII, XIX y XXII del artículo anterior de este Reglamento.
+Las señaladas en las fracciones II, III, IV, VI, VII, VIII, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXII y XXIX del artículo anterior de este Reglamento.
 
 C. Administración Central de Evaluación de la Confiabilidad:
 
-Las señaladas en las fracciones III, IV, V, IX, X, XI, XVIII y XX del artículo anterior de este Reglamento.
+Las señaladas en las fracciones III, IV, V, IX, X, XI, XII, XVII, XVIII, XIX, XX, XXII, XXV, XXVI y XXIX del artículo anterior de este Reglamento.
 
 D. Administración Central de Evaluación de Comercio Exterior y Aduanal:
 
-Las señaladas en las fracciones II, III, IV, V, VI, VIII, XII, XIII, XIV y XVI del artículo anterior de este Reglamento.
+Las señaladas en las fracciones II, III, IV, V, VI, VII, VIII, XI, XII, XIII, XIV, XV, XVI, XVII, XIX, XX, XXII, XXIII, XXIV, XXVII, XXXI, XXXII, XXXIII y XXXIV del artículo anterior de este Reglamento.
 
 E. Administración Central de Evaluación de Impuestos Internos:
 
-Las señaladas en las fracciones II, III, IV, V, VI, VIII, XII, XIII, XIV y XVI del artículo anterior de este Reglamento.
+Las señaladas en las fracciones II, III, IV, V, VI, VII, VIII, XI, XII, XIII, XIV, XV, XVI, XVII, XIX, XX, XXII, XXIII, XXIV, XXVII, XXXI, XXXII y XXXIII del artículo anterior de este Reglamento.
 
 F. Administración Central de Evaluación de Seguimiento:
 
-Las señaladas en las fracciones III, IV, V, XII, XIV, XXI y XXIII del artículo anterior de este Reglamento.
+Las señaladas en las fracciones III, IV, V, XVII, XIX, XXI y XXII del artículo anterior de este Reglamento.
+
+G. Administración Central de Control y Seguridad Institucional:
+
+Las señaladas en las fracciones VI, VIII, XII, XIV, XXIII, XXIV, XXV, XXVI, XXVII, XXX, XXXI, XXXII, XXXIII y XXXIV del artículo anterior de este Reglamento.
+
+H. Coordinaciones de Evaluación “1”, “2”, “3”, “4”, “5”, “6”, “7”, “8” y “9”:
+
+Las señaladas en las fracciones II, III, IV, VI, VII, VIII, XI, XII, XIII, XIV, XV, XVI, XX, XXI, XXXI, XXXII y XXXIII del artículo anterior de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
 ###### Artículo 34.
 
-Compete a las Administraciones Regionales de Evaluación ejercer, respecto de todas las unidades administrativas regionales que se encuentren en su circunscripción territorial, las facultades señaladas en las fracciones III, IV, V, VI, VII, VIII, XII, XIII, XIV, XV, XVI y XX del artículo 32 de este Reglamento.
+Compete a las Administraciones Regionales de Evaluación ejercer, respecto de todas las unidades administrativas regionales que se encuentren en su circunscripción territorial, las facultades señaladas en las fracciones II, III, IV, V, VI, VII, VIII, XI, XII, XIII, XIV, XV, XVI, XVIII, XX, XXIX y XXXIV del artículo 32 de este Reglamento, así como las demás acciones que les encomiende el Administrador General de Evaluación.
 
-Cada Administración Regional de Evaluación estará a cargo de un Administrador Regional de Evaluación del que dependerán los Administradores de Evaluación "1" y "2", así como los Subadministradores, Jefes de Departamento y demás personal que las necesidades del servicio requiera. Las Administraciones Regionales del Noreste, Noroeste, Norte Centro y Metropolitana, contarán adicionalmente con un Administrador de Evaluación "3".
+Cada Administración Regional de Evaluación estará a cargo de un Administrador Regional de Evaluación del que dependerán los Administradores de Evaluación “1” y “2”, así como los Subadministradores, Jefes de Departamento y demás personal que las necesidades del servicio requiera. Las Administraciones Regionales del Noreste, Noroeste, Pacífico Norte, Norte Centro y Metropolitana, contarán adicionalmente con un Administrador de Evaluación “3”.
 
 ### Capítulo XI. De la Administración General de Planeación
 
@@ -2747,11 +3237,15 @@ V.- Recabar, inventariar y mantener actualizado el marco de referencia de proces
 
 VI.- Coordinar, analizar y definir los modelos de integración de la información para el Servicio de Administración Tributaria.
 
-VII.- Determinar y establecer los métodos, técnicas, herramientas y mediciones de calidad institucional.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+VII.- Determinar y establecer los métodos, técnicas, herramientas y mediciones de calidad de los procesos tributarios y aduaneros.
 
 VIII.- Apoyar a las unidades administrativas del Servicio de Administración Tributaria en la planeación presupuestaria de los proyectos estratégicos del propio órgano.
 
-IX.- Desarrollar esquemas de evaluación de la eficiencia y productividad de los procesos sustantivos y administrativos del Servicio de Administración Tributaria.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+IX.- Desarrollar esquemas de evaluación de la eficiencia y productividad de los procesos tributarios y aduaneros del Servicio de Administración Tributaria.
 
 X.- Coordinar los proyectos que se requieran para promover el cumplimiento de los objetivos estratégicos del Servicio de Administración Tributaria.
 
@@ -2761,11 +3255,17 @@ XII.- Estudiar, analizar e investigar el comportamiento de los diversos sectores
 
 XIII.- Solicitar y recabar los datos estadísticos necesarios para analizar el impacto que representan en los ingresos federales las actividades desarrolladas por las unidades administrativas del Servicio de Administración Tributaria.
 
-XIV.- Realizar los estudios que se requieran para el desarrollo de las actividades encomendadas al Servicio de Administración Tributaria.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
 
-XV.- Instrumentar los mecanismos para la implementación de los proyectos especiales, por sector de contribuyentes, en el ámbito de su competencia.
+XIV.- Realizar los estudios a que se refiere el artículo 29 de la Ley del Servicio de Administración Tributaria, así como los que se requieran para el desarrollo de las actividades encomendadas a dicho órgano desconcentrado.
 
-XVI.- Proponer y coordinar el desarrollo de modelos de riesgo que puedan ser utilizados por las unidades administrativas del Servicio de Administración Tributaria.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XV.- Aplicar mecanismos para la instrumentación de proyectos especiales por sector de contribuyentes, responsables solidarios, productores, importadores, exportadores y demás obligados, en el ámbito de su competencia.
+
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XVI.- Emitir lineamientos para el diseño, desarrollo, instrumentación, evaluación y actualización de los modelos de riesgo de las unidades administrativas del Servicio de Administración Tributaria, excluyendo los relativos al combate a la corrupción.
 
 XVII.- Evaluar la aplicación de los modelos de riesgo desarrollados por parte de las unidades administrativas del Servicio de Administración Tributaria, calificando la calidad y eficiencia de los mismos y, en su caso, proponer su actualización, excluyendo los relativos al combate a la corrupción.
 
@@ -2773,7 +3273,9 @@ XVIII.- Diseñar parámetros de fiscalización para los diferentes sectores de c
 
 XIX.- Proponer la revisión y, en su caso, rediseño de los procesos de las unidades administrativas del Servicio de Administración Tributaria.
 
-XX.- Analizar, conjuntamente con las unidades administrativas del Servicio de Administración Tributaria, las propuestas de cambios en los procesos, estructuras, servicios y demás actividades de las mismas, así como formular propuestas de mejora institucional.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XX.- Analizar, conjuntamente con las unidades administrativas del Servicio de Administración Tributaria, las propuestas de modificación a los procesos, estructuras, servicios y demás actividades de las mismas; emitir lineamientos para su instrumentación y formular propuestas de mejora institucional.
 
 XXI.- Agrupar y desarrollar prácticas organizacionales que permitan mejoras continuas y llevar a cabo las actividades que permitan la adopción de mejores prácticas.
 
@@ -2791,19 +3293,29 @@ XXVII.- Revisar y actualizar las disposiciones y los procedimientos de los subsi
 
 XXVIII.- Participar con la unidad competente de la Secretaría de Hacienda y Crédito Público en la elaboración y revisión de las actividades de información, difusión y relaciones públicas del Servicio de Administración Tributaria, así como en los comunicados que en las materias de su competencia, formulen las unidades administrativas del Servicio de Administración Tributaria a los contribuyentes.
 
-XXIX.- Proponer y apoyar a la Secretaría de Hacienda y Crédito Público en las campañas de difusión en materia fiscal y proponer los medios de comunicación en que se realicen, y apoyar a dicha Secretaría en la evaluación de las actividades de información, difusión y relaciones públicas del Servicio de Administración Tributaria, así como en la edición y distribución de cualquier medio impreso y electrónico en materia fiscal.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
 
-XXX.- Proponer y apoyar a la Secretaría de Hacienda y Crédito Público en las campañas de difusión en materia aduanera, así como sugerir los medios de comunicación en que se realicen.
+XXIX.- Proponer y apoyar a la Secretaría de Hacienda y Crédito Público en las campañas de difusión en materia fiscal y aduanera, sugerir los medios de comunicación en que se realicen y apoyarla en la evaluación de las actividades de información, difusión y relaciones públicas del Servicio de Administración Tributaria.
+
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXX.- Coordinar los proyectos que se requieran en términos de arquitectura institucional e instrumentar acciones de mejora continua.
 
 XXXI.- Proponer estrategias para fomentar el uso de los medios electrónicos de pago, comprobantes digitales y otros programas auxiliares a la fiscalización, en coordinación con las demás unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público.
 
-XXXII.- Coordinar la comunicación institucional al interior del Servicio de Administración Tributaria, así como apoyar las iniciativas de administración del cambio que se requieran para promover los proyectos de transformación, conforme a los objetivos estratégicos del citado órgano desconcentrado.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXXII.- Coordinar la comunicación interna del Servicio de Administración Tributaria, así como apoyar las iniciativas de administración del cambio que se requieran para promover los proyectos de transformación, conforme a los objetivos estratégicos del citado órgano desconcentrado.
 
 XXXIII.- Proponer y emitir en coordinación con las demás unidades administrativas competentes del Servicio de Administración Tributaria los lineamientos para el diseño de estrategias para el desarrollo y el fortalecimiento de los servicios digitales y otros programas que faciliten el cumplimiento voluntario y oportuno de las obligaciones fiscales y aduaneras.
 
-XXXIV.- Generar, de conformidad con los artículos 22 y 23 de la Ley del Servicio de Administración Tributaria, los datos estadísticos necesarios.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
 
-XXXV.- Diseñar y elaborar un marco geográfico fiscal que permita georeferenciar cualquier tipo de información, así como actualizar tanto el sistema de información geográfica fiscal como dicho marco.
+XXXIV.- Concentrar y remitir a la instancia que corresponda los datos estadísticos a que se refieren los artículos 22 y 23 de la Ley del Servicio de Administración Tributaria.
+
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXXV.- Participar, en coordinación con la Administración General de Servicios al Contribuyente en el diseño y elaboración de un marco geográfico fiscal que permita georeferenciar cualquier tipo de información, así como en la actualización del sistema de información geográfica fiscal y de dicho marco.
 
 XXXVI.- Emitir, a la Administración General de Servicios al Contribuyente, opinión respecto de las formas oficiales y demás documentos requeridos por las disposiciones fiscales y aduaneras así como en la integración y actualización de los archivos que se utilicen para el procesamiento electrónico de datos.
 
@@ -2811,35 +3323,43 @@ XXXVII.- Definir la estructura del repositorio institucional de procesos, así c
 
 XXXVIII.- Realizar las acciones necesarias para proporcionar a las autoridades competentes de la Secretaría de Hacienda y Crédito Público la información necesaria para la evaluación y diseño de la política fiscal y aduanera, así como para la elaboración de los informes que la propia Secretaría esté obligada a presentar.
 
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
+
+XXXIX.- Fungir como enlace del Servicio de Administración Tributaria para el intercambio de información ante las unidades administrativas de la Secretaría de Relaciones Exteriores, Estados Extranjeros y Organismos Internacionales, en las materias de su competencia.
+
 La Administración General de Planeación estará a cargo de un Administrador General, auxiliado en el ejercicio de sus facultades por los servidores públicos que en adelante se señalan.
 
-Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Planeación.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
-Administrador Central de Desarrollo de Modelos:
+Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General de Planeación:
 
-Administrador de Desarrollo de Modelos.
+1. Administrador Central de Desarrollo de Modelos:
 
-Administrador Central de Inteligencia Tributaria de Impuestos Internos:
+a) Administrador de Desarrollo de Modelos.
 
-Administrador de Inteligencia Tributaria de Impuestos Internos.
+2. Administrador Central de Inteligencia Tributaria de Impuestos Internos:
 
-Administrador Central de Planeación y Evaluación de la Gestión:
+a) Administrador de Inteligencia Tributaria de Impuestos Internos.
 
-Administrador de Planeación y Evaluación de la Gestión.
+3. Administrador Central de Planeación y Evaluación de la Gestión:
 
-Administrador Central del Centro de Competencias:
+a) Administrador de Planeación y Evaluación de la Gestión.
 
-Administrador del Centro de Competencias.
+4. Administrador Central del Centro de Competencias:
 
-Administrador Central de Inteligencia Tributaria de Comercio Exterior:
+a) Administrador del Centro de Competencias.
 
-Administrador de Inteligencia Tributaria de Comercio Exterior.
+5. Administrador Central de Inteligencia Tributaria de Comercio Exterior:
 
-Administrador Central de Comunicación Institucional:
+a) Administrador de Inteligencia Tributaria de Comercio Exterior.
 
-Administrador de Comunicación Institucional.
+6. Administrador Central de Comunicación Institucional:
+
+a) Administrador de Comunicación Institucional.
 
 La Administración General de Planeación adicionalmente contará con el personal que se requiera para satisfacer las necesidades del servicio.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
 ###### Artículo 36.
 
@@ -2847,15 +3367,15 @@ Compete a las siguientes unidades administrativas de la Administración General 
 
 A. Administración Central de Desarrollo de Modelos:
 
-Las señaladas en las fracciones I, II, V, VI, VII, X, XV, XVI, XVII, XVIII, XIX, XXV, XXVI y XXXVIII del artículo anterior de este Reglamento.
+Las señaladas en las fracciones I, II, V, VI, VII, X, XV, XVI, XVII, XVIII, XIX, XXV, XXVI, XXX y XXXVIII del artículo anterior de este Reglamento.
 
 B. Administración Central de Inteligencia Tributaria de Impuestos Internos:
 
-Las señaladas en las fracciones I, II, III, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIV, XXV, XXVI, XXVII, XXX, XXXIV y XXXVI del artículo anterior de este Reglamento.
+Las señaladas en las fracciones I, II, III, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIV, XXV, XXVI, XXVII, XXXIV y XXXVI del artículo anterior de este Reglamento.
 
 C. Administración Central de Planeación y Evaluación de la Gestión:
 
-Las señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXIV y XXXV del artículo anterior de este Reglamento.
+Las señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXXIV y XXXV del artículo anterior de este Reglamento.
 
 D. Administración Central del Centro de Competencias:
 
@@ -2863,11 +3383,11 @@ Las señaladas en las fracciones I, IV, V, VI, VII, IX, X, XI, XV, XX, XXI, XXII
 
 E. Administración Central de Inteligencia Tributaria de Comercio Exterior:
 
-Las señaladas en las fracciones I, II, III, IV, VI, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIV, XXV, XXVI, XXVII, XXX, XXXIV y XXXVI del artículo anterior de este Reglamento.
+Las señaladas en las fracciones I, II, III, IV, VI, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIV, XXV, XXVI, XXVII, XXXIV y XXXVI del artículo anterior de este Reglamento.
 
 F. Administración Central de Comunicación Institucional:
 
-Las señaladas en las fracciones V, X, XV, XXIV, XXVI, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII y XXXV del artículo anterior de este Reglamento.
+Las señaladas en las fracciones V, X, XV, XXIV, XXVI, XXVIII, XXIX, XXXI, XXXII, XXXIII, XXXV y XXXIX del artículo anterior de este Reglamento.
 
 ### Capítulo XII. Del Nombre y Sede de las Unidades Administrativas Regionales
 
@@ -2889,127 +3409,133 @@ IV.- De Tijuana, con sede en Tijuana, Baja California.
 
 V.- De La Paz, con sede en La Paz, Baja California Sur.
 
-VI.- De Campeche, con sede en Ciudad de San Francisco de Campeche, Campeche.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-VII.- De Piedras Negras, con sede en Piedras Negras, Coahuila.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE ABRIL DE 2010)</small>
 
-VIII.- De Saltillo, con sede en Saltillo, Coahuila.
+VI.- De Los Cabos, con sede en Los Cabos, Baja California Sur.
 
-IX.- De Torreón, con sede en Torreón, Coahuila.
+VII.- De Campeche, con sede en Ciudad de San Francisco de Campeche, Campeche.
 
-X.- De Colima, con sede en Colima, Colima.
+VIII.- De Piedras Negras, con sede en Piedras Negras, Coahuila.
 
-XI.- De Tapachula, con sede en Tapachula, Chiapas.
+IX.- De Saltillo, con sede en Saltillo, Coahuila.
 
-XII.- De Tuxtla Gutiérrez, con sede en Tuxtla Gutiérrez, Chiapas.
+X.- De Torreón, con sede en Torreón, Coahuila.
 
-XIII.- De Ciudad Juárez, con sede en Ciudad Juárez, Chihuahua.
+XI.- De Colima, con sede en Colima, Colima.
 
-XIV.- De Chihuahua, con sede en Chihuahua, Chihuahua.
+XII.- De Tapachula, con sede en Tapachula, Chiapas.
 
-XV.- De Durango, con sede en Victoria de Durango, Durango.
+XIII.- De Tuxtla Gutiérrez, con sede en Tuxtla Gutiérrez, Chiapas.
 
-XVI.- De Celaya, con sede en Celaya, Guanajuato.
+XIV.- De Ciudad Juárez, con sede en Ciudad Juárez, Chihuahua.
 
-XVII.- De Irapuato, con sede en Irapuato, Guanajuato.
+XV.- De Chihuahua, con sede en Chihuahua, Chihuahua.
 
-XVIII.- De León, con sede en León, Guanajuato.
+XVI.- De Durango, con sede en Victoria de Durango, Durango.
 
-XIX.- De Acapulco, con sede en Acapulco de Juárez, Guerrero.
+XVII.- De Celaya, con sede en Celaya, Guanajuato.
 
-XX.- De Iguala, con sede en Iguala de la Independencia, Guerrero.
+XVIII.- De Irapuato, con sede en Irapuato, Guanajuato.
 
-XXI.- De Pachuca, con sede en Pachuca, Hidalgo.
+XIX.- De León, con sede en León, Guanajuato.
 
-XXII.- De Ciudad Guzmán, con sede en Ciudad Guzmán, Jalisco.
+XX.- De Acapulco, con sede en Acapulco de Juárez, Guerrero.
 
-XXIII.- De Guadalajara, con sede en Guadalajara, Jalisco.
+XXI.- De Iguala, con sede en Iguala de la Independencia, Guerrero.
 
-XXIV.-De Guadalajara Sur, con sede en Guadalajara, Jalisco.
+XXII.- De Pachuca, con sede en Pachuca, Hidalgo.
 
-XXV.- De Puerto Vallarta, con sede en Puerto Vallarta, Jalisco.
+XXIII.- De Ciudad Guzmán, con sede en Ciudad Guzmán, Jalisco.
 
-XXVI.- De Zapopan, con sede en Zapopan, Jalisco.
+XXIV.- De Guadalajara, con sede en Guadalajara, Jalisco.
 
-XXVII.- De Naucalpan, con sede en cualquiera de los siguientes municipios: de Naucalpan de Juárez o de Tlalnepantla de Baz, Estado de México.
+XXV.- De Guadalajara Sur, con sede en Guadalajara, Jalisco.
 
-XXVIII.- De Toluca, con sede en Metepec, Estado de México.
+XXVI.- De Puerto Vallarta, con sede en Puerto Vallarta, Jalisco.
 
-XXIX.- De Morelia, con sede en Morelia, Michoacán.
+XXVII.- De Zapopan, con sede en Zapopan, Jalisco.
 
-XXX.- De Uruapan, con sede en Uruapan, Michoacán.
+XXVIII.- De Naucalpan, con sede en cualquiera de los siguientes municipios: de Naucalpan de Juárez o de Tlalnepantla de Baz, Estado de México.
 
-XXXI.- De Cuernavaca, con sede en Cuernavaca, Morelos.
+XXIX.- De Toluca, con sede en Metepec, Estado de México.
 
-XXXII.- De Tepic, con sede en Tepic, Nayarit.
+XXX.- De Morelia, con sede en Morelia, Michoacán.
 
-XXXIII.- De Guadalupe, con sede en Guadalupe, Nuevo León.
+XXXI.- De Uruapan, con sede en Uruapan, Michoacán.
 
-XXXIV.- De Monterrey, con sede en Monterrey, Nuevo León.
+XXXII.- De Cuernavaca, con sede en Cuernavaca, Morelos.
 
-XXXV.- De San Pedro Garza García, con sede en San Pedro Garza García, Nuevo León.
+XXXIII.- De Tepic, con sede en Tepic, Nayarit.
 
-XXXVI.- De Oaxaca, con sede en Oaxaca de Juárez, Oaxaca.
+XXXIV.- De Guadalupe, con sede en Guadalupe, Nuevo León.
 
-XXXVII.- De Puebla Norte, con sede en Heroica Puebla de Zaragoza, Puebla.
+XXXV.- De Monterrey, con sede en Monterrey, Nuevo León.
 
-XXXVIII.- De Puebla Sur, con sede en Heroica Puebla de Zaragoza, Puebla.
+XXXVI.- De San Pedro Garza García, con sede en San Pedro Garza García, Nuevo León.
 
-XXXIX.- De Querétaro, con sede en Santiago de Querétaro, Querétaro.
+XXXVII.- De Oaxaca, con sede en Oaxaca de Juárez, Oaxaca.
 
-XL.- De Cancún, con sede en Cancún, Quintana Roo.
+XXXVIII.- De Puebla Norte, con sede en Heroica Puebla de Zaragoza, Puebla.
 
-XLI.- De Chetumal, con sede en Chetumal, Quintana Roo.
+XXXIX.- De Puebla Sur, con sede en Heroica Puebla de Zaragoza, Puebla.
 
-XLII.- De San Luis Potosí, con sede en San Luis Potosí, San Luis Potosí.
+XL.- De Querétaro, con sede en Santiago de Querétaro, Querétaro.
 
-XLIII.- De Culiacán, con sede en Culiacán Rosales, Sinaloa.
+XLI.- De Cancún, con sede en Cancún, Quintana Roo.
 
-XLIV.- De Los Mochis, con sede en Los Mochis, Sinaloa.
+XLII.- De Chetumal, con sede en Chetumal, Quintana Roo.
 
-XLV.- De Mazatlán, con sede en Mazatlán, Sinaloa.
+XLIII.- De San Luis Potosí, con sede en San Luis Potosí, San Luis Potosí.
 
-XLVI.- De Ciudad Obregón, con sede en Ciudad Obregón, Sonora.
+XLIV.- De Culiacán, con sede en Culiacán Rosales, Sinaloa.
 
-XLVII.- De Hermosillo, con sede en Hermosillo, Sonora.
+XLV.- De Los Mochis, con sede en Los Mochis, Sinaloa.
 
-XLVIII.- De Nogales, con sede en Nogales, Sonora.
+XLVI.- De Mazatlán, con sede en Mazatlán, Sinaloa.
 
-XLIX.- De Villahermosa, con sede en Villahermosa, Tabasco.
+XLVII.- De Ciudad Obregón, con sede en Ciudad Obregón, Sonora.
 
-L.- De Ciudad Victoria, con sede en Ciudad Victoria, Tamaulipas.
+XLVIII.- De Hermosillo, con sede en Hermosillo, Sonora.
 
-LI.- De Matamoros, con sede en Matamoros, Tamaulipas.
+XLIX.- De Nogales, con sede en Nogales, Sonora.
 
-LII.- De Nuevo Laredo, con sede en Nuevo Laredo, Tamaulipas.
+L.- De Villahermosa, con sede en Villahermosa, Tabasco.
 
-LIII.- De Reynosa, con sede en Reynosa, Tamaulipas.
+LI.- De Ciudad Victoria, con sede en Ciudad Victoria, Tamaulipas.
 
-LIV.- De Tampico, con sede en Tampico, Tamaulipas.
+LII.- De Matamoros, con sede en Matamoros, Tamaulipas.
 
-LV.- De Tlaxcala, con sede en Tlaxcala de Xicohténcatl, Tlaxcala.
+LIII.- De Nuevo Laredo, con sede en Nuevo Laredo, Tamaulipas.
 
-LVI.- De Coatzacoalcos, con sede en Coatzacoalcos, Veracruz.
+LIV.- De Reynosa, con sede en Reynosa, Tamaulipas.
 
-LVII.- De Córdoba, con sede en Córdoba, Veracruz.
+LV.- De Tampico, con sede en Tampico, Tamaulipas.
 
-LVIII.- De Tuxpan, con sede en Tuxpan de Rodríguez Cano, Veracruz.
+LVI.- De Tlaxcala, con sede en Tlaxcala de Xicohténcatl, Tlaxcala.
 
-LIX.- De Veracruz, con sede en Veracruz, Veracruz.
+LVII.- De Coatzacoalcos, con sede en Coatzacoalcos, Veracruz.
 
-LX.- De Xalapa, con sede en Xalapa, Veracruz.
+LVIII.- De Córdoba, con sede en Córdoba, Veracruz.
 
-LXI.- De Mérida, con sede en Mérida, Yucatán.
+LIX.- De Tuxpan, con sede en Tuxpan de Rodríguez Cano, Veracruz.
 
-LXII.- De Zacatecas, con sede en Zacatecas, Zacatecas.
+LX.- De Veracruz, con sede en Veracruz, Veracruz.
 
-LXIII.- Del Centro del Distrito Federal, con sede en el Distrito Federal.
+LXI.- De Xalapa, con sede en Xalapa, Veracruz.
 
-LXIV.- Del Norte del Distrito Federal, con sede en el Distrito Federal.
+LXII.- De Mérida, con sede en Mérida, Yucatán.
 
-LXV.- Del Oriente del Distrito Federal, con sede en el Distrito Federal.
+LXIII.- De Zacatecas, con sede en Zacatecas, Zacatecas.
 
-LXVI.- Del Sur del Distrito Federal, con sede en el Distrito Federal.
+LXIV.- Del Centro del Distrito Federal, con sede en el Distrito Federal.
+
+LXV.- Del Norte del Distrito Federal, con sede en el Distrito Federal.
+
+LXVI.- Del Oriente del Distrito Federal, con sede en el Distrito Federal.
+
+LXVII.- Del Sur del Distrito Federal, con sede en el Distrito Federal.
 
 Fuera de la sedes de las administraciones locales a que se refieren las fracciones anteriores, podrán establecerse Subadministraciones de Servicios al Contribuyente, Jurídicas, de Recaudación y de Auditoría Fiscal, mediante acuerdo del Jefe del Servicio de Administración Tributaria, en el que se determinará la Subadministración de que se trate y su circunscripción territorial. La Administración Local de la sede conservará la competencia sobre los contribuyentes cuyo domicilio fiscal se encuentre dentro de la circunscripción territorial que señale el acuerdo respectivo.
 
@@ -3115,25 +3641,31 @@ XLIX.- Aduana de Progreso, con sede en Progreso, Yucatán.
 
 El Jefe del Servicio de Administración Tributaria podrá establecer o suprimir las secciones aduaneras correspondientes. Las unidades administrativas citadas en las fracciones que anteceden, podrán estar en el municipio que corresponda a la ciudad que identifique la Aduana, en cualquiera de los municipios colindantes, así como en el Aeropuerto Internacional o en el puerto que corresponda a esa ciudad. Tratándose de la Ciudad de México, las aduanas podrán estar ubicadas en el Distrito Federal o en cualquiera de los municipios que forman su área conurbada.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
+
 C. Administraciones Regionales de Evaluación:
 
 I.- Del Noreste, con sede en Guadalupe, Nuevo León.
 
-II.- Del Noroeste, con sede en Tijuana, Baja California.
+II.- Del Noroeste, con sede en Hermosillo, Sonora.
 
-III.- Del Norte Centro, con sede en Torreón, Coahuila.
+III.- Del Pacífico Norte, con sede en Tijuana, Baja California.
 
-IV.- Del Centro, con sede en Celaya, Guanajuato.
+IV.- Del Norte Centro, con sede en Torreón, Coahuila.
 
-V.- Del Occidente, con sede en Zapopan, Jalisco.
+V.- Del Centro, con sede en Santiago de Querétaro, Querétaro.
 
-VI.- Del Pacífico Centro, con sede en Heroica Puebla de Zaragoza, Puebla.
+VI.- Del Occidente, con sede en Zapopan, Jalisco.
 
-VII.- Del Sur, con sede en Veracruz, Veracruz.
+VII.- Del Pacífico Centro, con sede en Heroica Puebla de Zaragoza, Puebla.
 
-VIII.- Del Sureste, con sede en Mérida, Yucatán.
+VIII.- Del Sur, con sede en Veracruz, Veracruz.
 
-IX.- Metropolitana, con sede en el Distrito Federal.
+IX.- Del Sureste, con sede en Mérida, Yucatán.
+
+X.- Metropolitana, con sede en el Distrito Federal.
 
 D. Administraciones Regionales de Comunicaciones y Tecnologías de la Información:
 
@@ -3206,3 +3738,19 @@ X. La Administración Central de Destino de Bienes, transferirá al Servicio de 
 Una vez realizadas las acciones a que se refiere el párrafo que antecede, el personal, mobiliario y equipo en general que haya sido utilizado para tales efectos continuará adscrito y resguardado por la Administración Central de Destino de Bienes.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de octubre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 29 DE ABRIL DE 2010.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La reforma al artículo 37, apartados A y C del Reglamento del Servicio de Administración Tributaria entrará en vigor en la fecha en que inicie la vigencia del Acuerdo por el que se establezca la circunscripción territorial de las unidades administrativas regionales que por virtud de este Decreto se crean.
+
+Tercero. Cuando la competencia de alguna unidad administrativa establecida con anterioridad a la vigencia de este Decreto, deba ser ejercida por otra u otras unidades que en el mismo se establecen, corresponderá a la unidad administrativa competente terminar la sustanciación de los asuntos que se encuentren en trámite y, en su caso, dictar la resolución que corresponda.
+
+El personal, expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia por virtud de este Decreto, pasarán a la unidad o unidades competentes distribuyéndose, en su caso, de conformidad con el ámbito de facultades que a cada una le corresponda.
+
+Los asuntos que se encontraban a cargo de la Administración Regional de Evaluación del Noroeste, con sede en Tijuana, Baja California, serán atendidos y concluidos, por la Administración Regional de Evaluación del Pacífico Norte o por la Administración Regional de Evaluación del Noroeste, en razón de la circunscripción territorial que les corresponda a cada una conforme al Acuerdo por el que se establezca su circunscripción territorial.
+
+Cuarto. Las modificaciones a la estructura orgánica que deriven de la entrada en vigor del presente Decreto serán realizadas mediante movimientos compensados, por lo que el Servicio de Administración Tributaria debe sujetarse al Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2010 y no incrementar su presupuesto regularizable en el rubro de servicios personales.
