@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2010-01-05"
+last_updated: "2010-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -257,7 +257,9 @@ VII.- Vigilar, en auxilio de las Autoridades Federales, el desarrollo de los eve
 
 VIII.- En los términos de la Ley de Asociaciones Religiosas y Culto Público y sus disposiciones reglamentarias, promover, coadyuvar, coordinar y vigilar el efectivo cumplimiento de las facultades y responsabilidades que dicho ordenamiento otorga a las autoridades estatales, así como auxiliar en la gestión e impulso de su eficaz cumplimiento ante todas las autoridades competentes en términos de los convenios que al efecto se celebren;
 
-IX.- Representar al Gobierno del Estado en los Juicios de Amparo;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+
+IX.- Representar al Poder Ejecutivo del Estado en los Juicios de Amparo, por sí o por conducto de la Subsecretaría Jurídica;
 
 X.- Tramitar la expedición de pasaportes, en los términos de los Convenios respectivos;
 
@@ -299,17 +301,17 @@ XX.- Establecer el sistema estatal de protección civil; coordinar las acciones 
 
 XXI.- Vigilar que en los asuntos de orden administrativo que competen al Poder Ejecutivo del Estado, se observen los principios de constitucionalidad y legalidad;
 
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-XXII.- Asesorar en las controversias constitucionales en las que el Ejecutivo del Estado sea parte;
+XXII.- Ejercer la representación legal del Estado, en el ámbito que corresponde al Poder Ejecutivo Estatal;
 
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-XXIII.- Asesorar al Ejecutivo del Estado, en las acciones y controversias constitucionales a que se refiere el artículo 105 de la Constitución Federal;
+XXIII.- Asistir y representar legalmente al Poder Ejecutivo del Estado, en las acciones y controversias constitucionales a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicano (sic);
 
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-XXIV.- Asistir jurídicamente al Poder Ejecutivo en todos los juicios o negocios en que intervenga como parte que afecten su patrimonio o tenga interés jurídico;
+XXIV.- Asistir y representar legalmente al Poder Ejecutivo del Estado y a su titular, por sí o por conducto de la Subsecretaría Jurídica, en todos los negocios, juicios o controversias de carácter administrativo, agrario, civil, electoral, laboral y penal, en que intervengan, sean parte, tengan interés jurídico o que afecten su patrimonio;
 
 > <small>(REFORMADA, P.O. 3 DE ENERO DE 2003)</small>
 
@@ -351,9 +353,11 @@ XXXIII.- Las demás que determinen expresamente las Leyes y Reglamentos.
 
 DE LA COMPETENCIA DE LA OFICIALIA MAYOR DE GOBIERNO.
 
-###### ARTICULO 20.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 2010)</small>
 
-A la Oficialía Mayor de Gobierno le corresponde, además de lo que expresamente le confiere la Constitución Política del Estado, la atención y trámite de los siguientes asuntos:
+###### ARTÍCULO 20.
+
+A la Oficialía Mayor de Gobierno le corresponde, en el ámbito que corrresponde (sic) al Poder Ejecutivo del Estado, además de lo que expresamente le confiere la Constitución Política del Estado, la atención y trámite de los siguientes asuntos:
 
 I.- Formular y expedir las normas y políticas administrativas para el manejo del personal, los recursos materiales y bienes muebles e inmuebles del Gobierno del Estado;
 
@@ -371,11 +375,15 @@ VI.- Mantener al corriente el escalafón de los trabajadores al Servicio del Gob
 
 VII.- Adquirir y suministrar los bienes y servicios que requiera el funcionamiento de las Dependencias de la Administración Pública Centralizada; y representar al Gobierno del Estado en los Comités de Compras y Ventas;
 
-VIII.- Resguardar los bienes muebles e inmuebles propiedad del Estado, así como levantar y mantener al corriente el inventario de los mismos;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+
+VIII.- Resguardar los bienes muebles e inmuebles propiedad del Estado y en su caso ejercer las acciones, hacer valer las excepciones legales que correspondan y demás medidas previstas en la Ley General de Bienes del Estado, para la obtención, conservación o recuperación de los mismos;
 
 IX.- Administrar los Almacenes Generales del Gobierno del Estado;
 
-X.- Administrar la intendencia y dar mantenimiento a los bienes muebles e inmuebles del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+
+X.- Administrar la intendencia y dar mantenimiento a los bienes muebles e inmuebles del Estado; así como elaborar y mantener actualizado el inventario de los mismos;
 
 XI.- Coordinar y supervisar la emisión de publicaciones oficiales del Gobierno del Estado y administrar los Talleres Gráficos;
 
@@ -521,13 +529,13 @@ I.- Planear, organizar y coordinar el sistema de control y evaluación gubername
 
 II.- Expedir las normas que regulan el funcionamiento de los instrumentos y procedimientos de control de la Administración Pública Estatal, y en su caso requerir de las dependencias competentes, la instrumentación de normas complementarias para el ejercicio de facultades que aseguren el control.
 
-III.- Vigilar el cumplimiento de las normas de control y fiscalización, así como asesorar y apoyar a los órganos de control interno de las dependencias y entidades de la Administración Pública del Estado.
+III.- Vigilar el cumplimiento de las normas de control y fiscalización, así como asesorar y apoyar a los órganos de control internos de las dependencias y entidades de la Administración Pública del Estado.
 
-IV.- Establecer las bases generales para la realización de auditorías en las dependencias y entidades de la Administración Pública del Estado, así como realizar las auditorías que se requieren a las dependencias y entidades en sustitución o apoyo de sus propios órganos de control.
+IV.- Establecer las bases generales para la realización de auditorias en las dependencias y entidades de la Administración Pública del Estado, así como realizar las auditorías que se requieren a las dependencias y entidades en sustitución o apoyo de sus propios órganos de control.
 
 V.- Comprobar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado de las mismas.
 
-VI.- Realizar, por si o a solicitud de la Secretaría de Planeación y Finanzas, Oficialía Mayor de Gobierno o de la Coordinación del Sector correspondiente, auditorías y evaluaciones a las dependencias y entidades con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas.
+VI.- Realizar, por si o a solicitud de la Secretaria de Planeación y Finanzas, Oficialía Mayor de Gobierno o de la Coordinación del Sector correspondiente, auditorias y evaluaciones a las dependencias y entidades con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas.
 
 VII.- Inspeccionar y vigilar directamente o a través de los órganos de control que las dependencias y entidades cumplan con las normas y disposiciones en materia de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal.
 
@@ -713,45 +721,45 @@ DE LA COMPETENCIA DE LA SECRETARIA DE FOMENTO AGROPECUARIO.
 
 A la Secretaría de Fomento Agropecuario le corresponde la atención y trámite de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-I.- Cumplir y hacer cumplir la Ley de Fomento Agropecuario y Forestal del Estado de Baja California y las demás Disposiciones Legales aplicables en la materia;
+I.- Cumplir y hacer cumplir las disposiciones legales en materia agropecuaria que se emitan en el Estado y las demás aplicables en la materia;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-II.- Promover la explotación, reproducción, mejoramiento, fomento y protección de las especies agrícolas, ganaderas, avícolas y forestales;
+Il.- Promover la explotación, reproducción, mejoramiento, fomento y protección de las especies agrícolas, ganaderas y avícolas;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-III.- Proyectar y coordinar los programas de fomento, mejoramiento, protección y explotación de los terrenos agrícolas, pastizales naturales y cultivados, así como los de los recursos forestales del Estado;
+IIl.- Proyectar y coordinar los programas de fomento, mejoramiento, protección y explotación de los terrenos agrícolas, pastizales naturales y cultivados;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-IV.- Proponer y ejecutar actividades destinadas al fomento, mejora e industrialización de los productos y subproductos agrícolas, ganaderos, avícolas, y forestales;
+IV.- Proponer y ejecutar actividades destinadas al fomento, mejora e industrialización de los productos y subproductos agrícolas, ganaderos y avícolas;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-V.- Promover la organización, con fines económicos y sociales, de las personas físicas o morales que se dediquen a la producción y explotación agrícola, ganadera, avícola y forestal del Estado;
+V.- Promover la organización, con fines económicos y sociales, de las personas físicas o morales que se dediquen a la producción y explotación agrícola, ganadera y avícola del Estado;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-VI.- Impulsar y participar en los Programas de Investigación y Experimentación Agropecuaria y Forestal en todos sus aspectos y promover la adopción de cambios tecnológicos y de sistemas de producción que incrementen la productividad;
+VI.- Impulsar y participar en los Programas de Investigación y Experimentación Agropecuaria en todos sus aspectos, y promover la adopción de cambios tecnológicos y de sistemas de producción que incrementen la productividad;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-VII.- Coordinar y llevar a cabo campañas para la erradicación de plagas y enfermedades que afecten a las especies agrícolas, ganaderas, avícolas y forestales;
+VIl.- Coordinar y llevar a cabo campañas para la erradicación de plagas y enfermedades que afecten a las especies agrícolas, ganaderas y avícolas;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-VIII.- Efectuar actividades de supervisión, control, regulación y sanción de la movilización de los productos y subproductos agropecuarios y forestales en el Estado;
+VIlI.- Efectuar actividades de supervisión, control, regulación y sanción de la movilización de los productos y subproductos agropecuarios en el Estado;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-IX.- Desempeñar funciones de asistencia técnica integral para los productores agrícolas, ganaderos, avícolas y forestales del Estado;
+IX.- Desempeñar funciones de asistencia técnica integral para los productores agrícolas, ganaderos y avícolas del Estado;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-X.- Promover y coordinar la ejecución de Programas de Infraestructura Física que contribuyan a incrementar la producción y productividad agropecuaria y forestal, así como la conservación y desarrollo de los recursos naturales de la Entidad;
+X.- Promover y coordinar la ejecución de Programas de Infraestructura Física que contribuyan a incrementar la producción y productividad agropecuaria;
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1225,9 +1233,13 @@ XXVII.- Formular y ejecutar programas de saneamiento ambiental en el Estado, en 
 
 XXVIII.- Instrumentar, ejecutar y evaluar programas, servicios y acciones relativos a la vida silvestre, de conformidad con la legislación en la materia.
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-XXIX.- Las demás que se prevengan en la Ley de la materia y demás disposiciones aplicables.
+XXIX.- La regulación del aprovechamiento sustentable, la protección y la preservación en materia de recursos forestales de su competencia en el Estado, de conformidad con la legislación aplicable.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2010)</small>
+
+XXX.- Las demás que se prevengan en la Ley de la materia y demás disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1737,13 +1749,13 @@ TERCERO.- El Congreso del Estado autorizará las previsiones presupuestales nece
 
 P.O. 26 DE DICIEMBRE DE 2008.
 
-DECRETO No 165. POR EL QUE SE REFORMA EL ARTICULO 9 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO No. 165, POR EL QUE SE REFORMA EL ARTICULO 9 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 26 DE DICIEMBRE DE 2008.
 
-DECRETO No 167, POR EL QUE SE REFORMA LA FRACCION VIII DEL ARTICULO 19 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO No. 167, POR EL QUE SE REFORMA LA FRACCION VIII DEL ARTICULO 19 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
 
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1770,3 +1782,29 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Ejecutivo Estatal y los Municipios deberán expedir las disposiciones legales que deriven del presente Decreto, a partir de su entrada en vigor.
 
 TERCERO.- Las obligaciones contempladas en el artículo 118 para los propietarios y poseedores de vehículos automotores en circulación, iniciarán hasta que sea publicado en los términos previstos en este Decreto, el Programa de Verificación Vehicular y, en su caso, estén operando los centros de verificación.
+
+P.O. 30 DE ABRIL DE 2010.
+
+DECRETO No. 365, POR EL QUE SE REFORMAN LOS ARTICULOS 19 Y 20 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Continúan en vigor todos los actos, resoluciones, acuerdos y las disposiciones de carácter general emitidas con fundamento en las normas vigentes con anterioridad al presente decreto, así como los poderes, mandatos y en lo general, las representaciones otorgadas y las facultades concedidas, hasta en tanto no sean modificadas o revocadas expresamente.
+
+TERCERO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 30 DE ABRIL DE 2010.
+
+DECRETO No. 366, POR EL QUE SE REFORMAN LOS ARTICULOS 29 Y 39 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
+
+SEGUNDO.- Las menciones que en otras leyes, normas u ordenamientos se hagan de la Secretaría de Fomento Agropecuario en torno al sector forestal, se entenderán hechas a la Secretaría de Protección al Ambiente.
+
+TERCERO.- Dentro de un plazo de sesenta días siguientes a la entrada en vigor de la presente reforma, deberán transferirse los recursos financieros y materiales de la Dirección Forestal y de Fauna de la Secretaría de Fomento Agropecuario a la Secretaría de Protección al Ambiente, observando los trámites administrativos y jurídicos que para el objeto dispongan la Secretaría de Planeación y Finanzas del Estado, Oficialía Mayor y la Dirección de Control y Evaluación Gubernamental del Estado.
+
+CUARTO.- El personal de la Dirección Forestal y de Fauna de la Secretaría de Fomento Agropecuario, quedarán adscritos a la Secretaría de Protección al Ambiente, sin perjuicio de sus derechos laborales que hayan adquirido, en virtud de su relación laboral con la administración pública del Estado, lo anterior conforme al procedimiento administrativo que determine la Oficialía Mayor, con la participación de la Dirección de Control y Evaluación Gubernamental del Estado.
+
+QUINTO.- Los archivos y asuntos en trámite de la Dirección Forestal y de Fauna de la Secretaría de Fomento Agropecuario, serán transferidos a la Secretaría de Protección al Ambiente.
+
+SEXTO.- El Ejecutivo del Estado dentro de los seis meses siguientes a la entrada en vigor de la presente reforma, deberá hacer las adecuaciones correspondientes a los Reglamentos Internos de las Secretarías de Fomento Agropecuario y de Protección al Ambiente.
