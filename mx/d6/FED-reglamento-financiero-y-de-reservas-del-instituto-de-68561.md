@@ -4,7 +4,7 @@ identifier: "FED-reglamento-financiero-y-de-reservas-del-instituto-de-68561"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-28"
-last_updated: "2009-05-28"
+last_updated: "2010-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68561&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-03-31"
 
 REGLAMENTO FINANCIERO Y DE RESERVAS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2010.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el jueves 28 de mayo de 2009.
 
@@ -89,83 +89,101 @@ REGLAMENTO FINANCIERO Y DE RESERVAS DEL ISSSTE
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
 ###### Artículo 1.
 
-La constitución, inversión y manejo de las reservas financieras y actuariales del Instituto y de los fondos que se establecen en este Reglamento, se ajustarán a lo dispuesto por la Ley, el presente Reglamento y los demás ordenamientos aplicables, así como a las determinaciones que en ejercicio de sus facultades acuerde la Junta, de conformidad con lo dispuesto en los artículos 28, 205, 208, 214, 220, 224, 226, 227 y 231 al 247 de su Ley, así como los artículos transitorios 10o., 11o., 12o. y 14o., sus Reglamentos y otras disposiciones legales aplicables, con el propósito de garantizar la continuidad en la prestación de los servicios.
+El presente ordenamiento tiene por objeto establecer las reglas de inversión y manejo de las Reservas financieras y actuariales, así como los instrumentos y procedimientos para la preservación del equilibrio financiero y actuarial de los Seguros, Prestaciones y Servicios del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en cumplimiento a lo dispuesto en los artículos 28, 205, 208 Fracción IX, 214 Fracción VI, 220 Fracción V, 226, 227, 231 al 247 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
 
 ###### Artículo 2.
 
-Para los efectos de este Reglamento se entiende por:
+Para los efectos de este Reglamento, se entenderá por:
 
-I. Activos contables, conjunto de bienes y derechos susceptibles de valoración cuantitativa. Forman la estructura económica, es decir, el destino de las fuentes de financiamiento;
+I. Activos monetarios, los montos que se fijan, en términos de unidades monetarias, independientemente de los cambios en el nivel general de precios. Originan un aumento o disminución en el poder adquisitivo de sus poseedores; por lo tanto, el retenerlos puede generar una utilidad o pérdida. Los principales Activos Monetarios son el efectivo, inversiones en valores, cuentas por cobrar y por pagar, Pasivos y dividendos por pagar;
 
-II. Aportación al Fondo de Reserva o Fondo Líquido, el incremento en recursos en efectivo o en especie al Fondo de Reserva o Fondo Líquido;
+II. AFORE, la Administradora de Fondos para el Retiro;
 
-III. Capitales Constitutivos, la suma de pensiones temporales, más montos constitutivos del año, más capitales constitutivos fincados;
+III. Aportación al Fondo de Reserva o Fondo Líquido, el incremento en recursos en efectivo o en especie al Fondo de Reserva o Fondo Líquido;
 
-IV. Capitales Constitutivos Fincados, los montos constitutivos diferidos, provenientes de pensiones temporales reportadas como parte del gasto del año;
+IV. Aportaciones, los enteros de recursos que cubran las Dependencias y Entidades en cumplimiento de las obligaciones que respecto de sus trabajadores les impone la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-V. Coberturas, el aseguramiento de eventos específicos incluidos en los diferentes seguros definidos en la Ley;
+V. Area actuarial de la Dirección de Finanzas, la Jefatura de Servicios de Estudios Financieros y Actuariales;
 
-VI. Comisión, la Comisión de Vigilancia del Instituto;
+VI. Capitales Constitutivos, los montos constitutivos del año, derivados de las obligaciones contraídas por concepto de pensiones derivadas de los seguros de invalidez y vida y riesgos del trabajo;
 
-VII. Comité, el Comité de Inversiones del Instituto;
+VII. Coberturas, el aseguramiento de eventos específicos incluidos en los diferentes seguros definidos en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-VIII. Coordinación de Inversiones, la Unidad Administrativa Especializada en las inversiones de los fondos de las reservas, prevista en el artículo 244 de la Ley;
+VIII. Comisión, la Comisión de Vigilancia del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-IX. Director, el Director General del Instituto;
+IX. Comité, el Comité de Inversiones del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-X. Escenario, el conjunto de hipótesis demográficas, financieras y biométricas utilizado para elaborar la Valuación;
+X. Coordinación de Inversiones, la Unidad Administrativa Especializada en las inversiones de los fondos de las Reservas, prevista en el artículo 244 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-XI. Fondo de Reserva o Fondo Líquido, los recursos en efectivo o en especie que se integran, invierten y administran para garantizar pasivos, estimaciones, seguros, prestaciones y servicios a cargo del Instituto y respaldar sus Reservas;
+XI. Cuotas, los enteros a la seguridad social que los Trabajadores deben cubrir conforme a lo dispuesto a la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-XII. Fondo especial para la transición, las contribuciones especiales del Estado con el fin de fortalecer la situación financiera del ISSSTE durante el proceso de transición a la Ley vigente, a fin de hacer frente a gastos relacionados con la transición administrativa, financiera y estructural del Instituto;
+XII. Dependencias, las unidades administrativas de los Poderes de la Unión, la Procuraduría General de la República, los organismos jurisdiccionales autónomos, los órganos ejecutivo, legislativo y judicial del Distrito Federal, así como las unidades administrativas de las entidades Federativas y municipios que se incorporen al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-XIII. FOVISSSTE, el Fondo de la Vivienda que se menciona en el Artículo 167 de la Ley;
+XIII. Director General, el Director General del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-XIV. Gastos de inicio del ejercicio, los gastos que serán los devengados al 31 de diciembre, para registrarlos antes del 28 de febrero del año siguiente y ser ejercidos antes del 15 de marzo;
+XIV. Entidades, los organismos descentralizados, empresas de participación estatal mayoritaria y demás instituciones paraestatales, federales y del gobierno del Distrito Federal, así como los organismos de las entidades federativas o municipales y organismos públicos que por disposición constitucional cuenten con autonomía, que se incorporen a los regímenes de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-XV. Instituto, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+XV. Estatuto, el Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-XVI. La Junta, la Junta Directiva del Instituto;
+XVI. Fondo de Reserva o Fondo Líquido, los recursos en efectivo o en especie que se integran, invierten y administran para garantizar Pasivos, estimaciones, seguros, prestaciones y servicios a cargo del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y respaldar sus Reservas;
 
-XVII. Ley, la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+XVII. Fondo especial para la transición, las contribuciones especiales del Estado con el fin de fortalecer la situación financiera del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado durante el proceso de transición a la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado vigente, a fin de hacer frente a gastos relacionados con la transición administrativa, financiera y estructural del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-XVIII. Manual, el Manual de Políticas de Inversión de los Fondos de las Reservas del Instituto;
+XVIII. FOVISSSTE, el Fondo de la Vivienda, Unidad Administrativa Desconcentrada del Instituto;
 
-XIX. Métodos de valuación, los procedimientos actuariales y financieros aplicables a la Valuación de cada tipo de régimen o sistema financiero;
+XIX. Gastos de inicio del ejercicio, los gastos devengados al 31 de diciembre, para registrarlos antes del 28 de febrero del año siguiente y ser ejercidos antes del 15 de marzo;
 
-XX. Monto constitutivo, la cantidad de dinero que se requiere para contratar una Renta o un Seguro de Sobrevivencia con una Aseguradora;
+XX. Instituto, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-XXI. Pasivo, el conjunto o segmento cuantificable de las obligaciones del Instituto, ineludibles de transferir en el futuro a activos contables, como consecuencia de transacciones o eventos pasados;
+XXI. Junta, La Junta Directiva del Instituto;
 
-XXII. Pasivos actuariales, los pasivos contingentes sujetos a la ocurrencia de eventos que generen el pago de una prestación en dinero o en especie;
+XXII. Ley, la Ley del Instituto;
 
-XXIII. Pasivos contingentes, las obligaciones posibles, cuya existencia puede ser consecuencia, con cierto grado de incertidumbre, de un suceso;
+XXIII. Manual, el Manual de Políticas de Inversión de los Fondos de las Reservas del Instituto;
 
-XXIV. Pensionados, los trabajadores pensionados y jubilados;
+XXIV. Monto constitutivo, la cantidad de dinero que se requiere para contratar una Renta y/o un Seguro de Sobrevivencia con una Aseguradora;
 
-XXV. Pensiones temporales, las que se originan del seguro de invalidez y vida y que antes de asumir el carácter de definitivas tienen el carácter de provisionales por un periodo de dos años, acorde al artículo 119 de la Ley;
+XXV. Pasivo, el conjunto o segmento cuantificable de las obligaciones del Instituto, como consecuencia de transacciones o eventos pasados;
 
-XXVI. Programa, el Programa Anual de Administración y Constitución de Reservas;
+XXVI. Pasivos actuariales, los pasivos contingentes sujetos a la ocurrencia de eventos que generen el pago de una prestación en dinero o en especie;
 
-XXVII. Provisión, el registro contable de los pasivos en los que su cuantía o vencimiento son contingentes;
+XXVII. Pasivos contingentes, las obligaciones posibles, cuya existencia puede ser consecuencia, con cierto grado de incertidumbre, de un suceso;
 
-XXVIII. Reconstitución, la realización de los incrementos necesarios a las reservas para regresarlas al nivel que estaban antes de alguna disposición de las mismas;
+XXVIII. Pensionados, los trabajadores pensionados y jubilados;
 
-XXIX. Régimen Financiero, las técnicas aplicables a cada tipo de seguro, prestación o servicio, que permiten equilibrar a los ingresos y gastos a lo largo de los distintos años de funcionamiento del Instituto;
+XXIX. Pensiones temporales, las que se originan del seguro de invalidez y vida y que antes de asumir el carácter de definitivas tienen el carácter de provisionales por un periodo de dos años, acorde al artículo 119 de la Ley;
 
-XXX. Reserva, el registro contable en el pasivo del Instituto que refleja la cuantificación completa y actualizada de sus obligaciones contingentes y ciertas;
+XXX. PENSIONISSSTE, el Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado, Unidad Administrativa Desconcentrada del Instituto;
 
-XXXI. Reservas Actuariales, las que se integran para hacer frente a todas las prestaciones diferidas del Instituto y respaldar los pasivos de largo plazo con sus derechohabientes;
+XXXI. Programa, el Programa Anual de Administración y Constitución de Reservas;
 
-XXXII. Reservas Financieras, las que se integran para hacer frente a posibles incrementos no previsibles en los costos de las prestaciones anuales y para respaldar las obligaciones de corto plazo del Instituto;
+XXXII. Reconstitución de la Reserva, la realización de los incrementos necesarios a las Reservas para regresarlas al nivel que estaban antes de alguna disposición de las mismas;
 
-XXXIII. Subcuenta del Fondo de la Vivienda, la que menciona el artículo 76 de la Ley;
+XXXIII. Régimen Financiero, las técnicas aplicables a cada tipo de seguro, prestación o servicio, que permiten equilibrar a los ingresos y gastos a lo largo de los distintos años de funcionamiento del Instituto;
 
-XXXIV. Valor presente actuarial, el valor calculado a una fecha determinada de una serie de cantidades pagaderas o cobrables en diferentes fechas, calculado de acuerdo con un conjunto determinado de hipótesis actuariales, y
+XXXIV. Reglamento, el Reglamento Financiero y de Reservas del Instituto;
 
-XXXV. Valuación, la Valuación Financiera y Actuarial del Instituto.
+XXXV. Reserva, el registro contable en el Pasivo del Instituto que refleja la cuantificación completa y actualizada de sus obligaciones contingentes y ciertas;
+
+XXXVI. Subcuenta del Fondo de la Vivienda, la que menciona el artículo 76 de la Ley;
+
+XXXVII. Unidades Administrativas Centrales, las que define la fracción I del artículo 4 del Estatuto;
+
+XXXVIII. Unidades Administrativas Desconcentradas, las que define la fracción II del artículo 4 del Estatuto;
+
+XXXIX. Valor presente actuarial, el valor calculado a una fecha determinada de una serie de cantidades pagaderas o cobrables en diferentes fechas, calculado de acuerdo con un conjunto determinado de hipótesis actuariales, y
+
+XL. Valuación, la Valuación Financiera y Actuarial del Instituto.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+Artículo 2 bis.- El presente Reglamento es de observancia general y aplicación obligatoria para las Unidades Administrativas Centrales y Desconcentradas del Instituto en el ámbito de su competencia.
 
 ## TITULO SEGUNDO. DE LA PRESERVACION DEL EQUILIBRIO FINANCIERO Y ACTUARIAL
 
@@ -183,13 +201,17 @@ III. Identificar medidas orientadas a asegurar la solidez financiera del Institu
 
 La Valuación incluirá la determinación de las reservas que permitan cumplir al Instituto con sus obligaciones y constituirá un apoyo técnico para determinar las Cuotas y Aportaciones necesarias para mantener el equilibrio financiero.
 
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
 ###### Artículo 4.
 
-La Valuación será elaborada anualmente por la Dirección de Finanzas, la cual podrá contar con una asesoría externa para este propósito. Los resultados de la Valuación que se incluyan en el informe financiero y actuarial al Ejecutivo y al Congreso de la Unión, deberán ser dictaminados por una firma actuarial independiente y diferente a la que proporcione la asesoría al Instituto para el desarrollo de la Valuación.
+La Valuación será elaborada anualmente por la Dirección de Finanzas, la cual podrá contar con una asesoría externa para este propósito. Asimismo deberá ser presentada a la Comisión, a fin de que ésta la examine y verifique la suficiencia de Cuotas y Aportaciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
 
 ###### Artículo 5.
 
-La Valuación se efectuará con fecha de corte del 31 de diciembre de cada año, debiendo estar en concordancia con las prácticas actuariales internacionales de seguridad social y deberá incluir:
+La Valuación se efectuará con fecha de corte del 31 de diciembre de cada año y deberá incluir:
 
 I. El Análisis Financiero y Actuarial de Corto Plazo, y
 
@@ -211,7 +233,7 @@ c. Régimen de pensiones del Seguro de Invalidez y Vida.
 
 d. Transferencias del Gobierno Federal y transferencias hacia el Gobierno Federal, en los términos del décimo primero, décimo segundo, décimo octavo y décimo noveno transitorios de la Ley, hasta la extinción de la generación de pensiones en curso de pago y de los trabajadores activos al 30 de junio de 2008 que opten por el régimen de pensiones definido en el décimo transitorio de la Ley.
 
-Asimismo, el contenido de la valuación será la base para elaborar el Informe Financiero y Actuarial que establece la fracción XIX del artículo 214 de la Ley.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
 
 ###### Artículo 6.
 
@@ -257,9 +279,11 @@ h. Utilización de reservas, y
 
 i. Saldos acumulados del fondo de cada una de las reservas.
 
-IV. Las cifras correspondientes a los gastos por capitales constitutivos de los seguros de riesgos del trabajo y de invalidez y vida, provendrán de la Valuación de los respectivos seguros.
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
 
-Para efecto de elaborar los análisis de corto plazo de la Valuación se tomará en cuenta la información histórica de ingresos y gastos registrados en los Estados de Resultados de la contabilidad institucional en atención a que son cifras auditadas del Instituto. Todos los conceptos que conforman tanto los ingresos como los egresos deberán ser considerados de manera global o desagregada según se determinen los alcances y objetivos del análisis referido. En todo caso, se deberán establecer las notas correspondientes que permitan discernir con claridad las fuentes y la información empleada en cada seguro, prestación o servicio.
+IV. Las cifras correspondientes a los gastos por Capitales Constitutivos de los seguros de riesgos del trabajo y de invalidez y vida, provendrán de la Valuación de los respectivos seguros.
+
+Para efecto de elaborar los análisis de corto plazo de la Valuación se tomará en cuenta la información histórica de ingresos y gastos registrados en los estados de resultados de la contabilidad institucional en atención a que son cifras auditadas del Instituto.
 
 ### CAPITULO SEGUNDO. DE LOS REGIMENES FINANCIEROS
 
@@ -277,7 +301,9 @@ c. Los Gastos de Administración General, y
 
 d. El Seguro de Salud para jubilados, pensionados y familiares derechohabientes anteriores al 31 de marzo de 2007.
 
-II. Prima Media General, con base en resultados de Proyecciones Demográficas y Financieras, Análisis de Tendencias y Costos Unitarios, con el propósito de determinar la suficiencia de las Cuotas y Aportaciones incluyendo, y cuando así corresponda, la constitución de las reservas financieras y actuariales que establece la Ley, en el caso del Seguro de Salud para pensionados y sus familiares derechohabientes, considerándose para el cálculo de la reserva únicamente los pensionados a partir del 1o. de abril de 2007, y
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+II. Prima de equilibrio definida en la última valuación anual disponible, con base en resultados de proyecciones demográficas y financieras, análisis de tendencias, costos unitarios así como en las hipótesis definidas para tal efecto, con el propósito de determinar la suficiencia de las Cuotas y Aportaciones incluyendo, y cuando así corresponda, la constitución de las Reservas financieras y actuariales que establece la Ley, en el caso del Seguro de salud para pensionados y sus familiares derechohabientes, considerándose para el cálculo de la Reserva únicamente los pensionados a partir del 1o. de abril de 2007, y
 
 III. Capitales Constitutivos, con base en los resultados de Proyecciones Demográficas y Financieras, Análisis de Tendencias, con el propósito de determinar el monto de pagos de seguros en el ejercicio por concepto de pensiones temporales y Montos Constitutivos para los seguros de Invalidez y Vida y Riesgos de Trabajo.
 
@@ -359,7 +385,9 @@ c. Reserva general financiera y actuarial.
 
 El incremento o constitución de reservas se efectuará bajo los siguientes lineamientos:
 
-I. La reserva de Operación se incrementará con la totalidad de los ingresos por Cuotas, Aportaciones y Cuota Social del Seguro de Salud, que corresponda administrar al Instituto, así como las transferencias del Gobierno Federal para cubrir las Cuotas y Aportaciones que éste debe enterar;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+I. La Reserva de operación se incrementará con la totalidad de los ingresos por Cuotas, Aportaciones y Cuota Social del Seguro de salud, que corresponda administrar al Instituto, así como las transferencias del Gobierno Federal para cubrir las Cuotas y Aportaciones que éste debe enterar; su registro contable se reflejará en las cuentas de ingreso devengado del estado de resultados y su correspondiente incremento en las disponibilidades; la disposición de recursos de la Reserva de operación, se registrará como parte del gasto devengado y su efecto se verá reflejado en el estado de resultados. Para cubrir los gastos de los primeros días de cada ejercicio, se creará al cierre de cada año una provisión; la cual se calculará considerando el total del gasto devengado al 31 de diciembre del ejercicio que se trate, la provisión afectará el gasto del ejercicio en que se crea, y deberá estar correspondida por los recursos líquidos necesarios para cubrir los pagos que se llevarán a cabo a más tardar el 15 de marzo del año siguiente;
 
 II. El incremento a la Reserva financiera y actuarial del Seguro de Salud para trabajadores activos y sus familiares derechohabientes, se determinará con base en los ingresos y egresos que determine la última Valuación disponible.
 
@@ -367,11 +395,15 @@ El incremento señalado en el párrafo anterior se determinará de acuerdo a las
 
 Asimismo, el saldo total de esta reserva no podrá exceder el 30% del total de ingresos del ejercicio anterior para este seguro;
 
-III. No habrá incremento a la reserva financiera y actuarial del Seguro de Salud para pensionados y familiares derechohabientes vigentes al 31 de marzo de 2007 en virtud de que no tienen ingresos propios definidos en la Ley;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+III. No habrá incremento a la Reserva financiera y actuarial del Seguro de salud para Pensionados y familiares derechohabientes vigentes al 31 de marzo de 2007;
 
 IV. El incremento a la Reserva financiera y actuarial del Seguro de Salud para pensionados y familiares derechohabientes que ejerzan su derecho a pensión después del 1o. de abril de 2007, será equivalente al porcentaje de los ingresos que determine la última Valuación disponible.
 
-El porcentaje señalado en el párrafo anterior se determinará con base en la diferencia entre la prima media general determinada en la Valuación y los gastos del año, y en su caso, el incremento o reconstitución de la reserva de operación para contingencias y financiamiento.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+El porcentaje señalado en el párrafo anterior se determinará con base en la diferencia entre la prima de equilibrio determinada en la última Valuación anual disponible y los gastos del año, y en su caso, el incremento o Reconstitución de la Reserva de operación para contingencias y financiamiento.
 
 Las aportaciones y cuotas señaladas en la Ley del Seguro de Salud para pensionados, sólo serán utilizadas para financiar las prestaciones de los trabajadores que se pensionen después del 1o. de abril de 2007, y de sus familiares derechohabientes;
 
@@ -383,9 +415,13 @@ VI. La constitución de la Reserva de Operación para Contingencias y Financiami
 
 El incremento anual que se destine en cada uno de los años del período de 2008 a 2012, será equivalente en el primer año al 3.28% del total de ingresos del año anterior; el segundo año será el monto necesario para alcanzar el 6.56% del total de los ingresos del primer año; el tercer año el monto necesario para alcanzar el 9.84% del total de los ingresos del segundo año; en el cuarto año, el monto necesario para alcanzar el 13.12% del total de ingresos del tercer año; y del quinto año en adelante el monto necesario para alcanzar el 16.43% del total de ingresos (sic) año anterior. Del total de los ingresos se excluirán los correspondientes al Seguro de Retiro, Cesantía en Edad Avanzada y Vejez y del Fondo de la Vivienda, así como los ingresos provenientes del SuperISSSTE.
 
-En caso de que algún seguro o servicio no cuente con los recursos suficientes para llevar a cabo el incremento a la reserva correspondiente al 3.28% en algún año en específico, se podrá llevar a cabo una aportación menor en ese año, debiendo ser completada en el o los ejercicios subsecuentes, con límite de cinco años.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
 
-La reconstitución de la Reserva de Operación para Contingencias y Financiamiento se realizará conforme a lo siguiente:
+En caso de que no se cuente con los recursos suficientes para llevar a cabo el incremento a la Reserva correspondiente al 3.28% en algún año en específico, se podrá llevar a cabo una aportación menor en ese año, debiendo ser completada en el o los ejercicios subsecuentes, con límite de cinco años.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+La separación de la Reserva de operación para contingencias y financiamiento en los renglones de previsión, catastrófica y especiales estará a cargo del Area actuarial de la Dirección de Finanzas, con base en la experiencia del Instituto y/u otros organismos de seguridad social. Dicha separación será informada a la Tesorería General para su incorporación al Programa. La Reconstitución de la Reserva de operación para contingencias y financiamiento se realizará conforme a lo siguiente:
 
 La disposición de recursos de la reserva de operación para contingencias y financiamiento, causará intereses a una tasa equivalente al Costo Porcentual Promedio de Captación (CPP) mismos que serán amortizados, conjuntamente con el capital correspondiente, en pagos trimestrales durante el plazo que haya sido acordado por la Junta; el plazo en ningún caso deberá exceder de tres años. La tasa de interés será actualizada trimestralmente, al inicio del período que comprenda cada pago de amortización, con base en el Costo Porcentual Promedio de Captación (CPP) vigente.
 
@@ -419,7 +455,9 @@ El régimen financiero a aplicarse será el de capitales constitutivos a poblaci
 
 II. Pasivo actuarial para la devolución de los recursos acumulados en la Subcuenta del Fondo de la Vivienda, por causa de muerte del trabajador activo, o del pensionado por invalidez o por riesgos del trabajo.
 
-El método de Valuación a utilizarse será el de cálculo de pasivo contingente.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+El método de cálculo a utilizarse será el de Pasivo contingente.
 
 El régimen financiero a aplicarse será el de capitales constitutivos a población cerrada, considerando únicamente las Aportaciones efectuadas hasta la fecha de referencia, y
 
@@ -441,67 +479,53 @@ El estudio actuarial, de manera adicional, deberá validar que la situación fin
 
 ### CAPITULO SEXTO. RECONOCIMIENTO DE ANTIGÜEDAD E INCORPORACION VOLUNTARIA AL REGIMEN OBLIGATORIO
 
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
 ###### Artículo 18.
 
-En el caso de cómputo de tiempo de servicios por separación por licencia sin goce de sueldo, por enfermedad, o por suspensión de nombramiento de acuerdo a lo señalado en el artículo 19 de la Ley, se debe calcular el importe de los siguientes conceptos, los cuales se dejaron de retener o enterar durante el período de suspensión:
+Independientemente del régimen a que pertenezca el trabajador, el cómputo de tiempo de servicios y la determinación del pago de Cuotas y Aportaciones en los casos de separación por licencia sin goce de sueldo, enfermedad o suspensión de los efectos del nombramiento, se regulará según lo previsto en el artículo 19 de la Ley y el Reglamento para el Otorgamiento de Pensiones de los trabajadores sujetos al Régimen del artículo Décimo Transitorio del Instituto.
 
-I. Importe de Cuotas del Trabajador, y
+Por lo que se refiere al seguro de retiro, cesantía en edad avanzada y vejez, las Cuotas, Aportaciones y sus actualizaciones deberán ser enteradas al PENSIONISSSTE o la administradora que opere la cuenta individual del trabajador a través de los mecanismos de transferencia que definan el Instituto y la Comisión Nacional de Ahorro para el Retiro. En caso del régimen de reparto modificado del artículo Décimo Transitorio de la Ley, las Aportaciones se enterarán a la Tesorería General del Instituto.
 
-II. Importe de Aportaciones de las Dependencias o Entidades.
+Las Cuotas y Aportaciones de los períodos no enterados por las causas referidas en el artículo 19 de la Ley y sus respectivas actualizaciones correspondientes a los seguros de invalidez y vida, riesgos del trabajo y prestaciones sociales, se cubrirán al Instituto a través de la Tesorería General.
+
+Las actualizaciones de las Cuotas y Aportaciones se harán de acuerdo al procedimiento que establece el artículo 22 de la Ley.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
 
 ###### Artículo 19.
 
-En los casos en que el cómputo de tiempo de servicios se refiera a las causas señaladas en los incisos I y II del artículo 19 de la Ley, licencias por un periodo que no exceda de seis meses, y cuando el trabajador sufra de prisión preventiva seguida de fallo absolutoria (sic), mientras dure la privación de la libertad; el Trabajador deberá pagar la totalidad de las Cuotas y Aportaciones durante el tiempo que duró la separación, exceptuando las del Seguro de Salud de Trabajadores y las del Fondo de la Vivienda.
+Los casos de incorporación voluntaria al régimen obligatorio que incluyan reconocimiento de antigüedad por parte de los gobiernos de las Entidades Federativas, los municipios, sus Dependencias y Entidades, de acuerdo al artículo 205 de la Ley, se deberá cubrir el importe de las Reservas que resulten de los estudios actuariales para el puntual cumplimiento de los seguros, prestaciones y servicios que señala la Ley de acuerdo a lo siguiente:
 
-Aún en los casos en que los laudos correspondan a períodos anteriores al inicio de vigencia de la Ley (1o. de abril de 2007), se utilizarán las Cuotas y Aportaciones definidas en esta Ley, así como los procedimientos de actualización y recargos definidos en la misma.
+a) Para los trabajadores bajo el régimen de cuentas individuales con tiempos a reconocer posteriores a la entrada en vigor de la Ley, se deberán cubrir las Cuotas y Aportaciones durante el tiempo a reconocer con sus actualizaciones a la fecha de cálculo de acuerdo al artículo 22 de la Ley. Para los tiempos a reconocer anteriores a la fecha de entrada en vigor de la Ley, se realizará el cálculo actuarial que determine el monto de las Reservas necesarias que deberían tenerse constituidas con base en el tiempo de servicio previamente reconocido por el Instituto y el tiempo que se pretende reconocer.
 
-Si el Trabajador falleciere antes de reanudar sus labores y sus Familiares Derechohabientes tuvieren derecho a Pensión y quisieren disfrutar de la misma, deberán cubrir el importe de esas Cuotas y Aportaciones.
+El monto así determinado para el seguro de retiro, cesantía en edad avanzada y vejez deberá ser enterado al PENSIONISSSTE o a la administradora que opere la cuenta individual del trabajador a través de los mecanismos de transferencia que definan el Instituto y la Comisión Nacional de Ahorro para el Retiro;
 
-Para el cálculo de las Cuotas y Aportaciones se tomará como base el salario básico de cotización. A las Cuotas y Aportaciones históricas, exceptuando la Cuota Social, se les aplicarán las actualizaciones e intereses moratorios en los términos del artículo 22 de la Ley a la fecha en que se realice el cálculo. En cuanto a la Cuota Social, ésta se calculará con base en el valor vigente de dicha Cuota durante el periodo de cómputo de tiempo de servicios a reconocer. Su pago estará sujeto a las disposiciones autorizadas por la Secretaría de Hacienda y Crédito Público.
+b) Para los trabajadores bajo el régimen de reparto modificado descrito en el artículo Décimo Transitorio de la Ley, se realizará el cálculo actuarial que determine el monto de las Reservas necesarias que deberían tenerse constituidas con base en el tiempo de servicio previamente reconocido por el Instituto y el tiempo que se pretende reconocer.
 
-Para efecto del seguro de Retiro, Cesantía en Edad Avanzada y Vejez las Cuotas y Aportaciones, se depositarán en la cuenta individual del trabajador a través de los mecanismos de dispersión que definan el Instituto y la Comisión Nacional de Ahorro para el Retiro. Las Cuotas y Aportaciones para los seguros de Invalidez y Vida, Riesgos de Trabajo, Seguro de Salud y Prestaciones Sociales, se cubrirán directamente al Instituto.
+El monto así determinado para el seguro de retiro, cesantía en edad avanzada y vejez, deberá ser enterado al Instituto a través de la Tesorería General, y
 
-Una vez elaborado el estudio actuarial que determine los montos a pagar de las Cuotas y Aportaciones, deberá actualizarse mensualmente a razón de los (sic) establecido en el artículo 22 de la Ley, hasta un tope de 6 meses, período en el cual deberá volverse a realizar el estudio actuarial.
+c) Para los seguros de salud, invalidez y vida, riesgos del trabajo y prestaciones sociales se deberán cubrir las Reservas necesarias que deberían tenerse constituidas con base en las Cuotas y Aportaciones y sus respectivas actualizaciones, de acuerdo al artículo 22 de la Ley, de los tiempos de servicio no cotizados. Dichos montos se enterarán directamente al Instituto a través de la Tesorería General.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
 
 ###### Artículo 20.
 
-En los casos en que el cómputo de tiempo de servicios se refiera a las causas señaladas en los incisos III, IV y V del artículo 19 de la Ley, las Dependencias y Entidades, al efectuar la liquidación por sueldos dejados de percibir, o por salarios caídos, deberán retener al Trabajador las Cuotas correspondientes, y hacer lo propio respecto de sus Aportaciones enterando ambas al Instituto y, por lo que se refiere al seguro de Retiro, Cesantía en Edad Avanzada y Vejez, al PENSIONISSSTE o a la Administradora que opere la Cuenta Individual del Trabajador. Las Cuotas y Aportaciones son las señaladas en la Ley, excepto las del Seguro de Salud de Trabajadores.
+Para los convenios de incorporación voluntaria, independientemente de que sean con o sin reconocimiento de antigüedad, se deberá determinar, mediante el estudio actuarial correspondiente, el cálculo de las Cuotas y Aportaciones para los seguros, prestaciones y servicios que se aplicarán a partir de la incorporación o la actualización del convenio.
 
-A dichas Cuotas y Aportaciones se les aplicarán los intereses moratorios y actualizaciones en los términos del artículo 22 de la Ley.
-
-En cuanto a la Cuota Social, ésta se calculará con base en el valor vigente de dicha Cuota durante el período de cómputo de tiempo de servicios a reconocer. Su pago estará sujeto a previa autorización por parte de la Secretaría de Hacienda y Crédito Público.
+Las Cuotas y Aportaciones a las que se refiere el párrafo anterior se determinarán en base a la prima de equilibrio financiero y deberá corresponder a las proyecciones de gasto de cada seguro que para cada caso realice el Instituto de aquellas Dependencias que soliciten su incorporación voluntaria. El Instituto podrá requerir la información necesaria para la elaboración de estudios actuariales correspondientes y actualización de los mismos.
 
 ###### Artículo 21.
 
-Para los casos de incorporación voluntaria al régimen obligatorio que incluyan reconocimiento de antigüedad, por parte de los gobiernos de las Entidades Federativas, los municipios, sus Dependencias y Entidades, éstas deberán cubrir al Instituto el importe de las reservas señaladas en el artículo 205 de la Ley.
-
-En los convenios de incorporación que incluyan reconocimiento de antigüedad deberán pagarse o garantizarse las Reservas que resulten de los estudios actuariales para el puntual cumplimiento de los seguros, prestaciones y servicios que señala esta Ley y realizarse las Aportaciones necesarias a las Cuentas Individuales de los trabajadores incorporados para que su saldo sea el que correspondería a la antigüedad que se les pretenda reconocer.
-
-A tal efecto, las Dependencias y Entidades antes señaladas deberán presentar un estudio actuarial para la estimación de dichas reservas realizado por una firma independiente, de reconocido prestigio en el ámbito de la seguridad social.
-
-Las reservas a que se refiere el presente artículo deberán ser estimadas con base en los lineamientos señalados en el capítulo Primero del Título Segundo referente a la Valuación Financiera y Actuarial del presente Reglamento, en los casos en que sean aplicables.
-
-El estudio actuarial antes mencionado deberá contener información desglosada por tipo de seguro así como estar acompañada de la base de datos que incluya los registros de los trabajadores considerados en la Valuación.
-
-Las aportaciones a las Cuentas Individuales de los Trabajadores se harán al PENSIONISSSTE o a las Afore (sic) en donde los trabajadores tengan su cuenta. El resto de las aportaciones se harán directamente al Instituto.
-
-En cuanto a las Aportaciones a las Cuentas Individuales de los Trabajadores se realizará el cálculo de las mismas durante el período de reconocimiento de derechos, más los rendimientos que haya generado la Sociedad de Inversión Especializada en Fondos para el Retiro (SIEFORE) Básica 1, del PENSIONISSSTE durante este mismo período, o bien del promedio de las SIEFORES Básica 1 del resto de las AFORES en los plazos durante dicho periodo en que no haya estado en operaciones el PENSIONISSSTE. Para la estimación de las Aportaciones a las Cuentas Individuales se considerarán los conceptos definidos en la sección VII titulada Régimen Financiero del capítulo VI del Seguro de Retiro, Cesantía en Edad Avanzada y Vejez de la Ley. El pago de la Cuota Social, así como sus rendimientos y actualizaciones estará sujeto a la aprobación por parte de la Secretaría de Hacienda y Crédito Público.
-
-A las Cuotas y Aportaciones antes descritas se les aplicarán los intereses moratorios y actualizaciones en los términos del artículo 22 de la Ley, en los casos en que sean aplicables.
+(DEROGADO, D.O.F. 30 DE ABRIL DE 2010)
 
 ###### Artículo 22.
 
-En los casos en que se computen licencias o suspensiones del nombramiento por los casos señalados en los incisos I, II, III, IV y V del artículo 19 de la Ley y el trabajador haya optado por la modalidad de transición del régimen de reparto modificado descrito en el Décimo transitorio de la Ley, se procederá de la siguiente forma:
-
-Se hará el cálculo de la diferencia en el monto constitutivo de la pensión por Edad y Tiempo de Servicio, Cesantía en Edad Avanzada o Jubilación a que tuviera derecho el trabajador con base en el tiempo de servicio total reconocido y su edad a la fecha de dicho reconocimiento, y el monto constitutivo a que tuviera derecho de no haberse reconocido el tiempo de servicio por la licencia o suspensión antes mencionado.
+(DEROGADO, D.O.F. 30 DE ABRIL DE 2010)
 
 ###### Artículo 23.
 
-Para los convenios de incorporación voluntaria con reconocimiento de antigüedad, además del costo de dicho reconocimiento, se deberá presentar el cálculo de las cuotas y aportaciones para los seguros, prestaciones y servicios que se aplicarán a partir de la incorporación.
-
-La prima de equilibrio financiero deberá corresponder a proyecciones de por lo menos cuatro años, de acuerdo al Cuadragésimo sexto transitorio de la Ley. Transcurrido el período de equilibrio, el Instituto, podrá requerir la actualización de los estudios y cálculos correspondientes para en su caso definir las nuevas cuotas y aportaciones que deberá enterar el organismo al Instituto.
-
-Una vez elaborado el estudio actuarial que determine los montos a pagar a las reservas derivados de los estudios actuariales, o en su caso las cuotas y aportaciones, deberá actualizarse mensualmente a razón de lo establecido en el artículo 22 de la Ley, hasta un tope de 6 meses, período en el cual deberá volverse a realizar el estudio actuarial.
+(DEROGADO, D.O.F. 30 DE ABRIL DE 2010)
 
 ## TITULO TERCERO. DE LA CONTABILIDAD Y PRESUPUESTO
 
@@ -511,23 +535,29 @@ Una vez elaborado el estudio actuarial que determine los montos a pagar a las re
 
 Durante el segundo bimestre de cada año, el Director General presentará a la Junta los Estados Financieros del Instituto, correspondientes al Ejercicio anual anterior, y con cifras comparativas del ejercicio que le antecede, anexando los siguientes documentos:
 
-I. El Estado de Situación Financiera;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+I. El Estado de Situación Financiera o Balance General;
 
 II. El Estado de Ingresos y Egresos del Instituto, consolidado y por cada uno de los seguros, prestaciones y servicios;
 
 III. Estado de Variaciones en el Patrimonio, y
 
-IV. Estado de Cambios en la Situación Financiera.
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+IV. Estado de Cambios en la Situación Financiera o Estado de Flujos de Efectivo.
 
 ###### Artículo 25.
 
 Siguiendo en lo aplicable lo dispuesto en la Ley, y conforme a la Ley Federal de Presupuesto y Responsabilidad Hacendaria, su Reglamento, las normas de información financiera, y con las normas e instructivos emitidos por la Secretaría de Hacienda y Crédito Público, el Director General informará a la Junta el Catálogo de Cuentas y Manual de Contabilización que al efecto autorice la Secretaría de Hacienda y Crédito Público, así como, los métodos, procedimientos y sistemas que deberán seguirse para el registro contable de los diversos conceptos de ingresos, egresos, y operaciones en general, a fin de que quede debidamente asentada la posición financiera del Instituto.
 
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
 ###### Artículo 26.
 
-Para la constitución e incremento de las Reservas, deberá realizarse el registro en la provisión del pasivo, afectarse el gasto devengado y de flujo de efectivo y efectuarse las aportaciones al Fondo de Reserva o Fondo Líquido correspondiente.
+Para la constitución e incremento de las Reservas: Reserva de operación para contingencias y financiamiento, Reservas financieras y actuariales y Reserva general financiera y actuarial, deberá realizarse el registro en la provisión del Pasivo, afectarse el gasto devengado y de flujo de efectivo y efectuarse las Aportaciones al Fondo de Reserva o Fondo Líquido correspondiente.
 
-Los movimientos financieros que presenten las Reservas por su incremento, disposición o uso, rendimientos que generen y cumplimiento del Programa de Constitución y Administración de Reservas, será informados (sic) por la Subdirección de Programación y Presupuesto y la Tesorería General a la Subdirección de Contaduría, en el mes en que se realicen, para su registro contable.
+Los movimientos financieros que presenten las Reservas por su incremento, disposición o uso, rendimientos que generen y cumplimiento del Programa, serán informados por la Subdirección de Programación y Presupuesto y la Tesorería General a la Subdirección de Contaduría, en el mes en que se realicen, para su registro contable. La Reserva de operación reflejará su constitución e incremento en el registro contable de los ingresos y egresos a través del Estado de Ingresos o Egresos del Instituto y las cuentas correspondientes de disponibilidades donde ocurra el flujo de recursos de las operaciones.
 
 ### CAPITULO SEGUNDO. DEL PRESUPUESTO
 
@@ -535,11 +565,15 @@ Los movimientos financieros que presenten las Reservas por su incremento, dispos
 
 Para efectos del Presupuesto, se deberá considerar que el ejercicio anual comprende del 1o. de enero al 31 de diciembre de cada año.
 
-El proceso de planeación, para la programación-presupuestación, de conformidad con los lineamientos que al respecto establezca la Secretaría de Hacienda y Crédito Público, iniciará con la actualización de la Estructura Programática, así como con el ejercicio de planeación de los programas y proyectos de inversión, para su incorporación al portal aplicativo de la Coordinación de Inversiones.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+El proceso de planeación para la programación-presupuestación, de conformidad con los lineamientos que al respecto emita la Secretaría de Hacienda y Crédito Público, iniciará con la actualización de la Estructura Programática, así como con el ejercicio de planeación de los programas y proyectos de inversión.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
 
 ###### Artículo 28.
 
-En el sexto bimestre de cada año, el Director General someterá a consideración de la Junta el Proyecto de Presupuesto Anual de Ingresos y Egresos para el siguiente ejercicio, incluyendo la integración del Programa Anual de Administración y Constitución de Reservas, en coordinación con la Dirección de Finanzas.
+En el sexto bimestre de cada año, el Director General someterá a consideración de La Junta el proyecto de Presupuesto Anual de Ingresos y Egresos para el siguiente ejercicio, incluyendo la integración del Programa, en coordinación con la Dirección de Finanzas.
 
 ###### Artículo 29.
 
@@ -551,43 +585,35 @@ El Presupuesto de Egresos Institucional, deberá incorporar en sus apartados de 
 
 ### CAPITULO PRIMERO. DEL PROGRAMA ANUAL DE CONSTITUCION Y ADMINISTRACION DE RESERVAS
 
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
 ###### Artículo 30.
 
-La Dirección de Finanzas elaborará anualmente, con base a cifras de presupuesto y en los estudios financieros y actuariales que se presente cada año a la Junta, el Programa Anual de Administración y Constitución de Reservas de forma previa al ejercicio fiscal.
+La Dirección de Finanzas elaborará anualmente, con base a cifras de presupuesto y en los estudios financieros y actuariales que se presenten cada año a La Junta, el Programa de forma previa al ejercicio fiscal.
 
-Una vez que se conozca el presupuesto definitivo del Instituto, podrá adecuarse el Programa Anual de Administración y Constitución de Reservas para el ejercicio fiscal, cuando la Junta, a propuesta del Director General, así lo considere.
+El Programa que se presenta de forma previa al ejercicio fiscal deberá realizarse de la siguiente manera:
 
-El Programa Anual de Administración y Constitución de Reservas que deberá presentarse de forma previa al ejercicio fiscal deberá alinearse a los tiempos y compromisos siguientes:
+I. El Area actuarial de la Dirección de Finanzas determinará, de acuerdo al presente Reglamento y a los resultados de la última Valuación los incrementos teóricos de las Reserva de operación para contingencias y financiamiento, Reservas financieras y actuariales y Reserva general financiera y actuarial, mismos que se reportarán a la Tesorería General del Instituto para su consideración en el desarrollo del Programa. Los incrementos teóricos a las Reservas referidas serán los correspondientes al siguiente ejercicio fiscal para que se integren al Programa de acuerdo a lo que a continuación se menciona;
 
-I. A más tardar el día 10 de noviembre, la Subdirección de Programación y Presupuesto proporcionará a la Tesorería General del Instituto y a la Subdirección de Planeación Financiera y Evaluación Institucional, el Proyecto de Presupuesto Anual de Ingresos y Egresos para el siguiente ejercicio;
+II. La Tesorería General del Instituto integrará y formulará el Programa en base al proyecto de presupuesto anual de ingresos que formule dicha Unidad Administrativa y el proyecto de presupuesto anual de egresos;
 
-II. La Subdirección de Planeación Financiera y Evaluación Institucional determinará, de acuerdo al presente Reglamento, los incrementos y montos de las reservas, mismas que se reportarán a la Tesorería General del Instituto a más tardar el día 20 de noviembre;
+III. El Programa será puesto a consideración del Director General para los efectos del artículo 26 de este Reglamento;
 
-III. La Tesorería General del Instituto tendrá hasta el 30 de noviembre para integrar, formular y presentar al Director de Finanzas, la versión preliminar, para su revisión, del Programa Anual de Administración y Constitución de Reservas, y
+IV. El Programa, podrá adecuarse una vez que se conozca el presupuesto definitivo del Instituto, de acuerdo a lo siguiente:
 
-IV. La Dirección de Finanzas revisará conjuntamente con las áreas que la integran, el Programa Anual de Administración y Constitución de Reservas. La versión revisada será puesta a consideración del Director General en un plazo que no excederá del día 10 de diciembre para los efectos del artículo 26 de este Reglamento.
+a) Una vez que se cuente con el presupuesto definitivo, la Dirección de Finanzas, con la autorización del Director General, determinará si procede la confirmación o adecuación del Programa previo al ejercicio fiscal;
 
-El Programa Anual de Administración y Constitución de Reservas, podrá adecuarse una vez que se conozca el presupuesto definitivo del Instituto, de acuerdo a los tiempos y compromisos siguientes:
+b) De proceder la confirmación del Programa, éste se mantendrá sin cambios hasta el siguiente ejercicio y se tomará como definitivo para la elaboración del Informe Financiero y Actuarial;
 
-I. Una vez que se cuente con el presupuesto definitivo, la Dirección de Finanzas, con la autorización de la Dirección General, determinará si procede la confirmación o adecuación del Programa Anual de Administración y Constitución de Reservas previo al ejercicio fiscal;
+c) De realizarse adecuaciones al Programa, la Subdirección de Programación y Presupuesto proporcionará a la Tesorería General del Instituto, el presupuesto definitivo del ejercicio para la formulación e integración del Programa, y
 
-II. De proceder la confirmación del Programa Anual de Administración y Constitución de Reservas previo al ejercicio fiscal, éste se mantendrá sin cambios hasta el siguiente ejercicio y se tomará como definitivo para la elaboración del Informe Financiero y Actuarial;
+d) La versión adecuada al presupuesto definitivo será puesta a consideración del Director General y servirá como base para presentar el Programa en el Informe Financiero y Actuarial;
 
-III. De realizarse adecuaciones al Programa Anual de Administración y Constitución de Reservas previo al ejercicio fiscal, la Subdirección de Programación y Presupuesto proporcionará a la Tesorería General del Instituto y a la Subdirección de Planeación Financiera y Evaluación Institucional, el presupuesto definitivo del ejercicio;
+V. El Programa incluirá dos apartados:
 
-IV. La Subdirección de Planeación Financiera y Evaluación Institucional, determinará de acuerdo al presente Reglamento, los incrementos y montos de las reservas, mismas que se reportarán a la Tesorería General del Instituto;
+a) La Estrategia anual para la asignación de fondos de efectivo para cada una de las Reservas que establece la Ley, y
 
-V. La Tesorería General del Instituto, integrará, formulará y presentará al Director de Finanzas la versión preliminar, para su revisión, del Programa Anual de Administración y Constitución de Reservas adecuado al presupuesto definitivo, y
-
-VI. La Dirección de Finanzas revisará conjuntamente con las áreas que la integran, el Programa Anual de Administración y Constitución de Reservas. La versión adecuada al presupuesto definitivo será puesta a consideración del Director General en un plazo que no excederá del día 31 de marzo del ejercicio fiscal. Esta versión servirá como base para presentar el Programa Anual de Administración y Constitución de Reservas en el Informe Financiero y Actuarial.
-
-La Junta, a propuesta del Director General, podrá modificar en cualquier momento la asignación de recursos contenida en el programa de administración y constitución de Reservas, con excepción de los montos de incremento de las Reservas financieras y actuariales y de la Reserva general financiera y actuarial comprometidos, cuando los flujos de ingresos y gastos a lo largo del ejercicio así lo requieran. La propuesta del Director General deberá describir el impacto que esa modificación tendrá en el mediano y largo plazo.
-
-El Programa Anual de Administración y Constitución de Reservas incluirá dos apartados:
-
-I. La Estrategia anual para la Asignación de Fondos de Efectivo para cada una de las reservas que establece la Ley, y
-
-II. La Estrategia Anual para Revelar y Atender la Insuficiencia de Recursos cuando éstos no alcancen para cubrir las obligaciones establecidas en la Ley.
+b) La Estrategia anual para revelar y atender la insuficiencia de recursos cuando éstos no alcancen para cubrir las obligaciones establecidas en la Ley.
 
 ###### Artículo 31.
 
@@ -595,7 +621,9 @@ La Estrategia anual para la Asignación de Fondos de Efectivo para cada una de l
 
 I. Reservas sujetas a fondeo de acuerdo a la Ley y al presente Reglamento.
 
-a. Reserva de operación;
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+a) Reservas de operación con el registro contable en las cuentas de resultados del ejercicio en curso;
 
 b. Reserva financiera y actuarial del Seguro de Salud para trabajadores activos y sus familiares derechohabientes;
 
@@ -619,11 +647,15 @@ c. Monto del incremento de los recursos, con respecto al cierre del ejercicio an
 
 III. Información sobre las proyecciones de ingresos y egresos totales en efectivo, y de la Reserva de operación para el siguiente ejercicio fiscal;
 
-a. Proyecciones elaboradas inicialmente, con base en el proyecto de Presupuesto del Instituto y en forma definitiva, de acuerdo con las cifras contenidas en al (sic) Ley de Ingresos y el Decreto del Presupuesto de Egresos de la Federación (DPEF) para el ejercicio fiscal correspondiente, aprobados por el Congreso de la Unión y publicados en el Diario Oficial de la Federación;
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+a) Proyecciones elaboradas inicialmente, con base en el proyecto de presupuesto del Instituto y en forma definitiva, de acuerdo con las cifras contenidas en la Ley de Ingresos y el Decreto del Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente, aprobados por el Congreso de la Unión y publicados en el Diario Oficial de la Federación;
 
 b. Incluirán de manera explícita, el importe que se destinará al incremento de las reservas multicitadas, y
 
-c. Incluirá asimismo, un punto correspondiente a la política de constitución de reservas, en el que se describa la situación financiera y actuarial de cada seguro conforme a los resultados de la Valuación Financiera y Actuarial, la política de ahorro, inversión y financiamiento del ejercicio con el fin de estabilizar el flujo de efectivo requerido para la operación; así como la fundamentación respecto de los montos que se destinarán al fondeo de las reservas de referencia.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+c) Incluirá asimismo, un punto correspondiente a la política de constitución de Reservas, en el que se describa la situación financiera y actuarial de cada seguro conforme a los resultados de la Valuación, la política de ahorro, inversión y financiamiento del ejercicio con el fin de estabilizar el flujo de efectivo requerido para la operación; así como la fundamentación respecto de los montos que se destinarán al fondeo de las Reservas de referencia.
 
 IV. Información sobre los Fondos de Reservas del Instituto para el ejercicio fiscal al que corresponda el Programa.
 
@@ -649,9 +681,11 @@ El déficit definido en el artículo anterior que presente el Instituto será cu
 
 La Junta aprobará la distribución y calendarización de las transferencias o aportaciones resultantes de los cálculos del párrafo anterior, y serán comunicados al Gobierno Federal y los gobiernos o Dependencias y Entidades de las Entidades Federativas o municipales que resultaren con importes a su cargo, para su pago o entero a la Tesorería General del Instituto.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
 ###### Artículo 35.
 
-En caso de que el Gobierno Federal y los gobiernos o Dependencias y Entidades de las Entidades Federativas o municipales que resulten con importes a su cargo, no cumplan con su pago o entero a la Tesorería General del Instituto en los términos y plazos autorizados por la Junta, el Director General deberá hacerlo del conocimiento del Titular del Ejecutivo Federal, del Congreso de la Unión y del público en general, a través de la publicación en dos periódicos de circulación nacional.
+En caso de que el Gobierno Federal y los gobiernos o Dependencias y Entidades de las Entidades Federativas o municipales que resulten con importes a su cargo, no cumplan con su pago o entero a la Tesorería General del Instituto en los términos y plazos autorizados por la Junta, el Instituto estará obligado a hacer público el adeudo correspondiente.
 
 Cuando ocurra la falta de pago de los montos que se determinen, la Tesorería General aplicará los mecanismos de cobro previstos en los convenios de adhesión que se tengan celebrados y deberá operar las acciones para garantizar el pago oportuno. Cuando no se obtenga el pago correspondiente, y toda vez que haya transcurrido el plazo para hacer exigible dicho (sic) obligación, la Tesorería General informará a la Subdirección de Contaduría para que se efectúe el registro contable correspondiente de las aportaciones o transferencias que adeuden al Instituto.
 
@@ -659,13 +693,17 @@ Hasta que no se realicen los pagos en la Tesorería General de las cantidades de
 
 ### CAPITULO SEGUNDO. DE LOS ORGANOS ESPECIALIZADOS DE INVERSION
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
 ###### Artículo 36.
 
-El Comité es el órgano facultado para proponer a la Junta Directiva las políticas y directrices de inversión, así como para evaluar y supervisar su aplicación.
+El Comité es el órgano facultado para proponer a la Junta las políticas y directrices de inversión, así como para evaluar y supervisar su aplicación.
 
 El Comité tendrá las facultades y obligaciones siguientes:
 
-I. Autorizar el Manual de Políticas de Inversión de los Fondos de las Reservas del Instituto, el cual deberá ser revisado por lo menos cada tres años, incluyendo las Reglas Prudenciales en materia de Administración de Riesgos. Dicho Manual, también deberá ser revisado cuando exista una modificación o nueva normatividad Federal o Institucional que afecte el contenido de los mismos, o bien, cuando exista una reestructura orgánica del Instituto;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+I. Autorizar el Manual, el cual deberá ser revisado por lo menos cada tres años, incluyendo las Reglas Prudenciales en materia de Administración de Riesgos. Dicho Manual, también deberá ser revisado cuando exista una modificación o nueva normatividad Federal o Institucional que afecte el contenido de los mismos, o bien, cuando exista una reestructura orgánica del Instituto;
 
 II. Proponer anualmente a la Junta las estrategias y directrices para la inversión, uso y dispersión de las reservas;
 
@@ -677,11 +715,15 @@ V. Dar seguimiento a los acuerdos dictados por la Junta, en materia de las inver
 
 VI. Supervisar la celebración de los contratos con los intermediarios financieros y respecto de las operaciones de inversión;
 
-VII. Rendir a la Junta del Instituto y a la Comisión de Vigilancia, de manera pormenorizada, semestralmente, el informe correspondiente a las reservas y a la situación que guardan;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
 
-VIII. Publicar en el portal del Instituto la información respecto de la inversión de las reservas, que sea aprobada por la Junta, y
+VII. Rendir a la Junta y a la Comisión, de manera pormenorizada, semestralmente, el informe correspondiente a las Reservas y a la situación que guardan, y
 
-IX. Las demás que le confiera el Reglamento.
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+VIII. Las demás que le confiera el Reglamento.
+
+IX. (DEROGADA, D.O.F. 30 DE ABRIL DE 2010)
 
 ###### Artículo 37.
 
@@ -689,7 +731,9 @@ El Comité estará integrado de la siguiente forma:
 
 Cinco miembros que tendrán voz y voto, que serán:
 
-a) El Director General de Instituto, quien presidirá el Comité, y tendrá voto de calidad, en caso de empate;
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+a) El Director General, quien presidirá el Comité, y tendrá voto de calidad, en caso de empate;
 
 b) Un representante que designe la Secretaría de Hacienda y Crédito Público;
 
@@ -699,7 +743,9 @@ d) Dos consejeros independientes, que serán invitados por el Director General, 
 
 Cinco invitados permanentes, los cuales sólo tendrán voz, y serán:
 
-a) El Secretario Técnico de la Comisión de Vigilancia;
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+a) El Secretario Técnico de la Comisión;
 
 b) El Titular del Organo Interno de Control en el Instituto;
 
@@ -707,9 +753,11 @@ c) El Subdirector de Programación y Presupuesto del Instituto;
 
 d) El Tesorero General del Instituto, y
 
-e) El Subdirector de Planeación Financiera y Evaluación Institucional del Instituto.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
 
-Los cargos de los miembros del Comité serán honorarios y no devengarán salario o remuneración alguna por su desempeño.
+e) El Subdirector de Contaduría del Instituto.
+
+> <small>(DEROGADO ANTEPENULTIMO PARRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
 
 Adicionalmente a los miembros e invitados permanentes antes mencionados, el Comité contará con un Secretario Técnico, quien contará únicamente con voz, que será nombrado y removido por el propio Comité a propuesta del Director General y, en su ausencia, será suplido por la persona que se designe entre los miembros o invitados permanentes del Comité, que se encuentren presentes en la sesión.
 
@@ -727,7 +775,9 @@ Los miembros del Comité, los invitados permanentes y el Secretario Técnico deb
 
 Las ausencias temporales de algún miembro del Comité, salvo en los casos de los Consejeros Independientes, podrán ser cubiertas por un suplente, designado para tal efecto, el cual deberá tener el cargo inmediato inferior del titular.
 
-Previo a la presentación del informe semestral a la Junta y su publicación en el portal del Instituto, el Presidente del Comité convocará a la celebración de una sesión especial para conocer y evaluar el estado que guardan las inversiones de las reservas, sus rendimientos, la exposición al riesgo, las estrategias y la situación financiera del Instituto.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+Previo a la presentación del informe semestral a la Junta, el presidente del Comité convocará a la celebración de una sesión especial para conocer y evaluar el estado que guardan las inversiones de las Reservas, sus rendimientos, la exposición al riesgo, las estrategias y la situación financiera del Instituto.
 
 A esta sesión especial se convocará con siete días de anticipación, adjuntando el orden del día, y tendrá el objetivo de revisar y aprobar el informe semestral y el informe público anual, que se presentará a la Junta.
 
@@ -767,27 +817,39 @@ V. Elaborar los proyectos de actas de las sesiones y someterlos a la consideraci
 
 VI. Comunicar los acuerdos del Comité;
 
-VII. Remitir a la Junta y a la Comisión de Vigilancia copia de los informes aprobados por el Comité, y
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+VII. Remitir a la Junta y a la Comisión copia de los informes aprobados por el Comité, y
 
 VIII. Las demás que le encomiende el Comité.
 
 ### CAPITULO TERCERO. DE LA INVERSION DE LAS RESERVAS
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
 ###### Artículo 42.
 
-La inversión de las reservas deberá llevarla a cabo la Unidad Administrativa Especializada a que se refiere el artículo 244 de la Ley, denominada “Coordinación de Inversiones”, la cual dependerá de la Dirección de Finanzas y se ajustará a los criterios establecidos en el Manual de Políticas de Inversión de los Fondos de las Reservas del Instituto. Dicha Coordinación de Inversiones, tendrá las facultades y obligaciones siguientes.
+La inversión de las Reservas deberá llevarla a cabo la Coordinación de Inversiones, la cual dependerá de la Dirección de Finanzas y se ajustará a los criterios establecidos en el Manual. Dicha Coordinación de Inversiones, tendrá las facultades y obligaciones siguientes:
 
-I. Proponer al Comité de Inversiones, a través de la Dirección de Finanzas, las alternativas de inversión de los recursos financieros del Instituto;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
 
-II. Realizar las operaciones de inversión de las Reservas y de los excedentes de efectivo, de acuerdo con las políticas y directrices del Comité de Inversiones del Instituto;
+I. Proponer al Comité, a través de la Dirección de Finanzas, las alternativas de inversión de los recursos financieros del Instituto;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+II. Realizar las operaciones de inversión de las Reservas y de los excedentes de efectivo, de acuerdo con las políticas y directrices del Comité;
 
 III. Aplicar las estrategias para cubrir el riesgo de inversión;
 
 IV. Establecer y operar los sistemas de información para las operaciones de inversión de las Reservas y de los excedentes de efectivo y sobre los factores de riesgo de inversión;
 
-V. Elaborar y presentar al Comité de Inversiones, a través de la Dirección de Finanzas, un informe mensual pormenorizado de las operaciones y rendimientos obtenidos en la inversión de los excedentes de efectivo, y uno semestral, por las correspondientes a las Reservas del Instituto;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
 
-VI. Custodiar e invertir las Reservas y los recursos en general que por cualquier concepto recaude el Instituto, con excepción de los depositados en las Cuentas Individuales administradas por PENSIONISSSTE, bajo criterios de prudencia, seguridad, rendimiento, liquidez, diversificación de riesgo, transparencia y respeto a las sanas prácticas y usos del medio financiero nacional; y
+V. Elaborar y presentar al Comité, a través de la Dirección de Finanzas, un informe mensual pormenorizado de las operaciones y rendimientos obtenidos en la inversión de los excedentes de efectivo, y uno semestral, por las correspondientes a las Reservas del Instituto;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+VI. Custodiar e invertir las Reservas y los recursos en general que por cualquier concepto recaude el Instituto, con excepción de los depositados en las cuentas individuales administradas por PENSIONISSSTE y por FOVISSSTE, bajo criterios de prudencia, seguridad, rendimiento, liquidez, diversificación de riesgo, transparencia y respeto a las sanas prácticas y usos del medio financiero nacional, y
 
 VII. La que señale la normatividad tanto Federal como Institucional que le resulte aplicable.
 
@@ -803,17 +865,15 @@ La Coordinación de Inversiones procurará eliminar factores de riesgo, para lo 
 
 Al concurrir similitud de circunstancias sobre seguridad y rendimiento, se preferirá la inversión que garantice mayor utilidad social, a juicio de la Coordinación.
 
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
 ###### Artículo 45.
 
-Con la finalidad de asegurar que los recursos mantengan su valor en el transcurso del tiempo y garantizar el cumplimiento de las obligaciones institucionales futuras de largo plazo, el Comité de Inversión determinará las estrategias de inversión seguras y rentables, acordes a una inversión no especulativa, sino de ahorro, crecimiento y protección del capital. Para tal efecto, el objetivo de rendimiento mínimo de la inversión es obtener, en forma sostenida, la tasa real anualizada que proponga el Comité, y autorice la Junta.
+Con la finalidad de asegurar que los recursos mantengan su valor en el transcurso del tiempo y garantizar el cumplimiento de las obligaciones institucionales futuras de largo plazo, el Comité determinará las estrategias de inversiones seguras y rentables, acordes a una inversión no especulativa, sino de ahorro, crecimiento y protección del capital. Para tal efecto, el objetivo de rendimiento mínimo de la inversión es obtener, en forma sostenida, la tasa real anualizada que proponga el Comité y autorice la Junta.
 
-El Comité de Inversión propondrá en el mes de noviembre de cada año a la Junta, la tasa real mínima anualizada, como objetivo de inversión para el siguiente ejercicio fiscal, tomando como base el indicador que resulte más alto de los siguientes:
+El Comité propondrá a la Junta en su última sesión del año, la tasa real mínima anualizada, como objetivo de inversión para el siguiente ejercicio fiscal.
 
-I. La tasa de interés técnica, establecida por la Comisión Nacional de Seguros y Fianzas, para la determinación de las reservas matemáticas de los seguros de pensiones derivados de las Leyes de seguridad social, y
-
-II. El rendimiento que la Secretaría de Hacienda y Crédito Público determine respecto a los recursos depositados en la cuenta concentradora que el Instituto abre a su nombre en el Banco de México, en los términos del artículo 75 de la Ley de los Sistemas de Ahorro para el Retiro.
-
-Para los efectos de la inversión, la Coordinación de Inversiones deberá establecer diariamente la composición de la cartera, señalando los plazos, tasas y tipos de inversión de acuerdo a las directrices autorizadas por la Junta, con base en la propuesta del Comité de Inversiones.
+Para los efectos de la inversión, la Coordinación de Inversiones deberá establecer diariamente la composición de la cartera, señalando los plazos, tasas y tipos de inversión de acuerdo a las directrices autorizadas por la Junta, con base en la propuesta del Comité.
 
 ###### Artículo 46.
 
@@ -821,29 +881,47 @@ La Coordinación de Inversiones informará dentro de los diez días naturales si
 
 ###### Artículo 47.
 
-La Junta, a propuesta del Comité, establecerá la mecánica operativa para la inversión de las reservas, así como la dispersión de fondos, para su incorporación en el Manual.
+(DEROGADO, D.O.F. 30 DE ABRIL DE 2010)
+
+> <small>(DEROGADO, D.O.F. 30 DE ABRIL DE 2010)</small>
 
 ### CAPITULO CUARTO. DE LA UTILIZACION DE LA RESERVA GENERAL FINANCIERA Y ACTUARIAL
 
 ###### Artículo 48.
 
-Se podrá disponer de los recursos de alguna reserva para el pago de las prestaciones del seguro a la que corresponda y otros eventos, previa autorización de la Junta, a solicitud de la Dirección de Finanzas, con base en lo señalado en el artículo 238 de la Ley.
+(DEROGADO, D.O.F. 30 DE ABRIL DE 2010)
 
 ## TITULO QUINTO. DEL INFORME FINANCIERO Y ACTUARIAL
 
 ### CAPITULO UNICO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO QUE REFORMA EL PRESENTE ARTICULO, PUBLICADO EN EL D.O.F. DE 30 DE ABRIL DE 2010, SE MODIFICA LA ESTRUCTURA DEL MISMO, PARA QUEDAR CONFORMADO POR DOS FRACCIONES.</small>
+
 ###### Artículo 49.
 
 A efecto de dar cumplimiento al artículo 214, fracción XIX, que establece que la Junta deberá presentar al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y al Congreso de la Unión, a más tardar el 30 de junio de cada año, un Informe dictaminado por auditor externo, se establece lo siguiente:
 
-I. La Valuación deberá concluirse a más tardar el 30 de abril de cada año, con corte al 31 de diciembre del año anterior, para su integración al Informe Financiero y Actuarial;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
 
-II. El Informe Financiero y Actuarial, deberá estar integrado a más tardar el 15 de mayo de cada año, para su dictamen por auditor externo;
+I. El Informe Financiero y Actuarial deberá estar integrado antes de la segunda sesión ordinaria de la Junta, y
 
-III. La revisión y dictamen de la (sic) Informe Financiero y Actuarial, deberá concluirse a más tardar el 30 de mayo de cada año, y deberá ser presentada a la Junta para su aprobación, y
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
 
-IV. La Junta tendrá hasta el 25 de junio de cada año para aprobar el Informe Financiero y Actuarial y presentarlo al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y al Congreso de la Unión, a más tardar el 30 de junio de cada año.
+II. La Junta aprobará el Informe Financiero y Actuarial y lo presentará al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y al Congreso de la Unión, a más tardar el 30 de junio de cada año.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2010)</small>
+
+###### Artículo 50.
+
+La Dirección de Finanzas, a efecto de dar cumplimiento al artículo 224, fracciones V y VI de la Ley, pondrá anualmente a disposición de la Comisión:
+
+I. Los estados financieros dictaminados del Instituto y Organos Desconcentrados al cierre del ejercicio fiscal correspondiente;
+
+II. El informe de la Valuación, y
+
+III. El Informe anual de Cuotas y Aportaciones, gestiones y recuperación de adeudos con cifras al cierre de cuenta pública.
+
+A efecto de que la Comisión emita opinión al respecto.
 
 ## TRANSITORIOS
 
@@ -851,9 +929,9 @@ PRIMERO. El presente Reglamento entrará en vigor al día siguiente al de su pub
 
 SEGUNDO. A partir de la entrada en vigor de este Reglamento, se abroga el Reglamento Financiero del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, expedido por Acuerdo 6.104.85 de la Junta el 27 de septiembre de 1985, publicado en el Diario Oficial de la Federación el 4 de octubre de 1988, así como cualquier otra disposición normativa que se oponga al presente Reglamento.
 
-TERCERO. Durante los tres primeros años de aplicación de este Reglamento, la Valuación deberá de ser elaborada con base en la información que se tenga disponible al 28 de febrero de cada año. Posteriormente los estudios deberán ser realizados con información al 31 de diciembre de cada año.
+TERCERO. (DEROGADO, D.O.F. 30 DE ABRIL DE 2010)
 
-CUARTO. Las fechas establecidas en el Capítulo Primero del Título Cuarto de este Reglamento, referente al Programa Anual de Administración y Constitución de Reservas aplican a partir del último bimestre del 2008. De igual manera, las fechas establecidas en el Título Quinto del presente Reglamento, referente al cumplimiento de los compromisos ahí señalados, aplican a partir del ejercicio 2009.
+CUARTO. (DEROGADO, D.O.F. 30 DE ABRIL DE 2010)
 
 QUINTO. Las funciones a las que hace referencia el capítulo tercero del título cuarto, correspondientes a la Coordinación de Inversiones, serán ejercidas por la Dirección de Finanzas, hasta en tanto sea aprobada la estructura orgánica de dicha unidad administrativa, por la Secretaría de la Función Pública y la Secretaría de Hacienda y Crédito Público, fecha en la cual dichas funciones podrán ser desempeñadas por la Coordinación de Inversiones."
 
@@ -862,3 +940,13 @@ Lo que me permito hacer de su conocimiento, para los efectos legales procedentes
 Atentamente
 
 México, D.F., a 31 de marzo de 2009.- El Secretario General y Secretario de la Junta Directiva, José Enrique Ampudia Mello.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 30 DE ABRIL DE 2010.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Acuerdo.
+
+TERCERO. Las funciones y responsabilidades previstas en el Reglamento continuarán desempeñándose por las mismas áreas, aún y cuando éstas cambien su denominación. Asimismo, una vez que se apruebe la nueva estructura de la Dirección de Finanzas, las funciones y responsabilidades encomendadas al Area actuarial de la Dirección de Finanzas, serán supervisadas y representadas por la Subdirección a la que quede adscrita.
