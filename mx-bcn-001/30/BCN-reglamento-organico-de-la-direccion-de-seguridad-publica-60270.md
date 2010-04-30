@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-organico-de-la-direccion-de-seguridad-publica-60270"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2008-02-22"
+last_updated: "2010-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO ORGÁNICO DE LA SECRETARIA DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de junio de 2006.
 
@@ -105,21 +105,23 @@ En el Municipio de Ensenada, Baja California, la Secretaría de Seguridad Públi
 
 Se considera como elemento de los Cuerpos Preventivos de Seguridad Pública, aquellos a quienes se atribuya ese carácter mediante nombramiento o instrumento jurídico equivalente y que los considere como policías preventivos o elementos de tránsito, otorgado por autoridad competente del Municipio o de la Secretaría de Seguridad Pública, según sea el caso, aun cuando se encuentren comisionados o desempeñen funciones administrativas o diversas a la función preventiva directa.
 
-En este sentido, la relación jurídica del personal que se integra a los cuerpos de seguridad pública será de carácter administrativa y se regirán por la Ley que Regula la Relación Administrativa de los Miembros de las Instituciones Policiales y su reglamento, así como por el presente ordenamiento, con excepción de los elementos de la Dirección de Bomberos y Protección Civil.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+
+En este sentido, la relación jurídica del personal que se integra a los cuerpos de seguridad pública será de carácter administrativa y se regirán por la Ley que Regula la Relación Administrativa de los Miembros de las Instituciones Policiales y su reglamento, así como por el presente ordenamiento, con excepción de los elementos de la Dirección de Bomberos.
 
 ###### Articulo 6.
 
 Los cuerpos preventivos de seguridad pública municipal, regirán su operación e integración conforme a lo establecido por los reglamentos, convenios, acuerdos, circulares y demás disposiciones administrativas que sobre la materia apruebe el Ayuntamiento, dicte el Presidente Municipal o el Titular de la Secretaría de Seguridad Pública Municipal.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
-Para el desarrollo de las funciones, a la Secretaría se adscriben las atribuciones de la Policía y Tránsito Municipal, Bomberos y Protección Civil, así como las Coordinaciones, unidades operativas y el personal que las integran.
+Para el desarrollo de las funciones, a la Secretaría se adscriben las atribuciones de la Policía y Tránsito Municipal, Bomberos, así como las Coordinaciones, unidades operativas y el personal que las integran.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
 ###### Artículo 7.
 
-El reglamento de la Policía y Tránsito y el respectivo de Bomberos y Protección Civil establecerá por lo menos, las disposiciones relativas a su organigrama interno, licencias, permisos, causas de baja, prestaciones de previsión social y de régimen disciplinario, sanciones y deberes, estímulos y recompensas, que corresponda a cada una de las corporaciones de seguridad pública preventiva.
+El reglamento de la Policía y Tránsito y el respectivo de Bomberos establecerá por lo menos, las disposiciones relativas a su organigrama interno, licencias, permisos, causas de baja, prestaciones de previsión social y de régimen disciplinario, sanciones y deberes, estímulos y recompensas, que corresponda a cada una de las corporaciones de seguridad pública preventiva.
 
 ###### Artículo 8.
 
@@ -129,9 +131,9 @@ Secretaría: a la Secretaría de Seguridad Pública Municipal;
 
 Secretario: El Secretario de Seguridad Pública Municipal;
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
-Cuerpos Preventivos: A la agrupación de los miembros de seguridad pública que desempeña labores de policía y tránsito, bomberos y protección civil;
+Cuerpos Preventivos: A la agrupación de los miembros de seguridad pública que desempeña labores de policía y tránsito, bomberos;
 
 > <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2008)</small>
 
@@ -141,9 +143,9 @@ Coordinaciones: A las Coordinaciones de auxilio ejecutivo, normativo y operativo
 
 Unidad Administrativa: A las áreas administrativas que por especialidad o función se adscriben e integran la estructura orgánica de la Secretaría.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
-Direcciones o Direcciones Operativas: Al conjunto que hacen las Direcciones de Policía y Tránsito y la de Bomberos y Protección Civil.
+Direcciones o Direcciones Operativas: Al conjunto que hacen las Direcciones de Policía y Tránsito y la de Bomberos.
 
 ###### Artículo 9.
 
@@ -241,11 +243,11 @@ La Secretaría de Seguridad Pública Municipal contará con las unidades subalte
 
 Contará además, con una Unidad de Asuntos Internos, que se encargará de investigar e integrar los expedientes para la aplicación de los correctivos disciplinarios conforme a lo dispuesto por los artículos 10, 13, 14 y demás relativos de la Ley que Regula la Relación Administrativa de los Miembros de las Instituciones Policiales del Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
 ###### Articulo 19.
 
-Las facultades y atribuciones que los reglamentos municipales y otras disposiciones legales le atribuye (sic) a los Directores de Policía y Tránsito, Bomberos y Protección Civil, le corresponden originalmente al Secretario de Seguridad Pública, quien podrá ejercerlas directamente cuando así lo juzgue necesario.
+Las facultades y atribuciones que los reglamentos municipales y otras disposiciones legales le atribuye (sic) a los Directores de Policía y Tránsito, Bomberos, le corresponden originalmente al Secretario de Seguridad Pública, quien podrá ejercerlas directamente cuando así lo juzgue necesario.
 
 ### Capítulo II. DE LA OFICINA Y ATRIBUCIONES DEL SECRETARIO
 
@@ -271,23 +273,23 @@ IV. Establecer, supervisar, operar y mantener actualizados los sistemas, registr
 
 V. Planear, programar, organizar, coordinar, controlar y evaluar el funcionamiento de las unidades administrativas adscritas a su ámbito de competencia;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-VI. Dirigir los programas y las unidades administrativas de coordinación general en materia de Planeación, Profesionalización, Administración, Informática, y las Direcciones operativas de policía y tránsito, bomberos y protección civil;
+VI. Dirigir los programas y las unidades administrativas de coordinación general en materia de Planeación, Profesionalización, Administración, Informática, y las Direcciones operativas de policía y tránsito, bomberos;
 
 VII. Administrar los recursos, vigilar y dar seguimiento al ejercicio de las funciones, programas y acciones, de las coordinaciones y direcciones operativas adscritas a la Secretaría, así como evaluar sus resultados;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-VIII. Vigilar que el ejercicio de la autoridad y la operación diaria de la policía y tránsito municipal, bomberos y protección civil, se observe el respeto absoluto a los derechos humanos de los ciudadanos;
+VIII. Vigilar que el ejercicio de la autoridad y la operación diaria de la policía y tránsito municipal, bomberos, se observe el respeto absoluto a los derechos humanos de los ciudadanos;
 
 IX. Promover la celebración de convenios con otras instituciones similares sobre apoyo y asesoría reciproca en materia policial, preventiva, jurídica y de formación al personal, intercambio de material, recursos e información necesaria para el desarrollo de sus atribuciones, con apego estricto a las disposiciones legales y sin perjuicio de las facultades que corresponden a otras autoridades municipales.
 
 X. Proponer al Presidente Municipal el nombramiento y remoción de los titulares de las Direcciones Operativas adscritas a la Secretaría;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-XI. Asumir cuando lo juzgue necesario, las atribuciones que los Reglamentos del Municipio de Ensenada, Baja California, señala al encargo de la Policía y Tránsito, Bomberos y Protección Civil.
+XI. Asumir cuando lo juzgue necesario, las atribuciones que los Reglamentos del Municipio de Ensenada, Baja California, señala al encargo de la Policía y Tránsito, Bomberos.
 
 XII. Ordenar y supervisar la Integración de las estadísticas delictivas y proponer programas para mejorar y ampliar la cobertura del servicio de Seguridad Pública Municipal;
 
@@ -311,7 +313,9 @@ I.- Dirección de Policía y Tránsito Municipal;
 
 II.- (DEROGADA, P.O. 22 DE FEBRERO DE 2008)
 
-III. Dirección de Bomberos y Protección Civil.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+
+III. Dirección de Bomberos.
 
 ###### Artículo 23.
 
@@ -457,7 +461,7 @@ XI. Proponer la actualización del marco legal y normativo de la Secretaría, as
 
 XII. Proponer al Secretario los Manuales de Organización general y los especiales, así como recabar la información, formular y definir las guías técnicas para la elaboración de los manuales específicos de normas y procedimientos de servicios al público y de los procesos que resulten necesarios para el mejor funcionamiento de la Secretaría, verificar su actualización y promover su registro y difusión;
 
-XIII. Estudiar y evaluar la estructura de organización y operación de los procesos y servicios brindados por las Unidades Administrativas de la Secretaría para el mejor desarrollo de sus labores, así como dictar las modificaciones concernientes, y ; (sic)
+XIII. Estudiar y evaluar la estructura de organización y operación de los procesos y servicios brindados por las Unidades Administrativas de la Secretaría para el mejor desarrollo de sus labores, así como dictar las modificaciones concernientes, y;
 
 XIV. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
@@ -545,7 +549,7 @@ XIV. Realizar, evaluar y mantener actualizado el registro sinalagmático, para e
 
 XV. Integrar el Registro del Personal de Seguridad Pública, incorporando las incidencias, así como la información de los servidores públicos de la Secretaria que hayan sido sancionados;
 
-XVI. Gestionar la participación de instituciones públicas, sociales y privadas en programas de acción que fortalezcan los valores de los elementos y sus familias y propicie una mayor integración con éstas, y (sic);
+XVI. Gestionar la participación de instituciones públicas, sociales y privadas en programas de acción que fortalezcan los valores de los elementos y sus familias y propicie una mayor integración con éstas, y;
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2008)</small>
 
@@ -679,11 +683,11 @@ VII Promover la especialización operativa de los agentes de policía, de acuerd
 
 ### Capítulo Único
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
 ###### Artículo 39.
 
-Las relaciones jerárquicas en la Secretaría de Seguridad Pública, la organización territorial y la estructura operativa en el municipio, así como otros componentes de mando, dirección y disciplina, serán determinados conforme al presente Reglamento, así como en los Reglamentos y Manuales de Operación que en la materia específica de Policía y Tránsito, Bomberos, Protección Civil, elabore y emita el Ayuntamiento y la Secretaría, según corresponda.
+Las relaciones jerárquicas en la Secretaría de Seguridad Pública, la organización territorial y la estructura operativa en el municipio, así como otros componentes de mando, dirección y disciplina, serán determinados conforme al presente Reglamento, así como en los Reglamentos y Manuales de Operación que en la materia específica de Policía y Tránsito, Bomberos, elabore y emita el Ayuntamiento y la Secretaría, según corresponda.
 
 ###### Artículo 40.
 
@@ -705,7 +709,9 @@ IV. Mandos Subordinados
 
 El Alto Mando de los Cuerpos de Seguridad Pública Municipal, corresponde al Presidente Municipal quien lo ejercerá por sí o por conducto del Secretario de Seguridad Pública Municipal.
 
-El Secretario ejercerá el alto mando, entendido éste como la representación de la propia Secretaria y la autoridad que se ejerce sobre los elementos que integran el cuerpo de policía preventiva, tránsito, transporte, bomberos y protección civil, que se encuentran en servicio activo.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+
+El Secretario ejercerá el alto mando, entendido éste como la representación de la propia Secretaria y la autoridad que se ejerce sobre los elementos que integran el cuerpo de policía preventiva, tránsito, transporte, bomberos, que se encuentran en servicio activo.
 
 ###### Artículo 43.
 
@@ -753,11 +759,11 @@ II. Las ausencias de los titulares de las demás unidades administrativas, el de
 
 ### Capítulo Único
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
 ###### Artículo 49.
 
-El Servicio de Carrera en materia de seguridad preventiva, comprende el reclutamiento, la selección, el ingreso, la antigüedad, la promoción, el régimen de estímulos y la conclusión del servicio de los integrantes de las corporaciones de bomberos, protección civil, policía y tránsito.
+El Servicio de Carrera en materia de seguridad preventiva, comprende el reclutamiento, la selección, el ingreso, la antigüedad, la promoción, el régimen de estímulos y la conclusión del servicio de los integrantes de las corporaciones de bomberos, policía y tránsito.
 
 ###### Artículo 50.
 
@@ -884,3 +890,9 @@ SECRETARIO FEDATARIO
 P.O. 22 DE FEBRERO DE 2008.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 30 DE ABRIL DE 2010.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO RESOLUTIVO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+SEXTO.- Una vez aprobado el presente dictamen publíquese el presente en el Periódico Oficial del Estado y en dos periódicos locales de mayor circulación, para conocimiento de los usuarios y para los efectos legales correspondientes.
