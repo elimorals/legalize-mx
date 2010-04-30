@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-transporte-publico-del-estado-de-baja-22986"
 country: "mx"
 rank: "ley_general"
 publication_date: "2001-11-09"
-last_updated: "2008-04-18"
+last_updated: "2010-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE TRANSPORTE PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -124,6 +124,10 @@ Tipo D.- Chofer que maneja vehículos de alquiler.
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2008)</small>
 
 Tratándose de licencias de chofer para manejar camiones urbanos y vehículos de alquiler, para el transporte de pasajeros, se requerirá que el interesado haya terminado por lo menos la instrucción primaria, así mismo los portadores de la licencia tipo B y que este dentro de su vigencia, podrán conducir vehículos de alquiler o taxi que ampare la licencia tipo D.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2010)</small>
+
+En la expedición, canje y revalidación de licencias de motociclistas, automovilistas y choferes, podrá establecerse, que el interesado manifestó ser voluntario para la donación de órganos y tejidos, misma, que en ningún caso implican el consentimiento expreso a que se refiere la Ley General de Salud.
 
 ###### ARTICULO 5.
 
@@ -542,3 +546,7 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 P.O. 18 DE ABRIL DE 2008.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ABRIL DE 2010.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
