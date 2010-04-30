@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2010-03-31"
+last_updated: "2010-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -9624,17 +9624,31 @@ K) Dirección Ejecutiva de Planeación y Evaluación de Proyectos y Programas; y
 
 L) Dirección Ejecutiva de Mejora Continua a la Gestión Gubernamental.
 
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ABRIL DE 2010)</small>
 
-VIII. Al Órgano Político-Administrativo en Iztacalco;
+VIII. Al órgano político-administrativo en Iztacalco;
+
+> <small>(ADICIONADO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 A) Dirección General Jurídica y de Gobierno;
 
+> <small>(ADICIONADO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+
 B) Dirección General de Administración;
 
-C) Dirección General de Obras, Servicios y Desarrollo Urbano;
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2010)</small>
 
-E) (SIC) Dirección General de Desarrollo Social; y
+C) Dirección General de Obras y Desarrollo Urbano;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE ABRIL DE 2010)</small>
+
+D) Dirección General de Servicios Urbanos;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 30 DE ABRIL DE 2010)</small>
+
+E) Dirección General de Desarrollo Social; y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 30 DE ABRIL DE 2010)</small>
 
 F) Dirección General de Participación Ciudadana.
 
@@ -10008,11 +10022,21 @@ Son atribuciones básicas de la Dirección General de Obras y Desarrollo Urbano:
 
 I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas;
 
-II. Expedir licencias para la ejecución, modificación y registro de obras de construcción, ampliación, reparación o demolición de edificaciones o de instalaciones o para la realización de obras de construcción, reparación y mejoramiento de instalaciones subterráneas;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2010)</small>
 
-III. Expedir licencias de fusión, subdivisión, relotificación de conjunto y de condominios;
+II. Revisar los datos y documentos ingresados para el registro de las manifestaciones de construcción e intervenir en la verificación del desarrollo de los trabajos, en los términos de la Ley del Instituto de Verificación Administrativa del Distrito Federal; otorgar el registro de las obras ejecutadas sin la manifestación de construcción; expedir licencias de construcción especial; y las demás que se le otorguen en materia de construcciones;
 
-IV. Autorizar los números oficiales y alineamientos;
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2010)</small>
+
+II Bis. Expedir licencias y autorizaciones temporales en materia de anuncios;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2010)</small>
+
+III. Expedir licencias de fusión, subdivisión, relotificación de predios;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2010)</small>
+
+IV. Expedir constancias de alineamiento y número oficial;
 
 V. Expedir, en coordinación con el Registro de los Planes y Programas de Desarrollo Urbano, las certificaciones del uso del suelo;
 
@@ -11146,7 +11170,7 @@ Corresponde a la Dirección General de Desarrollo Social además de las atribuci
 
 DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN IZTACALCO.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ABRIL DE 2010)</small>
 
 ###### Artículo 153.
 
@@ -11478,17 +11502,39 @@ DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y
 
 ###### Artículo 157.
 
-La Dirección General de Obras, Servicios y Desarrollo Urbano, tendrá, además de las señaladas en los artículos 126 y 127, las siguientes atribuciones:
+La Dirección General de Obras y Desarrollo Urbano tendrá, además de las señaladas en el artículo 126, las siguientes atribuciones:
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
 
 I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
 
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
+
 II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
 
 III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
 
-IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+IV. (DEROGADA, G.O. 30 DE ABRIL DE 2010)
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
 
 V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2010)</small>
+
+###### Artículo 157 Bis.
+
+La Dirección General de Servicios Urbanos, tendrá, las siguientes atribuciones:
+
+I. Dar mantenimiento a los parques públicos que se encuentren a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+
+II. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra dependencia o entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes;
+
+III. Proporcionar los servicios de retiro de desechos sólidos en los planteles escolares oficiales, los mercados públicos, los hospitales públicos y las industrias, siempre que nos (sic) se trate de residuos peligrosos; y
+
+IV. Promover campañas ante la comunidad, respecto de las tareas y cultura de la limpieza, con la idea de mantener en condiciones adecuadas los espacios públicos de la delegación, proteger el entorno ecológico y respetar la Ley de Residuos Sólidos del Distrito Federal.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -13879,3 +13925,11 @@ Primero. El presente Decreto entrará en vigor al día primero de abril del 2010
 Segundo. Los recursos humanos, materiales, técnicos y financieros, así como los asuntos que se encuentren en trámite en las unidades administrativas que se transforman por virtud de este Decreto, se transferirán para su resolución a las que se les asigna la competencia, en los términos y condiciones que establezcan las disposiciones administrativas aplicables, a partir de su entrada en vigor.
 
 Tercero. La Secretaría de Educación y el Órgano Político-Administrativo en Miguel Hidalgo deberá actualizar su Manual Administrativo en los términos y condiciones que establezca la Contraloría General.
+
+G.O. 30 DE ABRIL DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día primero de mayo del 2010.
+
+Segundo. Los recursos humanos, materiales, técnicos y financieros, así como los asuntos que se encuentren en trámite en la unidad administrativa que deja de tener competencia sobre los mismos por virtud de este Decreto, se transferirán para ser resueltos por la que se crea, a partir de su entrada en vigor.
+
+Tercero. El Órgano Político-Administrativo en Iztacalco deberá actualizar su Manual Administrativo en los términos y condiciones que establezca la Contraloría General.
