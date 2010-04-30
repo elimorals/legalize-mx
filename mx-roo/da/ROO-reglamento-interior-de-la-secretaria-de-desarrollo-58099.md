@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-desarrollo-58099"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-15"
-last_updated: "2007-11-15"
+last_updated: "2010-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO, RURAL E INDIGENA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE DESARROLLO AGROPECUARIO, RURAL E INDIGENA, PUBLICADO EN EL P.O. DE 30 DE ABRIL DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 15 de noviembre de 2007.
 
@@ -1426,3 +1428,27 @@ SECRETARIA DE GOBIERNO
 ING. RAFAEL LEÓN NEGRETE
 
 SECRETARIO DE DESARROLLO AGROPECUARIO, RURAL E INDÍGENA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE ABRIL DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Reo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaria de Desarrollo Agropecuario, Rural e Indígena, publicado en el Periódico Oficial del Estado de Quintana Roo bajo el número 21 de fecha 15 de Noviembre del 2007.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en este reglamento se dé una denominación nueva o distinta a algún Órgano o Unidad Administrativa establecida con anterioridad a la vigencia del mismo, aquel Órgano o Unidad Administrativa atenderá los asuntos a que se refiere este ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+Para su mejor funcionamiento, los Órganos o Unidades Administrativas deberán formular sus respectivos Manuales de Organización.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos financieros y materiales que estuvieran asignados a las Unidades Administrativas que desaparezcan o modifican su competencia en virtud de lo dispuesto en el presente' ordenamiento, serán reasignados a las unidades que asuman las correspondientes atribuciones con la intervención de la Dirección Administrativa y de conformidad con las instrucciones que al efecto imparta el Titular; y (sic)
