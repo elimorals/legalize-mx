@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2009-03-20"
+last_updated: "2010-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -731,9 +731,11 @@ XX.- Promover y ser gestor ante las autoridades de la materia para la regulariza
 
 XXI.- Las demás que expresamente le encomienden las leyes, reglamentos o le instruya el Presidente Municipal.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 46.
 
-La Secretaría del Ayuntamiento para el cumplimiento de sus atribuciones, se integrará de la siguiente manera:
+La Secretaría del Ayuntamiento para el cumplimiento de sus Atribuciones, se integrará de la siguiente manera:
 
 I. Subsecretaría del Ayuntamiento;
 
@@ -749,9 +751,13 @@ VI. Dirección de Desarrollo Regional;
 
 VII. Oficialía de Registro Civil 01, con sede en la ciudad de Ensenada;
 
-VIII. Oficialía de Registro Civil 02, con sede en la Delegación de la Colonia Vicente Guerrero; y
+VIII. Oficialía de Registro Civil 02, con sede en la Delegación de la Colonia Vicente Guerrero; y (sic)
 
 IX. Departamento de Atención a la Juventud y Junta de Reclutamiento.
+
+X. Unidad Municipal de Protección Civil.
+
+… (sic)
 
 ###### ARTÍCULO 47.
 
@@ -907,9 +913,11 @@ IX.- Coordinar y tener a su cargo a los Asesores Jurídicos de la Administració
 
 X.- Las demás que señalen expresamente las leyes y reglamentos o le encomiende el Secretario General del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 52.
 
-La Dirección de Alcoholes y Espectáculos Públicos, tendrá las siguientes atribuciones:
+La Dirección de Comercio, Alcoholes y Espectáculos Públicos, tendrá las siguientes atribuciones:
 
 I.- Ejercer las atribuciones ejecutivas en materia de venta y almacenaje de bebidas alcohólicas que las leyes y los reglamentos otorgan a la administración pública municipal;
 
@@ -925,19 +933,17 @@ VII (SIC).- Ejercer las atribuciones ejecutivas en materia de funcionamiento de 
 
 VIII.- Vigilar, inspeccionar y aplicar que se cumplan con las normas en materia de funcionamiento de aparatos electromecánicos, mecánicos, eléctricos y demás similares ofertados al público que sean competencia de la administración pública municipal, aplicando las sanciones previstas de acuerdo al ordenamiento respectivo;
 
-IX.- Las demás que señalen expresamente las leyes y reglamentos o le encomiende el Secretario General del Ayuntamiento.
+IX.- Ejercer las atribuciones ejecutivas en materia establecimientos (sic) comerciales, uso de la vía pública para comercio ambulante y mercado sobre ruedas que las leyes y los reglamentos otorguen a la administración pública municipal;
+
+X.- Integrar los expedientes de solicitantes y de titulares de los permisos de establecimientos comerciales, uso de la vía pública para comercio ambulante y mercado sobre ruedas;
+
+XI.- Vigilar, inspeccionar y aplicar que se cumplan con las normas en materia establecimientos (sic) comerciales, uso de la vía pública para comercio ambulante y mercado sobre ruedas de competencia de la administración pública municipal, aplicando las sanciones previstas;
+
+XII.- Las demás que señalen expresamente las leyes y reglamentos o le encomiende el Secretario General del Ayuntamiento.
 
 ###### ARTÍCULO 53.
 
-La Dirección de Comercio, tendrá las siguientes atribuciones:
-
-I.- Ejercer las atribuciones ejecutivas en materia establecimientos (sic) comerciales, uso de la vía pública para comercio ambulante y mercado sobre ruedas que las leyes y los reglamentos otorguen a la administración pública municipal;
-
-II.- Integrar los expedientes de solicitantes y de titulares de los permisos de establecimientos comerciales, uso de la vía pública para comercio ambulante y el mercado sobre ruedas;
-
-III.- Vigilar, inspeccionar y aplicar que se cumplan con las normas en materia establecimientos (sic) comerciales, uso de la vía pública para comercio ambulante y mercado sobre ruedas de competencia de la administración pública municipal, aplicando las sanciones previstas;
-
-IV.- Las demás que señalen expresamente las leyes y reglamentos o le encomiende el Secretario General del Ayuntamiento.
+(DEROGADO, P.O. 30 DE ABRIL DE 2010)
 
 ###### ARTÍCULO 54.
 
@@ -1016,6 +1022,44 @@ XXII.- Proporcionar copia de la hoja de datos para reposición de cartilla a los
 XXIII.- Dar información a la ciudadanía sobre los trámites para inscripción al Servicio Militar.
 
 XXIV.- Las demás que expresamente le encomienden las leyes, reglamentos o le instruya el Presidente.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2010)</small>
+
+ARTÍCULO 56 BIS.- A la Unidad Municipal de Protección Civil le corresponde:
+
+I.- Coordinar las dependencias y entidades de los tres órdenes de Gobierno en el Municipio de Ensenada, que tengan actividades que se relacionen con la Protección Civil;
+
+II.- Promover en los medios de comunicación social, planes y programas de capacitación, difusión y divulgación a través de publicaciones, grabaciones, videocintas y campañas permanentes sobre temas de Protección Civil, que contribuyan a la formación de una cultura en la materia;
+
+III.- Invitar a la población a participar activamente en acciones de Protección Civil;
+
+IV.- Promover la incorporación de contenidos temáticos de Protección Civil, en los planes de estudio de todos los niveles educativos, públicos y privados;
+
+V.- Promover el desarrollo de planes y programas para la formación de especialistas en la materia y la investigación de las causas y efectos de los desastres, en los planteles de educación superior y en los organismos dedicados a la investigación científica y tecnológica;
+
+VI.- Integrar un catálogo de Recursos Humanos y materiales de las dependencias y entidades de los tres órdenes de Gobierno y del sector social y privado, necesarios de movilizar en caso de desastre;
+
+VII.- Integrar un directorio telefónico de los funcionarios de los tres órdenes de gobierno, sector social y privado, relacionados con la materia de Protección Civil;
+
+VIII.- Promover la actualización de leyes y reglamentos estatales y municipales que garanticen la seguridad de la población, la ecología y sus bienes;
+
+IX.- Establecer vínculos de coordinación y capacitación con agencias gubernamentales y privadas de otros países;
+
+X.- Promover ante autoridades de los tres órdenes de Gobierno, así como del sector privado y social, la adquisición del equipo requerido para el combate de fugas derrames, explosión e incendio de materiales peligrosos;
+
+XI.- Coordinarse de manera especial con el Sector Salud, tanto oficial como privado, para una respuesta eficaz en caso de desastre;
+
+XII.- Formular los programas y subprogramas anuales de Protección Civil, para su aprobación ante el Consejo Municipal;
+
+XIII.- Formular y presentar el presupuesto anual de egresos de la Unidad Municipal de Protección Civil;
+
+XIV.- Tramitar los acuerdos emitidos por el Consejo Municipal;
+
+XV.- Expedir los registros a que se refieren los Artículos 39 y 72 de este Reglamento;
+
+XVI.- Elaborar y mantener actualizado el Plan Municipal de Contingencias y el Atlas Municipal de Riesgos, y
+
+XVII.- Las demás que establezca la Ley y Reglamentos relacionados con Protección Civil.
 
 ###### ARTÍCULO 57.
 
@@ -1289,13 +1333,15 @@ IV.- Realizar los estudios técnicos y los proyectos ejecutivos, programar, vigi
 
 V.- Las demás que determine (sic) las Leyes, Reglamentos o le instruya el Presidente Municipal.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 71.
 
 La Secretaría de Administración Urbana para el cumplimiento de sus atribuciones contará con una coordinación administrativa, una coordinación de planeación, una coordinación de informática y tendrá bajo su cargo las siguientes direcciones:
 
-I.- Catastro;
+I.- Catastro y Control Urbano;
 
-II.- Control Urbano;
+II.- (DEROGADA, P.O. 30 DE ABRIL DE 2010)
 
 III.- Ecología;
 
@@ -1303,17 +1349,27 @@ IV.- Infraestructura, y
 
 V.- Servicios Públicos Municipales.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 72.
 
-La Dirección de Catastro tendrá como función, integrar y administrar el catastro inmobiliario municipal, que se estructura con el conjunto de registros, padrones y documentos que permitan la identificación, localización, descripción, deslinde, cartografía, y valuación de todos los bienes inmuebles ubicados en el territorio municipal; ejerciendo las atribuciones que se confieren al Ayuntamiento en la Ley de Catastro Inmobiliario del Estado de Baja California, así como las que le establece el reglamento municipal de la materia o le instruya el Secretario de Administración Urbana.
+La Dirección de Catastro y Control Urbano tendrá como función, integrar y administrar el catastro inmobiliario municipal, que se estructura con el conjunto de registros, padrones y documentos que permitan la identificación, localización, descripción, deslinde, cartografía, y valuación de todos los bienes inmuebles ubicados en el territorio municipal; conducir los procedimientos y emitir autorización de acciones de urbanización, de acciones para la ejecución de edificaciones, la implementación del régimen de propiedad en condominio, y las que deriven en materia de uso de suelo e imagen urbana, ejerciendo las funciones que en lo indicado se confieren al Ayuntamiento en la Ley de Desarrollo Urbano del Estado de Baja California y las Leyes, Reglamentos y normatividad que de ella emanen, los acuerdos y convenios que al respecto suscriba el Gobierno Municipal, así como las que le instruya el Secretario de Administración Urbana, ejerciendo las atribuciones que se confieren al Ayuntamiento en la Ley de Catastro Inmobiliario del Estado de Baja California, así como las que le establece el reglamento municipal de la materia o le instruya el Secretario de Administración Urbana.
 
-Para el cumplimiento de lo señalado en el párrafo anterior, la Dirección de Catastro tendrá bajo su cargo los siguientes departamentos:
+Para el cumplimiento de lo señalado en el párrafo anterior, la Dirección de Catastro y Control Urbano tendrá bajo su cargo los siguientes departamentos:
 
 I.- Valuación Inmobiliaria;
 
-II.- Registro Inmobiliario; y,
+II.- Registro Inmobiliario;
 
 III.- Cartografía.
+
+IV.- Usos de suelo;
+
+V.- Fraccionamientos;
+
+VI.- Licencias de construcción; e
+
+VII.- Inspecciones y Denuncias.
 
 ###### ARTÍCULO 73.
 
@@ -1517,59 +1573,25 @@ XVI.- Capacitar y coordinar un cuerpo de elementos para la elaboración de perit
 
 #### SECCION SEGUNDA. DE LA DIRECCIÓN DE BOMBEROS Y PROTECCION CIVIL
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 84.
 
-A la Dirección de Bomberos y Protección Civil le corresponde el despacho de los siguientes asuntos:
+A la Dirección de Bomberos le corresponde el despacho de los siguientes asuntos:
 
-I.- Participar en el sistema municipal de protección civil en lo relativo a incendios y desastres urbanos;
+I.- Auxiliar a la población en caso de desastres y combatir los incendios.
 
-II.- Realizar la estadística sobre industrias, riesgos y materiales peligrosos, especialmente en las zonas industriales;
+II.- Atender las solicitudes de la instalación de los dispositivos de seguridad que el inmueble requiera para su construcción y cuando menos 15 días antes de su ocupación, y resolver por escrito en un plazo de 8 días hábiles, contados a partir del día siguiente al de la presentación de la solicitud, las resoluciones surtirán efecto al día siguiente hábil al de la notificación.
 
-III.- Brindar a la población servicios de urgencias médicas y servicios prehospitalarios;
+III.- Revisar las instalaciones y medidas de la seguridad civil y aparatos o dispositivos para la prevención de los incendios a solicitud de los interesados, tratándose de inmuebles privados y de oficio en edificaciones con acceso al público en general.
 
-IV.- Desarrollar programas para instruir a la comunidad en materia de prevención de incendios y protección civil;
+IV.- Revisar periódicamente las instalaciones o edificaciones de Escuelas, Edificios Públicos, Templos, Hospitales, Espectáculos, Teatros, Salones de Baile, Guarderías, Orfanatorios, Asilos, así como otros de asistencia social; Hoteles, Moteles, Restaurantes, Depósitos de materiales de Fácil combustión, inflamables o explosivos.
 
-V.- Organizar el auxilio a la población ante eventualidades que sean un riesgo de siniestro o desastre en el territorio municipal, así como integrar, coordinar y supervisar el sistema municipal para la prevención, auxilio, recuperación y apoyo de la población en situaciones de desastre;
+V.- Elaborar un padrón de este tipo de edificaciones o instalaciones, zonas de riesgo y peligro.
 
-VI.- Identificar y diagnosticar los riesgos de desastres naturales a lo (sic) que está expuesto el territorio del Municipio, y elaborar y mantener actualizado el Atlas Municipal de Riesgos;
+VI.- Expedir los certificados de aprobación de los dispositivos de seguridad y prevención de incendios.
 
-VII.- Elaborar, instrumentar, operar y coordinar el programa municipal de protección civil y los subprogramas de prevención, auxilio y recuperación;
-
-VIII.- Elaborar y presentar por conducto del Secretario de Seguridad Pública al Consejo Municipal de Protección Civil, para su aprobación, el Plan Municipal de Contingencias;
-
-IX.- Instrumentar un sistema de seguimiento y evaluación del programa municipal de protección civil e informar al Consejo Municipal de Protección Civil sobre su funcionamiento y avances;
-
-X.- Establecer y mantener la coordinación con dependencias, instituciones y organismos del sector público y privado involucrados en tareas de protección civil;
-
-XI.- Promover la participación social e integración de grupos voluntarios al sistema municipal de protección civil;
-
-XII.- Establecer un sistema de información que comprenda los directorios de personas e instituciones, así como los inventarios de recursos humanos y materiales disponibles para los casos de emergencia; además de los mapas de riesgos y archivos históricos sobre desastres ocurridos en el Municipio;
-
-XIII.- Establecer un sistema de comunicación con organismos especializados que realicen acciones de monitoreo, para vigilar permanentemente la posible ocurrencia de fenómenos que puedan ser generadores de siniestros o desastres;
-
-XIV.- Apoyar en la coordinación y operación del Centro Municipal de Operaciones con el Sistema Municipal de Protección Civil;
-
-XV.- Establecer mecanismos de comunicación, tanto en situación normal, como en caso de emergencia, con la dependencia federal y estatal, responsables de la materia de protección civil;
-
-XVI.- Promover la realización de cursos, ejercicios y simulacros que permitan aumentar la capacidad de respuesta de los participantes en el Sistema Municipal de Protección Civil;
-
-XVII.- Promover la capacitación de la población en general, en materia de medidas de seguridad civil y prevención de incendios;
-
-XVIII.- Fomentar la cultura de protección civil, a través de la realización de eventos, campañas de difusión y capacitación;
-
-XIX.- Definir políticas, estrategias, lineamientos y procedimientos para establecer el Sistema Municipal de Protección Civil, y encargándose de su operación;
-
-XX.- Vigilar el cumplimiento de la normatividad en relación con la seguridad civil y la prevención de incendios;
-
-XXI.- Implementar programas de inspección y revisión de edificaciones, a fin de verificar que cumplen con las disposiciones relativas a la seguridad civil y la prevención de incendios;
-
-XXII.- Implementar acciones para el control y extinción de incendios, rescate de personas y bienes, así como salvamento a personas en peligro de perder la vida en casos de desastres o siniestros;
-
-XXlIl.- Desarrollar y coordinar la implementación de los planes de contingencia para la atención y control de eventualidades con riesgo de siniestros o desastres;
-
-XXIV.- Coordinar la solución de las emergencias mayores que se presenten en el inicio, aplicando los planes de contingencias;
-
-XXV.- Las demás que expresamente le encomienden las leyes y reglamentos o le instruya el Secretario de Seguridad Pública.
+VII.- Las demás, que este Reglamento, las Leyes Federales, Estatales y la Legislación Municipal, les confieren.
 
 ### CAPITULO SEPTIMO. DE LA SECRETARIA DE DESARROLLO SOCIAL
 
@@ -2008,5 +2030,39 @@ SECRETARIO FEDATARIO DEL XIX AYUNTAMIENTO DE ENSENADA, B.C.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 20 DE MARZO DE 2009.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 30 DE ABRIL DE 2010.
+
+ACUERDO QUE REFORMA LOS ARTICULOS 71, 72, 46 Y 52, ASI COMO LA DEROGACION DEL ARTICULO 53.
+
+###### ARTÍCULO PRIMERO.
+
+· La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los traspasos que por motivo de esta Reforma deban realizarse de una dependencia a otra, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como los traspasos de recursos humanos y de los activos patrimoniales tales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la dependencia haya utilizado para los asuntos a su cargo. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que con motivo de esta Reforma, deban pasar de una Dependencia a otra, seguirán su trámite normal y serán despachados por las autoridades que tomen el control de la dependencia que hubiese adquirido dichas obligaciones o facultades, para lo cual deberá realizarse el correspondiente proceso de entrega recepción a primera hora del día de la entrada en vigor de esta Reforma.
+
+###### ARTÍCULO CUARTO.
+
+El Presidente Municipal, por conducto de la Secretaría de Administración y Finanzas y Sindicatura y con la participación de las Secretarías correspondientes, deberán concluir aquellas adecuaciones presupuestarias y traspasos de personas, recursos materiales y financieros, así como de activos patrimoniales, en un plazo no mayor de seis meses, a partir de la entrada en vigor de la presente Reforma.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones contenidas en otras normas, reglamentos y en general en cualquier disposición, respecto de las Direcciones cuyas funciones se reforman por virtud de esta Reforma, se entenderán referidas a las dependencias que, respectivamente, asuman tales funciones.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE ABRIL DE 2010.
+
+ACUERDO QUE MODIFICA Y REFORMA LOS ARTICULOS 80, 84, 46 Y 56 BIS.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
