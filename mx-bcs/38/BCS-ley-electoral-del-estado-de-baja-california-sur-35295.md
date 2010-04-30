@@ -4,7 +4,7 @@ identifier: "BCS-ley-electoral-del-estado-de-baja-california-sur-35295"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-20"
-last_updated: "2010-03-12"
+last_updated: "2010-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL. 12 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL. 30 DE ABRIL DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de noviembre de 2003.
 
@@ -617,15 +617,9 @@ Los medios de comunicación que realicen contratos publicitarios con los partido
 
 El Instituto informará oportunamente y en condiciones de equidad a todos los partidos políticos, los espacios públicos de que puedan disponer para la fijación de su propaganda electoral.
 
-> <small>(REFORMADO, B.O. 12 DE MARZO DE 2010)</small>
-
 ###### ARTÍCULO 50.
 
-El Consejo General, a efecto de garantizar equidad y transparencia en el acceso a los medios de comunicación, durante la primera quincena del mes en que dé inicio el proceso electoral, instrumentará un programa de monitoreo de los medios de comunicación distintos de radio y televisión, así como de espectaculares, bardas y cualquier otro medio apto para difundir mensajes electorales de estas características, de acuerdo al muestreo que se realice al efecto, de las precampañas y campañas de los partidos políticos o coaliciones participantes en el proceso electoral. El Consejo General establecerá, dentro de los noventa días anteriores al inicio del proceso electoral los lineamientos bajo los cuales funcionará el programa de monitoreo, con la supervisión de la comisión que para tal efecto se integre.
-
-Los trabajos de monitoreo darán inicio a partir de la primera quincena del mes en que dé inicio el proceso electoral y concluirán el día de la jornada electoral. Los resultados serán presentados los días lunes de cada semana ante la Secretaría General, la que dará cuenta al Consejo General en la sesión inmediata, para su conocimiento y amplia difusión.
-
-El monitoreo de los medios distintos a radio y televisión se orientará a verificar la equidad en la distribución de espacios, el respeto a los topes de gastos de precampaña y campaña, y a proporcionar los elementos que permitan analizar la calidad de la información que se genere en éstas.
+(DEROGADO, B.O. 30 DE ABRIL DE 2010)
 
 ### CAPÍTULO IV. DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS
 
@@ -951,9 +945,11 @@ III.- Cuando la coalición tenga por objeto participar en la elección estatal p
 
 IV.- Para la procedencia de listas de candidatos a Diputados al Congreso del Estado por el principio de Representación Proporcional, a que se refiere el artículo 265 de esta Ley, la coalición deberá acreditar que participa cuando menos en ocho de los Distritos electorales uninominales.
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 69.
 
-El Consejo General del Instituto Estatal Electoral, dentro de los ocho días siguientes a la presentación de la solicitud del registro del convenio de coalición, resolverá sobre la procedencia del mismo, e instruirá al Consejero Presidente y al Secretario General la publicación de su resolución en el Boletín Oficial del Gobierno del Estado.
+El Consejo General del Instituto Estatal Electoral, dentro de los cuatro días siguientes a la presentación de la solicitud del registro del convenio de coalición, resolverá sobre la procedencia del mismo, e instruirá al Consejero Presidente y al Secretario General la publicación de su resolución en el Boletín Oficial del Gobierno del Estad.
 
 ###### ARTÍCULO 70.
 
@@ -1281,13 +1277,13 @@ II.- Conminar a abandonar el local; y
 
 III.- Solicitar, de ser necesario, el auxilio de la fuerza pública para restablecer el orden y expulsar a quienes lo hayan alterado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 12 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 96.
 
-El Consejo General del Instituto Estatal Electoral iniciará sus sesiones el día cuatro de enero del año de la elección con el objeto de preparar el proceso electoral, debiendo publicar en el Boletín Oficial del Gobierno del Estado, la forma como quedó integrado y su domicilio legal. A partir de esa fecha hasta la conclusión del proceso electoral, el Consejo General sesionará por lo menos una vez al mes.
+El Consejo General del Instituto Estatal Electoral iniciará sus sesiones el día cinco de enero del año de la elección con el objeto de preparar el proceso electoral, debiendo publicar en el Boletín Oficial del Gobierno del Estado, la forma corno quedó integrado y su domicilio legal. A partir de esa fecha hasta la conclusión del proceso electoral, el Consejo General sesionara por lo menos una vez al mes.
 
 En periodo no electoral el Consejo General se reunirá en sesión ordinaria cada dos meses. El Consejero Presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le sea formulada por la mayoría de los Consejeros Electorales o de la mayoría de los representantes de los Partidos Políticos, conjunta o indistintamente.
 
@@ -2081,11 +2077,13 @@ V.- Los órganos de dirección responsables de su conducción y vigilancia; y
 
 VI.- La fecha de celebración de la asamblea estatal, distrital o municipal o, en su caso, de realización de la jornada comicial interna, la que deberá verificarse a más a tardar el día veintiuno de marzo del año de la elección, de conformidad con lo siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY, B.O. 12 DE MARZO DE 2010.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a).- Las precampañas de los procesos electorales en que se renueven el Titular del Poder Ejecutivo Estatal, los Diputados y Planillas de Ayuntamiento, podrán iniciar a partir del día cinco del mes de enero del año de la elección y concluirán el día tres de marzo del mismo año
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2010)</small>
 
-Las precampañas de los procesos electorales en que se renueven solamente los Diputados y Planillas de Ayuntamientos, podrán iniciar a partir del día veinticinco de enero del año de la elección y concluirán el día veintitrés y (sic) marzo del mismo año.
+a).- Las precampañas de los procesos electorales en que se renueven el Titular del Poder Ejecutivo Estatal, los Diputados y Planillas de Ayuntamiento, iniciarán el día cinco del mes de enero del año de la elección y concluirán el día tres de marzo del mismo año. Con la etapa de las precampañas, inicia formalmente el proceso electoral en términos del artículo 150 de esta Ley.
+
+Las precampañas de los procesos electorales en que se renueven solamente los Diputados y Planillas de Ayuntamientos, iniciarán el día veinticinco de enero del año de la elección y concluirán el día veintitrés de marzo del mismo año. Con la etapa de las precampañas, inicia formalmente el proceso electoral en términos del artículo 150 de esta ley.
 
 b).- Cuando un partido político tenga prevista la celebración de una jornada de consulta directa, ésta se realizará el mismo día para todas las candidaturas.
 
@@ -2163,13 +2161,13 @@ En el caso de que el aspirante o el partido correspondiente no cumpla con las re
 
 ### CAPÍTULO III. DEL FINANCIAMIENTO DE LAS PRECAMPAÑAS ELECTORALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, B.O. 12 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 148.
 
-El Consejo General, dentro de los primeros quince días del mes de octubre del año previo a la elección, fijará el tope de gastos de precampaña por cada elección. La suma total del gasto de los precandidatos de un partido político no podrá ser superior al veinte por ciento del tope de gastos de la campaña inmediata anterior, fijada por el Instituto para cada elección.
+El Consejo General, dentro de los primeros quince días del mes de octubre del año previo a la elección, fijará el tope de gastos de precampaña por cada elección. La suma total del gasto de cada uno de los precandidatos de un partido político no podrá ser superior al veinte por ciento del tope de gastos de la campaña inmediata anterior, fijada por el Instituto para cada elección. La fijación del tope de gastos de precampaña, no forma parte de ninguna de las etapas del proceso electoral, en términos de lo establecido en el artículo 150 de esta ley, por tanto, no serán considerados como parte del proceso electoral.
 
 > <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
 
@@ -2771,9 +2769,11 @@ A la recepción de la documentación y material electoral a que se refieren las 
 
 ### CAPÍTULO I. DE LA INSTALACIÓN Y APERTURA DE CASILLAS ELECTORALES
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 198.
 
-El primer domingo del mes de febrero del año de la elección ordinaria, a las 8:00 horas, los ciudadanos nombrados Presidente, Secretario y Escrutadores Propietarios de la casilla electoral, procederán a su instalación en el lugar señalado, en presencia de los representantes de los partidos políticos o coaliciones y suplentes de los funcionarios de casilla que concurran, elaborando el acta de jornada electoral, llenándose y firmándose los apartados correspondientes a la instalación de la casilla.
+El día de la jornada electoral del año que corresponda a la elección ordinaria, a las 8:00 horas, los ciudadanos nombrados Presidente, Secretario y Escrutadores Propietarios de la casilla electoral, procederán a su instalación en el lugar señalado, en presencia de los representantes de los partidos políticos o coaliciones y suplentes de los funcionarios de casilla que concurran, elaborando el acta de jornada electoral, llenándose y firmándose los apartados correspondientes a la instalación de la casilla.
 
 ###### ARTÍCULO 199.
 
@@ -3807,7 +3807,9 @@ f).- En su caso, las medidas cautelares que se soliciten.
 
 ARTÍCULO 287 TER.- Recibida la denuncia por cualquiera de los órganos del Instituto o cuando estos presenten la denuncia, la remitirán inmediatamente a la Secretaría General del Instituto para que esta la examine junto con las pruebas aportadas y en su caso en un plazo de veinticuatro horas, emita resolución que:
 
-1.- Deseche de plano su admisión, sin prevención alguna, cuando:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE ABRIL DE 2010)</small>
+
+1.- La deseche de plano, sin prevención alguna, cuando:
 
 a).- No reúna los requisitos indicados en el presente artículo;
 
@@ -3967,9 +3969,11 @@ TERCERO.- Toda vez que en el año 2011 por última ocasión las elecciones tendr
 
 En consecuencia, para efectos del proceso electoral relacionado con la jornada electoral del primer domingo de febrero del. año 2011, de manera transitoria a partir del día siguiente al de la publicación del presente decreto y hasta la total conclusión del proceso en cita, las fechas que aplicarán para cada una de las disposiciones legales referidas en el párrafo que antecede, se establecen de la siguiente manera:
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 96.
 
-El Consejo General del Instituto Estatal Electoral iniciará sus sesiones el día primero de agosto del año anterior al de la elección con el objeto de preparar el proceso electoral, debiendo publicar en el Boletín Oficial del Gobierno del Estado, la forma como quedó integrado y su domicilio legal. A partir de esa fecha hasta la conclusión del proceso electoral, el Consejo General sesionara por lo menos una vez al mes.
+El Consejo General del Instituto Estatal Electoral iniciará sus sesiones el día dos de agosto del año anterior al de la elección con el objeto de preparar el proceso electoral, debiendo publicar en el Boletín Oficial del Gobierno del Estado, la forma como quedó integrado y su domicilio legal. A partir de esa fecha hasta la conclusión del proceso electoral, el Consejo General sesionara por lo menos una vez al mes.
 
 .siguiente párrafo igual
 
@@ -4029,13 +4033,17 @@ Los procesos internos de selección de los partidos políticos, podrán iniciar 
 
 VI.- La fecha de celebración de la asamblea estatal, distrital o municipal o, en su caso, de realización de la jornada comicial interna, la que deberá verificarse a más a tardar el día veinte de octubre del año previo al de la elección, de conformidad con lo siguiente:
 
-a).- Las precampañas de los procesos electorales en que se renueven el Titular del Poder Ejecutivo Estatal, los Diputados y Planillas de Ayuntamiento, podrán iniciar a partir del día dos del mes de agosto del año previo a la elección y concluirán el día treinta de septiembre del mismo año.
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2010)</small>
+
+a).- Las precampañas de los procesos electorales en que se renueven el Titular del Poder Ejecutivo Estatal, los Diputados y Planillas de Ayuntamiento, iniciarán el día dos del mes de agosto del año previo a la elección y concluirán el día treinta de septiembre del mismo año. Con la etapa de las precampañas, inicia formalmente el proceso electoral en términos del artículo 150 de esta Ley.
 
 .Inciso b), párrafos del primero al sexto Iguales.
 
-###### Artículo 148.
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2010)</small>
 
-El Consejo General, dentro de los primeros quince días del mes de mayo del año previo a la elección, fijará el tope de gastos de precampaña por cada elección. La suma total del gasto de los precandidatos de un partido político no podrá ser superior al veinte por ciento del tope de gastos de la campaña inmediata' anterior, fijada por el Instituto para cada elección.
+###### ARTÍCULO 148.
+
+El Consejo General, dentro de los primeros quince días del mes de mayo del año previo a la elección, fijará el tope de gastos de precampaña por cada elección. La suma total del gasto de cada uno de los precandidatos de un partido político no podrá ser superior al veinte por ciento del tope de gastos de la campaña inmediata anterior, fijada por el Instituto para cada elección. La fijación del tope de gastos de precampaña, no forma parte de ninguna de las etapas del proceso electoral, en términos de lo establecido en el artículo 150 de esta ley, por tanto, no serán considerados como parte del proceso electoral.
 
 ###### ARTÍCULO 154.
 
@@ -4055,4 +4063,8 @@ El Instituto Estatal Electoral, publicará a más tardar el día 20 de agosto de
 
 I.- En el año de la elección en que se renueven el Titular del Poder Ejecutivo Estatal, los integrantes del Congreso del Estado e integrantes de los Ayuntamientos, todos los candidatos podrán ser registrados en el periodo comprendido del día diez al día quince de noviembre inclusive, del año anterior al de la elección; y
 
-II.- En el año de la elección en que solamente se renueven los integrantes del Congreso del Estado e integrantes de los Ayuntamientos, los candidatos podrán ser registrados en el periodo comprendido del día seis al día diez de diciembre inclusive, del año anterior al de la elección.
+II.- (DEROGADA, B.O. 30 DE ABRIL DE 2010)
+
+B.O. 30 DE ABRIL DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, con excepción de las reformas a los artículos 96, 142 Y 148 previstas en el ARTÍCULO PRIMERO de este mismo Decreto, mismos que entrarán en vigor el 30 de junio del año 2014.
