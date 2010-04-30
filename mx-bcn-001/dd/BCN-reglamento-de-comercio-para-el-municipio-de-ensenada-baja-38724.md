@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-comercio-para-el-municipio-de-ensenada-baja-38724
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-19"
-last_updated: "2010-01-15"
+last_updated: "2010-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de marzo de 2004.
 
@@ -83,7 +83,9 @@ d).- Tesorero Municipal;
 
 e).- Delegado Municipal de la zona de que se trate;
 
-f).- Director de Comercio Municipal;
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE ABRIL DE 2010)</small>
+
+f).- Director de Comercio, Alcoholes y Espectáculos Públicos;
 
 g).- Director de Seguridad Pública Municipal;
 
@@ -708,3 +710,9 @@ P.O. 15 DE ENERO DE 2010.
 PRIMERO. La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales de carácter municipal que se opongan a la presente disposición.
+
+P.O. 30 DE ABRIL DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
