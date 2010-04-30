@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2008-07-04"
+last_updated: "2010-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -3491,9 +3491,9 @@ ART. 485.- Para la ejecución del desahucio, se tiene como domicilio legal del e
 
 ART. 486.- Procede la vía de apremio a instancia de parte, siempre que se trate de la ejecución de una sentencia o de un convenio celebrado en el juicio, ya sea por las partes o por terceros que hayan venido al juicio por cualquier motivo que sea.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
-Esta disposición será aplicable en la ejecución de convenios celebrados ante la Procuraduría Federal del Consumidor y tratándose de laudos emitidos por dicha Procuraduría.
+Esta disposición será aplicable en la ejecución de convenios celebrados ante el Centro Estatal de Justicia Alternativa, la Procuraduría Federal del Consumidor y tratándose de laudos emitidos por dicha Procuraduría.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3511,9 +3511,9 @@ ART. 488.- Cuando las transacciones o los convenios se celebren en segunda insta
 
 ART. 489.- El tribunal que haya dictado en segunda instancia sentencia ejecutoria, dentro de los tres días siguientes a la notificación devolverá los autos al inferior, acompañándole la ejecutoria y constancia de las notificaciones.
 
-(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1988) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
-ART. 490.- La ejecución de las sentencias arbitrales, de los convenios celebrados ante la Procuraduría Federal del Consumidor y de los laudos dictados por ésta, se hará por el Juez competente, designado por las partes o en su defecto por el Juez del lugar del juicio y si hubiere varios, por el Juez que corresponda en turno.
+ART. 490.- La ejecución de las sentencias arbitrales, de los convenios celebrados ante la Procuraduría Federal del Consumidor y de los laudos dictados por ésta, así como los convenios ante el Centro Estatal de Justicia Alternativa, se hará por el Juez competente, designado por las partes o en su defecto por el Juez del lugar del juicio y si hubiere varios, por el Juez que corresponda en turno.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6872,3 +6872,7 @@ P.O. 4 DE JULIO DE 2008.
 PRIMERO.- Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- En todos los artículos del presente ordenamiento en que se haga alusión a la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia en el Estado, se entenderá referida a la Procuraduría para la Defensa de los menores y la Familia en el Estado.
+
+P.O. 30 DE ABRIL DE 2010.
+
+Único.- Las presentes reformas entrarán en vigor al día siguiente de la publicación en el Periódico oficial, del Estado.
