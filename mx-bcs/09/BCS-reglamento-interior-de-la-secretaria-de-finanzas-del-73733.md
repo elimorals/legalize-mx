@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-finanzas-del-73733"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-05"
-last_updated: "2010-03-05"
+last_updated: "2010-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE ABRIL DE 2010.
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 5 de marzo de 2010.
 
@@ -719,9 +719,11 @@ Las Subrecaudaciones ejercerán las atribuciones contenidas en el artículo ante
 
 ### CAPÍTULO VIII. DE LA DIRECCIÓN JURÍDICA
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE ABRIL DE 2010)</small>
+
 ###### ARTÍCULO 19.
 
-La Dirección Jurídica estará facultada, dentro de la circunscripción territorial del Estado, para ejercer las atribuciones que derivan de las disposiciones legales locales y, además, para efectos federales, lo estará conforme a lo expuesto en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, celebrado entre el Gobierno Federal y el Gobierno del Estado, para:
+La Dirección Jurídica estará facultada, dentro de la circunscripción territorial del Estado, para ejercer las atribuciones que derivan de las disposiciones legales locales; así como las acciones que sean necesarias en materia federal para salvaguardar los intereses de la hacienda pública del Estado; incluyendo las relativas al Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, celebrado entre el Gobierno Federal y el Gobierno del Estado, para:
 
 I. Participar en la definición de la política tributaria del Gobierno del Estado;
 
@@ -1190,3 +1192,9 @@ T.C.C. LUIS ARMANDO DÍAZ
 EL SECRETARIO DE FINANZAS
 
 LIC. JOSÉ ANTONIO RAMÍREZ GÓMEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 30 DE ABRIL DE 2010.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
