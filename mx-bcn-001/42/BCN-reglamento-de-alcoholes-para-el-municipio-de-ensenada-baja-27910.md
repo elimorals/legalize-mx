@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-alcoholes-para-el-municipio-de-ensenada-baja-2791
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-10"
-last_updated: "2010-01-15"
+last_updated: "2010-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de enero de 2003.
 
@@ -167,7 +167,9 @@ c).- Secretario Fedatario del H. Ayuntamiento.
 
 d).- Tesorero Municipal.
 
-e).- Director de Alcoholes y Espectáculos Públicos.
+> <small>(ADICIONADO [N. DE E. ADICIONADO], P.O. 30 DE ABRIL DE 2010)</small>
+
+e).- Director de Comercio, Alcoholes y Espectáculos Públicos.
 
 f).- Recaudador de Rentas Municipales.
 
@@ -193,7 +195,7 @@ V.- Las demás facultades que le confiere éste ordenamiento y otras leyes.
 
 Son atribuciones del Presidente Municipal:
 
-I.- Canalizar las solicitudes que se reciban para la expedición de permisos permanentes para la venta, almacenaje para su venta, y venta para consumo de bebidas con graduación alcohólica al Ayuntamiento para el otorgamiento o negativa del mismo.
+I.- Canalizar las solicitudes que se reciban para la expedición de permisos permanentes para la venta, almacenaje para su venta y venta para consumo de bebidas con graduación alcohólica al Ayuntamiento para el otorgamiento o negativa del mismo.
 
 II.- Rechazar el trámite de la solicitud de permiso cuando no se cumpla previamente con los requisitos que para tal efecto señala este reglamento.
 
@@ -277,7 +279,7 @@ II.- Levantar las actas de inspección o infracciones por conducto de los inspec
 
 III.- Asignar un número de folio a los expedientes que se integran con las solicitudes y la información requerida para el trámite de los permisos o licencias que marca este ordenamiento.
 
-IV.- Ordenar visitas de inspección a los establecimientos a que se confiere (sic) este ordenamiento.
+IV.- Ordenar visitas de inspección a los establecimientos a que se confiere este ordenamiento.
 
 V.- Realizar la Inspección del establecimiento para verificar que se cumplan los requisitos de este ordenamiento, en relación con cada solicitud de permiso, y en lo concerniente a cambios de los permisos ya autorizados.
 
@@ -1342,3 +1344,9 @@ P.O. 15 DE ENERO DE 2010.
 PRIMERO. La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales de carácter municipal que se opongan a la presente disposición.
+
+P.O. 30 DE ABRIL DE 2010.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
