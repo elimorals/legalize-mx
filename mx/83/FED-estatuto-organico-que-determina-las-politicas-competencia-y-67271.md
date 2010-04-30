@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-que-determina-las-politicas-competencia-y-672
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-03-10"
-last_updated: "2009-03-10"
+last_updated: "2010-04-30"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67271&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-02-19"
 
 ACUERDO DEL CONTRALOR GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE EXPIDE EL ESTATUTO ORGANICO QUE DETERMINA LAS POLITICAS, COMPETENCIA Y FUNCIONAMIENTO, PARA EL EJERCICIO DE LAS ATRIBUCIONES DE LA CONTRALORIA GENERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO 1/2010 DEL CONTRALOR GENERAL DEL INSTITUTO FEDERAL ELECTORAL, POR EL QUE SE EXPIDE EL ESTATUTO ORGANICO QUE REGULA SU AUTONOMIA TECNICA Y DE GESTION CONSTITUCIONAL, PUBLICADO EN EL D.O.F. DE 30 DE ABRIL DE 2010, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: SIN EFECTOS.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 10 de marzo de 2009.
 
@@ -904,3 +906,21 @@ Séptimo.- Los casos o supuestos no previstos en el presente Acuerdo, serán rev
 Octavo.- Queda sin efecto el contenido de las disposiciones normativas internas que se contrapongan a lo dispuesto en el presente Acuerdo.
 
 México, D.F., a 19 de febrero de 2009.- El Contralor General, Gregorio Guerrero Pozas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 30 DE ABRIL DE 2010.
+
+Primero.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Publíquese en la Gaceta del Instituto Federal Electoral.
+
+Segundo.- Conforme a lo dispuesto por el artículo 76, inciso kk), del Reglamento Interior del Instituto Federal Electoral, infórmese al Consejo General del propio Instituto, la expedición del presente Acuerdo, y por su trascendencia administrativa, también a la Junta General Ejecutiva.
+
+Tercero.- Se deja sin efectos el Acuerdo por el que se expide el Estatuto Orgánico por el que se determina las políticas, competencia y funcionamiento para el ejercicio de las atribuciones de la Contraloría General, publicado en el Diario Oficial de la Federación el 10 de marzo del 2009.
+
+Cuarto.- En términos del artículo transitorio primero del Acuerdo del Consejo General por el que se aprueban las modificaciones a la estructura orgánica y recursos de la Contraloría General, de 16 de diciembre de 2009, una vez aprobado el presente acuerdo, y por derivar del actual Estatuto Orgánico, actualícese la normativa interna de organización y funcionamiento de la Contraloría General e infórmese sobre el particular al Consejo General del Instituto Federal Electoral. El titular de la Contraloría General expedirá los nombramientos que corresponda.
+
+Quinto.- En caso de que el titular de la Contraloría General, someta a la consideración del Consejo General del Instituto Federal Electoral, algún cambio de denominación de alguna subcontraloría o dirección de área, se tendrá por actualizado el presente acuerdo, sin necesidad de modificación expresa, a partir de la publicación en el Diario Oficial de la Federación y Gaceta del Instituto Federal Electoral, del referido acuerdo.
+
+Sexto.- Los casos o supuestos no previstos en el presente Acuerdo, serán revisados y atendidos por el Comité de Dirección y resueltos por el Contralor General.
+
+Séptimo.- Queda sin efecto el contenido de las disposiciones normativas internas, y de organización y funcionamiento que se contrapongan a lo dispuesto en el presente Acuerdo.
