@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-acceso-a-la-informacion-publica-del-55257"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-13"
-last_updated: "2007-04-13"
+last_updated: "2010-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL ACCESO A LA INFORMACION PUBLICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de abril de 2007.
 
@@ -158,17 +158,17 @@ XI. Las demás que le confiera la Ley, este ordenamiento, y otras disposiciones 
 
 ### Capítulo II. Del Comité
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+
 ###### Artículo 7.
 
 El Comité de Acceso a la Información es la instancia ejecutiva encargada de coordinar y verificar las acciones tendentes a dar publicidad a la información por parte de los órganos jurisdiccionales y unidades administrativas, conforme a las atribuciones que este instrumento le confiere. El Comité estará integrado por:
 
 El Presidente de la Comisión, quien fungirá como Presidente del Comité,
 
-El Secretario de la Comisión,
+Un Magistrado del Área Civil, designado por el Pleno del Tribunal Superior de Justicia,
 
-El Vocal de la Comisión,
-
-Un Magistrado designado por el Pleno del Tribunal Superior de Justicia,
+Un Magistrado del Área Penal, designado por el Pleno del Tribunal Superior de Justicia,
 
 El Titular de la Unidad de Transparencia, quien fungirá como Secretario Técnico,
 
@@ -180,9 +180,9 @@ El Comité tendrá las siguientes funciones:
 
 I. Coordinar las acciones necesarias para proporcionar la información establecida en la Ley y este reglamento;
 
-II: Coordinar y verificar que los titulares de los órganos jurisdiccionales y unidades administrativas, actualicen la información generada en el ámbito de sus competencias;
+II. Coordinar y verificar que los titulares de los órganos jurisdiccionales y unidades administrativas, actualicen la información generada en el ámbito de sus competencias;
 
-III: Someter a la consideración de la Comisión, los lineamientos para los procedimientos y trámites que aseguren la eficacia en la gestión de las solicitudes de acceso a la información;
+III. Someter a la consideración de la Comisión, los lineamientos para los procedimientos y trámites que aseguren la eficacia en la gestión de las solicitudes de acceso a la información;
 
 IV. Aprobar, modificar o revocar la clasificación de la información realizada por los órganos jurisdiccionales y las unidades administrativas;
 
@@ -194,7 +194,9 @@ VII. Resolver los recursos de inconformidad que se presenten en términos del T�
 
 VIII. Las demás que en el ámbito de su competencia le confiera la Ley, este ordenamiento y demás disposiciones aplicables.
 
-El Comité sesionará cada mes en forma ordinaria y en forma extraordinaria, cuando sea necesario, a petición de cualquiera de sus integrantes. La toma de decisiones se hará por mayoría de votos y bastará para sesionar la presencia de cuatro de sus miembros. En caso de empate, su Presidente tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+
+El Comité sesionará cada mes en forma ordinaria y en forma extraordinaria, cuando sea necesario, a petición de cualquiera de sus integrantes. La toma de decisiones se hará por mayoría de votos y bastará para sesionar la presencia de tres de sus miembros. En caso de empate, cuando el Comité sesione con cuatro integrantes, su Presidente tendrá voto de calidad.
 
 El Secretario del Comité, notificará el lugar, día y hora a los miembros del Comité, con el orden del día y anexos que sean materia de análisis, cuando menos con tres días hábiles de anticipación a la fecha de cada sesión ordinaria.
 
@@ -649,3 +651,11 @@ LIC. ROBERTO GALLEGOS TORRES
 CONSEJERO
 
 LIC. ADRIÁN HUMBERTO MURILLO GONZÁLEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE ABRIL DE 2010.
+
+PRIMERO.- El Presente Acuerdo General, deberá publicarse en el Boletín Judicial y en el Periódico Oficial del Estado, así como en medios electrónicos de consulta pública en términos de lo previsto en la fracción I, del artículo 6° de la Ley de Acceso a la Información Pública para el Estado de Baja California.
+
+SEGUNDO.- Las presentes reformas al Reglamento, entrarán en vigor al día siguiente de la publicación ordenada en el artículo anterior.
