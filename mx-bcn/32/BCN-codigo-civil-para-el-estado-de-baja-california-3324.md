@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2009-08-14"
+last_updated: "2010-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1869,9 +1869,7 @@ VII.- Dictar cualquier medida de protección para garantizar la integridad y est
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-###### ARTICULO 279 Bis.
-
-En la demanda de divorcio los cónyuges podrán demandar del otro, una indemnización de hasta el 50% del valor de los bienes que hubiere adquirido, durante el matrimonio siempre que se concurran las condiciones siguientes:
+ARTICULO 279 BIS.- En la demanda de divorcio los cónyuges podrán demandar del otro, una indemnización de hasta el 50% del valor de los bienes que hubiere adquirido, durante el matrimonio siempre que se concurran las condiciones siguientes:
 
 I. Hubieran estado casados bajo el régimen de separación de bienes;
 
@@ -2997,23 +2995,21 @@ El objeto de la tutela es la guarda de la persona y bienes de los que no estando
 
 En la tutela se cuidará preferentemente de las persona menores de dieciocho años de edad y personas que no tengan capacidad para comprender el significado del hecho. Su ejercicio queda sujeto en cuanto a la guarda y educación de las personas menores de dieciocho años de edad, a las modalidades de que habla la parte final del artículo 410.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 447.
 
-Las personas menores de dieciocho años de edad no tienen capacidad natural y legal para comprender el significado del hecho.
+Las personas que no tienen capacidad para comprender el significado del hecho por causa natural y legal o solamente para gobernarse por sí mismos son:
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-I. Las personas menores de dieciocho años de edad;
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+I.- Las personas menores de dieciocho años de edad;
 
 II.- Las personas mayores de dieciocho años de edad privados de inteligencia por enfermedad o trastorno mental, o cualquier causa que la provoque, aun cuando tengan intervalos lúcidos;
 
 III.- Los sordomudos que no saben leer ni escribir;
 
-IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de drogas enervantes.
+IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de drogas enervantes;
+
+V.- Las personas mayores de dieciocho años de edad que por enfermedad o cualquier causa que lo provoque sean declarados incapaces o no puedan valerse por sí mismas.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -3067,11 +3063,11 @@ No pueden ser nombrados tutores o curadores las personas que desempeñen cargos 
 
 Cuando fallezca una persona que ejerza la patria potestad sobre una persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia de lo Familiar que conozca el caso, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 458.
 
-La tutela es testamentaria, legítima, pública o dativa.
+La tutela es testamentaria, legítima, pública, dativa o autodesignada.
 
 ###### ARTICULO 459.
 
@@ -3237,11 +3233,11 @@ Cuando haya dos o más hijos, será preferido el que viva en compañía del padr
 
 Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quien de los dos ejercerá el cargo.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 487.
 
-A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores debe desempeñar la tutela, serán llamados a ella sucesivamente: los abuelos, los hermanos de la persona que no tiene capacidad para comprender el significado del hecho y los demás colaterales a que se refiere la fracción II del artículo 480; observándose en su caso lo que dispone el artículo 481.
+A falta de tutor testamentario, tutor autodesignado o de persona que con arreglo a los artículos anteriores debe desempeñar la tutela, serán llamados a ella sucesivamente: los abuelos, los hermanos de la persona que no tiene capacidad para comprender el significado del hecho y los demás colaterales a que se refiere la fracción II del artículo 480; observándose en su caso lo que dispone el artículo 481.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -3249,9 +3245,25 @@ A falta de tutor testamentario y de persona que con arreglo a los artículos ant
 
 El tutor de la persona que no tiene capacidad para comprender el significado del hecho que tenga hijos menores de dieciocho años de edad, bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de áquel derecho
 
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2010)</small>
+
+ARTICULO 488 BIS.- El mayor de edad podrá designar su tutor, para el caso de que sea declarado incapaz, nombramiento que excluye del ejercicio de la tutela a las personas que de otra manera pudiese corresponderles la tutela conforme a este código.
+
+La persona designada podrá optar por no aceptar el cargo, pero si lo acepta deberá ejércelo por un lapso mínimo de un año, transcurrido el cual podrá solicitar al juez le releve de su cargo.
+
+Si se nombran varios tutores, desempeñaran su cargo en el orden de su designación, relevándose en el cargo, por causa de muerte, excusa, remoción, incapacidad o no aceptación.
+
+A falta de tutor autodesignado, queda el incapaz sujeto a las reglas generales de la tutela.
+
+La designación del tutor se hará en escritura pública ante notario y es revocable con esa misma formalidad.
+
+Cualquier persona, con interés legítimo, podrá solicitar al Juez la remoción del cargo del tutor, cuando éste no desempeñe adecuadamente su cargo. El Estado, en los casos de tutela autodesignada, sujetará su actuación a través de sus órganos competentes en los términos previstos en la ley.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2008)</small>
 
 ### CAPITULO VI. DE LA TUTELA DATIVA
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 489.
 
@@ -3283,7 +3295,9 @@ La tutela dativa tiene lugar:
 
 I.- Cuando no hay tutor testamentario ni persona a quien conforme a la Ley corresponda la tutela legítima;
 
-II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo, y no hay ningún pariente de los designados en el artículo 480.
+II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo, y no hay ningún pariente de los designados en el artículo 480;
+
+III.- Cuando no hubiere tutor autodesignado.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -15978,3 +15992,7 @@ Se derogan en lo conducente, todas las disposiciones normativas que se opongan a
 P.O. 14 DE AGOSTO DE 2009.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE ABRIL DE 2010.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
