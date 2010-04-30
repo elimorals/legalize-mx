@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-urbanizacion-del-estado-de-baja-california-3356"
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-20"
-last_updated: "2009-12-31"
+last_updated: "2010-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE URBANIZACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el jueves 20 de agosto de 1981.
 
@@ -115,15 +115,15 @@ IV.- El propietario del terreno, cuando el de la construcción sea distinto.
 
 Si el predio estuviere constituido bajo el régimen de propiedad en condominio, ya sea dividido en pisos, departamentos, locales o viviendas, el importe de las contribuciones de mejoras que corresponda a cada propietario, se determinará dividiendo la cantidad que deba pagarse por todo el predio entre la superficie cubierta de construcción que resulte de sumar la de todos los pisos, exceptuando la que se destine a servicios de uso común, y el cociente así obtenido se multiplicará por el número de metros que corresponda al piso, departamento, local o vivienda de que se trate; una vez realizada esta operación, se deberá sujetar a las normas para la individualización tanto del sistema de plusvalía como para el de cooperación, o de ambos.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 9o.
 
-Tratándose de extrema pobreza, por incapacidad física, temporal o permanente de los beneficiados por obras de urbanización, determinada mediante verificación y estudio socioeconómico que se haga al respecto, el Ejecutivo del Estado o los Ayuntamientos, en sus respectivos ámbitos de competencia y en relación con obras llevadas a cabo por los Consejos de Urbanización Municipal, o por la Junta de Urbanización del Estado, podrán congelar el cobro de los adeudos, por las contribuciones de mejoras en la medida que resulte necesario, mientras no cambie el mencionado estado de pobreza por circunstancias familiares o por cualquier otra causa. El cobro se hará efectivo cuando se transmita la propiedad a tercero, ya sea por herencia o por cualquier otro concepto.
+Tratándose de extrema pobreza, por incapacidad física, temporal o permanente de los beneficiados por obras de urbanización, determinada mediante verificación y estudio socioeconómico que se haga al respecto, el Ejecutivo del Estado o el Presidente Municipal, en sus respectivos ámbitos de competencia y en relación con obras llevadas a cabo por los organismos de urbanización señalados en el artículo 16 de esta Ley, podrán congelar el cobro de los adeudos por contribución de mejoras, en la medida que resulte necesario, mientras no cambie el mencionado estado de pobreza por circunstancias familiares o por cualquier otra causa. El cobro se hará efectivo cuando se transmita la propiedad a tercero, ya sea por herencia o por cualquier otro concepto.
 
-El Ejecutivo del Estado, en los términos del párrafo anterior, cuando lo estime procedente, podrá eximir mediante subsidios el pago de las contribuciones de mejoras por las obras realizadas bajo los sistemas de plusvalía o de cooperación, a los Organismos Descentralizados o a las Instituciones de Asistencia Pública o Privada, así como a las que realicen actividades educativas o culturales, o tiendan a la protección de los menores o de las clases económicamente débiles.
+El Ejecutivo del Estado, en los términos del párrafo anterior, podrá otorgar subsidios para el pago de las contribuciones de mejoras a los Organismos Descentralizados o a las Instituciones de Asistencia Pública o Privada, así como a las que realicen actividades educativas o culturales o tiendan a la protección de los menores o de las clases económicamente débiles.
 
-Tratándose de pensionados, jubilados, indigentes mayores de sesenta años y discapacitados que acrediten tal calidad y reúnan los requisitos establecidos en el Título Noveno de la Ley de Hacienda del Estado de Baja California, quedarán exentos como sigue: los pensionados, jubilados, y discapacitados que realicen alguna actividad económicamente productiva y que obtengan ingresos de hasta cinco veces el salario mínimo general, en el cincuenta por ciento de las contribuciones de mejoras; y los indigentes mayores de sesenta años o discapacitados que no desempeñen actividad productiva, el cien por ciento en los conceptos señalados, otorgándose este beneficio sólo por un inmueble de su propiedad, en la misma forma los Ayuntamientos podrán eximir mediante subsidio del pago de las contribuciones de mejoras por concepto de las obras realizadas bajo el sistema de cooperación, a los Organismos, Instituciones de Asistencia y personas físicas señaladas anteriormente.
+Tratándose de pensionados, jubilados, indigentes mayores de sesenta años y discapacitados que acrediten tal calidad y reúnan los requisitos establecidos en el Título noveno de la Ley de Hacienda del Estado de Baja California, quedarán exentos como sigue: los pensionados, jubilados, y discapacitados que realicen alguna actividad económicamente productiva y que obtengan ingresos de hasta cinco veces el salario mínimo general, en el cincuenta por ciento de la contribución de mejoras determinada a su cargo; y los indigentes mayores de sesenta años o discapacitados que no desempeñen actividad productiva, el cien por ciento en los conceptos señalados, otorgándose este beneficio sólo por un inmueble de su propiedad. En la misma forma Presidente Municipal podrá otorgar subsidio para el pago de las contribuciones de mejoras por concepto de las obras realizadas bajo el sistema de cooperación, a los Organismos, Instituciones de Asistencia y personas físicas señaladas anteriormente.
 
 ###### ARTICULO 10.
 
@@ -183,11 +183,11 @@ Los Notarios y demás funcionarios administrativos y judiciales no autorizarán 
 
 Los funcionarios mencionados que no den cumplimiento a lo anterior, serán responsables de los daños y perjuicios que con su omisión causen.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 14.
 
-En lo relativo a los casos de subdivisión, fusión, relotificación y fraccionamiento de los predios beneficiados por contribuciones de mejoras, el propietario deberá acudir ante el Consejo de Urbanización Municipal, para cumplir con los requisitos establecidos por la Ley de la materia.
+En lo relativo a los casos de, subdivisión, fusión, relotificación y fraccionamiento de los predios beneficiados por contribuciones de mejoras, el interesado deberá obtener para la autorización de su trámite, la constancia de que el inmueble de que se trata no está afecto al pago de las contribuciones de mejoras, o que está al corriente en los pagos, expedida por los organismos de urbanización.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
@@ -867,71 +867,69 @@ La liberación del derecho de vía mediante convenio pactado con el propietario 
 
 #### SECCION TERCERA. INDIVIDUALIZACION DE LA CONTRIBUCION DE MEJORA POR EL SISTEMA DE PLUSVALIA
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 67.
 
-Para lograr una derrama proporcional y equitativa de las contribuciones de mejora que se generen por obras ejecutadas bajo el sistema de plusvalía sobre los inmuebles ubicados en la zona general de beneficio, se deberá considerar:
+Para lograr una derrama proporcional y equitativa de la contribución de mejoras que se genere por obras ejecutadas bajo el sistema de plusvalía sobre los inmuebles ubicados en la zona general de beneficio, se deberá considerar:
 
-I.- La superficie beneficiada de cada predio, por unidad de metro cuadrado;
+l.- La superficie beneficiada de cada predio por unidad de metro cuadrado;
 
 II.- Las secciones en que se divida la zona general de beneficio, según los distintos grados del mismo;
 
 III.- La distancia del predio al paramento de la obra, considerando que el beneficio será tanto más elevado, en la medida en que sea menor la distancia del predio de que se trate, al paramento de la obra;
 
-IV.- Las características técnicas y costo de la obra pública;
+IV.- La (sic) características técnicas y costo de la obra pública; y,
 
-V.- Los deméritos que afecten a los predios ubicados en la zona general de beneficio.
+V.- Los deméritos que afecten los predios ubicados en la zona general de beneficio, en los términos del artículo 71 de esta Ley.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 68.
 
-La zona general de beneficio de las obras realizadas bajo el sistema de plusvalía tendrán una profundidad y se seccionarán en los términos siguientes:
+La zona general de beneficio de las obras realizadas bajo el sistema de plusvalía tendrá una profundidad y se seccionará en los términos siguientes:
 
-I.- Para las obras indicadas en las fracciones I, II y III del artículo 3:
+l.- Para las obras indicadas en las fracciones I y II del artículo 3, que pueden ser:
 
-a).- Vialidades Urbanas:
+a).- Vialidades urbanas:
 
-1.- Libramientos con flujo libre denominados también vialidades primarias, tendrán una zona general de beneficio de mil quinientos metros lineales de profundidad, contados a partir del paramento de la misma, la cual se dividirá en quince secciones;
+1.- Libramientos con flujo libre denominados también vialidades primarias, tendrán una zona general de beneficio de mil metros lineales de profundidad, contados a partir del paramento de la misma, la cual se dividirá en quince secciones;
 
-2.- Arterias principales y arterias con flujo ininterrumpido también denominadas vías principales, excepto en semáforos y pasos peatonales, tendrán una zona general de beneficio de doscientos metros lineales de profundidad, contados a partir del paramento de la misma, la cual se dividirá en quince secciones;
+2.- Arterias principales y arterias con flujo ininterrumpido, sin perjuicio de los semáforos y pasos peatonales, también denominadas vías principales, tendrán una zona general de beneficio de doscientos metros lineales de profundidad, contados a partir del paramento de la misma, la cual se dividirá en quince secciones;
 
 3.- Vialidades secundarias con flujo interrumpido también denominadas colectoras o distribuidoras, tendrán una zona general de beneficio de ciento cincuenta metros lineales de profundidad, contados a partir del paramento de la misma, la cual se dividirá en quince secciones;
 
 4.- Vialidades terciarias o locales, tendrán una zona general de beneficio de cincuenta metros lineales de profundidad, contados a partir del paramento de la misma, la cual se dividirá en cuatro secciones.
 
-b).- Vialidades Regionales: Las que se ejecuten y que puedan ser utilizadas por los inmuebles que estén ubicados en su zona general de beneficio, se podrán derramar siempre y cuando se lleve a cabo un programa de desarrollo urbano de la zona y tenga los accesos controlados necesarios para que hagan posible su uso y disfrute. Estas obras tendrán una zona general de beneficio de mil quinientos metros lineales de profundidad contados a partir del paramento de la misma, la cual se dividirá en quince secciones;
+b).- Vialidades Regionales: Las que se ejecuten total o parcialmente fuera de los limites de un centro de población y que puedan ser utilizadas por los inmuebles que estén ubicados en su zona general de beneficio, se podrán derramar siempre y cuando se lleve a cabo un programa de desarrollo urbano de la zona y tenga los accesos controlados necesarios para que hagan posible su uso y disfrute. Estas obras tendrán una zona general de beneficio de mil metros lineales de profundidad contados a partir del paramento de la misma, la cual se dividirá en quince secciones;
 
-II.- Las obras contenidas en las fracciones IV y VI del artículo 3, solo se podrán derramar a los predios que tengan acceso directo a la obra y colindando con las mismas, teniendo una zona general de beneficio de cincuenta metros lineales de profundidad contados a partir del paramento de la misma, la cual se dividirá en una sola sección;
+II.- La zona general de beneficio de las obras contenidas en las fracciones V y VII del artículo 3, corresponderá solo a predios que colinden con el paramento de la vialidad que aloje las obras.
 
-III.- La zona general de beneficio de las obras contenidas en las fracciones V y VII del artículo 3, será el área de aportación o de cobertura con que se proyecten;
+III.- Las obras contenidas en la fracción VIII del artículo 3 tendrán secciones de beneficio radial, cuyo centro será el mismo centro geométrico físico de la obra, para determinar la zona general de beneficio y sus secciones, será necesario realizar estudios para definir la influencia sobre su rentabilidad y valor comercial;
 
-IV.- Las obras contenidas en la fracción VIII del artículo 3 tendrán secciones de beneficio radial, cuyo centro será el mismo centro geométrico físico de la obra, para determinar la zona general de beneficio y sus secciones, será necesario realizar estudios para definir la influencia sobre su rentabilidad y valor comercial;
+IV.- Las obras de reposición y mejoramiento de las vías públicas existentes, cuando haya concluido su vida útil en los términos del artículo 10 de esta Ley, tendrán las secciones que corresponda a la clasificación comprendida en las fracciones que anteceden. Los trabajos de mantenimiento en ningún caso podrán ser considerados como materia de esta Ley.
 
-V.- Las obras de reposición y mejoramiento de las vías públicas existentes, cuando haya concluido su vida útil en los términos del artículo 10 de esta Ley, tendrán las secciones que corresponda a la clasificación comprendida en las fracciones que anteceden. Los trabajos de mantenimiento en ningún caso podrán ser considerados como materia de esta Ley.
-
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 69.
 
 La cuota para cada sección de beneficio se calculará de la siguiente manera:
 
-I.- La primera sección de beneficio será la colindante con el paramento de la obra y la decimaquinta será la más alejada;
+l.- La primera sección de beneficio será la colindante con el paramento de la obra y la decimaquinta será la más alejada.
 
-II.- El importe derramable de la obra a que se refiere la fracción III del artículo 58, se deberá dividir entre una constante de 120 para obtener un factor;
+II.- El importe derramable de la obra al que se refiere la fracción III del artículo 58, se deberá dividir entre una constante de 120 para obtener un factor.
 
 III.- El factor resultante se aplicará en los siguientes términos:
 
 A efecto de obtener el importe de la primera sección se deberá multiplicar el factor por quince; para la segunda sección se deberá multiplicar el factor por catorce, y así sucesivamente hasta llegar a la sección quince, la cual se deberá multiplicar por uno.
 
-IV.- El importe por sección provisional se dividirá entre la superficie geométrica total que le corresponda a la sección;
+IV.- El importe por sección resultante del procedimiento anterior, se dividirá entre la superficie geométrica total que le corresponda a la sección.
 
-V.- El resultado corresponderá a una cuota provisional inicial para derrama de la sección;
+V.- El resultado corresponderá a una cuota provisional inicial para derrama de la sección.
 
-VI.- La cuota provisional se multiplicará por la superficie real beneficiada de cada sección;
+VI.- La cuota provisional se multiplicará por la superficie real beneficiada de cada sección.
 
-VII.- El importe provisional de la suma de derrama de todas las secciones, si no es igual al importe derramable, la diferencia se aplicará con el mismo procedimiento, hasta que no exista diferencia positiva;
+VII.- El importe provisional de la suma de derrama de todas las secciones, si no es igual al importe derramable, la diferencia se aplicará con el mismo procedimiento hasta que no exista diferencia positiva.
 
 VIII.- Todas las cuotas provisionales que resulten de aplicar el método anterior, se sumarán por su correspondiente sección, para determinar la cuota definitiva.
 
@@ -947,7 +945,7 @@ Para determinar la cantidad líquida que corresponda a cada predio, deberá mult
 
 Se consideran deméritos que disminuyen el grado de beneficio que recibe un predio enclavado en la zona general de beneficio:
 
-I.- Que el inmueble beneficiado no tenga acceso directo a la obra por existir taludes o desniveles mayores a tres metros en todo su frente, que origine la necesidad de hacer trabajos para lograr el acceso. En este supuesto el predio tendrá un demérito del cincuenta por ciento;
+I.- Que el inmueble beneficiado no tenga acceso directo a la obra por existir taludes o desniveles mayores a tres metros en todo su frente, que origine la necesidad de hacer trabajos para lograr el acceso. En este supuesto el predio tendrá un demérito del cincuenta porciento;
 
 II.- Que el inmueble beneficiado tenga pendientes topográficas que hagan difícil su desarrollo. En este caso el predio tendrá los siguientes deméritos:
 
@@ -1011,17 +1009,25 @@ Esta bonificación se comunicará al causante personalmente para que en un térm
 
 Los causantes que voluntariamente renuncien a los plazos fijados en su liquidación para el pago del Impuesto, cubriéndolo de contado, tendrán derecho a una bonificación equivalente a la parte proporcional que pudiera corresponderles en el financiamiento de la obra.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 76.
 
-Cuando no se pague la contribución por plusvalía dentro del término o en la fecha que sea exigible, se hará efectivo por medio del procedimiento administrativo de ejecución establecido en el Código Fiscal del Estado de Baja California, causándose los recargos correspondientes en términos de las disposiciones de dicho Código.
+Cuando no se pague la contribución de mejoras generada por el sistema de plusvalía dentro del término o en la fecha que sea exigible, se hará efectiva por medio del procedimiento administrativo de ejecución establecido en el Código Fiscal del Estado de Baja California, causándose los recargos correspondientes en términos de las disposiciones de dicho Código.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+La falta de pago de tres mensualidades consecutivas, hará exigible la totalidad del adeudo. Los inmuebles responden preferentemente del pago de la contribución de mejoras que corresponda cubrir a los gobernados beneficiados con las obras, aun cuando se transfiera la propiedad o posesión a terceros.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 77.
 
-Los causantes podrán pagar voluntariamente en especie el crédito determinado en su contra.
+Los causantes podrán pagar en especie el crédito determinado en su contra, cuando el bien propuesto sea de sencilla enajenación o resulte aprovechable para los fines del organismo de urbanización, y:
+
+l.- Exista una falta de liquidez debidamente demostrada; o,
+
+II.- El pago sea en superficie de terreno propiedad o posesión del deudor, si con ello se permite la liberación del derecho de vía para la ejecución de una obra de urbanización o crear reserva territorial. En ambos casos el valor del bien será determinado por la Comisión Estatal de Avalúos.
+
+El pago en especie podrá recibirse como pago voluntario anticipado.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
@@ -1314,3 +1320,7 @@ P.O. 31 DE DICIEMBRE DE 2009.
 PRIMERO.- Las disposiciones contenidas en el Artículo Cuarto del presente Decreto entrarán en vigor a los veinte días hábiles siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al Artículo Cuarto del presente Decreto.
+
+P.O. 30 DE ABRIL DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado, Órgano de Gobierno del Estado.
