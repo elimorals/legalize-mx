@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-regula-la-venta-distribucion-y-consumo-de-bebidas-23619
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2008-02-16"
+last_updated: "2010-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY QUE REGULA LA VENTA, DISTRIBUCION Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2010.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tabasco, el jueves 21 de diciembre de 2001.
 
@@ -133,13 +133,27 @@ XXXIV. Revocación: Acto administrativo por el cual la Secretaría deja sin efec
 
 XXXV. Salón de baile: Inmueble destinado a fiestas, bailes y espectáculos en el que se pueden consumir bebidas alcohólicas, de manera gratuita u onerosa, previa autorización para ello;
 
-XXXVI. Secretaría: La Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+
+XXXVI. Secretaría: La Secretaría de Administración y Finanzas;
 
 XXXVII. Supermercado: Establecimiento comercial con sistema de autoservicio que, por su estructura y construcción, cuenta para su venta con grandes volúmenes de artículos básicos, electrodomésticos, alimenticios, ropa, telas, latería y bebidas alcohólicas para llevar;
 
-XXXVIII. Ultramarinos: Establecimiento cuya actividad preponderante es la venta de bebidas alcohólicas en envase cerrado, con la comercialización de productos de abarrotes, y
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
 
-XXXIX. Venta: Toda actividad de enajenación de bebidas alcohólicas.
+XXXVIII. Ultramarinos: Establecimiento cuya actividad preponderante es la venta de bebidas alcohólicas en envase cerrado, con la comercialización de productos de abarrotes;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+
+XXXIX. Venta: Toda actividad de enajenación de bebidas alcohólicas;
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+
+XL. Área de Venta: Superficie expresada en metros cuadrados, de un establecimiento, a la que tiene acceso el público más el área de cajas registradoras; y
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+
+XLI. Tienda de Conveniencia: Establecimiento que cuenta con sistema de autoservicio, con un horario comercial igual o superior a las dieciocho horas, cuya función principal es expender al público productos de uso y consumo, pudiendo accesoriamente vender bebidas alcohólicas en envase cerrado para llevar.
 
 ###### Articulo 3.
 
@@ -151,7 +165,9 @@ Es facultad del Ejecutivo del Estado por conducto de la Secretaría, interpretar
 
 El Gobernador del Estado, de así considerarlo, propondrá la celebración de un convenio para que los Presidentes Municipales o Primeros Concejales, apliquen y vigilen directamente el cumplimiento de la presente Ley.
 
-En términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo, cuando lo consideren pertinente la Secretaría de Planeación y Finanzas y la Secretaría de Salud, de manera coordinada practicarán en los establecimientos dedicados a la venta, distribución y consumo de bebidas alcohólicas, inspecciones a fin de vigilar el cumplimiento de la presente ley y de la Ley de Salud del Estado de Tabasco.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+
+En términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo, cuando lo consideren pertinente la Secretaría y Secretaría de Salud, de manera coordinada practicarán inspecciones en los establecimientos; a fin de vigilar el cumplimiento de la presente ley o de la Ley de Salud del Estado de Tabasco, respectivamente.
 
 ### CAPITULO II. DE LOS ESTABLECIMIENTOS
 
@@ -167,9 +183,17 @@ III. Expendio;
 
 IV. Minisuper;
 
-V. Supermercado, y
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
 
-VI. Ultramarinos.
+V. Supermercado;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+
+VI. Ultramarinos; y
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+
+VII. Tienda de Conveniencia.
 
 Las distribuidoras solo podrán realizar la venta o distribución a temperatura ambiente.
 
@@ -219,25 +243,49 @@ Las licencias que permiten la venta de bebidas alcohólicas en envase cerrado y 
 
 Los establecimientos destinados para la venta de bebidas alcohólicas en envase abierto, deberán reunir los requisitos que al efecto señale el Reglamento de la presente Ley, y contarán por lo menos con:
 
-I. Un mostrador;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
 
-II. Servicio de agua, para la limpieza del local, los recipientes en los cuales se sirvan bebidas alcohólicas, y para los sanitarios;
+I. Un mostrador que esté acondicionado debidamente para preparar y servir las bebidas alcohólicas a la vista del cliente;
 
-III. Sanitarios suficientes, para hombres y para mujeres, con los elementos necesarios para su debido funcionamiento, contemplando áreas para discapacitados los cuales deberán estar separados y contar con su propio lavamanos, cuyo sistema de drenaje deberá estar en pleno funcionamiento; en los lugares donde no sea posible lo anterior, letrinas en conveniente estado y de manera higiénica;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
 
-IV. La ventilación e iluminación adecuada;
+II. Los establecimientos con acceso a la vía pública, a excepción de los giros de restaurante bar, deberán cubrir con cualquier medio la visibilidad al interior del mismo;
 
-V. Salidas de emergencia acorde con la capacidad del local, y
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
 
-VI. Extintores de fuego.
+III. El original de la licencia de funcionamiento vigente que deberá estar fijado en un lugar visible en el interior del establecimiento, además de indicar en el exterior del mismo, el número de la licencia y el nombre del titular. Durante los plazos que señala la presente ley para los trámites de revalidación de licencia y en caso de inspección, en el acto se deberán mostrar al servidor público, que debidamente acreditado, ejerza funciones de autoridad, los documentos originales del formato de solicitud de revalidación, debidamente presentado ante la Secretaría;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+
+IV. Contar con los certificados vigentes emitidos por la autoridades competentes en materia de protección civil y salud; incluyendo los relativos a las facilidades para personas discapacitadas;
+
+V. (DEROGADA, P.O. 1 DE MAYO DE 2010)
+
+VI. (DEROGADA, P.O. 1 DE MAYO DE 2010)
 
 ###### Artículo 9.
 
 Los cabarets, bares, cantinas y cervecerías que cuenten con entradas directas por la vía pública, además de los requisitos señalados en el artículo anterior, deberán tener persianas, tabiques, mamparas u otros medios que impidan la visibilidad hacia el interior.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+
 ###### Artículo 10.
 
-El original de la licencia de funcionamiento deberá fijarse en un lugar visible en el interior del establecimiento, además de indicar en el exterior del mismo, el número de la licencia y el nombre del titular.
+Cuando los establecimientos pretendan modificar el objeto de su giro a uno diferente del estipulado en la licencia original, el licenciatario deberá solicitar por escrito, la autorización de dicho cambio a la Secretaría. Dicho escrito deberá especificar las causas que motivan dicho cambio de giro; y deberá ser acompañado por los siguientes documentos que conforme a sus disposiciones aplicables, deben emitir los servidores públicos facultados de las instancias siguientes:
+
+I. Constancia expedida por la Secretaría de Salud en la que se acredite que el establecimiento reúne los requisitos sanitarios en vigor, para el nuevo giro.
+
+II. Constancia expedida por la Unidad de Protección Civil del Ayuntamiento, o el área que tenga a cargo dichas funciones, dentro de la administración municipal, en la que se especifique que el inmueble cumple con la normatividad correspondiente para el nuevo giro.
+
+III. Constancia expedida por la autoridad competente del Ayuntamiento en la que se indique que la propuesta de cambio de giro, no representa alteración alguna al medio ambiente y al entorno ecológico.
+
+IV. La anuencia en los términos similares a lo señalado en el artículo 26, fracción III, de la presente Ley.
+
+Si el nuevo giro mercantil cambia de uno que no esté contenido en la fracción VII del artículo 17 de la presente ley, a uno que sí lo esté, éste deberá cumplir con lo señalado en el mismo.
+
+Recibida la solicitud y los anexos a que se refiere este artículo, la Secretaria, dentro de los quince días hábiles siguientes a la recepción de la solicitud, ordenará una visita de inspección al local, a efecto de comprobar si se reúnen los requisitos establecidos por esta Ley, independientemente de los que señalan las demás leyes aplicables.
+
+Una vez practicada la inspección, y comprobado que el establecimiento reúne los requisitos de la ley, conforme las disposiciones aplicables de la Secretaría.
 
 ### CAPITULO III. DÍAS Y HORAS DE FUNCIONAMIENTO
 
@@ -247,7 +295,9 @@ La venta, distribución y consumo de bebidas alcohólicas en envase cerrado o ab
 
 I. Los expendios, todos los días, de las diez a las veinticuatro horas;
 
-II. Los supermercados, ultramarinos, minisuper y centros comerciales todos los días, de las diez a las veintitrés horas;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+
+II. Los supermercados, ultramarinos y centros comerciales todos los días, de las diez a las veintitrés horas;
 
 III. Las discotecas y cabarets, todos los días, de las veintiuna a las cuatro horas del día siguiente;
 
@@ -257,19 +307,33 @@ V. Los Restaurantes, restaurante-bar, incluyendo los de hoteles y moteles, así 
 
 VI. Las Coctelerías, todos los días de las nueve a las veintiuna horas;
 
-VII. Las cervecerías, abarrotes y las cantinas, de lunes a sábado de las doce a las veinte horas;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+
+VII. Las cervecerías y las cantinas, de lunes a sábado de las doce a las veinte horas;
 
 VIII. Las distribuidoras, de lunes a sábado de las siete a las veintidós horas, y los domingos de nueve a dieciséis horas;
 
-IX. Los hoteles y moteles en servicio a cuarto y servibar todos los días, las veinticuatro horas, y
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
 
-X. Los centros de espectáculos y salones de baile en los días y horarios determinados por las autoridades competentes.
+IX. Los hoteles así como moteles en servicio a cuarto y servibar, todos los días, las veinticuatro horas;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+
+X. Los centros de espectáculos y salones de bailé en los días y horarios determinados por las autoridades estatales y municipales competente, según corresponda; y
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+
+XI. Los minisúper, abarrotes y tiendas de conveniencia todos los días, de las diez a las veinticuatro horas.
 
 ###### Artículo 12.
 
 Los licenciatarios de bares, cabarets, centros de espectáculos, discotecas y restaurantes-bar, podrán solicitar a la Secretaría la ampliación de sus horarios de funcionamiento, hasta por un máximo de una hora y por un período de tiempo determinado, el cual no deberá exceder de cuarenta días, en un año calendario. De autorizarse la ampliación, se deberá cubrir el importe de los derechos correspondientes.
 
 Los establecimientos a los que se refiere la fracción II, del artículo 11 podrán solicitar ampliación de sus horarios de funcionamiento hasta por una hora y por un período que no exceda de 15 días, en un año calendario.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+
+De igual manera, los establecimientos a los que se refiere la fracción XI del artículo anterior, podrán solicitar autorización anual para venta de bebidas alcohólicas durante las 24 horas, cubriendo los derechos correspondientes que señale para tal efecto la Ley de Hacienda del Estado.
 
 ###### Artículo 13.
 
@@ -313,9 +377,13 @@ f) Constancia de la inversión realizada o proyecto de la inversión a realizar,
 
 g) Constancia expedida por la Secretaría de Salud en la que se acredite que el local reúne los requisitos sanitarios en vigor;
 
-h) Constancia expedida por la Dirección de Protección Civil, en la que se especifique que el inmueble cumple con la normatividad correspondiente, y
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
 
-i) Constancia expedida por la autoridad competente del Estado en la que se indique que el proyecto no representa alteración alguna al medio ambiente y al entorno ecológico.
+h) Constancia expedida por el servidor público facultado de la Unidad Municipal de Protección Civil, o las áreas que tenga a su cargo dichas funciones dentro de este gobierno; en la que se especifique que el inmueble cumple con la normatividad correspondiente, incluyendo lo relativo a las facilidades para discapacitados; y
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+
+i) Constancia expedida por el servidor público municipal legitimado de la Dirección de Protección Ambiental y Desarrollo Sustentable o de la unidad administrativa que realice esas funciones, en la que se indique que la propuesta de cambio de giro, no representa alteración alguna al medio ambiente y al entorno ecológico.
 
 II. Ser mayor de edad y estar en pleno goce y ejercicio de sus derechos; y en caso de ser una persona jurídica colectiva, estar legalmente constituida conforme a las leyes de los Estados Unidos Mexicanos, tratándose de sociedades extranjeras deberán acreditar que se constituyeron conforme a las leyes de su País de origen;
 
@@ -327,7 +395,13 @@ V. No haber sido condenado, por delitos fiscales, sexuales, contra la vida, la s
 
 VI. En los cinco años anteriores a la fecha de su solicitud no haber sido sancionado con la revocación de una licencia;
 
-VII. Tratándose de abarrotes, bares, cantinas, cervecerías, discotecas, expendios, minisuper y ultramarinos, deberán estar ubicados, cuando menos, fuera de un radio de trescientos metros de planteles educativos, templos religiosos, edificios públicos o instalaciones deportivas. En el caso de los cabaret y bar con presentación de espectáculos, la distancia será de 500 metros, respecto de los inmuebles mencionados, y
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+
+VII. Tratándose de abarrotes, tiendas de conveniencia, bares, cantinas, cervecerías, discotecas, expendios, minisúper y ultramarinos, deberán estar ubicados, cuando menos, fuera de un radio de trescientos metros de planteles educativos, templos religiosos, edificios públicos o instalaciones deportivas. En el caso de los cabaret y bar con presentación de espectáculos, la distancia será de 500 metros, respecto de los inmuebles mencionados;
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+
+VII-Bis. En el caso de las tiendas de conveniencia, estas deberán contar con cajones de estacionamiento, área de venta de 60 metros cuadrados como mínimo y cuando menos con 5 giros comerciales como son: artículos básicos, frutas, bebidas no alcohólicas, carnes frías, leche y sus derivados, conservas, ferreterías, tlapalería, publicaciones impresas, material de limpieza y otros, independientemente del destinado a bebidas alcohólicas; y deberán contar permanentemente al menos con un 70% del área del establecimiento con productos diferentes a las bebidas alcohólicas. Cuando éstas cuenten con neveras y/o enfriadores para bebidas alcohólicas, las mismas deberán ser a lo sumo en la misma cantidad que requieran para refrigerar para productos perecederos y bebidas no alcohólicas; y
 
 VIII. Que se acredite mediante constancia expedida por la autoridad competente en su jurisdicción, que el lugar en el que se pretenda instalar el establecimiento, sea compatible con los usos de suelos, de conformidad a las disposiciones de desarrollo urbano vigentes.
 
@@ -337,17 +411,47 @@ Una vez practicada la inspección, y comprobado que el establecimiento reúne lo
 
 En caso de que el solicitante no obtuviere respuesta de la Secretaría, transcurrido el plazo a que se refiere el párrafo anterior, se entenderá que la resolución es en sentido negativo.
 
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+
+###### Artículo 17
+
+Bis. Los interesados en obtener una licencia nueva, permiso temporal, cambio de giro mercantil o cambio de domicilio deberán presentar por escrito al Ayuntamiento, la solicitud de anuencia municipal con el fin de cumplir con el artículo 17 inciso e).
+
+El Ayuntamiento tendrá un plazo de 15 días hábiles para resolver y otorgar por escrito, la anuencia municipal o la negación de la misma.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 2010)</small>
+
 ###### Artículo 18.
 
-La licencia o el permiso eventual serán personales, intransferibles e inembargables; en consecuencia no podrán por sí o por conducto de mandatario, apoderado o representante legal alguno, ser objeto de comercio, ni arrendarse, venderse, donarse, entregarse en comodato, asociarse o cederse por ningún concepto o cualquier otro que implique la explotación de los derechos del licenciatario o permisionario por un tercero.
+La licencia será personal e inembargable. Podrá ser transferible a un tercero cuando lo autorice por escrito el servidor público que cuente con las atribuciones en los términos de las disposiciones orgánicas o reglamentarias de la Secretaría, siempre y cuando se cumplan con los siguientes requisitos:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2010)</small>
+
+I. Que el titular de la licencia solicite por escrito a la Secretaría, el cambio a que se refiera su petición; precisando los datos de la persona física o jurídica colectiva la que pida se le otorgue la autorización para transferir el dicho cambio; al efecto, se deberá acompañar los documentos relativos a la propuesta del nuevo licenciatario relacionados en los incisos a), b) y c) del artículo 17 de la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2010)</small>
+
+II. Que el sujeto por el que se pide el otorgamiento de la transferencia de dicha licencia, cumpla con lo establecido en las fracciones II, III, IV, V y VI del mismo artículo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2010)</small>
+
+III. Que no exista adeudo o trámite pendiente relativo a las obligaciones emanadas de la licencia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2010)</small>
+
+IV. Que la licencia haya estado a nombre del titular por lo menos dos años calendario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE MAYO DE 2010)</small>
+
+El licenciatario deberá pagar el derecho correspondiente cada vez que se transmita la licencia, según lo previsto en la Ley de Hacienda del Estado de Tabasco.
 
 En caso de fallecimiento del titular de la licencia, ésta podrá expedirse discrecionalmente a favor del o de los herederos que reúnan los requisitos previstos en esta ley, debiéndose elaborar la solicitud correspondiente para que la Secretaría, autorice el cambio respectivo, y entretanto, con permiso especial el establecimiento continuará funcionando.
 
 La transgresión a lo anterior, tendrá como consecuencia la revocación de la licencia o del permiso eventual y la clausura del establecimiento que esté operando al amparo de los mismos.
 
-El licenciatario que tenga más de una licencia expedida a su favor, deberá acreditar en forma fehaciente ante la Secretaría, la relación laboral existente entre las personas que atienden el establecimiento y el titular de la licencia.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 1 DE MAYO DE 2010)</small>
 
-Para los efectos del presente artículo, se tendrá como prueba fehaciente la documental del cumplimiento de obligaciones de carácter fiscal y de seguridad social.
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 1 DE MAYO DE 2010)</small>
 
 ###### Artículo 19.
 
@@ -641,7 +745,9 @@ V. La resolución deberá señalar con claridad, el tipo de sanción impuesta, f
 
 VI. La resolución dictada por la Secretaría, deberá ser notificada personalmente y por escrito al licenciatario en el domicilio que éste señale, o en su defecto, donde se haya practicado la inspección, y en caso de no encontrarse presente se dejará citatorio de espera para las siguientes 24 horas, y
 
-VII. En caso de que el licenciatario o permisionario no espere al notificador en la hora y fecha fijada, se procederá a dejar copia de la notificación y resolución con cualquier persona que se encuentre en el domicilio señalado para tal efecto o en el establecimiento de que se trate, cuando no lo hubiese señalado, debiéndose solicitar los datos personales y firma de quien recibe; en caso de negativa, se hará constar el hecho en el acta correspondiente.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+
+VII. En caso de que el licenciatario o permisionario no espere al notificador en la hora y fecha fijada, se procederá a dejar copia de la notificación y resolución con cualquier persona que se encuentre en el domicilio señalado para tal efecto o en el establecimiento que se trate, cuando no lo hubiese señalado, debiéndose solicitar los datos personales y firma de quien recibe; en caso de negativa, se hará constar el hecho en el acta correspondiente y se publicará en los estrados del edificio de la Secretaría, con lo que se tendrá al licenciatario por notificado.
 
 ###### Artículo 40.
 
@@ -687,15 +793,25 @@ El recurso tiene por objeto revocar, modificar o confirmar la resolución impugn
 
 Al escrito de interposición del recurso de reconsideración se deberá acompañar:
 
-a) Copias certificadas de los documentos que acrediten la personalidad del promovente, cuando se actúe en nombre de otro o de personas jurídicas colectivas;
+(REFORMADA [N. DE E. ANTES INCISO A)], P.O. 1 DE MAYO DE 2010)
 
-b) Documento conteniendo la resolución o acto que se impugna que haya sido notificado o entregado;
+I. Copias certificadas de los documentos que acrediten la personalidad del promovente, cuando se actúe en nombre de otro o de personas jurídicas colectivas;
 
-c) Los agravios que el recurrente estime le causa la resolución o acto impugnado, y
+(REFORMADA [N. DE E. ANTES INCISO B)], P.O. 1 DE MAYO DE 2010)
 
-d) Las pruebas que considere pertinentes, excepto la confesional y las que atenten contra la moral o el derecho.
+II. Documento conteniendo la resolución acto que se impugna que haya sido notificado o entregado;
 
-Cuando no se acompañen los documentos a que se refieren los incisos a), y b), la autoridad correspondiente, requerirá al inconforme, para que dentro del término de tres días hábiles subsane la omisión, apercibiéndolo que de no hacerlo se tendrá por no interpuesto el recurso planteado y tratándose del inciso c), se desechará de plano el mismo. Si se omitiere ofrecer pruebas se tendrá por perdido el derecho para hacerlo.
+(REFORMADA [N. DE E. ANTES INCISO C)], P.O. 1 DE MAYO DE 2010)
+
+III. Los agravios que el recurrente estime le causa la resolución o acto impugnado, y
+
+(REFORMADA [N. DE E. ANTES INCISO D)], P.O. 1 DE MAYO DE 2010)
+
+IV. Las pruebas que considere pertinentes, excepto la confesional y las que atenten contra la moral o el derecho.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+
+Cuando no se acompañen los documentos a que se refieren las fracciones I y II del presente artículo, la autoridad correspondiente requerirá al inconforme para que dentro del término de tres días hábiles subsane la omisión, apercibiéndolo que de no hacerlo se tendrá por no interpuesto el recurso planteado y tratándose de la fracción III, se desechará de plano el mismo. Si se omitiere ofrecer pruebas, se tendrá por perdido el derecho para hacerlo.
 
 ###### Artículo 49.
 
@@ -750,3 +866,9 @@ P.O. 16 DE FEBRERO DE 2008.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado de Tabasco.
 
 SEGUNDO. La Secretaría deberá de realizar las adecuaciones al Reglamento de esta Ley, en un plazo no mayor a 90 días.
+
+P.O. 1 DE MAYO DE 2010.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
