@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-fomento-economico-del-estado-de-tabasco-9017"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-18"
-last_updated: "2006-06-24"
+last_updated: "2010-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE FOMENTO ECONOMICO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 18 de mayo de 1996.
 
@@ -45,11 +45,41 @@ LEY DE FOMENTO ECONOMICO DEL ESTADO DE TABASCO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
 
 ###### Artículo 1.
 
-Las disposiciones generales de esta Ley son de interés público y de observancia general en el Estado de Tabasco. Es facultad del Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Económico y Turismo, su aplicación para ejercer las funciones de fomento, dirección, coordinación, supervisión y control de las actividades económicas del Estado.
+Las disposiciones generales de esta Ley son de interés público y de observancia general en el Estado de Tabasco. Es facultad del Poder Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Económico, su aplicación para ejercer las funciones de fomento, dirección, coordinación, supervisión y control de las actividades económicas del Estado.
+
+Los municipios concurrirán en términos de la presente ley y de sus propias disposiciones, en la observancia y aplicación de la misma.
+
+En lo relativo a las disposiciones de esta Ley, se aplicará supletoriamente, en lo conducente, las de la Ley de Ordenamiento Sustentable del Territorio del Estado de Tabasco.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+
+Artículo1 Bis. Para los efectos de esta Ley, se entenderá por:
+
+I. Calidad Productiva: El proceso por el cual se disminuyen los costos de los bienes o servicios como consecuencia de la reducción de los fallos, de los reprocesos y de los desechos;
+
+II. Ciudad Industrial: El núcleo urbano delimitado físicamente en el que se asientan o se establecen un conjunto de empresas o unidades económicas de naturaleza diversa o uniforme, dotado de infraestructura física e instalaciones industriales registrado como tal ante la Secretaría;
+
+III. Competitividad: La capacidad de las empresas de producir bienes y servicios en forma eficiente, haciendo que sus productos sean atractivos, tanto dentro como fuera del país;
+
+IV. Desarrollo Económico: El cambio favorable en las condiciones cualitativas y cuantitativas del sistema económico estatal, que propicie el mejoramiento en la calidad de vida de la población;
+
+V. Ley: Ley de Fomento Económico del Estado de Tabasco;
+
+VI. Microparque: La superficie de terreno de propiedad pública o privada destinada al establecimiento de microempresas, dividida en lotes de entre 250 y 1,000 metros cuadrados, con infraestructura física, tales como calles, alumbrado público, energía eléctrica, teléfono, agua y drenaje, que se encuentre registrada en la Secretaría;
+
+VII. Parque Industrial: La superficie de terreno de propiedad pública o privada destinada al establecimiento de industrias, dividida en lotes para su venta, con servicios de infraestructura física, tales como calles, alumbrado público, energía eléctrica, teléfono, agua y drenaje, que se encuentre registrada en la Secretaría;
+
+VIII. Secretaría: La Secretaría de Desarrollo Económico del Poder Ejecutivo del Estado;
+
+IX. Sujeto de apoyo: Las personas físicas o jurídicas colectivas con actividad empresarial, establecidas o por establecerse en el estado y cuyos proyectos de inversión sean detonantes para el desarrollo o que generen empleos directos;
+
+X. Tecnología limpia: La tecnología que al ser aplicada no produce efectos secundarios o transformaciones al equilibrio ambiental o a los sistemas naturales (ecosistemas); y
+
+XI. Unidad Económica: A los establecimientos, personas o entidades dedicados a la manufactura, producción o comercialización de bienes o servicios.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
 
@@ -57,15 +87,21 @@ Las disposiciones generales de esta Ley son de interés público y de observanci
 
 El fomento económico del Estado constituye una actividad prioritaria. En esa virtud, el Gobierno del Estado planeará, conducirá, coordinará, y orientará la actividad económica, y llevará a cabo la regulación y el fomento de las actividades que demande el interés general, dando a los municipios la intervención que corresponda. Coordinando a los municipios en el ámbito de su competencia.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 2010)</small>
 
 ###### Artículo 2 Bis.
 
-La Secretaría de Desarrollo Económico y Turismo será la responsable de expedir gratuitamente las licencias de funcionamiento a las ferias, tianguis, exposiciones o cualquier otra denominación encaminada a realizar una actividad comercial de carácter temporal, ya sea en recintos públicos o privados, las cuales sean organizadas por personas físicas o jurídicas colectivas sin domicilio fiscal en el Estado, para lo cual deberá acreditarse la anuencia respectiva del Ayuntamiento, así como el cumplimiento de las obligaciones fiscales requisitadas por la Secretaría de Finanzas.
+La Secretaría, será la responsable de expedir gratuitamente las licencias de funcionamiento a las ferias, tianguis, exposiciones o cualquier otra denominación encaminada a realizar una actividad comercial de carácter temporal, ya sea en recintos públicos o privados, las cuales sean organizadas por personas físicas o jurídicas colectivas sin domicilio fiscal en el Estado, para lo cual deberá acreditarse la anuencia respectiva del Ayuntamiento, así como el cumplimiento de las obligaciones fiscales requeridas por la Secretaría de Administración y Finanzas.
 
-Para el control de las licencias de funcionamiento referidas en el párrafo anterior, la Secretaría de Desarrollo Económico y Turismo, en coordinación con la Secretaria de Finanzas y el Ayuntamiento de que se trate, administrará la información contenida a través de un Registro que se denominará de Actividades Comerciales de Carácter Temporal.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+
+Para el control de las licencias de funcionamiento referidas en el párrafo anterior, la Secretaría, en coordinación con la Secretaría de Administración y Finanzas y el Ayuntamiento de que se trate, administrará la información contenida a través de un Registro que se denominará de Actividades Comerciales de Carácter Temporal y que estará sujeto a las disposiciones del Reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2006)</small>
 
 El Ayuntamiento competente suscribirá convenios de coordinación para la práctica conjunta de visitas de inspección a los establecimientos a que se refiere el primer párrafo de este artículo, con el objeto de verificar si cuentan con la licencia de funcionamiento, cuya falta será sancionada con la clausura de la actividad comercial temporal.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2006)</small>
 
 El Reglamento de la presente Ley, determinará los requisitos para la expedición y las causas de cancelación de la licencia de funcionamiento, la administración del Registro de Actividades Comerciales de carácter temporal, así como la actualización de la información que se requiera para su actualización.
 
@@ -105,9 +141,9 @@ VII. Estimular y promover la utilización de tecnologías de vanguardia, apoyand
 
 VIII. Propiciar el establecimiento de nuevas actividades manufactureras y consolidar las existentes, vinculadas a la industria energética, prioritariamente la del petróleo;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
 
-IX. Fomentar las actividades de transformación, ensamble y maquila buscando en todo caso la productividad, la calidad y la competitividad aunadas al pleno respeto a los derechos de los trabajadores;
+IX. Integrar y ejecutar estrategias, en coordinación con los sectores productivos, para apoyar la comercialización de los bienes y servicios que se producen en el Estado, en los mercados local, regional, nacional e internacional en mejor condiciones de rentabilidad; así como fomentar las, actividades de transformación, ensamble y maquila, buscando en todo caso la productividad, la calidad y la competitividad aunadas al pleno respeto a los derechos de los trabajadores;
 
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 2006)</small>
 
@@ -117,17 +153,21 @@ X. Fomentar el turismo, mediante el aprovechamiento del patrimonio natural, arqu
 
 XI. Fomentar los servicios de educación y de salud, así como todos los servicios especializados de apoyo a las actividades productivas, que tengan en consideración las características de las diferentes regiones del Estado;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
 
-XII. Fomentar la integración entre productores primarios, artesanos, industriales, comerciantes y empresas de servicios; procurando el desarrollo de asociaciones de producción, comercialización y de consumo;
+XII. Fomentar la organización entre microempresarios, productores primarios, artesanos, industriales, comerciantes y empresas de servicios; la agrupación de microempresarios promover la constitución de empresas integradoras procurando el desarrollo de asociaciones de producción, comercialización y de consumo, así como la solución de sus problemas comunes y mejorar su capacidad de negociación.
+
+Para tales efectos los gobiernos estatal y municipal, promoverán entre sus dependencias y entidades, que en la planeación, programación y contratación de sus adquisiciones de bienes y servicios, se incorpore preferentemente en términos de ley y en igualdad de condiciones, a las micros, pequeñas y medianas empresas locales.
+
+De igual forma, en el ámbito de sus respectivas competencias y con respeto a su autonomía, los poderes legislativo y judicial, así como los órganos autónomos, realizarán las acciones necesarias para tal objeto;
 
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 2006)</small>
 
 XIII. Promover programas de capacitación y adiestramiento para el trabajo, así como impulsar el desarrollo de la ciencia y la tecnología, bajo criterios de sustentabilidad;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
 
-XIV. Estimular la iniciativa de los particulares en sus proyectos de inversión a cuyo efecto se les dará apoyo con la simplificación de los trámites administrativos para la formación de nuevas empresas o su ampliación, y la puesta en práctica de sistemas de financiamiento adecuados para el desarrollo de proyectos prioritarios;
+XIV. Promover, de conformidad con la ley de la materia, procesos de mejora regulatoria para la atracción de inversiones y el funcionamiento de ventanillas únicas que otorguen competitividad al Estado en la creación, operación o ampliación de empresas y desarrollo de proyectos prioritarios de interés estatal; determinados por el Consejo Para el Desarrollo Económico y la Competitividad del Estado de Tabasco;
 
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 2006)</small>
 
@@ -137,11 +177,91 @@ XV. Propiciar el establecimiento de nuevas plantas industriales o de servicios, 
 
 XVI. En general, impulsar cualquier actividad económica encaminada a promover la industrialización y la consolidación de los servicios en el Estado, conforme a su vocación productiva, en beneficio del mejoramiento de la calidad de vida de los tabasqueños.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE MAYO DE 2010)</small>
+
+### CAPITULO I BIS. DEL CONSEJO PARA EL DESARROLLO ECONOMICO Y LA COMPETITIVIDAD DEL ESTADO DE TABASCO
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+
+###### Artículo 3 Bis.
+
+El Consejo será un órgano de participación social auxiliar del Poder Ejecutivo del Estado, que tendrá como objeto analizar, opinar y en su caso proponer acciones, políticas y proyectos que impulsen el desarrollo económico de Tabasco, fortalezcan la competitividad estatal y coadyuven a la atracción de inversiones y la generación de empleos.
+
+El Consejo se integrará por:
+
+I. Un Presidente que será el Secretario de Desarrollo Económico;
+
+II. Un vicepresidente que será el Secretario de Planeación;
+
+a) Como vocales:
+
+1. El titular de la Secretaría de Administración y Finanzas;
+
+2. El titular de la Secretaría de Turismo;
+
+3. El titular de la Secretaría de Comunicaciones y Transportes;
+
+4. El titular de la Secretaría de Desarrollo Agropecuario, Forestal y Pesca;
+
+5. El titular de la Secretaría de Contraloría;
+
+6. El titular de la Secretaría de Recursos Naturales y Protección Ambiental;
+
+7. El Coordinador General de COPLADET.
+
+b) Un representante del Congreso del Estado que será el Presidente de la Comisión Orgánica de Fomento y Desarrollo Industrial, Económico, Artesanal, Comercial y Turístico;
+
+c) Los Presidentes Municipales de los honorables Ayuntamientos de la Entidad;
+
+d) Un representante del Consejo Coordinador Empresarial de Tabasco; y
+
+e) Hasta cinco representantes de instituciones académicas, organizaciones productivas, de servicios o sociales del Estado, a invitación del Presidente.
+
+Las sesiones del Consejo serán convocadas y presididas por el Presidente. En su ausencia las convocará y presidirá el Vicepresidente.
+
+Las sesiones serán ordinarias y extraordinarias. Las ordinarias se celebraran cuando menos cada seis meses y las extraordinarias, cada vez que lo estime necesario el Presidente o el Vicepresidente.
+
+El quórum legal para sesionar será por lo menos la mitad más uno de sus miembros. Las resoluciones se tomarán por mayoría de votos de los miembros presentes, teniendo quien presida la sesión, voto de calidad para el caso de empate. Cada miembro titular podrá designar un suplente, quien cubrirá sus ausencias. Los cargos en el Consejo serán honoríficos.
+
+III. El Consejo tendrá las siguientes funciones:
+
+a) Proponer programas especiales para la reactivación económica del Estado, ante desastres, emergencias y contingencias;
+
+b) Conocer, opinar y sugerir sobre los programas sectoriales, políticas públicas y proyectos en materia de desarrollo económico para el Estado;
+
+c) Proponer criterios para el fomento del desarrollo económico del Estado y los Municipios;
+
+d) Definir la participación de los sectores privado, social y académico en las acciones y estrategias que tengan como fin consolidar la competitividad de Tabasco;
+
+e) Proponer al Titular del Poder Ejecutivo del Estado, los mecanismos para optimizar el funcionamiento y operatividad de los programas de fomento y desarrollo económico de la Entidad;
+
+f) Proponer acciones de fomento y consolidación de inversiones productivas en áreas y regiones estratégicas, que contribuyan a generar nuevos empleos y consolidar las empresas integradoras;
+
+g) Impulsar una reforma regulatoria que promueva la inversión, mediante la reducción y simplificación de trámites y una mayor transparencia del marco regulatorio;
+
+h) Proponer estrategias, acciones y políticas públicas para la generación de empleos;
+
+i) Recomendar y propiciar la elaboración de programas específicos de desarrollo para cada sector de la economía estatal, privilegiando los del sector primario y otros que se consideren estratégicos, y proponer su aplicación;
+
+j) Opinar sobre incentivos y estímulos estatales que pudieran otorgarse a favor de empresas que deseen instalarse en el Estado o locales que aumenten su plantilla laboral;
+
+k) Sugerir las medidas de simplificación administrativa y mejora regulatoria, que puedan implementarse en las diferentes instancias y órdenes de gobierno estatal y municipal;
+
+l) Analizar y en su caso sugerir, sobre los programas de infraestructura de servicios, que se pretendan desarrollar en el territorio estatal;
+
+m) Promover la vinculación de la educación media y superior con los perfiles académicos que requiere el sector productivo local;
+
+n) Emitir opinión sobre la demanda e instalación de microparques, parques o ciudades industriales, centros comerciales y de servicios, considerando las propuestas y gestión de recursos para el desarrollo de la infraestructura que demanden los inversionistas;
+
+o) Proponer en su caso la participación de empresas locales en la organización y financiamiento de eventos de promoción cultural y turística, por sí, o en coordinación con los gobiernos estatal y municipal, y;
+
+p) En general, estudiar y analizar las necesidades y la problemática que enfrenta el sector productivo, así como proponer alternativas que alienten su crecimiento y consoliden sus niveles de rentabilidad a favor del desarrollo y la competitividad del Estado.
+
+El Consejo a través de su Presidente, podrá invitar a participar a las sesiones, a representantes de dependencias y organismos federales, estatales y municipales, instituciones educativas y organizaciones de los sectores social y privado que están relacionados con el asunto de que se trate; los cuales tendrán voz pero no voto.
+
+La Secretaría en el ámbito de su competencia, y en coordinación con los ayuntamientos y las dependencias y entidades estatales competentes, impulsará la atención de las recomendaciones que formule el Consejo, e informará a éste de los resultados obtenidos. Para tal efecto, cuando las mismas tengan relación con asuntos de su competencia, los integrantes del Consejo, deberán informar a la Secretaría, el resultado de las recomendaciones que éste emita.
+
 ### CAPITULO II. DE LAS ACTIVIDADES SUJETAS DE FOMENTO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2006)</small>
-
-### CAPITULO III. DE LOS INCENTIVOS
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2006)</small>
 
@@ -287,13 +407,21 @@ V. Las asociaciones civiles que acrediten contar integralmente con áreas especi
 
 Serán también objeto de los incentivos que otorga esta Ley, las nuevas inversiones, ampliaciones o consolidación de las micro, pequeñas y medianas empresas; las que constituidas como personas físicas o jurídicas colectivas legalmente registradas, generen cuando menos, tres nuevos empleos directos y las integradoras que operen con micros, pequeñas o medianas empresas.
 
-### CAPITULO IV. DEL OTORGAMIENTO Y EJECUCION DE LOS INCENTIVOS
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
+La Secretaría, en coordinación con los ayuntamientos, organismos empresariales y demás entidades públicas y privadas, promoverán la realización de programas que eleven el nivel de competitividad de las micros, pequeñas y medianas empresas.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+
+El Titular del Poder Ejecutivo del Estado, a través de la Secretaría, impulsará de acuerdo a la disponibilidad presupuestal, la creación de fideicomisos públicos, privados o mixtos y fondos de fomento para el diseño y aplicación de esquemas de financiamiento, crédito, garantías, capital de riesgo y asistencia técnica para el desarrollo y consolidación de la micro, pequeña y mediana empresa local.
+
+### CAPITULO III. DE LOS INCENTIVOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 2010)</small>
 
 ###### Artículo 6.
 
-El Estado, previo el cumplimiento de los requisitos que se fijan en esta Ley y su Reglamento, otorgará incentivos y beneficios fiscales, siempre que se encuentren al corriente en el cumplimiento de sus obligaciones fiscales estatales y federales, a las unidades económicas y empresas que, legalmente constituidas como personas físicas o jurídicas colectivas, generen nuevas fuentes de empleos directos, realicen inversiones de capital en actividades económicas consideradas prioritarias en la forma y términos que se indican a continuación:
+El Poder Ejecutivo del Estado, previo el cumplimiento de los requisitos que se fijan en esta Ley y su Reglamento, otorgará incentivos y beneficios fiscales, siempre que se encuentren al corriente en el cumplimiento de sus obligaciones fiscales estatales y federales, a las unidades económicas y empresas que, legalmente constituidas como personas físicas o jurídicas colectivas, generen nuevas fuentes de empleos directos, realicen inversiones de capital en actividades económicas consideradas prioritarias en la forma y términos que se indican a continuación:
 
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 2006)</small>
 
@@ -341,9 +469,9 @@ C. Apoyos Indirectos
 
 a) Simplificación de los trámites administrativos relacionados con la instalación o ampliación de nuevas empresas, bajo el principio de "positiva ficta" para el caso de silencio de la autoridad;
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 2010)</small>
 
-b) Creación de un Centro de Información dentro de la Secretaría de Desarrollo Económico y Turismo que asumirá, entre otras funciones, las siguientes:
+b) Creación de un Centro de Información Estratégica para el Desarrollo Económico, que asumirá entre otras funciones las siguientes:
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
 
@@ -529,31 +657,75 @@ e). Creación de un Centro de Información dentro de la Secretaría de Desarroll
 
 f) Implementar apoyos económicos y soluciones administrativas, con la participación del Gobierno Estatal a través del fondo empresarial Tabasco, para que de acuerdo a las reglas establecidas se generen proyectos económicos viables.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+
+IV. Las empresas en el Estado o las de nueva creación, independientemente de su giro, que asuman procesos de modernización para su producción, con base en tecnologías limpias o que disminuyan el consumo de recursos o establecimientos que acrediten adoptar criterios de vanguardia en esos ámbitos, podrán ser acreedores a estímulos fiscales a propuesta de la Secretaría de Recursos Naturales y Protección Ambiental ante el Comité Dictaminador.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
 
 ###### Artículo 6 Bis.
 
-Tratándose de los fondos descritos en el artículo 6 de la presente Ley, estos se sujetaran a la disponibilidad presupuestaria de la Secretaria de Desarrollo Económico y Turismo.
+Tratándose de los fondos descritos en el artículo 6 de la presente Ley, estos se sujetaran a la disponibilidad presupuestaria de la Secretaria.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
 
-### CAPITULO V. DEL COMITE DICTAMINADOR
+###### Artículo 6 Ter.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2006)</small>
+Las empresas de nueva creación o las ya establecidas, dedicadas a las actividades económicas consideradas prioritarias para el Estado, según el artículo 6 de esta ley, que contraten personas de 60 años o más, personas con discapacidad o jóvenes recién egresados de su formación técnica o profesional, sin perjuicio de los incentivos a que se refiere dicho artículo, adicionalmente podrán solicitar los incentivos y beneficios siguientes:
 
-### CAPITULO VI. DEL CONSEJO DE PROMOCION NACIONAL E INTERNACIONAL DE TABASCO
+I. Bonificación hasta del 25% del monto pagado del impuesto sobre nomina, previsto en la Ley de Hacienda del Estado de Tabasco, correspondiente a las erogaciones efectuadas a los trabajadores de 60 años o más, personas con discapacidad o jóvenes recién egresados de su formación técnica o profesional, cuando se acredite que hayan ocupado en su planta de trabajadores el 10% o más de dichas personas; y
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
+II. Bonificación hasta del 50% del monto pagado del impuesto sobre nomina, previsto en la Ley de Hacienda del Estado de Tabasco, correspondiente a las erogaciones efectuadas a los trabajadores de 60 años o más, personas con discapacidad o jóvenes recién egresados de su formación técnica o profesional, cuando se acredite que hayan ocupado en su planta de trabajadores el 20% o más de dichas personas.
+
+En lo que respecta a los jóvenes egresados a que se refiere este articulo, la bonificación aplicará tratándose de aquellos que cuenten con título expedido por instituciones educativas establecidas en el Estado y solo se otorgará en un periodo no mayor a un año a partir de su egreso y la duración del estimulo será de un año a partir de la contratación de la persona de que se trate.
+
+El Reglamento de esta Ley, establecerá las bases para la aplicación y acreditación de los estímulos señalados en este precepto.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE MAYO DE 2010)</small>
+
+### CAPITULO III BIS. DEL FIDEICOMISO PARA EL FOMENTO Y DESARROLLO DE LAS EMPRESAS DEL ESTADO DE TABASCO
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+
+###### Artículo 6 Quater.
+
+El Fideicomiso para el Fomento y Desarrollo de las Empresas del Estado de Tabasco, tendrá por objeto, integrar un fondo para ofrecer, a las empresas de Tabasco, susceptibles de recibir apoyos e incentivos en los términos del artículo 6 de esta Ley, una fuente de financiamiento para sus proyectos de inversión de forma suficiente, oportuna y ágil, tomando en consideración su viabilidad, rentabilidad e impacto social en el desarrollo económico del Estado.
+
+El Fideicomiso señalado en el párrafo anterior, tendrá el carácter de Público y será integrado y administrado, conforme a lo dispuesto en la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco y demás disposiciones legales aplicables.
+
+El órgano de gobierno de dicho fideicomiso será constituido al menos con el cuarenta por ciento de sus integrantes quienes deberán ser representantes de los organismos nacionales y locales empresariales formalmente constituidos con representación en la localidad y sujetos de la presente Ley; mismos que serán propuestos a través de sus consejos directivos locales y con la aprobación mayoritaria de los integrantes del Consejo Coordinador Empresarial del Estado de Tabasco.
+
+El Fideicomiso para el Fomento Económico, será integrado y ejecutado en los términos establecidos por esta Ley, su Reglamento y las reglas de operación que para tal efecto expida la Secretaría, las cuales a su vez serán publicadas en el Periódico Oficial del Estado, dos diarios de mayor circulación estatal y en los medios electrónicos disponibles.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+
+###### Artículo 6 Quinquies.
+
+El patrimonio del Fideicomiso para el Fomento Económico, se integrará con:
+
+I. Las aportaciones anuales que efectúe el Gobierno del Estado de Tabasco, que serán, del 20% de la recaudación del Impuesto Sobre Nóminas que obtenga el Estado, por la aplicación del 2.5 % que establece la fracción II del artículo 25 de la Ley de Hacienda del Estado de Tabasco. Exceptuándose las cantidades que paguen los Municipios, sus órganos y entidades.
+
+II. En su caso con aportaciones de entidades públicas o privadas;
+
+III. Los productos de sus operaciones; y
+
+IV. Los demás recursos que se generen por cualquier otro concepto.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MAYO DE 2010)</small>
+
+### CAPITULO IV. DEL OTORGAMIENTO Y EJECUCION DE INCENTIVOS
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
 
 ###### Artículo 7.
 
-El Comité Dictaminador del Estado dispondrá el porcentaje, monto, tipo y plazo de los incentivos; de acuerdo a lo previsto en el artículo 6, fracciones I, apartado A, inciso b, segundo párrafo, II, apartado A, inciso b, segundo párrafo y III, apartado A, inciso b, segundo párrafo. A ese efecto, este Comité preparará los estudios y propuestas, teniendo en cuenta el equilibrio necesario entre las acciones de fomento y de presupuesto asignado.
+El Comité Dictaminador del Estado dispondrá el porcentaje, monto, tipo y plazo de los incentivos; de acuerdo a lo previsto en el artículo 6, fracciones I, apartado A, inciso b, segundo párrafo, II, apartado A, inciso b, segundo párrafo y III, apartado A, inciso b, segundo párrafo y en el articulo 6 Ter. A ese efecto este Comité preparará los estudios y propuestas, teniendo en cuenta el equilibrio necesario entre las acciones de fomento y de presupuesto asignado.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
 
 ###### Artículo 8.
 
-La solicitud para el otorgamiento de un incentivo deberá ser dirigida al Gobernador del Estado; presentada por conducto de la Secretaría de Desarrollo Económico y Turismo; acompañada de una copia para los integrantes del Comité Dictaminador.
+La solicitud para el otorgamiento de un incentivo deberá ser dirigida al Gobernador del Estado; presentada por conducto de la Secretaría; acompañada de una copia para los integrantes del Comité Dictaminador.
 
 ###### Artículo 9.
 
@@ -569,11 +741,11 @@ El solicitante deberá satisfacer todos y cada uno de los requisitos que de acue
 
 El Comité Dictaminador, analizará en pleno la solicitud presentada y, otorgará o negará la aprobación correspondiente; y rendirá informe fundado y justificado al Gobernador del Estado, acerca de si cumple o no los requisitos legales. En el mismo documento señalará su admisión o rechazo, en su caso; y de ser procedente, el porcentaje, monto, tipo y plazo de incentivos que le serán otorgados.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
 
 ###### Artículo 12.
 
-La resolución definitiva que emane del Comité Dictaminador, deberá ser remitida al Gobernador del Estado para su conocimiento y será notificada en forma personal al solicitante, en el domicilio que al efecto hubiere señalado, por conducto de la Secretaría de Desarrollo Económico y Turismo.
+La resolución definitiva que emane del Comité Dictaminador, deberá ser remitida al Gobernador del Estado para su conocimiento y será notificada en forma personal al solicitante, en el domicilio que al efecto hubiere señalado, por conducto de la Secretaría.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
 
@@ -587,61 +759,35 @@ En el término de quince días hábiles, contados a partir del día siguiente a 
 
 El interesado, cuya solicitud hubiere sido rechazada, podrá presentarla nuevamente; siempre y cuando al hacerlo acredite haber dado cumplimiento a las condiciones legales y superado las faltas u omisiones en que incurrió en su solicitud anterior. El Comité Dictaminador no tramitará la nueva solicitud si es evidente que no cumple las condiciones indicadas; esta determinación debe ser notificada al solicitante.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
 
 ###### Artículo 15.
 
-Cuando por circunstancias supervenientes, posteriores al otorgamiento de cualquier incentivo, se puedan modificar las condiciones que lo fundaron, el interesado deberá dar aviso a la Secretaría de Desarrollo Económico y Turismo antes de seguir ejerciendo el derecho al incentivo. En este caso, se formulará otra solicitud que deberá ser analizada por el Comité Dictaminador y resuelta por el Gobernador del Estado, en la forma y términos que se precisan en este mismo Capítulo.
+Cuando por circunstancias supervenientes, posteriores al otorgamiento de cualquier incentivo, se puedan modificar las condiciones que lo fundaron, el interesado deberá dar aviso a la Secretaría, antes de seguir ejerciendo el derecho al incentivo. En este caso, se formulará otra solicitud que deberá ser analizada y resuelta por el Comité Dictaminador, en la forma y términos que se precisan en esta Ley.
 
-### CAPITULO VII. DE LAS SANCIONES
+> <small>(REFORMADA SU NUMERACION, P.O. 1 DE MAYO DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
+### CAPITULO IV (SIC). DEL COMITÉ DICTAMINADOR
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
 
 ###### Artículo 16.
 
-El Comité Dictaminador constituye un organismo mixto presidido por la Secretaría de Desarrollo Económico y Turismo y estará integrado por los siguientes miembros permanentes que tendrán voz y voto:
+El Comité Dictaminador constituye un órgano mixto, de carácter honorífico, presidido por el Titular de la Secretaría y estará integrado por los siguientes miembros permanentes que tendrán voz y voto:
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2006)</small>
+I. El Secretario de Desarrollo Económico;
 
-I. El Secretario de Desarrollo Económico y Turismo.
+II. El Secretario de Administración y Finanzas;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2006)</small>
+III. El Secretario de Contraloría;
 
-II.- El Secretario de Finanzas.
+IV. El Secretario de Turismo;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2006)</small>
+V. El Presidente del Consejo Coordinador Empresarial del Estado de Tabasco; y
 
-III.- El Secretario de la Contraloría.
+VI. Dos representantes empresariales electos por el Consejo a que se refiere la fracción anterior.
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2006)</small>
-
-IV. El Secretario de Desarrollo Social y Protección del Medio Ambiente.
-
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2006)</small>
-
-V. El Secretario de Desarrollo Agropecuario, Forestal y Pesca.
-
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2006)</small>
-
-VI. El Secretario de Comunicaciones, Asentamientos y Obras Públicas.
-
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2006)</small>
-
-VII. El Coordinador del Comité de Planeación para el Desarrollo del Estado de Tabasco.
-
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2006)</small>
-
-VIII. El Presidente del Comité Directivo del Consejo Coordinador Empresarial del Estado de Tabasco, en calidad de miembro honorífico.
-
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2006)</small>
-
-IX. Seis representantes, en calidad de miembros honoríficos, de los organismos nacionales y locales empresariales formalmente constituidos como representación en la localidad y sujetos de la presente Ley; mismos que serán propuestos a través de sus consejos directivos locales y con la aprobación mayoritaria de los integrantes del Consejo Consultivo del Consejo Coordinador Empresarial del Estado de Tabasco, y
-
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2006)</small>
-
-X. El Presidente de la Comisión Permanente de Fomento y Desarrollo Industrial, Económico, Artesanal, Comercial y Turístico del Poder Legislativo.
-
-Asimismo, se nombrará un representante suplente de cada uno de los titulares que entrará en funciones sólo en ausencia del titular.
+Cada titular, nombrará un representante suplente, que entrará en funciones solo en ausencia del titular.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
 
@@ -655,11 +801,11 @@ El Comité Dictaminador estará presidido por el Titular, o en su caso, por el S
 
 Por acuerdo de sus integrantes, el Comité Dictaminador podrá invitar a que participe en sus reuniones, con voz pero sin voto, al Titular de otra Dependencia del Ejecutivo; y a otros representantes del sector privado. Así mismo, deberá invitarse al Presidente Municipal de la localidad en que pudiera otorgarse el apoyo, a fin de que participe, con voz y voto, en dichas reuniones.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
 
 ###### Artículo 19.
 
-El Comité Dictaminador sesionará ordinariamente, por lo menos una vez cada dos meses, en el domicilio de la Secretaría de Desarrollo Económico y Turismo, con la presencia de los titulares. Podrá auxiliarse de un Secretario no miembro que será designado por el Presidente, que tendrá a su cargo el levantamiento de las actas respectivas y de su conservación. El Presidente y el Secretario harán las convocatorias respectivas por escrito, mismas que se notificarán a los otros miembros del Comité.
+El Comité Dictaminador sesionará ordinariamente, por lo menos una vez cada dos meses, en el domicilio de la Secretaría, y podrá auxiliarse de un servidor público no miembro del comité que fungirá como secretario, mismo, que será designado por el Presidente, y que tendrá a su cargo, el levantamiento de las actas respectivas, la conservación de las mismas y demás funciones que le designe el Presidente. Las convocatorias respectivas serán formuladas por escrito, por el Presidente y se notificarán a los otros miembros del Comité. Estas sesiones podrán dispensarse sino existieren solicitudes que atender.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
 
@@ -673,33 +819,91 @@ El Comité Dictaminador resolverá, para su aprobación o rechazo, todas las sol
 
 Además de las facultades que se le atribuyen en los artículos precedentes, el Comité Dictaminador tendrá a su cargo la supervisión del cumplimiento de los acuerdos tomados, así como el impulso y seguimiento de la estrategia de desarrollo económico en el Estado. A este efecto, queda facultado para apoyar en todo momento el desarrollo económico del Estado, de conformidad con las prioridades establecidas en esta Ley, propiciando el consumo de materias primas y productos elaborados en el Estado, la utilización de la mano de obra local en todos sus niveles, el fortalecimiento de la planta comercial, de la industria, el sector de la construcción, la vivienda; así como la investigación tecnológica y de mercados que impulsen integralmente el desarrollo de la economía estatal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MAYO DE 2010)</small>
 
-### CAPITULO VIII. DE LOS RECURSOS
+### CAPITULO VI. DEL PREMIO A LA COMPETITIVIDAD Y A LA CALIDAD EMPRESARIAL TABASCO
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
 
 ###### Artículo 22.
 
-Para su adecuado funcionamiento, el Comité Dictaminador podrá solicitar su opinión, como órgano externo de consulta, al Consejo de Promoción Nacional e Internacional de Tabasco, cuya creación se establece en la Ley Orgánica del Poder Ejecutivo Vigente.
+El Poder Ejecutivo del Estado a través de la Secretaría, instituirá el Premio a la Competitividad y la Calidad Empresarial Tabasco, que se otorgará a las personas físicas o jurídicas colectivas de los sectores industrial, comercial, turismo y de servicios en el Estado, que se distingan por tener implementados de manera exitosa, sistemas de calidad total, que destaquen competitivamente por sus servicios o productos, por la generación de empleos o su contribución al desarrollo estatal.
+
+El comité coordinador del premio, emitirá oportunamente una convocatoria en la cual se señalarán las bases y los procedimientos a que deberán sujetarse los participantes.
+
+Los acreedores del premio, recibirán un reconocimiento que podrá ser económico o placa alusiva y holograma, y que podrán utilizar como emblema, que los acredite como ganadores para difundir y promocionar local, nacional e internacionalmente sus productos o servicios.
+
+El premio será entregado anualmente por el Gobernador del Estado, en un acto solemne que se celebrará en el mes de enero. Se otorgará en cuatro modalidades para las categorías de micro, pequeña, mediana y grande empresa.
+
+Para esta clasificación se tomarán en cuenta los parámetros que establece la Secretaría de Economía del gobierno federal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE MAYO DE 2010)</small>
 
 ###### Artículo 23.
 
-(DEROGADO, P.O. 24 DE JUNIO DE 2006)
+El comité coordinador del premio, será de carácter honorífico y estará integrado por:
+
+I. El Secretario de Desarrollo Económico del Estado quien lo presidirá;
+
+II. El Delegado de la Secretaría de Economía del gobierno federal;
+
+III. El rector de la Universidad Juárez Autónoma de Tabasco; y
+
+IV. Tres representantes del Consejo Coordinador empresarial de Tabasco.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+
+###### Artículo 23 Bis.
+
+El Comité tendrá las siguientes facultades:
+
+I. Otorgar, y establecer las bases y las características del premio a la Competitividad y Calidad Empresarial Tabasco;
+
+II. Publicar con la suficiente anticipación la convocatoria para los aspirantes al premio, en la cual se señalaran las bases y procedimientos a que deberán sujetarse los participantes;
+
+III. Controlar y substanciar el proceso para otorgar el premio;
+
+IV. Registrar y evaluar las solicitudes de los aspirantes;
+
+V. Designar las comisiones pertinentes que se encarguen de la evaluación, análisis, verificación y selección de las personas físicas y/o jurídicas colectivas participantes;
+
+VI. Emitir el fallo respectivo, con base en la propuesta de la Comisión de Evaluación;
+
+VII. Organizar la ceremonia anual de premiación; y
+
+VIII. Las demás que sean necesarias para el cumplimiento de sus funciones.
+
+El fallo del Comité, se dictará con el voto aprobatorio de la mayoría de los miembros que lo integren, teniendo su presidente voto de calidad en caso de empate y su resolución será inapelable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE MAYO DE 2010)</small>
 
 ###### Artículo 24.
 
-(DEROGADO, P.O. 24 DE JUNIO DE 2006)
+La Secretaría, sin perjuicio de lo establecido en los preceptos anteriores, podrá proponer anualmente la entrega de reconocimientos a empresas tabasqueñas que se distingan en cualquiera de los siguientes aspectos:
+
+a) Contribuyan al desarrollo y la innovación científica y tecnológica;
+
+b) Realizar acciones a favor del desarrollo sustentable y para mejorar el medio ambiente;
+
+c) Desarrollar procedimientos para incrementar la competitividad y productividad del recurso humano;
+
+d) Incorporar adultos mayores y personas con discapacidad a su planta laboral; y
+
+e) Participen activamente en el comercio exterior.
 
 ###### Artículo 25.
 
 (DEROGADO, P.O. 24 DE JUNIO DE 2006)
 
+### CAPITULO VII. DE LAS SANCIONES
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+
 ###### Artículo 26.
 
-La facultad de aplicar sanciones administrativas a los solicitantes de incentivos que incurran en las conductas que más adelante se enlistan, corresponde al Comité Dictaminador, a excepción de la señalada en el artículo 27, fracción III, de esta Ley que corresponderá a la Secretaría de Desarrollo Económico y Turismo por conducto de la Dirección, Unidad, Departamento o Área Jurídica.
+La facultad de aplicar sanciones administrativas a los solicitantes de incentivos que incurran en las conductas que más adelante se enlistan, corresponde al Comité Dictaminador, a excepción de la señalada en el artículo 27, fracción III, de esta Ley, que corresponderá a la Secretaría por conducto de la Dirección jurídica o su similar.
 
-La Secretaría de Desarrollo Económico y Turismo comunicará a los interesados, mediante notificación personal, las sanciones a que se hayan hecho acreedores.
+La Secretaría comunicará a los interesados, mediante notificación personal, las sanciones a que se hayan hecho acreedores.
 
 ###### Artículo 27.
 
@@ -715,23 +919,23 @@ a). Aporte información falsa para obtener el otorgamiento de los incentivos;
 
 b). Aproveche los apoyos directos e indirectos para fines distintos a los señalados en la solicitud;
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
 
-c) Ceda a terceros los beneficios económicos, salvo que previamente hubieren recabado autorización del Comité Dictaminador de la Secretaría de Desarrollo Económico y Turismo;
+c). Ceda a terceros los beneficios económicos, salvo que previamente hubieren recabado autorización del Comité Dictaminador de la Secretaría;
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
 
-d) Inicie operaciones después del plazo fijado en la resolución favorable sin haber notificado a la Secretaría de Desarrollo Económico y Turismo, con una anticipación no menor a 30 días hábiles; y
+d). Inicie operaciones después del plazo fijado en la resolución favorable sin haber notificado a la Secretaría, con una anticipación no menor a 30 días hábiles; y
 
-e) No dé aviso en un término no mayor de 30 días de la reubicación de sus instalaciones; del cambio en el monto de la inversión; del número de empleos o del cambio de giro.
+e). No dé aviso en un término no mayor de 30 días de la reubicación de sus instalaciones; del cambio en el monto de la inversión; del número de empleos o del cambio de giro.
 
 II. Que el beneficiario:
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
 
-a) No acate las disposiciones de la ley de Protección Ambiental del Estado de Tabasco y reglamentos que de ella emanen; y
+a). No acate las disposiciones de la ley de Protección Ambiental del Estado de Tabasco y reglamentos que de ella emanen; y
 
-b) No respete las reservas ecológicas o las áreas urbanas y agrícolas del Estado.
+b). No respete las reservas ecológicas o las áreas urbanas y agrícolas del Estado.
 
 > <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2006)</small>
 
@@ -749,19 +953,23 @@ En el caso de la fracción III del artículo 27 de esta Ley, la sanción consist
 
 El solicitante que haya sido sancionado no tendrá derecho en lo sucesivo a presentar solicitud para acogerse a los beneficios de esta Ley.
 
+### CAPITULO VIII. DE LOS RECURSOS
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+
 ###### Artículo 30.
 
-Las resoluciones del Comité Dictaminador y las sanciones impuestas por la Dirección, Unidad, Departamento o Área Jurídica de la Secretaría de Desarrollo Económico y Turismo podrán ser impugnadas a través del recurso de revocación.
+Las resoluciones del Comité Dictaminador y las sanciones impuestas por la Dirección jurídica o su similar de la Secretaría, podrán ser impugnadas a través del recurso de revocación.
 
 ###### Artículo 31.
 
 El interesado mediante el recurso de revocación promoverá la modificación de la resolución reclamada, a efecto de que se dicte otra nueva, en caso de que sean procedentes los agravios y pruebas que haga valer.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
 
 ###### Artículo 32.
 
-El recurso de la revocación se interpondrá por escrito ante la Secretaría de Desarrollo Económico y Turismo, con copia para el Comité Dictaminador. En el escrito correspondiente, el recurrente expresará su nombre y domicilio; los antecedentes del acto que reclame y los agravios que, en su concepto, se le hayan causado con la resolución emitida. En el mismo escrito ofrecerá y acompañará las pruebas que a su derecho convenga, y propondrá los medios de desahogo.
+El recurso de la revocación se interpondrá por escrito ante la Secretaría, con copia para el Comité Dictaminador. En el escrito correspondiente, el recurrente expresará nombre y domicilio; los antecedentes del acto que reclame y los agravios que, en su concepto, se le hayan causado con la resolución emitida. En el mismo escrito ofrecerá y acompañará las pruebas que a su derecho convenga, y propondrá los medios de desahogo.
 
 ###### Artículo 33.
 
@@ -828,3 +1036,11 @@ El Ejecutivo Estatal en un término no mayor de cuarenta y cinco días naturales
 ###### Artículo 4°.
 
 El Comité Dictaminador, acorde a su nueva conformación, deberá ser instalado en un término no mayor de sesenta días naturales contados a partir de la vigencia del presente Decreto.
+
+P.O. 1 DE MAYO DE 2010.
+
+PRIMERO.- La presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El fideicomiso para el fomento y desarrollo de las empresas, a que se refiere el presente Decreto deberá quedar constituido a mas tardar el 31 de diciembre del presente año.
