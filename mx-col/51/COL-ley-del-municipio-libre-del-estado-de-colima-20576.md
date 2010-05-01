@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2009-02-14"
+last_updated: "2010-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2010.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -355,7 +355,7 @@ Los ayuntamientos electos se instalarán con la mayoría de sus miembros, en ses
 
 I. Lista de asistencia de los miembros del ayuntamiento saliente e instalación legal de la sesión;
 
-II. Lectura y aprobación, en su caso, del acta de la sesión anterior;
+II. (DEROGADA, P.O. 1 DE MAYO DE 2010)
 
 III. Nombramiento de la comisión que se encargue de invitar al recinto a los integrantes del ayuntamiento entrante;
 
@@ -386,6 +386,20 @@ Si en la fecha prevista en el párrafo anterior, asiste el número suficiente pa
 De presentarse a la sesión solemne el número suficiente de munícipes propietarios y suplentes electos para integrar quórum, pero no la totalidad, éstos recibirán el ayuntamiento, levantarán acta circunstanciada y llamarán a los propietarios restantes para que tomen posesión de sus cargos el 25 de octubre. Si en esta fecha los propietarios no se presentaren, los munícipes en funciones llamarán a los suplentes respectivos para que asuman las funciones de propietarios.
 
 Las disposiciones de este artículo serán aplicables, en lo conducente, en los casos de los concejales.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+
+ARTICULO 32 BIS.- En caso de que no se presenten la totalidad o la mayoría de los integrantes del ayuntamiento saliente, los munícipes entrantes procederán a celebrar la sesión de instalación del nuevo ayuntamiento, en los siguientes términos:
+
+I.- El síndico entrante verificará la presencia de la totalidad o la mayoría de los munícipes entrantes, procediendo a informar de ello al presidente municipal entrante, quien, en caso procedente, declarará el quórum legal e instalación legal de la sesión. De no estar presente el síndico, el propio presidente municipal verificará dicha presencia y hará la declaración de quórum e instalación legal de la sesión;
+
+II.- A continuación, el presidente municipal entrante procederá a la formulación de la protesta legal, en los términos establecidos en la fracción IV, del artículo 30 de esta Ley;
+
+III.- Hecho lo anterior, el presidente municipal tomará la protesta a los demás miembros del ayuntamiento, en los términos conducentes de la fracción anterior;
+
+IV.- Posteriormente, el presidente municipal hará la declaración de instalación del ayuntamiento, en los términos señalados en la fracción VI, del artículo 30 de esta Ley;
+
+V.- A continuación, el presidente municipal procederá a leer un mensaje y los lineamientos de trabajo del nuevo ayuntamiento.
 
 ###### ARTICULO 33.
 
@@ -498,6 +512,10 @@ En caso de empate en la votación de un asunto, éste se regresará nuevamente p
 Las sesiones de los ayuntamientos constarán en un libro de actas en el cual deberán de asentarse los extractos de los asuntos tratados, el resultado de la votación y fielmente los acuerdos tomados.
 
 Cuando los acuerdos se refieran a normas de carácter general que sean de observancia municipal o reglamentos, constarán íntegramente en el libro de actas, debiendo firmar las mismas los miembros del cabildo que hubieren estado presentes.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+
+ARTICULO 41 BIS.- En la sesión de cabildo anterior a la fecha establecida para la instalación del Ayuntamiento electo, se deberá aprobar el acta respectiva.
 
 ###### ARTICULO 42.
 
@@ -1860,3 +1878,7 @@ P.O. 4 DE OCTUBRE DE 2008.
 P.O. 14 DE FEBRERO DE 2009.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE MAYO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
