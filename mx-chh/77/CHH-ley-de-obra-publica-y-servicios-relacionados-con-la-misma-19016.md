@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-19016
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2009-05-23"
+last_updated: "2010-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2010
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de diciembre del 2000.
 
@@ -211,9 +211,9 @@ Los actos, contratos y convenios que se celebren o realicen en contravención a 
 
 Corresponde a los Entes Públicos llevar a cabo los procedimientos para contratar y ejecutar la obra pública y servicios relacionados con las mismas, por lo que en ningún caso se podrán contratar servicios para que por su cuenta y orden se contraten las obras o servicios de que se trate. Quedan exceptuados de esta disposición los Poderes Legislativo y Judicial.
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
 
-ARTICULO 15 BIS.- Los entes públicos a que se refiere el artículo 1o., se abstendrán de fijar en las obras públicas el nombre del o de los servidores públicos, de sus cónyuges o parientes consanguíneos hasta el cuarto grado, en vida, que, durante el periodo de ejecución de las mismas, se encuentren en el ejercicio de su encargo, o bien, de asignarles el nombre propio de alguno de ellos a tales obras.
+ARTICULO 15 BIS.- Los entes públicos a que se refiere el artículo 1o., se abstendrán de fijar en las obras públicas el nombre del o de los servidores públicos, de sus cónyuges o parientes consanguíneos hasta el cuarto grado, durante o después de la ejecución de la obra.
 
 ## TITULO SEGUNDO
 
@@ -307,11 +307,15 @@ XIV. Las instalaciones para que las personas con algún impedimento físico pued
 
 XV. Las demás previsiones que deban tomarse en cuenta según la naturaleza, ubicación, dimensiones, destino y demás características de la obra.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 19.
 
-Todo Ente Público estará obligado a prever los efectos sobre el medio ambiente que pueda causar la ejecución de la obra pública, con sustento en los estudios de impacto ambiental previstos por la Ley Ecológica para el Estado de Chihuahua.
+Todo Ente Público estará obligado a prever los efectos sobre el medio ambiente que pueda causar la ejecución de la obra pública, con sustento en los estudios de impacto ambiental previstos por la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chihuahua.
 
-Los proyectos deberán incluir las obras necesarias para que se preserven o restauren las condiciones ambientales cuando estas puedan deteriorarse, y se dará la intervención que corresponda a las dependencias federales, estatales y municipales que tengan atribuciones en la materia.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+
+En las edificaciones y proyectos futuros, se deberán incluir mecanismos, equipos y sistemas para el ahorro y uso racional del suelo, energía eléctrica y agua; así mismo, realizarán las obras necesarias para que se preserven o restauren las condiciones ambientales cuando éstas puedan deteriorarse, y se dará la intervención que corresponda a las dependencias federales, estatales y municipales que tengan atribuciones en la materia.
 
 > <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
 
@@ -1457,7 +1461,7 @@ Lo mismo se observará respecto a la intervención que otorgan a la ya inexisten
 
 ###### ARTÍCULO SEXTO.
 
-Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración o a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
 
 P.O. 30 DE JULIO DE 2008.
 
@@ -1476,3 +1480,23 @@ P.O. 23 DE MAYO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE MAYO DE 2010.
+
+DECRETO NUMERO 1055/2010 II P.O., POR EL QUE SE REFORMA EL ARTICULO 15 BIS DE LA LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE MAYO DE 2010.
+
+DECRETO NUMERO 1056/2010 II P.O., POR EL QUE SE REFORMA EL ARTICULO 19 DE LA LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Entes Públicos deberán implementar las adaptaciones descritas en el presente Decreto, en un plazo no mayor de un año a partir de la publicación del mismo.
