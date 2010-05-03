@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2009-09-17"
+last_updated: "2010-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -1094,9 +1094,15 @@ VI. Proponer, a las autoridades federales correspondientes, medidas preventivas 
 
 VII. Coordinarse con la Secretaría Federal, en el marco del Sistema Nacional de Salud, para el desarrollo de acciones contra las adicciones y de conformidad a los convenios respectivos;
 
-VIII. Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, en materia de adicciones, así como para la atención médica de las personas afectadas por éstas, y
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2010)</small>
 
-IX. Las demás que le establezcan las disposiciones legales aplicables.
+VIII. Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, en materia de adicciones, así como para la atención médica de las personas afectadas por éstas;
+
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2010)</small>
+
+IX. Coadyuvar con las autoridades federales competentes en la vigilancia y supervisión de los establecimientos especializados en adicciones, y
+
+X. Las demás que le establezcan las disposiciones legales aplicables.
 
 ### Capítulo XXI. Prevención y Atención Médica de Accidentes
 
@@ -1392,9 +1398,13 @@ XXXII. Patrocinio: La gestión o apoyo económico para la realización de evento
 
 XXXIII. Promoción: Las acciones tendientes a dar a conocer y lograr la pertenencia de la denominación, la entidad de algún bien o producto y servicio, mediante el obsequio de muestras e intercambio de beneficios y apoyos entre las partes;
 
-XXXIV. Tercero autorizado: Toda aquella persona física o moral acreditada por las autoridades sanitarias para ejercer las atribuciones que en derecho le concedan las mismas. Para su ejercicio deberán acreditar ante la Agencia, formación profesional en el área de salud, experiencia de 2 años en el campo de la salubridad local donde van a desempeñar esta actividad, así como aprobar el curso de capacitación que la Agencia ofrezca para esta actividad, y
+XXXIV. Tercero autorizado: Toda aquella persona física o moral acreditada por las autoridades sanitarias para ejercer las atribuciones que en derecho le concedan las mismas. Para su ejercicio deberán acreditar ante la Agencia, formación profesional en el área de salud, experiencia de 2 años en el campo de la salubridad local donde van a desempeñar esta actividad, así como aprobar el curso de capacitación que la Agencia ofrezca para esta actividad, y (sic)
 
-XXXV. Autocontrol: La acción voluntaria y espontánea de manifestar el cumplimiento de la regulación sanitaria.
+XXXV. Autocontrol: La acción voluntaria y espontánea de manifestar el cumplimiento de la regulación sanitaria;
+
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2010)</small>
+
+XXXVI. Establecimientos especializados en adicciones: Los establecimientos de carácter público, privado o social, fijos o móviles, cualquiera que sea su denominación, que proporcionan servicios para la atención específica de personas con consumo perjudicial o adicción a sustancias psicoactivas, y que, en cualquier caso, operan bajo un modelo de atención profesional, de ayuda mutua o mixto.
 
 ###### Artículo 104.
 
@@ -1458,9 +1468,15 @@ V. Establecer y cobrar derechos, aprovechamientos, contribuciones por mejoras, c
 
 VI. Recibir donativos y cualquier apoyo económico o en especie, por parte de personas físicas o morales, de naturaleza pública, privada o social;
 
-VII. Establecer disposiciones, medidas y procedimientos para salvaguardar la salubridad local, y
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2010)</small>
 
-VIII. En general, realizar todos aquellos actos que permitan preservar la salubridad local, de conformidad a los instrumentos jurídicos aplicables.
+VII. Establecer disposiciones, medidas y procedimientos para salvaguardar la salubridad local;
+
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2010)</small>
+
+VIII. Dar aviso a las autoridades federales respectivas sobre el incumplimiento de los lineamientos señalados en la NOM-028-SSA2-2009 por parte de los establecimientos especializados en adicciones o por que estos no brinden un trato digno y de respeto a los derechos humanos de los pacientes que se encuentren en tratamiento, con la finalidad de que inicien los procedimientos administrativos y penales contra quien resulte responsable, y
+
+IX. En general, realizar todos aquellos actos que permitan preservar la salubridad local, de conformidad a los instrumentos jurídicos aplicables.
 
 ### Capítulo II. De la Agencia de Protección Sanitaria del Gobierno del Distrito Federal
 
@@ -1490,9 +1506,13 @@ i) Cadáveres y agencias funerarias;
 
 j) Ambulancias y servicios de salud;
 
-k) Sanidad internacional, en los términos que señalen las disposiciones legales aplicables, y
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2010)</small>
 
-l) En todos aquellos que sean delegados mediante los Acuerdos de Coordinación que se celebren con la Secretaría Federal;
+k) Establecimientos especializados en adicciones;
+
+l) Sanidad internacional, en los términos que señalen las disposiciones legales aplicables, y
+
+m) En todos aquellos que sean delegados mediante los Acuerdos de Coordinación que se celebren con la Secretaría Federal;
 
 II. Elaborar y emitir, en coordinación con otras autoridades competentes en los casos que proceda, las normas técnicas locales para la regulación y control sanitario de las materias de salubridad local;
 
@@ -2323,3 +2343,11 @@ Undécimo.- La Secretaría deberá crear un programa prioritario que garantice l
 Recinto de la Asamblea Legislativa del Distrito Federal, a los dieciocho días del mes de agosto del año dos mil nueve.- POR LA MESA DIRECTIVA.- DIP. ISAÍAS VILLA GONZÁLEZ, PRESIDENTE.- DIP. AVELINO MÉNDEZ RANGEL, SECRETARIO.- DIP. ELVIRA MURILLO MENDOZA, SECRETARIA.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiséis días del mes de agosto del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL.- MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSE ÁNGEL ÁVILA PEREZ.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO MIGUEL CARRILLO HUERTA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 3 DE MAYO DE 2010.
+
+Primero.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
