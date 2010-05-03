@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-finanzas-50133"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-10"
-last_updated: "2010-03-15"
+last_updated: "2010-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2010.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2006.
 
@@ -820,43 +820,57 @@ III.- Ordenar y efectuar la valuación catastral de los predios ubicados en el E
 
 IV.- Ordenar y efectuar la valuación comercial y la justipreciación de rentas que le sean solicitadas.
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2010)</small>
 
-V.- Realizar, integrar y actualizar la base de datos del Padrón Catastral del Estado.
+V.- Realizar los avalúos catastrales y comerciales a los Municipios que así lo soliciten, en los términos de los convenios que al efecto se celebren;
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2010)</small>
 
-VI.- Realizar, integrar y actualizar la cartografía de los predios urbanos y rústicos en el Estado.
+VI.- Realizar, integrar y actualizar la base de datos del Padrón Catastral del Estado;
 
 > <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
 
 VII.- Realizar, integrar y actualizar la cartografía de los predios urbanos y rústicos en el Estado.
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2010)</small>
 
-VIII.- Proporcionar apoyo a los municipios que así lo requieran, en la resolución a las inconformidades que los contribuyentes e interesados presenten respecto de las funciones de la Dirección General de Catastro.
+VIII.- Clasificar los inmuebles en urbanos y rústicos, según corresponda a sus características y a las disposiciones aplicables;
 
-IX.- Dictar las disposiciones administrativas y técnicas a que deban sujetarse los trabajos de valuación que realiza la Dirección;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2010)</small>
 
-X.- Controlar y actualizar el registro de peritos fiscales autorizados por el Secretario de Finanzas, para practicar avalúos y levantamientos topográficos de inmuebles;
+IX.- Proporcionar apoyo a los municipios que así lo requieran, en la resolución a las inconformidades que los contribuyentes e interesados presenten respecto de las funciones de la Dirección General de Catastro;
 
-XI.- Planear, organizar, dirigir y controlar las actividades que deban realizar las diligencias de la Dirección;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2010)</small>
 
-XII.- Proporcionar a los contribuyentes, servicio de orientación y asistencia para el cumplimiento de sus obligaciones en materia de su competencia;
+X.- Dictar las disposiciones administrativas y técnicas a que deban sujetarse los trabajos de valuación que realiza la dirección;
 
-XIII.- Expedir copias certificadas de los planos y demás documentos e informes relacionados con la materia de su competencia; y (sic)
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+XI.- Controlar y actualizar el registro de peritos fiscales autorizados por el secretario de finanzas, para practicar avalúos y levantamientos topográficos de inmuebles;
 
-XIV.- Realizar en el Padrón Catastral la inscripción de las anotaciones marginales y en su caso la cancelación de las mismas, que sean solicitadas por autoridades administrativas y judiciales en el ejercicio de sus funciones.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2010)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2010)</small>
+XII.- Planear, organizar, dirigir y controlar las actividades que deban realizar las diligencias de la dirección;
 
-XV.- Nombrar, designar, remover, cambiar de adscripción o radicación, comisionar, reasignar o trasladar y demás acciones previstas en los ordenamientos aplicables, a los servidores públicos, verificadores, notificadores y ejecutores que conforman las unidades administrativas a su cargo.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2010)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2010)</small>
+XIII.- Proporcionar a los contribuyentes, servicios de orientación y asistencia para el cumplimiento de sus obligaciones en materia de su competencia;
 
-XVI.- Las demás que le atribuya expresamente el Secretario y otros ordenamientos legales aplicables.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2010)</small>
+
+XIV.- Expedir copias certificadas de los planos y demás documentos e informes relacionados con la materia de su competencia;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2010)</small>
+
+XV.- Realizar en el Padrón Catastral la inscripción de las anotaciones marginales y en su caso la cancelación de las mismas, que sean solicitadas por autoridades administrativas y judiciales en el ejercicio de sus funciones;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2010)</small>
+
+XVI.- Nombrar, designar, remover, cambiar de adscripción o radicación, comisionar, reasignar o trasladar y demás acciones previstas en los ordenamientos aplicables, a los servidores públicos, verificadores, notificadores y ejecutores que conforman las unidades administrativas a su cargo; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2010)</small>
+
+XVII.- Las demás que le atribuya expresamente el Secretario y otros ordenamientos legales aplicables.
 
 ## TITULO VI
 
@@ -942,25 +956,23 @@ I.- Participar en la elaboración y presentación del informe ejecutivo mensual 
 
 II.- Participar en la integración de la información proporcionada por las áreas operativas para la elaboración de los proyectos anuales de Ley de Ingresos y Presupuesto de Egresos del Estado.
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
-
-III.- Participar en la integración de la información proporcionada por las áreas operativas para la elaboración de los proyectos anuales de Ley de Ingresos y Presupuesto de Egresos del Estado.
+III.- (DEROGADA, P.O. 3 DE MAYO DE 2010)
 
 > <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
 
 IV.- Planear, diagnosticar, evaluar y diseñar el modelo contable para el Estado, ante las instancias legales correspondientes.
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2010)</small>
 
-V.- Coordinar la planificación, levantamiento de información, diagnóstico, evaluación y diseño de prototipo y preparación de mapeo de eventos en las dependencias del sector central de gobierno, entidades paraestatales y en los municipios, para su implementación.
+V.- Coordinar la planeación, levantamiento de información, diagnóstico, evaluación, diseño de prototipo y preparación de mapeo de eventos en las dependencias del sector central de gobierno, entidades paraestatales y en los municipios, para su implementación.
 
 > <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
 
 VI.- Planear, diagnosticar y evaluar la posible herramienta informática a utilizar en el Estado.
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2010)</small>
 
-VII.- Coordinar con las áreas involucradas las acciones necesarias para el desarrollo de la herramienta informática de los sistemas de registros e integración de información financiera, sistematizándola en el módulo contable, módulo de formulación del presupuesto y el módulo de ejercicio del gasto y medios de pago.
+VII.- Coordinar con las áreas involucradas las acciones necesarias para el desarrollo de la herramienta informática de los sistemas de registro e integración de información financiera, sistematizándola en el modulo contable, modulo de formulación del presupuesto y el modulo de ejercicio del gasto y medios de pago.
 
 > <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
 
@@ -982,9 +994,9 @@ XI.- Asistir y participar en las reuniones del Comité Consultivo del Consejo Na
 
 XII.- Coordinar y dar seguimiento a las disposiciones relativas al tema de presupuesto basado en resultados y el sistema de evaluación del desempeño emitidos por el Consejo Nacional de Armonización Contable.
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2010)</small>
 
-XIII.- Controlar la administrar (sic) y operación del donativo del Banco Mundial en aplicación al proyecto de armonización contable en coordinación con las áreas que corresponda.
+XIII.- Controlar, administrar y operar los donativos de las Organizaciones Nacionales y/o Internacionales relativas al proyecto de armonización contable en coordinación con las áreas correspondientes.
 
 > <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
 
@@ -1240,9 +1252,13 @@ LVI.- Proporcionar la información y la cooperación técnica que le sean requer
 
 LVII.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las unidades administrativas bajo su línea de reporte y proponer al Secretario la fusión o desaparición en su caso, conforme a los lineamientos que determine el propio titular del ramo.
 
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2010)</small>
 
-LVIII.- Las demás que le confiera el Secretario.
+LVIII.- Tramitar y Gestionar los documentos maestros de la operación administrativa de la dependencia.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2010)</small>
+
+LIX.- Las demás que le confiera el Secretario.
 
 ## TITULO IX
 
@@ -1303,3 +1319,11 @@ SEGUNDO. El presente Acuerdo Administrativo entrará en vigor a partir del día 
 TERCERO. Todas las solicitudes de devolución que se encuentren pendientes por resolver, antes de la entrada en vigor del presente acuerdo, serán resueltos por parte de la Dirección de Recaudación de la Subsecretaría de Ingresos, aplicando la normatividad vigente y aplicable de acuerdo con la naturaleza de la contribución de que se trate, ya sea federal o local, en el momento de la presentación de las solicitudes por parte de los contribuyentes.
 
 CUARTO. La Secretaría de Finanzas del Gobierno del Estado de Aguascalientes podrá expedir en el ejercicio de sus atribuciones y facultades, siguiendo los procesos administrativos correspondientes y autorizados por las normas locales aplicables, las disposiciones de carácter general que sean necesarias para la debida y correcta aplicación del presente acuerdo administrativo, de conformidad con lo establecido en el ordinario 29, fracciones I, III y L de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes en relación con el artículo 6° del Código Fiscal del Estado de Aguascalientes.
+
+P.O. 3 DE MAYO DE 2010.
+
+PRIMERO. Publíquese por una sola vez en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Acuerdo Administrativo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+TERCERO. La Secretaría de Finanzas del Gobierno del Estado de Aguascalientes podrá expedir en el ejercicio de sus atribuciones y facultades, siguiendo los procesos administrativos correspondientes y autorizados por las normas locales aplicables, las disposiciones de carácter general que sean necesarias para la debida y correcta aplicación del presente acuerdo administrativo, de conformidad con lo establecido en el ordinario 29, fracciones I, III y L de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes en relación con el artículo 6° del Código Fiscal del Estado de Aguascalientes.
