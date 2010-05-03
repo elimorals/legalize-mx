@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-315-s10-21-x-2009-de-la-comision-de-71100"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-12-08"
-last_updated: "2009-12-08"
+last_updated: "2010-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71100&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-10-21"
 
 ACUERDO GENERAL DE LA COMISION DE ADMINISTRACION POR EL QUE SE CREA EL ORGANO AUXILIAR DENOMINADO VISITADURIA JUDICIAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION Y SE ESTABLECE EL PROCEDIMIENTO DE VISITAS A LAS SALAS REGIONALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE MAYO DE 2010.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 8 de diciembre de 2009.
 
@@ -151,7 +151,7 @@ II. Informar al Secretario Técnico la reprogramación de visitas que se determi
 
 III. Practicar, a través de uno o más de sus integrantes, las visitas ordinarias o extraordinarias conforme al programa anual de implementación de visitas aprobado por la Comisión;
 
-IV. Solicitar a la Comisión que se emitan las medidas provisionales que por su naturaleza y urgencia así lo ameriten, en caso de que durante el desarrollo de alguna visita, se advierta la existencia de algún acto que pudiera lesionar gravemente la impartición de justicia;
+IV. (ABROGADA [N. DE E. DEROGADA], D.O.F. 3 DE MAYO DE 2010)
 
 V. Dictaminar las actas de visita que se levanten e informar de los resultados de las mismas a la Comisión;
 
@@ -217,7 +217,9 @@ DE LAS VISITAS
 
 13. En la Visitaduría se designará a uno de sus integrantes para que realice la visita atinente, de conformidad con el programa aprobado, así como la designación de los Secretarios Técnicos necesarios para el desarrollo de la misma.
 
-14. Para la práctica de las visitas, el Visitador deberá informar al presidente de la Sala Regional, el día en que se iniciará la visita para que proceda a fijar el aviso correspondiente en los estrados de la Sala Regional respectiva, con dos días de anticipación. Dicho aviso deberá contener la fecha en que iniciará la inspección, y que durante el desarrollo de la visita se recibirán las quejas o denuncias que hubiere contra los servidores públicos de la Sala visitada.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2010)</small>
+
+14. Para la práctica de las visitas ordinarias, el Secretario Técnico informará al presidente de la Sala Regional, el día en que se iniciará la visita respectiva, así como los requerimientos específicos para su realización, a fin de que proceda a fijar el aviso correspondiente de la visita en los estrados de la Sala Regional respectiva, cuando menos con dos días de anticipación.
 
 15. El Visitador y los secretarios técnicos se constituirán en la Sala Regional visitada, debiéndose identificar con la credencial oficial del Tribunal.
 
@@ -227,7 +229,9 @@ DE LAS VISITAS
 
 Para los efectos del párrafo anterior se estará a lo dispuesto en los Lineamientos que regulan las jornadas de trabajo del Tribunal.
 
-18. Las visitas iniciarán a las nueve horas del día señalado para ello, salvo que por alguna circunstancia especial tenga que postergarse o adelantarse la hora o la fecha de inicio. Si se difiere la fecha será necesario fijar avisos al público indicando esa circunstancia.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2010)</small>
+
+18. Las visitas iniciarán a las nueve horas del día señalado para ello, salvo que por alguna circunstancia especial tenga que postergarse o adelantarse la hora o fecha de inicio, lo cual deberá comunicarse oportunamente al presidente de la Sala respectiva, para los efectos señalados en el numeral 14 de este Acuerdo.
 
 DE LAS VISITAS ORDINARIAS
 
@@ -241,11 +245,17 @@ DE LAS VISITAS ORDINARIAS
 
 23. Al finalizar la visita y antes del cierre del acta, el Visitador permitirá que los Magistrados y los titulares de las distintas áreas, se impongan del contenido de ésta, con el objeto de que manifiesten lo que a su derecho convenga, para lo cual contarán con un tiempo mínimo de cuatro horas y como máximo el que el Visitador determine.
 
-24. En la práctica de la visita se verificará:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE MAYO DE 2010)</small>
 
-I. Aspectos generales de la visita.
+24. En la práctica de las visitas se verificará:
 
-a) Que el aviso anunciando la visita haya sido colocado en los estrados del órgano visitado con la anticipación requerida por el numeral 14 de este Acuerdo, así como si en el mismo se contienen los datos a que se refiere este último numeral. Al acta que se levante, se anexará copia de dicho aviso;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE MAYO DE 2010)</small>
+
+I. Aspectos generales de la visita:
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2010)</small>
+
+a) Que el aviso anunciando la visita haya sido colocado en los estrados del órgano visitado con la anticipación requerida por el numeral 14 de este Acuerdo. Al acta que se levante, se anexará copia de dicho aviso;
 
 b) Solicitará al titular del órgano visitado, designe a un secretario que estará en todas las actuaciones que se practiquen durante la visita y proporcionará todos los elementos y datos que se le soliciten. Si el titular no hace la designación, la visita se realizará con el secretario del órgano que determine el propio Visitador;
 
@@ -273,7 +283,7 @@ b) Revisará si los registros en los documentos revisados coinciden con el movim
 
 c) Asentará cualquier hecho o acto del que se percate durante la práctica de la visita y que pudiera ser constitutivo de responsabilidad de cualquier funcionario o empleado del órgano visitado;
 
-d) Ejecutará las medidas provisionales que por su naturaleza y urgencia así lo ameriten, en caso de que durante el desarrollo de alguna visita, se advierta la existencia de algún acto que pudiera lesionar gravemente la impartición de justicia;
+d) (ABROGADO [N. DE E. DEROGADO], D.O.F. 3 DE MAYO DE 2010)
 
 e) Revisarán las condiciones en que se archivan los expedientes; los registros y demás documentos importantes, y las del local destinado para tal fin, así como las instalaciones de la Sala Regional visitada;
 
@@ -315,9 +325,9 @@ En la referida acta se asentarán:
 
 I. El desarrollo de los puntos a que se refieren los numerales 21 al 24 del presente Acuerdo;
 
-II. Las quejas o denuncias presentadas en contra de los titulares y demás servidores del órgano de que se trate;
+II. (ABROGADA [N. DE E. DEROGADA], D.O.F. 3 DE MAYO DE 2010)
 
-III. Las medidas provisionales que, en su caso, se hayan tomado, de acuerdo con el numeral 24, fracción III, inciso d) de este Acuerdo;
+III. (ABROGADA [N. DE E. DEROGADA], D.O.F. 3 DE MAYO DE 2010)
 
 VI (SIC). Las manifestaciones que respecto de la visita y/o del contenido del acta realicen los propios titulares o servidores públicos del órgano;
 
@@ -336,3 +346,9 @@ PRIMERO. El presente Acuerdo General entrará en vigor el primero de enero de do
 SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y en la página de intranet de este Organo Jurisdiccional.
 
 El Maestro Diego Gutiérrez Morales, Secretario de la Comisión de Administración del Poder Judicial de la Federación, con fundamento en lo dispuesto en el artículo 50, fracciones VIII y IX del Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación, CERTIFICA: que el presente ACUERDO GENERAL DE LA COMISION DE ADMINISTRACION POR EL QUE SE CREA EL ORGANO AUXILIAR DENOMINADO VISITADURIA JUDICIAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION Y SE ESTABLECE EL PROCEDIMIENTO DE VISITAS A LAS SALAS REGIONALES, fue aprobado por la Comisión de Administración mediante acuerdo número 315/S10(21-X-2009) en el ejercicio de las facultades que le confieren los artículos 205 y 209, fracciones III, IV y XXXI de la Ley Orgánica del Poder Judicial de la Federación, en la Décima Sesión Ordinaria, celebrada el veintiuno de octubre de dos mil nueve por sus integrantes presentes: Magistrada María del Carmen Alanis Figueroa, Presidenta de la Comisión; Magistrado Constancio Carrasco Daza, Magistrado del Tribunal Electoral del Poder Judicial de la Federación; Licenciada María Teresa Herrera Tello, Consejera de la Judicatura Federal del poder Judicial de la Federación, y Licenciado Jorge Efraín Moreno Collado, Consejero de la Judicatura Federal del Poder Judicial de la Federación; ante el Secretario de la comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, que autoriza y da fe. México, Distrito Federal a veinte de noviembre de dos mil nueve.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 3 DE MAYO DE 2010.
+
+TRANSITORIO. La presente reforma entrará en vigor a partir del día siguiente a su publicación en el Diario Oficial de la Federación.
