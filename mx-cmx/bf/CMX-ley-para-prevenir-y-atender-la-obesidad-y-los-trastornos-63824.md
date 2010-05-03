@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-y-atender-la-obesidad-y-los-trastornos-63824"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-23"
-last_updated: "2008-10-23"
+last_updated: "2010-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63824&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2008-09-18"
 ---
 # LEY PARA PREVENIR Y ATENDER LA OBESIDAD Y LOS TRASTORNOS ALIMENTICIOS EN EL DISTRITO FEDERAL
 
-LEY PARA PREVENIR Y ATENDER LA OBESIDAD Y LOS TRASTORNOS ALIMENTICIOS EN EL DISTRITO FEDERAL
+LEY PARA LA PREVENCION Y EL TRATAMIENTO DE LA OBESIDAD Y LOS TRASTORNOS ALIMENTICIOS EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 23 de octubre de 2008.
 
@@ -46,7 +46,11 @@ DECRETO POR EL QUE SE EXPIDE LA LEY PARA LA PREVENCIÓN Y EL TRATAMIENTO DE LA O
 
 ÚNICO.- Se expide la Ley para Prevenir y Atender la Obesidad y los Trastornos Alimenticios en el Distrito Federal, para quedar como sigue:
 
-LEY PARA PREVENIR Y ATENDER LA OBESIDAD Y LOS TRASTORNOS ALIMENTICIOS EN EL DISTRITO FEDERAL
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DENOMINACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 3 DE MAYO DE 2010)</small>
+
+LEY PARA LA PREVENCION Y EL TRATAMIENTO DE LA OBESIDAD Y LOS TRASTORNOS ALIMENTICIOS EN EL DISTRITO FEDERAL
 
 ### Capítulo I. DISPOSICIONES GENERALES
 
@@ -158,6 +162,132 @@ V. Expedir su reglamento interno, y
 
 VI. Las demás que le reconozca el Jefe de Gobierno del Distrito Federal, en los términos de la presente Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 3 DE MAYO DE 2010)</small>
+
+### Capítulo IV. DISTRIBUCIÓN DE COMPETENCIAS PARA LA PREVENCIÓN Y ATENCIÓN DE LA OBESIDAD Y LOS TRASTORNOS ALIMENTICIOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2010)</small>
+
+###### Artículo 11.
+
+La prevención y atención del sobrepeso, la obesidad y los trastornos alimenticios como problema de salud pública, son un asunto prioritario.
+
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública del Distrito Federal, así como los órganos de gobierno y autónomos, en el ámbito de sus respectivas competencias, desarrollarán acciones para dar cumplimiento al objeto de la presente Ley, utilizando incluso las nuevas tecnologías de información y comunicación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2010)</small>
+
+###### Artículo 12.
+
+Las instancias señaladas en el artículo anterior, sin menoscabo de las atribuciones que les confiere el marco jurídico del Distrito Federal, y con independencia de las que le señale la presente Ley, instrumentarán las políticas de prevención y atención integral relacionadas con el sobrepeso, la obesidad y los trastornos alimenticios que para tal efecto diseñe el Consejo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2010)</small>
+
+###### Artículo 13.
+
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública del Distrito Federal, así como los Órganos de Gobierno y Autónomos fomentarán rutinas de actividad física dentro de sus instalaciones, que permitan modificar hábitos laborales de sedentarismo y brinden beneficios a la salud de las y los trabajadores. Asimismo, promoverán espacios deportivos y de recreación para que su personal pueda acceder de manera gratuita.
+
+Para el desarrollo de estas acciones, deberán coordinarse con la Secretaría de Salud del Distrito Federal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2010)</small>
+
+###### Artículo 14.
+
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública del Distrito Federal en los Anteproyectos de Presupuestos que formulen, contendrán la previsión de gasto para el desarrollo de acciones de prevención y atención del sobrepeso, la obesidad, y los trastornos alimenticios entre su personal y, de conformidad con las atribuciones de la presente Ley, las que van dirigidas a la población en general.
+
+Los órganos de gobierno y autónomos harán lo conducente, de acuerdo a los lineamientos del ejercicio presupuestal que determinen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2010)</small>
+
+###### Artículo 15.
+
+Corresponde a la Secretaría de Salud del Distrito Federal, además de lo que señala la presente Ley:
+
+I. Diseñar, realizar y coordinar, campañas de prevención sobre nutrición y alimentación sana, difundiendo en los centros de salud, hospitales, planteles escolares y espacios públicos, las causas que provocan el sobrepeso, la obesidad y los trastornos alimenticios, así como las formas de prevenir y atender estos problemas;
+
+II. Aplicar un programa masivo para incentivar una alimentación saludable entre la población del Distrito Federal, y
+
+III. Generar y difundir bases de datos, desagregadas por grupo de edad, sexo y ubicación geográfica que registren la incidencia de trastornos alimenticios en la población indicando peso, talla y masa corporal, poniendo especial énfasis en los planteles de educación básica.
+
+En la realización de las acciones a las que se refieren las fracciones I y II de este artículo, se invitará a participar a organizaciones de la sociedad civil que trabajen en la materia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2010)</small>
+
+###### Artículo 16.
+
+Corresponde a la Secretaría de Educación del Distrito Federal, además de lo que señala la presente Ley:
+
+I. Fomentar el consumo de comida saludable en los planteles educativos a cargo del Gobierno del Distrito Federal y establecer la prohibición de distribuir, comercializar o fomentar el consumo de alimentos y bebidas con bajo valor nutricional que contengan altos contenidos de azúcares refinados, sal, colesterol, ácidos grasos saturados y transaturados, así como colaborar y gestionar ante las autoridades federales para que apliquen esta misma medida en los planteles escolares bajo su competencia y que se encuentren ubicados en el Distrito Federal;
+
+II. Realizar campañas de difusión en los planteles escolares del Distrito Federal, tanto de educación pública como privada, previa celebración de los convenios respectivos, sobre el mejoramiento de los hábitos alimenticios de las y los estudiantes de todos los niveles educativos, particularmente respecto a la prevención de la obesidad, el sobrepeso y los trastornos alimenticios;
+
+III. Facilitar el acceso libre y gratuito para niñas, niños y adolescentes en los lugares públicos para el deporte o la recreación ubicados en la Ciudad de México, a cargo del Gobierno del Distrito Federal;
+
+IV. Coadyuvar con las Delegaciones para aplicar una medida similar a la señalada en la fracción anterior, en las instalaciones a su cargo, y
+
+V. Incentivar la práctica del ejercicio y el deporte a través de la realización de campañas de promoción, como una medida para prevenir y contrarrestar el sobrepeso, la obesidad y los trastornos alimenticios, poniendo énfasis en la población infantil y adolescente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2010)</small>
+
+###### Artículo 17.
+
+La Secretaría de Gobierno del Distrito Federal llevará a cabo campañas de difusión para prevenir y erradicar cualquier tipo de discriminación hacia las personas que padecen sobrepeso, obesidad o trastornos alimenticios, dirigida especialmente a la población infantil y adolescente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2010)</small>
+
+###### Artículo 18.
+
+La Secretaría de Cultura del Distrito Federal fomentará actividades artísticas, culturales y recreativas de acceso libre y gratuito en museos, teatros y demás espacios culturales a su cargo, dirigidas especialmente a la población infantil y adolescente, para contrarrestar el sedentarismo como causa de sobrepeso, obesidad y trastornos alimenticios.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2010)</small>
+
+###### Artículo 19.
+
+Las Delegaciones, en el ámbito de sus competencias, desarrollarán acciones de difusión, instrumentarán acciones de acceso libre y gratuito en instalaciones deportivas, recreativas y culturales a su cargo, además fomentará actividades dirigidas a prevenir y atender el sobrepeso, la obesidad y los trastornos alimenticios, de manera especial en la población infantil y adolescente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2010)</small>
+
+###### Artículo 20.
+
+La Asamblea Legislativa del Distrito Federal, durante el análisis, discusión y aprobación del Presupuesto de Egresos para cada ejercicio fiscal, tomará en cuenta las previsiones de gasto de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública del Distrito Federal para dar cumplimiento a lo establecido en la presente Ley, debiendo asignar los recursos respectivos para la prevención y atención del sobrepeso, la obesidad y los trastornos alimenticios.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 3 DE MAYO DE 2010)</small>
+
+###### Artículo 21.
+
+Las instancias a las que se refiere la presente Ley, remitirán un informe a los 30 días naturales siguientes de concluido cada trimestre del año, al Consejo a través de su Secretaría Técnica, donde se detalle las acciones y el seguimiento que realizaron para dar cumplimiento a las políticas de prevención y atención integral relacionadas con el sobrepeso, la obesidad y los trastornos alimenticios que para tal efecto aquel diseñe, además de las atribuciones de la presente Ley, publicándolo su (sic) página de Internet.
+
+El Consejo emitirá una evaluación a dicho informe, mismo que contendrá una opinión sobre las mejoras que deben realizar dichas instancias para cumplir con la presente Ley. Asimismo, podrá solicitar la colaboración de la Asamblea Legislativa del Distrito Federal, a través de la Comisión de Salud y Asistencia Social, para la elaboración de dicho documento.
+
+### Capítulo V. EVALUACIÓN DE LAS ACCIONES PARA LA PREVENCIÓN Y ATENCIÓN DE LA OBESIDAD Y LOS TRASTORNOS ALIMENTICIOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2010)</small>
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor 30 días después de su publicación el (sic) la Gaceta Oficial del Distrito Federal.
@@ -171,3 +301,13 @@ CUARTO.- El Consejo contará con un plazo de 90 días contados a partir de su in
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintiocho días del mes de agosto del año dos mil ocho.- POR LA MESA DIRECTIVA.- DIP. AGUSTÍN CARLOS CASTILLA MARROQUÍN, PRESIDENTE.- SECRETARIA, DIP. LETICIA QUEZADA CONTRERAS.- SECRETARIO, DIP. ALFREDO VINALAY MORA.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciocho días del mes de septiembre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 3 DE MAYO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor a los 60 días contados a partir de su publicación en la Gaceta Oficial del Distrito Federal, salvo lo establecido en el artículo 21, cuya entrada en vigor será a partir del 1° de enero de 2011.
+
+SEGUNDO.- Los informes a los que se refiere el artículo 21 del presente Decreto será (sic) elaborado (sic) en los formatos que para tal efecto diseñe el Consejo para la Prevención y Atención Integral de la Obesidad y los Trastornos Alimenticios del Distrito Federal, mismos que serán remitidos a las instancias respectivas antes de la entrada en vigor de dicha disposición.
+
+TERCERO.- Para el diseño y aplicación de las acciones contenidas en el presente Decreto, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública del Distrito Federal, así como los órganos de gobierno y autónomos, en el ámbito de sus respectivas competencias, se auxiliarán de la Secretaría de Salud del Gobierno del Distrito Federal y del Consejo para la Prevención y Atención Integral de la Obesidad y los Trastornos Alimenticios del Distrito Federal.
