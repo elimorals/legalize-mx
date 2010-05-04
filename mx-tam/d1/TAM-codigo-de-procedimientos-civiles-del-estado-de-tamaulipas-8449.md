@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2010-01-07"
+last_updated: "2010-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -3305,9 +3305,11 @@ Será competente para decretar las providencias cautelares el juez que lo sea pa
 
 ### CAPITULO II. ALIMENTOS PROVISIONALES
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 443.
 
-En caso de urgente necesidad podrán decretarse alimentos provisionales hasta por el cincuenta por ciento del sueldo o salario del deudor alimentista, debiéndose tomar en cuenta el número de acreedores que ejerciten su derecho. Cuando el deudor no perciba sueldo o salario, los alimentos se cubrirán de sus demás bienes en la misma proporción.
+En caso de urgente necesidad podrán decretarse alimentos provisionales cuyo porcentaje no podrá ser un porcentaje inferior al 30 por ciento ni mayor del 50 por ciento del sueldo o salario del deudor alimentista, debiéndose tomar en cuenta el número de acreedores que ejercen su derecho. Cuando el deudor no perciba sueldo o salario, los alimentos se cubrirán de sus demás bienes en la misma proporción.
 
 ###### ARTICULO 444.
 
@@ -7630,3 +7632,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los juicios de pérdida de patria potestad que se encuentren en trámite al momento de entrar en vigor este Decreto, se substanciarán y resolverán de conformidad con las normas aplicables al momento de su inicio.
+
+P.O. 4 DE MAYO DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
