@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-direccion-general-de-imagen-y-60012"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-02"
-last_updated: "2008-02-02"
+last_updated: "2010-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA DIRECCION GENERAL DE IMAGEN Y PUBLICIDAD GUBERNAMENTAL
 
-REGLAMENTO INTERIOR DE LA DIRECCION GENERAL DE IMAGEN Y PUBLICIDAD GUBERNAMENTAL
+REGLAMENTO INTERIOR DE LA DIRECCIÓN GENERAL DE IMAGEN Y PUBLICIDAD GUBERNAMENTAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 4 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 2 de febrero de 2008.
 
@@ -222,3 +224,13 @@ COORDINADOR GENERAL DE COMUNICACIÓN SOCIAL Y RELACIONES PÚBLICAS
 LIC. ROBERTO NAVARRO CÁRDENAS
 
 DIRECTOR GENERAL DE IMAGEN Y PUBLICIDAD GUBERNAMENTAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE MAYO DE 2010.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día da su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con motivo de la extinción de (sic) Órgano Desconcentrado denominado Dirección General de Imagen y Publicidad Gubernamental, los derechos y obligaciones generados de las relaciones laborales existentes con sus servidores públicos, se sujetarán a lo dispuesto en la Ley de los Trabajadores al Servicio del Estado.
+
+TERCERO. Se derogan todas las disposiciones jurídicas que se opongan al presente Acuerdo.
