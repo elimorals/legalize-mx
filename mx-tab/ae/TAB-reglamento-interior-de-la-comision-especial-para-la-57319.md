@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-comision-especial-para-la-57319"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-19"
-last_updated: "2007-09-19"
+last_updated: "2010-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESPECIAL PARA LA TRANSFERENCIA DE SERVICIOS PUBLICOS A LOS MUNICIPIOS
 
-REGLAMENTO INTERIOR DE LA COMISION ESPECIAL PARA LA TRANSFERENCIA DE SERVICIOS PUBLICOS A LOS MUNICIPIOS
+REGLAMENTO INTERIOR DE LA COMISIÓN ESPECIAL PARA LA TRANSFERENCIA DE SERVICIOS PÚBLICOS A LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PRIMERO, PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 19 de septiembre de 2007.
 
@@ -414,3 +416,13 @@ SECRETARIO DE GOBIERNO.
 LIC. MIGUEL ALBERTO ROMERO PÉREZ.
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE MAYO DE 2010.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En tanto se realizan las reformas normativas correspondientes, los procedimientos derivados de la solicitud de transferencia de los servicios públicos a los municipios serán atendidos en términos de las disposiciones constitucionales y legales aplicables por Consejería Jurídica.
+
+TERCERO.- Con motivo de la extinción del Órgano Desconcentrado denominado Comisión Especial para la Transferencia de los Servicios Públicos a los Municipios, los derechos y obligaciones generados de las relaciones laborales existentes con sus servidores públicos, se sujetarán a lo dispuesto en la Ley de los Trabajadores al Servicio del Estado.
