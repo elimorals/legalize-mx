@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-unidad-de-atencion-social-74404"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-10"
-last_updated: "2009-01-10"
+last_updated: "2010-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74404&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA UNIDAD DE ATENCION SOCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL ACUERDO PUBLICADO EN EL NUMERO EXTRAORDINARIO DEL P.O. DE 4 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 10 de enero de 2009.
 
@@ -602,3 +604,13 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO
 BIOL. MARÍA TERESA CABRALES SANGUINO
 
 TITULAR DE LA UNASE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE MAYO DE 2010
+
+Artículo Primero.- El presente Decreto (sic) entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Con motivo de la desaparición del Órgano Desconcentrado denominado Coordinación General de Desarrollo Social, los derechos y obligaciones generados de las relaciones laborales existentes con sus servidores públicos, se sujetarán a lo dispuesto en la Ley de los Trabajadores al Servicio del Estado.
+
+Artículo Tercero.- Se derogan todas las disposiciones de igual rango o naturaleza que se opongan al presente decreto.
