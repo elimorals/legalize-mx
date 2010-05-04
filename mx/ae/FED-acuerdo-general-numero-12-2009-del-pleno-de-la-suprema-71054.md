@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-12-2009-del-pleno-de-la-suprema-71054"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-12-01"
-last_updated: "2009-12-01"
+last_updated: "2010-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71054&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-11-23"
 
 ACUERDO GENERAL NUMERO 12/2009, DE VEINTITRES DE NOVIEMBRE DE DOS MIL NUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LAS ATRIBUCIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO AL EJERCER LA COMPETENCIA DELEGADA PARA CONOCER DE LOS INCIDENTES DE INEJECUCION DE SENTENCIA Y DE REPETICION DEL ACTO RECLAMADO ASI COMO AL PROCEDIMIENTO QUE SE SEGUIRA EN ESTE ALTO TRIBUNAL AL CONOCER DE ESOS ASUNTOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MAYO DE 2010.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de diciembre de 2009.
 
@@ -59,7 +59,9 @@ SEGUNDO. Cuando un Juez de Distrito haya desarrollado el procedimiento de ejecuc
 
 TERCERO. Una vez que en un Tribunal Colegiado de Circuito se radique y registre un incidente de inejecución o una denuncia de repetición del acto reclamado de las indicadas en el considerando Cuarto de este Acuerdo se desarrollará el procedimiento siguiente:
 
-I. Mediante acuerdo de presidencia se requerirá a las autoridades responsables respecto de las cuales se hubiese concedido el amparo, a las diversas que se estimen vinculadas a su cumplimiento o a las que se impute la repetición, con copia a su superior jerárquico, en su caso, para que en un plazo de tres días hábiles, contados a partir de la legal notificación del proveído respectivo, demuestren ante el Juzgado de Distrito y ante el propio Tribunal, el acatamiento de la ejecutoria o haber dejado sin efectos el acto de repetición, o le expongan las razones que tengan en relación con el incumplimiento de la sentencia o con la repetición del acto reclamado, apercibiéndolas de que, en caso de ser omisas ante ese requerimiento, se continuará el procedimiento respectivo que puede culminar con una resolución en la que se aplique lo previsto en la fracción XVI del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL VEINTIDOS DE ABRIL DE DOS MIL DIEZ, D.O.F. 4 DE MAYO DE 2010)</small>
+
+I. Mediante acuerdo de presidencia se requerirá a las autoridades responsables respecto de las cuales se hubiese concedido el amparo, a las diversas que se estimen vinculadas a su cumplimiento o a las que se impute la repetición, con copia a los dos superiores jerárquicos de todas ellas, en su caso, para que en un plazo de tres días hábiles, contados a partir de la legal notificación del proveído respectivo, demuestren ante el Juzgado de Distrito y ante el propio Tribunal, el acatamiento de la ejecutoria o haber dejado sin efectos el acto de repetición, o le expongan las razones que tengan en relación con el incumplimiento de la sentencia o con la repetición del acto reclamado, apercibiéndolas de que, en caso de ser omisas ante ese requerimiento, se continuará el procedimiento respectivo que puede culminar con una resolución en la que se aplique lo previsto en la fracción XVI del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
 II. Los autos se remitirán al Magistrado que corresponda conforme al turno previamente establecido el cual contará, con quince días hábiles para presentar ante el Tribunal respectivo proyecto de resolución, en el que proponga:
 
@@ -126,3 +128,11 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Guillermo 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Este Acuerdo General Número 12/2009, RELATIVO A LAS ATRIBUCIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO AL EJERCER LA COMPETENCIA DELEGADA PARA CONOCER DE LOS INCIDENTES DE INEJECUCION DE SENTENCIA Y DE REPETICION DEL ACTO RECLAMADO ASI COMO AL PROCEDIMIENTO QUE SE SEGUIRA EN ESTE ALTO TRIBUNAL AL CONOCER DE ESOS ASUNTOS, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de diez votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Juan N. Silva Meza y Presidente Guillermo I. Ortiz Mayagoitia, salvo por lo que se refiere al párrafo segundo de su punto Sexto respecto del cual votaron en contra los señores Ministros Sergio Salvador Aguirre Anguiano, Margarita Beatriz Luna Ramos y José Fernando Franco González Salas en el sentido de que las Salas de este Alto Tribunal sí gozan de atribuciones para, en su caso, tener por cumplida una sentencia concesoria.- México, Distrito Federal, a veintitrés de noviembre de dos mil nueve.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia fotostática constante de veintisiete fojas útiles concuerda fiel y exactamente con el original del Acuerdo General Plenario 12/2009, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a veintitrés de noviembre de dos mil nueve.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 4 DE MAYO DE 2010.
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 12/2009 en dichos medios electrónicos.
