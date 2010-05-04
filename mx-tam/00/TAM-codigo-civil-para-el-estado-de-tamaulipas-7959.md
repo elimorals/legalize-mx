@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2010-01-07"
+last_updated: "2010-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2010.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1197,7 +1197,9 @@ ART. 286.- El obligado a dar alimentos cumple la obligación asignando una pensi
 
 ART. 287.- El deudor alimentista no podrá pedir que se incorpore a su familia al que debe recibir los alimentos, cuando se trate de un ex cónyuge que recibe alimentos del otro, y cuando haya inconveniente para hacer esa incorporación.
 
-ART. 288.- Los alimentos han de ser proporcionados a la posibilidad del que deba darlos y a la necesidad del que deba recibirlos.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2010)</small>
+
+ART. 288.- Los alimentos han de ser proporcionados a la posibilidad del que deba darlos y a la necesidad del que deba recibirlos, pero la proporción de éstos no podrá ser un porcentaje inferior al 30 por ciento ni mayor del 50 por ciento del sueldo o salario del deudor alimentista.
 
 ART. 289.- Si fuesen varios los que deben dar los alimentos el juez repartirá el importe entre ellos, en proporción a sus posibilidades económicas.
 
@@ -10002,3 +10004,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los juicios de pérdida de patria potestad que se encuentren en trámite al momento de entrar en vigor este Decreto, se substanciarán y resolverán de conformidad con las normas aplicables al momento de su inicio.
+
+P.O. 4 DE MAYO DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
