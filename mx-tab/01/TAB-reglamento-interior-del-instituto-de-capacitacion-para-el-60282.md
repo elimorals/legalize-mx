@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-de-capacitacion-para-el-60282
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-02"
-last_updated: "2008-02-02"
+last_updated: "2010-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION PARA EL DESARROLLO REGIONAL DE TABASCO
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION PARA EL DESARROLLO REGIONAL DE TABASCO
+REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACIÓN PARA EL DESARROLLO REGIONAL DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO, PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 2 de febrero de 2008.
 
@@ -490,3 +492,19 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO
 LIC. HUMBERTO DOMINGO MAYANS CANABAL
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE MAYO DE 2010.
+
+POR SU IMPORTANCIA SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- Se abroga el Acuerdo de Creación del Instituto de Capacitación para el Desarrollo Regional de Tabasco, publicado en un Suplemento al Periódico Oficial número 6744 de fecha 25 de abril de 2007; el Reglamento Interior del Instituto de Capacitación para el Desarrollo Regional de Tabasco, publicado en el Suplemento "D" al Periódico Oficial número 6825 de fecha 2 de febrero de 2008 y el Manual de Organización del Instituto de Capacitación para el Desarrollo Regional de Tabasco publicado en el Suplemento "B" al Periódico Oficial número 6957 de fecha 9 de mayo de 2009.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Con motivo de la disolución del Órgano Desconcentrado denominado Instituto de Capacitación para el Desarrollo Regional de Tabasco, los derechos y obligaciones generados de las relaciones laborales existentes con sus servidores públicos, se sujetarán a lo dispuesto en la Ley de los Trabajadores al Servicio del Estado.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente acuerdo.
