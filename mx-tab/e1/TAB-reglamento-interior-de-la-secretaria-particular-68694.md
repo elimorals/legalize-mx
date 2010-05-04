@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-particular-68694"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-13"
-last_updated: "2008-02-13"
+last_updated: "2010-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA PARTICULAR
 
-REGLAMENTO INTERIOR DE LA SECRETARIA PARTICULAR
+REGLAMENTO INTERIOR DE LA SECRETARÍA PARTICULAR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 13 de febrero de 2008.
 
@@ -85,13 +85,13 @@ Unidades de Apoyo
 
 - Unidad de Acceso a la Información.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2010)</small>
+
 Unidades Administrativas
 
-- Coordinación General de Asesores.
+- Secretaría Ejecutiva
 
-- Secretaría Ejecutiva.
-
-- Secretaría Técnica.
+- Secretaría Técnica
 
 - Coordinación General de Giras del Gobernador.
 
@@ -325,31 +325,13 @@ XI. Las demás que le confieren las disposiciones administrativas y las demás q
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS UNIDADES ADMINISTRATIVAS
 
-#### SECCIÓN PRIMERA. DE LA COORDINACIÓN GENERAL DE ASESORES
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 4 DE MAYO DE 2010)</small>
+
+#### SECCIÓN PRIMERA
 
 ###### ARTÍCULO 19.
 
-A la Coordinación General de Asesores le corresponde el ejercicio de las siguientes funciones:
-
-I. Establecer un método de trabajo para integrar en las tareas de gobierno, a los líderes de opinión de la iniciativa privada y grupos sociales, con fuerte presencia en las tareas del desarrollo, para consensar las decisiones de la Administración Pública Estatal;
-
-II. Normar la política para la integración, instalación, operación, seguimiento, y evaluación de los Consejos Consultivos de Participación Ciudadana que deberán establecerse a partir del Plan Estatal de Desarrollo;
-
-III. Establecer las bases para que en la integración de cada Consejo Consultivo de Participación Ciudadana se respete de manera directa la estructura sectorial y subsectorial que está implícita en el Plan Estatal de Desarrollo;
-
-IV. Definir las normas técnicas que permitan establecer el esquema de organización y él número de participantes que integran en cada Consejo Consultivo de Participación Ciudadana;
-
-V. Detallar los lineamientos y mecanismos de coordinación que deben establecer cada uno de los Consejos Consultivos de Participación Ciudadana que determine el Gobernador;
-
-VI. Proponer los mecanismos de participación, en los Consejos Consultivos de Participación Ciudadana, para los representantes de la iniciativa privada y los grupos sociales que estén vinculados con las tareas del sector respectivo;
-
-VII. La Coordinación de Asesores y los Consejos Consultivos, podrán estructurar nuevas estrategias de participación ciudadana;
-
-VIII. Apoyar la operación de los Consejos Consultivos de Participación Ciudadana con información sobre las áreas y temas que le competan;
-
-IX. Establecer el programa de trabajo de los Consejos Consultivos de Participación Ciudadana, fijando también la agenda de los mismos, así como los elementos para el seguimiento y control de los acuerdos; y
-
-X. Fijar las normas de evaluación sobre el trabajo y la operación de los Consejos Consultivos de Participación Ciudadana con el propósito de aprovechar al máximo la experiencia de sus integrantes.
+(DEROGADO, P.O. 4 DE MAYO DE 2010)
 
 #### SECCIÓN SEGUNDA. DE LA SECRETARÍA EJECUTIVA
 
@@ -636,3 +618,15 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO.
 C. SANTOS DEL CAMPO GARCÍA
 
 SECRETARIO PARTICULAR.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE MAYO DE 2010.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los activos patrimoniales constituidos por los bienes muebles e inmuebles y en general, los pasivos y obligaciones que tuviese la Coordinación General de Asesores, se incorporarán a la Secretaría Particular dependiente de Gubernatura.
+
+TERCERO. Con motivo de la extinción de la Unidad Administrativa denominada Coordinación General de Asesores, los derechos y obligaciones generados de las relaciones laborales existentes con sus servidores públicos, se sujetarán a lo dispuesto en la Ley de los Trabajadores al Servicio del Estado.
+
+CUARTO. Se derogan todas las disposiciones jurídicas que se opongan al presente Acuerdo.
