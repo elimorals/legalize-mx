@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-general-de-gobierno-22214"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-03"
-last_updated: "2008-01-05"
+last_updated: "2010-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 5 DE MAYO DEL 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de octubre de 2001.
 
@@ -682,3 +684,15 @@ LIC. ARTURO NAHLE GARCIA.
 P.O. 5 DE ENERO DE 2008.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 5 DE MAYO DEL 2010.
+
+Primero.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se derogan las disposiciones administrativas que se opongan a este ordenamiento.
+
+Tercero.- Se abroga el Reglamento Interior de la Secretaría General de Gobierno, publicado en el Periódico Oficial, Órgano del Gobierno del Estado el 03 de octubre del año 2001, en Suplemento número 2 al número 79.
+
+Cuarto.- Los asuntos que se encuentran en trámite a cargo de las unidades administrativas que se modifican o cambian de adscripción, los continuará y resolverá la unidad administrativa que este Reglamento señala como competente.
+
+Quinto.- Los manuales de organización, de procedimientos y servicios al público, deberán elaborarse y adecuarse al presente Reglamento dentro del término de noventa días siguientes a la entrada en vigor de este Reglamento. La Coordinación Administrativa, será la instancia encargada de la reestructuración y reasignación de los recursos humanos, materiales y financieros de la Secretaría.
