@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2009-11-21"
+last_updated: "2010-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -163,7 +163,9 @@ II.- Cuando alguno tenga acción o excepción que dependa del ejercicio de la ac
 
 Solo puede iniciar un procedimiento judicial o intervenir en él, quien tenga interés legítimo en que la autoridad judicial declare o constituya un derecho o imponga una condena y quien tenga interés contrario. De oficio o a petición de parte se llamará a quienes les resulte interés jurídico en juicio, ordenando su emplazamiento.
 
-Los interesados o sus representantes legítimos podrán comparecer en el juicio por sí o por otro con mandato judicial otorgado conforme a la ley sustantiva civil.
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2010)</small>
+
+Los interesados o sus representantes legítimos podrán comparecer en juicio por sí o por otro con mandato otorgado conforme a la ley sustantiva civil.
 
 ###### ARTICULO 10.
 
@@ -573,17 +575,29 @@ III.- La citación para absolución de posiciones o reconocimiento de firmas;
 
 IV.- Cuando se deje de actuar por más de dos meses consecutivos;
 
-V.- Cuando se estime que se trate de un caso urgente y así se ordene;
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+
+V.- Cuando se estime que se trate de un caso urgente;
 
 VI.- El requerimiento de un acto a la parte que deba cumplirlo;
 
 VII.- Todas las sentencias;
 
-VIII.- Las resoluciones que ordenen la ejecución de un lanzamiento de casa-habitación;
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
 
-IX.- La primera resolución dictada por Tribunal distinto al que previno en el conocimiento; y
+VIII.- Las resoluciones que ordenen la ejecución de un lanzamiento de casa habitación, comercio, o finca rústica;
 
-X.- En los demás casos que la Ley disponga.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+
+IX.- La primera resolución dictada por Tribunal distinto al que previno en el conocimiento;
+
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+
+X.- La citación a la apertura de la audiencia para el desahogo de pruebas; y
+
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2010)</small>
+
+XI.- En los demás casos que la ley disponga.
 
 ###### ARTICULO 69.
 
@@ -689,7 +703,9 @@ Cuando este código no señale términos para la práctica de un acto judicial, 
 
 I.- Ocho días para dictar sentencia de fondo, contados a partir de la citación, a menos que haya necesidad de examinar documentos voluminosos podrá disfrutarse de ocho días más.
 
-II.- Tres días para los demás casos, incluso para interponer por escrito recurso de apelación.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+
+II. Tres días para los demás casos.
 
 ## TITULO CUARTO. MEDIOS PREPARATORIOS Y MEDIDAS CAUTELARES
 
@@ -1363,6 +1379,10 @@ III. Cuando el que fue nombrado y aceptó el cargo lo renunciare después.
 
 ARTICULO 191"B".- Los honorarios de cada perito serán pagados por la parte que lo nombró, o en cuyo defecto lo hubiere nombrado el Juez, y el del tercero, por ambas partes, sin perjuicio de lo que disponga la resolución sobre condenación en costas.
 
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+Una vez que el Perito Tercero en discordia acepte el cargo conferido y se determine el monto de sus honorarios, previo a la emisión del dictamen, las partes habrán de exhibir mediante recibo oficial el 50% del costo de del peritaje, con apercibimiento que de no hacerlo, se les aplicarán los medios de apremio establecidos por la ley.
+
 > <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ARTICULO 191 "C".- La prueba genética de caracterización del ácido desoxirribonucleico de las células (ADN), tendrá valor probatorio pleno para acreditar la filiación de una persona que no ha sido reconocida legalmente, sujetándose a las siguientes disposiciones y requisitos:
@@ -1819,21 +1839,45 @@ La improcedencia de la aclaración motiva que se sancione a quien la hubiere sol
 
 #### SECCION TERCERA. EJECUTORIEDAD
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 258.
 
-Causan ejecutoria las sentencias definitivas:
+Causan ejecutoria las sentencias definitivas cuando:
 
-I.- Cuando fueren expresamente consentidas por las partes;
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
 
-II.- Cuando la Ley no concede recurso alguno;
+I. Expresamente fueren consentidas por las partes;
 
-III.- Cuando transcurran los términos para recurrirla sin que las partes hagan uso de ese derecho;
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
 
-IV.- Cuando hubieren sido recurridas y no continuare el recurso en el término legal; y
+II. La Ley no concede recurso alguno;
 
-V.- Las pronunciadas en segunda instancia.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+
+III. No hayan sido recurridas dentro del término;
+
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+
+IV. Hubieren sido recurridas y no continúe el recurso en el término legal; y
+
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+
+V. Sean pronunciadas en segunda instancia.
 
 En relación a las fracciones II a V, se entiende cuando no se promoviere juicio de amparo o que habiéndose planteado no se concediere.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+###### ARTICULO 258 Bis.
+
+El Juez a petición de parte procederá a la ejecución de la sentencia cuando promovido el juicio de amparo:
+
+I. No se solicite la suspensión del acto reclamado;
+
+II. Habiéndose solicitado y concedida no se deposite fianza para que surta sus efectos; y
+
+III. Cuando se niegue la suspensión definitiva.
 
 ###### ARTICULO 259.
 
@@ -2531,7 +2575,17 @@ Si la sentencia condena a no hacer, su infracción se resolverá en el pago de d
 
 Cuando en virtud de la sentencia o de la determinación del Juez deba entregarse alguna cosa inmueble, se procederá inmediatamente a poner en posesión de la misma a la persona en cuyo favor se haya resuelto, practicando a este fin todas las diligencias conducentes que solicite el interesado.
 
-Si la cosa fuere mueble y pudiere ser habida, se le mandará entregar al actor o al interesado que indicare la resolución. Si el obligado se resistiere, lo hará el ejecutor, quien podrá emplear el uso de la fuerza pública y aún mandar romper cerraduras.
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2010)</small>
+
+Si la cosa fuere mueble y pudiere ser habida, se le mandará entregar al actor o al interesado que indicare la resolución.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+Si el obligado se resistiera al acatamiento se hará uso de la fuerza pública y mandar romper cerraduras. Para tal fin la autoridad administrativa en forma inexcusable auxiliará a la autoridad judicial.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+De existir negativa al cumplimiento del mandato judicial se le dará vista al Ministerio Público.
 
 En caso de no poderse entregar los bienes señalados en la sentencia, se despachará la ejecución por la cantidad que señale el actor, que puede ser moderada prudentemente por el Juez, sin perjuicio de que se oponga al monto el deudor.
 
@@ -3329,6 +3383,20 @@ Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verifi
 
 El Juez tendrá en los procedimientos a que se refiere este libro, amplias facultades para investigar la verdad real y podrá ordenar la recepción de cualquier prueba aunque no la ofrezcan las partes.
 
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+ARTICULO 468 "A".- En los juicios de patria potestad, custodia o convivencia, se deberá recabar la opinión del menor de edad, siempre que de acuerdo a su edad y circunstancias personales sea factible escucharlo.
+
+La diligencia en la que se escuche la opinión del menor deberá de practicarse en audiencia especial ante el personal del Juzgado, debiendo concurrir el representante de la Procuraduría de la Defensa del Menor y la Familia y el Agente del Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+ARTICULO 468 "B".- El Juez en el auto de admisión de demanda ordenará una valoración psicológica a los menores así como una investigación de trabajo social en los domicilios habitual y laboral de las partes, independientemente de la que soliciten los interesados.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+ARTICULO 468 "C".- En el caso de menores que cuenten con la edad de entre cinco a diez años, la diligencia se llevará a cabo con la intervención necesaria de un perito en psicología o de pedagogía infantil a efecto de que asista al Juez en dicha diligencia; tratándose de menores de entre diez y diecisiete años, la diligencia podrá llevarse a cabo sin la asistencia de perito referido, salvo que del dictamen de valoración psicológica se evidencie la necesidad de su intervención.
+
 ###### ARTICULO 469.
 
 Cuando las cuestiones a que se refiere este libro, no impliquen controversia entre los interesados, se aplicarán en lo conducente, las disposiciones relativas a la jurisdicción voluntaria. En caso contrario, en lo no previsto, las de la contenciosa.
@@ -3849,11 +3917,37 @@ II.- Recibida la solicitud, el Juez mandará dar vista a quien procediere según
 
 III.- En la resolución, el Juez, si concede la autorización determinará la forma y modalidades del acto para el que haya sido solicitada y dictará las medidas que estime necesarias, procurando en todo el mayor beneficio y protección patrimonial del incapaz o ausente y que el autorizado justifique haber alcanzado el objeto.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE MAYO DE 2010)</small>
+
+### CAPITULO XVII. DE LA RECTIFICACIÓN Y MODIFICACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+ARTICULO 535 "A".- La rectificación y modificación de las actas del Registro Civil se promoverán por escrito de conformidad a lo previsto en el artículo 132, fracción IV del Código Civil.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+ARTICULO 535 "B".- Del escrito de demanda de rectificación y modificación de actas se correrá traslado al oficial del Registro Civil que la haya emitido, así como al ministerio público para que dentro del término de cinco días manifiesten lo que a su interés legal corresponda.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+ARTICULO 535 "C".- Las partes deberán ofrecer las pruebas que en derecho corresponda, en los escritos de demanda y contestación.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+ARTICULO 535 "D".- Contestada la demanda o transcurrido el término para ello se fijará fecha para el desahogo de pruebas que habrá de celebrarse en un término no mayor de cinco días.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+ARTICULO 535 "E".- desahogada la audiencia de pruebas, se turnará para resolución, la que se pronunciará dentro del término de ley.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+ARTICULO 535 "F".- Una vez que cause ejecutoria la sentencia, se ordenará se hagan las anotaciones en los libros de registro correspondientes, de conformidad a lo establecido en el artículo 133 del Código Civil.
 
 ## TITULO SEGUNDO. JUICIOS SUCESORIOS
 
-### CAPITULO II. CONTENIDO DE LOS JUICIOS SUCESORIOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 536.
 
@@ -4005,7 +4099,7 @@ Si durante la tramitación de un intestado apareciere el testamento, se sobresee
 
 En este caso, se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su facción.
 
-### CAPITULO III. TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR
+### CAPITULO II. CONTENIDO DE LOS JUICIOS SUCESORIOS
 
 #### SECCION TERCERA. ADMINISTRACION
 
@@ -4293,7 +4387,7 @@ V.- Expresión de las cantidades que algún heredero quede reconociendo a otro y
 
 La adjudicación de bienes hereditarios se otorgará con las formalidades que por su cuantía la ley exige para su venta. El notario que otorgará la escritura será designado por el albacea.
 
-### CAPITULO IV. DECLARACION DE SER FORMAL EL TESTAMENTO
+### CAPITULO III. TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR
 
 ###### ARTICULO 606.
 
@@ -4309,7 +4403,7 @@ IV.- Todas las resoluciones se harán constar en actas y no se requieren peticio
 
 V.- El acta o actas en que consten las adjudicaciones pueden servir de título de propiedad a los interesados.
 
-### CAPITULO V. TRAMITACION ANTE NOTARIO
+### CAPITULO IV. DECLARACION DE SER FORMAL EL TESTAMENTO
 
 ###### ARTICULO 607.
 
@@ -4381,9 +4475,7 @@ Recibidas las declaraciones, se procederá conforme al artículo 2709 del Códig
 
 #### SECCION SEGUNDA. LITISPENDENCIA
 
-### CAPITULO I. DE PREVIO Y ESPECIAL PRONUNCIAMIENTO
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+### CAPITULO V. TRAMITACION ANTE NOTARIO
 
 ###### ARTICULO 617.
 
@@ -4421,9 +4513,9 @@ Los incidentes se tramitarán, cualquiera que sea su naturaleza, con un escrito 
 
 Si no se promovieren pruebas, se citará para interlocutoria o se reservará para la definitiva, según procediere. En caso contrario, las pruebas se ofrecerán en los escritos respectivos, precisando los hechos que con ellas se pretenda demostrar y que no serán ajenos a la cuestión incidental, las cuales, si estuvieren ajustadas a derecho, se admitirán y desahogarán en una audiencia que se celebrará dentro del término de cinco días, y cuyo efecto también será el de citar para resolución.
 
-### CAPITULO II. QUE NO SUSPENDEN EL PROCEDIMIENTO Y DEBEN SER RESUELTOS UNA VEZ SUSTANCIADOS
+### CAPITULO I. DE PREVIO Y ESPECIAL PRONUNCIAMIENTO
 
-(SE RECORRE EN SU ORDEN [N. DE E. ANTES 629], P.O. 9 DE DICIEMBRE DE 2000)
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 622.
 
@@ -4489,9 +4581,9 @@ La declinatoria de jurisdicción se propondrá ante el juez que se considere inc
 
 (REUBICADO, P.O. 9 DE DICIEMBRE DE 2000)
 
-### CAPITULO III. QUE SE RESUELVEN AL DICTAR SENTENCIA
+### CAPITULO II. QUE NO SUSPENDEN EL PROCEDIMIENTO Y DEBEN SER RESUELTOS UNA VEZ SUSTANCIADOS
 
-(SE RECORRE EN SU ORDEN [N. DE E. ANTES 630], P.O. 9 DE DICIEMBRE DE 2000)
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 629], P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 630.
 
@@ -4533,9 +4625,9 @@ XIV.- Las demás previstas por la Ley.
 
 (REUBICADO, P.O. 9 DE DICIEMBRE DE 2000)
 
-### CAPITULO IV. QUE SE TRAMITAN PARA LOGRAR LA EJECUCIÓN DE SENTENCIA
+### CAPITULO III. QUE SE RESUELVEN AL DICTAR SENTENCIA
 
-(SE RECORRE EN SU ORDEN [N. DE E. ANTES 631], P.O. 9 DE DICIEMBRE DE 2000)
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 630], P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 631.
 
@@ -4555,9 +4647,9 @@ VI.- Los demás que indique la Ley.
 
 (REUBICADO, P.O. 9 DE DICIEMBRE DE 2000)
 
-### CAPITULO I. REVOCACION
+### CAPITULO IV. QUE SE TRAMITAN PARA LOGRAR LA EJECUCIÓN DE SENTENCIA
 
-(SE RECORRE EN SU ORDEN [N. DE E. ANTES 633], P.O. 9 DE DICIEMBRE DE 2000)
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 631], P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 632.
 
@@ -4577,11 +4669,11 @@ V.- La liquidación que tenga que hacerse de los gravámenes que afecten a los i
 
 ## TITULO SEGUNDO. RECURSOS
 
-(SE RECORRE EN SU ORDEN [N. DE E. ANTES 632], P.O. 9 DE DICIEMBRE DE 2000)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 633.
 
-Los tribunales no admitirán nunca recursos notoriamente frívolos o improcedentes; los desecharán de plano, aplicando lo dispuesto en los artículos 54 y 55.
+Los tribunales no admitirán nunca recursos notoriamente frívolos o improcedentes; los desecharán de plano, aplicando las sanciones que prevé el presente código.
 
 Son irrecurribles, además de los casos expresamente determinados por la ley, las resoluciones que se dicten:
 
@@ -4591,7 +4683,9 @@ II.- Otorgando la posesión y administración al cónyuge supérstite de los bie
 
 III.- Mandando abrir a prueba un juicio o admitiéndola;
 
-IV.- Decidiendo los incidentes a que se refieren los artículos 620 y 629 fracciones II, III, IV, VII, VIII, X y XII;
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+
+IV.- Decidiendo los incidentes a que se refieren los artículos 620 y 630 fracciones II, III, IV, VII, VIII, X y XII de este Código;
 
 V.- Decidiendo el recurso de revocación;
 
@@ -4609,9 +4703,9 @@ XI.- Aprobando el remate o declarando la adjudicación de bienes embargados.
 
 (REUBICADO, P.O. 9 DE DICIEMBRE DE 2000)
 
-### CAPITULO II. APELACION
+### CAPITULO I. REVOCACION
 
-(SE RECORRE EN SU ORDEN [N. DE E. ANTES 636], P.O. 9 DE DICIEMBRE DE 2000)
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 633], P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 634.
 
@@ -4630,6 +4724,10 @@ Los autos que se dicten en segunda instancia, aún aquellos que en primera insta
 La revocación debe pedirse dentro de las veinticuatro horas siguientes a la notificación, por escrito, del que se ordenará correr traslado a la contraria por igual término, y transcurrido el mismo se resolverá dentro de los tres días siguientes.
 
 (REUBICADO, P.O. 9 DE DICIEMBRE DE 2000)
+
+### CAPITULO II. APELACION
+
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 636], P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 637.
 
@@ -4683,11 +4781,13 @@ El recurso de apelación procede en uno o en ambos efectos. En el primer caso no
 
 Si la apelación devolutiva fuere de sentencia definitiva, se dejará en el juzgado, para ejecutarla, copia certificada de ella y de las constancias que el juez estime necesarias y si fuere de auto o interlocutoria, solo se remitirá al superior testimonio de lo que señalare de los autos el apelante, con las adiciones que haga la parte interesada y con las que el Juez estime necesarias, a no ser que el apelante prefiera esperar la remisión de los autos originales cuando estén en estado. Si dentro de los tres días siguientes al en que se le notifique la admisión del recurso, el apelante no señala las constancias para integrar el testimonio ni manifiesta que prefiere esperar, se le negará dicho testimonio y se tendrá por firme la resolución apelada.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO EL PRIMER PARRAFO, P.O. 5 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 644.
 
-Interpuesta la apelación, el juez la admitirá sin substanciación alguna si fuere procedente, expresando si la admite en uno o en ambos efectos, corriendo traslado a la contraria para que dentro de cinco días conteste lo que a su derecho convenga.
+Interpuesta la apelación, el juez la admitirá sin substanciación alguna si fuere procedente, expresando si la admite en uno o en ambos efectos, corriendo traslado a la contraria para que en un término igual a los establecidos en el artículo 641 del presente ordenamiento, conteste lo que a su derecho convenga.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 En los escritos de agravios y contestación, las partes señalarán domicilio en la residencia del Tribunal de Alzada para oír notificaciones, apercibiéndolos que de no hacerlo, éstas se les practicarán en los estrados.
 
@@ -4787,7 +4887,9 @@ VII.- La resolución que declare o niegue el sobreseimiento;
 
 VIII.- La concesión de la ejecución de una resolución de tribunales de otros estados o del extranjero en obsequio de un exhorto;
 
-IX.- La resolución que se dicte con carácter de definitiva decidiendo cualquier cuestión de índole familiar, salvo las referidas a alimentos, diferencias conyugales y en las fracciones IX a XI del artículo 644;
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+
+IX.- La resolución que se dicte con carácter de definitiva decidiendo cualquier cuestión de índole familiar, salvo las referidas a alimentos, diferencias conyugales y las contempladas en las fracciones IX a XI del artículo 645 del presente código;
 
 X.- La resolución que apruebe la partición, siempre y cuando exceda de dos mil días de salario; y
 
@@ -4948,3 +5050,7 @@ Artículo Único.- El presente decreto entrara en vigor a los 180 días naturale
 P.O. 21 DE NOVIEMBRE DE 2009.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O 5 DE MAYO DE 2010
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
