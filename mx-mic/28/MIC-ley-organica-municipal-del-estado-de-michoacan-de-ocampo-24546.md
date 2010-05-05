@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2009-05-21"
+last_updated: "2010-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2010.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -773,9 +773,11 @@ Los responsables de las distintas áreas de las (sic) administración pública m
 
 Las comisiones propondrán al Ayuntamiento, los proyectos de solución a los problemas de su conocimiento, a efecto de atender todas las ramas de la administración municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MAYO DE 2010)</small>
+
 ###### Artículo 37.
 
-Las comisiones municipales deberán ser, entre otras:
+Las Comisiones Municipales deberán ser entre otras:
 
 I. De Gobernación, Trabajo, Seguridad Pública y Protección Civil que será presidida por el Presidente Municipal;
 
@@ -795,7 +797,9 @@ VIII. De Desarrollo Urbano y Obras Públicas;
 
 IX. De Fomento Industrial y Comercio;
 
-X. De Asuntos Agropecuarios y Pesca;
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+
+X. De Desarrollo Rural;
 
 XI. De Asuntos Indígenas, en donde exista población indígena; y, (sic)
 
@@ -1021,15 +1025,21 @@ VII. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las i
 
 VIII. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MAYO DE 2010)</small>
+
 ###### Artículo 47.
 
-A la Comisión de Asuntos Agropecuarios y Pesca, le corresponderá:
+A la Comisión de Desarrollo Rural le corresponderá:
 
 I. Fomentar la organización de los productores agrícolas, pecuarios, ganaderos y acuícolas con la finalidad de que solventen en mejores circunstancias su problemática común;
 
-II. Participar en la organización y funcionamiento de los Concejos Municipales de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
 
-III. Opinar sobre la integración y aplicación del Programa Municipal de Desarrollo Agropecuario;
+II. Participar en la organización y funcionamiento de los Concejos Municipales de Desarrollo Rural;
+
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+
+III. Opinar sobre la integración y aplicación del Programa Municipal de Desarrollo Rural;
 
 IV. Coadyuvar con los gobiernos federal y estatal en la ejecución de los programas municipales en la materia de su competencia;
 
@@ -2620,3 +2630,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 21 DE MAYO DE 2009.
 
 Único. El presente decreto entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE MAYO DE 2010.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Michoacán de Ocampo.
