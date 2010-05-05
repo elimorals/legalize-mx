@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2009-05-13"
+last_updated: "2010-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -1911,11 +1911,11 @@ El cónyuge que diere causa al divorcio perderá todo lo (sic) se le hubiere dad
 
 Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos, hasta que lleguen a la mayor edad.
 
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2010)</small>
+
 ###### Artículo 281.
 
-En los casos de divorcio, el juez tomando en cuenta las circunstancias del caso, y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, sentenciará al culpable al pago de alimentos en favor del inocente. Este derecho lo disfrutará en tanto viva honestamente y no contraiga nupcias. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
-
-En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia ni a la indemnización que concede este artículo.
+En los casos de divorcio, el juez tomando en cuenta las circunstancias del caso, y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, sentenciará al culpable al pago de alimentos a favor del inocente. Este derecho lo disfrutará hasta por cinco años, excepto en los casos que se acredite fehacientemente que la parte acreedora por razones de su edad, enfermedad o cualquier otra circunstancia esté imposibilitada para trabajar, en cuyos casos podrá seguir gozando de dicho beneficio en tanto no se una en matrimonio o concubinato.
 
 > <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
 
@@ -3055,15 +3055,19 @@ La madre o abuela que pase a segundas nupcias no pierde por este hecho la patria
 
 El nuevo marido no ejercerá la patria potestad sobre los hijos del matrimonio anterior.
 
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2010)</small>
+
 ###### Artículo 439.
 
-La patria potestad se suspende:
+La patria potestad se suspende por:
 
-I.- Por incapacidad declarada judicialmente;
+I. Incapacidad pronunciada judicialmente;
 
-II.- Por la ausencia declarada en forma;
+II. Ausencia declarada en forma;
 
-III.- Por sentencia condenatoria que imponga como pena esa suspensión.
+III. Sentencia condenatoria que la imponga como pena;
+
+IV. Incumplimiento de obligaciones alimentarías por más de noventa días sin causa justificada; suspensión que quedará sin efecto, cuando se acredite ante el juez, que se ha regularizado el cumplimiento de dicha obligación, debiendo hacer además un deposito igual a las mensualidades que incumplió.
 
 ###### Artículo 440.
 
@@ -7435,7 +7439,13 @@ Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el art�
 
 La reparación del daño debe consistir a elección del ofendido, en el restablecimiento de la situación anterior, cuando ello sea posible, o en el pago de daños y perjuicios.
 
-Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal, o parcial temporal, el grado de reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo, para calcular la indemnización que corresponda se tomará como base el triple del salario mínimo diario más alto que esté en vigor en la región y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los familiares de la víctima.
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2010)</small>
+
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal, o parcial temporal, el grado de reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE MAYO DE 2010)</small>
+
+Para calcular la indemnización que corresponda se tomará como base el triple del salario mínimo diario más alto que esté en vigor en la región y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización se integrará a la masa hereditaria de la víctima, en los términos de la legislación de la materia.
 
 Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles y se cubrirán preferentemente en una sola exhibición, salvo convenio entre las partes.
 
@@ -7447,19 +7457,51 @@ Las anteriores disposiciones se observarán en el caso del artículo 2018.
 
 Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspectos físicos, o bien en la consideración que de sí misma tienen los demás. Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas.
 
-Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero con independencia de que haya causado daño material, tanto en responsabilidad contractual como extracontractual. Igual obligación de reparar el daño moral tendrá quién incurra en responsabilidad objetiva conforme al artículo 1286 así como el Estado y sus servidores públicos conforme a los artículos 1300 y 1301, todos ellos del presente código.
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2010)</small>
 
-La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los familiares de la víctima cuando ésta haya intentado la acción en vida.
+Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero con independencia de que haya causado daño material, tanto en responsabilidad contractual como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva conforme a los artículos 1286 y 1300. Tratándose del Estado y sus servidores públicos se procederá conforme a la ley de la materia.
+
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2010)</small>
+
+La acción de reparación no es transmisible a terceros por acto entre vivos y solo se ejercerá por los herederos de la víctima, cuando ésta haya promovido la acción en vida.
 
 El monto de la indemnización lo determinará el Juez, tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
 
-Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el Juez ordenará a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos que el daño derive de un acto que haya tenido difusión en los medios informativos, el Juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2010)</small>
+
+Cuando el daño moral haya afectado a la víctima en su honor o reputación, el Juez ordenará a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+En los casos que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia con la misma relevancia que hubiere tenido la difusión original.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+Están obligados a la reparación del daño moral quienes incurran en las siguientes conductas:
+
+I. Aquel que comunique a una o más personas la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio o exponerlo al desprecio de alguien;
+
+II. El que impute, presente denuncia o querella calumniosa, entendiéndose por tales aquellas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquél no se ha cometido; y
+
+III. Al que ofenda el honor, difame la vida privada o la imagen propia de una persona.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+La reparación del daño moral con relación al párrafo y fracciones anteriores deberá establecer la obligación de la rectificación de hechos o el derecho de réplica de la información difundida en el mismo medio donde fue publicada y con el mismo espacio y circulación o audiencia a que fue dirigida la información original, esto sin menoscabo de lo establecido en el párrafo quinto del presente artículo.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+La reproducción fiel de información no da lugar al daño moral, aún en los casos en que la información reproducida no sea veraz, siempre y cuando se cite la fuente de donde se obtuvo.
 
 > <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 Artículo 1289 BIS.- No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6o. y 7o. de la Constitución General de la República.
 
 En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+
+En ningún caso se considerarán ofensas al honor, la moral, la vida privada y la fama pública, las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional. Tampoco se considerarán lesivas las realizadas en cumplimiento de un deber o ejerciendo un derecho cuando el modo de proceder o la falta de reserva no tenga un propósito lesivo.
 
 ###### Artículo 1290.
 
@@ -7507,11 +7549,9 @@ En los casos previstos por los artículos 1296; 1297; y 1298; el que sufra el da
 
 El que paga los daños y perjuicios causados por sus sirvientes, empleados, u operarios y en caso del Estado de sus servidores públicos, puede repetir de ellos lo que hubiere pagado.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
-
 ###### Artículo 1301.
 
-El Estado tiene obligación de responder del pago de los daños y perjuicios causados por sus servidores públicos con motivo del ejercicio de las atribuciones que les están encomendadas. Esta responsabilidad será solidaria tratándose de actos ilícitos dolosos, y subsidiaria en los demás casos, en los que solo podrá hacerse efectiva en contra del Estado cuando el servidor público directamente responsable no tenga bienes o los que tenga no sean suficientes para responder de los daños y perjuicios causados por sus servidores públicos.
+(DEROGADO, P.O. 5 DE MAYO DE 2010)
 
 ###### Artículo 1302.
 
@@ -10423,7 +10463,9 @@ Cuando haya prórroga en el contrato de arrendamiento y en los casos de que habl
 
 El arrendador puede exigir la rescisión del contrato:
 
-I.- Por falta de pago de la renta en los términos prevenidos en los artículos 1824 y 1826;
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+
+I.- Por falta de pago de la renta en los términos prevenidos dentro del contrato y a falta de éste, de conformidad a lo establecido dentro de los artículos 1799, 1820 E y 1826 del presente ordenamiento;
 
 II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 1797;
 
@@ -14555,11 +14597,11 @@ VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisici
 
 Testamento público abierto es el que se otorga ante notario, de conformidad con las disposiciones de este capítulo.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2010)</small>
 
 ###### Artículo 2646.
 
-El testador expresará de modo claro y terminante su voluntad al notario. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán la escritura el testador, el notario y, en su caso, los testigos y el intérprete, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+El testador expresará de modo claro y terminante su voluntad al notario. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán la escritura el testador, el notario y, en su caso, los testigos y el intérprete, asentándose el lugar, día, mes, año y hora en que hubiere sido otorgado.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
@@ -14579,9 +14621,11 @@ Cuando el testador declare que no sabe o no puede firmar el testamento, uno de l
 
 (DEROGADO, P.O. 6 DE AGOSTO DE 1994)
 
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2010)</small>
+
 ###### Artículo 2650.
 
-El que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre.
+El que fuere sordo, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, se designará un intérprete para su debido conocimiento, debiendo en todo caso el testado manifestar si está conforme o no con su contenido.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
@@ -15986,3 +16030,7 @@ Artículo Único.- El presente decreto entrara en vigor a los 180 días naturale
 P.O. 13 DE MAYO DE 2009.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 5 DE MAYO DE 2010.
+
+Artículo único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
