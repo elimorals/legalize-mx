@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-de-planeacion-y-59769"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-30"
-last_updated: "2008-01-30"
+last_updated: "2010-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y DESARROLLO REGIONAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y DESARROLLO REGIONAL DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 5 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de enero de 2008.
 
@@ -850,3 +852,13 @@ AMALIA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. CARLOS PINTO NÚÑEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE MAYO DE 2010.
+
+Primero.- El presente Reglamento Interno, entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Decreto que contiene el Reglamento de la Secretaría de Planeación y Desarrollo Regional, publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, de fecha 30 de enero de 2008.
+
+Tercero.- Los Manuales Generales .de Organización y de Procedimientos, deberán elaborarse por las diversas áreas de la Dependencia, con el apoyo de las Coordinaciones Jurídica y Administrativa dentro del plazo de noventa días siguientes a la entrada en vigor del presente Reglamento.
