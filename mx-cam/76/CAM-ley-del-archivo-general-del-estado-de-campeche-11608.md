@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-archivo-general-del-estado-de-campeche-11608"
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-13"
-last_updated: "1997-08-13"
+last_updated: "2010-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DEL ARCHIVO GENERAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO NUMERO 39, PUBLICADO EN EL P.O. DE 6 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 13 de agosto de 1997.
 
@@ -162,3 +164,15 @@ Salón de Sesiones del Palacio Legislativo, Campeche, Camp., a 12 de agosto de 1
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio del Gobierno del Estado, en Campeche, a los doce días del mes de agosto del año de mil novecientos noventa y siete.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. VICTOR CARLOS PEREZ CAMARA.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE MAYO DE 2010.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las demás disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
+
+Tercero.- Queda facultado el Gobernador del Estado para expedir el Reglamento Interior del Archivo General del Estado.
+
+Cuarto.- El Comité Técnico del Sistema Estatal de Archivos se instalará en la fecha y lugar que el Gobernador en su oportunidad determine y expedirá su Reglamento Interno dentro de los sesenta días hábiles siguientes a la fecha de su instalación.
