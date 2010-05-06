@@ -4,7 +4,7 @@ identifier: "CAM-lineamientos-que-deberan-observar-los-entes-publicos-a-que-5798
 country: "mx"
 rank: "lineamientos"
 publication_date: "2007-01-16"
-last_updated: "2007-01-16"
+last_updated: "2010-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "CAM"
 
 LINEAMIENTOS QUE DEBERAN OBSERVAR LOS ENTES PUBLICOS A QUE SE REFIERE LA FRACCION IV DEL ARTICULO 4 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CAMPECHE, EN LA RECEPCION, PROCESAMIENTO, RESOLUCION Y NOTIFICACION, DE LAS SOLICITUDES DE ACCESO A LA INFORMACION PUBLICA QUE FORMULEN LOS PARTICULARES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LOS LINEAMIENTOS QUE DEBERÁN OBSERVAR LOS ENTES PÚBLICOS A QUE SE REFIERE LA FRACCIÓN IV DEL ARTÍCULO 4 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, EN LA RECEPCIÓN, PROCESAMIENTO, RESOLUCIÓN Y NOTIFICACIÓN DE LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN PÚBLICA QUE FORMULEN LOS PARTICULARES. PUBLICADO EN EL P.O. DE 6 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Lineamientos publicados en el Periódico Oficial del Estado de Campeche, el martes 16 de enero de 2007.
 
@@ -183,3 +185,15 @@ Tercero.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
 EL PRESENTE ACUERDO FUE APROBADO POR UNANIMIDAD DE VOTOS POR EL PLENO DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, EN SESIÓN ORDINARIA CELEBRADA EL DÍA 27 DE DICIEMBRE DE 2006.
 
 C.D.O. GONZÁLO E. BOJORQUEZ RISUEÑO, COMISIONADO PRESIDENTE.- LICDA. TERESA DOLZ RAMOS, SECRETARIA EJECUTIVA.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE MAYO DE 2010.
+
+PRIMERO.- Los presentes Lineamientos entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan los "Lineamientos que deberán observar los Entes Públicos a que se refiere la Fracción IV del Artículo 4 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche, en la recepción, procesamiento, resolución y notificación, de las solicitudes de acceso a la información pública que formulen los particulares", aprobados por el Pleno de la Comisión con fecha 27 de diciembre de 2006 y publicados en el Periódico Oficial del Estado de fecha 16 de enero de 2007.
+
+TERCERO.- Los sistemas electrónicos que en observancia a las disposiciones legales establezcan los entes públicos para el acceso a la información pública, y la Comisión para la interposición y trámite de los recursos de revisión correspondientes, deberán considerar y ajustarse a los criterios, plazos y procedimientos mínimos que establecen la Ley y los presentes Lineamientos.
+
+CUARTO.- Una vez publicados en el Periódico Oficial del Estado, publíquense los presentes "Lineamientos en la Página de Internet de la Comisión.
