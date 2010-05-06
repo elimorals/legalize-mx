@@ -4,7 +4,7 @@ identifier: "CAM-ley-reglamentaria-del-capitulo-xvii-de-la-constitucion-25356"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-03"
-last_updated: "2003-10-29"
+last_updated: "2010-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY REGLAMENTARIA DEL CAPITULO XVII DE LA CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE
 
-LEY REGLAMENTARIA DEL CAPITULO XVII DE LA CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE
+LEY REGLAMENTARIA DEL CAPÍTULO XVII DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el miércoles 3 de julio de 2002.
 
@@ -75,7 +75,9 @@ I. El Congreso del Estado, en materia de juicio político y declaración de proc
 
 II. La Secretaría de la Contraloría, por sí o a través de las contralorías internas y áreas de auditoría, de quejas y de responsabilidades de las Dependencias y Entidades de la Administración Pública Estatal, con relación a los servidores públicos de la propia Administración;
 
-III. Los Órganos Internos de Control de los Poderes Legislativo y Judicial del Estado, de los Ayuntamientos, del Instituto Electoral del Estado y de la Comisión de Derechos Humanos del Estado, con relación a los servidores públicos de éstos;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2010)</small>
+
+III. Los Órganos Internos de Control de los Poderes Legislativo y Judicial del Estado, de los Ayuntamientos, y de los Organismos Públicos Autónomos Estatales, con relación a los servidores públicos de éstos;
 
 IV. La Auditoría Superior del Estado, tratándose de los servidores públicos estatales y municipales sin importar su adscripción, cuando el incumplimiento de la obligación en el servicio público quede de manifiesto con motivo de la revisión de la Cuenta Pública del Estado o de las Cuentas Públicas Municipales; y
 
@@ -429,7 +431,9 @@ I. En ningún caso aprovechará su influencia u obtendrá alguna ventaja derivad
 
 II. No usará, en provecho propio o de terceros, la información o documentación a la que haya tenido acceso en su empleo, cargo o comisión y que no sea del dominio público; y
 
-III. Si se desempeñó como Consejero Electoral del Consejo General o Director en el Instituto Electoral del Estado, o como Magistrado o Juez electoral, se abstendrá de participar en cualquier encargo público de la Administración Pública, estatal o municipal, encabezada por quien haya ganado la elección en cuya organización o calificación intervino.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2010)</small>
+
+III. Si se desempeñó como Consejero Electoral, Secretario Ejecutivo o Contralor del Consejo General, Director Ejecutivo de Organización Electoral o Director Ejecutivo de Capacitación Electoral y Acción Cívica del Instituto Electoral del Estado, o como Magistrado o Juez electoral, se abstendrá de participar en cualquier encargo público de la Administración Pública, estatal o municipal, encabezada por quien haya ganado la elección en cuya organización o calificación intervino.
 
 ### Capítulo II. Del Procedimiento Administrativo Disciplinario
 
@@ -627,13 +631,17 @@ El registro y seguimiento de la evolución de la situación patrimonial de los s
 
 I. La Secretaría, respecto de los adscritos a las Dependencias y Entidades; y
 
-II. Los Órganos Internos de Control de los Poderes Legislativo y Judicial del Estado, de los Ayuntamientos, del Instituto Electoral del Estado y de la Comisión de Derechos Humanos del Estado, respecto de los que estén adscritos a éstos.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2010)</small>
+
+II. Los Órganos Internos de Control de los Poderes Legislativo y Judicial del Estado, de los Ayuntamientos, y de los Organismo Públicos Autónomos Estatales, respecto de los que estén adscritos a éstos.
 
 ###### Art. 86.
 
 Tienen obligación de presentar declaraciones de situación patrimonial, en los términos y plazos señalados por la presente ley y bajo protesta de decir verdad:
 
-I. En el Poder Legislativo: Diputados, Oficial Mayor, Director de Finanzas, Director de Servicios Administrativos, Auditor Superior del Estado, Auditores Especiales y titular de la Unidad de Administración de la Auditoría Superior, así como aquellos que manejen o administren fondos y recursos del erario estatal;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2010)</small>
+
+I. En el Poder Legislativo: Todos los servidores públicos desde el nivel de Jefe de Departamento u homólogo hasta los Diputados, incluyendo al Oficial Mayor, Auditor Superior del Estado y Auditores Especiales, así como a los Titulares de Unidad, Supervisores, Encargados y Jefes de Auxiliares de la Auditoria Superior, y a todos aquellos que manejen o administren fondos y recursos del erario estatal;
 
 II. En el Poder Ejecutivo: Todos los servidores públicos de Dependencias y Entidades, desde el nivel de Jefe de Departamento u homólogo hasta el de Gobernador del Estado, incluyendo a los Agentes del Ministerio Público, Policías Judiciales, Presidentes, Miembros de Junta, Secretarios y Actuarios, o sus equivalentes, de tribunales de trabajo, así como aquellos que manejen, recauden o administren fondos y recursos del erario estatal;
 
@@ -763,8 +771,16 @@ Dado en el Palacio de Gobierno del Estado, en Campeche, el día uno del mes de J
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. 29 DE OCTUBRE DE 2003
+P.O. 29 DE OCTUBRE DE 2003.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 6 DE MAYO DE 2010.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+Tercero.- Los servidores públicos del Poder Legislativo que antes de la entrada en vigor de este decreto no estaban obligados a presentar declaración patrimonial, en un plazo de sesenta días hábiles contados a partir de la vigencia de este decreto, deberán presentar su Declaración Patrimonial Inicial; ante el órgano interno de control del Poder Legislativo.
