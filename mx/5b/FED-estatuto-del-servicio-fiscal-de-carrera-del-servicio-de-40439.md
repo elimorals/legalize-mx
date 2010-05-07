@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-fiscal-de-carrera-del-servicio-de-40439"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-08-20"
-last_updated: "2004-08-20"
+last_updated: "2010-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40439&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-08-02"
 
 ESTATUTO DEL SERVICIO FISCAL DE CARRERA DEL SERVICIO DE ADMINISTRACION TRIBUTARIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO DEL SERVICIO FISCAL DE CARRERA, PUBLICADO EN EL D.O.F. DE 7 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 20 de agosto de 2004.
 
@@ -592,3 +594,13 @@ TERCERO.- Durante el primer año de operación del SFC, con autorización de la 
 CUARTO.- La Comisión, a propuesta de la ACRH, autorizará las etapas para la implementación del presente Estatuto.
 
 Licenciado Alfredo Gutiérrez Ortiz Mena, Administrador General Jurídico del Servicio de Administración Tributaria, con fundamento en lo dispuesto por el artículo 11 fracción V del Reglamento Interior del Servicio de Administración Tributaria en vigor, CERTIFICA: Que esta copia constante de once fojas útiles concuerda fiel y exactamente con su original que obra en el expediente relativo al Acuerdo JG-SAT-IIO-11-2004, mediante el cual se aprueba el Estatuto del Servicio Fiscal de Carrera, tomado en la Segunda Sesión Ordinaria de la Junta de Gobierno del Servicio de Administración Tributaria, celebrada el veintitrés de junio de dos mil cuatro. Se certifica para efectos de su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a dos de agosto de dos mil cuatro.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 7 DE MAYO DE 2010.
+
+PRIMERO.- El presente Estatuto fue aprobado por la Junta en la Cuarta Sesión Ordinaria, celebrada el 11 de diciembre de 2009 y entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto publicado en el Diario Oficial de la Federación el 20 de agosto 2004.
+
+TERCERO.- Los trabajadores que actualmente tienen la categoría de FFC seguirán conservando dicho carácter y se regirán en los términos del presente Estatuto.
