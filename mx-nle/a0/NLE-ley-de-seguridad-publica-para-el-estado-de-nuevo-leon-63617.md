@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2009-12-28"
+last_updated: "2010-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -999,9 +999,11 @@ La prevención social del delito tiene como propósito reducir los factores crim
 
 La prevención comunitaria del delito tiene por objeto promover la participación de la comunidad, en acciones tendientes a mejorar las condiciones de seguridad de su entorno y al desarrollo de prácticas que fomenten una cultura de prevención, autoprotección, de la denuncia ciudadana y de la solución de los conflictos a través del diálogo y la negociación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2010)</small>
+
 ###### Artículo 88.
 
-La prevención del delito realizada por las instituciones policiales preventivas del Estado y de los Municipios tienen por objeto promover, mediante un diagnóstico de la problemática delictiva en el territorio del Estado y de los Municipios, incentivos que procuren modificar el ambiente físico para dificultar las diferentes manifestaciones de los delitos y de las infracciones administrativas así como reducir su incidencia.
+La prevención del delito realizada por las instituciones policiales preventivas del Estado y de los Municipios tienen por objeto promover, mediante un diagnóstico de la problemática delictiva a través de estudios realizados por profesionales en el territorio especifico del Estado y de los Municipios, incentivos que procuren modificar el ambiente físico para dificultar las diferentes manifestaciones de los delitos y de las infracciones administrativas, así como reducir su incidencia.
 
 Este nivel de intervención deberá realizarse considerando la prestación de los servicios específicos que de acuerdo al ámbito de sus competencias les corresponde realizar a las instituciones policiales del Estado y de los Municipios.
 
@@ -2646,3 +2648,7 @@ P.O. 28 DE DICIEMBRE DE 2009.
 Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Los Municipios reformarán, en lo conducente, sus reglamentos, protocolos, y demás marcos normativos policiales en un plazo no mayor a sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto, a fin de homologarlos a esta disposición.
+
+P.O. 7 DE MAYO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
