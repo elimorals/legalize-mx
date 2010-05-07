@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-los-consejos-de-participacion-social-en-la-26402"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-11"
-last_updated: "2005-07-22"
+last_updated: "2010-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO DE LOS CONSEJOS DE PARTICIPACION SOCIAL EN LA EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LOS CONSEJOS DE PARTICIPACION SOCIAL EN LA EDUCACION DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 7 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de octubre de 2002.
 
@@ -1106,3 +1108,9 @@ EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO DISPOSICIONES TRANSITORIAS EN R
 P.O. 22 DE JULIO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE MAYO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento de los Consejos de Participación Social en la Educación del Estado de Baja California, publicado el día 13 de septiembre (sic) del año 2002 en el Periódico Oficial del Estado.
