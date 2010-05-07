@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2007-09-20"
+last_updated: "2010-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2010
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -257,7 +257,7 @@ IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carác
 
 V. Orden de pago de la obligación alimenticia, en forma provisional e inmediata, a cargo del agresor.
 
-Estas serán tramitados ante los juzgados de lo familiar o mixtos en los términos de lo dispuesto en el Código de Procedimientos Civiles para el Estado de Nuevo León y la Ley Orgánica del Poder Judicial del Estado de Nuevo León.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 7 DE MAYO DE 2010)</small>
 
 ###### Artículo 23.
 
@@ -894,3 +894,9 @@ REYES S. TAMEZ GUERRA
 EL C. SECRETARIO DE SALUD
 
 GILBERTO MONTIEL AMOROSO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE MAYO DE 2010.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
