@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-comision-de-honor-y-justicia-de-los-54986"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-16"
-last_updated: "2009-12-02"
+last_updated: "2010-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,37 +23,21 @@ state: "NLE"
 ---
 # REGLAMENTO DE LA COMISION DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PUBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEON --ANTES REGLAMENTO DE LA COMISION DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD CIUDADANA Y TRANSITO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON --
 
-ACUERDO GENERAL 57/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DOMICILIO DEL PRIMER TRIBUNAL UNITARIO DEL DECIMOSEGUNDO CIRCUITO, CON RESIDENCIA EN MAZATLAN, SINALOA
+REGLAMENTO DE LA COMISION DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PUBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2010.
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de diciembre de 2002.
+Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de marzo de 2007.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+ACUERDO 2
 
-ACUERDO GENERAL 57/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DOMICILIO DEL PRIMER TRIBUNAL UNITARIO DEL DECIMOSEGUNDO CIRCUITO, CON RESIDENCIA EN MAZATLAN, SINALOA.
+Con fundamento en los Artículos 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 130 de la Constitución Política del Estado Libre y Soberano de Nuevo León, 26 inciso a) fracción VII, 164 y 168 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, 52 fracción III inciso f) y g) del Reglamento Interior del Republicano Ayuntamiento de Guadalupe Nuevo León, se aprueba y se expide el:
 
-CONSIDERANDO
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE DICIEMBRE DE 2009)</small>
 
-PRIMERO.- Que por decretos publicados en el Diario Oficial de la Federación el treinta y uno de diciembre de mil novecientos noventa y cuatro, veintidós de agosto de mil novecientos noventa y seis y once de junio de mil novecientos noventa y nueve, se reformaron, entre otros, los artículos 94, 99 y 100 de la Constitución Política de los Estados Unidos Mexicanos, modificando la estructura y competencia del Poder Judicial de la Federación;
+REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN.
 
-SEGUNDO.- Que en términos de lo dispuesto por los artículos 94, párrafo segundo, 100, párrafos primero y octavo, de la Carta Magna; 68 y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral; con independencia técnica, de gestión y para emitir sus resoluciones; además, está facultado para expedir acuerdos generales que permitan el adecuado ejercicio de sus funciones;
-
-TERCERO.- Que el artículo 17 constitucional consagra el derecho que toda persona tiene a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, lo cual hace necesario que los órganos jurisdiccionales se encuentren en condiciones físicas convenientes para garantizar la impartición de justicia pronta, completa, imparcial y gratuita, como lo ordena el precepto constitucional invocado; por cuya razón, el Consejo de la Judicatura Federal estima necesario realizar el cambio de domicilio del Primer Tribunal Unitario del Decimosegundo Circuito, con residencia en Mazatlán, Sinaloa.
-
-En consecuencia, con fundamento en las disposiciones constitucionales y legales señaladas, el Pleno del Consejo de la Judicatura Federal expide el siguiente
-
-ACUERDO
-
-PRIMERO.- Se autoriza el cambio de domicilio del Primer Tribunal Unitario del Decimosegundo Circuito, con residencia en Mazatlán, Sinaloa.
-
-SEGUNDO.- El nuevo domicilio del órgano jurisdiccional en cita será el ubicado en Río Baluarte 1003, segundo piso, fraccionamiento Tellería, código postal 82017, Mazatlán, Sinaloa.
-
-TERCERO.- El Primer Tribunal Unitario del Decimosegundo Circuito, con residencia en Mazatlán, Sinaloa, iniciará funciones en su nuevo domicilio el veinte de diciembre de dos mil dos.
-
-CUARTO.- A partir de la fecha señalada en el punto que antecede toda la correspondencia, trámites y diligencias relacionados con los asuntos de la competencia del órgano jurisdiccional en cita, deberán dirigirse y realizarse en el domicilio precisado en el punto segundo de este acuerdo.
-
-QUINTO.- El Primer Tribunal Unitario del Decimosegundo Circuito, con residencia en Mazatlán, Sinaloa, conservará su actual denominación, competencia y jurisdicción territorial.
+ÍNDICE
 
 ### CAPITULO PRIMERO.-. DISPOSICIONES GENERALES
 
@@ -71,29 +55,29 @@ QUINTO.- El Primer Tribunal Unitario del Decimosegundo Circuito, con residencia 
 
 ### CAPITULO OCTAVO.-. DE LAS REFORMAS AL PRESENTE REGLAMENTO
 
-## TRANSITORIOS
-
-PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
-
-EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 57/2002, del Pleno del Consejo de la Judicatura Federal, Relativo al Cambio de Domicilio del Primer Tribunal Unitario del Decimosegundo Circuito, con Residencia en Mazatlán, Sinaloa, fue aprobado por el propio Pleno, en sesión extraordinaria de dos de diciembre de dos mil dos, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta y Sergio Armando Valls Hernández.- México, Distrito Federal, a dos de diciembre de dos mil dos.- Conste.- Rúbrica.
+## ARTÍCULOS TRANSITORIOS
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 1.
 
-Este Reglamento es de orden público y de interés general, y tiene por objeto regular las atribuciones, estructura, organización y funcionamiento de la Comisión de Honor y Justicia de los Cuerpos de Seguridad Ciudadana y Tránsito del Municipio de Guadalupe, Nuevo León, en relación con la aplicación en el Municipio de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+Este Reglamento es de orden público y de interés general, y tiene por objeto regular las atribuciones, estructura, organización y funcionamiento de la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública y Tránsito del Municipio de Guadalupe, Nuevo León, en relación con la aplicación en el Municipio de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
 ###### ARTÍCULO 2.
 
 Para los efectos de este Reglamento, se entiende por:
 
-Secretaría: la Secretaría de Seguridad Ciudadana y Tránsito del Municipio de Guadalupe, Nuevo León.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2010)</small>
+
+Secretaría: la Secretaría de Seguridad Pública del Municipio de Guadalupe, Nuevo León.
 
 Ley: la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
-Comisión: la Comisión de Honor y Justicia de los Cuerpos de Seguridad Ciudadana y Tránsito del Municipio de Guadalupe, Nuevo León.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2010)</small>
+
+Comisión: la Comisión de Honor y Justicia de los Cuerpos de Seguridad Publica del Municipio de Guadalupe, Nuevo León.
 
 Elementos: los Servidores Públicos Municipales que integran los cuerpos de Seguridad y Tránsito, sin distinción de cargos o mandos.
 
@@ -115,6 +99,8 @@ Los integrantes de la Comisión durarán en su cargo el periodo constitucional d
 
 Corresponde a la Comisión la aplicación de las disposiciones previstas en la Ley y el presente Reglamento, para el caso de sanciones a los elementos de la Secretaría que incurran en responsabilidad administrativa.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 6.
 
 La Comisión se integra con un Presidente, un Secretario que lo será el representante de la Contraloría, y seis vocales, designándose para cada uno de ellos su respectivo suplente. Corresponde al Secretario convocar a las sesiones de la Comisión por escrito y con por lo menos veinticuatro horas de anticipación, señalando lugar, fecha y hora para su celebración.
@@ -122,6 +108,8 @@ La Comisión se integra con un Presidente, un Secretario que lo será el represe
 ###### ARTÍCULO 7.
 
 El cargo de Presidente recaerá en un ciudadano distinguido de la comunidad guadalupense, preferentemente de profesión abogado.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2010)</small>
 
 El representante de la Contraloría deberá ser abogado y desempeñará el cargo de Secretario de la Comisión, teniendo sólo derecho de voz y no de voto.
 
@@ -135,9 +123,13 @@ III. El Regidor Presidente de la Comisión de Policía del R. Ayuntamiento;
 
 IV. El Regidor Presidente de la Comisión de Derechos Humanos del R. Ayuntamiento;
 
-V. El Regidor Presidente de la Comisión de Nomenclatura y Vías Públicas del R. Ayuntamiento; y
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2009)</small>
 
-VI. Un ex-elemento de los Cuerpos de Seguridad y Tránsito jubilado, de reconocida trayectoria y calidad moral.
+V. V. (sic) El Regidor Presidente de la Comisión de Nomenclatura y Vías Públicas del R. Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
+VI. Un ex-elemento de los Cuerpos de Seguridad Pública jubilado, de reconocida trayectoria y calidad moral.
 
 ###### ARTÍCULO 8.
 
@@ -175,6 +167,8 @@ IV. Por causa grave a juicio del R. Ayuntamiento.
 
 Los efectos de los nombramientos de los Regidores en la Comisión, correrán la misma suerte que sus correspondientes designaciones como Presidentes de las Comisiones de Policía, Derechos Humanos y Nomenclatura y Vías Públicas del R. Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 12.
 
 La Comisión se auxiliará para el ejercicio de sus atribuciones en la Contraloría o en la entidad responsable de sancionar las infracciones de carácter administrativo de los servidores públicos en el Gobierno Municipal de Guadalupe, Nuevo León.
@@ -185,11 +179,11 @@ La Comisión se auxiliará para el ejercicio de sus atribuciones en la Contralor
 
 Son facultades de la Comisión, las siguientes:
 
-I. Conocer y resolver sobre las quejas y denuncias que presenten los ciudadanos respecto de las fallas cometidas por los elementos de los cuerpos de la Secretaría.
+I.- (DEROGADA, P.O. 7 DE MAYO DE 2010)
 
 II. Tramitar con apego a la Ley, los procedimientos de Responsabilidad Administrativa derivados de las quejas y denuncias que presenten los ciudadanos en contra de los elementos.
 
-III. Establecer coordinadamente con la Contraloría módulos de recepción y atención de quejas y denuncias por conductas indebidas de elementos.
+III.- (DEROGADA, P.O. 7 DE MAYO DE 2010)
 
 IV. Resolver los recursos de inconformidad que interpongan los ciudadanos contra las determinaciones de la propia Comisión.
 
@@ -205,11 +199,11 @@ IX. Emitir opinión para el otorgamiento de reconocimientos o condecoraciones p�
 
 X. Informar al Presidente Municipal, a más tardar treinta días antes de su informe anual de gobierno, sobre las actividades y resultados obtenidos por los trabajos de la Comisión.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 14.
 
-La Comisión funcionará en pleno, en sesiones que se celebrarán dos veces al mes y a las que deberán asistir cuando menos la mitad mas uno de sus integrantes.
+La Comisión funcionará en pleno, en sesiones que se celebrarán mínimo dos veces al mes, o las que fueran necesarias para la resolución de los asuntos de su competencia, a las que deberán asistir cuando menos la mayoría de sus integrantes.
 
 ###### ARTÍCULO 15.
 
@@ -239,7 +233,7 @@ El procedimiento administrativo de responsabilidad se substanciará conforme a l
 
 ###### ARTÍCULO 21.
 
-Las quejas y denuncias que presenten los ciudadanos en contra de los elementos, se recibirán en el Módulo que para tal efecto establezca la Contraloría.
+(DEROGADO, P.O. 7 DE MAYO DE 2010)
 
 ###### ARTÍCULO 22.
 
@@ -368,3 +362,15 @@ Guadalupe, Nuevo León, a los a los 14-catorce días del mes de marzo de 2007-do
 P.O. 16 DE ABRIL DE 2008.
 
 ÚNICO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2009.
+
+Primero.- Las presentes reformas y adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- A la integración de la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública y Transito ahora Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública correspondiente al periodo constitucional de la Administración Municipal 2009-2012, acordada por el Republicano Ayuntamiento en la Sexta Sesión Extraordinaria, consignada en el Acta No. 7-siete-, deberá de incorporarse la figura jurídica de Secretario Técnico, cargo que ocupara un representante de profesión abogado de la Procuraduría; en tal virtud deberá de procederse a su designación en posterior Sesión del Ayuntamiento y a su consecuente incorporación a la Comisión en comento.
+
+P.O. 7 DE MAYO DE 2010.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan el contenido de la presente reforma.
