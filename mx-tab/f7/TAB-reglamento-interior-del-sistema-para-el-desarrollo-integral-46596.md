@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-sistema-para-el-desarrollo-integral-465
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-01"
-last_updated: "2007-08-18"
+last_updated: "2010-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46596&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 8 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 1 de octubre del 2005.
 
@@ -1120,3 +1122,13 @@ P.O. 18 DE AGOSTO DE 2007.
 PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para la operación inicial del Centro y en su caso de las Unidades Regionales, se le deberá dotar de los recursos materiales, humanos y financieros necesarios para su buen funcionamiento.
+
+P.O. 8 DE MAYO DE 2010.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia "DIF", publicado en el Suplemento al Periódico Oficial del Estado número 6581, de fecha 01 de octubre de 2005, así como sus subsecuentes reformas.
+
+TERCERO. Para su mejor funcionamiento, las áreas deberán formular sus respectivos manuales de organización y de procedimientos con base en su competencia.
+
+CUARTO. Los asuntos pendientes a la entrada en vigor de este Reglamento, que conforme al mismo deban de pasar de un área administrativa a otra, continuarán su trámite y serán resueltos por aquellas a las que se les haya atribuido la competencia correspondiente.
