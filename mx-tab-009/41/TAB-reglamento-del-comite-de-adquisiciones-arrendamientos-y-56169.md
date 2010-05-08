@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-del-comite-de-adquisiciones-arrendamientos-y-56169"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-13"
-last_updated: "2007-06-13"
+last_updated: "2010-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "TAB"
 
 REGLAMENTO DEL COMITÉ DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL MUNICIPIO DE JALAPA, TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL COMITÉ DE COMPRAS DEL MUNICIPIO DE JALAPA, TABASCO, PUBLICADO EN EL SUPLEMENTO DEL P.O. DE 8 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 13 de junio de 2007.
 
@@ -632,3 +634,19 @@ ING. ANTONIO PRIEGO JIMÉNEZ
 SECRETARIO DEL H. AYUNTAMIENTO
 
 MVZ. RENAN PÉREZ MATINEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE MAYO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento del Comité de Adquisiciones Arrendamientos y Servicios Relacionados con Bienes Muebles del Municipio de Jalapa, Tabasco, publicado en el suplemento al Periódico Oficial del Gobierno del Estado de Tabasco, número 6758, de fecha 13 de junio de 2007.
+
+ARTÍCULO CUARTO (SIC).- Dentro del mes siguiente a la entrada en vigor del presente Reglamento y para los efectos de lo dispuesto por el artículo sexto; la adecuación de dicho organismo administrativo; se realizará mediante una sesión en la que se dispondrá todo lo necesario para que todos aquellos que dejen de realizar las funciones que tenían encomendadas, realicen la entrega recepción de sus asuntos realizados hasta la fecha y los pendientes, tal como lo dispone el artículo 27 de la Ley Orgánica de los Municipios del Estado de Tabasco, las adjudicaciones que se encuentren en proceso deberán ser concluídas legalmente con el nuevo Comité. De igual forma las demás disposiciones que planteen nuevas estructuras o tramites administrativos se adecuaran dentro de los seis meses siguientes a la entrada en vigor del presente ordenamiento.
+
+ARTÍCULO TERCERO (SIC).- Quedan sin efecto todas las disposiciones administrativas que contravengan lo dispuesto en el presente Reglamento.
