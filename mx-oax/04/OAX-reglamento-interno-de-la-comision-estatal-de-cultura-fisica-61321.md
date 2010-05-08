@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-comision-estatal-de-cultura-fisica-613
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2008-04-12"
+last_updated: "2010-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERNO DE LA COMISION ESTATAL DE CULTURA FISICA Y DEPORTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2010.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de abril de 2008.
 
@@ -97,7 +97,9 @@ Para el despacho de los asuntos de su competencia, así como para atender las ac
 
 I. Dirección General
 
-A) Asesor
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2010)</small>
+
+A) Departemento Jurídico
 
 II. Subdirección General
 
@@ -111,13 +113,11 @@ Además de las áreas previstas en la estructura organizacional autorizada, la C
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DEL DIRECTOR GENERAL
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 7.
 
-La Representación de la Comisión, el trámite y resolución de los asuntos de su competencia, corresponden originalmente al Director General, quien para la mejor distribución de los mismos podrá:
-
-I. Conferir a servidores públicos subalternos, aquellas atribuciones que sean delegables, sin prejuicio de su ejercicio directo cuando lo estime conveniente; y
-
-II. Autorizar a servidores públicos subalternos, para que realicen actos y suscriban documentos que formen parte del ejercicio de sus atribuciones delegables.
+La representación de la Comisión, el trámite y resolución de los asuntos de su competencia; corresponden originalmente al Director General, quien para la mejor atención de los mismos, los podrá conferir a servidores públicos subalternos, sin perjuicio de su ejercicio directo cuando así lo estime conveniente o así lo establezca la Ley.
 
 ###### ARTÍCULO 8.
 
@@ -157,27 +157,29 @@ XVI. Proponer a la Junta los programas de estimulo y reconocimiento al desempeñ
 
 XVII. Las demás que señalen la Ley de Entidades Paraestatales del estado de Oaxaca, su Decreto de Creación y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 9.
 
-El Director General para el estudio, planeación y despacho de los asuntos de su competencia, así como para atender las acciones de control y evaluación que le corresponden se auxiliará de un Asesor y de un Subdirector General.
+El Director General para el estudio, planeación y despacho de los asuntos de su competencia, así como para atender las acciones de control y evaluación que le corresponden, se auxiliará de un Subdirector General y de un Departamento Jurídico, cuyas funciones serán establecidas en el Manual de Organización.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 10.
 
-El Asesor dependerá directamente del Director General y le corresponderá el ejercicio de las siguientes atribuciones:
+El Departamento Jurídico dependerá directamente de la Dirección General, quien además de las facultades que le confiere la Ley de Entidades Paraestatales del Estado de Oaxaca, tendrá las siguientes:
 
-I. Asesorar sobre los asuntos técnicos-jurídicos y normativos que suscriba el Director General;
+I. Recomendar los mecanismos tendientes al cumplimiento de la normatividad aplicable en materia de cultura física y deporte;
 
-II. Recomendar los mecanismos tendientes al cumplimiento de la normatividad aplicable en materia de cultura física y deporte;
+II. Asesorar en los asuntos jurídicos y normativos en que intervenga el Director General;
 
-III. Emitir su opinión en cuanto a la factibilidad de la ejecución de proyectos, planes y programas de la Comisión;
+III. Elaborar y revisar los anteproyectos de iniciativas de leyes o decretos relacionados con la Cultura Física y el Deporte;
 
-IV. Asesorar al Director General en la elaboración de políticas internas que conlleven al adecuado funcionamiento de la Comisión;
+IV. Elaborar los convenios y contratos que en los diferentes rubros de Cultura Física y Deporte celebre la Comisión;
 
-V. Diseñar los mecanismos de colaboración de las acciones que ejecutará la Comisión en coordinación con Entidades Federales, Estatales o Municipales;
+V. Compilar y difundir las leyes, tratados, reglamentos, decretos, acuerdos, circulares y demás instrumentos jurídicos normativos que se relacionen con la Cultura Física y el Deporte; y
 
-VI. Coordinar acciones con las distintas áreas de la Comisión para la atención de los asuntos que le sean encomendados por el Director General; y
-
-VII. Las demás necesarias para el cumplimiento del objeto y atribuciones de la Comisión, las que ordene el Director General o las que señalen otras disposiciones legales aplicables.
+VI. Las demás que sean necesarias para el cumplimiento del objeto y atribuciones de la Comisión, las que ordene el Director General o las que señalen otras disposiciones legales aplicables.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DEL SUBDIRECTOR GENERAL
 
@@ -271,9 +273,11 @@ VII. Impulsar y desarrollar, en coordinación con los municipios que lo solicite
 
 VIII. Las demás necesarias para el cumplimiento del objeto y atribuciones de la Comisión, las que ordene el Director General o las que señalen otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 15.
 
-La Unidad de Cultura Física para el cumplimiento de las atribuciones del artículo anterior estará integrada por el departamento de Deporte Adaptado y el Departamento de Planeación Deportiva.
+La Unidad de Cultura Física para el cumplimiento de las atribuciones a que se refiere el artículo anterior, estará integrada por el Departamento de Deporte Adaptado y por el Departamento de Planeación Deportiva y Desarrollo de Imagen, cuyas funciones serán establecidas en el Manual de Organización.
 
 ### CAPÍTULO VII. DE LAS ATRIBUCIONES DE LA UNIDAD DE ADMINISTRACIÓN Y FINANZAS
 
@@ -313,9 +317,11 @@ XV. Concertar con los sectores público, social y privado, apoyos económicos y 
 
 XVI. Las demás necesarias para el cumplimiento del objeto y atribuciones de la Comisión, las que ordene el Director General o las que señalen otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 17.
 
-La Unidad de Administración y Finanzas para el cumplimiento de las atribuciones del artículo anterior estará integrada por el Departamento de Contabilidad y Finanzas.
+La Unidad de Administración y Finanzas para el cumplimiento de las atribuciones a que se refiere el artículo anterior estará integrada por el Departamento de Servicios Generales y Recursos Materiales y por el Departamento de Contabilidad y Finanzas, cuyas funciones serán establecidas en el Manual de Organización.
 
 ### CAPÍTULO VIII. DE LAS ATRIBUCIONES ESPECÍFICAS DE LA UNIDAD DE DESARROLLO DEL DEPORTE
 
@@ -337,9 +343,11 @@ VI. Presentar al Director General proyectos de investigación científica y tecn
 
 VII. Las demás necesarias para el cumplimiento del objeto y atribuciones de la Comisión, las que ordene el Director General o las que señalen otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 19.
 
-La Unidad de Desarrollo del Deporte para el cumplimiento de las atribuciones del artículo anterior estará integrada por el Departamento de Deporte Selectivo, el Departamento de Capacitación y Formación y el Departamento de Talentos Deportivos.
+La Unidad de Desarrollo del Deporte para el cumplimiento de las atribuciones a que se refiere el artículo anterior, estará integrada por el Departamento de Eventos Nacionales y por el Departamento de Iniciación Deportiva, cuyas funciones serán establecidas en el Manual de Organización.
 
 ### CAPÍTULO IX. DE ENLACE Y ACCESO A LA INFORMACIÓN
 
@@ -426,3 +434,11 @@ REPRESENTANTE DEL SECTOR PRIVADO
 JANETH LAGUNAS CALVO
 
 DELEGADA CONTRALOR EN LA COMISIÓN ESTATAL DE CULTURA FÍSICA Y DEPORTE Y SUPLENTE DEL COMISARIO DE LA JUNTA DIRECTIVA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE MAYO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
