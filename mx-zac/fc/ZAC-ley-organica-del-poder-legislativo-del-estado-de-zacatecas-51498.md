@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-5149
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-07-15"
-last_updated: "2009-07-11"
+last_updated: "2010-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2010.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2006.
 
@@ -1575,13 +1575,17 @@ I. Impulsar programas de profesionalización y actualización en derecho parlame
 
 II. Reformas o adiciones a la Ley Orgánica, Reglamento General y demás ordenamientos del Poder Legislativo;
 
-III. Dirigir y evaluar el trabajo del Instituto de Investigaciones Legislativas e impulsar los presupuestos y programas del mismo;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2010)</small>
+
+III. Evaluar el trabajo del Instituto de Investigaciones Legislativa se impulsar los programas del mismo;
 
 IV. Coordinarse con instituciones académicas y de investigación para el apoyo de las tareas del Instituto;
 
-V. Actualizar, a través del área correspondiente, el Sistema Estatal Normativo que deberá contener las leyes, decretos, reglamentos y demás normas que rijan en el Estado;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2010)</small>
 
-VI. Evaluar y presentar al Pleno, los proyectos de programa y presupuesto anual del Instituto;
+V. Actualizar, a través de la Dirección de Procesos Legislativos y Asuntos Jurídicos, el Sistema Estatal Normativo que deberá contener las leyes, decretos, reglamentos y demás normas que rijan en el Estado;
+
+VI. (DEROGADA, P.O. 8 DE MAYO DE 2010)
 
 VII. Proponer a la Comisión Editorial la inserción de trabajos y artículos que fomenten el estudio del derecho parlamentario;
 
@@ -2021,7 +2025,9 @@ I. La Secretaría General, es el ámbito de coordinación y supervisión de los 
 
 II. La Dirección de Apoyo Parlamentario, apoyará las funciones relativas al protocolo, conducción de sesiones, levantamiento de actas y compilación del diario de los debates;
 
-III. La Dirección de Procesos Legislativos y Asuntos Jurídicos, será la encargada de asesorar técnicamente a las comisiones legislativas en materia de iniciativas, dictámenes y expedición de leyes, decretos o acuerdos, así como asistir a la instancia que tiene la representación jurídica de la Asamblea en los asuntos jurisdiccionales en los que ésta intervenga; y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2010)</small>
+
+III. La Dirección de Procesos Legislativos y Asuntos Jurídicos, será la encargada de asesorar técnicamente a las comisiones legislativas en materia de iniciativas, dictámenes y expedición de leyes, decretos o acuerdos; realizar estudios e investigaciones en materia legislativa, así como asistir a la instancia que tiene la representación jurídica de la Asamblea en los asuntos jurisdiccionales en los que ésta intervenga; y
 
 IV. La Dirección de Administración y Finanzas, apoyará las funciones relativas al desarrollo de la actividad administrativa interna de la Legislatura bajo la supervisión y lineamientos que señale la Comisión de Planeación, Patrimonio y Finanzas.
 
@@ -2029,7 +2035,9 @@ IV. La Dirección de Administración y Finanzas, apoyará las funciones relativa
 
 La Secretaría General, además, tendrá a su cargo, como órganos de apoyo a la actividad legislativa, la coordinación de las siguientes unidades:
 
-I. Instituto de Investigaciones Legislativas;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2010)</small>
+
+I. Instituto de Investigaciones Legislativas, mismo que estará adscrito a la Dirección de Procesos Legislativos y Asuntos Jurídicos;
 
 II. Coordinación de Comunicación Social; y
 
@@ -2047,9 +2055,13 @@ II. Subdirección del Diario de los Debates.
 
 La Dirección de Procesos Legislativos y Asuntos Jurídicos, se integra por:
 
-I. Subdirección de Procesos Legislativos; y
+I. Subdirección de Procesos Legislativos; y (sic)
 
-II. Subdirección de Asuntos Contenciosos.
+II. Subdirección de Asuntos Contenciosos;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2010)</small>
+
+III. Instituto de Investigaciones Legislativas.
 
 ###### ARTÍCULO 165.
 
@@ -2178,3 +2190,9 @@ DECRETO NO. 347 QUE DEROGAN Y REFORMAN LOS ARTICULOS 77, 82, 83 Y 125 DE LA LEY 
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+P.O. 8 DE MAYO DE 2010.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que contravengan este Decreto.
