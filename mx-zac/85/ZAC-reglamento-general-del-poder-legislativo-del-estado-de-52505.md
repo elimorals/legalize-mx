@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-52505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-13"
-last_updated: "2009-07-11"
+last_updated: "2010-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de diciembre de 2006.
 
@@ -1931,7 +1931,7 @@ XXVII. Autorizar, previa anuencia de los Presidentes de las Comisiones de Régim
 
 Son unidades de apoyo directo de la Secretaría General, las siguientes:
 
-I. El Instituto de Investigaciones Legislativas;
+I. (DEROGADA, P.O. 8 DE MAYO DE 2010)
 
 II. La Coordinación de Comunicación Social, y
 
@@ -1979,9 +1979,11 @@ VIII. Sugerir el establecimiento de nuevos servicios a los usuarios y la mejorí
 
 IX. Participar en la aplicación de sanciones y en el levantamiento de actas administrativas del personal a su cargo, conforme a la legislación aplicable.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MAYO DE 2010)</small>
+
 ###### Artículo 230.
 
-El Instituto de Investigaciones Legislativas tendrá las siguientes funciones:
+El Instituto de Investigaciones Legislativas, estará adscrito a la Dirección de Procesos Legislativos y Asuntos Jurídicos y tendrá las siguientes funciones:
 
 I. Elaborar proyectos de iniciativas, proporcionar los servicios de consultoría respecto de la aplicación e interpretación de la Ley, reglamentos, práctica y usos parlamentarios, así como realizar estudios legislativos;
 
@@ -2153,7 +2155,9 @@ VIII. Revisar que todos los actos jurídicos que deban ser suscritos por cualqui
 
 IX. Emitir opinión sobre las reformas y adiciones a la Ley, el presente Reglamento y los manuales de organización de la Legislatura;
 
-X. Coordinarse con el Instituto de Investigaciones Legislativas con la finalidad fortalecer el trabajo de la Legislatura relacionado con la formulación de estudios e investigaciones en materia legislativa, y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2010)</small>
+
+X. Dirigir, coordinar y supervisar el Instituto de Investigaciones Legislativas, y
 
 XI. Las demás que le encomiende la Secretaría General.
 
@@ -2312,3 +2316,9 @@ DECRETO NUMERO 347, POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN LOS ARTICULOS 18
 Artículo primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+P.O. 8 DE MAYO DE 2010.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que contravengan este Decreto.
