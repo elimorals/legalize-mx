@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-contencioso-administrativo-para-el-28565"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-19"
-last_updated: "2009-09-07"
+last_updated: "2010-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 19 de septiembre de 1999.
 
@@ -81,11 +81,23 @@ VI.- De los juicios en contra de las resoluciones definitivas por responsabilida
 
 VII.- De los juicios en contra de las resoluciones dictadas conforme a una ley especial, que le otorgue competencia al Tribunal de lo Contencioso Administrativo del Estado;
 
-(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2009) (F. DE E., P.O. 21 DE SEPTIEMBRE DE 2009)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII.- De las controversias suscitadas entre la Administración Pública y los Agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales del Estado y sus Municipios; y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2010)</small>
 
-IX.- De los recursos que concedan las leyes en contra de los acuerdos que se dicten en la tramitación de los juicios;
+VIII.- De las controversias suscitadas entre la Administración Pública y los Agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales del Estado y sus Municipios;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2010)</small>
+
+IX.- De los recursos que concedan las leyes en contra de los acuerdos que se dicten en la tramitación de los juicios; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2010)</small>
+
+X.- De los procedimientos de responsabilidad patrimonial del Estado en términos de la ley respectiva.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
@@ -95,7 +107,9 @@ Para los efectos de las dos primeras Fracciones de este Artículo, las resolucio
 
 El Procedimiento Contencioso Administrativo, no procederá en el caso de controversias que se susciten en materia electoral y laboral, así como las derivadas de universidades o instituciones educativas constituidas como organismos descentralizados, que gocen de personalidad jurídica y patrimonio propios y que no hubieren actuado como autoridades.
 
-Asimismo, quedan excluidos del procedimiento establecido en esta Ley, los actos y conductas de los servidores públicos en el ejercicio de sus funciones, los cuales se regulan por las legislaciones respectivas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 10 DE MAYO DE 2010)</small>
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
@@ -391,7 +405,7 @@ Cuando se impugne una negativa ficta, el actor tendrá derecho de ampliar la dem
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
-También podrá ampliar la demanda, cuando en la contestación se sostenga que el juicio es improcedente, por consentimiento tácito, si el actor considera que la notificación del acto impugnado se practicó de manera ilegal y cuando con motivo de la contestación, se introduzcan cuestiones que, sin violar el primer párrafo del Articulo 37, no sean conocidas por el actor al presentar la demanda.
+También podrá ampliar la demanda, cuando en la contestación se sostenga que el juicio es improcedente, por consentimiento tácito, si el actor considera que la notificación del acto impugnado se practicó de manera ilegal y cuando con motivo de la contestación, se introduzcan cuestiones que, sin violar el primer párrafo del Artículo 37, no sean conocidas por el actor al presentar la demanda.
 
 Cuando se alegue que el acto administrativo no fue notificado o que lo fue de manera ilegal se estará a lo siguiente:
 
@@ -671,7 +685,7 @@ VI.- Se dará por concluida la audiencia y se citará a las partes para oír sen
 
 ###### ARTICULO 59.
 
-La sentencia deberá ser dictada dentro de los10 días siguientes a aquel en que se celebró la audiencia.
+La sentencia deberá ser dictada dentro de los 10 días siguientes a aquel en que se celebró la audiencia.
 
 Para dictar resolución en los casos de sobreseimiento previstos en el Artículo 26 de esta Ley, no será necesario que se celebre la audiencia en el juicio.
 
@@ -914,3 +928,23 @@ P.O. 7 DE SEPTIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE MAYO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia el día 1º de enero del año 2011.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos que se encuentren en trámite en las dependencias o entidades relacionados con la indemnización a los particulares, derivados de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+El Estado incluirá el monto de las partidas que, en términos de la Ley de Presupuesto, Contabilidad y Gasto Público Estatal, deberá destinarse para cubrir las responsabilidades patrimoniales del Estado dentro del Presupuesto de Egresos para el año 2011.
+
+Los Ayuntamientos establecerán en sus respectivos presupuestos la partida que deberá destinarse para cubrir las responsabilidades patrimoniales que pudieran desprenderse de este ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
