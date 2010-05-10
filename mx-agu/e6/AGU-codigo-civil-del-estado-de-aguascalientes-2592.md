@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2010-04-05"
+last_updated: "2010-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2010.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2147,7 +2147,7 @@ Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán
 
 ###### Artículo 299.
 
-El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 289, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
+El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 289, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con conosimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
 ###### Artículo 300.
 
@@ -10101,21 +10101,35 @@ Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el art�
 
 La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 1790.
 
-Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva conforme a los artículos 1787 y 1803, así como el Estado y sus Servidores Públicos, conforme a lo establecido por el artículo 1802, todos ellos del presente Código.
+Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva conforme a los Artículos 1787 y 1803, todos ellos del presente Código.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físico, o bien en la consideración que de sí misma tienen los demás. Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad, la integridad física o psíquica, o el honor de las personas.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6 y 7 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiera causado tal conducta.
 
@@ -10163,11 +10177,11 @@ En los casos previstos por los artículos 1797, 1798 y 1799 el que sufra el dañ
 
 El que paga el daño causado por sus sirvientes, empleados u operarios, puede repetir de ellos lo que hubiere pagado.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### ARTICULO 1802.
 
-El Estado, los Municipios y Organismos Estatales Descentralizados o Desconcentrados, tienen obligación de responder del pago de los daños y perjuicios causados por sus empleados y funcionarios con motivo del ejercicio de las atribuciones que les estén encomendadas. Esta responsabilidad será solidaria tratándose de actos ilícitos dolosos, y subsidiaria en los demás casos, en los que sólo podrá hacerse efectiva en contra de las entidades referidas cuando el servidor público directamente responsable, no tenga bienes o los que tenga no sean suficientes para responder de los daños y perjuicios causados.
+(DEROGADO, P.O. 10 DE MAYO DE 2010)
 
 ###### Artículo 1803.
 
@@ -16416,3 +16430,23 @@ P.O. 5 DE ABRIL DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MAYO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia el día 1º de enero del año 2011.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos que se encuentren en trámite en las dependencias o entidades relacionados con la indemnización a los particulares, derivados de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+El Estado incluirá el monto de las partidas que, en términos de la Ley de Presupuesto, Contabilidad y Gasto Público Estatal, deberá destinarse para cubrir las responsabilidades patrimoniales del Estado dentro del Presupuesto de Egresos para el año 2011.
+
+Los Ayuntamientos establecerán en sus respectivos presupuestos la partida que deberá destinarse para cubrir las responsabilidades patrimoniales que pudieran desprenderse de este ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
