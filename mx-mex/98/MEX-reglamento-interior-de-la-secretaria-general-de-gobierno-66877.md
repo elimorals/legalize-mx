@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-general-de-gobierno-66877"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-09"
-last_updated: "2009-02-09"
+last_updated: "2010-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MAYO DE 2010.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -59,67 +59,141 @@ II. Subsecretaría de Gobierno Valle de Toluca.
 
 III. Subsecretaría de Gobierno Valle de México Zona Nororiente.
 
-IV. Subsecretaría de Gobierno Valle de México Zona Oriente.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
 
-V. Subsecretaría de Información y Desarrollo Político.
+IV. Subsecretaría de Gobierno Valle de México Zona Oriente I.
 
-VI. Subsecretaría de Asuntos Jurídicos.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
 
-VII. Coordinación de Gobierno Valle de Toluca.
+V. Subsecretaría de Gobierno Valle de México Zona Oriente II.
 
-VIII. Coordinación de Gobierno Valle de México Zona Nororiente.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
 
-IX. Coordinación de Gobierno Valle de México Zona Oriente.
+VI. Subsecretaría de Información y Desarrollo Político.
 
-X. Dirección General de Gobierno Región Atlacomulco.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
 
-XI. Dirección General de Gobierno Región Ixtapan de la Sal.
+VII. Subsecretaría de Asuntos Jurídicos.
 
-XII. Dirección General de Gobierno Región Lerma.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
 
-XIII. Dirección General de Gobierno Región Tejupilco.
+VIII. Coordinación de Gobierno Valle de Toluca.
 
-XIV. Dirección General de Gobierno Región Toluca.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
 
-XV. Dirección General de Gobierno Región Valle de Bravo.
+IX. Coordinación de Gobierno Valle de México Zona Nororiente.
 
-XVI. Dirección General de Gobierno Región Cuautitlán Izcalli.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
 
-XVII. Dirección General de Gobierno Región Naucalpan.
+X. Coordinación de Gobierno Valle de México Zona Oriente I.
 
-XVIII. Dirección General de Gobierno Región Tlalnepantla.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
 
-XIX. Dirección General de Gobierno Región Tultitlán.
+XI. Coordinación de Gobierno Valle de México Zona Oriente II.
 
-XX. Dirección General de Gobierno Región Zumpango.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
 
-XXI. Dirección General de Gobierno Región Amecameca.
+XII. Dirección General de Gobierno Región Atlacomulco.
 
-XXII. Dirección General de Gobierno Región Chimalhuacán.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
 
-XXIII. Dirección General de Gobierno Región Ecatepec.
+XIII. Dirección General de Gobierno Región Ixtapan de la Sal.
 
-XXIV. Dirección General de Gobierno Región Nezahualcóyotl.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
 
-XXV. Dirección General de Gobierno Región Texcoco.
+XIV. Dirección General de Gobierno Región Lerma.
 
-XXVI. Dirección General de Gobierno Región Otumba.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
 
-XXVII. Dirección General de Información Sociopolítica.
+XV. Dirección General de Gobierno Región Tejupilco.
 
-XXVIII. Dirección General de Vinculación y Desarrollo Político.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
 
-XXIX. Dirección General del Registro Civil.
+XVI. Dirección General de Gobierno Región Toluca.
 
-XXX. Dirección General Jurídica y Consultiva.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
 
-XXXI. Dirección Técnica y del Periódico Oficial "Gaceta del Gobierno".
+XVII. Dirección General de Gobierno Región Valle de Bravo.
 
-XXXII. Unidad de Asuntos Agrarios.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
 
-XXXIII. Coordinación Administrativa.
+XVIII. Dirección General de Gobierno Región Cuautitlán Izcalli.
 
-XXXIV. Contraloría Interna.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XIX. Dirección General de Gobierno Región Naucalpan.
+
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XX. Dirección General de Gobierno Región Tlalnepantla.
+
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XXI. Dirección General de Gobierno Región Tultitlán.
+
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XXII. Dirección General de Gobierno Región Zumpango.
+
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XXIII. Dirección General de Gobierno Región Amecameca.
+
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XXIV. Dirección General de Gobierno Región Chimalhuacán.
+
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XXV. Dirección General de Gobierno Región Ecatepec.
+
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XXVI. Dirección General de Gobierno Región Nezahualcóyotl.
+
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XXVII. Dirección General de Gobierno Región Texcoco.
+
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XXVIII. Dirección General de Gobierno Región Otumba.
+
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XXIX. Dirección General de Gobierno Región Chalco.
+
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XXX. Dirección General de Información Sociopolítica.
+
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XXXI. Dirección General de Vinculación y Desarrollo Político.
+
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XXXII. Dirección General del Registro Civil.
+
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XXXIII. Dirección General Jurídica y Consultiva.
+
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XXXIV. Dirección Técnica y del Periódico Oficial "Gaceta del Gobierno".
+
+> <small>(ADICIONADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XXXV. Unidad de Asuntos Agrarios.
+
+> <small>(ADICIONADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XXXVI. Coordinación Administrativa.
+
+> <small>(ADICIONADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XXXVII. Contraloría Interna
 
 La Secretaría contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización de esta dependencia. Asimismo, contará con los órganos técnicos y con los servidores públicos necesarios para el cumplimiento de sus atribuciones, en términos de su estructura orgánica, presupuesto y normatividad aplicable.
 
@@ -289,9 +363,17 @@ I. Subsecretaría de Gobierno Valle de Toluca.
 
 II. Subsecretaría de Gobierno Valle de México Zona Nororiente.
 
-III. Subsecretaría de Gobierno Valle de México Zona Oriente.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
 
-IV. Subsecretaría de Información y Desarrollo Político.
+III. Subsecretaría de Gobierno Valle de México Zona Oriente I.
+
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+IV. Subsecretaría de Gobierno Valle de México Zona Oriente II.
+
+> <small>(ADICIONADA, G.G. 10 DE MAYO DE 2010)</small>
+
+V. Subsecretaría de Información y Desarrollo Político.
 
 ###### Artículo 12.
 
@@ -347,21 +429,35 @@ IV. Dirección General de Gobierno Región Tultitlán.
 
 V. Dirección General de Gobierno Región Zumpango.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE MAYO DE 2010)</small>
+
 ###### Artículo 15.
 
-Para el ejercicio de sus atribuciones, la Subsecretaría de Gobierno Valle de México Zona Oriente contará con la Coordinación de Gobierno Valle de México Zona Oriente, a la que se le adscribirán las unidades administrativas siguientes:
+Para el ejercicio de sus atribuciones, la Subsecretaría de Gobierno Valle de México Zona Oriente I contará con la Coordinación de Gobierno Valle de México Zona Oriente I, a la que se le adscribirán las unidades administrativas siguientes:
 
-I. Dirección General de Gobierno Región Amecameca.
+I. (DEROGADA, G.G. 10 DE MAYO DE 2010)
 
 II. Dirección General de Gobierno Región Chimalhuacán.
 
 III. Dirección General de Gobierno Región Ecatepec.
 
-IV. Dirección General de Gobierno Región Nezahualcóyotl.
+IV. (DEROGADA, G.G. 10 DE MAYO DE 2010)
 
 V. Dirección General de Gobierno Región Texcoco.
 
 VI. Dirección General de Gobierno Región Otumba.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2010)</small>
+
+###### Artículo 15 Bis.
+
+Para el ejercicio de sus atribuciones, la Subsecretaría de Gobierno Valle de México Zona Oriente II contará con la Coordinación de Gobierno Valle de México Zona Oriente II, a la que se le adscribirán las unidades administrativas siguientes:
+
+I. Dirección General de Gobierno Región Amecameca.
+
+II. Dirección General de Gobierno Región Nezahualcóyotl.
+
+III. Dirección General de Gobierno Región Chalco.
 
 ###### Artículo 16.
 
@@ -725,7 +821,13 @@ IX. Atender y ejecutar los programas y acciones que instruya el titular del Pode
 
 X. Coordinar las acciones de gobierno para la atención de los asuntos agrarios.
 
-XI. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario.
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XI. Intervenir en los juicios agrarios en los que el Titular del Poder Ejecutivo Estatal sea parte.
+
+> <small>(ADICIONADA, G.G. 10 DE MAYO DE 2010)</small>
+
+XII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario.
 
 ### CAPÍTULO IV. DE LA DESCONCENTRACIÓN ADMINISTRATIVA
 
@@ -776,3 +878,13 @@ SECRETARIO GENERAL DE GOBIERNO
 DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 10 DE MAYO DE 2010.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que sean contrarias a las establecidas en el presente Acuerdo.
