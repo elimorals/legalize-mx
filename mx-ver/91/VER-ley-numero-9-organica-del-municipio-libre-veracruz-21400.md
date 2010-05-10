@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2010-04-22"
+last_updated: "2010-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MAYO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -515,11 +515,15 @@ XLVII. Nombrar al Cronista Municipal quien deberá llevar el registro escrito de
 
 > <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
-XLVIII. Promover entre los habitantes del municipio el conocimiento, respeto y defensa de los derechos humanos; y
+XLVIII. Promover entre los habitantes del municipio el conocimiento, respeto y defensa de los derechos humanos; y (sic)
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 3 DE ENERO DE 2007)</small>
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2010)</small>
 
-XLIX. Las demás que expresamente señalen la Constitución Local, esta Ley y demás leyes del Estado.
+XLIX. Aprobar el padrón regional de contratistas de acuerdo al registro de la Secretaría de Finanzas y Planeación, para los casos de contratación de obra por adjudicación directa y por invitación restringida, propuesto por la comisión municipal de Comunicaciones y Obras Públicas;
+
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2010)</small>
+
+L. Las demás que expresamente señalen la Constitución local, esta ley y demás leyes del Estado.
 
 ### CAPÍTULO V. DEL SÍNDICO
 
@@ -889,19 +893,25 @@ Son atribuciones de la Comisión de Comunicaciones y Obras Públicas:
 
 I. Proponer la nomenclatura de las calles, plazas, jardines y paseos públicos, procurando que no se empleen nombres de personas que aún vivan, mandar fijar las placas correspondientes, exigir a los propietarios de fincas urbanas la numeración progresiva de éstas e informar a la autoridad catastral, al Registro Público de la Propiedad y a las oficinas recaudadoras de contribuciones de los cambios acordados en las numeraciones de las casas y denominaciones de las calles;
 
-II. Procurar y cuidar la pavimentación, embanquetado, nivelación y apertura de calles y plazas;
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2010)</small>
 
-III. Promover la conservación de edificios y monumentos municipales;
+II. Proponer al Ayuntamiento un padrón regional de contratistas de acuerdo al registro de la Secretaría de Finanzas y Planeación, para los casos de contratación de obra por adjudicación directa y por invitación restringida;
 
-IV. Inspeccionar la construcción de toda clase de obras materiales propiedad del Municipio, intervenir en la formulación de los presupuestos respectivos y opinar acerca de los que se presenten;
+III. Procurar y cuidar la pavimentación, embanquetado, nivelación y apertura de calles y plazas;
 
-V. Inspeccionar la construcción de edificios públicos a fin de garantizar su seguridad y alineación respecto de los contiguos;
+IV. Promover la conservación de edificios y monumentos municipales;
 
-VI. Proponer proyectos para la construcción de puentes, acueductos, presas y la creación, conservación y mejoramiento de toda clase de vías de comunicación dentro del Municipio;
+V. Inspeccionar la construcción de toda clase de obras materiales propiedad del Municipio, intervenir en la formulación de los presupuestos respectivos y opinar acerca de los que se presenten;
 
-VII. Auxiliar a las autoridades federales y estatales en la conservación del patrimonio histórico y cultural; y
+VI. Inspeccionar la construcción de edificios públicos a fin de garantizar su seguridad y alineación respecto de los contiguos;
 
-VIII. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2010)</small>
+
+VII. Proponer proyectos para la construcción de puentes, acueductos, presas y la creación, conservación y mejoramiento de toda clase de vías de comunicación dentro del municipio;
+
+VIII. Auxiliar a las autoridades federales y estatales en la conservación del patrimonio histórico y cultural; y
+
+IX. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
 
 ###### Artículo 51.
 
@@ -989,13 +999,17 @@ Son atribuciones de la Comisión de Comercio, Centrales de Abasto, Mercados y Ra
 
 I. Proponer al Ayuntamiento las medidas que estime necesarias para evitar la carestía de los artículos de primera necesidad y las franquicias tendientes a lograr ese objeto, así como las medidas correctivas necesarias;
 
-II. Cuidar del buen funcionamiento de los mercados y plazas, procurando la mejor y más cómoda colocación de los vendedores;
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2010)</small>
 
-III. Vigilar que el manejo de alimentos y bebidas se haga en los lugares y formas adecuadas y que las centrales de abastos y mercados reúnan las condiciones higiénicas necesarias;
+II. Proponer mecanismos de coordinación entre productores, comerciantes y empresarios del municipio para promover y ofertar sus productos en la región, mediante mercados, tianguis y ferias populares;
 
-IV. Vigilar que no se cometan fraudes en el peso, medida y precio de las mercancías; y
+III. Cuidar del buen funcionamiento de los mercados y plazas, procurando la mejor y más cómoda colocación de los vendedores;
 
-V. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
+IV. Vigilar que el manejo de alimentos y bebidas se haga en los lugares y formas adecuadas y que las centrales de abastos y mercados reúnan las condiciones higiénicas necesarias;
+
+V. Vigilar que no se cometan fraudes en el peso, medida y precio de las mercancías; y
+
+VI. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
 
 ###### Artículo 56.
 
@@ -3037,10 +3051,6 @@ Primero. Este decreto entrará en vigor al día siguiente de su publicación en 
 
 Segundo. Los procedimientos de revocación o suspensión del mandato de los ediles, así como de suspensión de ayuntamientos que se encuentren substanciándose al iniciar la vigencia de este decreto, serán resueltos conforme a las disposiciones que les dieron origen, sin perjuicio de la aplicación retroactiva en beneficio del servidor público, o del ayuntamiento inculpados.
 
-G.O. 15 DE AGOSTO DE 2007.
-
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
-
 G.O. 7 DE ENERO DE 2009.
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
@@ -3096,3 +3106,19 @@ G.O. 22 DE ABRIL DE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto
+
+G.O. 10 DE MAYO DE 2010.
+
+DECRETO NUMERO 828, POR EL QUE SE ADICIONAN LAS FRACCIONES XLIX AL ARTICULO 35; Y II AL ARTICULO 50, DE LA LEY ORGANICA DEL MUNICIPIO LIBRE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE MAYO DE 2010.
+
+DECRETO NUMERO 829, POR EL QUE SE ADICIONA LA FRACCION II AL ARTICULO 55, DE LA LEY ORGANICA DEL MUNICIPIO LIBRE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
