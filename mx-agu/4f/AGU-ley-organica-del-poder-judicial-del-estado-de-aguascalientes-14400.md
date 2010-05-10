@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2009-09-21"
+last_updated: "2010-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2010.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -517,9 +517,11 @@ En el Supremo Tribunal de Justicia el turno lo llevarán los presidentes de Sala
 
 ### CAPITULO VIII (SIC). Del Tribunal Electoral
 
+(NOTA: EL 12 DE NOVIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2009 Y SU ACUMULADA 53/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE NOVIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
 
-ARTICULO 33 A.- En términos de lo que establecen los Artículos 17 y 51 de la Constitución Política del Estado, el Tribunal Electoral es la máxima autoridad jurisdiccional en materia electoral y órgano temporal especializado; es autónomo e independiente en sus decisiones y sus resoluciones y actos se sujetarán de manera invariable a los principios de legalidad y definitividad.
+ARTICULO 33 A.- En términos de lo que establecen los Artículos 17 y 51 de la Constitución Política del Estado, el Tribunal Electoral es la máxima autoridad jurisdiccional en materia electoral y órgano TEMPORAL especializado; es autónomo e independiente en sus decisiones y sus resoluciones y actos se sujetarán de manera invariable a los principios de legalidad y definitividad.
 
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
 
@@ -539,9 +541,11 @@ IV.- Las demás facultades y atribuciones que la Ley Electoral del Estado le con
 
 Las resoluciones del Pleno del Tribunal Electoral sólo podrán revisarse o modificarse por el Colegio Electoral en la elección de Gobernador.
 
+(NOTA: EL 12 DE NOVIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2009 Y SU ACUMULADA 53/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE NOVIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
 
-ARTICULO 33 D.- Los Magistrados del Tribunal Electoral se nombrarán en la forma que establece el Artículo 54 de la Constitución Política del Estado. Los miembros de dicho Tribunal sólo durarán en su encargo el tiempo que dure el proceso electoral correspondiente, en términos de esta Ley.
+ARTICULO 33 D.- Los Magistrados del Tribunal Electoral se nombrarán en la forma que establece el Artículo 54 de la Constitución Política del Estado. LOS MIEMBROS DE DICHO TRIBUNAL SÓLO DURARÁN EN SU ENCARGO EL TIEMPO QUE DURE EL PROCESO ELECTORAL CORRESPONDIENTE, EN TÉRMINOS DE ESTA LEY.
 
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
 
@@ -678,6 +682,12 @@ VIII.- Resolver los recursos que concedan las leyes en contra de los acuerdos qu
 IX.- Establecer la jurisprudencia del Tribunal;
 
 Para los efectos de las dos primeras fracciones de este artículo, las resoluciones se considerarán definitivas, cuando no admitan recurso administrativo o cuando, previéndolo el afectado opte por no agotarlo y acuda directamente al Tribunal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2010)</small>
+
+El Tribunal conocerá de igual forma, de los procedimientos de responsabilidad patrimonial del Estado en términos de la ley respectiva.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -1626,3 +1636,23 @@ El Presupuesto de Egresos para el Ejercicio Fiscal del año dos mil diez, deber�
 ###### ARTÍCULO TERCERO.
 
 El Poder Ejecutivo, deberá emitir las Reglas de Operación para la Administración del Fondo para la Indemnización de Sentenciados Absueltos, en un plazo no mayor a noventa días naturales, contados a partir de la publicación del presente Decreto.
+
+P.O. 10 DE MAYO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia el día 1º de enero del año 2011.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos que se encuentren en trámite en las dependencias o entidades relacionados con la indemnización a los particulares, derivados de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+El Estado incluirá el monto de las partidas que, en términos de la Ley de Presupuesto, Contabilidad y Gasto Público Estatal, deberá destinarse para cubrir las responsabilidades patrimoniales del Estado dentro del Presupuesto de Egresos para el año 2011.
+
+Los Ayuntamientos establecerán en sus respectivos presupuestos la partida que deberá destinarse para cubrir las responsabilidades patrimoniales que pudieran desprenderse de este ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
