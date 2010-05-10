@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-aguascalentense-de-las-26135"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-14"
-last_updated: "2002-10-14"
+last_updated: "2010-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO AGUASCALENTENSE DE LAS MUJERES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2010.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de octubre de 2002.
 
@@ -51,9 +51,11 @@ IV.- Directora General, a la Directora General del Instituto Aguascalentense de 
 
 V.- Consejo.- Al Consejo Consultivo de la Mujer.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 3°.
 
-Para el cumplimiento de su objeto, el Instituto contará con las Directoras y los Directores, Subdirectoras y Subdirectores, Jefas y Jefes de Departamento, Jefas y Jefes de Sección, grupos de trabajo, personal administrativo, así como el número de comités de apoyo, éstos últimos autorizados por la Junta, necesarios para el cumplimiento de sus atribuciones, de conformidad con el presupuesto de egresos.
+Para el cumplimiento de su objeto, el Instituto contará con las Directoras y los Directores, Coordinadoras y Coordinadores, grupos de trabajo, personal administrativo, así como el número de comités de apoyo, éstos últimos autorizados por la Junta, necesarios para el cumplimiento de sus atribuciones, de conformidad con el presupuesto de egresos respectivo.
 
 ###### ARTICULO 4°.
 
@@ -215,19 +217,27 @@ XI.- Las demás que le otorgue la Junta.
 
 La Secretaria Ejecutiva además de las facultades y obligaciones señaladas en el artículo 16 de la Ley, tendrá las siguientes atribuciones:
 
-I.- Administrar, dirigir y coordinar los trabajos de las direcciones de área; y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2010)</small>
+
+I.- Administrar, dirigir y coordinar los trabajos de las direcciones y coordinaciones de área; y
 
 II.- Ejercer en ausencia de la Directora General, las atribuciones contenidas en las fracciones IV, VIII, XVI y XX del artículo 14 (sic) la Ley.
 
-### CAPITULO VII. De las Atribuciones Genéricas de las Directoras o Directores
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MAYO DE 2010)</small>
+
+### CAPITULO VII. De las Atribuciones Genéricas de las Directoras, Directores, Coordinadoras y Coordinadores
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 21.
 
-Las y los titulares que estarán al frente de las Direcciones que constituyen el Instituto, tendrán a su cargo la conducción técnica y administrativa de las mismas y serán responsables ante la Directora General de su correcto funcionamiento, y actuarán bajo la coordinación de la Secretaría Ejecutiva. Dichos titulares serán auxiliados en la atención y despacho de los asuntos a su cargo, por las y los Subdirectores y Jefes(as) de Departamento que se indican para cada dirección y por el personal que las necesidades del servicio requiera y que autorice la Junta.
+Las y los titulares que estarán al frente de las Direcciones que constituyen el Instituto así como las Coordinaciones de apoyo, tendrán a su cargo la conducción técnica y administrativa de las mismas y serán responsables ante la Directora General de su correcto funcionamiento, y actuarán bajo la coordinación de la Secretaría Ejecutiva. Dichos titulares serán auxiliados en la atención y despacho de los asuntos a su cargo, por las Coordinadoras y Coordinadores que se indican para cada dirección y por el personal que las necesidades del servicio requiera y que autorice la Junta.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 22.
 
-Corresponde a las y los titulares de las Direcciones que conforman el Instituto, las siguientes atribuciones genéricas:
+Corresponde a las y los titulares de las Direcciones y Coordinaciones que conforman el Instituto, las siguientes atribuciones genéricas:
 
 I.- Planear, programar, organizar, ejecutar, controlar y evaluar el desarrollo de los programas y acciones encomendados a la unidad administrativa bajo su responsabilidad;
 
@@ -247,7 +257,9 @@ VIII.- Atender al público en los asuntos de la competencia de la unidad adminis
 
 IX.- Suscribir los documentos relativos al ejercicio de sus funciones y aquéllos que le sean señalados por delegación.
 
-### CAPITULO VIII. De las Atribuciones Específicas de las Direcciones
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MAYO DE 2010)</small>
+
+### CAPITULO VIII. De las Atribuciones Específicas de las Direcciones y Coordinaciones
 
 ###### ARTICULO 23.
 
@@ -267,7 +279,7 @@ VI.- Diseñar y proponer acciones tendientes a avanzar en el reconocimiento soci
 
 VII.- Promover, organizar y participar en conferencias, cursos, talleres, encuentros y eventos en general relacionados con la mujer en materias específicas como familia, violencia contra la mujer, derechos de la mujer, participación en la toma de decisiones y las demás que le señale la Directora General, dentro de la esfera de sus atribuciones;
 
-VIII.-Dar a conocer los derechos de la mujer para impulsar el pleno ejercicio de los mismos, así como su defensa y protección;
+VIII.- Dar a conocer los derechos de la mujer para impulsar el pleno ejercicio de los mismos, así como su defensa y protección;
 
 IX.- Ejercer por delegación de la Directora General, como apoderado legal del Instituto, previa aprobación de la Junta;
 
@@ -279,7 +291,11 @@ XII.- Revisar de manera permanente los Códigos, .Leyes y Reglamentos que puedan
 
 XIII.- Recopilar y difundir la información legislativa, jurisprudencial y administrativa referida a los aspectos jurídicos del Instituto;
 
-XIV.-Definir las estrategias normativas para la elaboración y ejecución de los programas de la mujer;
+XIV.- Definir las estrategias normativas para la elaboración y ejecución de los programas de la mujer;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2010)</small>
+
+XIV Bis.- Proporcionar servicios de asesoría jurídica, acompañamiento, atención psicológica y trabajo social a mujeres receptoras de violencia a través de la Coordinación de los Núcleos de Atención Integral en los términos previstos por los artículos 18, 19 y 22 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes y 20 de su Reglamento.
 
 XV.- Emitir la normatividad para la elaboración, desarrollo y modificación de los programas que vayan dirigidos a la mujer; y
 
@@ -335,6 +351,14 @@ VII.- Promover financiamientos para la instalación de los proyectos productivos
 
 VIII.- Promover, organizar y participar en conferencias, cursos, talleres, encuentros y eventos en general, relacionados con la mujer en materias específicas corno educación, salud, empleo, marginalidad y las demás que le señale la Directora General, dentro de la esfera de sus atribuciones;
 
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2010)</small>
+
+VIII Bis.- Promover y fomentar la Institucionalización de la perspectiva de género en la administración pública estatal y municipal mediante la instrumentación de acciones permanentes orientadas a la construcción de una nueva cultura institucional que reduzca las brechas de desigualdad entre mujeres y hombres en el ámbito de la función pública.
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2010)</small>
+
+VIII Ter.- Realizar por conducto de la Coordinación de Investigación y Estadística, estudios de investigación y diagnósticos estadísticos sobre los avances o áreas de oportunidad existentes en materia de igualdad entre mujeres y hombres, para la generación de líneas de acción que contribuyan a la formulación de políticas públicas que contribuya en la disminución de las brechas de desigualdad entre mujeres y hombres así como sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, para la generación de líneas de acción que contribuyan a la formulación de políticas públicas en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres por razones de género.
+
 IX.- Formular, para su propuesta por el Instituto a las autoridades competentes, estudios y recomendaciones para la prestación de servicios de apoyo a las madres y padres que trabajan, en condiciones suficientes, eficientes, adecuadas y de calidad, con horarios flexibles y que consideren las necesidades de ambos sexos; y
 
 X.- Formular, para su propuesta por el Instituto a las autoridades competentes, estudios y recomendaciones que tengan por objeto, en su caso, garantizar el ingreso, permanencia y reingreso de las mujeres a todos los niveles y modalidades del sistema educativo; el acceso de aquéllas de la tercera edad, discapacitadas y de minorías étnicas a programas asistenciales y culturales, y el acceso de las mujeres a servicios integrales de atención a la salud en condiciones de calidad y tomando en Cuenta las características particulares de su ciclo de vida, condición social y ubicación geográfica de su lugar de residencia.
@@ -374,6 +398,42 @@ XIV. Proponer las adecuaciones necesarias al presupuesto de egresos del Institut
 XV. Administrar las instalaciones y centros a cargo del Instituto; y
 
 XVI. Coadyuvar y concertar con los sectores público, social y privado, apoyos económicos y patrocinios en los programas y eventos en que participe el Instituto.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2010)</small>
+
+###### ARTICULO 26 Bis.
+
+Corresponde a la Coordinación de Investigación e Información Estadística, adscrita a la Dirección de Educación y Fomento Productivo, las siguientes atribuciones:
+
+I. Realizar estudios de investigación y diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, para la generación de líneas de acción que posibiliten la formulación de políticas públicas en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres por razones de género.
+
+II. Realizar estudios de investigación y diagnósticos estadísticos sobre los avances o áreas de oportunidad existentes en materia de igualdad entre mujeres y hombres, para la generación de líneas de acción que contribuyan a la formulación de políticas públicas a fin de disminuir las brechas de desigualdad entre mujeres y hombres.
+
+III. Implementar acciones que permitan la sistematización y análisis de la información generada por las distintas áreas del Instituto Aguascalentense de las Mujeres.
+
+IV. Promover la generación de estudios en las instituciones académicas y de educación superior en la entidad, para que incluyan en su realización aspectos que diferencien las situaciones específicas de mujeres y hombres.
+
+V. Impulsar la generación de estadísticas específicas y con perspectiva de género en la Administración Pública Estatal, que permitan obtener un panorama de la situación de las mujeres y los hombres en la entidad.
+
+VI. Actualizar permanentemente los indicadores generados por las dependencias y entidades de la administración pública estatal y municipal para evaluar la política pública en materia de igualdad y prevención, atención, sanción y erradicación de la violencia de género.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2010)</small>
+
+###### ARTICULO 26 Ter.
+
+Corresponde a la Coordinación de los Núcleos de Atención Integral adscritos a la Dirección Jurídica, las siguientes atribuciones:
+
+I. Brindar servicios de asesoría jurídica y acompañamiento a mujeres receptoras de violencia.
+
+II. Realizar las gestiones necesarias para la protección de las mujeres receptoras de violencia, sus hijas e hijos y denunciantes.
+
+III. Brindar tratamiento psicológico especializado a las víctimas, directas e indirectas.
+
+IV. Promover la homologación de los procesos de atención a las mujeres receptoras de violencia a través de la difusión de los protocolos que al efecto genere.
+
+V. Sistematizar en las aplicaciones tecnológicas idóneas la información derivada de la atención a las mujeres receptoras de violencia, misma que por su naturaleza se clasificará como confidencial en los términos establecidos por la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes.
+
+VI. Registrar de manera permanente en el sistema informático los datos derivados de la atención a las mujeres receptoras de violencia para la generación de indicadores.
 
 ### CAPITULO IX. De la Integración, Funcionamiento y Atribuciones del Consejo Consultivo
 
@@ -433,13 +493,17 @@ Las o los ocho integrantes que participen como vocales Propietarias y Suplentes 
 
 El Instituto, para el logro de sus objetivos, estará integrado por trabajadoras y trabajadores de confianza y de base.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 35.
 
-En el Instituto, las trabajaras y trabajadores de confianza lo serán: la Directora General, las Directoras o Directores de Area, Subdirectoras y Subdirectores, Jefas y Jefes de Departamento y la Secretaria Ejecutiva.
+En el Instituto, las trabajadoras y trabajadores de confianza lo serán: la Directora General, las Directoras o Directores de Área, Coordinadoras y Coordinadores y la Secretaria Ejecutiva.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 36.
 
-Las relaciones laborales entre el Instituto y las trabajadoras y trabajadores que éste contrate, se regirá por la Ley de Seguridad y Servicios Sociales para los Trabajadores Públicos del Estado de Aguascalientes y el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados.
+Las relaciones laborales entre el Instituto y las trabajadoras y trabajadores que éste contrate, se regirán por la Ley Federal del Trabajo.
 
 ### CAPITULO XI. Del Patrimonio del Instituto
 
@@ -461,13 +525,17 @@ Los bienes inmuebles propiedad del Instituto sólo podrán ser gravados o enajen
 
 La Directora General, en casos de ausencia, será suplida por la Secretaria Ejecutiva y las Directoras o Directores de Area en el orden que se enumeran por la Ley.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 41.
 
-Las y los Directores serán suplidos entre sí, primero en el orden descendente en que se encuentran citados por la Ley y luego ascendente y en su defecto por la funcionaria o funcionario del servicio público de la jerarquía inmediata inferior que ellos designen.
+Las y los Directores serán suplidos entre sí primero en el orden descendente en que se encuentran citados por la Ley y luego ascendente y en su defecto por la funcionaria o funcionario del servicio público de la jerarquía inmediata inferior que ellos designen incluyendo a las Coordinaciones de los Centros de Atención y Prevención Integral de la Violencia de Género así como de Investigación e Información Estadística.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 42.
 
-Cuando no exista algún nombramiento de Directora o Director de los señalados en el artículo 17 de la Ley, la Subdirectora o Subdirector respectivo o las Jefas o Jefes de Departamento en funciones ejercerán, en ese orden, las facultades propias de la dirección a la que se encuentren adscritas o adscritos, incluyendo la suplencia de la Directora General, únicamente por las atribuciones contenidas en las fracciones IV, VIII, XVI y XX del artículo 14 de la Ley.
+Cuando no exista algún nombramiento de Directora o Director de los señalados en el artículo 1r (sic) de la Ley, la Coordinadora o Coordinador respectivo en funciones ejercerán, en ese orden, las facultades propias de la dirección a la que se encuentren adscritas o adscritos, incluyendo la suplencia de la Directora General, únicamente por las atribuciones contenidas en las fracciones IV, VIII, XVI y XX del artículo 14 de la Ley.
 
 TRANSITORIOS:
 
@@ -532,3 +600,11 @@ Lic. Guadalupe Huerta Martínez
 Lic. Lourdes Elizabeth Murguía Ferreira,
 
 DIRECTORA GENERAL DEL INSTITUTO AGUASCALENTENSE DE LAS MUJERES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE MAYO DE 2010.
+
+PRIMERO.- Publíquese por una sola vez en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
