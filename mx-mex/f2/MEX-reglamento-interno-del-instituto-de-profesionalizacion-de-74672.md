@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-de-profesionalizacion-de-74672
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-05"
-last_updated: "2005-07-05"
+last_updated: "2010-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE PROFESIONALIZACION DE LOS SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL INSTITUTO DE PROFESIONALIZACION DE LOS SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MEXICO, PUBLICADO EN LA G.G. DE 10 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 5 de julio de 2005.
 
@@ -216,3 +218,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 10 DE MAYO DE 2010.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno",
+
+TERCERO.- Se abroga el Reglamento Interno del Instituto de Profesionalización de los Servidores Públicos del Poder Ejecutivo del Gobierno del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 5 de julio de 2005.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
