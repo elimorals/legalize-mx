@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado-180
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-26"
-last_updated: "2006-08-01"
+last_updated: "2010-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCION DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2010.
 
 Ley Publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 26 de septiembre del 2000.
 
@@ -201,9 +201,17 @@ XI.- Formular las propuestas generales y particulares conducentes a una mejor pr
 
 XII.- Formular el anteproyecto del presupuesto anual de egresos y el respectivo informe sobre su ejercicio;
 
-XIII.- Presentar al Pleno del Congreso del Estado, en la segunda quincena del mes de mayo, un informe anual sobre las actividades de la Procuraduría;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIV.- Elaborar y enviar un informe al Congreso del Estado, por conducto del Poder Ejecutivo, que contenga los estados financieros y demás información que muestre el registro de las operaciones realizadas en el ejercicio de su presupuesto de egresos, a efecto de que se integre a la cuenta pública del Estado; además, pondrá a su disposición la documentación que compruebe y justifique las actividades administrativas y erogaciones realizadas para ese fin; asimismo, se deberá proporcionar a la Contaduría Mayor de Hacienda del Congreso del Estado, la información que le sea solicitada por escrito, en ejercicio de su función fiscalizadora; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
+
+XIII.- Enviar al Congreso del Estado, el primer jueves del segundo periodo ordinario de sesiones, un informe anual por escrito sobre las actividades de la Procuraduría;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
+
+XIV.- Presentar al Congreso del Estado la cuenta pública de la Procuraduría, en la forma y términos que establezca la Ley; y
 
 XV.- Las demás que le señalen la presente Ley, el reglamento interno u otras disposiciones jurídicas aplicables.
 
@@ -231,7 +239,11 @@ I.- Opinar sobre los lineamientos generales para la actuación de la Procuradur�
 
 II.- Aprobar su reglamento interno, así como las reformas al mismo;
 
-III.- Opinar sobre el informe que el Procurador presentará ante el Congreso del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
+
+III.- Opinar sobre el informe que el Procurador enviará al Congreso del Estado;
 
 IV.- Opinar sobre el anteproyecto de presupuesto de egresos de la Procuraduría;
 
@@ -593,13 +605,69 @@ Para el caso de que la autoridad responsable no acepte o no cumpla con la recome
 
 Las personas quejosas o agraviadas, la autoridad o servidor público en su caso, podrán acudir ante la Comisión Nacional de Derechos Humanos, para inconformarse en relación con las recomendaciones, acuerdos u omisiones de la Procuraduría, en los términos de la Ley de la Comisión Nacional de Derechos Humanos.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2010)</small>
+
 ## Título Cuarto
 
-### Capítulo Único. De las Responsabilidades de los Servidores Públicos
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2010)</small>
+
+### Capítulo Único. Del informe de actividades de la Procuraduría
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2010)</small>
+
+###### Artículo 64-A.
+
+El informe anual sobre las actividades de la Procuraduría que envíe el Procurador al Congreso del Estado, deberá contener:
+
+I.- El estado que guardan los derechos humanos en la entidad;
+
+II.- Las quejas y recomendaciones;
+
+III.- El seguimiento sobre las recomendaciones, incluyendo la relación de las dependencias que hayan sido objeto de alguna recomendación;
+
+IV.- El resultado de las recomendaciones emitidas;
+
+V.- Las acciones de capacitación, educación, promoción y prevención en materia de derechos humanos;
+
+VI.- La información financiera;
+
+VII.- La participación ciudadana; y
+
+VIII.- Las demás acciones relacionadas con las atribuciones de la Procuraduría.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2010)</small>
+
+###### Artículo 64-B.
+
+El informe que el Procurador envíe al Congreso del Estado, se hará de conocimiento del Gobernador del Estado, así como del Supremo Tribunal de Justicia del Estado, de los ayuntamientos y de los organismos autónomos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2010)</small>
+
+###### Artículo 64-C.
+
+El informe una vez que se haya entregado al Congreso del Estado será público, y será difundido para conocimiento de la sociedad, conforme a las disposiciones constitucionales y legales aplicables. La difusión estará a cargo de la propia Procuraduría.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2010)</small>
+
+###### Artículo 64-D.
+
+El Procurador comparecerá ante el Congreso del Estado, cuando así se le requiera, a efecto de ampliar la información contenida en el informe o bien, para dar cuenta sobre el estado de cumplimiento de las recomendaciones y de las demás acciones que realice la Procuraduría.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REUBICADO [N. DE E. ANTES TITULO CUARTO], P.O. 11 DE MAYO DE 2010)
 
 ## Título Quinto
 
-### Capítulo Único. Del Régimen Laboral
+### Capítulo Único. De las Responsabilidades de los Servidores Públicos
 
 ###### Artículo 65.
 
@@ -620,6 +688,14 @@ Cuando persistan actitudes u omisiones que impliquen conductas evasivas o de ent
 ###### Artículo 69.
 
 Las autoridades y los servidores públicos serán responsables penal o administrativamente por los actos u omisiones en que incurran, durante y con motivo de la tramitación de quejas o denuncias ante la Procuraduría, de acuerdo con las disposiciones constitucionales y legales aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REUBICADO [N. DE E. ANTES TITULO QUINTO], P.O. 11 DE MAYO DE 2010)
+
+## Título Sexto
+
+### Capítulo Único. Del Régimen Laboral
 
 ###### Artículo 70.
 
@@ -664,3 +740,9 @@ Artículo Único.- Las presentes modificaciones a la Ley para la Protección de 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley Orgánica del Poder Ejecutivo para el estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE MAYO DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- El informe que el Procurador de los Derechos Humanos del Estado de Guanajuato habrá de presentar sobre las actividades de la Procuraduría, durante la segunda quincena del mes de mayo del año 2010, se remitirá por escrito al Congreso del Estado, con el contenido y estructura con el que se ha presentado hasta la fecha, y abarcará el periodo comprendido del 1 de abril al 31 de diciembre de 2009.
