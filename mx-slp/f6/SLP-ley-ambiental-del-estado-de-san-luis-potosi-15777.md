@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2009-09-01"
+last_updated: "2010-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -173,7 +173,9 @@ XXXVII. Residuo: Cualquier material generado en los procesos de extracción, ben
 
 XXXVIII. Residuos Peligrosos: Todos los restos en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o infecciosas representen un peligro para el ambiente;
 
-XXXIX. Residuos Sólidos Municipales: Todos los remanentes que en estado sólido provengan de actividades domésticas no industriales y que no tengan las características de los residuos peligrosos y cuyo manejo corresponde a los municipios;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
+
+XXXIX. Residuos sólidos urbanos: los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos, o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole y cuyo manejo corresponda a los municipios;
 
 > <small>(REFORMADA, P.O. 28 DE MARZO DE 2009)</small>
 
@@ -195,13 +197,37 @@ XLVI. Instrumentos de Carácter Fiscal: Los estímulos fiscales que incentiven e
 
 XLVII. Instrumentos Financieros: Los créditos, fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la conservación, protección, restauración o aprovechamiento sustentable del ambiente; así como al financiamientos de programas, proyectos, estudios de investigación científica y tecnológica para la conservación ambiental en la Entidad;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
 
-XLVIII. Instrumentos de Mercado: Las concesiones, autorizaciones, licencias y permisos que correspondan a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo; o bien que establezcan límites de aprovechamiento de recursos naturales de construcción, en áreas naturales protegidas de competencia estatal o municipal, así también, en zonas cuya conservación y protección se considere relevante desde el punto de vista ambiental, y
+XLVIII. Instrumentos de mercado: las concesiones, autorizaciones, licencias y permisos que correspondan a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo; o bien que establezcan límites de aprovechamiento de recursos naturales de construcción, en áreas protegidas de competencia estatal o municipal, así también, en zonas cuya conservación y protección se considere relevante desde el punto de vista ambiental;
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
 
-XLIX. Centro de Población: Las áreas que se hayan establecido para la fundación del mismo; las áreas urbanas ocupadas por las viviendas e infraestructura necesarias para su vida comunitaria; las que se reserven para su expansión futura; y las constituidas por elementos naturales que cumplen una función de preservación de sus condiciones ecológicas.
+XLIX. Centro de población: las áreas que se hayan establecido para la fundación del mismo; las áreas urbanas ocupadas por las viviendas e infraestructura necesarias para su vida comunitaria; las que se reserven para su expansión futura; y las constituidas por elementos naturales que cumplen una función de preservación de sus condiciones ecológicas;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+
+L. Disposición final: acción de depositar o confinar permanentemente residuos en sitios e instalaciones, cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población, a los ecosistemas y sus elementos;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+
+LI. Estaciones de transferencia: las instalaciones para el transbordo de los residuos sólidos de los vehículos de recolección, a los vehículos de transferencia;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+
+LII. Plantas de selección y tratamiento: la instalación donde se lleva a cabo cualquier proceso de selección y tratamiento de los residuos sólidos urbanos para su valorización o, en su caso, disposición final;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+
+LIII. Relleno sanitario: obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar, a través de la compactación e infraestructura adicionales, los impactos ambientales;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+
+LIV. Sitios de disposición final: lugar donde se depositan los residuos sólidos urbanos y de manejo especial, en forma definitiva, y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+
+LV. Valorización: principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su incorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
 
 ###### ARTICULO 4o.
 
@@ -267,9 +293,9 @@ XI. El establecimiento de requisitos y procedimientos para la prevención y cont
 
 XII. La expedición del permiso de operación para fuentes fijas de emisiones a la atmósfera de jurisdicción estatal, así como las autorizaciones en esta materia a que se refiere la presente Ley;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
 
-XIII. La regulación de los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos municipales y de manejo especial, de conformidad con lo dispuesto por el artÍculo 137 de la LGEEPA, incluyendo la selección, determinación y autorización de los sitios destinados a la disposición final de estos residuos, con la participación de los ayuntamientos;
+XIII. La regulación de los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos urbanos y de manejo especial, de conformidad con lo dispuesto por el artículo 137 de la LGEEPA, incluyendo la selección, determinación y autorización de los sitios destinados a la disposición final de estos residuos, con la participación de los ayuntamientos;
 
 XIV. La prevención y el control de la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales a la salud pública o en general al ambiente, provenientes de diversas actividades tanto del sector público como del privado y de fuentes fijas que provengan de establecimientos industriales, comerciales, de servicios y espectáculos públicos entre otros, y en su caso, de fuentes móviles, en los términos previstos por la LGEEPA y esta Ley;
 
@@ -323,11 +349,31 @@ XXXVI. Elaborar para su aprobación, las declaratorias de áreas naturales prote
 
 XXXVII. Aprobar las declaratorias de áreas naturales protegidas de jurisdicción estatal y sus respectivos planes de manejo;
 
-XXXVIII. Participar en la elaboración y ejecución de los Planes de Desarrollo Urbano, previstos en la legislación estatal aplicable, y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
 
-XXXIX. Las demás atribuciones que le confieran esta Ley y otras disposiciones legales y reglamentarias aplicables.
+XXXVIII. Participar en la elaboración y ejecución de los Planes de Desarrollo Urbano, previstos en la legislación estatal aplicable;
 
-Las facultades precedentes serán ejercidas indistintamente por el titular del Ejecutivo del Estado o por conducto de la SEGAM, a excepción de la establecida en la fracción XXXVII de este artículo, que será de la competencia exclusiva del mismo.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
+
+XXXIX. Asesorar, previa solicitud de los ayuntamientos, en la elaboración de los Programas Municipales para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+
+XL. Emitir certificación de viabilidad sobre el diseño, construcción, operación y cierre de estaciones de transferencia, plantas de selección y tratamiento, y sitios de disposición final de residuos;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+
+XLI. Llevar a cabo los estudios que sustenten la necesidad de otorgar concesiones, autorizaciones, licencias y permisos para la prestación de los servicios públicos de limpia, recolección, transporte, tratamiento y disposición final de los residuos sólidos urbanos y de manejo especial;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+
+XLII. Expedir los dictámenes técnicos previos al otorgamiento de concesiones, autorizaciones, licencias y permisos para la prestación de los servicios públicos de limpia, recolección, transporte, tratamiento y disposición final de los residuos sólidos urbanos y de manejo especial, y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+
+XLIII. Las demás atribuciones que le confieran esta Ley, así como otras disposiciones legales y reglamentarias aplicables.
+
+Las facultades precedentes serán ejercidas indistintamente por el titular del Ejecutivo del Estado o por conducto de la SEGAM, a excepción de la establecida en la fracción XXXVII de éste artículo, que será de la competencia exclusiva del mismo.
 
 ###### ARTICULO 8o.
 
@@ -341,13 +387,13 @@ III. La participación en la formulación, aprobación y expedición de los plan
 
 IV. La aplicación de las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que provengan de establecimientos mercantiles o de servicios, así como de las emisiones de contaminantes a la atmósfera provenientes de fuentes móviles que no sean consideradas de jurisdicción federal, con la participación que corresponda al Gobierno del Estado en los términos previstos en esta Ley, así como para el otorgamiento de permisos para combustiones a cielo abierto, cuyo propósito sea adiestrar y capacitar al personal encargado del combate de incendios;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
 
-V. La aplicación de las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos municipales y de manejo especial, de conformidad con lo dispuesto en el artículo 137 de la LGEEPA y en los términos previstos en esta Ley;
+V. La aplicación de las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente, ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos urbanos y de manejo especial, de conformidad con lo dispuesto en el artículo 137 de la LGEEPA, y en los términos previstos en esta Ley;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
 
-VI. Autorizar y regular el manejo y disposición final de los residuos sólidos municipales y de manejo especial, en concordancia con la normatividad ambiental federal y, en su caso, con la estatal correspondiente;
+VI. Autorizar y regular el manejo y disposición final de los residuos sólidos urbanos y de manejo especial, en concordancia con la normatividad ambiental federal y, en su caso, con la estatal correspondiente;
 
 VII. La creación y administración de las áreas naturales protegidas de jurisdicción estatal y la creación de las municipales, con la participación de organizaciones no gubernamentales, pueblos indígenas, ejidos, comunidades agrarias y pequeños propietarios en los términos que lo establecen la presente Ley y la LGEEPA;
 
@@ -401,11 +447,17 @@ XXX. Participar en la organización y administración de las áreas naturales pr
 
 XXXI. Aplicar por sí o a través de los organismos operadores del agua, las medidas de seguridad e imponer las sanciones administrativas que correspondan, en el ámbito de su competencia y de conformidad con esta Ley;
 
-XXXII. Expedir y adecuar los Bandos de Policía y Buen Gobierno, así como los reglamentos, circulares y demás actos administrativos que fueren convenientes o necesarios para la mejor observancia de la Ley, y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+XXXII. Expedir y adecuar los Bandos de Policía y Buen Gobierno, así como los reglamentos, circulares y demás actos administrativos que fueren convenientes o necesarios para la mejor observancia de la ley;
 
-XXXIII. Expedir las autorizaciones de impacto ambiental en los casos que establece la ley.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
+
+XXXIII. Expedir las autorizaciones de impacto ambiental en los casos que establece la ley, y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+
+XXXIV. Elaborar los Programas Municipales para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y de manejo especial.
 
 ###### ARTICULO 9o.
 
@@ -1263,7 +1315,9 @@ Para prevenir y controlar la contaminación del suelo y del subsuelo corresponde
 
 I. No se acumulen, depositen o infiltren residuos o sustancias en el suelo o subsuelo sin el tratamiento previo respectivo y en sitios que no reúnan las condiciones técnicas necesarias para prevenir y evitar su contaminación y debidamente autorizados, de acuerdo a la legislación y normatividad ambiental aplicables;
 
-II. El funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, reciclaje, tratamiento y disposición final de residuos sólidos municipales se lleven a cabo conforme a los lineamientos y disposiciones que emita la autoridad municipal, así como a la normatividad ambiental correspondiente;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
+
+II. El funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, reciclaje, tratamiento y disposición final de residuos sólidos urbanos, se lleven a cabo conforme a los lineamientos y disposiciones que emita la autoridad municipal, así como a la normatividad ambiental correspondiente;
 
 > <small>(REFORMADA, P.O. 28 DE MARZO DE 2009)</small>
 
@@ -1329,9 +1383,9 @@ No se permitirá en las zonas habitacionales, ni en las proximidades a los servi
 
 ## TITULO SEPTIMO. DE LAS ACTIVIDADES QUE PUEDEN GENERAR EFECTOS NOCIVOS
 
-### CAPITULO II. DE LOS RESIDUOS SOLIDOS MUNICIPALES Y DE LOS RESIDUOS DE MANEJO ESPECIAL
+### CAPITULO II. DE LOS RESIDUOS SOLIDOS URBANOS Y DE LOS RESIDUOS DE MANEJO ESPECIAL
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 98.
 
@@ -1369,19 +1423,27 @@ Presentada la propuesta dentro del plazo anteriormente señalado, la SEGAM, el A
 
 Una vez vencido el plazo señalado sin que el propietario, poseedor o responsable la hubiese presentado ante las instancias correspondientes, se entenderá que no existe interés por parte de los responsables para realizar la propuesta, facultándose a la SEGAM, al respectivo Ayuntamiento y a la SEDUCOP de ser el caso, para resolver lo que normativamente y en derecho proceda.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE MARZO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2010)</small>
 
 ### CAPITULO III. DE LOS SERVICIOS URBANOS MUNICIPALES
 
 ###### ARTICULO 102.
 
-Corresponderá a los ayuntamientos autorizar o dar en concesión con arreglo a las bases que para tal efecto se expidan, el funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos sólidos municipales y de manejo especial, así como vigilar y controlar su operación.
+Corresponderá a los ayuntamientos, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables, el otorgamiento de concesiones, autorizaciones, licencias y permisos para la prestación de los servicios públicos de limpia, recolección, transporte, tratamiento y disposición final de los residuos de su competencia; así como la construcción, operación y mantenimiento de rellenos sanitarios u otras obras para la disposición final y tratamiento de los residuos sólidos urbanos y de manejo especial.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2010)</small>
+
+ARTICULO 102 BIS. En el otorgamiento de concesiones, licencias, permisos y autorizaciones, deberán asegurarse las mejores condiciones en cuanto a solvencia, calidad, financiamiento, oportunidad y equipamiento de los sistemas, así como su menor impacto ambiental posible.
+
+Los concesionarios deberán contar con experiencia técnica y solvencia económica, y, en ningún caso, podrán dar en garantía los derechos de la concesión otorgada.
+
+Las concesiones podrán extinguirse, según sea el caso, conforme a lo previsto en la Ley Orgánica del Municipio libre, y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 103.
 
-Corresponderá a la SEGAM, regular, seleccionar, determinar y autorizar los sitios que técnica y normativamente se consideren aptos para la disposición final de los residuos sólidos municipales y de manejo especial, con apego a esta Ley, la LGEEPA y demás disposiciones normativas correspondientes.
+Corresponderá a la SEGAM, regular, seleccionar, determinar y autorizar los sitios que técnica y normativamente se consideren aptos para la disposición final de los residuos sólidos urbanos y de manejo especial, con apego a esta Ley, la LGEEPA y demás disposiciones normativas correspondientes.
 
 ###### ARTICULO 104.
 
@@ -1391,9 +1453,9 @@ La SEGAM, en coordinación con los ayuntamientos, para los efectos de este capit
 
 I. El uso de sistemas de reciclamiento de desechos sólidos para disminuir su cantidad, a través de la separación y clasificación, así como la operación de sistemas de reciclaje y la eliminación del uso de bolsas de plástico;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
 
-II. La implantación y mejoramiento de sistemas de recolección, tratamiento y disposición final de residuos sólidos municipales y residuos de manejo especial;
+II. La implantación y mejoramiento de sistemas de recolección, tratamiento y disposición final de residuos sólidos urbanos y residuos de manejo especial;
 
 III. La fabricación y utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos, y
 
@@ -1405,11 +1467,11 @@ IV. Que los lodos provenientes de procesos industriales y de las plantas de trat
 
 La SEGAM y los respectivos ayuntamientos llevarán los inventarios de rellenos sanitarios y de los sitios de disposición de residuos de manejo especial, así como el de fuentes generadoras, cuyos datos los integrará la propia SEGAM.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 106.
 
-Los sitios que se pretenda utilizar para disposición de residuos sólidos municipales y residuos de manejo especial, deberán apegarse a la normatividad ambiental correspondiente, y a las autorizaciones de impacto ambiental que para tal efecto se expidan. También deberán apegarse a los lineamientos y directrices previstos en los planes de desarrollo urbano estatales, municipales y centros de población, y en los programas de ordenamiento ecológico.
+Los sitios que se pretenda utilizar para disposición de residuos sólidos urbanos y residuos de manejo especial, deberán apegarse a la normatividad ambiental correspondiente, y a las autorizaciones de impacto ambiental que para tal efecto se expidan. También deberán apegarse a los lineamientos y directrices previstos en los planes de desarrollo urbano estatales, municipales y centros de población, y en los programas de ordenamiento ecológico.
 
 ###### ARTICULO 107.
 
@@ -1417,9 +1479,9 @@ Se establecen las prohibiciones siguientes:
 
 I. La habilitación de tiraderos de basura a cielo abierto;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
 
-II. El almacenamiento, alojamiento, reutilización y disposición final de residuos sólidos municipales y de manejo especial, sin ajustarse a la normatividad ambiental correspondiente o a las autorizaciones de impacto ambiental respectivas;
+II. El almacenamiento, alojamiento, reutilización y disposición final de residuos sólidos urbanos y de manejo especial, sin ajustarse a la normatividad ambiental correspondiente, o a las autorizaciones de impacto ambiental respectivas;
 
 III. La construcción de viviendas dentro de los recintos en que se traten residuos sólidos, así como en sus áreas circunvecinas inmediatas e igualmente en los suelos que queden rehabilitados al término de su vida útil;
 
@@ -1453,15 +1515,17 @@ Para el caso de no existir celdas técnica y normativamente apropiadas para la d
 
 De no ser favorable el resultado de la evaluación del proyecto ejecutivo, la SEGAM podrá requerir al promovente la información adicional que considere necesaria, así como en su caso la modificación o ampliación del proyecto presentado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2010)</small>
 
-ARTICULO109. Con el objeto de prevenir y controlarlos efectos nocivos que pudieran ocasionar los residuos sólidos municipales y de manejo especial, los respectivos municipios con la participación que corresponda al Gobierno del Estado, impulsarán los siguientes programas:
+###### ARTICULO 109.
+
+Con el objeto de prevenir y controlar los efectos nocivos que pudieran ocasionar los residuos sólidos urbanos y de manejo especial, los respectivos municipios con la participación que corresponda al Gobierno del Estado, impulsarán los siguientes programas:
 
 I. De concientización y organización vecinal para evitar que se depositen y arrojen a la vía publica residuos de cualquier tipo, así como de limpia del frente de los predios por sus propietarios;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2009)</small>
+(REFORMADA, P.O. 11 DE MAYO DE 2010))
 
-II. De limpieza y control de los predios baldíos para evitar que se transformen en lugares de almacenamiento irregular de residuos sólidos municipales y de manejo especial, y focos de insalubridad pública y contaminación;
+II. De limpieza y control de los predios baldíos, para evitar que se transformen en lugares de almacenamiento irregular de residuos sólidos urbanos y de manejo especial, y focos de insalubridad pública y contaminación;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1470,18 +1534,6 @@ III. Cualquier otro tendiente a prevenir y controlar la contaminación originada
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2009)</small>
 
 IV. De concientización y organización ciudadana vecinal para promover la cultura, educación y capacitación ambientales, para la eliminación del uso de bolsas de plástico.
-
-Los distribuidores, propietarios o responsables de la venta directa o indirecta de aceites lubricantes automotrices, así como los talleres de mantenimiento automotriz, estarán obligados a recoger los envases que hubiesen vendido, así como a recolectar y almacenar adecuadamente y de conformidad con la normatividad ambiental aplicable, los aceites lubricantes ya usados a efecto de que éstos puedan a su vez ser recolectados por empresas debidamente autorizadas por la autoridad competente, para lo cual se establecerán los mecanismos de coordinación necesarios para llevarlo a cabo conforme a los lineamientos que determinen las autoridades competentes.
-
-###### ARTICULO 109.
-
-Con el objeto de prevenir y controlar los efectos nocivos que pudieran ocasionar los residuos sólidos municipales e industriales no peligrosos, los respectivos municipios con la participación que corresponda al Gobierno del Estado, impulsarán los siguientes programas:
-
-I. De concientización y organización vecinal para evitar que se depositen y arrojen a la vía publica residuos de cualquier tipo, así como de limpia del frente de los predios por sus propietarios;
-
-II. De limpieza y control de las predios baldíos para evitar que se transformen en lugares de almacenamiento irregular de residuos sólidos municipales e industriales no peligrosos, y focos de insalubridad pública y contaminación, y
-
-III. Cualquier otro tendiente a prevenir y controlar la contaminación originada por estos residuos, así como a rehabilitar sitios contaminados.
 
 Los distribuidores, propietarios o responsables de la venta directa o indirecta de aceites lubricantes automotrices, así como los talleres de mantenimiento automotriz, estarán obligados a recoger los envases que hubiesen vendido, así como a recolectar y almacenar adecuadamente y de conformidad con la normatividad ambiental aplicable, los aceites lubricantes ya usados a efecto de que éstos puedan a su vez ser recolectados por empresas debidamente autorizadas por la autoridad competente, para lo cual se establecerán los mecanismos de coordinación necesarios para llevarlo a cabo conforme a los lineamientos que determinen las autoridades competentes.
 
@@ -1905,11 +1957,11 @@ La conformación de la Subcomisión de Evaluación de Proyectos Estratégicos, a
 
 Las autoridades ambientales a quienes corresponda por razón de competencia iniciar y dar seguimiento al procedimiento administrativo de evaluación y en su caso, autorización de impacto ambiental respecto de dichos proyectos, fijarán oportunamente los mecanismos que permitan compaginar las acciones de esta Subcomisión con los términos y plazos previstos en las leyes de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 132.
 
-Los ayuntamientos con la participación que corresponda a la SEGAM, crearán e impulsarán de manera permanente, Comités Municipales de Defensa de los Recursos Naturales, con el propósito de organizar la participación de la comunidad, por representantes de los ejidos o comunidades, por manzanas, sectores o colonias de los centros de población, en programas de información, difusión y capacitación, manejo de residuos sólidos municipales, de residuos industriales peligrosos y de manejo especial; contaminación atmosférica y de aguas residuales; mejoramiento y aprovechamiento sustentable de recursos naturales, reforestación, plantaciones y aprovechamientos forestales, cambios de uso del suelo, de terrenos forestales o de aptitud preferentemente forestal, flora y fauna silvestre; campañas para el ahorro en el consumo del agua; denuncias de la ciudadanía sobre aspectos ambientales, demás programas y acciones apropiadas según necesidades, lugar y circunstancias.
+Los ayuntamientos, con la participación que corresponda a la SEGAM, crearán e impulsarán de manera permanente, Comités Municipales de Defensa de los Recursos Naturales, con el propósito de organizar la participación de la comunidad, por representantes de los ejidos o comunidades, por manzanas, sectores o colonias de los centros de población, en programas de información, difusión y capacitación, manejo de residuos sólidos urbanos, de residuos industriales peligrosos y de manejo especial, contaminación atmosférica y de aguas residuales; mejoramiento y aprovechamiento sustentable de recursos naturales, reforestación, plantaciones y aprovechamientos forestales, cambios de uso del suelo, de terrenos forestales o de aptitud preferentemente forestal, flora y fauna silvestre; campañas para el ahorro en el consumo del agua; denuncias de la ciudadanía sobre aspectos ambientales, demás programas y acciones apropiadas según necesidades, lugar y circunstancias.
 
 Los Comités Municipales de Defensa de los Recursos Naturales en el ámbito municipal, serán los organismos oficiales de participación ciudadana en el Estado, para la interlocución entre las autoridades y la sociedad civil en materia ambiental.
 
@@ -2002,6 +2054,8 @@ En la planeación y desarrollo de dichas actividades se incluirá la participaci
 ## TITULO DECIMO PRIMERO. DE LA AUTORREGULACION Y AUDITORIAS AMBIENTALES
 
 ### CAPITULO II. DE LAS MEDIDAS DE SEGURIDAD
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 145.
 
@@ -2117,7 +2171,7 @@ Cuando efectuada la inspección a una obra o actividad contaminante, en cuyo cas
 
 ###### ARTICULO 156.
 
-Cuando exista riesgo inminente de deterioro ambiental o presumibles casos de contaminación en el territorio estatal o en los municipios, en obras o actividades de competencia local, con repercusiones para los ecosistemas, sus componentes o la salud pública, la autoridad correspondiente podrá ordenar como medidas de seguridad:
+Cuando exista riesgo inminente de deterioro ambiental, o presumibles casos de contaminación en el territorio estatal o en los municipios, en obras o actividades de competencia local, con repercusiones para los ecosistemas, sus componentes o la salud pública, o se realicen obras o actividades sin contar con la autorización de impacto ambiental o de riesgo, debiendo sujetarse a la obtención previa de ésta; la autoridad correspondiente podrá ordenar como medidas de seguridad:
 
 I. El aseguramiento precautorio de materiales o sustancias contaminantes;
 
@@ -2125,9 +2179,17 @@ II. La suspensión temporal, parcial o total de las fuentes contaminantes o del 
 
 III. La promoción ante la autoridad respectiva de la adopción por ésta de las medidas de seguridad que le competan.
 
-Para el caso de que la autoridad que se considere competente no ejerza sus atribuciones en materia de inspección y vigilancia que legalmente tiene establecidas, la SEGAM podrá aplicar la medida de seguridad que corresponda al caso, haciéndole saber de inmediato a la autoridad competente las causas que motivaron la aplicación de la medida, remitiéndole la documentación oficial correspondiente a efecto de que se avoque al conocimiento del asunto, y
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2010)</small>
 
-IV. Cualquier otra que tienda a evitar el deterioro ambiental o los daños al ambiente que motivan la medida.
+Para el caso de que la autoridad que se considere competente, no ejerza sus atribuciones en materia de inspección y vigilancia que legalmente tiene establecidas, la SEGAM podrá aplicar la medida de seguridad que corresponda al caso, haciéndole saber de inmediato a la autoridad competente, las causas que motivaron la aplicación de la medida, remitiéndole la documentación oficial correspondiente, a efecto de que se avoque al conocimiento del asunto;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
+
+IV. La suspensión temporal o revocación de permisos, licencias, concesiones o autorizaciones, y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+
+V. Cualquier otra que tienda a evitar el deterioro ambiental o los daños al ambiente que motivan la medida.
 
 ###### ARTICULO 157.
 
@@ -2192,6 +2254,10 @@ La autoridad correspondiente podrá otorgar al infractor la opción en pagar la 
 Cuando proceda como sanción la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá en el acto a levantar acta circunstanciada de los hechos u omisiones encontrados en la que se deberá indicar al infractor las medidas correctivas o de urgente aplicación, las acciones que deberá llevar a cabo para subsanar las irregularidades que motivaron dicha sanción y los plazos para su realización.
 
 En estos casos se seguirán para su cumplimiento, los lineamientos generales establecidos en esta Ley para las inspecciones.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2010)</small>
+
+ARTICULO 161 BIS. En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta Ley y/o las disposiciones legales aplicables al caso, serán nulas y no producirán efecto legal alguno; y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la legislación de la materia.
 
 ## TITULO DECIMO TERCERO. DEL RECURSO DE RECONSIDERACION Y DE LA DENUNCIA POPULAR
 
@@ -2416,3 +2482,19 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 TERCERO. La Comisión de Ecología y Medio Ambiente del Honorable Congreso del Estado, acuerda presentar iniciativa que plantee exentar de obligaciones fiscales, a las personas morales que utilicen y obsequien bolsas de plástico biodegradables.
+
+P.O. 11 DE MAYO DE 2010.
+
+DECRETO NUMERO 185, POR EL QUE SE REFORMAN LOS ARTICULOS 3°; 7°; 8°; 91; 102; 103; 104; 106; 107; 109; 132; ASI COMO EN EL TITULO SEPTIMO LA DENOMINACION DEL CAPITULO II, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
+
+P.O. 11 DE MAYO DE 2010.
+
+DECRETO NUMERO 186, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 3°; 7°; 8°; 102; 102 BIS; 156 Y 161 BIS DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
