@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2010-03-06"
+last_updated: "2010-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MAYO DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1541,9 +1541,11 @@ XII. Promover que las instituciones que forman parte del sistema educativo estat
 
 XIII. Impulsar el establecimiento de centros de desarrollo infantil y de educación para adultos, con el apoyo de los municipios y de los beneficiarios de los servicios;
 
-> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XIV. Promover y favorecer la educación para la salud, sexual, civismo, ética, fomento al respeto a la mujer, ambiental, las bellas artes y el deporte, así como la enseñanza de un idioma extranjero, preferentemente el inglés, en todos los tipos y niveles educativos;
+> <small>(REFORMADA, G.G. 12 DE MAYO DE 2010)</small>
+
+XIV. Promover y favorecer la sana alimentación y la activación física, la educación para la salud, sexual, civismo, ética, fomento al respeto a la mujer, ambiental, las bellas artes y el deporte, así como la enseñanza de un idioma extranjero, preferentemente el inglés, en todos los tipos y niveles educativos;
 
 XV. Promover la incorporación de los estudiantes de las instituciones públicas y privadas a los servicios de atención médica;
 
@@ -10838,3 +10840,11 @@ El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotep
 QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 12 DE MAYO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de que inicie su vigencia la adición de un último parrafo al artículo 5 de la Constitución Política del Estado Libre y Soberano de México.
+
+TERCERO.- El Poder Ejecutivo del Estado de México adoptará en la esfera de su competencia las disposiciones pertinentes para la ejecución de las reformas objeto de este Decreto.
