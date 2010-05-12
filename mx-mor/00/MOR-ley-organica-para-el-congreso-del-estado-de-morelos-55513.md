@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2009-09-16"
+last_updated: "2010-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -689,9 +689,9 @@ g) Las designaciones de los Magistrados que integran el Poder Judicial, para lo 
 
 h) Designar en caso de licencia de algún diputado a quien deba cubrir la ausencia en las comisiones respectivas;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2010)</small>
 
-IV. Designar al Secretario Técnico de la propia Junta Política y de Gobierno, al Coordinador del área de Comunicación Social del Congreso del Estado, a los Directores y Titular de la Unidad General Administrativa de la Auditoría Superior de Fiscalización del Congreso del Estado, así como a los Encargados de Despacho del Instituto de Investigaciones Legislativas, Dirección de Radio y Televisión del Congreso del Estado y Coordinación de Comunicación Social;
+IV. Designar al Secretario Técnico de la propia Junta Política y de Gobierno, al Coordinador del área de Comunicación Social del Congreso del Estado, a los Directores y Titular de la Unidad General Administrativa de la Auditoría Superior de Fiscalización del Congreso del Estado, así como a los Encargados de Despacho del Instituto de Investigaciones Legislativas, Sistema Morelense de Radio y Televisión y Coordinación de Comunicación Social;
 
 V. Impulsar la conformación de puntos de acuerdo relacionados con el contenido de las propuestas, iniciativas, dictámenes o minutas que requieran de su votación en el pleno del Congreso el Estado, a fin de agilizar el trabajo legislativo;
 
@@ -1221,7 +1221,7 @@ V. Todos aquellos asuntos en la materia que le sean turnados.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2010)</small>
 
 ###### Artículo 84.
 
@@ -1271,17 +1271,19 @@ VII. Fungir como órgano de consulta respecto a la contratación de arrendamient
 
 VIII. Determinar los montos de garantías que deberán otorgar los proveedores concursantes al presentar sus propuestas y aquellas que deberán otorgar en garantía del cumplimiento de los pedidos y contratos en término, cantidad y calidad, de conformidad con los lineamientos aprobados por el Presidente de la Mesa Directiva para la adquisición, enajenación, arrendamiento y prestación de servicios.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2010)</small>
+
 ###### Artículo 88.
 
 Son atribuciones del Comité de Radio y Televisión:
 
-I. Proponer a la Junta Política y de Gobierno, los planes y programas a los que se debe sujetar la Dirección de Radio y Televisión;
+I. Proponer a la Junta Política y de Gobierno, los planes y programas a los que se debe sujetar el Sistema Morelense de Radio y Televisión;
 
-II. Aprobar junto con la Conferencia para la Dirección y Programación de los Trabajos legislativos, los acuerdos y convenios de producción e intercambio que celebre la Dirección de Radio y Televisión;
+II. Aprobar junto con la Conferencia para la Dirección y Programación de los Trabajos Legislativos, los acuerdos y convenios de producción e intercambio que celebre el Sistema Morelense de Radio y Televisión;
 
 III. Establecer los criterios y políticas de los programas radiofónicos y de televisión;
 
-IV. Autorizar conjuntamente con el Presidente de la Mesa Directiva, al Director de Radio y Televisión, la celebración de acuerdos y convenios con los sectores sociales y privados para auspiciar la producción y transmisión de programas de radio y televisión; y
+IV. Autorizar conjuntamente con el Presidente de la Mesa Directiva, al Director del Sistema Morelense de Radio y Televisión, la celebración de acuerdos y convenios con los sectores sociales y privados para auspiciar la producción y transmisión de programas de radio y televisión; y
 
 V. Los demás asuntos que le sean turnados.
 
@@ -1375,27 +1377,39 @@ VIII.- Las demás que esta Ley, su Reglamento y el Pleno del Congreso le confier
 
 ###### Artículo 89.
 
-Para su funcionamiento el Congreso del Estado contara con los órganos siguientes:
+Para su funcionamiento, el Congreso del Estado, contara con los órganos siguientes:
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
 I. Secretaría General del Congreso;
 
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
 II. Secretaría de Servicios Legislativos y Parlamentarios;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
 III. Secretaría de Administración y Finanzas;
 
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
 IV. Auditoria Superior de Fiscalización;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
 V. Instituto de Investigaciones Legislativas; y
 
-VI. Dirección de Radio y Televisión.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2010)</small>
+
+VI.- Sistema Morelense de Radio y Televisión.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
 Artículo 89 BIS.- En caso de ausencia temporal o definitiva de los titulares de la Secretaría General del Congreso, Secretaría de Servicios Legislativos y Parlamentario y/o de la Secretaría de Administración y Finanzas, el Presidente de la Mesa Directiva procederá a designar a un Encargado de Despacho, en tanto el Pleno del Congreso, a propuesta de la Junta Política y de Gobierno, designa en su caso, al nuevo titular.
 
-> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2010)</small>
 
-Artículo 89 TER.- En caso de ausencia temporal o definitiva de los titulares de la Dirección del Instituto de Investigaciones Legislativas y Dirección de Radio y Televisión del Congreso, Coordinación de Comunicación Social, la Junta Política y de Gobierno procederá a designar, mediante acuerdo a un Encargado de Despacho, en tanto se designa en su caso al nuevo titular.
+Artículo 89 TER.- En caso de ausencia temporal o definitiva de los titulares de la Dirección del Instituto de Investigaciones Legislativas, del Sistema Morelense de Radio y Televisión y Coordinación de Comunicación Social, la Junta Política y de Gobierno procederá a designar, mediante acuerdo a un Encargado de Despacho, en tanto se designa en su caso al nuevo titular.
 
 ###### Artículo 90.
 
@@ -1531,7 +1545,9 @@ XV. Las demás que la presente Ley y su Reglamento le confieran.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
-### CAPÍTULO VI. DIRECCIÓN DE RADIO Y TELEVISIÓN
+### CAPÍTULO VI. SISTEMA MORELENSE DE RADIO Y TELEVISIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2010)</small>
 
 ###### Artículo 99.
 
@@ -1591,19 +1607,23 @@ XII. Impulsar el establecimiento de la cooperación y coordinación interinstitu
 
 XIII. Las demás que se deriven de esta Ley y las que el Reglamento le confieran.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DE 2010)</small>
+
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
 ###### Artículo 104.
 
-la Dirección de Radio y Televisión depende de la Junta Política y de Gobierno y es el órgano que a través de sus medios, difunde la actividad del Congreso de Estado, refleja la pluralidad de su integración y en sus emisiones promoverá la identidad de los morelenses, la educación cívica y difusión cultural.
+El Sistema Morelense de Radio y Televisión depende de la Junta Política y de Gobierno y es el órgano que a través de sus medios, difunde la actividad del Congreso de Estado, refleja la pluralidad de su integración y en sus emisiones promoverá la identidad de los morelenses, la educación cívica y difusión cultural.
 
 Tendrá bajo su cargo la operación y administración de las estaciones de radio y televisión a cargo del Congreso del Estado, bajo la coordinación del Comité de Radio y Televisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2010)</small>
+
 ###### Artículo 105.
 
-Para ocupar el cargo de Director de Radio y Televisión, se requiere:
+Para ocupar el cargo de Director del Sistema Morelense de Radio y Televisión, se requiere:
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos políticos y civiles;
 
@@ -1611,9 +1631,11 @@ II. No haber sido condenado en sentencia firme por delito intencional que amerit
 
 III. Acreditar los conocimientos, experiencia y capacidad en el ámbito de la comunicación y contar con título y cédula a nivel licenciatura; con una antigüedad mínima de cinco años.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2010)</small>
+
 ###### Artículo 106.
 
-Son atribuciones del Director de Radio y Televisión del Congreso del Estado las siguientes:
+Son atribuciones del Director del Sistema Morelense de Radio y Televisión las siguientes:
 
 I. Operar y administrar las estaciones de radio y televisión a cargo del Congreso del Estado;
 
@@ -2016,3 +2038,37 @@ Se derogan todas aquellas disposiciones que contravengan en lo dispuesto al pres
 ###### ARTÍCULO TERCERO.
 
 Envíese para su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 12 DE MAYO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día de su aprobación por el Pleno del Congreso.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de 60 días hábiles, el Comité de Radio y Televisión deberá presentar a la Junta Política y de Gobierno para su aprobación, el Reglamento Interior del Sistema Morelense de Radio y Televisión.
+
+###### ARTÍCULO TERCERO.
+
+El personal, mobiliario, vehículos, instrumentos, inmobiliarios, archivos y en general el equipo que la Dirección de Radio y Televisión haya utilizado para la atención de los asuntos a su cargo, así como los recursos financieros autorizados en el presupuesto formarán parte del Sistema Morelense de Radio y Televisión.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
+
+###### ARTÍCULO QUINTO.
+
+En todos aquellos ordenamientos en que se haga referencia a la Dirección de Radio y Televisión, o a su titular, se entenderá que se refieren al Sistema Morelense de Radio y Televisión del Congreso del Estado y a su Director, respectivamente.
+
+###### ARTÍCULO SEXTO.
+
+El Presidente del Congreso del Estado instrumentará los cambios administrativos que se requieran para dar cumplimiento a este decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+En un plazo de 90 días hábiles la Comisión de Reglamentos y Prácticas Parlamentarias deberá presentar al Pleno la iniciativa de reforma al Reglamento del Congreso, para adecuarlo a este Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Remítase para su divulgación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
