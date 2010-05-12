@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-regularizacion-de-la-tenencia-de-la-tierra-15129"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-18"
-last_updated: "1999-08-18"
+last_updated: "2010-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 REGLAMENTO DE REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA PARA EL MUNICIPIO DE TUXTLA GUTIÉRREZ, CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 18 de agosto de 1999.
 
