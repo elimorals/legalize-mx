@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-transito-y-vialidad-del-municipio-de-tuxtla-62258
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-09"
-last_updated: "2008-07-09"
+last_updated: "2010-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE TUXTLA GUTIERREZ, CHIAPAS.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 9 de julio de 2008.
 
@@ -1781,13 +1781,17 @@ VII. Conducir con placas sobrepuestas, sin permiso de sustitución.
 
 En caso de inconformidad de las resoluciones que se emitan con fundamento en el presente Reglamento, los afectados podrán promover el recurso administrativo establecido en el Capítulo de Recursos de la Ley Orgánica Municipal para el Estado de Chiapas.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2010)</small>
+
 ###### Artículo 101.
 
-Las resoluciones que pongan fin al recurso administrativo podrán ser impugnadas en términos de la Ley de Justicia Administrativa del Estado de Chiapas.
+Las resoluciones que pongan fin al recurso administrativo podrán ser impugnadas en términos de la Ley de Procedimientos Administrativos del Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2010)</small>
 
 ###### Artículo 102.
 
-La persona inconforme con los de la autoridad de Tránsito Municipal, fundamentándose en el presente Reglamento, podrá acudir ante la Dirección Jurídica, dentro de los diez días hábiles siguientes, contados a partir de aquel en que tenga conocimiento del acto u omisión que motivó la inconformidad podrán recurrirlas en los términos establecidos en el capítulo de recursos administrativos de la Ley Orgánica Municipal, o en su caso por la Ley de Justicia Administrativa del Estado.
+La persona inconforme con los de la autoridad de Tránsito Municipal, fundamentándose en el presente reglamento, podrá acudir ante la Dirección Jurídica, dentro de los diez días hábiles siguientes, contados a partir de aquel en que tenga conocimiento del acto u omisión que motivó la inconformidad podrán recurrirlas en los términos establecidos en el capítulo de recursos administrativos de la Ley Orgánica Municipal, o el su caso por la Ley de Procedimientos Administrativos del Estado de Chiapas.
 
 T r a n s i t o r i o s
 
@@ -1810,3 +1814,13 @@ El suscrito Licenciado J. Alfredo Galindo Albores, Secretario General del H. Ayu
 Que el presente documento es copia fiel y exacta reproducción del Reglamento de Tránsito y Vialidad del Municipio de Tuxtla Gutiérrez, Chiapas; de fecha 31 de marzo de 2008, que tuve a la vista y se compulsa en 40 (cuarenta) fojas útiles escritas a una cara, mismo que se encuentra en los archivos de la Secretaría General del Ayuntamiento.
 
 A petición de la parte interesada y para los fines legales procedentes, se extiende la presente en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 12 días del mes de junio de 2008.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE MAYO DE 2010.
+
+Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Para su debido conocimiento publíquese la presente reforma en la Gaceta Municipal, y remítase al Director del Periódico Oficial del. Estado para su publicación.
