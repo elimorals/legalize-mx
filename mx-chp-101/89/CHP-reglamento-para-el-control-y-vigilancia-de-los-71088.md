@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-para-el-control-y-vigilancia-de-los-71088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-11"
-last_updated: "2009-11-11"
+last_updated: "2010-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 REGLAMENTO PARA EL CONTROL Y VIGILANCIA DE LOS ESTABLECIMIENTOS QUE PRESTAN EL SERVICIO DE JUEGOS ELECTRÓNICOS, DE SALÓN Y SIMILARES, DEL MUNICIPIO DE TUXTLA GUTIÉRREZ DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 11 de noviembre de 2009.
 
@@ -541,9 +541,11 @@ En caso de reincidencia, por violaciones al presente reglamento se podrá duplic
 
 ### Capítulo IV. De los Recursos
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2010)</small>
+
 ###### Artículo 45.
 
-Los interesados afectados por actos o resoluciones que deriven de la aplicación del presente Reglamento, podrán interponer el recurso a que se refiere el Título Séptimo de la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+La Dirección Jurídica será la encargada de integrar y substanciar los procedimientos administrativos que las sanciones del presente reglamento generen y los interesados podrán recurrirlas en los términos establecidos en el capítulo de recursos administrativos de la Ley Orgánica Municipal, o en su caso por la Ley de Procedimientos Administrativos del Estado de Chiapas
 
 T r a n s i t o r i o s
 
@@ -556,3 +558,13 @@ Tercero.- Para su debido conocimiento publíquese el presente Reglamento en la G
 Dado en la Sala de Sesiones de Cabildo del Honorable Ayuntamiento de Tuxtla Gutiérrez, Chiapas, a los veintiocho días del mes de septiembre de dos mil nueve.
 
 C. Jaime Valls Esponda, Presidente Municipal Constitucional.- C. Jesus Alfredo Galindo Albores, Secretario General del Ayuntamiento.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE MAYO DE 2010.
+
+Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Para su debido conocimiento publíquese la presente reforma en la Gaceta Municipal, y remítase al Director del Periódico Oficial del Estado para su publicación.
