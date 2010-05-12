@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2007-01-31"
+last_updated: "2010-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MAYO DE 2010.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
@@ -101,7 +101,13 @@ III. Los organismos autónomos;
 
 IV. Los organismos auxiliares;
 
-V. Los demás entes públicos que manejen recursos del Estado y Municipios y, en su caso, de la Federación.
+> <small>(ADICIONADA, G.G. 12 DE MAYO DE 2010)</small>
+
+V. Los fideicomisos que se constituyan al amparo del artículo 265 B Bis del Código Financiero del Estado de México y Municipios. En el cumplimiento de sus obligaciones de fiscalización, el Estado no podrá alterar ni impedir que se cumplan los fines de dichos fideicomisos.
+
+Para efectos de esta fracción, no obstante la capacidad del Estado para fiscalizar dichos fideicomisos, no se entenderá que los recursos afectos a dichos fideicomisos son recursos públicos, en los casos en que la afectación y transmisión de dichos recursos se derive de operaciones cuya naturaleza implique la separación de los recursos de la propiedad del Estado y la transmisión de su propiedad a los fideicomisos mencionados;
+
+VI. Los demás entes públicos que manejen recursos del Estado y Municipios y, en su caso, de la Federación.
 
 > <small>(REFORMADO, G.G. 16 DE ENERO DE 2007)</small>
 
@@ -1028,3 +1034,21 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Las reformas a la Ley de Fiscalización Superior del Estado de México, contenidas en el presente Decreto, entrarán en vigor al día siguiente del inicio de la vigencia de la reforma al primer párrafo de la fracción XXXII del artículo 61 de la Constitución Política del Estado Libre y Soberano de México.
 
 TERCERO.- El presente Decreto será aplicable en la entrega, recepción, revisión y fiscalización de las cuentas públicas del Estado y los municipios correspondientes al ejercicio fiscal 2006.
+
+G.G. 12 DE MAYO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día hábil inmediato siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se revoca la autorización otorgada al Instituto de la Función Registral del Estado de México mediante los Artículos Octavo y Noveno del Decreto número 90 de la H. "LVI" Legislatura del Estado de México y publicado en la Gaceta del Gobierno el día 3 de diciembre de 2007 y se derogan los Artículos Transitorios Décimo Primero, Décimo Quinto, Décimo Sexto y Décimo Séptimo del Decreto antes mencionado.
+
+CUARTO.- El fideicomiso a que se refiere el Artículo Sexto del presente Decreto deberá inscribirse en el registro que al efecto lleve la Secretaría de Finanzas en los términos del Artículo 7 de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+QUINTO.- En caso de que se modifique posteriormente el Código Financiero del Estado de México y Municipios con respecto al régimen aplicable al fideicomiso a ser constituido de conformidad con el presente Decreto, se deberán respetar los derechos de fideicomisarios, acreedores y terceros que hayan contratado con el fiduciario de dicho fideicomiso, o bien con el Instituto de la Función Registral del Estado de México o con el Estado, respectivamente, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+SEXTO.- En caso de que se modifique posteriormente la Ley que Crea el Organismo Público Descentralizado Denominado Instituto de la Función Registral del Estado de México, se deberán respetar los derechos de los fideicomisarios, acreedores y terceros que hayan contratado con el fiduciario del fideicomiso que se constituya de conformidad con el presente Decreto o con el Instituto de la Función Registral del Estado de México, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+SÉPTIMO.- En caso de que el patrimonio que sea afectado por el Instituto de la Función Registral del Estado de México al fideicomiso que se constituya de conformidad con el presente Decreto se revierta por cualquier motivo al patrimonio del Estado o sea asignado o reincorporado a otra entidad de la administración pública centralizada o de la administración pública paraestatal que sustituya al Instituto de la Función Registral del Estado de México, los derechos y las obligaciones que se deriven de los convenios, contratos, afectaciones, transmisiones y financiamientos celebrados por el Instituto de la Función Registral del Estado de México o bien, por el fiduciario del fideicomiso a que se refiere el presente Decreto, con respecto a dicho patrimonio y el fideicomiso, subsistirán en sus términos hasta en tanto se liquiden o sean cumplidas las obligaciones adquiridas con ese respecto. En este sentido, los acreedores del fideicomiso al cual se hubiere afectado una parte o la totalidad de los ingresos del Instituto de la Función Registral del Estado de México, seguirán teniendo el derecho a recibir el pago de las obligaciones que corresponda, de conformidad con los contratos que al efecto se hubieren celebrado, como si dicha reversión, asignación o reincorporación no hubiere tenido lugar.
+
+OCTAVO.- El Instituto de la Función Registral del Estado de México, deberá presentar a la Legislatura, por conducto de las Comisiones Legislativas de Planeación y Gasto Público, y de Finanzas Públicas, en un plazo que no excederá de treinta días hábiles, contados a partir de la entrada en vigor del presente decreto, un informe de las metas e indicadores de desempeño del programa de modernización del Instituto de la Función Registral del Estado de México, para los próximos tres años.
