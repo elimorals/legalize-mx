@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-coordinacion-y-control-de-organismos-auxiliares-595
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-24"
-last_updated: "2004-06-04"
+last_updated: "2010-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA COORDINACION Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MAYO DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 24 de agosto de 1983.
 
@@ -95,7 +95,7 @@ II. Que en la constitución de su capital se hagan figurar acciones de serie esp
 
 ###### Artículo 7.
 
-Los fideicomisos públicos que están sujetos a esta Ley, son aquellos constituidos o que en lo futuro se constituyan por el Gobierno del Estado, siendo éste fideicomitente único, a través de la Secretaría de Finanzas, Planeación y Administración para auxiliar al Gobernador en el ejercicio de las atribuciones del Ejecutivo a su cargo, siempre y cuando cuenten con una estructura orgánica análoga a la de otros organismos auxiliares y con Comité Técnico. Unicamente los fideicomisos que reúnan los requisitos anteriores serán considerados organismos auxiliares de la administración Pública del Estado y estarán sujetos a la normatividad administrativa correspondiente.
+Los fideicomisos públicos que están sujetos a esta Ley, son aquellos constituidos o que en lo futuro se constituyan por el Gobierno del Estado, siendo éste fideicomitente único, a través de la Secretaría de Finanzas, Planeación y Administración para auxiliar al Gobernador en el ejercicio de las atribuciones del Ejecutivo a su cargo, siempre y cuando cuenten con una estructura orgánica análoga a la de otros organismos auxiliares y con Comité Técnico. Únicamente los fideicomisos que reúnan los requisitos anteriores serán considerados organismos auxiliares de la administración Pública del Estado y estarán sujetos a la normatividad administrativa correspondiente.
 
 Los demás fideicomisos constituidos por el Estado, a través de sus dependencias o entidades, únicamente serán objeto de registro en la Secretaría de Finanzas, Planeación y Administración y sujetarán su operación, control y régimen financiero exclusivamente a las disposiciones que se estipulen en el decreto por el cual la Legislatura del Estado autorice su Constitución en los contratos aplicables.
 
@@ -203,6 +203,16 @@ XV. Vigilar que el ejercicio de su presupuesto de ingresos, de egresos y de inve
 
 XVI. Las demás que le determine el Gobernador del Estado conforme a la legislación aplicable.
 
+> <small>(ADICIONADO, G.G. 12 DE MAYO DE 2010)</small>
+
+###### Artículo 14-A.
+
+La Secretaría de Finanzas tendrá respecto de los fideicomisos que se constituyan al amparo del artículo 265 B Bis del Código Financiero del Estado de México y Municipios las siguientes atribuciones:
+
+I. Requerir al fiduciario del fideicomiso la información financiera de acuerdo a los lineamientos y formas de presentación que establezca la propia Secretaría de Finanzas para efectos de consolidación de estados financieros y su presentación conforme a las disposiciones legales aplicables; y
+
+II. Requerir la información estadística necesaria para sus funciones de planeación.
+
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 15.
@@ -233,6 +243,12 @@ V. Vigilar que los acuerdos de coordinación que se realicen con dependencias fe
 
 VI. Las demás que le determine el Gobernador del Estado conforme a la legislación aplicable.
 
+> <small>(ADICIONADO, G.G. 12 DE MAYO DE 2010)</small>
+
+###### Artículo 15-A.
+
+La Secretaría de Finanzas tendrá respecto de los fideicomisos que se constituyan al amparo del artículo 265 B Bis del Código Financiero del Estado de México y Municipios la atribución para expedir políticas y lineamientos que permitan la revisión de sus sistemas, métodos y procedimientos de trabajo, incluyendo el cumplimiento de los objetivos para los cuales se hayan creado.
+
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 16.
@@ -257,6 +273,12 @@ IV. Proponer al Ejecutivo del Estado el nombramiento de un comisario que deberá
 
 V. Las demás que le determine el Gobernador del Estado conforme a la Legislación aplicable.
 
+> <small>(ADICIONADO, G.G. 12 DE MAYO DE 2010)</small>
+
+###### Artículo 16-A.
+
+La Secretaría de la Contraloría tendrá respecto de los fideicomisos que se constituyan al amparo del artículo 265 B Bis del Código Financiero del Estado de México y Municipios la atribución de requerir al fiduciario del fideicomiso la información que permita comprobar que el uso de los recursos afectos al mismo es consistente con los fines del fideicomiso y los lineamientos y políticas emitidos por la Secretaría de Finanzas.
+
 > <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 17.
@@ -267,7 +289,7 @@ Las Dependencias Coordinadoras de Sector serán responsables de la planeación, 
 
 ###### Artículo 18.
 
-Corresponde al Ejecutivo del Estado la determinación de las facultades que, conforme al articulo anterior, deben ejercer los coordinadores de sector, en el Acuerdo que al efecto expida.
+Corresponde al Ejecutivo del Estado la determinación de las facultades que, conforme al artículo anterior, deben ejercer los coordinadores de sector, en el Acuerdo que al efecto expida.
 
 > <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -277,7 +299,7 @@ La Legislatura del Estado a solicitud de cuando menos la tercera parte de sus mi
 
 ### CAPITULO IV
 
-Del Control y Vigilancia por parte de los Organos de Gobierno.
+Del Control y Vigilancia por parte de los Órganos de Gobierno.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -286,6 +308,10 @@ Del Control y Vigilancia por parte de los Organos de Gobierno.
 En lo interno, la programación, supervisión, control y evaluación de los organismos auxiliares corresponde a sus respectivos órganos de gobierno, cualquiera que sea la denominación que adopten.
 
 Las anteriores atribuciones se entienden sin menoscabo de las que les corresponden conforme a la Legislación Ordinaria o a los ordenamientos o actos jurídicos de su creación.
+
+> <small>(ADICIONADO, G.G. 12 DE MAYO DE 2010)</small>
+
+Las dependencias o entidades que actúen como fideicomitentes de los fideicomisos que se constituyan al amparo del artículo 265 B Bis del Código Financiero del Estado de México y Municipios deberán supervisar y evaluar el uso de los recursos afectados a los mismos y sus acciones en los mismos términos en que realicen su supervisión y evaluación interna conforme al presente ordenamiento.
 
 > <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -391,7 +417,7 @@ Podrán celebrar sesiones extraordinarias cada vez que el Presidente lo estime c
 
 ###### Artículo 34.
 
-Los miembros de los órganos de Gobierno participarán en las sesiones a que se refieren los artículos 32 y 33 con voz y voto, a excepción del Secretario y el Comisario quienes, tendrán voz pero no voto. En caso de empate el Presidente del Organo de Gobierno respectivo tendrá voto de calidad.
+Los miembros de los órganos de Gobierno participarán en las sesiones a que se refieren los artículos 32 y 33 con voz y voto, a excepción del Secretario y el Comisario quienes, tendrán voz pero no voto. En caso de empate el Presidente del Órgano de Gobierno respectivo tendrá voto de calidad.
 
 T R A N S I T O R I O S
 
@@ -405,7 +431,7 @@ CUARTO.- Se derogan todas las disposiciones legales que se opongan a lo dispuest
 
 LO TENDRA ENTENDIDO EL GOBERNADOR DEL ESTADO, HACIENDO QUE SE PUBLIQUE Y SE CUMPLA.
 
-Dado en el Palacio del Poder Legislativo, en Toluca de Lerdo, Méx., a los veintiocho días del mes de junio de mil novecientos ochenta y tres.- Diputado Presidente, Lic. Arturo Sánchez García.- Diputado Secretario, C. José Duarte Zepeda.- Diputado Secretario, M.V.Z. Enrique Alvarez Díaz.- Rúbricas.
+Dado en el Palacio del Poder Legislativo, en Toluca de Lerdo, Méx., a los veintiocho días del mes de junio de mil novecientos ochenta y tres.- Diputado Presidente, Lic. Arturo Sánchez García.- Diputado Secretario, C. José Duarte Zepeda.- Diputado Secretario, M.V.Z. Enrique Álvarez Díaz.- Rúbricas.
 
 Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
@@ -520,3 +546,21 @@ Todas aquellas disposiciones legales y reglamentarias que refieran a la Ley para
 ###### ARTICULO OCTAVO.
 
 El Ejecutivo Estatal, a través de la Secretaría de Finanzas, Planeación y Administración, deberá informar a la Legislatura del Estado a través del Comité especial a que se refiere el punto 13 del artículo sexto del presente decreto, sobre todos los actos jurídicos que celebre para dar cumplimiento a lo establecido en dicho artículo sexto del presente decreto, una vez formalizado (sic) dichos actos jurídicos.
+
+G.G. 12 DE MAYO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día hábil inmediato siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se revoca la autorización otorgada al Instituto de la Función Registral del Estado de México mediante los Artículos Octavo y Noveno del Decreto número 90 de la H. "LVI" Legislatura del Estado de México y publicado en la Gaceta del Gobierno el día 3 de diciembre de 2007 y se derogan los Artículos Transitorios Décimo Primero, Décimo Quinto, Décimo Sexto y Décimo Séptimo del Decreto antes mencionado.
+
+CUARTO.- El fideicomiso a que se refiere el Artículo Sexto del presente Decreto deberá inscribirse en el registro que al efecto lleve la Secretaría de Finanzas en los términos del Artículo 7 de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+QUINTO.- En caso de que se modifique posteriormente el Código Financiero del Estado de México y Municipios con respecto al régimen aplicable al fideicomiso a ser constituido de conformidad con el presente Decreto, se deberán respetar los derechos de fideicomisarios, acreedores y terceros que hayan contratado con el fiduciario de dicho fideicomiso, o bien con el Instituto de la Función Registral del Estado de México o con el Estado, respectivamente, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+SEXTO.- En caso de que se modifique posteriormente la Ley que Crea el Organismo Público Descentralizado Denominado Instituto de la Función Registral del Estado de México, se deberán respetar los derechos de los fideicomisarios, acreedores y terceros que hayan contratado con el fiduciario del fideicomiso que se constituya de conformidad con el presente Decreto o con el Instituto de la Función Registral del Estado de México, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+SÉPTIMO.- En caso de que el patrimonio que sea afectado por el Instituto de la Función Registral del Estado de México al fideicomiso que se constituya de conformidad con el presente Decreto se revierta por cualquier motivo al patrimonio del Estado o sea asignado o reincorporado a otra entidad de la administración pública centralizada o de la administración pública paraestatal que sustituya al Instituto de la Función Registral del Estado de México, los derechos y las obligaciones que se deriven de los convenios, contratos, afectaciones, transmisiones y financiamientos celebrados por el Instituto de la Función Registral del Estado de México o bien, por el fiduciario del fideicomiso a que se refiere el presente Decreto, con respecto a dicho patrimonio y el fideicomiso, subsistirán en sus términos hasta en tanto se liquiden o sean cumplidas las obligaciones adquiridas con ese respecto. En este sentido, los acreedores del fideicomiso al cual se hubiere afectado una parte o la totalidad de los ingresos del Instituto de la Función Registral del Estado de México, seguirán teniendo el derecho a recibir el pago de las obligaciones que corresponda, de conformidad con los contratos que al efecto se hubieren celebrado, como si dicha reversión, asignación o reincorporación no hubiere tenido lugar.
+
+OCTAVO.- El Instituto de la Función Registral del Estado de México, deberá presentar a la Legislatura, por conducto de las Comisiones Legislativas de Planeación y Gasto Público, y de Finanzas Públicas, en un plazo que no excederá de treinta días hábiles, contados a partir de la entrada en vigor del presente decreto, un informe de las metas e indicadores de desempeño del programa de modernización del Instituto de la Función Registral del Estado de México, para los próximos tres años.
