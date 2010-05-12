@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ingresos-del-estado-de-mexico-para-el-ejercicio-72468"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2009-12-10"
-last_updated: "2009-12-10"
+last_updated: "2010-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE INGRESOS DEL ESTADO DE MEXICO PARA EL EJERCICIO FISCAL DEL AÑO 2010
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MAYO DE 2010.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el jueves 10 de diciembre de 2009.
 
@@ -567,9 +567,15 @@ de la contratación de créditos, en términos del
 
 TOTAL 134,029,408
 
+> <small>(ADICIONADO, G.G. 12 DE MAYO DE 2010)</small>
+
+Para efectos de lo dispuesto en el presente numeral, además podrán percibirse los ingresos que reciba el Instituto de la Función Registral del Estado de México, hasta por un monto equivalente a 10 veces los ingresos percibidos por dicho Instituto en el ejercicio fiscal 2009, de conformidad con lo reportado en los estados financieros auditados del propio organismo auxiliar.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE MAYO DE 2010)</small>
+
 ###### Artículo 2.
 
-Se autoriza al Ejecutivo del Estado para que obtenga un endeudamiento contratado en términos del Título Octavo del Código Financiero del Estado de México y Municipios, hasta por un monto de $6,000'000,000.00 (Seis mil millones de pesos 00/100 M.N.), que será destinado exclusivamente a inversión pública productiva en términos del Código Financiero del Estado de México y Municipios.
+Se autoriza al Ejecutivo del Estado para que obtenga un endeudamiento contratado en términos del Título Octavo del Código Financiero del Estado de México y Municipios, hasta por un monto de $6,000'000,000.00 (Seis Mil Millones de Pesos 00/100 M.N.), que será destinado exclusivamente a inversión pública productiva en términos del Código Financiero del Estado de México y Municipios, más un monto equivalente a 10 veces los ingresos percibidos por el Instituto de la Función Registral del Estado de México en el ejercicio fiscal 2009.
 
 El endeudamiento neto del Gobierno del Estado de México al cierre del ejercicio fiscal del año 2010, deberá ser cero, o en su caso presentar desendeudamiento neto, conforme a lo previsto en el Título Octavo del Código Financiero del Estado de México y Municipios.
 
@@ -579,9 +585,11 @@ Al reporte trimestral que prevé el Título Octavo del Código Financiero del Es
 
 En materia de deuda pública ningún empréstito podrá contratarse en contravención a lo que expresamente establece la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE MAYO DE 2010)</small>
+
 ###### Artículo 3.
 
-Solamente en las condiciones a que se refiere el artículo anterior, los organismos auxiliares del Gobierno del Estado en su conjunto podrán contratar durante el ejercicio fiscal de 2010, hasta $2,600'000,000.00 (Dos mil seiscientos millones de pesos 00/100 M.N) en endeudamiento autorizado, facultándose al Ejecutivo del Estado para otorgar su aval hasta por esa cantidad. Estas operaciones se computarán dentro del límite del endeudamiento autorizado a que se refiere el artículo anterior.
+Los organismos auxiliares del Gobierno del Estado en su conjunto solamente en las condiciones a que se refiere el artículo anterior podrán contratar durante el ejercicio fiscal de 2010, endeudamiento autorizado hasta por un monto de $2,600'000,000.00 (Dos Mil Seiscientos Millones de Pesos 00/100 M.N.) más un monto equivalente a 10 veces los ingresos percibidos por el Instituto de la Función Registral del Estado de México en el ejercicio fiscal 2009, facultándose al Ejecutivo del Estado para otorgar su aval hasta por un monto de $2,600'000,000.00 (Dos Mil Seiscientos Millones de Pesos 00/100 M.N.). Estas operaciones se computarán dentro del límite del endeudamiento autorizado a que se refiere el artículo anterior.
 
 El Estado podrá afectar como fuente o garantía de pago, o ambas, de las obligaciones que contraiga incluyendo la emisión de valores representativos de un pasivo a su cargo para su colocación en el mercado de valores así como de los avales que preste, sus ingresos derivados de contribuciones, productos, aprovechamientos y accesorios así como los derivados del Sistema Nacional de Coordinación Fiscal.
 
@@ -597,7 +605,9 @@ En el caso de que se registren ingresos superiores a los aprobados, la Secretar�
 
 Las cantidades recaudadas deberán depositarse en las cuentas bancarias autorizadas, debiendo inscribirse cualquiera que sea su forma o naturaleza, tanto en los registros de la propia Secretaría como en la cuenta pública que ésta formule.
 
-Los ingresos que reciban los organismos públicos descentralizados derivados de fideicomisos en los que participen como fideicomitentes privados en los términos del artículo 265 B Bis del Código Financiero del Estado de México y Municipios, deberán aplicarse conforme a las disposiciones constitucionales y legales aplicables y el remanente deberá ser entregado a la Secretaría de Finanzas para su aplicación en gasto de inversión en obras y acciones y al pago de la deuda pública del Estado; debiendo informar a la Legislatura, de los porcentajes que se hubieran aplicado a cada uno de los rubros antes señalados.
+> <small>(REFORMADO, G.G. 12 DE MAYO DE 2010)</small>
+
+Los ingresos que reciban los organismos públicos descentralizados derivados de fideicomisos en los que participen como fideicomitentes en los términos del artículo 265 B Bis del Código Financiero del Estado de México y Municipios, deberán aplicarse conforme a las disposiciones constitucionales y legales aplicables y el remanente deberá ser entregado a la Secretaría de Finanzas o a quien ésta designe conforme a las disposiciones legales aplicables para su aplicación en gasto de inversión en obras y acciones y al pago de la deuda pública del Estado; debiendo informar a la Legislatura de los porcentajes que se hubieran aplicado a cada uno de los rubros antes señalados.
 
 ###### Artículo 5.
 
@@ -776,3 +786,23 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 12 DE MAYO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día hábil inmediato siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se revoca la autorización otorgada al Instituto de la Función Registral del Estado de México mediante los Artículos Octavo y Noveno del Decreto número 90 de la H. "LVI" Legislatura del Estado de México y publicado en la Gaceta del Gobierno el día 3 de diciembre de 2007 y se derogan los Artículos Transitorios Décimo Primero, Décimo Quinto, Décimo Sexto y Décimo Séptimo del Decreto antes mencionado.
+
+CUARTO.- El fideicomiso a que se refiere el Artículo Sexto del presente Decreto deberá inscribirse en el registro que al efecto lleve la Secretaría de Finanzas en los términos del Artículo 7 de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+QUINTO.- En caso de que se modifique posteriormente el Código Financiero del Estado de México y Municipios con respecto al régimen aplicable al fideicomiso a ser constituido de conformidad con el presente Decreto, se deberán respetar los derechos de fideicomisarios, acreedores y terceros que hayan contratado con el fiduciario de dicho fideicomiso, o bien con el Instituto de la Función Registral del Estado de México o con el Estado, respectivamente, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+SEXTO.- En caso de que se modifique posteriormente la Ley que Crea el Organismo Público Descentralizado Denominado Instituto de la Función Registral del Estado de México, se deberán respetar los derechos de los fideicomisarios, acreedores y terceros que hayan contratado con el fiduciario del fideicomiso que se constituya de conformidad con el presente Decreto o con el Instituto de la Función Registral del Estado de México, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+SÉPTIMO.- En caso de que el patrimonio que sea afectado por el Instituto de la Función Registral del Estado de México al fideicomiso que se constituya de conformidad con el presente Decreto se revierta por cualquier motivo al patrimonio del Estado o sea asignado o reincorporado a otra entidad de la administración pública centralizada o de la administración pública paraestatal que sustituya al Instituto de la Función Registral del Estado de México, los derechos y las obligaciones que se deriven de los convenios, contratos, afectaciones, transmisiones y financiamientos celebrados por el Instituto de la Función Registral del Estado de México o bien, por el fiduciario del fideicomiso a que se refiere el presente Decreto, con respecto a dicho patrimonio y el fideicomiso, subsistirán en sus términos hasta en tanto se liquiden o sean cumplidas las obligaciones adquiridas con ese respecto. En este sentido, los acreedores del fideicomiso al cual se hubiere afectado una parte o la totalidad de los ingresos del Instituto de la Función Registral del Estado de México, seguirán teniendo el derecho a recibir el pago de las obligaciones que corresponda, de conformidad con los contratos que al efecto se hubieren celebrado, como si dicha reversión, asignación o reincorporación no hubiere tenido lugar.
+
+OCTAVO.- El Instituto de la Función Registral del Estado de México, deberá presentar a la Legislatura, por conducto de las Comisiones Legislativas de Planeación y Gasto Público, y de Finanzas Públicas, en un plazo que no excederá de treinta días hábiles, contados a partir de la entrada en vigor del presente decreto, un informe de las metas e indicadores de desempeño del programa de modernización del Instituto de la Función Registral del Estado de México, para los próximos tres años.
