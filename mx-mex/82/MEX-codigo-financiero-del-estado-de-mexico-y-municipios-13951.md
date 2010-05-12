@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2010-02-02"
+last_updated: "2010-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MAYO DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -1531,80 +1531,6 @@ Cuando el Contador Público que formule el dictamen o las personas jurídico col
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-Artículo 47 F.- Las normas de auditoria a que se refiere la fracción II del artículo 47 C de este Código, se consideran cumplidas en la forma siguiente:
-
-I. Las relativas a la capacidad, independencia e imparcialidad profesionales del Contador Público autorizado, cuando su registro se encuentre vigente y no tenga impedimento para dictaminar en términos del artículo 47 E de este Código.
-
-II. Las relativas al trabajo profesional, cuando:
-
-A). La planeación del trabajo y la supervisión de sus ayudantes le permitan allegarse de los elementos de juicio suficientes para fundar su dictamen.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-B). El estudio y evaluación del sistema de control interno del contribuyente le permita determinar el alcance y naturaleza de los procedimientos de auditoría aplicables a las circunstancias que habrán de emplearse.
-
-C). Los elementos probatorios y la información presentada en el dictamen como soporte de la determinación y pago de la contribución revisada al contribuyente y en las notas aclaratorias relativas, sean suficientes y adecuados para su razonable interpretación.
-
-En caso de excepciones a lo anterior, el Contador Público deberá mencionar claramente en qué consisten, indicando los motivos y, en su caso, los fundamentos legales y conceptos que las originaron, señalando las inconsistencias o diferencias detectadas, así como su efecto cuantificado sobre la determinación y pago de la contribución revisada, emitiendo en consecuencia como resultado de su trabajo, una opinión negativa o con salvedades, según corresponda. Cuando se carezca de elementos probatorios, el Contador Público emitirá una abstención razonada de opinión sobre la información y documentación que en su conjunto tenga del contribuyente, respecto del cumplimiento de sus obligaciones fiscales.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-Para los efectos de este artículo, dentro del alcance que se establezca y la naturaleza de los procedimientos de auditoría generales aplicables a las circunstancias, deberá considerarse la revisión del total de los conceptos por remuneraciones al trabajo personal prestado dentro del territorio del Estado que deban integrar la base para la determinación del impuesto.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-Artículo 47 G.- La información cuantitativa a que se refiere la fracción III del quinto párrafo del artículo 47 B de este Código, se presentará en forma mensual e independiente según corresponda a la causación o retención de la contribución revisada; se expresará en pesos, una vez ajustados los montos que contengan fracciones de pesos a la unidad inmediata anterior o superior, ya sea que incluyan de uno hasta cincuenta centavos o de cincuenta y uno a noventa y nueve centavos, respectivamente; se referirá en forma precisa a los conceptos o parámetros y tasa que conforme a este Código resulten aplicables durante el ejercicio fiscal dictaminado para la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, misma que deberá contener y cumplir con lo siguiente:
-
-> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-I. La integración de esta información se presentará por cada uno de los establecimientos dentro del territorio del Estado, en los que se haya realizado el hecho generador o actividades que generen obligaciones fiscales respecto del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, indicando su domicilio o ubicación.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-II. La información se mostrará relacionada con la descripción de la base para la determinación y el pago de la contribución revisada, ya sea como causante y/o retenedor, observando las diferencias determinadas respecto del cálculo del contribuyente dictaminado, debiendo manifestarse todos los pagos realizados en efectivo o en especie por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado, independientemente de la denominación que se les haya otorgado, así como el número total de trabajadores, informando aquellos pagos que no se consideraron en la determinación referida.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-III. En cuanto a los pagos de la contribución revisada que haya realizado el contribuyente dictaminado, deberá mencionarse su importe y el folio de la declaración o del acuse de recibo del documento digital de la declaración electrónica correspondiente que permita su identificación. Asimismo, se indicará el monto de las compensaciones y estímulos fiscales que se disminuyan del impuesto determinado a cargo del contribuyente o retenedor en el ejercicio fiscal que se dictamina, cuando dichas aplicaciones hayan sido autorizadas en caso necesario por la autoridad fiscal competente y surtan sus efectos para dicho ejercicio fiscal.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-IV. En caso de que el contribuyente dictaminado tenga saldos a favor de la contribución revisada provenientes de ejercicios fiscales anteriores al que se refiera el dictamen, que se encuentren pendientes de aplicación al cierre del ejercicio fiscal inmediato anterior al que se revisa, dichos saldos y los que en su caso se generen en el ejercicio fiscal revisado, deberán manifestarse en el dictamen indicando el periodo en el que se originaron y en el que se aplicaron en caso de haberse compensado o solicitado en devolución durante el ejercicio fiscal revisado.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-V. Análisis pormenorizado de la contribución revisada cuando se encuentre por pagar al cierre del ejercicio fiscal que se dictamina, el cual se presentará por cada periodo de causación o retención al que esté sujeta, una vez considerados los pagos que hayan sido cubiertos por el contribuyente o retenedor a la fecha de presentación del dictamen formulado. Cuando se haya obtenido de la autoridad fiscal competente la autorización para el pago en parcialidades de dicha contribución, esta situación deberá aclararse en el dictamen señalando los datos de identificación del documento de autorización correspondiente.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-VI. Conciliación entre las cifras dictaminadas acumuladas de las remuneraciones al trabajo personal prestado dentro del territorio del Estado determinadas por el Contador Público y los saldos finales acumulados de las cuentas y subcuentas incluidas en la balanza de comprobación del contribuyente dictaminado que respalde la información contenida en sus estados financieros para efectos fiscales al último día del ejercicio fiscal revisado, resultantes de la contabilidad que esté obligado a llevar, señalándose la cuenta o subcuenta correspondiente y su número de referencia contable de conformidad con el catálogo de cuentas que tenga establecido el contribuyente en cuestión, debiendo manifestarse las aclaraciones pertinentes por las diferencias observadas. Los saldos finales referidos serán aquellos que se obtengan una vez realizados los asientos de ajuste contables que en su caso resulten pertinentes con motivo de la auditoría practicada, antes de efectuarse el asiento del cierre del ejercicio fiscal.
-
-En caso de que los saldos finales de las cuentas y subcuentas mencionadas en el párrafo inmediato anterior contengan información relativa a erogaciones realizadas por concepto de remuneraciones al trabajo personal prestado fuera del territorio del Estado, la conciliación referida deberá efectuarse únicamente respecto del monto que represente en dichos saldos las erogaciones realizadas por el contribuyente dictaminado por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-VII. Comparación analítica entre los conceptos o parámetros considerados para la determinación y pago de la contribución revisada en el ejercicio fiscal dictaminado y los considerados en el ejercicio fiscal inmediato anterior.
-
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
 ###### Artículo 47-F.
 
 Las normas de auditoria a que se refiere la fracción II del artículo 47 C de este Código, se consideran cumplidas en la forma siguiente:
@@ -1629,7 +1555,7 @@ En caso de excepciones a lo anterior, el Contador Público deberá mencionar cla
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-Para los efectos de este artículo, dentro del alcance que se establezca y la naturaleza de los procedimientos de auditoría generales aplicables a las circunstancias, deberá considerarse la revisión del total de los conceptos por remuneraciones al trabajo personal prestado dentro del territorio del Estado que deban integrar la base para la determinación del impuesto.
+Para los efectos de este articulo, dentro del alcance que se establezca y la naturaleza de los procedimientos de auditoría generales aplicables a las circunstancias, deberá considerarse la revisión del total de los conceptos por remuneraciones al trabajo personal prestado dentro del territorio del Estado que deban integrar la base para la determinación del impuesto.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -11133,23 +11059,37 @@ X. Todo lo no previsto en este artículo, será resuelto por el Gobernador a tra
 
 El resultado de lo anterior se hará del conocimiento de la Legislatura.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE MAYO DE 2010)</small>
+
+Artículo 265 B Bis.- No se considerarán deuda pública las obligaciones de pasivo directas, indirectas o contingentes, derivadas de créditos, préstamos, empréstitos o financiamientos de cualquier naturaleza, incluyendo la emisión de valores, a cargo de los fideicomisos en que el fideicomitente sea un organismo público descentralizado, siempre y cuando (i) lo prevea expresamente la ley de creación del organismo público descentralizado; (ii) el fideicomitente no tenga obligación alguna, directa o contingente, de pago de los mencionados créditos, empréstitos, préstamos o financiamientos; y (iii) la fuente de pago del crédito, empréstito, préstamo o financiamiento se derive de la recaudación de derechos por la prestación de servicios de dicho organismo público descentralizado y no de cualquier otra contribución. Asimismo, no constituirá un financiamiento ni deuda pública, los recursos que, en su caso, reciban los organismos públicos descentralizados por cualquier concepto de parte de los fideicomisos mencionados. En adición a lo anterior, los organismos públicos descentralizados podrán otorgar garantías, en los términos que al efecto apruebe la Secretaría de Finanzas, en relación a las obligaciones asumidas por los fideicomisos que constituyan cuando así lo establezca la ley de su creación y previa autorización de la Legislatura, en cuyo caso las obligaciones de pasivo directas, indirectas o contingentes antes mencionadas serán deuda pública conforme a los términos del presente Título Octavo. Los fideicomisos a que se refiere este párrafo deberán tener como propósito principal contratar financiamientos, servir como medio de pago, medio alterno de pago, garantía y/o como emisores de valores.
+
+> <small>(REFORMADO, G.G. 12 DE MAYO DE 2010)</small>
+
+Para efectos de lo dispuesto en el párrafo anterior, los organismos públicos descentralizados podrán afectar en fideicomiso y/o transmitir, de cualquier forma, sus ingresos, presentes o futuros, derivados de la recaudación de derechos por los servicios que presten a cambio de una contraprestación o de los recursos que deban serle pagados por el fideicomiso correspondiente. El organismo público descentralizado, previa autorización de la Secretaría de Finanzas y a través del Ejecutivo del Estado, deberá someter a la aprobación de la Legislatura la afectación y/o transmisión de los ingresos al fideicomiso. Asimismo, el Estado no podrá de forma alguna revocar o revertir la mencionada afectación y/o transmisión, sin la autorización de la propia Legislatura, de los acreedores y/o fideicomisarios respectivos.
+
 > <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
-
-###### Artículo 265-B Bis.
-
-No se considerarán deuda pública las obligaciones de pasivo directas, indirectas o contingentes, derivadas de créditos, préstamos, empréstitos o financiamientos de cualquier naturaleza, incluyendo la emisión de valores, a cargo de los fideicomisos privados en que el fideicomitente sea un organismo público descentralizado, siempre y cuando (i) lo prevea expresamente la ley de creación del organismo público descentralizado; (ii) el fideicomitente no tenga obligación alguna, directa o contingente, de pago de los mencionados créditos, empréstitos, préstamos o financiamientos; y (iii) la fuente de pago del crédito, empréstito, préstamo o financiamiento se derive de la recaudación de derechos por la prestación de servicios de dicho organismo público descentralizado y no de cualquier otra contribución. Asimismo, no constituirá un financiamiento ni deuda pública, los recursos que, en su caso, reciban los organismos públicos descentralizados por cualquier concepto de parte de los fideicomisos mencionados. Los fideicomisos a que se refiere este párrafo deberán tener como propósito principal contratar financiamientos, servir como medio de pago, medio alterno de pago, garantía y/o como emisores de valores.
-
-Para efectos de lo dispuesto en el párrafo anterior, los organismos públicos descentralizados podrán afectar en fideicomiso y/o transmitir, de cualquier forma, sus ingresos, presentes o futuros, derivados de la recaudación de derechos por los servicios que presten a cambio de una contraprestación o de los recursos que deban serle pagados por el fideicomiso correspondiente. El organismo público descentralizado, previa autorización de la Secretaría de Finanzas y a través del Ejecutivo del Estado, deberá someter a la aprobación de la Legislatura la afectación y/o transmisión de los ingresos al fideicomiso. Asimismo, el Estado no podrá de forma alguna revocar o revertir la mencionada afectación y/o transmisión, sin la autorización de la propia Legislatura y de los acreedores y/o fideicomisarios respectivos.
 
 Los fideicomisos a que se refiere este artículo no constituirán fideicomisos públicos paraestatales en términos de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
 
-En caso de desincorporación y/o afectación de los ingresos del organismo público descentralizado, las erogaciones que se realicen con cargo al patrimonio del fideicomiso al cual sean afectados y/o transmitidos los ingresos, no serán consideradas como egresos para fines presupuestarios del Estado o del organismo descentralizado y sólo estarán sujetas a las disposiciones que se estipulen en el decreto por el que la Legislatura autorice la creación del fideicomiso correspondiente, en el propio contrato del fideicomiso y a las reglas, controles y previsiones aplicables al fideicomiso de cuerdo con las normas contractuales respectivas. Los organismos descentralizados podrán convenir con el fiduciario del fideicomiso respectivo sustituir los ingresos afectados en fideicomiso derivados de la recaudación de derechos por los servicios que preste, sin que ese convenio constituya deuda pública.
+> <small>(ADICIONADO, G.G. 12 DE MAYO DE 2010)</small>
+
+El Presupuesto de Egresos deberá prever las asignaciones presupuestales necesarias para reconocer los compromisos y obligaciones de dichos organismos descentralizados frente a los fideicomisos a los que se refiere el primer párrafo de este artículo.
+
+> <small>(REFORMADO, G.G. 12 DE MAYO DE 2010)</small>
+
+En caso de desincorporación y/o afectación de los ingresos del organismo público descentralizado, las erogaciones que se realicen con cargo al patrimonio del fideicomiso al cual sean afectados y/o transmitidos los ingresos, no serán consideradas como egresos para fines presupuestarios del Estado o del organismo descentralizado y sólo estarán sujetas a las disposiciones que se estipulen en el decreto por el que la Legislatura autorice la creación del fideicomiso correspondiente, en el propio contrato de fideicomiso y a las reglas, controles y previsiones aplicables al fideicomiso de acuerdo con las normas contractuales respectivas.
+
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
 En ningún caso, la afectación y/o transmisión de los ingresos a que se refiere el presente artículo, se considerará como una afectación o transmisión de la atribución de recaudar las contribuciones de las que deriven los mencionados ingresos.
 
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
 La operación, control y régimen financiero de los fideicomisos a que se refiere este artículo no estará sujeta a las disposiciones de la administración pública estatal salvo respecto de los asuntos que, en su caso, prevean expresamente las leyes aplicables, estando sujetos exclusivamente a las disposiciones que se estipulen en el decreto por el que la Legislatura autorice su creación, en el propio contrato de fideicomiso y demás disposiciones contractuales aplicables, así como en las disposiciones mercantiles, financieras y/o bursátiles que correspondan. En este sentido, durante todo el tiempo que permanezca en vigor el fideicomiso los recursos que el fideicomiso adquiera por cualquier título, así como los recursos, ingresos, bienes, activos y/o derechos que el organismo público descentralizado transmita y/o afecte al mismo formarán parte del patrimonio de dicho fideicomiso y estarán destinados exclusivamente al cumplimiento de sus fines.
 
-Los ingresos que reciban los organismos públicos descentralizados de los fideicomisos privados en que participen como fideicomitentes en los términos de este artículo, deberán ser aplicados por el organismo público descentralizado correspondientes conforme a las disposiciones constitucionales y legales aplicables, en el entendido que los remanentes deberán ser transmitidos a la Secretaría de Finanzas para su aplicación al gasto de inversión en obras y acciones y al pago de la deuda pública del Estado.
+> <small>(REFORMADO, G.G. 12 DE MAYO DE 2010)</small>
+
+Los ingresos que reciban los organismos públicos descentralizados de los fideicomisos privados en que participen como fideicomitentes en los términos de este artículo, deberán ser aplicados por el organismo público descentralizado correspondiente conforme a las disposiciones constitucionales y legales aplicables, en el entendido que los remanentes deberán ser transmitidos a la Secretaría de Finanzas o a quien esta última designe en los términos de las leyes aplicables, para su aplicación al gasto de inversión en obras y acciones y al pago de la deuda pública del Estado.
 
 > <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
@@ -14182,6 +14122,24 @@ G.G. 1 DE ENERO DE 2010.
 PRIMERO.- Publíquese en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Dese a conocer a las Dependencias de la Administración pública del Gobierno del Estado de México, así como a las Unidades Administrativas dependientes de la Subsecretaría de Ingresos.
+
+G.G. 12 DE MAYO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día hábil inmediato siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se revoca la autorización otorgada al Instituto de la Función Registral del Estado de México mediante los Artículos Octavo y Noveno del Decreto número 90 de la H. "LVI" Legislatura del Estado de México y publicado en la Gaceta del Gobierno el día 3 de diciembre de 2007 y se derogan los Artículos Transitorios Décimo Primero, Décimo Quinto, Décimo Sexto y Décimo Séptimo del Decreto antes mencionado.
+
+CUARTO,- El fideicomiso a que se refiere el Artículo Sexto del presente Decreto deberá inscribirse en el registro que al efecto lleve la Secretaría de Finanzas en los términos del Artículo 7 de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+QUINTO.- En caso de que se modifique posteriormente el Código Financiero del Estado de México y Municipios con respecto al régimen aplicable al fideicomiso a ser constituido de conformidad con el presente Decreto, se deberán respetar los derechos de fideicomisarios, acreedores y terceros que hayan contratado con el fiduciario de dicho fideicomiso, o bien con el Instituto de la Función Registral del Estado de México o con el Estado, respectivamente, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+SEXTO.- En caso de que se modifique posteriormente la Ley que Crea el Organismo Público Descentralizado Denominado Instituto de la Función Registral del Estado de México, se deberán respetar los derechos de los fideicomisarios, acreedores y terceros que hayan contratado con el fiduciario del fideicomiso que se constituya de conformidad con el presente Decreto o con el Instituto de la Función Registral del Estado de México, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+SÉPTIMO.- En caso de que el patrimonio que sea afectado por el Instituto de la Función Registral del Estado de México al fideicomiso que se constituya de conformidad con el presente Decreto se revierta por cualquier motivo al patrimonio del Estado o sea asignado o reincorporado a otra entidad de la administración pública centralizada o de la administración pública paraestatal que sustituya al Instituto de la Función Registral del Estado de México, los derechos y las obligaciones que se deriven de los convenios, contratos, afectaciones, transmisiones y financiamientos celebrados por el Instituto de la Función Registral del Estado de México o bien, por el fiduciario del fideicomiso a que se refiere el presente Decreto, con respecto a dicho patrimonio y el fideicomiso, subsistirán en sus términos hasta en tanto se liquiden o sean cumplidas las obligaciones adquiridas con ese respecto. En este sentido, los acreedores del fideicomiso al cual se hubiere afectado una parte o la totalidad de los ingresos del Instituto de la Función Registral del Estado de México, seguirán teniendo el derecho a recibir el pago de las obligaciones que corresponda, de conformidad con los contratos que al efecto se hubieren celebrado, como si dicha reversión, asignación o reincorporación no hubiere tenido lugar.
+
+OCTAVO.- El Instituto de la Función Registral del Estado de México, deberá presentar a la Legislatura, por conducto de las Comisiones Legislativas de Planeación y Gasto Público, y de Finanzas Públicas, en un plazo que no excederá de treinta días hábiles, contados a partir de la entrada en vigor del presente decreto, un informe de las metas e indicadores de desempeño del programa de modernización del Instituto de la Función Registral del Estado de México, para los próximos tres años.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
