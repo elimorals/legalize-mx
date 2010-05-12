@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-para-la-venta-y-consumo-de-bebidas-alcoholicas-31113
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-12"
-last_updated: "2005-10-05"
+last_updated: "2010-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 REGLAMENTO PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE TUXTLA GUTIERREZ, CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 12 de agosto de 1998.
 
@@ -567,9 +567,11 @@ EN LA RESOLUCION ADMINISTRATIVA CORRESPONDIENTE SE SEÑALARAN LAS FALTAS INCURRI
 
 CUANDO SE TRATE DE SEGUNDA O POSTERIOR INSPECCION PARA VERIFICAR EL CUMPLIMIENTO DE UNA RESOLUCION ANTERIOR, Y DEL ACTA CORRESPONDIENTE SE DESPRENDA QUE NO SE HA DADO CUMPLIMIENTO A LAS MEDIDAS PREVIAMENTE ORDENADAS, SE PODRA IMPONER LA SANCION O SANCIONES QUE PROCEDA CONFORME AL ARTICULO 40 Y 41, POR REBELDIA DEL INTERESADO.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 58.
 
-LAS PERSONAS AFECTADAS POR LAS RESOLUCIONES DICTADAS CON MOTIVO DE ESTE REGLAMENTO PODRAN RECURRIRLAS EN LOS TERMINOS PREVISTOS POR LA LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS, DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO Y EN SU CASO POR LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO.
+LAS PERSONAS AFECTADAS POR LAS RESOLUCIONES DICTADAS CON MOTIVO DE ESTE REGLAMENTO PODRAN RECURRIRLAS EN LOS TERMINOS PREVISTOS POR LA LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS, DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO Y EN SU CASO POR LA LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE CHIAPAS.
 
 ### CAPITULO IX. DE LAS SANCIONES
 
@@ -734,3 +736,11 @@ Primero.- Las presentes reformas, adiciones y derogaciones del reglamento entrar
 Segundo.- Con fundamento a lo previsto en el artículo 155, de la Ley Orgánica, la Secretaría del Ayuntamiento remitirá copias certificadas de las presentes disposiciones normativas a la dirección del Periódico Oficial, para la difusión correspondiente.
 
 Asimismo, acorde a lo previsto en el artículo 39, de la Ley Orgánica, deberá publicarse el presente reglamento en la Gaceta Informativa de éste Ayuntamiento
+
+P.O. 12 DE MAYO DE 2010.
+
+Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Para su debido conocimiento publíquese la presente reforma en la Gaceta Municipal, y remítase al Director del Periódico Oficial del Estado para su publicación.
