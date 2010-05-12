@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2010-03-06"
+last_updated: "2010-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MAYO DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -47,7 +47,7 @@ La presente Ley tiene por objeto regular la organización y funcionamiento de la
 
 ###### Artículo 2.
 
-El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien tendrá las atribuciones, funciones y obligaciones que le señalen: la Constitución Política de los Estados Unidos Mexicanos, La Constitución Política del Estado de México, la presente Ley y las demás disposiciones jurídicas relativas vigentes en el Estado. El Sector paraestatal, se regirá por la presente Ley y demás disposiciones que le resulten aplicables.
+El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien tendrá las atribuciones, funciones y obligaciones que le señalen: La Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de México, la presente Ley y las demás disposiciones jurídicas relativas vigentes en el Estado. El Sector paraestatal, se regirá por la presente Ley y demás disposiciones que le resulten aplicables.
 
 ###### Artículo 3.
 
@@ -591,7 +591,7 @@ LIII. (DEROGADA, G.G. 26 DE DICIEMBRE DE 2007)
 
 > <small>(ADICIONADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
-LlV. Comparecer ante terceros con facultades para formular declaraciones en representación del Estado y celebrar convenios a través de los cuales el Estado pueda asumir obligaciones de hacer y no hacer en relación con operaciones de crédito, préstamo, empréstito, emisión de valores o financiamiento a cargo de fideicomisos en los que participe como fideicomitente un organismo público descentralizado, y obligarse a indemnizar del daño o perjuicio o la privación de cualquier ganancia lícita que se ocasione por el incumplimiento de dichas obligaciones de hacer y no hacer o por la inexactitud de sus declaraciones, sin que ello constituya deuda pública del Estado y siempre y cuando no se garanticen obligaciones a favor de terceros. En los convenios a que se refiere esta fracción, no se podrán pactar penas convencionales o predeterminar responsabilidades por daños y perjuicios en caso de incumplimiento.
+LIV. Comparecer ante terceros con facultades para formular declaraciones en representación del Estado y celebrar convenios a través de los cuales el Estado pueda asumir obligaciones de hacer y no hacer en relación con operaciones de crédito, préstamo, empréstito, emisión de valores o financiamiento a cargo de fideicomisos en los que participe como fideicomitente un organismo público descentralizado, y obligarse a indemnizar del daño o perjuicio o la privación de cualquier ganancia lícita que se ocasione por el incumplimiento de dichas obligaciones de hacer y no hacer o por la inexactitud de sus declaraciones, sin que ello constituya deuda pública del Estado y siempre y cuando no se garanticen obligaciones a favor de terceros. En los convenios a que se refiere esta fracción, no se podrán pactar penas convencionales o predeterminar responsabilidades por daños y perjuicios en caso de incumplimiento.
 
 En los convenios antes mencionados que celebre el Estado se podrán estipular las cláusulas que se requieran incluyendo, entre otras, las aplicables a la jurisdicción.
 
@@ -643,7 +643,9 @@ XIII. Proponer al Gobernador del Estado las normas sanitarias a las que deberá 
 
 XIV. Coordinar la realización de campañas para prevenir y atacar las epidemias y enfermedades que por su naturaleza requieran de atención y cuidados especiales;
 
-XV. Realizar, en coordinación con otras instancias públicas, sociales y privadas, campañas de concientización, educación, capacitación sanitaria y de salud, que contribuyan a mejorar las condiciones de vida de la población del Estado;
+> <small>(REFORMADA, G.G. 12 DE MAYO DE 2010)</small>
+
+XV. Realizar, en coordinación con otras instancias públicas, sociales y privadas, campañas de concientización, educación, capacitación sanitaria y de salud, y sana alimentación que contribuyan al mejoramiento de las condiciones de vida de la población en general; y ejercer las facultades que los ordenamientos federales y locales le otorguen para prevenir la venta y consumo de alimentos de baja o nula nutrición entre la población en general, con especial cuidado en los que consumen los niños y jóvenes dentro de los planteles escolares;
 
 XVI. Desarrollar acciones encaminadas a erradicar las enfermedades transmisibles, así como los factores que afecten la salud, o propicien el alcoholismo, las toxicomanías y otros vicios sociales;
 
@@ -843,9 +845,13 @@ XXIII. Coordinar, organizar y fomentar la enseñanza y la práctica de los depor
 
 XXIV. Establecer, promover y fomentar los planes y programas educativos, material didáctico y libros de texto locales, con perspectiva de género, así como las políticas para prevenir y eliminar actos de discriminación.
 
-> <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, G.G. 12 DE MAYO DE 2010)</small>
 
-XXV. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XXV. Fomentar en su esfera de competencia la sana alimentación y activación física de la población escolar del sistema educativo del Estado de México, con especial énfasis en el cuidado de los alimentos que se expenden en las escuelas públicas y privadas de educación básica, aplicando la reglamentación conducente. La Secretaría de Educación se coordinará con la Secretaría de Salud y demás dependencias y organismos que tengan intervención en la materia, pudiendo establecer los convenios respectivos con los municipios de la Entidad.
+
+> <small>(REFORMADA, G.G. 12 DE MAYO DE 2010)</small>
+
+XXVI. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
@@ -1153,7 +1159,7 @@ XIII. Intervenir en los convenios de coordinación que celebre el Ejecutivo con 
 
 XIV. Ejercer por delegación del Ejecutivo las atribuciones y funciones que en materia agrícola, ganadera, forestal, pesquera y agroindustrial, contengan los convenios firmados entre el Poder Ejecutivo y la Administración Pública Federal;
 
-XV. Ejercer las atribuciones que en materia agraria le competan al Ejecutivo del Estado, relacionándose con las autoridades correspondientes para la atención y solución de los asuntos en esta materia.
+XV. Ejercer las atribuciones que en materia agraria le competan al Ejecutivo del Estado, relacionándose con las autoridades correspondientes para la atención y solución de los asuntos en esta materia;
 
 XVI. Nombrar a las comisiones que han de vigilar la operación de las empresas de participación municipal avocadas a las actividades agrícolas, ganaderas, forestales, pesqueras y agroindustriales;
 
@@ -1249,7 +1255,7 @@ IX. Formular y promover el establecimiento de medidas para el fomento y protecci
 
 > <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-X. Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia industrial y comercial contengan los convenios firmados entre el mismo y la administración publica federal;
+X. Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia industrial y comercial contengan los convenios firmados entre el mismo y la administración pública federal;
 
 > <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
@@ -1377,7 +1383,7 @@ XIV. Opinar sobre el nombramiento y en su caso solicitar la remoción de los tit
 
 XV. Coordinarse con la Contaduría General de Glosa del Poder Legislativo, para el establecimiento de los mecanismos necesarios, que permitan a ambas instancias, el mejor cumplimiento de sus respectivas responsabilidades.
 
-XVI. Informar anualmente al titular del Ejecutivo del Estado, respecto del resultado de la evaluación de las dependencias, organismos auxiliares y fideicomisos de la administración publica estatal, que hayan sido objeto de fiscalización. Asimismo, informar a la Secretaría de la Contraloría General de la Federación de la evaluación de los programas que manejen o involucren recursos federales, en los términos de los acuerdos o convenios respectivos.
+XVI. Informar anualmente al titular del Ejecutivo del Estado, respecto del resultado de la evaluación de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, que hayan sido objeto de fiscalización. Asimismo, informar a la Secretaría de la Contraloría General de la Federación de la evaluación de los programas que manejen o involucren recursos federales, en los términos de los acuerdos o convenios respectivos.
 
 XVII. Recibir y registrar la manifestación de bienes de los servidores públicos del Estado y municipios y verificar y practicar las investigaciones que fueren necesarias, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y demás disposiciones legales aplicables.
 
@@ -1437,9 +1443,7 @@ Para el ejercicio de sus funciones, estos Tribunales contarán con el apoyo admi
 
 La Organización, Integración y Atribuciones de los Tribunales Administrativos, se regirá por la Legislación correspondiente.
 
-### CAPITULO QUINTO. De los Organismos Auxiliares
-
-del Poder Ejecutivo
+### CAPITULO QUINTO. De los Organismos Auxiliares del Poder Ejecutivo
 
 > <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -1469,7 +1473,7 @@ En la integración del capital social de estas empresas, podrán participar los 
 
 El Gobernador, a través de sus dependencias y entidades podrá constituir fideicomisos.
 
-Asimismo el Gobernador, a través de la Secretaría de Finanzas, Planeación y Administración podrá constituir fideicomisos públicos con el propósito de auxiliarlo en las atribuciones del Ejecutivo a su cargo, que cuenten con una estructura orgánica análoga a la de otros organismos y con Comité Técnico. Unicamente los fideicomisos que reúnan estas características serán considerados organismos auxiliares del Poder Ejecutivo.
+Asimismo el Gobernador, a través de la Secretaría de Finanzas, Planeación y Administración podrá constituir fideicomisos públicos con el propósito de auxiliarlo en las atribuciones del Ejecutivo a su cargo, que cuenten con una estructura orgánica análoga a la de otros organismos y con Comité Técnico. Únicamente los fideicomisos que reúnan estas características serán considerados organismos auxiliares del Poder Ejecutivo.
 
 > <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -1491,7 +1495,7 @@ Artículo Quinto.- Cuando en esta Ley se dé denominación nueva o distinta a al
 
 Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
-Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario, Lic. Lorenzo Vera Osorno, -Diputado Secretario, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
+Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario, Lic. Lorenzo Vera Osorno, -Diputado Secretario, Profa. Mercedes González Vda. de Acosta.- Rúbricas.
 
 Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
 
@@ -1667,7 +1671,7 @@ QUINTO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de o
 
 > <small>(F. DE E., P.O. 31 DE ENERO DE 2003)</small>
 
-SEXTO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de observancia general refieran funciones y atribuciones de la Secretaría de Desarrollo Urbano y Obras Públicas en materia de obra pública, se entenderá que las mismas se encuentran reservadas a la Secretaría de Agua, Obra Publica e Infraestructura para el Desarrollo del Estado de México.
+SEXTO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de observancia general refieran funciones y atribuciones de la Secretaría de Desarrollo Urbano y Obras Públicas en materia de obra pública, se entenderá que las mismas se encuentran reservadas a la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo del Estado de México.
 
 > <small>(F. DE E., P.O. 31 DE ENERO DE 2003)</small>
 
@@ -1845,7 +1849,7 @@ TERCERO.- Para los efectos de la fracción XIII del artículo 47 del Código est
 
 Para los efectos del tercer párrafo del artículo 47 B del Código, la fecha de presentación del dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal correspondiente al ejercicio fiscal de 2007, podrá efectuarse a más tardar el último día del mes de agosto del ejercicio fiscal 2008.
 
-Para los efectos de los artículos 47 A párrafo tercero, 47 B párrafos primero y segundo, 47 C párrafo primero, 47 D fracción I, así como los párrafos segundo, tercero y cuarto, y 48 B fracción II párrafo segundo, los avisos, solicitudes, manifestaciones y aclaraciones que corresponda presentar a los contribuyentes o a los contadores públicos en relación al dictamen del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, deberán presentarse a partir del 1° de marzo del ejercicio 2008 vía Internet a través de la página del Gobierno del Estado de México que es www.edomex.gob.mx. de conformidad con las reglas de carácter general que al efecto emitan las autoridades fiscales.
+Para los efectos de los artículos 47 A párrafo tercero, 47 B párrafos primero y segundo, 47 C párrafo primero, 47 D fracción I, así como los párrafos segundo, tercero y cuarto, y 48 B fracción II párrafo segundo, los avisos, solicitudes, manifestaciones y aclaraciones que corresponda presentar a los contribuyentes o a los contadores públicos en relación al dictamen del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, deberán presentarse a partir del 1° de marzo del ejercicio 2008 vía Internet a través de la página del Gobierno del Estado de México que es www.edomex.gob.mx de conformidad con las reglas de carácter general que al efecto emitan las autoridades fiscales.
 
 CUARTO.- Los decretos números 86 y 91 de fechas 7 y 13 de noviembre de 2007, de la Legislatura Local, por los cuales se aprueban las Tablas de Valores Unitarios de Suelo y de Construcciones, forman parte del Código Financiero del Estado de México y Municipios en los términos del artículo 186 del mismo ordenamiento.
 
@@ -1855,7 +1859,7 @@ SEXTO.- En el caso de los municipios que no suscribieron convenio con el Gobiern
 
 SÉPTIMO.- Los organismos públicos descentralizados municipales que presten los servicios de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, los municipios cuando no cuenten con organismo prestador de dichos servicios y quienes presten el servicio de suministro de agua de manera autónoma, podrán trasladar en la factura correspondiente lo que deban pagar por concepto de las Aportaciones por Servicios Ambientales a que se refiere el Capitulo Tercero del Título Sexto del Código Financiero del Estado de México y Municipios.
 
-OCTAVO.- El Órgano Superior de Fiscalización, de conformidad con lo dispuesto en los artículos 2 fracción V y 8 fracciones II, V, VIII y XIX de la Ley de Fiscalización Superior del Estado de México, deberá revisar la información correspondiente a los cobros y facturaciones a que se refiere el articulo 216-J del Código Financiero del Estado de México y Municipios, así como los depósitos del fideicomiso previsto en el artículo 216-K de dicho ordenamiento, debiendo informar lo conducente a la Legislatura por conducto de la Comisión de Vigilancia del Órgano Superior de Fiscalización.
+OCTAVO.- El Órgano Superior de Fiscalización, de conformidad con lo dispuesto en los artículos 2 fracción V y 8 fracciones II, V, VIII y XIX de la Ley de Fiscalización Superior del Estado de México, deberá revisar la información correspondiente a los cobros y facturaciones a que se refiere el artículo 216-J del Código Financiero del Estado de México y Municipios, así como los depósitos del fideicomiso previsto en el artículo 216-K de dicho ordenamiento, debiendo informar lo conducente a la Legislatura por conducto de la Comisión de Vigilancia del Órgano Superior de Fiscalización.
 
 NOVENO.- Las Secretarías de la Contraloría, de Finanzas y de Transporte, proveerán lo necesario para el cumplimiento de los artículos Segundo y Cuarto del presente Decreto.
 
@@ -1928,3 +1932,11 @@ El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotep
 QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 12 DE MAYO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de que inicie su vigencia la adición de un último párrafo al artículo 5 de la Constitución Política del Estado Libre y Soberano de México.
+
+TERCERO.- El Poder Ejecutivo del Estado de México adoptará en la esfera de su competencia las disposiciones pertinentes para la ejecución de las reformas objeto de este Decreto.
