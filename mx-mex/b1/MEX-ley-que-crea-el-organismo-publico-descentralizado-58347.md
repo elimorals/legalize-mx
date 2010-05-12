@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-58347"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-03"
-last_updated: "2007-12-03"
+last_updated: "2010-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCION REGISTRAL DEL ESTADO DE MEXICO
 
-LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCION REGISTRAL DEL ESTADO DE MEXICO
+LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MAYO DE 2010.
 
 Ley publicada en la Sección Tercera a la Gaceta del Gobierno del Estado de México, el lunes 3 de diciembre de 2007.
 
@@ -125,6 +125,10 @@ XXX. Celebrar los convenios para la consecución de sus fines y la prestación d
 
 XXXI. Contratar, gestionar, obtener y canalizar apoyos económicos, créditos, préstamos, empréstitos y financiamientos de cualquier naturaleza, incluyendo la emisión de valores, para el cumplimiento de sus fines y el ejercicio de sus atribuciones, y disponer por cualquier medio de los activos, bienes, derechos e ingresos que integran su patrimonio o que derivan de la prestación de sus servicios, conforme a lo previsto en las disposiciones legales aplicables, incluyendo a través del otorgamiento de cualquier tipo de garantías y de la cesión, afectación o enajenación de dichos activos, bienes, derechos e ingresos en favor de terceros, incluyendo fideicomisos revocables o irrevocables;
 
+> <small>(ADICIONADA, G.G. 12 DE MAYO DE 2010)</small>
+
+XXXI Bis. Otorgar, previa autorización de la Legislatura, toda clase de garantías y avales de obligaciones, títulos de crédito o instrumentos de deuda a cargo de cualesquiera terceros, constituyéndose en garante, obligado solidario, fiador o avalista de tales personas;
+
 XXXII. Participar en la creación de fideicomisos, de conformidad con lo dispuesto por el segundo párrafo del artículo 7 de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, incluyendo aquellos a que se refiere el Título Octavo del Código Financiero del Estado de México y Municipios, ya sea como fideicomitente y/o fideicomisario;
 
 XXXIII. Llevar a cabo la enajenación, afectación, cesión o disposición de los activos, bienes, derechos e ingresos que integran su patrimonio o que derivan de la prestación de sus servicios, sin necesidad de subasta pública, conforme a los lineamientos previstos en la presente Ley y en las demás disposiciones legales aplicables;
@@ -213,9 +217,13 @@ X. Aprobar la administración y distribución de los recursos que se obtengan de
 
 XI. Establecer las políticas y bases generales que regulen los convenios, acuerdos o contratos que celebre el Instituto de la Función Registral del Estado de México con terceros, conforme a lo previsto en la normatividad aplicable;
 
-XII. Aprobar la celebración de los convenios necesarios para la consecución de los fines del Instituto de la Función Registral del Estado de México y la prestación de sus servicios, con facultades para asumir obligaciones de hacer y no hacer, incluyendo obligaciones de indemnización, conforme y sujeto a lo previsto en la fracción XXX del articulo 3 de la presente Ley, de conformidad con lo revisto (sic) en esta Ley, el reglamento interior y las demás disposiciones legales y administrativas aplicables;
+XII. Aprobar la celebración de los convenios necesarios para la consecución de los fines del Instituto de la Función Registral del Estado de México y la prestación de sus servicios, con facultades para asumir obligaciones de hacer y no hacer, incluyendo obligaciones de indemnización, conforme y sujeto a lo previsto en la fracción XXX del artículo 3 de la presente Ley, de conformidad con lo revisto (sic) en esta Ley, el reglamento interior y las demás disposiciones legales y administrativas aplicables;
 
 XIII. Aprobar la contratación, gestión, obtención y canalización de apoyos económicos, créditos, préstamos, empréstitos y financiamientos de cualquier naturaleza, incluyendo la emisión de valores y la participación en !a creación de fideicomisos conforme y sujeto a lo previsto en las fracciones XXXI y XXXII del artículo 3 de la presente Ley, así como autorizar al Director General para realizar todos los actos necesarios con este propósito, para el cumplimiento de sus fines y el ejercicio de sus atribuciones, y la disposición por cualquier medio de los activos, bienes, derechos e ingresos que integran el patrimonio del Instituto o que derivan de la prestación de sus servicios, incluyendo a través del otorgamiento de cualquier tipo de garantía, contrato, mandato e instrucción y de la cesión, afectación o enajenación de dichos activos, bienes, derechos e ingresos en favor de terceros, incluyendo fideicomisos revocables o irrevocables;
+
+> <small>(ADICIONADA, G.G. 12 DE MAYO DE 2010)</small>
+
+XIII Bis. Aprobar que el Instituto otorgue toda clase de garantías y avales de obligaciones, títulos de crédito o instrumentos de deuda a cargo de cualesquiera terceros, constituyéndose en garante, obligado solidario, fiador o avalista de tales personas sujeto a lo previsto en la fracción XXXI Bis del artículo 3 de la presente Ley;
 
 XIV. Aprobar y, en su caso, autorizar al Director General a realizar actos de enajenación, cesión, afectación o disposición de los activos, bienes, derechos e ingresos que integran el patrimonio del Instituto o que derivan de la prestación de sus servicios, sin necesidad de subasta pública, en condiciones favorables para el Estado y conforme a los lineamientos previstos en la presente Ley;
 
@@ -319,7 +327,9 @@ XXIV. Ejercer la función directiva del Instituto de la Función Registral del E
 
 XXV. Dirigir y coordinar las actividades vinculadas con el Registro Público de Comercio y el Registro de Crédito Agrícola, en términos de las disposiciones legales aplicables;
 
-XXVI. Suscribir, celebrar u otorgar convenios, acuerdos, contratos, instrumentos, declaraciones, certificaciones y demás instrumentos y documentos jurídicos, con los sectores público, social y privado, en representación y en las materias competencia del Instituto de la Función Registral del Estado de México; previa autorización del Consejo Directivo cuando: (i) así lo disponga el reglamento interior y las disposiciones legales y administrativas aplicables, (ii) se trate de contratos, convenios, acuerdos, instrumentos, declaraciones, certificaciones y demás instrumentos o documentos jurídicos fuera del curso ordinario de operaciones del Instituto de la Función Registral del Estado de México, (iii) se trate de la enajenación o adquisición de inmuebles, o (iv) se trate de los asuntos a que se refieren las fracciones XXXI a XXXIII del artículo 3 de esta Ley;
+> <small>(REFORMADA, G.G. 12 DE MAYO DE 2010)</small>
+
+XXVI. Suscribir, celebrar u otorgar garantías, convenios, acuerdos, contratos, instrumentos, declaraciones, certificaciones y demás instrumentos y documentos jurídicos, con los sectores público, social y privado, en representación y en las materias competencia del Instituto de la Función Registral del Estado de México, previa autorización del Consejo Directivo cuando: (i) así lo disponga el reglamento interior y las disposiciones legales y administrativas aplicables, (ii) se trate de contratos, convenios, acuerdos, instrumentos, declaraciones, certificaciones y demás instrumentos o documentos jurídicos fuera del curso ordinario de operaciones del Instituto de la Función Registral del Estado de México, (iii) se trate de la enajenación o adquisición de inmuebles, o (iv) se trate de los asuntos a que se refieren las fracciones XXXI a XXXIII del artículo 3 de esta Ley;
 
 XXVII. Promover, coordinar y vigilar la ejecución de los programas y acciones orientadas a modernizar la función registral, hacer más eficiente la prestación de los servicios y fomentar la cultura registral;
 
@@ -484,3 +494,23 @@ EL SECRETARIO GENERAL DE GOBIERNO
 DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 12 DE MAYO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día hábil inmediato siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se revoca la autorización otorgada al Instituto de la Función Registral del Estado de México mediante los Artículos Octavo y Noveno del Decreto número 90 de la H. "LVI" Legislatura del Estado de México y publicado en la Gaceta del Gobierno el día 3 de diciembre de 2007 y se derogan los Artículos Transitorios Décimo Primero, Décimo Quinto, Décimo Sexto y Décimo Séptimo del Decreto antes mencionado.
+
+CUARTO.- El fideicomiso a que se refiere el Artículo Sexto del presente Decreto deberá inscribirse en el registro que al efecto lleve la Secretaría de Finanzas en los términos del Artículo 7 de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+QUINTO.- En caso de que se modifique posteriormente el Código Financiero del Estado de México y Municipios con respecto al régimen aplicable al fideicomiso a ser constituido de conformidad con el presente Decreto, se deberán respetar los derechos de fideicomisarios, acreedores y terceros que hayan contratado con el fiduciario de dicho fideicomiso, o bien con el Instituto de la Función Registral del Estado de México o con el Estado, respectivamente, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+SEXTO.- En caso de que se modifique posteriormente la Ley que Crea el Organismo Público Descentralizado Denominado Instituto de la Función Registral del Estado de México, se deberán respetar los derechos de los fideicomisarios, acreedores y terceros que hayan contratado con el fiduciario del fideicomiso que se constituya de conformidad con el presente Decreto o con el Instituto de la Función Registral del Estado de México, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+SÉPTIMO.- En caso de que el patrimonio que sea afectado por el Instituto de la Función Registral del Estado de México al fideicomiso que se constituya de conformidad con el presente Decreto se revierta por cualquier motivo al patrimonio del Estado o sea asignado o reincorporado a otra entidad de la administración pública centralizada o de la administración pública paraestatal que sustituya al Instituto de la Función Registral del Estado de México, los derechos y las obligaciones que se deriven de los convenios, contratos, afectaciones, transmisiones y financiamientos celebrados por el Instituto de la Función Registral del Estado de México o bien, por el fiduciario del fideicomiso a que se refiere el presente Decreto, con respecto a dicho patrimonio y el fideicomiso, subsistirán en sus términos hasta en tanto se liquiden o sean cumplidas las obligaciones adquiridas con ese respecto. En este sentido, los acreedores del fideicomiso al cual se hubiere afectado una parte o la totalidad de los ingresos del Instituto de la Función Registral del Estado de México, seguirán teniendo el derecho a recibir el pago de las obligaciones que corresponda, de conformidad con los contratos que al efecto se hubieren celebrado, como si dicha reversión, asignación o reincorporación no hubiere tenido lugar.
+
+OCTAVO.- El Instituto de la Función Registral del Estado de México, deberá presentar a la Legislatura, por conducto de las Comisiones Legislativas de Planeación y Gasto Público, y de Finanzas Públicas, en un plazo que no excederá de treinta días hábiles, contados a partir de la entrada en vigor del presente decreto, un informe de las metas e indicadores de desempeño del programa de modernización del Instituto de la Función Registral del Estado de México, para los próximos tres años.
