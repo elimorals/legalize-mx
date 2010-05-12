@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-sobre-la-regulacion-del-graffiti-del-municipio-62257
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-09"
-last_updated: "2008-07-09"
+last_updated: "2010-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 REGLAMENTO SOBRE LA REGULACION DEL GRAFFITI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 9 de julio de 2008.
 
@@ -299,9 +299,11 @@ El Juez Calificador que conozca del asunto, procurará conciliar a las partes in
 
 ### Capítulo III. De los Recursos
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2010)</small>
+
 ###### Artículo 28.
 
-Las resoluciones, acuerdos y actos de las autoridades municipales competentes, en la aplicación del presente Reglamento podrán ser impugnadas por parte interesada, mediante la interposición de los recursos en los términos que establece la Ley Orgánica Municipal, o en su caso por la Ley de Justicia Administrativa del Estado.
+Las resoluciones, acuerdos y actos de las autoridades municipales competentes, en la aplicación del presente reglamento podrán ser impugnadas por parte interesada, mediante la interposición de los recursos en los términos que establece la Ley Orgánica Municipal, o en su caso por la Ley de Procedimientos Administrativos del Estado de Chiapas.
 
 T r a n s i t o r i o s
 
@@ -316,3 +318,13 @@ El Presidente Municipal dispondrá se publique, circule y se le dé debido cumpl
 Dado en el Palacio Municipal, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los catorce días del mes de abril del año dos mil ocho.
 
 Lic. Jaime Valls Esponda, Presidente Municipal Constitucional de Tuxtla Gutiérrez, Chiapas.- Lic. Jesús Alfredo Galindo Albores, Secretario General del Ayuntamiento.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE MAYO DE 2010.
+
+Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Para su debido conocimiento publíquese la presente reforma en la Gaceta Municipal, y remítase al Director del Periódico Oficial del. Estado para su publicación.
