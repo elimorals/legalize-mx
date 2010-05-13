@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-patronato-de-la-feria-nacional-de-durango-61366"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-10"
-last_updated: "2008-04-10"
+last_updated: "2010-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DEL PATRONATO DE LA FERIA NACIONAL DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DE LA LEY QUE CREA LA DIRECCION ESTATAL DE FERIAS, ESPECTACULOS Y, EXPOSICIONES DE DURANGO, PUBLICADO EN EL P.O. DE 13 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 10 de abril de 2008.
 
@@ -412,3 +414,35 @@ C.P. ISMAEL ALFREDO HERNÁNDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE MAYO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales que se opongan al presente.
+
+###### ARTÍCULO TERCERO.
+
+Cuando las disposiciones jurídicas contenidas en cualquier ley, reglamento, decreto o convenio, se refieran al Patronato de la Feria Nacional de Durango, se entenderá que se refiere a la Dirección Estatal de Ferias, Espectáculos y Exposiciones de Durango.
+
+###### ARTÍCULO CUARTO.
+
+La Dirección Estatal de Ferias, Espectáculos y Exposiciones de Durango, se subroga en todos los derechos y obligaciones asumidos por el Patronato de la Feria Nacional de Durango.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos humanos, materiales y financieros asignados al Patronato de la Feria Nacional de Durango, se transferirán a la Dirección Estatal de Ferias, Espectáculos y. Exposiciones de Durango, en los términos que especifique el Decreto de transferencia que al efecto emita el titular del Ejecutivo Estatal y con la intervención que las leyes otorgan en ese proceso a las distintas dependencias de la administración pública estatal.
+
+###### ARTÍCULO SEXTO.
+
+Se abroga la Ley del Patronato de la Feria Nacional de Durango publicada en el Periódico Oficial No. 29, de fecha diez de abril de 2008.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro de los treinta días naturales siguientes a la publicación del presente decreto, la Junta Directiva emitirá Reglamento Interior de la Dirección.
