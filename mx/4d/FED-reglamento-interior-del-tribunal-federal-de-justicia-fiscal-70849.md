@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2009-11-13"
+last_updated: "2010-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MAYO DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -2033,7 +2033,9 @@ SEXTO.- Los asuntos pendientes al entrar en vigor este Reglamento que conforme a
 
 SEPTIMO.- Cuando la competencia de alguna de las áreas o unidades administrativas establecidas con anterioridad a la vigencia del presente Reglamento deba ser ejercida por otra u otras unidades que el mismo establece, los recursos humanos, materiales, y financieros con que aquélla contaba, pasarán a la unidad o unidades administrativas competentes, distribuyéndose, en su caso, de conformidad con el ámbito de atribuciones que a cada una corresponda.
 
-OCTAVO.- El Sistema Automático de Recepción de Oficialía de Partes a que se refiere el presente Reglamento, iniciará su operación dentro de los seis meses siguientes a la entrada en vigor de este Ordenamiento, en términos del acuerdo que para tal efecto emita la Junta de Gobierno y Administración.
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2010)</small>
+
+OCTAVO.- El Sistema Automático de Recepción de Oficialía de Partes a que se refiere el presente Reglamento, iniciará su operación con la implantación del Sistema de Justicia en Línea conforme al plazo establecido en el Artículo Tercero Transitorio del Decreto de reformas a la Ley Federal del Procedimiento Contencioso Administrativo y a la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa publicado, en el Diario Oficial de la Federación el 12 de junio de 2009, y en términos del acuerdo que para tal efecto emita la Junta de Gobierno y Administración.
 
 NOVENO.- Las visitas a las Salas regionales durante el año 2009, se realizarán en términos de lo establecido por el Acuerdo E/JGA/24/2009, emitido por la Junta de Gobierno y Administración, el día 23 de junio de 2009.
 
@@ -2042,3 +2044,11 @@ DECIMO.- El Tribunal llevará a cabo las acciones necesarias para integrar el Si
 DECIMO PRIMERO.- Los servidores públicos obligados a presentar su declaración patrimonial presentarán su declaración ante la Secretaría de la Función Pública, debiendo entregar la constancia de cumplimiento respectiva a la Dirección de Registro Patrimonial de la Contraloría Interna, hasta en tanto se diseñen, desarrollen e implementen los sistemas necesarios para capturar las declaraciones de situación patrimonial de los servidores públicos.
 
 Así lo acordó la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa, en sesión de once de noviembre de dos mil nueve.- Firman, el Magistrado Francisco Cuevas Godínez, Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, y la licenciada Rosana Edith de la Peña Adame, Secretaria General de Acuerdos, quien da fe.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 13 DE MAYO DE 2010.
+
+SE TRANSCRIBE UNICAMENTE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE REGLAMENTO.
+
+SEGUNDO.- Dicha reforma entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
