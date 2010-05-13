@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2009-04-06"
+last_updated: "2010-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 13 DE MAYO DE 2010.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -991,7 +991,7 @@ XI. Las demás que expresamente le confiere esta Constitución.
 
 Del Instituto Superior de Auditoría y Fiscalización.
 
-> <small>(REFORMADO, B.O. 11 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 13 DE MAYO DE 2010)</small>
 
 ### CAPITULO III.
 
@@ -1003,7 +1003,9 @@ Elección y Funcionamiento.
 
 ###### Artículo 67.
 
-El Instituto Superior de Auditoria y Fiscalización se constituye como un órgano con autonomía técnica y de gestión encargado de la revisión y fiscalización de los estados financieros y cuentas públicas estatal y municipales, con atribuciones para decidir sobre su organización interna y funcionamiento según lo disponga la ley.
+El Instituto Superior de Auditoría y Fiscalización se constituye como un órgano del Congreso del Estado dotado de autonomía presupuestaria, técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley. Estará encargado de la revisión y fiscalización de los estados financieros y cuentas públicas estatal y municipales. La función de fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2005)</small>
 
 Para el señalado efecto, serán atribuciones específicas del Instituto Superior de Auditoria y Fiscalización:
 
@@ -1023,15 +1025,27 @@ G) Determinar y ejecutar las medidas conducentes a la recuperación de los daño
 
 H) Ejercer las atribuciones referidas en los apartados D, F y G con respecto a los ejercicios presupuestales de los organismos constitucionalmente autónomos solamente en los casos en que, a propuesta de la Comisión referida en la fracción XXXII Bis del artículo 64 de esta Constitución, lo determine el pleno del Congreso por votación calificada de dos tercios de los diputados presentes en la sesión.
 
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2005)</small>
+
 El Instituto Superior de Auditoria y Fiscalización estará dirigido por un Auditor Mayor y dos auditores adjuntos que serán designados, según el procedimiento que se establezca en la ley secundaria, el primero por votación de dos tercios de los diputados del Congreso presentes en la sesión y los otros dos, a propuesta del Auditor Mayor, por mayoría simple del propio Congreso.
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2005)</small>
 
 La ley definirá formas alternativas de designación del Auditor Mayor del Instituto Superior de Auditoría y Fiscalización para la hipótesis de que, en un plazo breve, no se reúna la votación cameral requerida para dicho nombramiento. La falta de votos para el nombramiento referido nunca podrá ocasionar la permanencia en el cargo de quien haya ejercido la función en el período que concluye.
 
-El Auditor Mayor y los auditores adjuntos del Instituto Superior de Auditoría y Fiscalización durarán en su encargo un periodo de cuatro años y podrán ser designados para dos períodos adicionales de igual duración. Dichos funcionarios sólo podrán ser removidos por el Congreso por las causas graves que al efecto se determinen en la ley y por la misma mayoría que cada uno requiere para su nombramiento.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2010)</small>
+
+El Auditor Mayor y los auditores adjuntos del Instituto Superior de Auditoría y Fiscalización durarán en su encargo un periodo de siete años. Dichos funcionarios solo podrán ser removidos por el Congreso por las causas graves que al efecto se determinen en la ley y por la misma mayoría que cada uno requiere para su nombramiento.
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2005)</small>
 
 La ley especificará los requisitos que deberán reunir para su nombramiento el Auditor Mayor y los auditores adjuntos del Instituto Superior de Auditoria y Fiscalización, así como las atribuciones que les correspondan.
 
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2005)</small>
+
 Ni el Auditor Mayor ni los auditores adjuntos del Instituto Superior de Auditoria y Fiscalización podrán formar parte, durante el ejercicio de sus encargos, de partido o asociación política algunos, ni desempeñar empleo, cargo o comisión distintos, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2005)</small>
 
 Tanto las oficinas públicas estatales y municipales como los particulares que ejerzan o hayan ejercido recursos públicos, deberán coadyuvar en lo que resulte legalmente necesario para el buen ejercicio de las funciones del Instituto Superior de Auditoria y Fiscalización.
 
@@ -2203,15 +2217,21 @@ Prevenciones Generales.
 
 Por ningún motivo podrán embargarse o subastarse las contribuciones del Estado o del Municipio.
 
-> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 13 DE MAYO DE 2010)</small>
 
 ###### Artículo 150.
 
-Los recursos económicos de que disponga el Gobierno del Estado, así como sus respectivas administraciones públicas paraestatales, se administrarán con eficiencia y honradez para cumplir los objetivos y programas a los que estén destinados.
+Los recursos económicos de que disponga el Gobierno del Estado, los municipios, así como sus respectivas administraciones públicas descentralizadas, y los organismos autónomos, se administrarán con eficiencia, eficacia, economía, transparencia y honradez para cumplir los objetivos y programas a los que estén destinados.
 
-Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevará a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2010)</small>
+
+Los resultados del ejercicio de dichos recursos serán evaluados por el Instituto Superior de Auditoría y Fiscalización, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior. Lo anterior, sin menoscabo de lo dispuesto en el artículo 67 de esta Constitución.
+
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
 Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimiento, reglas, requisitos y demás elementos para acreditar la economía, eficacia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
+
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
 El manejo de recursos económicos estatales se sujetará a las bases de esta Constitución.
 
@@ -3120,6 +3140,12 @@ Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del E
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de un plazo de 90 días, contado a partir de la entrada en vigor de esta Ley, el Congreso del Estado deberá realizar las adecuaciones que resulten pertinentes, entre otras, a las leyes en materia de salud, educación y a la legislación civil, de tal manera que dichos ordenamientos sean congruentes con las disposiciones de esta reforma constitucional.
+
+B.O. 13 DE MAYO DE 2010.
+
+###### ARTÍCULO UNICO.
+
+La presente ley entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente ley para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
