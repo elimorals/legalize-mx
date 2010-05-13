@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2010-02-02"
+last_updated: "2010-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MAYO DE 2010.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -727,9 +727,7 @@ X.- Conocer y resolver sobre las responsabilidades administrativas en que incurr
 
 XI.- Presentar a la Directiva y al Pleno puntos de acuerdo, pronunciamientos y declaraciones de la Legislatura;
 
-> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
-
-XII.- Recibir la solicitud y en su caso autorizar al Ejecutivo del Estado, a salir del territorio nacional en misión oficial en aquellos casos de urgencia, previa justificación;
+XII.- (DEROGADA, G.G. 13 DE MAYO DE 2010)
 
 > <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
 
@@ -777,7 +775,7 @@ La Conferencia para la Dirección y Programación de los Trabajos Legislativos t
 
 ###### Artículo 63.
 
-La Junta de Coordinación Política se reunirá por lo menos una vez al mes para tratar los asuntos de su competencia. Para que sus resoluciones sean válidas, deberán estar por lo menos la mitad mas uno de los coordinadores de los grupos parlamentarios, entre quienes deberá estar el Presidente en turno. Sus acuerdos se tomarán por mayoría de votos, en función de la proporcionalidad representativa de los coordinadores de los grupos parlamentarios presentes.
+La Junta de Coordinación Política se reunirá por lo menos una vez al mes para tratar los asuntos de su competencia. Para que sus resoluciones sean válidas, deberán estar por lo menos la mitad más uno de los coordinadores de los grupos parlamentarios, entre quienes deberá estar el Presidente en turno. Sus acuerdos se tomarán por mayoría de votos, en función de la proporcionalidad representativa de los coordinadores de los grupos parlamentarios presentes.
 
 > <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -864,16 +862,6 @@ XV. (DEROGADA, G.G. 21 DE JULIO DE 2006)
 XVI. Las demás que le confieran la ley, otras disposiciones legales, la Asamblea o la Junta de Coordinación Política.
 
 > <small>(ADICIONADO, G.G. 26 DE SEPTIEMBRE DE 2008)</small>
-
-Artículo 65 BIS.- Son atribuciones de los Vicepresidentes de la Junta de Coordinación Política:
-
-I. Sustituir al Presidente en sus faltas temporales;
-
-II. Auxiliar en el desempeño de sus funciones; y
-
-III. Las demás que le encomiende el Presidente o la Junta de Coordinación Política.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 65 Bis.
 
@@ -1750,3 +1738,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- La Unidad de Información a que se refiere el artículo 94 fracción VII, de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México, deberá hacerse con los recursos humanos, materiales y financieros asignados por lo que no deberá implicar erogaciones adicionales.
 
 CUARTO.- La Legislatura deberá realizar las adecuaciones que correspondan al Reglamento de Transparencia y Acceso a la Información Pública del Poder Legislativo del Estado de México, en un plazo no mayor a noventa días hábiles, contados a partir de que entre en vigor el presente Decreto.
+
+G.G. 13 DE MAYO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
