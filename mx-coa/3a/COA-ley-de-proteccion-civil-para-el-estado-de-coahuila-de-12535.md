@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-12535"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-11"
-last_updated: "2009-03-27"
+last_updated: "2010-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCION CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 14 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de junio de 1996.
 
@@ -1160,3 +1162,23 @@ P.O. 27 DE MARZO DE 2009.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 14 DE MAYO 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Protección Civil para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado, el 11 de junio de 1996 y quedan sin efecto las disposiciones que se opongan a la presente.
+
+###### ARTÍCULO TERCERO.
+
+El reglamento a que se refiere esta ley se expedirá en un período que no excederá de 180 días naturales, contado a partir de que entre en vigor la presente ley.
+
+El reglamento, deberá contener los procedimientos por los cuales se hagan uso de las situaciones de excepción en caso de emergencia o desastre que contiene el artículo 18 de la ley, asimismo la forma y términos para acceder a las indemnizaciones que correspondan.
+
+###### ARTÍCULO CUARTO.
+
+Para la creación de los fondos de prevención y atención de emergencias o desastres a que hace referencia la presente ley, deberán de hacerse las previsiones necesarias en el Presupuesto de Egresos del Estado y los correspondientes de los Municipios.
