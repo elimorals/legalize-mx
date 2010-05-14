@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-2-222-28-08-2008-de-la-comision-nacional-de-64748"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-12-16"
-last_updated: "2008-12-16"
+last_updated: "2010-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64748&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-08-28"
 
 ACUERDO DE LA COMISION NACIONAL DE VIGILANCIA POR EL QUE SE APRUEBAN LOS MEDIOS Y PROCEDIMIENTOS DE IDENTIFICACION PARA OBTENER LA CREDENCIAL PARA VOTAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE DICIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DE LA COMISION NACIONAL DE VIGILANCIA DEL REGISTRO FEDERAL DE ELECTORES, POR EL QUE APRUEBAN LOS MEDIOS Y PROCEDIMIENTOS DE IDENTIFICACION PARA OBTENER LA CREDENCIAL PARA VOTAR, PUBLICADO EN EL D.O.F. DE 14 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 16 de diciembre de 2008.
 
@@ -148,3 +150,11 @@ El Presidente, Alberto Alonso y Coria.- Rúbrica.- El Secretario, Jaime Quintero
 D.O.F. 16 DE DICIEMBRE DE 2008.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 14 DE MAYO DE 2010.
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los procedimientos a que se refieren los puntos Tercero y Noveno del Acuerdo, que requieran determinadas condiciones técnico-operativas, entrarán en vigor a más tardar al inicio de la próxima Campaña de Actualización Intensa del Padrón Electoral, el 1º de octubre de 2010.
+
+Tercero. Los documentos a que se hace referencia en el párrafo segundo del punto Tercero del presente Acuerdo, serán obligatorios para cualquier trámite que realicen los ciudadanos para obtener su Credencial para Votar con Fotografía, a partir del día siguiente de su publicación en el Diario Oficial de la Federación y hasta el treinta de septiembre de 2010.
