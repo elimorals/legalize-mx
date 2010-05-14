@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-procuraduria-de-defensa-del-ciudadano-del-7125
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-23"
-last_updated: "2009-11-23"
+last_updated: "2010-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE LA PROCURADURIA DE DEFENSA DEL CIUDADANO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2010.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de noviembre de 2009.
 
@@ -97,7 +97,15 @@ VIII).- SERVIDOR PUBLICO: Todo empleado o trabajador que desempeñe función, ca
 
 La Procuraduría, es un órgano municipal vigilante del respeto íntegro y justo de los individuos; y como institución estará encargada de determinar en su caso, las sanciones que correspondan, cuando cualquier ciudadano o persona agraviada, demuestre que hubo violación a la esfera de sus derechos y garantías, por parte de algún servidor público municipal en servicio; por lo que verificara la expedita y pronta aplicación de la justicia municipal, sobre todo vigilando que a las personas se les respeten sus derechos.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+La Procuraduría esta facultada para iniciar de oficio la investigación de todo hecho que tenga relación con cualesquier conducta que incurra en responsabilidad según lo establece el artículo 50 de la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios de Nuevo León.
+
 Por lo que además su labor consistirá en vigilar, proteger, y fomentar entre la Ciudadanía, el respeto irrestricto que todo Servidor Público municipal debe guardar con relación a los derechos consagrados en legislación vigente en el territorio que comprende éste municipio. Debiendo para tal efecto, verificar que los servidores públicos municipales, se guíen por el buen desempeño del cargo para el que fueron designados o comisionados; fungiendo en consecuencia como el órgano ciudadano-gubernativo que impulse a través del desarrollo de diversas actividades educativas y culturales la correcta aplicación y observancia de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+Para los fines anteriormente descritos, las dependencias del municipio están obligadas a proporcionar los informes relativos a la tramitación de los expedientes que se sigan en contra de servidores públicos municipales que les solicite la Procuraduría.
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN Y FACULTADES DE LA PROCURADURÍA
 
@@ -134,6 +142,10 @@ IV).- Deberá verificar, que previamente al pronunciamiento de cualquier sanció
 V).- Asesorar a toda persona que se lo solicite, en el seguimiento, tramitación o clarificación de sus obligaciones municipales, de manera gratuita y expedita.
 
 VI).- Investigar a petición de parte o de oficio, los casos en que los servidores públicos en servicio, ya sea por acción u omisión violen los derechos de las personas.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+Ordenar de oficio actuaciones y compilación de pruebas tendientes al reconocimiento de Servidores Públicos involucrados en los hechos que se investigan o de identidad de documentos o testigos que permitan su comprobación.
 
 VII).- Conocer y decidir sobre las inconformidades de los servidores públicos municipales, suscitadas con motivo de las recomendaciones o resoluciones emitidas en su contra.
 
@@ -213,6 +225,10 @@ VIII).- Emitir las resoluciones de su competencia y en su caso remitirlas a la S
 
 IX).- Aprobar y emitir los acuerdos y resoluciones que resulten de las investigaciones que hayan sido practicadas por los servidores públicos adscritos a la Procuraduría.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+La Procuraduría podrá inhibirse de conocer aquellos asuntos que no son de su competencia, enviando lo actuado a la Dependencia respectiva.
+
 X).- Coordinarse con la Dirección Jurídica Municipal en la rendición de informes previos y justificados que hubieren sido solicitados por las Autoridades Federales en los juicios de amparo, así como en la contestación de demandas, presentación de promociones, interposición de los recursos correspondientes y todo tipo de tramite judicial que resulte necesario, siempre y cuando estos deriven de los procedimientos establecidos, en contra de los servidores públicos al servicio del municipio, relacionados con el cumplimiento de las disposiciones que prevé la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
 XI).- Dar cumplimiento en materia de información Pública de acuerdo a lo establecido en la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
@@ -239,9 +255,11 @@ III).- Gozar de buena reputación y tener un modo honesto de vivir.
 
 Las labores de los vocales en el Consejo a que se refiere el artículo anterior no serán remuneradas, ya que serán consideradas como de carácter honorífico.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 15.
 
-Tratándose de las cuestiones de responsabilidad administrativa, ejercitadas en contra de elementos de policía y transito adscritos a la Secretaría de Seguridad Pública del Municipio de Guadalupe, N.L., las funciones del Consejo Ciudadano del municipio, además de las que marca el presente Reglamento, serán las establecidas en el artículo 107 de la Ley de Seguridad Pública para el Estado de N.L.
+Tratándose de las cuestiones de responsabilidad administrativa, ejercitadas en contra de elementos de policía y transito adscritos a la Secretaría de Seguridad Pública del Municipio de Guadalupe, N.L., las funciones del Consejo Ciudadano del municipio, además de las que marca el presente Reglamento, serán las establecidas para el Consejo Ciudadano de Seguridad Pública del Estado en el artículo 107 de la Ley de Seguridad Pública para el Estado de N.L.
 
 ###### ARTÍCULO 16.
 
@@ -273,7 +291,13 @@ X. Informar a la Procuraduría sobre el sentir de la comunidad, respecto del tra
 
 XI. Opinar acerca de proyectos educativos, que impulsen y divulguen el respeto a los derechos de las personas.
 
-XII. Todas aquellas que el procurador les asigne.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2010)</small>
+
+XII. Corresponde al Consejo Ciudadano resolver los procedimientos que se instruyan contra elementos de la Secretaría de Seguridad Pública del Municipio.
+
+(ADICIONADA, P.O. 14 DE MAYO DE 2010)}
+
+XIII. Todas aquellas que el Procurador le asigne.
 
 ### CAPÍTULO V. DEL NOMBRAMIENTO Y FACULTADES DEL DIRECTOR DE PROCEDIMIENTOS DE INVESTIGACIÓN
 
@@ -315,11 +339,17 @@ VII.- Iniciar discrecionalmente de oficio y previo acuerdo del Procurador, la in
 
 VIII.- Someter a consideración del Procurador el proyecto de programa anual de visitas ordinarias a las dependencias municipales.
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2010)</small>
+
+IX.- Cubrir las ausencias temporales del Procurador, hasta por 30 días hábiles.
+
 ### CAPÍTULO VI. DEL NOMBRAMIENTO Y FACULTADES DEL AUXILIAR
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 21.
 
-El Auxiliar, será nombrado por el Procurador en funciones.
+El Auxiliar, será nombrado por el Procurador en funciones, quien además podrá cubrir las ausencias temporales del Director de Procedimientos de Investigación, hasta por 30 días hábiles.
 
 ###### ARTÍCULO 22.
 
@@ -503,13 +533,49 @@ En toda denuncia el quejoso, deberá señalar como elementos mínimos, los sigui
 
 De igual forma deberá de proporcionarse el nombre del servidor público municipal que se señala o acusa y en el supuesto de que se carezca de estos últimos datos, la instancia será admitida, con la única condición de que se logre dicha identificación, en las investigaciones que posteriormente se practiquen, ya que en caso de no arrojarse los mismos, inmediatamente se ordenará el desechamiento de plano y en consecuencia el sobreseimiento, y archivo de la queja o denuncia.
 
-Debiendo además el quejoso acompañar a su escrito de queja, las pruebas de su intención.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+
+Debiendo además el quejoso acompañar a su escrito de queja, las pruebas de su intención, la Procuraduría instruirá al quejoso que, en el caso de no ser posible ello, tendrá una ampliación de 5 cinco días para presentarlas para que formen parte de su denuncia.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+La Procuraduría admitirá pruebas supervenientes cuando se desconozca su existencia o aparezcan después de la presentación de la queja o denuncia, o del informe del Servidor Público, y hasta antes de resolver la instancia.
 
 ###### ARTÍCULO 42.
 
 En todos los casos de presuntas violaciones a los derechos de las personas, y que por incapacidad física, cultural o por haber sido privadas de su libertad, no puedan interponer personalmente su queja o denuncia, lo podrán hacer por medio de persona digna de su confianza. Tratándose de personas que no hablen, o entiendan correctamente el idioma español, se les proporcionara gratuitamente un intérprete, el cual deberá ser elegido de la lista de peritos traductores autorizada por los Jueces de Primera Instancia adscritos al Tribunal Superior de Justicia en el Estado.
 
 Una vez iniciada la investigación cesara toda representación, pues será el Procurador, quien asuma la defensa de la persona.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+El denunciado o la persona contra quien se dirija la queja podrán defenderse por sí mismo, a través de abogado o por persona de su confianza.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+Son causas de diferimiento de la audiencia de pruebas y alegatos:
+
+a).- No haber acudido alguna de las partes por primera ocasión a dicha audiencia, o no haber aportado las pruebas que ofrecieron en su denuncia o contestación.
+
+b).- La necesidad de desahogar diligencias fuera de las oficinas sede de la Procuraduría, tales como inspecciones ,reconocimientos de lugares, personas, objetos o documentos.
+
+c).- Por así haberlo solicitado alguna de las partes, manifestando su intención de dialogar con el ánimo de conciliación.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+Procederá el sobreseimiento por:
+
+a).- Desistimiento de la denuncia o queja.
+
+b).- Muerte del denunciado.
+
+c).- Por abandono voluntario de la función del servidor público, siempre y cuando exista la conformidad del quejoso o denunciante.
+
+d).- Por caducidad de la instancia, es decir cuando por causas del quejo o denunciante no es posible continuar con el procedimiento durante más de sesenta días hábiles.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+El sobreseimiento produce los efectos de sentencia absolutoria, sin prejuzgar la conducta del Servidor Público incriminado.
 
 ### CAPÍTULO III. DE LA CALIFICACION DE LA QUEJA O DENUNCIA
 
@@ -583,9 +649,11 @@ Al momento de que tenga verificativo la audiencia de pruebas y alegatos, se cali
 
 Una vez desahoga la audiencia de pruebas y alegatos, se declarara cerrado el periodo de instrucción y la Procuraduría dispondrá de 10-diez días hábiles, contados a partir de esa fecha para elaborar la resolución, en la que se deberá determinar, si existe o no responsabilidad administrativa, en contra del o los servidores públicos acusados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 59.
 
-La Procuraduría con el objetivo de hacer valer sus determinaciones queda facultada, para decretar en la resolución que dicte, las sanciones que se indican a continuación:
+La Procuraduría con el objetivo de hacer valer sus determinaciones queda facultada, para decretar en la resolución que dicte, las sanciones aplicables por la comisión de conducta indebida en términos del artículo 50 de la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios de Nuevo León.
 
 I).- Disciplinarias: Las cuales consistirán en el apercibimiento y en la amonestación.
 
@@ -594,6 +662,10 @@ El apercibimiento es la llamada de atención dirigida al responsable, conminánd
 La amonestación es la advertencia hecha al infractor, sobre las consecuencias de la conducta cometida, exhortándolo a la enmienda y advirtiéndole la imposición de una sanción mayor en caso de reincidencia.
 
 Ambas sanciones podrán ser públicas o privadas. Las públicas se harán constar en el expediente personal del sancionado y se deberán por conducto de la Secretaría de Contraloría y Desarrollo Administrativo de éste Municipio inscribir en el Registro señalado en el artículo 94 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León. Las privadas se comunicarán de manera verbal o por escrito y no se harán constar en el expediente y registro antes aludidos.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+La Exhortación, a fin de que el Servicio Público se conduzca conforme a lo establecido en el Código de Ética de este municipio.
 
 II).- Administrativas: Consistirán en:
 
@@ -605,9 +677,19 @@ Inhabilitación temporal para desempeñar empleos, cargos o comisiones de cualqu
 
 Dichas sanciones deberán por conducto de la Secretaría de Contraloría y Desarrollo Administrativo de éste Municipio, inscribirse en el Registro señalado en el artículo 94 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+En caso de reincidencia, por existir sanción o sanciones anteriores, éstas no podrán ser menores a las antes aplicadas ni inferior a la suspensión del empleo con retiro de la remuneración correspondiente.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+La Procuraduría con el objeto de hacer valer sus determinaciones está facultada para exhortar e imponer las medidas de apremio conducentes a la autoridad municipal, para que ésta cumpla y proporcione la información requerida a la brevedad que lo amerite la circunstancia.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 60.
 
-Al momento de dictar la resolución que en su caso corresponda, la Procuraduría deberá de analizar los hechos denunciados o reclamados, así como los argumentos y las pruebas que hubieren sido presentadas y desahogadas por las partes, el resultado de las diligencias practicadas de oficio; con el principal objetivo de determinar, si los servidores públicos al servicio del municipio y en contra de quienes se presentaron las denuncias, cometieron violación a los derechos de los afectados, al haber incurrido en faltas de probidad u honradez, ya sea por haber lucrado, extorsionado y condicionado la atención de los asuntos de las personas, por la comisión de actos inmorales, amagos e injurias en contra de las personas.
+Al momento de dictar la resolución que en su caso corresponda, la Procuraduría deberá de analizar los hechos denunciados o reclamados, así como los argumentos y las pruebas que hubieren sido presentadas y desahogadas por las partes, el resultado de las diligencias practicadas de oficio; con el principal objetivo de determinar, si los servidores públicos al servicio del municipio y en contra de quienes se presentaron las denuncias, cometieron violaciones a los derechos de los afectados, al haber incurrido en alguno de los supuestos que contiene el artículo 50 de la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios de Nuevo León.
 
 ###### ARTÍCULO 61.
 
@@ -652,3 +734,11 @@ C. Presidenta Municipal.
 LIC. GABRIEL TLALOC CANTU CANTU.
 
 Secretario del Ayuntamiento.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE MAYO DE 2010.
+
+PRIMERO.- L as presentes reformas y adiciones al Reglamento de la Procuraduría de Defensa del Ciudadano del municipio de Guadalupe, Nuevo León, entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan todas las disposiciones reglamentarías, circulares, acuerdos y normas que contravengan el contenido de las presentes reformas y adiciones.
