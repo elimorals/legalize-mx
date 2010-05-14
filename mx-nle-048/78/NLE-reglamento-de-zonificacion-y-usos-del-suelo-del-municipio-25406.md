@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-del-suelo-del-municipio-25406
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-01"
-last_updated: "2009-08-17"
+last_updated: "2010-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACIÓN Y USOS DEL SUELO DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de julio de 2002.
 
@@ -262,6 +262,12 @@ Para los efectos de la elaboración de cualquier plan parcial, la delimitación 
 ###### Artículo 11.
 
 Cuando alguna disposición establecida en este Reglamento concurra con cualquier otra disposición de este u otros Reglamentos, que contengan disposiciones sobre la misma materia, se aplicará la reglamentación más restrictiva o la que señale más altas normas de control.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+###### Artículo 11. Bis.
+
+El secretario de Desarrollo Urbano y Obras Públicas del Municipio de Santa Catarina Nuevo León, tendrá la facultad de regularizar las construcciones de vivienda unifamiliar que no hayan respetado los lineamientos establecidos en cuanto a el área mínima libre que hayan estado en vigor en el momento de realizar la construcción debiendo aplicar las nuevas disposiciones.
 
 > <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -1433,9 +1439,11 @@ e) Altura máxima: 3 pisos ó 10 metros; alturas mayores requieren de un dictame
 
 f) Alineación de los edificios: la señalada en el plano de Estructura Vial Metropolitana, planes de desarrollo urbano Municipal, de centro de población ó parcial, plan de ordenamiento de la zona conurbada de Monterrey, planes viales metropolitanos o Municipales, la Ley y este Reglamento, la que sea más restrictiva;
 
-Área mínima para estacionamiento dentro del lote: lo señalado en los Artículos 84 y 89 de este Reglamento;
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
 
-h (sic)) Área mínima libre total: 15% o según normatividad por ocupación, significando el coeficiente de absorción del suelo;
+g) Área mínima para estacionamiento dentro del lote: lo señalado en los Artículos 84 y 89 de este Reglamento;
+
+h) (DEROGADO, P.O. 14 DE MAYO DE 2010)
 
 i) Densidad máxima: 90 viviendas por hectárea.
 
@@ -3156,3 +3164,7 @@ PRIMERO.- Las disposiciones de reformas por modificación y adición al Reglamen
 SEGUNDO.- Se deroga el Reglamento de Zonificación y Usos de Suelo del Municipio de Santa Catarina, Nuevo León, publicado en el Periódico Oficial de fecha 01-primer día del mes de Julio del año 2002- dos mil dos, así como las modificaciones al mismo publicadas el 04 de febrero de 2004, en todo lo que contraponga con el presente Reglamento, las demás disposiciones del citado Reglamento permanecerán vigentes.
 
 TERCERO.- Envíese su publicación al Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno y en la Gaceta Municipal, por parte de la Secretaría del Ayuntamiento del Municipio de Santa Catarina, N. L.
+
+P.O. 14 DE MAYO DE 2010.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
