@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2009-12-29"
+last_updated: "2010-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MAYO DE 2010.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -10430,7 +10430,11 @@ G.O. 10 DE SEPTIEMBRE DE 2009.
 
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal para su conocimiento.
 
-SEGUNDO.- Las reformas previstas en el presente Decreto entrarán en vigor a los sesenta días siguientes a su publicación en la Gaceta Oficial del Distrito Federal a excepción de las relativas al título Décimo Séptimo denominado "Del Juicio Oral", que entrarán en vigor a los trescientos sesenta y cinco días siguientes a su publicación en el mencionado órgano de difusión.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 14 DE MAYO DE 2010)</small>
+
+SEGUNDO.- Las reformas previstas en el presente Decreto entrarán en vigor a los sesenta días siguientes a su publicación en la Gaceta Oficial del Distrito Federal a excepción de las relativas al título Décimo Séptimo denominado "Del Juicio Oral Civil", que entrarán en vigor a partir del 10 de marzo del 2011.
 
 TERCERO.- Los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de las reformas a que se refiere el presente Decreto se tramitarán conforme a las disposiciones anteriores a ellas.
 
@@ -10445,3 +10449,9 @@ Segundo.- A partir de la publicación del presente Decreto, el Jefe de Gobierno 
 Tercero.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
 
 Cuarto.- Notifíquese por los conductos pertinentes el presente decreto al Jefe de Gobierno del Distrito Federal, al Presidente del Tribunal Superior de Justicia del Distrito Federal, al Presidente de la Comisión de Derechos Humanos del Distrito Federal.
+
+G.O. 14 DE MAYO DE 2010.
+
+PRIMERO. El presente decreto entrará en vigor el 10 de septiembre del 2010.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
