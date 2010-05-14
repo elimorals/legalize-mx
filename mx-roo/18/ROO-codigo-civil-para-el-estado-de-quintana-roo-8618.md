@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2009-09-18"
+last_updated: "2010-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2010.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -2689,7 +2689,7 @@ El nombre de las personas físicas o naturales se forma con el nombre propio y l
 
 El nombre propio será puesto libremente por quien registre el nacimiento de un niño y los apellidos serán los paternos de los progenitores, sean tales apellidos simples o compuestos.
 
-Si no se sabe quienes son los padres, el nombre y apellidos serán puestos por quien presente al niño para su registro.
+Si no se sabe quiénes son los padres, el nombre y apellidos serán puestos por quien presente al niño para su registro.
 
 ###### Artículo 539.
 
@@ -4203,7 +4203,7 @@ XX.- La bigamia que sólo puede ser invocada por el cónyuge inocente del primer
 
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2004)</small>
 
-XXI. La separación de los cónyuges por mas de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos;
+XXI. La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos;
 
 > <small>(ADICIONADA, P.O. 15 DE JULIO DE 2004)</small>
 
@@ -4225,7 +4225,7 @@ XXV. El mutuo consentimiento.
 
 ###### Artículo 800.
 
-Cuando ambos consortes, teniendo mas de un año de casados, convengan en divorciarse y sean mayores de edad, no tengan hijos, o si los tuviesen no fueran menores de edad y de común acuerdo hubieran liquidado su comunidad de bienes, si bajo este régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil o ante el Notario Público del lugar del domicilio conyugal; comprobarán con las copias certificadas respectivas que son casados, mayores de edad, y que, si tienen hijos estos también son mayores de edad, y manifestarán terminante y explícitamente su voluntad de divorciarse.
+Cuando ambos consortes, teniendo más de un año de casados, convengan en divorciarse y sean mayores de edad, no tengan hijos, o si los tuviesen no fueran menores de edad y de común acuerdo hubieran liquidado su comunidad de bienes, si bajo este régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil o ante el Notario Público del lugar del domicilio conyugal; comprobarán con las copias certificadas respectivas que son casados, mayores de edad, y que, si tienen hijos estos también son mayores de edad, y manifestarán terminante y explícitamente su voluntad de divorciarse.
 
 La liquidación de bienes a que se refiere el presente artículo, podrá realizarse ante el Juez o ante el Notario Público del conocimiento.
 
@@ -4317,7 +4317,7 @@ VI.- Dictar, en su caso, las medidas precautorias que la ley establece respecto 
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-VlI.- Poner a hijos al cuidado de la persona que de común acuerdo designen los cónyuges, debiendo ser uno de éstos y pudiéndose compartir la custodia. A falta de acuerdo, el juez de lo familiar resolverá lo conducente, además de establecer las modalidades del derecho de visita o convivencia con sus padres, de conformidad con el artículo 1024 Bis, tomando en cuenta la opinión de la persona menor de edad. El Juez, en cualquier tiempo y antes que termine ejecutoriadamente el juicio, podrá prudentemente modificar sus determinaciones, estableciendo las modalidades y medidas que estime necesarias en beneficio de las personas menores de edad y de los bienes de éstos, sin más limitación que este mismo beneficio, pudiendo confiar la custodia de las personas menores de edad a un tercero o institución educativa y confiar la administración de los bienes a una institución fiduciaria;
+VII.- Poner a hijos al cuidado de la persona que de común acuerdo designen los cónyuges, debiendo ser uno de éstos y pudiéndose compartir la custodia. A falta de acuerdo, el juez de lo familiar resolverá lo conducente, además de establecer las modalidades del derecho de visita o convivencia con sus padres, de conformidad con el artículo 1024 Bis, tomando en cuenta la opinión de la persona menor de edad. El Juez, en cualquier tiempo y antes que termine ejecutoriadamente el juicio, podrá prudentemente modificar sus determinaciones, estableciendo las modalidades y medidas que estime necesarias en beneficio de las personas menores de edad y de los bienes de éstos, sin más limitación que este mismo beneficio, pudiendo confiar la custodia de las personas menores de edad a un tercero o institución educativa y confiar la administración de los bienes a una institución fiduciaria;
 
 > <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
@@ -4357,21 +4357,53 @@ El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado 
 
 Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes de la comunidad conyugal y se tomarán las precauciones necesarias, para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades, subsistencia y educación de sus hijos y para proporcionarles algún oficio, arte o profesión honesto y adecuado a su sexo y circunstancias personales.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+
 ###### Artículo 819.
 
-En los casos de divorcio-sanción el Juez, tomando en cuenta las circunstancias del caso, entre ellas la capacidad para trabajar de los cónyuges y su situación económica, podrá sentenciar al culpable al pago de alimentos en favor del inocente, quien disfrutará de este derecho en tanto viva honestamente y no contraiga nuevas nupcias.
+En los casos de divorcio necesario, el Juez de lo Familiar sentenciará al cónyuge culpable al pago de alimentos a favor del cónyuge que no dio causa al divorcio, tomando en cuenta las circunstancias del caso, entre ellas, las siguientes:
+
+I. La edad y el estado de salud de los cónyuges;
+
+II. SU calificación profesional y posibilidad de acceso a un empleo;
+
+III. Duración del matrimonio y dedicación en el pasado a la familia;
+
+IV. El apoyo con las actividades propias del hogar y el cuidado de los hijos, que hayan permitido al cónyuge culpable, el desarrollo de actividades económicas en beneficio de la familia conformada desde el matrimonio;
+
+V. La capacidad para trabajar de los cónyuges, su situación y medios económicos;
+
+VI. Las demás obligaciones que tenga el cónyuge deudor, siempre que se hayan generado en el lapso de duración del matrimonio y con motivo del mismo.
+
+En todos los casos, el cónyuge inocente que carezca de bienes o que durante el matrimonio se haya dedicado preponderantemente a las labores del hogar o al cuidado de los hijos, tendrá derecho a alimentos por el mismo lapso en que duró el matrimonio.
+
+En caso de que el cónyuge inocente se encuentre imposibilitado para trabajar por dolencia de una discapacidad o enfermedad, tendrá derecho a alimentos con una duración vitalicia.
+
+En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos, en caso de divorcio necesario, se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato, o viva maritalmente en forma permanente y estable por un periodo mínimo de dos años con otras persona impedida legalmente para contraer matrimonio.
+
+El cónyuge inocente tiene derecho, además del pago de alimentos, a que el culpable lo indemnice por los daños y perjuicios que el divorcio le haya causado. Los daños y perjuicios, así como la indemnización a que se refiere el presente artículo, se rigen por lo dispuesto en este Código para los hechos ilícitos.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
 
 ###### Artículo 820.
 
-Cuando con el divorcio-sanción se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+Cuando con el divorcio sanción se originen daños o perjuicios a los intereses del cónyuge que no dio causa al divorcio, el cónyuge que dio causa, responderá de ellos como autor de un hecho ilícito.
 
 ###### Artículo 821.
 
 Cuando el divorcio sea decretado por las causales establecidas en las fracciones VI y VIII del artículo 799, el cónyuge enfermo tendrá derecho a alimentos a cargo del sano, si carece de bienes y está imposibilitado para trabajar.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+
 ###### Artículo 822.
 
-En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia ni a la indemnización por daños y perjuicios.
+En el caso del divorcio por mutuo consentimiento vía judicial, el cónyuge que se haya dedicado preponderantemente a las labores del hogar y el cuidado de los hijos que no cuente con ingresos suficientes que le permitan su subsistencia, mientras no contraiga nuevas nupcias o se una en concubinato, o viva maritalmente en forma permanente y estable por un periodo mínimo de dos años con otra persona impedida legalmente para contraer matrimonio, tendrá derecho a recibir alimentos por el mismo lapso que haya durado el matrimonio.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+Artículo 822 BIS.- En la demanda de divorcio, los cónyuges podrán demandar del otro, una indemnización de hasta el 50% del valor de los bienes que hubiere adquirido durante el matrimonio, siempre que, hubieren estado casados bajo el régimen de separación de bienes; el demandante se haya dedicado en el lapso que duró et matrimonio, preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos y que durante el matrimonio, el demandante no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los de la contraparte.
+
+El Juez de lo Familiar resolverá, en la sentencia de divorcio, previa valoración de cada caso. No podrán considerarse para efectos de cuantificar la indemnización, bienes del cónyuge obtenidos por herencia, donación o suerte de la fortuna, aún en los casos en que se hayan recibido durante el matrimonio.
 
 ###### Artículo 823.
 
@@ -4503,9 +4535,17 @@ Los hermanos y demás parientes colaterales a que se refiere el artículo anteri
 
 La obligación de darse alimentos la tienen el adoptante y el adoptado en los casos en que la tienen el padre y el hijo.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+
 ###### Artículo 845.
 
-Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores, los alimentos comprenden, además, los gastos necesarios para la educación primaria del alimentista y para proporcionarle algún oficio, arte o profesión honesto y adecuado a su sexo y circunstancias personales.
+Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad, así como los gastos que generen el embarazo y el parto. Respecto de los alimentistas comprenden además, los gastos necesarios para su preparación académica y para proporcionarle algún oficio, arte o profesión honesta y adecuada a su sexo y circunstancias personales, sin que ello, implique la obligación de suministrar recurso económico adicional alguno orientado al establecimiento y desarrollo de su oficio, arte o profesión.
+
+En caso de que el alimentista, se encuentre imposibilitado para adquirir algún oficio, arte o profesión y en su caso, desempeñar un trabajo, con motivo de sufrir una discapacidad o enfermedad, tendrá derecho a recibir de sus acreedores, alimentos con una duración vitalicia.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+Artículo 845 BIS.-Toda persona que tenga conocimiento sobre la necesidad de otro de recibir alimentos y pueda aportar los datos de quiénes estén obligados a proporcionarlos, podrá solicitar Únicamente la intervención del Ministerio Público o el Juez de lo Familiar de manera indistinta, a efecto de que dichos funcionarios, en uso de sus facultades resuelvan lo que en derecho corresponda.
 
 ###### Artículo 846.
 
@@ -4522,6 +4562,22 @@ El deudor alimentista no podrá pedir que se incorpore a su familia al que debe 
 ###### Artículo 849.
 
 Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+Determinados por convenio o sentencia, de manera exclusiva las alimentos que haya sido fijado como base para su cuantificación, un porcentaje determinado, tendrá un incremento automático mínimo equivalente al aumento porcentual del salario mínimo general diario vigente en la zona económica correspondiente al deudor, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción, en este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en las sentencias o convenio correspondiente.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+Artículo 849 BIS.- Los menores, las personas con capacidades diferentes, los sujetos a estado de interdicción y el cónyuge que se dedique al hogar, gozan de la presunción de necesitar alimentos.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+Artículo 849 TER.- Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el Juez de lo Familiar resolverá con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan ·llevado en los dos últimos años.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+Artículo 849 QUÁTER.- Los acreedores alimentarios tendrán derecho preferente sobre los ingresos y bienes de quien tenga dicha obligación, respecto de otra calidad de acreedores.
 
 ###### Artículo 850.
 
@@ -9013,7 +9069,7 @@ IV.- Los abonos destinados al cultivo de una heredad, que estén en las tierras 
 
 V.- Los aparatos eléctricos y accesorios adheridos al suelo o a los edificios por el dueño de éstos;
 
-VI.- Los manantiales, estanques, aljibes y corrientes de agua, así como los acueductos y las cañerías de cualquiera especie que sirvan para conducir los líquidos o gases a un finca o para extraerlos de ella;
+VI.- Los manantiales, estanques, aljibes y corrientes de agua, así como los acueductos y las cañerías de cualquiera especie que sirvan para conducir los líquidos o gases a una finca o para extraerlos de ella;
 
 VII.- Los animales que formen el pie de cría en los predios rústicos destinados total o parcialmente al ramo de la ganadería, así como las bestias de trabajo indispensables para el cultivo de la finca, mientras estén destinadas a ese objeto;
 
@@ -9187,7 +9243,7 @@ Se entiende que cada uno de los partícipes de un bien que se posee en común ha
 
 ###### Artículo 1789.
 
-La posesión que no tenga el carácter de derivada, da al que la tiene la presunción de propietario para todos lo efectos legales. El que posee en virtud de un derecho personal o de un derecho real distinto de la propiedad, no se presume propietario; pero si es poseedor de buena fe tiene a su favor la presunción de haber obtenido la posesión del dueño del bien o derecho poseído.
+La posesión que no tenga el carácter de derivada, da al que la tiene la presunción de propietario para todos los efectos legales. El que posee en virtud de un derecho personal o de un derecho real distinto de la propiedad, no se presume propietario; pero si es poseedor de buena fe tiene a su favor la presunción de haber obtenido la posesión del dueño del bien o derecho poseído.
 
 ###### Artículo 1790.
 
@@ -9923,7 +9979,7 @@ No tendrá lugar lo dispuesto en el artículo anterior si el propietario opta po
 
 ###### Artículo 1941.
 
-El acrecentamiento que por aluvión reciben las heredades confinantes con corrientes de agua, pertenecen a los dueños de la riberas en que el aluvión se deposite.
+El acrecentamiento que por aluvión reciben las heredades confinantes con corrientes de agua, pertenecen a los dueños de las riberas en que el aluvión se deposite.
 
 ###### Artículo 1942.
 
@@ -10065,7 +10121,7 @@ Para que haya mayoría se necesita la mayoría de copropietarios y la mayoría d
 
 ###### Artículo 1976.
 
-Cuando parte del bien perteneciere exclusivamente a un copropietario o a alguno de ellos, y otra fuere común, sólo a ésta serán aplicables los dos disposiciones anteriores.
+Cuando parte del bien perteneciere exclusivamente a un copropietario o a alguno de ellos, y otra fuere común, sólo a ésta serán aplicables las dos disposiciones anteriores.
 
 ###### Artículo 1977.
 
@@ -10105,7 +10161,7 @@ II.- Cuando conocidamente toda la pared, vallado, cerca o seto están construido
 
 III.- Cuando la pared soporte las cargas y carreras, pasos y armaduras de una de las posesiones y no de la contigua;
 
-IV.- Cuando la pared divisoria entre patios, jardines y otras heredades esté construida de modo que la albardilla caiga hacia un sola de las propiedades.
+IV.- Cuando la pared divisoria entre patios, jardines y otras heredades esté construida de modo que la albardilla caiga hacia una sola de las propiedades.
 
 V.- Cuando la pared divisoria construida de mampostería presenta piedras llamadas pasaderas, que de distancia en distancia salen fuera de la superficie sólo por un lado de la pared y no por el otro;
 
@@ -10437,7 +10493,7 @@ Las determinaciones adoptadas por las asambleas en los términos de este título
 
 La asamblea tendrá las facultades siguientes:
 
-I.- Nombrar y remover libremente al administrador, en los términos del reglamento del condominio, excepto a los que funjan por el primer año, que serán designados por quienes otorguen la escritura constitutiva del condominio. El administrador podrá ser o no alguno de los condóminos y la asamblea de éstos fijará la remuneración relativa, que podrá renunciarse por algún condómino que acepte servir gratuitamente el cargo;
+I.- Nombrar y remover libremente al administrador, en los términos del reglamento del condominio, excepto a los que funjan por el primer año, que serán designados por quienes otorguen la escritura constitutiva del condominio. El administrador podrá ser o no alguno de los condóminos y la asamblea de éstos fijará (sic) la remuneración relativa, que podrá renunciarse por algún condómino que acepte servir gratuitamente el cargo;
 
 II.- Precisar las responsabilidades frente a terceros a cargo directo del administrador y las que corran a cargo de los condóminos, por actos de aquél, ejecutados en o con motivo del desempeño de su cargo;
 
@@ -11083,7 +11139,7 @@ Lo dispuesto en el artículo anterior es aplicable al caso en que sea necesario 
 
 ###### Artículo 2154.
 
-Todos los propietarios que participen del beneficio proveniente de las obras de que trata este artículo, están obligados a contribuir al gasto de su ejecución en proporción a su interés y a juicio de peritos.
+Todos los propietarios que participen del beneficio proveniente de las obras de qué trata este artículo, están obligados a contribuir al gasto de su ejecución en proporción a su interés y a juicio de peritos.
 
 ###### Artículo 2155.
 
@@ -11537,7 +11593,7 @@ II.- Cuando la prestación consistiere en bien cierto y determinado que se encue
 
 III.- Cuando la obligación sea indivisible; y
 
-IV.- Cuando por contrato se haya establecido otra reglas.
+IV.- Cuando por contrato se haya establecido otra regla.
 
 #### SECCION QUINTA. De las obligaciones de hacer o de no hacer
 
@@ -14091,9 +14147,7 @@ El arrendador que no haga las obras que ordenen las autoridades del ramo como ne
 
 El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la ley para que sea fiador.
 
-### CAPITULO SEXTO. Disposiciones especiales respecto de los arrendamientos
-
-de inmuebles por tiempo indeterminado
+### CAPITULO SEXTO. Disposiciones especiales respecto de los arrendamientos de inmuebles por tiempo indeterminado
 
 ###### Artículo 2711.
 
@@ -16961,7 +17015,7 @@ GERMAN GARCIA PADILLA
 
 (Rúbrica)
 
-Dado en la residencia del Poder Ejecutivo del Estado en la ciudad de Chetumal, capital del Estado de Quintana Roo, a los ocho días del mes de Octubre de mil novecientos ochenta.
+Dado en la residencia del Poder Ejecutivo del Estado en la ciudad de Chetumal, capital del Estado de Quintana Roo, a los ocho días del mes de octubre de mil novecientos ochenta.
 
 El Gobernador Constitucional del Estado
 
@@ -17114,3 +17168,13 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 P.O. 18 DE SEPTIEMBRE DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 14 DE MAYO DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los juicios de divorcio que se encuentren sustanciándose ante los Juzgados y Tribunales del Estado, interpuestos de manera previa a la entrada en vigor de la presente reforma, le será aplicable para su resolución, la legislación vigente al momento de su interposición.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
