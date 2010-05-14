@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2009-12-18"
+last_updated: "2010-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1410,6 +1410,32 @@ XIII.- Valiéndose de identificaciones falsas o supuestas órdenes de alguna aut
 ###### ARTICULO 146.
 
 Para los efectos de este Código, el delito de robo se tendrá por consumado desde que el autor tenga la cosa robada, aunque lo abandone o lo priven de ella.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+###### ARTICULO 146
+
+BIS.- Cuando se trataré del robo de un vehículo automotor terrestre que sea objeto de registro conforme a la ley de la materia, con excepción de las motocicletas, la pena será de tres a siete años de prisión y de cien a trescientos días multa.
+
+La pena prevista en el párrafo anterior se aumentará en una mitad, cuando en el robo participe algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción de delito o ejecución de penas, así como aquel servidor público que dentro de sus funciones tenga la guarda de vehículos en lugares destinados para su depósito, además a estos servidores públicos, se le aplicará destitución e inhabilitación para desempeñar cualquier empleo, cargo o comisión públicos por un tiempo igual al de la pena de prisión impuesta.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+###### ARTICULO 146
+
+TER.- Se sancionará con pena de dos a cuatro años de prisión y hasta doscientos días multa, al que a sabiendas y con independencia de las penas que le correspondan por la comisión de otros delitos:
+
+I.- Desmantele algún o algunos vehículos robados o comercialice conjuntamente o separadamente sus partes;
+
+II.- Enajene de cualquier manera con vehículo o vehículos robados;
+
+III.- Detente, posea, custodie, altere o modifique de cualquier manera la documentación que acredite la identificación o propiedad de un vehículo robado;
+
+IV.- Traslade el o los vehículos robados a otra entidad federativa o al extranjero, y
+
+V.- Utilice el o los vehículos robados en la comisión de otro u otros delitos.
+
+Si en los actos mencionados llegara a participar algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de penas, así como también tenga la guarda de vehículos en lugares destinados para su depósito, además de las sanciones a que se refiere este artículo, se le aumentará pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por el periodo igual a la pena de prisión impuesta.
 
 ### CAPITULO XI. DISPOSICIONES COMUNES PARA LOS DELITOS CONTRA EL PATRIMONIO
 
@@ -2920,3 +2946,13 @@ P.O 18 DE DICIEMBRE DE 2009.
 ARTÍCULOS TRANSITORIOS (SIC):
 
 PRIMERO.- Publíquese para los efectos legales correspondientes, el presente decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 14 DE MAYO DE 2010
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+T R A N S I T O R I O:
+
+ÚNICO.- ÚNICO (SIC).- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
