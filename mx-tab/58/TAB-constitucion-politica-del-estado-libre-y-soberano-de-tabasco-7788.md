@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2010-03-31"
+last_updated: "2010-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2010.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -813,15 +813,19 @@ Dichas bases se fijarán conforme a lo establecido en el artículo 117 de la Con
 
 El Ejecutivo y los Municipios podrán contratar financiamiento cuya vigencia no sea mayor a un año, sin requerir autorización expresa del Congreso. Invariablemente deberán sujetarse a las siguientes bases:
 
-a) En ningún caso el plazo excederá el periodo constitucional de la administración que contrató dicha deuda, ni venza dentro de los noventa días naturales anteriores al fin de dicho periodo constitucional.
+a) (DEROGADO, P.O. 14 DE MAYO DE 2010)
 
-b) El límite máximo de este tipo de financiamientos que podrá contratar el Gobierno del Estado y los Municipios será de 8% de sus ingresos ordinarios determinados en sus leyes de ingresos vigentes.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2010)</small>
+
+b) El límite máximo de este tipo de financiamientos que podrá contratar el Gobierno del Estado y los Municipios será de 15% de sus ingresos ordinarios determinados en sus leyes de ingresos vigentes.
 
 Se entenderá por Ingresos Ordinarios: la suma de los Impuestos, Derechos, Productos y Aprovechamientos así como las Participaciones Federales y cualquier otro ingreso de carácter federal que no tenga un uso o fin especifico.
 
 c) No se afectará en garantía o en pago el derecho a recibir participaciones derivadas de la coordinación fiscal o cualquier otro ingreso o derecho.
 
-d) El financiamiento así contratado no podrá ser refinanciado ni reestructurado.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+
+d) El financiamiento así contratado podrá ser refinanciado o reestructurado a efecto de mejorar las condiciones del empréstito, en los términos y bajo los límites que la Ley determine.
 
 e) El Gobierno del Estado y los Ayuntamientos deberán informar al Congreso de Estado la contratación, liquidación y conclusión del financiamiento en un plazo que no exceda de 30 días naturales siguientes de cada uno de los actos correspondientes.
 
@@ -2820,3 +2824,9 @@ CUARTO.- Las remuneraciones que a la fecha sean superiores a las bases determina
 QUINTO.- Las remuneraciones de los servidores públicos a que se refiere este Decreto, durante el ejercicio fiscal 2010, les serán cubiertas en los términos de las disposiciones vigentes en dicho ejercicio fiscal.
 
 SEXTO.- Las conductas tendientes a eludir lo dispuesto en el presente Decreto, serán sancionadas de conformidad a lo dispuesto en la legislación aplicable.
+
+P.O. 14 DE MAYO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previa aprobación de los Ayuntamientos del Estado en los términos que dispone la Constitución del Estado Libre y Soberano de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones de carácter ordinario que contravengan el presente Decreto.
