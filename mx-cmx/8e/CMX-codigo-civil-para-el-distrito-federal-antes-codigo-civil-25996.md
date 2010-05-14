@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2010-01-22"
+last_updated: "2010-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MAYO DE 2010.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -11023,17 +11023,7 @@ IX.- El monto del depósito o en su caso los datos del fiador en garantía.
 
 X.- El carácter y las facultades con que el arrendador celebrará el contrato, incluyéndose todos los datos del instrumento con que éste acredite su personalidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
-
-ARTICULO 2,448 G.- El arrendador deberá registrar el contrato de arrendamiento ante la autoridad competente del Gobierno del Distrito Federal. Una vez cumplido este requisito, entregará al arrendatario una copia registrada del contrato.
-
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
-
-El arrendatario tendrá acción para demandar el registro mencionado y la entrega de la copia del contrato.
-
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
-
-Igualmente el arrendatario tendrá derecho para registrar su copia del contrato de arrendamiento ante la autoridad competente del Gobierno del Distrito Federal.
+ARTICULO 2,448 G.- (DEROGADO, G.O. 14 DE MAYO DE 2010)
 
 > <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
@@ -14154,3 +14144,9 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida d
 SEGUNDO.- Se abrogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 14 DE MAYO DE 2010.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
