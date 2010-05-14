@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-de-ciudad-guadalupe-7899"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-15"
-last_updated: "2009-12-29"
+last_updated: "2010-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de noviembre de 1995.
 
@@ -543,6 +543,12 @@ X.- Ingerir bebidas alcohólicas, consumir drogas o inhalar solventes en las cal
 
 XI.- Enviar a menores de edad a comprar bebidas alcohólicas de cualquier tipo, a establecimientos comerciales.
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2010)</small>
+
+XII.- Efectuar por sí, o por interpósita personas, llamadas telefónicas ó envió de correos o por cualesquier otro medio, avisos o comunicados de emergencias falsas y/ó la realización de amenazas de cualesquier tipo a los teléfonos y correos oficiales que atienden emergencias públicas.
+
+Así mismo se considerará como infractores a quienes realicen llamadas de broma o denuncias falsas al número telefónico oficial que este asignado para realizar las denuncias anónimas.
+
 ### CAPITULO 9
 
 DE LAS INFRACCIONES SANITARIAS.
@@ -1042,3 +1048,9 @@ Las presentes reformas al REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO D
 ###### ARTÍCULO SEGUNDO.
 
 Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas.
+
+P.O. 14 DE MAYO DE 2010.
+
+PRIMERO.- La presente reforma por adición de la fracción XII al artículo 15 del Reglamento de Policía y Buen Gobierno del Municipio de Ciudad Guadalupe, Nuevo León, entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de la presente reforma por adición.
