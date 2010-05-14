@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-estimulos-civiles-del-estado-de-queretaro-23653"
 country: "mx"
 rank: "ley"
 publication_date: "1985-11-28"
-last_updated: "1985-11-28"
+last_updated: "2010-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE ESTIMULOS CIVILES DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2010
 
 Ley Publicada en el Periódico Oficial del Estado de Querétaro, el jueves 28 de noviembre de 1985.
 
@@ -66,6 +66,18 @@ I.- De Ciencias. Dr. Leopoldo Río de la Loza
 II.- De Arte. Heriberto Frias
 
 III.- Al Mérito Cívico. Juan Caballero y Osio
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2010)</small>
+
+IV.- A la Trayectoria Profesional
+
+en el Servicio Médico Pedro Escobedo
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2010)</small>
+
+V.- A la Preservación y Fomento
+
+de la Cultura Popular Atilano Aguilar
 
 ###### ARTICULO 6.
 
@@ -113,15 +125,31 @@ II.- Los Jurados.
 
 El Consejo de Premiación es un órgano colegiado de carácter permanente, encargado de poner en estado de resolución del Ejecutivo Estatal, los expedientes que se formen para el otorgamiento de los premios establecidos.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 16.
 
-El Consejo de Premiación se integrará por el Secretario de Cultura y Bienestar Social, por el Director de Patrimonio Cultural, por dos representantes de la Legislatura Local y por dos representantes del Tribunal Superior de Justicia.
+El Consejo de Premiación se integrará de la siguiente forma:
+
+I.- El titular de la Secretaría de Educación del Estado de Querétaro;
+
+II.- El Director General del Instituto Queretano de la Cultura y las Artes;
+
+III.- El Presidente de la Mesa Directiva de la Legislatura del Estado de Querétaro;
+
+IV.- El Presidente de la Comisión encargada de atender asuntos en materia de Educación, Cultura, Ciencia, Tecnología e Innovación, de la Legislatura del Estado de Querétaro; y
+
+V.- Dos representantes del Tribunal Superior de Justicia del Estado de Querétaro.
 
 Cada uno de los miembros propietarios registrará ante la Secretaría del Consejo el nombre del servidor público que debe suplirlo en sus ausencias.
 
+Cada uno de los miembros propietarios registrará ante la Secretaría del Consejo el nombre del servidor público que debe suplirlo en sus ausencias.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 17.
 
-El Consejo de Premiación será presidido por el Secretario de Cultura y Bienestar Social y fungirá como Secretario del mismo, el Director de Patrimonio Cultural.
+El Consejo de Premiación será presidido por el Secretario de Educación del Estado de Querétaro y fungirá como Secretario del mismo, el Director General del Instituto Queretano de la Cultura y las Artes.
 
 ###### ARTICULO 18.
 
@@ -251,31 +279,63 @@ JUAN CABALLERO Y OSIO
 
 Son acreedores al Premio Juan Caballero y Osio, tanto oriundos y habitantes del Estado de Querétaro como todos aquellos ciudadanos Mexicanos que se distingan como ejemplos de dignidad cívica por su diligente cumplimiento de la Ley, por la firme defensa de los derechos propios y de los derechos de los demás, por su relevante comportamiento de participación ciudadana, o bien por la realización de actos heróicos.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+PREMIO A LA TRAYECTORIA PROFESIONAL EN EL SERVICIO MÉDICO PEDRO ESCOBEDO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 14 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 36.
 
-Los premios se tramitarán ante el Consejo de Premiación quién instituirá un jurado calificador para cada una de las áreas a que se refieren los artículos 33, 34 y 35 de esta Ley; el Jurado estará integrado por número de cinco a diez miembros, cuya calificación intelectual sea necesaria conforme con la naturaleza del premio a otorgar.
+El premio a la trayectoria profesional en el campo del servicio médico, se otorgará a propuesta del Presidente del Colegio Médico de Querétaro, A.C., agrupación a la que se turnará oportunamente la convocatoria, debiendo ser ratificada por el titular del Poder Ejecutivo del Estado. Con este premio se busca reconocer a los profesionistas del sector, que se hayan distinguido por su dedicación a la investigación en materia de salud o hubieran contribuido de manera ejemplar y filantrópica a conservar y mejorar la salud de los queretanos.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+
+PREMIO A LA PRESERVACIÓN Y FOMENTO DE LA CULTURA POPULAR ATILANO AGUILAR
+
+> <small>(REFORMADO Y REUBICADO, P.O. 14 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 37.
 
-Sólo las personas físicas podrán merecer los premios estatales de artes y ciencias.
+Mediante este premio se busca reconocer a aquellos ciudadanos del Estado de Querétaro que preserven o fomenten las tradiciones, las artesanías o las actividades artísticas y culturales de carácter regional que fortalezcan la identidad de cualquier comunidad del territorio queretano o que se destaquen en el ámbito de la cultura nacional, por sus creaciones, investigaciones o aportaciones a la vida artística y cultural, entendiéndose como cultura popular la específica y propia que se produce bajo un sentido de territorialidad regional y étnica.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 14 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 38.
 
-El Gobernador del Estado podrá, en cualquier tiempo, conceder un reconocimiento público especial a las personas con un mérito civil relevante.
+Los premios se tramitarán ante el Consejo de Premiación, quien instituirá un jurado calificador para cada una de las áreas a que se refieren los artículos 33, 34, 35, 36 y 37 de esta Ley; el jurado estará integrado por un número de cinco o diez miembros, cuya preparación intelectual sea la idónea y necesaria, conforme a la naturaleza del premio a otorgar.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 14 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 39.
 
-Los reconocimientos especiales constarán de un diploma firmado por el Ejecutivo del Estado y en el que se expresarán las razones de su otorgamiento.
+Sólo las personas físicas podrán hacerse merecedoras de los premios estatales de arte, de ciencias, a la trayectoria profesional en el servicio médico y a la participación en la preservación y fomento de la cultura popular.
 
 ### CAPITULO TERCERO. DE LOS RECONOCIMIENTOS ESPECIALES
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 40.
 
-El otorgamiento de un reconocimiento especial no inhabilita para obtener algunos de los premios a los que se refiere el artículo 5º.
+El Gobernador del Estado podrá, en cualquier tiempo, conceder un reconocimiento público especial a las personas con un mérito civil relevante.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 41.
 
-Los reconocimientos especiales serán entregados en ceremonia pública por el Titular del Ejecutivo del Estado.
+Los reconocimientos especiales constarán de un diploma firmado por el titular del Poder Ejecutivo del Estado, expresando en éste las razones de su otorgamiento.
+
+> <small>(REFORMADO [N.DE E. ADICIONADO], P.O. 14 DE MAYO DE 2010)</small>
+
+###### ARTICULO 42.
+
+El otorgamiento de un reconocimiento especial no inhabilita a una persona para obtener alguno de los premios contemplados en este ordenamiento legal.
+
+> <small>(REFORMADO [N.DE E. ADICIONADO], P.O. 14 DE MAYO DE 2010)</small>
+
+###### ARTICULO 43.
+
+Los reconocimientos especiales serán entregados en ceremonia pública por el titular del Poder Ejecutivo del Estado.
 
 T R A N S I T O R I O S
 
@@ -312,3 +372,9 @@ LIC. MARIANO PALACIOS ALCOCER
 El C. Secretario de Gobierno,
 
 LIC. JOSE MARIA HERNANDEZ SOLIS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE MAYO DE 2010.
+
+Artículo Único. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
