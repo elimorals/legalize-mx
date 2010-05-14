@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "2007-11-22"
+last_updated: "2010-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,21 +21,23 @@ state: "SON"
 ---
 # LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
+LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE NOVIEMBRE DE 2007.
+TEXTO ORIGINAL.
 
-Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
+Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 18 de agosto de 2008.
 
-EL C. LIC. ALEJANDRO CARRILLO MARCOR, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE SONORA, a sus habitantes, sabed:
+DR. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
 
-Que el H. Congreso del Estado, se ha servido dirigirme la siguiente L E Y :
+La Quincuagésima Legislatura del Congreso del Estado Libre y Soberano de Morelos, en ejercicio de las facultades que le otorga el artículo 40, fracción II de la Constitución Política Local, y,
 
-N U M E R O 40
+C O N S I D E R A N D O.
 
-EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, DECRETA LA SIGUIENTE
+Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
-LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS, QUE ABROGA LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO, PUBLICADA EL 24 DE AGOSTO DE 1994, EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS.
+
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -115,777 +117,1285 @@ Son irrenunciables los derechos que la presente ley otorga.
 
 Las actuaciones y certificaciones que hubieren de hacerse con motivo de la aplicación de la presente ley no causarán impuesto alguno.
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-En la interpretación de esta ley se tomarán en consideración los principios de justicia social que derivan del artículo 123 de la Constitución General de la República y de la Ley Federal del Trabajo, que para ese efecto será aplicable supletoriamente, así como la jurisprudencia, la costumbre, el uso y la equidad.
+El Procurador emitirá los acuerdos, circulares, instructivos, manuales de organización y de procedimientos, bases y demás normas administrativas necesarias que rijan la actuación de las unidades administrativas y órganos técnicos, centrales y desconcentrados de la institución, así como de agentes del Ministerio Público, agentes de la Policía Ministerial y peritos.
 
 ## TITULO SEGUNDO. DERECHOS Y OBLIGACIONES INDIVIDUALES DE LOS TRABAJADORES
 
-### CAPITULO I
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### ARTICULO 5°.
+###### Artículo 1.
 
-(DEROGADO, P.O. 14 DE JULIO DE 1999)
+Esta Ley es de orden público e interés social, tiene por objeto organizar y regular las funciones de la Procuraduría General de Justicia del Estado para el despacho de los asuntos que al Ministerio Público le atribuye la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado Libre y Soberano de Morelos, este ordenamiento y las demás normas aplicables.
 
-###### ARTICULO 11.
+###### Artículo 2.
 
-Los trabajadores prestarán sus servicios en virtud de nombramiento expedido por el funcionario legalmente facultado para ello o por estar incluídos en las listas de raya de trabajadores temporales, para obra determinada o por tiempo fijo.
+Para los efectos de esta Ley, se entenderá por:
 
-###### ARTICULO 12.
+I. Procurador: Al Procurador General de Justicia del Estado de Morelos;
 
-Los menores de edad que tengan más de 16 años tendrán capacidad legal para prestar servicios, percibir el sueldo correspondiente y ejercitar las acciones derivadas de la presente ley.
+II. Procuraduría: A la Procuraduría General de Justicia del Estado de Morelos;
 
-###### ARTICULO 13.
+III. Constitución: A la Constitución Política del Estado Libre y Soberano de Morelos, y
 
-Serán condiciones nulas y no obligan a los trabajadores, aún cuando las admitieren expresamente, las que estipulen:
+IV. Reglamento: Al Reglamento de la Ley Orgánica de la Procuraduría.
 
-I.- Una jornada mayor de la permitida por esta ley;
+###### Artículo 3.
 
-II.- Las labores peligrosas o insalubres o nocturnas para menores de 18 años;
+La Procuraduría tiene a su cargo promover la acción de la justicia, ejercer la representación social, la defensa de los intereses de la sociedad a través del Ministerio Público y las demás atribuciones que el orden jurídico disponga.
 
-III.- Una jornada inhumana por lo notoriamente excesiva o peligrosa para la vida del trabajador;
+###### Artículo 4.
 
-IV.- Un salario inferior al mínimo general de la zona donde se presten los servicios;
+El Ministerio Público es la Institución que dirige la investigación y persecución de los hechos probablemente constitutivos de delitos, promueve el ejercicio de la acción penal ante los tribunales de justicia, protege y brinda atención a las victimas del delito y testigos e interviene en los asuntos de orden civil, familiar y otros, en la forma que señalen las leyes.
 
-###### ARTICULO 14.
+Su actuación se sujetará a los principios de legalidad, probidad, responsabilidad, objetividad, transparencia, honradez, confidencialidad, lealtad y eficiencia.
 
-Los nombramientos deberán contener:
+###### Artículo 5.
 
-I.- Nombre, nacionalidad, edad, sexo, estado civil y domicilio del nombrado;
+Son funciones del Ministerio Público:
 
-II.- Denominación del puesto o cargo que debe prestar y, de ser posible, se precisarán sus funciones;
+I. Dirigir en forma exclusiva la investigación de los hechos presuntamente constitutivos de delito del fuero común;
 
-III.- El carácter del nombramiento: definitivo, interino, por tiempo fijo o por obra determinada;
+II. Recabar los antecedentes y elementos de convicción tendientes a la comprobación del cuerpo del delito y la responsabilidad penal del imputado;
 
-IV.- Duración de la jornada de trabajo;
+III. Ejercer la acción penal en la forma establecida por la ley;
 
-V.- El salario y demás prestaciones que habrá de percibir el trabajador con indicación de la partida del presupuesto con cargo a la cual se cubrirán;
+IV. Promover la resolución de los conflictos surgidos como consecuencia de los delitos, a través de la mediación, conciliación y negociación, acuerdos reparatorios entre la víctima u ofendido y el imputado, en los casos autorizados por las leyes;
 
-VI.- Lugar y dependencia en que deberá prestar sus servicios.
+V. Solicitar la aplicación y aprobación de los criterios de oportunidad;
 
-Para que el nombramiento surta efectos el interesado deberá acreditar, mediante certificado médico, que goza de buena salud y es mentalmente apto para el desempeño del puesto de que se trate.
+VI. Solicitar la suspensión del proceso a prueba, en los supuestos previstos por las leyes y basándose en razones objetivas y generales;
 
-###### ARTICULO 15.
+VII. Solicitar la apertura del procedimiento abreviado, en los supuestos previstos por las leyes y basándose en razones objetivas y generales;
 
-Cuando un trabajador sea trasladado de una población a otra, la entidad o dependencia en que preste sus servicios tendrá la obligación de sufragar los gastos de viaje, excepto si el traslado se debe a solicitud suya.
+VIII. Solicitar la reparación del daño, en los supuestos previstos por las leyes;
 
-En el primer caso, si el traslado es por un período mayor de seis meses o por tiempo indefinido, la dependencia también deberá cubrir los gastos de transporte del menaje de casa indispensable para la instalación de su cónyuge y de sus familiares, siempre que estén bajo su dependencia económica.
+IX. Vigilar y asegurar que durante la investigación y el proceso se respeten los derechos fundamentales del imputado, de la víctima u ofendido del delito y de los testigos;
 
-###### ARTICULO 16.
+X. Vigilar la correcta aplicación de la ley en todos los casos de que conozca y, específicamente, en aquellos en que alguna de las partes sea miembro de pueblos o comunidades indígenas;
 
-Los trabajadores del servicio civil que tengan un desempeño satisfactorio tendrán derecho a un aumento de 10% sobre el salario de que disfruten cuando hayan cumplido diez años de servicios, y un aumento de 20% cuando sean veinte los años de servicios.
+XI. Intervenir en los asuntos relativos a la familia, niños, adolescentes, personas con discapacidad, adultos mayores y ausentes en los casos previstos por las leyes;
 
-Para el cómputo respectivo se tomarán en cuenta todos los servicios prestados, aún cuando no fueren contínuos, así como los períodos en que el trabajador haya desempeñado a satisfacción servicios como empleado de confianza en la misma entidad pública.
+XII. Adoptar las medidas necesarias para la protección, atención y auxilio de las víctimas, ofendidos, testigos, así como de cualquier miembro de la sociedad que tienda a salvaguardar sus derechos fundamentales. De igual manera, podrá también implementar medidas de protección de sus propios funcionarios, cuando el caso lo requiera;
 
-La petición correspondiente se hará al titular de la entidad o dependencia de que se trate y en caso de desacuerdo resolverá el Tribunal.
+XIII. Dirigir a la Policía Ministerial y a los cuerpos de seguridad del Estado cuando estén obligados a auxiliar en funciones de investigación y persecución de delitos, vigilando que los mismos realicen sus actuaciones con pleno respeto a los derechos fundamentales y conforme a los principios de legalidad y objetividad;
 
-###### ARTICULO 17.
+XIV. Decretar el no ejercicio de la acción penal; el archivo temporal y la facultad de abstenerse de investigar;
 
-La aceptación del nombramiento obliga al trabajador a cumplir con los deberes inherentes al mismo y a las consecuencias que sean conformes a la ley, al uso y a la buena fe.
+XV. Ejercer las atribuciones contempladas en la Ley de Justicia para Adolescentes y demás leyes aplicables de la materia;
 
-###### ARTICULO 18.
+XVI. Intervenir en los procesos de ejecución de las penas vigilando que se respeten los derechos fundamentales de los sentenciados;
 
-En ningún caso el cambio de titular de la entidad pública o de una de sus dependencias, o el cambio de otros funcionarios, podrá afectar los derechos de los trabajadores de base a su servicio o bajo sus órdenes.
+XVII. Coadyuvar con el Ministerio Público de la Federación y de las demás entidades federativas en los términos de los convenios de colaboración respectivos;
 
-### CAPITULO II. DE LAS HORAS DE TRABAJO Y LOS DESCANSOS LEGALES
+XVIII. Determinar el destino final de los vehículos automotores y/o bienes en general puestos a su disposición, declarando su abandono a favor del estado, mediante el procedimiento que establezcan los dispositivos legales aplicables, ordenando su destrucción o compactación según sea el caso, y
 
-###### ARTICULO 19.
+XIX. Las demás que le otorguen las leyes.
 
-Se considera trabajo diurno el comprendido entre las seis y las veinte horas; el restante será nocturno.
+###### Artículo 6.
 
-###### ARTICULO 20.
+El Ministerio Público es un órgano del Estado que forma parte del Poder Ejecutivo, con autonomía técnica. Es único, indivisible, jerárquico en su organización. Sus funciones, no podrán ser influidas ni restringidas por ninguna otra autoridad.
 
-La jornada diaria máxima será de ocho horas para trabajo diurno y siete para el nocturno.
+###### Artículo 7.
 
-###### ARTICULO 21.
+En el ejercicio de sus funciones, son auxiliares del Ministerio Público todas las autoridades del Estado, y, especialmente, las autoridades administrativas y municipales, servicios periciales, policía ministerial y en general todas las corporaciones policíacas, públicas y privadas, sin perjuicio de la autoridad administrativa a la que estén sometidas, mismas que están obligadas a cumplir con las órdenes o peticiones que les realice y a proporcionarle, de forma inmediata, la información que les requiera.
 
-Cuando la naturaleza del trabajo así lo exija, la jornada máxima se reducirá teniendo en cuenta el número de horas que puede trabajar un individuo normal sin sufrir quebranto en su salud.
+###### Artículo 8.
 
-###### ARTICULO 22.
+Los Agentes del Ministerio Público, los Peritos y Agentes de la Policía Ministerial representan, en el ejercicio de sus funciones, a la Institución; podrán ejercerlas en cualquier lugar del territorio estatal, de conformidad con esta ley.
 
-Es jornada mixta la que comprende período de tiempo de las jornadas diurna y nocturna, siempre que el período nocturno abarque menos de tres horas y media, pues en caso contrario, se considerará jornada nocturna. La duración máxima de la jornada mixta será de siete horas y media.
+###### Artículo 11.
 
-###### ARTICULO 23.
+Para el despacho de los asuntos que competen a la Procuraduría, ésta podrá integrarse con los siguientes órganos:
 
-Cuando por circunstancias especiales deban aumentarse las horas de jornada máxima, este trabajo será considerado como extraordinario y nunca podrá exceder de tres horas diarias ni de tres veces consecutivas.
+I. Subprocuradurías;
 
-###### ARTICULO 24.
+II. Visitaduría General;
 
-La jornada diaria de trabajo podrá prestarse en una o dos sesiones y dentro de los horarios que señalen los titulares de las entidades públicas o de sus dependencias. Los trabajadores no podrán negarse a prestar servicios fuera de los horarios señalados normalmente para la entidad pública o sus dependencias, ni fuera de los lugares de trabajo, cuando las necesidades del servicio así lo exijan. En cualquiera de los casos señalados, la prestación de los servicios no podrá exceder de la jornada máxima ordinaria, o de la extraordinaria, en su caso.
+III. Coordinaciones;
 
-###### ARTICULO 25.
+IV. Direcciones;
 
-Por cada seis días de trabajo, el trabajador disfrutará de un día de descanso, cuando menos, con goce de salario íntegro.
+V. Unidades Especializadas;
 
-###### ARTICULO 26.
+VI. Agencias del Ministerio Público;
 
-Las mujeres disfrutarán, con goce de salario íntegro, de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos meses después del mismo. Durante la lactancia podrá tener dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos.
+VII. Policía Ministerial:
 
-> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
+VIII. Dirección General de Servicios Periciales, y
 
-###### ARTICULO 27.
+IX. Los demás que establezca el Reglamento y otras disposiciones aplicables.
 
-Serán días de descanso obligatorio los siguientes:
+###### Artículo 12.
 
-I.- El primero de enero;
+Habrá las Subprocuradurías que se requieran para el ejercicio adecuado de las funciones del Ministerio Público, mismas que abarcarán las circunscripciones territoriales que indique el Reglamento de la presente Ley Orgánica, donde se establecerán sus funciones especificas, sin perjuicio de las establecidas en esta ley. Indistintamente de la competencia territorial, cualquier investigación podrá ser asignada a cualquier subrocuraduría (sic).
 
-II.- El primer lunes de febrero en conmemoración del 5 de febrero;
+###### Artículo 13.
 
-III.- El 24 de febrero;
+Cada Subprocuraduría tendrá las Unidades, Direcciones, Coordinaciones, Agencias del Ministerio Público y demás personal que sea necesario para el cumplimiento de sus funciones.
 
-IV.- El tercer lunes de marzo en conmemoración del 21 de marzo;
+###### Artículo 14.
 
-V.- Los días 1 y 5 de mayo;
+Además de lo señalado en la presente Ley, el Reglamento establecerá la integración, tipo, especialidad y atribuciones de los órganos a que se refiere el artículo 11 de esta ley, así como las facultades, obligaciones y sanciones de quienes los integren.
 
-VI.- El 17 de julio;
+###### Artículo 15.
 
-VII.- Los días 15 y 16 de septiembre;
+Los Agentes del Ministerio Público, de la Policía Ministerial y los peritos se organizaran de conformidad con el Reglamento del Servicio de Carrera de Procuración de Justicia, y con el Reglamento de esta Ley y con los acuerdos que emita el Procurador General de Justicia al efecto, en los cuales se deberán tomar en consideración las categorías del servicio de carrera de procuración de justicia.
 
-VIII.- El 12 de octubre;
+###### Artículo 16.
 
-IX.- El 2 de noviembre y el tercer lunes de noviembre en conmemoración del 20 de noviembre;
+El Procurador, de conformidad con las disposiciones presupuestales podrá crear unidades administrativas especializadas, para la investigación y persecución de géneros de delitos, atendiendo a las necesidades del servicio, así como fiscalías especiales para el conocimiento, atención y persecución de delitos específicos que por su trascendencia, interés y características así lo ameriten.
 
-X.- El 25 de diciembre; y
+###### Artículo 17.
 
-XI.- El que determinen las leyes federales y locales electorales, en caso de elecciones ordinarias, para efectuar la jornada electoral.
+El Procurador, para la mejor organización y funcionamiento de la institución podrá delegar facultades, excepto aquellas que por disposición de la Constitución del Estado Libre y Soberano de Morelos, la presente Ley y demás ordenamientos aplicables, deban ser ejercidas por el propio procurador.
 
-En los días señalados también disfrutará el trabajador de salario íntegro.
+Así mismo podrá adscribir orgánicamente las unidades y órganos técnicos y administrativos que establezcan el Reglamento y demás disposiciones aplicables.
 
-En cuanto a los trabajadores de la educación, los días de descanso obligatorio serán aquellos que contemple el Calendario Escolar para el Estado de Sonora.
+###### Artículo 18.
 
-El Calendario Escolar para el Estado de Sonora lo elaborará anualmente la dependencia responsable del ramo y deberá publicarse, cuando menos con treinta días de anticipación al inicio del año escolar, en el Boletín Oficial del Gobierno del Estado y en los medios de comunicación que aseguren su conocimiento oportuno por la comunidad sonorense.
+Los acuerdos emitidos por el Procurador, por los cuales se disponga la creación de unidades administrativas especializadas y fiscalías especiales, se publicarán en el Periódico Oficial “Tierra y Libertad”.
 
-###### ARTICULO 28.
+### CAPÍTULO II. BASES DE ORGANIZACIÓN
 
-Los trabajadores que tengan más de seis meses consecutivos de servicios, disfrutarán de dos períodos anuales de vacaciones, de diez días hábiles cada uno, con goce de salario, según el calendario que para tal efecto formule el titular de la entidad en que presten sus servicios. Dicho calendario podrá disponer el goce de las vacaciones por grupos de trabajadores o individualmente, y en fechas escalonadas.
+###### Artículo 9.
 
-El personal al servicio del magisterio gozará del período vacacional que señale el calendario escolar aprobado por la autoridad del ramo.
+El Titular de la Institución será el Procurador, el cual ejercerá autoridad jerárquica sobre todo el personal de la Procuraduría.
 
-Disfrutarán asimismo de una prima vacacional del veinticinco por ciento sobre el sueldo presupuestal correspondiente a los dos períodos que indica el párrafo primero.
+Será nombrado conforme a lo dispuesto por los artículos 40 fracción XXXVII y 79-B de la Constitución Local.
 
-Durante las vacaciones las entidades públicas dejarán guardias para la tramitación de los asuntos urgentes, para las que se utilizarán de preferencia los servicios de quienes no tuvieren derecho a vacaciones. Los trabajadores que hubieren permanecido de guardia disfrutarán a su vez de un período de vacaciones de diez días, en cada ocasión, a contar de la fecha en que hagan entrega de las oficinas que hubieren estado a su cuidado.
+En caso de falta absoluta del Procurador o en tanto se hace la designación por el Poder Legislativo, el Gobernador del Estado podrá nombrar a una persona que se encargue temporalmente del cargo.
 
-Para los efectos de esta ley, durante los períodos de vacaciones a que se refiere el primer párrafo de este artículo no correrá ningún término legal.
+Cuando sea renovado el Poder Ejecutivo, por elección directa del Congreso del Estado, su titular podrá solicitar al Poder Legislativo la designación de un nuevo Procurador.
 
-###### ARTICULO 29.
+EL Procurador designado invariablemente deberá tener los mismos requisitos que para ser Magistrado del Tribunal Superior exige el artículo 90 de la Constitución del Estado.
 
-Las vacaciones son irrenunciables e intransferibles; quienes no hagan uso de ellas durante los períodos que señala esta ley, no podrán invocar este derecho posteriormente ni exigir compensación pecuniaria. Se exceptúa el caso en que por orden expresa del titular de la entidad pública o del superior jerárquico, el empleado sea requerido, por escrito, para prestar sus servicios durante los períodos de vacaciones.
+###### Artículo 19.
 
-###### ARTICULO 30.
+Los titulares de los órganos a que se refiere el artículo 11 de la presente ley, deberán reunir los requisitos que se establezcan en el Reglamento y demás disposiciones aplicables, y serán designados y removidos libremente por el Procurador, salvo los Agentes del Ministerio Público.
 
-Los trabajadores tendrán obligación de participar en las actividades conmemorativas de actos relevantes de la historia y la vida nacional, estatal o municipal, que organicen los titulares de la entidad pública en que presten sus servicios. El tiempo que empleen en estas actividades, les será compensado en su jornada legal.
+Agentes de la Policía Ministerial y peritos quienes además estarán sujetos en cuanto a su nombramiento y remoción a las normas de ingreso y permanencia que se establezcan en la presente Ley así como en el Reglamento del Servicio de Carrera de la Procuraduría.
 
-### CAPITULO III. DE LOS SALARIOS
+###### Artículo 20.
 
-###### ARTICULO 31.
+El Procurador tendrá las siguientes atribuciones y deberes:
 
-Salario es la retribución que debe pagarse al trabajador por virtud del nombramiento expedido en su favor y en razón de los servicios prestados.
+I. Determinar la política institucional del Ministerio Público y los criterios y prioridades en la investigación de los delitos y el ejercicio de la acción penal;
 
-###### ARTICULO 32.
+II. Dictar los criterios generales que deberán regir la protección y atención de víctimas y testigos;
 
-Los pagos se efectuarán en el lugar en que se preste el trabajo y se harán precisamente en moneda del curso legal o en cheque.
+III. Dirigir, organizar, administrar, controlar y supervisar el funcionamiento de la Institución, y ejercer la disciplina entre sus integrantes;
 
-###### ARTICULO 33.
+IV. Establecer las bases de organización de la Institución;
 
-Solamente podrán hacerse retenciones, descuentos, deducciones o embargos al salario, en los casos siguientes:
+V. Emitir instrucciones generales o particulares, al personal de la Institución sobre el ejercicio de sus funciones y la prestación del servicio;
 
-I.- Por deudas contraídas con la entidad pública por concepto de anticipo de salarios, pagos hechos con exceso, errores o pérdidas debidamente comprobados;
+VI. Designar y remover a los titulares de los órganos señalados en el artículo 11 de esta ley, conceder licencias y aceptar las renuncias de los mismos;
 
-II.- Para el pago de impuestos sobre sus remuneraciones;
+VII. Autorizar los cambios de adscripción de los funcionarios de la institución;
 
-III.- Descuentos ordenados por autoridad judicial competente, para cubrir alimentos exigidos al trabajador;
+VIII. Autorizar la aplicación de criterios de oportunidad;
 
-IV.- Para cubrir cuotas sindicales o de aportación de fondos para la constitución de cooperativas y cajas de ahorro, siempre que el trabajador hubiese manifestado previamente, de manera expresa, su conformidad.
+IX. Resolver las inconformidades interpuestas por la víctima u ofendido en contra de la negativa del Ministerio Público a reabrir la investigación;
 
-V.- Descuentos ordenados por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, en el caso de quienes están incorporados a su régimen;
+X. Conocer y resolver de las excusas y recusaciones que sean interpuestas contra los Agentes del Ministerio Público;
 
-VI.- Descuentos por faltas de asistencia injustificadas o retardos en los términos previstos por esta ley.
+XI. Emitir reglamentos, acuerdos, circulares, instructivos, manuales de organización y procedimientos y demás disposiciones jurídicas y administrativas que sean de su competencia, conducentes al buen despacho de las funciones de la Institución;
 
-El total de descuentos no podrá exceder del 30% del salario, excepto en los casos previstos por las fracciones III, V y VI de este artículo, y tratándose de pagos hechos con exceso.
+XII. Encomendar a los servidores públicos de la institución el trámite de los asuntos que estime convenientes y delegar funciones inherentes a su cargo;
 
-###### ARTICULO 34.
+XIII. Elaborar el presupuesto de la Institución y remitirlo al Titular del Ejecutivo para su remisión a la Legislatura del Estado
 
-Las horas de trabajo extraordinario se pagarán con un ciento por ciento más del salario asignado para las horas de jornada ordinaria.
+XIV. Instruir la integración de grupos o equipos especiales para la investigación de un caso determinado;
 
-###### ARTICULO 35.
+XV. Solicitar a la autoridad competente, la aplicación de sanciones a los miembros de los cuerpos de seguridad publica o empresas de seguridad privada, que infrinjan disposiciones legales o reglamentarias, omitan o retarden la ejecución de un acto propio relacionado con funciones de investigación o lo cumplan negligentemente;
 
-Cuando el salario se pague por unidad de obra, se considerará salario diario promediando el del último mes.
+XVI. Contratar profesionales, técnicos, expertos y asesores especializados, en los casos que se requiera;
 
-###### ARTICULO 36.
+XVII. Comparecer ante el Congreso del Estado para informar sobre los asuntos a su cargo;
 
-El salario no es susceptible de embargo judicial o administrativo, fuera de los casos a que se refiere el artículo 33.
+XVIII. Coadyuvar en la política estatal de prevención del delito;
 
-###### ARTICULO 37.
+XIX. Coadyuvar a la política criminal del Estado en los términos que establezcan las leyes;
 
-Es nula la cesión de salarios en favor de tercera persona.
+XX. Garantizar la autonomía técnica de la institución;
 
-### CAPITULO IV. OBLIGACIONES DE LOS TITULARES DE LAS ENTIDADES Y DEPENDENCIAS PUBLICAS EN RELACION CON LOS TRABAJADORES
+XXI. Poner en conocimiento del Consejo de la Judicatura del Poder Judicial del Estado, las irregularidades que advierten o se denuncien en los órganos jurisdiccionales o dependencias judiciales, para que se adopten las medidas pertinentes y en caso de responsabilidad, promueva lo conducente, y
 
-###### ARTICULO 38.
+XXII. Las demás que le confieran las disposiciones legales aplicables.
 
-Son obligaciones de los titulares de las entidades públicas sujetas a esta ley:
+###### Artículo 21.
 
-I.- Preferir, en igualdad de condiciones y de acuerdo con las bases del escalafón, a los trabajadores sindicalizados respecto de quienes no lo estuvieren;
+El Procurador para la mejor organización y funcionamiento de la Institución podrá delegar facultades, excepto las siguientes:
 
-II.- Reinstalar a los trabajadores o cubrir las indemnizaciones por separación injustificada y pagar los salarios caídos en los términos que señale el laudo definitivo del Tribunal;
+I. Aquellas que por disposición de la Constitución, deban ser ejercidas por el Procurador;
 
-III.- Proporcionar a los trabajadores los medios necesarios para la ejecución de su trabajo;
+II. Las señaladas dentro de los artículos 10 y 17 párrafo segundo de esta Ley, y
 
-IV.- Cubrir las aportaciones que señala la ley en favor del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora o en los convenios de incorporación a su régimen;
+III. Las previstas en las fracciones I, II, V, VI, XIV y XVIII del artículo anterior.
 
-V.- Cumplir con todos los servicios de higiene y de prevención de accidentes a que están obligados los patrones en general;
+###### Artículo 22.
 
-VI.- Conceder licencias con goce de sueldo a sus trabajadores para el desempeño de las comisiones sindicales que no excedan de cinco días hábiles y sin goce de sueldo por mayor tiempo, salvo el caso de que por la naturaleza de la comisión y a juicio del titular, debe otorgarse licencia con goce de sueldo por mayor tiempo. Las licencias que se concedan serán computadas como tiempo efectivo de servicios;
+El Procurador será nombrado de acuerdo con el procedimiento y cubriendo los requisitos que marca la Constitución.
 
-VII.- Hacer las deducciones en los salarios, que soliciten los sindicatos respectivos, siempre que se ajusten a los términos de esta ley.
+###### Artículo 23.
 
-### CAPITULO V. DE LAS OBLIGACIONES DE LOS TRABAJADORES
+El Procurador será suplido en sus excusas, ausencias o faltas temporales por el Subprocurador que señale el Reglamento y en los términos que éste disponga.
 
-###### ARTICULO 39.
+El Subprocurador ejercerá las atribuciones que la Constitución, la presente Ley y demás normas aplicables otorgan a aquel, con excepción de lo dispuesto en la fracción XVIII del artículo 20 de esta Ley.
 
-Son obligaciones de los trabajadores:
+###### Artículo 24.
 
-I.- Cumplir con la Constitución Federal de la República, la Constitución Política del Estado y las leyes que de ellas emanen, así como cuidar, dentro de su competencia, que las demás personas las cumplan;
+Para ser Subprocurador se Requiere:
 
-II.- Desempeñar sus labores con la intensidad, cuidado y esmero apropiados, sujetándose a la dirección de sus jefes o superiores jerárquicos, observando estrictamente los reglamentos interiores y las demás disposiciones que se dicten en atención al servicio;
+I. Ser ciudadano mexicano por nacimiento, y estar en pleno goce y ejercicio de sus derechos civiles;
 
-III.- Asistir puntualmente a sus labores según el horario señalado por los titulares de las entidades públicas o de las dependencias en que laboren;
+II. Tener cuando menos treinta años de edad, y no más de sesenta y cinco, el día de la designación;
 
-IV.- Coadyuvar dentro de su esfera de acción a la realización del programa gubernamental o de la entidad pública correspondiente, observando en todos sus actos completa lealtad;
+III. Poseer el día de la designación una antigüedad mínima de cinco años, título profesional de Licenciado en Derecho; expedido por la autoridad o institución legalmente facultada para ello, debidamente registrado y por lo menos cinco años de ejercicio profesional o académico en la materia penal, y
 
-V.- Guardar el respeto y consideración debidos a sus jefes, iguales y subordinados y tener para el público atención, consideración y respeto, dándole todas las facilidades que sean compatibles con las disposiciones dictadas para el despacho de los asuntos;
+IV. No haber sido condenado por sentencia ejecutoriada por delito doloso;
 
-VI.- No hacer propaganda de ninguna clase dentro de los edificios o lugares de trabajo;
+V. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables;
 
-VII.- Proceder con absoluta discreción en el desempeño de sus labores, guardando la reserva necesaria en los asuntos de que tenga conocimiento con motivo de su trabajo; esta obligación persistirá aún después de que el trabajador se separe del servicio;
+VI. Haber residido en el Estado durante los cinco años anteriores al día de la designación, y
 
-VIII.- Asistir a los cursos de capacitación para mejorar su preparación y eficiencia;
+VII. Presentar examen de salud y toxicológico de una Institución Pública de Salud.
 
-IX.- Acreditar su buena salud mediante certificado médico al ingresar al servicio y sujetarse a exámenes médicos cuando el titular de la entidad en que preste sus servicios lo requiera.
+###### Artículo 25.
 
-El incumplimiento de estas obligaciones, si no amerita otra sanción, dará lugar a un extrañamiento que impondrá el titular de la dependencia o el superior jerárquico del trabajador, con audiencia de éste, y constituirá nota desfavorable en su expediente.
+Para ser Visitador General se requiere cumplir los mismos requisitos que para ser Subprocurador.
 
-### CAPITULO VI. DE LA SUSPENSION DE LA RELACION DEL SERVICIO CIVIL
+###### Artículo 26.
 
-###### ARTICULO 40.
+Los Subprocuradores podrán intervenir con el carácter de Agentes del Ministerio Público en los asuntos que el Procurador determine.
 
-La relación personal de trabajo se suspende en los siguientes casos:
+###### Artículo 27.
 
-I.- Por licencia concedida en los términos de esta ley, por todo el tiempo que dure;
+Para la designación y permanencia en la Institución del personal del Ministerio Público, de la Policía Ministerial y los Peritos de la Procuraduría, se atenderá a las siguientes disposiciones, sin perjuicio de las normas complementarias contenidas en el reglamento de esta Ley, en los acuerdos internos que se expidan y demás leyes aplicables.
 
-II.- Por haberse dictado auto de formal prisión en contra del trabajador por delitos cometidos en el ejercicio de sus funciones, por todo el tiempo que dure el proceso y hasta que se pronuncie sentencia ejecutoria;
+###### Artículo 28.
 
-III.- Por encontrarse el trabajador privado de su libertad con motivo de algún proceso por delitos no cometidos en el ejercicio de sus funciones;
+Para ingresar y permanecer como Agente del Ministerio Público se requiere:
 
-IV.- Por incapacidad temporal del trabajador, física o mental, que le impida el desempeño de sus labores;
+I. Para ingresar:
 
-V.- Los trabajadores que tengan encomendado el manejo de fondos o valores o la custodia de bienes, podrán ser suspendidos hasta por sesenta días por el titular de la entidad pública o dependencia respectiva, cuando apareciere alguna irregularidad en su gestión mientras se practica la investigación y se resuelve sobre su situación laboral;
+a) Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles; En (sic) igualdad de circunstancias, se preferirá a los ciudadanos morelenses.
 
-VI.- Porque el trabajador contraiga alguna enfermedad que implique un peligro para las personas que trabajen con él o esté en contacto directo con personas que padezcan enfermedades contagiosas en razón de alguna obligación legal o moral ineludible; esta circunstancia se acreditará mediante examen médico.
+b) Tener por lo menos veinticinco años de edad al momento de su nombramiento; y contar con una experiencia profesional de por lo menos tres años contados a partir de la expedición del título profesional al día de la designación;
 
-###### ARTICULO 41.
+c) Contar con título de Licenciado en Derecho expedido y registrado legalmente, y con la correspondiente cédula profesional;
 
-Las plazas temporalmente vacantes con motivo de la suspensión a que se refiere el artículo anterior, serán cubiertas por trabajadores eventuales, temporales o interinos y por todo el tiempo que dure la suspensión.
+d) Aprobar el proceso de evaluación inicial de control de confianza;
 
-Si la vacante se convierte en definitiva, el trabajador sustituto tendrá derecho a que se le extienda nombramiento definitivo, siempre y cuando cumpla con los mismos requisitos exigidos para ocupar una plaza definitiva y no se lesionen derechos escalafonarios; en este caso, será preferido para ocupar la vacante que resulte del movimiento escalafonario que se hubiere realizado.
+e) Cumplir satisfactoriamente los requisitos y procedimientos de ingreso a que se refiere esta Ley y las disposiciones aplicables conforme a ésta;
 
-### CAPITULO VII. DE LA TERMINACION DE LA RELACION DEL SERVICIO CIVIL
+f) No estar sujeto a proceso penal por delito doloso;
 
-###### ARTICULO 42.
+g) No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables;
 
-La relación de trabajo termina:
+h) Ser de notoria buena conducta y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso;
 
-I.- Por renuncia del trabajador legítimamente aceptada;
+i) No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo, y
 
-II.- Por supresión de la plaza en el presupuesto de egresos o en la ley respectiva; el interesado podrá optar por su indemnización igual a tres meses del último salario que disfrutaba o su colocación en otra plaza disponible, si reúne los requisitos necesarios;
+j) Los demás requisitos que establezcan otras disposiciones aplicables.
 
-III.- Por conclusión del término señalado en el nombramiento o de la obra determinada para la que fue contratado el trabajador;
+Para acreditar lo anterior el aspirante deberá exhibir a la Unidad administrativa correspondiente de la Institución, los documentos que acrediten lo anterior, quedando reservado el derecho de la misma para verificar la credibilidad de los mismos.
 
-IV.- Por muerte del trabajador;
+En caso de ser nombrado y haber incurrido en falsedad en relación a la información proporcionada será removido libremente del cargo, dentro de los treinta días posteriores a su nombramiento.
 
-V.- Por incapacidad permanente del trabajador, que le impida el desempeño de sus labores;
+En ningún caso podrá causar alta como Agente del Ministerio Público, la persona que no sea evaluada y aprobada conforme a los exámenes requeridos para su ingreso, y de la que no se haya obtenido sus antecedentes en el Registro Nacional de Personal del Sistema Nacional de Seguridad Pública o en cualquiera otra institución o dependencia que pudiere tenerlos.
 
-VI.- Por resolución firme del Tribunal, en los casos siguientes:
+II. Para permanecer:
 
-a) Por incurrir el trabajador en faltas de probidad u honradez o en actos de violencia, amagos, injurias o malos tratamientos contra sus jefes o compañeros o contra los familiares de unos u otros, ya sea dentro o fuera de las horas de servicio, independientemente de la sanción que le corresponda si constituye un delito;
+a. Seguir los programas de actualización y profesionalización que establezcan las disposiciones aplicables;
 
-b) Por tener más de tres faltas injustificadas de asistencia a sus labores en el lapso de treinta días, aún cuando no sean consecutivas;
+b. Aprobar los procesos de evaluación de control de confianza y de evaluación del desempeño, permanentes, periódicos y obligatorios que establezca el Reglamento y demás disposiciones aplicables;
 
-c) Por destruir intencionalmente o con extrema imprudencia, bienes relacionados con el trabajo;
+c. No ausentarse del servicio sin causa justificada por un período de tres días consecutivos, o de cuatro días dentro de un término de treinta días;
 
-d) Por cometer actos inmorales durante el trabajo;
+d. Participar en los procesos de ascenso que se convoquen conforme a las disposiciones aplicables;
 
-e) Por revelar los asuntos secretos o reservados de que tuviere conocimiento con motivo del trabajo;
+e. Cumplir los requisitos de ingreso durante el servicio, y
 
-f) Por comprometer con su imprudencia, descuido o negligencia, la seguridad y el funcionamiento de la oficina o centro de trabajo donde preste sus servicios o de las personas que ahí se encuentren;
+f. Los demás requisitos que establezcan las disposiciones aplicables.
 
-g) Por desobedecer sin justificación las órdenes que reciba de sus superiores;
+###### ARTÍCULO 29.
 
-h) Por concurrir al trabajo en estado de embriaguez o bajo la influencia de narcóticos o drogas enervantes, salvo que exista prescripción médica;
+Para ingresar y permanecer como perito de carrera, se requiere:
 
-i) Por falta de cumplimiento a las condiciones generales de trabajo de la oficina o centro laboral;
+I. Para ingresar:
 
-j) Por prisión que sea el resultado de una sentencia ejecutoria con motivo de un delito intencional;
+a) Cumplir con los requisitos que señalan los incisos a), d), e), f), g), h), i) y j) de la fracción I del artículo anterior, y
 
-k) Por solicitar o aceptar obsequios, recompensas o préstamos a las personas con quienes traten asuntos oficiales o como consecuencia de éstos;
+b) Tener título legalmente expedido y registrado por la autoridad competente que lo faculte para ejercer la ciencia, técnica, arte o disciplina de que se trate, o acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que deba dictaminar, cuando de acuerdo con las normas aplicables no necesite título o cédula profesional para su ejercicio, caso en el cual deberá acreditar de igual forma que cuenta con estudios mínimos de bachillerato o su equivalente.
 
-l) Por realizar gestiones propias o mediante interpósita persona, en favor de terceros en asuntos que competan a la dependencia en que preste sus servicios;
+Para acreditar lo anterior el aspirante deberá exhibir a la Unidad administrativa correspondiente de la Institución, los documentos que acrediten lo anterior, quedando reservado el derecho de la Institución, para verificar la credibilidad de los mismos.
 
-m) Por presentar documentos falsos para obtener el empleo u ocultar circunstancias que lo excluirían del servicio, o haber ejecutado actos ilícitos para el mismo objeto;
+En caso de ser nombrado y haber incurrido en falsedad en relación a la información proporcionada será removido libremente del cargo, dentro de los treinta días posteriores a su nombramiento.
 
-n) Por ejecutar habitualmente en su vida privada actos que puedan poner en peligro los intereses de la entidad pública en que preste sus servicios, tratándose de empleados que manejen fondos o valores;
+En ningún caso podrá causar alta como Perito, la persona que no sea evaluada y aprobada conforme a los exámenes requeridos para su ingreso, y de la que no se haya obtenido sus antecedentes en el Registro Nacional de Personal del Sistema Nacional de Seguridad Pública o en cualquiera otra institución o dependencia que pudiere tenerlos.
 
-ñ) Por cualquier otra causa similar a las anteriores, a juicio del Tribunal.
+II. Para permanecer:
 
-En los casos a que se refiere esta fracción el trabajador será suspendido en su trabajo pero si el Tribunal resuelve que el cese es injustificado, tendrá derecho al pago de salarios caídos.
+a) Deberá satisfacer los requisitos a que se refiere la fracción II del artículo anterior.
+
+###### Artículo 30.
+
+Para ingresar y permanecer como Agente de la Policía Ministerial, se requiere:
+
+I. Para ingresar:
+
+a) Ser ciudadano mexicano por nacimiento y en pleno ejercicio de sus derechos, y una edad mínima de veintiún años de edad;
+
+b) Observar buena conducta, tener un modo honesto de vida y no haber sido sentenciado ejecutoriamente como responsable de algún delito intencional;
+
+c) Escolaridad mínima de bachillerato o su equivalente;
+
+d) Haber realizado el curso y aprobado los exámenes correspondientes que practique el Colegio Estatal de Seguridad Pública del Estado de Morelos;
+
+e) No estar suspendido, ni haber sido destituido o inhabilitado por resolución firme como servidor público.
+
+f) No consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo;
+
+g) Tener acreditado el Servicio Militar Nacional;
+
+h) No estar sujeto a proceso penal, ni haber sido condenado por sentencia irrevocable como responsable de un delito intencional; y,
+
+i) Haber sido evaluado y aprobado conforme a los exámenes requeridos para su ingreso, y de la que no se hayan obtenido antecedentes negativos del Registro Nacional de Personal del Sistema Nacional de Seguridad Pública o en cualquiera otra institución o dependencia que pudiere tenerlos.
+
+j) Los demás requisitos que establezcan las disposiciones aplicables.
+
+Para acreditar lo anterior el aspirante deberá exhibir a la Unidad administrativa correspondiente de la Institución, los documentos que acrediten lo anterior, quedando reservado el derecho de la Institución, para verificar la credibilidad de los mismos.
+
+En caso de ser nombrado y haber incurrido en falsedad en relación a la información proporcionada será motivo de destitución del cargo.
+
+II. Para permanecer:
+
+a) Abstenerse de realizar cualquier acto o incurrir en omisión, de forma tal que cause la suspensión o deficiencia del servicio, o implique abuso o ejercicio indebido de su cargo;
+
+b) Haber cumplido con el nivel académico requerido por la Institución Policial en el tiempo y forma que establezcan los reglamentos respectivos;
+
+c) No tener antecedentes penales por delito doloso en el país o por aquellos que se consideren como tales en el extranjero;
+
+d) No acumular más de dos inasistencias al servicio, sin causa justificada, en un período de sesenta días;
+
+e) Actuar con probidad y honradez, durante o fuera del ejercicio de sus funciones;
+
+f) Abstenerse de poner en peligro a cualquier persona que preste servicios para la Dependencia, a otros miembros de las Instituciones Policiales y a los particulares, por causa de imprudencia, descuido o negligencia;
+
+g) No ausentarse de su función, sin causa justificada, durante la prestación del servicio;
+
+h) Guardar la confidencialidad de los asuntos secretos o reservados de los que tenga conocimiento por motivo o en ejercicio de sus funciones;
+
+i) Abstenerse de recibir o solicitar, dinero o cualquier otro tipo de dádivas, con motivo del cumplimiento de sus obligaciones;
+
+j) Abstenerse de usar el armamento y equipo de cargo autorizado para la prestación del servicio, para fines diversos al desempeño del mismo;
+
+k) Acudir a la realización de exámenes médicos, físicos, de personalidad, de conocimientos, de laboratorio, de no adicción, de uso de substancias psicotrópicas, enervantes, depresivas y estupefacientes; y demás que sean necesarios para la debida prestación del servicio;
+
+l) Aprobar los exámenes que resulten indispensables para asegurar la debida prestación el (sic) servicio;
+
+m) Abstenerse de acudir al servicio con aliento alcohólico, estado de ebriedad o bajo la (sic) influjo de sustancias psicotrópicas, enervantes, depresivas o estupefacientes.
+
+n) Abstenerse de consumir bebidas alcohólicas durante la prestación del servicio;
+
+o) Abstenerse de consumir sustancias psicotrópicas, enervantes, depresivas o estupefacientes durante o fuera de la prestación del servicio;
+
+p) Abstenerse de utilizar vehículos, para el ejercicio de sus funciones, que no les hubieren sido asignados para tal fin, o bien utilice vehículos robados, excepto en los casos en que deban ser trasladados estos, para su resguardo;
+
+q) Abstenerse de presentar documentación o información falsa o alterada;
+
+r) Abstenerse de usar indebidamente, sustraer, destruir, ocultar o inutilizar información, documentación, bienes u objetos, que se encuentren bajo su custodia o a la cual tenga acceso o conocimiento en virtud de su cargo;
+
+s) Abstenerse de dar a conocer un documento o noticia que deba mantener en secreto;
+
+t) Abstenerse de liberar a los detenidos sin orden de la autoridad competente;
+
+u) No ejercer sus funciones, comisiones o encargos, u ostentarse con un cargo distinto al conferido, y
+
+v) No ser sancionado con separación definitiva.
+
+### CAPÍTULO III. DEL PROCURADOR
+
+###### Artículo 31.
+
+Previo al ingreso como Agente del Ministerio Público, Agente de la Policía Ministerial o perito, y cualquier otro servidor público de la Institución, será obligatorio que la Procuraduría consulte los requisitos y antecedentes de la persona respectiva, en el Registro Nacional y Estatal de Seguridad Pública, en los términos previstos en las disposiciones legales aplicables, para asegurarse que dicho elemento a ingresar, no cuente con antecedentes en dicho Registro de haber sido sancionado.
+
+###### Artículo 32.
+
+Los Agentes del Ministerio Público, Agentes de la Policía Ministerial y peritos, serán nombrados y removidos de conformidad con las disposiciones de esta Ley, su Reglamento, el Servicio de Carrera de Procuración de Justicia, el Reglamento de la Policía Ministerial y demás disposiciones aplicables.
+
+La selección, ingreso, nombramiento, permanencia, formación, capacitación, actualización, especialización, ascenso, reingreso, estímulos, reconocimientos, retiro y remoción de los Agentes de la Policía Ministerial se sujetará a lo previsto en esta Ley, en el Reglamento de la Policía Ministerial el Reglamento del Servicio de Carrera de Procuración de Justicia y en las demás disposiciones legales y reglamentarias aplicables.
+
+Las (sic) demás funcionarios y servidores públicos de la Procuraduría, distintos a los que la Ley les establece un régimen especial, serán nombrados y removidos libremente por el Procurador.
+
+###### Artículo 33.
+
+Todos los servidores públicos de la Procuraduría, además de los requisitos exigidos por esta Ley y su Reglamento, para poder desempeñar un cargo, deberán aprobar los exámenes psicométrico, de detección de drogas de abuso y aquellos otros que por medio de Acuerdo o Circular determine el Procurador General.
+
+###### Artículo 34.
+
+Los funcionarios de la Procuraduría serán suplidos en sus ausencias en los términos que establezca el Reglamento.
+
+###### Artículo 35.
+
+El Servicio de Carrera de Procuración de Justicia aplica a los Agentes del Ministerio Público, Agentes de la Policía Ministerial así como a los peritos profesional y técnico.
+
+###### Artículo 36.
+
+El Servicio de Carrera de Procuración de Justicia garantizará la igualdad de oportunidades laborales, así como la estabilidad, permanencia, remuneración adecuada, capacitación y garantías de seguridad social para el Servidor Público en los términos que el Reglamento en la materia establezca.
+
+###### Artículo 37.
+
+Los procedimientos o sistemas para la selección, ingreso, formación, capacitación, actualización, especialización, ascenso, reingreso, estímulos, reconocimientos y retiro del personal de la Procuraduría serán regulados por el Reglamento que establezca las bases para la organización, funcionamiento y desarrollo del servicio civil y profesional de carrera en la Institución, mismo que deberá garantizar la debida transparencia y objetividad en la evaluación de los méritos e idoneidad de los postulantes, candidatos o funcionarios.
+
+### CAPÍTULO IV. DE LOS NOMBRAMIENTOS, REMOCIONES Y AUSENCIAS
+
+###### Artículo 38.
+
+La terminación del Servicio de Carrera de Procuración de Justicia será:
+
+I. Ordinaria que comprende:
+
+a) La renuncia;
+
+b) La incapacidad permanente para el desempeño de sus funciones;
+
+c) La jubilación, y
+
+d) La muerte del miembro del Servicio de Carrera de Procuración de Justicia.
+
+II. Extraordinaria que comprende:
+
+a) La separación del servicio por el incumplimiento de los requisitos de ingreso y permanencia en la Procuraduría, y
+
+b) La remoción.
+
+### CAPÍTULO V. DE INGRESO Y PERMANENCIA
+
+###### Artículo 39.
+
+La Visitaduría General será la encargada de resolver en única instancia los procedimientos de separación del servicio de carrera y de remoción conforme a las disposiciones aplicables de esta Ley y su Reglamento.
+
+### CAPÍTULO VI. SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA
+
+###### Artículo 40.
+
+Los Agentes del Ministerio Público, Agentes de la Policía Ministerial y Peritos que hayan sido separados del Servicio de Carrera de Procuración de Justicia por el incumplimiento de los requisitos de ingreso y permanencia, en ningún caso procederá su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que hubiere promovido.
+
+###### Artículo 41.
+
+Los Agentes del Ministerio Público, Agentes de la Policía Ministerial y peritos que estén sujetos a proceso penal como probables responsables de delito doloso, calificado como grave por la Ley, serán suspendidos en sus funciones, desde que se dicte el auto de formal prisión o de vinculación a proceso y hasta que se emita sentencia ejecutoriada.
+
+En caso de que ésta fuese condenatoria serán destituidos; si por el contrario, fuese absolutoria, los agentes del Ministerio Público, agentes de la policía ministerial, o Peritos sólo tendrán derecho a recibir el pago de una indemnización equivalente a 3 meses de su salario, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+
+Sólo en caso de que el Procurador lo estime conveniente, se le reincorporará al servicio, y se le cubrirá la indemnización a que tenga derecho.
+
+### CAPÍTULO VII. PROCESOS DE FORMACIÓN Y EVALUACIÓN DE LOS SERVIDORES PÚBLICOS
+
+###### Artículo 42.
+
+Los procedimientos o sistemas para la selección, ingreso, formación, capacitación, actualización, especialización, ascenso, reingreso, estímulos, reconocimientos y retiro del personal de la Procuraduría serán regulados por el Reglamento que establezca las bases para la organización, funcionamiento y desarrollo del servicio civil y profesional de la carrera en la Institución, mismo que deberá garantizar la debida transparencia y objetividad en la evaluación de los méritos e idoneidad de los postulantes, candidatos o funcionarios.
 
 ## TITULO TERCERO. DEL ESCALAFON
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 3 DE ENERO DE 1983)</small>
 
-###### ARTICULO 43.
+###### Artículo 43.
 
-Se entiende por escalafón el sistema organizado en cada entidad o dependencia, conforme a las bases establecidas en este título, para efectuar las promociones de ascensos de los trabajadores y autorizar las permutas. Tratándose de personal docente al servicio del ramo educativo, las permutas serán substituídas por los cambios de adscripción y conforme al reglamento de éstos.
+Los servidores públicos de la Procuraduría serán evaluados periódicamente en su desempeño de conformidad con las normas que establezca el titular de la Institución. La evaluación determinará su permanencia y promoción en la Procuraduría.
 
-###### ARTICULO 44.
+###### Artículo 44.
 
-Tienen derecho a participar en los concursos para ser ascendidos, todos los trabajadores de base en la plaza del grado inmediato inferior.
+Los servidores públicos de la institución serán sujetos de las responsabilidades civiles, administrativas y penales que correspondan por hechos u omisiones que realicen en ejercicio de sus funciones.
 
-###### ARTICULO 45.
+Los Agentes del Ministerio Público, los Agentes de la Policía Ministerial y Peritos, se regirán por esta Ley para los efectos precisados por el artículo 123, apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos.
 
-Son factores escalafonarios: los conocimientos; la aptitud; la disciplina y la puntualidad.
+Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese, o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización la cual no podrá exceder del equivalente al monto por concepto de tres meses de salario integrado, así como al pago de las demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio y (sic)
 
-###### ARTICULO 46.
+###### Artículo 45.
 
-Se entiende:
+Son causas de responsabilidad administrativa de los servidores públicos de esta Institución:
 
-a) Por conocimiento: la posesión de los principios teóricos y prácticos que se requieren para el desempeño de una plaza;
+I. Incumplir con los deberes y obligaciones, que señala la presente Ley, su reglamento y demás leyes y acuerdos aplicables;
 
-b) Por aptitud: la suma de facultades físicas y mentales, la iniciativa, la laboriosidad y la eficacia para llevar a cabo una actividad determinada.
+II. No cumplir, retrasar o perjudicar por negligencia y/o causa injustificada, la procuración de justicia;
 
-###### ARTICULO 47.
+III. Desempeñar otro puesto oficial, ejercer la abogacía, sino en causa propia, de su cónyuge, concubinario (a) de sus ascendientes o descendientes, de sus hermanos, adoptante o adoptado;
 
-Las vacantes se otorgarán, en primera instancia, a los trabajadores de la categoría inmediata inferior que acrediten mejores derechos en la valoración y calificación de los factores escalafonarios. Si ninguno de ellos puede pasar el concurso correspondiente, tendrán derecho a concursar todos los trabajadores de categorías inferiores en la misma rama y, en tercera instancia, los trabajadores de otras ramas.
+IV. Utilizar los recursos humanos y materiales, así como las facultades que estén atribuidas y la información a que tenga acceso por su función, para fines distintos a que estén destinados;
 
-###### ARTICULO 48.
+V. No custodiar ni conservar la documentación e información que por razón de su empleo, cargo o comisión esté a su cuidado o a la cual tenga acceso;
 
-Los factores escalafonarios podrán ser calificados por medio de tabuladores o a través de sistemas adecuados de registro y evaluación, adoptados con anterioridad al concurso.
+VI. Autorizar a sus subordinados licencias, permisos, suspensiones o faltas a las labores cuando no tenga facultad para ello o sin justificación;
 
-En caso de no haberse adoptado algún sistema de evaluación, la calificación se hará conforme a la costumbre y a la buena fe.
+VII. Autorizar la selección, contratación, nombramiento o designación de personas que se encuentren inhabilitadas por resolución firme de la autoridad competente para ocupar un empleo o cargo en el servicio público;
 
-En todo caso, se verificarán las pruebas a que se sometan los concursantes y se calificarán los factores escalafonarios teniendo en cuenta los documentos, constancias y hechos que los comprueben.
+VIII. Faltar, sin causa justificada, a sus oficinas cuatro veces consecutivas en un plazo de treinta días; o a dos turnos, cuando su horario de labores sea por turno;
 
-###### ARTICULO 49.
+IX. Que con su conducta u omisión, tenga como consecuencia traspapelar expedientes, extraviar escritos, dificultar o demorar el ejercicio de los derechos de las partes o procuración de justicia;
 
-En cada entidad o dependencia, podrá funcionar una Comisión Mixta de Escalafón, integrada con igual número de representantes del titular y del sindicato, de acuerdo con las necesidades de la misma entidad, quienes designarán un árbitro que decida los casos de empate. Si no hay acuerdo, la designación la hará el Tribunal en un término que no excederá de diez días y de una lista de dos candidatos propuestos por cada una de las partes en conflicto.
+X. Sustraer, sin causa justificada, los expedientes y documentos de las oficinas en que deben estar;
 
-En las entidades o dependencias en que no existan estas comisiones, se procederá de la manera siguiente:
+XI. No elaborar ni presentar con oportunidad las promociones que por motivo de su encargo tenga que hacerlo y que derivado de lo anterior ocasione un perjuicio;
 
-La apreciación de los conocimientos y aptitudes de los aspirantes a cargos no profesionales, podrán ser sujetos a un examen de oposición, a juicio del titular de la entidad pública o de la dependencia respectiva; los temas para los exámenes y las oposiciones serán dados a conocer a los interesados con una anticipación no menor de diez días y no mayor de cuarenta; los exámenes se efectuarán ante la presencia del titular de la entidad pública o de su representante o delegado.
+XII. No observar buena conducta, en sus actos tanto personales como de funcionario público, que lleven a cabo una mala imagen a la Institución o causen perjuicio o molestia a la Ciudadanía;
 
-Los obreros que presten servicios a entidades públicas serán seleccionados por los directores técnicos o responsables generales de las obras en que se empleen, siguiendo para ello un procedimiento similar al señalado en el párrafo anterior.
+XIII. Aceptar ofrecimientos o promesas, solicitar o recibir por sí o por interpósita persona, dinero u objetos, dadivas o cualquier remuneración, por ejercer las funciones de su cargo o por dejar de ejercitarlas;
 
-###### ARTICULO 50.
+XIV. No presentar acusación contra las personas que aparezcan responsables de la comisión de hechos delictivos;
 
-Los titulares de las dependencias proporcionarán a las Comisiones Mixtas de Escalafón los medios administrativos y materiales para su eficaz funcionamiento.
+XV. No cumplir con los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones;
 
-###### ARTICULO 51.
+XVI. Cometer actos de violencia, amagos, malos tratos o faltas de respeto contra sus superiores, compañeros o subordinados, ya sea dentro o fuera de las horas de trabajo;
 
-El personal de cada dependencia será clasificado según las categorías señaladas en el presupuesto correspondiente o conforme con las categorías que los propios organismos establezcan dentro de su régimen interno.
+XVII. Ingerir bebidas alcohólicas, sustancia (sic) psicotrópicas o estupefacientes dentro del área u horario de su trabajo, así como ser adicto a cualquier droga, o estupefaciente;
 
-###### ARTICULO 52.
+XVIII. Presentarse a laborar con aliento alcohólico, en estado de embriaguez o bajo la influencia de psicotrópicos o estupefacientes o con un grado que arroje resultados positivos a los exámenes toxicológicos;
 
-Las Comisiones Mixtas de Escalafón podrán expedir sus propios reglamentos y reformar los existentes, sujetos a la aprobación del Tribunal.
+XIX. Desobedecer sin justificación, las órdenes relacionadas con el servicio que dicten sus superiores;
 
-###### ARTICULO 53.
+XX. Retardar o negar indebidamente a los particulares la prestación de un servicio que tenga la obligación de proporcionar;
 
-Los titulares darán a conocer las vacantes que se presenten dentro de los diez días siguientes al en que se dicte el aviso de baja o se apruebe oficialmente la creación de plazas de base y procederán desde luego a convocar al primer concurso, entre los trabajadores de la categoría inmediata inferior, mediante circulares o boletines que se fijarán en lugares visibles de los centros de trabajo correspondientes.
+XXI. Distraer de su objeto, para uso propio o ajeno, el equipo, elementos materiales o bienes asegurados, que se hayan puesto a disposición y bajo resguardo de la autoridad correspondiente, o bien de aquellos propios de la institución;
 
-###### ARTICULO 54.
+XXII. Ordenar o realizar la detención o retención de persona alguna sin cumplir previamente con los requisitos previstos para tal efecto por la Constitución Política de los Estados Unidos Mexicanos;
 
-Las convocatorias señalarán los requisitos para aplicar derechos, plazos para presentar solicitudes de participación en los concursos y demás datos que determinen las Comisiones Mixtas de Escalafón y los reglamentos.
+XXIII. Ejercer las funciones de tutor, curador o albacea judicial, a no ser que tenga el carácter de heredero o legatario o se trate de sus ascendientes, descendientes, hermanos, adoptante o adoptado, y
 
-###### ARTICULO 55.
+XXIV. Las demás que contravengan las disposiciones legales y reglamentarias aplicables.
 
-La vacante se otorgará al trabajador que obtenga la mejor calificación, de entre los que prueben ser capaces para el cargo.
+###### Artículo 46.
 
-###### ARTICULO 56.
+Son obligaciones de los Agentes del Ministerio Público, con independencia de las señaladas en las disposiciones legales y reglamentarias aplicables, así como la presente ley, su reglamento:
 
-Las plazas de última categoría disponibles en cada grupo, una vez corridos los escalafones respectivos con motivo de las vacantes que ocurrieren, serán cubiertas por el titular con sujeción a los requisitos exigidos para su ingreso.
+I. Recibir las denuncias o querellas relativas a comisión de hechos punibles que puedan constituir delito; y propiciar de estas ultimas su solución a través de los medios alternos;
 
-###### ARTICULO 57.
+II. Investigar la existencia de los hechos punibles que puedan configurar delito del orden común que tengan conocimiento;
 
-Cuando se trate de vacantes temporales que no excedan de seis meses, no se moverá el escalafón; el titular de la dependencia de que se trate nombrará y removerá libremente al empleado interino que deba cubrirla.
+III. Practicar las diligencias necesarias para la acreditación del cuerpo del delito y la probable responsabilidad del indiciado;
 
-###### ARTICULO 58.
+IV. Hacer todas las promociones que sean conducentes a la tramitación de los procedimientos de su competencia y realizar todas las demás atribuciones que la Ley y demás disposiciones aplicables les confieran;
 
-Las vacantes temporales mayores de seis meses serán ocupadas por riguroso escalafón; pero los trabajadores ascendidos serán considerados en todo caso con el carácter de interinos, de tal modo que si el empleado nominal reingresare al servicio, automáticamente se correrá en forma inversa el escalafón y el trabajador interino de nuevo ingreso en la última categoría correspondiente, dejará de prestar sus servicios sin responsabilidad para el titular.
+V. Velar por la Legalidad y respeto a los derechos humanos, en la esfera de su competencia, promoviendo la pronta, expedita y debida procuración de justicia;
 
-###### ARTICULO 59.
+VI. Expedir constancias, registros o copias que obren en su poder, cuando sean solicitadas por autoridades competentes que funden y motiven su petición, por el denunciante, víctima u ofendidos, inculpado o su defensor o quien tenga interés legítimo;
 
-Las permutas de empleos y las inconformidades de los trabajadores afectados por trámites o movimientos escalafonarios, serán sometidos a la decisión del Tribunal.
+VII. Identificarse con su credencial o gafete ante las personas con quienes se relacionen con motivo de su cargo, empleo o comisión, absteniéndose de usar las mismas en casos ajenos al servicio;
+
+VIII. Guardar la debida reserva en el cumplimiento de sus obligaciones, evitando toda comunicación innecesaria que entorpezca, perjudique o paralice el desempeño normal de los asuntos a su cargo;
+
+IX. Acatar estrictamente las órdenes que reciban de sus superiores;
+
+X. Salvaguardar bajo su más estricta responsabilidad los bienes propiedad del Gobierno del Estado que les fueron encomendados para el cumplimiento de su función, haciendo uso correcto y racional de los mismos, informando inmediatamente al superior jerárquico sobre cualquier falla o deficiencia que detecten, así como cualquier daño que sufrieren dichos bienes, en cuyo caso, si es por motivo de negligencia de su resguardante o poseedor deberán hacer el pago del mismo, ante la Unidad administrativa correspondiente;
+
+XI. Observar buena conducta, respetar la persona y órdenes de sus superiores jerárquicos y dar buen trato a sus subalternos, así como a la Ciudadanía en general; asimismo, informar a quien corresponda los casos de incumplimiento en el desempeño del cargo o empleo de los Servidores Públicos que conozca;
+
+XII. Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal familiar o de negocios, incluyendo aquellos de los que puedan resultar algún beneficio para el, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el Servidor Público o las personas antes referidas formen o hayan formado parte;
+
+XIII. Velar por la vida e integridad física y psicológica de las victimas de la comisión de un ilícito y de las personas detenidas o puestas a su disposición;
+
+XIV. Impedir, por los medios que tuvieren a su alcance y en el ámbito de sus atribuciones, que se infrinjan, toleren o permitan actos de tortura física o psicológica u otros tratos o sanciones crueles, inhumanos o degradantes. Los servidores públicos que tengan conocimiento de la realización de este tipo de actos deberán denunciarlo inmediatamente ante la autoridad competente;
+
+XV. Abstenerse en el desempeño de sus funciones de auxiliarse por personas no autorizadas por la ley;
+
+XVI. Someterse a los procesos de evaluación al desempeño de conformidad con las disposiciones legalmente aplicables;
+
+XVII. Desempeñar su función sin solicitar ni aceptar compensaciones, pagos o gratificaciones, y
+
+XVIII. Las demás que señalen las disposiciones legales y reglamentarias aplicables.
+
+El incumplimiento de estas obligaciones dará lugar a la sanción correspondiente en los términos de esta Ley.
+
+###### Artículo 47.
+
+Son obligaciones de los Agentes de la Policía Ministerial, con independencia de las señaladas en las disposiciones legales y reglamentarias aplicables, así como la presente ley y su reglamento:
+
+I. Velar por la Legalidad y respeto a los derechos humanos, en la esfera de su competencia, promoviendo la pronta, expedita y debida procuración de justicia;
+
+II. Cumplir con las ordenes debidamente fundadas del Ministerio Público, o autoridades administrativas de la Institución, así como auxiliar a las diferentes autoridades;
+
+III. Entregar al Ministerio Público, todos, los objetos, materiales e instrumentos del delito relacionados con las investigaciones encomendadas, así como aquellos de cualquier naturaleza que se encontraren abandonados;
+
+IV. Identificarse con su credencial o gafete ante las personas con quienes se relacionen con motivo de su cargo, empleo o comisión, absteniéndose de usar las mismas en casos ajenos al servicio;
+
+V. Guardar la debida reserva en el cumplimiento de sus obligaciones, evitando toda comunicación innecesaria que entorpezca, perjudique o paralice el desempeño normal de los asuntos a su cargo;
+
+VI. Acatar estrictamente las ordenes que reciban de sus superiores;
+
+VII. Salvaguardar bajo su más estricta responsabilidad los bienes propiedad del Gobierno del Estado que les fueron encomendados para el cumplimiento de su función, haciendo uso correcto y racional de los mismos, informando inmediatamente al superior jerárquico sobre cualquier falla o deficiencia que detecten, así como cualquier daño que sufrieren dichos bienes, en cuyo caso, si es por motivo de negligencia de su resguardante o poseedor deberán hacer el pago del mismo, ante la Unidad administrativa correspondiente;
+
+VIII. Observar buena conducta, respetar la persona y órdenes de sus superiores jerárquicos y dar buen trato a sus subalternos, así como a la Ciudadanía en general; asimismo, informar a quien corresponda los casos de incumplimiento en el desempeño del cargo o empleo de los Servidores Públicos que conozca;
+
+IX. Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal familiar o de negocios, incluyendo aquellos de los que puedan resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el Servidor Público o las personas antes referidas formen o hayan formado parte;
+
+X. Velar por la vida e integridad física y psicológica de las victimas de la comisión de ilícitos y de las personas detenidas o puestas a su disposición;
+
+XI. Participar en operativos de coordinación con otras autoridades o corporaciones policiales, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
+
+XII. Impedir, por los medios que tuvieren a su alcance y en el ámbito de sus atribuciones, que se infrinjan, toleren o permitan actos de tortura física o psicológica u otros tratos o sanciones crueles, inhumanos o degradantes. Los servidores públicos que tengan conocimiento de la realización de este tipo de actos deberán denunciarlo inmediatamente ante la autoridad competente;
+
+XIII. Abstenerse en el desempeño de sus funciones de auxiliarse por personas no autorizadas por la ley;
+
+XIV. Someterse a los procesos de evaluación al desempeño de conformidad con las disposiciones legalmente aplicables;
+
+XV. Desempeñar su función sin solicitar ni aceptar compensaciones, pagos o gratificaciones;
+
+XVI. Detener y poner a disposición del Ministerio Publico con arreglo en lo dispuesto en el Articulo 16 Constitucional a aquella persona relacionada con un hecho ilícito, y
+
+XVII. Las demás que señalen las disposiciones legales y reglamentarias aplicables.
+
+El incumplimiento de estas obligaciones dará lugar a la sanción correspondiente en los términos de esta Ley.
+
+###### Artículo 48.
+
+Son obligaciones de los Peritos, con independencia de las señaladas en las disposiciones legales y reglamentarias aplicables, así como la presente ley y su reglamento:
+
+I. Velar por la Legalidad y respeto a los derechos humanos, en la esfera de su competencia, promoviendo la pronta, expedita y debida procuración de justicia;
+
+II. Cumplir con las ordenes legalmente fundadas del Ministerio Público, o autoridades administrativas de la Institución, así como auxiliar a las diferentes autoridades;
+
+III. Entregar al Ministerio Público, todos, los objetos, materiales e instrumentos del delito relacionados con las investigaciones encomendadas, así como aquellos de cualquier naturaleza que se encontraren abandonados;
+
+IV. Identificarse con su credencial o gafete ante las personas con quienes se relacionen con motivo de su cargo, empleo o comisión, absteniéndose de usar las mismas en casos ajenos al servicio;
+
+V. Guardar la debida reserva en el cumplimiento de sus obligaciones, evitando toda comunicación innecesaria que entorpezca, perjudique o paralice el desempeño normal de los asuntos a su cargo;
+
+VI. Acatar estrictamente las ordenes que reciban de sus superiores;
+
+VII. Salvaguardar bajo su mas estricta responsabilidad los bienes propiedad del Gobierno del Estado que les fueron encomendados para el cumplimiento de su función, haciendo uso correcto y racional de los mismos, informando inmediatamente al superior jerárquico sobre cualquier falla o deficiencia que detecten, así como cualquier daño que sufrieren dichos bienes, en cuyo caso, si es por motivo de negligencia de su resguardante o poseedor deberán hacer el pago del mismo, ante la Unidad administrativa correspondiente;
+
+VIII. Observar buena conducta, respetar la persona y órdenes de sus superiores jerárquicos y dar buen trato a sus subalternos, así como a la Ciudadanía en general; asimismo, informar a quien corresponda los casos de incumplimiento en el desempeño del cargo o empleo de los Servidores Públicos que conozca;
+
+IX. Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal familiar o de negocios, incluyendo aquellos de los que puedan resultar algún beneficio para el, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el Servidor Público o las personas antes referidas formen o hayan formado parte;
+
+X. Velar por la vida e integridad física y psicológica de las personas detenidas o puestas a su disposición;
+
+XI. Participar en operativos de coordinación con otras autoridades o corporaciones policiales, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
+
+XII. Impedir, por los medios que tuvieren a su alcance y en el ámbito de sus atribuciones, que se infrinjan, toleren o permitan actos de tortura física o psicológica u otros tratos o sanciones crueles, inhumanos o degradantes. Los servidores públicos que tengan conocimiento de la realización de este tipo de actos deberán denunciarlo inmediatamente ante la autoridad competente;
+
+XIII. Abstenerse en el desempeño de sus funciones de auxiliarse por personas no autorizadas por la ley;
+
+XIV. Someterse a los procesos de evaluación al desempeño de conformidad con las disposiciones legalmente aplicables;
+
+XV. Desempeñar su función sin solicitar ni aceptar compensaciones, pagos o gratificaciones, y
+
+XVI. Las demás que señalen las disposiciones legales y reglamentarias aplicables.
+
+El incumplimiento de estas obligaciones dará lugar a la sanción correspondiente en los términos de esta Ley.
+
+###### Artículo 49.
+
+Corresponderá al Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado de Morelos, resolver las controversias que se susciten entre la Procuraduría General de Justicia y los agentes del Ministerio Público; agentes de la Policía Ministerial y los peritos.
+
+###### Artículo 50.
+
+La Visitaduría General, es el órgano de control interno, investigación, vigilancia, supervisión y evaluación técnica-jurídica de la Procuraduría General de Justicia; en su carácter de autoridad sancionadora, a través de su titular o por conducto de sus Subdirectores o los Visitadores que tenga adscritos, previa la investigación de los hechos denunciados, y en su momento el desahogo del procedimiento administrativo correspondiente, podrá imponer al personal de la Procuraduría, por las faltas cometidas en el desempeño de sus funciones, las sanciones administrativas previstas en la presente Ley.
+
+En el caso de los Agentes del Ministerio Público, peritos, personal de la Procuraduría y elementos de la Policía Ministerial, la Visitaduría General tendrá además, facultades para la aplicación de las siguientes sanciones y medidas disciplinarias:
+
+I. Arresto constitucional que no podrá rebasar un plazo mayor de treinta y seis horas, por incumplimiento de deberes o desobediencia, para el caso de los agentes de la Policía Ministerial;
+
+II. Imposición de multas de 1 a 3 días de salario mínimo general vigente por faltas injustificadas o abandono del trabajo;
+
+III. Imposición de multas de 3 a 10 días de salario mínimo general vigente, por actos de desobediencia o incumplimiento de tareas o deberes asignados;
+
+IV. Imposición de multas de 10 a 15 días de salario mínimo general vigente, por faltas graves, como desatención probada a la ciudadanía, desobediencia del superior jerárquico o descortesía hacia la ciudadanía, compañeros de trabajo o superiores jerárquicos. Otras faltas graves podrán determinarse a juicio del Visitador General, derivado de los datos que arroje la investigación de los hechos denunciados;
+
+V. Amonestación o extrañamiento en los casos de faltas no graves;
+
+VI. Anotación en expediente laboral, informe al Sistema Nacional de Seguridad Pública y/o retención en el servicio o privación de permisos de salida, hasta por quince días, por mala conducta o por aquella que lo amerite a juicio del Visitador General, y
+
+VII. Suspensión temporal o baja definitiva del servicio; en caso de reincidencia y atendiendo a la gravedad de la conducta. Se considera reincidencia la comisión de alguna de las conductas sancionables por dos veces, o más.
+
+El arresto a que hace referencia el presente artículo deberá de ser cumplimentado en el lugar y bajo las condiciones que indique la propia Visitaduría General.
+
+El Procurador General de Justicia en el ejercicio de sus funciones será sujeto a fincamiento de Responsabilidad conforme a lo dispuesto a la Constitución Política del Estado Libre y Soberano de Morelos y a la Ley Estatal de Responsabilidades de los Servidores Públicos del Estado de Morelos, por las irregularices (sic) administrativas en que incurra en el ejercicio de sus funciones.
+
+###### Artículo 51.
+
+El Visitador General, los Subdirectores, así como los Visitadores adscritos a la Visitaduría General estarán dotados de fe pública en sus actuaciones.
+
+###### Artículo 52.
+
+La investigación administrativa por probable responsabilidad administrativa, iniciará con la presentación de una queja o denuncia; también dará inicio con el resultado de las supervisiones o estudios técnicos practicados por la Visitaduría General; o una resolución judicial firme que declare responsabilidad penal, civil o patrimonial de un servidor público, siempre y cuando no haya prescrito la responsabilidad administrativa, en términos de lo establecido en la presente Ley.
+
+###### ARTÍCULO 53.
+
+El Visitador General, podrá ordenar el inicio de una investigación administrativa, cuando los hechos que son atribuibles presuntamente a servidores públicos de la institución, de oficio cuando tenga conocimiento y sean de gravedad, se hayan hecho del dominio público y la investigación de los hechos resulta necesaria.
+
+En este caso, girará las instrucciones correspondientes al ministerio público visitador, quien se avocará a investigar los hechos. En caso de que se derive una probable responsabilidad administrativa, el representante social formalizará la denuncia ante el titular de la Visitaduría, reuniendo los elementos indicados en el artículo 55 de la presente Ley.
+
+###### Artículo 54.
+
+Cualquier ciudadano, bajo su más estricta responsabilidad, podrá formular queja o denuncia ante la Visitaduría General, respecto de los actos u omisiones que realicen los servidores públicos que den origen a responsabilidad administrativa por el incumplimiento de sus obligaciones.
+
+Todo servidor público que por cualquier causa tenga conocimiento de actos u omisiones que pudieran derivar en responsabilidad administrativa por parte de otro servidor público, se encuentra obligado a poner en conocimiento inmediato de la Visitaduría General dichos actos u omisiones, con el propósito de que se inicien las investigaciones procedentes y en su caso el procedimiento de responsabilidad correspondiente; lo que deberán realizar mediante escrito que cumpla con los requisitos señalados en el artículo que antecede.
+
+###### Artículo 55.
+
+El escrito de queja o denuncia deberá reunir los siguientes requisitos:
+
+I. Nombre de la Autoridad a quien va dirigida.
+
+II. Lugar y fecha de la presentación del escrito;
+
+III. El nombre del quejoso o denunciante. En caso de que sean varios los quejosos o denunciantes deberán designar un representante común a quien se le harán las notificaciones que correspondan. Para el caso de que no se realice la designación del representante común, la autoridad tendrá como representante a cualquiera de ellos;
+
+IV. El nombre y cargo del o los servidores públicos a quienes se les imputan los hechos, en caso de que sean de su conocimiento o la manifestación bajo protesta de decir verdad que lo desconocen;
+
+V. Relación sucinta de los hechos materia de su queja o denuncia, señalando de manera precisa el acto imputado, así como las circunstancias en que se realizó, tales como: lugar, hora y fecha;
+
+VI. Señalar domicilio en el lugar donde se siga el procedimiento, para que se le notifique el primer acuerdo que recaiga sobre la queja o denuncia presentada y en su caso la resolución definitiva. En este caso, será notificado siempre y cuando los actos u omisiones que deriven en responsabilidad provoquen un detrimento en la esfera patrimonial del quejoso o denunciante;
+
+VII. En caso de que el quejoso o denunciante cuente con elementos de prueba, deberá adjuntarlos a la queja o denuncia. Tratándose de juicio político, la aportación de dichos elementos será esencial, y
+
+VIII. Firma autógrafa del quejoso o denunciante.
+
+En caso de que el quejoso o denunciante comparezca personalmente ante la Visitaduría General, deberá recibirse su declaración, la cual deberá cubrir en esencia los requisitos indicados. En su declaración se asentará el lugar, fecha, hora, sus generales, la protesta de ley, así como una relación suscita de los hechos motivo de la comparecencia. Dichos datos deberán cubrir en esencia, los requisitos indicados en el artículo antes citado.
+
+Para los efectos de la interposición y tramitación de una queja, no se requerirá abogado.
+
+###### Artículo 56.
+
+Dentro de las veinticuatro horas siguientes a aquél en que se hubiese recibido la comparecencia o el escrito de queja o denuncia, y de encontrar que éstos reúnen los requisitos indicados en el artículo que antecede, la Visitaduría General, dictará un acuerdo de radicación de la investigación administrativa, asignándole el número que por su orden corresponda según el libro de gobierno respectivo; ordenará las diligencias necesarias para el inicio de la investigación; y procederá a notificar el acuerdo de manera personal al quejoso o denunciante en el domicilio señalado para recibir notificaciones.
+
+Sin perjuicio de las diligencias ordenadas en el acuerdo de radicación, podrá instruirse las diligencias que sean necesarias para el esclarecimiento de los hechos.
+
+###### Artículo 57.
+
+Para el caso de que las quejas o denuncias no reúnan los requisitos indicados en el artículo 55 de la presente Ley, dentro del término de veinticuatro horas, se prevendrá al quejoso o denunciante para que en un plazo de tres días hábiles, contados a partir del día siguiente a aquel en que reciba la notificación, para que la aclare, corrija o complete, con la finalidad de que reúna los requisitos establecidos en dicho precepto, señalando en concreto sus defectos. La notificación se hará de manera personal.
+
+Si transcurrido el plazo previsto para subsanar la prevención, el promoverte no lo hiciere, se le tendrá por no interpuesta la queja o denuncia, sin perjuicio de que con posterioridad, pueda volver a ejercitar nuevamente su acción.
+
+En caso de que el promoverte no haya señalado domicilio para recibir notificaciones, se procederá a notificarlo en los estrados de la Visitaduría General; para tal efecto, la cédula de notificación, se fijará en el tablero visible y de fácil acceso que encuentre en las oficinas del órgano de control interno.
+
+###### Artículo 58.
+
+Para notificar los acuerdos y resoluciones emitidas en los expedientes de investigación, el Visitador General habilitará a un servidor público como notificador, quien hará las funciones de actuario judicial, teniendo las facultades y obligaciones conferidas al mismo; notificador que en su actuar observará las reglas generales del procedimiento señaladas en el Código Procesal Civil del Estado de Morelos.
+
+En la etapa de investigación administrativa, serán considerados hábiles las veinticuatro horas de los trescientos sesenta y cinco días del año.
+
+###### Artículo 59.
+
+Con la finalidad de integrar el expediente de investigación administrativa, la Visitaduría General podrá:
+
+I.- Requerir informes a cualquier servidor público de la Procuraduría y en vía de colaboración a cualquier autoridad administrativa o judicial;
+
+II.- Solicitar la expedición de copias certificadas de los documentos que obren en los archivos de las unidades administrativa (sic) u operativas de la Procuraduría; o de aquellos que obren en los archivos de cualquier autoridad administrativa o judicial;
+
+III.- Practicar inspección de todo aquello que pueda ser apreciado por medio de los sentidos, realizando la descripción detallada de lo que inspeccionó; pudiendo solicitar su aseguramiento o reproducción por cualquier medio adecuado; pudiendo incluso proceder a certificar copias de los documentos originales que tenga a la vista;
+
+IV.- Solicitar la declaración de personas que puedan aportar datos a la investigación, solicitándoles su comparecencia en las oficinas que ocupa el personal de la Visitaduría General; o bien, constituyéndose en el lugar en que se encuentren. En tratándose de mayores de dieciocho años, antes de iniciar su declaración, rendirán protesta de decir verdad, advirtiéndoles de la sanción aplicable a quien incurra en falso testimonio, para lo cual dará lectura a la disposición penal correspondiente;
+
+V.- Practicar el reconocimiento de personas a través de fotografías, dibujos u otros medios que permita la ciencia y tecnología. En caso de que así lo solicite el quejoso o denunciante, previa constancia que se levante, podrá llevarse a cabo una identificación directa, en el lugar en que se encuentre el servidor público o en las oficinas de la Visitaduría General;
+
+VI.- Solicitar dictámenes periciales a las Coordinaciones de Servicios Periciales y pedir la colaboración de otras instituciones;
+
+VII.- Realizar estudios técnico-jurídicos a las averiguaciones previas o a los expedientes judiciales en donde haya participación de servidores públicos de la Procuraduría, y
+
+VIII.- Realizar cualquier diligencia que no sea contraria a la moral o al derecho.
 
 ## TITULO CUARTO. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES DEL SERVICIO CIVIL
 
-### CAPITULO I. DE LOS SINDICATOS
+### CAPÍTULO VIII. RESPONSABILIDADES Y SANCIONES
 
-###### ARTICULO 60.
+###### Artículo 60.
 
-Para la defensa de sus intereses comunes o el mejoramiento de las condiciones generales de trabajo los trabajadores de base del servicio civil gozan del derecho de coaligarse.
+La Visitaduría General, tendrá acceso y podrá solicitar copia de los registros, constancias, información y actos procesales, que sustentan la investigación y las actuaciones de los servidores públicos de la Institución dentro de las etapas procesales o juicios que establece el Código de procedimientos Penales del Estado de Morelos.
 
-Las coaliciones de trabajadores únicamente podrán formalizarse en sindicatos, constituidos por un número de veinte trabajadores o más.
+###### Artículo 61.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+Una vez concluida la investigación, el visitador, emitirá una determinación de procedencia o improcedencia del procedimiento de responsabilidad administrativo; la que formará en caso de procedencia, parte de la litis en el procedimiento de responsabilidad administrativa que se inicie.
 
-###### ARTICULO 61.
+La determinación deberá contener los datos que identifiquen el procedimiento de investigación; los resultandos en los que se hará constar de manera detallada y cronológica las diligencias, constancias, oficios y otro tipo de información que se encuentre agregada al expediente.
 
-En los tres poderes del Estado se reconocerán únicamente dos sindicatos: uno de burócratas y otro de trabajadores de la educación. En cada Municipio y en cada una de las demás entidades públicas comprendidas en esta ley, sólo habrá un sindicato y si concurren varios grupos de trabajadores, el Tribunal otorgará el reconocimiento al mayoritario. Para fines de organización interna, los sindicatos podrán constar de diversas secciones, pero éstas no gozarán de personalidad jurídica.
+También deberá contener una parte considerativa, en donde se analizarán todos los elementos de prueba que permitan identificar la existencia de una irregularidad y una probable responsabilidad a cargo de un servidor público de la Institución.
 
-###### ARTICULO 62.
+De igual manera, se asentarán los resolutivos, que corresponden al resumen de los considerandos para determinar si el expediente se envía al archivo por improcedente; y en caso de resultar procedente, se solicitará el inicio del procedimiento administrativo, turnándose a la Subdirección de Control, o bien se eleva a procedimiento para conocimiento de los Visitadores adscritos a la Zona Oriente o Sur Poniente. Será facultad discrecional del Visitador General turnar los procedimientos administrativos al visitador que considere pertinente.
 
-Los trabajadores de confianza no podrán formar parte de los sindicatos.
+###### Artículo 62.
 
-###### ARTICULO 63.
+La investigación administrativa concluirá en un plazo de noventa días, salvo causa justificada, contados a partir de la radicación del expediente de queja o denuncia, siendo responsabilidad del Visitador, que tenga a cargo la investigación, cumplir con las disposiciones que emanan del presente Reglamento.
 
-Cuando los trabajadores sindicalizados desempeñen algún puesto de confianza, quedarán en suspenso todas sus obligaciones y derechos sindicales.
+El Subdirector de Visitaduría está obligado a vigilar el cumplimiento del plazo antes señalado; para que en caso de que el agente del ministerio público sea omiso, proceda a denunciar los hechos ante el Visitador General.
 
-###### ARTICULO 64.
+###### Artículo 63.
 
-Los sindicatos serán registrados por el Tribunal, a cuyo efecto remitirán a éste, por duplicado, los siguientes documentos:
+En la substanciación del procedimiento de responsabilidad administrativa, en todo aquello que no contravenga las disposiciones de esta Ley, serán aplicables supletoriamente las disposiciones del Código Procesal Civil para el Estado de Morelos.
 
-I.- El acta de la asamblea constitutiva, autorizada por la directiva de la agrupación;
+###### Artículo 64.
 
-II.- Los estatutos del sindicato;
+El procedimiento de responsabilidad administrativa dará inicio con motivo de:
 
-III.- El acta de la sesión en que se haya designado la directiva;
+I. La presentación de una queja o denuncia;
 
-IV.- Una lista de los miembros de que se componga el sindicato, con expresión de nombres, estado civil, edad, empleo y sueldo de cada uno; además estará suscrita por cada miembro.
+II. La resolución emitida por la Subdirección de Visitaduría, y
 
-El Tribunal al recibir la solicitud de registro, comprobará por los medios que estime más prácticos y eficaces que no existe otra asociación sindical dentro de la dependencia o entidad pública de que se trate y que la peticionaria cuenta con la mayoría de los trabajadores de esa unidad, para proceder, en su caso, al registro.
+III. Una resolución judicial firme que decrete la responsabilidad penal, civil o patrimonial de un servidor público, siempre y cuando no haya prescrito la responsabilidad administrativa.
 
-###### ARTICULO 65.
+Los servidores públicos en contra de quienes se enderecen adquirirán la calidad de probables responsables, y el promovente o accionante, coadyuvará con la autoridad sancionadora en los términos que esta proponga, salvo cuando los actos de origen provengan de auditoras externas.
 
-El registro de un sindicato se cancelará por disolución del mismo o cuando se registre diversa agrupación sindical que fuere mayoritaria. La solicitud de cancelación podrá hacerse por persona interesada y el Tribunal, en los casos de conflicto entre dos organizaciones que pretendan ser mayoritarias, ordenará desde luego el recuento correspondiente y resolverá de plano.
+###### Artículo 65.
 
-###### ARTICULO 66.
+Recibidos cualquiera de los instrumentos que dan origen al procedimiento de responsabilidad, el Visistador (sic) adscrito a la Subdirección de Control, dentro del término tres días, dictará un acuerdo por el que:
 
-Los trabajadores que por su conducta o falta de solidaridad fueren expulsados de un sindicato, perderán por ese solo hecho todos los derechos sindicales que esta ley concede. La expulsión sólo podrá votarse por la mayoría de los trabajadores del sindicato respectivo o con la aprobación de las dos terceras partes de los delegados sindicales a sus congresos o convenciones generales y previa defensa del interesado. La expulsión deberá ser comprendida expresamente en la orden del día.
+De reunirse los requisitos establecidos por esta ley para formular la queja o denuncia, radicará el procedimiento administrativo de responsabilidad, mandando emplazar al denunciado que haya sido señalado como probable responsable, para que comparezca a dar contestación a la queja o denuncia entablada en su contra, oponga sus defensas, excepciones y ofrezca las pruebas que a su derecho corresponda.
 
-###### ARTICULO 67.
+###### Artículo 66.
 
-Queda prohibida la reelección por mas de tres períodos consecutivos dentro de los sindicatos.
+El acuerdo de radicación deberá contener los siguientes requisitos:
 
-###### ARTICULO 68.
+I. Lugar, día, mes y año en que se dicte;
 
-El Estado y las demás entidades públicas a que se refiere esta ley no podrán aceptar, en ningún caso, la cláusula de exclusión.
+II. La orden de que se radique el asunto y se registre en el libro de gobierno con el número que le corresponda;
 
-###### ARTICULO 69.
+III. Señalar con precisión los hechos que se imputan al probable responsable;
 
-Son obligaciones de los sindicatos:
+IV. Precisar las hipótesis normativas que con la conducta del probable responsable se violentan;
 
-I.- Proporcionar los informes que en cumplimiento de esta ley solicite el Tribunal;
+V. Ordenar el emplazamiento a procedimiento del probable responsable;
 
-II.- Comunicar al mismo Tribunal, dentro de los diez días siguientes, los cambios que ocurrieren en su directiva o en su Comité Ejecutivo, las altas y bajas de sus miembros y las modificaciones de sus estatutos;
+VI. Comisionar a quien deba practicar el emplazamiento;
 
-III.- Facilitar la labor del Tribunal en todo lo que fuere necesario, realizando los trabajos que el propio Tribunal le encomiende relacionados con los asuntos que se ventilen ante el mismo;
+VII. Decretar las medidas de apremio que conforme a la Ley deban aplicarse;
 
-IV.- Patrocinar y representar a sus miembros ante el Tribunal u otras autoridades, salvo que el trabajador opte por ejercer personalmente sus derechos.
+VIII. Hacer del conocimiento del probable responsable el plazo que tiene para contestar, oponer sus defensas y excepciones y ofrecer las pruebas que estime convenientes para su defensa;
 
-###### ARTICULO 70.
+IX. Hacer del conocimiento del probable responsable el derecho que tiene de señalar domicilio procesal y designar Licenciado en Derecho que lo represente o en su defecto, informarle del derecho que tiene de acudir a las instancias legales que proporcionen asesoría legal gratuita;
 
-El Tribunal determinará la cancelación del registro de la directiva o del registro del sindicato, según corresponda, en los casos de violación a las siguientes prohibiciones:
+X. Decretar las medidas provisionales que se estimen convenientes cuando el caso así lo amerite;
 
-I.- Hacer propaganda de carácter religioso;
+XI. El fundamento legal en que se apoye, y
 
-II.- Ejercer la profesión de comerciante con ánimo de lucro;
+XII. Firma autógrafa de la autoridad que dicta el acuerdo y sello oficial.
 
-III.- Usar de la violencia con los trabajadores libres para obligarlos a que se sindicalicen;
+###### Artículo 67.
 
-IV.- Fomentar actos delictuosos contra personas o propiedades; y
+Los escritos de queja o denuncia y de contestación, fijan en primer lugar el debate. En el caso del llamamiento de un tercero, se establecerá la controversia con el escrito de contestación de éste y con el escrito de contestación a la vista que rinda el probable responsable que haya solicitado el llamamiento del tercero, o bien, con el acuerdo en el que se le declare precluído su derecho para dar contestación a la vista.
 
-V.- Adherirse a organizaciones o centrales obreras o campesinas.
+En caso de rebeldía, se entenderá fijado el debate por el auto en que se haga la declaración correspondiente.
 
-###### ARTICULO 71.
+###### Artículo 68.
 
-La directiva de los sindicatos será responsable ante éstos y respecto de terceras personas, en los mismos términos en que lo son los mandatarios en el derecho común.
+Cuando sean varios los denunciados, no se acordará lo relativo a la admisión o desechamiento de las pruebas hasta en tanto den contestación a la queja o denuncia o bien se acuse la correspondiente rebeldía, de todos los probables responsables; mientras tanto, se reservará el dictado del acuerdo respectivo.
 
-###### ARTICULO 72.
+###### Artículo 69.
 
-Los actos realizados por la directiva de los sindicatos obligan civilmente a éstos, siempre que hayan obrado dentro de sus facultades.
+La autoridad sancionadora podrá decretar como medida precautoria, al inicio del procedimiento administrativo de responsabilidad y hasta antes de que se dicte la resolución definitiva, la suspensión provisional del cargo del probable responsable, cuando:
 
-###### ARTICULO 73.
+I. Con su permanencia, se corra el riesgo de afectación para los gobernados y las instituciones;
 
-Las remuneraciones que se paguen a directivos y empleados de los sindicatos y, en general, los gastos que origine el funcionamiento de éstos serán a cargo de sus presupuestos, cubiertos en todo caso por las cuotas que aporten los miembros del sindicato de que se trate.
+II. Exista la posibilidad de que las evidencias o pruebas puedan ser alteradas, destruidas o modificadas;
 
-###### ARTICULO 74.
+III. Cuando se pueda ver afectada la credibilidad de imagen de la Institución, y
 
-Los sindicatos se disolverán:
+IV. Así lo solicite su superior jerárquico, fundando y motivando la causa de su petición, para que sea calificada por la autoridad sancionadora.
 
-I.- Por el voto de las dos terceras partes de los trabajadores que los integren; y
+La suspensión provisional se decretará mediante acuerdo, en el que se funde y motive la causa generadora de la misma.
 
-II.- Porque dejen de reunir los requisitos exigidos en esta ley para su constitución.
+Al resolverse en definitiva el procedimiento de responsabilidad administrativa, la autoridad sancionadora, deberá pronunciarse en torno a la suspensión provisional decretada.
 
-###### ARTICULO 75.
+En el supuesto que el servidor público suspendido temporalmente no resultare responsable de los hechos que se le imputan, la dependencia o entidad en que preste sus servicios, lo restituirá en el goce de sus derechos y le cubrirá las percepciones que debió recibir durante el tiempo en se halló suspendido.
 
-Los sindicatos podrán adherirse a una federación de sindicatos de trabajadores del servicio civil de esta entidad federativa; sólo una será reconocida.
+###### Artículo 70.
 
-###### ARTICULO 76.
+El servidor público en contra de quien se instaure el procedimiento de responsabilidad administrativa, formulará su contestación a la queja o denuncia dentro del plazo de quince días hábiles, refiriéndose a cada uno de los hechos que se le imputan, admitiéndolos o negándolos, expresando los que ignore por no ser propios o refiriéndose como considere que ocurrieron. Cuando el probable responsable aduzca hechos o Derecho incompatibles con los señalados por el actor en la queja o denuncia, se tendrá por contestada en sentido negativo de éstos últimos. El silencio y las evasivas harán que se tengan por admitidos los hechos y el Derecho sobre los que no se suscitó controversia. La negación de los hechos no entraña la admisión del Derecho, salvo lo previsto en el párrafo siguiente.
 
-Todos los conflictos que surjan entre la federación y los sindicatos o sólo entre éstos, serán resueltos por el Tribunal.
+Se presumirán confesados los hechos de la queja o denuncia que se deje de contestar; sin embargo, se tendrá por contestada en sentido negativo en los casos en que el emplazamiento se hubiere hecho por edictos.
 
-### CAPITULO II. DE LAS CONDICIONES GENERALES DEL TRABAJO
+###### Artículo 71.
 
-###### ARTICULO 77.
+Las defensas que oponga el probable responsable, cualquiera que sea su naturaleza, se harán valer en la contestación, a menos que sean supervenientes; las excepciones se podrán hacer valer hasta antes de dictar sentencia definitiva, mismas que serán resueltas en dicha resolución.
 
-Las condiciones generales de trabajo se fijarán por los titulares de la dependencia respectiva, oyendo al sindicato correspondiente.
+###### Artículo 72.
 
-###### ARTICULO 78.
+Se considerarán de previo y especial pronunciamiento las excepciones de litispendencia, competencia, conexidad, prescripción y cosa juzgada, caso en el cual la autoridad sancionadora analizará de inicio las excepciones planteadas y de resultar fundada alguna de ellas, emitirá la resolución que conforme a derecho corresponda. En todo caso, el denunciado deberá presentar conjuntamente con su contestación las pruebas que acrediten sus excepciones planteadas.
 
-En el acuerdo respectivo se determinarán:
+###### Artículo 73.
 
-I.- El horario, intensidad y calidad del trabajo;
+Si el denunciado quiere llamar a procedimiento a un tercero, deberá manifestarlo en el mismo escrito de contestación. La petición posterior no será tramitada, a menos de que se trate de un hecho desconocido para el probable responsable al momento de rendir su contestación. Sin perjuicio de lo anterior, la autoridad sancionadora podrá de oficio, llamar a un servidor público sobre el que originalmente no recayó la queja o denuncia, si de los hechos que constituyen la materia de la controversia, se deriva su posible participación ya sea de manera directa o indirecta en los mismos.
 
-II.- Las medidas que deban seguirse para prevenir la realización de riesgos profesionales;
+###### Artículo 74.
 
-III.- Las disposiciones disciplinarias y la forma de aplicarlas;
+El ofrecimiento de pruebas se realizará conjuntamente con la contestación de la queja o denuncia, salvo que se trate de pruebas supervenientes.
 
-IV.- Las fechas y condiciones en que los trabajadores deban someterse a exámenes médicos previos y periódicos;
+Son admisibles como medios de prueba aquellos elementos que puedan producir convicción en el ánimo de la autoridad sancionadora acerca de los hechos controvertidos o dudosos, salvo la confesional, declaración de parte y aquellas contrarias al derecho, a la moral y a las buenas costumbres.
 
-V.- Las demás reglas que fueren convenientes para obtener mayor seguridad y eficacia en el trabajo.
+###### Artículo 75.
 
-###### ARTICULO 79.
+Son improcedentes y la autoridad sancionadora podrá desechar de plano las pruebas que se rindan:
 
-Los sindicatos que objetaren substancialmente condiciones generales de trabajo, podrán ocurrir ante el Tribunal, el que resolverá en definitiva oyendo a ambas partes.
+I. Para demostrar hechos que no son materia de la litis o que no han sido alegados por las partes;
 
-###### ARTICULO 80.
+II. Para evidenciar hechos que han sido admitidos por las partes y sobre los que no se suscitó controversia al fijarse la litis;
 
-Las condiciones generales de trabajo surtirán efecto a partir de la fecha de depósito en el Tribunal.
+III. Para justificar hechos inverosímiles o imposibles de existir por ser incompatibles con las leyes de la naturaleza o el Derecho;
 
-### CAPITULO III. DE LAS HUELGAS
+IV. Para demostrar hechos que suponen una presunción legal absoluta. No obstante, se admitirán aquellos que combaten una presunción legal relativa que favorece a la otra parte;
 
-###### ARTICULO 81.
+V. Que se consideren inmorales o impertinentes;
 
-Huelga es la suspensión temporal del trabajo como resultado de una coalición de trabajadores decretada en la forma y términos que esta ley establece.
+VI. Con fines notoriamente maliciosos o dilatorios;
 
-###### ARTICULO 82.
+VII. En número excesivo o innecesario en relación con otras probanzas sobre los mismos hechos, y
 
-Declaración de huelga es la manifestación de la voluntad de la mayoría de los trabajadores de una dependencia o entidad pública de suspender las labores de acuerdo con los requisitos que establece esta ley, si el titular de la misma no accede a sus demandas.
+VIII. En los casos prohibidos de manera expresa por la Ley.
 
-###### ARTICULO 83.
+###### Artículo 76.
 
-La huelga de los trabajadores del servicio civil puede ser general o parcial. Se fundará en las causas que esta ley especifica y no habrá huelgas por solidaridad.
+Las pruebas deben ser ofrecidas relacionándolas con cada uno de los hechos controvertidos, señalando con precisión lo que se pretende acreditar o desvirtuar con cada uno de ellos. Si no se hace relación de las pruebas ofrecidas en forma precisa con los hechos controvertidos, serán desechadas. Su ofrecimiento, admisión y desahogo se hará cumpliendo con los requisitos que de manera específica respecto de cada uno de los distintos medios de prueba se establecen en el Código Procesal Civil para el Estado Libre y Soberano de Morelos.
 
-###### ARTICULO 84.
+Los documentos que se acompañen con la queja o denuncia, contestación y escritos adicionales, a criterio de la autoridad sancionadora, podrán ser tomados como prueba, aunque las partes no las ofrezcan.
 
-La huelga general es la que se endereza en contra de todos los funcionarios del Estado o de la entidad pública respectiva y sólo puede fundarse en las siguientes causas:
+### CAPÍTULO IX. DE LOS DEBERES, Y OBLIGACIONES DE LOS AGENTES DEL MINISTERIO PÚBLICO, PERITOS Y AGENTES DE LA POLICÍA MINISTERIAL
 
-a) Por falta de pago total de salarios consecutivos correspondientes a un mes de trabajo, salvo el caso de fuerza mayor que calificará el Tribunal;
+###### Artículo 77.
 
-b) Cuando se violen de manera general los derechos fundamentales que esta ley concede a los trabajadores del servicio civil, debiendo en tal caso hacer la comprobación respectiva al propio Tribunal;
+Para conocer la verdad sobre los puntos controvertidos o dudosos, el Visitador que integre el procedimiento, podrá valerse de cualquier persona, sea parte o tercero, y de cualquier cosa o documento, ya sea que pertenezca a las partes o a un tercero, sin más limitación de que las pruebas no estén prohibidas por la Ley, no sean contrarias a la moral o a las buenas costumbres. Cuando se trate de tercero ajeno al procedimiento se procurará armonizar el interés de la justicia con el respeto que merecen los derechos del tercero.
 
-c) Por desconocimiento oficial del Tribunal o porque el Estado ponga graves obstáculos para el ejercicio de sus atribuciones.
+###### Artículo 78.
 
-###### ARTICULO 85.
+El Visitador, podrá decretar en cualquier tiempo la práctica o ampliación de cualquiera diligencia probatoria, siempre que sea conducente para el conocimiento de la verdad sobre los hechos cuestionados. En la práctica de éstas diligencias, la autoridad actuará como estime procedente para obtener el mejor resultado de ellas, sin lesionar el derecho de las personas, oyéndolas y procurando su igualdad.
 
-La huelga parcial es la que se decreta contra un funcionario o grupo de funcionarios de una dependencia por cualquiera de las causas siguientes:
+La autoridad sancionadora, para cerciorarse de la veracidad de los hechos debatidos o inciertos, podrá examinar personas, documentos, objetos y lugares; consultar a peritos y, en general, ordenar o practicar cualquier diligencia que estime necesaria para esclarecer las cuestiones relacionadas con los procedimientos de responsabilidad administrativa.
 
-a) Por violaciones frecuentemente repetidas de esta ley;
+###### Artículo 79.
 
-b) Negativa sistemática para comparecer ante el Tribunal;
+Las partes están obligadas a otorgar las facilidades necesarias al Visitador adscrito a la Subdirección de Control de la misma Visitaduría General, para que se practique el desahogo de las diligencias ordenadas dentro del procedimiento.
 
-c) Desobediencia sistemática a las resoluciones del mismo Tribunal.
+Los terceros están obligados, en todo tiempo, a prestar auxilio a la autoridad sancionadora en la indagación de la verdad, de conformidad con las condiciones y términos que establezca su reglamentación, en consecuencia, deberán, sin demora, exhibir documentos y elementos que tengan en su poder o permitir su inspección, cuando para ello fueren requeridos.
 
-###### ARTICULO 86.
+###### Artículo 80.
 
-La huelga sólo suspende los efectos de los nombramientos de los trabajadores por el tiempo que dure, pero sin terminar o extinguir los efectos del propio nombramiento.
+Solo los hechos controvertidos o dudosos están sujetos a prueba. La autoridad sancionadora debe recibir las pruebas que le presenten las partes siempre que estén permitidas por la Ley y se refieran a los puntos cuestionados.
 
-###### ARTICULO 87.
+Cuando la recepción de una prueba pueda ofender la moral, las diligencias respectivas serán reservadas.
 
-La huelga deberá limitarse al mero acto de la suspensión del trabajo. Los actos de coacción o de violencia física o moral sobre las personas o de fuerza sobre las cosas cometidas por los huelguistas, tendrán como consecuencia, respecto de los responsables, la pérdida de su calidad de trabajador; si no constituyen otro delito cuya pena sea mayor, se sancionarán con prisión hasta de dos años y multa hasta de $10,000.00, más la reparación del daño.
+Contra la resolución de admisión o desechamiento de una prueba no procederá recurso alguno.
 
-### CAPITULO IV. DEL PROCEDIMIENTO EN MATERIA DE HUELGAS
+### CAPÍTULO X. DE LA VISITADURÍA GENERAL
 
-###### ARTICULO 88.
+###### Artículo 81.
 
-Para declarar una huelga se requiere:
+Las pruebas se declararán desiertas si al momento fijado para su desahogo por la autoridad sancionadora, no se encuentran debidamente preparadas por cualquier causa imputable al oferente de las mismas. Tratándose de la prueba testimonial, se declarará desierta cuando:
 
-I.- Que se funde en alguna de las causas que señalan los artículos 84 y 85; y
+I. No comparezca un testigo, siempre y cuando su presentación haya quedado a cargo del oferente de la prueba, salvo la existencia de causa de fuerza mayor justificable;
 
-II.- Que sea declarada por las dos terceras partes de los trabajadores de la dependencia o dependencias afectadas.
+II. El domicilio proporcionado por el oferente de la prueba para la citación del testigo no exista o no sea el correcto, y
 
-###### ARTICULO 89.
+III. No se exhiba a más tardar el día y hora fijado para su desahogo, el interrogatorio escrito al tenor del cual deben declarar los testigos.
 
-Antes de suspender las labores, los trabajadores deberán presentar ante el Tribunal el pliego de peticiones con la copia del acta de la asamblea en que se haya acordado declarar la huelga. El Presidente del Tribunal una vez recibido el escrito y sus anexos, correrá traslado con la copia de ellos al funcionario o funcionarios de quienes dependa la concesión de las peticiones, para que se resuelvan en el término de diez días, a partir de la notificación.
+Si son varios los testigos y solo respecto de alguno o algunos de ellos se actualizan las hipótesis previstas en las fracciones anteriores, se declarará desierta la prueba solo por cuanto al testimonio de estos últimos, pero deberá desahogarse respecto de los demás.
 
-###### ARTICULO 90.
+###### Artículo 82.
 
-El Tribunal declarará dentro de un término de 72 horas, computado desde la hora en que se reciba la copia del escrito acordando la huelga, si ésta es legal o ilegal, según se hayan satisfecho o no los requisitos a que se refieren los artículos anteriores. El funcionario o funcionarios emplazados podrán alegar lo que estimen pertinente acerca de las calificaciones que en su concepto procedan y el Tribunal tomará en cuenta sus alegatos si los recibe oportunamente. Si la huelga es considerada legal, el Tribunal procederá desde luego a la conciliación de las partes, citándolas en la forma que considere más eficaz a las audiencias de avenimiento, siendo obligatoria su presencia en éstas.
+Las partes podrán sustituir a sus testigos o peritos que previamente hayan sido designados, siempre y cuando no se pretenda acreditar hechos distintos de los inicialmente propuestos, se realice la substitución a más tardar el día y hora fijado para el desahogo de la prueba y se presente en el acto del desahogo el testigo o perito que se deba sustituir, de lo contrario, no se admitirá la substitución.
 
-###### ARTICULO 91.
+###### Artículo 83.
 
-Si la huelga se considera legal y no se llega a un entendimiento, los trabajadores podrán suspender las labores el día y hora previamente señalados.
+El desahogo de las pruebas que no se encuentren debidamente preparadas por causas ajenas a los probables responsables podrá diferirse cuantas veces sea necesario, debiéndose señalar nueva fecha para su desahogo dentro de los quince días hábiles siguientes.
 
-###### ARTICULO 92.
+###### Artículo 84.
 
-Si la suspensión de labores se llevara a cabo antes del plazo señalado para realizarla, el acto será considerado como causa justificada de destitución de quienes realicen dicha suspensión. Si practicado el recuento correspondiente resultare que los huelguistas se encuentran en minoría, el Tribunal declarará que no existe el estado de huelga; fijará a los trabajadores un plazo de veinticuatro horas para que reanuden sus labores, apercibiéndolos de que si no lo hacen, serán cesados sin responsabilidad para el Estado o la entidad pública de que se trate, salvo en casos de fuerza mayor o de error no imputable a los trabajadores, y declarará que el Estado, la entidad o los funcionarios afectados no han incurrido en responsabilidad.
+Desahogadas las pruebas en su totalidad, dentro de los veinte días hábiles siguientes, se citará a las partes a una audiencia de alegatos, en la que éstas podrán alegar por escrito, por sí o por medio de su representante legal, procurando la mayor brevedad y concisión. No se podrá hacer uso de la palabra por más de quince minutos.
 
-###### ARTICULO 93.
+###### Artículo 85.
 
-Si el Tribunal resuelve que la declaración de huelga es ilegal, prevendrá a los trabajadores que, en caso de suspender las labores, el acto será considerado como causa justificada de cese y dictará las medidas que juzgue necesarias para evitar la suspensión.
+Celebrada la audiencia de alegatos, dentro del plazo de diez días hábiles, dictará la resolución que conforme a derecho proceda.
 
-###### ARTICULO 94.
+###### Artículo 86.
 
-Si el Tribunal resuelve que la huelga es ilegal, quedarán cesados por este solo hecho, sin responsabilidad para los titulares, los trabajadores que hubieren realizado la suspensión de labores.
+La resolución definitiva contendrá al menos los siguientes elementos:
 
-###### ARTICULO 95.
+I. La expresión del lugar y la fecha en que se dicte, la autoridad que resuelve así como el nombre del servidor público en contra de quien se instruye el procedimiento, el cargo que desempeña o desempeñaba al momento de ocurrir los hechos que se le imputan y el número de expediente que identifica al caso;
 
-La huelga será declarada ilegal y delictuosa cuando la mayoría de los huelguistas ejecuten actos violentos contra las personas o propiedades.
+II. Establecerá en párrafos separados una narración sucinta de las actuaciones que obran en el expediente a resolverse, que se identificará con la palabra “Resultandos”, procurando en todo caso que las actuaciones narren de forma efectiva los hechos, pruebas y alegatos que las partes hagan valer;
 
-###### ARTICULO 96.
+III. Continuará expresando con la palabra “Considerando” y en párrafos separados, lo relativo a la competencia de la autoridad que resuelve; el objeto del procedimiento disciplinario; la fijación de la litis o debate; una relación pormenorizada de todas y cada una de las pruebas que obren en autos; la valoración individual de cada una de estas pruebas expresando fundada y motivadamente sus conclusiones; la valoración conjunta de las pruebas a las que haya sido procedente concederles valor probatorio y hayan sido valoradas individualmente; señalando fundada y motivadamente las conclusiones a las que llegue la autoridad; la procedencia o no del fincamiento de responsabilidad, y
 
-En tanto que no se declare ilegal, inexistente o terminado un estado de huelga, el tribunal y las autoridades civiles y militares deberán respetar el derecho que ejerciten los trabajadores, dándoles las garantías y prestándoles el auxilio que soliciten.
+IV. La conclusión definitiva, expresando la palabra “Puntos Resolutivos”, mediante los cuales establezca el sentido de sus consideraciones, la individualización de la sanción o absolución, la forma en que habrá de ejecutarse la misma, su alcance y la forma de su cumplimiento.
 
-###### ARTICULO 97.
+###### Artículo 87.
 
-La huelga terminará:
+La Visitaduría General, a través de su Titular, Subdirectores o Visitadores que le estén adscritos, podrán imponer a los Servidores Públicos que incurran en irregularidad y que se encuentre comprobada la misma, las siguientes sanciones:
 
-I.- Por avenencia entre las partes en conflicto;
+I. Amonestación;
 
-II.- Por acuerdo de la asamblea de trabajadores tomado por las dos terceras partes de los mismos;
+II. Suspensión del cargo hasta por seis;
 
-III.- Por declaración de ilegalidad o inexistencia;
+III. Multa hasta por dos tantos más del monto del daño o perjuicios causados por motivo de la responsabilidad administrativa acreditada;
 
-IV.- Por laudo de la persona o tribunal que, a solicitud de las partes y con la conformidad de éstas, se avoque al conocimiento del asunto.
+IV. Destitución del empleo, cargo o comisión, y
 
-###### ARTICULO 98.
+V. Inhabilitación temporal para desempeñar empleo, cargo o comisión en el servicio público, por el término de doce años.
 
-Al resolverse que una declaración de huelga es legal, el Tribunal, a petición del titular de la entidad afectada, fijará el número de trabajadores que los huelguistas están obligados a mantener en el desempeño de sus labores, a fin de que continúen realizándose aquellos servicios cuya suspensión perjudique la estabilidad de las instituciones, la conservación de las instalaciones o signifique un peligro para la salud pública.
+### CAPÍTULO XI. DE LA INVESTIGACIÓN ADMINISTRATIVA
+
+###### Artículo 88.
+
+Para la imposición de las sanciones administrativas, la resolución definitiva deberá contener la individualización de la sanción considerando los siguientes elementos:
+
+I. La gravedad de la responsabilidad en los términos previstos por esta Ley, así como la conveniencia de suprimir prácticas viciosas que infrinjan, en cualquier forma, las disposiciones de esta ley o las que se dicten con base en ella, de conformidad con el criterio fundado y motivado de la autoridad sancionadora;
+
+II. El dolo, mala fe o intención con la que se condujo el servidor público infractor al momento de cometer la falta;
+
+III. Las circunstancias sociales y económicas del servidor público que se desprendan del expediente personal y de la totalidad de las constancias que obren en autos. En todo caso deberá considerarse cuando menos el origen social, cultura, preparación académica, idiosincrasia, estado civil, salario, otros ingresos y dependientes económicos, sin perjuicio de considerar cualquier otro aspecto personal que pueda advertirse de las constancias que obren en autos, ya sea en beneficio o perjuicio del servidor público;
+
+IV. El nivel jerárquico y antecedentes en el servicio público responsable, considerando en cada caso que el incremento de la jerarquía en el servicio público incrementa proporcionalmente el grado de responsabilidad que se tiene impuesto. De igual forma se considerarán como antecedentes menores, las exhortaciones, notas de extrañamiento o cualquier otra medida disciplinaria dictada en contra del servidor público en ejercicio de sus atribuciones y que consten en su expediente personal;
+
+V. Las condiciones exteriores del servidor público, como el ambiente y medios laborales, cargas y herramientas de trabajo, así como cualquier otra circunstancia que rodee al servidor público y que influya de algún modo en la ejecución de la conducta infractora;
+
+VI. Los medios de ejecución utilizados por el servidor público al momento de cometer la falta administrativa. Deberá considerarse si el servidor público actuó premeditada, intencional o dolosamente, así como el ánimo de su actuación, y
+
+VII. La reincidencia en el incumplimiento de las obligaciones impuestas por la función pública a todos los servidores públicos. Para este efecto deberán considerarse las sanciones administrativas, penales, sentencias civiles, laborales o de cualquier otra naturaleza, impuestas al servidor público en ejercicio de sus atribuciones y que hayan sido declaradas firmes por las autoridades competentes.
+
+###### Artículo 89.
+
+La autoridad sancionadora se podrá abstenerse de sancionar al infractor por una sola vez, cuando encuentren debidamente justificada la abstención y siempre que se trate de hechos que no revistan gravedad ni constituyan algún delito y además, los antecedentes o circunstancias personales del infractor; dicha abstención procederá, siempre que el daño causado por el servidor público no exceda de cien veces el salario mínimo general vigente en el Estado al momento en que se cometió la infracción.
+
+###### Artículo 90.
+
+El procedimiento de responsabilidad administrativa se dará por terminado cuando:
+
+I. Habiendo causado ejecutoria la resolución, se cumplimente en su totalidad;
+
+II. Durante la tramitación del procedimiento fallezca el probable responsable;
+
+III. Se declare fundada cualquiera de las excepciones de previo y especial pronunciamiento que por su naturaleza impidan su continuación, y
+
+IV. Cuando la parte ofendida manifieste su desistimiento.
+
+###### Artículo 91.
+
+La Visitaduría General, deberá informar al Registro Nacional de Personal del Sistema de Seguridad Pública, sobre los servidores públicos que se encuentren relacionados en procedimientos de responsabilidad administrativa, cuya falta sea motivo de una suspensión provisional o a quienes se les haya sancionado con la destitución del cargo o inhabilitación.
+
+También deberá informar a la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Morelos, las resoluciones que determinen la procedencia de fincamiento de responsabilidad administrativa en que incurran los Servidores Públicos.
+
+Así como a la Unidad Administrativa correspondiente de la Institución, sobre las resoluciones emitidas dentro de los procedimientos de responsabilidad administrativa, para ser agregados al expediente personal del servidor público.
+
+###### Artículo 92.
+
+Para notificar los acuerdos y resoluciones emitidas en los procedimientos administrativos de fincamiento de responsabilidad, el Visitador General habilitará a un servidor público como notificador, quien hará las funciones de actuario judicial, teniendo las facultades y obligaciones conferidas al mismo; notificador que en su actuar observará las reglas generales del procedimiento señaladas en el Código Procesal Civil de aplicación supletoria a la Ley Estatal de Responsabilidades de los Servidores Públicos.
+
+###### Artículo 93.
+
+Los acuerdos o resoluciones que se emitan dentro de un procedimiento de responsabilidad administrativa, serán notificados en días y horas hábiles.
+
+Se consideran días hábiles todos los días del año, con exclusión de los sábados y domingos, 1 de enero; 5 de febrero; 21 de marzo; 10 de abril; 1 de mayo; 16 de septiembre; 1 y 2 de noviembre; 25 de diciembre y los que determinen las leyes federales y locales, así como en los casos de elecciones ordinarias federales y locales para participar en la jornada electoral y en los que por disposición de la Visitaduría General se suspendan labores; y por horas hábiles las que medien de las siete hasta las dieciocho horas.
+
+El Visitador podrá habilitar días y horas inhábiles para actuar y se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
+
+###### Artículo 94.
+
+Las notificaciones serán: en forma personal mediante cédula de notificación, por estrados, por edictos y por medio de lista.
+
+Las notificaciones de carácter personal, se efectuarán de manera personal en el domicilio que sea designado para tal efecto por el servidor público responsable, a través de la cédula de notificación correspondiente.
+
+En las notificaciones por estrados, la cédula de notificación se fijará en el tablero visible y de fácil acceso que se encuentre en la Visitaduría General.
+
+Por lista las que conforme a la Ley no tengan el carácter de personales, lista que se fijará en lugar visible y de fácil acceso en la Visitaduría General, y que contendrá el nombre de las partes, el número de procedimiento y síntesis del acuerdo que se notifique.
+
+Los edictos se realizarán conforme a las disposiciones establecidas en la Ley Estatal de los Servidores Públicos y Código Procesal Civil de aplicación procesal.
+
+###### Artículo 95.
+
+Se notificarán personalmente:
+
+I. El emplazamiento o primera notificación;
+
+II. El auto que ordene prevención de la queja o denuncia o su desechamiento;
+
+III. El primer auto que se dicte, después de dejar de actuar por más de sesenta días naturales
+
+IV. Cuando a criterio de la autoridad se trate de un caso urgente o exista motivo para ello, y
+
+V. La resolución definitiva que se dicte.
+
+Las notificaciones surtirán sus efectos al día hábil siguiente en que se hubieren realizado.
+
+###### Artículo 96.
+
+Los términos se contaran por días hábiles, empezaran a correr a partir del día hábil siguiente a aquel en que surta efectos la notificación.
+
+###### Artículo 97.
+
+Los servidores públicos podrán ser emplazados a procedimiento administrativo en su domicilio particular, en el domicilio proporcionado por éste en su declaración patrimonial o en el domicilio laboral si continúa en funciones, previo cercioramiento de la persona designada para practicar el emplazamiento de que efectivamente es su domicilio personal o domicilio laboral. Para tal efecto, deberán prestarse las facilidades necesarias tendientes a emplazar al probable responsable.
+
+Si en la primera búsqueda el servidor público no se encuentra en su domicilio, se le dejará citatorio para el día hábil siguiente, apercibido de que en caso de no esperar a la persona designada en la hora hábil que señale el citatorio, se procederá a realizar el emplazamiento mediante cédula que se fije en la puerta de acceso de su domicilio.
+
+Para el caso de que el emplazamiento se realice en el domicilio laboral del probable responsable, este deberá ser indefectiblemente atendido de manera personal.
+
+En caso de negativa de recepción de los documentos de emplazamiento, para que el probable responsable quede legalmente emplazado al procedimiento administrativo de responsabilidad iniciado en su contra, bastará con la sola fijación de la cédula en la puerta de acceso de su domicilio o el asiento de la negativa y los datos precisos que identifiquen la media filiación del probable responsable.
+
+Tratándose de ex servidores públicos, el emplazamiento deberá efectuarse en su domicilio personal, siguiéndose al efecto las formalidades establecidas por el Código Procesal Civil para el Estado Libre y Soberano de Morelos, con la salvedad de que, si habiéndose entregado citatorio, el ex servidor público no espera al notificador el día y hora señalados, se procederá previo apercibimiento, a fijar cédula en la puerta de acceso a su domicilio teniéndose por hecho el emplazamiento, quedando los autos originales del expediente a su disposición para su consulta y efectos legales.
+
+###### Artículo 98.
+
+Las cédulas de notificación deberán contener por los (sic) menos los siguientes requisitos:
+
+I. Nombre del quejoso o denunciante;
+
+II. Nombre del probable responsable;
+
+III. Domicilio en el cual se le emplaza y notifica personalmente;
+
+IV. Trascripción íntegra del acuerdo que debe notificar;
+
+V. Hora, día, mes y año en que se practica la notificación;
+
+VI. Nombre, cargo y firma autógrafa del notificador;
+
+VII. Los datos que permitan la identificación del notificador; y
+
+VIII. Los datos que permitan la identificación del expediente.
+
+### CAPÍTULO XVII. DE LA PRESCRIPCIÓN
 
 ## TITULO QUINTO. DE LOS RIESGOS PROFESIONALES Y DE LAS ENFERMEDADES NO PROFESIONALES
 
-###### ARTICULO 99.
+###### Artículo 99.
 
-Los riesgos profesionales que sufran los trabajadores del servicio civil se regirán por las disposiciones de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora o por la que regule la institución similar de seguridad social a la que estuviere incorporada la entidad pública correspondiente al entrar en vigor esta ley.
+El plazo de la prescripción de las acciones que pueda ejercitar la autoridad sancionadora y de las sanciones que pueda imponer al servidor público responsable por el incumplimiento de los deberes y causas de responsabilidad contenidos en la presente Ley, ocurrirá:
 
-###### ARTICULO 100.
+I. En tres años, cuando se trate de las sanciones consistentes en destitución e inhabilitación, y
 
-Los trabajadores del servicio civil que sufran enfermedades no profesionales que les impidan el desempeño de sus labores, tendrán derecho a que se les concedan licencias en los siguientes términos:
+II. En un año en tratándose de las demás sanciones y correcciones disciplinarias.
 
-I.- A quienes tengan menos de un año de servicios, hasta quince días con goce de sueldo íntegro y hasta quince días más con medio sueldo;
+###### Artículo 100.
 
-II.- A los que tengan de uno a cinco años de servicios, hasta treinta días con goce de sueldo íntegro y hasta treinta días más con medio sueldo;
+El término de la prescripción iniciará a partir de la fecha en que se haya cometido la infracción motivo de responsabilidad si fuere realizada en un sólo acto o, a partir de la fecha en que haya concluido si trata de actos continuos y, se interrumpirá por cualquier acto de gestión debidamente notificado al probable responsable que, relacionado con la conducta u omisión que se le imputa practique o realice la autoridad sancionadora.
 
-III.- A los que tengan de cinco a diez años de servicios, hasta cuarenta y cinco días con sueldo íntegro y hasta cuarenta y cinco días más con medio sueldo;
+El estudio de la prescripción procederá únicamente a instancia de parte.
 
-IV.- A los que tengan de diez años de servicios en adelante, hasta sesenta días con goce de sueldo íntegro y hasta sesenta días más con medio sueldo.
-
-En los casos previstos en las fracciones anteriores, si al vencer las licencias con sueldo y medio sueldo continúa la incapacidad, se prorrogará al trabajador la licencia, ya sin goce de sueldo, hasta totalizar en conjunto cincuenta y dos semanas, de acuerdo con el artículo 23 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora.
-
-Para los efectos de las fracciones anteriores, los cómputos deberán hacerse por servicios continuados, o cuando de existir una interrupción, ésta no sea mayor de seis meses.
-
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
-
-ARTICULO 100 BIS.- El Plan de Indemnizaciones, Enfermedades y Riesgos Laborales, en lo subsiguiente el Plan, tendrá por objeto establecer un instrumento con la finalidad de salvaguardar a los trabajadores al servicio del Gobierno del Estado de los riesgos, accidentes o enfermedades que en su integridad física puedan afectar su desenvolvimiento laboral.
-
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
-
-ARTICULO 100 BIS A.- Las indemnizaciones por conceptos de riesgos laborales y enfermedades profesionales establecidas en el Plan, procederán sobre aquellas contingencias que no se encuentren previstas en la Ley Federal del Trabajo y la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora.
-
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
-
-ARTICULO 100 BIS B.- Los participantes del Plan deberán cumplir con los siguientes requisitos:
-
-I.- Ser trabajador activo del Gobierno del Estado, en cualquiera de sus categorías;
-
-II.- Firmar carta de adhesión al Plan; y
-
-III.- Los demás que se establezcan en las disposiciones reglamentarias respectivas y en el propio Plan.
-
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
-
-ARTICULO 100 BIS C.- Los trabajadores de base y de confianza participantes del Plan tendrán derecho al pago de indemnizaciones por enfermedades profesionales y no profesionales y riesgos laborales, siempre que cumplan con las condiciones establecidas en el propio Plan.
-
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
-
-ARTICULO 100 BIS D.- Las indemnizaciones serán cubiertas de manera directa por el Gobierno del Estado y por los montos que éste determine.
-
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
-
-ARTICULO 100 BIS E.- La dirección y administración del Plan, así como la vigilancia y cumplimiento del mismo, estará a cargo de un Comité Técnico, el cual tendrá por objeto planear y establecer procedimientos y lineamientos para el mejor desempeño de lo estipulado en el propio Plan.
-
-El Comité Técnico se integrará de tres personas cuyos nombramientos deberán realizarse por el Ejecutivo del Estado. El número de integrantes del Comité Técnico podrá aumentar o disminuir de acuerdo a los requerimientos del Plan, siempre que en la especie dicho Comité quede integrado por un número impar de miembros.
-
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
-
-ARTICULO 100 BIS F.- Los derechos de los participantes y beneficiarios para hacer efectivos los pagos conforme al Plan, prescribirán en el término de un año, contado a partir del día siguiente al de la fecha en que se tenga derecho a los mismos.
+### CAPÍTULO XVIII. DE LA CADUCIDAD
 
 ## TITULO SEXTO. DE LAS PRESCRIPCIONES
 
-###### ARTICULO 101.
+###### Artículo 101.
 
-Las acciones que nazcan de esta ley, del nombramiento y de los acuerdos que fijen las condiciones generales de trabajo, prescriben en un año, con excepción de los casos previstos en los artículos siguientes.
+La caducidad de la instancia es de orden público, irrenunciable, y no puede ser materia de convenio entre las partes, operará de pleno derecho una vez transcurridos ciento ochenta días naturales desde que se haya dado iniciado el procedimiento de responsabilidad sin haberse practicado notificación alguna al probable responsable y se sujetará a las siguientes normas:
 
-###### ARTICULO 102.
+I. La autoridad sancionadora la declarará de oficio o a petición del probable responsable cuando concurran las circunstancias a que se refiere el presente artículo;
 
-Prescriben:
+II. La caducidad extingue el procedimiento, pero no la pretensión sancionadora, en consecuencia se puede iniciar nueva queja o denuncia, sin perjuicio de lo dispuesto para la prescripción;
 
-I.- En un mes:
+III. La caducidad de la instancia convierte en ineficaces las actuaciones del procedimiento y las cosas deben volver al estado que tenían antes de la presentación de la queja o denuncia;
 
-a) Las acciones para pedir la nulidad de un nombramiento;
+IV. Las pruebas rendidas en el procedimiento de responsabilidad extinguido por caducidad, podrán ser invocadas en el nuevo si se promoviere, siempre que se ofrezcan y precisen en la forma legal; y
 
-b) La acción de los trabajadores para ejercitar el derecho a ocupar la plaza que hubieren dejado por suspensión legal, contados a partir de que cesa la causa de suspensión;
+V. El plazo de la caducidad sólo se interrumpirá.
 
-c) La acción para exigir la reinstalación o la indemnización, a partir del momento de la separación;
+a) Por actuaciones de la autoridad que impliquen impulso u ordenación al procedimiento de responsabilidad;
 
-II.- En dos meses:
+b) Que dichos actos de impulso u ordenación guarden relación inmediata y directa con la instancia, y
 
-a) La acción de los titulares para suspender, cesar o disciplinar a sus trabajadores, contados desde que se conozcan las causas;
+c) Que sean debidamente notificados al probable responsable.
 
-b) En supresión de plazas, las acciones para que se les otorgue otra equivalente a la suprimida o la indemnización de ley; o para que, una vez creada de nueva cuenta la misma plaza que ocupaba, se le reinstale.
+###### Artículo 102.
 
-###### ARTICULO 103.
+La suspensión del procedimiento produce la interrupción del plazo de la caducidad, y tiene lugar:
 
-Prescriben en dos años las acciones para ejecutar las resoluciones del Tribunal, desde que éstas sean ejecutables.
+I. Cuando por fuerza mayor la autoridad sancionadora o el probable responsable no puedan actuar;
 
-###### ARTICULO 104.
+II. En los casos en que es necesario esperar la resolución de un procedimiento previo o conexo por la misma autoridad sancionadora o por otras autoridades, y
 
-La prescripción no puede comenzar a correr:
+III. Contra la declaración de caducidad o denegación de ésta no procede recurso alguno.
 
-I.- Contra los incapacitados mentales, sino cuando se haya discernido su tutela conforme a la ley;
+### CAPÍTULO XIX. EXCUSAS Y RECUSACIONES
 
-II.- Contra los trabajadores incorporados al servicio militar en tiempo de guerra y que por alguno de los conceptos contenidos en esta ley, se hayan hecho acreedores a indemnización.
+###### Artículo 103.
 
-###### ARTICULO 105.
+Los servidores públicos de la institución podrán excusarse y ser recusados por los motivos que establece el Código de Procedimientos Penales del estado de Morelos, en su articulo 116 y demás relativos y aplicables. La excusa y la recusación deberán ser calificadas en definitiva por el Procurador. El trámite de ambas se definirá en el Reglamento de la presente Ley.
 
-La prescripción solamente se interrumpe por la presentación de la demanda respectiva ante el Tribunal.
+### CAPÍTULO XX. ESTÍMULOS, INCOMPATIBILIDADES Y PROHIBICIONES
+
+###### Artículo 104.
+
+Los funcionarios y empleados de la Procuraduría recibirán estímulos por el eficiente desempeño de su trabajo y el resultado de sus evaluaciones periódicas, en los términos del Reglamento que establezca las bases para la organización, funcionamiento y desarrollo del servicio civil y profesional de carrera de la Institución.
+
+###### Artículo 105.
+
+Todos los servidores públicos que desempeñen funciones de Agente del Ministerio Público, Agentes de la Policía Ministerial, Peritos y Visitadores no podrán ocupar otro puesto oficial o de elección popular ni ejercer la abogacía, excepto en causas propias en que estén involucrados sus intereses, de su cónyuge, concubina o concubino, ascendientes o de quienes estén bajo su patria potestad, tampoco podrán ser mandatarios judiciales, tutor, curador, síndico, administrador, interventor, arbitro, depositario, albacea a menos que tenga interés en la herencia, notario y comisionista. Quedan excluidos de esta prohibición los servidores públicos de esta Institución que ejerzan puestos de carácter docente y académico.
 
 ## TITULO SEPTIMO. DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE
 
-### CAPITULO I. INTEGRACION
+### CAPÍTULO XII. DEL PROCEDIMIENTO PARA IMPONER SANCIONES
 
-###### ARTICULO 106.
+###### Artículo 106.
 
-El Tribunal de Conciliación y Arbitraje para los trabajadores del servicio civil del Estado será un cuerpo colegiado permanente y lo integrarán:
+La función del Ministerio Público, Agente de la Policía Ministerial, Perito y Visitador, es incompatible con el desempeño de funciones directivas en partidos u organizaciones políticas.
 
-I.- Un representante del Gobierno del Estado;
+### CAPÍTULO XXI. DEL CONSEJO DE PARTICIPACIÓN CIUDADANA
 
-II.- Un representante de los municipios y otras entidades públicas a que se refiere esta ley;
+###### Artículo 107.
 
-III.- Un representante del sindicato de los trabajadores de la educación al servicio del Estado;
+La Procuraduría contara con un Consejo de Participación Ciudadana, el cual se integrara por ciudadanos de reconocida calidad moral y prestigio, procurando la diversidad profesional de los mismos y de representación social.
 
-IV.- Un representante de los demás trabajadores del servicio civil;
+Estos serán designados por el Procurador y ejercerán su cargo de forma honoraria y tendrán las facultades que el Reglamento de la presente ley les confiera.
 
-V.- Un árbitro nombrado por la mayoría de los representantes; en caso de desacuerdo lo designará el Gobernador del Estado. El árbitro presidirá el Tribunal.
+## TRANSITORIOS
 
-Por cada representante propietario se designará un suplente.
+PRIMERO.- La presente Ley iniciara su vigencia a partir de las cero horas del día treinta de octubre del dos mil ocho.
 
-###### ARTICULO 107.
+SEGUNDO.- Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos, publicada el día 24 de Agosto de 1994 en el Periódico Oficial del Estado "Tierra y Libertad".
 
-Para ser miembro del tribunal se requiere ser mexicano, mayor de 25 años, en pleno goce de sus derechos civiles y no haber sido condenado por delitos contra la propiedad o a sufrir pena mayor de un año de prisión por otro delito intencional.
+TERCERO.- En tanto se expiden las disposiciones reglamentarias del Servicio de Carrera de Procuración de Justicia, reglamento de la Policía Ministerial, la Procuraduría General de Justicia estará facultada para emitir normas generales relativas al desarrollo y operación de dicho Servicio, por lo cual el Ejecutivo del Estado deberá expedir dichos reglamentos en un término de noventa días hábiles.
 
-El Presidente deberá reunir los requisitos que la ley exige para los Magistrados del Tribunal de lo Contencioso Administrativo y los representantes deberán ser empleados o funcionarios con una antigüedad mínima de dos años inmediatamente anteriores a la fecha de su designación.
+CUARTO.- Los agentes del Ministerio Público, Agentes de la Policía Ministerial y peritos que a la entrada en vigor del presente ordenamiento se encuentren laborando en la Procuraduría General de Justicia, se someterán a las disposiciones reglamentarias del Servicio de Carrera de Procuración de Justicia que se expidan para tal efecto.
 
-## ARTICULOS TRANSITORIOS
+QUINTO.- El ejecutivo del Estado deberá expedir el Reglamento de esta Ley en un término de sesenta días hábiles.
+
+SEXTO.- El Gobierno del Estado a través de la Procuraduría General de Justicia del Estado, creará un fondo económico para la restauración y protección especial de las victimas u ofendidos del delito, por medio de un financiamiento en el que participen diversas instituciones del Gobierno del Estado, así como organismos públicos y privados, con el objeto de que las victimas u ofendidos sean resarcidos del daño moral y patrimonial sufrido y con ello lograr que se integren a la sociedad.
+
+SÉPTIMO.- El Ejecutivo del Estado en un término de noventa días deberá crear el fondo que se establece en el transitorio anterior
+
+OCTAVO.- Derogación tácita de preceptos incompatibles. Quedan derogados los preceptos de la legislación de la entidad, acuerdos, circulares, que se opongan a las disposiciones de este ordenamiento.
+
+Recinto Legislativo a los catorce días del mes de agosto de dos mil ocho.
+
+ATENTAMENTE.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN".
+
+LOS CC. DIPUTADOS INTEGRANTES DE LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO.
+
+DIP. MARTHA PATRICIA FRANCO GUTIÉRREZ
+
+PRESIDENTA
+
+DIP. PEDRO DELGADO SALGADO
+
+VICEPRESIDENTE
+
+DIP. FRANCISCO ARTURO SANTILLÁN ARREDONDO
+
+SECRETARIO
+
+DIP. CLAUDIA IRAGORRI RIVERA
+
+SECRETARIA
+
+RÚBRICAS.
+
+Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento.
+
+Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los dieciocho días del mes de agosto de dos mil ocho.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN".
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+
+DR. MARCO ANTONIO ADAME CASTILLO
+
+SECRETARIO DE GOBIERNO
+
+LIC. SERGIO ALVAREZ MATA
+
+RÚBRICAS.
 
 ###### ARTICULO 108.
 
@@ -915,7 +1425,7 @@ Para ser secretario se exigen los requisitos del primer párrafo del artículo 1
 
 El Tribunal podrá funcionar con la simple mayoría de sus miembros. Las resoluciones se tomarán por mayoría de votos y ningún miembro podrá abstenerse de votar, pudiendo hacerse constar las consideraciones que tuvo en cuenta para emitir su voto.
 
-### CAPITULO II. DE LA COMPETENCIA
+### CAPÍTULO XIII. DE LAS PRUEBAS
 
 ###### ARTICULO 112.
 
@@ -931,7 +1441,7 @@ IV.- Conocer de los conflictos sindicales e intersindicales, y
 
 V.- Efectuar el registro de las condiciones generales de trabajo.
 
-### CAPITULO III. PROCEDIMIENTO
+### CAPÍTULO XIV. DE LOS ALEGATOS
 
 ###### ARTICULO 113.
 
@@ -1029,7 +1539,7 @@ Para los efectos de este artículo, el Tribunal de Arbitraje, una vez pronunciad
 
 Las autoridades administrativas y judiciales estarán obligadas a prestar auxilio al Tribunal de Arbitraje, para hacer respetar sus resoluciones, cuando fueren requeridas para ello.
 
-### CAPITULO IV. DE LA EJECUCION DE LOS LAUDOS
+### CAPÍTULO XV. DE LA SENTENCIA
 
 ###### ARTICULO 132.
 
@@ -1043,7 +1553,7 @@ El Tribunal tiene la obligación de proveer a la eficaz e inmediata ejecución d
 
 Cuando se pida la ejecución de un laudo, el Tribunal despachará auto de ejecución y comisionará a un Actuario para que, asociado de la parte que obtuvo, se constituya en el domicilio de la demandada y la requiera para que cumpla la resolución voluntariamente, dentro de los siguientes cinco días, a más tardar, apercibiéndola de que en caso de no hacerlo, se procederá conforme a lo dispuesto en los artículos anteriores.
 
-### CAPITULO V. DE LOS PROCEDIMIENTOS ESPECIALES
+### CAPÍTULO XVI. NOTIFICACIONES Y TÉRMINOS
 
 ###### ARTICULO 135.
 
