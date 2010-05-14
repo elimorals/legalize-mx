@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "2007-11-22"
+last_updated: "2010-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE MAYO DE 2010.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -569,7 +569,7 @@ Los trabajadores que por su conducta o falta de solidaridad fueren expulsados de
 
 ###### ARTICULO 67.
 
-Queda prohibida la reelección por mas de tres períodos consecutivos dentro de los sindicatos.
+(DEROGADO, B.O. 14 DE MAYO DE 2010)
 
 ###### ARTICULO 68.
 
@@ -1182,3 +1182,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Plan que propone el presente decreto deberá expedirse dentro de un plazo de sesenta días, contados a partir de la entrada en vigor del presente decreto.
+
+B.O. 14 DE MAYO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
