@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-comision-de-derechos-humanos-del-distrito-federal-62"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-22"
-last_updated: "2005-11-02"
+last_updated: "2010-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1993-06-21"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MAYO DE 2010.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes el 22 de junio de 1993.
 
@@ -448,9 +448,15 @@ La Comisión de Derechos Humanos del Distrito Federal podrá contar con unidades
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 27.
 
-Toda persona podrá denunciar presuntas violaciones a los derechos humanos y presentar ante la Comisión de Derechos Humanos del Distrito Federal, quejas contra dichas presuntas violaciones, ya sea directamente o por medio de su representante. Cuando se trate de menores o incapacitados podrá hacerlo a quien la Ley faculte.
+Toda persona podrá denunciar presuntas violaciones a los derechos humanos y presentar ante la Comisión de Derechos Humanos del Distrito Federal, quejas contra dichas presuntas violaciones, ya sea directamente o por medio de su representante.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 14 DE MAYO DE 2010)</small>
+
+Podrán denunciar presuntas violaciones a los derechos humanos y quejas sobre las mismas sin necesidad de representante los niños, niñas o incapaces cuando se ponga en peligro su vida, libertad o integridad física o psicológica, salvo que no esté en aptitud para presentar la queja, ésta podrá ser presentada por cualquier persona; y en caso de que la Comisión de Derechos Humanos del Distrito Federal tenga conocimiento de alguna de estas situaciones iniciará queja de oficio.
 
 Cuando los interesados estén privados de su libertad o se desconozca su paradero, los hechos se podrán denunciar por cualquier persona, aun cuando sea menor de edad.
 
@@ -901,3 +907,9 @@ G.O. 2 DE NOVIEMBRE DE 2005.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 14 DE MAYO DE 2010.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
