@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2010-04-10"
+last_updated: "2010-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2010.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -827,7 +827,9 @@ La secuencia del trámite de discusión, aprobación o rechazo de los dictámene
 
 I. Las iniciativas deberán comprender un dictamen realizado en términos de lo dispuesto en el artículo 86 de este Reglamento;
 
-II. Antes de discutir un dictamen se someterá a una lectura si el asunto que lo motiva provoca formación de ley; dicha lectura podrá dispensársele cuando así lo acuerde el Pleno;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2010)</small>
+
+II. Antes de discutir un dictamen se someterá a una lectura, si el asunto que lo motiva provoca formación de nueva ley;
 
 III. Cuando el Pleno del Congreso haga observaciones a un dictamen, ya sea en forma parcial o total, lo devolverá a la comisión para que considere las indicaciones del Pleno. Corregido el dictamen, de nueva cuenta volverá a ser entregado a la Secretarí a (sic) del Congreso para su discusión y aprobación, en su caso, sin que pueda exceder el término que para emitir los dictámenes establece el artículo 92 de la Ley Orgánica, y
 
@@ -1960,5 +1962,11 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 P.O. 10 DE ABRIL DE 2010.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 15 DE MAYO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
