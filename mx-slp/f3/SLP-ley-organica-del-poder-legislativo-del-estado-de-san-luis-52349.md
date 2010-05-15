@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2010-03-25"
+last_updated: "2010-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -439,7 +439,9 @@ c) Lectura de correspondencia: de los demás poderes del Estado, de los ayuntami
 
 d) Presentación de iniciativas de los diputados, quienes podrán leer un extracto de la misma, y relación de las demás iniciativas presentadas con antelación, así como de los acuerdos para turnarlos a las comisiones correspondientes.
 
-e) Lectura y aprobación de dictámenes; la lectura podrá ser dispensada por acuerdo del Pleno, excepto los de reformas constitucionales.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2010)</small>
+
+e) Lectura y aprobación de dictámenes; cuya lectura podrá ser dispensada por acuerdo del Pleno; excepto cuando se trate de la aprobación de una nueva ley y de reformas constitucionales.
 
 f) Asuntos generales.
 
@@ -1263,7 +1265,7 @@ III. Los relativos a nombramientos o ratificación de los titulares o integrante
 
 IV. Los referentes a la calificación de las excusas que expongan el gobernador, diputados y miembros de los ayuntamientos para no desempeñar sus cargos;
 
-V. Los tocantes a la concesión de licencias temporales al gobernador del Estado para separarse de su encargo, y para ausentarse de la Entidad por más de quince días;
+V. Los tocantes a la concesión de licencias temporales al Gobernador del Estado para separarse de su encargo, y para ausentarse de la Entidad por más de quince días;
 
 VI. Los relativos a la calificación de las renuncias de los magistrados del Poder Judicial, y de los tribunales autónomos;
 
@@ -1771,7 +1773,7 @@ OCTAVO. La transferencia de unidades administrativas de una dependencia a otra, 
 
 NOVENO. Los derechos laborales del personal que en virtud de lo dispuesto en la presente Ley, pasen de una dependencia a otra, se respetarán en términos de la legislación correspondiente.
 
-DECIMO. Hasta en tanto entre en vigor la ley de la materia, las referencias que en esta Ley se hacen a la "Auditoría Superior del Estado", se entenderán hechas en la "Contaduría Mayor de Hacienda del Estado"; y las que se hacen al "Auditor Superior", al Contador Mayor de Hacienda.
+DECIMO. Hasta en tanto entre en vigor la ley de la materia, las referencias que en esta Ley se hacen a la "Auditoría Superior del Estado", se entenderán hechas a la "Contaduría Mayor de Hacienda del Estado"; y las que se hacen al "Auditor Superior", al Contador Mayor de Hacienda.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
 
@@ -1834,5 +1836,11 @@ SEGUNDO. Se derogan las disposiciones legales y administrativas que se opongan a
 P.O. 25 DE MARZO DE 2010.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 15 DE MAYO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
