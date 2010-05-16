@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-patrimonio-cultural-del-estado-de-durango-57771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-11"
-last_updated: "2007-11-11"
+last_updated: "2010-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 11 de noviembre de 2007.
 
@@ -207,19 +207,23 @@ V. Las demás leyes locales relacionadas con la materia que regula esta Ley.
 
 ### CAPITULO II. DE LAS AUTORIDADES Y ÓRGANOS DE APOYO
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 10.
 
 La aplicación de esta Ley corresponde a:
 
 I. El Gobernador del Estado;
 
-II. La Secretaría de Educación del Estado;
+II. El Congreso del Estado de Durango;
 
-III. El Instituto de Cultura del Estado;
+III. La Secretaría de Educación del Estado;
 
-IV. Los Ayuntamientos de los Municipios del Estado; y
+IV. El Instituto de Cultura del Estado;
 
-V. Las demás autoridades municipales, estatales y federales, en el ámbito de su competencia.
+V. Los Ayuntamientos de los Municipios del Estado; y
+
+VI. Las demás autoridades municipales, estatales y federales, en el ámbito de su competencia.
 
 ###### ARTÍCULO 11.
 
@@ -297,7 +301,9 @@ VI. Coordinar con los sectores público, privado y social las acciones inherente
 
 VII. Celebrar los convenios de colaboración necesarios para el cumplimiento de los fines de la presente Ley;
 
-VIII. Elaborar y proponer al Gobernador del Estado los proyectos de las declaratorias de adscripción de bienes al patrimonio cultural, previos los procedimientos que esta Ley y su reglamento establecen; así como los programas, reglamentos y demás disposiciones relativas en su ámbito de competencia;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2010)</small>
+
+VIII. Elaborar y proponer al Gobernador del Estado y/o al Congreso del Estado los proyectos de las declaratorias de adscripción de bienes al patrimonio cultural, previos los procedimientos que esta Ley y su reglamento establecen; así como los programas, reglamentos y demás disposiciones relativas en su ámbito de competencia;
 
 IX. Representar al Gobierno del Estado ante organismos del sector público, social y privado, en materia de patrimonio cultural;
 
@@ -535,7 +541,17 @@ Los cargos en el Consejo Estatal serán honoríficos y, por lo tanto, quienes lo
 
 El funcionamiento del Consejo estará regulado por su propio Reglamento Interior.
 
-#### SECCIÓN PRIMERA. DE LOS BIENES INMUEBLES
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 16 DE MAYO DE 2010)</small>
+
+#### SECCIÓN SEXTA. DEL CONGRESO DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2010)</small>
+
+ARTÍCULO 30 BIS. El Congreso del Estado tendrá las siguientes facultades:
+
+I.- Emitir y mandar publicar las declaratorias de los bienes a que se refiere el artículo 3 de esta ley en el ámbito de su respectiva competencia, y realizar observaciones a los proyectos declaratorios que le remita el Instituto, en los términos que se establecen en el numeral 66 de esta Ley; y
+
+II.- Desarrollar las condiciones para impulsar, posibilitar, promocionar, difundir, fortalecer y fomentar el desarrollo cultural en el Estado.
 
 ### CAPÍTULO III. DEL PATRIMONIO CULTURAL INTANGIBLE
 
@@ -607,7 +623,7 @@ Los propietarios, poseedores y usuarios del patrimonio cultural tangible, deber�
 
 Los bienes muebles e inmuebles declarados y adscritos al patrimonio estatal, estarán sujetos a la protección jurídica del Estado, únicamente en lo que respecta a su valor cultural, sin importar quiénes sean sus propietarios o poseedores.
 
-#### SECCIÓN PRIMERA. DE LAS ACTIVIDADES COMERCIALES EN TORNO AL PATRIMONIO CULTURAL
+#### SECCIÓN PRIMERA. DE LOS BIENES INMUEBLES
 
 ###### ARTÍCULO 45.
 
@@ -679,9 +695,11 @@ Las disposiciones contenidas en el presente Capítulo serán aplicables para los
 
 El objetivo de que un bien cultural sea declarado patrimonio cultural del Estado, radica en que dicho bien recibirá un tratamiento especial dentro de los programas de investigación, catalogación, revaloración, protección, revitalización, intervención, conservación, custodia, disposición, formación o capacitación, difusión y, en su caso, reproducción. Dichos beneficios o efectos deberán estar claramente definidos en la declaratoria respectiva, incluyendo la potencialidad de uso de dicho patrimonio cultural.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 59.
 
-La declaratoria de que un bien cultural se encuentre adscrito al Patrimonio Cultural del Estado o la revocación de este acto, se hará mediante decreto del Titular del Poder Ejecutivo, mismo que se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango. La emisión de una declaratoria podrá ser promovida de oficio o a petición de parte.
+La declaratoria de que un bien cultural se encuentre adscrito al Patrimonio Cultural del Estado o la revocación de este acto, se hará mediante decreto emitido por el Titular del Poder Ejecutivo y/o Congreso del Estado, mismo que se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango. La emisión de una declaratoria podrá ser promovida de oficio o a petición de parte.
 
 ###### ARTÍCULO 60.
 
@@ -747,27 +765,39 @@ f) Proyecto de declaratoria, la cual incluirá claramente los efectos de la mism
 
 Un bien mueble puede ser declarado individualmente o como colección, en los términos que dispone en (sic) artículo 49 de esta Ley.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 66.
 
-El Gobernador del Estado, una vez recibido el proyecto de declaratoria, emitirá la declaratoria definitiva y ordenará publicarla por una sola vez en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, misma que surtirá sus efectos a partir del día hábil siguiente a su publicación.
+Una vez que sea recibido el proyecto de declaratoria por el Gobernador del Estado, emitirá la declaratoria definitiva y ordenará publicarla por una sola vez en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, misma que surtirá sus efectos a partir del día hábil siguiente de su publicación.
 
-El Gobernador podrá, cuando estime conveniente, hacer observaciones a algún proyecto de declaratoria, suspender la emisión de la declaratoria definitiva y devolver el proyecto con las observaciones dentro de diez días hábiles, contados desde aquél en que lo reciba.
+En el caso de que sea el Congreso, del Estado quien reciba el proyecto de declaratoria, deberá dar el trámite correspondiente conforme a la Ley Orgánica del Congreso del Estado de Durango.
 
-El proyecto de declaratoria devuelto con las observaciones, deberá ser discutido en cuanto a éstas, una vez resueltas, volverá al Gobernador, quien emitirá la declaratoria definitiva y mandará publicarlo sin más trámite.
+El Gobernador y/o el Congreso del Estado podrán, cuando así lo estimen conveniente, hacer observaciones a algún proyecto de declaratoria, suspender la emisión de la declaratoria definitiva y devolver el proyecto con las observaciones dentro de diez días hábiles, contados desde aquél en que lo reciba.
 
-La declaratoria será inscrita ante el Registro Público de la Propiedad del Estado. En cualquier documento que expida el Registro Público de la Propiedad con respecto a un bien cultural que haya sido objeto de declaratoria, deberá hacerse la anotación clara de esa circunstancia.
+El proyecto de declaratoria devuelto con las observaciones deberá ser discutido en cuanto a éstas, una vez resueltas, volverá a quien corresponda, quien emitirá la declaratoria definitiva y mandará publicarlo sin más trámite.
+
+La declaratoria será inscrita ante el Registro Público de la Propiedad del Estado.
+
+En cualquier documento que expida el Registro Público de la Propiedad con respecto a un bien cultural que haya sido objeto de declaratoria, deberá hacerse la anotación clara de esa circunstancia.
 
 ###### ARTÍCULO 67.
 
 Al día siguiente de la emisión de la declaratoria, deberá notificarse de forma personal al interesado.
 
-###### ARTICULO 68.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2010)</small>
 
-Los afectados por los actos y procedimientos previstos en esta Ley, podrán interponer el recurso de inconformidad prevista en el Código de Justicia Administrativa para el Estado de Durango.
+###### ARTÍCULO 68.
+
+Los afectados por los actos y procedimientos de la administración previstos en esta Ley, podrán interponer el recurso de inconformidad establecido en el Código de Justicia Administrativa para el Estado de Durango.
+
+Los afectados por actos y procedimientos del Congreso del Estado previstos en esta Ley, procederán de acuerdo a lo establecido por la Ley Orgánica del Congreso del Estado de Durango.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 69.
 
-El Titular del Ejecutivo, mediante decreto, podrá revocar la declaratoria de un bien adscrito al patrimonio cultural del Estado, cuando exista razón fundada para ello, o por mandato judicial.
+El Gobernador y/o el Congreso del Estado, mediante decreto, podrán revocar la declaratoria de un bien adscrito al patrimonio cultural del Estado, cuando exista razón fundada para ello, o por mandato judicial.
 
 ###### ARTÍCULO 70.
 
@@ -879,7 +909,7 @@ VII. Asociarse, agruparse y manifestarse, sobre el uso, destino y protección de
 
 VIII. Participar como integrante en el Consejo y en las comisiones, de conformidad con lo que determina esta Ley y su Reglamento.
 
-#### SECCIÓN SEGUNDA. DE LA PARTICIPACIÓN DE LOS SECTORES PRIVADO Y SOCIAL
+#### SECCIÓN PRIMERA. DE LAS ACTIVIDADES COMERCIALES EN TORNO AL PATRIMONIO CULTURAL
 
 ###### ARTÍCULO 83.
 
@@ -915,7 +945,7 @@ En el convenio que firmen el Instituto o el Ayuntamiento y las personas físicas
 
 La autorización a que se hace referencia en el artículo 83 de la presente Ley, será revocada en caso de que se demuestre cualquier violación que represente un peligro inminente o real a la integridad del bien cultural.
 
-#### SECCIÓN TERCERA. DE LOS ORGANISMOS AUXILIARES DE LA SOCIEDAD CIVIL
+#### SECCIÓN SEGUNDA. DE LA PARTICIPACIÓN DE LOS SECTORES PRIVADO Y SOCIAL
 
 ###### ARTÍCULO 87.
 
@@ -925,7 +955,7 @@ El Instituto podrá promover y concertar con los sectores privado y social los c
 
 El Instituto, en coordinación con autoridades federales, estatales y municipales, y con los sectores privado y social, establecerá campañas permanentes de sensibilización, difusión y fomento en el ámbito escolar y masivo, respecto de la importancia de conservar los bienes tangibles o intangibles que constituyan el patrimonio cultural de la entidad.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN TERCERA. DE LOS ORGANISMOS AUXILIARES DE LA SOCIEDAD CIVIL
 
 ###### ARTÍCULO 89.
 
@@ -979,7 +1009,7 @@ El Instituto o los ayuntamientos, según sea el caso, podrán otorgar a las pers
 
 ### CAPITULO X. DE LA AUTORIZACIÓN DE OBRAS DE INTERVENCIÓN EN EL PATRIMONIO DEL ESTADO
 
-#### SECCIÓN SEGUNDA. DE LAS ZONAS PATRIMONIO CULTURAL DELIMITADAS POR LA AUTORIDAD FEDERAL
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 95.
 
@@ -1048,6 +1078,8 @@ Se establecerán medidas de cuidado y conservación en casos de cambio de uso de
 I. Los propietarios o poseedores de bienes adyacentes a los declarados Patrimonio Cultural del Estado, deberán notificar al Instituto, con anticipación, sobre el cambio de uso de suelo, demolición, venta, modificación o alteración por realizar; y
 
 II. El Instituto promoverá la realización de un estudio de impacto cultural, diagnóstico o dictamen técnico en torno a la posible afectación de un bien cultural declarado como medida de conservación, a efecto de lograr la integración formal del contexto patrimonial.
+
+#### SECCIÓN SEGUNDA. DE LAS ZONAS PATRIMONIO CULTURAL DELIMITADAS POR LA AUTORIDAD FEDERAL
 
 ###### ARTÍCULO 105.
 
@@ -1232,3 +1264,15 @@ C.P. ISMAEL ALFREDO HERNÁNDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE MAYO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que contravengan lo previsto en el presente decreto.
