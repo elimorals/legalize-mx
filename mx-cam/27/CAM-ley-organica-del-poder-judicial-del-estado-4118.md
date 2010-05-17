@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-4118"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-04"
-last_updated: "2007-12-28"
+last_updated: "2010-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el jueves 4 de diciembre de 1980.
 
@@ -1847,7 +1847,7 @@ VI.- Los bienes corporales e incorporales que sean donados o aportados por perso
 
 VII.- Las aportaciones que el Estado o el Municipio le destinen, dentro de los correspondientes Presupuestos de Egresos para constituir o incrementar el Fondo.
 
-El patrimonio constitutivo del capital fijo podrá ser incrementado pero no reducido en su monto. Los recursos disponibles serán exclusivamente los provenientes de los réditos que la inversión de aquel genere.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 17 DE MAYO DE 2010)</small>
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
 
@@ -2108,3 +2108,9 @@ P.O. 28 DE DICIEMBRE DE 2007.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 17 DE MAYO DE 2010.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
