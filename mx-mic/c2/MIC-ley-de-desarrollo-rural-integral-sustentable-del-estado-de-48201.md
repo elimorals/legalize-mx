@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-rural-integral-sustentable-del-estado-de-4820
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-18"
-last_updated: "2006-01-18"
+last_updated: "2010-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2010.
 
 Ley publicada en el periódico oficial del Estado de Michoacán de Ocampo, el miércoles 18 de enero de 2006.
 
@@ -466,6 +466,12 @@ Para agilizar y transparentar el impulso del desarrollo rural, se descentralizan
 ###### Articulo 22.
 
 Para inducir y fomentar el crecimiento de las actividades productivas en el medio rural, el Titular del Poder Ejecutivo Estatal y los ayuntamientos, en el ámbito de sus competencias, a propuesta del Consejo Estatal, otorgarán estímulos a la inversión, con carácter temporal a toda empresa e industria que a partir de la entrada en vigencia de esta Ley, se instale en las comunidades consideradas como rurales, genere empleos, infraestructura productiva, propicie un incremento sustantivo en producción, industrialización y comercialización de productos del campo.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2010)</small>
+
+###### Artículo 22 Bis.
+
+En lo referente a fondos e inversión, planes, programas y proyectos de mejora, que en materia Federal, Estatal o Municipal se encuentren debidamente destinados al desarrollo rural integral sustentable de los municipios, éstos deberán ser conocidos, estudiados y analizados por el Consejo Municipal para su operación.
 
 ### Capítulo II. De la Planeación para el Desarrollo Rural
 
@@ -1346,3 +1352,9 @@ PRESIDENTE.- DIP. GUILLERMO VALENCIA REYES.- SECRETARIA.- DIP. MINERVA BAUTISTA 
 En cumplimiento a lo dispuesto por la fracción I, el (sic) artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 02 dos días del mes de enero del año 2006 dos mil seis.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE MAYO DE 2010.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
