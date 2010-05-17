@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2010-03-19"
+last_updated: "2010-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE MAYO DE 2010.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -89,7 +89,11 @@ Las leyes establecerán los mecanismos que garanticen la efectiva participación
 
 Se establecerá un organismo que definirá, ejecutará y evaluará las políticas públicas que garanticen la vigencia de los derechos del pueblo maya, y de las comunidades indígenas de otras entidades federativas, que se encuentren transitoria o permanentemente en territorio estatal, en los términos de las disposiciones legales aplicables.
 
-El Estado garantizará al pueblo maya la aplicación de sus propias formas de regulación para la solución de conflictos internos, como medio alternativo de justicia; sujetándose a los principios jurídicos de oralidad, publicidad, inmediación, contradicción, economía y concentración, con pleno respeto a sus derechos y garantías y de manera relevante, la dignidad de las mujeres, sin contravenir las leyes vigentes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+
+El Estado garantizará al pueblo maya el acceso a la justicia y la aplicación de sus propias formas de regulación para la solución de conflictos internos, como medio alternativo para la solución de controversias; sujetándose a los principios jurídicos de oralidad, publicidad, inmediación, contradicción, economía y concentración, con pleno respeto a sus derechos y garantías y de manera relevante, la dignidad de las mujeres, sin contravenir las leyes vigentes.
 
 > <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2005)</small>
 
@@ -235,9 +239,11 @@ Los derechos y prerrogativas del ciudadano yucateco, se suspenden:
 
 I.- por no tener domicilio, oficio o modo honesto de vivir;
 
-(REFORMADA, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-II.- por la comisión de delito que amerite pena privativa de la libertad, a partir del auto de formal prisión, hasta el momento en que se dicte sentencia absolutoria, en el proceso respectivo o hasta la extinción de la pena;
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
+II.- por la comisión de delito que amerite pena privativa de la libertad, a partir de la audiencia en la que se dicte la medida cautelar de prisión preventiva, hasta el momento en que se levante la medida o bien se emita la sentencia absolutoria, en el proceso respectivo, y en caso de una sentencia condenatoria hasta la extinción de la pena o prescripción de la sanción privativa de la libertad;
 
 III.- por rehusarse a desempeñar sin justa causa los cargos de elección popular;
 
@@ -353,9 +359,11 @@ Los consejeros electorales del Instituto de Procedimientos Electorales y Partici
 
 Las leyes establecerán las reglas y el procedimiento de elección o designación correspondiente, y atenderán las actividades relativas a la preparación de las jornadas electorales y de participación ciudadana, al desarrollo de éstas, a los cómputos y otorgamiento de constancia, capacitación electoral y educación cívica, al sistema de medios de impugnación y a la conformación de los organismos en la materia.
 
-> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-Se establecerá un sistema de medios de impugnación de los que conocerá el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán y el Tribunal Electoral del Estado.
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+
+Se establecerá un sistema de medios de impugnación de los que conocerá el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán y el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
 
@@ -433,9 +441,9 @@ I.- El Instituto de Procedimientos Electorales y Participación Ciudadana del Es
 
 II.- La Comisión de Derechos Humanos del Estado de Yucatán;
 
-> <small>(REFORMADA, D.O. 18 DE AGOSTO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-III.- El Tribunal Electoral del Estado, y
+III.- (DEROGADA, D.O. 17 DE MAYO DE 2010)
 
 > <small>(ADICIONADA, D.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -559,9 +567,11 @@ I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadan
 
 II.- Tener veintiun años cumplidos el día de la elección;
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-III.- No ser Gobernador del Estado, magistrado del Tribunal Superior de Justicia, Regidor o Síndico, durante el año calendario de la elección, a menos que se separe de sus funciones 90 días antes de la elección;
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
+III.- No ser Gobernador del Estado, Magistrado del Tribunal Superior de Justicia o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, Consejero de la Judicatura, Regidor o Síndico, durante el año calendario de la elección, a menos que se separe de sus funciones 90 días antes de la elección;
 
 > <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
@@ -579,9 +589,11 @@ VI.- Residir en el Estado durante los dos años inmediatos anteriores a la fecha
 
 VII.- No ser ministro de culto religioso alguno, salvo que se haya separado definitivamente 5 años antes del día de la elección;
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-VIII.- No ser Magistrado, Secretario del Tribunal, Consejero, Secretario Ejecutivo o sus equivalentes, de los organismos electorales locales o federales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
+VIII.- No ser Magistrado o Secretario del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, Consejero, Secretario Ejecutivo o sus equivalentes, de los organismos electorales locales o federales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;
 
 IX.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
@@ -601,7 +613,11 @@ El cargo de Diputado es incompatible con cualquier cargo, comisión o empleo pú
 
 El Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, declarará la validez de las elecciones de Gobernador, Diputados, Regidores y Síndicos; efectuará la asignación de diputados y regidores según el principio de representación proporcional y expedirá las constancias respectivas a los candidatos electos.
 
-La declaración de validez, la asignación de diputados y regidores de representación proporcional y la expedición de las respectivas constancias, podrán ser impugnadas ante el Tribunal Electoral del Estado en los términos que la ley señale, cuyas resoluciones serán definitivas y firmes en el ámbito estatal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+
+La declaración de validez, la asignación de Diputados y Regidores de representación proporcional y la expedición de las respectivas constancias, podrán ser impugnadas ante el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado en los términos que la ley señale, cuyas resoluciones serán definitivas y firmes en el ámbito estatal.
 
 > <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
 
@@ -609,11 +625,23 @@ La declaración de validez, la asignación de diputados y regidores de represent
 
 Para garantizar el principio de legalidad de los actos y resoluciones electorales, la ley establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas de los procesos electorales locales y garantizará la protección de los derechos político-electorales de los ciudadanos.
 
-El Tribunal Electoral del Estado, es la máxima autoridad jurisdiccional en la materia, con la jurisdicción y competencia que determinen esta Constitución y la ley; organismo autónomo, de carácter permanente, con personalidad jurídica y patrimonio propio, independiente en sus decisiones y contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-El Instituto de Procedimientos Electorales y Participación Ciudadana y el Tribunal Electoral del Estado podrán ordenar la realización de recuentos totales o parciales de votos; la ley determinará los casos en que podrán realizarse en los ámbitos administrativo y jurisdiccional.
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
-La ley tipificará los delitos y determinará las faltas en materia electoral, establecerá los procedimientos aplicables para las sanciones que deban imponerse, y fijará las causales de nulidad de las elecciones de Gobernador, Diputados locales y ayuntamientos. El Tribunal Electoral del Estado sólo podrá declarar la nulidad de una elección por la actualización de alguna de las causales expresamente establecidas en la ley.
+El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado tendrá la organización y competencia que determine esta Constitución y la ley. Los poderes públicos del Estado, salvaguardarán su integración y funcionamiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+
+El Instituto de Procedimientos Electorales y Participación Ciudadana y el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado podrán ordenar la realización de recuentos totales o parciales de votos; la ley determinará los casos en que podrán realizarse en los ámbitos administrativo y jurisdiccional.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+
+La ley tipificará los delitos y determinará las faltas en materia electoral, establecerá los procedimientos aplicables para las sanciones que deban imponerse, y fijará las causales de nulidad de las elecciones de Gobernador, Diputados locales y ayuntamientos. El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado sólo podrá declarar la nulidad de una elección por la actualización de alguna de las causales expresamente establecidas en la ley.
 
 (REFORMADO, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
 
@@ -683,9 +711,9 @@ En la creación de nuevos municipios, los integrantes de las comunidades del pue
 
 II.- Arreglar definitivamente los límites municipales, de conformidad con lo establecido por las leyes respectivas y las instancias técnico-normativas de la materia, tomando en consideración la opinión de las comunidades del pueblo maya, cuando resultaren afectados;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-III.- revocar los acuerdos de los Ayuntamientos, a petición del Ejecutivo del Estado, cuando sean contrarios a la Constitución Federal o a la del Estado o a cualquiera otra Ley o lesionen los intereses municipales;
+III.- (DEROGADA, D.O. 17 DE MAYO DE 2010)
 
 IV.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
 
@@ -719,9 +747,9 @@ VII.- Revisar y en su caso aprobar las cuentas públicas de los Poderes del Esta
 
 La revisión tendrá por objeto evaluar los resultados de la gestión financiera, comprobar si se ajusta a los criterios señalados por el Presupuesto de Egresos y verificar el cumplimiento de los objetivos contenidos en los respectivos programas de conformidad a lo establecido en las leyes aplicables;
 
-> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-VII Bis.- Instituir el Tribunal de lo Contencioso Administrativo, el cual estará dotado de plena independencia y autonomía para dictar y hacer cumplir sus fallos. Este Tribunal formará parte del Poder Ejecutivo y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y descentralizada del Estado y los Municipios, y los Particulares. Conocerá también de las responsabilidades administrativas en que incurran los servidores públicos;
+VII Bis.- (DEROGADA, D.O. 17 DE MAYO DE 2010)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
@@ -761,9 +789,11 @@ XIV.- conceder premios y recompensas por servicios eminentes prestados al Estado
 
 XV.- Expedir leyes sobre Educación y Cultura, con sujeción a las bases constitucionales federales y las previstas en esta Constitución;
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XVI.- Designar a los consejeros electorales, del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán y a los Magistrados del Tribunal Electoral del Estado de Yucatán, de conformidad a la ley;
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
+XVI.- Designar a los Consejeros Electorales del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, de conformidad con la ley;
 
 > <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
@@ -789,23 +819,35 @@ XXI.- Respecto al cargo del Titular del Poder Ejecutivo:
 
 a) Expedir el bando solemne, para dar a conocer la declaración de Gobernador electo hecha por el Consejo General del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, en la forma que establezca la ley de la materia;
 
-b) Recibirle la protesta a que aluden los artículos 67 y 105 de esta constitución;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-c) Concederle licencia para separarse de sus funciones por más de 60 días; y
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+
+b) Recibir el Compromiso Constitucional a que aluden los artículos 67 y 105 de esta Constitución;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+
+c) Conceder la licencia para separarse de sus funciones por más de 60 días, y
 
 d) Nombrar al interino o sustituto, en los casos de falta temporal o absoluta, erigiéndose en Colegio Electoral;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XXII.- aceptar las renuncias de los Magistrados del Tribunal Superior de Justicia, en los términos del artículo 69 de esta Constitución;
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+XXII.- Nombrar a los Magistrados del Poder Judicial del Estado; así como otorgar el haber de retiro a que se refiere el artículo 64 de esta Constitución;
 
-XXIII.- nombrar a los Magistrados del Tribunal Superior de Justicia y a los suplentes de éstos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
-XXIII Bis.- Aprobar los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo y recibir la protesta de los mismos;
+XXIII.- Aceptar las renuncias de los Magistrados del Poder Judicial del Estado en los términos del artículo 68 de esta Constitución;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+XXIII Bis.- (DEROGADA, D.O. 17 DE MAYO DE 2010)
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -815,9 +857,11 @@ XXIV.- hacer uso del derecho de iniciar Leyes que le concede la Constitución Ge
 
 XXV.- aprobar o no la formación o erección de nuevos Estados o Territorios;
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XXVI.- Recibir la protesta a los Magistrados del Tribunal Superior de Justicia a que alude el artículo 67 de esta constitución;
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
+XXVI.- Recibir el Compromiso Constitucional a los Magistrados del Poder Judicial del Estado a que alude el artículo 67 de esta Constitución;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
@@ -905,9 +949,13 @@ Cada Concejo Municipal será conformado con un número de integrantes en proporc
 
 Sus integrantes no podrán ser electos para el período constitucional inmediato;
 
-> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
+(NOTA: EL 22 DE MARZO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 8/2010, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XLI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-XLI.- Revocar el mandato conferido al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia y a los diputados en lo particular, esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos, excepto cuando se trate del Gobernador y de los diputados, en cuyos casos será necesario la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate del Gobernador, y de las dos terceras partes para el caso de los Diputados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
+XLI.- REVOCAR EL MANDATO CONFERIDO AL GOBERNADOR DEL ESTADO, Y A LOS DIPUTADOS EN LO PARTICULAR. EN AMBOS CASOS SERÁ NECESARIA LA DETERMINACIÓN DEL SESENTA Y CINCO POR CIENTO DE LOS ELECTORES INSCRITOS EN EL LISTADO NOMINAL CORRESPONDIENTE, COMUNICADA AL CONGRESO Y APROBADA POR EL VOTO UNÁNIME DE LA LEGISLATURA EN EL CASO DEL GOBERNADOR, Y DE LAS DOS TERCERAS PARTES EN EL DE LOS DIPUTADOS;
 
 XLII.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
 
@@ -979,7 +1027,11 @@ I.- a los Diputados;
 
 II.- al Gobernador del Estado;
 
-III.- al Tribunal Superior de Justicia en los asuntos de su Ramo; y (sic)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
+III.- al Tribunal Superior de Justicia en los asuntos de la competencia del Poder Judicial del Estado;
 
 > <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
@@ -1039,29 +1091,33 @@ El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Cong
 
 Para funcionar durante los recesos, el Congreso designará a mayoría de votos una diputación permanente compuesta de tres diputados y por cada uno de éstos un suplente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 22 DE FEBRERO DE 1988)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 43.
 
-Las atribuciones de la Diputación permanente, son las siguientes:
+Las atribuciones de la Diputación Permanente son:
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 I.- acordar por sí sola, cuando a su juicio lo exijan el bien o la seguridad del Estado, o a petición del Ejecutivo, la convocación del Congreso a sesiones extraordinarias, señalando el objeto u objetos de esas sesiones, y no pudiendo el Congreso ocuparse de más asuntos que aquellos para los que fue convocado;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-II.- recibir la protesta de Ley a los funcionarios que deban prestarla ante el Congreso;
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
+II.- recibir el Compromiso Constitucional a los funcionarios que deban prestarla ante el Congreso;
 
 > <small>(REFORMADA, D.O. 21 DE DICIEMBRE DE 1994)</small>
 
-III.- recibir durante receso del Congreso, las iniciativas de Ley, Decreto o Acuerdo, proposiciones y demás asuntos dirigidos a éste y turnarlos para su estudio y dictamen a las Comisiones respectivas del Congreso conforme a lo dispuesto en la Ley Orgánica del Poder Legislativo del Estado de Yucatán, a fin de que se les de el trámite que corresponda en el inmediato período de sesiones.
+III.- recibir durante receso del Congreso, las iniciativas de Ley, Decreto o Acuerdo, proposiciones y demás asuntos dirigidos a éste y turnarlos para su estudio y dictamen a las Comisiones respectivas del Congreso conforme a lo dispuesto en la Ley Orgánica del Poder Legislativo del Estado de Yucatán, a fin de que se les de el trámite que corresponda en el inmediato período de sesiones;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
-IV.- resolver sobre las peticiones de licencia de sus miembros, y del titular del Órgano de Evaluación y del Auditor Superior del Estado, cuando traten de separarse temporalmente de sus respectivos encargos; resolver sobre las renuncias de los Magistrados del Tribunal Superior de Justicia en los términos del artículo 69 de esta Constitución; resolver sobre las renuncias colectivas de miembros de Ayuntamientos y acerca de la desintegración de los mismos, nombrando Concejos en los términos de la fracción XL del artículo 30 de la presente Constitución;
+IV.- resolver sobre las peticiones de licencia de sus miembros, y del titular del Órgano de Evaluación y del Auditor Superior del Estado, cuando traten de separarse temporalmente de sus respectivos encargos; resolver sobre las renuncias de los Magistrados del Poder Judicial del Estado en los términos del artículo 68 de esta Constitución; resolver sobre las renuncias colectivas de miembros de Ayuntamientos y acerca de la desintegración de los mismos, nombrando Concejos en los términos de la fracción XL del artículo 30 de la presente Constitución;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
@@ -1149,11 +1205,13 @@ Se deposita el Poder Ejecutivo del Estado en un ciudadano que se denominará "Go
 
 La elección del Gobernador será popular directa y se hará en los términos que disponga la Ley Electoral.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE MAYO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 46.
 
-Para ser Gobernador Constitucional del Estado se requiere, además de lo dispuesto en la fracción I del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, lo siguiente:
+Para ser Gobernador del Estado se requiere, además de lo dispuesto en la fracción I del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos:
 
 > <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
 
@@ -1191,13 +1249,17 @@ VIII.- no estar comprendido en alguna de las causas de incapacidad establecidas 
 
 IX.- no haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad;
 
-(REFORMADA, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-X.- no ser Magistrado del Tribunal Superior de Justicia, diputado local, regidor o síndico, a menos que se separe de su cargo 120 días antes de la fecha de la elección;
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+X.- no ser Magistrado del Tribunal Superior de Justicia o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, Consejero de la Judicatura, Diputado local, Regidor o Síndico, a menos que se separe de su cargo 120 días antes de la fecha de la elección;
 
-XI.- no ser Magistrado, Secretario del Tribunal, Consejero, Secretario Ejecutivo o sus equivalentes, de los órganos Electorales locales o federales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
+XI.- no ser Magistrado o Secretario del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, Consejero, Secretario Ejecutivo o sus equivalentes, de los órganos electorales locales o federales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;
 
 XII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
@@ -1217,11 +1279,13 @@ Para ser Gobernador Interino del Estado se requieren los mismos requisitos que p
 
 El Gobernador Constitucional del Estado entrará en funciones el día 1 de octubre y durará en su encargo seis años.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 49.
 
-El Gobernador, al tomar posesión de su encargo, prestará ante el Congreso o ante la Diputación Permanente, en los recesos de aquél, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, y las Leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si así no lo hiciere, que la Nación y el Estado me lo demanden".
+El Gobernador, al tomar posesión de su encargo, manifestará ante el Congreso o ante la Diputación Permanente, en los recesos de aquél, el Compromiso Constitucional siguiente: "Me comprometo a guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, y las Leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, y pugnar en todo momento por el bien y prosperidad de la Unión y del Estado, y si así no lo hiciere, que la Nación y el Estado me lo demanden".
 
 > <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
@@ -1263,11 +1327,13 @@ A) El Gobernador sustituto Constitucional, o el designado para concluir el perí
 
 B) El Gobernador Interino, el provisional o el Ciudadano que bajo cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo los dos últimos años del período.
 
-> <small>(REFORMADO, D.O. 11 DE MAYO DE 1984)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 54.
 
-Siempre que ocurra una falta absoluta o temporal del Gobernador y mientras se reúne el Congreso del Estado y designa interino, se harán cargo del Despacho del Poder Ejecutivo los titulares de las dependencias que establezca la Ley Orgánica del Poder Ejecutivo, en la que se señalará el orden en que asumirán el encargo en cualquiera de estos casos, el encargado del Poder Ejecutivo hará entrega del cargo al Gobernador nombrado por el Congreso, inmediatamente que se presente a recibirlo.
+Siempre que ocurra una falta absoluta o temporal del Gobernador y mientras se reúne el Congreso del Estado y designa interino, se harán cargo del Despacho del Poder Ejecutivo los titulares de las dependencias que establezca el Código de la Administración Pública de Yucatán, en la que se señalará el orden en que asumirán el encargo en cualquiera de estos casos, el encargado del Poder Ejecutivo hará entrega del cargo al Gobernador nombrado por el Congreso, inmediatamente que se presente a recibirlo.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1285,13 +1351,15 @@ I.- publicar y hacer cumplir las Leyes federales;
 
 II.- promulgar, publicar y ejecutar las leyes que expida el Congreso, proveer en su esfera administrativa, exacta observancia. Publicar los bandos y reglamentos que acuerden los ayuntamientos, siempre y cuando, éstos no cuenten con sus propios órganos de difusión oficial;
 
-> <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-III.- nombrar y remover a los titulares de las dependencias que señala la Ley Orgánica del Poder Ejecutivo del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las Leyes;
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
-> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
+III.- nombrar y remover a los titulares de las dependencias que señala el Código de la Administración Pública de Yucatán, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes;
 
-III Bis.- nombrar y aceptar las renuncias de los Magistrados del Tribunal de lo Contencioso Administrativo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+III Bis.- (DEROGADA, D.O. 17 DE MAYO DE 2010)
 
 > <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
@@ -1325,11 +1393,15 @@ XIII.- expedir la convocatoria para las elecciones ordinarias;
 
 XIV.- presentar ante el Congreso del Estado, a más tardar el día 25 de noviembre de cada año, las iniciativas relativas a la Ley de Ingresos y Presupuesto de Egresos del Gobierno del Estado, que hubieren de regir durante el año inmediato siguiente;
 
-> <small>(REFORMADA, D.O. 11 DE MAYO DE 1984)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XV.- resolver definitivamente por sí o por conducto del funcionario que al efecto señale la Ley Orgánica del Poder Ejecutivo del Estado, sobre las sanciones que las autoridades administrativas apliquen por infracciones a los reglamentos gubernativos, de policía y de los demás recursos que conforme a las Leyes competan;
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
-XVI.- suspender los acuerdos de los Ayuntamientos cuando fueren contrarios a la Constitución Federal o a la del Estado o a cualquier otra Ley, o lesionen los intereses municipales, sometiéndolos al Congreso del Estado para que éste resuelva definitivamente;
+XV.- resolver definitivamente por sí o por conducto del funcionario que al efecto señale el Código de la Administración Pública de Yucatán, sobre las sanciones que las autoridades administrativas apliquen por infracciones a los reglamentos gubernativos, de policía y de los demás recursos que conforme a las Leyes competan;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+XVI.- (DEROGADA, D.O. 17 DE MAYO DE 2010)
 
 XVII.- practicar visitas oficiales, cuando lo crea conveniente, a los municipios del Estado;
 
@@ -1337,9 +1409,11 @@ XVII.- practicar visitas oficiales, cuando lo crea conveniente, a los municipios
 
 XVIII.- concurrir al Congreso, cuando lo juzgue conveniente, para presentar o sostener alguna Iniciativa del Ejecutivo o autorizar a cualquier funcionario del mismo para dicho objeto;
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XIX.- conceder licencia a los empleados de su nombramiento, así como a los Magistrados del Tribunal de lo Contencioso Administrativo;
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
+XIX.- conceder licencia a los servidores públicos y empleados de la Administración Pública Estatal en el ejercicio de su cargo, en términos de la ley;
 
 XX.- pedir la protección de los Poderes de la Unión en caso de sublevación o trastorno interior; y (sic)
 
@@ -1357,9 +1431,9 @@ XXII Bis.- disponer lo necesario, en los términos de la ley respectiva, para ga
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
-XXIII.- disponer lo necesario, en los términos de la ley respectia, para garantizar el resultado de los plebiscitos; (sic)
+XXIII.- elaborar y remitir el Plan Estatal de Desarrollo, sus actualizaciones, los programas mencionados en la fracción XXII de este Artículo, así como los criterios que le sirven de base al Congreso del Estado para su conocimiento y consideración al ejercer sus atribuciones constitucionales;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
@@ -1375,15 +1449,19 @@ XXV.- las demás que le confieren esta Constitución y otras Leyes.
 
 ### CAPITULO IV. De la Organización del Poder Ejecutivo
 
-> <small>(REFORMADO, D.O. 11 DE MAYO DE 1984)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 56.
 
 El Gobernador no puede:
 
-> <small>(REFORMADA, D.O. 11 DE MAYO DE 1984)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-I.- renunciar su cargo, ni ausentarse del territorio del Estado o separarse del ejercicio de sus funciones por más de sesenta días sin causa grave calificada por el Congreso. En las separaciones o ausencias del Gobernador que no excedan de sesenta días atenderá el Despacho el funcionario que señale la Ley Orgánica del Poder Ejecutivo.
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
+I.- renunciar a su cargo, ni ausentarse del territorio del Estado o separarse del ejercicio de sus funciones por más de sesenta días sin causa grave calificada por el Congreso. En las separaciones o ausencias del Gobernador que no excedan de sesenta días atenderá el Despacho el funcionario que señale el Código de la Administración Pública de Yucatán;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1415,13 +1493,15 @@ VII.- permitir o tolerar que se establezcan en el Estado casas de juegos ilícit
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 28 DE ENERO DE 1970)</small>
 
-### CAPÍTULO PRIMERO (SIC). De la Protección de los Derechos Humanos
+### CAPITULO V. Del Ministerio Público
 
-> <small>(ADICIONADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 57.
 
-Para el despacho de los asuntos encomendados al Poder Ejecutivo del Estado, el titular de este se auxiliará de los servidores públicos que establece la Ley Orgánica del Poder Ejecutivo del Estado.
+Para el despacho de los asuntos encomendados al Poder Ejecutivo del Estado, el titular de este se auxiliará de los servidores públicos que establece el Código de la Administración Pública de Yucatán.
 
 > <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
 
@@ -1433,127 +1513,389 @@ Para ser titular de las dependencias del Poder Ejecutivo se requiere ser ciudada
 
 (DEROGADO, D.O. 29 DE ENERO 1982)
 
-> <small>(REFORMADO, D.O. 11 DE MAYO DE 1984)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 60.
 
-Todas las iniciativas de Leyes y Decretos así como los reglamentos y acuerdos que el Ejecutivo formule, promulgue o expida, para que sean obligatorios deberán estar firmados por éste y por los titulares de las dependencias que establezca la Ley Orgánica del Poder Ejecutivo, sin este requisito no serán válidos.
+Todas las iniciativas de Leyes y Decretos así como los reglamentos y acuerdos que el Ejecutivo formule, promulgue o expida, para que sean obligatorios deberán estar firmados por éste y por los titulares de las dependencias que establezca el Código de la Administración Pública de Yucatán, sin este requisito no serán válidos.
 
-> <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 61.
 
-Los titulares de las dependencias del Poder Ejecutivo, Directores, Jefes de Oficina y Organismos descentralizados, en su caso, serán responsables de las disposiciones que autoricen con infracción de la Constitución Federal, de la local y de las Leyes. Esta responsabilidad es sin perjuicio de la que resulte contra el Gobernador.
+Los titulares de las dependencias y entidades del Poder Ejecutivo, Directores, Jefes de Departamento y de Oficina y, en general, los servidores públicos de la administración pública estatal, en su caso, serán responsables de las disposiciones que autoricen con infracción de la Constitución Federal, de la local y de las Leyes. Esta responsabilidad es sin perjuicio de la que resulte contra el Gobernador.
 
-> <small>(REFORMADO, D.O. 11 DE MAYO DE 1984)</small>
+Las ausencias de los servidores públicos y funcionarios del Poder Ejecutivo serán suplidas en los términos del Código de la Administración Pública de Yucatán.
 
-### CAPÍTULO SEGUNDO. Del Acceso a la Información Pública y de la Protección de los Datos Personales
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(ADICIONADO, D.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-###### Artículo 62.
+### CAPITULO VI. De la Defensoría Pública
 
-Las falta (sic) de los funcionarios del Gobierno serán suplidas en los términos de la Ley Orgánica del Poder Ejecutivo del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
+
+###### Artículo 62
+
+El Ministerio Público es la Institución única e indivisible que representa los intereses de la sociedad, y tiene por objeto dirigir la investigación de los hechos que la ley señale como delitos; ejercitar la acción penal ante los tribunales y adoptar medidas para proteger a las víctimas y testigos, conforme a lo previsto por las leyes correspondientes.
+
+La Institución del Ministerio Público, en su carácter de representante de la sociedad, vigilará por el cumplimiento de las leyes y se regirá por los principios de buena fe, justicia, imparcialidad, independencia, legalidad, objetividad, y unidad.
+
+Para el cumplimiento de su objeto, el Ministerio Público estará a cargo de la Fiscalía General del Estado de Yucatán, la cual es una dependencia del Poder Ejecutivo, con autonomía técnica y de gestión, bajo el mando del Fiscal General del Estado, quien será su representante legal; y se auxiliará de la policía responsable de la investigación de los delitos, la cual estará bajo su autoridad y mando inmediato, así como de las instancias policiales y de seguridad tanto públicas como privadas, de acuerdo con lo que establezcan las leyes.
+
+El Fiscal General del Estado será designado por el Titular del Ejecutivo del Estado, con ratificación del Congreso del Estado. Para ser Fiscal General del Estado se requiere cubrir los mismos requisitos que para ser Magistrado del Tribunal Superior de Justicia.
+
+El Fiscal General del Estado podrá ser removido por el Ejecutivo en términos de la ley.
+
+La Ley de la Fiscalía General del Estado, regulará su integración, estructura, funcionamiento, competencia y administración. De igual forma establecerá el servicio profesional de carrera para los servidores públicos adscritos a la Fiscalía.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
+
+### CAPITULO I. Del Poder Judicial
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 63.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia, en los Juzgados de Primera Instancia y en los demás establecidos o que en adelante establezcan las leyes.
+La Defensoría Pública es una institución de orden público y obligatoria para el Estado, la cual tiene por objeto proporcionar defensa penal de alta calidad profesional y gratuita a las personas que carezcan de abogado por cualquier circunstancia; velar por la igualdad ante la ley; por el debido proceso y actuar con profundo respeto por la dignidad humana de los representados; asimismo, ofrecerá sus servicios a los adolescentes sujetos a la ley de la materia y asesorará en asuntos civiles, administrativos, mercantiles y de amparo a quienes así lo soliciten y que no se encuentren en condiciones de retribuir los servicios de un abogado postulante.
 
-> <small>(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+La prestación del servicio de defensoría pública estará a cargo del Instituto de la Defensoría Pública del Estado, órgano del Poder Ejecutivo, con autonomía técnica y de gestión, bajo el mando del Defensor General del Estado, quien será su titular y su representante legal.
 
-Las leyes establecerán medios alternativos a la vía jurisdiccional contenciosa para dirimir controversias.
+El Instituto de la Defensoría Pública deberá tener una estructura integrada por al menos un área de litigación, otra de estudio, investigación y análisis, y una más de servicios forenses. Contará también con defensores públicos y demás personal que señale su ley orgánica.
 
-> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+La ley establecerá el sistema de licitaciones de la defensa penal pública para el otorgamiento de contratos de prestación de servicios por medio de personas físicas o morales externas al Instituto.
+
+Las percepciones de los defensores públicos no podrán ser inferiores a las que correspondan a los fiscales del Ministerio Público.
+
+La ley regulará la integración, funcionamiento, competencia y administración del Instituto de la Defensoría Pública del Estado, conforme a lo dispuesto por esta Constitución y establecerá el servicio profesional de carrera para los servidores públicos adscritos a la defensoría pública.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+(REUBICADO, D.O. 17 DE MAYO DE 2010)
+
+### CAPITULO II. De los Requisitos para ser Magistrado
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ## TITULO SEXTO. Del Poder Judicial
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
+
+### CAPITULO III. De las Atribuciones del Tribunal Superior de Justicia
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 64.
 
-El Tribunal Superior de Justicia se compondrá de nueve Magistrados. Seis de los Magistrados integrarán el Pleno del Tribunal que funcionará colegiadamente o dividido en salas.
+El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, en el Tribunal de Justicia Electoral y Administrativa, en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los Juzgados de Primera instancia y en los demás establecidos o que en adelante establezca la ley. En el ejercicio de la función judicial impartirá justicia con apego a los principios de autonomía, imparcialidad, independencia, legalidad, objetividad y seguridad jurídica.
 
-Los otros tres Magistrados integrarán la Sala Especializada en Justicia para Adolescentes, máximo órgano jurisdiccional en esta materia. Su funcionamiento y atribuciones estarán determinados por la legislación secundaria. Estos tres Magistrados no integrarán el Pleno del Tribunal Superior de Justicia.
+La ley establecerá y organizará los Juzgados de Primera Instancia; así mismo, fijará el procedimiento para la designación de los jueces y los requisitos para su permanencia en el cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 1 DE OCTUBRE DE 2006)</small>
+El Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial y estará integrado por once Magistrados, quienes tendrán su respectivo suplente para casos de ausencias mayores a tres meses; funcionará en Pleno y en Salas, de conformidad con lo dispuesto por esta Constitución y las leyes.
+
+Las Salas del Tribunal Superior de Justicia podrán ser unitarias o colegiadas, estas últimas estarán integradas por tres Magistrados cada una. Las Salas conocerán de las materias, recursos y procedimientos que establezcan esta Constitución y las leyes respectivas.
+
+Sus sesiones serán públicas, salvo cuando lo exija la moral o el interés público y en los casos previstos en la ley.
+
+Las resoluciones del Pleno del Tribunal Superior de Justicia serán definitivas e inatacables, por lo que contra ellas no procederá juicio, ni recurso alguno.
+
+El Pleno del Tribunal Superior de Justicia, con la finalidad de realizar una adecuada distribución de los asuntos que le competen a las Salas del Tribunal, estará facultado para expedir acuerdos generales, que deberán ser publicados en el órgano de difusión oficial del Estado para todos los efectos legales que corresponda.
+
+Cada cuatro años, el Pleno del Tribunal Superior de Justicia elegirá de entre sus miembros al Presidente del Tribunal, quien no integrará Sala y podrá ser reelecto para un período más.
+
+El Presidente del Tribunal Superior de Justicia será el representante legal del Poder Judicial, con las atribuciones que le confiere esta Constitución y la ley.
+
+La ley fijará los términos en que sean obligatorios los criterios que establezcan las Salas y el Pleno del Tribunal Superior de Justicia, sobre la interpretación de esta Constitución, las leyes y reglamentos estatales o municipales, así como los requisitos para su interrupción y modificación, sin contravenir la jurisprudencia de los Tribunales de la Federación.
+
+Los Magistrados del Poder Judicial del Estado durarán en el ejercicio de su cargo seis años, contados a partir de la fecha en que rindan el Compromiso Constitucional, al término de los cuales podrán ser ratificados por un segundo período de hasta por nueve años más y durante el ejercicio de su cargo sólo podrán ser removidos en los términos que establezcan esta Constitución y las leyes de responsabilidades de los servidores públicos.
+
+Al término de los quince años a que se refiere este artículo, los Magistrados del Tribunal Superior de Justicia tendrán derecho a un haber por retiro vitalicio, con base en las percepciones de los Magistrados en activo y conforme lo que establezca la Ley Orgánica del Poder Judicial.
+
+Los Magistrados y Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+
+La administración, vigilancia y disciplina del Poder Judicial del Estado, con excepción del Tribunal Superior de Justicia, estará a cargo del Consejo de la Judicatura del Poder Judicial, de conformidad con las bases que establezcan esta Constitución y las leyes.
+
+El presupuesto asignado al Poder Judicial del Estado no podrá ser inferior al dos por ciento del total del gasto programable, el cual no será disminuido respecto al del año anterior y se fijará anualmente, en la forma y términos que establezca la ley.
+
+El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios es un órgano jurisdiccional del Poder Judicial, que tendrá competencia para resolver los asuntos laborales que surjan entre las autoridades y sus trabajadores, con las atribuciones y la estructura que le confiera la ley.
+
+Las leyes establecerán medios alternativos a la vía jurisdiccional contenciosa para dirimir controversias y los órganos encargados de su aplicación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
+
+### CAPITULO IV. Del Control Constitucional Local
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 65.
 
-Cada uno de los Magistrados del Tribunal Superior de Justicia, durará en su encargo cuatro años, y será nombrado por el Congreso del Estado por mayoría absoluta del número total de diputados. Solo podrá ser removido previo juicio de responsabilidad.
+Para ser designado Magistrado del Poder Judicial del Estado se deberá:
 
-> <small>(ADICIONADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
+I.- Ser ciudadano mexicano por nacimiento, y tener, además, la calidad de ciudadano yucateco;
 
-Los Magistrados y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+II.- Estar en ejercicio de sus derechos políticos y civiles;
 
-(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988) (F. DE E., D.O. 3 DE ENERO DE 1989)
+III.- Poseer al día de la designación título profesional de abogado o licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello, con antigüedad mínima de diez años;
+
+IV.- Cumplir con lo dispuesto en la fracción IV del Artículo 95 de la Constitución Política de los Estados Unidos Mexicanos;
+
+V.- Tener cuando menos treinta y cinco años cumplidos el día de la designación y menos de sesenta y cinco;
+
+VI.- Haber residido en el Estado durante los dos años anteriores al día de la designación, y
+
+VII.- No haber sido titular del Poder Ejecutivo del Estado, de alguna de las dependencias o entidades de la Administración Pública del Estado de Yucatán, de un organismo autónomo, Senador, Diputado Federal, Diputado local, Presidente Municipal o ministro de culto, durante un año previo al día de la designación.
+
+Los Magistrados de la Sala especializada en Justicia para Adolescentes deberán acreditar tener los conocimientos suficientes en la materia.
+
+Los Magistrados del Tribunal de Justicia Electoral y Administrativa deberán acreditar experiencia y conocimientos en materias electoral y administrativa y no ser, ni haber sido dirigentes en los órganos nacionales, estatales o municipales, de algún partido político, durante los 3 años previos al de la elección, en términos de lo previsto en la Ley de la materia.
+
+Los Magistrados del Tribunal de los Trabajadores al Servicio del Estado y Municipios deberán acreditar experiencia y conocimientos en materia laboral, en términos de lo previsto en la Ley de la materia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 66.
 
-Para ser Magistrado del Tribunal Superior de Justicia se requiere:
+Las propuestas para ocupar el cargo de Magistrado del Poder Judicial deberán considerar a personas que hayan prestado sus servicios con eficiencia y probidad en la procuración o la impartición de justicia o en la carrera judicial o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, de conformidad con el siguiente procedimiento.
 
-I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco;
+El titular del Poder Ejecutivo formulará una terna que enviará al Congreso del Estado para que, una vez analizadas las propuestas y dentro del plazo de treinta días naturales, proceda a designar a un Magistrado con el voto de la mayoría de los miembros presentes en la sesión.
 
-II.- Estar en ejercicio de sus derechos políticos y civiles.
+En el caso de los Magistrados del Tribunal de Justicia Electoral y Administrativa deberán provenir de propuestas de Universidades y asociaciones de profesionistas del Derecho, en términos de lo previsto en la Ley de la materia.
 
-III.- Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de Abogado, expedido por la autoridad o corporación legalmente facultada para ello;
+Los Magistrados podrán ser ratificados por el Congreso del Estado, siempre que durante su ejercicio en el cargo hayan actuado con apego a los principios que rigen la función judicial.
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
+Para tal efecto, el Pleno del Tribunal Superior de Justicia formulará una evaluación de desempeño que acredite la actuación profesional y ética en el cargo, en los términos de la ley. Dicha evaluación deberá ser presentada al Congreso del Estado para que este órgano la considere y dictamine lo procedente, lo cual deberá ser aprobado por mayoría de los Diputados presentes en la sesión relativa, de conformidad con lo que establezca la ley.
 
-V.- No tener más de sesenta y cinco años de edad ni menos de treinta y cinco, el día de la elección.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 1 DE OCTUBRE DE 2006)</small>
-
-Los Magistrados que integren la Sala Especializada en Justicia para Adolescentes, deberán contar con conocimientos suficientes en la materia de su competencia y serán designados por el Congreso del Estado a propuesta del Pleno del Tribunal Superior de Justicia y del Gobernador del Estado. No deberán tener menos de treinta años el día de su designación.
-
-(ADICIONADO [N. DE E. REUBICADO], D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
-
-Los nombramientos de los Magistrados y Jueces integrantes del Poder Judicial, serán hechos preferentemente, entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 67.
 
-Los Magistrados del Tribunal Superior de Justicia, al entrar a ejercer su encargo, prestarán ante el Congreso, y en los recesos de éste, ante la Diputación Permanente, la siguiente protesta: "Presidente: ¿Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Tribunal Superior de Justicia del Estado, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, y las Leyes que de ellas emanen mirando en todo por el bien y prosperidad de la Unión y del Estado? - Magistrado: - Sí Protesto.- Presidente: Si no lo hiciereis así, la Nación y el Estado os lo demanden".
+Los Magistrados del Poder Judicial del Estado al entrar a ejercer su encargo, manifestarán ante el Congreso, o ante la Diputación Permanente, en los recesos de aquél, el compromiso Constitucional siguiente: Presidente; ¿Se compromete a desempeñar leal y patrióticamente el cargo de Magistrado del Poder Judicial del Estado, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, y las Leyes que de ellas emanen, y pugnar en todo momento por el bien y prosperidad de la Unión y del Estado? - Magistrado: "Si, me comprometo.- Presidente: Si no lo hiciere así, que la Nación y el Estado se lo demanden".
 
-(REFORMADO, D.O. 1 DE OCTUBRE DE 2006) (F. DE E., D.O. 25 DE OCTUBRE DE 2006)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 68.
 
-Las vacantes por licencias concedidas a los Magistrados del Tribunal Superior de Justicia, serán cubiertas conforme a la Ley Orgánica del Poder Judicial del Estado de Yucatán.
+El cargo de Magistrado y de Consejero de la Judicatura del Poder Judicial del Estado, sólo es renunciable por causa grave calificada por el Congreso del Estado o en los recesos de éste, por la Diputación Permanente.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+Las ausencias accidentales, temporales o absolutas de los Magistrados y de los Consejeros de la Judicatura del Poder Judicial del Estado, serán suplidas en la forma que establezca la ley.
+
+Es causa de retiro forzoso de los Magistrados y de los Consejeros de la Judicatura del Poder Judicial del Estado, padecer incapacidad, ya sea física o mental, que impida desempeñar el encargo, en la forma que dispongan las leyes.
+
+Los Magistrados, Consejeros de la Judicatura, Jueces y Secretarios del Poder Judicial del Estado, no podrán, en ningún caso, aceptar o desempeñar empleo o encargo de la Federación, de los Estados, del Distrito Federal o de particulares, salvo los cargos en instituciones científicas, docentes, literarias o de beneficencia.
+
+Las personas que hayan ocupado el cargo de Magistrado, Consejero de la Judicatura o Juez del Poder Judicial del Estado, no deberán, dentro del año siguiente a la fecha de conclusión del cargo, cualquiera que fuere la causa del mismo, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado de Yucatán, con las excepciones que establezca la ley.
+
+Los impedimentos previstos en este artículo serán aplicables a los servidores públicos con licencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
+
+### CAPITULO V. Del Tribunal de Justicia Electoral y Administrativa
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 69.
 
-El cargo de Magistrado del Tribunal Superior de Justicia sólo es renunciable por causa grave calificada por el Congreso, y en los recesos de éste, por la Diputación Permanente.
+Corresponde al Pleno del Tribunal Superior de Justicia:
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+I.- Hacer uso del derecho de iniciar leyes que le confiere esta Constitución;
+
+II.- Revisar las decisiones del Consejo de la Judicatura respecto de la creación de Departamentos Judiciales y juzgados, modificar su competencia y jurisdicción territorial, en términos de la ley;
+
+III.- Resolver las contradicciones entre los criterios que emitan sus Salas, las cuales tendrán carácter obligatorio en los términos que señale la ley;
+
+IV.- Expedir el Reglamento Interior, Acuerdos Generales y demás normas administrativas que sean necesarias para el cumplimiento de sus fines;
+
+V.- Remitir a los poderes, Legislativo y Ejecutivo, del Estado los informes sobre administración de justicia que le soliciten, en los términos de la ley;
+
+VI.- Formular el proyecto anual de Presupuesto de Egresos del Tribunal Superior de Justicia y remitirlo al Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto del Poder Judicial;
+
+VII.- Presentar la cuenta pública, con la documentación respectiva y en los términos establecidos en la Ley de la materia, y
+
+VlII.- Las demás que le confieran esta Constitución y otras leyes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
+
+### CAPITULO VI. Del Consejo de la Judicatura
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 70.
 
-Los Jueces de Primera Instancia durarán en su encargo cuatro años y sólo podrán ser removidos con causa justificada y previo el juicio de responsabilidad respectivo, a menos que sean promovidos a grado superior.
+En materia de control constitucional local, corresponde al Pleno del Tribunal Superior de Justicia erigido en Tribunal Constitucional, conocer:
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+I.- De las controversias constitucionales que, con excepción de las controversias en materia electoral, se susciten entre:
+
+a) El Estado y los municipios;
+
+b) El Poder Ejecutivo y el Poder Legislativo;
+
+c) Dos o más municipios del Estado, siempre que no se trate de cuestiones relativas a sus límites territoriales, y
+
+d) Uno o más organismos públicos autónomos y otro u otros organismos o poderes del Estado o Municipios.
+
+Las resoluciones del Pleno del Tribunal Superior de Justicia del Estado, sobre controversias constitucionales que declaren la invalidez de normas, con excepción de las normas estatales impugnadas por uno o más municipios, tendrán efectos generales cuando hubieren sido aprobadas por al menos las dos terceras partes de sus integrantes y surtirán sus efectos a partir de su publicación en el órgano de difusión oficial del Estado.
+
+En los demás casos, las resoluciones de Pleno del Tribunal Superior de Justicia tendrán efectos únicamente respecto de las partes en la controversia.
+
+Las controversias constitucionales locales tienen por objeto resolver los conflictos de carácter competencial que surjan entre diferentes órganos de gobierno que pertenecen a órdenes distintos, así como entre órganos que forman parte del mismo orden del régimen interno del Estado, con base en lo dispuesto por esta Constitución, sin perjuicio de las controversias constitucionales que le compete resolver de manera exclusiva a la Suprema Corte de Justicia de la Nación.
+
+II.- De las acciones de inconstitucionalidad en contra de normas de carácter general, estatales o municipales que se consideren contrarias a la Constitución Política del Estado que sean promovidas por:
+
+a) El Ejecutivo del Estado;
+
+b) El Fiscal General del Estado;
+
+c) El treinta y tres por ciento de los integrantes del Congreso, en contra de las disposiciones de carácter general aprobadas por los ayuntamientos;
+
+d) El treinta y tres por ciento de los Regidores del municipio en contra de las disposiciones de carácter general aprobadas por el ayuntamiento, y
+
+e) Los organismos públicos autónomos, por conducto de quien le represente legalmente, con relación a la materia de su competencia.
+
+Las acciones de inconstitucionalidad podrán ser ejercitadas dentro de los treinta días naturales siguientes al de su publicación.
+
+Las resoluciones del Pleno del Tribunal Superior de Justicia sólo podrán declarar la invalidez de las normas impugnadas, siempre que fueren aprobadas por al menos las dos terceras partes de sus miembros y surtirá efectos a partir de su publicación en el órgano de difusión oficial del Estado.
+
+III.- De las acciones contra la omisión legislativa o normativa, imputables al Congreso, al Gobernador o a los Ayuntamientos, por la falta de expedición de las normas jurídicas de carácter general, a que estén obligados por esta Constitución, así como de las leyes, siempre que la omisión afecte el debido cumplimiento o impida la eficacia de la misma.
+
+El ejercicio de esta acción corresponderá a las autoridades estatales y municipales, así como a las personas residentes en el Estado conforme a lo que disponga la ley.
+
+La resolución que emita el Pleno del Tribunal Superior de Justicia y decrete la existencia de omisión legislativa o normativa, surtirá sus efectos a partir de su publicación en el órgano de difusión oficial del Estado.
+
+La resolución del Pleno, respecto a omisiones del Congreso del Estado, otorgará un plazo que comprenda dos períodos ordinarios de sesiones para que éste emita la ley, decreto o acuerdo omitido. Si se trata de omisiones del Poder Ejecutivo o de los ayuntamientos, se otorgará un plazo de seis meses para subsanar la omisión.
+
+La declaración de invalidez de las resoluciones a que se refieren las fracciones I y II de este artículo no tendrá efectos retroactivos, salvo en materia penal, en la que regirán las disposiciones constitucionales y legales aplicables de esta materia.
+
+IV.- De las cuestiones de control previo respecto de la constitucionalidad de los proyectos de ley aprobados por el Pleno del Congreso del Estado y hasta antes de su promulgación y publicación; que podrán promover, el Gobernador; el treinta y tres por ciento de los integrantes del Congreso; el Fiscal General del Estado; los Titulares de los organismos públicos autónomos y los Presidentes Municipales en el ámbito de su competencia, en términos de Ley.
+
+Las decisiones del Pleno del Tribunal Superior de Justicia, adoptadas por medio del voto de las dos terceras partes de sus integrantes, en la que estime la inconstitucionalidad de las disposiciones contenidas en los proyectos de ley aprobados por el Pleno del Congreso del Estado, serán obligatorias para éste.
+
+La ley determinará los procedimientos para la substanciación de las Cuestiones de Control Previo de Constitucionalidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
+
+### CAPITULO VII. De las Disposiciones Generales
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 71.
 
-La Ley establecerá y organizará los Juzgados de Primera Instancia y los demás que se creyeren convenientes, y el Ministerio Público del Estado.
+El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado es un órgano especializado del Poder Judicial, el cual se integrará con tres Magistrados, tendrá competencia para conocer y resolver los procedimientos, juicios e impugnaciones que se presenten contra actos y omisiones en materia electoral, en los términos que señale la ley; dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y paraestatal del Estado y los Municipios, y los particulares, así como de las responsabilidades administrativas en que incurran los servidores públicos.
 
-> <small>(REFORMADO, D.O. 30 DE MARZO DE 2007)</small>
+El Tribunal de Justicia Electoral y Administrativa contará con plena autonomía en el dictado de sus resoluciones, las cuales serán definitivas e inatacables; su organización y funcionamiento se establecerá en la Ley Orgánica del Poder Judicial.
+
+Los Magistrados del Tribunal de Justicia Electoral y Administrativa deberán cumplir los mismos requisitos que los Magistrados del Tribunal Superior de Justicia, además de los previstos en el párrafo tercero del artículo 65 de esta Constitución.
+
+La administración, vigilancia y disciplina en el Tribunal de Justicia Electoral y Administrativa corresponderá, en los términos que señale la ley, a una Comisión del Consejo de la Judicatura, el cual se integrará por el Presidente del Tribunal de Justicia Electoral y Administrativa quien la presidirá y dos miembros del Consejo de la Judicatura.
+
+El Tribunal de Justicia Electoral y Administrativa propondrá su presupuesto al Presidente del Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto del Poder Judicial. Asimismo, dicho Tribunal expedirá su Reglamento Interno y los acuerdos generales necesarios para su adecuado funcionamiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
+
+### CAPÍTULO I. De la Protección de los Derechos Humanos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 72.
 
-La procuración de justicia y la persecución de los delitos, incumbe al Ministerio Público y a la Policía Ministerial, la cual estará bajo la autoridad y mando inmediato de aquél. El Procurador General de Justicia, los Agentes del Ministerio Público y los Jefes y Agentes de la Policía Ministerial, serán nombrados por el Gobernador del Estado.
+El Consejo de la Judicatura es el órgano del Poder Judicial del Estado, dotado de autonomía técnica y de gestión, al que corresponde conocer y resolver todos los asuntos sobre la administración, vigilancia y disciplina del Poder Judicial del Estado, que no estén reservados de manera exclusiva a la competencia del Tribunal Superior de Justicia, de conformidad con lo que dispongan esta Constitución y la ley.
 
-> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+El Consejo de la Judicatura se integrará por cinco miembros de los cuales, uno será el Presidente del Tribunal Superior, quien también lo será del Consejo y no recibirá remuneración adicional por el desempeño de tal función; dos Consejeros nombrados por el Pleno del Tribunal Superior, de entre los miembros de la carrera judicial; un Consejero designado por la mayoría de los Diputados del Congreso del Estado, presentes en la sesión en que se aborde el asunto y, un Consejero designado por el titular del Poder Ejecutivo.
+
+Para ser Consejero se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento, y tener, además, la calidad de ciudadano yucateco;
+
+II.- Estar en ejercicio de sus derechos políticos y civiles;
+
+III.- Poseer al día de la designación título profesional de licenciado en administración pública, en finanzas públicas, en economía, en derecho, contador público o alguna carrera afín a tales materias, expedido por autoridad o institución legalmente facultada para ello con antigüedad mínima de diez años;
+
+IV.- Cumplir con lo dispuesto en la fracción IV del Artículo 95 de la Constitución Política de los Estados Unidos Mexicanos;
+
+V.- Tener cuando menos treinta y cinco años cumplidos el día de la designación y menos de sesenta y cinco;
+
+VI.- Haber residido en el Estado durante los dos años anteriores al día de la designación, y
+
+VII.- No haber sido titular del Poder Ejecutivo del Estado, de alguna de las dependencias o entidades de la Administración Pública del Estado de Yucatán, de un organismo autónomo, Senador, Diputado Federal, Diputado Local, Presidente Municipal o ministro de culto, durante un año previo al día de la designación.
+
+Todos los Consejeros deberán ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades.
+
+El Pleno del Consejo de la Judicatura tendrá a su cargo la creación de los Departamentos Judiciales, la modificación de su número y jurisdicción territorial; el establecimiento y modificación de la competencia y jurisdicción territorial de los juzgados; de resolver sobre la designación, adscripción, ratificación y remoción de los jueces de primera instancia y de los servidores públicos del Poder Judicial, con excepción de los adscritos al Tribunal Superior de Justicia, de conformidad con lo que establezca la ley.
+
+La Ley Orgánica del Poder Judicial determinará las demás atribuciones que correspondan al Consejo de la Judicatura.
+
+Salvo el Presidente, los Consejeros durarán cuatro años en su cargo, serán sustituidos de manera escalonada y podrán ser ratificados hasta por dos períodos más de cuatro años.
+
+Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad y durante el desempeño de su encargo, sólo podrán ser removidos previo juicio de responsabilidad.
+
+La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual será conducida por el Consejo de la Judicatura y se regirá por los principios de excelencia, imparcialidad, independencia, objetividad, y profesionalismo.
+
+De conformidad con lo que establezca la ley, el Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones.
+
+Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de las mismas, salvo las que establece esta Constitución y las que se refieran a la designación, adscripción, ratificación y remoción de jueces, las cuales podrán ser revisadas por el Pleno del Tribunal Superior de Justicia, únicamente para verificar que hayan sido acordadas conforme a las reglas que disponga la ley y la normatividad aplicable.
+
+En el proceso de programación y presupuestación de los recursos públicos el Consejo deberá implementar como política administrativa indicadores de resultados, como mecanismos para evaluación. El resultado de dichas evaluaciones se deberá considerar en el proceso de programación y presupuesto de los recursos públicos, a fin de propiciar que los recursos económicos se asignen conforme a los resultados alcanzados.
+
+El Consejo de la Judicatura elaborará el presupuesto del Poder Judicial, el cual será remitido por el Presidente del Consejo al titular del Poder Ejecutivo, a más tardar el 15 de octubre de cada año, a fin de que éste considere su incorporación al Proyecto de Presupuesto de Egresos del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
+
+### CAPÍTULO II. Del Acceso a la Información Pública y de la Protección de los Datos Personales
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 73.
 
-La imposición de las penas, así como de las medidas que se apliquen a los adolescentes, es propia y exclusiva de la autoridad judicial, por conducto de sus órganos competentes. Las autoridades que efectúen la remisión y las que impongan las medidas serán independientes entre sí.
+La imposición de las sanciones y medidas de seguridad a los sentenciados y las medidas que se apliquen a los adolescentes, así como su modificación y duración, es propia y exclusiva de la autoridad judicial, por conducto de sus órganos competentes, en términos de ley.
 
-La aplicación de sanciones por infracciones administrativas previstas en las leyes y reglamentos, corresponde a la autoridad competente; lasque únicamente consistirán en multa o arresto hasta por treinta y seis horas. Si el infractor no pagare la multa que se le hubiese impuesto, se conmutará ésta por el arresto correspondiente que no excederá en ningún caso de treinta y seis horas o por trabajos en beneficio de la comunidad. Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+El juez ordenará oficiosamente la prisión preventiva en el caso de delitos de homicidio doloso, violación y secuestro y los delitos cometidos con medios violentos, así como en los delitos graves que determine la ley. En los demás casos, sólo se podrá ordenar la medida cautelar de prisión preventiva cuando el Ministerio Público lo solicite y otras medidas no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté sujeto a proceso o haya sido sentenciado previamente por la comisión de un delito doloso.
+
+La aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, corresponde a la autoridad administrativa competente, las que únicamente consistirán en multa, arresto hasta por treinta y seis horas o en trabajo en favor de la comunidad. Si el infractor no pagare la multa que se le hubiese impuesto, se conmutará ésta por el arresto correspondiente que no excederá en ningún caso de treinta y seis horas. Si el infractor fuere jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. En el caso de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
 > <small>(ADICIONADO, D.O. 1 DE OCTUBRE DE 2006)</small>
 
@@ -1561,9 +1903,11 @@ La aplicación de sanciones por infracciones administrativas previstas en las le
 
 En los términos previstos por esta Constitución, se establece un Sistema Integral de Justicia para las personas que tengan entre 12 años cumplidos y menos de 18 años de edad, a las que se les atribuya o se les declare responsables de conductas tipificadas como delitos en las disposiciones penales del Estado.
 
-> <small>(REFORMADO, D.O. 30 DE MARZO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-La procuración, impartición y acceso a la justicia para adolescentes, estará a cargo del Ministerio Público, la Sala Especializada y los jueces de Justicia para Adolescentes del Tribunal Superior de Justicia, y la Defensoría Legal. La ejecución y supervisión de las medidas impuestas a los Adolescentes, estará a cargo del Centro de Aplicación de Medidas y la Dirección de Prevención y Readaptación Social, en los ámbitos de sus competencias, los que serán órganos especializados de la materia.
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+
+La procuración, impartición y acceso a la justicia para adolescentes estará a cargo de la Fiscalía General del Estado, de la Sala Especializada, de los jueces en materia de Justicia para Adolescentes del Poder Judicial del Estado, y del Instituto de la Defensoría Pública del Estado. La ejecución y supervisión de las medidas estará a cargo del Centro de Aplicación de Medidas y la Dirección de Ejecución, Prevención y Reinserción Social, en los ámbitos de sus competencias, los que serán órganos especializados en la materia.
 
 > <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
 
@@ -1573,61 +1917,27 @@ Los procedimientos seguidos a los adolescentes, tendrán como principios rectore
 
 En los términos y condiciones de Ley, se aplicarán medidas de orientación, protección y tratamiento externo o en internamiento que amerite cada caso, con el fin de lograr la reincorporación social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades.
 
-> <small>(REFORMADO, D.O. 30 DE MARZO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-El tratamiento en internamiento se utilizará como medida extrema, en el menor tiempo posible y a los adolescentes mayores de catorce años de edad, por la comisión de conductas calificadas como graves en las disposiciones penales del Estado.
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+El internamiento se utilizará como medida extrema, en el menor tiempo posible, y se aplicará a los adolescentes mayores de catorce años de edad, por la comisión de conductas calificadas como delitos graves en la ley de materia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+(REUBICADO, D.O. 17 DE MAYO DE 2010)
 
 ## TITULO SEPTIMO. De los Organismos Autónomos
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ANTES CAPITULO UNICO], D.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O. 17 DE MAYO DE 2010)</small>
+
+### CAPÍTULO III. De las Disposiciones Generales
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 74.
-
-Para ser Procurador General de Justicia del Estado, se requieren las mismas condiciones que para ser Magistrado.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
-###### Artículo 75.
-
-Corresponde al Tribunal Superior de Justicia funcionando en pleno:
-
-I.- hacer uso del derecho de iniciar Leyes que le confiere esta Constitución;
-
-II.- ejercer las funciones de Jurado que le confiere el artículo 100 de esta Constitución;
-
-> <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
-
-III.- nombrar y remover a los Jueces de Primera Instancia, a los Jueces de Paz, a los Secretarios, a los Actuarios y demás empleados subalternos de la Administración de Justicia;
-
-IV.- admitir las renuncias que de sus encargos hagan los funcionarios y empleados referidos en la fracción anterior, así como conceder licencias a los mismos;
-
-V.- conceder licencias a los Magistrados, llamando al suplente que corresponda; y (sic)
-
-VI.- vigilar y promover cuanto se relacione con la buena marcha de la Administración de Justicia;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
-
-VII.- formular el proyecto de Presupuesto de Egresos del Poder Judicial, atendiendo las posibilidades del ingreso y del gasto público del Estado, y remitirlo al titular del Poder Ejecutivo a más tardar el 15 de Octubre de cada año, a fin de que éste considere su incorporación, al Proyecto de Presupuesto de Egresos del Estado;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
-
-VIII.- presentar la cuenta pública, con la documentación respectiva y en los términos establecidos en la Ley de la materia, y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(ADICIONADA, D.O. 19 DE MARZO DE 2010)</small>
-
-IX.- las demás que le confieran esta Constitución y otras leyes.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
-
-###### Artículo 75 Bis.
 
 Se establece un Organismo Público Autónomo denominado Comisión de Derechos Humanos del Estado de Yucatán, con personalidad jurídica y patrimonio propio, encargada de la protección, defensa, estudio, promoción y divulgación de los derechos humanos.
 
@@ -1637,9 +1947,11 @@ Se integrará por un Presidente, un Consejo Consultivo y el personal necesario; 
 
 La Comisión de Derechos Humanos estará facultada para conocer los actos u omisiones violatorios, de cualquier servidor público estatal o municipal, con competencia no jurisdiccional; tratándose del Poder Judicial, únicamente conocerá los de naturaleza administrativa. No tendrá facultades en asuntos electorales y de tipo laboral.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 18 DE AGOSTO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-###### Artículo 75 Ter.
+(REUBICADO Y REFORMADA SU DENOMINACION, D.O. 17 DE MAYO DE 2010)
+
+###### Artículo 75.
 
 El Instituto Estatal de Acceso a la Información Pública es un organismo público autónomo, con personalidad jurídica y patrimonio propios, encargado de garantizar el derecho de acceso a la información pública y protección de datos personales, de conformidad con lo establecido en el artículo 6 de la Constitución Política de los Estados Unidos Mexicanos. Se regirá bajo los principios de especialización, independencia, objetividad e imparcialidad en sus decisiones, las cuales tendrán el carácter de definitivas; asimismo estará facultado para hacer cumplir sus resoluciones y sancionar su inobservancia.
 
@@ -1647,11 +1959,19 @@ El Instituto Estatal de Acceso a la Información Pública, tendrá un Consejo Ge
 
 La Ley determinará el procedimiento de designación de los Consejeros y del Secretario Ejecutivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
+> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-Los organismos autónomos reconocidos por esta Constitución deberán enviar al Poder Ejecutivo del Estado su proyecto de Presupuesto de Egresos, a más tardar el 15 de octubre de cada año. Asimismo; rendirán informe de su cuenta pública en los términos que señale la Ley en la materia; (sic)
+###### Artículo 75 Bis.
+
+Los organismos autónomos reconocidos por esta Constitución deberán enviar al Poder Ejecutivo del Estado su proyecto de Presupuesto de Egresos, a más tardar el 15 de octubre de cada año Asimismo; rendirán informe de su cuenta pública en los términos que señale la Ley en la materia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+###### Artículo 75 Ter.
+
+(DEROGADO, D.O. 17 DE MAYO DE 2010)
 
 (REUBICADO [N. DE E. ANTES TITULO SEPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
@@ -1737,13 +2057,21 @@ III.- Saber leer y escribir;
 
 IV.- No ser ministro de culto religioso, salvo que se separe definitivamente de su encargo, cinco años antes de la elección, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en la Ley de la materia;
 
-V.- No ser Gobernador del Estado ni Magistrado del Tribunal Superior de Justicia, durante el año calendario de la elección, a menos que se separe de sus funciones ciento veinte días antes de la elección;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
+V.- No ser Gobernador del Estado, Magistrado del Tribunal Superior de Justicia o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios o Consejero de la Judicatura, durante el año calendario de la elección, a menos que se separe de sus funciones 120 días antes de la elección;
 
 VI.- No estar en servicio activo en el Ejército Nacional, ni tener el mando de corporación policíaca alguna en el Municipio en que pretenda su elección, cuando menos durante los noventa días anteriores a ella;
 
 VII.- No haber sido sentenciado, por la comisión de delito doloso;
 
-VIII.- No ser Magistrado o Secretario del Tribunal Electoral del Estado, a menos que se separe de sus funciones tres años antes de la fecha de la elección;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
+VIII.- No ser Magistrado o Secretario del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, ni Consejero, Secretario Ejecutivo o sus equivalentes, de los organismos electorales locales o federales, a menos que se separe de sus funciones 3 años antes de la fecha de la elección;
 
 IX.- No ser Consejero ciudadano electoral, local o federal, a menos que se separe de sus funciones tres años antes de la fecha de la elección;
 
@@ -1779,7 +2107,11 @@ La ley que organiza y reglamenta el funcionamiento de los ayuntamientos, estable
 
 Dichos organismos privilegiarán la conciliación como mecanismo de solución de controversias.
 
-En los municipios que no cuenten con un Tribunal de lo Contencioso Administrativo, resolverá las controversias a que se refiere la presente fracción, el Tribunal de lo Contencioso Administrativo del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+
+En los municipios que no cuenten con un Tribunal de lo Contencioso Administrativo, resolverá las controversias a que se refiere el presente artículo, el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado.
 
 > <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
@@ -1889,7 +2221,11 @@ VI.- Rastro;
 
 VII.- Calles, parques y jardines y su equipamiento;
 
-VIII.- Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito, que estarán al mando del Presidente Municipal, en los términos del Reglamento correspondiente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
+VIII.- Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito, que estarán al mando del Presidente Municipal, en los términos de la ley en materia de seguridad pública del Estado y demás disposiciones aplicables;
 
 IX.- (DEROGADA, D.O. 31 DE AGOSTO DE 2006)
 
@@ -1939,13 +2275,29 @@ Los municipios podrán celebrar convenios con el Ejecutivo del Estado, a fin de 
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(REFORMADO, D.O. 19 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 86.
 
 El Estado, en su función ordenadora de la convivencia humana, ejercerá la acción que le compete, en la medida necesaria para asegurar la solidaridad de los elementos asociados y garantizar a éstos una equitativa participación en el bienestar que nace de la convivencia misma.
 
-El Estado, por medio de sus Poderes Públicos, garantizará el respeto al derecho de todo individuo de gozar de un ambiente ecológicamente equilibrado y la protección de los ecosistemas que conforman el patrimonio natural de Yucatán, basado en los siguientes principios:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 17 DE MAYO DE 2010)</small>
+
+La Seguridad Pública en Yucatán es una función a cargo del Estado y de los Municipios, en coordinación con la Federación, y tiene por objeto la prevención, la investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en el ámbito de sus respectivas competencias. La actuación de las instituciones estatal y municipales de Seguridad Pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en los Tratados Internacionales en la materia ratificados por el Estado Mexicano y publicados en el Diario Oficial de la Federación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
+
+Las Instituciones de Seguridad Pública, estatal y municipales, serán de carácter civil, disciplinado y profesional y deberán coordinarse entre sí y con la Federación para cumplir los objetivos de la función a su cargo. El Sistema Estatal de Seguridad Pública tendrá por objeto planear, normar y coordinar las actividades que se realizan en el Estado en materia de Seguridad Pública y estará conformado en los términos que señale la ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES SEGUNDO PARRAFO], D.O. 17 DE MAYO DE 2010)</small>
+
+El Estado, por medio de sus Poderes Públicos, garantizará el respeto al derecho de todo individuo de gozar de un ambiente ecológicamente equilibrado y la protección de los ecosistemas que conforman el patrimonio natural de Yucatán, basado en los siguientes criterios:
 
 I.- Los habitantes del Estado tienen derecho a vivir en un ambiente saludable que les permita una vida digna, y a hacer uso racional de los recursos naturales con que cuenta la Entidad, para alcanzar el desarrollo sostenido, en los términos que señale la ley de la materia;
 
@@ -1965,17 +2317,35 @@ II.- imponer a la actividad individual las limitaciones que sea menester para ev
 
 III.- reintegrar la actividad individual, cuando ésta se encuentre menoscabada por el egoísmo, u otra manifestación análoga, de elementos inadaptados a la estructura social;
 
-> <small>(ADICIONADA, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-IV.- garantizar la protección de los derechos humanos;
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
+IV.- garantizar la protección de los derechos humanos y la observancia del principio de presunción de inocencia, por el cual toda persona acusada de algún delito será inocente hasta que se demuestre su culpabilidad mediante un juicio;
 
 (REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
 
 V.- ordenar las relaciones sociales hacia el fin de que la convivencia deje de ser pesada carga para la mayoría y fuente de bienandanza para una minoría, adoptando como principio de justicia el de que cada quien debe cooperar al bienestar colectivo, en la medida de sus fuerzas físicas e intelectuales, y recibir en cambio, de la sociedad, lo bastante para satisfacer sus necesidades;
 
-(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-VI.- organizar el sistema represivo, inspirándolo en el criterio de defensa social, eliminando todo concepto de venganza colectiva;
+> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+
+VI.- operar el sistema procesal penal acusatorio, caracterizado por su oralidad y basado en los principios de publicidad, contradicción, concentración, continuidad e inmediación, salvo las excepciones que establezca la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la ley, el cual tiene por objeto esclarecer los hechos, proteger al inocente, procurar que el hecho delictivo no quede impune y que los daños causados por el mismo sean reparados.
+
+La ley establecerá el procedimiento que deberá seguirse ante los tribunales penales y las demás instituciones que formarán parte del sistema acusatorio, y deberá garantizar que el juicio se efectúe ante un juez o tribunal que no haya conocido del caso previamente;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADA, D.O. 17 DE MAYO DE 2010)</small>
+
+VI Bis.- proporcionar y promover mecanismos alternativos para la solución de controversias a través de vías colaborativas y pacíficas, en las que se privilegie el dialogo entre los particulares, creando las instancias y emitiendo las disposiciones que correspondan para la consecución de ese fin;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADA, D.O. 17 DE MAYO DE 2010)</small>
+
+VI Ter.- organizar el sistema penitenciario sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción social del sentenciado a la sociedad y procurar que no vuelva a delinquir, al observar los beneficios que para él prevea la ley;
 
 (REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
 
@@ -2173,7 +2543,7 @@ La planeación del Estado también implicará mecanismos para el uso racional de
 
 ###### Artículo 97.
 
-Se entenderá como servidor público a los representantes de elección popular, a todo funcionario, empleado o persona que desempeñe un empleo, cargo o comisión en los poderes Ejecutivo, Legislativo y Judicial, así como en el ámbito Municipal, en cualquiera de sus modalidades, o en los organismos autónomos; quienes serán responsables por los actos u omisiones en el desempeño de sus funciones.
+Se entenderá como servidor público a los representantes de elección popular; a todo funcionario, empleado o persona que desempeñe un empleo, cargo o comisión en el Poder Judicial del Estado; en el Congreso del Estado; en la Administración Pública Estatal o Municipal, en cualquiera de sus modalidades, o en las entidades u organismos autónomos; quienes serán responsables por los actos u omisiones en el desempeño de sus funciones.
 
 Los servidores públicos del Estado y de los Municipios, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades, la que se determinará anual y equitativamente en los presupuestos de egresos correspondientes, de acuerdo a las bases establecidas en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -2181,9 +2551,9 @@ Las remuneraciones de los servidores públicos y sus tabuladores serán público
 
 Los servidores públicos del Estado y de los municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que estén bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
 
-Todo servidor público es responsable por la comisión de delitos en el ejercicio de su encargo. El Gobernador del Estado, los Diputados locales en funciones, los Magistrados del Tribunal Superior de Justicia y de lo Contencioso Administrativo, el Presidente de la Comisión de los Derechos Humanos, los Titulares de las Dependencias de la Administración Pública Estatal y los Presidentes Municipales, no serán sujetos de responsabilidad sin la declaración de procedencia que emita el Congreso.
+Todo servidor público es responsable por la comisión de delitos en el ejercicio de su encargo.
 
-En las demandas de tipo civil, no se requerirá dicha declaración.
+Para proceder penalmente en contra del Gobernador del Estado, los Diputados locales en funciones, los Magistrados y los Consejeros de la Judicatura del Poder Judicial del Estado, los Titulares y Consejeros de los Organismos Autónomos, con excepción de los consejeros del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Yucatán, los Titulares de las Dependencias de la Administración Pública Estatal y los Presidentes Municipales, es necesario la declaración de procedencia que emita el Congreso del Estado.
 
 > <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
@@ -2205,19 +2575,23 @@ Los procedimientos para la aplicación de las sanciones mencionadas se desarroll
 
 Cualquier ciudadano, bajo su responsabilidad y mediante la presentación de pruebas, podrá formular denuncia, ante el Congreso del Estado, respecto de las conductas a que se refiere este título.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 18 DE AGOSTO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 99.
 
-Podrán ser sujetos a Juicio Político los diputados locales en, funciones, los Magistrados del Tribunal Superior de Justicia y de lo Contencioso Administrativo, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión de los Derechos Humanos, los Titulares de las Dependencias de la Administración Pública Estatal, los Presidentes Municipales, los Consejeros Electorales del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán y los Consejeros del Instituto Estatal de Acceso a la Información Pública.
+Podrán ser sujetos a Juicio Político los Diputados locales en funciones, los Magistrados y los Consejeros de la Judicatura del Poder Judicial del Estado, los Titulares y Consejeros de los Organismos Autónomos, con excepción de los consejeros del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Yucatán, los Titulares de las Dependencias y los Directores Generales o equivalentes de las Entidades Paraestatales de la Administración Pública y los Presidentes Municipales.
 
 > <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñarse.
 
-> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-Conociendo de la acusación el Congreso del Estado, erigido en Gran Jurado, dictará la sanción correspondiente mediante la resolución de la mayoría absoluta de los miembros presentes, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+
+En caso de conocer de la acusación, el Congreso del Estado, erigido en Gran Jurado, dictará la sanción correspondiente mediante la resolución de la mayoría absoluta de los miembros presentes, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
 
 > <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
@@ -2227,11 +2601,13 @@ Cuando al Congreso del Estado le sea comunicado, con efecto de notificación, la
 
 Las declaraciones y resoluciones de la Legislatura del Estado son definitivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE MAYO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 100.
 
-El Congreso del Estado, mediante el voto de las dos terceras partes del total de sus integrantes, resolverá lo conducente, para proceder penalmente contra los Diputados locales, los Magistrados del Tribunal Superior de Justicia y de lo Contencioso Administrativo, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión de los Derechos Humanos, los Titulares de las Dependencias de la Administración Pública Estatal, los Presidentes Municipales y los consejeros electorales del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, por la comisión de delitos durante su encargo.
+El Congreso del Estado, mediante el voto de las dos terceras partes del total de sus integrantes, resolverá lo conducente, para proceder penalmente contra los Diputados locales en funciones, los Magistrados y los Consejeros de la Judicatura del Poder Judicial del Estado, los Titulares y Consejeros de los Organismos Autónomos, con excepción de los consejeros del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Yucatán, los Titulares de las Dependencias y los Directores Generales o equivalentes de las Entidades Paraestatales de la Administración Pública Estatal y los Presidentes Municipales, por la comisión de delitos durante su encargo.
 
 > <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
@@ -2245,9 +2621,11 @@ Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento 
 
 Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes.
 
-> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-En caso de que la Cámara de Diputados del Congreso de la Unión emita la declaración de procedencia por delitos federales, en contra del Gobernador, los Diputados locales y los Magistrados del Tribunal Superior de Justicia del Estado en los términos del Artículo 111 de la Constitución Política de los Estados Unidos Mexicanos, notificada que ésta sea, la Legislatura del Estado resolverá la separación del inculpado de su encargo y lo pondrá a disposición del Ministerio Público Federal. El Congreso del Estado cuando lo estime pertinente solicitará al órgano que declaró la procedencia las aclaraciones pertinentes, antes de resolver que el inculpado sea separado de su cargo.
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+
+En caso de que la Cámara de Diputados del Congreso de la Unión emita la declaración de procedencia por delitos federales, en contra del Gobernador, los Diputados locales, los Magistrados y los Consejeros de la Judicatura del Poder Judicial del Estado, en los términos del Artículo 111 de la Constitución Política de los Estados Unidos Mexicanos, una vez notificada ésta, la Legislatura del Estado resolverá la separación del inculpado de su encargo y lo pondrá a disposición del Ministerio Público Federal. El Congreso del Estado cuando lo estime pertinente solicitará al órgano que declaró la procedencia las aclaraciones pertinentes, antes de resolver que el inculpado sea separado de su cargo.
 
 > <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
@@ -2293,11 +2671,13 @@ Ningún individuo podrá desempeñar a la vez dos o más cargos de elección pop
 
 Ningún pago podrá hacerse sin que esté comprendido en el Presupuesto, o determinado por Ley posterior a éste.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 105.
 
-Todo funcionario o empleado público del Estado o de los municipios, sin excepción alguna, antes de tomar posesión de su encargo, prestará ante quien corresponda protesta de cumplir las obligaciones que contrae, guardando y haciendo guardar sin reserva alguna, la Constitución General de la República, así como la del Estado y las Leyes que de ellas emanen, usándose la forma prevista en el artículo 67 de esta Constitución.
+Todo servidor público del Estado y de los municipios, sin excepción alguna, antes de tomar posesión de su encargo, manifestará ante quien corresponda el Compromiso Constitucional de cumplir las obligaciones que contrae, al guardar y hacer guardar sin reserva alguna, la Constitución Política de los Estados Unidos Mexicanos, así como la del Estado y las leyes que de ellas emanen, en los términos previstos en el artículo 67 de esta Constitución.
 
 > <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
@@ -3272,3 +3652,107 @@ Los Ayuntamientos contarán con noventa días naturales, contados a partir del d
 ###### ARTÍCULO DÉCIMO.
 
 La Oficialía Mayor del Congreso del Estado remitirá este Decreto a los Ayuntamientos del Estado, a partir de su aprobación por el Pleno del Congreso, y deberá informar al Presidente del Congreso o de la Diputación Permanente, para efectos del cómputo correspondiente.
+
+D.O. 17 DE MAYO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Las disposiciones de este Decreto entrarán en vigor el día primero de marzo del año 2011, previa su publicación en el Diario Oficial del Gobierno del Estado.
+
+Los Artículos Transitorios TERCERO, QUINTO, SEXTO, DÉCIMO CUARTO Y DÉCIMO OCTAVO, de este Decreto, entrarán en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El H. Congreso del Estado de Yucatán deberá aprobar y reformar, a más tardar el día 31 de mayo del año 2011, las leyes que sean necesarias para la aplicación de las disposiciones establecidas en este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la publicación de este Decreto en el Diario Oficial del Gobierno del Estado de Yucatán y hasta el día 15 de diciembre del año 2010, los poderes Ejecutivo y Judicial del Estado de Yucatán deberán realizar todas las acciones necesarias para adecuar el marco normativo interno correspondiente a las disposiciones previstas en el mismo.
+
+###### ARTÍCULO CUARTO.
+
+El Tribunal Electoral del Estado, el Tribunal Contencioso Administrativo y el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, deberán llevar a cabo todos los trámites legales y administrativos que se requieran para su plena integración al Poder Judicial del Estado, a más tardar el día 31 de marzo del año 2011, en los términos establecidos en este Decreto y en la ley.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la publicación de este Decreto en el Diario Oficial del Gobierno del Estado de Yucatán, el H. Congreso del Estado de Yucatán, deberá aprobar a más tardar el 31 de octubre del año 2010, la Ley Orgánica del Poder Judicial del Estado, la ley relativa a la Fiscalía General del Estado y la ley que crea el Instituto de la Defensoría Pública del Estado de Yucatán, para que entren en vigor de manera simultánea con las reformas previstas en este Decreto.
+
+Los Poderes del Estado, deberán considerar la presupuestación que sea necesaria para el cumplimiento de estos ordenamientos para el ejercicio fiscal del año 2011.
+
+###### ARTÍCULO SEXTO.
+
+Para el cumplimiento del artículo 64 de este Decreto, el Congreso del Estado deberá incrementar gradualmente el Presupuesto del Poder Judicial del Estado, de los ejercicios fiscales 2011, 2012 y 2013, hasta alcanzar el porcentaje mínimo establecido.
+
+###### ARTÍCULO SÉPTIMO.
+
+Con objeto de no afectar derechos adquiridos con anterioridad al presente Decreto, los Magistrados del Tribunal Superior de Justicia del Estado, que estén actualmente en funciones en su primer período, podrán ser ratificados de conformidad a lo previsto en la legislación vigente al momento de su designación, y si lo fueren, por única ocasión, el segundo período será por 11 años más, en términos del artículo 64 del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Con objeto de no afectar derechos adquiridos con anterioridad al presente Decreto, los actuales Magistrados del Tribunal Electoral del Estado que finalizan su encargo el 30 de marzo de 2012, concluirán sus funciones en esa fecha, sin perjuicio de las disposiciones que se emitan en la legislación secundaria en cumplimiento de la entrada en vigor de este Decreto y con la denominación de Magistrados del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, a partir del primero de marzo 2011.
+
+El Magistrado del Tribunal de lo Contencioso Administrativo del Estado, se integrará como Magistrado del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, a partir del primero de marzo 2011.
+
+###### ARTÍCULO NOVENO.
+
+Con objeto de no afectar derechos adquiridos con anterioridad al presente Decreto, los Magistrados del Tribunal Electoral del Estado que fueron ratificados o designados por el Congreso del Estado en el mes de marzo del año 2010, concluirán su encargo el 30 de marzo del año 2016, sin perjuicio de las disposiciones que se emitan en la legislación secundaria en cumplimiento de la entrada en vigor de este Decreto y con la denominación de Magistrados del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, a partir del primero de marzo del año 2011.
+
+Los Magistrados del Tribunal Electoral del Estado que fueron ratificados en el mes de marzo del año 2010, no podrán participar en el procedimiento de ratificación o designación de Magistrados del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado en el año 2016.
+
+Los Magistrados del Tribunal Electoral del Estado que estuvieren cumpliendo su primer período en el cargo, al concluir éste, podrán ser ratificados por un período más, hasta cumplir el tiempo máximo previsto en el artículo 64 de este Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Por única ocasión, y con la finalidad de respetar y garantizar los derechos de los Magistrados Electorales que se encuentren en el ejercicio del cargo al entrar en vigor este Decreto, el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, a partir del primero de marzo de 2011 y hasta el 30 de marzo de 2012, se integrará con 6 Magistrados. Durante este período transitorio, el Presidente de este Tribunal, tendrá voto de calidad.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los Magistrados del Poder Judicial, que a la entrada en vigor de este Decreto, hayan cumplido los 15 años a los que se refiere el artículo 64 de este Decreto, o bien, 30 años al servicio del Estado, tendrán derecho al haber de retiro establecido en dicho artículo.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+A partir de la entrada en vigor de este decreto y hasta la conclusión del actual período del titular del Ejecutivo del Estado, corresponderá al Gobernador del Estado nombrar al Fiscal General del Estado.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+El Titular del Poder Ejecutivo que entre en funciones para el período de gobierno 2012-2018, contará con diez días, a partir del inicio de su encargo, para nombrar al Fiscal General del Estado, y hacer del conocimiento del Congreso del Estado dicho nombramiento, para dar inicio al proceso de ratificación previsto en esta Constitución.
+
+Hasta en tanto entre en funciones el Fiscal General del Estado que se nombre en el año 2012, conforme a lo dispuesto en este artículo transitorio, continuará en el cargo el Fiscal General que estuviere en funciones en ese momento.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+A partir de la publicación de este Decreto, los Poderes Legislativo, Ejecutivo y Judicial del Estado, deberán designar a los Consejeros de la Judicatura que les corresponda, en un plazo no mayor al 30 de junio del año 2010, mismos que iniciarán sus funciones el 1 de agosto del 2010.
+
+Para tal efecto y con objeto de cumplir con lo establecido en el séptimo párrafo del artículo 72 de este Decreto, el Poder Legislativo nombrará al Consejero que le corresponde por un período de 3 años; el Poder Ejecutivo, por 2 años; el Poder Judicial, por 4 años a cada Consejero que le corresponde. Estos funcionarios podrán ser ratificados en términos del artículo 72 de este Decreto.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Remítase el presente proyecto de Decreto a los Ayuntamientos del Estado, para efectos de lo establecido en el artículo 108 de la Constitución Política del Estado de Yucatán.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+La legislación secundaria, necesaria para el adecuado funcionamiento del nuevo sistema penal acusatorio y oral, previsto en los artículos 2, 62, 63, 64, 73, 85 bis, 86 y 87 de este Decreto, deberá estar aprobada y publicada a más tardar el 31 de mayo de 2011.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+El Magistrado que sea designado Presidente del Tribunal Superior de Justicia en el mes de diciembre del año 2010, concluirá su encargo en 4 años, conforme al artículo 64 de este Decreto.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Las disposiciones previstas en este Decreto, relativas al Consejo de la Judicatura del Poder Judicial, entrarán en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+El Presupuesto de Egresos del Poder Judicial del Estado para el ejercicio fiscal 2011 será elaborado por el Consejo de la Judicatura y remitido al Poder Ejecutivo a más tardar el 15 de octubre de 2010, para efecto de incorporarlo al Proyecto de Presupuesto de Egresos del Estado de dicho ejercicio fiscal.
+
+En la elaboración del Presupuesto, el Consejo de la Judicatura considerará la pertinencia de realizar las adecuaciones estructurales, administrativas, normativas y económicas, así como de recursos materiales y humanos, necesarias para la implementación paulatina del nuevo sistema penal.
+
+###### ARTÍCULO DECIMO NOVENO.
+
+La legislación secundaria que regule al Tribunal de los Trabajadores al Servicio del Estado y de los Municipios del Poder Judicial, establecerá lo relativo a la extinción del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado y las condiciones y mecanismos para la transferencia del personal del Poder Ejecutivo al Poder Judicial.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Los Magistrados de la Sala Especializada en Justicia para Adolescentes, integrarán Pleno del Tribunal Superior de Justicia en términos del artículo 64 de este Decreto.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este Decreto.
