@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-padron-vehicular-del-estado-de-aguascalientes-37
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-01"
-last_updated: "2010-03-01"
+last_updated: "2010-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DEL PADRON VEHICULAR DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2010.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 1 de marzo de 2004.
 
@@ -181,9 +181,9 @@ II. Acreditar en los términos de las disposiciones aplicables del presente Regl
 
 III. Comprobar el no tener adeudos por contribuciones federales y estatales derivadas por la tenencia o uso de dicho vehículo.
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2010)</small>
 
-IV. Presentar factura de la primera enajenación al consumidor por el fabricante, ensamblador, distribuidor o comerciante en el ramo automotriz.
+IV. Presentar factura de la primera enajenación al consumidor por el fabricante, ensamblador, distribuidor o comerciante en el ramo automotriz, excepto cuando se acredite la propiedad del vehículo de que se trate con Factura Judicial, Resolución Judicial o Administrativa, y/o Factura de Acta de Adjudicación de Remate emitida por Autoridad Federal, Estatal o Municipal.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2007)</small>
 
@@ -380,6 +380,12 @@ P.O. 10 DE DICIEMBRE DE 2007.
 PRIMERO.- Las presentes Reformas al Reglamento del Padrón Vehicular del Estado de Aguascalientes, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 1 DE MARZO DE 2010.
+
+PRIMERO.- Publíquese las presentes Reformas en el Periódico Oficial del Gobierno del Estado de Aguascalientes.
+
+SEGUNDO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación.
+
+P.O. 17 DE MAYO DE 2010.
 
 PRIMERO.- Publíquese las presentes Reformas en el Periódico Oficial del Gobierno del Estado de Aguascalientes.
 
