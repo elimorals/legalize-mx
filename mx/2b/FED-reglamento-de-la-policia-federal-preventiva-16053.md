@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-policia-federal-preventiva-16053"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-26"
-last_updated: "2007-10-13"
+last_updated: "2010-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16053&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-04-17"
 
 REGLAMENTO DE LA POLICIA FEDERAL PREVENTIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE OCTUBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEPTIMO DEL REGLAMENTO DE LA LEY DE LA POLICIA FEDERAL, PUBLICADO EN EL D.O.F. DE 17 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 26 de abril de 2000.
 
@@ -2238,3 +2240,21 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Dec
 TERCERO.- El diseño y uso de uniformes, vestuario, equipo complementario, divisas y distintivos, así como distribución y descripción de los colores y demás características de los bienes muebles e inmuebles de la Policía Federal Preventiva, se especificarán en el Manual correspondiente.
 
 CUARTO.- Las acciones que se lleven a cabo para la aplicación del presente Decreto se sujetarán a la disponibilidad de recursos que se haya aprobado para tal fin, en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente para la Secretaría de Seguridad Pública, y deberán sujetarse a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
+
+D.O.F. 17 DE MAYO DE 2010.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los recursos materiales, humanos y financieros que la extinta Policía Federal Preventiva tenía asignados como Órgano Administrativo Desconcentrado se transfieren en su totalidad a la Policía Federal.
+
+TERCERO.- La Secretaría General de la Institución y la Oficialía Mayor de la Secretaría realizarán las acciones necesarias para que los recursos humanos, financieros y materiales asignados a la extinta Policía Federal Preventiva, sean transferidos a la Policía Federal, en términos del presupuesto aprobado para dicha Dependencia.
+
+CUARTO.- Los derechos de los Integrantes de la extinta Policía Federal Preventiva serán respetados conforme a las disposiciones aplicables.
+
+QUINTO.- El ejercicio de derechos y el cumplimiento de obligaciones que, en su caso, tuviere a su cargo la extinta Policía Federal Preventiva se asumirá por la Policía Federal, con excepción de lo dispuesto en el siguiente transitorio.
+
+SEXTO.- El procedimiento de homologación de grados de los Integrantes de escala básica de la extinta Policía Federal Preventiva deberá iniciar dentro de los noventa días naturales, contados a partir de la fecha de entrada en vigor del presente Reglamento y se sujetará a las bases que se establezcan en el acuerdo que al efecto emita el Consejo Federal.
+
+SÉPTIMO.- Se abroga el Reglamento de la Policía Federal Preventiva publicado en el Diario Oficial de la Federación el 26 de abril de 2000, así como todos los ordenamientos que se opongan al contenido del presente.
+
+OCTAVO.- Las erogaciones que deriven de la aplicación del presente Reglamento se realizarán mediante movimientos compensados en el presupuesto de la Secretaría de Seguridad Pública. En tal virtud, no se requerirán recursos adicionales para tales efectos en el presente ejercicio, ni se incrementará su presupuesto regularizable.
