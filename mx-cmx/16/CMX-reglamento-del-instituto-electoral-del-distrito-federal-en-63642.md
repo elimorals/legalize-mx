@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-del-distrito-federal-en-6364
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-16"
-last_updated: "2008-10-16"
+last_updated: "2010-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2011-04-15"
 
 REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE MAYO DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 16 de octubre de 2008.
 
@@ -223,7 +223,9 @@ Las Direcciones Distritales destinarán un espacio físico y un equipo de cómpu
 
 El personal de las Direcciones Distritales orientará a los solicitantes para que ingresen su solicitud mediante el sistema INFOMEX o por vía correo electrónico dirigido a la OIP.
 
-El horario de atención en las Direcciones Distritales será de lunes a viernes de las 9:00 a las 18:00 horas.
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2010)</small>
+
+El horario de atención en las Direcciones Distritales será de lunes a viernes de las 9:00 a las 17:00 horas.
 
 ###### Artículo 13.
 
@@ -265,9 +267,11 @@ La OIP no está obligada a tramitar las solicitudes de acceso a la información 
 
 Si la solicitud es rechazada por actualizarse alguno de los supuestos anteriores, la OIP notificará la negativa mediante oficio, fundado y motivado, por el medio elegido por el solicitante, dentro de los diez días hábiles siguientes de recibida la solicitud.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE MAYO DE 2010)</small>
+
 ###### Artículo 19.
 
-Para los efectos del presente Reglamento, el cómputo de los plazos tomará en cuenta días y horas hábiles, entendiéndose por tales, aún durante procesos electorales y de participación ciudadana, todos los días a excepción de los sábados, los domingos y los no laborables en los términos de la normatividad aplicable y por horas, de las nueve a las dieciocho horas. Los días inhábiles se declararán por circular del Secretario Ejecutivo.
+Para los efectos del presente Reglamento, el cómputo de los plazos tomará en cuenta días y horas hábiles, entendiéndose por tales, aún durante procesos electorales y de participación ciudadana, todos los días a excepción de los sábados, los domingos y los no laborables en los términos de la normatividad aplicable y por horas, de las nueve a las diecisiete horas. Los días inhábiles se declararán por circular del Secretario Ejecutivo.
 
 En el caso de las solicitudes presentadas a través de INFOMEX, se estará a lo dispuesto en los Lineamientos emitidos por el INFODF en lo que no contravenga a la normatividad del IEDF.
 
@@ -578,3 +582,19 @@ CUARTO. Hasta en tanto se publique en la Gaceta Oficial del Distrito Federal la 
 QUINTO. El Comité de Transparencia del Instituto Electoral del Distrito Federal solicitará al Comité Técnico Institucional de Administración de Documentos la información que estime necesaria para supervisar la organización de los archivos de este Instituto hasta en tanto se publica en la Gaceta Oficial del Distrito Federal la legislación en materia de archivos públicos del Distrito Federal expedida por la Asamblea Legislativa del Distrito Federal y el Consejo General emita la normatividad interna correspondiente, dentro de los 30 días hábiles siguientes contados a partir del día en que entre en vigor dicha legislación.
 
 SEXTO. El reglamento que regule el funcionamiento del Comité de Transparencia será aprobado por el Consejo General dentro de los 30 días hábiles siguientes, contados a partir de la aprobación del presente Reglamento.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 17 DE MAYO DE 2010.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.
+
+PRIMERO. Se aprueba la modificación a los artículos 12, último párrafo y 19 primer párrafo, del Reglamento del Instituto Electoral del Distrito Federal en materia de Transparencia y Acceso a la Información Pública en términos del considerando décimo primero.
+
+SEGUNDO. La modificación al Reglamento materia del presente acuerdo entrará en vigor al día siguiente de su aprobación.
+
+TERCERO. Se ordena al Secretario Ejecutivo que, a través de la Unidad Técnica de Archivo, Logística y Apoyo a Órganos Desconcentrados, notifique el presente Acuerdo a todas las Direcciones Distritales para su conocimiento, debida observancia y cumplimiento.
+
+CUARTO. Se instruye a la Unidad Técnica de Comunicación Social y Transparencia, actualice el documento que se encuentra disponible para su consulta en la sección de normatividad del sitio del Instituto en Internet, conforme a la modificación referida en el punto PRIMERO del presente Acuerdo.
+
+QUINTO. Publíquese el presente acuerdo en la Gaceta Oficial del Distrito Federal, y dentro de los tres días hábiles siguientes a su aprobación, en los estrados del Instituto Electoral del Distrito Federal, tanto en oficinas centrales, como en sus 40 órganos desconcentrados y en el sitio del Instituto en Internet www.iedf.org.mx.
