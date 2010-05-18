@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-mejora-regulatoria-para-el-estado-de-quintana-roo-31517"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-30"
-last_updated: "2003-05-30"
+last_updated: "2010-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 18 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de mayo de 2003.
 
@@ -756,3 +758,19 @@ LIC. EFRAÍN VILLANUEVA ARCOS.
 EL SECRETARIO DE DESARROLLO ECONÓMICO DEL ESTADO DE QUINTANA ROO
 
 C. LUIS GARCÍA SILVA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE MAYO DE 2010.
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga la Ley de Mejora Regulatoria para el Estado de Quintana Roo, publicada en el Periódico Oficial del Estado de Quintana Roo, el 30 de mayo de 2003, derogándose todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente ley.
+
+TERCERO.- El Ejecutivo del Estado deberá expedir el reglamento de la presente ley, los manuales administrativos y de servicios al público en un término de 180 días hábiles contados a partir de su entrada en vigor. Mientras tanto se continuarán aplicando los ordenamientos vigentes a la fecha de entrada en vigor de la presente ley, en todo aquello que no la contravenga.
+
+CUARTO.- Todos los sujetos obligados por la presente ley están obligadas (sic) a presentar su primer Estudio de Impacto Regulatorio ante la CEMER en un plazo que no excederá de 45 días hábiles contados a partir de la publicación del Reglamento de la presente ley, en el Periódico Oficial del Estado de Quintana Roo.
+
+QUINTO.- Los Municipios que conforman el Estado de Quintana Roo contarán con un término de 90 días hábiles a partir de la publicación de la ley para generar y publicar su reglamento municipal de mejora regulatoria, asimismo, contarán con 120 días hábiles a partir de la publicación de la ley, para implementar su respectiva Unidad de Mejora Regulatoria Municipal y Consejo de Mejora Regulatoria Municipal acorde a lo establecido en la presente ley.
+
+SEXTO.- La CEMER contará con 180 días hábiles a partir de la publicación de la Ley, para hacer las gestiones necesarias para implementar y publicar la normatividad correspondiente que le permita la operatividad del RUPA en el Estado.
