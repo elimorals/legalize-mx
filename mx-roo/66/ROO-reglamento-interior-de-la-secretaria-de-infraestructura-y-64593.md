@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-infraestructura-y-64593
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-14"
-last_updated: "2008-11-14"
+last_updated: "2010-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE INFRAESTRUCTURA Y TRANSPORTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE INFRAESTRUCTURA Y TRANSPORTE, PUBLICADA EN EL P.O. DE 18 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 14 de noviembre de 2008.
 
@@ -784,3 +786,19 @@ LIC. FÉLlX ARTURO GONZÁLEZ CANTO
 EL SECRETARIO DE INFRAESTRUCTURA Y TRANSPORTE
 
 C.P. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 MAYO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Infraestructura y Transporte, publicado en el Periódico Oficial del Estado de Quintana Roo, el día 14 de noviembre de 2008.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se expiden los Manuales de Organización y Procedimientos correspondientes, el Titular de la Secretaría resolverá las cuestiones que conforme a dichos manuales se deban regular.
