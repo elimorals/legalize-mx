@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-consejo-de-promocion-turistica-de-mexico-7450
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-04-22"
-last_updated: "2010-04-22"
+last_updated: "2010-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74501&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-03-24"
 
 ESTATUTO ORGANICO CONSEJO DE PROMOCION TURISTICA DE MEXICO, S.A. DE C.V.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 2010.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 22 de abril de 2010.
 
@@ -67,33 +67,65 @@ IV. Consejo: El Consejo de Promoción Turística de México, S.A. de C.V.;
 
 V. Director General: El Director General del Consejo de Promoción Turística de México, S.A. de C.V.;
 
-VI. Estatuto: El Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V.;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 18 DE MAYO DE 2010)</small>
 
-VII. Estatutos Sociales: Los Estatutos Sociales del Consejo de Promoción Turística de México, S.A. de C.V.;
+VI. Director General Adjunto: El Director General Adjunto del Consejo de Promoción Turística de México, S.A. de C.V.;
 
-VIII. Junta de Gobierno: La Junta de Gobierno del Consejo de Promoción Turística de México, S.A. de C.V.;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
 
-IX. Ley de Turismo: La Ley General de Turismo;
+VII. Estatuto: El Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V.;
 
-X. Ley de Entidades: La Ley Federal de las Entidades Paraestatales;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
 
-XI. Ley de Sociedades: La Ley General de Sociedades Mercantiles;
+VIII. Estatutos Sociales: Los Estatutos Sociales del Consejo de Promoción Turística de México, S.A. de C.V.;
 
-XII. Direcciones Regionales: Las Direcciones Regionales del Consejo de Promoción Turística de México, S.A. de C.V., en el Exterior;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
 
-XIII. Reglamento de Turismo: El Reglamento de la Ley Federal de Turismo;
+IX. Junta de Gobierno: La Junta de Gobierno del Consejo de Promoción Turística de México, S.A. de C.V.;
 
-XIV. Reglamento de Entidades: El Reglamento de la Ley Federal de las Entidades Paraestatales;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
 
-XIX (SIC). Secretaría: La Secretaría de Turismo;
+X. Ley de Turismo: La Ley General de Turismo;
 
-XX. Servicios de Mercadotecnia: Acciones promocionales, activación digital, creatividad y producción, compra de medios, relaciones públicas, ferias y eventos, mercadeo personalizado y estudios de mercado;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
 
-XXI. SIIMT: El Sistema Integral de Información de Mercados Turísticos;
+XI. Ley de Entidades: La Ley Federal de las Entidades Paraestatales;
 
-XXII. Titular del Organo Interno de Control: El Titular del Organo Interno de Control en el Consejo de Promoción Turística de México, S.A. de C.V., y
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
 
-XXIII. Las Unidades Administrativas: Las partes de la estructura en las que se divide el Consejo para realizar sus funciones.
+XII. Ley de Sociedades: La Ley General de Sociedades Mercantiles;
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+XIII. Direcciones Regionales: Las Direcciones Regionales del Consejo de Promoción Turística de México, S.A. de C.V. en el Exterior;
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+XIV. Reglamento de Turismo: El Reglamento de la Ley Federal de Turismo;
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+XV. Reglamento de Entidades: El Reglamento de la Ley Federal de las Entidades Paraestatales;
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+XVI. Secretaría: La Secretaría de Turismo;
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+XVII. Servicios de Mercadotecnia: Acciones promocionales, activación digital, creatividad y producción, compra de medios, relaciones públicas, ferias y eventos, mercadeo personalizado y estudios de mercado;
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+XVIII. SIIMT: El Sistema Integral de Información de Mercados Turísticos;
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+XIX. Titular del Organo Interno de Control: El Titular del Organo Interno de Control en el Consejo de Promoción Turística de México, S.A. de C.V., y
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+XX. Las Unidades Administrativas: Las partes de la estructura en las que se divide el Consejo para realizar sus funciones;
 
 ###### Artículo 3.
 
@@ -117,9 +149,11 @@ V. Los demás recursos que obtenga por cualquier otro título legal.
 
 ### Capítulo I. Del Objeto Social
 
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2010)</small>
+
 ###### Artículo 5.
 
-El Consejo tiene por objeto planear, diseñar y coordinar en coadyuvancia con la Secretaría, las políticas y estrategias de promoción turística a nivel nacional e internacional. Asimismo, el Consejo ejecutará sus programas con base en acciones y procesos de mejora continua, de manera planificada y organizada, en apego a los principios de cooperación, promoción, eficacia, economía, transparencia, honradez, legalidad, publicidad, buena fe e imparcialidad.
+El Consejo tiene por objeto planear, diseñar, coordinar y realizar en coadyuvancia con la Secretaría, las políticas y estrategias de promoción turística a nivel nacional e internacional. Asimismo, el Consejo ejecutará sus programas con base en acciones y procesos de mejora continua, de manera planificada y organizada, en apego a los principios de cooperación, promoción, eficacia, economía, transparencia, honradez, legalidad, publicidad, buena fe e imparcialidad.
 
 ### Capítulo II. De los Objetivos
 
@@ -183,9 +217,11 @@ El Presidente de la Asamblea General será el Secretario de Turismo o la persona
 
 En el capital social del Consejo, podrán participar como accionistas los gobiernos Federal, Estatal y Municipales; así como la iniciativa privada, en los porcentajes que determine la Asamblea General, conforme a los términos de los Estatutos Sociales.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 2010)</small>
+
 ###### Artículo 10.
 
-El Secretario de la Asamblea General será el de la Junta de Gobierno y en su defecto, la persona designada por los asistentes a propuesta del Presidente de la propia Asamblea. Respecto al Prosecretario, éste será nombrado a propuesta del Director General. Ambos participarán en las sesiones con voz pero sin voto y tendrán las funciones siguientes:
+El Secretario de la Asamblea General será el de la Junta de Gobierno y en su defecto, la persona designada por los asistentes a propuesta del Presidente de la propia Asamblea. Respecto al Prosecretario, éste será nombrado a propuesta del Director General y/o del Director General Adjunto. El Secretario y el Prosecretario participarán en las sesiones con voz pero sin voto y tendrán las funciones siguientes:
 
 I. Elaborar el orden del día de las respectivas sesiones, atendiendo a las propuestas que les formulen los miembros de la Asamblea General;
 
@@ -223,13 +259,17 @@ b).- Catorce representantes de las organizaciones de prestadores de servicios tu
 
 Los miembros de la Junta de Gobierno participarán en ella sin recibir honorario o emolumento alguno por este concepto.
 
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2010)</small>
+
 ###### Artículo 12.
 
-Los representantes de las entidades federativas y de los municipios, así como los representantes de las organizaciones y prestadores de servicios turísticos o empresas turísticas que formen parte de la Junta de Gobierno, serán designados mediante propuesta que presente el Director General al Presidente de la misma, en la que se precisarán los criterios utilizados y las razones técnicas que la acrediten.
+Los representantes de las entidades federativas y de los municipios, así como los representantes de las organizaciones de prestadores de servicios turísticos que formen parte de la Junta de Gobierno, serán designados mediante propuesta que presente el Director General o el Director General Adjunto al Presidente de la misma, en la que se precisarán los criterios utilizados y las razones técnicas que la acrediten.
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2010)</small>
 
 ###### Artículo 13.
 
-Los miembros de la Junta de Gobierno, representantes de las organizaciones de prestadores de servicios turísticos o empresas turísticas, podrán ser rotados en cualquier momento, por acuerdo de la Asamblea de Accionistas, a propuesta del Presidente de la Junta de Gobierno.
+Los miembros de la Junta de Gobierno, representantes de las organizaciones de prestadores de servicios turísticos, podrán ser rotados en cualquier momento, por acuerdo de la Asamblea de Accionistas, a propuesta del Presidente de la Junta de Gobierno.
 
 ###### Artículo 14.
 
@@ -239,19 +279,21 @@ Los miembros de la Junta de Gobierno, representantes de las entidades federativa
 
 Por cada miembro propietario habrá un suplente, que tendrá derecho de voz y voto en las sesiones que asista en ausencia del titular.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO DE REFORMAS AL PRESENTE ESTATUTO, SE DEROGA LA FRACCION I, MODIFICANDO LA ESTRUCTURA DEL PRESENTE ARTICULO PARA QUEDAR CONFORMADO POR CUATRO FRACCIONES.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2010)</small>
+
 ###### Artículo 16.
 
 En ningún caso podrán ser miembros de la Junta de Gobierno:
 
-I. El Director General;
+I. Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros de la Junta de Gobierno o con el Director General;
 
-II. Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros de la Junta de Gobierno o con el Director General;
+II. Las personas que tengan litigios pendientes en contra del Consejo;
 
-III. Las personas que tengan litigios pendientes en contra del Consejo;
+III. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, y
 
-IV. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, y
-
-V. Los diputados y senadores del H. Congreso de la Unión.
+IV. Los diputados y senadores del H. Congreso de la Unión.
 
 ###### Artículo 17.
 
@@ -279,7 +321,9 @@ X. Autorizar la creación de Comités de Apoyo, Comités Técnicos Especializado
 
 XI. Nombrar y remover a propuesta del Director General, a los servidores públicos del Consejo que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, aprobar la fijación de sus sueldos y prestaciones, y a los demás que señalen los estatutos y concederles licencias;
 
-XII. Nombrar y remover a propuesta de su Presidente entre personas ajenas al Consejo, al Secretario de la Junta de Gobierno, quien lo será también de la Asamblea General, el cual podrá ser miembro o no de la misma; así como designar o remover a propuesta del Director General al Prosecretario de la Junta de Gobierno, quien podrá ser o no miembro de la Junta o del Consejo;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+XII. Nombrar y remover a propuesta de su Presidente entre personas ajenas al Consejo, al Secretario de la Junta de Gobierno, quien lo será también de la Asamblea General, el cual podrá ser miembro o no de la misma; así como designar o remover a propuesta del Director General y/o del Director General Adjunto al Prosecretario de la Junta de Gobierno, quien podrá ser o no miembro de la Junta o del Consejo;
 
 XIII. Aprobar la constitución de reservas y aplicación de las utilidades del Consejo;
 
@@ -321,13 +365,17 @@ Las sesiones que celebre la Junta de Gobierno serán ordinarias o extraordinaria
 
 Las sesiones ordinarias de la Junta de Gobierno se celebrarán trimestralmente de acuerdo con el calendario, el cual será aprobado en la primera sesión ordinaria del ejercicio, y se ocuparán de los asuntos propios de su competencia y que estarán incluidos en el orden del día.
 
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2010)</small>
+
 ###### Artículo 21.
 
-Para la celebración de las sesiones de la Junta de Gobierno, la convocatoria deberá señalar día y hora en que tendrá verificativo, contendrá el orden del día y deberá ir acompañada de la documentación correspondiente que sustente dicha orden, la cual deberá ser enviada por el Director General, por el Secretario o por el Prosecretario, a los miembros de la Junta de Gobierno y a los Comisarios, y recibida con una anticipación no menor de cinco días hábiles.
+Para la celebración de las sesiones de la Junta de Gobierno, la convocatoria deberá señalar día y hora en que tendrá verificativo, contendrá el orden del día y deberá ir acompañada de la documentación correspondiente que sustente dicha orden, la cual deberá ser enviada por el Director General y/o el Director General Adjunto, por el Secretario o por el Prosecretario, a los miembros de la Junta de Gobierno y a los Comisarios, y recibida con una anticipación no menor de cinco días hábiles.
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2010)</small>
 
 ###### Artículo 22.
 
-Las sesiones extraordinarias de la Junta de Gobierno podrán ser convocadas por su Presidente, por la mayoría de sus miembros o por los Comisarios, en cualquier momento.
+Las sesiones extraordinarias de la Junta de Gobierno podrán ser convocadas por su Presidente, Secretario, Prosecretario, por la mayoría de sus miembros o por los Comisarios, en cualquier momento.
 
 ###### Artículo 23.
 
@@ -375,15 +423,21 @@ IX. Las demás que le encomiende la Junta de Gobierno, en el ámbito de sus facu
 
 Las actas de las sesiones se asentarán en el libro respectivo y deberán ser firmadas por el Presidente y Secretario de la Junta de Gobierno y por el Comisario que asista. Se agregarán a las actas los documentos que acrediten que las convocatorias se hicieron legalmente; asimismo, se agregará la lista de asistencia de los Consejeros cuando se inicie la sesión y serán protocolizadas ante Notario Público e inscritas en el Registro Público de la Propiedad y del Comercio las actas que por su naturaleza así lo requieran, para que surtan sus efectos ante terceros.
 
-### Capítulo IV. De la Dirección General
+> <small>(REFORMADA SU DENOMINACION, 18 DE MAYO DE 2010)</small>
+
+### Capítulo IV. De la Dirección General y de la Dirección General Adjunta
+
+(REFORMADO, D.O.F. 18 DE MAYO DE 2010) (F. DE E., D.O.F. 18 DE JUNIO DE 2010)
 
 ###### Artículo 30.
 
-El Director General será designado por el Presidente de la República o a indicación de éste a través del Secretario de Turismo y será ratificado por la Junta de Gobierno; éste durará en su encargo cuatro años, pudiendo ser nombrado por otro periodo igual.
+El Director General será designado por el Presidente de la República o a indicación de éste a través del Secretario de Turismo, y será ratificado por la Junta de Gobierno; éste durará en su encargo cuatro años, pudiendo ser nombrado por otro periodo igual.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 2010)</small>
 
 ###### Artículo 31.
 
-Para ser Director General deberán reunirse los siguientes requisitos:
+Para ser Director General y/o el Director General Adjunto deberán reunirse los siguientes requisitos:
 
 I. Ser ciudadano mexicano por nacimiento; no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
@@ -393,9 +447,13 @@ III. No tener participación accionaria o intereses particulares o familiares, e
 
 IV. No desempeñar algún otro empleo, cargo o comisión oficial o particular que de alguna manera obstaculice su función;
 
-V. No estar en los supuestos que señala el artículo 16 fracciones II a V del presente Estatuto, y
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+V. No estar en los supuestos que señala el artículo 16 del presente Estatuto, y
 
 VI. Contar con experiencia y conocimiento de la materia de promoción turística, ya sea en los sectores público o privado.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO DE REFORMAS AL PRESENTE ESTATUTO, PUBLICADO EN EL D.O.F. DE 18 DE MAYO DE 2010, SE DEROGAN LAS FRACCIONES XX Y XXIX, MODIFICANDO LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
 
 ###### Artículo 32.
 
@@ -403,9 +461,11 @@ El Director General tendrá las siguientes facultades y obligaciones:
 
 I. Administrar y representar legalmente al Consejo;
 
-II. Formular los programas institucionales de corto, mediano y largo plazos, así como los presupuestos del Consejo y presentarlos para su aprobación a la Junta de Gobierno. Si dentro de los plazos correspondientes el Director General no diere cumplimiento a esta obligación, sin perjuicio de su correspondiente responsabilidad, la Junta de Gobierno procederá al desarrollo e integración de los mismos;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
 
-III. Formular los Programas de Organización;
+II. Autorizar los programas institucionales de corto, mediano y largo plazos, así como los presupuestos del Consejo y presentarlos para su aprobación a la Junta de Gobierno. Si dentro de los plazos correspondientes el Director General no diere cumplimiento a esta obligación, sin perjuicio de su correspondiente responsabilidad, la Junta de Gobierno procederá al desarrollo e integración de los mismos;
+
+III. Autorizar los Programas de Organización;
 
 IV. Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Consejo;
 
@@ -415,19 +475,27 @@ VI. Establecer los procedimientos para controlar la calidad de los suministros y
 
 VII. Proponer a la Junta de Gobierno el nombramiento o la remoción de los servidores públicos de los dos niveles jerárquicos inferiores a él, la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por la Junta de Gobierno y a los lineamientos que a efecto emita la Secretaría de Hacienda y Crédito Público;
 
-VIII. Recabar información y elementos estadísticos que reflejen el estado de las funciones del Consejo para así poder mejorar la gestión del mismo;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+VIII. Coordinar la compilación de información y elementos estadísticos que reflejen el estado de las funciones del Consejo para así poder mejorar la gestión del mismo;
 
 IX. Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
 
-X. Presentar periódicamente a la Junta de Gobierno el informe del desempeño de las actividades del Consejo, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la Dirección General con los resultados alcanzados;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+X. Presentar por sí, o a través del Director General Adjunto, periódicamente a la Junta de Gobierno el informe de desempeño de las actividades del Consejo, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la Dirección General con los resultados alcanzados;
 
 XI. Establecer los mecanismos de evaluación relativos a la eficiencia y la eficacia con que se desempeñe el Consejo y presentar a la Junta de Gobierno por lo menos dos veces al año, la evaluación de la gestión con el detalle que previamente se acuerde con la misma y escuchando al Comisario;
 
-XII. Ejecutar los acuerdos que dicte la Junta de Gobierno;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+XII. Coordinar la ejecución los acuerdos que dicte la Junta de Gobierno;
 
 XIII. Suscribir, en su caso, los Contratos Colectivos e Individuales que regulen las relaciones laborales del Consejo con sus trabajadores y las Condiciones Generales de Trabajo;
 
-XIV. Asistir a las sesiones de la Junta de Gobierno con voz pero sin voto;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+XIV. Asistir a las sesiones de la Junta de Gobierno por sí o por medio de un representante que designe o a través del Director General Adjunto que tendrá voz pero sin voto;
 
 XV. Planear, dirigir, supervisar y evaluar el desarrollo de las actividades de las unidades administrativas que integran el Consejo;
 
@@ -439,29 +507,107 @@ XVIII. Proponer a la Junta de Gobierno, la apertura o cierre de sucursales, agen
 
 XIX. Aprobar los Manuales de Organización, de Procedimientos y de Servicios, así como los demás instrumentos normativos relevantes que regulen el funcionamiento del Consejo; e igualmente las reformas y/o adiciones y/o derogaciones a dichos ordenamientos;
 
-XX. Determinar la conveniencia de implementar el servicio profesional de carrera, así como las acciones para incrementar el desempeño funcional y operativo de los servidores públicos adscritos al Consejo;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
 
-XXI. Proponer a la Junta de Gobierno, las bases y programas generales que regulen los contratos, convenios, pedidos o acuerdos que deba celebrar el Consejo en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles, de conformidad con lo dispuesto en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público;
+XX. Proponer a la Junta de Gobierno, las bases y programas generales que regulen los contratos, convenios, pedidos o acuerdos que deba celebrar el Consejo en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles, de conformidad con lo dispuesto en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público;
 
-XXII. Celebrar acuerdos, convenios, contratos, pedidos y demás instrumentos legales que sean necesarios para llevar a cabo el objeto social del Consejo;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
 
-XXIII. Velar por el exacto cumplimiento de las disposiciones previstas en la Ley de Entidades, su Reglamento, los Estatutos Sociales, el Estatuto y las demás disposiciones jurídicas aplicables;
+XXI. Celebrar acuerdos, convenios, contratos, pedidos y demás instrumentos legales que sean necesarios para llevar a cabo el objeto social del Consejo;
 
-XXIV. Coordinar todas las acciones administrativas y operativas del Consejo, para el eficaz cumplimiento de los acuerdos de la Asamblea General y de la Junta de Gobierno;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
 
-XXV. Establecer las políticas y prácticas de transparencia y ética corporativa a las que deberá de sujetarse el Consejo y, en su caso instrumentar los programas correspondientes;
+XXII. Velar por el exacto cumplimiento de las disposiciones previstas en la Ley de Entidades, su Reglamento, los Estatutos Sociales, el Estatuto y las demás disposiciones jurídicas aplicables;
 
-XXVI. Proponer a la Junta de Gobierno para su aprobación las normas y bases para cancelar adeudos a cargo de terceros y a favor del Consejo, cuando fuere notoria la imposibilidad práctica de su cobro;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
 
-XXVII. Atender los informes de control y auditoría que les sean turnados, vigilando la debida instrumentación de las medidas preventivas y correctivas a que hubiere lugar;
+XXIII. Coordinar todas las acciones administrativas y operativas del Consejo, para el eficaz cumplimiento de los acuerdos de la Asamblea General y de la Junta de Gobierno;
 
-XXVIII. Otorgar y revocar poderes generales y especiales a los servidores públicos del Consejo y/o a terceros con las facultades que les competan a los mandatarios, de acuerdo con la autorización que para tal efecto le haya otorgado la Junta de Gobierno;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
 
-XXIX. En casos excepcionales o cuando existan circunstancias que puedan provocar riesgos en el cumplimiento de programas y metas, pérdidas o costos adicionales importantes, podrá autorizar la contratación de servidores públicos eventuales para ocupar plazas vacantes o las de nueva creación, y
+XXIV. Establecer las políticas y prácticas de transparencia y ética corporativa a las que deberá de sujetarse el Consejo y, en su caso, instrumentar los programas correspondientes;
 
-XXX. Las que señalen las otras Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones administrativas aplicables y las que le delegue la Junta de Gobierno.
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
 
-El Director General podrá delegar sus facultades en los términos de la normatividad aplicable, en las personas que éste designe, conservando siempre su ejercicio directo.
+XXV. Proponer a la Junta de Gobierno para su aprobación las normas y bases para cancelar adeudos a cargo de terceros y a favor del Consejo, cuando fuere notoria la imposibilidad práctica de su cobro;
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+XXVI. Atender los informes de control y auditoría que les sean turnados, vigilando la debida instrumentación de las medidas preventivas y correctivas a que hubiere lugar;
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+XXVII. Otorgar y revocar poderes generales y especiales a los servidores públicos del Consejo y/o a terceros con las facultades que les competan a los mandatarios, de acuerdo con la autorización que para tal efecto le haya otorgado la Junta de Gobierno;
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+XXVIII. Las que señalen las otras Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones administrativas aplicables y las que le delegue la Junta de Gobierno.
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2010)</small>
+
+El Director General podrá delegar sus facultades en los términos de la normatividad aplicable, al Director General Adjunto o en el servidor público que designe, conservando siempre su ejercicio directo.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2010)</small>
+
+Artículo 32 BIS.- El Director General Adjunto tendrá las siguientes facultades y obligaciones:
+
+I. Coadyuvar en la Administración y en la representación legal del Consejo;
+
+II. Formular los programas institucionales de corto, mediano y largo plazos, así como los presupuestos del Consejo y presentarlos para su aprobación a la Dirección General;
+
+III. Formular los Programas de Organización;
+
+IV. Someter a consideración de la Dirección General los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Consejo;
+
+V. Proponer a la Dirección General las medidas pertinentes a fin de que las funciones del Consejo se realicen de manera articulada, congruente y eficaz;
+
+VI. Proponer a la Dirección General los procedimientos para controlar la calidad de los suministros y programas de recepción que aseguren la continuidad en la prestación del servicio;
+
+VII. Recabar información y elementos estadísticos que reflejen el estado de las funciones del Consejo para así poder mejorar la gestión del mismo;
+
+VIII. Formular e instrumentar los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
+
+IX. Someter a consideración de la Dirección General el informe del desempeño de las actividades del Consejo, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la Dirección General con los resultados alcanzados;
+
+X. Formular e instrumentar los mecanismos de evaluación relativos a la eficiencia y la eficacia con que se desempeñe el Consejo;
+
+XI. Ejecutar los acuerdos que dicte la Junta de Gobierno;
+
+XII. Participar en la suscripción de los Contratos Colectivos e Individuales que regulen las relaciones laborales del Consejo con sus trabajadores y las Condiciones Generales de Trabajo;
+
+XIII. En su caso asistir a las sesiones de la Junta de Gobierno con voz pero sin voto;
+
+XIV. Coadyuvar en la planeación, dirección, supervisión y evaluación del desarrollo de las actividades de las unidades administrativas que integran el Consejo;
+
+XV. Proponer a la Dirección General el anteproyecto de Estatuto Orgánico;
+
+XVI. Someter a la consideración de la Dirección General la estructura básica de la organización del Consejo, así como su modificación;
+
+XVII. Someter a la consideración de la Dirección General la apertura o cierre de sucursales, agencias u oficinas en cualquier lugar de la República Mexicana y/o en el Exterior, así como la modificación de la cobertura territorial de las mismas;
+
+XVIII. Coadyuvar en la autorización de los Manuales de Organización, de Procedimientos y de Servicios, así como los demás instrumentos normativos relevantes que regulen el funcionamiento del Consejo; e igualmente las reformas y/o adiciones y/o derogaciones a dichos ordenamientos;
+
+XIX. Determinar la conveniencia de implementar el servicio profesional de carrera, así como las acciones para incrementar el desempeño funcional y operativo de los servidores públicos adscritos al Consejo;
+
+XX. Someter a la Dirección General, las bases y programas generales que regulen los contratos, convenios, pedidos o acuerdos que deba celebrar el Consejo en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles, de conformidad con lo dispuesto en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público;
+
+XXI. Previo acuerdo con la Dirección General celebrar acuerdos, convenios, contratos, pedidos y demás instrumentos legales que sean necesarios para llevar a cabo el objeto social del Consejo;
+
+XXII. Velar por el exacto cumplimiento de las disposiciones previstas en la Ley de Entidades, su Reglamento, los Estatutos Sociales, el Estatuto y las demás disposiciones jurídicas aplicables;
+
+XXIII. Realizar las acciones administrativas y operativas del Consejo, para el eficaz cumplimiento de los acuerdos de la Asamblea General y de la Junta de Gobierno;
+
+XXIV. Coadyuvar en el establecimiento de las políticas y prácticas de transparencia y ética corporativa a las que deberá de sujetarse el Consejo y, en su caso, instrumentar los programas correspondientes;
+
+XXV. Someter a consideración de la Dirección General las normas y bases para cancelar adeudos a cargo de terceros y a favor del Consejo, cuando fuere notoria la imposibilidad práctica de su cobro;
+
+XXVI. Dar seguimiento a los informes de control y auditoría que les sean turnados por la Dirección General, vigilando la debida instrumentación de las medidas preventivas y correctivas a que hubiere lugar;
+
+XXVII. Otorgar y revocar poderes generales y especiales a los servidores públicos del Consejo y/o a terceros con las facultades que les competan a los mandatarios, de acuerdo con la autorización que para tal efecto le haya otorgado la Dirección General;
+
+XXVIII. En casos excepcionales o cuando existan circunstancias que puedan provocar riesgos en el cumplimiento de programas y metas, pérdidas o costos adicionales importantes, previo acuerdo con el Director General, podrá autorizar la contratación de servidores públicos temporales para ocupar plazas vacantes o las de nueva creación, y
+
+XXIX. Las que señalen las otras Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones administrativas aplicables y las que le delegue la Dirección General.
 
 ###### Artículo 33.
 
@@ -477,7 +623,11 @@ La adscripción de las unidades administrativas, será de acuerdo a lo siguiente
 
 I. Dirección General.
 
-1. Coordinación de Planeación.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE MAYO DE 2010)</small>
+
+1. Dirección General Adjunta.
+
+2. Coordinación de Planeación.
 
 A. Dirección Ejecutiva de Mercadotecnia.
 
@@ -929,7 +1079,9 @@ IX. Consolidar, proponer y controlar los presupuestos de las Direcciones en el E
 
 X. Celebrar en representación del Consejo, con la participación de las unidades administrativas que corresponda, contratos y convenios para la operación de programas de promoción turística, y
 
-XI. Las demás que se establezcan en el presente Estatuto o que le señale el Director General y/o Directores Ejecutivos.
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2010)</small>
+
+XI. Las demás que se establezcan en el presente Estatuto o que le señale el Director General, Director General Adjunto y/o Directores Ejecutivos.
 
 ###### Artículo 50.
 
@@ -941,9 +1093,11 @@ El Consejo vigilará que la adscripción en el extranjero del personal referido 
 
 ### Capítulo I. De los Comisarios Públicos
 
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2010)</small>
+
 ###### Artículo 51.
 
-El órgano de vigilancia del Consejo estará integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública, de conformidad con lo establecido en el artículo 37 fracción XI de la Ley Orgánica de la Administración Pública Federal; 63 de la Ley de Entidades, 29 del Reglamento de la Ley de Entidades y 62 del Reglamento Interior de la Secretaría de la Función Pública, y tendrán las atribuciones establecidas en el artículo 30 del Reglamento de la Ley de Entidades.
+El órgano de vigilancia del Consejo estará integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública, de conformidad con lo establecido en el artículo 37 fracción XI de la Ley Orgánica de la Administración Pública Federal; 63 de la Ley de Entidades, 29 del Reglamento de la Ley de Entidades y 76 del Reglamento Interior de la Secretaría de la Función Pública, y tendrán las atribuciones establecidas en el artículo 30 del Reglamento de la Ley de Entidades.
 
 ###### Artículo 52.
 
@@ -955,7 +1109,9 @@ Los Comisarios Públicos fungirán como Organo de Vigilancia y Evaluación del C
 
 El Consejo contará con un Organo Interno de Control, el cual estará a cargo de un Titular designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades se auxiliará por los titulares de las áreas de Auditoría de Control y Evaluación y Apoyo al Buen Gobierno, Auditoría Interna, y Quejas y Responsabilidades, designados en los mismos términos.
 
-Los servidores públicos a que se refiere el párrafo anterior, ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en los artículos 66, 67 fracciones I, II, y III del Reglamento Interior de la Secretaría de la Función Pública.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2010)</small>
+
+Los servidores públicos a que se refiere el párrafo anterior, ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el artículo 76 del Reglamento Interior de la Secretaría de la Función Pública.
 
 Los recursos financieros, humanos y materiales que emplee el Organo Interno de Control serán a cargo del Consejo.
 
@@ -963,9 +1119,11 @@ Los recursos financieros, humanos y materiales que emplee el Organo Interno de C
 
 El Titular del Organo Interno de Control en el Consejo participará en las sesiones de la Junta de Gobierno con voz pero sin voto, así como en los Comités o Subcomités Técnicos Especializados con la calidad que se desprende de las normas que regulen la operación y funcionamiento de los mismos.
 
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2010)</small>
+
 ###### Artículo 55.
 
-Las ausencias y vacantes del Titular del Organo Interno de Control, así como las de los Titulares de las áreas de Quejas y Responsabilidades; de Auditoría Interna y de Auditoría de Control y Evaluación y Apoyo al Buen Gobierno, serán suplidas conforme a lo previsto por el artículo 75 del Reglamento Interior de la Secretaría de la Función Pública.
+Las ausencias y vacantes del Titular del Organo Interno de Control, así como las de los Titulares de las áreas de Quejas y Responsabilidades; de Auditoría Interna y de Auditoría de Control y Evaluación y Apoyo al Buen Gobierno, serán suplidas conforme a lo previsto por el artículo 88 del Reglamento Interior de la Secretaría de la Función Pública.
 
 ## TITULO SEXTO. ORGANOS COLEGIADOS
 
@@ -1006,3 +1164,9 @@ TERCERO.- En relación con los artículos 32, fracción XIX, 34, último párraf
 CUARTO.- Se abroga el Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V., publicado en el Diario Oficial de la Federación del 6 de octubre de 2008, y se ratifican los poderes que se hayan otorgado durante la vigencia del mismo.
 
 México, D.F., a 24 de marzo de 2010.- El Encargado del Despacho de los Asuntos de la Dirección General del Consejo de Promoción Turística de México, S.A. de C.V., Carlos Felipe Behnsen Flathmann.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 18 DE MAYO DE 2010.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
