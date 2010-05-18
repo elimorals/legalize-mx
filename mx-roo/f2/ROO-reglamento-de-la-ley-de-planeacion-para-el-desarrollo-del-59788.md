@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-la-ley-de-planeacion-para-el-desarrollo-del-59788
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-24"
-last_updated: "2007-09-24"
+last_updated: "2010-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DE LA LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2010.
 
 Reglamento publicado en el Extraordinario Bis del Periódico Oficial del Estado de Quintana Roo, el lunes 24 de septiembre de 2007.
 
@@ -251,15 +251,9 @@ e) Ámbito de aplicación.
 
 IV. Visión;
 
-V. Ejes:
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2010)</small>
 
-a) Gobierno eficiente;
-
-b) Factores de competitividad;
-
-c) Desarrollo integral; y
-
-d) Calidad de vida.
+V. Ejes;
 
 VI. Objetivos estratégicos;
 
@@ -274,6 +268,10 @@ c) Programas institucionales; y
 d) Programas especiales y regionales, en su caso.
 
 VIII. Lineamientos para la evaluación y actualización de planes y programas.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2010)</small>
+
+Los ejes se delimitarán en el Plan Estatal de Desarrollo, conforme a las necesidades que se presenten conforme a la constante evolución de la Administración Pública.
 
 ###### Artículo 12.
 
@@ -866,3 +864,11 @@ EL SECRETARIO DE PLANEACIÓN Y DESARROLLO REGIONAL
 C.P. JOSÉ ALBERTO ALONSO OVANDO
 
 LA PRESENTE HOJA DE FIRMAS FORMA PARTE INTEGRANTE DEL REGLAMENTO DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO SOCIAL DEL ESTADO DE QUINTANA ROO, DE FECHA 24 DE SEPTIEMBRE DEL AÑO DOS MIL SIETE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE MAYO DE 2010.
+
+PRIMERO. La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las previstas en la presente Reforma.
