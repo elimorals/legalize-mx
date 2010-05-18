@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-comision-permanente-y-de-los-67381"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-14"
-last_updated: "2009-01-14"
+last_updated: "2010-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA COMISION PERMANENTE Y DE LOS ORGANOS DE CONSULTA Y APOYO DEL COPLADE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2010.
 
 Reglamento publicado en el Número 2 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 14 de enero de 2009.
 
@@ -347,6 +347,8 @@ XIV. Gobernabilidad; y
 
 XV. Modernización Administrativa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 26.
 
 Los Subcomités Sectoriales se podrán integrar de la siguiente manera:
@@ -359,11 +361,17 @@ III. Un Coordinador Operativo, que será el responsable del área de planeación
 
 IV. Los Titulares de las Dependencias y Entidades de la Administración Pública Estatal y Delegados Federales cuyas actividades se relacionen directamente con las del Subcomité;
 
-V. Los Representantes de las Instituciones, Organizaciones Sociales y Empresariales cuyas actividades se relacionen con las del Subcomité, a invitación expresa del Coordinador;
+V. (DEROGADA, P.O. 18 DE MAYO DE 2010)
 
-VI. Los Municipios a invitación expresa del Coordinador; y
+VI. (DEROGADA, P.O. 18 DE MAYO DE 2010)
 
 VII. Los demás que señale el acuerdo de Creación del Subcomité.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2010)</small>
+
+###### ARTÍCULO 26
+
+BIS. A invitación expresa del Coordinador del Subcomité participarán, en las sesiones y demás actividades del Subcomité, los Municipios y los Representantes de las Instituciones, Organizaciones Sociales y Empresariales cuyas actividades se relacionen con las de aquél.
 
 ## TÍTULO DECIMO PRIMERO. DE LOS SUBCOMITÉS INSTITUCIONALES
 
@@ -445,17 +453,19 @@ Las Sesiones de los Subcomités Sectoriales, Especiales, Institucionales y Regio
 
 I. Ordinarias, cada tres meses; o (sic)
 
-II. Extraordinarias, en cualquier tiempo, para conocer los asuntos específicos que por su trascendencia y urgencia, a juicio de su presidente o de la mitad más uno de sus miembros deban desahogarse;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2010)</small>
+
+II. Extraordinarias, en cualquier tiempo, para conocer los asuntos específicos que por su trascendencia y urgencia, a juicio de su Coordinador o de la mitad más uno de sus miembros, deban desahogarse.
 
 III. Las sesiones ordinarias serán agendazas (sic), validadas y propuestas por la Dirección General del COPLADE y las sesiones extraordinarias se realizaran a solicitud de los coordinadores generales de los subcomités.
 
 ### CAPÍTULO III. DE LAS CONVOCATORIAS DE LOS SUBCOMITÉS
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 32.
 
-Las convocatorias deberán notificarse a los miembros de los Subcomités Sectoriales, Especiales, Institucionales y Regionales, cuando menos, con cinco días hábiles de anticipación a la fecha de celebración de la sesión; deberán mencionar la naturaleza de la sesión y contener el orden del día, el lugar, fecha y hora de la sesión, los asuntos a tratar y los documentos e información de los mismos.
-
-El Coordinador del Subcomité podrá modificar la fecha de las sesiones ordinarias, previo aviso a los demás integrantes, cuando menos, con dos días de anticipación. Lo mismo se observara cuando se cite a sesiones extraordinarias.
+Las convocatorias serán emitidas por el Coordinador, y deberán notificarse a los miembros de los Subcomités Sectoriales, Especiales, Institucionales y Regionales, cuando menos, con cinco días hábiles de anticipación a la fecha de celebración de la sesión; deberán mencionar la naturaleza de la sesión y contener el orden del día, el lugar, fecha y hora de la sesión, los asuntos a tratar y los documentos e información de los mismos.
 
 ### CAPÍTULO IV. DEL QUORUM LEGAL DE LOS SUBCOMITÉS
 
@@ -696,3 +706,11 @@ SECRETARIO DE PLANEACIÓN Y DESARROLLO REGIONAL Y VICEPRESIDENTE DEL COPLADE
 C.P. JOSÉ ALBERTO ALONSO OVANDO
 
 ESTA HOJA DE FIRMAS PERTENECE AL DECRETO POR EL QUE SE PUBLICA EL REGLAMENTO INTERIOR DE LA COMISIÓN PERMANENTE Y DE LOS ÓRGANOS DE CONSULTA Y APOYO DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO, QUE SE ACUERDA EL DIA 20 DEL MES DE NOVIEMBRE DEL AÑO DOS MIL OCHO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE MAYO DE 2010.
+
+PRIMERO. La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las previstas en la presente Reforma.
