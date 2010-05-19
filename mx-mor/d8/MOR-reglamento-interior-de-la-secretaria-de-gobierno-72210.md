@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-gobierno-72210"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-20"
-last_updated: "2010-01-20"
+last_updated: "2010-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 20 de enero de 2010.
 
@@ -43,6 +43,8 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO
 
 El presente Reglamento tiene por objeto regular las atribuciones y funcionamiento de la Secretaría de Gobierno como Dependencia del Poder Ejecutivo Estatal que tiene a su cargo el despacho de los asuntos que le encomiendan la Constitución Política del Estado, la Ley Orgánica de la Administración Pública y otras leyes, así como los reglamentos, decretos, acuerdos y demás disposiciones que expida el Ejecutivo del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 2010)</small>
+
 ###### Artículo 2.
 
 Para el despacho de los asuntos de su competencia, la Secretaría de Gobierno contará con las unidades administrativas y los servidores públicos que enseguida se refieren:
@@ -61,25 +63,27 @@ VI. Dirección General de Transportes;
 
 VII. Dirección General de Vinculación Municipal, Análisis y Estudios Gubernamentales;
 
-VIII. Dirección General de Asociaciones Religiosas;
+VIII. Dirección General de Asuntos Religiosos;
 
-IX. Dirección General de Derechos Humanos;
+IX. Dirección General de Análisis Político y Proyectos Estratégicos;
 
-X. Dirección General de Vinculación y Enlace Interinstitucional;
+X. Dirección General de Derechos Humanos;
 
-XI. Dirección General del Registro Civil;
+XI. Dirección General de la Defensoría Pública;
 
-XII. Dirección General de la Defensoría Pública;
+XII. Dirección General del Registro Civil;
 
 XIII. Dirección General Jurídica;
 
 XIV. Dirección General de Administración;
 
-XV. Coordinación General de Asesores del Secretario;
+XV. Coordinación General de Vinculación;
 
-XVI. Coordinación de Comunicación Social, y
+XVI. Coordinación General de Asesores del Secretario;
 
-XVII. Los órganos administrativos desconcentrados de la Secretaría.
+XVII. Coordinación de Comunicación Social, y
+
+XVIII. Los órganos administrativos desconcentrados de la Secretaría.
 
 Las unidades administrativas estarán integradas por las personas titulares respectivas de las Direcciones de Área, Subdirecciones, Jefaturas de Departamento, y demás servidores públicos que se señalen en los Manuales de Organización y las disposiciones jurídicas aplicables.
 
@@ -173,11 +177,17 @@ XXXI. Llevar el registro, legalizar y certificar las firmas autógrafas de los f
 
 XXXII. Elaborar los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de su competencia y proponérselos a la persona titular del Poder Ejecutivo, previa obtención de la validación y rúbrica por parte de la Consejería Jurídica;
 
-XXXIII. Designar a los funcionarios de confianza de la Secretaría, siempre y cuando no tengan otra forma de designación en las disposiciones aplicables, y
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2010)</small>
 
-XXXIV. Las demás que señalen las disposiciones jurídicas o le sean delegadas por el titular del Ejecutivo por mandato específico.
+XXXIII. Presidir el consejo Consultivo de Asesores por sí o por la persona que designe para tal efecto;
 
-Las facultades señaladas en las fracciones VII respecto al otorgamiento de concesiones; XVI y XVII en lo relativo a la autorización de protocolos; XXI, XXIII, XXIX y XXXIII del presente artículo, no podrán ser delegables en servidores públicos subalternos.
+XXXIV. Designar a los funcionarios de confianza de la Secretaría, siempre y cuando no tengan otra forma de designación en las disposiciones aplicables, y
+
+XXXV. Las demás que señalen las disposiciones jurídicas o le sean delegadas por el titular del Ejecutivo por mandato específico.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2010)</small>
+
+Las facultades señaladas en las fracciones VII respecto al otorgamiento de concesiones; XVI y XVII en lo relativo a la autorización de protocolos; XXI, XXIII, XXIX y XXIV del presente artículo, no podrán ser delegables en servidores públicos subalternos.
 
 ### CAPÍTULO TERCERO. DE LAS SUBSECRETARÍAS Y SUS ATRIBUCIONES
 
@@ -261,61 +271,69 @@ XVII. Solicitar por acuerdo de la persona titular de la Secretaría de Gobierno,
 
 XVIII. Autorizar los operativos o programas que realicen las Direcciones Generales adscritas a la Subsecretaría;
 
-XIX. Convocar por acuerdo de la persona titular de la Secretaría a los demás servidores públicos del Poder Ejecutivo, para la atención de los asuntos que puedan constituirse en conflictos sociales, y
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2010)</small>
 
-XX. Las demás que le otorguen otros ordenamientos jurídicos o le sean delegadas por la persona titular de la Secretaría.
+XIX. Auxiliar a la persona titular de la Secretaría de Gobierno en la conducción de las relaciones entre el Poder Ejecutivo Federal y Estatal con las asociaciones, iglesias, agrupaciones, organizaciones y demás instituciones religiosas, en términos de lo previsto por la Ley reglamentaria de la materia;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2010)</small>
+
+XX. Convocar por acuerdo del titular de la Secretaría a los demás servidores públicos del Poder Ejecutivo, para la atención de los asuntos que puedan constituirse en conflictos sociales, y
+
+XXI. Las demás que le otorguen otros ordenamientos jurídicos o le sean delegadas por la persona titular de la Secretaría.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2010)</small>
 
 ###### Artículo 9.
 
 Son atribuciones de la Subsecretaría de Asuntos Jurídicos, las siguientes:
 
-I. Coadyuvar con la persona titular de la Secretaría de Gobierno en la promoción y coordinación de las relaciones institucionales del Poder Ejecutivo con los otros Poderes del Estado, así como con los partidos políticos nacionales y estatales, sus grupos parlamentarios y sus respectivos diputados tanto locales como federales;
+I. Conducir la política en auxilio o coordinación con las autoridades federales para la autorización de detonantes y pirotecnia, portación de armas, loterías, rifas y juegos prohibidos;
 
-II. Auxiliar a la persona titular de la Secretaría de Gobierno en la conducción de las relaciones entre el Poder Ejecutivo Federal y Estatal con las asociaciones, iglesias, agrupaciones, organizaciones y demás instituciones religiosas, en términos de lo previsto por la Ley reglamentaria de la materia;
+II. Supervisar la ejecución de las expropiaciones, ocupaciones temporales y limitación de dominio de los bienes, que se hagan por causas de utilidad pública;
 
-III. Conducir la política en auxilio o coordinación con las autoridades federales para la autorización de detonantes y pirotecnia, portación de armas, loterías, rifas y juegos prohibidos;
+III. Canalizar y supervisar la atención hasta su solución, de las denuncias, solicitudes y recomendaciones emitidas por la autoridad competente en materia de derechos humanos; solicitar informes a las Secretarías de Despacho, en relación con los asuntos que en materia de derechos humanos deba conocer;
 
-IV. Supervisar la ejecución de las expropiaciones, ocupaciones temporales y limitación de dominio de los bienes, que se hagan por causas de utilidad pública;
+IV. Llevar un sistema de control de las iniciativas de leyes o decretos que se remitan al Congreso del Estado, y las que éste devuelva para su publicación;
 
-V. Canalizar y supervisar la atención hasta su solución, de las denuncias, solicitudes y recomendaciones emitidas por la autoridad competente en materia de derechos humanos; solicitar informes a las Secretarías de Despacho, en relación con los asuntos que en materia de derechos humanos deba conocer;
+V. En coordinación con la Consejería Jurídica, someter a la consideración de la persona titular de la Secretaría de Gobierno, las observaciones que deba emitir la persona titular del Poder Ejecutivo, respecto de leyes o decretos que apruebe y remita para publicación el Congreso, en el ámbito de su competencia;
 
-VI. Conocer de las iniciativas que deba presentar el Ejecutivo ante el Congreso del Estado, y darles seguimiento hasta su aprobación, promulgación o sanción y publicación en su caso; así como emitir a la persona titular de la Secretaría de Gobierno, en coordinación con la Subsecretaría de Gobierno, opinión sobre las iniciativas de leyes o decretos que tengan un contenido político;
+VI. Conducir la política de la Defensoría Pública en el Estado Libre y Soberano de Morelos;
 
-VII. Conducir la política de la Defensoría Pública en el Estado Libre y Soberano de Morelos;
+VII. Someter a consideración de la persona titular de la Secretaría de Gobierno los proyectos de nombramientos que el Ejecutivo expida para el ejercicio de las funciones notariales y ejecutar, en coordinación con el área responsable, periódicamente las visitas de inspección a las notarías del Estado Libre y Soberano de Morelos;
 
-VIII. Someter a consideración de la persona titular de la Secretaría de Gobierno los proyectos de nombramientos que el Ejecutivo expida para el ejercicio de las funciones notariales y ejecutar, en coordinación con el área responsable, periódicamente las visitas de inspección a las notarías del Estado Libre y Soberano de Morelos;
+VIII. Someter a consideración de la persona titular de la Secretaría de Gobierno la autorización de apertura y uso de protocolos y folios notariales, así como los mecanismos que para ello se utilicen;
 
-IX. Someter a consideración de la persona titular de la Secretaría de Gobierno la autorización de apertura y uso de protocolos y folios notariales, así como los mecanismos que para ello se utilicen;
+IX. Dar seguimiento a las acciones legales necesarias para que se cumplan las expropiaciones, la ocupación temporal y la limitación de dominio de los bienes en los casos de utilidad pública, de conformidad con la legislación respectiva;
 
-X. Dar seguimiento a las acciones legales necesarias para que se cumplan las expropiaciones, la ocupación temporal y la limitación de dominio de los bienes en los casos de utilidad pública, de conformidad con la legislación respectiva;
+X. Coadyuvar en la planeación, organización, coordinación, dirección y vigilancia del ejercicio de las funciones del Registro Civil;
 
-XI. Coadyuvar en la planeación, organización, coordinación, dirección y vigilancia del ejercicio de las funciones del Registro Civil;
+XI. Elaborar los proyectos de convenios o contratos a celebrar entre el Gobierno Estatal con la Federación, los Municipios y otras instituciones públicas o privadas, en las materias que sean competencia de esta Secretaría;
 
-XII. Elaborar los proyectos de convenios o contratos a celebrar entre el Gobierno Estatal con la Federación, los Municipios y otras instituciones públicas o privadas, en las materias que sean competencia de esta Secretaría;
+XII. Llevar un control y seguimiento de los juicios relacionados con la Secretaría de Gobierno, que esté tramitando la Consejería Jurídica; revisar y dar el visto bueno respecto de las contestaciones y demás escritos relacionados con asuntos jurídicos que se sometan a firma de la persona titular de la Secretaría de Gobierno;
 
-XIII. Llevar un control y seguimiento de los juicios relacionados con la Secretaría de Gobierno, que esté tramitando la Consejería Jurídica; revisar y dar el visto bueno respecto de las contestaciones y demás escritos relacionados con asuntos jurídicos que se sometan a firma de la persona titular de la Secretaría de Gobierno;
+XIII. Dar seguimiento al ejercicio de las atribuciones derivadas de los convenios y contratos que, en las materias competencia de la Secretaría de Gobierno, celebre el Gobierno del Estado con la Federación y los Ayuntamientos;
 
-XIV. Dar seguimiento al ejercicio de las atribuciones derivadas de los convenios y contratos que, en las materias competencia de la Secretaría de Gobierno, celebre el Gobierno del Estado con la Federación y los Ayuntamientos;
+XIV. Someter a consideración de la persona titular de la Secretaría de Gobierno los proyectos de las licencias, autorizaciones, concesiones y permisos cuyo otorgamiento no esté atribuido a otras Dependencias del Ejecutivo;
 
-XV. Someter a consideración de la persona titular de la Secretaría de Gobierno los proyectos de las licencias, autorizaciones, concesiones y permisos cuyo otorgamiento no esté atribuido a otras Dependencias del Ejecutivo;
+XV. Validar la viabilidad jurídica de los convenios, contratos y demás instrumentos legales que se sometan a firma de la persona titular de la Secretaría;
 
-XVI. Validar la viabilidad jurídica de los convenios, contratos y demás instrumentos legales que se sometan a firma de la persona titular de la Secretaría;
+XVI. Controlar y supervisar el Libro de Registro de Notarios;
 
-XVII. Controlar y supervisar el Libro de Registro de Notarios;
+XVII. Coordinar el registro, legalización y certificación de las firmas autógrafas de los funcionarios estatales, de los presidentes y secretarios municipales, y de los demás funcionarios a quienes esté encomendada la fe pública;
 
-XVIII. Coordinar el registro, legalización y certificación de las firmas autógrafas de los funcionarios estatales, de los presidentes y secretarios municipales, y de los demás funcionarios a quienes esté encomendada la fe pública;
+XVIII. Coordinar y someter a consideración de la persona titular de la Secretaría de Gobierno los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de la competencia de la Secretaría de Gobierno;
 
-XIX. Coordinar y someter a consideración de la persona titular de la Secretaría de Gobierno los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en el ámbito de la competencia de la Secretaría de Gobierno;
+XIX. Supervisar la administración y publicación del Periódico Oficial “Tierra y Libertad”, y
 
-XX. Administrar la publicación del Periódico Oficial “Tierra y Libertad”, y
-
-XXI. Las demás que le sean delegadas por la persona titular de la Secretaría de Gobierno.
+XX. Las demás que le sean delegadas por la persona titular de la Secretaría de Gobierno.
 
 ### CAPÍTULO CUARTO. DE LA ADSCRIPCIÓN DE LAS DEMÁS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2010)</small>
+
 ###### Artículo 10.
 
-La Coordinación General de Asesores del Secretario tendrá nivel de Dirección General, y tanto ésta como la Dirección General de Administración, y la Coordinación de Comunicación Social, estarán adscritas directamente a la oficina de la persona titular de la Secretaría.
+La Coordinación General de Vinculación y la Coordinación General de Asesores del Secretario tendrán nivel de Dirección General, y tanto éstas como la Dirección General de Administración y la Coordinación de Comunicación Social, estarán adscritas directamente a la Oficina del Secretario.
 
 ###### Artículo 11.
 
@@ -325,25 +343,31 @@ I. Dirección General de Gobierno;
 
 II. Dirección General de Protección Civil;
 
-III. Dirección General de Transportes, y
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2010)</small>
 
-IV. Dirección General de Vinculación Municipal, Análisis y Estudios Gubernamentales.
+III. Dirección General de Asuntos Religiosos;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2010)</small>
+
+IV. Dirección General de Análisis Político y Proyectos Estratégicos;
+
+V. Dirección General de Transportes, y
+
+VI. Dirección General de Vinculación Municipal, Análisis y Estudios Gubernamentales.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2010)</small>
 
 ###### Artículo 12.
 
 Se adscriben a la Subsecretaría de Asuntos Jurídicos, las siguientes unidades administrativas:
 
-I. Dirección General de Asociaciones Religiosas;
+I. Dirección General de Derechos Humanos;
 
-II. Dirección General de Derechos Humanos;
+II. Dirección General de la Defensoría Pública;
 
-III. Dirección General de Vinculación y Enlace Interinstitucional;
+III. Dirección General del Registro Civil, y
 
-IV. Dirección General de la Defensoría Pública;
-
-V. Dirección General del Registro Civil, y
-
-VI. Dirección General Jurídica.
+IV. Dirección General Jurídica.
 
 ### CAPÍTULO QUINTO. DE LAS ATRIBUCIONES GENÉRICAS DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -547,9 +571,11 @@ XI. Informar a la persona titular de la Secretaría y Subsecretaría de Gobierno
 
 XII. Las demás que le sean delegadas por la persona titular de la Secretaría o Subsecretaría de Gobierno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 2010)</small>
+
 ###### Artículo 19.
 
-Son atribuciones de la persona titular de la Dirección General de Asociaciones Religiosas, las siguientes:
+Son atribuciones de la persona titular de la Dirección General de Asuntos Religiosos, las siguientes:
 
 I. Auxiliar a la persona titular de la Secretaría de Gobierno en la conducción de las relaciones del Poder Ejecutivo Estatal con las asociaciones, iglesias, agrupaciones, organizaciones y demás instituciones religiosas;
 
@@ -571,9 +597,37 @@ IX. Vigilar que en las Dependencias de Ejecutivo Estatal se observe el principio
 
 X. Desarrollar las actividades necesarias que tiendan a garantizar la libertad de creencias, así como promover un clima propicio para la coexistencia pacífica entre individuos y grupos de las distintas religiones y credos con presencia en el Estado, especialmente el fomento del diálogo y la tolerancia, y
 
-XI. Las demás que le señalen las disposiciones legales aplicables o le sean delegadas por la persona titular de la Secretaría de Gobierno o de la Subsecretaría de Asuntos Jurídicos.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2010)</small>
+
+XI. Las demás que le señalen las disposiciones legales aplicables o le sean delegadas por la persona titular de la Secretaría de Gobierno o de la Subsecretaría de Gobierno.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2010)</small>
 
 ###### Artículo 20.
+
+Son atribuciones de la persona titular de la Dirección General de Análisis Político y Proyectos Estratégicos, las siguientes:
+
+I. Elaborar y presentar a su superior jerárquico y en su caso al Secretario estrategias y alternativas de actuación ante problemas de coyuntura, mediante la recopilación de información oportuna de los acontecimientos;
+
+II. Asesorar y emitir opinión en asuntos de impacto social, proponiendo alternativas de prevención y solución;
+
+III. Analizar los sucesos y fenómenos políticos para proponer proyectos estratégicos y acciones para el cumplimiento del Plan Estatal de Desarrollo;
+
+IV. Establecer un sistema de información relevante y seguimiento estadístico para proveer de información oportuna a su superior jerárquico y en su caso al Secretario;
+
+V. Coordinar la elaboración de bases de datos mediante la medición periódica de la aplicación de los programas gubernamentales para dar a conocer a su superior jerárquico y en su caso al Secretario, los avances de los mismos;
+
+VI. Coordinar los informes estadísticos de asesoramiento a su superior jerárquico, al Secretario y en su caso, para la persona titular del Poder Ejecutivo, mediante el análisis de información estadística generada por las Secretarías, Dependencias y Entidades gubernamentales;
+
+VII. Mantener una base de datos actualizada mediante métodos estadísticos a través de la recopilación de información y la consolidación de indicadores para la rápida consulta y distribución de información de coyuntura;
+
+VIII. Investigar el comportamiento de los diferentes sectores de la sociedad morelense, a través del análisis mediático, social y político, para ofrecer asesoría a la persona titular de la Secretaría, sobre acontecimientos coyunturales, oportunidades de posicionamiento y previsión de escenarios, con el fin de mantener una imagen congruente con la misión de Gobierno, y
+
+IX. Las demás que le confieran otros ordenamientos jurídicos o la persona titular de la Secretaría.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2010)</small>
+
+###### Artículo 21.
 
 La Dirección General de Derechos Humanos tendrá las siguientes atribuciones:
 
@@ -587,27 +641,9 @@ IV. Coordinar la atención y seguimiento hasta su conclusión, de las solicitude
 
 V. Promover la suscripción de los convenios necesarios para el cumplimiento de sus atribuciones;
 
-VI. Coadyuvar con la Dirección General de Gobierno en los asuntos que éste le requiera una vez que exista queja o solicitud formalmente presentada en relación con la posible vulneración de los derechos humanos en la entidad, y
+VI. Coadyuvar con la Dirección General de Gobierno en los asuntos que ésta le requiera una vez que exista queja o solicitud formalmente presentada en relación con la posible vulneración de los derechos humanos en la Entidad, y
 
 VII. Las demás que señalen otras disposiciones jurídicas o le sean delegadas por la persona titular de la Secretaría de Gobierno o de la Subsecretaría de Asuntos Jurídicos.
-
-###### Artículo 21.
-
-Son atribuciones de la persona titular de la Dirección General de Vinculación y Enlace Interinstitucional las siguientes:
-
-I. Fungir como enlace de la persona titular de la Secretaría de Gobierno para promover y establecer la coordinación de las relaciones institucionales del Poder Ejecutivo con los otros Poderes del Estado;
-
-II. Proponer mecanismos de seguimiento y evaluación de las relaciones institucionales generadas, así como dar seguimiento a las demandas ciudadanas, y a los procesos de consulta ciudadana que se deriven de las relaciones Institucionales entre los poderes públicos de la entidad y el Poder Ejecutivo Estatal;
-
-III. En coordinación con la Consejería Jurídica, fungir como enlace ante el H. Congreso del Estado para el seguimiento de las iniciativas de leyes o decretos que presente el Titular del Poder Ejecutivo;
-
-IV. Llevar el registro, seguimiento e inventario de las iniciativas de leyes o decretos que se remitan al Congreso del Estado, y las que éste devuelva para su publicación;
-
-V. En coordinación con la Consejería Jurídica y la Subsecretaría de Asuntos Jurídicos someter a la consideración de la persona titular de la Secretaría de Gobierno, las observaciones que deba emitir la persona titular del Poder Ejecutivo, respecto de los Proyectos de leyes o decretos que apruebe y remita para publicación el Congreso, en el ámbito de su competencia;
-
-VI. Ser el enlace de vinculación y mantener relación con los partidos políticos nacionales y estatales, así como con los diferentes grupos parlamentarios y sus respectivos diputados del Congreso del Estado y Legisladores Federales en el ámbito legislativo, y
-
-VII. Las demás que derivadas de sus funciones le sean delegadas por la persona titular de la Secretaría de Gobierno o de la Subsecretaría de Asuntos Jurídicos.
 
 ###### Artículo 22.
 
@@ -679,7 +715,9 @@ I. Llevar el registro, legalizar y apostillar las firmas autógrafas de los serv
 
 II. Registrar los convenios y contratos suscritos por la persona titular del Poder Ejecutivo, sus Secretarías o Dependencias;
 
-III. Compilar, editar y publicar el Periódico Oficial “Tierra y Libertad” de conformidad con el Reglamento correspondiente;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2010)</small>
+
+III. Administrar, compilar, editar y publicar el Periódico Oficial “Tierra y Libertad” de conformidad con el Reglamento correspondiente;
 
 IV. Aplicar los exámenes de Aspirantes a Notario, así como los exámenes de oposición para obtener la patente de Notario, en los términos de la Ley del Notariado del Estado;
 
@@ -693,7 +731,9 @@ VIII. Tramitar la expedición de opiniones favorables relativas a la portación 
 
 IX. Ejecutar en coordinación con la Consejería Jurídica, las expropiaciones, ocupaciones temporales y limitación de dominio de los bienes que proceda, por causa de utilidad pública para el Estado, de conformidad con la legislación aplicable;
 
-X. Revisar los convenios, contratos y demás instrumentos jurídicos que se sometan para firma de la persona titular de la Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2010)</small>
+
+X. Revisar los convenios, contratos y demás instrumentos jurídicos que se sometan para firma de la persona titular de la Secretaría de Gobierno. Tratándose de documentos que remitan las Direcciones Generales, Organismos o unidades administrativas de la Secretaría, deberá hacerse llegar de la información necesaria para la integración del expediente correspondiente, a efecto de ponerlos en estado de firma;
 
 XI. Brindar asesoría jurídica a todas las unidades administrativas de la Secretaría y sus órganos sectorizados;
 
@@ -731,7 +771,25 @@ VII. Coordinar la Unidad de Información Pública de la Secretaría de Gobierno,
 
 VIII. Las demás que le confieran otras disposiciones jurídicas, o le sean delegadas por la persona titular de la Secretaría de Gobierno.
 
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2010)</small>
+
 ###### Artículo 26.
+
+Son atribuciones de la persona titular de la Coordinación General de Vinculación:
+
+I. Mantener relación con los partidos políticos nacionales y estatales, así como con los diferentes grupos y fracciones parlamentarias del Congreso del Estado y del Congreso de la Unión;
+
+II. Fungir como enlace ante el Congreso del Estado para el seguimiento a los acuerdos generados con el mismo;
+
+III. Mantener una estrecha relación con los representantes del Gobierno Federal en el Estado;
+
+IV. Mantener una estrecha vinculación con las áreas estatales y federales para lograr los mecanismos que convengan y/o coadyuven en el logro de los objetivos planteados en el Plan Estatal de Desarrollo;
+
+V. Coadyuvar en la resolución de conflictos cuando la naturaleza del problema lo requiera, y
+
+VI. Las demás que le señalen otros ordenamientos jurídicos o le sean delegadas por la persona titular de la Secretaría.
+
+###### Artículo 27.
 
 Son atribuciones de la persona titular de la Coordinación General de Asesores del Secretario:
 
@@ -753,11 +811,59 @@ VIII. Representar a la Secretaría de Gobierno, cuando así lo determine expresa
 
 IX. Elaborar los mensajes y discursos de la persona titular de la Secretaría de Gobierno;
 
-X. Coordinar el Consejo de Información Clasificada de la Secretaría, y
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2010)</small>
 
-XI. Las demás que le sean delegadas por la persona titular de la Secretaría de Gobierno.
+X. Coordinar el Consejo de Información Clasificada de la Secretaría;
 
-###### Artículo 27.
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2010)</small>
+
+XI. Revisar los documentos que deba suscribir la persona titular de la Secretaría y, en su caso, realizar las observaciones correspondientes;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2010)</small>
+
+XII. Informar a la persona titular de la Secretaría sobre el desarrollo de las comisiones que le haya asignado;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2010)</small>
+
+XIII. Analizar y emitir opinión de los asuntos que le sean asignados;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2010)</small>
+
+XIV. Acordar con la persona titular de la Secretaría, con la periodicidad que se establezca, los asuntos relacionados con la Coordinación General de Asesores y que por su importancia requieran de su intervención;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2010)</small>
+
+XV. Establecer un sistema de información de los asuntos relevantes y seguimiento de los mismos, para proveer de información oportuna a la persona titular de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2010)</small>
+
+XVI. Proponer a la persona titular de la Secretaría los programas y proyectos de trabajo que correspondan de acuerdo con las funciones de la Coordinación, y (sic)
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2010)</small>
+
+XVII. Dar seguimiento a los acuerdos tomados en el Consejo Consultivo de Asesores;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2010)</small>
+
+XVIII. Validar el cumplimiento de las metas propuestas anualmente a las (sic) Secretaría por parte del cuerpo de asesores del Consejo Consultivo de Asesores;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2010)</small>
+
+XIX. Convocar, por instrucciones de la persona titular de la Secretaría, a las sesiones ordinarias y extraordinarias del Consejo Consultivo de Asesores, así como a las actividades correspondientes que deriven o sean necesarias para el funcionamiento del mismo;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2010)</small>
+
+XX. Garantizar el cumplimiento del artículo 4 del Acuerdo de Creación del Consejo Consultivo de Asesores;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2010)</small>
+
+XXI. Generar y mantener actualizada la información sobre los asesores de las Secretarías, Dependencias y Entidades del Poder Ejecutivo estatal, y
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2010)</small>
+
+XXII. Las demás que le sean delegadas por la persona titular de la Secretaría.
+
+###### Artículo 28.
 
 Son atribuciones de la persona titular de la Coordinación de Comunicación Social las siguientes:
 
@@ -767,25 +873,27 @@ II. Recopilar y analizar información, así como diseñar estrategias mediática
 
 III. Realizar el intercambio de información correspondiente con los tres ámbitos de gobierno, los poderes del Estado, organismos no gubernamentales y asociaciones civiles, que permitan a las áreas encargadas de la difusión del Poder Ejecutivo dar cumplimiento a las estrategias a seguir, para la gobernabilidad mediante la comunicación;
 
-IV. Fungir como enlace de la persona titular de la Secretaría de Gobierno con la Coordinación de Asesores y Comunicación Política en materia mediática y con los medios de comunicación para atender las solicitudes que éstos tengan, y
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2010)</small>
+
+IV. Fungir como enlace de la persona titular de la Secretaría de Gobierno con la Coordinación de Asesores y Comunicación Política en materia mediática y con los medios de comunicación para atender las solicitudes que ésta tenga, y
 
 V. Las demás que le sean delegadas por la persona titular de la Secretaría de Gobierno.
-
-###### Artículo 28.
-
-La Secretaría tendrá los órganos administrativos desconcentrados que decrete la persona titular del Poder Ejecutivo.
-
-Estos órganos tendrán la competencia y facultades que les señalen los instrumentos jurídicos que los creen o regulen, y las personas titulares tendrán las atribuciones genéricas que se conceden a los Directores Generales en el artículo 14 del presente Reglamento.
 
 ### CAPÍTULO OCTAVO. DE LOS ÓRGANOS DESCONCENTRADOS
 
 ###### Artículo 29.
 
-Las ausencias temporales de la persona titular de la Secretaría de Gobierno serán cubiertas por la de la Subsecretaría de Gobierno; a falta de ésta, por la de la Subsecretaría de Asuntos Jurídicos.
+La Secretaría tendrá los órganos administrativos desconcentrados que decrete la persona titular del Poder Ejecutivo.
+
+Estos órganos tendrán la competencia y facultades que les señalen los instrumentos jurídicos que los creen o regulen, y las personas titulares tendrán las atribuciones genéricas que se conceden a los Directores Generales en el artículo 14 del presente Reglamento.
 
 ### CAPÍTULO NOVENO. DE LA SUPLENCIA DE LOS FUNCIONARIOS
 
 ###### Artículo 30.
+
+Las ausencias temporales de la persona titular de la Secretaría de Gobierno serán cubiertas por la de la Subsecretaría de Gobierno; a falta de ésta, por la de la Subsecretaría de Asuntos Jurídicos.
+
+###### Artículo 31.
 
 Las ausencias temporales de las personas titulares de las Subsecretarías se cubrirán por la persona titular de la Dirección General que designe la persona titular de la Secretaría.
 
@@ -793,7 +901,7 @@ Las ausencias temporales de las personas titulares de las Subsecretarías se cub
 
 Las ausencias temporales de las personas titulares de las Direcciones Generales serán cubiertas por el servidor público que designe el superior jerárquico.
 
-###### Artículo 32.
+###### Artículo 33.
 
 Cuando por cualquier motivo no exista titular en alguna unidad administrativa, la persona titular de la Secretaría podrá delegar las funciones propias del cargo y que originalmente le pertenecen, en servidores públicos subalternos, en términos del artículo 19 de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, quienes no dejarán de desempeñar el cargo que originalmente ostentan pero serán designados como Encargados de Despacho de la unidad administrativa que temporalmente se encuentre sin titular y hasta en tanto realice la designación definitiva, pudiendo desempeñar legalmente las atribuciones que originalmente corresponderían al titular de dicha unidad administrativa, sin que ello genere mayores derechos o prestaciones de los que legalmente le corresponden por su cargo original.
 
@@ -816,3 +924,25 @@ EL SECRETARIO DE GOBIERNO
 JORGE MORALES BARUD
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE MAYO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relativas a las (sic) Dirección General de Análisis Político y Proyectos Estratégicos, contenidas en el presente Decreto, cobrarán vigencia al mismo tiempo que adquieran vigor las disposiciones que extingan la unidad administrativa dependiente del Titular del Poder Ejecutivo denominada Coordinación General de Asesores.
+
+Se instruye a la (sic) Secretarías de Finanzas y Planeación, de Gestión e Innovación Gubernamental, y de la Contraloría, con la intervención que corresponda de la Secretaría de Gobierno y demás unidades administrativas involucradas a coordinar y realizar todos los actos administrativos necesarios para la transferencia de los recursos humanos, materiales y financieros para el cumplimiento de las disposiciones a que se refiere el párrafo anterior, una vez que se actualice la condición que en este mismo párrafo se establece.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Gobierno, con la intervención que corresponda de las Secretarías de Finanzas y Planeación, de Gestión e Innovación Gubernamental, y de la Contraloría deberá, realizar las transferencias de recursos humanos materiales y financieros, y realizar los cambios administrativos necesarios, para el cumplimiento de las disposiciones que entran en vigor al día siguiente de esta publicación contenidas en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Gobierno deberá ajustar sus Manuales de Organización y de Políticas y Procedimientos a las disposiciones del presente Decreto, dentro de los ciento veinte días hábiles siguientes a la entrada en vigor del mismo.
