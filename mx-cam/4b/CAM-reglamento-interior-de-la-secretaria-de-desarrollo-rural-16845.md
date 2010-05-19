@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-desarrollo-rural-16845"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-23"
-last_updated: "2000-08-23"
+last_updated: "2010-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL DEL PODER EJECUTIVO DEL ESTADO DE CAMPECHE
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL DEL PODER EJECUTIVO DEL ESTADO DE CAMPECHE
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL DEL PODER EJECUTIVO DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 19 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el miércoles 23 de agosto de 2000.
 
@@ -606,3 +608,15 @@ Tercero.- Cuando en el Reglamento se dé una nueva o distinta denominación a al
 Dado en el Palacio de Gobierno, en la ciudad de Campeche, Municipio y Estado del mismo nombre, Estados Unidos Mexicanos, a los diecinueve días del mes de julio del año dos mil.
 
 L.A. JOSÉ ANTONIO GONZÁLEZ CURI, Gobernador Constitucional del Estado.- Lic. Carlos Felipe Ortega Rubio, Secretario de Gobierno.- Ing. Efraín Campos Arizmendi, Encargado del Despacho de la Secretaría de Desarrollo Rural.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE MAYO DE 2010.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+Segundo.- Se abroga el reglamento interior de la Secretaría de Desarrollo Rural publicado el 23 de agosto de 2000 en el Periódico Oficial del Estado.
+
+Tercero.- Cuando la competencia de alguna de las unidades, establecidas con anterioridad a la vigencia de este Reglamento deba ser ejercida por otra u otras de las que el mismo establece, pasarán los expedientes en trámite y el archivo a la unidad o unidades en cuestión, y se distribuirán, de conformidad con el ámbito de facultades que a cada una corresponda. Respecto a los asuntos que se encuentren en trámite, competerá a la nueva unidad terminar la sustanciación y dictar la resolución que corresponda.
+
+Cuarto.- Cuando en el presente Reglamento se dé una nueva o distinta denominación a alguna unidad establecida con anterioridad a la vigencia del mismo, dicha unidad ejercerá las atribuciones de su competencia de conformidad con lo que se determine en este Reglamento.
