@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-obras-publicas-para-el-estado-y-municipios-de-nuevo-1104
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-22"
-last_updated: "1999-12-31"
+last_updated: "2010-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE OBRAS PUBLICAS PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de octubre de 1997.
 
@@ -122,6 +122,10 @@ El ejercicio de las atribuciones del Estado y los Municipios en materia de obra 
 ###### Artículo 6o.
 
 La obra pública a cargo del Estado y de los Municipios deberá realizarse con criterios de transparencia, economía, imparcialidad, eficiencia, eficacia y honradez, a fin de poder contar con las mejores opciones disponibles en cuanto a precio, calidad, financiamiento y oportunidad que aseguren las mejores condiciones para el Estado y los Municipios.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2010)</small>
+
+El Estado y en su caso los Municipios, deberán establecer las medidas indispensables para que los responsables de ejecutar las obras, garanticen que éstas, una vez entregadas, sean funcionales y seguras; aporten un beneficio general a sus usuarios, a quienes transiten por las vialidades circundantes, y a quienes residan en las zonas inmediatas; y a la vez, no ocasionen un deterioro a la infraestructura existente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1998)</small>
 
@@ -1442,3 +1446,7 @@ SEGUNDO.- Las obras ya adjudicadas o en proceso, se regirán por las disposicion
 P.O. 31 DE DICIEMBRE DE 1999.
 
 Artículo Único.- El presente Decreto entrará en vigor el 1º. de enero del año 2000.
+
+P.O. 20 DE MAYO DE 2010
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
