@@ -4,7 +4,7 @@ identifier: "COA-ley-del-servicio-estatal-de-empleo-para-el-estado-de-33859"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2009-02-10"
+last_updated: "2010-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DEL SERVICIO ESTATAL DE EMPLEO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NUMERO 252 POR EL QUE SE MODIFICA A LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 21 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 29 de agosto de 2003.
 
@@ -664,3 +666,21 @@ PRIMERO. Este decreto será vigente al día siguiente de su publicación en el P
 SEGUNDO. Hasta en tanto no se expidan los acuerdos de sectorización de los organismos públicos descentralizados que forman parte de la Administración Pública del Estado, continuarán bajo la sectorización que dispongan los instrumentos jurídicos que los hubiesen creado.
 
 TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 21 DE MAYO DE 2010
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley del Servicio Estatal del Empleo para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado No. 69 del 29 de agosto de 2003.
+
+TERCERO.- Las dependencias y entidades que actualmente ejecutan funciones que mediante el presente Decreto se otorguen a la Secretaría de Gobierno, continuarán llevando a cabo sus funciones hasta en tanto no se emitan las disposiciones reglamentarias que establezcan la transferencia de los recursos materiales, humanos y financieros necesarios para su funcionamiento.
+
+CUARTO.- El personal del Instituto Estatal del Empleo que en aplicación del presente Decreto pasen a formar parte de la Secretaría de Gobierno, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral con estas entidades.
+
+QUINTO.- Se instruye a la Secretaría de la Función Pública para que lleve a cabo los procedimientos y trámites necesarios para la extinción del Instituto Estatal del Empleo, así como para que nombre un liquidador respecto al organismo que se extingue, con las facultades suficientes para realizar los actos que se requieran para la correcta terminación de los asuntos que se encuentren en trámite.
+
+SEXTO.- El mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo del organismo que se extingue pasarán a los activos de la Secretaría de Gobierno.
+
+Los asuntos o trámites pendientes de resolución al momento de la entrada en vigor del presente Decreto, se resolverán por la dependencia ante la cual se iniciaron.
+
+SÉPTIMO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
