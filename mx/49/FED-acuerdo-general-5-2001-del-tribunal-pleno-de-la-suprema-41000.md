@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2001-del-tribunal-pleno-de-la-suprema-41000"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-06-29"
-last_updated: "2009-12-01"
+last_updated: "2010-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41000&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-06-21"
 
 ACUERDO GENERAL NUMERO 5/2001, DE VEINTIUNO DE JUNIO DE DOS MIL UNO, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA DETERMINACION DE LOS ASUNTOS QUE CONSERVARA PARA SU RESOLUCION Y EL ENVIO DE LOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MAYO DE 2010.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de junio de 2001 y en el Semanario Judicial de la Federación y su Gaceta, Tomo XIV, Julio de 2001, página 1161.
 
@@ -279,6 +279,10 @@ DÉCIMO NOVENO.- Los presidentes de los Tribunales Colegiados de Circuito a los 
 
 VIGÉSIMO.- La Subsecretaría General de Acuerdos informará mensualmente a los Ministros el resultado de la aplicación de este acuerdo. También remitirá a la Visitaduría Judicial y al secretario ejecutivo de Creación de Nuevos Órganos, dependientes del Consejo de la Judicatura Federal, para los efectos de su competencia, los datos estadísticos que los Tribunales Colegiados de Circuito envíen a este Alto Tribunal, en cumplimiento a lo establecido en el punto décimo séptimo de este acuerdo
 
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL DIECISIETE DE MAYO DE DOS MIL DIEZ, D.O.F. 21 DE MAYO DE 2010)</small>
+
+VIGÉSIMO PRIMERO.- Al resolver las Salas de este Alto Tribunal en ejercicio de competencia delegada en términos de lo dispuesto en el presente Acuerdo General, cuando existan uno o más precedentes exactamente aplicables emitidos por el Pleno, con independencia de la votación obtenida en ellos, deberán aplicar el criterio sustentado por éste, sin menoscabo de que los temas restantes puedan resolverlos con plenitud de jurisdicción.
+
 TRANSITORIOS:
 
 PRIMERO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -326,3 +330,9 @@ SEGUNDO. Se abrogan los Acuerdos Generales Plenarios números 6/1998 y 2/2002, a
 TERCERO. Los incidentes de inejecución que se encuentren archivados en la Subsecretaría General de Acuerdos o en las Secretarías de Acuerdos de las Salas en los que no haya resolución del Pleno en el sentido de que fue excusable el incumplimiento del fallo protector, dentro de los dos meses siguientes a la entrada en vigor de este Acuerdo General, se deberán someter a consideración del Pleno o de la Sala, según corresponda, o remitirse mediante dictamen del Ministro al Juzgado de Distrito del conocimiento.
 
 CUARTO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
+
+D.O.F. 21 DE MAYO DE 2010.
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 5/2001 en dichos medios electrónicos.
