@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2006-08-25"
+last_updated: "2010-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -399,9 +399,17 @@ XV. Custodiar, vigilar, proteger, conservar y mantener en buen estado los sistem
 
 XVI. Presentar en tiempo y forma las Cuentas Públicas y las solventaciones a las observaciones derivadas de su fiscalización, así como la documentación e información que establecen las leyes relacionadas con la Cuenta Pública y lo expresamente solicitado por la Dirección, los Síndicos Procuradores o la Contaduría Mayor de Hacienda del Congreso del Estado;
 
-XVII. Informar por escrito al titular de la dependencia o entidad de adscripción, cuando por motivo de salud se encuentre bajo tratamiento autorizado por una institución pública; y,
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2010)</small>
 
-XVIII. Las demás que establezcan las leyes, reglamentos y disposiciones administrativas.
+XVII. Facilitar la información, documentación y/o expedir copias certificadas a quienes siendo o habiendo sido servidores públicos hayan sido requeridos por la Comisión de Fiscalización del Gasto Público del Congreso del Estado y/o el Órgano de Fiscalización Superior para esclarecer las observaciones derivadas de la fiscalización de las Cuentas Públicas en las cuales se encuentren relacionados;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2010)</small>
+
+XVIII. Informar por escrito al titular de la dependencia o entidad de adscripción, cuando por motivo de salud deba someterse al tratamiento médico que implique el consumo de algún tipo de sustancia psicotrópica, enervante, depresiva, estupefaciente o similar; y
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2010)</small>
+
+XIX. Las demás que establezcan las leyes, reglamentos y disposiciones administrativas.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE AGOSTO DE 2006)</small>
 
@@ -938,3 +946,7 @@ P.O. 26 DE MAYO DE 2006.
 P.O. 25 DE AGOSTO DE 2006.
 
 ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE MAYO DE 2010.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
