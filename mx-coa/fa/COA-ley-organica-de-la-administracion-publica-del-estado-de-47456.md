@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-47456"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-12-07"
-last_updated: "2010-04-23"
+last_updated: "2010-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2010.
 
 Ley publicada en Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 7 de diciembre de 2005.
 
@@ -517,13 +517,13 @@ XLV. Coadyuvar con las autoridades federales, estatales de otras entidades de la
 
 XLVI. Ser la Consejería Jurídica y Representante Legal del Ejecutivo del Estado, siempre que las leyes y disposiciones aplicables no determinen dichas atribuciones en otro funcionario;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2010)</small>
 
-XLVII. (DEROGADA, P.O. 19 DE JUNIO DE 2009)
+XLVII. Promover el empleo, mediante la capacitación para el trabajo y la vinculación con el sector productivo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2010)</small>
 
-XLVIII. (DEROGADA, P.O. 19 DE JUNIO DE 2009)
+XLVIII. Organizar, y en su caso crear, el sistema de capacitación para el trabajo;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -727,7 +727,7 @@ XIII. Ampliar la regularización de la tenencia de la tierra;
 
 XIV. Atender y apoyar a las instituciones de beneficencia públicas y privadas; y
 
-XV. Promover el empleo, mediante la capacitación para el trabajo y la vinculación con el sector productivo.
+XV. (DEROGADA, P.O. 21 DE MAYO DE 2010)
 
 ###### ARTÍCULO 29.
 
@@ -791,7 +791,9 @@ VI. Regular la expedición y revalidación de certificados, diplomas, títulos y
 
 VII. Crear, por acuerdo del Ejecutivo, las escuelas públicas del Estado de cualquier nivel y modalidad, y en su caso, las carreras que en ellas se impartan;
 
-VIII. Organizar, y en su caso crear, los sistemas de enseñanza técnica, industrial, agrícola, para adultos, los de productividad y capacitación para el trabajo así como sistemas de enseñanza especial de integración para niños, adolescentes y jóvenes que lo requieran para su incorporación a la vida productiva;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2010)</small>
+
+VIII. Organizar, y en su caso crear, los sistemas de enseñanza técnica, industrial, agrícola, para adultos y los de productividad, así como sistemas de enseñanza especial de integración para niños, adolescentes y jóvenes que lo requieran para su incorporación a la vida productiva;
 
 IX. Coordinar con los centros de enseñanza superior los requerimientos de servicio social de pasantes, así como la orientación vocacional de los jóvenes estudiantes;
 
@@ -1674,3 +1676,21 @@ P.O. 23 DE ABRIL DE 2010.
 PRIMERO. La presente Ley deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en vigor a partir de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MAYO DE 2010
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley del Servicio Estatal del Empleo para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado No. 69 del 29 de agosto de 2003.
+
+TERCERO.- Las dependencias y entidades que actualmente ejecutan funciones que mediante el presente Decreto se otorguen a la Secretaría de Gobierno, continuarán llevando a cabo sus funciones hasta en tanto no se emitan las disposiciones reglamentarias que establezcan la transferencia de los recursos materiales, humanos y financieros necesarios para su funcionamiento.
+
+CUARTO.- El personal del Instituto Estatal del Empleo que en aplicación del presente Decreto pasen a formar parte de la Secretaría de Gobierno, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral con estas entidades.
+
+QUINTO.- Se instruye a la Secretaría de la Función Pública para que lleve a cabo los procedimientos y trámites necesarios para la extinción del Instituto Estatal del Empleo, así como para que nombre un liquidador respecto al organismo que se extingue, con las facultades suficientes para realizar los actos que se requieran para la correcta terminación de los asuntos que se encuentren en trámite.
+
+SEXTO.- El mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo del organismo que se extingue pasarán a los activos de la Secretaría de Gobierno.
+
+Los asuntos o trámites pendientes de resolución al momento de la entrada en vigor del presente Decreto, se resolverán por la dependencia ante la cual se iniciaron.
+
+SÉPTIMO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
