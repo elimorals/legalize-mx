@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-del-r-ayuntamiento-del-municipio-de-17054"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-17"
-last_updated: "2009-04-17"
+last_updated: "2010-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17054&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE SALTILLO DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 25 de julio de 2000.
 
@@ -235,9 +235,9 @@ VII. Rescate de Valores Humanos;
 
 VIII. Educación;
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2010)</small>
 
-IX. Personas con Capacidades Diferentes y Adultos Mayores.
+IX. Derechos Humanos, Equidad y Género.
 
 X. Alcoholes;
 
@@ -271,9 +271,7 @@ XXI. Cultura y Rescate de Valores Humanos.
 
 XXII. Conurbación.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE ABRIL DE 2009)</small>
-
-XXIII. Equidad de Género y Derechos Humanos.
+XXIII. (DEROGADA, P.O. 21 DE MAYO DE 2010)
 
 XXIV. Atención a la Juventud;
 
@@ -710,3 +708,9 @@ PRIMERO: Las reformas al Reglamento Interior del R. Ayuntamiento del Municipio d
 SEGUNDO: Quedan derogadas las disposiciones que se opongan al presente reglamento.
 
 TERCERO: La autoridad municipal instrumentará los mecanismos legales a fin de estructurar de manera administrativa a la Dirección de Servicios Concesionados.
+
+P.O. 21 DE MAYO DE 2010.
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en la Gaceta Municipal, independientemente de que se haga lo propio en el Periódico Oficial del Estado.
+
+SEGUNDO. Túrnese a la Secretaría del Ayuntamiento para los efectos legales a los que haya lugar.
