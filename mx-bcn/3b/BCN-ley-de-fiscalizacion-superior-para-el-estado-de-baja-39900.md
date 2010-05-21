@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-superior-para-el-estado-de-baja-39900"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-21"
-last_updated: "2010-03-26"
+last_updated: "2010-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 21 de mayo de 2004.
 
@@ -909,77 +909,95 @@ La relación jurídica de trabajo se entiende establecida entre el Órgano y los
 
 El Auditor Superior de Fiscalización del Estado, los Directores y los demás servidores públicos del Órgano en el desempeño de sus funciones, se sujetarán a la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California y a las demás disposiciones legales aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE MARZO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE MAYO DE 2010)</small>
 
-### CAPÍTULO NOVENO. DEL RECURSO DE RECONSIDERACIÓN
+### CAPÍTULO NOVENO. DE LA SOLVENTACIÓN COMPLEMENTARIA
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 94.
 
-En contra del Informe de Resultado, que el Órgano presente ante la Comisión, los Servidores Públicos o cualquier persona que en su momento hubiere desempeñado un empleo, comisión o cargo público, que tengan o hayan tenido, manejo de la cuenta pública correspondiente, podrán hacer uso de la reconsideración, de conformidad con los siguientes artículos.
+Se considera solventación complementaria la presentación ante la Comisión de aclaraciones, documentación e información para efectos de esclarecer los hechos u omisiones de las observaciones y/o salvedades previstas en el Informe de Resultado presentado por el Órgano de Fiscalización Superior.
 
-La reconsideración sólo procederá, cuando del Informe de Resultado se desprendan algunos de los supuestos previstos en el artículo 17 de esta Ley.
+La solventación complementaria sólo procederá, tratándose de observaciones y/o salvedades en las que se presuma la existencia de un posible daño patrimonial y/o generen la improcedencia de la aprobación de la Cuenta Pública del ejercicio fiscal de que se trate.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 95.
 
-Una vez que la Comisión reciba el Informe de Resultado, y sólo si de éste se desprende algunos (sic) de los supuestos a que se refiere el segundo párrafo del artículo anterior se deberá notificar mediante oficio, a los Servidores Públicos o a cualquier persona que en su momento hubiere desempeñado un empleo, comisión o cargo público, que tengan o hayan tenido manejo de la cuenta pública.
+Podrán presentar la solventación complementaria a que se refiere el Artículo anterior, quienes estén relacionados con las observaciones y/o salvedades señaladas en el Informe de Resultado del ejercicio fiscal de que se trate presentado a la Comisión por el Órgano de Fiscalización, siempre y cuando al momento de la revisión del Informe de Resultado por parte de la Comisión, ya no presten sus servicios en la Entidad de que se trate:
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2010)</small>
+I.- Por el Congreso del Estado, los Diputados y los responsables directos del manejo de la cuenta pública;
+
+II.- Por el Poder Judicial, los Magistrados, Consejeros de la Judicatura, y responsables del manejo de la Cuenta Pública;
+
+III.- Por el Poder Ejecutivo, el Titular, el Secretario de Planeación y Finanzas, el Oficial Mayor de Gobierno y los Titulares de las Entidades Paraestatales;
+
+IV.- Por los Ayuntamientos, los integrantes de los Cabildos Municipales, el Secretario de Planeación y Finanzas, el Tesorero Municipal y el Oficial Mayor, así como los Titulares de las Entidades Paramunicipales; y
+
+V.- Por los Organismos Públicos Autónomos, sus Titulares.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 96.
 
-La reconsideración se presentará por escrito, ante la Comisión, dentro del plazo de quince días hábiles, contados a partir de la fecha en que se le haya notificado el acto.
+Si del análisis que la Comisión realice al Informe de Resultado mencionado en el Artículo 94, se desprenden observaciones y/o salvedades de las que se derive la improcedencia de la aprobación de la cuenta pública, o se presuma la existencia de un posible daño patrimonial, la Comisión determinará quiénes de los señalados en el Artículo anterior se encuentran relacionados con las mismas, y deberá informarles mediante oficio a fin de que realicen la solventación complementaria correspondiente.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2010)</small>
+La comunicación que sobre las observaciones y/o salvedades del Informe de Resultado de que se trate realice la Comisión se llevará a cabo en el domicilio que haya quedado establecido en el acta de entrega y recepción, o bien en la declaración de situación patrimonial por conclusión en el Órgano de Control correspondiente, mismo que deberá proporcionar a petición de la Comisión.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 97.
 
-El escrito de recurso contendrá:
+En su caso, los servidores públicos que se señalan en el Artículo 95 y que se encuentran en el supuesto a que se refiere el presente Capítulo, podrán solicitar por escrito a los Titulares en funciones de la Entidad de que se trate, copias certificadas de la documentación y/o la información que requieran para el esclarecimiento de las observaciones y/o salvedades ante la Comisión.
 
-I. Nombre y domicilio del recurrente, en su caso, la persona o personas que éste autorice para recibir notificaciones;
+Asimismo, los Titulares de las Entidades Fiscalizables deberán expedir las copias certificadas correspondientes que les sean solicitadas, en un término de cinco días hábiles contados a partir del día siguiente a la fecha de la solicitud correspondiente.
 
-II. Descripción del acto impugnado y fecha en que se tuvo conocimiento del mismo;
+Los servidores públicos que incumplan con lo previsto en el párrafo anterior, se harán acreedores a las responsabilidades señaladas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
-III. Razones o motivos de la inconformidad;
-
-IV. Las pruebas que en su caso se ofrezcan, mismas que deberán estar relacionadas directamente con las razones o motivos de la inconformidad; y
-
-V. Firma del recurrente, requisito sin el cual, no se dará trámite a la reconsideración.
-
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 98.
 
-Una vez que la Comisión recibida (sic) el Recurso de Reconsideración, deberá turnarlo al Órgano en un plazo no mayor a tres días hábiles, para que éste lo resuelva en un plazo no mayor a treinta días hábiles.
+La solventación complementaria se presentará por escrito, ante la Comisión, dentro de un plazo improrrogable de 15 días hábiles, contados a partir de la fecha en que se le haya comunicado el acto. La no presentación de la solventación complementaria en el plazo señalado, se considerará como renuncia al derecho de la misma.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 99.
 
-Procederá el desechamiento de la reconsideración, cuando:
+La solventación complementaria contendrá:
 
-I.- No reúna el requisito precisado en el segundo párrafo del artículo 94 de esta Ley;
+l.- Nombre y domicilio del que solventa;
 
-II.- No reúna alguno de los requisitos precisados en el artículo 97 de esta Ley, o
+II.- Fecha en que tuvo conocimiento de la observación y/o salvedad del Informe de Resultado correspondiente, así como la descripción de la misma;
 
-III.- Se presente de manera extemporánea.
+III.- La documentación que en su caso se presente, la cual deberá estar relacionada directamente con la observación y/o salvedad de que se trate, misma que debe ser distinta a la presentada durante el proceso de revisión que dio origen al Informe de Resultado correspondiente; y
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2010)</small>
+IV.- Firma del que solventa, requisito sin el cual, no se dará trámite a la solventación complementaria.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 100.
 
-La resolución que recaiga a la reconsideración, tendrá como efecto la confirmación o modificación del Informe de Resultado.
+Una vez que la Comisión reciba la solventación complementaria, verificará su procedencia en los términos del presente Capítulo, analizará los elementos aportados y resolverá lo conducente.
 
-Las resoluciones que se dicten, deberán enviarse a la Comisión para continuación del trámite correspondiente.
-
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 101.
 
-Las resoluciones que se dicten con motivo de la reconsideración no admitirán medio de defensa alguno.
+No procederá la solventación complementaria presentada, cuando:
+
+l.- No reúna el requisito precisado en el Segundo Párrafo del Artículo 94 de esta Ley;
+
+II.- No reúna alguno de los requisitos precisados en el Artículo 99 de esta Ley, o,
+
+III.- Se presente de manera extemporánea.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2010)</small>
+
+###### ARTÍCULO 102.
+
+El resultado del análisis de la solventación complementaria no admitirá medio de defensa alguno, y deberá incorporarse en los Considerandos del Dictamen de la Cuenta Pública de la Entidad Fiscalizada.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1052,3 +1070,7 @@ CUARTO.- La reforma al artículo 84 de la Ley de Fiscalización Superior para el
 P.O. 26 DE MARZO DE 2010.
 
 ÚNICO.- La presente adición entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE MAYO DE 2010.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California. Las disposiciones normativas contenidas en esta reforma, serán aplicables a los Informes de Resultado presentados a la Comisión por el Órgano a partir de la entrada en vigor del presente Decreto.
