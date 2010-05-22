@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2010-05-15"
+last_updated: "2010-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -65,7 +65,9 @@ El Congreso del Estado se conforma con el número de diputados de mayoría relat
 
 El Congreso del Estado reside en la Ciudad de San Luis Potosí, Capital del Estado, y debe tener su propio recinto.
 
-El Congreso podrá sesionar en la Capital del Estado en otro recinto distinto del habitual, cuando así lo requiera la celebración de sesiones solemnes o cuando se den circunstancias extraordinarias; para lo cual, el lugar seleccionado será declarado recinto oficial, por el voto de cuando menos las dos terceras partes de sus integrantes.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
+
+El Congreso podrá sesionar en la Capital del Estado en otro recinto distinto del habitual, cuando así lo requiera la celebración de sesiones solemnes o cuando se den circunstancias extraordinarias; o bien, en otra ciudad de la Entidad, cuando así lo acuerde el pleno del Congreso del Estado, para lo cual, el lugar seleccionado deberá ser declarado recinto oficial, por el voto de cuando menos las dos terceras partes de sus integrantes.
 
 ###### ARTICULO 6°.
 
@@ -1265,7 +1267,7 @@ III. Los relativos a nombramientos o ratificación de los titulares o integrante
 
 IV. Los referentes a la calificación de las excusas que expongan el gobernador, diputados y miembros de los ayuntamientos para no desempeñar sus cargos;
 
-V. Los tocantes a la concesión de licencias temporales al Gobernador del Estado para separarse de su encargo, y para ausentarse de la Entidad por más de quince días;
+V. Los tocantes a la concesión de licencias temporales al gobernador del Estado para separarse de su encargo, y para ausentarse de la Entidad por más de quince días;
 
 VI. Los relativos a la calificación de las renuncias de los magistrados del Poder Judicial, y de los tribunales autónomos;
 
@@ -1842,5 +1844,11 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 P.O. 15 DE MAYO DE 2010.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 22 DE MAYO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
