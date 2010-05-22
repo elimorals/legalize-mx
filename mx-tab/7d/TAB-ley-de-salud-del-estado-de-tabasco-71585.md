@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-71585"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-12"
-last_updated: "2009-12-12"
+last_updated: "2010-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2010.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de diciembre de 2009.
 
@@ -69,9 +69,23 @@ IV. La extensión de actitudes solidarias y responsables de la población en la 
 
 V. El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
 
-VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
+
+VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
+
+VII. El tratamiento integral del dolor, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
+
+VIII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
 
 ###### ARTÍCULO 3.
 
@@ -449,7 +463,11 @@ I. La educación para la salud, la promoción del saneamiento básico y el mejor
 
 II. La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-III. La atención médica, que comprende actividades preventivas curativas y de rehabilitación, incluyendo la atención de urgencias;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
+
+III. La atención médica, que comprende actividades preventivas curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias;
 
 IV. La atención materno-infantil;
 
@@ -671,9 +689,13 @@ IX. Otras actividades que coadyuven a la protección de la salud.
 
 Las acciones a que se refiere el presente artículo serán estrictamente voluntarias y no genera derecho laboral a quienes la presten.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 54.
 
-La Secretaría de Salud del Estado y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual y colectiva, así como en los de prevención de enfermedades y accidentes, de prevención de discapacidad y de rehabilitación de personas con discapacidad.
+La Secretaría de Salud del Estado y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual y colectiva, así como en los de prevención de enfermedades y accidentes, de prevención de invalidez y de rehabilitación de personas con discapacidad, y de cuidados paliativos.
 
 ###### ARTÍCULO 55.
 
@@ -1297,7 +1319,11 @@ I. Fomentar en la población el desarrollo de actitudes, capacidades y conductas
 
 II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-III. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud visual, salud auditiva, salud bucal, educación sexual, planificación familiar, riesgo de automedicación, prevención de farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades, especialmente la hipertensión, diabetes, dislipidemias, y padecimientos oncológicos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
+
+III. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud visual, salud auditiva, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgo de automedicación, prevención de farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades, especialmente la hipertensión, diabetes, dislipidemias, y padecimientos oncológicos.
 
 Tratándose de las comunidades indígenas, los programas a los que se refiere el párrafo anterior, deberán difundirse en español y la lengua o lenguas indígenas que correspondan.
 
@@ -1701,7 +1727,7 @@ La Secretaría de Salud para la prestación de servicios de atención y rehabili
 
 El Gobierno del Estado y los municipios promoverán la creación de establecimientos en los que se dé la atención a personas con discapacidad, para lo cual la Secretaría de Salud podrá autorizar la constitución de instituciones privadas cuyo objeto sea la prestación de servicios asistenciales de rehabilitación de personas con discapacidad.
 
-## TÍTULO UNDÉCIMO. DE LA ATENCION DE LA REHABILITACION
+## TÍTULO UNDÉCIMO. DE LA ATENCION DE LA REHABILlTACION
 
 ### CAPÍTULO ÚNICO
 
@@ -1941,7 +1967,9 @@ La Secretaría de Salud en coordinación con las autoridades en materia de Segur
 
 La Secretaría de Salud, en coordinación con la Secretaría de Salud federal, promoverá el establecimiento y operación de centros certificados para la rehabilitación de farmacodependientes.
 
-## TÍTULO DÉCIMO CUARTO. DONACION, TRANSPLANTES (SIC), PÉRDIDA DE VIDA Y SUSPENSION DE TRATAMIENTOS A PACIENTES TERMINALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MAYO DE 2010)</small>
+
+## TÍTULO DÉCIMO CUARTO. DONACION, TRANSPLANTES (SIC), PÉRDIDA DE VIDA, SUSPENSION DE TRATAMIENTO Y CUIDADOS PALIATIVOS A PACIENTES TERMINAL (SIC)
 
 ### CAPÍTULO III. DE LA PÉRDIDA DE VIDA
 
@@ -1961,9 +1989,83 @@ V. Órgano, a la entidad morfológica compuesta por la agrupación de tejidos di
 
 VI. Receptor, a la persona que recibe para su uso terapéutico un órgano, tejido, células o productos;
 
-VII. Tejido, a la entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñen una misma función; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII. Trasplante, a la transferencia de un órgano, tejido o células de una parte del cuerpo a otra, o de un individuo a otro y que se integren al organismo.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
+
+VII. Tejido, a la entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñen una misma función;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
+
+VIII. Trasplante, a la transferencia de un órgano, tejido o células de una parte del cuerpo a otra, o de un individuo a otro y que se integren al organismo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
+
+IX. Agonía. Estado que precede a la muerte, en aquellas situaciones en que la vida se extingue gradualmente;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
+
+X. Cuidados Básicos. La higiene, alimentación e hidratación, y en su caso el manejo de la vía aérea permeable;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
+
+XI. Cuidados Paliativos. Es el cuidado activo y total de aquellas enfermedades en estado terminal. El control del dolor y de otros síntomas, así como la atención de aspectos psicológicos, sociales y espirituales del paciente y sus familiares;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
+
+XII. Enfermedad en estado terminal. A todo padecimiento reconocido, irreversible, progresivo e incurable a partir del diagnóstico de enfermedad en estado terminal y hasta el deceso;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
+
+XIII. Enfermo en situación terminal. Es la persona que tiene una enfermedad incurable e irreversible, a partir de su diagnóstico y hasta su deceso;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
+
+XIV. Medidas extraordinarias. Todas aquellas medidas proporcionadas por profesionales de la salud orientada a reducir los sufrimientos físicos y emocionales derivadas de la carga demasiado grave para el enfermo y cuyo perjuicio es mayor que los beneficios; en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
+
+XV. Medidas ordinarias. Son los procedimientos médicos que son útiles para conservar o mejorar la calidad de vida del enfermo en situación terminal y que no constituyen para él una carga grave o desproporcionada a los beneficios que se puedan obtener;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
+
+XVI. Muerte natural de un paciente terminal. El proceso de fallecimiento natural de un enfermo en situación terminal, contando con asistencia física, psicológica y en su caso, espiritual;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
+
+XVII. Obstinación terapéutica. La adopción de medidas desproporcionadas o inútiles con el objeto de alargar la vida en situación de agonía;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
+
+XVIII. Suspensión voluntaria del tratamiento. Se considera la decisión tomada por el paciente, basada en tres criterios: a) El pleno uso de sus facultades mentales; b) La información suficiente y oportuna de su diagnóstico, y c) La información oportuna y suficiente de su plan de tratamiento y pronóstico, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
+
+XIX. Tratamiento del dolor. Todas aquellas medidas proporcionadas por profesionales de la salud, orientadas a reducir los sufrimientos físicos y emocionales derivados de una enfermedad terminal, y destinadas a mejorar la calidad de vida del paciente y su familia.
 
 ###### ARTÍCULO 240.
 
@@ -1981,7 +2083,11 @@ Está prohibido el comercio de órganos y tejidos de seres humanos. La donación
 
 La cultura de donación de órganos y tejidos es de interés público. El gobierno implementará en todo el territorio estatal, programas permanentes destinados a fomentar la donación de órganos y tejidos.
 
-### CAPÍTULO IV. SUSPENSIÓN DE TRATAMIENTOS MEDICOS EN ENFERMOS TERMINALES
+### CAPÍTULO IV. DE LOS CUIDADOS PALIATIVOS Y SUSPENSIÓN DE TRATAMIENTOS A LOS ENFERMOS EN SITUACION TERMINAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 244.
 
@@ -2085,93 +2191,261 @@ III. Apnea después de elevar la pco2 por arriba de 60 mmhg.
 
 No existirá impedimento alguno para que a solicitud o autorización de las siguientes personas: el o la cónyuge, el concubinario, la concubina, los descendientes, los hermanos, el adoptado o el adoptante; conforme al orden expresado; se prescinda de los medios artificiales que evitan que en aquel que presenta muerte cerebral comprobada se manifiesten los demás signos de muerte a que se refiere la fracción II del artículo 251 de esta Ley.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MAYO DE 2010)</small>
+
 ### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 254.
 
-En todo enfermo terminal, que tenga un padecimiento mortal o que por caso fortuito o causas de fuerza mayor tiene una esperanza de vida menor a seis meses, y se encuentra imposibilitado para mantener su vida de manera natural, con base en las siguientes circunstancias:
+El presente capítulo tiene por objeto:
 
-I. Presenta diagnóstico de enfermedad avanzada, irreversible, incurable y progresiva.
+I. Salvaguardar la dignidad de los enfermos en situación terminal, para garantizar una vida de calidad a través de los cuidados y atenciones médicas, necesarios para ello;
 
-II. Imposibilidad de respuesta a tratamiento especifico; y/o. (sic)
+II. Garantizar una muerte natural en condiciones dignas a los enfermos en situación terminal;
 
-III. Presencia de numerosos problemas y síntomas, secundarios o subsecuentes; podrá decidir, siempre y cuando se encuentre con capacidad de ejercicio y en pleno uso de sus facultades mentales, a petición libre, consciente, seria, inequívoca y reiterada de no someterse a medios, tratamientos y/o procedimientos médicos obstinados, desproporcionados o inútiles.
+III. Establecer y garantizar los derechos del enfermo en situación terminal en relación con su tratamiento;
+
+IV. Dar a conocer los límites entre el tratamiento curativo y el paliativo;
+
+V. Determinar los medios ordinarios y extraordinarios en los tratamientos;
+
+VI. Establecer los límites entre la defensa de la vida del enfermo en situación terminal y la obstinación terapéutica, y
+
+VII. Establecer la corresponsabilidad de los cuidados paliativos a los enfermos en estado terminal, al enfermo, sus familiares y las instituciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 255.
 
-En los casos señalados en el artículo anterior, el personal de salud estará obligado a no menoscabar la dignidad del enfermo en etapa terminal, otorgando los cuidados paliativos, las medidas mínimas ordinarias y tanatológicas, y en su caso la sedación controlada.
+Corresponde al Sistema Estatal de Salud garantizar el pleno, libre e informado ejercicio de los derechos que señalan para los enfermos en situación terminal, esta Ley y demás ordenamientos aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 256.
 
-La solicitud de suspensión de tratamientos médicos en enfermos terminales deberá reunir los siguientes requisitos:
+Los pacientes enfermos en situación terminal tienen los siguientes derechos:
 
-I. Suscribirse por el solicitante, estampando su nombre y firma en el mismo;
+I. Recibir atención médica integral;
 
-II. El nombramiento de un representante para corroborar la realización de la suspensión de tratamientos médicos obstinados en los términos y circunstancias determinadas en él; y
+II. Ingresar a las instituciones de salud cuando requiera atención médica;
 
-III. La manifestación respecto a la posible disposición de órganos susceptibles de ser donados.
+III. Dejar voluntariamente la institución de salud en que esté hospitalizado, cumpliendo los requisitos establecidos en el Reglamento que al efecto se expida y demás disposiciones aplicables;
+
+IV. Recibir un trato digno, respetuoso y profesional procurando preservar su calidad de vida;
+
+V. Recibir información clara, oportuna y suficiente sobre las condiciones y efectos de su enfermedad y los tipos de tratamientos por los cuales puede optar según la enfermedad que padezca;
+
+VI. Dar su consentimiento informado por escrito para la aplicación o no de tratamientos, medicamentos y cuidados paliativos adecuados a su enfermedad, necesidades y calidad de vida;
+
+VII. Solicitar al médico que aplique el tratamiento del dolor;
+
+VIII. Renunciar, abandonar o negarse en cualquier momento a recibir o continuar el tratamiento que considere;
+
+IX. Optar por recibir los cuidados paliativos en un domicilio particular;
+
+X. Designar, en pleno uso de sus facultades mentales, a algún familiar, representante legal o a una persona de su confianza, para el caso de que, con el avance de la enfermedad, esté impedido a expresar su voluntad y aquéllos lo puedan hacer en su representación;
+
+XI. A recibir los servicios espirituales, cuando lo solicite él, su familia, representante legal o persona de su confianza;
+
+XII. El paciente en situación terminal y en pleno uso de sus facultades mentales o a través de su representante legal tiene derecho a la suspensión del tratamiento.
+
+XIII. El paciente en situación terminal tiene derecho al inicio del tratamiento paliativo, y
+
+XIV. Los demás que las leyes señalen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 257.
 
-El enfermo terminal, suscribirá el documento ante el personal de salud correspondiente y dos testigos en los términos del formato que para los efectos legales y conducentes emita la Secretaría, mismo que deberá ser notificado a las autoridades competentes.
+(DEROGADO, P.O. 22 DE MAYO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 258.
 
-Una vez suscrito el documento o el formato en los términos de los artículos anteriores, deberá hacerlo del conocimiento del personal de salud correspondiente para integrarlo, en su momento, al expediente clínico del enfermo terminal.
+La suspensión voluntaria del tratamiento es la cancelación de todo medicamento que busque contrarrestar la enfermedad terminal del paciente y el inicio de tratamientos enfocados de manera exclusiva a la disminución del dolor o malestar del paciente.
+
+En este caso, el médico especialista en el padecimiento del paciente terminal interrumpe, suspende o no inicia el tratamiento, la administración de medicamentos, el uso de instrumentos o cualquier procedimiento que contribuya a la prolongación de la vida del paciente en situación terminal dejando que su padecimiento evolucione naturalmente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 259.
 
-No podrán ser testigos ni representantes para la realización de suspensión de tratamientos en enfermos terminales:
+El paciente en situación terminal que esté recibiendo los cuidados paliativos, podrá solicitar recibir nuevamente el tratamiento, ratificando su decisión por escrito ante el personal médico correspondiente.
 
-l. Los menores de edad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Los que habitual o accidentalmente no disfrutan de su cabal juicio;
-
-III. Los familiares del enfermo terminal hasta el cuarto grado;
-
-IV. Los que no entiendan el idioma que habla el enfermo en etapa terminal, salvo que se encuentre un intérprete presente; y
-
-V. Los que hayan sido condenados por el delito de falsedad.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 260.
 
-Para efectos del cumplimiento de las disposiciones establecidas en el Documento o Formato de suspensión de tratamiento médico ineficaz en enfermos terminales, el signatario o en su caso su representante, deberá solicitar al personal de salud correspondiente de las unidades médicas hospitalarias, se efectúen las disposiciones establecidas en dicho documento. Para tal efecto se tomará en cuenta el dictamen del comité hospitalario de bioética Médica.
+Los cuidados paliativos se proporcionarán desde el momento en que se diagnostica el estado terminal de la enfermedad, por eI médico especialista.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 261.
 
-No podrá implementarse el manejo de paciente terminal si este no es avalado por el Comité, en unidades que no cuenten con el mismo.
+Toda persona mayor de edad, en pleno uso de sus facultades mentales, puede en cualquier momento e independientemente de su estado de salud, expresar su voluntad por escrito ante un notario público, con dos testigos y un representante personal, de recibir o no cualquier tratamiento, para que en el caso de que llegase a padecer una enfermedad y estar en situación terminal y no le sea posible manifestar dicha voluntad, ésta haya sido expresada con anterioridad. Dicho documento podrá ser revocado en cualquier momento por el paciente, en pleno uso de sus facultades.
+
+Para los efectos del párrafo anterior:
+
+I. No podrán ser testigos: los menores de 18 años de edad; los que habitual o accidentalmente no disfrutan de su cabal juicio; los familiares hasta el cuarto grado; los que no entiendan el idioma que habla el enfermo en etapa terminal, salvo que se encuentre un intérprete presente; ni los que hayan sido condenados por delitos contra la fe pública y la veracidad, y
+
+II. No podrán ser representantes legales: los menores de 18 años de edad; los que habitual o accidentalmente no gozan de su cabal juicio; los familiares hasta el cuarto grado; los que no entiendan el idioma que habla el enfermo en etapa terminal, salvo que se encuentre un intérprete presente; ni los que hayan sido condenados por delitos contra la fe pública y la veracidad.
+
+El cargo de representante es voluntario y gratuito, pero el que lo acepte se constituye en la obligación de desempeñarlo.
+
+El representante que presente excusas, deberá hacerlo al momento en que tenga noticia de su designación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 262.
 
-Para efectos del artículo anterior, se entenderá como Comité Hospitalario de bioética Médica, al grupo médico interdisciplinario autorizado por la Secretaría de Salud, que se ocupa entre otras cosas de verificar, avalar y hacer recomendaciones sobre diagnósticos del enfermo terminal y la aplicación de la procedencia de la suspensión de tratamientos médicos en enfermos terminales además de las recomendaciones del manejo médico multidisciplinario del enfermo terminal, incluidos los cuidados paliativos.
+Son obligaciones del representante:
+
+I. La revisión y confirmación de las disposiciones establecidas por el signatario en el documento otorgado ante notario, donde expresa su voluntad anticipada;
+
+II. La verificación del cumplimiento exacto e inequívoco de las disposiciones establecidas en el mismo;
+
+III. La verificación, cuando tenga conocimiento por escrito, de la integración de los cambios y/o modificaciones que le realice el signatario;
+
+IV. La defensa del documento de voluntad anticipada, en juicio y fuera de él, así como de las circunstancias del cumplimiento de la voluntad del signatario, y de la validez del mismo, y
+
+V. Las demás que le imponga la ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 263.
 
-Al momento en que el personal de salud correspondiente, de inicio al cumplimiento de las disposiciones y términos contenidos en el documento o formato de suspensión de tratamiento médicos ineficaces, deberá asentar en el historial clínico del enfermo terminal, toda la información que haga constar dicha circunstancia hasta su terminación en los términos de las disposiciones de salud correspondiente.
+Si el enfermo en situación terminal es menor de edad, o se encuentra incapacitado para expresar su voluntad, las decisiones derivadas de los derechos señalados en este capítulo, serán asumidos por los padres o el tutor y a falta de éstos por su representante legal o persona de su confianza mayor de edad, de conformidad con las disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 264.
 
-Para los efectos del artículo anterior se incluirá los cuidados paliativos, las medidas mínimas ordinarias, la sedación controlada y el tratamiento tanatológico que el personal de salud correspondiente determine.
+Los familiares del enfermo en situación terminal tienen la obligación de respetar la decisión que de manera voluntaria tome éste, de conformidad con lo establecido en este capítulo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 265.
 
-El personal de salud a cargo de cumplimentar las disposiciones establecidas en el documento o formato de suspensión de tratamiento médico ineficaz en enfermos terminales, y las disposiciones de la presente Ley, cuyas creencias religiosas o convicciones personales sea contraria a tales disposiciones, podrán ser objetores de conciencia y por tal razón excusarse de intervenir en su realización.
+En casos de urgencia médica, y que exista incapacidad del enfermo en situación terminal para expresar su consentimiento, y en ausencia de familiares, representante legal, tutor o persona de confianza, la decisión de aplicar un procedimiento médico quirúrgico o tratamiento necesario, será tomada por el médico especialista, en su caso, o por el Comité de Bioética de la institución, en los términos previstos por el Reglamento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 266.
 
-Será obligación de la Secretaría de Salud, garantizar y vigilar en las instituciones de salud, la oportuna prestación de los servicios y la permanente disponibilidad de personal de salud no objetor, a fin de verificar el cumplimiento de la suspensión de tratamiento médico del enfermo terminal.
+Todos los documentos y disposiciones a que se refiere este capítulo, se regirán de acuerdo a lo que se establezca en esta Ley, el Reglamento y demás ordenamientos aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 267.
 
-La Secretaría de Salud, en el ámbito de sus atribuciones y posibilidades financieras, ofrecerá atención médica domiciliaria a enfermos en etapa terminal, de conformidad con los lineamientos que para tal efecto se disponga en la presente Ley. Asimismo, emitirá los lineamientos correspondientes para la aplicación de la suspensión de tratamiento médico en enfermos terminales en las instituciones privadas de salud.
+Las instituciones del Sistema Estatal de Salud:
+
+I. Ofrecerán el servicio para la atención debida a los enfermos en situación terminal;
+
+II. Proporcionarán los servicios de orientación, asesoría y seguimiento al enfermo en situación terminal, a sus familiares o persona de confianza en el caso de que los cuidados paliativos se realicen en el domicilio particular;
+
+III. De igual manera, en el caso de que los cuidados paliativos se realicen en el domicilio particular, la Secretaría pondrá en operación una línea telefónica de acceso gratuito para que se le oriente, asesore y dé seguimiento al enfermo en situación terminal o a sus familiares o persona de su confianza;
+
+IV. Proporcionarán los cuidados paliativos correspondientes al tipo y grado de enfermedad, desde el momento del diagnóstico de la enfermedad terminal hasta el último momento;
+
+V. Fomentarán la creación de áreas especializadas regionales que presten atención a los enfermos en situación terminal;
+
+VI. Garantizarán la capacitación y actualización permanente de los recursos humanos para la salud, en materia de cuidados paliativos y atención a enfermos en situación terminal y a sus familiares;
+
+Sólo podrán ser capacitadores de cuidados paliativos aquellas unidades que estén certificadas en la materia.
+
+VII. Celebrarán convenios con instituciones de salud y de educación, respectivamente, en materia federal para llevar a cabo la capacitación a que se refiere la fracción anterior;
+
+VIII. Procurarán la existencia de equipo, insumos médicos y medicamentos, principalmente opioides (principalmente morfina), que faciliten el tratamiento del dolor en pacientes en situación terminal, en el 100% de las Unidades Certificadas y en al menos en una farmacia de la iniciativa privada por municipio, y
+
+IX. Fomentar la creación de unidades ambulatorias de cuidados paliativos, que faciliten la atención de pacientes en situación terminal.
+
+Dichas unidades ambulatorias contarán con equipo multidisciplinario integrado por un médico general, una enfermera, un psicólogo, una trabajadora social y un chofer, y con los insumos médicos y los medicamentos necesarios para realizar su labor; (sic)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 268.
 
-El personal de salud en ningún momento, y bajo ninguna circunstancia podrá suministrar medicamentos o tratamientos médicos, que provoquen de manera intencional el deceso del enfermo terminal.
+Los médicos tratantes y el equipo sanitario que presten los cuidados paliativos, para el mejor desempeño de sus servicios, deberán estar acreditados por instituciones autorizadas para ello y que demuestren su capacitación humana y técnica.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 269.
 
-No podrán realzarse (sic) las disposiciones contenidas en el Documento o Formato de suspensión de tratamiento (sic) médicos ineficaces y en la presente Ley, a enfermos que no se encuentren en etapa terminal.
+Los médicos tratantes de todos los niveles de atención médica, tendrán las siguientes obligaciones:
+
+I. Proporcionar toda la información que el paciente requiera, así como la que el médico considere necesaria para que el enfermo en situación terminal pueda tomar una decisión libre e informada sobre su atención, tratamiento y cuidados;
+
+II. Solicitar o elaborar el documento que exprese su voluntad en situación terminal, para los tratamientos o medidas a tomar respecto de la enfermedad terminal;
+
+III. Informar oportunamente al enfermo en situación terminal, cuando el tratamiento curativo no dé resultados;
+
+IV. Informar al enfermo en situación terminal, sobre las opciones que existan de cuidados paliativos;
+
+V. Respetar la voluntad documentada del enfermo en situación terminal en cuanto al tratamiento y cuidados paliativos, una vez que se le haya explicado en términos sencillos las consecuencias de su decisión;
+
+VI. Garantizar con coparticipación de las instituciones de salud, que se brinden los cuidados básicos al paciente en todo momento;
+
+VII. Procurar los cuidados paliativos necesarios para preservar la calidad de vida de los enfermos en situación terminal;
+
+VIII. Respetar y aplicar todas y cada una de las medidas y procedimientos para los casos que señala esta ley;
+
+IX. Hacer saber al enfermo, en pleno uso de sus facultades mentales, a su familiar o representante legal, de inmediato y antes de su aplicación, si el tratamiento a seguir para aliviar el dolor y los síntomas de su enfermedad tenga como posibles efectos secundarios disminuir el tiempo de vida;
+
+X. Solicitar una segunda opinión a otro médico especialista, cuando su diagnóstico sea una enfermedad terminal, y
+
+XI. Las demás que le señalen ésta y otras leyes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2010)</small>
+
+ARTÍCULO 269 BIS 1.- Los médicos tratantes podrán suministrar fármacos paliativos a dosis recomendada, a un enfermo en situación terminal, aun cuando con ello se pierda estado de alerta o se acorte la vida del paciente, siempre y cuando se suministren dichos fármacos paliativos con el objeto de aliviar el dolor del paciente.
+
+Podrán hacer uso, de ser necesario de acuerdo con lo estipulado en la presente Ley, de analgésicos del grupo de los opioides.
+
+En ningún caso se suministrarán tales fármacos con la finalidad de acortar o terminar la vida del paciente, en tal caso se estará sujeto a las disposiciones penales aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2010)</small>
+
+ARTÍCULO 269 BIS 2.- Las instituciones, el personal médico y paramédico que dejen de proporcionar los cuidados paliativos a los enfermos en situación terminal, serán sancionados conforme a lo establecido por las leyes aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2010)</small>
+
+ARTÍCULO 269 BIS 3.- Las instituciones de salud, el personal médico y paramédico que por decisión propia, deje de proporcionar cualquier tratamiento o cuidado sin el consentimiento del enfermo en situación terminal, o en caso que esté impedido para expresar su voluntad, el de su familia o representante, será sancionado conforme lo establecido por las leyes aplicables.
 
 ## TÍTULO DÉCIMO QUINTO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS, ALCOHÓLICAS, NUTRIENTES VEGETALES, PLAGUICIDAS Y SUBSTANCIAS TÓXICAS
 
@@ -3462,3 +3736,13 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE MAYO DE 2010.
+
+PRIMERO.- Este Decreto entrará en vigor a partir del 1 de enero del año 2011.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- La Secretaría de Salud del Estado, conforme a la disposición presupuestal, desarrollará un plan de trabajo para dar cumplimiento en todo el Estado, a lo establecido por la fracción IX del artículo 267 del presente Decreto.
