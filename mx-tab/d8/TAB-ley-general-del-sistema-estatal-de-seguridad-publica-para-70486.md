@@ -4,7 +4,7 @@ identifier: "TAB-ley-general-del-sistema-estatal-de-seguridad-publica-para-70486
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-10-07"
-last_updated: "2009-10-07"
+last_updated: "2010-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY GENERAL DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2010.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 7 de octubre de 2009.
 
@@ -645,7 +645,9 @@ La relación entre los elementos de las Instituciones de Seguridad Pública Esta
 
 La Comisión de Certificación y Acreditación del Consejo tendrá las funciones siguientes:
 
-I. Establecer los criterios mínimos para la evaluación y control de confianza de los servidores públicos que realicen los Centros de Evaluación y Control de Confianza, tomando en consideración las recomendaciones, propuestas y lineamientos que emita el Centro Nacional de Certificación y Acreditación;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
+
+I. Establecer los criterios mínimos para la evaluación y control de confianza de los servidores públicos que realice el Centro de Evaluación y Control de Confianza, tomando en consideración las recomendaciones, propuestas y lineamientos que emita el Centro Nacional de Certificación y Acreditación;
 
 II. Determinar las normas y procedimientos técnicos para la evaluación de los Integrantes de las Instituciones de Seguridad Pública;
 
@@ -655,11 +657,25 @@ IV. Recopilar la información administrativa que requiera el Sistema Nacional, y
 
 V. Las demás que establezcan las disposiciones legales aplicables.
 
-Habrán tantos Centros de Evaluación y Control de Confianza como sean necesarios para desarrollar y llevar a cabo la evaluación, acreditación, certificación y control de confianza en los términos que establece esta Ley y demás ordenamientos jurídicos, en términos de las disposiciones aplicables, debiendo haber por lo menos dos Centros uno en la Secretaría de Seguridad Pública y otro en la Procuraduría General de Justicia.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
+
+Habrá un Centro de Evaluación y Control de Confianza para desarrollar y llevar a cabo la evaluación, acreditación, certificación y control de confianza en los términos que establece esta Ley y demás ordenamientos jurídicos, en términos de las disposiciones aplicables, el cual estará adscrito al Secretariado Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2010)</small>
+
+El Centro de Evaluación y Control de Confianza contará con los elementos técnicos suficientes para la toma de decisiones. Será supervisado por la Comisión Permanente de Certificación y Acreditación del Consejo. El Secretario Ejecutivo y el Titular del Centro de Evaluación y Control de Confianza deberán mantener informados a dichos miembros de las acciones que desarrollen sobre el particular.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2010)</small>
+
+Artículo 53 BIS.- Al frente del Centro de Evaluación y Control de Confianza habrá un director, quien será designado a propuesta del Secretario Ejecutivo, ante los integrantes del Consejo Estatal de Seguridad Pública. La persona que fuere nombrada, previamente al inicio de su ejercicio en el servicio público, habrá de ser evaluado y aprobado por el Centro Nacional de Acreditación y Certificación del Sistema Nacional de Seguridad Pública; debiendo cubrir los requisitos establecidos para el Secretario Ejecutivo en el artículo 31 de esta Ley, con excepción de la residencia.
+
+Todo el personal que sea designado para desempeñar sus labores en el Centro de Evaluación y Control de Confianza, deberán aprobar las evaluaciones que sean determinadas por la Comisión de Certificación y Acreditación del Consejo Estatal. Los servidores públicos que fueren nombrados, no deberán pertenecer a la carrera policial.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2010)</small>
 
 ###### Artículo 54.
 
-Los Centros de Evaluación y Control de Confianza a los que se refiere el último párrafo del artículo anterior tendrán, cuando menos, las siguientes funciones y atribuciones:
+El Centro de Evaluación y Control de Confianza, tendrá las siguientes funciones y atribuciones:
 
 I. Aplicar los procedimientos de Evaluación y de Control de Confianza conforme a la metodología que determine (sic) Comisión de Certificación y Acreditación del Consejo a que se refiere esta Ley, de conformidad con los lineamientos que se establezcan en el marco del Sistema Estatal;
 
@@ -693,9 +709,11 @@ XV. Las demás que establezca esta Ley y las demás disposiciones legales aplica
 
 ### CAPÍTULO II. DE LA CERTIFICACIÓN
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
+
 ###### Artículo 55.
 
-La certificación es el proceso mediante el cual los aspirantes e integrantes de las Instituciones de Seguridad Pública se someten a las evaluaciones practicadas por los Centros de Evaluación y Control de Confianza, de conformidad con las políticas y lineamientos establecidos por las autoridades competentes y disposiciones aplicables, para comprobar el cumplimiento de los perfiles y requisitos físicos, médicos, psicológicos, éticos, socioeconómicos y de personalidad, en los procedimientos de ingreso, promoción y permanencia en dichas instituciones.
+La certificación es el proceso mediante el cual los aspirantes e integrantes de las Instituciones de Seguridad Pública se someten a las evaluaciones practicadas por el Centro de Evaluación y Control de Confianza, de conformidad con las políticas y lineamientos establecidos por las autoridades competentes y disposiciones aplicables, para comprobar el cumplimiento de los perfiles y requisitos físicos, médicos, psicológicos, éticos, socioeconómicos y de personalidad, en los procedimientos de ingreso, promoción y permanencia en dichas instituciones.
 
 ###### Artículo 56.
 
@@ -711,9 +729,11 @@ Los aspirantes que ingresen a las Instituciones de Seguridad Pública deberán c
 
 Es requisito indispensable para la permanencia de los servidores públicos en las Instituciones de Seguridad Pública, contar con la revalidación del certificado el cual deberá de inscribirse en los registros correspondientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2010)</small>
+
 ###### Artículo 59.
 
-Los certificados que expidan y otorguen los respectivos Centros de Evaluación y Control de Confianza deberán contener los requisitos y medidas de seguridad que para tal efecto acuerde el Centro Nacional de Certificación y Acreditación, así como los criterios y normas que determine la Comisión de Certificación y Acreditación del Consejo.
+Los certificados que expida y otorguen el Centro de Evaluación y Control de Confianza deberán contener los requisitos y medidas de seguridad que para tal efecto acuerde el Centro Nacional de Certificación y Acreditación, así como los criterios y normas que determine la Comisión de Certificación y Acreditación del Consejo.
 
 Los certificados y sus actualizaciones deberán inscribirse en el Registro Nacional de Personal de las Instituciones de Seguridad Pública, así como en los registros estatales que para tal efecto se establezcan.
 
@@ -915,7 +935,9 @@ XVI. Huellas decadactilares;
 
 XVII. Registro genético;
 
-XVIII. Resultados de los exámenes y evaluaciones de conocimientos generales, psicológicos, médicos, físicos, toxicológico, de habilidades, entre otros, así como lo (sic) realizados por los respectivos Centros de Evaluación y Control de Confianza;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
+
+XVIII. Resultados de los exámenes y evaluaciones de conocimientos generales, psicológicos, médicos, físicos, toxicológico, de habilidades, entre otros, así como lo realizados por el Centro de Evaluación y Control de Confianza;
 
 IX. Los demás que faciliten su identificación y localización; y
 
@@ -1174,3 +1196,15 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO</small>
+
+P.O. 22 DE MAYO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Tanto el personal como los recursos materiales y financieros destinados a la operación de los Centros de Evaluación y Control de Confianza, tanto de la Secretaría de Seguridad Pública como de la Procuraduría General de Justicia se transferirán al Centro de Evaluación y Control de Confianza que dependerá del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+TERCERO.- El Poder Ejecutivo contará con tres meses a partir de la entrada en vigor del presente Decreto para concluir las transferencias de recursos humanos, materiales y financieros para la operación del Centro de Evaluación y Control de Confianza que dependerá del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+CUARTO.- El Titular del Poder Ejecutivo, dentro de un término de 90 días hábiles, contados a partir de la vigencia del presente decreto, deberá realizar las adecuaciones reglamentarias a los ordenamientos jurídicos que resultaren aplicables, con relación a este mandamiento legislativo.
