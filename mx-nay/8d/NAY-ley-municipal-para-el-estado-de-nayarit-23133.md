@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2009-04-15"
+last_updated: "2010-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -433,9 +433,15 @@ IX.- La documentación relativa a los programas municipales y proyectos aprobado
 
 X.- El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles de propiedad municipal;
 
-XI.- La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento; y
+XI.- La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento; y (sic)
 
-XII.- La demás información que se estime relevante para garantizar la continuidad de la administración municipal.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
+
+XII.- La página web, el portal de transparencia y el sistema electrónico de acceso a la información pública, debidamente funcionando, con los correspondientes datos para su manejo, respaldos electrónicos y manuales operativos o técnicos, en su caso, en los términos que señala la Ley;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
+
+XIII.- La demás información que se estime relevante para garantizar la continuidad de la administración municipal.
 
 ###### ARTICULO 46.
 
@@ -3480,3 +3486,9 @@ Artículo Primero.- El presente decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Aquellos municipios que no cuenten con la Dirección Jurídica a la que se refiere la presente reforma, deberán de proceder a su conformación en un término que no exceda los noventa días naturales contados a partir de la entrada en vigor del presente decreto.
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 22 DE MAYO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
