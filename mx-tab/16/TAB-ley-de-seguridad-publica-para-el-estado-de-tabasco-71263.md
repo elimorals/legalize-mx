@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-seguridad-publica-para-el-estado-de-tabasco-71263"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-26"
-last_updated: "2009-12-26"
+last_updated: "2010-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71263&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2010.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 26 de diciembre de 2009.
 
@@ -589,9 +589,11 @@ XXIV. las demás que asignen sus superiores.
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
+
 ###### Artículo 33.
 
-La Secretaría de Seguridad Pública del Estado de Tabasco establecerá dentro de su organización, un Centro de Evaluación y Control de Confianza encargado de desarrollar y llevar a cabo la evaluación, acreditación, certificación y control de confianza a los integrantes de los cuerpos de seguridad pública y demás personal administrativo de las instituciones de seguridad pública en los términos a que se refiere esta Ley y demás ordenamientos jurídicos aplicables.
+El Centro de Evaluación y Control de Confianza al que se refiere el artículo 53 de la Ley General, será el encargado de desarrollar y llevar a cabo la evaluación, acreditación, certificación y control de confianza a los integrantes de los cuerpos de seguridad pública y demás, personal administrativo de las instituciones de seguridad pública en los términos a que se refiere esta Ley y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 34.
 
@@ -625,7 +627,7 @@ Sin perjuicio de lo dispuesto en otras disposiciones aplicables, los servidores 
 
 ###### Artículo 36.
 
-El titular y demás personal del Centro de Evaluación y Control de Confianza deberán aprobar las evaluaciones a que se refiere el artículo anterior de esta Ley y no deberán pertenecer a la carrera policial.
+(DEROGADO, P.O. 22 DE MAYO DE 2010)
 
 ## TÍTULO SEXTO. Del Desarrollo Policial
 
@@ -1418,3 +1420,15 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE MAYO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Tanto el personal como los recursos materiales y financieros destinados a la operación de los Centros de Evaluación y Control de Confianza, tanto de la Secretaría de Seguridad Pública como de la Procuraduría General de Justicia se transferirán al Centro de Evaluación y Control de Confianza que dependerá del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+TERCERO.- El Poder Ejecutivo contará con tres meses a partir de la entrada en vigor del presente Decreto para concluir las transferencias de recursos humanos, materiales y financieros para la operación del Centro de Evaluación y Control de Confianza que dependerá del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+CUARTO.- El Titular del Poder Ejecutivo, dentro de un término de 90 días hábiles, contados a partir de la vigencia del presente decreto, deberá realizar las adecuaciones reglamentarias a los ordenamientos jurídicos que resultaren aplicables, con relación a este mandamiento legislativo.
