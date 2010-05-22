@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-regula-la-entrega-recepcion-de-la-administracion-14269"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-15"
-last_updated: "1998-08-15"
+last_updated: "2010-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY QUE REGULA LA ENTREGA-RECEPCION DE LA ADMINISTRACION PUBLICA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de agosto de 1998.
 
@@ -54,6 +54,18 @@ La entrega-recepción, deberá realizarse formalmente entre el servidor entrante
 ###### ARTICULO 4o.
 
 La entrega-recepción abarcará lo relativo a recursos financieros, humanos y materiales, y será acompañada de un informe actualizado a la fecha respectiva, de los asuntos competencia del órgano o dependencia, trátese de terminados, en proceso o pendientes de trámite, y en general, en los términos que especifiquen las disposiciones complementarias que para el efecto expida la Secretaría de la Contraloría General en cumplimiento de sus atribuciones legales.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2010)</small>
+
+El inventario de las tecnologías de informática, los servidores, su ubicación física, las contraseñas y los usuarios; los datos de los proveedores de servicio y los contratos de servicio o mantenimiento vigentes; las cuentas institucionales de correos electrónicos, así como cualquier tecnología y protocolo de acceso a las páginas web y portales de Internet de los sujetos obligados por la presente Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2010)</small>
+
+La página Web, el portal de transparencia y el sistema electrónico de acceso a la información pública, se entregará debidamente funcionando con los correspondientes datos para su manejo, respaldos electrónicos y manuales operativos o técnicos, en su caso.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2010)</small>
+
+Es responsabilidad de la administración receptora comprobar la funcionalidad y veracidad de la información de los usuarios, contraseñas, tecnologías y protocolos objeto de la recepción. Asimismo, será responsable de realizar la renovación de contraseñas en cada uno de los usuarios a efecto de asegurar el control total de las tecnologías recibidas.
 
 ###### ARTICULO 5o.
 
@@ -99,9 +111,13 @@ II.- Listado de avance de planes, programas y proyectos en ejecución;
 
 III.- Recursos humanos, materiales y financieros asignados a la esfera del ejecutivo estatal;
 
-lV.- Compromisos financieros del corto, mediano y largo plazo que corresponda solventar a la administración entrante; y
+lV.- Compromisos financieros del corto, mediano y largo plazo que corresponda solventar a la administración entrante; y (sic)
 
-V.- Documentar en lo general por cada una de las áreas de la Administración Pública Centralizada, Descentralizada y Paraestatal, la entrega-recepción.
+V.- Documentar en lo general por cada una de las áreas de la Administración Pública Centralizada, Descentralizada y Paraestatal, la entrega-recepción;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
+
+VI.- La operatividad y normatividad del sistema electrónico de acceso a la información, de la página web y del portal de Internet de los sujetos obligados por la presente Ley.
 
 ###### ARTICULO 13.
 
@@ -168,3 +184,11 @@ Rigoberto Ochoa Zaragoza.
 El Secretario General de Gobierno.
 
 Lic. Sigfrido de La Torre Miramontes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE MAYO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
