@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2008-12-31"
+last_updated: "2010-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FISICA, DEPORTE Y RECREACION PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -496,6 +496,10 @@ IX.- Las demás que le otorguen otras Leyes y disposiciones jurídicas aplicable
 ###### Artículo 40.
 
 Las Autoridades Municipales, por conducto del organismo competente, deberán facilitar el uso de las instalaciones deportivas, en su ámbito territorial y garantizar la plena utilización de las mismas, para tal efecto, participarán en los términos de la presente Ley, en las tareas relativas al inventario e inscripción en el Registro Estatal de Cultura Física y Deporte.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2010)</small>
+
+El Organismo a que se refiere el párrafo anterior, podrá ser un Organismo Público Descentralizado del Gobierno Municipal, que actúe bajo la denominación y forma de Instituto, en concordancia con las disposiciones de la presente Ley y de aquellos ordenamientos legales que resulten aplicables.
 
 ###### Artículo 41.
 
@@ -1574,3 +1578,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE MAYO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
