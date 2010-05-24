@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2010-03-08"
+last_updated: "2010-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -47,7 +47,7 @@ Las disposiciones del presente Código son de orden público e interés general,
 
 ###### ARTÍCULO 1°.
 
-Las disposiciones del presente Código son de orden público e interés general, reglamentarias del Artículo 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 69 de la Constitución Política del Estado de Aguascalientes y demás disposiciones que establezca la Ley que en materia municipal expida el Poder Legislativo del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ###### ARTÍCULO 2°.
 
@@ -2649,6 +2649,10 @@ Disposiciones Generales
 
 Para la más eficaz atención y despacho de los asuntos de la competencia de la Presidencia Municipal, ésta contará con los órganos administrativos desconcentrados y descentralizados que resulten necesarios, los que tendrán las facultades y obligaciones que se establezcan en los reglamentos de su creación.
 
+> <small>(ADICIONADO, PO. 24 DE MAYO DE 2010)</small>
+
+Para la creación de un órgano administrativo desconcentrado, descentralizado o un fideicomiso público, por parte del Honorable Ayuntamiento, se requerirá previamente un dictamen de la Comisión del ramo administrativo que corresponda, así como un dictamen de la Comisión de Hacienda que determine la viabilidad financiera y administrativa de la creación del órgano o fideicomiso propuesto, el cual deberá ser emitido tomando en cuenta el análisis elaborado por las Secretarías de Finanzas Públicas y de Administración.
+
 ###### ARTÍCULO 163.
 
 Las autoridades municipales por sí o en coordinación podrán para otorgar un mejor servicio a la ciudadanía establecer un sistema de ventanilla única para trámites de licencias, permisos o autorizaciones, o apertura de negocios o industrias, en la cual se entregará toda la documentación y se le dará respuesta a los ciudadanos.
@@ -4381,6 +4385,14 @@ VII. Cortar las ramas de los árboles de las calles y avenidas, sin autorizació
 
 VIII. Borrar, cubrir o alterar los números o letras con que están marcadas las casas o los letreros que designen las calles o plazas u ocupar los lugares destinados para ello con propaganda de cualquier clase.
 
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2010)</small>
+
+IX. Instalar en forma no autorizada conexiones a cualquiera de las instalaciones del sistema de redes de agua potable y alcantarillado municipal.
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2010)</small>
+
+X. Destinar el agua potable de uso doméstico a otro no autorizado.
+
 APARTADO QUINTO
 
 De las Faltas Contra la Salubridad
@@ -4393,7 +4405,9 @@ I. Ensuciar, desviar o retener las corrientes de agua de los manantiales, tanque
 
 II. Arrojar en la vía pública animales muertos, escombros o cualquier sustancia que contamine el ambiente.
 
-III. Arrojar a los drenajes basura, escombros o cualquier otro objeto que pueda obstruir su funcionamiento.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2010)</small>
+
+III. Arrojar a los drenajes basura, escombros, desechos materiales, sustancias tóxicas, lodos y productos de los tratamientos de aguas residuales que contaminen o puedan obstruir su funcionamiento.
 
 IV. Arrojar o abandonar en la vía pública fuera de los depósitos colocados para tal fin, residuos o cualquier otro objeto.
 
@@ -4408,6 +4422,10 @@ VIII. Tener animales que originen mal olor, fauna nociva, ruidos o que causen cu
 IX. Realizar la quema de basura, pasto seco, llantas o cualquier sustancia que cause contaminación al ambiente.
 
 X. Fumar en lugares expresamente prohibidos para ello.
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2010)</small>
+
+XI. Descargar aguas residuales contaminantes contrarias al permiso otorgado por la autoridad municipal correspondiente.
 
 APARTADO SEXTO
 
@@ -14467,9 +14485,25 @@ l. Durante las campañas electorales de los partidos políticos, a los tiempos e
 
 II. En el tiempo en que no se desarrollen aquéllas.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 1174.
 
-Durante las campañas electorales, los anuncios de propaganda política se sujetarán a las disposiciones aplicables de las leyes electorales, así como a los términos y condiciones que se establezcan en los acuerdos y convenios que el H. Ayuntamiento de Aguascalientes celebre con las Autoridades Electorales, previo dictamen que para ese efecto expida la Secretaría.
+Durante las campañas electorales, en la colocación de propaganda electoral los partidos y candidatos observarán las reglas siguientes:
+
+1) No podrá colgarse en elementos del equipamiento urbano e infraestructura urbana destinados a la prestación de los servicios urbanos, ni obstaculizar en forma alguna la visibilidad de los señalamientos que permiten a las personas transitar y orientarse dentro de los centros de población;
+
+2) Podrá colgarse o fijarse en inmuebles de propiedad privada, siempre que medie permiso escrito del propietario;
+
+3) Podrá colgarse o fijarse en los bastidores y mamparas de uso común que determinen los órganos electorales, previo acuerdo con las autoridades correspondientes;
+
+4) No podrá fijarse o pintarse en elementos del equipamiento urbano e infraestructura urbana destinados a la prestación de los servicios urbanos, carretero o ferroviario, ni en accidentes geográficos cualquiera que sea su régimen jurídico; y
+
+5) No podrá colgarse, fijarse o pintarse en monumentos ni en edificios públicos.
+
+Además se estará a los términos y condiciones que se establezcan en los acuerdos y convenios que el H. Ayuntamiento de Aguascalientes celebre con las Autoridades Electorales, previo dictamen que para ese efecto expida la Secretaría.
+
+Para efectos de este artículo y para definir equipamiento urbano, infraestructura urbana y servicios urbanos, se estará a lo dispuesto por el artículo 5° fracciones XIII, XV y XXIII del Código Urbano para el Estado de Aguascalientes.
 
 ###### ARTÍCULO 1175.
 
@@ -19368,3 +19402,27 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 8 DE MARZO DE 2010.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 24 DE MAYO DE 2010.
+
+DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO 162 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE MAYO DE 2010.
+
+DECRETO POR EL QUE SE MODIFICAN LOS ARTICULOS 340 Y 341 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTÍCULO 1°.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO 2°.
+
+Con el presente decreto se adicionan al Artículo 340 las fracciones IX y X; también se modifica el Artículo 341fracción (sic) III y se adiciona la fracción XI.
+
+P.O. 24 DE MAYO DE 2010.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 1174 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
