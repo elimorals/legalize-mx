@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-comision-estatal-del-agua-y-56738"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-06"
-last_updated: "2007-09-06"
+last_updated: "2010-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA COMISION ESTATAL DEL AGUA Y GESTION DE CUENCAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION ESTATAL DEL AGUA Y GESTION DE CUENCAS, PUBLICADO EN EL P.O. DE 24 DE MAYO DEL 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 6 de septiembre de 2007.
 
@@ -812,3 +814,19 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE MAYO DEL 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Comisión Estatal del Agua y Gestión de Cuencas del Estado, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 6 de septiembre de 2007.
+
+###### ARTÍCULO TERCERO.
+
+Se dejan sin efecto las demás disposiciones de carácter administrativo en lo que se oponga al presente Reglamento Interior.
