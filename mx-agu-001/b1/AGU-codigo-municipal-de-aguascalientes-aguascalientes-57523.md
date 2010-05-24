@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2010-03-08"
+last_updated: "2010-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,95 +23,101 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
-CODIGO MUNICIPAL DE AGUASCALIENTES
+CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2010.
+TEXTO ORIGINAL.
 
-Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
+Código publicado en el número 94 del Periódico Oficial del Estado de Tamaulipas, el miércoles 6 de agosto de 2025.
 
-C.P. MARTÍN OROZCO SANDOVAL, Presidente Municipal de Aguascalientes, en ejercicio de las facultades contenidas en los Artículos 16, 38, fracciones I y II de la Ley Municipal para el Estado de Aguascalientes; y las demás propias de su cargo, a los habitantes del Municipio de Aguascalientes hace saber que el Honorable Ayuntamiento ha tenido a bien aprobar y consecuentemente expedir el:
+CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO DE TAMAULIPAS
 
-CÓDIGO MUNICIPAL DE AGUASCALlENTES
+“Un estado es gobernado mejor por un hombre bueno que por buenas leyes. - Aristóteles”
+
+ÍNDICE
+
+Mensaje del Titular de la Secretaría de Finanzas
+
+Misión
+
+Visión
+
+Fundamento Legal
+
+Antecedentes
+
+Valores de la Secretaría de Finanzas
+
+Código de Ética de las y los Servidores Públicos del Poder Ejecutivo del Estado de Tamaulipas
+
+Código de Conducta de las y los Servidores Públicos de la Secretaría de Finanzas del Gobierno del Estado de Tamaulipas
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO I. División Territorial del Municipio de Aguascalientes
+### Capítulo 1.- Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+###### Artículo 1.
 
-###### ARTÍCULO 1°.
+El presente Código para la Prevención de Conflictos de Interés de las y los Servidores Públicos de la Secretaría de Finanzas del Gobierno del Estado de Tamaulipas, tiene como objeto la prevención de situaciones que se llegaran a presentar en la Secretaría de Finanzas, cuando los intereses personales, familiares o de negocios de las y los servidores públicos, puedan afectar el desempeño independiente e imparcial de sus empleos, cargos, comisiones o funciones.
 
-Las disposiciones del presente Código son de orden público e interés general, reglamentarias del Artículo 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 69 de la Constitución Política del Estado de Aguascalientes y demás disposiciones que establezca la Ley que en materia municipal expida el Poder Legislativo del Estado.
+###### Artículo 2.
 
-###### ARTÍCULO 2°.
+Queda prohibido cualquier acto u omisión donde algún servidor público pueda beneficiarse con motivo de su encargo así mismo, a su cónyuge, parientes consanguíneos o por afinidad hasta el cuarto grado, parientes civiles, terceros con los que tenga relaciones profesionales, laborales o de negocios, o socios o sociedades de las que la o el servidor público o las personas antes referidas, formen o hayan formado parte, entre otros casos análogos.
 
-El Municipio de Aguascalientes está conformado por fraccionamientos, colonias, condominios, comunidades, poblados y rancherías que se ubican dentro de su territorio y se organizan políticamente en Delegaciones y Comisarías. Quedan obligados al cumplimiento y observancia del presente Código, sin distinción, todas y todos los habitantes que conformen la población del Municipio de Aguascalientes.
+###### Artículo 3.
 
-###### ARTÍCULO 3°.
+De la clasificación del conflicto de interés:
 
-El territorio del Municipio de Aguascalientes se divide en ocho Delegaciones y Zona Centro. Las Delegaciones son: Calvillito, Cañada Honda, Salto de los Salado, Peñuelas, Los Pocitos, José María Morelos y Pavón, Lic. Jesús Terán Peredo e Insurgentes.
+I) Real: Se actualiza la situación que confronta las obligaciones derivadas de servicio público con intereses privados.
 
-A la Delegación Calvillito pertenecen las siguientes comunidades: El Duraznillo, Los Cuervos o Los Ojos de Agua, La Chiripa, Matamoros, Soledad de Abajo, Los Durón, Las Jaboneras, Rancho El Carmen o Gallinas Güeras, Los Hoyos o Puerta de los Hoyos, Soledad de Arriba, Bajío Los Vázquez, Cañada Grande de Cotorina, Villa Lic. Jesús Terán ó Calvillito, Las Animas, La Ahuja o La Aguja, El Cardón, La Congoja, El Fresno o Las Norias de San Bartolo, El Guarda, El Jagüey, Laguna Verde, El Mirador, El Mirasol, El Mitote, La Petaquilla ó El Milagro, El Potrero Nuevo, Sal Sí Puedes, San Bartolo, San Miguelito de Abajo, El Tacón, Tanque de Guadalupe, El Tepetate, El Tropezón, Vista Alegre I ó Bella Vista, Los Hernández, El Ranchito ó El Mocho, Bella Vista ó El Coronel, Los Cables, La Cachucha ó El Salero, El Capirote, El Caracol ó La Mesa, El 14, El Copetillo, El Crucero, La Estancia, Gómez Palacio, Los Lirios, La Mesa, El Molino Los Órganos, Rancho El Paraíso, Rancho El Pirul ó El Pirulito, El Pozo, Potrero Grande, Rancho 2 Arbolitos, El Refugio II, Rancho Sin Nombre, La Rinconada ó La Escondida, San José del Cono, La Santa Cruz, Santa Elena, El Salero, El Gato, El Yerbaniz, Azarco, La Cañada de las Habas, Lomas del Guarda, Mesa del Tepetate, Los Salazar, La Lagunita, Cañada del Duraznillo, Cañada Grande, El Capirote, El Ocal ó El Capirote, La Chiripa, El Cono, El Copetillo, El Copetillo Chico ó La Miseria, La Cruz, Los Durón 1, La Escuadra, La Fortuna, Los Laureles, El Maistrujenio, El Mirador, Ojos de Agua la Estancia, El Plan de Lagos, Rancho de Guadalupe ó Las Jaboneras, Rancho El Duraznillo, La Rinconada ó La Escondida, Rancho La Cruz, Rancho Nuevo 1880, Rancho Porvenir, Rancho Santa Teresa, El Salero, San Miguelito, Las Trojes ó Las Jaboneras, Cañada del Tabaco, Loma del Mezquite, Maíz Prieto, San Juanito ó Los López, El Copetillo Chico, Localidades Sin Nombre La Morada, El Ocal, Rancho Los Córdova, El Refugio, La Cabaña Roja, El Maguey y Los Valdez.
+II) Aparente: Existe apariencia de que los intereses privados de la o el servidor público pueden influir indebidamente en el desempeño de sus obligaciones. Aunque realmente no sea el caso, puede generar sospechas que dañen la imagen y credibilidad de la o el servidor público.
 
-A la Delegación Cañada Honda pertenecen las siguientes comunidades: San José de la Ordeña, Ejido San Antonio de los Pedroza, Santa Maria de Gallardo, Jaltomate, General José María Morelos y Pavón ó Cañada Honda, Estación Cañada Honda, Comité, Congregación San Antonio Primero de los Pedroza, San Nicolás de Arriba, El Chiflido, La Coyotera, El Becerro, El Refugio, El Jardín, Puerta de los Viejitos, Rancho El Venado y San Nicolás de Arriba.
+III) Potencial: Surge cuando los intereses privados de la o el servidor público, son susceptibles de provocar que en el futuro éste incurra en un conflicto de interés real.
 
-A la Delegación de Salto de los Salado pertenecen las siguientes comunidades: El Niágara ó Rancho El Niágara, El Ocote, Granja San Antonio, San José de la Esperanza, Centro de Arriba ó El Taray, La Huerta ó La Cruz, Cuauhtémoc ó Las Palomas, San Pedro Cieneguilla, San Rafael I, El Tanque de los Jiménez, Cieneguilla ó La Lumbrera, Piedras Chinas, Presa de Guadalupe, El Salto de los Salado, Los Arbolitos ó Rancho de los Arbolitos, Cabecita 3 Marías ó Rancho Nuevo, Los Caños, La Ademe, San José del Monte ó Las Petacas, Ex-Hacienda de Agostaderito, Rancho Legendario, Norias de Cedazo ó Cedazo Norias de Montoro, El Rubio, Asociación Local Ganadera de Aguascalientes ó C. del Niágara, Cieneguilla ó La Hacienda, Las Bugambilias, Castillo Fontenac, La Chiripa, Granja Los Lirios, Las Marías ó Las 3 Marías, Rancho San Carlos, San Gerónimo, Las Víboras, Granjas Fátima, El 14, Rancho La Chiripa, El Arquito, Quinta Santa Isabel, Rancho Aurora, Rancho San José del Monte, Granja Chela, Rancho Nuevo, Rancho Topogigio, San Isidro de los Esparza, San Isidro ó La Estación, San Cristóbal, San Nicolás de Enmedio, El Sabino ó San Román, El Sauz Amarillo, La Tijera, Ampliación del Conejal, La Sociedad, Granjas El Conejal, Granja Los Jacalitos, Rancho Las Jarillas, Granja Don Mónico, Rancho El Chiflido, Los Placeres, El Futuro, Los Girasoles, Granja San Nicolás, El Paraíso, San Antonio, San Antonio y Los 3 Cuartos.
+2.- Ahora bien, el conflicto de interés no implica necesariamente una falta administrativa o delito, a menos de que la o el servidor público que se encuentre en esta situación, no se abstenga o no se excuse de intervenir en el asunto.
 
-A la Delegación Peñuelas pertenecen las siguientes comunidades: San Antonio de Peñuelas, El Cedazo o Cedazo de San Antonio, Cotorina de Abajo, Dolores, La Soledad, El Turicate, El Mirador, Peñuelas ó El Cienegal, El Refugio de Peñuelas, Bajío de Montoro, Buenavista de Peñuelas, Viñedos Cuauhtémoc ó Churubusco, La Esperanza, Interpec San Marcos, Marisol, Cotorina ó Coyotes, Montoro ó Mesa del Salto, Acapulco, Hacienda Los Pavorreales, Cotorina de Altamira, San Carlos, La Florida, Granja Maricela, El Huizachal, Mesa del Salto ó Fracción de Montoro, La Providencia, Rancho La Manga, La Primavera, Rancho El Mitawa, Rancho San Jacinto, San Isidro ó Granja Santa Anita, San Miguel, Santa Elena ó Tres Pelonas, Santa Inés, Santa Teresa, Tanque de la Cruz, Las Trojes, Villa Su, Ex-Hacienda de Peñuelas, Coyotillos, El Esfuerzo, Llanos de San Antonio, Las Granjas ó Santa Elena, Los Jazmines, Localidades Sin Nombre, La Rinconada, Rancho La Loma, Rancho San Martín, Bellavista, Colonia Salto de Montoro, Ejido Peñuelas, Granja El Huizache, Rancho La Primavera, San José, Granja Marisela y Rancho La Gaviota.
+### Capítulo 2.- De los Compromisos de los Servidores Públicos de la Secretaría de Finanzas.
 
-A la Delegación Urbana de Los Pocitos pertenece lo siguiente: Fraccionamiento Trojes de Alonso, Condominio Santa Fe, Centro Comercial Galerías, Condominio Rancho San Antonio, Fraccionamiento La Troje, Condominio Trojes de Cristal, Condominio Trojes del Sol, Fraccionamiento Residencial Calicantos, Fraccionamiento Las Cavas, Colonia Talamantes Ponce, Condominio Las Trojes, Desarrollo Habitacional La Paloma, Baldío Calicantos II, Fraccionamiento Valle del Campanario, Fraccionamiento La Herradura, Asadero Muzquis, Condominio Jardines del Campestre, Fraccionamiento Misión del Campanario, Cerrada La Mezquitera, Cerrada del Valle, Baldío Calicantos I, Condominio Misión de Santiago I, Condominio Misión de Santiago II, Valle Real, Cerrada de la Misión, Lomas de Vergeles, Seminario Siervos de María, Fraccionamiento Campestre I Etapa, Los Jarales, Fraccionamiento Trojes de Oriente II, Fraccionamiento Los Vergeles, Arroyo de la Hacienda, Fraccionamiento Valle de las Trojes, Fraccionamiento Villas del Campestre, Baldío Puerto las Hadas, Parque Industrial Tecnopolo, Fraccionamiento Villas de Montenegro, Fraccionamiento Trojes de Oriente I, Valle del Campestre, Fraccionamiento Granjas del Campestre, Fraccionamiento Lomas del Campestre II, Fraccionamiento Villas de San Nicolás, Condominio Puerto Las Hadas, Baldío Cristóbal Colón, Colegio Cristóbal Colón, Fraccionamiento Jardines de la Concepción II, Fraccionamiento Jardines de la Concepción I, Ejido San José de los Pocitos, Fraccionamiento Lomas del Campestre, Fraccionamiento Los Bosques, Condominio Rinconada de los Bosques, Condominio Residencial Campestre Club del Golf Norte y Sur, Residencial Pulgas Pandas, Universidad Autónoma de Aguascalientes, Fraccionamiento Bosques del Prado Norte, Condominio La Plazuela, Bosques del Prado Sur, Colonia Fátima, Desarrollo Especial Condominio Centro Distribuidor de Básico, Centro Comercial Agropecuario, Fraccionamiento Villas de Begoña, Desarrollo Especial Centro Comercial, Condominio Horizontal Villas de San Ángel, Condominio Villas del Vergel, Cerrada San Miguel, Fraccionamiento Palmas del Pedregal, Cerrada Fátima, Colonia San José del Arenal, Colonia Licenciado Francisco Primo Verdad, Fraccionamiento Unión Ganadera, Colonia San José del Arenal II, Fraccionamiento Nueva Rinconada, Fraccionamiento El Plateado, Privada San José, Fraccionamiento El Roble, Fraccionamiento La Grasa, Fraccionamiento Independencia de México, Fraccionamiento La Rinconada, Privada Benjamín Méndez, Condominio Puerta Navarra, Hacienda San José, Rinconada de los Álamos, Cerrada del Campanario, Desarrollo Especial PEMEX, Fraccionamiento Villas de San Francisco, Condominio La Fundición, Fraccionamiento Las Arboledas, Plaza Comercial El Campanario, Fraccionamiento San Cayetano, Fraccionamiento La Fundición, Fraccionamiento Villas de la Universidad, Fraccionamiento Los Sauces, Fraccionamiento Las Brisas, Baldío Línea de Fuego, Fraccionamiento Línea de Fuego, Fraccionamiento Colinas de San Ignacio, Fraccionamiento La Perla, Fraccionamiento Colinas del Río, Colonia Olivares Santana, Condominio del Bosque, Fraccionamiento Ramón Romo Franco, Ejido San Ignacio, Baldío SEDENA, Fraccionamiento Panorama, Fraccionamiento Colinas del Poniente, Desarrollo Especial Jardines Eternos, Fraccionamiento La Concordia, Desarrollo Especial Guadalupe, Colonia Curtidores, Fraccionamiento Valle del Río San Pedro, Fraccionamiento Moderno, Fraccionamiento La Soledad, Colonia San Marcos, Fraccionamiento Puesta del Sol, Cerrada San Antonio, Fraccionamiento San Marcos, Fraccionamiento Residencial del Valle I, Fraccionamiento Residencial del Valle II, Instituto Tecnológico de Monterrey Campus Aguascalientes, Fraccionamiento Palma Real, San Miguel, San Juan I ó Granja San Juan, San Felipe ó Viñedos San Felipe, San Ignacio, La Mascota, Los Lirios, Bodegas Brande Vin, Hacienda Nueva, Rancho Don Abraham, Las Palomas, La Puerta ó Granjas Cariñán, El Rodeo, Granja San Antonio, El Vacilón, La Victoria, Agua Azul, El Cariñán, Granja El Carmen, Viñedos Aguascalientes, El Bramadero, El Gavilán, Rancho Galván, Playas de Guadalupe, La Perla, Granja Santa Teresa, La Trinidad, Granja Puente, Casas Blancas, Centro de Estudios Diferenciados, La Esperanza, El Changay, Granja La Providencia, Granja María Luisa, Granja San Francisco, Granja El Valle, Los Membrillos, Ojo de Agua, Granja Los Olivos, Pocitos, Rancho La Estrella, Viñedos San Felipe 2da. Sección, San Judas, Sandovales de Abajo, Sandovales de Arriba, El Suspiro, Granja El Porvenir, Granja 5ta. Yola, El Vergel ó El Paraíso, El Álamo, Césped San Ignacio, Ejido Los Negritos, Ejido San Ignacio, Entrada a la Biznaga ó Las Lumbreras, Ex-Hacienda de San Ignacio, Frutas Concentradas S.A. de C.V., El Filso, Granja Brenda, Granja Chely, Granja Delia, Granja Duarte, Granja Guadalupe, Granja Laura Elena, Granja Lety, Granja Lupita, Granja Mariana, Granja San Antonio, Granja Santa Elena, Granja Vejarano, Los Jiménez, K-10, Localidades Sin Nombre, Colonia La Perla, Las Moras, Playas de Guadalupe, La Providencia ó Granja Mary Chuy, Rancho Doña María, Rancho San Martín, San Cristóbal, San José del Refugio, Santa Rita, Granja El Puente, El Sauz de los García, El Socorro, El Tanque, Tanque Los Carrizos, Rancho San José, Granja Los Pavos, Granja San Antonio, Arizona Ranch, San José de los Pocitos, Granja Marcela, Centro de Reeducación para Menores, Granja La Primavera, Granja Las Playas, Granja Lucy, Localidad Sin Nombre ó El Pozo, Rancho de Califas, Rancho Margaritas, San Ignacio II, Pocitos III y Loma Pocitos ó El Montecito.
+Código para la Prevención de Conflictos de Interés de las y los Servidores Públicos de la Secretaría de Finanzas del Gobierno del Estado de Tamaulipas.
 
-A la Delegación Urbana José María Morelos y Pavón pertenece lo siguiente: Desarrollo Especial Tecnológico de Aguascalientes, INFONAVIT Los Volcanes, Desarrollo Especial Obras Públicas del Estado, Fraccionamiento Bona Gens, Parque Ecológico El Cedazo, Fraccionamiento Ojocaliente Las Torres, FOVISSSTE Ojocaliente I, Conjunto Habitacional Villas de Ojocaliente, FOVISSSTE Ojocaliente II, Fraccionamiento Gómez Portugal, Desarrollo Especial Parque Municipal, Condominio Horizontal Plaza de Abastos El Cerrito, Conjunto Habitacional La Fuente, Fraccionamiento Primo Verdad INEGI, Ejido Salto de Ojocaliente, Condominio S.T.E.M.A., Fraccionamiento Jardines de la Convención, Baldío Ojo de Agua, Fraccionamiento El Cedazo, INFONAVIT Morelos, Fraccionamiento Solidaridad II, Colonia Ojo de Agua, Fraccionamiento Vista del Sol III, Fraccionamiento Bajío de las Palmas, Fraccionamiento Jardines de Aguascalientes, Condominio San José, Fraccionamiento Misión de Santa Fe, FOVISSSTE Ojo de Agua, Fraccionamiento Jardines de la Luz, Fraccionamiento Jardines de la Asunción, Fraccionamiento Agua Clara, Fraccionamiento Villa Las Palmas 2a. Sección, INFONAVIT Ojo de Agua, Fraccionamiento Balcones de Ojocaliente, Fraccionamiento Fuentes de la Asunción, Fraccionamiento Vista del Sol II, Colonia La Cruz, Fraccionamiento Jardines del Sol, Fraccionamiento San Jorge, Fraccionamiento Vista del Sol I, Baldío Solidaridad, Fraccionamiento Lomas del Chapulín, Fraccionamiento Solidaridad III, Fraccionamiento Cielo Claro, Asentamiento Irregular Lomas del Gachupín, Fraccionamiento La Lomita, Fraccionamiento México, Ojo de Agua de Palmitas, Fraccionamiento Jardines de las Fuentes, Fraccionamiento Tierra Buena, Fraccionamiento Villa Las Palmas, Residencial Asturias, Condominio La Terraza, Fraccionamiento Morelos I, Fraccionamiento Casablanca, Desarrollo Especial lNEGI, Fraccionamiento Jardines de las Bugambilias, Fraccionamiento Cima del Chapulín, Desarrollo Especial Quinta Real, Condominio Valle del Cedazo, Jardines de Casa Nueva, Condominio Residencial del Parque, Desarrollo Especial, Centro de Barrio Morelos, Desarrollo Especial Parque Rodolfo Landeros Gallegos, Fraccionamiento Pirámides, Fraccionamiento Emiliano Zapata, Fraccionamiento Solidaridad IV, Fraccionamiento Periodistas, Fraccionamiento Rinconada del Parque, Fraccionamiento Jardines del Parque, Fraccionamiento Morelos II, Condominio Residencial del Parque, Fraccionamiento Jardines de Casablanca, Fraccionamiento Lomas de San Jorge, Fraccionamiento Fundadores, Fraccionamiento Misión de Santa Lucía, Lomas del Mirador III, Lomas del Mirador II, Fraccionamiento Lomas del Mirador, Fraccionamiento Mujeres Ilustres, Condominio Mujeres Divinas, Lomas del Mirador IV, Fraccionamiento Lomas del Ajedrez, Fraccionamiento Ciudad Industrial, INFONAVIT Lomas del Ajedrez, Fraccionamiento Lomas de Vistabella, Fraccionamiento Lomas de Vistabella Segunda Sección, Fraccionamiento Lomas Altas, Fraccionamiento Rústicos Calpulli, Condominio Villas de Bonaterra, Fraccionamiento San Francisco de Los Arteaga ó Villa Sur, Fraccionamiento San Sebastián, Nissan, Ejido Los Arellano, Fraccionamiento Ladrillera Los Arellano, Fraccionamiento Parque Industrial Altec, Fraccionamiento Lomas de Nueva York, Fraccionamiento Vista Alegre, Condominio Lomas del Sur, Fraccionamiento Residencial San Javier, Condominio Villa Sur, Los Dolores, Los Mirasoles, Cobos, El Malacate, Lomas del Gachupín, Arellano, Arroyo Hondo, Asturias, Rancho Los Pargas, Loma Blanca. La Media Luna, Ojo de Agua de Palmitas, Paso Hondo, El Mosco, Rancho Las Mercedes, Santa Clara, Rancho Esperanza, Vista Alegre, Granja Elsa, Los Amarraderos, El Bambú, Rancho Benjamín Chávez Ruiz, Ojo de Agua de Palmitas ó Las Crucitas, Las 2 Peñas Meyeras, El Gavilán, Granja Kova, Lomas de Arellano, Lotes de Arellano, La Palanca, El Pirul, El Relicario, Rancho San Felipe, San José, San Martín, Las Violetas, Los Guerrero, 3 Elenas, Lomas de Nueva York, La Calandria, El Cisne, El Relicario, El Dominado ó El Relicario, Emiliano Zapata, Villa Paraíso, Estación de Arellano, El Nutridor, Granja Paula Cecilia, Rancho Refugio de las Cotorinas, Localidades Sin Nombre, Lomas San Judas Tadeo, Rancho Alegre No. 15, Rancho Altavista, Rancho El Gigante, Rancho El Refugio No. 2, Rancho La Palma, El Rodeo y Santa Teresa.
+###### Artículo 4.
 
-A la Delegación Urbana Lic. Jesús Terán Peredo pertenece lo siguiente: Fraccionamiento Villa de Nuestra Señora de la Asunción Sector Estación, Fraccionamiento San José de Pozo Bravo, Fraccionamiento Constitución, Fraccionamiento Soberana Convención Revolucionaria, Fraccionamiento Villa de Nuestra Señora de la Asunción Sector Alameda, Arroyo El Molino, Fraccionamiento Villa de Nuestra Señora de la Asunción Sector Guadalupe, Club Futurama, Fraccionamiento Villa de Nuestra Señora de la Asunción Sector San Marcos, Fraccionamiento Conjunto Los Naranjos, Fraccionamiento Villas de la Convención, Fraccionamiento Libertad, Fraccionamiento Villa de Nuestra Señora de la Asunción Sector Encino, Fraccionamiento Pozo Bravo Norte, Fraccionamiento Rinconada Pozo Bravo, Fraccionamiento Pozo Bravo Sur, Baldío Cumbres, Fraccionamiento El Rosedal, Fraccionamiento Lomas de la Asunción, Baldío Cumbres, Fraccionamiento Pozo Bravo, Fraccionamiento Pintores Mexicanos, Fraccionamiento Villa Teresa, Claustros Loma Dorada, Desarrollo Especial Parque Ecológico México, Baldío Cumbres, Baldío Cumbres II, Fraccionamiento Licenciado Benito Palomino Dena, Fraccionamiento Cerro Alto, Fraccionamiento Lomas de Oriente I, Fraccionamiento Villa de la Loma, Fraccionamiento Pensadores Mexicanos, Fraccionamiento Parras, Desarrollo Especial El Cóbano, Fraccionamiento Mirador de las Culturas, Fraccionamiento Bosques del Prado Oriente, Ejido Las Cumbres, Desarrollo Especial El Cóbano, Fraccionamiento Las Cumbres, Fraccionamiento Las Hadas, Presa Santa Elena, Fraccionamiento Alianza Ferrocarrilera, Fraccionamiento Trojes del Cóbano, Fraccionamiento Los Arcos, Fraccionamiento Villas del Cóbano, Colonia Macías Arellano, Asentamiento Irregular Los Pericos, Condominio Andrea, Colonia Refugio Esparza Reyes, Fraccionamiento Luis Ortega Douglas, Colonia Progreso, Fraccionamiento El Cóbano, Fraccionamiento Lomas de Santa Anita IV Sección, Fraccionamiento Nazario Ortiz Garza, Condominio Misión del Cóbano, Fraccionamiento Los Laureles II, Fraccionamiento Hacienda El Cóbano, Fraccionamiento Villa Bonita, Fraccionamiento Los Laureles III, Fraccionamiento Los Laureles, Fraccionamiento La Estrella, Fraccionamiento Rodolfo Landeros Gallegos, Fraccionamiento El Maguey, Fraccionamiento C.N.O.P. Oriente, Fraccionamiento Lomas del Cóbano, Fraccionamiento Industrial, Condominio Recinto Colonial Los Arcos, XIV Zona Militar, Colinas de Oriente, Condominio Valle del Norte, Condominio Valle Esmeralda, Colonia Morelos, Fraccionamiento C.T.M., Unidad Habitacional Benito Juárez, Fraccionamiento Santa Anita I Sección, Fraccionamiento S.T.E.M.A., Fraccionamiento Vista de las Cumbres, Fraccionamiento Municipio Libre, Colonia El Riego, Fraccionamiento Lomas de Santa Anita, Fraccionamiento Santa Anita II Sección, Fraccionamiento Real de Haciendas, Fraccionamiento Haciendas de Aguascalientes, Unidad Habitacional Fidel Velázquez, Condominio Rinconada de la Alameda, Fraccionamiento Ojocaliente I, Desarrollo Especial Parque La Pona, Desarrollo Especial Ojocaliente, Fraccionamiento José Guadalupe Posada, (sic) Ejido Ojocaliente, Fraccionamiento Villerías, Vistas de Oriente, Parque IV Centenario, Fraccionamiento Ojocaliente III, Condominio Misión Alameda, Ex-Hacienda Ojocaliente, Ejido El Rocío, Condominio de la Alameda, Condominio La Mancha, Condominio La Hacienda, Multifamiliar Ojocaliente INEGI, Fraccionamiento Ojocaliente II, Fraccionamiento José Guadalupe Peralta Gámez, Fraccionamiento Solidaridad I, Condominio Las Plazas, Fraccionamiento Valle de los Cactus, Norias de Ojocaliente, El Colorado ó El Soyatal, El Conejal, El Trigo ó Tanque El Trigo, La Herrada, Comunidad El Rocío, Norias del Paso Hondo, El Hotelito, San José, Pozo Bravo, Hormiguero, El Socorro, Interpec San Marcos, El Crucero de Calvillito, La Laguna de los Adobes, Rancho Los Boyuyos, El Riego, La Torre, Ampliación de Calvillito, Bajío de los Carreones, Cumbres III, Rancho El Progreso, Rancho La Soledad, Ampliación del Ejido El Puertecito, Ejido El Puertecito ó La Higuerilla, Colonia El Riego, Fraccionamiento Guadalupe Posada, Loma Alta El Paraíso, El Polvorín ó Mirador TV Azteca, Pozo El Trigo, Rancho Santa Fe y Granja Francis.
+Del uso Racional y Responsable de los Recursos Públicos
 
-A la Delegación Urbana Insurgentes pertenece lo siguiente: Fraccionamiento El Edén, Desarrollo Especial Sidas, Fraccionamiento Parque Industrial El Vergel, Fraccionamiento La Barranca de Guadalupe, Col. Francisco Villa, Fraccionamiento Residencial Los Pirules, Desarrollo Especial Villasunción I, Fraccionamiento Hermanos Carreño, Fraccionamiento Las Torres, Condominio Los Eucaliptos II, INFONAVIT Los Pirules, Condominio Los Eucaliptos I, Santa Imelda, Fraccionamiento España, Fraccionamiento Jardines de Santa Elena, Fraccionamiento Jardines del Lago, Fraccionamiento Montebello, Fraccionamiento Valle Dorado, Canteras de San Agustín, Fraccionamiento Agricultura, Fraccionamiento El Dorado I Sección Fraccionamiento El Dorado II Sección, Fraccionamiento Canteras de San Javier, Fraccionamiento Villa Jardín I, Fraccionamiento Canteras de San José, Fraccionamiento Villa Jardín II, Fraccionamiento Jardines del Sur, Fraccionamiento Versalles I Sección, Boulevares I Sección, Fraccionamiento Trojes de San Agustín, Fraccionamiento Prados del Sur, Boulevares II Sección, Fraccionamiento José López Portillo, Fraccionamiento Versalles II Sección, Fraccionamiento Villas de la Cantera, Fraccionamiento Educación Álamos, Colonia Nueva España, Fraccionamiento Loma Bonita, Colonia Martínez Domínguez, Fraccionamiento Insurgentes, INFONAVIT Pilar Blanco, Condominio San Nicolás, Centro Comercial Villasunción, Fraccionamiento Licenciado Manuel Gómez Morín, Fraccionamiento Prados de Villasunción, Villasunción II, Colonia Vicente Guerrero, Fraccionamiento Ex-Hacienda La Cantera, Fraccionamiento Trojes del Sur, Fraccionamiento José Vasconcelos Calderón, Fraccionamiento Villas del Pilar, Fraccionamiento Villas del Mediterráneo, Unidad Habitacional Potreros del Oeste, Baldío Vicente Guerrero, Fraccionamiento Villas de San Antonio, Desarrollo Especial Centro de Abastos, Colonia San Pedro, Fraccionamiento Vistas del Sur, Fraccionamiento Villas del Oeste, Veteranos de la Revolución, Desarrollo Especial Granja San Juan, Fraccionamiento Villa de Santa Rosa, Fraccionamiento La Estancia, Fraccionamiento Torres de San Francisco, Fraccionamiento Rinconada del Sur, Rancho Santa Mónica, Fraccionamiento Casa Sólida, Condominio Centro de Abastos, Asentamiento Irregular San Francisco del Arenal II, Colonia San Francisco del Arenal, Parque Industrial Siglo XXI, Condominio Misión Juan Pablo II, Panteón San Francisco, Baldío, Granja San Luis, San Martín ó La Cantera, San Nicolás, Granja Adelita, Los Negritos, Coyotes, Granja San José, San Pascual, Santa Cruz de la Presa, Santa Cruz de la Presa ó La Tlacuacha, Santa Gertrudis, Granja El Edén, El Molino, Montoro, La Loma de los Negritos, Valle Redondo, La Fortuna, La Gloria, Viñedos Santa Mónica, Barandales de San José, El Centavito 2, Ciudad de los Niños, Cuernavaca, La Cueva de los Pericos ó Caitaime, Ex-Hacienda de Montoro, El Gigante ó Arellano, Rancho San Felipe, La Josefina, El Latifundio, El Lucero de la Cruz, Lomas del Picacho, El Potrerito, San Gerardo, San José del Portugal, San Francisco del Arenal, Vista Alegre II, Rancho San Pascual, Las Víboras, Los Barroso, San José de Buenavista, La Cotorra, Las Aguilillas, Delipollo Granja Calvillo, Centro de Neuropsiquiatría, La Florida, La Fortuna ó La Herradura, Granja La Luz, Las Isabeles, Marlborito, El Mirador, Nochtli, Presa Nueva, Rancho El Carmen, Rancho La Luz, San José del Río, San Andrés, San Nicolás de la Cantera, El Carmen, San Agustín, El Varal, El Columpio, Derivados de Fruta S.A. de C.V., Viñedos El Tajo, Viñedos San Francisco ó Las Cochineras, San Pablo ó Viñedos Santa Mónica, Granja Claudia, San José de Buenavista, El Carmen, San Juan del Río, Santa María, San Alonso ó Viñedos Santa Mónica, San Martín ó El Zorrillo, La Nueva Teresa, Aceros San Luis, Buenavista, Viñedos Aguascalientes ó Césped Ornamental, Club de Golf Picacho, Los Corales, Los Coyotes, Granja Gemelas, Granja San José, Huerta Marcela, Colonia Veteranos de la Revolución, La Lobera, Localidades Sin Nombre, La Manga del Toro, María Auxiliadora, Minerales Ganaderos, El Plan del Jaral, Potrero del Molino, La Providencia, El Rebozo, San Antonio, San Francisco, San Gabriel, Santa Isabel ó El Tajito, Termo Refrigerados de Aguascalientes, Urbacon, Viñedos El Quelite, El Potrero, Productora de Semillas y Cereales, Viñedos Valle Redondo, CERESO para Varones y Mujeres, Ejido Los Negritos, Granja El Molino, Hijas del Sagrado Corazón de Jesús, La Puerta al Paraíso, Quinta La Luna, Rancho El Picacho, San Miguelito, Xaropa y San José.
+Compromiso. El personal de la Secretaría de Economía debe utilizar los bienes, instalaciones, recursos humanos y financieros de la Secretaría, para cumplir con la misión de la misma, adoptando criterios de racionalidad, austeridad, disciplina y ahorro presupuestario.
 
-A la Zona Centro pertenece lo siguiente: Fraccionamiento Circunvalación Norte, Colonia Francisco Guel Jiménez, Desarrollo Especial Talleres de Ferrocarril, Colonia Gremial, INFONAVIT Las Viñas, Colonia Industrial, Condominio Rinconada Cristal, Colonia Buenos Aires, Fraccionamiento El Sol, Colonia San Pablo, Colonia Altavista, Colonia Miravalle, Fraccionamiento Primavera, Unidad Habitacional Torres Las Bugambilias, Colonia La Fe, Colonia del Trabajo, Fraccionamiento Zona Centro, Colonia del Carmen, Fraccionamiento Ferronales, Barrio de Guadalupe, Colonia Ferronales, Barrio de la Estación, Barrio de la Purísima, Colonia Heliodoro García, Condominio Guadalupe Posada, Fraccionamiento Gómez, Colonia Héroes, Unidad Habitacional Guadalupe Posada, Barrio de San Marcos, Barrio del Encino, Colonia El Llanito, Fraccionamiento Gámez, Fraccionamiento La Huerta, Colonia San Luis, Fraccionamiento Jardines de la Cruz, Colonia Obraje, Barrio de la Salud, Zona de la Feria, Fraccionamiento Modelo, Condominio Residencial El Encino, Colonia La Luna, Unidad Habitacional Lázaro Cárdenas, Colonia Las Flores, Unidad Habitacional Vivienda Militar, INFONAVIT San Fernando, Fraccionamiento Residencial El Encino, Condominio Virreyes, Unidad Habitacional Vivienda Popular, Fraccionamiento Héroes de Aguascalientes, Fraccionamiento Circunvalación Poniente, Unidad Habitacional IV Centenario, Fraccionamiento Triana, Jardines de Triana, Fraccionamiento SIDUSA, Fraccionamiento Las Fuentes, Fraccionamiento Los Cedros, Fraccionamiento Jesús Terán, Condominio Triana, Colonia Laurel, Fraccionamiento Santa Elena, Fraccionamiento Las Américas, Fraccionamiento Lindavista, Fraccionamiento El Caminero y Fraccionamiento Boulevard.
+Observar "cero tolerancia" a la corrupción, influyentísimo, compras o viáticos fuera de la normatividad, y en su caso, denunciar los actos de corrupción en que se vea involucrado el personal de la Secretaría de Finanzas.
 
-### CAPÍTULO II. Nombre y Escudo
+Debemos.
 
-###### ARTÍCULO 4°.
+Evitar la omisión de declarar, en los actos en que se tenga intervención, los posibles conflictos de interés, negocios y transacciones comerciales que de alguna manera haya tenido con personas u organizaciones inscritas en el Padrón de Proveedores.
 
-El Escudo del Municipio de Aguascalientes está cuartelado en cruz. El primer cuartel está partido en dos palos, en el siniestro hay una columna jónica de oro en campo de gules; en el diestro, una estrella de plata de cinco picos en campo de azur. El segundo cuartel tiene una rueda dentada en colores naturales sobre campo de oro. El tercer cuartel tiene una granada entreabierta, pintada en colores naturales sobre campo de sinople. El cuarto cuartel una imagen de fuego, pintado en colores naturales sobre campo fajado en dieciséis piezas de azur y plata. El escudo lleva un escusón sobre el todo, el cual tiene una bordura de esmalte púrpura, la cual ostenta en la parte superior la fecha "1575" y lleva, además, doce bezantes de oro, en el escusón pintada en colores naturales está la Virgen de Nuestra Señora de la Asunción. Remata el escudo un león alado que tiene la pata siniestra sobre los evangelios y está pintado con colores naturales. Bordea el escudo lateral e inferiormente, un listón de colores naturales en el que figura como divisa impresa una inscripción latina que dice: "Virtus in Aquis. Fidelitas in Pectoribus". Bajo el Escudo se asentará la leyenda "H. Ayuntamiento" seguido del Periodo Constitucional.
+Evitar la sustracción o plagio de bienes, servicios y/o programas propiedad de la Secretaría para fines personales.
 
-###### ARTÍCULO 5°.
+###### Artículo 5.
 
-Todas las oficinas públicas municipales deberán exhibir el Escudo del Municipio. Se deberá utilizar además en toda la papelería que utilice el gobierno municipal, pudiendo usarse adicionalmente otro logotipo que distinga a determinada administración municipal. La utilización del Escudo o nombre del Municipio con fines publicitarios o de identificación de negocios, empresas privadas o con cualquier otro objeto, deberá realizarse previo permiso y pago de derechos al Municipio, para tal efecto, deberá llevarse el libro de registros correspondientes.
+Del Uso Transparente y Responsable de la Información Interna
 
-### CAPÍTULO III. Fines del Municipio
+Compromiso. El personal de la Secretaría de Economía debe ofrecer a la sociedad los mecanismos adecuados para el acceso libre y transparente de la información generada en la Secretaría, siempre y cuando, ésta no se encuentre reservada por razones legales o bien, por respeto a la privacidad de terceras personas, en apego a la ley.
 
-###### ARTÍCULO 6°.
+Debemos.
 
-El Municipio de Aguascalientes, para lograr un desarrollo armónico y equilibrado de la vida social entre las personas que habitan o se establecen en el mismo, se propone como fines:
+Evitar la sustracción, destrucción, ocultamiento o utilización indebida de información bajo nuestro resguardo.
 
-I. Garantizar la tranquilidad, seguridad y bienes de las personas.
+Abstenerse de utilizar información oficial, que busque beneficios particulares y/o favorezca a terceras personas.
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+### Capítulo 1.- Disposiciones Generales
 
-II. Garantizar la moral y el orden público sin trato diferenciado por razones de género o cualquier otra.
+###### Artículo 6.
 
-III. Prestar adecuadamente los servicios públicos municipales.
+Del Respeto a los Derechos Humanos
 
-IV. Preservar y fomentar la educación y la cultura entre sus habitantes.
+Compromiso. El personal de la Secretaría de Economía debe promover, respetar, proteger y garantizar en el ejercicio de nuestras funciones los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
 
-V. Promover el desarrollo urbano y la planeación de todos los centros de población del Municipio.
+Debemos.
 
-VI. Promover y organizar la participación ciudadana para cumplir con los planes y programas municipales.
+Evitar la exclusión, trato diferenciado, negarse u omitir la realización de un trámite o servicio, motivado por razones discriminatorias, o cualquier otra que atente a la dignidad humana y anule o menoscabe los derechos y libertades de las personas.
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
-
-VII. Proveer los medios para la aplicación y acceso a la justicia en el marco de su competencia.
-
-VIII. Promover el desarrollo económico y el turismo local, para generar más oportunidades de empleo y el progreso del comercio y servicios, a través de la participación social.
-
-IX. Normar directa y libremente las materias de su competencia.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
-
-X. Promover la igualdad de género, la no discriminación y la no violencia en contra de las mujeres residentes en el Municipio.
-
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+Evitar situaciones que puedan poner en riesgo la vida e integridad del personal.
 
 ###### ARTÍCULO 6°
 
@@ -137,49 +143,159 @@ IX. El derecho a la libertad de profesar la religión y las creencias propias de
 
 X. El derecho a tener igualdad de acceso a las funciones públicas de su Municipio y a participar en los asuntos públicos, incluyendo la toma de decisiones.
 
-### CAPÍTULO IV. De la Población
+### Capítulo 2.- De las Obligaciones para Prevenir los Conflictos de Interés. Anexo 1.- Carta Compromiso
 
-###### ARTÍCULO 7°.
+MENSAJE DEL TITULAR DE LA SECRETARÍA DE FINANZAS
 
-Son habitantes del Municipio de Aguascalientes, las personas que residen habitual o transitoriamente dentro de su territorio. Tendrán las prerrogativas, derechos y obligaciones señalados en la Constitución Política del Estado y en la Legislación Municipal.
+Presento a ustedes el Código de Conducta, como un instrumento dirigido a los Servidores Públicos de la Secretaría de Finanzas, con el propósito de regirnos por los valores establecidos en el artículo 93 de la Carta Magna, buscando la modernización permanente de sus sistemas y procedimientos de trabajo, cumpliendo con la transparencia en el ejercicio de la función pública, y trabajando eficientemente para evitar la duplicidad o dispersión de funciones, y optimizando los recursos.
 
-###### ARTÍCULO 8°.
+Considerando que el Acuerdo por el que se dan a conocer los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, y que dicho cuerpo normativo es de observancia obligatoria y de aplicación general para los entes públicos. Así como el Acuerdo que establece las Reglas de Integridad para el Ejercicio de la Función Pública, el cual regirá la conducta de todas las personas servidoras públicas cualesquiera que fuese su adscripción y su inobservancia será sancionada conforme a la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
-Se consideran vecinos del Municipio de Aguascalientes:
+Por lo antes expuesto es que los exhorto a conocer y hacer suyo el presente Código de Conducta, adoptando por convicción y voluntad propia cada uno de los principios que de él emanan, a efecto de unir esfuerzos que contribuyan al fortalecimiento de la conducta ética en el buen quehacer público.
 
-I.- Las personas nacidas en el Municipio y que radiquen dentro de su territorio.
+MISIÓN
 
-II.- Las personas que tengan más de dos años con domicilio establecido en el Municipio y con residencia efectiva por ese lapso de tiempo.
+Administrar y asignar de manera honesta, transparente y eficiente los recursos públicos, para garantizar a Tamaulipas un crecimiento sostenido en la participación conjunta del gobierno y la sociedad.
 
-###### ARTÍCULO 9°.
+VISIÓN
 
-La calidad de vecino se pierde por:
+Ser una dependencia sólida en el ámbito de competencia, promoviendo una cultura tributaria en la sociedad, así como, una cultura de servicio en los servidores públicos, con un liderazgo renovado en cada una de las acciones que implique la administración de los recursos del estado.
 
-I.- Renuncia expresa ante la autoridad municipal.
+Apartado segundo: De los Alcances
 
-II.- Desempeñar cargos de elección popular de carácter municipal en otro Municipio distinto al de su vecindad.
+Prepararse para el desempeño eficiente de su empleo, cargo o comisión.
 
-III.- Ausencia de más de dos años del territorio municipal.
+I) Participar en los programas de capacitación y desarrollo profesional que implemente la Secretaría de Finanzas del Gobierno del Estado de Tamaulipas o las diversas áreas del Gobierno del Estado.
 
-IV.- Ausencia o presunción de muerte legalmente declarada por autoridad judicial.
+II) Poseer, conocer y observar la bibliografía relativa a sus funciones de la o el servidor público en el ejercicio de sus actividades.
 
-V.- Pérdida de la nacionalidad mexicana.
+III) Tener presente que la calidad es un medio para proyectar una nueva forma de atender los asuntos públicos.
 
-VI.- Manifestación expresa de residir en otro lugar.
+IV) Buscar permanentemente con las actividades laborales el cambio en la imagen de esta dependencia, así como incluir nuevos valores de desempeño.
 
-La declaración de pérdida de vecindad será realizada por el Ayuntamiento.
+V) Asumir a título personal el precepto de la "mejora continua", como un paradigma que será benéfico en los procedimientos individuales y colectivos, y por ende, impactar favorablemente las funciones de esta dependencia.
 
-###### ARTÍCULO 10.
+VI) Promover la certificación de las actividades ejecutadas en las áreas de trabajo.
 
-No se perderá la vecindad cuando la persona se traslade a residir a otro lugar para desempeñar una comisión o cargo de carácter oficial no permanente, o con motivo de estudios académicos, científicos o artísticos.
+VII) Actualizarse respecto a las innovaciones suscitadas en el campo de su conocimiento y/o de actuación e informar a su jefa o jefe inmediato, para determinar su posible implementación.
+
+VIII) Procurar elevar continuamente su nivel académico en beneficio personal y por ende, del servicio público.
+
+CÓDIGO PARA LA PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO DE TAMAULIPAS
+
+###### Artículo 7.
+
+Cumplir las funciones con Perspectiva de Género, atendiendo a los principios de Igualdad, Justicia y no Discriminación
+
+Compromiso. El personal de la Secretaría de Finanzas debe practicar una cultura de respeto y de igualdad de oportunidades entre mujeres y hombres. Las diferencias por motivo de género, ideología o nivel jerárquico no son obstáculo para el desarrollo profesional y personal en la Secretaría.
+
+Debemos.
+
+Evitar que se limite o impida la participación en los procesos de ingreso, permanencia, capacitación, audiencia y ascenso laboral, por factores de discriminación o cualquier otra que atente a la dignidad humana.
+
+Evitar usar un lenguaje que ofenda la dignidad humana.
+
+Evitar la promoción y/o ejercicio de violencia, rechazo, burla, injuria, persecución y/o exclusión.
+
+###### Artículo 8.
+
+Las y los servidores públicos de la Secretaría de Finanzas del Gobierno del Estado de Tamaulipas, a efecto de prevenir un conflicto de interés, deberán acatar las obligaciones siguientes:
+
+1. Cuando tenga interés personal, familiar o de negocios, debe:
+
+I) Excusarse de intervenir en la atención, tramitación o resolución de asuntos.
+
+II) Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese, rescisión de contrato o sanción de la o el servidor público.
+
+III) Abstenerse de aprovechar la posición que su empleo le confiere para inducir a que otra u otro servidor público efectúe, retrase u omita realizar algún acto de su competencia.
+
+En este caso, la o el servidor público deberá informar por escrito a la o el jefe inmediato sobre la atención, trámite o resolución de los asuntos a que hacen referencia los incisos anteriores, para que sean de su conocimiento, y observar las instrucciones por escrito sobre su atención, tramitación y resolución, cuando la o el servidor público no pueda abstenerse de intervenir en ellos.
+
+2. Abstenerse de solicitar, aceptar o recibir dinero, bienes en precio inferior al del mercado, donaciones, servicios o empleos de personas vinculadas, reguladas o supervisadas.
+
+Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión.
+
+3. Abstenerse de adquirir bienes inmuebles que pueden incrementar su valor por obras o inversiones públicas o privadas, que haya autorizado o conocido con motivo de su empleo.
+
+Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión.
+
+4. Establecer medidas preventivas al momento de ser informado como superior jerárquico, de un conflicto de (sic)
+
+Cuando un superior jerárquico se entere de que la o el servidor público bajo su cargo se encuentra en situación de conflicto de interés, podrá tomar las siguientes medidas:
+
+I) En un conflicto de interés potencial, supervisar con mecanismos de monitoreo y auditoría constante para detectar el momento en que el conflicto de interés, por algún cambio de circunstancia o contexto de la o el servidor público, se vuelva uno real.
+
+II) En un conflicto de interés aparente:
+
+a) Dialogar con la o el servidor público;
+
+b) Pedir aclaraciones o declaraciones públicas para evitar malentendidos;
+
+c) Mitigar las circunstancias que puedan conllevar al interés real;
+
+d) Evitar que la o el servidor público participe en el proceso; y
+
+e) Anular el procedimiento en riesgo que genere un conflicto de interés real.
+
+III) En un conflicto de interés real:
+
+a) Analizar los hechos para aclarar la situación real;
+
+b) Excluir o separar a la persona en cuestión del procedimiento, o gestionar esta acción cuando no se tengan facultades para ello;
+
+c) Cambiar el reparto de funciones y responsabilidades del personal, o gestionar esta acción cuando no se tengan facultades para ello;
+
+d) Cancelar, en última instancia, el procedimiento; y
+
+e) Sugerir que se venda el negocio, acciones o propiedades.
+
+5. La o el servidor público que deje de desempeñar su empleo, cargo o comisión deberá observar, hasta un año después de haber concluido sus funciones, lo siguiente:
+
+I) En ningún caso aprovechará su influencia u obtendrá alguna ventaja derivada de la función desempeñada, para sí o para las personas con quien tenga interés personal, familiar o de negocios; y
+
+II) No usar en provecho propio o de terceros, la información o documentación a la que haya tenido acceso en su empleo, cargo o comisión y que no sea del dominio público.
+
+###### Artículo 9.
+
+Acciones de Difusión.- El personal de la Secretaría de Economía es el principal promotor de los valores, principios y conductas, por lo que tenemos la obligación de dar difusión del presente Código en nuestras áreas respectivas, así como fomentar un ambiente de confianza y armonía donde el personal pueda reportar sus inquietudes.
+
+El Comité garantizará la difusión, promoción y conocimiento del Código de Conducta entre las personas servidoras públicas de la dependencia o entidad, para lo cual aprovecharán el uso de los medios de comunicación interna, así como a través de infografías, banners, publicaciones u otros medios, generando la evidencia documental correspondiente de las actividades realizadas.
+
+###### Artículo 10.
+
+Acciones de Prevención. El Conflicto de interés, es la posible afectación del desempeño imparcial y objetivo de las funciones de los servidores públicos en razón de intereses personales, familiares o de negocios, en donde pueda beneficiarse con motivo de su encargo, a su cónyuge, parientes consanguíneos o por afinidad hasta el cuarto grado, parientes civiles, terceros con los que tenga relaciones profesionales, laborales, de negocios, socios o sociedades antes referidas, formen o hayan formado parte, entre otros casos análogos.
 
 # LIBRO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 11.
+###### Artículo 11.
 
-El H. Ayuntamiento del Municipio de Aguascalientes es el órgano colegiado de gobierno de la administración pública municipal, que tiene competencia sobre su territorio, población, organización política y administrativa, en los términos que fijen las leyes respectivas y posee personalidad jurídica y patrimonio propio.
+De la Instancia encargada de la interpretación, consulta y asesoría. La interpretación para efectos administrativos, así como la consulta, asesoría, atención y solución de los casos no previstos en el presente Código, corresponde a la persona titular de la Presidencia del Comité, la cual puede solicitar la opinión de las personas integrantes del Comité.
+
+En la interpretación y aplicación del presente Protocolo, se deberán considerar los derechos expresados en la Constitución Política de los Estados Unidos Mexicanos, así los principios, valores y reglas de integridad definidos en el Código de Ética del Poder Ejecutivo del Estado de Tamaulipas
+
+Cd. Victoria, Tamaulipas, a 06 de junio de 2025.
+
+ATENTAMENTE.- SECRETARIO DE FINANZAS DEL GOBIERNO DEL ESTADO DE TAMAULIPAS DR. JESÚS LAVÍN VERÁSTEGUI.- Rúbrica.
+
+Anexo 1. Carta Compromiso
+
+Carta Compromiso Yo C. (Nombre de la persona servidora pública) servidor público adscrito a la Secretaría de Finanzas del Gobierno del Estado de Tamaulipas, MANIFIESTO que he LEÍDO Y COMPRENDIDO el Código de Ética del Poder Ejecutivo del Estado de Tamaulipas, las Reglas de Integridad para el Ejercicio de la Función Pública, y el Código de Conducta y Prevención de Conflictos de Interés de la Secretaría de Finanzas, y demás Procedimientos y Protocolos emitidos por el Comité.
+
+Los cuales establecen el marco ético y la guía de conducta que estoy obligado a observar en el desarrollo de mi empleo, cargo o comisión, por lo cual ME COMPROMETO A CUMPLIRLOS Y APLICARLOS; así como a DENUNCIAR ante la instancia correspondiente cualquier acto en el que se observe un incumplimiento a los mismos haciéndolo con responsabilidad y respeto.
+
+Por lo anterior, estoy de acuerdo en que deberé ceñir mi comportamiento a lo establecido por los documentos mencionados en el primer párrafo de esta carta, consciente de las posibles sanciones y responsabilidades en que pudiera incurrir en caso de su incumplimiento.
+
+Cd. Victoria, Tamaulipas, a (día) de (mes) de (año).
+
+A t e n t a m e n t e
+
+Nombre de la persona servidora pública
+
+Puesto
+
+Número de empleado
 
 ###### ARTÍCULO 12.
 
@@ -189,9 +305,7 @@ El Presidente Municipal, Regidores y Síndicos integran el H. Ayuntamiento del M
 
 Corresponde a los integrantes del H. Ayuntamiento, la facultad de supervisar y vigilar preferentemente las dependencias a cargo de las Comisiones, permanentes o especiales que se les asignen, pudiendo en todo momento requerir al titular de aquellas, la información necesaria para el debido cumplimiento de sus funciones.
 
-### CAPÍTULO I. De las Autoridades Municipales
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2008)</small>
+### CAPÍTULO 1.- DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 14.
 
@@ -291,7 +405,7 @@ XXX. Comité de Actividades Musicales.
 
 XXXI. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer en las áreas que considere convenientes.
 
-### CAPÍTULO II. De las Funciones de las Autoridades Municipales
+### CAPITULO 2.- DE LAS OBLIGACIONES PARA PREVENIR LOS CONFLICTOS DE INTERÉS
 
 ###### ARTÍCULO 16.
 
@@ -2681,20 +2795,6 @@ V. Formar parte del Sistema Estatal de Archivos.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
 
-###### ARTÍCULO 166
-
-BIS.- El Archivo Histórico Municipal tendrá por objeto:
-
-I. Resguardar, mantener, catalogar y difundir los documentos que hayan cumplido su vida útil y que le transfiera el Archivo Administrativo al cabo de treinta años, contados desde la fecha de su producción.
-
-II. Realizar tareas que ayuden a incrementar y preservar su acervo histórico a través del rescate y/o adquisición de material bibliográfico, hemerográfico, fotográfico, audiovisual y de cualquier otro formato que permita integrar evidencias históricas municipales, estatales y regionales.
-
-III. Fomentar la investigación histórica entre su propio cuerpo de investigadores y entre profesionales, estudiantes e interesados en la materia.
-
-IV. Difundir los resultados de las investigaciones que se generen en su interior por los medios más adecuados, así como promover eventos, foros y presentaciones de libros que apunten a la divulgación de la memoria histórica del Municipio y promuevan la cultura en general.
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
-
 ###### ARTÍCULO 167.
 
 los fondos documentales que integran el Archivo Administrativo Municipal son:
@@ -2708,36 +2808,6 @@ III. Fondo Constancias de Servicio: Resguarda las nóminas de los empleados muni
 IV. Oficialía de Partes: Se encarga de la recepción y entrega de correspondencia de las diferentes dependencias o unidades que integran a la Administración Pública Municipal, tanto la que se recibe en la Oficialía de Partes como en el Apartado Postal del Servicio Postal Mexicano, además de dar el servicio de enmicado, engargolado, fotocopiado y la supervisión del buen funcionamiento del equipo de fotocopiado arrendado que se encuentra en las diferentes dependencias o unidades de la Administración Pública Municipal.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
-
-###### ARTÍCULO 167
-
-BIS.- Los fondos documentales que integran el Archivo Histórico Municipal son:
-
-I. Fondo Histórico: Está integrado por la documentación que concluyó su vida útil para la Administración Pública Municipal.
-
-II. Fondo Bibliohemerográfico, integrado por:
-
-a) Biblioteca: Se compone de obras dedicadas principalmente a la historia local y regional.
-
-b) Hemeroteca: Se compone de diarios, periódicos oficiales y de prensa comercial que deberán ser sistemáticamente actualizados. Asimismo, deberá contar con una recopilación actualizada de Leyes, Decretos, Reglamentos y Bandos que tengan relación con el Estado y el Municipio de Aguascalientes.
-
-III. Fondo Gráfico e Impreso, integrado por:
-
-a) Fototeca: Está formada por fotografías de administraciones pasadas, así como de todas las imágenes que documenten el pasado de la ciudad y el Municipio de Aguascalientes y que sean adquiridas por compra y/o donación.
-
-b) Planoteca: Formada por planos totales o parciales de la Ciudad y el Municipio, producidos por las unidades administrativas del Gobierno Municipal y por todas aquellas entidades públicas y privadas, los cuales sean de relevancia por su carácter histórico.
-
-c) Folletos, carteles, boletos y demás impresos que se consideren pertinentes.
-
-IV. Fondo Audiovisual, integrado por:
-
-a) Grabaciones en audio y video, documentales, corto y largo metrajes que den cuenta de la historia de la ciudad, el Municipio y, en su caso, la región y el país.
-
-El Archivo puede crear los fondos digitales o de cualquier formato que, en su momento, considere pertinentes para la conservación y difusión de la memoria histórica municipal.
-
-Los autores de investigaciones realizadas en base al material que se localiza en este acervo deberán donar un ejemplar de su publicación al mismo archivo.
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 168.
 
@@ -2844,10 +2914,6 @@ IV. Si procede, el Consejo levantará un acta, autorizando la depuración al Arc
 V. Concluida la revisión y confirmando el cotejo, el personal del archivo procederá a la destrucción física de la documentación mencionada.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
-
-###### ARTÍCULO 177
-
-BIS.- Cumplidos treinta años desde la fecha de producción de los documentos, el Archivo Administrativo Municipal deberá hacer su transferencia al Archivo Histórico Municipal de forma organizada y ordenada, conforme a un acta diseñada de acuerdo a las necesidades de dicha transferencia.
 
 ###### ARTÍCULO 178.
 
