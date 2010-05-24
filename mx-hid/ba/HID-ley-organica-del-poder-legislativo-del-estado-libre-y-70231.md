@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2010-04-19"
+last_updated: "2010-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -747,9 +747,13 @@ XXIV.- Comisión de Ciencia y Tecnología;
 
 XXV.- Comisión de Turismo;
 
-XXVI.- Comisión de Transparencia y Acceso a la Información Pública Gubernamental; y
+XXVI.- Comisión de Transparencia y Acceso a la Información Pública Gubernamental; y (sic)
 
-XXVII.- Comisión de Cultura.
+XXVII.- Comisión de Cultura;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2010)</small>
+
+XXVIII.- Comisión de los Adultos Mayores.
 
 Los Diputados que integren estas Comisiones, fungirán durante todo el Ejercicio Constitucional. Cuando las circunstancias lo justifiquen, el Pleno aprobará las modificaciones que se estimen pertinentes.
 
@@ -1489,7 +1493,7 @@ III.- Coordinación de Asesoría;
 
 IV.- Dirección General de Servicios Administrativos;
 
-V.- Instituto de Estudios Legislativos;
+V.- Instituto de Estudios legislativos;
 
 VI.- Centro de Desarrollo y Estudios Municipales; y
 
@@ -1858,5 +1862,9 @@ LIC. MIGUEL ANGEL OSORIO CHONG.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE ABRIL DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE MAYO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
