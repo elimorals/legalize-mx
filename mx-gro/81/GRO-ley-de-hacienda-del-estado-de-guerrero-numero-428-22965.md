@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-del-estado-de-guerrero-numero-428-22965"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2009-12-29"
+last_updated: "2010-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA DEL ESTADO DE GUERRERO, NUMERO 428
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -1547,19 +1547,19 @@ III.- Emitir de manera personal el dictamen técnico plasmado en el avalúo con 
 
 IV.- La vigencia del Avalúo con Fines Fiscales será de seis meses, contados a partir de la fecha de su autorización.
 
-###### ARTÍCULO 69.
+###### ARTICULO 69.
 
 Para obtener el registro como Perito Valuador de bienes inmuebles ante la Secretaría de Finanzas y Administración del Gobierno del Estado, se deberá cumplir con los requisitos establecidos en el Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero.
 
-###### ARTÍCULO 70.
+###### ARTICULO 70.
 
 Para obtener la revalidación del Registro como Perito Valuador de bienes inmuebles se deberá cumplir con los requisitos establecidos en el Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero.
 
-###### ARTÍCULO 71.
+###### ARTICULO 71.
 
 La Secretaría de Finanzas y Administración del Gobierno del Estado, asumirá la facultad de autorizar los Avalúos para Fines Fiscales, elaborados por los peritos valuadores inscritos en el Registro Estatal.
 
-###### ARTÍCULO 72.
+###### ARTICULO 72.
 
 Los Avalúos con Fines Fiscales formulados por los Peritos Valuadores inscritos en el Registro Estatal, quedarán sujetos al control y supervisión de la Secretaría de Finanzas y Administración del Gobierno del Estado.
 
@@ -1571,7 +1571,7 @@ En los Avalúos para Fines Fiscales que se elaboren se utilizará el formato que
 
 Los valores unitarios de suelo y de construcción que se utilicen en los avalúos con fines fiscales, serán autorizados por la Secretaría de Finanzas y Administración del Gobierno del Estado, mismos que podrán ser elaborados con apoyo de las diferentes asociaciones legalmente constituidas que en materia de valuación inmobiliaria existen en la entidad, y serán objeto de actualización al inicio de cada ejercicio fiscal.
 
-###### ARTÍCULO 74.
+###### ARTICULO 74.
 
 No surtirán efectos para fines fiscales los avalúos formulados por Peritos Valuadores que no estén autorizados e inscritos en el Registro Estatal.
 
@@ -2933,13 +2933,23 @@ Por la reposición de documentos expedidos por esta Secretaria tales como, dicta
 
 ### CAPITULO XIII. DERECHOS DIVERSOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 97.
 
-Por el registro de los libros de notarías, por cada uno 8.79
+Se cobrarán como derechos diversos, por el ejercicio notarial, los siguientes:
+
+I. Autorización de libro para protocolo cerrado 11.04
+
+II. Autorización de libros de control de instrumentos 5.54
+
+III. Autorización de 150 folios para protocolo abierto 11.04
+
+IV. Expedición de folios para protocolo abierto .039
+
+V. Autorización de libro de certificaciones fuera de protocolo 7.73
+
+VI. Autorización de libro de control de folios 5.54
 
 ###### ARTICULO 98.
 
@@ -4606,3 +4616,9 @@ El presente Decreto entrará en vigor el primero de enero del año dos mil diez.
 ###### ARTICULO SEGUNDO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE MAYO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
