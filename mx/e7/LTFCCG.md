@@ -4,7 +4,7 @@ identifier: "LTFCCG"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2007-06-15"
+last_updated: "2010-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LTFCCG"
 
 LEY DE TRANSPARENCIA Y DE FOMENTO A LA COMPETENCIA EN EL CREDITO GARANTIZADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2010.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 2002.
 
@@ -348,6 +348,14 @@ La Comisión Nacional Bancaria y de Valores respecto de las entidades financiera
 
 A efecto de lograr plenamente el objetivo de disminuir los costos de transacción para la Subrogación de Deudor y la Subrogación de Acreedor conforme a los artículos 13, 14 y 15 de la presente Ley, la Secretaría de Economía podrá celebrar convenios de coordinación con los Estados y Municipios para eliminar los costos registrales y los aranceles notariales, procurando que en los casos de subrogación no se carguen los mismos costos de una nueva transacción, y si es posible, eliminarlos. Lo anterior, con el objeto de beneficiar a los acreditados incentivar la reactivación del crédito.
 
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2010)</small>
+
+Artículo 19 bis.- En los Créditos con garantía hipotecaria, las Entidades deberán otorgar ante el fedatario público que corresponda, la escritura donde conste la extinción de dicho gravamen una vez que el acreditado haya pagado el saldo insoluto garantizado o por cualquier causa el referido crédito se haya extinguido.
+
+La Entidad deberá poner a disposición del acreditado el primer testimonio del instrumento público respectivo dentro de los sesenta días hábiles siguientes a la fecha en que se haya extinguido el referido crédito.
+
+En el caso de que la ley de la materia no exija instrumento público para la liberación del gravamen, la Entidad en un lapso no mayor a veinte días deberá de hacer entrega al acreditado de la constancia de liberación de la obligación a su cargo, por cumplimiento para su inscripción en el Registro Público de la Propiedad y del Comercio, corriendo a cargo de la Entidad las certificaciones o ratificaciones de firma ante notario para la cancelación.
+
 ## TRANSITORIOS
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
@@ -417,3 +425,21 @@ Al entrar en vigor el presente Decreto se derogan de la Ley General de Organizac
 ###### ARTÍCULO OCTAVO.
 
 Las disposiciones de carácter general que el Banco de México haya emitido en materia de publicidad, estados de cuenta o contratos de adhesión dirigidas a las instituciones de crédito o sociedades financieras de objeto limitado continuarán vigentes hasta en tanto entren en vigor las disposiciones de carácter general que, conforme a lo previsto en este ordenamiento, expida la Comisión Nacional Bancaria y de Valores respecto de los temas mencionados.
+
+D.O.F. 25 DE MAYO DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Banco de México expedirá las disposiciones de carácter general a que se refiere el artículo 4 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros en un plazo de sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto.
+
+Tercero. Las Entidades contarán con un plazo de noventa días naturales, contados a partir del día siguiente a la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el artículo 4 Bis 1 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 48 Bis 2 de la Ley de Instituciones de Crédito en materia de producto básico de tarjeta de crédito.
+
+Cuarto. Las Personas que operen antes de la entrada en vigor del presente Decreto como Cámaras de Compensación en términos de lo dispuesto por los artículos 19 y 19 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, tendrán un plazo de noventa días naturales contados a partir de la fecha en que entren en vigor las disposiciones de carácter general que se emitan al amparo de los citados preceptos, para presentar la solicitud de autorización respectiva.
+
+Quinto. Las Sociedades contarán con un plazo de ciento ochenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto para cumplir con las obligaciones a que se refieren los artículos 2 y 36 Bis de la Ley para Regular las Sociedades de Información Crediticia.
+
+Las Sociedades de Información Crediticia contarán con un plazo de hasta ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para presentar a la Comisión el acuerdo mencionado en el artículo 36 de la citada Ley.
+
+Las sociedades de información crediticia deberán obtener la autorización de la Comisión Nacional Bancaria y de Valores respecto de las tarifas que dichas sociedades deberán ofrecer a sus Usuarios por los reportes de crédito, en términos del artículo 36 Bis de la Ley para Regular las Sociedades de Información Crediticia dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Sexto. Para los efectos del artículo 20, las Sociedades deberán eliminar, en un plazo no mayor a 90 días naturales, de sus bases de datos los registros cuyo origen no haya sido informado por los Usuarios con anterioridad a la presente reforma. Para su reinscripción, los Usuarios deberán especificar las fechas de origen del crédito y de su primer incumplimiento, éste último no podrá ser mayor a 72 meses.
