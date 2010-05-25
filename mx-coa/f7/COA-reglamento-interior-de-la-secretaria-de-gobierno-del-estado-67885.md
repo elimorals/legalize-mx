@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-07"
-last_updated: "2007-06-08"
+last_updated: "2010-05-25"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 25 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 7 de junio de 2006.
 
@@ -1504,3 +1506,17 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Se Derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Con la finalidad de armonizar las actuaciones dentro de la administración pública estatal se convalidan las acciones realizadas.
+
+P.O. 25 DE MAYO DE 2010.
+
+PRIMERO.- El presente reglamento interior entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se deja sin efectos el Reglamento Interior de la Secretaría de Gobierno, sus reformas y adiciones, publicado en el Periódico Oficial del Gobierno del Estado de fecha 7 de junio de 2006 y se derogan todas las disposiciones que se opongan al presente reglamento.
+
+TERCERO.- Los manuales de organización precisarán lo no previsto en el presente reglamento en lo que se refiere a la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas de la Secretaría.
+
+CUARTO.- Se abroga el Decreto que crea el Instituto de Capacitación para el Trabajo del Estado de Coahuila publicado en el Periódico Oficial del Gobierno del Estado No. 84 del 21 de octubre de 1994.
+
+QUINTO.- Se instruye a la Secretaría de la Función Pública para que lleve a cabo los procedimientos y trámites necesarios para la extinción del Instituto de Capacitación para el Trabajo del Estado de Coahuila.
+
+SEXTO.- El mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo del Instituto de Capacitación para el Trabajo del Estado de Coahuila pasarán a los activos y patrimonio de la Secretaría.
