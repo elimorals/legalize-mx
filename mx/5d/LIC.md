@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2009-08-13"
+last_updated: "2010-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -2522,13 +2522,21 @@ El Banco de México, de oficio o a petición de cualquier interesado, podrá ver
 
 Contra las resoluciones por las que el Banco de México imponga alguna multa, procederá el recurso de reconsideración previsto en los artículos 64 y 65 de la Ley del Banco de México, el cual será de agotamiento obligatorio y deberá interponerse dentro de los 15 días hábiles bancarios siguientes a la fecha de notificación de tales resoluciones. Respecto de lo que se resuelva en ese medio de defensa, se estará a lo previsto en el último párrafo del artículo 65 de la Ley del Banco de México. La ejecución de las resoluciones de multas se hará conforme a los artículos 66 y 67 de la Ley del Banco de México.
 
-> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 48 Bis 2.
 
-Las instituciones de crédito que reciban depósitos bancarios de dinero a la vista de personas físicas, estarán obligadas a ofrecer un producto básico bancario de depósito, incluyendo un producto de nómina, en los términos y condiciones que determine el Banco de México mediante disposiciones de carácter general, considerando que aquellas cuentas cuyo abono mensual no exceda el importe equivalente a ciento sesenta y cinco salarios mínimos diarios vigente en el Distrito Federal, estén exentas de cualquier comisión por apertura, retiros y consultas en la institución que otorgue la cuenta.
+Las instituciones de crédito que reciban depósitos bancarios de dinero a la vista de personas físicas, estarán obligadas a ofrecer un producto básico bancario de nómina de depósito o ahorro, en los términos y condiciones que determine el Banco de México mediante disposiciones de carácter general, considerando que aquellas cuentas cuyo abono mensual no exceda el importe equivalente a ciento sesenta y cinco salarios mínimos diarios vigente en el Distrito Federal, estén exentas de cualquier comisión por apertura, retiros y consultas o por cualquier otro concepto en la institución que otorgue la cuenta. Además, estarán obligadas a ofrecer un producto con las mismas características para el público en general.
 
 El Banco de México, considerará la opinión que las instituciones de crédito obligadas, le presenten sobre el diseño y oferta al público del producto señalado en el párrafo que antecede.
+
+Las instituciones de crédito que otorguen a personas físicas aperturas de crédito en cuenta corriente asociados a tarjetas de crédito, estarán obligadas a mantener a disposición de sus clientes que sean elegibles como acreditados, un producto básico de tarjeta de crédito cuya finalidad sea únicamente la adquisición de bienes o servicios, con las siguientes características:
+
+I. Su límite de crédito será de hasta doscientas veces el salario mínimo general diario vigente en el Distrito Federal;
+
+II. Estarán exentos de comisión por anualidad o cualquier otro concepto; y
+
+III. Las instituciones no estarán obligadas a incorporar atributos adicionales a la línea de crédito de dicho producto básico.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2007)</small>
 
@@ -2556,9 +2564,17 @@ Por lo que respecta a la liquidación de operaciones activas, la institución re
 
 La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros establecerá mediante disposiciones de carácter general los requisitos y procedimientos para llevar a cabo la mecánica de terminación de operaciones, así como los trámites de liquidación y cancelación por parte de la institución receptora. Dicha Comisión atenderá las reclamaciones que se susciten por la aplicación de este artículo en términos de la Ley de Protección y Defensa al Usuario de Servicios Financieros.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 25 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 49.
 
-(DEROGADO, D.O.F. 15 DE JUNIO DE 2007)
+Las instituciones de crédito deberán recibir los requerimientos de sus clientes para dar por terminados los contratos de adhesión que hubieren celebrado y, en su caso, liquidar las operaciones activas o pasivas pendientes, en términos de la normatividad aplicable, en cualquier sucursal o en las oficinas de la institución de crédito correspondiente, cuando ésta no cuente con sucursales para la atención al público.
+
+El cliente, siempre y cuando así se hubiere pactado con la institución de crédito, podrá presentar la citada manifestación a través de equipos, medios electrónicos, ópticos o de cualquier otra tecnología, sistemas automatizados de procesamiento de datos y redes de telecomunicaciones, ya sean privados o públicos.
+
+Los clientes de las instituciones de crédito podrán realizar los requerimientos a que se refiere este artículo por medio de otra institución de crédito que vaya a actuar como receptora de las operaciones respectivas, en cuyo caso podrá efectuar los trámites para llevar a cabo la cancelación de los referidos contratos y, en su caso, la liquidación de las operaciones, bajo su responsabilidad y sin comisión por tales gestiones. Para los efectos de lo dispuesto en este párrafo la institución receptora deberá recibir las solicitudes por escrito en la sucursal.
+
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, establecerá mediante disposiciones de carácter general, los requisitos y procedimientos para llevar a cabo lo dispuesto en el párrafo anterior.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -3892,7 +3908,7 @@ I. Multa por el equivalente del 1% hasta el 4% del importe de la operación de q
 
 II. Multa del 5% hasta el 15% del importe de la operación de que se trate o, en caso de que no se pueda determinar el monto de la operación, de 10,000 a 30,000 días de salario, a las instituciones de crédito que contravengan lo dispuesto por las fracciones III, IV, X, XVI, XVII y XIX, incisos b, c, d, e, f y h del artículo 106 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 108 Bis 2.
 
@@ -3910,7 +3926,7 @@ La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios
 
 Cuando una institución de crédito, por una acción u omisión, incurra en una infracción que se refleje en múltiples operaciones o documentos, se considerará como una sola infracción, para efectos de la sanción.
 
-> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 108 Bis 1.
 
@@ -3930,7 +3946,7 @@ b) A la persona que, en contravención a lo dispuesto por los artículos 2o, 7o 
 
 c) A las personas que, en contravención a lo dispuesto por el artículo 45-C de esta Ley, se organicen u operen como filiales sin contar con autorización de la Secretaría de Hacienda y Crédito Público.
 
-> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 109.
 
@@ -6097,3 +6113,21 @@ CUARTO.- Las referencias que otras Leyes, reglamentos o disposiciones hagan resp
 QUINTO.- El Ejecutivo Federal realizará sus mejores esfuerzos para difundir los beneficios de la presente reforma entre los ahorradores y las Sociedades Cooperativas de Ahorro y Préstamo.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 25 DE MAYO DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Banco de México expedirá las disposiciones de carácter general a que se refiere el artículo 4 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros en un plazo de sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto.
+
+Tercero. Las Entidades contarán con un plazo de noventa días naturales, contados a partir del día siguiente a la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el artículo 4 Bis 1 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 48 Bis 2 de la Ley de Instituciones de Crédito en materia de producto básico de tarjeta de crédito.
+
+Cuarto. Las Personas que operen antes de la entrada en vigor del presente Decreto como Cámaras de Compensación en términos de lo dispuesto por los artículos 19 y 19 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, tendrán un plazo de noventa días naturales contados a partir de la fecha en que entren en vigor las disposiciones de carácter general que se emitan al amparo de los citados preceptos, para presentar la solicitud de autorización respectiva.
+
+Quinto. Las Sociedades contarán con un plazo de ciento ochenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto para cumplir con las obligaciones a que se refieren los artículos 2 y 36 Bis de la Ley para Regular las Sociedades de Información Crediticia.
+
+Las Sociedades de Información Crediticia contarán con un plazo de hasta ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para presentar a la Comisión el acuerdo mencionado en el artículo 36 de la citada Ley.
+
+Las sociedades de información crediticia deberán obtener la autorización de la Comisión Nacional Bancaria y de Valores respecto de las tarifas que dichas sociedades deberán ofrecer a sus Usuarios por los reportes de crédito, en términos del artículo 36 Bis de la Ley para Regular las Sociedades de Información Crediticia dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Sexto. Para los efectos del artículo 20, las Sociedades deberán eliminar, en un plazo no mayor a 90 días naturales, de sus bases de datos los registros cuyo origen no haya sido informado por los Usuarios con anterioridad a la presente reforma. Para su reinscripción, los Usuarios deberán especificar las fechas de origen del crédito y de su primer incumplimiento, éste último no podrá ser mayor a 72 meses.
