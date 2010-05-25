@@ -4,7 +4,7 @@ identifier: "LRSIC"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-15"
-last_updated: "2009-01-20"
+last_updated: "2010-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22829&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRSIC"
 
 LEY PARA REGULAR LAS SOCIEDADES DE INFORMACION CREDITICIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2010.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 15 de enero de 2002.
 
@@ -80,13 +80,13 @@ VI. Condusef, la Comisión Nacional para la Protección y Defensa de los Usuario
 
 VII. Profeco, la Procuraduría Federal del Consumidor;
 
-> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2010)</small>
 
-VIII. Reporte de Crédito, la información formulada documental o electrónicamente por una Sociedad para ser proporcionada al Usuario que lo haya solicitado en términos de esta ley, que contiene el historial crediticio de un Cliente, sin hacer mención de la denominación de las Entidades Financieras, Empresas Comerciales o Sofomes E.N.R. acreedoras;
+VIII. Reporte de Crédito, la información formulada documental o electrónicamente por una Sociedad para ser proporcionada al Usuario que lo haya solicitado en términos de esta ley, que cumpla con los requisitos del artículo 36 Bis de esta ley, sin hacer mención de la denominación de las Entidades Financieras, Empresas Comerciales o sofomes E.N.R., acreedoras;
 
-> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2010)</small>
 
-IX. Reporte de Crédito Especial, la información formulada documental o electrónicamente por una Sociedad que contiene el historial crediticio de un Cliente que lo solicita, en términos de esta ley y que incluye la denominación de las Entidades Financieras, Empresas Comerciales o Sofomes E.N.R. acreedoras;
+IX. Reporte de Crédito Especial, la información formulada documental o electrónicamente por una Sociedad que contenga el historial crediticio de un Cliente que lo solicita en términos de esta ley, que cumpla con los requisitos del artículo 36 Bis de esta ley, y que incluye la denominación de las Entidades Financieras, Empresas Comerciales o sofomes E.N.R., acreedoras;
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -310,6 +310,10 @@ Las Sociedades estarán sujetas a la inspección y vigilancia de la Comisión, a
 
 Las Sociedades deberán proporcionar la información y documentos que el Banco de México y la Comisión determinen mediante disposiciones de carácter general, con el fin de que cumplan con sus funciones, en términos de la ley que les corresponda. Asimismo, las Sociedades deberán proporcionar a dichas autoridades, en los plazos y a través de los medios que éstas establezcan, la información que requieran con el propósito de supervisión y divulgación estadística.
 
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2010)</small>
+
+La Comisión estará facultada para solicitar un informe trimestral a las Sociedades sobre el estado que guarda el proceso de borrado de registros en los términos de la presente ley. Las bases de datos que las Sociedades proporcionen a la Comisión podrán ser conservadas por ésta durante tres meses para su cotejo, estando obligados a destruirlas cuando haya fenecido éste último plazo. La Comisión no podrá proporcionar esta información a ningún tercero.
+
 ###### Artículo 18.
 
 A las Sociedades les estará prohibido:
@@ -332,17 +336,39 @@ III. No inicie actividades dentro de los seis meses posteriores a la fecha en qu
 
 IV. Infrinja reiteradamente lo dispuesto por el artículo 35 de la presente ley;
 
-V. Altere, modifique o elimine reiteradamente algún registro de su base de datos, salvo los supuestos previstos en esta ley, y
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2010)</small>
 
-VI. Infrinja de manera grave o reiterada esta ley o cualquier otra disposición aplicable.
+V. Altere, modifique o elimine reiteradamente algún registro de su base de datos, salvo los supuestos previstos en esta ley;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2010)</small>
+
+VI. Omitan de manera reiterada aplicar las tarifas que determine la Comisión en términos de los artículos 36 ó 36 Bis de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2010)</small>
+
+VII. Omitan de manera reiterada transmitir o actualizar a otras Sociedades la información prevista en esta ley, y
+
+VIII. Infrinja de manera grave o reiterada esta ley o cualquier otra disposición aplicable.
+
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2010)</small>
+
+###### Artículo 19 Bis.
+
+La Comisión podrá, previo derecho de audiencia de las Sociedades, suspender o limitar de manera parcial la realización de las actividades necesarias para la realización de su objeto, en términos de esta ley, cuando dichas actividades se ubiquen en cualquiera de los supuestos siguientes:
+
+I. Se incumpla de manera reiterada con lo dispuesto en esta ley o en las disposiciones de carácter general que de ella emanen;
+
+II. Se realicen operaciones prohibidas o que no le estén expresamente permitidas o autorizadas en términos de esta ley o en las disposiciones que de ella emanen.
+
+La orden de suspensión a que se refiere este artículo es sin perjuicio de las sanciones que puedan resultar aplicables en términos de lo previsto en esta ley y demás disposiciones.
 
 ### CAPITULO II. DE LA BASE DE DATOS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MAYO DE 2010)</small>
 
 ###### Artículo 20.
 
-La base de datos de las Sociedades se integrará con la información sobre operaciones crediticias y otras de naturaleza análoga que le sea proporcionada por los Usuarios. Los Usuarios que entreguen dicha información a las Sociedades deberán hacerlo de manera completa y veraz; y, deberán contar con los documentos en que se acredite de manera fehaciente la existencia de la relación contractual con el Cliente, así como de la existencia del incumplimiento que constituye la cartera vencida. Dicha información deberá incluir en su historial crediticio, los pagos oportunos o anticipados que haya efectuado el Cliente respecto del mismo crédito.
+La base de datos de las Sociedades se integrará con la información sobre operaciones crediticias y otras de naturaleza análoga que le sea proporcionada por los Usuarios. Los Usuarios que entreguen dicha información a las Sociedades deberán hacerlo de manera completa y veraz; asimismo, estarán obligados a señalar expresamente la fecha de origen de los créditos que inscriban y la fecha del primer incumplimiento. Las Sociedades no deberán inscribir por ningún motivo, créditos cuya fecha de origen no sea especificado por los Usuarios, o cuando éste tenga una antigüedad en cartera vencida mayor a 72 meses. Lo anterior, de conformidad con lo establecido en los artículos 23 y 24 de esta ley.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -560,37 +586,57 @@ Las Sociedades no podrán establecer políticas o criterios de operación que re
 
 Las Sociedades no podrán impedir a sus Usuarios que proporcionen o soliciten información a otras Sociedades. Las Sociedades tampoco podrán establecer límites cuantitativos al número de consultas que puedan realizar los Usuarios.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2010)</small>
+
 ###### Artículo 36.
 
 Las Sociedades que por primera vez proporcionen su Base Primaria de Datos a otras Sociedades deberán transmitírselas en su totalidad, a más tardar dentro del mes siguiente a aquél en que éstas se lo soliciten.
 
 A fin de mantener actualizada la información, en adición a lo señalado en el párrafo anterior, las Sociedades deberán proporcionar la información capturada cada mes en su Base Primaria de Datos a todas aquellas Sociedades que así lo hubieren solicitado. La citada información deberá ser proporcionada dentro de los quince días naturales siguientes al mes en que hayan realizado la citada captura de información.
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+Las Sociedades deberán acordar en un plazo no mayor a treinta días contados a partir del requerimiento que formule la Comisión, los estándares, condiciones, procedimientos, así como las cantidades a pagar entre sí por el intercambio de información a que se refiere este artículo. Los acuerdos respectivos deberán presentarse a la Comisión para su autorización, al igual que sus modificaciones.
+
+En caso de que las Sociedades no lleguen al acuerdo previsto en el párrafo anterior, deberán sujetarse a las disposiciones de carácter general que emita la Comisión, para lo cual, ésta contará con un plazo de treinta días. Las Sociedades deberán sujetarse a dichas disposiciones en un plazo no mayor a quince días, en las que podrá determinar las tarifas, entre otros supuestos.
 
 Cada Sociedad, al proporcionar información a otras Sociedades, deberá evitar distorsiones en la información transmitida respecto de la que originalmente fue recibida de los Usuarios. Asimismo, las Sociedades deberán eliminar de su base de datos la información de aquellos registros que reciban en forma repetida por cualquier causa, a efecto de no duplicar información dentro de los Reportes de Crédito ni de los Reportes de Crédito Especiales que emitan.
 
-Las Sociedades deberán establecer de común acuerdo los estándares que utilizarán entre sí para proporcionarse sus Bases Primarias de Datos. En caso de no alcanzarse el acuerdo mencionado, el Banco de México deberá fijar en reglas de carácter general dichos estándares.
-
-El Banco de México determinará mediante reglas de carácter general las cantidades que podrán cobrar las Sociedades que suministran a otras sus Bases Primarias de Datos, tomando en cuenta los gastos e inversiones en que las primeras hayan incurrido para la integración y actualización de dichas bases, así como por la transmisión de la información respectiva.
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2010)</small>
 
 ###### Artículo 36 Bis.
 
-Las Sociedades estarán obligadas a emitir a los Usuarios que lo soliciten, Reportes de Crédito en los que, además de la información con la que cuenten, incluyan el historial crediticio del Cliente contenido en las bases de datos de las demás Sociedades. Las Sociedades deberán divulgar la existencia de este servicio.
+Las Sociedades al emitir Reportes de Crédito y Reportes de Crédito Especiales, además de la información contenida en sus bases de datos, deberán incluir, la contenida en las bases de datos de las demás Sociedades. En todo caso, los reportes de crédito a que se refiere el presente artículo, deberán incluir, respecto de cada operación, al menos la información siguiente:
+
+I. El historial crediticio;
+
+II. Las fechas de apertura;
+
+III. Las fechas del último pago y cierre, en su caso;
+
+IV. El límite de crédito;
+
+V. En su caso, el saldo total de la operación contratada y monto a pagar, y
+
+VI. Las claves de observación y prevención aplicables.
+
+La Comisión podrá, mediante disposiciones de carácter general, exceptuar o adicionar requisitos, así como precisar el contenido de los conceptos citados en las fracciones anteriores.
+
+Los Usuarios podrán optar por consultar los reportes de las diferentes Sociedades de forma separada. En caso de optar por esta forma de consulta los Usuarios deben avisarle a la Sociedad, quien le deberá proporcionar un Reporte de Crédito que contenga únicamente la información de ésta. En caso de que se solicite esta modalidad, los Usuarios estarán obligados a solicitar a las demás Sociedades su reporte individual correspondiente.
+
+Para efectos de lo dispuesto en el presente artículo, las Sociedades estarán obligadas a compartir información entre ellas.
+
+Las Sociedades deberán divulgar la existencia de los reportes de crédito a que se refiere este artículo.
 
 Las Sociedades que proporcionen información a otra Sociedad en términos de este artículo no serán responsables de cumplir las obligaciones previstas en los artículos 29 y 30 de esta ley.
 
 Las Sociedades a las que otra Sociedad les requiera información conforme a los párrafos anteriores, estarán obligadas a proporcionarla a más tardar al día siguiente de la fecha en que les haya sido solicitada.
 
-Las tarifas que las Sociedades deberán ofrecer a sus Usuarios por los Reportes de Crédito a que se refiere este artículo no podrán ser mayores al 80% de la suma de las tarifas base de cada Sociedad participante. Al resultado de la suma anterior las Sociedades, de manera conjunta, podrán aplicar descuentos con base en: a) la cantidad de consultas realizadas por el Usuario de que se trate respecto de este tipo de Reportes de Crédito, y b) cualquier otro factor que incida en la determinación del precio.
+Las tarifas que las Sociedades deberán ofrecer a sus Usuarios por los Reportes de Crédito a que se refiere este artículo, serán autorizadas por la Comisión. A la tarifa autorizada, las Sociedades, de manera conjunta, podrán aplicar descuentos con base en: a) la cantidad de consultas realizadas por el Usuario de que se trate respecto de este tipo de Reportes de Crédito, y b) cualquier otro factor que incida en la determinación del precio.
 
-Los ingresos que las Sociedades obtengan de la venta de estos Reportes de Crédito, serán distribuidos entre ellas en la forma en que éstas lo pacten.
+Los ingresos que las Sociedades obtengan de la venta de estos reportes de crédito, serán distribuidos entre ellas en la forma en que éstas lo pacten, previa autorización de esta tarifa por parte de la Comisión.
+
+En caso de que las Sociedades no hayan determinado la tarifa aplicable a los reportes de crédito a que se refiere este artículo, la Comisión podrá requerirles determinar su precio en un plazo no mayor a quince días. De no hacerlo, será la propia Comisión la que fije dicha tarifa dando publicidad a la resolución correspondiente.
+
+Corresponderá al director general de la Sociedad asegurarse de la implementación de procedimientos y medidas de control interno que garantice que el envío de información a otras Sociedades se efectúe de manera oportuna, completa y sin distorsiones respecto de la que originalmente fue recibida de los Usuarios.
 
 ###### Artículo 37.
 
@@ -661,6 +707,14 @@ Los términos en los que la Sociedad deberá atender la reclamación señalada e
 Independientemente del medio que se utilice para formular las reclamaciones, la Sociedad deberá informar al Cliente el número de control que le asigne a la reclamación a fin de que este último esté en posibilidad de darle seguimiento.
 
 En el Reporte de Crédito y Reporte de Crédito Especial se deberá indicar en forma notoria que los Clientes tienen el derecho de presentar reclamaciones ante las Sociedades en términos de este artículo, así como solicitar aclaraciones directamente ante los Usuarios en términos de la ley que los regule.
+
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2010)</small>
+
+Cuando una Sociedad reciba una reclamación de un Cliente, respecto de un registro que provenga de la información proporcionada por otra Sociedad a través de un Reporte de Crédito Especial, la Sociedad que haya recibido tal reclamación deberá, en un plazo máximo de cinco días hábiles, contados a partir de la recepción de la reclamación respectiva, enviársela a la Sociedad que haya reportado el registro reclamado, a fin de que, a partir de que ésta la reciba, se haga responsable de tramitarla en los términos de los artículos 42 a 49 de esta ley. Una vez enviada la reclamación a que se refiere este párrafo en el plazo señalado, la Sociedad que la hubiera recibido del Cliente quedará liberada de cualquier responsabilidad respecto de la tramitación de la misma.
+
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2010)</small>
+
+Para efectos de lo dispuesto en el primer párrafo del artículo 47 de esta ley, la Sociedad obligada a realizar los envíos mencionados en dicho precepto, será aquélla que haya enviado el registro impugnado a otra Sociedad para la elaboración por esta última del Reporte de Crédito Especial respectivo.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -1042,15 +1096,17 @@ XVII. La Sociedad que no elimine de la base de datos la información a que se re
 
 XVIII. La Entidad Financiera utilice información proporcionada por la Sociedad con la finalidad de ser utilizada para efectos laborales, sin que exista resolución judicial que así lo amerite.
 
-> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MAYO DE 2010)</small>
 
-###### Artículo 62.
+###### Articulo 62.
 
-La Comisión sancionará con multa de 500 a 10,000 veces el salario mínimo general diario vigente en el Distrito Federal, cuando:
+La Comisión sancionará con multa de 1,000 a 15,000 veces el salario mínimo general diario vigente en el Distrito Federal, cuando:
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 I. La Sociedad lleve a cabo actividades distintas a las establecidas en el artículo 13, primer párrafo o prohibidas conforme al artículo 18;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
 
 II. La Sociedad o Entidad Financiera haga uso o manejo indebido de la información en términos del artículo 22;
 
@@ -1058,7 +1114,21 @@ II. La Sociedad o Entidad Financiera haga uso o manejo indebido de la informaci�
 
 III. La Sociedad, la Entidad Financiera, o sus funcionarios, empleados o prestadores de servicios incurran en violación al Secreto Financiero o en el delito de revelación de secretos en cualquier forma de las previstas en los artículos 28, antepenúltimo, penúltimo y último párrafos, 30, segundo y último párrafos, y 38;
 
-IV. La Sociedad no cuente con los manuales a que se refiere el artículo 37.
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2004)</small>
+
+IV. La Sociedad no cuente con los manuales a que se refiere el artículo 37;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2010)</small>
+
+V. Omitan compartir su información a otras Sociedades en términos de lo dispuesto por los artículos 36 y 36 Bis de esta ley, o bien, entreguen información tardía, incompleta o distorsionada;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2010)</small>
+
+VI. Omitan ajustarse a las disposiciones de carácter general que emita la Comisión, en términos del artículo 36 y 36 Bis de esta ley, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2010)</small>
+
+VII. Omitan aplicar la tarifa que determine la Comisión en términos de lo dispuesto por los artículos 36 y 36 Bis de esta ley.
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2004)</small>
 
@@ -1118,13 +1188,11 @@ IV. Omitan eliminar de su base de datos la información crediticia que el Banco 
 
 V. Se abstengan de observar los términos y condiciones, respecto a la forma en que podrán pactar con los Usuarios la sustitución de la firma autógrafa en las autorizaciones del Cliente, de conformidad con el artículo 28;
 
-VI. Omitan ajustarse a las reglas de carácter general que emita el Banco de México, respecto a los estándares que utilizarán con otras Sociedades para proporcionarse sus Bases Primarias de Datos en términos del artículo 36;
+VI. (DEROGADA, D.O.F. 25 DE MAYO DE 2010)
 
-VII. Se abstengan de observar las reglas de carácter general que expida el Banco de México, que se refieran a las cantidades que podrán cobrar por suministrar a otras Sociedades sus Bases Primarias de Datos de acuerdo con el artículo 36;
+VII. (DEROGADA, D.O.F. 25 DE MAYO DE 2010)
 
-> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
-
-VIII. Omitan sujetarse a los plazos, tarifas y condiciones de los envíos de reportes a otras Sociedades de conformidad con el artículo 36 Bis, y
+VIII. (DEROGADA, D.O.F. 25 DE MAYO DE 2010)
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -1307,3 +1375,21 @@ SEXTO.- Las Sociedades tendrán un plazo de 100 días naturales contados a parti
 D.O.F. 20 DE ENERO DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE MAYO DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Banco de México expedirá las disposiciones de carácter general a que se refiere el artículo 4 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros en un plazo de sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto.
+
+Tercero. Las Entidades contarán con un plazo de noventa días naturales, contados a partir del día siguiente a la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el artículo 4 Bis 1 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 48 Bis 2 de la Ley de Instituciones de Crédito en materia de producto básico de tarjeta de crédito.
+
+Cuarto. Las Personas que operen antes de la entrada en vigor del presente Decreto como Cámaras de Compensación en términos de lo dispuesto por los artículos 19 y 19 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, tendrán un plazo de noventa días naturales contados a partir de la fecha en que entren en vigor las disposiciones de carácter general que se emitan al amparo de los citados preceptos, para presentar la solicitud de autorización respectiva.
+
+Quinto. Las Sociedades contarán con un plazo de ciento ochenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto para cumplir con las obligaciones a que se refieren los artículos 2 y 36 Bis de la Ley para Regular las Sociedades de Información Crediticia.
+
+Las Sociedades de Información Crediticia contarán con un plazo de hasta ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para presentar a la Comisión el acuerdo mencionado en el artículo 36 de la citada Ley.
+
+Las sociedades de información crediticia deberán obtener la autorización de la Comisión Nacional Bancaria y de Valores respecto de las tarifas que dichas sociedades deberán ofrecer a sus Usuarios por los reportes de crédito, en términos del artículo 36 Bis de la Ley para Regular las Sociedades de Información Crediticia dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Sexto. Para los efectos del artículo 20, las Sociedades deberán eliminar, en un plazo no mayor a 90 días naturales, de sus bases de datos los registros cuyo origen no haya sido informado por los Usuarios con anterioridad a la presente reforma. Para su reinscripción, los Usuarios deberán especificar las fechas de origen del crédito y de su primer incumplimiento, éste último no podrá ser mayor a 72 meses.
