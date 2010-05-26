@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-participacion-social-para-el-estado-de-chiapas-72777"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-30"
-last_updated: "2009-12-30"
+last_updated: "2010-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PARTICIPACION SOCIAL PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Chiapas, el miércoles 30 de diciembre de 2009.
 
@@ -67,7 +67,9 @@ Las Asambleas de Barrios, son figuras organizativas ciudadanas que adoptan cada 
 
 Las Asambleas de Barrios, organizarán a la ciudadanía en áreas urbanas, como cabeceras municipales, barrios, colonias, fraccionamientos, unidades habitacionales, entre otras.
 
-Para el logro de los objetivos de la presente ley, y adecuada coordinación, no se deberá exceder de la integración de más de mil Asambleas de Barrios en el Estado.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
+Para el logro de los objetivos de la presente ley y adecuada coordinación, no se deberá exceder de la integración de más de mil doscientas Asambleas de Barrio en la Entidad.
 
 ###### Artículo 7°.
 
@@ -83,7 +85,9 @@ IV. Coadyuvar a la preservación y conservación de los bienes patrimoniales cul
 
 V. Gestionar el mantenimiento y equipamiento de infraestructura física en las instalaciones deportivas, de educación física y de recreación.
 
-VI. Controlar, preservar y defender el medio ambiente.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+VI. Participar y promover programas de concientización ambiental y preservar los recursos naturales.
 
 VII. Promover la participación y colaboración de los habitantes para la solución de problemas, así como para la obtención de los beneficios materiales y sociales para las Asambleas de Barrios.
 
@@ -99,11 +103,19 @@ XII. Promover campañas permanentes de limpieza y saneamiento ambiental en coord
 
 XIII. Colaborar con las autoridades municipales en el desarrollo del deporte en todas sus manifestaciones; de la educación, de la cultura y de la conservación de nuestras tradiciones y costumbres, promoviendo la participación social.
 
-XIV. Las demás que sean señaladas por sus respectivos Ayuntamientos, previo acuerdo de Cabildo.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XIV. Suscribir toda clase de actos jurídicos y administrativos que le permitan cumplir con el objeto de su creación.
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XV. Las demás que sean señaladas por sus respectivos Ayuntamientos, previo Acuerdo de Cabildo.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 8°.
 
-Sin perjuicio de otras formas de participación reconocidas en la Constitución Política del Estado de Chiapas, y demás legislación aplicable, EL (sic) Instituto Chiapas Solidario en coordinación con los Presidentes Municipales, con la finalidad de lograr el desarrollo del Municipio, y mejorar las condiciones de vida de los habitantes de las respectivas circunscripciones, promoverán e impulsarán la participación social a través de las Asambleas de Barrios; debiendo integrarse éstas, por cada dos mil habitantes.
+Sin perjuicio de otras formas de participación reconocidas en la Constitución Política del Estado de Chiapas y demás legislación aplicable, la Secretaría de Desarrollo y Participación Social, a través del órgano que al efecto determine, en coordinación con los Presidentes Municipales, con la finalidad de lograr el desarrollo del municipio y mejorar las condiciones de vida de los habitantes de las respectivas circunscripciones, promoverán e impulsarán la participación social a través de las Asambleas de Barrios; debiendo integrarse éstas, por cada dos mil habitantes.
 
 ###### Artículo 9°.
 
@@ -111,11 +123,15 @@ Las Asambleas de Barrios, contarán con los recursos que los Gobiernos Estatal y
 
 Las Asambleas de Barrios, podrán ejercer mezcla de recursos con municipios, cuando así se requiera, para el beneficio de los habitantes del municipio correspondiente.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 10.
 
-En caso de presentarse alguna controversia sobre el funcionamiento de las Asambleas de Barrios, el Instituto Chiapas Solidario en coordinación con el Ayuntamiento respectivo, resolverán lo conducente y formalizarán el acuerdo a través de Sesión de Cabildo.
+En caso de presentarse alguna controversia sobre el funcionamiento de las Asambleas de Barrios, la Secretaría de Desarrollo y Participación Social a través del órgano que para tal efecto establezca, en coordinación con el Ayuntamiento respectivo, resolverán lo conducente y formalizarán el Acuerdo a través de Sesión de Cabildo.
 
-### Capítulo III. De la Integración de las Asambleas de Barrios
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE MAYO DE 2010)</small>
+
+### Capítulo III. De la Integración de las Asambleas de Barrios y Demás Órganos de Participación Social
 
 ###### Artículo 11.
 
@@ -141,9 +157,13 @@ c) Vocales que sean necesarios.
 
 III. Un Tesorero, que será designado por la Asamblea de Barrios correspondiente.
 
-El tesorero será el responsable de recibir y utilizar el recurso, y de comprobar los mismos ante el Instituto Chiapas Solidario y estará obligado a rendir cuentas a la Comisión de Vigilancia y al H. Congreso del Estado.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
-Serán utilizados como máximo el 10% de los recursos asignados a las Asambleas de Barrios, para los gastos de administración de la misma.
+El Tesorero será el responsable de recibir, administrar y comprobar el ejercicio del recurso ante la Secretaría de Desarrollo y Participación Social, por conducto del órgano que ésta defina; lo cual será informado a la Secretaría de Hacienda, para la integración de la Cuenta Pública del ejercicio correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
+Serán utilizados como máximo el 3% de los recursos asignados a las Asambleas de Barrios, para los gastos de administración de las mismas.
 
 ###### Artículo 12.
 
@@ -153,27 +173,45 @@ I. Un Coordinador General.
 
 II. Un Secretario de Acuerdos.
 
-III. Los Vocales que sean necesarios.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+III. Los Vocales que sean necesarios, dentro de los que invariablemente deberá existir un Vocal de Cultura de Paz.
 
 ###### Artículo 13.
 
 La elección de los representantes de los Comités de las Asambleas de Barrios, deberá efectuarse de manera directa, democrática y con votación de acuerdo a la propuesta de los habitantes del espacio territorial correspondiente.
 
-En los municipios Indígenas, los integrantes de los Comités, así como de la Comisión de Vigilancia de las Asambleas de Barrios, serán electos de acuerdo a sus usos y costumbres.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
+En los municipios indígenas, los integrantes de los órganos de las Asambleas de Barrios, serán electos de acuerdo a sus usos y costumbres.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+
+Los integrantes de los órganos, cumplirán única y exclusivamente funciones de apoyo para el espacio territorial que representen, en obras o acciones que en el mismo se ejecuten, por lo que en ningún momento tendrán facultades o serán considerados como autoridades o funcionarios de Gobierno.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 14.
 
-Los integrantes de los órganos, cumplirán única y exclusivamente funciones de apoyo para el espacio territorial que representen, en obras o acciones que en el mismo se ejecuten, por lo que en ningún momento tendrán facultades o serán considerados como autoridades o funcionarios de gobierno.
+En aquellas localidades donde no existan asambleas de barrios, se conformarán temporalmente Comités de Validación de Obra, con el fin de validar los proyectos que en ese rubro realicen los municipios a través de los Comités de Planeación para el Desarrollo Municipal.
 
-### Capítulo IV. Del Instituto Chiapas Solidario
+Los Comités de Validación de Obra a que se refiere este artículo no contarán con estructura orgánica ni presupuesto para el desarrollo de sus funciones, sujetándose para tal caso a lo que disponga la Secretaría de Desarrollo y Participación Social.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE MAYO DE 2010)</small>
+
+### Capítulo IV. De la Intervención de la Secretaría de Desarrollo y Participación Social
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 15.
 
-Instituto Chiapas Solidario, como órgano desconcentrado de la Secretaría de Desarrollo Social, será el encargado de priorizar los proyectos y programas tendentes a atender las necesidades básicas propuestas por las Asambleas de Barrios, procurando satisfacer las necesidades establecidas en la presente ley, y las de los habitantes de los diversos municipios del Estado de Chiapas.
+La Secretaría de Desarrollo y Participación Social, a través del órgano que para tal efecto establezca, será la encargada de priorizar los proyectos y programas tendentes a atender las necesidades básicas propuestas por las Asambleas de Barrios, procurando satisfacer las necesidades establecidas en la presente ley y las de los habitantes de los diversos municipios del Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 16.
 
-El Poder Ejecutivo del Estado, a través del Instituto Chiapas Solidario, será el responsable de ministrar trimestralmente al Tesorero, los recursos destinados a las Asambleas de Barrios, en los meses de enero, abril, julio y octubre de cada año.
+La Secretaría de Desarrollo y Participación Social, a través del órgano que para tal efecto establezca, será la responsable de ministrar al Tesorero, los recursos destinados a las Asambleas de Barrios.
 
 T r a n s i t o r i o s
 
@@ -183,9 +221,9 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan a la prese
 
 Artículo Tercero.- El Ejecutivo del Estado, deberá expedir el Reglamento de la presente ley, en un plazo no mayor de noventa días hábiles, a partir de la entrada en vigor de la misma.
 
-Artículo Cuarto.- El Instituto Chiapas Solidarlo, deberá someter a consideración del Secretario de Desarrollo Social, para su expedición, los Lineamientos Generales de Asambleas de Barrios en un plazo no mayor de noventa días hábiles, a partir de la entrada en vigor de la presente ley.
+Artículo Cuarto.- (DEROGADO, P.O. 26 DE MAYO DE 2010)
 
-Artículo Quinto.- Las Asambleas de Barrios, a partir de Su integración e instalación, en el ámbito de su respectiva competencia, deberán expedir su Reglamento Interno, previa validación del Instituto Chiapas Solidario.
+Artículo Quinto.- (DEROGADO, P.O. 26 DE MAYO DE 2010)
 
 El Ejecutivo del Estado, dispondrá se, publique, circule y se le dé el debido cumplimiento.
 
@@ -194,3 +232,15 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintinueve días del mes de diciembre del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE MAYO DE 2010.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- En los casos del ejercicio de los recursos del Ramo 33, se aplicarán las formas de participación ciudadana que determine el Ayuntamiento en coordinación con el órgano que al efecto determine la Secretaría de Desarrollo y Participación Social, formalizándose los acuerdos que sean necesarios a través de Sesión de Cabildo; y tendrán como vigencia desde la priorización de las obras y acciones hasta el término o conclusión de las mismas.
+
+Artículo Cuarto.- Independientemente de las formas de participación ciudadana que al interior de los COPLADEM, se instalen o se encuentren instaladas y que ejerzan recursos del Ramo 33 del Presupuesto de Egresos de la Federación, las Asambleas de Barrios a las que se refiere la presente ley operarán con recursos y en la forma que al efecto establezca la legislación de la materia.
