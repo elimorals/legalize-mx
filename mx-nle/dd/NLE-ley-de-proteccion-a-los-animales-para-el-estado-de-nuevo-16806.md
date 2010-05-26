@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-a-los-animales-para-el-estado-de-nuevo-16806"
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-16"
-last_updated: "2007-05-25"
+last_updated: "2010-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de agosto de 2000.
 
@@ -97,9 +97,9 @@ VI. Azuzar: Acción que considera a incitar por cualquier mecanismo del ser huma
 
 VII. Fauna Silvestre: Todas aquéllas especies que viven libremente y fuera del control del ser humano, así como los animales que por abandono se tornen salvajes y por ello sean susceptibles de captura o apropiación y cuya competencia de regulación es de las autoridades federales;
 
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-VIII. Agencia: Agencia de Protección al Medio Ambiente y Recursos Naturales;
+VIII. Secretaría: La Secretaría de Desarrollo Sustentable del Estado de Nuevo León;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
@@ -139,13 +139,15 @@ XVI: Reservorio: Lugar o cuerpo donde se hospeden y desarrollen en cualquier cic
 
 Son objeto de tutela y protección de esta Ley, los animales domésticos y la fauna silvestre que se encuentre en cautiverio, con o sin la supervisión, control o cuidado del ser humano, así como los animales ferales.
 
-Corresponde la aplicación de esta Ley al Ejecutivo del Estado, a través de la Agencia y de la Secretaría de Salud, en el ámbito de sus respectivas competencias, o a las autoridades municipales que hayan concertado convenio de colaboración o coordinación con el Ejecutivo del Estado, en relación a la protección y conservación de los animales, a fin de que éstas puedan asumir dichas funciones. Para la celebración de dichos convenios, se seguirá el procedimiento que al efecto establece la Ley Ambiental.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+Corresponde la aplicación de esta Ley al Ejecutivo del Estado, a través de la Secretaria y de la Secretaria de Salud, en el ámbito de sus respectivas competencias, o a las autoridades municipales que hayan concertado convenio de colaboración o coordinación con el Ejecutivo del Estado, en relación a la protección y conservación de los animales, a fin de que estas puedan asumir dichas funciones. Para la celebración de dichos convenios se seguirá el procedimiento que al efecto establece la Ley Ambiental.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 4o.
 
-La Agencia, en coordinación con las autoridades de educación y salud pública, en el ámbito de sus respectivas competencias y dentro de sus programas, difundirán por los medios apropiados el sentido y el texto de esta Ley, buscando implementar programas educativos en bioconservación, tendientes a fomentar el respeto hacia la forma de vida de los animales.
+La Secretaría, en coordinación con las autoridades de educación y salud pública, en el ámbito de sus respectivas competencias y dentro de sus programas, difundirán por los medios apropiados el sentido y el texto de esta ley, buscando implementar programas educativos en bioconservación, tendientes a fomentar el respeto hacia la forma de vida de los animales.
 
 ### CAPITULO II. DE LA PROTECCIÓN A LOS ANIMALES
 
@@ -161,9 +163,9 @@ Los municipios podrán reglamentar los supuestos en los que los propietarios, po
 
 Quedan sujetos al control de las autoridades estatales, los dueños, poseedores o encargados de animales peligrosos.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
-Quien posea un animal peligroso deberá solicitar autorización de la Agencia y colocar avisos que alerten del riesgo. Será sujeto de sanción administrativa conforme lo establece esta Ley o los reglamentos correspondientes quien no cumpla con esta disposición.
+Quien posea un animal peligroso deberá solicitar autorización de la Secretaría y colocar avisos que alerten del riesgo. Será sujeto de sanción administrativa conforme lo establece esta Ley o los reglamentos correspondientes quien no cumpla con esta disposición.
 
 ###### Artículo 7o.
 
@@ -317,13 +319,17 @@ La cría, enajenación y exhibición de animales vivos será realizada en locale
 
 I. Deberán de contar con Certificado de Salud de cada uno de los animales;
 
-II. La cría, enajenación y exhibición de animales deberá desarrollarse en instalaciones cuyo uso de suelo no sea de uso habitacional y con la autorización de las autoridades correspondientes;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+II. La cría, enajenación y exhibición de animales deberá desarrollarse en instalaciones cuyo uso de suelo no sea de uso habitacional. El establecimiento o local donde se realicen dichas actividades, deberá contar con la autorización de uso de suelo o uso de la edificación, según corresponda, así como con los demás permisos y autorizaciones que resulten aplicables;
 
 III. Deberá de contar con un registro de la procedencia de cada uno de los animales de exhibición, cría o venta;
 
 IV. Deberá de entregar una guía informativa para el comprador, de cada uno de los animales que salgan del recinto de cría, enajenación o exhibición; y
 
-V. La Agencia en el ámbito de su competencia, establecerá un registro de personas físicas y morales que se dediquen a la cría, enajenación y exhibición de animales domésticos, de conformidad al procedimiento de inscripción que la misma establezca mediante acuerdo administrativo. La inscripción a dicho Registro es de carácter obligatorio, y se renovará cada dos años.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+V. La Secretaria, en el ámbito de su competencia, establecerá un registro de personas físicas y morales que se dediquen a la cría, enajenación y exhibición de animales domésticos, de conformidad al procedimiento de inscripción que la misma establezca mediante acuerdo administrativo, la inscripción a dicho Registro es de carácter obligatorio, y se renovará cada dos años.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
@@ -333,11 +339,11 @@ Para la cría, enajenación y exhibición de animales en locales comerciales o d
 
 Queda prohibida la venta de animales en la vía pública. Los animales en exhibición y a la venta en tiendas de mascotas y similares, no deberán de permanecer de manera continua, por periodos de más de 20-veinte días en jaulas.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 24.
 
-Para la venta de un animal vivo se requiere que ésta se entregue unas Guía Informativa al comprador, y que ésta se realice entre personas responsables que acrediten que puedan proporcionar al animal, una adecuada subsistencia y trato.
+Para la venta de un animal vivo se requiere que se entregue una guía informativa al comprador, y que ésta se realice a personas mayores de dieciocho años, a menos que estén acompañados por una persona mayor de edad, quien se responsabilice ante el vendedor por el menor, de la adecuada subsistencia y trato para el animal.
 
 ### CAPITULO VII. DEL TRASLADO DE LOS ANIMALES
 
@@ -373,9 +379,11 @@ Queda prohibida la presencia de personas menores de 10 años en las salas de sac
 
 Los propietarios, administradores o encargados de los rastros o salas de sacrificio serán responsables del cumplimiento de esta disposición.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 28.
 
-El sacrificio de un animal no destinado al consumo humano solo podrá realizarse en razón del sufrimiento que le cause un accidente, enfermedad, incapacidad física o vejez extrema, con excepción de aquellos animales que se constituyan en amenaza para la salud; la economía; la seguridad de conductores en calles, carreteras, autopistas y caminos del Estado; o los que por exceso de su especie signifiquen un peligro grave para la sociedad. Salvo por motivos de fuerza mayor o peligro inminente ningún animal podrá ser sacrificado en la vía pública.
+El sacrificio de un animal no destinado al consumo humano solo podrá realizarse en razón del sufrimiento que le cause un accidente, enfermedad, incapacidad física o vejez extrema, con excepción de aquellos animales que se constituyan en amenaza para la salud; la economía; la seguridad de peatones, ciclistas y conductores en calles, carreteras, autopistas y caminos del Estado; o los que por exceso de su especie signifiquen un peligro grave para la sociedad. El sacrificio obligatorio, por razón de sanidad animal o salud pública, se efectuara de forma rápida e indolora, y siempre en locales aptos para esos fines. Salvo por motivos de fuerza mayor o peligro inminente ningún animal podrá ser sacrificado en la vía pública.
 
 ###### Artículo 29.
 
@@ -387,19 +395,21 @@ Los propietarios, encargados o administradores de expendios de animales o rastro
 
 Los animales abandonados o perdidos cuyo dueño se ignore, se reputarán como mostrencos para todos los efectos legales y deberán ser retenidos y custodiados por las autoridades en lugares adecuados, o bien, si así procede, entregados a las sociedades protectoras de animales.
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
-En caso de abandono deliberado de un animal, por su propietario, poseedor o encargado, por negligencia o imprudencia y estando en riesgo su salud, la Agencia, comprobando los hechos y con los testigos correspondiente, podrá girar una orden de aseguramiento precautorio del animal, bajo el procedimiento legal que corresponda. Los animales asegurados, deberán de ser retenidos en los Centros de los que dispongan las autoridades correspondientes. La persona que desee recuperar al animal, deberá pagar la sanción correspondiente, así como los gastos de traslado y manutención del animal, durante el periodo de aseguramiento.
+En caso de abandono deliberado de un animal, por su propietario, poseedor o encargado, por negligencia o imprudencia y estando en riesgo su salud, la Secretaría, comprobando los hechos y con los testigos correspondientes, podrá girar una orden de aseguramiento precautorio del animal, bajo el procedimiento legal que corresponda. Los animales asegurados, deberán de ser retenidos en los Centros de los que dispongan las autoridades correspondientes. La persona que desee recuperar al animal, deberá pagar la sanción correspondiente, así como los gastos de traslado y manutención del animal, durante el periodo de aseguramiento.
 
 La captura de animales que se realice por motivos de salud o porque éstos deambulen sin dueño aparente y sin placa de identidad o de vacunación antirrábica se efectuará únicamente a través y bajo la supervisión de las autoridades sanitarias estatales o municipales, y por personas específicamente adiestradas y debidamente equipadas para tal efecto, quienes evitarán cualquier acto de maltrato hacia los animales.
 
 Un animal capturado podrá ser reclamado por su dueño dentro de los cinco días siguientes, exhibiendo para su recuperación el documento que acredite su propiedad o posesión o haciendo uso de otros medios que la prueben. En caso de que el animal no sea reclamado en el tiempo establecido, las autoridades podrán sacrificarlo o entregarlo a las sociedades protectoras de animales.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
-###### Artículo 31.
+###### Articulo 31.
 
-La Agencia podrá celebrar acuerdos con las sociedades protectoras de animales para que puedan recoger, resguardar temporalmente y cuidar a los animales abandonados, así como a los que sean asegurados por alguno de los supuestos establecidos en esta Ley.
+La Secretaria podrá celebrar acuerdos con las sociedades protectoras de animales legalmente constituidas para que puedan recoger, resguardar temporalmente y cuidar a los animales abandonados, así como a los que sean asegurados por alguno de los supuestos establecidos en esta Ley.
+
+La Secretaria deberá llevar un registro de las asociaciones legalmente constituidas dedicadas a la protección, la conservación y eliminación del maltrato de animales, y promoverá su participación en las acciones gubernamentales que implementen, relacionadas con la defensa y protección de los mismos.
 
 ### CAPITULO X. DE LAS SANCIONES ADMINISTRATIVAS
 
@@ -407,25 +417,31 @@ La Agencia podrá celebrar acuerdos con las sociedades protectoras de animales p
 
 Es responsable de las faltas previstas en esta Ley cualquier persona que participe en la ejecución de las mismas o induzca directa o indirectamente a cometerlas. Los padres o quienes ejerzan la patria potestad o tutela de los menores de edad o incapaces, serán responsables de las faltas que éstos cometan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 33.
 
-La Agencia es la autoridad competente para imponer las sanciones previstas en esta Ley.
+La Secretaría es la autoridad competente para imponer las sanciones previstas en esta Ley.
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
-De existir riesgo para los animales o se pueda poner en peligro su vida, debido a actos de crueldad o maltrato hacia ellos, la Agencia, en forma fundada y motivada, podrá ordenar alguna de las siguientes medidas de seguridad:
+De existir riesgo inminente para los animales o se pueda poner en peligro su vida, debido a actos de crueldad o maltrato hacia ellos, la Secretaría, en forma fundada y motivada, podrá ordenar alguna de las siguientes medidas de seguridad:
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 I. Aseguramiento precautorio de los animales, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad;
 
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
 II. Clausura temporal de los establecimientos, instalaciones, servicios, o lugares donde se celebren espectáculos públicos con animales donde no se cumpla con las Leyes, Reglamentos, Normas Oficiales Mexicanas, Normas Ambientales Estatales, así como con los preceptos legales aplicables; y
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 III. Clausura definitiva, cuando exista reincidencia en los casos en los que haya motivado una clausura temporal o cuando se trate de hechos o actos u omisiones cuyo fin primordial sea el de realizar actos prohibidos por esta Ley.
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
-Asimismo, la Agencia podrá ordenar la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos en relación con la protección a los animales.
+Asimismo, la Secretaria podrá ordenar la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos en relación con la protección a los animales.
 
 Cualquier persona podrá denunciar por escrito el incumplimiento de esta Ley y la autoridad encargada de aplicarla, estará obligada a rendir un informe sobre las denuncias formuladas en un término no mayor de quince días hábiles a partir de la fecha de su presentación. El incumplimiento de esta disposición será sancionado administrativamente en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
@@ -604,3 +620,7 @@ Artículo Único.- Este Decreto entrará en vigor al día siguiente al de su pub
 P.O. 25 DE MAYO DE 2007.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 26 DE MAYO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
