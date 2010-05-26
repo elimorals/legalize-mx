@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2008-12-29"
+last_updated: "2010-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -47,7 +47,7 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
 La presente ley es reglamentaria del Título Sexto de la Constitución Política del Estado de Tamaulipas, y sus disposiciones, que son de orden público, tienen por objeto regular la estructura y funcionamiento del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 2º.
 
@@ -55,7 +55,13 @@ Corresponde al Poder Judicial del Estado de Tamaulipas el ejercicio de la funci�
 
 ###### ARTICULO 2°.
 
-Corresponde al Poder Judicial del Estado de Tamaulipas el ejercicio de la función jurisdiccional en los asuntos del fuero común, en los términos que prevén la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los ordenamientos legales que de ellas emanen; así como en los asuntos del orden federal, en los casos que las leyes de ese fuero lo establezcan y en la materia electoral local, en los términos de las propias Constituciones General y Particular del Estado, el Código Electoral de Tamaulipas, la Ley de Medios de Impugnación Electorales de Tamaulipas y esta.
+Corresponde al Poder Judicial del Estado de Tamaulipas el ejercicio de la función jurisdiccional en los asuntos del fuero común, en los términos que prevé la Constitución Política de los Estados Unidos Mexicanos y la propia del Estado, así como por las leyes que de ellas emanen. En los asuntos del orden federal se sujetará a lo dispuesto en las leyes de ese fuero establezcan.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2010)</small>
+
+A su vez, la administración del Poder Judicial le corresponde al Consejo de la Judicatura, que deberá resolver los asuntos que le atribuye la Constitución Política del Estado y esta ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 Lo relativo a la función jurisdiccional local en materia electoral a cargo del Tribunal Electoral del Poder Judicial del Estado, su naturaleza jurídica, fundamento constitucional, funciones, competencia, estructura orgánica, integración, y cuestiones administrativas se regula en el Título Noveno de esta Ley, por lo que se exceptúa a dicho órgano, en lo conducente, de las disposiciones relativas a la organización, funcionamiento, y administración del Poder Judicial del Estado, contenidas en la misma.
 
@@ -277,15 +283,11 @@ Quinto Distrito Judicial: Cabecera en Reynosa, y comprende los Distritos Judicia
 
 Sexto Distrito Judicial: Cabecera en El Mante, y comprende los Distritos Judiciales VII y VIII.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 11.
 
-El Pleno del Supremo Tribunal de Justicia podrá dictar y realizar, mediante Acuerdos Generales todas las medidas que considere pertinentes, en las Salas Colegiadas y Unitarias; Juzgados y demás dependencias del Supremo Tribunal de Justicia, cuando así lo justifique una mejor y más adecuada prestación del servicio de impartición de justicia. En dichos acuerdos se podrá determinar la creación de nuevos juzgados atendiendo a las necesidades del servicio y a las disponibilidades del presupuesto.
-
-Debe, cuando menos, existir un Juzgado de Primera Instancia en cada cabecera distrital.
-
-Llegado el caso, la Circular o Circulares que contengan los Acuerdos Generales del Pleno del Supremo Tribunal de Justicia para la eficiencia del servicio de impartición de justicia, deberá ser publicado en el Periódico Oficial del Estado, y fijado, para su difusión y conocimiento, en los estrados judiciales, cuando menos con tres días de anticipación a que surta sus efectos el Acuerdo respectivo.
+El Pleno del Supremo Tribunal de Justicia podrá expedir Acuerdos Generales a fin de establecer lo necesario para el buen desempeño de la función jurisdiccional. Serán publicados en el Periódico Oficial del Estado y surtirán sus efectos en la fecha en ellos indicados o, en su defecto, al día siguiente de su publicación.
 
 ###### ARTICULO 12.
 
@@ -373,75 +375,63 @@ Las sesiones del Pleno del Supremo Tribunal de Justicia serán públicas, con ex
 
 El Pleno del Supremo Tribunal de Justicia celebrará sesiones extraordinarias cuando su Presidente lo considere necesario, o así lo soliciten por lo menos seis de los Magistrados de Número.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 20.
 
-Son atribuciones del Supremo Tribunal de Justicía y de su Pleno las siguientes:
+Las atribuciones del Supremo Tribunal de Justicia y de su Pleno son las siguientes:
 
-I.- Conocer en segunda instancia de los asuntos familiares, civiles, penales o de justicia para adolescentes y de aquellos que establezcan otras leyes, que al efecto remitan los jueces de Primera Instancia o Menores;
+I.- Resolver las controversias constitucionales y las acciones de inconstitucionalidad, conforme lo establezcan la Constitución Política del Estado y la ley;
 
-II.- Conocer en Pleno de las controversias del orden civil o mercantil que se susciten entre particulares y el Estado o los Ayuntamientos;
+II.- Conocer en segunda instancia de los asuntos familiares, civiles, penales o de justicia para adolescentes y de aquellos que establezcan otras leyes, que al efecto remitan los jueces de Primera Instancia o Menores;
 
-III.- Erigirse en Jurado de Sentencia para conocer y resolver, sin recurso ulterior, las causas que se instruyan contra servidores públicos, conforme a lo dispuesto por el Título XI de la Constitución Política del Estado;
+III.- Conocer en Pleno de las controversias del orden civil o mercantil que se susciten entre particulares y el Estado;
 
-IV.- Ordenar las visitas carcelarias de acuerdo a las disposiciones de la ley;
+IV.- Erigirse en Jurado de Sentencia para conocer y resolver, sin recurso ulterior, las causas que se instruyan contra servidores públicos, conforme a lo dispuesto por el Título XI.- de la Constitución Política del Estado;
 
-V.- Atender las dudas sobre la interpretación de la ley que sean planteadas por los Jueces o surjan del seno del propio Tribunal;
+V.- Atender las dudas sobre la interpretación de la ley que sean planteadas por los jueces o surjan del seno del propio Tribunal;
 
 VI.- Dirimir las cuestiones de competencia que surjan entre las autoridades judiciales del Estado, en los términos que fije la ley;
 
-VII.- Formular, ante el Congreso del Estado, iniciativas de ley tendientes a mejorar la administración de justicia, así como expedir y modificar, en su caso, los reglamentos que se requieran para este fin;
+VII.- Formular, ante el Congreso del Estado, iniciativas de ley tendientes a mejorar la impartición de justicia, así como expedir y modificar, en su caso, los reglamentos que se requieran para este fin;
 
-VIII.- Dictar medidas que se estimen pertinentes para que la administración de justicia que impartan los tribunales del Estado, sea pronta, completa e imparcial;
+VIII.- Formular, expedir y modificar, en su caso, el Reglamento Interior del Supremo Tribunal de Justicia;
 
-IX.- Formular, expedir y modificar, en su caso, el Reglamento Interior del Supremo Tribunal de Justicia;
+IX.- Determinar a propuesta del Presidente la competencia de las Salas, las adscripciones de los Magistrados a las mismas; y adscribir, en su caso, a los Magistrados Supernumerarios a las Salas en los supuestos que determine la ley;
 
-X.- Determinar a propuesta del Presidente, la competencia de las Salas y las adscripciones de los Magistrados a las mismas; y adscribir, en su caso, a los Magistrados Supernumerarios a las Salas, en los supuestos que determine la ley;
+X.- Elegir Presidente del Pleno en los términos que determine la ley;
 
-XI.- Elegir Presidente del Supremo Tribunal en los términos que determina esta ley;
+XI.- Delegar al Presidente las atribuciones que estime pertinentes;
 
-XII.- Delegar al Presidente las atribuciones que estime pertinentes;
+XII.- Administrar y ejercer el presupuesto del Supremo Tribunal de Justicia;
 
-XIII.- Recibir, en sesión plenaria, extraordinaria, pública y solemne, el informe anual de labores que deberá rendir su Presidente sobre el estado que guarda la impartición de justicia, que se verificará antes de la segunda quincena del mes de marzo de cada año. Asimismo, deberá entregar por escrito dicho informe al Congreso del Estado, en la modalidad que éste acuerde;
+XIII.- Recibir, en sesión plenaria, extraordinaria, pública y solemne, el informe anual de labores que deberá rendir su Presidente sobre el estado que guarda la administración de justicia, que se verificará antes de la segunda quincena del mes de marzo de cada año. Asimismo, deberá entregar por escrito dicho informe al Congreso del Estado, en la modalidad que éste acuerde;
 
 XIV.- Acordar, en los casos que considere necesario, la propuesta al Gobernador del Estado para la creación de Magistraturas Supernumerarias y de Magistraturas Regionales;
 
-XV.- Nombrar, cesar o suspender a los Jueces de Primera Instancia; Jueces Menores; Jueces de Paz; Secretarios de Acuerdos; Secretarios Proyectistas, y Actuarios del Pleno, de las Salas y de los Juzgados; y al personal subalterno, en los casos y con las condiciones que establezca la ley; así como, en su caso, confirmar a los Jueces de Primera Instancia, Menores y de Paz;
+XV.- Nombrar, cesar o suspender a los Jueces de Primera Instancia y Jueces Menores; y, en su caso, ratificarlos atendiendo para tales efectos la propuesta correspondiente del Consejo de la Judicatura;
 
-XVI.- Tomar la protesta de ley, por conducto del Presidente, a los Jueces de Primera Instancia, Menores y de Paz; asÍ como designar a quien deba suplirlos, en los casos de ausencias temporales, de acuerdo con lo dispuesto en la ley;
+XVI.- Tomar la protesta de ley, por conducto del Presidente, a los Jueces de Primera Instancia y Menores;
 
-XVII.- Señalar a cada Juez su distrito judicial, su número y la materia en que debe ejercer sus funciones; así como designar a cada Juzgado su domicilio, según lo estime conveniente para mejorar el servicio público;
+XVII.- Calificar los impedimentos de los Magistrados para conocer de los asuntos sometidos a su jurisdicción, en caso de excusa o recusación, en los términos previstos por la ley;
 
-XVIII.- Establecer remuneración adecuada e irrenunciable para Magistrados y Jueces, la cual no podrá ser disminuida durante su encargo;
+XVIII.- Conceder licencias hasta por un mes a los Magistrados del Poder Judicial, así como admitir sus renuncias, sancionar sus faltas y fijar los períodos de vacaciones del propio Poder Judicial, en los términos que determine la ley;
 
-XIX.- Calificar los impedimentos de los Magistrados y Jueces de Primera Instancia para conocer de los asuntos sometidos a su jurisdicción, en caso de excusa o recusación, en los términos previstos por la ley;
+XIX.- Resolver, en única instancia, los juicios de responsabilidad civil que se promuevan en contra de los mismos;
 
-XX.- Conceder licencias hasta por un mes a los servidores públicos del Poder Judicial, así como admitir sus renuncias, sancionar sus faltas y fijar los períodos de vacaciones del propio Poder Judicial, en los términos que determine la ley;
+XX.- Conocer y resolver, en única instancia, las causas que se instruyan en contra de alguno de sus miembros, contra los Jueces de Primera Instancia y Jueces Menores por delitos cometidos en el ejercicio de sus funciones, y de las que deban sustanciarse contra los Secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos;
 
-XXI.- Conocer de las quejas que se formulen contra los servidores públicos del Poder Judicial, con motivo del ejercicio de sus funciones, las que se sustanciarán de acuerdo al procedimiento establecido en la ley;
+XXI.- Imponer correcciones disciplinarias a los Magistrados Numerarios, Supernumerarios y Regionales, en los términos que determine la ley;
 
-XXII.- Resolver, en única instancia, los juicios de responsabilidad civil que se promuevan en contra de los servidores públicos del Poder Judicial;
+XXII.- Conocer y tramitar la ejecución de sentencias ejecutoriadas contra el Estado, los Municipios y las entidades autónomas, en los términos del Código de Procedimientos Civiles;
 
-XXIII.- Conocer y resolver, en única instancia, las causas que se instruyan en contra de alguno de sus miembros, contra los Jueces de Primera Instancia, Jueces Menores y Jueces de Paz por delitos cometidos en el ejercicio de sus funciones, y de las que deban sustanciarse contra los Secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos;
+XXIII.- Promover y aplicar la mediación entre las partes, en las diversas materias de su competencia;
 
-XXIV.- Imponer correcciones disciplinarias a los servidores públicos del Poder Judicial, en los términos que determine la ley;
+XXIV.- Proponer al Congreso del Estado a los candidatos a Magistrado Presidente y Magistrados del Tribunal Electoral del Poder Judicial del Estado, en los términos señalados en el artículo 20, fracción IV, de la Constitución Política del Estado y bajo el procedimiento que señale la ley respectiva;
 
-XXV.- Denunciar ante el Ministerio Público los hechos de que tenga conocimiento y que impliquen la probable responsabilidad de un servidor público del Poder Judicial;
+XXV.- Recibir, en Sesión plenaria, extraordinaria, pública y solemne, el informe de labores que deberá rendir el Presidente del Tribunal Electoral del Poder Judicial del Estado sobre el estado que guarda la administración de justicia electoral. Dicho acto se verificará dentro de los seis meses siguientes a que concluya cada proceso electoral y conforme a lo que disponga la ley; y
 
-XXVI.- Conocer y tramitar la ejecución de sentencias ejecutoriadas contra el Estado, los Municipios y las entidades autónomas, en los términos del Código de Procedimientos Civiles;
-
-XXVII.- Corregir los abusos que se adviertan en la administración de justicia, por medio de disposiciones de carácter general que no impliquen intromisión en los asuntos que se tramiten en los juzgados, no restrinjan la independencia de criterio de los juzgadores, ni entorpezcan sus funciones;
-
-XXVIII.- Constituir, modificar, suprimir o aumentar los órganos administrativos que sean necesarios para la buena marcha de la administración de justicia; así como el número de servidores públicos del Supremo Tribunal de Justicia;
-
-XXIX.- Discutir y aprobar el proyecto de presupuesto anual de egresos del Poder Judicial que deberá formular y proponer el Presidente, el que deberá ser remitido al Congreso del Estado, para su aprobación, así como ejercer y administrar en forma autónoma el presupuesto que le sea aprobado;
-
-XXX.- Imponer correcciones disciplinarias a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones, actuaciones o diligencias en que intervengan ofendan o falten al respeto al Supremo Tribunal de Justicia, a alguno de sus miembros o a cualquier servidor público del Poder Judicial;
-
-XXXI.- Promover la mediación entre las partes, en las diversas materias de su competencia; y
-
-XXXII.- Las demás que le confieren la presente ley y los ordenamientos legales aplicables.
+XXVI.- Las demás facultades y obligaciones que las leyes le otorguen.
 
 ### CAPITULO III. DEL PRESIDENTE DEL SUPREMO TRIBUNAL
 
@@ -461,17 +451,21 @@ El Presidente asumirá la representación del Poder Judicial del Estado y tendr�
 
 Las providencias y acuerdos del Presidente podrán ser reclamados ante el Pleno, por escrito fundado de parte interesada, dentro del término de los tres días siguientes a que haya sido hecha la notificación correspondiente. El Pleno tendrá un término de diez días hábiles para resolver lo conducente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 24.
 
-El Presidente del Supremo Tribunal de Justicia, como representante del Poder Judicial del Estado, tiene las atribuciones y obligaciones siguientes:
+El Presidente del Supremo Tribunal de Justicia y del Consejo de la Judicatura, tiene las atribuciones y obligaciones siguientes:
 
 I.- Servir de conducto en las relaciones del Poder Judicial y los Poderes Legislativo y Ejecutivo, así como con los de la Federación y los del resto de las Entidades Federativas;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-II.- Rendir los informes que señalan los artículos 45 párrafo quinto; 107 párrafo tercero y 114 fracción XIII, de la Constitución Política del Estado de Tamaulipas;
+II.- Rendir los informes que señalan los artículos 45, párrafo quinto, y 114, Apartado A fracción XII, así como lo que corresponda en términos del artículo 107, párrafo cuarto, de la Constitución Política del Estado de Tamaulipas;
 
-III.- Turnar al Congreso del Estado el proyecto anual de presupuesto de egresos del Poder Judicial, una vez que sea aprobado por el Pleno, para los efectos legales que correspondan;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+III.- Turnar al Congreso del Estado el proyecto anual de presupuesto de egresos del Poder Judicial, una vez que sea aprobado por el Pleno, y previa discusión del Consejo de la Judicatura, para los efectos legales que correspondan;
 
 IV.- Atender la correspondencia del Supremo Tribunal de Justicia con las autoridades locales, de los Estados y de la Federación; y,
 
@@ -493,17 +487,15 @@ II.- Convocar y presidir las sesiones plenarias del Supremo Tribunal de Justicia
 
 III.- Convocar a sesiones extraordinarias cada vez que lo considere conveniente o sea solicitado por seis o más Magistrados de Número;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+IV.- (DEROGADA, P.O. 26 DE MAYO DE 2010)
 
-IV.- Conocer de las quejas que se presenten sobre demora o faltas en la impartición de justicia, dictando, si son leves, las medidas oportunas para su corrección o, si son graves, sometiéndolas a la consideración del Pleno del Supremo Tribunal de Justicia;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-V.- Proponer al Pleno los acuerdos que juzgue convenientes para una mejor administración del Poder Judicial y la pronta impartición de justicia, los que, en caso de ser de observancia general, deberán publicarse en el Periódico Oficial del Estado;
+V.- Proponer al Pleno, a propuesta del Consejo de la Judicatura, los acuerdos que juzgue convenientes para una mejor administración del Poder Judicial y la pronta impartición de justicia, los que, en caso de ser de observancia general, deberán publicarse en el Periódico Oficial del Estado;
 
 VI.- Proveer lo necesario para hacer cumplir los acuerdos del Supremo Tribunal de Justicia en Pleno;
 
-VII.- Por sí o por conducto de los Magistrados Supernumerarios, cuidar que la Secretaría General del Supremo Tribunal de Justicia lleve al día el libro en que se tome razón de las correcciones disciplinarias que se impongan a los Jueces y demás servidores públicos del Poder Judicial, para los efectos legales consiguientes. En caso de que dichas correcciones sean impuestas por Magistrados o Jueces, éstos lo comunicarán a la Secretaría para que se tome nota;
+VII.- (DEROGADA, P.O. 26 DE MAYO DE 2010)
 
 VIII.- Proponer las adscripciones de los Magistrados a las Salas;
 
@@ -515,11 +507,15 @@ X.- Turnar entre los Magistrados los asuntos de la competencia del Pleno cuando 
 
 XI.- Proponer al Pleno las comisiones o funciones que les sean asignadas a los Magistrados;
 
-XII.- Nombrar a los servidores públicos cuya designación no esté reservada a otra autoridad por la presente ley y promover oportunamente ante el Pleno del Supremo Tribunal de Justicia, cuando sean de su competencia, los nombramientos de servidores públicos en caso de existir vacantes;
+XII.- (DEROGADA, P.O. 26 DE MAYO DE 2010)
 
-XIII.- Tomar la protesta a los Secretarios y demás servidores públicos del Supremo Tribunal de Justicia;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-XIV.- Conceder licencias económicas hasta por quince días, con goce de sueldo o sin él, a los Magistrados, Jueces y demás servidores públicos de la administración de justicia;
+XIII.- Tomar la protesta a los jueces del Supremo Tribunal de Justicia;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XIV.- Conceder licencias económicas hasta por quince días, con goce de sueldo o sin él, a los Magistrados del Supremo Tribunal de Justicia;
 
 XV.- Registrar los títulos profesionales de abogados, expedidos con arreglo a la Ley de Profesiones del Estado;
 
@@ -527,7 +523,9 @@ XVI.- Remitir al Juez correspondiente los exhortos, rogatorias, suplicatorios, r
 
 XVII.- Certificar las firmas de los servidores públicos del Poder Judicial, cuando la ley así lo exija;
 
-XVIII.- Formular y proponer al Pleno el proyecto anual de presupuesto de egresos del Poder Judicial;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XVIII.- Formular y proponer al Pleno el proyecto anual de presupuesto de egresos del Poder Judicial, previa discusión y aprobación del Consejo de la Judicatura;
 
 XIX.- Presidir el Instituto de Investigación de la Legislación Procesal;
 
@@ -537,9 +535,7 @@ XX.- Llevar la correspondencia del Pleno;
 
 XXI.- Llevar el registro de las asociaciones de abogados constituidas o que se constituyan en el Estado;
 
-> <small>(ADICIONADA [N. DE E., REFORMADA], P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-XXII.- Representar al Gobierno del Estado en su relación laboral con los trabajadores adscritos al Poder Judicial a que se refiere el artículo 4 inciso C de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas y el Reglamento de las Condiciones Generales de Trabajo para su aplicación correspondiente;
+XXII.- (DEROGADA, P.O. 26 DE MAYO DE 2010)
 
 > <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -951,43 +947,43 @@ XI.- Practicar las diligencias que les encomienden el Pleno del Supremo Tribunal
 
 XII.- Las demás que les señalen las leyes, les encomiende el Pleno del Supremo Tribunal de Justicia o el Presidente de éste.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO EL PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 48.
 
-Los Juzgados de Primera Instancia tendrán para el despacho de los negocios el personal siguiente:
+Los Juzgados de Primera Instancia, para el despacho de los negocios, contarán con al menos el siguiente personal:
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-I.- El número de Secretarios de Acuerdos que determine el Pleno del Supremo Tribunal de Justicia, tomando en consideración el presupuesto de egresos a ejercer y el volumen de asuntos judiciales que se tramiten en cada distrito, y actuarán en la rama o ramas que se señale al hacer su adscripción;
+I.- El número de Secretarios de Acuerdos que determine el Consejo de la Judicatura, tomando en consideración el presupuesto de egresos a ejercer y el volumen de asuntos judiciales que se tramiten en cada distrito, y actuarán en la rama o ramas que se señale al hacer su adscripción;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-II.- Los Secretarios para proyectos de sentencia, y demás tareas que el Juez les encomiende, cuando el Pleno lo estime necesario;
+II.- Los Secretarios para proyectos de sentencia, y demás tareas que el Juez les encomiende, cuando el Pleno lo estime necesario y lo apruebe el Consejo de la Judicatura;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-III.- Los Actuarios, cuando el volumen de negocios lo justifique a juicio del Pleno del Supremo Tribunal. En caso contrario, el Secretario llevará a cabo las diligencias que deban practicarse fuera del Juzgado o de ser necesario el Juez podrá autorizar a uno de los escribientes del Juzgado para que actúe como tal;
+III.- Los Actuarios, cuando el volumen de negocios lo amerite a juicio del Consejo de la Judicatura. En caso contrario, el Secretario llevará a cabo las diligencias que deban practicarse fuera del Juzgado o de ser necesario el Juez podrá autorizar a uno de los escribientes del Juzgado para que actúe como tal;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 IV.- Un archivista; y,
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-V.- Los oficiales Judiciales que determine la Presidencia del Suprema Tribunal de Justicia, de acuerdo al volumen de negocios del juzgado.
+V.- Los Oficiales Judiciales que determine la Presidencia del Supremo Tribunal de Justicia, de acuerdo al volumen de negocios del juzgado y lo apruebe el Consejo de la Judicatura.
 
 Los trabajadores de las fracciones I, II, III y IV tendrán, por su naturaleza, el carácter de trabajadores de confianza.
 
 ### CAPITULO VII. DE LOS JUZGADOS MENORES
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 49.
 
-El Pleno del Supremo Tribunal de Justicia determinará si en cada Municipio funcionarán un Juzgado Menor y un Juzgado de Paz, o únicamente alguno de los dos, los cuales residirán en la cabecera municipal. De acuerdo con las necesidades del servicio, el Supremo Tribunal autorizará la creación de más de un Juzgado Menor o demás de un Juzgado de Paz en un mismo Municipio, pudiendo acordarse la especialización de los mismos por materia.
+El Pleno del Supremo Tribunal de Justicia, previo aprobación del Consejo de la Judicatura, determinará si en cada Municipio funcionará un Juzgado Menor y un Juzgado de Paz, o únicamente alguno de los dos, los cuales residirán en la cabecera municipal. De acuerdo con las necesidades del servicio, el Consejo de la Judicatura autorizará la creación de más de un Juzgado Menor o demás de un Juzgado de Paz en un mismo Municipio, pudiendo acordarse la especialización de los mismos por materia.
 
-El Pleno del Supremo Tribunal tendrá la facultad de autorizar al Juez o Jueces Menores o de Paz de determinados Municipios para que ejerzan jurisdicción y competencia en otros Municipios, en los que por su escaso volumen de trabajo no se justifique su existencia. En este caso, el Juez Menor o el Juez de Paz formulará un programa de visitas que será aprobado por la Presidencia, a fin de constituirse en los lugares de su circunscripción y, en su caso, atender los asuntos de su competencia, sin perjuicio de hacerlo cuando así sea requerido.
+El Consejo de la Judicatura tendrá la facultad de autorizar al Juez o Jueces Menores o de Paz de determinados Municipios para que ejerzan jurisdicción y competencia en otros Municipios, en los que por su escaso volumen de trabajo no se justifique su existencia. En este caso, el Juez Menor o el Juez de Paz formulará un programa de visitas que será aprobado por la Presidencia, a fin de constituirse en los lugares de su circunscripción y, en su caso, atender los asuntos de su competencia, sin perjuicio de hacerlo cuando así sea requerido.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1005,9 +1001,9 @@ III.- Ser Licenciado en Derecho titulado, con por lo menos tres años de experie
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena; y,
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-V.- Aprobar el examen de conocimientos que al efecto formule el Centro de Actualización Jurídica e Investigación Procesal. Prefiriéndose en la selección a aquellas persona (sic) que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+V.- Aprobar los exámenes que disponga el Consejo de la Judicatura. Prefiriéndose en la selección a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1059,9 +1055,9 @@ I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
 
 II.- No haber sido condenado por delito intencional; y,
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-III.- Aprobar el examen de conocimientos que al efecto formule el Centro de Actualización Jurídica e Investigación Procesal. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+III.- Aprobar los exámenes que disponga el Consejo de la Judicatura. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1185,9 +1181,11 @@ IX.- Revisar que los expedientes y testimonios que recibe para substanciar el re
 
 X.- Las demás funciones que le encomiende esta ley y las procesales respectivas.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 69.
 
-El Secretario General de Acuerdos será auxiliado en sus funciones por dos Subsecretarios que deberán reunir los mismos requisitos, y contará además con el personal de apoyo necesario que determine el Pleno del Supremo Tribunal de Justicia.
+El Secretario General de Acuerdos será auxiliado en sus funciones por dos Subsecretarios que deberán reunir los mismos requisitos, y contará además con el personal de apoyo necesario que determine el Consejo de la Judicatura.
 
 ### CAPITULO XI. DE LOS SECRETARIOS DE ACUERDOS DE SALA
 
@@ -1207,9 +1205,9 @@ IV.- Tener práctica profesional de tres años cuando menos, contados a partir d
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena; y,
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-VI.- Aprobar el examen de conocimientos que al efecto formule el Centro de Actualización Jurídica e Investigación Procesal. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+VI.- Aprobar los exámenes que disponga el Consejo de la Judicatura. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
 ###### ARTICULO 71.
 
@@ -1237,23 +1235,25 @@ VIII.- Las demás que les confiera la ley, el Pleno del Supremo Tribunal de Just
 
 ### CAPITULO XII. DE LOS SECRETARIOS PROYECTISTAS
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 72.
 
-El Supremo Tribunal de Justicia tendrá Secretarios Proyectistas adscritos a la Presidencia, a las Salas y a los Juzgados, que serán designados por el Pleno a propuesta del Presidente, en relación con el trabajo de su área; por los Magistrados, para sus respectivas Salas; y por los Jueces, para sus correspondientes Juzgados. La función de los Secretarios Proyectistas será elaborar los proyectos de resolución o realizar cualquier otra función pertinente que su superior inmediato ordene.
+El Supremo Tribunal de Justicia tendrá Secretarios Proyectistas adscritos a la Presidencia, a las Salas y a los Juzgados, que serán designados por el Consejo de la Judicatura. La función de los Secretarios Proyectistas será elaborar los proyectos de resolución o realizar cualquier otra función pertinente que su superior inmediato ordene.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 73.
 
-El Pleno del Supremo Tribunal de Justicia podrá adscribir libremente a los Secretarios Proyectistas a la Presidencia o a las Salas, según lo estime conveniente y podrá comisionarlos a cualquiera de los Juzgados de Primera Instancia del Estado, cuando la carga de trabajo así lo amerite o cuando la ausencia prolongada de un Juez pueda originar demora en las resoluciones judiciales.
+El Consejo de la Judicatura podrá adscribir libremente a los Secretarios Proyectistas a la Presidencia o a las Salas, según lo estime conveniente y podrá comisionarlos a cualquiera de los Juzgados de Primera Instancia del Estado, cuando la carga de trabajo así lo amerite o cuando la ausencia prolongada de un Juez pueda originar demora en las resoluciones judiciales.
 
 ### CAPITULO XIII. DE LOS ACTUARIOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 74.
 
-El Supremo Tribunal de Justicia contará con Actuarios adscritos al Pleno, a la Presidencia y a las Salas; y los Juzgados podrán tener, para el cumplimiento de sus funciones, el o los Actuarios que determine el Pleno del Supremo Tribunal de Justicia.
+El Supremo Tribunal de Justicia contará con Actuarios adscritos al Pleno, a la Presidencia y a las Salas; y los Juzgados podrán tener, para el cumplimiento de sus funciones, el o los Actuarios que determine el Consejo de la Judicatura.
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1335,11 +1335,11 @@ XXI.- Las demás que les confiera esta ley o los demás ordenamientos legales, e
 
 Los Magistrados del Supremo Tribunal de Justicia serán designados en la forma prevista por el artículo 109 de la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 79.
 
-Los Jueces de Primera Instancia, los Jueces Menores y los Jueces de Paz serán nombrados por el Pleno del Supremo Tribunal de Justicia.
+Los Jueces de Primera Instancia, los Jueces Menores y los Jueces de Paz serán nombrados a propuesta del Consejo de la Judicatura, por el Pleno del Supremo Tribunal de Justicia.
 
 ###### ARTICULO 80.
 
@@ -1347,19 +1347,19 @@ Los Jueces de Primera Instancia durarán en su cargo tres años, pudiendo ser ra
 
 Serán inamovibles una vez que sean ratificados por segunda ocasión, habiendo cumplido seis años ininterrumpidos en el ejercicio de su encargo, de tal manera que únicamente podrán ser separados del mismo en los términos del artículo 95 de la presente ley.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 81.
 
-Sin perjuicio de lo dispuesto en la Constitución Política del Estado y, en esta propia ley, en cuanto a la designación de los servidores públicos del Poder Judicial, se establece en el Estado la Carrera Judicial, la que se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+Sin perjuicio de lo dispuesto en la Constitución Política del Estado y, en esta propia ley, en cuanto a la designación de los servidores públicos del Poder Judicial, se establece en el Estado la Carrera Judicial, la que se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia. El Consejo de la Judicatura se encargará de su desarrollo y fortalecimiento.
 
 ###### ARTICULO 82.
 
 En todo lo referente a servidores públicos judiciales, las vacantes definitivas, las provisionales con duración mayor de treinta días y los puestos de nueva creación, serán ocupadas por quienes se encuentren en la categoría escalafonaria que corresponda, tomando en cuenta su aptitud, antigüedad, servicios prestados y cumplimiento en su función.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
-Los nombramientos de servidores públicos judiciales se extenderán a favor de personas letradas, con capacidad y honestidad relevantes que justifiquen la continuidad en el cargo y que acrediten haber cursado y aprobado los programas implementados por el Centro de Actualización Jurídica e Investigación Procesal, así como obtener calificación aprobatoria y haber sido seleccionados en el examen de méritos para el cargo.
+Los nombramientos de servidores públicos judiciales se extenderán a favor de personas letradas, con capacidad y honestidad relevantes que justifiquen la continuidad en el cargo y que acrediten haber cursado y aprobado los programas implementados por el área correspondiente del Consejo de la Judicatura, así como obtener calificación aprobatoria y haber sido seleccionados en el examen de méritos para el cargo.
 
 Se procurará que en la designación se siga el escalafón conforme al siguiente orden de categorías, sin menoscabo de la mejor capacidad, cualidades personales y morales de quienes no estén ubicados en el mismo:
 
@@ -1397,15 +1397,17 @@ IX.- Oficiales Judiciales.
 
 En el supuesto de que no se cuente con la persona idónea se designará a quien, aún cuando no preste sus servicios en la judicatura, lo haya hecho con anterioridad con eficiencia y probidad que consten en su expediente laboral, o por personas que sean merecedoras de la designación por su honorabilidad, competencia y antecedentes, y que en todo caso haya aprobado satisfactoriamente el examen de méritos para el cargo.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 84.
 
-Los nombramientos de los servidores públicos podrán ser impugnados por escrito ante el Pleno del Supremo Tribunal de Justicia dentro de los diez días siguientes en que hayan sido hechos, por quien se considere con mayor derecho al cargo. Del escrito de inconformidad se dará vista al servidor designado para que exprese lo que a sus intereses convenga en un término que no exceda de tres días; la resolución que corresponda se dictará en los siete días siguientes al en que concluya la vista precisada a la persona que fue nombrada.
+Los nombramientos de los servidores públicos podrán ser impugnados por escrito ante el Consejo de la Judicatura dentro de los diez días siguientes en que hayan sido hechos, por quien se considere con mayor derecho al cargo. Del escrito de inconformidad se dará vista al servidor designado para que exprese lo que a su interés convenga en un término que no exceda de tres días; la resolución que corresponda se dictará en los siete días siguientes al en que concluya la vista precisada a la persona que fue nombrada.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 85.
 
-El Secretario y los Subsecretarios de Acuerdos del Supremo Tribunal, los Secretarios de Acuerdos de Sala, los Secretarios Proyectistas, los Actuarios y los Secretarios de los Juzgados de Primera Instancia, Menores y de Paz, serán designados por el Pleno a propuesta, en su caso, del Presidente del Supremo Tribunal de Justicia, del titular de la Sala o del titular del Juzgado que corresponda.
+El Secretario y los Subsecretarios de Acuerdos del Supremo Tribunal, los Secretarios de Acuerdos de Sala, los Secretarios Proyectistas, los Actuarios y los Secretarios de los Juzgados de Primera Instancia, Menores y de Paz, serán designados por el Consejo de la Judicatura.
 
 ###### ARTICULO 86.
 
@@ -1419,17 +1421,23 @@ Los Jueces de Primera Instancia, Jueces Menores y Jueces de Paz, otorgarán la p
 
 ### CAPITULO II. DE LA RESIDENCIA, VACACIONES Y LICENCIAS
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 88.
 
-Los servidores públicos judiciales deben residir en el lugar donde tenga su asiento el tribunal, Sala o Juzgado de su adscripción, excepto en el caso de Municipios conurbados en el que podrán residir en cualquiera de ellos. Sólo podrán ausentarse en días y horas hábiles del distrito judicial que les corresponda, previa licencia que les sea otorgada por el Presidente del Supremo Tribunal de Justicia.
+Los servidores públicos judiciales deben residir en el lugar donde tenga su asiento el órgano jurisdiccional a que estén adscritos, excepto en el caso de Municipios conurbados en el que podrán residir en cualquiera de ellos. Sólo podrán ausentarse en días y horas hábiles del distrito judicial que les corresponda, previa licencia que les sea otorgada por quien competa.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 89.
 
-Los servidores públicos judiciales disfrutarán de dos períodos anuales de vacaciones de quince días naturales cada uno, con goce de sueldo. El Supremo Tribunal de Justicia en Pleno fijará las fechas en cada caso. En los Juzgados del Ramo Penal, Mixtos y Menores en relación con dicha materia, el Juez designará al personal de guardia, el cual disfrutará del beneficio en las fechas que al efecto determinará el Pleno del Supremo Tribunal de Justicia.
+Los servidores públicos judiciales disfrutarán de dos períodos anuales de vacaciones de quince días naturales cada uno, con goce de sueldo. El Consejo de la Judicatura fijará las fechas en cada caso. En los Juzgados del Ramo Penal, Mixtos y Menores en relación con dicha materia, el Juez designará al personal de guardia, el cual disfrutará del beneficio en las fechas que al efecto determinará el Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 90.
 
-Los empleados del Poder Judicial tienen derecho a una licencia sin goce de sueldo hasta por seis meses, prorrogables si el Supremo Tribunal de Justicia en Pleno considera justificada la petición, siempre que no afecte a la administración de la justicia.
+Los empleados del Poder Judicial tienen derecho a una licencia sin goce de sueldo hasta por seis meses, prorrogables si el Consejo de la Judicatura considera justificada la petición, siempre que no afecte a la administración de la justicia.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1441,7 +1449,9 @@ I.- Hasta por seis meses sin goce de sueldo. En este caso normará la decisión,
 
 II.- Hasta por tres meses con goce de sueldo, por causa de enfermedad; y,
 
-III.- Hasta por treinta días con goce de sueldo, cuando a juicio del Supremo Tribunal de Justicia en Pleno, el cumplimiento del servidor público en el servicio, su capacidad y antigüedad, le hagan merecedor de ese beneficio.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+III.- Hasta por treinta días con goce de sueldo, cuando a juicio del Consejo de la Judicatura, el desempeño del servidor público, su capacidad y antigüedad, le haga merecedor de ese beneficio.
 
 ### CAPITULO III. DE LAS INCOMPATIBILIDADES E INCAPACIDADES
 
@@ -1449,17 +1459,19 @@ III.- Hasta por treinta días con goce de sueldo, cuando a juicio del Supremo Tr
 
 Ningún nombramiento de la administración de justicia o auxiliar de ésta podrá recaer en ascendientes, descendientes, cónyuge o colaterales dentro del cuarto grado por consanguinidad, o segundo por afinidad del funcionario que haga la designación. La inobservancia de este precepto impedirá que surta efectos el nombramiento e implicará responsabilidad para el servidor público que lo incumplió.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 93.
 
-No podrá recaer nombramiento de la administración de justicia en ministros o representantes de cultos o en personas con enfermedades o discapacidades tales que dificulten seriamente el desempeño de las funciones inherentes, ni en aquellas personas de quienes se conozcan adicciones que les impidan cumplir con su encargo.
+No podrá recaer nombramiento de administración de justicia en ministros o representantes de cultos o personas con enfermedades o discapacidades tales que dificulten seriamente el desempeño de las funciones inherentes, ni en aquellas personas de quienes se conozcan adicciones que les impidan cumplir con su encargo a criterio del Consejo de la Judicatura.
 
 ### CAPITULO IV. DE LAS RENUNCIAS
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 94.
 
-Las renuncias de los Magistrados serán sometidas al conocimiento del Pleno del Supremo Tribunal de Justicia y, si éste las acepta, enviará comunicado al titular del Ejecutivo del Estado para los efectos del artículo 91 fracción XIV y 109 de la Constitución Política del Estado. El Pleno del Supremo Tribunal de Justicia conocerá de las renuncias de los Jueces de Primera Instancia, Menores y de Paz. De la renuncia de otros servidores públicos, conocerá el Presidente.
+Las renuncias de los Magistrados serán sometidas al conocimiento del Pleno del Supremo Tribunal de Justicia y, si éste las acepta, enviará comunicado al titular del Ejecutivo del Estado para los efectos del artículo 9I fracción XIV y 109 de la Constitución Política del Estado. El Consejo de la Judicatura conocerá de las renuncias de los Jueces de Primera Instancia, Menores y de Paz y de los demás servidores públicos del Poder Judicial.
 
 ### CAPITULO V. DE LA REMOCION Y DE LA SUSPENSION DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
@@ -1469,9 +1481,9 @@ Las renuncias de los Magistrados serán sometidas al conocimiento del Pleno del 
 
 Los Magistrados serán inamovibles durante el período de su encargo, el cual cesará únicamente en los términos del Título XI de la Constitución Política del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
-Durante el período de su ejercicio, los Jueces de Primera Instancia únicamente podrán ser removidos por el Supremo Tribunal de Justicia, cuando:
+Durante el período de su ejercicio, los Jueces de Primera Instancia únicamente podrán ser removidos por el Consejo de la Judicatura, cuando:
 
 I.- Cometan faltas de probidad u honradez;
 
@@ -1489,23 +1501,31 @@ V.- Sean destituidos mediante el procedimiento de responsabilidad administrativa
 
 VI.- Mediante el procedimiento de juicio político a que se refiere el artículo 151 de la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 96.
 
-La suspensión de los Jueces de Primera Instancia, los Jueces Menores o los Jueces de Paz por el Pleno del Supremo Tribunal de Justicia procederá:
+La suspensión de los Jueces procederá:
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 I.- Por declararse que ha lugar a formación de causa;
 
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
 II.- Por corrección disciplinaria cuando hubiere motivo legal para ello; o
 
-III.- Por estar sujeto a proceso administrativo de queja por causa grave a juicio del Pleno del Supremo Tribunal de Justicia.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+III.- Por estar sujeto a proceso administrativo de queja por causa grave a juicio del Consejo de la Judicatura.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 97.
 
-Los jueces procesados percibirán durante la suspensión la parte de sueldo que determine el Pleno del Supremo Tribunal de Justicia, no debiendo exceder de la mitad ni bajar de la cuarta parte.
+Los jueces procesados percibirán durante la suspensión la parte de sueldo que determine el Consejo de la Judicatura, no debiendo exceder de la mitad ni bajar de la cuarta parte.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 Si fueren absueltos o se sobresea la causa, deberá reintegrarse la totalidad de sus sueldos que habrían percibido.
 
@@ -1595,17 +1615,11 @@ Las faltas temporales de los servidores públicos no comprendidos en los artícu
 
 Los Magistrados del Supremo Tribunal de Justicia, los Jueces y todos los miembros del Poder Judicial, son responsables de las faltas administrativas que cometan en el ejercicio de sus cargos y quedan sujetos por ello, a las sanciones que determine la Ley de Responsabilidades de los Servidores Públicos.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 110.
 
-Los órganos facultados para aplicar las sanciones a que se refiere el artículo anterior son:
-
-I.- El Supremo Tribunal de Justicia en Pleno en toda clase de faltas en que incurran los Jueces, Secretarios y demás personal administrativo;
-
-II.- El Presidente del Supremo Tribunal de Justicia, respecto de las faltas oficiales que por su naturaleza las partes interesadas sometan a su consideración, así como de las administrativas cometidas por el personal del mismo;
-
-III.- Los Magistrados en los casos de la fracción III del artículo 28 de esta ley; y,
-
-IV.- Los Jueces, en los casos de la fracción III del artículo 47 de esta ley.
+Corresponde al Pleno del Supremo Tribunal de Justicia conocer de las faltas cometidas por los magistrados. Al Consejo de la Judicatura le compete conocer de las faltas cometidas por cualquier otro servidor público del Poder Judicial, en términos del artículo anterior.
 
 ### CAPITULO UNICO
 
@@ -1614,6 +1628,8 @@ IV.- Los Jueces, en los casos de la fracción III del artículo 47 de esta ley.
 Quien tenga interés jurídico podrá presentar queja administrativa ante la Presidencia del Supremo Tribunal de Justicia, en contra de cualquiera de los servidores públicos del Poder Judicial, dentro de los diez días siguientes al en que se haya suscitado el acto o la omisión que de origen al procedimiento.
 
 ### CAPITULO I. DE LA DIRECCION DE ADMINISTRACION
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 112.
 
@@ -1643,13 +1659,17 @@ II.- La queja se notificará al servidor público involucrado para que exprese l
 
 III.- Transcurrido el plazo descrito en la fracción anterior, se dictará resolución en un término que no podrá exceder de quince días. Si la queja fuere desechada, maliciosa o notoriamente improcedente se impondrá al quejoso y a su asesor una multa hasta por el importe de treinta días de salario mínimo vigente en la capital del Estado, si se tratare de un Juez de Primera Instancia, Juez Menor o Juez de Paz y, de sesenta si se trata de un Magistrado. La multa podrá ser de hasta veinte días de salario si se tratare de cualquier otro servidor público del Poder Judicial. No se dará curso a ninguna queja si el interesado o su asesor no acompañan a su escrito inicial certificado por el importe del máximo de la multa.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 115.
 
-Cuando el Presidente o el Pleno del Supremo Tribunal tengan conocimiento de hechos que pudieran constituir falta administrativa, de oficio, se podrá iniciar el procedimiento previsto en el presente capítulo, con las modalidades que su trámite implique.
+Cuando se tenga conocimiento de hechos que pudieran constituir alguna falta administrativa, se dará vista al Consejo de la Judicatura para los efectos de iniciar el procedimiento previsto en el presente capítulo, con la modalidad que su trámite implique.
 
 ## TITULO SEXTO. DE LAS VISITAS A LOS RECLUSORIOS
 
 ### CAPITULO II. DE LA DIRECCION DE FINANZAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 116.
 
@@ -1683,13 +1703,31 @@ El Magistrado o Juez que practique la visita al Centro Estatal de Readaptación 
 
 Se turnará a la Presidencia del Supremo Tribunal de Justicia un informe de lo observado durante la visita, así como las actas mencionadas en el artículo anterior, a fin de que se tomen las previsiones que se estimen convenientes.
 
-## TITULO SEPTIMO
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE MAYO DE 2010)</small>
 
-DE LAS DEPENDENCIAS ADMINISTRATIVAS Y TECNICAS DEL PODER JUDICIAL DEL ESTADO.
+## TITULO SEPTIMO. DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 121.
 
-Sin perjuicio de las que el Pleno del Supremo Tribunal de Justicia considere necesario crear cuando así lo requiera para el mejor desempeño de sus funciones, tendrá las dependencias que enseguida se mencionan, las que estarán bajo el mando y supervisión del Presidente:
+El Consejo de la Judicatura del Estado se integrará por cinco Consejeros, uno de los cuales será el Presidente del Supremo Tribunal de Justicia, quien lo presidirá; dos serán nombrados por el Congreso del Estado a propuesta del Pleno del Supremo Tribunal de Justicia; uno designado por el Congreso del Estado a propuesta de la Junta de Coordinación Política y uno más, designado por el Ejecutivo Estatal, en los términos de la Constitución Política del Estado y las leyes.
+
+La propuesta realizada por el Pleno del Supremo Tribunal de Justicia ante el Congreso del Estado deberá recaer sobre personas que sean o hayan sido servidores públicos del Poder Judicial del Estado y que se hayan distinguido por su buen desempeño.
+
+Los Consejeros durarán en su cargo seis años, serán sustituidos de manera escalonada y no podrán ser designados para un periodo inmediato posterior.
+
+Para ser Consejero de la Judicatura se exigirán los mismos requisitos que para el cargo de Magistrado.
+
+El Presidente del Supremo Tribunal de Justicia permanecerá en el cargo de Presidente del Consejo de la Judicatura durante el tiempo que desempeñe aquella función, sin recibir remuneración adicional.
+
+Los Consejeros de la Judicatura del Estado no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
+
+Las personas que hayan ocupado el cargo de Consejero de la Judicatura, no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado. Los jueces designados consejeros, una vez concluida dicha encomienda, podrán continuar su carrera judicial en un cargo similar al que fungían previo a su designación como consejeros. El Consejo dispondrá su adscripción en términos de la Constitución Política del Estado.
+
+El Consejo de la Judicatura del Estado funcionará en Pleno o en Comisiones. El Pleno sesionará con la presencia de su Presidente y de, al menos, tres de sus integrantes.
+
+Sin perjuicio de las que el Consejo de la Judicatura considere necesario crear cuando así requiera para el mejor desempeño del Poder Judicial, tendrá las dependencias que enseguida se mencionan, las que estarán bajo su mando y supervisión:
 
 I.- Dirección de Administración;
 
@@ -1699,39 +1737,95 @@ III.- Dirección de Contraloría;
 
 IV.- Fondo Auxiliar para la Administración de Justicia;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-V.- Centro de Actualización Jurídica e investigación Procesal;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+V.- Centro de Actualización Jurídica e Investigación Procesal;
 
 VI.- Dirección de Informática;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
 VII.- Visitaduría Judicial;
-
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 VIII.- Centro de Mediación; y
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
 IX.- Unidad de Información Pública.
+
+El Presidente del Consejo de la Judicatura dictará las medidas que estime convenientes y practicará visitas regulares a las dependencias administrativas o dispondrá de una comisión para que las supervisen, cuando se considere pertinente.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 122.
 
-El Presidente del Supremo Tribunal dictará las medidas que estime convenientes y practicará visitas regulares a las dependencias administrativas o integrará una comisión de Magistrados para que las supervisen, cuando se considere pertinente.
+Son atribuciones del Consejo de la Judicatura:
+
+I.- Nombrar, adscribir, confirmar, remover o suspender al personal del Poder Judicial, excepto a los Magistrados y el personal que tenga señalado un procedimiento específico;
+
+II.- Proponer al Pleno del Supremo Tribunal de Justicia el nombramiento, ratificación, remoción o suspensión de los Jueces del Poder Judicial del Estado;
+
+III.- Designar a quien deba suplir a los funcionarios del Poder Judicial, excepto a los Magistrados del Supremo Tribunal de Justicia, en los casos de ausencias temporales, de acuerdo a lo dispuesto en esta ley;
+
+IV.- Definir el Distrito Judicial, número, materia y domicilio de cada Juzgado;
+
+V.- Señalar a cada Juez su distrito judicial, su número y la materia en que debe ejercer sus funciones;
+
+VI.- Crear nuevos juzgados y distritos judiciales, previa la sustentación presupuestal para ello;
+
+VII.- Conceder las licencias, admitir las renuncias y sancionar las faltas del personal del Poder Judicial, excepto las de los Magistrados y al personal que tenga señalado un procedimiento especial, para ello, en los términos de esta ley;
+
+VIII.- Calificar los impedimentos de los Jueces de Primera Instancia para conocer de los asuntos sometidos a su jurisdicción, en caso de excusa o recusación, en los términos previstos por la ley;
+
+IX.- Conocer de las quejas que se formulen contra los servidores públicos del Poder Judicial, con excepción de los miembros del Supremo Tribunal de Justicia, con motivo del ejercicio de sus funciones, las que se sustanciarán de acuerdo al procedimiento establecido en la ley;
+
+X.- Corregir los abusos que se adviertan en la impartición de justicia, por medio de disposiciones de carácter general que no impliquen intromisión en los asuntos que se tramiten en los juzgados, no restrinjan la independencia de criterio de los juzgadores, ni entorpezcan sus funciones;
+
+XI.- Denunciar ante el Ministerio Público los hechos de que tenga conocimiento y que impliquen la probable responsabilidad de un servidor público del Poder Judicial;
+
+XII.- Imponer correcciones disciplinarias a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones, actuaciones o diligencias en que intervengan, ofendan o falten al respeto al Supremo Tribunal de Justicia, a alguno de sus miembros o a cualquier servidor público del Poder Judicial;
+
+XIII.- Administrar y ejercer el presupuesto del Poder Judicial, excepto el del Tribunal Electoral del Poder Judicial del Estado;
+
+XIV.- Elaborar el proyecto de presupuesto anual de egresos del Poder Judicial, que deberá ser propuesto para su aprobación al Pleno del Supremo Tribunal de Justicia; el proyecto deberá incluir la propuesta de la materia formulada por el Tribunal Electoral del Poder Judicial del Estado en los términos de lo dispuesto por el artículo 20 fracción IV, antepenúltimo párrafo de la Constitución Política del Estado;
+
+XV.- Establecer remuneración adecuada e irrenunciable al personal del Poder Judicial, excepto a los Magistrados;
+
+XVI.- Elaborar los proyectos de reglamentos y acuerdos necesarios para el funcionamiento del Poder Judicial, excepto los tendientes a mejorar la impartición de justicia y los relativos al funcionamiento y organización del Pleno del Supremo Tribunal de Justicia y del Tribunal Electoral;
+
+XVII.- Nombrar Visitadores Judiciales, quienes tendrán las facultades señaladas en la ley;
+
+XVIII.- Dictar las medidas que estime pertinentes para que la impartición de justicia sea pronta, completa e imparcial;
+
+XIX.- Constituir, modificar, suprimir, aumentar y dirigir los órganos administrativos que sean necesarios para la impartición de justicia; así como el número de servidores públicos del Poder Judicial del Estado;
+
+XX.- Examinar los informes mensuales que deberán remitir las Salas y los Juzgados acerca de los negocios pendientes y de los despachados;
+
+XXI.- Coordinar el Centro de Actualización Jurídica e Investigación Procesal, como área responsable de la capacitación y formación permanente de los servidores públicos del Poder Judicial;
+
+XXII.- Organizar, operar y mantener actualizado el Sistema de la Carrera Judicial, el cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia;
+
+XXIII.- Administrar y coordinar a los actuarios del Poder Judicial del Estado;
+
+XXIV.- Formular anualmente una lista con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades y distritos judiciales;
+
+XXV.- Diseñar, integrar y mantener actualizado el Sistema de Información Estadística del Poder Judicial del Estado;
+
+XXVI.- Entregar por conducto de su Presidente al Pleno del Supremo Tribunal de Justicia un informe estadístico trimestral del Poder Judicial del Estado;
+
+XXVII.- Elaborar la cuenta pública anual del Poder Judicial;
+
+XXVIII.- Dictar las medidas necesarias para la recepción, control y destino de los bienes asegurados y decomisados dentro de un proceso penal o de justicia para adolescentes; y
+
+XXIX.- Las demás facultades y obligaciones que las leyes le otorguen.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 123.
 
-Las dependencias administrativas tendrán un director, los jefes de área y el número de auxiliares que determine el presupuesto de egresos.
+Las dependencias administrativas estarán a cargo de un director, y tendrán los jefes de área y el número de auxiliares que determine el Consejo de la Judicatura y permita el presupuesto de egresos.
 
 ### CAPITULO III. DE LA DIRECCION DE CONTRALORIA
 
+> <small>(REFORMADO EL PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 124.
 
-La Dirección de Administración, cuyo titular será un profesional del ramo o bien un abogado con experiencia en materia laboral, contará con el personal subalterno que determine el presupuesto.
+La Dirección de Administración, recaerá en un profesional del ramo o bien un abogado con experiencia en materia laboral, contará con el personal subalterno que determine el Consejo de la Judicatura y lo permita el presupuesto.
 
 ###### ARTICULO 125.
 
@@ -1745,13 +1839,21 @@ III.- Asesorar técnicamente en la planeación y ejecución de las mejoras admin
 
 IV.- Ejecutar lo programado conforme al presupuesto;
 
-V.- Verificar que lo solicitado por las oficinas dependientes del Supremo Tribunal sea entregado oportunamente;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-VI.- Auxiliar al Presidente, con la coordinación de los servidores públicos encargados de las dependencias administrativas, a elaborar el proyecto de presupuesto de egresos para el ejercicio siguiente;
+V.- Verificar que los requerimientos por las oficinas dependientes del Poder Judicial sea entregado oportunamente;
 
-VII.- Comunicar a las oficinas sobre la implementación de las normas administrativas que se deben aplicar;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-VIII.- Informar al Presidente, de las anomalías administrativas que se adviertan en el Poder Judicial; y,
+VI.- Auxiliar al Presidente del Consejo de la Judicatura en la coordinación de los servidores públicos encargados de las dependencias administrativas, para la elaboración del proyecto de presupuesto de egresos para el ejercicio siguiente;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+VII.- Informar a las oficinas dependientes del Poder Judicial sobre la implementación de las normas administrativas que se deben aplicar;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+VIII.- Informar al Presidente del Consejo de la Judicatura, de las anomalías administrativas que se adviertan en el Poder Judicial; y,
 
 IX.- Las demás que le sean asignadas por esta ley u otro ordenamiento legal.
 
@@ -1765,35 +1867,41 @@ II.- Servicios Generales.
 
 #### SECCION PRIMERA. DEL DEPARTAMENTO DE PERSONAL
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 127.
 
-El Departamento de Personal tendrá un titular con el carácter de Jefe, que deberá reunir los requisitos que para ser Secretario General de Acuerdos señala esta ley. Esta dependencia tendrá el personal técnico administrativo y de apoyo que determine el presupuesto.
+El Departamento de Personal tendrá un titular con el carácter de Jefe, que deberá reunir los requisitos que para ser Secretario General de Acuerdos señala esta ley. Esta dependencia tendrá el personal técnico administrativo y de apoyo que determine el Consejo de la Judicatura y lo permita el presupuesto.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 128.
 
 El Departamento de Personal tendrá las siguientes atribuciones y obligaciones:
 
-I.- Seleccionar, evaluar, contratar y colocar al personal de apoyo propuesto para desempeñar un cargo determinado dentro de la estructura del Poder Judicial, cuidando que sea indispensable y necesario para el puesto, elaborando los exámenes selectivos a los aspirantes;
+I.- Someter a acuerdo del Consejo de la Judicatura lo concerniente a la selección, evaluación, contratación y asignación del personal de apoyo propuesto para desempeñar un cargo determinado dentro de la estructura del Poder Judicial, asegurándose de ser apto para el puesto, elaborando los exámenes selectivos a los aspirantes;
 
-II.- Vigilar y controlar las faltas en que incurre el personal del Supremo Tribunal e informar sobre sus inasistencias;
+II.- Vigilar y controlar las faltas en que incurre el personal del Poder Judicial e informar sobre sus inasistencias;
 
-III.- Elaborar y agilizar los trámites de los nombramientos expedidos por el Supremo Tribunal en Pleno y la Presidencia;
+III.- Elaborar y agilizar los trámites de los nombramientos expedidos por el Consejo de la Judicatura;
 
-IV.- Integrar y controlar los expedientes de los servidores públicos del Poder Judicial;
+IV.- Integrar, controlar y resguardar los expedientes personales de los servidores públicos del Poder Judicial;
 
-V.- Verificar que el personal que aparezca en la nóminas (sic), sea el que efectivamente labora en el Poder Judicial;
+V.- Asegurarse de que el personal que aparezca en nómina, sea el que efectivamente labora en el Poder Judicial;
 
-VI.- Verificar que las actas por incumplimiento de la relación de trabajo de los empleados reúnan los requisitos establecidos por la ley;
+VI.- Verificar que las actas que se elaboren a los servidores públicos del Poder Judicial por incumplimiento de la relación de trabajo, reúnan los requisitos establecidos por la ley;
 
-VII.- Establecer relaciones de coordinación con la organización sindical en beneficio de la administración de justicia; y,
+VII.- Establecer relaciones de coordinación con la organización sindical que faciliten el buen desempeño del personal; y,
 
-VIII.- Las demás que esta u otra ley le confieran.
+VIII.- Las demás que le asigne el Consejo de la Judicatura o esta ley le confieran.
 
 #### SECCION SEGUNDA. DEL DEPARTAMENTO DE SERVICIOS GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 129.
 
-El Departamento de Servicios Generales tendrá un Jefe y el personal de apoyo que señale el presupuesto. Se le asignan las siguientes facultades y obligaciones:
+El Departamento de Servicios Generales tendrá un Jefe y el personal de apoyo que le asigne el Consejo de la Judicatura y permita el presupuesto. A este departamento le corresponden las siguientes facultades y obligaciones:
 
 I.- Vigilar el correcto funcionamiento de los equipos de transporte, comunicación, acondicionamiento, servicios de agua, energía eléctrica y drenaje y, en general, cualquier otro servicio o bienes del Poder Judicial;
 
@@ -1809,11 +1917,11 @@ VI.- Las demás que ésta o cualquier otra ley les asignen.
 
 ### CAPITULO IV. DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 130.
 
-La Dirección de Finanzas estará a cargo de un profesional de la Contaduría o de la Administración Pública, y tendrá las siguientes atribuciones:
+La Dirección de Finanzas estará a cargo de un profesional de la Contaduría o de la Administración Pública, que ejercerá las instrucciones del Consejo de la Judicatura y tendrá las siguientes atribuciones:
 
 I.- Administrar y manejar adecuadamente los recursos financieros que sean propiedad o estén al cuidado del Poder Judicial;
 
@@ -1825,41 +1933,55 @@ IV.- Vigilar que la documentación comprobatoria que presenten las diferentes á
 
 V.- Instrumentar y operar conjuntamente con el Director del Fondo Auxiliar para la Administración de Justicia, los mecanismos de capacitación, inversión, aplicación, comprobación y control de los recursos de dicho fondo; y,
 
-VI.- Las demás que le señalen la Presidencia o el Pleno del Supremo Tribunal.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+VI.- Las demás que le asigne el Consejo de la Judicatura.
 
 ### CAPITULO V. DEL CENTRO DE ACTUALIZACION JURIDICA E INVESTIGACION PROCESAL
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 131.
 
-El Supremo Tribunal de Justicia tendrá una Dirección de Contraloría interna que estará a cargo de un profesional de la Contaduría, con las siguientes atribuciones:
+La Dirección de Contraloría interna que estará a cargo de un profesional de la Contaduría, tendrá las siguientes atribuciones:
 
-I.- Practicar las auditorias financieras, operacionales, de resultados de programas, contables, administrativas y de supervisión física; en su caso remitirá el resultado de estas actividades a la Presidencia del Tribunal;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+I.- Practicar las auditorías financieras, operacionales, de resultados de programas, contables, administrativas y de supervisión física; en su caso remitirá el resultado de estas actividades al Consejo de la Judicatura;
 
 II.- Intervenir en la entrega y recepción de bienes cuando ocurran cambios de titulares de las diversas áreas del Poder Judicial, elaborando el acta respectiva;
 
 III.- Intervenir en las bajas de inventarios en coordinación con la Dirección de Administración;
 
-IV.- Elaborar los manuales de organización y procedimientos de las diversas unidades administrativas con el concurso de éstas;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+IV.- Elaborar los manuales de organización y procedimientos de las diversas unidades administrativas con el concurso de éstas, sometiéndolos a la aprobación del Consejo de la Judicatura;
 
 V.- Recibir las declaraciones de situación patrimonial de los servidores públicos del Poder Judicial, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado;
 
-VI.- Las demás que le señale el reglamento y la Presidencia del Supremo Tribunal.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+VI.- Las demás que le señale el reglamento y el Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 132.
 
-Para la consecución de sus objetivos, la Contraloría contará con un Director y el apoyo de auditores supervisados por él, así como con el personal fijo o temporal, que conforme a las circunstancias se requiera.
+Para la consecución de sus objetivos, la Contraloría contará con un Director y el apoyo de auditoría indispensable, así como con el personal permanente o temporal, que conforme a las circunstancias se requiera y autorice el Consejo de la Judicatura.
 
 ### CAPITULO VI. DE LA DIRECCION DE INFORMATICA
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 133.
 
-Las disposiciones del presente Capítulo son reglamentarias de los párrafos segundo y tercero del artículo 107 de la Constitución Política del Estado y, tendrán por contenido definir el objeto y composición del Fondo, su administración, conservación y destino, dejando a criterio del Pleno del Tribunal sus formas de captación mediante los acuerdos que estime pertinentes con base en las sugerencias que al respecto realice el responsable del Fondo.
+Las disposiciones del presente Capítulo son reglamentarias de los párrafos segundo y tercero del artículo 107 de la Constitución Política del Estado y, tendrán por contenido definir el objeto y composición del Fondo, su administración, conservación y destino, dejando a criterio del Consejo de la Judicatura sus formas de captación mediante los acuerdos que estime pertinentes con base en las sugerencias que al respecto realice el responsable del Fondo.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 134.
 
-El Fondo Auxiliar para la Administración de Justicia servirá de apoyo a ésta para mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, mediante estímulos y recompensas, y su capacitación; adquisición de mobiliario y equipo, libros y demás material de contenido jurídico que se considere útil para el mas eficaz cumplimiento de las funciones.
+El Fondo Auxiliar para la Administración de Justicia acatará las instrucciones del Consejo de la Judicatura y se ocupará de servir de apoyo a éste para mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, mediante la aplicación de estímulos y recompensas, y su capacitación; adquisición de mobiliario y equipo, libros y demás material de contenido jurídico que considere útil para el mas eficaz cumplimiento de las funciones.
 
 ###### ARTICULO 135.
 
@@ -1927,35 +2049,37 @@ Para los efectos de la fracción II del artículo anterior, el tribunal o alguno
 
 Las cantidades que reciba el Fondo en los términos del artículo anterior, serán entregadas a quienes demuestren tener derecho a ellas, previa orden escrita del titular del órgano correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 138.
 
-El Fondo Auxiliar para la Administración de Justicia será administrado por un Director, que deberá ser un profesional de la Contaduría Pública o del Derecho, con un mínimo de tres años de práctica, contados a partir de haber obtenido el titulo, quien tendrá la responsabilidad directa del mismo, pero su desempeño estará bajo la supervisión y vigilancia del Magistrado que para tal efecto designe el Pleno a propuesta del Presidente del Supremo Tribunal de Justicia del Estado.
+El Fondo Auxiliar para la Administración de Justicia será administrado por un Director, nombrado por el Consejo de la Judicatura y recaerá en un profesional de la Contaduría Pública o del Derecho, con un mínimo de 3 años de práctica, contados a partir de haber obtenido el título, quien tendrá la responsabilidad directa del mismo y su desempeño estará bajo la supervisión y vigilancia del Consejo de la Judicatura.
 
-A efecto de captar las cantidades o depósitos de bienes y valores que deben ingresar al Fondo, la Dirección del mismo contara con oficinas receptoras a cargo de quiénes sean designados para tal efecto por el Presidente del Supremo Tribunal.
+A efecto de captar las cantidades o depósitos de bienes y valores que deben ingresar al Fondo, la Dirección del mismo contará con oficinas receptoras a cargo de quienes sean designados para tal efecto por el Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 139.
 
-El titular de la Dirección Administradora del Fondo informará al Pleno del Supremo Tribunal, por sí o por conducto del Magistrado que lo supervise, por lo menos cada treinta días, de los movimientos y pormenores del Fondo y deberá reunir y proporcionar la información necesaria relativa a esa Dependencia para rendir los informes trimestrales de cuenta pública al Congreso.
+El titular de la Dirección Administradora del Fondo informará al Consejo de la Judicatura, cuando este lo requiera o por lo menos cada treinta días, de los movimientos y pormenores del Fondo y deberá reunir y proporcionar la información necesaria relativa a esa dependencia para rendir los informes de cuenta pública al Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 140.
 
-Los Magistrados designados por el Pleno del Supremo Tribunal de Justicia para ejercer facultades de supervisión y vigilancia, deberán efectuar visitas oportunas a las diversas oficinas recaudadoras y demás instancias encargadas de captar los recursos del Fondo, a fin de constatar los trámites que realicen, y, en su caso, consolidar su eficiencia.
+El personal designado por el Consejo de la Judicatura para ejercer facultades de supervisión y vigilancia, deberán efectuar visitas oportunas a las diversas oficinas recaudadoras y demás instancias encargadas de captar los recursos del Fondo, a fin de constatar los trámites que realicen, y, en su caso, consolidar su eficiencia.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 141.
 
-El titular de la Dirección del Fondo presentará, con la debida oportunidad ante el Pleno del Supremo Tribunal, los estudios en que se propongan las formas de captación de los recursos que lo integren, así como su conservación, a fin de que se tomen los acuerdos pertinentes.
+El titular de la Dirección del Fondo presentará, con la debida oportunidad ante el Consejo de la Judicatura, los estudios en que se propongan las formas de captación de los recursos que lo integren, así como su conservación, a fin de que se tomen los acuerdos pertinentes.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 142.
 
-La Dirección del Fondo, asesorada por los Magistrados designados por el Pleno para supervisar y vigilar su desempeño, podrá invertir las cantidades que lo integren a favor del Supremo Tribunal de Justicia del Estado de Tamaulipas, siempre y cuando quede garantizada la disponibilidad oportuna y suficiente de dinero para devoluciones de depósitos que deban hacerse.
+La Dirección del Fondo, previo acuerdo sustentado ante el Consejo de la Judicatura, podrá invertir las cantidades que lo integren a favor del Poder Judicial del Estado, siempre y cuando quede garantizada la disponibilidad oportuna y suficiente de dinero para devoluciones de depósitos que deban hacerse.
 
 ###### ARTICULO 143.
 
@@ -1973,9 +2097,11 @@ III.- La impartición de toda clase de cursos de capacitación para el mejoramie
 
 ### CAPITULO VII. DE LA VISITADURIA JUDICIAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 144.
 
-El Supremo Tribunal de Justicia tendrá un Centro de Actualización Jurídica e Investigación Procesal para el Desarrollo de la Carrera Judicial, cuyo titular será un Director.
+El Centro de Actualización Jurídica e Investigación Procesal para el Desarrollo de la Carrera Judicial dependerá del Consejo de la Judicatura, quien nombrará a su Director.
 
 ###### ARTICULO 145.
 
@@ -1985,15 +2111,25 @@ Las funciones del Centro serán las de adiestrar al personal que deba prestar su
 
 Son funciones y responsabilidades del Director del Centro:
 
-I.- Formular anualmente, para ser sometido a la aprobación del Pleno del Supremo Tribunal, el programa a desarrollar;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-II.- Cuidar que el programa de actualización judicial se elabore con apego a las necesidades del Poder Judicial;
+I.- Formular anualmente, para ser sometido a la aprobación del Consejo de la Judicatura, el programa a desarrollar;
 
-III.- Establecer y mantener comunicación permanente con otras dependencias, instituciones educativas y centros de investigación, con el propósito de lograr el mejoramiento académico y práctico de los cursos que se impartan;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-IV.- Promover, entre el personal del Poder Judicial, cursos de capacitación y actualización;
+II.- Garantizar que el programa de actualización judicial se elabore con apego a las necesidades del Poder Judicial;
 
-V.- Realizar los análisis y pruebas que permitan una adecuada selección y contratación de personal en el área judicial;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+III.- Establecer y mantener comunicación permanente con otras dependencias, instituciones educativas y centros de investigación, con el propósito de lograr el mejoramiento académico y práctico de los cursos que se impartan, tomando para ello el acuerdo del Consejo de la Judicatura;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+IV.- Promover, entre el personal del Poder Judicial, cursos de capacitación y actualización que acuerde el Consejo de la Judicatura;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+V.- Realizar los análisis y pruebas que permitan una adecuada selección y contratación de personal en el área judicial, para proponerlos al Consejo de la Judicatura;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -2011,23 +2147,25 @@ VIII.- Elaborar un banco de datos del desarrollo y solución de los asuntos de n
 
 IX.- Realizar estudios científicos acerca del desarrollo de la impartición de justicia, para apoyar académicamente la solución de asuntos que se atenderán en el futuro;
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-X.- Sustentar estudios de propuestas de reforma legislativa, de aquellas disposiciones materia de la función jurisdiccional; y
+X.- Sustentar estudios de propuestas de reforma legislativa, de aquellas disposiciones materia de la función jurisdiccional y someterlas a la aprobación del Consejo de la Judicatura; y
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-XI.- Realizar las demás funciones y asumir las responsabilidades que las disposiciones legales y reglamentarias le asignen, así como las que le confiera la superioridad.
+XI.- Realizar las demás funciones y asumir las responsabilidades que las disposiciones legales y reglamentarias le asigne el Consejo de la Judicatura.
 
 ### CAPITULO UNICO. OTRAS DEPENDENCIAS DEL PODER JUDICIAL
 
 ###### ARTICULO 147.
 
-El Poder Judicial contará con una Dirección de Informática a cargo de un Ingeniero en Sistemas, que dependerá en forma directa de la Presidencia del Supremo Tribunal.
+El Poder Judicial contará con una Dirección de Informática a cargo de un Ingeniero en Sistemas, que dependerá del Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 148.
 
-La Dirección de Informática funcionará a través de tres vertientes fundamentales que se encargarán del desarrollo y tecnologías de información, de la operación y el mantenimiento, y la de Internet; contará para ello con el personal subalterno que se estime necesario, tomando en cuenta las posibilidades presupuestales.
+La Dirección de Informática funcionará a través de tres vertientes fundamentales que se encargarán del desarrollo y tecnologías de información, de la operación y el mantenimiento, y la de Internet. Contará con el personal subalterno que le asigne el Consejo de la Judicatura, tomando en cuenta las posibilidades presupuestales.
 
 ###### ARTICULO 149.
 
@@ -2049,35 +2187,49 @@ IV.- Capacitación específica en sistemas avanzados en informática a los servi
 
 V.- Proporcionar mantenimiento preventivo y correctivo a los recursos informáticos;
 
-VI.- Proponer al Pleno del Supremo Tribunal, a través de su Presidencia, la normatividad en informática adecuada al Poder Judicial;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+VI.- Proponer al Consejo de la Judicatura la normatividad en informática adecuada al Poder Judicial;
 
 VII.- Informar acerca de las características técnicas de los productos o servicios informáticos que se deseen adquirir y, en su caso, aprobar la recepción de los mismos;
 
 VIII.- Actualización constante sobre los avances tecnológicos y científicos que convengan y puedan aplicarse en los programas de modernización del Poder Judicial;
 
-IX.- Instalar y mantener en adecuado funcionamiento las redes de computadoras en las diferentes áreas del Poder Judicial; y,
+IX.- Instalar y mantener en adecuado funcionamiento las redes de computadoras en las diferentes áreas del Poder Judicial; y (sic),
 
-X.- Diseñar, elaborar y mantener actualizada una página de Internet y los sistemas que se requieran para el caso, que permita consultar las actividades sobre impartición de justicia del Poder Judicial.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-### CAPITULO I. DEL PLENO, SU INTEGRACION Y COMPETENCIA
+X.- Diseñar, elaborar y mantener actualizada una página de Internet y los sistemas que se requieran para el caso, que permita consultar las actividades sobre impartición de justicia del Poder Judicial; y
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XI.- Las demás que el (sic) asigne el Consejo de la Judicatura.
+
+### CAPITULO XIII (SIC). DE LA UNIDAD DE INFORMACION PUBLICA
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 151.
 
-La Visitaduría estará a cargo de un Director y el número de visitadores que se requiera, debiendo contar todos ellos con título de Licenciado en Derecho y experiencia mínima de tres años en el ejercicio de la profesión, contados a partir de su obtención.
+La Visitaduría estará a cargo de un Director y el número de visitadores que le asigne el Consejo de la Judicatura, debiendo contar todos ellos con título de Licenciado en Derecho y experiencia mínima de 3 años en el ejercicio de la profesión, contados a partir de su obtención.
 
 Sin perjuicio de las facultades reservadas al Presidente y a los Magistrados de Número y Supernumerarios, la Dirección de Visitaduría tendrá las atribuciones siguientes:
 
-I.- Practicar visitas generales o especiales a los Juzgados de Primera Instancia y Menores, para verificar el cumplimiento de las disposiciones legales y las emitidas por el Pleno o por la Presidencia del Supremo Tribunal, así como cuando éstos lo estimen necesario con motivo de denuncias específicas de parte interesada por faltas de los servidores públicos judiciales. En todo caso el visitador deberá levantar acta circunstanciada en la que haga constar el resultado de la visita;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-II.- Proponer al Presidente del Supremo Tribunal, a más tardar en el mes de noviembre, un calendario o agenda de visitas anual; y,
+I.- Practicar visitas generales o especiales a los Juzgados de Primera Instancia y Menores, para verificar el cumplimiento de la disposiciones legales y las emitidas por el Consejo de la Judicatura, así como cuando esto se estime necesario con motivo de denuncias específicas de parte interesada por faltas a los servidores públicos judiciales. En todo caso el visitador deberá levantar acta circunstanciada en la que haga constar el resultado de visita;
 
-III.- Rendir al Presidente un informe escrito del resultado de las visitas, anexando las actas que al efecto se levanten.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+II.- Proponer al Presidente del Consejo de la Judicatura, a mas tardar en el mes de noviembre, un calendario o agenda de visita anual; y,
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+III.- Rendir al Presidente del Consejo de la Judicatura un informe escrito del resultado de las visitas, anexando las actas que al efecto se levanten.
 
 ## TITULO OCTAVO
 
-### CAPITULO II. DEL MAGISTRADO PRESIDENTE
+### CAPITULO I. DEL PLENO, SU INTEGRACION Y COMPETENCIA
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2087,13 +2239,17 @@ III.- Rendir al Presidente un informe escrito del resultado de las visitas, anex
 
 La Oficialía de Partes del Supremo Tribunal de Justicia dependerá de la Secretaría General de Acuerdos, y tendrá como función recibir, en horas de oficina, los escritos, promociones, oficios y todo tipo de correspondencia dirigida al mismo, a las Salas y a la Presidencia, señalando en ellos, la fecha y hora de presentación, tanto en el original como en la copia, haciendo constar los documentos que se anexan, sellando y firmando quien realice la recepción.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 153.
 
-El Pleno del Supremo Tribunal podrá establecer Oficialías de Partes en los distritos judiciales en que exista más de un Juzgado, asignándole personal y sus funciones.
+El Consejo de la Judicatura podrá establecer Oficialías de Partes en los distritos judiciales en que exista más de un Juzgado, asignándole personal y sus funciones.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 154.
 
-Las Oficialías de Partes estarán a cargo de un titular que será nombrado por el Pleno del Supremo Tribunal de Justicia. Deberá tener título de Abogado, con dos años cuando menos de ejercicio profesional, y ser de reconocida solvencia moral.
+Las Oficialías de Partes estarán a cargo de un titular que será nombrado por el Consejo de la Judicatura. Deberá tener título de Licenciado en Derecho, con 2 años cuando menos de ejercicio profesional, y ser de reconocida solvencia moral.
 
 #### SECCION SEGUNDA. DEL ARCHIVO JUDICIAL
 
@@ -2101,9 +2257,11 @@ Las Oficialías de Partes estarán a cargo de un titular que será nombrado por 
 
 El Archivo Judicial dependerá de la Secretaría General de Acuerdos, y se integrará con el siguiente personal: Un jefe con título de Abogado, una Secretaria y demás empleados que señale el presupuesto de egresos.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 156.
 
-El Archivo Judicial tendrá sus oficinas centrales en Ciudad Victoria; si las necesidades del servicio lo requieren, podrá establecerse, previo acuerdo del Pleno del Supremo Tribunal, dependencias en cualquier otro distrito judicial del Estado.
+El Archivo Judicial tendrá sus oficinas centrales en Victoria; si las necesidades del servicio lo requieren, podrá establecerse, previo acuerdo del Consejo de la Judicatura, dependencias en cualquier otro distrito judicial del Estado.
 
 ###### ARTICULO 157.
 
@@ -2117,9 +2275,11 @@ III.- Cualesquiera otros expedientes concluidos que conforme a la ley deban form
 
 IV.- Los demás documentos y objetos que las leyes y el Supremo Tribunal determinen.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 158.
 
-Habrá en el Archivo tres secciones: Civil, Penal y Administrativa, con las respectivas subsecciones para expedientes no concluidos.
+Habrá en el archivo tres secciones: civil, penal y administrativa, con las respectivas sub secciones para expedientes no concluidos.
 
 ###### ARTICULO 159.
 
@@ -2143,15 +2303,21 @@ El Secretario General de Acuerdos del Supremo Tribunal podrá expedir, previa au
 
 El examen de libros, documentos o expedientes del Archivo Judicial sólo podrá hacerse dentro de la oficina y en presencia del Jefe de la misma, por los interesados o sus asesores acreditados.
 
-Será motivo de responsabilidad para el Jefe del Archivo Judicial impedir el examen a que se refiere este artículo, y la sanción respectiva será impuesta por el Presidente del Supremo Tribunal.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
+Será motivo de responsabilidad para el Jefe del Archivo Judicial impedir el examen a que se refiere este artículo, y la sanción respectiva será impuesta por el Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 164.
 
-La falta de remisión de expedientes al Archivo Judicial, por parte de los Secretarios, será sancionada disciplinariamente por el Presidente del Supremo Tribunal al recibir el informe del visitador.
+La falta de remisión de expedientes al Archivo Judicial, por parte de los Secretarios, será sancionada disciplinariamente por el Consejo de la Judicatura al recibir el informe del visitador.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 165.
 
-Cualquier defecto, irregularidad o infracción que advierta el Jefe del Archivo Judicial, en los expedientes o documentos que se le remitan para su depósito, será comunicado al Presidente del Supremo Tribunal.
+Cualquier defecto, irregularidad o infracción que advierta el Jefe del Archivo Judicial, en los expedientes o documentos que se le remitan para su depósito, será comunicado al Consejo de la Judicatura.
 
 ###### ARTICULO 166.
 
@@ -2159,17 +2325,23 @@ El reglamento respectivo fijará las atribuciones de los empleados del Archivo J
 
 #### SECCION TERCERA. DE LA BIBLIOTECA
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 167.
 
-La Biblioteca del Supremo Tribunal de Justicia deberá ocupar un departamento especial del edificio en que resida, y llevará el nombre de "Biblioteca Aniceto Villanueva".
+La Biblioteca del Poder Judicial deberá ocupar un departamento especial del edificio en que resida, y llevará el nombre de "Biblioteca Aniceto Villanueva".
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 168.
 
-La Biblioteca estará al servicio del Supremo Tribunal, de los Juzgados y público en general, pero sólo los Magistrados, Jueces y Secretarios de la administración de justicia podrán solicitar, en préstamo, los libros, bajo recibo firmado y por un término que no exceda de diez días. Se podrá autorizar a los litigantes o a cualquier otra persona para consultar libros o documentos en el recinto de la Biblioteca.
+La Biblioteca estará al servicio del Poder Judicial y del público en general, pero sólo lo Magistrados, Jueces y Secretarios de la administración de justicia podrán solicitar, en préstamo, los libros, bajo recibo firmado y por un término que no exceda de diez días. Se podrá autorizar a los litigantes o a cualquier otra persona para consultar libros o documentos en el recinto de la Biblioteca.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 169.
 
-La Biblioteca estará a cargo de un jefe de área o bibliotecario, que dependerá de la Dirección de Actualización y tendrá el personal que fije el presupuesto, los que serán nombrados por el Supremo Tribunal, y éste determinará las horas y días en que estará en servicio.
+La Biblioteca estará a cargo de un jefe de área o bibliotecario, que dependerá de la Dirección de Actualización y tendrá el personal que le asigne el Consejo de la Judicatura y lo permita el presupuesto, los que serán nombrados por el Consejo de la Judicatura, y éste determinará las horas y días en que estará en servicio.
 
 ###### ARTICULO 170.
 
@@ -2179,7 +2351,9 @@ I.- Formar un inventario alfabético por nombres de autores, de todos los libros
 
 II.- Ordenar las obras de la biblioteca conforme al sistema de clasificación adoptado por el Supremo Tribunal;
 
-III.- Formar, cada semestre, listas de obras nuevas, para su compra, y de obras por encuadernar, entregándoselas al Presidente, con presupuestos de su costo y del de encuadernación;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+III.- Formar, cada semestre, listas de obras nuevas, para compra, y de obras por encuadernar, entregándoselas al Presidente del Consejo de la Judicatura, con presupuestos de su costo y del de encuadernación;
 
 IV.- Conservar en buen estado los libros y papeles, así como los muebles y útiles, dando cuenta de los desperfectos que sufran;
 
@@ -2187,17 +2361,19 @@ V.- Distribuir las labores de su área para el mejor funcionamiento;
 
 VI.- Llevar una estadística de los lectores asistentes a la biblioteca; y,
 
-VII.- Las demás que le prescriban las leyes y reglamentos respectivos y los Acuerdos del Supremo Tribunal o de su Presidente.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+VII.- Las demás que le prescriban las leyes y reglamento respectivos y el Consejo de la Judicatura.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 #### SECCION CUARTA. DEL CENTRO DE MEDIACION
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 171.
 
-El Supremo Tribunal de Justicia tendrá un Centro de Mediación, cuyo titular será un Director, contará con un área de apoyo psicosocial y el personal subalterno que determine el presupuesto.
+El Poder Judicial tendrá un Centro de Mediación, cuyo titular será un Director, contara con un área de apoyo psicosocial y el personal subalterno que le asigne el Consejo de la Judicatura y determine el presupuesto.
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -2213,7 +2389,9 @@ El Director del Centro de Mediación tendrá las siguientes atribuciones y oblig
 
 I.- Dirigir el Centro de Mediación y vigilar el cumplimiento de sus objetivos;
 
-II.- Presentar al Presidente del Supremo Tribunal las propuestas para Jefes de Unidad y Mediadores para su designación;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+II.- Presentar al Consejo de la Judicatura las propuestas para Jefes de Unidad y Mediadores para su designación;
 
 III.- Prestar el servicio de mediación para la solución, parcial o total de conflictos que planteen los particulares por sí o a través de las autoridades judiciales, en materia civil, mercantil y familiar, siempre y cuando no se contravengan disposiciones de orden público, no se trate de derechos irrenunciables y no se afecten derechos de terceros; en materia penal podrá recurrirse a la mediación en los casos de delitos que de acuerdo con la ley procede el perdón del ofendido y, en todos, por cuanto hace a la reparación del daño; en la materia de justicia para adolescentes, cuando proceda el acuerdo reparatorio o la suspensión del proceso a prueba, y en cualquier otro conflicto, respecto de derechos disponibles de las partes;
 
@@ -2225,7 +2403,9 @@ VI.- Apoyar a las diversas entidades públicas y privadas en la promoción de la
 
 VII.- Coadyuvar con el Centro de Actualización Jurídica e Investigación Procesal sobre la impartición de cursos de capacitación en métodos alternos para la solución de conflictos;
 
-VIII.- Rendir con la oportunidad debida, los informes que les sean requeridos por el Presidente y Magistrados del Supremo Tribunal;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+VIII.- Rendir con la oportunidad debida, los informes que les sean requeridos por el Consejo de la Judicatura;
 
 IX.- Comunicar a la autoridad judicial cuando el proceso de mediación se derive de un procedimiento judicial, que se inició aquél, así como su conclusión, señalando las causas de ello y, en su caso, remitiendo copia del convenio que las partes hayan celebrado para los efectos legales correspondientes;
 
@@ -2273,7 +2453,9 @@ VII.- Comunicar a la autoridad judicial cuando el proceso de mediación se deriv
 
 VIII.- Rendir al Director del Centro de Mediación sendos informes de las labores realizadas, dentro de los primeros tres días del mes de julio y otro dentro de los primeros tres días del mes de diciembre;
 
-IX.- Rendir los informes que le sean solicitados por el Presidente del Supremo Tribunal de Justicia; y,
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+IX.- Rendir los informes que le sean solicitados por el Consejo de la Judicatura; y,
 
 X.- Las demás que se deriven de la Ley y otras disposiciones jurídicas que resulten aplicables.
 
@@ -2323,7 +2505,7 @@ VI.- Las demás que le sean encomendadas por el Director del Centro de Mediació
 
 Todo el personal del área de apoyo psicosocial deberá contar con el título profesional o documento que acredite sus conocimientos en la materia.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE MAYO DE 2010)</small>
 
 #### SECCION QUINTA. DE LA UNIDAD DE INFORMACION PUBLICA
 
@@ -2331,15 +2513,23 @@ Todo el personal del área de apoyo psicosocial deberá contar con el título pr
 
 ###### ARTICULO 179.
 
+El Poder Judicial contará con una Unidad de Información Pública que estará a cargo de un Jefe de Departamento y el personal de apoyo que determine el Consejo de la Judicatura y permita el presupuesto.
+
 Las funciones de la Unidad de Información Pública serán:
 
-I- Atender consultas vía correo electrónico del Poder Judicial del Estado;
+I.- Atender consultas vía correo electrónico del Poder Judicial del Estado;
 
 II.- Recabar información de las distintas ramas del Poder Judicial del Estado;
 
-III.- Actualizar la información pública de oficio y demás disponible en la página web del Poder Judicial; y,
+III.- Actualizar la información pública de oficio y demás disponible en la página web del Poder Judicial;
 
-IV.- Resolver consultas de información pública presentadas por los interesados.
+IV.- Resolver consultas de información pública presentadas por los interesados;
+
+V.- Elaborar el proyecto de reglamento interior para su aprobación por el Consejo de la Judicatura;
+
+VI.- Supervisar el Centro de Orientación e Información; y,
+
+VII.- Las demás que le asigne el Consejo de la Judicatura.
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2347,7 +2537,7 @@ IV.- Resolver consultas de información pública presentadas por los interesados
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO III. DE LOS MAGISTRADOS ELECTORALES Y SUS PONENCIAS
+### CAPITULO II. DEL MAGISTRADO PRESIDENTE
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2479,7 +2669,7 @@ Al Tribunal Electoral, su Pleno, sus integrantes y demás órganos del mismo, le
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO IV. DE LA SECRETARIA GENERAL DE ACUERDOS
+### CAPITULO III. DE LOS MAGISTRADOS ELECTORALES Y SUS PONENCIAS
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2525,7 +2715,7 @@ Las ausencias del Presidente serán suplidas, si no exceden de dos meses, por el
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO V. DE LA COMISION DE ADMINISTRACION, VIGILANCIA Y DISCIPLINA
+### CAPITULO IV. DE LA SECRETARIA GENERAL DE ACUERDOS
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2571,7 +2761,7 @@ Todos los servidores del Tribunal serán considerados personal de confianza.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO VI. DE LA JURISPRUDENCIA ELECTORAL
+### CAPITULO V. DE LA COMISION DE ADMINISTRACION, VIGILANCIA Y DISCIPLINA
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2618,6 +2808,10 @@ IV.- No ser o haber sido dirigente nacional, estatal o municipal de algún parti
 El Secretario General percibirá la remuneración prevista en el presupuesto de egresos y tendrá la obligación de guardar absoluta reserva sobre los asuntos del Tribunal Electoral.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO VI. DE LA JURISPRUDENCIA ELECTORAL
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 199.
 
@@ -2812,3 +3006,9 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE MAYO DE 2010
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
