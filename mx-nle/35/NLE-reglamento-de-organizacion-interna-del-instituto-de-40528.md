@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-organizacion-interna-del-instituto-de-40528"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-16"
-last_updated: "2007-06-20"
+last_updated: "2010-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO DE ORGANIZACION INTERNA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE ORGANIZACION INTERNA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON, PUBLICADO EN EL P.O. DE 26 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de agosto de 2004
 
@@ -1990,3 +1992,9 @@ EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 20 DE JUNIO DE 2007.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 26 DE MAYO DE 2010.
+
+PRIMERO.- Este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir de la entrada en vigor de este reglamento se abroga el Reglamento de Organización Interna del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, publicado el día 16 de agosto del 2004 en el Periódico Oficial del Estado; así como las modificaciones publicadas en el Periódico Oficial del Estado en fecha 20 de junio del 2007, relativas a la homologación de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León; así como todas las disposiciones que se opongan al presente.
