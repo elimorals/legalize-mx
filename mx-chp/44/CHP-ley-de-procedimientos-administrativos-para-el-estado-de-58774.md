@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-procedimientos-administrativos-para-el-estado-de-58774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-28"
-last_updated: "2009-03-18"
+last_updated: "2010-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 28 de diciembre de 2007.
 
@@ -1805,13 +1805,37 @@ Existiendo resolución administrativa definitiva, si la Sala considera que la qu
 
 ## Título III (sic). Del Recurso de Revisión
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 173.
 
-El Recurso de Revisión procederá en contra de las resoluciones o sentencias definitivas de las Salas que admitan, desechen o tengan por no presentada la demanda, la contestación, la ampliación de ambas o alguna prueba; las que decreten o nieguen el sobreseimiento del juicio antes del cierre de instrucción; aquellas que admitan o rechacen la intervención del tercero interesado y las resoluciones que concedan o nieguen la suspensión definitiva.
+El recurso de revisión procederá:
 
-La revisión se interpondrá ante la Sala dentro de los diez días siguientes a aquel en que surta efectos la notificación de que se trate.
+I.- Contra resoluciones de los Magistrados de Sala que:
+
+a) Admitan, desechen o tengan por no presentada la demanda, la contestación, la ampliación de ambas o alguna prueba.
+
+b) Las que concedan o nieguen la suspensión provisional.
+
+c) Las que modifiquen o revoquen el auto en que se concedió o negó la suspensión provisional.
+
+d) Las que nieguen el sobreseimiento en el juicio antes del cierre de instrucción; y,
+
+e) Aquellas que admitan o rechacen la intervención del tercero interesado.
+
+II.- Contra sentencias definitivas de las Salas que:
+
+a) Resuelvan el fondo del asunto.
+
+b) Decreten el sobreseimiento en el juicio.
+
+III.- Contra sentencias interlocutorias que:
+
+a) Concedan o nieguen la suspensión definitiva.
+
+b) Resuelvan los incidentes.
+
+La Revisión se interpondrá ante la Sala dentro de los diez días siguientes a aquel en que surta efectos la notificación de que se trate.
 
 ###### Artículo 174.
 
@@ -1849,19 +1873,23 @@ IV.- Si en la revisión de una sentencia, encontraren que se violaron las reglas
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 177.
 
-Los Criterios sustentados en las sentencias pronunciadas por el Pleno del Tribunal, aprobados por lo menos por cinco magistrados, constituirán precedente una vez publicados en el medio de difusión oficial del Tribunal.
+Los Criterios sustentados en las sentencias pronunciadas por el Pleno y las Salas del Tribunal, aprobados por unanimidad, constituirán precedente una vez publicados en el medio de difusión oficial del Tribunal.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 178.
 
-Para fijar Criterios, el Pleno deberá aprobar tres precedentes en el mismo sentido, no interrumpidos por otro en contrario.
+Para fijar criterios, el Pleno o las Salas, deberán aprobar tres precedentes en el mismo sentido, no interrumpidos por otro en contrario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 179.
 
-En el caso de contradicción de criterios, cualquiera de los magistrados del tribunal o las partes en los juicios en las que éstos se sustentaron, podrán denunciarla ante el Presidente del Tribunal para que éste la haga del conocimiento del Pleno, el cual con un quórum mínimo de cinco Magistrados, decidirá por mayoría de tres la que debe prevalecer, constituyendo criterio.
+En el caso de contradicción de Criterios de las Salas, cualquiera de los Magistrados del Tribunal o las partes en los juicios en las que tales tesis se sustentaron, podrán denunciarla ante el Presidente del Tribunal para que éste la haga del conocimiento del Pleno general, el cual con un quórum mínimo de cinco magistrados, decidirá por mayoría de tres la que debe prevalecer, constituyendo criterio.
 
 La resolución que pronuncie el Pleno del Tribunal, en los casos a que este Artículo se refiere, sólo tendrá efectos para fijar Criterios y no afectará las resoluciones dictadas en los juicios correspondientes.
 
@@ -1910,3 +1938,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 P.O. 18 DE MARZO DE 2009.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 26 DE MAYO DE 2010.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
