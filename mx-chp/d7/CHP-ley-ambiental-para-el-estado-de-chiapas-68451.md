@@ -4,7 +4,7 @@ identifier: "CHP-ley-ambiental-para-el-estado-de-chiapas-68451"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-18"
-last_updated: "2009-03-18"
+last_updated: "2010-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -129,7 +129,9 @@ XIII. Desarrollo sustentable: El proceso evaluable mediante criterios e indicado
 
 XIV. Ley: Ley Ambiental para el Estado de Chiapas;
 
-XV. Manifestación de Impacto Ambiental: El documento emitido por la Secretaría con base en estudios, mediante el cual se da a conocer el impacto ambiental significativo y el potencial que genera una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XV. Manifestación de Impacto Ambiental: El documento mediante el cual se da a conocer, con base en estudios, el Impacto Ambiental significativo y el potencial que genera una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
 XVI. Normas Oficiales Mexicanas: Las que se elaboren, expidan y consideren como tales conforme a la Ley Federal de Metrología y Normalización;
 
@@ -156,6 +158,14 @@ XXVI. Servicios Ambientales: Los beneficios de interés social e individual que 
 XXVII. Verificación: Acciones de inspección y vigilancia que realiza la Secretaría a través del personal debidamente acreditado, para la acciones que establece la presente ley, en los términos que en la misma se expresan; y,
 
 XXVIII. Vigilancia: Monitoreo y supervisión que permite conocer la forma en que se da cumplimiento a las disposiciones contenidas en la presente ley.
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XXIX. Estudio de Riesgo Ambiental: Documento mediante el cual se da a conocer, con base en el análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riegos que estas representan para los ecosistemas, la salud humana o el ambiente, así como las medidas técnicas preventivas, correctivas y de seguridad tendentes a atenuar, reducir o evitar los efectos adversos que se causen al ambiente, en caso de un posible accidente durante la realización o desarrollo normal de la obra o actividad de que se trate.
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XXX. Evaluación del Impacto Ambiental: Procedimiento a través del cual la Autoridad evalúa los efectos que sobre el ambiente y los recursos naturales pueden generar la realización de programas, obras y actividades de desarrollo dentro del territorio del Estado de Chiapas, a fin de evitar o reducir al mínimo efectos negativos sobre el medio ambiente, prevenir futuros daños al mismo y propiciar el aprovechamiento sustentable de los recursos naturales.
 
 ### Capítulo Segundo. De las Autoridades Ambientales en el Estado
 
@@ -465,7 +475,7 @@ En la planeación del desarrollo integral y sustentable del Estado se observará
 
 ###### Artículo 22.
 
-En la planeación y realización de acciones a cargo de las dependencias y entidades de la Administración Pública Estatal y Municipal, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes les confieren para regular, promover, restringir, prohibir, orientar yen general inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política ambiental que establezcan el Plan Estatal de Desarrollo, los programas correspondientes, y lo que señala el presente ordenamiento legal.
+En la planeación y realización de acciones a cargo de las dependencias y entidades de la Administración Pública Estatal y Municipal, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes les confieren para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política ambiental que establezcan el Plan Estatal de Desarrollo, los programas correspondientes, y lo que señala el presente ordenamiento legal.
 
 ###### Artículo 23.
 
@@ -485,7 +495,7 @@ El Gobierno del Estado y los Ayuntamientos Municipales garantizarán el derecho 
 
 ###### Artículo 27.
 
-En la planeación y realización de acciones a cargo de las. dependencias y entidades de la Administración Pública Estatal y Municipal se observarán los criterios ecológicos específicos que establece esta ley y demás disposiciones que de ella emanen, dentro de sus ámbitos de competencia, y que se relacionen con la promoción del desarrollo de la entidad.
+En la planeación y realización de acciones a cargo de las dependencias y entidades de la Administración Pública Estatal y Municipal se observarán los criterios ecológicos específicos que establece esta ley y demás disposiciones que de ella emanen, dentro de sus ámbitos de competencia, y que se relacionen con la promoción del desarrollo de la entidad.
 
 #### Sección Segunda. Ordenamiento Ecológico del Territorio
 
@@ -685,7 +695,7 @@ d) Financiamiento a las actividades económicas para inducir su adecuada localiz
 
 ###### Artículo 41.
 
-El Gobierno del Estado garantizará la participación de la sociedad en los procesos de formulación y aplicación de la política ambiental y sus instrumentos, así como en acciones de educación, difusión, información, vigilancia, yen general, en las acciones que emprenda que son materia de la presente ley.
+El Gobierno del Estado garantizará la participación de la sociedad en los procesos de formulación y aplicación de la política ambiental y sus instrumentos, así como en acciones de educación, difusión, información, vigilancia, y en general, en las acciones que emprenda que son materia de la presente ley.
 
 ###### Artículo 42.
 
@@ -717,23 +727,21 @@ II. Un Vicepresidente que será el titular de la Secretaría;
 
 III. Un representante del Honorable Congreso del Estado;
 
-IV. Un consejero por cada región económica del Estado, debiendo ser al menos un integrante por cada una de las siguientes representaciones:
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+IV. Un consejero de cada región económica que puede ser de cada una de las siguientes representaciones:
+
+a) Asociaciones de profesionistas, cuyas actividades tengan cobertura estatal o regional;
+
+b) Organizaciones no gubernamentales dedicadas a actividades de conservación, restauración, protección y aprovechamiento de recursos naturales y medio ambiente;
+
+De igual manera el Presidente del Consejo invitará a un representante de las instituciones de educación superior y a un representante de cada uno de los grupos principales:
 
 a) Organizaciones con perspectiva de género;
 
-b) Organizaciones de pueblos indios;
+b) Organizaciones de pueblos indios; y,
 
-c) Organizaciones de jóvenes;
-
-d) Organizaciones sociales cuyas actividades sociales tengan cobertura estatal o regional;
-
-e) Asociaciones de profesionistas, cuyas actividades tengan cobertura estatal o regional;
-
-f) Organizaciones no gubernamentales dedicadas a actividades de conservación, restauración, protección y aprovechamiento de recursos naturales y medio ambiente;
-
-g) Instituciones de educación superior e investigación, cuyas actividades tengan cobertura estatal o regional, y
-
-h) Organizaciones empresariales e industriales.
+c) Organizaciones de jóvenes.
 
 El Congreso del Estado elegirá, nombrará y removerá libremente al representante a que hace referencia la fracción III, con las bases y procedimientos que el mismo Congreso considere pertinentes.
 
@@ -743,9 +751,11 @@ El Reglamento respectivo establecerá las bases y los procedimientos relativos a
 
 El Consejo Consultivo podrá invitar a expertos en las materias de que trata la presente ley para participar en estudios y actividades específicas que aporten conocimientos especializados.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 46.
 
-La Secretaría, impulsará el fortalecimiento de la participación social a través de la realización de acciones conjuntas con los sectores público, privado y social, para la conservación y el mejoramiento del ambiente, el aprovechamiento sustentable de los recursos naturales y el adecuado manejo de residuos.
+La Secretaría impulsará el fortalecimiento de la participación social a través de la realización de acciones conjuntas con los sectores público, privado y social, para la conservación y el mejoramiento del ambiente, el aprovechamiento sustentable de los recursos naturales, el adecuado manejo de residuos y la implementación de la educación ambiental para el desarrollo sustentable.
 
 ###### Artículo 47.
 
@@ -757,7 +767,9 @@ II. Las organizaciones campesinas, las comunidades rurales y los grupos indígen
 
 III. Las organizaciones empresariales para la protección del ambiente;
 
-IV. Las instituciones educativas, académicas y de investigación para la realización y fomento de estudios e investigaciones en la materia;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+IV. Las instituciones educativas, académicas y de investigación para la realización y fomento de estudios e investigaciones en la materia; el desarrollo y/o publicación de materiales educativos y de difusión;
 
 V. Las organizaciones civiles e instituciones privadas no lucrativas, para emprender acciones conjuntas;
 
@@ -767,7 +779,9 @@ VII. Con los diversos medios de comunicación masiva, para la difusión y promoc
 
 Para los efectos que se señalan en la fracción VII se procurará la participación de artistas, intelectuales, científicos, deportistas, y en general de figuras públicas, cuyos conocimientos y ejemplo contribuyan a formar y orientar a la opinión pública.
 
-Asimismo la Secretaría, promoverá la implementación de sistemas de reconocimiento a los esfuerzos más destacados de la sociedad para la protección, preservación y restauración del equilibrio ecológico, la protección al ambiente y la conservación de la biodiversidad.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
+Asimismo, la Secretaría, promoverá el reconocimiento a los esfuerzos más destacados de la sociedad para la protección, preservación y restauración del equilibrio ecológico, la protección al ambiente y la conservación de la biodiversidad.
 
 #### Sección Cuarta. Sistema Estatal de Información Ambiental
 
@@ -835,27 +849,33 @@ La Secretaría, contará en su estructura orgánica con un área de Participaci�
 
 #### Sección Quinta. Fondo Estatal Ambiental
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 55.
 
-El titular del Ejecutivo Estatal creará el Fondo Estatal Ambiental, que será administrado por la Secretaría, para los fines de esta ley, y cuyos recursos se destinarán para:
+Por acuerdo o a iniciativa del Titular del Ejecutivo del Estado, se creará el Fondo Estatal Ambiental para los fines de esta ley. Los recursos que conformen dicho Fondo serán aportaciones de particulares, inversionistas, dependencias gubernamentales y no gubernamentales, organizaciones sociales, sociedades anónimas, y todos aquellos que conforme a la ley puedan hacer aportaciones.
 
-I. Acciones de conservación y preservación de la biodiversidad y el equilibrio ecológico, así como aquellas de protección y restauración;
+Los recursos con los que el Fondo Estatal Ambiental cuente podrán ser destinados a actividades de:
 
-II. Administrar áreas naturales y de los recursos que ingresen al Sistema de Áreas Naturales Protegidas del Estado de Chiapas por cualquier concepto;
+I. Conservación, restauración, preservación y protección de los ecosistemas y de su biodiversidad;
 
-III. Programas vinculados con la inspección y la vigilancia;
+II. Administración de las áreas naturales protegidas estatales y de los recursos que ingresen al Sistema de Áreas Naturales Protegidas del Estado de Chiapas por cualquier concepto;
 
-IV. Programas de educación e investigación científica;
+III. Inspección y vigilancia en materia ambiental;
 
-V. Proyectos para el establecimiento de servicios ambientales a partir de los mecanismos de desarrollo limpio;
+IV. Educación ambiental e investigación científica;
 
-VI. Proyectos de desarrollo rural sustentable;
+V. Pago por servicios ambientales;
+
+VI. Desarrollo rural sustentable;
 
 VII. Manejo y disposición final de residuos sólidos urbanos y de manejo especial, así como para el reciclado de materiales con incidencia local o regional;
 
-VIII. Restauración de sitios contaminados; y,
+VIII. Restauración de sitios contaminados;
 
-IX. Los demás que establezca la Secretaría.
+IX. Cambio climático; y,
+
+X. Los demás que establezca la Secretaría.
 
 ###### Artículo 56.
 
@@ -865,17 +885,17 @@ El Ejecutivo del Estado establecerá las bases para la integración, administrac
 
 El Gobierno del Estado, podrá establecer el cobro de derechos por el uso de servicios ambientales provenientes de las Áreas Naturales Protegidas ubicadas en el territorio de la entidad. El monto de los referidos derechos obedecerá a la dimensión de los programas y proyectos aprobados por las autoridades responsables.
 
-Los recursos obtenidos por el cobro de los derechos a que hace referencia el párrafo anterior pasarán a formar parte del Fondo Estatal Ambiental y se destinarán de manera exclusiva a los siguientes fines, de acuerdo a su disponibilidad:
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
-I. A la protección de zonas de recarga a propietarios y poseedores privados de los inmuebles que comprenden áreas estratégicas definidas por la Secretaría, con la participación del Consejo Consultivo Ambiental Estatal;
+Los recursos obtenidos por este concepto pasarán a formar parte del Fondo Estatal Ambiental y se destinarán, de acuerdo a su disponibilidad a los siguientes fines:
 
-II. A la protección de zonas de recarga a propietarios y poseedores privados, que deseen someter sus inmuebles, en forma voluntaria, a la conservación y protección de sus propiedades que serán previamente valoradas por la Secretaría;
+I. A la protección de las áreas que fungen como zonas de recarga, de provisión, de almacenamiento, corredores biológicos, de belleza escénica y conservación de germoplasma estratégicas definidas por la Secretaría;
 
-III. A la adquisición de inmuebles privados situados en áreas naturales protegidas estatales, especialmente en las zonas núcleo de las mismas;
+II. A la adquisición de terrenos situados en áreas naturales protegidas estatales, especialmente en las zonas núcleo de las mismas o en sitios estratégicos para la conservación de la biodiversidad;
 
-IV. Al pago de los gastos operativos y administrativos necesarios para el mantenimiento de las Áreas Naturales Protegidas; y,
+III. Al pago de los gastos operativos y administrativos necesarios para el mantenimiento de las Áreas Naturales Protegidas; y,
 
-V. Al financiamiento de acciones de restauración, obras de infraestructura hidráulica y manejo de cuencas, en coordinación con las autoridades competentes para el beneficio de los pueblos y comunidades rurales e indígenas, dentro de áreas naturales protegidas, previa presentación de evaluación de impacto ambiental que demuestre la sustentabilidad en el aprovechamiento del recurso agua.
+IV. Al financiamiento de acciones de restauración y manejo de cuencas, en coordinación con las autoridades competentes para el beneficio de los pueblos y comunidades rurales e indígenas, dentro de áreas naturales protegidas estatales y sitios estratégicos para la conservación de la biodiversidad.
 
 ###### Artículo 58.
 
@@ -883,51 +903,77 @@ El Sistema de Áreas Naturales Protegidas del Estado de Chiapas utilizará para 
 
 #### Sección Sexta. Educación e Investigación para el Desarrollo Sustentable
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 59.
 
-El Gobierno del Estado a través de la Secretaría promoverá la educación ambiental para el desarrollo sustentable como eje temático transversal, como parte fundamental de los procesos educativos, en todos los diferentes ámbitos y niveles de educación, sean estos escolarizados o no formales, a través de un proceso continuo y permanente. Promoverá asimismo la investigación y la generación de métodos y técnicas que permitan un uso y aprovechamiento sustentable de los recursos naturales, así como la prevención del deterioro y en su caso la restauración de los ecosistemas.
+El Gobierno del Estado a través de la Secretaría promoverá la educación ambiental para el desarrollo sustentable como eje temático transversal, como parte fundamental de los procesos educativos, en los diferentes ámbitos y niveles: formales, no formales e informales, a través de un proceso continuo y permanente. Promoverá, asimismo, la investigación y la generación de métodos, publicaciones, materiales educativos y técnicas que permitan un uso y aprovechamiento sustentable de los recursos naturales, así como la prevención del deterioro y en su caso la restauración de los ecosistemas.
 
-Para los efectos del párrafo anterior, la Secretaría estará en constante coordinación con la Secretaría de Educación, la Federación, y las demás dependencias competentes de la Administración Pública Estatal, así como con instituciones educativas y de investigación, ya sean públicas o privadas ubicadas dentro del territorio de la entidad.
+Para efectos del párrafo anterior, la Secretaría implementará como herramienta de ejecución el Plan de Educación Ambiental para la Sustentabilidad del Estado de Chiapas, y estará en constante coordinación con la Secretaría de Educación, la Federación, y las demás instituciones y dependencias locales competentes de la Administración Pública Estatal, así como organismos internacionales, organizaciones de la sociedad civil, e instituciones educativas y de investigación ya sean públicas o privadas ubicadas dentro del territorio de la entidad.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 60.
 
 La Secretaría promoverá:
 
-I. La incorporación de los conceptos y principios fundamentales de la ecología y de las ciencias ambientales, del desarrollo sustentable, así como de la valoración de la protección y conservación del medio ambiente en los planes y programas de estudio de los diversos ciclos educativos, especialmente en el nivel básico, educación académica o formal y educación no formal o no académica para jóvenes y adultos que no asistan a la escuela;
+I. La ejecución de acciones para la implementación del Plan de Educación Ambiental para la Sustentabilidad en el Estado de Chiapas;
 
-II. Promoverá, impulsará y realizará programas para la formación del magisterio en materia ambiental;
+II. En conjunto con las instituciones correspondientes, incorporar la dimensión ambiental (conceptos, principios y valores fundamentales de la ecología, las ciencias ambientales y el desarrollo sustentable), en el proceso docente educativo en las diversas disciplinas y asignaturas de manera transversal desde la enseñanza primaria hasta el nivel superior de manera formal, no formal e informal, considerando incluso a individuos no escolarizados;
 
-III. La realización de acciones de educación y cultura ambiental en toda la entidad, a fin de ampliar la cobertura a todos sus habitantes y propiciar el fortalecimiento de la conciencia ecológica;
+III. La elaboración e implementación de planes estratégicos de educación ambiental en los diferentes niveles de enseñanza;
 
-IV. Que las instituciones de educación superior en la entidad y los organismos dedicados a la investigación científica y tecnológica desarrollen programas para la protección ambiental y conservación de la biodiversidad del Estado;
+IV. La elaboración de una metodología para la evaluación y certificación de programas, proyectos y/o acciones de educación ambiental;
 
-V. La celebración de convenios con instituciones de educación superior, centros de investigación e instituciones del sector público y privado, para la realización de investigaciones científicas y el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, el aprovechamiento racional de los recursos y la protección de los ecosistemas, para ello;
+V. Impulsará y realizará cursos y programas para la formación y capacitación ambiental del magisterio; sociedad civil, servidores públicos y cualquier ciudadano interesado en el tema;
 
-VI. Que las instituciones de educación superior y los organismos dedicados a la investigación científica y tecnológica, desarrollen planes y programas para la formación de especialistas en materia ambiental; y,
+VI. La realización de acciones de educación y cultura ambiental en toda la entidad de manera descentralizada, a fin de ampliar la cobertura a todos sus habitantes y propiciar el fortalecimiento de una conciencia ambiental;
 
-VII. La inserción del componente ambiental como eje de referencia en todos los ámbitos posibles relacionados con la formación de sus recursos humanos.
+VII. La gestión de proyectos y acciones intersectoriales para favorecer la educación, cultura y comunicación en temas ambientales prioritarios del Estado;
+
+VIII. Que las instituciones de educación superior en la entidad y los organismos dedicados a la investigación científica y tecnológica desarrollen programas y/o proyectos que fomenten la protección y gestión ambiental, la conservación de la biodiversidad del estado; y fomentará el desarrollo de mecanismos que favorezcan la investigación en educación ambiental, su evaluación y sistematización;
+
+IX. La investigación científica y el desarrollo de técnicas, análisis y procedimientos que permitan prevenir, controlar y abatir la contaminación, el aprovechamiento racional de los recursos y la protección de los ecosistemas; para ello, podrá celebrar convenios con instituciones de educación superior, centros de investigación e instituciones del sector público y privado;
+
+X. Que las instituciones de educación superior y los organismos dedicados a la investigación científica, y tecnológica, desarrollen planes y programas para la formación de especialistas en materia ambiental;
+
+XI. La inserción del componente ambiental como eje de referencia en todos los ámbitos posibles relacionados con la formación de sus recursos humanos;
+
+XII. La elaboración, producción, edición y difusión de publicaciones y materiales lúdico-educativos para facilitar el proceso de educación ambiental;
+
+XIII. El desarrollo de mecanismos adecuados para la articulación de los diversos procesos de formación y capacitación ambiental;
+
+XIV. Fomentar actividades de educación, capacitación y cultura ambiental dentro de las Areas Naturales Protegidas, campamentos tortugueros y estaciones biológicas de competencia del estado; y,
+
+XV. Impulsar la aplicación de investigación, programas, proyectos, actividades y acciones de educación, formación, capacitación, difusión y cultura ambiental para la sustentabilidad en condiciones de cambio climático.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 61.
 
 El Gobierno del Estado y los Ayuntamientos Municipales promoverán:
 
-I. La difusión de los programas y campañas educativas y de información acerca de temas ambientales relativos a la orientación y participación ciudadana, a la conservación de los recursos naturales, así a aquellas que tengan que ver con algún tipo de contingencia ambiental, a través de los medios de comunicación masiva;
+I. La creación de un área de gestión ambiental dentro de la estructura orgánica de los Ayuntamientos que responda por la implementación del Plan de Educación Ambiental para la Sustentabilidad en el Estado de Chiapas a nivel municipal;
 
-II. La formación, profesionalización, sensibilización y actualización de los comunicadores encargados de cubrir fuentes de información ambiental de los diferentes medios de comunicación;
+II. La implementación del Plan de Educación Ambiental para la Sustentabilidad en el Estado de Chiapas en cada municipio;
 
-III. La participación de las instituciones educativas, organismos no gubernamentales, pueblos indígenas y demás sectores organizados de la sociedad en programas y actividades vinculadas con educación ambiental;
+III. La difusión, a través de los medios de comunicación masiva, de los programas y campañas educativas y de información acerca de temas ambientales de orientación y participación ciudadana, en la conservación de los recursos naturales, así como en aquellas que tengan que ver con algún tipo de contingencia ambiental;
 
-IV. La participación de empresas públicas y privadas en el desarrollo de programas de educación ambiental;
+IV. La formación, profesionalización, sensibilización y actualización de los comunicadores encargados de cubrir fuentes de información ambiental de los diferentes medios de comunicación;
 
-V. La difusión de programas de cultura y educación ambiental, así como el desarrollo de proyectos de educación en la materia en idioma español y en las principales lenguas indígenas que se hablan en el territorio de la entidad;
+V. La participación de las instituciones educativas, organismos no gubernamentales, pueblos indígenas y demás sectores organizados de la sociedad en programas y actividades vinculadas con educación ambiental;
 
-VI. La instrumentación de programas que promuevan entre la población los métodos para la disminución en la generación de contaminantes, fomenten la cultura de la separación de residuos sólidos urbanos desde el lugar de su generación, así como que la sensibilicen para su reutilización y reciclaje;
+VI. La participación de empresas públicas y privadas en el desarrollo de programas de educación ambiental;
 
-VII. El reconocimiento, la divulgación y el uso de métodos y prácticas tradicionales indígenas y campesinas en materia de explotación de recursos naturales con que cuenta el estado, que sean compatibles con el aprovechamiento sustentable de los mismos;
+VII. La difusión de programas de cultura y educación ambiental y el desarrollo de proyectos de educación ambiental en español y en las principales lenguas indígenas;
 
-VIII. El desarrollo de tecnologías orientadas hacia la producción agroecológica y ambientalmente compatible; y,
+VIII. La instrumentación de programas que promuevan disminuir la generación de contaminantes, el consumo responsable y fomenten la separación de residuos sólidos urbanos desde el lugar de su generación" así como su reúso y reciclaje;
 
-IX. La coordinación entre las diferentes instancias oficiales y organismos no gubernamentales involucrados con el quehacer ambiental y educativo en la entidad.
+IX. El reconocimiento, la divulgación y el uso de métodos y prácticas tradicionales indígenas y campesinas, que sean compatibles con el aprovechamiento sustentable de los recursos naturales del estado;
+
+X. El desarrollo de tecnologías orientadas hacia la producción agroecológica y ambientalmente compatibles; y,
+
+XI. La coordinación entre las diferentes instancias oficiales y no gubernamentales, involucradas con el quehacer ambiental y educativo en la entidad.
 
 ###### Artículo 62.
 
@@ -1083,47 +1129,43 @@ VI. Manejo integral de residuos.
 
 #### Sección Décima. Evaluación del Impacto y Riesgo Ambiental
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 79.
 
-Corresponde a la Secretaría, la evaluación del impacto ambiental con el objetivo de establecer los términos y condicionantes a que se sujetará la realización de obras y actividades de competencia estatal que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y preservar y restaurar los ecosistemas, a fin de evitar o mitigar sus efectos negativos sobre el ambiente.
+Corresponde a la Secretaria, la evaluación de los estudios de impacto y/o riesgo ambiental con el objetivo de establecer los términos y condicionantes a que se sujetará la realización de obras y actividades de competencia estatal que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y preservar y restaurar los ecosistemas, a fin de evitar o mitigar sus efectos negativos sobre el ambiente.
 
-Para ello, en los casos que determine la presente ley u otros ordenamiento (sic) que al efecto se expidan, quienes pretendan llevar a cabo alguna de las siguientes obras o actividades, requerirán previamente la autorización de la Secretaría en materia de impacto ambiental:
+Para ello, en los casos que determine la presente ley u otros ordenamientos que al efecto se expidan, quienes pretendan llevar a cabo algunas de las siguientes obras o actividades, requerirán previamente al inicio de las mismas, la autorización de la Secretaría en materia de impacto y/o riesgo ambiental:
 
 I. Obra pública estatal y municipal;
 
-II. Actividades consideradas riesgosas tales como: estaciones de servicio y distribución de combustibles, estaciones de servicio y de carburación, almacenamiento y distribución de gas, cuando éstas no sean de competencia de la federación;
+II. Actividades consideradas riesgosas tales como: instalaciones de servicio, almacenamiento y distribución de combustibles o sustancias riesgosas cuando éstas no sean de competencia de la federación;
 
 III. Caminos estatales, municipales y rurales;
 
 IV. Zonas y parques industriales estatales y municipales, incluidas las plantas agroindustriales;
 
-V. Exploración, extracción y aprovechamiento de minerales o sustancias que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, o de minerales no reservados a la Federación, tales como rocas, materiales pétreos, productos de su desintegración o descomposición, los cuales sólo puedan ser utilizados para la producción de calhidra o en la fabricación de materiales para la construcción u ornamento de obras;
+V. Exploración, extracción y procesamiento de materiales pétreos no reservados a la Federación, que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como materiales aluviales (arena y grava), piedra caliza, arcilla, tezontle, pomacita y grava roja, del que pueda obtenerse cualquier beneficio;
 
 VI. Desarrollos turísticos en zonas de competencia estatal o municipal, promovidos por los sectores público, privado o social;
 
-VII. Obras de infraestructura hidráulica estatales y municipales, como lo son las plantas de tratamiento de aguas residuales, los sistemas de drenaje y alcantarillado, bordos, represamientos y plantas de potabilización de agua;
+VII. Obras de infraestructura hidráulica estatal y municipal, como son las plantas de tratamiento de aguas residuales, los sistemas de drenaje y alcantarillado, y plantas de potabilización de agua;
 
 VIII. Las instalaciones de acopio, comercialización, tratamiento, reciclado, confinamiento, eliminación, disposición final y transporte de residuos sólidos urbanos y de manejo especial, competencia del estado;
 
 IX. Obras o aprovechamientos que pretendan realizarse dentro de las Áreas Naturales Protegidas Estatales;
 
-X. Lugares destinados a la concurrencia masiva de personas, tales como centros y plazas comerciales, estadios, cines, escuelas o centros deportivos;
+X. Obras destinados (sic) a la concurrencia masiva de personas, tales como centros y plazas comerciales, estadios, cines, escuelas, centros deportivos, centrales de abasto, terminales de transporte público de carga o de pasajeros, mercados, panteones, teatros, parques recreativos o urbanos, hoteles, moteles y balnearios;
 
-XI. Hospitales, sanatorios, clínicas, centros de salud y laboratorios clínicos públicos o privados donde se realicen actividades riesgosas y se generen residuos de manejo especial;
+XI. Lugares destinados a la concurrencia masiva de personas, tales como centros y plazas comerciales, estadios, cines, escuelas o centros deportivos;
 
-XII. Centrales de abasto, centrales o terminales de transporte público de carga o de pasajeros, mercados, panteones y rastros;
+XII. Fraccionamientos, conjuntos habitacionales y nuevos centros de población;
 
-XIII. Instalaciones de almacenamiento, distribución y servicio de sustancias tóxicas o explosivas cuyas capacidades no sean de competencia de la Federación;
+XIII. La industria refresquera, alimentaria, maquiladora, textil, ensambladora, autopartes y metalmecánica, así como la vinculada al hule y sus derivados; rastros frigoríficos; industria automotriz; maquiladoras, tenerías y curtidurías, del vidrio y sus derivados, del plástico, farmacéutica, de cosméticos y demás industrias cuya actividad pueda generar afectación ambiental en aquellos aspectos que no sean de competencia federal;
 
-XIV. La industria refresquera, alimentaria, maquiladora, textil, ensambladora, autopartes y metal mecánica, así como la vinculada al hule y sus derivados; frigoríficos; industria automotriz; maquiladoras, tenerías y curtidurías, del vidrio y sus derivados, del plástico, farmacéutica, de cosméticos y demás industrias cuya actividad pueda generar afectación ambiental en aquellos aspectos que no sean de competencia federal;
+XIV. Aquellas de competencia federal que asuma el Estado con motivo de la celebración de convenios o acuerdos de coordinación en la materia; y,
 
-XV. Hoteles, moteles, balnearios y baños públicos ubicados en zonas de competencia estatal o municipal;
-
-XVI. Aquellas de competencia federal que asuma el Estado con motivo de la celebración de convenios o acuerdos de coordinación en la materia; y,
-
-XVII. Cualesquiera que puedan causar impacto ambiental adverso, y que por razón de la obra, actividad o aprovechamiento de que se trate, no estén sometidas a la regulación de leyes federales.
-
-Para el caso de fraccionamientos, unidades habitacionales y nuevos centros de población, la Secretaría emitirá Opinión Favorable o, no Favorable.
+XV. Cualesquiera que puedan causar impacto ambiental adverso, y que por razón de la obra, actividad o aprovechamiento de que se trate, no estén sometidas a la regulación de leyes federales.
 
 ###### Artículo 80.
 
@@ -1133,15 +1175,19 @@ En el reglamento de la presente ley o en las normas que al efecto se emitan, se 
 
 Los efectos negativos que sobre el ambiente y los recursos naturales a que se refiere esta ley, pudieran causar las obras o actividades de competencia estatal que no requieran someterse al procedimiento de evaluación de impacto ambiental mencionado en el presente capítulo, estarán sujetos en lo conducente, a las disposiciones legales y normatividad aplicables en la materia, así como lo que señalen los permisos, licencias, autorizaciones y concesiones que conforme a las mismas se requieran en las materias a que se refiere la presente ley.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 82.
 
-Para obtener la autorización a que se refiere el artículo 86 de esta Ley, los interesados deberán presentar a la Secretaría, una manifestación de impacto ambiental, la cual deberá contener cuando menos, la descripción de los posibles efectos en el o los ecosistemas que pudieran ser afectados por la obra o actividad que se trate, considerando el conjunto de los elementos que conforman dichos ecosistemas, así como las medidas preventivas, de mitigación y las demás necesarias para evitar los efectos negativos sobre el ambiente, conforme a los lineamientos expedidos por la Secretaría para tal efecto.
+Para obtener la autorización a que se refiere el artículo 86 de esta Ley, los interesados deberán presentar a la Secretaría, una manifestación o estudio de impacto ambiental, el cual deberá contener cuando menos, la descripción de los posibles efectos en el o los ecosistemas que pudieran ser afectados por la obra o actividad que se trate, considerando el conjunto de los elementos que conforman dichos ecosistemas, así como las medidas preventivas, de mitigación y las demás necesarias para evitar los efectos negativos sobre el ambiente, conforme a los lineamientos expedidos por la Secretaría para tal efecto.
 
-Cuando se trate de actividades consideradas riesgosas, en los términos de la presente ley, la manifestación deberá incluir el estudio de riesgo correspondiente.
+Cuando se trate de actividades consideradas riesgosas, en los términos de la presente ley, aunado al estudio de impacto ambiental deberá presentar el estudio de riesgo ambiental correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 83.
 
-La Secretaría publicará mensualmente en el Periódico Oficial, un listado de las solicitudes de autorización, de los informes preventivos y los estudios de riesgo y de las manifestaciones de impacto ambiental que reciba, en tos términos que se determine en el reglamento de esta ley, los cuales estarán a disposición del público.
+La Secretaría publicará mensualmente en su portal de internet y por estrados, un listado de los estudios de impacto y riesgo ambiental de las solicitudes de autorización, informes preventivos, en los términos que se determine en el reglamento de esta ley.
 
 ###### Artículo 84.
 
@@ -1173,6 +1219,10 @@ b) La obra o actividad que se trate pueda propiciar que una o más especies sean
 
 c) Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate.
 
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
+
+IV. Emitir opinión favorable, condicionada o no favorable para el caso de fraccionamientos, unidades habitacionales y nuevos centros de población.
+
 ###### Artículo 87.
 
 Se deberá tramitar la autorización en materia de impacto ambiental, previo al inicio de cualquier maniobra que pudiera alterar las condiciones naturales del sitio donde se pretenda desarrollar la obra o actividad que corresponda. En los casos, en que las obras o actividades señaladas en el artículo 79 de esta ley, requieran, además de la licencia, permiso o autorización del municipio, éste deberá verificar que el promovente cuente previamente con la autorización en materia de impacto ambiental.
@@ -1181,7 +1231,7 @@ En aquellas obras o actividades que requieran contar con la autorización en mat
 
 ###### Artículo 88.
 
-La Secretaría, podrá regularizar en términos de lo dispuesto en el reglamento de esta ley, las obras iniciadas que no cuenten con la autorización en materia de impacto ambiental, independientemente de las sanciones a que hubiere lugar. En todo caso, podrá decretarse la suspensión de la obra o actividad, o la aplicación de alguna de las medidas de seguridad, atendiendo al lugar y las condiciones que motivaron la actuación irregular, en los términos de la presente ley.
+(DEROGADO, P.O. 26 DE MAYO DE 2010)
 
 ###### Artículo 89.
 
@@ -1301,11 +1351,13 @@ El Gobierno del Estado se coordinará con la Federación en las acciones sobre v
 
 ### Capítulo Primero. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 102.
 
-Las áreas del territorio estatal donde el ambiente original no ha sido significativamente alterado por la actividad del ser humano, o que por su valor escénico y paisajístico requieran de ser preservadas, o aquellas que a pesar de haber sido afectadas, requieran ser sometidas a programas de preservación o de restauración por su relevancia particular para el Estado quedaran sujetas al régimen previsto en este título y los demás ordenamientos legales aplicables.
+Las áreas naturales protegidas son porciones terrestres o acuáticas del territorio estatal representativas de sus diversos ecosistemas, en donde el ambiente original no ha sido esencialmente alterado o aquellas que a pesar de haber sido afectadas, requieran ser sometidas a programas de preservación o de restauración por su relevancia particular para el Estado. Dichas áreas quedaran sujetas al régimen previsto en este título y los demás ordenamientos legales aplicables.
 
-Los habitantes, propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de áreas naturales protegidas de jurisdicción estatal, deberán sujetarse a las modalidades que de conformidad con la presente ley, establezcan los decretos por los que se constituyan dichas áreas, así como a las demás previsiones contenidas en el programa de manejo y en los programas de ordenamiento ecológico del territorio que correspondan.
+Los habitantes, propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de áreas naturales protegidas de jurisdicción estatal, deberán sujetarse a las modalidades que de conformidad con la presente ley establezcan los decretos por los que se constituyan dichas áreas, así como a las demás previsiones contenidas en el programa de manejo y en los programas de ordenamiento ecológico del territorio.
 
 ###### Artículo 103.
 
@@ -1327,7 +1379,7 @@ VII. Dotar a la población de áreas para su esparcimiento promoviendo una cultu
 
 ###### Artículo 104.
 
-En el establecimiento de las áreas naturales protegidas a que se refiere el artículo anterior, participarán sus habitantes y los propietarios o poseedores de terrenos que se ubiquen en ellas, de conformidad con los convenios de concertación que al efecto se celebren, a fin de propiciar el desarrollo integral de la comunidad y asegurar la protección de los ecosistemas.
+(DEROGADO, P.O. 26 DE MAYO DE 2010)
 
 ###### Artículo 105.
 
@@ -1381,7 +1433,7 @@ Son zonas sujetas a conservación ecológica, aquellas áreas relevantes a nivel
 
 En tales áreas se podrá autorizar la realización de actividades propias de las comunidades previamente asentadas, siempre que no alteren o modifiquen las condiciones naturales; además, se fomentará la preservación y restauración de los ecosistemas, siempre y cuando sean congruentes con la declaratoria y el programa de manejo que se expida.
 
-Dentro de esta categoría podrán incluirse áreas de al menos dos mil hectáreas para permitir la continuidad de los procesos ecológicos y el desplazamiento de especies dentro del territorio.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 113.
 
@@ -1449,31 +1501,17 @@ I. Las restricciones o prohibiciones de las actividades que puedan alterar los e
 
 II. La promoción para generar nuevos patrones de desarrollo regional acordes con objetivos de sustentabilidad en el territorio de las áreas naturales protegidas y sus zonas de influencia.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 120.
 
-Previamente a la expedición de la declaratoria para el establecimiento de las áreas naturales protegidas, se deberá contar con los estudios técnicos que justifiquen la constitución de las mismas, en los términos del presente capítulo, los cuales deberán ser puestos a disposición del público, asimismo, la Secretaría solicitará la opinión de:
+Previamente a la expedición de la declaratoria para el establecimiento de las áreas naturales protegidas, se deberá contar con los estudios técnicos que justifiquen la constitución de las mismas, en los términos del presente capítulo.
 
-I. Los habitantes del lugar donde se pretenda decretar un área natural protegida;
-
-II. Los Ayuntamientos Municipales en cuyas circunscripciones territoriales se localice el área natural de que se trate;
-
-III. Las dependencias y entidades de la Administración Pública Estatal que deberán intervenir, de conformidad con sus atribuciones;
-
-IV. Las organizaciones sociales públicas o privadas y demás personas físicas o morales interesadas; y,
-
-V. Las instituciones académicas, centros de investigación y organismos de los sectores público, social y privado interesados en el establecimiento, administración y vigilancia de las áreas naturales protegidas.
-
-Para el establecimiento de las áreas naturales protegidas de competencia municipal, se observarán los requisitos previstos en el artículo 118 de la presente ley.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 121.
 
-Una vez declarada un área natural protegida, sólo podrá ser modificada por la autoridad que la haya establecido, siguiendo las mismas formalidades previstas en esta ley para la expedición de la declaratoria respectiva, siempre y cuando hayan variado las condiciones que dieron origen a su establecimiento a consecuencia de, entre otras, las circunstancias siguientes:
-
-I. El desplazamiento de las poblaciones de vida silvestre que se encuentren bajo un régimen de protección;
-
-II. Contingencias ambientales, tales como incendios, huracanes, terremotos y demás fenómenos naturales que puedan alterar o modificar los ecosistemas existentes en el área; o,
-
-III. Por cualquier otra situación grave, que haga imposible el cumplimiento de los objetivos de su establecimiento.
+Una vez declarada un área natural protegida, solo podrá ser modificada por la autoridad que la haya establecido.
 
 ###### Artículo 122.
 
@@ -1640,6 +1678,10 @@ b) Los hornos o mecanismos de incineración de residuos sólidos o de manejo esp
 c) Los hornos de producción de ladrillos, tabiques o similares y aquellos en los que se produzca cerámica de cualquier tipo; y,
 
 d) Las que se determinen en el reglamento en la materia y que no sean de competencia federal;
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+
+e) Las plantas asfaltadoras que utilicen cualquier tipo de combustible para su funcionamiento y que operen de manera temporal o permanente en el territorio estatal.
 
 II. Fuentes emisoras de competencia municipal:
 
@@ -2223,7 +2265,9 @@ II. Amonestación;
 
 III. Multa equivalente al 100% del valor del daño ambiental causado, cuantificado por la autoridad competente;
 
-IV. Multa por el equivalente de 20 a 50,000 días del salario mínimo vigente en el momento de la comisión del delito;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+IV. Multa por el equivalente de 20 a 50,000 días del salario mínimo vigente en el Estado al momento de la infracción;
 
 V. Arresto hasta por treinta y seis horas;
 
@@ -2461,7 +2505,9 @@ Artículo Quinto.- Las autorizaciones, permisos, licencias y concesiones otorgad
 
 Artículo Sexto.- Todos los procedimientos y recursos administrativos relacionados con las materias de esta ley, que se hubieren iniciado bajo la vigencia de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chiapas, se tramitarán y resolverán conforme a las disposiciones de dicha ley que se abroga.
 
-Artículo Séptimo.- El manejo, administración y operación de las áreas naturales protegidas de jurisdicción estatal quedan a cargo de la Secretaría y sin considerar la categoría bajo la cual fueron decretadas, las áreas naturales protegidas de jurisdicción estatal a que hace referencia, son las siguientes: Bosque de Coníferas Chanal, Municipios de Chanal y Las Margaritas; La Concordia-Zaragoza, Municipio de La Concordia; El Zapotal, Municipio de Tuxtla Gutiérrez; La Primavera, Municipio de Comitán de Domínguez; Santa Felicitas, Municipio de Ocosingo; Cerro Mactumatzá, Municipio de Tuxtla Gutiérrez; La Lluvia, Municipio de Villaflores; Cerro Meyapac, Municipio de Ocozocoautla; El Canelar, Municipio de Acala; La Pera, Municipio de Berriozábal; Laguna Bélgica, Municipio de Ocozocoautla de Espinoza; El Recreo, Municipio de Teopisca; Huitepec, Los Alcanfores, Municipio de San Cristóbal de las Casas; Humedales de Montaña La Kisst, Municipio de San Cristóbal de las Casas; Humedales de Montaña María Eugenia, Municipio de San Cristóbal de las Casas; Rancho Nuevo, Municipio de San Cristóbal de las Casas; Gertrude Duby, Municipio de San Cristóbal de las Casas; Cordón Pico El Loro Paxtal, Municipio de Escuintla, Síltepec, El Porvenir, Angel Albino Corzo, Motozintla, Acacoyagua y Mapastepec; Finca Santa Ana, Municipio de Pichucalco; Tzama Cun Pümy, Municipio de Tapalapa; Humedales La Libertad, Municipio de Palenque; Sistema Lagunar Catazajá, Municipio de Catazajá; Calbido Amatal, Municipio de Tapachula y Mazatán; Gancho Murillo, Municipio de Suchiate y Tapachula; y Volcán Tacaná, Municipio de Tapachula, Unión Juárez y Cacahoatán.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
+Artículo Séptimo.- El manejo, administración y operación de las áreas naturales protegidas de jurisdicción estatal quedan a cargo de la Secretaría y sin considerar la categoría bajo la cual fueron decretadas, las áreas naturales protegidas de jurisdicción estatal a que hace referencia, son las siguientes: Bosque de Coníferas Chanal, municipios de Chanal y Las Margaritas; La Concordia-Zaragoza, Municipio de La Concordia; El Zapotal, Municipio de Tuxtla Gutiérrez; La Primavera, Municipio de Comitán de Domínguez; Santa Felicitas, Municipio de Ocosingo; Cerro Mactumatzá, Municipio de Tuxtla Gutiérrez; La Lluvia, Municipio de Villaflores; Cerro Meyapac, Municipio de Ocozocoautla; El Canelar, Municipio de Acala; La Pera, Municipio de Berriozábal; Laguna Bélgica, Municipio de Ocozocoautla de Espinoza; El Recreo, Municipio de Teopisca; Huitepec-Los Alcanfores, Municipio de San Cristóbal de las Casas; Humedales de Montaña La Kisst, Municipio de San Cristóbal de Las Casas; Humedales de Montaña La Kisst, Municipio de San Cristobal de Las Casas; Humedales de Montaña María Eugenia, Municipio de San Cristóbal de Las Casas; Rancho Nuevo, Municipio de San Cristóbal de las Casas; Reserva Biótica Gertrude Duby, Municipio de San Cristóbal de Las Casas; Cordón Pico El Loro-Paxtal, Municipio de Escuintla, Síltepec, El Porvenir, Angel Albino Corzo, Motozintla, Acacoyagua y Mapastepec; Finca Santa Ana, Municipio de Pichucalco; Tzama Cun Pümy, Municipio de Tapalapa; Humedales La Libertad, Municipio de La Libertad, Sistema Lagunar Catazajá, Municipio de Catazajá; Calbido Amatal, Municipio de Tapachula y Mazatán; Gancho Murillo, Municipio de Suchiate y Tapachula; y Volcán Tacaná, Municipio de Tapachula, Unión Juárez y Cacahoatán.
 
 Artículo Octavo.- La Secretaría, mediante acuerdo, publicará en el Periódico Oficial del Estado la categoría de área natural protegida que corresponda conforme a lo dispuesto en esta Ley.
 
@@ -2474,3 +2520,11 @@ El Ejecutivo dispondrá se publique, circule y se le dé el debido cumplimiento.
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 18 días del mes de Marzo del año dos mil nueve. D.P. C. Óscar Salinas Morga.- D.S. C.O. Magdalena Torres Abarca- Rúbricas.
 
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los dieciocho días del mes de marzo del año dos mil nueve.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE MAYO DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se Derogan todas las disposiciones que se opongan al presente Decreto.
