@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-procuraduria-general-de-justicia-del-62570"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-08-18"
-last_updated: "2008-12-12"
+last_updated: "2010-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 18 de agosto de 2008.
 
@@ -1255,6 +1255,52 @@ La Procuraduría contara con un Consejo de Participación Ciudadana, el cual se 
 
 Estos serán designados por el Procurador y ejercerán su cargo de forma honoraria y tendrán las facultades que el Reglamento de la presente ley les confiera.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2010)</small>
+
+### CAPÍTULO XXII. DE LAS MEDIDAS PARA AGILIZAR LA PRESENTACIÓN DE DENUNCIAS POR DAÑOS OCASIONADOS EN HECHOS DE TRANSITO Y DEL DELITO DE ROBO CONTRA IMPUTADO DESCONOCIDO
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+
+###### Artículo 108.
+
+El Ministerio Público que inicie una investigación por el delito de daño, con motivo de hechos de tránsito terrestre o delitos contra el patrimonio, deberá practicar todas las diligencias para determinar a la brevedad posible, la carpeta de investigación.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+
+###### Artículo 109.
+
+Los Servicios Periciales garantizarán que los peritos en tránsito terrestre u otros, que deban auxiliar al Ministerio Público en la investigación del delito de Daño originado por hechos de tránsito terrestre, emitan sus dictámenes en el término de cuatro horas subsecuentes a la solicitud.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+
+###### Artículo 110.
+
+Para otorgar la libertad y asegurar la comparecencia del probable responsable de un hecho de tránsito ante las autoridades jurisdiccionales, el Agente del Ministerio Público podrá determinar como forma de garantía la póliza de seguro vigente que lo cubra, siempre y cuando dicha póliza tenga cobertura total y el probable responsable no esté bajo el influjo del alcohol o bajo la influencia de alguna droga o estupefaciente.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+
+###### Artículo 111.
+
+La solicitud del Ministerio Público a las unidades de Servicios Periciales para que se le designe perito, se podrá realizar a través de escrito y/o llamado telefónica, dejando constancia en la carpeta de investigación, así como el registro de los llamados en los libros de Gobierno.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+
+###### Artículo 112.
+
+Las unidades administrativas de Servicios Periciales serán las encargadas de entregar los dictámenes periciales en forma directa al Ministerio Público, que emitan los peritos en aquellos casos en que existan personas a su disposición, con motivo del delito de daño derivado de hechos de tránsito terrestre, dentro del término que se especifica en el artículo 109 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+
+###### Artículo 113.
+
+Tratándose de delitos de imputado desconocido o daños ocasionados en hechos de tránsito, el Agente del Ministerio Público deberá agilizar los trámites y entregar las constancias necesarias de la carpeta de investigación a las partes.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+
+###### Artículo 114.
+
+Los peritos adscritos a las unidades administrativas de Servicios Periciales de la Procuraduría General de Justicia en el Estado, en su carácter de auxiliares del Ministerio Público, son responsables de realizar los dictámenes técnicos o científicos de las personas u objetos relacionados con la investigación del delito, en el término que se especifica en el artículo 109 de esta ley.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley iniciara su vigencia a partir de las cero horas del día treinta de octubre del dos mil ocho.
@@ -1324,3 +1370,17 @@ PRIMERO.- Remítase el presente Decreto al Ejecutivo del Estado, para su publica
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan las disposiciones de igual o menor rango, que se opongan o sean contrarias al contenido del presente Decreto.
+
+P.O. 26 DE MAYO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se autoriza al Ejecutivo del Estado a realizar las asignaciones y transferencias presupuestales necesarias, para la creación e implementación de las unidades de investigación motivo de este Decreto, con un mínimo de doce plazas de Agentes del Ministerio Público, doce plazas de auxiliares del Ministerio Público y doce peritos en tránsito terrestre, informando de ello al Congreso del Estado, en el informe trimestral que corresponda.
+
+TERCERO.- El Ejecutivo del Estado tendrá un plazo de treinta días para dar cumplimiento al presente decreto.
+
+CUARTO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+QUINTO.- La subprocuradurías habilitarán en sus respectivas instalaciones, un espacio físico (sala de custodia) para las personas relacionadas con el delito de daño, derivado de hechos de tránsito terrestre, con el objeto de que permanezcan en ésta, en tanto se determina su situación jurídica, en observancia de lo dispuesto por el artículo 20 apartado C) de la Constitución Política de los Estados Unidos Mexicanos.
+
+SEXTO.- El Ministerio Público deberá de informar a la Visitaduría General, el inicio de todas las averiguaciones previas y carpetas de investigación, relacionadas con el delito de daño, derivado de hechos de tránsito terrestre y de imputado desconocido, ésta vigilará el cumplimiento de este Decreto, supervisando las agencias del Ministerio Público que se encuentren en turno.
