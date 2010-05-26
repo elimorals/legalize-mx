@@ -4,7 +4,7 @@ identifier: "CHP-ley-estatal-de-derechos-58004"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2009-12-31"
+last_updated: "2010-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ESTATAL DE DERECHOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 21 de noviembre de 2007.
 
@@ -159,7 +159,7 @@ Los derechos contenidos en esta Ley, se pagarán conforme a las cuotas y tarifas
 
 ## Título Segundo. De los Derechos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ### Capítulo I. Derechos por Servicios que Presta el Instituto de la Consejería y de Asistencia Legal
 
@@ -177,11 +177,11 @@ SERVICIO TARIFA
 
 S.M.D.V.E.
 
-> <small>(F. DE E., P. O. 20 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
 I. Registro de nacimiento en la oficialía,
 
-de mayores de 180 (sic) días a menores de
+de mayores de 1 año a menores de
 
 18 años o registro de nacimiento por
 
@@ -3686,3 +3686,9 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispu
 Artículo Tercero.- Las licencias expedidas de conformidad con las fracciones I a la VII, del artículo 36 de la Ley Estatal de Derechos vigentes al 31 de diciembre de 2009, se seguirán causando en los términos de los artículos 20-B y 36, de la presente Ley Estatal de Derechos y demás disposiciones aplicables.
 
 Artículo Cuarto.- En cumplimiento a lo dispuesto por el artículo 8º, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 26 DE MAYO DE 2010.
+
+Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
