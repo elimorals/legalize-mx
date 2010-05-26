@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-organizacion-del-poder-judicial-del-estado-de-68126"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-03-18"
-last_updated: "2009-10-21"
+last_updated: "2010-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO DE ORGANIZACION DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -139,9 +139,13 @@ Todos los Magistrados del Poder Judicial, ostentan la misma categoría sin disti
 
 Todos los servidores públicos del Poder Judicial, antes del Inicio de las funciones que les corresponden, deberán rendir la protesta de ley. Los Consejeros de la Judicatura, Magistrados del Tribunal Constitucional, Magistrados del Tribunal de Justicia Electoral y Administrativa, Magistrados del Tribunal del Trabajo Burocrático, y Magistrados de la (sic) Salas Regionales Colegiadas del Poder Judicial, rendirán protesta de ley ante el Congreso del Estado. Los jueces y demás funcionarios judiciales rendirán protesta ante el Presidente del Tribunal Constitucional, la que podrá ser por escrito.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 12.
 
-Para el ingreso y permanencia en el cargo, los servidores públicos del Poder Judicial deberán someterse y aprobar los exámenes físicos, toxicológicos, psicológicos, socioeconómicos, dactiloscópicos y de conocimientos o aptitudes, .según sea el caso, que previamente determine el Consejo de la Judicatura. En el caso de Magistrados y Jueces, los exámenes se aplicarán al momento de su nombramiento o ratificación en el cargo. En el caso de los demás servidores públicos del Poder Judicial, se establecerá un programa permanente para que de forma aleatoria se verifique el cumplimiento de los requisitos señalados con anterioridad.
+Para el ingreso y permanencia en el cargo, los servidores públicos del Poder Judicial deberán someterse y aprobar los exámenes físicos, toxicológicos, psicológicos, socioeconómicos, dactiloscópicos y conocimientos o aptitudes, y en general de Control y Confianza según sea el caso, que previamente determine el Consejo de la Judicatura. Los servidores públicos del Poder Judicial, se sujetarán a un programa de evaluación permanente, establecido por el Consejo de la Judicatura, para que de forma aleatoria se verifique el cumplimiento de los requisitos señalados con anterioridad.
+
+El incumplimiento a lo dispuesto por este artículo será sancionado en términos de este Código y demás disposiciones aplicables.
 
 ###### Artículo 13.
 
@@ -165,13 +169,15 @@ Para el caso de conclusión del encargo por las razones de edad, los citados en 
 
 # Libro Segundo. De la Organización del Tribunal Superior de Justicia del Estado
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ## Título Segundo (sic). Del Tribunal Constitucional
 
 ### Capítulo II (sic). De la Conclusión del Cargo de Magistrado
 
 ###### Artículo 16.
 
-El Tribunal Superior de Justicia del Estado se integra con un Tribunal Constitucional, Salas Regionales Colegiadas, Juzgados de Primera Instancia, Juzgados Especializados en Justicia para Adolescentes, Juzgados de Paz y Conciliación Juzgados de Paz y Conciliación Indígena, Juzgados Municipales, Un Centro de Justicia Alternativa y Un Instituto de Defensoría Social. El número de Salas Regionales Colegiadas, su especialización, jurisdicción y competencia se decidirá por acuerdo del Pleno del Consejo de la Judicatura, en los términos de este Código.
+El Tribunal Superior de Justicia del Estado, se integra con un Tribunal Constitucional, Salas Regionales Colegiadas, Juzgados de Primera Instancia, Juzgados Especializados en Justicia para Adolescentes, Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena, Juzgados Municipales, un Centro de Justicia Alternativa y un Instituto de Defensoría Social. El número de Salas Regionales Colegiadas, su especialización, jurisdicción, integración y competencia, así como la adscripción y/o readscripción de los Magistrados que las integran, se decidirá por acuerdo del Pleno del Consejo de la Judicatura, en términos de este Código.
 
 ###### Artículo 17.
 
@@ -257,9 +263,11 @@ Los Magistrados del Tribunal Constitucional y de las Salas Regionales, únicamen
 
 La ratificación sólo es procedente para el caso de los Magistrados de la (sic) Salas Regionales Colegiadas, conforme al mismo mecanismo regulado para su nombramiento y previa opinión técnica que al efecto emita el Consejo de la Judicatura.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 28.
 
-Las Comisiones de Carrera Judicial, Vigilancia y Disciplina, serán las responsables de formular la opinión técnica a que se refiere el artículo anterior, con base en la información que al efecto proporcione la Visitaduría Judicial, la Dirección de Informática y Estadística, el Instituto de Formación Judicial y demás unidades del Poder Judicial que se estimen pertinentes.
+Las Comisiones de Carrera Judicial, Vigilancia y Disciplina, serán las responsables de formular la opinión técnica a que se refiere el artículo anterior, con base en la información que al efecto proporcione la Visitaduría Judicial, la Dirección de Informática y Estadística, la Unidad de Control de Confianza, el Instituto de Formación Judicial y demás unidades del Poder Judicial que se estimen pertinentes.
 
 La formulación de la opinión técnica deberá comenzar seis meses antes de que concluya el periodo por el que fue nombrado y concluido por lo menos, noventa días naturales antes de la fecha de terminación del cargo.
 
@@ -269,7 +277,9 @@ La opinión técnica así como el expediente personal del Magistrado que tenga l
 
 Si se resuelve sobre la no ratificación, el Magistrado cesará en sus funciones a la conclusión del periodo por el que fue designado, teniendo derecho a recibir el beneficio económico a que se refiere el artículo 15 del presente Código. Si fuera el caso de su ratificación, se procederá a realizar un nuevo y definitivo nombramiento conforme al mismo mecanismo de nombramiento inicial descrito en la Constitución Política del Estado de Chiapas y en este ordenamiento.
 
-En el caso de que se resuelva la no ratificación de algún Magistrado cuyo cargo anterior inmediato haya sido de Juez de Primera Instancia ratificado, el Pleno del Consejo podrá adscribirlo nuevamente en e! citado puesto de existir alguna vacante o cuando surgiera ésta, siempre y cuando no exista una conducta o falta grave, así contemplada en la opinión técnica.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
+En el caso de que se resuelva la no ratificación de algún Magistrado cuyo cargo anterior inmediato haya sido de Juez de Primera Instancia ratificado, el Pleno del Consejo de la Judicatura, podrá adscribirlo nuevamente en el citado puesto de existir alguna vacante o cuando surgiera ésta, siempre y cuando no exista una conducta o falta grave, así contemplada en la opinión técnica o el incumplimiento al artículo 12, que haga imposible su reingreso y/o permanencia en el cargo.
 
 ###### Artículo 30.
 
@@ -541,6 +551,8 @@ Estos mismos requisitos se observarán respecto a los Secretarios de Estudio y C
 
 ### Capítulo I. De su Integración y Funcionamiento
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 46.
 
 La Unidad de Apoyo Administrativo, tendrá las siguientes atribuciones:
@@ -675,11 +687,7 @@ III. Un Jefe de Acervo.
 
 ###### Artículo 55.
 
-El Tribunal Superior de Justicia funcionará con el número de Salas que por acuerdo del Pleno del Consejo de la Judicatura, estime necesarias para la pronta y expedita administración de justicia. Las Salas serán colegiadas y estarán integradas por tres Magistrados, de los cuales anualmente uno fungirá como su Presidente, en riguroso orden alfabético de apellidos.
-
-El Pleno del Consejo de la Judicatura, será quien establezca la asignación de Salas y ponencias, denominación, residencia, especialización por materia y jurisdicción de cada una de ellas.
-
-Las Salas Civiles conocerán de las materias civil, familiar y mercantil, las Penales y las Especializadas en Justicia para Adolescentes, conocerán de su materia. Las Salas Mixtas conocerán de todas las materias que correspondan a las Salas especializadas.
+El Tribunal Superior de Justicia funcionará con el número de Salas que por acuerdo del Pleno del Consejo de la Judicatura, estime necesarias para la pronta y expedita administración de justicia. Las Salas serán colegiadas y estarán integradas por tres Magistrados, de los cuales uno fungirá como su Presidente.
 
 ###### Artículo 56.
 
@@ -707,9 +715,11 @@ III. Secretarios Auxiliares; y,
 
 IV. Actuarios.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 59.
 
-Para efectos del artículo anterior, el Consejo de la Judicatura, de acuerdo con el presupuesto, determinará el número de Secretarios Generales de Acuerdos, Secretarios de Estudio y Cuenta, Secretarios Proyectistas, Secretarios Auxiliares, Actuarios y el personal que sea necesario para el funcionamiento de las Salas.
+Para efectos del artículo anterior, el Consejo de la Judicatura, de acuerdo con el presupuesto, determinará el número de Secretarios Generales de Acuerdos, Secretarios de Estudio y Cuenta, Secretarios Proyectistas, Secretarios Auxiliares, Actuarios y el personal que sea necesario para el funcionamiento de las Salas, así como la adscripción o readscripción de éstos.
 
 ###### Artículo 60.
 
@@ -951,9 +961,11 @@ Los Juzgados de Primera Instancia Especializados en Justicia para Adolescentes, 
 
 Los Juzgados Especializados en Justicia para Adolescentes, contarán con los funcionarios previstos en el artículo anterior y con un mediador adscrito que será nombrado por el Centro Estatal de Justicia Alternativa; el cual se encargará del procedimiento de mediación como mecanismo alternativo y previo al establecido al adolescente para determinar la existencia de una infracción penal.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 73.
 
-Los Jueces de Primera Instancia serán nombrados por el Consejo de la Judicatura, previo examen de oposición, rendirán la protesta de ley ante el Pleno de dicho Órgano y durarán en su encargo seis años. Los nombramientos se harán, preferentemente, a favor de aquellas personas que hayan prestado sus servicios al Poder Judicial del Estado con eficiencia y probidad, o que por su honorabilidad, competencia y antecedentes profesionales así lo ameriten, para lo cual, el nombramiento se hará con las particularidades que establezca el Pleno del Consejo de la Judicatura.
+Los Jueces de Primera Instancia serán nombrados por el Consejo de la Judicatura, previo examen de oposición, rendirán la protesta de ley ante el Pleno de dicho Órgano y durarán en su encargo seis años, pudiendo ser adscritos, readscritos o removidos en términos de este Código y demás disposiciones que resulten aplicables. Los nombramientos se harán, preferentemente, a favor de aquellas personas que hayan prestado sus servicios al Poder Judicial del Estado con eficiencia y probidad, o que por su honorabilidad, competencia y antecedentes profesionales así lo ameriten, para lo cual, el nombramiento se hará con las particularidades que establezca el Pleno del Consejo de la Judicatura.
 
 ###### Artículo 74.
 
@@ -963,13 +975,15 @@ Los Jueces de Primera Instancia en sus faltas accidentales, temporales o vacacio
 
 En caso de recusación o excusa de un Juez de Primera Instancia, en los lugares donde hayan dos, conocerá del negocio de que se trate el otro Juez, aún cuando no sea de su materia; en donde haya sólo uno, conocerá el Juez de Primera Instancia que corresponda al distrito judicial inmediato, atendiendo a la menor distancia y a la facilidad de comunicaciones; donde hayan más de dos jueces de la misma materia y categoría, conocerá del asunto el que le siga en el número y, el último, será sustituido por el que en orden numérico sea el primero y así sucesivamente; donde hayan tres jueces de distintas materias, por el Juez Penal o de Justicia para Adolescentes conocerá el Juez Civil, por éste el Juez Familiar, por éste el Juez Civil y, en el caso de impedimento de estos últimos, conocerá el Juez Penal o de Justicia para Adolescentes.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 76.
 
-Los Jueces de Primera Instancia que durante seis años consecutivos presten sus servicios en el Poder Judicial del Estado, en forma tal que se hayan distinguido por su diligencia, probidad, honradez en el ejercicio de sus atribuciones y honorabilidad, podrán ser reelectos por el Consejo de la Judicatura previo dictamen que al efecto se emita.
+Los Jueces de Primera Instancia que durante seis años consecutivos presten sus servicios en el Poder Judicial del Estado, en forma tal que se hayan distinguido por su diligencia, probidad, honradez en el ejercicio de sus atribuciones y honorabilidad, así como que hayan cumplido con lo dispuesto por el artículo 12, de este Código y aprobado los exámenes a que éste se refiere, podrán ser reelectos por el Consejo de la Judicatura previo dictamen que al efecto se emita.
 
-Los Jueces desempeñarán su función en tanto no alcancen la edad de sesenta y cinco años o concluya el plazo para el que fueron nombrados, sean declarados legalmente incapaces o removidos en los términos del Título Noveno de la Constitución Política del Estado de Chiapas y la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, por negligencia en el desempeño de sus labores o por dejar de reunir alguno de los requisitos que señala este Código.
+Los Jueces desempeñarán su función en tanto no alcancen la edad de sesenta y cinco años o concluya el plazo para el que fueron nombrados, sean declarados legalmente incapaces o removidos en los términos de la legislación aplicable, por negligencia en el desempeño de sus funciones o por dejar de reunir alguno de los requisitos o por incumplimiento de las obligaciones que les impone este ordenamiento.
 
-Los Jueces de Primera Instancia del Estado, gozarán de independencia en el ejercicio de sus atribuciones y percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante el ejercicio de su encargo; asimismo, tendrán derecho a un haber único a la conclusión ordinaria y definitiva del encargo que no será menor del equivalente a tres meses del total de la remuneración que tenga asignada al momento de su separación.
+Los Jueces de Primera Instancia, gozarán de independencia en el ejercicio de sus atribuciones y percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante el ejercicio de su encargo; podrán ser adscritos y/o readscritos en cualquier momento de manera discrecional por el Consejo de la Judicatura; asimismo, tendrán derecho a un haber único a la conclusión ordinaria y definitiva del encargo, que no será menor del equivalente a tres meses del total de la remuneración que tenga asignada al momento de su separación.
 
 ###### Artículo 77.
 
@@ -1587,7 +1601,7 @@ El servicio de asesoría jurídica será prestado por los especialistas en difer
 
 ###### Artículo 133.
 
-.El servicio de defensoría social se prestará bajo los principios de gratuidad, legalidad, probidad, honradez, eficiencia, profesionalismo, obligatoriedad y con respeto a los derechos humanos, en los términos de este Título.
+El servicio de defensoría social se prestará bajo los principios de gratuidad, legalidad, probidad, honradez, eficiencia, profesionalismo, obligatoriedad y con respeto a los derechos humanos, en los términos de este Título.
 
 ### Capítulo II. De los Consejeros
 
@@ -1907,7 +1921,9 @@ Los Consejeros no podrán actuar como representantes de cualquier naturaleza ant
 
 Son atribuciones del Consejo de la Judicatura:
 
-I. Nombrar, adscribir o remover a los servidores públicos del Poder Judicial, en los términos y con las excepciones señalados en la Constitución Política del Estado y en el presente Código;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+I. Nombrar, adscribir, readscribir o remover a los servidores públicos del Poder Judicial, en los términos que así lo considere pertinente; salvo a los Magistrados quienes solamente podrán ser removidos por las causas que establece la Constitución Política del Estado y este Código, pudiendo ser adscritos o readscritos libremente por el Consejo de la Judicatura, lo cual hará de manera discrecional;
 
 II. Emitir acuerdos generales a fin de lograr una adecuada distribución entre los órganos del Poder Judicial para la mejor y mayor prontitud de su despacho;
 
@@ -1929,11 +1945,15 @@ X. Atender las solicitudes del Órgano de Fiscalización Superior del Estado, re
 
 XI. Nombrar a los Consejeros que formarán parte del Comité Académico del Instituto de Formación Judicial, así como de las comisiones de administración de los Tribunales de Justicia Electoral y Administrativa y del Trabajo Burocrático;
 
-XII. Nombrar al Secretario Ejecutivo del Consejo, a propuesta de su Presidente;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XII. Nombrar o remover al Secretario Ejecutivo del Consejo, a propuesta de su Presidente;
 
 XIII. Nombrar al titular del Centro de Justicia Alternativa del Poder Judicial del Estado, de entre aquellos que aprueben satisfactoriamente el curso de formación respectivo y hayan resultado electos mediante un proceso de oposición; así como a los tres miembros del Consejo General del referido Centro;
 
-XIV. Nombrar a los Jueces y demás servidores públicos de carrera judicial, mediante exámenes de oposición abierto y previa aprobación de los cursos de formación respectivos;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XIV. Nombrar a los Jueces y demás Servidores Públicos de Carrera Judicial, mediante exámenes de oposición abierto y previa aprobación de los cursos de formación respectivas (sic); así como determinar su adscripción, readscripción y remoción en términos de lo dispuesto en este Código y demás normatividad aplicable.
 
 XV. Crear o suprimir plazas de servidores públicos del Poder Judicial, así como el cargo de jueces auxiliares, en consideración a la necesidad del servicio y acorde al presupuesto de cada órgano de justicia;
 
@@ -1987,7 +2007,13 @@ XXXIX. Analizar y, en su caso, autorizar los gastos de las Salas, Juzgados, Secr
 
 XL. Determinar los distritos judiciales en que se divida el Estado, el número de Salas, Juzgados de Primera Instancia, Juzgados y Salas Especializados en Justicia para Adolescentes, Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena, Juzgados Municipales y Subdirecciones Regionales del Centro Estatal de Justicia Alternativa; así como la residencia, adscripción, jurisdicción territorial y especialización que por materia les corresponda; y,
 
-XLI. Las demás que le confiera este Código y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XLI. Expedir previo pago correspondiente, la constancia de antecedentes no penales solicitada por los particulares.
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XLII. Las demás que le confiera este Código y otras disposiciones legales aplicables.
 
 ### Capítulo III. De su Funcionamiento
 
@@ -2093,11 +2119,11 @@ El Pleno del Consejo de la Judicatura se integrará por cinco Consejeros, pero b
 
 El Consejo de la Judicatura celebrará sesiones ordinarias, cuando menos una vez al mes, y extraordinarias cada vez que se requieran, previa convocatoria de su Presidente o a solicitud fundada de cuando menos tres de sus integrantes. En todos los casos, las sesiones del Consejo serán privadas.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 168.
 
-En la primera sesión del año que celebre el Consejo de la Judicatura se procederá a la asignación de ponencias y adscripción a los Magistrados integrantes de las Salas Regionales Colegiadas y se designará a los presidentes de dichas Salas por el periodo de un año.
-
-Si durante el transcurso del año hubiere que integrar nuevamente una Sala, el Consejo de la Judicatura designará ponencia y nombrará a su presidente para que concluya el año.
+El Pleno del Consejo de la Judicatura, cuando y en el momento que así lo considere pertinente, de manera discrecional adscribirá y/o readscribirá a los Magistrados que integren o deban integrar una Sala, designando la ponencia y a su Presidente.
 
 ###### Artículo 169.
 
@@ -2153,7 +2179,13 @@ IV. Una Dirección de Informática y Estadística;
 
 V. Una Dirección del Fondo Auxiliar para la Administración de Justicia; y,
 
-VI. Los demás que sean necesarios y que apruebe el Pleno del Consejo, de conformidad con el presupuesto asignado.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+VI. Una Dirección de Asuntos Jurídicos; y,
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
+
+VII. Los demás que sean necesarios y que apruebe el Pleno del Consejo, de conformidad con el presupuesto asignado.
 
 ### Capítulo I. De su Integración y Funcionamiento
 
@@ -2347,9 +2379,17 @@ IV. El monto de la reparación del daño cuando la parte ofendida renuncie al mi
 
 V. Las donaciones o aportaciones hechas a su favor por terceros;
 
-VI. El pago de derechos por la expedición de copias certificadas y certificaciones; y,
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-VII. Las demás que señalen este Código, el Reglamento Interior del Consejo de la Judicatura y otras disposiciones legales aplicables.
+VI. El pago de derechos por la expedición a particulares de las constancias de antecedentes no penales;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+VII. El pago correspondiente por la expedición de copias certificadas y certificaciones; y,
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
+
+VIII. Las demás que señalen este Código, el Reglamento Interior del Consejo de la Judicatura y otras disposiciones legales aplicables.
 
 ### Capítulo III. Del Presidente de la Comisión
 
@@ -2969,6 +3009,12 @@ VIII. Expedir las certificaciones de las constancias que se le requieran, relati
 
 IX. Las demás que le confieran este Código, el Reglamento interior, otras leyes aplicables y las que ordene el Presidente del Tribunal.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+
+###### Artículo 242 Bis.
+
+Tratándose de la materia electoral, los Secretarios de Acuerdos de Sala y Secretarios de Estudio y Cuenta, respectivamente, tendrán las mismas atribuciones y facultades que el Secretario General de Acuerdos, para dar fe y autorizar actuaciones de los Magistrados en la sustanciación de los asuntos que les corresponda conocer.
+
 ## Título Segundo. De la Comisión de Administración
 
 ### Capítulo II. De las Faltas
@@ -3177,6 +3223,8 @@ XII. Las demás que determinen la Ley de la materia y su Reglamento Interior.
 
 ### Capítulo VI. De la Prescripción
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 262.
 
 Son atribuciones del Tribunal del Trabajo Burocrático:
@@ -3192,6 +3240,10 @@ IV. Conocer de los conflictos sindicales e intersindicales, con excepción de lo
 V. Efectuar el registro de las condiciones generales de trabajo, de los reglamentos de escalafón, reglamentos de seguridad e higiene, los estatutos sindicales y los reglamentos interiores de cada sindicato, y
 
 VI. Las demás que determinen la Ley de la materia y su Reglamento Interior.
+
+### Capítulo Único. De la Remoción
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 263.
 
@@ -3381,6 +3433,10 @@ VI. Los demás que señalen otras disposiciones legales aplicables.
 
 # Libro Séptimo. De los Servidores Públicos del Poder Judicial
 
+## Título Tercero. De la Remoción de los Funcionarios y Servidores Públicos del Poder Judicial del Estado
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### Artículo 276.
 
 Los servidores públicos del Poder Judicial, tienen derecho a que se les otorguen permisos con goce de sueldo por enfermedad, hasta el límite de la incapacidad que precise el certificado médico oficial o por otra causa justificada a criterio del Consejo de la Judicatura, hasta por 15 días en el año. En toda solicitud de licencia, deberán expresarse las razones que la motivan y en caso de concederse deberá hacerse por escrito, en el que se hará constar la calificación de las razones aducidas en la solicitud respectiva.
@@ -3555,9 +3611,17 @@ XII. Atribuirse competencia para conocer de un asunto cuando no le corresponde c
 
 XIII. Realizar actos de proselitismo y propaganda política en los tiempos de servicio activo y dentro de los recintos oficiales del Poder Judicial;
 
-XIV. Las previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-XV. Las demás que determinen otras disposiciones legales aplicables.
+XIV. Negarse sin causa justificada a que se le apliquen los exámenes de Control de Confianza o a cualquiera de las evaluaciones establecidas en el artículo 12, de este Código o por el Consejo de la Judicatura;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XV. Las previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional; y,
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XVI. Las demás que determinen otras disposiciones legales aplicables.
 
 ###### Artículo 299.
 
@@ -3653,13 +3717,17 @@ VI. Las demás que refiera el Reglamento de la materia.
 
 ###### Artículo 308.
 
-Las atribuciones del Consejo de la Judicatura para imponer las sanciones administrativas previstas en este Código prescribirán:
+Las atribuciones del Consejo de la Judicatura para imponer las sanciones administrativas previstas en este Código, con excepción de la remoción, prescribirán:
 
-I. En un año, en los casos no graves ni estimables en dinero; así como en aquellos en los que el beneficio obtenido o el daño causado por el infractor no excede diez veces el salario minimo mensual vigente en el Estado;
+I. En un año, en los casos no graves ni estimables en dinero; así como en aquellos en los que el beneficio obtenido o el daño causado por el infractor no excede diez veces el salario mínimo mensual vigente en el Estado;
 
 II. En dos años, si el beneficio obtenido o daño causado excede diez veces el salario mínimo vigente en el Estado, cuando surja la conducta atribuida al infractor, y
 
 III. En tres años, en los casos graves no estimables en dinero.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+
+Por lo que hace a la remoción prevista en este Código y los términos para computar su prescripción, se estará a lo dispuesto en el Título Tercero, Capítulo Único de este Código, así como al Reglamento y lineamientos que para regular su procedimiento determine el Pleno del Consejo de la Judicatura.
 
 ###### Artículo 309.
 
@@ -3672,6 +3740,40 @@ La prescripción no se interrumpe por la tramitación del procedimiento de Media
 ###### Artículo 311.
 
 La prescripción no se interrumpe por la tramitación del procedimiento de Mediación, sin embargo, se interrumpirá al iniciarse los procedimientos previstos en la ley. SI se dejare de actuar en ellos, la prescripción empezará a correr nuevamente desde el día siguiente al en que se hubiere practicado el último acto procedimental o realizado la última promoción.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+
+###### Artículo 312.
+
+La remoción es una sanción que podrá imponer el Pleno del Consejo de la Judicatura, independientemente de las demás previstas en este Código, cuando los servidores públicos y funcionarios judiciales, con excepción de los Magistrados, incurran en las causas siguientes:
+
+I. Por incumplimiento de las atribuciones que le correspondan;
+
+II. Incapacidad mental o física que impida el adecuado ejercicio de sus funciones, determinada legalmente;
+
+III. Desobediencia a sus Superiores Jerárquicos, así como incumplimiento o inobservancia a los acuerdos del Tribunal Constitucional o del Consejo de la Judicatura;
+
+IV. Dejar de cumplir alguno de los requisitos que para ocupar el cargo determine este Código.
+
+V. Someter a la consideración del Tribunal Constitucional o del Consejo de la Judicatura, información falsa teniendo conocimiento de ello;
+
+VI. El incumplimiento a lo dispuesto en el artículo 12, de este Código.
+
+VII. No acreditar los exámenes de control de confianza a que sean sometidos por determinación del Consejo de la Judicatura; y,
+
+VIII. Los demás que por acuerdo determine el Pleno del Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+
+###### Artículo 313.
+
+La remoción se dará de manera inmediata cuando se incurra en alguna de las causas previstas en el artículo que antecede, y tendrá por efecto la separación del cargo del servidor o funcionario público respectivo.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+
+###### Artículo 314.
+
+Los procedimientos, mecanismos y demás actos relativos a la aplicación de la sanción de remoción, estarán previstos en el Reglamento respectivo, así como en los lineamientos o acuerdos que al efecto emita el Pleno del Consejo de la Judicatura.
 
 ## Artículos Transitorios
 
@@ -3708,3 +3810,11 @@ P.O. 21 DE OCTUBRE DE 2009.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se, opongan a este Decreto.
+
+P.O. 26 DE MAYO DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El Poder Judicial, a través de los órganos que correspondan deberá ajustar las disposiciones que del Código de Organización emanen, así como demás normatividad que resulte aplicable, en términos de lo dispuesto en el presente Decreto.
