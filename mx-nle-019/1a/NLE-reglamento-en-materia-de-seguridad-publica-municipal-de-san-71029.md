@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-en-materia-de-seguridad-publica-municipal-de-san-710
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-30"
-last_updated: "2009-10-30"
+last_updated: "2010-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de octubre de 2009.
 
@@ -121,6 +121,8 @@ SISTEMATIZACIÓN: Creación de una base de datos para registrar la información.
 
 SUJETOS OBLIGADOS EN MATERIA DE SEGURIDAD PÚBLICA: Las dependencias y áreas administrativas competentes para aplicar el presente reglamento.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 4.
 
 Son autoridades competentes para aplicar el presente Reglamento, las siguientes:
@@ -129,9 +131,9 @@ I. El C. Presidente Municipal;
 
 II. El Secretario de Seguridad Municipal;
 
-III. El Director de Seguridad Municipal;
+III. El Director General de Policía;
 
-IV. El Director de Tránsito Municipal;
+IV. El Director General de Tránsito y Vialidad;
 
 V. El Coordinador de las Áreas de información; y
 
@@ -199,21 +201,25 @@ b) Promover una cultura de legalidad, de la denuncia ciudadana y de la prevenci�
 
 ### CAPITULO I. ESTRUCTURA JERARQUICA
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 11.
 
 Los Cuerpos de Seguridad Municipal, tendrán la siguiente estructura jerárquica:
 
 I. El Secretario de Seguridad Municipal;
 
-II. El Director de Seguridad Municipal que tendrá el grado de Comisario; y
+II. El Director General de Policía; y
 
-III. El Director de Tránsito Municipal que tendrá el grado de Comisario.
+III. El Director General de Tránsito y Vialidad.
 
 ### CAPITULO II. ESTRUCTURA OPERATIVA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 12.
 
-La Dirección de Seguridad Municipal, tendrán (sic) la siguiente estructura operativa:
+La Dirección General de Policía, tendrá la siguiente estructura operativa:
 
 I. Coordinador General Operativo, quién tendrá el grado de Inspector;
 
@@ -241,9 +247,11 @@ e) Policía Tercero; y
 
 f) Policía Raso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 13.
 
-La Dirección de Tránsito Municipal, tendrá la siguiente estructura operativa:
+La Dirección General de Tránsito Municipal y Vialidad, tendrá la siguiente estructura operativa:
 
 I. Coordinador General, quién tendrá el grado de Inspector;
 
@@ -1309,6 +1317,8 @@ VIII. Las demás que la Ley y este Reglamento le otorgue.
 
 Las disposiciones de este Libro tienen por objeto establecer el órgano responsable de diseñar los programas y actividades relacionadas en materia de la prevención del delito
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 112.
 
 Los órganos competentes para diseñar los programas y actividades en materia de prevención del delito serán:
@@ -1319,9 +1329,9 @@ II. El Secretario del R. Ayuntamiento;
 
 III. El Secretario de Seguridad Municipal;
 
-IV. El Director de Policía;
+IV. El Director General de Policía;
 
-V. El Director de Tránsito; y
+V. El Director General de Tránsito y Vialidad;
 
 VI.- El Coordinador de Programas de Atención Social y Prevención.
 
@@ -1530,3 +1540,11 @@ PRESIDENTE MUNICIPAL
 LIC. MA. EMILDA ORTIZ CABALLERO
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE MAYO DE 2010.
+
+Artículo Primero.- Las presentes REFORMAS POR MODIFICACIÓN AL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal, para su difusión.
+
+Artículo Segundo.- Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
