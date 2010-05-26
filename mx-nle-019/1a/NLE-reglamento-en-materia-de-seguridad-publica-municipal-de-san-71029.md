@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-en-materia-de-seguridad-publica-municipal-de-san-710
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-30"
-last_updated: "2009-10-30"
+last_updated: "2010-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,2678 +23,1528 @@ state: "NLE"
 ---
 # REGLAMENTO EN MATERIA DE SEGURIDAD PUBLICA MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON -- ANTES REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON --
 
-ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
+REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE SEPTIEMBRE DE 2014.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
 
-Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
+Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de octubre de 2009.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+EL CIUDADANO LICENCIADO FERNANDO MARGÁIN BERLANGA, PRESIDENTE MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, A TODOS LOS HABITANTES DE ESTE MUNICIPIO HAGO SABER:
 
-ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS.
+QUE EL REPUBLICANO AYUNTAMIENTO DE ESTE MUNICIPIO, EN SESIÓN EXTRAORDINARIA CELEBRADA EL DIA 26 DE OCTUBRE DEL AÑO 2009, HA TENIDO A BIEN APROBAR EL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, EN LOS SIGUIENTES TÉRMINOS:
 
-CONSIDERANDO
+AL REPUBLICANO AYUNTAMIENTO DEL MUNICIPIO DE SAN PEDRO GARZA, GARCÍA, NUEVO LEÓN.
 
-PRIMERO.- La administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del mismo, corresponde al Consejo de la Judicatura Federal, con fundamento en los artículos 94, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos y 68 de la Ley Orgánica del Poder Judicial de la Federación;
+PRESENTE.-
 
-SEGUNDO.- De conformidad con el artículo 100, primer párrafo constitucional, el Consejo de la Judicatura Federal es un órgano del Poder Judicial de la Federación con independencia técnica, de gestión y para emitir sus resoluciones;
+A los integrantes de la Comisión de Gobierno y Reglamentación de este Republicano Ayuntamiento de San Pedro de los Garza, García, Nuevo León, nos fue turnada por el Licenciado Fernando Berlanga, Presidente Municipal del Municipio para su estudio y dictamen la INICIATIVA DE REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA, GARCÍA, NUEVO LEÓN, el cual presentamos consignando en el apartado de "RESULTANDOS", los hechos relacionados con su proceso de creación y en el de "CONSIDERANDOS" las argumentaciones de carácter jurídico aplicables, por lo que con fundamento en lo dispuesto por el artículo 58 y 72 del Reglamento para el Gobierno Interior del Republicano Ayuntamiento ésta Comisión emite el siguiente dictamen:
 
-TERCERO.- Es facultad del Consejo de la Judicatura Federal emitir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo previsto en los artículos 100 de la Constitución Política de los Estados Unidos Mexicanos y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación;
+RESULTANDOS.
 
-CUARTO.- Como parte del proceso de modernización institucional y mejora administrativa; el Consejo de la Judicatura Federal ha puesto en marcha un proceso de simplificación y actualización normativa;
+En consecuencia se transcribe el texto de la INICIATIVA DE REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO DE LOS GARZA GARCÍA, NUEVO LEÓN, siendo el contenido del citado reglamento que se propone, el siguiente:
 
-QUINTO.- El proceso de compilación atiende a las ventajas de contar con un menor número de acuerdos generales que regulen la actividad institucional, en específico:
+# LIBRO PRIMERO. DEL OBJETO DEL REGLAMENTO Y DE LAS DISPOSICIONES GENERALES
 
-1. La concentración de las normas jurídicas facilita la observancia de las mismas, así como su aplicación e interpretación, en beneficio de la eficiencia del servicio público;
+## TITULO UNICO. DEL OBJETO Y DISPOSICIONES GENERALES
 
-2. El fortalecimiento de la salvaguarda de los principios de seguridad jurídica y legalidad, al contar con reglas más claras que rijan la organización institucional, y que brinden mayor certeza a los destinatarios de la norma;
+### CAPITULO UNICO. DISPOSICONES (SIC) GENERALES
 
-3. El incremento de carácter sistemático de los instrumentos jurídicos, en concordancia con la aspiración de contar con ordenamientos jurídicos con plenitud hermenéutica; y
+###### ARTÍCULO 1.
 
-4. La reducción del umbral de posibles anacronismos y contradicciones; y
+El presente Reglamento es de orden público e interés social y tiene por objeto establecer las bases de la formación, organización, estructura, y funcionamiento de la Policía Preventiva, el esquema de la Policía Metropolitana, la sistematización de la información, los procesos de evaluación, el régimen laboral, la seguridad de los servidores públicos, los Consejos Ciudadanos, los Comités Comunitarios y la prevención del delito, el órgano competente para resolver los conflictos que se presenten entre el personal adscrito y la autoridad municipal, el procedimiento a seguir y los recursos procedentes dentro del sistema de seguridad municipal.
 
-SEXTO.- El presente instrumento normativo constituye una compilación de acuerdos generales del Consejo en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas.
+###### ARTÍCULO 2.
 
-Por lo anterior, se expide el siguiente
+En los casos no previstos en el presente Reglamento se aplicará lo dispuesto por la Ley de Seguridad Pública para el Estado de Nuevo León, el Código Civil del Estado de Nuevo León, el Código de Procedimientos Civiles del Estado de Nuevo León y los principios generales de derecho.
 
-ACUERDO
+###### ARTÍCULO 3.
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+Para los efectos del presente Reglamento se entiende por:
 
-### CAPÍTULO PRIMERO. OBJETO Y DEFINICIONES
+ARMAMENTOS Y EQUIPOS OFICIALES: Comprenden la pistola reglamentaria y el fusil de fuego en el calibre de uso permitido; la fornitura con sus accesorios de funda de pistola, cartuchera, porta-esposas, porta-gas, juego de esposas metálicas, cilindro de gas lacrimógeno, dotación de cartuchos de fuego hábiles, el tolete.
 
-###### Artículo 1.
+BASES DE DATOS CRIMINALÍSTICAS Y DE PERSONAL: Las bases de datos de un registro y la información contenidas en ellas, en materia de detenciones, información criminal, personal de seguridad pública, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, sentenciados y las demás necesarias para la operación del Sistema, cuyo propósito es clasificar, ordenar, registrar, resguardar, utilizar y compartir la información recabada y relacionada con dicho servicio.
 
-El presente Acuerdo tiene por objeto establecer los procedimientos para garantizar los principios de legalidad, honradez, lealtad, eficiencia e imparcialidad que deben observar los servidores públicos obligados; para identificar, investigar, determinar y sancionar las responsabilidades administrativas de éstos, y para regular el registro y seguimiento de la evolución de su situación patrimonial, conforme a lo dispuesto por el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, el Título Octavo de la Ley Orgánica del Poder Judicial de la Federación, y los Títulos Segundo y Tercero de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+CAMBIO DE ADSCRIPCIÓN: Cambio de área de prestación del servicio, respetando la jerarquía.
 
-Así como establecer las disposiciones conforme a las cuales los servidores públicos adscritos a las áreas administrativas y órganos auxiliares del Consejo con niveles del 2 al 10 del Manual General de Puestos autorizado, con excepción de las plazas de Carrera Judicial, deberán al separarse de su empleo, cargo o comisión, rendir un informe de los asuntos a su cargo y del estado que guardan; así como realizar la entrega a quienes los sustituyan en sus funciones de los recursos humanos, materiales y financieros que tengan asignados para el ejercicio de sus atribuciones y de la documentación y archivos ordenados y clasificados conforme a la normativa vigente en el Consejo de la Judicatura Federal.
+CENTRO: Centro de Comando, Control y Comunicaciones en materia de seguridad municipal.
 
-###### Artículo 2.
+CLAVES: Directorio de señales designado para la comunicación confidencial, utilizando el código mil y el alfabeto fonético internacional.
 
-Para los efectos de este Acuerdo se entenderá por:
+COLONIA Y COMUNIDAD: El conjunto de ciudadanos que habitan en un lugar determinado del municipio; con intereses o fines comunes y que se constituyen en la división administrativa o territorial del municipio.
 
-I. Acuerdo: Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas;
+COMITÉS CIUDADANOS: Los Comités Ciudadanos Municipales de Seguridad Municipal.
 
-II. Acuse de Recibo Electrónico: Constancia que acredita que un documento digital fue recibido por la Contraloría del Poder Judicial de la Federación y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la fecha y hora que se consignen en dicha constancia;
+CONSEJO DE COORDINACIÓN: Consejo de Coordinación del Sistema Integral de Seguridad Publica del Estado.
 
-III. Archivo Electrónico: Información contenida en texto, imagen, audio o video generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico;
+CONSEJOS CIUDADANOS: Consejos Ciudadanos Municipales de Seguridad.
 
-IV. Áreas administrativas: las unidades administrativas y los órganos auxiliares;
+CUERPOS DE SEGURIDAD MUNICIPAL: La Policía Preventiva, la Policía de Tránsito, los Grupos Tácticos de Intervención o de Reacción y el personal adscrito a las áreas de reclusión y de información.
 
-V. Clave de acceso: Conjunto único de caracteres alfanuméricos asignados por el Sistema de Justicia en Línea al denunciante y denunciados, como medio de identificación de las personas facultadas en el procedimiento de responsabilidad administrativa en que promuevan para utilizar el Sistema, y asignarles los roles de consulta del expediente respectivo o envío vía electrónica de promociones relativas a las actuaciones procesales con el uso de la firma electrónica en un procedimiento de responsabilidad administrativa;
+ENLACE: Servidor Público designado por la administración municipal a través de quién se podrá intercambiar información.
 
-VI. Comisión: Comisión de Disciplina del Consejo de la Judicatura Federal;
+EQUIPO MÓVIL: Vehículos, asignados al personal integrante de los Cuerpos de Seguridad Municipal.
 
-VII. Comisiones: Las señaladas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la organización y funcionamiento del propio Consejo;
+ESCALA DE RANGOS POLICIALES: Relación que contiene a todos los integrantes de las Instituciones Policiales y los ordena en forma descendente de acuerdo a su categoría, jerarquía, división, servicio, antigüedad y demás elementos pertinentes.
 
-VIII. Consejo: Consejo de la Judicatura Federal;
+INFORMACIÓN EN MATERIA DE SEGURIDAD MUNICIPAL: Datos contenidos en los documentos que el personal genera, obtiene, adquiere, transforma o conserva por cualquier título o aquélla que por disposición legal deban generar.
 
-IX. Constitución: Constitución Política de los Estados Unidos Mexicanos;
+INTERCAMBIO DE INFORMACIÓN: Intercambio de datos entre las dependencias Federales, Estatales y Municipales en materia de seguridad municipal.
 
-X. Contraloría: Contraloría del Poder Judicial de la Federación;
+KARDEX: Al conjunto de datos de identificación del personal policial que comprende: huellas digitales, fotografía, escolaridad, antecedentes en el servicio, trayectoria en la seguridad pública, historial académico, laboral y disciplinario, estímulos, reconocimientos y sanciones a que se haya hecho acreedor y cualquier cambio de adscripción, actividad o rango.
 
-XI. Contraseña: Conjunto único de caracteres alfanuméricos, asignados de manera confidencial por el Sistema de Justicia en Línea a los usuarios, la cual permite validar la identificación de la persona a la que se le asignó una Clave de Acceso;
+LEY: Ley de Seguridad Pública para el Estado de Nuevo León.
 
-XII. Dictamen electrónico: Dictamen que se elabora para denunciar el incumplimiento en la presentación de las declaraciones de situación patrimonial;
+LEY GENERAL: Ley General del Sistema Nacional de Seguridad Pública.
 
-XIII. Dirección de Responsabilidades: Dirección General de Responsabilidades de la Contraloría;
+LEY DE RESPONSABILIDADES: Ley de Responsabilidades de los Servidores Públicos para el Estado y Municipios de Nuevo León.
 
-XIV. Dirección de Correo Electrónico: Sistema de comunicación a través de redes informáticas, señalado por el denunciante y denunciados en el procedimiento de responsabilidad administrativa;
+METROPOL: Policía Metropolitana.
 
-XV. Dirección de Correo Electrónico Institucional: Sistema de comunicación a través de redes informáticas, dentro del dominio definido y proporcionado por el Consejo a los servidores públicos;
+PERSONAL ADSCRITO: El personal que desempeña tareas operativas adscrito a las áreas de policía preventiva, policía de tránsito, Grupos Tácticos de Intervención o de Reacción, áreas de reclusión y de información.
 
-XVI. Documento Electrónico o Digital: Todo mensaje de datos que contiene texto o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico;
+PLACAS E INSIGNIAS OFICIALES: Juego de placas metálicas de camisola y cuelleras de pecho y máscara; gafete metálico de identificación nominal; insignias, distintivos de camisola; juego de sectores o emblemas en material de tela con el logotipo y escudo de armas del municipio o la corporación.
 
-XVII. Expediente Electrónico: Conjunto de información contenida en archivos electrónicos o documentos digitales que conforman un procedimiento de responsabilidad administrativa, independientemente de que sea texto, imagen, audio o video, identificado por un número específico;
+PREVENCIÓN DEL DELITO: Acción y efecto anticipadamente para evitar un riesgo de algún hecho delictivo.
 
-XVIII. Firma Digital: Medio gráfico de identificación en el Sistema de Justicia en Línea, consistente en la digitalización de una firma autógrafa mediante un dispositivo electrónico, que es utilizada para reconocer a su autor y expresar su consentimiento;
+PROGRAMA PREVENTIVO: Las acciones, principios, normas, políticas y procedimientos, tendientes a disminuir o eliminar riesgos o altos riesgos de hechos delictivos.
 
-XIX. Firma Electrónica: Conjunto de datos consignados en un mensaje electrónico adjuntados o lógicamente asociados al mismo que permita identificar a su autor mediante el Sistema de Justicia en Línea, y que produce los mismos efectos jurídicos que la firma autógrafa. La firma electrónica permite actuar en el procedimiento de responsabilidad en línea y será proporcionada por la Contraloría en el momento de la primera notificación;
+SECRETARÍA: Secretaría de Seguridad Pública del Estado de Nuevo León.
 
-XX. Ley de Responsabilidades: Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+SECRETARÍA DE SEGURIDAD: Secretaría de Seguridad Municipal.
 
-XXI. Ley Orgánica: Ley Orgánica del Poder Judicial de la Federación;
+SEGURIDAD PÚBLICA: Servicio público cuyo propósito es preservar y garantizar la tranquilidad, el orden y la paz de la comunidad.
 
-XXII. Órgano auxiliar instructor: Órgano jurisdiccional que actúa en auxilio del Consejo como instancia instructora dentro de un procedimiento de responsabilidad administrativa;
+SERVICIO: Horario durante el cual el personal adscrito debe desempeñar su función.
 
-XXIII. Órganos jurisdiccionales: Tribunales de Circuito y Juzgados de Distrito;
+SISTEMATIZACIÓN: Creación de una base de datos para registrar la información.
 
-XXIV. Pleno: Pleno del Consejo;
+SUJETOS OBLIGADOS EN MATERIA DE SEGURIDAD PÚBLICA: Las dependencias y áreas administrativas competentes para aplicar el presente reglamento.
 
-XXV. Poder Judicial de la Federación: A los órganos señalados en el artículo 94 de la Constitución, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación;
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
-XXVI. Presidente: Consejero Presidente del Consejo;
+###### ARTÍCULO 4.
 
-XXVII. Procedimiento tradicional: El procedimiento de responsabilidad administrativa que se substancia recibiendo las promociones y demás documentales en manuscrito o impresos en papel, y formando un expediente también en papel, donde se agregan las actuaciones procesales;
+Son autoridades competentes para aplicar el presente Reglamento, las siguientes:
 
-XXVIII. Procedimiento de responsabilidad en línea: Substanciación y resolución del procedimiento de responsabilidad administrativa en todas sus etapas, a través del Sistema de Justicia en Línea;
+I. El C. Presidente Municipal;
 
-XXIX. Sistema de Justicia en Línea: Sistema informático establecido por la Contraloría a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento de responsabilidad administrativa que se sustancie ante la propia Contraloría;
+II. El Secretario de Seguridad Municipal;
 
-XXX. Secretaría: Secretaría Ejecutiva de Disciplina del Consejo de la Judicatura Federal;
+III. El Director General de Policía;
 
-XXXI. Tribunal Electoral: Tribunal Electoral del Poder Judicial de la Federación; y
+IV. El Director General de Tránsito y Vialidad;
 
-XXXII. Unidades administrativas: Las ponencias de los Consejeros, Oficialía Mayor, Secretaría General de la Presidencia, secretarías ejecutivas, Coordinaciones, Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, secretarías técnicas de Comisiones o de Comités, direcciones generales, así como la Unidad de Enlace del Consejo y el Archivo General del Consejo, y cualquier otro órgano administrativo creado por ley o acuerdo general del Pleno.
+V. El Coordinador de las Áreas de información; y
 
-###### Artículo 3.
+VI. La Comisión de Honor y Justicia.
 
-Los titulares de órganos jurisdiccionales y áreas administrativas podrán adoptar, de manera potestativa y conforme a sus atribuciones constitucionales y legales, medidas preventivas de carácter general a fin de procurar el adecuado funcionamiento de éstos.
+# LIBRO SEGUNDO. DE LA REGULACION DEL FUNCIONAMIENTO DE LA POLICIA PREVENTIVA MUNICIPAL
 
-Estas medidas estarán especialmente orientadas a prevenir y evitar conductas que puedan propiciar o generar actuaciones y prácticas irregulares en el desempeño del cargo de los servidores públicos.
+## TITULO PRIMERO. PRINCIPIOS DE FUNCIONAMIENTO
 
-###### Artículo 4.
+### CAPITULO UNICO. DE LAS ATRIBUCIONES Y FUNCIONAMIENTO DE LA POLICIA PREVENTIVA
 
-Las medidas preventivas no tienen la naturaleza de sanciones administrativas y tampoco constituyen condición obligatoria ni prerrequisito para la imposición de éstas.
+###### ARTÍCULO 5.
 
-## TÍTULO SEGUNDO. DE LA RESPONSABILIDAD ADMINISTRATIVA, LA DECLARACIÓN PATRIMONIAL Y LA ENTREGA-RECEPCIÓN
+Las atribuciones conferidas a los integrantes de los Cuerpos de Seguridad Municipal deberán ejercerse con estricto apego a los principios de legalidad, objetividad, eficacia, profesionalismo y honradez, respetando invariablemente los derechos humanos.
 
-### CAPÍTULO SEGUNDO. MEDIDAS PREVENTIVAS
+###### ARTÍCULO 6.
 
-###### Artículo 5.
+En el cumplimiento de sus atribuciones, el personal integrante de los Cuerpos de Seguridad Municipal quedará sujeto a los principios de territorialidad, proximidad, proactividad y promoción.
 
-Es causa de responsabilidad para los servidores públicos del Poder Judicial de la Federación, el incumplimiento de las obligaciones establecidas en los artículos 101 de la Constitución y 8 de la Ley de Responsabilidades, siempre que sean propias de la función desempeñada; así como la comisión de cualquier conducta prevista en el artículo 131 de la Ley Orgánica, o la contravención a las disposiciones reglamentarias, acuerdos generales, lineamientos o manuales de organización interna.
+###### ARTÍCULO 7.
 
-###### Artículo 6.
+En cumplimiento al principio de territorialidad, los elementos policiales deberán tener pleno conocimiento sobre la zona o extensión territorial que les corresponde vigilar y proteger, además de cumplir con lo siguiente:
 
-Si los servidores públicos reciben algún bien o donación en los términos de la fracción XII, del artículo 8 de la Ley de Responsabilidades, al momento de su recepción, deberán informarlo y ponerlo a disposición de la Contraloría en un plazo no mayor a quince días hábiles.
+a) Actuar dentro de un esquema operativo y funcional de mayor cobertura, delimitando geográficamente, mediante la confirmación de distritos y sectores que les faciliten ejercer con cercanía y prontitud el servicio de vigilancia, protección y prevención;
 
-En su caso, la Contraloría propondrá al Pleno el destino de los bienes en atención a su naturaleza.
+b) Conocer la distribución geográfica, poblacional y socioeconómica del territorio, distrito o zona de cobertura que les corresponda; y
 
-#### SECCIÓN SEGUNDA. SANCIONES
+c) Contar con información sobre el comportamiento delictivo o de las infracciones administrativas que se generen en su territorio, distrito o sector, para lo cual se proveerá de la información estadística necesaria y de estudios e informes que sobre el particular se realicen.
 
-###### Artículo 7.
+###### ARTÍCULO 8.
 
-Las sanciones aplicables a los servidores públicos que incurran en las causas de responsabilidad previstas en el artículo 5 de este Acuerdo, consistirán en:
+Para cumplir con el principio de proximidad, los elementos Policiales deberán:
 
-I. Apercibimiento privado o público;
+a) Mantener un (sic) estrecha comunicación y cercanía con la comunidad para identificar sus necesidades y prioridades en materia de vigilancia, seguridad, protección y prevención del delito e infracciones administrativas;
 
-II. Amonestación privada o pública;
+b) Promover y facilitar la participación de la comunidad en las tareas de seguridad, protección y prevención de delito e infracciones administrativas;
 
-III. Suspensión del empleo, cargo o comisión por un período no menor de tres días ni mayor a un año;
+c) Instrumentar alianzas con organizaciones y asociaciones de vecinos, padres de familia, comerciantes o de cualquier otra naturaleza que posibiliten el cumplimiento de sus objetivos;
 
-IV. Sanción económica;
+d) Brindar la orientación e información necesaria a las víctimas de cualquier delito o infracción, buscando que se les proporcione atención adecuada y oportuna por parte de las Instituciones correspondientes;
 
-V. Destitución del puesto; y
+e) Servir como una instancia auxiliar para el conocimiento de la problemática social de la comunidad y canalizar sus planeamientos e inquietudes ante las dependencias u organismos que correspondan; y
 
-VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+f) Rendir cuentas periódicamente a la comunidad, a través de los Consejos Ciudadanos sobre la evaluación de las actividades que se realizan y sobre la problemática delictiva que se genera en su entorno o sector, estableciendo compromisos de acción que tiendan a su mejoramiento escuchando en todo momento las opiniones y experiencias de la comunidad, lo anterior a través del Secretario de Seguridad.
 
-###### Artículo 8.
+###### ARTÍCULO 9.
 
-Para la individualización de las sanciones administrativas se tomarán en cuenta, además de los elementos propios del empleo, cargo o comisión que desempeñaba el servidor público cuando incurrió en la falta, los que se refieren a continuación:
+El principio de proactividad debe cumplirse con la participación activa de los elementos de policía, en el diseño e instrumentación de estrategias o acciones para evitar la generación de delitos e infracciones administrativas, integrándose por los siguientes elementos:
 
-I. Gravedad de la conducta en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de este Acuerdo o las que se dicten con base en él;
+a) Participar en el diseño y puesta en marcha de los programas de prevención de delito que al respecto se instrumenten conforme a las disposiciones contenidas en la Ley y en éste Reglamento;
 
-II. Circunstancias socioeconómicas del servidor público;
+b) Recabar información que de acuerdo con su criterio pueda representar un riesgo o peligro para la comunidad; o bien, que pueda ser de utilidad para prever posibles conductas delictivas o infracciones administrativas o lograr, en su caso, la identificación o detención de personas que hayan cometido algún delito o infracción; y
 
-III. Nivel jerárquico y antecedentes del infractor, entre ellos la antigüedad en el servicio;
+c) Privilegiar, en los casos en que la Ley y éste Reglamento lo prevé, la solución de conflictos de menor impacto mediante el diálogo, la conciliación o la mediación, con el propósito de restaurar y armonizar los intereses de las partes en conflicto.
 
-IV. Condiciones exteriores y medios de ejecución;
+###### ARTÍCULO 10.
 
-V. Reincidencia en el incumplimiento de obligaciones; y
+El principio de promoción se cumplirá con las actividades que deben realizar los elementos de policía, con el propósito de generar en la comunidad una cultura de la legalidad, del respeto de las instituciones, de la denuncia ciudadana y de la prevención o autoprotección al delito, integrándose por los elementos siguientes:
 
-VI. Monto del beneficio o lucro obtenido, o del daño o perjuicio ocasionado, derivado de la conducta que se sanciona.
+a) Fomentar entre la comunidad el respeto a los Derechos Humanos; y
 
-Para la individualización de las sanciones establecidas en el artículo 37 de la Ley de Responsabilidades, deberá tomarse en cuenta la gravedad que revela el hecho de que una vez iniciado el procedimiento de responsabilidad administrativa por falta de la declaración de situación patrimonial, se advierta que ésta se presentó de manera extemporánea, antes de iniciado dicho procedimiento o durante su tramitación, o bien, no se hubiera subsanado la omisión en el cumplimiento de una obligación de esa naturaleza.
+b) Promover una cultura de legalidad, de la denuncia ciudadana y de la prevención o autoprotección del delito.
 
-###### Artículo 9.
+## TITULO SEGUNDO. ESTRUCTURA JERARQUICA Y OPERATIVA
 
-Cuando por el incumplimiento de las obligaciones establecidas en las disposiciones jurídicas aplicables, se obtenga beneficio o lucro, o se cause daño o perjuicio, procederá la imposición de sanción económica; en cuyo caso el monto de ésta podrá ser de hasta tres tantos del beneficio o lucro obtenido, o del daño o perjuicio causado.
+### CAPITULO I. ESTRUCTURA JERARQUICA
 
-En ningún caso la sanción económica impuesta podrá ser menor o igual al monto del beneficio o lucro obtenido, o del daño o perjuicio causado.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
-###### Artículo 10.
+###### ARTÍCULO 11.
 
-La destitución se aplicará a los servidores públicos cuando la falta administrativa sea grave y se justifique con base en los elementos previstos en el artículo 8 de este Acuerdo.
+Los Cuerpos de Seguridad Municipal, tendrán la siguiente estructura jerárquica:
 
-## TÍTULO TERCERO. DISPOSICIONES PROCEDIMENTALES
+I. El Secretario de Seguridad Municipal;
 
-### CAPÍTULO PRIMERO. RESPONSABILIDAD ADMINISTRATIVA
+II. El Director General de Policía; y
 
-#### SECCIÓN PRIMERA. CAUSAS DE RESPONSABILIDAD ADMINISTRATIVA
+III. El Director General de Tránsito y Vialidad.
 
-###### Artículo 11.
+### CAPITULO II. ESTRUCTURA OPERATIVA
 
-La sanción de inhabilitación se aplicará de la manera siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
-I. De tres meses a un año: al servidor público que con la comisión de la falta administrativa no cause daño o perjuicio, ni obtenga beneficio o lucro alguno;
+###### ARTÍCULO 12.
 
-II. De uno a diez años: al servidor público que con la comisión de la falta administrativa, cause daño o perjuicio u obtenga un beneficio o lucro, siempre que el monto de éstos no exceda de doscientas veces el salario mínimo general mensual vigente en el Distrito Federal; y
+La Dirección General de Policía, tendrá la siguiente estructura operativa:
 
-III. De diez a veinte años: al servidor público que con la comisión de la falta administrativa, ocasione daño o perjuicio u obtenga un beneficio o lucro que exceda de la cantidad establecida en la fracción anterior; así como al servidor público que cometa una falta administrativa considerada como grave.
+I. Coordinador General Operativo, quién tendrá el grado de Inspector;
 
-### CAPÍTULO SEGUNDO. DECLARACIÓN PATRIMONIAL
+II. Comandantes de Grupos Operativos quiénes tendrán el grado de Sub-Inspector, y jerárquicamente con mando respecto de los siguientes grupos:
 
-#### SECCIÓN PRIMERA. PRESENTACIÓN DE LA DECLARACIÓN
+a) Bancario y Comercial,
 
-###### Artículo 12.
+b) Residencial,
 
-Para los efectos de este Acuerdo, se considerará en todo caso como falta grave, el incumplimiento de las obligaciones previstas en los artículos 101 de la Constitución y 8, fracciones VIII, X a XIV, XVI, XXII y XXIII, de la Ley de Responsabilidades; así como la comisión de las conductas previstas en las fracciones I a VI del artículo 131 de la Ley Orgánica.
+c) Escolar; y
 
-###### Artículo 13.
+d) Preventivo.
 
-Para la valoración y sanción de las faltas conforme a los criterios previstos en los artículos 8 a 12 de este Acuerdo, se tendrá a la vista el expediente personal del servidor público correspondiente.
+III. Comandantes de Compañía, quiénes tendrán el grado de Sub-Inspectores y jerárquicamente bajo su mando a los siguientes grados:
 
-## TÍTULO CUARTO. REVISIÓN DE LA SITUACIÓN PATRIMONIAL
+a) Oficial
 
-### CAPÍTULO TERCERO. ENTREGA-RECEPCIÓN DE RECURSOS, DOCUMENTOS Y ARCHIVOS
+b) Sub-Oficial,
 
-###### Artículo 14.
+c) Policía Primero,
 
-Se considera reincidente al servidor público que una vez declarado responsable de la comisión de cualquier causa de responsabilidad prevista en el artículo 131 de la Ley Orgánica, o del incumplimiento de alguna de las obligaciones establecidas en el artículo 8 de la Ley de Responsabilidades, incurra nuevamente, con posterioridad a la notificación de la imposición de la sanción, en la misma falta o conducta por la que fue previamente sancionado.
+d) Policía Segundo,
 
-Para la individualización de la sanción, la reincidencia se considerará en el supuesto de que no excedan tres años en faltas no graves o cinco años en faltas graves, siguientes a la notificación de la resolución por la que fue sancionado.
+e) Policía Tercero; y
 
-###### Artículo 15.
+f) Policía Raso.
 
-La Contraloría inscribirá en el Registro de Servidores Públicos Sancionados las sanciones impuestas por el Pleno, la Comisión y la propia Contraloría, derivadas de un procedimiento de responsabilidad administrativa.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
-Sin perjuicio de lo previsto en el párrafo anterior, también se inscribirán en el Registro de Servidores Públicos Sancionados las resoluciones remitidas por los órganos competentes de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, las cuales deberán atender a lo establecido en este Acuerdo.
+###### ARTÍCULO 13.
 
-###### Artículo 16.
+La Dirección General de Tránsito Municipal y Vialidad, tendrá la siguiente estructura operativa:
 
-Los efectos del registro de las sanciones administrativas tendrán una duración de tres años tratándose de faltas no graves y cinco si se trata de faltas graves, contados a partir de la fecha en que se ejecute o concluya la sanción correspondiente.
+I. Coordinador General, quién tendrá el grado de Inspector;
 
-###### Artículo 17.
+II. Supervisores Generales, quienes tendrán el grado de Sub-Inspectores;
 
-Para garantizar la correcta identificación del servidor público sancionado y la determinación de la sanción impuesta, en el comunicado de aviso de inscripción que elabore el Pleno, la Comisión o la Contraloría, además de la resolución respectiva, se señalará lo siguiente:
+III. Jefe de Grupo, tendrá bajo su mando a los siguientes grados:
 
-I. Nombre completo del servidor público sancionado;
+a) Patrullero
 
-II. Número de expediente personal;
+b) Motociclista
 
-III. Puesto;
+c) Crucero
 
-IV. Adscripción;
+# LIBRO TERCERO. DEL ESQUEMA INTERMUNICIPAL DENOMINADO POLICIA METROPOLITANA, POR SUS SIGLAS "METROPOL"
 
-V. Fecha de resolución y de notificación;
+## TITULO UNICO. DEL ESQUEMA DE METROPOL
 
-VI. Número de expediente en el que se emite;
+### CAPITULO UNICO. ESQUEMA DE METROPOL
 
-VII. Autoridad sancionadora;
+###### ARTÍCULO 14.
 
-VIII. Irregularidad o conducta imputada;
+El presente apartado establece la forma en que la Policía Preventiva, la Policía de Tránsito y los Grupos Tácticos o Unidades Especiales de Intervención o de Reacción del Municipio, pueden colaborar y coordinarse con los Cuerpos de Seguridad de los Municipios de Apodaca, N.L., Cadereyta Jiménez, N.L., General Escobedo, N.L., García, N. L., Guadalupe, N.L., Benito Juárez, N.L., Monterrey, N.L., San Nicolás de los Garza, N.L., Santa Catarina, N.L. y Santiago, N.L., para atender el servicio de seguridad pública en sus territorios.
 
-IX. Sanción impuesta;
+###### ARTÍCULO 15.
 
-X. Monto de las sanciones de carácter económico; y
+La colaboración y coordinación a que se refiere el artículo anterior, consistirá en:
 
-XI. Duración de los efectos de la sanción impuesta y, en su caso, fecha de inicio y conclusión.
+I. Operar conjuntamente en acciones específicas;
 
-###### Artículo 18.
+II. Contar con la autorización para que en casos de flagrancia en la comisión de delitos y faltas administrativas, las unidades de los once Municipios puedan ingresar más allá de los límites territoriales de su Municipio a efecto de atender la urgencia y continuidad de la acción que se presenta; y
 
-La autoridad que imponga suspensión o inhabilitación, deberá acompañar a la resolución respectiva, copia certificada de la constancia de notificación efectuada al servidor público sancionado; asimismo, señalará el periodo de ejecución aplicable a dichas sanciones, fecha de inicio y conclusión.
+III. El intercambio de información estratégica que permita desarrollar acciones de prevención, contención o represión de delitos y faltas administrativas.
 
-## TÍTULO QUINTO. DEL FUNCIONAMIENTO DE LA VISITADURÍA JUDICIAL
+###### ARTÍCULO 16.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+Las unidades policíacas de los Municipios a que se refiere el artículo 14 del presente Reglamento tienen autorización para ingresar al territorio de otro Municipio para atender los casos a que se refiere la fracción II del artículo 15 anterior.
 
-#### SECCIÓN PRIMERA. FORMALIDADES
+###### ARTICULO 17.
 
-###### Artículo 19.
+Los acuerdos para llevar a cabo acciones específicas, se tomarán por los Secretarios de Seguridad de los municipios señalados en el artículo 14 a través de sus mandos, involucrados en ellas.
 
-Sólo serán inscritas en el Registro de Servidores Públicos Sancionados las sanciones previstas en el artículo 7 de este Acuerdo.
+###### ARTÍCULO 18.
 
-###### Artículo 20.
+El intercambio de información estratégica se obsequiará mediante solicitud entre los Secretarios de Seguridad de los municipios interesados.
 
-Las sanciones y los datos correspondientes a los servidores públicos sancionados deberán inscribirse en el Registro en un plazo no mayor a tres días hábiles, contados a partir del día hábil siguiente en que se reciba la resolución respectiva.
+# LIBRO CUARTO. DE LA REGULACION DE LOS PROCESOS PARA LA SISTEMATIZACION DE LA INFORMACION EN MATERIA DE SEGURIDAD MUNICIPAL
 
-###### Artículo 21.
+## TITULO PRIMERO. DEL REGISTRO DE LA INFORMACION
 
-La Contraloría expedirá las normas para la operación del Registro de Servidores Públicos Sancionados, así como las constancias que acrediten la inscripción, inexistencia y cumplimiento de las sanciones.
+### CAPITULO UNICO. DE LA INFORMACION
 
-El interesado podrá obtener dichas constancias a través del sistema electrónico que al efecto establezca la Contraloría.
+###### ARTÍCULO 19.
 
-### CAPÍTULO SEGUNDO. COMPETENCIA
+El presente Libro establece las atribuciones de las autoridades administrativas municipales encargadas de prestar el servicio de seguridad municipal, con el fin de instaurar las reglas para la creación de una base de datos en materia de seguridad municipal que clasifique, ordene, registre, resguarde y utilice la información y la forma de operar la misma.
 
-###### Artículo 22.
+###### ARTÍCULO 20.
 
-Las declaraciones de situación patrimonial de los servidores públicos obligados deberán presentarse ante la Dirección de Registro Patrimonial, por vía electrónica, en términos de este Acuerdo.
+La Secretaría de Seguridad en el ámbito de su competencia, suministrará, intercambiará, sistematizará, consultará, analizará y actualizará, la información que diariamente se genere sobre seguridad municipal, mediante los sistemas e instrumentos tecnológicos respectivos.
 
-###### Artículo 23.
+###### ARTÍCULO 21.
 
-Sólo por causa debidamente justificada que será calificada por la Dirección de Registro Patrimonial, atendiendo al caso concreto, las declaraciones de situación patrimonial podrán presentarse por medio escrito sólo para efectos de oportunidad, para lo cual los formatos correspondientes deberán imprimirse de la página electrónica del Consejo directamente por los servidores públicos obligados a presentarlas.
+La Secretaría de Seguridad municipal establecerá políticas, programas, lineamientos, mecanismos, instrumentos, servicios y acciones para la administración de la información que deba incorporarse a la base de datos.
 
-Lo anterior, en el entendido que una vez que cese la causa que impidió la presentación de la declaración de situación patrimonial respectiva por medios electrónicos, el servidor público obligado deberá proceder a su presentación por dichos medios.
+## TITULO SEGUNDO. DEL CENTRO DE CONTROL MUNICIPAL DE LA INFORMACION EN MATERIA DE SEGURIDAD MUNICIPAL
 
-### CAPÍTULO TERCERO. INVESTIGACIÓN
+### CAPITULO I. DEL CENTRO DE CONTROL
 
-###### Artículo 24.
+###### ARTÍCULO 22.
 
-Los servidores públicos que determine el titular de la Contraloría, proporcionará el asesoramiento y apoyo que soliciten los servidores públicos para la debida requisición de los formatos.
+Para la aplicación del presente Titulo, el Centro dependerá directamente del Presidente Municipal y en forma delegada del Secretario de Seguridad con las siguientes atribuciones:
 
-###### Artículo 25.
+I. Establecer, controlar, administrar y resguardar las bases de datos criminalísticos y de personal que tenga a cargo atribuciones o maneje información en materia de seguridad;
 
-La Dirección de Registro Patrimonial generará un comprobante electrónico al recibir las declaraciones de situación patrimonial.
+II. Administrar al personal del Centro;
 
-Para el caso de las declaraciones de situación patrimonial que se presenten por escrito en los términos precisados en el artículo 23 de este Acuerdo, se generará un acuse de recibo provisional mientras se presente la referida declaración vía electrónica y para valorar la justificación que se haya formulado.
+III. Determinar los criterios técnicos y de homologación de las bases de datos;
 
-###### Artículo 26.
+IV. Emitir los protocolos de interconexión, acceso y seguridad de estas bases de datos;
 
-Las declaraciones de situación patrimonial deberán presentarse a través de medios remotos de comunicación electrónica, para lo cual se emplearán medios de identificación electrónica.
+V. Vigilar el cumplimiento de los criterios de acceso a la información y hacer del conocimiento de las instancias competentes cualquier irregularidad detectada; y
 
-La Contraloría tendrá a su cargo el sistema de certificación de los medios de identificación electrónica que utilicen los servidores públicos y llevará el control de ellos.
+VI. Brindar asesoría a las Instituciones de Seguridad para la integración de información, interconexión, acceso, uso, intercambio y establecimiento de medidas de seguridad para las bases de datos.
 
-Asimismo, la Contraloría someterá a la aprobación del Pleno, los formatos mediante los cuales los servidores públicos deberán presentar las declaraciones de situación patrimonial, así como los manuales e instructivos de apoyo.
+###### ARTÍCULO 23.
 
-### CAPÍTULO CUARTO. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
+La administración de la información para la operación del Centro, en materia de Seguridad Municipal, consiste en:
 
-#### SECCIÓN PRIMERA. INICIO DEL PROCEDIMIENTO ADMINISTRATIVO
+I. El servicio de registro, atención y despacho de llamadas de emergencia;
 
-###### Artículo 27.
+II. La Red Estatal de Comunicaciones, como instancia integrante de la Red Nacional de Telecomunicaciones de Seguridad Pública;
 
-Para presentar sus declaraciones de situación patrimonial, los servidores públicos deberán ingresar al sistema localizado en la dirección electrónica correspondiente. La Contraloría, a través de la Dirección de Registro Patrimonial, no admitirá ni reconocerá el envío de declaraciones por medios electrónicos diversos al señalado.
+III. El servicio de registro, atención y seguimiento de la denuncia anónima;
 
-En sustitución de la firma autógrafa, se utilizarán medios de identificación electrónica.
+IV. Los mecanismos de video-vigilancia por circuito cerrado de televisión y de reconocimiento de placas para uso exclusivo de las instituciones policiales;
 
-###### Artículo 28.
+V. El desarrollo e implementación de herramientas tecnológicas aplicadas a la seguridad pública; y
 
-Para los efectos del artículo anterior, se proporcionará a los servidores públicos obligados el código de identificación electrónica, conforme lo determine el Pleno a propuesta de la Contraloría.
+VI. Los registros que en los términos de ésta y otras Leyes resguarda la Secretaría.
 
-###### Artículo 29.
+### CAPITULO II. DE LA CLASIFICACION DE LA INFORMACION EN MATERIA DE SEGURIDAD MUNICIPAL
 
-El uso de medios de identificación electrónica sujeta al servidor público a las siguientes condiciones:
+###### ARTÍCULO 24.
 
-I. Reconocer como propia y auténtica la información que por medios electrónicos envíe a la Contraloría por conducto de la Dirección de Responsabilidades; y
+De conformidad con lo señalado en la Ley General, toda información relacionada a la materia de seguridad pública, tendrá la categoría de reservada. A está información sólo podrán tener acceso:
 
-II. Utilizar dichos medios de identificación de forma personal, ya que su uso es responsabilidad exclusiva de su titular.
+I. Las autoridades municipales competentes para la aplicación de este Reglamento;
 
-### CAPÍTULO QUINTO. PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA EN LÍNEA POR INCUMPLIMIENTO EN LA PRESENTACIÓN DE LA DECLARACIÓN PATRIMONIAL
+II. Las autoridades competentes en materia de investigación y persecución del delito, para los fines que se prevean en los ordenamientos legales aplicables; y
 
-###### Artículo 180.
+III. Los probables responsables, estrictamente para la rectificación de sus datos personales y para solicitar que se asiente en el mismo el resultado del procedimiento penal, en términos de las disposiciones legales aplicables.
 
-El procedimiento de responsabilidad administrativa por incumplimiento en la presentación de las declaraciones de situación patrimonial se promoverá, substanciará y resolverá en línea, a través del Sistema de Justicia en Línea que deberá establecer y desarrollar la Contraloría.
+Bajo ninguna circunstancia se podrá proporcionar información contenida en las bases de datos a terceros. Las bases de datos no podrán ser utilizadas como instrumento de discriminación, vulneración de la dignidad, intimidad, privacidad u honra de persona alguna.
 
-A fin de emplazar al denunciado, el titular de la Dirección de Responsabilidades imprimirá y certificará el dictamen electrónico correspondiente y sus anexos, que se notificarán de manera personal. Si el denunciado rechaza tramitar el procedimiento de responsabilidad administrativa en línea, rendirá el informe solicitado mediante el procedimiento tradicional.
+###### ARTÍCULO 25.
 
-Si se hace uso del procedimiento de responsabilidad en línea deberán observarse los lineamientos que para tal efecto expida la Contraloría.
+La utilización de la información que se genere en la base de datos criminalístico y de personal se hará bajo los más estrictos principios de confidencialidad y de reserva.
 
-La firma electrónica producirá los mismos efectos legales que la firma autógrafa y garantizará la integridad del documento, teniendo el mismo valor probatorio.
+###### ARTÍCULO 26.
 
-###### Artículo 181.
+La consulta de la base de datos se realizará única y exclusivamente en el ejercicio de funciones oficiales por parte de las instituciones de seguridad pública del Estado y de los Municipios, en el marco de sus atribuciones y competencias, una vez que acrediten la finalidad de la información consultada, dejando constancia sobre el particular; por ende, el público no tendrá acceso a la información que se contenga.
 
-En el Sistema de Justicia en Línea, la Contraloría integrará el expediente electrónico, mismo que incluirá todas las promociones, pruebas y otros anexos que presenten el denunciante y denunciados, oficios, acuerdos, y resoluciones, así como las demás actuaciones que deriven de la substanciación del procedimiento de responsabilidad en línea, garantizando su seguridad, inalterabilidad, autenticidad, integridad y durabilidad, conforme a los lineamientos que expida la Contraloría.
+### CAPITULO III. DE LA RECEPCION DE LA INFORMACION
 
-En los procedimientos de responsabilidad en línea, la autoridad requerida, desahogará las pruebas testimoniales utilizando el método de videoconferencia cuando ello sea posible, o bien videograbará la diligencia, para su posterior envío a la Contraloría.
+###### ARTÍCULO 27.
 
-###### Artículo 182.
+La Secretaría de Seguridad, implementará el sistema o subsistemas de base de datos criminalístico y de personal, utilizando para tal fin los medios tecnológicos idóneos que permitan la concentración única de la información generada que pueden ser objeto de consulta mediante la utilización del equipo y tecnología compatible y conforme al manual de operación que para tal efecto se expida por la Secretaría de Seguridad.
 
-La firma electrónica, clave de acceso y contraseña se proporcionarán, a través del Sistema de Justicia en Línea, previa obtención del registro y autorización correspondientes. El registro de la firma electrónica, clave de acceso y contraseña, implica el consentimiento expreso de que dicho Sistema registrará la fecha y hora en que se abran los archivos electrónicos, que contengan las constancias que integran el expediente electrónico, para los efectos legales establecidos en este Acuerdo.
+###### ARTÍCULO 28.
 
-###### Artículo 183.
+Atendiendo a las necesidades propias del Municipio, reglamentariamente se determinarán las bases para incorporar otros servicios o instrumentos que faciliten la integración de la información sobre seguridad pública y los mecanismos modernos que den agilidad y rapidez a su acceso.
 
-Solamente el denunciado, así como las personas autorizadas tendrán acceso al expediente electrónico, exclusivamente para su consulta, una vez que tengan registrada su clave de acceso y contraseña.
+###### ARTÍCULO 29.
 
-###### Artículo 184.
+La base de datos criminalísticos y de personal podrá incluir un sistema de recepción y emisión de la información que puedan ser utilizados para asuntos relacionados con protección civil, salud o cualesquier otro servicio público en beneficio de la comunidad.
 
-Los titulares de una firma electrónica, clave de acceso y contraseña, serán responsables de su uso, por lo que el acceso o recepción de las notificaciones, la consulta al expediente electrónico y el envío de información mediante la utilización de cualquiera de dichos instrumentos, les serán atribuibles y no admitirán prueba en contrario, salvo que se demuestren fallas en el Sistema de Juicio en Línea.
+## TITULO TERCERO. DEL PERSONAL ADSCRITO AL CENTRO MUNICIPAL DE CONTROL DE LA INFORMACION
 
-###### Artículo 185.
+### CAPITULO I. DEL PERSONAL ADSCRITO AL CENTRO DE CONTROL
 
-Una vez recibida por vía electrónica cualquier promoción, el Sistema de Justicia en Línea emitirá el acuse de recibo electrónico correspondiente, señalando la fecha y la hora de recibido.
+###### ARTÍCULO 30.
 
-###### Artículo 186.
+El personal adscrito al Centro estará sujeto a la libre remoción; quedará sujeto a las evaluaciones de certificación y control de confianza establecidos por la Ley.
 
-Cualquier actuación en el procedimiento en línea se efectuará a través del Sistema de Juicio en Línea en términos de este Capítulo. Dichas actuaciones serán validadas con las firmas electrónicas o digitales del titular de la Contraloría, del de la Dirección de Responsabilidades o de cualquier otro servidor público que intervenga.
+###### ARTÍCULO 31.
 
-###### Artículo 187.
+El personal adscrito al Centro deberá preservar la reserva y secrecía de los asuntos que conozca con motivo de las funciones que desempeñe.
 
-Respecto de los documentos que el denunciado ofrezca como prueba, tratándose de documentos digitales, se deberá manifestar bajo protesta de decir verdad la naturaleza de los mismos, especificando si la reproducción digital corresponde a una copia simple, una copia certificada o al original y tratándose de esta última, si tiene o no firma autógrafa.
+###### ARTÍCULO 32.
 
-La omisión de la manifestación presume en perjuicio sólo del denunciado que el documento digitalizado corresponde a una copia simple.
+Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, el personal adscrito al Centro, se sujetará a las siguientes obligaciones:
 
-###### Artículo 188.
+I. Conducirse con dedicación y disciplina, así como con apego al orden jurídico y respeto a las garantías individuales y derechos humanos reconocidos por la Constitución;
 
-Para el caso de pruebas diversas a las documentales, los instrumentos en los que se haga constar la existencia de dichas pruebas se integrarán al expediente electrónico. El servidor público a cuya mesa corresponda el asunto, deberá digitalizar las constancias relativas y procederá a la certificación de su cotejo con los originales físicos, así como a garantizar el resguardo de los originales y de los bienes materiales que en su caso hubieran sido objeto de prueba.
+II. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables;
 
-Las pruebas diversas a las documentales deberán ofrecerse en el informe de contestación y presentarse en la misma fecha en la que se registre en el Sistema de Justicia en Línea correspondiente a su ofrecimiento, haciendo constar su recepción por vía electrónica.
+III. Abstenerse de substraer, ocultar, alterar o dañar información o bienes en perjuicio de la autoridad municipal;
 
-###### Artículo 189.
+IV. Abstenerse, conforme a las disposiciones aplicables, de dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada de la cual tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;
 
-Las notificaciones que se practiquen dentro del procedimiento de responsabilidad en línea, se efectuarán conforme a lo siguiente:
+V. Atender con diligencia la solicitud de informe, queja o auxilio de la ciudadanía, o de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda;
 
-I. Todas las actuaciones y resoluciones que conforme a las disposiciones de este Acuerdo deban notificarse en forma personal, mediante correo certificado con acuse de recibo, o por oficio, se deberán realizar a través del Sistema de Justicia en Línea;
+VI. Abstenerse de introducir, a las instalaciones del Centro bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
 
-II. El notificador deberá elaborar la minuta electrónica en la que precise la actuación o resolución a notificar, así como los documentos que se adjunten a la misma;
+VII. Abstenerse de consumir, dentro o fuera del Centro, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por la dependencia municipal encargada de prestar los servicios médicos;
 
-III. El notificador enviará a la dirección de correo electrónico del denunciado a notificar, un aviso informándole que se ha dictado una actuación o resolución en el expediente electrónico;
+VIII. Abstenerse de consumir en las instalaciones de sus instituciones o en actos del servicio, bebidas embriagantes;
 
-IV. Se tendrá como legalmente practicada la notificación, cuando el Sistema de Justicia en Línea genere el acuse de recibo electrónico donde conste la fecha y hora en que los denunciados notificados ingresaron al expediente electrónico, lo que deberá suceder dentro del plazo de tres días hábiles siguientes a la fecha de envío del aviso a la dirección de correo electrónico de los mismos; y
+IX. Abstenerse de realizar conductas que desacrediten su persona o la imagen del Centro, dentro o fuera del servicio;
 
-V. En caso de que el Sistema de Justicia en Línea no genere el acuse de recibo donde conste que la notificación fue realizada, la misma se efectuará mediante lista al cuarto día hábil contado a partir de la fecha de envío del correo electrónico, fecha en que se tendrá por legalmente notificado.
+X. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio, y
 
-###### Artículo 190.
+XI. Los demás que establezcan las disposiciones legales aplicables.
 
-Para los efectos del procedimiento administrativo en línea son hábiles las 24 horas de los días en que se encuentren abiertas al público las oficinas del área correspondiente.
+###### ARTÍCULO 33.
 
-Las promociones se considerarán presentadas, salvo prueba en contrario, el día y hora que conste en el acuse de recibo electrónico que emita el Sistema de Juicio en Línea, en el lugar en donde el promovente tenga su domicilio y, por recibidas, en el lugar del área correspondiente. Tratándose de un día inhábil se tendrán por presentadas el día hábil siguiente.
+En el caso necesario se asignará una clave confidencial a las personas autorizadas para obtener la información de las bases de datos, a fin de que quede la debida constancia de cualquier movimiento o consulta.
 
-###### Artículo 191.
+###### ARTÍCULO 34.
 
-Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del Sistema de Justicia en Línea, haciendo imposible el cumplimiento de los plazos establecidos en este Acuerdo, las partes deberán dar aviso a la Contraloría en la misma promoción sujeta a término, quien pedirá un reporte al titular de la unidad administrativa responsable de la administración del Sistema de Justicia en Línea sobre la existencia de la interrupción del servicio.
+Al personal adscrito que quebrante la reserva de las bases de datos o proporcione información sobre las mismas, se le sujetará al procedimiento de responsabilidad administrativa o penal, según corresponda.
 
-El reporte que determine que existió interrupción en el Sistema de Justicia en Línea deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán, únicamente, por el tiempo que dure la interrupción del Sistema de Justicia en Línea. Para tal efecto, la Contraloría hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizará el cómputo correspondiente, para determinar si hubo o no incumplimiento de los plazos legales.
+### CAPITULO II. DE LA ASIGNACION DE CLAVES DE IDENTIFICACION DE LOS INTEGRANTES DE LOS CUERPOS DE SEGURIDAD MUNICIPAL
 
-###### Artículo 30.
+###### ARTÍCULO 35.
 
-Los servidores públicos tendrán la obligación de exhibir copia de la declaración del impuesto sobre la renta del año que corresponda, si estuvieren obligados a presentarla conforme a la legislación fiscal, así como la constancia de percepciones y retenciones, únicamente cuando sea solicitada expresamente por la Contraloría.
+A las autoridades Municipales competentes para aplicar el presente Reglamento y al personal adscrito a la Secretaría de Seguridad, le será asignada una clave de identificación o alias.
 
-La Contraloría, a través de la Dirección de Registro Patrimonial, emitirá un acuse de recibo electrónico que contendrá un código de validación que acreditará la recepción de la declaración.
+Las claves o alias asignados serán homologadas en los Municipios de Apodaca, Cadereyta Jiménez, Benito Juárez, Escobedo, García, Guadalupe, Monterrey, San Nicolás de los Garza, Santa Catarina y Santiago, Nuevo León.
 
-###### Artículo 31.
+# LIBRO QUINTO. DE LA FORMA PARA REGULAR LOS PROCESOS DE EVALUACION EN MATERIA DE SEGURIDAD MUNICIPAL
 
-Las consultas técnicas relativas a la operación del sistema estarán a cargo de la Dirección General de Tecnologías de la Información y las correspondientes a la requisición del formato a cargo de la Dirección de Registro Patrimonial. Estas vigilarán e implementarán los programas, conexiones y, en general, las acciones que se requieran para el óptimo funcionamiento.
+## TITULO UNICO. DEL PROCEDIMIENTO DE EVALUACION
 
-###### Artículo 32.
+### CAPITULO I. DE LA EVALUACION
 
-La Contraloría instrumentará los sistemas informáticos que se requieran para llevar el registro patrimonial de los servidores públicos, su seguimiento y evaluación.
+###### ARTÍCULO 36.
 
-#### SECCIÓN SEGUNDA. SUJETOS OBLIGADOS
+En este Libro se establece el procedimiento que debe seguirse para la evaluación del desempeño y control de confianza de los servidores públicos integrantes de la Secretaría de Seguridad.
 
-###### Artículo 33.
+###### ARTÍCULO 37.
 
-Están obligados a presentar ante la Contraloría declaración de situación patrimonial, bajo protesta de decir verdad, los servidores públicos que ocupen los siguientes cargos:
+Las evaluaciones se practicarán individualmente, al inicio de la prestación del servicio y cuando menos dos veces al año.
 
-I. En órganos jurisdiccionales:
+###### ARTÍCULO 38.
 
-1. Magistrado de Circuito;
+El titular de la Secretaría de Seguridad deberá someterse a las pruebas de evaluación, mismas que serán ordenadas por el Presidente Municipal, con la misma periodicidad que menciona el artículo anterior.
 
-2. Juez de Distrito;
+###### ARTÍCULO 39.
 
-3. Secretario de Tribunal de Circuito y de Juzgado de Distrito;
+El procedimiento de evaluación comprenderá las siguientes pruebas:
 
-4. Actuario;
+I. Evaluación Psicológica;
 
-5. Defensor Público, Asesor Jurídico y su Coordinador; y
+II. Evaluación Médica y Toxicológica;
 
-6. Secretario Particular.
+III. Evaluación Poligráfica;
 
-II. En las áreas administrativas:
+IV. Investigación socio-económica, y
 
-1. Consejero;
+V. Las demás que ordene la Ley.
 
-2. Oficial Mayor;
+###### ARTÍCULO 40.
 
-3. Titular de Órgano Auxiliar;
+Las pruebas mencionadas en el artículo anterior, comprenderán los siguientes aspectos:
 
-4. Visitador Judicial A;
+I. Los antecedentes personales y familiares;
 
-5. Vocal;
+II. El comportamiento en el servicio;
 
-6. Secretario Ejecutivo;
+III. El rendimiento y la eficacia;
 
-7. Contralor del Poder Judicial de la Federación;
+IV. La preparación académica;
 
-8. Coordinador Académico;
+V. El nivel de conocimiento y comprensión de la problemática delictiva o de las infracciones administrativas de su entorno y del ámbito específico de su asignación;
 
-9. Coordinador de Seguridad;
+VI. La capacidad de comunicación e interacción con la comunidad;
 
-10. Director General;
+VII. El conocimiento de los ordenamientos jurídicos, normativos y reglamentarios que rigen su actuación; y
 
-11. Coordinador General;
+VIII. Los demás que se determinen conforme a la Ley.
 
-12. Secretario Técnico Coordinador de Ponencia de Consejero;
+### CAPITULO II. DE LOS RESULTADOS DE LA EVALUACION
 
-13. Titular de Unidad Administrativa;
+###### ARTÍCULO 41.
 
-14. Secretario Técnico de Ponencia de Consejero;
+El titular de la Secretaría de Seguridad notificará al interesado el resultado de las evaluaciones.
 
-15. Visitador Judicial B;
+###### ARTÍCULO 42.
 
-16. Secretario Técnico AA de Comisión Permanente;
+Las pruebas de evaluación se practicarán por especialistas en el ramo, designados por la autoridad municipal.
 
-17. Secretario Técnico A;
+###### ARTÍCULO 43.
 
-18. Representante del Consejo ante la Comisión Substanciadora;
+Para la práctica de las pruebas de evaluación, la Administración designará fedatarios adscritos a la Administración Municipal.
 
-19. Representante del Sindicato de Trabajadores del Poder Judicial de la Federación ante la Comisión Substanciadora;
+###### ARTÍCULO 44.
 
-20. Coordinador de Áreas;
+El titular de la Secretaría de Seguridad, deberá informar a las autoridades competentes sobre los resultados de las evaluaciones que se practiquen.
 
-21. Delegado;
+###### ARTÍCULO 45.
 
-22. Evaluador;
+Las instrucciones que el titular de la Secretaría de Seguridad emita para la práctica de las pruebas de evaluación, deberán girarse por escrito y ser notificadas.
 
-23. Supervisor;
+# LIBRO SEXTO. DE LA REGULACION DEL REGIMEN LABORAL DE LOS INTEGRANTES DE LAS INSTITUCIONES POLICIALES MUNICIPALES Y DE LAS PRESTACIONES DE SEGURIDAD SOCIAL
 
-24. Director de Área;
+## TITULO PRIMERO. DEL REGIMEN LABORAL
 
-25. Secretario de Apoyo B;
+### CAPITULO I. DEL PERSONAL ADSCRITO
 
-26. Administrador Regional;
+###### ARTÍCULO 46.
 
-27. Secretario de la Comisión Substanciadora Única del Poder Judicial de la Federación;
+El Presente Libro establece las normas que regulan la relación de trabajo del personal adscrito a los Cuerpos de Seguridad Municipal, determinan la prescripción de las acciones, las prestaciones de seguridad social, sus derechos y obligaciones, estímulos, condecoraciones y sanciones.
 
-28. Asesor Especializado SPS;
+### CAPITULO II. DE LA PRESCRIPCION
 
-29. Secretario Particular de SPS;
+###### ARTÍCULO 47.
 
-30. Asesor Jurídico;
+Las acciones derivadas de la relación jurídica surgida entre el personal adscrito y el Municipio, prescriben en un año contado a partir del día siguiente a la fecha en que la obligación sea exigible, con las excepciones que se consignan en los artículos siguientes.
 
-31. Asesor SPS;
+###### ARTÍCULO 48.
 
-32. Líder de Proyecto;
+Prescriben en un mes:
 
-33. Coordinador Técnico de SPS;
+I. Las acciones del Municipio para separar al personal adscrito, para disciplinar sus faltas y para efectuar descuentos en sus salarios; y
 
-34. Subdirector de Área;
+II. Las acciones del personal adscrito para separarse del servicio.
 
-35. Coordinador Técnico A;
+En los casos de la fracción I, la prescripción corre a partir, respectivamente, del día siguiente a la fecha en que se tenga conocimiento de la causa de la separación o de la falta, desde el momento en que se compruebe el incumplimiento a los derechos u obligaciones o las pérdidas o averías imputables al personal adscrito.
 
-36. Jefe de Oficina de Correspondencia Común A;
+En los casos de la fracción II, la prescripción corre a partir de la fecha en que se tenga conocimiento de la causa de separación.
 
-37. Delegado Administrativo;
+###### ARTÍCULO 49.
 
-38. Jefe de Departamento;
+Prescriben en un mes las acciones del personal adscrito que sea separado del servicio.
 
-39. Coordinador Técnico B;
+La prescripción corre a partir del día siguiente a la fecha de la separación.
 
-40. Auxiliar Itinerante;
+###### ARTÍCULO 50.
 
-41. Auditor;
+Prescriben en dos años:
 
-42. Dictaminador;
+I. Las acciones del personal adscrito para reclamar el pago de indemnizaciones por riesgo del servicio;
 
-43. Jefe de Oficina de Correspondencia Común B;
+II. Las acciones de los beneficiarios en los casos de muerte por riesgos del servicio.
 
-44. Coordinador de Ayuda y Seguridad; y
+La prescripción corre, respectivamente, desde el momento en que se determine el grado de la incapacidad para el servicio o desde la fecha de la muerte del personal adscrito.
 
-45. En la Contraloría, todos los servidores públicos de confianza.
+###### ARTÍCULO 51.
 
-III. En Tribunal Electoral, con excepción de los magistrados electorales, los servidores públicos de la Sala Superior, los coordinadores y demás servidores públicos directamente adscritos a su presidencia, en términos del artículo 222 de la Ley Orgánica:
+Para los efectos de la prescripción, los meses se regularán por el número de días que les corresponda. El primer día se contará completo, aún cuando no lo sea, pero el último debe ser completo y cuando sea feriado, no se tendrá por completa la prescripción sino cumplido el primero útil siguiente.
 
-1. Secretario Administrativo;
+### CAPITULO III. DE LA JORNADA DE TRABAJO
 
-2. Contralor Interno;
+###### ARTÍCULO 52.
 
-3. Director del Centro de Capacitación Judicial Electoral;
+La jornada ordinaria de servicio se establecerá en el Contrato Individual de Trabajo y corresponderá a las necesidades del servicio y a la categoría del cargo.
 
-4. Coordinador;
+###### ARTÍCULO 53.
 
-5. Coordinador Técnico Administrativo;
+El personal adscrito tendrá la obligación de prestar el servicio en jornadas extraordinarias, por razones de emergencia o de necesidad pública.
 
-6. Director General;
+###### ARTÍCULO 54.
 
-7. Secretario Académico;
+Las horas laboradas que excedan a la jornada ordinaria se pagaran a salario doble.
 
-8. Secretario Técnico de Comisionado;
+###### ARTÍCULO 55.
 
-9. Asesor del Secretario Administrativo;
+Por cada seis días de servicio el personal adscrito disfrutará de un día de descanso.
 
-10. Jefe de Unidad;
+### CAPITULO IV. DE LAS PRESTACIONES
 
-11. Asesor de Mando Superior;
+###### ARTÍCULO 56.
 
-12. Investigador;
+El personal adscrito gozará de las siguientes prestaciones:
 
-13. Capacitador I;
+I. Recibir un salario acorde con su rango y riesgo de las funciones que desempeñe;
 
-14. Secretario de Estudio y Cuenta Regional;
+II. Quince días de vacaciones anuales;
 
-15. Secretario General de Sala Regional;
+III. Dotación de uniformes y equipo necesario para el desempeño de su función;
 
-16. Director de Área;
+IV. Permisos con goce de sueldo, hasta por tres días continuos, por los siguientes motivos:
 
-17. Delegado Administrativo Regional;
+a) Muerte del cónyuge o un familiar de primer grado en línea ascendente o descendente;
 
-18. Capacitador II;
+b) Enfermedad grave de un familiar en primer grado en línea ascendente o descendente.
 
-19. Asesor;
+V. Licencia sin goce de sueldo hasta por seis meses, para atender problemas familiares, contingencias o imprevistos que requieran su presencia. En ambos casos, la licencia debe solicitarse por escrito;
 
-20. Asistente de Capacitador;
+VI. Servicio médico de calidad, para su esposa o concubina y sus hijos solteros menores de veinticinco años, siempre y cuando se encuentren estudiando, en los términos que señala la normatividad municipal en materia de prestación del servicio médico municipal;
 
-21. Pedagogo;
+VII. Servicio médico de calidad, para sus hijos con capacidades diferentes que les impida desempeñar una actividad laboral;
 
-22. Especialista TIC´s;
+VIII. Seguro de vida en caso de muerte natural y accidental a favor de las personas que designe. La cuantía de este seguro se determinará por el Republicano Ayuntamiento;
 
-23. Comunicólogo;
+IX. Beca para sus hijos en los términos que acuerde el Republicano Ayuntamiento, para el caso de fallecimiento en el cumplimiento de su función;
 
-24. Titular del Secretariado Técnico Regional;
+X. Prima vacacional equivalente al veinticinco por ciento sobre los salarios que les correspondan durante el período de vacaciones;
 
-25. Subdirector de Área;
+XI. Prima de antigüedad de conformidad con las normas siguientes:
 
-26. Coordinador Regional;
+a) La prima de antigüedad consistirá en el importe de doce días de salario, por cada año de servicio;
 
-27. Titular de la Oficialía de Partes Regional;
+b) La prima de antigüedad se pagará al personal adscrito que se separe voluntariamente de su empleo, siempre que haya cumplido quince años de servicio, por lo menos. Asimismo se pagará al que se separe por causa justificada.
 
-28. Titular de la Oficina de Actuarios Regional;
+XII. Prima dominical equivalente al veinticinco por ciento sobre el salario diario tabulado;
 
-29. Titular del Archivo Judicial Regional;
+XIII. Aguinaldo equivalente a quince días de salario;
 
-30. Secretario Auxiliar Regional;
+XIV. Jubilación en los términos que se pacten en el contrato individual; y
 
-31. Actuario Regional;
+XV. Indemnización cuando sea separado injustamente del servicio y así lo determine la autoridad competente.
 
-32. Jefe de Departamento;
+###### ARTÍCULO 57.
 
-33. Auxiliar de Mandos Medios;
+La indemnización consistirá en:
 
-34. Asistente de Investigador;
+I. Veinte días de salario por cada uno de los años de servicios prestados; y
 
-35. Diseñador Web; y
+II. En el importe de tres meses de salario.
 
-36. En Contraloría Interna, todos los servidores públicos de confianza.
+###### ARTICULO 58.
 
-Además, deberán presentar declaración de situación patrimonial, los servidores públicos de mando medio y superior del Consejo y del Tribunal Electoral que ocupen plazas correspondientes a puestos homólogos o tengan el mismo nivel salarial que los antes indicados.
+El Municipio quedará eximido de la obligación de indemnizar al personal adscrito:
 
-###### Artículo 34.
+I. Cuando sea separado del servicio por causa justificada;
 
-La Contraloría elaborará un padrón general de los servidores públicos que tienen obligación de presentar declaración patrimonial en los términos de este Acuerdo, y lo mantendrá actualizado mediante la información que le proporcionen mensualmente la Dirección General de Recursos Humanos del Consejo y la Coordinación de Recursos Humanos y Enlace Administrativo del Tribunal Electoral.
+II. Cuando no cumpla con los requisitos legales para la permanencia en el servicio; y
 
-### CAPÍTULO SEXTO. SUPLETORIEDAD
+III. Por la pérdida de la confianza.
 
-###### Artículo 192.
+### CAPITULO V. DE LAS OBLIGACIONES
 
-Para el trámite y resolución de los procedimientos de responsabilidad administrativa es aplicable la Ley Orgánica; en lo no contemplado por ésta, la Ley de Responsabilidades; el presente Acuerdo; y, supletoriamente, en lo no previsto por éstos, el Código Federal de Procedimientos Civiles. Ante el vacío normativo, se acudirá a los principios generales del derecho, en términos de lo dispuesto en el artículo 14, párrafo cuarto, de la Constitución.
+###### ARTÍCULO 59.
 
-###### Artículo 35.
+El personal adscrito tendrá las siguientes obligaciones:
 
-La Dirección General de Recursos Humanos del Consejo, dentro de los primeros cinco días hábiles de cada mes, proporcionará a la Contraloría la información necesaria para que cuente con los elementos suficientes para determinar qué servidores públicos están obligados a presentar las declaraciones de inicio y de conclusión. En dicho informe se precisará la fecha en que el servidor público respectivo inició sus labores o las concluyó.
+I. Presentarse puntualmente para iniciar el servicio;
 
-### CAPÍTULO SÉPTIMO. CRITERIOS EN MATERIA DE DISCIPLINA
+II. Presentarse a sus labores uniformado y portando el equipo individual que según su categoría le corresponda;
 
-###### Artículo 193.
+III. Mantener en buen estado el equipo y las armas que le sean asignados;
 
-El Pleno y la Comisión podrán establecer criterios en materia de disciplina derivados de las resoluciones que emitan en el ámbito de su competencia, cuando al fallar un asunto lo estimen procedente, cuando se trate de un tema novedoso o que por su importancia o trascendencia deba fijarse criterio, o también cuando a propuesta del Consejero ponente se actualice cualquiera de esas hipótesis.
+IV. Usar el equipo y armamento que tenga asignado únicamente durante el horario en que preste su servicio;
 
-###### Artículo 194.
+V. Cumplir con los programas de capacitación y adiestramiento;
 
-Los criterios que se emitan son orientadores en los procedimientos de responsabilidad administrativa en los que se haga pronunciamiento sobre el asunto específico sustentado en ellos.
+VI. Conducirse con verdad, cortesía, urbanidad, respeto, discreción, honestidad, obediencia y apego a la legalidad en el desempeño de sus funciones;
 
-###### Artículo 195.
+VII. Cumplir con los principios constitucionales de legalidad, objetividad, eficacia, profesionalismo y honradez, respetando invariablemente los derechos humanos;
 
-Para la aprobación del criterio se requiere mayoría calificada de cinco votos del Pleno y mayoría simple en Comisión.
+VIII. Someterse a los exámenes a que se refiere la Ley y este Reglamento;
 
-###### Artículo 196.
+IX. Presentarse a sus labores libre de efectos de drogas enervantes o estupefacientes o indicios de alcohol en la sangre;
 
-El trámite para la aprobación de los criterios será el siguiente:
+X. Reportar a su superior jerárquico los hechos, de los que teniendo conocimiento, constituyan transgresiones a las leyes, reglamentos o disposiciones administrativas;
 
-I. La propuesta, en su caso, deberá acompañarse al proyecto de resolución de donde derive, para que sea examinada y autorizada, preferentemente en la misma sesión; sin perjuicio de que con motivo de las observaciones que ahí se formulen, pueda ser aprobada en las subsecuentes; y
+XI. Acatar las órdenes superiores de prestar el servicio para atender emergencias o por causa de necesidad pública; y
 
-II. Aprobado el criterio, el archivo electrónico que contenga éste y la resolución de la que derive, deberá enviarse a la Secretaría Técnica de la Comisión que será la encargada de llevar el control, compilación y sistematización de los criterios, así como de verificar que se realice su publicación y difusión.
+XII. Las demás que señalen las leyes o reglamentos.
 
-###### Artículo 197.
+Al causar baja deberá entregar toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción.
 
-Para la modificación de un criterio se observarán las mismas reglas establecidas para su formación. No obstante, los criterios se interrumpirán por el Pleno o la Comisión, según corresponda, cuando emitan una resolución en contrario, cuando por virtud de una reforma a los ordenamientos jurídicos sea necesario ajustar su contenido, o cuando a su juicio existan circunstancias que lo justifiquen.
+### CAPITULO VI. DE LAS SANCIONES
 
-###### Artículo 198.
+###### ARTÍCULO 60.
 
-El Pleno podrá declarar sin efectos los criterios emitidos por la Comisión.
+Las sanciones por incumplimiento a las obligaciones del personal adscrito, serán las siguientes:
 
-###### Artículo 199.
+I. El incumplimiento a la obligación contenida en la fracción I del artículo 58 se considerará falta de asistencia al servicio;
 
-Los criterios se compondrán de rubro, texto y datos de identificación, en los que deberán incluirse las fechas de aprobación de la resolución de la que derive y la de aprobación del criterio.
+II. El incumplimiento a la obligación contenida en la fracción II del artículo 58, será impedimento para prestar el servicio y se considerará como falta de asistencia al servicio;
 
-###### Artículo 200.
+III. El incumplimiento a la obligación contenida en la fracción III del artículo 58 implicará responsabilidad por los daños que se ocasionen al equipo y al armamento;
 
-Para la elaboración y publicidad de los criterios se observarán las reglas establecidas en los lineamientos que al efecto se aprueben.
+IV. El incumplimiento a la obligación contenida en la fracción IV del artículo 58 será causa de separación del servicio;
 
-###### Artículo 36.
+V. El incumplimiento a la obligación contenida en la fracción V del artículo 58 será causa de separación del servicio;
 
-Tratándose de la información referida en el artículo anterior correspondiente a los servidores públicos del Tribunal Electoral, la Contraloría solicitará los datos necesarios a la Coordinación de Recursos Humanos y Enlace Administrativo de ese Tribunal.
+VI. El incumplimiento a la obligación contenida en la fracción VI del artículo 58 será causa de amonestación.
 
-#### SECCIÓN TERCERA. MODALIDADES DE LA DECLARACIÓN Y PLAZOS PARA SU PRESENTACIÓN
+VII. La reincidencia en un plazo de quince días naturales será causa de suspensión por tres días sin goce de sueldo. Acumular tres infracciones en un plazo de treinta días naturales será causa de suspensión por treinta días sin goce de sueldo; y
 
-###### Artículo 37.
+VIII. El incumplimiento a las obligaciones contenidas en las fracciones VII, VIII, IX, X y XI del artículo 58 será causa de separación del cargo.
 
-La declaración de situación patrimonial se presentará bajo las modalidades de inicial, de modificación patrimonial y de conclusión en el cargo.
+TITIULO (SIC) SEGUNDO
 
-###### Artículo 38.
+DE LA SUSPENSION Y SEPARACION DEL SERVICIO
 
-La declaración de situación patrimonial deberá presentarse en los siguientes plazos y términos:
-
-I. Declaración inicial: dentro de los sesenta días naturales siguientes al en que el servidor público tome posesión de alguno de los cargos señalados en el artículo 33 de este Acuerdo, con motivo del:
-
-a) Ingreso por primera vez; y
-
-b) Reingreso, cuando hayan transcurrido más de sesenta días naturales de la conclusión de su último cargo.
-
-II. Declaración de modificación patrimonial: durante el mes de mayo de cada año, salvo que en ese mismo año se hubiese presentado la declaración de situación patrimonial a que se refieren las fracciones I y III de este artículo; y
-
-III. Declaración de conclusión del cargo: dentro de los sesenta días naturales siguientes a la conclusión. Dicho plazo iniciará al día siguiente a que terminen los efectos del nombramiento otorgado.
-
-La presentación de las declaraciones de situación patrimonial, podrá realizarse las veinticuatro horas del día.
-
-Cuando el último día del plazo sea inhábil la declaración podrá presentarse el día hábil siguiente.
-
-El plazo y término previstos en las fracciones I y II de este artículo, no quedarán sin efectos a causa del nombramiento en otro cargo, de los considerados en el artículo 33 de este Acuerdo.
-
-###### Artículo 39.
-
-Los servidores públicos que ocupan cargos de los mencionados en el artículo 33 de este Acuerdo, no estarán obligados a presentar declaración de situación patrimonial de inicio o conclusión del cargo en los siguientes casos:
-
-I. Inicial: cuando el nombramiento otorgado sea menor o igual a tres meses, excepto en el caso de que les sea otorgado otro nombramiento con el que excedan los tres meses en alguno de los cargos señalados en el artículo 33 de este Acuerdo, supuesto en el que sí estarán obligados a presentar la citada declaración;
-
-II. Inicial o conclusión del encargo: si son nombrados en diversos cargos en el que hubiesen estado obligados a presentar la declaración correspondiente, o cuando el cargo cambie de nombre, siempre que el inicio del cargo sea dentro de los sesenta días naturales siguientes a la conclusión del anterior; y
-
-III. Conclusión: en los siguientes supuestos:
-
-a) Cambien de adscripción y continúen en alguno de los cargos obligados;
-
-b) Se les haya otorgado licencia que no exceda de tres meses; y
-
-c) Se les haya otorgado licencia por motivos de salud que no exceda de un año.
-
-En caso de que los servidores públicos a los que se refiere este Capítulo obtengan licencia para desempeñar un cargo fuera de los órganos jurisdiccionales, auxiliares y administrativos del Consejo o, del Tribunal Electoral, que declaran ante la Contraloría, estarán obligados a presentar la declaración de conclusión.
-
-Cuando los servidores públicos mencionados se reincorporen al cargo en el que se les otorgó la licencia deberán presentar la declaración inicial.
-
-El plazo de 60 días naturales que establece el artículo 38, fracción III de este Acuerdo, para presentar la declaración patrimonial de conclusión, iniciará a partir de que inicie la licencia respectiva.
-
-En el supuesto de que algún servidor público sea suspendido por una investigación, un procedimiento de responsabilidad, o una sanción, no deberá presentar declaración de conclusión ni de inicio cuando se reincorpore a su cargo.
-
-#### SECCIÓN CUARTA. CONTENIDO DE LA DECLARACIÓN
-
-###### Artículo 40.
-
-En las declaraciones de inicio y conclusión del cargo, se manifestarán con precisión los ingresos mensuales, vehículos, bienes inmuebles, muebles, inversiones y gravámenes con la fecha y valor de adquisición que soporten el patrimonio del declarante, su cónyuge, concubina o concubinario y sus dependientes económicos, sin importar que en otras declaraciones ya se haya hecho referencia a ello.
-
-Para la declaración de conclusión se manifestarán además, los vehículos, bienes inmuebles y muebles que hubieren sido enajenados, así como las inversiones que se hayan cancelado o gravámenes que se hayan adquirido, entre la última declaración presentada y la de conclusión del cargo.
-
-### CAPÍTULO ÚNICO
-
-###### Artículo 201.
-
-Corresponde al Consejo, en el ámbito de su competencia, la revisión de la situación patrimonial de los magistrados de Circuito y jueces de Distrito, así como de los servidores públicos adscritos a los órganos jurisdiccionales y a las áreas administrativas, así como verificar los registros bancarios, operaciones crediticias y situación financiera de dichos servidores.
-
-La interpretación del presente Título corresponde al Pleno.
-
-###### Artículo 202.
-
-Para el ejercicio de la atribución prevista en el artículo anterior, el Pleno solicitará a las autoridades competentes, instituciones bancarias y entidades financieras, cuando lo considere necesario, los datos e información bancaria que se requieran. Tratándose de información y documentación bancaria que se requiera, podrá solicitarse a las instituciones financieras por conducto de la Comisión Nacional Bancaria y de Valores, cumpliendo para ello los requisitos legales exigidos.
-
-Dicha atribución podrá ser igualmente ejercida por el titular de la Contraloría en términos de las disposiciones aplicables, con independencia del ejercicio de sus atribuciones en materia de registro patrimonial.
-
-###### Artículo 203.
-
-En el ámbito de su competencia, el Consejo dará puntual seguimiento al desarrollo y evolución de la situación patrimonial y financiera de los servidores públicos del Poder Judicial de la Federación; para tal fin, el Pleno, o en su caso, el titular de la Contraloría, autorizarán las acciones y medidas necesarias para el cumplimiento de esa atribución.
-
-Corresponde la ejecución de esas acciones y medidas a la Contraloría, cuyo titular podrá autorizar otras distintas, debiendo hacerlo del conocimiento del Pleno.
-
-En ejercicio de esa facultad, el Pleno o el titular de la Contraloría, en su caso, verificarán los ingresos de los servidores públicos y los límites de las percepciones ordinarias que les correspondan, conforme al cargo que desempeñen.
-
-###### Artículo 204.
-
-Verificarán, además, el cumplimiento de las disposiciones relativas al registro y declaración patrimonial, como parte de las acciones implementadas para la verificación de la situación financiera y patrimonial de los servidores públicos.
-
-Revisarán que la información reportada corresponda con el ejercicio de las remuneraciones percibidas y con lo manifestado en sus declaraciones patrimoniales y en las declaraciones del Impuesto sobre la Renta.
-
-En su caso, el Pleno procederá en los términos de las disposiciones aplicables, para imponer o promover la aplicación de las sanciones procedentes, cuando los servidores públicos no hayan entregado la información o no presenten sus declaraciones, en los términos que corresponda.
-
-###### Artículo 205.
-
-El Pleno, en el ejercicio de la atribución que le compete para verificar la situación financiera, se sujetará a las disposiciones en materia de información, rendición de cuentas, transparencia y evaluación, establecidas en las disposiciones aplicables.
-
-###### Artículo 206.
-
-La información de la situación bancaria de los servidores públicos del Poder Judicial de la Federación se solicitará cuando así se requiera, a juicio del Pleno o, del titular de la Contraloría, en su caso, quien deberá informarlo previamente al Pleno.
-
-Si los datos e información bancaria proporcionados no fueran suficientes, podrán solicitar mayor información y datos; en su caso, el Pleno podrá decretar el inicio del procedimiento de investigación, con objeto de recabar la información que se requiera.
-
-###### Artículo 207.
-
-En los nombramientos que se expidan se establecerá expresamente que el servidor público al aceptar el cargo, conoce y acepta que se lleve a cabo la revisión de su situación bancaria, cuando así se requiera.
-
-###### Artículo 208.
-
-Cuando en ejercicio de la atribución relativa a verificar la situación patrimonial y financiera del Presidente y de los Consejeros, se solicite información sobre sus registros y situación bancaria por estimarse necesaria, bastará que el titular de la Contraloría dé aviso al Pleno, sin que se requiera someter ese punto a votación.
-
-###### Artículo 209.
-
-El Consejo podrá solicitar a las dependencias y entidades públicas, así como las instituciones financieras, por conducto de la Comisión Nacional Bancaria y de Valores, información y datos relacionados con los registros, operaciones y datos bancarios de los servidores públicos del Poder Judicial de la Federación, de conformidad con las disposiciones aplicables.
-
-A fin de que pueda ser proporcionada la información requerida, deberá especificarse en la solicitud correspondiente la denominación de la dependencia o entidad a la que va dirigida, el nombre de la institución bancaria o financiera que corresponda, el nombre del servidor público, su número de cuenta o cuentas, en su caso, otros datos y elementos que permitan su identificación plena; asimismo, debe precisarse la información, registros y datos que se solicitan.
-
-###### Artículo 210.
-
-El titular de la Contraloría revisará la documentación e información financiera proporcionada y, del resultado de su revisión, informará directamente al Pleno, a fin de que determine lo conducente.
-
-###### Artículo 211.
-
-La documentación, información y datos que proporcionen las dependencias, entidades e instituciones financieras, a solicitud del Pleno o del titular de la Contraloría, sólo podrán ser utilizados para los fines que corresponden al ejercicio de su facultad para verificar la situación financiera de los servidores públicos, observando las disposiciones aplicables en materia de transparencia y protección de datos personales.
-
-###### Artículo 212.
-
-La información y datos que se recaben, quedará en resguardo del titular de la Contraloría o del área que el Pleno designe, bajo su más estricta responsabilidad.
-
-Los servidores públicos del Consejo están obligados a guardar confidencialidad sobre la información que conozcan con motivo del ejercicio de las atribuciones con que cuenta dicho órgano para llevar a cabo la revisión de la situación financiera y patrimonial de los magistrados de Circuito, jueces de Distrito y servidores públicos adscritos a los órganos jurisdiccionales y a las áreas administrativas.
-
-###### Artículo 213.
-
-Los procedimientos y acciones que se sigan para la revisión de los recursos financieros y situación bancaria, se aplicarán sin menoscabo de los derechos de los servidores públicos, cumpliendo con las normas que rigen en materia de transparencia y protección de datos personales.
-
-###### Artículo 214.
-
-El Pleno, a través del titular de la Contraloría, establecerá acciones de coordinación con la Secretaría de la Función Pública y con las dependencias o entidades públicas que correspondan, a fin de obtener la información y datos financieros relacionados con los registros y situación bancaria de los servidores públicos, cuando así se requiera.
-
-En materia de revisión de la situación financiera, el Pleno llevará a cabo las acciones necesarias para hacer efectivo el ejercicio de esta atribución.
-
-###### Artículo 215.
-
-Remitida al Consejo la información bancaria y datos financieros, los servidores públicos del Consejo son responsables, en los términos de las disposiciones aplicables, por violación del secreto bancario. Asimismo, están obligados a guardar confidencialidad sobre la información y datos de los que tengan conocimiento con motivo del ejercicio de la atribución que le compete al Consejo, consistente en llevar a cabo la verificación de la situación financiera de los servidores públicos.
-
-###### Artículo 216.
-
-Con independencia de ello y a fin de cumplir con el requisito de privacidad y salvaguardar el carácter confidencial de la documentación e información proporcionada al Consejo, deben fortalecerse o, en su caso, establecerse mecanismos de protección de datos personales e información confidencial o reservada, y adoptarse las medidas necesarias para su aplicación.
-
-Quien indebidamente quebrante la reserva o confidencialidad de la información o documentos con ella relacionados, quedará sujeto a las responsabilidades correspondientes.
-
-###### Artículo 217.
-
-Quien tenga conocimiento cierto de alguna situación que pudiera resultar inusual o irregular, relacionada con las operaciones bancarias o ingresos económicos y situación financiera de los servidores públicos del Poder Judicial de la Federación, deberá informarlo al Pleno o al titular de la Contraloría, para que procedan en el ámbito de su competencia.
-
-###### Artículo 218.
-
-Cuando de los datos, documentación e información bancaria proporcionados en relación con algún servidor público, el Pleno, o el titular de la Contraloría, adviertan la existencia de una probable causa de responsabilidad, instruirán al área administrativa que corresponda, para que proceda en el ámbito de su competencia. En su caso, el Pleno ordenará dar vista al Ministerio Público de la Federación, por conducto de la Dirección General de Asuntos Jurídicos, así como para que se informe a la autoridad fiscal, a la Comisión Nacional Bancaria y de Valores, o a la Secretaría de la Función Pública, según corresponda.
-
-De la decisión y resultados derivados de las acciones que se lleven a cabo, sea en el ámbito penal, o en materia de responsabilidad administrativa, se informará al Pleno así como al titular de la Contraloría. En su caso, se harán los registros y anotaciones respectivos.
-
-###### Artículo 219.
-
-El titular de la Contraloría informará al Pleno sobre los resultados derivados de la supervisión de la situación financiera de los servidores públicos, a fin de que, de estimarlo necesario, adopte las medidas conducentes e instruya al área o áreas administrativas competentes, para que, de ser el caso, procedan conforme en derecho corresponda.
-
-###### Artículo 41.
-
-En las declaraciones de modificación patrimonial se manifestarán sólo las modificaciones al patrimonio del declarante, su cónyuge, concubina o concubinario y sus dependientes económicos, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
-
-###### Artículo 42.
-
-Entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, se computarán los que reciban o de los que dispongan su cónyuge, concubina o concubinario y sus dependientes económicos, salvo que se acredite que éstos los obtuvieron por sí mismos y por motivos ajenos al servidor público.
-
-#### SECCIÓN QUINTA. ACLARACIONES
-
-###### Artículo 43.
-
-La Contraloría, a través de la Dirección de Registro Patrimonial, recibirá en cualquier momento las aclaraciones a las declaraciones de situación patrimonial formuladas por los servidores públicos obligados en los términos de este Título, en tanto no se haya notificado el inicio del procedimiento de responsabilidad administrativa por alguna irregularidad detectada en las declaraciones presentadas y en la forma que la Contraloría establezca para tal efecto.
-
-Para el caso de que el servidor público presente la declaración de situación patrimonial con posterioridad a la notificación del inicio del procedimiento de responsabilidad administrativa, se le tendrá por omiso.
-
-Si la declaración de situación patrimonial no contiene la información correspondiente, la Contraloría podrá solicitarla al servidor público mediante oficio, a fin de que la proporcione, para lo cual otorgará un plazo de cinco días hábiles siguientes a la recepción del requerimiento que formule, el que podrá prorrogarse por un periodo igual a petición por escrito del interesado. En caso de incumplimiento la Contraloría determinará lo conducente
-
-#### SECCIÓN SEXTA. REGISTRO
-
-###### Artículo 44.
-
-La Contraloría llevará el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Consejo, de los órganos jurisdiccionales y del Tribunal Electoral.
-
-###### Artículo 45.
-
-En términos de lo previsto en el artículo 40 de la Ley de Responsabilidades y observando las disposiciones en materia de transparencia, el titular de la Contraloría llevará un registro informático de los servidores públicos que se rigen por esta Sección.
-
-En el registro se inscribirán los datos curriculares de los servidores públicos obligados a presentar declaración de situación patrimonial, sus funciones, ingresos y reconocimientos con motivo de su empleo, cargo o comisión; la información relativa a su situación patrimonial, en lo referente a sus ingresos del último año, bienes muebles e inmuebles, inversiones financieras y adeudos; y, en su caso, los procedimientos de responsabilidad administrativa en los que se les haya impuesto sanción.
-
-La información relativa a la situación patrimonial será confidencial; sin embargo, podrá hacerse pública siempre y cuando se cuente con la autorización previa y específica del servidor público de que se trate. En tal supuesto, dicha información podrá ser solicitada a través de los Módulos de Acceso correspondientes.
-
-La Contraloría expedirá las normas para la operación del registro y las constancias de sanciones de inhabilitación y de no existencia de sanciones, que acrediten la situación específica de los servidores públicos que, en su caso, las requieran.
-
-Dichas constancias podrán obtenerse del sistema electrónico que establezca la Contraloría.
-
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-###### Artículo 220.
-
-La Visitaduría Judicial es el órgano auxiliar del Consejo competente para:
-
-I. Inspeccionar el funcionamiento de los órganos jurisdiccionales;
-
-II. Supervisar la conducta de los servidores públicos de los órganos jurisdiccionales; y
-
-III. Auxiliar al Pleno, a las Comisiones o al Presidente en las tareas que le encomienden, inherentes a su función.
-
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
-
-###### Artículo 221.
-
-La Visitaduría Judicial realizará, en su ámbito de competencia, las acciones de inspección de la función judicial y de supervisión de la conducta de los servidores públicos de los órganos jurisdiccionales, mediante visitas de inspección y demás mecanismos que determine el Pleno o las Comisiones.
-
-###### Artículo 222.
-
-El Visitador General creará un registro que acopie y guarde los resultados de la inspección y supervisión que se obtengan.
-
-El registro será de fácil y rápida consulta y deberá proporcionar información objetiva y útil a las áreas administrativas competentes, para los casos de designaciones, adscripciones, capacitación, promociones, reconocimientos, ratificaciones, disciplina, estímulos, premiaciones, remociones, inspecciones, creación de nuevos órganos y otros relativos a los servidores públicos y órganos jurisdiccionales.
-
-###### Artículo 46.
-
-Los servidores públicos adscritos a las áreas administrativas con niveles del 2 al 10 del Manual General de Puestos autorizado, con excepción de las plazas de Carrera Judicial, deberán al separarse de su empleo, cargo o comisión, rendir un informe de los asuntos a su cargo y del estado que guardan; así como realizar la entrega a quienes los sustituyan en sus funciones de los recursos humanos, materiales y financieros que tengan asignados para el ejercicio de sus atribuciones y de la documentación y archivos ordenados y clasificados conforme a las disposiciones aplicables.
-
-### CAPÍTULO SEGUNDO. DE LAS VISITAS DE INSPECCIÓN
-
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
-
-###### Artículo 223.
-
-Las visitas de inspección serán ordinarias y extraordinarias.
-
-###### Artículo 224.
-
-Los visitadores, secretarios técnicos y los servidores públicos de los órganos jurisdiccionales se tratarán con respeto mutuo.
-
-###### Artículo 225.
-
-En las visitas de inspección, el visitador y los secretarios técnicos, en su caso, se identificarán con credencial del Poder Judicial de la Federación.
-
-###### Artículo 226.
-
-Para el desarrollo de las visitas, el titular del órgano jurisdiccional visitado asignará un espacio físico adecuado al visitador y a sus colaboradores, procurando se continúe el funcionamiento normal del órgano.
-
-###### Artículo 227.
-
-Los servidores públicos de los órganos jurisdiccionales visitados, durante el desarrollo de las visitas, brindarán al visitador y a sus asistentes el apoyo necesario que soliciten para el cumplimiento de su función.
-
-###### Artículo 228.
-
-En las visitas de inspección los visitadores y sus asistentes deberán abstenerse:
-
-I. De exigir a los titulares y demás servidores públicos del órgano jurisdiccional cualquier tipo de acto que no sea propio del servicio público;
-
-II. De intervenir en las funciones jurisdiccionales de los integrantes del órgano jurisdiccional; y
-
-III. De emitir o asentar exhortaciones, requerimientos o felicitaciones.
-
-###### Artículo 229.
-
-La materia de las visitas se limitará a los aspectos previstos en la Ley Orgánica, en este Acuerdo y en las demás que determinen el Pleno o la Comisión. Por tanto, si durante el desarrollo de una visita ordinaria, se presentare alguna queja por escrito, el Visitador "B" asentará en el acta dicha circunstancia y remitirá el escrito junto con la misma al Visitador General, para que la haga llegar al titular de la Secretaría. Los Visitadores Judiciales "A" estarán facultados para recibir quejas administrativas formuladas por escrito o verbalmente. En este último caso, levantarán un acta ante dos testigos de asistencia.
-
-#### SECCIÓN SEGUNDA. VISITAS ORDINARIAS
-
-###### Artículo 230.
-
-Las visitas ordinarias de inspección tienen por objeto recabar, en forma metódica, información respecto del funcionamiento de los órganos jurisdiccionales, así como del desempeño y conducta de sus miembros. Sus efectos serán esencialmente de control, preventivos y correctivos.
-
-###### Artículo 231.
-
-Las visitas ordinarias de inspección se llevarán a cabo cuando menos dos veces por año: una inspección se realizará de manera física por los Visitadores Judiciales “B” en la sede del órgano jurisdiccional; la otra, se verificará a través de la inspección ordinaria a distancia que practiquen los mismos visitadores que designe el Visitador General, con el auxilio de los magistrados de Circuito, jueces de Distrito, o encargados del despacho correspondiente.
-
-La inspección ordinaria a los Plenos de Circuito se llevará a cabo a distancia, una vez al año.
-
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
-
-###### Artículo 232.
-
-Las visitas ordinarias durarán cuando más, dos días tratándose de tribunales de Circuito y unidades de notificadores comunes; y tres días para la inspección de los juzgados de Distrito. Los tribunales de Circuito y juzgados de Distrito que integren centros auxiliares, que no tengan facultades para el trámite de los asuntos hasta ponerlos en estado de resolución y que coadyuven a otros órganos en el dictado de sentencias, serán visitados en un día.
-
-La inspección ordinaria a los Plenos de Circuito durará hasta dos días.
-
-El Visitador General podrá autorizar la modificación de los plazos señalados, siempre que exista causa justificada.
-
-###### Artículo 233.
-
-Las visitas ordinarias se efectuarán en días y horas hábiles, a menos que sea imprescindible practicarlas aun en días y horas inhábiles. En este último supuesto se requerirá de la autorización del Visitador General y se harán constar en el acta las causas excepcionales que ameriten la medida. Así también, para tal caso, a propuesta del Visitador Judicial "B" el titular del órgano jurisdiccional designará a los servidores públicos necesarios para el auxilio en la práctica de la inspección, quienes permanecerán en dicho órgano.
-
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
-
-Para los efectos del párrafo anterior, se entenderán como días hábiles todos los del año, con excepción de aquellos que establece el artículo 5 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la organización y funcionamiento del propio Consejo, salvo el cinco de febrero, el veintiuno de marzo y el veinte de noviembre. Como horas hábiles se entenderán las comprendidas entre las nueve y las veinte horas.
-
-###### Artículo 234.
-
-La Comisión acordará la aprobación de formatos para la práctica de visitas ordinarias de inspección. Las visitas ordinarias se efectuarán conforme a dichos formatos. Los Visitadores Judiciales "B" se ceñirán estrictamente a su contenido. El Visitador General podrá proponer a la Comisión razonadamente, la modificación de los formatos para la práctica de visitas de inspección.
-
-###### Artículo 235.
-
-El Visitador General elaborará un programa y calendario de visitas en el que proveerá lo necesario para que las visitas de inspección ordinaria y las inspecciones ordinarias a distancia se lleven a cabo en el transcurso del año en forma alternada, de ser posible, y cubran periodos no mayores de seis meses ni menores de cinco, de ser posible. El programa se presentará al titular de la Secretaría, a efecto de que realice el sorteo que indica el artículo 100 de la Ley Orgánica.
-
-Una vez notificadas a la Comisión, las fechas en que se realizarán las visitas ordinarias de inspección no se variarán, a no ser que exista causa justificada para ello, a juicio del Visitador General, quien en todo caso aprobará el cambio y lo informará a la Comisión.
-
-###### Artículo 236.
-
-El titular de la Secretaría, conforme al artículo 100 de la Ley Orgánica, sorteará entre los Visitadores Judiciales "B" la práctica de las visitas ordinarias de inspección a los órganos jurisdiccionales, de conformidad con el programa elaborado por el Visitador General. Al efectuar el sorteo, titular de la Secretaría tendrá en cuenta que ningún visitador podrá visitar el mismo órgano jurisdiccional el año siguiente.
-
-###### Artículo 237.
-
-Una vez que se conozca el resultado del sorteo a que se refiere el artículo anterior, el Visitador General lo hará saber a los Visitadores Judiciales "B", mediante oficio, para que éstos, previo el aviso a que se refiere el párrafo tercero del artículo 100 de la Ley Orgánica, procedan a practicar las que les correspondieron, conforme al programa y calendario elaborados por el Visitador General.
-
-###### Artículo 238.
-
-La asignación de los órganos jurisdiccionales a los Visitadores Judiciales "B" no será susceptible de cambio entre éstos, pero si alguno tuviere impedimento legal para realizar una visita de inspección, lo expresará por escrito ante el Visitador General, dentro de las veinticuatro horas siguientes a la notificación del resultado del sorteo o a la en que tenga conocimiento del impedimento, quien resolverá lo conducente. Si el impedimento es calificado de legal, el Visitador General designará al Visitador Judicial "B" que deba practicar la visita.
-
-###### Artículo 239.
-
-Para la práctica de las visitas ordinarias de inspección, el Visitador General informará con la debida oportunidad al titular del órgano jurisdiccional o a su presidente, tratándose de tribunales Colegiados, la fecha en que se iniciará, para que proceda a fijar el aviso correspondiente.
-
-###### Artículo 240.
-
-El aviso a que se refiere el artículo anterior, se publicará en los estrados y lugares más visibles del órgano jurisdiccional, con una anticipación de cuando menos quince días naturales. En él se hará saber al público en general la fecha en que iniciará la inspección, su duración, el nombre del Visitador Judicial "B" que la practicará, y que durante el desarrollo de ésta, dicho visitador recibirá las quejas que se presenten por escrito contra los servidores públicos del órgano visitado.
-
-###### Artículo 241.
-
-El Visitador General podrá adelantar o postergar el inicio de una visita, cuando a su juicio, exista causa fundada para ello. La ausencia accidental o temporal del titular del órgano jurisdiccional visitado, no será causa de diferimiento de la visita.
-
-###### Artículo 242.
-
-Las visitas ordinarias de inspección serán atendidas por el titular del órgano jurisdiccional, su presidente tratándose de tribunal Colegiado, o por quien en su caso, se encuentre encargado del despacho.
-
-###### Artículo 243.
-
-El Visitador Judicial "B" se constituirá en el órgano jurisdiccional visitado a primera hora hábil del día fijado para el inicio de la inspección. Se identificará ante el servidor público a que refiere el Artículo anterior con credencial oficial del Poder Judicial de la Federación.
-
-###### Artículo 244.
-
-El Visitador Judicial "B" verificará si el aviso que anuncia la visita, se colocó en los estrados y lugares más visibles del órgano jurisdiccional.
-
-###### Artículo 245.
-
-La falta de fijación del aviso de inicio de la visita ordinaria no será obstáculo para que la visita inicie. De ser el caso, el Visitador Judicial "B" dispondrá que sea fijado, pudiendo incluso, de ser necesario, firmar y publicar por sí mismo el aviso que lo supla.
-
-###### Artículo 246.
-
-El Visitador Judicial "B" solicitará al titular del órgano jurisdiccional visitado, designe un secretario que dará fe de las actuaciones que se practiquen durante la visita y que proporcionará los elementos y datos que le soliciten. Si el titular del órgano jurisdiccional no designa a ningún secretario, la visita se realizará con el que indique el propio Visitador Judicial "B", el cual deberá estar adscrito al órgano jurisdiccional inspeccionado.
-
-###### Artículo 247.
-
-El Visitador Judicial "B" pedirá la lista del personal del órgano jurisdiccional para comprobar su asistencia.
-
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
-
-###### Artículo 248.
-
-Las visitas ordinarias, en cualquiera de sus modalidades, se sujetarán a las siguientes reglas:
-
-I. El periodo sujeto a revisión iniciará al día natural siguiente de aquel en que se haya cerrado el lapso que abarcó la inspección inmediata anterior, física o a distancia, según corresponda en cada caso;
-
-II. En los órganos jurisdiccionales de nueva creación, el inicio del primer periodo de inspección será el de la fecha en que comenzó a funcionar;
-
-III. En visita ordinaria física, el periodo a inspeccionar cerrará datos el último día del mes previo al del inicio de la inspección;
-
-IV. En visita ordinaria a distancia, el periodo que comprenda el informe circunstanciado concluirá el día último del mes previo al de la rendición del propio informe;
-
-V. Las visitas físicas iniciarán a partir del sexto día hábil o laborable de cada mes. En los primeros cinco días es admisible la conclusión de las empezadas a finales del mes precedente, y
-
-VI. Los informes circunstanciados se rendirán dentro del plazo de quince días naturales posteriores al día de cierre de datos. Si el último día fuere inhábil, dicho plazo se correrá al primer día hábil siguiente.
-
-En las visitas ordinarias físicas, el Visitador Judicial “B” estampará en los libros de gobierno revisados su sello, que colocará inmediatamente después del último registro o de la última anotación que se haya hecho en el periodo de inspección.
-
-###### Artículo 249.
-
-Los Visitadores Judiciales "B", al concluir la revisión de los expedientes solicitados, estamparán en la última actuación el sello y la firma correspondiente.
-
-###### Artículo 250.
-
-Al finalizar la inspección y antes del cierre del acta, el Visitador Judicial "B" entregará un tanto de ésta al titular o titulares del órgano jurisdiccional inspeccionado, o, su caso, al encargado del despacho del mismo, para que se impongan de su contenido, con el objeto de que manifiesten lo que a su derecho convenga. Para ello contarán con un tiempo máximo de tres horas.
-
-###### Artículo 251.
-
-De toda visita ordinaria de inspección se levantará acta circunstanciada, de acuerdo al formato aprobado por la Comisión, la cual firmarán el Visitador Judicial "B", el titular o titulares del órgano jurisdiccional inspeccionado, o, su caso, el encargado del despacho del mismo, según corresponda, así como el secretario designado para atender la visita.
-
-El acta se levantará en dos tantos, uno de ellos quedará en el órgano jurisdiccional y el otro se entregará a la Visitaduría Judicial, para los efectos conducentes. Asimismo, el acta se capturará y guardará en archivo informático y se enviará por medios electrónicos y otros que defina la Comisión, a la Visitaduría Judicial y a la Secretaría, a fin de que esta última determine lo que corresponda.
-
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
-
-###### Artículo 252.
-
-Las visitas ordinarias que deben realizarse a los órganos jurisdiccionales, podrán efectuarse a través de medios electrónicos, a distancia. El titular del órgano jurisdiccional, presidente en el caso de tribunal Colegiado, o secretario encargado del despacho, en colaboración de la visita, proporcionará información veraz al Visitador Judicial “B” que designe el Visitador General, sobre aspectos relativos al funcionamiento del órgano jurisdiccional, así como de la conducta de sus integrantes, misma que será verificada y complementada por el Visitador Judicial “B” designado.
-
-###### Artículo 253.
-
-La Comisión acordará la aprobación del formato de acta de inspección ordinaria a distancia, que comprenderá cuatro secciones:
-
-I. Primera: Informe inicial;
-
-II. Segunda: Verificación y complemento de la inspección;
-
-III. Tercera: Manifestaciones del titular, presidente o encargado del despacho; y
-
-IV. Cuarta: Cierre.
-
-###### Artículo 254.
-
-El Visitador General, de acuerdo con el programa que elabore para la práctica de inspecciones ordinarias, fijará el período respecto del cual se deban practicar las inspecciones a distancia. Procurará, en lo posible, que dicho período no sea menor de cinco meses, ni mayor de seis, contado a partir de la fecha en que inició la inspección inmediata anterior practicada al órgano jurisdiccional.
-
-###### Artículo 255.
-
-Las inspecciones ordinarias a distancia deberán practicarse en similares plazos de aquellos en los que se practican las visitas físicas. El Visitador General podrá modificarlos, por causa justificada.
-
-###### Artículo 256.
-
-En la práctica de las inspecciones ordinarias a distancia, se procederá conforme a lo siguiente:
-
-I. El Visitador General enviará con oportunidad al titular del órgano jurisdiccional, al presidente en caso de tribunal Colegiado, o al encargado del despacho, oficio en el que informará la práctica de la inspección ordinaria a distancia. La comunicación deberá señalar con precisión el período que comprende la inspección, la fecha y hora de su inicio, así como la forma y medios de la presentación del informe inicial;
-
-II. El titular del órgano jurisdiccional, su presidente en caso de tribunal Colegiado, o el encargado del despacho, según el caso, deberá rendir el informe inicial dentro de los cinco días hábiles siguientes a la conclusión del período a inspeccionar. El Visitador General podrá modificar dicho plazo, cuando exista causa justificada para ello. El incumplimiento de esta obligación será causa de responsabilidad.
-
-Dicho informe será rendido con precisión, bajo protesta de decir verdad, a través del medio que se hubiese señalado en el oficio respectivo. La información que se presente, se sujetará estrictamente a los formatos acordados por la Comisión;
-
-III. La inspección a distancia dará inicio en la fecha y hora precisados en el oficio respectivo, en cuyo momento el Visitador Judicial “B” procederá a la verificación y complementación de la información proporcionada por el titular del órgano jurisdiccional, su presidente en caso de tribunal Colegiado, o del encargado del despacho;
-
-IV. Terminada la segunda etapa, el Visitador Judicial “B” dará a conocer el acta al titular del órgano jurisdiccional, su presidente en caso de tribunal Colegiado, o el encargado del despacho, según corresponda, a fin de que se imponga de su contenido, con el objeto de que manifieste lo que a su derecho convenga. Para esto último contará con un término máximo de tres horas. Se asentará la hora y fecha tanto del momento en que se da a conocer el contenido del acta, como el del envío de las manifestaciones relativas; y
-
-V. Una vez recibidas las manifestaciones del titular del órgano jurisdiccional, su presidente en caso de tribunal Colegiado, o el encargado del despacho, o vencido el término para tal efecto, se procederá de inmediato al cierre del acta, asentándose la fecha y hora en que ello ocurra.
-
-El archivo que lo contenga se guardará en el acervo de la Visitaduría Judicial, con copia electrónica para el órgano jurisdiccional inspeccionado para los efectos conducentes, así como para la Secretaría, a fin de que determine lo que corresponda.
-
-###### Artículo 257.
-
-Las cuestiones relativas a las inspecciones ordinarias a distancia, que no se encuentren reguladas en este Acuerdo, serán resueltas, razonadamente, por el Visitador General, de oficio, o a petición de parte.
-
-#### SECCIÓN TERCERA. DE LAS VISITAS EXTRAORDINARIAS
-
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
-
-###### Artículo 258.
-
-Las visitas extraordinarias se llevarán a cabo en aquellos casos en que lo ordene el Pleno, las Comisiones o el Secretario Ejecutivo de Disciplina, cuando a su juicio haya elementos que hagan presumir irregularidades cometidas por un magistrado de Circuito o juez de Distrito.
-
-###### Artículo 259.
-
-Las visitas extraordinarias serán efectuadas por los Visitadores Judiciales “A”, o por el Visitador General. De no hacerse especial designación por el Pleno o la Comisión, el Visitador General señalará al Visitador Judicial “A” que se encargará de practicarla.
-
-###### Artículo 260.
-
-El Visitador Judicial “A”, al inicio de la visita extraordinaria, hará entrega al titular del órgano jurisdiccional visitado, de un oficio en el que se le haga saber la fecha y procedencia de la orden para la práctica de la visita.
-
-Los integrantes de los órganos jurisdiccionales, así como de las áreas administrativas proporcionarán al Visitador Judicial “A” y a sus asistentes la información que con relación a la visita les sea solicitada.
-
-###### Artículo 261.
-
-De la visita extraordinaria de inspección se levantará acta circunstanciada, en la que se hará constar su desarrollo, las quejas presentadas, por escrito o verbalmente, en contra de los servidores públicos que integren el órgano jurisdiccional, y las firmas del Visitador Judicial “A” y las de sus secretarios técnicos, quienes fungirán y signarán como fedatarios.
-
-Los datos obtenidos durante la práctica de la visita se mantendrán en secreto, hasta en tanto el Pleno o la Comisión dispongan lo conducente.
-
-###### Artículo 262.
-
-Las comparecencias o declaraciones informativas que se recaben de los servidores públicos o exservidores públicos que se hubiesen encontrado adscritos al órgano jurisdiccional durante el período inspeccionado, así como de aquéllas que a juicio del Visitador Judicial “A” resulten relevantes, deberán videograbarse.
-
-###### Artículo 263.
-
-El Visitador Judicial “A” previo al inicio de la comparecencia a cargo del servidor público o exservidor público del órgano jurisdiccional, ordenará al secretario técnico que designe, proceda a activar el sistema de grabación de audio y video; hecho lo anterior, procederá al desahogo de la diligencia con todas sus formalidades.
-
-###### Artículo 264.
-
-La comparecencia debe contener los siguientes requisitos:
-
-I. La fecha en que se lleva a cabo;
-
-II. La hora de apertura y conclusión;
-
-III. La certificación, en la que se hará constar que se activó el sistema de grabación, o las causas extraordinarias que impidieron hacerlo;
-
-IV. Todo aquello que el compareciente y el Visitador Judicial “A” soliciten que se asiente; y
-
-V. La firma de quienes hayan comparecido en ella.
-
-La citada comparecencia no deberá interrumpirse, sino sólo en caso fortuito o fuerza mayor, debiendo expresarse el motivo de la interrupción y asentarse en el propio documento. Superado dicho motivo, la grabación deberá reanudarse.
-
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
-
-###### Artículo 265.
-
-Excepcionalmente, cuando existan elementos que hagan presumible el comportamiento indebido o el mal desempeño de un magistrado de Circuito o juez de Distrito durante los primeros seis años de su encargo, la Comisión de Carrera Judicial, para los efectos de ratificación del servidor público, podrá solicitar la práctica de una visita extraordinaria.
-
-Para los efectos del párrafo anterior, el Consejero ponente a quien se le haya turnado el expediente de ratificación, presentará un dictamen a la Comisión de Carrera Judicial, exponiendo las razones por las que, a su juicio, se está en el caso de excepción que amerita la práctica de una visita extraordinaria.
-
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
-
-###### Artículo 266.
-
-Las visitas extraordinarias tienen por objeto recabar información y constancias respecto del funcionamiento de los órganos jurisdiccionales, así como del desempeño y conducta de sus miembros; sus efectos serán esencialmente disciplinarios.
-
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
-
-###### Artículo 267.
-
-Las visitas extraordinarias comprenderán únicamente los aspectos encomendados a investigar por el Pleno o las Comisiones. No obstante, si durante la práctica de las visitas aconteciere un hecho o acto presumiblemente constitutivo de responsabilidad relacionado con la materia de la inspección, el Visitador Judicial “A” asentará en el acta lo correspondiente.
-
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
-
-###### Artículo 268.
-
-Para la práctica de visitas extraordinarias no se requerirá de previa comunicación de su inicio al titular del órgano jurisdiccional visitado. Podrán llevarse a cabo aún en días y horas inhábiles. Durarán el tiempo necesario para cumplir su encomienda.
-
-###### Artículo 269.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 270.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 271.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 272.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 273.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 274.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 275.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 276.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 277.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 278.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 279.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 47.
-
-Corresponderá a los titulares de las áreas administrativas, determinar en sus respectivas áreas de competencia, los servidores públicos no mencionados en el artículo anterior que por la naturaleza e importancia de las funciones que realizan o por administrar o manejar fondos, bienes y valores públicos, quedarán sujetos a estas disposiciones, lo que se les deberá notificar por escrito.
-
-###### Artículo 48.
-
-El informe de los asuntos a que se refiere el artículo 46 de este Acuerdo se formulará por escrito, e incluirá la descripción de los asuntos de la competencia del servidor público de que se trate y del estado que guardan al momento de la entrega; destacando las acciones y compromisos en proceso que requieran atención especial y, en su caso, aquellos que sea necesario atender de manera inmediata por los efectos que pudieran ocasionar. Este informe se integrará al acta de entrega-recepción.
-
-###### Artículo 49.
-
-La entrega-recepción de los recursos prevista en el artículo 46 de este Acuerdo, se efectuará mediante acta administrativa que contendrá, entre otros elementos, los aspectos programático; presupuestal y financiero; así como lo relativo a los recursos humanos y materiales; asuntos en trámite y de la situación que guardan; las observaciones de auditoría en proceso; y otros hechos que se considere conveniente consignar; así como la documentación soporte de la información proporcionada, en los términos del anexo de este Acuerdo.
-
-###### Artículo 50.
-
-El servidor público saliente elaborará el acta de entrega-recepción, misma que se formalizará en la fecha en que el servidor público que lo sustituya en sus funciones tome posesión del empleo, cargo o comisión, previa designación de que sea objeto por la instancia competente.
-
-La suscripción del acta de entrega-recepción por parte de los servidores públicos que se separen de su empleo, cargo o comisión, y de quienes los sustituyan no podrá delegarse.
-
-Si a la fecha en que el servidor público se separe del empleo, cargo o comisión, no existe nombramiento o designación del servidor público que lo sustituirá, la entrega-recepción se hará al servidor público que se designe para tal efecto.
-
-Si derivado del volumen de los informes, reportes, recursos materiales y financieros, así como de los archivos, se imposibilita la entrega de los mismos en la fecha en que el servidor público que recibe toma posesión del empleo, se consignarán en el acta las fechas en que se inicia y finaliza la entrega, lo cual no podrá exceder de 60 días naturales.
-
-###### Artículo 51.
-
-Los documentos e información que se agreguen al acta de entrega-recepción, deberán circunscribirse a los aspectos más relevantes de la entrega, para dejar constancia de ellos.
-
-### CAPÍTULO TERCERO. DE LOS INFORMES
-
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
-
-###### Artículo 280.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 281.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 282.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 283.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 284.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 285.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 286.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-#### SECCIÓN SEGUNDA. DEL INFORME DE CONDUCTA
-
-###### Artículo 287.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 288.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 289.
-
-(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
-
-###### Artículo 52.
-
-La Contraloría, a petición de las áreas administrativas, designará al o los representantes que fueren necesarios para dejar constancia de los hechos que se susciten con motivo de la entrega-recepción.
-
-###### Artículo 53.
-
-La verificación de contenido del acta de entrega-recepción, deberá realizarse por el servidor público entrante o, en su caso, por el que haya sido designado como encargado para recibir administrativamente, en un término no mayor de treinta días hábiles, contados a partir de la fecha de entrega-recepción del despacho. Durante dicho plazo el servidor público saliente hará las aclaraciones y proporcionará la información adicional que le sea solicitada.
-
-###### Artículo 54.
-
-Cuando el servidor público entrante detecte alguna inconsistencia en relación con el contenido del acta respectiva o en los anexos de la misma durante el término señalado en el artículo anterior, deberá hacerlo del conocimiento de su superior inmediato y, en caso de que sea Consejero, deberá informarlo al Pleno. El servidor público saliente deberá hacer las aclaraciones pertinentes, sin perjuicio de que, en su caso, se proceda de conformidad con las disposiciones jurídicas aplicables en materia de responsabilidades de los servidores públicos.
-
-Si el servidor público entrante no procediera de conformidad con lo establecido en el párrafo anterior, incurrirá en responsabilidad en términos de dichas disposiciones.
-
-Cuando el servidor público entrante tenga la calidad de Consejero, su ponencia, con el auxilio de la Contraloría realizará la revisión al acta y anexos que haya suscrito el Consejero saliente y si se llegase a detectar cualquier inconsistencia, el Consejero entrante dará cuenta de ello al Pleno, exponiendo la naturaleza de dicha inconsistencia, para que tome la determinación que corresponda, a la cual, en su caso, dará seguimiento la Contraloría.
-
-###### Artículo 55.
-
-La entrega del despacho y de los asuntos en trámite encomendados al servidor público saliente, no lo exime de las responsabilidades en que hubiera incurrido en términos de las disposiciones aplicables.
-
-### CAPÍTULO CUARTO. DE LA EVALUACION
-
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
-
-###### Artículo 290.
-
-El Visitador General elaborará un sistema que permita supervisar y evaluar el desempeño y la conducta de los visitadores judiciales. La evaluación se efectuará semestralmente.
-
-###### Artículo 291.
-
-El Director General de la Visitaduría Judicial abrirá un expediente por cada visitador, en el que recopilará documentos y datos relativos a sus actuaciones.
-
-###### Artículo 292.
-
-Previo a la evaluación sobre el desempeño y conducta de los visitadores judiciales, se les impondrá con los datos desfavorables contenidos en el expediente que integre la Dirección General de la Visitaduría Judicial, por el término de tres días, para que manifiesten lo que a su interés convenga.
-
-###### Artículo 293.
-
-La Dirección General de la Visitaduría Judicial, será la encargada de llevar el registro de los resultados de las evaluaciones a que se refiere esta (sic) Capítulo.
-
-#### SECCIÓN SEGUNDA. DE LA EVALUACIÓN DE LOS VISITADORES JUDICIALES “A”
-
-###### Artículo 294.
-
-Para la supervisión y evaluación de los Visitadores Judiciales “A” se considerarán los siguientes aspectos:
-
-I. La revisión metódica de las actas que practiquen;
-
-II. Los dictámenes de las visitas que efectúen;
-
-III. El tiempo en que lleven a cabo las funciones encomendadas;
-
-IV. Las quejas, inconformidades u opiniones que respecto de su conducta se presenten;
-
-V. Las licencias solicitadas para ausentarse de su función;
-
-VI. Los cursos, seminarios, diplomados u otros semejantes, que hayan recibido durante el periodo que comprende la evaluación, que tenga relación con la función que desempeñan;
-
-VII. La participación en programas de actualización y capacitación para los servidores públicos de la Visitaduría Judicial;
-
-VIII. El informe semestral de labores que rindan al Visitador General;
-
-IX. El cumplimiento de las obligaciones a que se refiere este Acuerdo y demás disposiciones aplicables; y
-
-X. Los demás que determine el Pleno o la Comisión.
-
-###### Artículo 295.
-
-El Visitador General examinará los expedientes de los Visitadores Judiciales “A”, así como las manifestaciones que respecto del mismo hubieran formulado y emitirá una resolución en la que evalúe su desempeño y conducta e informará a la Comisión el resultado de su evaluación.
-
-#### SECCIÓN TERCERA. DE LA EVALUACIÓN DE LOS VISITADORES JUDICIALES “B”
-
-###### Artículo 296.
-
-Para la supervisión y evaluación de los Visitadores Judiciales “B” se considerarán los siguientes temas:
-
-I. La revisión metódica de las actas que practiquen;
-
-II. Los dictámenes de las visitas que practiquen;
-
-III. La verificación de datos que los Visitadores Judiciales “A” puedan obtener en la práctica de visitas extraordinarias;
-
-IV. Las quejas, inconformidades u opiniones que respecto de su conducta se presenten;
-
-V. El informe semestral de labores que rindan al Visitador General;
-
-VI. Los cursos, seminarios, diplomados u otros semejantes, que hayan recibido durante el período que comprende la evaluación, que tengan relación con la función que desempeñan;
-
-VII. El cumplimiento de las obligaciones a que se refiere este Acuerdo y demás disposiciones aplicables; y
-
-VIII. Los demás que determine el Pleno o la Comisión.
-
-###### Artículo 297.
-
-Al inicio de cada semestre, los Visitadores Judiciales “A” revisarán el expediente de los Visitadores Judiciales “B” que el Visitador General les asigne, así como las manifestaciones que respecto del mismo hubieren formulado los Visitadores Judiciales “B”. En breve término emitirán al Visitador General una opinión objetiva en relación con el desempeño y conducta que los Visitadores Judiciales “B” tuvieron durante el periodo revisado.
-
-###### Artículo 298.
-
-El Visitador General examinará los expedientes de los Visitadores Judiciales “B” y la opinión emitida por los Visitadores Judiciales “A” y emitirá una resolución en la que evalúe el desempeño y conducta de los primeros e informará a la Comisión el resultado de su evaluación.
-
-## TRANSITORIOS
-
-PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
-
-TERCERO. Se abrogan los siguientes acuerdos generales:
-
-III (SIC). Acuerdo General 20/2002 del Pleno del Consejo de la Judicatura Federal, que establece las normas para el uso de la red privada de comunicación electrónica de datos del Poder Judicial de la Federación, en la presentación de las declaraciones patrimoniales de los servidores públicos del Poder Judicial de la Federación y del Tribunal Electoral, con excepción de la Suprema Corte de Justicia de la Nación y de la Sala Superior del Tribunal Electoral;
-
-IV. Acuerdo General 7/2008 del Pleno del Consejo de la Judicatura Federal, que regula la organización y funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal y abroga el diverso Acuerdo General 28/2003, del propio Cuerpo Colegiado;
-
-V. Acuerdo General 62/2008 del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones que deberán observar los servidores públicos adscritos a las áreas administrativas y órganos auxiliares del Consejo, para realizar el informe de los asuntos a su cargo y la entrega-recepción de los recursos que tengan asignados al separarse de su empleo, cargo o comisión;
-
-VI. Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial; y
-
-VII. Acuerdo General 10/2011 del Pleno del Consejo de la Judicatura Federal, relativo a la verificación de la situación financiera de los servidores del Poder Judicial de la Federación, con excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del propio Poder Judicial.
-
-CUARTO. Los asuntos en trámite deberán concluirse conforme a las disposiciones con las que fueron iniciados.
-
-QUINTO. Se derogan todas las disposiciones que (sic) opongan al presente Acuerdo General.
-
-ANEXO
-
-INSTRUCTIVO
-
-GUÍA PARA LA ELABORACIÓN DEL ACTA DE ENTREGA-RECEPCIÓN
-
-ACTA ADMINISTRATIVA DE ENTREGA-RECEPCION DE LOS RECURSOS ASIGNADOS E INFORMACION CONTENIDA EN LA (1)
-
-En la Ciudad de (2) siendo las (3) horas del día (4) se reunieron en las oficinas de ésta (5) sitas en (6), el C. (7) quien deja de ocupar el cargo de (8) con motivo de (9) y señala como su domicilio para recibir notificaciones o documentos relacionados con la presente acta, el ubicado en (10), y el C. (11) con motivo de la designación de que fue objeto, por parte de (12), para ocupar, con fecha (13), con carácter de (14) el puesto vacante, procediéndose a la entrega-recepción de los recursos asignados a esta área administrativa, intervienen como testigos de asistencia el C. (15) y el C. (16), manifestando el primero prestar sus servicios en (17), como (18), identificándose con (19) y tener su domicilio en (20), el segundo manifiesta también prestar sus servicios en la misma como (18), identificándose con (19) y tener su domicilio en (20).
-
-Se encuentran presentes en el acto, el C. (21) y el C. (22), representantes de la Contraloría, quienes se identifican con credencial oficial del Poder Judicial de la Federación, que los acredita, al primero, como (21), expediente (21) y, al segundo, como (22), expediente (22), ambos adscritos a la Dirección General de Auditoría, los cuales tienen atribuciones para participar conforme a lo establecido en el artículo 180, fracción XI, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo. Para constancia de lo sucedido, se transcriben los siguientes:
-
-HECHOS
-
-I. SITUACIÓN PROGRAMÁTICA
-
-Se entrega programa de trabajo y reporte(s) de Avance de Actividades por Programa (23) correspondiente a los meses (24) de este ejercicio. Anexo (25).
-
-II. SITUACIÓN PRESUPUESTARIA
-
-Se incluye el presupuesto asignado a esta (26), mostrando las cifras de los últimos estados presupuestales, así como las modificaciones que se han realizado. Anexo (25).
-
-III. ESTADOS FINANCIEROS
-
-Los estados financieros de la (27), a la fecha de entrega, son los siguientes: (28). Anexo (25).
-
-IV. RECURSOS FINANCIEROS
-
-1. Fondo Fijo. El C. (29), hace entrega del fondo revolvente que maneja la (30), con un importe total de $(31).
-
-Los representantes de la Contraloría, en presencia del C. (32), llevaron a cabo el arqueo al fondo fijo asignado a la (33). Anexo (25).
-
-2. Bancos. El (los) saldo(s) en Bancos a la fecha de la presente entrega asciende(n) a la cantidad de (34), según Estado(s) de Cuenta Bancario(s) expedido(s) oficialmente por la(s) Institución(es) correspondiente(s), mismo(s) que fue(ron) conciliado(s), Anexo(s) (35). Para la expedición de cheques y transferencias bancarias electrónicas con cargo a la(s) cuenta(s) de referencia se tienen registradas las firmas de los CC. (36) y (37) y quienes firman mancomunadamente, por lo que se procedió, con motivo del presente acto, a solicitar la cancelación del registro de las mismas y a registrar en su lugar las de los CC. (38) y (39) según oficio No. (40) fechado (41). Anexo (25).
-
-El C. (42), hace entrega de una relación de cheques cancelados respecto de (43) diversas cuentas, especificando en cada cuenta el último cheque firmado por el (42) y los tres siguientes folios cancelados, mismos que fueron verificados por los representantes de la Contraloría, habiendo emitido una cédula resumen de cheques cancelados certificados por cuenta.
-
-3. Cheques y Efectivo. A la fecha de la presente entrega-recepción existen en poder del área administrativa correspondiente (44) cheques pendientes de entregar a los beneficiarios por un importe de (45). En este acto se hace entrega de (46) que existen en efectivo en dicha área para las finalidades que se mencionan. Anexo (25).
-
-4. Inversiones en Valores, Títulos o Plazos Preestablecidos. El C. (47) hace constar sobre la existencia (o no existencia) de inversiones en valores, a plazos preestablecidos, en títulos, u otras inversiones realizadas con recursos asignados al Consejo (48). Se hace constar también los recursos captados por otras causas (49). Anexo (25).
-
-5. Cambio de Registro de Firmas. Se hace constar que se ha realizado el cambio de los registros de firmas para el trámite de cualquier operación de autorización o gestión. Anexo (25).
-
-6. Fianzas. Se entrega la relación de garantías que se encuentran en guarda y custodia de la (50) al (51). Anexo (25).
-
-7. Valores y Documentos en Custodia. El C. (52) hace entrega de la(s) relaciones correspondientes a bienes resguardados en la (53) y correspondientes a procedimientos judiciales. Anexo (25).
-
-V. RECURSOS MATERIALES
-
-1. Activo Fijo. El C. (54), hace constar que todos los bienes integrantes del mobiliario y equipo de oficina que se muestran en este acto, se encuentran en las instalaciones de la (55), y están debidamente identificados con número de inventario conforme a las disposiciones aplicables, existiendo los resguardos respectivos, para tal efecto la Dirección General de Recursos Materiales, realizó el inventario respectivo. Anexo (25).
-
-2. Vehículos. El C. (56), entrega a la Dirección General de Servicios Generales, el inventario del estado que guarda el automóvil (57) modelo (58), asignado a la (59), así como el acta de entrega-recepción del mismo. Anexo (25).
-
-3. Obras de Arte y Decoración. Se detallan las obras de arte y Artículos de decoración propiedad del Consejo que se entregan en este acto. Anexo (25).
-
-4. Libros, Manuales y Publicaciones. Se detallan los libros, manuales, publicaciones y discos ópticos propiedad del Consejo, asignados a la (60). Anexo (25).
-
-5. Existencias en Almacén o Subalmacén. El C. (61), presenta las existencias de bienes de consumo (62), a la fecha de la presente acta. Anexo (25).
-
-6. Archivos. El C. (63), muestra en este acto los archivos y documentos de la competencia de la oficina de la (64). Anexo (25).
-
-7. Caja Fuerte. En sobre cerrado el C. (65), hace entrega al C. (66), de la combinación de la caja fuerte y una relación de los bienes y documentos que en ella se encuentran. Anexo (25).
-
-8. Equipo de Telefonía Celular. Se presenta el oficio (67), de (68), por medio del cual el C. (69), hace entrega a la Dirección General de Servicios Generales del teléfono celular (70). Anexo (25).
-
-9. Paquetería y Equipo de Cómputo. El C. (71), hace constar que todos los bienes integrantes de la paquetería y equipo de cómputo que se entregan en este acto, se encuentran en las instalaciones de la (72), en perfecto estado y debidamente identificados con número de inventario conforme a las disposiciones aplicables, existiendo los resguardos respectivos, para tal efecto la Dirección General de Recursos Materiales, realizó el inventario respectivo. Anexo (25).
-
-VI. OBRA PÚBLICA
-
-Se entrega un informe pormenorizado de la situación de las obras públicas en proceso y pendientes de ejecutar a la fecha de entrega, a cargo de la (73). Anexo (25).
-
-VII. RECURSOS HUMANOS
-
-El C. (74), entrega una copia fotostática de la plantilla del personal adscrito a la (75), la cual contiene los nombres, categoría, clave y puesto. Anexo (25).
-
-VIII. INFORME DE ASUNTOS EN TRÁMITE
-
-Se entrega el informe de los asuntos a cargo de la (76) y el estado que guardan, el cual incluye un apartado de los asuntos en trámite, conteniendo número y fecha del expediente con que se encuentran registrados. En dicho apartado se destacan los asuntos, acciones y compromisos que requieren atención especial y, en su caso, los asuntos que es necesario atender de manera inmediata por los efectos que pueden ocasionar a la gestión de la (76). Anexo (25).
-
-IX. OBSERVACIONES DE AUDITORÍAS
-
-El C. (77) hace constar que a la fecha se encuentran pendientes de solventar las observaciones realizadas por la Contraloría. Anexo (25).
-
-X. OTROS HECHOS
-
-El C. (78), presenta el oficio (79), de (80), con el que entrega a la Dirección General de Recursos Humanos, las credenciales tipo PVC y Carnet que lo acreditan como servidor público del Consejo con el cargo de (81)(en caso de extravío o robo de las credenciales del Consejo se deberá entregar copia del acta levantada ante la autoridad competente); de igual forma, con oficio (79) de (80), entrega a la Dirección General de Servicios Generales, el corbatín (82) para el acceso al estacionamiento (83). Anexo (25).
-
-El C. (84) presenta en este acto el oficio (85) mediante el cual el Director General de Programación y Presupuesto emitió Carta de No Adeudos a favor del Consejo. Anexo (25).
-
-El C. (86), hace entrega de una relación al (87), de (88) llaves que corresponden a la puerta principal de la(s) (89). Anexo (25).
-
-XI. CIERRE DEL ACTA
-
-El C. (90), manifiesta, bajo protesta de decir verdad, haber proporcionado sin omisión alguna todos los elementos necesarios para la formulación de la presente acta, y no haber excluido ningún asunto o aspecto importante relativo a su gestión. Asimismo, manifiesta tener conocimiento de que el contenido del acta y de sus anexos será verificado dentro de los treinta días hábiles siguientes a la firma de la presente, por lo que podrá ser requerido para cualquier aclaración al respecto y proporcionar la información adicional.
-
-La presente entrega, no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por la autoridad competente con posterioridad.
-
-Los (91) Anexos que se mencionan en la presente acta forman parte integrante de la misma y son firmados en todas sus fojas por las personas designadas para elaborarlos, para fines de identificación y efectos legales a que haya lugar.
-
-En presencia de los representantes de la Contraloría, el C. (92), recibe del C. (93), con las reservas de ley, sustentada en las disposiciones legales aplicables en la materia, entre ellas, la Ley Orgánica y la Ley de Responsabilidades, todos los recursos y documentos que se precisan en el contenido de la presente acta y sus (91) Anexos.
-
-Los representantes de la Contraloría, manifiestan conocer la existencia de los expedientes mencionados por el C. (93), y de haber hecho una revisión selectiva de la existencia física de los mismos, más no del detalle de su contenido, sin prejuzgar sobre la veracidad de la documentación e información contenida en el acta de entrega-recepción y en los anexos a la misma.
-
-Previa lectura de la presente acta y no habiendo más que hacer constar, se da por concluida a las (94) horas del (95), firmando para constancia en todas sus fojas al margen y al calce los que en ella intervinieron.
-
-(VÉASE ARCHIVO ANEXO)
-
-INSTRUCCIONES PARA EL LLENADO DEL ACTA DE ENTREGA-RECEPCIÓN
-
-INICIO DEL ACTA
-
-(1) Nombre del área administrativa que se entrega.
-
-(2) Nombre de la Ciudad en donde está ubicada la oficina.
-
-(3) Hora en que se inicia el levantamiento del acta.
-
-(4) Señalar con letra la fecha (día, mes y año) en que se inicia el levantamiento del acta.
-
-(5) Anotar el título que corresponda (oficina del servidor público que entrega, Oficialía Mayor, Secretaría General, Secretaría Ejecutiva, Dirección General, Coordinación, Unidad, Dirección de Área, etc.).
-
-(6) Nombre de la calle, número exterior e interior, colonia, código postal y ciudad.
-
-(7) Nombre del servidor público que entrega.
-
-(8) Denominación del puesto o cargo que ocupa el servidor público que entrega.
-
-(9) Señalar la causa o motivo por la que el servidor público que entrega se separa del empleo, cargo o comisión (renuncia, cese, despido, destitución, entre otras).
-
-(10) Domicilio particular del servidor público que entrega.
-
-(11) Nombre de la persona que recibe.
-
-(12) Señalar quién designó al servidor público que recibe.
-
-(13) Señalar con letra la fecha (día, mes y año) a partir de los cuales surte efectos el nombramiento del servidor público entrante.
-
-(14) Señalar si es titular, encargado o recibirá únicamente administrativamente.
-
-(15), (16) Nombre completo de los testigos.
-
-(17) Denominación del área o unidad administrativa a la que se encuentre adscrito el servidor público correspondiente.
-
-(18) Denominación del puesto o cargo que ocupa el testigo.
-
-(19) Señalar los datos del documento de identificación oficial presentado por el testigo, el cual deberá estar vigente.
-
-(20) Nombre de la calle, número exterior e interior, colonia/sector, Ciudad y código postal.
-
-(21), (22) Nombre de la(s) persona(s) representante(s) de la Contraloría, indicando puesto y número de expediente con la cual se identifican respectivamente.
-
-HECHOS
-
-I. SITUACIÓN PROGRAMÁTICA
-
-(23) Utilizar el formato oficial correspondiente.
-
-(24) Meses comprendidos en el reporte.
-
-(25) Número de anexo que corresponda iniciando con el uno y terminando hasta el apartado
-
-X. “Otros Hechos” e indicando que los folios serán con letra.
-
-II. SITUACIÓN PRESUPUESTARIA
-
-(26) Denominación del área administrativa.
-
-III. ESTADOS FINANCIEROS
-
-(27) Denominación del área administrativa.
-
-(28) Mencionar los estados financieros con que se cuente a la fecha del acta.
-
-IV. RECURSOS FINANCIEROS
-
-1. Fondo Fijo
-
-(29) Nombre del servidor público que entrega.
-
-(30) Denominación del área administrativa.
-
-(31) Suma total del (de los) fondo(s) revolvente(s) que maneja el área administrativa, con número y letra, así como tipo de moneda.
-
-(32) Nombre del servidor público que entrega.
-
-(33) Denominación del área administrativa.
-
-2. Bancos
-
-(34) Suma total de saldos en bancos a la fecha del acta, con número y letra, así como tipo de moneda.
-
-(35) Número que corresponda a las conciliaciones de los saldos en bancos a la fecha de la entrega-recepción.
-
-(36), (37) Nombres y cargos de las personas cuyas firmas estaban registradas para firmar cheques y autorizadas para realizar transferencias bancarias electrónicas hasta la fecha del acta.
-
-(38), (39) Nombre y cargo de las personas cuyas firmas se registran como autorizadas para la expedición de cheques y transferencias bancarias electrónicas.
-
-(40) Número de oficio emitido por el área administrativa para notificar el cambio de firmas a las instituciones bancarias.
-
-(41) Señalar con letra la fecha (día, mes y año) del oficio a la(s) institución(es) bancaria(s).
-
-(42) Nombre del servidor público que realiza la entrega.
-
-(43) Número de cuentas bancarias en poder del servidor público que entrega.
-
-3. Cheques y Efectivo
-
-(44) Cantidad de cheques pendientes de entregar a beneficiarios, en poder del área de apoyo del área administrativa correspondiente.
-
-(45) Importe total con número y letra, así como tipo de moneda de los cheques pendientes de entregar a beneficiarios.
-
-(46) Importe del efectivo existente con número y letra, así como tipo de moneda.
-
-4. Inversiones en Valores, Títulos o Plazos Preestablecidos
-
-(47) Nombre del servidor público que realiza la entrega.
-
-(48) En caso afirmativo, indicarlo e incluir como anexo un desglose identificando el tipo de inversión, la institución financiera con quien se haya hecho, el monto, la fecha y la autorización en que se basó la operación.
-
-(49) Por ejemplo: Traspaso de recursos por otro órgano del Poder Judicial de la Federación, venta de publicaciones. En caso afirmativo presentar en anexo la relación de ingresos y egresos correspondiente.
-
-5. Cambio de Registro de Firmas
-
-No existe ningún apartado para este concepto.
-
-6. Fianzas
-
-(50) Denominación del área administrativa.
-
-(51) Nombre de la persona que recibe.
-
-7. Valores y Documentos en Custodia
-
-(52) Nombre del servidor público que realiza la entrega.
-
-(53) Denominación del área administrativa.
-
-V. RECURSOS MATERIALES
-
-1. Activo Fijo
-
-(54) Nombre del servidor público que realiza la entrega, asimismo, deberá proporcionar los bienes que están bajo su resguardo.
-
-(55) Denominación del área administrativa.
-
-2. Vehículos
-
-(56) Nombre del servidor público que realiza la entrega.
-
-(57) Marca y Tipo.
-
-(58) Año, número de motor, serie y placas de circulación.
-
-(59) Denominación del área administrativa.
-
-3. Obras de Arte y Decoración
-
-No existe ningún apartado para este concepto.
-
-4. Libros, Manuales y Publicaciones
-
-(60) Denominación del área administrativa.
-
-5. Existencias en Almacén o Subalmacén
-
-(61) Nombre del servidor público que realiza la entrega.
-
-(62) Denominación del área administrativa.
-
-6. Archivos
-
-(63) Nombre del servidor público que realiza la entrega.
-
-(64) Denominación del área administrativa.
-
-7. Caja Fuerte
-
-(65) Nombre del servidor público que realiza la entrega.
-
-(66) Nombre de la persona que recibe.
-
-8. Equipo de Telefonía Celular
-
-(67) Número de oficio.
-
-(68) Señalar con letra la fecha (día, mes y año).
-
-(69) Nombre del servidor público que realiza la entrega.
-
-(70) Marca, tipo y número de serie.
-
-9. Paquetería y Equipo de Cómputo
-
-(71) Nombre del servidor público que realiza la entrega.
-
-(72) Denominación del área administrativa.
-
-VI. OBRA PÚBLICA
-
-(73) Se especificará la obra, nombre del contratista, importe contratado, ejercido y por ejercer, así como las estimaciones de obra que se encuentren en trámite, avance físico y financiero y, en su caso, nombre o razón social de quien realice la supervisión.
-
-VII. RECURSOS HUMANOS
-
-(74) Nombre del servidor público que realiza la entrega.
-
-(75) Denominación del área administrativa.
-
-VIII. INFORME DE ASUNTOS EN TRÁMITE
-
-(76) Denominación del área administrativa.
-
-IX. OBSERVACIONES DE AUDITORÍA
-
-(77) Nombre del servidor público que realiza la entrega.
-
-X. OTROS HECHOS
-
-(78) Nombre del servidor público que realiza la entrega. En caso de extravío de las credenciales del Consejo, deberá presentar acta levantada ante la autoridad correspondiente.
-
-(79) Número de oficio.
-
-(80) Señalar con letra la fecha (día, mes y año).
-
-(81) Denominación del puesto o cargo que ocupa el servidor público que entrega.
-
-(82) Número con el cual tiene asignado el cajón de estacionamiento.
-
-(83) Denominación del área administrativa a la que se tiene autorizado ingresar el automóvil del servidor público que realiza la entrega.
-
-(84) Nombre del servidor público que realiza la entrega.
-
-(85) Número de oficio.
-
-(86) Nombre del servidor público que realiza la entrega.
-
-(87) Nombre de la persona que recibe.
-
-(88) Señalar el número de llaves con letra.
-
-(89) Ubicación de la(s) oficinas a las que se puede ingresar con las llaves recibidas.
-
-XI. CIERRE DEL ACTA
-
-(90) Nombre del servidor público que realiza la entrega.
-
-(91) Número total de anexos que se mencionan en el acta.
-
-(92) Nombre de la persona que recibe.
-
-(93) Nombre del servidor público que realiza la entrega.
-
-(94) Hora en que se da por concluida el acta.
-
-(95) Señalar con letra la fecha (día, mes y año) en que se da por concluida el acta, puede ser distinta de la fecha de inicio.
-
-(96) Nombre completo y firma del servidor público que entrega.
-
-(97) Nombre completo y firma de la persona que recibe.
-
-(98)Nombre completo y firma de la(s) persona(s) representante(s) para intervenir por parte de la Contraloría.
-
-(99) Nombre completo y firma de los testigos de asistencia en el acta.
-
-REQUISITOS PARA LA ELABORACIÓN DEL ACTA DE ENTREGA-RECEPCIÓN
-
-1. Usar papel oficial;
-
-2. Elaborar el acta a renglón seguido y sin sangría;
-
-3. Cancelar con guiones todos los espacios sobrantes de renglones, así como renglones no utilizados;
-
-4. Dejar un margen izquierdo de 3 cm y de 2 cm al lado derecho;
-
-5. Los conceptos que no resulten aplicables al área administrativa, se deberá señalar: “No Aplica” y en negritas;
-
-6. El acta no deberá contener borraduras, tachaduras o enmendaduras; y
-
-7. El acta deberá suscribirse con firma autógrafa en cinco tantos, por los que en ella intervienen y por los dos testigos de asistencia. Los anexos deberán ir foliados en todas sus fojas y rubricados por los servidores públicos tanto el saliente como el entrante. El acta y sus anexos se entregarán conforme a lo siguiente:
-
-a) Acta y original de los anexos firmados de manera autógrafa: a la Secretaría Particular o Coordinación Administrativa del área administrativa;
-
-b) Acta y copia de los anexos: al servidor público que realiza la entrega y al servidor público que recibe, así como a la Contraloría; y
-
-c) Acta sin anexos: a la Contraloría.
-
-EL MAGISTRADO J. GUADALUPE TAFOYA HERNÁNDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de treinta de octubre de dos mil trece, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a nueve de enero de dos mil catorce.- Conste.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-D.O.F. 17 DE SEPTIEMBRE DE 2014.
-
-PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
-
-TERCERO. La Comisión de Disciplina acordará la fecha de inicio de las inspecciones a distancia a los órganos jurisdiccionales, previa implementación de las pruebas piloto respectivas. En tanto acuerde el inicio del sistema de inspección a distancia, continuará vigente el de informe circunstanciado que regula el Acuerdo General 28/2003 del Pleno del Consejo. Para los informes de terminación o de conclusión de funciones regirá igual disposición.
-
-Las actas de visita ordinaria junto con los informes circunstanciados se dictaminarán en la forma, períodos y oportunidad con que se ha venido haciendo, aunque se hayan rendido dos informes circunstanciados o practicado dos visitas ordinarias de manera consecutiva, con motivo del calendario de inspecciones del año dos mil catorce. En ambos casos el dictamen respectivo se emitirá inmediatamente después de que se practique la última visita ordinaria.
-
-###### Artículo 56.
-
-Cualquier servidor público de los señalados en los artículos 46 y 47 de este Acuerdo, que al separarse de su empleo, cargo o comisión, omita hacer la entrega a que se refiere este Capítulo, será requerido por la Contraloría, para que en un plazo no mayor a treinta días naturales, siguientes a aquel en que se notifique el requerimiento, cumpla con esta obligación.
-
-En el supuesto que antecede, el servidor público entrante al tomar posesión o, en su caso, el encargado del despacho o el designado para la recepción, levantará acta circunstanciada con asistencia de dos testigos, dejando constancia del estado en que se encuentren los asuntos en trámite y los recursos asignados; lo anterior, se hará del conocimiento de la Contraloría, para efectos del aludido requerimiento y de que, en su caso, ésta promueva por sí o a través del área competente, las acciones que correspondan en términos de las disposiciones aplicables.
-
-###### Artículo 57.
-
-El servidor público que proceda a la entrega del despacho y de los asuntos a su cargo, hará constar en el acta de entrega-recepción, la aceptación expresa de su renuncia o la causa o motivo de su separación en la titularidad del empleo, cargo o comisión.
-
-###### Artículo 58.
-
-Los titulares de las áreas administrativas que tengan adscritas unidades administrativas, al separarse de su cargo, únicamente harán entrega de los recursos humanos, financieros y materiales que les hayan sido asignados directamente, ya que dichas unidades, serán responsables, cada una de ellas, respecto del control de sus recursos.
-
-###### Artículo 59.
-
-Con independencia de la causa o motivo que origine la separación, el servidor público saliente no quedará relevado de las obligaciones a que se refieren las disposiciones de este Acuerdo y de las demás aplicables en materia de responsabilidades, entre ellas, la Ley Orgánica y la Ley de Responsabilidades.
-
-###### Artículo 60.
-
-El acta de entrega-recepción deberá levantarse en cinco tantos, firmarse por los que en ella intervienen y por dos testigos de asistencia. Los anexos deberán ir foliados en todas sus fojas y rubricarse por los servidores públicos, tanto el saliente como el entrante, con la siguiente distribución:
-
-I. Acta y original de los anexos firmados de manera autógrafa: para la Secretaría Particular o Coordinación Administrativa del área administrativa, la que se encargará de su resguardo;
-
-II. Acta y copia de los anexos: para el servidor público que realiza la entrega y para el servidor público que recibe, así como para la Contraloría; y
-
-III. Acta sin anexos: para la Contraloría.
+### CAPITULO I. DE LAS CAUSAS DE SUSPENSIÓN TEMPORAL EN EL SERVICIO
 
 ###### Artículo 61.
 
-La Contraloría vigilará, en el ámbito de sus atribuciones, el cumplimiento de las disposiciones a que se refiere este Capítulo.
+Son causas de suspensión temporal de la obligación de prestar el servicio con goce de sueldo:
+
+I. La enfermedad contagiosa del personal adscrito; o
+
+II. La incapacidad temporal ocasionada por un accidente o enfermedad que no constituya riesgo de trabajo.
+
+La incapacidad deberá ser validada por la Institución que preste los servicios de seguridad social en el Municipio.
 
 ###### Artículo 62.
 
-Las actuaciones se practicarán en días y horas hábiles; expresarán el lugar, fecha y hora en que se realizan y las personas que en ellas intervengan; y se redactarán en idioma español.
+Son causas de suspensión temporal de las obligaciones de prestar el servicio sin goce de sueldo:
 
-En el acta que se levante se asentará únicamente lo que sea necesario para hacer constar el desarrollo que haya tenido la diligencia.
+I. La sujeción a proceso penal;
+
+II. Estar sujeto a procedimiento de responsabilidad administrativa;
+
+III. El cumplimiento de los servicios y el desempeño de los cargos mencionados en el artículo 5° de la Constitución Política de los Estados Unidos Mexicanos y el de las obligaciones consignadas en el artículo 31, fracción III de la misma Constitución;
+
+IV. La falta de los documentos que exijan las leyes y reglamentos, necesarios para la prestación del servicio, cuando sea imputable al personal adscrito; y
+
+V. Las demás que señale la Ley.
 
 ###### Artículo 63.
 
-Los escritos que se presenten en lengua extranjera o indígena, se acompañarán de la traducción correspondiente.
+La suspensión surtirá efectos:
 
-En caso de que el escrito sea presentado utilizando lengua extranjera o indígena, y el promovente no comprenda o hable el idioma español y no cuente con intérprete, el Consejo ordenará de oficio la traducción, para salvaguardar sus derechos.
+I. En los casos de la fracción I del artículo 61, desde el momento en que el Municipio tenga conocimiento de que el personal adscrito se encuentra enfermo;
+
+II. En los casos de la fracción II del artículo 61, desde el momento en que se produzca la incapacidad para el servicio;
+
+III. Tratándose de la fracción I del artículo 62, desde el momento en que el personal adscrito acredite estar a disposición de la autoridad judicial;
+
+IV. Tratándose de la fracción II del artículo 62, desde el momento en que la autoridad competente considere necesario decretar la suspensión;
+
+V. En los casos de la fracción III del artículo 62, desde la fecha en que deban prestarse los servicios o desempeñarse los cargos; y
+
+VI. En los casos de la fracción IV del artículo 62, desde el momento que sea requerido.
 
 ###### Artículo 64.
 
-Para efectos del cómputo de los plazos procesales en los asuntos de responsabilidad, se considerarán como días inhábiles los establecidos en las disposiciones aplicables.
+El personal adscrito deberá regresar al servicio:
 
-###### Artículo 65.
+I. En los casos de las fracciones I y II del artículo 61 a partir del día siguiente de la fecha en que termine el período fijado por la dependencia encargada de la seguridad social o antes si desaparece la incapacidad para el servicio, sin que la suspensión pueda exceder del término fijado en la Ley del Seguro Social para el tratamiento de las enfermedades que no sean consecuencia de un riesgo de trabajo;
 
-En las diligencias que practiquen los servidores públicos que deban tramitar el procedimiento de responsabilidad administrativa, éstos estarán acompañados de un secretario o de dos testigos de asistencia, que darán fe de todo lo que en aquéllas acontezca.
+II. En los casos de las fracciones I y II del artículo 62, hasta que cause ejecutoria la resolución correspondiente;
 
-Dentro del procedimiento de responsabilidad administrativa, el titular del órgano competente, o el servidor público que éste designe, presidirá los actos en los que se reciban pruebas y aquellos en los que, en su caso, se desahoguen y se rindan declaraciones bajo protesta de decir verdad.
+III. En el caso de la fracción III del artículo 62, hasta por un período de seis años; y
 
-En la práctica o desahogo de las diligencias, podrá utilizarse, según el caso y a juicio del servidor público que las practique, cualquier medio electrónico o magnético. El medio utilizado y la reproducción deberán constar en el acta respectiva.
+IV. En los casos de la fracción IV del artículo 62, dentro de los quince días siguientes a la terminación de la causa de la suspensión.
 
-###### Artículo 66.
+### CAPITULO II. DE LAS CAUSAS DE BAJA EN EL SERVICIO
 
-El servidor público, el quejoso o denunciante, y los autorizados si los hubiere, tendrán acceso a los expedientes integrados con motivo de un procedimiento de responsabilidad administrativa, una vez que se dicte el respectivo acuerdo inicial, salvo lo dispuesto en la regulación que en materia de transparencia rige al Consejo.
+###### ARTÍCULO 65.
 
-El servidor público que intervenga en la investigación o el procedimiento de responsabilidad administrativa, deberá guardar la reserva y confidencialidad de la información materia de éstos. Cuando indebidamente quebrante esta obligación será sujeto a procedimiento de responsabilidad administrativa o penal, o de ambos, según corresponda.
+Serán causas por las cuales causará baja el personal adscrito, las siguientes:
 
-###### Artículo 67.
+I. Por muerte o incapacidad permanente;
 
-En las actuaciones y promociones no se utilizarán abreviaturas ni se rasparán las palabras equivocadas, sobre las que sólo se pondrá una línea delgada que permita su lectura, salvándose con toda precisión, antes de las firmas, el error cometido. En la misma forma se salvarán las palabras que se hayan entrerrenglonado. Todas las fechas y cantidades se escribirán con letra.
+II. Faltar a sus labores por más de tres ocasiones en un período de treinta días naturales, sin permiso o causa justificada;
 
-Durante el procedimiento las actuaciones serán autorizadas y se conservarán en los archivos respectivos.
+III. Recibir sentencia condenatoria por la comisión de delito intencional;
 
-###### Artículo 68.
+IV. Por propia voluntad;
 
-Inmediatamente después de que se asienten las actuaciones del día o se agreguen los documentos recibidos, el servidor público responsable del expediente, foliará y rubricará las hojas respectivas y pondrá el sello de la oficina correspondiente en el fondo del cuaderno, de manera que abarque las dos caras.
+V. Por negarse a someterse a los exámenes toxicológicos;
 
-El referido servidor público guardará con la seguridad debida, bajo su responsabilidad, los documentos originales u objetos que se presenten al procedimiento y se anexará copia autorizada de los documentos al expediente.
+VI. Por no acreditar los exámenes de control de confianza;
 
-Las actuaciones deberán ser autorizadas inmediatamente por los servidores públicos a quienes corresponda firmar, dar fe o certificar el acto.
+VII. Por negarse a prestar el servicio para atender emergencias o por razones de necesidad pública;
 
-###### Artículo 69.
+VIII. Por acumular cuatro infracciones en un plazo de noventa días naturales;
 
-Las personas referidas en el artículo 66 de este Acuerdo, en el asunto de responsabilidad donde intervengan, pueden pedir, en todo tiempo y a su costa, copia certificada de constancias o documentos que obren en autos.
+IX. Por jubilación;
 
-#### SECCIÓN SEGUNDA. NOTIFICACIONES
+X. Por presentarse a sus labores bajo los efectos de drogas enervantes, estupefacientes o de bebidas alcohólicas;
 
-###### Artículo 70.
+XI. Por disparar el arma de fuego sin causa justificada;
 
-Las notificaciones se realizarán a más tardar dentro de los tres días hábiles siguientes al día en que se dictan las resoluciones que las motiven.
+XII. Por incumplimiento de los requisitos legales señalados en la Ley;
 
-###### Artículo 71.
+XIII. Por infringir, tolerar o permitir actos de tortura o tratos inhumanos y crueles;
 
-En los procedimientos de responsabilidad administrativa instaurados en contra de servidores públicos adscritos a órganos jurisdiccionales, las notificaciones se harán por conducto de la Comisión, la Secretaría o a través del órgano auxiliar instructor.
+XIV. Por conducirse con falsedad, falta de respeto, indiscreción, y desobediencia;
 
-###### Artículo 72.
+XV. Por imposibilidad del personal adscrito de cumplir con sus obligaciones, por causas que le sean imputables;
 
-En los procedimientos de responsabilidad administrativa instaurados en contra de servidores públicos adscritos a las áreas administrativas, las notificaciones se harán por conducto de la Contraloría, con excepción de lo dispuesto en el siguiente párrafo.
+XVI. Por poner en peligro la vida, la integridad o las propiedades de los particulares o de sus compañeros por causa de imprudencia, descuido, negligencia, o abandono del servicio;
 
-Tratándose del Director General del Instituto Federal de Defensoría Pública o de servidores públicos adscritos a la Contraloría, las notificaciones se harán por conducto de la Secretaría.
+XVII. Por revelar claves del servicio, información secreta o reservada de la que tenga conocimiento, salvo en los casos autorizados por la ley;
 
-###### Artículo 73.
+XVIII. Por adquirir otra nacionalidad;
 
-El servidor público probable responsable podrá autorizar para oír y recibir notificaciones en su nombre, a cualquier persona con capacidad legal, quien quedará facultada para ofrecer y rendir pruebas, alegar en las audiencias, solicitar la suspensión o diferimiento, pedir que se dicte resolución y realizar cualquier acto que resulte necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero.
+XIX. Por presentar documentación alterada o falsa sobre los hechos de los que tenga conocimiento o en los que haya intervenido;
 
-###### Artículo 74.
+XX. Por aplicar a sus subalternos en forma dolosa o reiterada, correctivos disciplinarios sin tener facultad para ello o sin causa justificada;
 
-En los procedimientos de responsabilidad administrativa ningún servidor público podrá ser representado por otro servidor público del Poder Judicial de la Federación, a menos que el representante tenga licencia para cumplir comisiones sindicales en el Sindicato de Trabajadores del Poder Judicial de la Federación.
+XXI. Por no cumplir con el perfil necesario para ingresar al servicio;
 
-###### Artículo 75.
+XXII. Por exigir a sus subalternos, dinero o cualquier otro tipo de dádiva para permitirles el goce de las prestaciones que les corresponden;
 
-Si la parte que debe ser notificada autorizó a varias personas, bastará notificar a cualquiera de ellas.
+XXIII. Por ocasionar intencionalmente, durante el desempeño del servicio perjuicios materiales, en los edificios, obras, maquinaria, instrumentos y demás objetos relacionados con el servicio;
 
-###### Artículo 76.
+XXIV. Por ocasionar los perjuicios de que habla la fracción anterior siempre que sean graves, sin dolo, pero con negligencia tal, que ella sea la causa única del perjuicio;
 
-Las notificaciones podrán hacerse personalmente, por lista, oficio, mensajería, telegrama o medio electrónico, como el fax o correo electrónico; en cualquiera de esos casos deberá agregarse la constancia respectiva en el expediente.
+XXV. Cuando en los procesos de promoción concurran las siguientes circunstancias:
 
-###### Artículo 77.
+a. Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos, o que habiendo participado en dichos procesos, no hubiese obtenido el grado inmediato superior que le correspondería por causas imputables a él;
 
-Las notificaciones surtirán efectos al día siguiente en que se realizan.
+b. Que haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables, y
 
-###### Artículo 78.
+c. Que del expediente del integrante no se desprendan méritos suficientes para conservar su permanencia.
 
-Las personas que intervengan en el procedimiento de responsabilidad administrativa designarán, en la primera actuación, un domicilio para oír y recibir notificaciones.
+XXVI. Por cometer actos inmorales durante el desempeño del servicio;
 
-Si por cualquier circunstancia no realizan la designación, cambian de domicilio sin dar aviso o señalan uno falso, las notificaciones posteriores al emplazamiento se harán por lista, en la forma que establece el artículo 85 de este Acuerdo, aun cuando deban ser personales.
+XXVII. Por negarse a adoptar las medidas preventivas o a seguir los procedimientos indicados para evitar accidentes o enfermedades;
 
-###### Artículo 79.
+XXVIII. Por sentencia ejecutoria que le imponga pena de prisión; y
 
-Las notificaciones personales se realizarán directamente al interesado, su representante o a cualquier persona que aquél autorice para el efecto, en el lugar en que labore o el domicilio que haya designado conforme a lo previsto en el artículo anterior.
+XXIX. Las demás que señale la Ley o éste Reglamento.
 
-La notificación personal también podrá llevarse a cabo por cualquier medio electrónico o a través de mensajería autorizada, debiéndose recabar constancia que demuestre que el servidor público quedó debidamente notificado.
+TITIULO (SIC) TERCERO
 
-Excepcionalmente, las notificaciones a los servidores públicos probables responsables que hayan dejado de laborar en el Poder Judicial de la Federación o se encuentren disfrutando de licencia mayor a tres meses, se realizarán en el domicilio particular registrado en su expediente personal.
+DE LA CARRERA POLICIAL Y DE LA PROFESIONALIZACION
 
-Cuando la notificación deba realizarse en el domicilio particular, el notificador estará obligado a cerciorarse, por cualquier medio, que la persona a notificar vive en la casa designada y, después de ello, practicará la diligencia entregándole al servidor público copia autorizada de la resolución correspondiente, de todo lo cual se asentará razón en autos.
+### CAPITULO I. DE LA CARRERA POLICIAL
 
-Si el destinatario se niega a recibir la notificación, ésta se fijará en la puerta de entrada o en lugar visible del domicilio, se asentará razón de ello y previa autorización se notificará por lista.
+###### ARTÍCULO 66.
 
-###### Artículo 80.
+La Carrera Policial es una actividad profesional regulada por los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del servicio de los integrantes de las Instituciones Policiales.
 
-Si no se encuentra al interesado en su domicilio se le dejará con cualquier persona que allí resida un citatorio que contendrá:
+###### ARTÍCULO 67.
 
-I. Denominación del órgano que dictó el acuerdo o resolución que se pretende notificar;
+El personal adscrito se organizará bajo un esquema de jerarquización terciaria, cuya célula básica se compondrá invariablemente por tres elementos.
 
-II. Datos del expediente en el que se dictó;
+Los titulares de las categorías jerárquicas estarán facultados para ejercer la autoridad y mando policial en los diversos cargos o comisiones.
 
-III. Extracto del acuerdo o resolución que se notifica;
+###### ARTÍCULO 68.
 
-IV. Día y hora en que se deja el citatorio y nombre de la persona a la que se le entrega; y
+La carrera policial comprende el grado policial, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, haya acumulado el integrante. Se regirá por las normas siguientes:
 
-V. El señalamiento de la hora en la que, dentro del día siguiente, deberá esperar la notificación.
+I. La Administración Municipal deberá consultar los antecedentes de cualquier aspirante en el Registro Nacional antes de que se autorice su ingreso a las mismas;
 
-Al día siguiente, en la hora fijada en el citatorio, el notificador se constituirá nuevamente en el domicilio y si el interesado no se encuentra se asentará la razón correspondiente. En estos casos, previa autorización, se notificará por instructivo y lista.
+II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el centro de control de confianza respectivo;
 
-###### Artículo 81.
+III. Ninguna persona podrá ingresar a los Cuerpos de Seguridad si no ha sido debidamente certificado y registrado en el Sistema;
 
-Si se desconoce el domicilio del probable responsable que debe ser notificado personalmente, por no corresponder al que se tiene registrado en su expediente, se dará cuenta a la Secretaría o a la Contraloría, según sea el caso, para que dicten las medidas que estimen pertinentes, con el propósito de que se investigue su domicilio. Si a pesar de la investigación no se logra conocerlo, el procedimiento se suspenderá de oficio, atendiendo lo dispuesto en el artículo 138, fracción II, de este Acuerdo.
+IV. Sólo ingresarán y permanecerán en los Cuerpos de Seguridad, aquellos aspirantes e integrantes que cursen y aprueben los programas de formación, capacitación, profesionalización y certificación;
 
-###### Artículo 82.
+V. La permanencia de los integrantes en los Cuerpos de Seguridad está condicionada al cumplimiento de los requisitos que determine la Ley y el presente Reglamento;
 
-La primera notificación a las personas que intervengan se llevará a cabo de forma personal, así como todas aquéllas en que así se determine.
+VI. Los méritos de los integrantes de los Cuerpos de Seguridad serán evaluados por las instancias encargadas de determinar las promociones y verificar que se cumplan los requisitos de permanencia, señaladas en las leyes respectivas;
 
-###### Artículo 83.
+VII. Para la promoción de los integrantes de los Cuerpos de Seguridad se deberán considerar, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo; y
 
-La notificación de las resoluciones que pongan fin al procedimiento de responsabilidad administrativa se hará personalmente, y se entregará al servidor público correspondiente copia certificada de la resolución.
+VIII. Los integrantes podrán ser cambiados de adscripción, con base en las necesidades del servicio.
 
-###### Artículo 84.
+###### ARTÍCULO 69.
 
-Durante la audiencia podrán realizarse notificaciones personales de manera verbal, lo que se hará constar en acta.
+Las jerarquías que integran la carrera policial serán las siguientes:
 
-###### Artículo 85.
+I. Comisario;
 
-Las notificaciones por lista se practicarán fijando en lugar visible de las oficinas de la Secretaría, de la Contraloría, o del órgano auxiliar instructor, según corresponda, la lista relativa al asunto acordado, donde únicamente se expresarán el número del expediente y un extracto del acuerdo o resolución que deba notificarse, y se asentará constancia de ese hecho en los expedientes respectivos.
+II. Inspector;
 
-En los asuntos en que se designe un órgano auxiliar instructor la lista deberá fijarse únicamente en sus estrados.
+III. Subinspector;
 
-La notificación se tendrá por hecha al tercer día en que se fije la lista.
+IV. Oficial;
 
-###### Artículo 86.
+V. Suboficial;
 
-En las notificaciones por oficio, mensajería, telegrama y medios electrónicos se precisará la denominación del órgano que dictó el acuerdo que se notifica, los datos del expediente en el cual se dictó y el extracto o transcripción del acuerdo que se notifica.
+VI. Policía Primero;
 
-###### Artículo 87.
+VII. Policía Segundo;
 
-Las notificaciones a las personas morales oficiales se realizarán por oficio.
+VIII. Policía Tercero; y
 
-###### Artículo 88.
+IX. Policía Raso.
 
-Las notificaciones por fax o correo electrónico, podrán realizarse si la persona manifiesta expresamente su voluntad para que se le notifique por ese medio y proporciona el número telefónico o la dirección de correo electrónico, sin perjuicio de que si no se recibe confirmación de recepción en el término de las veinticuatro horas siguientes, se le notificará personalmente.
+### CAPITULO II. DE LA PERMANENCIA EN EL SERVICIO
 
-###### Artículo 89.
+###### ARTÍCULO 70.
 
-Las notificaciones por mensajería se realizarán a través de alguna empresa especializada que proporcione un acuse con el que se acredite que la comunicación relativa fue recibida por el destinatario o, en su caso, en el que se asiente la razón por la que ésta no pudo ser entregada.
+La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la Ley y en el (sic) éste Reglamento para continuar en el servicio activo de las Instituciones Policiales. Son requisitos de ingreso y permanencia en las Instituciones Policiales, los siguientes:
 
-#### SECCIÓN TERCERA. CITACIONES
+A. De Ingreso:
 
-###### Artículo 90.
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
 
-Toda persona está obligada a presentarse ante el Consejo o el órgano auxiliar instructor competente, cuando sea citada de manera fundada y motivada, a menos que no pueda hacerlo por causa debidamente justificada.
+II. Ser de notoria buena conducta, no haber sido condenado por sentencia ejecutoria por delito doloso, ni estar sujeto a proceso penal;
 
-###### Artículo 91.
+III. En su caso, tener acreditado el Servicio Militar Nacional;
 
-Las citaciones se realizarán por cédula, las cuales serán notificadas personalmente o a través de otro medio comprendido en las secciones precedentes, con excepción de la notificación por lista.
+IV. Acreditar que ha concluido los estudios de enseñanza media básica;
 
-###### Artículo 92.
+V. Aprobar el concurso de ingreso y los cursos de formación;
 
-La cédula deberá contener:
+VI. Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
 
-I. Denominación del órgano ante el que debe presentarse el citado;
+VII. Aprobar los procesos de evaluación de control de confianza;
 
-II. Nombre, apellido y domicilio del citado;
+VIII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-III. Día, hora y lugar en que debe comparecer;
+IX. No padecer alcoholismo;
 
-IV. Objeto de la citación;
+X. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-V. Medio de apremio que, en su caso, se empleará si no comparece; y
+XI. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
 
-VI. Firma del servidor público que ordena la citación.
+XII. Cumplir con los deberes establecidos en la Ley y éste Reglamento; y
 
-###### Artículo 93.
+XIII. Los demás que establezcan otras disposiciones legales aplicables.
 
-Tratándose de servidores públicos, el Consejo o el órgano auxiliar instructor podrán ordenar que la citación se realice por conducto del superior jerárquico respectivo.
+B. De Permanencia:
 
-#### SECCIÓN CUARTA. NULIDAD
+I. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso;
 
-###### Artículo 94.
+II. Mantener actualizado su Certificado Único Policial;
 
-Las notificaciones que no se hagan en la forma que establecen las disposiciones precedentes serán nulas. Los interesados podrán pedir dicha nulidad, antes de dictarse la resolución en el expediente que motivó la notificación, a fin de reponer el procedimiento.
+III. No superar la edad máxima de retiro que establezcan las disposiciones aplicables;
 
-Este incidente no suspenderá el procedimiento, se tramitará en una sola audiencia en la que se recibirán pruebas, oirán alegatos y dictará resolución.
+IV. Acreditar que ha concluido los estudios de enseñanza media básica;
 
-Las promociones de nulidad notoriamente improcedentes se desecharán de plano.
+V. Aprobar los cursos de formación, capacitación y profesionalización;
 
-#### SECCIÓN QUINTA. MEDIDAS CAUTELARES
+VI. Aprobar los procesos de evaluación de control de confianza;
 
-###### Artículo 95.
+VII. Aprobar las evaluaciones del desempeño;
 
-En cualquier etapa de la investigación o procedimiento de responsabilidad administrativa, el órgano competente podrá dictar medidas cautelares, debidamente fundadas y motivadas, las cuales no prejuzgarán sobre la responsabilidad que se imputa, lo que se hará constar expresamente en la determinación, y cesarán cuando así se resuelva.
+VIII. Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables;
 
-###### Artículo 96.
+IX. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-Durante la investigación, o una vez iniciado el procedimiento de responsabilidad administrativa, el Pleno o la Comisión, previo dictamen de la Secretaría o la Contraloría, podrán determinar como medida cautelar la suspensión temporal del servidor público en su cargo, empleo o comisión, en cuyo caso estará imposibilitado para ocupar un cargo, empleo o comisión diverso en el Poder Judicial de la Federación hasta en tanto se resuelva lo conducente.
+X. No padecer alcoholismo;
 
-En tal supuesto, se suspenderá total o parcialmente el pago de remuneraciones y prestaciones al servidor público, conforme el Pleno o la Comisión lo estimen pertinente.
+XI. Someterse a exámenes para comprobar la ausencia de alcoholismo;
 
-###### Artículo 97.
+XII. Someterse a exámenes para comprobar el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-La suspensión temporal surtirá efectos desde el momento de su notificación.
+XIII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
 
-La resolución que determine la suspensión temporal de un servidor público, se notificará personalmente por conducto del servidor público que al efecto se designe.
+XIV. No ausentarse del servicio, sin causa justificada, por un periodo de tres días consecutivos o de cuatro días dentro de un término de treinta días, y
 
-###### Artículo 98.
+XV. Las demás que establezcan las disposiciones legales aplicables.
 
-Cuando se decrete la suspensión temporal del servidor público, el órgano competente que dicte la medida, determinará si debe continuar recibiendo alguna remuneración económica y fijará, en su caso, el monto de la misma.
+###### ARTÍCULO 71.
 
-La remuneración económica se determinará en cantidad líquida, tomando en consideración la gravedad de la conducta que se imputa, las obligaciones económicas que tenga a su cargo el servidor público en cumplimiento de resolución emitida por autoridad judicial, y las circunstancias especiales del caso, como las necesidades del probable responsable y las de sus dependientes económicos.
+La edad límite para permanecer en el activo de la policía preventiva, policía de transito y grupos tácticos de intervención o reacción es la siguiente:
 
-###### Artículo 99.
+Categoría Años
 
-El monto de la remuneración económica que se otorgue al servidor público suspendido será aquel que determine el Pleno.
+I. Para la categoría Policía Raso 52
 
-###### Artículo 100.
+II. Para la categoría Policía Tercero 53
 
-Se informará a la Dirección General de Recursos Humanos el monto asignado, a fin de que proceda como corresponda, así como a la Dirección General de Programación y Presupuesto, con el objeto de que establezca las medidas necesarias para crear los pasivos presupuestales que permitan garantizar el reintegro de la parte proporcional de las percepciones económicas que se dejen de pagar al servidor público.
+III. Para la categoría Policía Segundo 54
 
-###### Artículo 101.
+IV. Para la categoría Policía Primero 56
 
-El órgano competente que determine el otorgamiento de la remuneración económica al servidor público suspendido, podrá dejar sin efectos esa determinación cuando éste deje de asistir al procedimiento sin causa justificada o exista imposibilidad para notificarlo; circunstancia que se hará del conocimiento de la Dirección General de Recursos Humanos, así como de la Dirección General de Programación y Presupuesto, para los efectos procedentes.
+V. Para la Suboficiales 58
 
-###### Artículo 102.
+VI. Para los Oficiales 60
 
-Cuando se determine imponer al servidor público suspendido sanción definitiva de suspensión, destitución o inhabilitación, no se le pagarán las percepciones económicas retenidas que dejaron de cubrírsele y se cancelarán los pasivos creados, lo que se informará a la Dirección General de Programación y Presupuesto, para los efectos procedentes.
+VII. Para los Subinspectores 61
 
-###### Artículo 103.
+VIII. Para los Inspectores 63
 
-En ningún caso podrá exigirse el reintegro del monto de la percepción económica otorgada durante la suspensión.
+IX. Para los Comisarios 65
 
-###### Artículo 104.
+###### ARTÍCULO 72.
 
-En caso de que en la resolución se determine la improcedencia de la queja o denuncia, o éstas resulten infundadas, se reintegrará al servidor público el total de las percepciones económicas que dejó de percibir a la fecha en que fue decretada la suspensión temporal, considerando los incrementos autorizados.
+La Secretaría de Seguridad como responsable del Servicio de Carrera Policial fomentará la vocación de servicio mediante la promoción y permanencia en las Instituciones Policiales para satisfacer las expectativas de desarrollo profesional de sus integrantes.
 
-En los casos en que la sanción impuesta sea apercibimiento privado o público, amonestación privada o pública, o sanción económica, se cubrirán al servidor público las percepciones económicas que se le hayan dejado de cubrir y se cancelarán los pasivos creados, sin que puedan incluirse aquellas percepciones económicas cuyo pago esté condicionado al ejercicio efectivo del servicio público o funciones inherentes al cargo.
+### CAPITULO III. DE LAS PROMOCIONES
 
-###### Artículo 105.
+###### ARTICULO 73.
 
-Los órganos competentes para conocer de las responsabilidades administrativas de los servidores públicos son los siguientes:
+La promoción es el acto mediante el cual se otorga a los integrantes de los Cuerpos de Seguridad, el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en las disposiciones legales aplicables.
 
-I. El Pleno para ordenar de oficio el inicio de investigaciones y procedimientos de responsabilidad administrativa contra magistrados de Circuito y jueces de Distrito; y contra los servidores públicos adscritos a las áreas administrativas y órganos jurisdiccionales, y resolverlos en los casos previstos en este Acuerdo;
+Las promociones sólo podrán conferirse atendiendo a la normatividad aplicable y cuando exista una vacante para la categoría jerárquica superior inmediata correspondiente a su grado.
 
-II. El Presidente para ordenar el inicio de investigaciones y procedimientos de responsabilidad administrativa contra magistrados de Circuito y jueces de Distrito, en los casos en los que las probables responsabilidades se hayan hecho de su conocimiento mediante queja o denuncia, así como para proveer lo necesario para su trámite;
+Al personal que sea promovido, le será ratificada su nueva categoría jerárquica mediante la expedición de la constancia de grado correspondiente.
 
-III. La Comisión para ordenar el inicio de investigaciones y procedimientos de responsabilidad administrativa contra servidores públicos adscritos a las áreas administrativas y órganos jurisdiccionales, con excepción de magistrados de Circuito y jueces de Distrito, y respecto de quejas o denuncias cuyo trámite se estime dudoso o trascendente, y para resolver los procedimientos de responsabilidad administrativa en los términos de este Acuerdo;
+Para ocupar un grado dentro de las Instituciones Policiales, se deberán reunir los requisitos establecidos por la Ley y éste Reglamento.
 
-IV. La Secretaría para llevar a cabo las investigaciones y el trámite de los procedimientos de responsabilidad administrativa contra magistrados de Circuito y jueces de Distrito, servidores públicos adscritos a órganos jurisdiccionales y a la Contraloría, y el Director General del Instituto Federal de Defensoría Pública;
+###### ARTÍCULO 74.
 
-V. La Contraloría para ordenar y tramitar investigaciones y procedimientos de responsabilidad administrativa contra servidores públicos adscritos a las áreas administrativas, incluyendo a sus titulares; y
+La antigüedad del personal adscrito se clasificará y computará de la siguiente forma:
 
-VI. Los magistrados de Circuito y jueces de Distrito para auxiliar al Consejo y a la Contraloría en el trámite del procedimiento de responsabilidad administrativa contra servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas.
+I. Antigüedad en el servicio, a partir de la fecha de su ingreso a los Cuerpos de Seguridad, y
 
-###### Artículo 106.
+II. Antigüedad en el grado, a partir de la fecha señalada en la constancia o patente de grado correspondiente.
 
-Cuando de un mismo acto se derivan causas de responsabilidad administrativa en contra de servidores públicos adscritos a órganos distintos, el trámite del procedimiento de responsabilidad administrativa respecto de todos los involucrados corresponde a la Secretaría.
+La antigüedad contará hasta el momento en que esta calidad deba determinarse para los efectos de la Carrera Policial.
 
-###### Artículo 107.
+###### ARTÍCULO 75.
 
-En los procedimientos de responsabilidad administrativa en contra de un magistrado de Circuito o juez de Distrito, o en los que concurran éstos y otro servidor público del Poder Judicial de la Federación, se deberá observar lo siguiente:
+El personal adscrito a los Cuerpos de Seguridad que haya alcanzado la edad límite para la permanencia, previstas en las disposiciones que los rijan, podrán ser reubicados, a consideración de las instancias, en otras áreas de los servicios de las propias instituciones.
 
-I. Corresponde al Pleno o al Presidente, ordenar a la Secretaría el inicio de la investigación. Si como resultado de la investigación se advirtieran posibles causas de responsabilidad, corresponderá al Pleno o al Presidente ordenar el respectivo procedimiento de responsabilidad administrativa;
+### CAPITULO IV. DE LA CERTIFICACION
 
-II. Para el inicio del procedimiento de responsabilidad administrativa, no se requerirá investigación alguna si hubieren elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público involucrado;
+###### ARTÍCULO 76.
 
-III. La Secretaría tramitará el procedimiento de responsabilidad administrativa y turnará el asunto al Consejero que corresponda para que éste elabore el proyecto de resolución respectivo, el cual será sometido a la consideración del Pleno o de la Comisión, según corresponda; y
+La certificación es el proceso mediante el cual los integrantes de los Cuerpos de Seguridad se someten a las evaluaciones periódicas establecidas por el Centro de Control de Confianza correspondiente, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
 
-IV. El Pleno será competente para resolver los procedimientos de responsabilidad administrativa en los que se proponga imponer una sanción, en los demás casos resolverá la Comisión.
+El Municipio mantendrá en servicio únicamente al personal adscrito que cuente con el requisito de certificación expedido por su centro de control de confianza respectivo.
 
-###### Artículo 108.
+###### ARTÍCULO 77.
 
-En los procedimientos de responsabilidad administrativa en contra de servidores públicos adscritos a órganos jurisdiccionales, se deberá observar lo siguiente:
+La certificación tiene por objeto:
 
-I. Es facultad originaria del Consejo conocer de los procedimientos de responsabilidad administrativa contra servidores públicos adscritos a órganos jurisdiccionales;
+A.- Reconocer habilidades, destrezas, actitudes, conocimientos generales y específicos para desempeñar sus funciones, conforme a los perfiles aprobados por el Consejo Nacional;
 
-II. Para efectos del trámite del procedimiento de responsabilidad administrativa, el Consejo se apoyará del órgano auxiliar instructor, sin perjuicio de que lo tramite directamente;
+B.- Identificar los factores de riesgo que interfieran, repercutan o pongan en peligro el desempeño de las funciones policiales, con el fin de garantizar la calidad de los servicios, enfocándose a los siguientes aspectos del personal adscrito a los Cuerpos de Seguridad:
 
-III. La Secretaría de oficio, por queja o denuncia, dará cuenta a la Comisión para que ésta resuelva sobre el inicio de la investigación a cargo de la propia Secretaría, o bien, ordenará el inicio del procedimiento de responsabilidad administrativa si hay elementos para establecer la existencia de la infracción y presumir la responsabilidad del servidor público involucrado;
+I. Cumplimiento de los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
 
-IV. Para el inicio del procedimiento de responsabilidad administrativa, no se requerirá investigación alguna si hubieren elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público involucrado;
+II. Observancia de un desarrollo patrimonial justificado, en el que sus egresos guarden adecuada proporción con sus ingresos;
 
-V. La Comisión determinará el órgano jurisdiccional que auxiliará a la Secretaría en el trámite del procedimiento de responsabilidad administrativa; y
+III. Ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-VI. Agotado el trámite, la Secretaría turnará el asunto al Consejero que corresponda para que éste elabore el proyecto de resolución que someterá a consideración de la Comisión.
+IV. Ausencia de vínculos con organizaciones delictivas;
 
-###### Artículo 109.
+V. Notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal y no estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público, y
 
-En los procedimientos de responsabilidad administrativa en contra de servidores públicos adscritos a las áreas administrativas, incluyendo a sus titulares, se deberá observar lo siguiente:
+VI. Cumplimiento de los deberes establecidos en la Ley y en éste Reglamento
 
-I. La Contraloría podrá iniciar la investigación de oficio, por queja o denuncia, o cuando así lo ordene el Pleno o la Comisión, y si como resultado de aquélla, se advierten probables causas de responsabilidad, deberá iniciar el procedimiento de responsabilidad administrativa;
+### CAPITULO V. DE LA PROFESIONALIZACION
 
-II. Cuando la Contraloría inicie una investigación o procedimiento de responsabilidad administrativa en contra de servidores públicos nombrados por el Pleno, lo hará de su conocimiento e informará de los resultados obtenidos en la investigación;
+###### ARTÍCULO 78.
 
-III. Para el inicio del procedimiento de responsabilidad administrativa, no se requerirá investigación alguna si hay elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público involucrado;
+La Profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de los Cuerpos de Seguridad.
 
-IV. La Contraloría tramitará el procedimiento de responsabilidad administrativa y someterá el proyecto de resolución a la Comisión; tratándose de titulares de áreas administrativas, ésta deberá informarlo al Pleno; y
+Los planes de estudio para la Profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza aprendizaje que estarán comprendidos en el programa rector que se aprueben conforme a las disposiciones legales aplicables.
 
-V. Para el trámite del procedimiento de responsabilidad administrativa, la Contraloría podrá solicitar el auxilio de los titulares de órganos jurisdiccionales.
+###### ARTÍCULO 79.
 
-###### Artículo 110.
+Los requisitos para participar en la promoción serán los siguientes:
 
-En los procedimientos de responsabilidad administrativa en contra de servidores públicos de la Contraloría, se deberá observar lo siguiente:
+I. Perfil y capacidad;
 
-I. La Secretaría podrá iniciar la investigación de oficio, por queja o denuncia, o cuando así lo ordene el Pleno o la Comisión, y si como resultado de ésta, advierte probables causas de responsabilidad, someterá a la consideración de la Comisión el inicio del procedimiento de responsabilidad administrativa;
+II. Acreditar la aprobación de los exámenes:
 
-II. Tratándose del titular de la Contraloría, la Secretaría dará cuenta al Pleno para que éste resuelva sobre el inicio de la investigación a cargo de la propia Secretaría, o bien, ordene el inicio del procedimiento de responsabilidad administrativa;
+a) De aptitud psicológica;
 
-III. Para el inicio del procedimiento de responsabilidad administrativa, no se requerirá investigación alguna si hubieren elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público involucrado;
+b) Médico toxicológico; y
 
-IV. La Secretaría tramitará el procedimiento de responsabilidad administrativa y someterá el proyecto de resolución a la Comisión; y
+c) De conocimientos generales.
 
-V. Una vez agotado el trámite, tratándose del titular de la Contraloría, la Secretaría turnará el asunto al Consejero que corresponda para que elabore el proyecto de resolución que será sometido a consideración del Pleno.
+III. Antigüedad en la corporación;
 
-###### Artículo 111.
+IV. Conducta;
 
-Los procedimientos de responsabilidad administrativa de los servidores públicos del Instituto Federal de Defensoría Pública, serán resueltos conforme a las disposiciones aplicables. Tratándose del titular de dicho Instituto, se seguirá en lo conducente lo dispuesto en el artículo anterior.
+V. Méritos especiales;
 
-###### Artículo 112.
+VI. Aprobar los cursos correspondientes.
 
-De acuerdo con lo dispuesto en los artículos 109, fracción III y 113 de la Constitución, la Ley Orgánica, la Ley de Responsabilidades, y este Acuerdo, el Pleno podrá ordenar el inicio del procedimiento de responsabilidad administrativa de conformidad con este Acuerdo, cuando al emitir una resolución en materia de conflictos laborales, en términos del artículo 81, fracción XXV, de la Ley Orgánica, advierta que el titular de un órgano jurisdiccional o área administrativa cesó o despidió a un servidor público en notoria contravención a las disposiciones aplicables y con error, mala fe o evidente descuido.
+Para la promoción, se deberán considerar además, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo; así mismo el aspirante deberá tener actualizado el Certificado Único Policial, que expedirá el Centro de Control de Confianza respectivo.
 
-El monto que se exija al servidor público por concepto del daño o perjuicio causado al Poder Judicial de la Federación, formará parte de la sanción económica que se aplique.
+###### ARTÍCULO 80.
 
-Para la ejecución de la sanción económica que se imponga, se ordenará a la Dirección General de Recursos Humanos que aplique los descuentos quincenales que correspondan, los que no podrán exceder del veinticinco por ciento del sueldo del servidor público respectivo, hasta en tanto se cubra el monto determinado por el Pleno.
+La conducta del personal adscrito será acreditada de la siguiente forma:
 
-En caso que el sancionado ya no preste servicios en el Poder Judicial de la Federación, se estará a lo dispuesto por el artículo 173, fracción III, de este Acuerdo.
+I. Conducta Profesional: Será acreditado para los efectos de este Reglamento, con el kardex del personal adscrito; y
 
-###### Artículo 113.
+II. Conducta Ciudadana: Será acreditada a través de una investigación que se realizará con los vecinos de la zona de su adscripción
 
-Los órganos competentes para ejercer las atribuciones correspondientes al registro, seguimiento y declaración de la situación patrimonial de los servidores públicos, así como de los procedimientos de responsabilidad administrativa que se inician por este motivo, serán los siguientes:
+###### ARTÍCULO 81.
 
-I. El Pleno para ordenar el inicio de investigaciones y resolver los procedimientos de responsabilidad administrativa que se lleven a cabo en contra de Consejeros;
+Los exámenes de conocimientos generales de la actividad policial en materias técnico-operativos, abarcarán, entre otras áreas, las siguientes:
 
-II. La Comisión para ordenar el inicio de investigaciones y resolver los procedimientos de responsabilidad administrativa que se lleven a cabo en contra de titulares de órganos jurisdiccionales y de áreas administrativas; visitadores judiciales, secretarios técnicos de ponencia de Consejero, secretarios particulares de Consejero, y todos los servidores públicos de la Contraloría;
+I. Cursos de adiestramiento y capacitación;
 
-III. La Contraloría para llevar el registro, control, análisis y seguimiento de la situación patrimonial de los servidores públicos considerados en el artículo 33 de este Acuerdo, para ordenar el inicio de investigaciones, tramitar los procedimientos de responsabilidad administrativa de oficio o cuando así lo ordenen el Pleno o la Comisión, y resolver aquellos que se lleven a cabo en contra de los servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas no considerados en las fracciones anteriores; y
+II. Mediante examen de conocimientos, aptitudes y destrezas;
 
-IV. La Secretaría para tramitar los procedimientos de responsabilidad administrativa que se lleven a cabo en contra de servidores públicos de la Contraloría.
+III. Básico de cómputo; y
 
-###### Artículo 114.
+Técnicas de función policial.
 
-Los procedimientos de responsabilidad administrativa que se inicien con motivo de la declaración de situación patrimonial deberán tramitarse y resolverse de conformidad con este Acuerdo.
+###### ARTÍCULO 82.
 
-Cuando la Contraloría observe incumplimiento por parte de los servidores públicos, emitirá el dictamen correspondiente, el que se someterá a la consideración del órgano competente para que determine lo procedente.
+El examen médico será practicado por médicos y comprenderá:
 
-###### Artículo 115.
+I. Examen de salud; y
 
-En caso de incumplimiento de los servidores públicos considerados en la fracción III del artículo 33 de este Acuerdo, la Contraloría deberá informar a su similar del Tribunal Electoral y le remitirá la documentación correspondiente para que ésta proceda conforme a sus atribuciones.
+II. Examen toxicológico.
 
-###### Artículo 116.
+###### ARTÍCULO 83.
 
-El Pleno y la Comisión ejercerán en forma exclusiva y de conformidad con la competencia señalada en el artículo 113, fracciones I y II, de este Acuerdo, las siguientes atribuciones y facultades:
+El examen de aptitudes físicas comprenderá las siguientes pruebas:
 
-I. Ordenar la práctica de investigaciones, auditorías y visitas de inspección, cuando los signos exteriores de riqueza son ostensible y notoriamente superiores a los ingresos lícitos que puede tener el servidor público;
+I. Resistencia;
 
-II. Resolver lo que proceda con relación a las investigaciones y auditorías que ordene, así como lo relativo a las solicitudes de información formuladas por las autoridades legalmente facultadas para ello;
+II. Flexibilidad;
 
-III. Hacer declaratoria ante el Ministerio Público de la Federación de que el servidor público sujeto a investigación no justificó la procedencia del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquellos sobre los que se conduce como dueño, durante el tiempo o por motivo de su cargo; y
+III. Velocidad; y
 
-IV. Ordenar el inicio de los procedimientos de responsabilidad administrativa, resolverlos y revisarlos en términos de lo previsto en este Acuerdo.
+IV. Fuerza.
 
-###### Artículo 117.
+###### ARTÍCULO 84.
 
-El titular de la Contraloría tendrá las siguientes atribuciones en materia de situación patrimonial, de conformidad con su competencia, señalada en el artículo 113, fracción III, de este Acuerdo:
+El examen psicológico comprenderá psicometrías enfocadas a la personalidad, adaptabilidad al puesto e inteligencia, para determinar la capacidad y aptitud para desempeñarse en el nuevo grado.
 
-I. Ordenar la práctica de investigaciones y auditorías cuando del análisis de las declaraciones de situación patrimonial aparece causa justificada para ello;
+###### ARTÍCULO 85.
 
-II. Iniciar, tramitar y resolver los procedimientos de responsabilidad administrativa de oficio, o cuando así lo ordenen el Pleno o la Comisión, en términos de lo previsto en este Acuerdo;
+Para participar en la promoción del grado inmediato superior al que aspire el personal adscrito, además de cumplir con los requisitos previstos en el presente Reglamento, deberán cumplir con lo siguiente:
 
-III. Llevar de conformidad con la Ley de Responsabilidades y este Acuerdo, el registro, control, análisis y seguimiento de la situación patrimonial;
+I. Para ascender de Policía Raso a Policía Tercero tener como mínimo 2 años de antigüedad en el grado;
 
-IV. Rendir a la Comisión informe sobre el resultado del análisis de las declaraciones de modificación patrimonial, realizadas de manera aleatoria, el que deberá presentarse con la periodicidad que determine la Comisión, y los demás informes que considere la Contraloría;
+II. Para ascender de Policía Tercero a Policía Segundo tener como mínimo 2 años de antigüedad en el grado;
 
-V. Practicar en términos de lo dispuesto en los artículos 121 a 127 de este Acuerdo, las investigaciones que estime necesarias o las que, en su caso, le sean ordenadas por el Pleno, el Presidente o la Comisión;
+III. Para ascender de Policía Segundo a Policía Primero tener como mínimo 2 años de antigüedad en el grado;
 
-VI. Comunicar al Pleno, al Presidente o a la Comisión, según corresponda, los resultados de las investigaciones y auditorías practicadas;
+IV. Para ascender de Policía Primero a Suboficial tener como mínimo 3 años de antigüedad en el grado;
 
-VII. Informar semestralmente a la Comisión de los procedimientos de responsabilidad administrativa que resuelva, o antes, si la importancia del asunto lo amerita;
+V. Para ascender de Suboficial a Oficial tener como mínimo 3 años de antigüedad en el grado;
 
-VIII. Llevar el registro de los bienes a que se refiere el artículo 45 de la Ley de Responsabilidades; y
+VI. Para ascender de Oficial a Subinspector tener como mínimo 3 años de antigüedad en el grado; y
 
-IX. Solicitar a los servidores públicos, en cualquier tiempo, aclaren información en torno al contenido de sus declaraciones de situación patrimonial, en términos de lo establecido en el artículo 43 de este Acuerdo.
+VII. Para ascender de Subinspector a Inspector tener como mínimo 5 años de antigüedad en el grado.
 
-###### Artículo 118.
+### CAPITULO VI. DE LOS NOMBRAMIENTOS
 
-La Secretaría tendrá las siguientes atribuciones en materia de situación patrimonial, de conformidad con la competencia establecida en el artículo 113, fracción IV, de este Acuerdo:
+###### ARTÍCULO 86.
 
-I. Practicar investigaciones cuando así lo ordene la Comisión;
+El grado que ostenten los policías será acreditado por un nombramiento que se expedirá a cada uno de los interesados.
 
-II. Tramitar los procedimientos de responsabilidad administrativa, previo acuerdo de la Comisión y en términos de lo previsto en este Acuerdo;
+### CAPITULO VII. DE LOS RECONOCIMIENTOS
 
-III. Poner a consideración de la Comisión el proyecto de resolución; y
+###### ARTÍCULO 87.
 
-IV. Remitir la información correspondiente a la Contraloría para efectos de control y registro.
+El régimen de estímulos es el mecanismo por el cual el personal adscrito recibe el reconocimiento público por actos de servicio meritorios o por su trayectoria ejemplar.
 
-###### Artículo 119.
+Todo estímulo otorgado será acompañado de una constancia que lo acredite, la cual deberá ser integrada al kardex del personal adscrito y en su caso, con la autorización de portación de la condecoración o distintivo correspondiente.
 
-Si concluida la investigación prevista en el artículo 117, fracción V, de este Acuerdo, los resultados obtenidos revelan alguna incongruencia en relación con los bienes que integran el patrimonio de un servidor público, en términos de lo previsto en el artículo 42 de la Ley de Responsabilidades, la Contraloría lo citará personalmente y le hará saber dichas incongruencias, para que dentro del plazo de treinta días hábiles contados a partir de la recepción del citatorio, formule las aclaraciones pertinentes, para lo que podrá ofrecer pruebas documentales.
+# LIBRO SEPTIMO. DE LA SEGURIDAD Y PROTECCION DE LOS SERVIDORES PUBLICOS MUNICIPALES
 
-La Contraloría analizará las referidas aclaraciones y dentro de los quince días hábiles siguientes deberá concluir el informe respectivo el cual, en su caso, someterá a consideración del órgano que haya ordenado la investigación correspondiente.
+## TITULO UNICO. OBJETO Y SUJETOS DE LA SEGURIDAD Y PROTECCION DE LOS SERVIDORES PUBLICOS
 
-El informe podrá servir de base para iniciar el procedimiento de responsabilidad administrativa en términos de lo previsto en los artículos 128 y siguientes de este Acuerdo.
+### CAPITULO UNICO. SEGURIDAD Y PROTECCION DE LOS SERVIDORES PUBLICOS
 
-###### Artículo 120.
+###### ARTÍCULO 88.
 
-Cuando en el ámbito de sus respectivas competencias, el Pleno, el Presidente, la Comisión o, en su caso, la Contraloría, estimen que existen elementos para considerar la probable responsabilidad de algún servidor público en materia de seguimiento de su situación patrimonial, iniciarán procedimiento de responsabilidad administrativa y, en su caso, declararán y comunicarán formalmente al Ministerio Público de la Federación que en la investigación se encontraron elementos que acreditan un incremento sustancial no justificado del patrimonio de dicho servidor, y que éste pudo haber incurrido en la comisión de algún delito.
+El Presidente Municipal y el Secretario de Seguridad gozarán de protección tres años a partir de la conclusión de su encargo, acorde con lo que prescribe el segundo párrafo del artículo 57 de la Ley.
 
-###### Artículo 121.
+###### ARTÍCULO 89.
 
-Antes del inicio del procedimiento de responsabilidad administrativa o durante su tramitación, el Pleno, el Presidente, la Comisión y el titular de la Contraloría, en el ámbito de sus respectivas competencias, podrán ordenar la práctica de investigaciones conducentes para el esclarecimiento de las conductas probablemente constitutivas de responsabilidad administrativa.
+El derecho de la protección se perderá en el caso de que el beneficiario asuma un cargo público con motivo del cual le sea asignada protección o sea sujeto a proceso por el delito de delincuencia organizada.
 
-###### Artículo 122.
+###### ARTÍCULO 90.
 
-La ejecución de las investigaciones estará a cargo de la Secretaría, la Contraloría, a través de la Dirección de Responsabilidades, la Visitaduría Judicial o, el órgano auxiliar instructor que se designe para tal efecto.
+Al Presidente Municipal y al Secretario de Seguridad, se les asignarán cuando menos dos custodios.
 
-Dos o más de estos órganos ejecutores en el ámbito de sus atribuciones podrán tener tal carácter en una investigación.
+###### ARTÍCULO 91.
 
-Para el trámite de la investigación se aplicará en lo conducente el Título Tercero de éste Acuerdo.
+El R. Ayuntamiento autorizará la protección que deben de recibir los servidores públicos a los que se refiere el artículo 56 de la Ley.
 
-###### Artículo 123.
+###### ARTÍCULO 92.
 
-El acuerdo que ordena la investigación deberá expresar las circunstancias que la justifiquen, sin extenderse a hechos distintos de los señalados en el mismo.
+Corresponde al Republicano Ayuntamiento establecer el número de custodios que corresponde asignar al o los servidores públicos, a excepción de los asignados al Presidente y Secretario de Seguridad.
 
-Si durante la investigación se descubren otros hechos probablemente constitutivos de responsabilidad, podrá ordenarse el inicio de una nueva investigación.
+###### ARTÍCULO 93.
 
-Asimismo, el encargado de la investigación podrá solicitar al órgano que la ordenó autorización para ampliarla, siempre y cuando no varíen los hechos directos o conexos materia de la misma.
+Los custodios quedarán a las órdenes de los custodiados a los que fueron asignados.
 
-###### Artículo 124.
+###### ARTÍCULO 94.
 
-Quien decretó el inicio de la investigación o el encargado de su trámite podrán ordenar la práctica de todas aquellas actuaciones y diligencias para mejor proveer, que sean conducentes para el esclarecimiento de los hechos materia de investigación, sin más limitación que lo previsto en las disposiciones aplicables.
+El Republicano Ayuntamiento decidirá el equipamiento con que deberán contar los custodios.
 
-El servidor público investigado podrá imponerse del contenido de las diversas actuaciones y allegar medios de convicción.
+###### ARTÍCULO 95.
 
-El promovente podrá aportar al órgano encargado, información y medios de prueba, pero éste podrá desestimarlas conforme a derecho.
+Previa a la designación de custodios, el Republicano Ayuntamiento deberá escuchar al servidor público sobre los motivos para su solicitud.
 
-###### Artículo 125.
+ARTÍCULO 96 La Secretaría de Seguridad proporcionará el personal y el equipo necesario para la protección de los servidores públicos, previa aprobación del Republicano Ayuntamiento.
 
-Al servidor público que se le solicite información o documentación con motivo de una investigación, deberá proporcionarla en los términos solicitados y en un plazo que no podrá exceder de diez días hábiles, mismo que podrá ser prorrogado hasta por diez días hábiles más, a solicitud justificada de aquél.
+###### ARTÍCULO 97.
 
-Si lo requerido no se rinde conforme a lo solicitado, previo apercibimiento, se aplicarán los medios de apremio previstos en la Ley de Responsabilidades y, en su caso, se requerirá al superior jerárquico.
+Los custodios asignados al Ex Presidente Municipal y al Ex Secretario de Seguridad deberán ser cambiados a solicitud de éstos.
 
-###### Artículo 126.
+# LIBRO OCTAVO. DEL CONSEJO CIUDADANO DE SEGURIDAD MUNICIPAL
 
-El encargado de la investigación deberá tomar las medidas necesarias para preservar la materia de la investigación o evitar que se pierdan, oculten, destruyan o alteren los elementos relacionados con los hechos investigados.
+## TITULO PRIMERO. DEL CONSEJO CIUDADANO
 
-Asimismo, podrá acordar las medidas para conocer a los involucrados y testigos de esos hechos, evitar que éstos se sigan cometiendo y, en general, para facilitar la realización de la investigación.
+### CAPITULO UNICO. OBJETO Y DISPOSICIONES GENERALES
 
-###### Artículo 127.
+###### ARTÍCULO 98.
 
-La investigación deberá realizarse en un plazo no mayor a seis meses, salvo acuerdo expreso de quien la haya ordenado, considerando los términos de la prescripción.
+El presente apartado tiene por objeto regular la creación, estructura, atribuciones y funcionamiento del Consejo Ciudadano Municipal de Seguridad.
 
-Finalizada la investigación o vencido su plazo, el órgano investigador, dentro de los diez días hábiles siguientes, emitirá un proyecto de dictamen, el cual someterá a consideración del órgano que la haya ordenado para que determine lo que corresponda.
+###### ARTÍCULO 99.
 
-Si en el dictamen se concluye que no existen elementos suficientes para advertir la probable existencia de alguna causa de responsabilidad administrativa, la información o documentos recabados en esa investigación podrán valorarse en una posterior, siempre y cuando lo autorice el órgano que ordenó la nueva investigación y no haya prescrito la facultad sancionadora.
+El Consejo Ciudadano de Seguridad Pública Municipal, es el órgano encargado de vigilar el seguimiento de las acciones en materia de Seguridad Pública Municipal; proponer los lineamientos necesarios para el mejoramiento del área, promover la participación ciudadana, coadyuvar con las autoridades de Seguridad Pública Municipal y las instancias auxiliares, en el análisis del fenómeno delictivo, de las conductas antisociales y de las infracciones administrativas, generando propuestas de planes, programas y acciones en materia de seguridad municipal.
 
-###### Artículo 128.
+## TITULO SEGUNDO. DE LA INTEGRACION, FUNCIONES Y ATRIBUCIONES DEL CONSEJO CIUDADANO
 
-El procedimiento de responsabilidad administrativa inicia por oficio, queja o denuncia presentada bajo protesta de decir verdad, por cualquier persona, por el servidor público que tenga conocimiento de los hechos o por el agente del Ministerio Público de la Federación. Las denuncias o quejas que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
+### CAPITULO I. INTEGRACION DEL CONSEJO CIUDADANO
 
-En el supuesto en que se cuestione la autenticidad de la suscripción de dichos escritos, y a fin de evitar alteración, falsificación o suplantación de la personalidad, el órgano competente podrá requerir al promovente para que, previa identificación, ratifique el contenido del ocurso presentado a su nombre, lo que de no acontecer, generará que sea desechado de plano.
+###### ARTÍCULO 100.
 
-###### Artículo 129.
+El Pleno del Consejo Ciudadano se integrará, se reunirá y tendrá las atribuciones que señala el Titulo II del Reglamento de Participación Ciudadana.
 
-Las denuncias anónimas sólo serán tramitadas cuando estén acompañadas de pruebas documentales fehacientes.
+### CAPITULO II. ATRIBUCIONES DEL CONSEJO CIUDADANO
 
-###### Artículo 130.
+###### ARTÍCULO 101.
 
-Si las quejas o denuncias no reúnen los elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público involucrado, se desecharán de plano por el órgano competente que conozca del asunto, de conformidad con el artículo 105 de este Acuerdo.
+El Consejo Ciudadano de Seguridad Municipal, además de las atribuciones que señala el Titulo II del Reglamento de Participación Ciudadana, tendrá las siguientes:
 
-No obstante, si del escrito de queja o denuncia se desprenden indicios que permitan establecer la probable existencia de una responsabilidad administrativa, el órgano competente podrá ordenar, de oficio, se recaben las pruebas que estime necesarias o se practique la investigación que permita allegárselas; hecho lo cual, se proveerá sobre su admisión o desechamiento.
+I. Proponer al Presidente Municipal el diseño, implementación y evaluación de planes, programas, políticas y directrices para mejorar la seguridad publica en el municipio;
 
-La Contraloría informará al Pleno de las quejas o denuncias que deseche tratándose de servidores públicos por él nombrados y, en los demás casos, informará a la Comisión. La Secretaría hará lo mismo respecto de aquéllas desechadas por el Presidente.
+II. Observar que la Secretaría de Seguridad cumpla con los objetivos y metas establecidas en lo correspondiente al Plan Municipal de Desarrollo y en los programas o proyectos específicos que se relacionen con los objetivos y fines del presente Reglamento;
 
-###### Artículo 131.
+III. Ser órgano de consulta, análisis y opinión en materia de Seguridad Municipal;
 
-Si el escrito de queja o denuncia es obscuro o irregular, la Secretaría o la Contraloría, según corresponda, deberá prevenir al promovente por una sola vez, para que en el plazo de tres días hábiles lo aclare o corrija, señalándole en forma concreta las irregularidades.
+IV. Proponer proyectos o emitir opinión sobre las iniciativas de ley o reglamentos en materia de Seguridad Municipal;
 
-###### Artículo 132.
+V. Emitir los lineamientos necesarios para el funcionamiento del Consejo, así como fijar las políticas y programas de éste;
 
-Cuando el órgano competente advierta que existen elementos para iniciar un procedimiento de responsabilidad administrativa, dictará un proveído en el que admitirá y ordenará la formación del expediente respectivo, conteniendo las conductas que se imputan y las probables causas de responsabilidad administrativa atribuidas al servidor público, de conformidad con el artículo 5 de este Acuerdo.
+VI. Fomentar la participación ciudadana a través de los Comités de Participación Comunitaria en materia de Seguridad Municipal;
 
-La Secretaría someterá a consideración del órgano competente, el proveído en el que determine la admisión de las quejas o denuncias.
+VII. Elaborar proyectos y estudios en materia de Seguridad Municipal, para la prevención de delito, sus causas, efectos y consecuencias;
 
-La Dirección de Responsabilidades hará lo correspondiente tratándose de los asuntos que conozca la Contraloría, y someterá a consideración de su titular el proveído donde se determine sobre la admisión de las quejas o denuncias.
+VIII. Solicitar a las dependencias municipales competentes a través del Presidente Municipal, la información que le sea necesaria para el cumplimiento de sus atribuciones;
 
-En ambos proveídos se determinará si el asunto se considera por su naturaleza queja o denuncia.
+IX. Emitir opiniones, para la actualización, elaboración y evaluación del Plan de Desarrollo Municipal en materia de Seguridad Municipal, así como evaluar periódicamente la ejecución del mismo y proponer medidas para que se guarde estrecha relación con el Consejo de Coordinación del Sistema Integral de Seguridad Publica del Estado;
 
-#### SECCIÓN SEGUNDA. TRÁMITE DEL PROCEDIMIENTO
+X. Difundir información en materia de Seguridad Municipal con la finalidad de promover una cultura de la legalidad, de la denuncia ciudadana, de la prevención o autoprotección al delito y de la solución pacífica de conflictos mediante la mediación y conciliación;
 
-###### Artículo 133.
+XI. Proponer al Presidente Municipal, estrategias para hacer mas eficiente el funcionamiento de la policía preventiva municipal;
 
-En los procedimientos de responsabilidad administrativa se ordenará emplazar al servidor público enviándole copia del proveído donde se ordena el inicio del procedimiento, la queja o denuncia y anexos correspondientes, y, en su caso, del resultado de la investigación, para que en un plazo de cinco días hábiles formule un informe sobre los hechos que se le atribuyen.
+XII. Proponer a la instancia correspondiente, la entrega de estímulos a los elementos policiales que se hayan distinguido por su desempeño a favor de la comunidad;
 
-El informe deberá referirse a todos y cada uno de los hechos atribuidos; afirmándolos, negándolos, expresando los que ignore por no ser propios y refiriéndolos como crea que tuvieron lugar.
+XIII. Proponer modificaciones a normas y procedimientos, que permitan mejorar la atención de las quejas que formule la ciudadanía contra abusos y actuaciones en que incurran los elementos de Seguridad Municipal;
 
-Se presumen confesados los hechos sobre los cuales el probable responsable no se manifiesta explícitamente, siempre que le sean propios, salvo prueba en contrario. La confesión de los hechos no entraña la aceptación del derecho del quejoso o denunciante.
+XIV. Asistir, previa invitación, a las sesiones de trabajo de los comités técnicos u órganos de la administración, con los elementos de Seguridad Municipal, así como a los eventos que realice la Administración Municipal en materia de Seguridad Municipal;
 
-###### Artículo 134.
+XV. Las demás emanadas de la Ley de Seguridad Pública del Estado de Nuevo León.
 
-La Secretaría, la Dirección de Responsabilidades o, el órgano auxiliar instructor, según corresponda, harán el emplazamiento a que hace referencia el artículo anterior mediante notificación personal.
+### CAPITULO III. DE LA INSTALACION Y DURACION DEL CONSEJO
 
-###### Artículo 135.
+###### ARTÍCULO 102.
 
-El plazo de cinco días hábiles para rendir el informe comienza a correr a partir del día siguiente en que surta efectos el emplazamiento, salvo lo previsto en el artículo 137 de este Acuerdo.
+El Consejo deberá instalarse y durar en su encargo en los términos que se establecen en el Titulo II del Reglamento de Participación Ciudadana.
 
-A dicho informe deberá acompañarse el medio electrónico o magnético que contenga su transcripción, o bien, la constancia de envío por correo electrónico a la dirección electrónica designada para tal efecto por el órgano encargado del trámite del asunto.
+# LIBRO NOVENO. DE LA REGULACION DE LOS COMITES COMUNITARIOS EN MATERIA DE SEGURIDAD MUNICIPAL
 
-###### Artículo 136.
+## TITULO PRIMERO. OBJETO Y PARTICIPACION CIUDADANA
 
-El plazo para rendir el informe se podrá ampliar mediante solicitud justificada, de conformidad con lo siguiente:
+### CAPITULO UNICO. OBJETO DE LOS COMITES
 
-I. Cinco días hábiles más: a petición del servidor público;
+###### ARTÍCULO 103.
 
-II. Diez días hábiles más: si se trata de servidor público que ya no está adscrito al órgano en que se hayan cometido las conductas que se le atribuyen; y
+El presente capítulo tiene por objeto regular la integración, operación y función de los Comités Comunitarios en la prevención del delito y la forma de coordinarse a través de la dependencia encargada de promover la participación ciudadana con la Secretaría de Seguridad.
 
-III. Quince días hábiles más: en el caso de ex-servidor público del Poder Judicial de la Federación.
+###### ARTÍCULO 104.
 
-La solicitud será calificada por el órgano encargado del trámite, quien en su caso, autorizará la ampliación.
+La participación ciudadana para la seguridad pública, tiene por objeto promover, fomentar, difundir, discutir, analizar y evaluar aspectos vinculados con la prevención del delito, la cultura de la legalidad, de la denuncia ciudadana, la protección o autoprotección del delito y en general, cualquier actividad que se relacione con la materia, buscando sensibilizar a la ciudadanía sobre la importancia de colaborar, ya sea de manera individual u organizada, con las autoridades para el cumplimiento del objeto y fines de la misma, según se establece en el artículo 97 de la Ley.
 
-###### Artículo 137.
+## TITULO SEGUNDO. INTEGRACION DE LOS COMITES DE PARTICIPACION COMUNITARIA
 
-Si el servidor público a quien se solicita el informe se encuentra de vacaciones, el plazo para rendirlo comenzará a contar a partir del primer día en que se reintegre a sus labores; en caso de que goce de licencia, el plazo se computará a partir del día siguiente en que ésta concluya.
+### CAPITULO I. DE LA INTEGRACION DE LOS COMITES
 
-Si una vez iniciado el plazo para la rendición del informe comienza el periodo vacacional del servidor público o el goce de una licencia, no se interrumpirá aquél.
+###### ARTÍCULO 105.
 
-###### Artículo 138.
+Los Comités Comunitarios serán integrados por las Juntas de Vecinos que contempla el Reglamento de Participación Ciudadana.
 
-El procedimiento de responsabilidad administrativa se suspenderá de oficio o a petición de los que en él intervengan, en estos supuestos:
+###### ARTÍCULO 106.
 
-I. Cuando el órgano competente se encuentra impedido para tramitar el procedimiento por caso fortuito o fuerza mayor;
+La estructura de los Comités Comunitarios se regirá por las Juntas de Vecinos que contempla el Reglamento de Participación Ciudadana
 
-II. Cuando el probable responsable se encuentra impedido para ejercer su derecho de defensa; siempre y cuando aquél no haya generado ese estado de indefensión para evadir la responsabilidad administrativa;
+###### ARTÍCULO 107.
 
-III. Cuando la autoridad competente considera que no es posible pronunciarse sobre el asunto sino hasta que se emita una resolución en otro procedimiento; y
+El cargo o nombramiento para ser integrante del Comité Comunitario no es remunerable, es un cargo Honorífico.
 
-IV. En cualquier otro caso previsto en las disposiciones aplicables.
+### CAPITULO II. PARTICIPACION CIUDADANA
 
-La suspensión se declarará por el órgano que haya ordenado el inicio del procedimiento. Los efectos de la suspensión comenzarán a partir de que se dicte el acuerdo correspondiente.
+###### ARTÍCULO 108.
 
-Con excepción de las medidas cautelares, todo acto procesal verificado durante la suspensión es ineficaz, sin que sea necesario pedir ni declarar su nulidad.
+La supervisión, validación y registro de los Comités Comunitarios, será acorde a las Juntas de Vecinos y de conformidad a los lineamientos que contempla el Reglamento de Participación Ciudadana.
 
-###### Artículo 139.
+###### ARTÍCULO 109.
 
-Los procedimientos de responsabilidad administrativa que se instruyan en contra de ex-servidor público cuyo domicilio se desconoce, se suspenderán de oficio una vez cumplido lo previsto en el artículo 81 de este Acuerdo, en atención a lo dispuesto en la fracción II del artículo 138 del mismo.
+Durante el periodo de actividades de los Comités Comunitarios en el caso prioritario de un mejoramiento para beneficio de la comunidad, la dependencia encargada de la participación ciudadana tendrá facultades de indicar o aceptar la renuncia de los miembros de la mesa directiva y proceder a su sustitución, así como a formar nuevos Comités y ratificar a los ya existentes.
 
-En este caso se remitirá la constancia respectiva a la Dirección General de Recursos Humanos, con el objeto de que cuando se conozca su domicilio o reingrese al Poder Judicial de la Federación, se reanude el procedimiento atendiendo las disposiciones que sobre prescripción establece la Ley de Responsabilidades.
+###### ARTÍCULO 110.
 
-###### Artículo 140.
+Los Comités Comunitarios además de las atribuciones que les confiere a las Juntas de Vecinos el Reglamento de Participación Ciudadana, tendrá las siguientes:
 
-Transcurrido el plazo para que el probable responsable rinda su informe, el órgano competente abrirá el procedimiento a prueba por un término de diez días hábiles, para que ofrezca los medios de convicción que estime pertinentes.
+I. Promover la participación ciudadana en su entorno;
 
-Agotado el plazo anterior, no se admitirán más pruebas, salvo aquellas que a juicio del órgano competente surjan de hechos supervenientes o que determinen la improcedencia del procedimiento de responsabilidad administrativa, en cuyo caso, podrán ofrecerse antes de la extinción del plazo para la presentación de alegatos.
+II. Representar los intereses de los vecinos de su colonia en materia de seguridad, municipal coordinando acciones con la Secretaría de Seguridad;
 
-En tratándose de los procedimientos de responsabilidad administrativa que se inicien con motivo de la declaración de situación patrimonial, si del informe rendido por el servidor público se advierte confesión expresa respecto de la irregularidad que se le atribuye o, en su caso, señale que no tiene pruebas que ofrecer, se procederá de inmediato a dictar la resolución correspondiente en los términos previstos por los artículos 113, 114 y 146 de este Acuerdo.
+III. Recabar y dar a conocer periódicamente a los habitantes de su colonia, sobre avances en materia de seguridad municipal, en coordinación con la Secretaría de Seguridad;
 
-###### Artículo 141.
+IV. Informar a los vecinos que existen los Comités Comunitarios y quiénes son las personas que lo integran;
 
-Al quejoso o denunciante no se le admitirán pruebas después de presentada la queja o denuncia, salvo la documental pública que ofrecida no haya podido presentarse por motivos ajenos al oferente.
+V. Conocer y emitir opinión sobre los programas en materia de seguridad municipal;
 
-###### Artículo 142.
+VI. Brindar información a los vecinos respecto a las dependencias a las que pueden acudir para la solución y reporte de los programas en materia de seguridad municipal;
 
-Serán gratuitas las copias certificadas de actuaciones judiciales o de otro documento que obre en un órgano jurisdiccional, una oficina de correspondencia común o un órgano del Consejo, que solicite un servidor público con el objeto de exhibirlas dentro de un procedimiento de responsabilidad administrativa instaurado en su contra.
+VII. Organizar y distribuir el material informativo sobre programas de participación ciudadana en materia de seguridad municipal; y
 
-###### Artículo 143.
+VIII. Las demás que la Ley y este Reglamento le otorgue.
 
-Una vez desahogadas las pruebas admitidas, se concederá al probable responsable y al quejoso o denunciante, el plazo de cinco días hábiles para que formulen alegatos por escrito.
+# LIBRO DECIMO. DE LA REGULACION DE LOS PROGRAMAS DE PREVENCION DEL DELITO MUNICIPAL
 
-###### Artículo 144.
+## TITULO PRIMERO. DE LA PREVENCION DEL DELITO MUNICIPAL
 
-La Comisión, por conducto de su presidente, informará al Pleno sobre las resoluciones que emita en los procedimientos de responsabilidad administrativa que hayan sido declarados improcedentes, infundados, sin materia o prescritos; así como de los dictámenes de visita de inspección extraordinaria en los que no se hayan advertido irregularidades administrativas.
+### CAPITULO UNICO. OBJETO Y AUTORIDADES
 
-#### SECCIÓN TERCERA. RESOLUCIÓN
+###### ARTÍCULO 111.
 
-###### Artículo 145.
+Las disposiciones de este Libro tienen por objeto establecer el órgano responsable de diseñar los programas y actividades relacionadas en materia de la prevención del delito
 
-Concluido el término para presentar alegatos, el órgano competente turnará el asunto dentro del plazo de cinco días hábiles, al Consejero que por turno corresponda, para que formule por escrito el proyecto de resolución, el cual será sometido a la consideración del Pleno o la Comisión, según sea el caso.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
-El plazo para elaborar el proyecto de resolución de los procedimientos de responsabilidad administrativa será de treinta días hábiles siguientes a la fecha en que el expediente sea recibido en la ponencia del Consejero que por turno corresponda.
+###### ARTÍCULO 112.
 
-Lo anterior, a excepción de los casos en que por causa justificada considere que debe extenderse el plazo para elaborar el proyecto respectivo, el que no podrá exceder de noventa días hábiles.
+Los órganos competentes para diseñar los programas y actividades en materia de prevención del delito serán:
 
-Transcurrido dicho plazo, el ponente presentará un dictamen al Pleno o a la Comisión en el que exponga las razones por las cuales considera que es necesario extenderlo.
+I. El C. Presidente Municipal;
 
-###### Artículo 146.
+II. El Secretario del R. Ayuntamiento;
 
-Tratándose de los procedimientos de responsabilidad administrativa instaurados por la Contraloría, el titular de la Dirección de Responsabilidades emitirá, dentro de los treinta días hábiles siguientes a la conclusión del término para formular alegatos, un proyecto de resolución con aprobación del titular de la Contraloría, en el que proponga el sentido de la resolución a la instancia correspondiente.
+III. El Secretario de Seguridad Municipal;
 
-Lo anterior, con excepción de aquellos casos en que por causa justificada se requiera mayor tiempo para la elaboración del proyecto de resolución.
+IV. El Director General de Policía;
 
-###### Artículo 147.
+V. El Director General de Tránsito y Vialidad;
 
-En caso de que el Pleno o la Comisión, advierta que el expediente no ha sido debidamente integrado, ordenará su devolución al órgano competente para proveer lo conducente, lo que deberá notificarse personalmente tanto al quejoso o denunciante como al servidor público.
+VI.- El Coordinador de Programas de Atención Social y Prevención.
 
-###### Artículo 148.
+###### ARTÍCULO 113.
 
-Cuando el Consejero a quien se hubiera turnado el asunto, o la Contraloría previo dictamen de la Dirección de Responsabilidades, estimen que la causa de responsabilidad por la que se inició el procedimiento respectivo pueda constituir una falta grave, emitirán un dictamen que se someterá a consideración del Pleno o a la Comisión para que, en su caso, se cite al probable responsable a una audiencia en la que se recibirán alegatos verbales o por escrito.
+La autoridad municipal podrá aplicar diversos tipos de programas, ya sea por medios electrónicos o cualquier otro tipo de medio de comunicación para la prevención de delitos.
 
-De dicha audiencia se levantará acta circunstanciada en los términos de este Acuerdo.
+## TITULO SEGUNDO. DE LOS PROGRAMAS DE PREVENCION DEL DELITO
 
-###### Artículo 149.
+### CAPITULO I. PROGRAMAS DE PREVENCION DEL DELITO
 
-En caso de que el Consejero ponente o el titular de la Contraloría consideren necesaria la práctica de alguna investigación por no existir elementos suficientes para resolver, o bien, porque adviertan otros hechos que pueden implicar nueva responsabilidad administrativa, emitirán un dictamen que someterán a la consideración del Pleno o de la Comisión, según corresponda, para que determinen lo procedente, lo que deberá notificarse al servidor público.
+###### ARTÍCULO 114.
 
-###### Artículo 150.
+Es facultad de las autoridades mencionadas en el artículo 112 de este Reglamento, el implementar diferentes programas en materia de prevención del delito.
 
-El Pleno o la Comisión podrán ordenar la reposición del procedimiento al órgano encargado del trámite, en aquellos casos en que consideren que se afecta la defensa del servidor público implicado, o sea necesario recabar y desahogar de oficio mayores elementos probatorios. La reposición del procedimiento se notificará personalmente al servidor público y, cuando sea conducente, al quejoso o denunciante.
+###### ARTÍCULO 115.
 
-###### Artículo 151.
+Los programas de prevención del delito deberán establecer las bases para la articulación de programas, proyectos y acciones tendientes a prevenir la comisión de algún delito o infracción administrativa, instrumentando las medidas necesarias para evitar su realización; estableciendo como mínimo los siguientes ámbitos de intervención:
 
-El Consejero ponente o el titular de la Contraloría someterán el proyecto de resolución a la aprobación del Pleno o de la Comisión, conforme a lo siguiente:
+I. La prevención social;
 
-I. Tratándose de procedimientos de responsabilidad administrativa en contra de magistrados de Circuito y jueces de Distrito donde se proponga imponer una sanción resolverá el Pleno; y
+II. La prevención comunitaria; y
 
-II. En todos los demás casos resolverá la Comisión.
+III. La prevención de enfoque policial; (sic)
 
-Lo anterior, salvo lo dispuesto en el artículo 113 de este Acuerdo, relativo a los procedimientos de responsabilidad administrativa iniciados con motivo de la declaración de situación patrimonial.
+###### ARTÍCULO 116.
 
-###### Artículo 152.
+La prevención social del delito tiene como propósito reducir los factores criminógenos mediante actividades multidisciplinarias e interinstitucionales relacionadas con el fortalecimiento de la familia, la educación, la salud y el desarrollo social, urbano y económico.
 
-Las resoluciones de los procedimientos de responsabilidad administrativa se aprobarán por mayoría calificada de cinco votos tratándose de los asuntos que resuelva el Pleno y por mayoría simple los que conozca la Comisión.
+###### ARTÍCULO 117.
 
-###### Artículo 153.
+La prevención comunitaria del delito tiene por objeto promover la participación de la comunidad, en acciones tendientes a mejorar las condiciones de seguridad de su entorno y al desarrollo de prácticas que fomenten una cultura de prevención, autoprotección, de la denuncia ciudadana y de la solución de los conflictos a través del diálogo y la negociación.
 
-El Pleno podrá atraer cualquier asunto que considere que debe ser resuelto por él, a propuesta de alguno de los Consejeros.
+###### ARTÍCULO 118.
 
-###### Artículo 154.
+La prevención del delito con enfoque policial tiene por objeto promover, mediante un diagnóstico de la problemática delictiva en el territorio del Municipio, incentivos que procuren modificar el ambiente físico para dificultar las diferentes manifestaciones de los delitos y de las infracciones administrativas, así como reducir su incidencia.
 
-Los asuntos presentados al Pleno o a la Comisión, podrán ser retirados o aplazados. Los aplazados quedarán listados para la siguiente sesión en los mismos términos en que fueron presentados o, en su caso, precisando las modificaciones realizadas; los retirados serán revisados y modificados por el Consejero ponente o el titular de la Contraloría dentro de los treinta días siguientes. Una vez iniciada la votación sobre un asunto éste no podrá retirarse o aplazarse.
+### CAPITULO II. DE LA IMPLEMENTACION DE LOS PROGRAMAS SOBRE PREVENCION DEL DELITO
 
-La resolución de las quejas y denuncias que sean retiradas contendrá una breve explicación sobre los motivos y la fecha de la sesión en que se haya retirado.
+###### ARTÍCULO 119.
 
-Ningún asunto puede retirarse o aplazarse por más de dos ocasiones a menos que el Consejero ponente se encuentre ausente y ninguno de los Consejeros lo haga suyo.
+La Secretaría de Seguridad deberá implementar los programas de prevención del delito, llevando a cabo actividades que tengan como finalidad contrarrestar los factores criminógenos y contener, disminuir o evitar la comisión de delitos, conductas antisociales e infracciones administrativas, así como prevenir la victimización.
 
-###### Artículo 155.
+###### ARTÍCULO 120.
 
-En caso de que el segundo proyecto presentado por el Consejero ponente sea desechado por mayoría, será returnado a otro Consejero para que formule nuevo proyecto que presentará, al Pleno o a la Comisión, dentro de los treinta días hábiles siguientes, tomándose las medidas necesarias para que se equilibre el turno.
+Los programas de prevención social del delito deberán diseñarse e implementarse considerando la participación ciudadana e interinstitucional con enfoque multidisciplinario, encaminándose a contrarrestar, nulificar o disminuir los factores criminógenos y las consecuencias, daño e impacto social del delito.
 
-Lo mismo se observará cuando no se logre la mayoría calificada exigida en el artículo 152 de este Acuerdo.
+###### ARTÍCULO 121.
 
-###### Artículo 156.
+La implementación de los programas tenderá a lograr un efecto multiplicador fomentando la participación ciudadana, de las diversas autoridades del Gobierno Municipal, así como de organizaciones civiles, académicas y comunitarias.
 
-Las resoluciones del Pleno serán firmadas por el Presidente, por los Consejeros y por el Secretario Ejecutivo del Pleno, quien autorizará y dará fe de éstas. Las de la Comisión serán firmadas por los Consejeros integrantes y, en su caso, por el titular de la Contraloría, y por el Secretario Técnico de la citada Comisión que autorizará y dará fe de éstas.
+###### ARTÍCULO 122.
 
-###### Artículo 157.
+La Secretaría de Seguridad promoverá la protección de las personas y de sus bienes en todos sus aspectos y deberán incluir acciones a favor de personas con capacidades diferentes, menores de edad y las que se encaminen a salvaguardar los derechos de personas que en razón de su sexo, preferencia sexual, edad, condición social, religiosa o étnica sean objeto de discriminación o rechazo.
 
-Las resoluciones que pongan fin a los procedimientos de responsabilidad administrativa analizarán la existencia de la conducta infractora y la responsabilidad en su comisión y tomarán en cuenta, en su caso, las eximentes de responsabilidad.
+###### ARTÍCULO 123.
 
-El resultado se expresará con claridad y precisión en puntos resolutivos en los que se indique, según corresponda, si es fundado, infundado, improcedente, sin materia o si ha prescrito la facultad sancionadora.
+La Secretaría de Seguridad deberá llevar un registro del diseño, implementación, actualización y evaluación de los programas de prevención del delito.
 
-###### Artículo 158.
+###### ARTÍCULO 124.
 
-Si la conducta por la que se inició el procedimiento de responsabilidad administrativa resulta constitutiva de responsabilidad, pero no se ubicó en la causal correspondiente, el Pleno o la Comisión precisarán la que se actualice.
+La Secretaría de Seguridad atenderá en el ámbito de su competencia a las víctimas y a los ofendidos; implementando programas de prevención del delito enfocados a evitar la victimización, los cuales deberán estar a lo dispuesto en este ordenamiento, en la Ley de Atención y Apoyo a las Víctimas y a los Ofendidos de Delitos y a las demás disposiciones aplicables en la materia.
 
-En ese supuesto ordenará la devolución del proyecto a la Secretaría o a la Contraloría para que éstas notifiquen al servidor público probable responsable, a fin de que dentro de los tres días hábiles siguientes alegue lo que a su interés convenga observándose, en su caso y en lo conducente, lo dispuesto en el artículo 148 de este Acuerdo.
+# LIBRO DECIMO PRIMERO. DEL ORGANO SANCIONADOR
 
-###### Artículo 159.
+## TITULO PRIMERO. DE LA COMISION DE HONOR Y JUSTICIA
 
-Si el Pleno o la Comisión estiman que la queja o denuncia fue interpuesta de manera notoriamente improcedente o infundada; afirmando hechos falsos u omitiendo los que le consten; o presentando pruebas o documentos alterados o apócrifos; se impondrá al quejoso o denunciante, o a su representante, o a ambos, una multa de diez a ciento veinte días de salario mínimo general vigente en el Distrito Federal en el momento de interponerse la queja o denuncia, de conformidad con el artículo 139 de la Ley Orgánica. La imposición de la multa deberá fundarse y motivarse en la resolución correspondiente, así como en la orden de ejecución.
+### CAPITULO I. DE SU COMPETENCIA
 
-#### SECCIÓN CUARTA. RECURSOS
+###### ARTÍCULO 125.
 
-###### Artículo 160.
+La Comisión de Honor y Justicia tendrá competencia para conocer y sustanciar los procedimientos de responsabilidad administrativa derivados del incumplimiento a los deberes u obligaciones profesionales del personal adscrito, de las quejas y denuncias que en su contra se presenten, la aplicación de sanciones y los acuerdos necesarios para su funcionamiento, preservando el derecho a la garantía de audiencia.
 
-En el procedimiento de responsabilidad administrativa, los recursos podrán interponerse por el quejoso, denunciante y servidor público involucrado, contra las resoluciones definitivas y las de trámite, establecidas en esta Sección.
+### CAPITULO II. DE SU INTEGRACION
 
-###### Artículo 161.
+###### ARTÍCULO 126.
 
-Los recursos se interpondrán por escrito y deberán contener:
+La Comisión de Honor y Justicia estará integrada por cinco miembros;
 
-I. Nombre y firma del recurrente;
+I. Un Presidente; y (sic)
 
-II. Resolución que se recurre y la fecha de notificación;
+II. Cuatro vocales;
 
-III. Agravios que le causa; y
+III. Contará además con un Secretario con voz, sin derecho a voto y el personal necesario para el cumplimiento de sus funciones.
 
-IV. En su caso, documento que acredita la personalidad.
+### CAPITULO III. DE LA DESIGNACION DE SUS INTEGRANTES
 
-Cuando exista error u omisión en el escrito de interposición del recurso, se prevendrá al recurrente para que lo subsane o complete en un plazo de tres días hábiles. En caso de no atender la prevención se tendrá por no interpuesto.
+###### ARTÍCULO 127.
 
-###### Artículo 162.
+El Presidente de la Comisión de Honor y Justicia será designado y removido por el Presidente Municipal.
 
-Los recursos podrán interponerse personalmente, por correo certificado o por servicio de mensajería de empresa especializada. En los últimos dos supuestos la fecha de presentación será la del día de su depósito.
+###### ARTÍCULO 128.
 
-###### Artículo 163.
+Los cuatro vocales serán designados o removidos por el Republicano Ayuntamiento. Uno de ellos será un miembro del cuerpo de Policía; otro será miembro del cuerpo de Tránsito; y los dos restantes, serán vecinos del Municipio, de reconocida capacidad y solvencia moral.
 
-El Presidente o el presidente de la Comisión, según su competencia, calificará la procedencia del recurso, admitiéndolo o desechándolo, dentro de los tres días hábiles siguientes a su interposición.
+###### ARTÍCULO 129.
 
-###### Artículo 164.
+Los vocales integrantes de la Comisión miembros de los cuerpos de Policía y de Tránsito, serán designados por el Republicano Ayuntamiento de entre aquellos que se hayan distinguido en el cumplimiento de su función. La Comisión de Seguridad del Republicano Ayuntamiento analizará los expedientes correspondientes y propondrá al Pleno mediante dictamen razonado su designación.
 
-No se admitirá recurso notoriamente improcedente. En este supuesto se podrá imponer multa al recurrente en términos del artículo 159 de este Acuerdo, así como cuando afirme hecho falso u omita el que le conste, presente prueba o documento alterado o apócrifo, o testigo que no se conduzca con verdad.
+###### ARTÍCULO 130.
 
-###### Artículo 165.
+Los vocales pertenecientes a las Direcciones de Policía y Tránsito duraran en su cargo un año y podrán ser reelectos las veces que el Republicano Ayuntamiento considere necesario.
 
-La interposición de los recursos no suspende la ejecución de la resolución recurrida y se tramitarán, según su competencia, por el Presidente o el presidente de la Comisión, con el auxilio de la Secretaría.
+###### ARTÍCULO 131.
 
-El Presidente y el presidente de la Comisión podrán designar un órgano auxiliar instructor para realizar actuaciones y diligencias con motivo del trámite de los recursos.
+El Secretario y el personal necesario para el cumplimiento de las funciones de la Comisión de Honor y Justicia será designado o removido por el Presidente de la misma.
 
-###### Artículo 166.
+### CAPITULO IV. DE LOS ACUERDOS Y RESOLUCIONES
 
-Los acuerdos de trámite de los recursos serán firmados por el órgano competente y por el titular de la Secretaría, quien los autorizará y dará fe de los mismos.
+###### ARTÍCULO 132.
 
-Las resoluciones de los recursos serán firmadas por el órgano competente que las emita y por la secretaría correspondiente, quien autorizará y dará fe de las mismas.
+Los asuntos competencia de la Comisión de Honor y Justicia se resolverán por mayoría de votos de sus integrantes.
 
-En su caso, las resoluciones de los recursos deberán expresar con claridad sus efectos y fijar las medidas necesarias para restablecer las cosas al estado que guardaban antes de su interposición.
+###### ARTÍCULO 133.
 
-###### Artículo 167.
+El Presidente tendrá voto de calidad.
 
-El recurso de inconformidad procede contra el acuerdo que desecha, declara improcedente o, tiene por no presentada la queja o denuncia por:
+###### ARTÍCULO 134.
 
-I. Falta de personalidad;
+El quórum necesario para la validez de los acuerdos y resoluciones de la Comisión de Honor y Justicia se integrará con la mayoría de sus miembros.
 
-II. Falta de prueba suficiente para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado; y
+###### ARTÍCULO 135.
 
-III. Falta de motivación y fundamentación del referido acuerdo.
+El Secretario del Comité de Honor y Justicia o el servidor público que designe el Pleno, será el ejecutor de sus acuerdos o resoluciones.
 
-Este recurso lo admite y tramita el Presidente y lo resuelve el Pleno cuando involucra a magistrados de Circuito o Jueces de Distrito. En los demás supuestos resuelve la Comisión. El plazo para la interposición de la inconformidad será de tres días hábiles y treinta días hábiles para su resolución.
+### CAPITULO V. DEL PROCEDIMIENTO
 
-No procede recurso contra el acuerdo que desecha o tenga por no interpuesta la inconformidad.
+### CAPITULO UNICO. DEL RECURSO DE REVOCACION
 
-###### Artículo 168.
+###### ARTÍCULO 136.
 
-El recurso de revisión procede contra resoluciones definitivas de:
+Las quejas y denuncias en contra del personal adscrito, deben reunir como mínimo, los siguientes requisitos:
 
-I. La Comisión; y
+I. Generales de la persona que presenta la queja o denuncia;
 
-II. La Contraloría.
+II. El señalamiento, si lo supiera, del nombre del servidor público, o su media filiación;
 
-En la fracción I admite y tramita el Presidente y resuelve el Pleno; y en la fracción II admite y tramita el presidente de la Comisión y resuelve ésta. El plazo para la interposición de la revisión será de cinco días hábiles y sesenta días hábiles para su resolución.
+III. Señalar fecha, hora y lugar de los hechos u omisiones que considere fueron indebidamente cometidos por el servidor público;
 
-###### Artículo 169.
+IV. En caso de contar con pruebas, acompañarlas a su queja o denuncia; y
 
-El recurso de reconsideración procede contra las resoluciones definitivas del Pleno en las que:
+V. No darán inicio al procedimiento administrativo las quejas o denuncias anónimas, pero estas se harán del conocimiento de los titulares de la Secretaría de Seguridad Municipal y Contraloría Municipal.
 
-I. No imponga sanción; o
+###### ARTÍCULO 137.
 
-II. Imponga sanción salvo las de destitución o inhabilitación a magistrados de Circuito o jueces de Distrito.
+La solicitud de instauración de procedimiento administrativo debe formularse por escrito, ser suscrita por el servidor público que la formula acreditando su designación, narración de los hechos que le den origen, el fundamento legal en que se apoya y las pruebas que correspondan.
 
-Este recurso lo admite y tramita el Presidente y lo resuelve el Pleno. El plazo para la interposición de la reconsideración será de cinco días hábiles y sesenta días hábiles para su resolución.
+###### ARTÍCULO 138.
 
-Si el recurso de reconsideración se interpuso en contra de resolución emitida con fundamento en el artículo 107 de este Acuerdo, por la que se haya destituido o inhabilitado al servidor público que no sea magistrado de Circuito o juez de Distrito, la reconsideración no podrá resolverse hasta en tanto se decida, en su caso, la suerte del recurso constitucional de revisión administrativa.
+La sustanciación del procedimiento de responsabilidad administrativa y la imposición de sanciones se regirá por las Leyes aplicables.
 
-###### Artículo 170.
+###### ARTÍCULO 139.
 
-El recurso de reclamación procede contra el acuerdo que desecha o tenga por no interpuesto los recursos de revisión y reconsideración, mismo que resolverá el Pleno, cuando lo haya acordado el Presidente, y la Comisión, cuando lo haya hecho el presidente de ésta. El plazo para la interposición de la reclamación será de tres días hábiles y quince días hábiles para su resolución.
+Las actuaciones de la Comisión de Honor y Justicia, deberán constar por escrito y ser suscritas por quienes las autorizaron.
 
-###### Artículo 171.
+# LIBRO DECIMO SEGUNDO. DE LOS RECURSOS
 
-En los recursos de revisión y reconsideración podrán hacerse valer violaciones al procedimiento de responsabilidad administrativa con motivo de:
+### CAPITULO UNICO. PROCEDIMIENTO DE MODIFICACION
 
-I. La admisión de la queja o denuncia;
+###### ARTÍCULO 140.
 
-II. El emplazamiento;
+El recurso de revocación procederá en contra de los actos o determinaciones emitidas por la Comisión de Honor y Justicia en los términos de la Ley de Seguridad Pública para el Estado de Nuevo León.
 
-III. La audiencia establecida en la fracción III del artículo 134 de la Ley Orgánica;
+# LIBRO DECIMO TERCERO. DEL PROCEDIMIENTO DE MODIFICACION AL REGLAMENTO
 
-IV. La admisión y desahogo de pruebas; y
+###### ARTÍCULO 141.
 
-V. Los alegatos.
+En la medida que se modifiquen las condiciones relativas a la seguridad pública en el Municipio, en virtud de su crecimiento demográfico, social, el presente Reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad.
 
-En los recursos señalados, únicamente podrá ser ofrecida la prueba superveniente y la que tenga relación inmediata y directa con violaciones al procedimiento administrativo de responsabilidad. Para su desahogo se concederá un plazo no mayor a diez días hábiles que podrá ampliarse por causa motivada y fundada hasta por treinta días hábiles.
+###### ARTÍCULO 142.
 
-###### Artículo 172.
+Para garantizar la participación ciudadana en la revisión para la actualización, toda persona residente en el Municipio tiene la facultad de realizar por escrito sugerencias, ponencias o quejas en relación con el contenido normativo del presente Reglamento, escrito que deberá dirigirse al C. Secretario del Republicano Ayuntamiento a fin de que el C. Presidente Municipal dé cuenta de una síntesis de tales propuestas en Sesión del Republicano Ayuntamiento, para que dicho cuerpo colegiado tome la decisión correspondiente.
 
-Una vez substanciado el recurso de inconformidad el Presidente formulará el proyecto de resolución con apoyo de la Secretaría y lo someterá al órgano competente para su resolución. Lo mismo se observará en el supuesto del recurso de reclamación, caso en el cual la formulación del proyecto y su presentación corresponderá a dicho servidor público o al presidente de la Comisión, conforme a su ámbito de competencia.
+T R A N S I T O R I O S
 
-Tramitados los recursos de revisión y reconsideración se remitirán, con los expedientes y anexos de ambas instancias, al Consejero a quien por turno corresponda formular el proyecto de resolución y someterlo al órgano competente. En su caso, se deberá excluir del turno al Consejero que haya sido ponente de la resolución recurrida.
+Artículo Primero. Se Aprueba el Reglamento en Materia de Seguridad Municipal de San Pedro Garza García, Nuevo León, en los términos que se exponen en el contenido del presente dictamen.
 
-#### SECCIÓN QUINTA. EJECUCIÓN Y EFECTOS DE LAS SANCIONES
+Artículo Segundo. El presente Reglamento entrará en vigor 30-treinta días después del siguiente al de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal.
 
-###### Artículo 173.
+Artículo Tercero. Hasta en tanto se reforma el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, la referencia que en el presente Reglamento se hace a la Secretaría de Seguridad Municipal, deberá entenderse referida a la Secretaría de Seguridad Pública y Vialidad.
 
-Para la ejecución de las sanciones a que se refiere el artículo 7 de este Acuerdo, se observarán las siguientes reglas:
+Artículo Cuarto. Se derogan todas las disposiciones que contravengan lo dispuesto en este Reglamento.
 
-I. Apercibimiento privado y amonestación privada: se dará a conocer a través de notificación personal realizada por la Secretaría o la Contraloría cuando el servidor público sancionado esté adscrito a órgano jurisdiccional o área administrativa cuya residencia se ubique en el Distrito Federal o zona conurbada, y por correo certificado o servicio de mensajería si está adscrito en el resto de la República;
+Artículo Quinto. Se deroga el Capítulo Sexto y los artículos 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55 y 56 del Reglamento de Policía y Buen Gobierno del Municipio de San Pedro Garza García, Nuevo León.
 
-II. Apercibimiento público y amonestación pública: tratándose de magistrados de Circuito, jueces de Distrito y titulares de áreas administrativas se citará al servidor público sancionado en la sede del Consejo para que en presencia de la Comisión, el presidente de la misma dé a conocer la sanción.
+Artículo Sexto. Las quejas y denuncias y los procedimientos de responsabilidad administrativa que se encuentren radicados en la Contraloría Municipal y pendientes de resolver, deberán ser remitidos a la Comisión de Honor y Justicia para su resolución, conforme a las reglas establecidas por la Ley de Seguridad Pública para el Estado de Nuevo León.
 
-En los demás casos, la Secretaría o la Contraloría, según corresponda, citará al servidor público con el apoyo de un juez de Distrito comisionado para tal fin, o del titular del área administrativa a la que se encuentre adscrito, para que el servidor público designado haga efectiva la sanción ante la presencia del personal del área, se levantará acta circunstanciada de la diligencia que firmarán todos los que hayan intervenido en ella;
+Por lo anteriormente expuesto y fundado y de conformidad con lo establecido en los artículos 21 y 115 fracciones II y III inciso h), de la Constitución Política de los Estados Unidos Mexicanos; 25, 130 y 132 I, inciso h), de la Constitución Política del Estado de Nuevo León; 26 inciso a), fracciones V y VII, 160, 161, 162, 163, 164, 165, 166 y 168 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León; Artículo 10 fracción VI de la Ley del Periódico Oficial del Estado; 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 54, 55, 56, 57, 58, 59, 60, 61, 85, 86, 87, 88, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 151, 152, 153, 154, 155, 156, 157, 226, 227, 228, 229, 230, 231, 232, 234, 235, 36, 237 y 238 de la Ley d Seguridad Pública del Estado de Nuevo León; 58, 59, 60, 61, fracción I, numeral 3, 63, 64, 70, 71, 73, 74, 75, 76, 77 t (sic) demás relativos del Reglamento para el Gobierno Interior del Republicano Ayuntamiento de San Pedro Garza García, Nuevo León, esta Comisión de Gobierno y Reglamentación del Republicano Ayuntamiento, presenta por medio de la presente su propuesta de dictamen de la INICIATIVA DE REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA, GARCÍA, NUEVO LEÓN; y para efectos de desahogar el procedimiento reglamentario respectivo, esta Comisión de Gobierno y Reglamentación del Republicano Ayuntamiento, presenta a la consideración de este Órgano Colegiado, el siguiente:
 
-III. Sanción económica: la Secretaría o la Contraloría deberán comunicarla a quien deba realizar las retenciones correspondientes; y
+A C U E R D O:
 
-IV. Suspensión, destitución e inhabilitación: tratándose de magistrados de Circuito, jueces de Distrito y titulares de áreas administrativas se citará al servidor público sancionado en el edificio sede del Consejo para que en presencia de la Comisión, el presidente de la misma dé a conocer la sanción.
+PRIMERO. Se aprueba la INICIATIVA DE REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, por las razones y términos anteriormente señalados.
 
-En los demás casos, se dará a conocer a través de notificación personal realizada por la Secretaría o la Contraloría o, en su caso, con el apoyo de un juez de Distrito o del titular del área administrativa a la que se encuentre adscrito el servidor público sancionado.
+SEGUNDO. Publíquese el presente acuerdo en el Periódico Oficial del Estado, hágase posteriormente su difusión a través de la Gaceta Municipal.
 
-###### Artículo 174.
+TERCERO. Gírense las instrucciones al C. Lic. Fernando Margáin Berlanga, Presidente Municipal y a la C. Lic. Ma. Emilda Ortiz Caballero, Secretario del Republicano Ayuntamiento para el exacto cumplimiento del presente acuerdo.
 
-Deberá remitirse copia certificada de toda resolución que cause estado e imponga sanción, a la Dirección General de Recursos Humanos para que la agregue al expediente personal del servidor público sancionado y a la Contraloría para la actualización del Registro de Servidores Públicos Sancionados.
+POR LO TANTO MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DE EL DEBIDO CUMPLIMIENTO. DADO EN EL DESPACHO DEL C. PRESIDENTE MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN A LOS 27-VEINTISIETE DÍAS DEL MES DE OCTUBRE DE 2009-DOS MIL NUEVE.
 
-Si la sanción impuesta consiste en inhabilitación, también se enviarán copias certificadas a la Contraloría de la Suprema Corte de Justicia de la Nación, a la Contraloría del Tribunal Electoral, a la Secretaría de la Función Pública, y a las judicaturas y contralorías de las entidades federativas.
+ATENTAMENTE
 
-Las quejas y denuncias que sean desechadas, se declaren improcedentes o infundadas, y los procedimientos de responsabilidad administrativa en que se declare sin materia o prescrita la facultad para sancionar, únicamente se remitirán a la Secretaría o Contraloría, según el caso, para constituir un registro de tales resoluciones.
+LIC. FERNANDO MARGÁIN BERLANGA
 
-#### SECCIÓN SEXTA. ACUMULACIÓN
+PRESIDENTE MUNICIPAL
 
-###### Artículo 175.
+LIC. MA. EMILDA ORTIZ CABALLERO
 
-Si la Secretaría o la Contraloría advierten que un procedimiento de responsabilidad administrativa en trámite o turnado para resolución tiene alguna conexión con otro que hace necesario que se resuelvan simultáneamente, lo harán del conocimiento del Pleno o de la Comisión para que ordenen lo procedente.
+SECRETARIO DEL R. AYUNTAMIENTO
 
-###### Artículo 176.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-Cuando un procedimiento de responsabilidad administrativa en trámite, en contra de magistrados de Circuito, jueces de Distrito o servidores públicos adscritos a órganos jurisdiccionales, esté relacionado con otro que ya hubiera sido resuelto, la Secretaría deberá turnarlo, de ser posible, al mismo Consejero ponente.
+P.O. 26 DE MAYO DE 2010.
 
-###### Artículo 177.
+Artículo Primero.- Las presentes REFORMAS POR MODIFICACIÓN AL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal, para su difusión.
 
-En los supuestos considerados en los dos artículos anteriores se compensará el turno de los asuntos.
-
-###### Artículo 178.
-
-Procederá la acumulación de los procedimientos de responsabilidad administrativa, hasta antes de su resolución, en los supuestos siguientes:
-
-I. Cuando los hechos sean los mismos o tengan relación; o
-
-II. Cuando se hayan instaurado contra el mismo servidor o servidores públicos.
-
-También procederá la acumulación cuando a juicio del órgano competente sea necesario para evitar resoluciones contradictorias.
-
-###### Artículo 179.
-
-Corresponde al Pleno o a la Comisión, conforme a su competencia, ordenar la acumulación, en cuyo caso, el procedimiento más reciente se acumulará al más antiguo, para lo cual se remitirá el expediente respectivo.
+Artículo Segundo.- Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
