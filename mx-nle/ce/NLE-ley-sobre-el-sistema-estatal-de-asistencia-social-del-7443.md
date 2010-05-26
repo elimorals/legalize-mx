@@ -4,7 +4,7 @@ identifier: "NLE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7443"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2000-01-03"
+last_updated: "2010-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -181,7 +181,9 @@ II.- Apoyar el desarrollo de la familia y de la comunidad;
 
 III.- Realizar estudios e investigaciones sobre los problemas de la familia con el fin de lograr que sus miembros se desenvuelvan en un ambiente que propicie su pleno desarrollo físico, mental y social;
 
-IV.- Impulsar el sano crecimiento físico, mental y social de la niñez, mediante programas que tiendan a elevar sus condiciones de salud y nutrición;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+IV.- Impulsar el sano crecimiento físico, mental y social de la niñez, mediante programas que tiendan a elevar sus condiciones de salud y nutrición, prioritariamente para la niñez en situación de extrema pobreza cuyas familias no cuenten con cobertura médica;
 
 V.- Establecer programas tendientes a evitar, prevenir y sancionar el maltrato de los menores, proporcionándoles atención, cuidado y vigilancia;
 
@@ -520,3 +522,7 @@ En relación a las adiciones que se mencionan en el artículo quinto de este Dec
 P.O. 3 DE ENERO DE 2000.
 
 Único.- El presente Decreto entrará en vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MAYO DE 2010.
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
