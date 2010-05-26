@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-municipal-del-estado-de-chiapas-69793"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-29"
-last_updated: "2010-01-27"
+last_updated: "2010-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 29 de julio de 2009.
 
@@ -415,7 +415,9 @@ XXXIII.- Rendir, a través del Presidente Municipal, un informe anual del Estado
 
 XXXIV.- Ordenar las mejoras que sean necesarias para las Dependencias y organismos municipales, derivado de los resultados presentados por el Presidente Municipal en las visitas que realice a aquéllas;
 
-XXXV.- A propuesta del Presidente Municipal, nombrar al Secretario del Ayuntamiento, al Tesorero Municipal, al Comandante de la Policía o su equivalente, al titular de la Contraloría Municipal y al Cronista Municipal, concediéndoles licencias, permisos y en su caso, suspenderlos y/o removerlos por causa justificada; así como designar a la oficialidad, la gendarmería y demás empleados de confianza de la policía municipal. De igual manera procederá, en lo que hace a los responsables de la administración municipal que se requieran;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XXXV.- A propuesta del Presidente Municipal, nombrar al Secretario del Ayuntamiento, al Tesorero Municipal, al Comandante de la Policía o su equivalente, al titular de la Contraloría Municipal y al Cronista Municipal, concediéndoles licencias, permisos y en su caso, suspenderlos y/o removerlos por causa justificada; así como designar a la oficialidad, la Gendarmería y demás Empleados de Confianza de la Policía Municipal. De igual manera procederá, en lo que hace a los responsables de la Administración Municipal que se requieran incluyendo al Delegado Técnico Municipal del Agua;
 
 XXXVI.- Registrar las cauciones que otorguen el tesorero y los demás servidores públicos que manejen fondos y valores municipales;
 
@@ -853,7 +855,11 @@ V.- Contraloría Municipal;
 
 VI.- Oficial Mayor;
 
-VII.- Cronista Municipal.
+VII.- Cronista Municipal;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
+
+VIII.- Delegado Técnico Municipal del Agua
 
 Además, contará con el personal de base y de confianza necesario, de acuerdo con el presupuesto de egresos correspondiente.
 
@@ -1067,7 +1073,9 @@ El titular de la Contraloría Municipal, será nombrado por el Ayuntamiento a pr
 
 ### Capítulo VII. Del Cronista Municipal
 
-### Capítulo VIII. De la Hacienda Municipal
+### Capítulo VII Bis. Del Delegado Técnico Municipal del Agua
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 73.
 
@@ -1123,9 +1131,47 @@ XIII. Crear un consejo de la crónica, con los ciudadanos de mayor reconocimient
 
 XIV. Las demás que le confieran esta ley, reglamentos, el ayuntamiento o demás disposiciones jurídicas aplicables.
 
-### Capítulo IX. De los Servicios Públicos
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2010)</small>
 
-### Capítulo Único. De los Contratos Administrativos
+### Capítulo VIII. De la Hacienda Municipal
+
+###### Artículo 75 Bis.
+
+En cada Municipio habrá un Delegado Técnico Municipal del Agua, el cual será nombrado por el Ayuntamiento, de conformidad con lo dispuesto por el artículo 36, fracción XXXV, de la presente Ley quien tendrá como función vigilar, promover e informar la calidad del agua en los sistemas de abastecimiento de cada una de las comunidades pertenecientes al Municipio, mediante la desinfección a través de la cloración, durará en su encargo un periodo de Gobierno y podrá ser ratificado en virtud de su desempeño y productividad.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+
+###### Artículo 75 Ter.
+
+La designación de Delegado Técnico Municipal del Agua, deberá recaer en una persona que haya sido capacitada y certificada previamente por las dependencias normativas estatales en la materia de desinfección de agua.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+
+###### Artículo 75 Quater.
+
+Son facultades y obligaciones del Delegado Técnico Municipal del Agua.
+
+I.- Elaborar un diagnóstico de las fuentes de abastecimiento de agua del Municipio e identificar cuantas localidades cuentan con sistemas formales.
+
+II.- Determinar las localidades que cuentan con un equipo de desinfección y las condiciones en las que este se encuentra.
+
+III.- Determinar si las fuentes de abastecimiento que existen, cuentan con dosificadores de cloro.
+
+IV.- Establecer la cantidad de cloro necesaria para cada localidad en proporción al volumen y al diámetro y profundidad del depósito que contiene el agua.
+
+V.- Realizar acciones de cloración.
+
+VI.- Definir la concentración de cloro residual como un indicador de la calidad bacteriológica del agua para uso y consumo humano.
+
+VII.- Vigilar el cumplimiento de la cloración de tos Sistemas de Abastecimiento de Agua mediante las actividades de monitoreo de cloro.
+
+VIII.- Establecer las rutas del monitoreo de cloro.
+
+IX.- Comunicar a las Autoridades Municipales y Organismos Públicos normativos en los casos de emergencia sanitaria.
+
+X.- Hacer del conocimiento de las autoridades locales las acciones realizadas para procurar agua de calidad.
+
+### Capítulo IX. De los Servicios Públicos
 
 ###### Artículo 76.
 
@@ -1217,7 +1263,7 @@ II.- Detectar cualquier irregularidad en perjuicio del fisco municipal o los con
 
 III.- Investigar si tanto el Tesorero como sus empleados cumplen con sus obligaciones y atienden al público con la debida diligencia.
 
-### Capítulo I. Del Patrimonio del Municipio
+### Capítulo Único. De los Contratos Administrativos
 
 ###### Artículo 85.
 
@@ -1227,7 +1273,7 @@ Para los efectos de esta Ley, servicio público es toda actividad de utilidad p�
 
 Los Ayuntamientos también podrán ejercer las actividades a que se refiere el artículo anterior en concurrencia con los Gobiernos Federal y Estatal, sus entidades, órganos auxiliares o con los ayuntamientos de los municipios limítrofes del propio Estado.
 
-### Capítulo II. De los Bienes del Dominio Público
+### Capítulo I. Del Patrimonio del Municipio
 
 ###### Artículo 87.
 
@@ -1253,7 +1299,7 @@ IX.- Los demás que determine el Congreso del Estado, tomando en cuenta las cond
 
 ## Título IV. De los Actos Administrativos Municipales
 
-### Capítulo III. De los Bienes de Dominio Privado
+### Capítulo II. De los Bienes del Dominio Público
 
 ###### Artículo 88.
 
@@ -1265,7 +1311,7 @@ Los Ayuntamientos tendrán derecho de preferencia para adquirir los inmuebles qu
 
 ## Título V. De los Bienes del Municipio
 
-### Capítulo I. De los Asentamientos Humanos
+### Capítulo III. De los Bienes de Dominio Privado
 
 ###### Artículo 90.
 
@@ -1275,7 +1321,7 @@ I.- Bienes del dominio público; y,
 
 II.- Bienes del dominio privado.
 
-### Capítulo II. De las Obras Públicas
+### Capítulo I. De los Asentamientos Humanos
 
 ###### Artículo 91.
 
@@ -1295,7 +1341,7 @@ V.- Los muebles propiedad del municipio que por su naturaleza, no sean normalmen
 
 Los bienes inmuebles de dominio público, son inalienables e imprescriptibles, solo podrán ser enajenados conforme a las disposiciones jurídicas aplicables, y previo decreto de desincorporación dictado por el Congreso del Estado, cuando dejen de servir para el fin al que hayan sido destinados.
 
-### Capítulo Único. De los Consejos de Participación y Colaboración Vecinal
+### Capítulo II. De las Obras Públicas
 
 ###### Artículo 93.
 
@@ -1317,7 +1363,7 @@ Corresponde al Ayuntamiento, previo acuerdo del Congreso del Estado, administrar
 
 ## Título VI. De los Asentamientos Humanos
 
-### Capítulo Único. De la Justicia Municipal
+### Capítulo Único. De los Consejos de Participación y Colaboración Vecinal
 
 ###### Artículo 95.
 
@@ -1441,7 +1487,7 @@ III.- La Comisión Consultiva de Desarrollo Urbano del Estado; y,
 
 IV.- Los Consejos de Participación y Colaboración Vecinal Municipal.
 
-### Capítulo I. De la Reglamentación de la Administración Pública Municipal
+### Capítulo Único. De la Justicia Municipal
 
 ###### Artículo 104.
 
@@ -1473,7 +1519,7 @@ Son obras públicas por contrato, las que se proyecten o ejecuten por empresas c
 
 ## Título VII. De los Consejos de Participación y Colaboración Vecinal
 
-### Capítulo II. De las Sanciones
+### Capítulo I. De la Reglamentación de la Administración Pública Municipal
 
 ###### Artículo 107.
 
@@ -1707,7 +1753,7 @@ XX.- Las demás que le confieran la presente ley los reglamentos y bandos munici
 
 ## Título VIII. De la Justicia Municipal
 
-### Capítulo I. De las Suplencias
+### Capítulo II. De las Sanciones
 
 ###### Artículo 130.
 
@@ -1723,7 +1769,7 @@ Los Jueces Municipales durarán en su encargo el tiempo para el que haya sido el
 
 ## Título IX. De la Legislación Municipal
 
-### Capítulo II. De la Declaratoria de Desaparición de Ayuntamientos
+### Capítulo I. De las Suplencias
 
 ###### Artículo 133.
 
@@ -1883,7 +1929,7 @@ I.- Ser de naturaleza legislativa autónoma;
 
 II.- Desvirtuar, modificar o alterar el contenido de una disposición de observancia general.
 
-### Capítulo III. De la Suspensión Definitiva de los Integrantes de los Ayuntamientos
+### Capítulo II. De la Declaratoria de Desaparición de Ayuntamientos
 
 ###### Artículo 151.
 
@@ -1911,7 +1957,7 @@ b).- Revocación de la concesión, licencia o permiso.
 
 ## Título X. De las Suplencias, Desaparición de Ios Ayuntamientos y Responsabilidades de los Servidores Públicos Municipales
 
-### Capítulo IV. De la Renovación del Cargo a los Integrantes del Ayuntamiento
+### Capítulo III. De la Suspensión Definitiva de los Integrantes de los Ayuntamientos
 
 ###### Artículo 152.
 
@@ -1935,7 +1981,7 @@ Las faltas temporales de los agentes y subagentes municipales serán suplidas po
 
 Los titulares de las dependencias serán suplidos por quien designe el Presidente Municipal.
 
-### Capítulo V. Responsabilidad de los Servidores Públicos Municipales
+### Capítulo IV. De la Renovación del Cargo a los Integrantes del Ayuntamiento
 
 ###### Artículo 155.
 
@@ -1957,7 +2003,7 @@ En los recesos del Congreso del Estado, la Comisión Permanente, con la aprobaci
 
 Si el Congreso del Estado declara que ha desaparecido un ayuntamiento, instalará de inmediato un Consejo Municipal con el número de integrantes que la Constitución del Estado señala, de entre los miembros del consejo que se designen, en el momento de su instalación, se elegirán a las personas que habrán de desempeñar las funciones de Presidente del Consejo, Síndico y Regidores. Los Consejos Municipales tendrán las mismas atribuciones que esta ley confiere a los Ayuntamientos y concluirá el período correspondiente.
 
-### Capítulo Único. De la Readaptación Social
+### Capítulo V. Responsabilidad de los Servidores Públicos Municipales
 
 ###### Artículo 160.
 
@@ -1987,13 +2033,15 @@ En el caso de que la totalidad de los integrantes del ayuntamiento se encuentren
 
 Cuando por cualesquier otras causas no comprendidas en esta Ley, el Ayuntamiento dejare de funcionar normalmente, desacate reiteradamente la Legislación Estatal o Federal, o quebrante los principios del régimen federal o de la Constitución Política del Estado, el Congreso del Estado lo suspenderá definitivamente, nombrara un consejo municipal en los términos de la presente ley, y demás disposiciones aplicables.
 
-### Capítulo Único. De los Recursos Administrativos
+### Capítulo Único. De la Readaptación Social
 
 ###### Artículo 162.
 
 El cargo conferido a alguno de los integrantes del Ayuntamiento solo podrá ser revocado por el acuerdo de las dos terceras partes de los miembros del Congreso del Estado, cuando no reúna los requisitos de elegibilidad previstos para tal caso.
 
 En caso de que el encargo del integrante del Ayuntamiento fuere revocado, el Congreso designará dentro de los integrantes que quedaren las sustituciones procedentes.
+
+### Capítulo Único. De los Recursos Administrativos
 
 ###### Artículo 163.
 
@@ -2116,3 +2164,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas aquellas disposiciones de igualo menor jerarquía que se opongan al presente Decreto.
 
 Artículo Tercero.- Los Ayuntamientos llevarán a cabo las acciones necesarias para el debido cumplimiento del presente Decreto.
+
+P.O. 26 DE MAYO DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los Ayuntamientos llevarán a cabo las acciones necesarias para el debido cumplimiento del presente Decreto.
