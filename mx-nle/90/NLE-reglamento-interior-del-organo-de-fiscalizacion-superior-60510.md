@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-organo-de-fiscalizacion-superior-60510"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-14"
-last_updated: "2008-03-14"
+last_updated: "2010-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE NUEVO LEON, PUBLICADO EN EL P.O. DE 26 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de marzo de 2008.
 
@@ -922,3 +924,15 @@ Por tanto, mando se imprima y publique en el Periódico Oficial del Estado de Nu
 EL C. AUDITOR GENERAL DEL ESTADO DE NUEVO LEÓN
 
 C.P. SERGIO MARENCO SÁNCHEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE MAYO DE 2010.
+
+Primero. Se aprueba el Reglamento Interior del Órgano de Fiscalización Superior del Estado de Nuevo León.
+
+Segundo. Se abroga el Reglamento Interior del Órgano de Fiscalización Superior del Estado de Nuevo León publicado en el Periódico Oficial del Estado de fecha catorce de marzo de dos mil ocho, a partir de la entrada en vigor del Reglamento que se aprueba.
+
+Tercero. El Reglamento que se aprueba entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Cuarto. Para efectos del trámite y despacho de los asuntos que correspondieron a las unidades administrativas que se modifican o extinguen, las menciones contenidas en los acuerdos, resoluciones o cualquier otro instrumento relacionado con la actividad del Órgano, respecto de las unidades administrativas previstas en el Reglamento que se abroga, se entenderán referidas a las definidas en el presente Reglamento, conforme a la estructura orgánica, distribución de atribuciones y facultades previstas en el mismo.
