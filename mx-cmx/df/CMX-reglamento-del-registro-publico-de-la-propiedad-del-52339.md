@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-registro-publico-de-la-propiedad-del-52339"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-24"
-last_updated: "2009-11-12"
+last_updated: "2010-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52339&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2006-11-08"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE MAYO DE 2010.
 
 Reglamento publicado en el Número Bis de la Gaceta Oficial del Distrito Federal, el viernes 24 de noviembre de 2006.
 
@@ -58,7 +58,9 @@ IV. Director General, al Director General del Registro Público de la Propiedad 
 
 V. Boletín Registral, a la Sección Boletín Registral, de la Gaceta Oficial del Distrito Federal;
 
-VI. SIR, al Sistema de Información Registral;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2010)</small>
+
+VI. Sistema Informático, al Sistema Informático autorizado para la gestión registral;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -66,11 +68,9 @@ VI. SIR, al Sistema de Información Registral;
 
 VII. Dirección Jurídica, a la Unidad Administrativa de Apoyo Técnico Operativo en materia jurídica;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2010)</small>
 
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2009)</small>
-
-VIII. Hoja de seguridad, al papel oficial en que se practican los asientos y se expiden las certificaciones; y (sic)
+VIII. Papel de seguridad, al papel oficial en que se expiden las certificaciones;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -92,7 +92,19 @@ XII. Firma electrónica reconocida, es la firma electrónica avanzada generada m
 
 (REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE JULIO DE 2009) (F. DE E., G.O. 22 DE JULIO DE 2009)
 
-XIII. Certificado reconocido, es aquel certificado electrónico expedido por un prestador de servicios de certificación que es fiable y se encarga de comprobar la identidad y los datos que conforman la firma electrónica del solicitante.
+XIII. Certificado reconocido, es aquel certificado electrónico expedido por un prestador de servicios de certificación que es fiable y se encarga de comprobar la identidad y los datos que conforman la firma electrónica del solicitante;
+
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2010)</small>
+
+XIV. Asiento, a la inscripción o anotación que practica el registrador en el folio correspondiente;
+
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2010)</small>
+
+XV. Folio Electrónico, al conjunto de asientos electrónicos realizados en el formato creado y controlado por medios informáticos, referidos a una finca, una persona moral no mercantil, o un bien mueble;
+
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2010)</small>
+
+XVI. Migración, al proceso de transformación de la información registral que conste en libros o en folios físicos a Folio Electrónico.
 
 > <small>(ADICIONADO, G.O. 16 DE JULIO DE 2009)</small>
 
@@ -160,9 +172,7 @@ En su caso, podrá delegar mediante oficio en servidores públicos de la propia 
 
 El titular de la Dirección Jurídica deberá reunir los mismos requisitos que se exigen para ser Director General.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 9.
 
@@ -208,9 +218,11 @@ VII. Analizar y resolver la procedencia, improcedencia y liberación de la custo
 
 ### CAPÍTULO III. DE LOS REGISTRADORES
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 10.
 
-Registrador es el servidor público auxiliar de la función registral, que tiene a su cargo examinar y calificar los documentos registrables y autorizar los asientos en que se materializa su registro.
+Registrador es el servidor público auxiliar de la función registral, que tiene a su cargo examinar y calificar los documentos y autorizar los asientos correspondientes.
 
 Para ser registrador, se requiere:
 
@@ -232,17 +244,13 @@ Los registradores ejercerán la función registral en auxilio del Director Gener
 
 Son atribuciones de los registradores:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2010)</small>
 
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2009)</small>
+I. Realizar la calificación de los documentos que les sean turnados para determinar la procedencia de la anotación o inscripción, según resulte de su forma y contenido, en función de los asientos registrales vigentes, del Sistema Informático y de los ordenamientos aplicables;
 
-I. Realizar la calificación de los documentos que les sean turnados para determinar la procedencia de la anotación o inscripción, según resulte de su forma y contenido, en función de los asientos registrales preexistentes, del sistema informático y de los ordenamientos aplicables;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2009)</small>
-
-II. Inscribir, anotar, suspender o denegar el servicio registral según corresponda;
+II. Inscribir, anotar, suspender, rechazar o denegar según corresponda;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -286,93 +294,67 @@ I. Registro Inmobiliario;
 
 II. Registro Mobiliario, y
 
-III. Registro de Personas Morales.
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2010)</small>
+
+III. Registro de Personas Morales no mercantiles.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 16.
 
-Los folios en que se practiquen los asientos, según la materia se clasificarán en:
+Los Folios Electrónicos, según la materia se clasificarán en:
 
 I. Folio Real de Inmuebles;
 
 II. Folio Real de Bienes Muebles, y
 
-III. Folio de Personas Morales.
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2010)</small>
+
+III. Folios de Personas Morales no mercantiles.
 
 ### CAPÍTULO II. DEL SISTEMA INFORMÁTICO
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 17.
 
-El sistema informático se compone de:
+Todo el procedimiento registral se llevará electrónicamente a través del Sistema Informático, la información almacenada en el sistema y los archivos complementarios necesarios para la labor registral, los que contarán con el reconocimiento de validez y podrán ser utilizados para verificar, corregir, validar e inclusive reponer los asientos registrales.
 
-I. Control de Gestión;
-
-II. SIR;
-
-III. Bases de datos y archivos complementarios, necesarios para explotar y validar la información, y
-
-IV. Respaldos.
-
-> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
-
-Los archivos e imágenes que contenga este sistema informático, contarán con el reconocimiento de validez y podrán ser utilizados para verificar, corregir, validar e inclusive reponer los asientos registrales.
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 18.
 
-A través del Control de Gestión se incorpora, ordena, archiva y consulta la información sobre los trámites y servicios que presta la institución, desde su ingreso hasta su conclusión.
+A través del Sistema Informático se incorpora, ordena, archiva y consulta la información sobre los trámites que presta la institución, desde su ingreso hasta su conclusión.
 
-La situación de los trámites y servicios en el control de gestión, según corresponda, se actualizará conforme a las siguientes etapas del procedimiento:
+La situación de los trámites, se actualizará según corresponda de acuerdo con las etapas del procedimiento.
 
-I. Ingresado;
-
-II. En calificación;
-
-III. Suspendido;
-
-IV. Subsanado;
-
-V. Procedente;
-
-VI. Denegado;
-
-VII. En recurso de inconformidad;
-
-VIII. Resolución del Recurso, y
-
-IX. Entregado.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2009)</small>
-
-Tratándose de las etapas a que se refieren las fracciones III, IV, V, VI y VIII, la determinación correspondiente se publicará en el boletín registral.
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 19.
 
-Los datos proporcionados por el peticionario en la solicitud de entrada y trámite, se incorporarán al Control de Gestión. Este asignará los siguientes elementos:
+Los datos proporcionados por el peticionario en la solicitud de entrada y trámite, se incorporarán al Sistema Informático. Este asignará los siguientes elementos:
 
-I. Número de entrada por orden de presentación, que será progresivo y se imprimirá en cada documento ingresado, además de la fecha, hora y materia a que corresponda. La numeración se iniciará cada año calendario, sin que por ningún motivo, esté permitido emplear para documentos diversos el mismo número, aún cuando éste se provea de alguna marca o signo distintivo, salvo que se trate de un sólo instrumento, y
+I. El Número de entrada por orden de presentación, que será progresivo, además de la fecha, hora y materia a que corresponda, mismo que se hará constar en cada documento. La numeración se iniciará cada año calendario, sin que por ningún motivo, esté permitido emplear para documentos diversos el mismo número, aún cuando éste se provea de alguna marca o signo distintivo, salvo que se trate de un sólo instrumento, y
 
-II. Registrador al que se turne el documento.
+II. El Registrador al que se turne el documento.
 
-El registrador incorporará al control de gestión, fecha de calificación del documento y, en su caso, motivo de la suspensión o denegación del servicio.
+El registrador incorporará al Sistema Informático, fecha de calificación del documento y, en su caso, motivo de la suspensión o negación mediante acuerdo fundado y motivado.
+
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 20.
 
-El SIR contendrá los datos e imágenes digitales, que relacionados entre sí, constituyen los archivos electrónicos que integran los folios y asientos registrales.
+La función registral podrá apoyarse en archivos de validación sustentados en el Sistema Informático.
 
-Los asientos, las imágenes, los datos del control de gestión y los archivos de validación, integran la información registral que sustenta al SIR.
-
-Las imágenes digitales son producto de los asientos que, una vez autorizados por el registrador, son incorporados al sistema.
-
-Los archivos de validación a su vez, se sustentan en fuentes externas, necesarias para el desempeño de la función registral.
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 21.
 
-El registrador practicará los asientos mediante la captura de datos en el SIR y los autorizará en el mismo.
+El registrador practicará los asientos a través del Sistema Informático, los firmará con su firma electrónica reconocida al igual que todo documento que emita, circunstancia que se publicará en el boletín registral.
 
 ###### Artículo 22.
 
-Autorizados los asientos, el registrador ordenará su impresión en hojas de seguridad. En esta condición, los asientos serán digitalizados e incorporados al folio correspondiente, lo que dará por terminado el procedimiento registral.
+(DEROGADO, G.O. 27 DE MAYO DE 2010)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -410,7 +392,9 @@ IV. Valor de la operación;
 
 V. El monto de los derechos, incluyendo los cálculos de las reducciones y condonaciones que en su caso le correspondan;
 
-VI. El antecedente registral, y
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2010)</small>
+
+VI. Los antecedentes registrales, y
 
 VII. Observaciones.
 
@@ -422,71 +406,103 @@ A la solicitud de entrada y trámite se anexará el comprobante original del pag
 
 En los casos en los que la solicitud de trámite se realice a través de la Internet, no se hará la anotación del aviso preventivo a la que se refiere el primer párrafo del artículo 3016 del Código.
 
-### CAPÍTULO IV. DE LOS FOLIOS
+> <small>(REFORMADA SU DENOMINACION, G.O. 27 DE MAYO DE 2010)</small>
+
+### CAPÍTULO IV. DE LAS TÉCNICAS REGISTRALES. EL FOLIO ELECTRÓNICO
+
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 26.
 
-La finca, el bien mueble o persona moral, constituye la unidad básica registral. El folio numerado y autorizado, es el documento que contiene sus datos de identificación, así como los asientos de los actos jurídicos que en ellos incidan.
+Tanto en el Folio físico como en el Folio Electrónico la finca, el bien mueble o persona moral civil no mercantil constituyen la unidad básica registral. El Folio Electrónico numerado y autorizado es el documento que contendrá sus datos de identificación, así como los asientos de los actos jurídicos que en ellos incidan.
 
-El folio se compone de la carátula y las siguientes partes:
+A la apertura del Folio Electrónico, la primera inscripción contendrá la materia a la que se refiere, además de los antecedentes registrales vigentes y la siguiente información:
 
-I. Inscripciones de propiedad;
+I.- Inmuebles:
 
-II. Gravámenes y limitaciones de dominio, y
-
-III. Anotaciones preventivas.
-
-###### Artículo 27.
-
-Al comenzar a utilizarse cada folio, se le dará el número progresivo que le corresponda. Dicho número servirá de guía para los efectos de su ordenación en archivos y será el número registral del bien inmueble, mueble o persona moral que corresponda.
-
-###### Artículo 28.
-
-La carátula del folio será autorizada por el servidor público que designe el Director General, y contará con espacios para contener:
-
-I. El rubro: "ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL, REGISTRO PUBLICO DE LA PROPIEDAD" y logotipo autorizado de la institución;
-
-II. La autorización, en los siguientes términos: "Se autoriza el presente folio para los asientos relativos a la finca, bien mueble o persona moral, según la materia, cuyos datos registrales y de identificación se describen a continuación"; fecha de la autorización; sello y firma del servidor público que autoriza;
-
-III. Materia y número de folio, que será progresivo e invariable;
-
-IV. Antecedente registral, con excepción de los casos de inmatriculación;
-
-V. Tratándose de bienes inmuebles:
-
-a) Descripción del mismo;
+a) Descripción de los mismos;
 
 b) Ubicación;
 
-c) Denominación, si la tuviere;
+c) Denominación, si la tuvieren;
 
 d) Superficie, con letra y número;
 
-e) Rumbos, medidas y colindancias, y
+e) Rumbos, medidas y colindancias,
 
-f) Número de cuenta catastral.
+f) Número de cuenta catastral y
 
-VI. En el caso de bienes muebles se contendrá su descripción, y
+g) Titular registral con sus generales.
 
-VII. Tratándose de personas morales, deberán establecerse los datos esenciales de las mismas.
+II.- Muebles:
+
+a) Descripción de los mismos;
+
+b) Lugar de ubicación;
+
+c) Características.
+
+III.- Personas Morales no mercantiles:
+
+a) Denominación;
+
+b) Tipo de sociedad;
+
+c) Objeto;
+
+d) Domicilio;
+
+e) Importe del capital social; y
+
+f) Registro Federal de Contribuyentes.
+
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
+###### Artículo 27.
+
+A la apertura de cada Folio Electrónico se le dará el número progresivo que le corresponda y según la materia de la que se trate.
+
+###### Artículo 28.
+
+(DEROGADO, G.O. 27 DE MAYO DE 2010)
+
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 29.
 
-Las hojas de seguridad tendrán los apartados necesarios para que ordenadamente se anoten el número de entrada, fecha, acto jurídico, el asiento, nombre y firma del registrador.
+Los asientos deberán contener, en todos los casos los siguientes datos:
+
+a) El número de entrada;
+
+b) La fecha;
+
+c) Datos del documento presentado;
+
+d) Datos del acto jurídico;
+
+e) Datos generales de los otorgantes;
+
+f) Nombre del registrador; y
+
+g) Nombre del inscribidor.
 
 ###### Artículo 30.
 
-Asiento es la inscripción o anotación que practica el registrador en el folio correspondiente, en ejercicio de la función registral.
+(DEROGADO, G.O. 27 DE MAYO DE 2010)
+
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 31.
 
-Todas las hojas de seguridad resultantes de un asiento, deberán numerarse progresivamente y firmarse por el registrador.
+El Registrador firmará con firma electrónica reconocida el asiento practicado.
 
 ### CAPÍTULO V. DE LA CONSULTA DE LOS REGISTROS
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 32.
 
-La búsqueda de registros se realizará por el número y materia del folio, así como por los siguientes datos:
+La búsqueda de asientos se realizará por el número y materia del folio, así como por los siguientes datos:
 
 I. Tratándose de inmuebles:
 
@@ -494,39 +510,53 @@ a) Denominación de la finca;
 
 b) Calle o avenida, número y colonia;
 
-c) Lote, manzana y fraccionamiento, y
+c) Lote, manzana y fraccionamiento;
 
-d) Nombre de los propietarios;
+d) Nombre y CURP de los propietarios y de los titulares de otros derechos; y
 
-II. En caso de personas morales, por denominación o razón social;
+e) Clave catastral.
 
-III. En caso de muebles, por nombre de los contratantes, y
+II. En caso de personas morales:
+
+a) Denominación o razón social;
+
+b) Registro Federal de Contribuyentes, y
+
+c) Nombre de los socios o asociados.
+
+III. En caso de muebles:
+
+a) Por nombre de los contratantes;
+
+b) Datos de la factura; y
+
+c) Datos identificatorios del bien mueble.
 
 IV. Por cualquier otro dato que determine el Director General.
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 33.
 
-La información contenida en los registros, podrá consultarse por los siguientes medios:
+La información registral podrá ser consultada para la calificación de los documentos por parte de los Registradores directamente a través del Sistema Informático.
 
-I. El SIR;
+> <small>(ADICIONADO, G.O. 27 DE MAYO DE 2010)</small>
 
-II. La impresión del asiento digitalizado o microfilmado;
+###### Artículo 33 Bis.
 
-III. La reproducción o impresión del asiento documental, y
-
-IV. Por cualquier otro que determine el Director General.
+La publicidad que expida el registro estará limitada a los asientos registrales vigentes del Folio Electrónico. No se publicitarán asientos de cancelación.
 
 ## TÍTULO TERCERO. DEL PROCEDIMIENTO REGISTRAL
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 34.
 
-El servicio registral se inicia con la asignación del número de entrada a la solicitud presentada por escrito con sus anexos.
+El procedimiento registral se inicia con la asignación del número de entrada y trámite a la solicitud presentada por escrito con sus anexos.
 
-> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
-
-Será requisito indispensable para la prestación del servicio, el previo y correcto pago de los derechos correspondientes. En caso contrario el documento se turnará a la ventanilla única como trámite denegado.
+Será requisito indispensable para llevar a cabo el procedimiento registral el pago previo y correcto de los derechos correspondientes. En caso contrario el documento se turnará a la ventanilla única como trámite denegado.
 
 > <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
 
@@ -534,35 +564,33 @@ Será requisito indispensable para la prestación del servicio, el previo y corr
 
 Los documentos a que se refieren las fracciones II y III del artículo 3005 del Código serán resguardados en archivo electrónico y formarán parte del Sistema Informático del Registro Público de la Propiedad para los efectos legales conducentes.
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 36.
 
-Tratándose de los actos a que se refiere el primer párrafo del artículo 3016 del Código, deberá adjuntarse un certificado sobre la existencia o inexistencia de gravámenes, limitaciones de dominio y anotaciones preventivas que afecten la finca.
+Tratándose de los actos a que se refiere el primer párrafo del artículo 3016 del Código, deberá adjuntarse un certificado que contenga todas las constancias y asientos vigentes sobre la finca
 
-Cuando se trate de la inscripción de actos relativos a las diversas unidades resultantes de condominios, lotificaciones o subdivisiones, no se requerirá un certificado por cada una de ellas, siempre que se presente el expedido con anterioridad respecto del inmueble de que provengan y no hayan transcurrido los plazos a que se refiere el artículo 3016 del Código.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 37.
 
-Las anotaciones de los avisos a que se refiere el artículo 3016 del Código, se practicarán de inmediato en la parte que corresponda al folio de la finca afectada, con excepción de los casos donde la solicitud de trámite se realice a través de la Internet.
+Las anotaciones de los avisos a que se refiere el artículo 3016 del Código, se practicarán de inmediato en el folio de la finca afectada, con excepción de los casos donde la solicitud de trámite se realice a través de la Internet.
 
-Si durante la vigencia de los avisos preventivos y en relación con la misma finca o derechos, se presentare otro documento contradictorio para su registro o anotación, éste será objeto de una anotación preventiva a fin de que adquiera la prelación que corresponda, de operar la cancelación o caducidad de alguna anotación anterior. En caso contrario, las anotaciones preventivas de dichos documentos quedarán sin efecto.
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 27 DE MAYO DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 38.
 
 Turnado un documento al Registrador, procederá a su calificación en un plazo de hasta quince días hábiles, conforme a la prelación que le corresponda, de acuerdo a la fecha de su ingreso y las disposiciones legales vigentes.
 
-Si mediante calificación fundada y motivada el Registrador suspende o deniega la inscripción o anotación, mandará a publicar dicha circunstancia en el Boletín Registral. En el caso de suspensión, a partir de la mencionada publicación el interesado contará con quince días hábiles para en su caso subsanar las irregularidades señaladas. Procederá la suspensión en los casos de omisiones o defectos subsanables y la denegación por causas insubsanables.
+Si mediante calificación fundada y motivada el Registrador suspende o niega la inscripción o anotación, mandará a publicar dicha circunstancia en el Boletín Registral. En el caso de suspensión, a partir de la mencionada publicación el interesado contará con quince días hábiles para en su caso subsanar las irregularidades señaladas. Procederá la suspensión en los casos de omisiones o defectos subsanables y la negación por causas insubsanables.
 
-En caso de suspensión del trámite, si en el término señalado no se subsanan las causas que la originaron, el Registrador denegará la inscripción o anotación y publicará su determinación en el Boletín Registral con el estatus de “Denegado”; momento a partir del cual el documento estará a disposición del interesado.
+En caso de suspensión, si en el término señalado no se subsanan las causas que la originaron, el Registrador negará la inscripción o anotación y publicará su determinación en el Boletín Registral, momento a partir del cual el documento estará a disposición del interesado.
 
-En ambos supuestos de denegación procederá el Recurso de Inconformidad ante el Director General.
+El recurso de inconformidad procederá ante el Director General contra la calificación del Registrador que niegue la inscripción o anotación.
 
-Los documentos que no sean retirados en un término de treinta días hábiles siguientes a la notificación de la denegación por el Boletín Registral, se remitirán al archivo del Distrito Federal.
+Los documentos que no sean retirados en un término de treinta días hábiles siguientes a su publicación en el Boletín Registral, se remitirán al archivo del Distrito Federal.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -572,21 +600,17 @@ Los documentos que no sean retirados en un término de treinta días hábiles si
 
 Cuando el Registrador deniegue la inscripción o anotación, se publicará de inmediato esa determinación en el Boletín Registral, quedando el documento a disposición del interesado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 40.
 
-En caso de suspensión o denegación del servicio, si el interesado se allana a los resultados de la calificación publicados por el Registrador, se pondrán los documentos a su disposición.
+En caso de suspensión o negación, si el interesado se allana a los resultados de la calificación publicados por el Registrador, se pondrán los documentos a su disposición.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 41.
 
-Si se subsanan los defectos y procede la anotación o inscripción, cambiará el estatus del trámite a “Subsanado” y continuará inmediatamente el procedimiento registral.
+Si se subsanan los defectos y procede la anotación o inscripción, continuará inmediatamente el procedimiento registral.
 
 ###### Artículo 42.
 
@@ -596,25 +620,29 @@ Cuando habiéndose prevenido a la autoridad ordenadora, ésta no reitere expresa
 
 Las resoluciones judiciales ejecutoriadas que ordenen una inscripción, anotación o cancelación en un juicio en que el Registro Público sea parte, se cumplirán de inmediato.
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 43.
 
-En los folios se practicarán los siguientes asientos:
+En los Folios Electrónicos se practicarán los siguientes asientos:
 
-I. Notas de presentación;
+I. La inscripción de apertura de Folio Electrónico, la cual contendrá todos los datos relativos a los asientos vigentes ya sea respecto de los inmuebles, los muebles o las personas morales;
 
-II. Anotaciones preventivas;
+II. Notas de presentación;
 
-III. Inscripciones, y
+III. Anotaciones preventivas;
 
-IV. Cancelaciones.
+IV. Inscripciones, y
+
+V. Cancelaciones.
 
 ###### Artículo 44.
 
-Las notas de presentación se practicarán en la tercera parte del folio. Contendrán la fecha y número de entrada de los avisos a que se refiere el artículo 3016 del Código, y deberán constar en los folios en un plazo no mayor a 24 horas a partir de que los avisos hayan sido presentados.
+(DEROGADO, G.O. 27 DE MAYO DE 2010)
 
 ###### Artículo 45.
 
-Las anotaciones preventivas a que se refiere el artículo 3043 del Código, se practicarán en la parte tercera del folio.
+(DEROGADO, G.O. 27 DE MAYO DE 2010)
 
 ###### Artículo 46.
 
@@ -676,31 +704,51 @@ VIII. Las demás circunstancias relativas al incidente respectivo, cuando así l
 
 ###### Artículo 51.
 
-Los asientos y sus cancelaciones se practicarán en la parte correspondiente del folio.
+(DEROGADO, G.O. 27 DE MAYO DE 2010)
 
 ###### Artículo 52.
 
 Los asientos se correlacionarán mediante numeración ordinal progresiva.
 
-Cuando habiéndose practicado un asiento en el SIR e impreso en la hoja de seguridad correspondiente, se advierta alguna equivocación antes de firmarse esta última, se procederá a su enmienda mediante un nuevo asiento que deberá referir al equívoco. Ambos registros constarán en el folio.
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
+Firmado digitalmente el asiento por el registrador, el mismo puede rectificarlo y firmar el nuevo asiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 27 DE MAYO DE 2010)</small>
+
+El asiento erróneo que se subsane no se tendrá en cuenta para los efectos de expedir publicidad o calificar documentos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 27 DE MAYO DE 2010)</small>
+
+El Registrador deberá dejar constancia de los datos que se rectifican y del motivo de la rectificación.
+
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 53.
 
-Salvo los casos de inmatriculación, todo documento asentable hará referencia expresa a los antecedentes registrales, relacionando la última inscripción relativa al bien o derecho de que se trate, así como las demás que fueren necesarias para establecer una exacta correlación entre los contenidos en el documento y los del folio respectivo.
+Salvo los casos de inmatriculación, todo documento presentado para su calificación hará referencia expresa a todos los asientos vigentes que sirvan de antecedentes, relacionando las últimas inscripciones o anotaciones relativas al bien o derecho de que se trate, así como las demás que fueren necesarias para establecer una exacta correlación entre los contenidos en el documento y los del Folio Electrónico respectivo.
+
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 54.
 
-Autorizado un asiento, al calce del documento que lo motivó se plasmará el sello de que ha quedado registrado, el cual contendrá el número de folio, la fecha de inscripción, los datos del pago de derechos, el nombre y firma del registrador. Cumplidas estas formalidades, el instrumento se pondrá a disposición del interesado mediante su publicación en el Boletín Registral.
+Firmado un asiento, se informaran en el documento que lo motivó las constancias de anotación o inscripción.
+
+Cumplida esta formalidad, el documento se pondrá a disposición del interesado previa publicación en el Boletín Registral.
+
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 55.
 
-Cuando un instrumento se refiera a diversas fincas o actos, y proceda la denegación de la inscripción de algunas o algunos de ellos, podrá registrarse parcialmente el documento a solicitud del interesado; de lo que se hará referencia expresa en el sello a que se refiere el artículo anterior, mencionando las fincas o actos que queden excluidos. En el asiento respectivo, el registrador tomará razón de que se practica con base en una solicitud de inscripción parcial.
+Cuando un documento se refiera a diversas fincas o actos, y proceda la negación de la inscripción o anotación de algunas o algunos de ellos, podrá registrarse parcialmente el documento a solicitud del interesado; de lo que se hará referencia de acuerdo a lo dispuesto en el artículo anterior, mencionando las fincas o actos que queden excluidos. En el asiento respectivo, el registrador tomará razón de que se practica con base en una solicitud de inscripción parcial.
+
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 56.
 
-Para que surtan efecto los asientos, deberán contener nombre y firma del registrador. Si faltare cualquiera de estos requisitos, podrán exigirse por quien presente el documento respectivo con el sello de haber sido registrado; en este supuesto, el registrador practicará un asiento por el que se subsane el defecto.
+Para que surtan efecto los asientos, deberán contener nombre y firma electrónica reconocida del Registrador. Si faltare cualquiera de estos requisitos podrán exigirse por quien presente el documento respectivo con las constancias de inscripción o anotación; en este supuesto, el Registrador practicará un asiento por el que se subsane el defecto.
 
-Si la omisión fuere de un registrador que hubiese cesado en el ejercicio de su cargo, otro en funciones practicará el asiento respectivo. Si se rehusare a practicarlo, fundará y motivará su determinación y turnará el asunto a la unidad jurídica.
+Si la omisión fuere de un Registrador que hubiese cesado en el ejercicio de su cargo, otro en funciones practicará el asiento respectivo.
 
 ###### Artículo 57.
 
@@ -708,9 +756,17 @@ En todo asiento deberá constar la Clave Única de Registro de Población de los
 
 ### CAPÍTULO II. DEL REGISTRO INMOBILIARIO
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 58.
 
-La finca es la unidad básica registral. El registro de la propiedad inmobiliaria se llevará en un folio real para cada finca.
+La finca es la unidad básica registral en el registro de la propiedad inmobiliaria; el mismo se llevará en un folio real electrónico para cada finca.
+
+Los asientos registrales vigentes con relación a una finca que consten en asientos de libros o en folios reales, pasarán a integrar el folio real electrónico para inmuebles mediante el procedimiento de migración.
+
+Ante cualquier trámite relacionado con una finca que ingrese al Registro se creará el Folio real electrónico.
+
+En el caso de que los antecedentes registrales vigentes deban reponerse por completo, se producirá la apertura de Folio Electrónico por reposición de antecedentes.
 
 ###### Artículo 59.
 
@@ -742,69 +798,85 @@ Cuando se fusionen dos o más fincas para formar una sola, se creará un folio p
 
 En los folios de las fincas modificadas por fusión o subdivisión, se harán constar las variantes producidas y el número de los nuevos folios que resultaren.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 63.
 
-Cuando exista discrepancia entre el bien materia de inscripción con sus antecedentes registrales, podrá acreditarse su identidad con documentos oficiales idóneos, siempre y cuando la superficie no se incremente. En caso contrario, procederá la inscripción mediante orden judicial, previo pago de las contribuciones correspondientes.
+Cuando exista discrepancia entre el bien materia de inscripción con sus antecedentes registrales, podrá acreditarse su identidad con documentos oficiales idóneos, siempre y cuando la superficie no se modifique. En caso contrario, procederá la inscripción mediante orden judicial, previo pago de las contribuciones correspondientes.
 
 No se entenderá que existe discrepancia, cuando identificado el inmueble en el documento correspondiente según sus antecedentes registrales, se haga mención adicional de los cambios de nomenclatura, denominación del fraccionamiento o colonia, así como la Delegación, por haberse modificado sus límites.
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 64.
 
-Los actos contenidos en los títulos o documentos a que se refiere el artículo 3042 del Código, se inscribirán en la parte primera del folio, excepción hecha de aquéllos por los que se constituyan, reconozcan, transmitan, modifiquen o extingan derechos de hipoteca y demás derechos reales distintos del de propiedad, a los cuales está destinada la segunda parte del folio.
+En el Folio Real Electrónico se asentarán los actos contenidos en los títulos o documentos a los que se refiere el artículo 3042 del Código; asimismo aquéllos por los que se constituyan, reconozcan, transmitan, modifiquen o extingan derechos de hipoteca y demás derechos reales distintos del de propiedad, además de:
+
+I.- Las enajenaciones en las que se sujete la transmisión de la propiedad a condiciones suspensivas o resolutorias;
+
+II.- Las ventas con reserva de dominio a que se refiere el artículo 2312 del Código, haciendo referencia expresa al pacto de reserva;
+
+III.- El cumplimiento de las condiciones a que se refieren las dos fracciones anteriores;
+
+IV.- Los fideicomisos;
+
+V.- La constitución del Patrimonio de Familia;
+
+VI.- Los contratos de arrendamiento, subarrendamiento o cesión de arrendamiento, con las prevenciones que establece el Código;
+
+VII.- La prenda de frutos pendientes y la de títulos inscritos en el Registro Público, en los términos de los artículos 2857 y 2861 del Código;
+
+VIII.- El nacimiento de la obligación futura y el cumplimiento de las condiciones a que se refieren los artículos 2921 al 2923 del Código, y
+
+IX.- Las afectaciones o limitaciones a que dé lugar la aplicación de la Ley de Desarrollo Urbano del Distrito Federal.
 
 ###### Artículo 65.
 
-Entre los actos destinados a ocupar la parte primera del folio, se consignarán:
-
-I. Las enajenaciones en las que se sujete la transmisión de la propiedad a condiciones suspensivas o resolutorias;
-
-II. Las ventas con reserva de dominio a que se refiere el artículo 2312 del Código, haciendo referencia expresa al pacto de reserva;
-
-III. El cumplimiento de las condiciones a que se refieren las dos fracciones anteriores;
-
-IV. Los fideicomisos, y
-
-V. La constitución del Patrimonio de Familia.
+(DEROGADO, G.O. 27 DE MAYO DE 2010)
 
 ###### Artículo 66.
 
-Entre los actos destinados a ocupar la segunda parte del folio, se consignarán:
+(DEROGADO, G.O. 27 DE MAYO DE 2010)
 
-I. Los contratos de arrendamiento, subarrendamiento o cesión de arrendamiento, con las prevenciones que establece el Código;
-
-II. La prenda de frutos pendientes y la de títulos inscritos en el Registro Público, en los términos de los artículos 2857 y 2861 del Código;
-
-III. El nacimiento de la obligación futura y el cumplimiento de las condiciones a que se refieren los artículos 2921 al 2923 del Código, y
-
-IV. Las afectaciones o limitaciones a que dé lugar la aplicación de la Ley de Desarrollo Urbano del Distrito Federal.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 67.
 
-Para mayor exactitud de las inscripciones sobre fincas, se observará lo dispuesto por el artículo 3061 del Código, con arreglo a lo siguiente:
+Para mayor exactitud de las inscripciones sobre fincas se observará lo dispuesto por el artículo 3061 del Código, con arreglo a lo siguiente:
 
 I. Para determinar la situación de las fincas se expresará, de acuerdo con los datos del documento, Delegación en la que se ubiquen, denominación del predio, si la tuviere, fraccionamiento, colonia, poblado o barrio; la calle y número o lote y manzana que lo identifiquen, código postal y número de cuenta catastral;
 
 II. Superficie, linderos, medidas y colindancias, según conste en el documento;
 
-III. El acto o derecho constitutivo se asentará con la denominación que se le dé en el documento;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2010)</small>
 
-IV. Tratándose de hipotecas, los asientos se efectuarán de acuerdo con lo dispuesto por el artículo 2912 del Código;
+III. El acto o derecho se asentará con la denominación que se le dé en el documento;
 
-V. Cuando se trate de derechos, la inscripción deberá contener todos los datos que según el documento, los determine o limite;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2010)</small>
 
-VI. Cuando se modifique la nomenclatura de las calles o la numeración de las fincas, los titulares registrales de éstas podrán solicitar la modificación correlativa en el folio correspondiente, mediante constancia que expida la autoridad competente del Distrito Federal;
+IV. Tratándose de hipotecas los asientos se efectuarán de acuerdo con lo dispuesto por los artículos que contempla el Capítulo I del Título XV del Código;
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2010)</small>
 
-VII. Los nombres propios que deban figurar en la inscripción se consignarán literalmente, según aparezca en el título respectivo, sin que esté permitido a los registradores, ni aún por acuerdo de las partes, modificar, añadir u omitir alguno, salvo resolución judicial. También se asentará la Clave Única del Registro de Población, y
+V. Cuando se trate de derechos los asientos deberán contener todos los datos que según el documento, los determine o limite;
+
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2010)</small>
+
+VI. Cuando se modifique la nomenclatura de las calles o la numeración de las fincas, los titulares registrales de éstas podrán solicitar la modificación correlativa en el Folio Real Electrónico correspondiente mediante constancia que expida la autoridad competente del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2010)</small>
+
+VII. Los nombres propios que deban figurar en la inscripción se consignarán literalmente, según aparezca en el título respectivo, sin que esté permitido a los registradores, ni aún por acuerdo de las partes, modificar, añadir u omitir alguno, salvo resolución judicial. También se asentará la Clave Única del Registro de Población, el Registro Federal de Contribuyentes y cualquier otro dato de identificación que de acuerdo a la ley del notariado y al Código Civil deba constar en los documentos, y
 
 VIII. Asimismo, se consignarán las limitaciones de dominio que señale el documento.
 
 ### CAPÍTULO III. DEL REGISTRO MOBILIARIO
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 68.
 
-En los folios del registro mobiliario, se asentarán las operaciones a que se refieren los artículos 2310, 2312, 2859 y 3069 del Código.
+En los Folios Reales Electrónicos del registro mobiliario se asentarán las que se refieren al artículo 3069 del Código.
 
 ###### Artículo 69.
 
@@ -830,17 +902,21 @@ IV. La clase de documento en que se haya hecho constar el contrato respectivo y,
 
 V. La naturaleza de los muebles, su marca, modelo, serie, tipo, nombre del fabricante y, en general, todas aquellas características que sirvan para identificarlos de manera indubitable.
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 71.
 
-Inscrita una operación en el registro mobiliario, al calce del contrato respectivo el registrador dejará constancia de los datos de inscripción. En la factura mencionará la operación efectuada con el bien a que la misma se refiera, y los correspondientes datos de registro.
-
-En caso de que la operación registrada no comprenda la totalidad de bienes que ampara la factura, se asentará razón de ello en la misma.
+Inscrita una operación en el Registro Mobiliario, el Registrador dejará constancia de los datos de inscripción en el documento presentado.
 
 ### CAPÍTULO IV. DEL REGISTRO DE LAS PERSONAS MORALES
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 72.
 
-En el registro de personas morales se asentarán aquéllas que señala el artículo 3071 del Código, y que tengan su domicilio en el territorio del Distrito Federal.
+Las Personas Morales no mercantiles serán la unidad básica de este Registro, identificándose con un número único y correlativo, correspondiente a cada Folio Electrónico.
+
+Las personas a que se refiere este capítulo serán aquellas previstas por el artículo 3071 del Código y deberán tener su domicilio en el Distrito Federal.
 
 ###### Artículo 73.
 
@@ -858,19 +934,25 @@ Los errores materiales que se adviertan en los asientos, serán rectificados con
 
 No será necesaria esta confrontación y los errores se podrán rectificar de oficio, o a petición del interesado, cuando puedan probarse con base en el texto de las inscripciones con las que los asientos erróneos estén relacionados.
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 76.
 
-Se considera error material, además de los casos que señala el artículo 3024 del Código, la práctica de un asiento en parte o espacio distinto del que corresponda en el folio respectivo. En este caso, la rectificación podrá hacerse de oficio y se realizará mediante la práctica de otro asiento en la parte correspondiente, que refiera el traslado del efectuado erróneamente.
+Se considera error material, además de los casos que señala el artículo 3024 del Código, cuando se hubiera practicado un asiento en parte o espacio distinto del que corresponda en el folio físico respectivo.
 
-Cuando se haya autorizado definitivamente un asiento y se advierta error, antes de poner a disposición del interesado el instrumento, de oficio se procederá a su rectificación mediante un nuevo asiento, que deberá relacionarse con el que se rectifica.
+Asimismo, cuando el asiento se plasmara, erróneamente de acuerdo a lo determinado en el artículo 52.
+
+Los errores materiales se podrán rectificar de oficio.
 
 ###### Artículo 77.
 
 Se equipara al error material, la práctica de un asiento en folio distinto a aquél en que debió practicarse. Su rectificación se hará mediante el traslado del asiento al folio correcto.
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 78.
 
-Se entenderá que se comete error de concepto cuando al expresar en la inscripción, alguno de los contenidos en el título, se altere o varíe su sentido porque el registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en el consignado, o por cualquiera otra circunstancia. Los errores de concepto en los asientos, se rectificarán conforme a lo previsto en el artículo 3026 del Código y mediante la presentación del documento registrado, o copia certificada del archivo de donde proceda.
+Se entenderá que se comete error de concepto cuando al expresar en la inscripción alguno de los contenidos en el título, se altere o varíe su sentido porque el Registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en él consignado, o por cualquiera otra circunstancia. Los errores de concepto en los asientos se rectificarán conforme a lo previsto en el artículo 3026 del Código, mediante la presentación del documento que contenga el derecho registrado, o copia certificada del archivo de donde proceda, siempre que contenga los datos de registro, y el contenido del mismo fuese correcto; en caso contrario, mediante el documento rectificatorio del instrumento inscrito que originó el error.
 
 ###### Artículo 79.
 
@@ -894,9 +976,11 @@ Dados los supuestos indicados, con vista de los informes rendidos por las unidad
 
 Los asientos documentales, en su caso, podrán reponerse con base en el sistema informático.
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 83.
 
-Las carátulas y los asientos documentales que sean repuestos, deberán hacer mención de esa circunstancia.
+Todo antecedente registral repuesto hará mención de dicha circunstancia en el folio electrónico que se genere.
 
 ###### Artículo 84.
 
@@ -934,6 +1018,10 @@ La caducidad a que se refiere este artículo operará por el simple transcurso d
 
 Los asientos registrales son públicos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 27 DE MAYO DE 2010)</small>
+
+En todos los casos en que de cualquier forma se consulte un asiento, deberá quedar expresamente determinada la identidad del solicitante.
+
 ###### Artículo 91.
 
 El Director General determinará los medios para la consulta de los asientos, y establecerá las unidades y horas de acceso al público para la realización de sus trámites.
@@ -942,13 +1030,17 @@ El Director General determinará los medios para la consulta de los asientos, y 
 
 Previa solicitud se expedirá constancia o certificación, completa o en lo conducente, de los asientos que obren en el Registro Público.
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 93.
 
-Al solicitarse un certificado de los asientos de una o más fincas, se expresará el número de años que deba abarcar la certificación y en ésta se harán constar todos los asientos no cancelados que aparezcan durante el lapso solicitado.
+Al solicitarse un certificado de acuerdo a lo previsto en el artículo 3016 del Código, respecto de una o más fincas, en el mismo se harán constar todos los asientos no cancelados.
+
+Para los fines de este Reglamento se entiende por las certificaciones previstas en el artículo 3016 del Código, a las que versen sobre todas las constancias vigentes de la finca respecto de la cual se solicite la publicidad.
 
 ###### Artículo 94.
 
-Las certificaciones sobre existencia o inexistencia de gravámenes, o de cualquier otro asiento, se harán con vista de todos los antecedentes comprendidos en el periodo solicitado.
+(DEROGADO, G.O. 27 DE MAYO DE 2010)
 
 ###### Artículo 95.
 
@@ -970,19 +1062,37 @@ Cuando las certificaciones no concuerden con los asientos a que se refieren, se 
 
 No se expedirán copias certificadas ni certificaciones, respecto del contenido de los índices.
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 100.
 
 Para la expedición del certificado de no inscripción al que se refiere el artículo 3046 del Código, el interesado anexará a la solicitud de entrada y trámite los siguientes documentos:
 
 I. Plano catastral;
 
-II. Certificado de Zonificación, y
+II. Certificado de Zonificación;
 
-II (sic). Última boleta predial que señale la superficie del inmueble de que se trate, en caso de contar con ella.
+III. Última boleta predial que señale la superficie del inmueble de que se trate, en caso de contar con ella;
+
+IV. Documento por la cual se adquirió la posesión o propiedad, y en su caso de tener una posesión derivada acreditar la posesión originaria;
+
+V. Escrito de petición que deberá contener:
+
+a. Nombre, domicilio y teléfono del solicitante. En caso de ser persona moral acreditar legalmente su constitución;
+
+b. Ubicación y superficie del inmueble, medidas y colindancias, y
+
+c. Denominación del predio;
+
+VI. Croquis de localización;
+
+VII. Constancia de número de lote y manzana expedida por la Secretaría de Desarrollo Urbano y Vivienda.
+
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 101.
 
-Cuando la solicitud o los documentos presentados a que se refiere el artículo anterior tengan omisiones o deficiencias, el Registro Público las notificará al interesado mediante publicación en el boletín registral, a fin de que dentro de un término de diez días hábiles contados a partir de la notificación las subsane, apercibido que de no hacerlo se tendrá por no presentada la solicitud.
+Cuando la solicitud o los documentos presentados a que se refiere el artículo anterior tengan omisiones o deficiencias, el Registro Público las notificará al interesado mediante publicación en el boletín registral, a fin de que dentro de un término de diez días hábiles contados a partir de la notificación las corrija, apercibido que de no hacerlo se tendrá por no presentada la solicitud.
 
 ###### Artículo 102.
 
@@ -1004,21 +1114,29 @@ IV. El uso del suelo autorizado del inmueble de que se trate.
 
 Los informes a las autoridades se harán mediante oficio. Las notificaciones que procedan conforme a este Reglamento, se harán a través del Boletín Registral.
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 105.
 
-Las notificaciones contenidas en el Boletín Registral, deberán expresar:
+Las notificaciones contenidas en el Boletín Registral deberán expresar:
 
-I. El número de entrada;
+I. El número de entrada y trámite;
 
-II. La unidad que tenga a su cargo el trámite;
+II. Fecha de ingreso;
 
-III. La determinación del registrador sobre si suspende o deniega el registro, y
+III. El solicitante;
 
-IV. El número del folio correspondiente.
+IV. La unidad que tenga a su cargo el trámite;
+
+V. El estado que guarda el trámite, y
+
+VI. El número de Folio Electrónico correspondiente.
+
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 106.
 
-El Boletín Registral será colocado diariamente a la vista del público, en el lugar que el Director General determine.
+El Boletín Registral, se publicará de manera electrónica.
 
 ###### Artículo 107.
 
@@ -1068,9 +1186,11 @@ e) Cuando haya salida sin registro a petición de parte una vez calificado.
 
 f) Cuando no se realice el previo y correcto pago del monto de los derechos correspondientes.
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 112.
 
-Si la resolución del Director General fuese favorable al recurrente, se remitirá al registrador para su debido cumplimiento. En caso contrario, el documento será puesto a disposición del inconforme, quedando sin efecto la nota de presentación a que se refiere el artículo 110 de este Reglamento.
+Si la resolución del Director General fuese favorable al recurrente, se remitirá al registrador para su debido cumplimiento. En caso contrario, el documento será puesto a disposición del inconforme, quedando sin efecto la anotación preventiva a que se refiere el artículo 110 de este Reglamento.
 
 ## TÍTULO IV (SIC)
 
@@ -1113,3 +1233,9 @@ G.O. 12 DE NOVIEMBRE DE 2009.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Los documentos que hayan sido calificados, antes de la entrada en vigor del presente decreto, y se encuentren suspendidos por la presentación de pago incorrecto, se substanciarán hasta su conclusión conforme a las disposiciones vigentes al momento de su calificación.
+
+G.O. 27 DE MAYO DE 2010.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Las disposiciones que obligan a la mención de la clave catastral del inmueble, entrarán en vigor a partir del 30 de junio del 2010.
