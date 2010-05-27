@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2009-07-30"
+last_updated: "2010-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2010.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -2995,7 +2995,7 @@ ART. 603.- En el nombramiento de representante se atenderá a lo dispuesto en el
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-ART. 604.- Si la o el cónyuge ausente fuera casado en segundas o ulteriores nupcias y hubiere hijas o hijos del matrimonio o matrimonios anteriores, la autoridad judicial odenará que el cónyuge presente y las hijas o hijos del matrimonio o matrimonios anteriores, o sus legítimos representantes, en su caso, nombren de común acuerdo el depositario, más si no estuvieren conformes, la autoridad judicial le nombrará libremente de entre las personas designadas por el artículo anterior.
+ART. 604.- Si la o el cónyuge ausente fuera casado en segundas o ulteriores nupcias y hubiere hijas o hijos del matrimonio o matrimonios anteriores, la autoridad judicial ordenará que el cónyuge presente y las hijas o hijos del matrimonio o matrimonios anteriores, o sus legítimos representantes, en su caso, nombren de común acuerdo el depositario, más si no estuvieren conformes, la autoridad judicial le nombrará libremente de entre las personas designadas por el artículo anterior.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -3819,7 +3819,7 @@ ART. 794.- Si las ramas de los árboles se extienden sobre heredades, jardines o
 
 ART. 795.- El dueño de una pared que no sea de copropiedad, contigua a finca ajena, puede abrir en ella ventanas o huecos para recibir luces a una altura tal que la parte inferior de la ventana diste del suelo de la vivienda a que dé luz, tres metros a lo menos y en todo caso con reja de hierro remetida en la pared y con red de alambre cuyas mallas sean de tres centímetros a lo sumo.
 
-ART. 796.- Sin embargo de lo dispuesto en el artículo anterior, el dueño de la finca o propiedad contigua a la pared en que estuvieren abiertas las ventanas o huecos, podrá construír pared contigua a ella, o si adquiere la copropiedad, apoyarse en la misma pared aunque de uno o otro modo, cubra los huecos o ventanas.
+ART. 796.- Sin embargo de lo dispuesto en el artículo anterior, el dueño de la finca o propiedad contigua a la pared en que estuvieren abiertas las ventanas o huecos, podrá construír pared contigua a ella, o si adquiere la copropiedad, apoyarse en la misma pared aunque de uno u otro modo, cubra los huecos o ventanas.
 
 ART. 797.- No se pueden tener ventanas para asomarse, ni balcones u otros voladizos semejantes, sobre la propiedad del vecino, prolongándose más allá del límite que separa las heredades. Tampoco pueden tenerse vistas de costado u oblícuas sobre la misma propiedad, si no hay un metro de distancia.
 
@@ -6605,7 +6605,7 @@ La acreditación o la mala fe de difundir informaciones operará en los casos en
 
 La reparación del daño no operará en beneficio de los servidores públicos que se encuentren contemplados en el artículo 124 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, salvo cuando prueben que el acto de difusión se realizó con intención maliciosa.
 
-ART. 1753.- Las personas que han causado en común un daño, son responsables solidariamente hacia al víctima por la reparación a que están obligadas de acuerdo con las disposiciones de este Capítulo.
+ART. 1753.- Las personas que han causado en común un daño, son responsables solidariamente hacia la víctima por la reparación a que están obligadas de acuerdo con las disposiciones de este Capítulo.
 
 ART. 1754.- Las personas morales son responsables de los daños y perjuicios que causen sus representantes legales en el ejercicio de sus funciones.
 
@@ -6627,9 +6627,9 @@ ART. 1762.- En los casos previstos por los artículos 1759, 1760 y 1761, el que 
 
 ART. 1763.- El que paga el daño causado por sus sirvientes, empleados u operarios, puede repetir de ellos lo que hubiere pagado.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2010)</small>
 
-ART. 1764.- El Estado tiene la obligación de responder de los daños y perjuicios causados por sus funcionarios o servidores públicos, exclusivamente en el ejercicio de las funciones que les estén encomendadas. Esta obligación es subsidiaria y, para su cumplimiento, se debe estar a la observancia de lo previsto en el Artículo 76 Bis de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+ART. 1764.- El Estado tiene la obligación de responder de los daños y perjuicios causados por sus funcionarios o servidores públicos, exclusivamente en el ejercicio de las funciones que les estén encomendadas. Esta obligación es subsidiaria y, para su cumplimiento, se atenderá lo previsto en el Título Cuarto de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
 ART. 1765.- El dueño de un animal pagará el daño causado por éste, si no probare algunas de estas circunstancias:
 
@@ -10296,3 +10296,9 @@ P.O. 30 DE JULIO DE 2009.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. En tanto no cuenten con los equipos informáticos necesarios, las notarias públicas y las autoridades competentes a que se refiere el presente Decreto, se podrá presentar el informe de aviso de testamento impreso en papel, hasta por un periodo de seis meses contados a partir de la entrada en vigor del mismo.
+
+P.O. 27 DE MAYO DE 2010.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
