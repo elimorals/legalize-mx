@@ -4,7 +4,7 @@ identifier: "SON-ley-de-cultura-fisica-y-deporte-del-estado-de-sonora-66847"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-16"
-last_updated: "2009-02-16"
+last_updated: "2010-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE MAYO DE 2010.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 16 de febrero de 2009.
 
@@ -223,11 +223,11 @@ XXII.- Las demás que esta Ley u otras disposiciones legales determinen.
 
 La administración de la Comisión estará a cargo de un órgano de gobierno denominado Junta Directiva, la cual se integrará por el Gobernador del Estado, o la persona que éste designe, quien la presidirá y por representantes de cada una de las siguientes Instituciones:
 
-I.- Secretaria de Educación y Cultura;
+I.- Secretaría de Educación y Cultura;
 
 II.- Secretaria de Hacienda;
 
-III.- Secretaría de Salud Pública;
+III.- Secretaria de Salud Pública;
 
 IV.- Sistema para el Desarrollo Integral de la Familia del Estado de Sonora;
 
@@ -259,7 +259,9 @@ La Junta Directiva de la Comisión tendrá las siguientes atribuciones:
 
 I.- Establecer, en congruencia con el programa sectorial respectivo, las políticas estatales y definir las prioridades a las que deberá sujetarse la Comisión relativas a la dirección, desarrollo, promoción, fomento, difusión e investigación de la cultura física y el deporte.
 
-II.- Aprobar y evaluar los programas y anteproyectos de presupuestos de la Comisión, así como sus modificaciones, en los términos de la legislación aplicable;
+> <small>(REFORMADA, B.O. 27 DE MAYO DE 2010)</small>
+
+II.- Aprobar el proyecto de presupuesto anual en el rubro de Infraestructura Deportiva, para el efecto de su inclusión en la iniciativa de presupuesto de egresos que remite anualmente el Ejecutivo al Congreso del Estado;
 
 III.- Aprobar, de acuerdo con los ordenamientos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o acuerdos que deba celebrar la Comisión con instituciones y terceros en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles;
 
@@ -675,6 +677,78 @@ Igualmente, impulsarán la adopción de disposiciones y acuerdos tendientes a fa
 
 Es de interés público la construcción, remodelación, ampliación, adecuación, mantenimiento y conservación de las instalaciones que permitan atender adecuadamente las demandas que requiera el desarrollo de la cultura física y el deporte, promoviendo, para este fin, la participación de los sectores social y privado en el territorio estatal.
 
+> <small>(ADICIONADO, B.O. 27 DE MAYO DE 2010)</small>
+
+###### Artículo 59 Bis.
+
+La ejecución de los programas, fondos y recursos destinados a la infraestructura deportiva será considerada prioritaria y de interés público y, por lo tanto, dichos instrumentos no podrán sufrir disminuciones ni transferirse para otros conceptos durante el ejercicio fiscal correspondiente, excepto en los casos y bajo las condiciones que establezcan, en cada caso, el Poder Legislativo.
+
+> <small>(ADICIONADO, B.O. 27 DE MAYO DE 2010)</small>
+
+###### Artículo 59 Bis 1.
+
+Para la integración del presupuesto anual destinado a infraestructura deportiva, el Ejecutivo Estatal deberá destinar, al menos, el cinco por ciento del Presupuesto total destinado para inversión en infraestructura, según la distribución del gasto que indique el capítulo 6000 del Decreto del Presupuesto de Egresos del Gobierno del Estado de Sonora y dicho monto deberá ser consignado en la iniciativa que presente el titular del Poder Ejecutivo al Congreso del Estado para ser ejercido conforme lo dispone esta ley.
+
+> <small>(ADICIONADO, B.O. 27 DE MAYO DE 2010)</small>
+
+###### Artículo 59 Bis 2.
+
+El monto de recursos que resulte conforme a lo señalado en el artículo anterior, deberá de aplicarse de acuerdo con los siguientes porcentajes y ejercerse como a continuación se detalla:
+
+I.- Para Infraestructura Deportiva Municipal se destinará un sesenta por ciento de los recursos asignados, los cuales deberán aplicarse en la construcción, equipamiento y mejoras de espacios deportivos en colonias y unidades deportivas, recurso financiero que será ejecutado por el Instituto del Deporte Municipal o Dependencia equivalente del Municipio beneficiado, sin que pueda transferirse, por parte del municipio, a un destino distinto al autorizado conforme a las disposiciones de esta ley.
+
+II.- Para Infraestructura y equipamiento para el deporte de alto rendimiento, será destinado un veinte por ciento, recurso que será ejecutado por la Comisión.
+
+III.- Para infraestructura deportiva en centros escolares se destinará un veinte por ciento, que deberán utilizarse en la construcción, equipamiento y mejoras de espacios deportivos en escuelas del nivel básico y media superior, recurso que será ejecutado por el Instituto Sonorense de Infraestructura Educativa, a propuesta de los Institutos del Deporte Municipal o dependencia equivalente del municipio beneficiado, debiéndose coordinar para tal efecto, con la Secretaría de Educación Pública para la selección de las escuelas a beneficiar, considerando al efecto la excepción establecida en el artículo 59 Bis 5 de esta ley, particularmente donde refiere la asignación de recursos a municipios con población menor de 15 mil habitantes.
+
+Los recursos señalados en las fracciones I y III del presente artículo serán distribuidos entre los municipios en proporción directa al número de habitantes que tenga cada municipio, tomando como referencia la información que arroje el más reciente censo de población y vivienda que realiza el Instituto Nacional de Estadística y Geografía. Para acceder al recurso aquí mencionado, los municipios del Estado, tendrán que destinar recursos de su hacienda municipal para invertir en infraestructura deportiva.
+
+> <small>(ADICIONADO, B.O. 27 DE MAYO DE 2010)</small>
+
+###### Artículo 59 Bis 3.
+
+En caso de que el monto destinado para infraestructura deportiva sea mayor al cinco por ciento del Presupuesto total destinado para inversiones en Infraestructura corresponderá al Director General de la Comisión, previa autorización de la Junta Directiva de la Comisión, definir las obras en las que se aplicarán los recursos excedentes.
+
+> <small>(ADICIONADO, B.O. 27 DE MAYO DE 2010)</small>
+
+###### Artículo 59 Bis 4.
+
+El procedimiento para que los municipios puedan ejercer los recursos a que se refiere la fracción I del artículo 59 Bis 2, será el siguiente:
+
+I.- El Instituto Municipal del Deporte o Dependencia equivalente del Municipio, a más tardar en el mes de julio de cada año, deberá elaborar los anteproyectos de cada una de las obras que pretende realizar durante el siguiente ejercicio fiscal, cumpliendo con las normas y criterios técnicos de construcción que la Comisión emita, conforme a lo dispuesto por el artículo 62 de esta ley, de tal forma que pueda obtener la aprobación de dichos proyectos por parte del Sistema Municipal de Cultura Física y Deporte, antes del 20 de agosto de cada año.
+
+Para cada anteproyecto, el municipio deberá acreditar que tiene a su favor, la propiedad del bien inmueble donde pretende realizar la obra o que cuenta con la autorización o cesión de derechos de la institución que legalmente corresponde, tratándose en este último caso, de bienes de dominio público. De igual manera, deberá adjuntar la calendarización que corresponde a la realización y probable pago de los costos que genera cada obra.
+
+II.- Los anteproyectos aprobados por el Sistema Municipal de Cultura Física y Deporte deberán enviarse a la Comisión a más tardar el 30 de agosto de cada año, con el objeto de que ésta pueda determinar si cumplen o no con las normas y criterios referidos en el artículo 62 de esta Ley. La Comisión resolverá sobre dicho cumplimiento a más tardar el 10 de octubre de cada año y, de ser el caso que alguno de los anteproyectos no cumpla con los requerimientos señalados en las fracciones I y II de este artículo, notificará lo conducente al municipio para que, en un plazo de diez días naturales subsane las omisiones, debiendo la Comisión resolver, en definitiva, dentro de los siguientes cinco días naturales.
+
+Si la Comisión no resuelve dentro de los plazos respecto a los deberes impuestos en el párrafo anterior, operará la afirmativa ficta a favor de los anteproyectos pero sólo hasta por el monto de recursos que al municipio le corresponde recibir por cada uno de los conceptos que señala el artículo 59 Bis 2, siendo responsabilidad del municipio que las obras se ajusten a las estimaciones de gasto que conforme a esta ley les corresponde.
+
+Los anteproyectos que llegaren autorizarse por cualquiera de las vías señaladas en los párrafos precedentes, deberán incorporarse al presupuesto de Egresos del Gobierno del Estado como recurso a transferir a los municipios de la Entidad, en los términos dispuesto por el artículo 66 Bis de esta ley.
+
+En caso de que los municipios no llegaren a presentar anteproyectos de obra a los que se refiere este artículo o ninguno de los que presentaron cumplió los requisitos enmarcados en las fracciones I y II del presente artículo, la Comisión realizará la asignación de recursos a proyectos que estime pertinentes dentro del mismo concepto de obra, debiendo informar de esta situación al Congreso conforme a lo dispuesto en el párrafo precedente, con el objeto de que éste último resuelva, en definitiva, sobre el destino de los recursos, los cuales, invariablemente, deberán aplicarse en los mismos municipios a los que originalmente debieran destinarse.
+
+> <small>(ADICIONADO, B.O. 27 DE MAYO DE 2010)</small>
+
+###### Artículo 59 Bis 5.
+
+A los municipios del Estado que tengan una población menor a 15 mil habitantes, según el más reciente censo de población que realiza el Instituto Nacional de Estadística y Geografía, les será asignado, para su ejecución, recursos provenientes del concepto de obra previsto en la fracción III del artículo 59 Bis 2 y, en estos casos, los ayuntamientos podrán sumar los montos que les corresponda por concepto de infraestructura deportiva municipal e infraestructura deportiva en centros escolares, para invertirlo en un solo concepto de obra de los referidos en las fracciones I y III del artículo 59 Bis 2.
+
+> <small>(ADICIONADO, B.O. 27 DE MAYO DE 2010)</small>
+
+###### Artículo 59 Bis 6.
+
+Los municipios, dentro de los primeros quince días del mes de septiembre, deberán remitir al Congreso del Estado un informe detallado sobre el estado que guarda el ejercicio del recurso financiero destinado para infraestructura deportiva.
+
+En caso de que al 15 de agosto los municipios no hayan iniciado las acciones inherentes a la ejecución de los proyectos de obra o destinaron los recursos en contravención de lo dispuesto en esta ley, deberán realizar la devolución del monto que se encuentre en alguno de dichos supuestos a la Secretaría de Hacienda, dentro de los siguientes quince días hábiles a la fecha en que se rindió el informe referido en el párrafo anterior y, en caso de que no regresaran el recurso, para el siguiente ejercicio fiscal, los recursos que les correspondan conforme a las disposiciones de esta ley, serán ejercidos por la Comisión.
+
+Los recursos devueltos a la Secretaría de Hacienda en términos de lo dispuesto por el párrafo anterior, serán destinados para ampliar el presupuesto de la Comisión, a fin de utilizarse en equipamiento o en obra, debiendo informar al Congreso del Estado sobre su aplicación definitiva a más tardar el 1º de Noviembre de cada año.
+
+> <small>(ADICIONADO, B.O. 27 DE MAYO DE 2010)</small>
+
+###### Artículo 59 Bis 7.
+
+Los anteproyectos que presente la Comisión para infraestructura deportiva y equipamiento para el deporte de alto rendimiento, deberán contar con la aprobación de los integrantes del Sistema Estatal de Cultura Física y Deporte, que indica en los artículos 7, 8, 9 y 10 de la presente Ley.
+
 ###### Artículo 60.
 
 La planificación y construcción de instalaciones de cultura física y deporte financiadas con recursos provenientes del erario público, deberá realizarse tomando en cuenta las especificaciones técnicas de los deportes y actividades que se proyecta desarrollar, así como los requerimientos de construcción y seguridad determinados en la Norma Oficial Mexicana correspondiente, que para tal efecto expida la dependencia en la materia, para el uso normal de las mismas por parte de personas con alguna discapacidad física, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, la máxima disponibilidad de horario y los distintos niveles de práctica de los ciudadanos. Estas instalaciones deberán ser puestas a disposición de la comunidad para su uso público
@@ -683,9 +757,11 @@ La planificación y construcción de instalaciones de cultura física y deporte 
 
 La Comisión coordinará acciones con los municipios y concertará con los sectores social y privado el adecuado mantenimiento y conservación, así como la promoción para el uso óptimo de las instalaciones de cultura física y deporte, y emitirá para ello los lineamientos correspondientes.
 
+> <small>(REFORMADO, B.O. 27 DE MAYO DE 2010)</small>
+
 ###### Artículo 62.
 
-La Comisión formulará las normas y criterios requeridos en materia de instalaciones deportivo-recreativas, deportivas, del deporte en la rehabilitación y activación física deportiva. Para tal efecto, constituirá los fondos, fideicomisos o cualquier otro instrumento financiero que permita el transparente manejo de los recursos estatales que para este objeto se destinen y que del uso de las instalaciones se obtengan.
+La Comisión formulará las normas y criterios técnicos de construcción requeridos en materia de instalaciones deportivo-recreativas, deportivas, del deporte en la rehabilitación y activación física deportiva, debiendo considerar la reglamentación emitida por los organismos rectores en materia deportiva a nivel federal.
 
 ###### Articulo 63.
 
@@ -704,6 +780,36 @@ La Comisión promoverá ante las diversas instancias de gobierno la utilización
 ###### Artículo 66.
 
 En el uso de las instalaciones a que se refiere este Capítulo, con fines distintos a los previstos en la presente ley, deberán tomarse las providencias necesarias y respetarse los programas y calendarios previamente establecidos y se deberá fijar una fianza suficiente que garantice la reparación de los daños que se pudieran ocasionar, misma que será determinada por la Comisión.
+
+> <small>(ADICIONADO, B.O. 27 DE MAYO DE 2010)</small>
+
+###### Artículo 66 Bis.
+
+En el Presupuesto de Egresos del Gobierno del Estado se incluirán, en forma desagregada, los datos relativos a la infraestructura deportiva, especificándose de modo especial las reglas de operación y calendarización de las asignaciones correspondientes a las dependencias y municipios, según corresponda.
+
+> <small>(ADICIONADO, B.O. 27 DE MAYO DE 2010)</small>
+
+###### Artículo 66 Bis 1.
+
+El Titular del Órgano de Control y Desarrollo Administrativo y el Comisario Público, serán quienes verifiquen el cumplimiento de las metas y la correcta aplicación de los recursos públicos asignados a los programas de infraestructura deportiva.
+
+> <small>(ADICIONADO, B.O. 27 DE MAYO DE 2010)</small>
+
+###### Artículo 66 Bis 2.
+
+La Comisión cuidará que los programas de Infraestructura Deportiva se ejecuten bajo la vigilancia directa del Sistema Estatal y municipales, según corresponda.
+
+> <small>(ADICIONADO, B.O. 27 DE MAYO DE 2010)</small>
+
+###### Artículo 66 Bis 3.
+
+A través del Titular del Órgano de Control y Desarrollo Administrativo y al Comisario Público, podrá:
+
+I.- Vigilar el ejercicio de los recursos públicos y la aplicación de los programas de Infraestructura Deportiva, conforme a la ley y reglas de operación específicas;
+
+II.- Solicitar y obtener información de los programas de Infraestructura Deportiva; y
+
+III.- Presentar quejas y denuncias relacionadas con el programa de Infraestructura Deportiva.
 
 ### CAPÍTULO III. DE LA ENSEÑANZA, INVESTIGACIÓN Y DIFUSIÓN
 
@@ -1032,3 +1138,29 @@ El reglamento de la presente ley deberá expedirse dentro de un plazo no mayor a
 COMUNÍQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.- SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, FEBRERO 6 DEL 2009.- DIPUTADA PRESIDENTA.- C. IRMA VILLALOBOS RASCÓN.- RUBRICA.- DIPUTADO SECRETARIO.- C. OLIVER FLORES BAREÑO.- RUBRICA.- DIPUTADO SECRETARIO.- C. ROGELIO M. DÍAZ BROWN RAMSBURGH.- RUBRICA.-
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS NUEVE DÍAS DEL MES DE FEBRERO DEL AÑO DOS MIL NUEVE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- WENCESLAO COTA MONTOYA.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 27 DE MAYO DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El reglamento de la presente reforma y adición a diversas disposiciones de la Ley de Cultura Física y Deporte del Estado de Sonora, deberá expedirse dentro de un plazo no mayor a los noventa días hábiles siguientes a la fecha en que entre esta reforma y adición en vigor.
+
+###### ARTICULO TERCERO.
+
+La Comisión deberá expedir las normas y criterios técnicos de construcción requeridos en materia de instalaciones deportivo-recreativas, deportivas, del deporte en la rehabilitación y activación física deportiva a que se refieren los artículo 62 y 59 Bis 4 de este Decreto, dentro de los sesenta días naturales siguiente a la entrada en vigor del presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Para cumplir con los deberes presupuestales del ejercicio fiscal del año 2011, la Comisión deberá remitir a los municipios del Estado, la información suficiente en materia presupuestal y de cualquier tipo que requieran los ayuntamientos, durante el mes de junio del año en curso.
+
+De igual manera, por única ocasión, para el ejercicio fiscal del año 2011, los anteproyectos a que se refiere el artículo 59 Bis 4 de este Decreto podrán ser presentados a la Comisión a más tardar el 30 de septiembre de 2010 y la Comisión resolverá lo conducente antes del 15 de noviembre del mismo año, pudiendo remitir la información a que se refiere el artículo 66 Bis, en anexo por separado, el 30 de noviembre de 2010.
+
+###### ARTICULO QUINTO.
+
+Se derogan las disposiciones que se opongan al contenido del presente decreto.
