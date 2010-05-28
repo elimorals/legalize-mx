@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-la-proteccion-al-56137"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-07-25"
-last_updated: "2009-07-10"
+last_updated: "2010-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56137&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-07-16"
 
 ESTATUTO ORGANICO DEL INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE JULIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGANICO DEL INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO, PUBLICADO EN EL D.O.F. DE 28 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de julio de 2007.
 
@@ -910,3 +912,17 @@ PRIMERO.- Las modificaciones a que se refiere el presente Acuerdo entrarán en v
 SEGUNDO.- Se derogan las disposiciones contrarias a las aprobadas en el presente Acuerdo, contenidas en el Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario, publicado el 25 de julio de 2007 en el Diario Oficial de la Federación.
 
 TERCERO.- Las referencias que se hacen y las atribuciones que se otorgan en lineamientos, acuerdos, reglas y demás disposiciones a las unidades administrativas o áreas que cambian de denominación o desaparecen por virtud de la presente modificación, se entenderán hechas o conferidas a las unidades administrativas o áreas que correspondan conforme a lo establecido en ésta.
+
+D.O.F. 28 DE MAYO DE 2010.
+
+PRIMERO.- El presente Estatuto, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario publicado en el Diario Oficial de la Federación el 25 de julio de 2007 y su modificación publicada en el Diario Oficial de la Federación el 10 de julio de 2009.
+
+TERCERO.- Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor del presente Estatuto Orgánico y que, conforme a éste, deban ser atendidos por una unidad administrativa diversa a la que haya correspondido conforme a las disposiciones abrogadas, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les atribuya la competencia en este ordenamiento.
+
+CUARTO.- El personal, expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos de que se trate por virtud de la entrada en vigor del presente Estatuto Orgánico, pasarán a la nueva unidad o unidades competentes, distribuyéndose, en su caso, de conformidad con el ámbito de facultades que a cada una corresponda.
+
+QUINTO.- Las referencias que se hacen y las atribuciones que se otorgan en lineamientos, acuerdos, reglas y demás disposiciones a las unidades administrativas o áreas que cambian de denominación, desaparecen o ajustan sus atribuciones, por virtud de la expedición del presente Estatuto Orgánico, se entenderán hechas o conferidas a las unidades administrativas o áreas que correspondan conforme a lo establecido en éste.
+
+SEXTO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente instrumento.
