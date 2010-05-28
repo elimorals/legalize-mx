@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-prestamos-para-las-viviendas-de-los-18454"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-31"
-last_updated: "2006-07-03"
+last_updated: "2010-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE PRESTAMOS PARA LAS VIVIENDAS DE LOS SERVIDORES PUBLICOS ADSCRITOS AL REGIMEN DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 31 de enero de 2000.
 
@@ -59,7 +59,9 @@ OBJETO DE LOS CREDITOS
 
 El Instituto en cumplimiento con lo dispuesto por el artículo 120 bis I de la Ley, otorgará créditos para vivienda a los servidores públicos que estén sujetos al régimen de cotización de la propia Ley con un tiempo mínimo de diez años; y que no hayan recibido apoyos financieros del Instituto para los fines que establece el presente reglamento, debiendo aplicarse dichos recursos a:
 
-a) Adquisición en propiedad de habitaciones nuevas o usadas, incluyendo aquellas en régimen de propiedad en condominio, cuando el servidor público justifique que no cuenta con otro bien raíz en el Estado.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
+a) Adquisición de propiedad de habitaciones nuevas o usadas, incluyendo aquellas en régimen de propiedad en condominio.
 
 b) Pago del enganche cuando tenga por objeto la adquisición de una vivienda sin el apoyo financiero del Instituto, en los términos que acuerde el Consejo Directivo, así como los gastos de escrituración por adquisición de vivienda.
 
@@ -572,3 +574,7 @@ P.O. 3 DE JULIO DE 2006.
 PRIMERO: La presente modificación a la tabla de montos máximos de crédito del Reglamento de Préstamos para las Viviendas de los Servidores Públicos Adscritos al Régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: La tabla de montos máximos de crédito será de aplicación general a partir de que entre en vigor y será extensiva para aquellos servidores públicos que se encuentren en trámite para obtener un crédito.
+
+P.O. 28 DE MAYO DE 2010.
+
+ÚNICO.- La presente modificación al artículo 2° inciso a) del Reglamento de Préstamos para las Viviendas de los Servidor (sic) Públicos Adscritos al Régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Nuevo León.
