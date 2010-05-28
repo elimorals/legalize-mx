@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-de-suelo-del-municipio-de-645
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-17"
-last_updated: "2009-09-14"
+last_updated: "2010-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACION Y USOS DE SUELO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 17 de noviembre de 2008.
 
@@ -148,6 +148,10 @@ CUS =Área total de construcción en metros cuadrados
 21. Centro: Se entenderá como el Centro de Desarrollo Urbano y Ecología del Municipio de Guadalupe, Nuevo León.
 
 22. Subdivisión: La división o partición de un predio del área urbana o urbanizada de los centros de población y que no requiere del trazo de una o más vías públicas o privadas.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2010)</small>
+
+23. Municipalización: Acto mediante el cual el Municipio de Guadalupe, Nuevo León asume las obligaciones de prestar servicios públicos al fraccionamiento.
 
 ## TITULO II (SIC). AUTORIDADES Y ATRIBUCIONES
 
@@ -309,9 +313,11 @@ Los Fraccionamientos y la Urbanización del Suelo deben cumplir con lo dispuesto
 
 Se debe cumplir con lo dispuesto en el Plan vigente de Desarrollo Urbano de Guadalupe, Nuevo León.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 24.
 
-Para contribuir a la calidad de vida de los Guadalupenses se establece el lote mínimo de 105 metros cuadrados en las áreas urbanas y urbanizables con un frente de 15 mts.
+Para contribuir a la calidad de vida de los Guadalupenses se establece el lote mínimo de 98 metros cuadrados en las áreas urbanas y urbanizables con un frente de 7 mts.
 
 De igual manera, los condominios y/o fraccionamientos estarán obligados a sujetarse a lo establecido en el capítulo IV de la Ley vigente aplicable a personas con capacidades diferentes, a fin de permitir su accesibilidad universal.
 
@@ -325,9 +331,15 @@ II. Habitacional de urbanización progresiva
 
 III. Comercial y de servicios
 
-IV. Industriales
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2010)</small>
+
+IV. Parques Industriales
 
 V. Funerarios o cementerios
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2010)</small>
+
+ARTICULO 25 BIS. Solo podrán denominarse como fraccionamiento privado o conjunto privado cualquiera que sea su clasificación o tipo, aquellos que se encuentren constituidos bajo el régimen de propiedad en condominio y en el caso de ser habitacional deberán contar con barda perimetral y control de accesos.
 
 ## TITULO IV. FUNCIONES DE USO DE SUELO, ZONIFICACION Y PROCEDIMIENTO
 
@@ -809,7 +821,9 @@ II. Avenida Lázaro Cárdenas de la avenida Eloy Cavazos hasta el entronque con 
 
 III. Avenida López Mateos desde el antiguo camino a San Rafael hasta la avenida Eloy Cavazos, con un ancho de vía de 37 metros. Y en su tramo de antiguo camino a San Rafael hasta Miguel Alemán con un ancho de 50 metros.
 
-IV. En el tramo de avenida Eloy Cavazos hasta avenida Benito Juárez, sobre la calle Manuel L. Barragán, el derecho de vía será de 37 metros. Su unión con la calle La Senda en el recorrido de avenida Benito Juárez hasta el río La Silla, su derecho de vía de 37 metros. En su continuación hasta las calles Tula, Remanso, avenida Guadalajara y avenida México, desde el río La Silla hasta la calle Hermosillo, el derecho de vía será de 37 metros.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2010)</small>
+
+IV. En el tramo de avenida Eloy Cavazos hasta avenida Benito Juárez, sobre la calle Manuel L. Barragán, el derecho de vía será de 37 metros. Su unión con la calle La Senda en el recorrido de avenida Benito Juárez hasta el río La Silla, su derecho de vía de 37 metros. En su continuación hasta las calles Tula, Remanso, avenida Guadalajara, desde el río La Silla hasta la avenida Ruiz Cortines, el derecho de vía será de 37 metros.
 
 V. La conexión de avenidas Crispín Treviño y avenida del Empresario en el tramo de avenida Benito Juárez hasta el límite norte con el municipio de Apodaca, tendrá un derecho de vía de 40 metros.
 
@@ -835,9 +849,11 @@ Para el Arco Vial, el derecho de vía será de 64 metros, con un par de calles l
 
 Prolongación a Ruiz Cortines al oriente contará con un derecho vía de 64 metros y en sus laterales el derecho será de 12 metros.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 73.
 
-Carretera Miguel Alemán contará con un derecho de vía de 64 metros y un par de laterales con las mismas dimensiones que en prolongación Ruiz Cortines.
+Carretera Miguel Alemán contará con un derecho de vía de 64 metros y un par de laterales con las mismas dimensiones que en prolongación Ruiz Cortines, a partir de la Calle Bonifacio Salinas hasta el puente del arroyo la Talaverna (límite Municipal con San Nicolás de los Garza).
 
 ###### ARTICULO 74.
 
@@ -851,25 +867,33 @@ En la Vía a Tampico el derecho de vía será de 60 metros, dando un espacio par
 
 En la calle Arroyo Talaverna el derecho de vía será de 54 metros permitiendo un vado central para el afluente de 21 metros.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 77.
 
-Sobre la avenida López Mateos el derecho de vía será de 50 metros, conteniendo una lateral de cada extremo para la circulación de autos y autotransporte, y en su parte central contendrá dos carriles, uno para cada sentido, con un camellón de 3 metros.
+Sobre la avenida López Mateos el derecho de vía será de 50 metros, conteniendo una lateral de cada extremo para la circulación de autos y autotransporte, y en su parte central contendrá dos carriles, uno para cada sentido, con un camellón de 3 metros, en su tramo de antiguo Camino a San Rafael hasta el límite Municipal con San Nicolás de los Garza.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 78.
 
-En las avenidas Pablo Livas, Benito Juárez, Acapulco, Prolongación Camino al Aeropuerto, López Mateos, Chapultepec, Antiguo Camino a San Rafael y Hermosillo el derecho de vía será de 60 metros, conteniendo una lateral en cada extremo con dos carriles y otro par de vías con tres carriles cada una y en sentidos opuestos.
+En las avenidas Pablo Livas, Benito Juárez (Desde el puente Guadalupe hasta Avenida Cerro de la Silla), Acapulco (Desde el límite Municipal con San Nicolás, hasta el límite Oriente con Apodaca), Prolongación Camino al Aeropuerto, López Mateos (en su tramo de antiguo Camino a San Rafael hasta el límite Municipal con San Nicolás de los Garza), Antiguo Camino a San Rafael y Hermosillo el derecho de vía será de 50 metros, conteniendo una lateral en cada extremo con dos carriles y otro par de vías con tres carriles cada una y en sentidos opuestos.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 79.
 
-Para la avenida Benemérito de las Américas serán 56 metros de derecho de vía, comprendiendo dos sentidos y tres carriles para ello, dejando en la parte central un derecho de 24 metros para peatones y como base de las redes de distribución eléctrica.
+Para la avenida Benemérito de las Américas a partir de la avenida López Mateos hasta la avenida Día del Empresario, serán 56 metros de derecho de vía, comprendiendo dos sentidos y tres carriles para ello, dejando en la parte central un derecho de 24 metros para peatones y como base de las redes de distribución eléctrica.
 
 ###### ARTICULO 80.
 
 Sobre Paseo Las Américas y Día del Empresario el derecho de vía será de 40 metros con cuatro carriles para cada sentido.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 81.
 
-El derecho de vía para las avenidas López Mateos (de Ave. Eloy Cavazos hasta puente Morones Prieto), Manuel L. Barragán, Guadalajara; Las Américas de Ave. Benito Juárez hasta el arroyo la Talaverna), y La Senda, será de 37 metros, con cuatro carriles para cada sentido.
+El derecho de vía para las avenidas López Mateos (de Ave. Eloy Cavazos hasta el antiguo Camino a San Rafael), Manuel L. Barragán, Guadalajara; Las Américas de Ave. Benito Juárez hasta el arroyo la Talaverna), y La Senda, será de 37 metros, con cuatro carriles para cada sentido.
 
 ###### ARTICULO 82.
 
@@ -879,9 +903,11 @@ Para el Periférico Monterrey el derecho de vía será de 100 metros. Se dejará
 
 La avenida Lázaro Cárdenas contará con 36 metros de derecho de vía, un camellón central de dos metros y cuatro carriles de circulación en cada sentido.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 84.
 
-En las calles Plutarco E. Calles y México (de Ruiz Cortines a Hermosillo), el derecho de vía será de 30 metros, un camellón céntrico de dos metros y tres carriles de circulación en cada sentido.
+En las calles Plutarco E. Calles y México (Avenida Guadalajara) (de Ruiz Cortines a Hermosillo), el derecho de vía será de 30 metros, un camellón céntrico de dos metros y tres carriles de circulación en cada sentido.
 
 ###### ARTICULO 85.
 
@@ -953,9 +979,11 @@ El Municipio revisará junto con el Instituto Nacional de Antropología e Histor
 
 ### CAPITULO CUARTO. Baldíos
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 97.
 
-Los terrenos baldíos se deberán mantener limpios, además se prohíbe el almacenamiento de cualquier material que sea peligroso para la seguridad de los vecinos y del medio ambiente, como materiales flamables y contaminantes.
+Los terrenos baldíos se deberán mantener limpios, es decir, libres de escombro y basura, respetando la cubierta vegetal de tallo leñoso de estrato medio y bajo, así mismo, se respetarán los árboles a partir de 5 cinco centímetros de diámetro, quedando prohibido dejar el suelo desnudo; prohibiéndose además el almacenamiento de cualquier material que sea peligroso para la seguridad de los vecinos y del medio ambiente, como materiales flamables y contaminantes.
 
 ###### ARTICULO 98.
 
@@ -977,19 +1005,27 @@ Los casos no previstos por este Reglamento, por sus normas técnicas complementa
 
 Las obras de urbanización son aquellas redes de agua potable, drenaje sanitario, drenaje pluvial, energía eléctrica, alumbrado público, guarniciones, banquetas, vías públicas, áreas verdes, recreativas y camellones, así como todas aquellas necesarias para la buena operación de una zona urbana.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 102.
 
-Tratándose de obras de urbanización la responsabilidad de la operación y mantenimiento de las mismas, relativo a la seguridad y salubridad, será de las personas o dependencias responsables de la prestación del servicio público, cuando éstas hubiesen recibido dichas obras, de lo contrario esa responsabilidad continuará siendo de la persona a quien se les hubiera autorizado a realizarla.
+Tratándose de obras de urbanización la responsabilidad de la operación y mantenimiento de las mismas, relativo a la seguridad y salubridad, será de las personas o dependencias responsables de la prestación del servicio público, cuando éstas se les haya aprobado la entrega ó municipalización del fraccionamiento, de lo contrario esa responsabilidad continuará siendo de la persona a quien se les hubiera autorizado a realizarla.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 103.
 
-El solicitante de la terminación de obra y/o en su caso, de la recepción de obras, deberá cumplir con la presentación de los documentos y/o información que la Autoridad Municipal determine para dichos trámites.
+El solicitante de la terminación de obra o municipalización del fraccionamiento deberá cumplir con la presentación de los documentos y/o información que la Autoridad Municipal determine para dichos trámites.
 
 ###### ARTICULO 104.
 
 En obras de urbanización, se permitirá hacer las modificaciones que estén autorizadas por las dependencias encargadas de la prestación del servicio público que corresponda según la obra; solo se permitirán modificaciones si con las mismas no se afecta la seguridad, estabilidad, destino, uso, servicio, higiene y funcionalidad de las referidas obras y técnicamente estén justificadas.
 
 En las obras de urbanización se deberá dejar resuelta la demanda pluvial o realizar las aportaciones necesarias para tal fin, determinadas por el Centro de Desarrollo Urbano y Ecología del Municipio.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2010)</small>
+
+Las obras de urbanización deberán ejecutarse conforme al Proyecto Ejecutivo y calendario de obra que se acuerda con la autoridad municipal y no podrá excederse de dos años a partir de la fecha de autorización, pudiendo solicitar una prórroga de hasta 2 años para su cumplimiento.
 
 ###### ARTICULO 105.
 
@@ -1136,3 +1172,9 @@ Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y norma
 ###### ARTÍCULO TERCERO.
 
 Remítase al encargado del Despacho de la Presidencia Municipal, a fin de que instruya al C. Secretario del Ayuntamiento, para que mande publicar las Adiciones del presente Reglamento en el Periódico Oficial del Estado de Nuevo León, así como en la Gaceta Municipal.
+
+P.O. 28 DE MAYO DE 2010.
+
+PRIMERO.- Las presentes reformas por adición y modificación al REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON, entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes reformas.
