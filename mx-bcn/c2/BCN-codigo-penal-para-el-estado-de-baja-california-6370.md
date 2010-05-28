@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2009-12-31"
+last_updated: "2010-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2010.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1873,7 +1873,7 @@ Reparación del daño.- La reparación del daño en los casos de estupro, compre
 
 ### CAPITULO VI. USURA
 
-(REFORMADO, P.O. 4 DE JULIO DE 1997) (F. DE E., P.O. 22 DE AGOSTO DE 1997)
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
 
 ###### Artículo 184
 
@@ -2371,7 +2371,7 @@ Cuando se utilice como medio comisivo la vía telefónica, el correo electrónic
 
 ###### Artículo 225.
 
-Tipo y punibilidad.- Se impondrá prisión de uno a diez años y multa hasta por ochocientos días multa, al que aprovechándose de la necesidad apremiante, ignorancia, o la notoria inexperiencia de una persona obtenga un lucro excesivo mediante intereses o ventajas económicas desproporcionados.
+Se impondrá prisión de dos a diez años y multa de hasta el equivalente a ochocientos días de salario mínimo, al que aprovechándose de la necesidad apremiante, ignorancia, inexperiencia o notoria miseria de una persona, obtenga ventajas usurarias mediante contratos, convenios o documentos en los que se estipulen, para sí o para una tercera persona, intereses o réditos superiores a las tasas de interés, normales o moratorios, de las operaciones celebradas por las entidades financieras con clientes, reguladas por el Banco de México, o que obtenga otros beneficios desproporcionados a los usos comerciales, en especie o en servicios.
 
 ### CAPITULO VII. VIOLENCIA FAMILIAR
 
@@ -4618,3 +4618,7 @@ P.O. 18 DE DICIEMBRE DE 2009.
 P.O. 31 DE DICIEMBRE DE 2009.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MAYO DE 2010.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
