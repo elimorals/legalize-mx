@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-chispazo-de-pronosticos-para-la-31948"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2010-01-29"
+last_updated: "2010-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31948&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL CONCURSO CHISPAZO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 2010.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -197,9 +197,9 @@ II. Ante la presencia del representante del Director General, de un representant
 
 III. La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Subdirección General de Informática entregará al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Organo Interno de Control.
 
-IV. En presencia de los mismos funcionarios señalados en la fracción II del presente artículo, se llevará a cabo la ceremonia, procediendo a extraer de la urna, una a una y al azar, 5 (seis) (sic) esferas, cuyos números integrarán la combinación de números ganadora.
+> <small>(REFORMADA, D.O.F. 28 DE MAYO DE 2010)</small>
 
-El orden y secuencia en que se extraigan las 5 (cinco) esferas numeradas de la urna no influirá en el resultado del sorteo.
+IV. En presencia de los mismos funcionarios señalados en la fracción II del presente artículo, se llevará a cabo la ceremonia, procediendo a extraer de la urna, una a una y al azar, 5 (cinco) esferas, cuyos números integrarán la combinación de números ganadora.
 
 > <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2010)</small>
 
@@ -692,6 +692,12 @@ Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos mediante las disposiciones que se encontraban vigentes al inicio de su trámite.
 
 D.O.F. 29 DE ENERO DE 2010.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
+
+D.O.F. 28 DE MAYO DE 2010.
 
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
