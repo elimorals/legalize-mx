@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-que-establece-las-normas-que-rigen-los-59523"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-25"
-last_updated: "2009-03-06"
+last_updated: "2010-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO QUE ESTABLECE LAS NORMAS QUE RIGEN LOS MECANISMOS, PROCEDIMIENTOS Y CRITERIOS DE EVALUACION DE MAGISTRADOS Y CONSEJEROS DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2010.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de enero del 2008.
 
@@ -229,9 +229,9 @@ VI).- El cumplimiento de obligaciones sobre declaraciones patrimoniales;
 
 VII).- El uso adecuado de los recursos humanos y materiales puestos a su disposición para la realización del servicio;
 
-> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2010)</small>
 
-VIII).- La realización de cursos de especialización, maestrías, doctorados, etcétera, así como la publicación de artículos, impartición de clases, preferentemente en materia jurídica.
+VIII).- La realización de los cursos de capacitación, especialización, maestrías, doctorados, etcétera, así como la publicación de los artículos, impartición de clases, preferentemente en materia jurídica.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
@@ -309,13 +309,19 @@ De toda auditoría se levantará acta circunstanciada, la que firmarán el Comis
 
 Lo asentado por el Comisionado Visitador como ocurrido en la práctica de las auditorías se tendrá como cierto, salvo prueba en contrario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### Artículo 29.
 
-Al finalizar la auditoría y antes del cierre del acta, el Comisionado Visitador permitirá que el Evaluado se imponga de su contenido, con el objeto de que manifieste lo que a su derecho convenga y podrá hacerlo verbalmente en ese momento, o por escrito ante el Comisionado Visitador, dentro de los cinco días siguientes al cierre del acta; manifestaciones que serán consideradas al realizar el dictamen correspondiente.
+Al finalizar la auditoría y antes del cierre del acta, el Comisionado Visitador permitirá que el Evaluado se imponga de su contenido, con el objeto de que manifieste lo que a su derecho convenga y podrá hacerlo verbalmente en ese momento, o por escrito ante el Comisionado Visitador, dentro de los diez días siguientes al cierre del acta; manifestaciones que serán consideradas al realizar el dictamen correspondiente, expresando sus conceptos de defensa y aportando pruebas tendientes a probar las mismas, por ser el momento procesal oportuno para ello.
 
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2009)</small>
 
 El acta deberá contener los datos de identificación de los expedientes, resoluciones y acuerdos que se consideren extemporáneos, así como de los amparos concedidos.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2010)</small>
+
+El plazo contemplado por el artículo 55-H, tercer párrafo, de la Ley Orgánica del Poder Judicial solamente se otorgará para el efecto de que los magistrados y consejeros del Poder Judicial hagan valer excepciones supervenientes o cualquier otra circunstancia que no se hubiese asentado en el acta de visita.
 
 ###### Artículo 30.
 
@@ -401,7 +407,15 @@ IV).- La oportunidad en el dictado de acuerdos, conforme a la ley.
 
 V).- La oportunidad en la presentación de proyectos de resolución de negocios de competencia del Pleno, dentro del plazo que la ley le señala a éste.
 
-VI).- La calidad de los proyectos de resolución a que se refiere el inciso anterior, la cual se medirá atendiendo si fueron acogidos o no por el Pleno.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2010)</small>
+
+VI).- La calidad de los proyectos de resolución a que se refiere el inciso anterior, la cual se evaluará conforme a la siguiente tabla:
+
+A) Argumentación 3 puntos
+
+B) Fundamentación 3 puntos
+
+C).Sentido 3 puntos
 
 VII).- El equilibrio estadístico mensual entre entradas y salidas de negocios.
 
@@ -427,9 +441,21 @@ X).- El uso adecuado de los recursos humanos y materiales puestos a su disposici
 
 XI).- La realización de cursos de especialización, maestrías, doctorados, etcétera, así como la publicación de artículos, impartición de clases, todo ello en cuestiones jurídicas.
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2010)</small>
 
 XII).- Las asistencias y comisiones realizadas en el Pleno.
+
+Para calificar las asistencias y comisiones que señala la presente fracción, se tomarán en cuenta los siguientes elementos:
+
+A) Asistencias a sesiones del Pleno;
+
+B) Asistencias a semiplenas de Magistrados;
+
+C) Realización de comisiones encomendadas por el Pleno, debiendo diferenciar las comisiones de trabajo de aquéllas que sólo son de representación.
+
+Por el cumplimiento de las actividades enunciadas en el inciso A) se otorgarán hasta 3 puntos, por las mencionadas en el inciso B) se asignarán hasta 2 puntos y por las comisiones encomendadas por el Pleno, inciso C), se concederán 8 puntos.
+
+En relación con las comisiones debe precisarse que al evaluado que haya realizado una o más comisiones de trabajo, durante el período sujeto a evaluación, se le otorgarán 6 puntos, y al que haya realizado una o más comisiones de representación se le otorgarán 2 puntos.
 
 ###### Artículo 36.
 
@@ -447,9 +473,23 @@ III) 25 puntos
 
 IV) 5 puntos
 
-V) 10 puntos
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2010)</small>
+
+V) 3 puntos
 
 VI) 10 puntos
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2010)</small>
+
+VI) A) 3 puntos
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2010)</small>
+
+VI) B) 3 puntos
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2010)</small>
+
+VI) C) 3 puntos
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
@@ -470,6 +510,18 @@ XI) 5 puntos
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 XII) 10 puntos
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2010)</small>
+
+XII) A) 3 puntos
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2010)</small>
+
+XII) B) 2 puntos
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2010)</small>
+
+XII) C) 8 puntos
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
@@ -511,9 +563,11 @@ VII).- La competencia es el conjunto de conocimientos y capacidades de una perso
 
 Las resoluciones y acuerdos entregados al actuario para ser notificados a partir de dos días hábiles después de su fecha, se tendrán por extemporáneos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### Artículo 39.
 
-De los amparos concedidos, no se tomarán en cuenta como aspectos negativos cuando no varíen substancialmente las resoluciones impugnadas y aquellos que fueron concedidos por causas extrañas al Evaluado.
+De los amparos concedidos, no se tomarán en cuenta como aspectos negativos aquellos que fueren concedidos por causas extrañas al evaluado.
 
 Si contra una misma resolución se conceden diversos amparos, para efectos de la evaluación se estimarán como uno solo.
 
@@ -652,3 +706,7 @@ P.O. 6 DE MARZO DE 2009.
 Primero.- Las reformas y adiciones al presente reglamento entrarán en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Las reformas y adiciones contenidas en el presente, se aplicarán a partir de las evaluaciones que se realicen en el año 2009.
+
+P.O. 28 DE MAYO DE 2010.
+
+Primero.- La presente modificación entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
