@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2009-12-28"
+last_updated: "2010-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -871,9 +871,11 @@ III.- Contar con instalaciones que satisfagan las condiciones higiénicas, de se
 
 IV.- Planes y programas de estudio que la autoridad otorgante considere procedentes, en el caso de educación distinta de la educación básica, la normal y demás para la formación de docentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 77.
 
-Las autoridades educativas publicarán, en el periódico oficial del Estado, una relación de las instituciones a las que se les haya concedido autorización o reconocimiento de validez oficial de estudios. Asimismo publicarán, oportunamente y en cada caso, la inclusión o la supresión en dicha lista de las instituciones a las que se otorguen, revoquen o retiren la autorización o el reconocimiento de validez oficial de estudios.
+Las autoridades educativas publicarán en el periódico oficial del Estado, en la página electrónica que corresponda, y cuando lo consideren conveniente, por lo menos en uno de los periódicos de mayor circulación en la entidad, una relación de las instituciones a las que se les hayan concedido autorización o reconocimiento de validez oficial de estudios. Asimismo publicarán oportunamente y en cada caso, la inclusión o supresión en dicha lista de instituciones a las que se le otorguen, revoquen o retiren la autorización o el reconocimiento de validez oficial de estudios.
 
 Las personas físicas o morales particulares que impartan estudios con autorización o con reconocimiento de validez oficial de estudios, deberán mencionar en la documentación que expidan y en la publicidad que hagan, una leyenda que indique; su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgó.
 
@@ -1166,3 +1168,7 @@ P.O. 9 DE OCTUBRE DE 2009.
 P.O. 28 DE DICIEMBRE DE 2009.
 
 Único.- La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MAYO DE 2010.
+
+Único.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
