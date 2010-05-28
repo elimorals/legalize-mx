@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-de-ciudad-guadalupe-7899"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-15"
-last_updated: "2010-05-14"
+last_updated: "2010-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de noviembre de 1995.
 
@@ -150,6 +150,10 @@ VI.- El C. Director de Tránsito.
 > <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 16 DE FEBRERO DE 2007)</small>
 
 VII.- La Coordinación de los C. Inspectores.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2010)</small>
+
+VIII.- El C. Coordinador de Jueces Calificadores y Alcaides.
 
 ###### ARTICULO 5.
 
@@ -365,9 +369,11 @@ La policía podrá constituirse en instancia de Coordinación Intermunicipal Reg
 
 III.- El Municipio se coordinará con las autoridades de Seguridad Pública del Estado para ejercer funciones de intervención, control o de reacción frente a delitos de alto impacto social o que la legislación penal los califica de graves.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 8.
 
-Corresponde al Alcalde Municipal:
+Corresponde al Alcaide Municipal:
 
 I.- Acatar las órdenes que emanen del C. Presidente Municipal y de la Dirección responsable de la Seguridad Pública del Municipio.
 
@@ -415,7 +421,9 @@ VIII.- Proporcionar con toda veracidad, los informes y datos que les sean solici
 
 IX.- Enviar a sus hijos o pupilos a la escuela para obtener la educación básica, cuidando de que cuando en los casos de necesidad los menores contribuyan al sostenimiento de la familia, no se dediquen a actividades remunerativas durante los días y horas de ocupaciones escolares.
 
-X.- No arrojar en la Vía Pública, las cáscaras o semillas de frutas, sustancias gaseosas, jugos o pedazos de papel o cualquier otro material que causen molestias a los ciudadanos y ensucien la misma.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2010)</small>
+
+X.- No arrojar en la vía pública, las cáscaras ó semillas de frutas, sustancias gaseosas, envases, jugos o pedazos de papel, ó cualquier desecho u otro material que causen molestias a los ciudadanos y ensucien la misma.
 
 XI.- No lavar o tender ropa en las banquetas o balcones de los edificios, tampoco en los ríos, arroyos, cauces y demás; ni en ningún otro sitio público.
 
@@ -507,11 +515,9 @@ VI.- Llevar a cabo bailes en salones, clubes y centros sociales; infringiendo el
 
 VII.- Quien organice peleas de animales sin contar con el permiso de la autoridad correspondiente.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
 
-A quienes cometan esta infracción, independientemente de las sanciones a que se hagan acreedores, se les decomisará los animales de que se trate, mismos (sic)
-
-que serán puestos a disposición de la autoridad o instituciones correspondientes.
+A quienes cometan esta infracción, independientemente de las sanciones a que se hagan acreedores, se les decomisará los animales de que se trate, mismos que sean puestos a disposición de la autoridad o instituciones correspondientes.
 
 ### CAPITULO 8
 
@@ -537,7 +543,9 @@ VII.- Mover o dañar las señales públicas del lugar donde hubiesen sido coloca
 
 VIII.- Maltratar los buzones o cualquier aparato de uso común que haya sido colocado en la Vía Pública.
 
-IX.- Asistir en estado de embriaguez y/o drogado alterando el orden, a los cines, teatros, kermesses y demás lugares públicos donde se celebren espectáculos.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2010)</small>
+
+IX.- Asistir en estado de ebriedad y/o bajo el influjo de sustancias tóxicas ó estupefacientes, a los cines, teatros, kermés y demás lugares públicos donde se celebren espectáculos.
 
 X.- Ingerir bebidas alcohólicas, consumir drogas o inhalar solventes en las calles, banquetas, avenidas, plazas, áreas verdes o cualquier otro lugar público.
 
@@ -579,7 +587,9 @@ X.- Ejercer la mendicidad en la Vía Pública o en lugares públicos.
 
 XI.- Ejercer la prostitución en la Vía Pública o en lugares públicos.
 
-XII.- Realizar actos inmorales, ya sea dentro de los vehículos estacionados, en las áreas verdes, o en cualquier otro lugar público.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2010)</small>
+
+XII.- Realizar actos inmorales, ya sea dentro de los vehículos estacionados ó en marcha; en las áreas verdes, ó en cualquier otro lugar público.
 
 XIII.- Faltarle al respeto a los ancianos, niños y mujeres en la Vía Pública o en lugares públicos.
 
@@ -593,7 +603,9 @@ DE LAS INFRACCIONES AL EJERCICIO DEL COMERCIO Y DEL TRABAJO.
 
 Son consideradas como infracciones Sanitarias las siguientes:
 
-I.- Orinar o defecar en los parques, plazas, o en cualquier tipo de lugares públicos; obras en construcción o en los lotes baldíos.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2010)</small>
+
+I.- Orinar ó defecar en los parques, plazas, ó en cualquier tipo de lugares públicos; obras en construcción ó en los lotes baldíos. Permitir ó azuzar para que los animales domésticos, causen o puedan causar daños a terceros; ya sea en sus personas, sus bienes o sus pertenencias. Vender o distribuir tóxicos o solventes de cualquier tipo a los menores de edad y a quienes mostrasen señales evidentes de intoxicación. Vender y utilizar los tronadores, palomas y demás cohetes o artículos detonadores semejantes, en las calles, plazas, establecimientos mercantiles y demás sitios públicos, sin el permiso de la Autoridad correspondiente.
 
 II.- Permitir azuzar, para que los animales domésticos, causen o puedan causar daños a terceros; ya sea en sus personas, sus bienes o sus pertenencias.
 
@@ -645,6 +657,10 @@ I.- Desobedecer o tratar de burlar a la Autoridad que le llame la atención en r
 
 II.- Romper, alterar o mutilar las boletas de infracciones o cualquier tipo de notificación que sea realizada por parte de la Autoridad Municipal.
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2010)</small>
+
+III.- Entorpecer la prestación de los servicios públicos municipales.
+
 ### CAPITULO 14
 
 DEL CONTROL Y VIGILANCIA EN EL EXPENDIO DE SUSTANCIAS INHALANTES O TÓXICAS A LOS MENORES DE EDAD.
@@ -659,7 +675,13 @@ II.- Permitir, los dueños de los animales, que éstos beban de las fuentes púb
 
 III.- Disponer de flores, frutas, plantas, árboles o cualquier otro tipo de objetos que pertenezcan a la Autoridad Municipal o algún tercero, sin el permiso de los mismos.
 
-IV.- Todas aquellas que estén contempladas en el Reglamento de Ecología Municipal y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2010)</small>
+
+IV.- Todas aquellas que estén contempladas en el Reglamento de Protección Ambiental del Municipio de Guadalupe, Nuevo León y demás disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2010)</small>
+
+VI (SIC).- Arrojar a la vía pública o lotes baldíos, objetos ó animales que puedan causar contaminación, daños, o molestias a los vecinos transeúntes, ó vehículos.
 
 ## TITULO III
 
@@ -675,9 +697,11 @@ DE LAS INFRACCIONES COMETIDAS POR MENORES DE EDAD.
 
 El objeto del presente Capítulo, es el de regular la conducta que se debe de tomar en relación con los menores de edad. Además de mantener un estricto orden y vigilancia de los establecimientos comerciales que venden al público en general químicos inhalantes, pinturas en aerosol y demás sustancias que debido a su composición afectan a la salud del individuo; con el fin, de reducir y abatir el índice de drogadicción que propicia la comisión de delitos llevados a cabo por menores de edad.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### ARTICULO 23.
 
-Para los efectos del presente Capítulo, se considera como sustancia química inhalante, aquella compuesta por químicos, que al penetrar en el organismo humano, produce lesiones físicas o mentales de manera inmediata o retardada.
+Para los efectos del presente Capítulo, se considera como sustancia química inhalante, aquélla compuesta por químicos, que al penetrar en el organismo humano, produce lesiones físicas ó mentales de manera inmediata ó retardada.
 
 ###### ARTICULO 24.
 
@@ -801,7 +825,7 @@ DEL RECURSO DE INCONFORMIDAD.
 
 DE LA COMISIÓN DE HONOR Y JUSTICIA Y TRAMITE DE QUEJAS.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 39.
 
@@ -853,7 +877,7 @@ DE LA ACTUALIZACION DE ESTE REGLAMENTO.
 
 ###### ARTICULO 42.
 
-Se crea la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública del Municipio de Guadalupe, Nuevo León, a fin de dar cumplimiento al Artículo 86 de la Ley de Seguridad Pública para el Estado de Nuevo León, la cual se regirá por su propio Reglamento.
+Se crea la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública del Municipio de Guadalupe, Nuevo León, a fin de dar cumplimiento al Artículo 226 de la Ley de Seguridad Pública para el Estado de Nuevo León, la cual se regirá por su propio Reglamento.
 
 ###### ARTICULO 43.
 
@@ -1054,3 +1078,9 @@ P.O. 14 DE MAYO DE 2010.
 PRIMERO.- La presente reforma por adición de la fracción XII al artículo 15 del Reglamento de Policía y Buen Gobierno del Municipio de Ciudad Guadalupe, Nuevo León, entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de la presente reforma por adición.
+
+P.O. 28 DE MAYO DE 2010.
+
+PRIMERO.- Las presentes reformas por adición y modificación al REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEÓN, entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas por adición y modificación.
