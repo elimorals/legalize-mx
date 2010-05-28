@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-pronos-mas-de-pronosticos-para-la-71037"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-26"
-last_updated: "2009-11-26"
+last_updated: "2010-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71037&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-29"
 
 REGLAMENTO DEL SORTEO PRONOS MAS DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de noviembre de 2009.
 
@@ -75,7 +75,9 @@ XI. Sistema de Cómputo Central: Sistema de Cómputo utilizado para operar los S
 
 XII. Sorteo: Actividad en la que los poseedores o titulares de un boleto mediante la selección previa de un número, combinación de números o cualquier otro símbolo, obtienen el derecho a participar en un procedimiento previamente estipulado y aprobado por la Secretaría de Gobernación, conforme al cual se determina al azar un número, combinación de números, símbolo o símbolos que generan uno o varios ganadores de un premio;
 
-XIII. Sorteo Base: Sorteo de Tris en cualquiera de sus modalidades, Melate con Revancha, Chispazo en su modalidad Chispazo Multiganador, Gana Gato, así como los Concursos Progol con Revancha y Protouch; o cualquier otro que con posterioridad determine Pronósticos, en el que originalmente intervenga el participante;
+> <small>(REFORMADA, D.O.F. 28 DE MAYO DE 2010)</small>
+
+XIII. Sorteo Base: Sorteo de Tris en cualquiera de sus modalidades, Melate con Revancha, Chispazo, Gana Gato, así como los Concursos Progol con Revancha y Protouch; o cualquier otro que con posterioridad determine Pronósticos, en el que originalmente intervenga el participante;
 
 XIV. Terminal: Aparato cuya función consiste en captar los datos de la participación hecha por el concursante;
 
@@ -304,3 +306,11 @@ Secretario del Consejo Directivo
 Lic. Sergio Eduardo Huacuja Betancourt
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 28 DE MAYO DE 2010.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
