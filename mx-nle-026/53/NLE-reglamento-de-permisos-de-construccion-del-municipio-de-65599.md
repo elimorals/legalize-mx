@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-permisos-de-construccion-del-municipio-de-65599"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-22"
-last_updated: "2009-09-14"
+last_updated: "2010-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "NLE"
 
 REGLAMENTO DE PERMISOS DE CONSTRUCCION DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de diciembre de 2008.
 
@@ -150,7 +150,9 @@ Se requiere autorización expresa del Centro, para realizar en la vía pública,
 
 El Centro al otorgar autorización para las obras mencionadas, señalará en cada caso las condiciones bajo las cuales se conceda, de modo que al ejecutarse los trabajos, sólo se interrumpa el funcionamiento de la vía pública en el espacio en base del programa de obra que presente el interesado.
 
-Los solicitantes estarán obligados a efectuar las reparaciones correspondientes para restaurar o mejorar el estado original de la vía pública, o al pago de su importe, cuando el Centro las realice.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
+Los solicitantes estarán obligados a efectuar las reparaciones correspondientes para restaurar o mejorar el estado original de la vía pública, o al pago de su importe, cuando el Centro las realice. En ambos casos el Centro solicitará una garantía que el Municipio asigne, hasta recibir a su entera satisfacción los trabajos realizados.
 
 ###### ARTÍCULO 16.
 
@@ -240,9 +242,11 @@ II.- Responder de cualquier violación a este Reglamento y demás disposiciones 
 
 III.- Planear y supervisar las medidas de seguridad del personal y terceras personas en la obra, en sus colindancias y en la vía pública durante su ejecución.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 27.
 
-En construcciones, ampliaciones y regularizaciones mayores a 60 m2 se requiere firma del Director responsable de Obra, en el entendido que las construcciones menores a 60 m2, será el dueño del predio el responsable de las obras.
+En construcciones, ampliaciones y regularizaciones mayores a 60 m2 se requiere firma del Director responsable de la Obra, en el entendido que las construcciones menores a 60 m2, será el dueño del predio el responsable de las obras. El Director Responsable de la Obra, será Responsable Solidario en los términos de la Legislación vigente.
 
 ### CAPITULO SEGUNDO. CORRESPONSABLES
 
@@ -386,7 +390,9 @@ Para la obtención de la licencia de construcción, el interesado deberá entreg
 
 La gestión de la Licencia de Uso de Suelo y el Permiso de Construcción pueden ser realizados por una persona distinta al propietario, debiendo presentar carta poder simple además de la documentación requerida por la dependencia o carta poder notariada según sea el caso.
 
-La presentación de la documentación será responsabilidad del propietario o poseedor. El Municipio recibirá y revisará que se entregue el formato de registro correspondiente, los documentos a que se refiere el artículo 40 de este Reglamento y al pago de los derechos correspondientes. El plazo máximo para extender la licencia de construcción en lotes menores a 1000 m2 será de 45 días naturales contando a partir del momento de la presentación de la solicitud, lo anterior siempre y cuando se reúnan todos los requisitos inherentes para tal efecto.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
+La presentación de la documentación será responsabilidad del propietario o poseedor. El Municipio recibirá y revisará que se entregue el formato de registro correspondiente, los documentos a que se refiere el artículo 40 de este Reglamento y al pago de los derechos correspondientes. El plazo máximo para extender la licencia de construcción será de 30 días hábiles contando a partir del momento de la presentación de la solicitud, lo anterior siempre y cuando se reúnan todos los requisitos inherentes para tal efecto.
 
 Para el caso de construcción en fraccionamientos, el permiso deberá ser solicitado por el desarrollador o constructor, cumpliendo al efecto todos los requisitos que este Reglamento establece. Para este caso tanto el desarrollador, constructor, Director Responsable de Obra o cualquier persona que intervenga, responderán en forma solidaria o en forma individual al Municipio con las obligaciones inherentes, por la exactitud del proyecto y en consecuencia, la ejecución del mismo en la forma y términos que señala la Ley Vigente en la materia.
 
@@ -534,7 +540,9 @@ Los conjuntos habitacionales cubrirán las aportaciones y derechos que señalen 
 
 La licencia de construcción y cuatro copias de los planos registrados, se entregarán al propietario, poseedor o inquilino, cuando éste cubra el monto de todos los derechos que generé su autorización, incluyendo las cuotas de reposición por las zonas arboladas que la obra pudiere afectar en los términos del Plan y de este Reglamento.
 
-Si en un plazo de treinta días naturales contados a partir de aquel en que se expidió la licencia, no se presenta el recibo de pago de derechos respectivos, emitido por la Tesorería Municipal, la solicitud podrá ser cancelada.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
+Si en un plazo de treinta días naturales contados a partir de aquel en que se expidió la licencia, no se presenta el recibo de pago de derechos respectivos, emitido por la Tesorería Municipal, la solicitud podrá ser cancelada previo aviso al contribuyente.
 
 ## TITULO QUINTO
 
@@ -596,9 +604,11 @@ En todos los casos en que haya que hacer muro de contención, se le deberán dej
 
 En caso de que el propietario del predio inferior, corte el terreno para nivelarlo, ese corte deberá de ser protegido con un muro de contención que soporte el empuje del terreno en la misma área del corte, en la inteligencia de que lo hará bajo su propio riesgo y responsabilidad, por los daños que pueda ocasionar al predio o edificación del lote superior.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 57.
 
-Queda prohibido propiciar o acelerar, la remoción de la capa vegetal, desmonte y el empobrecimiento de cualquier suelo, excepto las de las áreas de construcciones autorizadas.
+Queda prohibido propiciar o acelerar, la remoción de la cubierta vegetal, desmonte y el empobrecimiento de cualquier suelo, excepto las de las áreas de construcciones autorizadas. Previo cumplimiento de la reposición forestal que corresponda.
 
 ###### ARTÍCULO 58.
 
@@ -710,9 +720,11 @@ Cualquier cambio de uso en edificaciones ya ejecutadas, requerirá de previa lic
 
 Las edificaciones señaladas por la Ley de Protección Civil del Estado de Nuevo León requerirán de la inspección, control y vigilancia de la Dirección Municipal de Protección Civil. Lo anterior, con el objetivo de evitar la ocurrencia de riesgos o desastres para los usuarios y las edificaciones contiguas.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 76.
 
-Para gasolineras, gaseras, en predio de cualquier medida y en cuanto a las industrias, bodegas, talleres, centros comerciales y giros similares en áreas mayores a 1,000.00 M2 se obliga a presentar un dictamen de la Agencia de de Protección al Medio Ambiente y Recursos Naturales del Estado de Nuevo León.
+Para gasolineras, gaseras, en predio de cualquier medida y en cuanto a las industrias, bodegas, talleres, centros comerciales y giros similares en áreas mayores a 1,000.00 M2 se obliga a presentar un dictamen de la Secretaría de Desarrollo Sustentable y su correspondiente Subsecretaría de Protección al Medio Ambiente y Recursos Naturales del Estado de Nuevo León.
 
 ###### ARTÍCULO 77.
 
@@ -776,9 +788,11 @@ La superficie construida máxima permitida en los predios, será la que se deter
 
 En las nuevas edificaciones de tiendas y almacenes, bodegas, de servicios o industriales no nocivos; se deberá respetar una zona de amortiguamiento en una franja de terreno con un ancho mínimo de 18-dieciocho metros lineales paralelos a las colindancias a predios con usos habitacionales. Dicha franja se dispondrá dentro de los límites del predio.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 90.
 
-El Centro establecerá los números oficiales para su área jurisdiccional, siendo los propietarios quienes lo soliciten.
+El Centro establecerá los números oficiales para su área jurisdiccional, siendo los propietarios quienes lo soliciten, con la licencia de construcción.
 
 ###### ARTÍCULO 91.
 
@@ -908,13 +922,25 @@ Los estacionamientos públicos, tendrán una caseta de control anexa al área de
 
 En los estacionamientos deberán existir protecciones adecuadas en rampas, colindancias, fachadas y elementos estructurales, con dispositivos capaces de resistir los posibles impactos de los automóviles.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2010)</small>
+
+###### ARTÍCULO 115 Bis.
+
+En los estacionamientos se deberá de contar con arborización nativa de la región (palo blanco, encino, ébano, nogal, anacua o anacahuita) de al menos 5 cm-cinco centímetros de grosor medidos a 1.00 m-un metro de altura, los cuales se colocaran 1 árbol por cada dos cajones de estacionamiento en hilara (sic) sencilla ó 1 árbol por cada 4 cajones de estacionamiento en hilera doble.
+
+De no ser posible plantar árboles en el estacionamiento, por razones técnicas y naturales justificables, deberá de entregarlos a la Dirección de Ecología dependiente del Centro de Desarrollo Urbano y Ecología, para los programas de reforestación.
+
 ###### ARTÍCULO 116.
 
 Cuando en la autorización del uso del suelo y de la edificación se cumplió con el requerimiento de cajones por medio de un contrato de arrendamiento, en el caso de la cancelación del contrato queda sin efecto el permiso otorgado.
 
 Las edificaciones deberán contar con los espacios para estacionamientos de vehículos, que de acuerdo a su tipología y a su ubicación, se establecen en la siguiente tabla.
 
-> <small>N. DE E. VEASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2008, PAGINAS DE LA 91 A LA 93.</small>
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2010)</small>
+
+> <small>N. DE E. VEASE TABLA EN EL P.O. DE 28 DE MAYO DE 2010, PAGINA 27.</small>
+
+> <small>N. DE E. VEASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2008, PAGINAS DE LA 91, A LA 93.</small>
 
 Las cantidades de cajones para estacionamiento de vehículos, variarán de acuerdo a estudios correspondientes de cada zona, en lo referente a carencia actual de cajones de estacionamiento y estimación futura de demanda de los mismos.
 
@@ -1134,9 +1160,11 @@ Las fachadas de colindancia de las edificaciones de cinco niveles o mas, que for
 
 #### SECCION PRIMERA. INSTALACIONES HIDRÁULICAS Y SANITARIAS
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 156.
 
-Este Reglamento a través de sus dependencias correspondientes, exigirá la realización de estudios de factibilidad de tratamiento y reuso de aguas residuales, sujetándose a lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente, obligando a tener separadas las instalaciones en aguas pluviales y negras, para su uso, aprovechamiento o desalojo.
+Este Reglamento a través de sus dependencias correspondientes, exigirá la realización de estudios de factibilidad de tratamiento y reuso de aguas residuales, sujetándose a lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente y las Normas Oficiales aplicables, obligando a tener separadas las instalaciones en aguas pluviales y negras para su uso, aprovechamiento o desalojo.
 
 ###### ARTÍCULO 157.
 
@@ -1600,9 +1628,11 @@ La segunda y posteriores notificaciones se efectuarán en el domicilio que se de
 
 ### CAPITULO SEGUNDO. INFRACCIONES
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 233.
 
-La violación a la Legislación vigente en materia de Desarrollo Urbano del Estado de Nuevo León, a este Reglamento, al Reglamento de Zonificación y usos del Suelo, al Plan de Desarrollo Urbano del Municipio de Guadalupe, Nuevo León vigente o de las resoluciones, licencias o autorizaciones expedidas, por el C. Presidente (a) Municipal, por el Centro de Desarrollo Urbano y Ecología o de las direcciones dependientes de esta última, se considera una infracción y origina como consecuencia, la aplicación de las sanciones correspondientes.
+La violación a la Legislación vigente en materia de Desarrollo Urbano del Estado de Nuevo León, a este Reglamento, al Reglamento de Zonificación y usos del Suelo del Municipio de Guadalupe, Nuevo León, al Plan de Desarrollo Urbano del Municipio de Guadalupe, Nuevo León y al Reglamento de Protección Ambiental del Municipio de Guadalupe, Nuevo León vigentes, o de las resoluciones, licencias o autorizaciones expedidas, por el C. Presidente (a) Municipal, por el Centro de Desarrollo Urbano y Ecología o de las direcciones dependientes de esta última, se considera una infracción y origina como consecuencia, la aplicación de las sanciones correspondientes.
 
 ###### ARTÍCULO 234.
 
@@ -1658,55 +1688,169 @@ La sanción económica se determinará en cuotas de salario mínimo vigente en l
 
 Para fijar la sanción se deberán tomar en cuenta las condiciones personales del infractor, la gravedad de la infracción y de las modalidades y demás circunstancias en que la misma se haya cometido.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 241.
 
-Se consideran conductas violatorias o infracciones a este Reglamento, a los planes o programas de Desarrollo Urbano y al Reglamento Municipal de Zonificación y Uso del Suelo; las siguientes:
+Se consideran conductas violatorias o infracciones a este Reglamento, a los planes o programas de Desarrollo Urbano de este Municipio y al Reglamento de Zonificación y Usos de Suelo del Municipio de Guadalupe, Nuevo León; las siguientes:
 
-I.- La contravención a las disposiciones contenidas en los convenios que celebren las autoridades en materia de Desarrollo Urbano, ordenamiento territorial y Asentamiento humanos;
+Se sancionará con la suspensión o clausura definitiva total o parcial de excavaciones, instalaciones, construcciones, obras de urbanización y construcción relativa a fraccionamientos y venta de lotes, obras para edificaciones o para soportar anuncios o servicios en los siguientes casos:
 
-II.- Cuando se realicen obras de construcción, urbanización y similares relativas a un fraccionamiento, sin contar con la factibilidad, licencia, permisos, o autorizaciones correspondientes; y propiciar la ocupación y regular de esas áreas y predios;
+I. Cuando sin contar con permiso o autorización, el o los propietarios, ordenen, contraten o permitan la realización de alguna excavación, instalación, construcción, demolición, movimiento de tierra, desmonte o tala de árboles en un predio de su propiedad;
 
-III.- Realizar alguna construcción, instalación, demolición o excavación, sin contar con la debida autorización;
+II. Cuando sin contar con permiso o autorización se realice una excavación, construcción, instalación, o se depositen materiales o escombros que afecten la vía pública, terreno del dominio público o afecto a destino común;
 
-IV.- Realizar, sin permiso a autorización, en la vía pública, terrenos de dominio público o afecto a un destino común: construcciones, instalaciones, excavaciones, depósito de materiales o escombros, o cualquier otra obra, o acto que afecte sus funciones;
+III. Cuando el alineamiento establezca al predio, restricciones o afectaciones y éstas no se respeten;
 
-V.- Llevar a cabo la ejecución de obras o instalaciones de cualquier naturaleza en lugares expresamente prohibidos para ello;
+IV. Cuando el o los propietarios de un predio realicen una construcción sin contar con las constancias o licencias necesarias;
 
-VI.- Establecer o cambiar el Uso de Suelo o destino de un predio, inmueble o deificación, distinto al autorizado o al proyecto aprobado, sin la debida autorización de la Autoridad Competente;
+V. Cuando el o los propietarios den a un predio o construcción un uso o destino diferente al autorizado o incumplan con la densidad, los coeficientes de ocupación y utilización del suelo aplicable;
 
-VII.- Continuar ejerciendo los derechos derivados de un permiso o autorización al vencerse el término del mismo sin haber obtenido su renovación; y, (sic)
+VI. Cuando el o los propietarios de un predio o construcción no respeten las disposiciones de la Ley, su reglamentación o los planes de desarrollo urbano;
 
-VIII.- La contravención a las normas básicas para las vías públicas establecidas en este Reglamento;
+VII. Cuando se ejecuten obras, instalaciones o edificaciones en lugares prohibidos por la Ley, su reglamentación o los planes y programas de desarrollo urbano,
 
-IX.- Obtener la expedición de licencia, utilizando documentos falsos;
+VIII. Cuando se utilicen, sin las autorizaciones correspondientes, explosivos para excavaciones o demoliciones;
 
-X.- No mostrar al Inspector los planos autorizados y la licencia para la obra o instalaciones y obstaculizar las visitas de los Inspectores;
+IX. Cuando se realicen obras de construcción, urbanización y similares relativas a un fraccionamiento, sin contar con la factibilidad, licencia, permiso, o autorización correspondiente;
 
-XI.- No cumplir el director responsable de obra o el propietario, con las obligaciones que le fija este Reglamento y no tomar las medidas necesarias para proteger la vida y salud de los trabajadores, transeúntes y terceros; así como no acatar los requisitos y disposiciones relativos al proyecto arquitectónico, estructural y de instalaciones electromecánicas, autorizado durante la ejecución de la obra;
+X. Cuando se obstaculice o impida en alguna forma el cumplimiento de las ordenes de inspección expedidas por la autoridad competente;
 
-XII.- Realizar excavaciones u obras que afecten la estabilidad del inmueble en que se están haciendo o de las construcciones y predios vecinos o de la vía pública;
+XI. Cuando se realice o promueva la venta de lotes, predios y edificaciones de un fraccionamiento, sin contar con la licencia, permiso o autorización correspondiente;
 
-XIII.- Usar sin previa autorización, explosivos en demoliciones, excavaciones u otras fases de construcción.
+XII. Cuando se promueva o permita la ocupación de un predio o edificación sin contar con las licencias, permisos y autorizaciones correspondientes o violando el uso de suelo que le corresponde; y
 
-XIV.- No cumplir, en la edificación o en la instalación, las previsiones contra incendios;
+XIII. Cuando el propietario, poseedor o responsable de obras que se lleven a cabo en inmuebles ubicados en zonas de riesgo establecidas en el Atlas de riesgos, realice obras o instalaciones o actos sin permiso o autorizaciones, o teniéndolo no cumpla con el mismo.
 
-XV.- Utilizar, el director responsable de obra, sin previa autorización, nuevos sistemas o procedimientos de construcción;
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2010)</small>
 
-XVI.- No dar aviso de terminación de obra;
+ARTÍCULO 241 Bis I. Se sancionará con multa al propietario o a los responsables solidarios en los siguientes casos:
 
-XVII.- No realizar las obras de conservación de edificios y predios.
+I. Multa desde trescientas hasta dos mil veces el salario mínimo prevaleciente en la zona económica:
+
+a) Cuando no se respeten las normas de diseño en las obras y edificaciones para las personas con discapacidad;
+
+b) Cuando se promueva o permita la ocupación de un predio o edificación sin contar con las licencias, permisos y autorizaciones correspondientes o violando el uso del suelo que le corresponda; y
+
+c) Cuando se utilice el predio o sus construcciones sin haber obtenido la constancia de suelo correspondiente.
+
+II. Multa desde dos mil hasta diez mil veces el salario mínimo prevaleciente en la zona económica:
+
+a) Cuando después de haber sido sancionado por la autoridad competente el propietario y los responsables solidarios persistan en realizar acciones violatorias a Leyes, reglamentos o a disposiciones administrativas de aplicación general;
+
+b) Cuando después de su vencimiento y sin haber obtenido su renovación, se continúen ejerciendo derechos que le fueron otorgados por una constancia, licencia, permiso o autorización;
+
+c) Cuando los particulares contravengan las disposiciones o incumplan injustificadamente las obligaciones contenidas en los convenios que celebren con las autoridades en materia de desarrollo urbano;
+
+d) Cuando no se ejecuten las medidas de seguridad impuestas por la autoridad competente;
+
+e) Cuando no se respete el porcentaje de área verde o espacio abierto, se excedan las densidades de población o construcción autorizadas, la altura máxima permitida o los coeficientes de utilización y ocupación del suelo conforme al plan o programa de desarrollo urbano aplicable;
+
+f) Cuando se contravengan las normas básicas para las vías públicas establecidas en la presente Ley;
+
+g) Cuando se ejecuten obras, instalaciones, excavaciones o edificaciones en lugares prohibidos por la Ley, su reglamentación o los planes y programas de desarrollo urbano;
+
+h) Cuando se impida la inspección de un inmueble;
+
+i) Cuando se realicen obras, construcciones, instalaciones, demoliciones o excavaciones, sin contar con la debida autorización o con una licencia cuyo contenido sea violatorio de los programas;
+
+j) Cuando se lleven a cabo subdivisiones, fusiones, relotificaciones y parcelaciones sin la licencia, permiso o autorización correspondiente;
+
+k) Cuando se incumpla con las obligaciones derivadas de un polígono de actuación autorizado;
+
+l) Cuando se incumpla con las obligaciones derivadas de un reagrupamiento parcelario autorizado;
+
+m) Cuando se incumpla con las obligaciones establecidas por un plan o programa de desarrollo urbano para una zona de suelo estratégico;
+
+n) Cuando se realicen obras de construcción, urbanización y similares relativas a un fraccionamiento o conjunto, sin contar con la factibilidad, licencia, permiso, o autorización correspondiente;
+
+o) Cuando se realicen sin permiso o autorización, en la vía pública, terreno de dominio público o afecto a un destino común; construcciones, instalaciones, o cualquier otra obra, o acto que afecte sus funciones; o
+
+p) Cuando se utilice el predio o sus construcciones para un uso o destino no permitido, para la zona en la que se ubica el predio.
+
+III. Multa desde cinco mil veces el salario mínimo prevaleciente en la zona económica hasta dos veces el valor de las acciones, obras o construcciones realizadas:
+
+a) Cuando el propietario, poseedor o responsable de obras que se lleven a cabo en inmuebles ubicados en zonas de riesgos establecidas en el atlas de riesgos, realice obras o instalaciones o actos sin permiso o autorización, o teniéndolo no cumpla con el mismo;
+
+b) Cuando se realice o promueva la venta de lotes, predios y edificaciones de un fraccionamiento o conjunto, sin contar con la licencia, permiso o autorización correspondiente; o
+
+c) Cuando se realicen fraccionamientos, conjuntos o urbanizaciones sin contar con la debida autorización.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2010)</small>
+
+ARTÍCULO 241 Bis II. Se sancionará con la demolición total o parcial de las obras en proceso o de las construcciones en los casos siguientes:
+
+I. Cuando se realicen construcciones, instalaciones, demoliciones o excavaciones, sin contar con la debida autorización;
+
+II. Cuando se realicen sin permiso o autorización, en la vía pública, terreno de dominio público o afecto a un destino común; construcciones, instalaciones, o cualquier otra obra, o acto que afecte sus funciones;
+
+III. Cuando el propietario, poseedor o responsable de obras que se lleven a cabo en inmuebles ubicados en zonas de riesgos establecidas en el atlas de riesgos, realice obras o instalaciones o actos sin permiso o autorización, o teniéndolo no cumpla con el mismo; o
+
+IV. Cuando se ejecuten obras, instalaciones o edificaciones en lugares prohibidos por la Ley, su reglamentación o los planes y programas de desarrollo urbano.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2010)</small>
+
+ARTÍCULO 241 Bis III. Se sancionará con la revocación de las autorizaciones, licencias y permisos en los casos siguientes:
+
+I. Cuando se descubra que se utilizaron documentos falsos o erróneos o que se consiguieron con dolo a fin de obtener la autorización correspondiente;
+
+II. Cuando se construya un proyecto diferente al autorizado; o
+
+III. Cuando para el otorgamiento de la licencia, permiso o autorización el servidor público competente dicte el acto en contravención a alguna disposición jurídica vigente; o
+
+IV. Cuando se haya emitido por autoridad incompetente.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2010)</small>
+
+ARTÍCULO 241 Bis IV. Se sancionará con arresto administrativo de los propietarios y de sus responsables solidarios en los siguientes casos:
+
+I. Cuando al ejecutar una orden de inspección emitida por autoridad competente, se impida a los inspectores, debidamente acreditados, la realización de la inspección;
+
+II. Cuando no se respeten los sellos de suspensión o clausura colocados por autoridades competentes;
+
+III. Cuando se continúen realizando labores de excavación, construcción o de cualquier tipo, excepto de vigilancia, en el predio, lote o edificación suspendida o clausurada.
+
+En los casos a que se refiere este artículo, la autoridad competente que conozca del caso dará vista al Ministerio Público para los efectos correspondientes.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 242.
 
-Las violaciones a este Reglamento previstas y no previstas, se sancionarán, basadas en el avance en que se encuentre la construcción de acuerdo a lo siguiente:
+La imposición de sanciones se aplicará sin perjuicio de las responsabilidades que conforme a otros Códigos, Leyes, Reglamentos, Disposiciones Administrativas de observancia general y Normas Oficiales Mexicanas que correspondan.
 
-I.- El equivalente de una a veinte veces el salario mínimo general, por las infracciones expresadas en las fracciones IV, VIII, X, XII, XVI, XVII, mencionadas en el Artículo anterior.
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2010)</small>
 
-II.- El equivalente de una a cincuenta veces el salario mínimo general, por las infracciones expresadas en las fracciones XI, XIII y XV, mencionadas en el Artículo anterior.
+ARTÍCULO 242 Bis I. El acto administrativo válido es ejecutorio cuando el ordenamiento jurídico aplicable, reconoce a la Administración Pública Estatal o Municipal, la facultad de obtener su cumplimiento mediante el uso de medios de ejecución forzosa ante la contumacia del obligado.
 
-III.- El equivalente de una a cien veces el salario mínimo general, por las infracciones expresadas en las fracciones I, II, III, V, VI, VII, mencionadas en el Artículo anterior.
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2010)</small>
 
-IV.- El equivalente de una a doscientas veces el salario mínimo general, por las infracciones expresadas en las fracciones IX, XIV, mencionadas en el Artículo anterior.
+ARTÍCULO 242 Bis II. La ejecución forzosa por la administración se podrá llevar a cabo mediante embargo o ejecución subsidiaria.
+
+Tiene lugar a la ejecución subsidiaria cuando se trate de actos que por no ser personalísimos puedan ser realizados por sujeto distinto del obligado. En este caso la administración realizará el acto por sí o a través de las personas que determine y a costa del obligado.
+
+El costo de la ejecución forzosa se considerará crédito fiscal, en los términos de las disposiciones fiscales vigentes en el Estado y el Municipio de Guadalupe, Nuevo León.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2010)</small>
+
+ARTÍCULO 242 Bis III. Procederá la ejecución forzosa una vez que se agote el procedimiento respectivo y medie resolución de la autoridad competente en los siguientes casos:
+
+I. Cuando un propietario afectado por un destino para infraestructura vial o hidráulica, se rehúse a permitir su ejecución o impida la utilización de los derechos de vía correspondientes;
+
+II. Cuando exista obligación a cargo de los propietarios o poseedores de predios sobre los que la autoridad competente, haya decretado ocupación parcial o total, de retirar obstáculos que impidan la realización de las obras de utilidad o interés público, sin que las realicen en los plazos determinados;
+
+III. Cuando haya obligación de demoler total o parcialmente las construcciones que se encuentren en estado ruinoso, o signifiquen un riesgo para la vida, bienes o entorno de los habitantes, sin que ésta se verifique;
+
+IV. Cuando exista la obligación de reparar las edificaciones que así lo requieran, de acuerdo con el reglamento de construcciones aplicable, y no se cumpla con ella;
+
+V. Cuando los propietarios o poseedores hayan construido en contravención a lo dispuesto por los planes, siempre que dichas obras se realizaran con posterioridad a la entrada en vigor de los mismos, y no se hicieran las adecuaciones ordenadas, o bien no se procediera a la demolición ordenada en su caso;
+
+VI. Cuando se hubiere agotado el procedimiento administrativo y el obligado no hubiera acatado lo ordenado por la autoridad competente;
+
+VII. Cuando los propietarios de terrenos sin edificar se abstengan de conservarlos libres de maleza y basura;
+
+VIII. Cuando los propietarios o poseedores de inmuebles se rehúsen, incumplan o cumplan parcialmente, sin causa legal que lo justifique, las obligaciones de dar, hacer o no hacer, en las condiciones de tiempo, modo y lugar que impongan los planes de desarrollo urbano para los predios ubicados en zonas de suelo estratégico.
+
+IX. Cuando los propietarios o poseedores de inmuebles se rehúsen, incumplan, o cumplan parcialmente, sin causa legal que lo justifique las obligaciones de dar, hacer o no hacer, en las condiciones de tiempo, modo y lugar que establezcan las resoluciones en materia de polígonos de actuación o reagrupaciones parcelarias que impongan los planes o programas de desarrollo urbano aprobados.
 
 ###### ARTÍCULO 243.
 
@@ -1887,3 +2031,9 @@ Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y norma
 ###### ARTÍCULO TERCERO.
 
 Remítase al encargado del despacho de la Presidencia Municipal, a fin de que instruya al C. Secretario del Ayuntamiento, para que mande publicar las Adiciones del presente Reglamento en el Periódico Oficial del Estado de Nuevo León, así como en la Gaceta Municipal.
+
+P.O. 28 DE MAYO DE 2010.
+
+PRIMERO.- Las presentes reformas por adición y modificación al REGLAMENTO DE PERMISOS DE CONSTRUCCIÓN DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas.
