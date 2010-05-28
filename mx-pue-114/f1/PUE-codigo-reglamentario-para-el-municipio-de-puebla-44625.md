@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2010-03-31"
+last_updated: "2010-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -4909,7 +4909,7 @@ III. Colaborar con las autoridades del Estado y del Municipio para el debido cum
 
 ###### Artículo 382.
 
-Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado (sic) para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
+Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -5083,9 +5083,7 @@ IV.- Constituirse en Sesión Permanente en caso de producirse un desastre, a fin
 
 V.- Las demás funciones que le encomiende el Presidente Municipal.
 
-INTEGRACIÓN DE LA UNIDAD OPERATIVA MUNICIPAL DE PROTECCIÓN CIVIL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 393.
 
@@ -5619,11 +5617,13 @@ DE LAS MEDIDAS DE SEGURIDAD
 
 Como resultado del informe de visita de inspección, la Unidad Operativa Municipal de Protección Civil, adoptará y ejecutará las medidas de seguridad y protección encaminadas a evitar los daños que se puedan causar a la población, a las instalaciones, construcciones o bienes de interés general las que tiendan a garantizar el normal funcionamiento de los servicios esenciales para la comunidad e impedir cualquier situación que afecte a la seguridad o salud pública. Las medidas de seguridad se aplicarán sin perjuicios de las sanciones que, en su caso, correspondan.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
-
 ###### Artículo 445 Bis.
 
 Para la determinación y aplicación de las medidas preventivas y de seguridad de protección civil se estará a lo dispuesto en la Ley, en este Capítulo, y en los convenios suscritos con las dependencias estatales y federales.
+
+INTEGRACIÓN DE LA UNIDAD OPERATIVA MUNICIPAL DE PROTECCIÓN CIVIL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 446.
 
@@ -9169,6 +9169,10 @@ Para la reposición de licencia de funcionamiento por extravío o destrucción p
 
 El pago de derechos que no este contemplado en el presente artículo estará sujeto a lo dispuesto en el Código Fiscal y Presupuestario para el Municipio de Puebla y la Ley de Ingresos del Municipio vigente.
 
+(ADICIONADO, P.O. 28 DE MAYO DE 2010) (F. DE E., P.O. 2 DE JUNIO DE 2010)
+
+Para el caso de los establecimientos señalados en el artículo 628 fracción III, numerales 86, 87, 88, 89, 90, 91, 92, 93, 94, 95 y 96 así como las personas físicas y demás personas morales, cuando realicen actividades previstas en las leyes relativas al Sistema Financiero, deberán presentar además de lo anterior, copia certificada de la autorización vigente para la constitución y operación, expedida por la Comisión Nacional Bancaria y de Valores o por la autoridad competente.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 630.
@@ -9441,7 +9445,7 @@ XVII. Producto cárnico: Se entenderá por éste lo contemplado en el artículo 
 
 XVIII. Reinspección: Revisión para constatar el cumplimiento de las disposiciones de este Código y demás ordenamientos legales aplicables en la materia; de las canales o subproductos que ya fueron sujetos a inspección por un rastro distinto del Municipal;
 
-XIX. Resello: Sello que se coloca con la leyenda “Inspeccionado y Aprobado” en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
+XIX. Resello: Sello que se coloca con la leyenda "Inspeccionado y Aprobado" en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
 
 XX. Subproducto: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante.
 
@@ -10805,7 +10809,7 @@ OBRAS O INSTALACIONES EN LA VÍA PÚBLICA: Toda persona que ocupe con obras o in
 
 En las licencias que la Dirección expida para la ocupación o uso de la Vía Pública se indicará el plazo para retirar o trasladar las obras o las instalaciones a que se ha hecho referencia, así como el área autorizada a ocupar. Toda licencia que se expida para la ocupación y uso de la vía pública, se entenderá condicionada a la observancia de este Capítulo aunque no se exprese.
 
-Cuando las obras o instalaciones ocupen el arroyo de transito vehicular, los señalamientos viales preventivos necesarios deberán colocarse como mínimo 50 mts. antes del lugar, en el sentido del tránsito, siempre y cuando no sean arterias de alta velocidad.
+Cuando las obras o instalaciones ocupen el arroyo de tránsito vehicular, los señalamientos viales preventivos necesarios deberán colocarse como mínimo 50 mts. antes del lugar, en el sentido del tránsito, siempre y cuando no sean arterias de alta velocidad.
 
 ###### Artículo 691.
 
@@ -15811,8 +15815,6 @@ El personal de la UOMPROCI que sea designado para este tipo de inspecciones debe
 
 La Dirección o la UOMPROCI ordenarán al personal autorizado, la realización de la visita de inspección correspondiente, tendiente a valorar el grado de riesgo. Para emitir el dictamen técnico correspondiente, y así señalar las medidas de seguridad que procedan.
 
-Para tener acceso a la zona o inmueble objeto de la visita, bastará orden escrita, debidamente fundada y motivada. En caso de que no se permita el acceso al mismo, se podrá realizar con el auxilio de la fuerza pública o personal del ejército. Previo extrañamiento al poseedor, propietario o Director Responsable de Obra para el uso de la fuerza publica.
-
 ###### Artículo 1164.
 
 Para la realización de la visita de inspección en tratándose de las situaciones reguladas en este apartado, se observaran las formalidades previstas en este Capítulo, y se levantará el acta correspondiente, en la que se hará constar:
@@ -17931,7 +17933,7 @@ II. No se permitirán anuncios de este tipo en inmuebles destinados a uso habita
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-III. La altura máxima de los objetos en que figure la publicidad deberá ser de acuerdo a lo que determine la Unidad Operativa Municipal de Protección Civil, previo Dictamen que para tal efecto realice;
+IIl. La altura máxima de los objetos en que figure la publicidad deberá ser de acuerdo a lo que determine la Unidad Operativa Municipal de Protección Civil, previo Dictamen que para tal efecto realice;
 
 IV. Si el objeto es colocado directamente en el piso, debe contar con una protección en forma de valla a cuando menos 2 metros alrededor del mismo;
 
@@ -29089,7 +29091,7 @@ I. El Presidente Municipal, quien designará y podrá revocar en cualquier momen
 
 II. La Comisión Municipal de Box y Lucha Libre, es un cuerpo técnico en materia de ambos deportes y en su funcionamiento como Órgano Auxiliar será autónomo. Dependerá administrativamente de la Presidencia Municipal. Sus funciones se sujetarán a las prescripciones contenidas en el presente Capítulo y a las señaladas por el Departamento de Espectáculos, para efectos de expedición de las respectivas licencias que permitan la presentación de espectáculos y exhibiciones en que tengan lugar encuentros de Box y Lucha Libre en el Municipio;
 
-III. La Tesorería Municipal, cobrará el respectivo Impuesto Sobre Diversiones y Espectáculos Públicos, de acuerdo a lo establecido por el Título Segundo Capítulo III de la Ley de Ingresos del Municipio de Puebla y de lo establecido por el Título Segundo Capítulo III del Código Fiscal y Presupuestario para el Municipio de Puebla, así como de tener la legitima facultad de intervenir la taquilla, suspender o clausurar espectáculos, exhibiciones o presentaciones en que tengan lugar encuentros de Box y Lucha Libre, por la negativa del pago de este impuesto o cuando se violenten disposiciones previstas en la normatividad fiscal aplicable vigente, y
+III. La Tesorería Municipal, cobrará el respectivo Impuesto Sobre Diversiones y Espectáculos Públicos, de acuerdo a lo establecido por el Título Segundo Capítulo II de la Ley de Ingresos del Municipio de Puebla y de lo establecido por el Título Segundo Capítulo III del Código Fiscal y Presupuestario para el Municipio de Puebla, así como de tener la legitima facultad de intervenir la taquilla, suspender o clausurar espectáculos, exhibiciones o presentaciones en que tengan lugar encuentros de Box y Lucha Libre, por la negativa del pago de este impuesto o cuando se violenten disposiciones previstas en la normatividad fiscal aplicable vigente, y
 
 IV. El Departamento de Espectáculos, quien será el encargado de la estricta observancia del presente Capítulo, del boletaje y precio de entrada, así como lo referente a la expedición de la correspondiente autorización a los lugares en los que se lleve a cabo la presentación de espectáculos y exhibiciones en que tengan lugar encuentros de Box y Lucha Libre en el Municipio.
 
@@ -31963,17 +31965,17 @@ VIII. Reconocimiento al "Mérito Laboral";
 
 IX. Copia de la Declaración de la declaración de la UNESCO a la Ciudad de Puebla como Patrimonio Histórico de la Humanidad.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
 
 ###### Artículo 2335.
 
-Los Reconocimientos señalados en las fracciones I, Il, IlI, IV, V, VI y IX del artículo anterior, serán entregados sin que medie convocatoria para su asignación y se otorgarán en Sesión de Cabildo, o bien en Acto Protocolario, según lo determine el C. Presidente Municipal Constitucional.
+Los Reconocimientos señalados en las fracciones I, II, III, V, VI y IX del artículo anterior, serán entregados sin que medie convocatoria para su asignación y se otorgarán en Sesión de Cabildo, o bien en Acto Protocolario, según lo determine el C. Presidente Municipal Constitucional.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
 
 ###### Artículo 2336.
 
-Los Reconocimientos señalados en las fracciones I, Il, IlI, IV, V, VI y IX del artículo 2334 del presente Capítulo, serán entregados a las personas físicas cuyas actividades tienen una relevancia significativa en el mundo, el país, el Estado o el Municipio, a quienes se haya destacado por su labor intelectual o empresarial, porque su trayectoria, méritos o legados sean merecedores a recibirlos, y aquellas personas de distinguida reputación que vengan en representación de otros países, Estados o Municipios.
+Los Reconocimientos señalados en las fracciones I, II, III, V, VI y IX del artículo 2334 del presente Capítulo, serán entregados a las personas físicas cuyas actividades tienen una relevancia significativa en el mundo, el país, el Estado o el Municipio, a quienes se haya destacado por su labor intelectual o empresarial, porque su trayectoria, méritos o legados sean merecedores a recibirlos, y aquellas personas de distinguida reputación que vengan en representación de otros Países, Estados o Municipios.
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
 
@@ -31993,11 +31995,25 @@ El Reconocimiento de "Poblano Distinguido", será entregado a aquellas personas,
 
 El Reconocimiento "Alonso Valiente", será entregado a quienes se hayan destacado por su labor intelectual o empresarial, porque su trayectoria, méritos o legados sean merecedores a recibirlo.
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
 
 ###### Artículo 2340.
 
-El Reconocimiento al "Merito Docente", será entregado a aquellos maestros o catedráticos, cuya destacada labor represente un reconocimiento a su vasta y prestigiada trayectoria en materia de Educación.
+El Reconocimiento al "Merito Docente", será entregado a aquellos maestros o docentes, cuya destacada labor represente un reconocimiento a su vasta y prestigiada trayectoria en materia de Educación, en nivel básico, medio y superior.
+
+La selección de los maestros o docentes candidatos a recibir el Reconocimiento al "Mérito Docente" en sus tres categorías, se efectuará de conformidad con las bases de la convocatoria que para tal efecto determine el Consejo de Premiación. La convocatoria deberá publicarse en dos de los diarios de mayor circulación en el Estado de Puebla y en la página web del Gobierno Municipal.
+
+El Consejo de Premiación estará integrado por:
+
+I. El Presidente Municipal Constitucional;
+
+II. El Secretario del Ayuntamiento; y
+
+III. Los integrantes de la Comisión de Educación del Honorable Ayuntamiento.
+
+Cada integrante del Consejo tendrá voz y voto, en caso de empate el Presidente Municipal Constitucional, tendrá voto de calidad, y cada uno nombrará mediante oficio a un suplente, El Consejo de Premiación sesionará válidamente con la asistencia de la mitad más uno de sus integrantes.
+
+El Reconocimiento al "Mérito Docente" consistirá en un diploma firmado por el C. Presidente Municipal Constitucional y el Secretario del Ayuntamiento. El Reconocimiento será entregado por conducto del Presidente Municipal Constitucional en Acto Protocolario, durante la segunda semana del mes de mayo de cada año.
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
 
@@ -32017,11 +32033,11 @@ La Copia de la Declaración de la declaración de la UNESCO a la Ciudad de Puebl
 
 El Reconocimiento "Juan de Palafox y Mendoza", será otorgado a aquellas personas que se hayan destacado a nivel Municipal, Estatal, Nacional e Internacional por sus trabajos humanitarios o que hayan llevado a cabo actividades relevantes en materia de Derechos Humanos.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
 
 ###### Artículo 2343.
 
-Es facultad del C. Presidente Municipal Constitucional, conceder los Reconocimientos señalados en las fracciones I, II, III, IV, V, VI y IX del artículo 2334 del presente Capítulo, estableciendo para tal efecto el nombre o nombres de los galardonados, la hora, fecha y tipo de ceremonia en la que ha de entregarse el Reconocimiento, convocando ésta con una hora de anticipación.
+Es facultad del C. Presidente Municipal Constitucional, conceder los Reconocimientos señalados en las fracciones I, II, III, V, VI y IX del artículo 2334 del presente Capítulo, estableciendo para tal efecto el nombre o nombres de los galardonados, la hora, fecha y tipo de ceremonia en la que ha de entregarse el Reconocimiento, convocando ésta con una hora de anticipación.
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
 
@@ -32810,3 +32826,7 @@ SE TRANSCRIBEN LOS PUNTO DE ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIEN
 PRIMERO.- Se aprueba la reforma del acápite del artículo 177; y el artículo 195 del Código Reglamentario para el Municipio de Puebla, en los términos del Considerando XVII del presente Punto de Acuerdo.
 
 SEGUNDO.- Se instruye al Secretario del Ayuntamiento para que en la reforma legal correspondiente, realice los trámites necesarios ante la Secretaría de Gobernación del Estado y sea publicado por una sola vez en el Periódico Oficial del Estado, el presente Punto de Acuerdo.
+
+P.O. 28 DE MAYO DE 2010
+
+ÚNICO. La presente Adición y Reformas surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
