@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-consejeria-juridica-del-gobernador-35
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-24"
-last_updated: "2003-12-24"
+last_updated: "2010-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL GOBERNADOR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL GOBERNADOR, PUBLICADO EN EL P.O. DE 29 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -290,3 +292,11 @@ NAPOLEÓN CANTÚ CERNA
 C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBEN EDUARDO MARTÍNEZ DONDÉ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE MAYO DE 2010.
+
+PRIMERO.- El presente Reglamento Interior de la Consejería Jurídica del Gobernador entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Consejería Jurídica del Gobernador, publicado en el Periódico Oficial del Estado No. 165 de fecha 24 de diciembre de 2003.
