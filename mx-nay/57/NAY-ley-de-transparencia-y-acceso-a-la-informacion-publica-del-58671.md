@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5867
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-22"
-last_updated: "2008-03-25"
+last_updated: "2010-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2010.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2007.
 
@@ -115,9 +115,13 @@ Toda la información pública gubernamental creada, administrada o en posesión 
 
 Siempre que sea posible, se deberán elaborar versiones públicas de los documentos clasificados.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2010)</small>
+
 ###### Artículo 5o.
 
-Las autoridades atenderán sin excusa el principio de máxima publicidad, tanto en su aplicación como en su interpretación. Al respecto, se atenderá a lo dispuesto por la Constitución federal, la Constitución local, la Declaración Universal de los Derechos Humanos, la Convención Interamericana de Derechos Humanos, así como a los instrumentos internacionales suscritos y ratificados por el Estado mexicano, y en caso de duda se privilegiará la interpretación que proteja con mejor eficacia el derecho a la información pública sin afectar los datos personales.
+En la aplicación e interpretación de esta ley, el instituto en su carácter de órgano garante de la transparencia y el acceso a la información pública, así como las autoridades en su calidad de sujetos obligados, atenderán a lo dispuesto en la Constitución federal, la Constitución local, la Declaración Universal de los Derechos Humanos, la Convención Interamericana de Derechos Humanos y a los Instrumentos Internacionales suscritos y ratificados por el Estado mexicano.
+
+En caso de duda o insuficiencia normativa, se atenderá al principio pro persona y a los diversos de máxima publicidad, razonabilidad en el costo del material en que se consigna la información y de la interpretación que proteja con mejor eficacia el derecho a la información pública sin afectar los datos personales.
 
 ###### Artículo 6o.
 
@@ -491,6 +495,10 @@ Compete a la Unidad de Enlace:
 
 8. Informar al titular del ente público sobre el resultado de las solicitudes presentadas, así como de los problemas y requerimientos del despacho de las mismas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2010)</small>
+
+El titular de la unidad de enlace deberá conservar acuse de recibo de todas las acciones que despliegue en términos de este artículo y en su caso exhibirlo ante el Instituto, para efectos de exclusión de responsabilidad.
+
 ###### Artículo 34.
 
 La presentación de solicitudes de información ante instancias diversas a las Unidades de Enlace, serán atendidas dentro de los plazos establecidos en esta ley y su reglamento. Su inobservancia se sancionará deslindando las responsabilidades correspondientes.
@@ -807,6 +815,10 @@ Los sujetos obligados procurarán la reducción del costo en la entrega de infor
 
 La certificación aplicable en los casos a que se refiere esta ley es equivalente a cotejar y compulsar los documentos entregados con los que obran en los archivos del sujeto obligado. La certificación deberá ser realizada por el titular de la unidad administrativa en donde se encuentren los documentos o, en su defecto, por el Comité competente, salvo que el solicitante expresamente señale su interés de que sean certificadas a su costa por el fedatario público de su elección.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2010)</small>
+
+El costo por la certificación se determinará considerando a cada acta, constancia o documento y sus anexos, como un expediente.
+
 ###### Artículo 57.
 
 En caso de que los documentos solicitados hayan sido clasificados como reservados o confidenciales, la unidad administrativa responsable de la clasificación deberá remitir de inmediato la solicitud al Comité con los elementos necesarios para fundar y motivar dicha clasificación. El Comité deberá resolver si:
@@ -1039,6 +1051,24 @@ A fin de que la tramitación del recurso de revisión sea expedita el Instituto 
 
 3. Amonestación pública.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2010)</small>
+
+Artículo 88 bis. El recurso de reconsideración es procedente contra los acuerdos de trámite dictados por el presidente del Instituto.
+
+La reconsideración se podrá interponer por cualquiera de las partes, por escrito, en el que se expresarán los agravios que le cause la resolución impugnada le cause. La impugnación deberá hacerse valer dentro de los tres días hábiles contados desde el día siguiente en que surta sus efectos la notificación de la resolución impugnada, conforme al artículo 89 del reglamento de esta ley.
+
+El recurso se resolverá de plano dentro de los tres días siguientes a su interposición. La determinación que resuelve la reconsideración no admitirá recurso alguno.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2010)</small>
+
+Artículo 88 ter. En los recursos de revisión, la inactividad procesal o la falta de promoción del disconforme, durante el plazo de noventa días naturales, producirá la caducidad de la instancia. En ese caso, el Instituto declarará que ha quedado firme la determinación recurrida.
+
+Los procedimientos tendientes al cumplimiento de las resoluciones del Instituto caducarán por inactividad procesal o la falta de impulso de parte interesada durante el mismo término.
+
+Sólo los actos y promociones que revelen un interés del recurrente por la prosecución del procedimiento interrumpen el término de caducidad.
+
+Cerrada la instrucción y turnado el asunto para resolución, no procederá el sobreseimiento por inactividad procesal ni la caducidad.
+
 ## TÍTULO SÉPTIMO. De las sanciones
 
 ### Capítulo Único
@@ -1198,3 +1228,7 @@ Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Const
 P.O. 25 DE MARZO DE 2008.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P. O. 29 DE MAYO DE 2010.
+
+Artículo Único.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
