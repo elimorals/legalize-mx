@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-3931"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-11-16"
-last_updated: "2006-09-23"
+last_updated: "2010-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 1985.
 
@@ -299,7 +299,7 @@ XI.- Coordinar y vincular los programas de gobierno y sociedad civil para la inc
 
 XII.- Crear mecanismos que capten fuentes alternas para la inversión social.
 
-XIII.- Coordinar y promover el empleo y la capacitación para el trabajo, en coordinación con el Gobierno Federal y los sectores social y privado en la entidad.
+XIII.- (DEROGADA, P.O. 29 DE MAYO DE 2010)
 
 XIV.- Establecer programas especiales de desarrollo a las comunidades indígenas y rurales con el fin de consolidar su integración al desarrollo del Estado.
 
@@ -629,11 +629,15 @@ XIII.- Elaborar, coordinar y ejecutar programas de apoyo y fomento a las exporta
 
 XIV.- Evaluar el impacto de las inversiones en el desarrollo económico del Estado.
 
-XV.- Despachar los asuntos que en el área de su competencia le encomiende el titular del Poder Ejecutivo.
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2010)</small>
 
-XVI.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le correspondan, y
+XV.- Coordinar y promover el empleo y la capacitación para el trabajo, en coordinación con el Gobierno Federal y los sectores social y privado en la entidad.
 
-XVII.- Las demás que le atribuyan las leyes y reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otra dependencia.
+XVI.- Despachar los asuntos que en el área de su competencia le encomiende el titular del Poder Ejecutivo.
+
+XVII.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le correspondan, y
+
+XVIII.- Las demás que le atribuyan las leyes y reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otra dependencia.
 
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
 
@@ -1010,3 +1014,7 @@ CUARTO.- La Secretaría de Finanzas proveerá los recursos necesarios a la depen
 QUINTO.- Las menciones de otra Leyes o Decretos al Instituto Colimense de la Juventud, se entenderán referidas a la Secretaría de la Juventud, de conformidad con la competencia que a dicha dependencia le señala el presente Decreto.
 
 SEXTO.- La readscripción de los trabajadores del Instituto Colimense de la Juventud a la dependencia que se crea de conformidad con el presente Decreto, se hará con estricto apego a sus derechos laborales, en los términos de la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima.
+
+P. O. 29 DE MAYO DE 2010
+
+ÚNICO,- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
