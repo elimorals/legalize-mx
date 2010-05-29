@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-del-comite-de-obra-publica-del-municipio-de-44774"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-04"
-last_updated: "2005-05-04"
+last_updated: "2010-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAB"
 ---
 # REGLAMENTO DEL COMITE DE OBRA PUBLICA DEL MUNICIPIO DE CENTLA, TABASCO
 
-REGLAMENTO DEL COMITE DE OBRA PUBLICA DEL MUNICIPIO DE CENTLA, TABASCO
+REGLAMENTO DEL COMITÉ DE OBRA PÚBLICA DEL MUNICIPIO DE CENTLA, TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DEL COMITÉ DE OBRA PÚBLICA DEL MUNICIPIO DE CENTLA, TABASCO, PUBLICADO EN EL P. O. DE 29 DE MAYO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 4 de mayo de 2005.
 
@@ -355,7 +357,7 @@ Para el caso de los Servicios relacionados con las mismas, los montos aprobados 
 
 a) Adjudicación Directa, hasta $ 250,000.00 (DOSCIENTOS CINCUENTA MIL PESOS 00/100) IMPUESTO AL VALOR AGREGADO incluido.
 
-b) Invitación a cuando menos cinco personas, si el importe base sea mayor de $250,000.00 (DOSCIENTOS CINCUENTA MIL PESOS 00/100) y hasta un monto de $ 1'250,000.00 (UN MILLÓN DOSCIENTOS CINCUENTA MIL PESOS 00/100) IMPUESTO AL VALOR AGREGADO incluido. e) Licitación Pública, se llevará a efecto cuando el presupuesto base sea mayor a $1'250,000.00 (UN MILLÓN DOSCIENTOS CINCUENTA MIL PESOS OÓ/100) IMPUESTO AL VALOR AGREGADO incluido.
+b) Invitación a cuando menos cinco personas, si el importe base sea mayor de $250,000.00 (DOSCIENTOS CINCUENTA MIL PESOS 00/100) y hasta un monto de $ 1'250,000.00 (UN MILLÓN DOSCIENTOS CINCUENTA MIL PESOS 00/100) IMPUESTO AL VALOR AGREGADO incluido. e) Licitación Pública, se llevará a efecto cuando el presupuesto base sea mayor a $1'250,000.00 (UN MILLÓN DOSCIENTOS CINCUENTA MIL PESOS 00/100) IMPUESTO AL VALOR AGREGADO incluido.
 
 ###### Artículo 23.
 
@@ -796,3 +798,19 @@ PRESIDENTE MUNICIPAL
 DOMINGO MONTEJO ARIAS
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE MAYO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Este Reglamento es de carácter interno y de aplicación obligatoria para este H. Ayuntamiento de Centla.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Reglamento entrará en Vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el Reglamento del Comité de Obra Pública del Municipio de Centla, Tabasco, publicado en el suplemento "B" del Periódico Oficial del Estado de Tabasco número 6538 de la fecha 04 de Mayo de 2005 y todas aquellas disposiciones que se opongan a lo ordenado en el presente Reglamento.
