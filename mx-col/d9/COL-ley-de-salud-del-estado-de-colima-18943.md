@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2008-05-03"
+last_updated: "2010-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2010.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -155,9 +155,13 @@ e).- El programa contra la farmacodependencia, en coordinación con la Secretar�
 
 III.- Planear, organizar y desarrollar el Sistema Estatal de Salud, procurando su participación programática en el Sistema Nacional de Salud y coadyuvando a su consolidación y funcionamiento;
 
-IV.- Consolidar el sistema estatal de información básica en materia de salud y proporcionar la información a las autoridades federales competentes; y
+IV.- Consolidar el sistema estatal de información básica en materia de salud y proporcionar la información a las autoridades federales competentes; y (sic)
 
-V.- Las demás atribuciones específicas que se establezcan en esta Ley y demás disposiciones generales aplicables.
+V.- Las demás atribuciones específicas que se establezcan en esta Ley y demás disposiciones generales aplicables;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2010)</small>
+
+VI.- Supervisará, en coordinación con la Secretaría de Educación, el establecimiento de estrategias y mecanismos con el fin de prohibir la venta y consumo de productos con alto contenido de azúcares refinados, colesterol, ácidos grasos saturados, ácidos grasos trans, sal y aditivos en los establecimientos escolares y en los espacios donde se expenden alimentos en las Instituciones Educativas de todos los niveles y modalidades del sistema educativo dependiente de la Secretaría de Educación del Gobierno del Estado, así como facilitar el acceso a verduras, frutas, leguminosas y cereales integrales, que son fuente de nutrimentos antioxidantes y de fibra dietética, orientando de manera acertada y efectiva a los encargados de dichos establecimientos, así como ofertar y hacer accesible el consumo de agua purificada.
 
 ###### ARTICULO 6°.
 
@@ -1516,5 +1520,9 @@ P.O. 8 DE SEPTIEMBRE DE 2007.
 ÚNICO.- El Presente Decreto entrará en vigor el día de su aprobación y deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 P.O. 3 DE MAYO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE MAYO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
