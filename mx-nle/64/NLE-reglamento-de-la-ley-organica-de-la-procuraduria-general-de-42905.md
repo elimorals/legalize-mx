@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-429
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-26"
-last_updated: "2010-04-17"
+last_updated: "2010-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 26 de noviembre de 2004.
 
@@ -149,6 +149,10 @@ b) Dirección de Amparos:
 
 i. Coordinación Operativa.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2010)</small>
+
+c) Dirección de Extradiciones y Asuntos Internacionales
+
 III. Subprocuraduría Jurídica:
 
 i. Coordinación de Análisis y Normatividad Interna;
@@ -157,23 +161,33 @@ ii. Coordinación de Calidad; y
 
 iii. Coordinación Operativa.
 
-a) Dirección General de Derechos Humanos:
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2010)</small>
 
-i. Centro de Orientación, Protección y Apoyo a Víctimas de Delitos.
+a) Dirección de Derechos Humanos:
+
+i. (DEROGADO, P.O. 29 DE MAYO DE 2010)
 
 > <small>(F. DE E., P.O. 14 DE ENERO DE 2005)</small>
 
 b) Dirección de Extradiciones y Asuntos Internacionales.
 
-> <small>(F. DE E., P.O. 14 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE MAYO DE 2010)</small>
 
-c) Dirección de lo Contencioso:
+c) Centro de Orientación, Protección y Apoyo a Víctimas de Delitos.
 
-i. Coordinación Operativa.
+i. Coordinación Operativa;
 
-> <small>(F. DE E., P.O. 14 DE ENERO DE 2005)</small>
+ii. Coordinación del Área de Trabajo Social;
 
-d) Dirección de Estudios y Asuntos Legislativos.
+iii. Coordinación del Área de Psicología;
+
+iv. Coordinación del Área de Legal;
+
+v. Coordinación del Área de Archivo, Estadística y Seguimiento, y
+
+vi. Coordinación de Administración.
+
+d) (DEROGADO, P.O. 29 DE MAYO DE 2010)
 
 > <small>(F. DE E., P.O. 14 DE ENERO DE 2005)</small>
 
@@ -365,9 +379,17 @@ VIII. Llevar el control y registro de los bienes recuperados e instrumentos del 
 
 IX. Supervisar, previa instrucción de su superior jerárquico, la destrucción de aquellos bienes recuperados e instrumentos del delito recibidos en las Agencias del Ministerio Público que puedan resultar nocivos a la salud o al medio ambiente por encontrarse en evidente estado de descomposición, adulteración, contaminación o por no ser susceptibles para consumo o uso;
 
-X. Informar a su superior jerárquico las irregularidades que se detecten con relación a los bienes recuperados e instrumentos de delito que obren física o administrativamente en las Agencias bajo su coordinación; y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2010)</small>
 
-XI. Las demás que determinen sus superiores jerárquicos de acuerdo a sus facultades, así como las que se señalen en otros ordenamientos de carácter administrativo.
+X. Informar a su superior jerárquico las irregularidades que se detecten con relación a los bienes recuperados e instrumentos de delito que obren física o administrativamente en las Agencias bajo su coordinación;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2010)</small>
+
+XI. Remitir, para su debida atención, al Centro de Orientación, Protección y Apoyo a Víctimas de Delitos, a los menores, incapaces o a cualquier otra persona que la requiera, en los casos pertinentes; y
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2010)</small>
+
+XII. Las demás que determinen sus superiores jerárquicos de acuerdo a sus facultades, así como las que se señalen en otros ordenamientos de carácter administrativo.
 
 2. DIRECCIÓN GENERAL DE CONTROL DE PROCESOS Y AMPAROS
 
@@ -393,7 +415,9 @@ g) Tengan comunicación, en términos de respeto y coordinación, con el Poder J
 
 h) Propongan, en los casos pertinentes y con los fundamentos legales correspondientes, los sobreseimientos que procedan en materia penal; y
 
-i) Remitan, para su debida atención, al Centro de Orientación, Protección y Apoyo a Víctimas de Delitos de la Dirección General de Derechos Humanos, a los menores, incapaces o a cualquier otra persona que la requiera, en los casos pertinentes.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE MAYO DE 2010)</small>
+
+i) Ejerzan la acción de extinción de dominio, en su caso, solicitando las medidas cautelares y efectuar las Intervenciones que le correspondan de acuerdo con la Ley de Extinción de Dominio para el Estado de Nuevo León.
 
 II. Difundir entre los Agentes del Ministerio Público bajo su responsabilidad los compromisos de la Procuraduría suscritos en bases, convenios u otros instrumentos de coordinación o colaboración celebrados por la Institución en materia de derecho familiar y de procesos penales, incluyendo lo relativo al cumplimiento de mandamientos judiciales;
 
@@ -409,9 +433,9 @@ Son facultades del titular de la Coordinación Operativa de la Dirección de Amp
 
 I.- Auxiliar al titular de la Dirección de Amparos en el cumplimiento de las competencias de la unidad administrativa;
 
-> <small>(F. DE E., P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2010)</small>
 
-II.- Colaborar, por instrucciones de sus superiores jerárquicos, en la verificación de que los pedimentos de cumplimientos de mandamientos judiciales en el extranjero elaborados por la Dirección General de Control de Procesos y Amparos en coordinación con la Dirección de Extradiciones y Asuntos Internacionales, se ajusten a las disposiciones legales vigentes; y
+II.- Colaborar, por instrucciones de sus superiores jerárquicos, en la verificación de que los pedimentos de cumplimientos de mandamientos judiciales en el extranjero elaborados por la Dirección General de Control de Procesos y Amparos con el apoyo de la Dirección de Extradiciones y Asuntos Internacionales, se ajusten a las disposiciones legales vigentes; y
 
 > <small>(F. DE E., P.O. 14 DE ENERO DE 2005)</small>
 
@@ -419,11 +443,15 @@ III.- Las demás que determinen sus superiores jerárquicos de acuerdo a sus fac
 
 C. ÁREAS ADMINISTRATIVAS, TÉCNICAS U OPERATIVAS DE LA SUBPROCURADURÍA JURÍDICA
 
-1. DIRECCIÓN GENERAL DE DERECHOS HUMANOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE MAYO DE 2010)</small>
+
+1. CENTRO DE ORIENTACIÓN, PROTECCIÓN Y APOYO A VÍCTIMAS DE DELITOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2010)</small>
 
 ###### Artículo 10.
 
-El Centro de Orientación, Protección y Apoyo a Víctimas de Delitos es el área especializada dependiente de la Dirección General de Derechos Humanos que tiene por objeto atender integralmente a las víctimas y ofendidos de delitos.
+El Centro de Orientación, Protección y Apoyo a Víctimas de Delitos es el área especializada dependiente de la Subprocuraduría Jurídica que tiene por objeto atender integralmente a las víctimas y ofendidos de delitos.
 
 Los servicios del Centro de Orientación, Protección y Apoyo a Víctimas de Delitos se prestarán de manera gratuita, personalizada y confidencial, su continuidad será determinada por la víctima u ofendido y estarán orientados a proporcionar las garantías contempladas constitucionalmente para las víctimas de delitos. La gratuidad de los servicios excluye gastos generados por tramitación de asuntos, los cuales deberán ser cubiertos por los solicitantes de los servicios.
 
@@ -435,7 +463,9 @@ Los servicios del Centro de Orientación, Protección y Apoyo a Víctimas de Del
 
 Al titular del Centro de Orientación, Protección y Apoyo a Víctimas de Delitos le corresponde:
 
-I. Proponer al Director General de Derechos Humanos lineamientos para que las unidades administrativas competentes de la Procuraduría brinden la protección y apoyo necesario a las víctimas y ofendidos del delito;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2010)</small>
+
+I. Proponer al Subprocurador Jurídico lineamientos para que las unidades administrativas competentes de la Procuraduría brinden la protección y apoyo necesario a las víctimas y ofendidos del delito;
 
 II. Orientar a la víctima u ofendido del delito sobre las acciones concretas y necesarias que deben realizarse para que se salvaguarden sus garantías constitucionales;
 
@@ -460,6 +490,156 @@ X. Llevar a cabo programas de difusión, promoción y divulgación de los derech
 XI. Realizar estudios estadísticos de incidencia delictiva que permitan integrar un banco de información victimológica; y
 
 XII. Las demás que determinen sus superiores jerárquicos de acuerdo a sus facultades, así como las que se señalen en otros ordenamientos aplicables y vigentes de carácter legal y administrativo.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2010)</small>
+
+###### Artículo 12 Bis.
+
+Al titular de la Coordinación Operativa del Centro de Orientación, Protección y Apoyo a Víctimas de Delitos le corresponde:
+
+I. Auxiliar al Director del Centro de Orientación, Protección y Apoyo a Víctimas de Delitos en el despacho de los asuntos de la unidad administrativa;
+
+II. Colaborar en la atención ciudadana, de acuerdo a las instrucciones del Director del Centro de Orientación Protección y Apoyo a Víctimas de Delitos;
+
+III. Supervisar que el personal del Centro de Orientación, Protección y Apoyo a Víctimas de Delitos preste sus servicios conforme al modelo de atención integral y siguiendo los procedimientos establecidos, auxiliando al Director del Centro de Orientación, Protección y Apoyo a Víctimas de Delitos, para cumplir cabalmente con las funciones y obligaciones que el Decreto por el que se crea el Centro de Justicia Familiar le confieren al Centro de Orientación, Protección y Apoyo a Víctimas de Delitos;
+
+IV. Revisar la correspondencia recibida, a fin de turnarla al área que corresponda para su debida y oportuna contestación y seguimiento;
+
+V. Fungir de enlace interno y externo del Centro de Justicia Familiar, para efecto de información y logro de colaboración interinstitucional en el Centro de Justicia Familiar;
+
+VI. Colaborar en el diseño, desarrollo y elaboración de material para difundir los servicios del Centro de Orientación, Protección y Apoyo a Víctimas de Delitos, así como de proyectos a implementarse en la unidad administrativa, dentro del Centro de Justicia Familiar;
+
+VII. Asistir a las reuniones que la Dirección de Centro de Orientación, Protección y Apoyo a Víctimas de Delitos convoque;
+
+VIII. Dirigir, en el orden de lo administrativo, las labores de la oficina de la Dirección; y
+
+IX. Las demás que le encomienden sus superiores jerárquicos, el presente Reglamento u otras disposiciones de carácter administrativo legalmente aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2010)</small>
+
+###### Artículo 12 Bis 1.
+
+Al titular de la Coordinación del Área de Trabajo Social le corresponde:
+
+I. Supervisar el proceso de atención a la víctima en materia de Trabajo Social, para que se realice adecuadamente, en los siguientes aspectos:
+
+a) Revisar en el sistema electrónico los asuntos que correspondan a su Área;
+
+b) Revisar que los criterios de atención se apliquen de acuerdo a las necesidades de las víctimas y ofendidos de delitos;
+
+c) Revisar los casos, de manera interna, en el departamento de trabajo social;
+
+d) Revisar los casos con los responsables de los departamentos de la unidad administrativa cuando así se requiera;
+
+e) Revisar los oficios de canalización que se elaboren dirigidos a los participantes internos o externos, cuando así lo amerite el caso;
+
+f) Informar a la Dirección de Centro de Orientación, Protección y Apoyo a Víctimas de Delitos sobre el seguimiento y análisis de casos.
+
+II. Asignar actividades al personal del Área de Trabajo Social;
+
+III. Asistir a las reuniones que la Dirección de Centro de Orientación, Protección y Apoyo a Víctimas de Delitos convoque;
+
+IV. Convocar al personal de Trabajo Social a reuniones por lo menos una vez al mes para proporcionar información y actualización de las actividades propias del área, elaborando la minuta correspondiente; y
+
+V. Las demás que le encomienden sus superiores jerárquicos, el presente Reglamento u otras disposiciones de carácter administrativo legalmente aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2010)</small>
+
+###### Artículo 12 Bis 2.
+
+Al titular de la Coordinación del Área de Psicología le corresponde:
+
+I. Revisar el proceso de atención a usuarios por los diferentes integrantes del Área, siguiendo el modelo de atención integral;
+
+II. Supervisar que la atención a las víctimas y ofendidos sea oportuna y satisfactoria;
+
+III. Detectar los (sic) situaciones de riesgo, seguridad y salud, gestionando acciones correctivas;
+
+IV. Revisar en el sistema electrónico los asuntos que correspondan a su Área;
+
+V. Revisar y firmar la conclusión de los asuntos que correspondan a su Área;
+
+VI. Asignar casos a participantes internos del Centro de Justicia Familiar por medio de oficios de canalización;
+
+VII. Revisar casos con el personal del Área y demás Coordinadores para tomar acciones en consecuencia;
+
+VIII. Realizar juntas con el personal para proporcionar información actualizada de las actividades propias del Área de Psicología;
+
+IX. Firmar, registrar y enviar los oficios correspondientes;
+
+X. Asistir a las reuniones que la Dirección de Centro de Orientación, Protección y Apoyo a Víctimas de Delitos convoque; y
+
+XI. Las demás que le encomiendan sus superiores jerárquicos, el presente Reglamento u otras disposiciones de carácter administrativo legalmente aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2010)</small>
+
+###### Artículo 12 Bis 3.
+
+Al titular de la Coordinación del Área Legal le corresponde:
+
+I. Supervisar el cumplimiento del procedimiento de atención legal;
+
+II. Asignar asuntos que correspondan a su Área al personal adscrito al Área Legal;
+
+III. Revisar de asuntos que correspondan a su área para verificar el cumplimiento de las normas establecidas;
+
+IV. Autorizar la conclusión de los asuntos que se correspondan a su Área;
+
+V. Elaboración de oficios de solicitud o contestación dirigidos a distintas autoridades;
+
+VI. Convocar al personal del Área Legal a reuniones de análisis;
+
+VII. Orientar al personal en la solución de conflictos;
+
+VIII. Revisar la actuación del personal del área;
+
+IX. Llevar un registro para la asignación de asuntos que correspondan a su Área;
+
+X. Realizar el oficio de colaboración para la atención correspondiente;
+
+XI. Supervisar la aplicación de los lineamientos y criterios establecidos;
+
+XII. Revisar que los asuntos que se tramiten en el Centro, al concluir, reúnan los requisitos legales y hacer las anotaciones en el registro correspondiente;
+
+XIII. Asistir a las reuniones que la Dirección de Centro de Orientación, Protección y Apoyo a Víctimas de Delitos convoque; y
+
+XIV. Las demás que le encomienden sus superiores jerárquicos, el presente Reglamento u otras disposiciones de carácter administrativo legalmente aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2010)</small>
+
+###### Artículo 12 Bis 4.
+
+Al titular de la Coordinación del Área de Archivo, Estadística y Seguimiento le corresponde:
+
+I. Diseñar el sistema electrónico del Centro de Orientación, Protección y Apoyo a Víctimas de Delitos;
+
+II. Participar en reuniones de trabajo con los responsables de áreas;
+
+III. Custodiar los documentos de archivo para su salvaguarda;
+
+IV. Supervisar el registro de las víctimas y ofendidos en la base de datos;
+
+V. Realizar análisis estadístico sobre la información generara (sic) en el Centro de Orientación, Protección y Apoyo a Víctimas de Delitos, para facilitar la creación de políticas públicas en materia de atención a víctimas y ofendidos de delitos;
+
+VI. Asistir a las reuniones que la Dirección de Centro de Orientación, Protección y Apoyo a Víctimas de Delitos convoque; y
+
+VII. Las demás que le encomienden sus superiores jerárquicos, el presente Reglamento u otras disposiciones de carácter administrativo legalmente aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2010)</small>
+
+###### Artículo 12 Bis 5.
+
+Al titular de la Coordinación de Administración le corresponde:
+
+I. Realizar las acciones que corresponden para el mantenimiento y el buen funcionamiento de las instalaciones de los Centros de Justicia Familiar,
+
+II. Fungir como enlace con el personal que suministra los recursos materiales para el adecuado mantenimiento del (sic) los citados Centros de Justicia Familiar;
+
+III. Administrar los recursos materiales con que cuente el Centro de Orientación, Protección y Apoyo a Víctimas de Delitos;
+
+IV. Asistir a las reuniones que la Dirección de Centro de Orientación, Protección y Apoyo a Víctimas de Delitos convoque; y
+
+V. Las demás que le encomienden sus superiores jerárquicos, el presente Reglamento u otras disposiciones de carácter administrativo legalmente aplicables.
 
 2. DIRECCIÓN DE ORIENTACIÓN SOCIAL
 
@@ -825,9 +1005,51 @@ Al titular de la Visitaduría General le corresponde:
 
 I. Ser el órgano de control interno de la Procuraduría, competente para dictar las resoluciones que corresponda, imponer y aplicar las sanciones administrativas en los términos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León;
 
-II. Coordinarse con la Dirección de lo Contencioso, en la formulación de los informes previos y justificados en los juicios de Amparo, así como en la rendición de informes, contestación de demandas, presentación de promociones y recursos que deban interponerse en los juicios seguidos ante el Tribunal de lo Contencioso Administrativo promovidos contra actos de los servidores públicos adscritos a la Visitaduría General;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2010)</small>
+
+II. Supervisar las actividades del Centro de Evaluación y Control de Confianza.
 
 III. Las demás facultades que le otorgue el Procurador, este Reglamento y otras disposiciones legalmente aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2010)</small>
+
+###### Artículo 23 Bis.
+
+El Centro de Evaluación y Control de Confianza es responsable de realizar los procesos de análisis de información y evaluación de carácter patrimonial, social, psicológico, poligráfico, médico y toxicológico, sobre el ingreso o permanencia de los servidores públicos de la Procuraduría General de Justicia del Estado y emitir las certificaciones que correspondan.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2010)</small>
+
+###### Artículo 23 Bis 1.
+
+El Centro de Evaluación y Control de Confianza realizará sus funciones con las normas técnicas y estándares mínimos en materia de evaluación y control de confianza conforme a lo establece (sic) la Ley General del Sistema Nacional de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2010)</small>
+
+###### Artículo 23 Bis 2.
+
+Al titular del Centro de Evaluación y Control de Confianza le corresponderá:
+
+I. Dirigir, coordinar, llevar a cabo y calificar los procesos de evaluación del desempeño de los servidores públicos de la Procuraduría;
+
+II. Dirigir, coordinar, llevar a cabo y calificar, los procesos de evaluación que se realicen a los servidores públicos de la Procuraduría a fin de comprobar la conservación de los requisitos de ingreso y permanencia a que se refiere la Ley y este Reglamento;
+
+III. Dirigir, coordinar, llevar a cabo y calificar, los procesos de evaluación que se realicen a los servidores públicos de la Procuraduría para comprobar el cumplimiento de los perfiles médico, ético y de personalidad necesarios para realizar las actividades;
+
+IV. Comunicar al Procurador los resultados de las evaluaciones que se practiquen;
+
+V. Vigilar que en los procesos de evaluación se observen los principios de legalidad, eficiencia, profesionalismo, honradez, lealtad e imparcialidad;
+
+VI. Establecer una base de datos que contenga los resultados de evaluación por cada una de las personas que se hayan sometido al mismo;
+
+VII. Coordinar sus actividades con otras unidades u órganos de la Procuraduría que realicen funciones de supervisión, formación, capacitación, control y evaluación;
+
+VIII. Recomendar la capacitación y la implementación de las medidas que se deriven de los resultados de las evaluaciones practicadas;
+
+IX. Vigilar que en los procesos de evaluación, se tome en cuenta la relación de quejas y todos los antecedentes de los servidores públicos de la Procuraduría;
+
+X. Emitir los certificados a que hace referencia la Ley General del Sistema Nacional de Seguridad Pública a quienes acrediten ser aptos para ingresar o permanecer en la Procuraduría por cumplir con los requisitos de ingreso o permanencia que establece la ley, así como los conocimientos, el perfil, las habilidades y las aptitudes necesarias para que desempeñe su cargo; y
+
+XI. Las demás que le encomienden sus superiores jerárquicos, el presente Reglamento u otras disposiciones legalmente aplicables.
 
 ###### Artículo 24.
 
@@ -1155,11 +1377,11 @@ Los expedientes y documentos entregados al Archivo General de la Procuraduría s
 
 Por ningún motivo se extraerán expedientes o documentos del Archivo General de la Procuraduría, a no ser por orden escrita del Subprocurador del Ministerio Público o del servidor público que aquél autorice, aún cuando medie solicitud de la autoridad que lo haya remitido, de quien legalmente la substituya o de cualesquiera otra competente. La orden se colocará en el lugar que ocupe el expediente o documento extraído y el documento respectivo de salida será suscrito por persona legalmente autorizada para recibirlo.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2010)</small>
+
 ###### Artículo 37.
 
-La consulta o examen de documentos o expedientes del Archivo General de la Procuraduría se ajustará a las disposiciones de la Ley de Acceso a la Información Pública.
-
-El Jefe del Archivo General de la Procuraduría podrá expedir, previa autorización por escrito del Subprocurador del Ministerio Público o del servidor público que éste designe, copia certificada de los documentos o expedientes que estén depositados en dicha oficina.
+La consulta o examen de documentos o expedientes del Archivo General de la Procuraduría se ajustará a las disposiciones de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 ###### Artículo 38.
 
@@ -1278,6 +1500,26 @@ I. Identificación oficial del propietario;
 II. Factura, título de propiedad o equivalente, del bien que se solicita en devolución. En su defecto, se requerirá la presentación de testimonios e indicios que respalden la solicitud; y
 
 III. Referencia del acta circunstanciada o averiguación relacionada con el bien.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2010)</small>
+
+###### Artículo 50 Bis.
+
+La acción de extinción de dominio se ejercerá por los Agentes del Ministerio Público Adscritos a los Juzgados Civiles y Familiares o Mixtos, y solicitará las medidas cautelares y efectuará las intervenciones que le correspondan acuerdo (sic) con la Ley de Extinción de Dominio para el Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2010)</small>
+
+###### Artículo 50 Bis 1.
+
+Toda medida cautelar quedará anotada en el registro público que corresponda. La unidad administrativa encargada de la administración de los bienes sujetos a la acción de extinción de dominio, será la Dirección de Bienes Asegurados, Recuperados e Instrumentos del Delito de la Procuraduría General de Justicia del Estado, quien deberá ser notificada del otorgamiento de toda medida cautelar o el levantamiento de cualquiera de éstas.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2010)</small>
+
+###### Artículo 50 Bis 2.
+
+Cuando los bienes objeto de la medida cautelar impuesta estén previamente intervenidos, secuestrados, embargados o asegurados, en procedimientos judiciales o administrativos distintos de la averiguación previa que haya motivado la acción de extinción de dominio, se notificará la nueva medida a las autoridades que hayan ordenado aquellas medidas. Los bienes podrán continuar en custodia de quien se hubiere designado para ese fin y a disposición de la autoridad competente.
+
+En caso de que las medidas a que se refiere el párrafo anterior sean levantadas o modificadas, subsistirá la medida cautelar que haya ordenado el Juez que lleve el proceso de extinción de dominio quien podrá modificar las condiciones de su custodia, dando prioridad a su conservación.
 
 #### SECCIÓN SEGUNDA. DEL PERSONAL DE LAS AGENCIAS Y DELEGACIONES DEL MINISTERIO PÚBLICO
 
@@ -2060,3 +2302,9 @@ TERCERO.- La Comisión Especial de Atención al Delito de Secuestro deberá inte
 CUARTO.- La Comisión Especial de Atención al Delito de Secuestro deberá emitir sus lineamientos internos, así como los relativos al manejo del Fondo, en un plazo no mayor a 30 días contados a partir de su instalación.
 
 QUINTO.- En un plazo no mayor de sesenta días, contados a partir de la entrada en vigor del presente Decreto se deberá crear el Fideicomiso al que se hace referencia en el mismo.
+
+P.O. 29 DE MAYO DE 2010.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con relación a las disposiciones administrativas expedidas con anterioridad a la publicación de la presente reforma, sólo quedarán vigentes aquéllas que no se opongan a lo dispuesto en el mismo.
