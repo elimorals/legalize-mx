@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-y-desarrollo-de-ciencia-y-tecnologia-del-51981"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2007-05-12"
+last_updated: "2010-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE FOMENTO Y DESARROLLO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE COLlMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2010.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -41,7 +41,7 @@ EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN E
 
 C O N S I D E R A N D O
 
-PRIMERO.- .
+PRIMERO.-.
 
 Por lo antes expuesto se tiene a bien expedir el siguiente:
 
@@ -183,7 +183,9 @@ La Junta Directiva del CECyTCOL será su órgano máximo de Gobierno y estará i
 
 I. Un Presidente, que será el Gobernador del Estado;
 
-II. Un Secretario Ejecutivo, que será el Secretario de Cultura;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2010)</small>
+
+II. Un Secretario Ejecutivo, que será el Secretario de Fomento Económico;
 
 III. Un Secretario Técnico, que será el Director General del CECyTCOL; y
 
@@ -191,7 +193,9 @@ IV. Como Consejeros, un representante de las entidades públicas del estado, de 
 
 a) Secretaría de Educación;
 
-b) Secretaría de Fomento Económico;
+> <small>(REFORMADO, P. O. 29 DE MAYO DE 2010)</small>
+
+b) Secretaría de Cultura;
 
 c) Secretaría de Planeación;
 
@@ -205,13 +209,13 @@ g) Secretaría de Desarrollo Rural;
 
 h) Secretaría de Finanzas;
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P. O. 29 DE MAYO DE 2010)</small>
 
-i) Comisión de Educación, Cultura y Deporte del Congreso del Estado;
+i) Comisión de Educación y Cultura;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P. O. 29 DE MAYO DE 2010)</small>
 
-j) Comisión de Ciencia y Tecnología e Innovación Gubernamental del Congreso del Estado;
+j) Comisión de Ciencia y Tecnología;
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
 
@@ -568,3 +572,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 12 DE MAYO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P. O. 29 DE MAYO DE 2010
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
