@@ -4,7 +4,7 @@ identifier: "SON-ley-de-donacion-y-trasplantes-para-organismos-humanos-sonora-45
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-20"
-last_updated: "2005-06-20"
+last_updated: "2010-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MAYO DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 20 de junio de 2005.
 
@@ -357,6 +357,14 @@ El Gobierno del Estado otorgará todas las facilidades posibles para el aprovech
 
 El Centro celebrará convenios con las instituciones de educación superior en el Estado de Sonora con el propósito de promover las prácticas académicas de sus estudiantes en beneficio del Centro.
 
+> <small>(ADICIONADO, B.O. 31 DE MAYO DEL 2010)</small>
+
+ARTICULO 21 BIS.- Las instituciones públicas del Gobierno del Estado y de los municipios en Sonora que por razón de sus funciones emitan documentos oficiales de identificación ciudadana, deberán incluir en el mismo una anotación que exprese la voluntad del titular de la misma en relación con la donación de sus órganos.
+
+El Centro promoverá la celebración de convenios con las instituciones de educación superior privadas en el Estado de Sonora, con el propósito de que se incluya en la credencial oficial de identificación estudiantil la voluntad del titular para ser donador de órganos.
+
+En el caso de que los documentos referidos en los párrafos precedentes sean expedidos a favor de menores de edad, la decisión expresada en los mismos no tendrá validez jurídica y sólo tendrá como propósito el promover la cultura de la donación de órganos.
+
 ###### ARTICULO 22.
 
 Las autoridades educativas del Gobierno del Estado de Sonora propondrán a la Secretaría de Educación Pública, incluir programas especiales de educación básica tendientes a la promoción y difusión de la cultura de trasplantes y donación de órganos, tejidos y células, conforme a las bases y lineamientos establecidos por el Centro.
@@ -392,3 +400,11 @@ El reglamento interno del Centro deberá ser aprobado a más tardar a los treint
 COMUNIQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.- AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, 2 DE JUNIO DE 2005.- DIPUTADO PRESIDENTE.- C. FRUCTUOSO MENDEZ VALENZUELA.- RUBRICA.- DIPUTADO SECRETARIO.- C. JUAN BAUTISTA VALENCIA DURAZO.- RUBRICA.- DIPUTADO SECRETARIO.- C. FRANCISCO VILLANUEVA SALAZAR.- RUBRICA.-
 
 POR TANTO MANDO SE PUBLIQUE EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DE EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS SIETE DIAS DEL MES DE JUNIO DEL AÑO DOS MIL CINCO.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- ROBERTO RUIBAL ASTIAZARAN.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 31 DE MAYO DEL 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
