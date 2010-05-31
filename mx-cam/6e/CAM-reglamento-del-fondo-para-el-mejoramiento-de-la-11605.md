@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-del-fondo-para-el-mejoramiento-de-la-11605"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-03-24"
-last_updated: "1997-03-24"
+last_updated: "2010-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO DEL FONDO PARA EL MEJORAMIENTO DE LA ADMINISTRACION DE JUSTICIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2010.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Campeche, el lunes 24 de marzo de 1997.
 
@@ -127,9 +127,7 @@ VII.- Las aportaciones que el Estado o Municipio le destinen, dentro de los corr
 
 ###### Artículo 9o.
 
-El patrimonio constitutivo del capital fijo podrá ser incrementado pero no reducido en su monto.
-
-Los recursos disponibles serán exclusivamente los provenientes de los réditos que la inversión que aquél genere.
+(DEROGADO, P.O. 31 DE MAYO DE 2010)
 
 ###### Artículo 10o.
 
@@ -215,9 +213,11 @@ Contra las decisiones del Consejo Técnico, relativas al pago de haber de retiro
 
 ### CAPITULO VII. OTRAS APLICACIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+
 ###### Artículo 27o.
 
-Los recursos generados por el Fondo también podrán emplearse:
+El Fondo también podrá emplearse:
 
 a) Cuando el Poder Judicial tenga que afrontar gastos imprevistos a consecuencia de perturbaciones climatológicas u orogénicas y que por su propia naturaleza no se encuentren contempladas en el Presupuesto de Egresos.
 
@@ -236,3 +236,11 @@ SEGUNDO.- Quedan insubsistentes todas las disposiciones y acuerdos generales emi
 TERCERO.- El Pleno del Tribunal Superior de Justicia del Estado, oportunamente elaborará el Reglamento para estímulos de los Servidores Públicos del Poder Judicial del Estado.
 
 Con fundamento en los Artículos 3 y 4 del Código Civil vigente del Estado y para los efectos previstos en dichas disposiciones, remítase un ejemplar al Periódico Oficial del Gobierno del Estado para su publicación por una sola vez.- Cúmplase.- Así el acordó el Pleno del H. Tribunal Superior de Justicia del Estado.- Campeche, Cam. A 27 de enero de 1997.- El Presidente del H. Tribunal Superior de Justicia del Estado, Lic. Edgar Hernández Carpizo.- El Secretario General de Acuerdos del H. Tribunal Superior de Justicia del Estado, Lic. Waldo Rincón Rincón.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE MAYO DE 2010.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
