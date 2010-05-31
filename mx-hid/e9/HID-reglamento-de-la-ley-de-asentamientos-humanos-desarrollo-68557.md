@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-de-asentamientos-humanos-desarrollo-68557"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-18"
-last_updated: "2009-05-18"
+last_updated: "2010-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "HID"
 
 REGLAMENTO DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 18 de mayo de 2009.
 
 MIGUEL ÁNGEL OSORIO CHONG, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN II Y XL DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, Y CON FUNDAMENTO EN LO DISPUESTO EN LOS ARTÍCULOS 5 Y 17 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO, Y
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 Por lo anterior, he tenido a bien en expedir el siguiente:
 
@@ -53,27 +53,69 @@ II.- Área Públicas: Aquellas áreas que son de uso común para la población i
 
 III.- Autoridad Municipal Competente: La autoridad que conforme a las disposiciones jurídicas aplicables sea competente en materia de desarrollo urbano y construcciones, en el ámbito Municipal del Estado de Hidalgo;
 
-IV.- Comisión de Evaluación: La Comisión de Evaluación de Directores Responsables de Obra;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
-V.- Comisión para la Regularización: La Comisión Estatal para la Atención de los Asentamientos Humanos Irregulares;
+IV.-· C. O. S.: Coeficiente de Ocupación del Suelo, es la relación de la superficie ocupada (construcción en planta) con el total de la superficie del terreno;
 
-VI.- Ejecutivo: El Titular del Poder Ejecutivo del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
-VII.- Fraccionamiento: La división de un terreno en dos o más manzanas y éstas en lotes, que requiera del trazo de una o más vías públicas, así como la ejecución de obras de urbanización que le permitan la dotación de infraestructura, equipamiento y servicios urbanos;
+V.- C. U. S.: Coeficiente de Utilización del Suelo, es la relación entre la superficie total de construcción (planta y alzado) de un terreno y la superficie total del mismo;
 
-VIII.- Fusión: La unión de dos o más terrenos colindantes para formar uno solo;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
-IX.- Ley: La Ley Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial del Estado de Hidalgo;
+VI.- Comité de Admisión: El Comité de Admisión de Especialistas Responsables de la Acción Urbana;
 
-X.- Reagrupamiento Inmobiliario: La asociación de los propietarios de los predios necesarios para la ejecución de un proyecto de interés público o privado;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
-XI.- Reglamento: El presente Reglamento;
+VII.- Comisión para la Regularización: La Comisión Estatal para la Atención de los Asentamientos Humanos Irregulares;
 
-XII.- Secretaría: La Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
-XIII.- Subdivisión: La partición de un terreno en dos o más fracciones que no requieran el trazo de una o más vías públicas, y
+VIII.- Ejecutivo: El Titular del Poder Ejecutivo del Estado de Hidalgo;
 
-XIV.- El Sistema: Sistema Estatal de Desarrollo Urbano y Ordenamiento Territorial.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+IX.- Fraccionamiento: La división de un terreno en dos o más manzanas y éstas en lotes, que requiera del trazo de una o más vías públicas, así como la ejecución de obras de urbanización que le permitan la dotación de infraestructura, equipamiento y servicios urbanos;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+X.- Fusión: La unión de dos o más terrenos colindantes para formar uno solo;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+XI.- Ley: La Ley Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+XII.- Reagrupamiento Inmobiliario: La asociación de los propietarios de los predios necesarios para la ejecución de un proyecto de interés público o privado;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+XIII.- Reglamento: EL presente Reglamento;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+XIV.- Secretaría: La Secretaria de Obras Públicas, Comunicaciones, Transportes y Asentamientos;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2010)</small>
+
+XV.- Subdivisión: La partición de un terreno en dos o más fracciones que no requieran el trazo de una o más vías públicas;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2010)</small>
+
+XVI.- El Sistema: Sistema Estatal de Desarrollo Urbano y Ordenamiento Territorial;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2010)</small>
+
+XVII.- Circuito: Son vialidades que intercomunican y dan continuidad de flujo vehicular comprendidas dentro de un perímetro;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2010)</small>
+
+XVIII.- Retorno: Es la obligación del fraccionador que en una calle cerrada, construya un camellón que permita maniobras ágiles para la circulación de vehículos en sentido contrario al que circulaban originalmente; y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2010)</small>
+
+XIX.- Vivienda Sustentable: Son viviendas que permiten preservar el entorno natural de la ubicación del desarrollo habitacional.
 
 ###### ARTÍCULO 3.
 
@@ -759,81 +801,27 @@ VIII.- Complementar los mecanismos de seguimiento, control y evaluación.
 
 ###### ARTÍCULO 27.
 
-Se crea la Comisión Metropolitana como instancia de participación, consulta y opinión en materia de asuntos metropolitanos o de conurbación, el cual se integrará por:
-
-I.- El Titular de la Secretaría, quien será el presidente;
-
-II.- Los Presidentes Municipales de la zona metropolitana ozona conurbada;
-
-III.- Un representante de los titulares por cada una de las dependencias y organismos del poder ejecutivo estatal en materia de: planeación económica y social; vías de comunicación y transporte; equilibrio ecológico y la protección del ambiente; reservas territoriales y promoción de la vivienda, y
-
-IV.- Representantes que sean miembros reconocidos de los sectores social, académico y privado, designados por el Congreso del Estado, bajo la modalidad de consejeros metropolitanos, a partir de ternas propuestas por el titular del Poder Ejecutivo del Estado.
-
-Se podrá invitar a las sesiones a un Diputado de la Comisión de Desarrollo Urbano del Congreso del Estado designado por el Presidente de la misma; así como un Diputado miembro de cada una de las comisiones relacionadas con el equilibrio ecológico y la protección del ambiente, la planeación económica y social, las comunicaciones y los transportes y la vivienda, designados por el Congreso del Estado;
-
-Los consejeros deberán representar paritariamente a los sectores social, privado y académico. La designación de cada consejero tomará en cuenta sus vínculos directos, experiencia y conocimiento de los fenómenos metropolitanos y su planeación y de las cuestiones del desarrollo de la zona metropolitana o zona conurbada correspondiente.
-
-Adicionalmente se invitará a participar en la Comisión Metropolitana a un representante de cada delegación federal en la entidad de las Dependencias del Poder Ejecutivo Federal competentes en materia de desarrollo urbano y ordenamiento territorial, medio ambiente y comunicaciones y transportes.
+(DEROGADO, P.O. 31 DE MAYO DE 2010)
 
 ###### ARTÍCULO 28.
 
-La Comisión Metropolitana tendrá las siguientes funciones:
-
-I.- Proponer las materias, ámbito territorial y servicios de interés metropolitano o de zonas conurbadas: planeación y ordenación del territorio; movilidad, vialidad y transporte; agua potable y saneamiento; ecología y medio ambiente; tratamiento y disposición de residuos sólidos municipales, industriales y peligrosos; riesgos, contingencias y protección civil; seguridad; equipamientos de interés metropolitano y regional; otras que el Consejo proponga;
-
-II.- Proponer la creación o supresión de estructuras de planeación, análisis, provisión de servicios e información metropolitana o de zonas conurbadas, así como de agencias desarrolladoras o cualquiera otro de los instrumentos que contempla la Ley o el presente Reglamento;
-
-III.- Participar con las autoridades competentes en la elaboración, revisión y evaluación de los Programas de Desarrollo Urbano y Ordenamiento Territorial de Zonas Conurbadas o Metropolitanas, de acuerdo con la Ley o el presente Reglamento;
-
-IV.- Participar en la creación, operación y funcionamiento de los institutos de planeación y observatorios urbanos que se constituyan conforme a las disposiciones de la Ley o el presente Reglamento;
-
-V.- Proponer la creación de los instrumentos de planeación, administración y fiscales, así como de los procedimientos y mecanismos para el desarrollo de la zona metropolitana o de la zona conurbada;
-
-VI.- Proponer la creación, modificación o supresión de todo tipo de estructuras, organismos o empresas orientadas al desarrollo de la zona metropolitana o de la zona conurbada;
-
-VII.- Proponer iniciativas de legislación relativas al desarrollo de la zona metropolitana o de la zona conurbada y presentarlas a la Comisión que designe la Secretaría para tal efecto;
-
-VIII.- Fungir como órgano consultivo para los Poderes Federal, Estatal y Municipales en materia de desarrollo de la zona metropolitana o zona conurbada;
-
-IX.- Recibir y canalizar ante las autoridades competentes, los comentarios, estudios, propuestas y demandas que en materia de desarrollo de la zona metropolitana o de la zona conurbada le presenten personas o grupos de la comunidad;
-
-X.- Opinar sobre las propuestas de programas y planes de desarrollo para la zona metropolitana o zona conurbada;
-
-XI.- Apoyar a los municipios de la zona metropolitana o de la zona conurbada en la constitución de los consejos municipales de desarrollo urbano, los institutos municipales de planeación y los observatorios urbanos;
-
-XII.- Analizar, opinar y proponer respecto del programa de integración de reservas territoriales que elaboren en forma coordinada el Ejecutivo Estatal y los municipios dentro de la zona metropolitana o zona conurbada, dictaminando además, en los casos de reservas territoriales cuando se orienten a usos habitacionales de muy bajo ingreso, para derechos de vía de infraestructuras, para la protección del ambiente y para espacio público en su territorio;
-
-XIII.- Analizar, opinar y proponer sobre la reglamentación de la constitución y operación de las áreas de gestión urbana integral dentro de la zona metropolitana o zona conurbada;
-
-XIV.- Analizar, opinar y proponer sobre los proyectos de infraestructura urbana de importancia para la zona metropolitana o conurbada;
-
-XV.- Analizar, opinar y proponer sobre los planes y programas sectoriales (de movilidad, vialidad y transporte público), propugnando por la instauración prioritaria de sistemas integrales de transporte público masivo, de proyectos integrales de vialidad como corredores que incorporen políticas de suelo y de recuperación y preservación de recursos naturales y el ambiente;
-
-XVI.- Conformar la cartera de acciones y proyectos integrales y de largo plazo como instrumentos de cumplimiento del plan de la zona metropolitana o zona conurbada y dictaminar cada proyecto para someterlo a consideración de las autoridades competentes;
-
-XVII.- Participar en la elaboración de la propuesta de presupuesto de inversión para el desarrollo de la zona metropolitana o zona conurbada, promoviendo la cartera de proyectos y acciones prioritarias de carácter territorial y urbano aprobadas por el Ejecutivo Estatal, y
-
-XVIII.- Promover y encauzar la investigación académica para apoyar el ordenamiento, desarrollo y fortalecimiento de la zona metropolitana o zona conurbada.
+(DEROGADO, P.O. 31 DE MAYO DE 2010)
 
 ###### ARTÍCULO 29.
 
-El número de integrantes de la comisión, se determinará en función del número de representantes gubernamentales, que no podrá rebasar el cuarenta y nueve por ciento del total de miembros, a fin de garantizar una mayor representación ciudadana.
+(DEROGADO, P.O. 31 DE MAYO DE 2010)
 
 ###### ARTÍCULO 30.
 
-La Comisión Metropolitana podrá crear comisiones de coordinación sectorial, territorial o especial de carácter operativo, para cumplir con las funciones y atribuciones que señala este Reglamento. Las Comisiones elaborarán propuestas de planeación, legislación y normatividad, coordinarán acciones en materias de interés de la zona metropolitana o zona conurbada y todas aquellas funciones o actividades que resuelva el propio Consejo.
+(DEROGADO, P.O. 31 DE MAYO DE 2010)
 
 ###### ARTÍCULO 31.
 
-El Presidente de la Comisión Metropolitana a través del Secretario Técnico, convocará a las organizaciones que corresponda para que designen sus representantes ante el Consejo y solicitará al Congreso del Estado, designe a los concejales correspondientes, señalando la fecha de instalación.
+(DEROGADO, P.O. 31 DE MAYO DE 2010)
 
 ###### ARTÍCULO 32.
 
-Por cada consejero propietario se designará un suplente que lo sustituya en sus ausencias temporales.
-
-El Secretario Técnico o un funcionario del siguiente nivel jerárquico de la Secretaría suplirá en sus funciones, al Presidente de la Comisión Metropolitana.
-
-Las decisiones de la Comisión Metropolitana se tomarán por mayoría absoluta de votos, en caso de empate el Presidente tendrá voto de calidad. Los invitados contaran con voz y voto.
+(DEROGADO, P.O. 31 DE MAYO DE 2010)
 
 ### CAPÍTULO IV. DE LA PARTICIPACIÓN SOCIAL Y DE SUS ORGANISMOS EN EL PROCESO DE PLANEACIÓN
 
@@ -1559,7 +1547,9 @@ La autoridad que emite el dictamen de impacto urbano es el Comité, tomando en c
 
 Se establece la siguiente clasificación de las vías públicas:
 
-I.- Transporte Motorizado: Se entienden como todas aquellas sobre las cuales circulan vehículos de motor, impulsados con energía eléctrica, combustibles fósiles, híbridos o de cualquier otro tipo y que desarrollen velocidades superiores a los 10 Km./hr.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+
+I.- Vía Públicas para Transporte Motorizado: Se entienden como todas aquellas sobre las cuales circulan vehículos de motor, impulsados con energía eléctrica, combustibles fósiles, híbridos o de cualquier otro tipo y que desarrollen velocidades superiores a los 10 Km./hr.
 
 a).- Vehículos de todo tipo que sirven al desplazamiento de bienes y personas de forma generalizada en corrientes de tránsito mixto o que coexistan con alguna otra infraestructura especializada para transporte no motorizado, de transporte colectivo o de carga. Las vías en este apartado se clasifican como:
 
@@ -1573,11 +1563,15 @@ a).- Vehículos de todo tipo que sirven al desplazamiento de bienes y personas d
 
 5.- Vías Colectoras: Son vías que sirven de enlace y conducción de las vías locales a las arteriales y principales, se caracterizan por operar con flujos discontinuos, sirven a recorridos de mediano a corto itinerario y privilegian la función de acceso. Tendrán un derecho de vía de 23.00 metros como mínimo con dos aceras de 3.00 metros de anchura mínima cada una;
 
-6.- Vías Subcolectoras: Son vías que sirven de enlace y conducción de las vías locales a las arteriales, se caracterizan por operar con flujos discontinuos, sirven a recorridos de corto itinerario y privilegian la función de acceso. Tendrán un derecho de vía de 18.00 metros como mínimo con dos aceras de 3.00 metros de anchura mínima cada una;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
 
-7.- Vías Locales: Son aquellas que sirven a recorridos de corta longitud y en las que priva la función de acceso sobre la de desplazamiento. Tendrán un derecho de vía de 9.00 metros como mínimo con dos aceras de 3.00 metros de anchura mínima cada una. Las vías cerradas tendrán un retorno mínimo de 22.00 metros de diámetro y una longitud máxima de 250.00 metros;
+6.- Vías Subcolectoras: Son vías que sirven de enlace y conducción de las vías locales a las arteriales, se caracterizan por operar con flujos discontinuos, sirven a recorridos de corto itinerario y privilegian la función de acceso. Tendrán un derecho de vía de 18.00 metros como mínimo con dos aceras de 2.00 metros de anchura mínima cada una;
 
-8.- Ciclopistas: Son aquellas destinadas de manera exclusiva al tránsito de bicicletas y vehículos no motorizados similares. Tendrán un ancho de rodamiento mínimo de 2.00 metros.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
+
+7.- Vías locales: Son aquellas que sirven a recorridos de corta longitud y en las que priva la función de acceso sobre la de desplazamiento. Tendrán un derecho de vía de 9.00 metros como mínimo con dos aceras de 1.50 metros de anchura mínima cada una. Estas vías se podrán conformar en circuitos, permitiendo el desplazamiento de vehículos en un solo sentido;
+
+8.- (DEROGADO, P.O. 31 DE MAYO DE 2010)
 
 b).- Vehículos que sirven al desplazamiento de personas de manera colectiva o de servicio público en infraestructura especializada. Las vías en este apartado se clasifican como:
 
@@ -1585,11 +1579,17 @@ b).- Vehículos que sirven al desplazamiento de personas de manera colectiva o d
 
 2.- Vías Exclusivas para Transporte Público Masivo: Aquellos que de manera aislada o inserta en las vialidades de uso general, se destinan exclusivamente para vehículos de transporte masivo de alta capacidad. Estos carriles no podrán ser utilizados por ningún otro vehículo.
 
-II.- Transporte no Motorizado: Son aquellas sobre las que se desplazan personas o vehículos impulsado por la misma tracción física de las personas. Se podrán admitir vehículos de motor siempre y cuando no desarrollen velocidades superiores a los 10 Km./hr., y con capacidad para transportar una sola persona. Las características de las mismas serán las siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
 
-a).- Las vías peatonales tendrán un derecho de vía de 8.00 metros como mínimo; y
+II.- Vías Públicas para Transporte no motorizado: Son aquellas sobre las que se desplazan personas o vehículos impulsado por la misma tracción física de las personas. Se podrán admitir vehículos de motor siempre y cuando no desarrollen velocidades superiores a los 10 Km./hr., y con capacidad para transportar una sola persona. Las características de las mismas serán las siguientes:
 
-b).- Los andadores peatonales tendrán un derecho de vía de 2.00 metros como mínimo.
+a).- Las vías peatonales tendrán un derecho de vía de 8.00 metros como mínimo; y (sic)
+
+b).- Los andadores peatonales tendrán un derecho de vía de 2.00 metros como mínimo;
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2010)</small>
+
+c).- Ciclopistas: Son aquellas destinadas de manera exclusiva al tránsito de bicicletas y vehículos no motorizados similares. Tendrán un ancho de rodamiento mínimo de 2:00 (sic) metros.
 
 Cuando el derecho de vía máximo exceda en fracción, la vía se clasificará en la del nivel superior.
 
@@ -1629,7 +1629,9 @@ En caso que afecte, incorpore, permita o facilite la incorporación de zonas al 
 
 Las áreas de donación son aquellas a que se refiere el Artículo 156, fracción VI de la Ley, son las áreas a ceder por los fraccionadores, promotores y propietarios en favor del Municipio, según el tipo de acción urbana de que se trate, será la siguiente:
 
-I.- Fraccionamientos habitacionales de urbanización inmediata y progresiva: el quince por ciento del área total del predio a desarrollar;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+I.- Fraccionamientos habitacionales de urbanización inmediata y progresiva: el quince por ciento del área neta del predio a desarrollar;
 
 II.- Fraccionamientos campestres, recreativos y turísticos: el diecisiete por ciento del área neta del predio a desarrollar;
 
@@ -1829,9 +1831,15 @@ III.- De interés Medio;
 
 IV.- De interés social;
 
-V.- Habitacional popular, y
+V.- Habitacional popular, y (sic)
 
-VI.- Habitacional de urbanización progresiva.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+VI.- Habitacional Económico, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2010)</small>
+
+VII.- Habitacional de Urbanización Progresiva.
 
 Los fraccionamientos industriales de acuerdo con su densidad y operación se clasifican en:
 
@@ -1849,19 +1857,25 @@ II.- Turístico, y
 
 III.- Agropecuarios (Granjas Familiares).
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 116.
 
-En los fraccionamientos habitacionales podrán existir lotes con usos del suelo distintos al habitacional pero compatibles con éste, evitándose los contaminantes, molestos o peligrosos para la población independientemente de su uso; todo lo anterior, siempre que el programa de desarrollo urbano no prohíba tales usos. Ver tabla de compatibilidad.
+En los fraccionamientos habitacionales de urbanización inmediata podrán existir lotes con usos del suelo distintos al habitacional pero compatibles con éste, evitándose los contaminantes, molestos o peligrosos para la población independientemente de su uso; todo lo anterior, siempre que el programa de desarrollo urbano no prohíba tales usos, de acuerdo con la tabla de compatibilidad, la cual se incluirá en las Normas Técnicas Complementarias para la zonificación del territorio del Estado de Hidalgo, así como en los respectivos Programas que integran el Sistema.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 117.
 
-Los fraccionadores además de lo dispuesto en el Artículo 156 de la Ley para el caso de quienes lleven a cabo fraccionamientos en las zonas urbanas y de reserva para el crecimiento de un centro de población estarán obligados a realizar las siguientes obras de urbanización:
+Los fraccionadores además de lo dispuesto en el Artículo 156 de la Ley y si fuere el caso y lleven a cabo fraccionamientos en las zonas urbanas y de reserva para el crecimiento de un centro de población estarán obligados a realizar las siguientes obras de urbanización:
 
 I.- La red de distribución de agua potable y sus tomas domiciliarias e hidrantes, conectada a la red municipal o la construcción de un sistema autónomo con capacidad suficiente para el suministro total del líquido, que cuente con la aprobación de la autoridad competente;
 
 II.- La red de drenaje sanitario, descargas domiciliarias, subcolectores y colectores, conectados a la red municipal o sistema autónomo, que cuente con la aprobación de la autoridad competente y que incluya el sistema de tratamiento (planta de tratamiento), reuso y disposición final de las aguas servidas;
 
-III.- La red u obras de manejo de aguas pluviales, de acuerdo a las características topográficas del área o predio de que se trate y su conducción y disposición sin mezclarla con la red sanitaria, sea inyectándola a los acuíferos o canalizándola a flujos de agua existentes (canales, ríos, otros);
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+III.- La red y obras de manejo de aguas pluviales, de acuerdo a la características topográficas del área o predio que se trate y su conducción y disposición sin mezclarla con la red sanitaria, sea inyectándola a los acuíferos o canalizándola a flujos de agua existente.
 
 IV.- La red de distribución de energía eléctrica y obras complementarias;
 
@@ -1903,7 +1917,9 @@ Los fraccionamientos habitacionales de urbanización progresiva serán promovido
 
 Los organismos promotores oficiales podrán asociarse con otras entidades públicas federales o locales, o bien, particulares, para la adquisición de terrenos para estos fines y el desarrollo del fraccionamiento. El desarrollo de un fraccionamiento habitacional progresivo deberá preverse en su totalidad, incluidas las obras de infraestructura y urbanización necesarios, en un término que no deberá exceder de diez años.
 
-Sólo podrán ubicarse en las zonas urbanas o de reserva para el crecimiento urbano de los centros de población cuyos programas de desarrollo urbano las consideren permitidas o condicionadas y que cuenten o se prevea puedan contar con servicio de transporte público. Por lo demás, se sujetarán a las normas técnicas para fraccionamientos habitacionales de urbanización inmediata, y a los criterios mínimos de diseño contenidos en el presente reglamento.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
+
+Sólo podrán ubicarse en las zonas urbanas o de reserva para el crecimiento urbano de los centros de población cuyos programas de desarrollo urbano las consideren permitidas o condicionadas y que cuenten o se prevea puedan contar con servicios de transporte público. Por lo demás se sujetarán a las normas técnicas para fraccionamientos habitacionales de urbanización progresiva, y a los criterios mínimos de diseño contenidos en el presente Reglamento.
 
 Estos fraccionamientos podrán ser ocupados una vez que cuenten cuando menos con trazo y nivelación de vialidades, alineamiento de predios, agua potable domiciliaria o colectiva, drenaje y alumbrado público.
 
@@ -1983,13 +1999,17 @@ b).- En predios con pendientes mayores al 35% y hasta el 45% solo se permitirá 
 
 c).- En predios con pendientes mayores al 45%, se prohíbe fraccionar, únicamente se aprobarán subdivisiones de las superficies que autorice el Municipio conforme a la Ley y este Reglamento, solamente podrá construirse una casa de montaña en cada parcela resultante; los accesos serán senderos de terracería de 6 metros de ancho como máximo;
 
-d).- En el caso que señala el inciso a), la cantidad total de vivienda resultante de aplicar la densidad prevista, podrá ser concentrada en una parte del predio, dejando el resto del predio en estado natural como área de preservación ecológica propiedad de los habitantes del fraccionamiento, dicha superficie no podrá ser objeto de fraccionamiento o subdivisión, y
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
 
-e).- Las vialidades internas tendrán las características que solicite el fraccionador y sean autorizadas por la autoridad competente.
+d).- Las vialidades internas tendrán las características que indica y señalan las normas complementarias.
+
+e).- (DEROGADO, P.O. 31 DE MAYO DE 2010)
 
 Las obras de urbanización de todos los fraccionamientos deberán cumplir con las normas técnicas vigentes en la materia y a los términos en que fueron autorizadas.
 
 ### CAPÍTULO VI. DE LOS REQUISITOS Y PROCEDIMIENTO A QUE SE SUJETARÁN LOS FRACCIONAMIENTOS
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO TRANSITORIO DEL DECRETO QUE REFORMA EL PRESENTE ARTICULO, PUBLICADO EN EL P.O. DE 31 DE MAYO DE 2010, SE MODIFICA SU ESTRUCTURA, QUEDANDO CONFORMADO POR LOS INCISOS A) A J).</small>
 
 ###### ARTÍCULO 125.
 
@@ -1997,7 +2017,9 @@ De acuerdo a la clasificación establecida en el Artículo 115 del presente regl
 
 FRACCIONAMIENTOS HABITACIONALES.
 
-Residencial Alto.- Los fraccionamientos tipo residencial alto tendrán como uso el de vivienda unifamiliar sin permitir incluir en éste, áreas comerciales y de servicios, debiendo presentar un reglamento interno que será autorizado por la Secretaría.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+
+A) Residencial Alto.- Los fraccionamientos tipo residencial alto tendrán como uso el de vivienda unifamiliar sin permitir incluir en éste, áreas comerciales y de servicios, debiendo presentar un reglamento interno que será autorizado por la Secretaría.
 
 La lotificación y edificación estará sujeta a los siguientes lineamientos.
 
@@ -2017,9 +2039,13 @@ VII.- Deberá contar con 3 cajones para estacionamiento;
 
 VIII.- La restricción frontal será de 5.00 metros como mínimo, y 40% de esta área será ajardinada. Deberá tener restricciones laterales de acuerdo al reglamento interno del fraccionamiento, y
 
-IX.- Las obras mínimas de urbanización serán, sistema de abastecimiento o factibilidad de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
-Residencial Medio.- Los fraccionamientos tipo residencial medio tendrán como uso la vivienda unifamiliar sin permitir la inclusión de áreas comerciales y de servicios, debiendo presentar un reglamento interno que será autorizado por la Secretaría.
+IX.- Las obras mínimas de urbanización serán sistema de abastecimiento y de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+
+B) Residencial Medio.- Los fraccionamientos tipo residencial medio tendrán como uso la vivienda unifamiliar sin permitir la inclusión de áreas comerciales y de servicios, debiendo presentar un reglamento interno que será autorizado por la Secretaría.
 
 La lotificación y edificación estará sujeta a los siguientes lineamientos:
 
@@ -2039,9 +2065,13 @@ VII.- Deberá contar con 2 cajones para estacionamiento;
 
 VIII.- La restricción frontal será de 5.00 metros como mínimo, y 40% de esta área será ajardinada. Deberá tener restricciones laterales de acuerdo al reglamento interno del fraccionamiento, y
 
-IX.- Las obras mínimas de urbanización serán, sistema de abastecimiento o factibilidad de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
-De Interés Medio.- Los fraccionamientos de interés medio tendrán como uso predominante el de vivienda unifamiliar, permitiéndose áreas comerciales y de servicios en un 10% de la superficie total vendible, debiendo presentar un reglamento interno que será autorizado por la Secretaría.
+IX.- Las obras mínimas de urbanización serán sistema de abastecimiento y de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+
+C) De Interés Medio.- Los fraccionamientos de interés medio tendrán como uso predominante el de vivienda unifamiliar, permitiéndose áreas comerciales y de servicios en un 10% de la superficie total vendible, debiendo presentar un reglamento interno que será autorizado por la Secretaría.
 
 La lotificación y edificación estará sujeta a los siguientes lineamientos:
 
@@ -2061,9 +2091,13 @@ VII.- Deberá contar con 1 cajón para estacionamiento como mínimo;
 
 VIII.- La restricción frontal será de 3.00 metros como mínimo y 40% de esta área será ajardinada. Deberá tener restricciones laterales de acuerdo al reglamento interno del fraccionamiento, y
 
-IX.- Las obras mínimas de urbanización serán, sistema de abastecimiento o factibilidad de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
-De Interés Social.- Los fraccionamientos de interés social tendrán como uso predominante la vivienda unifamiliar, permitiéndose áreas comerciales y de servicios en un 15% de la superficie total vendible, debiendo presentar un reglamento interno que será autorizado por la Secretaría.
+IX.- Las obras mínimas de urbanización serán sistema de abastecimiento y de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+
+D) De Interés Social.- Los fraccionamientos de interés social tendrán como uso predominante la vivienda unifamiliar, permitiéndose áreas comerciales y de servicios en un 15% de la superficie total vendible, debiendo presentar un reglamento interno que será autorizado por la Secretaría.
 
 La lotificación y edificación estará sujeta a los siguientes lineamientos:
 
@@ -2085,7 +2119,9 @@ VIII.- La restricción frontal será de 2.50 metros como mínimo y 40% de esta �
 
 IX.- Las obras mínimas de urbanización serán, sistema de abastecimiento o factibilidad de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
 
-De Habitación Popular.- Los fraccionamientos populares tendrán como uso predominante la vivienda unifamiliar, permitiéndose áreas comerciales y de servicios en un 15% de la superficie total vendible, debiendo presentar un reglamento interno que será autorizado por la Secretaría.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+
+E) Habitación Popular.- Los fraccionamientos populares tendrán como uso predominante la vivienda unifamiliar, permitiéndose áreas comerciales y de servicios en un 15% de la superficie total vendible, debiendo presentar un reglamento interno que será autorizado por la Secretaría.
 
 La lotificación y edificación estará sujeta a los siguientes lineamientos:
 
@@ -2105,7 +2141,9 @@ VII.- Deberá contar con un cajón para estacionamiento;
 
 VIII.- La restricción frontal será de 2.50 metros como mínimo y 40% de esta área será ajardinada, y
 
-IX.- Las obras mínimas de urbanización serán, sistema de abastecimiento o factibilidad de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+IX.- Las obras mínimas de urbanización serán sistema de abastecimiento y de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
 
 De Urbanización Progresiva.- Los fraccionamientos tipo urbanización progresiva tendrán las mismas características que el de tipo interés social. Estos fraccionamientos solo se autorizarán a las instituciones oficiales y a particulares que participen con las mismas, por medio de asociaciones en participación. Estos fraccionamientos se podrán llevar a cabo en forma progresiva, a través de un programa de introducción de servicios y construcción de vivienda.
 
@@ -2127,89 +2165,277 @@ VII.- Deberá contar con un cajón para estacionamiento;
 
 VIII.- La restricción frontal será de 2.50 metros como mínimo y 40% de esta área será ajardinada, y
 
-IX.- Las obras mínimas de urbanización serán, sistema de abastecimiento o factibilidad de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
-FRACCIONAMIENTOS INDUSTRIALES.
+IX.- Las obras mínimas de urbanización serán, sistema de abastecimiento y de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
 
-Industria Ligera.- Es aquella de baja demanda al ambiente, que por sus instalaciones y materiales que trasforman y almacenan, no representa riesgo o contaminación para el personal que ahí labore, para los vecinos e instalaciones perimetrales.
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2010)</small>
 
-La lotificación y edificación estará sujeta a los siguientes lineamientos:
+F).- HABITACIONAL ECONÓMICO.- Los fraccionamientos de vivienda económica tendrán como uso predominante la vivienda unifamiliar y/o condominal, permitiéndose áreas comerciales y de servicios en un 10% de la superficie total vendible, debiendo presentar un reglamento interno que será autorizado por la Secretaría.
 
-I.- Cumplir con las disposiciones de la normatividad en la materia;
+Estos fraccionamientos serán promovidos por Organismos descentralizados así como desarrolladores siendo éstos responsables del cumplimiento de las obligaciones establecidas en la Ley.
 
-II.- La superficie mínima del lote será de 400.00 m2;
+Sólo podrán ubicarse en las zonas urbanas o de reserva para el crecimiento urbano de los centros de población, conforme a lo establecido en los programas correspondientes.
 
-III.- El frente mínimo será de 20.00 m;
+Se sujetarán a las normas técnicas para fraccionamientos habitacionales de urbanización inmediata, y a los criterios mínimos de diseño contenidos en el presente Reglamento.
 
-IV.- El C.O.S. no será mayor del 0.6 de la superficie total del lote;
-
-V.- El C.U.S. no será mayor del 1.2 de la superficie total del lote;
-
-VI.- La altura máxima de las edificaciones no deberá exceder de los 10 m., a partir del nivel máximo del terreno natural, con respecto a la edificación, los casos específicos se deberán justificar ante la dependencia correspondiente;
-
-VII.- Deberá contar con un mínimo de 3 cajones para estacionamiento por cada lote de 400.00 m2 o múltiplos de éste;
-
-VIII.- La restricción frontal será de 6.00 m. como mínimo y deberán considerar áreas verdes;
-
-IX.- Deberá contar con un reglamento interno, que será aprobado por la Secretaría;
-
-X.- Obras de urbanización con que deberá contar son: sistema de abastecimiento o factibilidad de dotación de agua potable, sistema para la disposición de las aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, guarniciones, banquetas y pavimento. Cada predio deberá contar con área específica para él depósito de basura con fácil acceso para su recolección, y
-
-XI.- No se permitirá el uso habitacional.
-
-Industria Mediana.- Es aquella que por sus instalaciones, materiales que maneja, transforma, almacena, y que genera: humo, ruido, vibraciones, olores, polvo, cuya presencia es molesta para el personal que ahí labore y para vecinos e instalaciones perimetrales.
+La vialidad de este fraccionamiento contará con dos aceras de 2.00 metros cada una y dos carriles de 3.5 metros cada uno como mínimo.
 
 La lotificación y edificación estará sujeta a los siguientes lineamientos:
 
-I.- Cumplir con las disposiciones de la normatividad en la materia;
+I.- UNIFAMILlAR.-
 
-II.- La superficie mínima del lote será de 1000.00 m2;
+a).- Aplicará en todo el territorio del estado; en caso de no contar con el programa correspondiente, estará sujeta a lo establecido en el Titulo Tercero, Capitulo X de este Reglamento;
 
-III.- El frente mínimo será de 25.00 m;
+b).- Deberán ser viviendas sustentables, por lo que con carácter de obligatoriedad incorporará tecnologías alternativas que propicien la reducción del gasto de los recursos naturales en por lo menos dos espacios de la vivienda (e.g. cocina y baño);
 
-IV.- El C.O.S. no será mayor del 0.5 de la superficie total del lote;
+c).- El lote tipo de vivienda unifamiliar será mínimo de: 90.00 m2 de superficie y 6 metros de frente y solo aplicará en la combinación de usos con la vivienda condominal como lo establece el cuadro de mezcla de viviendas por hectárea, establecido en el inciso o, de la fracción II de este Artículo, marcada para condominio;
 
-V.- El C.U.S. no será mayor del 1.0 de la superficie total del lote;
+d).- La altura máxima de las edificaciones no deberá exceder los 7.50 metros a partir del nivel máximo del terreno natural, con respecto a la edificación;
 
-VI.- La altura máxima de las edificaciones no deberá exceder de los 10 m., a partir del nivel máximo del terreno natural, con respecto a la edificación, los casos específicos se deberán justificar ante la dependencia correspondiente;
+e).- Deberá contar con un cajón para estacionamiento por vivienda; y
 
-VII.- Deberá contar con un mínimo de 6 cajones para estacionamiento por cada lote de 1000.00 m2 o múltiplos de éste;
+f).- La restricción frontal será de 2.50 metros como mínimo;
 
-VIII.- La restricción frontal será de 6.00 m. como mínimo y deberán considerar áreas verdes;
+g).- El área libre de construcción cuyo porcentaje se establece en el COS, podrá pavimentarse en un 10% con materiales permeables, cuando estas áreas se utilicen como andadores o huellas para el tránsito y/o estacionamiento de vehículos. El resto deberá utilizarse como área para captación de los mantos acuíferos (jardinada (sic)).
 
-IX.- Deberá contar con un reglamento interno, que será aprobado por la Secretaría;
+II.- CONDOMINAL.-
 
-X.- Obras de urbanización con que deberá contar son: sistema de abastecimiento o factibilidad de dotación de agua potable, sistema para el tratamiento y disposición de las aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, guarniciones, banquetas, pavimento. Cada predio deberá contar con área específica para él depósito de basura con fácil acceso para su recolección, y
+a).-. Aplicará únicamente para el segmento crediticio con ingresos de hasta 4.0 VSM;
 
-XI.- No se permitirá él uso habitacional.
+b).- Deberán ser viviendas sustentables, por lo que con carácter de obligatoriedad incorporará tecnologías alternativas que propicien la reducción del gasto de los recursos naturales en por lo menos dos espacios de la vivienda, destacando los reductores de caudal incorporadas a las griferías de baño, cocina y regaderas;
 
-Industria Pesada.- Es aquella que por su alto impacto al medio ambiente, transforma, manipula y almacena, materiales o sustancias que pueden originar accidentes altamente riesgosos para el personal que ahí labora, para los vecinos e instalaciones perimetrales.
+c).- El C.O.S. no será mayor del 0.70 de la superficie total del lote;
+
+d).- El C.U.S. no deberá exceder el 1.60 de la superficie total del lote;
+
+e).- Aplicará únicamente en los 29 municipios incorporados a la Zona Metropolitana del Valle de México, en caso de que un municipio no incorporado a la zona referida, tenga demanda de vivienda, éste se sujetará a lo establecido en el Titulo Tercero, Capítulo X de este Reglamento;
+
+f).- El lote tipo de vivienda condominal dúplex horizontal será mínimo de: 135.00 m2 de superficie y 9.00 metros de frente;
+
+g).- La altura máxima de las edificaciones no deberá exceder los 7.50 metros a partir del nivel máximo del terreno natural, con respecto a la edificación;
+
+h).- Deberá contar con un cajón para estacionamiento por vivienda;
+
+i).- El área libre de construcción deberá ser ajardinada y de adsorción para los mantos acuíferos;
+
+j).- La vivienda estará diseñada estructuralmente en función del proyecto original, la cual se desarrollara en planta baja;
+
+k).- La superficie mínima de construcción será de 45.00 m2;
+
+l).- La circulación horizontal mínima requerida será de 0.70 mts;
+
+m).- La circulación vertical mínima requerida será de 0.90 mts;
+
+n).- Los muros que dividan las viviendas dúplex deberán ser individuales, en el caso de que se comparta el muro deberá tener un espesor mínimo de 20 cms., con el fin de evitar la filtración de ruidos y con ello mejorar la privacidad de los moradores;
+
+ñ).- Las condiciones de habitabilidad y funcionalidad del proyecto arquitectónico serán, las mencionadas en los incisos I y m.
+
+o).- Mezcla de viviendas por hectárea será:
+
+CUADRO DE AREAS (AREA VENDIBLE)
+
+VIVIENDA DUPLEX (MAXIMO) 66%
+
+LOTE TIPO DUPLEX DE 135.00 M2
+
+VIVIENDA UNIFAMILIAR (MINIMO) 24%
+
+LOTE TIPO UNIFAMILIAR DE 90.00 M2
+
+AREA MIXTA Habitacional y/o Comercial (MINIMO) 10%
+
+LOTE TIPO UNIFAMILIAR DE 90.00 M2
+
+> <small>(REFORMADO. P.O. 31 DE MAYO DE 2010)</small>
+
+G.- Habitacional de Urbanización Progresiva.- Los fraccionamientos tipo urbanización progresiva tendrán como uso predominante la vivienda unifamiliar, permitiéndose áreas comerciales y de servicios en un 15% de la superficie total vendible, debiendo presentar un reglamento interno que será autorizado por la Secretaría. Estos fraccionamientos solo se autorizarán a las instituciones oficiales y a particulares que participen con las mismas, por medio de asociaciones en participación. Estos fraccionamientos se podrán llevar a cabo en forma progresiva, a través de un programa de introducción de servicios y construcción de vivienda.
+
+Los fraccionamientos de Urbanización Progresiva, tendrán diversas modalidades para la lotificación y edificación, y estarán sujetos a los siguientes lineamientos.
+
+I.- Auto-Construcción de Vivienda: (unifamiliar).- Se entiende por fraccionamiento de autoconstrucción aquel que es canalizado para no asalariados y reunirá los siguientes requisitos:
+
+a).- La densidad máxima será de 60 viviendas por hectárea;
+
+b).- La superficie mínima de lote será de 90.00 m2;
+
+c).- El frente mínimo de lote será de 6.00 metros lineales;
+
+d).- La altura máxima de las edificaciones no deberá exceder los 7.00 metros a partir del nivel máximo del terreno natural, con respecto a la edificación;
+
+e).- Deberá contar con un cajón para estacionamiento, y
+
+f).- La restricción frontal será de 2.50 metros Como mínimo y 40% de esta área será ajardinada.
+
+La ejecución de las obras de urbanización se hará de manera progresiva con cargo a los propios adquirientes de los lotes, a través del organismo promotor del desarrollo, quien se constituye en responsable solidario del buen resultado del proyecto, quien promoverá y apoyará los programas de producción social de vivienda y auto-construcción técnicamente dirigidos.
+
+Estos fraccionamientos podrán ser ocupados una vez que cuenten cuando menos con trazo y nivelación de vialidades, alineamiento de predios, agua potable domiciliaria o colectiva, drenaje y alumbrado público
+
+La vialidad local cantará con dos aceras de 2.00 metros cada una y tendrá dos carriles de 3.5 metros cada uno como mínimo. Además. Se dejarán franjas de servicio de 0.50 metros a partir de la guarnición destinadas para jardinería, alumbrado público y en su caso ubicación de redes de infraestructura, equipamiento y señalización.
+
+II.- Promoción de Organizaciones (unifamiliar);
+
+Para la promoción de organizaciones se requieren los siguientes requisitos:
+
+a).- La densidad máxima será de 60 viviendas por hectárea;
+
+b).- La superficie mínima de lote será de 90.00 m2;
+
+c).- El frente mínimo de lote será de 6.00 metros lineales;
+
+d).- La altura máxima de las edificaciones no deberá exceder los 7.00 metros a partir del nivel máximo del terreno natural, con respecto a la edificación;
+
+e).- Deberá contar con un cajón para estacionamiento; y
+
+f).- La restricción frontal será de 2.50 metros como mínimo y 40% de esta área será ajardinada.
+
+Estos fraccionamientos podrán ser ocupados una vez que cuenten cuando menos con los requisitos mínimos de urbanización como: Alineamientos de predios, dotación de agua potable, red de alcantarillado, red de electrificación, guarniciones, banquetas y terracería compactada.
+
+La vialidad local cantará con dos aceras de 2.00 metros cada una, dos carriles de 3.5 metros cada uno como mínimo y se dejarán franjas de servicio de 0.50 metros a partir de la guarnición destinado para jardinería, alumbrado público y en su caso ubicación de redes de infraestructura, equipamiento y señalización.
+
+III.- DESARROLLO INSTITUCIONAL (unifamiliar y condominal)
+
+a).- La densidad máxima será de 70 viviendas por hectárea;
+
+b).- La superficie mínima de lote será de 80.00 m2;
+
+c).- El frente mínimo de lote será de 6.00 metros lineales;
+
+d).- La altura máxima de las edificaciones no deberá exceder los 7.00 metros a partir del nivel máximo del terreno natural, con respecto a la edificación;
+
+e).- Deberá contar con un cajón para estacionamiento; y
+
+f).- La restricción frontal será de 2.50 metros como mínimo y 40% de esta área será ajardinada.
+
+Estos fraccionamientos deberán contar cuando menos con los requisitos mínimos de urbanización como: Dotación de agua potable, red de alcantarillado, red de electrificación, red de teléfonos, cuando existan líneas que pueden ser aprovechables, alumbrado público, guarniciones, banquetas, pavimentos y parques y jardines.
+
+La vialidad local de estos fraccionamientos contará con dos aceras de 2.00 metros cada una, dos carriles, dos carriles de 3.5 metros cada uno como mínimo y se dejarán franjas de servicio de 0.50 metros a partir de la guarnición destinado para jardinería, alumbrado público y en su caso ubicación, de redes de infraestructura, equipamiento y señalización.
+
+En las vías peatonales se aplicará lo establecido en el Artículo 103 del presente reglamento (Transporte no Motorizado).
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
+
+H.- FRACCIONAMIENTOS INDUSTRIALES.
+
+I.- Industria Pesada.- Es aquella que por su alto impacto al medio ambiente, transforma, manipula y almacena, materiales o sustancias que pueden originar accidentes altamente riesgosos para el personal que ahí labora, para los vecinos e instalaciones perimetrales.
 
 La lotificación y edificación estará sujeta a los siguientes lineamientos:
 
-I.- Cumplir con las disposiciones de la normatividad en la materia;
+a).- Cumplir con las disposiciones de la normatividad en la materia;
 
-II.- La superficie mínima del lote será de 10,000.00 m2;
+b).- La superficie mínima del lote será de 10,000.00 m2;
 
-III.- El frente mínimo será de 100.00 m;
+c).- El frente mínimo será de 100.00 m;
 
-IV.- El C.O.S. no será mayor del 0.4 de la superficie total del lote;
+d).- El C.O.S. no será mayor del 0.4 de la superficie total del lote;
 
-V.- El C.U.S. no será mayor del 0.8 de la superficie total del lote;
+e).- El C.U.S. no será mayor del 0.8 de la superficie total del lote;
 
-VI.- Se deberá contar con un estudio específico para definir el número de cajones para estacionamiento, aprobado por la Secretaría;
+f).- Se deberá contar con un estudio específico para definir el número de cajones para estacionamiento, aprobado por la Secretaría;
 
-VII.- La restricción para edificar será perimetral invariablemente y su dimensionamiento será producto de un estudio específico que será aprobado por la Secretaría;
+g).- La restricción para edificar será perimetral invariablemente y su dimensionamiento será producto de un estudio específico que será aprobado por la Secretaría;
 
-VIII.- Deberá contar con un reglamento interno, que será aprobado por la Secretaría;
+h).- Deberá contar con un reglamento interno, que será aprobado por la Secretaría;
 
-IX.- Obras de urbanización con que deberá contar son: sistema de abastecimiento o factibilidad de dotación de agua potable, sistema para la disposición de las aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, guarniciones, telefonía, banquetas y pavimento. Cada predio deberá contar con área específica para él depósito de basura con fácil acceso para su recolección, y
+i).- Obras de urbanización con que deberá contar son: sistema de abastecimiento y de dotación de agua potable, sistema para la disposición de las aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, guarniciones, telefonía, banquetas y pavimento. Cada predio deberá contar con área específica para él depósito de basura con fácil acceso para su recolección, y
 
-X.- No se permitirá el uso habitacional.
+j).- No se permitirá el uso habitacional.
 
-FRACCIONAMIENTOS AGROPECUARIOS.
+II.- Industria Mediana.- Es aquella que por sus instalaciones, materiales que maneja, transforma, almacena, y que genera: humo, ruido, vibraciones, olores, polvo, cuya presencia es molesta para el personal que ahí labore y para vecinos e instalaciones perimetrales.
 
-Turístico.- Los fraccionamientos de tipo turístico tendrán como uso el de vivienda unifamiliar sin permitir incluir en éste, áreas comerciales y de servicios, debiendo presentar un reglamento interno, que será aprobado por la Secretaría. En este tipo de fraccionamientos no se podrá tener un uso mixto residencial y condominal.
+La lotificación y edificación estará sujeta a los siguientes lineamientos:
+
+a).- Cumplir con las disposiciones de la normatividad en la materia;
+
+b).- La superficie mínima del lote será de 1000.00 m2;
+
+c).- El frente mínimo será de 25.00 m;
+
+d).- El C.O.S. no será mayor del 0.5 de la superficie total del lote;
+
+e).- El C.U.S. no será mayor del 1.0 de la superficie total del lote;
+
+f).- La altura máxima de las edificaciones no deberá exceder de los 10 m., a partir del nivel máximo del terreno natural, con respecto a la edificación, los casos específicos se deberán justificar ante la dependencia correspondiente;
+
+g).- Deberá contar con un mínimo de 6 cajones para estacionamiento por cada lote de 1000.00 m2 o múltiplos de éste;
+
+h).- La restricción frontal será de 6.00 m. como mínimo y deberán considerar áreas verdes;
+
+i).- Deberá contar con un reglamento interno, que será aprobado por la Secretaría;
+
+j).- Obras de urbanización con que deberá contar son: sistema de abastecimiento y de dotación de agua potable, sistema para el tratamiento y disposición de las aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, guarniciones, banquetas, pavimento. Cada predio deberá contar con área específica para él depósito de basura con fácil acceso para su recolección, y
+
+k).- No se permitirá el uso habitacional.
+
+III.- Industria Ligera.- Es aquella de baja demanda al ambiente que por sus instalaciones y materiales que trasforman y almacenan, no representa riesgo o contaminación para el personal que ahí labore, para los vecinos e instalaciones perimetrales.
+
+La notificación y edificación estará sujeta a los siguientes lineamientos:
+
+a).- Cumplir con las disposiciones de la normatividad en la materia;
+
+b).- La superficie mínima del lote será de 400.00 m2;
+
+c).- El frente mínimo será de 20.00 m;
+
+d).- El C.O.S, no será mayor del 0.6 de la superficie total del lote;
+
+e).- El C.U.S. no será mayor del 1.2 de la superficie total del lote;
+
+f).- La altura máxima de las edificaciones no deberá exceder de los 10 m., a partir del nivel máximo del terreno natural, con respecto a la edificación, los casos específicos se deberán justificar ante la dependencia correspondiente;
+
+g).- Deberá contar con un mínimo de 3 cajones para estacionamiento por cada lote de 400.00 m2 o múltiplos de éste;
+
+h).- La restricción frontal será de 6.00 m. como mínimo y deberán considerar áreas verdes;
+
+i).- Deberá contar con un reglamento interno, que será aprobado por la Secretaría;
+
+j).- Obras de urbanización con que deberá contar son: sistema de abastecimiento y de dotación de agua potable, sistema para la disposición de las aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, guarniciones, banquetas y pavimento. Cada predio deberá contar con área específica para él depósito de basura con fácil acceso para su recolección, y
+
+k).- No se permitirá el uso habitacional.
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+I.- FRACCIONAMIENTOS EN ÁREAS RURALES.
+
+I.- Campestre.- Los fraccionamientos tipo campestre rústico serán destinados a uso habitacional y estos son los que se ubican fuera de las manchas urbanas debiendo presentar un Reglamento interno que será aprobado por la Secretaría.
+
+La lotificación y edificación estará sujeta a los siguientes lineamientos:
+
+a).- La densidad máxima será de 5 viviendas por hectárea;
+
+b).- La superficie mínima de lote será de 1,500.00 metros cuadrados;
+
+e).- El frente mínimo de lote será de 30.00 metros lineales;
+
+d).- El C. O. S. no será mayor del 0.15 de la superficie total del lote;
+
+e).- El C. U. S. no deberá exceder el 0.30 de la superficie total del lote;
+
+f).- Deberá contar con 2 cajones para estacionamiento como mínimo;
+
+g).- La restricción frontal será de 5.00 metros lineales como mínimo, y
+
+h).- Las obras de urbanización con que deberá contar son: sistema de abastecimiento de agua potable, sistema para la disposición de aguas residuales, energía eléctrica o fuente de abastecimiento alterna.
+
+II.- Granjas Familiares.- Los fraccionamientos para granjas familiares serán destinados a uso habitacional y actividades agropecuarias y se ubicarán fuera de la mancha urbana.
+
+La lotificación y edificación estará sujeta a los siguientes lineamientos:
+
+a).- La densidad máxima será de 3 viviendas por hectárea;
+
+b).- La superficie mínima de lote será de 3,000.00 metros cuadrados;
+
+e).- El frente mínimo de lote será de 50.00 metros lineales;
+
+d).- El C. O. S. no será mayor del 0.25 de la superficie total del lote;
+
+e).- El C. U. S. no deberá exceder el 0.50 de la superficie total del lote, y
+
+f).- Las obras de urbanización con que deberá contar son: sistema de abastecimiento de agua, sistema para la disposición de aguas residuales, energía eléctrica o fuente de abastecimiento alterna.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
+
+J.- TURÍSTICO.- Los fraccionamientos de tipo turístico tendrán como uso el de vivienda unifamiliar sin permitir incluir en éste, áreas comerciales y de servicios, debiendo presentar un Reglamento interno, que será aprobado por la Secretaría. En este tipo de fraccionamientos no se podrá tener un uso mixto residencial y condominal.
 
 La lotificación y edificación estará sujeta a los siguientes lineamientos:
 
@@ -2229,53 +2455,19 @@ VII.- Deberá contar con 4 cajones para estacionamiento;
 
 VIII.- La restricción frontal será de 5.00 metros como mínimo, y 40% de esta área será ajardinada. Deberá tener restricciones laterales de acuerdo al reglamento interno del fraccionamiento, y
 
-IX.- Las obras mínimas de urbanización serán, sistema de abastecimiento o factibilidad de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
+IX.- Las obras mínimas de urbanización serán, sistema de abastecimiento y de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
 
-Campestre.- Los fraccionamientos tipo campestre rústico serán destinados a uso habitacional y estos son los que se ubican fuera de las manchas urbanas debiendo presentar un reglamento interno que será aprobado por la Secretaría.
+Los fraccionamientos habitacionales solo podrán ser aprobados cuando se ubiquen en predios contiguos a zonas urbanizadas, o de algún fraccionamiento ya urbanizado, salvo los del tipo campestre, asimismo deberán apegarse al período de apertura de los Programas de Desarrollo Urbano que integra el Sistema.
 
-La lotificación y edificación estará sujeta a los siguientes lineamientos:
+Se deberán conservar las zonas que por sus características naturales condicionen el equilibrio ecológico, las dedicadas en forma habitual alas actividades agropecuarias, las áreas cuyo uso puedan afectar el paisaje urbano y natural y aquellas cuyos suelos y subsuelos se hayan visto afectados por fenómenos naturales o por la explotación de cualquier género, que representen peligro permanente para los asentamientos humanos. En estos espacios, la urbanización será restringida o estrictamente prohibida.
 
-I.- La densidad máxima será de 5 viviendas por hectárea;
+En todos los fraccionamientos, los servicios públicos de agua potable, drenaje y energía eléctrica deberán ser calculados de acuerdo con la clasificación de los fraccionamientos establecida en los Programas de Desarrollo Urbano que integran el Sistema. En caso de no contar con ellos deberá sujetarse a lo establecido en el Titulo Tercero, Capitulo X de este Reglamento.
 
-II. La superficie mínima de lote será de 1,500.00 metros cuadrados;
-
-III.- El frente mínimo de lote será de 30.00 metros lineales;
-
-IV.- El C. O. S. no será mayor del 0.15 de la superficie total del lote;
-
-V.- El C. U. S. no deberá exceder el 0.30 de la superficie total del lote;
-
-VI.- Deberá contar con 2 cajones para estacionamiento como mínimo;
-
-VII.- La restricción frontal será de 5.00 metros lineales como mínimo, y
-
-VIII.- Las obras de urbanización con que deberá contar son: sistema de abastecimiento de agua potable, sistema para la disposición de aguas residuales, energía eléctrica o fuente de abastecimiento alterna.
-
-Granjas Familiares.- Los fraccionamientos para granjas familiares serán destinados a uso habitacional y actividades agropecuarias y se ubicarán fuera de la mancha urbana.
-
-La lotificación y edificación estará sujeta a los siguientes lineamientos:
-
-I.- La densidad máxima será de 3 viviendas por hectárea;
-
-II.- La superficie mínima de lote será de 3,000.00 metros cuadrados;
-
-III.- El frente mínimo de lote será de 50.00 metros lineales;
-
-IV.- El C. O. S. no será mayor del 0.25 de la superficie total del lote;
-
-V.- El C. U. S. no deberá exceder el 0.50 de la superficie total del lote, y
-
-VI.- Las obras de urbanización con que deberá contar son: sistema de abastecimiento de agua, sistema para la disposición de aguas residuales, energía eléctrica o fuente de abastecimiento alterna.
-
-Los fraccionamientos habitacionales solo podrán ser aprobados cuando se ubiquen en predios contiguos a zonas urbanizadas, o de algún fraccionamiento ya urbanizado, salvo los del tipo campestre.
-
-Se deberán conservar las zonas que por sus características naturales condicionen el equilibrio ecológico, las dedicadas en forma habitual a las actividades agropecuarias, las áreas cuyo uso puedan afectar el paisaje urbano y natural y aquellas cuyos suelos y subsuelos se hayan visto afectados por fenómenos naturales o por la explotación de cualquier género, que representen peligro permanente para los asentamientos humanos. En estos espacios, la urbanización será restringida o estrictamente prohibida.
-
-En todos los fraccionamientos, los servicios públicos de agua potable, drenaje y energía eléctrica deberán ser calculados de acuerdo con la densidad de población que corresponda al tipo de fraccionamiento y de acuerdo con los Programas de Desarrollo Urbano que integran el Sistema.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 126.
 
-El fraccionamiento y la urbanización del suelo se sujetarán al siguiente procedimiento:
+El fraccionamiento y la urbanización del suelo se sujetarán al siguiente procedimiento y condiciones:
 
 I.- Constancia de uso de suelo;
 
@@ -2293,7 +2485,13 @@ VII.- Autorización de venta de lotes, y
 
 VIII.- Liberación de garantías.
 
-La constancia de uso de suelo, licencia de uso de suelo, autorización de fraccionamiento y la licencia de construcción tendrán una vigencia de 12 meses a partir de la fecha de expedición, para lo cual el peticionario podrá solicitar prorroga del trámite correspondiente según se le indique.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
+
+La constancia de uso de suelo tendrá una vigencia de seis meses y la licencia de uso de suelo, autorización de fraccionamiento y la licencia de construcción tendrán una vigencia de 12 meses a partir de la fecha de expedición, para lo cual el peticionario podrá solicitar prorroga del trámite correspondiente según se le indique.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2010)</small>
+
+En caso de que un peticionario pretenda transferir los derechos y obligaciones de la Constancia de un Uso de Suelo o de la Licencia de Construcción, deberá de tramitar su autorización ante la autoridad competente. Además, el cesionario deberá de manifestar por escrito su anuencia y se subrogarán las obligaciones impuestas. Por lo que deberá cumplir las condiciones y requisitos establecidos en la autorización o constancia del fraccionamiento.
 
 ###### ARTÍCULO 127.
 
@@ -2303,7 +2501,9 @@ I.- Constancia de uso de suelo;
 
 II.- la (sic) solicitud correspondiente por escrito;
 
-III.- el (sic) plano a escala del proyecto de lotificación firmada por el Director Responsable;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+III.- El plano a escala del proyecto de lotificación;
 
 IV.- Documento que acredite la propiedad del inmueble, debidamente inscrito en el Registro Público de la Propiedad y del Comercio;
 
@@ -2325,11 +2525,13 @@ XII.- Copia del poder notarial y copia de identificación oficial del solicitant
 
 XIII.- Efectuar el pago de los derechos correspondientes.
 
-A fin de obtener la autorización de fraccionamiento, el interesado deberá presentar:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+
+Para obtener la autorización de fraccionamiento, el interesado deberá presentar:
 
 I.- Licencia de uso de suelo;
 
-II- La solicitud correspondiente por escrito;
+II.- La solicitud correspondiente por escrito;
 
 III.- Certificado de libertad de gravamen expedido con no más de 30 días hábiles;
 
@@ -2351,13 +2553,21 @@ b).- Proyecto del fraccionamiento conteniendo cuadro de uso del suelo, con nomen
 
 c).- Plano de infraestructura, en donde se establezcan las obras de cabeza a habilitar por el desarrollador;
 
-d).- Proyecto de la red de agua potable y cálculo hidráulico, validado por la dependencia correspondiente;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
 
-e).- Proyecto de la red de drenaje y cálculo sanitario, validado por la dependencia correspondiente;
+d).- Proyecto de la red de agua potable y calculo hidráulico;
 
-f).- Proyecto de drenaje pluvial y cálculo hidráulico, validado por la dependencia correspondiente;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
 
-g).- Proyecto de la red de energía eléctrica y cálculo eléctrico, validado por la dependencia correspondiente;
+e).- Proyecto de la red de drenaje y calculo sanitario;
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
+
+f).- Proyecto de drenaje pluvial y calculo hidráulico;
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
+
+g).- Proyecto de la red de energía eléctrica y calculo eléctrico;
 
 h).- Memoria descriptiva del proyecto con especificaciones, mencionando la fuente de abastecimiento de agua potable y sitio de descarga de drenaje;
 
@@ -2367,7 +2577,9 @@ j).- Calendario de obras de urbanización.
 
 X.- Efectuar el pago de los derechos correspondientes;
 
-XI.- Comparecer ante el notario público que elijan, antes de que termine la vigencia de la autorización correspondiente, a fin de proceder a la protocolización, y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+XI.- Comparecer ante el Notario Público que elijan, antes de que termine la vigencia de la autorización correspondiente, a fin de proceder a la protocolización; y
 
 XII.- Estudio de Impacto Vial y Urbano conforme a lo establecido en el artículo 139 de la Ley.
 
@@ -2417,25 +2629,51 @@ La autorización de proyecto de fraccionamiento se hará constar con sello y fir
 
 Para la protocolización de dicha autorización el interesado inscribirá en el Registro Público de la Propiedad y del Comercio el acuerdo de aprobación del proyecto de fraccionamiento y los planos correspondientes firmados y sellados en un plazo no mayor a 60 días naturales a partir de la fecha de expedición. Con este acto se tendrá por transmitido el suelo destinado para vialidad y área municipal, debiendo el fraccionador terminar las obras correspondientes. Las vialidades deberán encontrarse libres.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 131.
 
-En de (sic) la autorización de venta de lotes el interesado deberá presentar la siguiente documentación previo a emitir la constancia deberá haber cumplido con los requerimientos de urbanización y satisfecho el otorgamiento de garantías de las obras faltantes por realizar:
+Para la autorización de venta de lotes, el fraccionador deberá presentar la siguiente documentación;
 
-I.- Presentar por escrito la solicitud correspondiente;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+I.- La solicitud correspondiente;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
 II.- Copia del acuerdo de autorización del proyecto de fraccionamiento y los planos correspondientes, debidamente inscritos en el Registro Público de la Propiedad y del Comercio;
 
-III.- Deberá haber cumplido con los requerimientos de urbanización;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
-IV.- Haber cumplido con el procedimiento de entrega recepción al municipio;
+III.- Haber cumplido con el procedimiento de entrega recepción al Municipio;
 
-V.- Garantía hipotecaria o fianza para el cumplimiento de sus obligaciones;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
-VI.- Constancias del cumplimiento del pago y obligaciones por incorporación a las redes de agua potable y drenaje sanitario, energía eléctrica, movilidad y todas las definidas en el presente reglamento, y
+IV.- Constancias del cumplimiento del pago y obligaciones por incorporación a las redes de agua potable y drenaje sanitario, energía eléctrica, planos correspondientes a los proyectos de agua potable, drenaje sanitario, drenaje pluvial y red de energía eléctrica debidamente validados por las dependencias correspondientes, movilidad y todas las definidas en el presente reglamento;
 
-VII.- Documento que acredite el pago de las contribuciones correspondientes.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
-El permiso para realizar operaciones de venta o enajenación se hará constar en el plano sellado y autorizado para la celebración de dichos actos, y el acuerdo correspondiente, previa constancia de haber satisfecho el otorgamiento de garantías de las obras faltantes por realizar. El interesado inscribirá en el Registro Público de la Propiedad y del Comercio el acuerdo de autorización de ventas.
+V.- Documento que acredite el pago de las contribuciones correspondientes;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+VI.- Deberá haber cumplido con los requerimientos de urbanización;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+VII.- Garantía hipotecaria o fianza para el cumplimiento de sus obligaciones; y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2010)</small>
+
+VIII.- Copia de la escritura de donación otorgada ante notario público a favor del Municipio o al Gobierno del Estado cuando el primero no cuente con el Programa de Desarrollo Urbano Municipal.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
+
+Se exceptuará de la aplicación de las fracciones III y VI de este Artículo al Fraccionamiento Habitacional de Urbanización Progresiva y en aquellos fraccionamientos cuyas viviendas se canalicen a créditos con organismos nacionales de vivienda.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2010)</small>
+
+La autorización a que se refiere este Artículo podrá ser otorgada por etapas, debiendo atender en todo caso la parte proporcional de la garantía establecida en la fracción VII, de este numeral.
 
 ###### ARTÍCULO 132.
 
@@ -2465,9 +2703,11 @@ El municipio supervisará el proceso de ejecución de las obras de urbanización
 
 Las garantías deberán ser presentadas conforme a las etapas establecidas en la licencia de construcción de fraccionamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 135.
 
-La municipalización del fraccionamiento en relación a lo establecido en la Ley, para transferir los derechos y obligaciones de un fraccionamiento, el interesado deberá contar con la autorización de la autoridad competente correspondiente. A quien se transfieran los derechos y obligaciones, además de manifestar por escrito su anuencia, se subrogarán las obligaciones impuestas y deberán cumplirse las condiciones y requisitos establecidos en la autorización del fraccionamiento.
+Para efectuar la municipalización de un fraccionamiento en términos de lo establecido en la Ley, el interesado para transferir los derechos y obligaciones del fraccionamiento, deberá contar previamente con la autorización de la autoridad competente.
 
 Para la municipalización será necesario que el interesado acredite:
 
@@ -2493,23 +2733,33 @@ I.- Solicitud de la constancia de terminación de obras y liberación de garant�
 
 II.- Copia del acuerdo de autorización de ventas inscrito en el Registro Público de la Propiedad y del Comercio;
 
-III.- Fianza que garantice por tres años la calidad estructural y constructiva y el adecuado funcionamiento de todas las infraestructuras y servicios públicos del fraccionamiento: vialidades, banquetas, sistema de agua potable, drenaje sanitario y pluvial, tratamiento y re-uso del agua, energía eléctrica, alumbrado público, espacios públicos y forestación;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+III.- Fianza que garantice por dos años la calidad estructural y constructiva y el adecuado funcionamiento de todas las infraestructuras y servicios públicos del fraccionamiento: vialidades, banquetas, sistema de agua potable, drenaje sanitario y pluvial, tratamiento y en su caso re-uso del agua, energía eléctrica, alumbrado público y espacios públicos;
 
 IV.- Documento que acredite el pago de las contribuciones correspondientes, y
 
-V.- Actas de entrega, total o parcial en el caso de que el proyecto se desarrolle por etapas, de las áreas públicas del fraccionamiento, a favor del municipio.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
-Este artículo tendrá por objeto la liberación de las garantías otorgadas y de los compromisos contraídos a cargo del desarrollador; subsistiendo sólo las garantías necesarias contra vicios ocultos de las infraestructuras e instalaciones mencionadas en la fracción III, por un periodo de tres años. Igualmente, para todas las edificaciones que realice el fraccionador o desarrollador y que sean enajenadas o aportadas a las autoridades estatales y municipales.
+V.- Actas de entrega, total o parcial en el caso de que el proyecto se desarrolle por etapas, de las áreas públicas del fraccionamiento; a favor del Municipio.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
+
+Este Artículo tendrá por objeto la liberación de las garantías otorgadas y de los compromisos contraídos a cargo del desarrollador; subsistiendo sólo las garantías necesarias contra vicios ocultos de las infraestructuras e instalaciones mencionadas en la fracción III, por un periodo de dos años. Igualmente, para todas las edificaciones que realice el fraccionador o desarrollador y que sean enajenadas o aportadas a las Autoridades Estatales y Municipales.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 138.
 
-Al quedar debidamente realizadas las obras de urbanización de un fraccionamiento, el interesado podrá solicitar a la autoridad competente se le expida la constancia de terminación de obras. Con este acto el Municipio queda obligado a prestar los servicios públicos que le sean requeridos. La constancia de terminación de obras deberá ser emitida por el municipio en un término no mayor de quince días contados a partir de la presentación de la solicitud y una vez que se haya realizado la comprobación correspondiente.
+Al quedar debidamente realizadas las obras de urbanización de un fraccionamiento, el interesado podrá solicitar a 'la autoridad competente se le expida la constancia de terminación de obras. Con este acto el Municipio queda obligado a prestar los servicios públicos que le sean requeridos. La constancia de terminación de obras deberá ser emitida por el Municipio en un término no mayor de quince días contados a partir de la presentación de la solicitud y una vez que se haya realizado la comprobación correspondiente.
 
-A solicitud del interesado y cuando se haya desarrollado un fraccionamiento por etapas, se podrán llevar a cabo entregas parciales del mismo, con la correspondiente liberación de garantías, siempre y cuando se presente un programa y calendario de trabajo de las obras restantes. El acta servirá como comprobante de la liberación de garantías.
+A solicitud del interesado y cuando se haya desarrollado un fraccionamiento por etapas, se podrán llevar a cabo entregas parciales del mismo, con la correspondiente liberación de garantías, siempre y cuando se presente un programa y calendario de trabajo de las obras restantes. El acta servirá como comprobante de la liberación de garantías. De igual forma y a petición del fraccionador, el Municipio se hará cargo del cuidado y mantenimiento de banquetas y áreas verdes, toda vez, que éstas se encuentren terminadas y forestadas, así como construidas las guarniciones, banquetas, vialidades transitables y libres de cualquier obstáculo.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 139.
 
-Se podrá revocar o modificar, total o parcialmente, la autorización de un fraccionamiento, además de lo dispuesto en la sección séptima, capitulo primero del titulo cuarto de la Ley referente a la suspensión de licencias, cuando no se afecten intereses de terceros o de la colectividad, y no se hayan realizado actos o contratos definitivos de traslación de lotes.
+Se podrá declarar la suspensión de un fraccionamiento, conforme a lo dispuesto en la Sección Séptima, Capitulo Primero del Título Cuarto de la Ley referente a las zonas que vayan a hacer objeto de regulación o planeación en cumplimiento de las disposiciones del Programa o proyecto, cuando no se afecten intereses de terceros o de la colectividad, y no se hayan realizado actos o contratos definitivos de traslación de lotes.
 
 ###### ARTÍCULO 140.
 
@@ -2525,9 +2775,11 @@ II.- Los titulares de los fraccionamientos industriales deberán hacer la cesió
 
 III.- Construir las obras de urbanización que se indican en el Artículo 116 de este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+
 ###### ARTÍCULO 142.
 
-Conjunto urbano es la modalidad de aprovechamiento inmobiliario consistente en una o varias construcciones en un terreno, con diversidad de locales y usos, sin vías públicas en su interior, qué podrán o no estar sujetos al régimen de propiedad en condominio y deberán observar lo siguiente:
+Conjunto urbano es la modalidad de aprovechamiento inmobiliario consistente en una o varias construcciones en un terreno, con diversidad de locales y usos, con o sin vías públicas en su interior, que podrán o no estar sujetos al régimen de propiedad en condominio y deberán observar lo siguiente:
 
 I.- Los usos de suelo de los conjuntos urbanos deberán ser congruentes con los programas de desarrollo urbano;
 
@@ -3243,9 +3495,15 @@ III.- Suspender el registro a los especialistas en la materia de acción urbana,
 
 IV.- Expedir las credenciales a los especialistas en materia de acción urbana;
 
-V.- Expedir las convocatorias en los meses de enero y julio para que los aspirantes a obtener el registro de especialista en la materia de acción urbana, se inscriban en los seminarios correspondientes, y
+V.- Expedir las convocatorias en los meses de enero y julio para que los aspirantes a obtener el registro de especialista en la materia de acción urbana, se inscriban en los seminarios correspondientes, y (sic)
 
-VI.- Tener bajo su resguardo los expedientes de cada uno de los solicitantes del registro de especialistas en materia de acción urbana, y los expedientes de los Directores Responsables de Obra que funjan como avales de aquellos que inicien su ejercicio profesional.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+
+VI.- Proponer al Comité los cursos ha (sic) impartir para obtener el registro inicial y el refrendo como Especialista en Materia de Acción Urbana, en forma semestral durante los meses de enero y julio. Así como supervisaren todo momento el desarrollo de los mismos;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2010)</small>
+
+VII.- Tener bajo su resguardo los expedientes de cada uno de los solicitantes del registro de Especialistas en la Materia, y los expedientes de los Directores Responsables de Obra que funjan como avales de aquellos que inicien su ejercicio profesional.
 
 ### CAPÍTULO X. DEL COMITÉ DE ADMISIÓN DE ESPECIALISTAS EN MATERIA DE ACCIÓN URBANA
 
@@ -3287,9 +3545,11 @@ III.- Emitir opinión sobre la actuación de los especialistas en materia de acc
 
 IV.- Vigilar la actuación de los especialistas en materia de acción urbana, durante el proceso de ejecución de las obras para las cuales se haya expedido su responsiva o dictámenes, con el auxilio de las unidades técnico administrativo del Gobierno y de los municipios según sea el caso;
 
-V.- Avalar semestralmente en los meses de enero y julio, los programas que cada uno de los Colegios de Profesionistas tienen implementados para impartir los cursos de actualización y capacitación tendientes a la obtención del registro inicial, y el refrendo de los especialistas en materia de acción urbana, así como supervisar en cualquier momento el desarrollo de los mismos, y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
-VI.- Realizar invitaciones a otro tipo de profesionistas en donde el orden del día lo requiera, teniendo únicamente voz.
+V.- Realizar invitaciones a otro tipo de profesionistas en donde el orden del día lo requiera, teniendo únicamente voz.
+
+VI.- (DEROGADA, P.O. 31 DE MAYO DE 2010)
 
 ###### ARTÍCULO 169.
 
@@ -3468,3 +3728,11 @@ Dado en la residencia del Poder Ejecutivo del Estado libre y Soberano de Hidalgo
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 31 DE MAYO DE 2010.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente Reglamento.
