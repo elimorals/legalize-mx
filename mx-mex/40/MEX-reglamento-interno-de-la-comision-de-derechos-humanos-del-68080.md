@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-68080
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-14"
-last_updated: "2009-04-14"
+last_updated: "2010-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE JUNIO DE 2010.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 14 de abril de 2009.
 
@@ -361,11 +361,25 @@ IV. Coordinar y programar la edición de las publicaciones que realice la Comisi
 
 V. Impulsar y fomentar la formación de investigadores y profesionales especializados en el campo de los derechos humanos;
 
-VI. Sistematizar el acervo bibliohemerográfico con el que cuenta la Comisión y generar los mecanismos para su consulta;
+> <small>(REFORMADA, G.G. 1 DE JUNIO DE 2010)</small>
 
-VII. Asistir y participar en las sesiones de Comités y Subcomités de la Comisión, en los que tenga intervención, conforme a las disposiciones aplicables; y
+VI. Sistematizar la información y documentación especializada del Organismo;
 
-VIII. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Comisionado.
+> <small>(REFORMADA, G.G. 1 DE JUNIO DE 2010)</small>
+
+VII. Editar y reproducir el contenido de la información y documentación de la Comisión;
+
+> <small>(REFORMADA, G.G. 1 DE JUNIO DE 2010)</small>
+
+VIII. Crear y desarrollar programas que permitan tener acceso a la información y documentación especializada y almacenada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE JUNIO DE 2010)</small>
+
+IX. Asistir y participar en las sesiones de Comités y Subcomités de la Comisión, en los que tenga intervención, conforme a las disposiciones aplicables; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE JUNIO DE 2010)</small>
+
+X. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Comisionado.
 
 ### Capítulo XI. De las atribuciones de la Contraloría Interna
 
@@ -972,3 +986,11 @@ Lic. Rosa María Molina de Pardiñas
 SECRETARIA GENERAL Y SECRETARIA TECNICA DEL CONSEJO CONSULTIVO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 1 DE JUNIO DE 2010.
+
+Artículo Primero. Publíquense las presentes reformas en la Gaceta de Derechos Humanos órgano oficial de difusión de la Comisión y en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+Artículo Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
