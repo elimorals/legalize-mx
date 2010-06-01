@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-la-contraloria-de-25389
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-18"
-last_updated: "2007-03-12"
+last_updated: "2010-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 1 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el jueves 18 de julio de 2002.
 
@@ -434,3 +436,9 @@ P.O. 12 DE MARZO DE 2007.
 Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones reglamentarias y administrativas en lo que se opongan al contenido del presente Acuerdo.
+
+P.O. 1 DE JUNIO DE 2010.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de la Contraloría expedido el 25 de junio de 2002 y publicado en el Periódico Oficial del Estado el 18 de julio de ese mismo año; y se derogan todas las demás disposiciones reglamentarias y administrativas de carácter general, expedidas por el Ejecutivo del Estado, en lo que se opongan al contenido del presente Reglamento.
