@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-para-el-otorgamiento-de-prestamos-del-instituto-6236
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-30"
-last_updated: "2009-10-21"
+last_updated: "2010-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO PARA EL OTORGAMIENTO DE PRESTAMOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 30 de julio de 2008.
 
@@ -129,27 +129,29 @@ II. A quienes hayan cubierto al Instituto, las cuotas y aportaciones a que se re
 
 Los plazos fijados para liquidar los Préstamos a Corto Plazo son: de 24, 36, 48 y hasta 72 quincenas.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2010)</small>
+
 ###### Artículo 10.
 
-La tasa de interés que se aplicará a los préstamos en cada año, será la que resulte de la suma de la tasa promedio ponderada mensual del año anterior, de los intermediarios financieros que integran el FONDO ESTRATEGIA del fideicomiso, más el promedio mensual también del año anterior de la Tasa de Interés Interbancaria de Equilibrio (TIIE) de 28 días autorizada y publicada por el Banco de México; sobre saldos insolutos, requiriéndose de la autorización de la H. Junta Directiva.
+La tasa de interés que se aplicará a los préstamos en cada año, será la que resulte de la suma de la tasa promedio ponderada mensual del año anterior, de los intermediarios financieros que integran el Fondo Estrategia del fideicomiso, más el promedio mensual también del año anterior de la Tasa de Interés Interbancaria de Equilibrio (TIIE) de 28 días autorizada y publicada por el Banco de México, sobre saldos insolutos, requiriéndose de la autorización de la H. Junta Directiva.
 
 Para tal efecto, se sujetarán a los siguientes procedimientos y fórmulas:
 
 La tasa promedio ponderada del rendimiento del fondo estrategia, se determina a través de las siguientes fórmulas:
 
-Suma del rendimiento mensual de cada uno de los intermediarios de los últimos doce meses, participantes del Fondo Estrategia y dividirlo entre 12 (meses):
+· Suma del rendimiento mensual de cada uno de los intermediarios de los últimos doce meses, participantes del Fondo Estrategia y dividirlo entre 12 (meses):
 
 PAln = (mes 1 + mes 2...mes 12)/12
 
 PAI = Promedio anual de intermediarios.
 
-Suma del total de los promedios anuales de los Intermediarios del Fondo Estrategia
+· Suma del total de los promedios anuales de los Intermediarios del Fondo Estrategia
 
 PS = (PAI 1 + PAI 2 +PAI n)
 
 PS = Promedio simple
 
-Dividir el promedio anual de intermediarios entre el promedio simple y el resultado multiplicarlo por el promedio anual del mismo intermediario.
+· Dividir el promedio anual de intermediarios entre el promedio simple y el resultado multiplicarlo por el promedio anual del mismo intermediario.
 
 PAI n
 
@@ -159,15 +161,15 @@ PS
 
 PPI = Promedio ponderado por intermediario
 
-Suma de los resultados de los promedios ponderados de cada uno de los intermediarios, da como resultado el promedio ponderado total del Fondo Estrategia de los últimos 12 meses.
+· Suma de los resultados de los promedios ponderados de cada uno de los intermediarios, da como resultado el promedio ponderado total del Fondo Estrategia de los últimos 12 meses.
 
-PPB = PPI 1 + PPI 2+ PPI n
+PP = PPI 1 + PPI 2+ PPI n
 
 TPP = Tasa promedio Ponderada del Fondo Estrategia
 
 La tasa promedio de la TIIE de 28 días (TPTIIE) se determina a través de la siguiente fórmula:
 
-Suma del total de los promedios mensuales de la TIIE de 28 días
+· Suma del total de los promedios mensuales de la TIIE de 28 días
 
 TPTIIE = (PMTIIE 1 + PMTIIE 2 + PMTIIE ... 12)/12
 
@@ -179,7 +181,9 @@ TI = TPP + TPTIIE
 
 TI = Tasa de Interés
 
-La tasa de Interés que resulte de los procedimientos y las fórmulas citada, (sic) se harán del conocimiento de la Junta Directiva para su aprobación y autorización respectiva; y su aplicación correspondiente.
+En el caso de que la tasa de interés resultante de los procedimientos y formulas establecidas fuese menor a la tasa aplicada en el ejercicio inmediato anterior para el cual se calcula, la tasa de interés que se aplicará será la del promedio de los últimos doce meses del intermediario financiero que mayor rendimiento haya otorgado al fondo de estrategia, más el promedio de la tasa de interés interbancaria de equilibrio (TIIE) de 28 días.
+
+La tasa de Interés que resulte de los procedimientos y las fórmulas citadas, se harán del conocimiento de la Junta Directiva para su aprobación y autorización respectiva; y su aplicación correspondiente.
 
 ###### Artículo 11.
 
@@ -266,6 +270,10 @@ El plazo máximo para liquidar el Préstamo Hipotecario será de 15 años, con b
 ###### Artículo 23.
 
 La tasa de interés aplicada a los Préstamos Hipotecarios se actualizará cada semestre del año y será la equivalente al promedio simple del semestre anterior, de la tasa de interés interbancaria de equilibrio (TIIE), de 91 días, más 4.5 puntos porcentuales conforme a las recomendaciones actuariales.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2010)</small>
+
+En cualquier momento, la H. Junta Directiva podrá modificar la tasa de interés aplicable a los préstamos hipotecarios, ante condiciones macroeconómicas desfavorables, con el fin de evitar la descapitalización del fondo de préstamos.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -606,3 +614,9 @@ P.O. 21 DE OCTUBRE DE 2009.
 Artículo Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+P.O. 2 DE JUNIO DE 2010.
+
+Artículo Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente reglamento.
