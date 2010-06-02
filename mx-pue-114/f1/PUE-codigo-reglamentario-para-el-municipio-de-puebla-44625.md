@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2010-05-28"
+last_updated: "2010-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -5083,7 +5083,9 @@ IV.- Constituirse en Sesión Permanente en caso de producirse un desastre, a fin
 
 V.- Las demás funciones que le encomiende el Presidente Municipal.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+INTEGRACIÓN DE LA UNIDAD OPERATIVA MUNICIPAL DE PROTECCIÓN CIVIL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 393.
 
@@ -5617,13 +5619,11 @@ DE LAS MEDIDAS DE SEGURIDAD
 
 Como resultado del informe de visita de inspección, la Unidad Operativa Municipal de Protección Civil, adoptará y ejecutará las medidas de seguridad y protección encaminadas a evitar los daños que se puedan causar a la población, a las instalaciones, construcciones o bienes de interés general las que tiendan a garantizar el normal funcionamiento de los servicios esenciales para la comunidad e impedir cualquier situación que afecte a la seguridad o salud pública. Las medidas de seguridad se aplicarán sin perjuicios de las sanciones que, en su caso, correspondan.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 445 Bis.
 
 Para la determinación y aplicación de las medidas preventivas y de seguridad de protección civil se estará a lo dispuesto en la Ley, en este Capítulo, y en los convenios suscritos con las dependencias estatales y federales.
-
-INTEGRACIÓN DE LA UNIDAD OPERATIVA MUNICIPAL DE PROTECCIÓN CIVIL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 446.
 
@@ -9639,7 +9639,7 @@ V. Facilitar la inspección sanitaria, exhibiendo la documentación comprobatori
 
 VI. Cumplir con la normatividad municipal, estatal y federal vigente aplicables en la materia.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS EN LOS MERCADOS TEMPORALES
 
@@ -9659,15 +9659,15 @@ V. La carne de aves muertas deberá estar exenta de los colorantes denominados s
 
 VI. Las vísceras y el pollo estarán separados y refrigerados, en caso de no contar con refrigerador deberán mantenerse cubiertos con hielo molido.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al “Servicio de Transporte del Producto Cárnico y sus Derivados”, por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
+Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al "Servicio de Transporte del Producto Cárnico y sus Derivados", por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -9675,7 +9675,7 @@ DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo “De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas”, y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
 
 Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
 
@@ -15814,6 +15814,8 @@ El personal de la UOMPROCI que sea designado para este tipo de inspecciones debe
 ###### Artículo 1163.
 
 La Dirección o la UOMPROCI ordenarán al personal autorizado, la realización de la visita de inspección correspondiente, tendiente a valorar el grado de riesgo. Para emitir el dictamen técnico correspondiente, y así señalar las medidas de seguridad que procedan.
+
+Para tener acceso a la zona o inmueble objeto de la visita, bastará orden escrita, debidamente fundada y motivada. En caso de que no se permita el acceso al mismo, se podrá realizar con el auxilio de la fuerza pública o personal del ejército. Previo extrañamiento al poseedor, propietario o Director Responsable de Obra para el uso de la fuerza publica.
 
 ###### Artículo 1164.
 
@@ -22997,7 +22999,7 @@ Los productos cárnicos que se transporten en el Municipio, deberán estar ampar
 
 El producto cárnico que se transporte sin cumplir con lo dispuesto en el artículo anterior será decomisado por la autoridad municipal y sometido a inspección sanitaria; adoptando las medidas señaladas en el artículo 1637 Bis del presente Código.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -29091,7 +29093,7 @@ I. El Presidente Municipal, quien designará y podrá revocar en cualquier momen
 
 II. La Comisión Municipal de Box y Lucha Libre, es un cuerpo técnico en materia de ambos deportes y en su funcionamiento como Órgano Auxiliar será autónomo. Dependerá administrativamente de la Presidencia Municipal. Sus funciones se sujetarán a las prescripciones contenidas en el presente Capítulo y a las señaladas por el Departamento de Espectáculos, para efectos de expedición de las respectivas licencias que permitan la presentación de espectáculos y exhibiciones en que tengan lugar encuentros de Box y Lucha Libre en el Municipio;
 
-III. La Tesorería Municipal, cobrará el respectivo Impuesto Sobre Diversiones y Espectáculos Públicos, de acuerdo a lo establecido por el Título Segundo Capítulo II de la Ley de Ingresos del Municipio de Puebla y de lo establecido por el Título Segundo Capítulo III del Código Fiscal y Presupuestario para el Municipio de Puebla, así como de tener la legitima facultad de intervenir la taquilla, suspender o clausurar espectáculos, exhibiciones o presentaciones en que tengan lugar encuentros de Box y Lucha Libre, por la negativa del pago de este impuesto o cuando se violenten disposiciones previstas en la normatividad fiscal aplicable vigente, y
+III. La Tesorería Municipal, cobrará el respectivo Impuesto Sobre Diversiones y Espectáculos Públicos, de acuerdo a lo establecido por el Título Segundo Capítulo III de la Ley de Ingresos del Municipio de Puebla y de lo establecido por el Título Segundo Capítulo III del Código Fiscal y Presupuestario para el Municipio de Puebla, así como de tener la legitima facultad de intervenir la taquilla, suspender o clausurar espectáculos, exhibiciones o presentaciones en que tengan lugar encuentros de Box y Lucha Libre, por la negativa del pago de este impuesto o cuando se violenten disposiciones previstas en la normatividad fiscal aplicable vigente, y
 
 IV. El Departamento de Espectáculos, quien será el encargado de la estricta observancia del presente Capítulo, del boletaje y precio de entrada, así como lo referente a la expedición de la correspondiente autorización a los lugares en los que se lleve a cabo la presentación de espectáculos y exhibiciones en que tengan lugar encuentros de Box y Lucha Libre en el Municipio.
 
@@ -30591,7 +30593,7 @@ II. Los que celebre un representante o promotor con una empresa, respecto a una 
 
 III. Los de exclusividad, celebrados por un promotor o representante con una empresa para el efecto de que el boxeador actúe bajo su promoción por un tiempo determinado, de acuerdo con las cláusulas en el contrato respectivo, o entre éstos y el boxeador directamente en condiciones especiales.
 
-Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en que se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
+Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos admninistrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en que se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
 
 Una vez registrado y autorizado el contrato, se entregará un tanto al representante, otro al boxeador y el restante quedará depositado en el archivo de la Comisión.
 
@@ -30935,7 +30937,7 @@ I. Amonestaciones públicas o privadas;
 
 II. Sanciones económicas, que puede ir de los diez a los cien días de salario mínimo general vigente de la zona tomando en cuanta los antecedentes de los infractores, la gravedad de la falta y de las circunstancias que hayan mediado el caso;
 
-III. Suspensión temporal de la licencia que puedan ser de quince días hasta un año, para poder presentar o actuar en espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio, a juicio de la Comisión y tomando en cuenta las circunstancias señaladas en la fracción anterior, y
+III. Suspensión temporal de la licencia que pueden ser de quince días hasta un año, para poder presentar o actuar en espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio, a juicio de la Comisión y tomando en cuenta las circunstancias señaladas en la fracción anterior, y
 
 IV. Suspensión definitiva de la licencia para poder presentar o actuar en espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio, a juicio de la Comisión.
 
