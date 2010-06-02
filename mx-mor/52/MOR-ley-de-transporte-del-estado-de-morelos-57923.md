@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transporte-del-estado-de-morelos-57923"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-12"
-last_updated: "2009-02-25"
+last_updated: "2010-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de diciembre de 2007.
 
@@ -35,11 +35,9 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
-CONSIDERANDO.
+CONSIDERANDO...
 
-.
-
-Por lo anteriormente expuesto, esta Soberanía ha tenido ha bien expedir la siguiente:
+Por lo anteriormente expuesto, esta Soberanía ha tenido ha (sic) bien expedir la siguiente:
 
 LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
@@ -95,9 +93,9 @@ IV.- Horario: Documento autorizado por la Dirección General de Transportes, que
 
 V.- Ley: Ley de Transporte del Estado de Morelos;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
 
-VI.- Operativo: Acto administrativo por el que la Secretaría de Seguridad Pública, ejerce las facultades para supervisar y verificar el cumplimiento a lo dispuesto por la presente Ley y su Reglamento;
+VI.- Operativo: Acto administrativo por el que la Secretaría, ejerce las facultades para supervisar y verificar el cumplimiento a lo dispuesto por la presente Ley y su Reglamento;
 
 VII.- Permiso: Autorización que otorga la Dirección General de Transportes para operar servicios de transporte como son de carga, turismo, estudiantil, de personal y de arrastre, así como los servicios auxiliares del servicio de transporte público.
 
@@ -143,7 +141,7 @@ I. Del titular del Poder Ejecutivo: El Gobernador Constitucional del Estado Libr
 
 II. De la Secretaría de Gobierno: El Secretario de Gobierno del Estado de Morelos;
 
-III. De la Secretaría de Seguridad Pública: El Secretario de Seguridad Pública, y
+III. (DEROGADA, P.O. 2 DE JUNIO DE 2010)
 
 IV. De la Dirección General de Transportes: El Director General de Transportes del Gobierno del Estado de Morelos.
 
@@ -209,7 +207,9 @@ VII.- Autorizar los convenios que los concesionarios celebren entre sí y, en su
 
 VIII.- El monto y tabulador de las sanciones será conforme a lo estipulado en el Reglamento de Transporte del Estado de Morelos;
 
-IX.- Imponer las sanciones que procedan de conformidad con la presente Ley y su Reglamento, y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+IX.- Vigilar e inspeccionar que el servicio de transporte público y privado se preste en los términos y condiciones señalados en la legislación vigente, en las concesiones y permisos respectivos; Resguardar los documentos y placas depositadas con motivo de las infracciones y sanciones al servicio de transporte público y privado, e imponer las sanciones que procedan de conformidad con la presente Ley y su Reglamento, y
 
 X.- Las demás que le encomiende el titular del Poder Ejecutivo, así como las establecidas por las disposiciones jurídicas y administrativas aplicables.
 
@@ -311,7 +311,7 @@ Los titulares de las Delegaciones, serán nombrados por el Director General de T
 
 Los Delegados Regionales tendrán las siguientes atribuciones:
 
-I.- (DEROGADA, P.O. 29 DE OCTUBRE DE 2008)
+l.- (DEROGADA, P.O. 29 DE OCTUBRE DE 2008)
 
 II.- Informar periódicamente al Director General de Transportes, sobre el cumplimiento de objetivos y metas, así como de las actividades e incidencias ocurridas en su jurisdicción;
 
@@ -363,9 +363,7 @@ I. El Titular del Poder Ejecutivo.
 
 II. El Secretario de Gobierno.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2008)</small>
-
-III. El Secretario de Seguridad Pública.
+III. (DEROGADA, P.O. 2 DE JUNIO DE 2010)
 
 IV. El Secretario de Planeación y Finanzas.
 
@@ -393,9 +391,9 @@ XV. A invitación expresa de la Secretaría de Gobierno, la autoridad municipal 
 
 El titular del Poder Ejecutivo presidirá el Consejo y tendrá voto de calidad; el Secretario de Gobierno fungirá como Secretario Ejecutivo y el Director General de Transportes, como Secretario Técnico del Consejo Consultivo del Transporte.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2010)</small>
 
-Los funcionarios a que se refieren las fracciones I, II, III, IV, V, VIII, IX y XIV, tendrán voz y voto en las sesiones del Consejo, los demás integrantes sólo voz.
+Los funcionarios a que se refieren las fracciones I, II, IV, VII, IX y XIII, tendrán voz y voto en las sesiones del Consejo, los demás integrantes sólo voz.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
 
@@ -463,7 +461,7 @@ I.- Con itinerario fijo.- Es el que se presta en una o varias rutas, con paradas
 
 El horario a que se sujetará el servicio, previa autorización por la Dirección General de Transportes, deberá contener como mínimo, nombre del concesionario, itinerario, horas de inicio y término del servicio, distancias, ubicación de los servicios auxiliares y firma del concesionario.
 
-II.- Sin itinerario fijo.- Es el que se presta sin sujeción a ruta, circunscrito a un ámbito territorial, con tarifas autorizadas, en las condiciones y con los vehículos que se determinen en el Reglamento.
+Il.- Sin itinerario fijo.- Es el que se presta sin sujeción a ruta, circunscrito a un ámbito territorial, con tarifas autorizadas, en las condiciones y con los vehículos que se determinen en el Reglamento.
 
 III.- Urbano.- Es el destinado a las zonas y áreas, que integran un centro de población, en las condiciones y con los vehículos que se determinen en el Reglamento.
 
@@ -1105,7 +1103,7 @@ El titular de la Dirección General de Transportes será el responsable del Regi
 
 La Secretaría de Seguridad Pública, a través de las áreas que para tal efecto designe, remitirá a la Dirección General de Transportes la información a que se refiere la fracción VI del artículo 74 de esta ley, y tendrá acceso al Registro Estatal de Concesionarios y Permisionarios del Servicio de Transporte Público para poder ejercer debidamente la supervisión, el control y la vigilancia del transporte.
 
-Asimismo el titular de la Dirección General de Transportes será responsable de la confidencialidad, guarda y reserva de los registros e información contenida en el Registro Estatal de Concesionarios y Permisionarios del Servicio de Transporte Público a excepción de mandato expreso e informe solicitado a cargo de la autoridad judicial o administrativa competente.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 2 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 74.
 
@@ -1311,11 +1309,11 @@ IV.- Cívica; y
 
 V.- Electoral y/o Política.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 89.
 
-Son atribuciones de la Secretaría de Seguridad Pública:
+Son atribuciones de la Secretaría:
 
 l.- Vigilar que las frases, palabras, objetos, fotografías y/o dibujos que se utilicen no atente contra la moral, las buenas costumbres, la dignidad humana ni se estime como inscripciones despectivas u ofensivas;
 
@@ -1395,19 +1393,19 @@ II.- Certificar los cursos requeridos por la Dirección General de Transportes p
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 102.
 
-Corresponde a la Secretaría de Gobierno, a través de la Dirección General de Transportes, controlar y regular la prestación de los servicios de transporte en cualquiera de sus modalidades, en los términos de esta Ley y su Reglamento, así como de la Ley de Procedimiento Administrativo para el Estado de Morelos.
+Corresponde a la Secretaría, a través de la Dirección General de Transportes, controlar y regular la prestación de los servicios de transporte en cualquiera de sus modalidades, mediante los operativos en vía pública y las visitas de verificación domiciliarias que estime convenientes en los términos de esta Ley y su Reglamento, así como de la Ley de Procedimiento Administrativo para el Estado de Morelos.
 
-Corresponde a la Secretaría de Seguridad Pública, de conformidad con lo dispuesto por la Ley del Sistema Integral de Seguridad Pública del Estado de Morelos, vigilar y supervisar mediante los operativos en vía pública y las visitas de verificación domiciliarias que estime convenientes, que el servicio de transporte público y privado se preste con vehículos adecuados y operadores capacitados en conducción segura y de cortesía, que obtengan la capacitación a cargo de la Secretaría de Seguridad Pública o del Colegio Estatal de Seguridad Pública, los conductores certificados son los únicos autorizados para el servicio público de transporte, mediante las concesiones y permisos respectivos, en los términos y condiciones señalados en la legislación vigente, y en coordinación con la Dirección General de Transportes, en los casos que así se requiera.
+Por su parte, corresponde a la Secretaría vigilar la prestación de los servicios de transporte en cualquiera de sus modalidades, mediante los operativos en vía pública y las visitas de verificación domiciliarias que estime convenientes en los términos de esta Ley y su Reglamento, así como de la Ley de Procedimiento Administrativo para el Estado de Morelos.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 103.
 
-Los concesionarios, permisionarios y operadores del servicio de transporte, están obligados a proporcionar a los elementos adscritos a la Policía Estatal de Caminos y Auxilio Turístico, o a las policías estatales nombrados para tal efecto por la Secretaría de Seguridad Pública, previa acreditación como tales, los informes, documentos y datos que sean necesarios para el ejercicio de sus funciones.
+Los concesionarios, permisionarios y operadores del servicio de transporte, están obligados a proporcionar a los Supervisores nombrados para tal efecto por la Secretaría, previa acreditación como tales, los informes, documentos y datos que sean necesarios para el ejercicio de sus funciones.
 
 ###### ARTÍCULO 104.
 
@@ -1551,11 +1549,11 @@ Para declarar la nulidad de las concesiones se estará a lo dispuesto por la Ley
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 120.
 
-Las resoluciones y acuerdos que en materia de transporte público emitan el titular del Poder Ejecutivo, el Secretario de Gobierno, así como el Director General de Transportes y, en su caso, la Secretaría de Seguridad Pública a través de las áreas designadas para tal efecto, podrán ser modificados, revocados o anulados por las propias autoridades, previa presentación del recurso de revisión que se interponga ante los mismos, dentro del plazo de quince días hábiles siguientes al que se surta efectos su notificación, en los términos de la Ley de Procedimiento Administrativo para el Estado de Morelos o, en su defecto, mediante el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado, de acuerdo a lo establecido en la Ley de Justicia Administrativa del Estado de Morelos.
+Las resoluciones y acuerdos que en materia de transporte público emitan el titular del Poder Ejecutivo, el Secretario de Gobierno, así como el Director General de Transportes, podrán ser modificados, revocados o anulados por las propias autoridades, previa presentación del recurso de revisión que se interponga ante los mismos, dentro del plazo de quince días hábiles siguientes al que se surta efectos su notificación, en los términos de la Ley de Procedimiento Administrativo para el Estado de Morelos o, en su defecto, mediante el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado, de acuerdo a lo establecido en la Ley de Justicia Administrativa del Estado de Morelos.
 
 ## TRANSITORIOS
 
@@ -1668,3 +1666,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación.
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
+
+P.O. 2 DE JUNIO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Los reglamentos de las leyes y reglamentos interiores de las dependencias relacionados con la materia del presente Decreto, deberán de modificarse en un plazo de 90 días hábiles a partir de la entrada en vigor del presente Decreto; en tanto, se mantendrán vigentes los actuales, considerando que la Secretaría de Gobierno, ejercerá las atribuciones que en materia de vigilancia e inspección del transporte tiene consignado el Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO.- Los asuntos que con motivo de este Decreto deban pasar de la Secretaría de Seguridad Pública a la Secretaría de Gobierno, permanecerán en el último trámite que hubieren alcanzado hasta que el personal o las unidades administrativas de la Secretaría de Seguridad Pública que deban conocer de los mismos, se incorporen a la Secretaría de Gobierno, con excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por la Secretaría que actualmente tenga el asunto a su cargo, fundamentando para ello sus actuaciones en las normas que les dieron origen a dichos trámites.
+
+CUARTO.- Las Secretarías de Finanzas y Planeación, Gestión e Innovación Gubernamental y de la Contraloría, coordinarán con la intervención que corresponda a las Secretarías de Seguridad Pública y Gobierno, el proceso de transferencia de los recursos humanos, materiales y financieros para hacer operativas las disposiciones contenidas en el presente Decreto.
