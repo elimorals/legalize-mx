@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fiscalizacion-superior-del-estado-de-michoacan-29561"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-28"
-last_updated: "2007-11-21"
+last_updated: "2010-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 2010.
 
 Ley publicada en la Sección Segunda el Periódico Oficial del Estado de Michoacán, el viernes 28 de marzo de 2003.
 
@@ -463,11 +463,11 @@ Cuando conforme a esta Ley, los órganos internos de control colaboren con la Au
 
 ### CAPÍTULO SÉPTIMO. DEL INFORME DE RESULTADOS
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 25.
 
-La Auditoria Superior presentará al Congreso, el Informe de Resultados de la revisión, fiscalización y evaluación de la cuenta pública de las entidades, en el mes de septiembre del año en que fueron recibidas, salvo causa justificada que califique la Comisión, quien podrá otorgar prórroga hasta por quince días naturales.
+La Auditoría Superior presentará al Congreso, el Informe de Resultados de la Revisión, Fiscalización y Evaluación de la Cuenta Pública de las Entidades, a más tardar el día 15 del mes de noviembre del año en que fueron recibidas.
 
 ###### ARTÍCULO 26.
 
@@ -832,3 +832,13 @@ En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Es
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dése cuenta del presente Decreto, al Titular de la Auditoría Superior de Michoacán, y la Comisión Inspectora de la Auditoría Superior de Michoacán del Congreso del Estado de Michoacán de Ocampo, para su conocimiento y efectos conducentes.
