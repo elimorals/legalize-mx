@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-32-2005-del-pleno-del-consejo-de-la-45755"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-08-19"
-last_updated: "2008-03-14"
+last_updated: "2010-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45755&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-08-10"
 
 ACUERDO GENERAL 32/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PRESTACIONES MEDICAS COMPLEMENTARIAS Y DE APOYO ECONOMICO EXTRAORDINARIO A LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DE LA FEDERACION, CON EXCEPCION DE LOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL TRIBUNAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2010.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 19 de agosto de 2005.
 
@@ -169,29 +169,25 @@ Los servidores públicos podrán, en cualquier momento, realizar donativos que p
 
 ## TITULO SEGUNDO. De los Beneficiarios del Plan
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 9/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE JUNIO DE 2010)</small>
+
 ###### Artículo 6.
 
-Serán beneficiarios del Plan las siguientes personas:
+Serán beneficiarias del Plan las siguientes personas:
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+I. Los servidores públicos con nivel de puesto del 21 al 33 de conformidad con el Manual General de Puestos del Consejo;
 
-I. Los servidores públicos con nivel de puesto del 21 al 33 de conformidad con el Manual General de Puestos del Consejo y, en casos excepcionales, los de niveles 1 al 20;
+II. Los servidores públicos con nivel de puesto 1 al 20 del Manual General de Puestos del Consejo, siempre y cuando las prestaciones médicas a que se refiere el artículo 4 del presente Acuerdo General no las cubra el ISSSTE y, solamente en forma excepcional, se les podrán otorgar, a juicio de la Comisión, en términos del artículo 16, dichas prestaciones médicas;
 
-II. El cónyuge, concubina o concubinario del servidor público a que se refiere la fracción anterior;
+III. El cónyuge, concubina o concubinario de los servidores públicos a que se refieren las fracciones anteriores;
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+IV. Los hijos de los servidores públicos mencionados en las fracciones I y II de este artículo, menores de dieciocho años; los que tengan entre dieciocho y veinticinco años, siempre que permanezcan solteros y sean estudiantes; y los mayores de dieciocho años, solteros, que se encuentren incapacitados;
 
-III. Los hijos de los servidores públicos mencionados en la fracción I de este artículo menores de dieciocho años; los que tengan entre dieciocho y veinticinco años, siempre que permanezcan solteros y sean estudiantes; y los mayores de dieciocho años, solteros, que se encuentren incapacitados;
+V. Los padres de los servidores públicos señalados en las fracciones I y II de este artículo, que no reciban prestaciones del Instituto Mexicano del Seguro Social o del ISSSTE, ni de otra institución de seguridad social, siempre que dependan económicamente de éstos, lo cual deberá comprobarse a satisfacción de la Comisión;
 
-IV. Los padres de los servidores públicos señalados en la fracción I de este artículo, que no reciban prestaciones del Instituto Mexicano del Seguro Social o del ISSSTE, ni de otra institución de seguridad social, siempre que dependan económicamente de éstos, lo cual deberá comprobarse a satisfacción de la Comisión;
+VI. Las personas jubiladas del Poder Judicial, únicamente para lo establecido en el artículo 4, fracción VIII, de este Acuerdo; y
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
-
-V. Las personas jubiladas del Poder Judicial, únicamente para lo establecido en el artículo 4, fracción VIII, de este Acuerdo; y
-
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
-
-VI. Aquellos servidores públicos que estén en el período prejubilatorio, entendiéndose por ello, cuando estén realizando los trámites correspondientes para jubilarse y disfruten de la licencia correspondiente.
+VII. Aquellos servidores públicos que se encuentren en el período prejubilatorio, entendiéndose por ello, cuando estén realizando los trámites para jubilarse y disfruten de la licencia correspondiente.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
@@ -199,13 +195,11 @@ VI. Aquellos servidores públicos que estén en el período prejubilatorio, ente
 
 Para que un servidor público pueda ser beneficiario del Plan, deberá haber incrementado la suma asegurada en su Seguro de Gastos Médicos Mayores, al nivel inmediato superior al que pague el Consejo como prestación de acuerdo con la clasificación de su puesto, previamente a que se diagnostique el padecimiento, ocurra el accidente, o se realice el primer reclamo a la Compañía Aseguradora con la que se maneje el Seguro de Gastos Médicos Mayores, con motivo del siniestro por el cual se requiera la prestación médica, lo que acontezca primero.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 9/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE JUNIO DE 2010)</small>
 
 ###### Artículo 8.
 
-Para que se pueda otorgar la prestación médica a las personas mencionadas en las fracciones II, III y IV del artículo 6 de este Acuerdo, el servidor público de que se trate debe haberlos designado como asegurados en la póliza del Seguro de Gastos Médicos Mayores.
-
-> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+Para que se pueda otorgar la prestación médica a las personas mencionadas en las fracciones III, IV y V del artículo 6 de este Acuerdo, el servidor público de que se trate debe haberlos designado como asegurados en la póliza del Seguro de Gastos Médicos Mayores.
 
 Cualquier otro caso no previsto expresamente en este Acuerdo será resuelto por la Comisión.
 
@@ -349,11 +343,11 @@ Al momento de presentar la propuesta de resolución correspondiente, Servicios a
 
 Las resoluciones serán firmadas por el Presidente de la Comisión, por el titular de Servicios al Personal y por el Secretario Técnico de la Comisión, quien autorizará y dará fe de éstas.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 9/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE JUNIO DE 2010)</small>
 
 ###### Artículo 16.
 
-Tratándose de solicitudes de servidores públicos con nivel de puesto 1 al 20, la Comisión evaluará si se trata de una situación excepcional y, en caso de estimarlo así, remitirá el asunto al Pleno para que emita la resolución respectiva.
+Tratándose de solicitudes de servidores públicos con nivel de puesto 1 al 20, que soliciten el apoyo respecto de prestaciones médicas que cubre el ISSSTE, se remitirán a la Comisión, la cual evaluará si se trata de una situación excepcional y, en caso de estimarlo así, remitirá el asunto al Pleno para que emita la resolución respectiva.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
@@ -431,23 +425,23 @@ II. Cuando el servidor público de que se trate incumpla con lo previsto en el p
 
 III. Cuando así lo determine, razonadamente, la Comisión o el Pleno.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 9/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE JUNIO DE 2010)</small>
 
 ###### Artículo 25.
 
 Procederá la cancelación de la prestación médica otorgada, en los siguientes casos:
 
-I. Cuando para obtenerla el servidor público de que se trate proporcione datos falsos que induzcan al error o se aprovechen de aquél en que Servicios al Personal hubiese incurrido;
+I. Cuando para obtenerla, el servidor público de que se trate proporcione datos falsos que induzcan al error o se aproveche de aquél en que Servicios al Personal hubiese incurrido;
 
 II. Cuando en más de tres ocasiones consecutivas, el servidor público beneficiado entregue, sin justificación, los comprobantes de gasto y documentación clínica comprobatoria fuera del plazo previsto para tal efecto en el primer párrafo del artículo 19 de este Acuerdo;
 
-III. Cuando el servidor público beneficiado incumpla con las condiciones que hubieran dado lugar a la suspensión prevista en la fracción II del artículo 24 de este Acuerdo;
+III. Cuando al servidor público a quien se le hubiera suspendido el pago de la prestación médica, en términos de la fracción II del artículo 24 de este Acuerdo, no cumpla, dentro de los 15 días hábiles siguientes a la suspensión, con la entrega de la documentación faltante motivo de la suspensión;
 
-IV. Cuando los beneficiarios a que se refiere la fracción I del artículo 6 de este Acuerdo, dejen de laborar en el Poder Judicial de la Federación, dicha cancelación se hará extensiva, en su caso, a los beneficiarios indicados en las fracciones II a IV del mencionado artículo 6;
+IV. Cuando los beneficiarios a que se refieren las fracciones I y II del artículo 6 de este Acuerdo, dejen de laborar en el Poder Judicial de la Federación, dicha cancelación se hará extensiva, en su caso, a los beneficiarios indicados en las fracciones III a V del mencionado artículo 6;
 
-V. Cuando los beneficiarios a que se refiere la fracción III del artículo 6 de este Acuerdo, cumplan veinticinco años de edad, excepto los incapaces;
+V. Cuando los beneficiarios a que se refiere la fracción IV del artículo 6 de este Acuerdo, cumplan veinticinco años de edad, excepto los incapaces;
 
-VI. Tratándose de los beneficiarios a que se refiere la fracción VI del artículo 6 de este Acuerdo, al cumplirse seis meses del otorgamiento de la prestación médica, contados a partir del día siguiente al en que surta efectos la baja por jubilación, excepto para lo establecido en la fracción VIII del artículo 4 de este Acuerdo; y
+VI. Tratándose de los beneficiarios a que se refiere la fracción VII del artículo 6 de este Acuerdo, al cumplirse seis meses del otorgamiento de la prestación médica, contados a partir del día siguiente al en que surta efectos la baja por jubilación, excepto para lo establecido en la fracción VIII del artículo 4 de este Acuerdo; y
 
 VII. En los demás casos que así lo determine la Comisión.
 
@@ -516,3 +510,11 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General 32/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Prestaciones Médicas Complementarias y de Apoyo Económico Extraordinario a los Servidores Públicos del Poder Judicial de la Federación, con Excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+
+D.O.F. 2 DE JUNIO DE 2010.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 32/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Prestaciones Médicas Complementarias y de Apoyo Económico Extraordinario a los Servidores Públicos del Poder Judicial de la Federación, con Excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
