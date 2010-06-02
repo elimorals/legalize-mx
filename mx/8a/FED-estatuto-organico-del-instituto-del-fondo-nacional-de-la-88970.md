@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-88970"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-12-29"
-last_updated: "2009-12-29"
+last_updated: "2010-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88970&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-11-20"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2010.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 29 de diciembre de 2009.
 
@@ -441,19 +441,9 @@ II. Coordinar con las autoridades reguladoras y con los participantes de los Sis
 
 ### Capítulo VI. De la Subdirección General de Sustentabilidad Social
 
+> <small>(REFORMADO Y REUBICADO, D.O.F. 2 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 32.
-
-Respecto a la captación de recursos a través de fuentes alternas sus facultades y funciones son:
-
-I. Realizar estudios y análisis de los mercados financieros;
-
-II. Instrumentar alternativas para incrementar los recursos que se canalizan al programa de crédito;
-
-III. Asegurar la obtención de los recursos financieros proyectados en el Plan Financiero del Infonavit provenientes de fuentes alternas, y
-
-IV. Administrar las relaciones del Infonavit con inversionistas, agencias calificadoras y participantes en el sistema financiero.
-
-###### ARTICULO 33.
 
 Respecto a la calidad y al valor patrimonial de las viviendas, y a la mejora del nivel de vida de los acreditados, sus facultades y funciones son:
 
@@ -471,13 +461,15 @@ VI. Promover el desarrollo de vivienda de calidad preservable que genere plusval
 
 VII. Incorporar e identificar los atributos de la vivienda, del conjunto habitacional y de entorno urbano que proporcionan, a quien la habita, un mayor confort y calidad de vida;
 
-VIII. Fortalecer el Indice de Calidad de la Vivienda como herramienta de orientación y referencia sobre la calidad de la (sic) viviendas, del conjunto habitacional y del entorno urbano; que satisfaga los requerimientos de los diferentes usuarios de la información;
+VIII. Fortalecer el Indice de Calidad de la Vivienda como herramienta de orientación y referencia sobre la calidad de las viviendas, del conjunto habitacional y del entorno urbano; que satisfaga los requerimientos de los diferentes usuarios de la información;
 
 IX. Promover la construcción de viviendas con atributos de calidad que satisfagan las necesidades de los derechohabientes y, mantengan o incrementen su plusvalía, y
 
 X. Promover la construcción de viviendas ecológicas y hogares digitales.
 
-###### ARTICULO 34.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2010)</small>
+
+###### ARTICULO 33.
 
 Respecto a la enseñanza, sus facultades y funciones son:
 
@@ -493,11 +485,15 @@ V. Desarrollar conciencia sobre el valor patrimonial de la vivienda para fortale
 
 VI. Desarrollar planes con contenido cívico, social y ecológico que tengan por objeto incrementar la calidad de vida de los derechohabientes.
 
-###### ARTICULO 35.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2010)</small>
+
+###### ARTICULO 34.
 
 Respecto a las relaciones con los distintos actores que intervienen en el desarrollo de vivienda, deberá establecer, gestionar y medir el desempeño de las alianzas y redes que contribuyan a que el Infonavit pueda ofrecer mejor calidad de vida a sus derechohabientes y acreditados.
 
-###### ARTICULO 36.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2010)</small>
+
+###### ARTICULO 35.
 
 Respecto a la supervisión de la operación de las Delegaciones Regionales y de la Delegación del Distrito Federal, sus facultades y funciones son:
 
@@ -505,7 +501,9 @@ I. Realizar evaluaciones periódicas de su operación, en el cumplimiento de los
 
 II. Administrar la reserva territorial del Infonavit, dando cumplimiento al mandato de enajenar la totalidad de la misma.
 
-###### ARTICULO 37.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2010)</small>
+
+###### ARTICULO 36.
 
 Respecto a la coordinación con autoridades estatales y municipales, sus facultades y funciones son:
 
@@ -513,9 +511,9 @@ I. Establecer, en coordinación con las Delegaciones Regionales, las relaciones 
 
 II. Coordinar la celebración de convenios con las autoridades municipales, estatales y federales, así como con los representantes de los sectores involucrados en la vida institucional.
 
-### Capítulo VII. De la Subdirección General de Planeación y Finanzas
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2010)</small>
 
-###### ARTICULO 38.
+###### ARTICULO 37.
 
 Respecto a la atención a los derechohabientes, acreditados, patrones y público usuario en general a través de canales alternos, sus facultades y funciones son:
 
@@ -527,7 +525,11 @@ III. Establecer los mecanismos para asegurar la homogeneidad y consistencia de l
 
 IV. Recibir y dar respuesta a las dudas, aclaraciones, peticiones de servicio dirigidas al Infonavit, a través de cualquier canal de atención.
 
-###### ARTICULO 39.
+### Capítulo VII. De la Subdirección General de Planeación y Finanzas
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 2 DE JUNIO DE 2010)</small>
+
+###### ARTICULO 38.
 
 Respecto a la administración de recursos financieros, sus facultades y funciones son:
 
@@ -539,21 +541,25 @@ III. Administrar los recursos financieros con que cuenta el Infonavit y los dep�
 
 IV. Realizar los cálculos de los remanentes de operación de cada ejercicio para aplicar al pago de intereses de las subcuentas de vivienda de los derechohabientes y asegurar el rendimiento de los fondos.
 
-###### ARTICULO 40.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2010)</small>
+
+###### ARTICULO 39.
 
 Respecto a la administración de riesgos, sus facultades y funciones son:
 
 I. Difundir la normatividad de administración de riesgos al personal del Infonavit;
 
-II. Previa autorización de la Dirección General, proponer para aprobación del Consejo de Administración, la normatividad, metodologías, modelos y parámetros para la administración de riesgos que el Infonavit requiera para su adecuado funcionamiento, así como sus actualizaciones anuales;
+II. Proponer para aprobación del Consejo de Administración, a través del Comité de Riesgos, la normatividad, metodologías, modelos y parámetros para la administración de riesgos que el Infonavit requiera para su adecuado funcionamiento, así como sus actualizaciones anuales;
 
 III. Identificar, evaluar, administrar y divulgar los riesgos a los que está expuesto el Infonavit;
 
 IV. Administrar los seguros institucionales, y
 
-V. Informar periódicamente a la Dirección General y al Consejo de Administración, la situación de las exposiciones de riesgo del Infonavit.
+V. Informar periódicamente al Consejo de Administración, a través del Comité de Riesgos, la situación de las exposiciones de riesgo del Infonavit.
 
-###### ARTICULO 41.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2010)</small>
+
+###### ARTICULO 40.
 
 Respecto a la planeación y seguimiento a programas, sus facultades y funciones son:
 
@@ -565,15 +571,21 @@ III. Coordinar la elaboración del Informe Anual de Actividades, y
 
 IV. Elaborar y dar seguimiento a la planeación financiera del Infonavit.
 
-###### ARTICULO 42.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2010)</small>
+
+###### ARTICULO 41.
 
 Respecto al control financiero, deberá vigilar la conciliación y el reflejo adecuado de las cifras e informes contables y financieros.
 
-###### ARTICULO 43.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2010)</small>
+
+###### ARTICULO 42.
 
 Respecto a la mejora de procesos deberá establecer y administrar los métodos para asegurar la medición del desempeño de los proyectos institucionales.
 
-###### ARTICULO 44.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2010)</small>
+
+###### ARTICULO 43.
 
 Respecto a la administración de los recursos materiales y servicios, sus facultades y funciones son:
 
@@ -582,6 +594,20 @@ I. Administrar los bienes muebles e inmuebles del Infonavit;
 II. Administrar los archivos de concentración e históricos de documentos del Infonavit, exceptuando los expedientes de crédito, y
 
 III. Normar y controlar los procesos de adquisiciones y arrendamientos de bienes y servicios.
+
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2010)</small>
+
+###### ARTICULO 44.
+
+Respecto a la captación de recursos a través de fuentes alternas sus facultades y funciones son:
+
+I. Realizar estudios y análisis de los mercados financieros;
+
+II. Instrumentar alternativas para incrementar los recursos que se canalizan al programa de crédito;
+
+III. Asegurar la obtención de los recursos financieros proyectados en el Plan Financiero del Infonavit provenientes de fuentes alternas, y
+
+IV. Administrar las relaciones del Infonavit con inversionistas, agencias calificadoras y participantes en el sistema financiero.
 
 ### Capítulo VIII. De la Subdirección General de Tecnologías
 
@@ -688,3 +714,11 @@ En todas las disposiciones donde se haga mención a la Coordinación del Distrit
 Atentamente
 
 Dado en la Ciudad de México, Distrito Federal, a los 20 días del mes de noviembre de 2009, en cumplimiento al Acuerdo número 1443, tomado en la sesión ordinaria número 96 de la H. Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.- El Secretario General y de Asuntos Jurídicos, Jorge Pulido Vázquez.- Rúbrica.- El Gerente de Organos Colegiados Centrales, Javier Delgado Parra.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 2 DE JUNIO DE 2010.
+
+###### ARTICULO UNICO.
+
+Las presentes adecuaciones al Estatuto Orgánico del Instituto del Fondo Nacional de la Vivienda para los Trabajadores entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
