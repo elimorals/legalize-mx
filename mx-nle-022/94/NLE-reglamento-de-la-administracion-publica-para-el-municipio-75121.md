@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-administracion-publica-para-el-municipio-75121
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-04"
-last_updated: "1999-06-04"
+last_updated: "2010-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE LA ADMINISTRACION PUBLICA PARA EL MUNICIPIO DE GENERAL TERAN, NUEVO LEON
 
-REGLAMENTO DE LA ADMINISTRACION PUBLICA PARA EL MUNICIPIO DE GENERAL TERAN, NUEVO LEON
+REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE GENERAL TERAN, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE GENERAL TERÁN, NUEVO LEÓN., PUBLICADO EN EL P.O. DE 2 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 4 de junio de 1999.
 
@@ -714,3 +716,11 @@ ING. HERNÁN J. CANTÚ VAQUERO
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 PROFR. ADALBERTO A. MARTÍNEZ LOZANO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE JUNIO DE 2010.
+
+PRIMERO.- El Presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Este Reglamento abroga y deja sin efecto legal alguno al anterior, de conformidad a lo establecido por los Artículos 26 inciso a) Fracc. VII y 166 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
