@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-municipal-7125
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-16"
-last_updated: "2010-02-17"
+last_updated: "2010-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 2010.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de noviembre de 2009.
 
@@ -499,107 +499,221 @@ XV.- Las demás que le sean encomendadas por el Presidente Municipal.
 
 Para el despacho de los asuntos de competencia de la Secretaría dé Promoción de Obras, su titular se auxiliará de las unidades administrativas que resulten necesarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 2010)</small>
+
 ###### ARTÍCULO 29.
 
-La Secretaría de Desarrollo Social y Humano es la Dependencia encargada de proponer, promover y realizar programas culturales, educativos, deportivos y recreativos, y de fomento de actividades económicas dentro del Municipio que ayuden a elevar el nivel cultural y calidad de vida de los habitantes del Municipio, ofreciendo los medios para una mejor formación educativa y con base en valores humanos, para tener ciudadanos más capacitados en lo técnico e íntegramente formados y al mismo tiempo, promover su desarrollo físico integral dentro de un marco de sana convivencia. Tendrá como atribuciones y responsabilidades las que le otorguen las Leyes, Reglamentos y demás disposiciones legales aplicables a la materia, así como las que a continuación se establecen:
+La Secretaría de Desarrollo Social y Humano es la Dependencia encargada de proponer, promover y realizar en el Municipio programas y proyectos educativos, deportivos, de fomento económico, para el desarrollo integral de la familia, la juventud, la asistencia social y la tenencia regular de la propiedad, a fin de contribuir a lograr una mejor y más digna calidad de vida para todos los habitantes del Municipio. Tiene como atribuciones y responsabilidades las que le otorguen las Leyes, Reglamentos y demás disposiciones legales aplicables a la materia, así como las que a continuación se establecen:
 
 A) De Desarrollo Social
 
-I.- Promover la participación de la comunidad a través de la formación de grupos de trabajo, en los que se fomenten y desarrollen los valores humanos;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
 
-II.- Promover, administrar y coordinar los eventos especiales del Presidente Municipal, en el área de su competencia; y,
+I.- Promover e integrar a las personas en condiciones de pobreza o vulnerabilidad al proceso de desarrollo;
 
-III.- Administrar y mantener en buenas condiciones los bienes muebles e inmuebles Municipales destinados a actividades deportivas y educativas, específicamente las bibliotecas, gimnasios y espacios deportivos.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
 
-En aquellos inmuebles que se ponen a disposición de la comunidad para celebrar actos deportivos con fines de lucro, la Secretaría de Desarrollo Social y Humano, deberá administrarlos de manera que su operación y mantenimiento sean Óptimos, velando por los intereses del Municipio.
+II.- Promover y Fortalecer los valores cívicos, el sentido de pertenencia a la comunidad y el vínculo social entre los sampetrinos;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+III.- Administrar y mantener en buenas condiciones los bienes muebles e inmuebles municipales destinados a las actividades educativas, deportivas, de fomento económico, para el desarrollo integral de la familia, la asistencia social, la juventud y demás que correspondan a los servicios que presta la Secretaría de Desarrollo Social y Humano;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+IV.- Promover la participación de la comunidad a través de la formación de grupos de trabajo, en los que se fomenten y desarrollen los valores humanos; y
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+V.- Promover, administrar y coordinar los eventos especiales del Presidente Municipal, en el área de su competencia.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 2 DE JUNIO DE 2010)</small>
 
 B) De Educación
 
-I.- Fomentar los valores cívicos y el uso de bibliotecas para motivar a la comunidad escolar y no escolar a elevar su nivel educativo, a través de la elaboración de programas específicos de promoción de la lectura y la consulta;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
 
-II.- Promover, en coordinación con otras Dependencias, la rehabilitación de los espacios utilizables en las escuelas, cuando existan recursos disponibles, ya sean Municipales, Estatales o Federales;
+I.- Fomentar los valores cívicos y el uso de bibliotecas, a través del aprovechamiento de la Red Municipal de Bibliotecas Públicas a través de la promoción de la lectura, la investigación y consulta de información por la comunidad sampetrina;
 
-III.- Fortalecer, entre la población escolar del Municipio, los conocimientos teórico académicos relacionados con los servicios municipales y las funciones de los Servidores Públicos;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
 
-IV.- Reconocer anualmente a los maestros del Municipio;
+II.- Promover, en coordinación con otras unidades administrativas, la rehabilitación de los espacios utilizables en las escuelas, cuando existan recursos disponibles, ya sean Municipales, Estatales o Federales;
 
-V.- Elaborar y difundir programas y campañas, cursos o pláticas orientados a promover, entre los niños y jóvenes, en las escuelas o en la comunidad, el conocimiento de los efectos nocivos del consumo de drogas, el abuso del consumo de bebidas alcohólicas y el consumo del tabaco, en coordinación con otras Dependencias Municipales;
+III.- (DEROGADA, P.O. 2 DE JUNIO DE 2010)
 
-VI.- Asesorar y hacer los trámites necesarios para otorgar becas a los estudiantes de escasos recursos y a los de altas calificaciones del Municipio, a fin de apoyar su educación y superación profesional;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+IV.- Reconocer anualmente la labor realizada por los maestros de las instituciones educativas existentes en el Municipio;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+V.- Difundir programas y campañas, cursos o pláticas orientados a promover, entre los niños y jóvenes, en las escuelas o en la comunidad, el conocimiento de los efectos nocivos del consumo de drogas, el abuso del consumo de bebidas alcohólicas y el consumo del tabaco, en coordinación con otras áreas administrativas;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+VI.- Asesorar y gestionar los trámites necesarios para el otorgamiento de becas a estudiantes de escasos recursos o a alumnos destacados académicamente;
 
 VII.- Mantener actualizado el acervo bibliográfico de las bibliotecas y equiparlas debidamente con programas, educativos que permitan el uso de la tecnología informática; y,
 
-VIII.- Coordinar con las personas, grupos e instituciones educativas, programas de actividades extra-académicas.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+VIII.- Vincular a instituciones y personas físicas o morales que deseen implementar actividades extracurriculares;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+IX.- Impulsar entre la población una educación integral; y
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+X.- Fomentar prácticas educativas en sustentabilidad que impulsen un mejor desarrollo personal y del entorno.
 
 C) De Deporte
 
-I.- Determinar y organizar Delegaciones que representen oficialmente al Municipio en competencias cívicas deportivas intermunicipales, estatales y nacionales;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
 
-II.- Promover y realizar actividades deportivas, dentro de las escuelas y en las colonias;
+I.- Determinar y organizar Delegaciones que representen oficialmente al Municipio en competencias cívicas, deportivas intermunicipales, estatales, nacionales e internacionales;
 
-III.- Desarrollar planes y programas en los cuales participen niños, jóvenes, adultos, personas de la tercera edad y personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
 
-IV.- Gestionar el uso, préstamo o comodato a favor de la Administración Pública Municipal, de equipamiento privado, de instalaciones y escuelas deportivas para brindar un mejor servicio a la comunidad;
+II.- Promover y ejecutar programas, proyectos y acciones deportivas para toda la comunidad;
 
-V.- Otorgar reconocimientos a deportistas destacados que participen en eventos estatales, nacionales e internacionales; y,
+III.- (DEROGADA, P.O. 2 DE JUNIO DE 2010)
 
-VI.- Desarrollar nuevos programas deportivos y de recreación de la comunidad en un marco de sana convivencia.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+IV.- Gestionar el uso o comodato a favor de la Administración Pública Municipal, de equipamiento privado, de instalaciones y escuelas deportivas para brindar un mejor servicio a la comunidad. En su caso, gestionar ante la autoridad competente la adquisición o arrendamiento de bienes necesarios para la prestación de los servicios al público;
+
+V.- Otorgar reconocimientos a deportistas destacados que participen en eventos estatales, nacionales e internacionales; y, (sic)
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+VI.- Desarrollar y promover la práctica de las diferentes disciplinas deportivas entre todos los sectores de la población;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+VII.- Propiciar la capacitación permanente de los preparadores deportivos que instruyen a los deportistas sampetrinos;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+VIII.- Acondicionar y equipar los espacios deportivos destinados por el Ayuntamiento para uso de los sampetrinos;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+IX.- Vincular a las autoridades, instituciones y sociedad civil para el fomento del deporte en el municipio; y
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+X.- Supervisar y fomentar, en coordinación con otras dependencias municipales, la realización de eventos deportivos en la vía pública dentro del territorio municipal.
 
 D) De Productividad y Fomento Económico
 
-I.- Promover en el ámbito estatal, nacional e internacional al Municipio, a través de acciones en materias económica, educativa, cultural, turística, laboral y de servicios, que sean para beneficio de la comunidad;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
 
-II.- Promover, en coordinación con otras Dependencias de la Administración Pública Municipal, al Municipio como destino nacional e internacional de negocios y convenciones, así como de turismo recreativo;
+I.- Promover en el ámbito estatal, nacional e internacional, los atractivos turísticos y las ventajas competitivas del Municipio para beneficio de la comunidad;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+II.- Promover y fomentar, en coordinación con las autoridades estatales y federales competentes, la atracción de inversiones y la generación de empleos en el Municipio;
 
 III.- Elaborar programas que impulsen a la comunidad en el desarrollo de actividades económicas proporcionando apoyos, asesoría profesional, promoción, espacios y herramientas que los inicien en el sector económico como microempresarios o pequeños empresarios;
 
-IV.- Coordinarse con otras Dependencias Municipales y con los miembros del Republicano Ayuntamiento en los procedimientos de hermanamiento con otras ciudades y promoverlos y difundirlos a nivel internacional, nacional y local;
+IV.- (DEROGADA, P.O. 2 DE JUNIO DE 2010)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE JUNIO DE 2010)</small>
 
 V.- Promover el acercamiento y fácil acceso a los sampetrinos al Internet y las tecnologías de información y comunicación, a través de los kioscos cibernéticos, que son centros especializados de formación y consulta;
 
-VI.- Diseñar, promover e implementar programas y procesos para la formación integral de las personas de todos los sectores del Municipio, en cuanto a las tecnologías de información y comunicación; y,
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
 
-VII.- Coordinar la administración y aplicación de los recursos asignados a los Kioscos Cibernéticos, así como la recaudación de los ingresos propios de estos centros.
+VI.- Diseñar, promover e implementar programas y procesos para la formación integral de las personas de todos los sectores del Municipio, en cuanto a las tecnologías de información y comunicación;
 
-E) En materia de Juventud
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
 
-l. Implementar programas tendientes a generar la participación en los jóvenes en la comunidad; y
+VII.- Coordinar con las áreas administrativas correspondientes, los recursos asignados a los Kioscos Cibernéticos; así como la recaudación de los ingresos propios de estos centros; y
 
-II. Crear espacios de análisis, expresión, y desarrollo de habilidades en la juventud.
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+VIII.- Coordinar las relaciones institucionales entre el Gobierno Municipal y la comunidad empresarial asentada en el Municipio, procurando la realización de programas, proyectos y acciones conjuntos para elevar la competitividad y la generación de más y mejores empleos.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2010)</small>
+
+E). De Juventud
+
+I.- Implementar y brindar asesoría que permita a los jóvenes del municipio continuar con su preparación académica y el acceso a un segundo idioma;
+
+II.- Crear espacios de análisis, expresión, y desarrollo de habilidades en la juventud, así como Implementar cursos, talleres y otras actividades para prevenir y combatir las adicciones entre los jóvenes;
+
+III.- Impulsar la acción y conciencia ecológica entre los jóvenes del municipio; y
+
+IV.- Proporcionar al área correspondiente la información necesaria para difundir los avances y logros de los programas, proyectos y acciones en materia de juventud alcanzados por el Gobierno Municipal.
 
 F) De Estudios y Proyectos
 
-l.- Coordinar y asesorar a las Dependencias adscritas a la Secretaría en la planeación y ejecución de sus programas y proyectos.
+l.- Coordinar y asesorar a las Dependencias adscritas a la Secretaría en la planeación y ejecución de sus programas y proyectos;
 
-II.- Colaborar con las Dependencias adscritas a la Secretaría en la implementación de programas que fomenten la mejora organizacional.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
 
-III.- Implementar los mecanismos necesarios para la medición del desempeño de los programas y proyectos de las Dependencias adscritas a la Secretaría.
+II.- Colaborar con las áreas administrativas de la Secretaría en la implementación de programas que fomenten la mejora organizacional, la calidad y la mejora continua; los que se deberán poner a consideración de la Secretaría de Administración;
 
-G) Del Desarrollo Integral de la Familia
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+III.- Proponer, informar y facilitar a la Secretaría de Administración los mecanismos necesarios para la medición del desempeño de los programas y proyectos de las áreas adscritas a la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+IV.- Proporcionar a la Secretaría del Ayuntamiento la información necesaria para la mejor ejecución de la comunicación interinstitucional.
+
+G).- Del Desarrollo Integral de la Familia
 
 I.- Apoyar el desarrollo integral de la familia y de la comunidad del Municipio;
 
 II.- Atender, en establecimientos Municipales que presten servicios de asistencia social, a la comunidad en general;
 
-III.- Realizar acciones de apoyo formativo, tanto preventivo como informativo, para la integración social, de superación personal y de capacitación para el trabajo, en beneficio de las personas sujetos de la asistencia social, que tiendan a mejorar la calidad de vida de los mismos;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+III.- Conforme a lo que disponga el Reglamento Interior que en su oportunidad se emita, realizar acciones formativas, preventivas e informativas dirigidas a la comunidad y en especial a las personas sujetas a asistencia social, para lograr su integración comunitaria, superación personal, capacitación, apoyar su economía familiar y mejorar su calidad de vida;
 
 IV.- Colaborar con la Autoridades Municipales a dar atención y apoyo a las víctimas de desastres;
 
-V.- Realizar programas preventivos, educativos y formativos para combatir la desintegración familiar, el pandillerismo, la drogadicción, alcoholismo y demás conductas antisociales;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
 
-VI.- Proporcionar los servicios funerarios indispensables a personas sin recursos;
+V.- Realizar programas preventivos, educativos y formativos, en coordinación con otras autoridades e instituciones públicas y privadas, para combatir la desintegración familiar derivada de la violencia;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+VI.- Proporcionar los servicios funerarios indispensables a personas de escasos recursos;
 
 VII.- Establecer programas de apoyo físico y psicológico a las víctimas de maltrato doméstico y abuso sexual;
 
-VIII.- Desarrollar y ejecutar acciones, iniciativas y proyectos dirigidos a los jóvenes para promover su calidad de vida y su desarrollo integral;
+VIII.- (DEROGADA, P.O. 2 DE JUNIO DE 2010)
 
-IX.- Implementar acciones y programas que propicien el sano desarrollo y fomenten la integración paulatina de la niñez a su entorno;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+IX.- Implementar programas, proyectos y acciones orientadas a apoyar a las madres trabajadoras, que permitan a sus hijos un desarrollo integral, el fortalecimiento de la familia y de la comunidad;
 
 X.- Coordinar, atender e incrementar el trabajo del voluntariado en beneficio de los grupos vulnerables de la comunidad;
 
-XI.- Establecer e incrementar las relaciones interinstitucionales y con la comunidad, con el fin de conseguir recursos económicos o en especie que permitan profesionalizar y eficientar los programas de asistencia comunitaria; y,
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+XI.- Establecer e incrementar las relaciones interinstitucionales y con la comunidad, con el fin de conseguir recursos económicos o en especie que permitan que los programas de asistencia comunitaria se realicen con programas de eficiencia, eficacia y economicidad; y,
 
 XII.- Coordinarse con las diversas instancias asistenciales del Gobierno del Estado para llevar a las personas de escasos recursos los beneficios de los programas sociales que tiendan a dotarlos de la alimentación elemental.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2010)</small>
+
+H).- De Escrituración y Gestoría
+
+I.- Establecer programas que faciliten la tramitación ante las instancias correspondientes para la regularización de la propiedad y su inscripción ante la autoridad administrativa correspondiente;
+
+II.- Orientar a los ·ciudadanos que económicamente lo requieran para la obtención, corrección y tramitación de los títulos de propiedad;
+
+III.- Guardar estrecha vinculación con la dependencia competente para asesorar y tramitar procedimientos civiles, familiares y administrativos relacionados con los procesos señalados en las dos fracciones anteriores en beneficio de sampetrinos que no tengan los medios para gestionarlos por si mismos;
+
+IV.- Vincularse con el área correspondiente de la Secretaria de Control Urbano para facilitar, en coordinación con las autoridades competentes, los trámites que en materia de desarrollo urbano corresponda realizar a los sampetrinos de escasos recursos; y
+
+V.- Facilitar el acceso a los servicios y trámites públicos municipales a los sampetrinos de escasos recursos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE JUNIO DE 2010)</small>
 
 Para el despacho de los asuntos de competencia de la Secretaría de Desarrollo Social y Humano, su titular se auxiliará directamente de las siguientes Direcciones: Dirección de Deportes, Dirección de Educación, Dirección de Productividad y Fomento Económico, Dirección del Desarrollo Integral de la Familia y demás unidades administrativas que resulten necesarias.
 
@@ -795,7 +909,7 @@ VI.- Expedir la factibilidad que sea requerida en materia de Protección Civil p
 
 VII.- Las demás que le confieran los ordenamientos legales aplicables, las que confiera el Presidente Municipal, o las que autorice el Consejo Municipal de Protección Civil.
 
-E) De Análisis y Desarrollo Institucional:
+E) De Análisis y Desarrollo Institucional
 
 l.- Implementar programas para elevar el nivel funcional de la Secretaria;
 
@@ -803,7 +917,9 @@ II.- Implementar estrategias para vincular a la ciudadanía con los integrantes 
 
 III.- Coordinarse con la Dirección de Recursos Humanos en la Administración de las relaciones derivadas de la prestación de los servicios entre la Secretaría y su personal;
 
-IV.- Implementar programas para atender la salud emocional de los miembros de los cuerpos de seguridad pública municipal y sus familiares;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+IV.- Implementar programas para atender la salud emocional de los miembros de los cuerpos de la Secretaría de Seguridad Municipal y sus familiares;
 
 V.- Coordinarse con otras dependencias municipales para realizar programas de prevención y combate al consumo, de drogas y alcohol;
 
@@ -811,7 +927,21 @@ VI.- Coordinarse con otras dependencias municipales para implementar programas p
 
 VII.- Determinar los requisitos que deben reunir los candidatos a formar parte de los cuerpos de seguridad pública municipal.
 
-Para el despacho de los asuntos de competencia de la Secretaría de Seguridad Municipal, su titular se auxiliará directamente de la Subsecretaría de Seguridad Pública, así como de las siguientes Direcciones: Dirección General de Policía, Dirección General de Tránsito y Vialidad, y demás unidades administrativas que resulten necesarias.
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2010)</small>
+
+F).- De Prevención del Delito
+
+I.- Implementar programas de prevención del delito estableciendo las bases para la articulación de programas, proyectos y acciones tendientes a prevenir la comisión de algún delito o infracción administrativa, instrumentando las medidas necesarias para evitar su realización;
+
+II.- Realizar actividades que tengan como finalidad contrarrestar los factores criminógenos y contener, disminuir o evitar la comisión de delitos, conductas antisociales e infracciones administrativas, así como prevenir la victimización;
+
+III.- Promover la protección de las personas y de sus bienes en todos sus aspectos e incluir acciones a favor de personas con discapacidad, menores de edad y las que se encaminen a salvaguardar los derechos de personas que en razón de su sexo, preferencia sexual, edad, condición social, religiosa o étnica sean objeto de discriminación o rechazo; y
+
+IV.- Las demás que le confiera el Reglamento en Materia de Seguridad Municipal de San Pedro Garza García, Nuevo León, así como las previstas en los demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO ULTIMO PARRAFO, P.O. 2 DE JUNIO DE 2010)</small>
+
+Para el despacho de los asuntos de competencia de la Secretaría de Seguridad Municipal, su titular se auxiliará directamente las siguientes Direcciones: Dirección General de Policía, Dirección General de Tránsito y Vialidad, Dirección de Protección Civil, Dirección de Prevención al Delito y demás unidades administrativas que resulten necesarias.
 
 ###### ARTÍCULO 32.
 
@@ -1362,3 +1492,11 @@ Artículo Cuarto: En tanto no sean reformados los capítulos SEGUNDO y TERCERO, 
 Artículo Quinto: En tanto no sea reformado el capítulo QUINTO, Artículo 9 del Reglamento Interior de la Contraloría Municipal, el Director Jurídico, tendrá las atribuciones que se le confieren al Asistente Jurídico.
 
 Artículo Sexto: El Reglamento Interior de la Contraloría Municipal será aplicable a la Secretaría de la Contraloría y Transparencia Municipal.
+
+P.O. 2 DE JUNIO DE 2010
+
+Artículo Primero.- Las presentes Reformas por Modificación, Adición y Derogación al Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas
+
+Artículo Tercero.- Las referencias establecidas en los diversos reglamentos y lineamientos internos que se efectúen a favor de la Oficina Ejecutiva del Presidente Municipal, Secretaria de Desarrollo Urbano y Ecología, Secretaría de Seguridad Pública y Vialidad o Contraloría Municipal, se entenderán referidas a la Secretaría de Administración, Secretaría de Control Urbano, Secretaría de Seguridad Municipal o Secretaría de Contraloría y Transparencia respectivamente y por lo que se respecta a la Secretaría de Infraestructura y Servicios Públicos estas referencias se entenderán hechas a las Secretaría de Obras Públicas o Secretaría de Servicios Públicos según corresponda a las atribuciones asignadas en el presente Reglamento a cada una de estas últimas.
