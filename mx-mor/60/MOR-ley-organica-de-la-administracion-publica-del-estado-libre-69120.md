@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-libre-6912
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-06-26"
-last_updated: "2009-06-26"
+last_updated: "2010-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69120&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 26 de junio de 2009.
 
@@ -251,7 +251,9 @@ V. Planear, organizar, coordinar, dirigir y promover acciones tendientes a la re
 
 VI. Adquirir, en coordinación con la Federación y los ayuntamientos, las reservas territoriales, así como promover su desarrollo, enajenación y ocupación a través de las instancias que corresponda;
 
-VII. Planear, organizar, regular y en su caso, administrar el servicio público de transporte en cualquiera de sus modalidades; así como otorgar concesiones y permisos necesarios para la explotación de las vialidades de jurisdicción estatal, tomando en cuenta la opinión de los ayuntamientos en el ámbito de su competencia, conforme a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+VII. Planear, organizar, regular, vigilar y, en su caso, administrar el servicio público de transporte en cualquiera de sus modalidades; así como otorgar concesiones y permisos necesarios para la explotación de las vialidades de jurisdicción estatal, tomando en cuenta la opinión de los ayuntamientos en el ámbito de su competencia, conforme a las disposiciones jurídicas aplicables;
 
 VIII. Intervenir en auxilio o coordinación de las autoridades federales, en los términos de las leyes relativas, en materia de:
 
@@ -755,7 +757,9 @@ I. La conservación y preservación del orden, la tranquilidad y la seguridad p�
 
 II. Coordinarse con las instancias Federales, Estatales y Municipales, para cumplir los objetivos y fines en la materia, así como participar en la integración de las instancias, instrumentos, políticas, servicios y acciones, tendientes a cumplir dichos objetivos y fines, en los términos, que dispongan los ordenamientos jurídicos Federales y Estatales aplicables;
 
-III. Conducir en el Estado Libre y Soberano de Morelos, las normas, políticas y programas en materia de seguridad pública que deriven de (sic) Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema Integral de Seguridad Pública del Estado, de la Ley de Ejecución de Sanciones y Medidas de Seguridad, de la Ley de Trasportes del Estado de Morelos y su reglamento respectivo, la Legislación Penal, del Reglamento de los Servicios de Seguridad Privada y las demás disposiciones legales aplicables en esta materia;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2010)</small>
+
+III. Conducir en el Estado Libre y Soberano de Morelos, las normas, políticas y programas en materia de seguridad pública que deriven de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema de Seguridad Pública del Estado de Morelos, la Ley de Reinserción Social y Seguimiento de Medidas Cautelares, la Legislación Penal, el Reglamento de los Servicios de Seguridad Privada y las demás disposiciones legales aplicables en ésta materia;
 
 IV. La prevención del delito en el ámbito de su competencia;
 
@@ -801,13 +805,13 @@ XXIV. Administrar y controlar el Sistema Penitenciario Estatal y los centros de 
 
 XXV. Asegurar, y ejecutar las medidas cautelares y sancionadoras aplicables a los menores que hayan cometido alguna conducta antisocial tipificada como delito, en términos de lo dispuesto por los artículos 18 de la Constitución Política de los Estados Unidos Mexicanos, 19 de la Constitución Política del Estado Libre y Soberano de Morelos, y de las leyes relativas y aplicables;
 
-XXVI. Vigilar que el servicio público de transporte en el Estado, en cualquiera de las modalidades de la prestación del mismo, conforme a lo dispuesto por la Ley de Transporte del Estado de Morelos, su Reglamento y las demás disposiciones jurídicas aplicables;
+XXVI. (DEROGADA, P.O. 2 DE JUNIO DE 2010)
 
 XXVII. Planear, organizar, regular y vigilar los sistemas de vialidad y tránsito en el Estado tomando en cuenta la opinión de los Ayuntamientos en el ámbito de su competencia, conforme a las disposiciones jurídicas aplicables;
 
-XXVIII. Calificar las infracciones levantadas en contra de Permisionarios, Concesionarios del Transporte Público, Privado y de Carga, a través del área a quien le delegue esta facultad;
+XXVIII. (DEROGADA, P.O. 2 DE JUNIO DE 2010)
 
-XXIX. Conocer y resolver los recursos o medios de defensa ordinarios procedentes que se interpongan con motivo del levantamiento de las infracciones en esta materia, conforme a lo establecido en la Ley de Transportes del Estado y su Reglamento;
+XXIX. (DEROGADA, P.O. 2 DE JUNIO DE 2010)
 
 XXX. Establecer los lineamientos del funcionamiento, registros y capturas de información relativas a las llamadas de emergencia y registros de Seguridad Pública e información sobre seguridad pública;
 
@@ -1238,3 +1242,15 @@ SECRETARIO DE GOBIERNO
 JORGE MORALES BARUD
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE JUNIO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Los reglamentos de las leyes y reglamentos interiores de las dependencias relacionados con la materia del presente Decreto, deberán de modificarse en un plazo de 90 días hábiles a partir de la entrada en vigor del presente Decreto; en tanto, se mantendrán vigentes los actuales, considerando que la Secretaría de Gobierno, ejercerá las atribuciones que en materia de vigilancia e inspección del transporte tiene consignado el Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO.- Los asuntos que con motivo de este Decreto deban pasar de la Secretaría de Seguridad Pública a la Secretaría de Gobierno, permanecerán en el último trámite que hubieren alcanzado hasta que el personal o las unidades administrativas de la Secretaría de Seguridad Pública que deban conocer de los mismos, se incorporen a la Secretaría de Gobierno, con excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por la Secretaría que actualmente tenga el asunto a su cargo, fundamentando para ello sus actuaciones en las normas que les dieron origen a dichos trámites.
+
+CUARTO.- Las Secretarías de Finanzas y Planeación, Gestión e Innovación Gubernamental y de la Contraloría, coordinarán con la intervención que corresponda a las Secretarías de Seguridad Pública y Gobierno, el proceso de transferencia de los recursos humanos, materiales y financieros para hacer operativas las disposiciones contenidas en el presente Decreto.
