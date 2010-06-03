@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2010-03-12"
+last_updated: "2010-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JUNIO DE 2010.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -1599,6 +1599,26 @@ VIII. Proponer los cambios factibles tecnológicos y de sistemas, derivados del 
 
 IX. Vigilar el cabal cumplimiento del plan estratégico de Tecnología de la Institución, para las tareas de planeación, control y mejora de los procesos de la Institución.
 
+> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2010)</small>
+
+ARTICULO 47 TER.- Corresponde a la Subdirección Corporativa de Diseño y Construcción:
+
+I. Proponer y participar en la definición, desarrollo y mantenimiento de la arquitectura de sistemas e integrar aplicaciones de flexibilidad en la construcción de productos y servicios financieros, permitiendo la reducción en costos por transacción;
+
+II. Proponer e Implementar las metodologías tecnológicas que coadyuven en reducir los costos de desarrollo de sistemas, acelerar los tiempos de entrega de proyectos, productos, servicio y apoyar la arquitectura de sistemas;
+
+III. Participar y contribuir en el desarrollo de técnicas que aseguren la calidad de los sistemas para reducir los errores de operación en productos y servicios de la institución;
+
+IV. Proponer e Implementar metodologías que coadyuven a realizar evaluaciones, selección y procesos de negociación para la tecnología de información adecuada para el logro de los objetivos de negocio, mejora continua de los procesos y alineado al plan estratégico de Tecnología de la institución;
+
+V. Participar en la alineación de los planes estratégicos y operativos de sistemas que soportan la misión y estrategia de la institución;
+
+VI. Participar y contribuir en el desarrollo del plan estratégico de tecnología de la institución, que asegure el retorno de la inversión en sistemas, coadyuvando a la sustentabilidad a través de una visión de negocio;
+
+VII. Participar y contribuir en el diseño de soluciones tecnológicas acorde a los requerimientos de negocio que aseguren el mejor enfoque, para cumplir con los requerimientos del usuario a través de análisis de las oportunidades y alternativas comparadas contra los requerimientos de los usuarios, considerando, definiciones de requerimientos de información, estudios de factibilidad, arquitectura de información, seguridad, pistas de auditoría, contratación de terceros, aceptación de instalaciones y tecnología; y
+
+VIII. Investigar e Identificar los mecanismos o técnicas más adecuados para los procesos de liberación de sistemas o módulos adicionales de los sistemas actuales.
+
 > <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 48.
@@ -1969,19 +1989,21 @@ VI. Llevar a cabo las demás actividades dentro del área de su competencia, que
 
 ### CAPITULO VI. NUMERO Y CIRCUNSCRIPCION DE LAS COORDINACIONES REGIONALES
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 55.
 
-La Financiera tendrá seis Coordinaciones Regionales, mismas que a continuación se señalan:
+La Financiera tendrá Cinco Coordinaciones Regionales, mismas que a continuación se señalan:
 
 I. Coordinación Regional Noroeste;
 
 II. Coordinación Regional Norte;
 
-III. Coordinación Regional Centro;
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2010)</small>
 
-IV. Coordinación Regional Occidente;
+III. Coordinación Regional Centro-Occidente;
+
+IV. (DEROGADA, D.O.F. 3 DE JUNIO DE 2010)
 
 V. Coordinación Regional Sur, y
 
@@ -1996,6 +2018,10 @@ La Coordinación Regional Noroeste tendrá como sede la ciudad de Hermosillo, So
 I. Baja California,
 
 II. Baja California Sur,
+
+> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2010)</small>
+
+II Bis. Nayarit;
 
 III. Sinaloa, y
 
@@ -2019,6 +2045,14 @@ II. Coahuila,
 
 III. Nuevo León,
 
+> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2010)</small>
+
+III Bis. San Luis Potosí;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2010)</small>
+
+III Ter. Zacatecas;
+
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 IV. Tamaulipas, y
@@ -2027,17 +2061,29 @@ IV. Tamaulipas, y
 
 V. Durango.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 58.
 
-La Coordinación Regional Centro tendrá como sede la ciudad de Querétaro, Querétaro y se adscriben a su competencia las siguientes entidades federativas:
+La Coordinación Regional Centro-Occidente tendrá como sede la ciudad de Querétaro, Querétaro y se adscriben a su competencia las siguientes entidades federativas:
 
-I. Zacatecas,
+I. (DEROGADA, D.O.F. 3 DE JUNIO DE 2010)
 
-II. San Luis Potosí,
+II. (DEROGADA, D.O.F. 3 DE JUNIO DE 2010)
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 III. Guanajuato,
+
+> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2010)</small>
+
+III Bis. Jalisco;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2010)</small>
+
+III Ter. Colima;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 IV. Querétaro,
 
@@ -2045,21 +2091,13 @@ V. (DEROGADA, D.O.F. 12 DE MARZO DE 2010)
 
 VI. (DEROGADA, D.O.F. 12 DE MARZO DE 2010)
 
-VII. Aguascalientes.
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+VII. Aguascalientes.
 
 ###### ARTICULO 59.
 
-La Coordinación Regional Occidente tendrá como sede la ciudad de Guadalajara, Jalisco y se adscriben a su competencia las siguientes entidades federativas:
-
-I. Nayarit,
-
-II. Jalisco,
-
-III. Colima, y
-
-IV. Michoacán.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2010)
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -2080,6 +2118,10 @@ V. Tlaxcala,
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2010)</small>
 
 VI. Morelos,
+
+> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2010)</small>
+
+VI Bis. Michoacán,
 
 VII. Las zonas rurales del Distrito Federal,
 
@@ -2498,5 +2540,9 @@ D.O.F. 22 DE ENERO DE 2010.
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
 
 D.O.F. 12 DE MARZO DE 2010.
+
+UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE JUNIO DE 2010.
 
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
