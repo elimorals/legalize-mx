@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-economico-del-estado-de-san-luis-potosi-34563"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-20"
-last_updated: "2007-11-01"
+last_updated: "2010-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO ECONOMICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 20 de marzo de 2003.
 
@@ -305,9 +305,25 @@ V. Generen nuevos empleos, en el caso de la micro, pequeña y mediana empresa;
 
 VI. Destinen sus productos al mercado de exportación directa o indirecta;
 
-VII. Celebren acuerdos de cooperación con instituciones educativas, para estimular la formación y capacitación de técnicos y profesionistas, y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
 
-VIII. Den empleo directo a personas con discapacidad en número igual al 5% de su planta laboral.
+VII. Celebren acuerdos de cooperación con instituciones educativas, para estimular la formación y capacitación de técnicos y profesionistas;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
+
+VIII. Den empleo directo a personas con discapacidad, en número igual al cinco por ciento de su planta laboral;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2010)</small>
+
+IX. Den empleo directo a personas jóvenes entre los 18 y los 29 años de edad, sin que se les exija como requisito para su contratación, experiencia, o haber tenido un trabajo anterior, en número igual al cinco por ciento de su planta laboral;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2010)</small>
+
+X. Fomenten la integración de cadenas productivas, y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2010)</small>
+
+XI. Realicen nuevas inversiones, o amplíen sus instalaciones, generando con su actividad nuevos empleos permanentes.
 
 ###### ARTICULO 26.
 
@@ -598,3 +614,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACION
 PRIMERO. Esta Ley entrará en vigor el tino de enero de 2008, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan los artículos 40, 41, 42, 43, 44, 45, 46 y 47 contenidos en el Capítulo IX "Mejora Regulatoria y Simplificación Administrativa"; 48, 49 y 50 establecidos en el Capítulo X "De la Ventanilla Estatal de Gestión Empresarial", todos éstos, de la Ley de Fomento Económico del Estado de San Luis Potosí; así como todas las demás disposiciones legales y administrativas que se opongan a la presente Ley.
+
+P.O. 3 DE JUNIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
