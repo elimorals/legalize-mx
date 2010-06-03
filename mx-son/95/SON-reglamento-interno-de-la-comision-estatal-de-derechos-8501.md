@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interno-de-la-comision-estatal-de-derechos-8501"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-12-24"
-last_updated: "2010-05-06"
+last_updated: "2010-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8501&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE JUNIO DE 2010.
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 24 de diciembre de 1992.
 
@@ -107,11 +107,11 @@ Para los efectos de lo dispuesto por el artículo 7o., fracción II, inciso a), 
 
 Para los efectos de lo dispuesto por el artículo 7o., fracción II, inciso b), de la Ley, se entiende por "ilícitos" las conductas que puedan tipificarse como delitos y las faltas o las infracciones administrativas.
 
-> <small>(REFORMADO, B.O. 6 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, B.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 17.
 
-Para los efectos de lo dispuesto por el Artículo 8º de la Ley, se entiende por:
+Para los efectos de lo dispuesto por el Artículo 8° de la Ley, se entiende por:
 
 Resoluciones de carácter jurisdiccional:
 
@@ -119,15 +119,15 @@ I.- Las sentencias o los laudos definitivos que concluyan la instancia.
 
 II.- Las sentencias interlocutorias que se emitan durante el proceso.
 
-III.- Los autos y acuerdos dictados por el Juez o por el personal de juzgado o Tribunal, para cuya expedición se haya realizado una valoración y determinación jurídica o legal.
+III.- Los autos y acuerdos dictados por el Juez o por el personal de Juzgado o Tribunal, para cuya expedición se haya realizado una valoración y determinación jurídica o legal.
 
 IV.- En materia administrativa, los análogos a los señalados en las fracciones anteriores.
 
-Todos los demás actos y omisiones procedimentales del Poder Judicial Estatal serán considerados con el carácter de administrativos, de acuerdo al Artículo 9º de la Ley, y en consecuencia, susceptibles de ser reclamados ante la Comisión en vía de queja.
+Todos los demás actos y omisiones procedimentales del Poder Judicial Estatal serán considerados con el carácter de administrativos, de acuerdo al Artículo 9° de la Ley, y en consecuencia, susceptibles de ser reclamados ante la Comisión en vía de queja.
 
 Conflictos de carácter laboral:
 
-Los suscitados entre uno o varios patrones y uno o más trabajadores, incluso cuando el patrón sea una autoridad estatal o municipal, para efectos de lo dispuesto en el Artículo 8º, Fracción III de la Ley.
+Los suscitados entre uno o varios patrones y uno o más trabajadores, incluso cuando el patrón sea una autoridad estatal o municipal, para efectos de lo dispuesto en el Artículo 8°, Fracción III de la Ley.
 
 No están comprendidos los actos u omisiones atribuibles a servidores públicos dentro del desahogo de los procedimientos sustanciados ante las autoridades administrativas del ámbito laboral.
 
@@ -161,7 +161,7 @@ V.- La Secretaría Técnica del Consejo.
 
 ### CAPITULO II. DE LA PRESIDENCIA
 
-> <small>(REFORMADO, B.O. 6 DE MAYO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 21.
 
@@ -221,7 +221,7 @@ Durante el desarrollo de las sesiones ordinarias del Consejo se dará lectura al
 
 El Consejo de la Comisión contará con un Secretario Técnico que será designado en los términos establecidos por el artículo 19, segundo párrafo de la Ley. El Secretario Técnico acordará directamente con el Presidente de la Comisión.
 
-> <small>(REFORMADO, B.O. 6 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, B.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 32.
 
@@ -243,9 +243,9 @@ VII.- Las demás que al efecto establezcan el Presidente o el Consejo de la Comi
 
 Para el ejercicio de sus atribuciones la Secretaría Técnica contará con las siguientes áreas:
 
-I.- Dirección de Educación y Formación en Derechos Humanos; y
+I.- Dirección de Promoción y Capacitación.
 
-II.- Dirección de Promoción y Capacitación.
+II.- Dirección de Publicación.
 
 ### CAPITULO IV. DE LA SECRETARIA EJECUTIVA
 
@@ -253,15 +253,15 @@ II.- Dirección de Promoción y Capacitación.
 
 El Secretario Ejecutivo será designado de manera libre por el Presidente de la Comisión. Los requisitos para ocupar el cargo, los establece el artículo 22 de la Ley.
 
-> <small>(REFORMADO, B.O. 6 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, B.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 34.
 
 Las funciones del Secretario Ejecutivo serán:
 
-I.- Proponer al Consejo y al Presidente de la Comisión las políticas generales que en materia de Derechos Humanos habrá de seguir la Comisión ante Organismos gubernamentales y no gubernamentales en el Estado;
+I.- Proponer al Consejo y al Presidente de la Comisión las políticas generales que en materia de Derechos Humanos habrá de seguir la Comisión ante organismos gubernamentales y no gubernamentales en el Estado;
 
-II.- Promover y fortalecer las relaciones de la Comisión con organismos no gubernamentales, públicos, privados, Nacionales e Internacionales, en materia de Derechos Humanos;
+II.- Promover y fortalecer las relaciones de la Comisión con organismos no gubernamentales, públicos, privados, nacionales e internacionales, en materia de Derechos Humanos;
 
 III.- Coordinar los estudios que se realicen para el mejor funcionamiento de la Comisión, así como los que hayan de ser propuestos a los órganos gubernamentales locales;
 
@@ -269,7 +269,7 @@ IV.- Preparar los proyectos e iniciativas de Leyes o Reglamentos que la Comisió
 
 V.- Ejecutar y dar seguimiento a los Acuerdos que dicte el Presidente de la Comisión y los que emanen del Consejo;
 
-VI.- Colaborar con la Presidencia en la elaboración de los Informes anuales, así como de los especiales;
+VI.- Colaborar con la Presidencia en la elaboración de los Informes Anuales, así como de los especiales;
 
 VII.- Enriquecer, mantener y custodiar el acervo documental de la Comisión;
 
@@ -277,25 +277,23 @@ VIII.- Auxiliar a la Presidencia en las funciones que se le encomienden; y
 
 IX.- Las demás que le sean conferidas en otras disposiciones legales y reglamentarias.
 
-Para el mejor desempeño de sus funciones la Secretaría Ejecutiva contará con las siguientes áreas:
+Para el mejor desempeño de sus funciones la Secretaría Ejecutiva contará con la siguiente área:
 
 1.- Dirección de Vinculación Interinstitucional y enlace con organismos de la sociedad civil.
 
-2.- Dirección de Proyectos Legislativos.
-
 ### CAPITULO V. DE LAS VISITADURIAS GENERALES
 
-> <small>(REFORMADO, B.O. 6 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, B.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 35.
 
 La Comisión contará con el número de Visitadores Generales que determine el Consejo. El Visitador General será el titular de cada una de ellas y todos ellos serán designados y removidos en forma libre por el Presidente de la Comisión. Los requisitos para ser Visitador General son los que establece el Artículo 24 de la Ley. El régimen legal al que quedan sujetos los Visitadores Generales se establecen en los Artículos 13 y 14 de la Ley.
 
-> <small>(REFORMADO, B.O. 6 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, B.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 36.
 
-Las Visitadurías Generales serán designadas: Primera Visitaduría General, Zona Noroeste; Segunda Visitaduría General, Zona Noreste; Tercera Visitaduría General, Zona Sierra Costa y Cuarta Visitaduría General, Zona Sur.
+Las Visitadurías Generales serán designadas: Primera Visitaduría General, Zona Sur; Segunda Visitaduría General, Zona Noreste; Tercera Visitaduría General, Zona Sierra Costa y Cuarta Visitaduría General, Zona Noroeste.
 
 Cada Visitaduría General tendrá a su cargo la tramitación de los expedientes que corresponda atendiendo a la adscripción señalada en el párrafo anterior. Sólo en el caso de las quejas que procedan de la Ciudad de Hermosillo, Sede de la Comisión, se turnara al Visitador conforme al orden numérico que corresponda.
 
@@ -307,7 +305,7 @@ La Comisión podrá contar con oficinas foráneas en los diversos municipios del
 
 Las Oficinas Foráneas dependerán jerárquicamente de la Visitaduría General que corresponda, según la ubicación geográfica señalada en el primer párrafo de este Artículo y tendrán competencia para conocer de los asuntos que se susciten en esa circunscripción territorial y todos aquellos que por acuerdo determine el Presidente.
 
-> <small>(REFORMADO, B.O. 6 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, B.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 37.
 
@@ -321,21 +319,21 @@ III.- Iniciar de oficio, discrecionalmente, aquellas denuncias que aparezcan en 
 
 En el caso de la Fracción III de este Artículo, se seguirá el procedimiento que este Reglamento prevé en su título V;
 
-V (SIC).- Integrar los expedientes, recibir las pruebas que fueran rendidas por las partes en el procedimiento y llevar a cabo las investigaciones que a su juicio fueran necesarias para esclarecer los hechos;
+IV.- Integrar los expedientes, recibir las pruebas que fueran rendidas por las partes en el procedimiento y llevar a cabo las investigaciones que a su juicio fueran necesarias para esclarecer los hechos;
 
-VI.- Elaborar el proyecto de Recomendación o de observaciones que presentará al Presidente de la Comisión;
+V.- Elaborar el proyecto de Recomendación o de observaciones que presentará al Presidente de la Comisión;
 
-VII.- Realizar los estudios pertinentes para el mejor desempeño de sus funciones; y
+VI.- Realizar los estudios pertinentes para el mejor desempeño de sus funciones; y
 
-VIII.- Las demás que le sean conferidas en otras disposiciones legales.
+VII.- Las demás que le sean conferidas en otras disposiciones legales.
 
-El Presidente de la Comisión Estatal podrá delegar a los Visitadores Generales la facultad para interponer por sí o a través de los Visitadores Adjuntos adscritos a ellos, las denuncias penales que estimen procedentes y, en su caso para realizar y dar seguimiento a las actuaciones y diligencias en las averiguaciones previas, procedimientos penales y administrativos.
+El Presidente de la Comisión Estatal podrá delegar a los Visitadores Generales la facultad para interponer por sí o a través de los Visitadores Adjuntos adscritos a ellos, las denuncias penales que estime procedentes y, en su caso para realizar y dar seguimiento a las actuaciones y diligencias en las averiguaciones previas, procedimientos penales y administrativos.
 
-> <small>(REFORMADO, B.O. 6 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, B.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 38.
 
-Cada Visitaduría General contará con los Visitadores Adjuntos necesarios para el buen funcionamiento del organismo, mismos que serán designados por el Presidente de la Comisión, a propuesta del Visitador Titular.
+Cada Visitaduría General contará con los Visitadores Adjuntos necesarios para el buen funcionamiento del Organismo, mismos que serán designados por el Presidente de la Comisión, a propuesta del Visitador Titular.
 
 ###### ARTICULO 39.
 
@@ -353,7 +351,7 @@ IV.- Tener la experiencia necesaria, a juicio de los Visitadores Generales, para
 
 Los Visitadores adjuntos serán auxiliares de los Visitadores Generales y tendrán como funciones, la integración del expediente y su consecuente investigación, mismas que realizarán bajo la estricta supervisión de los Visitadores Generales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE MAYO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 3 DE JUNIO DE 2010)</small>
 
 ARTICULO 40 BIS.- Los Visitadores Generales, Visitadores Adjuntos y demás personal de la Comisión están impedidos para conocer de asuntos por alguna de las causas siguientes:
 
@@ -375,7 +373,7 @@ VIII.- Cualquier otra análoga a las anteriores.
 
 En caso de que un Visitador General, Visitador Adjunto y demás personal de la Comisión tenga conocimiento de que se encuentra en alguna de las causas de impedimento, deberá excusarse de inmediato del conocimiento del asunto y solicitar a su superior la calificación y determinación final sobre la excusa.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, B.O. 3 DE JUNIO DE 2010)</small>
 
 ARTICULO 40 TER.- Las Visitadurías, de común acuerdo, determinarán las directrices jurídicas que habrán de observarse en los procedimientos tramitados en la Comisión. Serán auxiliares de las Visitadurías y actuarán bajo la estricta supervisión de los Visitadores Generales, las siguientes áreas:
 
@@ -391,7 +389,7 @@ IV.- Analizar y examinar la diversa normatividad que emana del Congreso del Esta
 
 V.- Asistir y participar en las sesiones de Comités y Subcomités de la Comisión, conforme a las disposiciones aplicables; y
 
-VIII (SIC).- Las demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
+VI.- Las demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
 
 La Dirección a que se refiere la Fracción I de este dispositivo tendrá bajo su directa responsabilidad la Coordinación de Quejas y Orientación Jurídica, la que tendrá las siguientes funciones:
 
@@ -409,11 +407,11 @@ VI.- Las demás que les asignen la Dirección General de Asuntos Jurídicos o lo
 
 VII.- Asignar a la queja el número de registro que corresponda y turnarla a la Visitaduría para su calificación;
 
-VI (SIC).- Coordinar sus labores con la Dirección General de Asuntos Jurídicos;
+VIII.- Coordinar sus labores con la Dirección General de Asuntos Jurídicos;
 
-VII.- Informar a los quejosos los datos generales sobre la recepción de la queja; y
+IX.- Informar a los quejosos los datos generales sobre la recepción de la queja; y
 
-VIII.- En colaboración con el área de informática, operar el banco de datos en el que se inicie el registro de las quejas y orientaciones.
+X.- En colaboración con el área de informática, operar el banco de datos en el que se inicie el registro de las quejas y orientaciones.
 
 2.- Dirección de Atención a Centros Penitenciarios, misma que tendrá las siguientes atribuciones:
 
@@ -463,7 +461,7 @@ II.- Elaborar el proyecto de informe que solicita el organismo nacional durante 
 
 III.- Mantener informado a los Visitadores del estado que guardan los Recursos interpuestos por los quejosos en cualquiera de los casos señalados en la Ley.
 
-VI (SIC).- El área de proyectos en la cual se formularán los proyectos de resolución relativos, ciñéndose estrictamente a las instrucciones de los Visitadores.
+5.- El área de proyectos en la cual se formularán los proyectos de resolución relativos, ciñéndose estrictamente a las instrucciones de los Visitadores.
 
 ## TITULO IV. DE LAS DIRECCIONES GENERALES
 
@@ -473,7 +471,7 @@ VI (SIC).- El área de proyectos en la cual se formularán los proyectos de reso
 
 Las Direcciones Generales prestarán su apoyo a la Presidencia, y sus titulares serán nombrados y removidos de manera libre por el Presidente de la Comisión.
 
-> <small>(REFORMADO, B.O. 6 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, B.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 42.
 
@@ -485,11 +483,13 @@ II.- Dirección General de Comunicación.
 
 III.- Dirección General de Asuntos Jurídicos.
 
-IV.- Órgano de Contralor Interno.
+IV.- Dirección General de Educación y Formación en Derechos Humanos.
 
-V.- Oficialía Mayor.
+V.- Órgano de Contralor Interno.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE MAYO DE 2010)</small>
+VI.- Oficialía Mayor.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 3 DE JUNIO DE 2010)</small>
 
 ARTICULO 42 BIS.- Son áreas de apoyo de la Presidencia:
 
@@ -499,7 +499,7 @@ II.- La Dirección de Evaluación y Seguimiento.
 
 ### CAPITULO II. DE LA DIRECCION GENERAL DE ADMINISTRACION
 
-> <small>(REFORMADO, B.O. 6 DE MAYO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 43.
 
@@ -529,7 +529,7 @@ IX.- Las demás que le confiera el presente reglamento, el Presidente, el manual
 
 ### CAPITULO III. DE LA DIRECCION GENERAL DE COMUNICACION
 
-> <small>(REFORMADO, B.O. 6 DE MAYO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 44.
 
@@ -551,7 +551,7 @@ VII.- Las demás que le confiere el presente reglamento, el Presidente y los ord
 
 Para el mejor desempeño de sus funciones, la Dirección aludida contará con el apoyo del área de Imagen, Divulgación y Eventos Especiales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, B.O. 3 DE JUNIO DE 2010)</small>
 
 ARTICULO 44 BIS.- La Comisión contará con un Órgano Interno de Control que tendrá las siguientes atribuciones:
 
@@ -579,9 +579,9 @@ I.- Auditoría Administrativa; y
 
 II.- Auditoría jurídica.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, B.O. 3 DE JUNIO DE 2010)</small>
 
-ARTICULO 44 TRIES (SIC).- La designación del responsable de la Oficialía Mayor será facultad de la Presidencia de la Comisión y deberá contar con un mínimo de tres años de experiencia laboral en el área económico-administrativa:
+ARTICULO 44 TER.- La designación del responsable de la Oficialía Mayor será facultad de la Presidencia de la Comisión y deberá contar con un mínimo de tres años de experiencia laboral en el área económico-administrativa:
 
 Para el desempeño de sus actividades, la Oficialía Mayor contará con las áreas de Recursos Humanos y Transparencia y tendrá a su cargo las funciones que a continuación se citan:
 
@@ -599,7 +599,7 @@ VI.- Aplicar la normatividad general en el procesamiento de datos de la Comisió
 
 VII.- Coordinar la elaboración del proyecto del presupuesto anual de la Comisión y vigilar su cumplimiento.
 
-VIII.- Organizar, custodiar, resguardar y administrar el archivo general de la Comisión, respecto de los expedientes de queja, recursos de inconformidad, orientación, siempre y cuando el trámite se encuentre concluido, así como de las demás recomendaciones cuyo seguimiento haya finalizado.
+VIII.- Organizar, custodiar, resguardar y administrar el archivo general de la Comisión, respecto de los expedientes de queja, recursos de inconformidad, orientación, siempre y cuando el trámite se encuentre concluido, así como de las demás Recomendaciones cuyo seguimiento haya finalizado.
 
 IX.- Registrar los bienes muebles e inmuebles de la Comisión y llevar el control de los mismos, elaborando un inventario con los resguardos correspondientes a nombre de los usuarios, quienes tendrán a su cargo la custodia y conservación en buen estado de los mismos.
 
@@ -613,9 +613,19 @@ XIII.- Para los efectos señalados en la Ley de Acceso a la Información Públic
 
 XIV.- Las demás funciones necesarias para el cumplimiento de sus objetivos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, B.O. 3 DE JUNIO DE 2010)</small>
 
-ARTICULO 44 QUATER.- La Comisión contará también con un Observatorio Contra la Discriminación, el cual tendrá por objeto contribuir al desarrollo cultural y democrático del Estado y avanzar en la inclusión social y el derecho a la igualdad de todas las personas, para lo cual tendrá las siguientes funciones:
+ARTICULO 44 QUATER.- La Dirección General de Educación y Formación en Derechos Humanos tendrá por objeto impulsar, promover y generar el desarrollo de estudios e investigaciones en el área de derechos humanos y materias afines. Tendrá a su cargo el diseño y ejecución de programas que contribuyan a la formación de una educación de excelencia en materia de derechos humanos y fomentar intercambio académico institucional.
+
+Para el desarrollo eficiente de sus funciones, la citada Dirección General contará con:
+
+I.- Dirección de Investigación y
+
+II.- Dirección de Estudios Legislativos.
+
+> <small>(REFORMADO, B.O. 3 DE JUNIO DE 2010)</small>
+
+ARTICULO 44 QUINTIES.- La Comisión contará también con un Observatorio Contra la Discriminación, el cual tendrá por objeto contribuir al desarrollo cultural y democrático del Estado y avanzar en la inclusión social y el derecho a la igualdad de todas las personas, para lo cual tendrá las siguientes funciones:
 
 I.- Realizar las acciones necesarias para prevenir y eliminar cualquier acto de discriminación.
 
@@ -627,9 +637,9 @@ IV.- Las demás que le encomiende el Presidente.
 
 El Observatorio Contra la Discriminación tendrá bajo su responsabilidad las áreas de Atención a las Personas que se Encuentran en Situación de Vulnerabilidad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE MAYO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 3 DE JUNIO DE 2010)</small>
 
-ARTICULO 44 QUINTIES.- La Presidencia de la Comisión también contará con las siguientes áreas de apoyo:
+ARTICULO 44 SEXTIES.- La Presidencia de la Comisión también contará con las siguientes áreas de apoyo:
 
 1.- Una Secretaría Particular, misma que tendrá las siguientes atribuciones:
 
@@ -1049,10 +1059,16 @@ SECRETARIO TECNICO
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-B.O. 10 DE MARZO DE 1994.
+B. O. 10 DE MARZO DE 1994.
 
 El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 B.O. 6 DE MAYO DE 2010.
 
 LAS REFORMAS CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SONORA.
+
+B.O. 3 DE JUNIO DE 2010.
+
+PRIMERO: Las presentes reformas al Reglamento Interior de la Comisión Estatal de Derechos Humanos de Sonora, entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO: La publicación de las presentes reformas en el medio oficial señalado, dejan sin efecto la publicación que se hizo en el Boletín Oficial del Gobierno del Estado, Tomo CLXXXV, número 36, Sección I, de fecha jueves 6 de mayo de 2010.
