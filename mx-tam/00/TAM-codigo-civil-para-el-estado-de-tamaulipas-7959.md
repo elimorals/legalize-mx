@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2010-05-04"
+last_updated: "2010-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2010.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -567,7 +567,7 @@ V.- El adulterio habido entre las personas que pretendan contraer matrimonio, cu
 
 VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
-VII.- La fuerza o miedo graves o cualquiera otra circunstancia que impida la expresión espontánea de la voluntad. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
+VII.- La fuerza o miedo graves (sic) o cualquiera otra circunstancia que impida la expresión espontánea de la voluntad. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
 
 VIII.- La embriaguez habitual, el uso no terapéutico de enervantes o estupefacientes, o de psicotrópicos o de cualquiera otra substancia que altere la conducta y que produzca farmacodependencia;
 
@@ -633,7 +633,7 @@ ART. 156.- El matrimonio debe celebrarse bajo el régimen de sociedad conyugal o
 
 ART. 157.- La sociedad convencional se regirá estrictamente por las capitulaciones matrimoniales que la constituyan. Todo lo que no estuviere expresado en ellas de un modo terminante, se regirá por los preceptos contenidos en los artículos del 172 al 196.
 
-ART. 158.- En todo lo que no estuviere comprendido en este Capitulo, la sociedad convencional y la legal se regirán por las disposiciones relativas a la sociedad civil.
+ART. 158.- En todo lo que no estuviere comprendido en este Capítulo, la sociedad convencional y la legal se regirán por las disposiciones relativas a la sociedad civil.
 
 ART. 159.- La sociedad conyugal termina por la disolución del matrimonio, por voluntad expresa de los consortes y por la sentencia que declare la presunción de muerte del cónyuge ausente.
 
@@ -893,7 +893,7 @@ ART. 226.- La acción de nulidad que nace de la causa prevista en la fracción V
 
 En uno y otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
 
-ART. 227.- La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre. puede ser deducida por los hijos del cónyuge víctima del atentado, o por el Ministerio Público, dentro del término de seis meses, contados desde que se celebró el nuevo matrimonio.
+ART. 227.- La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por los hijos del cónyuge víctima del atentado, o por el Ministerio Público, dentro del término de seis meses, contados desde que se celebró el nuevo matrimonio.
 
 ART. 228.- El miedo, la violencia, así como cualquier otra circunstancia que impida la expresión espontánea de la voluntad serán causa de nulidad del matrimonio si concurren algunas de las circunstancias siguientes:
 
@@ -909,7 +909,7 @@ ART. 229.- La nulidad que se funde en alguna de las causas expresadas en la frac
 
 ART. 230.- Tienen derecho de pedir la nulidad a que se refiere la fracción X del artículo 138, el otro cónyuge o el tutor del incapacitado.
 
-ART. 231.- El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segundo anula éste aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge del primer matrimonio, por sus hijo o herederos, y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá el Ministerio Público.
+ART. 231.- El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segundo anula éste aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge del primer matrimonio, por sus hijos o herederos, y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá el Ministerio Público.
 
 ART. 232.- La nulidad que se funde en la falta de las solemnidades esenciales para la validez del matrimonio, puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esa nulidad a instancia del Ministerio Público.
 
@@ -1077,7 +1077,7 @@ V.- Que no tengan hijos entre sí, o teniéndolos, sean mayores de edad, siempre
 
 VI.- En caso de que hayan contraído matrimonio bajo el régimen de sociedad conyugal, que acrediten con copia certificada de la resolución judicial o del convenio notarial correspondiente, haber liquidado la misma;
 
-VII.- Que la mujer presente original de certificado medico en el que conste que no se encuentra en estado de gravidez.
+VII.- Que la mujer presente original de certificado médico en el que conste que no se encuentra en estado de gravidez.
 
 El Oficial del Registro Civil, después de haber verificado que los solicitantes cumplieron con los requisitos antes mencionados, levantará un acta en la que hará constar la solicitud de divorcio administrativo y citará a los cónyuges para que se presenten a ratificar la solicitud dentro de un plazo no menor de diez ni mayor de quince días.
 
@@ -1200,6 +1200,10 @@ ART. 287.- El deudor alimentista no podrá pedir que se incorpore a su familia a
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 2010)</small>
 
 ART. 288.- Los alimentos han de ser proporcionados a la posibilidad del que deba darlos y a la necesidad del que deba recibirlos, pero la proporción de éstos no podrá ser un porcentaje inferior al 30 por ciento ni mayor del 50 por ciento del sueldo o salario del deudor alimentista.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+Cuando no sea comprobable el salario o los ingresos del deudor alimentario, el Juez resolverá con base en la capacidad económica y el nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los últimos dos años.
 
 ART. 289.- Si fuesen varios los que deben dar los alimentos el juez repartirá el importe entre ellos, en proporción a sus posibilidades económicas.
 
@@ -1463,7 +1467,7 @@ ART. 333.- El Oficial del Registro Civil, el Juez de Primera Instancia, en su ca
 
 ART. 334.- Si ambos padres se hubieren casado, en el acta de reconocimiento que haga uno de ellos podrá asentarse el nombre del otro consorte como co-progenitor.
 
-En este caso quedará probada la filiación del hijo respecto de ambos, aunque al contraer matrimonio no hubieren cumplido con el deber que impone la fracción III del artículo 331;y sin perjuicio de que el cónyuge que no haya estado presente en el acto pueda contradecir la imputación que se le haga, dentro de los sesenta días siguientes al en que se hubiere enterado de la misma.
+En este caso quedará probada la filiación del hijo respecto de ambos, aunque al contraer matrimonio no hubieren cumplido con el deber que impone la fracción III del artículo 331; y sin perjuicio de que el cónyuge que no haya estado presente en el acto pueda contradecir la imputación que se le haga, dentro de los sesenta días siguientes al en que se hubiere enterado de la misma.
 
 ART. 335.- Cada cónyuge podrá reconocer al hijo habido antes de su matrimonio, sin el consentimiento del otro; pero no tendrá derecho a llevarlo a vivir a la habitación conyugal, si no es con la anuencia expresa de éste.
 
@@ -1751,7 +1755,7 @@ Cuando llegue a conocimiento de cualquier autoridad administrativa que dichas pe
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-ART. 391 .- Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
+ART. 391.- Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
 
 La facultad de corregir no implica infligir al menor actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 298 ter de este Código.
 
@@ -1999,7 +2003,7 @@ ART. 452.- La tutela legítima de las personas comprendidas en las fracciones II
 
 I.- Al marido respecto de su esposa, y a ésta en cuanto a aquél;
 
-II.- A los hijos mayores de edad respecto de su padre o madre viudos. Cuando haya más de un hijo, será preferido el que viva en compañía del padre o de la madre incapacitados; y si varios estuvieren en el mismo caso, el juez elegirá el que le parezca más apto;
+II.- A los hijos mayores de edad respecto de su padre o madre viudos. Cuando haya más de un hijo, será preferido el que viva en compañía del padre o de la madre incapacitados (sic); y si varios estuvieren en el mismo caso, el juez elegirá el que le parezca más apto;
 
 III.- Al padre o a la madre, según convenga, respecto de sus hijos solteros, viudos o divorciados, que no tengan descendencia.
 
@@ -2109,7 +2113,7 @@ III.- Los que no rindan sus cuentas dentro del término fijado por la ley;
 
 IV.- Los comprendidos en el artículo anterior desde que sobrevenga o se averigüe su impedimento;
 
-V.- El que se encuentre en el caso previsto en el artículo 141,y
+V.- El que se encuentre en el caso previsto en el artículo 141, y
 
 VI.- El que por más de seis meses se ausente de la localidad en que deba desempeñar la tutela.
 
@@ -2191,7 +2195,7 @@ ART. 483.- Cuando la tutela del incapacitado recaiga en el cónyuge, en un ascen
 
 ART. 484.- Siempre que el tutor sea también coheredero del incapaz y éste no tenga más bienes que los hereditarios, no se podrá exigir al tutor otra garantía que la de su misma porción hereditaria, a no ser que esta porción no iguale la mitad de la porción del incapaz, pues en tal caso se integrará la garantía con bienes propios del tutor o con fianza.
 
-ART. 485.- Siendo varios las incapacitados cuyo haber consista en bienes procedentes de una herencia indivisa, si son varios los tutores, sólo se exigirá a cada uno de ellos garantía por la parte que corresponda a su representado.
+ART. 485.- Siendo varios los incapacitados cuyo haber consista en bienes procedentes de una herencia indivisa, si son varios los tutores, sólo se exigirá a cada uno de ellos garantía por la parte que corresponda a su representado.
 
 ART. 486.- El tutor sólo puede caucionar su manejo con fianza, cuando carezca de dinero o de bienes sobre los cuales sea posible constituir hipoteca o prenda.
 
@@ -2367,11 +2371,11 @@ ART. 547.- En ningún caso puede dispensarse la obligación de rendir cuenta de 
 
 ART. 548.- El tutor que sea reemplazado por otro, estará obligado, y lo mismo sus herederos, a rendir cuenta en general de la tutela al que le reemplaza. El nuevo tutor responderá al incapacitado por los daños y perjuicios, si no exigiere la rendición de cuentas a su antecesor o, en su caso, a los herederos de éste.
 
-ART. 549.- Dentro del los tres meses siguientes al fenecimiento de la tutela deben rendirse cuentas generales de ésta. El Juez, con audiencia de! Ministerio Público, podrá prorrogar el plazo hasta por tres meses más, en caso necesario.
+ART. 549.- Dentro del los tres meses siguientes al fenecimiento de la tutela deben rendirse cuentas generales de ésta. El Juez, con audiencia del Ministerio Público, podrá prorrogar el plazo hasta por tres meses más, en caso necesario.
 
 ART. 550.- La obligación de dar cuenta pasa a los herederos del tutor; y si alguno de ellos sigue administrando los bienes de la tutela, su responsabilidad será la misma que la de aquél.
 
-ART. 551 .- La garantía dada por el tutor no se cancelará, sino cuando las cuentas hayan sido aprobadas y todos los bienes entregados a quien corresponda, si no hubiere impedimento legal.
+ART. 551.- La garantía dada por el tutor no se cancelará, sino cuando las cuentas hayan sido aprobadas y todos los bienes entregados a quien corresponda, si no hubiere impedimento legal.
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
@@ -2401,7 +2405,7 @@ ART. 559.- El saldo que resulte en favor o en contra del tutor, producirá inter
 
 ART. 560.- Cuando en la cuenta resulte saldo contra el tutor, aunque por convenio con el que fue menor o con el que estuvo incapacitado y dejó de estarlo, o con sus representantes, se otorguen plazos al responsable o a sus herederos para satisfacerlo, subsistirán las garantías dadas para la administración, hasta que se verifique el pago, salvo pacto en contrario.
 
-ART. 561 .- No habrá espera y se podrá exigir el pago inmediato del adeudo, si el garante del tutor, no diere su consentimiento para el convenio respondiendo así del cumplimiento de la obligación. En su caso, podrá aceptarse la sustitución del garante por otro igualmente idóneo que acepte el convenio.
+ART. 561.- No habrá espera y se podrá exigir el pago inmediato del adeudo, si el garante del tutor, no diere su consentimiento para el convenio respondiendo así del cumplimiento de la obligación. En su caso, podrá aceptarse la sustitución del garante por otro igualmente idóneo que acepte el convenio.
 
 ART. 562.- Todas las acciones por hechos relativos a la administración de la tutela que el incapacitado pueda ejercer contra su tutor, o contra los garantes, de éste, quedan extinguidas por el lapso de cuarenta años, contados desde el día en que cese la incapacidad o desde el momento en que se hayan recibido los bienes y la cuenta de la tutela.
 
@@ -3337,7 +3341,7 @@ ART. 857.- Cuando una o varias partes del bien pertenecieren exclusivamente a un
 
 ART. 858.- Todo condueño es pleno propietario de la parte alícuota que le corresponde y de sus frutos y utilidades, pudiendo, en consecuencia, enajenarla, gravarla o autorizar a otro que lo substituya en su aprovechamiento, lo que se limitará a la porción que se le adjudique o transmita, en la división si cesare la copropiedad. Los copropietarios gozan del derecho del tanto.
 
-ART. 859.- Cuando los diferentes pisos, departamentos, viviendas o locales de un edificio, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquél o a la vía pública, pertenecieren a distintos propietarios, cada uno de éstos tendrá un derecho singular y exclusivo de propiedad sobre su piso, departamento, vivienda o local, y además un derecho de copropiedad sobre los elementos y partes comunes del edificio, necesarios para su adecuado uso o disfrute, tales como el suelo, cimientos, sótanos, muros de carga, fosos, patios, pozos, escaleras, elevadores, pasos, corredores, cubiertas, canalizaciones, desagües, servidumbres, etc. El derecho de copropiedad sobre los elementos comunes del edificio sólo será enajenable, gravable o embargable por terceros, conjuntamente con el piso, departamento, vivienda o local de propiedad exclusiva respecto del cual se considera complemento necesario. La copropiedad sobre los elementos comunes del edificio no es susceptible de división. Los derechos y obligaciones de los propietarios a que se refiere este precepto, se regirán por las escrituras en que se hubiera establecido el régimen de propiedad, por las de compraventa correspondientes, por el Reglamento de Condominio y Administración y, en su caso, por la Ley Reglamentaria de este artículo.
+ART. 859.- Cuando los diferentes pisos, departamentos, viviendas o locales de un edificio, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquél o a la vía pública, pertenecieren a distintos propietarios, cada uno de éstos tendrá un derecho singular y exclusivo de propiedad sobre su piso, departamento, vivienda o local, y además un derecho de copropiedad sobre los elementos y partes comunes del edificio, necesarios para su adecuado uso o disfrute, tales como el suelo, cimientos, sótanos, muros de carga, fosos, patios, pozos, escaleras, elevadores, pasos, corredores, cubiertas, canalizaciones, desagües, servidumbres, etc. El derecho de copropiedad sobre los elementos comunes del edificio sólo será enajenable, gravable o embargable por terceros, conjuntamente con el piso, departamento, vivienda o local de propiedad exclusiva respecto del cual se considera complemento necesario. La copropiedad sobre los elementos comunes del edificio no es susceptible de división. Los derechos y obligaciones de los propietarios a que se refiere este precepto, se regirán por las escrituras en que se hubiera establecido el régimen de propiedad, por las de compraventa correspondientes (sic), por el Reglamento de Condominio y Administración y, en su caso, por la Ley Reglamentaria de este artículo.
 
 ART. 860.- Las paredes divisorias de los predios pertenecen a quien haya costeado su construcción. Si no se demuestra quién pagó el costo, son de propiedad común.
 
@@ -3647,7 +3651,7 @@ ART. 961.- Las servidumbres son aparentes cuando se evidencian por obras o signo
 
 ART. 962.- Las servidumbres son inseparables de la finca a que activa o pasivamente pertenecen. Si las fincas mudan de dueño, las servidumbres continúan, ya activa, ya pasivamente, en el predio u objeto en que estaban constituidas, hasta que legalmente se extingan.
 
-ART. 963.- Las servidumbres son indivisibles. Si el predio sirviente se divide entre muchos dueños, la servidumbre no se modifica y cada uno de ellos tiene que tolerarla en la parte que le corresponda. Si es el predio dominante el que se divide entre muchos, cada porcionero puede usar por entero la servidumbre, no variando el lugar de su uso ni agravándola de otra manera. Mas si la servidumbre se hubiere establecido en favor de una sola de las fracciones del predio dominante, sólo el dueño de ésta podrá continuar disfrutándola.
+ART. 963.- Las servidumbres son indivisibles. Si el predio sirviente se divide entre muchos dueños, la servidumbre no se modifica y cada uno de ellos tiene que tolerarla en la parte que le corresponda. Si es el predio dominante el que se divide entre muchos, cada porcionero puede usar por entero la servidumbre, no variando el lugar de su uso ni agravándola de otra manera. Más si la servidumbre se hubiere establecido en favor de una sola de las fracciones del predio dominante, sólo el dueño de ésta podrá continuar disfrutándola.
 
 ART. 964.- Se denomina servidumbre legal la que se origina por disposición de la ley; y se llama voluntaria la que se establece por acto jurídico unilateral o plurilateral.
 
@@ -3661,7 +3665,7 @@ ART. 966.- Los predios inferiores están sujetos a recibir las aguas que natural
 
 ART. 967.- Cuando los predios inferiores reciban las aguas de los superiores a consecuencia de las mejoras agrícolas o industriales hechas a éstos, los dueños de los predios sirvientes tienen derecho de ser indemnizados, pero si las aguas que pasan al predio sirviente se han vuelto insalubres a consecuencia de ello o por los usos domésticos o industriales que de ellas se hayan hecho, deberán ser conducidas por ese predio subterráneamente, a costa del dueño del predio dominante, a menos que se vuelvan inofensivas por algún procedimiento, pero siempre a costa de dicho dueño. Si al realizar las obras de condición causan daño, se indemnizará al dueño del predio sirviente.
 
-ART. 968.- Cuando un predio rústico o urbano se encuentre enclavado ente otros, de manera que no tenga comunicación con algún canal o desagüe públicos, estarán obligados los dueños de los predios circunvecinos a permitir por entre éstos el desagüe del central. Las dimensiones y dirección del conducto del desagüe se fijarán, a falta de convenio, por el juez, observándose las reglas dadas para la servidumbre de acueducto.
+ART. 968.- Cuando un predio rústico o urbano se encuentre enclavado entre otros, de manera que no tenga comunicación con algún canal o desagüe públicos, estarán obligados los dueños de los predios circunvecinos a permitir por entre éstos el desagüe del central. Las dimensiones y dirección del conducto del desagüe se fijarán, a falta de convenio, por el juez, observándose las reglas dadas para la servidumbre de acueducto.
 
 ART. 969.- El dueño de un predio en que existan obra (sic) defensivas para contener el agua, o en que por la variación del curso de ésta sea necesario construir nuevas, está obligado a su elección, a hacer las reparaciones o construcciones, o a permitir que sin perjuicio suyo las hagan los dueños de los predios que experimenten o estén inminentemente expuestos a experimentar daño, a menos que la ley le imponga la obligación de hacer las obras.
 
@@ -3725,7 +3729,7 @@ ART. 989.- Cuando fuere necesario construir una presa y el que haya de hacerlo n
 
 ART. 990.- El propietario de una finca o heredad enclavada entre otras ajenas, sin salida a la vía pública, tiene derecho de exigir paso por las heredades vecinales para el aprovechamiento de aquélla, sin que sus respectivos dueños puedan reclamarle otra cosa que una indemnización equivalente al perjuicio que les ocasione este gravamen.
 
-ART. 991 .- La acción para reclamar esta indemnización es prescriptible.
+ART. 991.- La acción para reclamar esta indemnización es prescriptible.
 
 ART. 992.- El dueño del predio sirviente tiene derecho de señalar el lugar en donde haya de constituirse la servidumbre de paso.
 
@@ -4219,7 +4223,7 @@ ART. 1353.- El tercero en cuyo favor se realice una estipulación, tiene el dere
 
 ART. 1354.- El derecho de tercero nace en el momento de perfeccionarse el contrato, salvo la facultad que los contratantes conservan de imponerle las modalidades que juzguen convenientes, siempre que éstas consten expresamente en el referido contrato.
 
-ART. 1355.- Si el tercero rehusa la estipulación a su favor se extingue la obligación del promitente.
+ART. 1355.- Si el tercero rehúsa la estipulación a su favor se extingue la obligación del promitente.
 
 ART. 1356.- La estipulación puede ser revocada por el estipulante mientras que el tercero no haya manifestado su voluntad de querer aprovecharla.
 
@@ -4955,7 +4959,7 @@ ART. 1317.- Si la obligación fuere cumplida en parte, la pena se modificará en
 
 ART. 1318.- Si la modificación no pudiere ser exactamente proporcional, el juez reducirá la pena de una manera equitativa, teniendo en cuenta la naturaleza y demás circunstancias de la obligación.
 
-ART. 1319.- El acreedor puede exigir el cumplimiento de la obligación o el pago de la pena, pero no ambos; a menos que aparezca haber estipulado la pena por el simple retardo en el cumplimiento de la obligación, o por que éste no se preste de la manera convenida.
+ART. 1319.- El acreedor puede exigir el cumplimiento de la obligación o el pago de la pena, pero no ambos; a menos que aparezca haber estipulado la pena por el simple retardo en el cumplimiento de la obligación, o porque éste no se preste de la manera convenida.
 
 ART. 1320.- No podrá hacerse efectiva la pena cuando el obligado a ella no haya podido cumplir el contrato por hecho del acreedor, caso fortuito o fuerza mayor.
 
@@ -6333,7 +6337,7 @@ ART. 1771.- El arrendamiento de fincas urbanas destinadas a la habitación no te
 
 Con exclusión de cualquier otra persona, el cónyuge, el o la concubina, los hijos, los ascendientes en línea consanguínea o por afinidad del arrendatario fallecido se subrogarán en los derechos y obligaciones de éste, en los mismos términos del contrato, siempre y cuando hubieran habitado real y permanentemente el inmueble en vida del arrendatario.
 
-No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en este artículo .
+No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en este artículo.
 
 ART. 1772.- El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la ley para que sea fiador.
 
@@ -6389,7 +6393,7 @@ ART. 1789.- Aun cuando la pérdida o deterioro sobrevengan por caso fortuito, se
 
 ART. 1790.- El arrendatario de un animal está obligado a darle de comer y beber durante el tiempo en que lo tenga en su poder, de modo que no se desmejore, y a curarle las enfermedades ligeras, sin poder cobrar nada al dueño.
 
-ART. 1791 .- Los frutos del animal alquilado pertenecen al dueño, salvo convenio en contrario, y en caso de que muera, sus despojos serán entregados por el arrendatario al dueño, si son de alguna utilidad y es posible el transporte.
+ART. 1791.- Los frutos del animal alquilado pertenecen al dueño, salvo convenio en contrario, y en caso de que muera, sus despojos serán entregados por el arrendatario al dueño, si son de alguna utilidad y es posible el transporte.
 
 ART. 1792.- Cuando se arrienden dos o más animales que forman un todo, como una yunta o un tiro, y uno de ellos se inutiliza, se rescinde el arrendamiento, a no ser que el dueño quiera dar otro que forme un todo con el que sobrevivió.
 
@@ -6575,7 +6579,7 @@ ART. 1865.- El depositario puede devolver el depósito al depositante:
 
 I.- Antes de vencerse el plazo para el depósito, si existe justa causa; y
 
-II.- Si no se ha estipulado plazo, cuando el depositario quiera. En los dos casos previstos en este artículo , el depositario debe avisar al depositante con una prudente anticipación cuando se necesite preparar algo para la guarda del bien.
+II.- Si no se ha estipulado plazo, cuando el depositario quiera. En los dos casos previstos en este artículo, el depositario debe avisar al depositante con una prudente anticipación cuando se necesite preparar algo para la guarda del bien.
 
 ART. 1866.- El depositante está obligado a indemnizar al depositario de todos los gastos que haya hecho en la conservación del depósito y de los prejuicios que por él haya sufrido.
 
@@ -6771,7 +6775,7 @@ I.- Por la muerte del comodatario; y
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
-II.- Por la enajenación del bien comodado, en cuyo caso el comodatario deberá restituir el bien al comodante, aun cuando no hubiere terminado el plazo o uso convenidos.
+II.- Por la enajenación del bien como dado, en cuyo caso el comodatario deberá restituir el bien al comodante, aun cuando no hubiere terminado el plazo o uso convenidos.
 
 ## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
 
@@ -6921,7 +6925,7 @@ ART. 2016.- La aportación de los socios puede consistir en una cantidad de dine
 
 ART. 2017.- El acto constitutivo de la sociedad debe constar en escritura pública, la que se inscribirá en el Registro Público, para que surta efectos contra tercero.
 
-ART. 2018.- La falta de la forma prescrita en el artículo anterior sólo produce el efecto de que los socios puedan pedir en cualquier tiempo, que se haga la liquidación de la sociedad conforme al capitulo V de este Título; pero mientras esa liquidación no se pida, la sociedad produce todos sus efectos entre los socios y éstos no pueden oponer a terceros que hayan contratado con ella, la falta de forma.
+ART. 2018.- La falta de la forma prescrita en el artículo anterior sólo produce el efecto de que los socios puedan pedir en cualquier tiempo, que se haga la liquidación de la sociedad conforme al capítulo V de este Título; pero mientras esa liquidación no se pida, la sociedad produce todos sus efectos entre los socios y éstos no pueden oponer a terceros que hayan contratado con ella, la falta de forma.
 
 ART. 2019.- Si se formare una sociedad para un objeto ilícito, a solicitud de cualquiera de los socios o de un tercero interesado, se declarará la nulidad de la sociedad, la cual se pondrá en liquidación.
 
@@ -7079,7 +7083,7 @@ ART. 1960.- Cuando al encargarse una obra no se ha fijado precio, se tendrá por
 
 ART. 1961.- El precio de la obra se pagará al entregarse ésta, salvo convenio en contrario.
 
-ART. 1962.- El empresario que se encargue de ejecutar alguna obra por precio determinado, no tiene derecho de exigir después ningún aumento, aunque lo haya tenido el precio de los materiales o el de los salarios, salvo que ese aumento sea del veinte porciento o más y siempre que el empresario no esté constituido en mora. El aumento a que tiene derecho el empresario será proporcional al tenido por los materiales y salarios.
+ART. 1962.- El empresario que se encargue de ejecutar alguna obra por precio determinado, no tiene derecho de exigir después ningún aumento, aunque lo haya tenido el precio de los materiales o el de los salarios, salvo que ese aumento sea del veinte por ciento o más y siempre que el empresario no esté constituido en mora. El aumento a que tiene derecho el empresario será proporcional al tenido por los materiales y salarios.
 
 ART. 1963.- El empresario no tiene derecho a exigir aumento en el precio cuando haya habido algún cambio o aumento en el plano o diseño, a no ser que sean autorizados por escrito por el dueño y con expresa designación del precio.
 
@@ -7585,7 +7589,7 @@ ART. 2091.- La deuda de juego o de apuesta prohibidos no podrá compensarse ni s
 
 ART. 2092.- El que hubiere firmado una obligación que en realidad tenga por causa una deuda de juego, o de apuesta no permitidos, conservará, aunque se atribuya a la obligación una causa civilmente eficaz, la excepción que nace del artículo anterior, si puede probar por todos los medios, la causa real de la obligación.
 
-ART. 2093.- Si a una obligación de juego, o apuesta no permitidos, se le hubiere dado la forma de título a la orden o al portador. el suscriptor deberá pagarla al portador de buena fe, pero tendrá el derecho que le concede el artículo 2090.
+ART. 2093.- Si a una obligación de juego, o apuesta no permitidos, se le hubiere dado la forma de título a la orden o al portador, el suscriptor deberá pagarla al portador de buena fe, pero tendrá el derecho que le concede el artículo 2090.
 
 ART. 2094.- Cuando las personas recurran al sorteo, no como apuesta o juego, sino para dividir las cosas comunes, o para terminar cuestiones, se producirán, en el primer caso, los efectos de una partición legítima, en el segundo, los de una transacción.
 
@@ -7979,7 +7983,7 @@ ART. 2298.- El propietario de un bien inmueble que se halle libre de gravámenes
 
 I.- La declaración unilateral de la voluntad que la constituya se hará constar ante notario, en escritura pública, y se establecerá expresamente el plazo de la hipoteca y el interés que en su caso causará la suma por la que se constituya;
 
-II.- La suma que esta hipoteca garantice no podrá exceder del cuarenta porciento del valor del bien hipotecado, según avalúo bancario;
+II.- La suma que esta hipoteca garantice no podrá exceder del cuarenta por ciento del valor del bien hipotecado, según avalúo bancario;
 
 III.- El primer testimonio de la escritura de constitución se inscribirá en el Registro Público para que la hipoteca surta efectos contra tercero;
 
@@ -7989,13 +7993,13 @@ IV.- Una vez hecha la inscripción, el propietario podrá:
 
 2o.- Cancelar dicha hipoteca si no la ha transmitido a otra persona ni total ni parcialmente;
 
-V.- La transmisión total o las transmisiones parciales se harán constar en escritura pública y se inscribirán en el Registro Público para que surtan efectos contra tercero. En estas escrituras se insertará la escritura constitutiva de la hipoteca y la razón de su registro.
+V.- La transmisión total o las transmisiones parciales se harán constar en escritura pública y se inscribirán en el Registro Público para que surtan efectos contra tercero. En estas escrituras se insertará la escritura constitutiva de la hipoteca y la razón de su registro;
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
 VI.- El adquirente o adquirentes de este derecho real hipotecario no podrán tener más derechos que los establecidos en la escritura que constituyó la hipoteca;
 
-VII.- Si la transmisión del derecho hipotecario es por su importe total en favor de un solo acreedor, éste goza de los derechos de garantía y preferencia que son oponibles a todos los acreedores personales del constituyente de la hipoteca y a los que tengan un derecho real constituido con posterioridad al registro de que trata la fracción III de este artículo .
+VII.- Si la transmisión del derecho hipotecario es por su importe total en favor de un solo acreedor, éste goza de los derechos de garantía y preferencia que son oponibles a todos los acreedores personales del constituyente de la hipoteca y a los que tengan un derecho real constituido con posterioridad al registro de que trata la fracción III de este artículo;
 
 VIII.- Si la transmisión es parcial y se hace a varios acreedores, en la misma o en diferentes fechas, todos ellos ocuparán el mismo grado de preferencia;
 
@@ -8007,7 +8011,7 @@ XI.- En caso de juicio, se llamará a todos los acreedores que hubiesen adquirid
 
 XII.- La hipoteca por declaración unilateral de voluntad no puede constituirse en fraude de los acreedores;
 
-XIII.- La hipoteca por declaración unilateral de voluntad caduca, cuando transcurren seis meses desde que se constituyó sin que el propietario haya ejercido el derecho que le confiere el párrafo primero de la fracción IV de este artículo . Si la hipoteca se transmitió parcialmente dentro de ese plazo, sólo caducará la parte que no se haya transmitido;
+XIII.- La hipoteca por declaración unilateral de voluntad caduca, cuando transcurren seis meses desde que se constituyó sin que el propietario haya ejercido el derecho que le confiere el párrafo primero de la fracción IV de este artículo. Si la hipoteca se transmitió parcialmente dentro de ese plazo, sólo caducará la parte que no se haya transmitido;
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
@@ -8015,7 +8019,7 @@ XIV.- Transcurrido el plazo de seis meses a que se refiere la fracción anterior
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
-XV.- Si dentro de un año después de inscrita la hipoteca por declaración unilateral de voluntad, no se presenta para su registro el testimonio de una cesión, hecha por el propietario dentro de los seis meses a que se refiere la fracción XIV de este artículo , deja de surtir efectos, por ministerio de la ley, la inscripción de la hipoteca constituida por declaración unilateral. El registrador en este caso cancelará a petición de parte interesada o de oficio cuando advierta que se está en esta situación; pero si el propietario en tiempo cedió parcial o totalmente la hipoteca y el cesionario no inscribió oportunamente la cesión, se considerará al cesionario como acreedor quirografario;
+XV.- Si dentro de un año después de inscrita la hipoteca por declaración unilateral de voluntad, no se presenta para su registro el testimonio de una cesión, hecha por el propietario dentro de los seis meses a que se refiere la fracción XIV de este artículo, deja de surtir efectos, por ministerio de la ley, la inscripción de la hipoteca constituida por declaración unilateral. El registrador en este caso cancelará a petición de parte interesada o de oficio cuando advierta que se está en esta situación; pero si el propietario en tiempo cedió parcial o totalmente la hipoteca y el cesionario no inscribió oportunamente la cesión, se considerará al cesionario como acreedor quirografario;
 
 XVI.- Si la hipoteca por declaración unilateral de voluntad fuere embargada al propietario y caducare la hipoteca misma, el embargo se considerará trabado sobre el bien inmueble.
 
@@ -8041,7 +8045,7 @@ ART. 2306.- El crédito puede cederse, en todo o en parte, siempre que la cesió
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2002)</small>
 
-La instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarios, las demás entidades finacieras y las instituciones de seguridad social, podran ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, ni de escritura pública o de inscripción en el Registro Público de la Propiedad y del Comercio, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente hacer la notificación por escrito de la cesión al deudor.
+La instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarios, las demás entidades financieras y las instituciones de seguridad social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, ni de escritura pública o de inscripción en el Registro Público de la Propiedad y del Comercio, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente hacer la notificación por escrito de la cesión al deudor.
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2002)</small>
 
@@ -8059,7 +8063,7 @@ Lo mismo se observará en el caso de que el acreedor conceda un nuevo plazo para
 
 ### CAPITULO III. DE LA HIPOTECA NECESARIA
 
-ART. 2311.- Llámase necesaria la hipoteca especial y expresa que, por disposición de la ley, están obligadas a constituir ciertas personas que aseguran los créditos de determinados acreedores.
+ART. 2311.- Llamase necesaria la hipoteca especial y expresa que, por disposición de la ley, están obligadas a constituir ciertas personas que aseguran los créditos de determinados acreedores.
 
 ART. 2312.- La constitución de la hipoteca necesaria podrá exigirse en cualquier tiempo, aunque haya cesado la causa que le diere fundamento, siempre que esté pendiente de cumplimiento la obligación que se debiera haber asegurado.
 
@@ -8103,7 +8107,7 @@ ART. 2321.- Si el constituyente de la hipoteca tiene un dominio revocable, o suj
 
 En estos casos deberá declararse la naturaleza del dominio por el constituyente del gravamen, y si no constare en el Registro Público, ni se declare, la hipoteca continuará vigente, entre tanto no se extinga por alguna otra causa.
 
-ART. 2322.- Se reconoce la hipoteca de propietario en favor del mismo dueño de la finca gravada. para que pueda constituirla por acto unilateral, o adquirirla por subrogación a efecto de disponer de dicha garantía y mantener preferencia frente a los hipotecarios posteriores.
+ART. 2322.- Se reconoce la hipoteca de propietario en favor del mismo dueño de la finca gravada, para que pueda constituirla por acto unilateral, o adquirirla por subrogación a efecto de disponer de dicha garantía y mantener preferencia frente a los hipotecarios posteriores.
 
 ART. 2323.- Cuando el constituyente de una hipoteca pagare ésta, conserva a su disposición el gravamen con el lugar y grado de preferencia que tenga, para poder transmitirlo a tercero. En el caso de que se rematare el bien hipotecado, el propietario tendrá preferencia en la forma y términos que correspondan a la hipoteca que hubiere pagado.
 
@@ -8487,7 +8491,7 @@ ART. 2459.- Se tendrá por no puesta la condición de no dar o de no hacer, y la
 
 ART. 2460.- Cuando la condición fuere casual o mixta, bastará que se realice en cualquier tiempo, vivo o muerto el testador, si éste no hubiere dispuesto algo diverso.
 
-ART. 2461.- Si la condición se hubiere cumplido al hacerse el testamento, ignorándolo el testador, se tendrá por cumplida, mas si lo sabía sólo se tendrá por cumplida si ya no puede existir o cumplirse de nuevo.
+ART. 2461.- Si la condición se hubiere cumplido al hacerse el testamento, ignorándolo el testador, se tendrá por cumplida, más si lo sabía sólo se tendrá por cumplida si ya no puede existir o cumplirse de nuevo.
 
 ART. 2462.- La condición de contraer o no contraer matrimonio, impuesta al sucesor, se tendrá por no puesta. Pero sí se podrá limitar el legado al tiempo que permanezca soltero o viudo el legatario.
 
@@ -9037,7 +9041,7 @@ ART. 2622.- El testador podrá conservar el testamento en su poder, o darlo en g
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
 
-Los servidores públicos del Registro de la Propiedad no proporcionarán informes acerca del testamento publico cerrado depositado en la oficina, sino al mismo testador, a los jueces competentes que oficialmente se los pidan y a los Notarios cuando ante ellos se tramite alguna sucesión.
+Los servidores públicos del Registro de la Propiedad no proporcionarán informes acerca del testamento público cerrado depositado en la oficina, sino al mismo testador, a los jueces competentes que oficialmente se los pidan y a los Notarios cuando ante ellos se tramite alguna sucesión.
 
 ART. 2623.- El testador que quiera depositar su testamento en el Registro Público de la Propiedad, se presentará con él ante el director de éste, quien hará asentar en el libro que con ese objeto debe llevarse, una razón del depósito o entrega, que será firmada por dicho funcionario, y el testador, a quien se dará copia autorizada.
 
@@ -9903,7 +9907,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 5 DE DICIEMBRE DE 2002.
 
-Único.- El presente Decreto entrará en vigor al dia siguiente de su publicación en el Periódico Oficial del Estado.
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 17 DE DICIEMBRE DE 2003.
 
@@ -9993,7 +9997,7 @@ P.O. 3 DE NOVIEMBRE DE 2009.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor el día suguiente al de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 7 DE ENERO DE 2010.
 
@@ -10010,3 +10014,9 @@ P.O. 4 DE MAYO DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JUNIO DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
