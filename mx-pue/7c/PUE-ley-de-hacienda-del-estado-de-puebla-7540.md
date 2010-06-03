@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-de-puebla-7540"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "2009-12-30"
+last_updated: "2010-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 1993.
 
@@ -259,147 +259,581 @@ IX.- Contraprestaciones a que se refiere el artículo 1º de esta Ley, cubiertas
 
 Las infracciones al presente capítulo serán sancionadas de conformidad a lo previsto por el Código Fiscal del Estado.
 
-### CAPITULO II. DEL IMPUESTO ESTATAL SOBRE TENENCIA O USO DE VEHICULOS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 2010)</small>
+
+### CAPITULO II. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 11.
 
-Es objeto de este impuesto, la tenencia o uso de vehículos de motor cuyos modelos sean de más de 10 años de fabricación anteriores a la aplicación de esta Ley, y que el propietario esté domiciliado en el Estado de Puebla.
+Están obligadas al pago del Impuesto Sobre Tenencia o Uso de Vehículos, las personas físicas y las morales tenedoras o usuarias de los vehículos de motor a que se refiere este Capítulo.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+Para los efectos de este impuesto, se presume que el propietario es tenedor o usuario del vehículo.
 
-También se consideran vehículos de motor a las motocicletas, minibuses, microbuses, autobuses, omnibuses, camiones, vehículos eléctricos y tractores no agrícolas tipo quinta rueda.
+Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el artículo 13 de esta Ley.
 
-Para efectos de este impuesto se considerará como:
+En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de las disposiciones contenidas en este Capítulo, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
 
-I.- Marca, las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos, para diferenciarlos de los demás.
+En caso de que no puedan comprobarse los años de antigüedad del vehículo, este impuesto se pagará como si fuese nuevo.
 
-II.- Año, modelo, el año de fabricación o ejercicio automotriz comprendido por el período entre el 1° de noviembre del año anterior y el 31 de octubre del año que transcurra.
+Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
 
-III.- Modelo, todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de las que derivan los diversos modelos.
+Mes Factor aplicable al impuesto causado
 
-IV- Versión, cada una de las distintas presentaciones comerciales que tiene un modelo.
+Febrero 0.92
 
-V.- Línea:
+Marzo 0.83
 
-a) Automóviles con motor de gasolina o gas de hasta cuatro cilindros.
+Abril 0.75
 
-b) Automóviles con motor de gasolina o gas de seis u ocho cilindros.
+Mayo 0.67
 
-c) Automóviles de motor diesel.
+Junio 0.58
 
-d) Camiones con motor de gasolina, gas o diesel.
+Julio 0.50
 
-e) Tractores no agrícolas, tipo quinta rueda, y
+Agosto 0.42
 
-f) Autobuses integrales.
+Septiembre 0.33
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+Octubre 0.25
 
-g) Vehículos eléctricos.
+Noviembre 0.17
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+Diciembre 0.08
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 12.
 
-Son sujetos de este impuesto las personas físicas y morales, tenedores o usuarias de los vehículos cuyos modelos tengan más de 10 años de fabricación.
+Es objeto del impuesto a que se refiere este Capítulo, la tenencia o uso de vehículos de motor, cuyo tenedor o usuario tenga su domicilio dentro de la circunscripción territorial del Estado.
 
-Para efectos de este impuesto, se presume que el propietario es tenedor o usuario del vehículo.
+Para efectos de este Capítulo, se considerará como:
+
+I. Vehículos de Motor.- A los automóviles, motocicletas, minibuses, microbuses, autobuses, omnibuses, camiones, vehículos eléctricos y tractores no agrícolas tipo quinta rueda y demás a que se refiere esta Ley;
+
+II. Marca.- Las denominaciones y distintivos que los fabricantes dan a sus vehículos de motor, para diferenciarlos de los demás;
+
+III. Año Modelo.- El periodo comprendido entre el inicio de la producción de determinado tipo de vehículo y el 31 de diciembre del año calendario con que dicho fabricante designe el modelo en cuestión;
+
+IV. Modelo.- Todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea;
+
+V. Carrocería Básica- El conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de las que derivan los diversos modelos;
+
+VI. Versión.- Cada una de las distintas presentaciones comerciales que tiene un modelo;
+
+VII. Línea:
+
+a) Automóviles con motor de gasolina o gas de hasta cuatro cilindros;
+
+b) Automóviles con motor de gasolina o gas de seis u ocho cilindros;
+
+c) Automóviles de motor diesel;
+
+d) Camiones con motor de gasolina, gas o diesel;
+
+e) Tractores no agrícolas, tipo quinta rueda;
+
+f) Autobuses integrales;
+
+g) Vehículos eléctricos; y
+
+h) Automóviles cuyo motor combine energía proveniente de gas, gasolina o eléctrico.
+
+VIII. Comerciantes en el Ramo de Vehículos.- A las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados;
+
+IX. Vehículo nuevo:
+
+a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciante en el ramo de vehículos;
+
+b) El importado definitivamente al país, que corresponda al año modelo posterior al de aplicación de las disposiciones a que se refiere este Capítulo, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva; y
+
+X. Valor Total del Vehículo.- El precio de enajenación al consumidor, del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía Federal como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, así como las contribuciones que se deban pagar con motivo de la importación, a excepción del Impuesto al Valor Agregado y en su caso, del valor de blindaje del vehículo.
+
+En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 13.
 
-Para determinar la base gravable de este impuesto se considerará:
+El impuesto a que se refiere este Capítulo, se causará por año calendario y se pagará anualmente durante los primeros tres meses de cada ejercicio fiscal, en las Oficinas Recaudadoras y de Asistencia al Contribuyente; Receptoras de Pago; Instituciones Bancarias o Establecimientos que autorice y dé a conocer la Secretaría de Finanzas y Administración mediante Reglas de Carácter General, o a través de medios electrónicos; mediante las formas oficiales que apruebe la misma Dependencia en términos del Código Fiscal del Estado.
 
-I.- El cilindraje o centímetros cúbicos del motor.
+Tratándose de vehículos nuevos, este impuesto deberá enterarse en un plazo no mayor a 15 días hábiles siguientes a la fecha de su adquisición.
 
-II.- (DEROGADA, P.O. 31 DE MARZO DE 2006)
+Para aquellos vehículos que porten placas de transporte público federal, el impuesto se pagará en los plazos, lugares y formas previstas en el primer párrafo de este artículo, siempre y cuando el domicilio fiscal que el propietario tenga registrado ante la Secretaría de Hacienda y Crédito Público se encuentre dentro del territorio del Estado.
 
-III.- El servicio que realice.
+En los casos que proceda, el contribuyente comprobará el pago del Impuesto Sobre Tenencia o Uso de Vehículos a que esté sujeto, con el original del comprobante de pago que le hubiere expedido la Entidad Federativa correspondiente.
 
-IV.- (DEROGADA, P.O. 31 DE MARZO DE 2006)
+Los sujetos de este impuesto, no están obligados a presentar por esta contribución la solicitud de inscripción ni los avisos a los Registros Federal o Estatal de Contribuyentes, con excepción de aquéllos que se encuentren inscritos en dichos registros, los cuales deberán proporcionar la clave correspondiente, y tratándose de personas físicas, su Clave Única de Registro de Población.
+
+Los importadores ocasionales efectuarán el pago del Impuesto Sobre Tenencia o Uso de Vehículos, correspondiente al primer año de calendario en los plazos, lugares y formas establecidos en este Capítulo y de conformidad con los convenios que al efecto se suscriban con las autoridades competentes. Para los siguientes años de calendario, se estará en lo dispuesto en este artículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 14.
 
-El impuesto estatal sobre tenencia o uso de vehículos se causará y pagará conforme a la tarifa que anualmente señale la Ley de Ingresos del Estado.
+No se pagará el impuesto a que se refiere este Capítulo, por la tenencia o uso de los siguientes vehículos:
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+I. Los destinados al servicio de misiones diplomáticas y consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad;
 
-###### ARTICULO 15.
+II. Los que la Federación, el Estado y sus Municipios utilicen para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y, los destinados a los cuerpos de bomberos;
 
-Los sujetos del Impuesto Estatal Sobre Tenencia o Uso de Vehículos lo pagarán anualmente durante los primeros tres meses de cada ejercicio fiscal, en las Oficinas Recaudadoras y de Asistencia al Contribuyente; Receptoras de Pago; Instituciones Bancarias o Establecimientos que autorice y dé a conocer la Secretaría de Finanzas y Administración mediante Reglas de Carácter General, o a través de medios electrónicos; mediante las formas oficiales que apruebe la misma Dependencia en términos del Código Fiscal del Estado.
+III. Los eléctricos o aquéllos que utilicen cualquier otra fuente de energía alternativa no contaminante, utilizados para el transporte público de personas;
 
-###### ARTICULO 16.
+IV. Los importados temporalmente en los términos de la legislación aduanera;
 
-No se pagará este impuesto por la tenencia o uso de los siguientes vehículos:
+V. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación;
 
-I.- Los vehículos que exclusivamente estén al servicio de los cuerpos diplomáticos y consulares extranjeros acreditados ante nuestro país.
+VI. Las embarcaciones dedicadas al transporte mercante o a la pesca comercial;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
+VII. Las aeronaves monomotores de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga; y
 
-II.- Los vehículos de la Federación, Estado y Municipios que sean utilizados para la prestación de los servicios de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios y ambulancias dependientes de cualquiera de estas entidades o de instituciones de beneficencia autorizada por la Ley de la materia y los destinados a los cuerpos de bomberos.
-
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
+VIII. Las aeronaves con más de veinte pasajeros, destinadas al aerotransporte al público en general.
 
 Los tenedores o usuarios de los vehículos a que se refiere este artículo, para gozar del beneficio que el mismo establece, al momento de solicitarlo deberán comprobar ante las Oficinas Recaudadoras y de Asistencia al Contribuyente que se encuentran comprendidos en dichos supuestos.
 
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo, deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
+Cuando por cualquier motivo, un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo, deberá pagar el impuesto correspondiente dentro de los 15 días hábiles siguientes a aquél en que tenga lugar el hecho de que se trate, de manera proporcional a partir del mes en que dejó de estar comprendido en los supuestos señalados, conforme a lo que resulte de aplicar el siguiente factor:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+Mes en que dejó Factor aplicable
+
+de estar al impuesto
+
+comprendido causado
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
+Cuando el vehículo por el que se cause este impuesto quede en situación de robo total o sea considerado pérdida total, el contribuyente pagará el impuesto correspondiente en proporción al número de meses en que fue sujeto al mismo, conforme a la siguiente tabla:
+
+Mes de robo Factor aplicable
+
+o pérdida al impuesto causado
+
+Enero 0.08
+
+Febrero 0.17
+
+Marzo 0.25
+
+Abril 0.33
+
+Mayo 0.42
+
+Junio 0.50
+
+Julio 0.58
+
+Agosto 0.67
+
+Septiembre 0.75
+
+Octubre 0.83
+
+Noviembre 0.92
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+###### ARTICULO 15.
+
+Son responsables solidarios del pago del impuesto establecido en este Capítulo:
+
+I. Quienes adquieran por cualquier título la propiedad, tenencia o uso del vehículo, hasta por el monto del adeudo del impuesto que en su caso existiera, aun cuando se trate de personas que no están obligadas al pago de dicha contribución;
+
+II. Quienes no realicen los actos administrativos previstos en el artículo 28 A, incisos a, c y d de esta Ley, dentro del plazo establecido para ello;
+
+III. Quienes reciban vehículos en consignación o comisión para su enajenación, por el adeudo de este Impuesto que en su caso existiera; y
+
+IV. Los servidores públicos del Estado que realicen los actos administrativos a que se refiere el artículo 28 A incisos a, c y d de esta Ley, sin haberse cerciorado que no existan adeudos por este impuesto.
+
+Los servidores o empleados públicos que realicen los actos administrativos a que se refiere el artículo 28 A de esta Ley, solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en el territorio del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+APARTADO A
+
+DE LOS VEHICULOS NUEVOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+###### ARTICULO 16.
+
+Tratándose de automóviles, minibuses, microbuses, autobuses, omnibuses, camiones y tractores no agrícolas tipo quinta rueda, nuevos, el impuesto a que se refiere este Capítulo, se calculará como a continuación se indica:
+
+I. En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa a que se refiere la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda; y
+
+II. Para vehículos nuevos destinados al transporte de más de quince pasajeros o para el transporte de efectos, cuyo peso bruto vehicular sea menor a 15 toneladas y para vehículos nuevos que cuenten con placas de servicio público de transporte de pasajeros y los automóviles de alquiler en su modalidad de taxis, el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del vehículo. Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del vehículo, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+
+Para efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasís, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
+
+Para efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses, omnibuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 17.
 
-A requerimiento de las autoridades fiscales, los contribuyentes del Impuesto Estatal sobre Tenencia o Uso de Vehículos están obligados a:
+Tratándose de motocicletas nuevas, el impuesto a que se refiere este Capítulo se calculará aplicando al valor total de la motocicleta, la tarifa que señale la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
 
-> <small>(REFORMADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Presentar el original del documento que ampare la propiedad del vehículo.
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
+ARTICULO 17 A.- Tratándose de vehículos eléctricos nuevos, así como de aquellos eléctricos nuevos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno o por cualquier otra fuente de energía alternativa no contaminante, el impuesto se pagará conforme a la tasa que establezca la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
 
-II.- Presentar el comprobante domiciliario.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
 
-III.- Presentar los comprobantes del pago de este impuesto y de los derechos por servicios de control vehicular, en los que conste el sello del lugar autorizado en que se haya realizado dicho pago o bien, el comprobante de pago computarizado, cuya anterioridad no sea mayor al plazo de 5 años, contados a partir de la fecha en la que se realizó o debió de realizarse el pago que en dichos comprobantes se consigna.
+APARTADO B
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
+DE LOS VEHICULOS USADOS DE UNO A NUEVE AÑOS MODELO DE ANTIGÜEDAD
 
-IV.- Tratándose de vehículos de procedencia extranjera, acreditar, su legal y definitiva estancia en el país, con la documentación respectiva.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
-
-V.- Presentar copia del contrato de compraventa o de la factura en la que se cedan los derechos de propiedad del vehículo, para el caso de que haya enajenado éste.
-
-> <small>(REFORMADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
-
-VI.- Presentar tratándose del servicio público, además, el acuerdo de otorgamiento y tarjetón de concesión.
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
-
-VII.- Anotar en los formatos de este impuesto, al momento de solicitar su incorporación o modificación en el registro establecido por la Secretaría de Finanzas y Administración, su clave de los Registros Federal y Estatal de Contribuyentes en los casos en que se encuentren inscritos en los mismos, y tratándose de personas físicas, además, señalar su Clave Única del Registro de Población, y
-
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
-
-VIII.- Presentar copia del acta del Ministerio Público o del documento en el que conste el robo o siniestro del vehículo, en los casos que proceda.
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 18.
 
-Son responsables solidarios del pago del impuesto estatal sobre tenencia o uso de vehículos:
+Tratándose de vehículos de fabricación nacional o importados a que se refiere el artículo 16 fracción II de esta Ley, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
 
-I.- Quiénes adquieran por cualquier título la propiedad, tenencia o uso de uno o más vehículos, hasta por el monto del crédito fiscal omitido y sus accesorios.
+TABLA
 
-II.- Quiénes reciban en consignación o comisión para su enajenación, uno o más vehículos objeto de este gravamen, hasta por el monto del impuesto y sus accesorios que se hubieran dejado de pagar.
+Años de antigüedad Factor
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2004)</small>
+1 0.900
 
-III.- Los servidores públicos del Estado que en ejercicio de sus funciones autoricen altas, bajas, cambios o reposición de placas, tarjetas de circulación, cambios o modificaciones de domicilio, de vehículo o cualquier otro dato del registro establecido por la Secretaría de Finanzas y Administración, sin cerciorarse del pago del impuesto.
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0800
+
+7 0.750
+
+8 0667
+
+9 0.500
+
+El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 18 D de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+ARTICULO 18 A.- Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte de alquiler en su modalidad de taxis, de uno a nueve años modelo de antigüedad, el impuesto a que se refiere este Capítulo, se calculará para el ejercicio fiscal siguiente a aquél en el que se dé este supuesto, conforme al siguiente procedimiento:
+
+I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en el artículo 18 de esta Ley; y
+
+II. La cantidad obtenida conforme a la fracción anterior, se actualizará de conformidad con lo dispuesto en el artículo 18 D de esta Ley; el resultado obtenido se multiplicará por 0.245%.
+
+Para efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+ARTICULO 18 B.- Tratándose de automóviles de fabricación nacional o importados, destinados al transporte de hasta quince pasajeros de uno a nueve años modelo de antigüedad, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor de depreciación
+
+I 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+II. La cantidad obtenida conforme a la fracción anterior, se actualizará de conformidad con lo dispuesto en el artículo 18 D de esta Ley; al resultado se le aplicará la tarifa establecida en la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
+
+Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos, a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+ARTICULO 18 C.- Tratándose de motocicletas de fabricación nacional o importadas, de uno a nueve años modelo de antigüedad, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+El valor total de la motocicleta se multiplicará por el factor de depreciación, de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor de depreciación
+
+1 0.9
+
+2 0.8
+
+3 0.7
+
+4 0.6
+
+5 0.5
+
+6 0.4
+
+7 0.3
+
+8 0.2
+
+9 0.1
+
+A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa a que se refiere la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
+
+Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+ARTICULO 18 D.- Para los efectos de lo dispuesto en los artículos 18, 18 A fracción II, 18 B fracción II y 19 de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado, mismo que se obtendrá de conformidad con el artículo 35-A del Código Fiscal del Estado de Puebla.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+APARTADO C
+
+DE LOS VEHICULOS USADOS DE MAS DE DIEZ AÑOS MODELO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 19.
 
-Las infracciones a las disposiciones relativas al impuesto estatal sobre tenencia o uso de vehículos, serán sancionadas de conformidad con lo previsto en el Código Fiscal del Estado y demás disposiciones jurídicas aplicables.
+Los vehículos cuyo año modelo exceda a los señalados en el Apartado B de este Capítulo, causarán y pagarán el impuesto conforme a la tarifa que anualmente señale la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
 
-### CAPITULO III. DEL IMPUESTO SOBRE ADQUISICION DE VEHICULOS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-AUTOMOTORES USADOS
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+APARTADO D
+
+OTROS VEHICULOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+ARTICULO 19 A.- En el presente Apartado se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática y tabla de oleaje con motor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+ARTICULO 19 B.- Tratándose de aeronaves nuevas, el impuesto a que se refiere este Capítulo será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cuota que señale la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda, para aeronaves de pistón, turbohélice y helicópteros.
+
+Para aeronaves de reacción, el impuesto a que se refiere este Capítulo será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cuota que señale la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+ARTICULO 19 C.- Tratándose de aeronaves de uno a nueve años modelo de antigüedad, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad de la aeronave, de acuerdo con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 18 D de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+ARTICULO 19 D.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto a que se refiere este Capítulo, será la cantidad que resulte de aplicar al valor total del vehículo de que se trate, la tasa que señale la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+ARTICULO 19 E.- Tratándose de aeronaves de más de diez años de fabricación anteriores al de aplicación de esta Ley, este impuesto se pagará conforme a las cuotas que señale la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+ARTICULO 19 F.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, usados, el impuesto a que se refiere este Capítulo será el que resulta de aplicar el procedimiento siguiente:
+
+I. El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año modelo, de conformidad con la siguiente:
+
+TABLA
+
+Años de Antigüedad Factor de depreciación
+
+1 0.9250
+
+2 0.8500
+
+3 0.7875
+
+4 0.7250
+
+5 0.6625
+
+6 0.6000
+
+7 0.5500
+
+8 0.5000
+
+9 0.4500
+
+10 0.4000
+
+11 0.3500
+
+12 0.3000
+
+13 0.2625
+
+14 0.2250
+
+15 0.1875
+
+16 0.1500
+
+17 0.1125
+
+18 0.0750
+
+19 y siguientes 0.0375
+
+II. La cantidad obtenida conforme a la fracción anterior, se actualizará de conformidad con lo dispuesto en el artículo 18 D de esta Ley; al resultado se le aplicará la tasa que señale la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
+
+Para los efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+ARTICULO 19 G.- Las autoridades competentes para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, se abstendrán de expedirlos cuando el tenedor o usuario del vehículo no compruebe el pago del impuesto a que se refiere esta Ley, a excepción de los casos en que se encuentre liberado de ese pago. De no comprobarse que se ha cumplido con la obligación de pago dichas oficinas lo harán del conocimiento de las autoridades fiscales competentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+ARTICULO 19 H.- A requerimiento de las autoridades fiscales, los sujetos obligados al pago del impuesto a que se refiere este Capítulo, deberán:
+
+I. Presentar el original del documento que ampare la propiedad del vehículo;
+
+II. Presentar el comprobante domiciliario;
+
+III. Presentar los comprobantes del pago de este impuesto y de los derechos por servicios de control vehicular, en los que conste el sello del lugar autorizado en que se haya realizado dicho pago o bien, el comprobante de pago computarizado, cuya anterioridad no sea mayor al plazo de 5 años, contados a partir de la fecha en la que se realizó o debió de realizarse el pago que en dichos comprobantes se consigna;
+
+IV. Tratándose de vehículos de procedencia extranjera, acreditar con la documentación respectiva, su legal y definitiva estancia en el país;
+
+V. Presentar copia del contrato de compraventa o de la factura en la que se cedan los derechos de propiedad del vehículo, para el caso de que haya enajenado éste;
+
+VI. Presentar, tratándose del servicio público, además, el acuerdo de otorgamiento y tarjetón de concesión o de permiso, según sea el caso;
+
+VII. Anotar en los formatos de este impuesto, al momento de solicitar su incorporación o modificación al Registro Estatal Vehicular, su clave de los Registros Federal y Estatal de Contribuyentes en los casos en que se encuentren inscritos en los mismos, y tratándose de personas físicas, además, señalar su Clave Única del Registro de Población; y
+
+VIII. Presentar copia del acta del Ministerio Público o del documento en el que conste el robo o siniestro del vehículo, en los casos que proceda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+ARTICULO 19 I.- Las infracciones a las disposiciones a que se refiere este Capítulo, serán sancionadas de conformidad con lo previsto en el Código Fiscal del Estado y demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+APARTADO E
+
+DEL OTORGAMIENTO DE BENEFICIOS EN EL PAGO DEL IMPUESTO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+ARTICULO 19 J.- Se establece un Programa de apoyo del 100% en el pago del Impuesto Sobre Tenencia o Uso de Vehículos, en beneficio de las personas físicas y morales propietarias, tenedoras o usuarias de vehículos, que cumplan con los requisitos siguientes:
+
+I. Estar al corriente en el pago del Impuesto Sobre Tenencia o Uso de Vehículos, ya sea estatal o federal;
+
+II. Estar al corriente en el pago de los derechos previstos en la Ley de Ingresos del Estado, que se vinculen con la propiedad, tenencia o uso o prestación de servicios relacionados con los vehículos objeto de este impuesto;
+
+III. Comprobar la adquisición en territorio del Estado, tratándose de vehículos nuevos; y
+
+IV. Ratificar y, en los casos que proceda, actualizar, los datos en el Registro Estatal Vehicular mediante la presentación de la declaración informativa o de los actos administrativos correspondientes.
+
+### CAPITULO III. DEL IMPUESTO SOBRE ADQUISICION DE VEHICULOS AUTOMOTORES USADOS
 
 ###### ARTICULO 20.
 
@@ -1112,3 +1546,25 @@ P.O. 30 DE DICIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día primero de enero de dos mil diez.
+
+P.O. 3 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del 1 de enero de 2011.
+
+###### ARTÍCULO SEGUNDO.
+
+Las tasas, tarifas y cuotas como elementos del Impuesto Sobre Tenencia o Uso de Vehículos a que se refiere el Capítulo II del Título Primero de la Ley de Hacienda del Estado, se establecerán en la Ley de Ingresos del Estado, para el ejercicio fiscal correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Finanzas y Administración publicará las disposiciones administrativas de carácter general que tengan por objeto facilitar a los sujetos del Impuesto Sobre Tenencia o Uso de Vehículos, el acceso al beneficio a que se refiere el Apartado E del Capítulo II del Título Primero de la presente Ley; así como para propiciar e incentivar el cumplimiento de las obligaciones fiscales.
+
+###### ARTÍCULO CUARTO.
+
+El beneficio a que se refiere el Apartado E del Capítulo II del Título Primero de la presente Ley, no dará lugar a devolución alguna.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Finanzas y Administración, deberá coordinarse con las Dependencias Estatales en cuyas atribuciones incidan las disposiciones que establece el presente Decreto, con el objeto de instrumentar las acciones necesarias y facilitar el cumplimiento al mismo.
