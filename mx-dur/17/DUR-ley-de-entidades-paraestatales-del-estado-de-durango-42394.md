@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-entidades-paraestatales-del-estado-de-durango-42394"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2005-05-19"
+last_updated: "2010-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2010.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 16 de diciembre de 2004.
 
@@ -183,9 +183,11 @@ La dirección y administración de los organismos descentralizados estará a car
 
 El órgano de gobierno deberá expedir su reglamento interior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2010)</small>
+
 ###### Artículo 20.
 
-El órgano de gobierno estará integrado por el número de miembros propietarios y suplentes que determinen su ley o decreto de creación. Será presidido por el Gobernador del Estado y el Director General del organismo de que se trate, podrá participar como secretario técnico con voz sin derecho a voto.
+El Órgano de Gobierno estará integrado por el número de miembros propietarios y suplentes que determinen su ley o decreto de creación. Será presidido por el Gobernador del Estado o el Titular de la Secretaría del Ramo y el Director General del Organismo de que se trate, podrá participar como Secretario Técnico con voz sin derecho a voto. El cargo de miembro del Órgano de Gobierno será honorífico y por tanto, no recibirán retribución ni emolumento alguno.
 
 El cargo de miembro del órgano de gobierno será estrictamente personal y no podrá desempeñarse por medio de representantes. Además será honorífico y por tanto, no recibirán retribución ni emolumento alguno.
 
@@ -193,15 +195,23 @@ El cargo de miembro del órgano de gobierno será estrictamente personal y no po
 
 El Órgano de Gobierno deberá integrarse con:
 
-I. Un Presidente que será el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
 
-II. Un Vicepresidente que será el Secretario del ramo coordinador del sector al que pertenezca el organismo;
+l. Un Presidente que será el Gobernador del Estado o el Titular de la Secretaría del Ramo;
 
-III. Los servidores públicos vocales que designe el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
 
-IV. Los ciudadanos vocales que establezca la ley o decreto de creación respectivo; y
+II. Los servidores públicos vocales que designe el Gobernador del Estado;
 
-V. El Comisario Público.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
+
+III. Los ciudadanos vocales que establezca la Ley o Decreto de creación respectivo; y
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
+
+IV. El Comisario Público.
+
+V. (REFORMADA [N. DE E. DEROGADA], P.O. 3 DE JUNIO DE 2010)
 
 El Presidente, por conducto del Director General, podrá invitar a las reuniones del Órgano de Gobierno en forma temporal o permanente a los servidores públicos o personas que considere procedente cuando algún asunto amerite su participación.
 
@@ -259,9 +269,15 @@ XI. Aprobar la constitución de reservas y aplicación de excedentes financieros
 
 XII. Observar las normas y bases para la adquisición, arrendamiento y enajenación de muebles e inmuebles que el organismo requiera, para la prestación de sus servicios, con sujeción a las disposiciones legales respectivas;
 
-XIII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda al Comisario; y
+XIII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda al Comisario; y (sic)
 
-XIV. Las demás que le determine la ley o decreto de creación, el Reglamento Interior y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
+
+XIV. Otorgar facultades de dominio al Director General, según proceda;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2010)</small>
+
+XV. Las demás que le determine la Ley o Decreto de Creación, el Reglamento Interior y demás disposiciones aplicables.
 
 ###### Artículo 26.
 
@@ -303,7 +319,9 @@ Los directores generales de los organismos descentralizados, en lo tocante a su 
 
 I. Celebrar y otorgar toda clase de actos jurídicos y documentos inherentes a su objeto previa autorización del Órgano de Gobierno;
 
-II. Ejercer las más amplias facultades de dominio, administración, y pleitos y cobranzas, aún de aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias con apego a esta Ley, la ley o decreto de creación y el Reglamento Interior;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
+
+II. Ejercer las más amplias facultades de administración, y pleitos y cobranzas, aún de aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias con apego a esta Ley, la ley o decreto de creación y el Reglamento Interior o aquellas que le otorgue el órgano de gobierno;
 
 III. Emitir, avalar, negociar y suscribir títulos de crédito de conformidad con los ordenamientos aplicables;
 
@@ -421,7 +439,9 @@ VI. Otras disposiciones contenidas en los ordenamientos aplicables.
 
 El órgano de gobierno o comité técnico de los fideicomisos públicos será presidido por el Gobernador del Estado o el titular de la Secretaría del Ramo Coordinadora del Sector o por la persona a quien éste designe.
 
-Deberán formar parte de ellos al menos un representante de las Secretarías de Finanzas y de Administración y de Contraloría y Modernización Administrativa.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
+
+Deberán formar parte de ellos al menos un representante de las Secretarías de Finanzas y de Administración y de Contraloría y Modernización Administrativa esta última únicamente en su carácter de comisario con derecho a voz.
 
 Estará integrado preferentemente por servidores públicos de la administración pública estatal y sesionará de manera ordinaria por lo menos cada tres meses y extraordinariamente cuando así se requiera.
 
@@ -795,10 +815,16 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO FIDEL PACHECO RODRÍGUEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE MAYO DE 2005.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+P.O. 3 DE JUNIO DE 2010.
+
+Primero.- El presente Decreto entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
