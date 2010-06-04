@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-sindicatura-del-municipio-de-61946"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-27"
-last_updated: "2008-11-07"
+last_updated: "2010-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SINDICATURA DEL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 27 de junio de 2008. (REPUBLICADO EN EL P.O. 7 DE NOVIEMBRE DE 2008).
 
@@ -61,9 +61,11 @@ REGLAMENTO INTERNO DE LA SINDICATURA DEL MUNICIPIO DE TECATE, B. C.
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 1.
 
-El presente Reglamento tiene por objeto establecer la organización y funcionamiento de los departamentos, secciones y áreas con que cuenta el Síndico Procurador del Municipio de Tecate, Baja California, para el cumplimiento de las disposiciones que le derivan de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado Libre y Soberano de Baja California, de la Ley del Régimen Municipal para el Estado de Baja California, Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, Ley que Regula la Relación Administrativa de los Miembros de las Instituciones Policiales del Estado de Baja California, las demás leyes estatales y el Reglamento de la Administración Pública del Municipio de Tecate Baja California.
+El presente Reglamento tiene por objeto establecer la organización y funcionamiento de los departamentos, secciones y áreas con que cuenta el Síndico Procurador del Municipio de Tecate, Baja California, para cumplimiento de las disposiciones que le derivan de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado Libre y Soberano de Baja California, de la Ley del Régimen Municipal para el Estado de Baja California, Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, Ley de Seguridad Pública del Estado de Baja California.
 
 ###### ARTICULO 2.
 
@@ -93,7 +95,9 @@ IX.- Director de Seguridad: El titular de la Dirección de Seguridad Pública y 
 
 X.- Ley de Responsabilidades: Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
-XI.- Ley Administrativa: Ley que Regula la Relación Administrativa de los Miembros de las Instituciones Policiales del Estado de Baja California.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2010)</small>
+
+XI.- Ley de Seguridad: Ley de Seguridad Pública del Estado de Baja California.
 
 XII.- Reglamento de la Administración Pública: Reglamento de la Administración Pública del Municipio de Tecate, Baja California.
 
@@ -120,6 +124,10 @@ II.- Registrar la correspondencia en el libro correspondiente.
 III.- Turnar la correspondencia al Síndico Municipal y a los Jefes de Departamento de (sic) Sindicatura Municipal que corresponda.
 
 IV.- Las demás que le encomiende el Síndico Municipal.
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2010)</small>
+
+V.- Las establecidas en el Reglamento de la Comisión Disciplinaria y de Carrera Policial del Municipio de Tecate, Baja California.
 
 ### CAPITULO TERCERO
 
@@ -193,9 +201,11 @@ XVI.- Las demás que en ejercicio de sus facultades le encomiende expresamente e
 
 DEL DEPARTAMENTO DE RESPONSABILIDADES.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 8.
 
-El Titular del Departamento de Responsabilidades además de las atribuciones que le confiere el artículo 35 del Reglamento de la Administración Pública, tendrá las siguientes:
+El Titular del Departamento de Responsabilidades además de las atribuciones que le confiere el Artículo 35 del Reglamento de Administración Pública tendrá las siguientes:
 
 I.- Determinar con plena jurisdicción y competencia, las estrategias, métodos y sistemas de investigación que permitan conocer las acciones y conductas de los servidores públicos municipales en el desempeño de su empleo, cargo o comisión dentro de la Administración Pública Municipal.
 
@@ -205,7 +215,9 @@ III.- Llevar a cabo la instrucción del procedimiento administrativo disciplinar
 
 IV.- Solicitar por oficio a las Dependencias y Entidades de la Administración Pública la información y documentación necesaria para la integración de investigaciones y procedimientos administrativos que realice.
 
-V.- De conformidad con el penúltimo párrafo del artículo quinto de la Ley de Responsabilidades y artículos segundo parte final y sexto fracción tercera de la Ley Administrativa corresponde ejercer por si mismo o junto con el Síndico, la función para investigar las presuntas faltas e instruir y resolver el procedimiento administrativo que corresponda, entendiendo dentro de ésta la recepción de escritos de quejas y oficios relacionados con el procedimiento, recepción de comparecencias, practica de pruebas, efectuar las actuaciones, procedimientos, diligencias, certificaciones, requerimientos, investigaciones, resoluciones, notificaciones y en general cualquier acto de los previstos en dicha Ley de Responsabilidades y Ley Administrativa o aquellos de la (sic) leyes supletorias que resulten aplicables para la investigación de faltas, el procedimiento de responsabilidad y remoción de elementos.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2010)</small>
+
+V.- De conformidad con el penúltimo párrafo del artículo 5 de la Ley de Responsabilidades y artículo 100 fracción IV de la Ley de Seguridad auxiliar a la Comisión Disciplinaria y a la Sindicatura Municipal en los procedimientos de separación definitiva y sanción, así como en los de carrera policial, investigación administrativa y responsabilidad administrativa, entendiendo dentro de ésta la recepción de quejas y oficios relacionados con el procedimiento, recepción de comparecencias, práctica de pruebas, efectuar las actuaciones, procedimientos, diligencias, certificaciones, requerimientos, investigaciones, resoluciones, notificaciones y en general cualquier otro acto de los previstos en dicha Ley de Responsabilidades y Ley de Seguridad a aquellos de las leyes supletorias que resulten aplicables para la investigación de infracciones a la Ley y Reglamentos.
 
 VI.- Informar al Síndico Procurador cuando de las investigaciones o durante la instrucción del procedimiento administrativo disciplinario se desprenda la presunta comisión de ilícitos sancionados por el Código Penal de Baja California o de la Federación.
 
@@ -220,6 +232,10 @@ X.- Remitir al Congreso del Estado copia de las resoluciones emitidas sobre las 
 XI.- Fungir a su vez como titular del Departamento de Supervisión del Servicio Público de Arrastre y Almacenamiento de Vehículos a que se refiere el Reglamento de Arrastre y Almacenamiento de Vehículos del Municipio de Tecate, Baja California, con todas las atribuciones y obligaciones que se establecen en el mismo.
 
 XII.- Las demás que en ejercicio de sus facultades le encomiende expresamente el Síndico.
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2010)</small>
+
+XIII.- Las establecidas en el Reglamento de la Comisión Disciplinaria y de Carrera Policial del Municipio de Tecate, Baja California.
 
 ###### ARTICULO 9.
 
@@ -238,6 +254,10 @@ III.- Levantar las razones o notas pertinentes relacionadas con las atribuciones
 IV.- Llevar a cabo las notificaciones, citatorios, entrega de oficios y documentación en general relacionada con los procedimientos administrativos.
 
 V.- Las demás que le encomiende el Síndico Municipal o el Jefe de responsabilidades.
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2010)</small>
+
+VI.- Las establecidas en el Reglamento de la Comisión Disciplinaria y de Carrera Policial del Municipio de Tecate, Baja California.
 
 ###### ARTICULO 11.
 
@@ -285,21 +305,23 @@ El Jefe de Responsabilidades podrá acumular los expedientes cuando existan vari
 
 Los señalamientos de irregularidades que en el desempeño de sus funciones, reciba el Jefe de Responsabilidades, en contra de servidores públicos municipales derivados de auditorias practicadas por el Jefe del Departamento de Contraloría Interna Municipal o los que éste le turne de observaciones hechas por el Organo Superior de Fiscalización o los que se generen por actas administrativas levantadas por el jefe inmediato del servidor, procederá a clasificarlos como denuncias y con ello dará inicio al procedimiento administrativo de responsabilidades.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 19.
 
-En el caso de que se trate de quejas o denuncias en contra de miembros de la Dirección de Seguridad Pública y Tránsito Municipal, se aplicará la Ley que Regula la Relación Administrativa de los Miembros de las Instituciones Policiales del Estado de Baja California, para lo cual el Síndico, el Jefe de Responsabilidades y el Notificador tienen fe pública de conformidad con el artículo 6 de la citada Ley Administrativa, así mismo podrán aplicar la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California y lo señala en este reglamento, en lo conducente.
+En el caso de que se trate de quejas o denuncias en contra de miembros de la Dirección de Seguridad Pública y Tránsito Municipal, se aplicará la Ley de Seguridad, para lo cual el Síndico, el Jefe del Departamento de Responsabilidades y el Notificador tienen fe pública de conformidad con el artículo 100 de la citada Ley de Seguridad.
 
-Para lo anterior el Jefe de Responsabilidades analizará previamente que los miembros de seguridad pública no se encuentren en los casos de exclusión de la aplicación de la Ley Administrativa a que se refiere en sus artículos 4 y 5.
+Para lo anterior el Jefe de Responsabilidades analizará previamente que los miembros de la Institución Policial no se encuentren en los casos de exclusión de la aplicación del Artículo 3 del Reglamento de la Comisión Disciplinaria y de Carrera Policial del Municipio de Tecate, Baja California.
 
-Así mismo el Jefe de responsabilidades analizará cuando de los hechos que constituyan la queja o denuncia administrativa puedan surgir elementos para substanciar el procedimiento de remoción por incumplimiento de los requisitos de permanencia de los miembros de seguridad pública o únicamente puedan se (sic) objeto de aplicación de correctivos disciplinarios, y en este último caso turnará el asunto al Director de Seguridad para los efectos de los artículos 13, 14, 15 y demás relativos de la Ley Administrativa.
+Así mismo el Jefe de Responsabilidades analizará cuando de los hechos que constituyan la queja o denuncia administrativa puedan surgir elementos para substanciar la investigación administrativa o únicamente puedan ser objeto de aplicación de correlativos disciplinarios.
 
 ###### ARTICULO 20.
 
-Una vez sustanciado el procedimiento de remoción por incumplimiento de los requisitos de permanencia de los miembros de seguridad pública, y previo a la resolución del mismo, el Síndico podrá consultar a la Comisión de Honor y Justicia de la Dirección de Seguridad, para que emitan opinión respecto del mismo.
+(DEROGADO, P.O. 4 DE JUNIO DE 2010)
 
 ###### ARTICULO 21.
 
-El Síndico podrá adoptar la propuesta a que se refiere el artículo anterior, con carácter de resolución definitiva.
+(DEROGADO, P.O. 4 DE JUNIO DE 2010)
 
 ### CAPITULO SEXTO
 
@@ -372,3 +394,13 @@ El incumplimiento del presente reglamento conlleva a la aplicación de las sanci
 PRIMERO.- El presente reglamento entra en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California, y deberá publicarse en un diario de mayor circulación en el Municipio.
 
 SEGUNDO.- Se derogan las disposiciones reglamentarias y administrativas de carácter municipal que se opongan a las presentes disposiciones.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE JUNIO DE 2010.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL ORDENAMIENTO.</small>
+
+CUARTO.- Publíquese en el Periódico Oficial del Estado.
+
+QUINTO.- El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
