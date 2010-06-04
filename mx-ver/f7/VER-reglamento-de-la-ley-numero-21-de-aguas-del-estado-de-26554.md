@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-numero-21-de-aguas-del-estado-de-26554"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-28"
-last_updated: "2002-10-28"
+last_updated: "2010-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE LA LEY NUMERO 21 DE AGUAS DEL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JUNIO DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 28 de octubre de 2002.
 
@@ -35,23 +35,33 @@ Reglamento de la Ley número 21 de Aguas del Estado de Veracruz-Llave.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 1.
 
-El presente ordenamiento tiene por objeto reglamentar la Ley Número 21 de Aguas del Estado de Veracruz-Llave.
+El presente ordenamiento tiene por objeto reglamentar la Ley número 21 de Aguas del estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 2.
 
 Para efectos de este Reglamento se entenderá por:
 
-I. Ley: Ley Número 21 de Aguas del Estado de Veracruz-Llave;
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2010)</small>
 
-II. Sistema: Sistema Veracruzano del Agua;
+I. Ley: Ley número 21 de Aguas del Estado de Veracruz de Ignacio de la Llave;
 
-III. Consejo: Consejo del Sistema Veracruzano del Agua;
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2010)</small>
+
+II. Estado: Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2010)</small>
+
+III. Consejo: Consejo del Sistema Veracruzano del Agua, de la Comisión del Agua del Estado de Veracruz;
 
 IV. Comisión: Comisión del Agua del Estado de Veracruz; y
 
-V. Prestador del servicio: Dependencia, organismo operador o concesionario, en los niveles estatal o municipal, responsable de la organización, dotación, administración, operación, mantenimiento, rehabilitación o ampliación de los servicios de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, en la circunscripción territorial estatal, regional, municipal o intermunicipal que le corresponda; (sic)
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2010)</small>
+
+V. Prestador del servicio: Dependencia, organismo operador o concesionario, en los niveles estatal, regional, municipal o intermunicipal, responsable de la organización, dotación, administración, operación, mantenimiento, rehabilitación o ampliación de los servicios de suministros de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, en la circunscripción, territorial similar al nivel político que le corresponda; (sic)
 
 ###### Artículo 3.
 
@@ -79,9 +89,11 @@ c) Los trabajos técnicos de delimitación y los planos correspondientes estará
 
 IV. Para fijar la extensión de las zonas de protección de las presas, estructuras hidráulicas e instalaciones conexas a cargo del Estado, la Comisión se sujetará a las condiciones de seguridad y del necesario mantenimiento y operación eficiente de la infraestructura hidráulica, así como sus ampliaciones futuras, según se desprenda de los diseños respectivos, y en todo caso la anchura de la franja alrededor de la infraestructura no excederá de 50 metros.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 4.
 
-En los casos comprendidos en la enumeración del artículo 10 de la Ley, la Comisión o el organismo operador municipal correspondiente, tramitará el expediente de expropiación, de ocupación temporal o de limitación de dominio, observando las disposiciones establecidas en la ley de la materia, y, en su caso, el Ejecutivo del Estado hará la declaratoria en el decreto respectivo.
+En los casos comprendidos en la enumeración del artículo 11 de la Ley, la Comisión o el organismo operador municipal correspondiente, tramitarán el expediente de expropiación, de ocupación temporal o de limitación de dominio, observando las disposiciones establecidas en la ley de la materia, y en su caso, el Ejecutivo del Estado hará la declaratoria en el decreto respectivo.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES ESTATALES
 
@@ -93,13 +105,19 @@ La Comisión es el organismo operativo a través de la cual el Ejecutivo Estatal
 
 El Consejo ejercerá las siguientes funciones en materia de formulación y coordinación de políticas y regulación económica:
 
-I. Articular y orientar las actividades del sector, de acuerdo con los objetivos en materia de servicios públicos, recursos hidráulicos, salud pública y medio ambiente;
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2010)</small>
+
+I. Articular y orientar las actividades de los sectores privado y social, de acuerdo con los objetivos en materia de servicios públicos, recursos hidráulicos, salud pública y medio ambiente;
 
 II. Formular y coordinar la planeación y la programación hidráulica en el Estado, así como las políticas y estrategias de desarrollo para los servicios de suministro de agua potable, alcantarillado y saneamiento;
 
-III. Diseñar, establecer y desarrollar los mecanismos de coordinación entre los organismos e instituciones del sector;
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2010)</small>
 
-IV. Formular y coordinar políticas de financiamiento para el sector, de conformidad con los objetivos y políticas de desarrollo de largo plazo, incluyendo el dimensionamiento de los recursos presupuestarios, créditos y subsidios;
+III. Diseñar, establecer y desarrollar los mecanismos de coordinación entre los organismos e instituciones del sector hidráulico;
+
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2010)</small>
+
+IV. Formular y coordinar políticas de financiamiento para el sector hidráulico de conformidad con los objetivos y políticas de desarrollo de largo plazo, incluyendo el dimensionamiento de los recursos presupuestarios, créditos y subsidios;
 
 V. Proponer mecanismos que estimulen a los prestadores de servicios a operar de una manera eficiente;
 
@@ -121,13 +139,17 @@ XII. En general, cualquier otra función que le señale la Ley.
 
 La transferencia de funciones que realice el Gobierno Federal al Gobierno del Estado se formalizará por el Ejecutivo Estatal a través de convenios o acuerdos de descentralización de funciones. Respecto de estas transferencias, la Comisión ejecutará las funciones operativas y el Consejo tendrá a su cargo la ejecución de las funciones normativas.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 8.
 
-Para efectos de la fracción VI del artículo 22 y la fracción V del artículo 145 de la Ley, la Comisión podrá realizar las funciones de inspección y vigilancia necesarias para la protección y seguridad hidráulica, para lo cual cuidará la conservación e integridad de la infraestructura hidráulica estatal a su cargo y la debida prestación de los servicios respectivos. Asimismo participará en el Sistema Estatal de Protección Civil en los términos de la legislación en la materia.
+Para efectos de la fracción XV del artículo 21 y el artículo 145 de la Ley, la Comisión podrá realizar las funciones de inspección y vigilancia necesarias para la protección y seguridad hidráulica, para lo cual cuidará la conservación e integridad de infraestructura hidráulica estatal a su cargo y la debida prestación de los servicios respectivos. Asimismo, participará en el Sistema Estatal de Protección Civil en los términos de la legislación en la materia.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2010)</small>
 
 ###### Artículo 9.
 
-Para efectos del artículo 29 de la Ley, la Comisión, celebrará convenios con los Municipios, los cuales deberán ajustarse a las siguientes bases:
+Para efectos del artículo 15, fracción V de la Ley, la Comisión celebrará convenios con los municipios, los cuales deberán ajustarse a las siguientes bases:
 
 I. Definirán con precisión los servicios públicos, funciones y actividades que constituyan el objeto del convenio;
 
@@ -163,9 +185,11 @@ Para que la Comisión pueda celebrar con particulares, contratos de obras públi
 
 #### Sección Primera. De las Concesiones
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 13.
 
-Las concesiones o contratos en sus diferentes modalidades, tendrán como finalidad la construcción, operación y mantenimiento de los servicios públicos de agua potable, alcantarillado, tratamiento y disposición de aguas residuales en los términos establecidos por el artículo 47 de la Ley.
+Las concesiones o contratos en sus diferentes modalidades, tendrán como finalidad la construcción, operación y mantenimiento de los servicios públicos de agua potable, alcantarillado, tratamiento y disposición de aguas residuales en los términos establecidos por el artículo 46 de la Ley.
 
 Pertenecen a las actividades señaladas en el párrafo anterior todas las relativas a la investigación y desarrollo de nuevas tecnologías, lo mismo que los procedimientos para mejorar la eficiencia y eficacia en la prestación de los servicios públicos señalados en el párrafo anterior.
 
@@ -421,9 +445,11 @@ Una vez efectuadas las conexiones necesarias al sistema de alcantarillado, los i
 
 Cuando el prestador del servicio detecte anomalías o desperfectos que impidan la correcta operación del sistema de drenaje, requerirán a los usuarios para que realicen las obras o composturas correspondientes, a sus instalaciones interiores.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 39.
 
-El prestador del servicio, previo dictamen y notificación al Consejo, podrá suspender las autorizaciones de descarga de agua residual por el periodo que requiera la acción para evitar una amenaza a la salud pública, cuidar la seguridad y el bienestar de la vecindad circundante o cuando las condiciones prevalecientes en el sistema de drenaje impidan recibir la descarga. Lo anterior será sin perjuicio de las acciones a que se haga acreedor el usuario.
+El prestador del servicio, previo dictamen y notificación a la Comisión, podrá suspender las autorizaciones de descarga de agua residual por el periodo que requiera la acción para evitar una amenaza a la salud pública, cuidar la seguridad y el bienestar de la vecindad circundante o cuando las condiciones prevalecientes en el sistema de drenaje impidan recibir la descarga. Lo anterior será sin perjuicio de las sanciones a que se haga acreedor el usuario.
 
 ###### Artículo 40.
 
@@ -437,13 +463,17 @@ A fin de dar cumplimiento a lo prescrito en el párrafo anterior, los propietari
 
 Los usuarios del sistema de alcantarillado sólo utilizarán éste, para los fines a que están destinados, y deberán cuidar y respetar bajo su responsabilidad, que no se arrojen dentro de él materiales que perjudiquen su estructura o funcionamiento.
 
-Asimismo, queda prohibido arrojar cualquier desecho sólido que pueda obstruir las coladeras pluviales instaladas en la vía pública; destapar brocales de acceso y ventilación de los conductos del sistema de alcantarillado, así como dañar directa o indirectamente cualquier instalación que sea parte del sistema.
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2010)</small>
+
+Asimismo, queda prohibido arrojar cualquier desecho sólido que pueda obstruir las coladeras pluviales instaladas en la vía pública; destapar brocales de acceso y ventilación de los conductos del sistema de alcantarillado, así como dañar directa o indirectamente cualquier instalación que sea parte del sistema. Al responsable o responsables que violen lo previsto en el presente artículo, serán denunciados ante la autoridad competente.
 
 #### Sección Tercera. Del Servicio de Tratamiento y Disposición de Aguas Residuales
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 42.
 
-Las descargas de aguas residuales provenientes de procesos industriales que requiera conectarse al sistema de alcantarillado y drenaje, deberán sujetarse a los límites máximos permisibles y a procedimiento para la determinación de contaminantes en las descargas de agua residual previstos en las normas oficiales mexicanas o al dictamen que se formule por la autoridad competente.
+Las descargas de aguas residuales provenientes de procesos industriales que requiera conectarse al sistema de alcantarillado y drenaje, deberán sujetarse a los límites máximos permisibles y al procedimiento para la determinación de contaminantes en las descargas de agua residual, previstos en las normas oficiales mexicanas o al dictamen que se formule por la autoridad competente.
 
 ###### Artículo 43.
 
@@ -483,7 +513,9 @@ En el caso de que algún proceso industrial no requiera agua potable, los usuari
 
 Para efectos del artículo 110 de la Ley, la Comisión realizará los estudios técnicos a que se refiere dicha disposición y, de encontrarlos procedentes, formulará los proyectos y tramitará los decretos o reglamentos respectivos, los cuales deberán publicarse por una sola vez en la Gaceta Oficial del estado y en el periódico de mayor circulación en la localidad de que se trate.
 
-El decreto o reglamento respectivo, deberá hacer constar que se elaboraron los estudios técnicos a que se refiere el artículo 110 de la Ley, al igual que sus resultados, y que se tomaron en consideración los datos del Sistema de Información Hidráulica que administra el Consejo.
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2010)</small>
+
+El decreto o reglamento respectivo, deberá hacer constar que se elaboraron los estudios técnicos a que se refiere el artículo 110 de la Ley, al igual que sus resultados, y que se tomaron en consideración los datos del Sistema de Información Hidráulica que administra la Comisión.
 
 ###### Artículo 51.
 
@@ -525,7 +557,9 @@ Se entenderá como zona de veda, aquella en la que el Ejecutivo del Estado media
 
 I. Que no es posible mantener o incrementar las extracciones de agua, a partir de un determinado volumen fijado por la Comisión conforme a los estudios que al efecto realice, sin afectar el desarrollo integral sustentable del recurso y sin el riesgo de inducir efectos perjudiciales, económicos o ambientales, en las fuentes de agua de la zona en cuestión o en los usuarios del recurso; y
 
-II. Que se prohíben o limitan los usos del agua con objeto de proteger su calidad en las cuencas o acuíferos.
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2010)</small>
+
+II. Que se prohíban o limiten los usos del agua con objeto de proteger su calidad en las cuencas o acuíferos.
 
 ###### Artículo 55.
 
@@ -541,7 +575,9 @@ IV. La protección, conservación o restauración de un ecosistema acuático, in
 
 La Comisión hará los estudios y previsiones necesarias para incorporar las reservas de agua a la programación hidráulica que conduce el Consejo, y promoverá que se mantengan las condiciones de cantidad y calidad requeridas para el cumplimiento de las disposiciones establecidas en las declaratorias respectivas.
 
-Las reservas de aguas de jurisdicción estatal deberán publicarse en la Gaceta Oficial del estado e inscribirse en el Registro Público de Derechos de Agua y en el Sistema de Información Hidráulica que administra el Consejo.
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2010)</small>
+
+Las reservas de aguas de jurisdicción estatal deberán publicarse en la Gaceta Oficial del estado, e inscribirse en el Registro Público de Derechos de Agua y en el Sistema de Información Hidráulica.
 
 #### Sección Segunda. De la Regulación de las Aguas
 
@@ -617,13 +653,17 @@ Para efectos de la fracción V del artículo 114 de la Ley, una vez que sea defi
 
 La Comisión declarará la extinción de la concesión en los casos previstos en la Ley. Previamente, la Comisión tramitará el expediente respectivo y otorgará garantía de audiencia a los interesados en caso de reversión y caducidad. En los casos de las fracciones II y III, del artículo 114 de la Ley, se seguirá el siguiente procedimiento:
 
-I. Una vez que la causa de reversión o de caducidad sea conocida por la Comisión, ésta la notificará al concesionario, señalándole un plazo de quince días hábiles, contados a partir del día siguiente al de la notificación, a efecto de que alegue lo que a su derecho convenga y ofrezca las pruebas y defensas que tuviere. Si éste no responde en el término indicado, la Comisión dictará resolución;
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2010)</small>
+
+I. Una vez que la causa de reversión o de caducidad sea conocida por la Comisión, ésta la notificará al concesionario, señalándole un plazo de quince días hábiles, contados a partir del día siguiente al de la notificación, a efecto de que alegue lo que a su derecho convenga y ofrezca las pruebas y defensas que tuviere. Se podrán ofrecer toda clase de pruebas, salvo la confesional. Si éste no responde en el término indicado, la Comisión dictará resolución;
 
 II. Recibida la respuesta del concesionario y a su solicitud, la Comisión abrirá un periodo para la recepción y desahogo de las pruebas ofrecidas por él y las que estime pertinentes la Comisión, atendiendo a la naturaleza de las mismas;
 
 III. Desahogadas las pruebas y tomando en consideración los elementos aportados por el concesionario, así como la información o datos que estime pertinente solicitar a éste o que haya recabado directamente, la Comisión dictará la resolución que proceda; y
 
-IV. Las resoluciones de reversión o caducidad se notificarán a los interesados y se procederá a su inscripción en el Registro Público de Derechos de Agua.
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2010)</small>
+
+IV. Las resoluciones de reversión o caducidad se notificarán a los interesados y se procederá a su inscripción o anotación marginal, en el Registro Público de Derechos de Agua.
 
 En el procedimiento mencionado se observará lo establecido por la legislación aplicable.
 
@@ -631,11 +671,13 @@ En el procedimiento mencionado se observará lo establecido por la legislación 
 
 Al término del plazo de la concesión para la explotación, uso o aprovechamiento de las aguas de jurisdicción estatal, o, en su caso, de la última prórroga, las obras e instalaciones adheridas de manera permanente a bienes inherentes estatales que se hayan utilizado para dicho aprovechamiento, deberán revertirse a favor de la Comisión.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 66.
 
-Las servidumbres a que se refiere la fracción III del artículo 115 de la Ley son las que se pueden establecer sobre propiedades particulares conforme al Código Civil para el Estado Libre y Soberano de Veracruz-Llave.
+Las servidumbres a que se refiere la fracción III del artículo 115 de la Ley son las que se pueden establecer sobre propiedades particulares conforme al Código Civil para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
 
-La Comisión podrá requerir el establecimiento de servidumbre sobre terrenos particulares, en los términos de la legislación aplicable. No se podrán establecer servidumbres pasivas, en los términos del derecho común, sobre los causes, vasos, zonas de protección o demás bienes inherentes, los cuales para su explotación, uso o aprovechamiento requieren de concesión, en los términos de la Ley.
+La Comisión podrá requerir el establecimiento de servidumbres sobre terrenos particulares, en los términos de la legislación aplicable. No se podrán establecer servidumbres de paso, en los términos del derecho común, sobre los cauces, vasos, zonas de protección o demás bienes inherentes, los cuales para su explotación, uso o aprovechamiento, requieren de concesión, en los términos de la Ley.
 
 ###### Artículo 67.
 
@@ -655,9 +697,11 @@ La Comisión deberá dar contestación por escrito a la solicitud en un término
 
 #### Sección Tercera. De la Prevención y Control de la Contaminación Ambiental
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 70.
 
-Las personas físicas o morales que exploten, usen o aprovechen aguas de jurisdicción estatal en cualquier uso o actividad, están obligadas, bajo su responsabilidad y en los términos de ley, a realizar las medidas necesarias para prevenir su contaminación y en su caso para reintegrarlas en condiciones adecuadas, a fin de permitir su utilización posterior en otras actividades o usos y mantener el equilibrio de los ecosistemas.
+Las personas físicas o morales que exploten, utilicen o aprovechen aguas de jurisdicción estatal en cualquier uso o actividad, están obligadas, bajo su responsabilidad y en términos de ley, realizar las medidas necesarias para prevenir su contaminación y en su caso, para reintegrarlas en condiciones adecuadas, a fin de permitir su utilización posterior en otras actividades o usos y mantener el equilibrio de los ecosistemas.
 
 ###### Artículo 71.
 
@@ -673,7 +717,9 @@ Las solicitudes de permiso de descarga de aguas residuales que se presenten al p
 
 I. Nombre, domicilio y giro o actividad de la persona física o moral que realice la descarga;
 
-II. Relación de insumos utilizados en los procesos que generan las descargas de aguas residuales y de otros insumos que generen desechos que se descarguen en los cuerpos receptores;
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2010)</small>
+
+II. Relación de insumos utilizados en los procesos que generan las descargas de aguas residuales, así como aquellas substancias que generen desechos que se descarguen en los cuerpos receptores;
 
 III. Croquis y descripción de los procesos que dan lugar a las descargas de aguas residuales;
 
@@ -817,29 +863,37 @@ Al término del plazo de la concesión, o de la última prórroga en su caso, lo
 
 La Comisión podrá exigir al concesionario que, al término de la concesión y previamente a la entrega de los bienes, proceda por su cuenta y costo a la demolición y remoción de aquellas obras e instalaciones que hubiese ejecutado y que, por sus condiciones, ya no sean de utilidad a juicio de la Comisión.
 
-### CAPÍTULO VI. DE LA OPERACIÓN DEL SISTEMA VERACRUZANO DEL AGUA
+> <small>(REFORMADA SU DENOMINACION, G.O. 4 DE JUNIO DE 2010)</small>
+
+### CAPÍTULO VI. De la Coordinación y Planeación del Sistema Veracruzano del Agua
 
 ###### Artículo 86.
 
 Las políticas establecidas por el Sistema deberán ser observadas por el Estado y municipios para la elaboración de sus planes y programas hidráulicos.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 87.
 
-La coordinación del Sistema estará a cargo del Consejo, tendrá las funciones que se asignan la Ley y el presente Reglamento, y se organizará en los términos de su normatividad Interna.
+La coordinación y supervisión del sistema estará a cargo del Consejo, teniendo las funciones que le asigne la Ley y el presente Reglamento, y se organizará en los términos de su normatividad interna.
 
 #### Sección Primera. Del Sistema de Información Hidráulica
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 88.
 
-El Sistema de Información Hidráulica es un servicio público integrado por el conjunto de bases de datos e información relacionada con los inventarios de los cuerpos de agua, de la infraestructura hidráulica; de las inversiones realizadas en esta materia; de la cartera de estudios y proyectos e información climática, hidrográfica e hidrológica de las cuencas del estado de Veracruz-Llave, incluyendo los registros de los títulos de concesión de agua y permisos correspondientes; la de su red de monitoreo en cantidad y calidad y padrón de usuarios.
+El Sistema de Información Hidráulica es un servicio público integrado por el conjunto de bases de datos e información relacionada con los inventarios de los cuerpos de agua, de la infraestructura hidráulica; de las inversiones realizadas en esta materia; de la cartera de estudios y proyectos e información climática, hidrográfica e hidrológica de las cuencas del Estado, incluyendo los registros de los títulos de concesión de aguas y permisos correspondientes; la de su red de monitoreo en cantidad y calidad y padrón de usuarios.
 
 ###### Artículo 89.
 
 Los integrantes del Sistema suministrarán, intercambiarán y sistematizarán la información sobre las materias señaladas en el artículo anterior, mediante los instrumentos tecnológicos modernos que permitan el fácil y rápido acceso a la información.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 90.
 
-Corresponde al Consejo la operación del Sistema de Información Hidráulica, para lo cual contará con las siguientes facultades:
+Corresponde a la Comisión la operación del Sistema de Información Hidráulica, para lo cual contará con las siguientes facultades:
 
 I. Establecer las reglas a que se sujetará la recepción, almacenamiento y transmisión de la información del Sistema de Información Hidráulica y, en general, la operación, funcionamiento y administración del servicio público que preste;
 
@@ -851,9 +905,11 @@ IV. Verificar el cumplimiento y aplicación de la Ley en materia de información
 
 V. Las demás que establece la Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 91.
 
-La Comisión y los gobiernos municipales contribuirán a la integración del Sistema de Información Hidráulica. Al efecto, el Consejo celebrará con ellos, convenios, cuyo objeto sea:
+La Comisión y los Ayuntamientos contribuirán a la integración del Sistema de Información Hidráulica. Al efecto, podrá celebrar con ellos, convenios, cuyo objeto sea:
 
 I. Adoptar las normas, métodos y procedimientos técnicos del Sistema de Información Hidráulica, a fin de asegurar la compatibilidad de los sistemas y de la información de las bases de datos que administran;
 
@@ -869,9 +925,11 @@ El Sistema de Información Hidráulica tendrá una sección especial relativa a 
 
 Al efecto, la Comisión informará bimestralmente al Consejo de los actos jurídicos señalados en el párrafo anterior que haya inscrito en el registro a su cargo, de conformidad con el artículo 117 de la Ley.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 93.
 
-La información estará disponible para los miembros del Sistema Veracruzano del Agua como instrumento de apoyo para la definición y establecimiento de las políticas del Sistema, así como para procesar la información necesaria para la planeación y evaluación en materia hidráulica estatal y municipal.
+La información del Sistema Veracruzano del Agua estará disponible como instrumento de apoyo para la definición y establecimiento de políticas del sistema, procesar la información necesaria para la planeación y evaluación en materia hidráulica estatal y municipal.
 
 ###### Artículo 94.
 
@@ -887,9 +945,11 @@ IV. Las consultas solamente podrán realizarse durante los días y en los horari
 
 #### Sección Segunda. De la Programación Hidráulica
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 95.
 
-El Consejo, conforme a lo dispuesto en el artículo 19 de la Ley, organizará los trabajos necesarios para formular y poner en ejecución las acciones de corto, mediano y largo plazos que se integren dentro de la programación hidráulica. Para ello, propiciará el concurso de las distintas instancias de gobierno, de los usuarios de las aguas nacionales y, en general, de los grupos sociales interesados.
+El Consejo, conforme a lo dispuesto en el artículo 29 de la Ley, organizará los trabajos necesarios para formular y poner en ejecución las acciones de corto, mediano y largo plazos que se integren dentro de la programación hidráulica. Para ello, propiciará el concurso de las distintas instancias de gobierno, de los usuarios de las aguas nacionales y en general, de los grupos sociales interesados.
 
 ###### Artículo 96.
 
@@ -939,9 +999,11 @@ X. Las normas oficiales mexicanas y demás disposiciones que sobre la materia ex
 
 XI. Los criterios necesarios para garantizar el desarrollo integral sustentable del recurso.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 98.
 
-Corresponde al Consejo la formulación, seguimiento, evaluación y actualización de la programación hidráulica en el Estado de Veracruz, de conformidad con el artículo 20 de la Ley. Para ello el Consejo tendrá las siguientes funciones:
+Corresponde al Consejo la formulación, seguimiento, evaluación y actualización de la programación hidráulica en el estado de Veracruz, de conformidad con el artículo 15 de la Ley, para ello, el Consejo tendrá las siguientes funciones:
 
 I. Coordinar, elaborar y actualizar el Programa Hidrológico Estatal;
 
@@ -963,9 +1025,11 @@ Corresponde al Ejecutivo del Estado la aprobación del Programa Hidráulico Esta
 
 Una vez aprobados los programas, serán publicados en la Gaceta Oficial del estado, sin perjuicio de que el Consejo los difunda. Igualmente, serán notificados a la Comisión Nacional del Agua.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 101.
 
-Los programas aprobados serán obligatorios para las dependencias y entidades de la Administración Pública Estatal y Municipal, en el ámbito de sus respectivas competencias, de acuerdo con los artículos 22 y 29 de la Ley Número 56 de Planeación del Estado de Veracruz-Llave.
+Los programas aprobados serán obligatorios para las dependencias y entidades de la Administración Pública Estatal y Municipal, en el ámbito de sus respectivas competencias, de acuerdo con los artículos 22 y 29 de la Ley número 56 de Planeación del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 102.
 
@@ -983,9 +1047,11 @@ Los programas hidráulicos estatal y municipales se integrarán al Sistema de In
 
 El Consejo procurará que el Sistema se integre con programas y acciones que fomenten la investigación, el desarrollo tecnológico y la formación de recursos humanos en el estado de Veracruz.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 105.
 
-Además de las señaladas en el artículo 15 de la Ley, el Consejo, respecto del Sistema, tendrá las siguientes funciones:
+Además de las señaladas en el artículo 29 de la Ley, el Consejo, respecto del Sistema, tendrá las siguientes funciones:
 
 I. Formular anualmente el Programa de Investigación, Desarrollo y Capacitación;
 
@@ -1049,11 +1115,13 @@ Las multas administrativas que impongan las autoridades estatales y municipales 
 
 ### CAPÍTULO VIII. DEL RECURSO DE REVOCACIÓN
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2010)</small>
+
 ###### Artículo 113.
 
-Los interesados afectados por los actos o resoluciones definitivos de las autoridades estatales y municipales derivados de la aplicación de la Ley y de este Reglamento, podrán, a su elección, interponer el recurso de revocación previsto en el Código de Procedimientos Administrativos para el estado de Veracruz-Llave, o intentar el juicio ante el Tribunal de lo Contencioso Administrativo del Poder Judicial del estado de Veracruz-Llave.
+Los interesados afectados por los actos o resoluciones definitivos de las autoridades estatales y municipales derivados de la aplicación de la Ley y de este Reglamento, podrán, a su elección, interponer el recurso de revocación previsto en el Código de Procedimientos Administrativos para el estado de Veracruz de Ignacio de la Llave, o intentar el juicio ante el Tribunal de lo Contencioso Administrativo del Poder Judicial del estado.
 
-El recurso de revocación tendrá por objeto que el superior jerárquico de la autoridad emisora confirme, modifique, revoque o anule el acto administrativo recurrido, y se substanciará conforme a lo establecido en el Código de Procedimientos Administrativos para el estado de Veracruz-Llave.
+El recurso de revocación tendrá por objeto que el superior jerárquico de la autoridad emisora confirme, modifique, revoque o anule el acto administrativo recurrido, y se substanciará conforme a lo establecido en el Código de Procedimientos Administrativos para el estado.
 
 TRANSITORIOS (SIC)
 
@@ -1066,3 +1134,13 @@ Lic. Miguel Alemán Velazco
 Gobernador del Estado
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 4 DE JUNIO DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto, del Reglamento de la Ley de Aguas del Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del estado.
+
+Tercero. En un plazo no mayor a 180 días, la Comisión del Agua del Estado de Veracruz, de acuerdo a su asignación presupuestal, implementará las acciones tendientes a cumplir las atribuciones que correspondan al Consejo del Sistema Veracruzano del Agua.
