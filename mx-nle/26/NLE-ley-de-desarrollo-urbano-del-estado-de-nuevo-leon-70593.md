@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-urbano-del-estado-de-nuevo-leon-70593"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-09"
-last_updated: "2009-11-09"
+last_updated: "2010-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE NOVIEMBRE DE 2009.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2010
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de septiembre de 2009.
 
@@ -261,9 +259,7 @@ XLIX. Municipalización: acto mediante el cual el municipio asume las obligacion
 
 L. Obras de urbanización: la construcción e introducción de infraestructura urbana, vialidad, guarniciones y banquetas, nomenclatura, habilitación y señalamiento vial, equipamiento y arbolado de las áreas municipales, plazas, parques, jardines y camellones;
 
-LI. Polígono de actuación: área que el programa de desarrollo urbano del centro de población considera sujeta a acciones de mejoramiento urbano de renovación y regeneración. Su implementación requiere de la coordinación y concertación entre la autoridad y los particulares y puede plantearse, si es promovido por el sector privado o social a través de un plan maestro y de un plan parcial de desarrollo urbano cu
-
-ando sea promovido por la autoridad municipal o estatal;
+LI. Polígono de actuación: área que el programa de desarrollo urbano del centro de población considera sujeta a acciones de mejoramiento urbano de renovación y regeneración. Su implementación requiere de la coordinación y concertación entre la autoridad y los particulares y puede plantearse, si es promovido por el sector privado o social a través de un plan maestro y de un plan parcial de desarrollo urbano cuando sea promovido por la autoridad municipal o estatal;
 
 LII. Programa o plan maestro: son los instrumentos de planeación para el diseño, programación y ejecución de proyectos urbanos específicos, siempre sujeto a lo establecido en el plan de desarrollo urbano del cual derive;
 
@@ -3195,7 +3191,13 @@ VIII. Subdivisiones en predios que no forman parte de fraccionamiento autorizado
 
 IX. Los usos complementarios no habitacionales cederán el 7% -siete por ciento del área vendible correspondiente, sin considerar las afectaciones correspondientes.
 
-Salvo las excepciones previstas de manera expresa en esta Ley, estas áreas de cesión serán inalienables, imprescriptibles e inembargables, no estarán sujetas a acción reivindicatoria, no podrán ser cubiertas en efectivo, no podrán ser objeto de enajenación o gravamen y solo podrán utilizarse para los fines descritos en este Artículo, y dependiendo el tipo de fraccionamiento de que se traté, por lo que no se deberá cambiar su destino, salvo cuando sea necesario realizar afectaciones con fines de utilidad pública.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2010)</small>
+
+Salvo las excepciones previstas de manera expresa en esta Ley, estas áreas de cesión serán inalienables, imprescriptibles e inembargables, no estarán sujetas a acción reivindicatoria, no podrán ser cubiertas en efectivo, no podrán ser objeto de enajenación o gravamen y sólo podrán utilizarse para los fines descritos en este Artículo, y dependiendo el tipo de fraccionamiento de que se trate, por lo que no se deberá cambiar su destino, salvo cuando sea necesario realizar afectaciones con fines de utilidad pública, en cuyo caso la Autoridad Municipal deberá contar con el acuerdo respectivo del Cabildo, aprobado cuando menos por las dos terceras partes de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2010)</small>
+
+Cuando el Municipio pretenda otorgar alguna concesión sobre áreas para su uso, aprovechamiento o explotación a particulares o instituciones de derecho público o privado, además de lo establecido en el párrafo que antecede, será necesario contar con la aprobación del Congreso del Estado.
 
 ###### ARTÍCULO 202.
 
@@ -3569,7 +3571,7 @@ IV. En las zonas urbanizadas no se autorizará la subdivisión cuando ésta dé 
 
 La relotificación es el acto mediante el cual dos o más lotes contiguos de un fraccionamiento o área urbana o urbanizada, se modifican en sus dimensiones constituyendo normas básicas para llevar a cabo la relotificación las siguientes:
 
-I. Los predios resultantes de la relotificación deberán tener frente a la vía pública;
+I. Los predios resultantes de la relotificación deberán tener frente a la vía pública (sic);
 
 II. No se autorizará la relotificación cuando ésta dé por resultado lote con superficie menor al lote promedio del fraccionamiento al cual corresponda;
 
@@ -5598,3 +5600,9 @@ RUBÉN EDUARDO MARTÍNEZ DONDÉ
 EL C. SECRETARIO DE OBRAS PÚBLICAS
 
 LOMBARDO VICTORIANO GUAJARDO GUAJARDO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE JUNIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
