@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2009-09-05"
+last_updated: "2010-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2010.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -2917,7 +2917,9 @@ La solicitud de reconocimiento médico puede formularla el detenido, el defensor
 
 Cualquier autoridad que conozca de un hecho de tortura está obligada a denunciarlo de inmediato.
 
-### CAPITULO I. DELITO CONTRA EL CONSUMO
+### CAPITULO XIII. DESLEALTAD AL EMPLEO, CARGO O COMISION, O PERJUICIO AL SERVICIO PUBLICO
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 287.
 
@@ -2925,7 +2927,7 @@ Comete el delito de tráfico de influencia el servidor público que, por sí o p
 
 Este delito se sancionará con una pena de uno a cuatro años de prisión, sanción pecuniaria de veinte a ochenta días de salario mínimo, destitución e inhabilitación para el desempeño de su empleo, cargo o comisión públicos por el doble del lapso de la privación de la libertad que sea impuesta.
 
-### CAPITULO II. DELITOS CONTRA EL DERECHO DE LOS TRABAJADORES
+### CAPITULO I. DELITO CONTRA EL CONSUMO
 
 ###### ARTICULO 288.
 
@@ -2933,7 +2935,7 @@ Comete el delito de concusión el servidor público que, a Título de impuesto, 
 
 Este delito se sancionará con una pena de uno a cinco años de prisión, sanción pecuniaria de veinte a cien días de salario mínimo, y destitución e inhabilitación por el doble de la pena de prisión impuesta para desempeñar empleo, cargo o comisión públicos.
 
-### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE
+### CAPITULO II. DELITOS CONTRA EL DERECHO DE LOS TRABAJADORES
 
 ###### ARTICULO 289.
 
@@ -2957,7 +2959,7 @@ II. Cuando el monto de lo distraído o de los fondos utilizados indebidamente ex
 
 III. Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de mil quinientas veces el salario mínimo diario vigente en el Estado en el momento de cometerse el delito, se impondrá una pena de cinco a diez años de prisión, sanción pecuniaria de quinientos a mil días de salario mínimo, y destitución e inhabilitación del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULOS
+### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE
 
 ###### ARTICULO 291.
 
@@ -2975,7 +2977,7 @@ II. Cuando el monto a que asciende el enriquecimiento no exceda del equivalente 
 
 III. Cuando el monto a que asciende el enriquecimiento ilícito exceda del equivalente a cinco mil veces el salario mínimo diario vigente en el Estado, se impondrá una pena de cuatro a diez años de prisión, sanción pecuniaria de cuatrocientos a un mil días de salario mínimo, y destitución e inhabilitación del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO III. VIOLACION DE CORRESPONDENCIA
+### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULOS
 
 ###### ARTICULO 293.
 
@@ -2995,11 +2997,25 @@ VI. Ejecutan actos o incurren en omisiones que producen un daño o bien que conc
 
 Este delito se castigará con una pena de uno a cuatro años de prisión, sanción pecuniaria de veinte a ochenta días de salario mínimo, y destitución e inhabilitación de su empleo, cargo o comisión públicos por el doble del lapso de la privación de la libertad que sea impuesta.
 
-### CAPITULO I. PREVENCIONES GENERALES
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE JUNIO DE 2010)</small>
+
+### CAPITULO III. VIOLACION DE CORRESPONDENCIA
+
+###### ARTICULO 293 Bis.
+
+Comete el delito a que se refiere este capítulo el elemento policiaco, custodio o agente de seguridad pública o privada, que realice actividad de vigilancia hacia servidores públicos, con la finalidad de conocer y reportar su ubicación, operativos, actividad, lugares que frecuentan o cualquier dato personal de los mismos, que les permita organizar, planear y/o cometer un delito o evitar el cumplimiento de la función pública.
+
+Igualmente, comete este delito quien, para los mismos efectos a que se refiere el párrafo anterior, porte tres o más teléfonos celulares, sistemas de comunicación electrónica o de radiocomunicación, o bien, no justifique su propiedad o legítima posesión.
+
+El delito a que se refiere el primer párrafo se sancionará con una pena de cinco a doce años de prisión y sanción económica de cien a doscientos cuarenta días de salario mínimo vigente en el Estado.
+
+En el caso del delito previsto en el segundo párrafo, será sancionado con una pena de tres a siete años de prisión y sanción económica de sesenta a ciento cuarenta días de salario mínimo vigente en la propia entidad federativa.
+
+Además de la pena y sanción que corresponda, el servidor público que cometa los delitos a que se refiere este capítulo, será destituido del empleo, cargo o comisión, e inhabilitado por el doble de la pena de prisión impuesta.
 
 ## TITULO DECIMO SEXTO. DELITOS CONTRA LA ECONOMIA PUBLICA
 
-### CAPITULO II. DOLO EN LA EMISION DEL VOTO
+### CAPITULO I. PREVENCIONES GENERALES
 
 ###### ARTICULO 294.
 
@@ -3007,7 +3023,7 @@ Comete el delito contra el consumo, el comerciante o industrial que por cualquie
 
 Este delito se sancionará con una pena de uno a tres años de prisión, sanción pecuniaria de cien a trescientos días de salario mínimo y se perseguirá por querella necesaria.
 
-### CAPITULO III. INTERFERENCIA EN EL DESARROLLO DEL PROCESO ELECTORAL
+### CAPITULO II. DOLO EN LA EMISION DEL VOTO
 
 ###### ARTICULO 295.
 
@@ -3037,7 +3053,7 @@ Este delito se penará con sanción pecuniaria de cien a quinientos días de sal
 
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA LA SEGURIDAD DE LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE
 
-### CAPITULO IV. VIOLACIONES AL PROCESO ELECTORAL
+### CAPITULO III. INTERFERENCIA EN EL DESARROLLO DEL PROCESO ELECTORAL
 
 ###### ARTICULO 298.
 
@@ -3067,7 +3083,7 @@ A quien destruya, inutilice, quite o cambie un dispositivo o señal de seguridad
 
 A quien entorpezca, paralice o deje de prestar un servicio público de transporte se le impondrá una sanción de dos a ocho años de prisión y sanción pecuniaria de cuarenta a ciento sesenta días de salario mínimo.
 
-### CAPITULO V. VIOLACIONES ELECTORALES COMETIDAS POR SERVIDORES PUBLICOS
+### CAPITULO IV. VIOLACIONES AL PROCESO ELECTORAL
 
 ###### ARTICULO 304.
 
@@ -3099,7 +3115,7 @@ Si se trata de un elemento de cualquier corporación policíaca se le impondrá 
 
 En caso de reincidencia de alguno de los delitos a que se refieren los artículos anteriores de este Capítulo, la inhabilitación para manejar podrá ser definitiva y el juez lo comunicará a las autoridades competentes.
 
-### CAPITULO VI. INDUCCION ILICITA A ELECTORES
+### CAPITULO V. VIOLACIONES ELECTORALES COMETIDAS POR SERVIDORES PUBLICOS
 
 ###### ARTICULO 307.
 
@@ -3125,7 +3141,7 @@ El delito de violación de correspondencia sólo se perseguirá por querella nec
 
 ## TITULO DECIMO OCTAVO. DELITOS ELECTORALES
 
-### CAPITULO VII. NO DESEMPEÑO DEL CARGO
+### CAPITULO VI. INDUCCION ILICITA A ELECTORES
 
 ###### ARTICULO 311.
 
@@ -3149,7 +3165,7 @@ Por la Comisión de cualquiera de los delitos comprendidos en el presente Títul
 
 Quien induzca o influya directamente en la voluntad de otro, para que incurra en cualquiera de las conductas ilícitas que establece este Título, será sancionado con la misma pena que corresponda al delito inducido.
 
-### CAPITULO VIII. INDUCCION AL VOTO POR MINISTROS DE CULTO RELIGIOSO
+### CAPITULO VII. NO DESEMPEÑO DEL CARGO
 
 ###### ARTICULO 315.
 
@@ -3166,6 +3182,8 @@ IV. Vote o pretenda votar con una credencial de la que no sea titular, o
 V. Suplante a un votante.
 
 Este delito será sancionado con pena de seis meses a tres años de prisión, y sanción pecuniaria de diez a cien días del salario mínimo vigente.
+
+### CAPITULO VIII. INDUCCION AL VOTO POR MINISTROS DE CULTO RELIGIOSO
 
 ###### ARTICULO 316.
 
@@ -3480,3 +3498,9 @@ B. Las remuneraciones adicionales a las nominales, tales como gratificaciones, p
 C. Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse, si la remuneración total no excede el monto máximo antes referido.
 
 OCTAVO. Todas las disposiciones legales que aludan a los emolumentos, salarios, sueldos, percepciones o cualquier expresión similar alusiva a la remuneración de los servidores públicos, deberán entenderse en los términos de la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+
+P.O. 4 DE JUNIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
