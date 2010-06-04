@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-acceso-a-la-40697"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-20"
-last_updated: "2007-07-24"
+last_updated: "2010-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, DEL REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 4 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 20 de agosto de 2004.
 
@@ -1472,3 +1474,13 @@ P.O. 24 DE JULIO DE 2007.
 ###### ARTICULO UNICO.
 
 Las presentes reformas a este Reglamento entran en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Este Reglamento entra en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Instituto de Acceso a la Información Pública del Estado de Guanajuato publicado en el Periódico Oficial del Gobierno del Estado el 20 de agosto de 2004.
