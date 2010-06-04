@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-ecologia-del-municipio-de-gral-escobedo-nuevo-417
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-08-19"
-last_updated: "1992-08-19"
+last_updated: "2010-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ECOLOGIA DEL MUNICIPIO DE GRAL. ESCOBEDO, NUEVO LEON
 
-REGLAMENTO DE ECOLOGIA
+REGLAMENTO DE ECOLOGÍA DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE ECOLOGÍA Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE GENERAL ESCOBEDO, N.L., PUBLICADO EN EL P.O. DE 4 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 19 de agosto de 1992.
 
@@ -544,3 +546,15 @@ Gral. Escobedo, Nuevo León, a 2 de julio de 1992
 El C. Presidente Municipal
 
 Arq. Abel Guerra Garza
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado, con la correspondiente difusión en la Gaceta Municipal.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de Ecología Publicado en el Periódico Oficial del Estado de Nuevo León del día 19 de Julio del año 1992 y se derogan todas las disposiciones que se opongan al presente Reglamento.
