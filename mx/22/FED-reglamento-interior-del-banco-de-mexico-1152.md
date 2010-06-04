@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2010-03-31"
+last_updated: "2010-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -97,7 +97,11 @@ Dirección de Análisis y Evaluación de Mercados.
 
 Dirección de Sistemas Operativos y de Pagos.
 
-Dirección de Trámite Operativo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2010)</small>
+
+Dirección de Servicios Bancarios y Control Operativo.
 
 Dirección de Estudios Económicos.
 
@@ -323,9 +327,11 @@ Las resoluciones por las que se deleguen facultades se publicarán en el Diario 
 
 La Dirección General de Operaciones de Banca Central tendrá las atribuciones que se señalan en los artículos 19, 19 Bis, 20 y 20 Bis de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-A esta Dirección General estarán adscritas las Direcciones de Operaciones, de Análisis y Evaluación de Mercados, de Sistemas Operativos y de Pagos, así como de Trámite Operativo.
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2010)</small>
+
+A esta Dirección General estarán adscritas las Direcciones de Operaciones, de Análisis y Evaluación de Mercados, de Sistemas Operativos y de Pagos, así como de Servicios Bancarios y Control Operativo.
 
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
@@ -521,9 +527,9 @@ IX. Formalizar los actos necesarios para la acuñación y comercialización de l
 
 X. Tramitar, registrar y conciliar las operaciones que realice el Banco, respecto a monedas y medallas, y
 
-> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-XI. Administrar los transportes aéreos del Banco de México.
+XI. (DEROGADA, D.O.F. 4 DE JUNIO DE 2010)
 
 ###### ARTICULO 17.
 
@@ -869,45 +875,41 @@ XIII. Otorgar excepciones a las disposiciones que esta Dirección hubiere suscri
 
 XIV. Participar en los procedimientos de formulación de observaciones a comisiones, que cobren o pretendan cobrar los intermediarios financieros que sean de su competencia, en los términos previstos en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
-> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-ARTICULO 20 BIS.- La Dirección de Trámite Operativo tendrá las atribuciones siguientes:
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2010)</small>
 
-I. Atender y registrar las operaciones que ocasionen abonos o cargos en la cuenta corriente de la Tesorería de la Federación, así como elaborar los reportes que se entreguen al Gobierno Federal y a las entidades de la Administración Pública Federal que, conforme a las disposiciones aplicables, tengan cuenta en el Banco;
+ARTICULO 20 BIS.- La Dirección de Servicios Bancarios y Control Operativo tendrá las atribuciones siguientes:
 
-II. Asentar los registros correspondientes en las cuentas que el Banco lleve a las instituciones de crédito y, en su caso, a las casas de bolsa, fideicomisos operados por el Banco, y demás entidades previstas legalmente como cuentahabientes;
+I. Atender, registrar y verificar las operaciones que afecten las cuentas que el Banco lleve a quienes de conformidad con las disposiciones aplicables sean sus cuentahabientes;
 
-III. Formalizar y operar sistemas y servicios relacionados con la transmisión de información y registro concernientes a las funciones señaladas en las fracciones I y II del presente artículo y en general, con el funcionamiento de los sistemas de pago;
+II. Gestionar los pagos y cobros derivados de la operación del Banco o de las disposiciones aplicables;
 
-IV. Formalizar y ejecutar las operaciones previstas en las disposiciones relativas a corresponsalía, compensación y en general, a los sistemas de pago;
+III. Conciliar y controlar las operaciones del Banco relacionadas con moneda nacional, divisas, oro, plata, coberturas cambiarias y valores, así como las garantías vinculadas con dichas operaciones;
 
-V. Efectuar pagos y cobros derivados de la operación del Banco o de las disposiciones o compromisos relativos, así como solicitar la expedición de créditos documentarios;
+IV. Efectuar a nombre y por cuenta del Gobierno Federal, el registro y servicio de la Deuda Pública Externa;
 
-VI. Efectuar a nombre y por cuenta del Gobierno Federal, el registro y servicio de la Deuda Pública Externa;
+V. Realizar los cargos en cuenta a que se refiere el artículo 67 de la Ley;
 
-VII. Realizar los cargos en cuenta a que se refiere el artículo 67 de la Ley;
+VI. Atender, conciliar y controlar las operaciones derivadas de los convenios internacionales en los que el Banco actúe por propio derecho o como agente financiero del Gobierno Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+VII. Participar en la negociación y ejecución de las operaciones previstas en los convenios internacionales en materia de pagos y créditos recíprocos;
 
-> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2009)</small>
-
-VIII. Tramitar, registrar y conciliar las operaciones que realice el Banco, respecto de inversiones, cambios y metales, o aquéllas que se deriven de los convenios internacionales en los que el Banco actúe por propio derecho o como agente financiero del Gobierno Federal;
-
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2002)</small>
+VIII. Formalizar, ejecutar y verificar las operaciones previstas en las disposiciones relativas a compensación y, en general, a los sistemas de pago;
 
 IX. Administrar los servicios de depósito y custodia de valores;
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2003)</small>
+X. Formalizar los acuerdos relacionados con las atribuciones señaladas en este artículo;
 
-X. Expedir y llevar el registro de certificados relacionados con la firma electrónica en favor de las personas designadas por los intermediarios financieros; por las personas morales que Banco de México autorice, para efecto de que puedan realizar operaciones relacionadas con los sistemas de pagos, así como en favor de las personas designadas por las entidades autorizadas por las disposiciones aplicables;
+XI. Administrar y operar los sistemas operativos y de pago, así como los servicios de transmisión de información y registro relacionados con sus atribuciones;
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2003)</small>
+XII. Proporcionar servicios de asesoría y soporte a los usuarios de los sistemas operativos y de pago relacionados con sus atribuciones;
 
-XI. Autorizar, cuando lo estime conveniente, a las personas designadas por los intermediarios financieros; por las personas morales que Banco de México autorice, así como por las entidades autorizadas por las disposiciones aplicables, para que expidan certificados relacionados con la firma electrónica a terceros y, en su caso, lleven el registro de los mismos, para los efectos señalados en la fracción anterior, y
+XIII. Expedir, registrar y controlar los certificados relacionados con la firma electrónica a favor de la (sic) personas designadas por los intermediarios financieros; por las personas morales que Banco de México autorice, para efecto de que puedan realizar operaciones relacionadas con los sistemas de pago, así como a favor de las personas designadas por quienes estén autorizados de conformidad con las disposiciones aplicables;
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2002)</small>
+XIV. Autorizar a las personas previstas en las disposiciones aplicables, para que expidan certificados relacionados con la firma electrónica a terceros y, en su caso, lleven el registro de los mismos, y
 
-XII. Participar en la negociación y ejecución de las operaciones previstas en los convenios internacionales en materia de pagos y créditos recíprocos en los que el Banco actúe por propio derecho o como agente financiero del Gobierno Federal; así como en la expedición de disposiciones y atención de autorizaciones, consultas y opiniones relacionadas con los citados convenios internacionales.
+XV. Participar en la expedición de disposiciones relacionadas con las atribuciones anteriores, así como en la atención de autorizaciones, consultas y opiniones sobre las mismas.
 
 > <small>(REFORMADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
@@ -1267,11 +1269,31 @@ XIV. Asesorar en la elaboración de los proyectos de resolución de los recursos
 
 ARTICULO 28 BIS.- La Dirección de Seguridad tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-I. Coordinar y ejecutar las actividades relacionadas con la seguridad interna y la protección civil del Banco, y
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2010)</small>
 
-II. Atender y resolver los requerimientos, que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para determinar si las mismas son falsas o hubieren sido alteradas.
+I. Coordinar y ejecutar las actividades relacionadas con la seguridad interna y protección civil del Banco;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2010)</small>
+
+II. Definir la estrategia en seguridad y administrar los recursos de protección para miembros de la Junta de Gobierno, funcionarios, trabajadores y terceros que el propio Banco determine;
+
+III. Atender y resolver los requerimientos, que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para determinar si las mismas son falsas o hubieren sido alteradas;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2010)</small>
+
+IV. Coordinar las relaciones interinstitucionales con las autoridades del Gobierno Federal, estatales, municipales y extranjeras en materia de seguridad, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2010)</small>
+
+V. Administrar los transportes aéreos que requiera el Banco para el desempeño de sus funciones, así como el traslado terrestre de valores que efectúe con vehículos propios.
 
 > <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1997)</small>
 
@@ -1693,11 +1715,11 @@ El balance general deberá publicarse dentro de los cinco días hábiles siguien
 
 Dado a conocer el balance general, el Banco publicará, dentro de los quince días hábiles siguientes, los estados de cuenta consolidados de los meses que hayan transcurrido del ejercicio en curso, y sucesivamente, dentro de los primeros veinte días hábiles de cada mes, el estado de cuenta consolidado correspondiente al mes inmediato anterior, excepto diciembre.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2010)</small>
 
-El Banco publicará semanalmente en el Diario Oficial de la Federación, con cifras preliminares al cierre del último día hábil de cada semana y dentro de los tres días hábiles siguientes, información resumida sobre sus activos, así como sobre sus pasivos y capital contable, tomando como base los rubros a que se refiere el artículo 38 anterior. Dicha información deberá ser suscrita por el Director de Contabilidad y Presupuesto y, en las ausencias de éste, por el Gerente de Contabilidad e Información Financiera.
+El Banco publicará semanalmente, con cifras preliminares al cierre del último día hábil de cada semana y dentro de los tres días hábiles siguientes, información resumida sobre sus activos, así como sobre sus pasivos y capital contable, tomando como base los rubros a que se refiere el artículo 38 anterior. Dicha información deberá ser suscrita por el Director de Contabilidad y Presupuesto y, en las ausencias de éste, por el Gerente de Contabilidad e Información Financiera.
 
 ### CAPITULO V. DISPOSICIONES GENERALES
 
@@ -2038,3 +2060,9 @@ D.O.F. 31 DE MARZO DE 2010
 PRIMERO. Las presentes reformas, adiciones y derogaciones al Reglamento Interior del Banco de México, entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Los procedimientos y recursos administrativos que se encuentren en trámite a la entrada en vigor de las presentes reformas, adiciones y derogaciones, continuarán substanciándose hasta su total conclusión, conforme a las disposiciones vigentes al momento de su inicio.
+
+D.O.F. 4 DE JUNIO DE 2010.
+
+PRIMERO. Las presentes reformas, adiciones y derogación al Reglamento Interior del Banco de México, entrarán en vigor el 16 de junio de 2010.
+
+SEGUNDO. Las referencias a la Dirección de Trámite Operativo contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Dirección de Servicios Bancarios y Control Operativo.
