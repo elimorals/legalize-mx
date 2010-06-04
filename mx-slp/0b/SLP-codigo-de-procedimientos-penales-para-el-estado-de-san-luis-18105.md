@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2009-02-12"
+last_updated: "2010-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2010.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -1141,7 +1141,7 @@ Para ejercer la acción penal el Ministerio Público deberá tener por acreditad
 
 ###### ARTICULO 171.
 
-Tan pronto como aparezca de las constancias y actuaciones existentes en la averiguación previa, que se han llenado los requisitos exigidos por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, el Ministerio Público ejercerá la acción penal, solicitando del Organo Jurisdiccional la orden de aprehensión o de comparecencia según corresponda, del o de los probables responsables.
+Tan pronto como aparezca de las constancias y actuaciones existentes en la averiguación previa, que se han llenado los requisitos exigidos por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, el Ministerio Público ejercerá la acción penal, solicitando del Órgano Jurisdiccional la orden de aprehensión o de comparecencia según corresponda, del o de los probables responsables.
 
 ###### ARTICULO 172.
 
@@ -1593,7 +1593,7 @@ De todo lo ocurrido en la diligencia se dejará constancia en el acta, la cual, 
 
 ###### ARTICULO 235.
 
-No podrá consignarse a ninguna persona si existe como única prueba la confesión. La policía ministerial podrá rendir informes pero no obtener confesiones; si lo hace estas carecerán de todo valor probatorio.
+No podrá consignarse a ninguna persona si existe como única prueba la confesión. La policía ministerial podrá rendir informes pero no obtener confesiones; si lo hace (sic) estas carecerán de todo valor probatorio.
 
 ### CAPITULO III. INSPECCION Y RECONSTRUCCION DE HECHOS
 
@@ -1945,7 +1945,7 @@ I. Sobre si persiste en su declaración anterior;
 
 II. Si conocía con anterioridad a la persona a quién atribuye el hecho o la conoció en el momento de la ejecución del mismo, y
 
-III. Si después de la ejecución del hecho la ha visto; en que lugar y con que motivo.
+III. Si después de la ejecución del hecho la ha visto; en qué lugar y con qué motivo.
 
 ###### ARTICULO 303.
 
@@ -2569,13 +2569,11 @@ Si se declara fundada la solicitud de reconocimiento de la inocencia del sentenc
 
 ### CAPITULO I. LIBERTAD PROVISIONAL BAJO CAUCION
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 407.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional; homicidio calificado; parricidio; aborto; ataque peligroso; secuestro; secuestro exprés; robo de infante; tráfico de menores; asalto; violación; violación equiparada; abuso sexual calificado; corrupción de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo- pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo- turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo lenocinio de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo- trata de personas de menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho o de personas que no tiene (sic) capacidad para resistirlo- robo calificado; robo equiparado que señala el artículo 195 BIS del Código Penal para el Estado; abigeato; extorsión previsto en los artículos, 212 en sus párrafos segundo y tercero, y 212 BIS del Código Penal para el Estado; rebelión; motín; terrorismo; asociación delictuosa; evasión; tortura; ataque a las vías de comunicación y medios de transporte; y homicidio por culpa a que se refiere el artículo 64 del Código Penal para el Estado.
+Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional- homicidio calificado- parricidio- aborto- ataque peligroso- secuestro- secuestro express- robo de infante- tráfico de menores- asalto- violación- violación equiparada- abuso sexual calificado- corrupción de personas menores de dieciocho años- o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene capacidad para resistirlo; pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene capacidad para resistirlo; turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene capacidad para resistirlo; lenocinio de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene capacidad para resistirlo; trata de personas de menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho o de personas que no tiene capacidad para resistirlo; robo calificado- robo equiparado que señala el artículo 195 BIS del Código Penal del Estado- abigeato- extorsión previsto en los artículos, 212 en sus párrafos segundo y tercero, y 212 BIS del Código Penal del Estado- rebelión- motín- terrorismo- asociación delictuosa- evasión- tortura- ataque a las vías de comunicación y medios de transporte- homicidio por culpa a que se refiere el artículo 64 del Código Penal del Estado; y deslealtad al empleo, cargo o comisión, o perjuicio al servicio público, a que se refiere el párrafo primero del artículo 293 Bis del Código Penal del Estado.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -3230,5 +3228,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido por 
 P.O. 12 DE FEBRERO DE 2009.
 
 PRIMERO. Este Decreto entrará en vigor el día treinta de marzo del año dos mil nueve, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JUNIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
