@@ -4,7 +4,7 @@ identifier: "RGIC"
 country: "mx"
 rank: "reglamento"
 publication_date: "1934-03-20"
-last_updated: "1981-11-27"
+last_updated: "2010-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=586&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "RGIC"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 1981.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DEL SENADO DE LA REPUBLICA, PUBLICADO EN EL D.O.F. DE 4 DE JUNIO DE 2010, DEJAN DE SER APLICABLES EN CUANTO SE REFIERE AL SENADO DE LA REPUBLICA LAS DISPOSICIONES RELATIVAS DEL PRESENTE ORDENAMIENTO A PARTIR DEL PRIMERO DE SEPTIEMBRE DE 2010.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2010.
 
 Reglamento publicado en el Diario Oficial de la Federación el martes 20 de marzo de 1934.
 
@@ -1255,3 +1257,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publica
 D.O.F. 27 DE NOVIEMBRE DE 1981.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente (sic) su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 4 DE JUNIO DE 2010.
+
+PRIMERO. El presente Reglamento se publicará en el Diario Oficial de la Federación y entrará en vigor el primero de septiembre de 2010. A partir de esa fecha dejarán de ser aplicables en cuanto se refiere al Senado de la República, las disposiciones relativas del Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos, conforme al artículo Segundo Transitorio del Decreto de fecha 14 de diciembre de 2004, publicado en el Diario Oficial de la Federación el 30 de diciembre del mismo año, por el que se reformó el artículo 3, numeral 1, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+
+SEGUNDO. La Mesa Directiva y los grupos parlamentarios realizarán programas y acciones de difusión para con los senadores, e inducción y capacitación entre el personal de apoyo, para el debido conocimiento y aplicación del Reglamento del Senado de la República.
+
+TERCERO. Dentro de un año contado a partir de la publicación del Reglamento del Senado, la Mesa someterá a la consideración del Pleno, el proyecto de Estatuto para los Servicios Parlamentarios, Administrativos y Técnicos. Dicho proyecto será coordinado por la Mesa Directiva, con la colaboración de las comisiones de Reglamentos y Prácticas Parlamentarias y de Administración.
+
+CUARTO. Se derogan las Reglas Provisionales y disposiciones económicas del Senado emitidas hasta antes de la entrada en vigor de este Reglamento.
