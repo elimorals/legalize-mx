@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-del-65896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-16"
-last_updated: "2009-11-21"
+last_updated: "2010-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2010.
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -1155,9 +1155,11 @@ Las comisiones funcionarán válidamente con la mayoría de los diputados que la
 
 Los miembros de las comisiones no percibirán ninguna retribución extraordinaria por su desempeño dentro de las mismas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2010)</small>
+
 ###### Artículo 60.
 
-Las comisiones celebrarán reuniones cuantas veces sea necesario, y en cada reunión se levantará una minuta que asentará de forma sumaria los asuntos y acuerdos respectivos.
+Las comisiones ordinarias celebrarán reuniones cuando menos una vez al mes y en cada reunión se levantará una minuta que asentará de forma sumaria los asuntos y acuerdos respectivos.
 
 Sólo por urgencia, de manera extraordinaria y con el permiso de la presidencia de la Mesa Directiva del Congreso, las comisiones podrán reunirse en horas que aquél sesione.
 
@@ -1553,9 +1555,9 @@ b) Deberán presentarse por escrito y en respaldo electrónico;
 
 c) La solicitud deberá estar dirigida a la Presidencia de la Mesa Directiva o de la Comisión de Gobierno;
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2010)</small>
 
-d) Contendrán fundamento, exposición de los motivos y la parte resolutiva;
+d) Contendrán fundamento, exposición de los motivos, así como la parte resolutiva, que deberá ordenar la remisión del acuerdo a las autoridades e instancias que amerite la materia del mismo;
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1566,6 +1568,10 @@ f) El documento deberá ser entregado a la Secretaría General del Congreso.
 ###### Artículo 97.
 
 Los acuerdos se clasifican, por su naturaleza, en declaraciones parlamentarias, legislativas o administrativas, tendientes a manifestar una posición institucional del Congreso, o regular e interpretar actos aplicables a su régimen interior.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2010)</small>
+
+Cuando la naturaleza del acuerdo comprenda a una instancia o dependencia federal deberá remitirse invariablemente a los Diputados Federales y Senadores por Nayarit ante el Congreso de la Unión para su conocimiento.
 
 ###### Artículo 98.
 
@@ -3050,5 +3056,9 @@ P.O. 21 DE NOVIEMBRE DE 2009.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- De conformidad a lo dispuesto por el artículo 35, fracción VIII, de la Ley Orgánica del Poder Legislativo, la Comisión de Gobierno Legislativo en un plazo que no exceda 15 días contados (sic) partir del día siguiente de la entrada en vigor del presente Decreto, propondrá al Pleno el acuerdo que designe a los Diputados que integrarán la Comisión de Ciencia, Tecnología e Innovación.
+
+P.O. 5 DE JUNIO DE 2010.
+
+Artículo Único.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado de Nayarit.
 
 ### Capítulo V. Áreas de Apoyo Técnico Administrativo 88
