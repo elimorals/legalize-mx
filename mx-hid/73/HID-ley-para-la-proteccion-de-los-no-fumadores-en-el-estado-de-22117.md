@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-de-los-no-fumadores-en-el-estado-de-2211
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-17"
-last_updated: "2001-09-17"
+last_updated: "2010-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "HID"
 
 LEY PARA LA PROTECCION DE LOS NO FUMADORES EN EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCION CONTRA LOS EFECTOS NOCIVOS DEL TABACO PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 7 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2001.
 
-MANUEL ANGEL NUÑEZ SOTO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
+MANUEL ANGEL NUÑEZ SOTO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA SUS HABITANTES SABED:
 
-QUE LA LVII LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
+QUE LA LVII LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
 
 D E C R E T O NUM. 217
 
@@ -284,3 +286,15 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO:
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE JUNIO DE 2010.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga la Ley para la Protección de los No Fumadores, Publicada en el Periódico Oficial el diecisiete de septiembre de dos mil uno.
+
+TERCERO.- Lo no previsto por esta Ley en cuanto al fondo, se estará a lo dispuesto por la Ley de Salud para el Estado de Hidalgo y en lo relativo al procedimiento, a la Ley Estatal del Procedimiento Administrativo.
+
+CUARTO.- Se derogan las disposiciones que contravengan lo dispuesto en la presente Ley.
