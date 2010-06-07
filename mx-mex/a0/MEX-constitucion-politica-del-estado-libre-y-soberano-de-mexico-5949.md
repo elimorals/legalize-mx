@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2010-05-07"
+last_updated: "2010-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE JUNIO DE 2010.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -835,7 +835,7 @@ XIII. Designar a los funcionarios electorales cuyo nombramiento le reserve ésta
 
 XIV. Constituirse en Colegio Electoral para designar Gobernador interino o sustituto, en los casos que determine la presente Constitución;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE MARZO DE 2010)</small>
 
 XV. Aprobar los nombramientos de magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo que hagan el Consejo de la Judicatura y el Gobernador, respectivamente, dentro de los 10 días hábiles siguientes a la fecha de los nombramientos. Si éstos transcurren sin que la Legislatura hubiera resuelto, se entenderán aprobados.
 
@@ -929,35 +929,33 @@ La retribución estará sujeta a las modificaciones que, en su caso, sean conven
 
 > <small>(ADICIONADO, G.G. 16 DE AGOSTO DE 2006)</small>
 
-La Legislatura aprobará proyectos para la prestación de servicios conforme a la ley de la materia y las asignaciones presupuestales que cubran los gastos correspondientes a dichos proyectos durante los ejercicios fiscales en que estén vigentes los mismos. Asimismo, aprobará las adjudicaciones directas de dichos proyectos, conforme a las excepciones previstas por la legislación aplicable.
+La Legislatura aprobará proyectos para la prestación de servicios conforme a la ley de la materia y las asignaciones presupuestales que cubran los gastos correspondientes a dichos proyectos durante los ejercicios fiscales en que estén vigentes los mismos. Asimismo, aprobará las adjudicaciones directas de dichos proyectos, conforme a las excepciones previstas por la legislación aplicable;
 
 > <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
 
-XXXI. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal, la Ley de Ingresos de los Municipios, cuya iniciativa será turnada por el Ejecutivo del Estado.
+XXXI. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal, la Ley de Ingresos de los Municipios, cuya iniciativa será turnada por el Ejecutivo del Estado;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2010)</small>
 
-XXXII. Recibir, revisar y fiscalizar las cuentas públicas del Estado y de los Municipios, del año anterior, mismas que incluirán, en su caso, la información correspondiente a los Poderes Públicos, organismos autónomos, organismos auxiliares y demás entes públicos que manejen recursos del Estado y Municipios. Para tal efecto, contará con un Órgano Superior de Fiscalización, dotado de autonomía técnica y de gestión.
+XXXII. Recibir, revisar y fiscalizar las cuentas públicas del Estado y de los Municipios, del año anterior, mismas que incluirán, en su caso, la información correspondiente a los Poderes Públicos, organismos autónomos, organismos auxiliares, fideicomisos públicos o privados y demás entes públicos que manejen recursos del Estado y Municipios. Para tal efecto, contará con un Órgano Superior de Fiscalización, dotado de autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la legislación aplicable.
 
-> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2004)</small>
+La función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
 
-El Auditor Superior de Fiscalización será designado y removido por el voto de las dos terceras partes de los integrantes de la Legislatura, a propuesta de la Junta de Coordinación Política.
+El Auditor Superior de Fiscalización será designado y removido por el voto de las dos terceras partes de los miembros presentes de la Legislatura, a propuesta de la Junta de Coordinación Política.
 
-> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2004)</small>
+El Auditor Superior de Fiscalización durará en su encargo ocho años y podrá ser nombrado nuevamente por una sola vez, por el voto de las dos terceras partes de los miembros presentes de la Legislatura, y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades;
 
-El Auditor Superior de Fiscalización durará en su encargo 4 años, pudiendo ser ratificado hasta por 4 años más, por el voto de las dos terceras partes de los integrantes de la Legislatura.
+> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2010)</small>
 
-> <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
+XXXIII. Revisar, por conducto del Órgano Superior de Fiscalización del Estado de México, las cuentas y actos relativos a la aplicación de los fondos públicos del Estado y de los Municipios, así como fondos públicos federales en los términos convenidos con dicho ámbito que incluirán la información correspondiente a los Poderes Públicos, organismos autónomos, organismos auxiliares, fideicomisos públicos o privados y demás entes públicos que manejen recursos del Estado y Municipios;
 
-XXXIII. Revisar, por conducto del Órgano Superior de Fiscalización del Estado de México, las cuentas y actos relativos a la aplicación de los fondos públicos del Estado y de los Municipios, así como fondos públicos federales en los términos convenidos con dicho ámbito que incluirán la información correspondiente a los Poderes Públicos, organismos autónomos, organismos auxiliares y demás entes públicos que manejen recursos del Estado y Municipios;
+> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2010)</small>
 
-> <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
+XXXIV. Fiscalizar la administración de los ingresos y egresos del Estado y de los Municipios, que incluyen a los Poderes Públicos, organismos autónomos, organismos auxiliares, fideicomisos públicos o privados y demás entes públicos que manejen recursos del Estado y Municipios, a través del Órgano Superior de Fiscalización;
 
-XXXIV. Fiscalizar la administración de los ingresos y egresos del Estado y de los Municipios, que incluyen a los Poderes Públicos, organismos autónomos, organismos auxiliares y demás entes públicos que manejen recursos del Estado y Municipios, a través del Órgano Superior de Fiscalización.
+> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2010)</small>
 
-> <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
-
-XXXV. Determinar por conducto del Órgano Superior de Fiscalización, los daños y perjuicios que afecten a la hacienda pública del Estado y de los Municipios, incluyendo a los Poderes Públicos, organismos autónomos, organismos auxiliares y demás entes públicos que manejen recursos del Estado y Municipios, asimismo a través del propio Órgano fincar las responsabilidades resarcitorias que correspondan y promover en términos de ley, la imposición de otras responsabilidades y sanciones ante las autoridades competentes.
+XXXV. Determinar por conducto del Órgano Superior de Fiscalización, los daños y perjuicios que afecten a la hacienda pública del Estado y de los Municipios, incluyendo a los Poderes Públicos, organismos autónomos, organismos auxiliares, fideicomisos públicos o privados y demás entes públicos que manejen recursos del Estado y Municipios, asimismo a través del propio Órgano fincar las responsabilidades resarcitorias que correspondan y promover en términos de ley, la imposición de otras responsabilidades y sanciones ante las autoridades competentes;
 
 > <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
 
@@ -3148,3 +3146,15 @@ PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- El Poder Ejecutivo del Estado de México adoptará en la esfera de su competencia las disposiciones pertinentes para la ejecución de las reformas objeto de este Decreto.
+
+G.G. 7 DE JUNIO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La Legislatura del Estado de México deberá realizar las reformas respectivas a la Ley de Fiscalización Superior del Estado de México, en un plazo máximo de treinta días, contados a partir de la publicación del presente Decreto.
+
+CUARTO.- El Titular del Órgano Superior de Fiscalización en funciones, permanecerá en el ejercicio de su encargo por el período de ocho años, computados a partir de la fecha en que tomo posesión del mismo, el cual no podrá prolongarse.
+
+QUINTO.- Se derogan o abrogan las disposiciones de igual o menor jerarquía que contravengan o se opongan al presente Decreto.
