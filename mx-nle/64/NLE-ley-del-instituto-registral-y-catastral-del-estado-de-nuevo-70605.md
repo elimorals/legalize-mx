@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-registral-y-catastral-del-estado-de-nuevo-706
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-11"
-last_updated: "2009-09-11"
+last_updated: "2010-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO REFORMADO, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR EL 1 DE ENERO DE 2011.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 2009.
 
@@ -441,58 +443,68 @@ Las relaciones de trabajo, entre el personal que labore para el Instituto y él 
 
 T R A N S I T O R I O S
 
-Primero.- Esta Ley entrará en vigor a los 270 días naturales, a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2010)</small>
 
-Segundo.- El Director General del Instituto deberá ser nombrado, por el Ejecutivo del Estado, dentro de los 10 días naturales siguientes, al en que entre en vigor la presente Ley.
+Primero.- Esta Ley entrará en vigor el 1º de enero de 2011.
 
-Tercero.- El Ejecutivo del Estado expedirá la normatividad que precise la estructuración administrativa de las dependencias de apoyo a la Dirección General, al menos 15 días naturales antes de que inicien las funciones de atención al público, por parte del Instituto.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2010)</small>
 
-Cuarto.- El Consejo Ciudadano deberá sesionar inauguralmente, al menos 5 días naturales antes de que se inicien las funciones de atención al público, por parte del Instituto.
+Segundo.- El Ejecutivo del Estado expedirá la normatividad para precisar la estructura administrativa de las dependencias de apoyo a la Dirección General.
 
-Quinto.- El Instituto ejercerá sus atribuciones de conformidad con las disposiciones legislativas y normativas aplicables, en vigor en el Estado de Nuevo León, en cuanto no se opongan a la presente Ley.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2010)</small>
 
-Sexto.- El Instituto iniciará sus funciones administrativas a partir del día en que entre en vigor esta Ley, pero sus funciones de atención al público iniciarán 30 días naturales después de la fecha referida.
+Tercero.- El Consejo Ciudadano deberá instalarse dentro de los 60 días naturales siguientes a la entrada en vigor de la presente ley.
 
-Séptimo.- Las facultades y obligaciones conferidas a la Dirección del Registro Público de la Propiedad y del Comercio y a la Dirección de Catastro de la Secretaría de Finanzas y Tesorería General del Estado, establecidas en la legislación y en la normatividad en vigor en el Estado de Nuevo León, se entenderán conferidas y serán ejercidas por el Instituto, tan pronto como entre en vigor la presente Ley, salvo aquellas que impliquen actuaciones administrativas de atención al público, en materia registral y catastral, las que se seguirán ejerciendo por las referidas dependencias del Gobierno del Estado, exclusivamente durante los 30 días naturales posteriores a la entrada en vigor de esta Ley, con el fin de salvaguardar la continuidad en la prestación de los servicios.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2010)</small>
 
-Octavo.- Las facultades y obligaciones que la legislación y la normatividad otorguen al Secretario de Finanzas y Tesorero General y al Secretario General de Gobierno y sus respectivas dependencias, ambos del Estado, con respecto de las materias registral y catastral, se entenderán conferidas al Director General del Instituto, salvo aquellas que impliquen actuaciones administrativas de atención al público, en materia registral y catastral, las que se seguirán ejerciendo por las referidas dependencias del Gobierno del Estado, exclusivamente durante los 30 días naturales posteriores a la entrada en vigor de esta Ley, con el fin de salvaguardar la continuidad en la prestación de los servicios.
+Cuarto.- Las atribuciones, funciones y obligaciones en materia registral y catastral que estén conferidas por la legislación y la normatividad a cualquier dependencia o entidad del Gobierno del Estado de Nuevo León, se entenderán conferidas y serán desempeñadas por el Instituto.
 
-Noveno.- Las facultades y obligaciones conferidas por la legislación y la normatividad a cualquier dependencia o entidad del Gobierno del Estado de Nuevo León, en materia registral y catastral, se entenderán conferidas y serán desempeñadas por el Instituto, con la salvedad establecida en los artículos transitorios séptimo y octavo.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2010)</small>
 
-Décimo.- Las facultades y obligaciones conferidas al Director General del Registro Público de la Propiedad y del Comercio y a los Registradores Públicos de la Propiedad y del Comercio, en la legislación y la normatividad en vigor, se entenderán conferidas y serán ejercidas respectivamente por el Director del Registro Público y los Registradores Públicos del Instituto, con la salvedad establecida en el artículo transitorio séptimo.
+Quinto.- Las atribuciones, funciones y obligaciones que la legislación y la normatividad otorguen a la Secretaría General de Gobierno y a la Secretaria de Finanzas y Tesorería General del Estado, con respecto de las materias registral y catastral, se entenderán conferidas y serán ejercidas por el Instituto Registral y Catastral del Estado, a partir de la entrada en vigor de la presente ley.
 
-Décimo Primero.- Las facultades y obligaciones conferidas al Director de Catastro y a los Jefes Catastrales, en la legislación y la normatividad en vigor, se entenderán conferidas y serán ejercidas respectivamente por el Director de Catastro y los Jefes de Catastro del Instituto, con la salvedad establecida en el artículo transitorio séptimo.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2010)</small>
 
-Décimo Segundo.- Las funciones del Instituto, en su carácter de órgano fiscal autónomo, se regirán por lo establecido en la legislación aplicable, en vigor, del Estado de Nuevo León.
+Sexto.- Las atribuciones, funciones y obligaciones que la legislación y la normatividad otorguen al Secretario General de Gobierno y al Secretario de Finanzas y Tesorero General del Estado, con respecto de las materias registral y catastral, se entenderán conferidas al Director General del Instituto, a partir de la entrada en vigor de la presente ley.
 
-Décimo Tercero.- El personal que actualmente labora en la Dirección de Registro Público de la Propiedad y del Comercio y en la Dirección de Catastro y que, en su caso, pase a laborar al Instituto, conservará los derechos que haya adquirido en virtud de su relación laboral con la Administración Pública Estatal.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2010)</small>
 
-Décimo Cuarto.- Los bienes muebles e inmuebles del Estado y los recursos administrativos y financieros afectados al funcionamiento de la Dirección de Registro Público de la Propiedad y del Comercio y de la Dirección de Catastro, serán transferidos al patrimonio del Instituto, quedando facultado este último, para modificar y redistribuir las partidas del Presupuesto de Egresos que correspondan al ejercicio fiscal en que entre en vigor esta Ley, sin exceder los montos autorizados para las referidas dependencias.
+Séptimo.- Las atribuciones, facultades y obligaciones conferidas a la Dirección General del Registro Público de la Propiedad y del Comercio de la Secretaria General de Gobierno y a la Dirección del Catastro de la Secretaria de Finanzas y Tesorería General del Estado, establecidas en la legislación y en la normatividad en vigor en el Estado de Nuevo León, se entenderán conferidas y serán ejercidas por el Instituto, a partir de la entrada en vigor de la presente ley.
 
-Décimo Quinto.- La substanciación y decisión de los asuntos y procedimientos que actualmente se encuentran en trámite y que estén pendientes de resolución en la Dirección de Registro Público de la Propiedad y del Comercio y en la Dirección de Catastro, cualquiera que sea su estado, serán resueltos por el Instituto, a través de sus órganos competentes y de conformidad con las disposiciones procedimentales legales vigentes a la fecha en que fueron iniciados los trámites respectivos.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2010)</small>
 
-Décimo Sexto.- En el cumplimiento de esta Ley, el titular del Poder Ejecutivo del Estado de Nuevo León podrá reorganizar la Administración Pública Estatal, en las áreas que se afecten, quedando facultado para modificar y redistribuir las partidas del Presupuesto de Egresos, para el ejercicio fiscal en que entre en vigor esta Ley, sin exceder los montos autorizados, para las dependencias que se reorganicen.
+Octavo.- Las facultades y obligaciones conferidas al Director General del Registro Público de la Propiedad y del Comercio y a los Registradores Públicos de la Propiedad y del Comercio, en la legislación y normatividad en vigor, se entenderán conferidas y serán ejercidas respectivamente por el Director del Registro Público y los Registradores Públicos del Instituto.
 
-Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2010)</small>
 
-Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, a los treinta y un días del mes de agosto de 2009.
+Noveno.- Las facultades y obligaciones conferidas al Director de Catastro y a los Jefes Catastrales, en la legislación y la normatividad en vigor, se entenderán conferidas y serán ejercidas respectivamente por el Director de Catastro y los Jefes de Catastro del Instituto.
 
-PRESIDENTE: DIP. ÁNGEL VALLE DE LA O; DIP. SECRETARIO: RICARDO PARÁS WELSH; DIP. SECRETARIA POR MINISTERIO DE LEY: MARÍA ELISA IBARRA JOHNSTON.- RUBRICAS.-
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2010)</small>
 
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital a los 3 días del mes de septiembre del año 2009.
+Décimo.- Las funciones del Instituto, en su carácter de órgano fiscal autónomo, se regirán por lo establecido en la legislación aplicable, en vigor, en el Estado de Nuevo León.
 
-EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2010)</small>
 
-JOSÉ NATIVIDAD GONZÁLEZ PARÁS
+Décimo Primero.- El personal que actualmente labora en la Dirección General del Registro Público de la Propiedad y del Comercio y en la Dirección de Catastro y que, en su caso, pase a laborar al Instituto, conservará los derechos que haya adquirido en virtud de su relación laboral con la Administración Pública Estatal.
 
-EL C. SECRETARIO GENERAL DE GOBIERNO
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2010)</small>
 
-JORGE CANTÚ VALDERRAMA
+Décimo Segundo.- Los bienes muebles e inmuebles del Estado y los recursos administrativos y financieros afectados al funcionamiento de la Dirección General del Registro Público de la Propiedad y del Comercio y de la Dirección de Catastro, serán transferidos al patrimonio del Instituto, quedando facultado este último, para modificar y redistribuir las partidas del Presupuesto de Egresos que correspondan al ejercicio fiscal en que entre en vigor esta Ley, sin exceder los montos autorizados para las referidas dependencias.
 
-EL C. PROCURADOR GENERAL DE JUSTICIA
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2010)</small>
 
-LUIS CARLOS TREVIÑO BERCHELMANN
+Décimo Tercero.- La substanciación y decisión de los asuntos y procedimientos que actualmente se encuentran en trámite y que estén pendientes de resolución en la Dirección General del Registro Público de la Propiedad y del Comercio y en la Dirección de Catastro, cualquiera que sea su estado, serán resueltos por el Instituto, a través de sus órganos competentes y de conformidad con las disposiciones procedimentales legales vigentes a la fecha en que fueron iniciados los trámites respectivos.
 
-EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2010)</small>
 
-RUBÉN EDUARDO MARTÍNEZ DONDÉ
+Décimo Cuarto.- En el cumplimiento de esta Ley, el titular del Poder Ejecutivo del Estado de Nuevo León, podrá reorganizar la Administración Pública Estatal, en las áreas que se afecten, quedando facultado para modificar y redistribuir las partidas del Presupuesto de Egresos, para el ejercicio fiscal en que entre en vigor esta Ley, sin exceder los montos autorizados, para las dependencias que se reorganicen.
+
+Décimo Quinto.- (ABROGADO, P.O. 7 DE JUNIO DE 2010)
+
+Décimo Sexto.- (ABROGADO, P.O. 7 DE JUNIO DE 2010)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE JUNIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Estado.
