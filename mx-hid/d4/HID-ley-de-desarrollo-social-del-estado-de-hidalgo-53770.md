@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2009-05-25"
+last_updated: "2010-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -191,7 +191,11 @@ VI.- Trabajadores de zonas urbanas y campesinos en condiciones de pobreza alimen
 
 VII.- Niñas y niños de hasta 5 años, en condición de pobreza alimentaria;
 
-VIII.- Adultos mayores, de 70 años y más, que habiten en localidades de alta y muy alta marginación de zonas urbanas y rurales en condiciones de pobreza alimentaria o patrimonial.
+VIII.- Adultos mayores, de 70 años y más, que habiten en localidades de alta y muy alta marginación de zonas urbanas y rurales en condiciones de pobreza alimentaria o patrimonial;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2010)</small>
+
+IX.- Artesanos.
 
 Esta prohibida toda práctica discriminatoria en el otorgamiento de subsidios y beneficios que se otorguen como parte de los programas sociales.
 
@@ -936,3 +940,7 @@ LIC. MIGUEL ANGEL OSORIO CHONG
 P.O. 25 DE MAYO DE 2009.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente, al de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JUNIO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente a su Publicación en el Periódico Oficial del Estado.
