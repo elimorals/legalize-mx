@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2010-04-19"
+last_updated: "2010-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -1703,9 +1703,9 @@ Los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administr
 
 Los Jueces protestarán ante el Consejo de la Judicatura y los demás funcionarios y empleados de la Administración de Justicia, rendirán protesta ante la autoridad de la cual dependan.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2010)</small>
 
-En escrutinio secreto, los magistrados de cada Tribunal, nombrarán de entre ellos al que será Presidente, quien durará en su cargo un año, pudiendo ser reelecto. Estos funcionarios deberán rendir un informe sobre el estado que guarda la administración de justicia, en los términos establecidos en la ley orgánica.
+En escrutinio secreto, los magistrados de cada Tribunal, nombrarán de entre ellos al que será Presidente, durará en su encargo cuatro años y no podrá ser reelecto para el periodo inmediato. Estos funcionarios deberán rendir un informe sobre el estado que guarda la administración de justicia, en los términos establecidos en la ley orgánica.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
@@ -3192,3 +3192,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 19 DE ABRIL DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE JUNIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
