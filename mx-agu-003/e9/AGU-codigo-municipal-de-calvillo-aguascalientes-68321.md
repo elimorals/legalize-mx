@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-68321"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-04-27"
-last_updated: "2009-08-10"
+last_updated: "2010-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE CALVILLO, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2010.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 27 de abril de 2009.
 
@@ -19263,29 +19263,27 @@ Para el otorgamiento de licencia de tortillería para la producción o venta de 
 
 ###### Artículo 1941.
 
-En los establecimientos comerciales, para la venta de tortilla de maíz, se requiere que no exista una tortillería establecida en un radio de seiscientos metros.
+(DEROGADO, P.O. 7 DE JUNIO DE 2010)
 
 ###### Artículo 1942.
 
-Los productores de masa y tortilla de maíz requieren licencia para su reparto hacia los expendios autorizados.
+(DEROGADO, P.O. 7 DE JUNIO DE 2010)
 
 ###### Artículo 1943.
 
-Los industriales del ramo podrán establecer rutas para el reparto de masa y tortilla de maíz, de las que darán aviso oficial a la autoridad municipal, con expresión de la descripción de la ruta y el titular de la misma.
-
-Las tiendas de abarrotes o similares podrán vender tortillas de maíz de acuerdo a las rutas previamente aprobadas, giro que debe asentarse en la licencia correspondiente.
+(DEROGADO, P.O. 7 DE JUNIO DE 2010)
 
 ###### Artículo 1944.
 
-La licencia para reparto de tortilla de maíz quedará sin efecto, en todo o en parte, cuando se otorgue licencia para el establecimiento de una tortillería que cubra total o parcialmente la ruta de reparto respectiva, por lo que en caso de cobertura parcial, la licencia de reparto se modificará en lo conducente.
+(DEROGADO, P.O. 7 DE JUNIO DE 2010)
 
 ###### Artículo 1945.
 
-Para la sustitución de licencia por cambio de domicilio de tortillería se requiere que el nuevo establecimiento se ubique a una distancia máxima de cincuenta metros respecto del lugar donde se encuentre el establecimiento cuyo cambio de ubicación se pretenda realizar.
+(DEROGADO, P.O. 7 DE JUNIO DE 2010)
 
 ###### Artículo 1946.
 
-Para el establecimiento de molinos de nixtamal y tortillerías productoras de tortilla de maíz, así como para el cambio de domicilio de éstas, y para el ejercicio de la actividad de reparto de tortilla de maíz a establecimientos en que se expenda el producto, de manera previa al otorgamiento de licencia la autoridad municipal oirá la opinión de los industriales del ramo a través de su agrupación.
+(DEROGADO, P.O. 7 DE JUNIO DE 2010)
 
 ###### Artículo 1947.
 
@@ -19301,7 +19299,7 @@ Los propietarios, encargados y personal de molinos de nixtamal, tortillerías y 
 
 ###### Artículo 1950.
 
-Los industriales de la masa y la tortilla de Calvillo, participarán en los programas cívicos de desarrollo que promueva la autoridad municipal, a través de la difusión de planes, proyectos y acciones de beneficio para la comunidad.
+(DEROGADO, P.O. 7 DE JUNIO DE 2010)
 
 ## TÍTULO CUARTO. DE LOS ESPECTÁCULOS PÚBLICOS EN GENERAL
 
@@ -23664,3 +23662,9 @@ P.O. 10 DE AGOSTO DE 2009.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones reglamentarias municipales en lo que se opongan al presente acuerdo.
+
+P.O. 7 DE JUNIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
