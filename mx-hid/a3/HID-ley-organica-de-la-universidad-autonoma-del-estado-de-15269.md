@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-universidad-autonoma-del-estado-de-15269"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1977-05-01"
-last_updated: "1977-05-01"
+last_updated: "2010-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2010.
 
 Ley publicada en el Folleto Especial del Periódico Oficial del Estado de Hidalgo, el domingo 1 de mayo de 1977.
 
@@ -229,9 +229,11 @@ XV.- Las que le otorgue la presente Ley orgánica y demás disposiciones legales
 
 ### CAPITULO V. DEL RECTOR
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2010)</small>
+
 ###### Artículo 19.
 
-El rector de la Universidad Autónoma del Estado de Hidalgo, es su autoridad ejecutiva máxima; su representante legal, con todas las facultades generales y especiales que requieran cláusula especial, en los términos de ley, y Presidente del Consejo Universitario. Durará en su encargo cuatro años y podrá ser reelecto una sola vez.
+El rector de la Universidad Autónoma del Estado de Hidalgo es su autoridad ejecutiva máxima, su representante legal, con todas las facultades generales y especiales que requieran cláusula especial, en los términos de la Ley, y Presidente del Consejo Universitario. Durará en su encargo seis años y no podrá ser reelecto.
 
 ###### Artículo 20.
 
@@ -303,11 +305,13 @@ IV.- Ser catedrático del Instituto o Escuela de que se trate, con una antigüed
 
 V.- Estar plenamente identificado con la comunidad del Instituto o Escuela que vaya a dirigir.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2010)</small>
+
 ###### Artículo 25.
 
-Los Directores de Institutos o Escuelas dependientes de la Universidad, durarán en su encargo cuatro años y podrán ser reelectos una sola vez.
+Los Directores de los Institutos y las Escuelas dependientes de la Universidad durarán, en su encargo, seis años y no podrán ser reelectos.
 
-La elección correspondiente se llevará a cabo dentro de los tres meses siguientes a la elección del Rector, conforme al Estatuto General.
+La elección correspondiente se llevará a cabo dentro de los tres meses siguientes a la elección de rector, conforme al Estatuto General.
 
 ###### Artículo 26.
 
@@ -442,3 +446,15 @@ Dado en el Salón de Sesiones del H. Congreso del Estado en Pachuca de Soto, Hid
 Por tanto, mando se imprima, publique y circule, para su debido cumplimientos.
 
 DADO en el Palacio del Poder Ejecutivo en la Ciudad de Pachuca de Soto, Hidalgo, a los treinta días del mes de marzo de mil novecientos setenta y siete.- El Gobernador Constitucional Interino del Estado, LIC. JOSE LUIS SUAREZ MOLINA.- El Secretario de Gobierno, LIC. FERNANDO LUGO VERDUZCO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE JUNIO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Por única vez el mandato del Rector en funciones, tendrá una duración de un año, contado a partir de su elección, con el fin de propiciar la generación de coincidencias programáticas y el mejor clima de cooperación entre la Universidad y el Ejecutivo Estatal.
+
+TERCERO.- Los Directores de los Institutos y las Escuelas en funciones, dependientes de la Universidad, concluirán su mandato dentro de los tres meses siguientes a la elección de Rector, conforme a este Decreto, para proceder en los términos a la renovación de dichos cargos, dentro de los tres meses posteriores a la elección del Rector.
+
+CUARTO.- Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
