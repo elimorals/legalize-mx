@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2009-09-25"
+last_updated: "2010-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -1321,7 +1321,7 @@ Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina 
 
 ###### Art. 122.
 
-Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta, dará parte al Ministerio Publico comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a Derecho. Cuando el Ministerio Publico averigüe un fallecimiento, dará parte al Oficial del Registro Civil para que asiente el acta respectiva. Si se ignora él nombre del difunto se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y en general todo lo que pueda conducir a identificar a la persona. Siempre que se adquieran mayores datos se comunicarán al Oficial del Registro Civil para que los anote.
+Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta, dará parte al Ministerio Público comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a Derecho. Cuando el Ministerio Público averigüe un fallecimiento, dará parte al Oficial del Registro Civil para que asiente el acta respectiva. Si se ignora él nombre del difunto se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y en general todo lo que pueda conducir a identificar a la persona. Siempre que se adquieran mayores datos se comunicarán al Oficial del Registro Civil para que los anote.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -12301,9 +12301,11 @@ Los extranjeros y las personas morales no pueden comprar bienes raíces, sino su
 
 (DEROGADO, P.O. 8 DE DICIEMBRE DE 2004)
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
+
 ###### Art. 2170.
 
-Los magistrados, los jueces, el ministerio público, los defensores oficiales, los abogados, los procuradores y los peritos no pueden comprar los bienes que son objeto de los juicios en que intervengan. Tampoco podrán ser cesionarios de los derechos que se tengan sobre los citados bienes.
+Los magistrados, los jueces, el ministerio público, los defensores públicos, los abogados, los procuradores y los peritos no pueden comprar los bienes que son objeto de los juicios en que intervengan. Tampoco podrán ser cesionarios de los derechos que se tengan sobre los citados bienes.
 
 ###### Art. 2171.
 
@@ -16734,3 +16736,7 @@ Cuarto.- El Ejecutivo del Estado a través de la Secretaria de Finanzas y Tesore
 P.O. 25 DE SEPTIEMBRE DE 2009.
 
 Artículo Único.- El presente Decreto entrará en vigor el 30 de septiembre de 2009.
+
+P.O. 9 DE JUNIO DE 2010.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
