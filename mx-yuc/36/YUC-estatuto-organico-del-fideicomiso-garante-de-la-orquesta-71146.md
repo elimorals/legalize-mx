@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-fideicomiso-garante-de-la-orquesta-71146"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-12-10"
-last_updated: "2009-12-10"
+last_updated: "2010-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGANICO DEL FIDEICOMISO GARANTE DE LA ORQUESTA SINFONICA DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE JUNIO DE 2010.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el jueves 10 de diciembre de 2009.
 
@@ -35,9 +35,11 @@ EL ESTATUTO ORGÁNICO DEL FIDEICOMISO GARANTE DE LA ORQUESTA SINFÓNICA DE YUCAT
 
 ### CAPÍTULO I. Disposiciones generales
 
+> <small>(REFORMADO, D.O. 9 DE JUNIO DE 2010)</small>
+
 ###### Artículo 1.
 
-Este Estatuto Orgánico tiene por objeto normar la organización y el funcionamiento del Fideicomiso Público, denominado Fideicomiso Garante de la Orquesta Sinfónica de Yucatán.
+Este Estatuto Orgánico tiene por objeto establecer las bases de organización, así como las facultades y funciones que corresponden a las distintas áreas que integran el Fideicomiso Público, denominado Fideicomiso Garante de la Orquesta Sinfónica de Yucatán.
 
 ###### Artículo 2.
 
@@ -59,15 +61,25 @@ f) En general, los servicios de cualquier naturaleza cuya prestación genere una
 
 II. Comité Técnico: el Comité Técnico del Fideicomiso Garante de la Orquesta Sinfónica de Yucatán;
 
-III. Contrato de constitución: el contrato de constitución del Fideicomiso Garante de la Orquesta Sinfónica de Yucatán, suscrito el día 6 de julio de 2008, entre el Estado de Yucatán, representado por el Secretario de Planeación y Presupuesto, en su carácter de fideicomitente y Nacional Financiera, Sociedad Nacional de Crédito, representada por su delegado fiduciario general, como fiduciaria;
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2010)</small>
 
-IV. Decreto de creación: el Decreto número 69 expedido por el Poder Ejecutivo el día 5 de marzo de 2008 y publicado en el Diario Oficial del Gobierno del Estado de Yucatán el día 18 del mismo mes y año, mediante el cual se autoriza la creación del Fideicomiso Garante de la Orquesta Sinfónica de Yucatán;
+III. Contrato de constitución: el contrato de constitución del Fideicomiso Garante de la Orquesta Sinfónica de Yucatán, suscrito el día 6 de julio de 2008, entre el Poder Ejecutivo del Estado de Yucatán, a través del titular de la Secretaría de Planeación y Presupuesto, en su carácter de fideicomitente y Nacional Financiera, Sociedad Nacional de Crédito, representada por su Delegado Fiduciario General, como fiduciaria, así como los ulteriores convenios modificatorios al mismo;
+
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2010)</small>
+
+IV. Decreto de creación: el Decreto número 69 expedido por el Poder Ejecutivo, el día 5 de marzo de 2008 y publicado en el Diario Oficial del Gobierno del Estado de Yucatán, el día 18 del mismo mes y año, mediante el cual se autoriza la creación del Fideicomiso Garante de la Orquesta Sinfónica de Yucatán, así como sus ulteriores reformas y adiciones;
+
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2010)</small>
+
+IV. BIS. Director Artístico: el Director Artístico del Fideicomiso Garante de la Orquesta Sinfónica de Yucatán;
 
 V. Director General: el Director General del Fideicomiso Garante de la Orquesta Sinfónica de Yucatán;
 
 VI. Directores: los titulares de las unidades administrativas del Fideicomiso Garante de la Orquesta Sinfónica de Yucatán;
 
-VII. Fideicomitente: la Secretaría de Planeación y Presupuesto del Gobierno del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2010)</small>
+
+VII. Fideicomitente: el Poder Ejecutivo del Estado de Yucatán, a través de la Secretaría de Planeación y Presupuesto;
 
 VIII. Fiduciaria: Nacional Financiera, Sociedad Nacional de Crédito;
 
@@ -75,7 +87,9 @@ IX. FIGAROSY: el Fideicomiso Garante de la Orquesta Sinfónica de Yucatán;
 
 X. ICY: el Instituto de Cultura de Yucatán;
 
-XI. OSY: la Orquesta Sinfónica de Yucatán;
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2010)</small>
+
+XI. OSY: la unidad artística compuesta por músicos ejecutantes contratados en régimen laboral por el FIGAROSY, que tocan instrumentos pertenecientes a las familias de cuerdas, viento y percusión y es conocida por terceros como la Orquesta Sinfónica de Yucatán;
 
 XII. POSY: el Patronato para la Orquesta Sinfónica de Yucatán, A.C.;
 
@@ -91,31 +105,33 @@ El FIGAROSY, de conformidad con el Decreto de creación, tiene como fin la admin
 
 En ningún caso los recursos del patrimonio del FIGAROSY, que se entreguen a las entidades del sector público y del sector privado o a las personas físicas, se podrán destinar a conceptos de gasto que no sean inherentes al cumplimiento de su fin.
 
+> <small>(REFORMADO, D.O. 9 DE JUNIO DE 2010)</small>
+
 ###### Artículo 4.
 
-El FIGAROSY forma parte de la Administración Pública Paraestatal, por tanto, estará integrado al sector coordinado por la Secretaría de Educación, y regirá sus relaciones laborales en términos de lo dispuesto por el artículo 123 apartado A de la Constitución Política de los Estados Unidos Mexicanos.
+El FIGAROSY regirá sus relaciones laborales en términos de lo dispuesto por el artículo 123 apartado A de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPÍTULO II. De la estructura orgánica y funcionamiento del Fideicomiso Garante de la Orquesta Sinfónica de Yucatán
+
+> <small>(REFORMADO, D.O. 9 DE JUNIO DE 2010)</small>
 
 ###### Artículo 5.
 
 El FIGAROSY, para el cumplimiento de su fin, contará con la siguiente estructura:
 
-I. Órganos de Gobierno:
+I. Comité Técnico;
 
-a) Comité Técnico, y
+II. Dirección General;
 
-b) Dirección General.
+III. Dirección Artística;
 
-II. Unidades Administrativas:
+IV. Dirección de Administración y Finanzas;
 
-a) Dirección de Administración y Finanzas;
+V. Dirección de Comunicación y Medios, y
 
-b) Dirección de Comunicación y Medios, y
+VI. Dirección de Asuntos y Servicios Jurídicos.
 
-c) Dirección de Asuntos y Servicios Jurídicos.
-
-El FIGAROSY contará además con el personal técnico y administrativo necesario para el cumplimiento de su fin, que apruebe el Comité Técnico, a propuesta del Director General y de conformidad a la disponibilidad presupuestaria.
+El FIGAROSY contará además con el personal artístico, técnico y administrativo necesario para el cumplimiento de su fin, que apruebe el Comité Técnico, a propuesta del Director General y de conformidad a la disponibilidad presupuestaria.
 
 ###### Artículo 6.
 
@@ -183,9 +199,17 @@ XII. Aprobar proyectos y programas específicos, y emitir los lineamientos y req
 
 XIII. Aprobar las estrategias y esquemas para la desincorporación de los activos que formen parte del patrimonio del FIGAROSY;
 
-XIV. Aprobar, en su caso, las estrategias de inversión y desinversión de los recursos líquidos que formen parte del patrimonio del FIGAROSY, así como las relativas al manejo y administración de los pasivos de éste, y
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2010)</small>
 
-XV. Aprobar, en su caso, los gastos inherentes a la administración de los activos y pasivos del FIGAROSY, tales como la contratación de consultores externos, valuaciones, avalúos, auditorías de venta, asesoría legal, entre otras.
+XIV. Aprobar, en su caso, las estrategias de inversión y desinversión de los recursos líquidos que formen parte del patrimonio del FIGAROSY, así como las relativas al manejo y administración de los pasivos de éste;
+
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2010)</small>
+
+XV. Aprobar, en su caso, los gastos inherentes a la administración de los activos y pasivos del FIGAROSY, tales como la contratación de consultores externos, valuaciones, avalúos, auditorías de venta, asesoría legal, entre otras, y
+
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2010)</small>
+
+XVI. Aprobar, a propuesta del Director General, los reglamentos, acuerdos y disposiciones de carácter general, para un adecuado funcionamiento administrativo y artístico del FIGAROSY.
 
 El Comité Técnico únicamente podrá realizar los actos a que se refieren los incisos anteriores, por lo que deberá abstenerse de ordenar la realización de operaciones distintas, principalmente las reguladas por las disposiciones jurídicas financieras.
 
@@ -193,9 +217,11 @@ El Comité Técnico únicamente podrá realizar los actos a que se refieren los 
 
 En todo lo relativo a las sesiones del Comité Técnico, se estará a lo dispuesto por el Código de la Administración Pública de Yucatán, el Decreto de creación y el Contrato de constitución.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 9 DE JUNIO DE 2010)</small>
+
 ###### Artículo 10.
 
-El Secretario de Actas y Acuerdos, de conformidad con las atribuciones establecidas en el Decreto de creación y en el Contrato de constitución, las siguientes facultades y obligaciones:
+El Secretario de Actas y Acuerdos, de conformidad con las atribuciones establecidas en el Decreto de creación y en el Contrato de constitución, tendrá las siguientes facultades y obligaciones:
 
 I. Elaborar el proyecto de la orden del día;
 
@@ -241,7 +267,9 @@ II. Acordar con el Director General, los asuntos a su cargo que requieran de su 
 
 III. Observar y hacer cumplir, en el ámbito de sus respectivas competencias, el Código de la Administración Pública de Yucatán, el Decreto de creación, el Contrato de constitución y demás normatividad aplicable;
 
-IV. Proponer al Director General los lineamientos, procedimientos e instrumentos operativos que les permitan sustentar técnicamente el desarrollo de las funciones y programas de sus respectivas competencias, así como sus correspondientes indicadores de gestión;
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2010)</small>
+
+IV. Proponer al Director General, para su aprobación, los lineamientos, procedimientos e instrumentos operativos que les permitan sustentar técnicamente las funciones y programas para el desarrollo de sus respectivas competencias, así como sus correspondientes indicadores de gestión;
 
 V. Someter a la consideración del Director General el ingreso, licencia, promoción, remoción y cese del personal a su cargo;
 
@@ -258,6 +286,30 @@ X. Formular los dictámenes, opiniones e informes que le sean solicitados por el
 XI. Participar en la integración del programa de trabajo de su área para su presentación al Director General, y
 
 XII. Participar, en su caso, en las comisiones, comités y subcomités que le encomiende el Director General.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2010)</small>
+
+###### Artículo 14 Bis.
+
+El Director Artístico tendrá las siguientes facultades y obligaciones:
+
+I. Conducir la actividad musical y artística de la OSY, de conformidad con este Estatuto y demás disposiciones legales y normativas aplicables;
+
+II. Velar por la preservación de la calidad artística de la OSY, a través de la dirección musical y supervisión de sus ensayos y presentaciones;
+
+III. Elaborar el Programa Anual de Actividades de la OSY y remitirlo al Director General, para su visado y posterior aprobación por parte del Comité Técnico;
+
+IV. Proponer al Director General los lineamientos de carácter técnico, necesarios para la excelencia en la ejecución de la OSY;
+
+V. Seleccionar a los ejecutantes que integrarán la OSY, de conformidad con los procedimientos y normatividad aplicable;
+
+VI. Disciplinar y promover la armonía entre los miembros de la OSY, aplicando la normatividad correspondiente;
+
+VII. Presentarse con puntualidad a los ensayos y conciertos de la OSY;
+
+VIII. Preparar debidamente los materiales de concierto a través del Jefe de Biblioteca, cotejando números de compás y letras de ensayo entre su partitura y las particellas. Cuando se programen obras que no se encuentren en el archivo de la biblioteca del FIGAROSY, el Director Artístico deberá notificar esta circunstancia al Director General, con al menos, dos meses de anticipación al primer ensayo de la obra programa para que se realicen las gestiones correspondientes a fin de obtenerlas, y
+
+IX. Las demás que le encomiende el Director General, este Estatuto y otros ordenamientos legales aplicables.
 
 ###### Artículo 15.
 
@@ -327,7 +379,17 @@ VIII. Verificar que los procesos de adquisiciones, arrendamientos y servicios se
 
 IX. Vigilar el cumplimiento de la normatividad aplicable a los bienes inmuebles, propiedad del FIGAROSY y los que se encuentren en comodato por parte del mismo, y
 
-X. Las demás que el (sic) encomiende el Director General, este Estatuto Orgánico y otros ordenamientos legales aplicables.
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2010)</small>
+
+X. Las demás que le encomiende el Director General, este Estatuto Orgánico y otros ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2010)</small>
+
+###### Artículo 17 Bis.
+
+El FIGAROSY, para el cumplimiento de su fin, contará con la OSY que estará integrada con músicos, nacionales o extranjeros, que ejecutarán programas y acciones que coadyuven al desarrollo, difusión y fomento de las obras sinfónicas en el Estado de Yucatán, a través de la realización de ciclos de conciertos y la formación de nuevos públicos e instrumentistas.
+
+Lo relativo a la integración, estructura, funcionamiento, facultades y obligaciones, permisos y disposiciones disciplinarias para los integrantes de la OSY, así como los procedimientos para su aplicación, se establecerán en el Reglamento Interior de Trabajo de la OSY.
 
 ### CAPÍTULO VI. De las suplencias
 
@@ -343,7 +405,9 @@ Los titulares de las unidades administrativas del FIGAROSY, serán suplidos en s
 
 PRIMERO. Este Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-SEGUNDO. A partir de la aprobación de este Estatuto Orgánico, cada una de las Unidades Administrativas del Fideicomiso Garante de la Orquesta Sinfónica de Yucatán, deberá emitir en un plazo no mayor de noventa días hábiles, su Manual de Organización y de Políticas y Procedimientos, respectivo.
+> <small>(REFORMADO, D.O. 9 DE JUNIO DE 2010)</small>
+
+SEGUNDO. A partir de la aprobación de este Estatuto Orgánico, cada una de las Unidades Administrativas del Fideicomiso Garante de la Orquesta Sinfónica de Yucatán, deberá remitir al Director General, para su aprobación, su Manual de Organización y de Políticas y Procedimientos, en un plazo no mayor de noventa días hábiles. La Orquesta Sinfónica de Yucatán se regirá por un Reglamento Interior de Trabajo, que deberá aprobar el Comité Técnico, y por los contratos individuales que regulen las relaciones laborales de los músicos ejecutantes que la integran.
 
 TERCERO. Se abrogan todas aquellas disposiciones administrativas relativas al Fideicomiso Garante de la Orquesta Sinfónica de Yucatán que se opongan a lo previsto en este instrumento.
 
@@ -354,3 +418,11 @@ Aprobado por el Comité Técnico del Fideicomiso Garante de la Orquesta Sinfóni
 C.P. MIGUEL FRANCISCO ESCOBEDO NOVELO
 
 DIRECTOR GENERAL DEL FIDEICOMISO GARANTE DE LA ORQUESTA SINFÓNICA DE YUCATÁN.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O. 9 DE JUNIO DE 2010.
+
+PRIMERO. Este Acuerdo entrará en vigor al momento de su aprobación por el Comité Técnico del Fideicomiso Garante de la Orquesta Sinfónica de Yucatán.
+
+SEGUNDO. Se instruye al Director General del Fideicomiso Garante de la Orquesta Sinfónica de Yucatán, para que realice las gestiones necesarias para la publicación del presente Acuerdo en el Diario Oficial del Gobierno del Estado de Yucatán.
