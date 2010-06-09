@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-40264"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-07-30"
-last_updated: "2010-03-29"
+last_updated: "2010-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2004.
 
@@ -249,7 +249,7 @@ A la Procuraduría le corresponde:
 
 I.- Realizar las acciones propias del Ministerio Público en la investigación y persecución de los delitos del orden común, que en los términos de la ley penal se consideren cometidos en el Estado;
 
-> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 II.- Intervenir en los asuntos del orden criminal, de adolescentes infractores, civil y familiar, en los cuales el Ministerio Público tenga competencia legal para hacerlo;
 
@@ -285,9 +285,9 @@ XVII.- Mantener bajo su autoridad y mando inmediato a la Agencia Estatal de Inve
 
 XVIII.- Requerir, para el cumplimiento de sus atribuciones, informes, documentos y opiniones de instancias oficiales federales, estatales y municipales, así como de personas físicas ó morales;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
 
-XIX.- Establecer medios de información a la comunidad; en forma sistemática y directa, para dar cuenta de las actividades de la Institución;
+XIX.- Establecer medios de Información a la comunidad, en forma sistemática y directa, para dar cuenta de las actividades de la Institución; en los casos de presunción de privación ilegal de la libertad o de secuestro en cualquiera de sus modalidades, se Implementará el manual de procedimiento tendiente a localizar de manera inmediata a la víctima, dando a conocer el hecho a los medios de comunicación, cuidando en todo momento el sigilo de las indagatorias;
 
 > <small>(ADICIONADA, P.O. 29 DE MARZO DE 2010)</small>
 
@@ -359,9 +359,9 @@ XXVIII.- Poner a los inimputables mayores de edad a disposición del órgano jur
 
 XXIX.- Auxiliar al Ministerio Público Federal, al del Distrito Federal y al de los Estados de la República, en los términos que determinen las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
 
-XXX.- Recibir denuncias o querellas sobre desaparición de menores de edad, incapaces y personas mayores de setenta años, debiendo dictar acuerdo de inicio de forma inmediata y sin que medie intervalo alguno de tiempo entre el desconocimiento del paradero de la probable víctima y la noticia del hecho ante la autoridad; estando legitimado para hacerlo cualquier persona que le conste dicha ausencia. En consecuencia, estará obligado a informar con prontitud, a las dependencias que por mandato de ley sean competentes, sobre el extravío reportado, a fin de que coadyuven en la búsqueda y localización de la persona reportada;
+XXX.- Recibir denuncias o querellas sobre desaparición de menores de edad, incapaces y personas mayores de setenta años, debiendo dictar acuerdo de inicio de forma inmediata y sin que medie intervalo alguno de tiempo entre el desconocimiento del paradero de la probable víctima y la noticia del hecho ante la autoridad; estando legitimado para hacerlo cualquier persona que le conste dicha ausencia. En consecuencia, estará obligado a informar con prontitud, a las dependencias que por mandato de ley sean competentes, sobre el extravío reportado y a los medios masivos de comunicación, a fin de que coadyuven en la búsqueda y localización de la persona reportada, implementando el manual de procedimiento tendiente a localizar de manera inmediata a los involucrados en los casos de presunción de privación ilegal de la libertad o secuestro en cualquiera de sus modalidades, cuidando en todo momento el sigilo de las indagatorias;
 
 XXXI.- Realizar las acciones que le correspondan en materia de métodos alternos para la prevención y solución de conflictos conforme a la Ley de la materia y demás disposiciones legalmente aplicables;
 
@@ -641,7 +641,7 @@ V.- Determinar, previa obtención de los informes correspondientes, la cancelaci
 
 VI.- Las que le encomiende el Procurador o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 32.
 
@@ -677,7 +677,7 @@ XI.- Remitir para su debida atención, al Centro de Orientación, Protección y 
 
 XII.- Coordinarse con las autoridades competentes a fin de localizar, en los términos de convenciones internacionales de las que México sea parte, a menores trasladados ilícitamente, dentro y fuera de la República;
 
-> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 XIII.- Supervisar el correcto funcionamiento de las Agencias del Ministerio Público cuando realicen las acciones correspondientes a adolescentes infractores, procurando en todo caso que quienes las realizan sean especialistas en dicha materia;
 
@@ -691,7 +691,7 @@ XVII.- Operar una base de datos para el adecuado control de las investigaciones 
 
 XVIII.- Las que le encomiende el Subprocurador del Ministerio Público o le otorguen esta Ley, su Reglamento, y demás disposiciones legalmente aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### Artículo 33.
 
@@ -747,7 +747,7 @@ VII.- Hacer entrega a las Agencias del Ministerio Público de los bienes recuper
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
-VlII.- Informar al Director General de Averiguaciones Previas de aquellos casos en que transcurridos sesenta días naturales desde la recepción en la Dirección de los bienes recuperados e instrumentos del delito, las Agencias del Ministerio Público, no hubiesen solicitado la devolución de los mismos, para que éste ordene a tales Agencias que realicen la debida notificación a sus posibles propietarios con todas las formalidades legales requeridas, bajo el apercimiento (sic) de que de no reclamados (sic) en un lapso de sesenta días naturales a partir de la notificación, éstos causarán abandono a favor del Ejecutivo del Estado para ser vendidos a través de las instancias y procedimientos correspondientes, y el valor obtenido se destinará al mejoramiento del sistema integral de procuración de justicia, con deducción de los gastos realizados;
+VIII.- Informar al Director General de Averiguaciones Previas de aquellos casos en que transcurridos sesenta días naturales desde la recepción en la Dirección de los bienes recuperados e instrumentos del delito, las Agencias del Ministerio Público, no hubiesen solicitado la devolución de los mismos, para que éste ordene a tales Agencias que realicen la debida notificación a sus posibles propietarios con todas las formalidades legales requeridas, bajo el apercimiento (sic) de que de no reclamados (sic) en un lapso de sesenta días naturales a partir de la notificación, éstos causarán abandono a favor del Ejecutivo del Estado para ser vendidos a través de las instancias y procedimientos correspondientes, y el valor obtenido se destinará al mejoramiento del sistema integral de procuración de justicia, con deducción de los gastos realizados;
 
 IX.- Operar una base de datos para el adecuado control de los bienes recuperados e instrumentos de delito vinculados a las averiguaciones previas;
 
@@ -859,7 +859,7 @@ VIII. Participar en las reuniones entre Procuradurías celebradas en México o e
 
 IX. Las demás que le encomiende el Director General de Control de Procesos y Amparos o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2010)</small>
 
 ###### Artículo 39.
 
@@ -997,15 +997,15 @@ XIII.- Enviar los dictámenes de trabajo social o psicosociales que le sean soli
 
 XIV.- Desarrollar y aplicar las políticas, programas, proyectos y acciones de la Procuraduría, en materia de servicios a la comunidad y participación social;
 
-> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 XV.- Promover la participación de la comunidad en las tareas que lleve a cabo la Procuraduría para mejorar su desempeño, organizando al efecto los programas y cursos correspondientes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O.10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 XVI. Prestar servicios en materia de métodos alternos en los que éstos sean procedentes de conformidad con las disposiciones en materia de adolescentes infractores; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O.10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 XVII.- Las que le encomiende el Subprocurador Jurídico o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
 
@@ -1325,7 +1325,7 @@ VI.- Proponer al Director General de Administración las medidas técnicas y adm
 
 VII.- Las que le encomiende el Director General de Administración o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ###### Articulo 53.
 
@@ -1409,7 +1409,7 @@ XXXII.- Las que le encomiende el Procurador o le otorguen esta Ley, su Reglament
 
 El Centro de Control de Confianza depende directamente de la Visitaduría General y es responsable de realizar los proceses de análisis de información y evaluación de carácter patrimonial, social, psicológico, poligráfico; médico y toxicológico, sobre el ingreso o permanencia en la Procuraduría General de Justicia del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 54.
 
@@ -1445,7 +1445,7 @@ VII.- Poner en conocimiento del Procurador y del Subprocurador del Ministerio P�
 
 VIII.- Vigilar que en los procedimientos de segunda instancia en asuntos del orden penal, civil, familiar y en aquellos en que deba intervenir el Procurador, se desahoguen oportunamente las vistas, se formulen o contesten agravios y en general, se lleven adecuadamente y con las formalidades legales, compareciendo a las audiencias en representación del Procurador;
 
-> <small>(REFORMADA, P.O.10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 IX.- Intervenir por sí o a través de sus Agentes, en los asuntos del orden penal, de justicia para adolescentes, civil o familiar que determine el Procurador; y
 
@@ -1515,7 +1515,7 @@ El Procurador será nombrado y removido en los términos que establezca la Const
 
 Los Subprocuradores serán nombrados por el Gobernador del Estado y deberán reunir los mismos requisitos exigidos para el Procurador General de Justicia, con excepción de lo que respecta a la edad mínima, que no podrá ser menor de treinta años, al día de la designación o nombramiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2010)</small>
 
 ###### Artículo 59.
 
@@ -2071,7 +2071,7 @@ EL C. PROCURADOR GENERAL DE JUSTICIA
 
 LUIS CARLOS TREVIÑO BERCHELMANN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 2 DE NOVIEMBRE DE 2005.
 
@@ -2154,3 +2154,7 @@ Quinto.- Los asuntos que se encuentren en trámite actualmente en los que sea pa
 Sexto.- Las atribuciones, asuntos o funciones conferidas en otros ordenamientos jurídicos a las dependencias o entidades previstas con anterioridad a la presente reforma, se entenderán concedidas a las dependencias que por virtud de este Decreto asumen dichos asuntos, atribuciones o funciones.
 
 En consecuencia, las menciones contenidas en otras leyes, Reglamentos y en general en cualquier otra disposición, respecto de las dependencias o entidades antes mencionadas se entenderán referidas a las dependencias, que de acuerdo con el presente Decreto absorben tales funciones.
+
+P.O. 9 DE JUNIO DE 2010.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
