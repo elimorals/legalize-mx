@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-especial-de-justicia-para-adolescentes-del-5166
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-10"
-last_updated: "2007-12-21"
+last_updated: "2010-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SISTEMA ESPECIAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 10 de septiembre de 2006.
 
@@ -141,11 +141,13 @@ Se entiende por formación integral del adolescente toda actividad dirigida a fo
 
 Se entiende por inserción a la sociedad toda actividad dirigida a garantizar el ejercicio de los derechos del adolescente encontrado responsable de la comisión de un delito, en el seno de su comunidad y de su familia, conforme a las previsiones de esta Ley.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
+
 ###### Artículo 11.
 
 Especialización
 
-Desde el inicio del proceso todas las actuaciones y diligencias estarán a cargo de órganos especializados en materia de justicia para adolescentes. Las referencias que esta Ley haga al Ministerio Público, Defensores de Oficio, Jueces y Salas del Tribunal Superior de Justicia, se entenderán hechas a servidores públicos y órganos especializados en justicia para adolescentes, quienes contarán con equipos técnicos multidisciplinarios que los auxiliarán con opiniones técnicas para la toma de decisiones.
+Desde el inicio del proceso todas las actuaciones y diligencias estarán a cargo de órganos especializados en materia de justicia para adolescentes. Las referencias que esta Ley haga al Ministerio Público, defensores públicos, Jueces y Salas del Tribunal Superior de Justicia, se entenderán hechas a servidores públicos y órganos especializados en justicia para adolescentes, quienes contarán con equipos técnicos multidisciplinarios que los auxiliarán con opiniones técnicas para la toma de decisiones.
 
 ###### Artículo 12.
 
@@ -231,7 +233,9 @@ En las entrevistas que realice el Ministerio Público al adolescente, éste tend
 
 También tendrá derecho a reunirse oportunamente con su defensor en estricta confidencialidad.
 
-En caso de que no elija su propio defensor o de que se limite a designar una persona de confianza, se le nombrará un defensor de oficio.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
+
+En caso de que no elija su propio defensor o de que se limite a designar una persona de confianza, se le nombrará un defensor público.
 
 Tendrá también derecho a conocer el contenido de la investigación, a presentar por sí o por intermedio de su defensor o de sus padres, tutores o representantes, todas las pruebas y los argumentos necesarios para su defensa y a rebatir cuanto sea contrario a ella.
 
@@ -2384,3 +2388,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 21 DE DICIEMBRE DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 9 DE JUNIO DE 2010
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
