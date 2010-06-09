@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2010-05-20"
+last_updated: "2010-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -961,9 +961,11 @@ Cuando se altere el orden, el funcionario que presida la audiencia ordenará que
 
 Si el inculpado altera el orden, o injuria a cualquier persona que se encuentre en la audiencia, se le apercibirá de que si insiste en su actitud, se tendrá por renunciado su derecho de estar presente; si no obstante esto continúa, se le mandará retirar del local, y proseguirá la audiencia con su defensor; además, el Tribunal podrá aplicarle la corrección disciplinaria que estime pertinente.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 95.
 
-Si es el defensor quien altera el orden, se le apercibirá; y si continúa en la misma actitud, se le expulsará del local. Además, podrá imonérsele (sic) una corrección disciplinaria, designándose de inmediato un defensor de oficio al inculpado, sin perjuicio del derecho de éste para designar en el acto, o con posterioridad, a persona de su confianza que lo defienda, o defenderse por sí mismo.
+Si es el defensor quien altera el orden, se le apercibirá; y si continúa en la misma actitud, se le expulsará del local. Además, podrá imponérsele una corrección disciplinaría, designándose de inmediato un defensor público al inculpado, sin perjuicio del derecho de éste para designar en el acto, o con posterioridad, a persona de su confianza que lo defienda, o defenderse por sí mismo.
 
 ###### ARTICULO 96.
 
@@ -1147,9 +1149,11 @@ Presentada la promoción, se citará a una audiencia dentro de setenta y dos hor
 
 Tratándose del Juicio Oral Penal la nulidad se reclamará dentro del día siguiente hábil al en que se tenga conocimiento de la notificación reclamada y hasta antes del debate, expresando los motivos de su reclamación; el Juez resolverá de plano, contra lo cual no se admite recurso alguno.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 124.
 
-A los defensores de oficio, cuando no se les pueda hacer la notificación personalmente, se les hará por cédula que se fijará en lugar visible del Tribunal.
+A los defensores públicos, cuando no se les pueda hacer la notificación personalmente, se les hará por cédula que se fijaré en lugar visible del Tribunal.
 
 ### CAPITULO PRIMERO. REGLAS ESPECIALES PARA LA PRACTICA DE DILIGENCIAS Y LEVANTAMIENTO DE ACTAS DE POLICIA MINISTERIAL
 
@@ -1309,7 +1313,9 @@ Cuando el inculpado fuere detenido o se presentare voluntariamente, el Ministeri
 
 a).- No declarar. O declarar, si ese es su deseo, asistido por defensor;
 
-b).- Tener una defensa adecuada, por abogado, por sí, o por persona de su confianza. Si no quiere o no puede nombrar defensor, después de haber sido requerido para hacerlo, le designará un defensor de oficio;
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
+
+b).- Tener una defensa adecuada, por abogado, por sí, o por persona de su confianza. Si no quiere o no pueda nombrar defensor, después de haber sido requerido para hacerlo, le designará un defensor público;
 
 c).- Que su defensor comparezca en todos los actos de desahogo de pruebas dentro de la averiguación; y éste tendrá obligación de hacerlo cuantas veces se le requiera;
 
@@ -1961,15 +1967,15 @@ El Juez está obligado a hacer saber al inculpado, en este acto:
 
 I.- Los hechos que el Ministerio Público le imputa en el pliego de consignación; el nombre de la persona o personas que le imputan la comisión del delito o delitos, la naturaleza y causa de la acusación para que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo.
 
-> <small>(REFORMADA P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 II.- La garantía de libertad caucional, en los casos en que proceda, y el procedimiento para obtenerla;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
 
-III.- Que tiene derecho a una adecuada defensa, por abogado, por sí o por persona de su confianza. Si no quiere o no puede nombrar un defensor, después de ser requerido para ello, el Juez le nombrará uno de oficio.
+III.- Que tiene derecho a una adecuada defensa, por abogado, por si o por persona de su confianza. Si no quiere o no puede nombrar un defensor, después de ser requerido para ello, el Juez le nombrará uno público.
 
-En caso de que la designación recaiga sobre quien no tenga cédula profesional de licenciado en derecho o autorización de pasante, conforme a la Ley que reglamente el ejercicio de las profesiones, el Tribunal dispondrá que intervenga, además del designado, un defensor de oficio que oriente a aquél, y directamente al propio inculpado, en todo lo que concierne a su adecuada defensa;
+En caso de que la designación recaiga sobre quien no tenga cédula profesional de licenciado en derecho o autorización de pasante, conforme a la Ley que reglamente el ejercicio de las profesiones, el Tribunal dispondrá que intervenga, además del designado, un defensor público que oriente a aquél, y directamente al propio inculpado, en todo lo que concierne a su adecuada defensa;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
 
@@ -3089,9 +3095,13 @@ Recibidas las conclusiones acusatorias del Ministerio Público, y las de la defe
 
 La audiencia se verificará, concurran o no las partes; el Ministerio Público no podrá dejar de asistir a ella.
 
-Si el defensor fuere particular y no asistiere, sin contar con la autorización expresa del procesado, se le impondrá una corrección disciplinaria, nombrándose un defensor de oficio.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
 
-Si fuere defensor de oficio, se comunicará a su superior inmediato y se le sustituirá por otro.
+Si el defensor fuere particular y no asistiere, sin contar con la autorización expresa del procesado, se le impondrá una corrección disciplinaria, nombrándose un defensor público.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
+
+Si fuere defensor público, se comunicará a su superior Inmediato y se le sustituirá por otro.
 
 Lo dispuesto en este artículo se entiende sin perjuicio del derecho que el acusado tiene, si está presente, de nombrar para que lo defienda a cualquiera de las personas que se encuentren en la audiencia y que legalmente no estén impedidos para hacerlo.
 
@@ -3337,7 +3347,9 @@ La omisión de este requisito surte el efecto de duplicar el término legal para
 
 Interpuesto el recurso dentro del plazo por quien tuviere personalidad para hacerlo, el juez, de plano, sin substanciación, lo admitirá si procediere.
 
-Prevendrá al acusado, si fuere el apelante, que señale domicilio para oír y recibir notificaciones, y designe o confirme defensor para que lo defienda en segunda instancia; si no lo hiciere, se procederá conforme a este código y se tendrá como defensor al de oficio.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
+
+Prevendrá al acusado, si fuere el apelante, que señale domicilio para oír y recibir notificaciones, y designe o confirme defensor para que lo defienda en segunda Instancia; si no lo hiciere, se procederá conforme a este código y se tendrá como tal al defensor público.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -3427,7 +3439,9 @@ En los juicios del orden penal se considerarán violadas las leyes del procedimi
 
 I.- Que no se cumpla con lo dispuesto en la fracción III del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos;
 
-II.- Cuando no se le haya permitido nombrar defensor o persona de su confianza en la forma que determine la Ley; cuando no se le facilite en su caso la lista de los defensores de oficio, o no se le haga saber el nombre del adscrito al Juzgado o Tribunal que conozca de la causa, si no tuviere quien lo defienda; cuando no se le facilite la manera de hacer su nombramiento al defensor designado; cuando se le impida comunicarse con él, o que dicho defensor lo asista en alguna diligencia del proceso, o cuando habiéndose negado a nombrar defensor sin manifestar expresamente que se defendería por si mismo, no se le nombre el de oficio,
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
+
+II.- Cuando no se le haya permitido nombrar defensor o persona de su confianza en la forma que determine la Ley; cuando no se le facilite en su caso la lista de los defensores públicos, o no se le haga saber el nombre del adscrito al Juzgado o Tribunal que conozca de la causa, si no tuviere quien lo defienda; cuando no se le facilite la manera de hacer su nombramiento al defensor designado; cuando se le impida comunicarse con él, o que dicho defensor lo asista en alguna diligencia del proceso, o cuando habiéndose negado a nombrar defensor sin manifestar expresamente que se defendería por sí mismo, no se le nombre el defensor público;
 
 III.- Por haberse omitido la designación del traductor al inculpado que no hable o entienda suficientemente el idioma castellano, en los términos que señala la Ley;
 
@@ -3473,7 +3487,9 @@ Siempre que la Sala encuentre retardo indebido en el despacho de una causa, o vi
 
 Cuando la sala notare que el defensor ha faltado a sus deberes, no interponiendo los recursos que procedieren, abandonando los interpuestos que por las constancia (sic) de la causa apareciere que debían prosperar; no alegare circunstancias probadas en el proceso y que habrían favorecido notablemente al acusado, o aleguen hechos falsos o puntos de derecho notoriamente inaplicables, se procederá como previene el artículo anterior.
 
-Si el defensor fuere de oficio, el Magistrado además estará obligado a llamar la atención al superior de aquél, sobre la negligencia o ineptitud manifestada.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
+
+Si el defensor fuere público, el Magistrado además estará obligado a llamar la atención al superior de aquél, sobre la negligencia o ineptitud manifestada.
 
 ### CAPITULO QUINTO. QUEJA
 
@@ -3623,9 +3639,11 @@ Los magistrados, jueces y secretarios de lo penal, estarán impedidos de conocer
 
 La contravención a esta disposición, se castigará como lo previene el código penal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 429.
 
-Los defensores de oficio podrán excusarse:
+Los defensores públicos podrán excusarse:
 
 I.- Cuando intervenga un defensor particular; y
 
@@ -3647,9 +3665,11 @@ Cuando hubiere oposición, se suspenderá todo procedimiento, y se remitirá la 
 
 Para esto, sólo se oirá al que se excuse, y se resolverá el incidente dentro de las setenta y dos horas siguientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 433.
 
-Las excusas de los defensores de oficio y de los Secretarios o testigos de asistencia, serán siempre calificadas por el Juez o tribunal que conozca de la causa, oyendo, el informe verbal del interesado, para dictar su resolución dentro de setenta y dos horas.
+Las excusas de los defensores públicos y de los Secretarios o testigos de asistencia, serán siempre calificadas por el Juez o tribunal que conozca de la causa, oyendo, el informe verbal del interesado, para dictar su resolución dentro de setenta y dos horas.
 
 En estos casos, el juez o tribunal podrá exigir la justificación de la excusa, que se rendirá en la misma audiencia.
 
@@ -4725,9 +4745,9 @@ En caso de que el testigo o perito manifestare la imposibilidad de concurrir a l
 
 La solicitud de desahogo de prueba anticipada podrá plantearse desde la presentación de la denuncia o querella hasta antes de la celebración de la Audiencia de Juicio Oral, y no podrá tomarse en cuenta para efectos de la resolución de la situación jurídica, si la prueba solicitada por el Ministerio Público ha sido obtenida dentro del término constitucional ampliado y resulte en perjuicio del inculpado.
 
-> <small>(F. DE E., P.O. 1 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
 
-En los casos previstos en (sic) presente artículo, el Juez deberá citar a todos aquellos que tuvieren derecho a asistir a la Audiencia de Juicio Oral, quienes tendrán todas las facultades previstas para su participación en la misma; la prueba anticipada deberá desahogarse en los términos de lo dispuesto por los artículos 580, 586 y demás relativos aplicables al Juicio Oral. Cuando exista urgencia, las partes podrán requerir verbalmente la intervención del Juez y él practicar el acto prescindiendo de las citaciones previstas, designando, en su caso, un Defensor de Oficio para que participe, si lo estima necesario. Se dejará constancia de las circunstancias que acrediten la urgencia.
+En los casos previstos en (sic) presente artículo, el Juez deberá citar a todos aquellos que tuvieren derecho a asistir a la Audiencia de Juicio Oral, quienes tendrán todas las facultades previstas para su participación en la misma; la prueba anticipada deberá desahogarse en los términos de lo dispuesto por los artículos 580, 586 y demás relativos aplicables al Juicio Oral. Cuando exista urgencia, las partes podrán requerir verbalmente la intervención del Juez y él practicar el acto prescindiendo de las citaciones previstas, designando, en su caso, un defensor público para que participe, si lo estima necesario. Se dejará constancia de las circunstancias que acrediten la urgencia.
 
 > <small>(F. DE E., P.O. 1 DE MARZO DE 2006)</small>
 
@@ -4795,13 +4815,17 @@ La audiencia se realizará, salvo en los recesos acordados, con la presencia ini
 
 La presencia del Ministerio Público y del defensor del inculpado durante la audiencia constituye un requisito de validez de la misma. La falta de comparecencia del Ministerio Público deberá ser subsanada de inmediato por el Juez, poniendo en conocimiento de este hecho al Procurador General de Justicia del Estado.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 567.
 
-Si el defensor fuere particular y no asistiere a la audiencia oral o la abandonare sin causa justificada no obstante de haber sido notificado, se le nombrará defensor de oficio, aplicándose a aquél corrección disciplinaria cuando no contó con la autorización expresa del inculpado, si fuere defensor de oficio se comunicará a su superior inmediato y se le substituirá por otro.
+Si el defensor fuere particular y no asistiere a la audiencia oral o la abandonare sin causa Justificada no obstante de haber sido notificado, se le nombrará defensor público, aplicándose a aquel corrección disciplinaria cuando no contó con la autorización expresa del inculpado, si fuere defensor público se comunicará a su superior inmediato y se le substituirá por otro.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
 Lo dispuesto en este artículo se entiende sin perjuicio del derecho que el acusado tiene de nombrar para que lo defienda a cualquiera de las personas que se encuentren en la audiencia y legalmente no esté impedida para hacerlo.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
 No constituirá causa justificada la circunstancia de tener el defensor otras actividades profesionales que realizar en la misma oportunidad en que se hubiere producido su inasistencia o abandono.
 
@@ -5658,3 +5682,7 @@ P.O. 21 DE ABRIL DE 2010.
 P.O. 20 DE MAYO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JUNIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
