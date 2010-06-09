@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2009-09-25"
+last_updated: "2010-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -99,7 +99,7 @@ III.- Cuando alguno tenga acción o excepción que dependa del ejercicio de la a
 
 El ejercicio de la acción motiva la iniciación del procedimiento aún cuando en la demanda no se mencione el nombre de aquélla siempre que se determine con claridad la prestación que se exige del demandado y el título o la causa en que se funde.
 
-La defensa procede también aún cuando la excepción opuesta no sea señalada por su nombre.
+La defensa procede también aun cuando la excepción opuesta no sea señalada por su nombre.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -689,7 +689,7 @@ El Juez, al acordar lo relativo a la autorización a que se refiere este artícu
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
-Así mismo, las partes podrán solicitar la autorización por sí o persona autorizada en los términos que establecen los párrafos anteriores, el acceso a la página electrónica que para tal efecto tiene el Poder Judicial del Estado, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos, con la cual ingresará al Tribunal Virtual, lo que les permitirá consultar en forma completa el expediente electrónico. También podrá solicitarse la autorización para presentar promociones en vía electrónica a través de la página de Internet del Tribunal Virtual. Igualmente, si así lo desean, podrán las partes autorizar que se les realicen notificaciones en vía electrónica, que implicará, en este último caso, la aceptación expresa del solicitante en el sentido de que todas las notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se le otorgue este tipo de autorización, se tendrán por legalmente practicadas y surtirán sus efectos en los términos de lo previsto por el articulo 76 de este Código. La consulta de expedientes electrónicos, el envío de promociones y notificación por este medio, se ajustarán a los lineamientos de operación para el uso del Tribunal Virtual que se establecen en el Segundo Título Especial del Libro Séptimo de este Código.
+Así mismo, las partes podrán solicitar la autorización por sí o persona autorizada en los términos que establecen los párrafos anteriores, el acceso a la página electrónica que para tal efecto tiene el Poder Judicial del Estado, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos, con la cual ingresará al Tribunal Virtual, lo que les permitirá consultar en forma completa el expediente electrónico. También podrá solicitarse la autorización para presentar promociones en vía electrónica a través de la página de Internet del Tribunal Virtual. Igualmente, si así lo desean, podrán las partes autorizar que se les realicen notificaciones en vía electrónica, que implicará, en este último caso, la aceptación expresa del solicitante en el sentido de que todas las notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se le otorgue este tipo de autorización, se tendrán por legalmente practicadas y surtirán sus efectos en los términos de lo previsto por el artículo 76 de este Código. La consulta de expedientes electrónicos, el envío de promociones y notificación por este medio, se ajustarán a los lineamientos de operación para el uso del Tribunal Virtual que se establecen en el Segundo Título Especial del Libro Séptimo de este Código.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -781,7 +781,7 @@ El Superior Tribunal de Justicia al confirmar, revocar o reformar las resolucion
 
 ###### Artículo 94.
 
-La condenación en costas no comprenderá los honorarios y gastos ocasionados por gestiones, pruebas y actuaciones que hayan resultado inútiles, supérfluas o improcedentes.
+La condenación en costas no comprenderá los honorarios y gastos ocasionados por gestiones, pruebas y actuaciones que hayan resultado inútiles, superfluas o improcedentes.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -1701,7 +1701,7 @@ Artículo 190 Bis VII.- El costo de la prueba biológica será a cargo del padre
 
 > <small>(ADICIONADO, P.O. 21 DE ENERO DE 2009)</small>
 
-Articulo 190 Bis VlII.- Contra el auto que admita la prueba de Investigación de Filiación, no procede recurso alguno. Contra el que la desecha procede el recurso de apelación.
+Artículo 190 Bis VIII.- Contra el auto que admita la prueba de Investigación de Filiación, no procede recurso alguno. Contra el que la desecha procede el recurso de apelación.
 
 ### CAPITULO IV
 
@@ -1853,7 +1853,7 @@ No procede la suspensión de la obra que alguno hiciere reparando o limpiando lo
 
 ###### Artículo 217.
 
-La solicitud de suspensión de obra nueva se presentará ante el juez que deba conocer el juicio principal y se acompañarán a ella los documentos que deban servir para fundar la acción o se ofrecerá a falta de ellos, (mentos que deban servir para fundar la acción o se ofrecerá a falta de ellos) (sic) información testimonial.
+La solicitud de suspensión de obra nueva se presentará ante el juez que deba conocer el juicio principal y se acompañarán a ella los documentos que deban servir para fundar la acción o se ofrecerá a falta de ellos, mentos (sic) que deban servir para fundar la acción o se ofrecerá a falta de ellos información testimonial.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -2659,7 +2659,7 @@ El Juez examinará el interrogatorio conforme el artículo siguiente y señalar�
 
 ###### Artículo 329.
 
-Los interrogatorios de preguntas y repreguntas deben ser concebidos en términos claros y precisos, sin comprender en una sola hechos o circunstancias diversos y sin sugerir por sí mismos la respuesta.
+Los interrogatorios de preguntas y repreguntas deben ser concebidos en términos claros y precisos, sin comprender en una sola hechos (sic) o circunstancias diversos y sin sugerir por sí mismos la respuesta.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2005)</small>
 
@@ -2723,7 +2723,7 @@ El juez al examinar a los testigos puede hacerles las preguntas que estime conve
 
 ###### Artículo 342.
 
-Si el testigo no sabe el idioma rendirá su declaración por medio de interprete que será nombrado por el juez. Si el testigo lo pidiere, además de asentarse su declaración en castellano, podrá escribirse en su propio idioma, por él o por el intérprete.
+Si el testigo no sabe el idioma rendirá su declaración por medio de intérprete que será nombrado por el juez. Si el testigo lo pidiere, además de asentarse su declaración en castellano, podrá escribirse en su propio idioma, por él o por el intérprete.
 
 ###### Artículo 343.
 
@@ -3347,19 +3347,19 @@ No obstante lo dispuesto anteriormente, en los procedimientos relacionados con d
 
 ###### Artículo 442.
 
-(DEROGADO, P.0. 21 DE JULIO DE 1997)
+(DEROGADO, P.O. 21 DE JULIO DE 1997)
 
 ###### Artículo 443.
 
-(DEROGADO, P.0. 21 DE JULIO DE 1997)
+(DEROGADO, P.O. 21 DE JULIO DE 1997)
 
 ###### Artículo 444.
 
-(DEROGADO, P.0. 21 DE JULIO DE 1997)
+(DEROGADO, P.O. 21 DE JULIO DE 1997)
 
 ###### Artículo 445.
 
-(DEROGADO, P.0. 21 DE JULIO DE 1997)
+(DEROGADO, P.O. 21 DE JULIO DE 1997)
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -3375,11 +3375,11 @@ En los procedimientos relacionados con derechos de menores, o incapaces y demás
 
 ###### Artículo 447.
 
-(DEROGADO, P.0. 21 DE JULIO DE 1997)
+(DEROGADO, P.O. 21 DE JULIO DE 1997)
 
 ###### Artículo 448.
 
-(DEROGADO, P.0. 21 DE JULIO DE 1997)
+(DEROGADO, P.O. 21 DE JULIO DE 1997)
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
 
@@ -4033,7 +4033,7 @@ Concluida la media hora, el Juez declarará que va a procederse al remate y ya n
 
 ###### Artículo 541.
 
-Calificadas de buenas las posturas, el juez las leerá en alta voz por sí mismo o mandará darles lectura por la secretaría, para que los postores presentes puedan mejorarlas. Si hay varias posturas legales, el juez decidirá cual sea la preferente.
+Calificadas de buenas las posturas, el juez las leerá en alta voz por sí mismo o mandará darles lectura por la secretaría, para que los postores presentes puedan mejorarlas. Si hay varias posturas legales, el juez decidirá cuál sea la preferente.
 
 Hecha la declaración de la postura considerada preferente, el juez preguntará si alguno de los licitadores la mejora. En caso de que alguno la mejore dentro de los cinco minutos que signa (sic) a la pregunta, interrogará de nuevo si algún postor puja la mejora; y así sucesivamente con respecto a las pujas que se hagan. En cualquier momento en que pasados cinco minutos de hecha la pregunta correspondientes (sic), no se mejorare la última postura o puja; declarará el tribunal fincado el remate en favor del postor que hubiere hecho aquella.
 
@@ -4647,7 +4647,7 @@ III.- Obligar al demandado a contestar ante el juez que lo emplazó, salvo siemp
 
 IV.- Producir todas las consecuencias de la interpelación judicial, si por otros medios no se hubiere constituído ya en mora el obligado;
 
-V.- Originar el interés legal en las obligaciones pecunarias sin causa de réditos.
+V.- Originar el interés legal en las obligaciones pecuniarias sin causa de réditos.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -4677,7 +4677,7 @@ Cuando el reo contestare la demanda se tendrá por admitidos todos los hechos so
 
 ###### Artículo 634.
 
-(DEROGADO, P.0. 21 DE JULIO DE 1997)
+(DEROGADO, P.O. 21 DE JULIO DE 1997)
 
 ###### Artículo 635.
 
@@ -4775,7 +4775,7 @@ VII.- El juicio uniforme de contadores, si las partes ante juez o por documento 
 
 ###### Artículo 647.
 
-(DEROGADO, P.0. 21 DE JULIO DE 1997)
+(DEROGADO, P.O. 21 DE JULIO DE 1997)
 
 ###### Artículo 648.
 
@@ -4849,7 +4849,7 @@ Para que procedan en la vía ejecutiva las acciones a que se refieren los artíc
 
 ###### Artículo 660.
 
-(DEROGADO, P.0. 21 DE JULIO DE 1997)
+(DEROGADO, P.O. 21 DE JULIO DE 1997)
 
 #### SECCION SEGUNDA
 
@@ -4927,7 +4927,7 @@ La reconvención es inadmisible en el juicio ejecutivo.
 
 ###### Artículo 675.
 
-(DEROGADO, P.0. 21 DE JULIO DE 1997)
+(DEROGADO, P.O. 21 DE JULIO DE 1997)
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -5675,7 +5675,7 @@ Cuando con fundamento en la declaración de ausencia o presunción de muerte de 
 
 ###### Artículo 794.
 
-En los juicios sucesorios en que haya herederos o legatarios menores que no tuvieren representante legítimo, dispondrá el tribunal que designen un autor, si han cumplido dieciséis años. Si los menores no han cumplido dieciséis años, o los incapacitados no tienen tutor, será éste nombrado por el juez.
+En los juicios sucesorios en que haya herederos o legatarios menores que no tuvieren representante legítimo, dispondrá el tribunal que designen (sic) un autor, si han cumplido dieciséis años. Si los menores no han cumplido dieciséis años, o los incapacitados no tienen tutor, será éste nombrado por el juez.
 
 ###### Artículo 795.
 
@@ -5953,7 +5953,7 @@ Los gastos de inventario y avalúo, son a cargo de la herencia, salvo que el tes
 
 ###### Artículo 840.
 
-(DEROGADO, P.0. 21 DE JULIO DE 1997)
+(DEROGADO, P.O. 21 DE JULIO DE 1997)
 
 ### CAPITULO VI
 
@@ -6229,7 +6229,7 @@ V.- Igualmente deberán presentarse el inventario y avalúo de los bienes y los 
 
 VI.- Recibida la denuncia del intestado se radicará el juicio y se declararán provisionalmente herederos a los comparecientes que hayan comprobado su parentesco con el autor de la sucesión, de acuerdo al Código Civil, teniéndose como albacea al designado. Al mismo tiempo se dispondrá la publicación de un Edicto por una sola vez, en un periódico de los de mayor circulación en el Estado, convocando a los que se crean con derecho a la herencia para que lo deduzcan en un plazo de diez días, contados desde el siguiente al de la publicación;
 
-> <small>(F. DE E., P.O.19 DE DICIEMBRE DE 1983)</small>
+> <small>(F. DE E., P.O. 19 DE DICIEMBRE DE 1983)</small>
 
 VII.- Transcurrido dicho plazo, se presenten o no otros interesados, el Juez pronunciará la resolución definitiva, en la que declare como herederos a quienes hayan justificado su derecho a la herencia conforme a las disposiciones establecidas en el Código Civil;
 
@@ -6501,7 +6501,7 @@ En los negocios de menores e incapacitados, intervendrán el juez de primera ins
 
 ###### Artículo 913.
 
-Los actos de jurisdicción voluntaria a que haga mención este Código se sujetarán a lo dispuesto en este capítulo y en lo conducente al procedimiento oral.
+Los actos de jurisdicción voluntaria a que haga mención este Código se sujetarán (sic) a lo dispuesto en este capítulo y en lo conducente al procedimiento oral.
 
 ### CAPITULO III
 
@@ -6905,11 +6905,11 @@ Los Jueces de lo Familiar conocerán con los procedimientos, reglas y términos 
 
 En los asuntos de su competencia los jueces de lo familiar siempre podrán exhortar a los interesados a la conciliación y a resolver sus diferencias mediante convenio. El juez de lo familiar está facultado para decretar, en cualquier momento del trámite de un asunto del orden familiar, las medidas cautelares que sean necesarias para preservar la familia y proteger a sus miembros, particularmente tratándose de menores u otros incapaces.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
 
 ###### Artículo 955.
 
-En los negocios de que conozcan los jueces de lo familiar, será optativo para las partes acudir asesoradas. El asesoramiento deberá recaer siempre en abogados con título profesional registrado ante el Tribunal Superior de Justicia. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá acudir, desde luego, a enterarse del asunto, disfrutando para ello de un término que no podrá exceder de tres días, en cuyo caso se prorrogará el término que se hubiese concedido para el ejercicio de algún derecho.
+En los negocios de que conozcan los jueces de lo familiar, será optativo para las partes acudir asesoradas. El asesoramiento deberá recaer siempre en abogados con título profesional registrado ante el Tribunal Superior de Justicia. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor público, el que deberá acudir, desde luego, a enterarse del asunto, disfrutando para ello de un término que no podrá exceder de tres días, en cuyo caso se prorrogará el término que se hubiese concedido para el ejercicio de algún derecho.
 
 > <small>(ADICIONADO, P.O. 3 DE ENERO DEL 2000)</small>
 
@@ -8847,7 +8847,7 @@ En el ingreso inicial del usuario le será presentado un convenio electrónico d
 
 ###### Artículo 55.
 
-Las contraseñas mediante las cuales los usuarios podrán acceder a lo servicios del Tribunal Virtual serán diseñadas por ellos mismos, bajo las instrucciones de los administradores, a través de un código alfanumérico. La responsabilidad del uso de las contraseñas que sean dadas de alta en el sistema serán exclusivamente del usuario por ser su creador y conocedor de las mismas.
+Las contraseñas mediante las cuales los usuarios podrán acceder a los servicios del Tribunal Virtual serán diseñadas por ellos mismos, bajo las instrucciones de los administradores, a través de un código alfanumérico. La responsabilidad del uso de las contraseñas que sean dadas de alta en el sistema serán (sic) exclusivamente del usuario por ser su creador y conocedor de las mismas.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
 
@@ -8887,7 +8887,7 @@ De la consulta de expedientes electrónicos
 
 ###### Artículo 61.
 
-La consulta de los expedientes electrónicos en forma completa será realizada por los usuarios que autorice cada tribunal en los términos que señala el Código de Procedimientos Civiles del Estado, por lo que cada titular de los diferentes tribunales del Poder Judicial del Estado asignará, según su criterio, uno o varios servidores públicos responsables para autorizar y revocar los usuarios según sea el caso. Para consultar la información de cada expediente se requiere una autorización individual, por lo que no se permitirá un autorización general para diversos asuntos, lo anterior a fin de que quede constancia escrita de la misma en cada uno de los expedientes físicos, sin mas limitante que lo señalado por la vigente.
+La consulta de los expedientes electrónicos en forma completa será realizada por los usuarios que autorice cada tribunal en los términos que señala el Código de Procedimientos Civiles del Estado, por lo que cada titular de los diferentes tribunales del Poder Judicial del Estado asignará, según su criterio, uno o varios servidores públicos responsables para autorizar y revocar los usuarios según sea el caso. Para consultar la información de cada expediente se requiere una autorización individual, por lo que no se permitirá un autorización general para diversos asuntos, lo anterior a fin de que quede constancia escrita de la misma en cada uno de los expedientes físicos, sin más limitante que lo señalado por la vigente.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
 
@@ -9125,17 +9125,17 @@ P.O. 24 DE AGOSTO DE 1977.
 
 PRIMERO.- Las presentes reformas entrarán en vigor el día primero de diciembre del presente año.
 
-SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º., 2º., 3º. y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
+SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1o., 2o., 3o. y 5o. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
 
 a).- Cada juzgado formulará el inventario de los citados asuntos.
 
-b).- Una vez obtenido el número total de dichos asuntos en los cuatro juzgados indicados, los negocios se turnarán a los juzgados 4º., 6º. y 7º., Guardando en ello la mayor parte y mejor proporción en número a fin de evitar notables diferenciales que entorpecieran el rápido desenvolvimiento de los negocios que a cada uno corresponda.
+b).- Una vez obtenido el número total de dichos asuntos en los cuatro juzgados indicados, los negocios se turnarán a los juzgados 4o., 6o., y 7o., Guardando en ello la mayor parte y mejor proporción en número a fin de evitar notables diferenciales que entorpecieran el rápido desenvolvimiento de los negocios que a cada uno corresponda.
 
 c).- El inventario y distribución a que se alude en los incisos anteriores, que serán vigilados y controlados por el Presidente del Tribunal Superior de Justicia con el auxilio del resto de los Magistrados deberán quedar concluidos ambos en un plazo que no exceda de 15 días hábiles, a contar de la fecha en que entran en vigor las presentes reformas.
 
-TERCERO.- Los negocios que no sean del orden familiar, actualmente en trámite en el juzgado 4º. del ramo civil se inventariarán en la forma y en el término a que se refiere el artículo anterior, aplicable en lo conducente para que dichos negocios se turnen en igual proporción a los juzgados 1º., 2º. 3. y 5º.
+TERCERO.- Los negocios que no sean del orden familiar, actualmente en trámite en el juzgado 4º. del ramo civil se inventariarán en la forma y en el término a que se refiere el artículo anterior, aplicable en lo conducente para que dichos negocios se turnen en igual proporción a los juzgados 1o., 2o., 3o., y 5o.
 
-CUARTO.- Los términos que estén concedidos y transcurriendo en los asuntos citados en los artículos 2º. Y 3º. Transitorios, quedarán interrumpidos desde que se inicien los quince días del inventario y distribución, reanudándose al siguiente día hábil de aquel en que cause estado el auto de recepción del negocio que dicte el nuevo juez del conocimiento.
+CUARTO.- Los términos que estén concedidos y transcurriendo en los asuntos citados en los artículos 2o. y 3o. Transitorios, quedarán interrumpidos desde que se inicien los quince días del inventario y distribución, reanudándose al siguiente día hábil de aquel en que cause estado el auto de recepción del negocio que dicte el nuevo juez del conocimiento.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
 
@@ -9145,7 +9145,7 @@ P.O. 31 DE DICIEMBRE DE 1979.
 
 P.O. 2 DE MARZO DE 1981.
 
-DECRETO 110, QUE REFORMA Y ADICIONAN LOS ARTICULOS 101, 109 ...
+DECRETO 110, QUE REFORMA Y ADICIONAN LOS ARTICULOS 101, 109...
 
 ###### ARTICULO PRIMERO.
 
@@ -9159,7 +9159,7 @@ P.O. 2 DE MARZO DE 1981.
 
 DECRETO 111, QUE REFORMA EL ARTÍCULO 880.
 
-Único:- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+Único.- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 1º. DE ENERO DE 1982.
 
@@ -9217,11 +9217,11 @@ P.O. 24 DE DICIEMBRE DE 1984.
 
 P.O. 26 DE DICIEMBRE DE 1984.
 
-DECRETO NUM. 237, QUE REFORMA LOS ARTICULOS 166, 167, 168, 169....
+DECRETO NUM. 237, QUE REFORMA LOS ARTICULOS 166, 167, 168, 169...
 
-###### ARTICULO UNICO
+###### ARTICULO UNICO.
 
-- Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 26 DE DICIEMBRE DE 1984.
 
@@ -9369,7 +9369,7 @@ Artículo Segundo.- Las autoridades responsables de los Tribunales del Poder Jud
 
 P.O. 14 DE ENERO DE 2005.
 
-Artículo Primero.- El presente Decreto entrará en vigor el día 31 de Enero de 2005, con excepción de lo relativo a todas las disposiciones legales que regulen el funcionamiento, composición y aplicación del Tribunal Virtual, que entrarán en vigor al expedirse el Reglamento correspondiente.
+Artículo Primero.- El presente Decreto entrará en vigor el día 31 de enero de 2005, con excepción de lo relativo a todas las disposiciones legales que regulen el funcionamiento, composición y aplicación del Tribunal Virtual, que entrarán en vigor al expedirse el Reglamento correspondiente.
 
 Artículo Segundo.- Las disposiciones del presente Decreto no serán aplicables a los procesos jurisdiccionales en trámite con anterioridad a la vigencia del mismo.
 
@@ -9387,7 +9387,7 @@ Artículo Segundo.- Los procesos que se encuentren vigentes a la entrada en vigo
 
 Artículo Tercero.- Los hechos ocurridos con anterioridad a la entrada en vigor del presente decreto se regirán con la ley vigente al momento de ocurrir los mismos.
 
-P.O.10 DE SEPTIEMBRE DE 2006.
+P.O. 10 DE SEPTIEMBRE DE 2006.
 
 Artículo Primero.- El presente Decreto entrará en vigor una vez que inicie la vigencia de la reforma a la Ley Orgánica del Poder Judicial del Estado que establece la creación de los Juzgados del Juicio Oral Civil y Familiar.
 
@@ -9467,10 +9467,14 @@ P.O. 21 DE ENERO DE 2009.
 
 P.O. 20 DE FEBRERO DE 2009.
 
-Primero.- El presente Decreto entrará en vigor el día1 de julio de 2009.
+Primero.- El presente Decreto entrará en vigor el día 1 de julio de 2009.
 
 Segundo.- Las disposiciones del presente Decreto no serán aplicables a los procedimientos jurisdiccionales iniciados con anterioridad a la vigencia del mismo.
 
 P.O. 25 DE SEPTIEMBRE DE 2009.
 
-Articulo Único.- El Presente Decreto entrará en vigor el 30 de septiembre de 2009.
+Artículo Único.- El Presente Decreto entrará en vigor el 30 de septiembre de 2009.
+
+P.O. 9 DE JUNIO DE 2010.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
