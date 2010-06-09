@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2009-06-17"
+last_updated: "2010-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -982,6 +982,20 @@ Para el ejercicio de las actividades técnicas y auxiliares que requieran conoci
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 Los profesionales técnicos y auxiliares que ejerzan las actividades mencionadas en los párrafos anteriores deberán brindar sus servicios en forma oportuna, con calidad garantizada, profesional y éticamente responsable, así como brindar a las personas un trato humanista, respetuoso y digno.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2010)</small>
+
+###### Artículo 90 Bis.
+
+Las personas que de manera voluntaria, comisionadas o que estén percibiendo algún salario, presten servicios de atención médica pre hospitalaria, en los sectores público, privado o social, deberán acreditar que cuentan con los conocimientos específicos para la prestación del servicio, mediante los diplomas a que se refiere el artículo anterior.
+
+Para los efectos de este artículo, se entiende como atención médica pre hospitalaria, al servicio operacional y de coordinación para la atención de los problemas médicos urgentes y que comprende todos los sistemas de atención médica y transporte, que se presta a enfermos o accidentados fuera del hospital y que constituye una instancia previa al tratamiento de urgencias hospitalarias.
+
+La Secretaría de Salud deberá llevar el registro del personal capacitado para prestar el servicio de atención médica prehospitalaria, y será la única dependencia facultada para expedir la acreditación correspondiente a quienes reúnan los requisitos que se establezcan en el Reglamento respectivo.
+
+Queda prohibida la prestación de estos servicios a quienes no cuenten con la acreditación correspondiente; la violación a esta disposición, dará lugar a las responsabilidades civiles o penales a que den lugar.
+
+El Reglamento establecerá las bases de operación del Sistema Estatal de Atención Médica Pre hospitalaria.
 
 ###### Artículo 91.
 
@@ -3422,3 +3436,13 @@ Túrnese el presente decreto al titular del Poder Ejecutivo, a efecto de que sea
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación .en el Periódico Oficial Tierra y Libertad.
+
+P.O. 9 DE JUNIO DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+Artículo Tercero.- La Secretaría de Salud, contará con 90 días después de la entrada en vigor de este Decreto, para expedir la reglamentación relativa a la Atención Médica Pre hospitalaria.
+
+Artículo Cuarto.- Las personas que den atención pre hospitalaria y que son objeto de la regulación que se establece en el artículo 90 bis de la Ley en comento, tendrán un año para regularizar su situación profesional, a partir de la entrada en vigor del presente Decreto, salvo que por el estudio específico se requiera un tiempo mayor, en cuyo caso deberá estar avalado por la Secretaría de Salud.
