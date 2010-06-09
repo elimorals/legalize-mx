@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-instituto-de-vivienda-del-estado-de-morelos-6645"
 country: "mx"
 rank: "ley"
 publication_date: "1988-09-14"
-last_updated: "1994-12-14"
+last_updated: "2010-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de septiembre de 1988.
 
@@ -87,41 +87,47 @@ LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE MORELOS
 
 Se crea el Instituto de Vivienda del Estado de Morelos, como organismo público descentralizado del Gobierno del Estado, con personalidad jurídica, patrimonio propio y con domicilio en la Ciudad de Cuernavaca.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 2o.
 
-El Instituto tendrá como objeto planear, fomentar, proponer, promover, impulsar, coordinar y ejecutar en su caso, todas las acciones inherentes al desarrollo de la vivienda de interés social en todas sus modalidades, vivienda popular, vivienda rural, con la participación de la comunidad, gestionar el otorgamiento de créditos ante las diversas fuentes de financiamiento para el logro de sus fines y realizar las actividades tendientes a que los habitantes del Estado disfruten de vivienda digna y decorosa.
+El Instituto tendrá como objeto planear, fomentar, proponer, promover, impulsar, coordinar y ejecutar en su caso, todas las acciones inherentes al desarrollo de la vivienda económica, de interés social y de interés popular en todas sus modalidades, con la participación de la comunidad, gestionar el otorgamiento de créditos ante las diversas fuentes de financiamiento para el logro de sus fines y realizar las actividades tendientes a que los habitantes del Estado disfruten de vivienda digna y decorosa.
 
-Dar a conocer las tasas de interés vigentes y pactar aquéllas que sean blandas y acordes con la capacidad de pago del solicitante.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
-
-ARTICULO 2o BIS.- El Instituto de Vivienda se integrará a la Comisión Reguladora de Fraccionamientos, Condominios y Conjuntos Habitacionales del Estado y participará con voz y voto, en las sesiones relacionadas con los proyectos de vivienda social, rural y popular.
+ARTICULO 2o BIS.- El Instituto de Vivienda se integrará a la Comisión Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos del Estado y participará con voz y voto, en las sesiones relacionadas con los proyectos de vivienda económica, de interés social, y de interés popular en todas sus modalidades.
 
 ###### ARTICULO 3o.
 
 El Instituto tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
 
-I.- Planear, promover, proponer, construir y desarrollar con la participación de la comunidad, fraccionamientos urbanos y suburbanos de urbanización progresiva de interés social y popular, en las áreas y predios que expresamente determine la autoridad responsable del desarrollo urbano.
+I.- Planear, promover, proponer, construir y desarrollar con la participación de la Comunidad, fraccionamientos urbanos y suburbanos de urbanización progresiva de vivienda económica, de interés social y popular, en las áreas y predios que expresamente determine la autoridad responsable del desarrollo urbano, así como en predios propiedad de los beneficiarios.
 
-II.- Realizar, promover y coordinar programas de autoconstrucción y programas de mejoramiento de la vivienda.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
+
+II.- Realizar, promover y coordinar programas de autoconstrucción y programas de adquisición, ampliación y mejoramiento de la vivienda.
 
 III.- Establecer o adquirir y administrar parques y fábricas de materiales para la construcción y comercializar dichos productos.
 
-IV.- Solicitar, promover y conceder créditos, para la construcción de viviendas de interés social en todas sus modalidades.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
+
+IV.- Solicitar, promover y conceder créditos, para la construcción, adquisición, ampliación y mejoramiento de vivienda económica, de interés social y de interés popular en todas sus modalidades.
 
 V.- Obtener y otorgar créditos para financiar la adquisición de inmuebles a terceros por parte de sus arrendatarios.
 
 VI.- Participar en los programas de regularización de la tenencia de la tierra y la reubicación de asentamientos humanos irregulares en coordinación con las autoridades correspondientes.
 
-VII.- Planear, promover y ejecutar programas de mejoramiento de vivienda rural y dotación de servicios mínimos, en coordinación con las autoridades correspondientes.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
+
+VII.- Planear, promover y ejecutar programas de mejoramiento de vivienda y dotación de servicios mínimos, en coordinación con las autoridades correspondientes.
 
 VIII.- Planear, promover y ejecutar programas de vivienda en renta.
 
-IX.- Administrar fondos para la construcción o el mejoramiento de viviendas de interés social.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
+
+IX.- Administrar fondos para la construcción, ampliación y el mejoramiento de viviendas.
 
 X.- Adquirir, administrar y conservar los bienes muebles e inmuebles necesarios para el cumplimiento de sus objetivos.
 
@@ -129,27 +135,37 @@ XI.- Coadyuvar con las autoridades federales, estatales y municipales correspond
 
 XII.- Construir, rehabilitar y conservar obras de infraestructura y equipamiento por cuenta propia o de terceros, respecto de programas específicos del Instituto.
 
-XIII.- Coadyuvar con las autoridades correspondientes en la ejecución de programas de integración social en los fraccionamientos y asentamientos humanos que regularice o haya edificado vivienda, así como también asistir técnicamente a los Ayuntamientos que lo requieren en todo lo relativo al desarrollo urbano y construcción de vivienda.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
+
+XIII.- Coadyuvar con las autoridades correspondientes en la ejecución de programas para la integración de áreas sociales en los fraccionamientos y asentamientos humanos en los que se haya edificado vivienda, así como también asistir técnicamente a los Ayuntamientos que lo requieren en todo lo relativo al desarrollo urbano y construcción de vivienda.
 
 XIV.- Promover la prestación de los servicios públicos, comerciales y recreativos que sean necesarios para la aplicación de los programas del Instituto, en coordinación con las autoridades competentes.
 
-XV.- Coordinar y convenir con dependencias u organismos federales, estatales o municipales en la planeación y ejecución de programas de desarrollo urbano y de vivienda de interés social.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
+
+XV.- Coordinar y convenir con Dependencias u Organismos Federales, Estatales o Municipales en la planeación y ejecución de programas de vivienda.
 
 XVI.- Ser órgano de consulta en materia de desarrollo urbano y de vivienda.
 
-XVII.- Constituir reservas territoriales y realizar las investigaciones necesarias para determinar los requerimientos de suelo y vivienda en las distintas regiones del Estado, y gestionar ante las autoridades correspondientes su asignación programada, de acuerdo a las normas y políticas que para el desarrollo de la vivienda popular determine el Ejecutivo Estatal.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
 
-XVIII.- Establecer y operar un banco de información sobre requerimientos de suelo para el desarrollo urbano y de vivienda a fin de apoyar a las dependencias del Gobierno que lo requieran.
+XVII.- Coadyuvar en la constitución de reservas territoriales y en la realización de las investigaciones necesarias para determinar los requerimientos de vivienda en las distintas regiones del Estado, y gestionar ante las autoridades correspondientes su asignación programada, de acuerdo a las normas y políticas que para el desarrollo de la vivienda determine el Ejecutivo Estatal.
 
-XIX.- Investigar y desarrollar modelos para la vivienda de interés social, en sus diversas modalidades, y
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
+
+XVIII.- Establecer y operar un banco de información en coordinación con la Subsecretaría de Desarrollo Urbano y Vivienda, y la Comisión Estatal de Reservas Territoriales, sobre requerimientos de suelo para el desarrollo urbano y de vivienda a fin de apoyar a las Dependencias del Gobierno que lo requieran.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
+
+XIX.- Investigar y desarrollar modelos para la vivienda en sus diversas modalidades.
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
 XX.- Celebrar, por conducto de su titular y previo acuerdo del Ejecutivo del Estado, los convenios que requiera para el cumplimiento efectivo de sus fines institucionales.
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
 
-XXI.- Prestar a los promotores de vivienda de interés social, popular y rural, la información, orientación y apoyo que requieran para participar activamente en el Programa Estatal de Vivienda. Capacitándolos adecuadamente en la elaboración de estudios socioeconómicos de los cuales resultará la base para otorgar los financiamientos correspondientes.
+XXI.- Prestar a los promotores de vivienda económica, de interés social y de interés popular, la información, orientación y apoyo que requieran para participar activamente en el Programa Estatal de Vivienda. Capacitándolos adecuadamente en la elaboración de estudios socioeconómicos de los cuales resultará la base para otorgar los financiamientos correspondientes.
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
@@ -163,15 +179,21 @@ XXIII.- Las demás que les confieran las leyes y disposiciones jurídicas genera
 
 ARTICULO 3o BIS.- Se entiende por:
 
-I.- Vivienda de Interés Social: Aquélla cuyo valor, al término de la edificación, no exceda de la cantidad que resulte de multiplicar por quince el salario mínimo general elevado al año, vigente en el área geográfica que corresponde al Estado de Morelos.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
 
-II.- Vivienda Popular: Aquélla cuyo valor, al término de su edificación, no exceda de la cantidad que resulte de multiplicar por veinticinco el salario mínimo general elevado al año, vigente en el área geográfica que corresponde al Estado de Morelos.
+I.- Vivienda Económica: Aquélla cuyo valor de enajenación al término de la edificación, no exceda de la cantidad que resulte de multiplicar por catorce el salario mínimo general vigente en el Estado de Morelos elevado al año.
 
-III.- Vivienda Rural: Aquélla cuya edificación se efectúe fuera de los límites de las poblaciones consideradas como urbanas o de los municipios conurbados, siempre y cuando no excedan, al final de la edificación, de los montos señalados en las fracciones anteriores.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
 
-Los montos señalados en las fracciones anteriores serán aplicables a todas las modalidades de los créditos de vivienda.
+II.- Vivienda de Interés Social: Aquélla cuyo valor de enajenación al término de la edificación, no exceda de la cantidad que resulte de multiplicar por treinta y uno el salario mínimo general vigente en el Estado de Morelos elevado al año.
 
-IV.- Promotores: A los organismos públicos especializados, descentralizados y financieros y fideicomisos públicos, federales, estatales y municipales; así como las personas físicas y morales que realicen actividades para desarrollar proyectos de vivienda de interés social, popular o rural en el Estado.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
+
+III.- Vivienda Popular: Aquélla cuyo valor de enajenación al término de la edificación, no exceda de la cantidad que resulte de multiplicar por cuarenta y cinco el salario mínimo general vigente en el Estado de Morelos elevado al año.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
+
+IV.- Promotores: A los organismos públicos especializados, descentralizados y financieros y fideicomisos públicos, federales, estatales y municipales; así como las personas físicas y morales que realicen actividades para desarrollar proyectos de vivienda económica, de interés social, y popular en el Estado; y
 
 V.- Instituto: Al Instituto de Vivienda del Estado de Morelos (Invimor).
 
@@ -201,39 +223,61 @@ La Junta de Gobierno es la autoridad máxima del Instituto, y se integrará en l
 
 I.- El Titular del Poder Ejecutivo, quien la presidirá.
 
-II.- El Secretario de Desarrollo Urbano y Obras Públicas, quien fungirá como Secretario Técnico.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+II.- El Secretario de Desarrollo Humano y Social.
 
-III.- El Secretario de Hacienda.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+III.- El Secretario de Finanzas y Planeación.
 
-IV.- El Secretario de Desarrollo Agropecuario.
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2010)</small>
 
-V.- El Secretario de Desarrollo Económico.
+IV.- El Secretario de Gestión e Innovación.
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2010)</small>
+
+V.- El Secretario de Desarrollo Urbano y Obras Públicas.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
+
+VI.- El Secretario de Desarrollo Agropecuario, y
+
+VII.- El Secretario de Desarrollo Económico.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2010)</small>
+
+Por cada representante propietario se designará a un suplente que lo substituirá en sus ausencias, el cual deberá tener un rango jerárquico de por lo menos, Director General.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2010)</small>
+
+La Junta de Gobierno designará de entre sus miembros a un Secretario Técnico.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 7o.
 
-El Presidente de la Junta de Gobierno será sustituido en sus ausencias por el Secretario General de Gobierno.
+El Presidente de la Junta de Gobierno será sustituido en sus ausencias por el servidor público que él designe.
 
 ###### ARTICULO 8o.
 
 El Director General asistirá a las Sesiones de la Junta de Gobierno con voz pero sin voto, para el cumplimiento de sus funciones.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 9o.
 
-A las Sesiones de la Junta de Gobierno asistirá con voz pero sin voto, un Comisario designado por la Contraloría General, en términos de lo establecido por el Artículo 36, Fracción XII de la Ley Orgánica de la Administración Pública del Estado.
+A las Sesiones de la Junta de Gobierno asistirá con voz pero sin voto, un Comisario designado por la Secretaría de la Contraloría, en términos de lo establecido por el Artículo 33 Fracción XIII de la Ley Orgánica de la Administración Pública del Estado.
 
 ###### ARTICULO 10.
 
 El Comisario vigilará que el manejo y aplicación de recursos se efectúe conforme a las disposiciones legales aplicables, y al efecto practicará las auditorías que correspondan, de las que informará a la Junta de Gobierno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 11.
 
-La Junta de Gobierno Sesionará en forma ordinaria cada seis meses, y en forma extraordinaria cuando lo determine su Presidente. Será quórum legal la asistencia de más de la mitad de sus miembros; las decisiones se tomarán por mayoría de votos, y en caso de empate el Presidente tendrá voto de calidad.
+La Junta de Gobierno se reunirá en forma ordinaria cuando menos seis veces por año y en forma extraordinaria cuando lo considere su Presidente; la asistencia de la mitad más uno de los integrantes hará que el quórum sea legal. Los acuerdos y decisiones se tomarán por mayoría de votos. El Presidente tendrá voto de calidad en caso de presentarse un empate.
 
 La Junta de Gobierno podrá invitar a sus Sesiones a los Servidores Públicos o Representantes de Organizaciones Sociales y Privadas que estime pertinente.
 
@@ -241,7 +285,9 @@ La Junta de Gobierno podrá invitar a sus Sesiones a los Servidores Públicos o 
 
 La Junta de Gobierno tendrá las siguientes facultades y obligaciones:
 
-I.- Aplicar las políticas que en materia de desarrollo urbano y vivienda establezca el Gobierno del Estado y que guarden relación con el objeto del Instituto.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
+
+I.- Aplicar las políticas que en materia de desarrollo humano y social y/o desarrollo urbano y vivienda establezca el Gobierno del Estado y que guarden relación con el objeto del Instituto.
 
 II.- Establecer, en congruencia con el plan estatal de desarrollo, las políticas generales y las prioridades a las que deberá sujetarse el Instituto para la realización de sus programas.
 
@@ -321,13 +367,19 @@ VII.- El Presidente Municipal del lugar en que se vaya a aplicar el Programa de 
 
 VIII.- El Delegado de la Comisión para la Regularización de la Tenencia de la Tierra (Corett).
 
-IX.- El Delegado del Fondo Nacional de Habitaciones Populares (FONHAPO); y
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2010)</small>
+
+IX.- El Delegado de la Secretaría de Desarrollo Social (SEDESOL).
 
 X.- El delegado del Banco Nacional de Obras y Servicios Públicos, S.N.C. (Banobras).
 
 XI.- Un Representante del Poder Judicial.
 
 XII.- Un Representante del Poder Legislativo.
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2010)</small>
+
+XIII.- Un representante del Comité Técnico de Vivienda.
 
 ###### ARTICULO 17.
 
@@ -353,9 +405,11 @@ IV.- Los demás bienes que por cualquier título legal obtenga.
 
 Las relaciones laborales entre el Instituto y sus trabajadores, se regirán por la legislación aplicable a los trabajadores al servicio del Estado.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 20.
 
-Sólo se otorgará una acción de vivienda por familia, siempre y cuando acredite no tener otro bien inmueble y cumpla con los requisitos que para tal efecto se establezcan.
+Sólo se otorgará una acción de adquisición o edificación de vivienda por familia, acorde a las reglas de operación de los programas vigentes.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
@@ -369,9 +423,11 @@ Se hace necesario que los montos de los créditos, tasa de interés y gastos que
 
 El Instituto, así como los grupos sociales que organice para el cumplimiento de sus programas, estarán exentos del pago de impuestos y derechos estatales; el Instituto tramitará de ser procedente, la exención de los impuestos y derechos federales y municipales correspondientes.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 23.
 
-Los integrantes de los órganos de Gobierno del Instituto y su personal de confianza, serán responsables en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Los integrantes de los órganos de Gobierno del Instituto y su personal de confianza, serán responsables en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ## TRANSITORIOS
 
@@ -454,3 +510,13 @@ EN EL TERMINO DE NOVENTA DIAS CONTADOS A PARTIR DE LA VIGENCIA DEL PRESENTE DECR
 ###### ARTICULO DECIMO.
 
 SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN A LO DISPUESTO EN EL PRESENTE DECRETO.
+
+P.O. 9 DE JUNIO DE 2010.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano del Gobierno del Estado.
+
+SEGUNDO. El Director General del Instituto de Vivienda del Estado de Morelos, contará con un plazo de veinte días siguientes a esta publicación para solicitar la modificación respectiva en el Registro Público de Organismos del Estado de Morelos, de acuerdo con lo dispuesto por el artículo 34 de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
+
+TERCERO. La junta de gobierno del Instituto de Vivienda del Estado de Morelos, contará con un plazo de treinta días hábiles siguientes a esta publicación para aprobar las modificaciones necesarias al Reglamento Interior, y una vez publicadas, solicitar la inscripción de las mismas en el Registro Público de Organismos del Estado de Morelos, y su respectiva publicación en el Periódico Oficial "Tierra y Libertad", de conformidad con lo dispuesto por la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
+
+CUARTO. Se derogan todas aquellas disposiciones que contravengan a lo dispuesto al presente Decreto.
