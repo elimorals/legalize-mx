@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-47154"
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-12-30"
-last_updated: "2009-01-27"
+last_updated: "2010-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47154&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-12-02"
 
 ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA, PUBLICADO EN EL D.O.F. DE 10 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 30 de diciembre de 2005.
 
@@ -1762,3 +1764,15 @@ El presente Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnología, se
 D.O.F. 27 DE ENERO DE 2009.
 
 PRIMERO.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE JUNIO DE 2010.
+
+PRIMERO.- El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnología, publicado en el Diario Oficial de la Federación el 30 de diciembre de 2005 y sus modificaciones, así como todas las disposiciones administrativas que se opongan al presente Estatuto.
+
+TERCERO.- En un plazo no mayor a seis meses, contados a partir de la fecha en que entre en vigor el presente Estatuto, el CONACYT deberá expedir su Manual de Organización.
+
+CUARTO.- Los asuntos pendientes de resolución a la entrada en vigor del presente Estatuto, se sustanciarán de conformidad con la regulación que les dio origen.
+
+QUINTO.- Las unidades, deberán adecuar la normatividad vigente en todo aquello que guarde relación con el presente Estatuto.
