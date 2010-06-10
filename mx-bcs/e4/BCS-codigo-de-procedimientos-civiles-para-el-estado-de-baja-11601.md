@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2008-03-31"
+last_updated: "2010-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2010.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -4109,21 +4109,27 @@ Si la tercería, cualquiera que sea, se interpone ante un Juez de Paz y el inter
 
 Cuando ambos consortes convengan en divorciarse, por mutuo consentimiento, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 284 del Código Civil, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores. La demanda de divorcio por mutuo consentimiento será formulada por ambos cónyuges debiendo suscribirla con sus firmas y además con la huella dígito pulgar derecha de cada uno.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2010)</small>
+
 ###### Artículo 658.
 
-Hecha la solicitud citará el Tribunal a los cónyuges, y al representante del Ministerio Público, a una junta en la que se identificarán plenamente, que se efectuará después de los ocho días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación, si no logra avenirlos aprobará provisionalmente, los puntos del convenio relativos a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquéllos y de los que un cónyuge deba dar a otro mientras dura el procedimiento, dictando las medidas necesarias de aseguramiento.
+Hecha la solicitud citará el Tribunal a los cónyuges y al representante del Ministerio Público, a una junta que se efectuara dentro de los ocho días siguientes, en la que se identificarán plenamente, y si asistieren los interesados los exhortará para que reconsideren dicha solicitud. Si no desistieran los solicitantes y en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, aprobará definitivamente los puntos del convenio relativos a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos, así como a los alimentos que deban proporcionarse los cónyuges durante el procedimiento, salvo lo previsto por el artículo 663 de este Código.
+
+En un plazo que no excederá de 10 días, el Tribunal dictará sentencia en la que quedará disuelto el vínculo matrimonial y decidirá sobre el convenio presentado.
 
 ###### Artículo 659.
 
-Si insistieren los cónyuges en su propósito de divorciarse, citará el tribunal a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada, y en ella volverá a exhortar a aquéllos con el propio fin que en la anterior. Si tampoco se lograre la reconciliación, y en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, el tribunal oyendo el parecer del representante del Ministerio Público sobre este punto, dictará sentencia en la que quedará disuelto el vínculo matrimonial, y decidirá sobre el convenio presentado.
+(DEROGADO, B.O. 10 DE JUNIO DE 2010)
 
 ###### Artículo 660.
 
 El cónyuge menor de edad, necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2010)</small>
+
 ###### Artículo 661.
 
-Los cónyuges no pueden hacerse representar por Procurador en las juntas a que se refieren los artículos 658 y 659, sino que deben comparecer personalmente y, en su caso, acompañados del tutor especial.
+Los cónyuges no puedan hacerse representar por procurador en la junta a que se refiere el artículo 658, sino que deben comparecer personalmente y, en su caso, acompañados del tutor especial.
 
 ###### Artículo 662.
 
@@ -4133,7 +4139,9 @@ En cualquier caso en que los cónyuges dejaren pasar más de tres meses sin cont
 
 En caso de que el representante del Ministerio Público se oponga a la aprobación del convenio, por considerar que viola los derechos de los hijos o que no quedan bien garantizados, propondrá las modificaciones que estime procedentes y el tribunal lo hará saber a los cónyuges para que, dentro de los tres días, manifiesten si aceptan las modificaciones.
 
-En caso de que no las acepten, el tribunal resolverá en la sentencia lo que proceda con arreglo a la ley, cuidando de que, en todo caso, queden debidamente garantizados los derechos de los hijos.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2010)</small>
+
+En caso de que los cónyuges no acepten las modificaciones, el Tribunal resolverá en la sentencia lo que proceda con arreglo a la ley, cuidando que, en todo caso, queden debidamente garantizados los derechos de los hijos.
 
 Cuando el convenio no fuere de aprobarse, no podrá decretarse la disolución del matrimonio.
 
@@ -6266,3 +6274,7 @@ B.O. 31 DE MARZO DE 2008.
 PRIMERO.-El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno Estado (sic) de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+B.O. 10 DE JUNIO DE 2010.
+
+Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
