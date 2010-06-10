@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2008-03-31"
+last_updated: "2010-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2010.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -155,7 +155,7 @@ II.- Las demás corporaciones de carácter público reconocidas por la ley;
 
 III.- Las sociedades civiles o mercantiles;
 
-IV.- Los sindicatos, las asociaciones profesionales y las demás que se (sic) refiere la fracción XVI del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
+IV.- Los sindicatos, las asociaciones profesionales y las demás (sic) que se refiere la fracción XVI del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
 V.- Las sociedades cooperativas y mutualistas;
 
@@ -238,6 +238,18 @@ El Registro Civil estará constituido por una Coordinación Estatal, un Archivo 
 ###### Artículo 37.
 
 La titularidad de las oficialías del Registro Civil estará a cargo de servidores públicos municipales, denominados "Oficiales del Registro Civil", designados por el Presidente Municipal respectivo, quienes tendrán fe pública en el desempeño de las labores propias de su cargo.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2010)</small>
+
+Para ser Oficial del Registro Civil, se deberán cubrir los siguientes requisitos:
+
+I.- Ser ciudadanos Sudcaliforniano en pleno ejercicio de sus derechos civiles y con residencia efectiva de tres años en el Estado;
+
+II.- Ser mayor de 18 años al día de su designación;
+
+III.- Contar preferentemente con estudios de nivel Licenciatura, con título y cédula con una antigüedad mínima de tres años, expedida por autoridad o institución legalmente facultada para ello; y
+
+IV.- Gozar de buena reputación.
 
 ###### Artículo 38.
 
@@ -565,9 +577,23 @@ Si fuere necesario que las capitulaciones matrimoniales consten en escritura pú
 
 VI.- Copia certificada del acta de defunción del cónyuge fallecido si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
 
-VII.- Copia certificada de la dispensa de impedimentos, si los hubo; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VIII.- Para el caso de matrimonio de mexicano con extranjero, copia de la autorización expedida por la Secretaría de Gobernación.
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2010)</small>
+
+VII.- Copia certificada de la dispensa de impedimentos, si los hubo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2010)</small>
+
+VIII.- Para el caso de matrimonio de mexicano con extranjero, copia de la autorización expedida por la Secretaría de Gobernación; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2010)</small>
+
+IX.- Constancia de haber recibido pláticas e información sobre violencia familiar, derechos y obligaciones del matrimonio; expedida por la Procuraduría de la Defensa del Menor y la Familia del Sistema DIF Municipal en coordinación con las Instituciones o Instancias adecuadas en dicha materia.
 
 ###### Artículo 101.
 
@@ -1541,21 +1567,29 @@ El cónyuge que no quiera pedir el divorcio fundado en las causas previstas en l
 
 El divorcio por mutuo consentimiento sólo puede pedirse cuando haya transcurrido un año de la celebración del matrimonio.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2010)</small>
+
 ###### Artículo 278.
 
-Cuando ambos cónyuges convengan en divorciarse y sean mayores de edad, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio, a solicitar la disolución del vínculo.
+Cuando ambos cónyuges convengan en divorciarse, sean mayores de edad, no tengan hijos menores de edad o mayores de edad sujetos a tutela y de común acuerdo hubieren liquidado la sociedad conyugal, si la había, podrán ocurrir personalmente ante el Oficial del Registro Civil del lugar de su domicilio, a solicitar la disolución del vínculo.
 
-###### Artículo 279.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2010)</small>
 
-El Oficial del Registro Civil, previa identificación de los cónyuges, levantará un acta en la que hará constar la solicitud de divorcio, recibirá copia del acta de matrimonio y del convenio de liquidación de bienes, así como la declaración de dos testigos que, bajo protesta de decir verdad, aseguren que los divorciantes no han procreado hijos entre sí.
+###### Articulo 279.
+
+El Oficial del Registro Civil, previa identificación de los cónyuges, levantará un acta en la que hará constar la solicitud de divorcio, recibirá copia del acta de matrimonio y del convenio de liquidación de bienes, así como la declaración de dos testigos que, bajo protesta de decir verdad, aseguren que los divorciantes no han procreado hijos entre sí, hecho lo anterior, citará a los cónyuges para que, dentro del plazo de quince días se presenten a ratificar dicha solicitud, previa exhortación de avenimiento.
+
+Hecha la ratificación por los cónyuges, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva, haciendo la anotación correspondiente en el libro de matrimonios.
 
 ###### Artículo 280.
 
 Cubiertos estos requisitos, el Oficial citará a los interesados a una audiencia que se realizará entre los diez y quince días siguientes, en la que tratará de avenirlos y, en caso de que sostengan su voluntad de divorciarse, hará la declaración correspondiente y anotará el divorcio en el acta de matrimonio o notificará a la Oficialía en que ésta se encuentre, para que haga dicha anotación.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2010)</small>
+
 ###### Artículo 281.
 
-El divorcio administrativo no tendrá validez si se comprueba que los cónyuges tenían hijos, eran menores de edad o no habían liquidado su sociedad conyugal al momento de solicitarlo. A los cónyuges y a los testigos se les aplicarán las penas que establece el Código Penal para el delito de falsedad en declaraciones ante una autoridad.
+El divorcio administrativo no surtirá efectos legales, si se comprueba que los cónyuges tenían hijos menores de edad o mayores sujetos a tutela, o no habían liquidado su sociedad conyugal, en este caso se hará la denuncia penal correspondiente.
 
 ###### Artículo 282.
 
@@ -15346,3 +15380,17 @@ B.O. 31 DE MARZO DE 2008.
 DECRETO 1745, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DEL CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JUNIO DE 2010.
+
+DECRETO 1844, POR EL QUE SE ADICIONAN Y REFORMAN LOS ARTICULOS 37, 278, 279, Y 281 DEL CODIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JUNIO DE 2010.
+
+DECRETO 1845, POR EL QUE SE REFORMA Y SE ADICIONA EL ARTICULO 100 DEL CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día primero de enero del año 2011, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
