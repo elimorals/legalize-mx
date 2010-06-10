@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-ministerio-publico-del-estado-de-baja-62183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-07-08"
-last_updated: "2008-07-08"
+last_updated: "2010-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 8 de julio de 2008.
 
@@ -95,7 +95,13 @@ I.- Investigar los delitos del Fuero Común, en el ejercicio de esta facultad co
 
 A).- En el Periodo de la Averiguación Previa:
 
-a).- Recibir denuncias o querellas sobre acciones u omisiones que puedan constituir delito;
+a).- Recibir denuncias o querellas sobre acciones u omisiones que puedan constituir delito.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE JUNIO DE 2010)</small>
+
+En el caso de denuncias sobre desaparición de menores de edad, incapaces y personas mayores de setenta años; deberá dictar acuerdo de inicio de forma inmediata, estando legitimado para realizar dicha denuncia cualquier persona que le conste dicha desaparición. Hecho lo anterior y en el menor tiempo posible, deberá con base en la denuncia de la desaparición, requerir a las instituciones de seguridad pública e investigadoras del Estado, remitiendo la información necesaria, a fin de que coadyuven en la búsqueda y localización de la persona desaparecida, implementando los manuales de búsqueda correspondientes;
 
 b).- Investigar los delitos del fuero común cometidos dentro del territorio del Estado, con el auxilio de la Policía Ministerial, de Servicios Periciales, Policía de Seguridad y Tránsito Municipal, Policía Estatal Preventiva y de otras autoridades, tanto federales como de las entidades federativas en los términos de los convenios de colaboración en la investigación de los delitos del fuero federal en materia de narcomenudeo;
 
@@ -309,7 +315,11 @@ f).- Realizar operativos en coordinación con las autoridades policiales de los 
 
 g).- Promover, desarrollar, y ejecutar programas de colaboración con la comunidad, a fin de mejorar el servicio de la Institución; así como acciones que mejoren la atención por parte de los servidores públicos de la Procuraduría a la comunidad;
 
-h).- Brindar información general sobre sus atribuciones y servicios, así como recoger las opiniones de la población en torno a la procuración de justicia; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2010)</small>
+
+h).- Brindar información general sobre sus atribuciones y servicios, así como recoger las opiniones de la población en tomo a la procuración de justicia. En los casos de presunción de secuestro o privación ilegal de la libertad, se implementará el manual de procedimiento tendiente a localizar de manera inmediata a los involucrados, cuidando en todo momento el sigilo de las indagatorias; e
 
 i).- Las demás que determinen las disposiciones legales aplicables, la presente Ley y su Reglamento Interior.
 
@@ -1486,3 +1496,11 @@ NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ARMANDO DÍAZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 10 DE JUNIO DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor 30 días después de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Procurador General de Justicia del Estado de Baja California Sur, contará con 90 días posteriores de la entrada en vigor de esta reforma, para la elaboración del manual de procedimiento a que hace mención esta reforma.
