@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2007-05-18"
+last_updated: "2010-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2010.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -1235,6 +1235,14 @@ El Gobernador del Estado podrá constituir fideicomisos públicos para impulsar 
 
 Los fideicomisos públicos a que se refiere esta Ley serán los que autorice el Gobernador del Estado y en los cuales la Secretaría de Finanzas y Administración fungirá como fideicomitente, o en su caso, los organismos públicos descentralizados a través de los representantes de sus órganos de gobierno.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
+
+Artículo 68 bis.- Los fideicomisos de garantía o fuente de pago alterna, constituidos para garantizar o cubrir obligaciones de pago con motivo de contratos de prestación de servicios celebrados al amparo de la Ley de Proyectos de Prestación de Servicios del Estado y los Municipios de Guanajuato, no serán considerados como fideicomisos públicos o entidades paraestatales, rigiéndose, en consecuencia, por lo previsto en las reglas establecidas en los propios contratos y fideicomisos de garantía o fuente de pago alterna, de conformidad con las disposiciones mercantiles, financieras y demás aplicables.
+
+Igualmente, los fideicomisos para el pago o garantía de deuda pública, incluyendo los fideicomisos bursátiles constituidos exclusivamente para emitir y colocar títulos de deuda en el mercado de valores no tendrán la categoría de fideicomisos públicos o paraestatales y su operación interna se sujetará a lo previsto en su contrato y en las disposiciones mercantiles y bursátiles correspondientes.
+
 ###### Artículo 69.
 
 Los fideicomisos públicos deberán constituirse exclusivamente para auxiliar al Gobernador del Estado en la realización de actividades que le sean propias.
@@ -1520,3 +1528,9 @@ Artículo Quinto - Se abroga la Ley que crea el Consejo Estatal de Turismo del E
 Artículo Sexto.- La Secretaría de Finanzas y Administración definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a la Secretaría de Desarrollo Turístico, que mejoren la calidad de los servicios de gobierno en materia de turismo.
 
 Artículo Séptimo.- El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de seis meses, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma.
+
+P.O. 11 DE JUNIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
