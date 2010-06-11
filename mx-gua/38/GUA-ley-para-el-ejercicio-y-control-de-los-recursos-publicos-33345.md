@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-ejercicio-y-control-de-los-recursos-publicos-33345"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-12"
-last_updated: "2007-11-27"
+last_updated: "2010-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PUBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2010.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 12 de agosto del 2003.
 
@@ -87,7 +87,11 @@ X.- Presupuestación: Proceso de consolidación de las acciones encaminadas a cu
 
 XI.- Gasto Público: Conjunto de erogaciones que realizan los sujetos de la Ley en sus respectivos niveles, en el ejercicio de sus funciones;
 
-XII.- Gasto Corriente: Erogación que realiza el sector público que constituye un acto de consumo; esto es, los gastos que se destinan a la contratación de los recursos humanos y a la compra de los bienes y servicios necesarios para el desarrollo propio de las funciones administrativas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
+
+XII.- Gasto Corriente: Erogaciones que realiza el sector público que constituye un acto de consumo; esto es, los gastos que se destinen a la contratación de los recursos humanos y a la compra de los bienes y servicios necesarios para el desarrollo propio de las funciones administrativas, así como aquellas erogaciones que se destinen a los pagos que se deriven de la contratación de proyectos de prestación de servicios en términos de la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato;
 
 XIII.- Gasto Devengado: Pasivo que presenta un gasto ejercido en o antes de una fecha determinada, pagadero en fecha futura;
 
@@ -231,6 +235,34 @@ Los Poderes Legislativo y Judicial, así como los Organismos Autónomos, formula
 
 Para el caso de los Municipios, las Dependencias y Entidades enviarán sus anteproyectos de presupuesto a la Tesorería a más tardar el seis de septiembre.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
+
+Artículo 26 bis.- Para la programación de los recursos destinados a proyectos de inversión pública estatal que requieran autorización plurianual de gasto en los términos del artículo 63, fracción Xlll de la Constitución Política para el Estado de Guanajuato, o de compromisos de gasto plurianual en los términos del artículo 76 de esta ley, las dependencias y entidades deberán observar el siguiente procedimiento:
+
+I. Contar con un mecanismo de planeación, en el cual:
+
+a) Se identifiquen los proyectos en proceso de realización, así como aquéllos que se consideren susceptibles de realizar en años futuros; y
+
+b) Se establezcan las necesidades de gasto a corto, mediano y largo plazo, mediante criterios de evaluación que permitan establecer prioridades entre los proyectos y que serán emitidos por la Secretaría;
+
+II. Presentar a la Secretaría el Análisis Costo-Beneficio de los proyectos que tengan a su cargo, en donde se muestre que son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. La Secretaría podrá solicitar a las dependencias y entidades que dicha evaluación esté dictaminada por un experto independiente. La evaluación no se requerirá cuando el gasto se destine a la atención prioritaria e inmediata de desastres naturales;
+
+III. Registrar cada proyecto en la cartera que integre la Secretaría, para lo cual se deberá presentar el Análisis Costo-Beneficio correspondiente. Las dependencias y entidades deberán mantener actualizada la información contenida en la cartera. Sólo los proyectos registrados en la cartera se podrán incluir en la Ley de Presupuesto General de Egresos del Estado para el ejercicio fiscal correspondiente; y
+
+IV. Los proyectos registrados en la cartera serán analizados por la Secretaría, la cual determinará la prelación para su inclusión en la Ley de Presupuesto General de Egresos del Estado para el ejercicio fiscal correspondiente, así como el orden de su ejecución, para establecer un orden de los proyectos en su conjunto y maximizar el impacto que puedan tener para incrementar el beneficio social, observando principalmente los criterios siguientes:
+
+a) Rentabilidad socioeconómica;
+
+b) Reducción de la pobreza extrema;
+
+c) Desarrollo regional; y
+
+d) Concurrencia con otros programas y proyectos del Estado.
+
+Lo previsto en el presente artículo, también se aplicará en lo conducente para la programación de recursos destinados a proyectos de inversión pública municipal, con participación de recursos federales o estatales, que requieran la autorización de erogaciones plurianuales, en los términos del artículo 117, fracción VII de la Constitución Política para el Estado de Guanajuato.
+
 ###### Artículo 27.
 
 La Secretaría se encargará de formular, con base en los anteproyectos que le presenten las Dependencias y Entidades, así como los proyectos de los Poderes Legislativo y Judicial, y de los Organismos Autónomos, el proyecto de iniciativa de Ley del Presupuesto General de Egresos del Estado para el ejercicio fiscal correspondiente.
@@ -266,6 +298,16 @@ III.- Descripción clara de los programas en donde se señalen objetivos, metas 
 IV.- La indicación de las plazas presupuestadas que incluye y la remuneración integrada mensual y anual que les corresponda; y
 
 V.- Los viáticos u otras percepciones de naturaleza análoga que serán ejercidas por la Unidad Responsable.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
+
+Artículo 28 bis.- En los presupuestos de egresos para el ejercicio fiscal correspondiente se deberán prever, en un capítulo específico, los compromisos plurianuales de gasto que se autoricen en los términos del artículo 76 de esta ley.
+
+En la Ley del Presupuesto General de Egresos del Estado para el ejercicio fiscal correspondiente se deberán prever, en un apartado específico, las erogaciones plurianuales para proyectos de inversión pública estatal en términos del artículo 63, fracción Xlll de la Constitución Política para el Estado hasta por el monto que proponga el titular del Poder Ejecutivo del Estado, tomando en consideración los criterios generales de política económica para el año en cuestión y las erogaciones plurianuales aprobadas en ejercicios anteriores. En dicho apartado podrán incluirse los proyectos de prestación de servicios aprobados por el Congreso del Estado, de conformidad con lo previsto en la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato. En todo caso, las asignaciones de recursos de los ejercicios fiscales subsecuentes a la aprobación de dichas erogaciones deberán incluirse en la Ley de Presupuesto General de Egresos del Estado.
+
+En los presupuestos de egresos municipales para el ejercicio fiscal correspondiente se deberán prever, en un apartado específico, las erogaciones plurianuales para proyectos de inversión pública con participación de recursos federales o estatales, en términos del artículo 117, fracción VII de la Constitución Política para el Estado hasta por el monto que autoricen los ayuntamientos. En dicho apartado deberán incluirse los proyectos de prestación de servicios, de conformidad con lo previsto en la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato. En todo caso, las asignaciones de recursos de los ejercicios fiscales subsecuentes a la aprobación de dichas erogaciones, deberán incluirse en dichos presupuestos.
 
 ###### Artículo 29.
 
@@ -571,7 +613,11 @@ Una vez concluida la vigencia del presupuesto de egresos, procederá hacer pagos
 
 En casos excepcionales y debidamente justificados, sólo por acuerdo expreso del Titular del Poder Ejecutivo del Estado o del Ayuntamiento, la Secretaría o la Tesorería respectivamente, podrá autorizar que se celebren contratos de obras públicas, de adquisiciones o de otra índole, que rebasen las asignaciones presupuestales aprobadas para el año.
 
-Cuando se trate de programas de más de un año de ejecución, cuyos montos se incluyan en el presupuesto de egresos, se hará mención especial de estos casos al presentar el proyecto de presupuesto respectivo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2010)</small>
+
+Cuando se trate de programas de más de un año de ejecución, cuyos montos se incluyan en el presupuesto de egresos, se hará mención especial de estos casos al presentar el proyecto de presupuesto respectivo. Por lo que hace a los contratos de prestación de servicios en términos de la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato, además de lo anterior, en la formulación de los presupuestos se hará mención especial respecto a que tienen prioridad las previsiones para el cumplimiento de las obligaciones contraídas en ejercicios anteriores con motivo de los contratos celebrados.
 
 ###### Artículo 77.
 
@@ -827,7 +873,7 @@ Artículo Cuarto.- Se abroga la Ley de Presupuesto, Contabilidad y Gasto Públic
 
 Artículo Quinto.- Se derogan los artículos 198, 199 y 200 de la Ley Orgánica Municipal para el Estado de Guanajuato, así como todas las disposiciones que se opongan a la presente Ley.
 
-LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 24 DE JULIO DEL 2003.- CARLOS VIDAL ROJAS YERENA.- DIPUTADO PRESIDENTE.- JORGE IGNACIO LUNA BECERRA.- DIPUTADO SECRETARIO.- JESÚS DOMÍNGUEZ ARANDA.- DIPUTADO SECRETARIO.- RÚBRICAS.
+LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LÉ DE EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 24 DE JULIO DEL 2003.- CARLOS VIDAL ROJAS YERENA.- DIPUTADO PRESIDENTE.- JORGE IGNACIO LUNA BECERRA.- DIPUTADO SECRETARIO.- JESÚS DOMÍNGUEZ ARANDA.- DIPUTADO SECRETARIO.- RÚBRICAS.
 
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -856,3 +902,13 @@ P.O. 27 DE NOVIEMBRE DE 2007.
 Artículo Primero.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 11 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El titular del Poder Ejecutivo del Estado y los ayuntamientos contarán con un plazo que no excederá de 180 días contados a partir de la entrada en vigor de este Decreto para adecuar su normatividad al contenido del mismo.
