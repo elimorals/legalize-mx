@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-fomento-de-las-actividades-artesanales-del-estado-de-153
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-10"
-last_updated: "1999-12-10"
+last_updated: "2010-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DE FOMENTO DE LAS ACTIVIDADES ARTESANALES DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO NUMERO 44, PUBLICADO EN EL P.O. DE 11 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 10 de diciembre de 1999.
 
@@ -254,3 +256,25 @@ Salón de Sesiones del Palacio Legislativo, Campeche, Cam., a 8 de diciembre de 
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los ocho días del mes de diciembre del año de mil novecientos noventa y nueve.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L.A. JOSE ANTONIO GONZALEZ CURI.- El SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE JUNIO DE 2010.
+
+Primero.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Gobernador del Estado deberá expedir el Reglamento de la Ley para el Fomento de las Actividades Artesanales en el Estado de Campeche dentro de los treinta días hábiles siguientes a la fecha de entrada en vigor del presente decreto.
+
+Tercero.- La Junta de Gobierno del Instituto Estatal para el Fomento de las Actividades Artesanales en Campeche se instalará en el lugar, día y hora que en su oportunidad determine el Gobernador del Estado; quien previamente a esa instalación nombrará a quien será su primer Director General.
+
+Cuarto.- Los bienes muebles e inmuebles propiedad del organismo descentralizado denominado "Casa de Artesanías Tukulná" que se suprime, así como los recursos humanos, materiales y financieros con que cuenta se transfieren al Instituto Estatal para el Fomento de las Actividades Artesanales en Campeche.
+
+Quinto.- El Fondo de Apoyo a la Actividad Artesanal, previsto en la Ley a que este Decreto se contrae, deberá quedar constituido dentro de un plazo no mayor a noventa días naturales siguientes al inicio de vigencia de esta Ley.
+
+Sexto.- La Secretaría de Finanzas de la Administración Pública Estatal tomará las previsiones presupuestales necesarias que se deriven de la ley contenida en el presente decreto.
+
+SE TRANSCRIBE EL ARTICULO DEL DECRETO QUE SE RELACIONA CON EL ORDENAMIENTO.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fomento de las Actividades Artesanales del Estado de Campeche, expedida el ocho de diciembre de mil novecientos noventa y nueve, publicada en el Periódico Oficial del Estado el día diez del mes y año antes indicados.
