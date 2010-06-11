@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-deuda-publica-para-el-estado-y-los-municipios-de-10488"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-30"
-last_updated: "2008-09-02"
+last_updated: "2010-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE DEUDA PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2010.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 30 de agosto de 1996.
 
@@ -144,6 +144,12 @@ Las entidades públicas deberán programar un superávit primario en sus finanza
 ###### Artículo 7o.
 
 No constituirán deuda pública estatal o municipal, las obligaciones directas a corto plazo que se contraigan para solventar necesidades urgentes, producto de circunstancias extraordinarias e imprevisibles, siempre que su vencimiento y liquidación se realicen en el mismo ejercicio anual para el cual fueron contratadas, y que su monto neto no exceda del 5% de sus respectivos presupuestos de egresos; pero quedarán sujetas a los requisitos de información y registro previstos en esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
+
+Tampoco constituirán deuda pública, los compromisos de pagos plurianuales que se deriven de los contratos de proyectos de prestación de servicios, en términos de la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato, ni los fideicomisos de garantía o fuente de pago alterna que se constituyan para pagar o garantizar obligaciones de pago con motivo de dichos contratos.
 
 ###### Artículo 8o.
 
@@ -618,3 +624,9 @@ SECRETARIO DE PLANEACION Y FINANZAS.
 P.O. 2 DE SEPTIEMBRE DE 2008.
 
 Artículo Único.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE JUNIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
