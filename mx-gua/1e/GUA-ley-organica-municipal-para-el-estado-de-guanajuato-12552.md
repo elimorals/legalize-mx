@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-12552"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-25"
-last_updated: "2008-10-24"
+last_updated: "2010-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2010.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de julio de 1997.
 
@@ -835,9 +835,11 @@ IV.- En materia de hacienda pública municipal:
 
 a) Administrar libremente su hacienda y controlar la aplicación del presupuesto de egresos del Municipio;
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b) Proponer al Congreso del Estado en términos de Ley, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. Asimismo, aprobar el pronóstico de ingresos y el presupuesto de egresos, remitiendo al Congreso del Estado copia certificada de los mismos;
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2010)</small>
+
+b) Proponer al Congreso del Estado en términos de ley, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. Asimismo, aprobar el pronóstico de ingresos y el presupuesto de egresos, remitiendo al Congreso del Estado copia certificada de los mismos; y en su caso, autorizar las erogaciones plurianuales para aquellos proyectos de inversión pública municipal que se determinen conforme a lo dispuesto en las leyes de la materia. Las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos;
 
 c) Determinar la forma en que el tesorero y demás servidores públicos que manejen caudales públicos municipales, deban caucionar suficientemente su manejo;
 
@@ -2597,6 +2599,12 @@ En lo no previsto en esta Ley, se aplicará supletoriamente, la Ley de Adquisici
 
 El Ayuntamiento aprobará su presupuesto de egresos, que regirá del 1o. de enero hasta el 31 de diciembre del ejercicio fiscal correspondiente, debiendo publicarlo para conocimiento de la población dentro de los primeros quince días hábiles de enero, en el periódico de mayor circulación en el Municipio o en otros medios de comunicación que se estimen convenientes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
+
+En el proyecto de presupuesto de egresos municipal se deberán prever, en un apartado específico, las erogaciones plurianuales para proyectos de inversión pública municipal en términos del artículo 69, fracción IV inciso b, de esta ley, hasta por el monto que proponga el presidente municipal, tomando en consideración los criterios generales de política económica para el año en cuestión y las erogaciones plurianuales aprobadas en ejercicios anteriores. En dicho apartado podrán incluirse los proyectos de prestación de servicios aprobados por el Congreso del Estado, de conformidad con lo previsto en la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato. En todo caso, las asignaciones de recursos de los ejercicios fiscales subsecuentes a la aprobación de dichas erogaciones deberán incluirse en el presupuesto de egresos municipal.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 197.
@@ -3162,3 +3170,13 @@ Artículo Primero.- El presente Decreto entrará en vigor el seis de julio de do
 Artículo Segundo.- Los ayuntamientos contarán con un plazo de sesenta días contados a partir de la entrada en vigor del presente decreto, para adecuar los reglamentos, bandos de policía y buen gobierno, circulares y demás disposiciones administrativas de observancia general al contenido del mismo.
 
 Artículo Tercero.- Los asuntos que actualmente estén pendientes de resolverse ante los juzgados administrativos municipales, se tramitarán con base en lo dispuesto en la legislación vigente al momento de su inicio, hasta su debida conclusión.
+
+P. O. 11 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ayuntamientos contarán con un plazo que no excederá de 180 días contados a partir de la entrada en vigor de este Decreto para adecuar su normatividad al contenido del mismo.
