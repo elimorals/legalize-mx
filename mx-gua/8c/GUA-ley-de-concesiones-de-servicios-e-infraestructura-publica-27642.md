@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-concesiones-de-servicios-e-infraestructura-publica-27642
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-24"
-last_updated: "2002-12-24"
+last_updated: "2010-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2010
 
 Ley publicada en la Octava Parte del Periódico Oficial del Estado de Guanajuato, el martes 24 de diciembre del 2002.
 
@@ -229,6 +229,12 @@ Al resolverse sobre el otorgamiento de la concesión, la caución otorgada para 
 
 La modalidad de adjudicación directa procede cuando el particular presente un proyecto de infraestructura pública, siempre que a juicio del Titular del Poder Ejecutivo sea de beneficio social y económico para el Estado, y reúna los requisitos exigidos en esta Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
+
+La modalidad de adjudicación directa también procede cuando la concesión de infraestructura pública sea necesaria para la prestación de servicios contratados en los términos de la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato, siempre y cuando la concesión sea otorgada a quien resulte adjudicatario del contrato correspondiente y se cumplan con los requisitos exigidos en esta Ley.
+
 ###### Artículo 18.
 
 El procedimiento para otorgar la concesión en la modalidad de adjudicación directa se sujetará a lo siguiente:
@@ -243,9 +249,23 @@ c) La evaluación del impacto ambiental de la obra a ejecutarse.
 
 II.- Recibida la solicitud de concesión se procederá a realizar los estudios técnicos y financieros del proyecto presentado, para que en un plazo de noventa días naturales se determine la viabilidad del mismo. La resolución anterior se notificará personalmente al interesado en un plazo de cinco días hábiles contados a partir de la fecha en que se emitió la resolución;
 
-III.- Cuando la resolución fuere positiva, el particular deberá elaborar el proyecto definitivo en un plazo que no podrá exceder de un año, bajo los lineamientos que fije la Secretaría. Una vez aprobado el proyecto por la Secretaría, el Titular del Poder Ejecutivo otorgará el título-concesión, el cual se publicará en el Periódico Oficial del Gobierno del Estado; y
+III.- Cuando la resolución fuere positiva, el particular deberá elaborar el proyecto definitivo en un plazo que no podrá exceder de un año, bajo los lineamientos que fije la Secretaría. Una vez aprobado el proyecto por la Secretaría, el Titular del Poder Ejecutivo otorgará el título-concesión, el cual se publicará en el Periódico Oficial del Gobierno del Estado; y (sic)
 
-IV.- Cuando el particular no cumpla con lo establecido en la fracción anterior, perderá en favor del Estado los derechos sobre el proyecto presentado para concesión.
+IV.- Cuando el particular no cumpla con lo establecido en la fracción anterior, perderá en favor del Estado los derechos sobre el proyecto presentado para concesión;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2010)</small>
+
+V.- Tratándose de las concesiones a que se refiere el segundo párrafo del artículo 17 de esta Ley:
+
+a) Se estará a lo dispuesto en la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato;
+
+b) La adjudicación del contrato de prestación de servicios requerirá de la previa determinación de viabilidad del proyecto correspondiente por parte de la Secretaría;
+
+c) El adjudicatario del contrato de prestación de servicios elaborará el proyecto definitivo en los términos previstos en el propio contrato; y
+
+d) Una vez elaborado el proyecto definitivo, el titular del Poder Ejecutivo otorgará el título concesión, el cual se publicará en el Periódico Oficial del Gobierno del Estado.
 
 ### CAPÍTULO CUARTO. DEL TÍTULO-CONCESIÓN
 
@@ -506,3 +526,11 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO
 
 JUAN MANUEL OLIVA RAMÍREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE JUNIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
