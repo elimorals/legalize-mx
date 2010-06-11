@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-39683
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-25"
-last_updated: "2007-09-07"
+last_updated: "2010-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2010.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de mayo de 2004.
 
@@ -174,6 +174,12 @@ V.- La instalación, montaje, colocación o aplicación, incluyendo las pruebas 
 VI.- Todas aquellas acciones de naturaleza análoga, así como las que realicen los fideicomisos en los que el fideicomitente o el fideicomisario sea el Gobierno del Estado, los Ayuntamientos o personas morales en las que exista aportación del erario del Estado o de los Municipios.
 
 Estará sujeta a las disposiciones de esta Ley, la inversión pública del Gobierno del Estado que destine para la creación de la infraestructura necesaria para la prestación de un servicio público que tenga concesionado, cuando la inversión sea mixta, de conformidad con lo que al efecto señale la Ley de Concesiones de Servicios e Infraestructura Pública para el Estado de Guanajuato.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
+
+No serán considerados como obra pública para los efectos de esta ley, los proyectos de prestación de servicios regulados por la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato.
 
 ###### Artículo 9.
 
@@ -1702,3 +1708,9 @@ P.O. 7 DE SEPTIEMBRE DE 2007.
 Artículo Primero.- El presente Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Los procedimientos regulados por las disposiciones que son reformadas a través del presente Decreto y que se encuentren en trámite al entrar en vigor el mismo, se regirán por lo dispuesto en la legislación conforme a la cual se iniciaron.
+
+P.O. 11 DE JUNIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
