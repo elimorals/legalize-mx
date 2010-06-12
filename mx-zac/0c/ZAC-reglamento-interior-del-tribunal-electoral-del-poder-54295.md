@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-del-tribunal-electoral-del-poder-54295"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-10"
-last_updated: "2007-01-10"
+last_updated: "2010-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 12 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 10 de enero de 2007.
 
@@ -870,3 +872,15 @@ Se abroga el Reglamento Interior del Tribunal publicado en el periódico Oficial
 DADO EN EL RECINTO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO A LOS TRECE DIAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SEIS.
 
 Magistrado Presidente: Jose Manuel Ortega Cisneros; Magistrado: María Isabel Carrillo Redin; Magistrado: Gilberto Ramírez Ortiz; Magistrado: Juan de Jesús Ibarra Vargas; Magistrado: María de Jesús González García. Rúblicas (sic).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE JUNIO DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Tribunal publicado en el Periódico Oficial, Órgano del Gobierno del Estado de fecha 10 de enero de 2007.
