@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2009-07-30"
+last_updated: "2010-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1993,6 +1993,10 @@ Los cadáveres deberán inhumarse, incinerarse o embalsamarse entre las diecioch
 
 Para la realización de cualquier acto de disposición de cadáveres, deberá contarse previamente con el certificado de defunción, que será expedido una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o por persona autorizada por la autoridad sanitaria competente.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2010)</small>
+
+Los prestadores de servicios funerarios están obligados a solicitar a quien los contrate, el certificado precitado, aun y cuando sólo sea para la venta del ataúd o féretro.
+
 ###### ARTICULO 214.
 
 Sólo podrá darse destino final a un feto previa expedición del certificado de muerte fetal.
@@ -3085,9 +3089,11 @@ IV. La calidad de reincidente del infractor.
 
 Se sancionará con multa equivalente hasta veinte veces el salario mínimo general diario vigente en la Entidad, la violación de las disposiciones contendida en los artículos 75, 89, 105, 108, 121,182, 192, 193, 195, 196, 197, 198, 247, 309, 310, 311, 321, 322, 323, 342 y 344 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 383.
 
-Se sancionará con multa equivalente de veinte y hasta cien veces el salario mínimo general diario vigente en la Entidad, la violación a las disposiciones contenidas en los artículos 43 segundo párrafo, 100, 109, 110, 111, 116, 117, 199, 200, 204, 205, 206, 215, 216, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 265, 266, 267, 268, 271, 272, 274 y 300 de esta Ley.
+Se sancionará con multa equivalente de veinte y hasta cien veces el salario mínimo general diario vigente en la Entidad, la violación a las disposiciones contenidas en los artículos 43 segundo párrafo, 100, 109, 110, 111, 116, 117, 199, 200, 204, 205, 206, 215, 216, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 265, 266, 267, 268, 271, 272, 274, 213, y 300 de esta Ley.
 
 La violación de las disposiciones contenidas en los artículos 144, 145, 317, 318, 319, 350, 362, 363, 364 y 365 de esta Ley, se sancionará con multa equivalente de cincuenta y hasta quinientas veces el salario mínimo general diario vigente en la Entidad.
 
@@ -3311,7 +3317,7 @@ TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
 
 P.O. 18 DE DICIEMBRE DE 2008.
 
-DECRETO 553, POR EL QUE SE ADICIONA AL TITULO TERCERO EL CAPITULO IX, CON LOS ARTICULOS, 67 BIS, 67 TER, 67 QUATER, 67 QUINQUE (SIC) Y 67 SEXTIES, A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSI.
+DECRETO 553, POR EL QUE SE ADICIONA AL TITULO TERCERO EL CAPITULO IX, CON LOS ARTICULOS, 67 BIS, 67 TER, 67 QUATER, 67 QUINQUE (SIC Y 67 SEXTIES, A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSI.
 
 PRIMERO. Este Decreto entrará en vigor a los quince días naturales siguientes a su publicación en el Periódico Oficial del Estado.
 
@@ -3340,3 +3346,9 @@ P.O. 30 DE JULIO DE 2009.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 12 DE JUNIO DE 2010.
+
+PRIMERO. Este Decreto entrará al día siguiente de su publicación el (sic) Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
