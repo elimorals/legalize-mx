@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2009-12-31"
+last_updated: "2010-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MARZO DE 2011 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -535,10 +537,6 @@ II. Por incapacidad permanente física o mental; o
 
 III. Porque exista sentencia judicial por delito doloso que haya causado estado, en la que se imponga como sanción la inhabilitación o cuando la pena impuesta exceda del término de su ejercicio.
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DEROGADA DE ESTE ARTÍCULO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-iv. (derogada, p.o. 5 de enero de 2007)
-
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
@@ -813,13 +811,15 @@ IX. Implementar instrumentos para la modernización administrativa y la mejora r
 
 X. Contribuir a la generación de empleos dentro del Municipio;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2011)</small>
 
-XI. Promover el registro y difusión del acontecer histórico y las tradiciones del Municipio, a través de las dependencias, órganos o entidades correspondientes, en los términos de la reglamentación respectiva; y
+XI. Promover el registro y difusión del acontecer histórico y las tradiciones del municipio, a través de las dependencias, órganos o entidades correspondientes, en los términos de la reglamentación respectiva;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE FEBRERO DE 2011)</small>
 
-XII. Las demás que les establezcan la Constitución Federal, Estatal y demás leyes, tanto federales y locales, y reglamentos.
+XII. Solicitar al Congreso del Estado, conjuntamente con otros municipios, la declaración de área o región metropolitana, así como individualmente su inclusión o exclusión de las mismas, en los términos de la ley de la materia;
+
+XIII. Las demás que les establezcan las constituciones federal y estatal y demás leyes, tanto federales y locales, y reglamentos.
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -1804,6 +1804,44 @@ XI. Centros culturales municipales; y
 XII. LOS DEMÁS QUE EL CONGRESO DEL ESTADO DETERMINE EN ATENCIÓN A LAS CONDICIONES TERRITORIALES Y SOCIOECONÓMICAS DE LOS MUNICIPIOS, ASÍ COMO A SU CAPACIDAD ADMINISTRATIVA Y FINANCIERA.
 
 Los Municipios deben expedir los ordenamientos municipales que regulen la prestación de estos servicios.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2011)</small>
+
+###### Artículo 94
+
+Bis. Son formas de coordinación y asociación municipal:
+
+I. Simple interna: la celebrada entre dos o más municipios del estado, a través de convenios de coordinación y asociación aprobados por los ayuntamientos respectivos, sin que se requiera intervención del Estado;
+
+II. Simple interestatal: la celebrada entre uno o más municipios del estado, con uno o más municipios de uno o más estados, a través de convenios de coordinación y asociación aprobados por los ayuntamientos respectivos, previa autorización del Congreso del Estado;
+
+III. Subsidiaria estatal: la celebrada a solicitud de uno o más municipios del estado con el Poder Ejecutivo del Estado, a través de convenios de coordinación y asociación aprobados por los ayuntamientos respectivos y el titular del Poder Ejecutivo, previa declaratoria del Congreso del Estado sobre la imposibilidad o incapacidad del municipio, para que el Poder Ejecutivo, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de la ejecución y operación de obras y de la prestación de servicios públicos municipales;
+
+IV. Coordinada estatal: la celebrada a solicitud de uno o más municipios del estado con el Poder Ejecutivo del Estado, a través de convenios de coordinación y asociación aprobados por los ayuntamientos respectivos y el titular del Poder Ejecutivo, para que éste de manera directa o a través del organismo correspondiente, realice de manera coordinada con los propios municipios, la ejecución y operación de obras y la prestación de servicios públicos municipales;
+
+V. Metropolitana interna: la celebrada entre dos o más municipios del estado a través de convenios de coordinación aprobados por los ayuntamientos respectivos, previa declaración del Congreso del Estado, bajo las modalidades de área o región metropolitanas, en los términos de la ley de la materia, y
+
+VI. Metropolitana interestatal: la celebrada entre uno o más municipios del estado con uno o más municipios de uno o más estados, todos colindantes entre sí y que compartan o tiendan a compartir un centro de población interestatal, a través de los instrumentos jurídicos que se establezcan en la ley federal de la materia, en los términos de la fracción VI del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2011)</small>
+
+###### Artículo 94
+
+Ter. Los municipios del estado que requieran celebrar convenios de coordinación y asociación con municipios de otros estados, en los términos de la fracción III del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deben solicitar la autorización previa del Congreso del Estado, de acuerdo con las siguientes bases generales:
+
+I. La solicitud debe presentarse ante el Congreso del Estado acompañando:
+
+a) Copia del acta de sesión de ayuntamiento en donde se apruebe solicitar al Congreso la autorización para celebrar el convenio respectivo, y
+
+b) Un anexo que contenga la explicación y justificación de los puntos que serían objeto del convenio y en su caso el anteproyecto del mismo;
+
+II. Una vez turnada la solicitud, la comisión competente puede requerir al municipio interesado información complementaria relativa a la explicación o justificación de los puntos objeto del convenio, dentro de los cinco días hábiles siguientes al turno, en cuyo caso los municipios tendrán cuando menos diez días hábiles y hasta el día de la votación del dictamen para presentar la información respectiva;
+
+III. La comisión debe notificar al ayuntamiento respectivo el proyecto de dictamen que resuelva sobre la autorización para celebrar el convenio, cuando menos con cinco días hábiles de anticipación a la fecha de la sesión en que se votará dicho dictamen, a efecto de que pueda participar con voz en su discusión un representante de aquél;
+
+IV. El Congreso del Estado debe notificar a los municipios de otros estados con que se pretenda celebrar el convenio respectivo, así como a las legislaturas correspondientes, el inicio del procedimiento de autorización, para los efectos legales procedentes, y
+
+V. El Congreso del Estado debe resolver mediante votación por mayoría absoluta sobre la autorización para celebrar el convenio, dentro de los sesenta días naturales siguientes a la presentación de la solicitud correspondiente.
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -2802,5 +2840,9 @@ DECRETO No. 23079/LVII/09 POR EL QUE SE REFORMAN LOS ARTICULOS 14, 24, 42 FRACCI
 P.O. 31 DE DICIEMBRE DE 2009.
 
 DECRETO No. 23084/LVIII/09 POR EL QUE SE REFORMA EL ARTICULO 79 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE FEBRERO DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
