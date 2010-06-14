@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-organico-del-instituto-de-seguridad-y-servicios-5039
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-08"
-last_updated: "2006-05-08"
+last_updated: "2010-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50395&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "AGU"
 
 REGLAMENTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de mayo de 2006.
 
@@ -733,3 +735,19 @@ REGLAMENTO APROBADO POR LA JUNTA DIRECTIVA
 EL DIRECTOR GENERAL DEL ISSSSPEA.
 
 Ing. Oscar A. González Muñoz.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE JUNIO DE 2010.
+
+###### ARTICULO PRIMERO
+
+Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO
+
+Se abroga el Reglamento Orgánico del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes, en fecha 8 de mayo de 2006.
+
+###### ARTICULO TERCERO
+
+Este Reglamento fue aprobado por la H. Junta Directiva del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, por acuerdo número 78.6.c.2010, dado en sesión ordinaria número 78, de fecha 31 de mayo de 2010.
