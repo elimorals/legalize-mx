@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-acceso-a-la-informacion-publica-del-estado-de-46752"
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-14"
-last_updated: "2005-10-14"
+last_updated: "2010-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE GUERRERO NUMERO 568
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NUMERO 374 DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 15 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 14 de octubre de 2005.
 
@@ -852,3 +854,29 @@ El Secretario General de Gobierno.
 LIC. ARMANDO CHAVARRIA BARRERA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JUNIO DE 2010.
+
+PRIMERO. La presente Ley entrará en vigor cuarenta y cinco días después de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. A partir de la entrada en vigor de la presente Ley queda abrogada la Ley de Acceso a la Información Pública del Estado de Guerrero número 568 promulgada el día diez de octubre del año dos mil cinco.
+
+TERCERO. El Instituto deberá elaborar los manuales, lineamientos, criterios generales y demás instrumentos relativos para el debido cumplimiento de la presente Ley, dentro de los dos meses siguientes a la publicación de la misma y programaran adecuadamente los cursos de capacitación para los sujetos obligados.
+
+CUARTO. Los sujetos obligados contarán con un plazo de ciento veinte días naturales posteriores a la entrada en vigor de esta Ley, para que lleven a cabo la difusión de la información pública de oficio y para proveer lo necesario para instalar las unidades de transparencia y acceso a la información.
+
+QUINTO. Los recursos humanos, materiales, financieros y obligaciones de la Comisión para el Acceso a la Información Pública del Estado de Guerrero se transferirán al Instituto de Transparencia y Acceso a la Información Pública del Estado de Guerrero. La transferencia se hará sin perjuicio de sus derechos adquiridos, los recursos presupuestales, el mobiliario, los vehículos, instrumentos, aparatos, maquinaria, archivos, y, en general, el equipo que hayan venido usando para la atención de los asuntos que tuvieron encomendados conforme a la Ley, con la intervención que corresponda a la Secretaría de Finanzas y Administración y a la Contraloría General del Estado.
+
+SEXTO. El Instituto deberá adecuar las disposiciones reglamentarias en materia de acceso a la información pública y protección de datos personales, en un plazo no mayor de 120 días naturales a partir de la entrada en vigor de la presente Ley.
+
+Los sujetos obligados con base a los lineamientos y criterios que emita el Instituto, expedirán o adecuarán los procedimientos para la atención de las solicitudes de acceso a la información, clasificación y conservación de documentos y organización de archivos.
+
+SÉPTIMO. La recepción de solicitudes de información, así como la presentación del recurso de revisión por medios electrónicos, se hará a partir de la implementación del sistema electrónico que dé cumplimiento al artículo tercero transitorio del decreto por el que se adiciona un segundo párrafo con siete fracciones al Artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+OCTAVO. Los recursos de reconsideración y revisión, así como las solicitudes de información presentadas antes de la entrada en vigor de la presente Ley, se resolverán de conformidad con las disposiciones vigentes al momento de su presentación.
+
+NOVENO. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, en un plazo de un año contado a partir de que entre en vigor la presente Ley.
+
+DÉCIMO. Para que el Instituto esté en condiciones de divulgar en el sistema electrónico, de manera subsidiaria, la información pública de oficio de los municipios de menos de 70,000 habitantes, el Congreso del Estado deberá hacer las previsiones presupuestales que se requieran.
