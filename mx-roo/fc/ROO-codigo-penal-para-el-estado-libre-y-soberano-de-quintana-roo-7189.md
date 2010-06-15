@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2010-05-14"
+last_updated: "2010-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -237,6 +237,8 @@ Las causas que excluyen el delito se investigarán y harán valer, en cualquier 
 
 ### CAPITULO II. PRISION
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2010)</small>
+
 ## TITULO TERCERO. PENAS Y MEDIDAS DE SEGURIDAD
 
 ### CAPITULO III. TRATAMIENTO EN LIBERTAD
@@ -277,7 +279,7 @@ XIV.- Las demás que prevenga la Ley.
 
 ###### ARTICULO 22.
 
-La prisión consiste en la privación de la libertad y su duración será de seis meses a treinta años.
+La prisión consiste en la privación de la libertad y su duración será de seis meses a cincuenta años o pena vitalicia. Sólo en los casos en que la Ley expresamente lo autorice, se podrá imponer prisión vitalicia.
 
 ### CAPITULO V. VIGILANCIA DE LA AUTORIDAD
 
@@ -290,6 +292,8 @@ Cuando el sujeto haya sido sentenciado por un delito que obedezca a la inclinaci
 Cuando se trate de penas no privativas o restrictivas de la libertad, el tratamiento no excederá de seis meses.
 
 ### CAPITULO VI. MULTA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 24.
 
@@ -311,7 +315,7 @@ La vigilancia consistirá en ejercer sobre aquél, observación y orientación d
 
 ###### ARTICULO 26.
 
-La multa consiste en el pago de una cantidad de dinero al Estado, que se fijará por días multa, los cuales no podrán exceder de quinientos.
+La multa consiste en el pago de una cantidad de dinero al Estado, que se fijará por días multa, los cuales no podrán exceder de tres mil.
 
 Para los efectos de este Código el día multa será el equivalente al salario mínimo diario vigente en el lugar donde se cometió el delito.
 
@@ -949,6 +953,8 @@ Las lesiones previstas en el Artículo 99 se perseguirán por querella de parte 
 
 ### CAPITULO II. SECUESTRO
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 105.
 
 Para los efectos de este Código, riña es la contienda de obra o la agresión física de una parte y la disposición material para contender de la otra, con el propósito de dañarse recíprocamente, cualquiera que sea el número de contendientes.
@@ -1103,33 +1109,51 @@ Este delito se perseguirá por querella.
 
 ###### ARTICULO 117.
 
-Al que prive a otro de la libertad, se le aplicará prisión de cinco a veinte años y multa de veinticinco a ciento cincuenta días multa, si el hecho se realiza con el propósito de:
+Al que prive a otro de la libertad, se le aplicará prisión de diez a veinticinco años y de mil quinientos a dos mil días multa, si el hecho se realiza con el propósito de:
 
-I.- Obtener un rescate;
+I.- Obtener un rescate o cualquier otro beneficio;
 
-II.- Que la autoridad realice o deje de hacer un acto de cualquier índole, o
+II.- Que la autoridad, un familiar o un particular realice o deje de realizar un acto de cualquier índole; o
 
-III.- Causar daño o perjuicio al secuestrado o a persona distinta relacionada con él.
+III.- Causar daño o perjuicio al secuestrado o a persona distinta relacionada con él;
+
+IV.- Cometer secuestro exprés, entendiéndose por éste, el que, para ejecutar el delito de robo o extorsión, prive de la libertad a otro, independientemente de la sanción que conforme al Código Penal del Estado, le corresponda por los otros delitos que de su conducta resulten.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 118.
 
-La pena señalada en el artículo anterior se incrementará hasta en una mitad más, si concurre alguna de las circunstancias siguientes:
+Al que bajo las siguientes circunstancias prive a otro de la libertad, se le aplicara:
 
-I.- Que se realice en un lugar desprotegido o solitario;
+I.- De veinticinco a cincuenta años de prisión y de dos mil a dos mil quinientos días multa, cuando:
 
-II.- Que el agente sea autoridad, o se ostente como tal;
+1.- Se realice en un lugar desprotegido o solitario;
 
-III.- Que se lleve a cabo en grupo de tres o más personas;
+2.- Se realice con violencia; o
 
-IV.- Que se realice con violencia, se veje o se torture a la víctima, o
+3.- Se lleve a cabo en grupo de dos o más personas;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2006)</small>
+II.- De veinticinco años a cincuenta años de prisión o prisión vitalicia y de dos mil quinientos a tres mil días multa, cuando:
 
-V.- Que la víctima sea una persona menor de dieciocho o mayor de setenta años de edad, o que por cualquier otra circunstancia esté en situación de inferioridad respecto del agente.
+1.- Que para privar de su libertad a una persona se allane el bien inmueble en que ésta se encuentra;
+
+2.- El sujeto activo del delito sea o haya sido, o se ostente sin serlo, integrante de alguna institución policial o servidor público en alguna de las áreas de prevención o persecución de delitos, administración de justicia o readaptación social; o tenga alguna relación de confianza, laboral, de parentesco o de negocios con la víctima o con sus familiares;
+
+3.- Se lesione, o se torture, o se viole o se prive de la vida a la víctima; o
+
+4.- Que la víctima sea una persona menor de dieciocho o mayor de setenta años de edad, o que por cualquier otra circunstancia esté en situación de inferioridad física o mental respecto del que lo ejecuta.
+
+5.- Que la victima sea una mujer en estado de gravidez.
+
+A los sentenciados por el delito de secuestro previsto en este artículo no se les concederán los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 119.
 
-Si el agente espontáneamente pone en libertad al secuestrado dentro de los tres días siguientes a la comisión del delito, la pena será de dos a siete años de prisión, siempre y cuando el sujeto no haya logrado los propósitos a que se refieren las fracciones establecidas en el artículo 117.
+Si el agente espontáneamente pone en libertad al secuestrado dentro de los tres días siguientes a la comisión del delito, la pena será de cuatro a ocho años de prisión, siempre y cuando el sujeto no haya logrado los propósitos a que se refieren las fracciones establecidas en el artículo 117.
+
+En los demás casos en que espontáneamente se libere al secuestrado, la pena será de ocho a veinte años de prisión, siempre y cuando el sujeto no haya logrado los propósitos a que se refieren las fracciones establecidas en el artículo 117.
 
 ### CAPITULO UNICO(sic). ALLANAMIENTO DE MORADA EN ESTABLECIMIENTO PUBLICO CERRADO
 
@@ -2956,3 +2980,15 @@ SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto
 T R A N S I T O R I O:
 
 ÚNICO.- ÚNICO (SIC).- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 15 DE JUNIO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las personas que hayan cometido el delito de secuestro con anterioridad a la entrada en vigor del presente Decreto, incluidas las sentenciadas o procesadas, les serán aplicadas las disposiciones vigentes al momento de su comisión.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
