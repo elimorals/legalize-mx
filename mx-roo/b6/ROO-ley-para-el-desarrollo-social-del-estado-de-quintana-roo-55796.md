@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-el-desarrollo-social-del-estado-de-quintana-roo-55796"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-30"
-last_updated: "2007-05-30"
+last_updated: "2010-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 30 de mayo de 2007.
 
@@ -105,7 +105,9 @@ IV. COPLADEMUN. El Comité de Planeación para el Desarrollo que se instituya en
 
 V. Ley. La Ley de Desarrollo Social del Estado de Quintana Roo;
 
-VI. Padrón: El padrón de beneficiarios de programas de desarrollo social;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2010)</small>
+
+VI. Padrón. Relación oficial de beneficiarios que incluye a las personas habitantes del Estado, atendidas por los programas, municipales, estatales y federales de desarrollo social;
 
 VII. Padrón Municipal. El padrón de beneficiarios de programas de desarrollo social, que se instituya en cada uno de los Municipios del Estado;
 
@@ -123,9 +125,17 @@ XIII. Registro. El Registro de Organizaciones para el Desarrollo Social;
 
 XIV. Secretaría. La Secretaría de Planeación y Desarrollo Regional;
 
-XV. Sistema Estatal. El Sistema Estatal de Desarrollo Social de Quintana Roo; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2010)</small>
 
-XVI. Subcomité Sectorial. El Subcomité Sectorial de Desarrollo Social del Comité de Planeación para el Desarrollo del Estado de Quintana Roo.
+XV. Sistema Estatal. El Sistema Estatal de Desarrollo Social de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2010)</small>
+
+XVI. Subcomité Sectorial. El Subcomité Sectorial de Desarrollo Social del Comité de Planeación para el Desarrollo del Estado de Quintana Roo; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2010)</small>
+
+XVII. Infraestructura Social Básica. Infraestructura encaminada a mejorar las condiciones sociales de vida de la población en materia de educación básica, salud, vivienda, urbanización, electrificación, agua potable, caminos e infraestructura productiva rural.
 
 ###### Artículo 4.
 
@@ -143,7 +153,15 @@ V. Marginación. Características o situación en la que se encuentra un ser hum
 
 VI. Organizaciones para el Desarrollo Social. Agrupaciones civiles y sociales, legalmente constituidas, en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social;
 
-VII. Pobreza. A la carencia de lo necesario para el sustento de la vida y la satisfacción de las necesidades básicas, como una alimentación adecuada, el mantenimiento de la salud, una vivienda apropiada al tamaño de la familia, educación básica, recreación y cultura, vestido, servicios y tiempo libre, originadas por la baja capacidad de ingreso o condiciones de desigualdad, dependencia, explotación o falta de desarrollo de las capacidades o de bienestar;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2010)</small>
+
+VII. Pobreza. A la carencia de lo necesario para el sustento de la vida por la baja capacidad de ingreso o condiciones de desigualdad, dependencia, explotación o falta de desarrollo de las capacidades o de bienestar, existiendo tres tipos de pobreza:
+
+a) Pobreza Alimentaria: Se da en hogares cuyo ingreso por persona es menor al necesario para cubrir las necesidades de alimentación.
+
+b) Pobreza de Capacidades: Seda en hogares cuyo ingreso por persona es menor al necesario para cubrir el patrón de consumo básico de alimentación, salud y educación.
+
+c) Pobreza Patrimonial: Seda en hogares cuyo ingreso por persona es menor al necesario para cubrir el patrón de consumo básico de vestido, calzado, vivienda y transporte público;
 
 VIII. Políticas compensatorias y asistenciales. Las acciones del Estado orientadas a beneficiar a una persona o grupo social determinado para lograr equipararlo en oportunidades y permitir su acceso a niveles mínimos de bienestar;
 
@@ -151,7 +169,9 @@ IX. Política de desarrollo social. La que realiza la Entidad y está destinada 
 
 X. Política Pública. Conjunto de estrategias, programas y acciones de gobierno y de la sociedad que, de manera integral y con una visión común, articulan procesos que potencien y garanticen el bienestar y calidad de vida para la sociedad;
 
-XI. Práctica discriminatoria. Cualquier acto u omisión cometido por un servidor público, institución pública de cualquier orden de gobierno y organización social que tienda a impedir el acceso y disfrute de alguna persona de las acciones o programas de desarrollo social; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2010)</small>
+
+XI. Práctica discriminatoria. Cualquier acto u omisión cometido por un servidor público, institución pública de cualquier orden de gobierno y organización social que tienda a impedir el acceso y disfrute de alguna persona de las acciones o programas de desarrollo social;
 
 XII. Situación de vulnerabilidad. Aquellos individuos o grupos sociales que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, por lo tanto, requieren de la atención e inversión pública para lograr su bienestar;
 
@@ -159,7 +179,13 @@ XIII. Cohesión Social. Se entiende por cohesión social a los procesos que empr
 
 XIV. Exclusión Social. Proceso mediante el cual los individuos o los grupos son total o parcialmente excluidos de una participación plena en la sociedad en la que viven;
 
-XV. Contingencia Social. Es la aparición eventual en la situación de una sociedad de condiciones que, a través de una serie de sucesos imprevistos, los cuales, originados por problemas de tipo económico, presupuestal, y por fenómenos naturales, derivan en diversas carencias que afectan directamente a los individuos de la propia sociedad.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2010)</small>
+
+XV. Contingencia Social. Es la aparición eventual en la situación de una sociedad de condiciones que, a través de una serie de sucesos imprevistos, los cuales, originados por problemas de tipo económico, presupuestal, y por fenómenos naturales, derivan en diversas carencias que afectan directamente a los individuos de la propia sociedad; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2010)</small>
+
+XVI. Reglas de Operación: Documento normativo que establece aspectos técnicos y operativos en materias específicas, tiene como propósito establecer medidas de carácter técnico-operativo de una actividad; debe emitirse poro ordenar y coordinar las actividades del programa social al que se refiere en un contexto determinado.
 
 ###### Artículo 5.
 
@@ -187,9 +213,23 @@ VIII.- Sustentabilidad. La preservación del equilibrio ecológico, la protecci�
 
 IX.- Transparencia. La práctica institucional que bajo el principio de publicidad tiene por objeto difundir de manera objetiva, oportuna, veraz y sistemática, la información pública gubernamental relativa a los programas de desarrollo social, así como procurar el derecho de acceso a la misma y la rendición de cuentas derivadas del gasto de los recursos aplicados a dichos programas;
 
-X.- Diversidad. El reconocimiento en términos de origen étnico o racial, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2010)</small>
 
-XI.- Libre determinación y autonomía de los pueblos indígenas y sus comunidades. Reconocimiento en el marco constitucional a las formas internas de convivencia y de organización; ámbito de aplicación de sus propios sistemas normativos; elección de sus autoridades o representantes; medios para preservar y enriquecer sus lenguas y cultura; medios para conservar y mejorar su hábitat; acceso preferente a sus recursos naturales y acceso pleno a la jurisdicción del Estado.
+X. Diversidad. El reconocimiento en términos de origen étnico o racial, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+
+XI.- Libre determinación y autonomía de los pueblos Indígenas y sus comunidades. Reconocimiento en el marco constitucional a las formas internas de convivencia y de organización; ámbito de aplicación de sus propios sistemas normativos; elección de sus autoridades o representantes; medios para preservar y enriquecer sus lenguas y cultura; medios para conservar y mejorar su hábitat; acceso preferente a sus recursos naturales y acceso pleno o la jurisdicción del Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2010)</small>
+
+XII.- Justicia Distributiva. Establece y garantiza que los beneficiarios reciban de manera equitativa los beneficios del desarrollo social conforme o sus necesidades, sus posibilidades y las de las demás personas;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2010)</small>
+
+XIII.- Justicia Conmutativa. Establece y garantizo que las personas reciban los beneficios del desarrollo comprometiéndolos al cumplimiento de las obligaciones inherentes a los mismos; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2010)</small>
+
+XIV.- Bien común: Conjunto de condiciones sociales que permiten que todos los habitantes tengan acceso o una vida más justa, equitativa y equilibrada, favoreciendo el desarrollo integral de todos y cada uno de los miembros de lo comunidad.
 
 ###### Artículo 7.
 
@@ -245,9 +285,17 @@ VI.- El derecho al trabajo y la seguridad social;
 
 VII.- El derecho a la equidad y la igualdad;
 
-VIII.- El derecho a la organización social y al desarrollo comunitario; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2010)</small>
 
-IX.- El derecho al agua potable.
+VIII.- El derecho a la organización social y al desarrollo comunitario;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2010)</small>
+
+IX.- El derecho al agua potable; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2010)</small>
+
+X.- Los derechos relativos a la no discriminación en los términos de la Constitución Política de los Estados Unidos Mexicanos;
 
 ###### Artículo 13.
 
@@ -443,9 +491,17 @@ VI.- Fomentar la igualdad de oportunidades económicas y aprovechar la capacidad
 
 VII.- Coordinar esfuerzos, objetivos, estrategias y acciones entre los órdenes de gobierno para lograr la integralidad, sustentabilidad y sostenibilidad del desarrollo social;
 
-VIII.- Establecer programas especiales para atender a los grupos sociales en situación de marginación, vulnerabilidad y pobreza; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2010)</small>
 
-IX.- Promover y garantizar formas propias de organización y participación de la sociedad en la formulación, instrumentación, control, seguimiento, evaluación y actualización de los programas y las políticas de desarrollo social.
+VIII.- Establecer programas especiales para atender a los grupos sociales en situación de marginación, vulnerabilidad y pobreza;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2010)</small>
+
+IX.- Promover y garantizar formas propias de organización y participación de la sociedad en la formulación, instrumentación, control, seguimiento, evaluación y actualización de los programas y las políticas de desarrollo social; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2010)</small>
+
+X.- Mejorar la calidad de vida en las ciudades, con énfasis en los grupos sociales en condición de pobreza, a través de la provisión de infraestructura social básica, vivienda digna y consolidar ciudades eficientes, seguras y competitivas.
 
 ###### Artículo 25.
 
@@ -457,7 +513,9 @@ II.- Seguridad social y programas asistenciales;
 
 III.- Desarrollo regional y municipal;
 
-IV.- Promoción de la participación ciudadana en el desarrollo social;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2010)</small>
+
+IV.- Infraestructura social básica;
 
 V.- Fomento del sector social de la economía; y
 
@@ -493,9 +551,17 @@ V.- Propiciar la incorporación de las mujeres indígenas al desarrollo;
 
 VI.- Extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación y telecomunicación;
 
-VII.- Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la aplicación de estímulos para las inversiones públicas y privadas que propicien la creación de empleos, la incorporación de tecnologías para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2010)</small>
 
-VIII.- Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas, tanto en el territorio nacional como en el extranjero, mediante acciones para garantizar los derechos laborales de los jornaleros agrícolas; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas.
+VII.- Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la aplicación de estímulos para las inversiones públicas y privadas que propicien la creación de empleos, la incorporación de tecnologías para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2010)</small>
+
+VIII.- Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas, tanto en el territorio nacional como en el extranjero, mediante acciones para garantizar los derechos laborales de los jornaleros agrícolas; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2010)</small>
+
+IX.- Atender las necesidades de infraestructura social básica de aquellas comunidades cuyo déficit impida la mejoría en las condiciones sociales de vida de los pueblos indígenas, a través de programas coordinados de atención integral comunitaria.
 
 ###### Artículo 28.
 
@@ -1151,11 +1217,11 @@ V.- Presentar ante la autoridad competente las quejas y denuncias que puedan dar
 
 Con el propósito de asegurar la transparencia, la equidad y la eficacia de los programas de desarrollo social, el gobierno estatal y los gobiernos municipales, en sus ámbitos de competencia, integrarán sus padrones de beneficiarios.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2010)</small>
+
 ###### Artículo 103.
 
-El Padrón es la relación oficial de beneficiarios que incluye a las personas atendidas por los programas de desarrollo social.
-
-El Padrón deberá ser publicado anualmente en el Periódico Oficial del Gobierno del Estado, así como a través de los medios digitales que brinda la red informática. En el caso de los Ayuntamientos, el Cabildo deberá instruir su difusión masiva, además de impulsar la colocación de reproducciones impresas con dicha información, a fin de que se conozca la misma, en los lugares visibles de los principales edificios públicos asentados dentro de su circunscripción territorial.
+El Padrón deberá ser publicado anualmente en el Periódico Oficial del Estado, así como a través de los medios digitales que brinda la red informática. En el caso de los Ayuntamientos, el Cabildo deberá instruir su difusión masiva, además de impulsarla colocación de reproducciones impresas con dicha información, a fin de que se conozca la misma, en los lugares visibles de los principales edificios públicos asentados dentro de su circunscripción territorial.
 
 ###### Artículo 104.
 
@@ -1296,3 +1362,13 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTA ROO
 
 ROSARIO ORTIZ YALADAQUI
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE JUNIO DE 2010.
+
+ÚNICO.- El presente Decreto entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
