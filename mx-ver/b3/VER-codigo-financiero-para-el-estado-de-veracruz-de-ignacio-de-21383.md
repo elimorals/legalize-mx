@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2010-01-26"
+last_updated: "2010-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE JUNIO DE 2010.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -1861,23 +1861,35 @@ En aquellos casos, en que por circunstancias especiales el Ejecutivo del Estado 
 
 Por servicios prestados por la Secretaría de Gobierno, a través de las dependencias que se mencionan a continuación, se causarán y pagarán los derechos siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, G.O. 30 DE ABRIL DE 2009)</small>
 
 A. Por servicios del Registro Público de la Propiedad y de Comercio:
 
-I. Por la inscripción de documentos que contengan actos jurídicos relativos a resoluciones judiciales o administrativas y testimonios notariales en los cuales se establezca, declare, transfiera, adquiera, modifique o extinga el dominio de la propiedad o la posesión, de bienes inmuebles o derechos reales, se causarán y pagarán previamente por cada acto, tomando como base el valor mayor que resulte de comparar el valor de operación, el de avalúo, el de inversión o el catastral asignado por la oficina correspondiente: Por cada $100.00 o fracción: $0.80.
+(NOTA: EL 4 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2010, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL APARTADO A FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE ENERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Cuando el objeto del acto jurídico sean dos o más inmuebles deberá expresarse en el documento respectivo el valor de cada uno de ellos para efectos de la aplicación de la tarifa de esta fracción y deberá pagarse por separado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Cuando se trate del derecho real de usufructo, por cuanto hace a la constitución a que se refiere el artículo 1013 del Código Civil del Estado, así como de la renuncia o extinción, el cálculo de los derechos se hará sobre el 50% del valor que sirva de base conforme al párrafo anterior.
+> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2010)</small>
 
-En el caso de extinción del usufructo por fallecimiento del usufructuario, previsto en el artículo 1071 fracción I del Código Civil, deberán pagarse: 5 salarios mínimos.
+I. POR LA INSCRIPCIÓN DE DOCUMENTOS QUE CONTENGAN ACTOS JURÍDICOS RELATIVOS A RESOLUCIONES JUDICIALES O ADMINISTRATIVAS Y TESTIMONIOS NOTARIALES EN LOS CUALES SE ESTABLEZCA, DECLARE, TRANSFIERA, ADQUIERA, MODIFIQUE O EXTINGA EL DOMINIO DE LA PROPIEDAD O LA POSESIÓN, DE BIENES INMUEBLES O DERECHOS REALES, SE CAUSARÁN Y PAGARÁN PREVIAMENTE POR CADA ACTO, TOMANDO COMO BASE EL VALOR MAYOR QUE RESULTE DE COMPARAR EL VALOR DE OPERACIÓN, EL DE AVALÚO, EL DE INVERSIÓN O EL CATASTRAL ASIGNADO POR LA OFICINA CORRESPONDIENTE:
 
-Por la inscripción de la declaración de lo edificado, modificación, reordenamiento de la construcción de un inmueble, se aplicará la tasa señalada en el párrafo primero de esta fracción.
+POR CADA $100.00 O FRACCIÓN: $0.80
 
-En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos ni mayor de 300 salarios mínimos.
+CUANDO SE TRATE DEL DERECHO REAL DE USUFRUCTO, POR CUANTO HACE A LA CONSTITUCIÓN A QUE SE REFIERE EL ARTÍCULO 1013 DEL CÓDIGO CIVIL DEL ESTADO, ASÍ COMO DE LA RENUNCIA O EXTINCIÓN, EL CÁLCULO DE LOS DERECHOS SE HARÁ SOBRE EL 50% DEL VALOR QUE SIRVA DE BASE CONFORME AL PÁRRAFO ANTERIOR.
+
+En el caso de extinción del usufructo por fallecimiento del usufructuario, previsto en el artículo 1071 fracción I del Código Civil, deberán pagarse:
+
+5 salarios mínimos
+
+(NOTA: EL 4 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2010, DECLARÓ LA INVALIDEZ DEL APARTADO A FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, SALVO POR LO QUE SE REFIERE A SU PÁRRAFO TERCERO, LA CUAL SURTIÓ EFECTOS EL 7 DE ENERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+POR LA INSCRIPCIÓN DE LA DECLARACIÓN DE LO EDIFICADO, MODIFICACIÓN, REORDENAMIENTO DE LA CONSTRUCCIÓN DE UN INMUEBLE, SE APLICARÁ LA TASA SEÑALADA EN EL PÁRRAFO PRIMERO DE ESTA FRACCIÓN.
+
+(NOTA: EL 4 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2010, DECLARÓ LA INVALIDEZ DEL APARTADO A FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, SALVO POR LO QUE SE REFIERE A SU PÁRRAFO CUARTO, LA CUAL SURTIÓ EFECTOS EL 7 DE ENERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+EN NINGUNO DE LOS CASOS CONTENIDOS EN LOS PÁRRAFOS DE LA PRESENTE FRACCIÓN, CON EXCEPCIÓN DE LO PREVISTO EN EL PÁRRAFO TERCERO, LA CANTIDAD A PAGAR PODRÁ SER MENOR DE 10 SALARIOS MÍNIMOS NI MAYOR DE 300 SALARIOS MÍNIMOS.
 
 II. Por el registro de operaciones relativas a fraccionamientos de inmuebles:
 
@@ -8626,3 +8638,9 @@ G.O. 26 DE ENERO DE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Todos aquellos casos que se encuentren en trámite a la entrada en vigor de estas reformas, continuarán rigiéndose por las normas vigentes y se resolverán conforme a ellas.
+
+G.O. 16 DE JUNIO DE 2010.
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes a su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
