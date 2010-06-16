@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2009-12-30"
+last_updated: "2010-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -1719,6 +1719,12 @@ V. El fortalecimiento de la participación ciudadana para el cumplimiento de los
 
 VI. La aplicación de los conocimientos y descubrimientos científicos para el logro de lo expuesto en las fracciones anteriores del presente artículo.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2010)</small>
+
+Artículo 114 bis.- Cuando de las acciones realizadas dentro de la entidad, derivadas del ejercicio de los Cuerpos de Seguridad Pública o de las fuerzas armadas federales, cuya finalidad haya sido preservar la seguridad pública, por las cuales se haya causado daño o perjuicio a las personas o sus bienes, el Titular del Poder Ejecutivo del Estado, adoptará de inmediato las providencias necesarias que permitan salvaguardar la vida y la integridad personal de los afectados, así como resarcir en la medida presupuestal autorizada el daño causado, por conducto de la Secretaría de Finanzas y Planeación del Gobierno del Estado, de las que deberá informar al Congreso de la entidad, al rendir la Cuenta Pública correspondiente.
+
+Lo anterior independientemente y sin perjuicio de las pretensiones o acciones que correspondan a los afectados, de conformidad con lo dispuesto por el Artículo 113 Segundo (sic) párrafo de la Constitución Política de los Estados Unidos Mexicanos.
+
 ### CAPÍTULO II. DE LA PARTICIPACIÓN DE LA SOCIEDAD
 
 ###### Artículo 115.
@@ -2624,3 +2630,13 @@ P.O. 30 DE DICIEMBRE DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo del Estado, promoverá el ajuste presupuestal en un periodo no mayor a treinta días por conducto de la Secretaría de Finanzas y Planeación para el efecto de dar cumplimiento al presente decreto.
