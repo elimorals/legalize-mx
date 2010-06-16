@@ -4,7 +4,7 @@ identifier: "CHP-estatuto-organico-de-la-universidad-intercultural-de-chiapas-50
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-04-26"
-last_updated: "2006-04-26"
+last_updated: "2010-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 ESTATUTO ORGANICO DE LA UNIVERSIDAD INTERCULTURAL DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
 
 Estatuto publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 26 de abril de 2006.
 
@@ -105,27 +105,41 @@ Las funciones académicas de la Universidad se realizarán a través de:
 
 I. La Secretaría Académica;
 
-II. Las Direcciones de División; y,
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2010)</small>
 
-III. Las Direcciones de Programas Académicos.
+II. Las Direcciones de División;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2010)</small>
+
+III. Las Direcciones de Programas Académicos; y,
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2010)</small>
+
+IV. Unidades Académicas Multidisciplinarias.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
 
 ###### Artículo 12.
 
-Las funciones de apoyo administrativo de la Universidad, se realizarán a través de las áreas de procesos y estarán determinadas por el Reglamento Interno y serán las siguientes:
+Las funciones de apoyo administrativo de la Universidad, se realizarán a través de los departamentos y estarán determinadas por el presente Estatuto Orgánico de la Universidad y serán las siguientes:
 
-I. Área de Procesos de Recursos Humanos;
+I. Departamento de Recursos Humanos;
 
-II. Área de Procesos de Recursos Financieros; y,
+II. Departamento de Recursos Financieros; y,
 
-III. Área de Procesos de Recursos Materiales y Servicios.
+III. Departamento de Recursos Materiales y Servicios.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
 
 ###### Artículo 13.
 
 La Universidad contará con las siguientes áreas staff:
 
-I. La Coordinación de Planeación; y,
+I. La Coordinación de Planeación;
 
-II. La Coordinación de Extensión y Difusión Universitaria.
+II. La Coordinación de Extensión y Difusión Universitaria; y,
+
+III. Unidad de Informática.
 
 ###### Artículo 14.
 
@@ -149,9 +163,11 @@ El Abogado General, los Secretarios, Directores de División, Directores de Prog
 
 ### Capítulo I. Del Consejo Directivo
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
+
 ###### Artículo 17.
 
-El Consejo Directivo es el órgano de gobierno de la Universidad, a quien corresponde el ejercicio de las atribuciones señaladas en el Artículo 10, del Decreto de Creación, así como el cumplimiento de las obligaciones establecidas en otros ordenamientos legales. Las determinaciones del Consejo Directivo serán obligatorias para el Rector, divisiones académicas y unidades administrativas y jurídicas que integran la Universidad.
+El Consejo Directivo es el órgano de gobierno de la Universidad, a quien corresponderá el ejercicio de las atribuciones señaladas en el Artículo 10, del Decreto de Creación, así como el cumplimiento de las obligaciones establecidas en otros ordenamientos legales. Las determinaciones del Consejo Directivo serán obligatorias para el Rector, divisiones académicas, Unidades Académicas Multidisciplinarias, administrativas y jurídicas que integran la Universidad.
 
 ###### Artículo 18.
 
@@ -385,9 +401,31 @@ XVII. Coordinar, por acuerdo de las autoridades competentes, las actividades dep
 
 XVIII. Las demás análogas o que le atribuyan expresamente los reglamentos.
 
-### Capítulo VII. Secretaría Académica
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 16 DE JUNIO DE 2010)</small>
 
-### Capítulo VIII. Área de Procesos de Vinculación con la Comunidad y Servicio Social
+### Capítulo VI Bis
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2010)</small>
+
+###### Artículo 24 Bis.
+
+Corresponderá, a la Unidad de Informática las siguientes funciones:
+
+l. Proponer y aplicar las políticas y procedimientos que en materia de tecnologías de la información y comunicaciones establezca la Universidad.
+
+II. Coordinar las asesorías y capacitación en el uso de sistemas y bienes informáticos al personal de la Universidad.
+
+III. Coordinar el desarrollo del Sistema Integral de Información Administrativa Institucional.
+
+IV. Administrar y diseñar la pagina institucional.
+
+V. Proponer proyectos tecnológicos al Titular de la Universidad.
+
+VI. Establecer mecanismos de soporte técnico para los bienes informáticos, electrónicos y de comunicaciones de la Universidad.
+
+VII. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como las que le asigne el Titular de la Universidad.
+
+### Capítulo VII. Secretaría Académica
 
 ###### Artículo 25.
 
@@ -445,7 +483,9 @@ XXI. Actualizar ante la Secretaría de Educación y ante la Secretaría de Educa
 
 XXII. Recibir y difundir la información que en materia de intercambio celebre la Universidad con otras instituciones, en lo que se refiere al otorgamiento de apoyos Académicos a favor de la Universidad;
 
-XXIII. Supervisar la aplicación de los recursos financieros asignados a los programas de intercambio Académico;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2010)</small>
+
+XXIII. Supervisar el funcionamiento de las Unidades Académicas Multidisciplinarias;
 
 XXIV. Impulsar y supervisar programas de vinculación social universitaria;
 
@@ -465,7 +505,7 @@ XXXI. Coordinar e integrar las propuestas de requisición de material biblioheme
 
 XXXII. Las demás que determine la normatividad universitaria, o en su caso, el Rector.
 
-### Capítulo IX. Área de Procesos de Servicios Escolares
+### Capítulo VIII. Área de Procesos de Vinculación con la Comunidad y Servicio Social
 
 ###### Artículo 28.
 
@@ -509,7 +549,7 @@ XVIII. Proponer políticas, criterios y prioridades para el otorgamiento de beca
 
 XIX. Las demás que determine la normatividad universitaria, o en su caso el Secretario Académico.
 
-### Capítulo X. Área de Procesos de Servicios de Información
+### Capítulo IX. Área de Procesos de Servicios Escolares
 
 ###### Artículo 29.
 
@@ -539,7 +579,7 @@ XI. Controlar que el número de matrícula de los estudiantes de nuevo ingreso s
 
 XII. Realizar todas aquellas actividades necesarias y convenientes para el logro de los objetivos y las que le señale con esa finalidad el Secretario Académico o se encuentren consignadas en la legislación universitaria.
 
-### Capítulo XI. Direcciones de División
+### Capítulo X. Área de Procesos de Servicios de Información
 
 ###### Artículo 30.
 
@@ -567,7 +607,7 @@ X. Apoyar a los titulares de las entidades académicas en el desarrollo e implan
 
 XI. Realizar todas aquellas actividades contempladas en la legislación universitaria y las que le señale el Secretario Académico.
 
-### Capítulo XII. Del Consejo Social
+### Capítulo XI. Direcciones de División
 
 ###### Artículo 31.
 
@@ -601,9 +641,41 @@ XIII. Proponer estrategias que coadyuven a lograr la exitosa titulación de los 
 
 XIV. Las demás que le confieran otras disposiciones aplicables y aquellas que le encomiende el Secretario Académico.
 
-### Capítulo XIII. Del Consejo de Desarrollo Institucional
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 16 DE JUNIO DE 2010)</small>
 
-### Capítulo I. Del Personal Académico
+### Capítulo XI Bis
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2010)</small>
+
+###### Artículo 31 Bis.
+
+Corresponde a las Unidades Académicas Multidisciplinarias las siguientes funciones:
+
+I. Desarrollar los programas educativos en coordinación con las Divisiones de Procesos.
+
+II. Vigilar el cumplimiento de las normas, políticas y procedimientos establecidos en la Legislación Universitaria.
+
+III. Vigilar el proceso de aprendizaje de los estudiantes.
+
+IV. Proponer procesos de investigación a través de los cuerpos académicos.
+
+V. Proponer las plantillas del personal docente de la Unidad Académica Multidisciplinaria.
+
+VI. Coordinar la evaluación del desempeño docente de la Unidad Académica Multidisciplinaria.
+
+VII. Proponer diagnósticos de necesidades de la Unidad Académica Multidisciplinaria.
+
+VIII. Proponer convenios de intercambio académico con instituciones nacionales e internacionales con presencia en la región.
+
+IX. Coordinar las actualizaciones de los programas educativos y de asignatura de la Unidad Académica Multidisciplinaria.
+
+X. Coordinar la operación del Programa Institucional de Tutorías de los estudiantes de la Unidad Académica Multidisciplinaria.
+
+XI. Vigilar el cumplimiento de la normatividad en materia de recursos humanos, financieros y materiales.
+
+XII. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como las que le asigne el Titular de la Universidad.
+
+### Capítulo XII. Del Consejo Social
 
 ###### Artículo 32.
 
@@ -623,7 +695,7 @@ El Consejo Social informará a la Rectoría de sus actividades cada seis meses.
 
 La Universidad por conducto del Rector podrá pedir al Consejo Social la realización de actividades concretas, para la consecución de sus objetivos y éste deberá ejecutarlas.
 
-### Capítulo II. Actividades de Docencia e Investigación
+### Capítulo XIII. Del Consejo de Desarrollo Institucional
 
 ###### Artículo 36.
 
@@ -635,7 +707,7 @@ El Consejo de Desarrollo Institucional deberá de observar todo lo previsto en l
 
 ## Título Tercero. Del personal
 
-### Capítulo III. Del Personal de Servicios Administrativos
+### Capítulo I. Del Personal Académico
 
 ###### Artículo 38.
 
@@ -665,6 +737,10 @@ El personal académico que no tenga nombramiento definitivo, se considerará por
 
 El ingreso, promoción y permanencia del personal académico es derecho exclusivo de la Universidad. Los procedimientos de ingreso, promoción y permanencia estarán señalados en el Reglamento de Ingreso, Permanencia y Promoción, que para ese efecto se emita, el cual también consignará los derechos y obligaciones.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2010)</small>
+
+El ingreso, promoción y permanencia del personal académico de tiempo completo, será siempre a través de concurso de oposición ante una Comisión Dictaminadora, que podrá integrarse en algunos casos con personal externo de la Universidad, siempre y cuando sean académicos de reconocido prestigio.
+
 ###### Artículo 43.
 
 Cualquier miembro del personal académico designado para el desempeño de un cargo administrativo dentro de la Universidad, no perderá sus derechos de antigüedad o cualesquiera otros que le pertenezcan.
@@ -677,13 +753,13 @@ La Rectoría podrá acordar excepcionalmente la participación en un concurso de
 
 El personal académico de tiempo completo recibirá su nombramiento, expedido por el Rector.
 
-### Capítulo I. Generalidades
+### Capítulo II. Actividades de Docencia e Investigación
 
 ###### Artículo 46.
 
 El aprovechamiento y uso de los materiales e instalaciones destinadas a prácticas clínicas, de laboratorio, salón de usos múltiples, sala audiovisual y aquellos espacios dedicados a docencia e investigación, están sujetos al procedimiento que establezca el reglamento correspondiente.
 
-### Capítulo II. De las Inscripciones
+### Capítulo III. Del Personal de Servicios Administrativos
 
 ###### Artículo 47.
 
@@ -699,7 +775,7 @@ Las relaciones laborales entre la Universidad y su personal administrativo se re
 
 ## Título Cuarto. De los Estudiantes
 
-### Capítulo III. De las Evaluaciones del Aprendizaje
+### Capítulo I. Generalidades
 
 ###### Artículo 50.
 
@@ -725,7 +801,7 @@ Para conservar su condición de estudiantes, éstos deberán cumplir y respetar 
 
 Durante el ciclo escolar habrá los períodos de vacaciones que señale el calendario oficial o que por motivos especiales autorice la Rectoría.
 
-### Capítulo IV. De la Vinculación con la Comunidad
+### Capítulo II. De las Inscripciones
 
 ###### Artículo 56.
 
@@ -745,7 +821,7 @@ III. Satisfacer los demás requisitos que señale el Reglamento General de Estud
 
 Una vez acreditada su inscripción, los estudiantes de la Universidad gozarán de los derechos y contraerán las obligaciones establecidas en el Reglamento General de Estudiantes y en las demás disposiciones de la legislación universitaria.
 
-### Capítulo V. Del Servicio Social
+### Capítulo III. De las Evaluaciones del Aprendizaje
 
 ###### Artículo 59.
 
@@ -775,13 +851,13 @@ La escala numérica de evaluación en la Universidad será de cero a diez y la c
 
 La aplicación de las evaluaciones ordinarias y extraordinarias deberá realizarse en apego al calendario escolar y con el reglamento correspondiente que para tal efecto se emita.
 
-### Capítulo VI. De las Tutorías
+### Capítulo IV. De la Vinculación con la Comunidad
 
 ###### Artículo 64.
 
 Los estudiantes en actividades realizadas de vinculación con la comunidad, así como uso de transportes, equipo, materiales y reactivos destinados a cualquier otra actividad relacionada con la docencia e investigación de la Universidad, se regirán por la reglamentación específica que se emita.
 
-### Capítulo VII. De las Asociaciones de Estudiantes
+### Capítulo V. Del Servicio Social
 
 ###### Artículo 65.
 
@@ -799,13 +875,13 @@ Podrán celebrarse convenios en materia de servicio social con las dependencias 
 
 La Universidad señalará las modalidades específicas para la prestación del servicio social, mediante la expedición del reglamento correspondiente.
 
-### Capítulo Único. Grados Académicos, Diplomas y Títulos
+### Capítulo VI. De las Tutorías
 
 ###### Artículo 69.
 
 El estudiante como actor central del proceso formativo, requiere que la Universidad desarrolle estrategias de aprendizaje a través de los docentes para la adaptación del estudiante al ambiente escolar, así como para fortalecer sus habilidades de estudio y de trabajo. Este tipo de atención coadyuva a evitar el rezago educativo, la reprobación escolar y la deserción de los estudiantes, y por consiguiente a optimizar los índices de eficiencia terminal. Estos compromisos de carácter individual y social que asume la Universidad, hacen de la tutoría un derecho para el estudiante, y una obligación para la Universidad, por lo que su regulación normativa será fijada por su propio reglamento.
 
-### Capítulo I. De Las Responsabilidades
+### Capítulo VII. De las Asociaciones de Estudiantes
 
 ###### Artículo 70.
 
@@ -817,7 +893,7 @@ Las actividades inherentes a la organización, funciones, objetivos y control de
 
 ## Título Quinto. Régimen Académico
 
-### Capítulo II. De las Sanciones
+### Capítulo Único. Grados Académicos, Diplomas y Títulos
 
 ###### Artículo 72.
 
@@ -899,7 +975,7 @@ Los títulos, grados y certificados expedidos por la Universidad intercultural d
 
 ## Título Sexto. De las Responsabilidades y Sanciones
 
-### Capítulo III. De la Aplicación de las Sanciones
+### Capítulo I. De Las Responsabilidades
 
 ###### Artículo 82.
 
@@ -997,7 +1073,7 @@ V. No pagar las cuotas que les correspondan, y,
 
 VI. Por incumplir las demás obligaciones que les señale la legislación universitaria.
 
-### Capítulo IV. De los Medios de Impugnación
+### Capítulo II. De las Sanciones
 
 ###### Artículo 96.
 
@@ -1055,7 +1131,7 @@ b) Rescisión del contrato de trabajo.
 
 Todas estas sanciones podrán aplicarse sin sujetarse al orden de enunciación, en forma individual o colectiva, según como la falta haya sido cometida por una o varias personas nominativamente designadas o por grupo.
 
-### Capítulo V. De la Suplencia de los Titulares
+### Capítulo III. De la Aplicación de las Sanciones
 
 ###### Artículo 100.
 
@@ -1115,7 +1191,7 @@ Las faltas cometidas en los términos del presente Estatuto, y las sanciones apl
 
 Las pruebas y los cargos sobre las acciones u omisiones que sean motivo de responsabilidad universitaria, serán apreciados libremente por quienes tengan facultad para conocerlos, y dictarán sus resoluciones de acuerdo con la verdad, la equidad, la buena fe y conforme a las disposiciones vigentes en la legislación universitaria. Las sanciones se aplicarán a discreción, salvo en los casos que expresamente estén contemplados en la normatividad de la Institución.
 
-### Capítulo Único. De la Comisión de Justicia Universitaria
+### Capítulo IV. De los Medios de Impugnación
 
 ###### Artículo 111.
 
@@ -1141,7 +1217,7 @@ Si la Comisión de Justicia Universitaria encuentra improcedente la sanción imp
 
 Si el interesado se abstiene de ejercer el derecho de revisión o revocación de la aplicación de la sanción dictada, y no presenta la solicitud en los términos de lo dispuesto en este ordenamiento, se entenderá que renunció al derecho que a su favor establece la legislación universitaria y la sanción será aplicada en sus términos y considerada como definitiva.
 
-### Capítulo Único. De la Gaceta Universitaria
+### Capítulo V. De la Suplencia de los Titulares
 
 ###### Artículo 117.
 
@@ -1159,7 +1235,7 @@ V. En tanto se sustancia la ausencia definitiva del Rector, el Consejo Directivo
 
 ## Título Séptimo. Del Órgano Colegiado de Decisión
 
-### Capitulo Único. Reformas y Adiciones al presente Estatuto
+### Capítulo Único. De la Comisión de Justicia Universitaria
 
 ###### Artículo 118.
 
@@ -1188,6 +1264,8 @@ IV. Ejecutar, en general, actos contrarios al derecho universitario; y,
 V. Las demás que establezca el interés colectivo y la legislación universitaria.
 
 ## Título Octavo. Del Órgano de Difusión
+
+### Capítulo Único. De la Gaceta Universitaria
 
 ###### Artículo 122.
 
@@ -1239,6 +1317,8 @@ Para los efectos de lo dispuesto en el artículo anterior, la Universidad fijar�
 
 ## Título Noveno. De las Reformas y Adiciones
 
+### Capitulo Único. Reformas y Adiciones al presente Estatuto
+
 ###### Artículo 130.
 
 Para reformar o adicionar el presente Estatuto General se requiere:
@@ -1260,3 +1340,11 @@ Artículo Tercero.- En su oportunidad y en cumplimiento de las propias disposici
 Dado en la Residencia Oficial de Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los veintidós días del mes de marzo del año dos mil seis.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Roger Grajales González.- Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE JUNIO DE 2010.
+
+Artículo Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- En su oportunidad, y en cumplimiento a las disposiciones del Estatuto Orgánico, este Acuerdo deberá publicarse en la Gaceta Universitaria para su difusión interna en la comunidad universitaria.
