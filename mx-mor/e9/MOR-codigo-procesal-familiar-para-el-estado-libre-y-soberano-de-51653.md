@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2010-04-21"
+last_updated: "2010-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -4227,19 +4227,29 @@ COPIA DE LA SENTENCIA EJECUTORIADA DE DIVORCIO AL REGISTRO CIVIL. Ejecutoriada l
 
 ## TÍTULO SEXTO. DIVORCIO ADMINISTRATIVO
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 503.
 
-EL DIVORCIO ADMINISTRATIVO.- El divorcio administrativo procede a petición expresa de los cónyuges casados dentro del Estado de Morelos o tengan su domicilio habitual en él, bajo el régimen de separación de bienes o que habiendo tenido algún tipo de sociedad conyugal, ésta se haya liquidado de común acuerdo. Debe tramitarse ante la Dirección General del Registro Civil del Estado de Morelos, comprobando con copias certificadas lo siguiente:
+EL DIVORCIO ADMINISTRATIVO.- El divorcio administrativo procede a petición expresa de los cónyuges casados dentro del Estado de Morelos o tengan su domicilio habitual en él, bajo el régimen de separación de bienes o que habiendo tenido algún tipo de sociedad conyugal, ésta se haya liquidado de común acuerdo. Debe tramitarse ante la Oficialía del Registro Civil del lugar donde tuvieron su último domicilio o donde contrajeron matrimonio comprobando con copias certificadas lo siguiente:
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
 
 I. Ser mayores de edad,
 
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
+
 II. No tener hijos en común o teniéndolos sean mayores de 25 años que ya no tengan derecho a recibir alimentos, o siendo menores de 25 no tengan derecho a recibirlos.
 
-La Dirección General del Registro Civil, previa identificación de los consortes levantará un acta en la que se hará constar la solicitud de divorcio y citará a los cónyuges a que se presenten a ratificarla dentro de los quince días siguientes.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
 
-Si los consortes ratifican, en ese acto se recibirán dos testigos debidamente identificados a quienes les consten los datos manifestados en la solicitud de divorcio y la Dirección General del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la de matrimonio y en la de nacimiento.
+La Oficialía del Registro Civil correspondiente, previa identificación de los consortes levantará un acta en la que se hará constar la solicitud de divorcio y citará a los cónyuges a que se presenten a ratificarla dentro de los quince días siguientes.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
+
+Si los consortes ratifican, en ese acto se recibirán dos testigos debidamente identificados a quienes les consten los datos manifestados en la solicitud de divorcio y la Oficialía del Registro Civil correspondiente los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en el acta de matrimonio y en la de nacimiento.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 El divorcio así obtenido, no surtirá efectos legales si se comprueba que los cónyuges tienen hijos menores de veinticinco años de edad con los que tengan obligación alimentaria o que siendo mayores de esa edad dependen económicamente de los divorciantes, lo mismo sucederá si se acredita que no han liquidado la sociedad conyugal sufriendo ambos las penas que establezca el código de la materia.
 
@@ -6780,3 +6790,13 @@ P.O. 21 DE ABRIL DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
 
 SEGUNDO.- Los juicios y procedimientos relacionados con las reformas contenidas en este Decreto, serán substanciados hasta su culminación, conforme a las normas bajo las cuales fueron iniciados.
+
+P.O. 16 DE JUNIO DE 2010.
+
+PRIMERO.- Remítase al Poder Ejecutivo para los efectos legales correspondientes.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+CUARTO.- Los actuales procedimientos de divorcio administrativo que se estén realizando ante la Dirección del Registro Civil del Estado de Morelos deberán concluirse ante la misma.
