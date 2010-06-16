@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2009-12-23"
+last_updated: "2010-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -1481,9 +1481,7 @@ derechos establecidos en el Capítulo Décimo
 
 Séptimo del presente Título.
 
-> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2007)</small>
-
-XIV. Trámite y resolución de Divorcio Administrativo. 50
+XIV. (DEROGADA, P.O. 16 DE JUNIO DE 2010)
 
 ### CAPÍTULO DÉCIMO. DE LOS SERVICIOS DE EDUCACIÓN POR INSTITUCIONES PRIVADAS
 
@@ -3182,3 +3180,13 @@ PRIMERO.- La presente Ley entrará en vigor a partir del 1 de enero del año 201
 SEGUNDO.- Se derogan todas las disposiciones que concedan subsidios o exenciones y se hayan publicado con anterioridad al inicio de vigencia de la presente Ley, con excepción de las previstas en la Ley General de Hacienda del Estado de Morelos.
 
 TERCERO.- Para los efectos de las disposiciones de la Ley General de Hacienda del Estado de Morelos, relativas a la actualización de las cuotas y tarifas de las contribuciones en cantidades determinadas, se autoriza la aplicación de un subsidio para mantener dichas cuotas y tarifas en los mismos montos que establece la mencionada Ley General de Hacienda del Estado de Morelos.
+
+P.O. 16 DE JUNIO DE 2010.
+
+PRIMERO.- Remítase al Poder Ejecutivo para los efectos legales correspondientes.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+CUARTO.- Los actuales procedimientos de divorcio administrativo que se estén realizando ante la Dirección del Registro Civil del Estado de Morelos deberán concluirse ante la misma.
