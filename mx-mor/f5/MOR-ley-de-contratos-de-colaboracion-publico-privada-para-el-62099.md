@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-contratos-de-colaboracion-publico-privada-para-el-62099"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-16"
-last_updated: "2008-11-05"
+last_updated: "2010-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE CONTRATOS DE COLABORACION PUBLICO PRIVADA PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de julio de 2008.
 
@@ -1217,7 +1217,9 @@ Artículo Primero.- La presente Ley entrará en vigor a los treinta días natura
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en la presente Ley.
 
-Artículo Tercero.- El Ejecutivo del Estado expedirá el Reglamento de esta ley y los lineamientos a que se hace mención en la misma, en un plazo no mayor de noventa días calendario, contado a partir de la iniciación de la vigencia de esta Ley.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
+
+Artículo Tercero.- El Ejecutivo del Estado expedirá el Reglamento de esta ley y los lineamientos a que se hace mención en la misma, en un plazo no mayor de treinta días calendario, contados a partir de la publicación del presente decreto.
 
 Recinto Legislativo al primer día del mes de julio de dos mil ocho.
 
@@ -1276,3 +1278,9 @@ Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para
 ###### ARTÍCULO TERCERO.
 
 Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
+
+P.O. 16 DE JUNIO DE 2010.
+
+Artículo Primero: Aprobado el presente, remítase para su publicación en el Periódico Oficial Tierra y Libertad órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Artículo Segundo: El presente decreto entrará en vigor al día siguiente de su publicación.
