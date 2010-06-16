@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-consejo-ciudadano-consultivo-del-sistema-52327"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-29"
-last_updated: "2006-11-29"
+last_updated: "2010-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52327&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-11-27"
 
 REGLAMENTO DEL CONSEJO CIUDADANO CONSULTIVO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JUNIO DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 29 de noviembre de 2006.
 
@@ -157,7 +157,9 @@ II. La duración del nombramiento del Vicepresidente será de tres años y podr�
 
 III. La duración de los Vocales del sector público y sus suplentes será de tres años y podrán ser ratificados por una sola ocasión para un período consecutivo;
 
-IV. Para el caso de los vocales representantes de las OSC y sus suplentes, la duración será de tres años y podrán ser reelegidos por una sola ocasión para un período consecutivo, siendo necesario pertenecer a alguna de las ternas propuestas con base en la convocatoria correspondiente.
+> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2010)</small>
+
+IV. Para el caso de los vocales representantes de las OSC y sus suplentes, la duración será de tres años y podrán ser reelegidos por una sola ocasión para un periodo consecutivo, siendo necesario que lo apruebe el Consejo a propuesta del Presidente, en la sesión previa a la fecha en que concluya el periodo que les corresponda.
 
 ###### Artículo 8.
 
@@ -185,7 +187,9 @@ VI. Requerir al Organismo, por conducto de su Titular, la información que consi
 
 VII. Proponer al Titular del Organismo modificaciones al presente Reglamento, para su autorización por parte de la Junta de Gobierno;
 
-VIII. Elegir a los representantes de las OSC como miembros del Consejo, de entre las ternas que someta a su consideración el Presidente;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 16 DE JUNIO DE 2010)</small>
+
+VIII. Elegir a los representantes de las OSC como miembros del Consejo, de entre las ternas que someta a su consideración el Presidente y aprobar, en su caso, su reelección en los términos señalados en la fracción IV, del artículo 7 de este Reglamento;
 
 IX. Aprobar a propuesta del Presidente la conformación de grupos de trabajo temporales;
 
@@ -205,7 +209,9 @@ I. Dirigir los trabajos del Consejo para el cumplimiento de su objeto y la cabal
 
 II. Representar al Consejo ante organismos públicos, privados, nacionales o internacionales, en el ámbito de su competencia; así como fungir de enlace entre el Consejo y el Organismo en todo lo referente al funcionamiento y operación de las políticas y Programas;
 
-III. Conformar las ternas de los candidatos a representantes de las OSC como miembros del Consejo de acuerdo a la convocatoria correspondiente y proponerlas al Consejo;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 16 DE JUNIO DE 2010)</small>
+
+III. Conformar las ternas de los candidatos a representantes de las OSC como miembros del Consejo de acuerdo a la convocatoria correspondiente y proponerlas al Consejo, así como proponer al Consejo la reelección de los vocales representantes de las OSC, por una sola ocasión, para un período consecutivo;
 
 IV. Firmar las opiniones y recomendaciones, así como los demás documentos que emita el Consejo;
 
@@ -319,9 +325,11 @@ Las ternas deberán estar conformadas cada una por distintos candidatos a repres
 
 El Consejo elegirá a los miembros representantes de las OSC dentro de los 30 días hábiles siguientes a la fecha en que el Presidente someta las ternas a su consideración. Si el Consejo no resolviere dentro de ese plazo, los miembros del Consejo representantes de las OSC serán elegidos por el Presidente.
 
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2010)</small>
+
 ###### Artículo 17.
 
-Noventa días antes de que termine el periodo de gestión de los representantes de las OSC, cuya duración es de tres años, se lanzará convocatoria para sustituir a éstos.
+En caso de que el Consejo autorice que los vocales representantes de las OSC sean reelegidos por una sola ocasión para un periodo consecutivo, a propuesta del Presidente, no será necesario publicar la convocatoria a que hace referencia el presente Capítulo.
 
 ### Capítulo IV.
 
@@ -341,9 +349,11 @@ Las sesiones del Consejo se celebrarán en su domicilio, a menos que por acuerdo
 
 El domicilio del Consejo estará en el Distrito Federal, y será notificado por el Secretario Técnico.
 
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2010)</small>
+
 ###### Artículo 21.
 
-Las convocatorias a todas las sesiones se notificarán a los miembros del Consejo por el Secretario Técnico por lo menos con 15 días naturales de anticipación a la fecha de su celebración, excepto en las sesiones extraordinarias que se consideren de urgencia, en las que se hará la notificación con tres días naturales de anticipación. En ambos casos las convocatorias a las sesiones tendrán inserta la orden del día y la documentación relacionada con los asuntos a tratar.
+Las convocatorias a todas las sesiones se notificarán a los miembros del Consejo por el Secretario Técnico por lo menos con 5 días naturales de anticipación a la fecha de su celebración, excepto en las sesiones extraordinarias que se consideren de urgencia, en las que se hará la notificación con tres días naturales de anticipación. En ambos casos las convocatorias a las sesiones tendrán inserta la orden del día y la documentación relacionada con los asuntos a tratar.
 
 ###### Artículo 22.
 
@@ -369,9 +379,11 @@ Para que una sesión extraordinaria se considere válida, en virtud de primera c
 
 En caso de segunda convocatoria, con la expresión de esa circunstancia y que podrá realizarse treinta minutos después de la primer convocatoria, la sesión extraordinaria del Consejo se instalará legítimamente con la asistencia de su Presidente y cualquier número de miembros.
 
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2010)</small>
+
 ###### Artículo 27.
 
-En caso de imposibilidad para celebrar la sesión en las fechas previstas en el calendario de sesiones, el Secretario Técnico, previa autorización del Presidente, deberá informarlo con 15 días de anticipación, por escrito o por medios electrónicos a los miembros del Consejo, indicando la nueva fecha en que llevará a cabo la sesión; en este último caso, deberá de cerciorarse de la recepción de la información.
+En caso de imposibilidad para celebrar la sesión en las fechas previstas en el calendario de sesiones, el Secretario Técnico, previa autorización del Presidente, deberá informarlo a la brevedad posible, por escrito o por medios electrónicos a los miembros del Consejo, indicando la nueva fecha en que se llevará a cabo la sesión, en este último caso, deberá cerciorarse de la recepción de la información.
 
 ###### Artículo 28.
 
@@ -502,3 +514,11 @@ TERCERO.- El Consejo se instalará con el Presidente y los miembros representant
 CUARTO.- Una vez instalado el Consejo, deberá sesionar de manera ordinaria en un plazo no mayor a treinta días naturales.
 
 Se expide en la Ciudad de México, Distrito Federal, el día veintisiete de noviembre de dos mil seis.- El Oficial Mayor del Sistema Nacional para el Desarrollo Integral de la Familia, en cumplimiento con lo acordado por la Junta de Gobierno del Sistema Nacional para el Desarrollo Integral de la Familia, Carlos Ponce Martínez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 16 DE JUNIO DE 2010.
+
+PRIMERO.- Las presentes modificaciones y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Una vez publicado el presente Acuerdo, el Presidente del Consejo Ciudadano Consultivo someterá, en su caso, a la consideración del Consejo, en la sesión más próxima la propuesta de que los actuales vocales representantes de las OSC sean reelegidos por una sola ocasión para un periodo consecutivo sin necesidad de convocatoria.
