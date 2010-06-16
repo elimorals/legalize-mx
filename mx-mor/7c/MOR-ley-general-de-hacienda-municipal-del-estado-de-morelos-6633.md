@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2009-12-29"
+last_updated: "2010-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -1211,7 +1211,9 @@ a).- Dentro de la Oficina del Registro Civil: $250.00
 
 b).- Fuera de la Oficina del Registro Civil: 600.00
 
-c).- Por cada año de extemporaneidad, a partir de la fecha de ocurrido el mismo: 50.00
+c).- Por cada año de extemporaneidad, a
+
+partir de la fecha de ocurrido el mismo: 50.00
 
 d).- Registro de reconocimiento de hijos: 1,000.00
 
@@ -1221,7 +1223,9 @@ III.- MATRIMONIOS:
 
 a).- En la Oficina del Registro Civil: 1,500.00
 
-b).- En la Oficina del Registro Civil, en horas extraordinarias, en días hábiles: 2,000.00
+b).- En la Oficina del Registro Civil, en horas
+
+extraordinarias, en días hábiles: 2,000.00
 
 c).- En domicilios particulares:
 
@@ -1231,7 +1235,13 @@ c).- En domicilios particulares:
 
 IV.- DIVORCIOS:
 
-a).- Si se trata de casos comprendidos en el Artículo No. 207 del Código Civil: 2,500.00
+a).- Si se trata de casos comprendidos en el
+
+Artículo No. 207 del Código Civil: 2,500.00
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2010)</small>
+
+b).- Trámite y resolución de Divorcio Administrativo: 50 SMV
 
 V.- Si los actos del Registro Civil se efectúan fuera de horas hábiles, tendrán los Oficiales del Registro Civil de la Municipalidad la percepción del 20% de los derechos causados.
 
@@ -1239,9 +1249,15 @@ VI.- Habilitación de edad: 1,000.00
 
 El Presidente Municipal, podrá exceptuar el pago de la habilitación de edad, en los casos que estime justificados.
 
-VII.- Anotaciones marginales por orden administrativa de la Dirección del Registro Civil del Estado: 1,000.00
+VII.- Anotaciones marginales por orden
 
-VIII.- Anotaciones marginales a actas del Registro Civil por orden judicial: 1,500.00
+administrativa de la Dirección del Registro
+
+Civil del Estado: 1,000.00
+
+VIII.- Anotaciones marginales a actas del Registro
+
+Civil por orden judicial: 1,500.00
 
 IX.- Expedición de certificados de inexistencia: 1,000.00.
 
@@ -3438,6 +3454,16 @@ TERCERO. LA PRESENTE LEY ENTRARÁ EN VIGOR A PARTIR DEL PRIMERO DE ENERO DEL AÑ
 P.O. 29 DE DICIEMBRE DE 2009.
 
 > <small>N. DE E. VEASE ARTICULOS TRANSITORIOS CORRESPONDIENTES DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL AÑO 2010, PUBLICADAS EN EL P.O. DE 29 DE DICIEMBRE DE 2009 DE LA SECCION PRIMERA A LA NOVENA, MISMOS QUE PUEDEN SER VISUALIZADOS EN FORMATO PDF.</small>
+
+P.O. 16 DE JUNIO DE 2010.
+
+PRIMERO.- Remítase al Poder Ejecutivo para los efectos legales correspondientes.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+CUARTO.- Los actuales procedimientos de divorcio administrativo que se estén realizando ante la Dirección del Registro Civil del Estado de Morelos deberán concluirse ante la misma.
 
 ###### ARTÍCULO PRIMERO.
 
