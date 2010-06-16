@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-superior-de-justicia-del-68769
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-22"
-last_updated: "2009-10-23"
+last_updated: "2010-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de mayo de 2009.
 
@@ -513,21 +513,25 @@ Acuerdos internos. Cada Sala Colegiada podrá tomar los acuerdos internos que es
 
 De las Salas Unitarias.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
+
 ###### Artículo 51.
 
 Competencia. Las Salas Unitarias tendrán la competencia que determina la Constitución y las leyes del Estado, distribuida por materias en los siguientes términos:
 
-Las Salas Primera, Tercera, Séptima, Octava, Novena y Décimo Quinta, conocerán de los asuntos en materia civil y concurrente, excepto los que sean competencia de las Salas Civiles Colegiadas.
+Las Salas Primera, Séptima, Octava, Novena y Décimo Quinta conocerán de los asuntos en materia civil y concurrente, excepto los que sean competencia de las Salas Civiles Colegiadas.
 
-La Sala Quinta conocerá de los asuntos en materia familiar.
+Las Salas Tercera y Quinta conocerán de los asuntos en materia familiar.
 
 Las Salas Segunda, Cuarta, Sexta, Décima, Undécima, Duodécima, Décima Tercera y Décimo Cuarta, conocerán de los asuntos en materia penal, excepto los que sean competencia de las Salas Penales Colegiadas. Pero será competencia exclusiva de las Salas Décima Tercera y Décimo Cuarta, conocer de los asuntos derivados de los procedimientos orales penales a que se refiere el artículo 1 inciso c), del Código de Procedimientos Penales del Estado.
 
 Además de su competencia en materia penal referida en el párrafo anterior, las Salas Décima Tercera y Décimo Cuarta, conocerán de los asuntos en materia de adolescentes infractores, que en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León, se prevén para los tribunales de segunda instancia.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
+
 ###### Artículo 52.
 
-Denominación. Atendiendo a su competencia, las Salas Unitarias se denominarán de la siguiente manera: Primera Sala Civil, Segunda Sala Penal, Tercera Sala Civil, Cuarta Sala Penal, Quinta Sala Familiar, Sexta Sala Penal, Séptima Sala Civil, Octava Sala Civil, Novena Sala Civil, Décima Sala Penal, Undécima Sala Penal, Duodécima Sala Penal, Décimo Tercera Sala Penal y de Justicia para Adolescentes, Décimo Cuarta Sala Penal y de Justicia para Adolescentes y Décimo Quinta Sala Civil.
+Denominación. Atendiendo a su competencia, las Salas Unitarias se denominarán de la siguiente manera: Primera Sala Civil, Segunda Sala Penal, Tercera Sala Familiar, Cuarta Sala Penal, Quinta Sala Familiar, Sexta Sala Penal, Séptima Sala Civil, Octava Sala Civil, Novena Sala Civil, Décima Sala Penal, Undécima Sala Penal, Duodécima Sala Penal, Décimo Tercera Sala Penal y de Justicia para Adolescentes, Décimo Cuarta Sala Penal y de Justicia para Adolescentes y Décimo Quinta Sala Civil.
 
 ## TÍTULO SÉPTIMO.
 
@@ -664,3 +668,13 @@ P.O. 23 DE OCTUBRE DE 2009.
 PRIMERO: Las presentes reformas y adiciones al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León tendrán vigencia desde el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de la concerniente al artículo 38 del mencionado reglamento, la cual entrará en vigor el 26 veintiséis de octubre de 2009 dos mil nueve.
 
 SEGUNDO: Se ordena la publicación del presente acuerdo por una sola vez en el Boletín Judicial del Tribunal Superior de Justicia del Estado y en el Periódico Oficial del Estado para el conocimiento del personal y del público en general, y su debido cumplimiento.
+
+P.O. 16 DE JUNIO DE 2010.
+
+PRIMERO: La Tercera Sala Unitaria, con su nueva denominación y especialización, así como las reformas al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León, entrarán en vigor a partir del día 1 uno de julio del año 2010 dos mil diez.
+
+SEGUNDO: Los asuntos del orden civil y de jurisdicción concurrente que estén asignados, por razón de turno o cualquier otra índole, a la Tercera Sala Unitaria, que se encuentren en trámite o en cualquier otra etapa, serán substanciados por ésta hasta su conclusión.
+
+TERCERO: El titular de la Tercera Sala Unitaria continuará integrando la Primera Sala Colegiada Civil, junto con los titulares de las salas unitarias Primera y Décimo Quinta, en términos de lo dispuesto en el artículo 37 del Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León.
+
+CUARTO: Se ordena la publicación del presente acuerdo, por una sola vez, en el Boletín Judicial del Tribunal Superior de Justicia del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
