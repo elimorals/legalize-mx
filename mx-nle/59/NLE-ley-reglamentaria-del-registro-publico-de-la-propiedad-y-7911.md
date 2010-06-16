@@ -4,7 +4,7 @@ identifier: "NLE-ley-reglamentaria-del-registro-publico-de-la-propiedad-y-7911"
 country: "mx"
 rank: "ley"
 publication_date: "1972-01-22"
-last_updated: "2009-09-25"
+last_updated: "2010-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 22 de enero de 1972.
 
@@ -109,7 +109,9 @@ IV.- Inscribir en un término no mayor de tres días, los títulos o documentos 
 
 V.- Devolver, dentro del mismo término, no mayor de tres días, los documentos o títulos cuya inscripción consideren improcedentes, dando constancia por escrito del fundamento legal de la negativa, para que el afectado pueda ejercitar el derecho que le concede la fracción III del artículo 4o. de esta Ley o acudir a la Autoridad Judicial;
 
-VI.- Autorizar con su firma las inscripciones, anotaciones y demás actos y constancias de su Oficina, pudiendo usar media firma para las anotaciones marginales de las inscripciones;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2010)</small>
+
+VI.- Autorizar las inscripciones, anotaciones, constancias y demás actos de su oficina mediante su firma y/o a través de la utilización de medios electrónicos, ópticos o cualquier otro medio tecnológico, siempre que sea posible atribuirla al registrador y la información respectiva sea accesible para su ulterior consulta;
 
 VII.- Expedir certificaciones de los documentos que obren en sus Oficinas conforme a lo dispuesto en el Capítulo XVIII de esta Ley;
 
@@ -139,9 +141,11 @@ Las faltas o impedimentos del Director General del Registro y las del Registrado
 
 ### CAPITULO IV. DE LOS LIBROS DEL REGISTRO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 11o.
 
-Las Oficinas del Registro llevarán sus libros por secciones, que serán las siguientes:
+Las Oficinas del Registro llevarán su archivo por secciones que serán las siguientes:
 
 I.- De la propiedad o dominio de inmuebles;
 
@@ -152,6 +156,10 @@ III.- De sociedades, asociaciones civiles y beneficencia privada;
 IV.- De resoluciones, contratos y convenios diversos; y
 
 V.- De bienes muebles.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2010)</small>
+
+También se podrá llevar una sección auxiliar donde se registrarán y archivarán por orden cronológico las comunicaciones, avisos, oficios, escritos y demás documentos o actos relacionados con el Registro.
 
 ###### ARTICULO 12o.
 
@@ -203,9 +211,13 @@ Los títulos o resoluciones por los cuales se adquiera, trasmita, modifique, gra
 
 Cada Sección puede dividirse en dos o varias Sub-Secciones, a juicio de los Registradores, según las necesidades de trabajo de cada Oficina.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 18o.
 
-Cada uno de los libros que se lleven en las Oficinas del Registro deberá ser autorizado en su primera hoja, con la firma del Director General y con el sello de la Dirección en todas sus hojas. También se podrán llevar otros libros auxiliares numerados donde se archivarán por orden cronológico las comunicaciones, avisos, oficios, escritos y demás documentos o actos relacionados con el Registro.
+El archivo del Registro Público de la Propiedad se compone por documentos físicos que se organizan por libros; y por documentos generados mediante el uso de medios electrónicos, ópticos o cualquier otro medio tecnológico que permita que la información respectiva sea accesible para su ulterior consulta.
+
+El archivo electrónico relacionará las inscripciones que requieran de anotación, mediante un vínculo electrónico que permita su identificación y consulta. El archivo electrónico tendrá la misma validez y fuerza probatoria que los libros o archivo físico.
 
 ###### ARTICULO 19o.
 
@@ -394,6 +406,10 @@ El anterior procedimiento se observará en el Primer Distrito y en los restantes
 ###### ARTICULO 49o.
 
 Anotación es el acto por el cual se asienta cualquiera circunstancia que afecte a las inscripciones ya registradas y se hará expresando en ella la fecha en que se hace, su naturaleza o motivo y los datos de referencia, así como la firma o media firma del Registrador.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2010)</small>
+
+La anotación a que se refiere la presente Ley y el Código Civil para el Estado, podrá ser realizada mediante el uso de medios electrónicos, ópticos o a través de cualquier otro medio tecnológico, estableciendo los procedimientos de seguridad necesarios para vincularlos a su autor y que la información respectiva sea accesible para su ulterior consulta.
 
 ###### ARTICULO 50o.
 
@@ -610,3 +626,7 @@ P.O. 25 DE SEPTIEMBRE DE 2009.
 Primero.- El presente Decreto entraré en vigor a los quince días naturales siguientes del de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Las disposiciones de este decreto se aplicarán a los documentos ingresados para su registro a partir de la fecha de inicio de su vigencia, no obstante haberse celebrado en fecha anterior.
+
+P.O. 16 DE JUNIO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
