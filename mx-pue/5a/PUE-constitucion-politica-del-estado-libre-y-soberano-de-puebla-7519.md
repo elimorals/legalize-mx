@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2009-10-09"
+last_updated: "2010-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -255,9 +255,9 @@ VII.- Garantizar el acceso a la información pública gubernamental, en los tér
 
 VIII.- La protección de los derechos de los pueblos y comunidades indígenas;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2010)</small>
 
-IX.- Garantizar los derechos de las personas menores de dieciocho años a quienes se atribuya la realización de una conducta tipificada como delito, mediante el establecimiento de un Sistema Integral de Justicia en el que se respeten los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos , los Tratados Internacionales y las leyes aplicables; y
+IX.- El establecimiento de un sistema integral de justicia, que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por la ley penal y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconoce la Constitución Política de los Estados Unidos Mexicanos y demás ordenamientos jurídicos aplicables;
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -903,6 +903,10 @@ XXVI.- Crear o suprimir, a propuesta del Ejecutivo organismos descentralizados, 
 
 XXVII.- Expedir leyes para hacer efectivas las anteriores facultades y todas las concedidas a los otros Poderes por la Constitución Federal y por esta Constitución del Estado, así como las que correspondan al régimen interior del Estado y no estén expresamente reservadas a los Poderes de la Unión.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2010)</small>
+
+Las leyes que regulen la organización y el funcionamiento del Sistema de Justicia Penal, observarán los principios, derechos y garantías previstos por la Constitución Política de los Estados Unidos Mexicanos.
+
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 XXVIII.- Aprobar las leyes de ingresos de los Municipios, así como las zonas catastrales y las tablas de valores unitarios de suelo y construcción, que sirvan de base para el cobro de las contribuciones a la propiedad inmobiliaria de los Municipios;
@@ -919,11 +923,17 @@ XXX.- Expedir leyes que definan los principios y las bases de la planeación par
 
 XXXI.- Instituir mediante las leyes que para tal efecto expida, el Tribunal de lo Contencioso Administrativo, dotado de autonomía plena en el pronunciamiento de sus fallos y con facultades para resolver los conflictos y controversias que se susciten entre los particulares y la administración pública estatal, ya sea centralizada o paraestatal, estableciendo las normas que regulen su organización y funcionamiento; así como las atribuciones de sus integrantes y los requisitos para su nombramiento, sus procedimientos y los recursos contra las resoluciones que pronuncien.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
 
 ###### Artículo 58.
 
-El Congreso al expedir la Ley de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo legalmente establecido y en caso de que se omita fijar tal remuneración, se entenderá señalada la última que hubiere tenido.
+El Congreso al aprobar la Ley de Egresos del Estado, verificará que en la misma se incluyan los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos de las Dependencias y de las Entidades Paraestatales.
+
+Las Entidades Paraestatales deberán incluir anualmente en sus presupuestos de egresos, los tabuladores desglosados de las remuneraciones de sus servidores públicos, tomando como base los tabuladores aprobados por el Congreso en la Ley de Egresos del Estado.
+
+Los Poderes Legislativo y Judicial del Estado, así como los Organismos con autonomía reconocida en esta Constitución que ejerzan recursos del presupuesto de egresos del Estado, deberán incluir en sus respectivos proyectos de presupuestos de egresos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, a efecto de que se incluyan en la Iniciativa de Ley de Egresos del Estado para su aprobación.
+
+En la determinación de las remuneraciones a que se refiere este artículo, los entes públicos señalados en los párrafos que anteceden, deberán observar las bases establecidas en el artículo 134 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1209,19 +1219,21 @@ XXIII.- Establecer un sistema de modernización administrativa, así como promov
 
 XXIII-BIS.- Establecer el Servicio Civil de Carrera para los servidores públicos de la Administración Pública Estatal, en el que se regulará el ingreso, permanencia, promoción y en su caso, remoción de los servidores públicos, con criterios de calidad, eficiencia, mérito, lealtad, objetividad, legalidad, imparcialidad y equidad.
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2010)</small>
 
-XXIV.- Conceder indulto, conmutación, reducción de penas o medidas y beneficios de libertad anticipada, en términos de las leyes aplicables.
+XXIV.- Conceder indulto a los sentenciados del orden común.
 
-XXV.- Celebrar convenios con la Federación o con los Estados del País, para que los reos de nacionalidad mexicana sentenciados por delitos del orden común, que lo soliciten, puedan cumplir su condena en establecimientos dependientes del Ejecutivo Federal o de los Estados de su origen o residencia.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+XXV.- Celebrar convenios con la Federación o con los Estados del País, para que los reos de nacionalidad mexicana sentenciados por delitos del orden común, que lo soliciten, puedan cumplir su condena en establecimientos dependientes del Ejecutivo Federal o de los Estados de su origen o residencia, de conformidad con las leyes de la materia.
 
-XXVI.- Organizar el Sistema de Centros de Readaptación Social y de Centros de Internamiento Especializados para Adolescentes de la Entidad, sobre la base del trabajo, la capacitación para el mismo y la educación.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+XXVI.- Organizar el Sistema Penitenciario de la Entidad, sobre la base del trabajo, capacitación para el mismo, la educación, la salud y el deporte como medios para alcanzar la reinserción a la sociedad.
 
-XXVII.- Implementar y vigilar en el ámbito administrativo, el Sistema de Justicia para Adolescentes y de asistencia social a menores, sobre la base de la especialización institucional, la protección integral y el interés superior de los menores.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2010)</small>
+
+XXVII.- Implementar y vigilar en el ámbito administrativo, el Sistema de Justicia para Adolescentes y de asistencia social a personas menores de edad, sobre la base de la especialización institucional, la protección integral y el interés superior de la niñez.
 
 XXVIII.- Fomentar la educación, en todos sus niveles, conforme a las bases establecidas por el artículo 3o de la Constitución General de la República.
 
@@ -1405,17 +1417,23 @@ Cada tres años, al renovarse el Poder Legislativo, el Presidente del Tribunal S
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-## TITULO SEXTO. DEL MINISTERIO PUBLICO
+## TITULO SEXTO.. DEL MINISTERIO PUBLICO
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
 
 ###### Artículo 95.
 
-El Ministerio Público es una Institución dependiente del Poder Ejecutivo, a cuyo cargo está velar por la exacta observancia de las leyes de interés público y para realizar su función deberá ejercitar las acciones que correspondan contra los infractores de dichas Leyes, hacer efectivos los derechos concedidos al Estado e intervenir en los juicios que afecten a personas a quienes la ley otorgue especial protección.
+El Ministerio Público es una Institución dependiente del Poder Ejecutivo a cuyo cargo está velar por la exacta observancia de las leyes de interés público, hacer efectivos los derechos concedidos al Estado e intervenir en los juicios que afecten a personas a quienes la ley otorgue especial protección.
+
+Corresponde al Ministerio Público y a las policías la investigación de los delitos y a aquél, el ejercicio de la acción penal ante los tribunales. Los particulares podrán ejercer la acción penal ante la autoridad judicial en los casos previstos en la ley.
+
+Las policías actuarán bajo la conducción y mando del Ministerio Público en la investigación y persecución de los delitos.
+
+El Ministerio Público podrá aplicar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que establezca la ley.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1537,7 +1555,9 @@ a) Las leyes estatales no establecerán exenciones o subsidios en favor de perso
 
 b).- Los Municipios podrán celebrar convenios con el Estado, para que éste se encargue, parcialmente, de las funciones relacionadas con la administración de las contribuciones que les corresponda.
 
-c).- Los presupuestos de egresos de los Municipios serán aprobados por los respectivos Ayuntamientos, con base en los ingresos de que dispongan.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
+
+c).- Los presupuestos de egresos de los Municipios serán aprobados por los respectivos Ayuntamientos, con base en los ingresos de que dispongan, en los que se deberán incluir invariablemente los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 134 de esta Constitución.
 
 (REFORMADO, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
@@ -1711,7 +1731,7 @@ V.- La forma de Constituir los Ayuntamientos cuando los Regidores electos no con
 
 ## TITULO OCTAVO. DE LA ADMINISTRACION EN GENERAL
 
-(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
+(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
 ### CAPITULO I. DE LA PLANEACION Y LAS COMPRAS DEL SECTOR PUBLICO
 
@@ -2057,11 +2077,25 @@ III.- La infracción de lo dispuesto en las fracciones anteriores ocasionará la
 
 IV.- Se exceptúan de esta prohibición las actividades docentes, científicas, literarias y de solidaridad social.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
 
 ###### Artículo 134.
 
-Los funcionarios públicos recibirán remuneración por sus servicios, exceptuándose los que la ley declare gratuitos.
+Los servidores públicos de los Poderes Ejecutivo, Legislativo y Judicial del Estado y de los Municipios, así como de las entidades paraestatales y paramunicipales, de los Organismos con autonomía reconocida en esta Constitución y de cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades, exceptuándose los que la Ley declare gratuitos.
+
+Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+I.- Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
+
+II.- Ningún servidor público podrá recibir remuneración en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Presidente de la República y para el Gobernador del Estado en el respectivo presupuesto;
+
+III.- Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos en los casos permitidos por esta Constitución, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República y para el Gobernador del Estado en el presupuesto correspondiente;
+
+IV.- No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstos se encuentren asignados y regulados por la Ley, Decreto Legislativo, Contrato Colectivo o condiciones generales de trabajo; estos conceptos no formarán parte de la remuneración.
+
+Quedan excluidas las remuneraciones por los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado; y
+
+V.- Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -2171,7 +2205,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 128 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 13 DE NOVIEMBRE DE 1936.
 
@@ -2560,3 +2594,37 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO CUARTO.
 
 Para efectos del penúltimo párrafo del Artículo 113 de la Constitución Política del Estado Libre y Soberano de Puebla a que se refiere este Decreto, por única ocasión, se ratifica en su cargo al Actual Auditor General del Órgano de Fiscalización Superior del Estado, cuyo periodo de duración de siete años en el cargo, comenzará a partir del día de la entrada en vigor del presente.
+
+P.O. 16 DE JUNIO DE 2010.
+
+DECRETO POR EL QUE SE REFORMAN Y SE ADICIONAN LOS ARTICULO 12, 57, 79 Y 95 DE LA CONSTITUCION POLITICA DEL ESTADO DE PUEBLA.
+
+PRIMERO.- La Comisión Permanente del Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2010.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 58, 103 Y 134 DE LA CONSTITUCION POLITICA DEL ESTADO DE PUEBLA.
+
+PRIMERO.- La Comisión Permanente del Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Las remuneraciones que a la entrada en vigor del presente Decreto sean superiores a la máxima establecida en el mismo, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes para el ejercicio fiscal siguiente.
+
+CUARTO.- A partir del ejercicio fiscal de aquél en que haya entrado en vigor el presente Decreto, las percepciones de los servidores públicos de los Poderes Ejecutivo, Legislativo y Judicial del Estado, de los Ayuntamientos de los Municipios, de las entidades paraestatales y paramunicipales, de los Organismos con autonomía reconocida en esta Constitución y de cualquier otro ente público que actualmente estén en funciones, se sujetarán a lo siguiente:
+
+a) Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en la fracción II del artículo 134 de la Constitución Política del Estado, se mantendrá durante el tiempo que dure su encargo;
+
+b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, dietas, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda los máximos establecidos en las fracciones II y III del artículo 134 de la Constitución Política del Estado Libre y Soberano de Puebla; y
+
+c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede los montos máximos antes referidos.
+
+QUINTO.- El Congreso del Estado deberá expedir o adecuar la legislación local, de conformidad con los términos del presente Decreto.
+
+SEXTO.- Los Organismos con autonomía reconocida en la Constitución Política del Estado, deberán adecuar su marco normativo, en términos del presente Decreto.
+
+SÉPTIMO.- El Congreso del Estado, en el ámbito de su competencia, deberá legislar para tipificar y sancionar penal y administrativamente las conductas de los servidores públicos cuya finalidad sea eludir lo dispuesto en el presente Decreto.
