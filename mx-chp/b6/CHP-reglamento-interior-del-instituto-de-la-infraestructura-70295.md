@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-la-infraestructura-70295"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-19"
-last_updated: "2009-08-19"
+last_updated: "2010-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA INFRAESTRUCTURA FISICA EDUCATIVA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -531,9 +531,13 @@ La Dirección de Ingeniería de Costos, tiene los Órganos Administrativos sigui
 
 a) Departamento de Costos y Presupuestos de Obras;
 
-b) Departamento de Licitaciones, Concursos y Contratos; y,
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
 
-c) Departamento de Estimaciones.
+b) Departamento de Licitaciones y Concursos;
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
+
+c) Departamento de Contratos y Estimaciones.
 
 ###### Artículo 24.
 
@@ -672,3 +676,13 @@ Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8°, de la ley
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 20 días del mes de julio del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Javier Álvarez Ramos, Secretario de Educación.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE JUNIO DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a éste Decreto.
+
+Artículo Tercero.- Conforme a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado, publíquese el presente Decreto en el Periódico Oficial.
