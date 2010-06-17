@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-tribunal-federal-de-justicia-fiscal-y-31779"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-12"
-last_updated: "2009-11-13"
+last_updated: "2010-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31779&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2003-06-10"
 
 REGLAMENTO DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, PARA DAR CUMPLIMIENTO A LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL
 
-N. DE. E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, PUBLICADO EN EL D.O.F. DE 13 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO EN TODO LO QUE SE OPONGA AL NUEVO REGLAMENTO.
+N. DE. E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA PARA DAR CUMPLIMIENTO AL ARTICULO 61 DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL, PUBLICADO EN EL D.O.F. DE 17 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera sección del Diario Oficial de la Federación, el jueves 12 de junio de 2003.
 
@@ -898,3 +898,13 @@ NOVENO.- Las visitas a las Salas regionales durante el año 2009, se realizarán
 DECIMO.- El Tribunal llevará a cabo las acciones necesarias para integrar el Sistema de Justicia en Línea y el Sistema de Información Estadística a que se refiere el presente Reglamento, en términos de lo dispuesto por los artículos Segundo y Octavo Transitorios del Decreto por que se reforman y adicionan diversas disposiciones de la Ley Federal de Procedimiento Contencioso Administrativo y la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa, publicado en el Diario Oficial de la Federación el día 12 de junio de 2009.
 
 DECIMO PRIMERO.- Los servidores públicos obligados a presentar su declaración patrimonial presentarán su declaración ante la Secretaría de la Función Pública, debiendo entregar la constancia de cumplimiento respectiva a la Dirección de Registro Patrimonial de la Contraloría Interna, hasta en tanto se diseñen, desarrollen e implementen los sistemas necesarios para capturar las declaraciones de situación patrimonial de los servidores públicos.
+
+D.O.F. 17 DE JUNIO DE 2010.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento del Tribunal Federal de Justicia Fiscal y Administrativa, para dar cumplimiento con lo establecido en el artículo 61 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+
+TERCERO.- Los recursos que a la entrada en vigor del presente Reglamento se encuentren en sustanciación ante la Comisión de Recursos para la Transparencia de la Información, se resolverán por la Comisión de Transparencia y Acceso a la Información conforme al Reglamento que se abroga.
+
+CUARTO.- A la fecha de la entrada en vigor del presente Reglamento, el Titular de la Unidad de Enlace se mantendrá en funciones por lo que observará las disposiciones que establece el presente instrumento.
