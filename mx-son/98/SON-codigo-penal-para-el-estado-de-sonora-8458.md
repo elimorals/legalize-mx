@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2009-08-31"
+last_updated: "2010-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO PENAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE JUNIO DE 2010.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -3379,13 +3379,17 @@ VIII.- Aprovechando las condiciones de confusión que se produzcan por catástro
 
 IX.- Respecto de maquinaria, insumos y equipos agrícolas, frutos por cosechar o cosechados que se encuentren en el asiento de producción;
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, B.O. 17 DE JUNIO DE 2010)</small>
 
-X.- Respecto de vehículos de propulsión mecánica; y
+X.- Respecto de vehículos de propulsión mecánica;
 
-(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2008) (F. DE E., B.O. 5 DE FEBRERO DE 2009)
+> <small>(REFORMADA, B.O. 17 DE JUNIO DE 2010)</small>
 
-XI.- En el interior de instituciones de educación básica, media superior, superior o en sus inmediaciones.
+XI.- En el interior de instituciones de educación básica, media superior, superior o en sus inmediaciones; y
+
+> <small>(ADICIONADA, B.O. 17 DE JUNIO DE 2010)</small>
+
+XII.- Respecto de bienes que integren la infraestructura destinada a la prestación de los servicios de agua potable, alcantarillado y saneamiento.
 
 > <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
@@ -3888,3 +3892,9 @@ Los propietarios, poseedores, administradores o encargados de establecimientos, 
 ###### ARTÍCULO CUARTO.
 
 En un plazo no mayor a treinta días contados a partir de la entrada en vigor de la presente Ley, el Titular del Ejecutivo Estatal y los ayuntamientos, en su respectivo ámbito de competencia, deberán realizar las adecuaciones pertinentes y emitir las disposiciones administrativas necesarias para cumplir cabalmente con las disposiciones de este ordenamiento.
+
+B.O. 17 DE JUNIO DE 2010.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
