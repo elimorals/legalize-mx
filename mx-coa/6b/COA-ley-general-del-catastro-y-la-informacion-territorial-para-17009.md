@@ -4,7 +4,7 @@ identifier: "COA-ley-general-del-catastro-y-la-informacion-territorial-para-1700
 country: "mx"
 rank: "ley_general"
 publication_date: "1999-07-23"
-last_updated: "2007-06-29"
+last_updated: "2010-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY GENERAL DEL CATASTRO Y LA INFORMACION TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY GENERAL DEL CATASTRO Y LA INFORMACION TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 23 de julio de 1999.
 
@@ -65,23 +65,53 @@ e). Captar y registrar las características del territorio de la Entidad, tanto 
 
 f). Aportar información técnica en relación a los límites del territorio del Estado y de sus Municipios.
 
-III. INFORMACIÓN CATASTRAL: La identificación, registro y localización geográfica de los bienes inmuebles ubicados en el Estado; su representación cartográfica; la determinación de normas técnicas, metodologías y criterios a que debe sujetarse la información catastral, y el inventario de la propiedad raíz en el Estado, en los términos de la presente Ley.
+III. INFORMACIÓN CATASTRAL. La identificación, registro y localización geográfica de los bienes inmuebles ubicados en el Estado; su representación cartográfica; la determinación de normas técnicas, metodologías y criterios a que debe sujetarse la información catastral, y el inventario de la propiedad raíz en el Estado, en los términos de la presente Ley.
 
-IV. INFORMACIÓN ESTADÍSTICA: Las estadísticas generadas por hechos económicos, demográficos y sociales ocurridos en el Estado.
+IV. INFORMACIÓN ESTADÍSTICA. Las estadísticas generadas por hechos económicos, demográficos y sociales ocurridos en el Estado.
 
-V. INFORMACIÓN GEOGRÁFICA: Los estudios sociográficos, geodésicos, del medio físico y los recursos naturales, así como sus interrelaciones; su localización geográfica y representación semiológica en los productos cartográficos obtenidos.
+V. INFORMACIÓN GEOGRÁFICA. Los estudios sociográficos, geodésicos, del medio físico y los recursos naturales, así como sus interrelaciones; su localización geográfica y representación semiológica en los productos cartográficos obtenidos.
 
-VI. INSTITUTO: El Instituto Coahuilense del Catastro y la Información Territorial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII. LEY: La Ley General del Catastro para el Estado de Coahuila.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
 
-VIII. REGLAMENTO: El Reglamento de la Ley General del Catastro y la Información Territorial para el Estado de Coahuila.
+VI. SATEC. Servicio de Administración Tributaria de Coahuila.
 
-IX. UNIDAD: Unidad Catastral Municipal, considerada como el área integrada por el personal técnico y administrativo que señale el presupuesto municipal, encargada de las funciones catastrales que le asignan esta ley y su reglamento en el municipio que corresponda.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X. JUNTA: La Junta Municipal Catastral que se integre en cada municipio con las atribuciones de esta ley y su reglamento le confiere.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
 
-XI. INMUEBLE: Son bienes inmuebles, el suelo y las construcciones adheridas a él, todo lo que este unido al mismo de manera fija, de modo que no pueda separarse sin deterioro del mismo o del objeto a él adherido.
+VII. INSTITUTO. El Instituto Coahuilense del Catastro y la Información Territorial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+VIII. LEY. La Ley General del Catastro para el Estado de Coahuila.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+IX. REGLAMENTO. El Reglamento de la Ley General del Catastro y la Información Territorial para el Estado de Coahuila.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+X. UNIDAD. Unidad Catastral Municipal, considerada como el área integrada por el personal técnico y administrativo que señale el presupuesto municipal, encargada de las funciones catastrales que le asignan esta ley y su reglamento en el municipio que corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+XI. JUNTA. La Junta Municipal Catastral que se integre en cada municipio con las atribuciones de esta ley y su reglamento le confiere.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+XII. INMUEBLE. Son bienes inmuebles, el suelo y las construcciones adheridas a él, todo lo que este unido al mismo de manera fija, de modo que no pueda separarse sin deterioro del mismo o del objeto a él adherido.
 
 ###### ARTÍCULO 3.
 
@@ -95,13 +125,21 @@ Los actos y resoluciones en materia de catastro se emitirán en la forma, térmi
 
 Los bienes de propiedad Federal, Estatal o Municipal, y los pertenecientes a gobiernos extranjeros que se destinen a usos oficiales, serán registrados y valuados de acuerdo con la presente ley, clasificándolos en un padrón especial.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+
 ###### ARTÍCULO 6.
 
-Los propietarios, poseedores o usufructuarios y entidades públicas, previo pago de los derechos correspondientes, podrán solicitar los servicios relacionados con la información catastral, geográfica y estadística, así como las publicaciones, cartografía, certificaciones, reproducciones y demás que tienen a su cargo el Instituto y otras autoridades catastrales.
+Los propietarios, poseedores o usufructuarios y entidades públicas, previo pago de los derechos correspondientes, podrán solicitar los servicios relacionados con la información catastral, geográfica y estadística, así como las publicaciones, cartografía, certificaciones, reproducciones y demás que tienen a su cargo las autoridades catastrales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 7.
 
-El Instituto, con el propósito de informar a los particulares, mandará publicar en el Periódico Oficial del Gobierno del Estado, los costos de los servicios que preste en función de las actividades que desarrolla, previa aprobación de las cuotas o tarifas respectivas por parte del Consejo Directivo del Instituto.
+El SATEC, con el propósito de informar a los particulares, mandará publicar en el Periódico Oficial del Gobierno del Estado, los costos de los servicios que preste, a través del Instituto, en función de las actividades que desarrolla, previa aprobación de las cuotas o tarifas respectivas por parte del Consejo Directivo.
 
 Los derechos por servicios catastrales que prestan las autoridades municipales, estarán previstos en las leyes fiscales correspondientes.
 
@@ -117,13 +155,35 @@ Son autoridades en materia de catastro:
 
 I. El Congreso del Estado para aprobar los elementos que sirvan de base para fijar las contribuciones sobre materia inmobiliaria.
 
-II. El Instituto Coahuilense del Catastro y la Información Territorial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Los ayuntamientos.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
 
-IV. Los titulares de las Unidades Catastrales Municipales.
+II. El Servicio de Administración Tributaria de Coahuila.
 
-V. Los titulares de las direcciones o de los departamentos encargados del catastro en los municipios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+III. El Instituto Coahuilense del Catastro y la Información Territorial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+IV. Los ayuntamientos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+V. Los titulares de las Unidades Catastrales Municipales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+VI. Los titulares de las direcciones o de los departamentos encargados del catastro en los municipios.
 
 ###### ARTÍCULO 9.
 
@@ -141,7 +201,7 @@ V. Las Asociaciones Agropecuarias.
 
 VI. Las personas o instituciones privadas cuya colaboración se haga necesaria a juicio de las autoridades catastrales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 10.
 
@@ -223,7 +283,35 @@ XXIX. Asesorar, dar apoyo técnico y capacitar para el desarrollo de estudios e 
 
 XXX. Designar en el ámbito de su competencia, la persona o personas que deberán practicar visitas, inspecciones o verificaciones y expedir la constancia de verificación correspondiente.
 
-XXXI. Las demás que expresamente le determine esta ley y su Reglamento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+XXXI. Ejecutar las acciones necesarias para integrar la Junta, conforme a las disposiciones previstas en la ley y su reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+XXXII. Remitir a la Junta los proyectos de las tablas de valores que sean elaborados y remitidos, de manera conjunta por el Instituto y la Unidad para que, si lo considera procedente, realice observaciones y recomendaciones a los valores en ellos contenidos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+XXXIII. Remitir al Ayuntamiento las observaciones y recomendaciones que la junta haga a los proyectos de tablas generales de valores para, en su caso, incorporarlos en los proyectos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+XXXIV. Proponer al Congreso del Estado con arreglo a esta ley, las tablas de valores unitarios de suelo y construcciones, aprobadas por el Ayuntamiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+XXXV. Las demás que expresamente le determine esta ley y su Reglamento.
 
 ###### ARTÍCULO 11.
 
@@ -263,7 +351,11 @@ I. Elaborar los proyectos de las tablas de valores unitarios de suelo y construc
 
 II. Remitir a la Junta, los proyectos a que se refiere la fracción anterior.
 
-III. Analizar, de manera conjunta con el Instituto, las observaciones y recomendaciones formuladas por la Junta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+III. Analizar, de manera conjunta con el SATEC y el Instituto, las observaciones y recomendaciones formuladas por la Junta.
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -311,37 +403,33 @@ El Instituto, en coordinación con los ayuntamientos, expedirá las políticas, 
 
 El Instituto es la autoridad encargada de todo lo relacionado con la planeación, rectoría, vigilancia y subsidiariedad administrativa en materia de catastro en el estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2010)</small>
+
 ###### ARTÍCULO 15.
 
-La dirección y administración del Instituto estarán a cargo de un Consejo Directivo, un Director General y los demás órganos que prevea su reglamento Interior.
+La dirección y administración del Instituto estarán a cargo de un Consejo Directivo, un Coordinador General, un Director General y los demás órganos que prevea su reglamento Interior.
 
 El Instituto contará, además, con el personal necesarios para su eficaz funcionamiento, en los términos de la plantilla que apruebe su Consejo Directivo, conforme al presupuesto correspondiente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+
 ###### ARTÍCULO 16.
 
-El Consejo Directivo se integrará de la siguiente manera:
+La Junta de Gobierno del Servicio de Administración Tributaria de Coahuila, fungirá como Consejo Directivo del Instituto, será el órgano máximo del mismo y estará integrada de la siguiente manera:
 
-I. Un Presidente, que será el Titular del Ejecutivo del Estado.
+I. Gobernador del Estado de Coahuila.
 
-II. Un Secretario que será designado por el Presidente del Consejo Directivo.
+II. Secretario de Finanzas del Estado de Coahuila.
 
-III. Cinco Vocales, que serán:
+III. Secretario de Fomento Económico.
 
-a). El Secretario de Gobierno.
+IV. Secretario Ejecutivo del Servicio de Administración Tributaria del Estado de Coahuila.
 
-b). El Secretario de Finanzas.
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
-
-c). Secretario de Obras Públicas y Transporte.
-
-d). El Secretario de Desarrollo Social.
-
-e). Un representante de los Municipios del Estado, que será designado anualmente por los cinco ayuntamientos de los municipios del Estado con mayor población.
-
-El presidente nombrará libremente a quien deba sustituirlo en su ausencia y al Secretario del Consejo.
-
-Cada uno de los vocales del Consejo designará a un suplente de entre las personas que laboren en sus respectivas dependencias.
+El presidente nombrará libremente a quien deba sustituirlo en su ausencia.
 
 ###### ARTÍCULO 17.
 
@@ -371,11 +459,15 @@ IX. Celebrar con las dependencias y autoridades federales, convenios para el oto
 
 X. En general, realizar todos aquellos actos y operaciones autorizadas por la presente ley y los que fuesen necesarios para la mejor administración del Instituto.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+
 ###### ARTÍCULO 18.
 
-El Consejo Directivo celebrará, por lo menos, una sesión cada tres meses y las que sean necesarias para la eficaz marcha del Instituto. Las sesiones serán válidas cuando el quórum se integre con la mitad más uno de los miembros del Consejo, siempre que estuviere presente su Presidente o quien legalmente deba sustituirlo.
+El Consejo Directivo celebrará sesiones ordinarias los meses de Abril y de Octubre de cada año y extraordinarias cuando así lo proponga cualquier miembro del Consejo Directivo y se convoque a través del Secretario Ejecutivo del SATEC. Para que el Consejo Directivo sesione válidamente, se requerirá la asistencia de más de la mitad de sus integrantes.
 
-Las votaciones del Consejo se tomarán por mayoría de votos de los miembros presente (sic). En caso de empate, el Presidente tendrá voto de calidad.
+Las resoluciones del Consejo Directivo se tomarán por mayoría de votos de los integrantes presentes. El Gobernador del Estado de Coahuila tendrá voto de calidad en caso de empate.
 
 ###### ARTÍCULO 19.
 
@@ -395,9 +487,11 @@ VI. Autorizar, en unión del Secretario, las actas que se levanten de las sesion
 
 VII. En general, realizar todos aquellos actos que fuesen necesarios para el mejor funcionamiento del Consejo y del Instituto.
 
-###### ARTÍCULO 20.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El Director General del Instituto tendrá las facultades y obligaciones siguientes:
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2010)</small>
+
+ARTÍCULO 19 BIS. El Coordinador General del Instituto, será el Secretario Ejecutivo del SATEC, y tendrá las siguientes atribuciones:
 
 I. Ejecutar las funciones, ejercer las facultades y cumplir con las obligaciones que esta Ley le atribuya al Instituto.
 
@@ -408,6 +502,38 @@ III. Presentar al Consejo Directivo, en el mes de septiembre de cada año, el pr
 IV. Someter a la aprobación del Consejo los presupuestos de ingresos y egresos del Instituto.
 
 V. Gestionar el otorgamiento de créditos a favor del Instituto conforme a la Ley de Deuda Pública del Estado, previa autorización del Consejo Directivo.
+
+VI. Nombrar un representante en las Juntas Catastrales Municipales.
+
+VII. Las demás que por acuerdo del Consejo se le atribuyan y aquellas que le otorga la Ley que crea el Servicio de Administración Tributaria de Coahuila y las que le competen dentro del Reglamento Interno del Instituto.
+
+###### ARTÍCULO 20.
+
+El Director General del Instituto tendrá las facultades y obligaciones siguientes:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+I. Ejecutar las funciones, ejercer las facultades y cumplir con las obligaciones que esta Ley y su reglamento le atribuyan al Instituto, Así como aquellas que le deleguen el Consejo Directivo y el Coordinador General.
+
+II. Representar al Instituto ante particulares y ante autoridades administrativas o judiciales con todas las facultades de un mandato general para actos de administración y para pleitos y cobranzas, incluidas aquéllas que requieren cláusula especial conforme a la ley, en los términos de los artículos 2554 del Código Civil para el Distrito Federal y su correlativo del Código Civil para el Estado de Coahuila, pudiendo desistirse de amparos y formular querellas y acusaciones de carácter penal y con facultades para sustituir ese poder en todo o en parte, mediante el otorgamiento de poderes, conforme a su objeto, para pleitos y cobranzas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+III. Presentar al Coordinador General, en el mes de septiembre de cada año, el programa de trabajo del Instituto, para el siguiente ejercicio anual, para su respectiva presentación ante el Consejo Directivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+IV. Elaborar y presentar al Coordinador General, el proyecto de los presupuestos de ingresos y egresos del Instituto, para su respetiva presentación ante el Consejo Directivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+V. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
 
 VI. Llevar la contabilidad del Instituto, a través de las oficinas que se establezcan al efecto; así como responder del estado y manejo financiero del mismo.
 
@@ -421,7 +547,11 @@ X. Delegar sus funciones, en caso de ausencia temporal, en los funcionarios que 
 
 XI. Requerir a las personas físicas, morales, unidades económicas, así como a las autoridades estatales y municipales, la información estadística y geográfica que requiera el Instituto.
 
-XII. Las demás que por acuerdo del Consejo se le atribuyan, así como las que le competen dentro del Reglamento Interno del Instituto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+XII. Las demás que por acuerdo del Consejo se le atribuyan, así como las que le sean encargadas por el Coordinador General y aquellas que le competen dentro del Reglamento Interno del Instituto.
 
 ###### ARTÍCULO 21.
 
@@ -457,7 +587,11 @@ I. Un Presidente; que será el Presidente Municipal que corresponda, quien en ca
 
 II. Un Secretario; que será designado por el Presidente de la Junta, quien tendrá voz pero no voto.
 
-III. Un vocal que será el Director General del Instituto o la persona que éste designe.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+III. Un vocal que será el Coordinador General del Instituto o la persona que éste designe.
 
 IV. Un vocal representante del municipio que en todo caso será el titular de la Unidad o el servidor público que tenga a su cargo la función catastral del municipio que corresponda.
 
@@ -467,9 +601,15 @@ VI. Un vocal representante de los colegios o institutos de peritos debidamente a
 
 VII. Un vocal representante de la Cámara Agrícola o Ganadera en los municipios en que exista, en caso contrario, lo será un ciudadano propietario de bienes rústicos de reconocida solvencia moral.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+
 ###### ARTÍCULO 25.
 
-Hechas las designaciones de los miembros que integren las Juntas Catastrales Municipales, los presidentes de las mismas, citarán de inmediato a una reunión de todos los miembros que la integran para el efecto de levantar el acta de instalación, lo que podrán en conocimiento del Instituto, iniciando en esta forma sus funciones.
+Hechas las designaciones de los miembros que integren las Juntas Catastrales Municipales, los presidentes de las mismas, citarán de inmediato a una reunión de todos los miembros que la integran para el efecto de levantar el acta de instalación, lo que pondrán en conocimiento del Instituto, iniciando en esta forma sus funciones.
+
+Si dentro de los ocho días siguientes a la designación a que se refiere el párrafo anterior, no se cita a la Junta, el Instituto requerirá para que dentro de los ocho días se cite a la Junta e inicie sus funciones.
 
 ###### ARTÍCULO 26.
 
@@ -519,13 +659,15 @@ Los peritos designados deberán rendir el dictamen a que se refiere el párrafo 
 
 El dictamen que emitan los peritos, será la base para la solución de las discrepancias existentes, debiéndose incorporar en los proyectos de tablas de valores.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 30.
 
-La Unidad y el Instituto deberán presentar al Ayuntamiento, de manera conjunta los proyectos de tablas de valores unitarios de suelo y de construcción conforme a esta ley.
+La Unidad y el SATEC deberán presentar a los Ayuntamientos, de manera conjunta los proyectos de tablas de valores unitarios de suelo y de construcción conforme a esta ley, a efecto de que éstos previo su estudio hagan, si lo consideran procedente, observaciones y recomendaciones sobre los valores unitarios contenidos en los proyectos correspondientes.
 
-A su vez, los ayuntamientos los someterán a la consideración de las Juntas, a efecto de que éstas previo su estudio hagan, si lo consideran procedente, observaciones y recomendaciones sobre los valores unitarios contenidos en los proyectos correspondientes.
+Los Ayuntamientos, devolverán los proyectos de tablas de valores unitarios, acompañados de las observaciones y recomendaciones que estimen procedentes, dentro de los 15 días hábiles siguientes a aquél en que las reciban.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -685,7 +827,7 @@ VII. Incurrir en cualquier otro acto u omisión distinta a las enunciadas en las
 
 Son infracciones imputables a los servidores públicos de las dependencias y entidades de la administración pública estatal, de los municipios y organismos descentralizados, aquellas que por negligencia o por cualquier otra circunstancia alteren o falseen los datos que caracterizan a un predio para su identificación, y demás operaciones catastrales y de información territorial, con el fin de favorecer o perjudicar al propietario o poseedor del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 52.
 
@@ -1121,7 +1263,7 @@ EL SECRETARIO DE FINANZAS
 
 LIC. ANTONIO JUAN MARCOS ISSA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE MARZO DE 2001.
 
@@ -1174,3 +1316,13 @@ P.O. 29 DE JUNIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 18 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en la fecha en que inicie operaciones el Servicio de Administración Tributaria de Coahuila.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
