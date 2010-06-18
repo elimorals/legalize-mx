@@ -4,7 +4,7 @@ identifier: "FED-ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion-68
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-29"
-last_updated: "2009-05-29"
+last_updated: "2010-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68588&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRCF"
 
 LEY DE FISCALIZACION Y RENDICION DE CUENTAS DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JUNIO DE 2010.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de mayo de 2009.
 
@@ -342,11 +342,15 @@ XXVII. Solicitar la presencia de representantes de las entidades fiscalizadas en
 
 XXVIII. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento para la fiscalización de la Cuenta Pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JUNIO DE 2010)</small>
+
 ###### Artículo 16.
 
-La Auditoría Superior de la Federación, durante el mes de diciembre del año en que se presentó la Cuenta Pública y a más tardar en el mes de enero del año siguiente, dará a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados finales y las observaciones preliminares que se deriven de la revisión de la misma, a efecto de que dichas entidades presenten las justificaciones y aclaraciones que correspondan.
+La Auditoría Superior de la Federación, a más tardar en el mes de enero del año siguiente al que se presentó la Cuenta Pública, dará a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados finales y las observaciones preliminares que se deriven de la revisión de la misma, a efecto de que dichas entidades presenten las justificaciones y aclaraciones que correspondan.
 
-A las reuniones en las que se de a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de la revisión de la Cuenta Pública, se les citará por lo menos con 3 días hábiles de anticipación, remitiendo con la misma anticipación a las entidades fiscalizadas los resultados y las observaciones preliminares de las auditorías practicadas. En dichas reuniones las entidades fiscalizadas podrán presentar las justificaciones y aclaraciones que estimen pertinentes. Adicionalmente, la Auditoría Superior de la Federación les concederá un plazo de 7 días hábiles para que presenten argumentaciones adicionales y documentación soporte, mismas que deberán ser valoradas por esta última para la elaboración del Informe del Resultado.
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+A las reuniones en las que se dé a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados y observaciones preliminares que se deriven de la revisión de la Cuenta Pública, se les citará por lo menos con 3 días hábiles de anticipación, remitiendo con la misma anticipación a las entidades fiscalizadas los resultados y las observaciones preliminares de las auditorías practicadas. En dichas reuniones las entidades fiscalizadas podrán presentar las justificaciones y aclaraciones que estimen pertinentes. Adicionalmente, la Auditoría Superior de la Federación les concederá un plazo de 7 días hábiles para que presenten argumentaciones adicionales y documentación soporte, misma que deberán ser valoradas por esta última para la elaboración del Informe del Resultado.
 
 Una vez que la Auditoría Superior de la Federación valore las justificaciones, aclaraciones y demás información a que hacen referencia los párrafos anteriores, podrá determinar la procedencia de eliminar, rectificar o ratificar los resultados y las observaciones preliminares que les dio a conocer a las entidades fiscalizadas, para efectos de la elaboración definitiva del Informe del Resultado.
 
@@ -1233,3 +1237,9 @@ Noveno.- Los convenios de colaboración que se hubieren celebrado con anteriorid
 México, D.F., a 30 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Sen. Claudia Sofía Corichi García, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de mayo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 18 DE JUNIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
