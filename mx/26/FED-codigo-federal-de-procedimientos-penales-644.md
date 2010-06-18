@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2009-08-20"
+last_updated: "2010-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JUNIO DE 2010.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -2409,7 +2409,9 @@ I. Del Código Penal Federal, los delitos siguientes:
 
 24) Secuestro, previsto en el artículo 366, salvo los dos párrafos últimos, y tráfico de menores, previsto en el artículo 366 ter;
 
-25) Robo calificado, previsto en el artículo 367 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372 y 381, fracciones VII, VIII, IX, X, XI, XIII, XV y XVI;
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+25) Robo calificado, previsto en el artículo 367 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372 y 381, fracciones VII, VIII, IX, X, XI, XIII, XV, XVI y XVII;
 
 26) Robo calificado, previsto en el artículo 367, en relación con el 370 párrafos segundo y tercero, cuando se realice en cualquiera de las circunstancias señaladas en el artículo 381 Bis;
 
@@ -5580,3 +5582,9 @@ TERCERO.- A las personas que hayan cometido un delito de los contemplados en el 
 CUARTO.- Las autoridades competentes financiaran las acciones derivadas del cumplimiento del presente Decreto con los recursos que anualmente se prevea en el Presupuesto de Egresos de la Federación, sin menoscabo de los recursos que para tales efectos aporten las entidades federativas.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 18 DE JUNIO DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Los procesos que se encuentren en conocimiento de los Jueces del Fuero Común de los Estados y del Distrito Federal, continuarán de la misma forma hasta su conclusión.
