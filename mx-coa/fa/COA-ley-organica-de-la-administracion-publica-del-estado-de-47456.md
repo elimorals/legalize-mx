@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-47456"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-12-07"
-last_updated: "2010-05-21"
+last_updated: "2010-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2010.
 
 Ley publicada en Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 7 de diciembre de 2005.
 
@@ -445,7 +445,11 @@ XIV. Dirigir y administrar la edición, publicación y distribución del Periód
 
 XV. Publicar en el Periódico Oficial del Gobierno del Estado las leyes y decretos que expida el Poder Legislativo; los decretos y acuerdos que emita el Ejecutivo Estatal; así como las resoluciones y disposiciones que por Ley deban publicarse en el Periódico Oficial del Gobierno del Estado; así como las Leyes Federales en los términos del artículo 120 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XVI. Organizar, dirigir, evaluar y vigilar el ejercicio de las funciones del Registro Civil y del Registro Público;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+XVI. Organizar, dirigir, evaluar y vigilar el ejercicio de las funciones del Registro Civil;
 
 XVII. Administrar el Archivo Histórico y el General del Poder Ejecutivo del Estado, así como vigilar el cumplimiento de las disposiciones legales en materia de documentación y archivos públicos;
 
@@ -547,37 +551,67 @@ I. Solicitar, recibir e integrar las propuestas de inversión de las dependencia
 
 II. Elaborar el proyecto de la Ley de Ingresos y del Presupuesto de Egresos del Estado, en coordinación con las dependencias y entidades y someterlo a la aprobación del Titular del Ejecutivo, sin perjuicio de lo establecido en la Ley Orgánica de la Fiscalía General del Estado;
 
-III. Recaudar los ingresos de carácter fiscal que establezcan las leyes y aquellos otros ingresos cuya exacción le corresponde o ha sido delegada al Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. Constituir y actualizar los padrones de contribuyentes, controlar el cumplimiento de sus obligaciones, ejercer la facultad económico-coactiva y las acciones de fiscalización tendientes a evitar la evasión y elusión por parte de los mismos;
+III. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
 
-V. Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones de carácter hacendario, aplicables en el Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI. Ejecutar las acciones derivadas de los convenios de coordinación fiscal que celebre el Gobierno del Estado con el Gobierno Federal, con los municipios de la Entidad y con los gobiernos de otros Estados de la República;
+IV. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
 
-VII. Proporcionar asesoría, en materia de interpretación y aplicación de las leyes tributarias del Estado, a los municipios y a los causantes que lo soliciten y realizar una labor permanente de difusión y orientación fiscal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII. Efectuar auditorias, inspecciones y verificaciones a los contribuyentes en los términos de las disposiciones fiscales aplicables;
+V. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
 
-IX. Ejercer el procedimiento administrativo de ejecución, conforme a la legislación correspondiente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X. Representar y defender el interés de la Hacienda Pública del Estado en controversias fiscales;
+VI. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
 
-XI. Suscribir, previa aprobación del Gobernador del Estado, convenios con los contribuyentes, en relación con el pago de contribuciones así como para que a través de los servicios bancarios se recauden créditos fiscales estatales o federales coordinados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XII. Cancelar las cuentas incobrables, y en su caso, reintegrar las cantidades pagadas incorrectamente por los contribuyentes, previo acuerdo con la Secretaría de la Función Pública;
+VII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
 
-XIII. Coordinar las funciones del Instituto Coahuilense del Catastro y de la Información Territorial;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIV. Programar, operar y controlar el sistema de recaudación de rentas en el Estado y sus oficinas y proponer al Ejecutivo el establecimiento, supresión o fusión de oficinas recaudadoras, de acuerdo con las exigencias del servicio;
+VIII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
 
-XV. Convenir con los ayuntamientos para que, cuando así se requiera, el Tesorero Municipal asuma las funciones de Recaudador de Rentas del Estado, por el tiempo que sea necesario;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+IX. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+X. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XI. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XIII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XIV. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XV. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
 
 XVI. Recibir, coordinar y registrar, la entrega oportuna de los fondos descentralizados para inversión que la Federación participe al Estado y de los recursos estatales que se descentralicen a los Municipios;
 
-XVII. Obtener, revisar, aplicar y en su caso reclamar, las participaciones de impuestos federales a favor del Gobierno del Estado, y acudir en auxilio de los municipios, cuando éstos lo soliciten, para gestionar lo que a ellos les corresponda;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVIII. Recibir, revisar y distribuir en los términos de las leyes y de los convenios aplicables, las participaciones de impuestos federales que les corresponden a los municipios;
+XVII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XVIII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
 
 XIX. Dirigir la negociación y llevar el registro y control de la deuda pública del Estado, informando al Ejecutivo periódicamente sobre el estado de las amortizaciones de capital y pago de intereses;
 
@@ -587,9 +621,13 @@ XX. Custodiar y concentrar los fondos y valores financieros del Gobierno del Est
 
 XXI. Administrar las erogaciones conforme al presupuesto de egresos y de la legislación respectiva; en consecuencia, no podrá autorizar el pago de percepciones extraordinarias, remuneraciones o percepciones distintas a su ingreso establecido en el presupuesto de egresos, a los servidores públicos estatales que ocupen un cargo de elección popular;
 
-XXII. Representar al fisco del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXIII. Organizar, operar y controlar la contabilidad pública y la estadística financiera del Estado;
+XXII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XXIII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
 
 XXIV. Llevar la contabilidad de la Hacienda Pública Estatal formulando estados financieros mensuales y presentar anualmente al Gobernador del Estado, durante el mes de enero, un informe pormenorizado del ejercicio fiscal anterior;
 
@@ -597,9 +635,11 @@ XXIV. Llevar la contabilidad de la Hacienda Pública Estatal formulando estados 
 
 XXV. Presentar al H. Congreso del Estado, previo acuerdo del Titular del Poder Ejecutivo, la cuenta pública estatal, para efectos de su revisión, discusión y, en su caso, aprobación, la que estará integrada por los informes de avance de gestión financiera en los términos dispuestos por la Ley de Fiscalización Superior del Estado de Coahuila;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXVI. Proporcionar al H. Congreso del Estado y a la Auditoría Superior del Estado, la información que se solicite con relación al funcionamiento de la dependencia;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+XXVII. Proponer al Ejecutivo las reformas tendientes a mejorar la política financiera.
 
 XXVII. Proponer al Ejecutivo las reformas tendientes a mejorar la política financiera y fiscal;
 
@@ -613,9 +653,13 @@ XXXI. Conocer e integrar las propuestas de gasto e inversión que formulen las D
 
 XXXII. Observar el cumplimiento de la normatividad estatal y, en su caso, federal en materia de programación, presupuestación y evaluación del gasto;
 
-XXXIII. Determinar los criterios y montos globales de los estímulos fiscales, estudiar y proyectar sus efectos en los ingresos del Estado y evaluar sus resultados conforme a sus objetivos, atendiendo para ello a los sectores beneficiados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXXIV. Otorgar los estímulos fiscales necesarios para el desarrollo económico y social del Estado;
+XXXIII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XXXIV. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
 
 XXXV. Someter al Ejecutivo del Estado para su aprobación, los programas de inversión pública y autorizar los proyectos derivados de los mismos;
 
@@ -637,19 +681,29 @@ XLIII. Autorizar, para efectos presupuestales, los cambios en la estructura de l
 
 XLIV. Tramitar los nombramientos, remociones, licencias, retiros, pensiones y jubilaciones de los servidores públicos de la Administración Pública Estatal;
 
-XLV. Administrar, cuando así lo disponga la normatividad aplicable, los fondos de pensiones de los servidores públicos de la Administración Pública Estatal, de los otros organismos, entidades y Poderes del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XLVI. Mantener el inventario y control de los bienes muebles e inmuebles del Estado, así como la contabilidad patrimonial;
+XLV. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
 
-XLVII. Coordinar las funciones del Comité para el control de adquisiciones y operaciones patrimoniales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XLVI. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XLVII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
 
 XLVIII. Establecer en coordinación con la Secretaría de la Función Pública, las normas de recepción y entrega de los bienes de las dependencias y entidades, y vigilar su cumplimiento;
 
 XLIX. Organizar, y reglamentar el programa de retiro voluntario para el personal operativo, de base y de confianza del Gobierno del Estado, así como los seguros, fondos y estímulos que se juzgue conveniente;
 
-L. Participar en los términos de las leyes de la materia, en la celebración de contratos de compraventa, arrendamiento, seguros, comodato, donación y demás, en los que se afecte el patrimonio del Estado; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-LI. Administrar y vigilar los almacenes generales en donde se depositan bienes del Estado.
+L. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+LI. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
 
 ###### ARTÍCULO 27.
 
@@ -661,7 +715,11 @@ II. Planear y promover, con la participación de los sectores social y privado, 
 
 III. Proponer al Ejecutivo del Estado la celebración de convenios o acuerdos necesarios con las distintas instancias de Gobierno y con el sector social y privado, tendientes a incrementar e incentivar el desarrollo y la inversión en las distintas actividades económicas en la Entidad;
 
-IV. Promover ante la Secretaría de Finanzas estímulos fiscales que se estimen pertinentes para el establecimiento de empresas, así como otorgar subsidio y estímulos en infraestructura cuando se estime conveniente para la promoción de las fuentes de empleo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+IV. Promover ante el Servicio de Administración Tributaria del Estado de Coahuila, estímulos fiscales que se estimen pertinentes para el establecimiento de empresas, así como otorgar subsidio y estímulos en infraestructura cuando se estime conveniente para la promoción de las fuentes de empleo;
 
 V. Impulsar, coordinar y ejecutar los programas de promoción del comercio exterior y la inversión extranjera en los distintos sectores de la economía del Estado;
 
@@ -1694,3 +1752,13 @@ SEXTO.- El mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos 
 Los asuntos o trámites pendientes de resolución al momento de la entrada en vigor del presente Decreto, se resolverán por la dependencia ante la cual se iniciaron.
 
 SÉPTIMO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en la fecha en que inicie operaciones el Servicio de Administración Tributaria de Coahuila.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
