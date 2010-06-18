@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2009-12-11"
+last_updated: "2010-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -65,9 +65,11 @@ Para la actualización de las cuotas, en ningún caso podrá aplicarse un factor
 
 Cuando esta ley establezca una forma o periodo distinto específicamente para la actualización de alguna contribución, se aplicará ésta, en lugar de lo dispuesto en este artículo.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Las cuotas actualizadas deberán publicarse anualmente, por la Secretaría de Finanzas, en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+
+Las cuotas actualizadas deberán publicarse anualmente, por el Servicio de Administración Tributaria para el Estado de Coahuila, en el Periódico Oficial del Gobierno del Estado.
 
 > <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
 
@@ -223,7 +225,7 @@ En la fecha en que se realice el evento, el interventor autorizado podrá recaba
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-Cuando no se realice el pago conforme a lo establecido en el presente articulo, la autoridad fiscal procederá a hacerlo efectivo mediante el Procedimiento Administrativo de Ejecución, o en su caso, aplicar la garantía otorgada por el contribuyente.
+Cuando no se realice el pago conforme a lo establecido en el presente artículo, la autoridad fiscal procederá a hacerlo efectivo mediante el Procedimiento Administrativo de Ejecución, o en su caso, aplicar la garantía otorgada por el contribuyente.
 
 I.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2007)
 
@@ -2659,9 +2661,9 @@ TARIFA
 
 I.- Por recepción, evaluación y expedición de la autorización del Generador de Residuos $3,000.00 (TRES MIL PESOS 00/100 MN.).
 
-II.- Por la recepción, evaluación y expedición de la autorización como Transportista de Residuos Especiales $4,000.00 (CUATRO MIL PESOS 00/I00M.N.).
+II.- Por la recepción, evaluación y expedición de la autorización como Transportista de Residuos Especiales $4,000.00 (CUATRO MIL PESOS 00/100M.N.).
 
-III.- Por expedición de la revalidación anual de la autorización como Transportista de Residuos Especiales $1,600.00 (MIL SEISCIENTOS PESOS 00/1 00 M.N.).
+III.- Por expedición de la revalidación anual de la autorización como Transportista de Residuos Especiales $1,600.00 (MIL SEISCIENTOS PESOS 00/100 M.N.).
 
 IV.- Por la recepción, evaluación y expedición de la Licencia de Funcionamiento en Materia de Atmósfera $4,000.00 (CUATRO MIL PESOS 00/100 M.N.).
 
@@ -3245,7 +3247,7 @@ I.- Proyectos, programas, especificaciones de construcción y presupuestos con e
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-II.- Area beneficiada con la obra y zona de influencia; y
+II.- Área beneficiada con la obra y zona de influencia; y
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -3349,7 +3351,7 @@ I.- Descripción genérica de la obra;
 
 II.- Costo total estimado;
 
-III.- Area beneficiada con la obra y zona de influencia;
+III.- Área beneficiada con la obra y zona de influencia;
 
 IV.- Ubicación del predio;
 
@@ -3561,7 +3563,7 @@ DISPOSICION DE VIGENCIA ANUAL
 
 UNICA.- Los contribuyentes del Impuesto Sobre Nóminas podrán optar por el pago anual del impuesto en términos del artículo 27 de la Ley de Hacienda para el Estado de Coahuila de Zaragoza, siempre y cuando el monto de lo pagado por este mismo concepto durante el ejercicio fiscal anterior, no exceda de la cantidad de $1,000.00 (MIL PESOS 00/100 M.N.).
 
-Los contribuyentes que se acojan a la opción señalada en el párrafo anterior, gozarán de un estímulo fiscal consistente en un descuento del 15% (quince porciento) del impuesto a su cargo, siempre y cuando la declaración correspondiente al mes de enero, se presente dentro del plazo establecido en la Ley de Hacienda para el Estado de Coahuila de Zaragoza.
+Los contribuyentes que se acojan a la opción señalada en el párrafo anterior, gozarán de un estímulo fiscal consistente en un descuento del 15% (quince por ciento) del impuesto a su cargo, siempre y cuando la declaración correspondiente al mes de enero, se presente dentro del plazo establecido en la Ley de Hacienda para el Estado de Coahuila de Zaragoza.
 
 DADO en el Salón de Sesiones del Congreso del Estado, en la ciudad de Saltillo, Coahuila, a los doce días del mes de diciembre de mil novecientos noventa y cinco.
 
@@ -3619,7 +3621,7 @@ DISPOSICION DE VIGENCIA ANUAL
 
 UNICA.- Los contribuyentes del Impuesto Sobre Nóminas podrán optar por el pago anual del impuesto en términos del artículo 27 de esta ley siempre y cuando el monto de lo pagado por este mismo concepto durante el ejercicio fiscal anterior, no exceda de la cantidad de $1,500.00 (MIL QUINIENTOS PESOS 00/100 M.N.).
 
-Los contribuyentes que se acojan a la opción señalada en el párrafo anterior, gozarán de un estímulo fiscal consistente en un descuento del 15% (quince porciento) del impuesto a su cargo, siempre y cuando la declaración correspondiente al mes de enero, se presente dentro del plazo establecido en esta ley.
+Los contribuyentes que se acojan a la opción señalada en el párrafo anterior, gozarán de un estímulo fiscal consistente en un descuento del 15% (quince por ciento) del impuesto a su cargo, siempre y cuando la declaración correspondiente al mes de enero, se presente dentro del plazo establecido en esta ley.
 
 P.O. 12 DE DICIEMBRE DE 1997.
 
@@ -3832,3 +3834,13 @@ Los servicios que tiene a su cargo la Secretaría de Finanzas, regulado en el Ti
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en la fecha en que inicie operaciones el Servicio de Administración Tributaria de Coahuila.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
