@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-propiedad-industrial-antes-ley-de-fomento-y-142"
 country: "mx"
 rank: "ley"
 publication_date: "1991-06-27"
-last_updated: "2010-01-06"
+last_updated: "2010-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-06-26"
 
 LEY DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JUNIO DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 27 de junio de 1991.
 
@@ -127,7 +127,13 @@ IX.- Fungir como árbitro en la resolución de controversias relacionadas con el
 
 > <small>(REFORMADA, D.O.F. 6 DE ENERO DE 2010)</small>
 
-X.- Efectuar la publicación legal, a través de la Gaceta, así como difundir la información derivada de las patentes, registros, declaratorias de notoriedad o fama de marcas, autorizaciones y publicaciones concedidos y de cualesquiera otras referentes a los derechos de propiedad industrial que le confiere esta Ley, así como establecer las reglas generales para la gestión de trámites a través de medios de comunicación electrónica y su puesta en operación;
+X.- Efectuar la publicación legal, a través de la Gaceta, así como difundir la información derivada de las patentes, registros, declaratorias de notoriedad o fama de marcas, autorizaciones y publicaciones concedidos y de cualesquiera otras referentes a los derechos de propiedad industrial que le confiere esta Ley, así como establecer las reglas generales para la gestión de trámites a través de medios de comunicación electrónica y su puesta en operación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+Deberán publicarse en el ejemplar del mes inmediato posterior a su emisión, todas las resoluciones emitidas en los procedimientos de declaración administrativa que prevé esta Ley, así como las que desahoguen peticiones que tengan por objeto modificar las condiciones o alcance de patentes o registros concedidos;
 
 XI.- Difundir, asesorar y dar servicio al público en materia de propiedad industrial;
 
@@ -239,9 +245,11 @@ II.- Estado de la técnica, al conjunto de conocimientos técnicos que se han he
 
 III.- Actividad inventiva, al proceso creativo cuyos resultados no se deduzcan del estado de la técnica en forma evidente para un técnico en la materia;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Aplicación industrial, a la posibilidad de que una invención pueda ser producida o utilizada en cualquier rama de la actividad económica;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+IV.- Aplicación industrial, a la posibilidad de que una invención tenga una utilidad práctica o pueda ser producida o utilizada en cualquier rama de la actividad económica, para los fines que se describan en la solicitud;
 
 V.- Reivindicación, a la característica esencial de un producto o proceso cuya protección se reclama de manera precisa y específica en la solicitud de patente o de registro y se otorga, en su caso, en el título correspondiente, y
 
@@ -491,7 +499,17 @@ I.- Que al solicitar la patente se reclame la prioridad y se haga constar el pa�
 
 II.- Que la solicitud presentada en México no pretenda el otorgamiento de derechos adicionales a los que se deriven de la solicitud presentada en el extranjero.
 
-Si se pretendieren derechos adicionales a los que se deriven de la solicitud presentada en el extranjero considerada en su conjunto, la prioridad deberá ser sólo parcial y referida a esta solicitud. Respecto de las reivindicaciones que pretendieren derechos adicionales, se podrá solicitar un nuevo reconocimiento de prioridad, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+Si se pretendieren derechos adicionales a los que se deriven de la solicitud presentada en el extranjero considerada en su conjunto, la prioridad deberá ser sólo parcial y referida a esta solicitud.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE JUNIO DE 2010)</small>
+
+Respecto de las reivindicaciones que pretendieren derechos adicionales, se podrá solicitar un nuevo reconocimiento de prioridad o, en su defecto, éstas se sujetarán al examen de novedad que corresponda a la fecha de presentación a la que se refiere el artículo 38 BIS;
 
 III.- Que dentro de los tres meses siguientes a la presentación de la solicitud, se cumplan los requisitos que señalen los Tratados Internacionales, esta Ley y su reglamento, y
 
@@ -531,7 +549,11 @@ El proceso y maquinaria o aparatos para obtener un modelo de utilidad o un dise�
 
 A la solicitud de patente se deberá acompañar:
 
-I.- La descripción de la invención, que deberá ser lo suficientemente clara y completa para permitir una comprensión cabal de la misma y, en su caso, para guiar su realización por una persona que posea pericia y conocimientos medios en la materia. Asimismo, deberá incluir el mejor método conocido por el solicitante para llevar a la práctica la invención, cuando ello no resulte claro de la descripción de la invención.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+I.- La descripción de la invención, que deberá ser lo suficientemente clara y completa para permitir una comprensión cabal de la misma y, en su caso, para guiar su realización por una persona que posea pericia y conocimientos medios en la materia. Asimismo, deberá incluir el mejor método conocido por el solicitante para llevar a la práctica la invención, cuando ello no resulte claro de la descripción de la invención, así como la información que ejemplifique la aplicación industrial del invento.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -572,6 +594,16 @@ Presentada la solicitud, el Instituto realizará un examen de forma de la docume
 ###### Artículo 52.
 
 La publicación de la solicitud de patente en trámite tendrá lugar lo más pronto posible después del vencimiento del plazo de 18 meses, contado a partir de la fecha de la presentacióno (sic), en su caso, de prioridad reconocida. A petición del solicitante, la solicitud será publicada antes del vencimiento del plazo señalado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+Artículo 52 BIS.- Dentro de un plazo de seis meses, contados a partir de la fecha de publicación en la Gaceta, el Instituto podrá recibir información de cualquier persona, relativa a si la solicitud cumple con lo dispuesto en los artículos 16 y 19 de esta Ley.
+
+El Instituto podrá, cuando así lo estime conveniente, considerar dicha información como documentos de apoyo técnico para el examen de fondo que sobre la solicitud realice, sin estar obligado a resolver sobre el alcance de la misma. El Instituto dará vista al solicitante de los datos y documentos aportados para que, de considerarlo procedente, exponga por escrito los argumentos que a su derecho convengan.
+
+La presentación de información no suspenderá el trámite, ni atribuirá a la persona que la hubiera presentado el carácter de interesado, tercero o parte, y, en su caso, procederá el ejercicio de las acciones previstas en el artículo 78 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -643,7 +675,11 @@ IV.- Fechas de presentación de la solicitud y de prioridad reconocida en su cas
 
 V.- Denominación de la invención, y
 
-VI.- Su vigencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+VI.- Su vigencia y fecha de vencimiento, especificando que la misma estará sujeta al pago de las tarifas para mantener vigentes los derechos, en los términos señalados por la ley.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -2023,11 +2059,13 @@ Se exceptúa de lo anterior a la información que sea de carácter oficial o la 
 
 Las solicitudes de declaración administrativa de nulidad, caducidad, cancelación e infracción administrativa que establece esta Ley, se sustanciarán y resolverán con arreglo al procedimiento que señala este capítulo y las formalidades que esta Ley prevé, siendo aplicable supletoriamente, en lo que no se oponga, el Código Federal de Procedimientos Civiles.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2010)</small>
 
 ###### Artículo 188.
 
-El Instituto podrá iniciar el procedimiento de declaración administrativa de oficio o a petición de quien tenga interés jurídico y funde su pretensión.
+El Instituto podrá iniciar el procedimiento de declaración administrativa de oficio o a petición de quien tenga un interés jurídico y funde su pretensión. De igual manera, cualquier persona podrá manifestar por escrito al Instituto la existencia de causales para iniciar el procedimiento de declaración administrativa de oficio, en cuyo caso el Instituto podrá considerar dicha información como elementos para determinar el inicio del procedimiento, de considerarlo procedente.
 
 ###### Artículo 189.
 
@@ -2189,7 +2227,23 @@ III. Proporcione la información necesaria para la identificación de los bienes
 
 La persona contra la que se haya adoptado la medida podrá exhibir contrafianza para responder de los daños y perjuicios que se causen al solicitante de la misma, a efecto de obtener su levantamiento.
 
-El Instituto deberá tomar en consideración la gravedad de la infracción y la naturaleza de la medida solicitada para adoptar la práctica de ésta y determinar el importe de la fianza y la contrafianza.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+El Instituto deberá tomar en consideración la gravedad de la infracción y la naturaleza de la medida solicitada para adoptar la práctica de ésta.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+Para determinar el importe de la fianza el Instituto tomará en consideración los elementos que le aporte el titular del derecho así como los que se desprendan de las actuaciones en el expediente. El importe de la contrafianza comprenderá la cantidad afianzada por el solicitante de las medidas y un monto adicional de cuarenta por ciento sobre el que se hubiere exhibido para la fianza.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+El Instituto podrá requerir al solicitante la ampliación de la fianza, cuando de la práctica de las medidas se desprenda que la otorgada inicialmente resulta insuficiente para responder de los daños y perjuicios que se pudieran causar a la persona en contra de quien se haya solicitado la medida. En el mismo sentido, el Instituto podrá ordenar el incremento de la contrafianza.
 
 > <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -2469,11 +2523,19 @@ c) Un bien que incorpore un circuito integrado que a su vez incorpore un esquema
 
 XXV.- No proporcionar al franquiciatario la información, a que se refiere el artículo 142 de esta Ley, siempre y cuando haya transcurrido el plazo para ello y haya sido requerida;
 
-> <small>(ADICIONADA, D.O.F. 25 DE ENERO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXVI.- Usar la combinación de signos distintivos, elementos operativos y de imagen, que permitan identificar productos o servicios iguales o similares en grado de confusión a otros protegidos por esta Ley y que por su uso causen o induzcan al público a confusión, error o engaño, por hacer creer o suponer la existencia de una relación entre el titular de los derechos protegidos y el usuario no autorizado. El uso de tales elementos operativos y de imagen en la forma indicada constituye competencia desleal en los términos de la fracción I de este mismo artículo, y
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2010)</small>
 
-XXVII.- Las demás violaciones a las disposiciones de esta Ley que no constituyan delitos.
+XXVI.- Usar la combinación de signos distintivos, elementos operativos y de imagen, que permitan identificar productos o servicios iguales o similares en grado de confusión a otros protegidos por esta Ley y que por su uso causen o induzcan al público a confusión, error o engaño, por hacer creer o suponer la existencia de una relación entre el titular de los derechos protegidos y el usuario no autorizado. El uso de tales elementos operativos y de imagen en la forma indicada constituye competencia desleal en los términos de la fracción I de este mismo artículo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+XXVII.- Cuando el titular de una patente o su licenciatario, usuario o distribuidor, inicie procedimientos de infracción en contra de uno o más terceros, una vez que el Instituto haya determinado, en un procedimiento administrativo anterior que haya causado ejecutoria, la inexistencia de la misma infracción, y
+
+XXVIII.- Las demás violaciones a las disposiciones de esta Ley que no constituyan delitos.
 
 ###### Artículo 214.
 
@@ -2792,3 +2854,7 @@ DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULO 6 Y 7 BIS 2 DE LA LEY DE
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las acciones que deba realizar el Instituto Mexicano de la Propiedad Industrial para dar cumplimiento a la presente reforma, deberán implementarse de forma progresiva, sujetándose a los ingresos previstos en la Ley de Ingresos, a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y a los recursos aprobados para dicho fin en el Presupuesto de Egresos de la Federación.
+
+D.O.F. 18 DE JUNIO DE 2010.
+
+Único. El presente Decreto entrará en vigor a los 90 días de su publicación en el Diario Oficial de la Federación.
