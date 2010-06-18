@@ -4,7 +4,7 @@ identifier: "FED-ley-que-determina-que-respecto-de-los-impuestos-de-804"
 country: "mx"
 rank: "ley"
 publication_date: "1952-01-10"
-last_updated: "1952-01-10"
+last_updated: "2010-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=804&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1951-11-19"
 
 LEY QUE DETERMINA QUE RESPECTO DE LOS IMPUESTOS DE IMPORTACION Y EXPORTACION SOLO SON PROCEDENTES LAS EXENCIONES CONSIGNADAS EN LA LEY ADUANAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 10 de enero de 1952.
 
@@ -70,3 +72,9 @@ Las disposiciones de la Ley de Fomento de Industrias de Transformación, relativ
 Rafael Corrales Ayala, D. P.- Fernando López Arias, S. P.- Uriel Herrera Estúa, D. S.- Pedro Guerrero Martínez, S. S.- Rúbrica."
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para debida publicación y observancia, expido el presente decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los diecinueve días del mes de noviembre de mil novecientos cincuenta y uno.- Miguel Alemán.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ramón Beteta.- Rúbrica.- El Subsecretario de Gobernación, Encargado del Despacho, Ernesto P. Uruchurtu.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 18 DE JUNIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
