@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-regula-a-los-establecimientos-en-donde-se-46627"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-12"
-last_updated: "2005-10-12"
+last_updated: "2010-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "NLE"
 
 REGLAMENTO QUE REGULA A LOS ESTABLECIMIENTOS EN DONDE SE VENDE Y/O SE CONSUMEN BEBIDAS ALCOHOLICAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 12 de octubre de 2005.
 
@@ -874,6 +874,14 @@ IX. Por incumplimiento a lo dispuesto por el Artículo 64 fracciones XXVIII y XX
 
 X. Por incumplimiento a cualquier otro lineamiento de operación que se derive de la aplicación del presente Reglamento o de la Ley Estatal, multa de 35 a 50 cuotas.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE JUNIO DE 2010)</small>
+
+XI. Por incumplimiento a lo dispuesto en el artículo 60 fracciones, I, II, III, IV, V, VI, VII, VIII, IX multa de 50 a 100 cuotas, en caso de reincidencia, se duplicará el monto de la multa impuesta previamente y la clausura temporal del establecimiento de 5 a 7 días. En el caso de incurrir nuevamente en la violación se aplicara una multa igual que la determinada en el párrafo anterior, la clausura definitiva del establecimiento, y la revocación de la licencia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE JUNIO DE 2010)</small>
+
+XII. A los distribuidores o proveedores que suministren bebidas alcohólicas a los establecimientos clandestinos; se harán acreedores a una sanción económica de 100 a 200 cuotas. Asimismo los dueños de los establecimientos dedicados a la venta o expendio de bebidas alcohólicas que operen en forma clandestina, se harán acreedores al aseguramiento del producto existente, para garantizar el pago que determine la autoridad competente por concepto de multa, independientemente de los delitos a que se hagan acreedores por tal hecho.
+
 ###### ARTICULO 72.
 
 Las sanciones aplicables al propietario o propietarios, el representante legal, administradores, empleados y/o los encargados de los establecimientos por incumplimiento de sus obligaciones, de conformidad con el presente Reglamento y la Ley Estatal, serán las siguientes:
@@ -1077,3 +1085,9 @@ Artículo Tercero.- Mándese Publicar el presente acuerdo en el Periódico Ofici
 Artículo Cuarto.- Gírense instrucciones al C. Presidente Municipal y al Secretario del R. Ayuntamiento para que por su conducto se de cumplimiento a lo indicado en el punto anterior.
 
 Por lo tanto, envíese al Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno, para su publicación en dicho órgano y se le dé el debido cumplimiento.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE JUNIO DE 2010.
+
+UNICO.- Las presentes modificaciones, entraran en vigor al Día siguiente de su publicación.
