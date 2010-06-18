@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-operacion-del-comite-tecnico-de-valuacion-de-8956
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-10-22"
-last_updated: "2004-10-12"
+last_updated: "2010-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8956&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1996-10-03"
 
 REGLAMENTO DE OPERACION DEL COMITE TECNICO DE VALUACION DE LA SECRETARIA DE LA REFORMA AGRARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE OCTUBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE OPERACION DEL COMITE TECNICO DE VALUACION DE LA SECRETARIA DE LA REFORMA AGRARIA, PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 22 de octubre de 1996.
 
@@ -316,3 +318,9 @@ México, Distrito Federal, a los tres días del mes de octubre de mil noveciento
 D.O.F. 12 DE OCTUBRE DE 2004.
 
 UNICO: El presente Acuerdo entrará en vigor a partir del día siguiente al que sea publicado en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JUNIO DE 2010.
+
+PRIMERO.- Se abroga el Reglamento de Operación del Comité Técnico de Valuación de la Secretaría de la Reforma Agraria de fecha 3 de octubre de 1996, publicado el 22 de octubre del mismo año en el Diario Oficial de la Federación, así como el Acuerdo de fecha 27 de septiembre de 2004, publicado en el Diario Oficial de la Federación el 12 de octubre del mismo año, que adiciona y modifica dicho Reglamento.
+
+SEGUNDO.- El presente Reglamento entrará en vigor a partir del día siguiente al que sea publicado en el Diario Oficial de la Federación.
