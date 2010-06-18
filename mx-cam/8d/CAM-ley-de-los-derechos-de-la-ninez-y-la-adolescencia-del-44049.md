@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-la-ninez-y-la-adolescencia-del-44049"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-05"
-last_updated: "2004-07-05"
+last_updated: "2010-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE LA NIÑEZ Y LA ADOLESCENCIA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 5 de julio de 2004.
 
@@ -51,9 +51,17 @@ Se consideran niñas y niños, las personas de hasta doce años de edad; y adole
 
 Las disposiciones de esta ley se aplicarán a toda persona conforme al párrafo anterior; sin distinción alguna por razón de su origen, cultura, sexo, idioma, lengua, religión, ideología, nacionalidad, o cualquier otra condición propia de quienes ejerzan la patria potestad, representantes legales o personas encargadas de su educación, guarda o tutela.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+
 ###### ARTÍCULO 2°.
 
-La aplicación de esta ley corresponde al Gobierno del Estado y a los Municipios, en el ámbito de sus respectivas competencias.
+Aplicación (sic) de esta ley corresponde al Gobierno del Estado y a los Municipios, en el ámbito de sus respectivas competencias, quienes serán los encargados de:
+
+a) Fomentar la creación e implementación de medidas educativas y preventivas que les permitan asegurar el ejercicio de los derechos de niñas, niños y adolescentes y prevenir las situaciones de riesgo que menoscaben su desarrollo,
+
+b) Garantizar el respeto y ejercicio de sus derechos mediante la realización de actividades de información, divulgación y promoción que fomenten la igualdad de oportunidades y el trato equitativo entre hombres y mujeres, y
+
+c) Fomentar actividades destinadas a desarrollar la capacidad crítica, de libre decisión y el sentido de responsabilidad de niñas, niños y adolescentes.
 
 ###### ARTÍCULO 3°.
 
@@ -407,7 +415,9 @@ Niñas, niños y adolescentes tienen el derecho a ser protegidos contra actos u 
 
 A. El descuido, la negligencia, el abandono, el abuso emocional, físico y sexual.
 
-B. La explotación, el uso de drogas y enervantes, el secuestro y la trata, la exposición a cualquier acto sexual o la inducción a los mismos, con independencia de que el menor tenga o no conciencia del mismo, en especial realización por cualquier medio de pornografía o promoción de turismo sexual en el Estado, que involucre a menores.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+
+B. La explotación, el uso de drogas y enervantes, el secuestro y la trata, la exposición a cualquier acto sexual o la inducción a los mismos, con independencia de que el menor tenga o no conciencia del mismo, en especial realización por cualquier medio de pornografía o promoción de turismo sexual en el Estado, la exposición a cualquier forma de riesgo o peligro, que involucre a menores.
 
 C. Conflictos armados, desastres naturales, situaciones de refugio o desplazamiento, y acciones de reclutamiento para que participen en conflictos armados.
 
@@ -517,7 +527,13 @@ H. Definir, instrumentar y ejecutar políticas y mecanismos que garanticen la pr
 
 I. Aplicar las sanciones establecidas en esta ley.
 
-J. Las demás que le confieran expresamente las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+
+J. Hacer observar la obligatoriedad de la certificación profesional de todo el personal que trate y tenga a su cargo la atención de menores.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2010)</small>
+
+K. Las demás que le confieran expresamente las disposiciones legales aplicables.
 
 ###### ARTÍCULO 55.
 
@@ -600,3 +616,11 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 Dado en el Palacio de Gobierno del Estado, en Campeche, el día cinco de julio del año dos mil cuatro.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE JUNIO DE 2010.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
