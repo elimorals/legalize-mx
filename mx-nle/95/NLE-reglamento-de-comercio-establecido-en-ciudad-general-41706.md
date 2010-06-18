@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-comercio-establecido-en-ciudad-general-41706"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-05-24"
-last_updated: "1999-05-24"
+last_updated: "2010-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE COMERCIO ESTABLECIDO EN CIUDAD GENERAL ESCOBEDO, N. L
 
-REGLAMENTO DE COMERCIO ESTABLECIDO EN CIUDAD GENERAL ESCOBEDO, NUEVO LEON
+REGLAMENTO DE COMERCIO ESTABLECIDO EN CIUDAD GENERAL ESCOBEDO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE COMERCIO ESTABLECIDO Y PARA EL EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 18 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 24 de mayo de 1999.
 
@@ -290,3 +292,13 @@ C. Presidente Municipal
 C. LEONEL CHÁVEZ RANGEL
 
 Secretario del R. Ayuntamiento
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE JUNIO DE 2010.
+
+PRIMERO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga el Reglamento de Comercio Establecido y el Reglamento que Regula los Establecimientos que se Dedican al Expendio, Venta o Consumo de Bebidas Alcohólicas en el Municipio de General Escobedo, Nuevo León, así como todas aquellas disposiciones que se opongan a lo dispuesto en el presente Reglamento.
+
+TERCERO. Se dejan a salvo los derechos adquiridos por los particulares con anterioridad a la entrada en vigor del presente Reglamento.
