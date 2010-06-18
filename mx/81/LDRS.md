@@ -4,7 +4,7 @@ identifier: "LDRS"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-07"
-last_updated: "2007-02-02"
+last_updated: "2010-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22550&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDRS"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JUNIO DE 2010.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2001.
 
@@ -532,6 +532,10 @@ La Comisión Intersecretarial, con la participación del Consejo Mexicano, integ
 
 La política nacional de investigación para el desarrollo rural sustentable, con base en las instituciones competentes y utilizando los recursos existentes, incluirá las medidas para disponer de una instancia con capacidad operativa, autonomía efectiva y autoridad moral para emitir los dictámenes y resoluciones arbitrales que se requieran; asimismo, tenderá a contar con un adecuado diagnóstico permanente de los diferentes aspectos necesarios para la planeación del desarrollo rural sustentable y a la búsqueda de soluciones técnicas acordes a los objetivos soberanos de la producción nacional.
 
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+La política nacional de investigación contemplará el uso de las tecnologías de información y comunicación tanto para su formulación como la difusión de avances, con los diversos actores de la sociedad rural.
+
 ###### Artículo 34.
 
 Para impulsar la generación de investigación sobre el desarrollo rural sustentable y en particular el desarrollo tecnológico, su validación, transferencia y apropiación por parte de los productores y demás agentes, se establecerá el Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable, como una función del Estado que se cumple a través de sus instituciones y se induce y complementa a través de organismos privados y sociales dedicados a dicha actividad.
@@ -576,7 +580,9 @@ La Secretaría, a través de las dependencias correspondientes sancionará los c
 
 El Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable deberá atender las demandas de los sectores social y privado en la materia, siendo sus propósitos fundamentales los siguientes:
 
-I. Cubrir las necesidades de ciencia y tecnología de los productores y demás agentes de las cadenas productivas agropecuarias y agroindustriales y aquellas de carácter no agropecuario que se desarrollan en el medio rural;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+I. Atender las necesidades en materia de ciencia y tecnología de los productores y demás agentes de las cadenas productivas agropecuarias y agroindustriales y aquellas de carácter no agropecuario que se desarrollan en el medio rural;
 
 II. Promover la generación, apropiación, validación y transferencia de tecnología agropecuaria;
 
@@ -662,6 +668,10 @@ X. Contribuir a elevar el nivel educativo y tecnológico en el medio rural.
 
 Para el logro de los propósitos enunciados en el artículo anterior, se establece el Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral, como una instancia de articulación, aprovechamiento y vinculación de las capacidades que en esta materia poseen las dependencias y entidades del sector público y los sectores social y privado.
 
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+El Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral deberá contemplar el uso de las tecnologías de información y comunicación para el cumplimiento de sus propósitos.
+
 ###### Artículo 44.
 
 El Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral será coordinado por la Secretaría y se conformará por:
@@ -680,9 +690,17 @@ VI. Los organismos evaluadores y certificadores de la competencia laboral;
 
 VII. Los organismos de capacitación, extensión y asistencia técnica del sector público;
 
-VIII. Los organismos de educación técnica y de capacitación de la Secretaría de Educación Pública; y
+> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2010)</small>
 
-IX. Los mecanismos y estructuras que se deberán establecer para este fin en los Distritos de Desarrollo Rural.
+VIII. Las instituciones públicas de educación que desarrollan actividades en la materia;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+IX. Los organismos de educación técnica y de capacitación de la Secretaría de Educación Pública, y
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+X. Los mecanismos y estructuras que se deberán establecer para este fin en los distritos de desarrollo rural.
 
 ###### Artículo 45.
 
@@ -1000,11 +1018,17 @@ Asimismo, impulsará y apoyará la construcción de infraestructura a nivel de p
 
 Para tal fin, concertará con los gobiernos de las entidades federativas y las organizaciones de usuarios a cargo de los distritos y unidades de riego y de drenaje, la inversión destinada a la modernización de la infraestructura interparcelaria; promoverá la participación privada y social en las obras hidráulicas y apoyará técnica y económicamente a los productores que lo requieran para elevar la eficiencia del riego a nivel parcelario.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JUNIO DE 2010)</small>
+
 ###### Artículo 84.
 
-El Gobierno Federal, a través de las dependencias y entidades competentes, y en coordinación con los gobiernos de las entidades federativas, promoverá el desarrollo de la electrificación y los caminos rurales y obras de conservación de suelos y agua considerándolos como elementos básicos para el mejoramiento de las condiciones de vida de los habitantes del medio rural y de la infraestructura productiva del campo.
+El gobierno federal, a través de las dependencias y entidades competentes, en coordinación con los gobiernos de las entidades federativas y con la participación de los productores beneficiarios, promoverá el desarrollo de la electrificación y los caminos rurales y obras de conservación de suelos y agua, considerándolos como elementos básicos para el mejoramiento de las condiciones de vida de los habitantes del medio rural y de la infraestructura productiva del campo.
 
 La infraestructura de comunicación rural buscará abatir los rezagos de aislamiento, incomunicación y deficiencias que las regiones rurales tienen en relación con el resto del país. Para ello, se impulsarán la construcción y mantenimiento de caminos rurales, de sistemas de telecomunicaciones y telefonía rural, de sistemas rurales de transporte de personas y de productos.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+La infraestructura de comunicación rural deberá ser la adecuada a las condiciones geográficas y climatológicas de la zona, así como con la calidad requerida para ser usada por transporte de personas, productos, insumos y maquinaria necesarios para las tareas agrícolas y pecuarias, incidiendo en la producción y en las condiciones de bienestar de la población rural.
 
 ###### Artículo 85.
 
@@ -1895,3 +1919,15 @@ D.O.F. 2 DE FEBRERO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JUNIO DE 2010.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 33, 37, 43 Y 44 A LA LEY DE DESARROLLO RURAL SUSTENTABLE.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JUNIO DE 2010.
+
+DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 84 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
