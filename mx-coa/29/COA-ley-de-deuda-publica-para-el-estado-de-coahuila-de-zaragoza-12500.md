@@ -4,7 +4,7 @@ identifier: "COA-ley-de-deuda-publica-para-el-estado-de-coahuila-de-zaragoza-125
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-06"
-last_updated: "2008-12-12"
+last_updated: "2010-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 6 de diciembre de 1996.
 
@@ -205,7 +205,15 @@ III. No se afecten en garantía o en pago el derecho a recibir participaciones d
 
 IV. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
 
-V. Informar al Congreso dentro de los cuarenta y cinco días posteriores a la contratación.
+V. Informar al Congreso dentro de los cuarenta y cinco días posteriores a la contratación;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+VI. Se trate de operaciones que realicen las entidades a que se refieren las fracciones III, IV y V del artículo 2 de esta Ley, que consistan en el establecimiento de un programa de certificados y/o la emisión de una o varias emisiones de certificados bursátiles, con la finalidad de potencializar los ingresos propios de estas entidades.
+
+En las operaciones que celebren al amparo de esta fracción no le serán aplicables las fracciones I a III de este artículo.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
@@ -800,3 +808,13 @@ P.O. 12 DE DICIEMBRE DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en la fecha en que inicie operaciones el Servicio de Administración Tributaria de Coahuila.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
