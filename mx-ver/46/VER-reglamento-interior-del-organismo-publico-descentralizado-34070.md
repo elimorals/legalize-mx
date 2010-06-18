@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-organismo-publico-descentralizado-34070
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-16"
-last_updated: "2003-09-16"
+last_updated: "2010-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO CARRETERAS Y PUENTES ESTATALES DE CUOTA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 18 DE JUNIO DE 2010.
 
-Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el martes 16 de septiembre de 2006
+Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el martes 16 de septiembre de 2006.
 
 El Consejo de Administración, con fundamento en lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz, en el capítulo III, sección primera, artículo 40 y el Decreto publicado en la Gaceta Oficial del estado del 3 de mayo del año 2001, que crea el Organismo Público Descentralizado Carreteras y Puentes Estatales de Cuota, aprueba el siguiente:
 
@@ -231,7 +231,13 @@ Para el despacho de los asuntos que le competen, la Dirección General contará 
 
 - Subdirección Técnica
 
-- Departamento Jurídico.
+> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2010)</small>
+
+- Subdirección de Operación
+
+> <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2010)</small>
+
+- Consultor Jurídico
 
 ###### Artículo 21°.
 
@@ -309,9 +315,39 @@ XVI. Proponer al Director General el mejoramiento de los servicios existentes y 
 
 XVII. Las demás inherentes al área de su competencia que le confieran las disposiciones legales aplicables y aquellas que le confiera el Director General.
 
-###### Artículo 25°.
+> <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2010)</small>
 
-Corresponde al Departamento Jurídico:
+###### Artículo 24º Bis.
+
+Corresponde a la Subdirección de Operación:
+
+I. Supervisar las actividades de recaudación desempeñadas por el personal operativo de las pangas y chalanes, y casetas de cobro, para contar con informes sobre los recursos percibidos por concepto de cobro del servicio.
+
+II. Vigilar la correcta aplicación de los recursos solicitados a la Subdirección Administrativa para realizar operaciones de conservación y mantenimiento de las pangas y chalanes, y casetas de cobro.
+
+III. Proponer o distribuir de la mejor forma los recursos humanos que operan las pangas y chalanes, y casetas de cobro, para brindar un mejor servicio a los usuarios del mismo.
+
+IV. Solicitar al operativo de las pangas y chalanes, y casetas de cobro, los informes de ingresos y egresos que generan a cargo del Organismo para su remisión y verificación a la Subdirección Administrativa.
+
+V. Generar informes de ingresos y egresos correspondientes a las pangas y chalanes, y casetas de cobro, para su presentación al C. Director General y al Consejo de Administración.
+
+VI. Elaborar programa anual correspondiente a los trabajos de conservación y mantenimiento de las pangas para la presupuestación y programación de recursos.
+
+VII. Efectuar gestiones ante la Secretaría de Finanzas y Planeación sobre los recursos necesarios para el mantenimiento preventivo de las pangas y chalanes, y casetas de cobro a cargo del Organismo.
+
+VIII. Elaborar proyectos de presupuesto de egresos con base en la generación de ingresos propios, correspondientes a la operación de las pangas y chalanes, y casetas de cobro, para su remisión a la Subdirección Administrativa.
+
+IX. Apoyar los diferentes Programas de Gobierno que permitan conducir al Organismo a la aplicación de las políticas definidas por el Jefe del Ejecutivo.
+
+X. Firmar escritos o documentos relacionados con las funciones que le compete, ya sea por las facultades que le confieren o por suplencia de cargo para dar continuidad y seguimiento a las acciones, que de manera general formuló el Organismo.
+
+XI. Las demás inherentes al área de su competencia que le confieran las disposiciones legales aplicables y aquellas que le confiera el C. Director General.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE JUNIO DE 2010)</small>
+
+###### Artículo 25º.
+
+Corresponde al Consultor Jurídico:
 
 I. Actuar como órgano de consulta y asesorar en materia jurídica al Director General y a las demás áreas del Organismo;
 
@@ -341,9 +377,11 @@ El Órgano de vigilancia para el control interno del Organismo formará parte de
 
 Durante las ausencias temporales del Director General, el despacho y resolución de los asuntos que le competen quedarán a cargo de los subdirectores que corresponda según la naturaleza de los asuntos a tratar.
 
-###### Artículo 28°.
+> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2010)</small>
 
-Las ausencias temporales de los Subdirectores o del Jefe del Departamento Jurídico, serán suplidas por los servidores públicos de jerarquía inmediata inferior del área de su responsabilidad y que por las circunstancias y naturaleza del asunto le corresponda conocer.
+###### Artículo 28º.
+
+Las ausencias temporales de los Subdirectores o del Consultor Jurídico, serán suplidas por los servidores públicos de jerarquía inmediata inferior del área de su responsabilidad y que por las circunstancias y naturaleza del asunto le corresponda conocer.
 
 ###### Artículo 29°.
 
@@ -354,3 +392,9 @@ TRANSITORIOS (SIC)
 Único. El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Dado en la ciudad de Xalapa-Enríquez, a los dos días del mes de abril de dos mil tres, previa aprobación del mismo en la Primera Sesión Ordinaria del Consejo de Administración, celebrada en la misma de fecha.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 18 DE JUNIO DE 2010.
+
+Único: El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del estado.
