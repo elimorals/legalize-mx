@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2009-08-20"
+last_updated: "2010-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JUNIO DE 2010.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -4113,9 +4113,9 @@ Se impondrán de un mes a dos años de prisión y multa de diez a cien pesos, al
 
 Al que en despoblado o en paraje solitario haga uso de violencia sobre una persona con el propósito de causar un mal, obtener un lucro o de exigir su asentimiento para cualquier fin y cualesquiera que sean los medios y el grado de violencia que se emplee, e independientemente de cualquier hecho delictuoso que resulte cometido, se le castigará con prisión de uno a cinco años.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2010)</small>
 
-La pena será de diez a treinta años de prisión para el que en caminos o carreteras haga uso de la violencia en contra de los ocupantes de un vehículo, ya sea de transporte público o particular.
+La pena será de diez a treinta años de prisión para el que en vías generales de comunicación tales como caminos, carreteras, puentes o vías férreas, haga uso de la violencia en contra de los ocupantes de un vehículo de transporte público o privado.
 
 ###### ARTICULO 287.
 
@@ -4997,21 +4997,25 @@ XIII.- Cuandos (sic) se comete sobre equipaje o valores de viajeros en cualquier
 
 XIV.- Cuando se trate de expedientes o documentos de protocolo, oficina o archivos públicos, de documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, con afectación de alguna función pública. Si el delito lo comete el servidor público de la oficina en que se encuentre el expediente o documento, se le impondrá además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, de seis meses a tres años;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2010)</small>
 
-XV.- Cuando el agente se valga de identificaciones falsas o supuestas órdenes de alguna autoridad, y
+XV. Cuando el agente se valga de identificaciones falsas o supuestas órdenes de alguna autoridad;
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2010)</small>
 
-XVI.- Cuando se cometa en caminos o carreteras.
+XVI. Cuando se cometa en caminos o carreteras, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+XVII. Cuando el objeto de apoderamiento sea en vías o equipo ferroviario.
 
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 En los supuestos a que se refieren las fracciones I, II, III, IV, V, VI, XI, XII, XIII, XIV y XV, hasta cinco años de prisión.
 
-> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2010)</small>
 
-En los supuestos a que se refieren las fracciones VII, VIII, IX, X y XVI, de dos a siete años de prisión.
+En los supuestos a que se refieren las fracciones VII, VIII, IX, X, XVI y XVII, de dos a siete años de prisión.
 
 > <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
@@ -6478,3 +6482,9 @@ TERCERO.- A las personas que hayan cometido un delito de los contemplados en el 
 CUARTO.- Las autoridades competentes financiaran las acciones derivadas del cumplimiento del presente Decreto con los recursos que anualmente se prevea en el Presupuesto de Egresos de la Federación, sin menoscabo de los recursos que para tales efectos aporten las entidades federativas.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 18 DE JUNIO DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Los procesos que se encuentren en conocimiento de los Jueces del Fuero Común de los Estados y del Distrito Federal, continuarán de la misma forma hasta su conclusión.
