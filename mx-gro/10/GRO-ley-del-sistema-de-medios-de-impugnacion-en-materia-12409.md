@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-sistema-de-medios-de-impugnacion-en-materia-12409"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-13"
-last_updated: "2008-01-01"
+last_updated: "2010-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2010.
 
 Ley Publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 13 de febrero de 1998.
 
@@ -1127,9 +1127,9 @@ La votación recibida en una casilla será nula cuando se acredite cualesquiera 
 
 I. Instalar la casilla, sin causa justificada, en lugar distinto al señalado por el Órgano Electoral correspondiente;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
 
-II. Entregar, sin causa justificada, el paquete que contenga los expedientes electorales al Consejo Distrital correspondiente, fuera de los plazos que el Código Electoral del Estado señale;
+II. Entregar, sin causa justificada, el paquete que contenga los expedientes electorales al Consejo Distrital correspondiente, fuera de los plazos que la Ley Número 571 de Instituciones y Procedimientos Electorales del Estado de Guerrero señale;
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
@@ -1137,7 +1137,9 @@ III. Realizar, sin causa justificada, el escrutinio y cómputo en local diferent
 
 IV. Recibir la votación en fecha distinta a la señalada para la celebración de la elección, entendiéndose como fecha para estos efectos, día y hora;
 
-V. Recibir la votación por personas u organismos distintos a los facultados por el Código Electoral del Estado;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+V. Recibir la votación por personas u organismos distintos a los facultados por la Ley Número 571 de Instituciones y Procedimientos Electorales del Estado de Guerrero;
 
 VI. Haber mediado dolo o error en la computación de los votos que beneficien a uno de los candidatos, fórmula de candidatos o planilla y esto sea determinante para el resultado de la votación;
 
@@ -1602,3 +1604,7 @@ TERCERO.- Se autoriza al pleno del Tribunal Electoral del Estado para realizar l
 CUARTO.- En el presupuesto del Tribunal Electoral del Estado en el año en que haya elecciones, el Congreso del Estado, autorizará una partida especial para el caso de que se lleven a cabo recuentos parcial o total de votos, como lo prevé esta Ley.
 
 QUINTO.- Se abrogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
