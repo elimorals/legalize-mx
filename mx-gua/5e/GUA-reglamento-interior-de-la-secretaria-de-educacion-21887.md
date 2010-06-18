@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-educacion-21887"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2009-03-10"
+last_updated: "2010-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION, PUBLICADO EN EL P.O. DE 18 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -2624,3 +2626,51 @@ Artículo Único.- El presente Decreto Gubernativo iniciará su vigencia el cuar
 P.O. 10 DE MARZO DE 2009.
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE JUNIO DE 2010.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de Educación, expedido a través del Decreto Gubernativo número 56, publicado en el Periódico Oficial del Gobierno del Estado número 52-B, Primera Parte, de fecha 30 de junio de 2001.
+
+Referencia a las nuevas denominaciones de las unidades administrativas
+
+Artículo Tercero. A la entrada en vigencia del presente Decreto Gubernativo cualquier referencia que en decretos, reglamentos, convenios u otros instrumentos jurídicos se haga a las siguientes unidades administrativas, se entenderán hechas a su nueva denominación:
+
+Unidades administrativas conforme a Nuevas denominaciones de
+
+Reglamento Interior abrogado las unidades administrativas
+
+Dirección de Actualización Académica Dirección de Formación Continua
+
+y Superación Profesional
+
+Dirección de Acciones Compensatorias Dirección de Programas de Apoyo a
+
+la Equidad Educativa
+
+Dirección General de Innovación y Mejora Dirección General para la
+
+Pertinencia y la Corresponsabilidad
+
+de la Educación
+
+Dirección de Planeación Dirección de Planeación Estratégica
+
+Dirección General de Profesiones y Dirección General de Profesiones,
+
+Servicios Escolares Servicios Escolares e
+
+Incorporaciones
+
+Dirección General de Educación Media Subsecretaría de Educación Media
+
+Superior y Superior Superior y Superior
+
+Coordinación para el Desarrollo de los Coordinación para la Administración
+
+Servicios Administrativos
