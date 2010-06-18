@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-3730"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-10"
-last_updated: "2007-12-07"
+last_updated: "2010-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 10 de agosto de 1993.
 
@@ -671,9 +671,11 @@ II.- Un Director, que será designado por el Gobernador del Estado.
 
 El Consejo Directivo se integrará de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 1995)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Un Presidente, que será el Secretario de Finanzas;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+
+I.- Un Presidente, que será el titular del Servicio de Administración Tributaria del Estado de Coahuila;
 
 > <small>(REFORMADA, P.O. 3 DE ENERO DE 1995)</small>
 
@@ -866,3 +868,13 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. A todas aquellas personas a quienes caducó su derecho por transcurrir el término de 15 años señalado en la ley, gozarán a partir de la vigencia del presente decreto del pago de dicha prestación.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en la fecha en que inicie operaciones el Servicio de Administración Tributaria de Coahuila.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
