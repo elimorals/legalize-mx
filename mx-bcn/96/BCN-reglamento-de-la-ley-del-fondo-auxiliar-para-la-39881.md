@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-del-fondo-auxiliar-para-la-39881"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-05-14"
-last_updated: "2004-05-14"
+last_updated: "2010-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de mayo de 2004.
 
@@ -52,7 +52,7 @@ V.- El órgano de administración y representación del Fondo Auxiliar, será el
 
 El Fondo Auxiliar será administrado por el Pleno del Conejo de la Judicatura, a través de la Unidad Administrativa de conformidad con las siguientes bases:
 
-l.-Podrá invertir las cantidades que integran el Fondo Auxiliar en la adquisición de valores de renta fija o Inversiones Bancarias, siempre que estas, dentro de lo previsible garanticen disponibilidad inmediata y suficiente dinero para devoluciones de depósitos judiciales que deban hacerse.
+l.- Podrá invertir las cantidades que integran el Fondo Auxiliar en la adquisición de valores de renta fija o Inversiones Bancarias, siempre que estas, dentro de lo previsible garanticen disponibilidad inmediata y suficiente dinero para devoluciones de depósitos judiciales que deban hacerse.
 
 II.- Deberá elaborar en diciembre de cada año el presupuesto de Egresos, al cual, deberán sujetarse las erogaciones del período anual que empezará a correr el primero de enero siguiente, observando que además cumpla con las disposiciones legales que para su elaboración señala la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California, debiendo anexar el Presupuesto de Egresos, del Fondo Auxiliar al proyecto de presupuesto de Egresos del Poder Judicial.
 
@@ -68,27 +68,45 @@ VI.- Controlará efectivamente todos los movimientos del Fondo Auxiliar, recabar
 
 El Sistema Administrativo y Contable del Fondo Auxiliar se centraliza en el lugar de la residencia oficial del Consejo de la Judicatura.
 
-###### ARTICULO 4°.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
-Los depósitos recibidos por la Unidad Administrativa y sus dependencias en el Estado, se documentarán mediante las formas denominadas "Póliza de Fianza, Billete de Depósito, Prenda, Hipoteca y Recibo de Ingreso", debiendo este último estar debidamente foliado, conteniendo la cantidad que se recibe, el concepto, el nombre del depositante y del beneficiario en su caso, fecha del depósito y número de expediente, debiendo el receptor registrarlo e ingresarlo de inmediato en la forma autorizada para tal efecto.
+###### ARTICULO 4º.
 
-###### ARTICULO 5°.
+Los depósitos recibidos por la Unidad Administrativa y sus dependencias en el Estado, se documentarán mediante las formas denominadas "Póliza de Fianza, Billete de Depósito, Prenda, Hipoteca y Recibo de Ingreso, o alguna otra forma electrónica previamente autorizada por el H. Consejo de la Judicatura del Estado que acredite el depósito". En lo que respecta a la forma de Recibo de Ingreso éste debe estar debidamente foliado, conteniendo la cantidad que se recibe, el concepto, el nombre del depositante y del beneficiario en su caso, fecha del depósito y número de expediente, debiendo el receptor registrarlo e ingresarlo de inmediato en la forma autorizada para tal efecto.
 
-En el caso de que se carezca de las formas impresas de "Recibo de Ingreso" y los depósitos de dinero sean de carácter urgente, la Unidad Administrativa a través del departamento del Fondo Auxiliar, expedirá un recibo provisional debidamente foliado, cuya copia se agregará al expediente respectivo cuidando de obtener a primera hora del día hábil siguiente el recibo que se refiere el artículo anterior, que también se agregará al expediente, bajo su responsabilidad.
+En los casos de depósitos vía electrónica, particularmente en el concepto de Pensión Alimenticia, se procederá de la siguiente manera:
+
+- Se recibirán los depósitos en cuenta bancaria del Tribunal Superior de Justicia procediendo a efectuar la dispersión correspondiente a la cuenta individual de la beneficiaria.
+
+- La beneficiaria podrá disponer de su pensión al día siguiente de ser depositado en la cuenta concentradora del Tribunal Superior de Justicia a través de tarjeta de débito utilizando el medio de su preferencia: cajeros automáticos, sucursal bancaria o comprar en comercios.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+
+###### ARTICULO 5º.
+
+En el evento de que se carezca de las formas impresas de Recibo de ingreso y los depósitos de dinero sean de carácter urgente, la Unidad Administrativa a través del Departamento del Fondo Auxiliar, expedirá un recibo provisional debidamente foliado, cuya copia se agregará al expediente respectivo cuidando de obtener a primera hora del día hábil siguiente el recibo a que se refiere el artículo anterior, que también se agregará al expediente bajo su más estricta responsabilidad.
+
+En los casos de extravío de RECIBO DE INGRESO se procederá de la siguiente manera:
+
+- Si el recibo fuere extraviado ANTES de efectuar la consignación ante el Juzgado Respectivo, el depositante comparecerá ante el Juzgada correspondiente donde manifestara las razones por las cuales comparece presentando constancia del Ministerio Público donde reportó el robo o extravío del recibo de ingreso (sic) constancia de extravío, el Juez elaborará un oficio dirigido al Fondo Auxiliar, (sic) se cancele el recibo extraviado y se emita uno nuevo, el cual será entregado al depositante (sic)
+
+- Si el recibo fue extraviado, y no procede consignarse ante el Juzgado respectivo, el depositante deberá solicitar por escrito al Fondo Auxiliar el reembolso de la cantidad depositada, exponiendo las razones de su solicitud, a la que anexará copia de su identificación oficial y constancia emitida por el Ministerio Público en la que se reportó el robo y/o extravío del recibo de ingreso.
 
 ###### ARTICULO 6°.
 
 Las garantías que se otorguen en Pólizas de Fianza, Prenda e Hipoteca, se conservarán en custodia por la dependencia que las reciba, hasta la conclusión del proceso, las cuales deberán registrarse en el libro de valores y las que se otorguen en efectivo a través de recibos de ingreso en forma inmediata.
 
-###### ARTICULO 7°
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
-La devolución del depósito a quien corresponda, se hará invariablemente previa orden judicial, recabándose la firma del recibo en la dependencia del Poder Judicial que lo tenga bajo su custodia.
+###### ARTICULO 7º.
+
+La devolución de los depósitos que hubieren ingresado en la forma de "Recibo de Ingreso" se hará invariablemente previa orden judicial, recabándose la firma del recibo en la dependencia del Poder Judicial que lo tenga bajo su custodia. Tratándose del concepto de "Pensión Alimenticia" que hubiere ingresado en forma electrónica por acuerdo judicial, la devolución correspondiente se llevará a cabo al momento en el que se tenga constancia del depósito efectuado en la cuenta concentradora del Tribunal Superior de Justicia mediante dispersión o transferencia de dichos valores a la cuenta personal de la pensionada.
 
 ###### ARTICULO 8°.
 
 Cuando se reciban bienes de naturaleza distinta a los anteriormente señalados, la constancia de entrega que se expida reunirá los requisitos y condiciones que establezca la Ley de la materia.
 
-###### ARTICULO 9o.
+###### ARTICULO 9°.
 
 El registro y control contable de las operaciones activas y pasivas del Fondo Auxiliar, se llevará de conformidad a los lineamientos que establece la Ley de Contabilidad, Presupuesto y Gasto Público.
 
@@ -203,3 +221,9 @@ Lic. Armando Bejarano Caldera
 Lic. Juvenal Hernández Acevedo
 
 Lic. Héctor Ríos Gómez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE JUNIO DE 2010.
+
+UNICO.- Las reformas me mencionadas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
