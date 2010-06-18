@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2010-03-26"
+last_updated: "2010-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de junio de 1999.
 
@@ -1019,7 +1019,7 @@ ARTÍCULO 172 BIS. En el caso del artículo que antecede, corresponde a la Procu
 
 I.- Dar vista al Ministerio Público, a fin de que se inicien las investigaciones necesarias y la averiguación previa correspondiente, para que se determine el origen, la edad aparente, y demás circunstancias relacionadas con el menor, para lo anterior se auxiliarán de constancia expedida por el médico legista y las personas e instituciones que estimen conveniente para ello, resultados que deberán rendirse ante la autoridad correspondiente en un plazo que no excederá de 180 días.
 
-II.- Proveer transitoriamente la guarda y custodia del menor expósito, quien quedará bajo la tutela del Sistema para el Desarrollo Integral de la Familia del Estado de Coahuila, conforme a lo establecido en el articulo 603.
+II.- Proveer transitoriamente la guarda y custodia del menor expósito, quien quedará bajo la tutela del Sistema para el Desarrollo Integral de la Familia del Estado de Coahuila, conforme a lo establecido en el artículo 603.
 
 III.- Presentar al menor ante el Oficial del Registro Civil, con los documentos que se hubieran encontrado y los resultados de las investigaciones, así como la averiguación previa, para realizar la inscripción del mismo.
 
@@ -1031,13 +1031,13 @@ Una vez transcurridos los 180 días establecidos para realizar las investigacion
 
 ###### ARTÍCULO 173.
 
-La misma obligación tienen los directores y administradores de hospitales o de cualquier institución de asistencia, publica o Privada, respecto de los menores nacidos y expuestos en ellas.
+La misma obligación tienen los directores y administradores de hospitales o de cualquier institución de asistencia, pública o Privada, respecto de los menores nacidos y expuestos en ellas.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 174.
 
-En las actas que se levanten en estos casos, se expresaran detalladamente todas las circunstancias relativas a los menores expósitos, la edad aparente, su sexo, se asignara al menor un nombre y apellidos, que deberán de ser de uso común en la región donde haya sido encontrado, se asentara como fecha probable de nacimiento la determinada en la constancia expedida por el medico legista y se señalara como lugar de nacimiento, aquel donde el menor fue encontrado, así como, el nombre de la persona quien lo presenta y la institución que se encarga de el.
+En las actas que se levanten en estos casos, se expresaran detalladamente todas las circunstancias relativas a los menores expósitos, la edad aparente, su sexo, se asignara al menor un nombre y apellidos, que deberán de ser de uso común en la región donde haya sido encontrado, se asentara como fecha probable de nacimiento la determinada en la constancia expedida por el médico legista y se señalara como lugar de nacimiento, aquel donde el menor fue encontrado, así como, el nombre de la persona quien lo presenta y la institución que se encarga de él.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1683,7 +1683,7 @@ El juez que hubiere autorizado a un menor para contraer matrimonio, no podrá re
 
 ###### ARTÍCULO 261.
 
-También es requisito para contraer matrimonio, la asistencia previa de los interesados al Taller de Orientación Prematrimonial implementado por las autoridades estatales; misma que deberá acreditarse mediante la presentación del documento autorizado.
+También es requisito para contraer matrimonio, la asistencia previa de los interesados al Taller de Orientación Prematrimonial implementado por las autoridades estatales; misma (sic) que deberá acreditarse mediante la presentación del documento autorizado.
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
 
@@ -2297,7 +2297,7 @@ XI. La declaración de ausencia legalmente hecha.
 
 XII. La sevicia, las amenazas o las injurias graves de un cónyuge para el otro, que hagan imposible la vida en común.
 
-Entiéndese por sevicia, la crueldad excesiva tanto física como moral, de un cónyuge para el otro.
+Entiéndese (sic) por sevicia, la crueldad excesiva tanto física como moral, de un cónyuge para el otro.
 
 Las amenazas deben consistir en actos o expresiones concretas que indiquen el propósito de ocasionar un daño, al grado que provoquen un profundo y radical temor, incompatible con la permanencia que requiere la vida en matrimonio.
 
@@ -3259,7 +3259,7 @@ Los motivos de conciencia, los basados en la desconfianza y rigor científico de
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
 
-La prueba testimonial sólo se admitirá cuando exista un principio de prueba por escrito, o cuando las presunciones o los indicios resultantes de hechos ya comprobados, sean suficientes y bastante graves par determinar su admisión.
+La prueba testimonial sólo se admitirá cuando exista un principio de prueba por escrito, o cuando las presunciones o los indicios resultantes de hechos ya comprobados, sean suficientes y bastante graves par (sic) determinar su admisión.
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
 
@@ -19511,6 +19511,10 @@ En el supuesto previsto en el artículo anterior, las decisiones serán tomadas 
 
 ### CAPÍTULO ÚNICO. DE LA ORGANIZACIÓN DEL REGISTRO PÚBLICO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+
 ###### ARTÍCULO 3551.
 
 La sociedad se disolverá:
@@ -19683,13 +19687,15 @@ Si se conviene que la partición la haga una persona extraña a la sociedad y a 
 
 ###### ARTÍCULO 3588.
 
-El Registro Público del Estado de Coahuila es una institución jurídica unitaria, dependiente del Poder Ejecutivo, que tiene por objeto regular la inscripción de los actos relativos a la constitución, transmisión, modificación, gravamen y extinción del derecho de propiedad y de los demás derechos reales sobre los bienes; los actos relativos a la constitución, modificación y extinción de las personas morales; así como los otros actos, negocios, resoluciones y diligencias judiciales a que este mismo título se refiere, y a las consecuencias inherentes a dichas inscripciones.
+El Registro Público del Estado de Coahuila es una institución jurídica unitaria, dependiente del Poder Ejecutivo, que podrá administrarlo directamente o a través del organismo a que se le asigne esta función, que tiene por objeto regular la inscripción de los actos relativos a la constitución, transmisión, modificación, gravamen y extinción del derecho de propiedad y de los demás derechos reales sobre los bienes; los actos relativos a la constitución, modificación y extinción de las personas morales; así como los otros actos, negocios, resoluciones y diligencias judiciales a que este mismo título se refiere, y a las consecuencias inherentes a dichas inscripciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 3589.
 
-La Ley Reglamentaria del Registro Público organizará la institución y determinará el número de autoridades, su jerarquía, atribuciones y deberes, así como las circunscripciones territoriales en que se divida el Estado y los Municipios que comprenda cada una de ellas. Igualmente fijará y nominará las Secciones de que se componga el Registro, precisará los títulos que deban inscribirse en cada una de ellas, el número de libros y sus correspondientes requisitos, y determinará el sistema y métodos mediante los cuales funcionará.
-
-La misma ley establecerá los requisitos necesarios para desempeñar los cargos que requiera el funcionamiento del Registro.
+La Ley Reglamentaria del Registro Público fijará y nominará las Secciones de que se componga el Registro, precisará los títulos que deban inscribirse en cada una de ellas, el número de libros y sus correspondientes requisitos, y determinará el sistema y métodos mediante los cuales funcionará.
 
 ###### ARTÍCULO 3590.
 
@@ -19848,6 +19854,10 @@ III. Las fundaciones y asociaciones de beneficencia privada autorizadas por el E
 IV. El nombramiento de los directores y administradores de las instituciones a que aluden las tres fracciones precedentes.
 
 ### CAPÍTULO VII. DE LOS MEDIOS DE IMPUGNACIÓN
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 3600.
 
@@ -20025,9 +20035,13 @@ VII. Cuando falte algún otro requisito que deba llenar el documento de acuerdo 
 
 En caso de que el Registrador niegue o suspenda la inscripción o anotación, devolverá el título sin registrar, expresando por escrito la causa y fundamento de su negativa, entregando la resolución al interesado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2010)</small>
+
 ###### ARTÍCULO 3631.
 
-En el caso a que se refiere el artículo anterior, el Registrador tiene la obligación de hacer una inscripción preventiva, a fin de que si el Director General del Registro ordena que se registre o anote el título rechazado, la inscripción o anotación definitivas surta sus efectos desde que por primera vez se presentó el título.
+En el caso a que se refiere el artículo anterior, el Registrador tiene la obligación de hacer una inscripción preventiva, a fin de que si el superior jerárquico ordena que se registre o anote el título rechazado, la inscripción o anotación definitivas surta sus efectos desde que por primera vez se presentó el título.
 
 La inscripción preventiva sólo podrá cancelarse hasta que la resolución definitiva quede firme.
 
@@ -20053,17 +20067,21 @@ V. No expidan los certificados en el término reglamentario.
 
 En los casos de las fracciones I y II del artículo que precede, los interesados harán constar inmediatamente, mediante certificación notarial fuera de protocolo o por información judicial de dos testigos, el hecho de haberse rehusado el Registrador o el empleado, a fin de que pueda servirles de prueba en el juicio correspondiente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 ###### ARTÍCULO 3635.
 
-Las sentencias firmes que resulten en aplicación del artículo 3633, incluirán la inhabilitación para el desempeño del cargo o empleo, hasta que sea pagada la indemnización de daños y perjuicios que en su caso corresponda.
+(DEROGADO, P.O. 18 DE JUNIO DE 2010)
 
 ###### ARTÍCULO 3636.
 
 Hecho el registro, serán devueltos los documentos al que los presentó, con la nota de haber quedado registrados, la cual contendrá la fecha de presentación, la fecha de la inscripción o anotación y los demás datos de identificación de éstas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 ###### ARTÍCULO 3637.
 
-La Ley Reglamentaría del Registro Público establecerá los derechos y obligaciones de los Registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
+(DEROGADO, P.O. 18 DE JUNIO DE 2010)
 
 ###### ARTÍCULO 3638.
 
@@ -20327,21 +20345,27 @@ Las inscripciones preventivas se cancelarán no solamente cuando se extinga el d
 
 ###### ARTÍCULO 3678.
 
-Contra las resoluciones y omisiones del Registrador procede el recurso de inconformidad ante el Director General del Registro Público.
+Contra las resoluciones y omisiones del Registrador procede el recurso de inconformidad ante el superior jerárquico.
 
 ###### ARTÍCULO 3679.
 
 El recurso deberá interponerse por escrito, dentro del término de tres días hábiles siguientes al en que tenga conocimiento la parte afectada, expresándose los razonamientos y fundamentos legales que justifiquen la impugnación y anexando, en su caso, el instrumento rechazado y copia certificada del acto impugnado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+
 ###### ARTÍCULO 3680.
 
-El Registrador remitirá al Director General del Registro Público dentro de los tres días hábiles siguientes, un informe sobre su actuación, acompañando en su caso las documentales que estime necesarias.
+El Registrador remitirá al superior jerárquico dentro de los tres días hábiles siguientes, un informe sobre su actuación, acompañando en su caso las documentales que estime necesarias, quien resolverá lo procedente dentro del término de tres días hábiles.
 
-El Director General resolverá lo procedente dentro del término de tres días hábiles.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 3681.
 
-Contra las resoluciones del Director General del Registro Público no procede recurso alguno.
+Contra las resoluciones emitidas al recurso de inconformidad a que se refiere el artículo 3678 no procede recurso alguno.
 
 ###### ARTÍCULO 3682.
 
@@ -20566,3 +20590,13 @@ P.O. 26 DE MARZO DE 2010.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido por este Decreto.
+
+P.O. 18 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en la fecha en que inicie operaciones el Servicio de Administración Tributaria de Coahuila.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
