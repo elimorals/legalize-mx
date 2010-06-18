@@ -4,7 +4,7 @@ identifier: "LGDLPI"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-03-13"
-last_updated: "2010-04-06"
+last_updated: "2010-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29246&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDLPI"
 
 LEY GENERAL DE DERECHOS LINGÜISTICOS DE LOS PUEBLOS INDIGENAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JUNIO DE 2010.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 13 de marzo de 2003.
 
@@ -160,7 +160,9 @@ b) Promover programas, proyectos y acciones para vigorizar el conocimiento de la
 
 c) Ampliar el ámbito social de uso de las lenguas indígenas nacionales y promover el acceso a su conocimiento; estimular la preservación, conocimiento y aprecio de las lenguas indígenas en los espacios públicos y los medios de comunicación, de acuerdo a la normatividad en la materia.
 
-d) Establecer la normatividad y formular programas para certificar y acreditar a técnicos y profesionales bilingües. Impulsar la formación de especialistas en la materia, que asimismo sean conocedores de la cultura de que se trate, vinculando sus actividades y programas de licenciatura y postgrado, así como a diplomados y cursos de especialización, actualización y capacitación.
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2010)</small>
+
+d) Establecer la normatividad y formular programas para certificar y acreditar a técnicos, intérpretes, traductores y profesionales bilingües. Impulsar la formación de especialistas en la materia, que asimismo sean conocedores de la cultura de que se trate, vinculando sus actividades y programas de licenciatura y postgrado, así como a diplomados y cursos de especialización, actualización y capacitación.
 
 e) Formular y realizar proyectos de desarrollo lingüístico, literario y educativo.
 
@@ -236,9 +238,11 @@ III. Los que adquiera por herencia, legados, donaciones o por cualquier otro tí
 
 Para garantizar el cumplimiento de las obligaciones y atribuciones señaladas en esta Ley y conforme a lo dispuesto en el penúltimo párrafo del Apartado B, del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de derechos y cultura indígena, la Cámara de Diputados del Congreso de la Unión, las Legislaturas de las Entidades Federativas y los Ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas en los presupuestos de egresos que aprueben para proteger, promover, preservar, usar y desarrollar las lenguas indígenas.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2010)</small>
+
 ###### ARTÍCULO 23.
 
-Las relaciones laborales del Instituto Nacional de Lenguas Indígenas y sus trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado A del artículo 123 Constitucional.
+Las relaciones laborales del Instituto Nacional de Lenguas Indígenas y sus trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 Constitucional.
 
 ###### ARTÍCULO 24.
 
@@ -275,3 +279,15 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 6 DE ABRIL DE 2010.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JUNIO DE 2010.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 14 DE LA LEY GENERAL DE DERECHOS LINGÜISTICOS DE LOS PUEBLOS INDIGENAS.
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JUNIO DE 2010.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 23 DE LA LEY GENERAL DE DERECHOS LINGÜISTICOS DE LOS PUEBLOS INDIGENAS.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
