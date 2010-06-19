@@ -4,7 +4,7 @@ identifier: "OAX-ley-municipal-para-el-estado-de-oaxaca-27916"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-10"
-last_updated: "2009-05-07"
+last_updated: "2010-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY MUNICIPAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2010.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes10 de enero de 2003.
 
@@ -895,9 +895,15 @@ XII.- Turismo;
 
 XIII.- Vinos y licores;
 
-XIV.- Desarrollo rural y económico; y
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2010)</small>
 
-XV.- Las demás que apruebe el ayuntamiento.
+XIV.- Equidad y Género;
+
+XV.- Desarrollo rural y económico; y
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2010)</small>
+
+XVI.- Las demás que apruebe el Ayuntamiento.
 
 Con excepción de la comisión de hacienda municipal, que conforme al Código Electoral, debe ser asignada a la planilla triunfadora en la elección, las restantes comisiones se asignarán a los Concejales que designe el cabildo al inicio del ejercicio hasta su conclusión.
 
@@ -2418,3 +2424,7 @@ SEGUNDO.- Los presupuestos de egresos con que cuenten los Municipios del Estado 
 TERCERO.- Los Municipios del Estado a través de sus Ayuntamientos durante los ejercicios fiscales 2009 y 2010 procederán a realizar las acciones de modificación a los sistemas de control que correspondan y desarrollar los programas de capacitación a sus distintas dependencias y organismos paramunicipales para formular con el enfoque de resultados a que se refiere el presente Decreto sus anteproyectos de presupuestos de egresos para el ejercicio fiscal 2011.
 
 CUARTO.- Los Municipios del Estado a través de sus Ayuntamientos deberán implantar el Sistema de Evaluación del Desempeño Institucional a que se refiere el presente Decreto a más tardar el 31 de diciembre de 2012.
+
+P.O. 19 DE JUNIO DE 2010.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
