@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2010-04-17"
+last_updated: "2010-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2010.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -2201,6 +2201,18 @@ El testigo, el perito, el intérprete o el declarante a que se refieren las frac
 
 Pero si faltaren también a la verdad al retractar sus declaraciones, se les aplicará la sanción que corresponda con arreglo a lo prevenido por éste capítulo, considerándolo como reincidentes.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2010)</small>
+
+ARTICULO 247 BIS.- Incurre en el delito de Falsedad en Informes dados a una Autoridad, aquel que haga uso indebido de los sistemas de emergencia y de denuncia en las siguientes modalidades:
+
+I.- Quien realice o consienta que desde cualquier medio de telecomunicación de su propiedad o que se encuentre bajo su control se efectúen llamadas o mensajes a los centros de servicio de respuesta a emergencias o redes similares a ésta, aludiendo un reporte para burlarse, proferir insultos o distraer dolosamente al personal a cargo del servicio sin que exista acontecimiento que lo justifique.
+
+II.- Quien dolosamente realice reportes falsos, a los centros de servicio de respuesta de emergencia o redes similares, informando o alertando sobre la comisión de ilícitos, desastres o cualquier otra situación que haga necesaria la movilización y presencia de elementos de protección civil, bomberos, personal médico, agentes de corporaciones policiales o de las fuerzas armadas, con el propósito de engañar a las autoridades, dificultar el ejercicio de sus funciones o causar alarma en la población.
+
+A los responsables de las conductas referidas en las fracciones anteriores se les impondrá de uno a cuatro años de prisión y multa de cincuenta a trescientos días de salario.
+
+Cuando derivado de un reporte falso se originen daños o pérdidas en contra de personas o cosas, se aplicará a su autor una pena de dos a cinco años de prisión y multa de cien a cuatrocientos días de salario, además de condenarse a la reparación de los daños ocasionados.
+
 ### CAPITULO UNICO
 
 ###### ARTICULO 248.
@@ -3896,3 +3908,7 @@ Artículo único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 17 DE ABRIL DE 2010.
 
 Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 19 DE JUNIO DE 2010.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
