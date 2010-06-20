@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interior-de-la-secretaria-de-desarrollo-social-44649
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-27"
-last_updated: "2005-03-27"
+last_updated: "2010-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44649&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO DE DURANGO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO DE DURANGO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 20 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicada en el Periódico Oficial del Estado de Durango, el domingo 27 de marzo de 2005.
 
@@ -461,7 +463,7 @@ XVI. Las demás que se establezcan en este Reglamento, los ordenamientos vigente
 
 > <small>(F. DE E., P.O. 12 DE JUNIO DE 2005)</small>
 
-I.. Proponer al superior jerárquico las políticas y criterios de acción en materia de gasto de inversión que permita una distribución equilibrada y racional de las asignaciones presupuéstales en cada uno de los programas de inversión, en materia de desarrollo social;
+I. Proponer al superior jerárquico las políticas y criterios de acción en materia de gasto de inversión que permita una distribución equilibrada y racional de las asignaciones presupuéstales en cada uno de los programas de inversión, en materia de desarrollo social;
 
 > <small>(F. DE E., P.O. 12 DE JUNIO DE 2005)</small>
 
@@ -924,3 +926,13 @@ LIC. RICARDO FIDEL PACHECO RODRÍGUEZ.
 EL C. SECRETARIO DE DESARROLLO SOCIAL.
 
 LIC. LUIS ENRIQUE BENÍTEZ OJEDA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE JUNIO DE 2010.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Social del Estado de Durango publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango de fecha veintisiete de marzo de dos mil cinco.
+
+TERCERO.- En tanto se expidan los acuerdos y manuales que este Reglamento menciona, el Secretario ventilará las cuestiones que conforme a dichos manuales se deban regular y sin perjuicio de la facultad delegatoria que establece el mismo ordenamiento.
