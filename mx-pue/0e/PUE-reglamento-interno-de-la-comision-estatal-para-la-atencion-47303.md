@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interno-de-la-comision-estatal-para-la-atencion-4730
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-11"
-last_updated: "2006-07-31"
+last_updated: "2010-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL PARA LA ATENCION DEL MIGRANTE POBLANO
 
-REGLAMENTO INTERNO DE LA COMISION ESTATAL PARA LA ATENCION DEL MIGRANTE POBLANO
+REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN DEL MIGRANTE POBLANO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN DEL MIGRANTE POBLANO, PUBLICADO EN EL P.O. DE 21 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de noviembre de 2005.
 
@@ -521,7 +523,7 @@ Las aprobaciones de la Comisión Intersecretarial que prevé el artículo Décim
 
 Dado en la Heroica Puebla de Zaragoza, a los 14 días del mes de octubre de 2005.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 31 DE JULIO DE 2006.
 
@@ -532,3 +534,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Acuerdo del Ejecutivo del Estado, por el que expide el Reglamento Interno de la Comisión Estatal para la Atención del Migrante Poblano, publicado en el Periódico Oficial del Estado el día 11 de noviembre de 2005, así como sus correspondientes reformas publicadas en el Periódico Oficial del Estado el 31 de julio de 2006.
+
+###### ARTÍCULO TERCERO.
+
+Las aprobaciones de la Comisión Intersecretarial que prevé el artículo Décimo Segundo de su Decreto de Creación, podrán ser posteriores a la instrumentación de las acciones que requieran ejecución inmediata. Lo anterior, sin menoscabo de las más amplias facultades de gestión de la Comisión Intersecretarial para realizar a nombre de la Comisión todos los actos que fueren necesarios para el cumplimiento del objeto.
