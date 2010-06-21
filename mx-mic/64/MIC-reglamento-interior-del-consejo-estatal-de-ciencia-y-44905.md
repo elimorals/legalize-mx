@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-consejo-estatal-de-ciencia-y-44905"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-23"
-last_updated: "2005-05-23"
+last_updated: "2010-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CIENCIA Y TECNOLOGIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CIENCIA Y TECNOLOGIA, PUBLICADO EN EL P.O. DE 21 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 23 de mayo de 2005.
 
@@ -422,3 +424,11 @@ SALVADOR JARA GUERRERO
 Director General del Coecyt del Estado de Michoacán
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE JUNIO DE 2010.
+
+Artículo Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga el Reglamento Interior del Consejo Estatal de Ciencia y Tecnología publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el día 23 de mayo de 2005, así como las demás disposiciones de carácter administrativo en lo que se opongan al presente Reglamento Interior.
