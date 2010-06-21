@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2009-07-13"
+last_updated: "2010-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -569,13 +569,13 @@ Las indemnizaciones y sanciones pecuniarias a que se refiere la Fracción IV del
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-Artículo 27 B.- El Congreso del Estado emitirá la convocatoria para elegir al titular del órgano Superior de Fiscalización del Estado y lo designará con el voto de las dos terceras partes de los miembros presentes en la Legislatura. La Ley determinará el procedimiento para su designación y remoción en su caso.
+Artículo 27 B.- El Congreso del Estado emitirá la convocatoria para elegir al titular del Órgano Superior de Fiscalización del Estado y lo designará con el voto de las dos terceras partes de los miembros presentes en la Legislatura. La Ley determinará el procedimiento para su designación y remoción en su caso.
 
-El Auditor Superior de fiscalización, además de los requisitos previstos en las Fracciones I, III y IV del Artículo 53 de esta Constitución requeridos para ser Magistrado del Supremo Tribunal de Justicia y procurador General de Justicia, deberá de reunir los siguientes:
+El Auditor Superior de Fiscalización, además de los requisitos previstos en las Fracciones I, III y IV del Artículo 53 de esta Constitución requeridos para ser Magistrado del Supremo Tribunal de Justicia y Procurador General de Justicia, deberá de reunir los siguientes:
 
 I. Contar el (sic) día de su designación, con antigüedad mínima de 10 años, con título profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello.
 
-II. Contar con experiencia de cinco anos en materia de control, auditoría financiera y de responsabilidades.
+II. Contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
 
 III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal.
 
@@ -1317,59 +1317,53 @@ CAPITULO DECIMOSEXTO
 
 De la Responsabilidad de los Servidores Públicos.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 ###### Artículo 73.
 
-Para los efectos de las responsabilidades a que alude este Capítulo se reputarán como servidores públicos a los representantes de elección popular, a los integrantes del Poder Judicial y a sus funcionarios y empleados, así como a los Consejeros Ciudadanos que integran el Consejo General del Instituto Estatal Electoral y el personal que labore para el mismo, y en general a quien desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal o Municipal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y de Fideicomisos Públicos, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este Capítulo se reputarán como servidores públicos a los representantes de elección popular, a los integrantes del Poder Judicial y a sus funcionarios y empleados, así como a los Consejeros Electorales que integran el Consejo General del Instituto Estatal Electoral y el personal que labore para el mismo, y en general a quien desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal o Municipal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y de Fideicomisos Públicos, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-Todos los servidores públicos son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a las Leyes Federales, a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado y de los Municipios, de los delitos del orden común que cometan durante el tiempo de su encargo, y de los ilícitos oficiales, sean civiles, penales, administrativos o políticos, en que incurran en el ejercicio de sus cargos.
+Todos los servidores públicos son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a las Leyes Federales, a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado y de los Municipios, de los delitos del orden común que cometan durante el tiempo de su encargo, así como en actividades administrativas irregulares, en que incurran en el ejercicio de sus cargos.
 
-La Ley de Responsabilidades de los Servidores Públicos del Estado determinará sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones, las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas, además de las que señalen las Leyes.
-
-La responsabilidad a que se refiere este artículo será determinada a través de:
-
-I.- Juicio político.
-
-II.- Declaratoria de procedencia por la comisión de delitos, y
-
-III.- Responsabilidades, sanciones y recomendaciones administrativas.
-
-Podrán ser sujetos de Juicio Político el Gobernador, los Diputados a la Legislatura Local, los Magistrados del Poder Judicial, los Secretarios de Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Regidores y Síndicos de los Ayuntamientos.
-
-El Gobernador del Estado, durante el tiempo de su encargo sólo podrá ser acusado por violaciones a esta Constitución y delitos graves del orden común, además será responsable en los términos el Artículo 110, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos, conforme al procedimiento establecido en el mismo.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2003)</small>
+La Ley de Responsabilidades de los Servidores Públicos del Estado determinará sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones, las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas, además de las que señalen las leyes.
 
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 ###### Artículo 74.
 
-Cuando se imputa un delito del orden común a los Diputados, al Gobernador, a los Magistrados del Supremo Tribunal de Justicia, al Secretario General de Gobierno, al Procurador General de Justicia o a los Regidores y Síndicos de los Ayuntamientos, el Congreso del Estado, erigido en Gran Jurado, declarará por consenso de las dos terceras partes del total de los Diputados, si ha lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento ulterior, pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En caso afirmativo, el acusado quedará automáticamente separado de su cargo y sujeto a la acción de los tribunales comunes.
+Serán sujetos de responsabilidad política los servidores públicos que en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, así como, violaciones a la Constitución Política de los Estados Unidos Mexicanos, a las Leyes Federales, a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado y de los Municipios.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
+No procede el juicio político por el sólo hecho de la manifestación de ideas.
+
+Serán sujetos de Juicio Político el Gobernador, los Diputados a la Legislatura Local, los Magistrados del Poder Judicial, los miembros del Consejo de la Judicatura del Poder Judicial, los Titulares de las Dependencias del Poder Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes, los titulares de los organismos públicos descentralizados, los titulares de los organismos autónomos y los directores generales de las empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos.
+
+Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular denuncia ante el Congreso del Estado por conductas que impliquen una responsabilidad política de los sujetos a que se refiere este articulo, y previo trámite que señale la Ley de Responsabilidades de los Servidores Públicos, el Congreso por el voto de las dos terceras partes de sus miembros determinará si es culpable, en cuyo caso será destituido del cargo e inhabilitado para desempeñar una función, cargo o comisión dentro del servicio público.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 ###### Artículo 75.
 
-Respecto de los ilícitos oficiales de los servidores públicos a que se refiere el artículo anterior, con excepción de los Magistrados del Supremo Tribunal de Justicia, el Congreso del Estado, oyendo en su defensa a los acusados, instruirá los procesos hasta resolver por consenso de las dos terceras partes del total de los Diputados, si son culpables, en cuyo caso remitirá los expedientes al Supremo Tribunal de Justicia, para que éste imponga la pena que la ley señale.
+Serán sujetos de responsabilidad penal los servidores públicos que tengan fuero y cometan hechos delictivos del orden común en los términos de la Legislación Penal, durante el tiempo de su encargo y, por el enriquecimiento ilícito por sí o por interpósita persona que aumente sustancialmente su patrimonio, adquiera bienes o se conduzcan como dueños sobre ellos, cuya procedencia licita no pudiesen justificar.
 
-Por la declaración de culpabilidad, el servidor público acusado quedará separado inmediatamente de su cargo.
+Para proceder penalmente en contra de los Diputados Locales, el Gobernador, los Magistrados del Supremo Tribunal de Justicia, los miembros del Consejo de la Judicatura, del Poder Judicial, el Secretario General de Gobierno, el Procurador General de Justicia, El Presidente Municipal, Regidores y Síndicos de los Ayuntamientos, así como el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; el Congreso del Estado, erigido en Gran Jurado, declarará por consenso de las dos terceras partes del total de los diputados, si ha lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento ulterior, pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En caso afirmativo, el acusado quedará automáticamente separado de su cargo y sujeto a la acción de los tribunales comunes.
 
-El Supremo Tribunal de Justicia oirá al acusador si lo hubiere, al Jefe del Ministerio Público y al acusado por sí o por medio de su defensor, para el solo efecto de que alegue respecto de la pena aplicable.
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 ###### Artículo 76.
 
-En caso de ilícitos oficiales de los Magistrados del Supremo Tribunal de Justicia, las causas se llevarán hasta su fin ante el Congreso, el cual dictará sentencia, observándose en lo conducente lo dispuesto en el artículo anterior.
+El Gobernador del Estado, durante el tiempo de su encargo sólo podrá ser acusado por violaciones a esta Constitución y delitos graves del orden común, además será responsable en los términos del Artículo 110, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos, conforme al procedimiento establecido en el mismo.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
+Para proceder penalmente en contra de los jueces del Poder Judicial, se requiere declaratoria del Pleno del Supremo Tribunal de Justicia que dé ha lugar a formación de causa.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 ###### Artículo 77.
 
-Para proceder contra los Jueces por delitos comunes o ilícitos oficiales, se requiere declaración del Supremo Tribunal de Justicia en el sentido de que ha lugar a formación de causa. Por virtud de esta declaración aquéllos quedarán suspendidos de sus cargos y sometidos a juicio del orden común.
+Las resoluciones del Congreso del Estado en materia de responsabilidad política y penal son inatacables.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
@@ -1377,29 +1371,33 @@ Para proceder contra los Jueces por delitos comunes o ilícitos oficiales, se re
 
 La declaración de haber lugar a formación de causa se requiere, en cuanto a los servidores públicos de elección popular, desde la fecha en que sean electos, y respecto a los demás, desde que entren en ejercicio de sus cargos, aún por delitos cometidos con anterioridad.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 ###### Artículo 79.
 
-A excepción de los servidores públicos de elección popular y de los Magistrados del Supremo Tribunal de Justicia, todos los demás que se encuentran separados temporalmente de sus cargos dejarán de gozar del fuero que por razón de sus puestos les corresponda.
+Los sujetos de responsabilidad penal a que se refiere el Artículo 75 de este ordenamiento y que se encuentren separados de su cargo no gozarán del fuero constitucional.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 ###### Artículo 80.
 
-La responsabilidad por ilícitos oficiales de los servidores públicos que gocen de fuero podrá exigirse durante el ejercicio del cargo y hasta un año después.
+La responsabilidad política de los servidores públicos a que se refiere el Artículo 74 de esta Constitución podrá exigirse durante el ejercicio del cargo y hasta un año después de concluida su función.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 ###### Artículo 81.
 
-Pronunciada una sentencia condenatoria por ilícitos oficiales, no podrá concederse al reo la gracia del indulto.
+Pronunciada una sentencia condenatoria siendo un delito cometido durante el ejercicio de su encargo, no podrá concederse al sentenciado la gracia del indulto.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
+En los juicios del orden civil no hay fuero ni inmunidad para ningún servidor público.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 ###### Artículo 82.
 
-En los juicios del orden civil no hay fuero ni inmunidad para ningún servidor público.
+Serán sujetos de responsabilidad administrativa, los servidores públicos que en el desempeño de su cargo o comisión incurran en actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de sus funciones, debiendo ser sancionado por la autoridad competente.
+
+Las sanciones, además de las que señalan las leyes, consistirán en destitución e inhabilitación, así como en sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos y omisiones.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1783,9 +1781,9 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 2 DE JUNIO DE 1985.
 
-DECRETO NÚMERO 54, QUE REFORMA EL ARTÍCULO 68 FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL.
+DECRETO No. 54, QUE REFORMA EL ARTICULO 68 FRACCION II, DE LA CONSTITUCION POLITICA LOCAL.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 2 DE JUNIO DE 1985.
 
@@ -1827,7 +1825,7 @@ Las presentes reformas y adiciones entrarán en vigor el día siguiente de su pu
 
 P.O. 13 DE OCTUBRE DE 1991.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 1 DE MARZO DE 1992.
 
@@ -2218,3 +2216,9 @@ El presente Decreto entrará en vigencia al día siguiente al de su publicación
 ###### ARTÍCULO SEGUNDO.
 
 Intégrese el expediente respectivo y túrnese a todos y cada uno de los Ayuntamientos del Estado, para los efectos de lo dispuesto en el Artículo 94 de la Constitución Política local y Artículo 155 de la Ley Orgánica del Poder Legislativo.
+
+P.O. 21 DE JUNIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
