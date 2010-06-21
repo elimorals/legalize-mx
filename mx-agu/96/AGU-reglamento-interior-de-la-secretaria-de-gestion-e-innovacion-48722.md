@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-gestion-e-innovacion-48
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-06"
-last_updated: "2006-02-06"
+last_updated: "2010-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48722&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION E INNOVACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de febrero de 2006.
 
@@ -72,7 +72,11 @@ C. Dirección General de Soporte a las Tecnologías de Información.
 
 II.- Dirección General de Adquisiciones;
 
-III.- Dirección General de Capital Humano;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2010)</small>
+
+III.- Coordinación Especializada en la Gestión del Capital Humano;
+
+A. Dirección General de Capital Humano;
 
 IV.- Dirección General de Servicios Integrales;
 
@@ -406,7 +410,47 @@ XV. Asesorar y brindar asistencia técnica para adquirir bienes y servicios a la
 
 XVI. Los demás que le atribuya expresamente el Secretario y otros ordenamientos jurídicos.
 
-### CAPITULO VI. De la Dirección General de Capital Humano
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE JUNIO DE 2010)</small>
+
+### CAPITULO VI. De la Coordinación Especializada en la Gestión del Capital Humano
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2010)</small>
+
+ARTICULO 19 A.- Al frente de la Coordinación Especializada en la Gestión del Capital Humano, habrá un Coordinador que dependerá orgánicamente del Secretario, para el estudio, planeación y despacho de los asuntos que le competen, se auxiliará del personal que le sea adscrito.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2010)</small>
+
+ARTICULO 19 B.- El Coordinador Especializado en la Gestión del Capital Humano, tendrá las mismas atribuciones genéricas señaladas en el Artículo 12 del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2010)</small>
+
+ARTICULO 19 C.- Corresponde a la Coordinación Especializada en la Gestión del Capital Humano, las siguientes facultades:
+
+I.- Establecer los lineamientos generales para la planeación, autorización, coordinación, supervisión y evaluación de las estrategias de la gestión del capital humano de las Dependencias del Poder Ejecutivo y proponerlas a las entidades paraestatales para su implementación;
+
+II.- Coordinar las áreas de gestión del capital humano de las dependencias y entidades de la Administración Pública Estatal;
+
+III.- Formular y proponer las políticas generales de la gestión del capital Humano;
+
+IV.- Constatar el cumplimiento de las acciones de la gestión del capital humano y proponer recomendaciones para su mejora continua, incluidas las obligaciones fiscales salariales y de seguridad social;
+
+V.- Coordinar la planeación general de las necesidades de personal relativo a los procesos de reclutar, seleccionar, capacitar, controlar y evaluar al personal que preste servicios en las Dependencias adscritas al Poder Ejecutivo y de las entidades paraestatales que así lo soliciten;
+
+VI.- Validar y proponer al Secretario los tabuladores de sueldos y salarios que se aplicará en Dependencias de la Administración Pública Estatal así como el que se aplique en las Entidades con recursos estatales, de acuerdo a los incrementos autorizados anualmente;
+
+VII.- Desempeñar las funciones y comisiones especiales que el Ejecutivo Estatal le confiera y mantenerlo informado sobre su desarrollo y ejecución;
+
+VIII.- Intervenir en representación de la Secretaría, ante las Instituciones de Seguridad Social y Servicios para los Servidores del Estado en lo relativo a las prestaciones que correspondan al personal de la Administración Pública Estatal;
+
+IX.- Asesorar al Secretario en la elaboración y revisión de convenios que celebre el Poder Ejecutivo Estatal con otras instituciones, organismos y entidades, en materia de administración de Capital Humano;
+
+X.- Asesorar a los Municipios del Estado, a su solicitud, en la adopción de métodos y sistemas de administración del Capital Humano; y
+
+XI.- Las demás que le confieran las leyes, reglamentos, decretos y otras disposiciones legales o que el Secretario le asigne.
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2010)</small>
+
+#### SECCION I. De la Dirección General de Capital Humano
 
 ###### ARTICULO 20.
 
@@ -414,7 +458,9 @@ La Dirección General de Capital Humano, atenderá el despacho de los siguientes
 
 I. Planear las necesidades de personal relativo a los procesos de reclutar, seleccionar, capacitar, controlar y evaluar al personal que preste servicios en las dependencias adscritas al Poder Ejecutivo o de las Entidades Paraestatales que así lo soliciten;
 
-II. Elaborar y proponer al Secretario los tabuladores de sueldos y salarios que se aplicará en dependencias de la Administración Pública Estatal así como el que se aplique en las entidades, de acuerdo a los incrementos autorizados anualmente;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2010)</small>
+
+II. Elaborar y proponer al Coordinador Especializado de Gestión del Capital Humano los tabuladores de sueldos y salarios que se aplicará en Dependencias de la Administración Pública Estatal así como el que se aplique en las Entidades, de acuerdo a los incrementos autorizados anualmente;
 
 III. Integrar y elaborar la nómina de los servidores públicos de las dependencias de la Administración Pública del Estado, y solicitar el pago de remuneraciones al personal a la Secretaría de Finanzas, efectuando las retenciones fiscales y practicando los descuentos que legalmente correspondan;
 
@@ -448,7 +494,7 @@ XVII. Proponer y fomentar las actividades de recreación e integración familiar
 
 XVIII. Estudiar y formular los anteproyectos de leyes, reglamentos, decretos y otras disposiciones legales, relacionadas con la administración de los recursos humanos de la Administración Pública Estatal;
 
-XIX. Intervenir en representación de la Secretaría, ante las Instituciones de Seguridad Social y Servicios para los Servidores del Estado en lo relativo a las prestaciones que correspondan al personal de la Administración Pública Estatal;
+XIX. (DEROGADA, P.O. 21 DE JUNIO DE 2010)
 
 XX. Establecer sistemas integrales de información de recursos humanos en coordinación con las áreas de informática de la Coordinación General de Mejores Prácticas Gubernamentales, para que se tomen decisiones adecuadas y oportunas en esta materia;
 
@@ -456,9 +502,13 @@ XXI. Coordinar y definir la metodología para la detección de las necesidades d
 
 XXII. Coordinar la elaboración del Programa Anual de Capacitación de los Servidores Públicos de la Administración Pública Estatal; y coordinar su ejecución a cargo de las áreas administrativas de cada Dependencia y Entidades Paraestatales que así lo soliciten;
 
-XXIII. Asesorar al Secretario en la elaboración y revisión de convenios que celebre el Poder Ejecutivo Estatal con otras instituciones, organismos y entidades, en materia de administración de capital humano;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2010)</small>
 
-XXIV. Asesorar a los Municipios del Estado, a su solicitud, en la adopción de métodos y sistemas de administración del capital humano;
+XXIII. Apoyar al Coordinador Especializado de Gestión del Capital Humano en la elaboración y revisión de convenios que celebre el Poder Ejecutivo Estatal con otras instituciones, organismos y entidades, en materia de administración de Capital Humano;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2010)</small>
+
+XXIV. Apoyar en la asesoría a los Municipios del Estado, a su solicitud, en la adopción de métodos y sistemas de administración del Capital Humano;
 
 XXV. En general, realizar todas aquellas actividades relacionadas con la administración de capital humano del Gobierno del Estado;
 
@@ -621,3 +671,11 @@ Secretario General de Gobierno.
 ING. FLORENTINO REYES BERLIE,
 
 Secretario de Gestión e Innovación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE JUNIO DE 2010.
+
+PRIMERO.- El presente Decreto de reforma a este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Dirección General Administrativa realizará los tramites necesarios para realizar el ajuste presupuestal con motivo de la nueva organización que se propone en el presente Reglamento.
