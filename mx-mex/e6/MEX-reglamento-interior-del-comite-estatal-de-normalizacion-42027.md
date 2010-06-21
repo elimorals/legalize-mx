@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-comite-estatal-de-normalizacion-42027"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-03"
-last_updated: "2008-11-11"
+last_updated: "2010-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL COMITE ESTATAL DE NORMALIZACION AMBIENTAL DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DEL COMITE ESTATAL DE NORMALIZACION AMBIENTAL
+REGLAMENTO INTERIOR DEL COMITÉ ESTATAL DE NORMALIZACIÓN AMBIENTAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE NOVIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JUNIO DE 2010.
 
 Reglamento publicado en la Sección Primera a la Gaceta del Gobierno del Estado de México, el viernes 3 de diciembre del 2004.
 
@@ -63,7 +63,9 @@ Las normas técnicas estatales ambientales y los criterios ambientales estatales
 
 El Pleno, es el órgano máximo del Comité y está integrado de la siguiente manera:
 
-I. Un Presidente, que será el Titular de la Secretaría de Ecología;
+> <small>(REFORMADA, G.G. 21 DE JUNIO DE 2010)</small>
+
+I. Un Presidente, que será el Titular de la Secretaría del Medio Ambiente, quien en su ausencia será suplido por el titular de la Subsecretaría del Medio Ambiente, asumiendo todas las funciones que el cargo la ( sic) confiere, incluyendo el contar con el voto aprobatorio.
 
 II. Un Secretario Técnico, que será el Titular de la Subsecretaría de Prevención y Control de la Contaminación de la Secretaría;
 
@@ -223,7 +225,7 @@ X. Las demás que le asigne el Ejecutivo del Estado, el Pleno del Comité y este
 
 Corresponde al Secretario Técnico:
 
-I. Suplir al Presidente en su ausencia, asumiendo las atribuciones que el cargo le confiere, incluyendo el contar con el voto aprobatorio;
+I. (REFORMADA [N. DE E. DEROGADA], G.G. 21 DE JUNIO DE 2010)
 
 > <small>(REFORMADA, G.G. 21 DE JUNIO DE 2005)</small>
 
@@ -514,3 +516,7 @@ PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el
 G.G. 11 DE NOVIEMBRE DE 2008.
 
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 21 DE JUNIO DE 2010.
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
