@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-medicina-seguridad-e-higiene-del-instituto-de-249
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-06-10"
-last_updated: "2007-01-08"
+last_updated: "2010-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "AGU"
 
 REGLAMENTO DE MEDICINA, SEGURIDAD E HIGIENE DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE SEGURIDAD E HIGIENE DE LAS ENTIDADES INCORPORADAS AL REGIMEN DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLlCOS DEL ESTADO DE AGUASCALlENTES, PUBLICADO EN EL P.O. DE 8 DE ENERO DE 2007, SE DEROGAN LAS DISPOSICIONES RELATIVAS A SEGURIDAD E HIGIENE CONTENIDAS EN EL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE MEDICINA DEL TRABAJO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 21 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2002.
 
@@ -289,3 +289,17 @@ En un plazo no mayor a tres meses contados a partir de la vigencia del presente 
 ###### ARTICULO CUARTO.
 
 Se derogan las disposiciones relativas a Seguridad e Higiene contenidas en el Reglamento de Medicina Seguridad e Higiene del ISSSSPEA, publicado en el Periódico Oficial del Estado en fecha 10 de junio del 2002.
+
+P.O. 21 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO
+
+Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO
+
+Se abroga el Reglamento de Medicina, Seguridad e Higiene del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes, en fecha 10 de junio de 2002.
+
+###### ARTÍCULO TERCERO
+
+Este Reglamento fue aprobado por la H. Junta Directiva del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, por acuerdo número 77.VII.5.2010, dado en sesión ordinaria número 77, de fecha 26 de febrero de 2010.
