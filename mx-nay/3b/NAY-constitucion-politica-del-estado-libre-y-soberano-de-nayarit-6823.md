@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2009-12-18"
+last_updated: "2010-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -397,11 +397,19 @@ Para la asignación de los diputados por el principio de representación proporc
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-I. Que los partidos políticos hayan registrado fórmulas para la elección de diputados de mayoría relativa en cuando menos las dos terceras partes de los distritos electorales, y
+I. Que los partidos políticos hayan registrado fórmulas para la elección de diputados de mayoría relativa en cuando menos las dos terceras partes de los distritos electorales, y (sic)
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1998)</small>
+(NOTA: EL 26 DE AGOSTO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2010 Y SUS ACUMULADAS 12/2010 Y 13/2010, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE AGOSTO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-II. Los partidos políticos que hayan obtenido un mínimo de 2.0 por ciento de la votación total, tendrán derecho a concurrir a la asignación.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2010)</small>
+
+II. LOS PARTIDOS POLÍTICOS QUE HAYAN OBTENIDO UN MÍNIMO DE 1.5 POR CIENTO DE LA VOTACIÓN TOTAL, TENDRÁN DERECHO A CONCURRIR A LA ASIGNACIÓN;
+
+(NOTA: EL 26 DE AGOSTO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2010 Y SUS ACUMULADAS 12/2010 Y 13/2010, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE AGOSTO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2010)</small>
+
+III. CADA PARTIDO POLÍTICO QUE OBTENGA EL MÍNIMO DE VOTACIÓN A QUE SE REFIERE LA FRACCIÓN ANTERIOR TENDRÁ DERECHO A LA ASIGNACIÓN DE CUANDO MENOS UN DIPUTADO DE REPRESENTACIÓN PROPORCIONAL.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -437,11 +445,13 @@ V. No estar suspendido en sus derechos políticos; y
 
 VI. No ser ministro de algún culto religioso.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+(NOTA: EL 26 DE AGOSTO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2010 Y SUS ACUMULADAS 12/2010 Y 13/2010, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE AGOSTO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2010)</small>
 
 ###### Art. 29.
 
-No pueden ser Diputados: El Gobernador del Estado, los Titulares de las dependencias y entidades de la administración pública centralizada y paraestatal, Procurador General de Justicia, los integrantes del Ayuntamiento, Diputado Federal, Senador de la República; ni estar en servicio activo en el Ejército Nacional, salvo que se hubieren separado de sus cargos o del servicio por lo menos 90 días antes de la elección. Los Magistrados del Tribunal Superior de Justicia o Juez de Primera Instancia, Ministro de la Corte, Magistrado o Juez del Poder Judicial de la Federación, miembro del Consejo de la Judicatura Estatal o Federal y los Magistrados e integrantes del órgano Electoral del Estado, no podrán ser Diputados a menos que se separen de su cargo 180 días antes de la elección.
+No pueden ser diputados quienes ocupen los cargos de: Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Síndico, Regidor, Secretario, Tesorero o Director de alguna dependencia del Ayuntamiento; Procurador General de Justicia, Diputado Federal, Senador de la República, Delegados, Subdelegados o titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Consejo de la Judicatura Estatal o Federal o integrante de los organismos Electorales, con excepción de los representantes de los partidos políticos; titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio sesenta días antes del inicio del proceso electoral.
 
 ###### Art. 30.
 
@@ -683,9 +693,11 @@ XV. Declarar a pedimento del Procurador General de Justicia cuando ha lugar a fo
 
 XVI. Facultar al Ejecutivo del Estado para que constituya Empresas Públicas y Organismos Descentralizados.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 1983)</small>
+(NOTA: EL 26 DE AGOSTO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2010 Y SUS ACUMULADAS 12/2010 Y 13/2010, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE AGOSTO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-XVII. Suspender o declarar desaparecidos Ayuntamientos o suspender o revocar el mandato otorgado a alguno de sus miembros y en su caso, integrar los Consejos Municipales, en los términos del Código para la Administración Municipal.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2010)</small>
+
+XVII. SUSPENDER O DECLARAR DESAPARECIDOS AYUNTAMIENTOS O SUSPENDER O REVOCAR EL MANDATO OTORGADO A ALGUNO DE SUS MIEMBROS Y EN SU CASO, INTEGRAR LOS CONCEJOS MUNICIPALES, EN LOS TÉRMINOS DE LA LEY MUNICIPAL; ASIMISMO, CUANDO POR CUALQUIER CIRCUNSTANCIA NO SEA POSIBLE LA INTEGRACIÓN DE UN AYUNTAMIENTO ELECTO EN LOS TÉRMINOS DE LA LEY RESPECTIVA O SE HAYA DECLARADO LA NULIDAD DE LA ELECCIÓN, EL CONGRESO DEL ESTADO DESIGNARÁ INTEGRANTES PROVISIONALES CONFORME A LA LEY MUNICIPAL, QUIENES FUNGIRÁN EN TANTO SE INTEGRE EL AYUNTAMIENTO RESPECTIVO.
 
 > <small>(REFORMADA, 15 DE FEBRERO DE 1989)</small>
 
@@ -919,9 +931,11 @@ I. Ser ciudadano mexicano por nacimiento, hijo de padres mexicanos, nativo del E
 
 II. Tener 30 años cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+(NOTA: EL 26 DE AGOSTO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2010 Y SUS ACUMULADAS 12/2010 Y 13/2010, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE AGOSTO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-III. No ser Secretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Procurador General de Justicia, Diputado Local, Diputado Federal, Senador de la República; ni estar en servicio activo en el Ejército Nacional, salvo que se hubieren separado de sus cargos o del servicio lo menos 90 días antes de la elección. Los Magistrados del Tribunal Superior de Justicia o Juez de Primera Instancia, Ministro de la Corte, Magistrado o Juez del Poder Judicial de la Federación, miembro del Consejo de la Judicatura Estatal o Federal y los Magistrados e integrantes del órgano Electoral del Estado, no podrán ser Gobernador a menos que se separen de su cargo 180 días antes de la elección.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2010)</small>
+
+III. NO SER SECRETARIO O SUBSECRETARIO DEL DESPACHO DEL PODER EJECUTIVO ESTATAL O FEDERAL, PRESIDENTE MUNICIPAL, SÍNDICO, REGIDOR, SECRETARIO, TESORERO O DIRECTOR DE ALGUNA DEPENDENCIA DEL AYUNTAMIENTO; PROCURADOR GENERAL DE JUSTICIA, DIPUTADO LOCAL O FEDERAL, SENADOR DE LA REPÚBLICA, DELEGADOS, SUBDELEGADOS O TITULARES DE LAS DEPENDENCIAS O ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA FEDERAL EN EL ESTADO; MINISTRO, MAGISTRADO O JUEZ DEL PODER JUDICIAL DE LA FEDERACIÓN O DEL ESTADO, MIEMBRO DEL CONSEJO DE LA JUDICATURA ESTATAL O FEDERAL O INTEGRANTE DE LOS ORGANISMOS ELECTORALES, CON EXCEPCIÓN DE LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS; TITULAR DE ORGANISMO AUTÓNOMO O DESCENTRALIZADO FEDERAL, ESTATAL O MUNICIPAL; ASÍ COMO LOS MIEMBROS EN SERVICIO ACTIVO EN EL EJÉRCITO NACIONAL O ARMADA DE MÉXICO; SALVO QUE SE HUBIEREN SEPARADO DE SUS CARGOS O DEL SERVICIO SESENTA DÍAS ANTES DEL INICIO DEL PROCESO ELECTORAL.
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -1437,6 +1451,12 @@ VI.- Resolver los medios de impugnación en materia electoral en los términos q
 
 VII.- Los demás que con base en la Constitución Federal, esta Constitución y demás leyes, se le confieran.
 
+(NOTA: EL 26 DE AGOSTO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2010 Y SUS ACUMULADAS 12/2010 Y 13/2010, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE AGOSTO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2010)</small>
+
+LA SALA CONSTITUCIONAL-ELECTORAL PODRÁ RESOLVER LA NO APLICACIÓN DE LEYES EN MATERIA ELECTORAL CONTRARIAS A LA PRESENTE CONSTITUCIÓN. LAS RESOLUCIONES QUE SE DICTEN EN EL EJERCICIO DE ESTA FACULTAD SE LIMITARÁN AL CASO CONCRETO SOBRE EL QUE VERSE EL JUICIO.
+
 ### CAPITULO II. Del Ministerio Público
 
 ###### Art. 92.
@@ -1593,9 +1613,11 @@ II. Ser ciudadano nayarita en pleno ejercicio de sus derechos; originario del mu
 
 III. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+(NOTA: EL 26 DE AGOSTO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2010 Y SUS ACUMULADAS 12/2010 Y 13/2010, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE AGOSTO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-IV. No ser Secretario del Despacho del Poder Ejecutivo estatal o Federal, Procurador General de Justicia, Diputado Local o Federal, Senador de la República; ni estar en servicio activo en el Ejército Nacional, salvo que se hubieren separado de sus cargos o del servicio lo menos 90 días antes de la elección. Los Magistrados del Tribunal Superior de Justicia o Juez de Primera Instancia, Ministro de la Corte, Magistrado o Juez del Poder Judicial de la Federación, miembro del Consejo de la Judicatura Estatal o Federal y los Magistrados e integrantes del órgano Electoral del Estado, no podrán ser Integrantes del Ayuntamiento a menos que se separen de su cargo 180 días antes de la elección, y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2010)</small>
+
+IV. NO SER GOBERNADOR, SECRETARIO O SUBSECRETARIO DEL DESPACHO DEL PODER EJECUTIVO ESTATAL O FEDERAL; SECRETARIO, TESORERO O DIRECTOR DE ALGUNA DEPENDENCIA DEL AYUNTAMIENTO; PROCURADOR GENERAL DE JUSTICIA, DIPUTADO LOCAL O FEDERAL, SENADOR DE LA REPÚBLICA, DELEGADOS, SUBDELEGADOS O TITULARES DE LAS DEPENDENCIAS O ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA FEDERAL EN EL ESTADO; MINISTRO, MAGISTRADO O JUEZ DEL PODER JUDICIAL DE LA FEDERACIÓN O DEL ESTADO, MIEMBRO DEL CONSEJO DE LA JUDICATURA ESTATAL O FEDERAL O INTEGRANTE DE LOS ORGANISMOS ELECTORALES, CON EXCEPCIÓN DE LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS; TITULAR DE ORGANISMO AUTÓNOMO O DESCENTRALIZADO FEDERAL, ESTATAL O MUNICIPAL; ASÍ COMO LOS MIEMBROS EN SERVICIO ACTIVO EN EL EJÉRCITO NACIONAL O ARMADA DE MÉXICO; SALVO QUE SE HUBIEREN SEPARADO DE SUS CARGOS O DEL SERVICIO SESENTA DÍAS ANTES DEL INICIO DEL PROCESO ELECTORAL; Y
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -2075,13 +2097,19 @@ VI. La ley establecerá el procedimiento para la liquidación de las obligacione
 
 Apartado B.- Del acceso de los partidos a los medios de comunicación social.
 
-En el ámbito estatal, los partidos políticos tendrán derecho al uso de los medios de comunicación social.
+(NOTA: EL 26 DE AGOSTO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2010 Y SUS ACUMULADAS 12/2010 Y 13/2010, DECLARÓ LA INVALIDEZ DEL APARTADO B EN SU FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE AGOSTO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-I. La autoridad electoral, será responsable del tiempo que corresponda al Estado de Nayarit en radio y televisión, destinado para fines electorales y al ejercicio del derecho de los partidos políticos en el ámbitos (sic) estatal, de conformidad con lo que establezcan, la Constitución Política de los Estado (sic) Unidos Mexicanos, las leyes federales y las propias del Estado.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2010)</small>
 
-II. Los partidos políticos en ningún momento por sí o por terceras personas podrán contratar o adquirir, tiempos en cualquier modalidad de radio y televisión. La contratación o adquisición se hará en los términos que disponga la Constitución General de la República.
+I. EL ACCESO EQUITATIVO, DE LOS PARTIDOS POLÍTICOS Y CANDIDATOS, A LOS MEDIOS MASIVOS DE COMUNICACIÓN SOCIAL TENDRÁ LAS MODALIDADES QUE AL EFECTO FIJE LA LEY. EL INSTITUTO ESTATAL ELECTORAL ES LA AUTORIDAD EXCLUSIVA PARA ADMINISTRAR LOS ESPACIOS EN MEDIOS DE COMUNICACIÓN SOCIAL, A EXCEPCIÓN DE LO QUE EN ESA MATERIA COMPETE AL INSTITUTO FEDERAL ELECTORAL.
 
-Ninguna otra persona física o jurídica, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
+(NOTA: EL 26 DE AGOSTO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2010 Y SUS ACUMULADAS 12/2010 Y 13/2010, DECLARÓ LA INVALIDEZ DEL APARTADO B EN SU FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE AGOSTO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2010)</small>
+
+II. LOS PARTIDOS POLÍTICOS EN NINGÚN MOMENTO POR SÍ O POR TERCERAS PERSONAS PODRÁN CONTRATAR O ADQUIRIR, TIEMPOS EN CUALQUIER MODALIDAD DE RADIO Y TELEVISIÓN, O MEDIOS MASIVOS DE COMUNICACIÓN SOCIAL. LA CONTRATACIÓN O ADQUISICIÓN, EN SU CASO, SE HARÁ EN LOS TÉRMINOS QUE DISPONGA LA CONSTITUCIÓN GENERAL DE LA REPÚBLICA, ESTA CONSTITUCIÓN Y LAS LEYES APLICABLES.
+
+NINGUNA OTRA PERSONA FÍSICA O JURÍDICA, SEA A TÍTULO PROPIO O POR CUENTA DE TERCEROS, PODRÁ CONTRATAR PROPAGANDA EN RADIO Y TELEVISIÓN O MEDIOS MASIVOS DE COMUNICACIÓN SOCIAL DIRIGIDA A INFLUIR EN LAS PREFERENCIAS ELECTORALES DE LOS CIUDADANOS, NI A FAVOR O EN CONTRA DE PARTIDOS POLÍTICOS O DE CANDIDATOS A CARGOS DE ELECCIÓN POPULAR.
 
 III. En la propaganda política o electoral se privilegiará la difusión de la ideología, principios, propuestas de los partidos o candidatos, el respeto a las instituciones o la promoción de la participación ciudadana para el ejercicio del poder público. Se prohíbe a los partidos políticos, simpatizantes, militantes, candidatos, o cualquier persona realizar expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas. La ley establecerá las sanciones por la violación a esta disposición.
 
@@ -2091,7 +2119,17 @@ La duración de las campañas para gobernador no podrá exceder de sesenta días
 
 Las precampañas sólo tendrán lugar dentro de los procesos internos de selección de candidatos de los partidos políticos.
 
-La violación a estas disposiciones por los partidos o cualquier otra persona física o jurídica será causa de inelegibilidad.
+(NOTA: EL 26 DE AGOSTO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2010 Y SUS ACUMULADAS 12/2010 Y 13/2010, DECLARÓ LA INVALIDEZ DEL APARTADO B EN SU FRACCIÓN IV PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE AGOSTO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2010)</small>
+
+LA LEY DEFINIRÁ LOS ACTOS ANTICIPADOS DE PRECAMPAÑA O CAMPAÑA ELECTORAL Y DETERMINARÁ LAS SANCIONES QUE POR ELLOS SE IMPONGAN.
+
+(NOTA: EL 26 DE AGOSTO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2010 Y SUS ACUMULADAS 12/2010 Y 13/2010, DECLARÓ LA INVALIDEZ DEL APARTADO B EN SU FRACCIÓN IV PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE AGOSTO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2010)</small>
+
+TODA PERSONA QUE REALICE ACTOS DE PROSELITISMO O PROMOCIÓN PERSONAL DE CUALQUIER ÍNDOLE SIN SUJETARSE A LAS DISPOSICIONES O TIEMPOS QUE SEÑALE LA LEGISLACIÓN DE LA MATERIA, SE LE IMPONDRÁN LAS SANCIONES QUE SEÑALE LA LEY.
 
 V. Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la jornada electoral, deberá suspenderse la difusión en los medios de comunicación social, de toda propaganda gubernamental. La única excepción a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en caso de emergencia.
 
@@ -2099,7 +2137,11 @@ Apartado C.- Del Instituto Estatal Electoral.
 
 La organización de las elecciones estatales es una función pública que se realiza a través de un organismo público autónomo denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propio, en cuya integración participan el Poder Legislativo, los partidos políticos con registro en el Estado y los ciudadanos, en los términos que ordene la ley.
 
-El Instituto Estatal Electoral será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, técnicos y de vigilancia. El Consejo Local Electoral, será su órgano superior de dirección y se integrará por un Consejero Presidente y cuatro consejeros electorales y concurrirán, con voz pero sin voto, los representantes de los partidos políticos. El Consejo funcionará sólo durante la preparación, desarrollo y conclusión del proceso electoral, o en los periodos fuera de proceso, en los términos que disponga la ley. La ley determinará las reglas para la organización y funcionamiento de sus órganos; los procedimientos y sanciones por violación a las leyes electorales. Las disposiciones de la ley electoral y del Estatuto que con base en ella apruebe el Consejo, regirán las relaciones de trabajo con los servidores del organismo público. Los consejos municipales y las mesas directivas de casilla estarán integradas por ciudadanos.
+(NOTA: EL 26 DE AGOSTO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2010 Y SUS ACUMULADAS 12/2010 Y 13/2010, DECLARÓ LA INVALIDEZ DEL APARTADO C EN SU PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE AGOSTO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2010)</small>
+
+EL INSTITUTO ESTATAL ELECTORAL SERÁ AUTORIDAD EN LA MATERIA, INDEPENDIENTE EN SUS DECISIONES Y FUNCIONAMIENTO Y PROFESIONAL EN SU DESEMPEÑO; CONTARA EN SU ESTRUCTURA CON ÓRGANOS DE DIRECCIÓN, TÉCNICOS Y DE VIGILANCIA. EL CONSEJO LOCAL ELECTORAL, SERÁ SU ÓRGANO SUPERIOR DE DIRECCIÓN Y SE INTEGRARÁ POR UN CONSEJERO PRESIDENTE Y CUATRO CONSEJEROS ELECTORALES Y CONCURRIRÁN, CON VOZ PERO SIN VOTO, LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS. EL CONSEJO FUNCIONARÁ SÓLO DURANTE LA PREPARACIÓN, DESARROLLO Y CONCLUSIÓN DEL PROCESO ELECTORAL, O EN LOS PERIODOS FUERA DE PROCESO, EN LOS TÉRMINOS QUE DISPONGA LA LEY. LA LEY DETERMINARÁ LAS REGLAS PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE SUS ÓRGANOS; LOS PROCEDIMIENTOS Y SANCIONES POR VIOLACIÓN A LAS LEYES ELECTORALES. LAS DISPOSICIONES DE LA LEY ELECTORAL Y DEL ESTATUTO QUE CON BASE EN ELLA APRUEBE EL INSTITUTO ESTATAL ELECTORAL, REGIRÁN LAS RELACIONES DE TRABAJO CON LOS SERVIDORES DEL ORGANISMO PÚBLICO. LOS CONSEJOS MUNICIPALES Y LAS MESAS DIRECTIVAS DE CASILLA ESTARÁN INTEGRADAS POR CIUDADANOS.
 
 La ley establecerá los requisitos que deberán reunir para su designación el Consejero Presidente, los consejeros electorales, y sus órganos técnicos; no podrán ocupar, dentro de los dos años siguientes a la fecha de su retiro, cargos en los poderes públicos en cuya elección hayan participado.
 
@@ -3012,3 +3054,13 @@ Para los efectos previstos en el artículo 135 de la Constitución Política del
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 22 DE JUNIO DE 2010.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- El Congreso del Estado, deberá realizar las modificaciones a la legislación secundaria en un plazo que no excederá al previsto en el artículo 105 fracción II de la Constitución Política de los Estados Unidos Mexicanos.
+
+Artículo Tercero.- En cuanto a lo dispuesto por el artículo 81 en su párrafo cuarto de la presente Constitución, en la materia de solución de conflictos mediante procedimientos alternativos de justicia y juicios orales, para los efectos de emitir la legislación secundaria se estará a lo previsto por el artículo segundo transitorio del decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el día 18 de junio de 2008.
+
+Artículo Cuarto.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la entidad.
