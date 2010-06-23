@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2009-12-18"
+last_updated: "2010-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -221,7 +221,9 @@ IV. Cumplir y hacer cumplir las políticas, acuerdos, órdenes, circulares y dem
 
 V. Fijar, dirigir y controlar las políticas de la Dependencia a su cargo, así como programar, coordinar y evaluar, en los términos de la legislación aplicable, las actividades de las entidades del sector que le corresponda coordinar;
 
-VI. Proponer el anteproyecto de presupuesto de egresos de la Dependencia a su cargo y de las entidades del sector correspondiente, remitiéndolos a la Secretaría de Finanzas con la oportunidad que se le solicite;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VI. Proponer el anteproyecto de presupuesto de egresos de la Dependencia a su cargo y de las entidades del sector correspondiente, remitiéndolos a la Secretaría de Administración y, en el caso de los proyectos de inversión a la Secretaría de Planeación Programación y Presupuesto con la oportunidad que se solicite;
 
 VII. Desempeñar las comisiones y funciones que el Gobernador le confiera, manteniéndolo informado sobre el desarrollo y ejecución de las mismas;
 
@@ -241,11 +243,9 @@ XIII. Conocer y resolver, en el ámbito de su competencia, de los recursos admin
 
 XIV. Atender, verificar y dar respuesta a las recomendaciones que señalen los organismos públicos de defensa de los derechos humanos con relación a la actuación de los servidores públicos adscritos física y presupuestalmente a dicha Dependencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
-
-XV. Representar ante toda clase de autoridades y tribunales a la Dependencia a su cargo e intervenir en los procedimientos judiciales y administrativos en que ésta sea parte o tenga interés jurídico; así como representarla legalmente en lo relativo a las relaciones laborales;
+XV. Intervenir en los procedimientos judiciales y administrativos en que la Dependencia a su cargo sea parte o tengan interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos vigentes;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -315,13 +315,17 @@ XIII. Secretaría de Educación Media Superior, Superior e Investigación Cient�
 
 XIV. Secretaría del Trabajo;
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XV. Secretaría de Seguridad Pública, y
+XV. Secretaría de Seguridad Pública;
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XVI. Secretaría de Desarrollo Social.
+XVI. Secretaría de Desarrollo Social; y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XVII. Secretaría de Administración.
 
 ### CAPITULO II
 
@@ -491,19 +495,27 @@ Ingresos y proponer sus modificaciones;
 
 IV. Ejecutar en términos de la ley, el otorgamiento de estímulos fiscales, en coordinación con las dependencias a quienes corresponda el fomento de actividades productivas;
 
-V. Elaborar y mantener actualizado el padrón estatal de contribuyentes así como la estadística de ingresos del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-VI. Elaborar, integrar, controlar, verificar y mantener actualizados los registros y padrones que conforme a las disposiciones legales convenios y sus anexos le correspondan;
+V. Elaborar, integrar, controlar, verificar y mantener actualizados los registros y padrones que conforme a las disposiciones legales, convenios y sus anexos le correspondan así como la estadística de ingresos del Estado;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VI. Representar al Gobierno del Estado en los órganos de los Sistemas Nacional y Estatal de Coordinación Fiscal respectivamente, así como celebrar y ejercer las atribuciones que en forma expresa le confieran los convenios de colaboración administrativa y sus anexos, suscritos por el Estado con la Federación o los Municipios;
 
 VII. Realizar la glosa preventiva de los ingresos del Gobierno del Estado;
 
 VIII. Elaborar conjuntamente con la Secretaría de la Contraloría General la normatividad requerida para regular el ejercicio del ingreso del estado y su control, contratación de deuda, manejo de fondos y custodia de documentos que constituyen valores, acciones, y derechos que formen parte del patrimonio de la Administración Pública Estatal;
 
-IX. Definir y aplicar con autorización del Gobernador del Estado las fuentes alternas de financiamiento que permitan lograr el equilibrio del Estado;
+IX. (DEROGADA, P.O. 23 DE JUNIO DE 2010)
 
-X. Recibir, distribuir y entregar las participaciones y recursos a los entes públicos, distintos al Poder Ejecutivo, conforme a las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XI. Entregar a la Secretaría de Planeación, Programación y Presupuesto los recursos que correspondan al Poder Ejecutivo para el ejercicio del Presupuesto conforme a la Ley;
+X. Recibir, distribuir y entregar los ingresos estatales, las participaciones y aportaciones federales y cualquier otro ingreso federal y/o estatal a favor del Estado, a los entes públicos que correspondan, según su naturaleza y asignación específica y conforme a las disposiciones legales aplicables, realizando todos los actos que sean necesarios para ello;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XI. Formar parte de los órganos de gobierno de las entidades de la Administración Pública Paraestatal y Fideicomisos que reciban recursos del Gobierno Federal;
 
 XII. Cobrar y administrarlos (sic) impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos y demás ingresos que el estado tenga derecho a percibir en los términos de las leyes fiscales aplicables y convenios suscritos en materia de colaboración administrativa en materia fiscal;
 
@@ -519,7 +531,9 @@ XVII. Notificar los créditos fiscales, determinar sus accesorios, y en su caso 
 
 XVIII. Practicar revisiones y auditorias a los contribuyentes;
 
-XIX. Coordinar la negociación y llevar el registro y control de la deuda pública del estado informando al gobernador periódicamente sobre la situación que guardan las amortizaciones de capital y el pago de intereses;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XIX. Llevar el registro de la deuda pública directa e indirecta del Gobierno del Estado y de los municipios conforme a las disposiciones legales aplicables;
 
 XX. Determinar la normatividad a seguir para la cancelación de cuentas incobrables, tramitar y resolver su cancelación en los casos que proceda;
 
@@ -531,17 +545,23 @@ XXIII. Proporcionar asesoría en materia de interpretación y aplicación de la 
 
 XXIV. Intervenir en los procedimientos judiciales o administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos vigentes los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los municipios de la entidad;
 
-XXV. Intervenir en la celebración de convenios coordinados de colaboración fiscal y sus anexos entre el estado y la federación o los municipios del Estado, vigilando su cumplimiento y correcta aplicación;
+XXV. (DEROGADA, P.O. 23 DE JUNIO DE 2010)
 
 XXVI. Ser el fideicomitente único del gobierno del estado en todos los fideicomisos que al efecto se constituyan;
 
-XXVII. Previo acuerdo del ejecutivo, contratar créditos a cargo del gobierno del estado;
+XXVII. (DEROGADA, P.O. 23 DE JUNIO DE 2010)
 
-XXVIII. En los términos de la Ley respectiva expedir las licencias a los negocios en donde se expendan, distribuyan o consuman bebidas alcohólicas; y vigilar la correcta aplicación de la normatividad aplicable;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XXIX. Firmar como aval con la autorización del Gobernador;
+XXVIII. En los términos de la ley respectiva expedir las licencias a los negocios en donde se expendan, distribuyan o consuman bebidas alcohólicas y los permisos relativos a las casas de empeño, así como vigilar y aplicar correctamente la normatividad respectiva;
 
-XXX. Retener las participaciones y subsidios que le correspondan a los ayuntamientos y organismos descentralizados, cuando el Ejecutivo figure como aval y aquellos no cumplan en sus términos con el pago de créditos contraídos;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XXIX. Firmar como aval y/o deudor solidario de las obligaciones financieras conforme a las disposiciones de la legislación estatal en la materia;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XXX. Retener las participaciones y aportaciones federales y/o subsidios que les correspondan a los ayuntamientos y a los organismos descentralizados, cuando el Ejecutivo figure como aval y/o deudor solidario y aquellos no cumplan en sus términos con el pago de las obligaciones contraídas;
 
 XXXI. Tramitar y vigilar las concesiones, franquicias y los subsidios fiscales que sean aprobados, de acuerdo con la legislación aplicable;
 
@@ -549,35 +569,39 @@ XXXII. Fijar las políticas, normas y lineamientos generales en materia de catas
 
 XXXIII. Administrar las contribuciones que incidan sobre la propiedad inmobiliaria de conformidad con las leyes y convenios suscritos con los ayuntamientos de la entidad;
 
-XXXIV. Registrar los actos y contratos de los que resulten derechos y obligaciones para la Administración Pública Estatal;
+XXXIV. (DEROGADA, P.O. 23 DE JUNIO DE 2010)
 
 XXXV. Llevar el registro y control de vehículos, así como ejercer las funciones operativas de la administración del impuesto sobre tenencia o uso de vehículos, consistentes en recaudación, comprobación, determinación y cobro del mismo, en los términos del convenio celebrado con el gobierno federal;
 
 XXXVI. Llevar el registro, control y actualización de los inventarios de bienes inmuebles propiedad del Estado;
 
-XXXVII. Regularizar la situación jurídica de los bienes propiedad del gobierno del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XXXVIII. Administrar las contribuciones que incidan sobre la propiedad inmobiliaria de conformidad con las leyes y convenios suscritos con los ayuntamientos de la entidad;
+XXXVII. Regularizar la situación jurídica de los bienes inmuebles propiedad del Poder Ejecutivo del Estado;
 
-XXXIX. Celebrar contratos respecto de los bienes inmuebles propiedad de gobierno del estado;
+XXXVIII. (DEROGADA, P.O. 23 DE JUNIO DE 2010)
 
-XL. Suscribir en términos de la legislación las garantías que deba otorgar el gobierno del estado en materia de bienes inmuebles;
+XXXIX. (DEROGADA, P.O. 23 DE JUNIO DE 2010)
 
-XLI. Administrar y promover la venta, fusión, extinción, transferencia, liquidación, cesión o renta de bienes inmuebles de las entidades de la administración pública paraestatal en los términos que disponga la ley;
+XL. (DEROGADA, P.O. 23 DE JUNIO DE 2010)
 
-XLII. Participar conjuntamente con la Secretaría de la Contraloría General en la elaboración de la normatividad requerida para regular el ejercicio del ingreso del estado y control, contratación de deuda, manejo de fondos y custodia de documentos que constituyen valores, acciones y derechos que formen parte del patrimonio de la Administración Pública Estatal;
+XLI. (DEROGADA, P.O. 23 DE JUNIO DE 2010)
 
-XLIII. Definir con autorización del Gobernador del Estado las fuentes alternas de financiamiento que permitan optimizar los recursos financieros;
+XLII. (DEROGADA, P.O. 23 DE JUNIO DE 2010)
 
-XLIV. Recibir, distribuir y entregar a los entes públicos distintos al Poder Ejecutivo conforme a las disposiciones legales aplicables, las participaciones y aportaciones federales que les corresponda asi como cualquier otro ingreso federal que se reciba;
+XLIII. (DEROGADA, P.O. 23 DE JUNIO DE 2010)
 
-XLV. Determinar y modificar los créditos fiscales, así como sus accesorios y en su caso aplicar el procedimiento administrativo de ejecución, efectuar su pago diferido o en parcialidades con garantía del interés fiscal, clausura de establecimientos e imposición de multas y cobros de la hacienda pública estatal, así como los derivados de los convenios de colaboración administrativa en materia fiscal federal que se celebren con el Gobierno Federal;
+XLIV. (DEROGADA, P.O. 23 DE JUNIO DE 2010)
 
-XLVI. Participar en la negociación y llevar el registro y control de la deuda pública del estado informando al gobernador periódicamente sobre la situación que guardan las amortizaciones de capital y el pago de intereses;
+XLV. (DEROGADA, P.O. 23 DE JUNIO DE 2010)
 
-XLVII. Intervenir en la celebración de convenios coordinados de colaboración administrativa fiscal y sus anexos entre el estado y la federación o los municipios del Estado, vigilando su cumplimiento y correcta aplicación;
+XLVI. (DEROGADA, P.O. 23 DE JUNIO DE 2010)
+
+XLVII. (DEROGADA, P.O. 23 DE JUNIO DE 2010)
 
 XLVIII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le con fiera el Gobernador del Estado.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO PUBLICADO EN EL P.O. DE 23 DE JUNIO DE 2010, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, PARA QUEDAR CONFORMADO POR 32 FRACCIONES.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -585,139 +609,93 @@ XLVIII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que 
 
 A la Secretaría de Planeación, Programación y Presupuesto corresponden las siguientes atribuciones:
 
-I. Ejecutar la política administrativa de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-II. Elaborar planes y programas que se requieran para eficientar la administración de los recursos humanos y materiales del Gobierno del Estado;
+I. Ejercer la rectoría del Estado en materia de planeación del desarrollo integral de la entidad, de conformidad con las leyes aplicables;
 
-III. Planear, programar, presupuestar, adquirir y suministrar los bienes y servicios que requiera el funcionamiento de las dependencias, de acuerdo a los recursos asignados en el presupuesto correspondiente;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-IV. Normar y regular la prestación de servicios administrativos que requieran las dependencias;
+II. Elaborar y proponer al Gobernador, los programas que requiera la entidad, con apego a las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+III. Conducir la instrumentación del Sistema Estatal de Planeación Democrática;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+IV. Proponer las normas y lineamientos metodológicos del Sistema Estatal de Planeación, Programación y Presupuestación, así como los mecanismos para su seguimiento y evaluación;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
 V. Proveer oportunamente a las dependencias de la Administración Pública Centralizada los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones;
 
-VI. Celebrar contratos respecto de los bienes muebles propiedad del gobierno del estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-VII. Ejercer las facultades de control, administración, cobro y demás establecidas en los ordenamientos aplicables, con relación a los seguros que contrate respecto a los bienes muebles de gobierno del estado y lo que conforme a la ley deba otorgar el mismo;
+VI. Concertar en el seno del Comité de Planeación para el Desarrollo del Estado de Nayarit, la participación de los sectores público, privado y social en la planeación del desarrollo integral de la entidad;
 
-VIII. Vigilar que las personas físicas y morales que celebren contratos con el gobierno del estado, garanticen debidamente el cumplimento de las obligaciones a su cargo;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-IX. Representar legalmente al gobierno del estado, en lo relativo a las relaciones laborales;
+VII. Coordinar los programas de desarrollo del Gobierno del Estado con los de la Administración Pública Federal y la de los Ayuntamientos de la entidad;
 
-X. Vigilar el cumplimiento de las disposiciones legales que rijan las relaciones entre la Administración Pública Centralizada y sus servidores públicos;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XI. Dictar y aplicar la normatividad referente a la selección, capacitación, contratación y control de los servidores públicos que laboren en la Administración Pública, así como suscribir contratos para la prestación de servicios profesionales;
+VIII. Participar con las dependencias correspondientes, en la formulación de los planes y programas de desarrollo urbano y rural, y de protección ambiental;
 
-XII. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los servidores públicos de la Administración Pública de conformidad con la Ley;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XIII. Atender las relaciones sindicales de la Administración Pública Centralizada;
+IX. Establecer, operar y vigilar el Sistema Estatal de Estadística e Información Geográfica y Cartográfica;
 
-XIV. Elaborar y mantener actualizado el escalafón de los servidores públicos de base de las dependencias, así como su expediente;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XV. Recibir, conservar y en su caso hacer efectivas las garantías que las personas físicas y morales, otorguen bajo cualquier titulo al gobierno del estado;
+X. Diseñar las bases metodológicas y los mecanismos de participación de las dependencias y organismos para elaborar, ejecutar y evaluar el Plan Estatal de Desarrollo;
 
-XVI. Suscribir en términos de la legislación, las garantías que deba otorgar el gobierno del estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XVII. Llevar el registro, control y actualización de los inventarios de bienes muebles propiedad o al cuidado del gobierno del estado;
+XI. Registrar el avance en la ejecución de los programas y el ejercicio del presupuesto de conformidad con la normatividad establecida y, en su caso, proponer las medidas necesarias para mantener la congruencia con los programas de desarrollo del Estado;
 
-XVIII. Administrar y vigilar los almacenes del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XIX. Coordinar el funcionamiento del Comité de Adquisiciones de la Administración Pública Estatal, en los términos de la ley reglamentaria;
+XII. Aplicar procedimientos para fortalecer la capacidad de los Ayuntamientos en la ejecución de obras y servicios, y la transferencia de recursos federales a los mismos;
 
-XX. Implementar y controlar el padrón de proveedores de las dependencias del ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XXI. Autorizar la transferencia, uso, disposición de baja y destino final de los bienes muebles propiedad de la Administración Pública Estatal;
+XIII. Integrar los documentos e información para la planeación del desarrollo del Estado y promover o elaborar los estudios para definir y apoyar los criterios, métodos, técnicas y las bases de la planeación estatal;
 
-XXII. Administrar y promover la venta, fusión, extinción, transferencia, liquidación cesión o renta de los bienes de las entidades de la administración pública paraestatal en los términos que disponga la ley;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XXIII. Administrar y asegurar la conservación y mantenimiento de los bienes muebles del Poder Ejecutivo;
+XIV. Elaborar y someter a la aprobación del Gobernador del Estado los programas y presupuestos de inversión pública federal, estatal y municipal que se concerten;
 
-XXIV. Establecer en coordinación con la Secretaría de la Contraloría General las normas, lineamientos y controles para la entrega y recepción de las dependencias y entidades de la administración pública estatal, los cuales deberán considerar invariablemente el levantamiento de inventarios y la normatividad en materia de administración de recursos humanos y materiales;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XXV. Coordinar y supervisar en conjunto con la Secretaría General de Gobierno la emisión de publicaciones oficiales, excepto el Periódico Oficial;
+XV. Participar en coordinación con la Secretaría de Administración en la integración del anteproyecto general de criterios de política económica del Gobierno del Estado;
 
-XXVI. Organizar y atender todo asunto correspondiente a la prestación de servicios asistenciales, deportivos, culturales, socioeconómicos, vacacionales y educativos, para los servidores públicos de la administración Pública Estatal;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XXVII. Otorgar becas en los términos de las disposiciones legales aplicables;
+XVI. Evaluar el avance, así como el comportamiento global y sectorial del ejercicio del presupuesto, en congruencia con los programas de desarrollo;
 
-XXVIII. Elaborar con el concurso de las demás dependencias los manuales administrativos de las mismas;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XXIX. Ejercer la rectoría del estado en materia de planeación del desarrollo integral de la entidad, de conformidad con las leyes aplicables;
+XVII. Dar seguimiento y analizar los programas anuales de inversión y gasto público de las dependencias y organismos de la Administración Pública Estatal;
 
-XXX. Elaborar y proponer al Gobernador del Estado, los programas que requiera la entidad, con apego a las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XXXI. Conducir la instrumentación del sistema estatal de planeación democrática;
+XVIII. Orientar a las dependencias y entidades de la Administración Pública Estatal para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidos en el Plan Estatal de Desarrollo;
 
-XXXII. Proponer las normas y lineamientos metodológicos del Sistema Estatal de Planeación, Programación y Presupuestación, así como los mecanismos para su seguimiento y evaluación;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XXXIII. Formular, coordinar y supervisar el Plan Estatal de Desarrollo, los programas sectoriales y regionales, así como los especiales que determine el Gobernador del Estado;
+XIX. Asesorar y apoyar técnicamente a los Ayuntamientos en la elaboración de sus planes y programas de desarrollo, así como en la aplicación, ejecución y evaluación de obras, servicios y recursos federales;
 
-XXXIV. Concertar en el seno del Comité de Planeación para el Desarrollo del estado de Nayarit, la participación de los sectores público, privado y social en la planeación del desarrollo integral de la entidad;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XXXV. Coordinar los programas de desarrollo del Gobierno del Estado con los de la Administración Pública Federal y la de los Ayuntamientos de la entidad;
+XX. Participar en coordinación con la Secretaría de Administración en la elaboración y actualización de los programas estatales de gasto e inversión pública;
 
-XXXVI. Participar, con las dependencias correspondientes, en la formulación de los planes y programas de desarrollo urbano y rural, y de protección ambiental;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XXXVII. Establecer, operar y vigilar el Sistema Estatal de Estadística e Información Geográfica y Cartográfica del estado;
+XXI. Instrumentar y ejecutar programas de capacitación para los servidores públicos del Estado y municipios en lo relativo a la planeación, programación y presupuestación, y
 
-XXXVIII. Diseñar las bases metodológicas y los mecanismos de participación de las dependencias y organismos, para elaborar, ejecutar y evaluar el Plan de Desarrollo del Estado de Nayarit;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XXXIX. Registrar el avance en la ejecución de los programas y el ejercicio del presupuesto, de conformidad con la normatividad establecida y, en su caso, proponer las medidas necesarias para mantener la congruencia con los programas de desarrollo del estado;
-
-XL. Aplicar procedimientos para fortalecer la capacidad de los Ayuntamientos en la ejecución de obras y servicios, y la transferencia de recursos federales a los mismos;
-
-XLI. Integrar los documentos e información para la planeación del desarrollo del estado y promover o elaborar los estudios para definir y apoyar los criterios, métodos, técnicas y las bases de la planeación estatal;
-
-XLII. Elaborar y someter a la aprobación del Gobernador del Estado, los programas y presupuestos de inversión pública federal, estatal y municipal que se concerten;
-
-XLIII. Participar en coordinación con la Secretaría de Hacienda en la integración del anteproyecto general de criterios de política económica del Gobierno del Estado;
-
-XLIV. Evaluar el avance, así como el comportamiento global y sectorial del ejercicio del presupuesto, en congruencia con los programas de desarrollo;
-
-XLV. Dar seguimiento y analizar los programas anuales de inversión y gasto público de las dependencias y organismos de la Administración Pública Estatal;
-
-XLVI. Orientar a las dependencias y entidades del Poder Ejecutivo, para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidos en el Plan Estatal de Desarrollo;
-
-XLVII. Asesorar y apoyar técnicamente a los ayuntamientos en la elaboración de sus planes y programas de desarrollo, así como la aplicación, ejecución y evaluación de obras, servicios y recursos federales;
-
-XLVIII. Instrumentar y llevar a cabo programas de capacitación para los servidores públicos del estado y municipios en lo relativo a la planeación, programación y presupuestación; y
-
-XLIX. Ejecutar la política financiera de la Administración Pública Estatal;
-
-L. Coordinar la planeación y aplicación de la política del gasto público del Gobierno del Estado;
-
-LI. Implementar el sistema de contabilidad gubernamental de la Administración Pública Estatal;
-
-LII. Formar parte de los órganos de dirección y de gobierno de las entidades de la Administración Pública Paraestatal;
-
-LIII. Formular y presentar al Gobernador, en coordinación con la Secretaría de Hacienda el proyecto del Presupuesto de Egresos y el programa general del gasto público;
-
-LIV. Autorizar, vigilar y evaluar, de conformidad con las leyes respectivas el ejercicio del gasto público y del presupuesto de egresos del Estado;
-
-LV. Hacer glosa preventiva de los egresos del Gobierno del Estado;
-
-LVI. Elaborar conjuntamente con la Secretaría de la Contraloría General la normatividad requerida para regular el ejercicio de los egresos del estado y la implementación de los procedimientos de modernización, reestructuración o simplificación administrativa, así como lo referente al control en materia de programación y presupuestación, de recursos financieros;
-
-LVII. Solventar por acuerdo del Gobernador del estado, conjuntamente con la Secretaría de la Contraloría General y demás Secretarías según corresponda, las observaciones que determine el Congreso del Estado a través del Órgano de Fiscalización Superior del Estado;
-
-LVIII. Proponer las modificaciones al presupuesto de egresos, así como las normas y criterios con los cuales podrán realizar transferencias dentro del presupuesto de las dependencias y entidades;
-
-LIX. Elaborar y presentar al Gobernador del Estado, la cuenta pública de conformidad con los plazos establecidos en la Ley;
-
-LX. Formular mensualmente los estados financieros de la hacienda pública, presentando anualmente al Ejecutivo, un informe pormenorizado del ejercicio fiscal anterior;
-
-LXI. Emitir el clasificador por objeto del gasto presupuestal para la aplicación y control del gasto público en las dependencias y entidades de la Administración Pública;
-
-LXII. Efectuar los pagos de acuerdo a los programas y presupuestos aprobados, con cargo a las partidas correspondientes;
-
-LXIII. Normar y vigilar que los empleados que manejan recursos financieros destinados a egresos del estado, otorguen fianza suficiente y competente para garantizar su manejo;
-
-LXIV. Proporcionar asesoría en materia de interpretación y aplicación de las leyes presupuestales de su competencia que le sea solicitada por las dependencias y entidades de la Administración pública; y (sic)
-
-LXV. Regularizar la situación jurídica de los bienes propiedad del gobierno del estado;
-
-LXVI. Administrar y promover la venta, fusión, extinción, transferencia, liquidación, cesión o renta de bienes inmuebles de las entidades de la administración pública paraestatal en los términos que disponga la ley;
-
-LXVII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
+XXII. Las demás que le atribuyan las leyes, reglamentos y convenios, y las que le confiera el Gobernador del Estado.
 
 ###### Artículo 35.
 
@@ -805,9 +783,17 @@ XL. Coordinar el funcionamiento del Comité de Obra Pública Estatal, en los té
 
 XLI. Otorgar las autorizaciones que por ley le correspondan, así como declarar administrativamente su caducidad, nulidad, rescisión o revocación;
 
-XLII. Contratar y en su caso concesionar los servicios que las diversas leyes le atribuyan; y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XLIII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
+XLII. Contratar y en su caso concesionar los servicios que las diversas leyes le atribuyan;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XLIII. Recibir, conservar y en su caso hacer efectivas las garantías que las personas físicas o morales otorguen bajo cualquier título a favor de la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XLIV. Las demás que le atribuyan las leyes, reglamentos y convenios, y las que le confiera el Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -909,7 +895,9 @@ XLV. Elaborar conjuntamente con la Secretaría de Obras Públicas, el plan anual
 
 XLVI. Planear y supervisar el uso de inmuebles e instalaciones destinados a la educación básica, cultura, recreación y deporte;
 
-XLVII. Presentar a las Secretarías de Finanzas, a la de Obras Públicas y a la de Planeación, la relación de equipamientos, enseres y utensilios requeridos por las instituciones públicas de educación básica;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XLVII. Presentar a las Secretarías de Obras Públicas, de Administración y de Planeación, Programación y Presupuesto, la relación de equipamientos, enseres y utensilios requeridos por las instituciones públicas de educación básica;
 
 XLVIII. Coadyuvar en la organización, control y mantenimiento de los museos, bibliotecas, casas de cultura y zonas arqueológicas del estado;
 
@@ -1029,7 +1017,9 @@ XL. En el ámbito de su competencia elaborar conjuntamente con la Secretaría de
 
 XLI. Planear y supervisar el uso de inmuebles e instalaciones destinados a la educación;
 
-XLII. En el ámbito de su competencia presentar a las Secretarías de Finanzas, a la de Obras Públicas y a la de Planeación, la relación de equipamientos, enseres y utensilios requeridos por las instituciones educativas;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XLII. Presentar a las Secretarías de Obras Públicas, de Administración y de Planeación, Programación y Presupuesto, la relación de equipamientos, enseres y utensilios requeridos por las instituciones públicas de educación que sean de su competencia;
 
 XLIII. Coadyuvar en la organización, control y mantenimiento de los museos, bibliotecas, casas de cultura y zonas arqueológicas del estado;
 
@@ -1061,13 +1051,17 @@ III. Vigilar que se cumplan las normas relativas a la planeación, presupuestaci
 
 IV. Aportar elementos de juicio para el control y seguimiento de los objetivos y prioridades del Plan Estatal de Desarrollo y los programas correspondientes;
 
-V. Expedir las normas, políticas y procedimientos generales que en materia de control, evaluación y desarrollo administrativo, que deberán observar las dependencias y entidades de la Administración Pública Estatal en el desarrollo y cumplimiento de sus atribuciones en coordinación con la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+V. Expedir las normas, políticas y procedimientos generales que en materia de control, evaluación y desarrollo administrativo deberán observar las dependencias y entidades de la Administración Pública Estatal en el desarrollo y cumplimiento de sus atribuciones en coordinación con las Secretarías de Hacienda, de Administración y de Planeación, Programación y Presupuesto;
 
 VI. Solicitar a las dependencias o entidades de la Administración Pública Estatal, la instrumentación de normas, políticas y procedimientos que aseguren el control y eficiencia de las actividades encomendadas;
 
 VII. Organizar, coordinar y promover el desarrollo administrativo integral de la Administración Pública Estatal, a fin de que los recursos humanos, patrimoniales y los procedimientos técnicos de las mismas, sean aprovechados y aplicados con criterios de eficiencia, austeridad y racionalidad, buscando en todo momento la eficacia, descentralización, desconcentración y simplificación administrativa. Para ello podrá realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias, y dictar las disposiciones administrativas que sean necesarias al efecto, tanto para las dependencias como para las entidades de la Administración Pública Estatal;
 
-VIII. Implementar los procedimientos de modernización, reestructuración o simplificación administrativa en coordinación con la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VIII. Implementar los procedimientos de modernización, reestructuración o simplificación administrativa en coordinación con la Secretaría de Administración;
 
 IX. Efectuar la vigilancia de las subvenciones otorgadas, cuidando su correcta aplicación para alcanzar los fines que originaron su otorgamiento;
 
@@ -1093,11 +1087,15 @@ XIX. Designar y en su caso solicitar la remoción de los comisarios y titulares 
 
 XX. Comprobar el cumplimiento por parte de las dependencias y entidades de la Administración Pública Estatal; de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de propiedad o al cuidado del gobierno Estatal;
 
-XXI. Solventar conjuntamente con la Secretaría de Finanzas las observaciones que determine el Congreso Local, a través del Órgano de Fiscalización Superior del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XXI. Solventar por acuerdo del Gobernador, conjuntamente con la Secretaría de Administración, las observaciones que determine el Congreso local a través del Órgano de Fiscalización Superior;
 
 XXII. Vigilar, en la esfera de su competencia, el cumplimiento de las obligaciones de proveedores y contratistas adquiridas con la Administración Pública Estatal, solicitándoles la información relacionada con las operaciones que realicen y fincar las acciones resarcitorias y responsabilidades que en su caso procedan;
 
-XXIII. Establecer en coordinación con la Secretaría de Finanzas las normas, lineamientos y controles para la entrega y recepción de las dependencias y entidades de la Administración Pública Estatal, los cuales deberán considerar invariablemente el levantamiento de inventarios;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XXIII. Establecer en coordinación con la Secretaría de Administración las normas, lineamientos y controles para la entrega y recepción de las dependencias y entidades de la Administración Pública Estatal, los cuales deberán considerar invariablemente el levantamiento de inventarios;
 
 XXIV. Intervenir para efectos de verificación e investigación de posibles omisiones y comisión de infracciones en los actos de entrega-recepción de las unidades administrativas que anualmente determine en las dependencias y entidades de la Administración Pública Estatal;
 
@@ -1117,7 +1115,9 @@ XXXI. Establecer las normas y lineamientos respecto a los procedimientos que las
 
 XXXII. Coadyuvar en la realización y actualización del inventario de los bienes muebles e inmuebles propiedad del Gobierno del Estado;
 
-XXXIII. Elaborar conjuntamente con la Secretaría de Finanzas, la normatividad requerida para regular el ejercicio de los ingresos y egresos del estado, así como lo referente a la contabilidad y control en materia de programación, presupuestación, administración de recursos humanos, materiales financieros, contratación de deuda, manejo de fondos y custodia de documentos que constituyen valores, acciones y derechos que formen parte del patrimonio de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XXXIII. Elaborar conjuntamente con la Secretarías de Hacienda y de Administración la normatividad requerida para regular el ejercicio de los ingresos y egresos del Estado, así como lo referente a la contabilidad y control en materia de programación, presupuestación y administración de recursos humanos, materiales y financieros, contratación de deuda, manejo de fondos y custodia de documentos que constituyen valores, acciones y derechos que formen parte del patrimonio de la Administración Pública Estatal;
 
 XXXIV. Coordinarse con el Órgano de Fiscalización Superior del Estado, para el establecimiento de los procedimientos necesarios que permitan a ambas instancias el cumplimiento de sus respectivas responsabilidades;
 
@@ -1199,9 +1199,7 @@ V. Generar y difundir en el estado una cultura empresarial, basada en parámetro
 
 VI. Fomentar, en participación con la Secretaría del Trabajo, el incremento de la productividad y calidad en el trabajo entre los Sectores de la Producción; y en coordinación con ésta y con la Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica, promover el desarrollo de la capacitación y el adiestramiento para el trabajo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-VII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
+VII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008) (REPUBLICADA, P.O. 23 DE JUNIO DE 2010)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1209,7 +1207,9 @@ VII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
 VIII. Diseñar y proponer, con la participación de la Secretaría del Trabajo, las alianzas estratégicas para la generación de empleo y productividad, promoviendo la coordinación de las instituciones, científicas, tecnológicas, educativas, de la iniciativa privada, de los sectores oficiales, sociales, asociaciones y sociedad civil organizada y demás relacionadas;
 
-IX. Participar en coordinación con la Secretaría de Finanzas en la integración del proyecto general de criterios de política económica del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+IX. Participar en coordinación con la Secretaría de Administración en la integración del proyecto general de criterios de política económica del Gobierno del Estado;
 
 X. Fomentar, supervisar y coadyuvar a la promoción de la alimentación y el abasto popular;
 
@@ -1275,7 +1275,9 @@ XI. Estimular la participación de los sectores social y privado con capitales n
 
 XII. Fomentar el incremento de la productividad en el trabajo dentro del sector turístico;
 
-XIII. Promover el desarrollo de la capacitación y el adiestramiento para el trabajo en el sector turístico en coordinación con las Secretarías de Educación pública y Desarrollo Económico;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XIII. Promover el desarrollo de la capacitación y el adiestramiento para el trabajo en el sector turístico en coordinación con las Secretarías del Trabajo y de Educación Media Superior, Superior e Investigación Científica y Tecnológica;
 
 XIV. Formular, evaluar y promover los programas de promoción y divulgación turística del estado y sus municipios;
 
@@ -1617,7 +1619,9 @@ II. Proyectar y coordinar, con la participación que corresponda a los gobiernos
 
 III. Coordinar las acciones que incidan en el combate a la pobreza fomentando un mejor nivel de vida de la gente, propiciando la celebración de convenios con los gobiernos federal, municipales y los sectores social y privado;
 
-IV. Elaborar los programas regionales y especiales que le señale el Ejecutivo, tomando en cuenta las propuestas que para el efecto realicen las dependencias y entidades de la Administración Pública y los gobiernos municipales, así como autorizar las acciones e inversiones autorizadas en el Presupuesto de Egresos en coordinación con la Secretaría de Planeación, Programación y Presupuesto;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+IV. Elaborar los programas regionales y especiales que le señale el Titular del Poder Ejecutivo tomando en cuenta las propuestas que para el efecto realicen las dependencias y entidades de la Administración Pública Estatal y los gobiernos municipales, así como autorizar las acciones e inversiones establecidas en el Presupuesto de Egresos en coordinación con la Secretaría de Planeación, Programación y Presupuesto;
 
 V. Coordinar, concretar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los pobladores de las zonas indígenas, de las áreas rurales, así como de los colonos de las áreas urbanas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de la Administración Pública estatal correspondientes y de los gobiernos municipales y, con la participación de los sectores social y privado;
 
@@ -1641,6 +1645,104 @@ XIV. Asegurar la adecuada distribución, comercialización y abastecimiento de l
 
 XV. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+###### Artículo 41 Quater.
+
+A la Secretaría de Administración le corresponden las siguientes atribuciones:
+
+I. Ejecutar la política administrativa y financiera de la Administración Pública Estatal;
+
+II. Elaborar planes y programas que se requieran para eficientar la administración de los recursos humanos y materiales del Poder Ejecutivo;
+
+III. Planear, programar, presupuestar, adquirir y suministrar los bienes y servicios que requiera el funcionamiento de las dependencias, de acuerdo a los recursos asignados en el presupuesto correspondiente;
+
+IV. Normar y regular la prestación de servicios administrativos que requieran las dependencias;
+
+V. Proveer oportunamente a las dependencias de la Administración Pública Centralizada los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones;
+
+VI. Celebrar contratos respecto de los bienes propiedad del Gobierno del Estado e informar a la Secretaría de Hacienda para efecto de control del patrimonio de todos los bienes inmuebles que se requieran;
+
+VII. Ejercer las facultades de control, administración; cobro y demás establecidas en los ordenamientos aplicables, con relación a los seguros que contrate respecto a los bienes del Poder Ejecutivo y lo que conforme a la ley deba otorgar el mismo;
+
+VIII. Vigilar que las personas físicas y morales que celebren contratos con el Poder Ejecutivo garanticen debidamente el cumplimento de las obligaciones a su cargo;
+
+IX. Representar legalmente al Poder Ejecutivo en lo relativo a las relaciones laborales;
+
+X. Vigilar el cumplimiento de las disposiciones legales que rijan las relaciones entre la Administración Pública Centralizada y sus servidores públicos;
+
+XI. Dictar y aplicar la normatividad referente a la selección, capacitación, contratación y control de los servidores públicos que laboren en la Administración Pública Estatal, así como suscribir contratos para la prestación de servicios profesionales;
+
+XII. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los servidores públicos de la Administración Pública Estatal de conformidad con las disposiciones legales aplicables;
+
+XIII. Atender las relaciones .sindicales de la Administración Pública Centralizada;
+
+XIV. Elaborar y mantener actualizado el escalafón de los servidores públicos de base de las dependencias de la Administración Pública Estatal, así como su respectivo expediente;
+
+XV. Recibir, conservar y en su caso, hacer efectivas las garantías que las personas físicas y morales otorguen bajo cualquier titulo a favor del Poder Ejecutivo, salvo que dicha atribución sea competencia exclusiva de otra dependencia;
+
+XVI. Suscribir en términos de la legislación aplicable las garantías que deba otorgar el Poder Ejecutivo;
+
+XVII. Llevar el registro, control y actualización de los inventarios de bienes propiedad o al cuidado del Poder Ejecutivo;
+
+XVIII. Administrar y vigilar los almacenes del Gobierno del Estado;
+
+XIX. Coordinar el funcionamiento del Comité de Adquisiciones de la Administración Pública Estatal en los términos de la ley reglamentaria;
+
+XX. Implementar y controlar el padrón de proveedores de las dependencias del Poder Ejecutivo;
+
+XXI. Autorizar la transferencia, uso, disposición de baja y destino final de los bienes muebles propiedad de la Administración Pública Estatal;
+
+XXII. Administrar y promover la venta, fusión, extinción. transferencia, liquidación cesión o renta de los bienes de las entidades de la Administración Pública Paraestatal en los términos que disponga la ley, e informar a la Secretaría de Hacienda para efectos de control del patrimonio de todos los bienes inmuebles;
+
+XXIII. Administrar y asegurar la conservación y mantenimiento de los bienes muebles del Poder Ejecutivo;
+
+XXIV. Establecer en coordinación con la Secretaria de la Contraloría General las normas, lineamientos y controles para la entrega y recepción de las dependencias y entidades de la Administración Pública Estatal, los cuales deberán considerar invariablemente el levantamiento de inventarios; así como la normatividad en materia de administración de recursos humanos y materiales;
+
+XXV. Coordinar y supervisar en conjunto con la Secretaría General de Gobierno la emisión de publicaciones oficiales;
+
+XXVI. Organizar y atender todo asunto correspondiente a la prestaci6n de servicios asistenciales, deportivos, culturales, socioeconómicos, vacacionales y educativos para los servidores públicos de la Administración Pública Estatal;
+
+XXVII. Otorgar becas en los términos de las disposiciones legales aplicables;
+
+XXVIII. Coordinar la planeación y aplicación de la política del gasto público del Poder Ejecutivo;
+
+XXIX. Implementar y aplicar el sistema de contabilidad gubernamental de la Administración Pública Estatal;
+
+XXX. Formar parte de los órganos de dirección y de gobierno de las entidades de la Administración Pública Paraestatal en la esfera de su competencia;
+
+XXXI. Formular y presentar al Titular del Poder Ejecutivo el proyecto del Presupuesto de Egresos y el programa general del gasto público;
+
+XXXII. Autorizar, vigilar y evaluar, de conformidad con las leyes respectivas, el ejercicio del gasto público y del Presupuesto de Egresos del Estado;
+
+XXXIII. Hacer glosa preventiva de los egresos del Gobierno del Estado;
+
+XXXIV. Elaborar conjuntamente con la Secretaría de la Contraloría General la normatividad requerida para regular el ejercicio de los egresos del Estado y la implementación de los procedimientos de modernización, reestructuración o simplificación administrativa, así como lo referente al control en materia de programación y presupuestación de recursos financieros;
+
+XXXV. Coordinar y solventar por acuerdo del Gobernador, conjuntamente con la Secretaría de la Contraloría General y demás Secretarías según corresponda, las observaciones que determine el Congreso local a través del Órgano de Fiscalización Superior;
+
+XXXVI. Proponer las modificaciones al Presupuesto de Egresos, así como las normas y criterios con los cuales podrán realizarse transferencias dentro del presupuesto de las dependencias y entidades de la Administración Pública Estatal;
+
+XXXVII. Elaborar y presentar al Gobernador del Estado la cuenta pública de conformidad con los plazos establecidos en la ley respectiva;
+
+XXXVIII. Formular mensualmente los estados financieros de la hacienda pública, presentando anualmente al Titular del Poder Ejecutivo, un informe pormenorizado del ejercicio fiscal anterior;
+
+XXXIX. Emitir el clasificador por objeto del gasto presupuestal para la aplicación y control del gasto público en las dependencias y entidades de la Administración Pública Estatal;
+
+XL. Coordinar y supervisar la gestión presupuestaria del sector central y paraestatal, su evaluación y relaciones con el sistema integrado de contabilidad;
+
+XLI. Efectuar los pagos de acuerdo a los programas y presupuestos aprobados, con cargo a las partidas correspondientes;
+
+XLII. Normar y vigilar que los empleados que manejan recursos financieros destinados a egresos del Estado otorguen fianza suficiente y competente para garantizar su manejo;
+
+XLIII. Proporcionar asesoría en materia de interpretación y aplicación de las leyes presupuestales de su competencia que le sea solicitada por las dependencias y entidades de la Administración Pública Estatal;
+
+XLIV. Administrar y promover la venta, fusión, extinción, transferencia, liquidación, cesión o renta de bienes inmuebles de las entidades de la Administración Pública Paraestatal en los términos que disponga la ley;
+
+XLV. Validar los convenios, contratos, concesiones y todo tipo de obligaciones que comprometan recursos de ejercicios presupuestales futuros del erario estatal, mediante la firma del Secretario de Administración, sin cuyo requisito se considerarán nulos, y
+
+XLVI. Las demás que le atribuyan las leyes, reglamentos y convenios, y las que le confiera el Gobernador del Estado.
+
 ## TÍTULO TERCERO. De la Administración Pública Paraestatal
 
 ### CAPÍTULO PRIMERO (SIC). De las Entidades
@@ -1661,9 +1763,11 @@ La intervención a que se refiere el artículo anterior, se realizará a través
 
 Corresponde a los coordinadores de sector, coordinar la programación y presupuestación, conocer la operación, evaluar los resultados y ser el presidente en los órganos de gobierno de los organismos agrupados en el sector a su cargo, conforme a la legislación vigente.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 45.
 
-Las relaciones entre las dependencias y las entidades de la Administración Pública Estatal, para fines de congruencia global de la Administración con el Sistema Estatal de Planeación y con los lineamientos generales en materia de gasto, financiamiento, desarrollo administrativo, evaluación y control, se llevarán a cabo en la forma y términos que dispongan las leyes y demás ordenamientos, por conducto de las Secretarías de Finanzas, Planeación y Contraloría General, en el ámbito de su respectiva competencia, sin perjuicio de las atribuciones que competan a las coordinadoras de sector.
+Las relaciones entre las dependencias y las entidades de la Administración Pública Estatal, para fines de congruencia global de la administración con el Sistema Estatal de Planeación y con los lineamientos generales en materia de gasto, financiamiento, desarrollo administrativo, evaluación y control, se llevarán a cabo en la forma y términos que dispongan las leyes y demás ordenamientos, por conducto de las Secretarías de Administración, de Hacienda, de la Contraloría General y de Planeación, Programación, y Presupuesto en el ámbito de sus respectivas competencias, sin perjuicio de las atribuciones que competan a las coordinadoras de sector.
 
 ###### Artículo 46.
 
@@ -1745,11 +1849,11 @@ Las empresas a que se refiere este artículo se regirán por las normas de derec
 
 DE LOS FIDEICOMISOS PÚBLICOS PARAESTATALES.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 59.
 
-Los fideicomisos Públicos Paraestatales son aquellos por medio de los cuales, el Poder Ejecutivo del Estado, a través de sus dependencias o entidades y en su carácter de fideicomitente, transmite la titularidad de bienes del dominio público o privado del estado o afecta fondos públicos en una institución fiduciaria, para realizar un fin licito de interés público, con el propósito de auxiliarse en el cumplimiento de sus atribuciones legales para impulsar las áreas prioritarias para el desarrollo de la Entidad. En los Fideicomisos Públicos paraestatales constituidos por el Gobierno del Estado, la Secretaría de Finanzas fungirá como fideicomitente único de la Administración Pública Centralizada.
+Los Fideicomisos Públicos Paraestatales son aquellos por medio de los cuales, el Poder Ejecutivo, a través de sus dependencias o entidades, en su carácter de fideicomitente, transmite la titularidad de bienes del dominio público o privado del Estado o afecta fondos públicos en una institución fiduciaria, para realizar un fin lícito de interés público, con el propósito de auxiliarse en el cumplimiento de sus atribuciones legales para impulsar las áreas prioritarias para el desarrollo de la entidad. En los Fideicomisos Públicos Paraestatales constituidos por el Gobierno del Estado, la Secretaría de Hacienda fungirá como fideicomitente único de la Administración Pública Centralizada.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
@@ -1763,11 +1867,11 @@ Los Fideicomisos Públicos Paraestatales contarán con una estructura orgánica 
 
 No tendrán carácter de fideicomisos Públicos Paraestatales, aquellos que se constituyan con la aportación por una sola vez del Gobierno del Estado o que reciban donaciones del mismo y que éste no intervenga en las funciones del Comité Técnico, salvo en la vigilancia de la correcta aplicación de los recursos y el cumplimiento de los fines del fideicomiso a través de la Secretaría de la Contraloría General; ni los Fideicomisos de Financiamiento a que se refiere la Ley de Deuda Pública del Estado de Nayarit. En este ultimo caso, los fideicomisos que se constituyan podrán o no tener comité técnico y se regirán en su totalidad por las disposiciones establecidas en el contrato que les de origen y por las disposiciones mercantiles y/o civiles aplicables.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 62.
 
-Los Fideicomisos Públicos Paraestatales serán dirigidos por comités técnicos, los cuales se integrarán con los titulares de las dependencias o entidades públicas que determine el titular de la dependencia coordinadora de sector debiendo invariablemente formar parte de ellos, un representante de la Secretaría de Finanzas y uno de la Secretaría de la Contraloría General.
+Los Fideicomisos Públicos Paraestatales serán dirigidos por comités técnicos, los cuales se integrarán con los titulares de las dependencias o entidades públicas que determine el titular de la dependencia coordinadora de sector, debiendo invariablemente formar parte de ellos un representante de la Secretaría de Hacienda y uno de la Secretaría de la Contraloría General.
 
 ###### Artículo 63.
 
@@ -1791,9 +1895,11 @@ Estos organismos interinstitucionales podrán crearse por ley o por decreto o ac
 
 Del desarrollo, control y evaluación.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 67.
 
-Las entidades, para su desarrollo y operación, deberán sujetarse a la Ley de la Administración Pública Paraestatal del Estado, a la Ley de Planeación del Estado de Nayarit, a las demás leyes y reglamentos aplicables, al Plan Estatal de Desarrollo, a los programas sectoriales y regionales que deriven del mismo, a las directrices que en materia de programación y evaluación fijen las dependencias competentes, a los lineamientos generales que en materia de gasto y financiamiento establezcan las Secretarías de Finanzas y de la Contraloría General, así como a las políticas que defina el coordinador de sector.
+Las entidades, para su desarrollo y operación, deberán sujetarse a la Ley de la Administración Pública Paraestatal, a la Ley de Planeación, a las demás leyes y reglamentos aplicables, al Plan Estatal de Desarrollo, a los programas sectoriales y regionales que deriven del mismo, a las directrices que en materia de programación y evaluación fijen las dependencias competentes, a los lineamientos generales que en materia de gasto y financiamiento establezcan las Secretarías de Administración, de Hacienda y de la Contraloría General, así como a las políticas que defina el coordinador de sector.
 
 ###### Artículo 68.
 
@@ -1841,9 +1947,11 @@ VI (sic). Coordinar el sistema único de información geográfica y estadística
 
 V. Los demás que le señalen las leyes, decretos y reglamentos.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 73.
 
-La Comisión Intersecretarial de Gasto y Financiamiento, es un organismo integrado por los titulares de las Secretarías de Finanzas, quien fungirá como su presidente, de la Secretaría de la Contraloría General, quien fungirá como Secretario Técnico y por los Secretarios de Planeación, Obras Públicas y Desarrollo Económico así como por los demás servidores públicos que determine el Gobernador del Estado.
+La Comisión Intersecretarial de Gasto y Financiamiento es un organismo integrado por los titulares de las Secretarías de Administración, quien fungirá como su Presidente, la Secretaría de la Contraloría General, quien fungirá como Secretario Técnico, la Secretaría de Hacienda y la Secretaría de Planeación Programación y Presupuesto, así como por los demás servidores públicos que determine el Gobernador del Estado.
 
 ###### Artículo 74.
 
@@ -1857,7 +1965,9 @@ III. Examinar la situación financiera de las entidades de la Administración P�
 
 IV. Proponer un calendario de ingresos y gastos para prever las necesidades de financiamiento el cual, con la oportunidad requerida, permita contar con los recursos suficientes para lograr el debido cumplimiento de las obligaciones del estado, cuidando que armonice el ejercicio del presupuesto de egresos con los recursos provenientes de la ley de ingresos y del financiamiento del sector público estatal;
 
-V. Promover mecanismos de comunicación permanente entre la Secretaría de Finanzas y la Secretaría de la Contraloría General, que permitan conocer con oportunidad y confiabilidad el ejercicio del gasto público y su financiamiento;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+V. Promover mecanismos de comunicación permanente entre las Secretarías de Administración, de Hacienda y de la Contraloría General, que permitan conocer con oportunidad y confiabilidad el ejercicio del gasto público y su financiamiento;
 
 VI. Efectuar acciones administrativas de reforma institucional que tengan como propósito poner en operación las disposiciones de esta Ley;
 
@@ -2030,3 +2140,9 @@ Artículo Cuarto.- En la transferencia de los recursos humanos se deberán respe
 Artículo Quinto.- Dentro del plazo cuatro meses contados a partir de la entrada en vigor del presente decreto, se deberán realizar los cambios conducentes al Presupuesto de Egresos, de conformidad al Programa de Transferencia de Recursos a que se refiere el artículo anterior.
 
 Artículo Sexto.- Los asuntos que con motivo de esta reforma deban pasar a la competencia de las Secretarías que se crean con este decreto, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los realicen se incorporen a cada una de las secretarías, cuando su materia así lo permita.
+
+P.O. 23 DE JUNIO DE 2010.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Los asuntos que con motivo de esta reforma deban pasar a la competencia de la Secretaría de Administración que se crea con este Decreto, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los realicen se incorporen a ésta, siempre y cuando su materia así lo permita.
