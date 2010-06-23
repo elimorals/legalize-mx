@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2007-11-26"
+last_updated: "2010-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -425,57 +425,63 @@ VI. Aplicar las disposiciones jurídicas relativas a la prevención y control de
 
 VII. Crear y administrar, cuando así se determine en las disposiciones correspondientes, parques urbanos, zonas de preservación ecológica en los centros de población, jardines públicos y demás áreas análogas previstas por esta Ley;
 
-VIII Aplicar los ordenamientos relativos a la prevención y control de la contaminación por ruido, vibraciones, energía térmica y lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, provenientes de fuentes fijas que funcionen como establecimientos comerciales o de servicios, las provenientes del resultado de la quema a cielo abierto de cualquier tipo de residuos de su competencia, así como la vigilancia del cumplimiento de los ordenamientos que, en su caso, resulten aplicables a las fuentes móviles excepto las que sean consideradas de jurisdicción Federal o Estatal;
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-IX. Promover el aprovechamiento sustentable, la conservación, ahorro, reciclaje y reuso de las aguas que se destinen para la prestación de los servicios públicos a su cargo, así como promover la captación y uso eficiente del agua de lluvia, conforme a lo dispuesto en la Ley de Aguas Nacionales;
+VIII. Incentivar la instalación de áreas verdes en azoteas de edificaciones, en congruencia con los planes y programas de desarrollo urbano, de medio ambiente, las disposiciones de la presente Ley y demás que resulten aplicables.
 
-X. Formular, autorizar y expedir el programa de ordenamiento ecológico local, así como el control y la vigilancia del uso y cambio de uso del suelo, establecidos en dicho programa, en coordinación con el Estado, en términos de lo dispuesto en esta Ley y en otras disposiciones jurídicas aplicables;
+IX. Aplicar los ordenamientos relativos a la prevención y control de la contaminación por ruido, vibraciones, energía térmica y lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, provenientes de fuentes fijas que funcionen como establecimientos comerciales o de servicios, las provenientes del resultado de la quema a cielo abierto de cualquier tipo de residuos de su competencia, así como la vigilancia del cumplimiento de los ordenamientos que, en su caso, resulten aplicables a las fuentes móviles excepto las que sean consideradas de jurisdicción Federal o Estatal;
 
-XI. Establecer y ejecutar en forma continua y permanente campañas o programas de educación ambiental y difusión de cultura ecológica, en el ámbito de su competencia;
+X. Promover el aprovechamiento sustentable, la conservación, ahorro, reciclaje y reuso de las aguas que se destinen para la prestación de los servicios públicos a su cargo, así como promover la captación y uso eficiente del agua de lluvia, conforme a lo dispuesto en la Ley de Aguas Nacionales;
 
-XII. Preservar y restaurar el equilibrio ecológico y proteger al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte locales, y demás servicios públicos a su cargo, siempre y cuando no se trate de atribuciones otorgadas al Estado por la presente Ley;
+XI. Formular, autorizar y expedir el programa de ordenamiento ecológico local, así como el control y la vigilancia del uso y cambio de uso del suelo, establecidos en dicho programa, en coordinación con el Estado, en términos de lo dispuesto en esta Ley y en otras disposiciones jurídicas aplicables;
 
-XIII. Sancionar, en el ámbito de su competencia, la realización de actividades ruidosas, así como las emisiones provenientes de aparatos de sonido, en establecimientos públicos o privados, o en unidades móviles, que rebasen los límites máximos permitidos por las Normas Oficiales Mexicanas y Normas Ambientales Estatales;
+> <small>(F. DE E., P.O. 25 DE JUNIO DE 2010)</small>
 
-XIV. Registrar la emisión de ruidos y vibraciones en áreas habitacionales y en las zonas colindantes a guarderías, escuelas, asilos y lugares de descanso, hospitales y demás establecimientos dedicados al tratamiento de la salud;
+XII. Establecer y ejecutar en forma continua y permanente campañas o programas de educación ambiental y difusión de cultura ecológica, en el ámbito de su competencia;
 
-XV. Participar en coordinación con el Estado en la atención de los asuntos que afecten el equilibrio ecológico de dos o más Municipios y que generen efectos ambientales en su circunscripción territorial;
+XIII. Preservar y restaurar el equilibrio ecológico y proteger al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte locales, y demás servicios públicos a su cargo, siempre y cuando no se trate de atribuciones otorgadas al Estado por la presente Ley;
 
-XVI. Participar en la prevención y control de emergencias y contingencias ambientales que pudieren presentarse en su circunscripción territorial, atendiendo a las políticas y programas de protección civil que al efecto se establezcan por las autoridades competentes;
+XIV. Sancionar, en el ámbito de su competencia, la realización de actividades ruidosas, así como las emisiones provenientes de aparatos de sonido, en establecimientos públicos o privados, o en unidades móviles, que rebasen los límites máximos permitidos por las Normas Oficiales Mexicanas y Normas Ambientales Estatales;
 
-XVII. Vigilar en la esfera de su competencia el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en las materias y supuestos a que se refieren las fracciones de este artículo;
+XV. Registrar la emisión de ruidos y vibraciones en áreas habitacionales y en las zonas colindantes a guarderías, escuelas, asilos y lugares de descanso, hospitales y demás establecimientos dedicados al tratamiento de la salud;
 
-XVIII. Formular y conducir la política municipal de información y difusión en materia ambiental;
+XVI. Participar en coordinación con el Estado en la atención de los asuntos que afecten el equilibrio ecológico de dos o más Municipios y que generen efectos ambientales en su circunscripción territorial;
 
-XIX. Formular, aprobar, ejecutar y evaluar el Programa Municipal del Medio Ambiente y Recursos Naturales, en congruencia con el Programa Sectorial de Medio Ambiente y Recursos Naturales de Nuevo León;
+XVII. Participar en la prevención y control de emergencias y contingencias ambientales que pudieren presentarse en su circunscripción territorial, atendiendo a las políticas y programas de protección civil que al efecto se establezcan por las autoridades competentes;
 
-XX. Celebrar acuerdos o convenios de coordinación en materia ambiental con otros Municipios o con el Estado;
+XVIII. Vigilar en la esfera de su competencia el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en las materias y supuestos a que se refieren las fracciones de este artículo;
 
-XXI. Concertar con los sectores social y privado la realización de acciones en las materias de su competencia;
+XIX. Formular y conducir la política municipal de información y difusión en materia ambiental;
 
-XXII. Vigilar el cumplimiento de las condiciones establecidas en las resolutivas en materia de impacto y riesgo ambiental en las obras y actividades que se realicen en el ámbito de su circunscripción territorial;
+> <small>(F. DE E., P.O. 25 DE JUNIO DE 2010)</small>
 
-XXIII. Establecer y aplicar las medidas correctivas y de urgente aplicación, e imponer las sanciones correspondientes por infracciones a la presente Ley, su Reglamento y demás disposiciones en el ámbito de sus respectivas competencias;
+XX. Formular, aprobar, ejecutar y evaluar el Programa Municipal del Medio Ambiente y Recursos Naturales, en congruencia con el Programa Sectorial de Medio Ambiente y Recursos Naturales de Nuevo León;
 
-XXIV. Expedir las autorizaciones, permisos, concesiones y demás trámites que en esta Ley se establecen como de su competencia;
+XXI. Celebrar acuerdos o convenios de coordinación en materia ambiental con otros Municipios o con el Estado;
 
-XXV. Elaborar los informes periódicos sobre la situación ambiental y de los recursos naturales en el respectivo Municipio;
+XXII. Concertar con los sectores social y privado la realización de acciones en las materias de su competencia;
 
-XXVI. Tramitar y resolver los recursos administrativos, en la esfera de su competencia;
+XXIII. Vigilar el cumplimiento de las condiciones establecidas en las resolutivas en materia de impacto y riesgo ambiental en las obras y actividades que se realicen en el ámbito de su circunscripción territorial;
 
-XXVII. Atender y resolver las denuncias populares, presentadas conforme a lo dispuesto por la presente Ley, en los asuntos de su competencia, así como canalizar oportunamente a la autoridad correspondiente, aquéllas que no entren en la esfera de su competencia;
+XXIV. Establecer y aplicar las medidas correctivas y de urgente aplicación, e imponer las sanciones correspondientes por infracciones a la presente Ley, su Reglamento y demás disposiciones en el ámbito de sus respectivas competencias;
 
-XXVIII. Llevar a cabo el manejo, tratamiento y disposición final de los residuos sólidos urbanos;
+XXV. Expedir las autorizaciones, permisos, concesiones y demás trámites que en esta Ley se establecen como de su competencia;
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
+XXVI. Elaborar los informes periódicos sobre la situación ambiental y de los recursos naturales en el respectivo Municipio;
 
-XXIX. Expedir los Bandos de Policía y Buen Gobierno, sus Reglamentos, y disposiciones administrativas para coadyuvar con el cumplimiento de la presente Ley;
+XXVII. Tramitar y resolver los recursos administrativos, en la esfera de su competencia;
 
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2007)</small>
+> <small>(F. DE E., P.O. 25 DE JUNIO DE 2010)</small>
 
-XXX. Promover el aprovechamiento sostenible, la conservación, ahorro, reciclaje y reuso de los materiales utilizados por los servidores públicos en las diversas dependencias municipales, así como llevar a cabo la planeación y ejecución de acciones que fomenten en los servidores públicos municipales, la educación ambiental y el fortalecimiento de una cultura ecológica; y
+XXVIII. Atender y resolver las denuncias populares, presentadas conforme a lo dispuesto por la presente Ley, en los asuntos de su competencia, así como canalizar oportunamente a la autoridad correspondiente, aquéllas que no entren en la esfera de su competencia;
 
-XXXI. Las demás atribuciones que les otorgue la presente Ley u otros ordenamientos aplicables a la materia.
+XXIX. Llevar a cabo el manejo, tratamiento y disposición final de los residuos sólidos urbanos;
+
+XXX. Expedir los Bandos de Policía y Buen Gobierno, sus Reglamentos, y disposiciones administrativas para coadyuvar con el cumplimiento de la presente Ley;
+
+XXXI. Promover el aprovechamiento sostenible, la conservación, ahorro, reciclaje y reuso de los materiales utilizados por los servidores públicos en las diversas dependencias municipales así como llevar a cabo la planeación y ejecución de acciones que fomenten en los servidores públicos municipales, la educación ambiental y el fortalecimiento de una cultura ecológica; y
+
+XXXII. Las demás atribuciones que les otorgue la presente Ley u otros ordenamientos aplicables a la materia.
 
 #### SECCIÓN I. COORDINACIÓN DE AUTORIDADES
 
@@ -2964,3 +2970,9 @@ P.O. 26 DE NOVIEMBRE DE 2007.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Artículo Segundo.- Todos los actos, procedimientos y recursos administrativos relacionados con la materia de la presente reforma que se hubieren iniciado previamente a la entrada en vigor de ésta, se tramitarán y resolverán conforme a los mismos.
+
+P.O. 23 DE JUNIO DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- En un término que no exceda de sesenta días a partir de la entrada en vigor del presente Decreto, el Titular del Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las adecuaciones a las disposiciones reglamentarias vinculados con la presente reforma.
