@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-instituto-de-capacitacion-para-el-trabajo-del-22258"
 country: "mx"
 rank: "ley"
 publication_date: "1992-07-08"
-last_updated: "1992-07-08"
+last_updated: "2010-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el martes 8 de julio de 1992.
 
@@ -77,9 +77,11 @@ LEY DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE MORELOS.
 
 DEL OBJETO DEL INSTITUTO.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 1.
 
-Se crea "El Instituto de Capacitación para el trabajo del Estado de Morelos", como organismo público descentralizado, con personalidad jurídica y patrimonio propios y con domicilio en la Ciudad de Cuernavaca, Morelos.
+Se crea "El Instituto de Capacitación para el Trabajo del Estado de Morelos", como organismo público descentralizado del Poder Ejecutivo del Gobierno del Estado, con personalidad jurídica y patrimonio propios, y con domicilio en la ciudad de Cuernavaca, Morelos, sectorizado a la Secretaría del Trabajo y Productividad.
 
 ###### ARTICULO 2.
 
@@ -97,11 +99,15 @@ Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribucio
 
 I.- Impartir capacitación en las áreas industrial y de servicios, a través de sus planteles;
 
-II.- Formular los planes y programas de estudio que imparta, así como las modalidades educativas, que garanticen la estructuración de aprendizajes que sean acordes con los requerimientos de la industria y los servicios, a fin de presentarlos a la consideración de la Junta Directiva;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+II.- Formular y operar los planes y programas de estudio que imparta, así como las modalidades educativas, que garanticen la estructuración de aprendizajes que sean acordes con los requerimientos de la industria y los servicios, a fin de presentarlos a la consideración de la Junta Directiva;
 
 III.- Proporcionar a los alumnos los medios de apoyo para el aprendizaje, tales como materiales audiovisuales, servicio de biblioteca, prácticas de laboratorio, prácticas de taller, sesiones de grupo, conferencias, mesas redondas, prácticas educativas en las empresas industriales de servicios y los demás que se deriven de los métodos modernos de enseñanza-aprendizaje;
 
-IV.- Observar las disposiciones académicas correspondientes a la capacitación formal para el trabajo que imparte la Secretaría de Educación Pública, por conducto de la Sub-Secretaría de Educación e Investigación Tecnológica;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+IV.- Observar las disposiciones académicas correspondientes a la capacitación formal para el trabajo que imparte la Secretaría de Educación Pública, por conducto de la Subsecretaría de Educación Media Superior;
 
 V.- Acreditar y certificar el saber demostrado, independientemente de la forma en que se haya adquirido, conforme a la normatividad vigente emitida por la Secretaría de Educación Pública a través de la Dirección General de Centros de Capacitación;
 
@@ -119,15 +125,19 @@ Habrá un estatuto general del Instituto y reglamentos derivados del mismo, que 
 
 DE LA ORGANIZACION.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 5.
 
-Las autoridades y órganos de apoyo del Instituto de Capacitación para el Trabajo del Estado de Morelos serán:
+Las autoridades y órganos que integran el Instituto serán:
 
 I.- La Junta Directiva;
 
 II.- El Director General;
 
-III.- Los Jefes de Área;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+III.- Los Directores de Área;
 
 IV.- Los Directores de Plantel;
 
@@ -135,17 +145,43 @@ V.- El Comité Técnico consultivo de Vinculación; y
 
 VI.- El Patronato.
 
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+El Instituto contará con un órgano de vigilancia, que se integrará por un Comisario Público propietario y un suplente, designados por la Secretaría de la Contraloría del Poder Ejecutivo del Gobierno del Estado.
+
 ###### ARTICULO 6.
 
 La Junta Directiva será la máxima autoridad del Instituto y estará conformada por:
 
-I.- Dos representantes del Gobierno del Estado que serán designados por el Gobernador Constitucional de la Entidad, uno de los cuales la presidirá;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+I.- La persona titular de la Dependencia coordinadora de sector, quien la presidirá;
 
 II.- Dos representantes del Gobierno Federal que serán designados por el Secretario de Educación Pública;
 
-III.- Un representante del sector social que será nombrado por el Gobierno del Estado; y
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-IV.- Dos representantes del sector productivo que participen en el financiamiento del Instituto mediante un patronato constituido para apoyar la operación del mismo. Estos representantes serán designados por el propio patronato de conformidad con sus estatutos.
+III.- La persona titular de la Secretaría de Finanzas y Planeación;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+IV.- La persona titular de la Secretaría de Gestión e Innovación;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+V.- Un representante del sector social nombrado por el Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VI.- Dos representantes del sector productivo que participen en el financiamiento del Instituto mediante un patronato constituido para apoyar la operación del mismo. Estos representantes serán designados por el propio patronato de conformidad con sus estatutos; y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VII.- El Secretario Técnico de la Comisión de Trabajo, Previsión y Seguridad Social del Congreso del Estado de Morelos, quien contará con voz y voto en las sesiones de la Junta Directiva.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Con excepción del Presidente, cada integrante nombrará un suplente que asista a las sesiones de la Junta directiva en caso de ausencia.
 
 ###### ARTICULO 7.
 
@@ -159,41 +195,57 @@ III.- Expedir los reglamentos, estatutos, acuerdos y demás disposiciones de su 
 
 IV.- Aprobar los programas de trabajo, presupuesto, balances y demás actividades relacionadas con el objetivo del organismo;
 
-V.- Nombrar a los Jefes de Área y a los Directores de Plantel a propuesta del Director General;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-VI.- Promover la Constitución y operación del Comité Técnico Consultivo de Vinculación que apoyará los trabajos de la Junta Directiva;
+V.- Designar y cambiar a propuesta del Director General a los Directores de Área y de Plantel, así como concederles las licencias que procedan;
 
-VII.- Analizar y aprobar, en su caso, los programas de prácticas de formación y actualización de capacitandos e instructores, propuestos por el Comité Técnico Consultivo de Vinculación;
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-VIII.- Analizar y aprobar, en su caso, los informes que rinda el Director General semestralmente;
+VI.- Autorizar la creación de unidades administrativas necesarias para agilizar, controlar y evaluar las actividades del Instituto, en coordinación con las dependencias que corresponda y con apego a su presupuesto;
 
-IX.- Sancionar los actos del Director General en el desempeño de su cargo;
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-X.- Acordar anualmente los emolumentos que deberán recibir el Director General, los Jefes de Área, los Directores de Plantel y los empleados del organismo;
+VII.- Designar y cambiar a propuesta de su Presidente al Secretario Técnico de la Junta Directiva, el cual podrá ser miembro o no de la misma;
 
-XI.- Aceptar en su caso, las donaciones o legados y demás liberalidades que se otorguen en favor del Instituto;
+VIII.- Promover la Constitución y operación del Comité Técnico Consultivo de Vinculación que apoyará los trabajos de la Junta Directiva;
 
-XII.- Establecer los lineamientos y procedimientos a que deberá sujetarse el Instituto en la celebración de acuerdos, convenios y contratos con los sectores productivos de bienes y servicios: público, social y privado; y
+IX.- Analizar y aprobar, en su caso, los programas de prácticas de formación y actualización de capacitados e instructores, propuestos por el Comité Técnico Consultivo de Vinculación;
 
-XIII.- Resolver lo no previsto por esta Ley y que sea objeto de las funciones que realice el Instituto.
+X.- Analizar y aprobar, en su caso, los informes que rinda el Director General semestralmente;
+
+XI.- Sancionar los actos del Director General en el desempeño de su cargo;
+
+XII.- Acordar anualmente los emolumentos que deberán recibir el Director General, los Jefes de Área, los Directores de Plantel y los empleados del organismo;
+
+XIII.- Aceptar en su caso, las donaciones o legados y demás liberalidades que se otorguen en favor del Instituto;
+
+XIV.- Establecer los lineamientos y procedimientos a que deberá sujetarse el Instituto en la celebración de acuerdos, convenios y contratos con los sectores productivos de bienes y servicios: público, social y privado; y
+
+XV.- Resolver lo no previsto por esta Ley y que sea objeto de las funciones que realice el Instituto.
 
 ###### ARTICULO 8.
 
 Los miembros de la Junta Directiva serán designados y removidos por la autoridad competente, permaneciendo en el cargo hasta tres años.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 9.
 
-La Junta Directiva sesionará de manera ordinaria cada seis meses a convocatoria de su Presidente y podrá celebrar sesiones extraordinarias cuando así lo requieran el Presidente o tres de sus miembros. Las resoluciones se tomarán por mayoría de votos de los asistentes teniendo el Presidente voto de calidad en caso de empate.
+La Junta Directiva sesionará de manera ordinaria cada dos meses a convocatoria de su Presidente, y podrá celebrar sesiones extraordinarias cuando así lo requieran el Presidente o la mayoría de sus miembros. Tanto en las sesiones ordinarias como en las extraordinarias se tratarán el o los puntos específicos que se señalen en el respectivo orden del día. Habrá quórum cuando concurran a la sesión que corresponda el Presidente y la mayoría simple de quienes la integran, y para la validez de los acuerdos de la Junta Directiva, será necesario que la mayoría de los asistentes sean representantes de la Administración Pública Estatal. Las resoluciones se tomarán por mayoría de votos de los asistentes teniendo el Presidente voto de calidad en caso de empate.
 
-El Director General podrá asistir a las sesiones de la Junta Directiva y tendrá voz pero sin derecho a voto.
+A las sesiones de la Junta Directiva podrán asistir el Director General del Instituto y el Comisario, quienes solo tendrán derecho a voz.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 10.
 
 El Presidente de la Junta Directiva tendrá las siguientes funciones:
 
-I.- Presidir personalmente o a través de la persona que al efecto designe, las sesiones extraordinarias; y
+I.- Convocar a los miembros de la Junta Directiva a las sesiones ordinarias y extraordinarias;
 
-II.- Convocar al Consejo a sesiones extraordinarias.
+II.- Presidir las sesiones ordinarias y extraordinarias, y
+
+III.- Las demás que se requieran para el funcionamiento legal de su cargo.
 
 ###### ARTICULO 11.
 
@@ -211,89 +263,141 @@ I.- Ser de nacionalidad mexicana;
 
 II.- Ser mayor de 30 años y menor de 70;
 
-III.- Poseer como mínimo, Título de Técnico Profesional y/o tener experiencia profesional acreditable en la industria y/o los servicios; y
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-IV.- Ser persona de amplia solvencia moral y de reconocido prestigio profesional.
+III.- No haber sido condenado por delito intencional que merezca pena corporal;
+
+IV.- Poseer como mínimo, Título de Técnico Profesional y/o tener experiencia profesional acreditable en la industria y/o los servicios; y
+
+V.- Ser persona de amplia solvencia moral y de reconocido prestigio profesional.
 
 ###### ARTICULO 14.
 
 El Director General tendrá las siguientes facultades y obligaciones:
 
-I.- Administrar y representar legalmente al Instituto, con todas las facultades generales y las especiales que requieran cláusula, conforme a la Ley, sin limitación alguna, en los términos del artículo 2762 del Código Civil del Estado de Morelos; del uso de estas facultades dará inmediata cuenta la Junta Directiva;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-II.- Elaborar, presentar y ejecutar el programa de actividades del organismo;
+I.- Administrar y representar legalmente al Instituto, con todas las facultades generales y las especiales que requieran cláusula, conforme a la Ley, sin limitación alguna, en los términos del artículo 2008 del Código Civil del Estado de Morelos. El ejercicio de las facultades señaladas en esta fracción será bajo la responsabilidad del Director General; la facultad para realizar actos de dominio sólo podrá ejercerla por acuerdo expreso de la Junta Directiva;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+II.- Elaborar y presentar ante la Junta Directiva para su aprobación el programa de actividades del organismo, ejecutarlo y vigilar su cumplimiento;
 
 III.- Conducir el funcionamiento del Instituto, vigilando el cumplimiento de los planes y programas de estudio y los objetivos y metas propuestas;
 
 IV.- Vigilar el cumplimiento de las disposiciones que norman la estructura y funcionamiento del Instituto y ejecutar los acuerdos que dicte la Junta Directiva;
 
-V.- Proponer a la Junta Directiva los nombramientos de los Jefes de Área y Directores de Plantel;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-VI.- Someter a la aprobación de la Junta Directiva los proyectos de Reglamento y condiciones generales de trabajo, así como expedir los manuales necesarios para su correcto funcionamiento;
+V.- Proponer a la Junta Directiva los nombramientos de los Directores de Área y Directores de Plantel, así como las licencias que procedan;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VI.- Someter a la aprobación de la Junta Directiva los proyectos de Reglamento y condiciones generales de trabajo, estatuto, manuales y demás ordenamientos jurídicos para su correcto funcionamiento;
 
 VII.- Presentar semestralmente a la Junta Directiva el informe del desempeño de las actividades del Instituto, incluidos el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes;
 
-VIII.- Nombrar al personal de apoyo técnico y administrativo que se requiera para el adecuado funcionamiento del Instituto;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-IX.- Asistir a las reuniones de la Junta con derecho a voz pero sin voto; y
+VIII.- Nombrar y remover al personal de apoyo técnico y administrativo que se requiera para el adecuado funcionamiento del Instituto;
 
-X.- Las demás que fije la Junta Directiva dentro de su ámbito de competencia.
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+IX.- Aplicar las medidas adecuadas a efecto de que las funciones del Instituto, se realicen de manera organizada, congruente, eficaz y eficiente;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+X.- Certificar los documentos emanados del Instituto;
+
+XI.- Asistir a las reuniones de la Junta con derecho a voz pero sin voto; y
+
+XII.- Las demás que fije la Junta Directiva dentro de su ámbito de competencia.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 15.
 
-El Instituto contará con cuatro áreas específicas: Área de planeación, área técnica, área de vinculación y apoyo académico y área administrativa.
+El Instituto contará con cuatro áreas específicas: de Planeación, Técnica Académica, de Vinculación y Administrativa, las cuales estará a cargo de un Director.
 
-Cada una de estas áreas tendrá un responsable.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 16.
 
-Corresponde al Jefe del Área de planeación:
+Corresponde al Director del Área de Planeación:
 
 I.- Integrar el programa anual de actividades del Instituto y presentarlo a la consideración del Director General;
 
-II.- Evaluar las necesidades estatales de capacitación y establecer las prioridades para su atención;
+II.- Proponer al Director General programas de trabajo para el conocimiento de la demanda real de capacitación de los trabajadores y de la población en general;
 
-III.- Coordinar la asignación de recursos de acuerdo a los programas prioritarios del Instituto;
+III.- Proponer al Director General las especialidades a impartir por el Instituto;
 
-IV.- Proponer las especialidades a impartir, así como realizar los estudios de factibilidad para la creación de nuevos planteles dependientes del Instituto; y
+IV.- Integrar la estadística básica del Instituto, y
 
-V.- Integrar la estadística básica del Instituto.
+V.- Las funciones que se requieran dentro de su ámbito de competencia.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 17.
 
-Corresponde al Jefe del Área Técnica:
+Corresponde al Director del Área Técnica-Académica:
 
 I.- Realizar la investigación necesaria, con la colaboración de los Directores de plantel, para proponer al Director General los contenidos, planes y programas de estudio, métodos, medios, materiales didácticos y normas pedagógicas para la capacitación;
 
 II.- Supervisar y controlar la ejecución del calendario escolar y los planes y programas de estudio, vigilando su cumplimiento;
 
-III.- Coordinar los servicios de asesoría académica y técnico-pedagógica; y
+III.- Difundir entre los Directores de Plantel la normatividad técnico pedagógica que regula la evaluación de los aprendizajes;
 
-IV.- Coordinar la integración, organización y operación de las bibliotecas de los planteles del Instituto.
+IV.- Coordinar los servicios de asesoría académica y técnico pedagógica;
+
+V.- Difundir entre los Directores de Plantel las actividades de control escolar y de estadística en el Instituto, de acuerdo con la normatividad establecida por la Secretaría de Educación Pública y vigilar su cumplimiento;
+
+VI.- Promover el desarrollo de proyectos de investigación educativa e intercambio académico;
+
+VII.- Tramitar la certificación y acreditación de la capacitación formal que realicen los planteles del Instituto;
+
+VIII.- Promover la aplicación de un sistema de seguimiento de egresados, e informar periódicamente del mismo al Director General;
+
+IX.- Promover en los Planteles del Instituto la integración del Banco de Reactivos;
+
+X.- Promover entre los Directores de Plantel, la formación y actualización de los instructores que se harán cargo de capacitar para el trabajo, a las personas de los distintos sectores de la sociedad;
+
+XI.- Promover entre los Directores de Plantel el desarrollo de tecnología para la capacitación y adiestramiento, y promover su adecuada utilización;
+
+XII.- Tramitar la acreditación y certificación del saber demostrado ante la Secretaría de Educación Pública;
+
+XIII.- Coordinar la integración, organización y operación de las bibliotecas de los planteles del Instituto, y
+
+XIV.- Las demás funciones que se requieran dentro de su ámbito de competencia.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 18.
 
-Corresponde al Jefe del Área de vinculación y apoyo académico:
+Corresponde al Director del Área de Vinculación:
 
-I.- Proponer al Director General las normas y lineamientos que regulen las actividades de vinculación entre el Instituto y los sectores productivos de bienes y servicios: público, social y privado;
+I.- Proponer al Director General las normas y lineamientos que regulen las actividades de vinculación entre el Instituto y los sectores productivos de bienes y servicios, público, social y privado;
 
-II.- Llevar a cabo las actividades de control escolar en el Instituto de acuerdo con la normatividad establecida por la Secretaría de Educación Pública;
+II.- Desarrollar las actividades de vinculación con el sector productivo que requiera el sistema de capacitación para el trabajo, en coordinación con otras dependencias;
 
-III.- Tramitar la certificación y acreditación de la capacitación formal que realicen los planteles del Instituto;
+III.- Informar al Director General los alcances obtenidos por los Planteles en materia de vinculación con el sector productivo;
 
-IV.- Promover la aplicación de un sistema de seguimiento de egresados e informar periódicamente del mismo al Director General; y
+IV.- Promover la capacitación para el trabajo entre los grupos vulnerables, así como de aquellas personas recluidas en los centros de reinserción social, y
 
-V.- Tramitar la acreditación y certificación del saber demostrado ante la Secretaría de Educación Pública.
+V.- Realizar las demás funciones que se requieran dentro de su ámbito de competencia.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 19.
 
-Corresponde al Jefe del Área Administrativa:
+Corresponde al Director del Área Administrativa:
 
-I.- Planear, organizar, coordinar, evaluar y controlar la administración de los recursos humanos, financieros, materiales y los servicios generales que requiera el Instituto;
+I.- Administrar los recursos humanos, financieros, materiales y los servicios generales que requiera el Instituto de acuerdo a sus programas prioritarios;
 
-II.- Organizar y dirigir la operación de los procesos y administración y pago de las remuneraciones al personal dependiente del Instituto; y
+II.- Organizar y dirigir la operación de los procesos y administración, así como el pago de las remuneraciones al personal dependiente del Instituto, y de los instructores contratados por tiempo y obra determinada;
 
-III.- Establecer y mantener actualizados los sistemas de contabilidad y control presupuestario del Instituto, a fin de reportar semestralmente al Director General.
+III.- Establecer y mantener actualizados los sistemas de contabilidad y control presupuestario del Instituto, a fin de reportar mensualmente al Director General, y
+
+IV.- Realizar las demás funciones que se requieran dentro de su ámbito de competencia.
 
 ### CAPITULO III
 
@@ -303,7 +407,9 @@ DEL PATRIMONIO.
 
 El patrimonio del Instituto estará constituido por:
 
-I.- Las aportaciones, participaciones, subsidios y apoyos que le otorguen los Gobiernos Federal, Estatal y Municipal, así como de los sectores productivos de bienes y servicios privado y social;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+I.- Las aportaciones, participaciones, subsidios y apoyos que le otorguen los Gobiernos Federal, Estatal y Municipal, así como de los sectores productivos de bienes y servicios público, privado y social;
 
 II.- Los bienes muebles e inmuebles que adquiera por cualquier título legal, para el cumplimiento de su objeto; y
 
@@ -353,17 +459,23 @@ VIII.- Promover ante el sector productivo los apoyos necesarios para consolidar,
 
 IX.- Promover ante el sector productivo los apoyos necesarios para consolidar el equipamiento de los talleres y laboratorios del Instituto, así como el mantenimiento preventivo y correctivo de los mismos;
 
-X.- El Comité elaborará un programa anual de trabajo, mismo que presentará a la Junta Directiva; y
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-XI.- Realizar las demás funciones que las disposiciones legales le confieren.
+X.- Expedir su reglamento interior;
+
+XI.- El Comité elaborará un programa anual de trabajo, mismo que presentará a la Junta Directiva; y
+
+XII.- Realizar las demás funciones que las disposiciones legales le confieren.
 
 ### CAPITULO V
 
 DEL PATRONATO.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 25.
 
-El patronato del Instituto de Capacitación para el trabajo del Estado de Morelos tendrá como finalidad apoyar a la Institución en la obtención de recursos financieros adicionales para la óptima realización de sus funciones. Su organización y funcionamiento estarán regulados por el reglamento respectivo.
+El patronato del Instituto tendrá como finalidad apoyar a la institución en la obtención de recursos financieros adicionales para la óptima realización de sus funciones. Su Organización y funcionamiento estarán regulados por su reglamento interior.
 
 ###### ARTICULO 26.
 
@@ -373,7 +485,9 @@ I.- Coadyuvar con las instituciones de enseñanza, a fin de facilitar a los capa
 
 II.- Colaborar en la formación y actualización de recursos humanos que tengan por objetivo el mejoramiento de la productividad y calidad de la producción industrial y de los servicios;
 
-III.- Deberá nombrar a un superior, empleado de la propia empresa, quien vigilará y coordinará administrativa y técnicamente el desarrollo de los programas de prácticas de formación y actualización, acordados con el Instituto; y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+III.- Nombrar a un supervisor, empleado de la propia empresa, quien vigilará y coordinará administrativa y técnicamente el desarrollo de los programas de prácticas de formación y actualización, acordados con el Instituto, y
 
 IV.- El patronato deberá liberar de toda responsabilidad a las empresas miembros, por cualquier accidente que pudiera ocurrir al capacitando o al instructor en el desempeño de las prácticas de formación y actualización.
 
@@ -381,9 +495,11 @@ IV.- El patronato deberá liberar de toda responsabilidad a las empresas miembro
 
 DEL PERSONAL DEL INSTITUTO.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 27.
 
-Para el cumplimiento de su objeto, el Instituto contará con el siguiente personal:
+Para el cumplimiento de su objeto, además del personal que establezca su estatuto orgánico, el Instituto contará con el siguiente personal:
 
 I.- Instructores;
 
@@ -405,9 +521,11 @@ El nombramiento y permanencia del personal del Instituto se realizará a través
 
 Las relaciones entre el Instituto y su personal se regirán por la Ley del Servicio Civil del Estado de Morelos así como por las disposiciones que expida la Junta Directiva.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 30.
 
-Serán trabajadores de confianza del Instituto el Director General, los Jefes de Área, los Directores de Plantel y los que realicen actividades de asesoramiento, inspección, vigilancia o que manejen fondos y valores.
+Serán trabajadores de confianza del Instituto el Director General, los Directores de Área, los Directores de Plantel y los que realicen actividades de asesoría, inspección, vigilancia o que manejen fondos y valores.
 
 ### CAPITULO VII
 
@@ -458,3 +576,9 @@ EL SECRETARIO GENERAL DE GOBIERNO
 ALFREDO DE LA TORRE Y MARTINEZ
 
 Rúbricas
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE JUNIO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado Libre y Soberano de Morelos.
