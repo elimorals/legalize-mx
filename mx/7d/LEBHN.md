@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "2008-01-21"
+last_updated: "2010-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JUNIO DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -434,9 +434,11 @@ Los particulares podrán usar la Bandera Nacional en sus vehículos, exhibirla e
 
 Los ejemplares de la Bandera Nacional destinados al comercio, deberán satisfacer las características de diseño y proporcionalidad establecidas en el artículo 3o.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 34.
 
-La Banda Presidencial constituye una forma de presentación de la Bandera Nacional y es emblema del Poder Ejecutivo Federal, por lo que sólo podrá ser portada por el Presidente de la República, y tendrá los colores de la Bandera Nacional en franjas de igual anchura colocadas longitudinalmente, correspondiendo el color de (sic) verde a la franja superior. Llevará el Escudo Nacional sobre los tres colores, bordado en hilo dorado, a la altura del pecho del portador, y los extremos de la Banda rematarán con un fleco dorado.
+La banda presidencial constituye una forma de presentación de la Bandera Nacional y es emblema del Poder Ejecutivo Federal, por lo que sólo podrá ser portada por el Presidente de la República, y tendrá los colores de la Bandera Nacional en franjas de igual anchura colocadas longitudinalmente, correspondiendo el color rojo a la franja superior. Llevará el Escudo Nacional sobre los tres colores, bordado en hilo dorado, a la altura del pecho del portador, y los extremos de la banda rematarán con un fleco dorado.
 
 ###### Artículo 35.
 
@@ -755,3 +757,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 D.O.F. 21 DE ENERO DE 2008.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE JUNIO DE 2010.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
