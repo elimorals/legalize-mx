@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-procuraduria-general-de-justicia-del-64326"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-10-11"
-last_updated: "2008-10-11"
+last_updated: "2010-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64326&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 11 de octubre de 2008.
 
@@ -43,9 +43,11 @@ LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NAYARIT
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 1.
 
-La presente Ley tiene por objeto organizar la Procuraduría General de Justicia del Estado de Nayarit, para el despacho de los asuntos del Ministerio Público y de aquellos que en materia de seguridad pública establecen en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, este ordenamiento y las demás disposiciones aplicables.
+La presente Ley tiene por objeto organizar la Procuraduría General de Justicia del Estado de Nayarit, para el despacho de los asuntos del Ministerio Público que se establecen en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, este ordenamiento y las demás disposiciones aplicables.
 
 ###### Artículo 2.
 
@@ -105,7 +107,9 @@ d).- Oficiales Secretarios.
 
 II.- Órganos Auxiliares:
 
-a).- La Policía Estatal, y
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+a).- La Agencia Estatal de Investigación, y
 
 b).- Servicios Periciales y Criminalisticos.
 
@@ -125,11 +129,15 @@ Para el desarrollo de las funciones de la Institución del Ministerio Público d
 
 I.- Sistema de Especialización:
 
-La Procuraduría, contará con agencias especializadas en la investigación y persecución de ramas delictivas, atendiendo a las formas de manifestación de la delincuencia, así como a la naturaleza, complejidad, e incidencia de los delitos locales y sus conexos. Al frente de cada Agencia Especializada, habrá un agente del ministerio público, quien ejercerá el mando y autoridad jerárquica sobre el personal que esté adscrito a la agencia, y dirigirá las actuaciones que se encomienden a los elementos de la policía estatal. Las Agencias especializadas, actuarán en los municipios del Estado, que requieran la asistencia de la dependencia.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+La Procuraduría, contará con agencias especializadas en la investigación y persecución del delito, atendiendo a las formas de manifestación de la delincuencia, así como a la naturaleza, complejidad, e incidencia de los delitos locales y sus conexos. En cada una de ellas habrá un agente del ministerio público especializado, quien ejercerá el mando y autoridad jerárquica sobre el personal que esté adscrito a la agencia, y dirigirá las actuaciones que se encomienden a los elementos de la Agencia Estatal de Investigación. Las Agencias especializadas, actuarán en los municipios del Estado, que requieran la asistencia de la dependencia.
 
 II.- Sistema de Desconcentración:
 
-a).- Las Agencias regionales, serán órganos desconcentrados de la Procuraduría. Al frente de cada agencia habrá agentes del ministerio público regionales necesarios, quienes ejercerán el mando y autoridad jerárquica sobre el personal que esté adscrito a la agencia y ordenarán las actuaciones de los elementos de la policía estatal y peritos, que están a su mando;
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+a).- Las Agencias regionales, serán órganos desconcentrados de la Procuraduría. En cada una de ellas habrá agentes del ministerio público regionales necesarios, quienes ejercerán el mando y autoridad jerárquica sobre el personal que esté adscrito a la agencia y ordenarán las actuaciones de los elementos de la Agencia Estatal de Investigación y peritos, que están a su mando;
 
 b).- Las adscripciones de las Agencias Regionales, serán definidas atendiendo a la incidencia delictiva, densidad de población, las características geográficas del Estado y la correcta distribución de las cargas de trabajo;
 
@@ -163,9 +171,11 @@ Los Subprocuradores, Visitadores, Coordinadores, Directores, Subdirectores, Jefe
 
 ### Capítulo III. Atribuciones y Delegación de Facultades del Procurador General de Justicia
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 14.
 
-Adicionalmente a las señaladas en la Constitución Federal, la Constitución Local y la Ley Orgánica del Poder Ejecutivo, el Procurador, contará con las siguientes atribuciones:
+Adicionalmente a las señaladas en la Constitución Federal, la Constitución local y la Ley Orgánica del Poder Ejecutivo, el Procurador, contará con las siguientes atribuciones:
 
 I.- Velar por el respeto de los derechos humanos en la esfera de su competencia. En el ejercicio de esta atribución el Procurador deberá:
 
@@ -173,13 +183,19 @@ a).- Fomentar entre los servidores públicos de la dependencia, una cultura de r
 
 b).- Atender las visitas, propuestas de conciliación y recomendaciones de la Comisión Nacional de los Derechos Humanos, y de la Comisión de Defensa de los Derechos Humanos del Estado, conforme a las normas aplicables.
 
-II.- Participar en el Sistema Nacional de Seguridad Pública, de conformidad con la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública y demás disposiciones aplicables. En el ejercicio de esta atribución el Procurador deberá:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+
+II.- Participar en el Sistema Nacional de Seguridad Pública, de conformidad con la Ley General del Sistema Nacional de Seguridad Pública, y demás disposiciones aplicables. En el ejercicio de esta atribución el Procurador deberá:
 
 a).- En el ámbito de su competencia, promover, celebrar, ejecutar y dar seguimiento a los acuerdos que se adopten en el marco del Sistema Nacional de Seguridad Pública, de conformidad con la Ley de la materia;
 
-b).- Participar en las instancias y servicios a que se refiere la Ley General que establece las bases de Coordinación del Sistema Nacional de Seguridad Pública; y,
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
-c).- Participar en las acciones de suministro, intercambio y sistematización de información, en los términos previstos por la Ley General que establece las bases de Coordinación del Sistema Nacional de Seguridad Pública.
+b).- Contribuir con las instancias y servicios a que se refiere la Ley General del Sistema Nacional de Seguridad Pública, y
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+c).- Cooperar en las acciones de suministro, intercambio y sistematización de información, en los términos previstos por la Ley General del Sistema Nacional (sic) Seguridad Pública.
 
 III.- Participar en el sistema de planeación del Estado, en los términos que prevea la ley de la materia;
 
@@ -275,9 +291,43 @@ IV.- Velar por el cumplimiento de la ley y por el respeto de los Derechos Humano
 
 V.- Proteger los derechos e intereses de los menores, incapaces, personas con discapacidad, ausentes, de la tercera edad y de aquellos que por sus condiciones sociales y económicas se encuentren en una situación de desventaja y de vulnerabilidad frente a otros, en términos de lo que establezcan las leyes aplicables;
 
-VI.- Proporcionar atención a las víctimas o los ofendidos de algún delito y facilitar su coadyuvancia, y
+VI.- Proporcionar atención a las víctimas o los ofendidos de algún delito y facilitar su coadyuvancia, y (sic)
 
-VII.- Las demás que señalen otras disposiciones legales.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE JUNIO DE 2010)</small>
+
+VII.- Ejercer la conducción y mando de las policías en la función de la investigación de hechos delictuosos, e instruirles respecto de las acciones que deban llevarse a cabo en la averiguación del delito y de sus autores y partícipes, en términos de lo dispuesto en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VIII.- Establecer un registro con la identificación de las personas que intervengan en la cadena de custodia y de las autorizadas para reconocer y manejar los indicios, huellas o vestigios del hecho delictuoso, así como de los instrumentos, objetos o productos del delito;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+IX.- Verificar el estricto cumplimiento de los procedimientos para preservar los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito; asentar cualquier violación a las disposiciones para la recolección, el levantamiento, preservación y el traslado de los mismos, y dar vista a la autoridad competente para efecto de las responsabilidades a que hubiere lugar;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+X.- Practicar las diligencias de cateo en términos de las disposiciones legales aplicables, y de acuerdo con el mandamiento judicial correspondiente, para lo que podrá auxiliarse de la Agencia Estatal de Investigación;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XI.- Recabar, capturar, procesar, administrar y resguardar la información de los asuntos que conozca, utilizando dispositivos tecnológicos adecuados para alimentar las bases de datos correspondientes, de conformidad con lo dispuesto en las normas jurídicas aplicables y los acuerdos del Procurador General de Justicia, así como consultar, analizar y emplear la información contenida en dichas bases de datos;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XII.- Instaurar indicadores y procedimientos que sirvan para evaluar la actuación de la Procuraduría General de Justicia con la participación ciudadana en los términos del reglamento de ésta ley y de conformidad con las normas aplicables en materia del Sistema Nacional de Seguridad Pública, sin perjuicios de otros sistemas de evaluación que le sean aplicables;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XIII.- Establecer medios de información sistemática y directa, para informar a la sociedad de sus actividades. En todo caso se reservará la información cuya divulgación pueda poner en riesgo las averiguaciones que realice el Ministerio Público y mantendrá la confidencialidad de los datos personales, de conformidad con las normas aplicables;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XIV.- Ofrecer y entregar recompensas en numerario, en un sólo pago o en exhibiciones periódicas, a personas que aporten información útil relacionada con las investigaciones y averiguaciones que realice, así como aquellas que colaboren en la localización y detención de probables responsables de la comisión de delitos, en los términos y condiciones que mediante acuerdo determine el Procurador General de Justicia, y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XV.- Las confiere el presente ordenamiento y demás otras disposiciones legales. (sic)
 
 ###### Artículo 21.
 
@@ -349,13 +399,21 @@ El Ministerio Público, suplirá la ausencia o deficiencia de razonamientos y fu
 
 Son atribuciones del Ministerio Público en la consignación y durante el proceso, las siguientes:
 
-I.- Ejercer la acción penal ante el órgano jurisdiccional competente por los delitos del orden local cuando exista denuncia o querella, esté acreditado el cuerpo del delito de que se trate y la probable responsabilidad de quien o quienes en él hubieren intervenido, solicitando las órdenes de aprehensión o de comparecencia, en su caso;
+I.- Ejercer la acción penal ante el órgano jurisdiccional competente por los delitos del orden local cuando exista denuncia o querella, esté acreditado el cuerpo del delito de que se trate y la probable responsabilidad de quien o quienes en él hubieren intervenido, solicitando las órdenes de aprehensión o de comparecencia, en su caso.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Cuando se estime necesario atendiendo a las características del hecho imputado, a las circunstancias personales del inculpado, por razones de seguridad en las prisiones o por otras que impidan garantizar el desarrollo adecuado del proceso, la acción penal se ejercitará ante un Juez Penal distinto al del lugar de la comisión del delito;
 
 II.- Solicitar al órgano jurisdiccional las órdenes de cateo, de aseguramiento o embargo precautorio de bienes, exhortos o la constitución de garantías para los efectos de la reparación de los daños y perjuicios, salvo que el inculpado los hubiese garantizado previamente;
 
 III.- Poner a disposición de la autoridad judicial a las personas detenidas y aprehendidas dentro de los plazos establecidos por la ley;
 
-IV.- Aportar las pruebas y promover las diligencias conducentes para la debida comprobación de la existencia del delito, las circunstancias en que hubiese sido cometido y las peculiares del inculpado, de la responsabilidad penal, de la existencia de los daños y perjuicios así como para la fijación del monto de su reparación;
+IV.- Aportar las pruebas y promover las diligencias conducentes para la debida comprobación de la existencia del delito, las circunstancias en que hubiese sido cometido y las peculiares del inculpado, de la responsabilidad penal, de la existencia de los daños y perjuicios así como para la fijación del monto de su reparación.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Informar a la victima u ofendido que desee otorgar el perdón en los casos procedentes, el significado y trascendencia jurídica de dicho acto;
 
 V.- Formular las conclusiones en los términos señalados por la ley y solicitar la imposición de las penas y medidas de seguridad que correspondan y el pago de la reparación de los daños y perjuicios o, en su caso, plantear las causas de exclusión del delito o las que extinguen la acción penal;
 
@@ -371,7 +429,7 @@ La Procuraduría establecerá lineamientos de política criminal, con el objeto 
 
 I.- Recabar, sistematizar y analizar la información generada en materia de incidencia delictiva;
 
-II.- Investigar y determinar las causas que dan origen a los delitos, precisar los lugares de su comisión, desarrollar estadísticas criminales y conocer el impacto social del delito y su costo;
+II.- (DEROGADA, P.O. 23 DE JUNIO DE 2010)
 
 III.- Promover la formación profesional del personal de la Procuraduría, el mejoramiento de instrumentos administrativos y tecnológicos para la debida investigación de los delitos y la eficaz persecución de los probables responsables de algún delito;
 
@@ -387,19 +445,7 @@ VII.- Las demás que sean necesarias para el cumplimiento del objeto.
 
 ###### Artículo 26.
 
-Las atribuciones en materia de prevención del delito, tienen por objeto:
-
-I.- Mantener la tranquilidad y el orden público con absoluto respeto a los derechos humanos;
-
-II.- Proteger la integridad física y moral de las personas, así como sus bienes;
-
-III.- Fomentar la cultura preventiva de la ciudadanía, involucrar al sector público y promover la participación de los sectores, social y privado;
-
-IV.- Estudiar las conductas antisociales y los factores que las propician, y elaborar programas de prevención del delito, en el ámbito de su competencia;
-
-V.- Promover el intercambio con otras entidades federativas e instituciones nacionales e internacionales de carácter público o privado, para la cooperación y fortalecimiento de acciones en materia de prevención del delito; y
-
-VI.- Las demás que sean necesarias para el cumplimiento del objeto.
+(DEROGADO, P.O. 23 DE JUNIO DE 2010)
 
 ## Título Cuarto. De los Auxiliares del Ministerio Público
 
@@ -409,33 +455,41 @@ VI.- Las demás que sean necesarias para el cumplimiento del objeto.
 
 Son auxiliares del Ministerio Público:
 
-a).- La Policía Estatal;
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+a).- La Agencia Estatal de Investigación;
 
 b).- Los Servicios Periciales;
 
-c).- Las Policías Preventivas en los términos de la Ley de Seguridad Pública, y
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+c).- Las Policías Preventivas en los términos de la Ley del Sistema Estatal de Seguridad Pública, y
 
 d).- Los funcionarios de las entidades y dependencias de la Administración Pública Estatal y municipal, en términos de las disposiciones aplicables.
 
 El Ministerio Público ordenará la actividad de los auxiliares en lo que corresponda exclusivamente a las actuaciones que practiquen en auxilio de la institución.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 28.
 
-La Policía Estatal tiene las siguientes atribuciones:
+La Agencia Estatal de Investigación, tiene como atribución principal auxiliar al Ministerio Público cuando se requiera su colaboración para que la representación social ejerza sus facultades de investigación y persecución de los delitos, en términos de lo dispuesto por el artículo 21 de la Constitución Política Federal y demás ordenamientos aplicables.
 
-I.- Mantener el orden y la tranquilidad públicos en el Estado de Nayarit, sin perjuicio de las responsabilidades policiales de prevención en el ámbito municipal;
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
 
-II.- Investigar elementos generales criminógenos que permita llevar a cabo acciones preventivas, y
+Artículo 28 A.- Las relaciones jerárquicas en la Agencia Estatal de Investigación, su estructura normativa y operativa, su organización territorial, suplencias y las demás atribuciones de mando, dirección, disciplina y en general otros componentes de su régimen interno, serán determinados por los reglamentos que al efecto se emitan, los cuales deben ser acorde al Modelo Nacional, previsto en la Ley General del Sistema Nacional de Seguridad Pública, Ley del Sistema Estatal de Seguridad Pública, ésta Ley y su reglamento.
 
-III.- Auxiliar al Ministerio Público cuando se requiera su colaboración para que la representación social ejerza sus facultades de investigación y persecución de los delitos, en términos de lo dispuesto por el artículo 21 de la Constitución Federal y demás ordenamientos aplicables.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 29.
 
-Conforme a las instrucciones que dicte el Ministerio Público, la Policía Estatal desarrollará las diligencias que deban practicarse durante la averiguación previa y, exclusivamente para los fines de ésta, cumplirá las citaciones, notificaciones y presentaciones que se le ordenen y ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial, así como las órdenes de detención que, en los casos a que se refiere el artículo 16 de la Constitución Federal, dicte el propio Ministerio Público.
+Conforme a las instrucciones que dicte el Ministerio Público, la Agencia Estatal de Investigación desarrollará las diligencias que deban practicarse durante la averiguación previa; con el objeto de lograr los fines de ésta, cumplirá las citaciones, notificaciones y presentaciones que se le ordenen y adicionalmente, ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial, así como las órdenes de detención que, en los casos a que se refiere el artículo 16 de la Constitución Federal, dicte el propio Ministerio Público.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 30.
 
-En todo caso, la policía actuará con respeto a los derechos humanos que ampara el orden jurídico mexicano, los tratados internacionales en que los Estados Unidos Mexicanos sea parte, así como las normas que rijan esas actuaciones.
+Las actuaciones de la Agencia Estatal de Investigación estarán sujetas al pleno respeto de los derechos humanos que ampara el orden jurídico mexicano, los tratados internacionales en que los Estados Unidos Mexicanos sea parte, así como las normas que rijan sus acciones.
 
 ###### Artículo 31.
 
@@ -449,29 +503,105 @@ Los auxiliares del Ministerio Público notificarán de inmediato a éste, de tod
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 33.
 
-El Servicio de Carrera de Procuración de Justicia para los agentes del Ministerio Público, agentes de la Policía Estatal y Peritos Profesional y Técnico, se sujetará a las bases siguientes:
+El Servicio de Carrera de Procuración de Justicia para los agentes del Ministerio Público, elementos de la Agencia Estatal de Investigación y Peritos Profesional y Técnico, se sujetará enunciativamente a los requerimientos siguientes:
 
-I.-Se compondrá de las etapas de ingreso, desarrollo y terminación del servicio:
+I.- Se compondrá de las etapas de ingreso, desarrollo y terminación del servicio:
 
-a).- El ingreso comprenderá los requisitos y procedimientos de selección, formación, capacitación y adscripción inicial;
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
-b).- El desarrollo comprenderá los requisitos y procedimientos de actualización, especialización, estímulos y reconocimientos, cambios de adscripción, desarrollo humano, evaluaciones de control de confianza y del desempeño, ascensos y sanciones, y
+a).- El ingreso comprenderá los requisitos y procedimientos de selección, formación, capacitación, adscripción, certificación inicial y registro;
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+b).- El desarrollo comprenderá los requisitos y procedimientos de formación continua y especializada, de actualización, de evaluación para la permanencia así como del desempeño, de desarrollo y ascenso, de dotación de estímulos y reconocimientos, de reingreso y de certificación. De igual forma, deberá prever medidas disciplinarias y sanciones para los miembros del Servicio de Carrera, y
 
 c).- La terminación comprenderá las causas y procedimientos de separación del servicio, de conformidad con lo dispuesto en esta Ley y en las disposiciones reglamentarias de Servicio de Carrera de Procuración de Justicia.
 
-II.- Se organizará tomando en consideración lo dispuesto en la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública y demás disposiciones aplicables, así como en los conveníos de colaboración, acuerdos y resoluciones que en su caso se celebren con el Gobierno Federal, y demás autoridades competentes, de conformidad con los ordenamientos correspondientes;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+II.- Se organizará tomando en consideración lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública, y demás disposiciones aplicables, así como en los acuerdos, resoluciones y convenios de colaboración que en su caso realicen con el Gobierno Federal, y demás autoridades competentes, de conformidad con los ordenamientos correspondientes;
 
 III.- Tendrá carácter obligatorio y permanente y abarcará los programas, cursos, exámenes y concursos correspondientes a las diversas etapas de las ramas ministerial, policial y pericial, los cuales se realizarán por las unidades y órganos que determinen las disposiciones aplicables, sin perjuicio de que se establezcan mecanismos de coadyuvancia con instituciones públicas o privadas;
 
 IV.- Se regirá por los principios de legalidad, eficiencia, profesionalismo, honradez, lealtad e imparcialidad y de respeto a los derechos humanos. El contenido teórico y práctico de los programas de capacitación, actualización y especialización fomentará que los agentes del Ministerio Público y sus auxiliares ejerzan sus atribuciones con base en los referidos principios y promoverán el efectivo aprendizaje y el pleno desarrollo de los conocimientos y habilidades necesarios para el desempeño del servicio;
 
-V.- Contará con un sistema de rotación de agentes del Ministerio Público, de la Policía Estatal y de Peritos Profesionales y Técnicos, dentro de la Institución;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+V.- Contará con un sistema de rotación de agentes del Ministerio Público, de elementos de la Agencia Estatal de Investigación y de Peritos Profesionales y Técnicos, dentro de la institución;
 
 VI.- Determinará los perfiles, categorías y funciones de los Agentes del Ministerio Público, de la Policía Estatal y de Peritos Profesionales y Técnicos, y
 
-VII. Los ascensos a las categorías superiores del Ministerio Público, de la Policía Estatal y Perito, se realizarán por concurso de oposición, de conformidad con las disposiciones reglamentarias del Servicio de Carrera de Procuración de Justicia y los acuerdos del Consejo.
+VII.- Los ascensos a las categorías superiores del Ministerio Público, de la Policía Estatal y Perito, se realizarán por concurso de oposición, de conformidad con las disposiciones reglamentarias del Servicio de Carrera de Procuración de Justicia y los acuerdos del Consejo.
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VIII.- Comprenderá procedimientos disciplinarios, sustentados en principios de justicia y con pleno respeto a los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+IX.- Fomentará el desarrollo, ascenso y dotación de estímulos con base en el mérito y la eficiencia en el desempeño de sus funciones;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+X.- Buscará generar el sentido de pertenencia institucional;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XI.- Contendrá las normas para el registro y el reconocimiento de los certificados del personal, y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XII.- Incluirá las normas para el registro de las incidencias del personal.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 33 A.- Además de lo señalado en la presente Ley, para los integrantes de la Agencia Estatal de Investigación, el Servicio de Carrera comprende el grado policial, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, haya acumulado el integrante. Se regirá por las fracciones siguientes:
+
+I. La Agencia Estatal de investigación deberá consultar los antecedentes de cualquier aspirante en el Registro Nacional de Personal de Seguridad Pública antes de que se autorice su ingreso a la misma;
+
+II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el Centro Estatal de Control de Confianza y Evaluación del Desempeño previsto en la Ley del Sistema Estatal de Seguridad Pública, conforme al protocolo aprobado por el Centro Nacional de Certificación y Acreditación previsto en la Ley General del Sistema Nacional de Seguridad Pública;
+
+III. Ninguna persona podrá ingresar a la Agencia Estatal de Investigación si no ha sido debidamente certificada y registrada en el Registro Nacional de Personal de Seguridad Pública;
+
+IV. Sólo ingresarán y permanecerán en la Agencia Estatal de Investigación aquellos aspirantes e integrantes que cursen y aprueben los programas de formación, capacitación y profesionalización;
+
+V. La permanencia de los integrantes está condicionada al cumplimiento de los requisitos que determine la Ley y su Reglamento;
+
+VI. Los méritos de los integrantes serán evaluados por el Consejo Técnico de la Carrera Policial, encargado de determinar las promociones y verificar que se cumplan los requisitos de permanencia;
+
+VII. El reglamento establecerá los criterios para la promoción de los miembros de la Agencia Estatal de Investigación que deberán ser, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo;
+
+VIII. El reglamento establecerá un régimen de estímulos y previsión social que corresponda a las funciones de los integrantes;
+
+IX. Los integrantes podrán ser cambiados de adscripción, con base en las necesidades del servicio, sin que esa adscripción implique inamovilidad en la sede a la que fueron destinados;
+
+X. El cambio de un integrante de un área operativa a otra de distinta especialidad sólo podrá ser autorizado por el Consejo Técnico de la Carrera Policial, siendo primordial contar con la debida capacidad para la nueva encomienda;
+
+XI. Las sanciones de amonestación, suspensión o remoción que se apliquen a los integrantes, se determinarán mediante el procedimiento que señala ésta Ley y su reglamento. En el procedimiento de aplicación de sanciones se salvaguardará en todo tiempo la garantía de audiencia;
+
+XII. Los procedimientos para la selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia y promoción de integrantes serán establecidos en las disposiciones reglamentarias que al efecto se expidan, y
+
+XIII. El Consejo Técnico de la Carrera Policial aplicará los procedimientos relativos a cada una de las etapas de la Carrera Policial.
+
+La Carrera Policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección que el integrante llegue a desempeñar en la Agencia Estatal de Investigación. En ningún caso los derechos adquiridos en la Carrera Policial implicarán inamovilidad en cargo o sede alguna.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 33 B.- Además de lo previsto en la presente Ley, para los integrantes de la Agencia Estatal de Investigación el Servicio de Carrera de Procuración de Justicia, tendrá como objetivos:
+
+I.- Garantizar el desarrollo institucional y asegurar la estabilidad en el empleo, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para los integrantes;
+
+II.- Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las Instituciones;
+
+III.- Fomentar la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento de los integrantes;
+
+IV.- Instrumentar e impulsar la capacitación y profesionalización permanente de los integrantes para asegurar la lealtad institucional en la prestación de los servicios, y
+
+V.- Los demás que establezcan las disposiciones de la Ley General del Sistema Nacional de Seguridad Pública, Ley del Sistema Estatal de Seguridad Pública, ésta Ley y su reglamento.
 
 ### Capítulo II. Del Ingreso
 
@@ -487,49 +617,83 @@ III.- Tener por lo menos un año de experiencia profesional contados a partir de
 
 IV.- Tener acreditado el Servicio Militar Nacional, cuando se trate de aspirantes varones;
 
-V.- Aprobar el proceso de evaluación inicial de control de confianza;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+V.- Presentar y aprobar las evaluaciones de control de confianza previstas en las disposiciones aplicables;
 
 VI.- Cumplir satisfactoriamente los requisitos y procedimientos de ingreso a que se refiere esta ley y las disposiciones aplicables conforme a ésta;
 
 VII.- No estar sujeto a proceso penal;
 
-VIII.- No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-IX.- Ser de notoria buena conducta y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso o por delito culposo calificado como grave por ordenamiento legal;
+VIII.- No estar suspendido ni haber sido cesado, destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal, estatal o municipal, en los términos de las normas aplicables;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+IX.- Ser de notoria buena conducta y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso o por el delito culposo calificado como grave por ordenamiento legal, ni estar sujeto a proceso penal;
 
 X.- No hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares salvo por prescripción médica, ni padecer alcoholismo;
 
-XI.- Ser originario del Estado de Nayarit o tener una residencia efectiva en la entidad de cuando menos dos años, y
+XI.- Ser originario del Estado de Nayarit o tener una residencia efectiva en la entidad de cuando menos dos años, y (sic)
 
-XII.- Los demás requisitos que establezcan otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XII.- Aprobar el curso de ingreso, formación inicial o básica que establezcan las leyes de la materia que corresponda; y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XIII.- Los demás requisitos que establezca la Ley General del Sistema Nacional de Seguridad Pública, la ley del Sistema Estatal de Seguridad Pública y otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 35.
 
-Para ingresar como Agente de la Policía Estatal de carrera, se requiere:
+Para ingresar como elemento de carrera de la Agencia Estatal de Investigación, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos y que no adquiera otra nacionalidad;
 
-II.- Acreditar que se han concluido por lo menos los estudios correspondientes a la enseñanza preparatoria o equivalente;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+II.- Acreditar que ha concluido, al menos, los estudios siguientes:
+
+a).- En el caso de aspirantes a las áreas de investigación, enseñanza superior o equivalente;
 
 III.- Contar con la edad y el perfil físico, médico, ético y de personalidad que las disposiciones aplicables establezcan como necesarias para realizar actividades policiales;
 
 IV.- Tener acreditado el Servicio Militar Nacional, cuando se trate de aspirantes varones;
 
-V.- Aprobar el proceso de evaluación inicial de control de confianza;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+V.- Presentar y aprobar las evaluaciones de control de confianza previstas en las disposiciones aplicables;
 
 VI.- Cumplir satisfactoriamente los demás requisitos y procedimientos de ingreso a que se refiere esta ley y las disposiciones aplicables conforme a ésta;
 
 VII.- No estar sujeto a proceso penal;
 
-VIII.- No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-IX.- Ser de notoria buena conducta y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso o por delito culposo calificado como grave por ordenamiento legal;
+VIII.- No estar suspendido o inhabilitado ni haber sido destituido por resolución firme como servidor público, ni estar sujeto a procedimientos de responsabilidad administrativa, federal, estatal o municipal, en los términos de las normas aplicables;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+IX.- Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, o por delito culposo calificado como grave por ordenamiento legal, ni estar sujeto a proceso penal;
 
 X.- No hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares salvo por prescripción médica, ni padecer alcoholismo;
 
-XI.- Ser originario del Estado de Nayarit o tener una residencia efectiva en la entidad de cuando menos dos años; y
+XI.- Ser originario del Estado de Nayarit o tener una residencia efectiva en la entidad de cuando menos dos años; y (sic)
 
-XII.- Los demás requisitos que establezcan otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XII.- Aprobar el concurso de ingreso y los cursos de formación;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XIII.- Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes y otras que produzcan efectos similares, y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XIV.- Los demás que establezcan la Ley General del Sistema Nacional de Seguridad Pública, Ley del Sistema Estatal de Seguridad Pública, esta Ley y su reglamento.
 
 ###### Artículo 36.
 
@@ -541,13 +705,17 @@ II.- Tener título legalmente expedido y registrado por la autoridad competente 
 
 III.- Tener acreditado el Servicio Militar Nacional, cuando se trate de aspirantes varones;
 
-IV.- Aprobar el proceso de evaluación inicial de control de confianza;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+IV.- Presentar y aprobar las evaluaciones de control de confianza previstas en las disposiciones aplicables;
 
 V.- Cumplir satisfactoriamente los demás requisitos y procedimientos de ingreso a que se refiere esta ley y las disposiciones aplicables conforme a ésta;
 
 VI.- No estar sujeto a proceso penal;
 
-VII.- No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VII.- No estar suspendido o inhabilitado ni haber sido destituido por resolución firme como servidor público, ni estar sujeto a procedimientos de responsabilidad administrativa, federal, estatal o municipal, en los términos de las normas aplicables;
 
 VIII.- Ser de notoria buena conducta y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso o por delito culposo calificado como grave por ordenamiento legal;
 
@@ -555,19 +723,29 @@ IX.- No hacer uso de sustancias psicotrópicas, estupefacientes u otras que prod
 
 X.- Ser originaria del Estado de Nayarit o tener una residencia efectiva en la entidad de cuando menos dos años; y
 
-XI.- Los demás requisitos que establezcan otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XI.- Los demás que establezcan la Ley General del Sistema Nacional de Seguridad Publica, Ley del Sistema Estatal de Seguridad Pública, ésta Ley y su reglamento.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 37.
 
-Previo al ingreso como Agente del Ministerio Público, Policía Estatal o Perito, además de los requisitos señalados por los artículos anteriores, es obligatoria la consulta de la persona en los Registros del Sistema Nacional de Seguridad Pública.
+Previo al ingreso como Agente del Ministerio Publico, elemento de la Agencia Estatal de Investigación o Perito, además de los requisitos señalados por los artículos anteriores, es obligatoria la consulta de la persona en los Registros del Sistema Nacional de Seguridad Pública.
+
+Igualmente, deberá verificarse la autenticidad de los documentos presentados por los aspirantes.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 38.
 
-Para el ingreso a la categoría básica de Agente del Ministerio Público, de Agente de la Policía Estatal y de Perito Profesional y Técnico, se realizará concurso de ingreso por oposición interna o libre.
+Para el ingreso a la categoría básica de Agente del Ministerio Público, de elemento de la Agencia Estatal de Investigación y de Perito Profesional y Técnico, se realizará concurso de ingreso por oposición interna o convocatoria libre.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 39.
 
-Los Agentes del Ministerio Público, de la Policía Estatal y Peritos serán adscritos por el Procurador, a las diversas unidades administrativas de la Procuraduría, de conformidad con las disposiciones aplicables.
+Los Agentes del Ministerio Público, elementos de la Agencia Estatal de Investigación y Peritos serán adscritos por el Procurador, a las diversas unidades administrativas de la Procuraduría, de conformidad con las disposiciones aplicables.
 
 Igualmente, se les podrá encomendar el estudio, dictamen y actuaciones que en casos especiales se requieran de acuerdo con su categoría y especialidad.
 
@@ -589,25 +767,77 @@ III.- No ausentarse del servicio sin causa justificada;
 
 IV.- Participar en los procesos de ascenso que se convoquen conforme a las disposiciones aplicables;
 
-V.- Cumplir los requisitos de ingreso durante el servicio, salvo que se le instaure proceso penal, en cuyo caso se estará a lo dispuesto por el artículo 51 de esta ley; y
+V.- Cumplir los requisitos de ingreso durante el servicio, salvo que se le instaure proceso penal, en cuyo caso se estará a lo dispuesto por el artículo 51 de esta ley; y (sic)
 
-VI.- Los demás requisitos que establezcan las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VI.- Contar y mantener vigente la certificación y registro a que se refiere la Ley General del Sistema Nacional de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VII.- Cumplir con las órdenes de comisión, rotación y cambio de adscripción;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VIII.- No incurrir en actos u omisiones que causen la pérdida de confianza o afecten la prestación del servicio, y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+IX.- Cumplir con las obligaciones que les impongan la Ley General del Sistema Nacional de Seguridad Pública, Ley del Sistema Estatal de Seguridad Pública y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 42.
 
-Para permanecer como Agente de la Policía Estatal de carrera, se requiere:
+Para permanecer como elemento de carrera de la Agencia Estatal de Investigación se requiere:
 
 I.- Seguir los programas de actualización y profesionalización que establezcan las disposiciones aplicables;
 
 II.- Aprobar los procesos de evaluación de control de confianza y de evaluación del desempeño, permanentes, periódicos y obligatorios que establezcan el reglamento de esta ley y demás disposiciones aplicables;
 
-III.- No ausentarse del servicio sin causa justificada;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+III.- No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días discontinuos dentro de un término de treinta días;
 
 IV.- Participar en los procesos de ascenso que se convoquen conforme a las disposiciones aplicables;
 
-V.- Cumplir los requisitos de ingreso durante el servicio salvo que se le instaure proceso penal, en cuyo caso se estará a lo dispuesto por el artículo 51 de esta ley; y
+V.- Cumplir los requisitos de ingreso durante el servicio salvo que se le instaure proceso penal, en cuyo caso se estará a lo dispuesto por el artículo 51 de esta ley; y (sic)
 
-VI.- Los demás requisitos que establezcan las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VI.- Mantener actualizado su Certificado Único Policial;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VII.- Aprobar los cursos de formación, capacitación y profesionalización;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VIII.- Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+IX.- Someterse a exámenes para comprobar que no padece de alcoholismo o utiliza sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+X.- Abstenerse de incurrir en cualquier acto u omisión que afecte la prestación del servicio;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XI.- No incurrir en actos u omisiones que causen la pérdida de confianza;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XII.- Cumplir las órdenes de comisión, rotación y cambio de adscripción;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XIII.- No superar la edad máxima de retiro que establezcan las disposiciones aplicables, y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XIV.- Las demás que establezcan la Ley General del Sistema Nacional de Seguridad Pública, Ley del Sistema Estatal de Seguridad Pública, ésta Ley y su reglamento.
 
 ###### Artículo 43.
 
@@ -621,9 +851,27 @@ III.- No ausentarse del servicio sin causa justificada;
 
 IV.- Participar en los procesos de ascenso que se convoquen conforme a las disposiciones aplicables;
 
-V.- Cumplir los requisitos de ingreso durante el servicio salvo que se le instaure proceso penal, en cuyo caso se estará a lo dispuesto por el artículo 51 de esta ley, y
+V.- Cumplir los requisitos de ingreso durante el servicio salvo que se le instaure proceso penal, en cuyo caso se estará a lo dispuesto por el artículo 51 de esta ley, y (sic)
 
-VI.- Los demás requisitos que establezcan las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VI.- Contar y mantener vigente la certificación y registro a que se refiere la Ley General del Sistema Nacional de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VII.- Acatar las órdenes de comisión, rotación y cambios de adscripción;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VIII.- Cumplir con las obligaciones que les impongan la Ley General del Sistema Nacional de Seguridad Pública, Ley del Sistema Estatal de Seguridad Pública y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+IX.- No incurrir en actos u omisiones que causen la pérdida de confianza o afecten la prestación del servicio, y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+X.- Los demás requisitos que establezcan la Ley General del Sistema Nacional de Seguridad Pública, Ley del Sistema Estatal de Seguridad Pública, ésta Ley y su reglamento.
 
 ### Capítulo IV. Agentes de Designación Especial o Visitadores
 
@@ -633,23 +881,43 @@ El Ministerio Público estará integrado por agentes de carrera, así como por a
 
 Para los efectos de esta ley, se entiende por agentes de designación especial aquellos que sin ser de carrera, son nombrados por el Procurador para atender asuntos que por sus circunstancias especiales así lo requieran.
 
-La Policía Estatal y los Servicios Periciales estarán integrados por agentes y peritos de carrera, así como por agentes y peritos de designación especial.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+La Agencia Estatal de Investigación y los Servicios Periciales estarán integrados por elementos y peritos de carrera, así como por elementos y peritos de designación especial.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 45.
 
-Tratándose de personas con amplia experiencia profesional, el Procurador, de conformidad con el reglamento de esta ley y lo que establezcan las disposiciones relativas al Servicio de Carrera de Procuración de Justicia podrá, en casos excepcionales, designar Agentes del Ministerio Público, especiales o visitadores, así como Agentes de la Policía Estatal o Peritos especiales, dispensando la presentación de los concursos de ingreso. Dichas personas deberán estar en pleno ejercicio de sus derechos y satisfacer los requisitos siguientes:
+Tratándose de personas con amplia experiencia profesional, el Procurador, de conformidad con el reglamento de esta ley y lo que establezcan las disposiciones relativas al Servicio de Carrera de Procuración de Justicia podrá, en casos excepcionales, designar Agentes de Investigación del Ministerio Público, especiales o visitadores, así como elementos de la Agencia Estatal o Peritos especiales, dispensando la presentación de los concursos de ingreso. Dichas personas deberán estar en pleno ejercicio de sus derechos y satisfacer los requisitos siguientes:
 
 I.- Para Agente del Ministerio Público, los señalados en el artículo 34, fracciones I, II, III, IV, V, VII, VIII, IX y X;
 
-II.- Para Agente de la Policía Estatal, los señalados en el artículo 35, fracciones I, II, III, IV, V, VII, VIII, IX y X, y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+II.- Para elemento de la Agencia Estatal de Investigación, los señalados en el artículo 34, fracciones I, II, III, IV, V, VII, VIII, IX y X,
 
 III.- Para Perito, los señalados en el artículo 36, fracciones I, II, III, IV, V, VII VIII, IX y X.
 
-Los Agentes del Ministerio Público, especiales o visitadores, así como Agentes de la Policía Estatal o Peritos especiales, no serán miembros del Servicio de Carrera de Procuración de Justicia, a menos que acrediten los concursos y evaluaciones que se les practiquen, en los términos de las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Los Agentes del Ministerio Público, especiales o visitadores, así como elementos de la Agencia Estatal de Investigación o Peritos especiales, no serán miembros del Servicio de Carrera de Procuración de Justicia, a menos que acrediten los concursos y evaluaciones que se les practiquen, en los términos de las disposiciones aplicables.
 
 En cualquier momento, se podrán dar por terminados los efectos del nombramiento de las personas designadas conforme a este artículo, sin que para ello sea necesario agotar el procedimiento a que se refiere el artículo 49 de esta Ley.
 
 Los Agentes del Ministerio Público Especiales o visitadores y Peritos Especiales, no podrán ser Consejeros del Consejo Técnico del Servicio de Carrera de Procuración de Justicia.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 45 A.- Los integrantes de la procuraduría, deberán someterse y aprobar los procesos de evaluación de control de confianza y del desempeño, con la periodicidad y en los casos que establezca la normatividad aplicable.
+
+Los resultados de evaluación y los expedientes que se formen con los mismos serán confidenciales, salvo aquellos casos en que deban presentarse en procedimientos administrativos o judiciales, y se mantendrán en reserva en los términos de las disposiciones aplicables, salvo en los casos que señala la presente ley.
+
+Las solicitudes de reincorporación al servicio de carrera se analizarán y en su caso, concederán con arreglo a lo que establezca La Ley General del Sistema Nacional de Seguridad Pública, La Ley del Sistema Estatal de Seguridad Pública, ésta Ley, su reglamento y demás disposiciones aplicables, siempre que el motivo de la baja haya sido por causas distintas al incumplimiento a los requisitos de permanencia o al seguimiento de un proceso de responsabilidad administrativa o penal.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 45 B.- Previo al ingreso, como agente del Ministerio Público, elemento de la Agencia Estatal de Investigación o Perito, incluyendo los casos a que se refiere el artículo 45 de la presente ley, será obligatorio que la Procuraduría General de Justicia del Estado, consulte los antecedentes del candidato de que se trate en los registros correspondientes del Sistema Nacional de Seguridad Pública.
 
 ### Capítulo V. Del Consejo Técnico del Servicio de Carrera de Procuración de Justicia
 
@@ -665,7 +933,9 @@ III.- El Visitador General;
 
 IV.- El Director de la Contraloría Interna;
 
-V.- El Director de la Policía Estatal;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+V.- El Director de la Agencia Estatal de Investigación;
 
 VI.- El Director de los Servicios Periciales Criminalisticos;
 
@@ -675,7 +945,9 @@ VIII.- El Director de Control de Procesos;
 
 IX.- El Director del Instituto de Capacitación de Seguridad Pública;
 
-X.- Dos agentes del Ministerio Público; dos agentes de la Policía estatal y dos Peritos, quienes serán nombrados a través de un proceso de insaculación de entre aquellos que reúnan los requisitos que señale el reglamento;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+X.- Dos agentes del Ministerio Público; dos elementos de la Agencia Estatal de Investigación y dos Peritos, quienes serán nombrados a través de un proceso de insaculación de entre aquellos que reúnan los requisitos que señale el reglamento;
 
 XI.- Dos representantes del ámbito Jurídico académico, designados por el Director de la Unidad Académica de Derecho de la Universidad Autónoma de Nayarit;
 
@@ -725,9 +997,33 @@ II.- Extraordinaria que comprende:
 
 a).- La separación del servicio por el incumplimiento de los requisitos de ingreso y permanencia en la Institución;
 
-b).- La remoción; y
+b).- La remoción; y (sic)
 
-c).- Por responsabilidad administrativa en los términos de esta ley, la Ley de Responsabilidad de los servidores públicos y demás ordenamientos aplicables.
+c).- Por responsabilidad administrativa en los términos de esta ley, la Ley de Responsabilidad de los servidores públicos y demás ordenamientos aplicables;
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+d).- Además de las anteriores, para el caso de los elementos de la Agencia Estatal de Investigación, cuando en los procesos de promoción concurran las circunstancias siguientes:
+
+1.- Haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo a lo establecido en las disposiciones aplicables;
+
+2.- Deje de participar en tres procesos consecutivos de promoción a los que haya sido convocado o no obtenga el grado inmediato superior por causas que le sean imputables, después de participar en tres procesos de promoción para tal efecto, y
+
+3.- En su expediente no cuente con méritos suficientes para la permanencia.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 48 A.- En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción es injustificada, la procuraduría sólo estará obligada a la indemnización y al otorgamiento de las prestaciones a que tenga derecho la persona removida, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido de conformidad con el artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos. Tal circunstancia será inscrita en el Registro Nacional correspondiente.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 48 B.- Los agentes del Ministerio Público, elementos de la Agencia Estatal de Investigación y Peritos, podrán ser separados de sus cargos si no cumplen con los requisitos de permanencia que establezcan las leyes vigentes, o si incurren en alguna causa de responsabilidad en el desempeño de sus funciones.
+
+Si la separación, remoción, baja, cese, destitución o cualquier otra forma de terminación del servicio fue injustificada, la Procuraduría estará obligada a pagar la indemnización y demás prestaciones, sin que proceda en caso alguno la reincorporación al servicio.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 48 C.- La indemnización a que se refiere el artículo anterior, se determinará conforme lo establezca el Estatuto Jurídico de los Trabajadores al Servicio del Estado y sus Municipios.
 
 ###### Artículo 49.
 
@@ -753,19 +1049,27 @@ Los Procedimientos a que se refiere esta ley, serán substanciados en la Visitad
 
 Los miembros del Servicio de Carrera de Procuración de Justicia que estén sujetos a proceso penal como probables responsables de delito doloso, o culposo calificado como grave por la ley, serán suspendidos por el Visitador General, desde que se dicte el auto de formal prisión o de sujeción a proceso y hasta que se emita sentencia ejecutoriada. En caso de que ésta fuese condenatoria serán destituidos; si por el contrario, fuese absolutoria, se les restituirá en sus derechos.
 
-### Capítulo VI. Del Instituto de Capacitación de Seguridad Pública
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JUNIO DE 2010)</small>
+
+### Capítulo VI. Del Instituto de Capacitación Especializada en Procuración de Justicia
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 52.
 
-El Instituto de Capacitación de Seguridad Pública, es un órgano administrativo desconcentrado de la Procuraduría, jerárquicamente subordinado a ella, con las facultades específicas que se determine en esta ley, normas reglamentarias y disposiciones aplicables, que estará a cargo de un Director designado por el Procurador.
+El Instituto de Capacitación Especializada en Procuración de Justicia, es un órgano administrativo desconcentrado de la Procuraduría, jerárquicamente subordinado a ella, con las facultades específicas que se determine en esta ley, normas reglamentarias y disposiciones aplicables, que estará a cargo de un Director designado por el Procurador.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 53.
 
-El Instituto de Capacitación de Seguridad Pública, tendrá por objeto la formación y profesionalización altamente especializada de servidores públicos en las áreas de seguridad pública y Procuración de Justicia; la formación de investigadores, profesores, especialistas y técnicos en las diversas áreas que se relacionen con la procuración de justicia; la realización además de investigaciones sobre los problemas del Estado en estas áreas, la información y difusión de los conocimientos sobre ellas.
+El Instituto de Capacitación Especializada en Procuración de Justicia, tendrá por objeto la formación y profesionalización altamente especializada de servidores públicos de las áreas de Procuración de Justicia, la formación de investigadores, profesores, especialistas y técnicos en las diversas áreas que se relacionen con la procuración de justicia; la realización además de investigaciones sobre problemas del Estado en estas áreas, la información y difusión de los conocimientos de ellas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 54.
 
-El Instituto de Capacitación de Seguridad Pública, tendrá las siguientes atribuciones:
+El Instituto de Capacitación Especializada en Procuración de Justicia, tendrá las siguientes atribuciones:
 
 I.- Mejorar las técnicas administrativas en la función ministerial;
 
@@ -775,33 +1079,105 @@ III.- Ejecutar los programas del sistema de capacitación para el personal de la
 
 IV.- Participar en los programas de selección e integración del personal de la Procuraduría;
 
-V.- Impartir capacitación en seguridad pública y procuración de justicia;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
-VI.- Promover y divulgar la capacitación; y
+V.- Impartir capacitación en procuración de justicia;
 
-VII.- Vigilar y eficientar la aplicación de los planes y programas que correspondan a sus atribuciones.
+VI.- Promover y divulgar la capacitación; y (sic)
 
-### Capítulo VII. De los Procesos de Evaluación de los Servidores Públicos
+VII.- Vigilar y eficientar la aplicación de los planes y programas que correspondan a sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+VIII.- Capacitar en materia de investigación científica y técnica a los servidores públicos;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+IX.- Proponer y desarrollar los programas de investigación académica, para Agentes del Ministerio Público, elementos de la Agencia Estatal de Investigación y Peritos, de conformidad con lo dispuesto en la Ley del Sistema Estatal de Seguridad Pública, esta Ley y su reglamento;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+X.- Proponer y aplicar los contenidos de los planes y programas para la formación de los servidores públicos a que se refiere el Programa Rector de Profesionalización;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XI.- Tramitar los registros, autorizaciones y reconocimientos de los planes y programas de estudio ante las autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XII.- Diseñar el Programa Rector de Profesionalización que establece los lineamientos, programas, actividades y contenidos mínimos para la profesionalización del personal de la Procuraduría;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XIII.- Cumplir con lo dispuesto por el Programa Rector de Profesionalización que establece los lineamientos, programas, actividades y contenidos mínimos para la profesionalización del personal de la Procuraduría;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XIV.- Establecer políticas de profesionalización, como un proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de las Instituciones Policiales;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XV.- En los planes de estudio para la profesionalización, se integrara el conjunto de contenidos estructurados en unidades didácticas de enseñanza y aprendizaje que estarán comprendidos en el Programa Rector de Profesionalización que al efecto se apruebe, y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+XVI.- La demás que determine, la Ley del Sistema Estatal de Seguridad Pública, esta Ley, su reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JUNIO DE 2010)</small>
+
+### Capítulo VII. De los Procesos de Evaluación y Certificación de los Servidores Públicos
 
 ###### Artículo 55.
 
 Los miembros del Servicio de Carrera de Procuración de Justicia y demás servidores públicos que determine el Procurador mediante Acuerdo, deberán someterse y aprobar los procesos de evaluación de control de confianza y del desempeño, los cuales serán iniciales, permanentes, periódicos y obligatorios de conformidad con las disposiciones aplicables.
 
-Los procesos de evaluación de control de confianza y evaluación del desempeño, constarán de los siguientes exámenes:
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
-I.- Patrimoniales y de entorno social;
+Los procesos de evaluación de control de confianza y desempeño, constarán de los siguientes exámenes:
 
-II.- Psicométricos y psicológicos; y
+I.- Evaluación Psicológica;
 
-III.-Toxicológicos.
+II.- Evaluación Poligráfica;
 
-Los demás que se consideren necesarios para la calificación del personal.
+III.- Evaluación Médica;
+
+IV.- Evaluación Toxicológica;
+
+V.- Evaluación Socioeconómica y de Entorno Social;
+
+VI.- Evaluación del desempeño y de conocimientos, y
+
+VII.- Los demás que se determinen en la Ley General del Sistema Nacional de Seguridad Pública, Ley del Sistema Estatal de Seguridad Pública, ésta Ley, su reglamento y demás disposiciones aplicables.
+
+> <small>(DEROGADO TERCER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
 
 Los procesos de evaluación tendrán por objeto comprobar que los servidores públicos a que se refiere el párrafo primero, dan debido cumplimiento a los principios de legalidad, eficacia, profesionalismo, honradez, lealtad, imparcialidad y de respeto a los derechos humanos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 56.
 
-El reglamento de esta ley establecerá los exámenes que comprenderán los procesos de evaluación, entre los cuales deberá incluirse el toxicológico, así como los procedimientos conforme a los cuales se llevarán a cabo.
+Atendiendo al perfil de cada puesto, el proceso de evaluación del desempeño comprenderá:
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+I. Comportamiento;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+II. Cumplimiento en el ejercicio de las funciones;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+III. Conocimientos teóricos y prácticos, y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+IV. Los demás que establezcan las normas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE JUNIO DE 2010)</small>
+
+El reglamento de ésta Ley, establecerá los exámenes que comprenderán los procesos de evaluación, entre los cuales deberá incluirse el toxicológico, así como los procedimientos conforme a los cuales se llevará a cabo.
 
 Los exámenes se evaluarán en conjunto, salvo el examen toxicológico que se presentará y calificará por separado.
 
@@ -809,23 +1185,75 @@ Los exámenes se evaluarán en conjunto, salvo el examen toxicológico que se pr
 
 Los servidores públicos serán citados a la práctica de los exámenes respectivos. En caso de no presentarse sin mediar causa justificada, se les tendrá por no aptos, traduciéndose en causa de la terminación del Servicio de Carrera de Procuración de Justicia.
 
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+El Procurador, los Subprocuradores y el Visitador General, podrán requerir que los servidores públicos se presenten a la práctica de evaluaciones de control de confianza, independientemente de la vigencia de su certificado. En caso de no presentarse sin mediar causa justificada, se les tendrá por no aptos y por consecuencia se decretará la terminación del Servicio de Carrera.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 58.
 
-Los resultados de los procesos de evaluación serán públicos con las excepciones que establezcan las disposiciones legales aplicables.
+Los integrantes del Servicio de Carrera de Procuración de Justicia, deberán someterse y aprobar los procesos de evaluación de control de confianza y del desempeño con la periodicidad y en los casos que establezca la normatividad aplicable.
+
+Los resultados de los procesos de evaluación y los expedientes que se formen con los mismos serán confidenciales, salvo en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales y se mantendrán en reserva en los términos de las disposiciones aplicables, salvo en los casos que señala la presente ley.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 59.
 
-Los miembros del Servicio de Carrera de Procuración de Justicia que resulten no aptos en los procesos de evaluación a que se refiere este capítulo, dejarán de prestar sus servicios en la Procuraduría, previo desahogo del procedimiento que establece el artículo 49 de esta Ley.
+Los miembros del Servicio de Carrera de Procuración de Justicia que no cumplan con los requisitos de permanencia en los procesos de evaluación de control de confianza y de desempeño, dejarán de prestar sus servicios en la Procuraduría, previo desahogo del procedimiento que establece el artículo 49 de ésta ley.
 
-En los casos en que los demás servidores públicos de la Institución respecto de los cuales el Procurador haya determinado su sujeción a los procesos de evaluación, resulten no aptos, dejarán de prestar sus servicios en la Institución, de conformidad con las disposiciones legales aplicables.
+En los casos en que los demás servidores públicos de la institución, respecto de los cuales el Procurador haya determinado su sujeción a los procesos de evaluación, y que no cumplan con los requisitos de permanencia relativos al control de confianza y de desempeño, dejarán de prestar sus servicios en la misma, de conformidad con las disposiciones legales aplicables.
 
-## Título Sexto. De los Derechos y Obligaciones de los Agentes del Ministerio Público, de la Policía Estatal, Peritos y Oficiales Secretarios
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 59 A.- Los aspirantes a ingresar a la Procuraduría, deberán de contar con el Certificado y registro correspondiente, en los términos de la Ley del Sistema Nacional de Seguridad Pública, La Ley del Sistema Estatal de Seguridad Pública, ésta Ley, su reglamento y demás disposiciones aplicables.
+
+Ninguna persona podrá ingresar o permanecer en la institución, sin contar con el Certificado y registro vigentes.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 59 B.- El Centro Estatal de Control de Confianza y Evaluación del Desempeño previsto en la Ley del Sistema Estatal de Seguridad Pública, emitirá los certificados correspondientes a quienes acrediten los requisitos de ingreso que establece la Ley del Sistema Nacional de Seguridad Pública, ésta ley, el reglamento y demás disposiciones aplicables.
+
+El certificado tendrá por objeto acreditar que el servidor público es apto para ingresar o permanecer en la institución, y que cuenta con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 59 C.- El certificado deberá otorgarse en un plazo no mayor a sesenta días naturales, contados a partir de la conclusión del proceso de certificación, a efecto de que sea ingresado en el Registro Nacional que para tal efecto se establezca. Dicha certificación y registro tendrán una vigencia de tres años.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 59 D.- Los agentes del Ministerio Público, elementos de la Agencia Estatal de Investigación, Peritos y demás servidores públicos de la institución, que instruya el Procurador, deberán someterse a los procesos de evaluación en los términos de las disposiciones del Servicio de Carrera de Procuración de Justicia, y demás normatividad aplicable, con seis meses de anticipación a la expiración de la validez de su certificado y registro, a fin de obtener la revalidación de los mismos.
+
+La revalidación del certificado será requisito indispensable para su permanencia en la procuraduría, y deberá registrarse para los efectos a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 59 E.- La certificación que otorgue el Centro Estatal de Control de Confianza y Evaluación del Desempeño, deberá contener los requisitos y medidas de seguridad que emita el Centro Nacional de Certificación y Acreditación contemplado en la Ley del Sistema Nacional de Seguridad Pública, la Ley del Sistema Estatal de Seguridad Pública, ésta ley, el reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 59 F.- La cancelación del certificado de los Servidores Públicos de la Procuraduría procederá:
+
+I. Al ser separados de su encargo por incumplir con alguno de los requisitos de ingreso o permanencia a que se refiere la Ley del Sistema Nacional de Seguridad Pública, la Ley del Sistema Estatal de Seguridad Pública, ésta Ley , su reglamento y demás disposiciones aplicables;
+
+II. Al ser removidos de su encargo;
+
+III. Por no obtener la revalidación de su Certificado, y
+
+IV. Por las demás causas que al efecto se establezcan en otras disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JUNIO DE 2010)</small>
+
+## Título Sexto. De los Derechos y Obligaciones de los Agentes del Ministerio Público, Elementos de la Agencia Estatal de Investigación, Peritos y Oficiales Secretarios
 
 ### Capítulo I. De los Derechos de los Servidores Públicos
 
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 60.
 
-Los Agentes del Ministerio Público, de la Policía Estatal, Peritos y Oficiales Secretarios tendrán los siguientes derechos:
+Los Agentes del Ministerio Público, elementos de la Agencia Estatal de Investigación, Peritos y Oficiales Secretarios tendrán los siguientes derechos:
 
 I.- Participar en los cursos de capacitación, actualización y especialización correspondientes, así como en aquellos que se acuerden con instituciones académicas, que tengan relación con sus funciones, sin perder sus derechos y antigüedad, sujeto a las disposiciones presupuestales y a las necesidades del servicio;
 
@@ -849,7 +1277,9 @@ X.- Contar con asesoría, en los casos que deba comparecer ante un órgano juris
 
 XI.- Los demás que establezcan las disposiciones aplicables.
 
-Los Agentes del Ministerio Público de designación especial o visitadores, así como los Agentes de la Policía Estatal y Peritos de designación especial, participarán en los programas de capacitación, actualización y especialización, y gozarán de los derechos a que se refiere este artículo, salvo los contenidos en las fracciones II, V y X.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE JUNIO DE 2010)</small>
+
+Los Agentes del Ministerio Público de designación especial o visitadores, así como los elementos de la Agencia Estatal de Investigación y Peritos de designación especial, participarán en los programas de capacitación, actualización y especialización, y gozarán de los derechos a que se refiere este artículo, salvo los contenidos en las fracciones II, V y X.
 
 ### Capítulo II. De las Obligaciones de los Servidores Públicos
 
@@ -879,7 +1309,9 @@ VIII.- Preservar el secreto de los asuntos que por razón del desempeño de su f
 
 IX.- Abstenerse en el desempeño de sus funciones de auxiliarse por personas no autorizadas por la ley;
 
-X.- Uso y conservación del equipo a su cargo con el debido cuidado y prudencia;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+X.- Mantener en buen estado el armamento, material, municiones y equipo que le asigne con motivo de sus funciones, haciendo uso racional de ello sólo en el desempeño del servicio;
 
 XI.- Someterse a los exámenes médico, psicométrico, polígrafo, evaluación de control de confianza y del desempeño, toxicológicos para la detección de fármaco dependencia y alcoholismo y demás que determine el Procurador; y
 
@@ -887,13 +1319,65 @@ XII.- Depositar inmediatamente el dinero y valores que se hayan asegurado; así 
 
 El incumplimiento de estas obligaciones dará a lugar a las sanciones correspondientes.
 
-## Título Séptimo. De las Causas de Responsabilidad de los Agentes del Ministerio Público, Agentes de la Policía Estatal, Peritos y Oficiales Secretarios
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 62 A.- Para el caso de los elementos de la Agencia Estatal de Investigación, además de lo señalado en el artículo anterior, tendrán las obligaciones siguientes:
+
+I. Registrar lo conducente en el informe Policial Homologado;
+
+II. Remitir a la instancia que corresponda, la información recopilada en el desempeño de sus actividades, para su análisis y registro;
+
+III. Entregar la información que le sea solicitada por instituciones de Seguridad Pública, en términos de las disposiciones aplicables;
+
+IV. Apoyar a las autoridades que así lo soliciten en la investigación y persecución de los delitos, de conformidad con las disposiciones aplicables;
+
+V. Ejecutar los mandamientos judiciales y ministeriales que le sean asignados, así como aquéllos de los que tengan conocimiento con motivo de sus funciones y en el marco de sus facultades;
+
+VI. Obtener y mantener actualizado su Certificado Único Policial;
+
+VII. Responder sobre la ejecución de las órdenes directas que reciba, respetando la línea demando (sic);
+
+VIII. Hacer uso de la fuerza de manera racional y proporcional, con pleno respeto a los derechos humanos, manteniéndose dentro de los límites que se marcan en los procedimientos establecidos en los manuales respectivos, con el fin de preservar la vida y la integridad de las personas, evitando en la medida de lo posible el uso de la fuerza letal;
+
+IX. Permanecer en las instalaciones de la institución, en que se le indique en cumplimiento del arresto que les sea impuesto de conformidad con las normas aplicables;
+
+X. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, o prostíbulos u otros centros de éste tipo, si no media orden expresa para el desempeño de sus funciones o en casos de flagrancia en la comisión de delitos;
+
+XI. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencia;
+
+XII. Utilizar los protocolos de investigación adoptados por su corporación;
+
+XIII. Someterse a evaluaciones periódicas para acreditar el cumplimiento de sus requisitos de permanencia;
+
+XIV. Registrar en los formatos oficiales todos los datos de importancia que incidan en las actividades, investigaciones o indagaciones que realice;
+
+XV. Abstenerse de sustraer, ocultar, extraviar, difundir, alterar o dañar información o bienes en perjuicio de la institución o de sus integrantes;
+
+XVI. Abstenerse de introducir a cualquiera de las instalaciones de la Procuraduría, bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, conforme a las disposiciones aplicables;
+
+XVII. Evitar realizar conductas que desacrediten su persona o la imagen de la institución, dentro o fuera del servicio;
+
+XVIII. Abstenerse de poner en peligro a los particulares a causa de imprudencia, descuido, negligencia o abandono del servicio;
+
+XIX. Abstenerse de portar arma de cargo fuera del servicio;
+
+XX. Abstenerse de portar arma de fuego distinta a la de cargo, dentro o fuera del servicio, y
+
+XXI. Los demás que establezca la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema Estatal de Seguridad Pública, ésta ley, su reglamento y demás disposiciones aplicables.
+
+El incumplimiento de estas obligaciones, dará lugar a las sanciones correspondientes.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JUNIO DE 2010)</small>
+
+## Título Séptimo. De las Causas de Responsabilidad de los Agentes del Ministerio Público, Elementos de la Agencia Estatal Investigadora, Peritos y Oficiales Secretarios
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 63.
 
-Son causas de responsabilidad de los Agentes del Ministerio Público, Agentes de la Policía Estatal, Peritos y Oficiales Secretarios:
+Son causas de responsabilidad de los Agentes del Ministerio Público, elementos de la Agencia Estatal de Investigadora, Peritos y Oficiales Secretarios:
 
 I.- No cumplir, retrasar o perjudicar por negligencia la debida actuación del Ministerio Público;
 
@@ -907,7 +1391,7 @@ V.- No trabar el aseguramiento de bienes, objetos, instrumentos o productos de d
 
 VI.- Omitir la práctica de las diligencias necesarias en cada asunto;
 
-VII.- La acumulación de más de tres faltas o más de seis retardos sin que sean justificados en el transcurso del mes, y/o el ausentarse de sus oficinas durante el tiempo previsto en la ley y el reglamento respectivos, por asuntos no oficiales;
+VII.- (DEROGADA, P.O. 23 DE JUNIO DE 2010)
 
 VIII.- Ejecutar hechos o incurrir en omisiones que tengan por consecuencia extraviar expedientes, mandamientos judiciales, o demás diligencias;
 
@@ -965,7 +1449,11 @@ III.- Ejercer las funciones de tutor curador o albacea judicial, a no ser que te
 
 IV.- Desempeñar funciones electorales federales, estatales o municipales.
 
-### Capítulo III. De las Sanciones y correcciones disciplinarias de los Agentes del Ministerio Público, Agentes de la Policía Estatal, Peritos y Oficial Secretario
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JUNIO DE 2010)</small>
+
+### Capítulo III
+
+De las Sanciones y Correcciones Disciplinarias de los Agentes del Ministerio Público, Elementos de la Agencia Estatal de Investigación, Peritos y Oficial Secretario
 
 ###### Artículo 65.
 
@@ -977,7 +1465,9 @@ II.- Suspensión;
 
 III.- Económica;
 
-IV.- Arresto o retención tratándose de policías estatales;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+
+IV.- Arresto o retención tratándose de elementos de la Agencia Estatal de Investigación;
 
 V.- Remoción, e
 
@@ -997,11 +1487,15 @@ La suspensión es la interrupción temporal de los efectos del nombramiento por 
 
 La sanción económica que se impondrá al infractor, será de diez a cien días de salario mínimo vigente en el estado; cuando se aplique esta sanción al servidor público, éste desempeñará sus funciones como ordinariamente las realizaba.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 69.
 
-El arresto es la internación del agente de la Policía Estatal por no más de treinta y seis horas en el lugar destinado al efecto, el cual deberá ser distinto al que corresponda a los indiciados, con pleno respeto a sus derechos humanos.
+Para los efectos de la presente ley, se entenderá por arresto la internación del elemento de la Agencia Estatal de Investigación, por no más de treinta y seis horas en el lugar destinado al efecto, el cual deberá ser distinto al que corresponda a los indiciados, con pleno respeto a sus derechos humanos.
 
-La retención en el servicio o la privación de servicios de salida es el impedimento hasta por quince días naturales para que el agente de la Policía Estatal abandone el lugar de su adscripción.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+La retención en el servicio o la privación de servicios de salida es el impedimento hasta por quince días naturales para que el elemento de la Agencia Estatal de Investigación abandone el lugar de su adscripción.
 
 Toda orden de arresto o de retención en el servicio será decretada por el superior jerárquico mediante escrito que contendrá el motivo y fundamento legal, así como la duración y el lugar en que deberá cumplirse. La orden respectiva pasará a formar parte del expediente personal del servidor público de que se trate.
 
@@ -1016,6 +1510,10 @@ La inhabilitación consiste en el impedimento para que el servidor público sanc
 ###### Artículo 72.
 
 La remoción se aplicará por el incumplimiento de las obligaciones consideradas graves, previstas en las fracciones IV, V, IX, X, XI y XII del artículo 62; de igual forma, por ubicarse dentro de los supuestos previstos en las fracciones III, VIII, IX, X, XV, XVI, XVIII, XX, XXI, XXIV, XXV, XXVI y XXVIII del artículo 63, ambos numerales de esta ley;
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Además de las anteriormente señaladas, para el caso de los elementos de la Agencia Estatal de Investigación, serán causas de remoción, las previstas en las fracciones I, VI, IX, X, XI, XV, XVII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVIII, XXIX y XXX, del artículo 62 A de ésta Ley.
 
 Los servidores públicos removidos, deberán entregar sus identificaciones, placa o gafete; equipo de trabajo que tengan bajo su resguardo; así como los documentos y en general los bienes que le hayan sido proporcionados para el desempeño de sus funciones.
 
@@ -1067,11 +1565,15 @@ El plazo de la prescripción se contará a partir del día siguiente a aquel en 
 
 La interposición de denuncia o queja ante la Visitaduría interrumpe la prescripción.
 
-### Capítulo IV. De los Procedimientos para la Imposición de Sanciones
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JUNIO DE 2010)</small>
+
+### Capítulo IV. De los Procedimientos para la Imposición de Sanciones ante la Visitaduría General y ante el Consejo Técnico de la Carrera Policial
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 78.
 
-En todos los casos, a los Agentes del Ministerio Público, Oficiales Secretarios, Agentes de la Policía Estatal, Peritos y demás servidores públicos de la Procuraduría, se les aplicará el debido procedimiento para la imposición de las sanciones que esta ley establece.
+En todos los casos, a los Agentes del Ministerio Público, Oficiales Secretarios, elementos de la Agencia Estatal de Investigación, Peritos y demás servidores públicos de la Procuraduría, se les aplicará el debido procedimiento para la imposición de las sanciones que esta ley establece.
 
 ###### Artículo 79.
 
@@ -1079,13 +1581,19 @@ El procedimiento se iniciará de oficio, por denuncia o queja presentada por cua
 
 Las quejas o denuncias que se formulen, deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para presumir la responsabilidad del servidor público denunciado.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 80.
 
-La Visitaduría General será competente para iniciar de oficio, por queja o denuncia, el procedimiento sancionador en contra de los servidores públicos de la Procuraduría.
+La Visitaduría General será competente para iniciar de oficio, por queja, denuncia o solicitud, el procedimiento sancionador en contra de los agentes del Ministerio Público, Peritos y Oficiales Secretarios.
+
+Para el caso de los elementos de la Agencia Estatal de Investigación, el cuerpo colegiado encargado de sustanciar el procedimiento sancionador, será el Consejo Técnico de la Carrera Policial.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 81.
 
-Los Agentes del Ministerio Público, agentes de la Policía Estatal, peritos y Oficiales Secretarios, que estén sujetos a procesos penales, como probables responsables de delito doloso o culposo calificado como grave por la ley, serán suspendidos desde que se dicte auto de formal prisión o de sujeción a proceso.
+Los Agentes del Ministerio Público, elementos de la Agencia Estatal de Investigación, peritos y Oficiales Secretarios, que estén sujetos a procesos penales, como probables responsables de delito doloso o culposo calificado como grave por la ley, serán suspendidos desde que se dicte auto de formal prisión o de sujeción a proceso.
 
 ###### Artículo 82.
 
@@ -1109,13 +1617,179 @@ VIII.- Al concluir la audiencia o dentro de los cinco días hábiles siguientes,
 
 IX.- La resolución que recaiga al procedimiento en cita, se notificará al servidor público cualquiera que sea el resultado de ésta, se archivará en su expediente personal una copia de la misma, y se dará vista al área correspondiente para los efectos de su registro y trámite.
 
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 A.- El Consejo Técnico de Carrera Policial, es la instancia colegiada encargada de normar, conocer y resolver toda controversia que se suscite en relación con los procedimientos del Servicio de Carrera Policial, el Régimen Disciplinario de la Agencia Estatal de Investigación y su Profesionalización.
+
+La imposición de las sanciones que se determine, se hará con independencia de las que correspondan por responsabilidad civil, penal o administrativa, en que incurran los integrantes de la Agencia Estatal de Investigación de conformidad con los ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 B.- El Consejo Técnico de Carrera Policial, llevará un registro de datos de los integrantes, el cual se proporcionará a Plataforma México en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 C.- Son atribuciones del Consejo Técnico:
+
+I. Emitir políticas relativas al ingreso, selección, permanencia, estímulos, promoción y reconocimiento de los integrantes;
+
+II. Elaborar los lineamientos para los procedimientos del Servicio de Carrera Policial;
+
+III. Formular normas en materia de previsión social para integrantes de la Agencia Estatal de Investigación;
+
+IV. Elaborar los planes y programas de Profesionalización que contendrá los aspectos de formación, capacitación, adiestramiento y actualización;
+
+V. Instaurar los procedimientos aplicables a la Profesionalización;
+
+VI. Celebrar los convenios necesarios para la instrumentación de la Profesionalización;
+
+VII. Instruir el desarrollo de los programas de investigación académica en materia policial;
+
+VIII. Establecer los lineamientos para los procedimientos aplicables al Régimen Disciplinario;
+
+IX. Emitir acuerdos de observancia general y obligatoria en materia de desarrollo policial para la exacta aplicación del Servicio de Carrera Policial;
+
+X. Aplicar y resolver los procedimientos relativos al ingreso, selección, permanencia, promoción y reconocimiento de los integrantes;
+
+XI. Verificar el cumplimiento de los requisitos de permanencia de los integrantes;
+
+XII. Analizar la formación, capacitación, adiestramiento, desarrollo, actualización, las sanciones aplicadas y los méritos de los integrantes a fin de determinar quiénes cumplen con los requisitos para ser promovidos;
+
+XIII. Resolver, de acuerdo a las necesidades y disponibilidades presupuestales de la institución, la reubicación de los integrantes de un área operativa a otra;
+
+XIV. Sustanciar los procedimientos disciplinarios derivados de las infracciones cometidas por los integrantes, escuchando en todo caso los argumentos del presunto infractor;
+
+XV. Conocer y resolver sobre el otorgamiento de constancias de grado y estímulos a los integrantes;
+
+XVI. Establecer el régimen homólogo de grados para el personal de servicios, conforme a los lineamientos que para ese efecto se establezcan;
+
+XVII. Crear las comisiones, comités y grupos de trabajo del Servicio de Carrera Policial y Régimen Disciplinario que sean necesarios, de acuerdo al tema o actividad a desarrollar, supervisando su actuación;
+
+XVIII. Sancionar a los integrantes por incumplimiento a los deberes previstos en la presente Ley y disposiciones aplicables que deriven de ésta;
+
+XIX. Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de su competencia, y
+
+XX. Las demás que le señalen La Ley del Sistema Nacional de Seguridad Pública, Ley del Sistema Estatal de Seguridad Pública, ésta ley, su reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 D.- El Consejo Técnico de Carrera Policial, se integrará de la siguiente manera:
+
+I. Un Presidente, que será el Titular de la Visitaduría General;
+
+II. El Titular de la Agencia Estatal de Investigación, y
+
+III. El Titular de la Contraloría Interna, que será el Secretario General.
+
+Los integrantes del Consejo Técnico serán de carácter permanente, y se designará a un suplente, de conformidad con el Reglamento.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 E.- El Consejo Técnico actuará en Pleno y contará con los servidores públicos necesarios para el despacho de sus asuntos, mismos que serán designados por el Pleno, a propuesta del Secretario General y conforme a las disponibilidades presupuéstales.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 F.- Las facultades y atribuciones del Consejo Técnico de Carrera Policial, su estructura normativa y operativa, suplencias, su funcionamiento y delegación de facultades, así como otros componentes de su régimen interno, serán determinados en el Reglamento, los cuales deben ser acorde al Modelo Nacional, previsto en la Ley General del Sistema Nacional de Seguridad Pública, Ley del Sistema Estatal de Seguridad Pública, ésta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 G.- El Consejo Técnico de la Carrera Policial, aplicará a los integrantes de la Agencia Estatal de Investigación, las sanciones previstas en ésta Ley para agentes del Ministerio Público, Peritos y oficiales Secretarios.
+
+De igual manera, aplicará las previstas en la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 H.- El procedimiento ante el Consejo Técnico, que se instaure a los integrantes de la Agencia Estatal de Investigación, por incumplimiento a los requisitos de ingreso o permanencia o por infracción al régimen disciplinario, será dirigida al Secretario General, señalando el requisito de ingreso o permanencia que ha sido incumplido o señalando la infracción en la que incurrió el elemento policial, adjuntando los documentos y demás pruebas que se consideren pertinentes.
+
+El Secretario General inmediatamente informará al Presidente del Consejo de la denuncia, queja o solicitud presentada en contra de un integrante de la Agencia Estatal de Investigación.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 I.- El procedimiento se iniciará de oficio, por denuncia, queja o solicitud, presentada por cualquier persona o por el servidor público que tenga conocimiento de los hechos, o por el titular de la unidad a la que se encuentre adscrito el infractor.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 J.- El Consejo Técnico será el órgano encargado de la instauración del procedimiento administrativo en contra de los elementos de la Agencia Estatal de Investigación, diligenciando el procedimiento a que éste capítulo se refiere, mediante lo siguiente:
+
+I. Se enviará una copia del escrito de solicitud, denuncia o queja, y sus anexos al servidor público infractor, para que, en un término de cinco días hábiles, formule un informe sobre los hechos comprendidos que motivan la instauración del procedimiento y rinda las pruebas correspondientes;
+
+II. El informe deberá referirse a todos y cada uno de los hechos comprendidos, en el escrito de solicitud, queja o denuncia, afirmándolos, negándolos, expresando los que se ignore, por no ser hechos propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán confesos los hechos de la denuncia sobre los cuales el denunciado no suscitare explícitamente controversia, sin admitirse prueba en contrario. La confesión de los hechos no entraña la aceptación del derecho del infractor;
+
+III. Se citará al infractor a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen; el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a una vez desahogadas las pruebas ofrecidas en su informe, alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor;
+
+IV. Entre la fecha de la citación y la de la audiencia, deberá mediar un plazo no menor de cinco ni mayor de diez días hábiles;
+
+V. Si en la audiencia, el Consejo Técnico no cuenta con elementos suficientes para resolver o advierta elementos que impliquen nueva responsabilidad administrativa a cargo del probable responsable o de otros elementos policiales, podrá disponer la práctica de investigaciones y citar otra u otras audiencias. En el caso de nuevas responsabilidades se le harán de su conocimiento con toda oportunidad para que manifieste lo que conforme a sus intereses corresponda, y
+
+VI. Al concluir la audiencia se declarará cerrada la instrucción, y dentro de los quince días hábiles siguientes, el Consejo Técnico resolverá sobre la probable responsabilidad del infractor.
+
+La resolución que recaiga al procedimiento en cita, se notificará al servidor público cualquiera que sea el resultado de ésta, se archivará en su expediente personal una copia de la misma, y se dará vista al área correspondiente para los efectos de su registro y trámite.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 K.- La notificación del inicio del procedimiento, se realizará en el domicilio oficial de la adscripción del presunto infractor, en el último que hubiera reportado según su expediente personal, o en el lugar en que se encuentre físicamente y se le hará saber el lugar donde quedará a disposición en tanto se dicte la resolución definitiva respectiva.
+
+Asimismo, el infractor deberá señalar domicilio para oír y recibir notificaciones dentro del lugar de residencia del Consejo Técnico, apercibiéndolo que en caso de no hacerlo, las subsecuentes notificaciones se realizarán en los estrados de la Procuraduría aun las de carácter personal; del mismo modo, en caso de no ofrecer pruebas y defensas, la imputación se tendrá por consentida y aceptada.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 L.- El Presidente o el Secretario General, podrá determinar la suspensión temporal del empleo, cargo o comisión del presunto infractor, previo o posteriormente a la notificación del inicio del procedimiento, si a su juicio es conveniente para la continuación del procedimiento o de las investigaciones. Esta medida no prejuzga sobre la responsabilidad que se impute, debiéndose asentar expresamente ésta salvedad.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 M.- El día y hora señalados para la comparecencia del presunto infractor, el Secretario General del Consejo Técnico, verificará que se ha notificado debidamente al infractor y de ser así, declarará formalmente abierta la audiencia y enseguida tomará los generales de aquél y de su defensor, a quien protestará en el cargo y apercibirá al primero para conducirse con verdad. Acto seguido procederá a dar lectura a las constancias relativas a la imputación y datos de cargo.
+
+El Consejo Técnico, concederá el uso de la palabra al presunto infractor y a su defensor, los que expondrán en forma concreta y específica lo que a su derecho convenga.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 N.- Los miembros del Consejo Técnico están facultados para cuestionar al compareciente, solicitar informes u otros elementos de prueba, por conducto del Secretario General, con la finalidad de allegarse de datos necesarios para el esclarecimiento del asunto.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 Ñ.- La resolución se notificará personalmente al interesado por conducto de quien designe el Consejo Técnico, pudiendo ser servidores públicos ajenos a los integrantes del pleno, llevándose a cabo en el domicilio señalado para tal efecto o de no haber designado domicilio alguno, por estrados de la Procuraduría.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 O.- La resolución que dicte el Pleno del Consejo Técnico, deberá estar debidamente fundada y motivada, contener una relación sucinta de los hechos y una valoración de todas y cada una de las pruebas aportadas.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 P.- De los acuerdos dictados durante el procedimiento, y demás actos procedimentales, excepto el del inicio del procedimiento y la resolución definitiva que resuelva el mismo, bastará solamente la firma del Presidente del Consejo y autentificados por el Secretario General, quien dará fe del acto emitido.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 Q.- Las pruebas que sean presentadas por las partes, serán debidamente analizadas y ponderadas, resolviendo cuáles se admiten y cuáles son desechadas dentro de la misma audiencia.
+
+Son admisibles como medio de prueba:
+
+I. Los documentos públicos;
+
+II. Los documentos privados;
+
+III. Los testigos;
+
+IV. Las fotografías, escritos y notas taquigráficas, y en general, todos aquellos elementos aportados por los descubrimientos de la ciencia, y
+
+V. Las presunciones.
+
+No se admitirán pruebas inconducentes o ilegales, ni es admisible la confesional a cargo de la autoridad. Las pruebas se admitirán siempre que guarden relación inmediata con los hechos materia de la litis y sólo en cuanto fueren conducentes para el eficaz esclarecimiento de los hechos y se encuentren ofrecidas conforme a derecho. Sólo los hechos están sujetos a prueba.
+
+Si la prueba ofrecida por el infractor es la testimonial, quedará a su cargo la presentación de los testigos, en caso de no hacerlo, se declarará desierta en su perjuicio.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+Artículo 82 R.- Para lo no previsto en la presente Ley, en materia de notificaciones, desahogo y valoración de pruebas, así como lo relativo al procedimiento, se aplicará de manera supletoria las disposiciones de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
+
 ## Título Octavo. De la Terminación de los Efectos del Nombramiento
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 83.
 
-El Procurador podrá dar por terminado los efectos del nombramiento sin responsabilidad para la Procuraduría por causa justificada, a los Agentes del Ministerio Público, elementos de la Policía Estatal, peritos y oficiales secretarios.
+El Procurador podrá dar por terminado los efectos del nombramiento sin responsabilidad para la Procuraduría por causa justificada, a los Agentes del Ministerio Público, elementos de la Agencia Estatal de Investigación, peritos y oficiales secretarios.
 
 ###### Artículo 84.
 
@@ -1199,25 +1873,35 @@ Las sanciones económicas que se impongan constituirán créditos fiscales a fav
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 89.
 
-Los Agentes del Ministerio Público, Oficiales Secretarios, Peritos y Agentes de la Policía Estatal, se regirá por las disposiciones de esta ley, su reglamento y por las demás disposiciones aplicables.
+Los Agentes del Ministerio Público, Oficiales Secretarios, Peritos y elementos de la Agencia Estatal de Investigación, se regirá por las disposiciones de esta ley, su reglamento y lo que dispongan otros ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 90.
 
-Por sus funciones y por la naturaleza del cargo, los Agentes del Ministerio Público se regirán por lo dispuesto en el párrafo primero de la fracción XIII del apartado B del artículo 123 de la Constitución Federal, la Local, esta ley, su reglamento y lo que dispongan otros preceptos aplicables.
+Por sus funciones y por la naturaleza del cargo, los agentes del Ministerio Público y Peritos se regirán por lo dispuesto en el párrafo primero de la fracción XIII, del apartado B, del artículo 123 de la Constitución Federal, la Local, ésta ley, su reglamento y lo que dispongan otros ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 91.
 
-Por sus funciones y por la naturaleza del cargo, los miembros de la Policía Estatal, se regirán en los términos establecidos en los párrafos primero y tercero de la fracción XIII del apartado B del artículo 123 de la Constitución Federal.
+Por sus funciones y por la naturaleza del cargo, los miembros de los elementos de la Agencia Estatal de Investigación, se regirán en los términos establecidos en los párrafos primero y tercero de la fracción XIII del apartado B del artículo 123 de la Constitución Federal.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 92.
 
-Por la naturaleza de sus funciones, la relación de los Agentes del Ministerio Público, Agentes de la Policía Estatal, cualquiera que sea su rango, con la Procuraduría, es de naturaleza administrativa y por consiguiente se regirán por esta ley, su reglamento y demás ordenamientos aplicables.
+Por la naturaleza de sus funciones, la relación de los agentes del Ministerio Público, elementos de la Agencia Estatal de Investigación y Peritos, cualquiera que sea su rango, con la Procuraduría, es de naturaleza administrativa y por consiguiente se regirán por ésta ley, su reglamento y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 93.
 
-Por la naturaleza de sus funciones son trabajadores de confianza los Peritos y los Oficiales Secretarios.
+Por la naturaleza de sus funciones son trabajadores de confianza los Oficiales Secretarios.
 
 ## Título Décimo. Disposiciones Finales
 
@@ -1229,9 +1913,15 @@ Para los efectos del Título Cuarto de la Constitución Federal y la normativa q
 
 El órgano de control interno en la Procuraduría ejercerá las funciones que le otorga la Ley de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+En los casos en que el Órgano de Control Interno determine las sanciones de destitución o inhabilitación, se entenderá que conllevan la cancelación del certificado a que se refiere la Ley del Sistema Nacional de Seguridad Pública, La Ley de Seguridad Pública para el Estado, ésta Ley y demás disposiciones aplicables. La cancelación del certificado deberá registrarse en los términos del Sistema Nacional de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 96.
 
-En el ejercicio de sus funciones, los agentes del Ministerio Público, los Agentes de la Policía Estatal y los Peritos observarán las obligaciones inherentes a su calidad de servidores públicos y actuarán con la diligencia necesaria para la pronta, completa y debida procuración de justicia.
+En el ejercicio de sus funciones, los agentes del Ministerio Público, los elementos de la Agencia Estatal de Investigación y los Peritos observarán las obligaciones inherentes a su calidad de servidores públicos y actuarán con la diligencia necesaria para la pronta, completa y debida procuración de justicia.
 
 ###### Artículo 97.
 
@@ -1254,6 +1944,30 @@ En todas las cuestiones relativas al procedimiento no previstas por esta ley, as
 El Procurador podrá crear consejos de asesores y de apoyo, para el desempeño de la dependencia, mediante acuerdos publicados en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 El Procurador determinará mediante acuerdos la integración, facultades y funcionamiento de los consejos a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+###### Artículo 101.
+
+Los efectos de la certificación a que se refiere ésta Ley, agentes del Ministerio Público, elementos de la Agencia Estatal de Investigación y Peritos que estén sujetos a proceso penal como probables responsables de delito doloso o culposos (sic) calificado como grave por la ley, serán suspendidos desde que se dicte el auto que resuelve el plazo constitucional y hasta que se emita sentencia ejecutoriada. En caso de que ésta fuese condenatoria, el certificado será cancelado y se harán las anotaciones correspondientes en el registro o sistema que corresponda, de acuerdo a las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+###### Artículo 102.
+
+La Procuraduría General de Justicia, deberá proponer el Programa Rector de Profesionalización, que será el instrumento en el que se establecen los lineamientos, programas, actividades y contenidos mínimos para la profesionalización del personal de la institución.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+###### Artículo 103.
+
+Los planes de estudios se integrarán por el conjunto de contenidos teóricos y prácticos estructurados en unidades didácticas de enseñanza y aprendizaje, en los que incluyan talleres de resolución de casos.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2010)</small>
+
+###### Artículo 104.
+
+Los servidores públicos de la procuraduría, están obligados a participar en las actividades de profesionalización que determine la institución, los cuales deberán ser acorde a lo establecido en la Ley General del Sistema Nacional de Seguridad Pública, Ley del Sistema Estatal de Seguridad Pública, ésta Ley y demás disposiciones aplicables.
 
 ## Transitorios
 
@@ -1380,3 +2094,11 @@ Estatal, Peritos y Oficial Secretario 32
 ### Capítulo Único. Disposiciones Generales 39
 
 ## Título Décimo. Disposiciones Finales 40
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE JUNIO DE 2010.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+Segundo.- En tanto se expide el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia, el cual deberá expedirse en un plazo no mayor de noventa días naturales a partir de la entrada en vigor del presente decreto, se aplicará el Reglamento Interior, publicado el diez de enero del año dos mil cuatro, en el Periódico Oficial, órgano del Gobierno del Estado, en todo aquello que no se oponga a las disposiciones del presente decreto.
