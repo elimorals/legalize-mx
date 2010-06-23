@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-operacion-del-comite-tecnico-interno-de-67273"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-10"
-last_updated: "2009-03-10"
+last_updated: "2010-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67273&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-02-19"
 
 REGLAMENTO DE OPERACION DEL COMITE TECNICO INTERNO DE ADMINISTRACION DE DOCUMENTOS DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE JUNIO DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 10 de marzo de 2009.
 
@@ -80,7 +80,9 @@ X. Unidad de Archivo Histórico: La unidad responsable de conservar los document
 
 Para el ejercicio de sus atribuciones, y de conformidad con el artículo 17 de la Ley, el Comité contará con la siguiente estructura, que se refleja en el Anexo 1:
 
-I. El Presidente, que es el Secretario Administrativo del Tribunal;
+> <small>(REFORMADA, G.O. 23 DE JUNIO DE 2010)</small>
+
+I. Una presidencia a cargo del Secretario Administrativo del Tribunal;
 
 II. Un Secretario Técnico, que es el Coordinador de Archivos del Tribunal, y Jefe de Departamento de Archivos adscrito a la Dirección General Jurídica;
 
@@ -136,15 +138,17 @@ Las decisiones y resoluciones se adoptarán por mayoría simple de votos de los 
 
 Los integrantes del Comité que asistan a las sesiones podrán votar afirmativa o negativamente los asuntos que se sometan a su consideración, y se asentará en el acta correspondiente el sentido de su voto.
 
+> <small>(REFORMADO, G.O. 23 DE JUNIO DE 2010)</small>
+
 ###### Artículo 10.
 
-El Presidente del Comité será suplido en sus ausencias por el Director General Jurídico, atendiendo a las atribuciones en materia de transparencia y acceso a la información que tiene este funcionario conforme al artículo 56, fracción XIV, del Reglamento Interior del Tribunal Electoral del Distrito Federal.
+El Presidente del Comité deberá ser asesorado por el Director General Jurídico, atendiendo a las atribuciones en materia de transparencia y acceso a la información pública que tiene este funcionario conforme al artículo 56, fracción XIV, del Reglamento Interior del Tribunal Electoral del Distrito Federal.
 
 ###### Artículo 11.
 
 Sólo en caso extraordinario y debidamente justificado, los integrantes del Comité podrán designar a un suplente de su misma área de adscripción, para la sesión correspondiente. Dicha designación podrá efectuarse hasta en tres ocasiones durante el año.
 
-Lo anterior sin perjuicio de lo dispuesto por el artículo 15 fracción II de este Reglamento.
+> <small>(REFORMADO [N. DE. DEROGADO SEGUNDO PARRAFO], G.O. 23 DE JUNIO DE 2010)</small>
 
 ###### Artículo 12.
 
@@ -172,7 +176,7 @@ Son atribuciones del Presidente:
 
 I. Representar legalmente al Comité en las diligencias a que haya lugar, guardando los principios establecidos en el artículo 7 del presente Reglamento;
 
-II. Delegar sus funciones al titular de la Dirección General Jurídica, de conformidad con las atribuciones que éste tiene en materia de transparencia y acceso a la información pública, que consigna el artículo 56 fracción XIV del Reglamento Interior del Tribunal Electoral del Distrito Federal, para que cubra sus ausencias;
+II. (REFORMADA [N. DE E. DEROGADA], G.O. 23 DE JUNIO DE 2010)
 
 III. Autorizar el orden del día de las sesiones ordinarias y extraordinarias del Comité, elaborado por el Secretario Técnico;
 
@@ -296,9 +300,15 @@ El representante de la Dirección General Jurídica, deberá:
 
 I. Vigilar el cumplimiento de la normatividad en el ámbito de su competencia;
 
-II. Ejercer las funciones como Presidente del Comité ante la ausencia de éste; y
+II. (REFORMADA [N. DE E. DEROGADA], G.O. 23 DE JUNIO DE 2010)
 
 III. Participar en las sesiones del Comité con voz y voto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 23 DE JUNIO DE 2010)</small>
+
+###### Artículo 22
+
+Bis. El titular de la Dirección General Jurídica deberá apoyar al Presidente para el adecuado desarrollo de las sesiones del Comité.
 
 ### Capítulo XI. Del representante de la Contraloría General
 
@@ -346,17 +356,21 @@ ANEXO I
 
 COMITÉ TÉCNICO INTERNO DE ADMINISTRACIÓN DE DOCUMENTOS DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
+> <small>(REFORMADA, G.O. 23 DE JUNIO DE 2010)</small>
+
 ESTRUCTURA
 
 COTECIAD
 
-> <small>N. DE E. VEASE ANEXO 1 EN LA G.O. DE 10 DE MARZO DE 2009, PAGINA 43.</small>
+> <small>N. DE E. VEASE ANEXO 1 EN LA G.O. DE 23 DE JUNIO DE 2010, PAGINA 28.</small>
 
 COMITÉ TÉCNICO INTERNO DE ADMINISTRACIÓN DE DOCUMENTOS DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL (COTECIAD)
 
+> <small>(REFORMADO, G.O. 23 DE JUNIO DE 2010)</small>
+
 DIRECTORIO
 
-> <small>N. DE E. VEASE DIRECTORIO EN LA G.O. DE 10 DE MARZO DE 2009, PAGINAS DE LA 44 A LA 45.</small>
+> <small>N. DE E. VEASE DIRECTORIO EN LA G.O. DE 23 DE JUNIO DE 2010, PAGINAS 28 Y 29.</small>
 
 El suscrito licenciado Gregorio Galván Rivera, Secretario General del Tribunal Electoral del Distrito Federal.
 
@@ -369,3 +383,13 @@ Lo que certifico en ejercicio de la atribución prevista en los artículos 188, 
 México, Distrito Federal, a diecinueve de febrero de dos mil nueve. DOY FE.
 
 (Firma)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 23 DE JUNIO DE 2010.
+
+Primero. La reforma al presente Reglamento entrará en vigor al día siguiente de su publicación en los estrados del Tribunal.
+
+Segundo. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
+
+Tercero. Se derogan todas aquellas disposiciones que se opongan a las contenidas en la normatividad que se reforma.
