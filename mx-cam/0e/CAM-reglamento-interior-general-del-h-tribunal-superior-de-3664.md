@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-general-del-h-tribunal-superior-de-3664"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-08-30"
-last_updated: "1998-04-02"
+last_updated: "2010-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, DE LOS JUZGADOS DE PRIMERA INSTANCIA, MENORES Y DE CONCILIACIÓN Y DE LAS DEMÁS DEPENDENCIAS DEL PROPIO TRIBUNAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el viernes 30 de agosto de 1991.
 
@@ -731,9 +731,31 @@ Los servidores públicos del Poder Judicial del Estado disfrutarán de los desca
 
 Los funcionarios y empleados no deberán interrumpir sus labores sino momentáneamente y por causas justificadas, fuera del caso previsto en el artículo 2o., sólo cuando se trate de trabajos físicos que requieran esfuerzo excesivo que ameriten descansos periódicos.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE JUNIO DE 2010)</small>
+
 ###### Artículo 58.
 
-Las empleadas disfrutarán de licencias por maternidad con goce de salario íntegro conforme a las modalidades que fije el Tribunal Pleno así como los descansos durante el período de lactancia.
+Las empleadas disfrutarán de licencias por maternidad con goce de salario íntegro conforme a las modalidades que fije el Tribunal Pleno, así como los descansos durante el período de lactancia.
+
+La licencia por maternidad podrá ampliarse hasta por quince días naturales más, en caso de que el menor presente problemas de salud al nacer que pongan en riesgo su vida o discapacidad, o en caso de parto múltiple; circunstancia que habrá de comunicarse y acreditarse al Tribunal Pleno del Poder Judicial del Estado.
+
+El padre disfrutará de una licencia de paternidad hasta por diez días hábiles continuos, con goce de salario íntegro, contados a partir del nacimiento respectivo. Debiendo para ello, acreditar ante el Tribunal Pleno, con documento idóneo, su carácter de progenitor. En caso de enfermedad grave o discapacidad del hijo o hija recién nacidos, así como de complicaciones graves de salud, que coloquen en riego la vida de la madre, la licencia de paternidad, remunerada, se extenderá por un periodo igual de diez días hábiles continuos. Si se presentara parto múltiple el permiso o licencia se ampliará por cinco días más.
+
+Cuando fallezca la madre, el padre del recién nacido, tendrá derecho a tomar licencia por el período que hubiere correspondido a ésta.
+
+El trabajador hombre o mujer, a quien se le conceda la adopción de un niño o niña, disfrutará de esta licencia en los siguientes términos:
+
+a) Si el menor tiene entre dos y seis meses, la licencia será de treinta días naturales a la madre.
+
+b) Si el niño o niña tiene entre seis y doce meses, se extenderá una licencia de quince días naturales a la madre.
+
+c) En todos los casos, se extenderá una licencia de diez días al padre.
+
+d) Si el menor es recién nacido y su vida está en peligro, presenta discapacidad, se extenderá la licencia por un período adicional de quince días. Esta extensión será tanto para la madre como para el padre.
+
+Las licencias contempladas en el presente Artículo son irrenunciables.
+
+Para acreditar los derechos señalados anteriormente, será necesario que quien ejerza dichos derechos presente el acta de nacimiento, adopción, o constancia de estado de salud respectiva ante el Tribunal Pleno.
 
 ###### Artículo 59.
 
@@ -1440,3 +1462,7 @@ PRIMERO.- El presente Acuerdo entrará en vigor 10 días después de su publicac
 SEGUNDO.- Se derogan todos los Acuerdos y disposiciones reglamentarias expedidas por el Pleno del H. Tribunal Superior de Justicia del Estado de Campeche, en lo que se opongan al contenido del presente Acuerdo.
 
 TERCERO.- En su oportunidad elaborar el Proyecto de Reglamento Interior y someterlo a la aprobación del Pleno. Entretanto se hacen las correspondientes adecuaciones al Presupuesto de Egresos del Poder Judicial del Estado para el Ejercicio Fiscal de 1998 e instala el Centro de Capacitación y Actualización del Poder Judicial del Estado, el Pleno del Tribunal ha designado una Comisión integrada por tres de sus Magistrados para cumplir con la atribución indicada en la Fracción VII del Artículo 129 que se adiciona.
+
+P.O. 24 DE JUNIO DE 2010.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.
