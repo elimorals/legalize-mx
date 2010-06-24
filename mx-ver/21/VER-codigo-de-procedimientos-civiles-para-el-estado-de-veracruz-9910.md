@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2010-02-22"
+last_updated: "2010-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JUNIO DE 2010.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -518,6 +518,10 @@ Las diligencias que no puedan practicarse en el Distrito en que se siga el juici
 También puede un tribunal, aunque una diligencia deba practicarse dentro de su propia jurisdicción, encomendarla a otro de inferior categoría, si por razón de la distancia u otro motivo poderoso fuere más conveniente que éste la practique.
 
 En este último caso, se empleará el oficio.
+
+> <small>(ADICIONADO, G.O. 24 DE JUNIO DE 2010)</small>
+
+Cuando el oficio que se gire tenga por objeto garantizar el cobro de alimentos, el juez que conozca del asunto lo remitirá en un término máximo de 48 horas, directamente al responsable de la fuente de trabajo, aun cuando la diligencia deba practicarse en un distrito judicial distinto de aquel en el que se sigue el juicio, siempre y cuando se encuentre dentro del territorio del Estado.
 
 ARTICULO 70
 
@@ -6056,6 +6060,12 @@ DECRETO No. 819, POR EL QUE SE REFORMAN LOS ARTICULOS 284 Y 287 DEL CODIGO DE PR
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 24 DE JUNIO DE 2010.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan las disposiciones que contravengan el presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
