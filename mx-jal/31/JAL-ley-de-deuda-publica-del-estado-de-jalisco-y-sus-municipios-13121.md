@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-deuda-publica-del-estado-de-jalisco-y-sus-municipios-131
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-16"
-last_updated: "2008-10-02"
+last_updated: "2010-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 16 de enero de 1997.
 
@@ -335,15 +335,21 @@ Los empréstitos que contraten los municipios, deberán estar previstos en su pr
 
 La deuda que contraten las entidades públicas estatales o municipales así como las garantías que otorguen, deberán ceñirse a las autorizaciones efectuadas por el Congreso del Estado o, en su caso, del ayuntamiento, así como aplicarse precisamente al fin establecido en la autorización señalada para tal efecto. Cualquier modificación al destino del empréstito autorizado así como a las demás especificaciones, requerirán la autorización del órgano competente, salvo lo dispuesto por el artículo 6 de esta ley.
 
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2010)</small>
 
 ###### Artículo 17 Bis.
 
-Únicamente podrán ser afectadas en garantía de cumplimiento de obligaciones, o como fuente de pago, las aportaciones federales derivadas de los fondos que expresamente establece la Ley de Coordinación Fiscal federal, siempre y cuando los financiamientos que den origen a las obligaciones se destinen a los fines previstos para los propios fondos.
+Únicamente podrán ser afectadas para garantizar obligaciones en caso de incumplimiento o servir como fuente de pago de dichas obligaciones las aportaciones federales derivadas de los fondos que expresamente establece la Ley de Coordinación Fiscal, siempre y cuando los financiamientos que den origen a las obligaciones se destinen a los fines previstos en el mencionado ordenamiento.
 
-Las afectaciones a las aportaciones federales por parte de municipios deberán inscribirse en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios cuando cuenten con la garantía del Gobierno del Estado, salvo cuando a juicio de la Secretaria de Hacienda y Crédito Público tengan suficientes aportaciones con cargo al Fondo de Aportaciones para la Infraestructura Social.
+La afectación de las aportaciones federales para el Estado o los municipios se realizará en los términos y modalidades que señala la Ley de Coordinación Fiscal.
 
 No se podrán afectar en garantía más de 25% de los recursos que anualmente le correspondan al Estado o municipio respecto de los fondos que establece la Ley de Coordinación Fiscal.
+
+Tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para cada año podrá destinarse al servicio de las mismas lo que resulte mayor entre aplicar el porcentaje a que se refiere el párrafo anterior a los recursos correspondientes al año de que se trate o a los recursos correspondientes al año en que las obligaciones hayan sido contratadas.
+
+El Ejecutivo del Estado deberá someter a la autorización del Congreso del Estado, la implementación de esquemas globales de financiamiento y garantías o fuente de pago cuando lo requiera, con la afectación de las aportaciones federales en términos de la legislación federal. Así mismo, el Ejecutivo del Estado deberá someter a la autorización del Congreso del Estado la constitución de los mecanismos para efectuar dicha afectación.
+
+Los municipios que así lo decidan y cumplan con los demás requisitos previstos en la Ley de Coordinación Fiscal, podrán adherirse a los esquemas globales antes mencionados, otorgando como garantía o fuente de pago las cantidades que les correspondan de manera individual por concepto de aportación federal.
 
 ###### Artículo 18.
 
@@ -638,3 +644,7 @@ Décimo. Dentro del término de sesenta días naturales, contados a partir de la
 P.O. 2 DE OCTUBRE DE 2008.
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 24 DE JUNIO DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
