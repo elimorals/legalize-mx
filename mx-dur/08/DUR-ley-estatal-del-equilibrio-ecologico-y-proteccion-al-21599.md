@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-del-equilibrio-ecologico-y-proteccion-al-21599"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-27"
-last_updated: "2001-05-27"
+last_updated: "2010-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE GESTION AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO, PUBLICADA EN LA P.O. DE 24 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 27 de mayo de 2001.
 
@@ -1386,3 +1388,15 @@ POR TANTO MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNIQUESE A QUIENES CORRESPOND
 DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS NUEVE DIAS DEL MES DE MAYO DEL DOS MIL UNO.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER; EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO. Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE JUNIO DE 2010.
+
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- La presente Ley abroga la Ley Estatal del Equilibrio Ecológico y Protección al Ambiente del Estado de Durango, aprobada mediante Decreto número 390 de la LXI Legislatura, promulgada y publicada el 27 de mayo de 2001 en el Periódico Oficial del Gobierno Constitucional del Estado de Durango número 42.
+
+TERCERO.- En un plazo de 120 días naturales siguientes después a la publicación del presente Decreto, deberán expedirse los Reglamentos de la presente Ley. Entre tanto, la Secretaría dictará las medidas conducentes para su observancia.
+
+CUARTO.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
