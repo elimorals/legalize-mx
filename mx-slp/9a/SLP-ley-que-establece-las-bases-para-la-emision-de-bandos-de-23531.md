@@ -4,7 +4,7 @@ identifier: "SLP-ley-que-establece-las-bases-para-la-emision-de-bandos-de-23531"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-02"
-last_updated: "2002-02-02"
+last_updated: "2010-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23531&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY QUE ESTABLECE LAS BASES PARA LA EMISION DE BANDOS DE POLICIA Y GOBIERNO, Y ORDENAMIENTOS DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 2 de febrero de 2002.
 
@@ -143,9 +143,17 @@ III. La forma de desarrollar las sesiones;
 
 IV. Las discusiones y forma de votación de los acuerdos del ayuntamiento;
 
-V. La creación de las comisiones del ayuntamiento y las responsabilidades de las mismas, y
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2010)</small>
 
-VI. Las demás disposiciones que sean necesarias para el eficaz funcionamiento del ayuntamiento.
+V. La creación de las comisiones del ayuntamiento y las responsabilidades de las mismas;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2010)</small>
+
+VI. El procedimiento a seguir en el caso de la defunción de algún integrante del ayuntamiento, en el que se deberá atender: la convocatoria urgente para que el ayuntamiento se reúna; lo relativo al pago del funeral con cargo al presupuesto municipal; la designación de quién representará al ayuntamiento en el sepelio; la expresión de condolencias a los familiares sobrevivientes del servidor público fallecido; la entrega al cónyuge, o a quien corresponda conforme a la ley aplicable, del importe de seis meses de sueldo tabulado; y, en su caso, la inserción de esquelas en los medios informativos, que externen las condolencias y den a conocer el fallecimiento, y
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2010)</small>
+
+VII. Las demás disposiciones que sean necesarias para el eficaz funcionamiento del ayuntamiento.
 
 ###### ARTICULO 11.
 
@@ -260,3 +268,11 @@ El Secretario General de Gobierno
 LIC. JORGE DANIEL HERNÁNDEZ DELGADILLO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE JUNIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
