@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-oficialia-mayor-72848"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-15"
-last_updated: "2010-01-15"
+last_updated: "2010-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA OFICIALIA MAYOR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION, PUBLICADO EN EL P.O. DE 24 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el viernes 15 de enero de 2010.
 
@@ -798,3 +800,19 @@ Séptimo.- Cuando en este reglamento se dé una denominación nueva o distinta a
 Dado en el Palacio del Poder Ejecutivo del Estado Libre y Soberano de Nayarit, en Tepic, su capital, a los catorce días del mes de Enero del dos mil diez.
 
 A T E N T A M E N T E "SUFRAGIO EFECTIVO; NO REELECCIÓN" LIC. NEY GONZÁLEZ SÁNCHEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- RÚBRICA.- DR. ROBERTO MEJÍA PÉREZ, SECRETARIO GENERAL DE GOBIERNO.- RÚBRICA.- ING. FELIPE PRADO HOPFNER, SECRETARIO DE PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTO.- RÚBRICA.- ING. FLORENCIO ROMÁN MESSINA, OFICIAL MAYOR DEL GOBIERNO DEL ESTADO.- RÚBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE JUNIO DE 2010.
+
+Primero.
+
+El presente Reglamento entrará en vigor al día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.
+
+Se abroga el Reglamento Interior de la Oficialía Mayor del Gobierno del Estado publicado el 15 de Enero de 2010, en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Tercero.
+
+En tanto se expiden el Manual de Organización de la Secretaría y otros instrumentos administrativos y normativos necesarios para el funcionamiento óptimo, el Secretario tomará las decisiones que sean procedentes de conformidad con la Ley y otras disposiciones legales aplicables.
