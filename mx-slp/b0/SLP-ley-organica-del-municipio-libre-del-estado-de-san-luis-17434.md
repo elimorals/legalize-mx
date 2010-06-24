@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2010-03-25"
+last_updated: "2010-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -499,7 +499,9 @@ X. Proponer para su aprobación al Congreso del Estado, las cuotas y tarifas apl
 
 XI. Reglamentar los espectáculos públicos, la publicidad y anuncios, vigilando que se desarrollen conforme a derecho, a la moral y a las buenas costumbres, y
 
-XII. Formular y aprobar su reglamento interno.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2010)</small>
+
+XII. Formular y aprobar su reglamento interno, en el que se habrá de considerar, entre otros, el procedimiento en caso de que fallezca algún integrante del ayuntamiento, en los términos de la fracción VI del artículo 10 de la Ley que Establece las Bases para la Emisión de Bandos de Policía y Gobierno, y Ordenamientos de los Municipios del Estado de San Luis Potosí.
 
 c) En materia Operativa:
 
@@ -2258,3 +2260,9 @@ P.O. 25 DE MARZO DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 24 DE JUNIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
