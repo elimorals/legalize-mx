@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-del-estado-de-durango-15557"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-30"
-last_updated: "2009-12-31"
+last_updated: "2010-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO FISCAL DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de diciembre de 1999.
 
@@ -770,6 +770,18 @@ VII. Los Recaudadores de Rentas.
 VIII. Las demás legalmente autorizadas, en los términos que establezca el Reglamento Interior de la Secretaría de Finanzas y de Administración.
 
 La competencia y estructura de los distintos órganos de la Secretaría de Finanzas y de Administración, además de lo que establezca este Código, se regularán en el correspondiente Reglamento Interior que expida el Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2010)</small>
+
+Las autoridades fiscales del Estado ejercerán su competencia en el territorio del mismo, de conformidad con los lineamientos establecidos en el presente Código, demás leyes y ordenamientos estatales y federales aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2010)</small>
+
+En tratándose de facultades delegadas por la Federación al Estado: las autoridades Fiscales Estatales ejercerán su competencia en todo el territorio del Estado de Durango, salvo las descritas en la fracción VII del presente artículo.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2010)</small>
+
+Las autoridades contempladas en la fracción VII del presente artículo, ejercerán su competencia en el territorio que marca su propio Reglamento y las demás leyes aplicables.
 
 ###### ARTICULO 66.
 
@@ -2742,3 +2754,7 @@ P.O. 31 DE DICIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día 1 (uno) de enero del año 2010.
+
+P.O. 24 DE JUNIO DE 2010.
+
+Ú N I C O.- El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
