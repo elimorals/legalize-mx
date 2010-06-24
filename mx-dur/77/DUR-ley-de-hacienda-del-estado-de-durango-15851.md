@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2010-04-04"
+last_updated: "2010-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -359,33 +359,45 @@ I. Inscribirse ante la oficina recaudadora correspondiente a su domicilio fiscal
 
 II (DEROGADA, P.O. 21 DE DICIEMBRE DE 2006)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2010)</small>
 
-### CAPITULO IV. DEL IMPUESTO SOBRE HONORARIOS POR SERVICIOS MEDICOS PROFESIONALES
+### CAPITULO IV. DEL IMPUESTO A LAS DEMASIAS CADUCAS
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 26.
 
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
+Es objeto del presente impuesto, las demasías caducas, siendo estas, los remanentes que quedan a favor de los pignorantes y que puestos a disposición de estos últimos no son cobrados a las Casas de Empeño o, establecimientos, después de que éstas últimas descuentan del monto de la venta de la prenda, el préstamo, los intereses devengados, los gastos de almacenaje y de operación.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 27.
 
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
+Son sujetos del presente impuesto, las personas físicas y morales que derivado de los préstamos que realizan mediante la celebración de contratos de mutuo con interés y garantía prendaria, oferten al público los objetos pignorados que no fueren redimidos a su vencimiento o refrendados por los pignorantes.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 28.
 
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
+La base del presente impuesto será la suma total de las demasías caducas.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 29.
 
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
+El impuesto se determinará aplicando a la base que señala el artículo anterior, la tasa del 35%.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 30.
 
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
+El impuesto causado se pagará mediante declaración que se presentará en la oficina recaudadora que corresponda al domicilio fiscal del contribuyente o bien en la oficina que para tal efecto autorice la Secretaría de Finanzas y de Administración, y se enterará a más tardar el día 17 del mes siguiente a aquel en que se causó.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 31.
 
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
+Los sujetos del presente impuesto tienen la obligación de informar a la Secretaría de Finanzas y de Administración, a más tardar el último día del mes de febrero de cada año, las demasías caducas obtenidas en el ejercicio fiscal anterior.
 
 ### CAPITULO V. DEL IMPUESTO SOBRE JUEGOS CON APUESTAS, RIFAS, LOTERIAS, SORTEOS Y PREMIOS
 
@@ -1411,11 +1423,11 @@ explosivos y sus artificios. 5
 
 (REFORMADA, P.O. 15 DE DICIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
 
-VII.- Expedición de constancias de existencia o no,
+VII.- Expedición de constancias de
 
-de antecedentes penales o de cualquier otra
+existencia o no, de antecedentes
 
-constancia. 1
+penales o de cualquier otra constancia. 1
 
 VIII.- Cualquier otro certificado o certificación
 
@@ -1465,11 +1477,49 @@ XV.- Expedición de constancias de
 
 no inhabilitación: 3
 
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2010)</small>
+
+XVI.- El otorgamiento de permisos para la instalación y funcionamiento, modificación, renovación y cancelación de los establecimientos, regulados por la Ley que regula las Casas de Empeño en el Estado de Durango causarán los derechos siguientes:
+
+DÍAS DE
+
+SALARIO
+
+a) Por el estudio de viabilidad para su
+
+instalación y funcionamiento: 10
+
+b) Por la expedición del permiso para
+
+su instalación y funcionamiento: 400
+
+c) Por la modificación de permiso: 100
+
+d) Por la revalidación anual: 240
+
+e) Por su cancelación: 5
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2010)</small>
+
+XVII.- El otorgamiento de permisos para la instalación y funcionamiento, modificación, renovación y cancelación de las sucursales de los establecimientos regulados por la Ley que regula las Casas de Empeño en el Estado de Durango causarán los derechos siguientes:
+
+a) Por el estudio de viabilidad para su
+
+instalación y funcionamiento: 10
+
+b) Por la expedición del permiso para
+
+su instalación y funcionamiento: 100
+
+c) Por la modificación de permiso: 25
+
+d) Por la revalidación anual: 60
+
+e) Por su cancelación: 5
+
 (ADICIONADO, P.O. 15 DE DICIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
 
-###### ARTÍCULO 57 Bis.
-
-Las personas físicas y morales que soliciten información, ante el ente público que la posea, mediante el procedimiento de acceso a la información pública que establece la propia Ley de Acceso a la Información Pública del Estado de Durango, causarán el pago de derechos en base a días de salario o fracción del mismo, conforme a lo siguiente:
+ARTICULO 57 BIS.- Las personas físicas y morales que soliciten información, ante el ente público que la posea, mediante el procedimiento de acceso a la información pública que establece la propia Ley de Acceso a la Información Pública del Estado de Durango, causarán el pago de derechos en base a días de salario o fracción del mismo, conforme a lo siguiente:
 
 DÍAS DE PORCENTAJE
 
@@ -1525,9 +1575,7 @@ COMISION PARA LA PROTECCION CONTRA RIESGOS SANITARIOS
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
-###### ARTICULO 69 Bis.
-
-1.- Los servicios que presta la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Durango, como órgano desconcentrado de la Secretaría de Salud, causarán derechos conforme a una cuota fija representada en salarios mínimos o fracción en los supuestos siguientes:
+ARTICULO 69 BIS 1.- Los servicios que presta la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Durango, como órgano desconcentrado de la Secretaría de Salud, causarán derechos conforme a una cuota fija representada en salarios mínimos o fracción en los supuestos siguientes:
 
 De las autorizaciones:
 
@@ -1776,6 +1824,82 @@ d) Expedición de copias certificadas de documentos; por
 cada foja: .2
 
 e) Otros servicios no considerados: 10
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2010)</small>
+
+ARTICULO 69 BIS 2.- Los Servicios que presta la Secretaría de Seguridad Pública, en el territorio del Estado de Durango, causarán derechos conforme a una cuota fija representada en salarios mínimos o fracción conforme a lo siguiente:
+
+I. De la autorización y otros trámites para el funcionamiento de las empresas de seguridad privada:
+
+CONCEPTO CUOTA
+
+1. Por el estudio y trámite de la solicitud para la
+
+autorización o para su revalidación: 37
+
+2. Los derechos por la expedición de la autorización o su revalidación de acuerdo a cada modalidad de Seguridad Privada se causarán:
+
+a) Para prestar los servicios de traslado y protección
+
+de personas. 230
+
+b) Para prestar los servicios de traslado y custodia
+
+de bienes o valores. 226
+
+c) Para prestar los servicios de vigilancia en inmuebles. 230
+
+d) Para prestar los servicios de localización e
+
+información sobre personas físicas o morales y bienes. 214
+
+e) Por la prestación del servicio consistente en la
+
+preservación, integridad y disponibilidad de la
+
+información del prestatario, vinculada directamente
+
+con los servicios de seguridad privada. 214
+
+f) Prestación de servicios relacionados de manera
+
+directa o indirecta con la instalación o comercialización
+
+de sistemas de blindaje en todo tipo de vehículos
+
+automotores y vinculada directamente con los servicios
+
+de seguridad privada. 214
+
+g) Prestación de servicios relacionados con la actividad
+
+de sistemas de alarmas a establecimientos industriales,
+
+comerciales o a casas habitación y vinculada
+
+directamente con servicios de seguridad privada. 214
+
+3. Por la inscripción en el Registro Nacional del
+
+Personal de Seguridad Pública. Por cada persona
+
+física operativa con que cuentan los prestadores
+
+de servicios de seguridad privada. 2
+
+4. Por la consulta de antecedentes, policiales en el
+
+Registro Nacional del Personal de Seguridad Pública,
+
+y en el Registro Estatal, respecto a cada persona
+
+operativa con que cuentan los prestadores de servicios
+
+de seguridad privada. 1
+
+5. Por la expedición de cada cédula de identificación del
+
+personal operativo, misma que será de uso obligatorio. 1
 
 ###### ARTICULO 58.
 
@@ -2906,3 +3030,17 @@ Primero.- El presente Decreto entrará en vigor el día 1 de enero del año 2010
 P.O. 4 DE ABRIL DE 2010.
 
 Ú N I C O.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+P.O. 24 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, e iniciará su vigencia el día que entre en vigor la "Ley que Regula las Casas de Empeño en el Estado de Durango".
+
+###### ARTÍCULO SEGUNDO.
+
+Las Casas de Empeño ya instaladas en el Estado, le será aplicable el artículo Segundo Transitorio de la Ley mencionada en el párrafo que antecede y deberá cubrir para seguir con su funcionamiento, los derechos que establece el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las personas físicas o morales que presten servicios de seguridad privada a que hace referencia la presente iniciativa y que ya estén instaladas con anterioridad a la fecha del presente Decreto, para seguir con su funcionamiento, deberán cubrir los derechos que en este decreto se establecen.
