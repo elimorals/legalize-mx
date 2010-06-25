@@ -4,7 +4,7 @@ identifier: "FED-bases-generales-de-organizacion-y-funcionamiento-del-14994"
 country: "mx"
 rank: "otro"
 publication_date: "1998-11-26"
-last_updated: "2008-05-19"
+last_updated: "2010-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-11-12"
 
 BASES GENERALES DE ORGANIZACION Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2010.
 
 Bases publicadas en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de noviembre de 1998.
 
@@ -357,65 +357,57 @@ Artículo 13 bis.- Las Delegaciones se establecerán, conforme a las necesidades
 
 En el primer circuito funcionarán la Dirección de Prestación del Servicio de Defensa Penal y la Dirección de Prestación del Servicio de Asesoría Jurídica, adscritas orgánicamente a la Unidad de Defensa Penal y Evaluación del Servicio y a la Unidad de Asesoría Jurídica y Evaluación del Servicio, respectivamente. Contarán con un Director y el personal profesional y administrativo que determine el presupuesto.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2010)</small>
 
-Artículo 13 ter.- Son atribuciones del Delegado y del Director de Prestación del Servicio, en su circunscripción territorial y en la materia de su competencia:
+Artículo 13 ter.- Los Delegados y los Directores de Prestación del Servicio tendrán las atribuciones y obligaciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
+I. Planear, organizar, dirigir y supervisar el trabajo, el control administrativo, la gestión y el seguimiento de acciones institucionales con el personal profesional, administrativo, de apoyo y con defensores públicos y asesores jurídicos federales adscritos en cada Delegación o Dirección;
 
-I. Realizar la supervisión documental de defensores y asesores y remitir los diagnósticos, en forma coordinada con el programa anual de visitas de supervisión directa, a la Unidad de Supervisión y Control de Defensa Penal y Asesoría Jurídica;
+II. Realizar, de manera permanente, la supervisión documental a defensores y asesores para constatar que la información y documentación, a que se refieren los artículos 42 y 44 de estas Bases, se haya remitido conforme lo indican tales preceptos;
 
-> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
+III. Resguardar los expedientes de control cuidando que se encuentren debidamente integrados y remitir los diagnósticos, en forma coordinada con el programa anual de visitas de supervisión directa, a la Unidad de Supervisión y Control de Defensa Penal y Asesoría Jurídica;
 
-II. Designar defensor público o asesor jurídico sustituto o suplente, en los casos de impedimento o faltas temporales, respectivamente;
+IV. Supervisar que los defensores y asesores mantengan permanentemente actualizada la información, relacionada con sus respectivas funciones, que sea necesario registrar en los sistemas electrónicos empleados por el Instituto;
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
+V. Designar defensor público o asesor jurídico sustituto o suplente en los casos de faltas temporales o impedimento a fin de evitar que se actualice la hipótesis del tipo penal prevista en la fracción I del artículo 232 del Código Penal Federal, así como a los defensores públicos que atiendan, por turno, las solicitudes que se presenten en materia de ejecución de sentencias;
 
-III. Designar al defensor público o asesor jurídico que corresponda, según la naturaleza del caso, cuando exista requerimiento de un órgano jurisdiccional federal relacionado con asuntos en los que tengan competencia para intervenir;
+VI. Concentrar, validar y enviar a la Dirección General la información estadística requerida, así como proporcionar, oportuna y verazmente, la información que solicite la Dirección General, las Unidades Administrativas o las Secretarías Técnicas;
 
-> <small>(ADICIONADA, D.O.F. 19 DE MAYO DE 2008)</small>
+VII. Cumplir con el horario de labores y estar presentes en su Delegación o Dirección a efecto de resolver oportunamente los problemas que se susciten, salvo cuando el Director General los comisione o autorice a faltar para atender asuntos propios debidamente justificados o realicen visitas de trabajo, acudan ante autoridades o centros de reclusión;
 
-III bis. Designar a los defensores públicos que atiendan, por turno, las solicitudes que se presenten en materia de ejecución de sentencias;
+VIII. Vigilar que se cumplan los horarios de trabajo determinados, estableciendo los mecanismos de control necesarios y preservar la disciplina de todo el personal;
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
+IX. Programar los períodos vacacionales, con los ajustes derivados de los permisos concedidos y remitirlos, oportunamente, a la Dirección General para su aprobación;
 
-IV. Concentrar, validar y enviar a la Dirección General la información estadística requerida;
+X. Acordar, conforme a los lineamientos establecidos, las solicitudes planteadas para ausentarse del trabajo hasta por tres días con causa justificada a cuenta de vacaciones o con goce de sueldo en casos extraordinarios, debiendo documentarlo y haciéndolo del conocimiento de la Unidad de Apoyo Operativo;
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
+XI. Practicar visitas de trabajo cuando menos una vez al año y, conforme a disponibilidades presupuestales, a cada una de las adscripciones de asesores y defensores de su circunscripción;
 
-V. Vigilar que se cumplan los horarios de trabajo determinados, estableciendo los mecanismos de control necesarios, y preservar la disciplina de todo el personal;
+XII. Identificar y supervisar el óptimo y eficiente manejo de los recursos humanos y materiales, ejecutando las acciones necesarias para el excelente funcionamiento de la Delegación o Dirección;
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
+XIII. Efectuar labores de difusión de los servicios que proporciona el Instituto, con la participación de defensores públicos, asesores jurídicos, personal de apoyo operativo y administrativo;
 
-VI. Programar los períodos vacacionales, con los ajustes derivados de los permisos concedidos, y remitirlos oportunamente a la Dirección General para su aprobación;
+XIV. Cuidar que se cumplan las disposiciones de la Dirección General y resolver, con el conocimiento de ésta, los problemas que se presenten y no admitan demora, velando en todo momento por el buen funcionamiento de la Delegación o Dirección de Prestaciones correspondiente;
 
-> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
+XV. Cuando en una ciudad estén adscritos dos o más asesores jurídicos, vigilar que la carga de trabajo sea repartida equitativamente en cada una de las modalidades de la prestación del servicio, estableciendo un sistema de recepción y turno de asuntos;
 
-VII. Acordar a cuenta de vacaciones las solicitudes para ausentarse del trabajo con causa justificada, hasta por tres días, comunicándolo a la Unidad de Apoyo Operativo;
+XVI. Proponer a la Dirección General, en forma fundada y motivada, cambios de adscripción del personal de apoyo y administrativo de la Delegación a su cargo;
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
+XVII. Levantar las actas correspondientes y remitirlas, inmediatamente, a la Dirección General junto con la documentación que respalde su actuación a fin de que se inicie el procedimiento administrativo que corresponda, cuando tenga conocimiento de que algún servidor público adscrito a la Delegación o Dirección incurra en omisión o incumpla sus obligaciones;
 
-VIII. Practicar visitas de trabajo, cuando menos una vez al año y conforme a disponibilidades presupuestales, a cada una de las adscripciones de asesores y defensores de su circunscripción;
+XVIII. Comunicar, inmediatamente, a la Dirección General, con todos los datos, las conductas de las que tuviere conocimiento, realizadas por un servidor público integrante del Instituto Federal de Defensoría Pública, aunque no pertenezca a su adscripción, que afecte la buena fama o la imagen del Instituto;
 
-> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
+XIX. Llevar a cabo las gestiones institucionales que correspondan ante los órganos jurisdiccionales, ministeriales o administrativos que coadyuven al eficaz desarrollo de las funciones de los defensores públicos y asesores jurídicos;
 
-IX. Llevar el control de libros, archivos, bienes muebles y equipos de cómputo;
+XX. Cumplir, eficiente y oportunamente, con las intervenciones que en casos concretos acuerde el Director General y con los asuntos que les sean turnados por los titulares de las Unidades o Secretarios Técnicos, así como verificar que las comisiones encargadas a defensores públicos o asesores jurídicos se cumplan de manera eficiente y oportuna;
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
+XXI. Abstenerse de realizar actos o incurrir en omisiones que sean contrarios al buen funcionamiento de la Delegación o Dirección a su cargo o que generen conflictos entre el personal;
 
-X. Efectuar labores de difusión de los servicios que proporciona el Instituto, con la participación de defensores públicos, asesores jurídicos, personal de apoyo y administrativo;
+XXII. Ser enlace con las demás Delegaciones o Direcciones de Prestación del Servicio en la atención de asuntos que comprendan dos o más Delegaciones o Direcciones;
 
-> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
+XXIII. Informar a la Dirección General sobre las necesidades de capacitación advertidas o demandadas en la Delegación o Dirección en la que se encuentre adscrito;
 
-XI. Cuidar que se cumplan las disposiciones de la Dirección General y resolver, con el conocimiento de ésta, los problemas que se presenten y no admitan demora;
-
-> <small>(ADICIONADA, D.O.F. 19 DE MAYO DE 2008)</small>
-
-XII. Cuando en una ciudad estén adscritos dos o más asesores jurídicos, vigilar que la carga de trabajo sea repartida equitativamente en cada una de las modalidades de la prestación del servicio, estableciendo un sistema de recepción y turno de asuntos; y,
-
-> <small>(ADICIONADA, D.O.F. 19 DE MAYO DE 2008)</small>
-
-XIII. Proponer a la Dirección General, en forma fundada y motivada, cambios de adscripción del personal de apoyo y administrativo de la Delegación a su cargo.
+XXIV. Las demás que determine la Dirección General.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
@@ -1247,6 +1239,10 @@ Cuando se advierta irregularidad o falta grave en el desempeño de la función, 
 
 El servicio civil de carrera regula la selección, ingreso, adscripción, permanencia, promoción, capacitación, prestaciones, estímulos y sanciones del defensor público y asesor jurídico del Instituto, en los términos que establece el artículo 8 de la Ley.
 
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2010)</small>
+
+Cada uno de los componentes del servicio civil de carrera son de naturaleza laboral y estarán regidos por las necesidades del servicio.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
 
 ###### Artículo 64.
@@ -1287,37 +1283,41 @@ La adscripción se otorgará después de realizar el procedimiento de readscripc
 
 Para el desempeño de sus funciones, al defensor público se le adscribe indistintamente ante el Ministerio Público de la Federación o ante los tribunales federales que conozcan de la materia penal; al asesor jurídico, se le adscribe en las ciudades donde radican los órganos jurisdiccionales federales, o en aquellas en que existan requerimientos del servicio.
 
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2010)</small>
 
 ###### Artículo 68.
 
-Para conceder el cambio de adscripción solicitado por un defensor público, asesor jurídico, supervisor o delegado del Instituto, debe considerarse lo siguiente:
+El Director General, para acordar el cambio de adscripción o sede solicitados por un defensor público, asesor jurídico, supervisor o delegado del Instituto, tendrá en cuenta, primordialmente, las necesidades del servicio y, además, lo siguiente:
+
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
 I. Que exista plaza definitiva disponible;
 
-II. La antigüedad en la institución encargada de la defensa pública federal, así como en la plaza y lugar de adscripción actual que deberá ser mayor de un año, excepto casos de necesidades del servicio;
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2010)</small>
+
+II. La antigüedad en la institución encargada de la defensa pública federal, así como en la plaza y lugar de adscripción actual que deberá ser mayor de un año, excepto casos de necesidad del servicio;
+
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
 III. La calidad del desempeño, con base en los resultados que arrojen la supervisión y evaluación, y
 
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
+
 IV. La disciplina del servidor público dentro de la institución.
 
-> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2010)</small>
 
-En el caso de defensores y asesores, la solicitud deberán presentarla dentro del procedimiento de readscripción respectivo. No se concederán cambios de adscripción por petición, de una plaza de defensor público a una de asesor jurídico, y viceversa; en todo caso, el interesado en el cambio deberá participar en el concurso de oposición correspondiente.
+En el caso de defensores, asesores y delegados, la solicitud deberán presentarla dentro del procedimiento de readscripción respectivo. No se concederán cambios de adscripción por petición, de una plaza de defensor público a una de asesor jurídico, y viceversa; en todo caso, el interesado en el cambio deberá participar en el concurso de oposición correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2010)</small>
 
 ###### Artículo 69.
 
-La permanencia en la adscripción, así como en el cargo de defensor público y asesor jurídico, está sujeta a los resultados de la supervisión y evaluación previstas en estas Bases, a lo resuelto en las quejas administrativas presentadas en su contra, y a sus antecedentes laborales.
+Acorde a la calidad de servidores públicos de confianza que previene el artículo 9 de la Ley, los defensores públicos, los asesores jurídicos, los supervisores, los evaluadores y los delegados del Instituto, no tienen derecho sobre adscripciones o sedes determinadas. La permanencia en el cargo de los servidores públicos mencionados está sujeta a los resultados de la supervisión y evaluación previstas en estas Bases, a sus antecedentes laborales y a lo resuelto en las quejas administrativas presentadas en su contra.
 
-> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2008)</small>
+Cuando la puntuación obtenida por un defensor, asesor, supervisor, evaluador o delegado en dos evaluaciones consecutivas se encuentre en el parámetro de deficiente, conforme a estas Bases, procederá su cese.
 
-Cuando la puntuación obtenida por un defensor o asesor en dos evaluaciones consecutivas se encuentre en el parámetro deficiente establecido en el artículo 59, fracción VI, de estas Bases, el Director General ordenará su cambio de adscripción y lo prevendrá, por escrito, para que mejore la calidad del servicio que tiene encomendado. Si a pesar de esa prevención, en la siguiente evaluación se califica de deficiente su actuación, se tramitará el cese del trabajador.
-
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2002)</small>
-
-Antes de ordenar el cambio de adscripción o el trámite del cese, el Director General concederá audiencia al interesado para que, por escrito o verbalmente, manifieste lo que a sus intereses convenga.
+El Director General podrá acordar el cambio de sede o adscripción de un defensor público, asesor jurídico, supervisor o delegado, por necesidades del servicio.
 
 > <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 2008)</small>
 
@@ -1496,3 +1496,7 @@ UNICO.- Las presentes reformas y adiciones a las Bases Generales de Organizació
 D.O.F. 19 DE MAYO DE 2008.
 
 UNICO.- Las presentes reformas y adiciones a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, deberán publicarse en el Diario Oficial de la Federación y entrarán en vigor el día 1o. de agosto de dos mil ocho.
+
+D.O.F. 25 DE JUNIO DE 2010.
+
+UNICO.- Las presentes reformas y adiciones a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, deberán publicarse en el Diario Oficial de la Federación y entrarán en vigor el día siguiente de su publicación.
