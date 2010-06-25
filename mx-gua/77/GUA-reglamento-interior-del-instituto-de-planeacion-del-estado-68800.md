@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-planeacion-del-estado-6880
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-29"
-last_updated: "2009-05-29"
+last_updated: "2010-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE PLANEACION DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2010.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 29 de mayo de 2009.
 
@@ -227,9 +227,11 @@ c) Dirección de Innovación Institucional; y
 
 II. Subdirección General de Procesos:
 
-a) Coordinación de Investigación Aplicada:
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2010)</small>
 
-a.1) Dirección General de Población;
+a) Dirección General de Población:
+
+a.1) (DEROGADO, P.O. 25 DE JUNIO DE 2010)
 
 a.2) Dirección de Estudios y Análisis.
 
@@ -435,7 +437,9 @@ Unidades adscritas a la Subdirección General de Procesos
 
 El Subdirector General de Procesos, deberá planear, coordinar, apoyar, supervisar y evaluar el trabajo de las siguientes unidades administrativas:
 
-I. Coordinación de Investigación Aplicada;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2010)</small>
+
+I. Dirección General de Población;
 
 II. Dirección General de Información para la Planeación;
 
@@ -467,65 +471,29 @@ VII. Coordinar, al interior del IPLANEG, la investigación de nuevas tendencias 
 
 VIII. Coordinar la identificación y diseño de nuevos proyectos para el desarrollo del Estado de Guanajuato, en el ámbito de competencia del IPLANEG.
 
-### Capítulo II. Coordinación de Investigación Aplicada
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JUNIO DE 2010)</small>
+
+### Capítulo II. Dirección General de Población
 
 #### Sección Primera. Integración y atribuciones
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2010)</small>
+
 ###### Artículo 28.
 
-Unidades adscritas a la Coordinación de Investigación Aplicada
+Unidad adscrita a la Dirección General de Población
 
-La Coordinación de Investigación Aplicada deberá planear, apoyar, coordinar y supervisar el trabajo de las siguientes unidades administrativas:
+La Dirección General de Población deberá planear, apoyar, coordinar y supervisar el trabajo de la Dirección de Estudios y Análisis.
 
-I. Dirección General de Población;
-
-II. Dirección de Estudios y Análisis.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2010)</small>
 
 ###### Artículo 29.
-
-Atribuciones del Coordinador de Investigación Aplicada
-
-El Coordinador de Investigación Aplicada tendrá las siguientes atribuciones:
-
-I. Realizar análisis, diagnósticos y proyectos de investigación en materia de políticas de desarrollo integral para el Estado de Guanajuato, para orientar la toma de decisiones;
-
-II. Coadyuvar en la operación de los observatorios ciudadanos en materia de población y sociedad, innovación y competitividad, territorio y región;
-
-III. Promover la participación de los centros académicos y de investigación en la elaboración de estudios de investigación aplicada, en el ámbito de competencia del IPLANEG;
-
-IV. Promover la vinculación de los estudios de investigación con los instrumentos de planeación estatal, regional y municipal;
-
-V. Proponer, desarrollar y coordinar instrumentos técnicos y líneas de investigación para incorporarlos en la planeación, seguimiento, evaluación y actualización de las políticas de desarrollo del Estado de Guanajuato;
-
-VI. Participar en el seguimiento de los acuerdos que en materia de políticas de desarrollo en materia económica, social y demográfica;
-
-VII. Coordinar y asesorar en el diseño, construcción, actualización e implementación de indicadores que midan el desarrollo de la Entidad;
-
-VIII. Proponer, coordinar y asesorar estudios e investigaciones que identifiquen proyectos y acciones específicos que le sean asignados al IPLANEG;
-
-IX. Coadyuvar en la elaboración de modelos e instrumentos de evaluación continuo (sic) de planes, programas y acciones de gobierno;
-
-X. Proponer la inclusión de los criterios sociodemográficos y de prospectiva en la planeación del desarrollo;
-
-XI. Coordinar la formulación y seguimiento de las políticas públicas en materia demográfica en el Estado con la participación de la sociedad civil organizada;
-
-XII. Coordinar el seguimiento a los acuerdos que en materia de políticas de población celebren el Ejecutivo del Estado con la Federación y los municipios;
-
-XIII. Supervisar estudios e investigaciones con el sector académico que midan el impacto de las acciones de gobierno en el mediano y largo plazo;
-
-XIV. Desarrollar técnicas y modelos de evaluación del desarrollo del estado; y
-
-XV. Las demás que le confiera su superior inmediato.
-
-#### Sección Segunda. Dirección General de Población
-
-###### Artículo 30.
 
 Atribuciones del Director General de Población
 
 El Director General de Población además de las atribuciones genéricas, tendrá las siguientes:
 
-I. Proponer elementos sociodemográficos para la elaboración de la política de población;
+I. Proponer elementos sociodemográficos para la elaboración de la política de Población;
 
 II. Coordinar la operación del Consejo Especial de Población y sus comisiones de trabajo;
 
@@ -537,13 +505,13 @@ V. Coordinar el proceso de elaboración, seguimiento, evaluación y actualizaci�
 
 VI. Promover la vinculación del Programa Especial de Población con los instrumentos de planeación estatal, regional y municipal;
 
-VII. Proponer, desarrollar y coordinar instrumentos técnicos y líneas de investigación para incorporarlos en la planeación, seguimiento, evaluación y actualización de la política de población;
+VII. Proponer, desarrollar y coordinar instrumentos técnicos y líneas de investigación para incorporarlos en la planeación, seguimiento, evaluación y actualización de la política de Población;
 
 VIII. Promover la actualización y evaluación de la información de carácter sociodemográfico que requieren los diversos sectores, instancias y ámbitos de gobierno;
 
 IX. Proponer y promover el diseño de programas y proyectos que integren los lineamientos de planeación demográfica en la política de desarrollo;
 
-X. Coordinar el seguimiento de los acuerdos que en materia de política de población celebren el Ejecutivo del Estado con la Federación y con los municipios del Estado;
+X. Coordinar el seguimiento de los acuerdos que en materia de política de población celebre el Ejecutivo del Estado con la Federación y con los municipios del Estado;
 
 XI. Coadyuvar a la difusión, asesoría y desarrollo de estudios en materia demográfica a las instancias gubernamentales y no gubernamentales, así como la difusión de la política de población;
 
@@ -555,9 +523,13 @@ XIV. Implementar la Política Nacional de Población en el Estado; y
 
 XV. Coordinar, vincular y participar en acciones, programas y proyectos regionales en materia de población.
 
-#### Sección Tercera. Dirección de Estudios y Análisis
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JUNIO DE 2010)</small>
 
-###### Artículo 31.
+#### Sección Segunda. Dirección de Estudios y Análisis
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2010)</small>
+
+###### Artículo 30.
 
 Atribuciones del Director de Estudios y Análisis
 
@@ -580,6 +552,12 @@ VII. Desarrollar indicadores de desarrollo de la entidad;
 VIII. Definir políticas, normas y criterios mínimos pertinentes en cuanto a la información usada y elaboración de documentos, tablas y gráficas, al interior del IPLANEG; y
 
 IX. Realizar el análisis de los principales problemas demográficos, económicos, territoriales y de medio ambiente en el Estado, para su inclusión en la planeación del desarrollo estatal, regional e interregional, en coordinación con las instancias competentes.
+
+#### Sección Tercera. Dirección de Estudios y Análisis
+
+###### Artículo 31.
+
+(DEROGADO, P.O. 25 DE JUNIO DE 2010)
 
 ### Capítulo III. Dirección General de Información para la Planeación
 
@@ -938,3 +916,9 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE JUNIO DE 2010.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
