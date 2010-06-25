@@ -4,7 +4,7 @@ identifier: "VER-estatuto-de-los-alumnos-del-colegio-de-veracruz-55744"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-05-25"
-last_updated: "2010-03-23"
+last_updated: "2010-06-25"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 ESTATUTO DE LOS ALUMNOS DEL COLEGIO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JUNIO DE 2010.
 
 Estatuto publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 25 de mayo de 2007.
 
@@ -479,15 +479,19 @@ El Colegio de Veracruz podrá otorgar a sus alumnos becas para realizar sus estu
 
 Los alumnos como integrantes de la comunidad académica participarán en la planeación y toma de decisiones de El Colegio de Veracruz acreditando un representante ante el Consejo Técnico que tendrá el carácter de Consejero Alumno.
 
-###### Artículo 79.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JUNIO DE 2010)</small>
 
-Para ser Consejero Alumno, se deberán cubrir los requisitos siguientes:
+Artículo 80 (sic). Para ser Consejero Alumno, se deberán cubrir los requisitos siguientes:
 
 a). Ser mexicano;
 
-b). Ser alumno de los dos últimos semestres de cualquier nivel de estudios que ofrezca El Colegio de Veracruz;
+> <small>(REFORMADO, G.O. 25 DE JUNIO DE 2010)</small>
 
-c). Haber obtenido en sus estudios previos en la institución un promedio de calificación mínimo de 9;
+b). Ser alumno inscrito, con el 50% de los créditos académicos cubiertos en cualquier nivel de estudios que ofrezca El Colegio de Veracruz;
+
+> <small>(REFORMADO, G.O. 25 DE JUNIO DE 2010)</small>
+
+c). Haber obtenido en sus estudios en la institución un promedio mínimo de 8.5 de calificación; y,
 
 d). No haber sancionado por faltas graves.
 
@@ -553,9 +557,9 @@ i). Todas las demás que le conceda el Decreto de Creación, el Reglamento Inter
 
 ### CAPÍTULO XI. DE LAS OBLIGACIONES
 
-###### Artículo 88.
+###### Artículo 89.
 
-Los alumnos de El Colegio de Veracruz tendrán las obligaciones siguientes:
+(SIC) Los alumnos de El Colegio de Veracruz tendrán las obligaciones siguientes:
 
 a). Conocer, observar y cumplir el Reglamento Interno y demás disposiciones de la institución;
 
@@ -581,11 +585,17 @@ k). Justificar sus ausencias en clases, en caso de salud, mediante certificado m
 
 l). No traer objetos de valor, o responsabilizarse por el cuidado de sus pertenencias, ya que ante los extravíos de estas, El Colegio de Veracruz, queda exento de toda responsabilidad;
 
-m). Todas las demás señaladas en la normatividad de El Colegio de Veracruz.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE JUNIO DE 2010)</small>
+
+m). Citar con precisión, en los trabajos que le encomienden sus profesores o en la elaboración de su tesis profesional o de grado, las fuentes que identifiquen la autoría de los documentos consultados; y
+
+n). Todas las demás señaladas en la normatividad de El Colegio de Veracruz.
+
+### CAPÍTULO XII. DE LAS INFRACCIONES
 
 ###### Artículo 89.
 
-Se considerarán infracciones de los alumnos las siguientes:
+(SIC) Se considerarán infracciones de los alumnos las siguientes:
 
 a). Utilizar los bienes de El Colegio de Veracruz para fines distintos de aquellos a los que están destinados;
 
@@ -601,9 +611,13 @@ f). Portar y usar armas dentro de las instalaciones de El Colegio de Veracruz;
 
 g). Incumplir las comisiones y obligaciones como representante ante las autoridades de la institución;
 
-h). Y cualesquiera otras que atenten contra el respeto, orden y la sana convivencia de los miembros de la comunidad de El Colegio de Veracruz.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE JUNIO DE 2010)</small>
 
-### CAPÍTULO XII. DE LAS INFRACCIONES
+h). El plagio que cometiere en la presentación, ya sea por escrito o en audiovisuales de sus trabajos encomendados por un profesor o aquellos de carácter recepcional, será sancionado con la baja definitiva de El Colegio; y,
+
+> <small>(REFORMADO, G.O. 25 DE JUNIO DE 2010)</small>
+
+i). Cualesquiera otras que atenten contra el respeto, orden y la sana convivencia de los miembros de la comunidad de El Colegio de Veracruz.
 
 ### CAPÍTULO XIII. DE LAS SANCIONES
 
@@ -672,3 +686,11 @@ G.O. 23 DE MARZO DE 2010.
 Primero. Publíquese en la Gaceta Oficial del estado.
 
 Segundo. La presente reforma entrará en vigor respecto de los alumnos actualmente inscritos en El Colegio a partir de la notificación personal que se haga a cada uno de ellos.
+
+G.O. 25 DE JUNIO DE 2010.
+
+Primero. Publíquese en la Gaceta Oficial del estado.
+
+Segundo. La presente reforma entrará en vigor respecto de los alumnos actualmente inscritos en El Colegio a partir de la notificación personal que se haga a cada uno de ellos.
+
+Tercero. Súbanse las presentes Reformas a la página de Internet de El Colegio.
