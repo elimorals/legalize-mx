@@ -4,7 +4,7 @@ identifier: "VER-estatuto-del-personal-academico-del-colegio-de-veracruz-55745"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-05-25"
-last_updated: "2008-12-26"
+last_updated: "2010-06-25"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55745&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 ESTATUTO DEL PERSONAL ACADEMICO DEL COLEGIO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE JUNIO DE 2010.
 
 Estatuto publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 25 de mayo de 2007.
 
@@ -269,9 +269,13 @@ XIV. Desempeñar las comisiones de carácter académico que le sean confiadas po
 
 XV. Concurrir y acreditar los cursos de capacitación que para la actualización de su personal académico programe esta casa de estudios;
 
-XVI. Cooperar con las autoridades de El Colegio para desarrollar eficazmente las tareas que le sean encomendadas; y
+XVI. Cooperar con las autoridades de El Colegio para desarrollar eficazmente las tareas que le sean encomendadas; y (sic)
 
-XVII. Las demás que señale este Estatuto y la normatividad vigente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE JUNIO DE 2010)</small>
+
+XVII. Informar a la Subdirección Académica de los plagios cometidos por los alumnos; y,
+
+XVIII. Las demás que señale este Estatuto y la normatividad vigente.
 
 ###### Artículo 33.
 
@@ -337,7 +341,11 @@ II. Separación temporal;
 
 III. Suspensión del pago de estímulos;
 
-IV. Rescisión de contrato, si las faltas son reiteradas o graves que afecten a la vida académica de la institución.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE JUNIO DE 2010)</small>
+
+IV. Suspensión hasta por un término de 5 años como director de tesis al que incumpla con la obligación a que se refiere la fracción XVII del artículo 32;
+
+V. Rescisión de contrato, si las faltas son reiteradas o graves que afecten a la vida académica de la institución.
 
 ###### Artículo 36.
 
@@ -420,3 +428,11 @@ G.O. 26 DE DICIEMBRE DE 2008.
 Primero. Publíquese en la Gaceta Oficial del estado.
 
 Segundo. La presente adición entrará en vigor a partir del primero de enero de dos mil nueve.
+
+G.O. 26 DE JUNIO DE 2010.
+
+Primero. Publíquese en la Gaceta Oficial del estado.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Tercero. Súbanse las presentes Reformas a la página de Internet de El Colegio.
