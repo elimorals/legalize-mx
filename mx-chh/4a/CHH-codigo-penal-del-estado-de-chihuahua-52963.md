@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2010-01-30"
+last_updated: "2010-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2010.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -445,7 +445,17 @@ Si se trata de dos o más penas de prisión impuestas en sentencias diferentes, 
 
 Tratándose del delito de homicidio doloso en perjuicio de mujeres o menores de edad o del delito de secuestro, deberá imponerse pena por cada delito cometido, aún y cuando con ello se exceda el máximo de la pena de prisión.
 
-Cuando varios delitos dolosos sean cometidos por miembros de corporaciones policíacas, autoridades ministeriales, judiciales o de ejecución de sentencias, en cualquier grado de participación, deberá imponérseles la pena que corresponda para cada uno de ellos, pudiendo aumentarse a la suma total de la pena impuesta, de una a dos terceras partes de aquella, aun cuando con ello se exceda el máximo de la pena de prisión.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2010)</small>
+
+Cuando varios delitos dolosos sean cometidos por miembros de corporaciones policíacas, autoridades ministeriales, judiciales o de ejecución de penas y medidas de seguridad, en cualquier grado de participación, deberá imponérseles la pena que corresponda para cada uno de ellos, pudiendo aumentarse a la suma total de la pena impuesta, de una a dos terceras partes de aquélla, aun cuando con ello se exceda el máximo de la pena de prisión.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2010)</small>
+
+En la hipótesis prevista en el párrafo anterior, la penalidad siempre se aumentará de una a dos terceras partes a la suma total de la pena impuesta, si entre los delitos cometidos se encuentra el Homicidio, Secuestro, Extorsión, Robo, Amenazas o Daños, en los supuestos del artículo 237.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2010)</small>
+
+Lo dispuesto en el párrafo quinto del presente artículo, será aplicable a los ex integrantes de las instituciones o corporaciones citadas, cuando empleen cualquier tipo de conocimiento, habilidad o información que hubiesen adquirido u obtenido durante el ejercicio del cargo anterior, siempre y cuando, dentro de los delitos dolosos se encuentre el Homicidio, Secuestro, Extorsión, Robo, Amenazas o Daños, en los supuestos del artículo 237.
 
 ### CAPÍTULO III. RELEGACIÓN
 
@@ -2407,7 +2417,11 @@ Para los efectos de este delito se entenderá que un intermediario no ha dado su
 
 El depósito se entregará por la institución de que se trate a su propietario o al comprador.
 
-VII. Por sí, o por interpósita persona, sin el previo permiso de las autoridades administrativas competentes o sin satisfacer los requisitos señalados en el permiso obtenido, fraccione o divida en lotes un terreno urbano o rústico, con o sin construcciones, propio o ajeno y transfiera o prometa transferir la propiedad, la posesión o cualquier otro derecho sobre alguno de esos lotes.
+VII. Por sí, o por interpósita persona, sin el previo permiso de las autoridades administrativas competentes o sin satisfacer los requisitos señalados en el permiso obtenido, fraccione o divida en lotes un terreno urbano o rústico, con o sin construcciones, propio o ajeno y transfiera o prometa transferir la propiedad, la posesión o cualquier otro derecho sobre alguno de esos lotes;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+VIII. Venda, intercambie o haga efectivos vales utilizados para canjear bienes y servicios, con conocimiento de que son falsos.
 
 ###### Artículo 225.
 
@@ -3648,3 +3662,19 @@ P.O. 30 DE ENERO DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los artículos 438 al 455 del Código de Procedimientos Penales del Estado, que comprenden el Título relativo a la "Acción Civil", entrarán en vigor ciento ochenta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2010.
+
+DECRETO No. 1083/2010 II P.O., POR EL QUE SE ADICIONA LA FRACCION VIII, AL ARTICULO 224 DEL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2010.
+
+DECRETO No. 1084/2010 II P.O., POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 32 DEL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
