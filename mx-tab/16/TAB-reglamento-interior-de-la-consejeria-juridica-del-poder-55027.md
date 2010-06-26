@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-consejeria-juridica-del-poder-55027"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-06"
-last_updated: "2007-01-06"
+last_updated: "2010-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 6 de enero de 2007.
 
@@ -73,45 +73,41 @@ El Consejero conforme a los mecanismos que establezca para tal fin, dará seguim
 
 ### CAPÍTULO II. DE LA COMPETENCIA Y ORGANIZACIÓN
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2010)</small>
+
 ###### Artículo 6.
 
 Para el estudio, planeación y despacho de los asuntos de su competencia el Consejero contará con las siguientes Unidades Administrativas:
 
-A) Unidades de apoyo del Consejero
+A) Unidades de apoyo del Consejero:
 
 1. Secretaría Particular
 
-2. Coordinación General de Asesores
+2. Unidad de Comunicación Social y Relaciones Públicas
 
-3. Unidad de Comunicación Social y Relaciones Públicas
+3. Unidad de Control, Procesos y Revisión Documental
 
 4. Unidad de Acceso a la Información
 
-B) Subconsejería de Enlace y Asuntos Jurídicos
+B) Subconsejería de Enlace y Asuntos Jurídicos:
 
 1. Dirección General Jurídica
 
-1.1. Subdirección de Procesos Civiles y Penales
+1.1. Unidad de Procesos Civiles y Penales
 
-1.2. Subdirección de Procesos Constitucionales, Administrativos y Laborales
+1.2. Unidad de Procesos Constitucionales, Administrativos y Laborales
 
-1.3. Unidad de Gestión Jurídica
-
-C) Subconsejería de Legislación y Estudios Normativos
+C) Subconsejería de Legislación y Estudios Normativos:
 
 1. Dirección General de Proyectos Jurídicos, Legislativos y Normatividad
 
-1.1. Subdirección de Informática Jurídica y Normatividad
+1.1. Unidad de Informática Jurídica y Normatividad
 
-1.2. Subdirección de Proyectos Legislativos
+1.2. Unidad de Proyectos Legislativos
 
-1.3. Subdirección de Proyectos Jurídicos
+1.3. Unidad de Convenios y Contratos
 
-D) Dirección General de Administración e Innovación Gubernamental
-
-1. Unidad de Organización y Métodos.
-
-De igual modo, se auxiliará de unidades subalternas, jefaturas de departamento, peritos, técnicos especializados y demás personal que determine el Consejero, dentro del presupuesto autorizado.
+D) Dirección de Administración e Innovación Gubernamental.
 
 ###### Artículo 7.
 
@@ -163,9 +159,37 @@ XVIII. Signar convenios, contratos, acuerdos y demás instrumentos jurídicos qu
 
 XIX. Establecer la organización interna de la Consejería y adscribir orgánicamente sus unidades administrativas;
 
-XX. Realizar investigación en materia jurídica integrando, compendiando, definiendo, homologando y difundiendo los diversos tópicos útiles para mejorar el criterio jurídico de los abogados al servicio del Poder Ejecutivo y en general para desarrollar su capacidad laboral y personal; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
 
-XXI. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias, así como las que le delegue el Gobernador.
+XX. Realizar investigación en materia jurídica integrando, compendiando, definiendo, homologando y difundiendo los diversos tópicos útiles para mejorar el criterio jurídico de los abogados al servicio del Poder Ejecutivo y en general para desarrollar su capacidad laboral y personal;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+XXI. Representar al Titular del Poder Ejecutivo del Estado, ante las Dependencias de la Administración Pública Estatal involucradas en los programas de Transferencia, así como ante los Municipios correspondientes;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+XXII. Establecer, vigilar y dirigir las políticas, normas y procedimientos para la Transferencia de los Servicios Públicos de Agua Potable, Drenaje, Alcantarillado, Tratamiento y Disposición de sus Aguas Residuales, de Tránsito y lo concerniente a la Policía Preventiva;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+XXIII. Promover e impulsar que la transferencia de servicios públicos a los municipios se lleve a cabo bajo las disposiciones legales respectivas;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+XXIV. Realizar directamente o a través de despachos especializados, los estudios necesarios que permitan conducir los aspectos técnicos y financieros de los recursos y servicios comprendidos en los programas de transferencia, así como los aspectos legales correspondientes;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+XXV. Revisar y dictaminar los contratos, convenios y/o acuerdos que se elaboren para signarse con los Ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+XXVI.- Coordinar y establecer las mesas técnicas de trabajo necesarias con las dependencias y entidades para la elaboración y estudio de los programas y convenios de transferencia de los servicios públicos a los municipios; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+XXVII. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias, así como las que le delegue el Gobernador.
 
 ### CAPÍTULO II. DE LA SECRETARÍA PARTICULAR
 
@@ -185,7 +209,9 @@ V. Establecer y operar una oficialía de partes que se encargará de recibir tod
 
 VI. Representar al Consejero en las comisiones que éste le asigne, manteniéndolo adecuadamente informado de los pormenores de su actividad;
 
-VII. Tramitar y solicitar al Director General de Administración e Innovación Gubernamental de la Consejería, los recursos y servicios necesarios para el cumplimiento de las funciones del Consejero;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+VII. Tramitar y solicitar al Director de Administración e Innovación Gubernamental de la Consejería, los recursos y servicios necesarios para el cumplimiento de las funciones del Consejero;
 
 VIII. Administrar y operar el control de entrada, trámite y salida de asuntos recibidos y resueltos por la Consejería, así como supervisar los sistemas de seguimiento de asuntos turnados a las áreas;
 
@@ -195,41 +221,39 @@ X. Recopilar e integrar la información de la Consejería que formará parte del
 
 XI. Las demás que le encomiende el Consejero.
 
-### CAPÍTULO III. DE LA COORDINACIÓN GENERAL DE ASESORES
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE JUNIO DE 2010)</small>
+
+### CAPÍTULO III. UNIDAD DE CONTROL, PROCESOS Y REVISIÓN DOCUMENTAL
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2010)</small>
 
 ###### Artículo 10.
 
-La Coordinación General de Asesores es un área directa de apoyo del Consejero y tendrá las siguientes funciones:
+La Unidad de Control, Procesos y Revisión Documental es un área directa de apoyo del Consejero y tendrá las siguientes funciones:
 
-I. Proporcionar la orientación, asesoría técnica y, en su caso apoyo logístico en actividades definidas o determinadas por el Consejero;
+I. Revisar los textos de anteproyectos de leyes, decretos, convenios, reglamentos, acuerdos, actas, oficios y demás disposiciones de carácter legal, y en general de todo tipo de documentos, atendiendo a su forma en relación al estilo, buscando la más clara y precisa expresión posible, que tienda a evitar en lo factible oscuridad en el contenido;
 
-II. Establecer y operar los procedimientos requeridos para las acciones de dirección, planeación, anticipación y control del Consejero;
+II. Dar seguimiento y control a los diversos borradores y versiones, para lograr un proceso fluido y determinado en la elaboración de anteproyectos;
 
-III. Emitir opiniones, elaborar dictámenes o propuesta de acuerdos, en que se contengan la solución a temas, asuntos o problemas concretos que le asigne el Consejero para su estudio;
+III. Colaborar en la detección de necesidades, emitir opinión e intervenir en la revisión de documentos y actividades asignadas por el Consejero;
 
-IV. Por instrucción del Consejero, asesorar a los responsables de las áreas operativas de la Consejería y a las unidades jurídicas de las Dependencias y Entidades, en la resolución de problemas específicos;
+IV. Contribuir a facilitar y hacer más precisa la toma de decisiones, así como proporcionar estudios, análisis y opiniones que permitan esclarecer y organizar los asuntos y áreas encomendados por la Consejería Jurídica, cuidando la completa integración de los documentos resultantes de los procedimientos, negociaciones o actos de diversa índole;
 
-V. Intervenir en la revisión, tanto en los aspectos jurídicos como de estilo de lenguaje, de los documentos que le encomiende el consejero;
+V. Contribuir a elaborar y/o revisar en contenido, normatividad y forma, los contratos, convenios, fideicomisos, actas, oficios y en general todos los documentos producidos por las diferentes áreas de la Consejería, que se le encomiende por la Consejería Jurídica del Poder Ejecutivo;
 
-VI. Apoyar en el desahogo de los asuntos atendidos directamente por el Consejero, que por su importancia requieren de atención especializada, urgente o extraordinaria; y
+VI. Apoyar y ayudar en el desahogo de los asuntos atendidos directamente por el Consejero, que éste requiera;
 
-VII. Las demás que le atribuya expresamente el Consejero.
+VII. Dictaminar los asuntos que le sean encomendados por la Consejería Jurídica del Poder Ejecutivo;
+
+VIII. Acordar con la Consejería Jurídica del Poder Ejecutivo los asuntos que directamente le asigne;
+
+IX. Elaborar y/o revisar todo tipo de documentos que le sean encomendados; y
+
+X. Las demás que expresamente le confiera el Consejero.
 
 ###### Artículo 11.
 
-Al frente de la Coordinación de Asesores, habrá un Coordinador que tendrá las siguientes facultades:
-
-I. Coordinar el cuerpo de asesores permanentes o eventuales, según requerimiento específico de la Consejería;
-
-II. Acordar con el Consejero el tratamiento de los asuntos relevantes atendidos por la unidad a su cargo;
-
-III. Sugerir el desarrollo e implementación de programas y actividades que sirvan de apoyo al cumplimiento de los objetivos de la Consejería;
-
-IV. Servir de enlace entre el Consejero y los Titulares de las Dependencias Federales o Estatales con las que interactúa; así como apoyar en las audiencias, reuniones, eventos o diálogos necesarios para el cumplimiento de sus atribuciones;
-
-V. Recopilar la información para la integración de los acuerdos del Secretario con el Gobernador, así como procesar la información requerida para las comparecencias del Consejero; y
-
-VI. Desempeñar los encargos especiales y los demás asuntos que le encomiende expresamente el Consejero.
+(DEROGADO, P.O. 26 DE JUNIO DE 2010)
 
 ### CAPITULO IV. DE LA UNIDAD DE COMUNICACIÓN SOCIAL Y RELACIONES PÚBLICAS
 
@@ -347,7 +371,11 @@ XIII. Rendir y firmar los informes previos y justificados, así como toda clase 
 
 XIV Expedir las certificaciones de los documentos que obren en los archivos de la Consejería en ausencia del Consejero;
 
-XV Coordinar las actividades de la Unidad de Gestión Jurídica, estableciendo el control y evaluación de su desempeño; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+XV. Por instrucciones del Consejero realizar los dictámenes y en su caso los estudios necesarios que permitan conducir los aspectos técnicos en los programas de transferencia, así como los aspectos legales correspondientes; y
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
 
 XVI. Notificar los actos relacionados con el ejercicio de sus atribuciones.
 
@@ -405,11 +433,15 @@ XXIII. Suplir al Subconsejero en los casos que él lo determine; y
 
 XXIV. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le encomiende el Consejero o el Subconsejero de Enlace y Asuntos Jurídicos.
 
-### CAPÍTULO IV. DE LA SUBDIRECCIÓN DE PROCESOS CIVILES Y PENALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE JUNIO DE 2010)</small>
+
+### CAPÍTULO IV. DE LA UNIDAD DE PROCESOS CIVILES Y PENALES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2010)</small>
 
 ###### Artículo 19.
 
-A la Subdirección de Procesos Civiles y Penales le corresponden (sic) las siguientes atribuciones:
+A la Unidad de Procesos Civiles y Penales le corresponden (sic) las siguientes atribuciones:
 
 I. Por instrucciones del Consejero asesorar jurídicamente a las Dependencias y Entidades de la Administración Pública Estatal y municipios que lo soliciten;
 
@@ -439,11 +471,15 @@ XIII. Notificar los actos relacionados con el ejercicio de sus funciones; y
 
 XIV. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le encomiende el Consejero o el Subconsejero de Enlace y Asuntos Jurídicos.
 
-### CAPÍTULO V. DE LA SUBDIRECCION DE PROCESOS CONSTITUCIONALES, ADMINISTRATIVOS Y LABORALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE JUNIO DE 2010)</small>
+
+### CAPÍTULO V. DE LA UNIDAD DE PROCESOS CONSTITUCIONALES, ADMINISTRATIVOS Y LABORALES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2010)</small>
 
 ###### Artículo 20.
 
-A la Subdirección de Procesos Constitucionales, Administrativos y Laborales le corresponden las siguientes atribuciones:
+A la Unidad de Procesos Constitucionales, Administrativos y Laborales le corresponden las siguientes atribuciones:
 
 l. Asesorar jurídicamente a las Dependencias y Entidades de la Administración Pública Estatal y municipios que así lo soliciten;
 
@@ -469,19 +505,13 @@ XI. Notificar los actos relacionados con el ejercicio de sus atribuciones; y
 
 XII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le encomiende el Consejero o el Subconsejero de Enlace y Asuntos Jurídicos.
 
+> <small>(DEROGADO, P.O. 26 DE JUNIO DE 2010)</small>
+
 ### CAPÍTULO VI. DE LA UNIDAD DE GESTIÓN JURÍDICA
 
 ###### Artículo 21.
 
-Corresponde a la Unidad de Gestión Jurídica el ejercicio de las siguientes funciones:
-
-l. Cuando se le instruya, asesorar y dar seguimiento a los asuntos de carácter jurídico que se deriven de audiencias públicas del Consejero;
-
-II. Cuando se solicite y previa instrucción, brindar apoyo jurídico a los particulares o grupos sociales, cuidando siempre la vigencia de la Ley y la consecución del bien común;
-
-III. Llevar un control de los asuntos que le son turnados para su atención en el libro correspondiente; y
-
-IV. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le encomiende el Consejero o el Subconsejero de Enlace y Asuntos Jurídicos.
+(DEROGADO, P.O. 26 DE JUNIO DE 2010)
 
 ### CAPÍTULO VII. DE LA SUBCONSEJERÍA DE LEGISLACIÓN Y ESTUDIOS NORMATIVOS
 
@@ -513,9 +543,33 @@ XI. Coordinarse con la Secretaría de Gobierno a fin de elaborar el Proyecto de 
 
 XII. Conformar los grupos de trabajo multidisciplinario al interior de la Consejería, tomando en cuenta la naturaleza del instrumento jurídico o asunto en cuestión;
 
-XIII. Revisar y mantener actualizado el acervo legislativo y reglamentario del Estado; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
 
-XIV. Las demás que expresamente le confiera el Consejero en ejercicio de sus funciones.
+XIII. Revisar y mantener actualizado el acervo legislativo y reglamentario del Estado;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+XIV. Elaborar el Programa de Transferencia de Servicios Públicos a los Municipios con las estrategias, políticas y prioridades que determine el Consejero;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+XV. Establecer la coordinación necesaria con las Dependencias Estatales involucradas en los procesos de Transferencia de los Servicios Públicos a los Municipios;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+XVI. Convocar a la celebración de reuniones con las dependencias y entidades involucradas en la Transferencia de Servicios Públicos de Agua Potable, Drenaje, Alcantarillado, Tratamiento y Disposición de sus Aguas Residuales, de Tránsito y lo concerniente a la Policía Preventiva;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+XVII. Establecer previo acuerdo con el Consejero, las políticas y mecanismos para que la Transferencia de los Servicios Públicos de Agua Potable, Drenaje, Alcantarillado, Tratamiento y Disposición de sus Aguas Residuales, Policía Preventiva Municipal y de Tránsito, para que esta se dé en forma ordenada;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+XVIII. Impulsar, consensuar y coordinar la transferencia de las funciones y recursos necesarios en materia de Agua Potable, Drenaje, Alcantarillado, Tratamiento y Disposición de sus Aguas Residuales, Policía Preventiva Municipal y de Tránsito; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+XIX. Las demás que expresamente le confiera el Consejero en ejercicio de sus funciones.
 
 ### CAPÍTULO VIII. DE LA DIRECCIÓN GENERAL DE PROYECTOS JURÍDICOS, LEGISLATIVOS Y NORMATIVIDAD
 
@@ -559,11 +613,15 @@ XVII. Establecer un archivo especial de los documentos elaborados y revisados se
 
 XVIII. Las demás que (sic) disposición legal le corresponda, así como las que le deleguen el Consejero y Subconsejero de Legislación y Estudios Normativos.
 
-### CAPÍTULO IX. DE LA SUBDIRECCIÓN DE INFORMÁTICA JURÍDICA Y NORMATIVIDAD
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE JUNIO DE 2010)</small>
+
+### CAPÍTULO IX. DE LA UNIDAD DE INFORMÁTICA JURÍDICA Y NORMATIVIDAD
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2010)</small>
 
 ###### Artículo 24.
 
-Corresponden a la Subdirección de Informática Jurídica y Normatividad las siguientes atribuciones:
+Corresponde a la Unidad de Informática Jurídica y Normatividad las siguientes atribuciones:
 
 l. Sistematizar y difundir los criterios de interpretación de las disposiciones jurídicas normativas, necesarias para la operación de la Administración Pública Estatal;
 
@@ -577,11 +635,15 @@ V. Difundir la información jurídica relacionada con los decretos, acuerdos y r
 
 VI. Las demás que por disposición legal le correspondan, así como las que le deleguen el Consejero, Subconsejero de Legislación y Estudios Normativos y Director General de Proyectos Jurídicos, Legislativos y Normatividad.
 
-### CAPÍTULO X. DE LA SUBDIRECCIÓN DE PROYECTOS LEGISLATIVOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE JUNIO DE 2010)</small>
+
+### CAPÍTULO X. DE LA UNIDAD DE PROYECTOS LEGISLATIVOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2010)</small>
 
 ###### Artículo 25.
 
-Corresponde a la Subdirección de Proyectos Legislativos las siguientes atribuciones:
+Corresponde a la Unidad de Proyectos Legislativos las siguientes atribuciones:
 
 I. Emitir opinión, revisar y en su caso elaborar los proyectos de leyes, reglamentos, decretos y acuerdos necesarios para el mejor funcionamiento de la Administración Pública Estatal;
 
@@ -601,91 +663,99 @@ VIII. Proponer la instrumentación de programas de normatividad de la administra
 
 IX. Las demás que por disposición legal le correspondan, así como las que le deleguen el Consejero, Subconsejero de Legislación y Estudios Normativos o el Director General de Proyectos Jurídicos, Legislativos y Normatividad.
 
-### CAPÍTULO XI. DE LA SUBDIRECCIÓN DE PROYECTOS JURÍDICOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE JUNIO DE 2010)</small>
+
+### CAPÍTULO XI. DE LA UNIDAD DE CONVENIOS Y CONTRATOS
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2010)</small>
 
 ###### Artículo 26.
 
-Corresponde a la Subdirección de Proyectos Jurídicos las siguientes atribuciones:
+Corresponde a la Unidad de Convenios y Contratos las siguientes atribuciones:
 
-I. Opinar y en su caso, aprobar los proyectos de contratos, convenios y acuerdos que pretenda celebrar la Administración Pública Estatal;
+l. En el ámbito de su competencia, proponer los lineamientos generales para la suscripción de convenios, contratos y acuerdos;
 
-II. Por instrucción, brindar la asesoría jurídica que requieran las Dependencias, Órganos y Entidades de la Administración Pública Estatal para la elaboración de contratos convenios y acuerdos;
+II. Opinar y en su caso, aprobar los proyectos de contratos, convenios y acuerdos que pretenda celebrar la Administración Pública Estatal;
 
-III. Proponer las bases, requisitos y criterios que deberá observar la Administración Pública Estatal para acordar y convenir con los ayuntamientos, otros estados y el Gobierno Federal;
+III. Resguardar, sistematizar y difundir los convenios y acuerdos en los que participe el Titular del Poder Ejecutivo;
 
-IV. En el ámbito de su competencia, proponer los lineamientos generales para la suscripción de convenios, contratos y acuerdos;
+IV. Por instrucción, brindar la asesoría jurídica que requieran las Dependencias, Órganos y Entidades de la Administración Pública Estatal para la elaboración de contratos convenios y acuerdos;
 
-V. Resguardar, sistematizar y difundir los convenios y acuerdos en los que participe el Titular del Poder Ejecutivo; y
+V. Proponer las bases, requisitos y criterios que deberá observar la Administración Pública Estatal para acordar y convenir con los ayuntamientos, otros estados y el Gobierno Federal;
 
-VI. Las demás que por disposición legal le correspondan, así como las que le deleguen el Consejero, Subconsejero de Legislación y Estudios Normativos o el Director General de Proyectos Jurídicos, Legislativos y Normatividad.
+VI. Elaborar los proyectos de convenios en relación a la Transferencia de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales a los municipios, basados en los acuerdos tomados entre las partes involucradas, previo acuerdo con el Consejero;
+
+VII. Elaborar los Proyectos de Convenios, para la realización de la transferencia de los servicios públicos de tránsito y de seguridad pública del Estado hacia los Municipios que lo requieran, previo acuerdo con el Consejero; y
+
+VIII. Las demás que por disposición legal le correspondan, así como las que le deleguen el Consejero, Subconsejero de Legislación y Estudios Normativos o el Director General de Proyectos Jurídicos, Legislativos y Normatividad.
 
 ## TÍTULO IV (SIC). DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN E INNOVACIÓN GUBERNAMENTAL
 
-### CAPÍTULO I
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE JUNIO DE 2010)</small>
+
+### CAPÍTULO I. DE LA DIRECCIÓN DE ADMINISTRACIÓN E INNOVACIÓN GUBERNAMENTAL
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2010)</small>
 
 ###### Artículo 27.
 
-Corresponde a la Dirección General de Administración e Innovación Gubernamental, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección de Administración e Innovación Gubernamental, el ejercicio de las siguientes atribuciones:
 
-I. Instrumentar e integrar, con la participación de las distintas Unidades de la Consejería, los programas de selección, capacitación y desarrollo de personal, y coordinar los estudios necesarios sobre análisis y evaluación de puestos, políticas de sueldos, salarios e incentivos, así como operar el sistema de remuneraciones al personal de la Consejería;
+I. Instrumentar e integrar, con la participación de las distintas Unidades de la Consejería, los programas de selección, capacitación y desarrollo de personal, y coordinar los estudios necesarios sobre análisis y evaluación de puestos;
 
-II. Tramitar los nombramientos, cambios de descripción, bajas y contratación de personal de la Consejería, de conformidad con las disposiciones legales aplicables, así como definir y controlar los medios y formas de identificación del personal;
+II. Tramitar los nombramientos, cambios de adscripción, bajas y contratación de personal de la Consejería, de conformidad con las disposiciones legales aplicables, así como definir y controlar los medios y formas de identificación del personal;
 
-III. Aplicar los sistemas de estímulos y recompensa que determine la ley y condiciones generales de trabajo, así como elaborar los programas para la realización de las actividades sociales, culturales, deportivas y recreativas que organice la Consejería, para su personal;
+III. Aplicar las normas, reglamentos y disposiciones generales vigentes, en materia de recursos humanos;
 
-IV. Proporcionar a las Unidades de la Consejería y a su personal adscrito, conforme a los lineamientos establecidos, apoyo en materia de servicios administrativos y generales; conservación y mantenimiento de bienes muebles e inmuebles; adquisiciones y suministros; así como archivo y servicio para el mejor ejercicio de sus atribuciones;
+IV. Aplicar los sistemas de estímulos y recompensa que determine la ley y condiciones generales de trabajo;
 
-V. Proponer las directrices, normas y criterios técnicos para el proceso interno de programación presupuestal y coordinar su aplicación;
+V. Actualizar en forma permanente las plantillas de personal de la Consejería, de acuerdo a las categorías autorizadas en el tabulador vigente;
 
-VI. Apoyar técnica y administrativamente a las Unidades de la Consejería, para planear, programar, presupuestar y evaluar sus actividades respecto a su propio gasto público;
+VI. Realizar las gestiones correspondientes para efectuar en forma oportuna el pago de salarios al personal adscrito a la Consejería;
 
-VII. Planear los proyectos de gasto corriente e inversión para integración del presupuesto de la Consejería, con los registros y controles presupuestales que señale la Secretaría de Administración y Finanzas;
+VII. Elaborar los programas para la realización de las actividades sociales, culturales, deportivas y recreativas que organice la Consejería para su personal;
 
-VIII. Establecer las normas, sistemas y procedimientos internos para la administración de los recursos financieros de la Consejería y vigilar su cumplimiento;
+VIII. Apoyar técnica y administrativamente a las Unidades de la Consejería, para planear, programar, presupuestar y evaluar sus actividades respecto a su propio gasto público;
 
-IX. Tramitar los convenios y contratos en los que la Consejería sea parte y que afecten su presupuesto, así como los demás documentos relacionados con la administración interna de la misma y someterlos a la firma del Consejero;
+IX. Proporcionar a las Unidades de la Consejería y a su personal adscrito, conforme a los lineamientos establecidos, apoyo en materia de servicios administrativos y generales; conservación y mantenimiento de bienes muebles e inmuebles; adquisiciones y suministros así como archivo y servicio para el mejor ejercicio de sus atribuciones;
 
-X. Proponer atendiendo al presupuesto autorizado la realización de estudios para la reorganización de funciones y supresión en su caso, de las Unidades Administrativas de la Consejería;
+X. Proponer las directrices, normas y criterios técnicos para el proceso interno de programación presupuestal y coordinar su aplicación;
 
-XI. Administrar los almacenes de la Consejería por medio de un sistema de control de inventarios y realizar la distribución de bienes de insumos, de acuerdo con las disposiciones existentes, así como elaborar y obtener los resguardos correspondientes;
+XI. Establecer las normas, sistemas y procedimientos internos para la administración de los recursos financieros de la Consejería y vigilar su cumplimiento;
 
-XII. Apoyar el establecimiento, control y seguimiento del programa interno de protección civil, así como de seguridad para el personal y bienes de la Consejería;
+XII. Planear los proyectos de gasto corriente e inversión para integración del presupuesto de la Consejería, con los registros y controles presupuestales que señale la Secretaría de Administración y Finanzas;
 
-XIII. Planear, programar, presupuestar, organizar, dirigir y evaluar el funcionamiento de las áreas administrativas bajo su cargo;
+XIII. Tramitar los convenios y contratos en los que la Consejería sea parte y que afecten su presupuesto, así como los demás documentos relacionados con la administración interna de la misma y someterlos a la firma del Consejero;
 
-XIV. Proporcionar a las Unidades Administrativas de la Consejería, el apoyo logístico necesario para el debido cumplimiento de sus funciones;
+XIV. Proponer atendiendo al presupuesto autorizado la realización de estudios para la reorganización de funciones y supresión en su caso de las Unidades Administrativas de la Consejería;
 
-XV. Proponer al Consejero la implantación de modelos operativos de simplificación administrativa de las unidades de la Consejería, así como aquellos tendentes a mejorar la calidad de los procesos y servicios de éstas;
+XV. Apoyar el establecimiento, control y seguimiento del programa interno de protección civil, así como de seguridad para el personal y bienes de la Consejería;
 
-XVI. Realizar el análisis de la estructura orgánica y ocupacional de la Consejería y someterla a consideración del Consejero para aprobación y modificación de la misma, así como la elaboración y actualización de los manuales de organización y procedimientos;
+XVI. Administrar los almacenes de la Consejería por medio de un sistema de control de inventarios y realizar la distribución de bienes e insumos, de acuerdo con las disposiciones existentes; así como elaborar y obtener los resguardos correspondientes;
 
-XVII. Planear y conducir la política de desarrollo del personal, definir los puestos tipo y establecer los perfiles y requerimientos de los mismos, conforme a los lineamientos emitidos por la Secretaría de Administración y Finanzas;
+XVII. Planear, programar, presupuestar, organizar, dirigir y evaluar el funcionamiento de las áreas administrativas bajo su cargo;
 
-XVIII. Realizar análisis e informes sobre los requerimientos y el comportamiento del gasto público de la Consejería, así como colaborar en la integración de los programas, anteproyectos de presupuesto de egresos, para su análisis correspondientes y su vinculación con los proyectos de presupuesto de ingresos y de gasto público;
+XVIII. Proponer al Consejero la implantación de modelos operativos de simplificación administrativa de las Unidades de la Consejería, así como aquellos tendentes a mejorar la calidad de los procesos y servicios de éstas;
 
-XIX. Rendir los informes sobre gasto público, así como los que con base en la Ley le soliciten los Órganos de Control y Fiscalizadores; y
+XIX. Proporcionar a las Unidades Administrativas de la Consejería, el apoyo logístico necesario para el debido cumplimiento de sus funciones;
 
-XX. Las demás que determinen las disposiciones legales aplicables y las que le sean encomendadas por el Consejero.
+XX. Planear y conducir la política de desarrollo de personal, definir los puestos tipo y establecer los perfiles y requerimientos de los mismos, conforme a los lineamientos emitidos por la Secretaría de Administración y Finanzas;
+
+XXI. Realizar el análisis de la estructura orgánica y ocupacional de la Consejería y someterla a consideración del Consejero para aprobación y modificación de la misma, así como la elaboración y actualización de los manuales de organización y procedimientos;
+
+XXII. Realizar análisis e informes sobre los requerimientos y el comportamiento del gasto público de la Consejería, así como colaborar en la integración de los programas, anteproyecto de presupuesto de egresos, para su análisis correspondiente;
+
+XXIII. Rendir los informes sobre gasto público, así como los que con base en la Ley le soliciten los Órganos de Control y Fiscalizadores; y
+
+XXIV. Las demás que determinen las disposiciones legales aplicables y las que le sean encomendadas por el Consejero.
+
+> <small>(DEROGADO, P.O. 26 DE JUNIO DE 2010)</small>
 
 ### CAPÍTULO II. DE LA UNIDAD DE ORGANIZACIÓN Y MÉTODOS
 
 ###### Artículo 28.
 
-Corresponde a la Unidad de Organización y Métodos el ejercicio de las siguientes funciones:
-
-I. Estudiar y analizar de manera permanente la estructura y el funcionamiento de la Consejería a fin de proponer medidas de mejora;
-
-II. Adecuar la organización y las funciones de la Consejería buscando que sus actos guarden conformidad con las disposiciones que rigen el funcionamiento del Poder Ejecutivo;
-
-III. Asesorar a las unidades o departamentos de la Consejería que lo soliciten en la interpretación y aplicación de técnicas administrativas a fin de implantar mejores sistemas de trabajo;
-
-IV. Realizar actividades de promoción, investigación y divulgación, de nuevas técnicas que puedan ser aplicadas en la Consejería para su mejor funcionamiento;
-
-V. Proponer e implantar sistemas y procedimientos que permitan desarrollar la productividad y eficiencia del personal adscrito a la Consejería;
-
-VI. Informar periódicamente al Director General de Administración e Innovación Gubernamental sobre el funcionamiento de las diversas áreas de la Consejería; y
-
-VII. Las demás que por disposición legal le correspondan, así como las que le deleguen el Consejero o el Director General de Administración e Innovación Gubernamental.
+(DEROGADO, P.O. 26 DE JUNIO DE 2010)
 
 ## TÍTULO QUINTO. DE LA SUPLENCIA
 
@@ -693,9 +763,11 @@ VII. Las demás que por disposición legal le correspondan, así como las que le
 
 Durante las ausencias temporales del Consejero el despacho y resolución de los asuntos competencia de la Consejería, estarán a cargo del servidor público subalterno que designe.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2010)</small>
+
 ###### Artículo 30.
 
-Las ausencias no mayores de 15 días de los subconsejeros y de los directores generales, serán suplidas por el director general o subdirector respectivamente, que designe el Consejero.
+Las ausencias no mayores de 15 días de los subconsejeros y de los directores generales, serán suplidas por el director general o el Titular de la Unidad, respectivamente, que designe el Consejero.
 
 ## TÍTULO SEXTO. RELACIONES LABORALES
 
@@ -703,7 +775,9 @@ Las ausencias no mayores de 15 días de los subconsejeros y de los directores ge
 
 Las relaciones de trabajo entre la Consejería y sus trabajadores, se regularán por la Ley de los Trabajadores al Servicio del Estado.
 
-Se consideran categorías de confianza las de Director General, Directores de Área Subdirectores, Jefes de Departamento, Jefes de Área, Asesores y en general las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares o altos funcionarios de esta Consejería.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2010)</small>
+
+Se consideran categorías de confianza las de Director General, Directores de Área, Titulares de las Unidades, Jefes de Departamento, Jefes de Área y en general las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares o altos funcionarios de esta Consejería.
 
 ## TRANSITORIOS
 
@@ -734,3 +808,11 @@ GOBERNADOR DEL ESTADO DE TABASCO
 LIC. MIGUEL ALBERTO ROMERO PEREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE JUNIO DE 2010.
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En tanto se expiden los manuales respectivos, el Consejero queda facultado para resolver las cuestiones de la aplicación de este ordenamiento legal para fines del orden administrativo.
