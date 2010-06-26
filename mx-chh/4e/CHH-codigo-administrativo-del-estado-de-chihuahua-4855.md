@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2009-12-30"
+last_updated: "2010-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2010.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -1553,659 +1553,353 @@ TERCERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
+> <small>(DEROGADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)</small>
+
 # LIBRO SEGUNDO
+
+> <small>(DEROGADO CON LOS CAPITULOS QUE LO INTEGRA, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)</small>
 
 ## TITULO UNICO. DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-### CAPITULO I. DE LAS OFICINAS DEL REGISTRO PUBLICO Y DE SUS ENCARGADOS
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRA, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2003)</small>
+### CAPITULO I. DE LAS OFICINAS DEL REGISTRO PUBLICO Y DE SUS ENCARGADOS
 
 ###### ARTICULO 271.
 
-La Dirección del Registro Público de la Propiedad y del Notariado, depende de la Secretaría General de Gobierno y tiene las siguientes atribuciones, en materia registral de la Propiedad:
-
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1988)</small>
-
-I.- Por su conducto la Secretaría de Gobierno ejercerá la dirección de la función registral de la propiedad;
-
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1988)</small>
-
-II.- Atenderá todas las cuestiones de la fe pública del Estado, relativas a Registros Públicos de la Propiedad;
-
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1988)</small>
-
-III.- Comunicará a la Secretaría de Gobierno cualquier irregularidad que advierta en la organización y funcionamiento de las oficinas de los Registros Públicos de la Propiedad y todo aquello que tenga relación con el buen servicio y exacto cumplimiento de la Ley;
-
-(REFORMADA, P.O. 25 DE JUNIO DE 1988)V
-
-IV.- Mandará que se practiquen cuando menos anualmente, visitas a las oficinas de los Registros Públicos de la Propiedad, con el objeto de saber si en los actos de dichas Oficinas se han llenado los requisitos legales de forma y contenido y se cumplen las disposiciones jurídicas respectivas;
-
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1988)</small>
-
-V.- Vigilará el funcionamiento de las Oficinas de los Registros Públicos de la Propiedad; y
-
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1988)</small>
-
-VI.- Las demás que sean propias y naturales del órgano o que las leyes le otorguen.
-
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2003)</small>
-
-En cada cabecera de los Distritos Judiciales existirá una oficina del Registro Público de la Propiedad. El Ejecutivo del Estado podrá establecer dicha oficina en otra población del mismo Distrito, previo acuerdo debidamente fundado y motivado, que señale las causas de excepción que justifiquen tal medida.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 272.
 
-Para ser Jefe o Subjefe del Departamento del Registro Público de la Propiedad y del Notariado se requiere:
-
-I.- Ser mexicano por nacimiento, tener veinticinco años cumplidos y estar en ejercicio de sus derechos;
-
-II.- Ser Licenciado en Derecho con título legalmente expedido y debidamente registrado;
-
-III.- Haber tenido y tener buena conducta privada y profesional; y
-
-IV.- No tener impedimento físico o mental que se oponga a las funciones registrales.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
-
-Los requisitos anteriores se exigirán también respecto de los Jefes, Subjefes y Registradores de las Oficinas del Registro Público de la Propiedad.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 273.
 
-En los Distritos Judiciales en los que el Ejecutivo del Estado no haya designado persona alguna para que desempeñe la función de Registrador Público de la Propiedad, el despacho de la Oficina estará encomendado al Juez de Primera Instancia correspondiente, teniendo preferencia para actuar los Jueces Civiles y si hubiere varios de la misma categoría, lo hará el de número inferior.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 274.
 
-En cada Oficina se registrarán los actos o contratos relativos a bienes situados en el Distrito a que el Registro Público pertenezca. Cuando los bienes correspondan por su ubicación a dos o más Distritos, se hará el registro en cada uno de ellos exclusivamente por lo que se refiere a la parte de los bienes situados en él.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 1997)</small>
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 275.
 
-Los Jefes de las Oficinas del Registro Público de la Propiedad sólo podrán desempeñar la procuración judicial y ejercer la profesión de abogado, cuando se trate de un asunto propio, de su cónyuge, de sus parientes consanguíneos o afines en línea recta sin limitación de grados o colaterales que lo sean por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo.
-
-Sólo podrán actuar como Notarios, cuando de conformidad con los artículos 273 y 343 de este Código sean titulares de un juzgado de Primera Instancia y Encargados de la Oficina del Registro Público de la Propiedad y ejerzan la función notarial por receptoría.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 1997)</small>
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 276.
 
-Son obligaciones de los Jefes de Oficina del Registro Público de la Propiedad:
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
-I.- Realizar sus funciones con exacto cumplimiento de las prescripciones de este Código, de la legislación civil y de las demás disposiciones legales correspondientes;
-
-II.- Resolver las dudas que los interesados le consulten y hacerles saber los requisitos que faltan a los documentos que se presenten para su inscripción y el modo de subsanarlos;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
-
-III.- Ejercer las funciones señaladas en este Código a los Registradores y Certificadores, cuando no los hubiere en la Oficina respectiva o, en su caso, coordinar las actividades de los Registradores y Certificadores adscritos a dicha Oficina, quienes estarán a su cargo;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
-
-IV.- Rendir los informes que soliciten las autoridades legalmente facultadas para ello;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
-
-V.- Rendir a la Secretaría de Finanzas y Administración, dentro de los primeros cinco días hábiles de cada mes, una relación pormenorizada del número de escrituras registradas en cada Sección, el valor de las operaciones correspondientes al ramo y el monto de los derechos causados. Las Oficinas de los Registros Públicos de la Propiedad enviarán esta misma información al Departamento del Registro Público de la Propiedad y del Notariado;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
-
-VI.- Permitir, en los términos del artículo 2893 del Código Civil, que cualquier persona examine los libros del Registro, siempre que ésto se efectúe en la Oficina dentro de las horas de despacho y no se esté trabajando en el libro que se pretende examinar. Los interesados podrán tomar notas, pero no sacar copia de los asientos ni de los documentos agregados en los apéndices;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
-
-VII.- Las demás que establezcan este Código y otras disposiciones legales;
-
-VIII.- (DEROGADA, P.O. 26 DE FEBRERO DE 1997)
-
-IX.- (DEROGADA, P.O. 26 DE FEBRERO DE 1997)
-
-X.- (DEROGADA, P.O. 26 DE FEBRERO DE 1997)
-
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1997)</small>
-
-El Departamento del Registro Público de la Propiedad y del Notariado conservará, bajo su responsabilidad, los libros y demás anexos que hayan pertenecido a una Oficina del Registro suprimida legalmente, haciendo en ello las anotaciones y expidiendo copias y certificaciones que prevenga la Ley.
-
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1997)</small>
-
-ARTICULO 276 BIS.- Son obligaciones de los Registradores:
-
-I.- Revisar los documentos presentados para su registro y el pago de las contribuciones.
-
-II.- Verificar la inscripción de los documentos por riguroso orden de presentación de las boletas de pago.
-
-III.- Hacer las inscripciones dentro de los tres días hábiles siguientes a la presentación de la boleta de pago de los derechos respectivos, salvo que el exceso de trabajo lo impida o los documentos correspondientes fueren devueltos para que se subsane la falta de los requisitos que establecen las leyes. En este último caso, a petición de parte interesada, se pondrá la razón en que se funde el no haber efectuado la inscripción en el término fijado anteriormente.
-
-IV.- Autorizar, con su firma y el sello de la oficina a la que estén adscritos, las inscripciones que se verifiquen, así como las notas respectivas.
-
-V.- Las demás que establezcan este Código y otras disposiciones legales.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 1997)</small>
+ARTICULO 276 BIS.- (DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 277.
 
-Los Jefes de las Oficinas del Registro Público de la Propiedad están sujetos a las mismas sanciones que los Notarios y son pecuniariamente responsables de los perjuicios que se ocasionen:
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
-
-I.- Por no inscribir en el término de tres días los títulos que se presenten a su registro;
-
-II.- Por error sustancial cometido en las inscripciones, cancelaciones o anotaciones;
-
-III.- Por cancelar una inscripción o anotación sin el título correspondiente y sin los requisitos legales;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
-
-IV.- Por error substancial en las certificaciones de liberación o gravamen de los inmuebles o derechos reales o por no expedir dichas certificaciones en el término de tres días;
-
-V.- En general, por faltar al cumplimiento de las obligaciones que les imponen las leyes, siempre que con su grave omisión resulte perjuicio a tercero.
-
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1997)</small>
-
-La responsabilidad prevista en este artículo, por las omisiones, errores substanciales y acciones en que incurran, en sus respectivos casos, también será aplicable a los Registradores y Certificadores.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 278.
 
-Las responsabilidades que determina el artículo anterior se traducirán en los daños y perjuicios que los Registradores causen a los interesados en los términos del Código Civil y del Código de Procedimientos Civiles del Estado o en la aplicación de las medidas de defensa social cuando ejecuten algún acto clasificado como infracción antisocial, en los términos del Código respectivo.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 279.
 
-Las faltas administrativas que cometan en el desempeño de sus funciones serán sancionadas por el titular del Ejecutivo a través del Jefe del Departamento del Registro Público de la Propiedad y del Notariado y por lo que corresponde a éste, directamente por aquél con multa por el equivalente de un día de salario del que corresponda al infractor.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 280.
 
-En tanto las leyes federales no dispongan situación en contrario, los Registradores Públicos de la Propiedad se encargarán del Registro de Comercio, de acuerdo con las disposiciones respectivas.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 281.
 
-Las faltas temporales o accidentales de los Jefes de las Oficinas del Registro Público de la Propiedad, se suplirán por el subalterno inmediato de la Oficina y en caso de que el titular sea un Juez, de conformidad con el artículo 273 de este Código, será suplido por quien deba sustituirlo con arreglo a la Ley Orgánica del Poder Judicial. En ambos casos operará la suplencia sin necesidad de nombramiento ni formalidad especial alguna.
-
-Por lo que hace a las faltas temporales o accidentales del Jefe del Departamento del Registro Público de la Propiedad y del Notariado, éstas se suplirán de acuerdo con el orden siguiente. Por el Jefe de la Oficina Registral, en ausencia de éste, por el Jefe de la Oficina del Notariado y, en ausencia de ambos, por el Jefe de la Oficina del Registro Público de la Propiedad del Distrito Morelos.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 282.
 
-Cuando se separe definitivamente del ejercicio de sus funciones el Jefe de la Oficina del Registro Público de la Propiedad, pondrá en cada uno de los libros en uso, la constancia de separación y de entrega a la persona designada para sustituirlo. El servidor público que sustituya al anterior titular de la oficina firmará de recibo las notas a que éste se refiere.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 283.
 
-Además de cumplir con lo prevenido en el Artículo anterior, se formarán inventarios por duplicado de entrega y recibo de todo cuanto pertenezca a la Oficina.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRA, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)</small>
 
 ### CAPITULO II. DE LOS LIBROS DE REGISTRO Y APENDICES
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
-
 ###### ARTICULO 284.
 
-El Registro Público de la Propiedad se compondrá de ocho secciones denominadas por su número ordinal en los términos previstos por este Código.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 285.
 
-Para cada Sección se llevarán libros numerados por orden progresivo. Cada libro se compondrá de doscientas veinte páginas, la primera sin numerar y el resto numeradas progresivamente, las que tendrán las medidas que determine el titular del Ejecutivo. Cada página tendrá un primer espacio para anotaciones y el resto contendrá el cuerpo de la inscripción. Los libros deberán estar empastados, forrados de tela u otro material resistente. La primer hoja de cada libro se destinará a su autorización, las siguientes cien a inscripciones, las siguientes cuatro se destinarán para continuar las anotaciones marginales, en caso de haberse agotado el espacio marginal y las últimas cinco se destinarán al índice del libro.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
-
-Cada libro deberá estar autorizado por el Jefe del Departamento, quien hará constar la fecha de la autorización, la sección a la que se destine y los números de libros de cada sección que se lleven simultáneamente y hará sellar tanto la autorización como las hojas del libro.
-
-Para cada Sección podrán llevarse varios libros simultáneamente, según sus necesidades, previo acuerdo del titular del Ejecutivo, acuerdo que en todo caso se agregará al apéndice del libro respectivo. Se seguirá un orden riguroso en la numeración que corresponda a cada inscripción, yendo de un libro a otro en cada acto, hasta llegar al último y volviendo de éste al primero.
-
-Por cada libro se llevarán dos apéndices, con el número que corresponde al libro. Uno de estos apéndices se formará con los documentos registrados, planos, oficios y los demás escritos relativos a las inscripciones, así como todos aquéllos que en su caso justifiquen las anotaciones marginales. El otro apéndice se formará con las boletas de pago fiscales que por ley deban hacerse para obtener el registro.
-
-Las hojas que forman los apéndices se sellarán y numerarán progresivamente y se hará constar el número de hojas que contiene cada apéndice al quedar terminado.
-
-En el caso de que se haya agotado el espacio para anotaciones marginales, así como las hojas destinadas al efecto, el Registrador podrá continuar en las páginas de los libros que se lleven en uso en la Oficina y que se destinen a estos efectos, haciendo las anotaciones correspondientes que enlacen unos libros con otros; o autorizar cuaderno-apéndice para que se anoten las segregaciones de determinada inscripción, haciéndose la referencia al autorizarlo y anotándose al margen de la inscripción relativa.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
-
-###### ARTICULO 285
-
-BIS.- Podrán utilizarse procesos electrónicos tanto para el mantenimiento de índices y duplicados del archivo registral, como para realizar las inscripciones; inscribiéndose en el lado anverso de la hoja un extracto del documento a registrar; tanto el margen del anverso como el reverso serán destinados para las anotaciones que posteriormente afecten, graven, limiten o modifiquen la inscripción.
-
-Los libros se imprimirán en hojas sueltas y constarán al concluirse de ciento treinta hojas numeradas en su anverso y dos hojas más sin numerar. La primera y última hojas sin numerar, de cada libro, serán destinadas a su respectiva autorización y las restantes a inscripciones.
-
-Para cada sección deberá llevarse un solo libro a la vez. La enumeración de las inscripciones se iniciará con el número uno y se seguirá en orden progresivo, correspondiendo un número para cada inscripción hasta terminar el libro.
-
-Inmediatamente que un libro quede integrado conforme a lo previsto en los dos párrafos anteriores, se encuadernará con pastas sólidas y se identificará con el número ordinal y de sección que le corresponda, tanto en el lomo como en su portada.
-
-Para el caso de que se agote el reverso de la hoja destinada para anotaciones derivadas de la inscripción, se podrán continuar haciendo las anotaciones correspondientes que las enlacen con el libro o libros de anotaciones que sean necesarios, previa autorización del Jefe del Departamento.
+ARTICULO 285 BIS.- (DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 286.
 
-Los anexos relativos a las anotaciones se señalarán con el número que corresponda a la hoja anterior, agregándose en orden alfabético una letra. Deberán de suprimirse en los documentos que se agreguen a los apéndices las carátulas y pastas con los que se presenten.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 287.
 
-Los apéndices de las boletas de pago fiscales podrán ser destruidos con autorización de la Tesorería General del Estado.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 288.
 
-La persona que presente un documento para su inscripción estará obligada a entregar:
-
-I.- Una copia autorizada del mismo documento;
-
-II.- Una copia del plano respectivo cuando se trate de enajenaciones de inmuebles;
-
-III.- Una copia del plano del fraccionamiento cuando se enajene una fracción o lote del mismo, señalando en dicha copia con exactitud la fracción o lote enajenado;
-
-IV.- Los demás documentos y constancias que las leyes prevengan.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 289.
 
-En cada Oficina se llevarán índices alfabéticos por el apellido de las personas a cuyo favor aparezca la inscripción; otro de fincas y cuantos más sean necesarios para la fácil localización de los inmuebles, sus propietarios y las inscripciones que sobre ellos existan.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
-Para el debido control relativo a la expedición de toda clase de constancias concernientes a los actos que obren en los libros, apéndices o sus anexos, cada Oficina llevará un registro en el que se anotará por orden progresivo el número de certificado de pago de los derechos que la misma cause conforme a la tarifa respectiva, la cantidad que consigne dicho certificado y el acto por el que se origina. Además, en la misma constancia o constancias expedidas se indicará el número progresivo que le haya correspondido en el Registro de Control y el del certificado de pago. Los funcionarios judiciales, notarios y demás autoridades ante quienes se presenten documentos expedidos por el Registro Público de la Propiedad, deberán cerciorarse del cumplimiento de esta disposición, dando aviso de su no observancia dentro de los diez días hábiles siguientes a su presentación, a la Oficina Recaudadora respectiva a quien deberá remitirse el documento relativo y en caso de que no lo hicieren así, serán solidariamente responsables en unión del Registrador de los perjuicios que sufra el fisco estatal.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRA, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)</small>
 
 ### CAPITULO III. DE LAS INSCRIPCIONES EN GENERAL
 
 ###### ARTICULO 290.
 
-Podrán presentar títulos solicitando su inscripción los notarios, los que trasmiten el derecho, los que adquieren y los que tengan interés en asegurarlo.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 291.
 
-Las solicitudes de inscripción a que se refiere el artículo anterior se harán verbalmente y sin formalidad de ninguna especie.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 292.
 
-Se entenderá por títulos, para los efectos de la inscripción, los documentos a que se refiere el artículo 2902 del Código Civil.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 293.
 
-Al ser recibido un documento, a petición de parte interesada, se extenderá un recibo del mismo en el que se hará constar la naturaleza del documento, las partes que intervienen, el objeto a que se refiere y los anexos que se acompañan.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
-
-Asimismo se anotará el documento presentado poniendo constancia en él de la hora, día, mes y año en que fue recibido para su inscripción, así como el número ordinal que le corresponda en el trámite diario.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 294.
 
-Tan luego como el documento sea presentado, se entregará al solicitante la constancia necesaria para que cubra los derechos que cause la inscripción y una vez presentada la boleta que acredite su pago, se procederá a revisar el mismo por quien corresponda y, en su caso, a practicar la inscripción solicitada. El Registrador ordenará la inscripción si encuentra que el título presentado es de los que deben inscribirse y cumple los requisitos formales y materiales exigidos por la ley. En caso contrario se devolverá el título sin registrar, siendo necesaria para que se haga el registro, resolución judicial dictada en juicio en que el Registrador sea parte.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 295.
 
-En el caso a que se refiere la parte final del artículo anterior, el Registrador tiene la obligación de hacer a solicitud del presentante, una inscripción preventiva, a fin de que si la autoridad judicial ordena que se registre el título rechazado la inscripción definitiva surta sus efectos desde la fecha de la preventiva. Si el Juez aprueba la calificación hecha por el Registro una vez que hubiere causado ejecutoria la resolución, se cancelará la inscripción preventiva. Transcurrido un año sin que se comunique al Registrador la calificación del título a petición de parte interesada se cancelará la inscripción preventiva. La resolución del Juez en ningún caso podrá contener condena en costas, daños o perjuicios en contra del Registrador.
-
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1977)</small>
-
-La negativa del Registrador para inscribir títulos que sean susceptibles de ello de conformidad con el artículo 2902 del Código Civil fundada en la omisión de contribuciones a erarios federal, estatal o municipal o de actos que contravengan el plan estatal para el desarrollo urbano del Estado y las declaraciones sobre destinos, usos, reservas y provisiones establecidos en relación a los predios urbanos, no crea el derecho a solicitar la inscripción preventiva a que se refiere este precepto.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 296.
 
-Si faltare al título alguno de los requisitos necesarios, para su inscripción y los mismos no afectan a su clausulado y sea lícito subsanarlos mediante manifestación escrita y firmada por las partes, se satisfará por este medio la omisión u omisiones que el título contenga.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 297.
 
-Las inscripciones se harán en idioma castellano, con claridad, sin abreviaturas, guarismos, raspaduras y enmendaduras.
-
-Las palabras o frases que no deban valer se encerrarán dentro de un paréntesis, poniendo una raya transversal que permita su lectura; las que falten o substituyan a las testadas, se escribirán entre renglones, salvándose así unas y otras, de suerte que notoriamente aparezca que se han salvado antes de la firma; ésta deberá ponerse inmediatamente después de la inscripción.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 298.
 
-En cada libro o grupo de libros que se lleven simultáneamente en cada sección, las inscripciones se numerarán progresivamente desde el uno hasta el que corresponda. Cuando se lleven varios libros al mismo tiempo, la numeración se correrá de uno a otro siguiendo el orden que corresponda a los libros.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 299.
 
-El Registrador autorizará con su firma y sello de la Oficina todas las inscripciones. Cuando por alguna causa lícita el Registrador no deba autorizar una inscripción o anotación ya asentada total o parcialmente, asentará una razón al calce y al margen de la misma inscripción, expresando que no ha pasado lo escrito, razón que cubrirá con su firma y sello. La Inscripción siguiente a una no autorizada llevará el número ordinal que le correspondería de haberse autorizado la anterior.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 300.
 
-En las Inscripciones se hará referencia a los anexos que se agreguen a los apéndices correspondientes, en los términos previstos por el artículo 286 de este Código. Hecha una inscripción se harán las anotaciones correspondientes. Estas serán concisas, pudiendo expresar con guarismos los datos de la inscripción a que se remitan. Las provisionales expresarán ser de esta calidad.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 301.
 
-En los casos en que el documento inserto se refiera a varias fincas o derechos reales impuestos sobre ellas, los duplicados agregados al apéndice se anotarán precisando por cuál finca o derecho fue registrado.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRA, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)</small>
 
 ### CAPITULO IV. DE LA RECTIFICACION DE LAS INSCRIPCIONES
 
 ###### ARTICULO 302.
 
-Cualquiera de los interesados en una inscripción podrá pedir al Registrador la rectificación de los errores materiales o de concepto y si éste no estimare lícito hacerlo, a la autoridad judicial. El Registrador o la autoridad judicial, en su caso, autorizará la rectificación de errores materiales, así como los de concepto, cuando sin duda alguna los hubiere en vista de los documentos agregados al apéndice. Cuando el error resultare de la expresión vaga o inexacta del documento registrado, sólo será lícito obtener la interpretación judicial del acto o verificar uno nuevo que exprese claramente el concepto dudoso. Aprobada la rectificación, declarada judicialmente la interpretación o celebrado el nuevo acto, se hará una nueva inscripción y se anotarán los demás asientos relativos. Las rectificaciones por errores de la Oficina, se harán gratuitamente.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 303.
 
-Cuando la rectificación se solicite al Registrador, dentro de los tres días siguientes a la fecha de la inscripción, surtirá sus efectos una vez hecha, desde la fecha de la inscripción rectificada.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 304.
 
-Mientras se practiquen las diligencias necesarias para la rectificación, el registro erróneo surtirá sus efectos como si se hubiere efectuado legalmente.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRA, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)</small>
 
 ### CAPITULO V. DE LA EXTINCION DE LAS INSCRIPCIONES
 
 ###### ARTICULO 305.
 
-Las inscripciones podrán cancelarse por consentimiento de las partes o por resolución judicial.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 306.
 
-El consentimiento de las partes interesadas en la extinción de la inscripción respectiva deberá constar en escritura pública, excepto cuando se trate de ventas condicionales, retroventas, hipotecas o fideicomisos, pues en estos casos bastará que las partes manifiesten su voluntad al calce de los títulos, de que puede cancelarse la inscripción. Con esta constancia, el Notario que autorizó los actos mencionados cancelará la matriz de la escritura correspondiente, cerciorado que sea de la autenticidad de la firma, anotará e inutilizará el testimonio de la escritura y remitirá oficio al Jefe de la Oficina del Registro Público de la Propiedad, participándole la cancelación para que proceda en consecuencia.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 307.
 
-La cancelación de la inscripción de una cédula hipotecaria no origina la cancelación de la hipoteca respectiva, la que deberá efectuarse de conformidad con el artículo anterior.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 308.
 
-En los casos de confusión, quedan de pleno derecho cancelados todos los gravámenes y limitaciones de dominio consignados en favor de la persona que adquiere; por lo que el Jefe de la Oficina del Registro Público de la Propiedad deberá efectuar las cancelaciones correspondientes.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1998)</small>
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 309.
 
-Siempre que ante un tribunal se pida la nulidad o cancelación de una inscripción o del documento que la motiva, la autoridad judicial, a petición de parte y previa garantía de los daños y perjuicios que pudieren ocasionarse, hará del conocimiento del Encargado del Registro Público de la Propiedad, la existencia de dicha petición, quien deberá hacer la anotación marginal correspondiente.
-
-Dicha autoridad judicial podrá abstenerse de hacer del conocimiento del Encargado del Registro Público lo señalado en el punto anterior en el evento de que la parte interesada en la subsistencia del acto impugnado y sus efectos, otorgue contragarantía suficiente para cubrir los daños y perjuicios que pudieren ocasionarse al demandante en caso de que la resolución judicial respectiva le fuese favorable a este último.
-
-El Juez dará vista a las partes, a fin de que en la vía incidental se fijen los montos de la garantía y contragarantía que deban otorgar los interesados.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1998)</small>
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 310.
 
-Cuando se solicite el Amparo de la Justicia Federal y sea señalado como acto reclamado la autorización de una inscripción o de una anotación marginal, y como autoridad responsable al Encargado del Registro, se estará a lo que se resuelva en el incidente de suspensión del correspondiente juicio de garantías.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRA, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)</small>
 
 ### CAPITULO VI. DE LAS INSCRIPCIONES EN SECCION PRIMERA
 
 ###### ARTICULO 311.
 
-Se inscribirán en la Sección Primera los actos o derechos siguientes, relativos a bienes inmuebles:
-
-I.- Venta, permuta, donación, cesión, subrogación, adjudicación y dación en pago;
-
-II.- Usufructo, uso y habitación;
-
-III.- Servidumbres;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
-
-IV.- Transacciones, reservas de derechos, condiciones, novaciones, fideicomisos y cualesquiera otros que trasmitan, modifiquen o extingan la propiedad de los bienes inmuebles o de derechos reales impuestos sobre ellos;
-
-V.- Resoluciones judiciales en las que se adquiera por cualquier concepto la propiedad de un inmueble;
-
-VI.- Resoluciones en que se decrete una expropiación o nacionalización;
-
-VII.- Constitución del patrimonio familiar.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 312.
 
-Las hijuelas no se inscribirán sin que antes se inscriban los bienes a favor del autor de la sucesión. Tampoco se inscribirán las adjudicaciones efectuadas en pública almoneda, sin que antes se inscriban los bienes a favor del causante inmediato anterior.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 313.
 
-No se inscribirá ningún derecho real accesorio a una propiedad, sin que antes se inscriba la propiedad misma. Una vez inscrita ésta, se hará la inscripción del derecho anotándose al margen de la inscripción de la finca. Cuando se trate de servidumbre, se anotará tanto la inscripción del predio sirviente como la del dominante.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 314.
 
-A cada finca se abrirá un registro particular con el número de inscripción que le corresponda y por cada una de ellas, se causará los derechos correspondientes, aun cuando se trate de una sola operación.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 315.
 
-Se considerará como una sola finca:
-
-I.- La que pertenezca a varios en copropiedad mientras no se divida legalmente;
-
-II.- La que perteneciendo a una sola persona, sus límites son o puedan ser perfectamente determinados, sin solución de continuidad;
-
-III.- Las urbanas con una sola entrada, aun cuando los diferentes pisos o departamentos de ellas pertenezcan a diferentes dueños cuya circunstancia se hará constar en el registro;
-
-IV.- La urbana que aunque tenga varias entradas, forme en su interior una sola habitación.
-
-No se considerará como una sola finca, las urbanas contiguas hacia los costados, independientes entre sí y con distintas entradas.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 316.
 
-Al inscribir un título de propiedad, se hará mención a la adquisición del vendedor, indicándose los datos del o de los registros correspondientes, los cuales serán anotados igual que el o los documentos de adquisición.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 317.
 
-Si se tratare de fincas no inscritas, podrá inscribirse el último título que se presente, sin exigir inscripciones anteriores, salvo los casos en que expresamente se disponga que una inscripción no puede hacerse sin que otra u otras le precedan, haciéndose mención de los que en el título se haya dado fe como primordiales con expresión de sus fechas, lugares de otorgamiento, notarios o autoridades que los hayan autorizado y personas que los hayan otorgado. Si en el título no los enumeran, el interesado deberá presentarlos y se dará fe de ellos.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 318.
 
-En el caso del artículo anterior, el interesado deberá presentar, para que el registro sea autorizado, cuando menos los títulos de propiedad inmediatamente anteriores a aquél cuyo registro se pretende y que amparen la propiedad de la finca o fincas de que se traten durante los diez años anteriores a la fecha del título presentado.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 319.
 
-Siempre que se inscriba un título en la Sección Primera, relativo a la traslación de dominio de finca ya inscrita, se cancelará la inscripción antecedente.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 320.
 
-Cuando los títulos inscritos contengan la traslación de dominio de una fracción de la finca ya inscrita, se registrará la fracción segregada y se anotará la segregación hecha a la inscripción antecedente.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 321.
 
-Cuando se reúnan dos o más fincas para formar una sola y no se haya otorgado escritura para efectuar esa reunión o se haya omitido expresarla en aquélla, la persona o personas en cuyo favor estén inscritas o se vayan a inscribir, presentarán al Registro una manifestación en la que expresen que con las fincas a que se refieren los títulos inscritos o por inscribirse, que se acompañan en todo caso, se ha formado una sola, que se describirá con sus linderos y medidas generales, acompañando el plano respectivo. Las inscripciones y documentos presentados se anotarán en la forma correspondiente.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 322.
 
-Inscrito en el Registro un título en favor de una persona, no se inscribirá ningún otro anterior en favor de persona distinta, sino cuando sea de derechos accesorios adquiridos con anterioridad, sin afectar la propiedad o cuando se trate de títulos primordiales para enlazarlos con el título inscrito en cuyo caso se pondrán en las inscripciones y títulos relativos, la constancia que corresponda.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRA, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)</small>
 
 ### CAPITULO VII. DE LAS INSCRIPCIONES EN LA SECCION SEGUNDA
 
 ###### ARTICULO 323.
 
-Se inscribirán en la Sección Segunda:
-
-I.- Las hipotecas constituidas legalmente, sean sobre bienes inmuebles o sobre derechos reales;
-
-II.- Cesiones, adjudicaciones, cancelaciones o permutas de crédito hipotecarios;
-
-III.- Las sentencias o autos en que se ordene la fijación de cédulas hipotecarias;
-
-IV.- Los contratos de prenda que menciona el artículo 2753 del Código Civil;
-
-V.- Los contratos de fianza;
-
-VI.- Los embargos de bienes inmuebles o derechos reales; y
-
-VII.- Los embargos de bienes muebles susceptibles de identificarse en forma indubitable.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 324.
 
-Para hacer la inscripción de un embargo, hipoteca o fianza es necesario que antes esté inscrita la propiedad a favor del deudor.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 325.
 
-Cuando se ordene un embargo de finca inscrita en la Sección Primera, en favor de persona distinta de la que motiva el acto, la inscripción no se verificará devolviendo las copias certificadas con la nota respectiva, expresando esta circunstancia. La inscripción sólo se verificará cuando la autoridad competente que ordenó el acto, insista bajo su responsabilidad de que se verifique la inscripción.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 326.
 
-La inscripción de un acta de fianza carcelaria, las anotaciones correspondientes, así como sus cancelaciones no causarán derechos al Estado.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRA, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)</small>
 
 ### CAPITULO VIII. DE LAS INSCRIPCIONES EN SECCION TERCERA
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
-
 ###### ARTICULO 327.
 
-Se inscribirán en la Sección Tercera: Los arrendamientos cuando sean por más de cinco años o cuando se hubieren anticipado rentas por más de dos. Las fincas dadas en arrendamiento deberán estar inscritas antes en la Sección Primera.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 328.
 
-La transmisión por cualquier título de los derechos del arrendatario o modificación o rescisión del contrato se anotarán al margen del contrato de arrendamiento.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRA, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)</small>
 
 ### CAPITULO IX. DE LAS INSCRIPCIONES EN SECCION CUARTA
 
 ###### ARTICULO 329.
 
-Se inscribirán en Sección Cuarta:
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
-I.- Las escrituras constitutivas de las sociedades civiles y las que las modifican;
-
-II.- Las escrituras constitutivas de las asociaciones y las que las reforman;
-
-III.- Las escrituras constitutivas de las fundaciones de beneficencia privada y las que las modifican;
-
-IV.- Los poderes generales que otorguen las entidades anteriormente mencionadas.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRA, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)</small>
 
 ### CAPITULO X. DE LAS INSCRIPCIONES EN SECCION QUINTA
 
 ###### ARTICULO 330.
 
-Se inscribirán en Sección Quinta:
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
-I.- Las resoluciones judiciales o de árbitros por las cuales se adquiera, transmita, modifique, grave o extinga la posesión sobre inmuebles;
-
-II.- Los testamentos por efecto de los cuales se afecta la propiedad de bienes raíces o de derechos reales, haciéndose el registro después de la muerte del testador;
-
-III.- El auto declaratorio de los herederos y el nombramiento de albacea definitivo;
-
-En los casos previstos en las dos fracciones anteriores, se tomará razón del acta de defunción del autor de la herencia.
-
-IV.- Las resoluciones judiciales en las que se declara un concurso;
-
-V.- Las que declaren la ausencia o la presunción de muerte de un ausente, así como el nombramiento del representante de éste;
-
-VI.- Las resoluciones judiciales que decreten la separación de bienes y en las que aprueben dicha separación mediante simple convenio;
-
-VII.- Las capitulaciones matrimoniales aun cuando no haya bienes inscritos a favor de los cónyuges o de la sociedad conyugal;
-
-VIII.- Las patentes de aspirantes al ejercicio del notariado y las que confieran el cargo de notario.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRA, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)</small>
 
 ### CAPITULO XI. DE LAS INSCRIPCIONES EN SECCION SEXTA
 
 ###### ARTICULO 331.
 
-Se inscribirán en la Sección Sexta:
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
-Los títulos por los cuales se adquiera, transmita, modifique o extinga el dominio, la posesión o los demás derechos sobre los bienes muebles, que sean susceptibles de identificarse de manera indubitable.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE FEBRERO DE 2001)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)</small>
 
 ### CAPITULO XI BIS. DE LAS INSCRIPCIONES EN LA SECCION SEPTIMA, DE ASENTAMIENTOS HUMANOS Y DEL PATRIMONIO CULTURAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 2001)</small>
+ARTICULO 331 BIS.- (DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
-ARTICULO 331 BIS.- Se inscribirán en la Sección Séptima, de Asentamientos Humanos y del Patrimonio Cultural:
-
-> <small>(F. DE E., P.O. 12 DE FEBRERO DE 1977)</small>
-
-I.- El plan estatal para el desarrollo urbano del Estado;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1977)</small>
-
-II.- Los planes municipales;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1977)</small>
-
-III.- Los planes que ordenen y regulen las zonas conurbadas en los que participe el Estado con una o más Entidades Federativas;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1977)</small>
-
-IV.- Los planes que ordenen y regulen las zonas conurbadas dentro del territorio del Estado;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1977)</small>
-
-V.- Los planes de desarrollo a que se refiere el artículo 1475 fracción V de este Código;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1977)</small>
-
-VI.- Las resoluciones administrativas que se dicten con apoyo en los planes anteriores;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1977)</small>
-
-VII.- Las declaratorias sobre provisiones, usos, reservas y destinos de áreas y predios urbanos;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1977)</small>
-
-VIII.- Los estudios y proyectos del plan estatal para el desarrollo urbano de conformidad con el artículo 1480 de este Ordenamiento;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1977)</small>
-
-IX.- Las declaratorias sobre la conservación y mejoramiento de predios urbanos de conformidad con el artículo 1500 de este Código; y
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1977)</small>
-
-X.- Las modificaciones o cancelaciones de los actos que se mencionan en las fracciones anteriores;
-
-> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2001)</small>
-
-XI.- Las declaraciones y demás actos jurídicos relacionados con los bienes regulados por la Ley del Patrimonio Cultural del Estado de Chihuahua.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE MAYO DE 2002)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)</small>
 
 ### CAPITULO XI TER. DE LAS INSCRIPCIONES EN SECCION OCTAVA, DE ACTOS ADMINISTRATIVOS DE INTERES GENERAL
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2002)</small>
+ARTICULO 331 TER.- (DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
-ARTICULO 331 TER.- Se resguardarán en la Sección Octava, o de actos administrativos, los acuerdos y resoluciones administrativas, que en los términos y condiciones previstas por las leyes y demás disposiciones reglamentarias de orden estatal, emanen de la Administración Pública Estatal centralizada, con excepción de la Procuraduría General de Justicia y las Coordinaciones adscritas directamente al Ejecutivo, que en ejercicio de la potestad pública, otorguen, reconozcan, modifiquen o extingan derechos u obligaciones de los habitantes del Estado.
-
-El resguardo de información previsto en el presente artículo será mediante soporte magnético u óptico, decodificado y reproducible de cualquier forma por un sistema informático.
-
-La consulta pública de esta sección sólo será informativa, por lo que el Registro Público de la Propiedad y del Notariado no expedirá certificaciones de la misma.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRA, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)</small>
 
 ### CAPITULO XII. DE LAS CERTIFICACIONES
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
-
 ###### ARTICULO 332.
 
-El Jefe de la Oficina del Registro Público tiene obligación de dar a quien lo solicite certificaciones literales o en lo conducente, de las inscripciones o constancias asentadas en los libros de la oficina.
-
-En su caso, las certificaciones expedidas en forma automática por sistemas de cómputo, haciendo mención de lo anterior, se expedirán por el Certificador respectivo.
-
-El Certificador adscrito a una oficina que cuente con sistemas de comunicación con otras Oficinas, vía sistemas de cómputo, estará facultado para expedir certificaciones de constancias existentes en los archivos de aquellas oficinas del Registro Público que también cuenten con dichos sistemas.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 333.
 
-Las certificaciones de asientos relativas a bienes determinados comprenderán todas las inscripciones de propiedad verificadas en el período por el que se soliciten y todas las inscripciones y notas marginales de derechos reales impuestos sobre los mismos bienes en el periodo respectivo, que no estén canceladas, con la expresión de no existir otros de igual clase.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 334.
 
-En las certificaciones de que se trata el artículo anterior y en las de no existir asientos de especie determinada, sólo se hará mención de las canceladas cuando el Juez o los interesados lo solicitaren.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 335.
 
-Cuando las solicitudes de los interesados o los mandatos de los jueces no expresaren con claridad y precisión la especie de certificaciones que se pidan de los bienes, personas o períodos a que ésta ha de referirse no se expedirá documento alguno hasta en tanto se aclare la solicitud o el mandato judicial respectivo.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 336.
 
-Los certificados se expedirán a petición verbal de quien los solicite o por mandamiento judicial dentro de los tres días siguientes a la recepción de la solicitud o del mandamiento, a menos que el trabajo propio de la oficina lo impida.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRA, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)</small>
 
 ### CAPITULO XIII. DISPOSICIONES GENERALES
 
 ###### ARTICULO 337.
 
-Los libros del Registro serán públicos, pero los interesados en consultarlos se sujetarán a las siguientes prescripciones:
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
-
-I.- Deberán solicitarse por escrito al Jefe de la Oficina del Registro Público de la Propiedad o al Oficial Auxiliar respectivo, llenando la forma en que se mencione los libros que pretende consultar, el número de las inscripciones y los folios respectivos;
-
-II.- Sólo podrán mostrarse los libros cuando no se esté realizando trabajo en ellos;
-
-III.- Los particulares que consulten los libros del Registro no podrán copiar los asientos que se encuentren inscritos en los mismos;
-
-IV.- No se podrá exigir de la Oficina otro auxilio distinto que el de la exhibición de los libros;
-
-V.- Los particulares son directamente responsables de los daños que sufran los libros por el mal trato que les proporcionen;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
-
-VI.- El Jefe de la Oficina del Registro Público de la Propiedad o el Oficial Auxiliar puede negar la consulta de los libros a las personas que no cumplan con las prescripciones anteriores.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 ###### ARTICULO 338.
 
-El Jefe de la Oficina del Registro Público de la Propiedad está facultado para imponer multas hasta por el equivalente de un día de salario mínimo general diario de la zona económica de que se trate, a la persona que destruya o maltrate los libros o a quienes en cualquier forma falten al orden y respeto debidos a la Oficina, sin perjuicio de hacer la consignación correspondiente al Ministerio Público en los casos en que se presuma la comisión de un delito.
+(DEROGADO, POR EL ARTICULO TERCERO DEL DECRETO 1077/2010 DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA, P.O. 26 DE JUNIO DE 2010)
 
 # LIBRO TERCERO
 
@@ -11146,3 +10840,17 @@ ARTÍCULO DECIMOCUARTO. Los trabajos para el diseño, acopio y conformación del
 P.O. 30 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Lo dispuesto en los artículos 7, fracción V; 15, 74, 89, 115, 134, 135, 136, 137, 138, 139, 140 y 141, en lo relativo a la utilización de la firma electrónica, entrará en vigor un año después de su publicación en el Periódico Oficial del Estado. Así mismo, lo dispuesto en el artículo 281, segundo párrafo, del Código Administrativo, en cuanto hace a la suplencia del Director, continuará en vigor hasta en tanto no se reforme la Ley de Notariado y se expida el Reglamento respectivo.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Ejecutivo Estatal contará con un término de noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, para expedir la reglamentación correspondiente a la presente Ley.
