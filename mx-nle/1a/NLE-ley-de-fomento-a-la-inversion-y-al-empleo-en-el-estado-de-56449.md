@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-inversion-y-al-empleo-en-el-estado-de-56449
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-20"
-last_updated: "2010-03-30"
+last_updated: "2010-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA INVERSION Y AL EMPLEO EN EL ESTADO DE NUEVO LEON
 
-ULTMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2010.
+ULTMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2007.
 
@@ -87,7 +87,9 @@ PLAN ESTATAL DE DESARROLLO: el instrumento rector para la planeación en la esfe
 
 SECRETARÍA: la Secretaría de Desarrollo Económico del Gobierno del Estado de Nuevo León.
 
-SECTORES ESTRATÉGICOS: aquellos que se definan como tales en el Plan Estatal de Desarrollo vigente, el sector automotriz, el sector de tecnologías de la información, el sector de electrónica y electrodomésticos, el sector biotecnología, el sector agroindustrial e industria alimenticia, el sector de servicios médicos especializados y ciencias de la salud, el sector aeronáutico y aeroespacial, más los que se vayan determinando como estratégicos por el Consejo. En general, todos los sectores económicos del Estado en donde se realicen inversiones tendientes a elevar la competitividad y la innovación en los términos de la presente Ley.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2010)</small>
+
+SECTORES ESTRATÉGICOS: Clasificación de empresas Que por su especialidad tecnológica representan una Importancia en el desarrollo económico del Estado; siendo aquellos que se establecen como tales en el Plan Estatal de Desarrollo y los Que así determine el Consejo Estatal de Promoción a la Inversión, y sean publicados en el Periódico Oficial del Estado.
 
 SMG: el Salario mínimo general diario vigente en el área geográfica “B”.
 
@@ -235,9 +237,11 @@ V. Región Centro: los municipios de Apodaca, García, San Pedro Garza García, 
 
 ### CAPÍTULO TERCERO. DE LOS INCENTIVOS A LA INVERSIÓN
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2010)</small>
+
 ###### ARTÍCULO 16.
 
-Además de lo dispuesto por las leyes fiscales federales y estatales vigentes, así como por los tratados internacionales firmados por México, las autoridades estatales competentes en los términos de esta Ley podrán otorgar incentivos a la inversión nacional y extranjera para la creación de una nueva empresa o para incrementar la capacidad de operación de una ya existente en la entidad con el fin de crear nuevas fuentes de empleo.
+Además de lo dispuesto por las leyes fiscales federales y estatales vigentes, los tratados Internacionales firmados por México, así como en el Plan Estatal de Desarrollo, las autoridades estatales competentes en los términos de esta Ley podrán otorgar Incentivos a la Inversión nacional y extranjera, para la creación de una nueva empresa o para incrementar la capacidad de operación de una ya existente en la entidad con el fin de crear nuevas fuentes de empleo.
 
 ###### ARTÍCULO 17.
 
@@ -255,19 +259,33 @@ V. Realización de hasta el 100% de las obras de infraestructura que propicien e
 
 VI. Aportación estatal para la creación, instalación o mejoramiento de servicios públicos;
 
-VII. Otorgamiento en donación, venta condicionada, permuta, arrendamiento, comodato, fideicomiso o cualquier otra figura jurídica que sirva de instrumento legal a través de los organismos estatales competentes, de bienes inmuebles con vocación industrial o acorde al giro del proyecto, y condicionado al aprovechamiento en la ejecución del proyecto de inversión;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+VII. Otorgamiento en donación, venta condicionada, permuta, arrendamiento, comodato, fideicomiso o cualquier otra figura jurídica que sirva de Instrumento legal a través de los organismos estatales competentes, de bienes inmuebles propiedad del Estado o de los Municipios con vocación industrial o acorde al giro del proyecto, y condicionado al aprovechamiento en la ejecución del proyecto de Inversión;
 
 VIII. Aportaciones económicas directas para la adquisición de bienes inmuebles propiedad del Estado o de particulares, necesarios para el desarrollo del proyecto de inversión, los cuales no podrán superar el 50% del valor del inmueble, previo avalúo realizado por instituciones o peritos y a través de un convenio de colaboración en donde se establezcan los compromisos de inversión y generación de empleos;
 
 IX. Aportaciones económicas hasta el 100% para contratar en arrendamiento bienes inmuebles propiedad de particulares, por un periodo de hasta 10 años, previo avalúo realizado por instituciones o peritos especializados;
 
-X. Apoyos para establecer vínculos con proveedores potenciales de acuerdo al sector industrial del que se trate; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
 
-XI. Todos aquellos programas, apoyos y aportaciones que apruebe el Consejo Estatal de Promoción a la Inversión para el mejor cumplimiento de los objetivos de la presente Ley.
+X. Apoyos de hasta el 100% en el pago de peaje en el Puente Internacional Colombia;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+XI. Apoyos para establecer vínculos con proveedores potenciales de acuerdo al sector industrial del que se trate; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+XII. Todos aquellos programas, apoyos y aportaciones que apruebe el Consejo Estatal de Promoción a la Inversión para el mejor cumplimiento de los objetivos de la presente Ley.
 
 ###### ARTÍCULO 18.
 
 Todos los incentivos antes mencionados se sujetarán al límite de disponibilidad presupuestal del Fondo.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2010)</small>
+
+A el o los inversionistas a quienes se les haya otorgado un incentivo, el cual aún este en proceso de cumplimiento, podrán solicitar otro incentivo con motivo de una nueva inversión que represente un monto similar o superior al que ya efectuaron, a fin de incrementar sus inversiones para una generación significativa de empleos. La autoridad como excepción podrá otorgar un nuevo incentivo siempre y cuando se haya cumplido a la fecha con las obligaciones que la empresa hubiere contraído a razón de incentivos otorgados.
 
 ###### ARTÍCULO 19.
 
@@ -307,9 +325,17 @@ V. Convocar a sesiones al Consejo Estatal de Promoción a la Inversión;
 
 VI. Turnar al Consejo, para su conocimiento, evaluación y resolución, las solicitudes para el otorgamiento de incentivos que presenten los inversionistas, en los términos del artículo 20, fracción III, de la presente Ley;
 
-VII. Notificar al inversionista la resolución que corresponda a su solicitud; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
 
-VIII. Las demás que establezca la presente ley y otros ordenamientos legales aplicables.
+VII. Notificar al inversionista la resolución que corresponda a su solicitud;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+VIII. Celebrar convenios con los inversionistas para salvaguardar la confidencialidad de la información de los proyectos de Inversión que serán vigentes hasta la formalización de el o los convenios a que se refiere el artículo 29 de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+IX. Las demás que establezca la presente Ley y otros ordenamientos legales aplicables.
 
 ###### ARTÍCULO 23.
 
@@ -435,15 +461,23 @@ La omisión del aviso a que se refiere el artículo anterior, podrá traer como 
 
 El Presidente del Consejo promoverá a través de la Secretaría, la creación y fortalecimiento de Agrupamientos Empresariales, sobre todo en aquellos sectores considerados como estratégicos en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2010)</small>
+
 ###### ARTÍCULO 35.
 
-En igualdad de circunstancias, cualquier iniciativa de inversión en el Estado que provenga de una Agrupamiento Empresarial, empresa integradora, o que tenga como objetivo el fortalecimiento de un agrupamiento empresarial existente, tendrá prioridad para efectos de recibir los incentivos correspondientes en los términos de esta Ley.
+En igualdad de circunstancias, cualquier iniciativa de inversión en el Estado que provenga de un Agrupamiento Empresarial, empresa integradora, o que tenga como objetivo el fortalecimiento de un agrupamiento empresarial existente, tendrá prioridad para efectos de recibir los incentivos correspondientes en los términos de esta Ley.
 
 ###### ARTÍCULO 36.
 
 El Presidente del Consejo, mediante Acuerdo, podrá nombrar consejos ciudadanos asesores para el desarrollo de Agrupamientos Empresariales que funcionarán como órganos auxiliares de participación ciudadana, consultivos, asesores, promotores, y representativos de los sectores empresariales, sindicales, educativos y gubernamentales, para el impulso y desarrollo de industrias y sectores económicos estratégicos para el crecimiento económico en el Estado.
 
-Los Agrupamientos Empresariales podrán adoptar la forma de Asociaciones Civiles o cualquier otra forma de acuerdo a las leyes para la consecución de sus fines económicos. En cuyo caso serán igualmente reconocidos en los términos de esta Ley.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2010)</small>
+
+Los Consejos Ciudadanos Asesores podrán adoptar la forma de Asociaciones Civiles o cualquier otra forma de acuerdo a las leyes para la consecución de los objetivos que para ellos establece esta Ley y sus propios fines económicos; en cuyo caso, previo acuerdo del Presidente del Consejo, serán igualmente reconocidos en los términos de esta Ley, sujetándose a lo que dispongan sus estatutos internos, y supletoriamente esta Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2010)</small>
+
+En el caso previsto en el párrafo anterior, quedará a salvo la posibilidad de que el Presidente del Consejo nombre un nuevo Consejo Ciudadano Asesor para el desarrollo del sector.
 
 ###### ARTÍCULO 37.
 
@@ -451,7 +485,9 @@ Son objetivos de los Agrupamientos Empresariales que se operarán a través de l
 
 I. Fungir como plataforma de diálogo entre el sector público y el privado para diseñar e implementar estrategias que favorezcan el desarrollo de la industria o sector;
 
-II. Establecer comisiones especiales, cuya finalidad sea analizar la situación concreta de la industria o sector que corresponda para proponer programas y proyectos que impulsen su crecimiento económico;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+II. Establecer Comités Especiales, cuya finalidad sea analizar la situación concreta de la industria o sector que corresponda para proponer programas y proyectos que impulsen su crecimiento económico;
 
 III. Proponer políticas, estrategias, acciones y programas para fomentar la investigación, innovación y el desarrollo tecnológico en su industria ó sector;
 
@@ -459,15 +495,19 @@ IV. Realizar estudios sobre planeación estratégica y de necesidades de recurso
 
 V. Promover la formación de capital humano especializado para el fortalecimiento de la industria o sector;
 
-VI. Fomentar y diseñar programas de apoyo y fortalecimiento a la red de proveedores, especialmente apoyando la integración de las PYMES con las grandes empresas;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+VI. Fomentar y diseñar programas de apoyo y fortalecimiento a la red de proveedores de bienes y servicios, especialmente apoyando la Integración de las MIPYMES con las grandes empresas;
 
 VII. Difundir los casos de éxito de la industria o sector para aprovecharlos en la competencia con otras regiones económicas; y
 
 VIII. Promover, en coordinación con la Secretaría a nivel nacional e internacional la difusión de sus proyectos, programas, iniciativas y resultados.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2010)</small>
+
 ###### ARTÍCULO 38.
 
-Todos los integrantes de los Consejos Asesores de los Agrupamientos Empresariales formarán parte de los mismos de manera honoraria.
+Todos los integrantes de los Consejos Ciudadanos Asesores de los Agrupamientos Empresariales formarán parte de los mismos de manera honorífica.
 
 ### CAPÍTULO SÉPTIMO. DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS
 
@@ -475,7 +515,9 @@ Todos los integrantes de los Consejos Asesores de los Agrupamientos Empresariale
 
 Sin menoscabo de lo dispuesto por las leyes federales en materia de competencia económica y de las disposiciones relevantes de los acuerdos internacionales firmados por México y en apoyo a las micro, pequeñas y medianas empresas y a las de alto valor agregado, el Ejecutivo del Estado por conducto de la Secretaría, emprenderá las siguientes acciones:
 
-I. Otorgará preferencia, en igualdad de condiciones, para la adquisición de los insumos que requieran en sus actividades, a los provenientes de las micro, pequeñas y medianas empresas, y de aquellas que generen empleos de alto valor agregado;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+I. Otorgará preferencia, en Igualdad de condiciones, para la adquisicion de los insumos que requieran en sus actividades, a los provenientes de las micro, pequeñas y medianas empresas locales, y de aquellas que generen empleos de alto valor agregado;
 
 II. Promoverá que los gobiernos municipales de la Entidad se sumen permanentemente a este mismo compromiso;
 
@@ -517,7 +559,9 @@ II. Incumplir con los compromisos de inversión en los tiempos y formas convenid
 
 III. Destinar los apoyos e incentivos otorgados a un uso distinto del autorizado;
 
-IV. Ceder o transferir los beneficios otorgados en los términos de esta Ley y sin contar previamente con la autorización de la Secretaría; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
+
+IV. Ceder o transferir los beneficios otorgados en los términos de esta Ley, sin contar previamente con la autorización de la Secretaria; y
 
 V. Omitir la presentación oportuna del aviso a que se refiere el artículo 32 de la presente Ley.
 
@@ -628,3 +672,7 @@ P.O. 30 DE MARZO DE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo. El Ejecutivo del Estado deberá realizar las modificaciones que correspondan al Reglamento de la Ley de Fomento a la Inversión y al Empleo en el Estado de Nuevo León.
+
+P.O. 26 DE JUNIO DE 2010.
+
+Único: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
