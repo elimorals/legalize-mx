@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2009-06-04"
+last_updated: "2010-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE JUNIO DE 2010.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -899,13 +899,19 @@ I. Operar un sistema permanente de vigilancia epidemiológica de la nutrición;
 
 II. Desarrollar programas de educación en materia de nutrición, encaminados a promover hábitos alimentarios adecuados;
 
-Asimismo en coordinación con la Secretaría de Fomento Educativo y cultura, le corresponderá implementar programas tendientes a evitar al máximo la venta de productos de bajo contenido nutricional, principalmente en instituciones de educación básica, así como por la parte exterior de las propias escuelas.
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2010)</small>
+
+Asimismo, en coordinación con la Secretaría de Educación y Cultura, deberá emitir los parámetros para adecuar espacios higiénicos adecuados para la preparación y el manejo de alimentos con alto valor nutricional en las escuelas de educación básica y coordinarse, con esa misma dependencia, para implementar un programa de desayunos escolares calientes con alto valor nutricional en las escuelas públicas de educación preescolar y primaria, para lo cual, mediante un estudio previo, emitirá un listado de alimentos con alto valor nutricional aprobados para su venta al interior de las mencionadas escuelas, así como los que deberá contener el programa de desayunos en comento. Posteriormente a estas acciones, le corresponderá implementar programas tendientes a prohibir la venta de productos de bajo o nulo contenido nutricional, principalmente en instituciones de educación básica, así como para evitar al máximo dicha venta por la parte exterior de las propias escuelas;
 
 III. Supervisar el valor nutritivo y característico de la alimentación en establecimientos de servicios colectivos;
 
 IV. Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población;
 
 V. Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimientos por la población en general y proveer en la esfera de su competencia a dicho consumo.
+
+> <small>(ADICIONADO, B.O. 28 DE JUNIO DE 2010)</small>
+
+ARTICULO 89 BIS.- Las tiendas escolares que vendan o fomenten el consumo de alimentos de bajo o nulo valor nutricional en instituciones de nivel básico y no se ajusten al control que dispongan el Ejecutivo Estatal y los ayuntamientos, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta ley.
 
 ### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
@@ -1011,7 +1017,7 @@ Las personas que ejerzan la medicina o que realicen actividades afines, están o
 
 ###### ARTICULO 100.
 
-Están obligados a dar aviso, en los términos del artículo 98 de esta ley, los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fabricas, talleres, asilos, los jefes de oficinas, establecimientos comerciales o de cualquier otra índole, y en general, toda persona que por circunstancias ordinarias o accidentales tenga conocimiento de alguno de los casos de enfermedades a que se refiere esta ley.
+Están obligados a dar aviso, en los términos del artículo 98 de esta ley, los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fábricas, talleres, asilos, los jefes de oficinas, establecimientos comerciales o de cualquier otra índole, y en general, toda persona que por circunstancias ordinarias o accidentales tenga conocimiento de alguno de los casos de enfermedades a que se refiere esta ley.
 
 ###### ARTICULO 101.
 
@@ -2387,7 +2393,7 @@ El aseguramiento de objetos, productos o sustancias, tendrá lugar cuando se pre
 
 Si el dictamen indicara que el bien asegurado no es nocivo pero carece de los requisitos esenciales establecidos en esta ley y demás disposiciones legales aplicables, la autoridad sanitaria concederá al interesado un plazo hasta de treinta días para que trámite el cumplimiento de los requisitos omitidos. Si dentro de este plazo el interesado no realizara el trámite indicado o no gestionara la recuperación acreditando el cumplimiento de lo ordenado por la autoridad sanitaria, se entenderá que la materia del aseguramiento causa abandono y quedará a disposición de la autoridad sanitaria para su aprovechamiento.
 
-Si del dictamen resultara que el bien asegurado es nocivo, la autoridad sanitaria, dentro del plazo establecido en el párrafo anterior y previa la observancia de la garantía de la audiencia, podrá determinar que el interesado, bajo la vigilancia de dicha autoridad, someta al bien asegurado a un tratamiento que haga posible su legal aprovechamiento, de ser posible, en cuyo caso y previo el dictamen de la autoridad sanitaria el interesado podrá disponer de los bienes que haya sometido a tratamiento para destinarlos a los fines a que la propia autoridad le señale.
+Si del dictamen resultara que el bien asegurado es nocivo, la autoridad sanitaria, dentro del plazo establecido en el párrafo anterior y previa la observancia de la garantía de audiencia, podrá determinar que el interesado, bajo la vigilancia de dicha autoridad, someta al bien asegurado a un tratamiento que haga posible su legal aprovechamiento, de ser posible, en cuyo caso y previo el dictamen de la autoridad sanitaria el interesado podrá disponer de los bienes que haya sometido a tratamiento para destinarlos a los fines a que la propia autoridad le señale.
 
 Los productos perecederos asegurados que se descompongan en poder de la autoridad sanitaria, así como los objetos, productos o sustancias que se encuentren en evidente estado de descomposición, adulteración o contaminación que no los hagan aptos para el consumo, serán destruídos de inmediato por la autoridad sanitaria, la que levantará un acta circunstanciada de la destrucción.
 
@@ -2832,3 +2838,13 @@ B.O. 4 DE JUNIO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 28 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de un plazo de 90 días contados a partir de la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado deberá emitir la normatividad correspondiente con el propósito de hacer efectivas las disposiciones del presente Decreto.
