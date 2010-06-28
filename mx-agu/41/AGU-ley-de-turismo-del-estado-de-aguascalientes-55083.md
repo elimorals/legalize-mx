@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-turismo-del-estado-de-aguascalientes-55083"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-16"
-last_updated: "2007-04-16"
+last_updated: "2010-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2010.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de abril de 2007.
 
@@ -217,9 +217,11 @@ Los prestadores de servicios que no se encuentren ubicados en alguna de las frac
 
 La prestación de servicios turísticos en el Estado se regirá por lo convenido entre el prestador de servicio y el turista, observándose las disposiciones de la presente Ley y sus reglamentos, así como de la legislación federal de la materia.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2010)</small>
+
 ###### Artículo 8º.
 
-Los turistas que visiten el Estado y los prestadores de servicios turísticos que operen en su territorio, gozarán por ese sólo hecho, de la protección de esta Ley.
+Los turistas y visitantes que se internen en el Estado y los prestadores de servicios turísticos que operen en su territorio, gozarán por este sólo hecho, de la protección de esta Ley.
 
 ###### Artículo 9°.
 
@@ -261,11 +263,19 @@ II. Respetar y coadyuvar en la protección y preservación del patrimonio histó
 
 III. Informar a las autoridades turísticas o a las que les corresponda, sobre cualquier acto, hecho u omisión que atente o ponga en peligro el patrimonio turístico y ecológico del Estado;
 
-IV. Cumplir con las normas, reglamentos y disposiciones del servicio turístico contratado.
+IV. Cumplir con las normas, reglamentos y disposiciones del servicio turístico contratado;
 
-V. Preservar la limpieza de las zonas y centros turísticos, así como de los caminos que conducen hacia ellos; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2010)</small>
 
-VI. Pagar el precio de los servicios o bienes utilizados, en el momento de la presentación de la factura correspondiente, en el plazo y términos pactados.
+V. Preservar la limpieza de las zonas y centros turísticos, así como de los caminos que conducen hacia ellos;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2010)</small>
+
+VI. Pagar el precio de los servicios o bienes utilizados en el momento de la presentación de la factura correspondiente, en el plazo y términos pactados; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2010)</small>
+
+VII. Identificarse a satisfacción del prestador de servicios turísticos al momento de hospedarse en algún establecimiento a que se refiere la Fracción I del Artículo 6° de esta Ley, con algún documento oficial con fotografía. Para cotejo con la información recabada en el "Libro de Registro de Visitantes o Turistas".
 
 ###### Artículo 14.
 
@@ -343,9 +353,33 @@ XIV. Proporcionar la información que les sea requerida por la Secretaría en lo
 
 XV. Inscribirse en el Registro Estatal de Turismo e informar cuando deje de prestar el servicio dentro de los treinta días siguientes a que esto ocurra; así como dar aviso de cualquier modificación en los datos de su registro;
 
-XVI. Preservar el medio ambiente y los recursos turísticos, de conformidad con la legislación de la materia; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2010)</small>
 
-XVII. Cumplir con los principios de ética empresarial y de turismo en los términos de los Tratados Internacionales celebrados o que celebre el Gobierno Federal.
+XVI. Preservar el Medio Ambiente y los Recursos Turísticos, de conformidad con la legislación de la materia;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2010)</small>
+
+XVII. Cumplir con los principios de ética empresarial y de turismo en los Tratados Internacionales celebrados o que celebre el Gobierno Federal;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2010)</small>
+
+XVIII. Prestar el servicio turístico de hospedaje, requiriendo al turista o visitante se identifique de conformidad con la Fracción VII del Artículo 13 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2010)</small>
+
+XIX. Llevar un "Libro de Registro de Visitantes o Turistas" con datos personales, donde se anotará el nombre del visitante o turista titular del contrato de hospedaje, dirección, procedencia, ocupación, descripción del tipo de identificación que presentó y el número de cuarto; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2010)</small>
+
+XX. Colaborar con las autoridades correspondientes cuando investiguen un hecho delictivo.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2010)</small>
+
+El "Libro de Registro de Visitantes o Turistas", deberá ser resguardado por los prestadores del servicio turístico durante cinco años, tiempo en el cual los obligados no podrán depurarlo ni destruirlo. La información resguardada sólo podrá ser solicitada y exhibida por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2010)</small>
+
+La Secretaría verificará que los prestadores de servicios turísticos cuenten con el libro de registro a que se refiere la Fracción XIX, en caso contrario, se harán acreedores a las sanciones que correspondan en términos de esta Ley.
 
 ## TITULO TERCERO. ORDENACION DE LA OFERTA TURISTICA
 
@@ -863,7 +897,9 @@ Por violaciones a esta Ley, la Secretaría podrá imponer las siguientes sancion
 
 I. Por infracciones a lo dispuesto en el Artículo 13 fracciones II, III, IV y V, se impondrá una multa de 3 hasta por el equivalente a 50 veces el salario mínimo general vigente en el Estado.
 
-II. Por infracciones a lo dispuesto en el Artículo 16 se impondrá una multa de 50 hasta por el equivalente a 200 veces el salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2010)</small>
+
+II. Por infracciones a lo dispuesto en las Fracciones I a la XVII del Artículo 16, se impondrá una multa de 50 hasta por el equivalente a 200 veces el salario mínimo general vigente en el Estado. En el caso de las Fracciones XIX y XX, se podrá imponer una multa de 200 a 400 veces el salario mínimo general vigente; y
 
 III. Las infracciones a lo establecido por el Artículo 42, se impondrá una multa de 50 hasta por el equivalente a 300 veces el salario mínimo general vigente en el Estado.
 
@@ -920,3 +956,11 @@ Luis Armando Reynoso Femat,
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
+
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE JUNIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
