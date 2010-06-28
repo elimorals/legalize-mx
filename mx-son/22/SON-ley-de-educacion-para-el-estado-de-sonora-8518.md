@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2010-04-12"
+last_updated: "2010-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACION PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE JUNIO DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -145,6 +145,10 @@ VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquec
 
 IX.- Estimular la educación física y la práctica del deporte;
 
+> <small>(ADICIONADA, B.O. 28 DE JUNIO DE 2010)</small>
+
+IX BIS.- Promover hábitos alimentarios adecuados, tendientes a fortalecer la nutrición del individuo;
+
 X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios;
 
 XI.- Hacer conciencia de la necesidad de un aprovechamiento racional de los recursos naturales y de la protección del ambiente a través del conocimiento por el alumno del medio físico inmediato, de la región donde se desarrolla y del territorio del Estado; y
@@ -169,9 +173,11 @@ Además de impartir la educación preescolar, la primaria y la secundaria, el Es
 
 La educación que se imparta en las escuelas deberá vincularse activa y constantemente con la comunidad, y ofrecer, a quienes en ella participan, la oportunidad de aplicar y utilizar el conocimiento según lo requiera la sociedad.
 
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 17.
 
-El fin primordial del proceso educativo es la formación del educando. Para que éste logre el desarrollo armónico de su personalidad, debe asegurársele la participación activa en dicho proceso, estimulando su iniciativa, su sentido de responsabilidad social, el cuidado de su cuerpo mediante la sana práctica del deporte, en cualquiera de sus expresiones y su espíritu creador.
+El fin primordial del proceso educativo es la formación del educando. Para que éste logre el desarrollo armónico de su personalidad, debe asegurársele la participación activa en dicho proceso, estimulando su iniciativa, su sentido de responsabilidad social, el cuidado de la salud y de su cuerpo mediante una alimentación sana, el cuidado de su entorno, la práctica del deporte en cualquiera de sus expresiones y su espíritu creativo a través de actividades recreativas, artísticas y culturales.
 
 ### CAPITULO III. DE LAS FACULTADES Y OBLIGACIONES DEL ESTADO EN MATERIA EDUCATIVA
 
@@ -189,13 +195,19 @@ II.- Proponer a la Secretaria de Educación Pública los contenidos regionales q
 
 Lo anterior considerando la opinión de los diversos sectores involucrados en la educación, en correlación con la fracción I del artículo 12 y artículos 48 y 72 de la Ley General;
 
-> <small>(ADICIONADA, B.O. 7 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2010)</small>
 
-II Bis.- Coordinarse con la Secretaría de Salud para implementar programas que fomenten en los educandos el consumo de alimentos con alto valor nutricional, así como establecer lineamientos para evitar la venta o consumo de alimentos con bajo o nulo valor nutricional en las tiendas escolares y, en general, en los espacios donde se expende o consumen alimentos en las instituciones de nivel básico;
+II Bis.- Coordinarse con la Secretaría de Salud para implementar programas que fomenten en los educandos y padres de familia el consumo de alimentos con alto valor nutricional, así como prohibir la venta de alimentos clasificados por la autoridad competente como de bajo o nulo valor nutricional en las tiendas escolares y, en general, en los espacios en donde se expenden o consumen alimentos en las instituciones de nivel básico.
+
+Para dar cabal cumplimiento a lo dispuesto en el párrafo anterior, la Secretaría realizará las adecuaciones que sean necesarias para que en los planteles escolares de educación básica se cuente con espacios higiénicos adecuados para la preparación y el manejo de alimentos con alto valor nutricional, de acuerdo con los parámetros que emita la Secretaría de Salud para tal efecto, por lo que quedan exentas de esta prohibición aquellas instituciones de educación básica que no cuenten con dichas adecuaciones. Adicionalmente, en el caso de las escuelas públicas de educación preescolar y primaria, deberá coordinarse con la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia en el Estado de Sonora, para implementar un programa de desayunos escolares calientes con alto valor nutricional a cargo de la Secretaría;
 
 > <small>(ADICIONADA, B.O. 12 DE ABRIL DE 2010)</small>
 
 II Bis A.- Coordinarse con las autoridades en materia de seguridad pública y salud del Estado, con los Municipios y las Sociedades de Padres de Familia, según corresponda, para implementar programas que proporcionen a los alumnos de educación básica, información veraz sobre los efectos nocivos de las drogas y la violencia, para que al conocer dicha información y sustentados en su propia inteligencia y voluntad, decidan mantenerse al margen de éstas, buscando con ello reducir y combatir el uso de alcohol, tabaco y otras drogas, así como los comportamientos violentos que pudieran derivarse de ellos;
+
+> <small>(ADICIONADA, B.O. 28 DE JUNIO DE 2010)</small>
+
+II Bis B.- Coordinarse con la Secretaría de Salud y las Asociaciones de Padres de Familia de las escuelas de nivel básico para implementar acciones de inspección y vigilancia en las tiendas escolares, con el fin de evitar la venta de alimentos con bajo o nulo valor nutricional;
 
 III.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, con respecto al calendario fijado por la Secretaría de Educación Pública;
 
@@ -223,7 +235,7 @@ XII.- Implantar un sistema de estímulos y recompensas, para los maestros que re
 
 > <small>(ADICIONADA, B.O. 19 DE JULIO DE 2004)</small>
 
-XII Bis.- Promover, conjuntamente con los sectores público, social y privado, la constitución de un fondo para apoyar a las instituciones del Sistema Educativo Estatal obligadas a instrumentar programas de mejoramiento del desempeño escolar, así como para otorgar reconocimientos a aquellas instituciones educativas que hubiesen obtenido los resultados más altos en las evaluaciones educativas.
+XII Bis.- Promover, conjuntamente con los sectores público, social y privado, la constitución de un fondo para apoyar a las instituciones del Sistema Educativo Estatal obligadas a instrumentar programas de mejoramiento del desempeño escolar, así como para otorgar reconocimientos a aquellas instituciones educativas que hubiesen obtenido los resultados más altos en las evaluaciones educativas;
 
 XIII.- Distribuir geográficamente los servicios educativos, procurando beneficiar al mayor número de educandos, atendiendo a la demanda educativa y a la capacidad instalada;
 
@@ -329,7 +341,7 @@ Dicho sistema también incluye, además, la educación inicial, la educación es
 
 ###### ARTICULO 29.
 
-La educación de tipo básico está compuesta por el nivel preescolar, el de primaria y el de secundaria, la educación preescolar no constituye requisito previó a la primaria.
+La educación de tipo básico está compuesta por el nivel preescolar, el de primaria y el de secundaria, la educación preescolar no constituye requisito previo a la primaria.
 
 El tipo medio superior comprende el nivel de bachillerato, los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes.
 
@@ -986,3 +998,13 @@ B.O. 12 DE ABRIL DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 28 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de un plazo de 90 días contados a partir de la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado deberá emitir la normatividad correspondiente con el propósito de hacer efectivas las disposiciones del presente Decreto.
