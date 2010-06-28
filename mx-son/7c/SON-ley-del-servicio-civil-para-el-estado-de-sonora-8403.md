@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "2010-05-14"
+last_updated: "2010-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE JUNIO DE 2010.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -393,7 +393,9 @@ La relación de trabajo termina:
 
 I.- Por renuncia del trabajador legítimamente aceptada;
 
-II.- Por supresión de la plaza en el presupuesto de egresos o en la ley respectiva; el interesado podrá optar por su indemnización igual a tres meses del último salario que disfrutaba o su colocación en otra plaza disponible, si reúne los requisitos necesarios;
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2010)</small>
+
+II.- Por supresión de la plaza en el presupuesto de egresos o en la ley respectiva; el interesado podrá optar por su indemnización igual a tres meses del último salario que disfrutaba o su colocación en otra plaza equivalente a la suprimida;
 
 III.- Por conclusión del término señalado en el nombramiento o de la obra determinada para la que fue contratado el trabajador;
 
@@ -1192,3 +1194,9 @@ El presente Decreto entrará en vigor el día de su publicación en el Boletín 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 28 DE JUNIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
