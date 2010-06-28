@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-justicia-para-adolescentes-del-estado-de-quintana-roo-51
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2006-09-12"
+last_updated: "2010-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 28 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 12 de septiembre de 2006.
 
@@ -2836,3 +2838,21 @@ ROSARIO ORTÍZ YELADAQUI
 EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO DE QUINTANA ROO
 
 LIC. BELLO MELCHOR RODRÍGUEZ Y CARRILLO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE JUNIO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga la Ley de Justicia para Adolescentes del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado de fecha 12 de Septiembre de 2006, así como las demás disposiciones que se opongan a la presente Ley, excepto lo previsto en el Artículo Cuarto Transitorio.
+
+TERCERO.- Los beneficios que se otorga a los sujetos de esta Ley, serán exigibles ante el Ministerio Público Especializado, el Juez para Adolescentes o el Juez de Ejecución según el caso de que se trate.
+
+CUARTO.- Quedan subsistentes las autoridades, órganos e instituciones que conforman el Sistema de Justicia para Adolescentes que fueron creadas mediante decreto 99 que contiene la Ley de Justicia para Adolescentes del Estado de Quintana Roo publicada en el Periódico Oficial del Estado de fecha 12 de Septiembre de 2006.
+
+QUINTO.- Las investigaciones y los procedimientos relativos a la responsabilidad de los adolescentes que a la entrada en vigor de la presente Ley se encuentren en trámite, continuarán substanciándose conforme a la Ley anterior hasta el dictado de la resolución correspondiente.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
