@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2009-11-30"
+last_updated: "2010-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2010.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -73,7 +73,9 @@ X.- DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce,
 
 XI.- DECIMOPRIMER CIRCUITO: Estado de Michoacán.
 
-XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa.
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO GENERAL 15/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2010)</small>
+
+XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa y Archipiélago de las Islas Marías.
 
 XIII.- DECIMOTERCER CIRCUITO: Estado de Oaxaca.
 
@@ -236,6 +238,10 @@ XII.- DECIMOSEGUNDO CIRCUITO:
 2.- Dos tribunales unitarios con sede en Mazatlán.
 
 3.- Diez juzgados de Distrito en el Estado de Sinaloa: cuatro con residencia en Culiacán, tres con sede en Los Mochis y tres con residencia en Mazatlán.
+
+> <small>(ADICIONADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 15/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2010)</small>
+
+Un Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República.
 
 XIII.- DECIMOTERCER CIRCUITO:
 
@@ -427,7 +433,15 @@ X.- DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce,
 
 XI.- DECIMOPRIMER CIRCUITO: Estado de Michoacán.
 
-XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa.
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO GENERAL 15/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2010)</small>
+
+XII.- DECIMOSEGUNDO CIRCUITO: Respecto de los tribunales colegiados es el Estado de Sinaloa y el Distrito Judicial conformado por el Archipiélago de las Islas Marías.
+
+En relación con los dos tribunales unitarios con residencia en Mazatlán, será igual a la establecida para los juzgados de Distrito en el Estado de Sinaloa, con residencia en esa misma ciudad, en Los Mochis y la establecida para el Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República.
+
+… (sic)
+
+La jurisdicción sobre el Distrito judicial de Islas Marías por parte de los tribunales del Decimosegundo Circuito no comprenderá a aquellos asuntos procedentes de otros Circuitos Judiciales de los que conozca, actuando como órgano jurisdiccional auxiliar, el Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República.
 
 XIII.- DECIMOTERCER CIRCUITO: Estado de Oaxaca.
 
@@ -584,6 +598,10 @@ Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Culiacán, e
 Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Los Mochis, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahome, Angostura, Badiraguato, Choix, El Fuerte, Guasave, Mocorito, Salvador Alvarado y Sinaloa.
 
 Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Concordia, Cosalá, Elota, Escuinapa, Mazatlán, Rosario y San Ignacio.
+
+> <small>(ADICIONADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 15/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2010)</small>
+
+El Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República, ejercerá jurisdicción territorial en el Distrito Judicial conformado por el territorio del archipiélago de las Islas Marías, en el Océano Pacífico y actuando como órgano jurisdiccional auxiliar ejercerá jurisdicción en toda la República.
 
 XIII.- DECIMOTERCER CIRCUITO:
 
@@ -960,3 +978,13 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 28 DE JUNIO DE 2010.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Los órganos jurisdiccionales del Vigésimo Cuarto Circuito, con sede en Tepic, Nayarit y del Primer Circuito, con residencia en el Distrito Federal, ante los cuales se encuentren substanciándose asuntos procedentes de las Islas Marías, continuarán con su trámite hasta su resolución, cumplimentación, en su caso, y archivo definitivo.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+CUARTO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
