@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-turismo-del-estado-de-quintana-roo-13363"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-21"
-last_updated: "1998-12-21"
+last_updated: "2010-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE TURISMO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TURISMO DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 28 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 21 de diciembre de 1998.
 
@@ -480,3 +482,23 @@ ING. MARIO E. VILLANUEVA MADRID.
 EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 C. PROFR. RAUL O. SANTANA BASTARRACHEA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE JUNIO DE 2010.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga la Ley de Turismo del Estado de Quintana Roo, publicada en el Periódico Oficial del Gobierno del Estado en fecha 21 de diciembre de 1998.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en el ámbito estatal que se opongan al presente ordenamiento.
+
+CUARTO.- El Titular del Ejecutivo del Estado, expedirá los Reglamentos que refiere la presente Ley, dentro de los noventa días siguientes a la entrada en vigor de esta.
+
+QUINTO.- Los Ayuntamientos, expedirán sus reglamentos dentro de los ciento ochenta días siguientes a la entrada en vigor de esta Ley.
+
+SEXTO.- Los procedimientos administrativos iniciados ante la autoridad que corresponda, antes de la entrada en vigor de la presente ley, deberán atenderse y resolverse, de conformidad con la legislación que se abroga mediante esta ley.
+
+ARTÍCULO TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
