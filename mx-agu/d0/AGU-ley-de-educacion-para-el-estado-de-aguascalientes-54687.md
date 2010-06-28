@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-para-el-estado-de-aguascalientes-54687"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-12"
-last_updated: "2010-02-15"
+last_updated: "2010-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACION PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2010.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de marzo de 2007.
 
@@ -157,13 +157,17 @@ VI. Fomentar la protección del medio ambiente, el equilibrio ecológico, la cie
 
 VII. Apreciación e impulso a la creación artística;
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2010)</small>
 
-VIII. El fomento a la práctica de la educación física y del deporte; y
+VIII. El fomento a la práctica de la educación física y del deporte;
 
-> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2010)</small>
 
-IX. Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo.
+IX. Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2010)</small>
+
+X. Difundir los derechos y deberes de niños, niñas y adolescentes, así como las formas de protección con que cuentan para ejercerlos.
 
 ###### Artículo 9°.
 
@@ -869,13 +873,27 @@ IV. Ejercer una estricta vigilancia de la calidad educativa que ofrezcan las ins
 
 V. Crear mecanismos de vinculación interinstitucional con las instituciones autónomas, desconcentradas y de los particulares a fin de planear coordinadamente políticas educativas, culturales, deportivas, científicas y tecnológicas en beneficio de la educación media de la Entidad;
 
-VI. Lograr una coordinación en función de objetivos de calidad y equidad; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2010)</small>
 
-VII. Regular la oferta y la demanda de acceso a la educación superior de la Entidad.
+VI. Lograr una coordinación en función de objetivos de calidad y equidad;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2010)</small>
+
+VII. Regular la oferta y la demanda de acceso a la educación superior de la Entidad; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2010)</small>
+
+VIII. Establecer los lineamientos, para el cumplimiento del servicio social de educación media de formación profesional técnico o educación de formación bivalente, y para la expedición de los respectivos reglamentos internos de las instituciones educativas.
 
 ###### Artículo 79.
 
 Las instituciones que imparten la educación media deberán formar parte de la Comisión Estatal de Educación Media de conformidad a los requisitos y lineamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2010)</small>
+
+Artículo 79 bis.- Los estudiantes de profesional técnico o educación media de formación bivalente prestarán servicio social de conformidad con las disposiciones reglamentarias del Artículo 5° de la Constitución Política de los Estados Unidos Mexicanos y el Artículo 24 de la Ley General de Educación, de la derivada de esta Ley y demás normatividad aplicable.
+
+Los estudiantes de educación media de formación propedéutica prestarán servicio social exclusivamente en áreas acordes al perfil del estudiante, de conformidad con los reglamentos y convenios que las instituciones educativas realicen para tal efecto.
 
 ### CAPITULO V. De la Educación Superior
 
@@ -915,21 +933,49 @@ IV. Una clara distinción entre los aspectos académicos y los laborales.
 
 La autoridad educativa estatal, de conformidad con los ordenamientos federales aplicables y sin detrimento de la autonomía universitaria, a través de la Comisión Estatal de Educación Superior, coordinará la planeación y evaluación de los servicios que ofrezca el conjunto de las instituciones de educación superior que operen en el Estado de Aguascalientes. Los institutos tecnológicos y otros servicios educativos aún no transferidos se regirán por la normatividad aplicable.
 
-Para otorgar la autorización o el reconocimiento de validez oficial de estudios, el Instituto de Educación de Aguascalientes consultará a la Comisión Estatal de Educación Superior.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2010)</small>
+
+Para otorgar la autorización o el reconocimiento de validez oficial de estudios, la Comisión Estatal de Educación Superior, deberá aprobar mediante el voto de por lo menos las tres cuartas partes de sus integrantes, la autorización o reconocimiento de validez oficial de estudios.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2010)</small>
 
 ###### Artículo 85.
 
-Las instituciones que imparten la educación superior deberán formar parte de la Comisión Estatal de Educación Superior.
+La Comisión Estatal de Educación Superior, aprobará las actividades de planeación en materia de educación superior, así como los procesos de otorgamiento, seguimiento, renovación o revocación de reconocimiento de validez oficial de estudios de instituciones privadas de educación superior, la cual se integrará por:
 
-La Comisión Estatal de Educación Superior precisará:
+I. El Titular del Ejecutivo del Estado o quien él designe, quien la presidirá;
 
-I. Los requisitos que deberán reunir las instituciones que lo integren, considerando aspectos formales y los resultados de las evaluaciones institucionales;
+II. El Director General del lEA, quien será el Secretario Ejecutivo;
 
-II. Las funciones y atribuciones que tendrá, tanto de carácter indicativo como imperativo;
+III. El Director de Educación Media y Superior del lEA;
 
-III. Sus mecanismos de operación y coordinación; y
+IV. Un representante del Sistema de Educación Superior Tecnológica Federal;
 
-IV. Los estudios para poder regular la oferta educativa de las instituciones de educación superior mismos que serán avalados por las diferentes Universidades en coordinación con el Instituto de Educación de Aguascalientes.
+V. Tres representantes de Instituciones Estatales de Educación Superior;
+
+VI. Dos representantes de Instituciones Privadas de Educación Superior;
+
+VII. Un representante del Subsistema de Educación Normal;
+
+VIII. El Secretario de Desarrollo Económico;
+
+IX. Un representante del sector productivo; y
+
+X. El titular de la Oficina de Servicios Federales de Apoyo a la Educación en el Estado.
+
+Para la designación de instituciones integrantes de la Comisión Estatal de Educación Superior, se considerarán a las instituciones de mayor antigüedad y las que demuestren mediante evaluaciones externas contar con los mayores estándares de calidad.
+
+La permanencia por parte de las instituciones de educación superior en la Comisión Estatal de Educación Superior será por un periodo de tres años, quienes podrán ser designadas para nuevos períodos.
+
+La Comisión Estatal de Educación Superior, emitirá el Reglamento Interior donde se precise:
+
+I. Las funciones y atribuciones que tendrá, tanto de carácter indicativo como imperativo;
+
+II. Sus mecanismos de operación y coordinación; y
+
+III. Los estudios para poder regular la oferta educativa de las instituciones de educación superior.
+
+Las resoluciones que emita la Comisión Estatal de Educación Superior serán vinculatorias para el Instituto de Educación del Estado y para toda institución privada que ofrezca servicios de educación superior en el Estado.
 
 ###### Artículo 86.
 
@@ -937,13 +983,17 @@ Las instituciones de educación superior establecidas en el Estado de Aguascalie
 
 La planeación y la evaluación se orientarán a la definición de un proyecto estatal de educación que promueva este servicio educativo de modo que logre evolucionar hacia estándares de calidad o bien se mantengan, mismos que deberán ser avalados por organismos de evaluación externa.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2010)</small>
+
 ###### Artículo 87.
 
-El Instituto de Educación de Aguascalientes promoverá el establecimiento de convenios entre la autoridad estatal y la federal para que el Sistema Estatal de Evaluación Educativa asuma en la Entidad el papel de supervisión de las instituciones de educación superior privadas que hayan obtenido reconocimiento de validez oficial de estudios a través de la federación.
+El Instituto de Educación de Aguascalientes promoverá el establecimiento de convenios entre la autoridad estatal y la federal para que conjuntamente con la Comisión Estatal de Educación Superior, mediante los mecanismos que considere pertinentes, asuma en la Entidad el papel de supervisión de las instituciones de educación superior privadas que hayan obtenido reconocimiento de validez oficial de estudios a través de la federación.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2010)</small>
 
 ###### Artículo 88.
 
-Los estudiantes de educación media y los de educación superior prestarán servicio social de conformidad con las disposiciones reglamentarias del Artículo 5° de la Constitución Política de los Estados Unidos Mexicanos, del Artículo 24 de la Ley General de Educación, de la derivada de esta Ley y demás normatividad aplicable. La prestación del servicio social deberá llevarse a efecto en instituciones con áreas acordes al perfil de la carrera y estará sujeto a la evaluación de los resultados.
+Los estudiantes de educación superior prestarán servicio social de conformidad con las disposiciones reglamentarias del Artículo 5° de la Constitución Política de las Estados Unidos Mexicanos, del Artículo 24 de la Ley General de Educación, de la derivada de esta Ley y demás normatividad aplicable. La prestación del servicio social deberá llevarse a efecto en instituciones con áreas acordes al perfil de la carrera y estará sujeto a la evaluación de los resultados.
 
 ###### Artículo 89.
 
@@ -1125,75 +1175,71 @@ Los planes y programas de estudio, al igual que las normas administrativas y cua
 
 De acuerdo con el Artículo 49 de la Ley General de Educación, el proceso educativo se basará en los principios de libertad y responsabilidad que aseguren la armonía de relaciones entre educandos y educadores y promoverá el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres de familia e instituciones públicas y privadas.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2010)</small>
+
 ###### Artículo 112.
 
-El maestro es el responsable inmediato de la operación y conducción del proceso educativo para lograr los fines de la educación, por lo que deberá:
+El Coordinador, representante del Instituto de Educación de Aguascalientes ante la zona de educación básica correspondiente, es la autoridad educativa responsable del Centro de Desarrollo Educativo, y encargado de dirigir, planear, organizar, apoyar y evaluar el trabajo de las escuelas, de los equipos de supervisión y de los asesores académico y administrativo de su adscripción, cuyas atribuciones son:
 
-I. Planear el desarrollo de sus clases acorde con los objetivos de los planes y programas de estudio vigentes;
+I. Participar en la toma de decisiones para la implementación de proyectos y programas propuestos por las subdirecciones y departamentos de educación básica para difundir e instrumentar de manera eficaz las políticas educativas federales y estatales;
 
-II. Impartir sus clases con responsabilidad y profesionalismo para que todos los alumnos aprendan y así cumplir con el mandato de la Constitución Política de los Estados Unidos Mexicanos de garantizar el derecho a la educación;
+II. Promover el desarrollo de la educación en la Zona de Educación Básica encomendada, garantizando la normalidad mínima en el funcionamiento de cada escuela así como rendir ante las autoridades competentes los resultados educacionales;
 
-III. Garantizar la normalidad mínima que requiere el proceso educativo, respetando el calendario escolar, el horario de clases y la entrega de libros y materiales educativos de que se disponga;
+III. Dirigir, asesorar, apoyar y promover el trabajo del equipo de supervisión de manera que se logre una eficaz articulación entre los niveles y modalidades de la educación básica en la Zona de Educación Básica respectiva, a fin de cumplir el mandato constitucional de que se asegure que todos los niños y jóvenes concluyan su educación básica;
 
-IV. Realizar la evaluación formativa y sumativa del aprovechamiento escolar de sus alumnos;
+IV. Presidir el Consejo Técnico del Centro de Desarrollo Educativo;
 
-V. Mantener informados a los padres de familia o tutores del avance escolar de sus hijos o pupilos y promover relaciones de colaboración con aquéllos;
+V. Coordinar la elaboración anual del diagnóstico y proyecto educativo de Zona de Educación Básica, o municipal según corresponda;
 
-VI. Participar en el consejo técnico de su escuela, especialmente en la elaboración del proyecto escolar;
+VI. Velar por la adecuada administración de los recursos humanos y materiales-adscritos al Centro de Desarrollo Educativo respectivo;
 
-VII. Asistir, según corresponda, a los programas de actualización a los que convoque el Instituto de Educación de Aguascalientes; y
+VII. Informar de los resultados del diagnóstico de indicadores educativos de la Zona de Educación Básica, de otros estudios de evaluación acerca del avance de los programas educativos, así como de las necesidades y propuestas de solución al Instituto de Educación de Aguascalientes, al Consejo Municipal de Participación Social según corresponda y al Consejo Técnico del Centro de Desarrollo Educativo;
 
-VIII. Proporcionar a la dirección de su escuela la información estadística que se le requiera para su integración a nivel estatal.
+VIII. Participar de manera activa y responsable en la planeación estratégica de los servicios educativos proporcionando con oportunidad la información que el Instituto de Educación de Aguascalientes le requiera sobre las necesidades de la Zona de Educación Básica correspondiente;
 
-Las relaciones y derechos laborales se regirán por la normatividad respectiva.
+IX. Coordinar la oferta de cursos, talleres, seminarios u otras opciones para la actualización de maestros en ejercicio;
+
+X. Participar en la organización y operación de los distintos proyectos y actividades del Sistema Estatal de Evaluación de la Educación existentes en la Entidad;
+
+XI. Participar en el diseño, implementación y evaluación de proyectos escolares y educativos a nivel estatal;
+
+XII. Asesorar al equipo de supervisión en el diseño, instrumentación y evaluación del proyecto educativo;
+
+XIII. Asistir a las reuniones periódicas de los Coordinadores de Centros de Desarrollo Educativo convocadas por la Dirección de Educación Básica;
+
+XIV. Participar en las reuniones colegiadas para el intercambio de experiencias y propuestas de trabajo, convocadas por la Dirección de Educación Básica;
+
+XV. Garantizar la entrega oportuna de los Libros de texto gratuito así como de materiales didácticos para alumnos docentes y escuelas;
+
+XVI. Visitar cada una de las escuelas de la zona de Educación Básica a su cargo según lo considere pertinente;
+
+XVII. Ofrecer asesoría, dar seguimiento y evaluar las reuniones de Consejo Técnico de los Centros de Desarrollo Educativo;
+
+XVIII. Mantener actualizado el Archivo del Centro de Desarrollo Educativo;
+
+XIX. Gestionar la participación social de los padres de familia y sus organizaciones así como de organizaciones sociales y productivas a favor de la educación escolar;
+
+XX. Atender de manera especial los casos en que se lesione la integridad moral y física de los educandos y personal adscrito a su zona dentro de su ámbito de competencia, reportando cualquier incidencia a la Dirección Jurídica del Instituto de Educación de Aguascalientes; y
+
+XXI. Las demás que le confiera la autoridad educativa competente y la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2010)</small>
 
 ###### Artículo 113.
 
-Para llevar a buen término las responsabilidades del maestro en la conducción del proceso educativo, el Gobierno Estatal buscará conjuntamente con el Gobierno Federal:
+Como auxiliares inmediatos del Coordinador del Centro de Desarrollo Educativo, se encuentran los siguientes:
 
-I. Establecer los lineamientos necesarios para la formación, actualización, evaluación y promoción integral de los educadores;
+I. Supervisor Escolar.- Funcionario que forma parte del equipo de supervisión del Centro de Desarrollo Educativo con funciones de autoridad técnico-pedagógico y técnico-administrativo en la Zona Escolar confiada a su cuidado;
 
-II. En congruencia con lo señalado en el Artículo 21 de la Ley General de Educación, otorgar un salario profesional para que los educadores de los planteles públicos alcancen un nivel de vida decoroso para su familia; para que puedan arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna, así como para que dispongan del tiempo necesario para la preparación de las clases que impartan y para su perfeccionamiento profesional;
+II. Enlace Académico.- Persona encargada de coordinar, y dar seguimiento a los programas de actualización y capacitación de docentes y directivos en activo adscritos al Centro de Desarrollo Educativo; y todas aquellas afines a la naturaleza de su función y/o encomendadas por sus superiores;
 
-III. Establecer mecanismos que propicien la permanencia de los maestros frente a grupo;
+III. Enlace Administrativo.- Es el encargado de coordinar las actividades administrativas entre éstas, dar seguimiento a los procesos de control escolar, inscripciones, análisis de información y estadística, sistema de becas, sistema integral de seguimiento al personar (SiSe), carrera magisterial, seguimiento y proceso de nóminas, trámite y manejo de valores y recursos materiales y todas aquellas afines a la naturaleza de su función y/o encomendadas por sus superiores.
 
-IV. Destacar el papel de los docentes como profesionales, es decir, como actores clave de una importante función social cuya ejecución no puede reducirse a la aplicación mecánica de normas, sino que implica decisiones para una adaptación creativa de orientaciones generales, adecuándolas a las circunstancias de cada grupo y alumno;
-
-V. Promover la iniciativa y la creatividad pedagógicas, tanto en los maestros en lo individual, como en los equipos docentes;
-
-VI. Promover el desarrollo profesional del maestro, de forma que se propicie su especialización y eficiencia laboral;
-
-VII. Promover la revaloración y el reconocimiento social del trabajo del maestro; y
-
-VIII. Otorgar estímulos y reconocimientos a los maestros que se destaquen en su desempeño profesional.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2010)</small>
 
 ###### Artículo 114.
 
-Los directores escolares serán los responsables de dirigir y coordinar los esfuerzos de maestros, alumnos y padres de familia, así como del aprovechamiento de los recursos y medios disponibles en su plantel.
-
-El manejo de los recursos económicos, obtenidos por las aportaciones de padres de familia deberá ser revisado y auditado en forma periódica por la Asociación Estatal de Padres de Familia, por el tipo de recursos que éstos constituyen.
-
-A partir del concepto de escuela singular que reconoce la diversidad, el Instituto de Educación de Aguascalientes, fomentará la autogestión de los centros escolares a fin de que se establezcan las condiciones pedagógicas más apropiadas para la educación y se logren las orientaciones de calidad de la misma.
-
-Con el equipo docente de la escuela, los directores formarán el consejo técnico escolar el cual presidirán. Dicho consejo se sujetará al reglamento que para tal efecto expida la autoridad educativa.
-
-El consejo técnico encabezado por el director deberá:
-
-I. Hacer de cada escuela un ambiente propicio para el logro de los objetivos formativos de la educación;
-
-II. Responsabilizarse de que se apliquen en la escuela la legislación y la política educativas;
-
-III. Elaborar y mantener actualizado el diagnóstico de los indicadores educativos de su escuela;
-
-IV. Diseñar, revisar, actualizar y hacer cumplir el proyecto escolar en el marco del Programa Nacional y Estatal de Educación, con el apoyo del consejo escolar de participación social;
-
-V. Establecer relaciones apropiadas a los fines de la escuela con los padres de familia y con la comunidad. En particular, según el Artículo 69 de la Ley General de Educación, responsabilizarse de que se establezca y opere el consejo escolar de participación social;
-
-VI. Vigilar que se mantenga actualizado el archivo escolar;
-
-VII. Cumplir con las demás funciones que le confiera la normatividad respectiva; y
-
-VIII. Atender de manera especial los casos en que se lesionen la integridad moral y física de los educandos.
+Para favorecer la articulación entre los niveles y modalidades de la educación básica, el coordinador del Centro de Desarrollo Educativo y los supervisores trabajarán en equipo, para garantizar una mayor eficiencia en la prestación de los servicios educativos.
 
 ###### Artículo 115.
 
@@ -1223,25 +1269,19 @@ X. Velar por el respeto de los derechos laborales de los trabajadores de la educ
 
 XI. Las demás que le confiera la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2010)</small>
+
 ###### Artículo 116.
 
-En cada zona escolar, y de acuerdo con la normatividad aplicable, funcionará un consejo técnico integrado por el supervisor, coordinador de zona, y los directores de las escuelas del nivel correspondiente, a fin de lograr que cada escuela funcione efectiva como una unidad educativa y de que se aseguren las condiciones institucionales para la realización del derecho a una educación de calidad.
-
-###### Artículo 117.
-
-Para favorecer la articulación entre los niveles y modalidades de la educación básica, los supervisores trabajarán en equipo, en el que se integrará de manera efectiva el denominado coordinador de zona, para garantizar una mayor eficiencia en la prestación de los servicios educativos.
-
-###### Artículo 118.
-
-El equipo de supervisión de las zonas de educación básica constituye una organización intermediaria entre las escuelas, los equipos docentes y los directores, por una parte, y las autoridades educativas estatales, y por la otra, estos equipos estarán dirigidos por la figura del coordinador.
+El equipo de supervisión de las Zonas de Educación Básica constituye una organización intermediaría entre las escuelas, los equipos docentes y los directores, por una parte y las autoridades educativas estatales, y por la otra, estos equipos estarán dirigidos por la figura del Coordinador.
 
 Cada equipo de supervisión está integrado por los supervisores de los distintos niveles y modalidades de la educación básica, así como por el personal auxiliar y de apoyo adscrito al mismo.
 
 La organización y dirección de cada equipo de supervisión se determinará en la normatividad aplicable.
 
-Los equipos de supervisión en el cumplimiento de sus funciones técnico-pedagógicas y técnico-administrativas serán responsables de:
+Los equipos de supervisión en el cumplimiento de sus funciones técnico-pedagógicas y técnico administrativas serán responsables de:
 
-I. Realizar el trabajo de la supervisión escolar de manera que se logre una articulación eficaz entre los niveles y modalidades de la educación básica, a fin de cumplir el mandato de la Constitución Política de los Estados Unidos Mexicanos de que se asegure que todos los niños y jóvenes concluyan este tipo de educación;
+I. Realizar el trabajo de la supervisión escolar de manera que se logre una articulación eficaz entre los niveles y modalidades de la educación básica, a fin de cumplir el mandato de 'la Constitución Política de los Estados Unidos Mexicanos de que se asegure que todos los niños y jóvenes concluyan este tipo de educación;
 
 II. Realizar las acciones necesarias para difundir e instrumentar de manera eficaz las políticas educativas federales y estatales. Al realizar estas acciones deberá prestarse particular atención a la política compensatoria, con el fin de lograr la equidad;
 
@@ -1249,7 +1289,7 @@ III. Intervenir en la planeación estratégica de los servicios educativos como 
 
 IV. Diseñar, actualizar y hacer cumplir su proyecto educativo, en el marco del Programa Nacional y Estatal de Educación;
 
-V. Mantener actualizado año con año el diagnóstico de los indicadores educativos, así como realizar o actualizar otro tipo de estudios que documenten el avance de los programas, especialmente de su proyecto, o bien señalar los problemas y nuevas necesidades de la educación en el área, así como presentar propuestas para su solución;
+V. Mantener actualizado año con año el diagnóstico de los indicadores educativos, así como realizar o actualizar otro tipo de estudios que documenten el avance de los programas especialmente de su proyecto, o bien señalar los problemas y nuevas necesidades de la educación en el área, así como presentar propuestas para su solución;
 
 VI. Establecer relaciones con los padres de familia y las comunidades y velar por el adecuado funcionamiento de los consejos de participación social, escolares y del Municipio;
 
@@ -1257,7 +1297,7 @@ VII. Comunicar a las escuelas, directivos, docentes y personal administrativo, d
 
 VIII. Coordinar y vigilar la entrega oportuna de los libros de texto gratuito para los educandos, los libros para el maestro y los materiales educativos para las escuelas o para los padres de familia;
 
-IX. Aportar información y sugerencias al lnstituto de Educación de Aguascalientes para la toma de decisiones relativa a la creación de centros escolares de distintos niveles educativos;
+IX. Aportar información y sugerencias al Instituto de Educación de Aguascalientes para la toma de decisiones relativa a la creación de centros escolares de distintos niveles educativos;
 
 X. Utilizar los resultados de la evaluación de los aprendizajes y del funcionamiento escolar que realice el Sistema Estatal de Evaluación Educativa para la corrección y mejoramiento del proceso educativo;
 
@@ -1267,61 +1307,101 @@ XII. Proponer a las autoridades correspondientes soluciones a los problemas de l
 
 XIII. Atender, de manera especial, los casos en que se lesionen la integridad moral y física de los educandos;
 
-XIV. Elaborar y mantener actualizado el archivo correspondiente; y
+XlV. Elaborar y mantener actualizado el archivo correspondiente; y
 
 XV. Las demás que les confiera la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2010)</small>
+
+###### Artículo 117.
+
+Los directores escolares serán los responsables de dirigir y coordinar los esfuerzos de maestros, alumnos y padres de familia, así como del aprovechamiento de los recursos y medios disponibles en su plantel.
+
+El manejo de los recursos económicos, obtenidos por las aportaciones de padres de familia deberá ser revisado y auditado en forma periódica por la Asociación Estatal de Padres de Familia, por el tipo de recursos que estos constituyen.
+
+A partir del concepto de escuela singular que reconoce la diversidad, el Instituto de Educación de Aguascalientes, fomentará la autogestión de los centros escolares a fin de que se establezcan las condiciones pedagógicas más apropiadas para la educación y se logren las orientaciones de calidad de la misma.
+
+Con el equipo docente de la escuela, los directores formarán el consejo técnico consultivo escolar el cual presidirán. Dicho consejo se sujetará al reglamento que para tal efecto expida la autoridad educativa.
+
+El consejo técnico consultivo encabezado por el Director deberá:
+
+I. Hacer de cada escuela un ambiente propicio para el logro de los objetivos formativos de la educación;
+
+II. Responsabilizarse de que se apliquen en la escuela la legislación y la política educativas (sic);
+
+III. Elaborar y mantener actualizado el diagnóstico de los indicadores educativos de su escuela;
+
+IV. Diseñar, revisar, actualizar y hacer cumplir el proyecto escolar en el Marco del Programa Nacional y Estatal de Educación, con el apoyo del consejo escolar de participación social;
+
+V. Establecer relaciones apropiadas a los fines de la escuela con los padres de familia y con la comunidad. En particular, según el Artículo 69 de la Ley General de Educación, responsabilizarse de que se establezca y opere el consejo escolar de participación social;
+
+VI. Vigilar que se mantenga actualizado el archivo escolar;
+
+VII. Cumplir con las demás funciones que le confiera la normatividad respectiva; y
+
+VIII. Atender de manera especial los casos en que se lesionen la integridad moral y física de los educandos.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2010)</small>
+
+###### Artículo 118.
+
+El maestro es el responsable inmediato de la operación y conducción del proceso educativo para lograr los fines de la educación, por lo que deberá:
+
+I. Planear el desarrollo de sus clases acorde con los objetivos de los planes y programas de estudio vigentes;
+
+II. Impartir sus clases con responsabilidad y profesionalismo para que todos los alumnos aprendan y así cumplir con el mandato de la Constitución Política de los Estados Unidos Mexicanos de garantizar el derecho a la educación;
+
+III. Garantizar la normalidad mínima que requiere el proceso educativo, respetando el calendario escolar, el horario de clases y la entrega de libros y materiales educativos de que se disponga;
+
+IV. Realizar la evaluación formativa y sumativa del aprovechamiento escolar de sus alumnos;
+
+V. Mantener informados a los padres de familia o tutores del avance escolar de sus hijos o pupilos y promover relaciones de colaboración con aquéllos;
+
+VI. Participar en el consejo técnico de su escuela, especialmente en la elaboración del proyecto escolar;
+
+VII. Asistir, según corresponda, a los programas de actualización a los que convoque el Instituto de Educación de Aguascalientes; y
+
+VIII. Proporcionar a la dirección de la escuela la información estadística que se le requiera para su integración a nivel estatal.
+
+Las relaciones y derechos laborales se regirán por la normatividad respectiva.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2010)</small>
+
 ###### Artículo 119.
 
-El Coordinador quien es la autoridad educativa encargada de dirigir, planear, organizar, apoyar y evaluar el trabajo de las escuelas de la Zona de Educación Básica y de los equipos de supervisión de su adscripción, cuyas atribuciones son:
+Para llevar a buen término las responsabilidades del maestro en la conducción del proceso educativo, el Gobierno Estatal buscará conjuntamente con el Gobierno Federal:
 
-I. Participar en la toma de decisiones para la implementación de proyectos y programas propuestos por las subdirecciones y departamentos de educación básica para difundir e instrumentar de manera eficaz las políticas educativas federales y estatales;
+I. Establecer los lineamientos necesarios para la formación, actualización, evaluación y promoción integral de los educandos;
 
-II. Promover el desarrollo de la educación en la Zona de Educación Básica encomendada, garantizando la normalidad mínima en el funcionamiento de cada escuela así como rendir ante las autoridades competentes los resultados educacionales;
+II. En congruencia con lo señalado en el Artículo 21 de la Ley General de Educación, otorgar un salario profesional para que los educadores de los planteles públicos alcancen un nivel de vida decoroso para su familia, para que puedan arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna, así como para que dispongan del tiempo necesario para la preparación de las clases que impartan y para su perfeccionamiento profesional;
 
-III. Dirigir, asesorar, apoyar y promover el trabajo del equipo de supervisión de manera que se logre una eficaz articulación entre los niveles y modalidades de la educación básica en la Zona de Educación Básica respectiva, a fin de cumplir el mandato constitucional de que se asegure que todos los niños y jóvenes concluyan su educación básica;
+III. Establecer mecanismos que propicien la permanencia de los maestros frente a grupo;
 
-IV. Presidir el Consejo Técnico de Zona de Educación Básica;
+IV. Destacar el papel de los docentes como profesionales, es decir, como actores clave de una función social cuya ejecución no puede reducirse a la aplicación mecánica de normas, sino que implica decisiones para una adaptación creativa de orientaciones generales, adecuándolas a las circunstancias de cada grupo y alumno;
 
-V. Coordinar la elaboración anual del diagnóstico y proyecto educativo de Zona de Educación Básica, o municipal según corresponda;
+V. Promover la iniciativa y la creatividad pedagógicas, tanto en los maestros en lo individual, como en los equipos docentes;
 
-VI. Velar por la adecuada dirección de los recursos humanos y el ejercicio de los recursos materiales adscritos a la oficina del equipo de supervisión de la Zona de Educación Básica respectiva;
+VI. Promover el desarrollo profesional del maestro, de forma que se proporcione su especialización y eficiencia laboral;
 
-VII. Informar de los resultados del diagnóstico de indicadores educativos de la Zona de Educación Básica, de otros estudios de evaluación acerca del avance de los programas educativos, así como de las necesidades y propuestas de solución al Instituto de Educación de Aguascalientes, al Consejo Municipal de participación social según corresponda y al Consejo Técnico de Zona de Educación Básica;
+VII. Promover la revaloración y el reconocimiento social del trabajo del maestro; y
 
-VIII. Participar de manera activa y responsable en la planeación estratégica de los servicios educativos proporcionando con oportunidad la información que el Instituto de Educación de Aguascalientes le requiera sobre las necesidades de la Zona de Educación Básica correspondiente;
+VIII. Otorgar estímulos y reconocimientos a los maestros que se destaquen en su desempeño profesional.
 
-IX. Participar en la toma de decisiones respecto a la oferta de cursos, talleres, seminarios u otras opciones para la actualización de maestros en ejercicio;
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2010)</small>
 
-X. Participar en la toma de decisiones respecto a la organización y operación de los distintos proyectos y actividades del Sistema Estatal de Evaluación de la Educación existentes en la Entidad;
+Artículo 119 A.- Con la finalidad de lograr que las escuelas de las zonas escolares pertenecientes al Centro de Desarrollo Educativo, funcionen de manera efectiva como una unidad educativa y de que se aseguren las condiciones institucionales para la realización del derecho a una educación de calidad y de acuerdo con la normatividad aplicable, funcionarán consejos técnicos integrados de la siguiente manera:
 
-XI. Participar en la toma de decisiones respecto al diseño; implementación y evaluación de proyectos escolares y educativos a nivel estatal;
+I. Un Consejo Técnico del Centro de Desarrollo Educativo integrado por el Coordinador y por los supervisores de los diferentes niveles de educación básica;
 
-XII. Asesorar al equipo de supervisión en el diseño, instrumentación y evaluación del proyecto educativo;
+II. Consejo Técnico Consultivo de Zona Escolar integrado por el supervisor y los directores de las escuelas pertenecientes a la misma; y
 
-XIII. Asistir a las reuniones periódicas de Coordinadores de Zonas de Educación convocadas por la Dirección de Educación Básica;
+III. En cada plantel escolar de Educación Básica funcionará un Consejo Técnico Consultivo conforme a la normatividad aplicable.
 
-XIV. Participar en las reuniones colegiadas para el intercambio de experiencias y propuestas de trabajo, convocadas por la Dirección de Educación Básica;
-
-XV. Garantizar la entrega oportuna de los libros de texto gratuito así como de materiales didácticos para alumnos, docentes y escuelas;
-
-XVI. Visitar cada una de las escuelas de la Zona de Educación Básica a su cargo según lo considere pertinente;
-
-XVII. Ofrecer asesoría, dar seguimiento y evaluar las reuniones de Consejo Técnico de las Zonas Escolares;
-
-XVIII. Mantener actualizado el archivo de la Zona de Educación Básica;
-
-XIX. Gestionar la participación social de los padres de familia y sus organizaciones así como de organizaciones sociales y productivas a favor de la educación escolar;
-
-XX. Gestionar la participación social de los padres de familia y sus organizaciones así como de organizaciones sociales y productivas a favor de la educación escolar;
-
-XXI. Atender de manera especial los casos en que se lesione la integridad moral y física de los educados y personal adscrito a su zona dentro de su ámbito de competencia, reportando cualquier incidencia a la Dirección Jurídica del Instituto de Educación de Aguascalientes; y
-
-XXII. Las demás que le confiera la autoridad educativa competente y la normatividad aplicable.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2010)</small>
 
 ###### Artículo 120.
 
-Sin detrimento de la atribución exclusiva de la autoridad educativa federal de determinar los planes y programas de la educación primaria, secundaria y normal, la autoridad educativa estatal promoverá su enriquecimiento con contenidos regionales. Para lo anterior escuchará la opinión de la organización sindical de los maestros, de los padres de familia, así como de otros grupos e instituciones sociales, de profesionales y académicos.
+Sin detrimento de la atribución exclusiva de la autoridad educativa federal de determinar los planes y programas de la educación preescolar, primaria, secundaria y normal, la autoridad educativa estatal promoverá su enriquecimiento con contenidos regionales. Para lo anterior escuchará la opinión de la organización sindical de los maestros, de los padres de familia, así como de otros grupos e instituciones sociales, de profesionales y académicos.
 
 Como elemento específico para el trabajo escolar, los planes y programas deberán:
 
@@ -1483,15 +1563,27 @@ La autorización y el reconocimiento serán específicos para cada plan de estud
 
 La autorización y el reconocimiento incorporan a las instituciones que los obtengan al sistema educativo nacional, respecto de los estudios a que la propia autorización o dicho reconocimiento se refieran.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2010)</small>
+
+Los reconocimientos tendrán una vigencia de 5 años, después de la cual, para poder renovarse, se deberán evaluar la calidad y pertinencia de los servicios ofrecidos, así como del cumplimiento de lo establecido en los Artículos 84, 87, 137 y 139 de esta Ley.
+
 ###### Artículo 137.
 
 El Instituto de Educación de Aguascalientes otorgará las autorizaciones y reconocimientos de validez oficial de estudios cuando los solicitantes cuenten además de los requisitos establecidos en los acuerdos de incorporación con lo siguiente:
 
 I. Con personal que acredite la preparación adecuada y, en su caso, satisfaga los demás requisitos a que se refieren la Ley General de Educación y esta Ley;
 
-II. Con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que el Instituto de Educación de Aguascalientes determine. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2010)</small>
 
-III. Con planes y programas de estudio que el Instituto de Educación de Aguascalientes apruebe, para el caso de educación distinta de la primaria, secundaria, normal y demás para la formación de maestros de educación básica.
+II. Con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que el Instituto de Educación de Aguascalientes determine. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2010)</small>
+
+III. Con planes y programas de estudio que el Instituto de Educación de Aguascalientes apruebe, para el caso de educación distinta de la primaria, secundaria, normal y demás para la formación de maestros de educación básica; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2010)</small>
+
+IV. Para el caso de instituciones de educación superior, contar con la aprobación de la Comisión Estatal de Educación Superior, quien deberá resolver mediante el voto de por lo menos las tres cuartas partes de sus integrantes, la procedencia de la autorización de reconocimiento de validez oficial de estudios, de conformidad con el Artículo 84 de esta ley.
 
 ###### Artículo 138.
 
@@ -1515,9 +1607,17 @@ IV. Cumplir con los requisitos establecidos en el Artículo 92 de esta Ley;
 
 V. Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que las autoridades competentes realicen u ordenen;
 
-VI. Pagar al Instituto de Educación de Aguascalientes, de acuerdo a lo establecido en la Ley de Ingresos del Estado, los derechos educativos que en la misma se establezcan; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2010)</small>
 
-VII. Participar en los programas que el Instituto de Educación de Aguascalientes promueva para el mejoramiento profesional de los maestros y directivos en servicio, así como a recibir materiales que en su oportunidad se entreguen para tal fin.
+VI. Pagar al Instituto de Educación de Aguascalientes, de acuerdo a lo establecido en la ley de Ingresos del Estado, los derechos educativos que en la misma se establezcan;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2010)</small>
+
+VII. Participar en los programas que el Instituto de Educación de Aguascalientes promueva para el mejoramiento profesional de los maestros y directivos en servicio, así como a recibir materiales que en su oportunidad se entreguen para tal fin; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2010)</small>
+
+VIII. Las instituciones de educación superior particulares deberán establecer programas de trabajo que les permitan dar cumplimiento a lo estipulado en los Artículos 81 y 88 de esta Ley. Dichos programas deberán ser aprobados por la Comisión Estatal de Educación Superior.
 
 ###### Artículo 140.
 
@@ -1820,6 +1920,26 @@ DECRETO NUMERO 193, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 17 Y 19 DE 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 15 DE FEBRERO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JUNIO DE 2010.
+
+DECRETO NUMERO 419, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULO 78; 79 BIS; 84; 85; 87; 88; 112; 113; 114; 116; 117; 118; 119; 119 A; 120; 136; 137; Y 139 DE LA LEY DE EDUCACION PARA EL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 60 días posteriores a la entrada en vigencia del presente Decreto se deberán llevar a cabo las reformas conducentes al Reglamento Interior del Instituto de Educación de Aguascalientes y expedir el Reglamento Interior de la Comisión Estatal de Educación Superior.
+
+P.O. 28 DE JUNIO DE 2010.
+
+DECRETO NUMERO 420, POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 8 DE LA LEY DE EDUCACION DEL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
