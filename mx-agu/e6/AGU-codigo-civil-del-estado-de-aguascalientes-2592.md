@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2010-05-10"
+last_updated: "2010-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2010.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2147,7 +2147,7 @@ Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán
 
 ###### Artículo 299.
 
-El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 289, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con conosimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
+El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 289, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con consentimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
 ###### Artículo 300.
 
@@ -2225,7 +2225,7 @@ En la sentencia de divorcio sólo podrá condenarse a la pérdida de la patria p
 
 ###### Artículo 306.
 
-Antes de que se provea definitivamente sobre la patria potestad, custodia o tutela de los hijos, estos podrán ser beneficiados por cualquier providencia que se dicte en su favor, de oficio o petición del tutor, ascendientes, hermanos mayores o de la Procuraduría de la Defensa del Menor y la Familia.
+Antes de que se provea definitivamente sobre la patria potestad, custodia o tutela de los hijos, éstos podrán ser beneficiados por cualquier providencia que se dicte en su favor, de oficio o a petición del tutor, ascendientes, hermanos mayores o de la Procuraduría de la Defensa del Menor y la Familia.
 
 ###### Artículo 307.
 
@@ -2407,6 +2407,12 @@ Las personas que se nieguen a acatar las órdenes judiciales de descuento, o aux
 
 El deudor alimentario deberá informar al juez y al acreedor alimentista, dentro de los diez días siguientes a cualquier cambio de empleo, el nombre, denominación o razón social de su nuevo trabajo, la ubicación de éste y el puesto o cargo que desempeñe, efecto de que continúe cumpliendo con la pensión alimenticia decretada para no incurrir en ninguna responsabilidad.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2010)</small>
+
+###### Artículo 331 Ter.
+
+El Juez podrá verificar de oficio o a petición de parte, con el auxilio de peritos o de instituciones que considere pertinentes, que la pensión alimenticia se destine a los fines previstos en este Código y podrá dictar medidas tendientes al cumplimiento de dichos fines.
+
 ###### Artículo 332.
 
 El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
@@ -2417,7 +2423,7 @@ Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a
 
 ###### Artículo 334.
 
-Si fueren varios los que deben dar los alimentos y todos tuvieren posibilidades para hacerlo, el juez repartirá el importe entre ellos, en proporción a sus haberes.
+Si fueren varios los que deben dar alimentos y todos tuvieren posibilidades para hacerlo, el juez repartirá el importe entre ellos, en proporción a sus haberes.
 
 ###### Artículo 335.
 
@@ -2627,7 +2633,7 @@ La filiación se prueba con la partida de nacimiento y con el acta de matrimonio
 
 ###### Artículo 365.
 
-A falta de actas o si éstas fueren defectuosas, incompletas o falsas, se probará con la posesión constante de estado de hijo nacido de matrimonio. En defecto de esta posesión son admisibles para demostrar la filiación todos los medios de prueba que la ley autoriza, pero la testimonial no es admisible si no hubiere un principio de prueba por escrito o indicios o presunciones resultantes de hechos ciertos que se consideren bastante graves para determinar su admisión.
+A falta de acta o si éstas fueren defectuosas, incompletas o falsas, se probará con la posesión constante de estado de hijo nacido de matrimonio. En defecto de esta posesión son admisibles para demostrar la filiación todos los medios de prueba que la ley autoriza, pero la testimonial no es admisible si no hubiere un principio de prueba por escrito o indicios o presunciones resultantes de hechos ciertos que se consideren bastante graves para determinar su admisión.
 
 Si uno solo de los registros faltare o estuviere inutilizado y existe el duplicado, de éste deberá tomarse la prueba, sin admitirla de otra clase.
 
@@ -16450,3 +16456,9 @@ Los Ayuntamientos establecerán en sus respectivos presupuestos la partida que d
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
+
+P.O. 28 DE JUNIO DE 2010.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
