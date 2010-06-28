@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-propiedad-industrial-antes-ley-de-fomento-y-142"
 country: "mx"
 rank: "ley"
 publication_date: "1991-06-27"
-last_updated: "2010-06-18"
+last_updated: "2010-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-06-26"
 
 LEY DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 27 de junio de 1991.
 
@@ -1531,9 +1531,7 @@ Para la inscripción de la franquicia serán aplicables las disposiciones de est
 
 > <small>(ADICIONADO, D.O.F. 25 DE ENERO DE 2006)</small>
 
-###### Artículo 142 Bis.
-
-El contrato de franquicia deberá constar por escrito y deberá contener, cuando menos, los siguientes requisitos:
+Artículo 142 BIS.- El contrato de franquicia deberá constar por escrito y deberá contener, cuando menos, los siguientes requisitos:
 
 I.- La zona geográfica en la que el franquiciatario ejercerá las actividades objeto del contrato;
 
@@ -1563,23 +1561,17 @@ Este artículo se sujetará, en lo conducente, a lo dispuesto en el Reglamento d
 
 > <small>(ADICIONADO, D.O.F. 25 DE ENERO DE 2006)</small>
 
-###### Artículo 142 Bis 1.
-
-El franquiciante podrá tener injerencia en la organización y funcionamiento del franquiciatario, únicamente para garantizar la observancia de los estándares de administración y de imagen de la franquicia conforme a lo establecido en el contrato.
+Artículo 142 BIS 1.- El franquiciante podrá tener injerencia en la organización y funcionamiento del franquiciatario, únicamente para garantizar la observancia de los estándares de administración y de imagen de la franquicia conforme a lo establecido en el contrato.
 
 No se considerará que el franquiciante tenga injerencia en casos de fusión, escisión, transformación, modificación de estatutos, transmisión o gravamen de partes sociales o acciones del franquiciatario, cuando con ello se modifiquen las características personales del franquiciatario que hayan sido previstas en el contrato respectivo como determinante de la voluntad del franquiciante para la celebración del contrato con dicho franquiciatario.
 
 > <small>(ADICIONADO, D.O.F. 25 DE ENERO DE 2006)</small>
 
-###### Artículo 142 Bis 2.
-
-El franquiciatario deberá guardar durante la vigencia del contrato y, una vez terminado éste, la confidencialidad sobre la información que tenga dicho carácter o de la que haya tenido conocimiento y que sean propiedad del franquiciante, así como de las operaciones y actividades celebradas al amparo del contrato.
+Artículo 142 BIS 2.- El franquiciatario deberá guardar durante la vigencia del contrato y, una vez terminado éste, la confidencialidad sobre la información que tenga dicho carácter o de la que haya tenido conocimiento y que sean propiedad del franquiciante, así como de las operaciones y actividades celebradas al amparo del contrato.
 
 > <small>(ADICIONADO, D.O.F. 25 DE ENERO DE 2006)</small>
 
-###### Artículo 142 Bis 3.
-
-El franquiciante y el franquiciatario no podrán dar por terminado o rescindido unilateralmente el contrato, salvo que el mismo se haya pactado por tiempo indefinido, o bien, exista una causa justa para ello. Para que el franquiciatario o el franquiciante puedan dar por terminado anticipadamente el contrato, ya sea que esto suceda por mutuo acuerdo o por rescisión, deberán ajustarse a las causas y procedimientos convenidos en el contrato.
+Artículo 142 BIS 3.- El franquiciante y el franquiciatario no podrán dar por terminado o rescindido unilateralmente el contrato, salvo que el mismo se haya pactado por tiempo indefinido, o bien, exista una causa justa para ello. Para que el franquiciatario o el franquiciante puedan dar por terminado anticipadamente el contrato, ya sea que esto suceda por mutuo acuerdo o por rescisión, deberán ajustarse a las causas y procedimientos convenidos en el contrato.
 
 En caso de las violaciones a lo dispuesto en el párrafo precedente, la terminación anticipada que hagan el franquiciante o franquiciatario dará lugar al pago de las penas convencionales que hubieran pactado en el contrato, o en su lugar a las indemnizaciones por los daños y perjuicios causados.
 
@@ -1873,7 +1865,7 @@ Además de las publicaciones previstas en este capítulo, se publicarán en la G
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-Artículo 178 bis.- Los esquemas de trazado de circuitos integrados serán registrados y estarán protegidos en términos del presente Título. Al efecto, el Instituto tendrá las facultades siguientes:
+Artículo 178 BIS.- Los esquemas de trazado de circuitos integrados serán registrados y estarán protegidos en términos del presente Título. Al efecto, el Instituto tendrá las facultades siguientes:
 
 I.- Tramitar y, en su caso, otorgar el registro a los esquemas de trazado de circuitos integrados, así como la inscripción de sus transmisiones y licencias de uso y explotación, en los términos de esta Ley y su reglamento;
 
@@ -1883,7 +1875,7 @@ III.- Cuando no lo hayan convenido las partes, fijar el monto de las regalías a
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-Artículo 178 bis 1.- Para los efectos de este Título, se considerará como:
+Artículo 178 BIS 1.- Para los efectos de este Título, se considerará como:
 
 I.- Circuito integrado: un producto, en su forma final o en una forma intermedia, en el que los elementos, de los cuales uno por lo menos sea un elemento activo, y alguna o todas las interconexiones, formen parte integrante del cuerpo o de la superficie de una pieza de material semiconductor, y que esté destinado a realizar una función electrónica;
 
@@ -1895,17 +1887,17 @@ IV.- Esquema de trazado original: el esquema de trazado de circuitos integrados 
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-Artículo 178 bis 2.- Será registrable el esquema de trazado original, incorporado o no a un circuito integrado, que no haya sido comercialmente explotado en cualquier parte del mundo. También será registrable aun cuando haya sido comercialmente explotado de manera ordinaria, en México o en el extranjero, siempre que la solicitud de registro se presente ante el Instituto, dentro de los dos años siguientes a la fecha en que el solicitante lo explote comercialmente en forma ordinaria por primera vez en cualquier parte del mundo.
+Artículo 178 BIS 2.- Será registrable el esquema de trazado original, incorporado o no a un circuito integrado, que no haya sido comercialmente explotado en cualquier parte del mundo. También será registrable aun cuando haya sido comercialmente explotado de manera ordinaria, en México o en el extranjero, siempre que la solicitud de registro se presente ante el Instituto, dentro de los dos años siguientes a la fecha en que el solicitante lo explote comercialmente en forma ordinaria por primera vez en cualquier parte del mundo.
 
 Un esquema de trazado que consista en una combinación de elementos o interconexiones que sean habituales o comunes entre los creadores de esquemas de trazado o los fabricantes de circuitos integrados al momento de su creación, sólo será registrable si la combinación en su conjunto se considera original en los términos de la fracción IV del artículo 178 bis 1 de este Título, y cumpla con las demás condiciones señaladas en el párrafo anterior.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-Artículo 178 bis 3.- El registro de un esquema de trazado tendrá una vigencia de diez años improrrogables contados a partir de la fecha de presentación de la solicitud de registro y estará sujeta al pago de la tarifa correspondiente.
+Artículo 178 BIS 3.- El registro de un esquema de trazado tendrá una vigencia de diez años improrrogables contados a partir de la fecha de presentación de la solicitud de registro y estará sujeta al pago de la tarifa correspondiente.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-Artículo 178 bis 4.- El registro de un esquema de trazado confiere a su titular el derecho de impedir a otras personas que, sin su autorización:
+Artículo 178 BIS 4.- El registro de un esquema de trazado confiere a su titular el derecho de impedir a otras personas que, sin su autorización:
 
 I.- Reproduzcan en su totalidad el esquema de trazado protegido, o cualquiera de sus partes que se considere original por sí sola en los términos de la fracción IV del artículo 178 bis 1 de esta Ley, por incorporación en un circuito integrado o en otra forma, y
 
@@ -1919,7 +1911,7 @@ c) Un bien que incorpore un circuito integrado que a su vez incorpore un esquema
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-Artículo 178 bis 5.- El derecho que confiere el registro de un esquema de trazado no producirá efecto alguno en contra de cualquier tercero que:
+Artículo 178 BIS 5.- El derecho que confiere el registro de un esquema de trazado no producirá efecto alguno en contra de cualquier tercero que:
 
 I.- Sin autorización del titular, con propósitos privados o con el único objetivo de evaluación, análisis, investigación o enseñanza, reproduzca un esquema de trazado protegido;
 
@@ -1947,7 +1939,7 @@ La realización de cualquier actividad contemplada en el presente artículo no c
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-Artículo 178 bis 6.- Además de los datos señalados en el artículo 38 de esta Ley, la solicitud de registro deberá ir acompañada de:
+Artículo 178 BIS 6.- Además de los datos señalados en el artículo 38 de esta Ley, la solicitud de registro deberá ir acompañada de:
 
 I.- La manifestación, bajo protesta de decir verdad, de la fecha y lugar de primera explotación comercial ordinaria en alguna parte del mundo, o de que no ha sido explotado;
 
@@ -1959,17 +1951,17 @@ El solicitante podrá excluir las partes de la reproducción gráfica o fotográ
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-Artículo 178 bis 7.- El registro de un esquema de trazado se llevará a cabo, en lo conducente, conforme a lo dispuesto en los artículos 34, 35, 38, 38 bis, 39, 50 y 55 bis al 60 de esta Ley.
+Artículo 178 BIS 7.- El registro de un esquema de trazado se llevará a cabo, en lo conducente, conforme a lo dispuesto en los artículos 34, 35, 38, 38 bis, 39, 50 y 55 bis al 60 de esta Ley.
 
 Para la transmisión o licencia de los derechos que confiere un registro de esquema de trazado protegido serán aplicables las disposiciones contenidas en los artículos 62 al 69 de esta Ley. No procederá el otorgamiento de licencias obligatorias.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-Artículo 178 bis 8.- El registro de un esquema de trazado protegido será nulo cuando se haya otorgado en contravención a lo dispuesto en el artículo 178 bis 2 de este Título, siendo aplicable, en lo conducente, lo dispuesto en los artículos 78 al 81 de esta Ley.
+Artículo 178 BIS 8.- El registro de un esquema de trazado protegido será nulo cuando se haya otorgado en contravención a lo dispuesto en el artículo 178 bis 2 de este Título, siendo aplicable, en lo conducente, lo dispuesto en los artículos 78 al 81 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-Artículo 178 bis 9.- Para los efectos del artículo 229 de esta Ley, los esquemas de trazado protegidos o los circuitos integrados a los que éstos se incorporen deberán ostentar las letras: “M” o “T”, dentro de un círculo o enmarcados en alguna otra forma; acompañados del nombre del titular, sea en forma completa o en forma abreviada por medio del cual sea generalmente conocido.
+Artículo 178 BIS 9.- Para los efectos del artículo 229 de esta Ley, los esquemas de trazado protegidos o los circuitos integrados a los que éstos se incorporen deberán ostentar las letras: “M” o “T”, dentro de un círculo o enmarcados en alguna otra forma; acompañados del nombre del titular, sea en forma completa o en forma abreviada por medio del cual sea generalmente conocido.
 
 El titular del registro de un esquema de trazado podrá demandar daños y perjuicios a terceros que antes del otorgamiento de dicho registro hayan explotado sin su consentimiento el esquema de trazado, siempre y cuando dicha explotación se haya realizado después de la fecha de presentación de la solicitud de registro y el esquema de trazado de que se trate cumpla con lo dispuesto en el párrafo anterior.
 
@@ -2631,9 +2623,9 @@ VI.- Usar la información contenida en un secreto industrial, que conozca por vi
 
 Los delitos previstos en este artículo se perseguirán por querella de parte ofendida.
 
-> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2010)</small>
 
-Artículo 223 bis.- Se impondrá de dos a seis años de prisión y multa de cien a diez mil días de salario mínimo general vigente en el Distrito Federal, al que venda a cualquier consumidor final en vías o en lugares públicos, en forma dolosa y con fin de especulación comercial, objetos que ostenten falsificaciones de marcas protegidas por esta Ley. Si la venta se realiza en establecimientos comerciales, o de manera organizada o permanente, se estará a lo dispuesto en los artículos 223 y 224 de esta Ley.
+Artículo 223 BIS.- Se impondrá de dos a seis años de prisión y multa de cien a diez mil días de salario mínimo general vigente en el Distrito Federal, al que venda a cualquier consumidor final en vías o en lugares públicos, en forma dolosa y con fin de especulación comercial, objetos que ostenten falsificaciones de marcas protegidas por esta Ley. Si la venta se realiza en establecimientos comerciales, o de manera organizada o permanente, se estará a lo dispuesto en los artículos 223 y 224 de esta Ley. Este delito se perseguirá de oficio.
 
 > <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
@@ -2858,3 +2850,7 @@ SEGUNDO.- Las acciones que deba realizar el Instituto Mexicano de la Propiedad I
 D.O.F. 18 DE JUNIO DE 2010.
 
 Único. El presente Decreto entrará en vigor a los 90 días de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE JUNIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
