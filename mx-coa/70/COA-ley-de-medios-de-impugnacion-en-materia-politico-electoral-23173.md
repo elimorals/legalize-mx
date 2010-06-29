@@ -4,7 +4,7 @@ identifier: "COA-ley-de-medios-de-impugnacion-en-materia-politico-electoral-2317
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2008-06-27"
+last_updated: "2010-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE MEDIOS DE IMPUGNACION EN MATERIA POLITICO-ELECTORAL Y DE PARTICIPACION CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 16 de noviembre de 2001.
 
@@ -759,6 +759,10 @@ IV. Cuando los candidatos a presidentes municipales, síndicos y regidores que h
 
 V. Cuando el candidato a gobernador del estado sea declarado inelegible por el Tribunal Electoral, por haberse demostrado plenamente que no cumple con los requisitos legales para desempeñar ese cargo.
 
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2010)</small>
+
+VI. Cuando se rebasen los topes de gastos de precampaña y campaña determinados para la elección de que se trate.
+
 ###### Artículo 83.
 
 El Tribunal Electoral podrá declarar la nulidad de una elección de diputados, Ayuntamientos o gobernador, cuando se hayan cometido en forma generalizada violaciones substanciales y graves en la jornada electoral de acuerdo con las causales de nulidad previstas en esta ley, en el municipio, distrito o en la entidad, siempre y cuando éstas se encuentren plenamente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección, salvo que las irregularidades sean imputables a los partidos promoventes o a sus candidatos.
@@ -823,9 +827,11 @@ I. Los partidos políticos o coaliciones con interés legítimo.
 
 II. Los candidatos, exclusivamente cuando por motivos de inelegibilidad la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría. En todos los demás casos, sólo podrán intervenir como coadyuvantes.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2010)</small>
+
 ###### Artículo 89.
 
-En los casos específicos en los que el motivo del juicio electoral se relacione con la práctica de los cómputos; el término previsto en esta ley de cuatro días para presentar el medio de impugnación correspondiente, deberá computarse a partir del día siguiente al en que concluya la práctica de dichos cómputos.
+En los casos específicos en los que el motivo del juicio electoral se relacione con la práctica de los cómputos, el término previsto en esta ley de tres días para presentar el medio de impugnación correspondiente, deberá computarse a partir del día siguiente al en que concluya la práctica de dichos cómputos.
 
 ###### Artículo 90.
 
@@ -998,3 +1004,13 @@ P.O. 27 DE JUNIO DE 2008.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
