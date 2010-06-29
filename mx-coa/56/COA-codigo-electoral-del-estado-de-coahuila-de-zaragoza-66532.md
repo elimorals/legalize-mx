@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-del-estado-de-coahuila-de-zaragoza-66532"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-06"
-last_updated: "2009-05-12"
+last_updated: "2010-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 CODIGO ELECTORAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CODIGO ELECTORAL DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el viernes 6 de febrero de 2009.
 
@@ -4462,3 +4464,57 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las disposiciones relativas a las candidaturas independientes a que se refiere el Código contenido en el presente Decreto, sólo serán aplicables a partir del año 2017, en caso de que la Constitución Política de los Estados Unidos Mexicanos lo permita y se reglamente el acceso a tiempos de radio y televisión para dichas candidaturas.
+
+Tercero.- Se abroga el Código Electoral del Estado de Coahuila de Zaragoza publicado en el Periódico Oficial del Estado el 6 de febrero de 2009, así como sus reformas y adiciones.
+
+Cuarto.- Los ciudadanos que a la fecha de entrada en vigor del presente Decreto hubiesen iniciado los trámites ante el Instituto para obtener su registro como partido político estatal, conforme al Código que se abroga, deberán acreditar únicamente los requisitos establecidos en este Código y quedarán sujetos al procedimiento siguiente:
+
+I. Quienes hayan presentado su solicitud de registro y, en su caso, documentación para la constitución de un partido político en los términos del Código que se abroga, tendrán el término de un mes contado a partir de la entrada en vigor del presente Decreto, para presentar los documentos que acrediten el cumplimiento de los requisitos a que se refiere el párrafo 3 del artículo 30 de este Código, relativos a:
+
+a) Contar con declaración de principios, programa de acción y estatutos, y
+
+b) Acreditar, mediante las hojas de afiliación, en los formatos aprobados por el Consejo General del Instituto, que cuenta con al menos un número de afiliados equivalente al 0.26% del total de ciudadanos inscritos en el Padrón Electoral del Estado, considerando para el efecto el utilizado en la elección estatal inmediata anterior.
+
+II. El Instituto verificará el cumplimiento de los requisitos y certificará la autenticidad de las afiliaciones presentadas, debiendo notificar el resultado.
+
+III. Si del resultado de la revisión que realice el Instituto resulta el incumplimiento de cualquiera de los requisitos establecidos en este Código, el Secretario Ejecutivo formulará el dictamen correspondiente, en sentido negativo, para su aprobación por el Consejo General. En caso positivo, notificará a los interesados a fin de que procedan a lo siguiente:
+
+a) Celebrar, dentro del mes siguiente al de la fecha de notificación, una Asamblea Estatal Constitutiva, cumpliendo los siguientes requisitos:
+
+1) Contar con delegados propietarios en una proporción de máximo, un delegado por cada doscientos afiliados;
+
+2) Integrar la lista de delegados, acreditando que concurrieron, por lo menos, la mitad más uno, y
+
+3) Que los delegados aprobaron los documentos básicos del partido político y eligieron a los integrantes de su órgano estatal de dirección.
+
+IV. La Asamblea deberá realizarse en presencia del funcionario designado por el Instituto, quién deberá certificar el cumplimiento de los requisitos señalados en el párrafo anterior, elaborando para tal efecto el acta correspondiente.
+
+V. Realizada la Asamblea, el Secretario Ejecutivo integrará el expediente respectivo y formulará un proyecto de dictamen, para su aprobación por el Consejo General, mismo que, en todo caso, será notificado a los interesados para todos los fines legales.
+
+VI. Las decisiones que adopte el Consejo General podrán ser impugnadas ante el Tribunal Electoral.
+
+VII. El registro otorgado por el Instituto a un partido político estatal, le confiere de inmediato los derechos y obligaciones que establece este Código, salvo las disposiciones previstas por el mismo.
+
+En todo caso, el Instituto contará con un término de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, para resolver respecto a las solicitudes planteadas.
+
+Quinto.- Salvo por lo dispuesto en el artículo transitorio anterior, los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Sexto.- El personal del Instituto que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+Séptimo.- Cuando con motivo del presente Decreto, cualquier órgano del Instituto cambie de adscripción, el traspaso se hará incluyendo al personal a su servicio, las asignaciones presupuestales autorizadas, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y demás bienes que haya utilizado para la atención de los asuntos a su cargo; el consejero presidente y el secretario ejecutivo del Instituto dispondrán lo necesario para garantizar la transición ordenada de las estructuras orgánicas anteriores a las dispuestas por el Código Electoral que se expide conforme al presente Decreto.
+
+Octavo.- El titular de la Contraloría Interna del Instituto, será designado por el Congreso del Estado a más tardar sesenta días después de la entrada en vigor del presente Decreto.
+
+Noveno.- El Consejo General deberá designar al titular de la Unidad de Fiscalización a que se refiere el presente Decreto, a más tardar cuarenta días después de la entrada en vigor del presente Decreto.
+
+Décimo.- El Consejo General del Instituto dictará los acuerdos necesarios para hacer efectivas las disposiciones de este Código y expedirá los reglamentos que se deriven del mismo a más tardar dentro de los cuarenta días siguientes a la entrada en vigor del presente Decreto.
+
+Décimo primero.- Para estudiar las modalidades del voto de los ciudadanos coahuilenses residentes en el extranjero, el Instituto Electoral y de Participación Ciudadana del Estado de Coahuila integrará una Comisión para el análisis de las disposiciones nacionales e internacionales en materia de voto extraterritorial. Esta Comisión estará integrada por miembros del Poder Legislativo y del Instituto.
+
+Décimo segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
