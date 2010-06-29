@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2010-03-26"
+last_updated: "2010-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -310,9 +310,13 @@ IV. A rehusar el pago de todo préstamo o contribución que no esté decretado l
 
 Son deberes del ciudadano coahuilense:
 
-I. Inscribirse en el padrón del Municipio de su residencia para el ejercicio de sus derechos políticos.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2010)</small>
 
-II. Votar en las elecciones populares en la municipalidad y sección que les corresponda.
+I. Inscribirse en el padrón del Municipio de su residencia.
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2010)</small>
+
+II. Votar en las elecciones populares en los términos que prescriban las leyes.
 
 III. Desempeñar los cargos de elección popular y el de jurado en asuntos judiciales, en la forma que establezca la ley.
 
@@ -398,131 +402,61 @@ El Poder Público del Estado como expresión constitutiva, concreta y dinámica 
 
 El pueblo, en quien reside esencial y originariamente la soberanía que deposita formalmente en esta Constitución, tendrá siempre el derecho de elegir o nombrar, conforme a las leyes, a sus representantes en los poderes públicos del estado y de los municipios y de los organismos públicos autónomos, los cuales ejercerán sus funciones de acuerdo a los principios que establece la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2010)</small>
 
 ###### Artículo 27.
 
-Los ciudadanos, mediante el ejercicio del voto, y de entre los candidatos propuestos por los partidos políticos, elegirán a los diputados locales, al Gobernador del Estado y a los integrantes de los ayuntamientos. Para ello, se observará un procedimiento eleccionario que garantice la seguridad jurídica de los electores.
+La renovación de los poderes Ejecutivo y Legislativo del Estado, así como de los ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+1. Las elecciones ordinarias se celebrarán el primer domingo de julio del año que corresponda.
 
-La renovación de los poderes legislativo y ejecutivo y de los Ayuntamientos del estado se realizará mediante elecciones libres, auténticas y periódicas, conforme a las bases siguientes:
+2. Toda propaganda gubernamental deberá suspenderse durante el tiempo que comprendan las precampañas y campañas electorales y hasta la conclusión de la jornada electoral. Se exceptúa de lo anterior la difusión de campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
+3. Los partidos políticos son entidades de interés público y se regirán por lo siguiente:
 
-I. El sufragio popular es un derecho y un deber político fundamental del ciudadano coahuilense. Este derecho será universal y su ejercicio libre, secreto, obligatorio y directo.
+a) La ley determinará las normas y requisitos para su registro legal, o para la inscripción del mismo ante la autoridad electoral estatal, así como las formas específicas de su intervención en el proceso electoral;
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+b) Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señale la ley;
 
-El ciudadano coahuilense tendrá el derecho a ser votado para todos los cargos de elección popular, siempre que cumpla con las calidades que la ley establezca. La ley garantizará que las personas con capacidades diferentes gocen de instrumentos adecuados para facilitar su derecho a votar.
+c) La ley garantizará que los partidos políticos cuenten de manera equitativa con el financiamiento público para llevar a cabo sus actividades ordinarias y de campaña, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado;
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+d) La ley fijará los criterios para determinar los límites a las erogaciones que realicen los partidos políticos durante sus precampañas y campañas electorales; establecerá los montos máximos que tendrán las aportaciones, en dinero o en especie, de sus militantes y simpatizantes y los procedimientos para el control y la vigilancia del origen y uso de todos los recursos con que cuenten; asimismo, establecerá las sanciones que deban imponerse por la comisión de infracciones en estas materias;
 
-Los ciudadanos podrán afiliarse individual y libremente a los partidos políticos. Esta Constitución y la ley garantizan mecanismos democráticos para que los ciudadanos puedan hacer efectivos sus derechos políticos a votar, ser votados y de libre asociación a través del sistema de partidos políticos.
+e) De igual manera, la ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos con registro estatal que lo pierdan y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2001)</small>
+f) Los partidos políticos tendrán derecho al uso permanente de los medios de comunicación social; su acceso a radio y televisión, durante los procesos electorales, se realizará en los términos establecidos por el artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y el Código federal en la materia;
 
-II. Los partidos políticos son instituciones constitucionales y entidades de interés público. Todo partido político deberá promover la participación del pueblo coahuilense en la vida democrática; contribuir a la integración de la representación estatal y municipal; asegurar la vida democrática de su organización y hacer posible el acceso de los ciudadanos al ejercicio del poder público, por medio del sufragio popular y de acuerdo con los programas, principios e ideas democráticas que postulen.
+g) En la propaganda política o electoral que difundan, los partidos deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+h) La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y campañas electorales, y
 
-La ley regulará en forma democrática el sistema de partidos políticos en la entidad, bajo las bases siguientes:
+i) En la postulación y registro de candidatos a diputados del Congreso del Estado y a integrantes de los ayuntamientos, los partidos políticos garantizarán la equidad de género, en los términos que fije la ley;
 
-1. El sistema de partidos se sustentará en el pluralismo político, entendido como el conjunto de ideas, intereses y anhelos de las distintas corrientes políticas e ideológicas que reflejan la composición social del estado, para enriquecer el debate plural, objetivo e informado de los ciudadanos.
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 14/2010 Y SUS ACUMULADAS 15/2010, 16/2010 Y 17/2010, DECLARÓ LA INVALIDEZ DEL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-2. La ley determinará las formas de intervención de los partidos políticos en los procesos electorales.
+4. LOS CIUDADANOS COAHUILENSES DE MANERA INDEPENDIENTE, PODRÁN EJERCER SU DERECHO CONSTITUCIONAL A SER VOTADOS EN LAS ELECCIONES ESTATALES, PREVIO CUMPLIMIENTO DE LOS REQUISITOS ESTABLECIDOS EN LA LEY.
 
-3. En los términos que la ley establezca, los partidos políticos recibirán, en forma equitativa, financiamiento público para su sostenimiento y contarán, durante los procesos electorales con apoyos para las actividades tendientes a la obtención del sufragio popular.
+5. La organización de las elecciones, plebiscitos y referendos, es una función estatal encomendada a un organismo público autónomo denominado Instituto Electoral y de Participación Ciudadana del Estado de Coahuila, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo, los partidos políticos y los ciudadanos. El Instituto se regirá por las siguientes normas y lo que establezca la ley:
 
-4. La ley fijará los criterios para determinar los límites a las erogaciones que realicen los partidos políticos durante sus precampañas y campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus militantes y simpatizantes y los procedimientos para el control y la vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; asimismo, establecerá las sanciones eficaces que deban imponerse por el incumplimiento a las disposiciones que se expidan en estas materias.
+a) Será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño; tendrá autonomía presupuestal;
 
-En todo caso, la transparencia en el financiamiento, el origen, destino y ejercicio de todos los recursos y la rendición de cuentas claras de los partidos políticos, se regirán por los principios de legalidad, honestidad, racionalidad e interés público y social.
+b) La certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores de su desempeño;
 
-5. Se propiciarán condiciones de equidad para el acceso de los partidos políticos a los medios de comunicación social.
+c) Contará en su estructura con los órganos de dirección, ejecutivos, técnicos y de vigilancia que señale la ley. El Consejo General será su órgano superior de dirección y se integrará por un consejero presidente y seis consejeros electorales; concurrirán con voz y sin voto los representantes de los partidos políticos y el Secretario Ejecutivo. La ley determinará las reglas y el procedimiento para la elección por el Congreso del Estado de los consejeros electorales y sus suplentes, mediante el voto de las dos terceras partes de los diputados presentes, durarán en su encargo siete años, pudiendo ser ratificados por una sola vez en los términos que disponga la ley;
 
-6. Se establecerán las demás normas necesarias que favorezcan la consolidación de un sistema de partidos políticos que sea democrático, representativo, ciudadanizado, auténtico y transparente.
+d) Tendrá a su cargo, de manera integral y directa, todas las actividades relativas a la organización y desarrollo de los procesos electorales locales, de los plebiscitos y referendos; los cómputos, declaración de validez y otorgamiento de constancias en las elecciones de Gobernador, diputados y ayuntamientos; la fiscalización de los recursos de los partidos políticos, el seguimiento de los compromisos de campaña de los candidatos mediante la emisión de informes anuales con fines meramente informativos y sin efecto vinculatorio alguno, y las demás que señale la ley;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2001)</small>
+e) Tendrá un Contralor interno con autonomía de gestión; designado por el Congreso del Estado, con el voto de las dos terceras partes de los diputados presentes de conformidad con las reglas y el procedimiento establecidos por la ley; durará en su encargo siete años y podrá ser ratificado por una sola vez;
 
-III. La organización de las elecciones locales y de los procedimientos del plebiscito y del referendo es una función estatal, que se realizará a través de un organismo público autónomo denominado Instituto Electoral y de Participación Ciudadana de Coahuila, dotado de personalidad jurídica y patrimonio propio.
+f) La vigilancia y fiscalización de los recursos de los partidos políticos estará a cargo del Instituto, a través de una unidad técnica cuyo titular será nombrado por el Consejo General, a propuesta de su presidente, por dos terceras partes de los consejeros con derecho a voto. La unidad contará con autonomía de gestión y desarrollará sus actividades conforme a la ley, y
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+g) El Instituto contará para su funcionamiento permanente con un servicio profesional electoral;
 
-El Instituto Electoral y de Participación Ciudadana de Coahuila, se constituirá conforme a las bases siguientes:
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
-
-1. Será autoridad constitucional en la materia, independiente en sus funciones y decisiones y profesional en su desempeño.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
-
-2. Gozará de autonomía presupuestal y financiera en los términos que establezca la ley.
-
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
-
-3. Sesionará en forma pública a través de un Consejo General, que será su órgano superior de dirección, integrado por siete Consejeros Electorales que durarán en su encargo siete años, pudiendo ser ratificados por una sola vez en los términos que disponga la ley.
-
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
-
-4. Los Consejeros Electorales propietarios y suplentes serán designados y ratificados, en su caso, por el voto de cuando menos las dos terceras partes del Pleno del Congreso Local, en los términos y conforme a los procedimientos que disponga la ley.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
-
-5. Los partidos políticos, en los términos que establezca la ley, tendrán derecho a contar con un representante propietario, con su respectivo suplente, por cada uno de ellos que participará con voz, pero sin voto, en las sesiones del Consejo General del Instituto.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
-
-6. Contará en su estructura con órganos directivos, ejecutivos, técnicos y de vigilancia, en los términos que la ley establezca.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
-
-7. La base de su funcionamiento será el servicio profesional electoral.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
-
-8. Su actuación se regirá por los principios de constitucionalidad, legalidad, certeza, independencia, imparcialidad y objetividad.
-
-(NOTA: EL 28 DE MAYO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEXTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 33/2009 Y SUS ACUMULADAS 34/2009 Y 35/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III, PÁRRAFO 9 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE FEBRERO DE 2009)</small>
-
-9. Tendrá a su cargo, además de las atribuciones que le confiera la ley, la preparación, organización, desarrollo, vigilancia y validez del proceso electoral, de los procedimientos del plebiscito y referendo, LA VERIFICACIÓN DE LOS COMPROMISOS DE CAMPAÑA DE LOS PARTIDOS POLÍTICOS y la salvaguarda del sistema de partidos políticos, en los términos de las disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
-
-El Instituto convocará a elecciones cuando fuere necesario. El Instituto calificará, en los términos previstos por la ley, las elecciones de gobernador, diputados y Ayuntamientos y emitirá las declaratorias de validez de las elecciones correspondientes y las comunicará a los poderes públicos del estado, para los efectos correspondientes.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
-
-Una vez que se emitan las declaraciones de validez o cuando fueren resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la elección de que se trate, el Instituto declarará formalmente electos al gobernador, a los diputados y a los presidentes municipales, regidores y síndicos de los Ayuntamientos del Estado de Coahuila de Zaragoza. Esta función sólo tendrá efectos declarativos y podrá ejercerse a través de los órganos del Instituto conforme lo establezca la ley.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE AGOSTO DE 2007)</small>
-
-Además deberá encargarse de difundir la cultura cívica con el objetivo de fomentar en los niños y jóvenes del sistema educativo publico y privado del estado la importancia de elegir a nuestros representantes populares, destinando el Congreso del Estado una partida presupuestal especial para el Instituto, para este fin.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
-
-10. La ley determinará los requisitos para ser consejero electoral.
-
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
-
-11. Todo órgano, dependencia o entidad de los gobiernos estatal y municipal deberá colaborar con el Instituto, en los términos de las disposiciones aplicables, para el mejor ejercicio de sus funciones, bajo los principios de autonomía estatal y municipal.
-
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2001)</small>
-
-IV. En los términos que determine la ley, se establecerá un sistema jurisdiccional de medios de impugnación uniinstancial, para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, de los plebiscitos o referendos del estado. Este sistema dará definitividad a las distintas etapas de los procesos electorales, plebiscitarios o refrendatarios y garantizará la protección de los derechos políticos de los ciudadanos a votar, ser votados, de asociación y de participación en la vida pública, sin perjuicio de lo previsto en la Constitución Política de los Estados Unidos Mexicanos.
+6. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales y los relativos a plebiscitos y referendos, la ley establecerá un sistema de medios de impugnación del que conocerá el Poder Judicial del Estado. En materia electoral la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto reclamado.
 
 El Tribunal Electoral será, con excepción de lo dispuesto en las fracciones I y II del artículo 158 de esta Constitución, la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial, en los términos que establece el artículo 136 de esta Constitución y demás leyes aplicables.
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2001)</small>
-
-V. El estado humanista, social y democrático de derecho es la forma de gobierno, de gobernar y de vivir que los coahuilenses adoptan para legitimar, perfeccionar y garantizar los derechos fundamentales de las personas, así como el desarrollo político, social, económico y cultural de la comunidad.
-
-Como forma de gobierno, la democracia garantiza el acceso al poder público por medio de elecciones limpias, transparentes y equitativas.
-
-Como forma de gobernar, la democracia es sustento legítimo del Poder Público del Estado a partir de la salvaguarda de la dignidad y el libre desarrollo del ser humano, los derechos fundamentales que le son inherentes, los derechos colectivos, el respeto a la constitucionalidad y legalidad y la promoción, fomento y ejercicio de una cultura política basada en la pluralidad, diversidad, tolerancia y racionalidad.
-
-Como forma de vida, la democracia es un valor fundamental para mantener el orden constitucional, la paz pública y la construcción de actos benéficos en favor del pueblo coahuilense.
+7. La ley determinará las infracciones y responsabilidades en materia electoral; igualmente establecerá las conductas tipificadas como delitos electorales, así como las sanciones que deban imponerse en ambos casos.
 
 ###### Artículo 28.
 
@@ -572,11 +506,11 @@ Elección e Instalación.
 
 Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominará Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2010)</small>
 
 ###### Artículo 33.
 
-El Congreso del Estado se renovará en su totalidad cada cuatro años y se integrará con dieciséis Diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales, y con nueve Diputados electos bajo el principio de representación proporcional, los cuales serán asignados en los términos que establezca la ley reglamentaria entre aquellos partidos políticos que obtengan cuando menos el 3.5% de la votación válida emitida en el Estado para la elección de Diputados.
+El Congreso del Estado se renovará en su totalidad cada tres años y se integrará con dieciséis diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales, y con nueve diputados electos por el principio de representación proporcional, los cuales serán asignados en los términos que establezca la ley entre aquellos partidos políticos que obtengan cuando menos el 2% de la votación válida emitida en el Estado para la elección de Diputados.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
@@ -592,11 +526,13 @@ Los diputados de mayoría relativa o de representación proporcional, siendo tod
 
 La demarcación territorial de los dieciséis distritos electorales se determinará por la ley de la materia.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2010)</small>
 
 ###### Artículo 35.
 
-Para tener derecho a participar en la asignación de diputaciones de representación proporcional, los partidos políticos o las coaliciones deberán satisfacer los requisitos que establezca la ley. Cubiertos los requisitos legales, las diputaciones serán distribuidas conforme a las fórmulas de asignación que determine la ley de la materia.
+Para tener derecho a participar en la asignación de diputaciones de representación proporcional, los partidos políticos deberán satisfacer los requisitos que establezca la ley. Cubiertos los requisitos legales, las diputaciones serán distribuidas conforme a las fórmulas de asignación que determine la ley de la materia.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 En todo caso, la elección de los diputados de representación proporcional se sujetará a los principios y bases siguientes:
 
@@ -604,7 +540,9 @@ I. El pluralismo político como equilibrio de representación democrática en lo
 
 II. Se constituirá una circunscripción electoral cuya demarcación será el Estado.
 
-III. El partido o coalición deberá registrar candidatos a diputados por mayoría relativa, en el número de distritos electorales que la ley señale.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2010)</small>
+
+III. El partido deberá registrar candidatos a diputados por mayoría relativa, en el número de distritos electorales que la ley señale.
 
 IV. La ley establecerá las fórmulas, reglas, porcentajes específicos, rondas de asignación, requisitos y demás procedimientos para la asignación de los diputados de representación proporcional.
 
@@ -630,9 +568,9 @@ II. Tener 21 años cumplidos el día de la elección.
 
 III. No estar en ejercicio activo en el Ejército Nacional ni tener mando en la Policía del Distrito, en que se pretenda su elección, cuando menos noventa días antes de ella.
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2010)</small>
 
-IV. No ser servidor público, a menos que se separe de su cargo antes de la elección, en los términos que señale la legislación reglamentaria.
+IV. No ser Secretario de la Administración Pública Estatal, Fiscal General del Estado, Magistrado del Poder Judicial, Presidente Municipal, Síndico o Regidor, Consejero o integrante del órgano de dirección de los organismos públicos autónomos, titulares de los organismos descentralizados, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto, ni secretario del Tribunal Electoral del Poder Judicial del Estado, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -938,7 +876,7 @@ V. Nombrar y, en su caso, ratificar a los funcionarios electorales que por ley l
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
 
-Designar a los integrantes del organismo público autónomo a que se refiere la fracción VII del artículo 7º de esta Constitución, con el voto de cuando menos las dos terceras partes de los miembros del Congreso del Estado en los términos y conforme al procedimiento que disponga la ley.
+Designar a los integrantes del organismo público autónomo a que se refiere la fracción VII del artículo 7º de esta Constitución, con el voto de cuando menos las dos terceras partes de los miembros del Congreso del Estado, en los términos y conforme al procedimiento que disponga la ley.
 
 VI. Facultar al Ejecutivo del Estado para que por sí o por medio de una comisión, celebre arreglos con los Estados vecinos sobre sus límites territoriales; reservándose el mismo Congreso la facultad de aprobar o no dichos convenios, los que en el primer caso, serán sometidos al Congreso de la Unión, para los efectos que establece la Constitución General.
 
@@ -1288,9 +1226,9 @@ III. Ser coahuilense por nacimiento o tener una residencia efectiva en el Estado
 
 IV. No encontrarse en el supuesto a que se refiere el segundo párrafo del artículo 30 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2010)</small>
 
-V. No ser servidor público, a menos que se separe de su cargo antes de la elección, en los términos que señale la legislación reglamentaria.
+V. No ser Secretario de la Administración Pública Estatal, Fiscal General del Estado, Magistrado del Poder Judicial, Presidente Municipal, Síndico o Regidor, Consejero o integrante del órgano de dirección de los organismos públicos autónomos, titulares de los organismos descentralizados, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto, ni secretario del Tribunal Electoral del Poder Judicial del Estado, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.
 
 VI. No haber figurado directa ni indirectamente en alguna asonada, motín o cuartelazo.
 
@@ -4496,7 +4434,7 @@ TERCERO.- En tanto se nombren los dos Consejeros señalados en el artículo ante
 
 CUARTO.- En relación a la disminución del número de Diputados que integrarán el Congreso del Estado, ésta surtirá efectos a partir del período comprendido del 1 de enero de 2012 y deberá realizarse el proceso de redistritación correspondiente, el cual por única ocasión quedará publicado a más tardar en el mes de enero del 2011.
 
-QUINTO.- El periodo de cuatro años para los integrantes del Congreso del Estado será aplicable a partir de la renovación a realizarse en el año 2013. En consecuencia y por única ocasión, los Diputados electos en el proceso electoral del año 2008, correspondiente a la Quincuagésima Octava Legislatura, durarán en su encargo el período comprendido del 1 de enero de 2009 al 31 de diciembre de 2011 y los Diputados electos en el proceso electoral a celebrarse en el año 2011, correspondiente a la Quincuagésima Novena Legislatura, entrarán en su encargo el 1 de enero de 2012 para culminar el día 31 de diciembre de 2013.
+QUINTO.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 262, POR EL QUE SEREFORMA LA CONSTITUCION POLITICA DEL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 29 DE JUNIO DE 2010)
 
 SEXTO.- En un plazo no mayor de 90 días naturales, el Congreso del Estado deberá emitir las reformas a su Ley Orgánica, en función de este decreto y de la integración y funcionamiento de las comisiones permanentes.
 
@@ -4555,3 +4493,27 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el artículo quinto transitorio del Decreto 5, publicado en el Periódico Oficial del Gobierno del Estado el 6 de febrero de 2009.
+
+###### ARTÍCULO TERCERO.
+
+El Presidente del Consejo General y los consejeros electorales del Instituto Electoral y de Participación Ciudadana del Estado de Coahuila, en funciones a la entrada en vigor del presente Decreto, continuarán en su encargo hasta el término del mismo, conforme a las normas aplicables hasta antes de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 14/2010 Y SUS ACUMULADAS 15/2010, 16/2010 Y 17/2010, DECLARÓ LA INVALIDEZ DEL ARTÍCULO QUINTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+###### ARTÍCULO QUINTO.
+
+LA BASE 4 DEL ARTÍCULO 27 DEL PRESENTE DECRETO, RELATIVA AL DERECHO DE LOS CIUDADANOS COAHUILENSES A SER VOTADOS EN LAS ELECCIONES ESTATALES DE MANERA INDEPENDIENTE, SÓLO SERÁ APLICABLE A PARTIR DEL AÑO 2017, EN CASO DE QUE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS LO PERMITA Y SE REGLAMENTE EL ACCESO A TIEMPOS DE RADIO Y TELEVISIÓN PARA DICHAS CANDIDATURAS.
