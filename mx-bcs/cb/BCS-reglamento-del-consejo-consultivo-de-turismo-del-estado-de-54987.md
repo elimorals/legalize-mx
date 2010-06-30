@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-del-consejo-consultivo-de-turismo-del-estado-de-5498
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-20"
-last_updated: "2007-03-20"
+last_updated: "2010-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO DEL CONSEJO CONSULTIVO DE TURISMO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DEL CONSEJO CONSULTIVO DE TURISMO, PUBLICADO EN EL B.O. 30 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de marzo de 2007.
 
@@ -268,3 +270,13 @@ VÍCTOR MANUEL GULUARTE CASTRO
 EL C. SECRETARIO ESTATAL DE TURISMO Y SECRETARIO TÉCNICO DEL CONSEJO
 
 ALBERTO TREVINO ANGULO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 30 DE JUNIO DE 2010.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente al de su Publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los Municipios deberán emitir el acuerdo de creación, instalar y reglamentar los Comités Consultivos Turísticos, conforme el Artículo 37 de la Ley Estatal de Turismo.
+
+TERCERO.- Se abroga el Reglamento del Consejo Consultivo de Turismo del Estado de Baja California Sur publicado en el boletín oficial del Gobierno del Estado número 12 en fecha 20 de marzo del 2007.
