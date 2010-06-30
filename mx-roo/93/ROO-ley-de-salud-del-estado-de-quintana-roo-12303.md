@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "1998-04-30"
+last_updated: "2010-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -47,7 +47,7 @@ La presente Ley, en el ámbito de su competencia, tiene por objeto reglamentar e
 
 ###### ARTICULO 2o.
 
-EIlderecho a la protección de la salud, tiene las siguientes finalidades:
+El derecho a la protección de la salud, tiene las siguientes finalidades:
 
 I.- El bienestar físico, mental y social del hombre, para contribuir al ejercicio pleno de sus capacidades;
 
@@ -117,7 +117,9 @@ XIII.- La prevención y el control de enfermedades transmisibles;
 
 XIV.- La prevención y el control de las enfermedades no transmisibles y accidentes;
 
-XV.- La prevención de la invalidez y la rehabilitación de los inválidos;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
+
+XV.- La prevención de la discapacidad y la rehabilitación de las personas con discapacidad;
 
 XVI.- La asistencia social;
 
@@ -125,7 +127,13 @@ XVII.- Participar con las autoridades federales en el desarrollo de los programa
 
 XVIII.- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o afuera del mismo establecimiento basándose en las normas técnicas que al efecto se emitan;
 
-XIX.- Las demás que establezca la Ley General de Salud y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
+
+XIX.- Participar con las autoridades federales, estatales, municipales y con los sectores sociales públicos y privados del Estado, en promover, apoyar y coordinar sus acciones con el Registro Nacional en materia de donación y trasplantes de órganos, tejidos y células, con el propósito de reducir la morbilidad y mortalidad por padecimiento susceptibles de ser corregidos mediante este procedimiento, bajo los lineamientos que se establecen en la Ley General y Estatal de Salud, sus reglamentos, así como las normas técnicas que sobre esta materia dicte la Secretaría de Salud u otros ordenamientos legales;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2010)</small>
+
+XX.- Las demás que establezca la Ley General de Salud, sus Reglamentos, acuerdos de coordinación y/o colaboración y otras disposiciones legales aplicables.
 
 B.- En materia de Salubridad Local:
 
@@ -271,11 +279,11 @@ El Gobierno del Estado, con la participación que corresponda al Comité de Plan
 
 ### CAPITULO II. DISTRIBUCIONES DE COMPETENCIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE UNIO DE 2010)</small>
 
 ###### ARTICULO 13.
 
-Corresponde al Gobierno del Estado:
+Corresponde al Gobierno del Estado, por conducto de su Secretaría de Salud:
 
 A) En materia de Salubridad General:
 
@@ -283,9 +291,15 @@ I.- Coordinar el Sistema Estatal de Salud y coadyuvar a su funcionamiento y cons
 
 II.- Formular y desarrollar programas locales de salud en el marco de los Sistemas Estatales y Nacional de Salud y de acuerdo con los principios y objetivos de la planeación nacional;
 
-III.- Celebrar con la federación los acuerdos de coordinación en materia de Salubridad General concurrente y exclusiva, en los términos de la Ley General de Salud y demás disposiciones legales aplicables, y
+III.- Celebrar con la federación los acuerdos de coordinación en materia de Salubridad General concurrente y exclusiva, en los términos de la Ley General de Salud y demás disposiciones legales aplicables, y (sic)
 
-IV.- Las demás atribuciones que sean necesarias para hacer efectivas las facultades anteriores y los que deriven de esta Ley y demás disposiciones generales aplicables.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
+
+IV.- Establecer y conducir el Registro Estatal de Donadores, coordinando sus acciones con el Registro Nacional de Trasplantes, con el objetivo de coadyuvar en el funcionamiento y consolidación del Sistema Nacional de trasplantes en materia de Donación y Trasplante de Órganos, Tejidos y Células de seres Humanos;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2010)</small>
+
+V.- Las demás atribuciones que sean necesarias para hacer efectivas las facultades anteriores y los que deriven de esta Ley y demás disposiciones generales aplicables.
 
 B) En materia de Salubridad Local:
 
@@ -463,7 +477,9 @@ I.- Preventivas, que incluyen las de promoción general y las de protección esp
 
 II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno, y
 
-III.- De rehabilitación, que incluye acciones tendientes a corregir las invalideces físicas y mentales.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
+
+III.- De rehabilitación, que incluye acciones tendientes a facilitar que una persona con discapacidad alcance un nivel físico, mental y sensorial óptimo para compensar la pérdida de una función, así como proporcionarle una mejor integración social.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
@@ -581,9 +597,11 @@ VI.- Información a las autoridades competentes de las irregularidades o deficie
 
 VII.- Otras actividades que coadyuven a la protección de la salud.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 52.
 
-La Secretaría de Salud del Gobierno del Estado, conjuntamente con las dependencias y entidades del sector salud, establecidas en el Estado, tanto federales como municipales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento del medio ambiente, de la salud individual o colectiva, así como, en las de prevención de enfermedades y accidentes y prevención de invalidez y rehabilitación de inválidos.
+La Secretaría de Salud del Gobierno del Estado, conjuntamente con las dependencias y entidades del sector salud, establecidas en el Estado, tanto federales como municipales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento del medio ambiente, de la salud individual o colectiva, así como, en las de prevención de enfermedades y accidentes y prevención de discapacidad y rehabilitación de las personas con discapacidad.
 
 ###### ARTICULO 53.
 
@@ -885,7 +903,9 @@ IV.- Se deberá contar con el consentimiento por escrito del sujeto en quien se 
 
 V.- Sólo podrá realizarse por profesionales de la salud en instituciones médicas que actúen bajo la vigilancia de las Autoridades Sanitarias competentes;
 
-VI.- EI profesional responsable suspenderá la investigación en cualquier momento, si sobreviene el riesgo de lesiones graves, invalidez o muerte del sujeto en quien se realice la investigación, y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
+
+VI.- El profesional responsable suspenderá la investigación en cualquier momento, si sobreviene el riesgo de lesiones graves, discapacidad o muerte del sujeto en quien se realice la investigación, y
 
 VII.- Las demás que establezca esta Ley y la correspondiente reglamentación.
 
@@ -919,7 +939,9 @@ El Gobierno del Estado, de conformidad con la Ley de Información, Estadística 
 
 La información se referirá fundamentalmente, a los siguientes aspectos:
 
-I.- Estadísticas de natalidad, mortalidad, morbilidad e invalidez;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
+
+I.- Estadísticas de natalidad, mortalidad, morbilidad y discapacidad;
 
 II.- Factores demográficos, económicos, sociales y ambientales vinculados a la salud, y
 
@@ -971,7 +993,9 @@ I.- Fomentar en la población el desarrollo de actividades y conductas que le pe
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
+
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
 
 ###### ARTICULO 97.
 
@@ -1237,27 +1261,153 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 Para la mayor eficiencia de las acciones a las que se refiere este Artículo, se creará el Consejo Estatal para la Prevención de Accidentes, del que formarán parte representantes de los sectores público, social y privado del Estado. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
-> <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE JUNIO DE 2010)</small>
 
 ### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
-## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
+## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE LAS PERSONAS CON DISCAPACIDAD
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
 ### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO I. DISPOSICIONES GENERALES
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTOS
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+ARTICULO 157 A.- Los aspectos concernientes al control sanitario de la disposición de órganos, tejidos, células y sus componentes y derivados, productos y cadáveres de seres humanos, con fines terapéuticos, son regulados conforme a las normas correspondientes contenidas en la Ley General de Salud, el Reglamento de la Ley General de Salud, las Normas Oficiales Mexicanas y los acuerdos de observancia general que en la materia dicten las autoridades competentes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
+
+### CAPITULO II. DEL OBJETO Y DEL CONSEJO ESTATAL DE TRASPLANTES
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 B.- Se constituye El Consejo Estatal de Trasplantes, como una Comisión Intersecretarial de la Administración Pública Estatal.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 C.- El Consejo tendrá por objeto promover, apoyar y coordinar las acciones en materia de trasplantes que realizan las instituciones de salud estatales en los sectores público, social y privado, con el propósito de reducir la morbilidad y mortalidad por padecimiento (sic) susceptibles de ser corregidos mediante este procedimiento, bajo los lineamientos que se establecen en la Ley General y Estatal de Salud, así como en las normas técnicas que sobre esta materia dicte la Secretaría de Salud u otros ordenamientos legales, concediéndole plena autonomía técnica para emitir opiniones, acuerdos y resoluciones, relacionados con el control y vigilancia de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, en términos de la Ley General de Salud, su reglamentación y demás disposiciones federales; así como a las actividades relacionadas con éstos y respecto de los establecimientos en que se realicen dichos actos
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 D.- El Consejo Estatal de Trasplantes tendrá las siguientes funciones:
+
+I.- Promover el diseño, instrumentación y operación del Sistema Estatal de Trasplantes, así como de los subsistemas que lo integren de conformidad con el Programa Nacional de Trasplantes y en apoyo de las acciones que el Consejo Nacional de Trasplantes lleve a cabo;
+
+II.- Proponer políticas, estrategias y acciones para la elaboración y aplicación del Programa Estatal de Trasplantes de acuerdo con las acciones que señale el Programa Nacional de Trasplantes;
+
+III.- Proponer a las autoridades competentes la realización de actividades educativas, de investigación y de difusión, para el fomento de la cultura de la donación de órganos, tejidos y células;
+
+IV.- Establecer mecanismos para la sistematización y difusión entre los sectores involucrados de la normatividad y de la información científica, técnica y sanitaria en materia de trasplantes;
+
+V.- Coordinar las acciones de las dependencias y entidades públicas estatales en la instrumentación del Programa Estatal de Trasplantes en congruencia con el Programa Nacional de Trasplantes, así como promover la concertación de acciones con las instituciones de los sectores social y privado que lleven a cabo tareas relacionadas con el Programa mencionado;
+
+VI.- Proponer a las autoridades competentes mecanismos de coordinación entre las autoridades interinstitucionales de la Entidad, con el objeto de que éstas adopten las medidas necesarias para apoyar las acciones en materia de trasplantes;
+
+VII.- Coordinar sus acciones con el Registro Nacional de Trasplantes y con los Centros Nacional y Estatales de Transfusión Sanguínea, en el ámbito de sus respectivas competencias;
+
+VIII.- Proponer mecanismos de coordinación y evaluación de los programas de capacitación y atención relacionados con los trasplantes y con los Centros Nacionales y Estatales de Transfusión Sanguínea, en el ámbito de sus respectivas competencias;
+
+IX.- Coadyuvar en la coordinación de un sistema de información y evaluación del Programa de Trasplantes en el ámbito Estatal y Municipal;
+
+X.- Coadyuvar con las autoridades competentes en la prevención del tráfico ilegal de órganos, tejidos y células;
+
+XI.- Promover el desarrollo de investigaciones en la materia, y
+
+XII.- Las demás que establezca la Ley General de Salud, Ley Estatal de Salud, acuerdos de coordinación y/o colaboración y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 E.- El Consejo Estatal de Trasplantes se integrará:
+
+I.- El Gobernador del Estado, quien fungirá como Presidente;
+
+II.- El Secretario de Salud y Director General de Servicios Estatales de Salud del Estado; quien fungirá como Coordinador General;
+
+III.- El Secretario de Gobierno;
+
+IV.- El Secretario de Educación del Estado;
+
+V.- El Secretario de Planeación y Desarrollo Regional del Estado; y
+
+VI.- El Procurador General de Justicia del Estado.
+
+Los últimos cuatro nombrados anteriormente, serán considerados como Consejeros, cuyas funciones deberán estar previstas en el Reglamento Interior del Consejo Estatal de Trasplantes para el Estado de Quintana Roo.
+
+El Consejo Estatal de Trasplantes para el Estado de Quintana Roo, celebrará sesiones en forma ordinaria tres veces al año, y en forma extraordinaria cuantas veces sean necesarias; las decisiones se tomarán por mayoría de sus miembros, teniendo el Presidente voto de calidad en caso de empate.
+
+El Presidente del Consejo Estatal de Trasplantes para el Estado de Quintana Roo invitará a participar en sus sesiones, con voz pero sin voto, a los representantes de las Dependencias Federales, Estatales y Municipales, así como a representantes de Instituciones Académicas de reconocido prestigio en las Ciencias Médicas, en la entidad así como aquellas personas e instituciones que por su experiencia puedan auxiliar al Consejo en la realización de su objeto.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 F.- El Consejo Estatal de Trasplantes para el Estado de Quintana Roo, podrá determinar la creación de Comités y grupos de trabajo, tanto de carácter permanente como transitorios, que estime convenientes para el estudio y solución de los asuntos específicos relacionados con su objeto.
+
+La integración de cada uno de los Comités, como su organización y funcionamiento, se sujetará a lo que disponga el Reglamento Interno del Consejo.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 G.- Para el eficaz desarrollo de sus funciones, el Consejo Estatal de Trasplantes para el Estado de Quintana Roo, contará con un Secretario Técnico, que será el titular de la Dirección de Protección Contra Riesgos Sanitarios de los Servicios Estatales de Salud, quien tendrá las facultades que se le asignen en el Reglamento Interno del Consejo.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 H.- El Consejo promoverá la constitución de un Patronato que tendrá por objeto la obtención de recursos para coadyuvar con aquél en la realización de sus funciones.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
+
+### CAPITULO III. DEL PATRONATO
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 I.- Es de interés público el promover la participación y colaboración de la sociedad y de sus diversos sectores, para apoyar las labores del Consejo y de las Instituciones de Salud debidamente acreditadas que realicen trasplantes de órganos, tejidos y celulas de seres humanos con fines terapéuticos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 J.- Con el objeto de coordinar la participación y colaboración de la sociedad y sus diversos sectores, se instituye el Patronato para la Donación y Trasplantes de Órganos, Tejidos y células.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 K.- El Patronato para la Donación y Trasplantes de Órganos, Tejidos y celulas, estará a cargo de la Presidenta del Patronato del Desarrollo Integral de la Familia de Quintana Roo y su mesa directiva, se conformará de acuerdo con el instrumento público que le de formalidad.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 L.- El Patronato para la Donación y Trasplantes de Órganos, Tejidos y celulas, procurará la más amplia participación de la comunidad para apoyar con recursos financieros y materiales, las actividades propiamente médicas y quirúrgicas en materia de trasplante de órganos y tejidos, así como las de capacitación, información, difusión y mejoramiento de las instalaciones de las Instituciones que participen en el programa estatal de trasplantes.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 LL.- El Patronato para la Donación y Trasplante de Órganos, Tejidos y celulas definirá la aplicación y los rubros en que se utilizarán los recursos financieros y materiales que se obtengan por la gestión, escuchando la opinión del Consejo Estatal de Trasplantes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
 
 ## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+### CAPITULO IV. DEL REGISTRO DE DONADORES
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 M.- El Consejo Estatal de Trasplantes, deberá contar con un Registro Estatal de Donadores, que integre la información en materia de donaciones, trasplantes y lista de pacientes en espera de un órgano, tejido o célula, a través de un control que contenga los datos de los donadores debidamente relacionados con los de los trasplantados.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 N.- El Registro Estatal de Donadores de Quintana Roo, estará a cargo de la Secretaria de Salud del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 Ñ.- El Registro Estatal de Donadores de Quintana Roo, tiene carácter confidencial, y únicamente tendrán acceso a esta información:
+
+1. La Autoridad Judicial
+
+2. La Autoridad Sanitaria
+
+3. El Consejo Estatal de Trasplantes.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 O.- El Secretario de Salud del Estado, proporcionará al Consejo Estatal de Trasplantes, la información en materia de donaciones, trasplantes y lista de pacientes en espera de un órgano, tejido o célula en el Estado, contenida en el Registro Estatal de Donadores de Quintana Roo y en coordinación con el Registro Nacional de Trasplantes, se deberá integrar a la lista nacional de donadores, para que en su caso pueda cumplirse con la voluntad de las personas que han decidido donar sus órganos, tejidos o células.
+
+> <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
 ###### ARTICULO 128.
 
@@ -1275,21 +1425,27 @@ Las atribuciones y funciones se regirán por las disposiciones legales, que para
 
 Son actividades básicas de asistencia social:
 
-I.- La atención a personas que, por sus carencias socioeconómicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
 
-II.- La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo e invalidez sin recursos;
+I.- La atención a personas que, por sus carencias socioeconómicas o por padecer algún tipo de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
+
+II.- La atención en establecimientos especializados a menores y ancianos en estado de abandono, desamparo o discapacidad sin recursos;
 
 III.- La promoción del bienestar del senecente (sic) y el desarrollo de acciones de preparación para la senectud;
 
-IV.- EI ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
+IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
 
-V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos e inválidos sin recursos;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
+
+V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos y personas con discapacidad sin recursos;
 
 VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
 VII.- La promoción de la participación consciente y organizada de la población con carencias en las acciones de promoción, asistencia y desarrollo social que se lleven a cabo en su propio beneficio;
 
-VIII.- EI apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas, y
+VIII.- El apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas, y
 
 IX.- La prestación de servicios funerarios.
 
@@ -1365,47 +1521,65 @@ El Gobierno del Estado, en coordinación con otras instituciones públicas feder
 
 La Unidad "Administración del Patrimonio de la Beneficencia Pública del Estado de Quintana Roo", es un Organismo Desconcentrado de los Servicios Estatales de Salud, cuyas funciones están contempladas en su Decreto de creación.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 147.
 
-Para los efectos de esta Ley, se entiende por invalidez la limitación en la capacidad de una persona para realizar por si misma actividades necesarias para el desempeño físico, mental, social, ocupacional y económico como consecuencia de una insuficiencia somática, psicológica o social.
+Para los efectos de esta Ley, se entiende por discapacidad a la ausencia, pérdida o restricción de la habilidad para desarrollar una actividad neuromotora, intelectual, visual o auditiva en la forma o dentro del margen, considerado como normal para un ser humano.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 147 bis.- La persona con discapacidad es aquella que presenta una deficiencia neuromotora, intelectual, auditiva o visual, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 147 ter- La rehabilitación es el proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel neuromotor, intelectual, auditivo o visual óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social.
+
+Este proceso requiere de la intervención de profesionales de la salud en forma reiterada, con la finalidad de establecer el adecuado seguimiento de casos, evaluar el progreso de la rehabilitación y detectar complicaciones asociadas a la misma que requieran un ajuste en el plan terapéutico y de rehabilitación.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 148.
 
-La atención en materia de prevención de invalidez y rehabilitación de inválidos comprende:
+La atención en materia de prevención de discapacidad y rehabilitación de personas con discapacidad comprende:
 
-I.- La investigación de las causas de la invalidez y de los factores que la condicionan;
+I. La investigación de las causas de la discapacidad y de los factores que la condicionan;
 
-II..- La promoción de la participación de la comunidad en la prevención y control de las causas condicionantes de la invalidez;
+II. La promoción de la participación de la comunidad en la prevención y control de las causas condicionantes de la discapacidad;
 
-III.- La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que puedan causar invalidez;
+III. La identificación temprana, el diagnóstico y la atención oportuna de procesos físicos, mentales, sensoriales o sociales que puedan causar discapacidad;
 
-IV.- La orientación educativa en materia de rehabilitación a la colectividad en general, y en particular a las familias que cuenten con algún inválido promoviendo al efecto la solidaridad social;
+IV. La orientación educativa en materia de rehabilitación a la colectividad en general, y en particular a las familias que cuenten con alguna persona con discapacidad promoviendo al efecto la solidaridad social;
 
-V.- La atención integral de los inválidos, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requiera;
+V. La atención integral de las personas con discapacidad, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requiera;
 
-VI.- Promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de los inválidos, y
+VI. La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad; y
 
-VII.- La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
+VII. La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas con discapacidad en proceso de rehabilitación.
 
 ###### ARTICULO 149.
 
 Los servicios de rehabilitación que proporcionen los establecimientos del sector salud del Estado, estarán vinculados sistemáticamente a los de rehabilitación y asistencia social que preste el organismo a que se refiere el Artículo 133 de esta Ley.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 150.
 
-EI Gobierno del Estado, a través del organismo a que se refiere el Artículo 133 de esta Ley, y en coordinación con las dependencias y entidades federales, promover el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de invalidez, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+EI Gobierno del Estado, a través del organismo a que se refiere el Artículo 133 de esta Ley, y en coordinación con las dependencias y entidades federales, deberá promover el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas con discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 151.
 
-EI organismo del Gobierno Estatal previsto en el Artículo 133 de esta Ley tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de invalidez y participar en programas de rehabilitación y educación especial.
+EI organismo del Gobierno Estatal previsto en el Artículo 133 de esta Ley tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de discapacidad y participar en programas de rehabilitación y educación especial.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-## TITULO DECIMO PRIMERO. SALUBRIDAD LOCAL
+## TITULO DECIMO PRIMERO BIS (SIC). DE LA DISPOSICION DE ORGANOS, TEJIDOS Y CELULAS EN EL ESTADO
 
-> <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2010)</small>
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 152.
 
@@ -1433,7 +1607,7 @@ IV.- Efectos de abuso de bebidas alcohólicas en los ámbitos familiar, social, 
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO VI. RASTROS
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTOS
 
 ###### ARTICULO 154.
 
@@ -1453,7 +1627,7 @@ II.- La educación a la familia para prevenir el consumo de tabaco por parte de 
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTICULO 156.
 
@@ -1473,25 +1647,25 @@ IV.- Promoverán y llevarán a cabo campañas permanentes de información y orie
 
 A los establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el Gobierno Estatal y los Municipios, así como los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
+
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+
+## TITULO DECIMO PRIMERO. SALUBRIDAD LOCAL
+
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
+
+### CAPITULO V. LIMPIEZA PUBLICA
+
+### CAPITULO VI. RASTROS
+
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ## TITULO DECIMO SEGUNDO. AUTORIZACIONES Y CERTIFICADOS
 
 ### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
-
-### CAPITULO X. BAÑOS PUBLICOS Y GIMNASIOS
-
-### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
-
-### CAPITULO XII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
-
-## TITULO XIII. VIGILANCIA SANITARIA
-
-> <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
-
-### CAPITULO XIII. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
 ###### ARTICULO 158.
 
@@ -1555,7 +1729,7 @@ Las notificaciones que conforme a esta Ley deban publicarse, surtirán efectos a
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XIV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO X. BAÑOS PUBLICOS Y GIMNASIOS
 
 ###### ARTICULO 165.
 
@@ -1581,7 +1755,7 @@ Para los efectos de esta Ley, se entiende por construcción toda edificación o 
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XV. TRANSPORTE PUBLICO ESTATAL Y MUNICIPAL
+### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 169.
 
@@ -1617,7 +1791,7 @@ EI dueño, encargado o poseedor de la construcción, reconstrucción, modificaci
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XVI. GASOLINERIAS
+### CAPITULO XII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
 
 ###### ARTICULO 177.
 
@@ -1661,7 +1835,7 @@ La aprobación de las solicitudes de refrigeración, exhumación y cremación de
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XVII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y EN SERES HUMANOS
+### CAPITULO XIII. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
 ###### ARTICULO 185.
 
@@ -1713,9 +1887,7 @@ Para toda actividad relacionada con este Capítulo se estará a lo dispuesto por
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XVIII
-
-DE LOS VENDEDORES SEMIFIJOS Y AMBULANTES.
+### CAPITULO XIV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 193.
 
@@ -1765,7 +1937,7 @@ Queda prohibida la venta de carne para el consumo humano, cuando no se cumplan c
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XV. TRANSPORTE PUBLICO ESTATAL Y MUNICIPAL
 
 ###### ARTICULO 203.
 
@@ -1809,7 +1981,7 @@ Queda prohibido que los desechos sólidos o líquidos que conduzcan los caños s
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO XVI. GASOLINERIAS
 
 ###### ARTICULO 212.
 
@@ -1837,7 +2009,7 @@ Las condiciones y requisitos sanitarios que deban reunir los establecimientos a 
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO XVII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y EN SERES HUMANOS
 
 ###### ARTICULO 215.
 
@@ -1867,9 +2039,9 @@ La Autoridad Sanitaria, deberá practicar visitas periódicas a los reclusorios,
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO UNICO
+### CAPITULO XVIII
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
+DE LOS VENDEDORES SEMIFIJOS Y AMBULANTES.
 
 ###### ARTICULO 221.
 
@@ -1889,9 +2061,7 @@ Para abrir al servicio público estos establecimientos, deberán sujetarse a lo 
 
 La operación de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y a las Normas Técnicas que en materia de salubridad local dicte el Gobierno del Estado.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 224.
 
@@ -1907,7 +2077,7 @@ Una vez terminada la edificación del centro de reunión y antes de abrirse al p
 
 EI funcionamiento de los establecimientos a que se refiere el Artículo 224 de esta Ley, deberá sujetarse a las disposiciones legales aplicables y, contara con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 227.
 
@@ -1919,7 +2089,7 @@ EI funcionamiento y personal de los establecimientos señalados en el Artículo 
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 229.
 
@@ -1937,7 +2107,9 @@ Corresponde a la Autoridad Sanitaria competente ejercer la verificación sanitar
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO IV. RECURSOS DE INCONFORMIDAD
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 231.
 
@@ -1957,7 +2129,9 @@ En los establecimientos de hospedaje, se deberá contar necesariamente con los e
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 234.
 
@@ -1969,6 +2143,8 @@ Los transportes que circulen por uno o más Municipios del Estado no requerirán
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
+
 ###### ARTICULO 236.
 
 Para los efectos de esta Ley, se entiende por gasolinería el establecimiento destinado al expendio o suministro de gasolina, aceites y demás productos derivados del petróleo que sean usados en vehículos automotores.
@@ -1976,6 +2152,8 @@ Para los efectos de esta Ley, se entiende por gasolinería el establecimiento de
 ###### ARTICULO 237.
 
 Las gasolinerías deberán contar con las instalaciones de seguridad así como las características sanitarias y de prevención ecológicas que establezcan las disposiciones legales y reglamentos aplicables y las norma técnicas correspondientes.
+
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 238.
 
@@ -2009,6 +2187,8 @@ Los propietarios de los animales a que se refiere el Artículo anterior estarán
 
 Las Autoridades Sanitarias. mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia así como otras zoonosis.
 
+### CAPITULO IV. RECURSOS DE INCONFORMIDAD
+
 ###### ARTICULO 242.
 
 Son vendedores semifijos, para los efectos de esta Ley, los comerciantes que ejercen la venta de productos diversos, alimenticios y no alimenticios en un lugar y por un tiempo determinado, que no deberá exceder de seis meses, y que previamente hubieren obtenido del H. Ayuntamiento el permiso correspondiente.
@@ -2039,7 +2219,9 @@ Queda prohibida la venta de insumos para la salud, complementos alimenticios, vi
 
 Los vendedores semifijos y ambulantes no podrán vender pescado, marisco, aguas frescas y demás alimentos que contemple el reglamento respectivo.
 
-## TITULO XIV. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+### CAPITULO V. PRESCRIPCION
+
+## TITULO XIII. VIGILANCIA SANITARIA
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
@@ -2172,6 +2354,10 @@ Los Certificados de Defunción y de Muerte Fetal serán expedidos, una vez compr
 Los certificados a que se refiere este Título, se extenderán en los modelos aprobados por la Secretaría de Salud del Gobierno Federal y de conformidad con las normas técnicas que la misma emita. Dichos modelos serán publicados en el Diario Oficial de la Federación.
 
 Las Autoridades Judiciales o Administrativas solo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
+
+> <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
+
+## TITULO XIV. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
@@ -2716,3 +2902,33 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE JUNIO DE 2010.
+
+DECRETO NUMERO 287, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 5, 13 Y EL TITULO DECIMO PRIMERO BIS DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los miembros del Consejo Estatal de Trasplantes, deberán celebrar la sesión de instalación del mismo, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+TERCERO.- El Consejo Estatal de Trasplantes, expedirá su reglamento interno dentro de los noventa días naturales posteriores a la fecha de su instalación.
+
+CUARTO.- La Secretaría de Salud del Estado, dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, deberá dar inicio a la operación del Registro Estatal de Donadores.
+
+QUINTO.- El Consejo Estatal de Trasplantes dentro de los noventa días siguientes a su instalación, deberá promover la creación del Patronato para la Donación y Trasplantes de Órganos y Tejidos en el Estado de Quintana Roo.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE JUNIO DE 2010.
+
+DECRETO NUMERO 294, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 5, 33, 52, 87, 92, 96, 130, 147, 147 BIS, 147 TER, 148, 150, 151 Y EL NOMBRE AL TITULO NOVENO DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+ARTÍCULO TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
