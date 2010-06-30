@@ -4,7 +4,7 @@ identifier: "MEX-estatuto-del-servicio-electoral-profesional-del-instituto-66481
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-01-22"
-last_updated: "2009-01-22"
+last_updated: "2010-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
 
-ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
+ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 30 DE JUNIO DE 2010.
 
 Estatuto publicado en la Sección Quinta de la Gaceta de Gobierno del Estado de México, el jueves 22 de enero de 2009.
 
@@ -1361,6 +1361,18 @@ SEGUNDO. Las atribuciones establecidas en el Estatuto del 27 de mayo de 2002, al
 
 TERCERO. La Secretaría Ejecutiva General proveerá todo lo necesario para el establecimiento y funcionamiento del Servicio Electoral Profesional de los órganos centrales.
 
-CUARTO. Al entrar en vigor este Estatuto, por esta única vez, los servidores electorales de los órganos centrales que ocupen una plaza permanente, considerada en el Catálogo de Cargos y Puestos del Servicio Electoral Profesional, serán considerados aspirantes a la titularidad, en tanto reciben el curso de formación básica electoral correspondiente y en su caso, mediante la acreditación del curso, además del cumplimiento de los requisitos adicionales marcados en el artículo 41 del presente Estatuto, obtener nombramiento titular; empero, para conservar la titularidad deberá cumplirse con los requisitos que para tal efecto se establecen en el presente Estatuto.
+CUARTO. (DEROGADO, G.G. 30 DE JUNIO DE 2010)
 
 QUINTO. Previo a la implementación del Servicio Electoral Profesional, y a propuesta de la Dirección del Servicio Electoral Profesional, la Junta General elaborará el Catálogo de Cargos y Puestos que corresponda con la descripción hecha en el Manual de Organización de cada área del Instituto, para su aprobación definitiva por parte del Consejo General.
+
+> <small>(ADICIONADO, G.G. 30 DE JUNIO DE 2010)</small>
+
+SEXTO.- Los servidores electorales adscritos a las distintas unidades administrativas que ocupan algún cargo de los contemplados en el Catálogo de Cargos y Puestos del Servicio Electoral Profesional a la fecha de la publicación de la lista respectiva, por única ocasión, podrán optar por ser considerados como integrantes del Servicio con Nombramiento Titular, siempre y cuando manifiesten su aceptación por escrito, tengan por lo menos un año laborando en el Instituto Electoral del Estado de México, o bien, hayan participado al menos en un proceso electoral dentro del mismo, por lo que, a fin de salvaguardar sus derechos laborales y valorando su experiencia, las acciones relativas a la Formación Básica Electoral, su acreditación y la Evaluación del Desempeño, se tomarán por cumplidas, y las etapas subsecuentes iniciarán su aplicación de acuerdo a lo establecido en el Estatuto. Para aquellos que lo manifiesten pero no acrediten alguna de las condiciones, deberán atender el procedimiento como aspirantes a la titularidad. En caso de plazas vacantes, se estará a lo dispuesto por este Estatuto.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 30 DE JUNIO DE 2010.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página web del Instituto Electoral del Estado de México.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor a partir de su aprobación por el Consejo General del Instituto Electoral del Estado de México.
