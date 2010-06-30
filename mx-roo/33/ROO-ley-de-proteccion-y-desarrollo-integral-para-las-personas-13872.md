@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-y-desarrollo-integral-para-las-personas-13872
 country: "mx"
 rank: "ley"
 publication_date: "1999-02-15"
-last_updated: "2007-05-28"
+last_updated: "2010-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCION Y DESARROLLO INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: 28 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: 30 DE JUNIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -43,11 +43,11 @@ La presente Ley es de orden público e interés social, tiene por objeto normar 
 
 Para efectos de esta ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
 
-I.- Personas con discapacidad: Toda persona con requerimiento especial, por padecer una alteración funcional, permanente o prolongada, física, psicológica o sensorial, congénita o adquirida que implique desventajas considerables para su integración familiar, escolar, social y laboral.
+I.- Personas con discapacidad: Toda persona que presente una deficiencia neuromotora, intelectual, auditiva o visual, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social.
 
-II.- Deficiencia: Pérdida o limitación sensorial, psicológica o social consecuencia de una alteración o daño a la salud sin importar su etiología.
+II.- (DEROGADA, P.O. 30 DE JUNIO DE 2010)
 
 III.- Educación Especial: Es la instancia del Sistema Educativo Quintanarroense, destinada a brindar atención a menores con necesidades educativas especiales con o sin discapacidad, proporcionando la integración de los educandos a los planteles de educación básica regular.
 
@@ -117,7 +117,9 @@ t) (DEROGADA, P.O. 28 DE MAYO DE 2007)
 
 u) (DEROGADA, P.O. 28 DE MAYO DE 2007)
 
-VIII.- Necesidad Educativa Especial: Condición generada en la persona con discapacidad que limita el aprendizaje de los contenidos consignados en el currículum escolar, dicha condición no sólo se ubica en la persona con discapacidad, sino también en las características del contexto escolar en que se encuentra.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
+
+VIII.- Discapacidad: Es la ausencia, pérdida o restricción de la habilidad para desarrollar una actividad neuromotora, intelectual, visual o auditiva en la forma o dentro del margen, considerado como normal para un ser humano.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2007)</small>
 
@@ -380,6 +382,20 @@ VII.- Establecer vinculación con las autoridades en materia de comunicaciones y
 ###### ARTICULO 12.
 
 Serán funciones del Centro de Rehabilitación y Educación Especial, la valorización y calificación de la discapacidad, determinando el tipo y grado de prestación de servicios que debe recibir.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+###### ARTICULO 12 Bis.
+
+Para su correcta valorización y calificación, la discapacidad puede ser:
+
+a) Auditiva.- Es la restricción en la función de percepción de los sonidos externos, alteración de los mecanismos de transmisión, transducción, conducción e integración del estímulo sonoro, que a su vez pueden limitar la capacidad de comunicación. La deficiencia abarca al oído pero también a las estructuras y funciones asociadas a él.
+
+b) Intelectual.- Es la función intelectual que se encuentra significativamente por debajo del promedio y que coexiste con limitaciones de las áreas de habilidades adaptativas: comunicación, autocuidado, habilidades sociales, participación familiar y comunitaria, autonomía; salud y seguridad, funcionalidad académica, de ocio y trabajo. Se manifiesta antes de los dieciocho años de edad.
+
+c) Neuromotora.- Es la secuela de una afección en el sistema nervioso central, periférico o ambos y al sistema músculo esquelético.
+
+d) Visual.- Esla deficiencia del órgano de la visión, las estructuras y funciones asociadas con él. Es una alteración de la agudeza visual, campo visual, motilidad ocular, visión de los colores o profundidad, que determinan una deficiencia de la agudeza visual y que una vez corregida en el mejor de los ojos es igualo menor de 20/200o cuyo campo visual es menor de 20 grados.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
 
@@ -1038,3 +1054,13 @@ SEGUNDO.- El Ejecutivo del Estado deberá contemplar dentro del presupuesto de e
 TERCERO.- El Reglamento a que se refiere la fracción I del artículo 2° Bis que se adiciona y el Reglamento que señala el artículo 61 que se reforma mediante este decreto, deberá ser expedido por el Ejecutivo del Estado, dentro del término de 60 días a partir de la aprobación del presupuesto aplicable a dichos programas.
 
 CUARTO.- Entrado en vigor el presente Decreto, el Ejecutivo del Estado y los Municipios del Estado, a efecto de dar cumplimiento a lo dispuesto por los artículos 71 párrafo segundo y 73 párrafo segundo de la presente Ley, deberán realizar las modificaciones a sus ordenamientos legales correspondientes.
+
+P.O. 30 DE JUNIO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+ARTÍCULO TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
