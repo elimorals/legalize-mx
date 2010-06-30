@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2010-06-15"
+last_updated: "2010-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2010.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 7 de octubre de 1980.
 
@@ -799,9 +799,9 @@ Cuando un lesionado necesite pronta curación, cualquier médico puede atenderlo
 
 Queda estrictamente prohibido aprehender a persona alguna sin orden de aprehensión librada por la autoridad judicial competente de conformidad con el artículo 16 de la Constitución Política de los Estado Unidos Mexicanos; hecha excepción en los términos del citado precepto de los casos de flagrante delito o casos urgentes respecto de la comisión de delitos graves.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE JUNIO DE 2010)</small>
 
-Se consideran como graves los delitos previstos en los artículos: 86 en relación al 14 respecto de la conducta dolosa, 88, 89, 94, 100 fracción III y último párrafo en relación al 14 respecto de la conducta dolosa, 117, 118, 119, 124, 127, 128, 129 párrafo segundo, 142 fracción II en relación al 145 fracciones I, V, VI, VII y VIII, 153 fracción XV, 159 párrafo segundo, 171 párrafo primero, 172-BIS, 172-TER, 189-BIS, 191, 192, 192-BIS, 192-TER, 192-QUÁTER, 193 último párrafo, 194 segundo párrafo, 194-Quinquies, 202, 203, 204 del Código Penal para el Estado Libre y Soberano de Quintana Roo.
+Se consideran como graves los delitos previstos en los artículos: 86 en relación al 14 respecto de la conducta dolosa, 87 en relación al sujeto del delito que actuó como provocador, 88, 89, 94, 100 fracción III y último párrafo en relación al 14 respecto de la conducta dolosa, 117, 118, 119, 124, 127, 128, 129 párrafo segundo, 142 fracción II en relación al 145 fracciones I, V, VI, VII y VIII, 148 Bis fracciones II y III, 148 Ter en su fracción III, 149 Bis, 153 fracción XV, 156, 159 párrafo segundo, 171 párrafo primero, 172 Bis, 172 Ter, 189 bis, 191, 192, 192 bis, 192 ter, 192 quáter, 193 último párrafo, 194 segundo párrafo, 194 Quinquies, 202, 203, 204 y 268 fracciones I, II, III, IV y V del Código Penal para el Estado Libre y Soberano de Quintana Roo.
 
 El Ministerio Público podrá duplicar el plazo de 48 horas previsto en el citado artículo 16 Constitucional, en los casos de delincuencia organizada, que serán aquellos en los que tres o más personas se organizan bajo reglas de disciplina o jerarquía, para cometer de modo violento o reiterado o con fines predominantemente lucrativos, alguno de los delitos previstos en este artículo como graves.
 
@@ -3922,5 +3922,31 @@ SEGUNDO.- Las personas que hayan cometido el delito de secuestro con anteriorida
 TERCERO.- Se derogan todas las disposiciones de Igual o menor Jerarquía que se opongan al presente Decreto.
 
 TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE JUNIO DE 2010.
+
+DECRETO NUMERO 291, POR EL QUE SE REFORMA EL ARTICULO 100 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE JUNIO DE 2010.
+
+DECRETO NUMERO 292, POR EL QUE SE REFORMA EL ARTICULO 100 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- las personas que hayan cometido el delito de violación u homicidio con anterioridad a la entrada en vigor del presente Decreto, incluidas las sentenciadas o procesadas, les serán aplicadas las disposiciones vigentes al momento de su comisión.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+T R A N S I T O R I O:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
