@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2010-04-30"
+last_updated: "2010-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE JUNIO DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -150,19 +150,21 @@ Quedan adscritos a esta Secretaría los Órganos Político-Administrativos de ca
 
 Asimismo, se le adscribe el Órgano Desconcentrado denominado Sistema de Radio y Televisión Digital del Gobierno del Distrito Federal.
 
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2010)</small>
+
 II. A la Secretaría de Desarrollo Urbano y Vivienda:
 
-1. Dirección General de Desarrollo Urbano; y
+1. Coordinación General de Desarrollo y Administración Urbana.
 
-2. Dirección General de Administración Urbana.
+1.1. Dirección General de Desarrollo Urbano.
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 2007)</small>
+1.2. Dirección General de Administración Urbana.
 
-3. Dirección General de Asuntos Jurídicos; y
+2. Dirección General de Asuntos Jurídicos.
 
-> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
+3. Dirección Ejecutiva de Información y Sistemas.
 
-4. Dirección General de Proyectos Estratégicos;
+Asimismo, se le adscribe el órgano desconcentrado denominado Autoridad del Espacio Público del Distrito Federal.
 
 > <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2009)</small>
 
@@ -2476,341 +2478,233 @@ IX. Las demás que le atribuyan otras disposiciones legales y administrativas.
 
 DE LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA.
 
+> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2010)</small>
+
 ###### Artículo 49.
 
-Corresponde a la Dirección General de Desarrollo Urbano:
+Corresponde a la Coordinación General de Desarrollo y Administración Urbana:
 
-I. Formular, coordinar, ejecutar y evaluar las políticas y los programas en materia de planeación urbana;
+I. Dirigir el Sistema de Información y Evaluación del Desarrollo Urbano del Distrito Federal, el Sistema de Información Geográfica, y en general, los sistemas de información que establezca la Secretaría de Desarrollo Urbano y Vivienda;
 
-II. Formular, revisar y proponer la actualización, modificación o cancelación de los programas en materia de desarrollo urbano, así como evaluar sus resultados;
+II. Coordinar las acciones de fomento y promoción de la inversión pública y privada en vivienda, equipamiento y servicios;
 
-III. Asesorar a los Órganos Político-Administrativos para la elaboración o actualización de sus programas delegacionales, parciales y especiales de desarrollo urbano;
+III. Participar con las autoridades competentes en la determinación de la consolidación o desalojo de los asentamientos humanos en suelo de conservación;
 
-IV. Asesorar a los Órganos Político-Administrativos en la expedición de los actos administrativos previstos en la Ley de Desarrollo Urbano y su reglamentación, en materias competencia de esta Dirección General, proponiendo para tal efecto al titular de la Secretaría de Desarrollo Urbano y Vivienda, la emisión de los instrumentos necesarios;
+IV. Coordinar la participación de la Secretaría en la elaboración de los proyectos de programas y demás instrumentos de planeación del desarrollo urbano, así como de sus modificaciones, y participar con las autoridades competentes en la elaboración de los instrumentos de planeación de la zona metropolitana;
 
-V. Proponer al titular de la Secretaría de Desarrollo Urbano y Vivienda las políticas, estrategias, líneas de acción, normas, instrumentos y criterios de aplicación en materia de desarrollo y mejoramiento urbano;
+V. Gestionar fuentes alternas de financiamiento para el ejercicio de las atribuciones de la Secretaría de Desarrollo Urbano y Vivienda;
 
-VI. Participar en el ámbito de su competencia en la elaboración de los programas: general, delegacionales, parciales y sectoriales de desarrollo urbano;
+VI. Supervisar a las unidades administrativas a su cargo en la aplicación de las políticas, estrategias y líneas de acción fijadas por el titular de la Secretaría de Desarrollo Urbano y Vivienda en materia de desarrollo y mejoramiento urbano;
 
-VII. Dictaminar la procedencia de los polígonos de actuación que hayan sido solicitados a la Secretaría de Desarrollo Urbano y Vivienda por los particulares, y someter dicho dictamen a acuerdo del titular de la misma Secretaría;
+VII. Proponer al titular de la Secretaría de Desarrollo Urbano y Vivienda políticas, instrumentos y acciones en materia de desarrollo urbano;
 
-VIII. Integrar y operar el Sistema de Información y Evaluación del Desarrollo Urbano del Distrito Federal y coordinar las actividades referentes al análisis documental urbanístico;
+VIII. Integrar la Comisión de Nomenclatura del Distrito Federal en ausencia del titular de la Secretaría de Desarrollo Urbano y Vivienda;
 
-IX. Proponer la normatividad de acciones en los polígonos de actuación y coordinar su ejecución;
+IX. Coordinar la integración del inventario de la reserva territorial;
 
-X. Promover los sistemas de actuación privado, social y por cooperación y dictaminar los proyectos de sistema de actuación por cooperación y someterlos a acuerdo del titular de la Secretaría de Desarrollo Urbano y Vivienda;
+X. Coordinar la participación de la Secretaría en las comisiones y comités de los que forme parte;
 
-XI. (DEROGADA, G.O. 19 DE ENERO DE 2007)
+XI. Coordinar los estudios y proyectos de normas en materia del patrimonio cultural urbano;
 
-XII. Coordinar y supervisar la operación del Sistema de Transferencia de Potencialidad de Desarrollo Urbano del Distrito Federal y autorizar las operaciones de transferencia de potencialidad;
+XII. Promover acciones en materia de rescate y conservación de monumentos, Áreas de Conservación Patrimonial, y en general, del Patrimonio Cultural Urbano;
 
-XIII. Emitir las determinaciones oficiales de vía pública a través de los planos de alineamiento, números oficiales y derechos de vía, e inscribir en los mismos las modificaciones de la traza urbana;
+XIII. Supervisar la elaboración de proyectos de normas de ordenación aplicables al Patrimonio Cultural Urbano de la Ciudad de México;
 
-XIV. (DEROGADA, G.O. 19 DE ENERO DE 2007)
+XIV. Coordinar las acciones necesarias para la protección, conservación, restauración, consolidación y rehabilitación de los elementos del Patrimonio Cultural Urbano y de su entorno, en coordinación con la Dependencias, Órganos y Entidades de la Administración Pública del Distrito Federal y con las autoridades federales competentes;
 
-XV. Proponer al titular de la Secretaría de Desarrollo Urbano y Vivienda el cambio de uso del suelo y de aplicación de normas de ordenación en predios particulares, en suelo urbano dirigidos al comercio y servicios de bajo impacto urbano; a la micro y pequeña empresa y a la vivienda de interés social, en los términos que señala la Ley de Desarrollo Urbano del Distrito Federal;
+XV. Supervisar la elaboración de proyectos de instrumentos administrativos, de planeación y de fomento destinados a garantizar la conservación, recuperación y regeneración del Patrimonio Cultural Urbano;
 
-XVI. Dictaminar la homologación de cualquier uso del suelo no especificado en los Programas de Desarrollo Urbano, a los usos del suelo permitidos por éstos;
+XVI. Expedir los certificados de restauración para los inmuebles afectos al Patrimonio Cultural Urbano, considerados así por esta Secretaría y por los institutos federales competentes;
 
-XVII. (DEROGADA, G.O. 19 DE ENERO DE 2007)
+XVII. Las demás atribuciones que le asignen otros ordenamientos aplicables.
 
-XVIII. Expedir las certificaciones de transferencia de potenciales de desarrollo urbano, de uso del suelo por derechos adquiridos y todos aquellos actos que la Ley de Desarrollo Urbano del Distrito Federal ordena que sean inscritos en el Registro de los Planes y Programas de Desarrollo Urbano;
-
-XIX. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XX. Sustanciar y resolver la revocación de actos administrativos expedidos por los órganos político-administrativos en los términos de la Ley de Desarrollo Urbano y su Reglamentación, en materia competencia de esta Dirección General, así como, la revocación de las certificaciones que se hayan expedido mediante error, dolo o mala fe;
-
-XXI. Promover la participación ciudadana en la elaboración de los proyectos de programas de desarrollo urbano y coordinar la consulta ciudadana que dispone la Ley de Desarrollo Urbano del Distrito Federal en la elaboración y modificación de los programas respectivos;
-
-XXII. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXIII. Coordinar la formulación, vigilancia y supervisión de las normas, criterios, requisitos, formatos, procedimientos y manuales, para la opinión, tramitación y revocación de permisos, autorizaciones, dictámenes, certificados y licencias previstos en la Ley de Desarrollo Urbano del Distrito Federal y en sus Reglamentos, en el ámbito de su competencia;
-
-XXIV. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-XXV. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-XXVI. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-XXVII. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-XXVIII. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXIX. Coadyuvar con las autoridades competentes para evitar el establecimiento de asentamientos humanos irregulares en áreas de conservación ecológica en el ámbito de su competencia;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXX. Coadyuvar en la formulación, promoción, gestión y ejecución de los Programas de Vivienda en el Distrito Federal en el ámbito de su competencia;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXXI. Formular, coordinar, ejecutar y evaluar las políticas, estrategias, líneas de acción, normas, instrumentos y criterios de aplicación en materia de áreas de conservación patrimonial y el patrimonio cultural urbano;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXXII. Elaborar y proponer estudios sobre el desarrollo de proyectos de las áreas de preservación patrimonial y el patrimonio cultural urbano;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXXIII. Promover y coordinar la participación de los diversos sectores de la sociedad en la planeación y realización de proyectos urbanos de la Ciudad de México en el ámbito de su competencia;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXXIV. Promover el desarrollo de acciones en materia de rescate y preservación de monumentos, sitios patrimoniales y del patrimonio cultural urbano;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXXV. Proponer las normas de ordenación para los sitios patrimoniales y del patrimonio cultural urbano de la Ciudad de México;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXXVI. Dictar las medidas necesarias para la protección, conservación, restauración, consolidación y rehabilitación de los elementos y monumentos del patrimonio cultural urbano del Distrito Federal, y de zonas donde éstos se encuentran, en coordinación con las instituciones federales competentes, en su caso;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXXVII. Integrar los expedientes técnico-administrativos, con la participación de la unidad jurídica, para proponer la emisión de declaratorias de bienes como elementos del patrimonio cultural urbano; y
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXXVIII. Elaborar los catálogos de monumentos y zonas históricas y artísticas del Distrito Federal y del patrimonio cultural urbano.
+> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2010)</small>
 
 ###### Artículo 50.
 
-Corresponde a la Dirección General de Administración Urbana:
+Corresponde a la Dirección General de Desarrollo Urbano:
 
-> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2007)</small>
+I. Formular los proyectos de programas y demás instrumentos de planeación en materia de desarrollo urbano del Distrito Federal;
 
-I. Dictaminar las solicitudes sobre subsidios y reducciones fiscales en materia de Desarrollo Urbano y Vivienda y evaluar su aplicación y resultados;
+II. Participar en la celebración de los actos de las autoridades federales o del Distrito Federal que sean susceptibles de afectar la aplicación de los Programas de Desarrollo Urbano y demás instrumentos de planeación del Distrito Federal;
 
-II. Proponer y participar en la asignación y desincorporación de inmuebles del patrimonio inmobiliario del Distrito Federal;
+III. Formular los planes maestros y demás políticas y estrategias en materia de planeación del desarrollo urbano, así como coordinar y evaluar su ejecución y sus resultados;
 
-III. (DEROGADA, G.O. 19 DE ENERO DE 2007)
+IV. Evaluar los resultados de los programas y demás instrumentos de planeación del desarrollo urbano del Distrito Federal y de los de la zona metropolitana, y en su caso, presentar propuestas para modificarlos;
 
-IV. Establecer los lineamientos y mecanismos de operación de la comisión de nomenclatura;
+V. Coordinar la participación de los Órganos Político-Administrativos en la formulación de los Programas de Desarrollo Urbano aplicables en sus demarcaciones territoriales correspondientes;
 
-V. Proponer las adquisiciones de las reservas territoriales para el desarrollo urbano y el equilibrio ecológico del Distrito Federal;
+VI. Asesorar a los Órganos Político-Administrativos en la celebración de los actos administrativos relacionados con la competencia de esta Dirección General;
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
+VII. Someter al titular de la Secretaría de Desarrollo Urbano y Vivienda, para su aprobación, dictámenes de constitución de polígonos de actuación, así como de sistemas de actuación privado, social y por cooperación;
 
-VI. Establecer los lineamientos y mecanismos de operación para la autorización de explotación de yacimientos de arena, cantera, tepetate, piedra arcilla, emitiendo en su caso, la licencia correspondiente y coadyuvar en la vigilancia de los trabajos respectivos;
+VIII. Operar el Sistema de Transferencia de Potencialidades de Desarrollo Urbano del Distrito Federal y autorizar las operaciones de transferencia de potencialidades;
 
-VII. Detectar zonas con problemas de inestabilidad en el subsuelo y emitir opinión para su regeneración y aprovechamiento urbano;
+IX. Fomentar con las autoridades federales, estatales, municipales y del Distrito Federal, las acciones relacionadas con la planeación del desarrollo urbano en el Distrito Federal, en la zona metropolitana y en la Región Centro País, así como promover inversiones entre los sectores público, privado y social;
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
+X. Fomentar la coordinación de acciones con las Dependencias, Órganos y Entidades de la Administración Pública Local en el diseño de los proyectos de desarrollo urbano;
 
-VIII. Coadyuvar con las autoridades competentes para evitar el establecimiento de asentamientos humanos irregulares en áreas de conservación ecológica en el ámbito de su competencia;
+XI. Promover la participación de los diversos sectores de la sociedad en la planeación y realización de proyectos de desarrollo urbano;
 
-IX. Revisar y emitir dictamen sobre el uso del suelo en las asignaciones y desincorporaciones de inmuebles en el Distrito Federal, con la participación de la Dirección General de Desarrollo Urbano;
+XII. Formular los proyectos de desarrollo urbano previstos en los Programas y demás instrumentos de planeación del desarrollo urbano;
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
+XIII. Diseñar acciones de fomento y promoción de la inversión pública y privada en vivienda, equipamiento y servicios;
 
-X. Coordinar las comisiones de admisión, e integrar, operar y actualizar el padrón de los Directores Responsables y Corresponsables de Obra, así como el de Peritos en Desarrollo Urbano y Peritos en Explotación de Yacimientos Pétreos, para vigilar y evaluar su actuación;
+XIV. Elaborar estudios e informes en materia de desarrollo urbano;
 
-XI. Coadyuvar e informar a la Oficialía Mayor de las donaciones de inmuebles a favor del Distrito Federal, así como de los bienes inmuebles donados por la Administración Pública;
+XV. Someter al titular de la Secretaría de Desarrollo Urbano y Vivienda, para su aprobación, los dictámenes de modificación de los programas para cambiar el uso del suelo urbano en predios particulares, para destinarlos al comercio, servicios de bajo impacto urbano o a la micro y pequeña industria, en los términos de la Ley de Desarrollo Urbano del Distrito Federal;
 
-XII. (DEROGADA, G.O. 19 DE ENERO DE 2007)
+XVI. Emitir dictámenes sobre la aplicación de los instrumentos de planeación del desarrollo urbano;
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
+XVII. Elaborar el proyecto de tabla de compatibilidades de los usos de suelo, y remitirlo al titular de la Secretaría de Desarrollo Urbano y Vivienda para su aprobación;
 
-XIII. Prestar el apoyo técnico correspondiente, respecto a las afectaciones en coordinación con la Dirección General de Asuntos Jurídicos;
+XVIII. Promover la participación ciudadana en la elaboración de los proyectos de Programas de Desarrollo Urbano y coordinar con el Órgano Político-administrativo correspondiente la consulta ciudadana correspondiente;
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
+XIX. Establecer las condiciones que deberán observarse en los proyectos urbano-arquitectónicos para su integración al contexto;
 
-XIV. Apoyar técnicamente las propuestas de expropiación de bienes inmuebles e integrar su expediente técnico en coordinación con la Dirección General (sic) Asuntos Jurídicos;
+XX. Integrar los comités técnicos que se establezcan en materia de desarrollo urbano, en los términos que dispongan las leyes aplicables;
 
-XV. Coadyuvar con las autoridades competentes en la regularización territorial de la tenencia de la tierra;
+XXI. Las demás atribuciones que le asignen otros ordenamientos aplicables.
 
-XVI. Coadyuvar a mantener actualizado el inventario de la reserva territorial;
-
-XVII. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XVIII. Formular, coordinar, ejecutar y evaluar las políticas, estrategias, líneas de acción, normas, instrumentos y criterios de aplicación en materia de equipamiento urbano, así como el mobiliario urbano e imagen urbana;
-
-XIX. Establecer las normas de ubicación, tamaño y tipo de los equipamientos urbanos y de mobiliario urbano;
-
-XX. Dictaminar sobre los equipamientos urbanos y el mobiliario urbano existentes en el Distrito Federal que por su naturaleza e importancia deberán ser modificados o reubicados;
-
-XXI. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXII. Elaborar y proponer estudios sobre el desarrollo de proyectos de infraestructura, equipamientos, mobiliario urbano e imagen urbana;
-
-XXIII. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXIV. Promover y coordinar la participación de los diversos sectores de la sociedad en la planeación y realización de proyectos urbanos de la Ciudad de México en el ámbito de su competencia;
-
-XXV. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-XXVI. Asesorar y supervisar a los Órganos Político-Administrativos en la expedición de los actos administrativos previstos en la Ley de Desarrollo Urbano del Distrito Federal y su reglamentación, en materias competencia de esta Dirección General, proponiendo para tal efecto al titular de la Secretaría de Desarrollo Urbano y Vivienda la emisión de los instrumentos necesarios;
-
-XXVII. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXVIII. Formular, coordinar, ejecutar y evaluar los lineamientos y políticas para la protección, conservación y consolidación del paisaje e imagen urbana;
-
-XXIX. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXX. Definir las normas y proponer la formulación de criterios para la aplicación de instrumentos y normas para la imagen urbana, así como aplicar las disposiciones del Reglamento que para tal efecto se expida;
-
-XXXI. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-XXXII. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-XXXIII. Substanciar y resolver la revocación de actos administrativos expedidos por los Órganos Político-Administrativos en los términos de la Ley de Desarrollo Urbano y su reglamentación, en materias competencia de esta Dirección General;
-
-XXXIV. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXXV. Integrar al inventario los equipamientos urbanos y el mobiliario urbano;
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXXVI. Emitir dictámenes respecto de las solicitudes para licencias, autorizaciones temporales para construir, fijar, colocar instalar, distribuir, ubicar, ampliar, modificar, desmantelar o retirar anuncios en vía pública y, en su caso, demoler las estructuras que soporten o sustenten el anuncio, con el objeto de corroborar que se cumple con los lineamientos y criterios establecidos por la Secretaría de Desarrollo Urbano y Vivienda al respecto;
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXXVII. Emitir dictámenes para la revalidación de licencias y autorizaciones temporales sobre las condiciones técnicas y legales en que fueron otorgadas;
-
-XXXVIII. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-XXXIX. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XL. Operar el Registro de los Planes y Programas de Desarrollo Urbano del Distrito Federal, e inscribir actualizaciones y modificaciones a los programas en materia de Desarrollo Urbano, así como todas aquellas inscripciones que ordena la Ley de Desarrollo Urbano del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XLI. Establecer los lineamientos de conformidad con la Ley de Desarrollo Urbano del Distrito Federal y su Reglamento para que los Órganos Político-Administrativos, en coordinación con esta Dirección General, expidan las certificaciones de zonificación de uso del suelo;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XLII. Coordinar la formulación, vigilancia y supervisión de las normas, criterios, requisitos, formatos, procedimientos y manuales, para la opinión, tramitación y revocación de permisos, autorizaciones, dictámenes, certificados y licencias previstos en la Ley de Desarrollo Urbano del Distrito Federal y en sus Reglamentos, en el ámbito de su competencia;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XLIII. Revisar y dictaminar los estudios de impacto urbano e impacto urbano-ambiental;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XLIV. Gestionar ante las Unidades Administrativas correspondientes, las opiniones de la factibilidad de servicios que se requieran;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XLV. Coordinar el funcionamiento de la Ventanilla Única para la expedición del certificado único de uso de suelo específico y factibilidad de servicios y la expedición de los certificados de zonificación para uso específico, certificaciones de zonificación para usos de suelo permitidos y certificaciones de acreditación de uso de suelo por derechos adquiridos; y
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XLVI. Dirigir las actividades encaminadas a la participación en las comisiones de límites territoriales, y de nomenclatura del Distrito Federal, así como emitir los dictámenes correspondientes.
-
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 2007)</small>
-
-Artículo 50 A.- Corresponde a la Dirección General de Asuntos Jurídicos de la Secretaría de Desarrollo Urbano y Vivienda:
-
-I. Dirigir y coordinar las funciones y acciones jurídicas necesarias para la defensa de los intereses de la Secretaría;
-
-II. Velar por el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones administrativas, en el ámbito de su competencia;
-
-III. Coordinar las actividades en materia de verificación administrativa, ejerciendo las atribuciones de la Secretaría en esta materia;
-
-IV. Emitir las órdenes de visita de verificación que correspondan de acuerdo al ámbito de competencia de la Secretaría, levantando las actas correspondientes e imponer las medidas de seguridad que se consideren procedentes;
-
-V. Calificar las actas de visita de verificación y emitir las Resoluciones Administrativas que recaigan a los procedimientos de verificación que se realicen y en su caso, imponer las sanciones que correspondan;
-
-VI. Coordinar y vigilar el cumplimiento de las disposiciones jurídicas en obras que requieran estudio de impacto urbano, urbano-ambiental, explotación de minas y/o yacimientos pétreos, mobiliario urbano con o sin publicidad integrada, publicidad exterior y anuncios en general instalados o visibles desde la vialidad primaria e imponer las sanciones correspondientes;
-
-VII. Evaluar y dictaminar los convenios, contratos y demás actos administrativos o de cualquier otra índole, necesarios para el ejercicio de las atribuciones del titular de la Secretaría, y en su caso, de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que le estén adscritas;
-
-VIII. Establecer vínculos de coordinación con instancias jurídicas de otras Dependencias, Órganos Político Administrativos, Órganos Desconcentrados y Organismos Descentralizados;
-
-IX. Intervenir en el ámbito de sus atribuciones, en el desahogo de los requerimientos formulados por los juzgados u otros organismos a efecto de auxiliarlos en la administración y procuración de justicia;
-
-X. Coordinar la tramitación de los juicios de Amparo y de Nulidad en los que el titular de la Secretaría y sus Unidades Administrativas sean parte;
-
-XI. Coadyuvar para la substanciación de los procedimientos y recursos administrativos, presentados ante el titular de la Secretaría y/o Unidades Administrativas y en su caso, proponer la resolución que proceda, conforme a las disposiciones jurídicas aplicables;
-
-XII. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Entidades y Órganos Político-Administrativos de la Administración Pública Local, cuando la naturaleza del asunto así lo requiera;
-
-XIII. Establecer programas de trabajo en matera jurídica, con el fin de que se realice mejor desempeño y funcionamiento de las unidades;
-
-XIV. Solicitar cuando fuere necesario el apoyo de las Dependencias, Organismos Descentralizados y Órganos Desconcentrados, así como el auxilio de la fuerza pública cuando fuere necesario, para hacer cumplir sus resoluciones;
-
-XV. Ser el enlace jurídico ante la Consejería Jurídica y de Servicios Legales para fortalecer los mecanismos de coordinación;
-
-XVI. Supervisar y coordinarse con las Unidades Administrativas, respecto al trámite, control, requerimiento y realización de pagos de pasivos inmobiliarios (vía expropiación y/o afectación vial) derivado de dictámenes y resoluciones de procedencia, emitidos por la Dirección General Jurídica y de Estudios Legislativos y/o sentencias judiciales remitidas por la Dirección General de Servicios Legales;
-
-XVII. Coadyuvar con las Unidades Administrativas correspondientes, para que se lleve a cabo la gestión ante las unidades competentes para la regularización inmobiliaria de predios propiedad del Distrito Federal.
-
-> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
-
-Artículo 50 B.- Corresponde a la Dirección General de Proyectos Estratégicos:
-
-I. Fomentar acciones con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados, Entidades Paraestatales y Unidades Administrativas de Apoyo Técnico-Operativo de la Administración Pública y la concertación social para la planeación del desarrollo metropolitano, además de promover inversiones entre los sectores público, privado y social;
-
-II. Fomentar la coordinación de acciones con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados, Entidades Paraestatales y Unidades Administrativas de Apoyo Técnico-Operativo competentes de la Administración Pública en el diseño de los proyectos estratégicos, de conformidad con las disposiciones de los Programas de Desarrollo Urbano;
-
-III. Promover, determinar y coordinar los proyectos estratégicos de desarrollo urbano metropolitano, así como proponer el desarrollo y operación de las nuevas políticas públicas y sus instrumentos;
-
-IV. Integrar y dar seguimiento a las mesas de trabajo y evaluación que se deriven de los proyectos metropolitanos;
-
-V. Diseñar acciones de fomento y promoción de la inversión pública y privada en vivienda, equipamiento y servicios;
-
-VI. Coadyuvar con las autoridades competentes para evitar el establecimiento de asentamientos humanos irregulares en áreas de conservación ecológica, en el ámbito de su competencia;
-
-VII. Coadyuvar en la formulación, promoción, gestión y ejecución de los Programas de Vivienda en el Distrito Federal, en el ámbito de su competencia;
-
-VIII. Proponer y desarrollar los Proyectos Urbanos estratégicos que contemple el Programa General de Desarrollo del Distrito Federal;
-
-IX. Proponer y coordinar estudios sobre el desarrollo de proyectos de infraestructura, equipamientos, mobiliario urbano, imagen urbana, preservación patrimonial y el patrimonio cultural urbano, en el ámbito de su competencia;
-
-X. Coordinarse con las Dependencias y Órganos Político-Administrativos, para apoyar la ejecución de las obras sobre proyectos urbanos previstos en los programas delegacionales, parciales y especiales de desarrollo urbano;
-
-XI. Promover y coordinar la participación de los diversos sectores de la sociedad en la planeación y realización de proyectos metropolitanos;
-
-XII. Promover la inversión inmobiliaria, tanto del sector público como privado para el equipamiento y servicios, en el ámbito de su competencia.
+> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2010)</small>
 
 ###### Artículo 50-A.
 
-Corresponde a la Dirección Ejecutiva de Servicios Jurídicos, de la Secretaría de Desarrollo Urbano y Vivienda, vigilar el cumplimiento de las normas previstas en la Ley de Desarrollo Urbano del Distrito Federal, mediante las atribuciones siguientes:
+Corresponde a la Dirección General de Administración Urbana:
 
-I. Solicitar información a los órganos político-administrativos y unidades administrativas de apoyo técnico-operativo adscritos a la Secretaría respecto del mobiliario urbano y los anuncios instalados en la ciudad;
+I. Aplicar los programas y demás instrumentos de planeación del desarrollo urbano, las políticas y estrategias en la materia, así como coordinar y evaluar su ejecución y resultados;
 
-> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+II. Aprobar los planos oficiales que contendrán la determinación de vía pública, el alineamiento, los números oficiales, los derechos de vía y las modificaciones de la traza urbana;
 
-II. Ordenar y realizar visitas de verificación, en materia de anuncios y mobiliario urbano con publicidad integrada, instalados o visibles desde la vialidad primaria, con el objeto de cerciorarse que estén conforme a lo que establecen las disposiciones legales y reglamentarias aplicables;
+III. Integrar y operar el Registro de los Planes y Programas de Desarrollo Urbano del Distrito Federal;
 
-III. Dictar y aplicar las medidas de seguridad preventivas o correctivas para evitar riesgos y daños que puedan causar el mobiliario urbano con publicidad integrada y los anuncios instalados o visibles desde la vialidad primaria;
+IV. Inscribir en el Registro de los Planes y Programas de Desarrollo Urbano del Distrito Federal, los instrumentos y demás actos relativos a la planeación del desarrollo urbano de la ciudad;
 
-IV. Las medidas de seguridad o preventivas a que se refiere la fracción anterior podrán consistir en:
+V. Expedir los certificados de zonificación previstos en la Ley de Desarrollo Urbano del Distrito Federal;
 
-a) Dar mantenimiento al mobiliario urbano de publicidad integrada y/o al anuncio;
+VI. Dirigir el funcionamiento de la Ventanilla Única SEDUVI-SITE (Secretaría de Desarrollo Urbano y Vivienda - Sistema Integral de Trámites Electrónicos);
 
-b) Suspender la construcción de la estructura del mobiliario urbano de publicidad integrada y/o del anuncio;
+VII. Coordinar la formulación de los requisitos, formatos, procedimientos y manuales necesarios para el trámite de permisos, licencias, autorizaciones, dictámenes y certificados previstos en la Ley de Desarrollo Urbano del Distrito Federal y en sus Reglamentos;
 
-c) Retirar el mobiliario urbano, anuncios y/o la estructura de los mismos.
+VIII. Dictaminar las solicitudes sobre subsidios y reducciones fiscales en materia de desarrollo urbano y vivienda y evaluar su aplicación y resultados;
 
-V. Calificar las actas de visitas de verificación en materia anuncios, mobiliario urbano con publicidad integrada instalados o visibles desde la vialidad primaria, y en su caso, imponer las sanciones correspondientes en los términos de leyes y reglamentos aplicables;
+IX. Integrar las comisiones que se establezcan en materia de desarrollo urbano, en los términos que dispongan las leyes aplicables;
 
-VI. Solicitar cuando fuere necesario el apoyo de las demás dependencias, organismos descentralizados o desconcentrados, así como el auxilio de la fuerza pública cuando fuere necesario, para hacer cumplir sus resoluciones;
+X. Integrar, operar y actualizar un padrón de Directores Responsables de Obra, Corresponsables, Peritos en Desarrollo Urbano y Peritos Responsables de la Explotación de Yacimientos Pétreos;
 
-VII. Expedir copias certificadas de los documentos que obren en sus archivos, y
+XI. Proponer las adquisiciones de las reservas territoriales para el desarrollo urbano y el equilibrio ecológico del Distrito Federal, e integrar el inventario de la reserva territorial;
 
-VIII. Las demás que le señalen de manera expresa las disposiciones jurídicas y administrativas aplicables.
+XII. Emitir la licencia para la explotación de minas, canteras y yacimientos pétreos, la cual contendrá las normas técnicas correspondientes, así como coadyuvar en la vigilancia de los trabajos de explotación respectivos;
+
+XIII. Detectar zonas de la ciudad con problemas de inestabilidad en el subsuelo, para su regeneración y aprovechamiento urbano;
+
+XIV. Coadyuvar con las autoridades competentes en la elaboración de estudios que permitan determinar el desalojo, o en su defecto, la consolidación de asentamientos humanos en Suelo de Conservación y las condiciones que deban observarse para dicha consolidación;
+
+XV. Emitir dictamen sobre la condición urbana de los inmuebles que sean materia de asignación o desincorporación respecto del patrimonio del Distrito Federal, el cual incluirá zonificación, riesgo, límites, alineamiento y número oficial, levantamiento topográfico y demás que permitan la individualización de cada uno de ellos;
+
+XVI. Intervenir en la transmisión de propiedad de los inmuebles que los particulares hagan a favor del patrimonio del Distrito Federal en los términos de la Ley de Desarrollo Urbano del Distrito Federal, e informar a la Oficialía Mayor de los actos administrativos que celebre con motivo de su intervención;
+
+XVII. Prestar a las Dependencias, Órganos y Entidades de la Administración Pública del Distrito Federal, en coordinación con la Dirección General de Asuntos Jurídicos, el apoyo necesario para llevar a cabo afectaciones viales o expropiaciones de bienes inmuebles y la integración del expediente técnico respectivo;
+
+XVIII. Participar en el procedimiento de asignación y desincorporación de inmuebles del patrimonio inmobiliario del Distrito Federal;
+
+XIX. Apoyar a las autoridades competentes en la regularización territorial de la tenencia de la tierra, en el ámbito de su competencia;
+
+XX. Integrar y actualizar de manera permanente el inventario de la reserva territorial;
+
+XXI. Asesorar y supervisar a los Órganos Político-Administrativos en la celebración de los actos administrativos relacionados con la competencia de esta Dirección General;
+
+XXII. Denunciar ante las autoridades competentes la presunta irregularidad de los actos administrativos que celebren los Órganos Político-Administrativos en materia de desarrollo urbano;
+
+XXIII. Emitir dictámenes respecto de las solicitudes para instalar, modificar o retirar anuncios y sus estructuras de soporte;
+
+XXIV. Emitir dictamen respecto de los estudios de impacto urbano que se presenten;
+
+XXV. Gestionar ante las Unidades Administrativas correspondientes, las opiniones de la factibilidad de servicios que se requieran;
+
+XXVI. Autorizar el emplazamiento o reubicación del mobiliario urbano en el territorio del Distrito Federal, con fundamento en la normativa aplicable;
+
+XXVII. Integrar y mantener actualizado el inventario del mobiliario urbano;
+
+XXVIII. Denunciar ante la autoridad competente el emplazamiento irregular del mobiliario urbano;
+
+XXIX. Registrar las manifestaciones de construcción y sus prórrogas y avisos de terminación de obra, así como expedir las autorizaciones de uso y ocupación, cuando se trate de obras que se realicen en el espacio público o requieran del otorgamiento de permisos administrativos temporales revocables; cuando sea para vivienda de interés social o popular promovida por la Administración Pública del Distrito Federal; cuando la obra se ejecute en un predio ubicado en dos o más delegaciones o incida, se realice o se relacione con el conjunto de la ciudad o se ejecute por la Administración Pública Centralizada, y
+
+XXX. Las demás atribuciones que le asignen otros ordenamientos aplicables.
+
+> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2010)</small>
+
+###### Artículo 50-B.
+
+Corresponde a la Dirección General de Asuntos Jurídicos:
+
+I. Dirigir y coordinar las acciones necesarias para la defensa jurídica de los intereses de la Secretaría;
+
+II. Velar por el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás ordenamientos en materia de desarrollo urbano, en el ámbito de su competencia;
+
+III. Atender los requerimientos de información y documentos que formule el Instituto de Verificación Administrativa del Distrito Federal a la Secretaría;
+
+IV. Ser el enlace y coordinarse con las demás Unidades Administrativas de la Secretaría, para brindar el apoyo que solicite el Instituto de Verificación Administrativa del Distrito Federal en las materias que sean de su competencia;
+
+V. Solicitar al Instituto de Verificación Administrativa del Distrito Federal la realización de verificaciones administrativas en las materias que sean competencia de la Secretaría, para vigilar el cumplimiento de la normativa aplicable;
+
+VI. Evaluar y dictaminar los convenios, contratos y demás actos administrativos o de cualquier otra índole, necesarios para el ejercicio de las atribuciones del titular de la Secretaría, y en su caso, de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que le estén adscritas;
+
+VII. Establecer vínculos de coordinación con instancias jurídicas de otras Dependencias, Órganos Político Administrativos, Órganos Desconcentrados y Organismos Descentralizados;
+
+VIII. Intervenir en el ámbito de sus atribuciones, en el desahogo de los requerimientos formulados por el Ministerio Público y los jueces, a efecto de auxiliarlos en la procuración e impartición de justicia;
+
+IX. Coordinar los actos de la Secretaría en los juicios de amparo y de nulidad en los que el titular de la Secretaría o sus Unidades Administrativas sean parte;
+
+X. Coadyuvar en la substanciación de los procedimientos y recursos administrativos, promovidos ante el titular de la Secretaría o Unidades Administrativas de la misma y en su caso, proponer la resolución que proceda, conforme a las disposiciones jurídicas aplicables;
+
+XI. Solicitar información y documentos a las Dependencias, Órganos y Entidades de la Administración Pública del Distrito Federal, cuando sea necesario para resolver los asuntos de su competencia;
+
+XII. Establecer programas de trabajo en matera jurídica orientados a mejorar el desempeño y funcionamiento de las Unidades Administrativas de la Secretaría;
+
+XIII. Solicitar, cuando fuere necesario, el apoyo de las Dependencias, Órganos y Entidades de la Administración Pública del Distrito Federal, así como el auxilio de la fuerza pública, para hacer cumplir sus resoluciones;
+
+XIV. Coordinar sus funciones con la Consejería Jurídica y de Servicios Legales;
+
+XV. Coordinarse con las Dependencias, Órganos y Entidades de la Administración Pública del Distrito Federal, para el trámite, control, requerimiento y realización de pagos de pasivos inmobiliarios causados con motivo de expropiación o afectación vial, derivados de dictámenes y resoluciones de procedencia de pago, emitidos por la Dirección General Jurídica y de Estudios Legislativos o de sentencias judiciales remitidas por la Dirección General de Servicios Legales;
+
+XVI. Coadyuvar con las Dependencias, Órganos y Entidades de la Administración Pública del Distrito Federal, en la regularización inmobiliaria de predios propiedad del Distrito Federal; y
+
+XVII. Las demás atribuciones que le confieran otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2010)</small>
+
+###### Artículo 50-C.
+
+Corresponde a la Dirección Ejecutiva de Información y Sistemas:
+
+I. Asegurar la calidad y validez de la información que difunda la Secretaría de Desarrollo Urbano y Vivienda;
+
+II. Operar el Sistema de Información y Evaluación del Desarrollo Urbano del Distrito Federal, el Sistema de Información Geográfica, y en general, los sistemas de información que establezca la Secretaría de Desarrollo Urbano y Vivienda;
+
+III. Actualizar y modernizar los flujos de información así como los bienes y servicios de tecnologías de información necesarios para el funcionamiento de las unidades administrativas y técnico-operativas de la Secretaría de Desarrollo Urbano y Vivienda;
+
+IV. Coordinación (sic) la participación de la Secretaría de Desarrollo Urbano y Vivienda en el Comité de Informática de la Administración Pública del Distrito Federal y en cualquier otro órgano colegiado relacionado con la información;
+
+V. Elaborar el Programa Institucional de Desarrollo en Tecnologías de Información, el Programa Operativo Anual, y demás instrumentos que en la materia correspondan a la Secretaría de Desarrollo Urbano y Vivienda;
+
+VI. Revisar, y en su caso aprobar, la adquisición de bienes informáticos y servicios informáticos, formuladas por las unidades administrativas adscritas a la Secretaría de Desarrollo Urbano y Vivienda, como requisito anterior a la solicitud de autorización ante el Comité de Informática;
+
+VII. Establecer las políticas, lineamientos y estándares para la integración de la cartografía digital y para la georreferenciación del territorio del Distrito Federal;
+
+VIII. Apoyar y asesorar a las unidades administrativas de la Secretaría de Desarrollo Urbano y Vivienda, en el conocimiento y uso de las herramientas y sistemas de información;
+
+IX. Elaborar los informes y demás documentos que requiera el titular de la Secretaría de Desarrollo Urbano y Vivienda y apoyar su participación en actos públicos;
+
+X. Diseñar, producir y difundir información gráfica sobre las acciones de la Secretaría de Desarrollo Urbano y Vivienda;
+
+XI. Producir información derivada de los sistemas de información a su cargo, para la autogeneración de recursos presupuestales;
+
+XII. Coordinar las acciones de comunicación social de la Secretaría de Desarrollo Urbano y Vivienda;
+
+XIII. Dirigir las funciones de la Oficina de Información Pública de la Secretaría de Desarrollo Urbano y Vivienda; y
+
+XIV. Las demás atribuciones que le asignen otros ordenamientos aplicables.
 
 #### SECCION IV
 
@@ -12954,11 +12848,9 @@ VI. Establecer un Registro de las Instituciones de Asistencia Privada y con base
 
 (REUBICADA, G.O. 31 DE ENERO DE 2001)
 
-#### SECCIÓN III
+#### SECCIÓN II BIS. ADSCRITO A LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA
 
-ADSCRITO A LA SECRETARIA DEL MEDIO AMBIENTE.
-
-> <small>(ADICIONADO, G.O. 30 DE MAYO DE 2005)</small>
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2010)</small>
 
 ###### Artículo 198.
 
@@ -12978,6 +12870,146 @@ VI. Coadyuvar, con las instancias competentes, en la revisión y producción de 
 
 VII. Las demás que le confieran las disposiciones jurídicas y administrativas aplicables.
 
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2010)</small>
+
+#### SECCIÓN III
+
+ADSCRITO A LA SECRETARIA DEL MEDIO AMBIENTE.
+
+> <small>(ADICIONADO, G.O. 30 DE MAYO DE 2005)</small>
+
+###### Artículo 198-A.
+
+La Autoridad del Espacio Público del Distrito Federal es un órgano desconcentrado de la Secretaría de Desarrollo Urbano y Vivienda, con autonomía de gestión administrativa y financiera. Su objeto es atender la gestión integral del espacio público de la Ciudad de México, entendiendo por espacio público las áreas para la recreación pública y las vías públicas, tales como: plazas, calles, avenidas, viaductos, paseos, jardines, bosques urbanos, parques públicos y demás de naturaleza análoga; para ello cuenta con las siguientes atribuciones:
+
+I. Proponer al titular de la Secretaría de Desarrollo Urbano y Vivienda las políticas en materia de espacio público y, en su caso, coordinar la ejecución y evaluación de las mismas con las Dependencias, Órganos y Entidades de la Administración Pública del Distrito Federal correspondientes;
+
+II. Opinar en materia de espacio público, a efecto de que la Secretaría de Desarrollo Urbano y Vivienda, incorpore dicha perspectiva en la formulación de los programas y demás instrumentos de planeación del desarrollo urbano, así como en sus modificaciones;
+
+III. Coadyuvar en el desarrollo de los proyectos urbanos de ingeniería y arquitectura, así como desarrollar proyectos arquitectónicos en materia de espacio público;
+
+IV. Participar en las acciones de restauración de los bosques urbanos, desde la perspectiva integral del espacio público;
+
+V. Emitir los lineamientos y criterios de carácter general que deberán observarse para el diseño y planeación de obras y servicios en materia de espacio público;
+
+VI. Emitir opinión acerca del mantenimiento y operación de las obras públicas que se ejecuten en el espacio público;
+
+VII. Coadyuvar en el diseño y planeación de obras y servicios en materia de espacio público;
+
+VIII. Planear, diseñar, ejecutar y supervisar las obras públicas que correspondan al desarrollo y equipamiento urbano del espacio público, que conforme al programa anual queden a su cargo y las demás que le sean solicitadas por cualquiera de los titulares de las Dependencias, Órganos o Entidades que conforman la Administración Pública del Distrito Federal;
+
+IX. Participar en la elaboración de las políticas generales relativas a los programas de remodelación urbana en el Distrito Federal en materia de espacio público y en coordinación con las autoridades correspondientes;
+
+X. Participar en la realización de los estudios necesarios sobre tránsito de vehículos, a fin de lograr una mejor utilización de las vías como parte del espacio público;
+
+XI. Participar en la planeación de las obras de transporte y vialidad, en la formulación de los proyectos y en la programación correspondiente, en materia de espacio público;
+
+XII. Emitir opinión respecto a la determinación de acciones encaminadas a mejorar la vialidad en lo referente a la materia de ingeniería de tránsito;
+
+XIII. Participar con la Secretaría de Turismo en el diseño y programación de las acciones para la restauración de parques y zonas turísticas, desde la perspectiva del espacio público;
+
+XIV. Coadyuvar en la proyección, promoción y apoyo al desarrollo de la infraestructura turística de la ciudad y estimular la participación de los sectores social y privado;
+
+XV. Promover la conservación de los bienes históricos, arqueológicos y artísticos ubicados en el espacio público de la Ciudad de México;
+
+XVI. Coadyuvar en las políticas para la creación, uso y aprovechamiento de los centros y espacios culturales, que forman parte del espacio público;
+
+XVII. Establecer normas técnicas en materia de mobiliario urbano;
+
+XVIII. Emitir opinión sobre el mobiliario urbano existente en el Distrito Federal;
+
+XIX. Elaborar proyectos de infraestructura, equipamiento y mobiliario urbano;
+
+XX. Establecer las condiciones que deberán observar los proyectos urbanos en el espacio público para su integración al contexto;
+
+XXI. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como contratos, convenios y demás actos jurídicos de carácter administrativo dentro del ámbito de su competencia; lo anterior, sin perjuicio de su ejecución directa por parte del Secretario de Desarrollo Urbano y Vivienda; y
+
+XXII. Las demás atribuciones que le asignen otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2010)</small>
+
+###### Artículo 198-B.
+
+La Autoridad del Espacio Público del Distrito Federal estará a cargo de un Coordinador General, quien para el despacho de los asuntos de su competencia contará con las siguientes unidades administrativas:
+
+I. Dirección General de Gestión, Vinculación y Asuntos Jurídico-Normativos;
+
+II. Dirección General de Proyectos, Construcción e Infraestructura; y
+
+III. Las demás que requiera para el cumplimiento de su objeto, en atención a la suficiencia presupuestal y a la estructura orgánica autorizada por la Contraloría General del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2010)</small>
+
+###### Artículo 198-C.
+
+La Dirección General de Gestión, Vinculación y Asuntos Jurídico-Normativos, tendrá las siguientes atribuciones:
+
+I. Acordar con el Coordinador General los asuntos de su competencia, incluidos los medios para gestionar, vincular y promover las acciones de reordenamiento y desarrollo urbano en materia de espacio público;
+
+II. Organizar y mantener actualizado el banco de información y el archivo documental de la Autoridad del Espacio Público del Distrito Federal;
+
+III. Gestionar con particulares y autoridades las acciones necesarias para el rescate del espacio público;
+
+IV. Promover con particulares las inversiones que permitan ejecutar los programas de recuperación, protección y conservación del espacio público de la Ciudad de México;
+
+V. Tener a su cargo la Oficina de Información Pública de la Autoridad del Espacio Público del Distrito Federal;
+
+VI. Dar respuesta a las demandas ciudadanas que se presenten a la Autoridad del Espacio Público del Distrito Federal;
+
+VII. Llevar la estadística de las demandas ciudadanas recibidas y de sus respuestas;
+
+VIII. Informar a las demás unidades administrativa su nivel de efectividad en la atención a las demandas ciudadanas que tengan relación con la materia a cargo de la Autoridad del Espacio Público del Distrito Federal;
+
+IX. Coordinarse y coadyuvar con las unidades administrativas adscritas a la Autoridad del Espacio Público del Distrito Federal, respecto de las cuestiones jurídicas que sean competencia de esta última;
+
+X. Actuar como órgano de consulta jurídica de la Autoridad del Espacio Público del Distrito Federal;
+
+XI. Revisar y aprobar los convenios, contratos y demás documentos que deban ser suscritos por el Coordinador General;
+
+XII. Compilar leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídico-administrativas relacionadas con la Autoridad del Espacio Público del Distrito Federal;
+
+XIII. Analizar y emitir opinión sobre proyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás ordenamientos que sean competencia de la Autoridad del Espacio Público del Distrito Federal;
+
+XIV. Asesorar en los procedimientos de adjudicación de contratos en materia de obras y servicios relacionados con las mismas, así como en materia de adquisiciones, arrendamientos y prestación de servicios;
+
+XV. Supervisar que los procedimientos de adjudicación de contratos en materia de obras y servicios relacionados con las mismas, así como en materia de adquisiciones, arrendamientos y prestación de servicios, se efectúen de conformidad con las disposiciones legales y administrativas aplicables;
+
+XVI. Asesorar en materia de integración y fundamentación de solicitudes que se presenten en los Comités y Subcomités de los que forme parte la Autoridad del Espacio Público del Distrito Federal;
+
+XVII. Apoyar al Coordinador General en el estudio, planeación, dirección, conducción, coordinación y despacho de los asuntos jurídicos a cargo de la Autoridad del Espacio Público del Distrito Federal;
+
+XVIII. Coordinar el desarrollo de estudios y acciones para el establecimiento y difusión, entre las Dependencias, Órganos y Entidades de la Administración Pública del Distrito Federal, de las políticas, criterios, normas y lineamientos competencia de la Autoridad del Espacio Público del Distrito Federal; y
+
+XIX. Las demás atribuciones que le asignen otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2010)</small>
+
+###### Artículo 198-D.
+
+La Dirección General de Proyectos, Construcción e Infraestructura, cuenta con las siguientes atribuciones:
+
+I. Acordar con el Coordinador General los proyectos que conforme al programa anual queden a cargo de la Autoridad del Espacio Público del Distrito Federal y, en su caso, la coordinación con las Dependencias, Órganos y Entidades de la Administración Pública del Distrito Federal que tengan asignadas obras en materia de espacio público;
+
+II. Establecer las directrices para la integración, presentación y aprobación de los proyectos en materia de espacio público;
+
+III. Planear, diseñar, ejecutar y supervisar las obras públicas relativas al equipamiento urbano y al espacio público;
+
+IV. Coordinar con los titulares de las Dependencias, Órganos y Entidades de la Administración Pública del Distrito Federal, la elaboración de proyectos y la ejecución de las obras que soliciten en el espacio público;
+
+V. Evaluar las propuestas de proyectos que sean presentadas para la construcción y rescate del espacio público;
+
+VI. Autorizar los proyectos a cargo de la Autoridad del Espacio Público del Distrito Federal y, en su caso, de los que sean presentados por otras Dependencias, Órganos o Entidades de la Administración Pública del Distrito Federal en materia del espacio público, para su ejecución correspondiente;
+
+VII. Promover entre las Dependencias, Órganos y Entidades de la Administración Pública del Distrito Federal, así como entre particulares, el desarrollo de nuevas tecnologías y procesos para la construcción y mantenimiento del espacio público;
+
+VIII. Promover estudios e investigaciones para mejorar los procesos constructivos y los materiales utilizados en la construcción del espacio público;
+
+IX. Coordinar la supervisión y dirección arquitectónica de los trabajos de construcción y mantenimiento del espacio público;
+
+X. Coordinar con las Dependencias encargadas de realizar obras que afecten los espacios públicos, a efecto de homogeneizar los trabajos a realizar y crear una imagen urbana; y
+
+XI. Las demás atribuciones que le asignen otros ordenamientos aplicables.
+
 > <small>(ADICIONADA, G.O. 30 DE MAYO DE 2005)</small>
 
 #### SECCION IV
@@ -12987,12 +13019,6 @@ ADSCRITO A LA SECRETARIA DE OBRAS Y SERVICIOS.
 > <small>N. DE E. LOS ARTICULOS QUE INTEGRABAN ESTA SECCION FUERON ADICIONADOS Y REUBICADOS A LA SECCION IV, G.O. 24 DE ABRIL DE 2009.</small>
 
 (REUBICADA, G.O. 31 DE ENERO DE 2001)
-
-#### SECCION V
-
-ADSCRITOS A LA SECRETARIA DE DESARROLLO SOCIAL.
-
-> <small>(REFORMADA SU DENOMINACION, G.O. 16 DE JULIO DE 2009)</small>
 
 ###### Artículo 199.
 
@@ -13163,6 +13189,12 @@ XIV. Las demás que señalen las disposiciones normativas y, en general, todas a
 > <small>N. DE E. LOS ARTICULOS QUE INTEGRABAN ESTA SECCION FUERON REUBICADOS A LA SECCION VI, G.O. 16 DE JULIO DE 2009.</small>
 
 > <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2009)</small>
+
+#### SECCION V
+
+ADSCRITOS A LA SECRETARIA DE DESARROLLO SOCIAL.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 16 DE JULIO DE 2009)</small>
 
 #### SECCION VI. ADSCRITO A LA SECRETARIA DE OBRAS Y SERVICIOS
 
@@ -13933,3 +13965,15 @@ Primero. El presente Decreto entrará en vigor al día primero de mayo del 2010.
 Segundo. Los recursos humanos, materiales, técnicos y financieros, así como los asuntos que se encuentren en trámite en la unidad administrativa que deja de tener competencia sobre los mismos por virtud de este Decreto, se transferirán para ser resueltos por la que se crea, a partir de su entrada en vigor.
 
 Tercero. El Órgano Político-Administrativo en Iztacalco deberá actualizar su Manual Administrativo en los términos y condiciones que establezca la Contraloría General.
+
+G.O. 30 DE JUNIO DE 2010.
+
+Primero. El presente Decreto entrará en vigor el día 1 de julio de 2010.
+
+Segundo. Las menciones que otros ordenamientos y disposiciones hagan a las unidades administrativas que por virtud del presente decreto se suprimen o modifican, se entenderán referidas a las unidades administrativas que asuman sus funciones.
+
+Tercero. Se abroga el Acuerdo por el que se Crea el Órgano de Apoyo de las Actividades de la Jefatura de Gobierno para la Gestión Integral de los Espacios Públicos de la Ciudad de México, Denominado Autoridad del Espacio Público del Distrito Federal, publicado el 26 de septiembre de 2008 en la Gaceta Oficial del Distrito Federal.
+
+Cuarto. Los recursos humanos, materiales, técnicos y financieros, así como los asuntos que se encuentren en trámite en las unidades administrativas que desaparezcan por virtud de este Decreto, se transferirán a las unidades administrativas que se crean, en los términos y condiciones que establezcan las disposiciones administrativas aplicables.
+
+Quinto. La Secretaría de Desarrollo Urbano y Vivienda deberá actualizar sus Manuales Administrativos en los plazos y condiciones que establezca la Contraloría General del Distrito Federal.
