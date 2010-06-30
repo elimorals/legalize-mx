@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-organo-superior-de-fiscalizacion-70632"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-10"
-last_updated: "2009-10-10"
+last_updated: "2010-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DEL ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO
 
-REGLAMENTO INTERIOR DEL ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO
+REGLAMENTO INTERIOR DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO, PUBLICADO EN EL SUPLEMENTO B DEL P.O. DE 30 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 10 de octubre de 2009.
 
@@ -481,7 +483,7 @@ VII. Comprobar que los recursos públicos estimados, recaudados y ejercidos, as�
 
 VIII. Supervisar la elaboración e integración de los informes de las Evaluaciones trimestrales y de los Informes técnicos y financieros de la revisión de las Cuentas Públicas, como consecuencia de las auditorías a su cargo;
 
-IX. Revisar los resultados de la supervisión a los papeles de trabajo dé Ios auditores del área a su cargo y en su caso, de los auditores externos;
+IX. Revisar los resultados de la supervisión a los papeles de trabajo dé los auditores del área a su cargo y en su caso, de los auditores externos;
 
 X. Supervisar y coordinar la formulación de pliegos de observaciones, y dar seguimiento a los mismos;
 
@@ -784,3 +786,15 @@ Villahermosa, Tabasco, a 02 de octubre de 2009
 Lic. Francisco José Rullán Silva
 
 Fiscal Superior del Estado.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JUNIO DE 2010.
+
+PRIMERO.- El presente Reglamento Interior deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del día siguiente de su publicación.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Órgano Superior de Fiscalización del Estado, publicado el día de (sic) 10 de octubre de 2009, en el Periódico Oficial del Estado.
+
+TERCERO.- Los asuntos que se refieran a actos o resoluciones que se hayan emitido con anterioridad a la entrada en vigor del presente Reglamento, se tramitarán y resolverán por la unidad administrativa del Órgano que tenga para estos efectos la competencia, conforme al citado Reglamento.
+
+CUARTO.- En tanto se expidan los acuerdos y demás disposiciones administrativas que deriven del presente Reglamento, continuarán siendo aplicables en lo conducente, los acuerdos, lineamientos, manuales y demás, expedidos con anterioridad a la entrada en vigor de dicho Reglamento, en lo que no se oponga al mismo.
