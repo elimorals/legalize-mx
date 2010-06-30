@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-del-consejo-estatal-para-la-44621"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-19"
-last_updated: "2004-07-19"
+last_updated: "2010-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL PARA LA MODERNIZACION DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CONSEJO ESTATAL PARA LA MODERNIZACION DE LA ADMINISTRACION PUBLICA, PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario Ter del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de julio de 2004.
 
@@ -374,3 +376,23 @@ LIC. DULCE GABRIELA BASTO PECH
 DIRECTORA GENERAL DEL CONSEJO ESTATAL PARA LA MODERNIZACION DE LA ADMINISTRACION PUBLICA
 
 LA PRESENTE HOJA DE FIRMAS CORRESPONDE AL REGLAMENTO INTERIOR DEL CONSEJO ESTATAL PARA LA MODERNIZACIÓN DE LA ADMINISTRACIÓN PÚBLICA, EXPEDIDO POR EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, EN FECHA 15 DE JULIO DE 2004.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Consejo Estatal para la Modernización de la Administración Pública, publicado en el Periódico Oficial del Gobierno del Estado el 19 de julio del 2004.
+
+###### ARTÍCULO TERCERO.
+
+Se otorga un plazo de sesenta días naturales contados a partir de la fecha de publicación del presente Reglamento, para la expedición de los correspondientes Manuales de Organización y de Procedimientos.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se expiden las disposiciones normativas a que se refiere este Reglamento, el Director General queda facultado para resolver las cuestiones inherentes a las mismas.
