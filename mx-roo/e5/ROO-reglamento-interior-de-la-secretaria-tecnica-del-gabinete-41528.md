@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-tecnica-del-gabinete-41528
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-20"
-last_updated: "2004-10-20"
+last_updated: "2010-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA TECNICA DEL GABINETE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA TECNICA DEL GABINETE DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 20 de octubre de 2004.
 
@@ -238,3 +240,19 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUINTANA ROO
 C. JOSE ENRIQUE SOSA HERNANDEZ
 
 SECRETARIO TECNICO DEL GABINETE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE JUNIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interno de la Secretaría Técnica del Gabinete del Estado de Quintana Roo, publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, con fecha 20 de octubre del año 2004, así como todas sus reformas y fe de texto correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se expidan los Manuales de Organización y de Procedimiento de la Secretaría Técnica del Gabinete, el Titular de la misma, resolverá las cuestiones que al efecto se presenten.
