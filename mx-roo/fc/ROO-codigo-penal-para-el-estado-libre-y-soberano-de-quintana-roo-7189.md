@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2010-06-15"
+last_updated: "2010-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -223,7 +223,7 @@ VIII.- Se contravenga lo dispuesto en una Ley Penal por impedimento legítima (s
 
 IX.- Al momento de realizar el hecho típico, el agente padezca enajenación mental, trastorno mental transitorio, desarrollo intelectual retardado, o cualquier otro estado mental, que le impida comprender el carácter ilícito de aquél o conducirse de acuerdo con esa comprensión, excepto en los casos en que el propio agente haya provocado esa incapacidad para cometer el delito.
 
-Tratándose de enajenación mental y de desarrollo intelectual retardado, se estará siempre a lo dispuesto por el Artículo 47 de este Código. En el caso de transtorno mental transitorio o de cualquier otro estado mental, sólo se estará a lo dispuesto por el Artículo 47 mencionado si el sujeto requiere tratamiento; en caso contrario se le pondrá en absoluta libertad;
+Tratándose de enajenación mental y de desarrollo intelectual retardado, se estará siempre a lo dispuesto por el Artículo 47 de este Código. En el caso de transtorno (sic) mental transitorio o de cualquier otro estado mental, sólo se estará a lo dispuesto por el Artículo 47 mencionado si el sujeto requiere tratamiento; en caso contrario se le pondrá en absoluta libertad;
 
 X.- Se realice el hecho bajo un error invencible respecto a alguno de los elementos esenciales que integran la descripción legal, o, por error igualmente invencible, estime el sujeto activo que su conducta está amparada por una causa de licitud, o cuando el hecho se realice por error invencible sobre la existencia de la Ley o del alcance de ésta.
 
@@ -731,6 +731,8 @@ La rehabilitación tiene por objeto reintegrar al sentenciado en el goce de los 
 
 ### CAPITULO I. HOMICIDIO
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2010)</small>
+
 ###### ARTICULO 75.
 
 Es facultad discrecional del Ejecutivo del Estado conceder el indulto, cuando el reo haya prestado importantes servicios a la Nación o al Estado.
@@ -827,23 +829,35 @@ La prescripción de la potestad para ejecutar las demás penas y medidas de segu
 
 ###### ARTICULO 86.
 
-Al que prive de la vida a otro se le impondrá de seis a dieciocho años de prisión.
+Al que prive de la vida a otro se le impondrá de diez a veinticinco años de prisión y de setecientos cincuenta a mil quinientos días multa.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 87.
 
-Al que prive de la vida a otro en riña se le impondrá de tres a nueve años seis meses de prisión, si tiene el carácter de provocador y de dos a seis años si se trata del provocado.
+Al que prive de la vida a otro en riña se le impondrá de ocho a quince años de prisión y de setecientos a mil días multa, si tiene el carácter de provocador y de cinco a diez años de prisión y de quinientos a setecientos cincuenta días multa si se trata del provocado.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 88.
 
-Al que dolosamente prive de la vida a cualquier ascendiente o descendiente en línea recta, a su hermano, cónyuge, concubino, adoptante o adoptado, con conocimiento de ese parentesco o relación se le impondrá de diez a treinta años de prisión.
+Al que dolosamente prive de la vida a cualquier ascendiente o descendiente en línea recta, a su hermano, cónyuge, concubino, adoptante o adoptado, con conocimiento de ese parentesco o relación se le impondrá de veinte a cuarenta años de prisión y de mil doscientos a dos mil quinientos días multa.
+
+A los sentenciados por el delito previsto en este artículo, no se le concederán ninguno de los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 89.
 
-Se impondrá de doce a treinta años de prisión al responsable de homicidio calificado previsto en el artículo 106.
+Se impondrá prisión de veinticinco a cincuenta años o prisión vitalicia y de mil quinientos a tres mil días multa al responsable de homicidio calificado previsto en el artículo 106.
 
 > <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 A quien prive de la vida a otra persona por su condición de género se le impondrá la pena del homicidio calificado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2010)</small>
+
+A los sentenciados por el delito previsto en este artículo, no se le concederán ninguno de los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
 
 ###### ARTICULO 90.
 
@@ -1155,7 +1169,7 @@ Si el agente espontáneamente pone en libertad al secuestrado dentro de los tres
 
 En los demás casos en que espontáneamente se libere al secuestrado, la pena será de ocho a veinte años de prisión, siempre y cuando el sujeto no haya logrado los propósitos a que se refieren las fracciones establecidas en el artículo 117.
 
-### CAPITULO UNICO(sic). ALLANAMIENTO DE MORADA EN ESTABLECIMIENTO PUBLICO CERRADO
+### CAPITULO UNICO (sic). ALLANAMIENTO DE MORADA EN ESTABLECIMIENTO PUBLICO CERRADO
 
 ###### ARTICULO 120.
 
@@ -1177,7 +1191,7 @@ Al que amenace a otro con causarle un daño en su persona de manera reiterada y 
 
 ### CAPITULO I. VIOLACION
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 124.
 
@@ -1245,35 +1259,41 @@ Cuando el secreto se revele o se use en beneficio propio o ajeno por persona que
 
 ###### ARTICULO 127.
 
-Al que por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de seis a dieciséis años y de diez a cuarenta días multa.
+Al que por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de diez a veinticinco años y de setecientos cincuenta a mil quinientos días multa.
 
-Si la víctima fuere impúber la prisión será de seis a veinte años y de veinte a sesenta días multa.
+Al que realice cópula con persona menor de catorce años de edad o que por cualquier causa no esté en posibilidades de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, se le impondrá prisión de treinta a cincuenta años o prisión vitalicia y de dos mil a tres mil días multa.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+Al que realice cópula por medio de la violencia física o moral con persona mayor de catorce años de edad y menor de dieciocho años de edad o que por cualquier causa no esté en posibilidades de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, se le impondrá prisión de veinticinco a cincuenta años o prisión vitalicia y de mil quinientos a tres mil días multa.
 
-Al que realice cópula con persona menor de catorce años de edad o que por cualquier causa no esté en posibilidades de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, se le impondrá de seis a treinta años de prisión y de cuarenta a cien días multa.
+Se equipara a la violación y se sancionará con la misma pena prevista en el primer párrafo de este artículo, al que introduzca por la vía vaginal o anal cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo de la víctima. Cuando se cometa, aún sin el uso de la violencia, en persona menor de doce años o por su estado mental no esté en posibilidades de comprender el significado del hecho o de resistir la conducta delictuosa se aplicará la sanción prevista en el párrafo tercero de este artículo.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+A los sentenciados por el delito de violación previsto en este artículo no se le concederán los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
 
-Al que realice cópula por medio de la violencia física o moral con persona menor de dieciocho años de edad o que por cualquier causa no esté en posibilidades de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, se le impondrá de seis a treinta años de prisión y de cuarenta a cien días de multa.
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
-
-Se equipara a la violación y se sancionará con la misma pena prevista en el primer párrafo de este artículo, al que introduzca por la vía vaginal o anal cualquier elemento o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo de la víctima. Cuando se cometa, aún sin el uso de la violencia, en persona menor de doce años o por su estado mental no esté en posibilidades de comprender el significado del hecho o de resistir la conducta delictuosa se aplicará la sanción prevista en el cuarto párrafo de este artículo.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 128.
 
-La pena prevista en el primer párrafo del artículo anterior se aumentará una mitad más:
+Al que cometa el delito de violación, se aplicará una pena de prisión de veinticinco a cincuenta años o prisión vitalicia y de mil quinientos a tres mil días multa, en los siguientes casos:
 
-I.- Cuando la violación se realice aprovechando la autoridad que se ejerza legalmente sobre la víctima, o la confianza generada por una relación de parentesco sea cual fuere la naturaleza y el grado de ésta; en estos supuestos y cuando así proceda, el agente será privado, además, del ejercicio de la patria potestad, de la tutela o custodia y, en su caso, de los derechos sucesorios con respecto a la víctima;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
 
-II.- Cuando la violación sea cometida aprovechando los medios o circunstancias que proporcionan el empleo, cargo o comisión que el agente ejerce, en cuyo caso éste será privado o suspendido además, del ejercicio del empleo, cargo o comisión por el término de la pena de prisión que se le imponga,
+I.- Cuando la violación se realice aprovechando la autoridad que se ejerza legalmente sobre la víctima, o la confianza generada por una relación de parentesco sea cual fuere la naturaleza y el grado de ésta; en estos supuestos, el agente será privado del ejercicio de la patria potestad, de la tutela o custodia y, en su caso, de los derechos sucesorios con respecto a la víctima.
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+II.- Cuando la violación sea cometida aprovechando los medios o circunstancias que proporcionan el empleo, cargo o comisión que el agente ejerce, en cuyo caso éste será privado o suspendido además, del ejercicio del empleo, cargo o comisión por el término de la pena de prisión que se le imponga;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
 III.- Cuando la violación sea cometida por dos o más personas.
 
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
 IV.- Cuando la violación sea cometida aprovechando la confianza depositada en el agente, sin que éste tenga relación de parentesco con la víctima.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2010)</small>
+
+A los sentenciados por el delito de violación previsto en este artículo no se le concederán los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE OCTUBRE DE 2006)</small>
 
@@ -1330,6 +1350,8 @@ Para los efectos de los capítulos I, II y III de este Título, se entiende por 
 ## TITULO QUINTO. DELITO CONTRA EL HONOR
 
 ### CAPITULO VII. EXTORSION
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 132.
 
@@ -1507,7 +1529,9 @@ III. Cuando el número de cabezas fuera mayor de seis, se aplicará prisión de 
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2009)</small>
 
-ARTICULO148-Ter.- El robo de ganado menor, se sancionará conforme a las siguientes reglas:
+###### ARTICULO 148
+
+Ter.- El robo de ganado menor, se sancionará conforme a las siguientes reglas:
 
 I. Si fuera de una o dos cabezas, se aplicará prisión de seis meses a dos años y de veinte a cien días multa;
 
@@ -1517,7 +1541,9 @@ III. Si excedieran de seis cabezas, se aplicará prisión de tres a ocho años y
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2009)</small>
 
-ARTICULO149.- Se le impondrá prisión de uno a tres años y de treinta a cien días multa a quien:
+###### ARTICULO 149.
+
+Se le impondrá prisión de uno a tres años y de treinta a cien días multa a quien:
 
 I. Adquiera, oculte, transporte o comercie con ganado, pieles, carnes u otros derivados, productos del abigeato;
 
@@ -1533,7 +1559,9 @@ VI. Expidan documentos falsos para obtener permisos simulando ventas o hagan uso
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2009)</small>
 
-ARTICULO149-BIS.- Si se comete el delito de abigeato sobre un ganado que por sus particularidades cuente al momento de cometerse el delito, con un valor comercial superior a los cuatrocientos días de salario mínimo vigente en el Estado, la pena se aumentará hasta una mitad más de la que corresponda en razón del tipo de ganado y de la cantidad de cabezas hurtadas.
+###### ARTICULO 149
+
+BIS.- Si se comete el delito de abigeato sobre un ganado que por sus particularidades cuente al momento de cometerse el delito, con un valor comercial superior a los cuatrocientos días de salario mínimo vigente en el Estado, la pena se aumentará hasta una mitad más de la que corresponda en razón del tipo de ganado y de la cantidad de cabezas hurtadas.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2009)</small>
 
@@ -1627,7 +1655,23 @@ Al que por cualquier razón tuviera a su cargo la administración o el cuidado d
 
 ###### ARTICULO 156.
 
-Al que para obtener un derecho indebido para si, o para un tercero, obligue a otro a hacer algo, en su perjuicio o en el de un tercero, se le impondrá prisión de dos a seis años y de cincuenta hasta cuatrocientos días multa.
+A quien con ánimo de lucro para sí o para otro, obligare a otra persona, con violencia moral o intimidación, a realizar, omitir, o tolerar un acto o negocio jurídico en perjuicio de su patrimonio o del de un tercero, se le impondrá de doce a dieciocho años de prisión y de ochocientos a mil días multa.
+
+Se impondrá prisión de quince a veinte años y multa de ochocientos a mil doscientos días, a quien para obtener un beneficio para sí o para interpósita persona, obligue a otro mediante la violencia moral o la intimidación a dar, hacer, dejar de hacer o tolerar algo en su perjuicio o en el de un tercero.
+
+Cuando el sujeto activo del delito sea o haya sido, o se ostente sin serlo, integrante de alguna institución policial o servidor público en alguna de las áreas de prevención o persecución de delitos, administración de justicia o readaptación social, o tenga alguna relación de confianza, laboral, parentesco o de negocios con la víctima o con sus familiares, la pena será de dieciséis a veinticuatro años de prisión y multa de mil a mil doscientos días.
+
+Cuando en la comisión del delito se configuren los siguientes supuestos, la pena de prisión será de veinte a veinticinco años y la multa de mil a mil quinientos días multa:
+
+I. Intervenga una o más personas armadas, portando instrumentos peligrosos;
+
+II. Se emplee violencia física, en la víctima o de un tercero;
+
+III. Se cometa en contra de un menor de edad, persona mayor de sesenta años de edad o persona con alguna discapacidad; o
+
+IV. Cuando el sujeto activo se encuentre privado de su libertad bajo cualquier circunstancia en un Centro de Reclusión Estatal o Federal a disposición de cualquier autoridad.
+
+Cuando en la comisión del delito se utilice la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica, la pena será de veintidós a veintiocho años de prisión y la multa de mil doscientos a mil quinientos días multa.
 
 ### CAPITULO VI. MATRIMONIO ILEGAL
 
@@ -2990,5 +3034,31 @@ SEGUNDO.- Las personas que hayan cometido el delito de secuestro con anteriorida
 TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE JUNIO DE 2010.
+
+DECRETO NUMERO 291, POR EL QUE SE REFORMA EL ARTICULO 156 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE JUNIO DE 2010.
+
+DECRETO NUMERO 292, POR EL QUE SE REFORMAN LOS ARTICULOS 86, 87, 88, 89, 127 Y 128 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- las personas que hayan cometido el delito de violación u homicidio con anterioridad a la entrada en vigor del presente Decreto, incluidas las sentenciadas o procesadas, les serán aplicadas las disposiciones vigentes al momento de su comisión.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+T R A N S I T O R I O:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
