@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-educacion-publica-42430
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-21"
-last_updated: "2009-12-29"
+last_updated: "2010-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42430&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-01-20"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JULIO DE 2010.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de enero de 2005.
 
@@ -145,9 +145,17 @@ VI. Instituto Nacional del Derecho de Autor;
 
 VII. Instituto Politécnico Nacional;
 
-VIII. Radio Educación, y
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2010)</small>
 
-IX. Universidad Pedagógica Nacional.
+VIII. Radio Educación;
+
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2010)</small>
+
+IX. Universidad Pedagógica Nacional, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2010)</small>
+
+X. Instituto Nacional de Estudios Históricos de las Revoluciones de México.
 
 > <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2006)</small>
 
@@ -1655,9 +1663,17 @@ VI. Instituto Nacional del Derecho de Autor;
 
 VII. Instituto Politécnico Nacional;
 
-VIII. Radio Educación, y
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2010)</small>
 
-IX. Universidad Pedagógica Nacional.
+VIII. Radio Educación;
+
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2010)</small>
+
+IX. Universidad Pedagógica Nacional, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2010)</small>
+
+X. Instituto Nacional de Estudios Históricos de las Revoluciones de México.
 
 Los órganos desconcentrados se regirán por sus instrumentos jurídicos de creación, así como por las disposiciones aplicables de este Reglamento y las que, en su caso, determine el Presidente de la República o el Secretario, en ejercicio de sus respectivas atribuciones.
 
@@ -1754,3 +1770,17 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las referencias que se hacen a la Dirección General de Asuntos Jurídicos en decretos, reglamentos, acuerdos, órdenes, reglas, manuales, circulares, lineamientos y demás disposiciones se entenderán hechas a la Unidad de Asuntos Jurídicos.
 
 TERCERO.- El cambio de denominación de la Dirección General de Asuntos Jurídicos a Unidad de Asuntos Jurídicos, no implica la creación de una Unidad Administrativa nueva.
+
+D.O.F. 1 DE JULIO DE 2010.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los recursos humanos, financieros y materiales, así como los asuntos en trámite con los que actualmente cuenta el Instituto Nacional de Estudios Históricos de las Revoluciones de México, como órgano administrativo desconcentrado de la Secretaría de Gobernación, pasarán a formar parte de la Secretaría de Educación Pública, en un plazo que no exceda de seis meses contados a partir de la entrada en vigor del presente Decreto.
+
+Sin perjuicio de lo previsto en otras disposiciones aplicables, los servidores públicos competentes de las secretarías de Educación Pública y Gobernación llevarán a cabo el proceso de entrega-recepción mediante la suscripción de las actas respectivas.
+
+El registro de los recursos humanos, financieros y materiales, e inventarios entregados a la Secretaría de Educación Pública deberá concluirse en un plazo no mayor de seis meses contados a partir de la firma del acta de entrega-recepción respectiva.
+
+TERCERO. En todo caso se respetarán los derechos laborales de los trabajadores del Instituto Nacional de Estudios Históricos de las Revoluciones de México.
+
+CUARTO. Las secretarías de Gobernación y de Educación Pública realizarán las acciones necesarias para que la operación del órgano administrativo desconcentrado denominado Instituto Nacional de Estudios Históricos de las Revoluciones de México se realice con los recursos aprobados a dichas dependencias, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable.
