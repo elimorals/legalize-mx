@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-gobernacion-25369"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-30"
-last_updated: "2005-08-16"
+last_updated: "2010-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-07-29"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBERNACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JULIO DE 2010.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el martes 30 de julio de 2002.
 
@@ -1207,7 +1207,7 @@ II. Instituto Nacional para el Federalismo y el Desarrollo Municipal;
 
 III. Archivo General de la Nación;
 
-IV. Instituto Nacional de Estudios Históricos de la Revolución Mexicana;
+IV. (DEROGADA, D.O.F. 1 DE JULIO DE 2010)
 
 V. Instituto Nacional de Migración;
 
@@ -1489,31 +1489,21 @@ VI. Las demás que le asignen el Ejecutivo Federal y el Secretario, a través de
 
 El Archivo General de la Nación estará a cargo de un Director General quien será designado por el Ejecutivo Federal, a través del Secretario de Gobernación.
 
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 1 DE JULIO DE 2010)</small>
+
 #### Sección IV.. Del Instituto Nacional de Estudios Históricos de la Revolución Mexicana
 
 ###### Artículo 52.
 
-El Instituto Nacional de Estudios Históricos de la Revolución Mexicana estará a cargo de un Director General designado por el Presidente de la República o, por acuerdo de éste, por el Secretario de Gobernación.
-
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+(DEROGADO, D.O.F. 1 DE JULIO DE 2010)
 
 ###### Artículo 53.
 
-El Instituto tendrá un Consejo Técnico Consultivo integrado de manera honorífica por un número no menor de seis personas que se hayan distinguido en el estudio e investigación de las ciencias sociales, quienes serán designadas por el Secretario de Gobernación o, por acuerdo de éste, por el Comisionado para el Desarrollo Político.
+(DEROGADO, D.O.F. 1 DE JULIO DE 2010)
 
 ###### Artículo 54.
 
-El Consejo Técnico tendrá las siguientes atribuciones:
-
-I. Asesorar al Director General en la formulación de los programas de trabajo del Instituto;
-
-II. Asesorar al Director General en las cuestiones técnicas e históricas que le sean consultadas;
-
-III. Opinar sobre el contenido de los informes del Director General;
-
-IV. Proponer fuentes alternativas de recursos para el financiamiento de la operación del Instituto, y
-
-V. Las demás que correspondan al ámbito de su competencia y las que le encomiende el Secretario, dentro de la esfera de sus facultades.
+(DEROGADO, D.O.F. 1 DE JULIO DE 2010)
 
 #### Sección V.. Instituto Nacional de Migración
 
@@ -2149,7 +2139,7 @@ OCTAVO. Los derechos laborales de los trabajadores de la Secretaría y de sus ó
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de julio de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 9 DE SEPTIEMBRE DE 2003.
 
@@ -2176,3 +2166,17 @@ D.O.F. 16 DE AGOSTO DE 2005.
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Las menciones que los reglamentos y demás ordenamientos jurídicos hagan del Director General del Instituto Nacional para el Federalismo y el Desarrollo Municipal, se entenderán referidas al Coordinador General del Instituto Nacional para el Federalismo y el Desarrollo Municipal.
+
+D.O.F. 1 DE JULIO DE 2010.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los recursos humanos, financieros y materiales, así como los asuntos en trámite con los que actualmente cuenta el Instituto Nacional de Estudios Históricos de las Revoluciones de México, como órgano administrativo desconcentrado de la Secretaría de Gobernación, pasarán a formar parte de la Secretaría de Educación Pública, en un plazo que no exceda de seis meses contados a partir de la entrada en vigor del presente Decreto.
+
+Sin perjuicio de lo previsto en otras disposiciones aplicables, los servidores públicos competentes de las secretarías de Educación Pública y Gobernación llevarán a cabo el proceso de entrega-recepción mediante la suscripción de las actas respectivas.
+
+El registro de los recursos humanos, financieros y materiales, e inventarios entregados a la Secretaría de Educación Pública deberá concluirse en un plazo no mayor de seis meses contados a partir de la firma del acta de entrega-recepción respectiva.
+
+TERCERO. En todo caso se respetarán los derechos laborales de los trabajadores del Instituto Nacional de Estudios Históricos de las Revoluciones de México.
+
+CUARTO. Las secretarías de Gobernación y de Educación Pública realizarán las acciones necesarias para que la operación del órgano administrativo desconcentrado denominado Instituto Nacional de Estudios Históricos de las Revoluciones de México se realice con los recursos aprobados a dichas dependencias, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable.
