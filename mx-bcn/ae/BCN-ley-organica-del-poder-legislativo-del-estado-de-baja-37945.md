@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2009-12-18"
+last_updated: "2010-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2010.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -123,9 +123,17 @@ I.- Constitución Local: La Constitución Política del Estado Libre y Soberano 
 
 II.- Ley: La Ley Orgánica del Poder Legislativo del Estado de Baja California;
 
-III.- Reglamento Interior: El Reglamento Interior del Poder Legislativo del Estado de Baja California; y,
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
 
-IV.- Reglamento: El Reglamento de Procedimientos y Prácticas Parlamentarias del Poder Legislativo del Estado de Baja California.
+III.- Plan: El Plan de Desarrollo Legislativo;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
+
+IV.- Reglamento Interior: El Reglamento Interior del Poder Legislativo del Estado de Baja California, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2010)</small>
+
+V.- Reglamento: El Reglamento de Procedimientos y Prácticas Parlamentarias del Poder Legislativo del Estado de Baja California.
 
 ## TITULO SEGUNDO. DE LA TRANSICIÓN E INSTALACIÓN DEL CONGRESO
 
@@ -205,17 +213,63 @@ El Congreso del Estado expedirá el Bando Solemne para dar a conocer en el Munic
 
 ## TITULO CUARTO. DE LAS FACULTADES LEGISLATIVAS DEL CONGRESO
 
-### CAPITULO UNICO. ATRIBUCIONES
+> <small>(REFORMADA EN SU NUMERACION [N. DE E. ANTES CAPITULO UNICO], P.O. 2 DE JULIO DE 2010)</small>
+
+### CAPITULO PRIMERO. ATRIBUCIONES
 
 ###### ARTICULO 16.
 
 Son atribuciones del Congreso del Estado, las que derivan de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Local y de las Leyes que de ella emanen, de la presente Ley y de los Reglamentos respectivos.
 
-### CAPITULO I. DE LAS OBLIGACIONES DE LOS DIPUTADOS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 2010)</small>
+
+### CAPITULO SEGUNDO. DEL PLAN DE DESARROLLO LEGISLATIVO
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2010)</small>
+
+ARTICULO 16 BIS.- El Plan de Desarrollo Legislativo es el documento rector y guía en materia de planeación y gestión legislativa de una legislatura. Dicho Plan establece las directrices a que deberá sujetarse el Congreso del Estado, para definir objetivos, estrategias y líneas de acción en materia de legislación, fiscalización del gasto público, gestoría comunitaria y modernización institucional del Poder Legislativo, de conformidad con sus atribuciones.
+
+El Plan, se elaborará sin perjuicio del derecho de iniciativa de Leyes y Decretos que corresponde a las autoridades y ciudadanos enunciados en el Artículo 28 de la Constitución Local.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2010)</small>
+
+ARTICULO 16 TER.- El Plan se integra por una Agenda Legislativa Básica que deberá elaborarse bajo los siguientes principios:
+
+I.- De Economía Funcional, para garantizar una mayor racionalidad en la toma de decisiones, ahorrando tiempo y esfuerzo en la realización de la Agenda Legislativa;
+
+II.- De Eficiencia, para garantizar la mayor producción legislativa con el menor esfuerzo posible, aprovechando al máximo los recursos materiales, humanos y económicos disponibles, en el contenido Agenda, y
+
+III.- Democrático, para garantizar la participación equitativa de todos los Grupos Parlamentarios con representación en el Congreso del Estado en la toma de decisiones, y asegurar la inclusión de las demandas de la sociedad en la elaboración de la Agenda.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2010)</small>
+
+ARTICULO 16 QUARTER (SIC).- El Plan se elaborará, aprobará, controlará, evaluará y coordinará conforme a los siguientes procedimientos y plazos:
+
+I.- La Comisión de Régimen Interno y Prácticas Parlamentarias, es el órgano de trabajo del Congreso del Estado, encargado de organizar los trabajos para la elaboración del Plan;
+
+II.- Durante los meses de octubre y noviembre del primer periodo de sesiones del inicio de una Legislatura, cada Diputado a través de su Coordinador del Grupo Parlamentario correspondiente enviará sus propuestas para elaborar la Agenda Legislativa Básica;
+
+III.- La Agenda Legislativa Básica será consensuada y acordada por los integrantes de la Comisión de Régimen Interno y Prácticas Parlamentarias antes de concluir el primer período de sesiones de inicio de la Legislatura, para ser incorporada al Plan;
+
+IV.- La Comisión de Régimen Interno y Prácticas Parlamentarias deberá incorporar al Plan, las propuestas de los Órganos Técnico-Administrativos y del Órgano de Fiscalización Superior del Estado, para la mejora continua de sus funciones y servicios mediante la optimización de sus estructuras y organización técnica de los recursos materiales y humanos disponibles, antes de concluir el primer periodo de sesiones del inicio de la Legislatura;
+
+V.- Los integrantes de la Comisión de Régimen Interno y Prácticas Parlamentarias deberán procurar que el anteproyecto de Plan se encuentre completo al iniciar el segundo período de sesiones del inicio de la Legislatura, habiendo incluido los objetivos, estrategias y líneas de acción en materia de legislación, fiscalización del gasto público, gestoría comunitaria y modernización institucional;
+
+VI.- El Plan deberá aprobarse por el Pleno del Congreso del Estado, hasta antes de concluir el segundo periodo de sesiones del inicio de la Legislatura, y remitirse inmediatamente al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado;
+
+VII.- En la aplicación y ejecución del Plan deberán respetarse las disposiciones previstas en el Artículo 88 de esta Ley;
+
+VIII.- Para el control, seguimiento y evaluación del Plan, el Congreso del Estado podrá utilizar los indicadores que considere necesarios para el proceso de toma de decisiones, de conformidad con el Reglamento;
+
+IX.- El Congreso del Estado, deberá publicar periódicamente los resultados de la aplicación del Plan, mediante los medios impresos y electrónicos disponibles;
+
+X.- Para mejorar los procedimientos de elaboración, control y evaluación del Plan, el Congreso del Estado podrá celebrar convenios de coordinación con las instituciones y organismos que considere necesario, y
+
+XI.- Para garantizar la continuidad en materia de planeación legislativa, la Legislatura entrante tomará en consideración los avances, evaluaciones, resultados y acciones por concluir, que se contemplaron en el Plan aprobado por la Legislatura saliente.
 
 ## TITULO QUINTO. DE LOS DIPUTADOS
 
-### CAPITULO II. DE LOS DERECHOS DE LOS DIPUTADOS
+### CAPITULO I. DE LAS OBLIGACIONES DE LOS DIPUTADOS
 
 ###### ARTICULO 17.
 
@@ -245,13 +299,19 @@ IX.- Auxiliar a sus representados y a las comunidades del Estado, de conformidad
 
 X- Guardar prudente reserva de todo lo que se trate o resuelva en las sesiones privadas;
 
-XI.- Tratar con consideración y respeto a los servidores públicos que presten sus servicios al Poder Legislativo, absteniéndose de participar en forma directa en asuntos laborales y administrativos de los órganos técnico-administrativos del Congreso del Estado; y,
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
 
-XII.- Las demás que le confiere la Constitución Local, esta Ley, sus Reglamentos y las que deriven de acuerdos del Pleno del Congreso del Estado.
+XI.- Tratar con consideración y respeto a los servidores públicos que presten sus servicios al Poder Legislativo, absteniéndose de participar en forma directa en asuntos laborales y administrativos de los órganos técnico-administrativos del Congreso del Estado;
 
-### CAPITULO III. DE LAS FALTAS, AUSENCIAS Y LICENCIAS
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+XII.- Aprobar el Plan de conformidad con los procedimientos y plazos previstos en esta Ley y el Reglamento, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2010)</small>
+
+XIII.- Las demás que le confiere la Constitución Local, esta Ley, sus Reglamentos y las que deriven de acuerdos del Pleno del Congreso del Estado.
+
+### CAPITULO II. DE LOS DERECHOS DE LOS DIPUTADOS
 
 ###### ARTICULO 18.
 
@@ -279,15 +339,21 @@ VIII.- Recibir copias de la versión estenográfica, de la grabación audiovisua
 
 IX.- Recibir el acta de la sesión anterior con por lo menos una anticipación de veinticuatro horas a la celebración de la siguiente sesión;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
 
-X.- Contar con el personal de apoyo necesario conforme lo establezca el Presupuesto de Egresos del Poder Legislativo; y,
+X.- Contar con el personal de apoyo necesario conforme lo establezca el Presupuesto de Egresos del Poder Legislativo;
 
-> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
 
-XI.- Los demás que le confiera la Constitución Local, la presente Ley, sus Reglamentos y los que se deriven de acuerdos que emita el Pleno del Congreso.
+XI.- Participar en los trabajos, deliberaciones y discusiones para la elaboración, seguimiento y evaluación del Plan de conformidad con los procedimientos y plazos previstos en esta Ley y el Reglamento, y,
 
-### CAPITULO IV. DE LOS GRUPOS PARLAMENTARIOS
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2010)</small>
+
+XII.- Los demás que le confiera la Constitución Local, la presente Ley, sus Reglamentos y los que se deriven de acuerdos que emita el Pleno del Congreso.
+
+### CAPITULO III. DE LAS FALTAS, AUSENCIAS Y LICENCIAS
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 19.
 
@@ -353,9 +419,7 @@ En el Reglamento se establecerá el Procedimiento relativo al otorgamiento de li
 
 No se concederán licencias con goce de dietas, salvo el caso de incapacidad por enfermedad comprobada.
 
-### CAPITULO I. ESTRUCTURA ORGANICA
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
+### CAPITULO IV. DE LOS GRUPOS PARLAMENTARIOS
 
 ###### ARTICULO 27.
 
@@ -389,7 +453,7 @@ Examinada por el Presidente del Congreso la documentación referida, dará cuent
 
 El funcionamiento, las actividades y los procedimientos para la designación de los Coordinadores de los Grupos Parlamentarios, serán regulados por las normas estatutarias y los lineamientos de los respectivos partidos políticos, en el marco de las disposiciones de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO] P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 31.
 
@@ -399,11 +463,17 @@ Corresponde a los coordinadores de los Grupos Parlamentarios y a los Diputados d
 
 I.- Proponer a los Diputados de su Grupo Parlamentario en los cargos y Comisiones que se derivan de esta Ley;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
 
-II.- Informar a la Comisión de Régimen Interno y Prácticas Parlamentarias, de la sustitución de Diputados pertenecientes a su Grupo Parlamentario, por la causa prevista en el artículo 19 de esta Ley, en las diversas Comisiones que se hubieren aprobado e integrado conforme al acuerdo del Pleno del Congreso, para que la Comisión, a su vez, se lo informe al Pleno; y,
+II.- Informar a la Comisión de Régimen Interno y Prácticas Parlamentarias, de la sustitución de Diputados pertenecientes a su Grupo Parlamentario, por la causa prevista en el artículo 19 de esta Ley, en las diversas Comisiones que se hubieren aprobado e integrado conforme al acuerdo del Pleno del Congreso, para que la Comisión, a su vez, se lo informe al Pleno;
 
-III.- Asistir a las reuniones de las sesiones de los Coordinadores Parlamentarios para considerar, conjuntamente, las acciones específicas que propicien el mejor desarrollo de las labores legislativas.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
+
+III.- Asistir a las reuniones de las sesiones de los Coordinadores Parlamentarios para considerar, conjuntamente, las acciones específicas que propicien el mejor desarrollo de las labores legislativas, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2010)</small>
+
+IV.- Presentar ante la Comisión de Régimen Interno y Prácticas Parlamentarias las propuestas de los integrantes de sus Grupos Parlamentarios para elaborar la Agenda Legislativa Básica del Plan, de conformidad con los procedimientos y plazos previstos en esta Ley y el Reglamento.
 
 ###### ARTICULO 32.
 
@@ -427,7 +497,9 @@ Los Grupos Parlamentarios dispondrán de locales adecuados en las instalaciones 
 
 ## TITULO SEXTO. DEL CONGRESO DEL ESTADO
 
-### CAPITULO II. DE LA ORGANIZACIÓN DEL CONGRESO Y SUS FUNCIONES
+### CAPITULO I. ESTRUCTURA ORGANICA
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 36.
 
@@ -481,7 +553,7 @@ VII.- Las demás direcciones u órganos técnicos que sean necesarios para apoya
 
 ARTICULO 40 BIS.- El Órgano de Fiscalización Superior del Estado, es el órgano del Congreso del Estado con autonomía técnica y de gestión en el ejercicio de sus atribuciones para decidir sobre su organización interna, recursos, funcionamiento y resoluciones. Contará con las atribuciones y obligaciones que establecen la Constitución Local y la Ley de la materia.
 
-### CAPITULO III. DE LOS ÓRGANOS TÉCNICO Y ADMINISTRATIVOS
+### CAPITULO II. DE LA ORGANIZACIÓN DEL CONGRESO Y SUS FUNCIONES
 
 #### SECCION I. DE LA MESA DIRECTIVA
 
@@ -727,7 +799,9 @@ La Comisión se integra por los Diputados Coordinadores de los Grupos Parlamenta
 
 Atendiendo a su naturaleza, la Comisión tomará sus acuerdos y resoluciones mediante el consenso de todos sus integrantes. En caso contrario, el Presidente de la Comisión hará llegar al Pleno del Congreso las posiciones y propuestas tal y como fueron asumidas por sus autores o promotores, a efecto de que aquél se imponga de ellas y resuelva como corresponda.
 
-A la Comisión de Régimen Interno y Prácticas Parlamentarias, le corresponde desarrollar los siguientes trabajos y facultades:
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 2 DE JULIO DE 2010)</small>
+
+A la Comisión de Régimen Interno y Prácticas Parlamentarias le corresponde desarrollar los siguientes trabajos y facultades:
 
 I.- Auxiliar a la Mesa Directiva a organizar los trabajos del Congreso del Estado y elaborar el calendario de sesiones de cada período para ser presentado en la primera sesión del último mes del período a concluir;
 
@@ -751,11 +825,19 @@ VIII.- Revisar los proyectos de Reglamentos que se deriven de esta Ley y sus ref
 
 IX.- Revisar el proyecto de Presupuesto Anual de Egresos del Congreso y ponerlo a consideración del Pleno para los efectos de la Ley de la Materia;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
 
-X.- Resolver a propuesta de cualquier integrante de la Comisión de Régimen Interno y Prácticas Parlamentarias, la sustitución en las Comisiones de Diputados de partidos políticos que cuenten con un solo escaño en el Congreso, si hubieren incurrido en alguna falta prevista en esta Ley; y,
+X.- Resolver a propuesta de cualquier integrante de la Comisión de Régimen Interno y Prácticas Parlamentarias, la sustitución en las Comisiones de Diputados de partidos políticos que cuenten con un solo escaño en el Congreso, si hubieren incurrido en alguna falta prevista en esta ley;
 
-XI.- Las demás que le confieran esta Ley, sus Reglamentos y los Acuerdos del Pleno del Congreso del Estado.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
+
+XI.- Organizar los tratados del Congreso del Estado para elaborar el Plan, y ponerlo a consideración del Pleno para su aprobación de conformidad con los procedimientos y plazos previstos en esta Ley y el Reglamento, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2010)</small>
+
+XII.- Las demás que le confieran esta Ley, sus Reglamentos y los Acuerdos del Pleno del Congreso del Estado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE JULIO DE 2010)</small>
 
 Para el ejercicio de sus funciones la Comisión será auxiliada por los titulares de los Órganos Técnico-Administrativos del Congreso, cuando así lo requiera su Presidente.
 
@@ -1003,9 +1085,7 @@ Los miembros de las Comisiones no tendrán derecho a ninguna retribución adicio
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 2003)</small>
 
-### CAPITULO IV. DE LA COMISION PERMANENTE
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 14 DE ENERO DE 2003)</small>
+### CAPITULO III. DE LOS ÓRGANOS TÉCNICO Y ADMINISTRATIVOS
 
 #### SECCION I. DE LA OFICIALÍA MAYOR
 
@@ -1189,9 +1269,9 @@ El Congreso del Estado de conformidad con el artículo 36 de la Constitución Lo
 
 #### SECCION II. DE LA FORMA Y PERIODICIDAD DE LAS SESIONES
 
-### CAPITULO I. DE LAS SESIONES
+### CAPITULO IV. DE LA COMISION PERMANENTE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 14 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 86.
 
@@ -1227,7 +1307,9 @@ ARTICULO 87 QUINQUIES.- En la primera Sesión del Período Ordinario, el Preside
 
 ## TITULO SEPTIMO. DEL PROCEDIMIENTO Y PRACTICAS PARLAMENTARIAS
 
-### CAPITULO II. DE LAS INICIATIVAS
+### CAPITULO I. DE LAS SESIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 88.
 
@@ -1421,7 +1503,7 @@ III.- Las Sesiones de las Comisiones, excepto en los casos a que se refiere el A
 
 Todas las sesiones del Congreso del Estado serán públicas, con excepción de las previstas en el artículo que antecede.
 
-### CAPITULO III. DE LOS DICTÁMENES
+### CAPITULO II. DE LAS INICIATIVAS
 
 ###### ARTICULO 110.
 
@@ -1511,7 +1593,7 @@ Las Comisiones de Dictamen Legislativo respectivas, anunciarán al Ejecutivo del
 
 Desechada una iniciativa en lo general, no podrá volver a presentarse en el mismo período de sesiones de conformidad con el Artículo 32 de la Constitución Local.
 
-### CAPITULO IV. DE LOS DEBATES
+### CAPITULO III. DE LOS DICTÁMENES
 
 ###### ARTICULO 122.
 
@@ -1539,7 +1621,7 @@ Una vez firmados los dictámenes, a favor o en contra, por la mayoría de los mi
 
 Las Comisiones de dictamen legislativo a las que se turnen las iniciativas, rendirán ante el Pleno del Congreso el dictamen correspondiente por escrito, en un plazo no mayor de treinta días naturales a partir de su recepción en la Comisión, salvo prórroga que apruebe el Pleno a petición de la Comisión respectiva. En ningún caso la prórroga excederá de quince días; en caso de incumplimiento se estará a lo dispuesto en la presente Ley.
 
-### CAPITULO V. DE LAS VOTACIONES
+### CAPITULO IV. DE LOS DEBATES
 
 ###### ARTICULO 125.
 
@@ -1685,7 +1767,7 @@ En caso de que por acuerdo del Pleno o cuando menos de tres Diputados objetara l
 
 Cuando se dispense el trámite a que se refiere el Artículo 119 de esta Ley, se pondrá a discusión inmediatamente después de que su autor la haya presentado, pudiendo hacer uso de la palabra hasta dos Diputados en contra y dos en pro, e inmediatamente se preguntará al Pleno si se aprueba o no la proposición. De ser aprobada se le dará el trámite correspondiente y, en caso contrario se turnará a la Comisión correspondiente.
 
-### CAPITULO VI. DE LOS DECRETOS
+### CAPITULO V. DE LAS VOTACIONES
 
 ###### ARTICULO 146.
 
@@ -1789,7 +1871,7 @@ Cuando hubiera empate en cualquier tipo de votación se repetirá ésta hasta po
 
 En las votaciones, cualquier Diputado podrá pedir que conste en el acta el sentido en que emita su voto.
 
-### CAPITULO VII. DE LA GESTORIA COMUNITARIA
+### CAPITULO VI. DE LOS DECRETOS
 
 ###### ARTICULO 160.
 
@@ -1813,9 +1895,7 @@ En el caso de que el Ejecutivo juzgue conveniente hacer observaciones a un proye
 
 El Gobernador del Estado no podrá hacer observaciones sobre los Decretos que manden abrir o cerrar Sesiones del Congreso o los emitidos por este cuando actúe en funciones de Jurado de Sentencia.
 
-### CAPITULO VIII. DE LAS COMPARECENCIAS
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+### CAPITULO VII. DE LA GESTORIA COMUNITARIA
 
 ###### ARTICULO 165.
 
@@ -1831,7 +1911,9 @@ IV.- Las demás que se consideren necesarias.
 
 A fin de apoyar los trabajos de Gestoría Comunitaria, los diputados contarán con Módulos de Atención Ciudadana, los cuales funcionarán conforme a lo previsto por el Reglamento respectivo.
 
-### CAPITULO IX. DE LAS DESIGNACIONES
+### CAPITULO VIII. DE LAS COMPARECENCIAS
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 166.
 
@@ -1839,15 +1921,17 @@ El Pleno del Congreso o las Comisiones directamente involucradas en el tema o as
 
 Los servidores públicos que no concurran a las sesiones correspondientes, se harán acreedores a las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+### CAPITULO IX. DE LAS DESIGNACIONES
 
 ###### ARTICULO 167.
 
 Para la designación de los Servidores Públicos que por disposición Constitucional o Legal le corresponda realizar al Poder Legislativo, se atenderá al procedimiento previsto en el Reglamento, excepto en los casos en que dicho procedimiento se encuentre regulado por otro ordenamiento legal.
 
 ## TITULO OCTAVO. DECLARACIÓN PATRIMONIAL
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 168.
 
@@ -1962,3 +2046,9 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 P.O. 18 DE DICIEMBRE DE 2009.
 
 ÚNICO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE JULIO DE 2010.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes reformas y continúan vigentes los actos, resoluciones, acuerdos y demás disposiciones de carácter general emitidas con fundamento en la Ley que se reforma.
