@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-fomento-ganadero-del-estado-de-quintana-roo-12007"
 country: "mx"
 rank: "ley"
 publication_date: "1977-01-02"
-last_updated: "1977-01-02"
+last_updated: "2010-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE FOMENTO GANADERO DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO PARA EL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 2 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FOMENTO GANADERO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2010 (ABROGADA).
 
 Ley publicada en el Periódico Oficial el 2 de enero de 1977.
 
@@ -699,7 +701,7 @@ La granja integral tendera a satisfacer sus propias necesidades de insumos nutri
 
 ###### ARTICULO 111.
 
-En el fomento de la granja familiar, no se intentará la introducción de especies de escasa aceptación en los mercados local y estatal en tanto la demanda de sus productos no justifique económicamente le explotación de dichas especies
+En el fomento de la granja familiar, no se intentará la introducción de especies de escasa aceptación en los mercados local y estatal en tanto la demanda de sus productos no justifique económicamente le explotación de dichas especies.
 
 ###### ARTICULO 112.
 
@@ -1396,3 +1398,27 @@ CUARTO.- Se fija un plazo de seis meses contados a partir de la fecha en que ent
 Dado en el Salón de Sesiones de la I Legislatura Constitucional del Estado Libre y soberano de Quintana Roo, en la ciudad de Chetumal, capital del mismo, a los dieciséis días del mes de diciembre de mil novecientos setenta y seis.- Diputado Presidente, Serapio Flota Maas.- Diputada Secretaria, Ma. Cristina Sangri Aguilar.- Rubricas.
 
 Dado en la residencia del Poder Ejecutivo del Estado de Quintana Roo, en la ciudad de Chetumal, capital del mismo, a los treinta y un días del mes de diciembre de mil novecientos setenta y seis.- El Gobernador Constitucional del Estado, Lic. Jesús Martínez Ross.- Rubrica.- El Secretario General de Gobierno, Lic. Pedro Joaquín Coldwell.- rubrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JULIO DE 2010.
+
+## [N. DE E. TRANSITORIOS DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO PARA EL ESTADO DE QUINTANA ROO]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fomento Ganadero del Estado Libre y Soberano de Quintana Roo, publicada en el Periódico Oficial del Estado de fecha 2 de enero de 1977 y todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría en un plazo no mayor de ciento veinte días a la entrada en vigor de la presente ley, emitirá los reglamentos necesarios para su aplicación.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 297 QUE CONTIENE LA LEY DE FOMENTO Y DESARROLLO PECUARIO PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente Decreto.
