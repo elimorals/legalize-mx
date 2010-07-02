@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2009-06-22"
+last_updated: "2010-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JULIO DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -360,7 +360,9 @@ Las autoridades educativas locales podrán coordinarse para llevar a cabo activi
 
 El educador es promotor, coordinador y agente directo del proceso educativo. Deben proporcionársele los medios que le permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento.
 
-Para ejercer la docencia en instituciones establecidas por el Estado, por sus organismos descentralizados y por los particulares con autorización o con reconocimiento de validez oficial de estudios, los maestros deberán satisfacer los requisitos que, en su caso, señalen las autoridades competentes.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2010)</small>
+
+Para ejercer la docencia en instituciones establecidas por el Estado, por sus organismos descentralizados y por los particulares con autorización o con reconocimiento de validez oficial de estudios, los maestros deberán satisfacer los requisitos que, en su caso, señalen las autoridades competentes. En el caso de los maestros de educación indígena que no tengan licenciatura como nivel mínimo de formación, deberán participar en los programas de capacitación que diseñe la autoridad educativa y certificar su bilingüismo en la lengua indígena que corresponda y el español.
 
 El Estado otorgará un salario profesional para que los educadores de los planteles del propio Estado alcancen un nivel de vida decoroso para su familia; puedan arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como para que dispongan del tiempo necesario para la preparación de las clases que impartan y para su perfeccionamiento profesional.
 
@@ -458,7 +460,9 @@ Dichas medidas estarán dirigidas, de manera preferente, a los grupos y regiones
 
 Para cumplir con lo dispuesto en el artículo anterior, las autoridades educativas en el ámbito de sus respectivas competencias llevarán a cabo las actividades siguientes:
 
-I.- Atenderán de manera especial las escuelas en que, por estar en localidades aisladas o zonas urbanas marginadas, sea considerablemente mayor la posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad para enfrentar los problemas educativos de dichas localidades;
+> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 2010)</small>
+
+I.- Atenderán de manera especial las escuelas en que, por estar en localidades aisladas, zonas urbanas marginadas o comunidades indígenas, sea considerablemente mayor la posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad, para enfrentar los problemas educativos de dichas localidades;
 
 II.- Desarrollarán programas de apoyo a los maestros que realicen su servicio en localidades aisladas o zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades;
 
@@ -484,13 +488,21 @@ X.- Otorgarán estímulos a las asociaciones civiles y a las cooperativas de mae
 
 XI.- Promoverán mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este capítulo;
 
-XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el artículo anterior, y (sic)
+> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 2010)</small>
 
-XIII.- Realizarán las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el artículo anterior;
+XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el artículo anterior;
+
+> <small>(ADICIONADA, D.O.F. 2 DE JULIO DE 2010)</small>
+
+XIII.- Proporcionarán materiales educativos en las lenguas indígenas que correspondan en las escuelas en donde asista mayoritariamente población indígena;
+
+> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 2010)</small>
+
+XIV.- Realizarán las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el artículo anterior, y
 
 > <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2009)</small>
 
-XIV.- Apoyarán y desarrollarán programas destinados a que los padres y/o tutores apoyen en circunstancias de igualdad los estudios de sus hijas e hijos, prestando especial atención a la necesidad de que aquellos tomen conciencia de la importancia de que las niñas deben recibir un trato igualitario y que deben recibir las mismas oportunidades educativas que los varones.
+XV.- Apoyarán y desarrollarán programas destinados a que los padres y/o tutores apoyen en circunstancias de igualdad los estudios de sus hijas e hijos, prestando especial atención a la necesidad de que aquellos tomen conciencia de la importancia de que las niñas deben recibir un trato igualitario y que deben recibir las mismas oportunidades educativas que los varones.
 
 El Estado también llevará a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
@@ -1149,3 +1161,9 @@ D.O.F. 22 DE JUNIO DE 2009.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- La autoridad educativa federal emitirá, en un plazo máximo de doce meses, a partir de la entrada en vigor del presente Decreto, los lineamientos necesarios para la detección, atención pedagógica y certificación de estudios para los alumnos con capacidades sobresalientes en los tres niveles de la educación básica y en las modalidades de media superior y superior en el ámbito de su competencia.
+
+D.O.F. 2 DE JULIO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento con el presente Decreto, se sujetarán a los recursos aprobados en sus respectivos presupuestos para tales fines por la Cámara de Diputados del H. Congreso de la Unión, las legislaturas de los estados, así como la Asamblea Legislativa del Distrito Federal, en términos del Apartado B del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
