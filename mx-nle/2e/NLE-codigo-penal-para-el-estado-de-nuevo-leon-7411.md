@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2010-06-25"
+last_updated: "2010-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO PENAL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -543,7 +543,7 @@ PARA LOS EFECTOS ANTERIORES EL JUEZ DEBERA TOMAR CONOCIMIENTO DIRECTO DEL SUJETO
 
 ###### ARTICULO 48.
 
-LA PRISION CONSISTE EN LA PRIVACION TEMPORAL DE LA LIBERTAD, DURANTE UN LAPSO NO MENOR DE TRES DIAS NI MAYOR DE SESENTA AÑOS, DE ACUERDO CON LAS SANCIONES QUE SE ESTABLEZCAN PARA CADA DELITO; SE CUMPLIRA EN LOS LUGARES O ESTABLECIMIENTOS QUE FIJEN LAS LEYES, LOS REGLAMENTOS O LAS AUTORIDADES ADMINISTRATIVAS, CON LA FINALIDAD DE EJERCER SOBRE EL INTERNO UNA ACCION DE REINSERCION SOCIAL..
+LA PRISION CONSISTE EN LA PRIVACION TEMPORAL DE LA LIBERTAD, DURANTE UN LAPSO NO MENOR DE TRES DIAS NI MAYOR DE SESENTA AÑOS, DE ACUERDO CON LAS SANCIONES QUE SE ESTABLEZCAN PARA CADA DELITO; SE CUMPLIRA EN LOS LUGARES O ESTABLECIMIENTOS QUE FIJEN LAS LEYES, LOS REGLAMENTOS O LAS AUTORIDADES ADMINISTRATIVAS, CON LA FINALIDAD DE EJERCER SOBRE EL INTERNO UNA ACCION DE REINSERCION SOCIAL.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1992)</small>
 
@@ -4759,6 +4759,10 @@ EN LOS CASOS DE LOS DELITOS EN RELACION CON EL PATRIMONIO, SE PERSEGUIRAN A INST
 
 LOS DELITOS DE ABUSO DE CONFIANZA, FRAUDE CON EXCEPCION DEL CONTENIDO EN EL ARTICULO 387, USURA, CHANTAJE Y ADMINISTRACION FRAUDULENTA, SE PERSEGUIRAN A PETICION DE PARTE OFENDIDA.
 
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2010)</small>
+
+EN EL CASO DEL DELITO DE USURA CONTENIDO EN EL ARTICULO 392 DE ESTE CODIGO, EL MINISTERIO PUBLICO PODRA DE OFICIO INICIAR LA AVERIGUACION PREVIA CUANDO EN SU COMISION SE APROVECHE LA NECESIDAD APREMIANTE, LA IGNORANCIA O LA NOTORIA INEXPERIENCIA DEL PASIVO.
+
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
 ARTICULO 408 BIS.- CUANDO PARA COMETER LOS DELITOS DE ROBO, FRAUDE, ABUSO DE CONFIANZA, USURA, CHANTAJE O ADMINISTRACION FRAUDULENTA, SE UTILICEN TARJETAS DE CREDITO O DEBITO, O CUALQUIER MEDIO O INSTRUMENTO ELECTRONICO O BANCARIO, LA PENA SE AUMENTARA HASTA EN UNA TERCERA PARTE DE LA QUE CORRESPONDA IMPONER.
@@ -5269,7 +5273,7 @@ P.O. 10 DE FEBRERO DE 2006.
 
 Artículo Primero.- El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Artículo Segundo.- El articulo 22 fracción XVII de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León entrará en vigor el día 15 de febrero de 2006.
+Artículo Segundo.- El artículo 22 fracción XVII de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León entrará en vigor el día 15 de febrero de 2006.
 
 Artículo Tercero.- El Ejecutivo del Estado y las autoridades municipales en el ámbito de su competencia, deberán expedir, en un término que no exceda de noventa días contados a partir de la entrada en vigor del presente decreto, las disposiciones reglamentarias que regulen el servicio comunitario.
 
@@ -5425,7 +5429,7 @@ P.O. 12 DE DICIEMBRE DE 2008.
 
 P.O. 19 DE DICIEMBRE DE 2008.
 
-Único.-.El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 14 DE ENERO DE 2009.
 
@@ -5449,7 +5453,7 @@ DECRETO NO. 372, POR EL QUE SE REFORMA EL ARTICULO 219 DEL CODIGO PENAL PARA EL 
 
 P.O. 8 DE MAYO DE 2009.
 
-Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 25 DE MAYO DE 2009.
 
@@ -5532,5 +5536,9 @@ P.O. 9 DE JUNIO DE 2010.
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 25 DE JUNIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JULIO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
