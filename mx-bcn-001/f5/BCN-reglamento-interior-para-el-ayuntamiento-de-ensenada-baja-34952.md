@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2009-11-13"
+last_updated: "2010-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -359,7 +359,7 @@ SUPLENCIA DEL SÍNDICO PROCURADOR Y REGIDORES.
 
 ###### ARTÍCULO 33.
 
-Cuando el Sindico Procurador o algún Regidor deban ausentarse de manera temporal, darán aviso al Ayuntamiento a través del Presidente Municipal. Tratándose de ausencia definitiva, solicitarán la autorización de la licencia correspondiente para separarse del cargo.
+Cuando el Síndico Procurador o algún Regidor deban ausentarse de manera temporal, darán aviso al Ayuntamiento a través del Presidente Municipal. Tratándose de ausencia definitiva, solicitarán la autorización de la licencia correspondiente para separarse del cargo.
 
 En los casos que se solicite y autorice la licencia, así como cuando las causas que generen una ausencia definitiva sobrevengan repentina o accidentalmente y que sea necesario llamar al suplente a Juicio del Ayuntamiento, éste lo acordará en Sesión de Cabildo.
 
@@ -1289,6 +1289,10 @@ XIV.- Asuntos Indígenas;
 
 XV.- Pesca y Acuacultura Sustentables.
 
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
+XVI.- Comisión del agua
+
 Para efectos de crear nuevas comisiones, nombrar, cambiar o remover coordinadores o integrantes de las mismas, el Presidente Municipal lo propondrá al Ayuntamiento en Sesión de Cabildo, en donde éste, determinará por mayoría absoluta la aprobación en su caso.
 
 Las comisiones permanentes tendrán las atribuciones que se le confieran expresamente en este Reglamento y las que otros ordenamientos y el Ayuntamiento le encomienden.
@@ -1537,11 +1541,53 @@ A los demás integrantes del Ayuntamiento, incluyendo al Sindico Procurador y al
 
 Al inicio de la sesión, el Secretario de la Comisión certificará que se cumplimentó la convocatoria en estos términos.
 
-QUORUM LEGAL.
+> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 2 DE JULIO DE 2010, SE ADVIERTE QUE EN EL PUNTO TERCERO DEL ACUERDO, ADICIONA EL ARTÍCULO 129 PARA ESTABLECER LAS ATRIBUCIONES DE LA COMISIÓN DEL AGUA, PARA QUEDAR COMO SIGUE:</small>
+
+> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 129.
 
-Para que las Comisiones puedan sesionar válidamente, se requiere la asistencia de la mayoría de sus miembros, entre los que deberá estar su Coordinador o el Secretario en su caso. Si no ocurren la mayoría de los Regidores integrantes de la Comisión, se señalará hora para sesionar en segunda convocatoria a más tardar al siguiente día hábil, celebrando válidamente la sesión con los integrantes que concurran.
+(SIC)
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
+I.- Dictaminar respecto de los asuntos relativos a proyectos de reformas constitucionales, iniciativas de Ley o decreto, Reglamentos, y Disposiciones Normativas de Observancia General, por si misma o en conjunto con la Comisión o las Comisiones especializadas en la materia de que se trate;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
+II.- Coadyuvar en el funcionamiento de los organismos operadores del agua, con respecto del cumplimiento para el mejor aprovechamiento del agua en todos sus aspectos, en apego a la Ley y Reglamento respectivo en la materia.
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
+III.- Dictaminar sobre proyectos relacionados con programas, contratos, convenios o actos que afecten cualquier aspecto de la situación de los servicio (sic) de agua potable y drenaje del Municipio;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
+IV.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para mejorar la prestación del (sic) servicios públicos de distribución de agua y operación adecuada acorde con el desarrollo de la entidad Paraestatal;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
+V.- Opinar y dictaminar en su caso, respecto a asuntos relacionados con el servicio público en distribución de agua potable, servicio de drenaje al Municipio, tratamiento y rehusó de agua tratada;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
+VI.- Participar con los organismos operadores del agua y promover el desarrollo económico en los que tenga injerencia el Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
+VII.- Coadyuvar con los organismos operadores del agua, en la promoción de los eventos relacionados con el servicio público del agua y la cultura del agua. Así como los mecanismos y acciones necesarias para mejorar la atención del Servicio Público.
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
+VIII.- Contribuir a la coordinación y vinculación de los sectores públicos, privados, sociales, académicos y financieros para el manejo integral del agua en el municipio y coadyuve a la conjunción de capacidades, esfuerzos y recursos para la planeación, la ejecución, la evaluación y el seguimiento de los proyectos estratégicos relacionados con el agua.
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
+IX.- Desarrollar un estudio permanente de las necesidades de agua de las poblaciones urbanas y su entorno rural. Su investigación prospectiva para prever futuros escenarios de oportunidades y enfrentar la crisis en el sector hídrico, tendrá resultados de gran impacto con pertinencia social, económica, ambiental e Institucional.
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
+X.- Colaborar de manera colegiada con instancias públicas y privadas para perfilar nuevos enfoques en materia de planeación, investigación, capacitación y gestión para el aprovechamiento y manejo sustentable e integral del agua en el municipio.
 
 DISCUSION, ANALISIS Y RESOLUCION.
 
@@ -1692,3 +1738,11 @@ CUARTO.- La Comisión de Asuntos Indígenas del Ayuntamiento de Ensenada, deber�
 P.O. 13 DE NOVIEMBRE DE 2009.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 2 DE JULIO DE 2010.
+
+PRIMERO.- Siendo aprobada la presente iniciativa, incorpórese en el libro de actas y publíquese en el periódico oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia en todo el territorio del Municipio.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan a (sic) contenido de la presente reforma.
+
+TERCERO.- La Comisión Permanente del Agua deberá instalarse al día siguiente de la publicación del presente acuerdo.
