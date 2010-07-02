@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "2009-04-17"
+last_updated: "2010-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGP"
 
 LEY GENERAL DE POBLACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JULIO DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -326,11 +326,11 @@ I.- TURISTA.- Con fines de recreo o salud, para actividades artísticas, cultura
 
 II.- TRANSMIGRANTE.- En tránsito hacia otro país y que podrá permanecer en territorio nacional hasta por treinta días.
 
-> <small>(REFORMADA, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 2010)</small>
 
 III.- VISITANTE.- Para dedicarse al ejercicio de alguna actividad lucrativa o no, siempre que sea lícita y honesta, con autorización para permanecer en el país hasta por un año.
 
-Cuando el extranjero visitante: durante su estancia viva de sus recursos traídos del extranjero, de las rentas que éstos produzcan o de cualquier ingreso proveniente del exterior; su internación tenga como propósito conocer alternativas de inversión o para realizar éstas; se dedique a actividades científicas, técnicas, de asesoría, artísticas, deportivas o similares; se interne para ocupar cargos de confianza, o asistir a asambleas y sesiones de consejos de administración de empresas; podrán concederse hasta cuatro prórrogas por igual temporalidad cada una, con entradas y salidas múltiples.
+Cuando el extranjero visitante: durante su estancia viva de sus recursos traídos del extranjero, de las rentas que éstos produzcan o de cualquier ingreso proveniente del exterior; su internación tenga como propósito conocer alternativas de inversión o para realizar éstas; se dedique a actividades científicas, técnicas, de asesoría, artísticas, deportivas o similares; realice trabajos remunerativos en el sector agrícola, en la rama de la construcción y en la prestación de servicios; se interne para ocupar cargos de confianza, o asistir a asambleas y sesiones de consejos de administración de empresas; podrán concederse hasta cuatro prórrogas por igual temporalidad cada una, con entradas y salidas múltiples.
 
 > <small>(REFORMADA, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
@@ -1046,11 +1046,11 @@ La persona que visite un transporte marítimo extranjero, sin permiso de las aut
 
 La misma sanción se impondrá a la persona que autorice sin facultades para ello, la visita a que se refiere el párrafo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 138.
 
-Se impondrá pena de seis a doce años de prisión y multa de cien a diez mil días de salario mínimo general vigente en el Distrito Federal en el momento de consumar la conducta, a quien por sí o por interpósita persona, con propósito de tráfico, pretenda llevar o lleve mexicanos o extranjeros a internarse a otro país, sin la documentación correspondiente.
+Se impondrá pena de ocho a dieciséis años de prisión y multa de cinco mil a quince mil días de salario mínimo general vigente en el Distrito Federal en el momento de consumar la conducta, a quien por sí o por interpósita persona, con propósito de tráfico, pretenda llevar o lleve mexicanos o extranjeros a internarse a otro país, sin la documentación correspondiente.
 
 > <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
@@ -1060,9 +1060,9 @@ Igual pena se impondrá a quien por sí o por medio de otro u otros introduzca, 
 
 A quien a sabiendas proporcione los medios, se preste o sirva para llevar a cabo las conductas descritas en los párrafos anteriores, se le impondrá pena de uno a cinco años de prisión y multa hasta el equivalente a cinco mil días de salario mínimo conforme al que esté vigente en el Distrito Federal.
 
-> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2010)</small>
 
-Se aumentarán hasta en una mitad las penas previstas en los párrafos precedentes, cuando las conductas descritas se realicen respecto de menores de edad; o en condiciones o por medios que pongan en peligro la salud, la integridad o la vida de los indocumentados; o bien cuando el autor del delito sea servidor público.
+Se aumentarán hasta en una mitad las penas previstas en los párrafos precedentes, cuando las conductas descritas se realicen respecto de menores de edad; o en condiciones o por medios que pongan en peligro la salud, la integridad o la vida de los indocumentados, o cuando sean sometidos a tratos inhumanos que vulneren sus derechos fundamentales; o bien cuando el autor del delito sea servidor público.
 
 > <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
@@ -1092,11 +1092,11 @@ Las sanciones administrativas a que esta Ley se refiere, se impondrán por las u
 
 (DEROGADO, D.O.F. 8 DE NOVIEMBRE DE 1996)
 
-(REUBICADO [N. DE E. ANTES ARTICULO 123], D.O.F. 22 DE JULIO DE 1992)
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 143.
 
-El ejercicio de la acción penal por parte del Ministerio Público Federal, en los casos de delito a que esta Ley se refiere, estará sujeto a la querella que en cada caso formule la Secretaría de Gobernación.
+El ejercicio de la acción penal por parte del Ministerio Público Federal, en los casos de delito a que esta ley se refiere, estará sujeto a la querella que en cada caso formule la Secretaría de Gobernación, no así en relación al artículo 138 de esta Ley pues este delito se perseguirá de oficio, quedando obligada la autoridad migratoria a proporcionar al Ministerio Público Federal, todos los elementos de convicción necesarios para la persecución de este delito.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 124], D.O.F. 22 DE JULIO DE 1992)
 
@@ -1359,5 +1359,9 @@ D.O.F. 21 DE JULIO DE 2008.
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 17 DE ABRIL DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE JULIO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
