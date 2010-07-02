@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2010-04-30"
+last_updated: "2010-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2010.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1307,7 +1307,7 @@ En este caso, la alteración que se haga de las capitulaciones deberá también 
 
 La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos; pero si estos son personas menores de dieciocho años de edad, deben intervenir en la disolución de la sociedad prestando su consentimiento, las personas a que se refiere el artículo 178.
 
-Esta misma regla se observara cuando la sociedad conyugal se modifique mientras los consortes sean personas menores de dieciocho años de edad.
+Esta misma regla se observará cuando la sociedad conyugal se modifique mientras los consortes sean personas menores de dieciocho años de edad.
 
 ###### ARTICULO 185.
 
@@ -13087,9 +13087,11 @@ El mandatario debe pagar los intereses de las sumas que pertenezcan al mandante 
 
 Si se confiere un mandato a diversas personas respecto de un mismo negocio, aunque sea en un solo acto, no quedarán solidariamente obligados si no se convino así expresamente.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 2448.
 
-El mandatario puede encomendar a un tercero el desempeño del mandato si tiene facultades expresas para ello.
+El mandatario puede encomendar a un tercero el desempeño del mandato si tiene facultades expresas para ello. El mandatario sustituto en ningún caso podrá a su vez delegar o sustituir a favor de tercero diverso, las facultades que a él fueron conferidas por el primer mandatario.
 
 ###### ARTICULO 2449.
 
@@ -13155,11 +13157,13 @@ II.- Los Jueces, Magistrados y demás funcionarios y empleados de la administrac
 
 III.- Los empleados de la Hacienda Pública, en cualquiera causa en que puedan intervenir de oficio, dentro de los límites de sus respectivos distritos.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 2460.
 
-El mandato judicial será otorgado en escritura pública, o en escrito presentado y ratificado por el otorgante ante el Juez de los autos. Si el Juez no conoce al otorgante, exigirá testigos de identificación.
+El mandato judicial será otorgado en escritura pública ó en escrito presentado y ratificado por el otorgante ante el Juez de los autos.
 
-La substitución del mandato judicial se hará en la misma forma que su otorgamiento.
+La substitución del mandato judicial y su revocación, se hará en la misma forma que su otorgamiento.
 
 ###### ARTICULO 2461.
 
@@ -15996,3 +16000,7 @@ P.O. 14 DE AGOSTO DE 2009.
 P.O. 30 DE ABRIL DE 2010.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 2 DE JULIO DE 2010.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
