@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-republicano-ayuntamiento-de-15080"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-20"
-last_updated: "2006-12-13"
+last_updated: "2010-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE GUADALUPE, NUEVO LEON
 
-REGLAMENTO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE GUADALUPE, NUEVO LEON
+REGLAMENTO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE GUADALUPE, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 20 de agosto de 1999.
 
@@ -43,9 +43,11 @@ REGLAMENTO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE GUADALUPE, N. L.
 
 Objeto: El presente Reglamento es de interés público y de observancia general en el Municipio de Guadalupe, Nuevo León y tiene por objeto regular la integración, organización y el buen funcionamiento del Republicano Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+
 ###### Artículo 2.
 
-Concepto de Ayuntamiento: El Ayuntamiento del Municipio de Guadalupe es el cuerpo colegiado, deliberante y autónomo que constituye el órgano responsable de vigilar la correcta administración municipal y representa autoridad superior en el mismo.
+Concepto de Ayuntamiento: El Ayuntamiento del Municipio de Guadalupe es el cuerpo colegiado, deliberante y autónomo que constituye el órgano responsable de vigilar la correcta administración municipal y representa la autoridad superior del gobierno municipal.
 
 ###### Artículo 3.
 
@@ -91,9 +93,11 @@ El Ayuntamiento autorizará las solicitudes de licencias de algún miembro del A
 
 ### Capítulo III. Residencia e Instalación del Ayuntamiento
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+
 ###### Artículo 11.
 
-Residencia: El Ayuntamiento de Guadalupe residirá en el Palacio Municipal y tendrá su domicilio legal en el lugar que ocupe la sede principal de la administración pública municipal. La sede sólo podrá cambiarse con la autorización del Honorable Congreso del Estado, previo acuerdo y solicitud del Ayuntamiento.
+Residencia: El Ayuntamiento de Guadalupe residirá en el Palacio Municipal y tendrá su domicilio legal en el lugar que ocupe la sede principal de la administración pública municipal. La sede sólo podrá cambiarse con la autorización del Honorable Congreso del Estado, previo acuerdo y solicitud del R. Ayuntamiento. El recinto oficial de sesiones del Ayuntamiento será la Sala de Cabildo ubicada en Palacio Municipal.
 
 ###### Artículo 12.
 
@@ -155,7 +159,9 @@ X.- Presentar al Ayuntamiento, durante el mes de noviembre del primer año de ge
 
 XI.- Proponer a consideración del Ayuntamiento la creación de nuevas unidades administrativas, sujetándose al acuerdo del mismo, en el sentido de aprobar o no dicha propuesta.
 
-XII.- Proponer al Ayuntamiento la integración de las Comisiones.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
+
+XII.- Presentar en la primera Sesión del R. Ayuntamiento del mes de noviembre, la propuesta de la creación e integración de comisiones sometiéndola a consideración del Pleno del R. Ayuntamiento.
 
 XIII.- Proponer en terna a los profesionistas de entre los cuales los miembros del Ayuntamiento elegirán al titular de la Contaduría Mayor de Hacienda Municipal.
 
@@ -251,9 +257,13 @@ I.- Acordar directamente con el Presidente Municipal.
 
 II.- Citar oportunamente a las Sesiones del Ayuntamiento, previo acuerdo con el Presidente Municipal y acudir a ellas con voz informativa pero sin voto.
 
-III.- Levantar el acta relativa de cada Sesión, de manera literal y objetiva, asentando la asistencia y participación de cada uno de los que en ella intervengan, las votaciones y los acuerdos que se tomen.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
 
-IV.- Llevar los libros de actas correspondientes, donde se archivarán las actas oficiales de todas las Sesiones del Ayuntamiento y se encargará del resguardo de éstos.
+III.- Levantar al Acta relativa a cada Sesión, dando fe de manera sucinta y objetiva la presentación de los dictámenes presentados, a excepción de las intervenciones que a título personal realicen los miembros del Ayuntamiento, que deberán de asentarse literalmente, así mismo en el acta se asentará la asistencia y la participación de cada uno de los que en ella intervengan, especificando el sentido de las votaciones, y los acuerdos que emanen de la Sesión.
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
+
+IV.- Llevar los libros de actas correspondientes, donde se archivarán las actas oficiales de todas las Sesiones del R. Ayuntamiento, mismas que se digitalizarán en archivos de audio y video, y se encargara del resguardo de éstos.
 
 V.- Tener a disposición del Ayuntamiento un sistema informático de consulta de los libros de actas.
 
@@ -261,7 +271,9 @@ VI.- Dar seguimiento a los Acuerdos del Ayuntamiento, apoyando a las Comisiones 
 
 VII.- Expedir las certificaciones y constancias correspondientes.
 
-VIII.- Encargarse de tramitar la publicación previa orden del Presidente Municipal, en el Periódico Oficial del Estado las circulares, acuerdos y reglamentos del Ayuntamiento.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
+
+VIII.- Encargarse de tramitar la publicación previa orden del Presidente Municipal, en el Periódico Oficial del Estado, y en la Gaceta Municipal las circulares, acuerdos y reglamentos del Ayuntamiento.
 
 IX.- Recibir la correspondencia dirigida al R. Ayuntamiento.
 
@@ -371,21 +383,47 @@ El Secretario del Ayuntamiento podrá convocar a sesiones extraordinarias en cas
 
 Para sesiones extraordinarias se dará aviso a la brevedad luego de haberse hecho la petición por parte del Presidente Municipal o de las dos terceras partes de los miembros del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+
 ###### Artículo 29.
 
-Orden del día.- A la convocatoria se deberá anexar el orden del día propuesto por el o los convocantes. Dicho orden contendrá como mínimo los siguientes puntos en sesiones ordinarias:
+Orden del día.- A la convocatoria se deberá anexar el orden del día propuesto por él ó los convocantes. Dicho orden contendrá como mínimo los siguientes puntos:
+
+a).- En Sesiones Ordinarias:
 
 I.- Lista de Asistencia.
 
 II.- Declaratoria de quórum y apertura de la Sesión.
 
-III.- Lectura o rectificación en su caso, del acta o actas correspondientes a sesiones anteriores y que hayan quedado pendientes de lectura y rectificación.
+III.- Lectura, rectificación en su caso y aprobación del acta o actas correspondientes a sesiones anteriores que hayan quedado pendientes de lectura y rectificación.
 
 IV.- Informe de cumplimiento de acuerdos del Ayuntamiento.
 
-V.- Asuntos Generales.
+V.- Aprobación en su caso de la presentación de Dictámenes y/o Puntos de Acuerdo
 
-VI.- Clausura.
+VI.- Asuntos Generales.
+
+VII.- Clausura.
+
+b).- En Sesiones Extraordinarias
+
+l.- Lista de Asistencia.
+
+II.- Declaratoria de quórum y apertura de la Sesión
+
+III.- Punto Único motivo de la reunión extraordinaria.
+
+IV.- Clausura.
+
+c).- En Sesiones Solemnes
+
+l.- Lista de Asistencia.
+
+II.- Declaratoria de quórum y apertura de la Sesión
+
+III.- Punto único del Orden del Día, que corresponda, o las disposiciones contenidas en los incisos a), b), c), y d) del artículo 22 fracción III de este reglamento.
+
+IV.- Clausura.
 
 ###### Artículo 30.
 
@@ -433,7 +471,9 @@ Atribuciones del Presidente.- El Presidente Municipal, en lo que al funcionamien
 
 I.- Convocar a los integrantes del Ayuntamiento para efectos de celebrar sesión del Ayuntamiento, por conducto del Secretario, en los términos del presente ordenamiento.
 
-II.- Conceder el uso de la palabra a los integrantes del Ayuntamiento en los términos de este Reglamento.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
+
+II.- Conceder el uso de la palabra a los Integrantes del Ayuntamiento por si, ó por conducto del Secretario del Ayuntamiento, en los términos de este Reglamento.
 
 III.- Proponer el orden en que deberán ser atendidos los asuntos del Ayuntamiento.
 
@@ -473,11 +513,15 @@ VI.- Obtener las firmas autógrafas de cada integrante del Ayuntamiento en los l
 
 VII.- Compilar los acuerdos y resoluciones dictadas por el Ayuntamiento.
 
-VIII.- Custodiar las cintas que contengan las grabaciones de las sesiones de Ayuntamiento en los términos de este Reglamento.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
+
+VIII.- Custodiar las cintas de audio y video que contengan las grabaciones de las sesiones del R. Ayuntamiento, y disponer su trascripción y guarda en archivos de medios electrónicos de las nuevas tecnologías de la información y comunicación, mismos que estarán bajo su resguardo.
 
 IX.- Aquéllas que el Presidente Municipal, el Ayuntamiento, las leyes y los reglamentos le concedan.
 
-### Capítulo IV. De la Suspensión, Receso y Diferimiento de las Sesiones
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2010)</small>
+
+### Capítulo IV. De la Suspensión, receso, anticipación y diferimiento de las sesiones
 
 ###### Artículo 37.
 
@@ -493,9 +537,11 @@ III.- Cuando exceda de 3 horas, salvo acuerdo del Ayuntamiento.
 
 Del receso.- Cuando se decrete suspender temporalmente una sesión se declarará un receso, notificando a los integrantes del Ayuntamiento la fecha y hora en que la sesión deberá reanudarse, lo cual deberá suceder dentro de las siguientes veinticuatro horas. Cuando el Ayuntamiento así lo determine podrá declararse en sesión permanente hasta resolver el asunto de referencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2010)</small>
+
 ###### Artículo 39.
 
-Del diferimiento.- Habiéndose convocado en los términos de este Reglamento para que sea celebrada una sesión de Ayuntamiento, ésta no podrá diferirse sino en los siguientes casos:
+Del diferimiento y anticipación.- Habiéndose convocado en los términos de este Reglamento para que sea celebrada una sesión de Ayuntamiento, ésta no podrá diferirse sino en los siguientes casos:
 
 I.- Cuando lo solicite la mayoría de los integrantes del Ayuntamiento mediante escrito dirigido al Presidente Municipal.
 
@@ -504,6 +550,10 @@ II.- Cuando el Presidente Municipal esté impedido para asistir a la sesión, en
 III.- Cuando por razón de fuerza mayor plenamente justificada no sea posible reunir el número suficiente de miembros del Ayuntamiento para lograr completar el quórum legal.
 
 Cuando se difiera una sesión, el Secretario del Ayuntamiento lo comunicará a los demás integrantes del Ayuntamiento, convocando para celebrar la sesión dentro de los próximos cinco días hábiles a la fecha en que debió celebrarse.
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
+IV.- De la anticipación,- Las sesiones programadas y/ o convocadas, podrán ser anticipadas por cuanto hace a la hora y día, de conformidad y a petición de las dos terceras partes de los miembros del Ayuntamiento, ó por parte del Presidente Municipal derivado de las actividades propias de su cargo.
 
 ### Capítulo V. Del Procedimiento en Sesión de Ayuntamiento
 
@@ -529,9 +579,11 @@ Presentación del dictamen a la Secretaría del Ayuntamiento.-
 
 Los dictámenes deberán hacerse llegar a la Secretaría del Ayuntamiento acompañados del expediente correspondiente, por lo menos con 48 horas de anticipación a la fecha en que se expida la convocatoria para la sesión de Ayuntamiento en que pretende discutirse, salvo el dictamen de la Comisión de Hacienda.
 
-###### Artículo 42.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2010)</small>
 
-Distribución del dictamen.- Recibido en la Secretaría del Ayuntamiento un dictamen con su expediente, deberá distribuir copias simples del mismo entre los integrantes del Cabildo que no sean miembros de la Comisión dictaminadora, a más tardar al siguiente día hábil de su recepción.
+###### Articulo 42.
+
+Distribución del dictamen.- Recibido en la Secretaría del Ayuntamiento un dictamen con su expediente, deberá distribuirlo vía electrónica e impreso, entre los Integrantes del R. Ayuntamiento que no sean miembros de la Comisión dictaminadora, a más tardar 24 horas previas a la sesión, o en su caso y a petición expresa de los integrantes del R. Ayuntamiento se remitirá en copia simple del mismo entre los integrantes del Cabildo que no sean miembros de la Comisión dictaminadora, a más tardar al siguiente día hábil de su recepción.
 
 El Secretario del Ayuntamiento enlistará los asuntos dictaminados, en el proyecto de Orden del Día.
 
@@ -553,9 +605,11 @@ Rectificación de actas.- Las actas de Ayuntamiento serán leídas por el Secret
 
 Las observaciones que se formulen al acta serán asentadas por el Secretario del Ayuntamiento previo a su trascripción al Libro de Actas.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+
 ###### Artículo 47.
 
-Dispensa de lectura mediante remisión anticipada.- Podrá dispensarse la lectura del acta si el Secretario remite el proyecto a los integrantes del Ayuntamiento y al C. Secretario de Finanzas y Tesorero Municipal cuando menos con veinticuatro horas de anticipación a la sesión en que deba dársele lectura en la sesión, el Secretario informará de la remisión anticipada y solicitará la dispensa de lectura, tras lo cual se procederá en los términos del artículo anterior.
+Dispensa de lectura mediante remisión anticipada.- Podrá dispensarse la lectura del Acta si el Secretario remite el proyecto vía electrónica, e impresa en papel a los Integrantes del R. Ayuntamiento y al C. Secretario de Finanzas y Tesorero Municipal, cuando menos con veinticuatro horas de anticipación a la Sesión en que deba dársele lectura; en la Sesión, el Secretario informará de la remisión anticipada y solicitará la dispensa de su lectura y de no haber rectificaciones, se someterá a consideración del R. Ayuntamiento el Acta correspondiente.
 
 ## TITULO TERCERO. DE LAS COMISIONES
 
@@ -1111,7 +1165,9 @@ El Secretario de la Comisión llevará un acta donde asentará quienes asistiero
 
 De los acuerdos, dictámenes y recomendaciones.- Como respuesta a los asuntos que les hayan sido turnados, las comisiones podrán tomar acuerdos y emitir dictámenes que tendrán el carácter de recomendaciones para el Ayuntamiento, cuando dichos asuntos sean discutidos en la Sesión correspondiente.
 
-El dictamen será leído por el presidente de la comisión ó por quienes la misma designe para ello, en oficio dirijo (sic) al Ayuntamiento, donde se refieran los antecedentes, investigaciones, procedimiento de análisis, resultado de votación si hubiere y quienes trabajaron en la elaboración del mismo. Al calce firmarán el documento quienes intervinieron, agregando a su firma el sentido de su voto: “a favor”, “en contra” o “abstención” del resultado del dictamen. El documento será leído en su totalidad y el mismo constará en el acta de la sesión correspondiente.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+
+El dictamen será leído por el presidente de la comisión ó por quienes la misma designe para ello, en oficio dirijo (sic) al Ayuntamiento, donde se refieran los antecedentes, investigaciones, procedimiento de análisis, resultado de votación si hubiere y quienes trabajaron en la elaboración del mismo. Al calce siempre firmarán el documento quienes intervinieron, agregando siempre a su firma el sentido de su voto: "a favor”, "en contra” ó “abstención” del resultado del dictamen. El documento será leído en su totalidad, solo podrá excepcionarse la lectura total, mediante el acuerdo del R. Ayuntamiento, sustentado en la distribución y análisis previo conforme al artículo 42 de presente (sic) Reglamento, en ambos casos, el mismo constará íntegramente en el Acta de la Sesión correspondiente.
 
 ###### Artículo 61.
 
@@ -1139,7 +1195,9 @@ Contenido.- El Ayuntamiento cuidará que los reglamentos que expida se ajusten a
 
 Consulta Pública.- Es indispensable la consulta entre los diversos sectores de la población para recibir las observaciones, sugerencias y propuestas Propiciando que la ciudadanía haga suyo el proyecto de reglamento y de el respaldo necesario para su aplicación con legitimidad y legalidad.
 
-Cuando el Ayuntamiento decida iniciar la revisión, modificación y/o expedición de un reglamento, deberá informar a la ciudadanía en general mediante publicación en tres periódicos de las de mayor circulación en la localidad, a fin de que los interesados en opinar acerca del reglamento puedan hacerlo y que sus observaciones sean consideradas por el Ayuntamiento.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+
+Cuando el Ayuntamiento decida iniciar la revisión, modificación y/o expedición de un reglamento, deberá informar a la ciudadanía en general, mediante la publicación de la convocatoria a Consulta Pública, en el Periódico Oficial del Estado, en el Portal de Internet o Sitio Web de la página oficial del Municipio y en Tablero de Avisos del R. Ayuntamiento, ó en su caso cuando asi expresamente lo señale la Ley en un periódico de los de mayor circulación en el municipio, a fin de que los interesados en opinar acerca del reglamento puedan hacerlo y que sus observaciones sean consideradas por el Ayuntamiento.
 
 ###### Artículo 66.
 
@@ -1151,9 +1209,13 @@ a).- Si en el desarrollo de las actividades que les sean conferidas, alguno o al
 
 b).- Revisado el proyecto y enviado para su análisis y estudio a cada uno de los integrantes del Ayuntamiento, estos remitirán sus observaciones en sesiones de trabajo o a través del escrito dirigido a la Comisión correspondiente.
 
-c).- El Presidente Municipal pondrá el proyecto de reglamento a consideración del Ayuntamiento para su discusión y aprobación en su caso. El proyecto será leído en su totalidad, luego el Presidente Municipal lo someterá a votación en lo general; si es aprobado procederá a abrir la discusión en lo particular discutiéndose por capítulo o título según sea el caso, hasta agotar el contenido del mismo; terminada la discusión, las observaciones y correcciones que el Ayuntamiento apruebe serán hechas al proyecto original, quedando constancia en el acta de la sesión. Si no fuese aprobado en lo general, será devuelto a la comisión correspondiente.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
 
-d).- Aprobado el proyecto por el Ayuntamiento, el Presidente Municipal ordenará su publicación en el Periódico Oficial del Estado, a través del Secretario del Ayuntamiento.
+c).- El Presidente Municipal pondrá el proyecto de reglamento a consideración del R. Ayuntamiento para su discusión y aprobación en su caso. El proyecto será leído en su totalidad, solo podrá excepcionarse la lectura total, mediante el acuerdo del R. Ayuntamiento, sustentado en la distribución y análisis previo conforme lo establece el artículo 42 del presente Reglamento, luego el Presidente Municipal por si o a través del Secretario del R. Ayuntamiento, lo someterá a votación en lo general, y en lo particular, si no hubiera intervenciones en lo general se considerará aprobado en lo general y procederá a abrir la discusión en lo particular, discutiéndose por capítulo o titulo según sea el caso, hasta agotar el contenido del mismo; terminada la discusión, las observaciones y correcciones que el R. Ayuntamiento apruebe, serán hechas al proyecto original, quedando constancia en el Acta de la Sesión. Si no fuera aprobado en lo general será devuelto a la comisión correspondiente.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+
+d).- Aprobados los dictámenes por el Pleno, se constituye en Acuerdos del R. Ayuntamiento, el Presidente Municipal ordenará su publicación en el Periódico Oficial del Estado, y en la Gaceta Municipal que se publica en el Portal de Internet o Sitio Web de la página oficial del municipio, a través del Secretario del Ayuntamiento.
 
 ## TITULO CUARTO. DE LAS SANCIONES Y RECURSOS
 
@@ -1201,7 +1263,7 @@ EL C. SECRETARIO DE AYUNTAMIENTO
 
 C. HERIBERTO GARCIA GOMEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 20 DE NOVIEMBRE DE 2000.
 
@@ -1250,3 +1312,9 @@ TERCERO.- Envíese al C. Secretario General de Gobierno para que por su conducto
 CUARTO.- Se ordena su publicación en el Periódico Oficial del Estado, así como en la Gaceta Municipal.
 
 QUINTO.- Cúmplase
+
+P.O. 2 DE JULIO DE 2010.
+
+PRIMERO.- Las reformas por modificación y adición al articulado del Reglamento Interior del Republicano Ayuntamiento de Guadalupe, N.L., entraran en vigor al dia siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas por modificación y adición al Reglamento Interior del Republicano Ayuntamiento de Guadalupe, N.L.
