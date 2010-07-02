@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2010-04-06"
+last_updated: "2010-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JULIO DE 2010.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -830,9 +830,13 @@ II. Aquellas especies nativas de la vida silvestre que se desarrollen en medio a
 
 III. Aquellas especies nativas de la vida silvestre que se desarrollen en medio acuático no excluidas específicamente por dicho instrumento; o
 
-IV. Ejemplares con características específicas, de poblaciones, especies o grupos de especies nativas de la vida silvestre que se desarrollen en medio acuático, que sean afectados en forma negativa por el uso de determinados medios de aprovechamiento.
+> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 2010)</small>
 
-Previo a la expedición del acuerdo, la Secretaría elaborará los estudios justificativos, mismos que deberán contener, de conformidad con lo establecido en el reglamento, información general, diagnóstico, descripción de las características físicas del área, justificación y aspectos socioeconómicos.
+IV. Ejemplares con características específicas, de poblaciones, especies o grupos de especies nativas de la vida silvestre que se desarrollen en medio acuático, que sean afectados en forma negativa por el uso de determinados medios de aprovechamiento; por contaminación física, química o acústica, o por colisiones con embarcaciones.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2010)</small>
+
+Previo a la expedición del acuerdo, la Secretaría elaborará los estudios justificativos, mismos que deberán contener, de conformidad con lo establecido en el reglamento, información general, diagnóstico, descripción de las características físicas del área, justificación y aspectos socioeconómicos; para lo cual podrá solicitar la opinión de las dependencias de la Administración Pública Federal competentes.
 
 ###### Artículo 68.
 
@@ -1509,3 +1513,9 @@ D.O.F. 6 DE ABRIL DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE JULIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
