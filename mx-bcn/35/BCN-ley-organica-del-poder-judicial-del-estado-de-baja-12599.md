@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2009-11-13"
+last_updated: "2010-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2010.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -155,11 +155,19 @@ III.- El de Ensenada, con la comprensión política administrativa del Municipio
 
 IV.- El de Tecate, con la comprensión política administrativa del Municipio de ese nombre.
 
-V.- Los Partidos Judiciales que determine el Consejo de la Judicatura del Estado, para la mejor administración de justicia, conforme al presupuesto de egresos respectivo.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
+
+V.- El de Playas de Rosarito, con la comprensión política administrativa del Municipio de ese nombre.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2010)</small>
+
+VI.- Los Partidos Judiciales que determine el Consejo de la Judicatura del Estado, para la mejor administración de justicia, conforme al presupuesto de egresos respectivo.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 6.
 
-Las cabeceras de los partidos judiciales del Estado, serán, respectivamente, las ciudades de Mexicali, Tijuana, Ensenada y Tecate.
+Las cabeceras de los partidos judiciales del Estado, serán, respectivamente, las ciudades de Mexicali, Tijuana, Ensenada, Tecate y Playas de Rosarito.
 
 ## TITULO TERCERO. DE LAS DESIGNACIONES, CONDICIONES Y PROHIBICIONES PARA EJERCER FUNCIONES JUDICIALES
 
@@ -245,19 +253,21 @@ No podrá recaer ningún nombramiento de la Administración de Justicia en indiv
 
 ### CAPITULO I. DEL TRIBUNAL SUPERIOR
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 21.
 
-El Tribunal Superior de Justicia, estará integrado por trece magistrados propietarios y seis suplentes como mínimo y funcionará en Pleno o en Salas en forma permanente en los términos de su calendario anual de actividades colegiadas.
+El Tribunal Superior de Justicia, estará integrado por trece Magistrados Numerarios como mínimo y tres Supernumerarios. Funcionará en Pleno o en Salas en forma permanente en los términos de su calendario anual de actividades colegiadas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2006)</small>
 
 Además contará con una Sala Unitaria Especializada para Adolescentes.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 22.
 
-Uno de los Magistrados Propietarios será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo de la Judicatura del Estado.
+Uno de los Magistrados Numerarios será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo de la Judicatura del Estado.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
@@ -411,9 +421,13 @@ Las actas a que se refiere el artículo anterior, serán sometidas a la consider
 
 ### CAPITULO IV. DEL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 38.
 
-El Presidente del Tribunal Superior de Justicia del Estado, será nombrado por el Pleno entre los magistrados propietarios, en votación secreta y escrutinio público, y en la primera sesión que se celebre durante el mes de noviembre de cada año. Durará en su cargo un año y podrá ser reelecto.
+El Presidente del Tribunal Superior de Justicia, será nombrado por el Pleno entre los Magistrados Numerarios, en votación secreta y escrutinio público, y en la primera sesión que se celebre durante el mes de noviembre de cada año. Durará en su cargo tres años y podrá ser reelecto para un periodo consecutivo por una sola ocasión.
+
+El Magistrado que habiendo sido reelecto cumpliera con el término de tres años, pasado un periodo de tres años posterior a aquel momento, podrá volver a ser electo Presidente del Tribunal Superior de Justicia en términos del párrafo anterior.
 
 ###### ARTICULO 39.
 
@@ -539,13 +553,15 @@ Si no fuere aprobado el proyecto pero el magistrado ponente aceptare las condici
 
 Si el proyecto del Magistrado ponente fue aprobado sin adiciones ni reformas, se tendrá como sentencia definitiva y se firmará dentro de los tres días siguientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 49.
 
-Cuando un magistrado estuviere impedido a conocer de un negocio o se excuse; aceptada que sea ésta o calificada de procedente el impedimento, o faltare accidentalmente, o esté ausente por un término no mayor de quince días, será suplido por el magistrado que de la Sala correspondiente designe el Presidente del Tribunal. En el caso del Magistrado de Sala Unitaria, el Pleno del Tribunal Superior de Justicia, por unanimidad o mayoría de votos, designará a uno de los Magistrados integrante de una de las Salas que conozcan de la materia penal, para que lo supla.
+Cuando un Magistrado estuviere impedido a conocer de un negocio o se excuse; aceptada que sea ésta o calificada de procedente el impedimento, o faltare accidentalmente, o esté ausente por un término no mayor de quince días hábiles, será suplido por el Magistrado que de la Sala correspondiente designe el Presidente del Tribunal.
 
-Cuando la excusa o impedimento afecte a dos o más de los magistrados de la Sala, conocerá del negocio la Sala que corresponda según la materia.
+Cuando la excusa o impedimento afecte a dos o más de los Magistrados de la Sala, conocerá del negocio la Sala que corresponda según la materia.
+
+Tratándose del Magistrado de la Sala Unitaria Especializada en Justicia para Adolescentes, en los supuestos que se señalan en el párrafo primero de este artículo, será suplido por el Secretario de Estudio y Cuenta de la propia Sala.
 
 ###### ARTICULO 50.
 
@@ -553,7 +569,9 @@ Las Salas conocerán:
 
 I.- De los Recursos de Apelación, de responsabilidad y queja, en su caso, que se interpongan en Asuntos Civiles y de lo familiar contra las resoluciones dictadas en esa materia por los Jueces de Primera y Unica Instancia del Estado.
 
-II.- De las apelaciones y denegadas apelaciones que se interpongan en materia penal, en contra de las resoluciones dictadas por los jueces de Primera y Unica Instancia del Estado.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
+
+II.- De las apelaciones y denegadas apelaciones que se interpongan en materia penal, en contra de las resoluciones dictadas por los jueces de Primera y Única Instancia del Estado, así como de los recursos de nulidad y revisión en los términos de las disposiciones normativas aplicables. De igual forma de los recursos de revocación sobre aspectos de mero trámite que deban resolver las salas.
 
 III.- De las revisiones oficiosas en materia civil y de lo familiar que prevengan las leyes.
 
@@ -611,11 +629,9 @@ V.- Los mixtos de Primera Instancia.
 
 VI.- Los de Paz en materia penal, en las causas en que proceda la apelación y denegada apelación, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2008)</small>
-
-VII.- Los Jueces de Garantías y Jueces de Tribunales de Juicio Oral.
+VII.- Los de Garantías.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -629,7 +645,9 @@ En el partido Judicial de Mexicali, habrá cuando menos cuatro Juzgados de Prime
 
 En el Partido Judicial de Tijuana, habrá cuando menos cinco Juzgados de Primera Instancia Civil, dos Juzgados de Primera Instancia de lo Familiar, siete Juzgados de Primera Instancia Penal y tres Juzgados de Paz, uno Civil, dos Penales. Además contará con un Juzgado de Primera Instancia Especializado para Adolescentes.
 
-Tratándose de Juzgado de Primera Instancia Especializado para adolescentes además de la competencia territorial que le corresponde al Partido Judicial de Tijuana, conocerá de las conductas tipificadas como delito que cometan los adolescentes dentro de la competencia territorial del Partido Judicial de Tecate.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+
+Tratándose del Juzgado de Primera Instancia Especializado para Adolescentes además de la competencia territorial que le corresponde al Partido Judicial de Tijuana, conocerá de las conductas tipificadas como delito que cometan los adolescentes dentro de las competencias territoriales de los partidos judiciales de Tecate y Playas de Rosarito.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -640,6 +658,10 @@ En el Partido Judicial de Ensenada, habrá cuando menos tres Juzgados de Primera
 ###### ARTICULO 57.
 
 En el Partido Judicial de Tecate, habrá cuando menos un Juzgado Mixto de Primera Instancia, en el ramo o ramos que determine el Pleno del Consejo de la Judicatura y un Mixto de Paz.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
+
+ARTICULO 57 BIS.- En el Partido Judicial de Playas de Rosarito, habrá cuando menos un Juzgado Mixto de Primera Instancia, en el ramo o ramos que determine el Pleno del Consejo de la Judicatura y un Mixto de Paz.
 
 ###### ARTICULO 58.
 
@@ -687,25 +709,35 @@ Los nombramientos de jueces serán hechos, preferentemente de entre aquellas per
 
 Para ser Juez, se requiere cumplir con los requisitos que señala la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 65.
 
-Para ser Secretario de Acuerdos de los Juzgados a que se refiere el artículo anterior se requiere:
+Para ser Secretario de Acuerdos de Juzgado se requiere:
 
-I.- Reunir los requisitos que para los jueces exigen las fracciones I) III) y V) del artículo anterior.
+I.- Ser mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos;
 
-II.- No tener menos de veinticinco años, ni más de sesenta y cinco años de edad, al día de la designación.
+II.- Tener título de abogado o Licenciado en Derecho y cédula profesional;
 
-III.- Tener práctica profesional suficiente para desempeñar el cargo.
+III.- Tener por lo menos veinticinco años y no más de sesenta y cinco años de edad, al día de la designación;
+
+IV.- Tener práctica profesional mínima de tres años para desempeñar el cargo, y
+
+V.- Gozar de buena reputación y no haber sido condenado por un delito intencional que amerite pena corporal de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lesione la buena fama en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido la pena.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 66.
 
-Para ser Actuario de los Juzgados a que se refiere el artículo 64 de esta Ley se requiere:
+Para ser Actuario de Juzgado, se requiere:
 
-I.- Reunir los requisitos que para los jueces exigen las fracciones I) y V), del artículo 64 de esta Ley.
+I.- Ser mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos.
 
-II.- Tener más de 22 al día de la designación.
+II.- Tener título de abogado o Licenciado en Derecho y cédula profesional.
 
-III.- Tener Título de Licenciado en Derecho.
+III.- Tener por lo menos veintidós años y no más de sesenta y cinco años de edad, al día de la designación.
+
+IV.- Gozar de buena reputación y no haber sido condenado por un delito intencional que amerite pena corporal de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lesione la buena fama en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido la pena.
 
 ###### ARTICULO 67.
 
@@ -913,13 +945,45 @@ III.- Designar al personal que durante los períodos vacacionales deban quedar d
 
 IV.- Las demás que les confieren las leyes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 81 Bis.
 
-Los Jueces de Garantía podrán ser parte de los Tribunales de Juicio Oral y ejercer las facultades que competen a los Jueces que integran a estos, siempre y cuando no hayan conocido en las etapas previas del asunto que le corresponda resolver al citado Tribunal.
+Los Jueces de Garantía, ejercerán las facultades que determinen las disposiciones normativas aplicables.
+
+Para el nuevo sistema de justicia penal, se contará con el número de Jueces de Garantía que sean indispensables para la adecuada aplicación del citado sistema y de conformidad con la disponibilidad presupuestal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
+
+###### ARTICULO 81 Ter.
+
+Los Tribunales de Juicio Oral estarán integrados por tres Jueces de Garantía, Jueces que no deberán haber conocido del asunto en las etapas previas al juicio oral que deba resolver el Tribunal al que se integran.
+
+Los Tribunales de Juicio Oral tendrá las atribuciones que determinen las disposiciones normativas aplicables y sus decisiones se tomarán por unanimidad o por mayoría de votos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
+
+###### ARTICULO 81 Quater.
+
+Los Jueces de Garantía nombrarán entre ellos a un Coordinador, el cual tendrá como atribuciones sugerir algunas de las siguientes acciones al administrador judicial:
+
+I.- La programación del número de audiencias por día.
+
+II.- Las mejoras a los inmuebles e infraestructura que estén bajo custodia del administrador judicial.
+
+III.- Las medidas para hacer más eficiente el modelo de gestión administrativa.
+
+IV.- El orden de guardias de los Jueces de Garantía.
+
+V.- Las mejoras en la labor que presta el personal administrativo.
+
+Asimismo, el Juez Coordinador podrá convocar a los Jueces de Garantía con el objeto de analizar entre otros aspectos, temas de su actividad jurisdiccional y homologar en lo posible sus criterios de aplicación de la ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
+
+ARTICULO 81 Quinques (sic).- Las vacaciones y guardias de los Jueces de Garantía, serán establecidas por los órganos competentes a través de un sorteo y previa citación a los Jueces. Los Jueces tendrán derecho a estar presentes en la realización del sorteo.
+
+Los Jueces de Garantía y Tribunales de Juicio Oral contarán con el apoyo del personal suficiente para ejercer adecuadamente sus atribuciones, personal que estará adscrito y a cargo del administrador judicial.
 
 ###### ARTICULO 82.
 
@@ -1063,6 +1127,8 @@ IV. Las demás que le impongan las leyes.
 
 ### CAPITULO I. DE LOS MAGISTRADOS
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+
 ### CAPITULO II. DE LOS JUECES, SECRETARIOS ACTUARIOS Y EMPLEADOS
 
 ### CAPITULO I. DE LA SUBSTITUCION EN CASOS DE RECUSACION Y EXCUSAS
@@ -1077,29 +1143,27 @@ IV. Las demás que le impongan las leyes.
 
 ###### ARTICULO 91.
 
-Las faltas temporales de los magistrados del Tribunal Superior de Justicia en las diversas funciones que las leyes les encomiende, se suplirán:
+Las faltas temporales de los Magistrados del Tribunal Superior de Justicia en las diversas funciones que las leyes les encomiende, se suplirán:
 
-I.- Las del presidente del Tribunal Superior serán suplidas por el magistrado propietario que elija el Pleno del mismo tribunal.
+I.- Las del Presidente del Tribunal Superior serán suplidas por el Magistrado Numerario que elija el Pleno del mismo Tribunal.
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+II.- Las de los Magistrados Numerarios cuando no pasen de dos meses, por el Magistrado Supernumerario que acuerde el Pleno del Tribunal Superior de Justicia.
 
-II.- Las de los Magistrados Propietarios cuando no pasen de dos meses, por el Magistrado Suplente que acuerde el Pleno del Tribunal Superior de Justicia.
+III.- Las de los Magistrados Numerarios por más de dos meses, por un Magistrado Supernumerario atendiendo el orden de prelación que haya establecido el Congreso del Estado.
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
-
-III.- Las de los Magistrados Propietarios por más de dos meses, pero no de seis, por el Magistrado Suplente que acuerde el Consejo de la Judicatura del Estado.
-
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 92.
 
-Las faltas temporales de los Magistrados por más de seis meses, serán cubiertas por el Magistrado Suplente que acuerde el Pleno del Consejo de la Judicatura del Estado de conformidad con los términos prescritos por el Artículo 58 de la Constitución Política del Estado.
+La falta absoluta de un Magistrado Numerario, será cubierta por un Magistrado Supernumerario atendiendo el orden de prelación que haya establecido el Congreso del Estado, hasta en tanto el propio Congreso realice el nuevo nombramiento en términos de lo que dispone la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 93.
 
-La falta absoluta de un Magistrado, será cubierta en la forma que previene el artículo 61 de la Constitución Política del Estado; pero mientras se hace la designación, la falta será cubierta en los términos del artículo que precede.
+Las faltas temporales del Magistrado de la Sala Unitaria Especializada en Justicia para Adolescentes, se suplirán por el Secretario de Estudio y Cuenta de esta Sala.
+
+En el caso de las faltas absolutas del Magistrado de la Sala Unitaria, se estará a lo dispuesto en el párrafo anterior hasta en tanto el Congreso del Estado realice el nuevo nombramiento, de conformidad a lo señalado en la Constitución Política del Estado.
 
 ### CAPITULO II. DEL JUICIO POLITICO
 
@@ -1609,7 +1673,7 @@ DE LOS ORGANOS ADMINISTRATIVOS DEL PODER JUDICIAL DEL ESTADO
 
 ### CAPITULO VI. DE LOS ORGANOS AUXILIARES DEL CONSEJO DE LA JUDICATURA
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 155.
 
@@ -1755,6 +1819,10 @@ XIV.- Solicitar al Tribunal Superior de Justicia sesione en forma extraordinaria
 
 XV.- Nombrar a los titulares de los órganos auxiliares del Poder Judicial, resolver sobre sus renuncias y licencias, removerlos por causa justificada o suspenderlos en los términos que determinen las leyes y los acuerdos correspondientes, y formular denuncia o querella en los casos en que proceda.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
+
+Para el nombramiento y remoción del administrador judicial, se requerirá de una mayoría calificada de los Consejeros de la Judicatura.
+
 XVI.- Nombrar, a su Secretario General así como conocer de su licencia, remoción, suspensión o renuncia.
 
 XVII.- Emitir las bases mediante acuerdos generales, para las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestaciones de servicios de cualquier naturaleza y la contratación de obra que realice el Poder Judicial en ejercicio de su presupuesto de egresos.
@@ -1893,7 +1961,21 @@ El Secretario General del Consejo de la Judicatura deberá reunir los requisitos
 
 ###### ARTICULO 175.
 
-Para su adecuado funcionamiento, el Consejo de la Judicatura del Estado contará cuando menos con las siguientes Unidades Administrativas: del Instituto de la Judicatura, del Archivo Judicial y de Notarios, del Boletín Judicial, Contraloría y Oficialía de Partes, y el Centro Estatal de Justicia Alternativa.
+Para su adecuado funcionamiento, el Consejo de la Judicatura del Estado contará cuando menos con las siguientes unidades administrativas:
+
+I.- El Instituto de la Judicatura;
+
+II.- El Archivo Judicial y de Notarios;
+
+III.- El Boletín Judicial;
+
+IV.- La Contraloría;
+
+V.- La Oficialía de Partes;
+
+VI.- El Centro Estatal de Justicia Alternativa, y
+
+VII.- El Administrador Judicial.
 
 ### CAPITULO XII. DE LA OFICIALIA DE PARTES
 
@@ -1937,7 +2019,7 @@ El Instituto de la Judicatura llevará acabo (sic) cursos de preparación para l
 
 El Instituto de la Judicatura, contará con un área de investigación, la cual tendrá como función primordial la realización de los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial del Estado.
 
-### CAPITULO XIII. DEL CENTRO ESTATAL DE JUSTICIA ALTERNATIVA
+### CAPITULO XIII. DEL ADMINISTRADOR JUDICIAL
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -1968,6 +2050,70 @@ Los servicios a que aluden las fracciones anteriores también podrán ser presta
 ###### ARTICULO 197 Bis
 
 1. - El Centro Estatal de Justicia Alternativa estará a cargo de un Director, y funcionará en los términos que determine el Consejo de la Judicatura del Estado de conformidad con la Ley de la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
+
+###### ARTICULO 197 Bis
+
+2.- El administrador judicial estará adscrito a la Presidencia del Consejo de la Judicatura y ejercerá las siguientes facultades:
+
+I.- Dirigir las labores administrativas, para que las audiencias que presidan los Jueces de Garantía y los Tribunales de Juicio Oral se desarrollen adecuadamente.
+
+II.- Realizar las actividades administrativas que sean necesarias, para la buena marcha del despacho y las audiencias que presidan los Jueces de Garantía y los Tribunales de Juicio Oral.
+
+III.- Supervisar las funciones del personal que tenga adscrito y a su cargo y evaluar su desempeño.
+
+IV.- Distribuir las causas penales a los Jueces de Garantía y Tribunales de Juicio Oral conforme a un procedimiento objetivo, aleatorio y general, procurando una correcta programación de las audiencias de acuerdo al sistema informático.
+
+V.- Establecer el orden de guardias de los Jueces de Garantía.
+
+VI.- Verificar que se cumpla con el abastecimiento de material de trabajo a las áreas de su competencia, de conformidad a lo requerido mensualmente por el Juez coordinador de los Jueces de Garantía.
+
+VII.- Implementar y dar cumplimiento a las políticas y directrices generales que dicte el Presidente del Consejo de la Judicatura, en materia de selección de personal, evaluación, administración de recursos materiales y humanos, de diseño y análisis de información estadística y demás.
+
+VIII.- Informar las necesidades presupuestarias anuales y turnarlas a la unidad administrativa del Consejo de la Judicatura.
+
+IX.- Dar cuenta semestralmente al Presidente del Consejo de la Judicatura, del estado que guarda la gestión administrativa del nuevo sistema de justicia penal.
+
+X.- Tener bajo su custodia las salas de audiencia, así como los bienes asignados a las mismas, debiendo poner de inmediato en conocimiento del Presidente del Consejo, cualquier deterioro que sufran.
+
+XI.- Custodiar los bienes y valores que se encuentren a disposición de los Jueces de Garantía y de los Tribunales de Juicio Oral con motivo de la tramitación de los asuntos sometidos a su conocimiento.
+
+XII.- Entregar y recibir bajo inventario los bienes y valores a que se refieren las fracciones X y XI de este artículo.
+
+XIII.- Ejercer las demás funciones que le sean asignadas por el Presidente del Consejo de la Judicatura.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
+
+###### ARTICULO 197 Bis
+
+3.- Podrá contarse con más de un administrador judicial, cuando lo justifique la necesidad de prestar un adecuado apoyo a los Jueces de Garantía y a los Tribunales de Juicio Oral y se cuente con la disponibilidad presupuestal.
+
+El Consejo de la Judicatura determinará la adscripción del administrador judicial o administradores judiciales.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2010)</small>
+
+###### ARTICULO 197 Bis
+
+4.- Para ser administrador judicial se requiere:
+
+I.- Ser mexicano en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- Tener edad mínima de treinta y cinco años;
+
+III.- Tener título profesional de Licenciatura en Sistemas Computacionales, Administración, Ingeniero Industrial o carrera afín;
+
+IV.- Tener un mínimo de ocho años de experiencia profesional dentro de los cuales tres con experiencia en nivel de dirección o gerencial en instituciones públicas o empresas privadas, respectivamente;
+
+V.- Tener residencia mínima de cinco años en el Estado, anteriores al día de su nombramiento, y
+
+VI.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lesione la buena fama en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido la pena.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2010)</small>
+
+###### ARTICULO 197 Bis
+
+5.- El administrador judicial será considerado para efectos laborales como trabajador de confianza y tendrá adscrito y a su cargo, el personal que le asigne el Consejo de la Judicatura y sea necesario para ejercer adecuadamente sus atribuciones, en particular de apoyo a los Jueces de Garantía y Tribunales de Juicio Oral.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2079,6 +2225,8 @@ El Consejo de la Judicatura del Estado cuando tenga conocimiento de irregularida
 
 ### CAPITULO III. DE LA ADSCRIPCION Y RATIFICACION
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 195.
 
 La Contraloría es el órgano dependiente y auxiliar del Consejo de la Judicatura, en cuanto a practicar auditorías y la aplicación de las disposiciones relativas al Registro Patrimonial y Responsabilidades Administrativas de los Servidores Públicos del Poder Judicial y como tal tendrá las siguientes atribuciones:
@@ -2131,7 +2279,7 @@ III.- Fuera de la capital del Estado recibir promociones que deben presentarse a
 
 IV.- Las que para el mejor desempeño de la administración de justicia le señalare el Consejo de la Judicatura.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO EN SU DENOMINACION, P.O. 2 DEJULIO DE 2010)</small>
 
 ### CAPITULO II. DE LOS SINDICOS DE CONCURSO
 
@@ -2211,9 +2359,7 @@ Por cada miembro titular se nombrará un suplente designado en los términos que
 
 ###### ARTICULO 205.
 
-Corresponde al Pleno del Consejo de la Judicatura del Estado, asignar al Partido Judicial y al Organo en que deban ejercer sus funciones los jueces.
-
-Asimismo, le corresponde, de conformidad con los criterios establecidos en el presente capítulo, adscribir a los magistrados a la Sala correspondiente por materia y readscribir a los jueces a una competencia, jurisdicción o a un órgano de materia distinta.
+Corresponde al Pleno del Consejo de la Judicatura del Estado, proponer al Pleno del Tribunal Superior la adscripción o readscripción de los Jueces del Poder Judicial.
 
 ###### ARTICULO 206.
 
@@ -3638,3 +3784,51 @@ P.O. 30 DE OCTUBRE DE 2009.
 P.O. 13 DE NOVIEMBRE DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor de acuerdo a la fracción I del artículo primero transitorio de la Ley de Justicia Alternativa para el Estado de Baja California.
+
+P.O. 2 DE JULIO DE 2010.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo dispuesto en el artículo noveno transitorio.
+
+###### ARTICULO SEGUNDO.
+
+Lo dispuesto en el Artículo 168 fracción XV párrafo segundo, será aplicable para el nombramiento o nombramientos de administrador judicial, que se realicen con posterioridad a la entrada en vigor de este Decreto.
+
+Bajo la actual integración del Consejo, deberá entenderse por mayoría calificada a por lo menos cinco Consejeros de la Judicatura. En caso que con posterioridad a la entrada en vigor de este Decreto cambiara el número de integrantes del Consejo, si el resultado de la operación aritmética de las dos terceras partes arrojara un número fraccionado, se entenderá que la citada mayoría se alcanza cuando voten en el mismo sentido los Consejeros que representen el número entero inmediato superior a dicha fracción.
+
+###### ARTICULO TERCERO.
+
+Los nombramientos realizados del personal adscrito al administrador o administradores judiciales surtirán sus efectos jurídicos desde el momento en que lo haya determinado o vaya a determinar el Consejo de la Judicatura.
+
+###### ARTICULO CUARTO.
+
+Suplirán a los jueces penales del sistema tradicional del Partido Judicial Mexicali que sean readscritos al nuevo sistema de justicia penal, los primeros secretarios de acuerdos del juzgado respectivo. En caso de que no hubiera un primer secretario o este no aceptara la citada suplencia, el Pleno del Tribunal Superior de Justicia determinará preferentemente dentro de los secretarios de acuerdos que laboren en el juzgado respectivo, la persona que ejercerá la suplencia.
+
+###### ARTICULO QUINTO.
+
+Para las faltas temporales de secretarios de acuerdos de los juzgados penales del sistema tradicional del Partido Judicial de Mexicali, que se actualicen con posterioridad a la entrada en vigor de este Decreto y que no excedan de dos meses, se estará a lo dispuesto por el Artículo 97 de esta Ley.
+
+Para las faltas temporales de secretarios de acuerdos de los juzgados penales del sistema tradicional del Partido Judicial de Mexicali, que se actualicen con posterioridad a la entrada en vigor de este Decreto y que excedan de dos meses, el Tribunal Superior de Justicia del Estado realizará las suplencias respectivas, dentro de las personas que cumplan con los requisitos que señala la ley y que, preferentemente sean servidores públicos que laboren en el juzgado donde se actualice este supuesto o formen parte de la lista elaborada por el Consejo de la Judicatura que señale nombres de personas aptas para ocupar el cargo.
+
+Para las faltas absolutas de secretarios de acuerdos de los juzgados penales del sistema tradicional del Partido Judicial de Mexicali, que se actualicen con posterioridad a la entrada en vigor de este Decreto se estará a lo dispuesto en el párrafo anterior.
+
+###### ARTICULO SEXTO.
+
+En el caso de faltas temporales o absolutas de actuarios de los juzgados penales del sistema tradicional del Partido Judicial de Mexicali, que se actualicen con posterioridad a la entrada en vigor de este Decreto, el Tribunal Superior de Justicia del Estado realizará las suplencias respectivas, dentro de las personas que cumplan con los requisitos que señala Ia ley y formen parte de la lista elaborada por el Consejo de la Judicatura que señale nombres de personas aptas para ocupar el cargo.
+
+###### ARTICULO SEPTIMO.
+
+En el supuesto de faltas temporales o absolutas de servidores públicos distintos a los señalados en los tres artículos transitorios anteriores de los juzgados penales del sistema tradicional del Partido Judicial de Mexicali, que se actualicen con posterioridad a la entrada en vigor de este Decreto, el Consejo de la Judicatura realizará las suplencias respectivas dentro de las personas que cumplan con los requisitos que señala la ley.
+
+###### ARTICULO OCTAVO.
+
+En todos los casos, los nombramientos que se realicen conforme a lo dispuesto por los artículos transitorios cuarto, quinto, sexto y séptimo tendrán el carácter de interinos y por ende por tiempo determinado.
+
+En el caso del personal jurisdiccional y administrativo del Poder Judicial que sea considerado para ejercer un cargo de manera interina en términos de lo que disponen los artículos transitorios anteriores, sus nuevos nombramientos seguirán conservando la denominación del cargo de donde provienen pero agregándose la frase en la que se contenga la denominación del nuevo cargo a ejercer y cuya función será con carácter de interino.
+
+Cuando la suplencia exceda del término de un mes, se estará a lo dispuesto en el Artículo 98 de esta Ley.
+
+###### ARTICULO NOVENO.
+
+Las reglas establecidas en los artículos transitorios cuarto, quinto, sexto, séptimo y octavo, entrarán en vigor en los partidos judiciales de Ensenada, Tijuana, Tecate y Playas de Rosarito un mes antes de que empiece a aplicarse el nuevo sistema de justicia penal, conforme a lo establecen las fracciones I y II del artículo primero transitorio del Código de Procedimientos Penales, publicado el día 19 de Octubre de 2007 en el Periódico Oficial del Estado.
