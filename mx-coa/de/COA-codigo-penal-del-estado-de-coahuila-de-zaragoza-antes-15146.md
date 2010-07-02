@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2009-02-06"
+last_updated: "2010-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -2381,11 +2381,11 @@ CONCEPTO DE DAÑO MORAL. Por daño moral se entiende: El sufrimiento que el deli
 
 AUTONOMÍA DEL DAÑO MORAL. Cuando un hecho u omisión ilícito produzca un daño moral, el responsable tendrá obligación de repararlo mediante una indemnización en dinero, con independencia de que se cause o no se cause daño material.
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 120.
 
-PRESUNCION JURIS TANTUM DE DAÑO MORAL. Salvo prueba en contrario, se considera que siempre existe daño moral en los delitos siguientes: Corrupción de menores si se depravó sexualmente a menor de dieciocho años de edad. Actos de corrupción de menores de dieciocho años de edad; Violencia familiar; Violación con o sin circunstancias calificativas, consumada o en grado de tentativa; Violación equiparada con o sin circunstancias calificativas; Violación impropia mediante violencia, que recaiga sobre incapaz con o sin circunstancias calificativas; Violación conyugal; Pornografía infantil, de adolescentes y de incapaces; Lenocinio; Trata de personas, menores e incapaces y Adulterio; cualquiera de los supuestos que se previenen en el articulo 311; Rapto y equiparable al Rapto; Atentados al pudor propio e impropio; Estupro; Amenazas; Privación de la libertad; Secuestro; Secuestro equiparado o simulado, ya sea consumados o en grado de tentativa; Asalto; Extorsión; Robo con violencia, consumado o en grado de tentativa; Homicidio, se consume o en grado de tentativa y cualquier otro delito contra la vida, salvo el que se comete bajo emoción violenta; Lesiones cualquiera que sea su gravedad, con o sin circunstancias calificativas.
+PRESUNCIÓN JURIS TANTUM DE DAÑO MORAL. Salvo prueba en contrario, se considera que siempre existe daño moral en los delitos siguientes: Corrupción de menores sí se depravó sexualmente a menor de dieciocho años de edad. Actos de corrupción de menores de dieciocho años de edad; Violencia familiar; Violación con o sin circunstancias calificativas, consumada o en grado de tentativa; Violación equiparada con o sin circunstancias calificativas; Violación impropia mediante violencia, que recaiga sobre incapaz con o sin circunstancias calificativas; Violación conyugal; Pornografía infantil; de adolescentes y de incapaces; Lenocinio; Trata de personas, menores e incapaces; cualquiera de los supuestos que se previenen en el artículo 311; Rapto y equiparable al rapto; Atentados al pudor propio e impropio; Estupro; Amenazas; Privación de la libertad; Secuestro; Secuestro equiparado o simulado, ya sea consumados o en grado de tentativa; Asalto; Extorsión; Robo con violencia, consumado o en grado de tentativa; Homicidio, se consume o en grado de tentativa y cualquier otro delito contra la vida; salvo el que se comete bajo emoción violenta; Lesiones cualquiera que sea su gravedad, con o sin circunstancias calificativas.
 
 ###### ARTÍCULO 271.
 
@@ -2423,7 +2423,7 @@ III. Asiente datos falsos en los registros, bitácoras o cualquier otro document
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-ARTÍCULO 291 BIS 3. SANCIONES Y FIGURAS TÍPICAS DEL DELITO CONTRA LA ORDENACIÓN DE LOS ECOSISTEMAS TERRESTRES COMETIDO POR LA AUTORIDAD. Se aplicará prisión de tres a nueve años y multa, destitución del cargo e inhabilitación de cinco a diez años para desempeñar cualquier otro, al servidor público que sin la autorización legal de la autoridad competente o sin causa que lo legitime, intervenga en la concesión, cambio de uso, desincorporación, afectación o desafectación, permuta, enajenación o usufructo, total o parcial de un área natural protegida, suelo de conservación considerado en programas de ordenamiento ecológico, barrancas o áreas verdes en suelo urbano, que se encuentren bajo la administración del Gobierno del Estado o de las autoridades municipales.
+ARTÍCULO 291 BIS 3. SANCIONES Y FIGURAS TIPÍCAS DEL DELITO CONTRA LA ORDENACIÓN DE LOS ECOSISTEMAS TERRESTRES COMETIDO POR LA AUTORIDAD. Se aplicará prisión de tres a nueve años y multa, destitución del cargo e inhabilitación de cinco a diez años para desempeñar cualquier otro, al servidor público que sin la autorización legal de la autoridad competente o sin causa que lo legitime, intervenga en la concesión, cambio de uso, desincorporación, afectación o desafectación, permuta, enajenación o usufructo, total o parcial de un área natural protegida, suelo de conservación considerado en programas de ordenamiento ecológico, barrancas o áreas verdes en suelo urbano, que se encuentren bajo la administración del Gobierno del Estado o de las autoridades municipales.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -3303,19 +3303,17 @@ Las sanciones aplicables a éstas últimas personas, serán de un mes a dos año
 
 Se aplicarán las últimas sanciones del párrafo anterior en caso de que la cópula sea entre hermanos.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 2010)</small>
+
 ### CAPÍTULO SÉPTIMO. ABORTO
 
 ###### ARTÍCULO 327.
 
-SANCIONES Y FIGURA TÍPICA DE ADULTERIO. Adulterio punible es la cópula de persona casada con otra que no sea su cónyuge si se realiza en el domicilio conyugal; o cuando en el medio social del ofendido, los sujetos activos hagan de manera conjunta ostentación pública a través de actos que en sí revelen o indiquen en forma segura su relación adulterina.
-
-A los culpables de adulterio se les aplicará prisión de tres días a dos años, multa y privación de derechos de familia hasta por igual tiempo.
+(DEROGADO, P.O. 2 DE JULIO DE 2010)
 
 ###### ARTÍCULO 328.
 
-REQUISITOS DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ADULTERIO. No se podrá proceder contra los adúlteros sino por querella del cónyuge ofendido; pero cuando éste formule querella contra uno sólo, se procederá contra todos los que intervinieron.
-
-Cuando el ofendido perdone a alguno de los que intervinieron, sus efectos se extenderán a todos.
+(DEROGADO, P.O. 2 DE JULIO DE 2010)
 
 APARTADO CUARTO
 
@@ -4668,3 +4666,9 @@ P.O. 6 DE FEBRERO DE 2009.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 2 DE JULIO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
