@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-de-lo-contencioso-65714"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-19"
-last_updated: "2008-12-19"
+last_updated: "2010-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 19 de diciembre de 2008.
 
@@ -381,7 +381,13 @@ XIV.- En el Libro de Registro de Fianzas y Billetes de Depósito, deberán asent
 
 XV.- En el Diario de Control de Préstamo de Expedientes, deberán asentarse los datos correspondientes a: número de expediente, motivo del préstamo, fecha del préstamo y firma de recibido, fecha de devolución y firma de quien recibe.
 
-ARTÍCULO 27 BIS.- El Jefe de Administración y Sistemas del Tribunal, tendrá las siguientes atribuciones:
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2010)</small>
+
+El registro de los asuntos a que se refiere este artículo, podrá llevarse a cabo a través de medios electrónicos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2010)</small>
+
+ARTÍCULO 27 BIS.- El Jefe de Administración del Tribunal, tendrá las siguientes atribuciones:
 
 I.- Elaborar el proyecto del presupuesto anual de gastos.
 
@@ -401,17 +407,19 @@ VIII.- Elaborar las órdenes de pago para realizar los pagos pendientes a provee
 
 IX.- Manejar la caja chica del Tribunal.
 
-X.- Administrar la Red de Cómputo del Tribunal, así como los servidores y sistemas con que cuenta el mismo.
+X.- (DEROGADA, P.O. 2 DE JULIO DE 2010)
 
-XI.- Coordinar el soporte técnico que se otorgue a los equipos de cómputo.
+XI.- (DEROGADA, P.O. 2 DE JULIO DE 2010)
 
-XII.- Administrar los servidores, red de cómputo, acceso a Internet y conmutador telefónico (SITE) del Tribunal.
+XII.- (DEROGADA, P.O. 2 DE JULIO DE 2010)
 
 XIII.- Coordinar las labores de mantenimiento de las instalaciones que ocupa el Tribunal.
 
 XIV.- Supervisar y coordinar el mantenimiento periódico que debe otorgarse a los vehículos oficiales.
 
-XV.- Supervisar la elaboración del inventario del mobiliario y equipo de cómputo.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
+
+XV.- Supervisar la elaboración del inventario del mobiliario.
 
 XVI.- Llevar un expediente administrativo de los Magistrados del Tribunal, así como del Director de Orientación y Consulta Ciudadana.
 
@@ -447,7 +455,23 @@ XI.- Fungir como enlace de transparencia en los términos de la Ley de Transpare
 
 XII.- Rendir cuentas del desempeño de sus funciones cuando así lo requiera el Pleno o el Magistrado Presidente.
 
-XIII.- Las demás atribuciones que le sean encomendadas por el Pleno o por el Presidente del Tribunal.
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
+XIII.- Administrar la Red de Cómputo del Tribunal, así como los servidores y sistemas con que cuenta el mismo.
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
+XIV.- Coordinar el soporte técnico que se otorgue a los equipos de cómputo.
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
+XV.- Administrar los servidores, red de cómputo, acceso a Internet y conmutador telefónico (SITE) del Tribunal.
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
+XVI.- Elaborar el inventario del equipo de cómputo y mantenerlo actualizado.
+
+XVII.- Las demás atribuciones que le sean encomendadas por el Pleno o por el Presidente del Tribunal.
 
 C A P I T U L O N O V E N O (SIC)
 
@@ -500,3 +524,15 @@ C. LIC. AURORA GAMEZ CANTÚ
 SECRETARIO GENERAL DE ACUERDOS
 
 C. LIC. MARÍA GUADALUPE TREVIÑO TORRES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE JULIO DE 2010.
+
+###### ARTICULO PRIMERO.
+
+Las reformas del Reglamento Interior del Tribunal de lo Contencioso Administrativo contenidas en el presente Acuerdo entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan a las citadas reformas.
