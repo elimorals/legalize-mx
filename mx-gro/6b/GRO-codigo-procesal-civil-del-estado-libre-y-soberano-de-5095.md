@@ -4,7 +4,7 @@ identifier: "GRO-codigo-procesal-civil-del-estado-libre-y-soberano-de-5095"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-26"
-last_updated: "2008-12-30"
+last_updated: "2010-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 364
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 26 de marzo de 1993.
 
@@ -4659,9 +4659,13 @@ I. Las reglas sobre repartición de la carga de la prueba no tendrán aplicació
 
 II. Para la investigación de la verdad, el juzgador puede ordenar cualquier prueba, aunque no la ofrezcan las partes;
 
-III. El principio preclusivo, en cuanto signifique un obstáculo para el logro de la verdad no tendrá aplicación; y
+III. El principio preclusivo, en cuanto signifique un obstáculo para el logro de la verdad no tendrá aplicación; y (sic)
 
-IV. La admisión de hechos y el allanamiento no vinculan al juzgador.
+IV. La admisión de hechos y el allanamiento no vinculan al juzgador;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
+V. En los juicios o acciones donde se encuentren inmersos menores de edad, el juzgador emitirá sus decisiones y determinaciones atendiendo al interés superior del menor, privilegiando los derechos fundamentales de los niños, por encima de cualquier otro, para ello, el juzgador no estará sujeto a resolver solamente con las pruebas que aporten las partes, sino que ejercerá las pruebas e investigaciones de oficio que considere pertinentes a fin de garantizar el bien y la protección de los menores. Asimismo deberá resolver sobre las medidas provisionales y aquellas que tiendan (sic) la preservación de los derechos del menor de manera oportuna.
 
 ###### Artículo 523.
 
@@ -7008,3 +7012,13 @@ P.O. 30 DE DICIEMBRE DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Remítase al Titular del Poder Ejecutivo Estatal para los efectos legales conducentes.
+
+P.O. 2 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos de lo dispuesto en el párrafo tercero del artículo 53 de la Constitución Política del Estado Libre y Soberano de Guerrero.
