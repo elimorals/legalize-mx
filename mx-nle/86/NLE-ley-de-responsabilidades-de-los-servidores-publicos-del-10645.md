@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-de-los-servidores-publicos-del-10645"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2009-07-27"
+last_updated: "2010-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de enero de 1997.
 
@@ -1163,17 +1163,15 @@ En las manifestaciones tanto inicial como de separación de cargo, se señalará
 
 En las manifestaciones patrimoniales anuales, se señalarán las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición así como los obsequios y donaciones recibidos por el servidor público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2010)</small>
 
 ###### Artículo 125.
 
-Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público de la Administración Pública Estatal, la Contraloría, fundando y motivando su determinación, efectuará la práctica de visitas de inspección y auditorías, para los efectos de la declaratoria de responsabilidades correspondientes. Cuando estos actos requieran orden de autoridad judicial, la propia Contraloría formulará ante ésta la solicitud correspondiente.
+Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público de la Administración Pública Estatal, la Contraloría, fundando y motivando su determinación, hará inmediatamente del conocimiento del Ministerio Público tal situación.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+La Contraloría a efecto de fincar responsabilidad administrativa, la cual será autónoma de la responsabilidad penal, podrá practicar visitas de inspección y auditorías, en las cuales se dará cuenta al servidor público de los hechos que las motivan, y se presentarán las actas en que dichas actuaciones consten, para que exponga lo que a su derecho convenga en el término de cinco días hábiles.
 
-Previamente a la inspección o al inicio de la auditoría, se dará cuenta al servidor público de los hechos que las motivan y se le presentarán las actas en que dichas actuaciones consten, para que exponga lo que a su derecho convenga en el término de cinco días.
-
-En el ámbito de los Poderes Legislativo y Judicial así como en los Municipios, los órganos de vigilancia o control interno correspondientes ejercerán las atribuciones previstas en este Artículo.
+En el ámbito de los Poderes Legislativo y Judicial, los Órganos Constitucionalmente Autónomos, así como en los Municipios, los órganos de vigilancia o control interno correspondientes ejercerán las atribuciones previstas en esta Ley.
 
 ###### Artículo 126.
 
@@ -1185,23 +1183,21 @@ Todas las Actas Circunstanciadas que se levanten con motivo de las visitas de in
 
 El servidor público visitado podrá interponer su inconformidad ante la Contraloría contra los hechos contenidos en los acuerdos fundados y motivados, mediante escrito que deberá presentar dentro de los cinco días hábiles siguientes a la conclusión de aquéllas, en el que expresará los motivos de su inconformidad y acompañará las pruebas que estime necesarias; dicha inconformidad será resuelta por la Contraloría en un plazo de cinco días hábiles contados a partir de su presentación.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2010)</small>
 
 ###### Artículo 128.
 
-Para los efectos de la probable responsabilidad penal por el delito de enriquecimiento ilícito, la Contraloría hará al Ministerio Público, en su caso, declaratoria de que el servidor público sujeto a la investigación respectiva en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquéllos sobre los que se conduzca como dueño, durante el tiempo en su encargo o por motivos del mismo.
-
-La Contraloría promoverá ante las autoridades competentes el aseguramiento de bienes o el embargo precautorio para el decomiso en beneficio del Erario Público, respecto de aquéllos bienes cuya procedencia lícita no pudo ser comprobada por el servidor público.
+En los casos en que la Contraloría detecte indicios de probable responsabilidad penal por el delito de enriquecimiento ilícito, hará inmediatamente del conocimiento del Ministerio Público tal situación, acompañando las constancias y demás elementos de prueba con los que cuente. En este supuesto, la Contraloría deberá actuar como coadyuvante del Ministerio Público.
 
 ###### Artículo 129.
 
 Para los efectos de esta Ley y en lo conducente del Código Penal, se computarán entre los bienes que adquieran los servidores públicos o de los cuales se conduzcan como dueños, aquellos bienes que reciban o de los que dispongan su cónyuge y sus dependientes económicos, salvo que acredite que los obtuvieron por sí mismos y por motivos ajenos al servicio público.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2010)</small>
 
 ###### Artículo 130.
 
-Los Poderes Legislativo y Judicial y los Municipios, al tener conocimiento de que algún servidor público ha incurrido en enriquecimiento ilícito, darán vista de ello a la Contraloría para que ésta actúe en los términos de esta Ley.
+Los órganos de vigilancia o control interno de los Poderes Legislativo y Judicial, los Órganos Constitucionalmente Autónomos y los Municipios, al tener conocimiento de que algún servidor público está en el supuesto de probable responsabilidad penal por la comisión del delito de enriquecimiento ilícito, darán vista al Ministerio Público de tal situación.
 
 ### CAPÍTULO II. DEL REGISTRO DE OBSEQUIOS Y DONACIONES A SERVIDORES PÚBLICOS
 
@@ -1416,3 +1412,7 @@ P.O. 31 DE DICIEMBRE DE 2008.
 P.O. 27 DE JULIO DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 3 DE JULIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
