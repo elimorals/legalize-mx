@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-ejecucion-de-las-sanciones-penales-7487"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-01"
-last_updated: "2009-07-17"
+last_updated: "2010-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de junio de 1994.
 
@@ -202,6 +202,10 @@ Los establecimientos penitenciarios estarán a cargo de un Director y tendrán e
 ###### ARTICULO 14.
 
 Para el adecuado funcionamiento de los establecimientos penitenciarios, en la designación del personal directivo, administrativo, técnico y de custodia, se considerarán las aptitudes, vocación, preparación académica y antecedentes personales.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2010)</small>
+
+Asimismo, el personal a que hace mención el párrafo anterior, deberá de sujetarse a los procedimientos de evaluación del desempeño y control de confianza a que se refiere la Ley de Seguridad Pública para el Estado de Nuevo León.
 
 ###### ARTICULO 15.
 
@@ -604,5 +608,9 @@ P.O. 11 DE FEBRERO DE 2009.
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 17 DE JULIO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
