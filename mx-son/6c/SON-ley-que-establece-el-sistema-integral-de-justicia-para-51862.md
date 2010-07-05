@@ -4,7 +4,7 @@ identifier: "SON-ley-que-establece-el-sistema-integral-de-justicia-para-51862"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2006-09-12"
+last_updated: "2010-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE JULIO DE 2010.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el martes 12 de septiembre de 2006.
 
@@ -681,7 +681,7 @@ El Juez puede imponer al adolescente las siguientes medidas cautelares:
 
 I.- La presentación de una garantía económica suficiente, sin que esto signifique un requisito esencial para restringir su libertad;
 
-II.- La prohibición de salir del Estado, de la localidad en la cual reside o del ámbito territorial que fije 0el Juez sin su autorización;
+II.- La prohibición de salir del Estado, de la localidad en la cual reside o del ámbito territorial que fije el Juez sin su autorización;
 
 III.- La obligación de someterse a la custodia, cuidado o vigilancia de sus padres, de una persona o institución determinada, que informe regularmente al Juez;
 
@@ -749,7 +749,7 @@ Cuando se ofrecieren pruebas testimoniales o careos, el Juez procurará desahoga
 
 ###### ARTÍCULO 67.
 
-Siempre que para el examen de personas, hechos u objetos, se requieran conocimientos especiales, se procederá con intervención de peritos, quienes practicarán todas las operaciones y experimentos que su ciencia o arte les sugiera y expresarán los hechos y circunstancias que sirvan de fundamento o su opinión.
+Siempre que para el examen de personas, hechos u objetos, se requieran conocimientos especiales, se procederá con intervención de peritos, quienes practicarán todas las operaciones y experimentos que su ciencia o arte les sugiera (sic) y expresarán los hechos y circunstancias que sirvan de fundamento o su opinión.
 
 Los peritos emitirán su dictamen por escrito y podrán hacerlo de manera verbal en audiencia cuando lo requiera el Juez, así como para ampliar, aclarar o explicar cualquier punto de su dictamen.
 
@@ -757,7 +757,7 @@ Los peritos emitirán su dictamen por escrito y podrán hacerlo de manera verbal
 
 Desahogada la prueba pericial, el Juez podrá acordar de oficio o a petición de parte, que se cite a los peritos a una junta, así como al ministerio público, al defensor y al adolescente, con el objeto de que los peritos hagan la explicación, aclaración o ampliación sobre cualquier punto de los dictámenes, que fuere necesaria y de trascendencia para conocer la verdad material, y para que en su caso, discutan sobre los puntos de diferencia. Se harán constar en el acta las manifestaciones de los peritos y de los que en la junta intervengan, así como en su caso, el resultado de la discusión.
 
-Si los peritos no se pusieren de acuerdo, el Juez nombrará un perito en discordia y cuando fuere necesario y trascendente para el juicio, podrá citarse una junta en los términos y con el objeto señalados en el párrafo anterior.
+Si los peritos no se pusieren de acuerdo, el Juez nombrará un perito en discordia y cuando fuere necesario y trascendente para el juicio, podrá citarse una junta en los términos y con el objeto señalados (sic) en el párrafo anterior.
 
 ###### ARTÍCULO 69.
 
@@ -1136,6 +1136,10 @@ I.- La restitución de la cosa obtenida por la conducta cometida y si no fuere p
 II.- La indemnización por el daño material y moral causado, incluyendo, en su caso, el pago de los tratamientos curativos que, como consecuencia del delito cometido, sean necesarios para la recuperación de la salud de la víctima. En los casos de delitos contra la libertad y el normal desarrollo psicosexual, además se comprenderá el pago de los tratamientos psicoterapéuticos necesarios para la víctima; y
 
 III.- El resarcimiento de los perjuicios ocasionados.
+
+> <small>(ADICIONADO, B.O. 5 DE JULIO DE 2010)</small>
+
+Los padres, tutores o quienes ejerzan la patria potestad del adolescente, serán solidariamente responsables y deberán garantizar el cumplimiento de la reparación del daño a la víctima u ofendido, cuando se trate de la conducta tipificada por el artículo 326 BIS del Código Penal para el Estado de Sonora.
 
 ###### ARTÍCULO 116.
 
@@ -1548,3 +1552,11 @@ EDUARDO BOURS CASTELO
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO RUIBAL ASTIAZARAN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 5 DE JULIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
