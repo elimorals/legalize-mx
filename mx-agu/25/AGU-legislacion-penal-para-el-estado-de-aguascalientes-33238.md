@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2010-03-01"
+last_updated: "2010-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2010.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -427,9 +427,11 @@ La Privación Ilegal de la Libertad consiste en el arresto o detención de una p
 
 Al responsable de Privación Ilegal de la Libertad se le aplicarán de 6 meses a 3 años de prisión y de 15 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2010)</small>
+
 ###### Artículo 38.
 
-La punibilidad será de 1 a 6 años de prisión y de 25 a 75 días multa, y pago total de la reparación de los daños y perjuicios ocasionados, cuando el hecho descrito en el Artículo 37 se realice:
+La punibilidad será de 2 a 8 años de prisión y de 50 a 100 días multa, y pago total de la reparación de los daños y perjuicios ocasionados, cuando el hecho descrito en el Artículo 37 se realice:
 
 I. Con utilización de fuerza física o moral, o vejación de la víctima;
 
@@ -5820,3 +5822,9 @@ P.O. 1 DE MARZO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE JULIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
