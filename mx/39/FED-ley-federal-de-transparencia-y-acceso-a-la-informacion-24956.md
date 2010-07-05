@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-transparencia-y-acceso-a-la-informacion-24956"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-06-11"
-last_updated: "2006-06-06"
+last_updated: "2010-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24956&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-10"
 
 LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JULIO DE 2010.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 11 de junio de 2002.
 
@@ -55,7 +55,9 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Comités: Los Comités de Información de cada una de las dependencias y entidades mencionados en el Artículo 29 de esta Ley o el titular de las referidas en el Artículo 31;
 
-II. Datos personales: La información concerniente a una persona física, identificada o identificable, entre otra, la relativa a su origen étnico o racial, o que esté referida a las características físicas, morales o emocionales, a su vida afectiva y familiar, domicilio, número telefónico, patrimonio, ideología y opiniones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, las preferencias sexuales, u otras análogas que afecten su intimidad;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2010)</small>
+
+II. Datos personales: Cualquier información concerniente a una persona física identificada o identificable;
 
 III. Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, sea escrito, impreso, sonoro, visual, electrónico, informático u holográfico;
 
@@ -65,7 +67,9 @@ V. Información: La contenida en los documentos que los sujetos obligados genere
 
 VI. Información reservada: Aquella información que se encuentra temporalmente sujeta a alguna de las excepciones previstas en los Artículos 13 y 14 de esta Ley;
 
-VII. Instituto: El Instituto Federal de Acceso a la Información establecido en el Artículo 33 de esta Ley;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2010)</small>
+
+VII. Instituto: El Instituto Federal de Acceso a la Información y Protección de Datos, establecido en el Artículo 33 de esta Ley;
 
 VIII. Ley: La Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
@@ -401,11 +405,15 @@ Corresponderá al Archivo General de la Nación elaborar, en coordinación con e
 
 Los titulares de las dependencias y entidades, de conformidad con las disposiciones aplicables, deberán asegurar el adecuado funcionamiento de los archivos. Asimismo, deberán elaborar y poner a disposición del público una guía simple de sus sistemas de clasificación y catalogación, así como de la organización del archivo.
 
-### Capítulo II. Instituto Federal de Acceso a la Información Pública
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE JULIO DE 2010)</small>
+
+### Capítulo II. Del Instituto
+
+> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2010)</small>
 
 ###### Artículo 33.
 
-El Instituto Federal de Acceso a la Información Pública es un órgano de la Administración Pública Federal, con autonomía operativa, presupuestaria y de decisión, encargado de promover y difundir el ejercicio del derecho de acceso a la información; resolver sobre la negativa a las solicitudes de acceso a la información y proteger los datos personales en poder de las dependencias y entidades.
+El Instituto es un órgano de la Administración Pública Federal, con autonomía operativa, presupuestaria y de decisión, encargado de promover y difundir el ejercicio del derecho a la información; resolver sobre la negativa a las solicitudes de acceso a la información y proteger los datos personales en poder de las dependencias y entidades.
 
 ###### Artículo 34.
 
@@ -770,3 +778,7 @@ D.O.F. 6 DE JUNIO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE JULIO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
