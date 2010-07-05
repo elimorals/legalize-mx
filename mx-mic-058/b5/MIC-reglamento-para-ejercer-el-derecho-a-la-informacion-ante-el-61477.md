@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-ejercer-el-derecho-a-la-informacion-ante-el-614
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-04"
-last_updated: "2008-06-04"
+last_updated: "2010-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61477&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MIC"
 ---
 # REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE NUEVO PARANGARICUTIRO, MICHOACAN
 
-REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE NUEVO PARANGARICUTIRO, MICHOACAN
+REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACIÓN ANTE EL H. AYUNTAMIENTO DE NUEVO PARANGARICUTIRO, MICHOACÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO Y TERCERO TRANSITORIO, DEL REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACIÓN ANTE EL H. AYUNTAMIENTO DE NUEVO PARANGARICUTIRO, MICHOACÁN, PUBLICADO EN EL P.O. DE 5 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el miércoles 4 de junio de 2008.
 
@@ -246,3 +248,13 @@ EL SECRETARIO MUNICIPAL
 ING. TOMÁS ECHEVARRÍA CHÁVEZ
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE JULIO DE 2010.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo. Y para el conocimiento ciudadano publíquese en los estrados del Palacio Municipal y en los lugares que el Ayuntamiento estime pertinente para su difusión.
+
+Segundo.- Conforme a lo previsto en los artículos 145, 149 y sexto transitorio de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, remítase un ejemplar con el texto íntegro al H. Congreso del Estado y al Titular del Poder Ejecutivo Estatal y al Consejero Presidente del Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán, para su conocimiento y efectos legales conducentes.
+
+Tercero.- El presente Reglamento deroga al anterior, publicado el 4 de junio del 2008 en el tomo CXLIV Número 2 en el Periódico Oficial del Estado.
