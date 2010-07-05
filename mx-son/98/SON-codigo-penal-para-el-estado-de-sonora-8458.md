@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2010-06-17"
+last_updated: "2010-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO PENAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE JULIO DE 2010.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -407,7 +407,7 @@ En los supuestos de las fracciones II y III, cuando el responsable de resarcir d
 
 > <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
-ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del articulo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia intrafamiliar, rapto, abusos deshonestos, privación ilegal de libertad, secuestro, trata de personas, homicidio, calumnias y chantaje.
+ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia intrafamiliar, rapto, abusos deshonestos, privación ilegal de libertad, secuestro, trata de personas, homicidio, calumnias y chantaje.
 
 > <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
@@ -437,7 +437,7 @@ Para los casos de reparación de daños y perjuicios causados con motivo de deli
 
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
-ARTICULO 31 BIS.- Salvo en los casos en que la ley presuma el daño moral, éste deberá probarse. El importe de la indemnización se fijará por el juzgador con base en la fracción III del artículo 29 de este Código y las circunstancias personales del ofendido o victima.
+ARTICULO 31 BIS.- Salvo en los casos en que la ley presuma el daño moral, éste deberá probarse. El importe de la indemnización se fijará por el juzgador con base en la fracción III del artículo 29 de este Código y las circunstancias personales del ofendido o víctima.
 
 > <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
@@ -2217,7 +2217,7 @@ II.- Al que se atribuya el carácter de profesionista y realice actos propios de
 
 ###### ARTICULO 210.
 
-Se impondrán de dos meses a dos años de prisión y de diez a cien días multa, a quien usare uniforme, emblema, símbolo, credencial, placa o gáfete oficiales, a que no tenga derecho.
+Se impondrán de dos meses a dos años de prisión y de diez a cien días multa, a quien usare uniforme, emblema, símbolo, credencial, placa o gafete oficiales, a que no tenga derecho.
 
 Cuando los objetos o identificaciones a que se refiere el párrafo anterior, correspondan o sean representativos de una corporación policial, la sanción se duplicará.
 
@@ -2379,7 +2379,7 @@ VII.- El delito fuere cometido en el interior de las instituciones de educación
 
 > <small>(ADICIONADA, B.O. 4 DE JUNIO DE 2009)</small>
 
-VlII.- Si el delito se cometiera en contra de la víctima, por su condición de género.
+VIII.- Si el delito se cometiera en contra de la víctima, por su condición de género.
 
 En los casos respectivos, el responsable perderá la patria potestad o la tutela, así como el derecho a heredar del ofendido.
 
@@ -2689,7 +2689,7 @@ Si la víctima fuere alguno de los parientes o personas a que se refieren los ar
 
 > <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
 
-Si el delito se cometiera en contra de la victima, por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
+Si el delito se cometiera en contra de la víctima, por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
 
 ###### ARTICULO 248.
 
@@ -3035,7 +3035,7 @@ Al responsable del delito de chantaje se le impondrán de seis meses a diez año
 
 ###### ARTÍCULO 293.
 
-Comete el delito de extorsión y se le aplicarán de tres a diez años de prisión y de veinte a trescientos días multa, al que sin derecho, y mediante coacción o intimidación, obligue a otro a dar, hacer, no hacer, dejar de hacer o tolerar algo, con la finalidad de obtener un lucro para si o para otro, o de causar a alguien un perjuicio patrimonial.
+Comete el delito de extorsión y se le aplicarán de tres a diez años de prisión y de veinte a trescientos días multa, al que sin derecho, y mediante coacción o intimidación, obligue a otro a dar, hacer, no hacer, dejar de hacer o tolerar algo, con la finalidad de obtener un lucro para sí o para otro, o de causar a alguien un perjuicio patrimonial.
 
 Las penas se aumentarán en una mitad más, si el constreñimiento se realiza por un miembro de una asociación delictuosa o por persona que sea o haya sido servidor público de alguna corporación policial, o por persona que, sin estar autorizada para ello, ejerza o haya ejercido funciones de éstas, imponiéndose, además, destitución e inhabilitación, en su caso, de dos a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
@@ -3287,7 +3287,7 @@ A excepción del previsto por el artículo 301-E, el resto de los delitos previs
 
 Comete el delito de trata de personas quien para sí o para un tercero induzca, procure, promueva, capte, reclute, facilite, traslade, consiga, solicite, ofrezca, mantenga, entregue o reciba a una persona recurriendo a la coacción física o moral, a la privación de la libertad, al engaño, al abuso de poder, al aprovechamiento de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para someterla a explotación o para extraer sus órganos, tejidos o sus componentes
 
-Para efectos de este artículo se entenderá por explotación el obtener provecho económico o cualquier otro beneficio para si o para otra persona, mediante la prostitución ajena u otras formas de aprovechamiento sexual, los trabajos o servicios forzados, la esclavitud o la mendicidad ajena.
+Para efectos de este artículo se entenderá por explotación el obtener provecho económico o cualquier otro beneficio para sí o para otra persona, mediante la prostitución ajena u otras formas de aprovechamiento sexual, los trabajos o servicios forzados, la esclavitud o la mendicidad ajena.
 
 Cuando las conductas anteriores recaigan en una persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho, se considerará como trata de personas incluso cuando no se recurra a ninguno de los medios señalados en el primer párrafo del presente artículo.
 
@@ -3601,6 +3601,12 @@ Cuando el despojo se cometa sin utilizar amenazas o violencia en las personas o 
 
 Cuando por cualquier medio se cause daño, destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercero, se aplicarán de un mes a cinco años de prisión y de diez a doscientos días multa.
 
+> <small>(ADICIONADO, B.O. 5 DE JULIO DE 2010)</small>
+
+ARTICULO 326 BIS.- Se aplicará de seis meses a dos años de prisión y de treinta a sesenta jornadas de trabajo a favor de la comunidad o de cincuenta a doscientos cincuenta días multa, al que utilizando cualquier tipo de sustancia o medio, realice pintas, escrituras, dibujos, signos, códigos, mensajes, figuras y gráficos de todo tipo, que alteren o modifiquen su presentación original, en bienes muebles e inmuebles, sin consentimiento del dueño o quien legalmente posea la cosa.
+
+Cuando el daño se cometa en bienes inmuebles destinados para planteles educativos, monumentos, sitios o bienes considerados como patrimonio cultural o con valor histórico, arqueológico, científico o arquitectónico, hospitales, centros deportivos, parques, áreas recreativas o cualquier otro bien inmueble propiedad del Estado o los municipios que esté destinado a prestar servicios públicos, o el daño se cause sobre pinturas, lienzos, murales o bienes de cantera, piedra, madera o cualquier otro material de difícil o imposible reparación, se sancionará con pena de uno a tres años de prisión y de cincuenta a cien jornadas de trabajo a favor de la comunidad o de cincuenta a doscientos cincuenta días multa. Los supuestos señalados en este párrafo serán perseguibles de oficio.
+
 ###### ARTICULO 327.
 
 Se impondrán de dos a diez años de prisión y de veinte a trescientos días multa, a los que causen incendio, inundación o explosión, con daño o peligro de:
@@ -3673,7 +3679,7 @@ II.- Siendo servidor público del Registro Estatal de Electores altere en cualqu
 
 III.- No proporcionen oportunamente la documentación electoral correspondiente a los presidentes de las mesas directivas de casilla;
 
-IV.- Siendo funcionarios de mesas directivas de casilla, consientan que la votación se lleve a cabo en forma ilegal o rehusen admitir el voto de quien, conforme a la ley, tenga derecho al sufragio;
+IV.- Siendo funcionarios de mesas directivas de casilla, consientan que la votación se lleve a cabo en forma ilegal o rehúsen admitir el voto de quien, conforme a la ley, tenga derecho al sufragio;
 
 V.- Sin causa justificada, se nieguen a reconocer la personalidad de los representantes de los partidos políticos o de sus comisionados, o bien, les impidan el ejercicio de las atribuciones que les corresponden;
 
@@ -3896,5 +3902,11 @@ En un plazo no mayor a treinta días contados a partir de la entrada en vigor de
 B.O. 17 DE JUNIO DE 2010.
 
 ###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 5 DE JULIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
