@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-organismo-publico-descentralizado-75194"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-06-07"
-last_updated: "2010-06-07"
+last_updated: "2010-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # ESTATUTO ORGANICO DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "FIDEICOMISO DE ADMINISTRACION E INVERSION PARA LA OPERACION DE LA ISLA SAN MARCOS", DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 5 DE JULIO DE 2010, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGANICO DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "FIDEICOMISO DE ADMINISTRACION E INVERSION PARA LA OPERACION DE LA ISLA SAN MARCOS"
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 5 DE JULIO DE 2010.</small>
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de junio de 2010.
 
@@ -59,8 +59,6 @@ El “Fideicomiso de Administración e Inversión para la Operación de la Isla 
 
 El organismo público descentralizado de la Administración Pública del Estado, denominado “Fideicomiso de Administración e Inversión para la Operación de la Isla San Marcos”, tiene como misión el cumplimiento y desarrollo de los fines establecidos en su Decreto de creación, en las cláusulas del Contrato de Fideicomiso, las Reglas de Operación, la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, y demás normatividad que resulte aplicable.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JULIO DE 2010 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 4°.
 
 (Definiciones)
@@ -69,9 +67,13 @@ Para los efectos del presente Estatuto Orgánico del “Fideicomiso de Administr
 
 I. Administrador: al Administrador en términos del Decreto que establece la Constitución del “Fideicomiso de Administración e Inversión para la Operación de la Isla San Marcos”;
 
-II. Comité Técnico: Órgano Colegiado y máxima autoridad del Fideicomiso, integrado por representantes de la Administración Pública del Estado, tanto centralizada como descentralizada, señalados en el artículo 8 Decreto que establece la constitución del “Fideicomiso de Administración e Inversión para la Operación de la Isla San Marcos”, publicado en el Periódico Oficial del Estado de Aguascalientes el día siete de septiembre del año dos mil diez.; (sic)
+> <small>(F. DE E., P.O. 5 DE JULIO DE 2010)</small>
 
-III. Decreto de creación: al Decreto que establece la Constitución del “Fideicomiso de Administración e Inversión para la Operación de la Isla San Marcos”, publicado en el Periódico Oficial del Estado en fecha siete de septiembre de dos mil diez;
+II. Comité Técnico: Órgano Colegiado y máxima autoridad del Fideicomiso, integrado por representantes de la Administración Pública del Estado, tanto centralizada como descentralizada, señalados en el artículo 8 Decreto que establece la constitución del “Fideicomiso de Administración e Inversión para la Operación de la Isla San Marcos”, publicado en el Periódico Oficial del Estado de Aguascalientes el día siete de septiembre del año dos mil nueve;
+
+> <small>(F. DE E., P.O. 5 DE JULIO DE 2010)</small>
+
+III. Decreto de creación: al Decreto que establece la Constitución del “Fideicomiso de Administración e Inversión para la Operación de la Isla San Marcos”, publicado en el Periódico Oficial del Estado en fecha siete de septiembre de dos mil nueve;
 
 IV. Estatuto Orgánico: al Estatuto Orgánico del “Fideicomiso de Administración e Inversión para la Operación de la Isla San Marcos”;
 
