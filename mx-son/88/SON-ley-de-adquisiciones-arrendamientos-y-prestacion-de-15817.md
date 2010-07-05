@@ -4,7 +4,7 @@ identifier: "SON-ley-de-adquisiciones-arrendamientos-y-prestacion-de-15817"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-08"
-last_updated: "2008-07-14"
+last_updated: "2010-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACION PUBLICA ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE JULIO DE 2010.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 8 de diciembre de 1988.
 
@@ -65,13 +65,29 @@ IV.- Dependencia coordinadora de sector: Las dependencias a que se refiere la fr
 
 V.- Adquisiciones, arrendamientos y servicios: las adquisiciones de bienes muebles, los arrendamientos de bienes muebles y la prestación de servicios relacionados con dichos bienes, respectivamente;
 
-> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, B.O. 5 DE JULIO DE 2010)</small>
 
-VI.- Bienes muebles: los conceptualizados con este carácter en el Código Civil para el Estado de Sonora, con excepción de los señalados en los artículos 920, 922 y 925 del citado ordenamiento; y
+VI.- Bienes muebles: los conceptualizados con este carácter en el Código Civil para el Estado de Sonora, con excepción de los señalados en los artículos 920, 922 y 925 del citado ordenamiento;
 
-> <small>(ADICIONADA, B.O. 28 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, B.O. 5 DE JULIO DE 2010)</small>
 
-VII.- Secretaría: La Secretaría de Planeación del Desarrollo y Gasto Público.
+VII.- Secretaría: La Secretaría de Hacienda;
+
+> <small>(ADICIONADA, B.O. 5 DE JULIO DE 2010)</small>
+
+VIII. MIPYMES: Micro, pequeñas y medianas empresas, legalmente constituidas, con base en la estratificación vigente establecida por el Gobierno del Estado, a través de la Secretaria de Economía, y publicada en el Boletín Oficial del Estado, o en tanto no se publique, aquella establecida y publicada en el Diario Oficial de la Federación por el Gobierno federal;
+
+> <small>(ADICIONADA, B.O. 5 DE JULIO DE 2010)</small>
+
+IX. Fabricante o productor regional: Son las personas físicas o morales que lleven a cabo procesos de elaboración, producción, transformación, reparación, industrialización u otros similares, de los cuales se obtengan productos terminados o semiterminados; siempre y cuando tengan el asiento principal de sus negocios y su domicilio fiscal, al menos con un año de antigüedad en el Estado;
+
+> <small>(ADICIONADA, B.O. 5 DE JULIO DE 2010)</small>
+
+X. Productos o mercancías regionales: Son los bienes y servicios desarrollados o transformados por fabricantes o productores regionales; y
+
+> <small>(ADICIONADA, B.O. 5 DE JULIO DE 2010)</small>
+
+XI. Distribuidor regional: Es la persona física o moral que distribuye productos regionales o foráneos, del tipo específico a que se refiere el procedimiento de adquisición, arrendamiento o servicio respectivo; siempre y cuando tengan el asiento principal de sus negocios y su domicilio fiscal, al menos con un año de antigüedad en el Estado.
 
 > <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
@@ -106,6 +122,18 @@ Asimismo, las adquisiciones de bienes muebles que deban incorporarse, adherirse 
 ###### ARTICULO 7o.
 
 Sin perjuicio de lo que esta Ley establece, el gasto de las adquisiciones, los arrendamientos y los servicios se sujetará a lo previsto en la Ley del Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público Estatal, así como a lo señalado en el presupuesto de egresos del Estado y en los presupuestos de egresos de las entidades.
+
+> <small>(ADICIONADA, B.O. 5 DE JULIO DE 2010)</small>
+
+Las dependencias y entidades de la Administración Pública Estatal deberán realizar la planeación de sus adquisiciones y arrendamientos de bienes, así como la contratación de servicios, de tal modo que promuevan, como mínimo, asegurar un 35% del total de su presupuesto en éste rubro a micro, pequeñas y medianas empresas estatales, acorde a lo establecido en el artículo 2 fracción VIII, IX, X y XI de la presente ley y conforme a la normatividad aplicable. Lo anterior siempre y cuando se encuentre en igualdad de circunstancias o dentro de los mecanismos para el fortalecimiento de dicho sector contemplados en la presente Ley. El Gobierno del Estado promoverá ante los gobiernos municipales de la entidad se sumen permanentemente a este mismo compromiso.
+
+> <small>(ADICIONADO, B.O. 5 DE JULIO DE 2010)</small>
+
+ARTICULO 7o BIS.- Atendiendo a las disposiciones de esta Ley y a las demás que de ella emanen, la Secretaría de Economía dictará las reglas que deban observar las dependencias y entidades, derivadas de programas que tengan por objeto promover la participación de las empresas estatales, especialmente de las micro, pequeñas y medianas. Adicionalmente, las dependencias y entidades deberán diseñar y ejecutar programas de desarrollo de proveedores de micro, pequeñas y medianas empresas estatales para generar cadenas de proveeduría respecto de bienes y servicios que liciten regularmente. La coordinación de los esfuerzos señalados en el párrafo anterior se hará en el seno de una Comisión Intersecretarial de Compras.
+
+Para la expedición de las reglas a que se refiere el párrafo anterior, la Secretaría de Economía tomará en cuenta la opinión de la Secretaría y de la Secretaría de la Contraloría General.
+
+De igual forma, en el Reglamento de la presente Ley, se podrán contemplar esquemas desarrollados por la Secretaria en coordinación con la Secretaria de Economía que otorguen ventajas a empresas tractoras o distribuidores regionales de productos foráneos, hasta por las mismas condiciones contempladas en la presente Ley para las MIPYMES estatales de fabricantes o productores regionales y distribuidores regionales de productos o mercancías regionales, para aquellos casos justificados en razón del desarrollo de cadenas de proveeduría local, derrama económica, empleos y otras condiciones económicas favorables que se generen en el estado por las mismas. Lo anterior aplicará siempre y cuando en el proceso no exista una propuesta solvente de una MIPYMES estatal de las condiciones señaladas en el presente párrafo, que se encuentre dentro de los márgenes a favor establecidos para dicho sector.
 
 ###### ARTICULO 8o.
 
@@ -245,6 +273,14 @@ En ningún caso las dependencias o entidades podrán financiar a proveedores la 
 
 Las dependencias deberán enviar copia de la convocatoria a la Secretaría de la Contraloría General del Estado, en el momento en que sea expedida, así como aquellos documentos complementarios que esta dependencia le requiera. Las entidades además de cumplir con la obligación anterior, deberán remitir dicha documentación a la dependencia coordinadora de sector que corresponda.
 
+> <small>(ADICIONADO, B.O. 5 DE JULIO DE 2010)</small>
+
+Tratándose de bienes cuyo proceso de fabricación sea superior a sesenta días, las dependencias o entidades otorgarán en igualdad de circunstancias del diez al cincuenta por ciento de anticipo cuando se trate de micros, pequeña y medianas empresas estatales, conforme a lo establecido en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, B.O. 5 DE JULIO DE 2010)</small>
+
+En atención a programas para incentivar los sectores de la economía regional, se podrán realizar licitaciones regionales en las cuales únicamente puedan participar personas con residencia en el Estado, en apego a las disposiciones que establezca para el efecto el Reglamento.
+
 ###### ARTICULO 20.
 
 Las convocatorias públicas, que podrán referirse a uno o varios pedidos o contratos, se publicarán, al menos, en uno de los periódicos de mayor circulación en el Estado y contendrán, enunciativamente:
@@ -265,7 +301,9 @@ VI.- El lugar, fecha y hora en que se celebrará el acto de apertura de proposic
 
 VII.- Los requisitos que deberán cumplir los interesados.
 
-Las bases de cada licitación deberán contener la descripción completa de los bienes muebles y de sus especificaciones, indicando, en su caso, de manera particular, los requerimientos de carácter técnico y demás circunstancias pertinentes que se habrán de considerar, para la adjudicación del pedido o contrato correspondiente.
+> <small>(REFORMADO, B.O. 5 DE JULIO DE 2010)</small>
+
+Las bases de cada licitación deberán contener la descripción completa de los bienes muebles y de sus especificaciones, indicando, en su caso, de manera particular, los requerimientos de carácter técnico y demás circunstancias pertinentes que se habrán de considerar, para la adjudicación del pedido o contrato correspondiente. De igual forma, deberán contener los criterios específicos que se utilizarán para la evaluación de las proposiciones y adjudicación de los contratos, ya sea de puntos y porcentajes, o el criterio de evaluación binario.
 
 ###### ARTICULO 21.
 
@@ -295,13 +333,23 @@ II.- Las entidades, cuando los pedidos o contratos se celebren con ellas; y
 
 III.- Las Tesorerías Municipales, en el supuesto a que se refiere el artículo 5o. de esta Ley.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 5 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 24.
 
-La dependencia o entidad convocante, con base en el análisis comparativo de las proposiciones admitidas y en su propio presupuesto, emitirá un dictamen que servirá como fundamento para el fallo, mediante el cual se adjudicará el pedido o contrato a la persona que, de entre los proponentes, reúna las condiciones legales, técnicas y economices requeridas por la convocante y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
+Las dependencias y entidades para la evaluación de las proposiciones deberán utilizar el criterio indicado en la convocatoria y bases de la licitación.
 
-Si resultare que dos o más proposiciones satisfacen los requerimientos de la convocante, el pedido o contrato se adjudicará a quien presente la proposición solvente más baja.
+En todos los casos las convocantes deberán verificar que las proposiciones cumplan con los requisitos solicitados en la convocatoria y bases de la licitación.
+
+La dependencia o entidad convocante, con base en el análisis comparativo de las proposiciones admitidas y en su propio presupuesto, emitirá un dictamen que servirá como fundamento para el fallo, mediante el cual se adjudicará el pedido o contrato a la persona que, de entre los proponentes, presente oferta solvente porque reúna las condiciones legales, técnicas y económicas requeridas por la convocante y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas, y en su caso:
+
+I. La proposición haya obtenido el mejor resultado en la evaluación combinada de puntos y porcentajes, o bien, de costo beneficio; y
+
+II. De no haberse utilizado las modalidades mencionadas en la fracción anterior sino el criterio de evaluación binario, se adjudica a quien cumpla los requisitos establecidos por la convocante y oferte el precio más bajo, siempre y cuando su oferta sea solvente.
+
+Si resultare que dos o más proposiciones satisfacen los requerimientos de la convocante, el pedido o contrato se adjudicará a quien presente la proposición solvente más baja. Para efectos de lo señalado en el presente artículo se deberá tomar en consideración lo dispuesto en el artículo 24 BIS.
+
+En la evaluación de proposiciones, se podrán utilizar mecanismos de puntos o porcentajes, siempre que se justifique y demuestre la conveniencia de aplicar dichos mecanismos para evaluar objetivamente la solvencia de las propuestas, de acuerdo con la normatividad que al respecto se establezca en el reglamento de la ley. Cuando las dependencias y entidades requieran obtener bienes, arrendamientos o servicios que conlleven el uso de características de alta especialidad técnica o de innovación tecnología, deberán utilizar el criterio de evaluación de puntos y porcentajes o de costo beneficio.
 
 El fallo de la licitación se hará saber a cada uno de los participantes en el acto de apertura de ofertas y salvo que esto no fuere factible, dentro de un término que no podrá exceder de 10 días hábiles, contados a partir de la fecha de celebración del acto de apertura de ofertas.
 
@@ -310,6 +358,28 @@ La dependencia o entidad convocante levantará acta circunstanciada del acto de 
 Contra la resolución que contenga el fallo no procederá recurso alguno; pero los interesados podrán inconformarse ante la convocante o ante la Secretaria de la Contraloría General del Estado, en los términos del artículo 36 de esta Ley.
 
 La dependencia o entidad convocante, no adjudicarán el pedido o contrato cuando las posturas presentadas no fueran aceptables y procederán a expedir una nueva convocatoria.
+
+> <small>(ADICIONADO, B.O. 5 DE JULIO DE 2010)</small>
+
+ARTICULO 24 BIS.- Dentro del análisis comparativo de las proposiciones consideradas solventes, derivado de que reúnen las condiciones legales, técnicas y económicas requeridas por la convocante y garantizan satisfactoriamente el cumplimiento de las obligaciones respectivas, se buscará favorecer a las micro, pequeñas y medianas empresas sonorenses para lo cual se aplicarán los siguientes criterios:
+
+I. En igualdad de condiciones se preferirá siempre a las MIPYMES sonorenses sobre las foráneas.
+
+II. En igualdad de condiciones, siempre se preferirá a las MIPYMES fabricantes y distribuidores regionales de productos o mercancías regionales, sobre los foráneos. Para efectos de lo anterior, se considera que existe igualdad de condiciones, cuando la diferencia entre los precios propuestos no sea mayor del cinco por ciento con respecto a la propuesta solvente más baja.
+
+III. Dentro del supuesto y margen establecido en la fracción II del presente artículo, tendrán preferencia las micros, pequeñas o medianas empresas estatales que produzcan bienes con innovación tecnológica, conforme a la constancia correspondiente emitida por el Instituto Mexicano de la Propiedad Industrial, la cual no podrá tener una vigencia mayor a cinco años. Asimismo, a aquellas personas con discapacidad o a la empresa que cuente con trabajadores con discapacidad en una proporción del cinco por ciento cuando menos de la totalidad de su planta de empleados, cuya antigüedad no sea inferior a seis meses, misma que se comprobará con el aviso de alta al régimen obligatorio del Instituto Mexicano del Seguro Social.
+
+De igual forma, aplicará lo siguiente:
+
+A) En caso de no actualizarse los supuesto establecidos en las fracciones I a III del presente artículo, en igualdad de circunstancias, se favorecerá siempre a empresas que subcontraten para la fabricación del bien o la prestación del servicio a micro, pequeñas y medianas empresas estatales, acorde a lo que para el efecto se establezca por la Secretaria de Economía.
+
+B) En los procedimientos de contratación de carácter internacional abierto, las dependencias y entidades optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país y por la adquisición y arrendamiento de bienes producidos en el país y que cuenten con el porcentaje de contenido nacional indicado en la normatividad federal en la materia, los cuales deberán contar, en la comparación económica de las proposiciones, con un margen hasta del quince por ciento de preferencia en el precio respecto de los bienes de importación, conforme a las reglas que establezca la Secretaría de Economía, previa opinión de la Secretaría y de la Secretaría de la Contraloría.
+
+C) En el caso de licitación pública para la adquisición de bienes, arrendamientos o servicios que utilicen la evaluación de puntos y porcentajes, se otorgarán puntos que representen un beneficio proporcional a los supuestos establecidos en el presente artículo.
+
+D) De conformidad a lo establecido en el artículo 7 BIS de la presente Ley, y solo para aquellos procesos en que no exista una propuesta solvente de una MIPYMES estatal de las condiciones señaladas en el presente artículo, la Secretaria de Economía podrá desarrollar esquemas que otorguen ventajas a empresas tractoras o distribuidores regionales de productos foráneos, hasta por las mismas condiciones contempladas en las fracciones I a III del presente artículo, en igualdad de circunstancias, para aquellos casos justificados en razón del desarrollo de cadenas de proveeduría local, derrama económica, empleos y otras condiciones económicas favorables que se generen en el estado por las mismas.
+
+E) Asimismo, se podrán establecer mecanismos que otorguen preferencia en igualdad de condiciones a aquellas MIPYMES sonorenses que den cumplimiento a los esquemas de certificación que establezca la Secretaria de Economía.
 
 ###### ARTICULO 25.
 
@@ -338,6 +408,10 @@ Los montos máximos y límites, se fijarán atendiendo a la cuantía de la adqui
 > <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
 En el supuesto de la fracción II de este artículo, la invitación que se realice a los proveedores para participar en el procedimiento de adjudicación deberá contener la información señalada en el artículo 20 de este ordenamiento, debiéndose sujetar, dicho procedimiento, a lo establecido en el último párrafo del artículo 20 y a los artículos 21, 22 y 23, así como, en lo conducente, al artículo 24 de esta ley.
+
+> <small>(ADICIONADO, B.O. 5 DE JULIO DE 2010)</small>
+
+Para fomentar el desarrollo y la participación de las MIPYMES estatales, las dependencias y entidades deberán promover adjudicarles en las operaciones comprendidas en los supuestos de excepción a la licitación pública a que se refiere este articulo, cuando menos el cincuenta por ciento (50 %) del valor total de sus adquisiciones por dichos mecanismos, conforme a la normatividad aplicable. Lo anterior siempre y cuando se encuentren en igualdad de circunstancias o dentro de los mecanismos a favor de dicho sector contemplados en la presente ley. El Gobierno del Estado promoverá ante los gobiernos municipales de la entidad se sumen permanentemente a este mismo compromiso.
 
 > <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
@@ -385,7 +459,31 @@ En los contratos o pedidos a que refiere este artículo, podrán incorporarse la
 
 El proveedor a quien se hubiere adjudicado el pedido o contrato, como resultado de una licitación, perderá en favor de la convocante la garantía que hubiere otorgado, si por causas imputables a él la operación no se formaliza dentro de los plazos a que se refiere este artículo pudiendo las dependencias y las entidades, en este supuesto, adjudicar el contrato o pedido al participante siguiente en los términos del primero y segundo párrafos del artículo 24 de esta Ley.
 
-Los derechos y obligaciones que se deriven de los pedidos o contratos, una vez adjudicados, no podrán cederse, en forma parcial o total, en favor de cualquiera otra persona física o moral.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 5 DE JULIO DE 2010)</small>
+
+Los derechos y obligaciones que se deriven de los pedidos o contratos, una vez adjudicados, no podrán cederse, en forma parcial o total, en favor de cualquiera otra persona física o moral. Se exceptúan de lo anterior las transferencias por el proveedor en favor de cualquier otra persona de los derechos de cobro, en cuyo caso se deberá contar con el consentimiento de la dependencia o entidad de que se trate. Para facilitar lo anterior las dependencias y entidades deberán establecer mecanismos de reconocimiento automático del adeudo, una vez cubierto lo establecido en el contrato respectivo para efecto del pago.
+
+> <small>(ADICIONADO, B.O. 5 DE JULIO DE 2010)</small>
+
+La fecha de pago al proveedor estipulada en los contratos quedará sujeta a las condiciones que establezcan las mismas; sin embargo, no podrá exceder de treinta días naturales contados a partir de la entrega de la factura respectiva, previa entrega de los bienes o prestación de los servicios en los términos del contrato.
+
+> <small>(ADICIONADO, B.O. 5 DE JULIO DE 2010)</small>
+
+En caso de incumplimiento en los pagos a que se refiere el párrafo anterior, la dependencia o entidad, a solicitud del proveedor, deberá pagar gastos financieros conforme a la tasa que será igual a la establecida por la Ley de Ingresos del estado en los casos de prórroga para el pago de créditos fiscales. Dichos gastos se calcularán sobre las cantidades no pagadas y se computarán por días naturales desde que se venció el plazo pactado, hasta la fecha en que se pongan efectivamente las cantidades a disposición del proveedor.
+
+> <small>(ADICIONADO, B.O. 5 DE JULIO DE 2010)</small>
+
+Tratándose de pagos en exceso que haya recibido el proveedor, éste deberá reintegrar las cantidades pagadas en exceso, más los intereses correspondientes, conforme a lo señalado en el párrafo anterior. Los intereses se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días naturales desde la fecha del pago, hasta la fecha en que se pongan efectivamente las cantidades a disposición de la dependencia o entidad.
+
+> <small>(ADICIONADO, B.O. 5 DE JULIO DE 2010)</small>
+
+En caso de rescisión del contrato, el proveedor deberá reintegrar el anticipo y, en su caso, los pagos progresivos que haya recibido más los intereses correspondientes, conforme a lo indicado en este artículo. Los intereses se calcularán sobre el monto del anticipo no amortizado y pagos progresivos efectuados y se computarán por días naturales desde la fecha de su entrega hasta la fecha en que se pongan efectivamente las cantidades a disposición de la dependencia o entidad.
+
+> <small>(ADICIONADO, B.O. 5 DE JULIO DE 2010)</small>
+
+Las dependencias y entidades podrán establecer en sus políticas, bases y lineamientos, preferentemente el pago a proveedores a través de medios de comunicación electrónica.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
@@ -698,3 +796,33 @@ B.O. 14 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 5 DE JULIO DE 2010.
+
+DECRETO NUMERO 51, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACION PUBLICA ESTATAL.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los porcentajes de adquisiciones a que hacen referencia los artículos 7 y 26 del presente Decreto, se alcanzarán de manera gradual, conforme a los plazos y porcentajes que para el efecto establezca la Secretaria, en coordinación con la Secretaria de Economía, debiendo promover se desarrollen todas aquellas estrategias necesarias para alcanzarlos en un periodo máximo de 4 años. Las metas y plazos específicos anuales se establecerán en base a un Diagnostico de la situación actual en la materia que para el efecto se realice por la Secretaria, en coordinación con la Secretaria de Economía.
+
+###### ARTÍCULO TERCERO.
+
+El número máximo de días para el pago a un proveedor estipulado en el artículo 31 del presente Decreto, entrará en vigor un año después de la publicación del presente decreto.
+
+> <small>(ADICIONADO, B.O. 5 DE JULIO DE 2010)</small>
+
+###### ARTICULO CUARTO.
+
+El Ejecutivo del Estado, en un plazo de noventa días naturales, contado a partir de la entrada en vigor del presente Decreto, deberá crear o modificar los lineamientos y reglamentos que resulten necesarios para materializar las reformas y adiciones a la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal, contenidas en el presente resolutivo. De igual forma, en el mismo plazo, deberá integrar la Comisión Intersecretarial de Compras a que se refiere el artículo 7 Bis de la ley de referencia.
+
+B.O. 5 DE JULIO DE 2010.
+
+DECRETO NUMERO 52, POR EL QUE SE ADICIONA UN ARTICULO CUARTO TRANSITORIO AL DECRETO NUMERO 51 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACION PUBLICA ESTATAL.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
