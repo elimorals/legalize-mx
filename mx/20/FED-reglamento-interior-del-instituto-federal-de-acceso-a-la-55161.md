@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-de-acceso-a-la-55161"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-02"
-last_updated: "2009-04-08"
+last_updated: "2010-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55161&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-10-04"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACION Y PROTECCION DE DATOS -ANTES INSTITUTO FEDERAL DE ACCESO A LA INFORMACION PUBLICA-
 
-REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACION PUBLICA
+REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ABRIL DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DE LA LEY FEDERAL DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS PARTICULARES, PUBLICADA EN EL D.O.F. DE 5 DE JULIO DE 2010, LAS REFERENCIAS QUE CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, SE HACEN EN LAS LEYES, TRATADOS Y ACUERDOS INTERNACIONALES, REGLAMENTOS Y DEMÁS ORDENAMIENTOS AL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN PÚBLICA, EN LO FUTURO SE ENTENDERÁN HECHAS AL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JULIO DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de mayo de 2007.
 
@@ -37,7 +39,9 @@ Que el artículo 37 fracción XVI de la Ley Federal de Transparencia y Acceso a 
 
 Que en sesión del Pleno del Instituto celebrada el 4 de octubre de dos mil seis, los Comisionados aprobaron, el Reglamento Interior del Instituto Federal de Acceso a la Información Pública, con objeto de establecer su estructura orgánica y bases de operación, se expide el presente:
 
-REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACION PUBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE JULIO DE 2010)</small>
+
+REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACION Y PROTECCION DE DATOS PERSONALES
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -666,3 +670,15 @@ D.O.F. 8 DE ABRIL DE 2009.
 PRIMERO. Las modificaciones al Reglamento Interior entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Las atribuciones que tenía conferidas la Secretaría Técnica del Pleno, serán ejercidas por la Secretaría de Acuerdos o por la Secretaría Ejecutiva, según corresponda.
+
+D.O.F. 5 DE JULIO DE 2010.
+
+DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+.
+
+SEXTO.- Las referencias que con anterioridad a la entrada en vigor del presente Decreto, se hacen en las leyes, tratados y acuerdos internacionales, reglamentos y demás ordenamientos al Instituto Federal de Acceso a la Información Pública, en lo futuro se entenderán hechas al Instituto Federal de Acceso a la Información y Protección de Datos Personales.
+
+.
