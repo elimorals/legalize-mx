@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-65081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2008-12-17"
+last_updated: "2010-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -239,7 +239,9 @@ XI. Resolver las recusaciones y excusas de los magistrados así como las del pre
 
 XII. Conocer y resolver cualquier otro asunto de la competencia del Poder Judicial, cuyo conocimiento no corresponda a las salas, al Presidente del Tribunal o al Consejo de la Judicatura, por disposición expresa de la Ley;
 
-XIII. Presentar, por medio de su presidente, a la Legislatura, en el mes de febrero de cada año, un informe por escrito sobre el estado que guarde la impartición de justicia en la Entidad;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2010)</small>
+
+XIII. Presentar a la Legislatura, por medio de su presidente, en el mes de julio, un informe anual por escrito sobre el estado que guarde la impartición de justicia en la Entidad;
 
 XIV. Establecer los criterios y las medidas conducentes para el mejoramiento de la impartición y administración de justicia;
 
@@ -1952,3 +1954,11 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE JULIO DE 2010.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan las demás disposiciones que se opongan a la presente Ley.
