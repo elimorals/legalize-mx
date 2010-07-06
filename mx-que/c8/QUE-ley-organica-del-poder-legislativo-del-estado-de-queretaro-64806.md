@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2008-12-01"
+last_updated: "2010-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -1101,7 +1101,9 @@ XXII. Ejercer la representación legal de la Legislatura exclusivamente para asu
 
 XXIII. Celebrar convenios de colaboración, sin contenido patrimonial, a nombre de la Legislatura, cuando ésta lo acuerde;
 
-XXIV. Rendir ante la Legislatura, en el mes de febrero, el informe anual de actividades del Poder Legislativo, consultando previamente a los integrantes de la Mesa Directiva sobre el contenido del mismo;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2010)</small>
+
+XXIV. Rendir ante la Legislatura, en el mes de julio, el informe anual de actividades del Poder Legislativo, consultando previamente a los integrantes de la Mesa Directiva sobre el contenido del mismo;
 
 XXV. Declarar recesos, cuando concurran causas que dificulten el curso normal de las deliberaciones o cuando con ello se favorezca la obtención de consensos; y
 
@@ -1942,3 +1944,11 @@ DIP. JOSÉ GUADALUPE GARCÍA RAMÍREZ
 PRIMER SECRETARIO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE JULIO DE 2010.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan las demás disposiciones que se opongan a la presente Ley.
