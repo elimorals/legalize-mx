@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-municipal-del-estado-de-chiapas-69793"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-29"
-last_updated: "2010-05-26"
+last_updated: "2010-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 29 de julio de 2009.
 
@@ -407,9 +407,15 @@ XXIX.- Auxiliar a las autoridades competentes en la vigilancia del respeto a los
 
 XXX.- Llevar el registro de extranjeros residentes en el municipio, en el libro que para el efecto se autorice, de conformidad con lo que establece La Ley General de Población, y su reglamento;
 
-XXXI.- Crear y organizar el funcionamiento de las dependencias y entidades de la administración pública municipal centralizada, descentralizada y desconcentrada, así como elaborar, aprobar y aplicar los reglamentos internos de la propia administración;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2010)</small>
 
-XXXII.- Nombrar e integrar con los munícipes, comisiones permanentes o transitorias, para el expedito y eficaz despacho de los asuntos públicos, así como establecer las normas y principios que las regulen;
+XXXI.- Crear y organizar, con la aprobación de las dos terceras partes de sus integrantes, el funcionamiento de las Dependencias y órganos desconcentrados de la administración pública centralizada; así como aprobar los reglamentos internos de la propia administración, que serán aplicados por las instancias competentes del ramo.
+
+Tratándose de la administración pública paramunicipal, se podrán constituir entidades públicas, a iniciativa aprobada por las dos terceras partes de los integrantes del Ayuntamiento, misma que será presentada ante el Congreso del Estado, para su trámite legislativo correspondiente.
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2010)</small>
+
+XXXII.- Convenir dos o más Ayuntamientos, la creación de entidades públicas, que serán denominadas como entidades públicas intermunicipales, a iniciativa aprobada por la dos terceras partes de los integrantes del Ayuntamiento, misma que será presentada ante el Congreso del Estado, para su trámite legislativo correspondiente, para la ejecución de objetivos en beneficio común, atendiendo las disposiciones señaladas en la presente Ley y demás disposiciones legales y administrativas que sean aplicables;
 
 XXXIII.- Rendir, a través del Presidente Municipal, un informe anual del Estado que guarde la Administración Pública Municipal, el cual se verificará a más tardar el 30 de septiembre;
 
@@ -485,21 +491,25 @@ LXV.- Autorizar al Presidente Municipal para que afecte los ingresos y/o el dere
 
 LXVI.- Autorizar la celebración de los convenios y contratos necesarios para el beneficio del Municipio, los cuales deberán estar suscritos por el Presidente Municipal y el Secretario del Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2010)</small>
 
-LXVII.- Crear un área encargada de fomentar y vigilar la equidad de género, en todos los ámbitos y niveles de decisión de la Administración Pública Municipal, garantizando el respeto mutuo, la superación igualitaria y la convivencia armónica entre la mujer y el hombre, a fin de que los programas municipales, se alineen al objetivo de desarrollo del Milenio, conforme al presupuesto de su ejercicio;
+LXVII.- Crear un área encargada de fomentar y vigilar la equidad de género, en todos los ámbitos y niveles de decisión de la Administración Pública Municipal, garantizando el respeto mutuo, la superación igualitaria y la convivencia armónica entre la mujer y el hombre, a fin de que los programas municipales, se alineen a los Objetivos de Desarrollo del Milenio, conforme al presupuesto de su ejercicio;
 
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2010)</small>
 
-LXVIII.- Emitir las disposiciones legales que regulen al organismo público encargado de realizar todas las actividades necesarias, directa o indirectamente al cumplimiento de la prestación del servicio público de agua potable y alcantarillado;
+LXVIII.- Emitir las disposiciones legales que regulen al organismo público encargado de realizar todas las actividades necesarias, directa o indirectamente, al cumplimiento de la prestación del servicio público de agua potable y alcantarillado;
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2010)</small>
 
-LXVII (SIC).- Fomentar la Integración de los comités ciudadanos que se encargarán de la vigilancia, administración, operación y funcionamiento de los Sistemas de Agua en las localidades que cuenten con ese servicio;
+LXIX.- Fomentar la Integración de los Comités ciudadanos que se encargarán de la vigilancia, administración, operación y funcionamiento de los Sistemas de Agua en las localidades que cuenten con ese servicio;
 
-> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2010)</small>
 
-LXVIII.- Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
+LXX.- Nombrar e integrar con los munícipes, comisiones permanentes o transitorias para el expedito y eficaz despacho de los asuntos públicos, así como establecer las normas y principios que las regulen.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2010)</small>
+
+LXXI.- Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
 
 ###### Artículo 37.
 
@@ -839,6 +849,10 @@ Los ayuntamientos, a propuesta del Presidente Municipal, deberán crear Agencias
 
 Para la mejor organización y funcionamiento de la administración pública municipal, el Presidente Municipal, con autorización del ayuntamiento, podrá crear nuevas dependencias, unidades administrativas u organismos, así como fusionar, modificar o suprimir los existentes de acuerdo con las necesidades del municipio y el presupuesto de egresos respectivo.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2010)</small>
+
+Asimismo, se podrán constituir entidades públicas municipales, cuando se considere necesario para el desarrollo y beneficio comunitario, en los términos señalados en la presente ley y demás disposiciones legales y administrativas que sean aplicables.
+
 ###### Artículo 56.
 
 Para el estudio, planeación y despacho de los diversos ramos de la Administración Pública Municipal, el Presidente y el Ayuntamiento se auxiliarán, por lo menos, con las siguientes dependencias:
@@ -1131,7 +1145,7 @@ XIII. Crear un consejo de la crónica, con los ciudadanos de mayor reconocimient
 
 XIV. Las demás que le confieran esta ley, reglamentos, el ayuntamiento o demás disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ### Capítulo VIII. De la Hacienda Municipal
 
@@ -1167,7 +1181,7 @@ VII.- Vigilar el cumplimiento de la cloración de tos Sistemas de Abastecimiento
 
 VIII.- Establecer las rutas del monitoreo de cloro.
 
-IX.- Comunicar a las Autoridades Municipales y Organismos Públicos normativos en los casos de emergencia sanitaria.
+IX.- 'Comunicar a las Autoridades Municipales y Organismos Públicos normativos en los casos de emergencia sanitaria.
 
 X.- Hacer del conocimiento de las autoridades locales las acciones realizadas para procurar agua de calidad.
 
@@ -1263,43 +1277,117 @@ II.- Detectar cualquier irregularidad en perjuicio del fisco municipal o los con
 
 III.- Investigar si tanto el Tesorero como sus empleados cumplen con sus obligaciones y atienden al público con la debida diligencia.
 
-### Capítulo Único. De los Contratos Administrativos
+### Capítulo X. De la Administración Pública Paramunicipal
+
+> <small>(REFORMADO Y REUBICADO, P.O. 7 DE JULIO DE 2010)</small>
 
 ###### Artículo 85.
 
 Para los efectos de esta Ley, servicio público es toda actividad de utilidad pública que tienda a satisfacer necesidades de carácter colectivo en forma permanente, regular, continua y uniforme realizada directamente, a través de entidades públicas o por particulares mediante concesión, licencia o permiso, previa determinación de las condiciones técnicas y económicas en que deba proporcionarse a fin de asegurar su eficiencia y eficacia.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2010)</small>
+
+Los Ayuntamientos también podrán ejercer las actividades a que se refiere el artículo anterior en concurrencia con los gobiernos Federal y Estatal, sus entidades, órganos auxiliares o con los Ayuntamientos de los municipios limítrofes del propio Estado.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2010)</small>
+
 ###### Artículo 86.
-
-Los Ayuntamientos también podrán ejercer las actividades a que se refiere el artículo anterior en concurrencia con los Gobiernos Federal y Estatal, sus entidades, órganos auxiliares o con los ayuntamientos de los municipios limítrofes del propio Estado.
-
-### Capítulo I. Del Patrimonio del Municipio
-
-###### Artículo 87.
 
 Los municipios con el concurso del Poder Ejecutivo del Estado, cuando así sea necesario, organizarán y reglamentarán la administración, funcionamiento, mejoramiento, conservación y explotación de los servicios públicos siguientes:
 
-I.- Agua Potable y Alcantarillado;
+I. Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.
 
-II.- Alumbrado Público;
+II. Alumbrado público.
 
-III.- Limpia;
+III. Limpia, recolección, traslado, tratamiento y disposición final de residuos.
 
-IV.- Mercados y Centrales de Abasto;
+IV. Mercados y centrales de abasto.
 
-V.- Panteones;
+V. Panteones.
 
-VI.- Rastro;
+VI. Rastro.
 
-VII.- Banquetas, calles, bardas, parques y jardines;
+VII. Calles, parques y jardines y su equipamiento.
 
-VIII.- Seguridad pública; y,
+VIII. Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito.
 
-IX.- Los demás que determine el Congreso del Estado, tomando en cuenta las condiciones territoriales y socioeconómicas, la capacidad administrativa y financiera de cada municipio.
+IX. Los demás que determine el Congreso del Estado, tomando en cuenta las condiciones territoriales y socioeconómicas y la capacidad administrativa y financiera de cada municipio.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2010)</small>
+
+### Capítulo Único. De los Contratos Administrativos
+
+###### Artículo 87.
+
+La Administración Pública Paramunicipal de los Ayuntamientos, estará integrada por las entidades públicas que se constituyen como organismos descentralizados, las empresas de participación municipal mayoritaria y los fideicomisos públicos que se organicen de manera análoga a los organismos descentralizados. En todo lo no previsto en la presente ley, en cuanto al régimen constitutivo, organizacional, de representatividad y demás disposiciones relacionadas a su funcionamiento, se aplicará supletoriamente la Ley de Entidades Paraestatales del Estado de Chiapas.
+
+Las entidades públicas, incluyendo las intermunicipales, estarán creadas mediante Decreto aprobado por el Congreso del Estado; gozarán de autonomía de gestión para el cumplimiento de su objeto, de conformidad con los decretos o leyes que las constituyan y perseguirán las metas señaladas en sus programas y se sujetarán a los sistemas de control establecidos en la presente ley y en las demás disposiciones legales y administrativas que sean aplicables.
+
+Para efectos de este Capítulo, de manera enunciativa y no limitativa, se entenderá por Entidades Públicas:
+
+I.- Organismos descentralizados: las personas morales constituidas con autonomía, personalidad jurídica y patrimonio propios, cualquiera que sea la forma o estructura que adopten siempre y cuando su patrimonio se constituya total o parcialmente con bienes, fondos, asignaciones presupuestales, subsidios, el rendimiento de un impuesto específico o cualquier otra aportación que provenga del o los municipios y que su finalidad u objeto, sea la prestación de servicios públicos o sociales, la explotación de bienes o recursos propiedad del o los municipios, la investigación científica y tecnológica o la obtención y aplicación de recursos para fines de asistencia o seguridad social.
+
+II. Empresas de participación municipal mayoritaria: las sociedades anónimas que se constituyen con la finalidad de apoyar o auxiliar las áreas prioritarias que establezca el plan municipal de desarrollo, uno o más organismos descentralizados, otra u otras empresas de participación municipal mayoritaria, uno o más fideicomisos públicos, aporten o sean propietarios del 51 % o más del capital social.
+
+III. Fideicomisos públicos: aquéllos que se constituyan por los municipios o entidades de la administración pública paramunicipal, total o parcialmente con bienes, fondos, asignaciones presupuestales, subsidios, el rendimiento de un impuesto específico o cualquier otra aportación que provenga del o los municipios o entidades públicas, que cuenten con un Comité Técnico como su órgano de gobierno.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2010)</small>
+
+###### Artículo 87 Bis.
+
+Tratándose de los organismos descentralizados, la iniciativa presentada al Congreso del Estado para su aprobación, en términos del artículo 36 de esta ley, deberá establecer, como mínimo, la denominación del organismo; el domicilio legal; el objeto del organismo; la integración de su patrimonio; la forma de integración del órgano de gobierno; las atribuciones y obligaciones del órgano de gobierno; las facultades y obligaciones del Director General; los órganos de vigilancia, así como sus facultades; el régimen laboral a que se sujetarán las relaciones de trabajo; el régimen fiscal al que debe estar sujeto; y sus remanentes patrimoniales.
+
+Los organismos descentralizados se regirán por su órgano de gobierno; su administración estará a cargo de la Dirección General; y estarán integrados en la forma que señale la ley o decreto de creación. El órgano de gobierno deberá expedir las normas en las que se establezcan las bases de organización así como las facultades y funciones que correspondan a las distintas áreas que integren el organismo descentralizado. En ningún caso podrá ser integrante del órgano de gobierno:
+
+I. El Director General del o los organismos descentralizados de que se trate.
+
+II. Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado civil con cualquiera de los miembros del órgano de gobierno o con el director general.
+
+III. Las personas que tengan litigios pendientes con el o los organismos descentralizados de que se trate.
+
+IV. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público.
+
+En la fusión o disolución de los organismos descentralizados, deberán observarse las mismas formalidades establecidas para su creación, debiendo la ley o decreto respectivo, fijar las formas y términos para ello.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2010)</small>
+
+###### Artículo 87 Ter.
+
+Tratándose de organismos descentralizados, el Director General será designado por el Presidente Municipal, previa aprobación del Cabildo. Cuando el organismo se constituya como entidad pública intermunicipal, el Director General será designado por el Ejecutivo del Estado, de entre las propuestas que formulen la mayoría de los Ayuntamientos que conformen el organismo.
+
+Los Directores Generales de los organismos descentralizados, estarán facultados expresamente en las leyes o decretos de creación para celebrar y otorgar toda clase de actos y documentos inherentes a su objeto; ejercer las más amplias facultades de dominio, administración y pleitos y cobranzas, aun de aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias con apego a esta ley, decreto de creación o reglamento interno; emitir, avalar, negociar y cobrar judicialmente títulos de crédito; formular querellas y otorgar perdón; ejercitar y desistir de acciones judiciales, inclusive de juicio de amparo; comprometer asuntos en arbitraje y celebrar transacciones; otorgar, sustituir y revocar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que le expida al mandatario.
+
+Para ser Director General de un organismo descentralizado se requiere:
+
+I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civiles, y tener veinticinco años de edad, al momento de su designación.
+
+II. Haber desempeñado cargos de niveles ejecutivo, cuyo ejercicio requiera conocimientos y experiencia en el área administrativa correspondiente.
+
+III. No haber sido sentenciado por delito intencional.
+
+IV. No pertenecer al estado eclesiástico o ser ministro de algún culto.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2010)</small>
+
+###### Artículo 87 Quater.
+
+La organización, administración y vigilancia de las empresas de participación municipal mayoritaria, se sujetará a lo dispuesto en la legislación concurrente y supletoria en la materia. Sin perjuicio de ello, corresponderá al Presidente Municipal, previa aprobación del Cabildo, la facultad de nombrar a la mayoría de los miembros del consejo de la administración u órgano de gobierno; designar al Presidente y al Gerente General, así como reservarse las facultades para vetar los acuerdos de la asamblea general de accionistas o del consejo de administración u órgano de gobierno.
+
+La asamblea de accionistas y los consejos de administración de las empresas de participación municipal mayoritaria, se integrarán de acuerdo a sus estatutos.
+
+Los Gerentes Generales de las empresas de participación municipal mayoritaria, sin perjuicio de las facultades y obligaciones que se les atribuyan en los estatutos de la empresa y demás legislación aplicable, tendrán las que se refieren a los Directores Generales de los organismos descentralizados.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2010)</small>
+
+###### Artículo 87 Quinquies.
+
+En lo que hace a los fideicomisos públicos, su régimen de constitución será análogo al de los organismos descentralizados, conforme a su Decreto de constitución.
+
+En lo no previsto, le serán aplicables las disposiciones señaladas en esta ley, en la legislación supletoria y en las demás disposiciones legales y administrativas que sean aplicables.
 
 ## Título IV. De los Actos Administrativos Municipales
 
-### Capítulo II. De los Bienes del Dominio Público
+### Capítulo I. Del Patrimonio del Municipio
 
 ###### Artículo 88.
 
@@ -1311,7 +1399,7 @@ Los Ayuntamientos tendrán derecho de preferencia para adquirir los inmuebles qu
 
 ## Título V. De los Bienes del Municipio
 
-### Capítulo III. De los Bienes de Dominio Privado
+### Capítulo II. De los Bienes del Dominio Público
 
 ###### Artículo 90.
 
@@ -1321,7 +1409,7 @@ I.- Bienes del dominio público; y,
 
 II.- Bienes del dominio privado.
 
-### Capítulo I. De los Asentamientos Humanos
+### Capítulo III. De los Bienes de Dominio Privado
 
 ###### Artículo 91.
 
@@ -1341,7 +1429,7 @@ V.- Los muebles propiedad del municipio que por su naturaleza, no sean normalmen
 
 Los bienes inmuebles de dominio público, son inalienables e imprescriptibles, solo podrán ser enajenados conforme a las disposiciones jurídicas aplicables, y previo decreto de desincorporación dictado por el Congreso del Estado, cuando dejen de servir para el fin al que hayan sido destinados.
 
-### Capítulo II. De las Obras Públicas
+### Capítulo I. De los Asentamientos Humanos
 
 ###### Artículo 93.
 
@@ -1363,7 +1451,7 @@ Corresponde al Ayuntamiento, previo acuerdo del Congreso del Estado, administrar
 
 ## Título VI. De los Asentamientos Humanos
 
-### Capítulo Único. De los Consejos de Participación y Colaboración Vecinal
+### Capítulo II. De las Obras Públicas
 
 ###### Artículo 95.
 
@@ -1487,7 +1575,7 @@ III.- La Comisión Consultiva de Desarrollo Urbano del Estado; y,
 
 IV.- Los Consejos de Participación y Colaboración Vecinal Municipal.
 
-### Capítulo Único. De la Justicia Municipal
+### Capítulo Único. De los Consejos de Participación y Colaboración Vecinal
 
 ###### Artículo 104.
 
@@ -1519,7 +1607,7 @@ Son obras públicas por contrato, las que se proyecten o ejecuten por empresas c
 
 ## Título VII. De los Consejos de Participación y Colaboración Vecinal
 
-### Capítulo I. De la Reglamentación de la Administración Pública Municipal
+### Capítulo Único. De la Justicia Municipal
 
 ###### Artículo 107.
 
@@ -1753,7 +1841,7 @@ XX.- Las demás que le confieran la presente ley los reglamentos y bandos munici
 
 ## Título VIII. De la Justicia Municipal
 
-### Capítulo II. De las Sanciones
+### Capítulo I. De la Reglamentación de la Administración Pública Municipal
 
 ###### Artículo 130.
 
@@ -1769,7 +1857,7 @@ Los Jueces Municipales durarán en su encargo el tiempo para el que haya sido el
 
 ## Título IX. De la Legislación Municipal
 
-### Capítulo I. De las Suplencias
+### Capítulo II. De las Sanciones
 
 ###### Artículo 133.
 
@@ -1929,7 +2017,7 @@ I.- Ser de naturaleza legislativa autónoma;
 
 II.- Desvirtuar, modificar o alterar el contenido de una disposición de observancia general.
 
-### Capítulo II. De la Declaratoria de Desaparición de Ayuntamientos
+### Capítulo I. De las Suplencias
 
 ###### Artículo 151.
 
@@ -1957,7 +2045,7 @@ b).- Revocación de la concesión, licencia o permiso.
 
 ## Título X. De las Suplencias, Desaparición de Ios Ayuntamientos y Responsabilidades de los Servidores Públicos Municipales
 
-### Capítulo III. De la Suspensión Definitiva de los Integrantes de los Ayuntamientos
+### Capítulo II. De la Declaratoria de Desaparición de Ayuntamientos
 
 ###### Artículo 152.
 
@@ -1981,7 +2069,7 @@ Las faltas temporales de los agentes y subagentes municipales serán suplidas po
 
 Los titulares de las dependencias serán suplidos por quien designe el Presidente Municipal.
 
-### Capítulo IV. De la Renovación del Cargo a los Integrantes del Ayuntamiento
+### Capítulo III. De la Suspensión Definitiva de los Integrantes de los Ayuntamientos
 
 ###### Artículo 155.
 
@@ -2003,7 +2091,7 @@ En los recesos del Congreso del Estado, la Comisión Permanente, con la aprobaci
 
 Si el Congreso del Estado declara que ha desaparecido un ayuntamiento, instalará de inmediato un Consejo Municipal con el número de integrantes que la Constitución del Estado señala, de entre los miembros del consejo que se designen, en el momento de su instalación, se elegirán a las personas que habrán de desempeñar las funciones de Presidente del Consejo, Síndico y Regidores. Los Consejos Municipales tendrán las mismas atribuciones que esta ley confiere a los Ayuntamientos y concluirá el período correspondiente.
 
-### Capítulo V. Responsabilidad de los Servidores Públicos Municipales
+### Capítulo IV. De la Renovación del Cargo a los Integrantes del Ayuntamiento
 
 ###### Artículo 160.
 
@@ -2033,7 +2121,7 @@ En el caso de que la totalidad de los integrantes del ayuntamiento se encuentren
 
 Cuando por cualesquier otras causas no comprendidas en esta Ley, el Ayuntamiento dejare de funcionar normalmente, desacate reiteradamente la Legislación Estatal o Federal, o quebrante los principios del régimen federal o de la Constitución Política del Estado, el Congreso del Estado lo suspenderá definitivamente, nombrara un consejo municipal en los términos de la presente ley, y demás disposiciones aplicables.
 
-### Capítulo Único. De la Readaptación Social
+### Capítulo V. Responsabilidad de los Servidores Públicos Municipales
 
 ###### Artículo 162.
 
@@ -2041,7 +2129,7 @@ El cargo conferido a alguno de los integrantes del Ayuntamiento solo podrá ser 
 
 En caso de que el encargo del integrante del Ayuntamiento fuere revocado, el Congreso designará dentro de los integrantes que quedaren las sustituciones procedentes.
 
-### Capítulo Único. De los Recursos Administrativos
+### Capítulo Único. De la Readaptación Social
 
 ###### Artículo 163.
 
@@ -2056,6 +2144,8 @@ Por las infracciones cometidas a esta ley y reglamentos municipales, los servido
 Se concede acción popular, sin necesidad de constituirse en parte, para denunciar ante las autoridades competentes, los delitos comunes u oficiales, que cometan los servidores públicos municipales.
 
 ## Título XI. De la Readaptación Social
+
+### Capítulo Único. De los Recursos Administrativos
 
 ###### Artículo 166.
 
@@ -2170,3 +2260,9 @@ P.O. 26 DE MAYO DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Los Ayuntamientos llevarán a cabo las acciones necesarias para el debido cumplimiento del presente Decreto.
+
+P.O. 7 DE JULIO DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
