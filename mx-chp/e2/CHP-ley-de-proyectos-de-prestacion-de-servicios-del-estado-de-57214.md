@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-proyectos-de-prestacion-de-servicios-del-estado-de-57214
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2007-08-22"
+last_updated: "2010-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PROYECTOS DE PRESTACION DE SERVICIOS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2010
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 22 de agosto de 2007.
 
@@ -51,7 +51,9 @@ I.- El Poder Ejecutivo del Estado, por conducto de sus dependencias y organismos
 
 II.- Los Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria y Fideicomisos Públicos a que se refiere la Ley de Entidades Paraestatales del Estado de Chiapas;
 
-III.- Los Municipios del Estado y empresas de participación municipal mayoritaria;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2010)</small>
+
+III.- Los municipios del Estado; organismos públicos descentralizados municipales; empresas de participación municipal mayoritaria; fideicomisos públicos municipales; así como las entidades públicas intermunicipales a que se refiere la Ley Orgánica Municipal;
 
 IV.- El Poder Legislativo, el Poder Judicial y los órganos autónomos.
 
@@ -229,7 +231,7 @@ La Secretaría de Finanzas analizará la información que reciba y asesorará a 
 
 ###### Artículo 19.
 
-El modelo de Contrato podrá prever que el precio se encuentre sujeto a ajustes anuales por virtud de variaciones en índices públicamente conocidos en el precio de los insumos, siempre y cuando se establezca una metodología de comprobación de incrementos de precios que permita una determinación apropiada de los mejores precios disponibles en el mercado. En su caso, deberá especificarse en el modelo de Contrato el mecanismo de ajuste en el índice o índices aplicables.
+El modelo de Contrato podrá prever que el precio se encuentre sujeto a ajustes anuales por virtud de variaciones en índices públicamente conocidos en el precio de los insumos, siempre y cuando se establezca una metodología de comprobación de incrementos de precios que permita una determinación apropiada de los mejores precios disponibles en el mercado. En su caso, deberá especificarse en el modelo de Contrato el mecanismo de ajuste y el índice o índices aplicables.
 
 ###### Artículo 20.
 
@@ -487,7 +489,7 @@ VIII.- Las que hayan celebrado otros Contratos sin estar facultadas para hacer u
 
 IX.- A las que el Estado les hayan rescindido por causas imputables a dichas personas algún contrato de obra, servicios o similares a los Proyectos dentro de los últimos cinco años;
 
-X.- Las que reciban en cualquier forma información confidencial o privilegiada respecto del Proyecto en proceso de licitación;
+X.- Las que reciban en cualquier forma información confidencial o privilegiada respecto del Proyecto en proceso de licitación; y
 
 Las demás que por cualquier causa se encuentren impedidas para ello por disposición de ley.
 
@@ -570,3 +572,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, al primer día del mes de agosto del año dos mil siete.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JULIO DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
