@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-7-2008-del-pleno-del-consejo-de-la-59912"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-03-13"
-last_updated: "2008-11-06"
+last_updated: "2010-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59912&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-02-06"
 
 ACUERDO GENERAL 7/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DE LA VISITADURIA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL Y ABROGA EL DIVERSO ACUERDO GENERAL 28/2003, DEL PROPIO CUERPO COLEGIADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JULIO DE 2010.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 13 de marzo de 2008.
 
@@ -519,7 +519,13 @@ Comprobación de asistencia. El visitador judicial "B" pedirá la lista del pers
 
 Impresión de sellos en libros. El visitador judicial "B" solicitará los libros de gobierno que se lleven en el órgano jurisdiccional e imprimirá el sello correspondiente, el cual contendrá la fecha de inicio de la visita.
 
-La impresión del sello, con la oportunidad señalada, tendrá por objeto fijar el límite temporal de la visita. Por tanto, dicha impresión se efectuará inmediatamente después del último registro o de la última anotación que se haya hecho el día anterior al del inicio de la visita.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL NUMERO 17/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE JULIO DE 2010)</small>
+
+La temporalidad de las inspecciones ordinarias inicia al día siguiente de aquél en que se cerró el lapso que abarcó el anterior informe circunstanciado y concluye cinco días hábiles previos al en que comenzará a verificarse materialmente la citada inspección. Por lo tanto, la fecha límite del cierre de los datos que se proporcionarán en la revisión que deba practicarse, necesariamente deberá atender a esa temporalidad previa a su verificación.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL NUMERO 17/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE JULIO DE 2010)</small>
+
+Como consecuencia de lo anterior, el sello que debe imprimirse por parte del visitador judicial "B" en los libros de gobierno del órgano visitado, se estampará inmediatamente después del último registro o de la última anotación que se haya hecho cinco días hábiles previos al del inicio de la inspección.
 
 ###### Artículo 56.
 
@@ -904,3 +910,11 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, y para su mayor difusión, en la página web del Consejo de la Judicatura Federal.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General 7/2008, del Pleno del Consejo de la Judicatura Federal, que Regula la Organización y Funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal y Abroga el Diverso Acuerdo General 28/2003, del propio Cuerpo Colegiado.
+
+D.O.F. 7 DE JULIO DE 2010.
+
+PRIMERO. El presente acuerdo entrará en vigor a partir del inicio del segundo semestre del año dos mil diez, a fin de coincidir con el segundo periodo de visitas ordinarias de inspección correspondientes a tal anualidad.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 7/2008, del Pleno del Consejo de la Judicatura Federal, que Regula la Organización y Funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal y Abroga el Diverso Acuerdo General 28/2003, del Propio Cuerpo Colegiado.
