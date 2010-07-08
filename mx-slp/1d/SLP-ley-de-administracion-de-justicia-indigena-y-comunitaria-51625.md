@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-administracion-de-justicia-indigena-y-comunitaria-51625"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-01"
-last_updated: "2006-06-01"
+last_updated: "2010-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ADMINISTRACION DE JUSTICIA INDIGENA Y COMUNITARIA DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 1 de junio de 2006.
 
@@ -145,9 +145,11 @@ Cuando alguna de las partes acuda ante otra autoridad, respecto del mismo caso q
 
 Si las partes solucionan la controversia mediante convenio, éste adquirirá el carácter de sentencia ejecutoria; y, si determinan someterse al arbitraje del juez auxiliar, la resolución dictada por el mismo tendrá la calidad de cosa juzgada.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 20.
 
-Los jueces auxiliares deberán intervenir de oficio, en el ámbito de su competencia, cuando se vean afectados los derechos, bienes o posesiones de mujeres, niños, adultos mayores y personas indígenas con capacidades diferentes, o cuando se atente contra su integridad física, subsistencia, salud, desarrollo, formación personal y cultural.
+Los jueces auxiliares deberán intervenir de oficio, en el ámbito de su competencia, cuando se vean afectados los derechos, bienes o posesiones de, mujeres, niños, adultos mayores, y personas indígenas con discapacidad, o cuando se atente contra su integridad física, subsistencia, salud, desarrollo, formación personal y cultural.
 
 ### CAPITULO IV. DE LA COMPETENCIA
 
@@ -334,3 +336,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE JULIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
