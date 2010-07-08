@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transporte-para-el-estado-de-sonora-24567"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-08"
-last_updated: "2003-06-26"
+last_updated: "2010-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 2010.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 8 de marzo de 2002.
 
@@ -601,17 +601,23 @@ c) Especializada.- Que comprende la transportación de productos agrícolas elab
 
 Para la prestación del servicio público de transporte de pasaje y carga, deberán destinarse los siguientes tipos de vehículos:
 
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2010)</small>
+
 I.- Pasaje:
 
-a) Transporte colectivo urbano, suburbano, foráneo, especializados de personal, escolar y para personas con discapacidad y de la tercera edad, en unidades de diez pasajeros como mínimo.
+a) Transporte urbano, en unidades con capacidad para diez pasajeros como mínimo, equipadas con servicio de aire acondicionado para los pasajeros.
 
-b) Transporte exclusivo de turismo en vehículos sedán cuatro puertas y unidades de diez pasajeros como mínimo.
+b) Transporte urbano, en unidades con capacidad para diez pasajeros como mínimo, sin servicio de aire acondicionado para los pasajeros.
 
-c) Automóviles de alquiler: sedán de dos y cuatro puertas.
+c) Transporte suburbano, foráneo, especializado de personal, escolar y para personas con discapacidad y de la tercera edad, en unidades con capacidad para diez pasajeros como mínimo.
 
-d) Automóviles de alquiler colectivo: Vehículos sedán de dos y cuatro puertas, con capacidad máxima de hasta cinco ocupantes.
+d) Transporte exclusivo de turismo, en vehículos sedán cuatro puertas y unidades con capacidad para diez pasajeros como mínimo.
 
-e) Transporte colectivo de trabajadores agrícolas en unidades de diez pasajeros como mínimo o en unidades debidamente adaptadas y equipadas en los términos que establezcan los reglamentos de esta Ley.
+e) Automóviles de alquiler, en vehículos sedán de dos y cuatro puertas.
+
+f) Automóviles de alquiler colectivo, en vehículos sedán de dos y cuatro puertas, con capacidad máxima de hasta cinco pasajeros.
+
+g) Transporte colectivo de trabajadores agrícolas, en unidades con capacidad de diez pasajeros como mínimo, debidamente adaptadas y equipadas, en los términos que establezcan los reglamentos de esta ley.
 
 II.- Carga:
 
@@ -1190,6 +1196,10 @@ IX.- Cuando se trate del servicio de transporte público de pasaje, contratar y 
 X.- Cumplir con los programas de capacitación y actualización anuales del servicio público de transporte, aprobados por las autoridades del transporte;
 
 XI.- Tratándose del transporte urbano, suburbano y foráneo, adecuar sus unidades con cuando menos dos asientos y demás condiciones necesarias para personas con discapacidad y de la tercera edad, en los términos de la Ley de Integración Social para Personas con Discapacidad del Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2010)</small>
+
+XI BIS.- Tratándose de las unidades a las que se refiere el inciso a) de la fracción I del artículo 44 de esta ley, éstas deberán prestar su servicio con los equipos de aire acondicionado encendidos y en correcto funcionamiento, en el periodo comprendido del primero de mayo al treinta de septiembre de cada año, en los términos y condiciones que al efecto señale el reglamento correspondiente;
 
 XII.- Colaborar con la labor de las autoridades de transporte;
 
@@ -2048,3 +2058,13 @@ POR TANTO, MANDO SE PUBLIQUE EN EL BOLETIN OFICIAL DEL ESTADO Y SE LE DE EL DEBI
 B.O. 26 DE JUNIO DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 8 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá realizar las adecuaciones pertinentes al reglamento de la Ley de Transporte para el Estado de Sonora, en un plazo no mayor a 60 días hábiles, contado a partir de la entrada en vigor del presente decreto.
