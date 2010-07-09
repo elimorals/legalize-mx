@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-13-2007-del-pleno-del-consejo-de-la-55448"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-05-14"
-last_updated: "2008-09-08"
+last_updated: "2010-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55448&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-03-28"
 
 ACUERDO GENERAL 13/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JULIO DE 2010.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de mayo de 2007.
 
@@ -333,11 +333,11 @@ En caso de error en la captura de los asuntos, el jefe de cada oficina de corres
 
 Casos urgentes.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 26/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 24.
 
-Para los efectos de la regulación de ingresos y una distribución equitativa de los asuntos entre los órganos jurisdiccionales, la recepción y distribución de consignaciones con detenido, consignaciones sin detenido por delitos calificados como graves, diligenciación de exhortos en que deba resolverse sobre la situación jurídica, solicitudes de cateo, de intervención de comunicaciones privadas, de extradición, orden de expulsión del país, de arraigo o demandas de amparo contra orden de arresto, deportación, destierro, los señalados por el artículo 17 de la Ley de Amparo, los prohibidos por el artículo 22 constitucional, la declaración de inexistencia de huelga, así como contra la orden de aprehensión o reaprehensión, que se presenten de las ocho horas con treinta minutos a las catorce horas con treinta minutos, se realizará de lunes a jueves, de manera aleatoria entre todos los juzgados que integren el distrito judicial correspondiente; mientras que de las catorce horas con treinta y un minutos a las veinticuatro horas y de viernes a domingo, los mencionados oficios y promociones se enviarán al juzgado de distrito que se encuentre de turno, entregándose de inmediato al secretario autorizado de dicho órgano jurisdiccional. Tratándose de los juzgados de distrito de procesos penales federales en el Distrito Federal para el turno de asuntos debe atenderse a lo señalado en el artículo 3.
+Para los efectos de la regulación de ingresos y una distribución equitativa de los asuntos entre los órganos jurisdiccionales, la recepción y distribución de consignaciones con detenido, consignaciones sin detenido por delitos calificados como graves, diligenciación de exhortos en que deba resolverse sobre la situación jurídica, solicitudes de cateo, de intervención de comunicaciones privadas, de extradición, orden de expulsión del país, de arraigo o demandas de amparo contra actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento judicial, deportación, destierro o alguno de los prohibidos por el artículo 22 constitucional y declaraciones de inexistencia de huelga, que se presenten de las ocho horas con treinta minutos a las catorce horas con treinta minutos, se realizará de lunes a jueves, de manera aleatoria entre todos los juzgados que integren el distrito judicial correspondiente; mientras que de las catorce horas con treinta y un minutos a las veinticuatro horas y de viernes a domingo, los mencionados oficios y promociones se enviarán al juzgado de distrito que se encuentre de turno, entregándose de inmediato al secretario autorizado de dicho órgano jurisdiccional. Tratándose de los juzgados de distrito de procesos penales federales en el Distrito Federal, para el turno de asuntos debe atenderse a lo señalado en el artículo 3.
 
 Fuera del horario de las oficinas de correspondencia común, las demandas de amparo, así como las promociones y oficios a que se refiere el primer párrafo del presente artículo, serán recibidas por el secretario autorizado del juzgado de distrito en turno, quien deberá presentarlas a la oficina de correspondencia común respectiva en cuanto ésta reanude sus labores, a fin de que se realice el registro, la compensación correspondiente y se equilibren las cargas de trabajo.
 
@@ -448,3 +448,11 @@ D.O.F. 8 DE SEPTIEMBRE DE 2008.
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 9 DE JULIO DE 2010.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 13/2007, del Pleno del Consejo de la Judicatura Federal, que Regula el Funcionamiento, Supervisión y Control de las Oficinas de Correspondencia Común de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación.
