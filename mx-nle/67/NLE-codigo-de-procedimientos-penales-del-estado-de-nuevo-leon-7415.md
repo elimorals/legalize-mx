@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2010-06-09"
+last_updated: "2010-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -4455,13 +4455,15 @@ Concedida la rehabilitación por el Congreso, se comunicará al Tribunal que hub
 
 Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá conceder otra.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 539.
 
-Después de tres años de haberse cumplido la pena impuesta; de seis años, si se trata de reincidente, y de nueve si se trata de habitual, los registros o anotaciones de cualquiera clase, relativos a la condena impuesta, no podrán ser comunicados a ninguna entidad o persona, con excepción de las Autoridades judiciales, Ministerio Público o Policiales, para fines exclusivos de la investigación.
+Una vez cumplida la sanción impuesta por la autoridad correspondiente, o habiéndose otorgado al sentenciado la remisión parcial de la pena o libertad preparatoria en su caso, y previo dictamen favorable emitido por autoridad competente, se ordenará de inmediato que el expediente respectivo sea archivado; pudiéndose expedir a favor del sentenciado carta de no antecedentes penales. Este beneficio sólo podrá otorgarse por una sola vez respecto de la misma persona.
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 1997)</small>
+Los registros o anotaciones de cualquier clase, relativos a la sanción impuesta, no podrán ser comunicados a ninguna entidad o persona, con excepción de las autoridades judiciales, de procuración de justicia o de seguridad pública únicamente para fines de investigación o de contratación de su propio personal.
 
-Tratándose de primarios, transcurrido un tiempo igual a la sentencia, más una cuarta parte sin que sea inferior a tres años, la autoridad correspondiente, previa evaluación, podrá otorgar Carta de No Antecedentes Penales, quedando el mismo, sólo para efectos de información administrativa.
+Tratándose de sentenciados por cualquier delito de carácter sexual, o trata de personas así como los reincidentes o habituales, transcurrido un tiempo igual a la sentencia más una cuarta parte sin que sea inferior a tres años, la autoridad correspondiente, previo dictamen favorable elaborado en los términos de la Ley que Regula la Ejecución de las Sanciones Penales, podrá otorgar carta de no antecedentes penales, quedando el registro, sólo para efectos del párrafo segundo de éste articulo.
 
 ### CAPITULO UNICO. JUICIOS DE RESPONSABILIDAD
 
@@ -5682,5 +5684,9 @@ P.O. 20 DE MAYO DE 2010.
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 9 DE JUNIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
