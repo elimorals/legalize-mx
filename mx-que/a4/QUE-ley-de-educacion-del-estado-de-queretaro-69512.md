@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2009-10-14"
+last_updated: "2010-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACION DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -167,11 +167,19 @@ IX. Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias; y
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-X. Promover, coordinar, ejecutar y evaluar programas de capacitación, orientación y formación, dirigidos a los padres de familia o tutores, en los centros de educación básica, incluyendo la educación indígena, especial e inicial; y
+X. Promover, coordinar, ejecutar y evaluar programas de capacitación, orientación y formación, dirigidos a los padres de familia o tutores, en los centros de educación básica, incluyendo la educación indígena, especial e inicial; y (sic)
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2010)</small>
+
+XI. Fomentar y estimular la cultura física y la práctica del deporte dentro de las instituciones de educación básica, de conformidad con los programas educativos autorizados por la Secretaría de Educación Pública;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2010)</small>
+
+XII. Implementar en los planteles de educación básica, programas de prevención de adicciones, dirigidos a los alumnos, que contenga información sobre los efectos nocivos del consumo de sustancias adictivas; y
 
 > <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-XI. Las demás que establezca la Ley General de Educación, esta Ley y otras disposiciones aplicables.
+XIII. Las demás que establezca la Ley General de Educación, esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 14.
 
@@ -920,3 +928,7 @@ Rúbrica
 P.O. 14 DE OCTUBRE DE 2009.
 
 Artículo único. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 9 DE JULIO DE 2010.
+
+Artículo Único.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
