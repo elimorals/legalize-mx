@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "2010-04-05"
+last_updated: "2010-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2010.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -1165,9 +1165,11 @@ II.- Por correo ordinario o por telegrama, cuando se trate de actos distintos de
 
 III.- Por edictos, cuando se desconozca el domicilio del causante o del representante de la sucesión, en caso de fallecimiento. Se hará mediante tres publicaciones consecutivas en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación en la Entidad y contendrá un resumen de los actos que se notifican.
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2010)</small>
 
-IV.- Por estrados, en los demás casos no señalados en las fracciones anteriores, siempre que el interesado no hubiere señalado domicilio, desaparezca después de iniciadas las facultades de comprobación o se oponga a la diligencia de notificación. Se fijará el documento que pretenda notificar, durante cinco días, en sitio visible al público, de las oficinas de la autoridad que efectúe la notificación; dejando constancia de ello en el expediente respectivo; y
+IV.- Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio manifestado ante las autoridades fiscales estatales, se ignore éste o el de su representante, desaparezca, se oponga a la diligencia de notificación o se coloque en el supuesto previsto en la fracción IV del artículo 104 Bis de este Código y en los demás casos que señalen las Leyes Fiscales y este Código.
+
+Las notificaciones por estrados se harán fijando durante cinco días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales; dicho plazo se contará a partir del día siguiente a aquel en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del sexto día contado a partir del día siguiente a aquel en que se hubiera fijado o publicado el documento; y
 
 > <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -1176,6 +1178,18 @@ V.- Por instructivo, solamente en los casos y con las formalidades a que se refi
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
 Las notificaciones podrán hacerse en las oficinas de las autoridades fiscales, si las personas a quienes debe notificarse se presentan en las mismas.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2010)</small>
+
+La Secretaría de Planeación y Finanzas del Estado, podrá habilitar a terceros para que realicen las notificaciones previstas en este artículo, cumpliendo con las formalidades establecidas en este Código.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2010)</small>
+
+La habilitación a terceros se dará a conocer a través de la página de Internet del Poder Ejecutivo del Gobierno del Estado de Baja California.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2010)</small>
+
+Los terceros habilitados para realizar las notificaciones, están obligados a guardar absoluta reserva de los datos de los contribuyentes que las autoridades fiscales les suministren para este fin, observando en todo momento los convenios de confidencialidad suscrito entre los terceros y el titular de la Secretaría de Planeación y Finanzas. Lo anterior en términos del Artículo 108 de este Código.
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2708,3 +2722,11 @@ La presente reforma entrará en vigor al día siguiente al de su publicación en
 P.O. 5 DE ABRIL DE 2010.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE JULIO DE 2010.
+
+PRIMERO.- La anterior reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La habilitación a terceros a que hace referencia la presente reforma, podrá autorizarse para efecto de que todas las diligencias de notificación respecto de un área determinada de las autoridades fiscales, se realicen por conducto de éstos.
+
+TERCERO.- Cuando en las disposiciones fiscales estatales se haga referencia a los notificadores o ejecutores, se considerarán incluidos para efectos de las facultades que se indiquen, a los terceros habilitados.
