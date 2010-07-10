@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2010-06-26"
+last_updated: "2010-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE SEPTIEMBRE DE 2010 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE AGOSTO DE 2010 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2010.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -9199,7 +9199,7 @@ En las donaciones, los condueños no gozarán del derecho del tanto.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
 
-2238.- La aceptación de las donaciones se hará en la misma forma en estas deben hacerse, pero no surtirá efectos sino se hiciere en vida del donante.
+2238.- La aceptación de las donaciones se hará en la misma forma en estas deben hacerse, pero no surtirá efectos sino se hiciere en vida del ddonante.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
 
@@ -10256,6 +10256,10 @@ En estos casos tampoco puede el mandatario renunciar el poder.
 La parte que revoque o renuncie el mandato en tiempo inoportuno, debe indemnizar a la otra de los daños y perjuicios que le cause.
 
 Cuando el mandato se otorgue como un medio para cumplir otra obligación contraída por el mandante a favor del mandatario, este último está facultado para hacerse pago al ejercer el mandato, salvo convenio en contrario.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2010)</small>
+
+Los mandatos que se hayan otorgado con carácter de irrevocables no se podrán otorgar, sustituir, delegar o encomendar en los términos del artículo 2473, cuando sean para efectos de actos de dominio.
 
 2496.- Cuando se ha dado un mandato para tratar con determinada persona, el mandante debe notificar a ésta la revocación del mandato, so pena de quedar obligado por los actos del mandatario, ejecutados después de la revocación, siempre que haya habido buena fe de parte de esa persona.
 
@@ -12658,3 +12662,9 @@ Lo dispuesto en los artículos 7, fracción V; 15, 74, 89, 115, 134, 135, 136, 1
 ###### ARTÍCULO TERCERO.
 
 El Titular del Ejecutivo Estatal contará con un término de noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, para expedir la reglamentación correspondiente a la presente Ley.
+
+P.O. 10 DE JULIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
