@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2009-10-28"
+last_updated: "2010-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2010.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -460,6 +460,10 @@ Las demandas o escritos iniciales y promociones que se presenten de manera difer
 78.- Los actos judiciales que importen declaración personal, se ejecutarán bajo protesta de decir verdad.
 
 79.- En cualquier estado del negocio pueden los tribunales citar a las partes a las juntas que crean convenientes; ya sea para procurar su avenencia o para esclarecer algún punto, sin que se suspendan los términos que estén corriendo.
+
+(ADICIONADO, P.O. 10 DE JULIO DE 2010) (F. DE E., P.O. 7 DE AGOSTO DE 2010)
+
+No podrá citarse a los fedatarios públicos en calidad de partes, con motivo de los actos en los que únicamente hayan intervenido para dar fe pública.
 
 80.- Las juntas a que se refiere el artículo anterior, lo mismo que todas las diligencias, se verificarán en el Juzgado o Sala que deba practicarlas, a menos de que por su propia naturaleza deban practicarse en otro lugar, o cuando por razón del sexo, edad, enfermedad u otra circunstancia grave de las personas que intervengan, el Juzgado o Sala designe lugar diverso.
 
@@ -1321,9 +1325,13 @@ V.- El Juez, con el propósito de evitar disgresiones y alegatos inútiles, comp
 
 Al contestar la vista se ofrecerán y presentarán las pruebas para el objeto a que se refiere el artículo siguiente.
 
-Evacuado el traslado o fenecido el plazo, el juez señalará día y hora para la celebración de la audiencia de conciliación y depuración procesal, citando a las partes para dentro de los diez días posteriores, siendo aplicable en cuanto a representación de las partes, lo conducente en lo dispuesto por el artículo 192 Bis.
+> <small>(F. DE E., P.O. 7 DE AGOSTO DE 2010)</small>
 
-La notificación se hará en forma personal en el domicilio señalado por las partes en autos, si se omitió tal designación se aplicarán las reglas generales para la notificación.
+Evacuado el traslado o fenecido el plazo, el juez señalará día y hora para la celebración de la audiencia de conciliación y depuración procesal, citando a las partes para dentro de los diez días posteriores, siendo aplicable en cuanto a representación de las partes, lo conducente en lo dispuesto por el artículo 192 Bis. No podrá citarse a los fedatarios públicos en calidad de partes, con motivo de los actos en los que únicamente hayan intervenido para dar fe pública.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2010)</small>
+
+La notificación se hará por medio de listas, en los términos que establece este Código.
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
@@ -1567,7 +1575,11 @@ VIII.- Las sentencias de los tribunales y las demás actuaciones judiciales;
 
 IX.- Las certificaciones que expidieren las bolsas mercantiles o Cámaras de Comercio o de Minería autorizadas por la ley, y las expedidas por corredores titulados con arreglo al Código de Comercio;
 
-X.- Los demás a los que la ley reconozca ese carácter.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2010)</small>
+
+X.- Los documentos auténticos expedidos por notarios públicos en el ejercicio de sus funciones y con motivo de ellas.
+
+XI.- Los demás a los que la ley reconozca ese carácter.
 
 311.- Los documentos públicos expedidos por autoridades federales o funcionarios de los Estados harán fe en el Estado sin necesidad de legalización.
 
@@ -3783,7 +3795,11 @@ b).- Poner los bienes del presunto incapacitado bajo la administración del tuto
 
 c).- Proveer legalmente de la patria potestad o tutela a las personas que tuviere bajo su guarda el presunto incapacitado.
 
-d).- Contra la resolución que se dicte en las providencias mencionadas en este artículo procede el recurso de apelación en el efecto devolutivo;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JULIO DE 2010)</small>
+
+d).- Podrá autorizar en cada caso al tutor interino a realizar los trámites en nombre del presunto incapacitado que, por su urgencia o necesidad, sean requeridos para este último, siempre que con ello no se le generen obligaciones o se menoscabe su patrimonio.
+
+e).- Contra la resolución que se dicte en las providencias mencionadas en este artículo procede el recurso de apelación en el efecto devolutivo;
 
 IV.- Dictadas las providencias que establecen las fracciones anteriores se procederá a un segundo reconocimiento médico del presunto incapacitado, con peritos diferentes, en los mismos términos que los señalados por la fracción II. En caso de discrepancia con los peritos que rindieron el primer dictamen se practicará una junta de avenencia a la mayor brevedad posible y si no la hubiere el juez designará peritos terceros en discordia;
 
@@ -4890,3 +4906,19 @@ SEGUNDO.- Las adopciones simples que se encuentren en trámite a la entrada en v
 No obstante, si en las adopciones simples que actualmente se tramitan, hubiere la voluntad del o de los adoptantes de obtener la adopción plena, podrá seguir el procedimiento establecido en el presente Decreto.
 
 Las adopciones simples realizadas con anterioridad a la entrada en vigor del presente Decreto, podrán convertirse a plenas, de acuerdo con los requisitos y procedimientos establecidos por este Decreto.
+
+P.O. 10 DE JULIO DE 2010.
+
+DECRETO No. 1097/2010 II P.O., POR EL QUE SE REFORMA EL ARTICULO 867 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 2010.
+
+DECRETO No. 1098/2010 II P.O., POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 79, 262 Y 310 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
