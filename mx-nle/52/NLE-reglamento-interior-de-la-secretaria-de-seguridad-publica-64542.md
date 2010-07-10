@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-seguridad-publica-64542
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-21"
-last_updated: "2009-01-23"
+last_updated: "2010-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64542&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de noviembre de 2008.
 
@@ -995,9 +995,17 @@ XIII. Fortalecer y supervisar programas de prevención y tratamiento en materia 
 
 XIV. Promover campañas de salud preventivas, a través de la colaboración de instituciones del sector salud;
 
-XV. Llevar la vigilancia de los beneficios de libertad anticipada del fuero común y federal por traslado a la institución abierta, reclusión domiciliaria, libertad condicional, remisión parcial de la pena y libertad preparatoria, y en su caso hacer del conocimiento del Comisario General cuando el favorecido incurra en alguna de la hipótesis revocación que refiere la ley, respecto del beneficio concedido, y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2010)</small>
 
-XVI. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+XV. Llevar la vigilancia de los beneficios de libertad anticipada del fuero común y federal por traslado a la institución abierta, reclusión domiciliaria, libertad condicional, remisión parcial de la pena y libertad preparatoria, y en su caso hacer del conocimiento del Comisario General cuando el favorecido incurra en alguna de la hipótesis (sic) revocación que refiere la ley, respecto del beneficio concedido;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2010)</small>
+
+XVI. Emitir un dictamen multidisciplinario para la aprobación o rechazo de la carta de no antecedentes penales a que se refiere el artículo 539 del Código de Procedimientos Penales del Estado, debiendo considerar si la sanción impuesta al solicitante deriva de una sentencia dictada por la comisión de algún delito considerado por el Código Penal del Estado como grave y si el promovente se ha integrado satisfactoriamente al entorno familiar y social, que demuestren índices de una adecuada reinserción social.
+
+Para la elaboración del dictamen se contará con un Consejo Técnico Jurídico, que estará integrado por las mismas disciplinas que establece la Ley que Regula la Ejecución de las Sanciones Penales, para la realización de funciones dictaminadoras, y
+
+XVII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
 ###### ARTÍCULO 34.
 
@@ -1378,3 +1386,7 @@ P.O. 23 DE ENERO DE 2009.
 Primero.- Las presentes modificaciones al Reglamento Interior de la Secretaría de Seguridad Pública entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Las investigaciones, procedimientos de responsabilidad administrativa y recursos iniciados que se estén substanciado en la Comisión de Honor y Justicia con fecha anterior a la entrada en vigor de la presente reforma, continuarán tramitándose conforme a las disposiciones de la Ley del Sistema de Seguridad Pública y del Reglamento Interior de la Secretaría de Seguridad Pública, publicado en el Periódico Oficial del Estado de fecha 12 de Octubre de 2004.
+
+P.O. 10 DE JULIO DE 2010.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
