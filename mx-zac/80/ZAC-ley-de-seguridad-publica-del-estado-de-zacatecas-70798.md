@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-seguridad-publica-del-estado-de-zacatecas-70798"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-10"
-last_updated: "2009-10-10"
+last_updated: "2010-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2010.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de octubre de 2009.
 
@@ -381,9 +381,11 @@ XV. Las demás que se establezcan (sic) la Ley General del Sistema Nacional de S
 
 El Consejo Estatal se reunirá de manera ordinaria por lo menos dos veces al año y de manera extraordinaria cuantas veces se requiera, a convocatoria de su Presidente, el cual podrá delegar ésta y otras atribuciones en el Secretario Ejecutivo, quien integrará la cartera de los asuntos a tratar. Corresponderá a su Presidente, además, la facultad de promover en todo tiempo la efectiva coordinación de la seguridad pública en el Estado.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2010)</small>
+
 ###### Artículo 23.
 
-El Secretariado Ejecutivo del Consejo Estatal, es el órgano operativo del mismo, cuyas facultades y obligaciones se establecerán en su respectivo Reglamento.
+El Secretariado Ejecutivo del Consejo Estatal, es el órgano desconcentrado de la secretaría General de Gobierno, con autonomía técnica, de gestión y presupuestal, responsable de la operación de las determinaciones del Consejo Estatal, cuyas facultades y obligaciones se establecerán en su reglamento respectivo.
 
 ###### Artículo 24.
 
@@ -395,11 +397,15 @@ Además de las establecidas en esta Ley, en el Reglamento del Consejo Estatal, s
 
 El Centro Estatal de Información formará parte del Consejo Estatal y tendrá por objeto establecer, administrar y resguardar las bases de datos sobre criminalística y del personal responsable de la seguridad pública, con la finalidad de determinar criterios técnicos y de homologación de lineamientos en la base de datos del Sistema.
 
-#### SECCIÓN TERCERA. DEL CENTRO ESTATAL DE CERTIFICACIÓN Y ACREDITACIÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE JULIO DE 2010)</small>
+
+#### SECCIÓN TERCERA. DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2010)</small>
 
 ###### Artículo 26.
 
-El Centro Estatal de Certificación y Acreditación, formará parte del Consejo Estatal y tendrá por objeto verificar que los Centros de Evaluación y Control de Confianza, realicen sus funciones de conformidad con las normas técnicas y estándares mínimos en materia de evaluación y control de confianza de los servidores públicos de las instituciones de seguridad pública.
+El Centro Estatal de Evaluación y Control de Confianza formará parte del Consejo Estatal y tendrá por objeto aplicar los procesos de Evaluación y Control de Confianza a los aspirantes y a los integrantes de las Instituciones de Seguridad Pública, que comprenden al personal de las Corporaciones de Seguridad Pública a que se refiere el artículo 42 de esta Ley, y al de procuración de justicia, conforme a los criterios expedidos por el Centro Nacional de Certificación y Acreditación.
 
 #### SECCIÓN CUARTA. DEL CENTRO ESTATAL DE PREVENCIÓN DEL DELITO Y PARTICIPACIÓN CIUDADANA
 
@@ -511,9 +517,11 @@ Los datos e informes que se utilicen para la elaboración de los programas a que
 
 ### CAPÍTULO IX. DE LAS CORPORACIONES DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2010)</small>
+
 ###### Artículo 40.
 
-Las corporaciones de seguridad pública del Estado, tienen el carácter de cuerpos armados e integrados de manera profesional, a través de un servicio civil de carrera, normado por sus propios reglamentos.
+Las corporaciones de seguridad pública del Estado tienen el carácter de cuerpos armados e integrados de manera profesional, a través de un Servicio Profesional de Carrera, normado por las disposiciones correspondientes.
 
 ###### Artículo 41.
 
@@ -541,17 +549,27 @@ Tratándose de emergencias o desastres naturales, los elementos de protección c
 
 ### CAPÍTULO X. DEL INSTITUTO DE FORMACIÓN PROFESIONAL
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2010)</small>
+
 ###### Artículo 43.
 
-El Instituto de Formación Profesional estará adscrito a la Secretaría y tendrá a su cargo la formación y capacitación científica y profesional de los elementos integrantes de las instituciones y corporaciones estatales y municipales dedicadas al cumplimiento de las funciones de seguridad pública, tránsito, servicios periciales y ministeriales; así como del personal penitenciario y de los centros de internamiento y atención integral juvenil para adolescentes.
+El Instituto de Formación Profesional es un órgano desconcentrado de la Secretaría General de Gobierno, con autonomía técnica, de gestión y presupuestal, encargado de:
+
+I. La formación inicial, actualización, promoción, especialización y alta dirección técnica y científica, de aspirantes e integrantes de las Instituciones de Seguridad Pública, que comprenden al personal de las Corporaciones de Seguridad Pública a que se refiere el artículo 42 de esta Ley, al de procuración de justicia y, en su caso, al de seguridad privada.
+
+II. La implementación del Servicio Profesional de Carrera en las Instituciones de Seguridad Pública.
+
+Lo anterior de conformidad con las disposiciones normativas aplicables.
 
 ###### Artículo 44.
 
 La profesionalización del personal de las instituciones de seguridad pública, pericial, ministerial, de custodia, y en su caso, de las policías preventivas municipales, también quedará a cargo del Instituto.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2010)</small>
+
 ###### Artículo 45.
 
-Para lograr los fines del Instituto, se establecerá un Programa Rector de Profesionalización, instrumento en el que se señalarán entre otros aspectos los lineamientos, programas, actividades y contenidos mínimos para la profesionalización, acordes con la Academia Nacional.
+El Instituto elaborará sus planes y programas de profesionalización en coordinación con los programas rectores de profesionalización que emita el Consejo Nacional de Seguridad Pública.
 
 ###### Artículo 46.
 
@@ -868,3 +886,17 @@ CARLOS PINTO NÚÑEZ
 EL SECRETARIO DE SEGURIDAD PÚBLICA
 
 MIGUEL RIVERA VILLA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE JULIO DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- El Consejo Estatal de Seguridad Pública contará con un término de 60 días naturales para la expedición de su Reglamento Interno.
+
+Tercero.- El Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública contará con un término de 60 días naturales para la expedición de su Reglamento Interno.
+
+Cuarto.- El Instituto de Formación profesional contará con un término de 60 días naturales para la expedición de su Reglamento Interno.
+
+Quinto.- Se derogan las disposiciones que se opongan al presente instrumento.
