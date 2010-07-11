@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interior-de-la-secretaria-de-educacion-26114"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-29"
-last_updated: "2002-09-29"
+last_updated: "2010-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26114&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN, PUBLICADO EN EL P.O. DE 11 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 29 de septiembre de 2002.
 
@@ -1340,3 +1342,27 @@ LIC. JOSÉ MIGUEL CASTRO CARRILLO
 EL SECRETARIO DE EDUCACIÓN
 
 M.C. ADRIÁN LAVEAGA HERNÁNDEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Este Reglamento entrará en vigor a los tres días hábiles, a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Educación, publicado en el Periódico Oficial, el 29 de septiembre de 2002, así como las demás disposiciones reglamentarias y administrativas que se opongan a lo dispuesto por este Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Todas las funciones que competen a la Secretaría de Educación, conforme a las leyes y reglamentos, se ejercerán de acuerdo al presente y se desarrollarán conforme lo señale el Manual General de Organización y demás documentos normativos que se expidan.
+
+###### ARTÍCULO CUARTO.
+
+La designación y adscripción del personal que labora en las distintas unidades orgánicas de esta Secretaría, se hará de acuerdo a su perfil profesional y capacidad laboral, mediante acuerdo del Secretario; en todos los casos, se respetarán sus derechos laborales conforme a la Ley.
+
+###### ARTÍCULO QUINTO.
+
+La reasignación de recursos humanos, financieros y materiales, generados por una reestructuración orgánica de la Secretaría, se hará en base a los programas y proyectos correspondientes, destinándose primordialmente a las unidades orgánicas que los asuman.
