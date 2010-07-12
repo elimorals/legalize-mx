@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2008-08-18"
+last_updated: "2010-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -445,7 +445,9 @@ XLI.- Autorizar la relotificación, fusión y subdivisión de terrenos en el ám
 
 XLII.- Expedir la autorización de fraccionamiento de predios la constitución del régimen de propiedad en condominio de conformidad con las disposiciones que establece el Código Urbano para el Estado de Aguascalientes, las leyes de la materia, planes y programas de desarrollo urbano estatal, así como reservas, usos y destinos de áreas y predios, todo ello con la concurrencia del Estado.
 
-XLIII.- Establecer un sistema de asistencia social a favor de los menores de edad, la integración familiar, los senectos y otros sectores de la población en condiciones de vulnerabilidad o rezago social y, en general, establecer programas cuyo propósito sea el desarrollo integral de la persona humana;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+
+XLIII.- Establecer un sistema de asistencia social a favor de los menores de edad, la integración familiar, las personas adultas mayores, indigentes y otros sectores de la población en condiciones de vulnerabilidad o rezago social y, en general, establecer programas cuyo propósito sea el desarrollo integral de la persona humana;
 
 XLIV. Dividir el territorio municipal en los términos establecidos en esta ley para una mejor prestación de los servicios públicos;
 
@@ -1691,19 +1693,27 @@ En cada Municipio funcionará un Comité de Desarrollo Integral de la Familia, q
 
 I. Fortalecer el núcleo familiar a través de la promoción social, que tienda al mejoramiento de la vida del individuo, la familia y la sociedad en general;
 
-II. Realizar estudios e investigaciones sobre los problemas de la familia, de los menores, de los senectos, de las personas con discapacidad y proponer soluciones adecuadas;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
 
-III. Proporcionar servicios asistenciales a menores en estado de abandono, a las personas con discapacidad, sin recursos y senectos desamparados;
+II. Realizar estudios e investigaciones sobre los problemas de la familia, de los menores, de las personas adultas mayores, indigentes, de las personas con discapacidad y proponer soluciones adecuadas;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+
+III. Proporcionar servicios asistenciales a menores en estado de abandono, a las personas con discapacidad, sin recursos, personas adultas mayores desamparados e indigentes;
 
 IV. Fomentar la educación para la integración social, a través de la enseñanza preescolar y extraescolar;
 
-V. Fomentar y, en su caso, proporcionar servicios de rehabilitación, a los menores infractores, senectos, a las personas con discapacidad y fármaco dependientes;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+
+V. Fomentar y, en su caso, proporcionar servicios de rehabilitación, a los menores infractores, personas adultas mayores, a las personas con discapacidad y fármaco dependientes e indigentes;
 
 VI. Apoyar y fomentar la nutrición y las acciones de medicina preventiva, dirigidas a los lactantes, las madres gestantes y población socialmente desprotegida;
 
 VII. Promover el desarrollo de la comunidad, en el territorio del municipio;
 
-VIII. Prestar servicios de asistencia jurídica y de orientación social a los menores, senectos y a las personas con discapacidad sin recursos;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+
+VIII. Prestar servicios de asistencia jurídica y de orientación social a los menores, personas adultas mayores, indigentes y a las personas con discapacidad sin recursos;
 
 IX. Intervenir en el ejercicio de la tutela de menores, que corresponda al Estado en los términos de la ley, y auxiliar al Ministerio Público en la protección de incapaces y en los procedimientos civiles y familiares que les afecten de acuerdo a la Ley;
 
@@ -2054,3 +2064,21 @@ El Sistema Municipal a que se refiere el Artículo 103 Bis se instalará dentro 
 ###### ARTÍCULO TERCERO.
 
 El Ayuntamiento de cada Municipio del Estado de Aguascalientes contará con doscientos setenta días a partir de la entrada en vigencia de este Decreto para emitir los Reglamentos a que se refieren las Fracciones I, II y III del Artículo 92 Bis de este ordenamiento.
+
+P.O. 12 DE JULIO DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes deberá realizar las adecuaciones necesarias a la normatividad reglamentaria en un plazo máximo de 180 días naturales contados a partir de la entrada en vigencia del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado, gestionará ante las autoridades gubernamentales una partida presupuestaria dentro del Ejercicio Fiscal del año 2011, con la finalidad de comenzar a implementar las obligaciones que se desprenden de este Decreto. Para los subsecuentes Presupuestos de Egresos se deberá contemplar una partida para el mantenimiento y operación permanente de los establecimientos a que hace referencia el Artículo 14 en su Fracción VI, de la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar aprobado en este Decreto.
+
+###### ARTICULO CUARTO.
+
+Una vez publicado el presente Decreto en el Periódico Oficial del Estado, los municipios deberán emitir sus reglas en un plazo máximo de 180 días naturales contados a partir de la entrada en vigencia del presente Decreto.
