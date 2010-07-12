@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2009-04-27"
+last_updated: "2010-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACION FAMILIAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -77,7 +77,9 @@ VI.- Mujeres en períodos de gestación o lactancia;
 
 VII.- Personas con discapacidad por causa de ceguera, debilidad visual, sordera, mudez, alteraciones de sistema neuro-músculo-esquelético, deficiencias mentales, problemas de lenguaje u otras deficiencias;
 
-VIII.- Ancianos en desamparo, con incapacidad, marginados o sujetos a maltrato;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+
+VIII.- Personas Adultas Mayores, con incapacidad, marginados o sujetos a maltrato;
 
 IX.- Indigentes;
 
@@ -179,13 +181,19 @@ Para los efectos de esta Ley se entienden como servicios básicos en materia de 
 
 I.- La atención a personas que por sus carencias económicas o por problemas de discapacidad, o por problemas de violencia intrafamiliar e institucional se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-II.- La atención en establecimientos especializados, a menores y senectos en estado de abandono o desamparo, así como a las víctimas de la violencia intrafamiliar e institucional así como a las víctimas de delitos sexuales;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
 
-III.- La promoción del bienestar del anciano y el desarrollo de acciones de preparación para la senectud;
+II.- La atención en establecimientos especializados, a menores y personas adultas mayores en estado de abandono o desamparo, así como a las víctimas de la violencia intrafamiliar e institucional así como a las víctimas de delitos sexuales, además se buscará la creación de establecimientos preferentemente para indigentes en términos del Artículo 14, Fracción VI. En este caso se podrán utilizar las instalaciones que se cuenten para este fin;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+
+III.- La promoción del bienestar de las personas adultas mayores y el desarrollo de acciones de preparación para la senectud;
 
 IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
 
-V.- La prestación de servicios de asistencia psicológica, representación, jurídica y orientación social, especialmente a menores, personas víctimas de violencia intrafamiliar o institucional, abuso y hostigamiento sexual, ancianos, personas con discapacidad sin recursos;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+
+V.- La prestación de servicios de asistencia psicológica, representación, jurídica y orientación social, especialmente a menores, personas víctimas de violencia intrafamiliar o institucional, abuso y hostigamiento sexual, personas adultas mayores, indigentes, personas con discapacidad sin recursos;
 
 VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -203,7 +211,9 @@ XI.- La promoción del desarrollo, el mejoramiento y la integración social y fa
 
 XII.- El desarrollo comunitario en localidades y zonas social y económicamente marginadas;
 
-XIII.- El establecimiento y manejo de centros dedicados a la atención de menores en estado de abandono o maltrato, personas con discapacidad mental, farmacodependientes, alcohólicos, menores infractores, y de orientación psicológica;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE JULIO DE 2010)</small>
+
+XIII.- El establecimiento y manejo de centros dedicados a la atención de menores en estado de abandono o maltrato, personas con discapacidad mental, indigentes, farmacodependientes, alcohólicos, menores infractores, y de orientación psicológica;
 
 XIV.- El establecimiento y manejo del Sistema Estatal de Información Básica en materia de Asistencia Social;
 
@@ -227,9 +237,17 @@ III.- La aplicación de los principios de subsidiariedad y solidaridad en el oto
 
 IV.- La operación de estancias infantiles en zonas marginadas, con servicio de horario amplio, inscribiendo prioritariamente a niños con discapacidad o niños en pobreza extrema, para facilitar el empleo productivo de las madres;
 
-V.- Aquellos servicios que por sus características requieran de atención especial; y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
 
-VI.- Los demás que otras disposiciones legales aplicables establezcan.
+V.- Aquellos servicios que por sus características requieran de atención especial;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+
+VI.- La creación de establecimientos de asistencia social para indigentes, donde puedan pernoctar, asearse y recibir alimentos. Así mismo se buscará la ministración de ropa, y la implementación de asistencia médica y psicológica; así como actividades tendientes a su reintegración social. De acuerdo a las facultades y obligaciones concedidas en esta Ley; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JULIO DE 2010)</small>
+
+VII.- Los demás que otras disposiciones legales aplicables establezcan.
 
 ###### ARTICULO 15.
 
@@ -285,7 +303,9 @@ Asimismo, llevará a cabo todas las funciones inherentes a la autorización, ins
 
 VI.- Fomentar, apoyar, coordinar, evaluar y supervisar las actividades que lleven a cabo las instituciones o asociaciones civiles y todo tipo de entidades privadas, cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
 
-VII.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono o maltrato, de senectos desamparados, personas con discapacidad mental o física y farmacodependientes.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+
+VII.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono o maltrato, de personas adultas mayores, desamparados, personas con discapacidad mental o física, farmacodependientes e indigentes;
 
 Asimismo procurará mantener, de acuerdo a los programas y recursos disponibles, en permanente funcionamiento los establecimientos del Organismo, tales como: Casa-DIF, Centros de Desarrollo, Centro de Neuropsiquiatría, Guardería, Centros de Bienestar Familiar, Centros de Atención al Senecto, albergues, y demás que se pongan en operación;
 
@@ -303,7 +323,9 @@ XIII.- Realizar y promover la capacitación de recursos humanos para la asistenc
 
 XIV.- Operar el Sistema Estatal de Información Básica en Materia de Asistencia Social a que se refiere la fracción XIV del Artículo 13 de esta Ley;
 
-XV.- Prestar servicios de asistencia psicológica, representación jurídica y de orientación social a menores, personas víctimas de violencia intrafamiliar y de delitos sexuales, senectos y personas con discapacidad sin recursos;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+
+XV.- Prestar servicios de asistencia psicológica, representación jurídica y de orientación social a menores, personas víctimas de violencia intrafamiliar y de delitos sexuales, personas adultas mayores, indigentes y personas con discapacidad sin recursos de acuerdo al Artículo 14 fracción VI;
 
 XVI.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Estado, en los términos del Código Civil para el Estado de Aguascalientes;
 
@@ -723,7 +745,7 @@ II.- Determinación de las acciones de orientación, estimulo y apoyo que llevar
 
 III.- Fijación del objeto, materia y alcances jurídicos de los compromisos que asuman las partes con reserva de las funciones de autoridad que competan al Gobierno del Estado; y
 
-IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes, siempre y cuando no sean contrarias a la moral o al derecho vigentes.
+IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes, siempre y cuando no sean contrarias a la moral o al derecho vigentes (sic).
 
 ###### ARTICULO 56.
 
@@ -773,7 +795,7 @@ Corresponde al Organismo la defensa de los bienes destinados a la beneficencia, 
 
 ###### ARTICULO 64.
 
-Las instituciones de beneficencia privada son creadas por particulares, su finalidad se considera de utilidad publica, no lucrativa y el Estado las reconoce como auxiliares de la asistencia social con capacidad para poseer un patrimonio propio, destinado a la realización de sus objetivos. Se entenderán por acciones no lucrativas y de utilidad pública, los actos ejecutados por las instituciones de beneficencia con fondos particulares, sin objeto de especulación y con un fin humanitario.
+Las instituciones de beneficencia privada son creadas por particulares, su finalidad se considera de utilidad pública, no lucrativa y el Estado las reconoce como auxiliares de la asistencia social con capacidad para poseer un patrimonio propio, destinado a la realización de sus objetivos. Se entenderán por acciones no lucrativas y de utilidad pública, los actos ejecutados por las instituciones de beneficencia con fondos particulares, sin objeto de especulación y con un fin humanitario.
 
 Las instituciones de beneficencia privada pueden ser Fundaciones o Asociaciones.
 
@@ -977,7 +999,7 @@ Las personas físicas o morales que donen bienes en favor de las instituciones c
 
 ###### ARTICULO 101.
 
-Además de los donativos a que se refiere este Capitulo, las instituciones podrán contar, a manera de aportaciones en servicios, con el auxilio de colaboradores voluntarios que con el ánimo exclusivo de prestar asistencia privada destinen parte del tiempo a realizar actividades personales sin remuneración, que permitan el cumplimiento de los objetivos de una asociación o fundación.
+Además de los donativos a que se refiere este Capítulo, las instituciones podrán contar, a manera de aportaciones en servicios, con el auxilio de colaboradores voluntarios que con el ánimo exclusivo de prestar asistencia privada destinen parte del tiempo a realizar actividades personales sin remuneración, que permitan el cumplimiento de los objetivos de una asociación o fundación.
 
 ### CAPITULO VII. De los Fundadores y Patronos de las Instituciones de Beneficencia Privada
 
@@ -1079,7 +1101,7 @@ VI.- Remitir al Organismo los documentos y rendirle oportunamente los informes q
 
 VII.- Practicar las operaciones que determinen los estatutos de las instituciones a su cargo y las que autoriza la Ley;
 
-VIII.- Ejercitar las acciones y defensas que correspondan a dichas instituciones, y hacer que se cumpla el objeto para que fueron constituidas, acatando estrictamente sus estatutos;
+VIII.- Ejercitar las acciones y defensas que correspondan a dichas instituciones, y hacer que se cumpla el objeto para que fueron constituidas (sic), acatando estrictamente sus estatutos;
 
 IX.- Obedecer las instrucciones del Organismo, cuando éstos tiendan a corregir un error o una práctica viciosa;
 
@@ -1436,3 +1458,21 @@ P.O. 27 DE ABRIL DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JULIO DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes deberá realizar las adecuaciones necesarias a la normatividad reglamentaria en un plazo máximo de 180 días naturales contados a partir de la entrada en vigencia del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado, gestionará ante las autoridades gubernamentales una partida presupuestaria dentro del Ejercicio Fiscal del año 2011, con la finalidad de comenzar a implementar las obligaciones que se desprenden de este Decreto. Para los subsecuentes Presupuestos de Egresos se deberá contemplar una partida para el mantenimiento y operación permanente de los establecimientos a que hace referencia el Artículo 14 en su Fracción VI, de la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar aprobado en este Decreto.
+
+###### ARTICULO CUARTO.
+
+Una vez publicado el presente Decreto en el Periódico Oficial del Estado, los municipios deberán emitir sus reglas en un plazo máximo de 180 días naturales contados a partir de la entrada en vigencia del presente Decreto.
