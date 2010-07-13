@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-medio-ambiente-y-21421"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-04"
-last_updated: "2009-09-14"
+last_updated: "2010-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CAM"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE MEDIO AMBIENTE Y APROVECHAMIENTO SUSTENTABLE DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. 14 DE SEPTIEMBRE DE 2009, TODA MENCIÓN, O REFERENCIA HECHA A LA "SECRETARÍA DE ECOLOGÍA DEL ESTADO DE CAMPECHE", SE ENTENDERÁ COMO HECHA A LA "SECRETARÍA DE MEDIO AMBIENTE Y APROVECHAMIENTO SUSTENTABLE DEL ESTADO DE CAMPECHE".</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y APROVECHAMIENTO SUSTENTABLE DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. 13 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el jueves 4 de junio de 2001.
 
@@ -527,28 +527,34 @@ Primero.- El presente decreto entrará en vigor el día 16 de septiembre de 2009
 
 Segundo.- Se abroga la Ley Orgánica de la Administración Pública del Estado de Campeche, publicada en el Periódico Oficial del Estado de fecha 26 de octubre de 1991, así como las reformas y adiciones que en su oportunidad se le hicieron, y se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
 
-Hasta en tanto se expidan los Reglamentos Interiores de las dependencias y de las unidades de la Oficina del Gobernador que se crean en la Ley Orgánica a que este decreto se contrae, y se hacen las adecuaciones correspondientes a los Reglamentos Interiores de las dependencias y unidades de la precitada Oficina cuyas atribuciones se redefinen, se continuaran aplicando, en lo conducente, las disposiciones de los Reglamentos Interiores en vigor, así como el Acuerdo del Ejecutivo que Establece la Estructura y Atribuciones de las Unidades de Asesoría y Apoyo del Titular del Poder Ejecutivo del Estado de Campeche, en lo que no contravengan las de esta nueva ley.
+Hasta en tanto se expidan los Reglamentos Interiores de las dependencias y de las unidades de la Oficina del Gobernador que se crean en la Ley Orgánica a que este decreto se contrae y se hacen las adecuaciones correspondientes a los Reglamentos Interiores de las dependencias y unidades de la precitada Oficina cuyas atribuciones se redefinen, se continuaran aplicando, en lo conducente, las disposiciones de los Reglamentos Interiores en vigor, así como el Acuerdo del Ejecutivo que Establece la Estructura y Atribuciones de las Unidades de Asesoría y Apoyo del Titular del Poder Ejecutivo del Estado de Campeche, en lo que no contravengan las de esta nueva ley.
 
-Tercero.- Los recursos humanos y materiales, incluida la documentación; mobiliario y equipo de las dependencias existentes que, por razón de las competencias establecidas en este decreto, deban transferirse a las nuevas dependencias correspondientes, serán remitidos y puestos a disposición de éstas por los responsables de su trámite y custodia con la asistencia de la Secretaría de Administración e Innovación Gubernamental.
+Tercero.- Los recursos humanos y materiales, incluida la documentación; mobiliario y equipo de las dependencias existentes que, por razón de las competencias establecidas en este decreto, deban transferirse a las nuevas dependencias correspondientes, serán remitidos y puestos a disposición de éstas por los responsables de su trámite y custodia con la asistencia de la Secretaria de Administración e Innovación Gubernamental.
 
-En el caso de la Secretaría de Finanzas y Administración que por este Decreto se escinde, para quedar en dos nuevas dependencias, la primera de ellas con la denominación de Secretaría de Finanzas, conservará al personal de base adscrito a las Subsecretarías de Ingresos y Egresos de la dividida Secretaría y, la segunda ahora denominada Secretaría de Administración e Innovación Gubernamental conservará al personal de base adscrito a la Subsecretaría de Administración de la precitada Secretaría de Finanzas y Administración.
+En el caso de la Secretaría de Finanzas y Administración que por este Decreto se escinde, para quedar en dos nuevas dependencias; la primera de ellas con la denominación de Secretaría de Finanzas, conservará al personal de base adscrito a las Subsecretarías de Ingresos y Egresos de la dividida Secretaría y, la segunda ahora denominada Secretaría de Administración e Innovación Gubernamental conservará al personal de base adscrito a la Subsecretaría de Administración de la precitada Secretaría de Finanzas y Administración.
 
 En los casos de que otras leyes atribuyan a la Secretaria de Finanzas y Administración los actos de planeación y autorización de los proyectos de inversión, tales facultades se entenderán conferidas ahora a la Secretaría de Coordinación que en este decreto se crea.
 
 Cuarto.- Las referencias que se hacen en las leyes, reglamentos y acuerdos del Ejecutivo vigentes en el Estado a la Secretaria de Finanzas y Administración, se entenderán hechas a la Secretaría de Finanzas o a la Secretaría de Administración e Innovación Gubernamental, según corresponda a las nuevas atribuciones conferidas a cada una por este decreto.
 
-Lo anterior se observará también con relación a los derechos y obligaciones que se deriven de los convenios, contratos y cualquiera otro acto jurídico que la Secretaría de Finanzas y Administración haya celebrado con dependencias y entidades de la Federación, de otros estados o de los municipios del Estado, así como con particulares.
+Lo anterior se observará también con relación a los derechos y obligaciones que se deriven de los convenios, contratos y cualquiera otro acto jurídico que la Secretaría de Finanzas y Administración haya celebrado con dependencias y entidades de la Federación, de otros estados o de los municipios del Estado, así como con particulares
 
 Quinto.- Las referencias que se hacen en las leyes, reglamentos y acuerdos del Ejecutivo vigentes en el Estado a la Secretaría de Educación, Cultura y Deporte, se entenderán hechas a la Secretaría de Educación o a la Secretaría de Cultura según corresponda a las nuevas atribuciones conferidas a cada una por este decreto.
 
 Lo anterior se observará también con relación a los derechos y obligaciones que se deriven de los convenios, contratos y cualquiera otro acto jurídico que la Secretaría de Educación, Cultura y Deporte haya celebrado con dependencias y entidades de la Federación, de otros estados o de los municipios del Estado, así como con particulares.
 
-En el caso de la Secretaría de Educación, Cultura y Deporte que por este decreto se escinde, para quedar en dos nuevas dependencias, la primera de ellas con la denominación de Secretaría de Educación, conservará al personal de base adscrito de acuerdo a las funciones y atribuciones conferidas por esta Ley; la segunda, ahora denominada Secretaría de Cultura, conservará al personal de base adscrito al Instituto de Cultura de Campeche. Con la creación de la Secretaría de Cultura, se abroga la Ley que Crea el Instituto de Cultura de Campeche, publicada en el Periódico Oficial del Estado, el 31 de diciembre de 1985.
+En el caso de la Secretaría de Educación, Cultura y Deporte que por este decreto se escinde, para quedar en dos nuevas dependencias, la primera de ellas con la denominación de Secretaría de Educación, conservará al personal de base adscrito de acuerdo a las funciones y atribuciones conferidas por esta Ley; la segunda, ahora denominada Secretaria de Cultura, conservará al personal de base adscrito al Instituto de Cultura de Campeche. Con la creación de la Secretaría de Cultura, se abroga la Ley que Crea el Instituto de Cultura de Campeche, publicada en el Periódico Oficial del Estado, el 31 de diciembre de 1985.
 
-Sexto.- Las referencias que se hacen en las leyes, reglamentos y acuerdos del Ejecutivo vigentes en el Estado a la Secretaría de Desarrollo Social, Secretaría de Ecología, Secretaría de Pesca, Secretaría de Fomento Industrial y Comercial, Secretaría de Obras Públicas y Comunicaciones y Secretaría de Seguridad Pública, en lo sucesivo se entenderán como hechas a la Secretaría de Desarrollo Social y Regional, Secretaría de Medio Ambiente y Aprovechamiento Sustentable, Secretaría de Pesca y Acuacultura, Secretaría de Desarrollo Industrial y Comercial, Secretaría de Desarrollo Urbano y Obras Públicas y Secretaría de Seguridad Pública y Protección a la Comunidad, respectivamente.
+Sexto.- Las referencias que se hacen en las leyes, reglamentos y acuerdos del Ejecutivo vigentes en el Estado a la Secretaría de Desarrollo Social, Secretaría de Ecología, Secretaría de Pesca, Secretaría de Fomento Industrial y Comercial, Secretaría de Obras Públicas y Comunicaciones y Secretaría de Seguridad Pública en lo sucesivo se entenderán como hechos a la Secretaría de Desarrollo Social y Regional, Secretaría de Medio Ambiente y Aprovechamiento Sustentable, Secretaría de Pesca y Acuacultura, Secretaría de Desarrollo Industrial y Comercial, Secretaría de Desarrollo Urbano y Obras Públicas y Secretaría de Seguridad Pública y Protección a la Comunidad, respectivamente.
 
 Lo anterior se observará también con relación a los derechos y obligaciones que se deriven de los convenios, contratos y cualquiera otro acto jurídico que las dependencias en cuestión hayan celebrado con dependencias y entidades de la Federación, de otros estados o de los municipios del Estado, así como con particulares.
 
-Séptimo.- Los programas, convenios, contratos, acuerdos, actos jurídicos y demás asuntos jurídicos, contractuales, administrativos, litigiosos, jurisdiccionales y resolutivos a cargo de las dependencias que se reestructuran y de las que sin reestructurarse fueron afectadas en sus atribuciones, que se encontraren en curso o pendientes de su resolución en el momento de iniciar su vigencia el presente Decreto, se continuarán y serán despachados por las dependencias a las que corresponda ahora el conocimiento de las materias sobre los cuales aquellos versen.
+Séptimo.- Los programas, convenios, contratos, acuerdos, actos jurídicos y demás asuntos jurídicos, contractuales, administrativos, litigiosos, jurisdiccionales y resolutivos a cargo de las dependencias que se reestructuran y de las que sin reestructurarse fueron afectadas en sus atribuciones, que se encontraren en curso o pendientes de su resolución en el momento de iniciar su vigencia el presente Decreto, se continuarán y serán despachados por las dependencias a las que corresponda, ahora el conocimiento de las materias sobre los cuales aquellos versen.
 
-Octavo.- El Gobernador del Estado realizará las adecuaciones correspondientes a la Ley de Presupuesto de Egresos para el ejercicio fiscal 2009, a fin de tomar las previsiones presupuestales necesarias para el debido cumplimiento de lo ordenado por este decreto
+Octavo.- El Gobernador del Estado realizará las adecuaciones correspondientes a la Ley de Presupuesto de Egresos para el ejercicio fiscal 2009, a fin de tomar las previsiones presupuestales necesarias para el debido cumplimiento de lo ordenado por este decreto.
+
+P.O. 13 DE JULIO DE 2010.
+
+Primero.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Ecología expedido el ocho de marzo del año dos mil uno y publicado en el Periódico Oficial del Estado con fecha cuatro de junio del año dos mil uno, y se derogan todas las demás disposiciones reglamentarias y administrativas de carácter general, expedidas por el Ejecutivo del Estado, en lo que se opongan al contenido del presente Acuerdo.
