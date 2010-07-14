@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2010-03-31"
+last_updated: "2010-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2010.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1098,6 +1098,10 @@ XXXV.- Expedir la Ley de Pensiones Civiles, en virtud de la cual se establezca c
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 XXXVI.- Conceder pensiones a los servidores del Estado que queden incapacitados total o parcialmente para el trabajo con motivo de sus actividades o funciones; y a sus viudas o huérfanos cuando aquéllos perdieran la vida por la causa expresada.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2010)</small>
+
+Así mismo, a los miembros pertenecientes a los grupos de voluntarios integrantes del Sistema Estatal de Protección Civil del Estado de Chihuahua, que presten un servicio no remunerado y que por motivo de su actividad, queden incapacitados total o parcialmente para el trabajo o funciones; y a sus viudas o huérfanos cuando aquéllos perdieran la vida por los mismos motivos.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3555,7 +3559,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 Las disposiciones relativas a los nuevos requisitos para su designación, así como la periodicidad en el ejercicio del cargo del Auditor Superior del Estado, serán aplicables a partir de la próxima elección de dicho servidor público.
 
-P.O. 9 DE SEPTIEMBRE DE 2009
+P.O. 9 DE SEPTIEMBRE DE 2009.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3586,3 +3590,9 @@ P.O. 31 DE MARZO DE 2010.
 PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política Local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2010.
+
+PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de ha de haber sido aprobada la reforma a la Constitución Política local. Realizado que sea, publíquese el Decreto en el Periódico Oficial del Estado, para que su Artículo Primero entre en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Las reformas a la Ley de Protección Civil del Estado de Chihuahua, contenidas en el Artículo Segundo del presente Decreto, surtirán vigencia un día después de la entrada en vigor de la reforma constitucional antes citada.
