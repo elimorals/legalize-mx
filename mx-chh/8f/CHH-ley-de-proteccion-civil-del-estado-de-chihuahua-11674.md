@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-civil-del-estado-de-chihuahua-11674"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-19"
-last_updated: "2006-09-27"
+last_updated: "2010-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCION CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 19 de junio de 1996.
 
@@ -173,9 +173,9 @@ XXIV.- Damnificado: Persona cuyos bienes, entorno o medios de subsistencia regis
 
 XXV.- Evacuado/albergado: Persona que con carácter precautorio y ante la posibilidad o certeza de la ocurrencia de un desastre, es retirado por la autoridad de su lugar de alojamiento usual, para instalarlo en un refugio temporal, a fin de garantizar tanto su seguridad como la satisfacción de sus necesidades básicas;
 
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2010)</small>
 
-XXVI.- Grupos voluntarios: las instituciones, organizaciones y asociaciones que cuenten con el personal, conocimiento, experiencia y equipos necesarios, y presten sus servicios en acciones de protección civil de manera altruista y comprometida;
+XXVI. Grupos voluntarios: las instituciones, brigadas, organizaciones y asociaciones que cuenten con el personal, conocimiento, experiencia y equipos necesarios, y presten sus servicios en acciones de protección civil de manera altruista y comprometida;
 
 > <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
@@ -558,6 +558,10 @@ XVIII.- Las demás que le sean conferidas por otras disposiciones legales.
 ###### Artículo 23.
 
 Esta Ley reconoce como grupos voluntarios a las Instituciones y Asociaciones Federales, Estatales y Municipales; que cumpliendo con lo que dispone el artículo 5, fracción XXVI; obtengan su registro ante la instancia de la Unidad Municipal de Protección Civil y la Unidad Estatal de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2010)</small>
+
+Los miembros de grupos a que se refiere el párrafo anterior, fuera del supuesto del primer párrafo de la fracción XXXVI del artículo 64 de la Constitución Política del Estado de Chihuahua, podrán gozar de los beneficios que establece el segundo párrafo de dicha fracción, cuando el H. Congreso del Estado estime que existen los suficientes méritos para ello.
 
 ###### Artículo 24.
 
@@ -1042,3 +1046,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los inmuebles o establecimientos que por su propia naturaleza o por el uso al que se han destinado reciban una afluencia masiva de personas, y que no cuenten con los sistemas contraincendios a la entrada en vigor de este Decreto, deberán instalarlos en un plazo de un año, a partir de la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2010.
+
+PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de ha de (sic) haber sido aprobada la reforma a la Constitución Política local. Realizado que sea, publíquese el Decreto en el Periódico Oficial del Estado, para que su Artículo Primero entre en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Las reformas a la Ley de Protección Civil del Estado de Chihuahua, contenidas en el Artículo Segundo del presente Decreto, surtirán vigencia un día después de la entrada en vigor de la reforma constitucional antes citada.
