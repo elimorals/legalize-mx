@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-lenguas-51533"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-09-01"
-last_updated: "2006-09-01"
+last_updated: "2010-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51533&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-13"
 
 ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE LENGUAS INDIGENAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2010.
 
 Estatuto publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 1 de septiembre de 2006.
 
@@ -33,9 +33,11 @@ ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE LENGUAS INDIGENAS
 
 ### Capítulo Primero. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2010)</small>
+
 ###### Artículo 1.
 
-El presente Estatuto tiene por objeto establecer las bases de organización del Consejo Nacional del Instituto Nacional de Lenguas Indígenas, así como la estructura básica, las facultades y funciones del Instituto Nacional de Lenguas Indígenas.
+El presente Estatuto tiene por objeto establecer las bases de organización del Consejo Nacional del Instituto Nacional de Lenguas Indígenas, así como la estructura básica, las facultades y funciones de las Unidades Administrativas del Instituto Nacional de Lenguas Indígenas.
 
 ###### Artículo 2.
 
@@ -49,7 +51,9 @@ III. Consejeros: Los representantes que integran el Consejo Nacional del Institu
 
 IV. Director General: El Director General del Instituto Nacional de Lenguas Indígenas;
 
-V. Estatuto: El Estatuto Orgánico del Instituto Nacional de Lenguas Indígenas;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+V. Estatuto: El presente Estatuto Orgánico del Instituto Nacional de Lenguas Indígenas;
 
 VI. Instituto: El Instituto Nacional de Lenguas Indígenas;
 
@@ -71,17 +75,21 @@ El Consejo Nacional se integrará y funcionará de acuerdo con lo previsto en lo
 
 Los consejeros representantes de las Secretarías de Desarrollo Social, de Comunicaciones y Transportes, y de Relaciones Exteriores, así como del Consejo Nacional para la Cultura y las Artes, y de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, deberán tener el nivel de director general, para el caso de las dependencias o su equivalente en las entidades.
 
-El cargo de consejero será honorífico por lo que los consejeros no podrán recibir remuneración alguna por su desempeño como tales.
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2010)</small>
+
+El cargo de consejero será honorífico, por lo que los miembros que lo ostenten, durante su gestión, no podrán recibir remuneración alguna.
 
 Los consejeros, representantes de la Administración Pública Federal en el Consejo Nacional, podrán designar a sus respectivos suplentes, que deberán tener cuando menos el nivel de director de área para el caso de las dependencias o su equivalente en las entidades.
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2010)</small>
+
 ###### Artículo 5.
 
-Los tres representantes de escuelas, instituciones de educación superior y universidades indígenas, así como los tres representantes de instituciones académicas y organismos civiles a que se refiere el artículo 16 de la Ley permanecerán en el Consejo Nacional por un periodo de tres años.
+Los tres representantes de escuelas, instituciones de educación superior y universidades indígenas, así como los tres representantes de instituciones académicas y organismos civiles, a que se refiere el artículo 16 de la Ley, permanecerán en el Consejo Nacional por un periodo de tres años.
 
-Para la renovación de los consejeros representantes de las instituciones a que se refiere el párrafo anterior, todos los integrantes del Consejo Nacional propondrán una terna por cada uno de los consejeros a sustituir. La elección de estos consejeros, se hará en una reunión expresamente convocada para tal efecto por el Presidente del Consejo Nacional, entre los representantes de la Administración Pública Federal, la que tendrá validez siempre que estén presentes al menos cinco de los siete. El Director General podrá asistir a dicha reunión con voz pero sin voto y las decisiones serán tomadas por mayoría simple de los presentes.
+Para la renovación de los consejeros representantes de las instituciones a que se refiere el párrafo anterior, todos los integrantes del Consejo Nacional propondrán al menos un candidato como representante de escuelas, instituciones de educación superior y universidades indígenas y otro candidato como representante de instituciones académicas y organismos civiles de los consejeros a sustituir. La elección de estos consejeros, se hará en una reunión expresamente convocada para tal efecto por el Presidente del Consejo Nacional, entre los representantes de la Administración Pública Federal, la que tendrá validez siempre que estén presentes al menos cinco de los siete. El Director General podrá asistir a dicha reunión con voz pero sin voto y las decisiones serán tomadas por mayoría simple de los presentes.
 
-El procedimiento descrito en este artículo, será aplicado en caso de incapacidad, ausencia permanente o renuncia al Consejo Nacional o al organismo al que pertenece, de alguno de los consejeros distintos a los representantes de la Administración Pública Federal.
+El procedimiento descrito en este artículo, será aplicado en caso de incapacidad, ausencia permanente o renuncia al Consejo Nacional, de alguno de los consejeros distintos a los representantes de la Administración Pública Federal.
 
 ###### Artículo 6.
 
@@ -97,11 +105,15 @@ IV. Designar, en caso de ausencia, a la persona que presidirá la sesión;
 
 V. Firmar las actas de las sesiones, y
 
-VI. Las demás que se indican en la Ley y en este Estatuto.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+VI. Las demás que se indican en la Ley Federal de las Entidades Paraestatales, en este Estatuto y las demás aplicables.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 7.
 
-El Consejo Nacional contará con un Secretario y un Prosecretario, quienes serán nombrados y removidos en términos de lo dispuesto por el artículo 58, fracción XII de la Ley Federal de las Entidades Paraestatales y el 44, fracción VI del Reglamento Interior de la Secretaría.
+El Consejo Nacional contará con un Secretario y un Prosecretario, quienes serán nombrados y removidos en términos de lo dispuesto por el artículo 58, fracción XII, de la Ley Federal de las Entidades Paraestatales, y el 44, fracción VI, del Reglamento Interior de la Secretaría.
 
 ###### Artículo 8.
 
@@ -109,7 +121,9 @@ El Secretario del Consejo Nacional será responsable de:
 
 I. Proponer el calendario anual de sesiones ordinarias;
 
-II. Proponer el orden del día, considerando las opiniones del Presidente, de los Consejeros, de los Comisarios y del Director General;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+II. Proponer el Orden del Día, considerando las opiniones del Presidente, de los Consejeros, de los Comisarios y del Director General;
 
 III. Firmar las convocatorias que formule el Presidente;
 
@@ -119,11 +133,15 @@ V. Pasar lista de asistencia e informar al Presidente si hay quórum para que el
 
 VI. Recoger las votaciones;
 
-VII. Revisar los proyectos de actas y acuerdos de las sesiones y someterlas a la aprobación del Consejo Nacional;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+VII. Revisar los proyectos de actas y acuerdos de las sesiones, y someterlas a la aprobación del Consejo Nacional;
 
 VIII. Suscribir las actas de las sesiones en unidad con el Presidente del Consejo Nacional;
 
-IX. Expedir, cuando se le requiera, constancia de los acuerdos tomados en las sesiones, y
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+IX. Expedir, cuando se le requiera, constancia de los acuerdos tomados en las sesiones; y
 
 X. Las demás que acuerde el Consejo Nacional.
 
@@ -135,39 +153,59 @@ I. Apoyar al Secretario del Consejo Nacional en el cumplimiento de sus funciones
 
 II. Levantar los proyectos de actas y acuerdos de las sesiones y someterlas a la revisión del Secretario;
 
-III. Conservar bajo su custodia las actas de las sesiones del Consejo Nacional, y
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
 
-IV. Apoyar al Secretario en el seguimiento de los acuerdos tomados por el Consejo Nacional.
+III. Conservar bajo su custodia las actas de las sesiones del Consejo Nacional; y (sic)
+
+IV. Apoyar al Secretario en el seguimiento de los acuerdos tomados por el Consejo Nacional;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+V. Emitir copias certificadas de las actas.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 10.
 
-El Consejo Nacional además de las previstas en la Ley y en el artículo 58 de la Ley Federal de las Entidades Paraestatales ejercerá las siguientes atribuciones:
+El Consejo Nacional además de las previstas en la Ley y en el artículo 58, de la Ley Federal de las Entidades Paraestatales, ejercerá las siguientes atribuciones:
 
-I. Modificar y adicionar el presente Estatuto, y en su caso, derogarlo y emitir uno nuevo;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+I. Modificar y adicionar el presente Estatuto, y en su caso, derogarlo para emitir uno nuevo;
 
 II. Elaborar y mantener actualizado el Catálogo de Lenguas Indígenas y gestionar su publicación en el Diario Oficial de la Federación, y
 
-III. Llevar a cabo todos los actos y desempeñar todas aquellas previstas en las leyes que resulten necesarias para el eficaz funcionamiento del Instituto.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+III. Llevar a cabo todos los actos y desempeñar todas aquellas acciones previstas en las leyes que resulten necesarias para el eficaz funcionamiento del Instituto.
 
 ###### Artículo 11.
 
-El Consejo Nacional se reunirá en sesión ordinaria cada seis meses, conforme al calendario que apruebe en la primera sesión ordinaria del ejercicio. Asimismo, a propuesta de su Presidente, podrá reunirse en cualquier tiempo en sesión extraordinaria.
+(DEROGADO, D.O.F. 14 DE JULIO DE 2010)
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 12.
 
-La convocatoria para las sesiones, ordinarias o extraordinarias, deberá incluir el orden del día así como la información sobre los temas a tratar y será entregada por el Prosecretario a los miembros del Consejo Nacional con antelación no menor a cinco días hábiles en el caso de las sesiones ordinarias y tres días hábiles en el de las extraordinarias. En el caso de sesiones ordinarias deberá acompañarse, también el acta de la sesión anterior.
+La convocatoria para las sesiones, ordinarias o extraordinarias, deberá incluir el orden del día así como la información sobre los temas a tratar, y será entregada por el Prosecretario a los miembros del Consejo Nacional con antelación no menor a cinco días hábiles, en el caso de las sesiones ordinarias, y tres días hábiles en el de las extraordinarias. Los envíos podrán hacerse por medios electrónicos. En el caso de sesiones ordinarias, deberá acompañarse, también el acta de la sesión anterior.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 13.
 
-El Director General propondrá al Consejo Nacional, por conducto del Secretario, los temas que considere necesarios y oportunos incluir en el orden del día de cada sesión.
+El Director General propondrá al Consejo Nacional, por conducto del Secretario, los temas que considere necesario y oportuno incluir en el orden del día de cada sesión.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 14.
 
-El Presidente del Consejo Nacional, por iniciativa propia o a sugerencia de cualquiera de los miembros del Consejo Nacional o del Director General, podrá invitar a las sesiones de éste a las personas relacionadas con los asuntos que se tratarán. Los invitados tendrán derecho a voz, pero no a voto.
+El Presidente del Consejo Nacional, por iniciativa propia y el Director General, previo acuerdo, podrá invitar a las sesiones de éste a las personas relacionadas con los asuntos que se tratarán. Los invitados tendrán derecho a voz, pero no a voto.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 15.
 
-El Consejo Nacional sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la Administración Pública Federal. El titular de la Secretaría, o quien éste designe como su suplente, presidirá las sesiones. Asistirán a las sesiones con voz pero sin voto, el Director General del Instituto, el Secretario, el Prosecretario y los Comisarios.
+El Consejo Nacional sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros. El titular de la Secretaría, o quien éste designe como su suplente, presidirá las sesiones. Asistirán a las sesiones con voz pero sin voto, el Director General del Instituto, el Secretario, el Prosecretario y los Comisarios.
 
 Las resoluciones se tomarán por mayoría de los consejeros presentes, el Presidente tendrá voto de calidad para el caso de empate. Todos los acuerdos tomados en las sesiones serán numerados y asentados en las actas, que deberán firmar el Presidente y el Secretario, quien dará fe.
 
@@ -181,13 +219,17 @@ I. Dirección General;
 
 II. Dirección General Adjunta Académica y de Políticas Lingüísticas;
 
-III. Dirección General Adjunta de Coordinación y Enlace;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+III. Dirección General Adjunta de Coordinación;
 
 IV. Dirección de Investigación;
 
-V. Dirección de Evaluación, Acreditación y Certificación;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
 
-VI. Dirección de Proyectos, Vinculación y Capacitación;
+V. Dirección de Acreditación, Certificación y Capacitación;
+
+VI. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
 VII. Dirección de Políticas Lingüísticas;
 
@@ -203,17 +245,19 @@ El Instituto contará con un Organo Interno de Control que se regirá conforme a
 
 El Instituto contará además con las subdirecciones, jefaturas de departamento y demás cargos y personal que determine el Director General, de acuerdo con las disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2010)</small>
+
 ###### Artículo 17.
 
-Las Direcciones Generales Adjuntas acordarán con el Director General el despacho de los asuntos de las Direcciones adscritas a su responsabilidad.
+Los titulares de las Direcciones Generales Adjuntas acordarán con el Director General el despacho de los asuntos de las direcciones adscritas a su responsabilidad.
 
-Las Direcciones a que se refiere el artículo 16 de este Estatuto se adscriben de conformidad con lo siguiente:
+Las direcciones a que se refiere el artículo 16 de este Estatuto se adscriben de conformidad con lo siguiente:
 
-I. A la Dirección General, las Direcciones de Administración y Finanzas, y de Tecnologías de la Información;
+I. A la Dirección General, las direcciones de Administración y Finanzas, y de Tecnologías de la Información;
 
-II. A la Dirección General Adjunta Académica y de Políticas Lingüísticas, las Direcciones de Investigación; de Evaluación, Acreditación y Certificación; de Proyectos, Vinculación y Capacitación, y la de Políticas Lingüísticas, y
+II. A la Dirección General Adjunta Académica y de Políticas Lingüísticas se adscriben, las direcciones de Investigación; de Acreditación, Certificación y Capacitación, y la de Políticas Lingüísticas, y
 
-III. A la Dirección General Adjunta de Coordinación y Enlace, las Direcciones de Asuntos Jurídicos, y de Comunicación Social y Enlace.
+III. A la Dirección General Adjunta de Coordinación se adscriben, las direcciones de Asuntos Jurídicos y la de Comunicación Social y Enlace.
 
 ### Capítulo Cuarto. DE LA DIRECCION GENERAL
 
@@ -233,7 +277,9 @@ II. Dirigir, organizar, programar, presupuestar, administrar, controlar y evalua
 
 III. De conformidad con el presupuesto aprobado, establecer coordinaciones especiales para proyectos específicos y grupos de trabajo;
 
-IV. Presidir las reuniones de los comités y demás órganos colegiados con que cuente el Instituto, con la facultad de delegar su representación cuando lo considere oportuno, y
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+IV. Presidir las reuniones de los comités y demás órganos colegiados con que cuente el Instituto, con la facultad de delegar su representación cuando lo considere oportuno; y
 
 V. Las demás que le confieran el presente Estatuto y los demás ordenamientos aplicables.
 
@@ -249,19 +295,21 @@ II. Coordinar en las direcciones a su cargo, el establecimiento de estrategias, 
 
 III. Determinar los lineamientos y criterios para la planeación y evaluación de los programas operados por las direcciones a su cargo;
 
-IV. Coordinar la construcción de indicadores estratégicos y de gestión de los programas operados por las direcciones a su cargo;
+IV. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
-V. Coordinarse entre sí, para el mejor desarrollo de las atribuciones que les han sido conferidas;
+V. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
 VI. Acordar con el Director General el despacho de los asuntos encomendados a las direcciones bajo su adscripción e informarle oportunamente sobre los mismos;
 
 VII. Someter a la aprobación del Director General los estudios y demás proyectos que elaboren las direcciones a su cargo;
 
-VIII. Intervenir en la elaboración de proyectos de leyes, reglamentos, decretos, acuerdos y demás ordenamientos jurídicos, dentro de sus respectivos ámbitos de competencia, y en aquellos que les encomiende el Director General;
+VIII. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
 IX. Expedir las políticas, normas, programas, lineamientos y criterios sobre el ejercicio de las atribuciones encomendadas a las direcciones de su adscripción;
 
-X. Verificar que se cumpla estrictamente con los ordenamientos jurídicos, así como con los lineamientos y criterios que se emitan sobre los mismos, en todos los asuntos de su competencia;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+X. Verificar que se cumpla con los ordenamientos jurídicos, así como con los lineamientos y criterios que se emitan sobre los mismos, en todos los asuntos de su competencia;
 
 XI. Formular actas administrativas para la imposición de sanciones de carácter laboral a las que el personal de la Institución se haga acreedor; las cuales deberán ser presentadas ante la Dirección de Asuntos Jurídicos para su dictaminación;
 
@@ -287,7 +335,7 @@ Son atribuciones de la Dirección General Adjunta Académica y de Políticas Lin
 
 I. Diseñar estrategias e instrumentos para el uso, fortalecimiento y desarrollo de las lenguas indígenas nacionales, en coordinación con los órdenes de gobierno, así como con los pueblos y comunidades indígenas existentes en nuestro país;
 
-II. Promover y apoyar la creación y funcionamiento de institutos de lenguas indígenas en las entidades federativas y municipios con población hablante de lenguas indígenas;
+II. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
 III. Promover programas, proyectos y acciones para vigorizar el conocimiento de las culturas y lenguas indígenas nacionales por parte de la sociedad nacional;
 
@@ -305,11 +353,15 @@ IX. Formular y realizar proyectos de desarrollo lingüístico, literario y educa
 
 X. Definir y planear la realización de seminarios, conferencias, congresos, coloquios y todo tipo de foros académicos sobre lenguas indígenas, así como sobre investigaciones realizadas o promovidas por el Instituto;
 
-XI. Coordinar e impulsar la elaboración de gramáticas y diccionarios, la estandarización de escrituras; así como promover la lecto-escritura en lenguas indígenas nacionales;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+XI. Coordinar e impulsar la normalización en lenguas indígenas nacionales;
 
 XII. Coordinar la realización y promoción de investigación básica y aplicada para mayor conocimiento de las lenguas indígenas nacionales y promover su difusión;
 
-XIII. Coordinar a las direcciones del Instituto y servir como vínculo con el Instituto Nacional de Estadística, Geografía e Informática, en los trabajos tendientes a apoyar a éste en el diseño de la metodología para la realización del censo sociolingüístico;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+XIII. Servir como vínculo con el Instituto Nacional de Estadística y Geografía, en los trabajos tendientes a apoyar a éste en el diseño de la metodología para la realización del censo sociolingüístico;
 
 XIV. Coordinar la recopilación de la información estadística sobre lenguas indígenas que requiera el Instituto;
 
@@ -319,11 +371,15 @@ XVI. Determinar las herramientas tecnológicas necesarias para almacenar, docume
 
 XVII. Supervisar el funcionamiento del Centro de Documentación del Instituto para proporcionar el apoyo requerido por las direcciones de la entidad y los usuarios en general, y
 
-XVIII. Coordinar, conjuntamente con la Dirección General Adjunta de Coordinación y Enlace, la realización de campañas específicas de educación, divulgación y orientación a través de los medios de comunicación.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+XVIII. Proponer a la Dirección General Adjunta de Coordinación, la realización de campañas específicas de educación, divulgación y orientación a través de los medios de comunicación.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 22.
 
-Son atribuciones de la Dirección General Adjunta de Coordinación y Enlace:
+Son atribuciones de la Dirección General Adjunta de Coordinación:
 
 I. Definir y dirigir previa aprobación del Director General la política de comunicación social del Instituto de conformidad con los lineamientos que al respecto emita la Secretaría de Gobernación;
 
@@ -333,19 +389,31 @@ III. Establecer los lineamientos generales para la producción de los materiales
 
 IV. Coordinar la recopilación, análisis y procesamiento de la información nacional e internacional referente a los acontecimientos de interés para las actividades del Instituto;
 
-V. Actuar como conducto institucional ante la Secretaría de Gobernación, a efecto de atender los asuntos de índole legislativo que interesen al Instituto de conformidad con los lineamientos que al respecto emita aquella;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
 
-VI. Proponer y coordinar estrategias de enlace con los poderes ejecutivo y legislativo de los tres órdenes de gobierno y con los organismos e instituciones de los sectores privado y social sobre las materias de interés que sean competencia del Instituto;
+V. Actuar como conducto institucional ante la Secretaría de Gobernación, a efecto de atender los asuntos de índole legislativo que interesen al Instituto de conformidad con los lineamientos que al respecto emita aquélla;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+VI. Proponer y coordinar estrategias de enlace y proyectos con los tres poderes y los tres órdenes de gobierno y con los organismos e instituciones de los sectores privado y social sobre las materias de interés que sean competencia del Instituto;
 
 VII. Coordinar las comparecencias y presentaciones del Director General ante las diversas instancias del Congreso de la Unión;
 
-VIII. Definir los proyectos de enlace con los poderes legislativos federal y local;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
 
-IX. Supervisar la preparación y organización de reuniones con los poderes legislativos, federal y local y aprobar el material documental para las reuniones con los legisladores;
+VIII. Supervisar la atención de los asuntos relacionados con la Comisión Federal de Mejora Regulatoria;
 
-X. Supervisar el seguimiento a los acuerdos de las reuniones con los poderes legislativos, federal y local;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
 
-XI. Establecer criterios, y supervisar el desahogo de consultas jurídicas relacionados con las actividades del Instituto;
+IX. Supervisar la preparación y organización de reuniones con los poderes legislativos, Federal y local y aprobar el material documental para las reuniones con los legisladores;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+X. Supervisar el seguimiento a los acuerdos de las reuniones con los poderes legislativos, federal y locales;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+XI. Establecer criterios, y supervisar el desahogo de consultas jurídicas relacionadas con las actividades del Instituto;
 
 XII. Coordinar la formulación y revisión de los proyectos de iniciativas de leyes o decretos, así como de los reglamentos, decretos, acuerdos y demás disposiciones de observancia general en las materias competencia del Instituto;
 
@@ -355,11 +423,17 @@ XIV. Proponer los criterios y lineamientos jurídicos a que deben sujetarse los 
 
 XV. Establecer los lineamientos para el levantamiento de actas administrativas y las constancias de hechos referentes al personal;
 
-XVI. Supervisar la atención de los asuntos relacionados con la Comisión Federal de Mejora Regulatoria;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
 
-XVII. Autorizar los lineamientos internos del Instituto con base en las tesis y criterios emitidos respectivamente por las autoridades judiciales y administrativas competentes que le proponga la Dirección de Asuntos Jurídicos y supervisar su difusión a las direcciones del Instituto, y
+XVI. Definir los proyectos de enlace con los poderes legislativos federal y locales;
 
-XVIII. Fungir como la Unidad de Enlace a que se refiere el artículo 28 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, con todas las facultades que le confiere esta Ley.
+XVII. Autorizar los lineamientos internos del Instituto con base en las tesis y criterios emitidos respectivamente por las autoridades judiciales y administrativas competentes que le proponga la Dirección de Asuntos Jurídicos y supervisar su difusión a las direcciones del Instituto, y (sic)
+
+XVIII. Fungir como la Unidad de Enlace a que se refiere el artículo 28 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, con todas las facultades que le confiere esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+XIX. Coordinar la formulación y revisión de las recomendaciones y medidas pertinentes para garantizar la preservación y desarrollo de las lenguas indígenas, a los tres órdenes de gobierno para el respeto de los derechos lingüísticos.
 
 ### Capítulo Sexto. DE LAS DIRECCIONES DE AREA
 
@@ -375,7 +449,9 @@ III. Colaborar con las autoridades y organismos competentes en el desarrollo de 
 
 IV. Acordar con la Dirección General o con las Direcciones Generales Adjuntas a la que se encuentren adscritas la resolución de los asuntos de su competencia;
 
-V. Emitir los dictámenes, opiniones e informes que les sean solicitados por el Director General y las Direcciones Generales Adjuntas;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+V. Emitir los dictámenes, opiniones e informes que les sean solicitados por el Director General y sus Direcciones Generales Adjuntas;
 
 VI. Formular los proyectos de programas y de presupuesto de su competencia;
 
@@ -385,15 +461,23 @@ VIII. Notificar a quien corresponda los acuerdos de trámite, las resoluciones o
 
 IX. Proporcionar la información, datos y asesoría que les sea requerida por el Director General o las Direcciones Generales Adjuntas;
 
-X. Mantener informado al Director General y las Direcciones Generales Adjuntas a la que se encuentren adscritas acerca de sus funciones, e informar en tiempo y forma, del avance de los proyectos que operan;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+X. Mantener informado al Director General y los Directores Generales Adjuntos a los que se encuentren adscritos acerca de sus funciones, e informar en tiempo y forma, del avance de los proyectos que operan;
 
 XI. Mantener comunicación y coordinación con las demás direcciones del Instituto para el desarrollo de sus funciones;
 
-XII. Representar al Instituto en foros, comités, organismos y entidades públicas en materia de su competencia;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
 
-XIII. Formular actas administrativas para la imposición de sanciones de carácter laboral a las que el personal de la Institución se haga acreedor; las cuales deberán ser presentadas ante la Dirección de Asuntos Jurídicos para su dictaminación, y
+XII. Representar al Instituto en foros, comités, organismos y entidades públicas en materia de su competencia, por instrucciones de sus superiores jerárquicos;
 
-XIV. Las demás que las disposiciones legales y administrativas les confieran, y las que les encomiende la Dirección General o la Dirección General Adjunta a la que se encuentren adscritas.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+XIII. Formular actas administrativas para la imposición de sanciones de carácter laboral a las que se haga acreedor el personal adscrito a su Dirección; las cuales deberán ser presentadas ante la Dirección de Asuntos Jurídicos para su dictaminación, y
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+XIV. Las demás que les confieran las disposiciones legales, administrativas, el Manual de Organización y los Manuales de Procedimientos, así como las que les encomiende la Dirección General o la Dirección General Adjunta a la que se encuentren adscritas.
 
 ###### Artículo 24.
 
@@ -401,245 +485,277 @@ Son atribuciones de la Dirección de Investigación:
 
 I. Realizar investigación lingüística básica y aplicada, e impulsar, fomentar, promover y apoyar su realización;
 
-II. Elaborar estudios fonológicos y gramaticales y apoyar e impulsar su producción;
+II. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
-III. Proponer estrategias y actividades para la elaboración de inventarios léxicos;
+III. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
-IV. Diseñar mapas y catálogos tanto genealógicos como geográficos de lenguas indígenas;
+IV. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
-V. Coordinar la producción de materiales didáctico-educativos en materia de lenguas indígenas;
+V. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
-VI. Llevar a cabo, así como promover la realización de ensayos y estudios sociolingüísticos, y coordinar o participar en su difusión;
+VI. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
-VII. Apoyar y fomentar el desarrollo de proyectos para la producción de materiales científicos, culturales y de divulgación en lenguas indígenas, para su publicación y utilización con fines de preservación, fortalecimiento y desarrollo;
+VII. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
-VIII. Diseñar estrategias y acciones para la recopilación y conformación del acervo documental, fonográfico y audiovisual del Instituto, en materia de lenguas indígenas, para el uso del Instituto y de la comunidad en general, a través del Centro de Documentación;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
 
-IX. Promover, en coordinación con las comunidades de hablantes y los estudiosos de la lengua, la estandarización de los sistemas de escritura en lenguas indígenas nacionales;
+VIII. Organizar la integración del acervo bibliográfico, fonográfico y audiovisual del Instituto como Centro de Documentación;
 
-X. Expedir criterios generales para la recopilación y registro de datos lingüísticos;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
 
-XI. Coordinarse con las direcciones respectivas para conocer proyectos de investigación sobre las lenguas indígenas;
+IX. Promover en coordinación con las comunidades de hablantes, los estudiosos de la lengua, y las instituciones de educación, la normalización de las lenguas indígenas nacionales;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+X. Expedir criterios generales para la documentación de las lenguas indígenas nacionales;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+XI. Coordinarse con las direcciones respectivas para asesorar en torno a proyectos de investigación sobre las lenguas indígenas;
 
 XII. Establecer relaciones académicas con la comunidad científica nacional y extranjera que desarrolla investigaciones afines a los propósitos del Instituto;
 
 XIII. Organizar y desarrollar conferencias, congresos y todo tipo de eventos académicos sobre lenguas indígenas, así como sobre las investigaciones realizadas o promovidas por el Instituto;
 
-XIV. Proponer la adquisición de herramientas tecnológicas aplicadas tanto a la investigación lingüística como a la promoción, difusión, enseñanza, educación formal y uso social de las lenguas indígenas nacionales, y
+XIV. Proponer la adquisición de herramientas tecnológicas aplicadas tanto a la investigación lingüística como a la promoción, difusión, enseñanza, educación formal y uso social de las lenguas indígenas nacionales, y (sic)
 
-XV. Proponer los contenidos y coordinarse con la Dirección de Comunicación Social y Enlace, para el desarrollo de campañas que fomenten y difundan la diversidad lingüística nacional, en medios de comunicación masiva.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+XV. Asesorar a la Dirección de Comunicación Social, para el desarrollo de campañas que fomenten y difundan la diversidad lingüística nacional, en medios de comunicación masiva; y
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+XVI. Satisfacer las necesidades de información de las direcciones respectivas en torno a las lenguas indígenas nacionales.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 25.
 
-Son atribuciones de la Dirección de Evaluación, Acreditación y Certificación:
+Son atribuciones de la Dirección de Acreditación, Certificación y Capacitación:
 
-I. Desarrollar y actualizar los parámetros y los criterios generales que sirvan para evaluar proyectos y programas en materia de lenguas indígenas escuchando, en su caso, la opinión de las direcciones competentes del Instituto;
+I. Definir y proponer los lineamientos que sirvan para regular la acreditación y certificación de personas como traductores, intérpretes o capacitadores profesionales de lengua indígena; sus actualizaciones y difundir los aprobados;
 
-II. Realizar evaluaciones a proyectos relativos a lenguas indígenas que presenten personas físicas o morales;
+II. Apoyar y acompañar los procesos de creación de nuevas instituciones de educación media superior y superior, con base en los principios de interculturalidad;
 
-III. Proponer al Director General Adjunto respectivo las acciones o medidas pertinentes acordes a los resultados de las evaluaciones;
+III. Coordinarse con las autoridades educativas locales y equipos técnicos para la elaboración de propuestas específicas tendientes al fortalecimiento de las lenguas indígenas;
 
-IV. Desarrollar y actualizar los parámetros que sirvan para evaluar proyectos, programas y materiales académicos, educativos, de difusión y divulgación relativos a la revitalización, fortalecimiento y desarrollo de las lenguas indígenas;
+IV. Instrumentar, en colaboración con las instancias competentes aquellos procesos que fortalezcan la educación indígena, la formación y capacitación docente y los contenidos de materiales de apoyo didáctico en lenguas indígenas;
 
-V. Proponer los criterios generales para realizar evaluaciones de proyectos, programas y materiales académicos, educativos, de difusión y divulgación relativos a la revitalización, fortalecimiento y desarrollo de las lenguas indígenas;
+V. Realizar diagnósticos sobre las necesidades de capacitación en materia de lenguas indígenas que sean necesarios;
 
-VI. Realizar evaluaciones a proyectos, programas y materiales académicos, educativos, de difusión y divulgación relativos a la revitalización, fortalecimiento y desarrollo de las lenguas indígenas;
+VI. Impulsar la capacitación en materia de lenguas indígenas, para atender las demandas de las instituciones de los distintos órdenes de gobierno y de la población en general;
 
-VII. Proponer al Director General Adjunto respectivo las acciones o medidas pertinentes acordes a los resultados de las evaluaciones de proyectos, programas y materiales académicos, educativos, de difusión y divulgación relativos a la revitalización, fortalecimiento y desarrollo de las lenguas indígenas, y
+VII. Proponer normas pedagógicas, contenidos, planes, programas de estudio, métodos, materiales y auxiliares didácticos e instrumentos para la realización de los cursos de capacitación relativos a lenguas indígenas;
 
-VIII. Proponer los lineamientos que sirvan para regular la acreditación y certificación de personas como traductores, intérpretes o capacitadores profesionales de lengua indígena; sus actualizaciones y difundir los aprobados.
+VIII. Establecer mecanismos de coordinación con las instancias educativas de los tres órdenes de gobierno, para fomentar el multilingüismo y la interculturalidad en programas de capacitación;
+
+IX. Proponer y operar mecanismos de coordinación con las áreas competentes de la Secretaría y las autoridades educativas locales, para la elaboración de programas y contenidos de cursos de capacitación en materia de lenguas indígenas;
+
+X. Diseñar, integrar, operar, evaluar y actualizar el Padrón Nacional de Intérpretes y Traductores en Lenguas Indígenas para satisfacer la demanda institucional y social de los servicios de interpretación y traducción en Lenguas Indígenas que, en materia de servicios públicos en general, requiere el país;
+
+XI. Proponer políticas y lineamientos para la elaboración, adecuación y actualización permanente de programas y materiales educativos para cursos de capacitación de la competencia del Instituto;
+
+XII. Instrumentar en los cursos de capacitación que se imparten en materia de lenguas indígenas, mecanismos de seguimiento y evaluación que garanticen la aplicación de la normatividad pedagógica y de los materiales y apoyos didácticos, en coordinación con las autoridades competentes;
+
+XIII. Certificar y acreditar a técnicos y profesionales bilingües.
 
 ###### Artículo 26.
 
-Son atribuciones de la Dirección de Proyectos, Vinculación y Capacitación:
+(DEROGADO, D.O.F. 14 DE JULIO DE 2010)
 
-I. Proponer los criterios generales para el diseño de proyectos relativos a lenguas indígenas;
-
-II. Proponer los proyectos diseñados sobre la producción de gramáticas, la estandarización de escrituras y la promoción de la lecto-escritura en lenguas indígenas para que, en su caso, sean desarrollados por la dirección del Instituto correspondiente;
-
-III. Promover el diseño y desarrollo de proyectos para el uso, la transmisión y la enseñanza formal de las lenguas indígenas en los diferentes ámbitos socioculturales, así como para la producción de obras científicas, literarias, de difusión en lenguas indígenas, y de fomento a la lecto-escritura;
-
-IV. Atender las solicitudes de información que en materia de lenguas indígenas se dirijan al Instituto;
-
-V. Promover en coordinación con la Dirección de Asuntos Jurídicos, la celebración de convenios de coordinación y colaboración con instituciones que proporcionen educación media superior y superior para la realización de los fines del Instituto;
-
-VI. Establecer acciones de coordinación con organizaciones y/o asociaciones indígenas en materia de lenguas;
-
-VII. Coordinarse con las autoridades educativas locales y equipos técnicos para la elaboración de propuestas específicas tendientes al fortalecimiento de las lenguas indígenas;
-
-VIII. Apoyar y acompañar los procesos de creación de nuevas instituciones de educación media superior y superior, con base en los principios de interculturalidad;
-
-IX. Instrumentar, en colaboración con las instancias competentes aquellos procesos que fortalezcan la educación indígena, la formación y capacitación docente y los contenidos y materiales de apoyo didáctico en lenguas indígenas;
-
-X. Realizar los diagnósticos de las necesidades de capacitación en materia de lenguas indígenas que sean necesarios;
-
-XI. Impulsar la capacitación en lingüística aplicada, para atender las demandas de la población en materia de lenguas indígenas;
-
-XII. Proponer normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales y auxiliares didácticos e instrumentos para la realización de los cursos de capacitación en lingüística aplicada relativos a lenguas indígenas;
-
-XIII. Establecer mecanismos de coordinación con las instancias educativas de los tres órdenes de gobierno, para fomentar la interculturalidad en programas de capacitación;
-
-XIV. Proponer y operar mecanismos de coordinación con las áreas competentes de la Secretaría y las autoridades educativas locales, para la elaboración de programas y contenidos de cursos de capacitación sobre lenguas indígenas;
-
-XV. Proponer políticas y lineamientos para la elaboración, adecuación y actualización permanente de programas y materiales educativos para cursos de capacitación de la competencia del Instituto, y
-
-XVI. Instrumentar, en coordinación con las áreas competentes de la Secretaría y las autoridades locales, mecanismos para el seguimiento y evaluación de la aplicación de la normatividad técnico pedagógica y de los materiales y apoyos didácticos en dichos cursos de capacitación.
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 27.
 
 Son atribuciones de la Dirección de Políticas Lingüísticas:
 
-I. Asesorar a los tres órdenes de gobierno para articular las políticas públicas necesarias en materia de lenguas indígenas nacionales;
+I. Proponer e impulsar políticas y acciones para garantizar el ejercicio de los derechos lingüísticos de la población indígena, en el territorio nacional y en el extranjero;
 
-II. Diseñar estrategias e instrumentos para el mantenimiento y desarrollo de las lenguas indígenas nacionales, en coordinación con los tres órdenes de gobierno y los pueblos y comunidades indígenas;
+II. Diseñar e impulsar mecanismos de vinculación con las instituciones públicas, asociaciones y academias de lenguas indígenas a fin de generar estrategias conjuntas para la revitalización, desarrollo y fortalecimiento de las lenguas indígenas nacionales;
 
-III. Proponer políticas generales para impulsar y estimular el uso de las lenguas indígenas nacionales en el ámbito comunitario y regional;
+III. Proponer políticas diferenciadas para estimular y fortalecer el uso de las lenguas indígenas nacionales en el ámbito comunitario y regional, y promover su funcionalidad en contextos cada vez más amplios;
 
-IV. Diseñar políticas lingüísticas que apoyen a las instituciones públicas en las tareas de promoción del aprecio, valoración y respeto a la diversidad lingüística en todo el territorio nacional;
+IV. Diseñar e impulsar políticas lingüísticas que promuevan el aprecio, valoración y respeto a la diversidad lingüística en todo el territorio nacional y propicien el conocimiento de las lenguas y culturas indígenas en la sociedad en general;
 
-V. Promover programas, proyectos y acciones para vigorizar el conocimiento de las culturas y lenguas indígenas por parte de la sociedad nacional;
+V. Impulsar, apoyar y colaborar en los procesos de planificación lingüística de los pueblos y comunidades indígenas;
 
-VI. Sugerir a las instituciones correspondientes la inclusión de mecanismos que den cuenta de la riqueza lingüística del país, en los diferentes niveles educativos, con la finalidad de difundir el aprecio, valoración y respeto a la diversidad lingüística nacional;
+VI. Diseñar e impulsar mecanismos de vinculación con las asociaciones y academias de lenguas indígenas a fin de generar estrategias conjuntas para la revitalización, desarrollo y fortalecimiento de las lenguas indígenas nacionales;
 
-VII. Proponer políticas que permitan a las comunidades indígenas la difusión y preservación de sus lenguas en los espacios públicos y los medios de comunicación;
+VII. Diseñar mecanismos institucionales para la participación de los pueblos indígenas en la elaboración de políticas o estudios en materia de lenguas indígenas;
 
-VIII. Proponer políticas que permitan a la población no indígena, el conocimiento y aprecio de las lenguas indígenas nacionales en todos los ámbitos públicos y los medios de comunicación;
+VIII. Asesorar a los tres órdenes de gobierno para articular las políticas públicas necesarias en materia de lenguas indígenas nacionales;
 
-IX. Proponer políticas para los tres órdenes de gobierno, que contemplen el uso de las lenguas indígenas para llevar a cabo trámites o procedimientos oficiales e institucionales según la región; así como la emisión o transmisión de la información gubernamental e institucional en las lenguas correspondientes;
+IX. Apoyar a los tres órdenes de gobierno en el diseño de políticas institucionales que contemplen el uso de las lenguas indígenas en los trámites y procedimientos oficiales, para proporcionar servicios y para difundir sus programas;
 
-X. Proponer políticas que promuevan el empleo de las lenguas indígenas en las actividades y propagandas comerciales;
+X. Diseñar e impulsar estrategias para que los servidores públicos, de acuerdo con sus áreas de especialización, cuenten con las competencias comunicativas necesarias para brindar atención en lenguas indígenas nacionales a la población hablante de lenguas indígenas;
 
-XI. Proponer políticas que refuercen el papel de la escuela como elemento fundamental para la revaloración, uso y aprecio de las lenguas indígenas en todas sus manifestaciones;
+XI. Promover y apoyar la creación de institutos estatales y municipales de lenguas indígenas; así como diseñar e impulsar mecanismos institucionales de coordinación con los mismos;
 
-XII. Proponer políticas educativas que promuevan la enseñanza de calidad del español como segunda lengua;
+XII. Diseñar y promover, en coordinación con las instituciones correspondientes, los contenidos y estrategias que den cuenta de la riqueza lingüística del país en los diferentes niveles educativos, que generen y fomenten el aprecio, valoración y respeto a la diversidad lingüística nacional;
 
-XIII. Proponer políticas educativas que favorezcan que la sociedad en su conjunto tenga acceso al estudio y aprendizaje de las lenguas indígenas promoviendo la interculturalidad;
+XIII. Proponer políticas que refuercen el papel de la educación y la escuela como elementos fundamentales para la revaloración, uso y aprecio de las lenguas indígenas en todas sus manifestaciones;
 
-XIV. Apoyar el funcionamiento de las asociaciones y academias indígenas dedicadas al estudio o enseñanza de las lenguas;
+XIV. Diseñar e impulsar mecanismos de vinculación con las instituciones educativas correspondientes a fin de generar estrategias conjuntas para garantizar el uso de las lenguas indígenas como materia y/o medio de instrucción en los niveles educativos básico, medio y superior;
 
-XV. Apoyar a los tres órdenes de gobierno en el diseño de políticas de difusión de los programas, obras y servicios dirigidos a las comunidades indígenas en las lenguas de los beneficiarios;
+XV. Proponer políticas educativas que promuevan la enseñanza de calidad del español como segunda lengua;
 
-XVI. Plantear estrategias, vías y acciones para que los medios de comunicación promuevan el uso y difusión de las lenguas indígenas nacionales en la región y contexto en que se hablen;
+XVI. Promover políticas que favorezcan que la sociedad en su conjunto tenga acceso al estudio y aprendizaje de las lenguas indígenas nacionales desde un enfoque multilingüe;
 
-XVII. Elaborar y proponer políticas y acciones para proteger y preservar el uso de las lenguas y culturas nacionales de los migrantes indígenas;
+XVII. Proponer y promover, con las instancias correspondientes, la realización de investigación necesaria para el diseño y evaluación de políticas lingüísticas;
 
-XVIII. Impulsar la participación de los hablantes de lenguas indígenas nacionales, en la elaboración de políticas o estudios que realicen los tres órdenes de gobierno y las instancias académicas y de investigación en materia de lenguas indígenas, y
+XVIII. Elaborar y promover políticas que permitan a la población indígena el uso de sus lenguas en los medios de comunicación y demás espacios públicos;
 
-XIX. Actualizar los lineamientos básicos para el fortalecimiento de las lenguas indígenas.
+XIX. Diseñar e instrumentar estrategias, vías y acciones para promover la difusión y el uso de las lenguas indígenas nacionales en los medios de comunicación, según la región y contexto en que se hablen;
+
+XX. Diseñar los lineamientos de política lingüística que permitan la planeación coordinada del quehacer institucional;
+
+XXI. Proporcionar información y asesoría sociolingüística a los estados y municipios interesados en la creación de Institutos estatales y municipales de lenguas indígenas;
+
+XXII. Proponer los lineamientos generales para la recepción y apoyo de proyectos que presentan las autoridades y representantes indígenas relativos al fortalecimiento de las lenguas indígenas;
+
+XXIII. Promover y apoyar el desarrollo de proyectos para el uso, transmisión y fortalecimiento de las lenguas indígenas en los diferentes ámbitos socioculturales;
+
+XXIV. Promover acuerdos de coordinación, colaboración, coedición y edición, con diversas instituciones, organizaciones indígenas, asociaciones y personas físicas para la realización de proyectos en materia de lenguas indígenas.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 28.
 
 Son atribuciones de la Dirección de Asuntos Jurídicos:
 
-I. Proponer el programa de actividades del Instituto en materia de asuntos jurídicos, así como las políticas, lineamientos y criterios técnicos que deban aplicarse en la materia;
+I. Proponer el programa de actividades del Instituto en materia de asuntos jurídicos, así como las políticas, lineamientos y criterios jurídicos que deban aplicarse en la materia;
 
-II. Representar legalmente al Instituto y al Director General en todos aquellos litigios en los que sean parte en ejercicio de sus atribuciones; teniendo poder general para pleitos y cobranzas, en los términos del primer párrafo del artículo 2554 del Código Civil Federal;
+II. Asesorar y apoyar a las direcciones del Instituto que requieran realizar trámites jurídicos ante las instancias de la Administración Pública Federal, para el debido funcionamiento de éstas;
 
-III. Intervenir en los procedimientos administrativos, judiciales, laborales y contencioso administrativos de los que el Instituto sea parte;
+III. Atender las consultas jurídicas que le presenten las direcciones del Instituto y emitir las opiniones jurídicas respectivas;
 
-IV. Ejercer las acciones judiciales y contenciosas que correspondan a las direcciones del Instituto;
+IV. Dictaminar el aspecto legal de las propuestas de normatividad interna, lineamientos, criterios, circulares y actas administrativas, entre otras que pretendan aplicar las direcciones del Instituto;
 
-V. Denunciar o formular querellas ante el Ministerio Público de los hechos que puedan ser constitutivos de delitos y, ante las autoridades competentes, de los actos que constituyan violaciones administrativas y que afecten los intereses del Instituto;
+V. Difundir entre las direcciones del Instituto los ordenamientos jurídicos aplicables y los criterios de interpretación para su aplicación;
 
-VI. Intervenir en apoyo de la Dirección de Administración y Finanzas en las controversias de carácter laboral en las que participen las direcciones del Instituto y servidores públicos de esta entidad;
+VI. Asesorar a los Comités Institucionales y a la Dirección de Administración y Finanzas en los procedimientos para la adquisición de bienes, arrendamientos, contratación de servicios y obra pública;
 
-VII. Apoyar al Director General Adjunto de Coordinación y Enlace en la atención de los asuntos relacionados con la Comisión Federal de Mejora Regulatoria;
+VII. Formular los proyectos de convenios, contratos y en general cualquier instrumento jurídico que celebre el Instituto, con los sectores público, privado y social, nacionales e internacionales; validarlos y llevar el registro de los actos aludidos una vez formalizados;
 
-VIII. Representar al Instituto en los trámites relacionados con los derechos de autor y propiedad industrial;
+VIII. Asesorar a las direcciones del Instituto en materia laboral por el incumplimiento y sanciones a que se haga acreedor el personal de éste y dictaminar las actas administrativas que éstas elaboren;
 
-IX. Proponer al Director General y al Director General Adjunto de Coordinación y Enlace, lineamientos con base en las tesis y criterios emitidos respectivamente por las autoridades judiciales y administrativas competentes y difundir los aprobados entre las direcciones del Instituto;
+IX. Expedir copias certificadas de los documentos que obren en los archivos del Instituto;
 
-X. Dictaminar sobre la procedencia de la imposición de sanciones laborales al personal del Instituto con fundamento en las actas administrativas y demás documentos que obren en los expedientes respectivos;
+X. Brindar asesoría jurídica a los pueblos y comunidades indígenas, respecto de sus derechos lingüísticos, o por algún hecho que atente contra el fortalecimiento, preservación y desarrollo de las lenguas indígenas;
 
-XI. Dictaminar el aspecto legal de las propuestas de normatividad interna, lineamientos, circulares y órdenes que se pretenda aplicar a las actividades del Instituto;
+XI. Formular recomendaciones públicas y medidas pertinentes para garantizar la preservación y desarrollo de las lenguas indígenas, a los tres órdenes de gobierno para el respeto de los derechos lingüísticos;
 
-XII. Dar seguimiento a la formalización de los convenios y contratos en los que el Instituto sea parte y llevar el registro institucional de los celebrados;
+XII. Dar seguimiento al proceso legislativo en el ámbito federal y local en materia de derechos lingüísticos y emitir las opiniones jurídicas cuando sean procedentes;
 
-XIII. Gestionar el registro ante las autoridades correspondientes, de los títulos de propiedad de inmuebles, contratos, convenios y acuerdos en que el Instituto sea parte;
+XIII. Atender y dar seguimiento a las solicitudes de las autoridades competentes en materia judicial, administrativa, legislativa, o cualquier otra que incidan en el ámbito federal o local;
 
-XIV. Atender y resolver las consultas jurídicas que le presenten las direcciones del Instituto y aquellas que, sobre los asuntos de la competencia de éste, le sean planteadas por terceros;
+XIV. Representar legalmente al Instituto y al Director General por medio de poderes generales para pleitos y cobranzas, en los términos de la legislación aplicable vigente, en todos aquellos litigios y procedimientos administrativos, judiciales, laborales, penales o cualquier otro, en los que sean parte y con motivo del ejercicio de sus atribuciones;
 
-XV. Difundir entre las direcciones del Instituto los ordenamientos jurídicos aplicables y los criterios de interpretación para su aplicación;
+XV. Ejercer las acciones judiciales y contenciosas que correspondan para la solución de conflictos de carácter administrativo, judicial, laboral o cualquier otro en los que el Instituto sea parte;
 
-XVI. Opinar sobre los requisitos jurídicos que deben satisfacer los formatos, actas y demás documentos de uso habitual en el Instituto;
+XVI. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
-XVII. Dictaminar las actas administrativas que se levanten al personal del Instituto por violación a las disposiciones laborales aplicables, así como reconsiderar, en su caso, las resoluciones de cese que se hubieran emitido;
+XVII. Denunciar o formular querellas ante el Ministerio Público de los hechos que puedan ser constitutivos de delito y, ante las autoridades competentes, respecto de los actos que constituyan violaciones administrativas y que afecten los intereses del Instituto;
 
-XVIII. Participar como asesor en los comités institucionales y en los procedimientos para la adquisición de bienes, contratación de servicios, obra pública y servicios relacionados con la misma;
+XVIII. Coadyuvar con la Dirección General para la celebración de las sesiones del Consejo Nacional;
 
-XIX. Brindar asesoría jurídica a organismos y pueblos indígenas, que la soliciten al Instituto respecto de sus derechos lingüísticos;
+XIX. Coordinar y realizar estudios e investigaciones jurídicas que requiera el Instituto para elaborar propuestas en materia de derechos lingüísticos;
 
-XX. Realizar estudios e investigaciones jurídicas que requiera el desarrollo de las funciones del Instituto, y
+XX. Proponer lineamientos jurídicos con base en las tesis y criterios judiciales y administrativos emitidos por las autoridades competentes;
 
-XXI. Asesorar a los organismos y pueblos indígenas, en los casos que se requiera, por algún hecho que atente contra el desarrollo y expresión de las lenguas indígenas.
+XXI. Elaborar los lineamientos y criterios jurídicos para la creación de institutos en lenguas indígenas en las entidades federativas y municipios con población hablante de lenguas indígenas;
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 29.
 
 Son atribuciones de la Dirección de Comunicación Social y Enlace:
 
-I. Coordinar, concertar e impulsar la realización de entrevistas y conferencias de prensa que realicen los funcionarios del Instituto;
+I. Coordinar, concertar, dar seguimiento e impulsar acciones de información, tales como entrevistas, conferencias de medios de comunicación y coberturas informativas entre otros, tendientes a difundir los logros, acciones, programas y proyectos de las diferentes direcciones que integran el Instituto;
 
-II. Analizar y evaluar la información enviada por las otras direcciones del Instituto para su difusión;
+II. Analizar y evaluar la información enviada por otras direcciones del Instituto para su difusión a través de medios de comunicación impresos, electrónicos y complementarios;
 
-III. Detectar, seleccionar y procesar la información relacionada con lenguas indígenas o con el Instituto, que aparezca en medios electrónicos e impresos, y difundirla entre mandos superiores del Instituto, a través del Boletín Informativo;
+III. Monitorear, analizar, procesar y sistematizar, la información relevante para el quehacer institucional que aparezca en medios de comunicación impresos y electrónicos y difundirla a través de la Síntesis Informativa;
 
-IV. Planear, coordinar y mantener relación con los medios de comunicación, incluyendo la organización de actividades formativas para periodistas;
+IV. Mantener relación permanente con los medios de comunicación nacionales y locales para difundir a través de ellos los programas y acciones que lleve a cabo el Instituto;
 
-V. Determinar las necesidades presupuestales para las actividades de comunicación y difusión y proponerlas a la dirección correspondiente;
+V. Determinar y proponer las necesidades presupuestales para llevar a cabo los objetivos y metas en materia de difusión, y supervisar su ejecución;
 
-VI. Establecer y difundir los lineamientos de la imagen institucional que se aplicarán en el Instituto;
+VI. (DEROGADA, D.O.F. 14 DE JULIO DE 2010
 
-VII. Dirigir y coordinar la cobertura así como efectuar la difusión gráfica y escrita de las actividades públicas del titular del Instituto;
+VII. Establecer las normas y lineamientos en materia de imagen institucional que deben observar las direcciones del Instituto;
 
-VIII. Informar a la opinión pública a través de los medios disponible (sic) de manera oportuna y objetiva acerca de los programas, avances y resultados del trabajo del Instituto;
+VIII. (DEROGADA, D.O.F. 14 DE JULIO DE 2010
 
-IX. Supervisar que la ejecución del gasto permita el cumplimiento de los objetivos y metas de los programas del Instituto;
+IX. (DEROGADA, D.O.F. 14 DE JULIO DE 2010
 
-X. Coordinar el diseño y producción de materiales informativos y de difusión para los medios de comunicación electrónicos e impresos;
+X. Elaborar, coordinar y supervisar el diseño y producción de materiales informativos y de difusión que contribuyan al fortalecimiento, preservación y desarrollo de las lenguas indígenas nacionales;
 
-XI. Gestionar y dar seguimiento a la publicación y transmisión en prensa escrita, radio y televisión de materiales informativos y de difusión del Instituto;
+XI. Coordinar la gestión de espacios informativos y de difusión a través de cualquier medio de comunicación que tengan como objetivo informar a la opinión pública sobre los programas, acciones y logros institucionales;
 
-XII. Formular e implementar las estrategias y mecanismos de enlace con los tres órdenes de gobierno, para la coordinación de acciones integrales que faciliten el logro de los objetivos del Instituto;
+XII. (DEROGADA, D.O.F. 14 DE JULIO DE 2010
 
-XIII. Establecer y coordinar las relaciones con consulados, embajadas, organizaciones e instituciones extranjeras y organismos internacionales, en materias relacionadas con los derechos lingüísticos de los pueblos indígenas;
+XIII. (DEROGADA, D.O.F. 14 DE JULIO DE 2010
 
-XIV. Organizar reuniones con los poderes legislativos, federal y local, y aprobar el material documental para las reuniones con los legisladores, y
+XIV. (DEROGADA, D.O.F. 14 DE JULIO DE 2010
 
-XV. Dar seguimiento a los acuerdos de las reuniones con los poderes legislativos, federal y local.
+XV. (DEROGADA, D.O.F. 14 DE JULIO DE 2010
+
+XVI. Elaborar, coordinar y supervisar los medios de comunicación interna permanente, que promueva la comunicación y valores organizacionales del Instituto;
+
+XVII. Elaborar, ejecutar y evaluar el programa anual de comunicación social del Instituto, con previa opinión de las Direcciones Generales Adjuntas;
+
+XVIII. Presentar a las direcciones de Investigación y de Políticas lingüistas las propuestas de comunicación con la finalidad de obtener su opinión;
+
+XIX. Coordinar los enlaces institucionales y las asesorías a los tres órdenes de gobierno para articular las políticas públicas necesarias en materia de lenguas indígenas nacionales, que contemplen el uso de las mismas, a efecto de llevar a cabo trámites o procedimientos oficiales e institucionales según la región; así como la emisión o transmisión de la información gubernamental e institucional en las lenguas correspondientes;
+
+XX. Establecer el enlace institucional con dependencias y entidades de la Administración Pública Federal y locales;
+
+XXI. Coordinar el enlace legislativo con el Congreso de la Unión y los Congresos locales para promover proyectos legislativos que beneficien a los hablantes de lenguas indígenas y difundir los ordenamientos jurídicos en lenguas indígenas;
+
+XXII. Proponer y coordinar estrategias de enlace con los organismos e instituciones de los sectores privado y social sobre las materias de competencia del Instituto;
+
+XXIII. Establecer, coordinar y desarrollar las estrategias de enlace con consulados, embajadas, organizaciones e instituciones extranjeras y organismos internacionales, en materias relacionadas con los derechos lingüísticos de los pueblos indígenas para la difusión de la diversidad lingüística mexicana;
+
+XXIV. Atender la como (sic) Unidad de Enlace a que se refiere el artículo 28 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, con todas las facultades que le confiere esta Ley;
+
+XXV. Atender las solicitudes de información que en materia de lenguas indígenas se dirijan al Instituto;
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 30.
 
 Son atribuciones de la Dirección de Tecnologías de la Información:
 
-I. Identificar y atender las necesidades de infraestructura y servicios de tecnologías de la información de las diferentes direcciones del Instituto;
+I. Identificar los requerimientos de infraestructura y servicios de tecnologías de la información de las diferentes direcciones del Instituto, y atenderlos en función de su factibilidad técnica, operativa y financiera;
 
-II. Determinar, en coordinación con las direcciones del Instituto, la viabilidad técnica y operativa de los requerimientos de éstas, respecto a la adquisición o desarrollo de bienes y servicios de tecnologías de la información;
+II. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
-III. Establecer las estrategias de diseño, producción, utilización, mantenimiento e innovación del hardware y software usados por el Instituto;
+III. Establecer las estrategias de diseño, producción, desarrollo, utilización, mantenimiento e innovación de los bienes y servicios de tecnologías de la información usados por el Instituto;
 
-IV. Proponer la adquisición de los bienes y servicios de tecnologías de la información que requieran las diferentes direcciones del Instituto, para el desarrollo de sus funciones;
+IV. Proponer a la Dirección General la adquisición y/o desarrollo de los bienes y servicios de tecnologías de la información que, para el desarrollo de sus funciones, requieran las diferentes direcciones del Instituto, y colaborar con la Dirección de Administración y Finanzas en los procesos de adquisición de dichos bienes y servicios;
 
-V. Establecer, en coordinación con las direcciones competentes, y previa autorización del Director General, las políticas, normas y programas en materia de utilización de tecnologías de la información que contribuyan a la sistematización de procesos en las diferentes direcciones del Instituto;
+V. Establecer, en coordinación con las direcciones competentes, y previa autorización del Director General, las políticas, normas y programas en materia de utilización de tecnologías de la información del Instituto;
 
-VI. Colaborar con la Dirección de Administración y Finanzas en los procesos de adquisición de la infraestructura y servicios de tecnologías de la información;
+VI. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
 VII. Supervisar la implantación y administración de la infraestructura y servicios de tecnologías de la información del Instituto;
 
-VIII. Proponer a las diferentes direcciones del Instituto, los sistemas informáticos para optimizar sus procesos;
+VIII. Contribuir a la sistematización y optimización de procesos en las diferentes direcciones del Instituto, mediante la utilización de tecnologías de la información;
 
-IX. Supervisar el apoyo técnico y la capacitación que se otorgue a los miembros del Instituto para el uso y aprovechamiento de las tecnologías de la información;
+IX. Supervisar y proporcionar el apoyo técnico y la capacitación que se otorgue a los miembros del Instituto para el uso y aprovechamiento de las tecnologías de la información;
 
-X. Coordinar acciones con la Dirección de Comunicación Social y Enlace para difundir las actividades del Instituto a través de medios electrónicos;
+X. Coordinar acciones con las diferentes direcciones del Instituto para difundir las actividades de éste a través de medios electrónicos;
 
-XI. Colaborar con las direcciones del Instituto en la elaboración, recopilación, procesamiento y administración de la información estadística que apoye sus tareas;
+XI. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
-XII. Supervisar el desarrollo de sistemas de información estadística que describan la distribución de las lenguas indígenas en las entidades federativas y municipios;
+XII. Supervisar el desarrollo de sistemas de información geoestadística que describan la distribución de las lenguas indígenas nacionales y sus hablantes;
 
-XIII. Colaborar con las direcciones del Instituto en el diseño de la metodología para el levantamiento y procesamiento del censo sociolingüístico, que debe realizar el Instituto Nacional de Estadística, Geografía e Informática;
+XIII. Colaborar con las direcciones del Instituto en el diseño de la metodología para el levantamiento y procesamiento del censo sociolingüístico, que debe realizar el Instituto Nacional de Estadística y Geografía;
 
-XIV. Promover y apoyar la utilización de las tecnologías de la información, entre las organizaciones sociales, académicas y del sector privado vinculadas con las lenguas indígenas, procurando el intercambio de materiales e información, y
+XIV. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
-XV. Colaborar con la Dirección de Asuntos Jurídicos para la elaboración de los contratos, convenios y demás instrumentos jurídicos que en materia de tecnologías de la información deban celebrarse.
+XV. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
 ###### Artículo 31.
 
@@ -653,41 +769,67 @@ III. Autorizar la documentación necesaria para el ejercicio y la comprobación 
 
 IV. Suscribir, previo acuerdo del Director General, aquellos documentos que impliquen actos de administración y representar al Instituto en los convenios y contratos de su competencia;
 
-V. Coordinar la adquisición y enajenación de bienes, la contratación de servicios y de obra pública, así como la administración de los bienes inmuebles que ocupa el Instituto;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+V. Coordinar y supervisar las funciones y actividades en materia de adquisiciones, arrendamientos y servicios del sector público; así como en materia de obra pública, enajenación de bienes y administración de los bienes inmuebles que ocupa el Instituto;
 
 VI. Establecer y coordinar el programa de protección civil para el Instituto;
 
-VII. Proponer a la Dirección General las modificaciones y adiciones necesarias al presupuesto autorizado, para el desarrollo de los proyectos prioritarios de esta dirección;
+VII. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
-VIII. Supervisar el apoyo logístico y abastecimiento de materiales para el desarrollo de eventos y cursos que realice el instituto;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+VIII. Supervisar el apoyo logístico y abastecimiento de materiales para el desarrollo de las diferentes actividades que realiza el Instituto;
 
 IX. Coordinar y verificar la elaboración y trámite del Programa Anual de Necesidades (PANE) y del Programa Anual de Inversión (PAI);
 
 X. Colaborar con la Dirección de Asuntos Jurídicos en la realización e implementación de los convenios y contratos que se suscriban con proveedores;
 
-XI. Someter a la aprobación del Director General los proyectos de manuales de organización, de calidad y de procedimientos que se elaboren en coordinación con las direcciones del Instituto;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+XI. Someter a la aprobación del Director General las modificaciones a los manuales de organización y de procedimientos elaborados en coordinación con las direcciones del Instituto;
 
 XII. Proponer y coordinar los estudios orgánico-funcionales del Instituto, de los sistemas de operación y los servicios al público y formular las propuestas de mejora que se requieran;
 
 XIII. Proponer al Director General las medidas administrativas para la mejor organización y funcionamiento del Instituto;
 
-XIV. Coordinar la formulación y entrega en tiempo y forma de los informes requeridos por dependencias globalizadoras y la coordinadora sectorial;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+XIV. Coordinar la formulación y entrega en tiempo y forma de los informes requeridos por la coordinadora sectorial y demás dependencias competentes en la materia;
 
 XV. Atender el cumplimiento de las obligaciones fiscales y de seguridad social que afecten al Instituto;
 
-XVI. Proponer al Director General los objetivos, planes y programas a corto, mediano y largo plazo del Instituto, con base en la normatividad establecida en la materia;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+XVI. Proponer al Director General los planes y programas a corto, mediano y largo plazo del Instituto, con base en la normatividad establecida en la materia;
 
 XVII. Supervisar que la ejecución del gasto permita el cumplimiento de los objetivos y metas de los programas del Instituto;
 
-XVIII. Dar congruencia a los programas y proyectos del Instituto con el Plan Nacional de Desarrollo;
+XVIII. (DEROGADA, D.O.F. 14 DE JULIO DE 2010)
 
 XIX. Establecer, en coordinación con las demás direcciones del Instituto, los lineamientos y criterios para la evaluación de los programas y proyectos que se le encomienden y proponer, en su caso, la reformulación o adecuación de los mismos;
 
 XX. Desarrollar los sistemas de estímulos y recompensas que determine la Ley, así como elaborar las Condiciones Generales de Trabajo y vigilar su aplicación; aplicar las sanciones de carácter laboral a que se haga acreedor el personal del Instituto;
 
-XXI. Desarrollar en coordinación con las demás direcciones del Instituto las actividades de planeación y evaluación de sus programas, y
+XXI. Desarrollar en coordinación con las demás direcciones del Instituto las actividades de planeación y evaluación de sus programas, y (sic)
 
-XXII. Coordinar la formulación del Programa Operativo Anual y la programación y elaboración del anteproyecto de presupuesto del Instituto y gestionar su autorización y modificaciones, así como regular el ejercicio del presupuesto autorizado de acuerdo con las políticas, lineamientos y procedimientos establecidos.
+XXII. Coordinar la formulación del Programa Operativo Anual y la programación y elaboración del anteproyecto de presupuesto del Instituto y gestionar su autorización y modificaciones, así como regular el ejercicio del presupuesto autorizado de acuerdo con las políticas, lineamientos y procedimientos establecidos;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+XXIII. Emitir las políticas y lineamientos necesarios para el diseño, operación, control y evaluación de un sistema integral de información correspondiente al personal del Instituto; así como planear, supervisar y vigilar las necesidades que en materia de recursos humanos, tengan las diversas áreas del instituto;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+XXIV. Supervisar las políticas y procedimientos para la recepción, fiscalización y control de las solicitudes de registro presupuestal y pago, que presenten las diversas áreas del Instituto para trámite; así como vigilar la emisión oportuna de los estados financieros y presupuestales del Instituto, a efecto de proporcionar información oportuna para la toma de decisiones;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+XXV. Establecer mecanismos de comunicación y coordinación con las áreas del Instituto para unificar criterios y aplicar políticas y líneas de acción referentes al suministro de recursos materiales y servicios generales; así como vigilar la adecuada operación y actualización de los sistemas de almacenamiento, de control y registro de bienes muebles;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2010)</small>
+
+XXVI. Expedir copias certificadas de los documentos que obren únicamente en sus archivos.
 
 ### Capítulo Séptimo. DEL ORGANO INTERNO DE CONTROL Y DEL ORGANO DE VIGILANCIA
 
@@ -733,9 +875,11 @@ III. Tomará las acciones correspondientes para corregir las deficiencias que se
 
 ### Capítulo Octavo. DE LOS ORGANOS COLEGIADOS
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2010)</small>
+
 ###### Artículo 40.
 
-El Instituto, para la óptima consecución de sus objetivos, contará con los órganos colegiados internos que establecen y norman las diversas disposiciones legales que regulan su operación y los que considere pertinentes el Director General.
+El Instituto, para la óptima consecución de sus objetivos, podrá conformar órganos colegiados internos que considere pertinentes el Director General, para que coadyuven al cumplimiento y logro de los objetivos y programas institucionales.
 
 ###### Artículo 41.
 
@@ -745,17 +889,21 @@ El Instituto contará con un comité de control y auditoría, como instancia aux
 
 El Instituto contará con un Comité de Información en los términos de los artículos 29 y 30 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2010)</small>
+
 ###### Artículo 43.
 
-El Instituto contará con un Consejo Científico Consultivo, constituido por un mínimo de cinco y un máximo de siete integrantes que serán elegidos por el Consejo Nacional a propuesta del Director General, permanecerán en el Consejo por un periodo de dos años y podrán ser reelectos.
+El Instituto contará con un Consejo Científico Consultivo, constituido por un mínimo de cinco y un máximo de siete integrantes que serán elegidos por el Consejo Nacional a propuesta del Director General. Permanecerán en el Consejo por un periodo de dos años y podrán ser reelectos.
 
 ###### Artículo 44.
 
 El Consejo Científico Consultivo se reunirá al menos dos veces al año, pudiendo ser convocado por el Director General para celebrar sesiones extraordinarias, cuando lo estime conveniente.
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2010)</small>
+
 ###### Artículo 45.
 
-El Consejo Científico Consultivo tendrá carácter de órgano de consulta del Instituto, para conocer, opinar y recomendar sobre temas lingüísticos, sus miembros serán personas de reconocida trayectoria en las ciencias del lenguaje y el cargo de consejero será honorífico, por lo que no podrán recibir remuneración alguna por su desempeño.
+El Consejo Científico Consultivo tendrá carácter de órgano de consulta del Instituto, para conocer, opinar y recomendar sobre temas lingüísticos. Sus miembros serán personas de reconocida trayectoria en las ciencias del lenguaje y el cargo de consejero será honorífico, por lo que no podrán recibir remuneración alguna por su desempeño.
 
 ###### Artículo 46.
 
@@ -765,9 +913,11 @@ Las sesiones del Consejo Científico Consultivo, serán presididas por el Direct
 
 ### Capítulo Noveno. DE LA AUSENCIA Y SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 2010)</small>
+
 ###### Artículo 47.
 
-Durante las ausencias del Director General que no excedan de treinta días, el despacho y resolución de los asuntos quedarán a cargo del Titular de la Dirección General Adjunta Académica y de Políticas Lingüísticas y, en ausencia de éste, el Titular de la Dirección General Adjunta de Coordinación y Enlace.
+Durante las ausencias del Director General que no excedan de treinta días, el despacho y resolución de los asuntos quedarán a cargo del Titular de la Dirección General Adjunta de Coordinación y, en ausencia de éste, el Titular de la Dirección General Adjunta de (sic) Académica y de Políticas Lingüísticas.
 
 Sin perjuicio de lo previsto por otras normas aplicables, en los casos de ausencia temporal, los servidores públicos adscritos al Instituto, serán suplidos de la siguiente manera:
 
@@ -781,8 +931,14 @@ En casos de ausencia por un periodo mayor a treinta días, la designación del D
 
 Primero. El presente Estatuto entrará en vigor al día siguiente de su aprobación por el Consejo Nacional del Instituto Nacional de Lenguas Indígenas, debiéndose publicar en el Diario Oficial de la Federación.
 
-Segundo. El Consejo Nacional que se conforme de acuerdo con este Estatuto deberá instalarse dentro de un plazo no mayor de seis meses contados a partir del inicio de vigencia del mismo, plazo en el cual seguirán teniendo carácter de consejeros los miembros del Consejo Nacional vigentes en la fecha de aprobación del presente Estatuto.
+Segundo. (DEROGADO, D.O.F. 14 DE JULIO DE 2010)
 
 Aprobado por el Consejo Nacional del Instituto, en su Segunda Sesión Ordinaria, celebrada el día 13 de junio de 2005.
 
 México, D.F., a 13 de junio de 2005.- El Presidente del Consejo Nacional del Instituto Nacional de Lenguas Indígenas, Reyes S. Tamez Guerra.- Rúbrica.- El Secretario del Consejo Nacional del Instituto Nacional de Lenguas Indígenas, Ramón Díaz de León Espino.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 14 DE JULIO DE 2010.
+
+Unico. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
