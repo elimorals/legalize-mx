@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6761
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-11"
-last_updated: "2009-03-11"
+last_updated: "2010-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 11 de marzo de 2009.
 
@@ -109,19 +109,25 @@ IV. Coordinar las tareas en materia de igualdad mediante acciones especificas y,
 
 V. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, cultural y civil.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2010)</small>
+
 ###### Artículo 8.
 
-En la celebración de convenios o acuerdos de coordinación, deberán tomarse en consideración los recursos presupuestarios, materiales y humanos, para el cumplimiento de la presente Ley, conforme a la normatividad jurídica, administrativa y presupuestaria correspondiente.
+En la celebración de convenios o acuerdos de coordinación a que se refiere el artículo anterior, deberán tomarse en consideración los recursos presupuestarios, materiales y humanos, para el cumplimiento de la presente Ley, conforme a la normatividad jurídica, administrativa y presupuestaria correspondiente.
 
 ###### Artículo 9.
 
 Para el seguimiento y evaluación de los resultados que se obtengan en la ejecución de los convenios y acuerdos a que se refiere este capítulo, participará la Comisión Estatal de los Derechos Humanos, en su calidad de responsable de la protección, observancia, promoción, estudio y divulgación de los derechos humanos en la entidad.
 
-### CAPÍTULO SEGUNDO. DEL GOBIERNO ESTATAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE JULIO DE 2010)</small>
+
+### CAPÍTULO SEGUNDO. DEL EJECUTIVO ESTATAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 10.
 
-Corresponde al Gobierno Estatal:
+Corresponde al Ejecutivo Estatal por conducto de la Secretaría General de Gobierno:
 
 I. Formular, conducir y evaluar la política estatal en materia de igualdad entre mujeres y hombres;
 
@@ -133,11 +139,17 @@ IV. Garantizar la igualdad de oportunidades, mediante la adopción de políticas
 
 V. Celebrar acuerdos nacionales de coordinación, cooperación y concertación en materia de igualdad de género;
 
-VI. Incorporar en la Ley de Ingresos y Presupuesto de Egresos del Estado, la asignación de recursos para el cumplimiento de la política estatal en materia de igualdad;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2010)</small>
 
-VII. Promover, en coordinación con las dependencias de la administración pública estatal la aplicación de la presente Ley; y
+VI. Incorporar en la iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado, la asignación de recursos para el cumplimiento de la política estatal en materia de igualdad;
 
-VIII. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2010)</small>
+
+VII. Promover la coordinación entre las dependencias de la administración pública estatal en la aplicación de la presente Ley;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2010)</small>
+
+VIII. Las demás que esta Ley y otros ordenamientos aplicables, le confieren.
 
 ###### Artículo 11.
 
@@ -151,7 +163,9 @@ De conformidad con lo dispuesto en la presente Ley, corresponde a los Municipios
 
 I. Implementar la política municipal en materia de igualdad entre mujeres y hombres, en concordancia con las políticas Nacional y Estatal;
 
-II. Coadyuvar con el Gobierno Federal y con el Gobierno Estatal correspondiente, en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2010)</small>
+
+II. Coadyuvar con el Gobierno Federal y con el Gobierno Estatal en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
 
 III. Diseñar, formular y aplicar campañas de concientización que promuevan los valores y contenidos de la presente ley; y
 
@@ -173,7 +187,9 @@ IV. Suscribir los convenios necesarios para el cumplimiento de la presente ley;
 
 V. Evaluar la aplicación de la presente ley en los ámbitos público y privado;
 
-VI. Coordinar los instrumentos de la política en material de igualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2010)</small>
+
+VI. Coordinar los instrumentos de la política en materia de igualdad entre mujeres y hombres;
 
 VII. Promover sin distingo partidistas la participación equilibrada entre mujeres y hombres en los cargos de elección popular; y
 
@@ -225,9 +241,11 @@ El Ejecutivo Estatal es el encargado de la aplicación del Sistema y el Programa
 
 El Instituto Sinaloense de la Mujer, a través de su Junta Directiva, sin menoscabo de las atribuciones que le confiere la Ley especifica que lo rige, tendrá a su cargo la coordinación del Sistema, así como la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad, y las demás que sean necesarias para cumplir con los objetivos de la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 2010)</small>
+
 ###### Artículo 19.
 
-A la Junta Directiva del Instituto Sinaloense de la Mujer le corresponderá:
+A la Junta Directiva del Instituto Sinaloense de las Mujeres le corresponderá:
 
 I. Proponer los lineamientos para la Política Estatal en los términos de las leyes aplicables y de conformidad con lo dispuesto por el Ejecutivo Estatal;
 
@@ -235,7 +253,9 @@ II. Coordinar los programas de igualdad entre mujeres y hombres de las dependenc
 
 III. Promover, coordinar y realizar la revisión de programas y servicios en materia de igualdad;
 
-IV. Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de la Administración Pública Estatal, con sujeción a las disposiciones generales aplicables;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2010)</small>
+
+IV. Solicitar cada año a las dependencias y entidades de la Administración Pública Estatal la información que deberán proporcionar con sujeción a las disposiciones previstas en esta Ley, aprobando para tal efecto, los formatos respectivos;
 
 V. Formular propuestas a las dependencias competentes sobre la asignación de los recursos que requieran los programas de igualdad entre mujeres y hombres;
 
@@ -257,9 +277,11 @@ La Comisión Estatal de los Derechos Humanos estará a cargo de la observancia e
 
 El Sistema Estatal para la Igualdad entre Mujeres y Hombres, es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las dependencias y las entidades de la administración pública estatal entre sí, las autoridades de los municipios, las organizaciones de la sociedad civil organizada, instituciones académicas y de investigación, a fin de efectuar acciones de común acuerdo destinadas a la promoción y procuración de la igualdad entre mujeres y hombres.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2010)</small>
+
 ###### Artículo 22.
 
-El Ejecutivo del Estado, a través del Instituto Sinaloense de la Mujer, se coordinará con la Federación para la integración y funcionamiento del Sistema Nacional para la Igualdad entre Hombres y Mujeres.
+El Instituto Sinaloense de las Mujeres, se coordinará con las instancias federales para la integración y funcionamiento de los Sistemas Nacional y Estatal para la Igualdad entre Hombres y Mujeres.
 
 ###### Artículo 23.
 
@@ -277,27 +299,35 @@ El Sistema Estatal se conformará por las y los titulares de:
 
 I. El Ejecutivo del Estado, a través de la Secretaría General de Gobierno, quien lo presidirá;
 
-II. La Secretaría de Desarrollo Social y Sustentable;
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2010)</small>
 
-III. La Secretaría de Seguridad Pública;
+II. La Secretaría de Administración y Finanzas;
 
-IV. La Procuraduría General de Justicia del Estado;
+III. La Secretaría de Desarrollo Social y Sustentable;
 
-V. La Secretaría de Educación Pública y Cultura;
+IV. La Secretaría de Seguridad Pública;
 
-VI. La Secretaría de Salud;
+V. La Procuraduría General de Justicia del Estado;
 
-VII. El Instituto Sinaloense de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema Estatal;
+VI. La Secretaría de Educación Pública y Cultura;
 
-VIII. Presidente de la Comisión Estatal de Derechos Humanos del Estado;
+VII. La Secretaría de Salud;
 
-IX. Un representante del sector educativo;
+VIII. El Instituto Sinaloense de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema Estatal;
 
-X. Dos representantes de instituciones académicas;
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2010)</small>
 
-XI. Dos representantes del sector empresarial; y
+IX. Presidente de la Comisión de Equidad, Género y Familia del Poder Legislativo;
 
-XII. Dos representantes de los medios de comunicación.
+X. Presidente de la Comisión Estatal de Derechos Humanos del Estado;
+
+XI. Un representante del sector educativo;
+
+XII. Dos representantes de instituciones académicas;
+
+XIII. Dos representantes del sector empresarial; y
+
+XIV. Dos representantes de los medios de comunicación.
 
 De igual forma, el Sistema Estatal podrá invitar a sus reuniones a cualquier persona física o moral, pública o privada de reconocida trayectoria que se hayan destacado por su trabajo en la promoción y respeto de los derechos y la igualdad entre mujeres y hombres.
 
@@ -309,21 +339,29 @@ La Secretaría Ejecutiva del Sistema Estatal elaborará el proyecto de reglament
 
 Los gobiernos municipales coadyuvarán, en el ámbito de sus respectivas competencias y en los términos de los acuerdos de coordinación que celebren con el Instituto o, en su caso, con las dependencias o entidades de la administración pública estatal, a la consolidación y funcionamiento del Sistema Estatal. Así mismo, planearán, organizarán y desarrollarán en sus respectivas circunscripciones territoriales, sistemas municipales de igualdad entre mujeres y hombres, procurando su participación programática en el Sistema Estatal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 2010)</small>
+
 ###### Artículo 27.
 
-La concertación de acciones entre el Estado y el sector privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+La concertación de acciones entre el Estado y el sector privado, en materia de igualdad entre mujeres y hombres, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
 
 I. Definición de las responsabilidades que asuman las y los integrantes de los sectores social y privado; y
 
 II. Determinación de las acciones de orientación, estímulo y apoyo que dichos sectores llevarán a cabo en coordinación con las instituciones correspondientes.
 
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2010)</small>
+
+Lo anterior, con sujeción a las demás leyes y ordenamientos que resulten aplicables.
+
 ### CAPÍTULO CUARTO. DEL PROGRAMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 28.
 
-El Programa Estatal para la Igualdad entre Mujeres y Hombres será propuesto por el Instituto Sinaloense de la Mujer y tomará en cuenta las necesidades del Estado y los Municipios, así como las particularidades de desigualdad generadas en ciertas regiones de la entidad. Este Programa deberá integrarse al Plan Estatal de Desarrollo así como a los programas sectoriales, institucionales y especiales a que se refiere la Ley de Planeación del Estado.
+El Programa Estatal para la Igualdad entre Mujeres y Hombres será propuesto por el Instituto Sinaloense de las Mujeres y tomará en cuenta las necesidades del Estado y los Municipios, así como las particularidades de desigualdad generadas en ciertas regiones de la entidad. Este Programa deberá integrarse al Plan Estatal de Desarrollo así como a los programas sectoriales, institucionales y especiales a que se refiere la Ley de Planeación del Estado.
 
-El programa que elabore el Gobierno del Estado, con visión de mediano y largo alcance, indicarán los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta los criterios e instrumentos de la Política Estatal de Igualdad en congruencia con los programas nacionales.
+El programa que se elabore deberá ser con visión de mediano y largo alcance, indicará los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta los criterios e instrumentos de la Política Estatal de Igualdad en congruencia con los programas nacionales.
 
 ###### Artículo 29.
 
@@ -353,9 +391,11 @@ II. Desarrollo de acciones para fomentar la integración de políticas públicas
 
 III. Impulsar liderazgos igualitarios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 2010)</small>
+
 ###### Artículo 33.
 
-Para los efectos de lo previsto en el artículo anterior, las autoridades y organismos públicos desarrollarán las siguientes acciones:
+Para los efectos de lo previsto en el artículo anterior, las instancias de gobierno, incluyendo a los organismos descentralizados, desarrollaran las siguientes acciones:
 
 I. Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo;
 
@@ -365,7 +405,9 @@ III. Fomentar el acceso al trabajo de las personas que en razón de su sexo est�
 
 IV. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos estatales, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia estatal laboral;
 
-V. Reforzar la cooperación entre Estado y Municipios, para supervisar la aplicación de las acciones que establece el presente artículo;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2010)</small>
+
+V. Reforzar la cooperación entre ellos, para supervisar la aplicación de las acciones que establece el presente artículo;
 
 VI. Financiar las acciones de información y concientización destinadas a fomentar la igualdad entre mujeres y hombres;
 
@@ -451,7 +493,9 @@ III. Apoyar las actividades de interlocución ciudadana respecto a la legislaci�
 
 IV. Reforzar la cooperación y los intercambios de información sobre los derechos humanos e igualdad entre hombres y mujeres con organizaciones no gubernamentales y organizaciones nacionales de cooperación para el desarrollo;
 
-V. Impulsar reformas legislativas y políticas públicas para prevenir, atender, sancionar y erradicar en los ámbitos público y privado;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2010)</small>
+
+V. Impulsar reformas legislativas y políticas públicas para prevenir, atender, sancionar y erradicar cualquier manifestación de discriminación, en los ámbitos público y privado;
 
 VI. Establecer los mecanismos para la atención de las víctimas en todos los tipos de violencia contra las mujeres; y
 
@@ -495,7 +539,9 @@ Los acuerdos y convenios que en materia de igualdad celebren el Ejecutivo y sus 
 
 De acuerdo con lo establecido en el artículo 20 de esta ley, la Comisión Estatal de Derechos Humanos del Estado es la encargada de la observancia en el seguimiento, evaluación y monitoreo de la política estatal en materia de igualdad entre mujeres y hombres.
 
-Tiene por objeto la construcción de un sistema de información con capacidad para conocer la situación que guarda la igualdad entre hombres y mujeres, y el efecto de las políticas públicas aplicadas en esta materia.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2010)</small>
+
+El seguimiento y evaluación de la Política Estatal en Materia de Fomento a la Igualdad entre mujeres y hombres tiene por objeto la construcción de un sistema de información con capacidad para conocer la situación que guarda la igualdad entre hombres y mujeres, y el efecto de las políticas públicas aplicadas en esta materia.
 
 ###### Artículo 46.
 
@@ -548,3 +594,11 @@ Lic. Jesús Aguilar Padilla
 El Secretario General de Gobierno
 
 Lic. Rafael Oceguera Ramos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE JULIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciara su vigencia un día después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
