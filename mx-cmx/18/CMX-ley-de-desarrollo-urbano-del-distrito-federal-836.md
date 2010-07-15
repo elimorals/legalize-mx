@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-836"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-29"
-last_updated: "2009-09-28"
+last_updated: "2010-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=836&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1996-01-09"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE SEPTIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 15 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996.
 
@@ -3185,3 +3187,21 @@ Primero. La presente reforma entrará en vigor al día siguiente de su publicaci
 Segundo. A más tardar en 60 días deberán actualizarse las disposiciones reglamentarias para dar cumplimiento a esta reforma.
 
 Tercero. El Gobierno del Distrito Federal instrumentará en un plazo no mayor a 60 días una campaña en medios masivos de comunicación sobre la presente reforma.
+
+G.O. 15 DE JULIO DE 2010.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se abroga la Ley de Desarrollo Urbano del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 29 de enero de 1996, así como todas las demás disposiciones legales que se opongan o contravengan a la presente Ley.
+
+TERCERO. Las disposiciones reglamentarias de la Ley de Desarrollo Urbano del Distrito Federal publicada el 29 de enero de 1996, continuarán en vigor, en lo que no contradigan a las disposiciones de esta Ley, hasta en tanto no se expidan otras nuevas.
+
+CUARTO. Los Programas Delegacionales y Parciales de Desarrollo Urbano, Recursos Administrativos y las Acciones Públicas que se encuentren en trámite a la entrada en vigor de esta Ley, se resolverán hasta su total solución en términos de la ley anterior.
+
+QUINTO. Los Programas de Desarrollo Urbano expedidos con anterioridad a la vigencia de esta Ley, continuarán en vigor.
+
+SEXTO. Con el propósito de fomentar y consolidar, la actividad económica de la Ciudad, la Secretaría de Desarrollo Urbano y Vivienda en coordinación con las Delegaciones emitirá, dentro de un plazo de 90 días posteriores a la entrada en vigor de la presente Ley, un programa de regularización del uso del suelo de establecimientos mercantiles de hasta 100 metros cuadrados de superficie construida, cuyos giros sean abasto y almacenamiento, venta de productos básicos y de especialidades, administración y asistencia social, y sean de bajo impacto urbano de conformidad con lo establecido en el artículo 42 de esta Ley, para que cuenten con el certificado del uso del suelo correspondiente.
+
+Este programa de regularización en materia del uso del suelo, estará vigente durante dos años a partir de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SÉPTIMO. Los Programas de Desarrollo Urbano deberán integrar la zonificación que establece el Programa General de Ordenamiento Ecológico para el suelo de conservación y para las áreas de valor ambiental que se ubiquen en el suelo urbano.
