@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-sistema-para-el-desarrollo-integral-179
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-06-23"
-last_updated: "2005-01-21"
+last_updated: "2010-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 16 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 23 de junio de 2000.
 
@@ -831,7 +833,7 @@ VI.- Las demás que le asigne el Director General, su superior jerárquico y la 
 
 ### CAPÍTULO XVI TER. DEL DEPARTAMENTO DE CASA DE LA NIÑEZ POBLANA
 
-> <small>(ADICIONADO, P.O 21 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2005)</small>
 
 ###### Artículo 28 Ter.
 
@@ -1475,7 +1477,7 @@ Si la Junta Directiva determinare el cambio de funciones o de adscripción de al
 
 Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los cinco días del mes de junio del año dos mil.- El Gobernador Constitucional del Estado. LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS ALBERTO JULIÁN Y NÁCER.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 21 DE ENERO DE 2005.
 
@@ -1486,3 +1488,17 @@ El presente Acuerdo, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Acuerdo.
+
+P.O. 16 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Deroga el Reglamento Interior publicado en el Periódico Oficial del Estado el veintitrés de junio de dos mil y sus consecuentes reformas y adiciones de fecha veintiuno de enero de dos mil cinco.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todos los acuerdos, decretos, circulares, instructivos y demás disposiciones que contravengan el presente Reglamento.
