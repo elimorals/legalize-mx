@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-4147
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-22"
-last_updated: "2004-10-22"
+last_updated: "2010-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE SAN JOSE ITURBIDE, GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE SAN JOSE ITURBIDE, GUANAJUATO, PUBLICADO EN EL P.O. DE 16 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 22 de octubre de 2004.
 
@@ -466,3 +468,17 @@ PRESIDENTE MUNICIPAL
 LIC. XENIA ZARAZÚA PÉREZ.
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de la Unidad de Acceso a la Información Pública para el Municipio de San José Iturbide, Gto, de fecha 22 de octubre de 2004, segunda parte, el cual fue publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, y el cual fue aprobado en sesión ordinaria por acuerdo de ayuntamiento de fecha 24 de agosto de 2004.
+
+Se derogan todas las disposiciones que se opongan al presente Reglamento.
