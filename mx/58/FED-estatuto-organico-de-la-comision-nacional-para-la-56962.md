@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-la-56962"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-10-04"
-last_updated: "2009-08-07"
+last_updated: "2010-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56962&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-09-20"
 
 ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE AGOSTO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS, PUBLICADO EN EL D.O.F. DE 16 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de octubre de 2007.
 
@@ -1108,3 +1110,19 @@ Ciudad de México, a 20 de septiembre de 2007.- El Presidente de la Comisión Na
 D.O.F. 7 DE AGOSTO DE 2009.
 
 PRIMERO.- Las presentes adiciones y derogaciones entran en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE JULIO DE 2010.
+
+Primero. El presente Estatuto Orgánico entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Presidente, en ejercicio de las facultades que le confiere el artículo 26 de la Ley, delega en los funcionarios titulares de las diversas unidades administrativas que este Estatuto Orgánico establece, las atribuciones señaladas en dicho artículo, con excepción de las establecidas en el artículo 27 de la misma Ley.
+
+Tercero. Se abroga el Estatuto Orgánico de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, publicado en el Diario Oficial de la Federación del 4 de octubre de 2007.
+
+Cuarto. Se abroga el Acuerdo por el que se delegan facultades en el Vicepresidente Técnico y en el Director General de Análisis de Servicios y Productos Financieros de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, publicado en el Diario Oficial de la Federación del 13 de mayo de 2009.
+
+Quinto. Las actuaciones que hayan sido iniciadas por las unidades administrativas previstas en el Estatuto Orgánico que deja de tener vigencia serán concluidas por aquellas áreas a las cuales este ordenamiento les otorga las atribuciones correspondientes.
+
+Sexto. A la entrada en vigor del presente Estatuto, la Delegación Metropolitana Central será la encargada de dar seguimiento a los asuntos que se encuentren en trámite en materia de asesoría técnica y jurídica, gestión electrónica y conciliación, así como de aquellos en los que se encuentre pendiente de ordenar el registro de pasivo contingente o la constitución e inversión de la reserva técnica específica para obligaciones pendientes de cumplir, a cargo de la Dirección General de Orientación, Supervisión, Conciliación y Dictaminación.
+
+Séptimo. Las Delegaciones podrán ordenar el registro del pasivo contingente, cuando proceda, en los procedimientos de conciliación que, a la fecha de entrada en vigor del presente Estatuto, se encuentren en trámite, es decir, que hayan iniciado con anterioridad al 22 de marzo de 2010, y en los que el Usuario opte por su continuación conforme al procedimiento vigente durante su iniciación, conforme al Artículo Tercero Transitorio del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito, la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y la Ley de Protección y Defensa al Usuario de Servicios Financieros". Asimismo, podrán ordenar dicho registro, en caso de incumplimiento al convenio de conciliación por parte de la Institución Financiera, cuando ésta hubiera tenido lugar por reclamaciones presentadas con anterioridad al 22 de marzo de 2010 y el Usuario opte por continuar con el procedimiento vigente en la fecha en que haya presentado su reclamación.
