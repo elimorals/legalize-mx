@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2010-07-09"
+last_updated: "2010-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -1985,27 +1985,31 @@ IV.- Que tiene derecho a que el defensor se halle presente en todos los actos de
 
 V.- Que tiene derecho a no declarar. O declarar, si ese es su deseo, asistido por defensor;
 
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2010)</small>
+
+VI.- Que tiene derecho a que se presuma su inocencia mientras no se pruebe su culpabilidad conforme a la Ley;
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
-VI.- Que tiene derecho a que se le designe un traductor que le hará saber los derechos anteriores y le asistirá en todos los actos procedimentales sucesivos y en la correcta comunicación con el defensor, cuando el detenido sea un indígena o un extranjero que no entienda suficientemente el español.
+VII.- Que tiene derecho a que se le designe un traductor que le hará saber los derechos anteriores y le asistirá en todos los actos procedimentales sucesivos y en la correcta comunicación con el defensor, cuando el detenido sea un indígena o un extranjero que no entienda suficientemente el español.
 
 El juez, en su caso, de oficio o a petición de parte, verificará que perdure ese canal de comunicación; y si lo estimare prudente, podrá nombrar el defensor o el traductor que mejoren dicha comunicación;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
 
-VII.- Que tiene derecho, si el inculpado es extranjero, a que se comunique a la Representación Diplomática o Consular que corresponda;
+VIII.- Que tiene derecho, si el inculpado es extranjero, a que se comunique a la Representación Diplomática o Consular que corresponda;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
 
-VIII.- Que se le recibirán todos los testigos y las pruebas que ofrezca en los términos de ley, auxiliándosele para obtener la comparecencia de las personas que indique, siempre que éstas estén domiciliadas en el lugar del juicio y que le serán facilitados, para su defensa, todos los datos que solicite y que consten en el proceso;
+IX.- Que se le recibirán todos los testigos y las pruebas que ofrezca en los términos de ley, auxiliándosele para obtener la comparecencia de las personas que indique, siempre que éstas estén domiciliadas en el lugar del juicio y que le serán facilitados, para su defensa, todos los datos que solicite y que consten en el proceso;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
 
-IX.- Que tiene derecho, si así lo solicita, a ser careado con los testigos que depusieron en su contra para que pueda hacerles todas las preguntas conducentes a su defensa; y
+X.- Que tiene derecho, si así lo solicita, a ser careado con los testigos que depusieron en su contra para que pueda hacerles todas las preguntas conducentes a su defensa; y
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
 
-X.- Que tiene derecho a ser juzgado antes de cuatro meses si se trata de delito cuya pena máxima no exceda de dos años de prisión y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa.
+XI.- Que tiene derecho a ser juzgado antes de cuatro meses si se trata de delito cuya pena máxima no exceda de dos años de prisión y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
@@ -5688,5 +5692,9 @@ P.O. 9 DE JUNIO DE 2010.
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 9 DE JULIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JULIO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
