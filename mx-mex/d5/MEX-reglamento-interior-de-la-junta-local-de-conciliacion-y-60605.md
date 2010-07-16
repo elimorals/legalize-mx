@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-junta-local-de-conciliacion-y-60605"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-05"
-last_updated: "2008-03-05"
+last_updated: "2010-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL VALLE DE TOLUCA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2010 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DE LA JUNTA LOCAL O DE CONCILIACIÓN Y ARBITRAJE DEL VALLE DE TOLUCA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2010.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 5 de marzo de 2008.
 
@@ -922,11 +924,17 @@ XXV. Las demás que le confiera la Ley y el presente Reglamento.
 
 El Presidente de la Junta ordenará fijar en lugar visible, el aviso que contenga el domicilio y teléfono de los Secretarios Generales encargados de recibir las promociones, cuando la Oficialía de Partes se encuentre cerrada.
 
-### CAPÍTULO V. DE LA CONTRALORÍA INTERNA
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE JULIO DE 2010)</small>
+
+### CAPÍTULO V. DE LA CONTRALORÍA JURÍDICA INTERNA
+
+> <small>(REFORMADO, G.G. 16 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 65.
 
-La Junta local de Conciliación y Arbitraje del Valle de Toluca contara con una Contraloría Interna, que estará bajo la responsabilidad de la persona que designe el Presidente de la Junta, quien tendrá a su cargo el personal necesario para el mejor desempeño de sus funciones.
+La Junta Local de Conciliación y Arbitraje del Valle de Toluca contará con una Contraloría Interna, que estará bajo la responsabilidad de la persona que designe el Presidente de la Junta, quien tendrá a su cargo el personal necesario para el mejor desempeño de sus funciones, sujetándose a la Ley Federal del Trabajo, a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y al presente Reglamento.
+
+> <small>(REFORMADO, G.G. 16 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 66.
 
@@ -934,19 +942,29 @@ El Contralor Interno de la Junta, tendrá las facultades y obligaciones siguient
 
 I. Vigilar que el personal jurídico de la Junta, cumpla con las funciones que les impone la Ley Federal del Trabajo, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, así como el presente instrumento y el Manual de Procedimientos;
 
-II. Conocer sobre las quejas o denuncias que se formulen en contra del personal jurídico y administrativo con motivo del desempeño de sus funciones, dando cuenta al Presidente de la Junta para que determine lo que en derecho corresponda;
+II .Supervisar el cumplimiento de los planes, programas y funciones que de acuerdo con las Leyes, normas y demás disposiciones que le corresponde ejecutar a la Junta, ya sea por actos de revisión, de oficio o a petición de parte;
 
-III. Vigilar que el personal jurídico y administrativo de la Junta desempeñe sus funciones con honradez, imparcialidad y eficiencia;
+III. Atender, tramitar y dar seguimiento a las quejas y denuncias que interpongan en contra del Personal de la Junta, ya sea por actos de revisión, de oficio o a petición de parte;
 
-IV. Vigilar que el personal jurídico y administrativo de la Junta, se abstenga de cometer cualquier acto u omisión que implique abuso o ejercicio indebido con motivo de las funciones que desempeña;
+IV. Instrumentar procedimientos administrativos, disciplinarios y resarcitorios y, en su caso, imponer sanciones que correspondan en los términos de la Ley Federal del Trabajo, de la Ley de Responsabilidades y el presente Reglamento, previo acuerdo con el Presidente de la Junta;
 
-V. Vigilar que el personal jurídico y administrativo de la Junta, observe buena conducta en su trabajo;
+V. Realizar supervisiones, revisiones, evaluaciones y auditorías administrativas, financieras, operacionales y técnicas a la Unidad Administrativa, a las Secretarías Generales, a las Juntas Especiales, a la Sección de Dictaminadores; tendientes a verificar el cumplimiento de las leyes, reglamentos, normas y demás disposiciones aplicables a cada caso;
 
-VI. Vigilar que el personal jurídico y administrativo de la Junta, desempeñe su trabajo sin obtener beneficios adicionales con motivo del desempeño de sus funciones;
+VI. Supervisar y fiscalizar el correcto ejercicio del presupuesto de la Junta, verificando el apego a los principios de racionalidad, austeridad y disciplina presupuestal que establezcan las Leyes y normas en la materia;
 
-VII. Informar al Presidente de la Junta de todo acto u omisión del personal jurídico de la Junta, que implique inobservancia de las obligaciones que le impone la ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, así como el presente instrumento y el Manual de Procedimientos; y
+VII. Intervenir en los procesos de entrega-recepción de las unidades administrativas de la Junta, verificando el apego a las normas establecidas para tal efecto;
 
-VIII. las demás que le confiera la Ley y el presente Reglamento.
+VIII. Supervisar el adecuado y oportuno cumplimiento de la manifestación de bienes de los servidores públicos de la Junta;
+
+IX. Informar al Presidente de la Junta el resultado de las acciones, comisiones o funciones que se le encomienden y sugerir la instrumentación de normas complementarias en materia de control;
+
+X. Supervisar que el personal jurídico y administrativo de la Junta, se abstenga de cometer cualquier acto u omisión que implique abuso o ejercicio indebido, con motivo de las funciones que desempeña, siempre que medie denuncia, queja o acta circunstanciada o medio escrito o electrónico.
+
+XI. Supervisar que el personal jurídico y administrativo de la Junta, observe buena conducta en su trabajo, para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en la prestación del servicio público;
+
+XII. Vigilar que el personal jurídico y administrativo de la Junta, no reciba ninguna clase de dádiva, ya sea económica o en especie, por el servicio que otorga éste Tribunal, dentro de su horario de trabajo o fuera del mismo, que implique parcialidad hacia las partes de un proceso; y
+
+XIII. Las demás que señalen otros ordenamientos legales y las que le encomiende el Presidente de la Junta.
 
 ### CAPÍTULO VI. DE LA UNIDAD DE APOYO ADMINISTRATIVO
 
@@ -1237,3 +1255,9 @@ El SECRETARIO DEL PLENO
 LIC. MARÍA ISABEL GÓMEZ JARAMILLO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 16 DE JULIO DE 2010.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 1.2. DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO.
