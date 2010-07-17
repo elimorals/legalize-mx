@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2010-04-14"
+last_updated: "2010-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2010.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1749,11 +1749,15 @@ El principio de Subsidiariedad comunitaria, implica que ante la prestación parc
 
 VI.- Las demás que les señalen las leyes y sus reglamentos.
 
-> <small>(ADICIONADO], P.O. 4 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2010)</small>
 
-ARTICULO 84 BIS.- Los comités de vecinos, podrán solicitar a la autoridad municipal competente, la instalación de casetas de acceso y vigilancia, bajo las siguientes bases:
+ARTICULO 84 BIS.- Los comités de vecinos, podrán solicitar a la autoridad municipal competente, la instalación de casetas de acceso y vigilancia o mecanismos automatizados de restricción de tránsito, bajo las siguientes bases:
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2009)</small>
 
 I.- Deberán estar constituidos y organizados en los términos previstos en este Código.
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2009)</small>
 
 II.- La solicitud deberá hacerse a la Dirección de Desarrollo Urbano, con los siguientes requisitos:
 
@@ -1761,19 +1765,41 @@ a) Identificar el perímetro que quedará acordonado, adjuntando el plano respec
 
 b) Adjuntar directorio de todos los vecinos que residan en la zona incluida dentro del perímetro, bastando señalar al propietario o poseedor de la casa habitación, su domicilio y teléfono.
 
-c) Carta de conformidad de todos los vecinos de la zona acordonada, para proceder a la instalación de los accesos restringidos.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2010)</small>
+
+c) Carta de conformidad con la mayoría calificada de las dos terceras partes de los vecinos de la zona acordonada, para proceder a la instalación de los accesos restringidos.
 
 d) Señalar el lugar o lugares en donde se instalarán casetas de acceso, así como el proyecto arquitectónico para su construcción, que será a cargo y a costa de los vecinos.
 
 e) Adjuntar reglamento de operación de la caseta y servicios de vigilancia preventiva, suscrito por todos los vecinos, bastando un responsable por familia.
 
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2009)</small>
+
 III.- La Dirección de Desarrollo Urbano, deberá recabar certificación y dictamen de viabilidad de la autoridad de tránsito competente, a fin de que se constate que no existe impedimento vial para la instalación de las casetas de acceso.
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2009)</small>
 
 IV.- Sin que exista impedimento vial para la instalación de los accesos restringidos, la Dirección de Desarrollo Urbano deberá de conceder la autorización respectiva, en un plazo que no exceda de treinta días a partir de que fue recibida la solicitud debidamente requisitada, transcurrido el cual, sin que se expida, se aplicará la afirmativa ficta de la autoridad municipal.
 
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2009)</small>
+
 V.- La autoridad municipal, deberá firmar convenio de colaboración con los comités de vecinos en que se instalen casetas de acceso restringido, para dar mantenimiento de los parques y jardines que se encuentren dentro del perímetro resguardado, compartiendo el costo, sin que en ningún caso los vecinos absorban más del 50% del mismo.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JULIO DE 2010)</small>
+
 El establecimiento de accesos restringidos, no impide a las autoridades municipales y demás corporaciones policiales el ingreso al sector resguardado, con el propósito de realizar actividades propias de su función, por lo que los vecinos deberán estar pendientes de que no se obstaculicen sus actividades.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JULIO DE 2010)</small>
+
+Los comités de vecinos, así como las autoridades municipales y demás corporaciones policiales deberán de coordinarse, a efecto de establecer los mecanismos necesarios que permitan atender, de manera inmediata y efectiva, los llamados de emergencia provenientes de sectores con acceso restringido y demás actos inherentes en materia de seguridad pública.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2010)</small>
+
+ARTICULO 84 TER.- Antes de que se resuelva la solicitud, cualquier vecino, que acredite su interés, podrá acudir a la Dirección de Desarrollo Urbano del Municipio a presentar oposición fundada, que deberá ser resuelta previamente, oyendo a todos los interesados en una sola audiencia, en la que podrán desahogarse pruebas.
+
+De considerar justificada la oposición, sin necesidad de atender a los demás requisitos establecidos por el Artículo 84 Bis, la solicitud de instalación de casetas de acceso y vigilancia o mecanismos automatizados de restricción de tránsito será negada.
+
+En caso de que la oposición no resulte justificada, se verificarán los demás requisitos previstos en la Ley y, de ser satisfechos, se procederá a otorgar la autorización solicitada por la mayoría calificada de vecinos.
 
 ###### ARTICULO 85.
 
@@ -4010,6 +4036,22 @@ P.O. 5 DE DICIEMBRE DE 2009.
 ÚNICO.- El presente Decreto entrará en vigor 60 días después de su publicación en el Periódico Oficial del Estado.
 
 P.O. 14 DE ABRIL DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JULIO DE 2010.
+
+DECRETO No. 1105/2010 II P.O., POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 84 BIS Y 84 TER AL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JULIO DE 2010.
+
+DECRETO No. 1111/2010 II P.O., POR EL QUE SE REFORMA EL ARTICULO 84 BIS DEL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
