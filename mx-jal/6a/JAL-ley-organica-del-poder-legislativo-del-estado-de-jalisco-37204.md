@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2009-12-31"
+last_updated: "2010-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2010.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -311,13 +311,13 @@ Previo a la aprobación de la agenda legislativa, el Comité de Planeación del 
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
 
-Artículo 19 J
+Artículo 19 J.
 
 El proceso de planeación en el Poder Legislativo será organizado y conducido por la Comisión de Planeación para el Desarrollo con el auxilio del Secretario General del Congreso.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
 
-Artículo 19 K.
+Artículo 19 K
 
 El Comité de Planeación del Poder Legislativo propondrá la incorporación de temas a la agenda legislativa provenientes de alguno de los agentes referidos en el artículo 19 I.
 
@@ -361,7 +361,7 @@ II. Asistir a todas las sesiones que celebre el Congreso del Estado, en caso de 
 
 III. Asistir a todas las reuniones de comisión y comité, de los que sean integrantes;
 
-lV. Acatar las disposiciones y encomiendas de la Asamblea y de la Presidencia de la Mesa Directiva del Congreso del Estado que estén conformes con la presente Ley;
+IV. Acatar las disposiciones y encomiendas de la Asamblea y de la Presidencia de la Mesa Directiva del Congreso del Estado que estén conformes con la presente Ley;
 
 V. Permanecer en el Recinto Oficial del Congreso del Estado durante el desarrollo de las sesiones y en las comisiones y comités durante las reuniones de trabajo debidamente convocadas conforme lo establezca el reglamento. Queda estrictamente prohibido a los diputados abandonar el Recinto Oficial sin el permiso previo de la presidencia de la Mesa Directiva;
 
@@ -649,11 +649,17 @@ VI. Presentar propuestas al proyecto de presupuesto anual que presente la Comisi
 
 VII. Presentar propuestas a la Mesa Directiva, del programa legislativo de las sesiones, así como el calendario para su desahogo;
 
-VII (sic). Designar a su Secretario Técnico;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2010)</small>
 
-VIII. Proponer (sic) la Asamblea el nombramiento de los consejeros electorales representantes del Poder Legislativo ante el Consejo Electoral del Estado, a propuesta de las Fracciones o Grupos Parlamentarios; y
+VIII. Designar a su Secretario Técnico;
 
-IX. Las demás que le señalen esta ley y las disposiciones reglamentarias.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2010)</small>
+
+IX. Proponer a la asamblea el nombramiento de los consejeros electorales representantes del Poder Legislativo ante el Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, a propuesta de las fracciones o grupos parlamentarios; y
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2010)</small>
+
+X. Las demás que le señalen esta ley y las disposiciones reglamentarias.
 
 ###### Artículo 44.
 
@@ -1375,7 +1381,7 @@ XXI. Hacienda y Presupuestos;
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
-XXII. Higiéne y Salud Pública;
+XXII. Higiene y Salud Pública;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1467,6 +1473,8 @@ VI. La formación del inventario pormenorizado de los muebles y enseres de la Se
 
 2. La Comisión está integrada por un diputado de cada una de las fracciones o Grupos Parlamentarios. Sus decisiones se toman por unanimidad.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 23095/LIX/10, PUBLICADO EN EL P.O. DE 17 DE JULIO DE 2010, SE MODIFICO LA ESTRUCTURA DEL PRESENTE ARTICULO, QUEDANDO CONFORMADO POR CINCO FRACCIONES.</small>
+
 ###### Artículo 76.
 
 1. Corresponde a la Comisión de Asuntos Electorales el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
@@ -1475,13 +1483,17 @@ I. La legislación en materia electoral;
 
 II. La integración de la comisión referida en el artículo 133 Fracción I de la ley electoral para la elección de los consejeros electorales con derecho a voz y voto del Consejo Electoral del Estado;
 
-III. La elección y remoción del Presidente del Consejo Electoral del Estado, en los supuestos previstos por el artículo 12 fracción VI de la Constitución Política del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2010)</small>
 
-IV. La propuesta para designación, como Gobernador Interino o Sustituto, en las faltas temporales o definitivas del Gobernador Constitucional, a quien deba sustituirlo, en los términos y condiciones que señala la Constitución Política del Estado;
+III. La propuesta para designación, como Gobernador Interino o Sustituto, en las faltas temporales o definitivas del Gobernador Constitucional, a quien deba sustituirlo, en los términos y condiciones que señala la Constitución Política del Estado;
 
-V. La expedición del Bando Solemne para dar (sic) conocer la Declaración de Gobernador Electo hecha por el Consejo Electoral del Estado; y
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2010)</small>
 
-VI. Los planes, programas y calendarios del Consejo Electoral del Estado.
+IV. La expedición del Bando Solemne para dar a conocer la declaración de Gobernador Electo hecha por el Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, y
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2010)</small>
+
+V. Los planes, programas y calendarios del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco.
 
 ###### Artículo 77.
 
@@ -1499,13 +1511,13 @@ Artículo 77 A.
 
 1. Corresponde a la Comisión de Asuntos Metropolitanos, el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
-l. La legislación en materia de servicios para el área conurbada de Guadalajara y asuntos Metropolitanos;
+I. La legislación en materia de servicios para el área conurbada de Guadalajara y asuntos Metropolitanos;
 
 II. La declaración de Municipios que pertenezcan a zonas conurbadas para su mejor ubicación y atención de asuntos que interesen a los Ayuntamientos integrantes; y (sic)
 
 > <small>(REFORMADA, P.O. 24 DE MARZO DE 2007)</small>
 
-lII. Las políticas, programas y proyectos sobre asuntos Metropolitanos;
+III. Las políticas, programas y proyectos sobre asuntos Metropolitanos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2007)</small>
 
@@ -2019,11 +2031,11 @@ V. Proponer al Pleno del Congreso del Estado, los proyectos de dictamen de decre
 
 VI. Al dictaminar las cuentas públicas, ejercer las facultades de fiscalización a que se refiere esta ley, de tal manera que pueda ser calificado el desempeño de la gestión pública, con base a los indicadores de medición objetivos, que de manera fundada y motivada propicien una mejora gubernamental y un mayor impacto de los programas de gobierno en el beneficio colectivo;
 
-VIl. Expedir certificaciones de los documentos que obren en su archivo, por conducto de su Presidente;
+VII. Expedir certificaciones de los documentos que obren en su archivo, por conducto de su Presidente;
 
 VIII. Conocer el programa anual de actividades que para el debido cumplimiento de sus funciones, elabore la Auditoría Superior, así como sus modificaciones y evaluar su cumplimiento;
 
-IX. Citar al Auditor Superior para conocer en lo específico de algún informe final de auditoria de las cuentas públicas o de la opinión técnica de los estados financieros;
+IX. Citar al Auditor Superior para conocer en lo específico de algún informe final de auditoría de las cuentas públicas o de la opinión técnica de los estados financieros;
 
 X. Conocer el proyecto de presupuesto anual de la Auditoría Superior, así como el informe anual de su ejercicio;
 
@@ -2031,7 +2043,7 @@ XI. Proponer al Pleno del Congreso del Estado al titular de la Unidad, a sus ser
 
 XII. Aprobar el programa de actividades de la Unidad y requerir toda la información relativa a sus funciones.
 
-XIII. Ordenar a la Unidad, la práctica de auditoria pública a la Auditoría Superior;
+XIII. Ordenar a la Unidad, la práctica de auditoría pública a la Auditoría Superior;
 
 XIV. Planear, programar, ordena y efectuar auditorías, inspecciones o visitas administrativas a las diversas unidades que integran la Auditoría Superior, cumpliendo con las formalidades de esta ley;
 
@@ -2367,7 +2379,9 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 1. A cualquier sesión a la que asistan, siempre se destinan lugares preferentes en el Recinto a los gobernadores de otras entidades, a los titulares de los poderes de la Federación, del Estado o de otras entidades federativas.
 
-2. De igual forma, siempre se destina un lugar especial en el Recinto, a los magistrados del Poder Judicial, a los consejeros de la Comisión Estatal de Derechos Humanos y del Consejo Electoral del Estado, a los secretarios de despacho, a los titulares de los organismos públicos descentralizados, a los representantes de los ayuntamientos de la entidad, los representantes militares y a los integrantes de los cuerpos diplomático y consular.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2010)</small>
+
+2. De igual forma, siempre se destina un lugar especial en el Recinto a los magistrados del Poder Judicial, a los consejeros de la Comisión Estatal de Derechos Humanos y del Instituto Electoral y de Participación Ciudadana, a los secretarios de despacho, a los titulares de los organismos públicos descentralizados, a los representantes de los ayuntamientos de la entidad, a los representantes militares y a los integrantes de los cuerpos diplomático y consular.
 
 ### CAPÍTULO II. Iniciativas
 
@@ -2943,11 +2957,17 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 ### CAPÍTULO V. Elección o Ratificación de Servidores Públicos de la competencia del Congreso del Estado
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2010)</small>
+
 ###### Artículo 216.
 
-1. De conformidad con la Constitución Política del Estado de Jalisco, una vez recibida la declaratoria de Gobernador Electo que envía el Consejo Electoral, en los términos de la ley estatal en materia, el Congreso del Estado expide el Bando solemne para darla a conocer y se le da lectura en la sesión previa a aquella en que el Gobernador del Estado deba rendir la protesta constitucional para asumir su cargo.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2010)</small>
 
-2. Terminada la lectura de la declaratoria hecha por el Consejo Electoral, el Presidente del Congreso del Estado hace la declaración pronunciando las siguientes palabras: "Una vez que se han cubierto las etapas señaladas en la ley y efectuada la declaración de validez de la elección, el Congreso del Estado, de conformidad con la declaratoria recibida del Consejo Electoral del Estado, hace del conocimiento del pueblo de Jalisco, que el ciudadano (su nombre) es Gobernador Constitucional del Estado de Jalisco por el periodo comprendido de (periodo)".
+1. De conformidad con la Constitución Política del Estado de Jalisco, una vez recibida la declaratoria de Gobernador Electo que envía el Consejo General del Instituto Electoral y de Participación Ciudadana, en los términos de la ley estatal en la materia, el Congreso del Estado expide el Bando Solemne para darlo a conocer y se le da lectura en la sesión previa a aquella en que el Gobernador del Estado deba rendir la protesta constitucional para asumir su cargo.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2010)</small>
+
+2. Terminada la lectura de la declaratoria hecha por el Instituto Electoral y de Participación Ciudadana, el Presidente del Congreso del Estado hace la declaración pronunciando las siguientes palabras: "Una vez que se han cubierto las etapas señaladas en la ley y efectuada la declaración de validez de la elección, el Congreso del Estado, de conformidad con la declaratoria recibida del Consejo General del Instituto Electoral y de Participación Ciudadana, hace del conocimiento del pueblo de Jalisco que el ciudadano (su nombre) es Gobernador Constitucional del Estado de Jalisco por el periodo comprendido de (periodo)".
 
 3. La declaratoria a que se refiere el presente artículo debe publicarse en el Periódico Oficial "El Estado de Jalisco".
 
@@ -2965,9 +2985,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 ###### Artículo 219.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
-
-1. Para la elección o en su caso ratificación de los magistrados del Supremo Tribunal de Justicia del Estado; del Tribunal Electoral y del Tribunal Administrativo del Estado de Jalisco; de los Consejeros del Consejo General del Poder Judicial; del Procurador General de Justicia; del Procurador de Desarrollo Urbano; del Presidente y Consejeros del Consejo electoral del Estado; y del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos se está a lo que establecen la Constitución Política del Estado y la legislación aplicable.
+1. Para la elección o, en su caso, ratificación de los magistrados del Supremo Tribunal de Justicia del Estado, del Tribunal Electoral y del Tribunal Administrativo del Estado de Jalisco; de los Consejeros del Consejo General del Poder Judicial; del Procurador General de Justicia; del Procurador de Desarrollo Urbano; del Presidente y consejeros del Consejo General del Instituto Electoral y de Participación Ciudadana, y del Presidente y consejeros de la Comisión Estatal de Derechos Humanos, se está a lo que establecen la Constitución Política del Estado y la legislación aplicable.
 
 ###### Artículo 220.
 
@@ -3037,7 +3055,9 @@ II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables est�
 
 ###### Artículo 230.
 
-1. Si la resolución adoptada por el Congreso del Estado se refiere a la desintegración del Ayuntamiento y esto ocurre durante el primer año de ejercicio, se comunica mediante oficio, previo decreto, al Consejo Electoral del Estado el resultado de la resolución y los términos de la convocatoria a elecciones extraordinarias.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2010)</small>
+
+1. Si la resolución adoptada por el Congreso del Estado se refiere a la desintegración del ayuntamiento y esto ocurre durante el primer año de ejercicio, se comunica mediante oficio, previo decreto, al Instituto Electoral y de Participación Ciudadana el resultado de la resolución y los términos de la convocatoria a elecciones extraordinarias.
 
 2. Si no procede que se celebren nuevas elecciones, el Congreso del Estado designa de entre los vecinos del municipio, a propuesta conjunta de la Comisión de Gobernación y Fortalecimiento Municipal y de la Comisión de Asuntos Electorales, a los integrantes del Concejo Municipal que concluyen el periodo respectivo, en los términos de la Constitución Política del Estado y la ley estatal de la materia.
 
@@ -3765,7 +3785,7 @@ P.O. 13 DE ENERO DE 2007.
 
 P.O. 3 DE FEBRERO DE 2007.
 
-ÚNICO. EI presente decreto entrará en vigor el mismo día de su publicación en el periódico oficial "El Estado de Jalisco."
+ÚNICO. El presente decreto entrará en vigor el mismo día de su publicación en el periódico oficial "El Estado de Jalisco."
 
 P.O. 24 DE MARZO DE 2007.
 
@@ -3811,7 +3831,7 @@ P.O. 29 DE DICIEMBRE DE 2007.
 
 P.O. 5 DE JULIO DE 2008.
 
-Primero. El presente decreto entrará en vigor al día 1.° de enero de 2009 en lo conducente, salvo lo establecido en el artículo tercero transitorio, mismo que entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+Primero. El presente decreto entrará en vigor al día 1° de enero de 2009 en lo conducente, salvo lo establecido en el artículo tercero transitorio, mismo que entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 Envíese la minuta correspondiente al Poder Ejecutivo del Estado, para los efectos del artículo 31 de la Constitución Política del estado de Jalisco, una vez que haya entrado en vigor la reforma constitucional contenida en la minuta de decreto 22222.
 
@@ -3846,3 +3866,7 @@ SEGUNDO. El artículo Segundo del presente decreto entrará en vigor al día sig
 P.O. 31 DE DICIEMBRE DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 17 DE JULIO DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
