@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-pensiones-seguros-de-vida-y-otros-beneficios-a-los-5277"
 country: "mx"
 rank: "ley"
 publication_date: "1960-11-19"
-last_updated: "1975-10-29"
+last_updated: "2010-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCION MEXICANA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 1960.
 
@@ -39,17 +39,25 @@ LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOL
 
 La presente Ley es de observancia general para todas las autoridades y funcionarios integrantes de los Poderes Legislativo, Ejecutivo y Judicial del Estado, obligando igualmente a las Autoridades Municipales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2010)</small>
+
 ###### Artículo 2o.
 
-El Gobierno del Estado, en justo reconocimiento a los méritos de los ciudadanos chihuahuenses que tomaron participación activa en la Revolución Mexicana, otorga en su favor las siguientes prestaciones:
+El Gobierno del Estado, por conducto de las Dependencias encargadas de los Programas Sociales y de Salud, en justo reconocimiento a los méritos de los ciudadanos chihuahuenses que tomaron participación activa en la Revolución Mexicana, otorga en su favor las siguientes prestaciones:
 
 I.- Preferencia para ocupar empleos en los Gobiernos del Estado y Municipales, sin perjuicio de su pensión, en caso de tenerla.
 
 Los veteranos burócratas tendrán también prioridad en los ascensos de la unidad donde presten sus servicios.
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1975)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- La pensión vitalicia de $1,100.00 mensuales.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2010)</small>
+
+II.- Pensión mensual vitalicia por el equivalente a 25 veces el salario mínimo general diario vigente en la capital del Estado.
+
+Este beneficio sólo se otorgará por cabeza a cada veterano de la Revolución Mexicana debidamente reconocido y, en caso de sus descendientes consanguíneos en línea recta, hasta el segundo grado. Por estirpe se deberá distribuir de conformidad a las reglas que en materia de sucesión establecen los artículos 1499 al 1502 del Código Civil del Estado.
 
 III.- Servicio médico-quirúrgico gratuito en las instituciones oficiales, incluyendo hospitalización y medicamentos para el veterano y sus familiares consanguíneos en línea recta.
 
@@ -115,7 +123,7 @@ PRIMERO.- La presente Ley entrará en vigor el día siguiente de su publicación
 
 SEGUNDO.- Al entrar en vigor este ordenamiento se integrará de inmediato la Comisión Consultiva del Estado.
 
-TERCERO.- Se concede a la Comisión Consultiva un plazo que fenecerá el 31 de diciembre de 1961 para presentar al Ejecutivo del Estado la relación depurada de los veteranos chihuahuenses reconocidos definitivamente por la Secretaría de la Defensa Nacional.
+TERCERO.- (DEROGADO, P.O. 17 DE JULIO DE 2010)
 
 CUARTO.- Las pensiones vitalicias a que se refiere el artículo 2o., Fracción II de la Ley, principiarán a pagarse a partir del 1º. de enero de 1962.
 
@@ -129,8 +137,18 @@ Palacio de Gobierno del Estado.- Chihuahua, 19 de noviembre de 1960.
 
 TEOFILO BORUNDA.- El Srio. Gral. De Gbno., LIC. JOSE LUIS SIQUEIROS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.
 
 P.O. 29 DE OCTUBRE DE 1975.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1o. de enero de 2011.
+
+###### ARTÍCULO SEGUNDO.
+
+Se previene al Ejecutivo del Estado, para que contemple en el Presupuesto de Egresos del Estado, para el ejercicio fiscal del año 2011, la partida correspondiente que le permita realizar las erogaciones necesarias a fin de otorgar los beneficios contemplados en este Decreto, a los beneficiarios indicados
