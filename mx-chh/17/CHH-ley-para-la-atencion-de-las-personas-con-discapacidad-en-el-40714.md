@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-atencion-de-las-personas-con-discapacidad-en-el-407
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-24"
-last_updated: "2006-09-20"
+last_updated: "2010-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA ATENCION DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2010.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de julio de 2004.
 
@@ -65,7 +65,9 @@ III.- Habilitación.- Proceso por el que se enseña a una persona con discapacid
 
 IV.- Rehabilitación.- Proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo, entre otros, encaminados a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social;
 
-V.- Equiparación de oportunidades.- Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios que faciliten a las personas con discapacidad una integración, convivencia y participación en igualdad de oportunidades y posibilidades con el resto de la población;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2010)</small>
+
+V.- Equiparación de oportunidades.- Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, educativo, cultural y de bienes y servicios que faciliten a las personas con discapacidad una integración, convivencia y participación con equidad de oportunidades y posibilidades con el resto de la población;
 
 VI.- Ayudas técnicas.- Dispositivos tecnológicos que permitan habilitar, rehabilitar o compensar una o más limitaciones funcionales motrices;
 
@@ -744,3 +746,9 @@ N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 P.O. 20 DE SEPTIEMBRE DE 2006.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+
+P.O. 17 DE JULIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
