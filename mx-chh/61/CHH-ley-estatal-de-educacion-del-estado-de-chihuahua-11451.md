@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2010-02-24"
+last_updated: "2010-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -1409,6 +1409,10 @@ La Autoridad Educativa Estatal garantizará la equidad de la educación, a trav�
 
 I. Implementar programas compensatorios, en coordinación con la Autoridad Educativa Federal, orientados a alcanzar la equidad con una perspectiva de género, atendiendo de manera especial a las necesidades educativas de indígenas, campesinos, obreros, migrantes, personas con necesidades educativas especiales asociadas o no a discapacidad y, en general, a la población en condiciones de marginación y exclusión de los ámbitos familiar, educativo y social. En la aplicación de estos programas tendrán prioridad las y los educandos de seis a quince años de edad.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2010)</small>
+
+En uso de sus facultades, y en coordinación con la Autoridad Educativa Federal en su caso, deberá aplicar procedimientos de evaluación acordes a las necesidades de las personas con discapacidad, con el fin de garantizar su incorporación y permanencia en el nivel de educación superior del sistema educativo estatal, en un marco de equidad;
+
 II. Atender de manera especial a las escuelas que concentran en su población escolar a personas que provienen de grupos vulnerables, en la que es considerablemente mayor la posibilidad de marginación y exclusión, mediante la inversión de recursos económicos y humanos con preparación profesional para mejorar la calidad educativa de estos grupos;
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
@@ -2504,3 +2508,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 24 DE FEBRERO DE 2010.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JULIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
