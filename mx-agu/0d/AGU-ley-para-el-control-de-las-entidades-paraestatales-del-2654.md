@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-control-de-las-entidades-paraestatales-del-2654"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "2006-12-28"
+last_updated: "2010-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 20 de marzo de 1988.
 
@@ -73,11 +73,11 @@ Las dependencias y entidades que constituyan fideicomisos privados deberán regi
 
 Las universidades y demás instituciones de educación superior a las que la Ley otorgue autonomía, se regirán por sus leyes específicas.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 4o.
 
-Las entidades paraestatales deberán proporcionar a las demás entidades, la información y datos que les soliciten, así como los que les requiera la Contraloría General del Gobierno del Estado y la Contaduría Mayor de Hacienda del Congreso del estado, respecto de las cuentas públicas que les sean presentadas.
+las entidades paraestatales deberán proporcionar a las demás entidades, la información y datos que les soliciten, así como los que les requiera la Contraloría General del Gobierno del Estado y el Órgano Superior de Fiscalización del Estado, respecto de las cuentas públicas que les sean presentadas.
 
 ###### ARTICULO 5o.
 
@@ -435,7 +435,9 @@ XIV.- Las que señalen las otras Leyes, Reglamentos, Decretos, Acuerdos y demás
 
 El Organo de Vigilancia de las entidades paraestatales estará integrado por un Comisario Público Propietario y un Suplente, designados por la Contraloría General del Estado.
 
-Los Comisarios Públicos evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría General les asigne específicamente conforme la ley. Para el cumplimiento de las funciones citadas el órgano de gobierno y el director general deberán proporcionar la información que soliciten los comisarios públicos, y la Contaduría Mayor de Hacienda del Congreso del Estado, esta última será sólo respecto de las cuentas públicas que le sean presentadas.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
+Los Comisarios Públicos evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría General les asigne específicamente conforme la ley. Para el cumplimiento de las funciones citadas el órgano de gobierno y el director general deberán proporcionar la información que soliciten los comisarios públicos y el Órgano Superior de Fiscalización del Estado, este último será sólo respecto de las cuentas públicas que le sean presentadas.
 
 ###### ARTICULO 44.
 
@@ -463,11 +465,11 @@ Las empresas de participación estatal mayoritaria, sin perjuicio de lo establec
 
 Los fideicomisos públicos a que se refiere esta Ley, se ajustarán en lo que sea compatible con lo dispuesto por ella.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 47.
 
-La Contraloría General del Gobierno del Estado, podrá realizar visitas y auditorías a las entidades paraestatales cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el Artículo 44 y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido, todo lo anterior sin detrimento de las facultades legales que correspondan a la Contaduría Mayor de Hacienda del Congreso del Estado.
+La Contraloría General del Gobierno del Estado, podrá realizar visitas y auditorías a las entidades paraestatales cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el Artículo 44 y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido, todo lo anterior sin detrimento de las facultades legales que correspondan al Órgano Superior de Fiscalización del Estado.
 
 ###### ARTICULO 48.
 
@@ -574,3 +576,13 @@ El presente Decreto entrará en vigencia al día siguiente al de su publicación
 ###### ARTICULO SEGUNDO.
 
 Las referencias a los fideicomisos públicos en las leyes, decretos y demás normativa del Estado de Aguascalientes, se entenderán hechas exclusivamente a los fideicomisos a que se refiere el primer párrafo, de la Fracción III, del Artículo 2°, de la Ley de Control de Entidades Paraestatales.
+
+P.O. 19 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
