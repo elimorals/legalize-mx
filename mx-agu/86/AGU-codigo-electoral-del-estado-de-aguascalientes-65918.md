@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-65918"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-01-26"
-last_updated: "2009-06-19"
+last_updated: "2010-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el jueves 26 de enero de 2009.
 
@@ -3747,7 +3747,9 @@ I. Conocida la infracción, la Secretaría integrará un expediente que será re
 
 II. El superior jerárquico a que se refiere el párrafo anterior deberá comunicar al Instituto las medidas que haya adoptado en el caso; y
 
-III. Si la autoridad infractora no tuviese superior jerárquico, el requerimiento será turnado a la Contaduría Mayor de Hacienda del Congreso del Estado, a fin de que se proceda en los términos de las leyes aplicables.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+III. Si la autoridad infractora no tuviese superior jerárquico, el requerimiento será turnado al órgano Superior de Fiscalización del Estado, a fin de que se proceda en los términos de las leyes aplicables.
 
 Las faltas cometidas por las autoridades o los servidores públicos federales, estatales, municipales, órganos autónomos, y cualquier otro ente público a lo establecido por las fracciones II, III, IV y V del artículo 292 de este Código se sancionarán con multa de mil a diez mil días de salario mínimo general vigente en el Estado.
 
@@ -4329,9 +4331,11 @@ IV. Contar al día de su designación, con antigüedad mínima de cinco años, c
 
 V. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto o a algún partido político.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTÍCULO 351.
 
-El contralor durará en su encargo seis años y no podrá ser reelecto; estará adscrito administrativamente a la Presidencia del Consejo y mantendrá la coordinación técnica necesaria con la Contaduría Mayor de Hacienda del Congreso del Estado.
+El contralor durará en su encargo seis años y no podrá ser reelecto; estará adscrito administrativamente a la Presidencia del Consejo y mantendrá la coordinación técnica necesaria con el Órgano Superior de Fiscalización del Estado.
 
 La Contraloría contará con la estructura orgánica, personal y recursos que apruebe el Consejo a propuesta de su titular, de conformidad con las reglas previstas en este Capítulo.
 
@@ -5272,3 +5276,13 @@ P.O. 19 DE JUNIO DE 2009.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
