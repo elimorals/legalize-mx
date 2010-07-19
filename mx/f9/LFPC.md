@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2009-12-21"
+last_updated: "2010-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE JUNIO DE 2009.
-
-ULTIMA ACTUALIZACION POR ACUERDO EXPEDIDO POR LA PROCURADURIA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JULIO DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -132,9 +130,13 @@ Estarán obligados al cumplimiento de esta ley los proveedores y los consumidore
 
 Todo proveedor está obligado a informar y respetar los precios, tarifas, garantías, cantidades, calidades, medidas, intereses, cargos, términos, plazos, fechas, modalidades, reservaciones y demás condiciones conforme a las cuales se hubiera ofrecido, obligado o convenido con el consumidor la entrega del bien o prestación del servicio, y bajo ninguna circunstancia serán negados estos bienes o servicios a persona alguna.
 
-> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-ARTICULO 7 BIS.- El proveedor está obligado a exhibir de manera visible el monto total a pagar por los bienes, productos o servicios que ofrezca al consumidor.
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2010)</small>
+
+ARTICULO 7 BIS.- El proveedor está obligado a exhibir de forma notoria y visible el monto total a pagar por los bienes, productos o servicios que ofrezca al consumidor.
+
+Dicho monto deberá incluir impuestos, comisiones, intereses, seguros y cualquier otro costo, cargo, gasto o erogación adicional que se requiera cubrir con motivo de la adquisición o contratación respectiva, sea ésta al contado o a crédito.
 
 > <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -2001,3 +2003,7 @@ NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigen
 ## TRANSITORIO
 
 UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2010.
+
+D.O.F. 19 DE JULIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor a los 120 días siguientes de su publicación en el Diario Oficial de la Federación.
