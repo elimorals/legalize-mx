@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-educacion-de-aguascalientes-antes-ley-2662
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-07"
-last_updated: "2007-02-12"
+last_updated: "2010-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -289,9 +289,9 @@ IV.- Solicitar se convoque a sesiones ordinarias o extraordinarias del Consejo I
 
 V.- Asistir a las sesiones del Consejo Interior en las que tendrá voz, pero no voto; y (sic)
 
-> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
 
-VI.- Presentar quejas o denuncias ante la Contraloría General de Gobierno y en su caso ante la Contaduría Mayor de Hacienda del Congreso del Estado;
+VI.- Presentar quejas o denuncias ante la Contraloría General de Gobierno y en su caso ante la Comisión de Vigilancia o el Órgano Superior de Fiscalización del Congreso del Estado;
 
 VII.- Las demás que le encomiende el Consejo Interior y las que se determinen en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
 
@@ -380,3 +380,13 @@ P.O. 12 DE FEBRERO DE 2007.
 ###### ARTICULO UNICO.
 
 las (sic) presentes reformas entrarán en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
