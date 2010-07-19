@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-22748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-11-08"
-last_updated: "2008-12-29"
+last_updated: "2010-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el jueves 8 de noviembre de 2001.
 
@@ -525,7 +525,7 @@ XLI. Diseñar, implementar, desarrollar y evaluar programas políticos y lineami
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XLII. Establecer agrupamientos o secciones de la policía preventiva especializados en materia de violencia e género;
+XLII. Establecer agrupamientos o secciones de la policía preventiva especializados en materia de violencia de género;
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -797,7 +797,7 @@ XXII. Promover políticas de prevención y atención de la violencia contra las 
 
 XXIII. Promover una adecuada coordinación con los Municipios y el Instituto Aguascalentense de las Mujeres, a fin de erradicarla violencia contra las mujeres en el Estado; y
 
-XXIV. Asesorar en coordinación con el Instituto Aguascalentense de las Mujeres, a los Municipios para crear políticas públicas para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como mecanismos da evaluación.
+XXIV. Asesorar en coordinación con el Instituto Aguascalentense de las Mujeres, a los Municipios para crear políticas públicas para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como mecanismos de evaluación.
 
 ###### ARTICULO 33.
 
@@ -1105,7 +1105,7 @@ XXIII.- Instrumentar y coordinar un sistema de auto evaluación para el otorgami
 
 XXIV.- Apoyar la elaboración de programas educativos y de capacitación de la actividad turística, para la formación de profesionales y técnicos en turismo en coordinación con el Instituto de Educación de Aguascalientes y la Secretaría de Turismo;
 
-XXV.- Promover la capacitación de servidores públicos estatales y municipales vinculados alas actividades turísticas, de los sectores social y privado, sean personas físicas o morales;
+XXV.- Promover la capacitación de servidores públicos estatales y municipales vinculados a las actividades turísticas, de los sectores social y privado, sean personas físicas o morales;
 
 XXVI.- Otorgar asesoría y asistencia técnica a prestadores de servicios turísticos de los distintos giros, para la capacitación continua de sus empleados y operarios orientados a la calidad del servicio y atención personalizada del usuario;
 
@@ -1167,11 +1167,11 @@ II. Fijar las normas del control, evaluación, fiscalización, contabilidad y au
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-III.- Vigilar el debido ejercicio del gasto público y su congruencia con el Presupuesto de Egresos, practicando las auditorías que para el caso sean necesarias;
+III. Vigilar el debido ejercicio del gasto público y su congruencia con el Presupuesto de Egresos, practicando las auditorías que para el caso sean necesarias;
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-IV.- Comprobar el cumplimiento por parte de las dependencias y entidades del Poder Ejecutivo, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, inversión, deuda, patrimonio, fondos y valores al cuidado o propiedad del Poder Ejecutivo;
+IV. Comprobar el cumplimiento por parte de las dependencias y entidades del Poder Ejecutivo, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, inversión, deuda, patrimonio, fondos y valores al cuidado o propiedad del Poder Ejecutivo;
 
 V. Llevar el control y registro de los bienes muebles e inmuebles al cuidado o propiedad de la Administración Pública Estatal, así como supervisar el correcto uso y estado de conservación de los mismos;
 
@@ -1183,27 +1183,29 @@ VIII. Llevar a cabo la evaluación sistemática del ejercicio de los recursos pr
 
 IX. Informar al Gobernador del Estado sobre el resultado de la evaluación, fiscalización o auditoría de las dependencias y entidades del Poder Ejecutivo;
 
-X. Coordinarse con la Contaduría Mayor de Hacienda del Congreso del Estado para el establecimiento de los procedimientos necesarios para el cabal cumplimiento de sus respectivas atribuciones;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+X. Coordinarse con el Órgano Superior de Fiscalización del Congreso del Estado para el establecimiento de los procedimientos necesarios para el cabal cumplimiento de sus respectivas atribuciones;
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-XI.- Coordinarse con las Dependencias Públicas Federales competentes para integrar la estructura de la Unidad de Control y Evaluación en la Secretaría de Planeación y Desarrollo Regional y, en el seno de este último, coordinarse con las mismas, para efectuar el control y evaluación de los recursos que el Ejecutivo Federal transfiera al Estado para su ejercicio;
+XI. Coordinarse con las Dependencias Públicas Federales competentes para integrar la estructura de la Unidad de Control y Evaluación en la Secretaría de Planeación y Desarrollo Regional y, en el seno de este último, coordinarse con las mismas, para efectuar el control y evaluación de los recursos que el Ejecutivo Federal transfiera al Estado para su ejercicio;
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-XII.- Promover la implantación de órganos de control municipales y apoyar a los respectivos Municipios en esos trámites, así como asesorarlos en su operación a solicitud de los mismos;
+XII. Promover la implantación de órganos de control municipales y apoyar a los respectivos Municipios en esos trámites, así como asesorarlos en su operación a solicitud de los mismos;
 
 XIII. Atender las quejas y denuncias que presenten los particulares organizados o a título individual, que se deriven del ejercicio de la inversión que efectúe el Poder Ejecutivo;
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-XIV.- Designar y remover con acuerdo del Gobernador del Estado a los Contralores Internos en las Dependencias y Entidades del Poder Ejecutivo.
+XIV. Designar y remover con acuerdo del Gobernador del Estado a los Contralores Internos en las Dependencias y Entidades del Poder Ejecutivo.
 
 XV. Nombrar a los comisarios o a sus equivalentes, en los órganos de vigilancia de los consejos o juntas de gobierno y administración de las entidades del Poder Ejecutivo;
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-XVI.- Emitir los lineamientos y coordinar la Entrega-Recepción de las oficinas públicas del Poder Ejecutivo.
+XVI. Emitir los lineamientos y coordinar la Entrega-Recepción de las oficinas públicas del Poder Ejecutivo.
 
 XVII. Conocer, investigar y resolver sobre los actos y omisiones de los servidores públicos que constituyan responsabilidades administrativas; en su caso determinar el daño causado al Estado, turnándolo a la autoridad competente para su ejecución, mediante el pliego de responsabilidades proceder al saneamiento por medio de la sanción administrativa o denuncia judicial respectiva;
 
@@ -1642,3 +1644,13 @@ P.O. 29 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
