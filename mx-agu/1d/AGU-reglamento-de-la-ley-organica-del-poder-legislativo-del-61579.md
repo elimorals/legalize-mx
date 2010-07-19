@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-del-poder-legislativo-del-61579"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-16"
-last_updated: "2008-06-16"
+last_updated: "2010-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de junio de 2008.
 
@@ -813,9 +813,11 @@ La negativa a la información solicitada será motivo de responsabilidad y sanci
 
 Las comisiones cuya materia corresponda con los ramos de la Administración Pública Estatal, harán el estudio del informe a que se refiere la Fracción IV del Artículo 46 de la Constitución según su competencia. Al efecto, formularán un documento en el que consten las conclusiones de su análisis, el cual deberá ser presentado al Pleno.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTÍCULO 75.
 
-Las comisiones de acuerdo con su competencia, darán opinión fundada a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, con base en los informes que rindan el Poder Ejecutivo Estatal y las demás entidades fiscalizadas, en los términos del Artículo 27, Fracción V de la Constitución. Dichas opiniones deberán ser enviadas a más tardar sesenta días después de la recepción de los informes. La opinión fundada tendrá por objeto hacer aportaciones a esa comisión sobre aspectos presupuestales específicos, con relación al cumplimiento de los objetivos de los programas del correspondiente ramo de la Administración Pública Estatal, y para que sean consideradas en la revisión de la cuenta pública.
+Las comisiones de acuerdo con su competencia, darán opinión fundada a la Comisión de Vigilancia, con base en los informes que rindan el Poder Ejecutivo Estatal y las demás entidades fiscalizadas, en los términos del Artículo 27, Fracción V de la Constitución. Dichas opiniones deberán ser enviadas a más tardar sesenta días después de la recepción de los informes. La opinión fundada tendrá por objeto hacer aportaciones a esa comisión sobre aspectos presupuestales específicos, con relación al cumplimiento de los objetivos de los programas del correspondiente ramo de la Administración Pública Estatal, y para que sean consideradas en la revisión de la cuenta pública. Para estos efectos, la Comisión turnará las opiniones al Órgano Superior de Fiscalización.
 
 ###### ARTÍCULO 76.
 
@@ -1964,3 +1966,15 @@ DIPUTADO PRIMER SECRETARIO.
 Patricia Lucio Ochoa,
 
 DIPUTADA SEGUNDA SECRETARIA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
