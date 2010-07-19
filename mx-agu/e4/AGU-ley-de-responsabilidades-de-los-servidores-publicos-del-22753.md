@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-de-los-servidores-publicos-del-22753"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2009-07-13"
+last_updated: "2010-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
 
@@ -79,7 +79,7 @@ IV.- La verdad, sinceridad y franqueza deberán ser actitudes distintivas de los
 
 V.- El servidor público está obligado a conducirse siempre respetando las buenas costumbres y los principios morales de la sociedad a la que se deben; y
 
-VI.- El ejercicio constante de las virtudes humanas como la probidad, darán al servidor público el respeto a la confianza necesarias para continuar en su encargo.
+VI.- El ejercicio constante de las virtudes humanas como la probidad, darán al servidor público el respeto a la confianza necesaria para continuar en su encargo.
 
 ###### ARTICULO 4o.
 
@@ -639,7 +639,7 @@ Tratándose de denuncias contra los servidores públicos de los Poderes Legislat
 
 Son autoridades competentes para substanciar el procedimiento de Responsabilidad Administrativa Disciplinaria e imponer las sanciones correspondientes las siguientes:
 
-I.- En el Poder Ejecutivo: La Contraloría General del Estado, los órganos de control internos de cada una de las dependencias o entidades o de los organismos auxiliares, los cuáles podrán identificar, investigar y determinar las responsabilidades de los servidores públicos, así como para imponer las sanciones disciplinarias a que se refiere el Artículo 80 de esta Ley;
+I.- En el Poder Ejecutivo: La Contraloría General del Estado, los órganos de control internos de cada una de las dependencias o entidades o de los organismos auxiliares, los cuales podrán identificar, investigar y determinar las responsabilidades de los servidores públicos, así como para imponer las sanciones disciplinarias a que se refiere el Artículo 80 de esta Ley;
 
 II.- En el Poder Legislativo: El órgano competente de conformidad con su Ley Orgánica, respecto a sus servidores públicos, quien además podrá identificar, investigar y determinar la responsabilidad de Presidentes Municipales, Regidores y Síndicos para imponer y aplicar las sanciones disciplinarias que correspondan en los términos de esta Ley;
 
@@ -953,7 +953,9 @@ La Contraloría General del Estado llevará el registro de la situación patrimo
 
 Están obligados a presentar declaración de situación patrimonial, bajo protesta de decir verdad, los siguientes servidores públicos:
 
-I.- En el Congreso del Estado: los Diputados, el Contador Mayor de Hacienda, el Secretario General, los Directores Generales y los Jefes de Departamento;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+I.- En el Congreso del Estado: los diputados, el Auditor Superior del Estado, el Secretario General, los directores generales y los jefes de departamento;
 
 II.- En el Poder Ejecutivo: todos los servidores públicos, desde el nivel de Jefes de Departamento o equivalente hasta el titular del Poder Ejecutivo del Estado, incluyendo Subcomandantes, Comandantes, Agentes del Ministerio Público, de la Policía Ministerial y Recaudadores de Rentas;
 
@@ -1126,3 +1128,13 @@ P.O. 13 DE JULIO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
