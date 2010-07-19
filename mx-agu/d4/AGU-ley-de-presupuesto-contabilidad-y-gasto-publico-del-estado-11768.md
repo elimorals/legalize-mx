@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-1176
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "2009-06-29"
+last_updated: "2010-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -103,9 +103,9 @@ IX.- "Sujetos de la Ley". Los que se indican en el artículo 1º de la Ley, así
 
 X.- "Tesorería ó Tesorerías". La tesorería municipal ó su equivalente; y (sic)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
 
-XI.- "Contaduría Mayor". La Contaduría Mayor de Hacienda del Congreso del Estado;
+XI.- "Órgano Superior": al Órgano Superior de Fiscalización del Estado de Aguascalientes;
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2003)</small>
 
@@ -421,17 +421,19 @@ Los titulares de los Sujetos de la Ley tendrán la responsabilidad primaria e in
 
 Los demás servidores públicos serán responsables del adecuado funcionamiento del sistema de control de las operaciones a su cargo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 39.
 
-A la Contraloría y sus equivalentes en los Municipios, Poder Legislativo y Judicial, en el ámbito de su competencia, quedará encomendada la vigilancia y verificación del Gasto Público de los Sujetos de la Ley por medio de visitas, inspecciones y auditorías, sin detrimento de las facultades legales que correspondan a la Contaduría Mayor de Hacienda del Congreso del Estado y a la Comisión de Vigilancia de dicha Contaduría.
+A la contraloría y sus equivalentes en los municipios, Poder Legislativo y Judicial, en el ámbito de su competencia, quedará encomendada la vigilancia y verificación del Gasto Público de los Sujetos de la Ley por medio de visitas, inspecciones y auditorias, sin detrimento de las facultades legales que correspondan al Órgano Superior de Fiscalización y a la Comisión de Vigilancia del Congreso del Estado.
 
 Los servidores públicos están obligados a proporcionar a dichos órganos de revisión, en el ámbito de su competencia, todos los documentos, datos e informes que les soliciten.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 40.
 
-Durante los meses de enero y julio de cada año, la información contenida en las cuentas públicas se publicará en el Periódico Oficial del Estado por la Secretaría o Tesorería Municipal correspondiente. Dentro de los cuarenta y cinco días naturales siguientes contados a partir de la fecha de publicación, el Congreso del Estado deberá emitir el dictamen correspondiente.
+La información contenida en los informes de avance de gestión financiera así como de la cuenta pública se publicará dentro de los siguientes 8 días a que sea entregada al H. Congreso, en el Periódico Oficial del Estado por la Secretaría o Tesorería Municipal correspondiente. El proceso de revisión de la cuenta pública se sujetará a lo señalado en la Ley Superior de Fiscalización del Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2003)</small>
 
@@ -542,3 +544,13 @@ P.O. 29 DE JUNIO DE 2009.
 ###### ARTÍCULO ÚNICO
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
