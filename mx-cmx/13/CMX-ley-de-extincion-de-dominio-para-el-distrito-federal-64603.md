@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-extincion-de-dominio-para-el-distrito-federal-64603"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-08"
-last_updated: "2008-12-08"
+last_updated: "2010-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64603&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-12-03"
 
 LEY DE EXTINCION DE DOMINIO PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JULIO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 8 de diciembre de 2008.
 
@@ -68,9 +68,17 @@ III. Agente del Ministerio Público: Agente del Ministerio Público especializad
 
 IV. Bienes: Todos los que puedan ser objeto de apropiación que no estén excluidos del comercio, ya sean muebles e inmuebles, y que actualicen los supuestos señalados en el artículo 5 de esta Ley;
 
-V. Delincuencia organizada: Participación de tres o más personas que acuerden organizarse o se organicen para realizar, en forma reiterada o permanente conductas que por sí o unidas a otras, tienen como fin o resultado cometer alguno o algunos de los delitos a que se refieren el artículo 254 del Código Penal para el Distrito Federal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI. Delitos Patrimoniales: Robo de vehículos y extorsión con relación a delincuencia organizada;
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
+
+V. Delincuencia organizada: Organización de hecho de tres o más personas para cometer, en forma permanente o reiterada, alguno de los delitos a que se refiere el artículo 254 del Código Penal para el Distrito Federal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
+
+VI. Delitos Patrimoniales: Robo de vehículos, extorsión, encubrimiento por receptación contemplado en el artículo 243, todos con relación a la delincuencia organizada;
 
 VII. Evento típico: Hecho, típico, constitutivo de cualquiera de los delitos de delincuencia organizada, secuestro, robo de vehículos y trata de personas; aun cuando no se haya determinado quien o quienes fueron sus autores, participaron en él o el grado de su intervención;
 
@@ -96,7 +104,11 @@ XVII. Tercero: Persona que, sin ser afectado en el procedimiento de Extinción d
 
 XVIII. Trata de Personas: Delitos contemplados en el Capítulo IV, del Título Sexto, del Libro Segundo, del Código Penal para el Distrito Federal; y
 
-XIX. Víctima y Ofendido: Aquellos que tienen la pretensión de que se les reparare el daño, en los términos del artículo 45 del Código Penal para el Distrito Federal, en el Procedimiento de Extinción de Dominio y por los delitos señalados en el artículo 4 de esta Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
+
+XIX. Víctima y Ofendido: Aquellos que en los términos del artículo 45 del Código Penal para el Distrito Federal, tienen la pretensión de que se les repare el daño quienes además tendrán sus derechos expeditos para hacerlos valer en la vía y forma que legalmente corresponda.
 
 ###### ARTÍCULO 3.
 
@@ -104,11 +116,23 @@ En los casos no previstos en esta ley, se estará a las siguientes reglas de sup
 
 I. En la preparación del ejercicio de la Acción de Extinción de Dominio, a lo previsto en el Código de Procedimientos Penales para el Distrito Federal;
 
-II. En el Procedimiento de Extinción de Dominio y medidas cautelares, a lo previsto en el Código de Procedimientos Civiles para el Distrito Federal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. En cuanto a los delitos y medidas cautelares, a lo previsto en el Código Penal para el Distrito Federal, y
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
 
-IV. En los aspectos relativos a la regulación e bienes u obligaciones, a lo previsto en el Código Civil para el Distrito Federal.
+II. En el Procedimiento de Extinción de Dominio, a lo previsto en el Código de Procedimientos Civiles para el Distrito Federal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
+
+III. En cuanto a los delitos, a lo previsto en el Código Penal para el Distrito Federal; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
+
+IV. En los aspectos relativos la regulación de bienes u obligaciones, a lo previsto en el Código Civil para el Distrito Federal.
 
 ### CAPÍTULO II. DE LA ACCIÓN DE EXTINCIÓN DE DOMINIO
 
@@ -138,7 +162,11 @@ III. Aquellos que estén siendo utilizados para la comisión de delitos por un t
 
 IV. Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales o de delincuencia organizada, y el acusado por estos delitos se comporte como dueño.
 
-El supuesto previsto en la fracción III será aplicable cuando el Agente del Ministerio Público acredite que el tercero utilizó el bien para cometer el delito de Delincuencia Organizada y que el dueño tenía conocimiento de esa circunstancia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
+
+El supuesto previsto en la fracción III será aplicable cuando el Agente del Ministerio Público cuando el Agente del Ministerio Público (sic) acredite que el tercero utilizó el bien para cometer delitos patrimoniales, delincuencia organizada, secuestro, trata de personas o robo de vehículos y que el dueño tenía conocimiento de esa circunstancia.
 
 ###### ARTÍCULO 6.
 
@@ -152,9 +180,17 @@ También procederá la acción respecto de los bienes objeto de sucesión heredi
 
 Se restituirán a la víctima u ofendido del delito los bienes de su propiedad que sean materia de la acción, cuando acredite dicha circunstancia en el procedimiento previsto en esta Ley.
 
-El derecho a la reparación del daño, para la víctima u ofendido del delito, será procedente de conformidad con la legislación vigente, cuando obren suficientes medios de prueba en el procedimiento y no se haya dictado sentencia en materia penal al respecto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Cuando la víctima u ofendido obtengan la reparación del daño en el procedimiento de Extinción de Dominio, no podrán solicitarlo en el proceso penal correspondiente.
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
+
+El derecho a la reparación de daño, para la víctima u ofendido del delito, será procedente de conformidad con la legislación vigente, cuando obren suficientes medios de prueba en el Procedimiento y no se haya dictado sentencia ejecutoriada al respecto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
+
+Cuando la víctima u ofendido obtengan la reparación del daño en el procedimiento de Extinción de Dominio, no podrán solicitarlo por ninguna de las otras vías, que para tal efecto establecen las leyes aplicables.
 
 ###### ARTÍCULO 9.
 
@@ -194,7 +230,11 @@ VI. El embargo de bienes; dinero en depósito en el sistema financiero; títulos
 
 VII. Las demás contenidas en la legislación vigente o que considere necesarias, siempre y cuando funde y motive su procedencia.
 
-Las medidas cautelares, dictadas por el Juez, se inscribirán en el Registro Público de la Propiedad que corresponda, cuando se trate de bienes inmuebles; o se informarán, a través del oficio respectivo, a las instancias correspondientes, en caso de muebles.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
+
+Las medidas cautelares dictadas por el Juez, cuando se trate de bienes inmuebles, se inscribirán en el Registro Público de la Propiedad que corresponda, y en caso de bienes muebles, se informarán a través del oficio respectivo, a las instancias correspondientes. En todos los supuestos se determinarán los alcances de las medidas cautelares que se decretan.
 
 En todos los supuestos, los bienes materia de las medidas cautelares quedarán en depósito de áreas especializadas de la Secretaría de Finanzas, en caso de bienes muebles, o de la Oficialía Mayor del Distrito Federal, cuando se trate de bienes inmuebles, y a disposición de las autoridades que determine el Juez.
 
@@ -222,7 +262,11 @@ Mientras los recursos en numerario o títulos financieros de valores se encuentr
 
 Previa autorización del Juez, los bienes fungibles, de género, muebles susceptibles de deterioro o pérdida y los demás que en adición a los anteriores determine la Secretaría de Finanzas del Distrito Federal podrán ser enajenados al mejor postor o en condiciones de mercado; cuando fuere el caso, la Dependencia administrará el producto líquido, de acuerdo con las normas vigentes, e informará al Agente del Ministerio Público y al Juez.
 
-Los bienes inmuebles se administrarán por la Oficialía Mayor de conformidad con la legislación vigente, e informará al Agente del Ministerio Público y al Juez.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
+
+Los bienes inmuebles se administrarán y custodiarán, por la Oficialía Mayor de conformidad con la legislación vigente, e informará al Agente del Ministerio Público y al Juez.
 
 ###### ARTÍCULO 16.
 
@@ -236,9 +280,13 @@ Cuando el Agente del Ministerio Público tenga conocimiento de que va a celebrar
 
 Las autoridades y los notarios públicos que intervengan en la celebración de esos actos o en la inscripción de los mismos, están obligados a informar al Ministerio Público cuando tengan conocimiento o indicios de que los bienes objeto de tales actos se encuentran en alguna de las hipótesis previstas en el artículo 5 de esta ley, en caso contrario serán responsables en términos de la legislación penal o administrativa.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTÍCULO 18.
 
-Contra la resolución que ordene o niegue medidas cautelares procederá el recurso de apelación que se admitirá, en su caso, sólo en el efecto devolutivo.
+Contra la resolución que ordene o niegue medidas cautelares procederá el recurso de apelación que se admitirá, en su caso, sólo en el efecto devolutivo de tramitación inmediata.
 
 ### CAPÍTULO IV. DE LA DENUNCIA
 
@@ -284,11 +332,19 @@ II. Que los bienes materia del procedimiento no son de los señalados en el art�
 
 III. Que respecto de los bienes sobre los que se ejercitó la acción se ha emitido una sentencia firme favorable dentro de un procedimiento de Extinción de Dominio, por identidad respecto a los sujetos.
 
-También garantizará que los terceros ofrecerán pruebas conducentes para que se reconozcan sus derechos sobre los bienes materia de la acción; y las víctimas o ofendidos únicamente en lo relativo a la reparación del daño.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
+
+también garantizará que los terceros ofrezcan pruebas conducentes para que se reconozcan sus derechos sobre los bienes materia de la acción; y las víctimas u ofendidos únicamente en lo relativo a la reparación del daño, cuando comparezca (sic) para tales efectos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 26.
 
-Cuando no comparezca el afectado o su representante legal, el Juez le designará un defensor de oficio quien realizará todas las diligencias para garantizar la audiencia y el debido proceso. Cuando comparezcan los terceros y la víctima, en caso de requerirlo, tendrán derecho a que se les garantice defensa adecuada.
+Cuando el afectado lo solicite por cualquier medio, el Juez le designará un defensor de oficio, quien realizará todas las diligencias para garantizar la audiencia y el debido proceso. Cuando comparezcan terceros y la víctima, en caso de requerirlo, tendrán derecho a que se les garantice defensa adecuada.
 
 ### CAPÍTULO VII. DE LAS PARTES
 
@@ -374,7 +430,9 @@ El Agente del Ministerio Público podrá desistirse de la acción, en cualquier 
 
 Deberán notificarse personalmente:
 
-I. La admisión del ejercicio de la acción al afectado, terceros, víctimas u ofendidos;
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
+
+I. La admisión del ejercicio de la acción al afectado;
 
 II. Cuando se deje de actuar durante más de ciento ochenta días naturales, por cualquier motivo; y
 
@@ -406,7 +464,11 @@ El Juez admitirá la acción, en el plazo de setenta y dos horas siguientes a su
 
 El Agente del Ministerio Público subsanará las observaciones de ser procedentes, si considera que no lo son realizará la argumentación correspondiente.
 
-Contra el auto que admita el ejercicio de la acción no procede recurso alguno, contra el que lo niegue procede el recurso de apelación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
+
+Contra el auto que admita el ejercicio de la acción no procede recurso alguno, contra el que lo niegue procede el recurso de apelación en efecto devolutivo de tramitación inmediata.
 
 Cualquiera que sea la resolución que se adopte en el procedimiento penal, así como en los juicios de Amparo por actos reclamados dentro del procedimiento penal, no serán vinculantes respecto de las resoluciones que se dicten en el Procedimiento de Extinción de Dominio.
 
@@ -564,13 +626,19 @@ Procede el recurso de revocación contra los autos que dicte el juez en el proce
 
 Previa vista que le de a las partes con el recurso de revocación, por el término de dos días hábiles, el Juez resolverá el recurso en un término de dos días hábiles.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTÍCULO 59.
 
-En contra de la sentencia que ponga fin al juicio, procede el recurso de apelación que se admitirá, en su caso, en ambos efectos.
+En contra de la sentencia que ponga fin al juicio, procede el recurso de apelación que se admitirá en ambos efectos.
 
 Contra el acuerdo que rechace medios de prueba ofrecidos en tiempo y forma, procede el recurso de apelación que se admitirá solo en el efecto devolutivo.
 
-El recurso de apelación deberá resolverse por la Sala en un término de treinta días hábiles.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. DEROGADO ULTIMO PARRAFO], G.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 60.
 
@@ -593,3 +661,11 @@ QUINTO. - Hasta en tanto el Tribunal Superior de Justicia del Distrito Federal, 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinticinco días del mes de noviembre del año dos mil ocho.- POR LA MESA DIRECTIVA.- PRESIDENTE, DIP. ALFREDO VINALAY MORA.- FIRMA.- SECRETARIO, DIP. RICARDO BENITO ANTONIO LEÓN.- FIRMA.- SECRETARIO, DIP. JOSÉ ANTONIO ZEPEDA SEGURA.- FIRMA.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los tres días del mes de diciembre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 19 DE JULIO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguiente (sic) a su publicación en la Gaceta Oficial del Distrito Federa (sic).
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
