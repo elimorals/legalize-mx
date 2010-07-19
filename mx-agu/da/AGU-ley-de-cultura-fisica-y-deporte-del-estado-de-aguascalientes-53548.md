@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2010-01-25"
+last_updated: "2010-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE AGUASCALlENTES
+LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de enero de 2007.
 
@@ -39,7 +39,7 @@ Decreto Número 245
 
 Se aprueba la Ley de Cultura Física y Deporte del Estado de Aguascalientes, para quedar bajo los siguientes términos:
 
-LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE AGUASCALlENTES
+LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
@@ -111,7 +111,7 @@ XII. Consejo: El Consejo Estatal del Deporte;
 
 XIII. IDEA: El Instituto del Deporte del Estado de Aguascalientes;
 
-XlV. CEAAD: La Comisión Estatal de Apelación y Arbitraje del Deporte;
+XIV. CEAAD: La Comisión Estatal de Apelación y Arbitraje del Deporte;
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
 
@@ -551,7 +551,9 @@ VIII. Evaluar aspectos específicos del Instituto del Deporte de Aguascalientes 
 
 IX. Verificar la debida integración y funcionamiento de la Junta Directiva;
 
-X. Vigilar que el Instituto del Deporte de Aguascalientes, con la oportunidad y periodicidad que señale, proporcione la información que requiera la Contaduría Mayor de Hacienda del H. Congreso del Estado, y la que le indiquen aquellas dependencias que deban por mandato de ley conocer dicha información;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+X. Vigilar que el Instituto del Deporte de Aguascalientes, con la oportunidad y periodicidad que señale, proporcione la información que requiera el Órgano Superior de Fiscalización del H. Congreso del Estado, y la que le indiquen aquellas dependencias que deban por mandato de Ley conocer dicha información;
 
 XI. Solicitar y verificar que se incluyan en el orden del día de las sesiones de la Junta Directiva, los asuntos que consideren necesarios;
 
@@ -559,7 +561,7 @@ XII. Intervenir con voz pero sin voto en las sesiones ordinarias y extraordinari
 
 XIII. Proporcionar al Director General la información que le solicite;
 
-XlV. Opinar sobre los informes de evaluación de la gestión que por lo menos dos veces al año rinda el Director General a la Junta Directiva;
+XIV. Opinar sobre los informes de evaluación de la gestión que por lo menos dos veces al año rinda el Director General a la Junta Directiva;
 
 XV. Rendir informes a la Junta Directiva sobre las actividades del Instituto del Deporte de Aguascalientes, precisando los aspectos preventivos y correctivos;
 
@@ -621,7 +623,7 @@ XII. Realizar sus actividades de acuerdo a las reglas y bases que le permitan cu
 
 XIII. Presentar al Director General, a la Junta Directiva y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones que realicen;
 
-XlV. Realizar la defensa jurídica de los actos y resoluciones que emita el propio órgano de control interno;
+XIV. Realizar la defensa jurídica de los actos y resoluciones que emita el propio órgano de control interno;
 
 XV. Examinar y evaluar los sistemas, mecanismos y procedimientos de control; efectuar revisiones y auditorías, vigilando que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; y
 
@@ -1616,3 +1618,13 @@ Las modificaciones al Reglamento de la Ley de Cultura Física y Deporte del Esta
 ###### ARTÍCULO TERCERO.
 
 La Comisión conforme a la presente Ley, deberá celebrar su sesión de instalación en un plazo no mayor de 60 días a la fecha de entrada en vigencia del presente Decreto, en la que se deberá de aprobar el plan de trabajo de la referida Comisión.
+
+P.O. 19 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
