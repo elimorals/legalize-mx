@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2010-07-12"
+last_updated: "2010-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -1507,13 +1507,17 @@ XIII. Intervenir en la elaboración del programa financiero municipal;
 
 XIV. Elaborar y mantener actualizado el padrón de contribuyentes;
 
-XV. Ministrar a su inmediato antecesor todos los datos oficiales que le solicitare, para contestar los pliegos de observaciones y alcances que formule y deduzca la Contaduría Mayor de Hacienda del H. Congreso del Estado;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+XV. Ministrar a su inmediato antecesor todos los datos oficiales que le solicitare, para contestar los pliegos de observaciones y demás requerimientos que formule el Órgano Superior de Fiscalización;
 
 XVI. Solicitar a las instancias competentes, la práctica de revisiones circunstanciadas, de conformidad con las normas que rigen en materia de control y evaluación gubernamental en el ámbito municipal;
 
 XVII. Glosar oportunamente las cuentas del Ayuntamiento;
 
-XVIII. Contestar oportunamente los pliegos de observaciones y responsabilidad que haga la Contaduría Mayor de Hacienda del Congreso del Estado;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+XVIII. Contestar oportunamente los pliegos de observaciones y demás requerimientos que haga el Órgano Superior de Fiscalización;
 
 XIX. Expedir copias certificadas de los documentos que tenga a su cuidado sólo por acuerdo expreso del ayuntamiento;
 
@@ -1695,17 +1699,17 @@ I. Fortalecer el núcleo familiar a través de la promoción social, que tienda 
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
 
-II. Realizar estudios e investigaciones sobre los problemas de la familia, de los menores, de las personas adultas mayores, indigentes, de las personas con discapacidad y proponer soluciones adecuadas;
+II.- Realizar estudios e investigaciones sobre los problemas de la familia, de los menores, de las personas adultas mayores, indigentes, de las personas con discapacidad y proponer soluciones adecuadas;
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
 
-III. Proporcionar servicios asistenciales a menores en estado de abandono, a las personas con discapacidad, sin recursos, personas adultas mayores desamparados e indigentes;
+III.- Proporcionar servicios asistenciales a menores en estado de abandono, a las personas con discapacidad, sin recursos, personas adultas mayores desamparados e indigentes;
 
 IV. Fomentar la educación para la integración social, a través de la enseñanza preescolar y extraescolar;
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
 
-V. Fomentar y, en su caso, proporcionar servicios de rehabilitación, a los menores infractores, personas adultas mayores, a las personas con discapacidad y fármaco dependientes e indigentes;
+V.- Fomentar y, en su caso, proporcionar servicios de rehabilitación, a los menores infractores, personas adultas mayores, a las personas con discapacidad y fármaco dependientes e indigentes;
 
 VI. Apoyar y fomentar la nutrición y las acciones de medicina preventiva, dirigidas a los lactantes, las madres gestantes y población socialmente desprotegida;
 
@@ -1713,7 +1717,7 @@ VII. Promover el desarrollo de la comunidad, en el territorio del municipio;
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
 
-VIII. Prestar servicios de asistencia jurídica y de orientación social a los menores, personas adultas mayores, indigentes y a las personas con discapacidad sin recursos;
+VIII.- Prestar servicios de asistencia jurídica y de orientación social a los menores, personas adultas mayores, indigentes y a las personas con discapacidad sin recursos;
 
 IX. Intervenir en el ejercicio de la tutela de menores, que corresponda al Estado en los términos de la ley, y auxiliar al Ministerio Público en la protección de incapaces y en los procedimientos civiles y familiares que les afecten de acuerdo a la Ley;
 
@@ -2082,3 +2086,13 @@ El Sistema para el Desarrollo Integral de la Familia del Estado, gestionará ant
 ###### ARTICULO CUARTO.
 
 Una vez publicado el presente Decreto en el Periódico Oficial del Estado, los municipios deberán emitir sus reglas en un plazo máximo de 180 días naturales contados a partir de la entrada en vigencia del presente Decreto.
+
+P.O. 19 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
