@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "2010-04-19"
+last_updated: "2010-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -719,7 +719,9 @@ XII.- Gestionar y promover el financiamiento para la realización del Programa d
 
 XIII.- Intervenir en la regularización de la tenencia de la tierra, en coordinación con las dependencias correspondientes;
 
-XIV.- Controlar los programas de inversión pública del Gobierno Municipal, vigilando el cumplimiento de los mismos; e informando sobre el ejercicio de la inversión a la Contaduría Mayor de Hacienda del Congreso del Estado;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+XIV.- Controlar los programas de inversión pública del Gobierno Municipal, vigilando el cumplimiento de los mismos; e informando sobre el ejercicio de la inversión al Órgano Superior de Fiscalización del Congreso del Estado;
 
 XV.- Proponer, gestionar y realizar en coordinación con los Gobiernos Federal y Estatal las acciones necesarias para preservar y controlar la ecología en los asentamientos humanos del Municipio;
 
@@ -1125,7 +1127,7 @@ XVII.- Vigilar que los organismos privados y sociales cumplan con los compromiso
 
 XVIII.- Fomentar la participación de los Municipios en el Sistema Estatal de Protección Civil;
 
-XIX.- Promover en lo Municipios la integración de Sistemas Municipales de Protección Civil;
+XIX.- Promover en los Municipios la integración de Sistemas Municipales de Protección Civil;
 
 XX.- Asegurar el mantenimiento o pronto restablecimiento de los servicios públicos fundamentales en los lugares donde ocurra un desastre;
 
@@ -2505,7 +2507,7 @@ Las acciones e inversiones que en materia de protección ecológica, conservaci�
 
 ###### ARTICULO 180.
 
-Los programas de desarrollo urbano, deberán preveer la posibilidad de adecuarse, en caso de emergencia, a los requerimientos que se presenten.
+Los programas de desarrollo urbano, deberán prever la posibilidad de adecuarse, en caso de emergencia, a los requerimientos que se presenten.
 
 Para tal efecto en ellos se incluirán los factores de riesgos potenciales que deberán tomarse en cuenta para la zonificación, determinación de usos y destinos, expedición de licencias y autorizaciones en materia de construcción, fraccionamiento y condominio y expedición de concesiones para la explotación de bancos de materiales.
 
@@ -4431,13 +4433,13 @@ I.- VIALlDADES REGIONALES O DE ACCESO CONTROLADO: Son aquellas que vinculan a la
 
 II.- ARTERIAS DE GRAN VOLUMEN: Son las que estructuran el sistema vial de las Ciudades, por lo que son las de mayor importancia por sección y flujo vehicular. Su dimensión aproximada es de 42 metros de sección o ancho;
 
-III.- VIALlDADES SECUNDARIAS: Son las que vinculan las diferentes zonas urbanas y tienen una menor importancia que las principales. Su dimensión va de los 23 metros a los 42 metros de sección o de ancho, dependiendo del flujo vehicular, ya que son un enlace entre vialidades primarias y colectoras;
+III.- VIALIDADES SECUNDARIAS: Son las que vinculan las diferentes zonas urbanas y tienen una menor importancia que las principales. Su dimensión va de los 23 metros a los 42 metros de sección o de ancho, dependiendo del flujo vehicular, ya que son un enlace entre vialidades primarias y colectoras;
 
-IV- VIALlDADES O CALLES COLECTORAS: Son las que enlazan las unidades vecinales entre sí, es decir, conducen el tráfico de las calles locales hacia otras zonas del fraccionamiento o del centro de población, o hacia las arterias de gran volumen. Este tipo de calles nunca podrán ser cerradas y pueden servir para dar acceso a los lotes;
+IV- VIALIDADES O CALLES COLECTORAS: Son las que enlazan las unidades vecinales entre sí, es decir, conducen el tráfico de las calles locales hacia otras zonas del fraccionamiento o del centro de población, o hacia las arterias de gran volumen. Este tipo de calles nunca podrán ser cerradas y pueden servir para dar acceso a los lotes;
 
-V- VIALlDADES O CALLES LOCALES: Son aquellas que dan servicio internamente a los fraccionamientos, colonias y desarrollos habitacionales y sirven para dar acceso a sus lotes, por lo que son las de menor sección;
+V- VIALIDADES O CALLES LOCALES: Son aquellas que dan servicio internamente a los fraccionamientos, colonias y desarrollos habitacionales y sirven para dar acceso a sus lotes, por lo que son las de menor sección;
 
-VI.- VIALlDAD CERRADA: Son las vías públicas municipales que no tienen una continuidad o liga con otras calles, por encontrarse cerradas o delimitadas en uno de sus extremos. Sin embargo las mismas se consideran como un bien del dominio público de los Municipios, por reunir las características y condiciones a que hace referencia este Código; y
+VI.- VIALIDAD CERRADA: Son las vías públicas municipales que no tienen una continuidad o liga con otras calles, por encontrarse cerradas o delimitadas en uno de sus extremos. Sin embargo las mismas se consideran como un bien del dominio público de los Municipios, por reunir las características y condiciones a que hace referencia este Código; y
 
 VII.- ANDADORES: Son aquellos que servirán exclusivamente para el tránsito de peatones.
 
@@ -4581,7 +4583,7 @@ Los fraccionamientos habitacionales urbanos de tipo medio, deberán tener como m
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-I.- Lotifícación: sus lotes no podrán tener un frente menor de 8 metros, ni una superficie menor de 176 metros cuadrados.
+I.- Lotificación: sus lotes no podrán tener un frente menor de 8 metros, ni una superficie menor de 176 metros cuadrados.
 
 No podrá haber un porcentaje mayor del 30% del número total de lotes, que tengan un frente mayor de 12 metros, o una superficie mayor de 360 metros cuadrados, para uso habitacional.
 
@@ -5145,7 +5147,7 @@ Asimismo, no podrá destinar el predio a un uso distinto del autorizado en la re
 
 ###### ARTICULO 336.
 
-En los fraccionamientos habitacionales de interés social, nadie podrá adquirir por si o por interpósita persona, más de un lote o vivienda en los mismos, con excepción de los desarrolladores de vivienda quienes podrán adquirir más de un lote siempre y cuando la venta al usuario final sea realizada en forma directa por dicho desarrollador, no sea en obras de urbanización progresiva y el fin sea para construir casas de interés social en un plazo que no exceda de tres años a partir de la firma del contrato, el que se celebrará con reserva de dominio hasta en tanto se cumpla la condición, en caso de incumplimiento se le devolverá al comprador la cantidad originalmente convenida.
+En los fraccionamientos habitacionales de interés social, nadie podrá adquirir por sí o por interpósita persona, más de un lote o vivienda en los mismos, con excepción de los desarrolladores de vivienda quienes podrán adquirir más de un lote siempre y cuando la venta al usuario final sea realizada en forma directa por dicho desarrollador, no sea en obras de urbanización progresiva y el fin sea para construir casas de interés social en un plazo que no exceda de tres años a partir de la firma del contrato, el que se celebrará con reserva de dominio hasta en tanto se cumpla la condición, en caso de incumplimiento se le devolverá al comprador la cantidad originalmente convenida.
 
 ###### ARTICULO 337.
 
@@ -5277,7 +5279,7 @@ Se entiende por fusión de áreas o predios, la unión de dos o más terrenos co
 
 ###### ARTICULO 354.
 
-Se entiende por subdivisión de áreas o predios urbanos, la partición de un terreno ubicado dentro de los límites de un centro de población, en dos o mas fracciones, que no requiera de una o más vías públicas, ni la presentación de una manifestación de impacto urbano y/o rural, independientemente de la calidad de la posesión o tenencia de la tierra.
+Se entiende por subdivisión de áreas o predios urbanos, la partición de un terreno ubicado dentro de los límites de un centro de población, en dos o más fracciones, que no requiera de una o más vías públicas, ni la presentación de una manifestación de impacto urbano y/o rural, independientemente de la calidad de la posesión o tenencia de la tierra.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
 
@@ -6323,7 +6325,7 @@ I.- Fianza expedida por compañía autorizada, con valor del 40% del presupuesto
 
 II.- Hipoteca de inmuebles que cubran el valor amparado por la fianza señalada en el inciso anterior, sin que exista la posibilidad de que se ejerzan actos de dominio respecto de dichos bienes, hasta en tanto no se cancele la garantía correspondiente; o
 
-III.- Depósito en efectivo por el 15% del presupuesto total de las obras de urbanízación.
+III.- Depósito en efectivo por el 15% del presupuesto total de las obras de urbanización.
 
 ###### ARTICULO 453.
 
@@ -6389,7 +6391,7 @@ En caso de que el fraccionador o promovente no realice las obras de urbanizació
 
 ###### ARTICULO 460.
 
-Cuando el fraccionador, promovente de condominio, de un predio subdividido o de un desarrollo especial, haya ejecutado obras, construcciones, instalaciones o servicios en contravención a lo establecido en este Código, en la legislación urbana, en los programas de desarrollo urbano o en la autorización respectiva; la SEPLADE o el Ayuntamiento podrán ordenar la corrección de dichas obras, o bien, demolerlas total o parcialmente, sin ninguna obligación de pagar índemnización al fraccionador, promovente o desarrollador, quien deberá cubrir el costo de los trabajos efectuados, cuando éste no cumpla con el requerimiento de la autoridad competente, generándose a su cargo un crédito fiscal.
+Cuando el fraccionador, promovente de condominio, de un predio subdividido o de un desarrollo especial, haya ejecutado obras, construcciones, instalaciones o servicios en contravención a lo establecido en este Código, en la legislación urbana, en los programas de desarrollo urbano o en la autorización respectiva; la SEPLADE o el Ayuntamiento podrán ordenar la corrección de dichas obras, o bien, demolerlas total o parcialmente, sin ninguna obligación de pagar indemnización al fraccionador, promovente o desarrollador, quien deberá cubrir el costo de los trabajos efectuados, cuando éste no cumpla con el requerimiento de la autoridad competente, generándose a su cargo un crédito fiscal.
 
 ###### ARTICULO 461.
 
@@ -8870,3 +8872,13 @@ En el caso de los fraccionamientos ya autorizados y construidos pero no recibido
 ###### ARTÍCULO TERCERO.
 
 En el caso de los fraccionamientos ya autorizados, construidos y recibidos por el Municipio, éstos serán los responsables de sustituir los contenedores para almacenamiento de residuos sólidos urbanos, por los establecidos en el presente Decreto.
+
+P.O. 19 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
