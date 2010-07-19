@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-deuda-publica-del-estado-de-aguascalientes-11767"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "2009-02-02"
+last_updated: "2010-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -157,7 +157,7 @@ IV.- Los financiamientos deberán ser congruentes con los objetivos y previsione
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-V.- En todos los casos se procurará el mantenimiento de un equilibrio financiero, por lo tanto la programación, contratación y pago de los Financiamientos se deberán ajustar a la capacidad de pago de las entidades para asegurar la autosustentabilidad de la Deuda. La Secretaría establecerá y publicará la metodología para la determinación de la capacidad de pago de las entidades de los sujetos de esta Ley señalados en el Artículo 2º.;
+V.- En todos los casos se procurará el mantenimiento de un equilibrio financiero, por lo tanto la programación, contratación y pago de los Financiamientos se deberán ajustar a la capacidad de pago de las entidades para asegurar la autosustentabilidad de la Deuda. La Secretaría establecerá y publicará la metodología para la determinación de la capacidad de pago de las entidades de los sujetos de esta Ley señalados en el Artículo 2º;
 
 VI.- Deberá buscarse las alternativas o modalidades de mercado que permitan obtener las condiciones mejores en cuanto a tasas de interés, comisiones y plazos, en un marco de agilidad, simplificación, ejecutividad, rentabilidad y libre competencia; y
 
@@ -221,7 +221,9 @@ I.- Examinar, discutir y en su caso formular observaciones o ajustes necesarios 
 
 II.- Autorizar al Gobierno del Estado o Municipal para intervenir como aval o deudor solidario de los financiamientos que contraten las demás entidades;
 
-III.- Ejercer las facultades de vigilancia que tiene conferidas en la Constitución Política del Estado de Aguascalientes a través de la Contaduría Mayor de Hacienda y de la Comisión de Vigilancia del Congreso del Estado;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+III.- Ejercer las facultades de vigilancia que tiene conferidas en la Constitución Política del Estado de Aguascalientes a través del Órgano Superior de Fiscalización y de la Comisión de Vigilancia del Congreso del Estado;
 
 IV.- Aprobar montos adicionales al Programa de Financiamiento Neto del ejercicio fiscal de que se trate, previa solicitud del Gobierno Estatal o Municipal, cuando se presenten circunstancias extraordinarias que así lo ameriten; y
 
@@ -461,7 +463,7 @@ IV.- En el caso de los municipios y sus entidades, la fecha del acta de cabildo 
 
 V.- Garantías afectadas;
 
-VI.- Cumplimiento o incumplimiento de las obligaciones contraidas; y
+VI.- Cumplimiento o incumplimiento de las obligaciones contraídas; y
 
 VII.- Cancelación de las inscripciones cuando se acredite el cumplimiento o el pago de los financiamientos que las generen.
 
@@ -489,7 +491,7 @@ Para los efectos de esta Ley se entiende por conversión de la Deuda Pública la
 
 ###### Artículo 40.
 
-Dentro de los términos de la vigencia de los financiamientos, el Gobierno del Estado o el Ayuntamiento de los Municipios podrá renegociar su Deuda Pública, sujetándose a las disposiciones de la presente Ley.
+Dentro de los términos de la vigencia de los financiamientos, el Gobierno del Estado o el Ayuntamiento de los Municipios podrá (sic) renegociar su Deuda Pública, sujetándose a las disposiciones de la presente Ley.
 
 TRANSITORIOS:
 
@@ -576,3 +578,13 @@ P.O. 2 DE FEBRERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
