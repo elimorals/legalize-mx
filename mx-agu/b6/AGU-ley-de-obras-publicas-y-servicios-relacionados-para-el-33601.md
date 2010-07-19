@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-obras-publicas-y-servicios-relacionados-para-el-33601"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-25"
-last_updated: "2009-07-13"
+last_updated: "2010-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de agosto de 2003.
 
@@ -1195,7 +1195,9 @@ Si las modificaciones en monto exceden el porcentaje indicado en el párrafo ant
 
 Dichas modificaciones no podrán, en modo alguno, afectar las condiciones que se refieran a la naturaleza y características esenciales del objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de la Ley.
 
-En caso de requerirse el convenio señalado en el párrafo anterior, se informará del mismo a la Contaduría Mayor de Hacienda del H. Congreso del Estado.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
+En caso de requerirse el convenio señalado en el párrafo anterior, se informará del mismo al Órgano Superior de Fiscalización del H. Congreso del Estado.
 
 En caso de convenios adicionales en cuanto al plazo, se podrá celebrar un único convenio adicional al mencionado en el primer párrafo entre las partes por el plazo necesario para atender la eventualidad, debiendo justificarse mediante dictamen fundado y motivado emitido por el residente de supervisión.
 
@@ -1353,11 +1355,11 @@ La forma y términos que los Sujetos de la Ley deberán remitir a la Contralorí
 
 Para tal efecto, los Sujetos de la Ley conservarán en forma ordenada y sistemática toda la documentación comprobatoria de dichos actos y contratos, cuando menos por un lapso de cinco años, contados a partir de la finalización formal de los trabajos; en el caso de la documentación contable de estará a lo dispuesto en el Código Fiscal del Estado de Aguascalientes. Para el caso de las dependencias de Gobierno del Estado, la Secretaría de Finanzas será la responsable de este último punto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### Artículo 81.
 
-La Contaduría Mayor de Hacienda del H. Congreso del Estado, la Contraloría y demás instancias que corresponda, en el ejercicio de sus respectivas atribuciones, podrán verificar, en cualquier tiempo, que las obras públicas y servicios relacionados con las mismas se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
+El Órgano Superior de Fiscalización del Estado de Aguascalientes, la Contraloría y demás instancias que corresponda, en el ejercicio de sus respectivas atribuciones, podrán verificar, en cualquier tiempo, que las obras públicas y servicios relacionados con las mismas se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
 
 De igual forma, dichas instancias podrán realizar las visitas e inspecciones que estimen pertinentes a los Sujetos de la Ley que realicen obras públicas y servicios relacionados con las mismas, así como solicitar a los servidores públicos y contratistas todos los datos e informes relacionados con los actos de que se trate e intervenir en cualquier acto que contravenga las disposiciones que rigen las materias objeto de esta Ley.
 
@@ -1602,3 +1604,13 @@ P.O. 13 DE JULIO DE 2009.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
