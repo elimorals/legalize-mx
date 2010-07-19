@@ -4,7 +4,7 @@ identifier: "HID-ley-de-planeacion-para-el-desarrollo-del-estado-de-hidalgo-3490
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-24"
-last_updated: "2003-11-24"
+last_updated: "2010-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de noviembre de 2003.
 
@@ -47,13 +47,17 @@ QUE CONTIENE LA LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE HIDALGO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 1.
 
-Las disposiciones de esta Ley, son de orden público e interés social y tienen por objeto establecer:
+Las disposiciones de esta Ley son de orden público, interés social y observancia general para el Estado y los Municipios, teniendo por objeto establecer:
 
 I.- Las normas y principios básicos, conforme a los cuales se llevará a cabo el proceso de Planeación Estatal del Desarrollo y encauzar, en función de éste, las actividades de la Administración Pública Estatal y Municipal, así como la participación de los diferentes sectores de la sociedad;
 
-II.- Las bases de integración y funcionamiento de los Sistemas Estatal y Municipal de Planeación Democrática;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+II.- Las bases para la integración y funcionamiento del Sistema Estatal de Planeación Democrática;
 
 III.- Las bases para que el Poder Ejecutivo Estatal coordine sus actividades de Planeación con la Federación, las demás Entidades Federativas y los Municipios que integran el Estado, de acuerdo a la Legislación aplicable;
 
@@ -63,13 +67,17 @@ V.- Las bases para que las acciones de los particulares contribuyan a alcanzar l
 
 VI.- Las bases para la integración y funcionamiento del Sistema Integral de Información Estatal para la Planeación;
 
-VII.- Las bases para que la Planeación Municipal del Desarrollo, como parte fundamental de la Planeación Estatal, se vincule con los objetivos y estrategias del desarrollo del Estado y la Nación y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+VII.- Las bases para la Planeación Municipal y Metropolitana del Desarrollo, como parte fundamental de la Planeación Estatal, se vincule con los objetivos y estrategias del desarrollo del Municipio, Estado y la Nación; y
 
 VIII.- Las bases para que la Planeación Regional del Desarrollo, contribuya con el cumplimiento de los objetivos de la Planeación para el Desarrollo Municipal, Estatal y Nacional.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 2.
 
-Para los efectos de esta Ley, se entiende por Planeación Estatal del Desarrollo, el proceso de ordenación racional y sistemática de acciones que, con base en el ejercicio de las atribuciones del Titular del Poder Ejecutivo Estatal en materia de promoción y regulación de la actividad económica, social, política, ambiental y cultural, tiene como finalidad la transformación de la realidad de la Entidad, de conformidad con las normas, principios y objetivos que la Constitución Política del Estado y las Leyes establecen.
+Para los efectos de esta Ley, se entiende por Planeación Estatal del Desarrollo, el proceso de ordenación racional y sistemática de acciones que, con base en el ejercicio de las atribuciones del Titular del Poder Ejecutivo Estatal en materia de promoción y regulación de la actividad económica, social, política, ambiental, regional y cultural, tiene como finalidad la transformación de la realidad de la Entidad, de conformidad con las normas, principios y objetivos que la Constitución Política del Estado y las Leyes establecen.
 
 A través de la Planeación del Desarrollo, se fijarán objetivos, estrategias, líneas de acción y prioridades; se asignarán recursos, responsabilidades y tiempos de ejecución; se coordinarán acciones y se evaluarán resultados.
 
@@ -77,9 +85,13 @@ A través de la Planeación del Desarrollo, se fijarán objetivos, estrategias, 
 
 La Planeación del Desarrollo, deberá identificarse y ejercitarse como el proceso para el desempeño eficaz de la responsabilidad del Estado sobre el desarrollo integral y sustentable de la Entidad y deberá atender a la consecución de los fines políticos, sociales, ambientales, culturales y económicos contenidos en la Constitución Política del Estado de Hidalgo, guardando concordancia con los lineamientos generales que rijan al País. Para ello estará basada en los siguientes principios:
 
-I.- El fortalecimiento de la libertad, la soberanía estatal y la autonomía municipal en lo político, económico, social y cultural;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
 
-II.- La preservación y el perfeccionamiento del sistema republicano y federal que la Constitución Política de los Estados Unidos Mexicanos señala y del régimen democrático y representativo que establece la Constitución del Estado de Hidalgo; así como el fortalecimiento de la democracia como forma de vida fundada en el constante mejoramiento económico, político, social y cultural del pueblo hidalguense, impulsando su participación activa en la Planeación del Desarrollo y ejecución de las actividades que con base en ella deban realizarse;
+I.- El fortalecimiento de la libertad, la soberanía Estatal, el pacto Federal y la autonomía Municipal en lo político, económico, social, regional y cultural;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+II.- La preservación y el perfeccionamiento del Sistema Republicano y Federal que la Constitución Política de los Estados Unidos Mexicanos señala y del régimen democrático y representativo que establece la Constitución del Estado de Hidalgo; así como el fortalecimiento de la democracia, como forma de vida fundada en el constante mejoramiento económico, político, social, regional y cultural del pueblo hidalguense, impulsando su participación activa en la Planeación del Desarrollo y ejecución de las actividades que con base en ella deban realizarse;
 
 III.- La igualdad de derechos, la equidad de género, la atención de necesidades de la población y la mejoría, en todos los aspectos de su calidad de vida, a fin de lograr una sociedad más justa e igualitaria;
 
@@ -87,17 +99,27 @@ IV.- El respeto irrestricto a las garantías individuales, a los derechos social
 
 V.- La consolidación del Pacto Federal y del Municipio Libre, para lograr un desarrollo equilibrado del Estado, congruente con los objetivos del País;
 
-VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo, en un marco de estabilidad económica, política y social;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
 
-VII.- La coordinación de esfuerzos, objetivos, estrategias y acciones entre órdenes de Gobierno, para obtener un desarrollo integral y sustentable del Estado;
+VI.- El equilibrio de los factores productivos que favorecen la protección y promoción del empleo refuerzan la competitividad de las regiones del Estado e incrementan los empleos y los ingresos de la población, en un marco de estabilidad económica, política y social;
 
-VIII.- El fortalecimiento de los mecanismos para la participación activa y responsable de la sociedad y su incorporación al proceso de desarrollo y;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
 
-IX.- El impulso al desarrollo regional equilibrado, con base en las potencialidades de las regiones; en políticas diferenciadas de desarrollo y en el aprovechamiento racional de los recursos naturales, humanos, técnicos y financieros del Estado y los Municipios.
+VII.- La coordinación de esfuerzos, objetivos, estrategias y acciones entre los órdenes de Gobierno, para obtener un desarrollo integral y sustentable del Estado;
+
+VIII.- El fortalecimiento de los mecanismos para la participación activa y responsable de la sociedad y su incorporación al proceso de desarrollo y (sic);
+
+IX.- El impulso al desarrollo regional equilibrado, con base en las potencialidades de las regiones; en políticas diferenciadas de desarrollo y en el aprovechamiento racional de los recursos naturales, humanos, técnicos y financieros del Estado y los Municipios;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2010)</small>
+
+IX (SIC).- El aprovechamiento óptimo y racional de los recursos naturales, humanos, técnicos y financieros de los Municipios y regiones para su desarrollo.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 4.
 
-Es atribución del Titular del Ejecutivo del Estado, conducir el proceso de Planeación Estatal del Desarrollo, con la participación coordinada, inducida, concertada y democrática de los Municipios, grupos sociales y/o particulares, de conformidad con lo dispuesto en la presente Ley, manteniendo congruencia con los objetivos y prioridades de la Planeación Nacional del Desarrollo.
+Es atribución del Titular del Ejecutivo del Estado, conducir el proceso de Planeación Estatal del Desarrollo, con la participación coordinada, inducida, concertada y democrática de los Municipios, grupos sociales y/o particulares, así mismo con otras Entidades Federativas, que consoliden la planeación regional, metropolitana e intermunicipal, de conformidad con lo dispuesto en la presente Ley, manteniendo congruencia con los objetivos y prioridades de la Planeación Nacional del Desarrollo.
 
 ###### ARTICULO 5.
 
@@ -107,9 +129,11 @@ Al interior de los Municipios, será responsabilidad del Presidente Municipal co
 
 El proceso de Planeación del Desarrollo al que se refiere esta Ley, se sujetará a un instrumento rector denominado Plan Estatal de Desarrollo, con base en el cual se elaborarán y conducirán las estrategias del desarrollo, así como los procesos de Planeación en el ámbito Estatal, Regional y Municipal.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 7.
 
-El Gobernador del Estado, remitirá el Plan Estatal de Desarrollo al Congreso del Estado para su conocimiento.
+El Gobernador del Estado, presentará el Plan Estatal de Desarrollo ante la sociedad hidalguense y lo remitirá al Congreso del Estado, para su conocimiento.
 
 ###### ARTICULO 8.
 
@@ -139,9 +163,11 @@ Las Dependencias y Entidades de la Administración Pública Estatal y Municipal,
 
 Los Proyectos de Iniciativa de Leyes y los Reglamentos, Decretos y Acuerdos que formule el Poder Ejecutivo Estatal, señalarán las relaciones que, en su caso, existan entre el Proyecto de que se trate y el Plan Estatal y/o los Programas respectivos.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 14.
 
-En caso de duda sobre la interpretación de esta Ley, se estará a lo que resuelva para efectos administrativos, el Poder Ejecutivo Estatal por conducto de la Secretaría de Desarrollo Social.
+En caso de duda sobre la interpretación de esta Ley, se estará a lo que resuelva, para efectos administrativos, el Poder Ejecutivo Estatal, conforme a lo dispuesto en la Constitución Política del Estado y la Ley Orgánica de la Administración Pública del Estado de Hidalgo.
 
 ### CAPITULO II. SISTEMA ESTATAL DE PLANEACION DEMOCRATICA
 
@@ -149,7 +175,9 @@ En caso de duda sobre la interpretación de esta Ley, se estará a lo que resuel
 
 La Planeación Estatal del Desarrollo, se realizará en los términos de esta Ley a través del Sistema Estatal de Planeación Democrática, mediante el cual se formularán, evaluarán y actualizarán el Plan Estatal y los Programas de Desarrollo del Estado, en el marco de la estrategia nacional del desarrollo.
 
-El Sistema Estatal de Planeación Democrática, constituye un conjunto articulado de relaciones funcionales entre las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, así como con los sectores social y privado, vinculados en el proceso de Planeación del Desarrollo Estatal de forma obligada, coordinada, concertada e inducida.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
+El Sistema Estatal de Planeación Democrática, constituye un conjunto Articulado de procesos, actividades y relaciones funcionales entre las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, así como con los sectores social y privado, vinculados en el proceso de Planeación del Desarrollo Estatal de forma obligada, coordinada, concertada e inducida.
 
 El sistema comprende órganos y mecanismos permanentes de participación democrática, responsable y propositiva a través de los cuales los grupos organizados de la sociedad y la población en general, serán parte activa en el proceso de Planeación Estatal, Regional y Municipal.
 
@@ -193,9 +221,11 @@ VIII.- Coordinar y vincular sus acciones con los Comités de Planeación para el
 
 IX.- Promover que las acciones del proceso de Planeación para el Desarrollo Estatal, contemplen a las Regiones del Estado como los espacios estratégicos en los que se vinculan los esfuerzos Municipales, Estatales y Federales para impulsar el Desarrollo de la Entidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 20.
 
-A la Secretaría de Desarrollo Social, le corresponde:
+A la Secretaría de Planeación y Desarrollo Regional le corresponde:
 
 I.- Coordinar el proceso de Planeación Estatal del Desarrollo y las actividades que de él se deriven, con base en las propuestas que los diversos sectores de la sociedad viertan a través de la consulta ciudadana y en los acuerdos que se tomen en el seno del Comité de Planeación para el Desarrollo del Estado de Hidalgo;
 
@@ -203,11 +233,13 @@ II.- Coordinar el Sistema Estatal de Planeación Democrática en congruencia con
 
 III.- Definir, instrumentar y conducir con Acuerdo del Gobernador del Estado, las políticas sobre las cuales se orientarán el Plan Estatal y los Programas para el Desarrollo de la Entidad;
 
-> <small>(F. DE E., P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
 
-IV.- Formular con la participación de las demás Dependencias del Poder Ejecutivo del Estado, los Municipios y los sectores social y privado, el Plan Estatal de Desarrollo y establecer los lineamientos para la formulación de los Programas Regionales, Sectoriales e Institucionales y de aquéllos de carácter especial que fije el Gobernador del Estado;
+IV.- Formular con la participación de las demás Dependencias del Poder Ejecutivo del Estado, los Municipios y los sectores social y privado, el Plan Estatal de Desarrollo y establecer los lineamientos para la formulación de los programas regionales, metropolitanos, sectoriales e institucionales y de aquellos de carácter especial, que fije el Gobernador del Estado;
 
-V.- Definir y coordinar, con la participación que corresponda al Gobierno Federal y a los Gobiernos Municipales, la Planeación Regional del Desarrollo y la ejecución de los Programas Especiales que señale el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+V.- Definir y coordinar, con la participación que corresponda a las demás dependencias del Gobierno Estatal, al Gobierno Federal y a los Gobiernos Municipales, la Planeación Regional del Desarrollo y la ejecución de los Programas Especiales, que señale el Gobernador del Estado;
 
 VI.- Coordinar las acciones que el Poder Ejecutivo Estatal convenga con el Gobierno Federal y los Gobiernos Municipales, para el desarrollo integral de las diversas Regiones del Estado;
 
@@ -219,11 +251,15 @@ IX.- Auxiliar al Gobernador en la elaboración de los Convenios que celebre el G
 
 X.- Integrar el Convenio de Coordinación para el Desarrollo Social y Humano o su equivalente y los Acuerdos que de él se deriven, así como supervisar y evaluar su instrumentación a través del Comité de Planeación para el Desarrollo del Estado de Hidalgo;
 
-XI.- Establecer la coordinación entre el Plan y los Programas que para el Desarrollo Estatal genere el Ejecutivo del Estado, con los de la Administración Pública Federal y los de los Municipios de la Entidad;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+XI.- Establecer la coordinación entre el Plan y los Programas que para el Desarrollo Estatal, genere el Ejecutivo del Estado, a través de sus Dependencias, con los de la Administración Pública Federal y los de los Municipios de la Entidad;
 
 XII.- Integrar las demandas populares planteadas al Poder Ejecutivo Estatal y a sus Dependencias, como instrumento de Planeación, para darles seguimiento y evaluar su atención en el marco de los diferentes Programas;
 
-XIII.- Coordinar las actividades del Comité de Planeación para el Desarrollo del Estado de Hidalgo, representando en la esfera de sus atribuciones al Gobierno del Estado ante la Federación, en el ejercicio de los Programas insertos en el Convenio de Coordinación para el Desarrollo Social y Humano o su equivalente y los documentos que de él se deriven, así como coordinar las actividades del mencionado Comité, con los correspondientes regionales y municipales;
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
+XIII.- Coordinar las actividades del Comité de Planeación para el Desarrollo del Estado de Hidalgo, representando en la esfera de sus atribuciones al Gobierno del Estado, ante la Federación, en el ejercicio de los Programas insertos en el Convenio de Coordinación para el Desarrollo Social y Humano o su equivalente y los documentos que de él se deriven así como coordinar las actividades del mencionado Comité, con los correspondientes regionales, Metropolitanos y Municipales;
 
 XIV.- Vigilar que los Programas que se generen en el Sistema Estatal de Planeación Democrática, mantengan congruencia con el Plan Estatal de Desarrollo y respondan a las prioridades de Planeación Estatal;
 
@@ -233,21 +269,29 @@ XVI.- Evaluar los resultados de la ejecución del Plan Estatal y los Programas d
 
 XVII.- Otorgar a los Municipios, cuando así lo soliciten, la asesoría y el apoyo técnico necesario para la elaboración de su Plan Municipal y Programas de Desarrollo;
 
-XVIII.- Coordinar el desarrollo de las acciones convenidas entre el Poder Ejecutivo Estatal y los Municipios, para la instrumentación y ejecución de Programas Especiales;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+XVIII.- Coordinar, en conjunto con las demás Dependencias y Entidades de la Administración Pública Estatal, el desarrollo de las acciones convenidas entre el Poder Ejecutivo Estatal y los Municipios, para la instrumentación y ejecución de los diversos Programas de Desarrollo del Estado, de conformidad a la Legislación aplicable vigente;
 
 XIX.- Establecer conjuntamente con los Municipios, los mecanismos de evaluación de las acciones que se realicen en forma coordinada entre los dos órdenes de Gobierno;
 
-XX.- Emitir dictámenes sobre los Programas de Desarrollo, que permitan mejorar el desarrollo de los Municipios;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+XX.- Emitir dictámenes sobre los Programas de Desarrollo, que permitan mejorar el desarrollo de los Municipios, de las regiones y de las zonas metropolitanas;
 
 XXI.- Proponer las adecuaciones que se requieran para el eficaz cumplimiento de los objetivos y metas planeados en los Municipios, con pleno respeto a su autonomía;
 
-XXII.- Establecer mecanismos de coordinación y programas de trabajo, con Dependencias Federales, Estatales y Municipales, con la finalidad de fortalecer a los Municipios y Regiones del Estado y;
+XXII.- Establecer coordinación y programas de trabajo, con Dependencias Federales, Estatales y Municipales, con la finalidad de fortalecer a los Municipios y Regiones del Estado y;
 
-XXIII.- Establecer, coordinar y conducir las actividades del Sistema Integral de Información Estatal, para la Planeación del Desarrollo.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+XXIII.- Establecer, coordinar y conducir las actividades del Sistema Integral de Información Estatal para la Planeación del Desarrollo del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 21.
 
-A la Secretaría de Finanzas y Administración, le compete:
+A la Secretaría de Finanzas le compete:
 
 I.- Participar en la elaboración del Plan Estatal de Desarrollo, respecto de la definición de las políticas financiera, fiscal, crediticia y subsidiaria;
 
@@ -257,9 +301,13 @@ III.- Revisar que las operaciones en que se haga uso del crédito público, prev
 
 IV.- Considerar los efectos de la política fiscal y crediticia, así como de los precios y tarifas de los bienes y servicios de la Administración Pública Estatal, en el logro de los objetivos y prioridades del Plan Estatal y los Programas;
 
-V.- Estimar y dar a conocer a la Secretaría de Desarrollo Social, el monto global y la calendarización provisional del presupuesto de cada ejercicio fiscal, a fin de posibilitar sus atribuciones en materia de programación y;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
 
-VI.- Proporcionar la información a la Secretaría de Desarrollo Social, sobre el ejercicio de los presupuestos asignados a las Dependencias y Entidades de la Administración Pública Estatal, a efecto de que esté en posibilidades de llevar a cabo la atribución establecida en la fracción XVI del Artículo anterior.
+V.- Estimar y dar a conocer a la Secretaría de Planeación y Desarrollo Regional, el monto global y la calendarización provisional del presupuesto de cada Ejercicio Fiscal, a fin de posibilitar sus atribuciones en materia de validación, evaluación y seguimiento; y
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+VI.- Proporcionar la información a la Secretaría de Planeación y Desarrollo Regional, sobre el ejercicio de los Presupuestos asignados a las Dependencias y Entidades de la Administración Pública Estatal, a efecto de que esté en posibilidades de llevar a cabo la atribución establecida en la fracción XVI del Artículo anterior.
 
 ###### ARTICULO 22.
 
@@ -267,9 +315,13 @@ A las Dependencias de la Administración Pública Estatal, les corresponde:
 
 I.- Intervenir respecto de las materias que les competan, en la formulación, instrumentación, control, evaluación y actualización del Plan Estatal de Desarrollo;
 
-II.- Coordinar las actividades que en materia de Planeación del Desarrollo, correspondan a las Entidades Paraestatales que se agrupen en el sector de cuya coordinación se encargan;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
 
-III.- Formular Programas Sectoriales, tomando en cuenta las propuestas que presenten las entidades del sector correspondiente, los Gobiernos Municipales, las Regiones del Estado, los grupos sociales y los particulares interesados a través del Comité de Planeación para el Desarrollo del Estado de Hidalgo;
+II.- Coordinar las actividades que en materia de Planeación del Desarrollo, correspondan a las Entidades Paraestatales que se agrupan en el sector, de cuya coordinación se encargan;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+III.- Formular Programas Sectoriales, Especiales e Institucionales, tomando en cuenta las propuestas que presenten las Entidades del sector correspondiente, los Gobiernos Municipales; las Regiones del Estado, los grupos sociales y los particulares interesados a través del Comité de Planeación para el Desarrollo del Estado de Hidalgo;
 
 IV.- Garantizar la congruencia de los Programas Sectoriales con el Plan Estatal de Desarrollo y los Programas Institucionales y Regionales, así como los especiales que determine el Gobernador del Estado;
 
@@ -279,7 +331,9 @@ VI.- Considerar el ámbito territorial de las acciones previstas en su programa,
 
 VII.- Vigilar que las entidades del sector que coordinen, conduzcan sus actividades conforme al Plan Estatal de Desarrollo y al Programa Sectorial correspondiente y cumplan con lo previsto en el Programa Institucional a que se refiere la fracción II del Artículo 23 de esta Ley y;
 
-VIII.- Revisar periódicamente, la relación que guarden los Programas y Presupuestos de las Entidades Paraestatales del Sector que coordinen, así como los resultados de su ejecución, con los objetivos y prioridades de los Programas Sectoriales, a fin de adoptar las medidas necesarias para corregir las desviaciones o anomalías detectadas y en su caso, los Programas respectivos e informar de sus resultados a la Secretaría de Desarrollo Social.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+VIII.- Revisar periódicamente la relación que guarden los Programas y Presupuestos de las Entidades Paraestatales, del Sector que coordinen, así como los resultados de su ejecución, con los objetivos y prioridades de los Programas Sectoriales, a fin de adoptar las medidas necesarias, para corregir las desviaciones o anomalías detectadas y en su caso, les Programas respectivos e informar de sus resultados a la Secretaría de Planeación y Desarrollo Regional.
 
 ###### ARTICULO 23.
 
@@ -295,11 +349,15 @@ IV.- Considerar el ámbito territorial de sus acciones, atendiendo a los objetiv
 
 V.- Asegurar la congruencia del Programa Institucional con el Programa Sectorial respectivo y;
 
-VI.- Verificar periódicamente la relación que guarden sus actividades, así como los resultados de su ejecución, con los objetivos y prioridades del Programa Institucional y Sectorial correspondiente e informar de sus resultados a la Dependencia Coordinadora de Sector y en su caso, a la Secretaría de Desarrollo Social.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+VI.- Verifica periódicamente la relación que guarden sus actividades, así como los resultados de su ejecución, con los objetivos y prioridades del Programa Institucional y Sectorial correspondiente e informar de sus resultados a la Dependencia Coordinadora de Sector, así como a la Secretaría de Planeación y Desarrollo Regional.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 24.
 
-La Secretaría de Contraloría, será la Dependencia encargada de diseñar la etapa de control y seguimiento de los objetivos y prioridades del Plan Estatal del Desarrollo y los Programas que de él se deriven. Asimismo, se hará cargo de dicha etapa y dará a conocer sus resultados a la Secretaría de Desarrollo Social quien aportará los elementos de juicio para el cumplimiento de su cometido.
+La Secretaría de Contraloría, será la Dependencia encargada de diseñar la etapa de control y seguimiento de los objetivos y prioridades del Plan Estatal del Desarrollo y los Programas que.de él se deriven. Asimismo se hará cargo de dicha etapa y dará a conocer sus resultados al Ejecutivo Estatal, el cual a través de la Secretaría de Planeación y Desarrollo Regional, será quien aportará los elementos de juicio para el cumplimiento de su cometido.
 
 ###### ARTICULO 25.
 
@@ -313,41 +371,61 @@ Estas Comisiones podrán contar con Subcomisiones, para la elaboración de Progr
 
 El Plan Estatal de Desarrollo deberá formularse, aprobarse y publicarse dentro de los ocho meses siguientes a la fecha en que toma posesión el Gobernador del Estado y su vigencia no excederá del período constitucional que le corresponda, aunque podrá contener consideraciones y proyecciones de más largo plazo.
 
-El Plan Estatal de Desarrollo precisará los objetivos estatales, estrategias, líneas de acción y prioridades del desarrollo integral del Estado, tomando en consideración los propósitos y metas de la Planeación Nacional del Desarrollo; contendrá previsiones sobre los recursos estatales y federales que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución y establecerá los lineamientos de política de carácter global, sectorial, regional y municipal. Sus previsiones se referirán al conjunto de la actividad económica, política y social del Estado y regirá, el contenido de los Programas que se generen en el Sistema Estatal de Planeación Democrática.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
+El Plan Estatal de Desarrollo, precisará los objetivos Estatales, estrategias, líneas de acción y prioridades del Desarrollo integral del Estado, tomando en consideración los propósitos y metas de la Planeación Nacional del Desarrollo; y establecerá los lineamientos de política de carácter global, sectorial, Regional y Municipal. Establecerá previsiones referentes al conjunto de la actividad económica; política y social del Estado y regirá el contenido de los Programas que se generen, en el Sistema Estatal de Planeación Democrática.
 
 En el ámbito de la Entidad Federativa, la categoría de Plan como instrumento rector del desarrollo, queda reservada al Plan Estatal de Desarrollo. Se denominará Plan Municipal de Desarrollo al instrumento que, en congruencia con los lineamientos del Plan Estatal, conduzca las actividades del desarrollo del Municipio correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 27.
 
-El Plan Estatal de Desarrollo, indicará los Programas Sectoriales, Institucionales, Regionales y Especiales que deban ser elaborados conforme a este capítulo.
+El Plan Estatal de Desarrollo, indicará los Programas Sectoriales, Institucionales, Regionales, Metropolitanos y Especiales, que deban ser elaborados conforme a este capítulo.
 
 Estos Programas observarán congruencia con el Plan Estatal, así como con los objetivos y prioridades de la Planeación Nacional del Desarrollo. Su vigencia no excederá del período constitucional de la Gestión Gubernamental en que se aprueben, aunque sus proyecciones y previsiones se refieran a un plazo mayor.
 
-La Secretaría de Desarrollo Social mediante la operación del Sistema Integral de Información Estatal para la Planeación del Desarrollo obtendrá y procesará la información social, económica y política del Estado de Hidalgo y de su contexto socioeconómico regional y nacional que resulte conveniente, para orientar en coordinación con las Dependencias y Entidades de la Administración Pública, la Planeación Estatal del Desarrollo.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
+La Secretaría de Planeación y Desarrollo Regional, mediante la operación del Sistema Integral de Información Estatal para la Planeación del Desarrollo obtendrá y procesará la información social, económica y política del Estado de Hidalgo y de su contexto socioeconómico regional y nacional, que resulte conveniente para orientar, en coordinación con las Dependencias y Entidades de la Administración Pública, la Planeación Estatal del Desarrollo.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 28.
 
-Los Programas Sectoriales, serán elaborados por las Dependencias Coordinadoras de Sector y aprobados por el Titular del Poder Ejecutivo Estatal, previo dictamen de la Secretaría de Desarrollo Social y tendrán una vigencia igual al término de la Administración Estatal. Se sujetarán a las previsiones contenidas en el Plan Estatal de Desarrollo y especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del sector administrativo de que se trate. Contendrán asimismo, estimaciones de recursos y determinaciones sobre instrumentos y responsables de su ejecución.
+Los Programas Sectoriales serán elaborados por las Dependencias Coordinadoras de Sector y aprobados por el Titular del Poder Ejecutivo Estatal, previa revisión y validación de la Secretaría de Planeación y Desarrollo Regional y tendrán una vigencia igual al término de la Administración Estatal. Se sujetarán a las previsiones contenidas en el Plan Estatal de Desarrollo y especificarán los objetivos, prioridades y políticas, que regirán el desempeño de las actividades del sector administrativo de que se trate. Contendrán asimismo, estimaciones de recursos y determinaciones sobre instrumentos y responsables de su ejecución.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 29.
 
-Los Programas Institucionales, deberán ser presentados por el Organo de Gobierno y Administración de la Entidad Paraestatal correspondiente, a la validación del Titular de la Dependencia Coordinadora del Sector; si la Entidad Paraestatal no estuviere agrupada en un sector específico, la validación a que se hace referencia corresponderá a la Secretaría de Desarrollo Social.
+Los Programas Institucionales deberán ser elaborados y presentados por el Órgano de Gobierno y Administración de la Entidad Paraestatal correspondiente, a la validación del Titular de la Dependencia Coordinadora del Sector, así como a la aprobación de la Secretaría de Planeación y Desarrollo Regional; si la Entidad Paraestatal no estuviere agrupada en un sector especifico la validación a que se hace referencia, corresponderá a la Secretaría de Planeación y Desarrollo Regional.
 
 Los Programas Institucionales, se sujetarán a las previsiones contenidas en el Plan Estatal de Desarrollo y en el Programa Sectorial correspondiente. En la elaboración de dichos Programas, las Entidades se ajustarán en lo conducente, a la Ley que regule su organización y funcionamiento.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 30.
 
-Los Programas Regionales se referirán a las Regiones que se consideren prioritarias, en función de los objetivos que para el Desarrollo Integral del Estado fije el Plan Estatal, cuya extensión territorial rebase el ámbito jurisdiccional de un Municipio.
+Los Programas Regionales de Desarrollo, se elaborarán en función de los objetivos que para el Desarrollo Integral del Estado fije el Plan Estatal, cuya extensión territorial rebase el ámbito jurisdiccional de un Municipio, los cuales-serán formulados, bajo la coordinación de la Secretaría de Planeación Desarrollo Regional.
 
-Los Comités de Planeación para el Desarrollo Regional que se constituyan en el ámbito del Sistema Estatal de Planeación Democrática, promoverán y coadyuvarán a la elaboración y actualización de los Programas Regionales mencionados en el párrafo anterior.
+Los Comités de Planeación para el Desarrollo Regional, que se constituyan en el ámbito del Sistema Estatal de Planeación Democrática promoverán y coadyuvarán a la elaboración y actualización de los Programas Regionales de Desarrollo.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2010)</small>
+
+ARTICULO 30 BIS.- Los Programas de Desarrollo Metropolitano, se referirán a cada una de las zonas que existan en el Estado, en función de los objetivos, que para el desarrollo integral y sustentable de la Entidad, establezca el Plan Estatal, los cuales serán diseñados bajo la coordinación de la Secretaría de Planeación y Desarrollo Regional, sometiéndolos a consideración del Consejo Estatal y las Comisiones Metropolitanas, de conformidad con la Ley de Coordinación para el Desarrollo Metropolitano del Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 31.
 
-Los Programas Especiales, se referirán a las prioridades del Desarrollo Integral del Estado, fijadas en el Plan Estatal o a las actividades relacionadas con dos o más Dependencias Coordinadoras de Sector, así como los que dicte el Ejecutivo del Estado.
+Los Programas Especiales se referirán a las prioridades del Desarrollo Integral del Estado, fijadas en el Plan Estatal o a las actividades relacionadas con dos o más Dependencias Coordinadoras de Sector, así como los que dicte el Ejecutivo del Estado. En su elaboración participarán las Dependencias encargadas de la ejecución de los Programas, en coordinación con la Secretaría de Planeación y Desarrollo Regional, quien habrá de validar y aprobar los referidos Programas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 32.
 
-Para la ejecución del Plan Estatal y los Programas Sectoriales, Institucionales, Regionales y Especiales, las Dependencias y Entidades elaborarán Programas Operativos Anuales, que incluirán los aspectos administrativos y de política económica y social correspondientes.
+Para la ejecución del Plan Estatal y los Programas Sectoriales, Institucionales, Regionales, Metropolitanos y Especiales, las Dependencias y Entidades, elaborarán Programas Operativos Anuales, que incluirán los aspectos administrativos y de política económica y social correspondientes.
 
 Estos Programas Operativos Anuales, deberán ser congruentes entre sí y tomar en cuenta las medidas que para coadyuvar al cumplimiento de los objetivos y prioridades del Plan Estatal y los Programas establecidos en esta Ley, emita el Comité de Planeación para el Desarrollo del Estado de Hidalgo, regirán, durante el año de que se trate, las actividades de la Administración Pública Estatal en su conjunto y servirán de base para la integración de los Anteproyectos de Presupuesto Anuales, que las propias Dependencias y Entidades deberán elaborar conforme a la Legislación aplicable.
 
@@ -355,9 +433,11 @@ Estos Programas Operativos Anuales, deberán ser congruentes entre sí y tomar e
 
 El Plan Estatal de Desarrollo y los Programas a que se refieren los Artículos anteriores, especificarán las acciones que serán objeto de coordinación con la Federación y en su caso, con los Municipios y de inducción o concertación con los grupos sociales y particulares interesados.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 34.
 
-El Plan Estatal, los Programas Regionales, Especiales e Institucionales que en su caso procedan, deberán ser sometidos por la Secretaría de Desarrollo Social a la consideración y aprobación del Gobernador del Estado.
+El Plan Estatal, los Programas Sectoriales, Institucionales, Regionales, Metropolitanos y Especiales, que sean elaborados, deberán ser sometidos por la Secretaría de Planeación y Desarrollo Regional a la consideración y aprobación del Gobernador del Estado.
 
 ###### ARTICULO 35.
 
@@ -437,17 +517,23 @@ El Plan Municipal y los Programas de Desarrollo, una vez aprobados, serán oblig
 
 ### CAPITULO V. PLANEACION REGIONAL DEL DESARROLLO
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 50.
 
-Será responsabilidad del Poder Ejecutivo Estatal por conducto de la Secretaría de Desarrollo Social, promover la Planeación Regional del Desarrollo, que se llevará a cabo en coordinación con los Gobiernos Federal y Municipales con base en lo establecido por el Plan Estatal de Desarrollo, procurando un Desarrollo Regional Integral y Sostenido a través de la coordinación de objetivos y prioridades y estableciendo medios de colaboración para la realización de los Programas a los que alude esta Ley, en el marco del Sistema Estatal de Planeación Democrática y con pleno respeto a la autonomía municipal.
+Será responsabilidad del Poder Ejecutivo Estatal, por conducto de la Secretaría de Planeación y Desarrollo Regional, promover la Planeación Regional del Desarrollo, que se llevará a cabo en coordinación con los Gobiernos Federal y Municipales, con base en lo establecido por el Plan Estatal de Desarrollo, procurando un Desarrollo Regional Integral y Sustentable a través de la coordinación de objetivos y prioridades y estableciendo medios de colaboración, para la realización de los Programas a los que alude esta Ley, en el marco del Sistema Estatal de Planeación Democrática y con pleno respeto a la autonomía Municipal.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 51.
 
-Para efectos de la Planeación del Desarrollo del Estado, el Poder Ejecutivo Estatal decretará, una regionalización de acuerdo a criterios de equidad en el crecimiento económico, desarrollo social e integración territorial de los respectivos Municipios y sus habitantes.
+Para efectos de la Planeación del Desarrollo del Estado, el Poder Ejecutivo Estatal, decretará una regionalización y metropolización, de acuerdo a criterios de equidad en el crecimiento económico, desarrollo social e integración de los respectivos Municipios y sus habitantes, estableciendo para tal efecto, las instancias administrativas regionales, responsables de coordinar y conducir el desarrollo de las regiones, que se conformen de acuerdo al referido Decreto.
+
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 52.
 
-En el marco del Comité de Planeación para el Desarrollo del Estado de Hidalgo, operarán los Comités de Planeación para el Desarrollo Regional como instancias de coordinación para la Planeación y Programación del Desarrollo, integrados por los COPLADEM respectivos, los sectores social y privado, la ciudadanía en general de cada región y en su caso, las comunidades indígenas existentes; así como las Dependencias Federales y Entidades de la Administración Pública Estatal que tengan incidencia en el ámbito territorial.
+En el marco del Comité de Planeación para el Desarrollo del Estado de Hidalgo, operarán los Comités de Planeación para el Desarrollo Regional, como instancias de participación democrática para la Planeación y Programación del Desarrollo integrados por los COPLADEM respectivos, los sectores social y privado, la ciudadanía en general de cada región y en su caso; las comunidades indígenas existentes; así como las Dependencias Federales y Entidades de la Administración Pública Estatal, que tengan incidencia en el ámbito territorial.
 
 La organización, funcionamiento, atribuciones y competencias de los Comités de Planeación para el Desarrollo Regional, se establecerán en el instrumento jurídico que los rija.
 
@@ -455,37 +541,47 @@ La organización, funcionamiento, atribuciones y competencias de los Comités de
 
 La integración Territorial de los Municipios del Estado en Regiones, para efectos de la Planeación del Desarrollo Integral de la Entidad, se llevará a cabo con base en un análisis político, económico, social y estructural que determine la asociación de Municipios en Regiones de Desarrollo. Dicha integración, será emitida por Decreto del Titular del Ejecutivo Estatal que será publicado en el Periódico Oficial del Estado de Hidalgo.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 54.
 
-La integración de los Municipios a la Región que les corresponda, se hará de conformidad con el Decreto al que se refiere el Artículo anterior. Las modificaciones en la integración de las regiones que se determinen con base en las prioridades del desarrollo de la Entidad, serán facultad exclusiva del Ejecutivo Estatal.
+La integración de los Municipios a la Región que les corresponda, se hará de conformidad con el Decreto al que se refiere el Artículo anterior. Las modificaciones en la integración de las regiones que se determinen con base en las prioridades del desarrollo de la Entidad, serán facultad exclusiva del Titular del Poder Ejecutivo Estatal.
 
 ###### ARTICULO 55.
 
 Los Comités de Planeación para el Desarrollo Regional (COPLADER), serán la instancia responsable de coordinar la Planeación Regional del Desarrollo, de acuerdo con los lineamientos generales fijados para la Planeación Nacional y Estatal.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 56.
 
-Los Programas Regionales de Desarrollo, serán formulados por los Comités de Planeación para el Desarrollo Regional. Se sujetarán a las previsiones contenidas en el Plan Estatal de Desarrollo y especificarán los objetivos, prioridades y políticas para el Desarrollo Regional y contendrán estimaciones de recursos, determinaciones sobre instrumentos y responsables de su ejecución.
+Los Programas Regionales de Desarrollo, serán formulados bajo la coordinación de la Secretaria de Planeación y Desarrollo Regional y se contará con la participación de los Comités de Planeación para el Desarrollo Regional, para el desahogo de los trabajos conducentes.
 
-Su vigencia estará determinada por el cumplimiento de los objetivos planteados y por Acuerdo del Comité de Planeación para el Desarrollo Regional.
+Los Programas Regionales de Desarrollo, se sujetarán a las previsiones contenidas en el Plan Estatal de Desarrollo y especificarán los objetivos, prioridades y políticas para el Desarrollo Regional, contendrán estimaciones de recursos, determinaciones sobre instrumentos y responsables de su ejecución. Su vigencia estará determinada por el cumplimiento de los objetivos planteados y por Acuerdo del Comité de Planeación para el Desarrollo Regional.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 57.
 
-Los Programas Regionales de Desarrollo, deberán presentarse a la Coordinación General del Comité de Planeación para el Desarrollo del Estado de Hidalgo para su análisis y aprobación, en su caso, del Poder Ejecutivo de la Entidad quien ordenará su publicación en el Periódico Oficial del Estado.
+Los Programas Regionales de Desarrollo deberán presentarse a la Coordinación General del Comité de Planeación para el Desarrollo del Estado de Hidalgo, para su análisis y validación, para en su caso, someterse a la aprobación del Titular del Poder Ejecutivo Estatal y Publicarse en el Periódico Oficial del Estado.
 
 ###### ARTICULO 58.
 
 Los proyectos y acciones estratégicas derivados de los Programas Regionales de Desarrollo, contendrán los aspectos económicos, políticos, territoriales, sociales, culturales y ambientales necesarios para complementar y concretar los objetivos de la Planeación Regional, procurando la integración y establecimiento constante de relaciones equitativas entre las diferentes Regiones del Estado, definiendo las áreas consideradas como prioritarias o estratégicas de acuerdo a los objetivos de la Planeación Regional en congruencia con la Planeación para el Desarrollo Nacional y Estatal.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 59.
 
-La evaluación y en su caso, actualización del Programa de Desarrollo Regional y los Proyectos que de él se deriven, atenderán a los lineamientos que para tal efecto establezca la Coordinación General del Comité de Planeación para el Desarrollo del Estado de Hidalgo, teniendo como objetivo básico el beneficio de la población de cada región.
+La evaluación y en su caso, actualización del Programa de Desarrollo Regional y los Proyectos que de él se deriven, atenderán a los lineamientos, que para tal efecto establezca la Secretaría de Planeación y Desarrollo Regional, teniendo como objetivo básico el beneficio de la población de cada región.
 
 ### CAPITULO VI. SISTEMA INTEGRAL DE INFORMACION ESTATAL PARA LA PLANEACION DEL DESARROLLO
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 60.
 
-El Sistema Integral de Información Estatal para la Planeación del Desarrollo, será una instancia de apoyo para las diferentes etapas del proceso de Planeación del Desarrollo de la Entidad, que dependerá directamente de la Coordinación General del Comité de Planeación para el Desarrollo del Estado de Hidalgo y que será operada e instrumentada por la instancia u organismo que determine la Secretaría de Desarrollo Social en congruencia con sus facultades en materia de manejo de información, previo acuerdo con el Gobernador del Estado.
+El Sistema Integral de Información Estatal para la Planeación del Desarrollo, será una instancia de apoyo para las diferentes etapas del proceso de Planeación del Desarrollo de la Entidad, que dependerá directamente de la Coordinación General del Comité de Planeación para el Desarrollo del Estado de Hidalgo y que será operada e instrumentada por la instancia u organismo que determine la Secretaría de Planeación y Desarrollo Regional, en congruencia con sus facultades en materia de manejo de información, previo acuerdo con el Gobernador del Estado.
 
 ###### ARTICULO 61.
 
@@ -559,7 +655,9 @@ III.- Los lineamientos y metodologías de apoyo para la realización de las acti
 
 IV.- La participación en la elaboración de los Programas Regionales del Gobierno Federal que incidan en el Estado y;
 
-V.- La ejecución de las acciones que deban realizarse en el Estado y que competan a ambos órdenes de Gobierno, considerando la participación que corresponda a los Municipios y a los diversos sectores de la sociedad.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+V.- La planeación, programación y operación de las acciones que deban realizarse en el Estado y que competan a ambos órdenes de Gobierno, considerando la participación que corresponda a los Municipios y a los diversos sectores de la sociedad.
 
 ###### ARTICULO 70.
 
@@ -575,7 +673,9 @@ IV.- La participación en la formulación, instrumentación y ejecución de los 
 
 V.- La ejecución de las acciones que deban realizarse en cada Municipio y que competan a ambos órdenes de Gobierno, considerando la participación que corresponda a los diversos sectores de la sociedad.
 
-La Secretaría de Desarrollo Social propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las Dependencias Coordinadoras de Sector, conforme a sus atribuciones y respetando la participación que corresponda a los Comités de Planeación para el Desarrollo Municipal.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
+La Secretaría de Planeación y Desarrollo Regional, propondrá los procedimientos, conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las Dependencias Coordinadoras de Sector, conforme a sus atribuciones, y respetando la participación que corresponda a los Comités de Planeación para el Desarrollo Municipal.
 
 ###### ARTICULO 71.
 
@@ -625,55 +725,67 @@ Las etapas de control y evaluación, comprenden el conjunto de actividades encam
 
 Para el control y evaluación dentro del Sistema Estatal de Planeación Democrática, habrán de considerarse, entre otros, los siguientes instrumentos:
 
-I.- ESTRATEGICOS:
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
 
-A).- De largo plazo:
+A).- Estratégicos:
 
-Plan Estatal de Desarrollo y Programas Regionales.
+I.- De largo plazo:
 
-B).- De mediano plazo:
+Plan Estatal de Desarrollo, Programas Regionales de Desarrollo e Instrumentos Prospectivos.
 
-Programas Sectoriales, Institucionales y Especiales.
+II.- De mediano plazo:
 
-II.- OPERATIVOS:
+Programas Sectoriales, Institucionales, Especiales, Regionales, Metropolitanos, Planes Municipales de Desarrollo y Planes Municipales de Desarrollo Urbano.
 
-A).- De corto plazo:
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
+B).- Operativos:
+
+I.- De corto plazo:
 
 Ley de Ingresos del Estado y de los Municipios.
 
 Presupuestos Anuales de Egresos del Estado y de los Municipios.
 
-Programa Financiero.
+Programa financiero.
 
-Convenio de Coordinación de Desarrollo Social y Humano o su equivalente Federación - Estado.
+Convenio de Coordinación de Desarrollo Social y Humano o su equivalente Federación-Estado. Programas Operativos Anuales.
 
-Programas Operativos Anuales.
-
-Convenios de Desarrollo Social o Coordinación o su equivalente Estado - Municipio.
+Convenios de Desarrollo Social o Coordinación o su equivalente Estado-Municipio.
 
 Acuerdos o Convenios de Concertación con los Sectores Social y/o Privado.
 
-III.- DE CONTROL:
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
 
-A).- Informes o Dictámenes de Auditorias Gubernamentales, Sectoriales, Institucionales, Regionales, Municipales o Especiales.
+C).- De control:
 
-B).- Reportes o informes de seguimiento y/o avances.
+I.- Informes o Dictámenes de Auditorías Gubernamentales, Sectoriales, Institucionales, Regionales, Municipales o Especiales.
 
-IV.- DE EVALUACION:
+II.- Reportes o informes de seguimiento y/o avances
 
-A).- Informes de Gobierno a cargo del Titular del Ejecutivo Estatal.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
 
-B).- Informe Anual del Estado de la Cuenta Pública.
+D).- De evaluación:
 
-C).- Informes a cargo de los Presidentes Municipales.
+I.- Informes de Gobierno a cargo del Titular del Ejecutivo Estatal.
 
-D).- Informes Sectoriales, Institucionales y Regionales.
+II.- Informe Anual del Estado de la Cuenta Pública.
 
-E).- Informes, Relatorías o Registros Resultantes de los Foros de Consulta y Participación de la Ciudadanía y Grupos Sociales.
+III.- Informes a cargo de los Presidentes Municipales.
 
-F).- Informes al Congreso del Estado de quienes tengan obligación legal para ello.
+IV.- Informes Sectoriales, Institucionales, Regionales y Metropolitanos.
 
-G).- Informes de los Comités de Planeación para el Desarrollo del Estado de Hidalgo.
+V.- Informes, Relatorías o Registros Resultantes de los Foros de Consulta y Participación de la Ciudadanía y Grupos Sociales.
+
+VI.- Informes al Congreso del Estado de quienes tengan obligación legal para ello.
+
+VII.- Informes de los Comités de Planeación para el Desarrollo del Estado de Hidalgo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2010)</small>
+
+E).- Normativos
+
+I.- Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado Libre y Soberano de Hidalgo, Ley de Planeación para el Desarrollo del Estado de Hidalgo y Plan Nacional de Desarrollo.
 
 ###### ARTICULO 82.
 
@@ -736,3 +848,13 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE JULIO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Reglamento de la Ley se expedirá en un término de 180 días naturales a partir de la entrada en vigor de este Decreto.
