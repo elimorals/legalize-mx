@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2009-02-24"
+last_updated: "2010-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JULIO DE 2010.
 
 Código publicado en el Diario Oficial de la Federación, el sábado 29 de agosto de 1931.
 
@@ -220,13 +220,25 @@ XVIII.- A quejarse ante la Contraloría Interna de la Procuraduría General de J
 
 XIX.- A impugnar las determinaciones de no ejercicio de la acción penal; y (sic)
 
-(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
 
-XX.- En caso de que deseen otorgar el perdón, a ser informada claramente del significado y la trascendencia jurídica de ese acto;
+XX.- En caso de que deseen otorgar el perdón, a ser informadas claramente del significado y trascendencia jurídica de ese acto;
 
-> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
 
-XXI.- A que el Ministerio Público, sus auxiliares y el Juez, mantengan en confidencialidad su domicilio y número telefónico así como el de los testigos de cargo, en caso de delitos graves e igualmente en caso de delitos no graves, cuando así lo solicite.
+XXI.- A que el Ministerio Público, sus auxiliares y el Juez, mantengan en confidencialidad su domicilio y número telefónico, así como el de los testigos de cargo, en caso de delitos graves e igualmente en caso de delitos no graves, cuando así lo solicite, y
+
+> <small>(ADICIONADA, G.O. 19 DE JULIO DE 2010)</small>
+
+XXII.- En aquellos casos en que el sujeto pasivo sea un menor de dieciocho años, éste o su representante legal, podrán designar abogado victimal, el cual tendrá las siguientes facultades:
+
+a) Realizar con la debida diligencia las acciones legales necesarias para hacer efectivos los derechos del menor;
+
+b) Proporcionar al menor o a su representante de forma clara y detallada la orientación y asesoría legal que requieran;
+
+c) Orientar a las víctimas sobre los servicios integrales que brinda el Sistema de Auxilio a Víctimas de la Procuraduría General de Justicia del Distrito Federal y las demás instancias públicas y privadas, federales y locales, relacionadas con el apoyo a víctimas;
+
+d) Asesorar a la víctima respecto al sentido y alcance de las medidas de protección, y en su caso, tramitarlas ante las autoridades competentes.
 
 (REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
@@ -1680,9 +1692,9 @@ Cuando se examine a un menor de edad las preguntas deberán ser concretas, en le
 
 No se obligará a declarar al tutor, curador, pupilo o cónyuge del acusado, ni a sus parientes por consanguinidad o afinidad en la línea recta ascendente o descendente, sin limitación de grados y en la colateral hasta el tercero inclusive, ni a los que estén ligados con el acusado por amor, respeto o gratitud. Si estas personas tuvieren voluntad de declarar, se les recibirá su declaración y se hará constar esta circunstancia.
 
-> <small>(ADICIONADO, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
-No se aplicará lo previsto en el párrafo anterior en los casos de violación, abuso sexual y hostigamiento sexual cometido en contra de menores de doce años de edad previstos en el Capítulo VI del Título Quinto del Código Penal para el Distrito Federal.
+No se aplicará lo previsto en el párrafo anterior en los casos de homicidio, violación, abuso sexual, hostigamiento sexual, pornografía, explotación laboral de menores o personas con discapacidad física o mental, turismo sexual y trata de personas, cometidos en contra de menores de dieciocho años de edad.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2414,15 +2426,37 @@ Tanto el Ministerio Público como la policía se sujetarán a los reglamentos y 
 
 Cuando se presuma que el inculpado es miembro de una asociación delictuosa o delincuencia organizada en los términos de los artículos 254 y 255 del Nuevo Código Penal para el Distrito Federal, el Ministerio Público practicará el aseguramiento de los bienes y valores de dicha persona, así como de aquellos respecto de los cuales ésta se conduzca como dueño, quedando a cargo de sus tenedores acreditar la procedencia legítima de dichos bienes, en cuyo caso deberá ordenarse el levantamiento correspondiente.
 
-Se acreditará el origen legítimo de los bienes y valores referidos en el párrafo anterior, cuando el tenedor compruebe la capacidad económica suficiente para detentarlos.
+> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PARRAFO], G.O. 19 DE JULIO DE 2010)</small>
 
 El aseguramiento se sujetará a las siguientes disposiciones:
 
 I. Podrá realizarse en cualquier momento de la averiguación previa o del proceso;
 
-II. La revelación o divulgación del contenido del acuerdo de aseguramiento se equipara al delito de ejercicio ilegal de servicio público, previsto en la fracción III del artículo 259 del Nuevo Código Penal para el Distrito Federal, y
+II. (REFORMADA [N. DE E. DEROGADA], G.O. 19 DE JULIO DE 2010)
 
-III. El destino de los bienes y valores se sujetará, en su caso, a las reglas previstas para el decomiso en los artículos 54 y 55 del Nuevo Código Penal para el Distrito Federal.
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
+
+III. Se levantará el inventario correspondiente de todos y cada uno de los bienes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE JULIO DE 2010)</small>
+
+IV. El destino de los bienes y valores se sujetará, en su caso, a las reglas previstas para el decomiso en los artículos 54 y 55 del Código Penal para el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 19 DE JULIO DE 2010)</small>
+
+###### ARTICULO 273 Bis 1.
+
+La autoridad Judicial o el Ministerio Público que ordene el aseguramiento de bienes inmuebles, solicitará la inscripción preventiva al Registro Público de la Propiedad, con la finalidad de evitar que se realicen actos traslativos de dominio, en cualquiera de sus formas. Este acuerdo deberá notificarse al interesado o representante legal, debiendo acompañarse del dictamen en el que se establezcan su valor y el inventario respectivo.
+
+En caso de bienes muebles se realizará la notificación al propietario, poseedor o quien tenga derecho para que acredite su interés legal, en el acuerdo que se notifique se asentará el estado de conservación y el lugar en el que se resguardarán durante la investigación.
+
+Cuando de la investigación del delito o en el proceso, no se acredite la vinculación de los bienes, objeto del aseguramiento, con actividades ilícitas, se procederá de la manera siguiente:
+
+I.- De oficio, o a petición de parte, se realizará un acuerdo debidamente fundado y motivado en el que la autoridad ministerial o el juez del conocimiento, decrete la desvinculación de los bienes con la investigación o con el proceso.
+
+II.- Procederá a realizar la notificación a las personas que aparezcan dentro de las actuaciones ministeriales o judiciales, como propietarias o poseedoras de buena fe, para que comparezcan a acreditar la propiedad de los bienes y soliciten su devolución, dentro de un plazo de ochenta días naturales a partir de la notificación, bajo el apercibimiento que de no hacerlo, los bienes causarán abandono a favor de la Procuraduría General de Justicia del Distrito Federal.
+
+Para el caso de que la Autoridad Judicial o el Ministerio Público, resuelva restituir el bien al propietario, poseedor, interesado o representante legal, remitirá copia debidamente certificada del acuerdo de desvinculación al Registro Público de la Propiedad para que se cancele la inscripción del aseguramiento y surta efectos a terceros. En caso contrario hará efectivo el apercibimiento señalado en la fracción II del presente artículo.
 
 ### CAPITULO II. Reglas especiales para la práctica de diligencias y levantamiento de actas de Policía Judicial
 
@@ -5915,3 +5949,19 @@ G.O. 24 DE FEBRERO DE 2009.
 PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente de su publicación.
 
 SEGUNDO.- Se deroga toda disposición que se oponga al presente decreto.
+
+G.O. 19 DE JULIO DE 2010.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 9 Y 192 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese el presente en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 19 DE JULIO DE 2010.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 273 BIS Y 273 BIS 1 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federa (sic).
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
