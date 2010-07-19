@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-consejo-de-la-judicatura-del-59566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-25"
-last_updated: "2010-05-26"
+last_updated: "2010-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59566&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-11-28"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JULIO DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 25 de febrero de 2008.
 
@@ -528,11 +528,11 @@ El Pleno del Consejo aprobará las políticas y lineamientos generales, los prog
 
 DE LA COMISIÓN DE DISCIPLINA JUDICIAL
 
-> <small>(REFORMADO, G.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
 ###### Artículo 34.
 
-La Comisión de Disciplina Judicial se integra por tantas secciones como Consejeros se encuentren en funciones, con excepción del Presidente del Consejo quien no integrara dicha Comisión por disposición de la Ley.
+La Comisión de Disciplina Judicial se integra por tantas secciones como consejeros se encuentren en activo, y funcionarán de manera simultánea, con excepción del Presidente en los términos precisados en el artículo 199, fracción III de la Ley Orgánica.
 
 ###### Artículo 35.
 
@@ -546,19 +546,19 @@ La Comisión de Disciplina Judicial se integra por tantas secciones como Conseje
 
 (DEROGADO, G.O. 26 DE MAYO DE 2010)
 
-> <small>(REFORMADO, G.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
 ###### Artículo 38.
 
-Los acuerdos y resoluciones de la Comisión de Disciplina Judicial, serán dictados en forma unitaria por cada una de las Secciones que integran la Comisión.
+Los acuerdos y resoluciones de la Comisión de Disciplina Judicial, serán dictados por los titulares de cada una de las secciones que la integran.
 
-El Pleno del Consejo calificara de plano las excusas o impedimentos de sus miembros.
+El Pleno del Consejo calificará de plano las excusas o impedimentos de sus integrantes.
 
-> <small>(REFORMADO, G.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
 ###### Artículo 39.
 
-Dentro de la primera semana de cada mes los Titulares de las Secciones levantaran un acta que contendrán, los asuntos sujetos a resolución, el sentido de las resoluciones y los acuerdos tomados durante el mes inmediato anterior.
+Dentro de la primer semana de cada mes, los titulares de las secciones levantarán un acta que contendrá los asuntos sujetos a resolución, el sentido de las resoluciones y de los acuerdos emitidos durante el mes inmediato anterior.
 
 DE LA COMISIÓN DE ADMINISTRACIÓN Y PRESUPUESTO
 
@@ -850,13 +850,11 @@ IX. Someter a consideración del pleno, la contradicción de criterios generales
 
 X. Las que le confieran la Ley Orgánica y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, G.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
 ###### Artículo 59.
 
-En caso de ausencia temporal o definitiva de uno o más Consejeros, salvo su intervención en las sesiones del Pleno y de ser necesario serán suplidos de manera rotativa por el Consejero que le corresponda, conforme al Libro de Turno que para el efecto lleve la Secretaría.
-
-La Comisión de Disciplina Judicial para su mejor funcionamiento estará integrada por tantas secciones como Consejeros que se encuentren en activo y funcionaran de forma simultánea.
+En caso de ausencia temporal o definitiva de uno o más consejeros, salvo su intervención en las sesiones del Pleno, y de ser necesario, serán suplidos de manera rotativa por el consejero que le corresponda, conforme al libro de turno que para el efecto lleve la Secretaría Técnica de la Comisión de Disciplina Judicial, en este caso, al llegar su turno será saltado con el fin de equilibrar las cargas de trabajo.
 
 ###### Artículo 60.
 
@@ -1384,13 +1382,13 @@ III. Las demás que establezcan la Ley Orgánica y el Pleno del Consejo.
 
 La Comisión de Disciplina Judicial para su mejor funcionamiento estará integrada por tantas secciones como Consejeros que se encuentren en activo y funcionarán de forma simultánea.
 
-> <small>(REFORMADO, G.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
 ###### Artículo 113.
 
-Las Secciones conocerán de las aperturas de procedimientos de oficio y de queja, conforme al orden alfabético del primer apellido de los titulares de cada sección.
+Las secciones conocerán de los procedimientos de oficio y de queja, en su momento, les serán turnados para resolución conforme al orden alfabético del primer apellido de los titulares de cada una de ellas.
 
-En caso de determinarse el inicio de procedimiento de oficio se le asignara al expediente de que se trate el número que por orden progresivo en ese momento le corresponda, de conformidad al registro existente en el libro de control que para tal efecto se lleve en la Secretaría Técnica.
+En caso de determinarse de oficio el inicio de procedimiento administrativo disciplinario se le asignará al expediente de que se trate, el número por orden progresivo que le corresponda de conformidad con el registro que para tal efecto se lleve en la Secretaría Técnica de la Comisión.
 
 ###### Artículo 114.
 
@@ -1410,11 +1408,11 @@ Con independencia de la integración y funcionamiento de la Comisión de Discipl
 
 Correspondiendo al Consejero Semanero acordar todos los escritos, oficios y documentos que se hubieren recibido en la Oficialía de Partes de la Comisión de Disciplina Judicial durante la semana que le corresponde.
 
-> <small>(REFORMADO, G.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
 ###### Artículo 117.
 
-Para realizar las actividades que le compete, la Comisión de Disciplina Judicial, contara con un Secretario Técnico que asistirá y autorizara las actuaciones de los Consejeros, ya sea por semanería colegiadas o por sección, según sea el caso.
+Para realizar las actividades que le compete, la Comisión de Disciplina Judicial contará con un Secretario Técnico que asistirá y dará fe de las actuaciones de los consejeros, ya sea por semanería o por sección, según sea el caso.
 
 ###### Artículo 118.
 
@@ -1424,9 +1422,9 @@ I. Autorizar con su firma en los asuntos en materia de responsabilidad que se tr
 
 II. Someter a la consideración del Pleno, las disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas, en el ejercicio de las atribuciones que competan a la Comisión de Disciplina Judicial;
 
-> <small>(REFORMADA, G.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
 
-III. Auxiliar en la substanciación de las quejas administrativas y procedimientos de responsabilidad de oficio que competa conocer y resolver a la Comisión de Disciplina Judicial, a través de sus secciones correspondientes y al Consejero Semanero;
+III. Auxiliar en la substanciación de las quejas administrativas y procedimientos de responsabilidad oficiosos que competa conocer y resolver a la Comisión de Disciplina Judicial, a través de sus secciones y al consejero semanero;
 
 IV. Dar cuenta, dentro del término de veinticuatro horas, al Consejero Semanero, con las promociones que se hicieren en los procedimientos respectivos. Para tal efecto, hará constar en los expedientes el día y hora en que se presenten los escritos relativos;
 
@@ -1442,9 +1440,9 @@ IX. Ordenar y vigilar que se despachen sin demora los asuntos y correspondencia 
 
 X. Girar los oficios mediante los cuales se requiera informe justificado a los servidores públicos del Tribunal y del Consejo, así como las demás comunicaciones necesarias para el desahogo de las pruebas y notificaciones respectivas;
 
-> <small>(REFORMADA, G.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
 
-XI. Firmar las actas que se levanten conforme a lo dispuesto por el artículo 39 de este Reglamento;
+XI. Firmar las actas que se levanten conforme a lo dispuesto por el artículo 39 de este reglamento;
 
 XII. Vigilar que los expedientes que se turnen para resolución, se encuentren debidamente acompañados de sus antecedentes, así como verificar que los expedientes para audiencia, se encuentren debidamente integrados;
 
@@ -1468,11 +1466,11 @@ El procedimiento de oficio derivará de irregularidades observadas en las visita
 
 La Comisión de Disciplina Judicial, a través del Consejero Semanero en turno substanciará, semanalmente y por orden progresivo, el trámite de las quejas y los procedimientos de oficio hasta ponerlos en estado de resolución, en términos de la Ley Orgánica.
 
-> <small>(REFORMADO, G.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
 ###### Artículo 122.
 
-La Comisión de Disciplina Judicial a través del Consejero Semanero o del Consejero de la Sección que corresponda, podrá decretar la práctica de diligencias para mejor proveer, y en su caso, se podrá ordenar que se subsane toda omisión que notare en la substanciación para el efecto de regularizar el procedimiento.
+La Comisión de Disciplina Judicial a través del consejero semanero o del consejero de la sección que corresponda, podrá decretar la práctica de diligencias para mejor proveer y, en su caso, ordenar que se subsane toda omisión que notare en la sustanciación para el efecto de regularizar el procedimiento.
 
 ###### Artículo 123.
 
@@ -1482,19 +1480,19 @@ También podrá prevenirse al promovente, en los mismos términos del párrafo a
 
 Las quejas o denuncias que sean notoriamente jurisdiccionales se desecharán de plano.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE JULIO DE 2010)</small>
 
 ###### Artículo 124.
 
-Los escritos que presenten las personas no comprendidas dentro de la enumeración del artículo 214 de la Ley Orgánica, se tramitaran de la siguiente forma:
+Los escritos que presenten las personas no comprendidas dentro de la enumeración del artículo 214 de la Ley Orgánica, se tramitarán de la siguiente forma:
 
 I. El escrito deberá reunir los requisitos mencionados en el primer párrafo del artículo anterior. Si adolece de alguno de ellos se prevendrá al promovente en los términos expuestos, apercibiéndosele que de no hacerlo en el términos de tres días se tendrá por no interpuesta.
 
 II. Admitido a trámite, el Consejero Semanero requerirá a los servidores públicos denunciados, para que en un término de tres días, contados a partir del día siguiente al de la notificación, rinda un informe al respecto, al que deberán, en su caso, adjuntar las constancias que estimen pertinentes para sustentarlo.
 
-> <small>(REFORMADA, G.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
 
-III. Si cualquiera de los titulares de las secciones que integran la Comisión de Disciplina Judicial, estiman que son necesarios mayores elementos de convicción, podrán ordenar las diligencias que se estimen pertinentes para allegárselos.
+III. Si cualquiera de los titulares de las secciones que integran la Comisión de Disciplina Judicial, estima que son necesarios mayores elementos de convicción, podrá ordenar las diligencias que considere pertinentes para allegárselos.
 
 IV. Una vez que se rinda el informe precitado, la Comisión de Disciplina Judicial, después de valorar las constancias del expediente respectivo, si estima que existen elementos que hagan probable la realización de una falta administrativa, iniciará de oficio el procedimiento administrativo correspondiente.
 
@@ -1608,9 +1606,11 @@ Los testigos serán citados a declarar únicamente cuando la parte que ofrezca s
 
 Para acreditar hechos o circunstancias en relación con los hechos controvertidos, pueden las partes presentar fotografías, video grabaciones y en general, toda clase de elementos aportados por los descubrimientos de la ciencia, prueba que deberá ofrecerse en el escrito inicial o la (sic) rendir el informe con justificación y estará a cargo del oferente la presentación de los instrumentos necesarios para su reproducción el día y hora en que se verificará la audiencia de ley, con el apercibimiento que de no hacerlo se declarará desierta la prueba por falta de interés, así como en caso de que el desahogo de dicha probanza los instrumentos que presenten para su reproducción no funcionen.
 
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
+
 ###### Artículo 141.
 
-La audiencia será pública, hecha excepción de las que, a juicio de los Consejeros, convengan que sea privada. Abierta la audiencia, se procederá a recibir y desahogar en primer término las pruebas, a continuación las justificaciones y explicaciones del caso, oyendo al denunciante y a los denunciados, si quisieren concurrir, y acto continuo se turnará el asunto al Consejero que por turno corresponda, para la elaboración del proyecto de resolución correspondiente.
+La audiencia será pública, hecha excepción de la que, a juicio de los consejeros, convenga que sea privada. Abierta la audiencia se procederá a recibir y desahogar, en primer término, las pruebas; a continuación las justificaciones y explicaciones del caso, otorgando el uso de la palabra al denunciante y al denunciado, si hubiera asistido y, acto continuo, se asignará el asunto al consejero que por turno le corresponda, para la elaboración de la resolución correspondiente.
 
 ###### Artículo 142.
 
@@ -1622,11 +1622,11 @@ En todas las cuestiones relativas al procedimiento administrativo de queja o de 
 
 #### SECCIÓN CUARTA. DE LAS RESOLUCIONES
 
-> <small>(REFORMADO, G.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
 ###### Artículo 144.
 
-Cada Consejero integrante de la sección que corresponda de la Comisión de Disciplina Judicial elaborara la resolución de los asuntos que le sean turnados de conformidad con lo establecido en la Ley Orgánica.
+Cada consejero titular de sección de la Comisión de Disciplina Judicial elaborará la resolución de los asuntos que le sean turnados, de conformidad con lo establecido en la Ley Orgánica.
 
 ###### Artículo 145.
 
@@ -1931,5 +1931,13 @@ G.O. 26 DE MAYO DE 2010.
 PRIMERO.- El presente Acuerdo entrará en vigor el mismo día de su publicación en el Boletín Judicial del Distrito Federal.
 
 SEGUNDO.- Publíquese en el Boletín Judicial del Distrito Federal y para su mayor difusión en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Incorpórese el texto de este decreto y las modificaciones respectivas en la página web del Consejo de la Judicatura del Distrito Federal.
+
+G.O. 19 DE JULIO DE 2010.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el mismo día de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+SEGUNDO.- Publíquese en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal y para su mayor difusión en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Incorpórese el texto de este decreto y las modificaciones respectivas en la página web del Consejo de la Judicatura del Distrito Federal.
