@@ -4,7 +4,7 @@ identifier: "CMX-ley-contra-la-delincuencia-organizada-para-el-distrito-40749"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-15"
-last_updated: "2004-09-15"
+last_updated: "2010-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40749&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-08-31"
 
 LEY CONTRA LA DELINCUENCIA ORGANIZADA PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JULIO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 15 de septiembre de 2004.
 
@@ -64,7 +64,11 @@ I. Código de Procedimientos Penales: el Código de Procedimientos Penales para 
 
 II. Código Penal: el Nuevo Código Penal para el Distrito Federal;
 
-III. Delincuencia Organizada: la participación de tres o más personas que acuerden organizarse o se organicen para realizar, en forma reiterada o permanente conductas que por sí o unidas a otras, tienen como fin o resultado cometer alguno o algunos de los delitos a que se refieren el artículo 254 del Nuevo Código Penal para el Distrito Federal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
+
+III. Delincuencia Organizada: Organización de hecho de tres o más personas para cometer, en forma permanente o reiterada, alguno de los delitos a que se refieren el artículo 254 del Código Penal para el Distrito Federal;
 
 IV. Ley: la Ley contra la Delincuencia Organizada para el Distrito Federal;
 
@@ -72,7 +76,9 @@ V. Ley de Ejecución: la Ley de Ejecución de Sanciones Penales para el Distrito
 
 VI. Ley Orgánica: la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal;
 
-VII. Miembros de la Delincuencia Organizada: aquellas personas que desempeñen actividades comprendidas dentro de las funciones de administración, dirección, supervisión o cualquier otra que tengan como objetivo o resultado la comisión del delito de delincuencia organizada, así como de acciones delictivas derivadas de ésta;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+VII. (REFORMADA [N. DE E. DEROGADA], G.O. 19 DE JULIO DE 2010)
 
 VIII. Ministerio Público: los agentes del Ministerio Público de la Procuraduría General de Justicia del Distrito Federal que pertenecen a las fiscalías encargadas de conocer de los delitos cometidos por Miembros de la Delincuencia Organizada; y
 
@@ -299,3 +305,11 @@ SEGUNDO.- El presente Decreto entrará en vigor a los noventa días siguiente de
 Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta días del mes de julio del año dos mil cuatro.- POR LA MESA DIRECTIVA.- DIP. JOSÉ JIMÉNEZ MAGAÑA, PRESIDENTE.- DIP. MIGUEL ÁNGEL SOLARES CHÁVEZ, SECRETARIO.- DIP. MARÍA GABRIELA GONZÁLEZ MARTÍNEZ, SECRETARIA.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los treinta y un días del mes de agosto del dos mil cuatro.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 19 DE JULIO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguiente (sic) a su publicación en la Gaceta Oficial del Distrito Federa (sic).
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
