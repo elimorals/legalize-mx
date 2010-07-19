@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2008-09-08"
+last_updated: "2010-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR A PARTIR DEL 1 DE ENERO DE 2009.</small>
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -381,7 +379,9 @@ El Poder Ejecutivo del Estado deberá establecer en el Presupuesto de Egresos de
 
 El Fondo de Contingencia Social, podrá conformarse además con recursos que aporten los Municipios y organismos nacionales, internacionales y los sectores social y privado.
 
-Los programas financiados a través del fondo deberán ser puestos a consideración y aprobados por el Consejo Estatal de Evaluación de la Política de Desarrollo Social y evaluados por la Comisión de Vigilancia de la Contaduría Mayor de Hacienda del Congreso del Estado.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
+Los programas financiados a través del fondo deberán ser puestos a consideración y aprobados por el Consejo Estatal de Evaluación de la Política de Desarrollo Social y evaluados por el H. Congreso del Estado a través de la Comisión de Vigilancia y el Órgano Superior de Fiscalización, en términos de la ley Superior de Fiscalización del Estado de Aguascalientes.
 
 ## TÍTULO CUARTO. DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL
 
@@ -699,7 +699,9 @@ VII. Se medirá la opinión de los beneficiados sobre los programas de la Polít
 
 VIII. Se medirán los indicadores que correspondan a los criterios generales del Consejo Nacional de Evaluación de la Política de Desarrollo Social. Los resultados de la evaluación se harán públicos y se harán del conocimiento del Congreso del Estado y la Secretaría de Desarrollo Social del Gobierno Federal.
 
-Dicha evaluación será independiente de la que realice el Congreso del Estado por conducto de la Comisión de Vigilancia de la Contaduría Mayor de Hacienda.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
+Dicha evaluación será independiente de la que realice el Congreso del Estado en revisión de la cuenta pública por conducto de la Comisión de Vigilancia y del Órgano Superior de Fiscalización.
 
 ###### Artículo 71.
 
@@ -816,3 +818,15 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Juan Ángel José Pérez Talamantes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
