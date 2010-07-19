@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2009-02-09"
+last_updated: "2010-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO JURIDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Estatuto publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -83,7 +83,9 @@ IV.- Trabajadores accidentales.
 
 Son trabajadores de confianza:
 
-A).- En el Poder Legislativo, el Oficial Mayor, el Contador Mayor de Hacienda, los Directores de Area, los Jefes de Departamento, los Asesores y Auxiliares de cualquier índole y todo el personal de la tesorería y de la Contaduría Mayor de Hacienda, con excepción de las secretarias;
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
+A).- En el Poder Legislativo, el Secretario General del Congreso, el Auditor Superior del Estado, los directores de área, los jefes de departamento, los asesores y auxiliares de cualquier índole y todo el personal de la tesorería y del Órgano Superior de Fiscalización, con excepción de las secretarias;
 
 B).- En el Poder Ejecutivo, el Secretario y Subsecretario Generales de Gobierno; el Tesorero y Subtesorero Generales del Estado; el Secretario y Subsecretario de Administración; el Secretario y Subsecretario de Planeación y Desarrollo Estatal; el Secretario y Subsecretario de Obras Públicas; el Procurador General de Justicia; los Subprocuradores de Investigaciones y Procesos de la Procuraduría General de Justicia; el Secretario Ejecutivo de la Comisión Estatal de Seguridad Pública y Vialidad; el Contralor y Subcontralor General del Estado; el Procurador y Secretario de la Procuraduría de Protección Ciudadana; los Directores y Subdirectores Generales; el Presidente de la Junta Local de Conciliación y Arbitraje; los Secretarios de Acuerdos de la Junta Local de Conciliación y Arbitraje y del Tribunal de Arbitraje; el Procurador y Subprocurador del Trabajo; los Agentes del Ministerio Público; los Defensores de Oficio; los Inspectores del Trabajo; los Agentes de la Policía Ministerial; los integrantes de los Cuerpos de Vigilancia de los Centros de Readaptación de Varones y de Mujeres, así como del Centro Tutelar de Menores; el Representante del Ejecutivo en la Ciudad de México; los Secretarios Privado y Particular del Gobernador; los empleados al servicio personal del Gobernador; y los Asesores Jurídicos y Administrativos del Gobernador y del Secretario General de Gobierno;
 
@@ -583,7 +585,7 @@ C.- Por enfermedad o accidente que ponga en grave peligro la vida de alguno de s
 
 ###### ARTICULO 57 Bis.
 
-Se prohibe a las dependencias del Estado y a los organismos públicos descentralizados:
+Se prohíbe a las dependencias del Estado y a los organismos públicos descentralizados:
 
 I.- Exigir la presentación de certificados médicos de ingravidez a las mujeres que aspiren a un empleo en el servicio público;
 
@@ -653,7 +655,7 @@ Tienen derecho a participar en los concursos para ser ascendidos, todos los trab
 
 ###### ARTICULO 61.
 
-Se expedirá un reglamento de escalafón conforme a las bases establecidas en este Título, el cuál se formulará de común acuerdo por los representantes legales de los diversos Poderes del Estado, sus Municipios y de los organismos descentralizados y los sindicatos correspondientes a cada entidad.
+Se expedirá un reglamento de escalafón conforme a las bases establecidas en este Título, el cual se formulará de común acuerdo por los representantes legales de los diversos Poderes del Estado, sus Municipios y de los organismos descentralizados y los sindicatos correspondientes a cada entidad.
 
 ###### ARTICULO 62.
 
@@ -1724,3 +1726,13 @@ P.O. 9 DE FEBRERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
