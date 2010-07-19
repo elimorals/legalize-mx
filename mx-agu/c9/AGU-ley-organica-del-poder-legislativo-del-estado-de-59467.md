@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-59467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-02-04"
-last_updated: "2010-03-29"
+last_updated: "2010-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de febrero de 2008.
 
@@ -349,9 +349,13 @@ VI. Los Comités;
 
 VII. La Diputación Permanente; y
 
-VIII. La Contaduría Mayor de Hacienda.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
 
-La organización y funcionamiento de la Contaduría Mayor de Hacienda estará regulada por el Reglamento respectivo.
+VIII. El Órgano Superior de Fiscalización.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
+La organización y funcionamiento del Órgano Superior de Fiscalización, estarán reguladas por la Ley Superior de Fiscalización del Estado de Aguascalientes y su Reglamento.
 
 ### CAPÍTULO II. Del Pleno Legislativo
 
@@ -695,7 +699,9 @@ I. De Reglamentos y Prácticas Parlamentarias;
 
 II. De Gobernación y Puntos Constitucionales;
 
-III. De Vigilancia de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+III. De Vigilancia;
 
 IV. De Justicia;
 
@@ -793,9 +799,11 @@ VIII. La constitución del Colegio Electoral para la designación del Gobernador
 
 IX. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
+
 ###### ARTÍCULO 67.
 
-Corresponde a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, el conocimiento y Dictamen de los siguientes asuntos:
+Corresponde a la Comisión de Vigilancia, el conocimiento y Dictamen de los siguientes asuntos:
 
 I. Las Leyes Hacendarias del Estado y de los municipios, así como adiciones, modificaciones o enmiendas a las leyes, que sobre esa materia se encuentran vigentes;
 
@@ -811,17 +819,33 @@ VI. La revisión de las solicitudes del Gobierno del Estado para enajenar, trasp
 
 VII. La desincorporación de los bienes del dominio público del Estado y de los municipios;
 
-VIII. El control y vigilancia de la Contaduría Mayor de Hacienda, proponiendo las medidas para su eficaz funcionamiento;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+VIII. El control y vigilancia del Órgano Superior de Fiscalización a través de la Unidad de Evaluación y Control, proponiendo las medidas para su eficaz funcionamiento;
 
 IX. La autorización al Ejecutivo Estatal para contraer adeudos que garanticen con gravámenes de sus fuentes de percepción de ingresos;
 
 X. La autorización al Ejecutivo Estatal para que contraten empréstitos para la ejecución de obras de utilidad pública;
 
-XI. Proponer el nombramiento del Contador Mayor de Hacienda y de sus directores, así como su remoción;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
 
-XII. Las reformas, modificaciones o adiciones a la Ley Orgánica y al Reglamento de la Contaduría Mayor de Hacienda; y
+XI. Proponer el nombramiento del Auditor Superior del Órgano Superior de Fiscalización, así como su remoción;
 
-XIII. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+XII. Las reformas, modificaciones o adiciones a la Ley Superior de Fiscalización del Estado de Aguascalientes, y su reglamento;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2010)</small>
+
+XIII. Proponer el nombramiento del coordinador de la Unidad de Evaluación y Control, así como su remoción;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2010)</small>
+
+XIV. Los señalados en la Ley Superior de Fiscalización del Estado de Aguascalientes; y
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+
+XV. Otros análogos, a rendición de cuentas, presupuesto, gasto, transparencia y aquellos que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
 ###### ARTÍCULO 68.
 
@@ -1197,7 +1221,9 @@ La negativa a la información solicitada será motivo de responsabilidad y sanci
 
 Las comisiones ordinarias, cuya materia corresponda con los ramos de la Administración Pública Estatal harán el estudio del informe a que se refiere la Fracción IV, del Artículo 46 de la Constitución Política del Estado según su competencia. Al efecto, formularán un documento en el que consten las conclusiones de su análisis, el cual deberá ser presentado para su aprobación al Pleno. En su caso, podrán requerir mayor información del ramo o solicitar la comparecencia de servidores públicos de la dependencia ante la propia Comisión. Si de las conclusiones se desprenden situaciones que por su importancia o trascendencia requieran la presencia en el Congreso del Estado del titular de la dependencia del Poder Ejecutivo o de algún organismo descentralizado del Estado, la comisión podrá solicitar al Presidente de la Mesa Directiva que sea citado éste ante el Pleno conforme a lo dispuesto por la Constitución Política del Estado.
 
-Las comisiones a que se refiere el párrafo anterior y de acuerdo con su competencia, darán opinión fundada a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, con base en los informes que rindan el Poder Ejecutivo Estatal y las demás entidades fiscalizadas, en los términos del Artículo 27, Fracción V de la Constitución Política del Estado. Dichas opiniones deberán ser enviadas a más tardar sesenta días después de la recepción de los informes. La opinión fundada tendrá por objeto hacer aportaciones a esa Comisión sobre aspectos presupuestales específicos, con relación al cumplimiento de los objetivos de los programas del correspondiente ramo de la Administración Pública Estatal, y para que sean consideradas en la revisión de la cuenta pública.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+
+Las comisiones a que se refiere el párrafo anterior y de acuerdo con su competencia, darán opinión fundada a la Comisión de Vigilancia, con base en los informes que rindan el Poder Ejecutivo Estatal y las demás entidades fiscalizadas, en los términos del Artículo 27, Fracción V de la Constitución Política del Estado. Dichas opiniones deberán ser enviadas a más tardar sesenta días después de la recepción de los informes. La opinión fundada tendrá por objeto hacer aportaciones a esa Comisión sobre aspectos presupuestales específicos, con relación al cumplimiento de los objetivos de los programas del correspondiente ramo de la Administración Pública Estatal, y para que sean consideradas en la revisión de la cuenta pública. Para estos efectos, la Comisión turnará las opiniones al Órgano Superior de Fiscalización.
 
 ###### ARTÍCULO 94.
 
@@ -1305,145 +1331,47 @@ La Diputación Permanente ejercerá las atribuciones que expresamente le confier
 
 En caso de empate el Presidente tendrá voto de calidad.
 
-### CAPÍTULO IX. De la Contaduría Mayor de Hacienda
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE JULIO DE 2010)</small>
+
+### CAPÍTULO IX. Del Órgano Superior de Fiscalización
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 105.
 
-La Contaduría Mayor de Hacienda es un órgano técnico, dependiente y auxiliar del Congreso del Estado, para la revisión de la cuenta pública del Gobierno del Estado y de los Ayuntamientos de la Entidad, así como de los organismos e instituciones que administren fondos o valores públicos. Son organismos e instituciones que administran fondos o valores públicos, todas las entidades creadas por decreto del Congreso o del Ejecutivo del Estado, cualquiera que sea la forma o estructura que adopten, siempre que reúnan los siguientes requisitos:
+La revisión de las cuentas públicas, está a cargo del Congreso, el cual se apoya para tales efectos, en el Órgano Superior de Fiscalización, mismo que tiene a su cargo la fiscalización superior de las propias cuentas públicas y el control gubernamental, goza de autonomía presupuestal, técnica y de gestión en el ejercicio de sus atribuciones, para decidir sobre su organización interna, funcionamiento y resoluciones, así como con personalidad jurídica y patrimonio propio.
 
-I. Que su patrimonio se constituya total o parcialmente con fondos o bienes del Gobierno del Estado, de los Ayuntamientos, así como de otros organismos e instituciones de carácter estatal o municipal, asignaciones, subsidios, concesiones, derechos que le otorgue el Gobierno del Estado o los Ayuntamientos o con el rendimiento de un impuesto o derecho específico estatal o municipal; y
-
-Il. Que su objeto o fines sean la prestación de un servicio público, la explotación de bienes o recursos propiedad del Gobierno del Estado o de los Ayuntamientos, la investigación científica y tecnológica, la obtención y aplicación de recursos para fines de asistencia o seguridad social.
-
-Son fondos y valores públicos todo numerario que sea propiedad del Gobierno del Estado, de los Ayuntamientos o de las demás entidades antes mencionadas provenientes de los diversos conceptos previstos en las Leyes de Ingresos, Presupuestos de Egresos, Decretos o Acuerdos que rijan en la materia, asignaciones, subsidios, concesiones, participaciones o cualquier otro concepto análogo con que se les designe; así como la colocación en forma temporal o permanente, de dichos fondos en valores que representen inversiones de las entidades.
-
-La Contaduría Mayor de Hacienda desempeñará sus funciones en estrecha relación con la Comisión de Vigilancia de la Contaduría Mayor de Hacienda del Congreso del Estado.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 106.
 
-La Contaduría Mayor de Hacienda tendrá las atribuciones siguientes:
+La organización y funcionamiento del Órgano Superior de Fiscalización estarán reguladas por la Ley Superior de Fiscalización del Estado de Aguascalientes y su reglamento.
 
-I. Revisar las cuentas públicas del Gobierno del Estado, organismos descentralizados y los Ayuntamientos;
-
-Il. Fijar las normas, procedimientos y sistemas internos para la revisión de la cuenta pública;
-
-III. Informar al Congreso del Estado por conducto de la Comisión de Vigilancia de los casos en que proceda fincar responsabilidades que resulten de una indebida actuación; y
-
-IV. Realizar las investigaciones necesarias para el cumplimiento de sus atribuciones, pudiendo solicitar informes o documentos a las entidades.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 107.
 
-A la Contaduría Mayor de Hacienda corresponde opinar sobre:
-
-I. El resultado de la revisión de la cuenta pública de las entidades;
-
-II. Los proyectos de Leyes de Ingresos, Presupuestos de Egresos, así como de los programas de las entidades;
-
-III. Las reformas de las Leyes de Ingresos y Decretos de carácter fiscal que rijan a las entidades;
-
-IV. La transferencia, ampliación o supresión de partidas, en los Presupuestos de Egresos;
-
-V. Los financiamientos concertados por las entidades con terceros; y
-
-VI. Los actos, convenios y contratos celebrados entre las entidades o entre éstas con terceros. También le corresponde elaborar los estados económicos, administrativos, contables, fiscales y de índole similar que requieran las comisiones de Dictamen Legislativo del Congreso del Estado.
+El control y supervisión del Órgano Superior de Fiscalización estará a cargo de la Comisión de Vigilancia, misma que se apoyará en una Unidad de Evaluación y Control. El personal, facultades y funciones de esta Unidad estarán reguladas por la Ley Superior de Fiscalización del Estado de Aguascalientes y el reglamento de la Unidad.
 
 ###### ARTÍCULO 108.
 
-La Contaduría Mayor de Hacienda, tendrá las siguientes atribuciones y obligaciones:
-
-I. Verificar si las entidades sujetas a la revisión de la cuenta pública:
-
-a) Realizaron sus obligaciones con apego a las Leyes de Ingresos y a los Presupuestos de Egresos aprobados por el Congreso del Estado o por el Cabildo de los Ayuntamientos;
-
-b) Ejercieron correcta y estrictamente sus Presupuestos conforme a sus programas; y
-
-c) Ejecutaron los programas de inversión de conformidad con las partidas autorizadas.
-
-II. Informar semestralmente a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda sobre el resultado de la revisión de la cuenta pública de las entidades dentro del término de cuarenta días a partir de su recepción.
-
-La revisión tomará en consideración:
-
-a) Si la cuenta pública está representada de acuerdo con los principios de contabilidad aplicables al sector gubernamental;
-
-b) Los resultados de la gestión financiera y la eficiencia operacional;
-
-c) Si ejercieron correcta y estrictamente sus Presupuestos conforme a los programas aprobados;
-
-d) Si se ajustaron y ejecutaron los programas de inversión en los términos y montos aprobados y de conformidad con sus partidas;
-
-e) El análisis de los subsidios, transferencias, apoyos para operación e inversión, erogaciones adicionales y otros conceptos similares; y
-
-f) El análisis de las desviaciones presupuestales.
-
-III. Fiscalizar los subsidios que conceden las entidades, cualesquiera que sean sus fines y verificar su aplicación, así como las condonaciones o cancelaciones de adeudos;
-
-IV. Practicar visitas, inspecciones y auditorias en el domicilio legal de las entidades para comprobar:
-
-a) Que la recaudación de los ingresos se ha realizado de conformidad con las Leyes de Ingresos, Decretos y Acuerdos que rijan en la materia;
-
-b) Que la función recaudatoria del ingreso, cumpla con las reglas mínimas de control, eficiencia y seguridad; y
-
-c) Que las inversiones y gastos autorizados a las entidades en sus Presupuestos de Egresos, se hayan aplicado eficiente y correctamente al logro de los objetivos y metas de los programas.
-
-V. Solicitar a los auditores externos de las entidades, copias de los dictámenes o informes de las auditorias practicadas y a las aclaraciones, en su caso, que se estimen pertinentes;
-
-VI. Establecer y mantener coordinación, e intercambiar información y documentación con las dependencias del Poder Ejecutivo, con los Ayuntamientos y demás entidades, a fin de uniformar las normas, procedimientos de archivo contable de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público;
-
-VII. Fijar las normas, procedimientos y sistemas internos para la revisión de la cuenta pública de las entidades;
-
-VIII. Informar al Congreso del Estado a través de su Comisión de Vigilancia de la Contaduría Mayor de Hacienda de los casos en que proceda fincar responsabilidades que resultan de una indebida actuación;
-
-IX. Realizar las investigaciones necesarias para el cumplimiento de sus atribuciones pudiendo solicitar informes o documentos a las entidades, y todas las demás funciones que le corresponden de acuerdo con esta Ley, su Reglamento y las disposiciones que dicte el Congreso del Estado; y
-
-X. Rendir al Congreso del Estado informe mensual de sus labores.
+(DEROGADO, P.O. 19 DE JULIO DE 2010)
 
 ###### ARTÍCULO 109.
 
-Al frente de la Contaduría Mayor de Hacienda del Estado, como autoridad ejecutiva, estará un Contador Mayor de Hacienda, quien será auxiliado por dos Direcciones Generales de Programación y Seguimiento, y de Auditoría.
+(DEROGADO, P.O. 19 DE JULIO DE 2010)
 
 ###### ARTÍCULO 110.
 
-El Reglamento de la Contaduría Mayor de Hacienda determinará la estructura y facultades de dicho organismo, así como los requisitos para ocupar los cargos.
+(DEROGADO, P.O. 19 DE JULIO DE 2010)
 
 ###### ARTÍCULO 111.
 
-El Contador Mayor de Hacienda durará en su cargo cuatro años, pudiendo ser reelecto por otro período igual, a propuesta de la Comisión de Vigilancia de la Contaduría Mayor de Hacienda.
-
-Sólo podrá ser removido de su cargo durante el tiempo que éste dure; por el voto de la mayoría calificada de los integrantes del Pleno, cuando a solicitud de la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, se acredite su falta de honradez, notoria ineficiencia, incapacidad física o mental o que hubiere cometido algún delito intencional.
+(DEROGADO, P.O. 19 DE JULIO DE 2010)
 
 ###### ARTÍCULO 112.
 
-El Contador Mayor de Hacienda tendrá las siguientes atribuciones:
-
-I. Representar a la Contaduría Mayor de Hacienda ante toda clase de autoridades, entidades y personas físicas y morales;
-
-II. Elaborar el proyecto de presupuesto anual del Poder Legislativo que contendrá el de la Contaduría Mayor de Hacienda, con apoyo en programas que señalen objetivos y metas y turnarlo a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda;
-
-III. Rendir mensualmente a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, un informe de la administración y ejercicio del presupuesto del Poder Legislativo y en lo que corresponde a la Contaduría Mayor de Hacienda;
-
-IV. Rendir informes anuales para el efecto a que se refiere la Fracción IV del Artículo 8° de esta Ley;
-
-V. Formular y ejecutar los programas de trabajo de la Contaduría Mayor de Hacienda;
-
-VI. Redactar los pliegos de observaciones y recomendaciones y demás documentación que contenga el resultado de la revisión de la cuenta pública de las entidades;
-
-VII. Fijar las normas técnicas y los procedimientos a que deben sujetarse las visitas, inspecciones y auditorias que se ordenen, las que se actualizarán de acuerdo con los avances científicos y técnicos que en la materia se produzcan;
-
-VIII. Seleccionar al personal capacitado, a fin de practicar las visitas, inspecciones y auditorias a que se refiere el Articulo 7°, Fracción IV de esta Ley;
-
-IX. Promover ante las autoridades competentes:
-
-a) El cobro de las cantidades no percibidas por la Hacienda Pública Estatal o Municipal o por las entidades a que se refiere el Artículo 3°, de esta Ley;
-
-b) El cobro de los recargos, daños y perjuicios causados a la Hacienda Pública Estatal, Municipal o a las otras entidades mencionadas en esta Ley;
-
-c) La ejecución, cuando ello fuere necesario, de los actos convenidos o contratos que afecten a los programas y partidas presupuestales;
-
-X. Proponer en los términos de esta Ley, a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, el nombramiento y remoción de los Directores de la Contaduría Mayor de Hacienda, para que sea sometido a la aprobación del Congreso del Estado;
-
-XI. Contratar, conforme el presupuesto de la Contaduría, los servicios de profesionistas necesarios para el mejor funcionamiento de la Contaduría Mayor de Hacienda; y
-
-XII. En general, todas las que deriven de esta Ley, de su Reglamento y de las disposiciones y acuerdos que tome el Congreso del Estado.
+(DEROGADO, P.O. 19 DE JULIO DE 2010)
 
 ## TÍTULO CUARTO. DEL PROCESO LEGISLATIVO
 
@@ -2014,3 +1942,13 @@ P.O. 29 DE MARZO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
