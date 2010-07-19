@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proyectos-de-prestacion-de-servicios-del-estado-de-56064
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-25"
-last_updated: "2007-06-25"
+last_updated: "2010-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROYECTOS DE PRESTACION DE SERVICIOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de junio de 2007.
 
@@ -217,7 +217,9 @@ V. La forma, plazo, términos y condiciones de pago;
 
 VI. Las fórmulas y metodologías generales para la evaluación del cumplimiento de las obligaciones del proveedor bajo el Contrato, incluyendo la aplicación de deducciones a los pagos que realice el Organismo contratante; y
 
-VII. La obligación del proveedor de proporcionar la información relacionada con el Contrato que le solicite la Contaduría Mayor de Hacienda, excepto aquella información protegida por derechos de autor, que constituya propiedad intelectual, patentes o secretos industriales o por disposición de la Ley de Transparencia del Estado de Aguascalientes a que esté obligado el proveedor a no divulgar.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
+
+VII. La obligación del proveedor de proporcionar la información relacionada con el Contrato que le solicite el Órgano Superior de Fiscalización, excepto aquella información protegida por derechos de autor, que constituya propiedad intelectual, patentes o secretos industriales o por disposición de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes a que esté obligado el proveedor a no divulgar.
 
 Asimismo, el modelo de Contrato podrá sujetar a arbitraje las controversias que puedan surgir con motivo de la ejecución o de la interpretación del Contrato.
 
@@ -570,3 +572,15 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martinez Estebanez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
