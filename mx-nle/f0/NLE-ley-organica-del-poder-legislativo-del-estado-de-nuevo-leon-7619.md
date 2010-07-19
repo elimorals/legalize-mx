@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2008-12-31"
+last_updated: "2010-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -423,13 +423,17 @@ La organización y funcionamiento del Congreso por lo que corresponde a Debates,
 
 ### CAPITULO II. DE LA DIRECTIVA
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### Artículo 52.
 
-La Directiva es el órgano de dirección del Pleno del Congreso. Es responsable de la conducción de las sesiones del Pleno del Poder Legislativo, tiene las atribuciones señaladas en la presente Ley y en el Reglamento para el Gobierno Interior del Congreso. Se integra por un Presidente, que será el Presidente del Congreso. La Presidencia del Congreso será rotativa entre los Grupos Legislativos, de acuerdo a su representación en el mismo; dos Vicepresidentes y dos Secretarios. Uno de los Vicepresidentes y uno de los Secretarios deberá ser de un Grupo Legislativo distinto al de quien ocupa la Presidencia. Los integrantes de la Directiva durarán un año en el cargo.
+La Directiva es el órgano de dirección del Pleno del Congreso. Es responsable de la conducción de las sesiones del Pleno del Poder Legislativo, tiene las atribuciones señaladas en la presente Ley y en el Reglamento para el Gobierno Interior del Congreso. Se integra por un Presidente, que será el Presidente del Congreso, dos Vicepresidentes y dos Secretarios. La Presidencia del Congreso será rotativa entre los Grupos Legislativos, de acuerdo a su representación en el mismo. El primer año de ejercicio constitucional la ocupará un diputado del Grupo Legislativo de mayoría absoluta o de mayoría, el segundo año de ejercicio constitucional un diputado del Grupo Legislativo que sea la primera minoría, y el tercer año de ejercicio constitucional un diputado del Grupo Legislativo que sea la segunda minoría. En cada caso, uno de los Vicepresidentes y uno de los Secretarios deberán pertenecer a Grupos Legislativos distintos al del diputado que ocupe la Presidencia. Los integrantes de la Directiva durarán un año en el cargo.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 La Directiva se renovará en la primera sesión de cada año de ejercicio constitucional, pudiéndose hacer la designación en la última sesión del ejercicio anterior. La composición de la Directiva será plural. La Comisión de Coordinación y Régimen Interno hará las propuestas de quienes deberán integrarla, sin menoscabo del derecho que tiene cualquier Diputado para hacer alguna propuesta al respecto. La elección de los integrantes de la Directiva se hará por mayoría, mediante voto secreto y cédula. En caso de empate, la Comisión de Coordinación y Régimen Interno hará una nueva propuesta y las que sean necesarias, hasta conseguir la mayoría requerida.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 Para cubrir las ausencias del Presidente del Congreso se atenderá lo dispuesto en el Artículo 21 del Reglamento para el Gobierno Interior del Congreso. En los casos de los demás integrantes de este órgano de dirección se procederá en base a lo dispuesto en los Artículos 27 y 29 del mismo Reglamento.
 
@@ -623,7 +627,9 @@ a) Forman parte de esta Comisión:
 
 3. Un Diputado designado por acuerdo del Grupo Legislativo que sea la primer minoría.
 
-b) Durante el primer año de ejercicio constitucional, los cargos en la Comisión de Coordinación y Régimen Interno serán ocupados de acuerdo a lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
+
+b) Los cargos en la Comisión de Coordinación y Régimen Interno serán ocupados de acuerdo a lo siguiente:
 
 1. Presidente: El Coordinador del Grupo Legislativo de mayoría;
 
@@ -633,25 +639,9 @@ b) Durante el primer año de ejercicio constitucional, los cargos en la Comisió
 
 4. Vocales: Los demás integrantes de la Comisión.
 
-c) Durante el segundo año de ejercicio constitucional, los cargos en esta Comisión serán ocupados de acuerdo a lo siguiente:
+c) (DEROGADO, P.O. 19 DE JULIO DE 2010)
 
-1. Presidente: El Coordinador del Grupo Legislativo que sea la primer minoría;
-
-2. Vicepresidente: El Coordinador del Grupo Legislativo que sea la segunda minoría;
-
-3. Secretario: El Coordinador del Grupo Legislativo de mayoría; y
-
-4. Vocales: Los demás integrantes de la Comisión.
-
-d) Durante el tercer año de ejercicio constitucional, los cargos en esta Comisión serán ocupados de acuerdo a lo siguiente:
-
-1. Presidente: El Coordinador de Grupo Legislativo que sea la segunda minoría;
-
-2. Vicepresidente: El Coordinador del Grupo Legislativo de mayoría;
-
-3. Secretario: El Coordinador del Grupo Legislativo que sea la primer minoría; y
-
-4. Vocales: Los demás integrantes de la Comisión.
+d) (DEROGADO, P.O. 19 DE JULIO DE 2010)
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1364,3 +1354,7 @@ Los expedientes de las materias que se mencionan en los dos párrafos anteriores
 P.O. 31 DE DICIEMBRE DE 2008.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
