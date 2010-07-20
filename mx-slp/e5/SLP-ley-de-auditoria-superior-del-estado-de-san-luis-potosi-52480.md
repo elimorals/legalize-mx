@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-auditoria-superior-del-estado-de-san-luis-potosi-52480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2009-11-12"
+last_updated: "2010-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2010.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 30 de mayo de 2006.
 
@@ -927,6 +927,10 @@ La Auditoría Superior del Estado en el informe del resultado, dará cuenta al C
 
 La Auditoría Superior del Estado remitirá a la Comisión los informes finales de las revisiones de las cuentas públicas de los entes auditables, con excepción de los relativos a las cuentas de los poderes del Estado, a más tardar el treinta y uno de mayo del año inmediatamente posterior al del ejercicio; y los informes finales de la revisión de las cuentas públicas de estos últimos, a más tardar el quince de junio del año en que éstas fueron presentadas.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2010)</small>
+
+ARTICULO 65 BIS. La Auditoría Superior del Estado remitirá a la Comisión del Agua, los informes, cumpliendo con el Decreto Legislativo No. 594 publicado el 14 de septiembre de 2006, que establece la metodología que se aplicará para el cálculo de las cuotas y tarifas para los servicios públicos, respecto de la viabilidad o no, de las propuestas de incremento o actualización de las cuotas y tarifas de agua potable, drenaje, alcantarillado y saneamiento, a más tardar el uno de diciembre del año en que se trate.
+
 ###### ARTICULO 66.
 
 Al recibir la Comisión el informe final de auditoría de que se trate, lo revisará y emitirá un dictamen para el solo efecto de determinar si dicho informe se realizó con apego a las disposiciones legales aplicables.
@@ -934,6 +938,12 @@ Al recibir la Comisión el informe final de auditoría de que se trate, lo revis
 Si encontrara que el informe se encuentra apegado a derecho, propondrá dar por concluida la etapa de revisión de la cuenta pública, para que continúe en todas sus demás fases el proceso respectivo.
 
 Si la Comisión encontrara que el informe final incumple o viola alguna disposición legal aplicable, hará las observaciones que estime pertinentes y con base en ello propondrá la reposición del procedimiento de auditoría para que continúe; hecho lo cual remitirá el informe en cuestión junto con el dictamen respectivo al Congreso para someterlo a su aprobación.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2010)</small>
+
+ARTICULO 66 BIS. Al recibir la Comisión del Agua del Congreso del Estado, el informe de viabilidad de incremento o no, de las cuotas y tarifas de agua potable, drenaje y alcantarillado y saneamiento, lo revisará para el efecto de determinar si dicho informe se realizó con apego a las disposiciones legales aplicables, y ésta pueda emitir el correspondiente dictamen.
+
+Si la Comisión del Agua del Congreso del Estado encontrara que el informe enviado por la Auditoría Superior del Estado, incumple o viola alguna disposición legal aplicable, hará las observaciones que estime pertinentes y, con base en ello, propondrá la reposición del procedimiento de auditoría.
 
 ###### ARTICULO 67.
 
@@ -1272,3 +1282,9 @@ TERCERO. La revisión de las cuentas públicas conforme a las disposiciones de e
 CUARTO. El actual Auditor Superior del Estado desempeñará su encargo por un periodo de siete años, contados a partir de la entrada en vigor de su designación contenida en el Decreto Legislativo número 98, publicado en el Periódico Oficial del Estado el 20 de febrero de 2007.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE JULIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
