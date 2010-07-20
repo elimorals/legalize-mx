@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2010-01-30"
+last_updated: "2010-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -84,6 +84,10 @@ Los habitantes de la Entidad deben cursar la educación preescolar, primaria y s
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
 Para obtener inscripción en escuelas públicas para que sus hijos o pupilos menores de edad que satisfagan los requisitos aplicables, reciban la educación preescolar y primaria, deberá tener la edad mínima para ingresar a la educación básica, a nivel preescolar de 3 años; y para nivel primaria 6 años; cumplidos al 31 de diciembre del año de inicio del ciclo escolar.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2010)</small>
+
+Los padres o tutores, cuyos hijos o tutelados cursen la educación básica en escuelas públicas o particulares, deben participar en los Talleres para Padres de Familia. La Secretaría de Educación de Gobierno del Estado elaborará la guía que proporcione los contenidos de capacitación y orientación en estos talleres.
 
 ###### ARTICULO 7º.
 
@@ -279,39 +283,43 @@ XX.- Promover y vigilar la realización de los actos cívicos escolares, de acue
 
 XXI.- Promover la participación de los padres de familia y de la sociedad en general, en el quehacer educativo, a través de las asociaciones correspondientes y de los consejos de participación social, de conformidad con la normatividad general establecida;
 
-XXII.- Fomentar las relaciones de orden educativo y cultural con otras entidades;
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2010)</small>
 
-XXIII.- Celebrar, con acuerdo del Gobernador, los convenios y coadyuvar con el Ejecutivo Federal para coordinar, unificar, apoyar y mejorar las actividades educativas de la Entidad;
+XXII.- Establecer en las escuelas públicas y particulares, Talleres para Padres de Familia, en los que se brinde información, orientación, comentarios a las evaluaciones escolares, así como sobre aspectos que impactan en la vida escolar y familiar;
 
-XXIV.- Administrar los recursos humanos, técnicos, financieros y materiales que requieran las unidades que integran la Secretaría de Educación del Gobierno del Estado;
+XXIII.- Fomentar las relaciones de orden educativo y cultural con otras entidades;
 
-XXV.- Administrar los planteles educativos que se establezcan en la Entidad conforme a la fracción XII del apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
+XXIV.- Celebrar, con acuerdo del Gobernador, los convenios y coadyuvar con el Ejecutivo Federal para coordinar, unificar, apoyar y mejorar las actividades educativas de la Entidad;
+
+XXV.- Administrar los recursos humanos, técnicos, financieros y materiales que requieran las unidades que integran la Secretaría de Educación del Gobierno del Estado;
+
+XXVI.- Administrar los planteles educativos que se establezcan en la Entidad conforme a la fracción XII del apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
-XXV Bis.- Establecer y vigilar los planteles educativos que se instituyan en cumplimiento del artículo 2° Inciso B) fracción II de la Constitución Política de los Estados Unidos Mexicanos;
+XXVII.- Establecer y vigilar los planteles educativos que se instituyan en cumplimiento del artículo 2° Inciso B) fracción II de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXVI.- Vigilar en los planteles educativos de la Entidad, el cumplimiento del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y de la legislación reglamentaria federal y estatal vigentes;
+XXVIII.- Vigilar en los planteles educativos de la Entidad, el cumplimiento del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y de la legislación reglamentaria federal y estatal vigentes;
 
-XXVII.- Vigilar el cumplimiento de esta Ley, de su reglamento y demás disposiciones aplicables;
+XXIX.- Vigilar el cumplimiento de esta Ley, de su reglamento y demás disposiciones aplicables;
 
-XXVIII.- Supervisar los servicios educativos que imparta el Gobierno del Estado, los organismos descentralizados, órganos desconcentrados y particulares con autorización o con reconocimiento de validez oficial de estudios;
+XXX.- Supervisar los servicios educativos que imparta el Gobierno del Estado, los organismos descentralizados, órganos desconcentrados y particulares con autorización o con reconocimiento de validez oficial de estudios;
 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2008)</small>
 
-XXIX.- Imponer sanciones a las escuelas que infrinjan las disposiciones legales, en materia educativa;
+XXXI.- Imponer sanciones a las escuelas que infrinjan las disposiciones legales, en materia educativa;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MARZO DE 2008)</small>
 
-XXX.- Coordinarse con la Secretaría de Salud, para implementar programas que fomenten en los educandos, el consumo de alimentos y bebidas con alto contenido nutricional y bajo contenido calórico;
+XXXII.- Coordinarse con la Secretaría de Salud, para implementar programas que fomenten en los educandos, el consumo de alimentos y bebidas con alto contenido nutricional y bajo contenido calórico;
 
 > <small>(ADICIONADA, P.O. 29 DE MARZO DE 2008)</small>
 
-XXXI.- Establecer lineamientos para prohibir la venta o consumo de alimentos y bebidas con bajo o nulo contenido nutricional, en las cooperativas o tiendas escolares y, en general, en los espacios donde se expende o consumen alimentos en las instituciones de nivel básico obligatorio, y
+XXXIII.- Establecer lineamientos para prohibir la venta o consumo de alimentos y bebidas con bajo o nulo contenido nutricional, en las cooperativas o tiendas escolares y, en general, en los espacios donde se expende o consumen alimentos en las instituciones de nivel básico obligatorio, y
 
 > <small>(ADICIONADA, P.O. 29 DE MARZO DE 2008)</small>
 
-XXXII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XXXIV.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 23.
 
@@ -613,9 +621,11 @@ Estas autorizaciones únicamente podrán concederse en casos extraordinarios y n
 
 De presentarse interrupciones por caso extraordinario o fuerza mayor, la autoridad educativa tomará las medidas pertinentes para recuperar los días y horarios perdidos. Los maestros serán debidamente remunerados, si la modificación al calendario implica más días de clase para los educandos.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 49.
 
-La Autoridad Educativa Local, publicará el calendario escolar para cada ciclo lectivo en el Periódico Oficial del Estado y por lo menos en uno de los diarios de mayor circulación de la Entidad.
+La Autoridad Educativa Local publicará el calendario escolar para cada ciclo lectivo, en el Periódico Oficial del Estado y en diarios de circulación estatal, con el propósito de lograr la mayor cobertura; durante los primeros quince días del mes de agosto de cada año, después que la autoridad educativa federal lo haga en el Diario Oficial de la Federación.
 
 ### Capítulo IV.
 
@@ -1013,9 +1023,17 @@ I.- Hacer que sus hijos o pupilos, menores de edad, reciban la educación primar
 
 II.- Apoyar el proceso educativo de sus hijos o pupilos;
 
-III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades que dichas instituciones realicen; y
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2010)</small>
 
-IV.- En el caso de tutores, presentar ante quien corresponda el documento legal de tutoría, expedido por la autoridad competente.
+III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades que dichas instituciones realicen;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2010)</small>
+
+IV.- En el caso de tutores, presentar ante quien corresponda el documento legal de tutoría, expedido por la autoridad competente, y
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2010)</small>
+
+V.- Participar en los Talleres para Padres de Familia.
 
 ###### ARTICULO 90.
 
@@ -1530,6 +1548,24 @@ P.O. 30 DE ENERO DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 20 DE JULIO DE 2010.
+
+DECRETO 310, POR EL QUE SE REFORMA EL ARTICULO 89 EN SUS FRACCIONES III Y IV; Y ADICIONA A LOS ARTICULOS, 6°, EL PARRAFO TERCERO, 22 UNA FRACCION, ESTA COMO XXII, POR LO QUE (SIC) ACTUALES XXII A XXV, XXV BIS Y XXVI A XXXII, PASAN A SER FRACCIONES XXIII A XXXIV, Y AL 89 LA FRACCION V, DE Y A LA LEY DE EDUCACION DEL ESTADO.
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En la elaboración de la guía de los Talleres para Padres de Familia, la Secretaría de Educación de Gobierno del Estado se apoyará en su Programa Sectorial, y en los programas que ejecute e integren una temática de interés para los paterfamilias o tutores.
+
+TERCERO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 20 DE JULIO DE 2010.
+
+DECRETO 311 UNICO POR EL QUE SE REFORMA EL ARTICULO 49 DE LA LEY DE EDUCACION DEL ESTADO.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 ## TRANSITORIOS
 
