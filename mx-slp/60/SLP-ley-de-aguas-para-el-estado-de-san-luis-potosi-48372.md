@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2006-01-12"
+last_updated: "2010-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -49,7 +49,7 @@ La presente Ley es de observancia general en el Estado de San Luis Potosí; sus 
 
 La presente Ley tiene por objeto:
 
-l. Regular la coordinación del Estado con los municipios, la Federación y los usuarios, para la investigación, planeación, distribución y aprovechamiento del agua de manera eficiente y racional que la preserve en cantidad y calidad;
+I. Regular la coordinación del Estado con los municipios, la Federación y los usuarios, para la investigación, planeación, distribución y aprovechamiento del agua de manera eficiente y racional que la preserve en cantidad y calidad;
 
 II. Regular la planeación, gestión y preservación de las aguas sujetas a las disposiciones del estado en apego al artículo 110 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí; y
 
@@ -59,7 +59,7 @@ III. Regular la prestación del servicio de agua potable, drenaje, alcantarillad
 
 Para efectos de la presente Ley se entiende por:
 
-l. Aguas estatales: aquéllas que son patrimonio del Estado y que se encuentran sujetas a sus disposiciones, de acuerdo con el párrafo quinto del' artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y en términos del artículo 110 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí;
+I. Aguas estatales: aquéllas que son patrimonio del Estado y que se encuentran sujetas a sus disposiciones, de acuerdo con el párrafo quinto del' artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y en términos del artículo 110 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí;
 
 II. Aguas nacionales: las aguas propiedad de la Nación, en los términos del párrafo quinto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -167,7 +167,7 @@ XLVII. Zona estatal: las franjas de hasta diez metros de anchura, medidos en for
 
 Son autoridades para la aplicación de esta Ley, en el ámbito de sus respectivas competencias:
 
-l. El Titular del Poder Ejecutivo del Estado;
+I. El Titular del Poder Ejecutivo del Estado;
 
 II. La Comisión;
 
@@ -189,7 +189,7 @@ La administración de las aguas estatales y sus bienes inherentes corresponde al
 
 Al Titular del Poder Ejecutivo del Estado le corresponden las siguientes atribuciones:
 
-l. Expedir y evaluar las políticas que orienten el desarrollo hídrico sustentable en el Estado;
+I. Expedir y evaluar las políticas que orienten el desarrollo hídrico sustentable en el Estado;
 
 II. Realizar las acciones para prevenir y controlar la contaminación del agua y para el mejoramiento de su calidad, en los términos de la Ley Ambiental del Estado de San Luis Potosí;
 
@@ -217,7 +217,7 @@ La Comisión Estatal del Agua es un organismo público descentralizado del Gobie
 
 La Comisión Estatal del Agua residirá en la Ciudad de San Luis Potosí, San Luis Potosí; y tendrá las siguientes atribuciones:
 
-l. Fijar los objetivos, políticas, estrategias, programas y normas que conlleven al óptimo aprovechamiento del agua en el Estado, que garantice su sustentabilidad;
+I. Fijar los objetivos, políticas, estrategias, programas y normas que conlleven al óptimo aprovechamiento del agua en el Estado, que garantice su sustentabilidad;
 
 II. Formular y proponer al Ejecutivo del Estado, atendiendo las opiniones del Consejo Estatal Hídrico y del Consejo Técnico Consultivo, el Programa Estatal Hídrico;
 
@@ -295,13 +295,17 @@ XXXV. Ordenar que se practiquen las visitas de inspección y verificación en lo
 
 XXXVI. Tramitar y resolver los recursos o medios de impugnación que se interpongan en contra de sus actos y resoluciones;
 
-XXXVII. Las demás atribuciones que le confieran esta Ley y otros ordenamientos jurídicos, así como las que en materia de agua le sean transferidas por la Federación al Gobierno del Estado en los términos de ley y de los convenios que al efecto se celebren.
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2010)</small>
+
+XXXVII. Aplicar las normas, criterios de eficiencia, indicadores de gestión y modelos técnico-administrativos, para evaluar la gestión técnica, ambiental, financiera y administrativa de los organismos operadores, para la determinación de inversiones, incentivos y estímulos por la Federación.
+
+XXXVIII. Las demás atribuciones que le confieran esta Ley y otros ordenamientos jurídicos, así como las que en materia de agua le sean transferidas por la Federación al Gobierno del Estado, en los términos de ley y de los convenios que al efecto se celebren.
 
 ###### ARTICULO 9°.
 
 La Comisión Estatal del Agua está integrada por:
 
-l. La Junta de Gobierno;
+I. La Junta de Gobierno;
 
 II. El Director General, y
 
@@ -311,7 +315,7 @@ III. El personal técnico y administrativo que requiera para su funcionamiento.
 
 La Junta de Gobierno se integra con los siguientes miembros:
 
-l. El Gobernador del Estado, o el funcionario a quien éste designe, quien la presidirá;
+I. El Gobernador del Estado, o el funcionario a quien éste designe, quien la presidirá;
 
 II. Los siguientes funcionarios:
 
@@ -341,7 +345,7 @@ Adicionalmente, se podrán invitar a las sesiones de la Junta de Gobierno, a otr
 
 La organización y funcionamiento de la Junta de Gobierno se regirá por lo dispuesto en su reglamento interior, pero en todo caso se ajustará a lo siguiente:
 
-l. Sesionará, por lo menos, una vez cada tres meses; y cuantas veces fuere convocada por su Presidente, por el Director General, por propia iniciativa, o a petición de dos o más miembros de la misma;
+I. Sesionará, por lo menos, una vez cada tres meses; y cuantas veces fuere convocada por su Presidente, por el Director General, por propia iniciativa, o a petición de dos o más miembros de la misma;
 
 II. Las sesiones serán válidas con la concurrencia de la mayoría de sus miembros, y
 
@@ -351,7 +355,7 @@ II. Los acuerdos y resoluciones se tomarán por mayoría de votos de los asisten
 
 La Junta de Gobierno tendrá a su cargo:
 
-l. Designar y remover al Director General;
+I. Designar y remover al Director General;
 
 II. Otorgar poder general para actos de administración y de dominio, así como para pleitos y cobranzas, con todas las facultades generales o especiales que requieran poder o cláusula especial conforme a la ley, así como revocarlos y sustituirlos; además, en su caso, para efectuar los trámites para la desincorporación de los bienes del dominio público que se quieran enajenar;
 
@@ -381,7 +385,7 @@ XIII. Las demás que le asignen la presente Ley y otras disposiciones legales.
 
 La Comisión deberá contar con un Director General que será designado por la Junta de Gobierno, a propuesta de su Presidente, y deberá cumplir con los siguientes requisitos:
 
-l. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II. Tener título profesional relacionado con la función, y contar con experiencia técnica y administrativa comprobadas de por lo menos cinco años en materia del agua;
 
@@ -395,7 +399,7 @@ V. Una vez nombrado no deberá prestar sus servicios profesionales en la adminis
 
 Son atribuciones del Director General:
 
-l. Representar legalmente al organismo, con todas las facultades de un apoderado general, así como en aquellas que requieran poder o cláusula especial conforme a la ley; así como otorgar poderes, revocarlos y sustituirlos, formular querellas y denuncias, efectuar toda clase de demandas, civil o laboral, otorgar el perdón extintivo de la acción penal, elaborar y absolver posiciones, así como promover y desistirse del juicio de amparo;
+I. Representar legalmente al organismo, con todas las facultades de un apoderado general, así como en aquellas que requieran poder o cláusula especial conforme a la ley; así como otorgar poderes, revocarlos y sustituirlos, formular querellas y denuncias, efectuar toda clase de demandas, civil o laboral, otorgar el perdón extintivo de la acción penal, elaborar y absolver posiciones, así como promover y desistirse del juicio de amparo;
 
 II. Presentar al Consejo Directivo, para su aprobación, las acciones de planeación y programación hídrica a implementarse en el Estado, en el ámbito de su competencia, y las que habrán de tratarse en los Consejos de Cuenca o sus organismos auxiliares, así como aquellas necesarias para la ejecución de las funciones que la Federación transfiera al Estado;
 
@@ -453,7 +457,7 @@ XXIII. Las demás que le señale la Junta de Gobierno, esta Ley y el Reglamento 
 
 El patrimonio de la Comisión estará constituido por:
 
-l. Los activos que formen parte de su patrimonio;
+I. Los activos que formen parte de su patrimonio;
 
 II Las aportaciones federales, estatales y municipales que en su caso se realicen, así como las aportaciones de los organismos operadores;
 
@@ -475,7 +479,7 @@ VII. Los demás bienes y derechos que formen parte de su patrimonio por cualquie
 
 Los principios en que se sustenta la política hídrica estatal son:
 
-l. El agua es un bien de dominio público, vital, vulnerable y finito, con valor social, económico y ambiental, cuya preservación en cantidad y calidad es tarea fundamental del estado y la sociedad;
+I. El agua es un bien de dominio público, vital, vulnerable y finito, con valor social, económico y ambiental, cuya preservación en cantidad y calidad es tarea fundamental del estado y la sociedad;
 
 II. La gestión integrada de los recursos hídricos, se sustenta en el uso múltiple y sustentable de las aguas y la interrelación que existe entre los recursos hídricos con el aire, el suelo, flora, fauna, otros recursos naturales, la biodiversidad y los ecosistemas que son vitales para el agua;
 
@@ -497,7 +501,7 @@ El objetivo de la política hídrica estatal es fomentar la gestión integrada d
 
 Son instrumentos básicos de la política hídrica estatal:
 
-l. La planificación hídrica en los ámbitos municipal, estatal, cuenca hidrológica y nacional;
+I. La planificación hídrica en los ámbitos municipal, estatal, cuenca hidrológica y nacional;
 
 II. La participación informada y responsable de las instituciones, organizaciones de la sociedad y de los usuarios, para la mejor gestión de los recursos hídricos y particularmente para su conservación;
 
@@ -515,7 +519,7 @@ VI. Los apoyos sociales para que las comunidades rurales y urbanas marginadas ac
 
 La planeación hídrica en el Estado tendrá como sustento los principios de la planeación democrática previstos en:
 
-l. La Constitución Política de los Estados Unidos Mexicanos;
+I. La Constitución Política de los Estados Unidos Mexicanos;
 
 II. La Ley de Aguas Nacionales;
 
@@ -539,7 +543,7 @@ La planeación hídrica estatal será integral y considerará al agua como una u
 
 La planeación hídrica estatal se instrumentará a través de:
 
-l. El Programa Estatal Hídrico que será elaborado con un horizonte de planeación mínimo de veinticinco años y será resultado de un proceso participativo, plural e interactivo en la formulación del diagnóstico, análisis prospectivo, estrategias de gestión del agua, políticas, acciones y proyectos; en su formulación, seguimiento, evaluación y actualización se invitará a participar a la autoridad federal y deberán concurrir las autoridades estatales y municipales, los usuarios organizados y los grupos sociales vinculados con la gestión del agua, en su implantación, seguimiento, evaluación y actualización.
+I. El Programa Estatal Hídrico que será elaborado con un horizonte de planeación mínimo de veinticinco años y será resultado de un proceso participativo, plural e interactivo en la formulación del diagnóstico, análisis prospectivo, estrategias de gestión del agua, políticas, acciones y proyectos; en su formulación, seguimiento, evaluación y actualización se invitará a participar a la autoridad federal y deberán concurrir las autoridades estatales y municipales, los usuarios organizados y los grupos sociales vinculados con la gestión del agua, en su implantación, seguimiento, evaluación y actualización.
 
 En la elaboración del Programa Estatal Hídrico deberá tomarse en cuenta los lineamientos y estrategias definidos para las cuencas hidrológicas, con base en los acuerdos establecidos en los consejos de cuenca correspondientes;
 
@@ -567,7 +571,7 @@ a) La disponibilidad y balances hidrológicos, expresados en términos de promed
 
 b) La oferta de agua, su calidad, ubicación y variación temporal, las zonas vulnerables y de interés especial, información meteorológica, hidrométrica y piezométrica, con la periodicidad necesaria para el establecimiento de pronósticos.
 
-c) La demanda de las aguas en sus diferentes usos; los aspectos de infraestructura, equipamiento, factores que definen la demanda y su evolución,
+c) La demanda de las aguas en sus diferentes usos; los aspectos de infraestructura, equipamiento, factores que definen la demanda y su evolución.
 
 d) La disponibilidad, origen y aplicación de recursos o acervos relacionados al aprovechamiento y control de las aguas.
 
@@ -593,7 +597,7 @@ VI. La programación y seguimiento de inversiones.
 
 Los subprogramas estatales específicos por uso contendrán como mínimo:
 
-l. La relación de antecedentes que sustentan la programación hídrica para ese uso en específico;
+I. La relación de antecedentes que sustentan la programación hídrica para ese uso en específico;
 
 II. La descripción de acciones, responsables, participantes, presupuesto, fuentes de financiamiento, tiempos de ejecución, índices de gestión e impacto y mecanismos de evaluación y adecuación;
 
@@ -635,7 +639,7 @@ La Comisión en coordinación con los ayuntamientos promoverá la participación
 
 Para los efectos del artículo anterior, la Comisión y el ayuntamiento promoverán y apoyarán la constitución y operación de:
 
-l. El Consejo Hídrico Estatal, y
+I. El Consejo Hídrico Estatal, y
 
 II El Consejo Técnico Consultivo del Agua.
 
@@ -655,7 +659,7 @@ Corresponde al Consejo Hídrico Estatal analizar los problemas relativos de la m
 
 El Consejo Hídrico Estatal se conformará preferentemente con representantes de:
 
-l. Instituciones educativas;
+I. Instituciones educativas;
 
 II. Organizaciones empresariales;
 
@@ -687,7 +691,7 @@ La Comisión proveerá al Consejo de los elementos necesarios para su funcionami
 
 El Presidente del Consejo Estatal Hídrico tendrá las siguientes facultades:
 
-l. Convocar a las sesiones del Consejo por sí, a petición de la Comisión, o a solicitud de por lo menos una tercera parte de sus miembros, por lo menos una vez cada seis meses de manera ordinaria, y las veces que sea necesario de manera extraordinaria;
+I. Convocar a las sesiones del Consejo por sí, a petición de la Comisión, o a solicitud de por lo menos una tercera parte de sus miembros, por lo menos una vez cada seis meses de manera ordinaria, y las veces que sea necesario de manera extraordinaria;
 
 II. Someter a la consideración del Consejo la orden del día de las sesiones;
 
@@ -711,7 +715,7 @@ El Consejo Técnico Consultivo del Agua es el órgano de consulta especializada,
 
 El Ejecutivo del Estado promoverá la integración del Consejo Técnico Consultivo del Agua, como un cuerpo colegiado de coordinación interinstitucional, el cual se conformará preferentemente con los representantes de organismos de investigación, asesoría y consulta técnica existentes en el Estado, como son:
 
-l. Instituciones de investigación;
+I. Instituciones de investigación;
 
 II. Instituciones de educación superior;
 
@@ -741,7 +745,7 @@ El Presidente del Consejo Técnico Consultivo será electo por mayoría de votos
 
 El Presidente del Consejo Técnico Consultivo del Agua tendrá las siguientes facultades:
 
-l. Convocar a las sesiones del Consejo por sí, a petición de la Comisión, o a solicitud de por lo menos una tercera parte de sus miembros, por lo menos una vez cada tres meses de manera ordinaria, y las veces que sea necesario de manera extraordinaria;
+I. Convocar a las sesiones del Consejo por sí, a petición de la Comisión, o a solicitud de por lo menos una tercera parte de sus miembros, por lo menos una vez cada tres meses de manera ordinaria, y las veces que sea necesario de manera extraordinaria;
 
 II. Someter a la consideración del Consejo la orden del día de las sesiones;
 
@@ -771,7 +775,7 @@ La competencia sobre las aguas subsistirá aun cuando mediante la construcción 
 
 Se consideran bienes inherentes de las aguas estatales los siguientes:
 
-l. La parte correspondiente a los cauces de corrientes de playas y zonas estatales en los términos de la presente Ley su reglamento;
+I. La parte correspondiente a los cauces de corrientes de playas y zonas estatales en los términos de la presente Ley su reglamento;
 
 II. Los terrenos ocupados por los vasos de los lagos, lagunas, esteros o depósitos naturales cuyas aguas sean estatales;
 
@@ -875,7 +879,7 @@ La suspensión sólo subsistirá en tanto el infractor no regularice su situaci�
 
 Son causas de revocación de las concesiones o de los permisos con carácter provisional, relativos a materiales pétreos, independientemente de la aplicación de las sanciones que procedan, cuando el usufructuario del título:
 
-l. Disponga de volúmenes de aguas estatales o materiales pétreos en cantidades mayores que los autorizados;
+I. Disponga de volúmenes de aguas estatales o materiales pétreos en cantidades mayores que los autorizados;
 
 II Disponga de materiales pétreos sin cumplir con las normas oficiales mexicanas;
 
@@ -899,7 +903,7 @@ X. Las demás previstas en esta Ley, en sus reglamentos o en el propio título d
 
 Los concesionarios a que se refiere el presente Capítulo estarán obligados a:
 
-l. Ejecutar la explotación, uso o aprovechamiento consignado, con estricto apego a las especificaciones que se autorizaron, respetando el uso, zonas reglamentadas de vedas, reservas y el Programa Estatal Hídrico;
+I. Ejecutar la explotación, uso o aprovechamiento consignado, con estricto apego a las especificaciones que se autorizaron, respetando el uso, zonas reglamentadas de vedas, reservas y el Programa Estatal Hídrico;
 
 II. Instalar medidores volumétricos en la fuente de aprovechamiento, mantenerlo funcionando correctamente y en caso de descompostura dar aviso inmediato por escrito a la Comisión, siendo obligación del concesionario reparar o en su caso reemplazar dichos dispositivos;
 
@@ -977,7 +981,7 @@ Los servicios públicos estarán a cargo de los municipios en todos los asentami
 
 ###### ARTICULO 72.
 
-Conforme a acuerdo de cabildo, los municipios podrán prestar los servicios públicos a través de la integración de comités auxiliares denominados, comités de Agua Rurales en los términos de la presente Ley y mediante reglamento expedido por el ayuntamiento.
+Conforme a (sic) acuerdo de cabildo, los municipios podrán prestar los servicios públicos a través de la integración de comités auxiliares denominados, comités de Agua Rurales en los términos de la presente Ley y mediante reglamento expedido por el ayuntamiento.
 
 ###### ARTICULO 73.
 
@@ -1017,7 +1021,7 @@ Las autoridades estatales y municipales podrán solicitar al gobierno federal as
 
 Cuando los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales sean prestados de forma centralizada por los ayuntamientos, éstos tendrán a su cargo:
 
-l. Realizar los actos necesarios para la prestación de los servicios públicos en su circunscripción territorial, atendiendo a la Ley de Aguas Nacionales y su reglamento, la legislación de equilibrio ecológico y protección al ambiente, las normas oficiales mexicanas y la legislación aplicable que se emita con relación a los mismos, la presente Ley y sus reglamentos;
+I. Realizar los actos necesarios para la prestación de los servicios públicos en su circunscripción territorial, atendiendo a la Ley de Aguas Nacionales y su reglamento, la legislación de equilibrio ecológico y protección al ambiente, las normas oficiales mexicanas y la legislación aplicable que se emita con relación a los mismos, la presente Ley y sus reglamentos;
 
 II. Realizar por sí o a través de terceros, a los que se les concesionen o con quien se celebre contrato de conformidad con esta Ley, las obras de infraestructura hidráulica para la prestación, operación, conservación y mantenimiento de los servicios públicos de agua potable, drenaje alcantarillado, tratamiento y disposición de las aguas residuales;
 
@@ -1079,7 +1083,7 @@ El ayuntamiento podrá constituir organismos auxiliares con la denominación de 
 
 Los comités de agua rurales estarán integrados por:
 
-l. La Asamblea General;
+I. La Asamblea General;
 
 II. El Comité de Administración, y
 
@@ -1125,7 +1129,7 @@ En el decreto de creación de los organismos señalados, se deberá establecer e
 
 El convenio de creación de un organismo operador intermunicipal, será considerado de derecho público, y se sujetará a las siguientes bases:
 
-l. Su celebración deberá ser autorizada por los municipios participantes, en la sesión de cabildo correspondiente;
+I. Su celebración deberá ser autorizada por los municipios participantes, en la sesión de cabildo correspondiente;
 
 II. Su objeto será el expresado en el artículo 87 de este Ordenamiento;
 
@@ -1153,7 +1157,7 @@ La organización y funcionamiento de estos organismos se regirán por la present
 
 El organismo operador tendrá a su cargo:
 
-l. Ejercer las atribuciones a que se refiere el artículo 79 de la presente Ley, con excepción de las señaladas en las fracciones VIII, IX y X del precitado numeral;
+I. Ejercer las atribuciones a que se refiere el artículo 79 de la presente Ley, con excepción de las señaladas en las fracciones VIII, IX y X del precitado numeral;
 
 II. Rendir anualmente a los ayuntamientos un informe de su operación, el cual deberá presentarse dentro de los sesenta días siguientes al término del ejercicio fiscal anterior;
 
@@ -1183,7 +1187,7 @@ XIII. Las demás que le asigne la presente Ley, su decreto de creación, la legi
 
 El patrimonio del organismo operador descentralizado está constituido por:
 
-l. Los bienes y derechos que formen parte del sistema de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales del municipio, mismos que autorizará el cabildo para aportarlos como patrimonio inicial del organismo, así como otros que le entreguen con tal objeto las demás autoridades e instituciones;
+I. Los bienes y derechos que formen parte del sistema de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales del municipio, mismos que autorizará el cabildo para aportarlos como patrimonio inicial del organismo, así como otros que le entreguen con tal objeto las demás autoridades e instituciones;
 
 II. Las aportaciones federales, estatales y municipales que en su caso se reciban;
 
@@ -1205,7 +1209,7 @@ Los bienes del organismo operador destinados directamente a la prestación de lo
 
 Los organismos operadores descentralizados contarán con:
 
-l. Una Junta de Gobierno;
+I. Una Junta de Gobierno;
 
 II. Un Director General;
 
@@ -1221,7 +1225,7 @@ V. El personal técnico y administrativo que se requiera para su funcionamiento.
 
 La Junta de Gobierno de los organismos operadores descentralizados se integra con:
 
-l. Tratándose de organismos operadores paramunicipales:
+I. Tratándose de organismos operadores paramunicipales:
 
 a) El presidente municipal, quien la presidirá;
 
@@ -1249,7 +1253,9 @@ I. Establecer en el ámbito de su competencia, los lineamientos y políticas en 
 
 II. Aprobar el Programa Operativo Anual que le presente el Director General;
 
-III. Remitir al Congreso, a través del ayuntamiento respectivo, para su aprobación, las cuotas y tarifas por la prestación del servicio, a más tardar el quince de noviembre de cada año, de conformidad con lo establecido en la presente Ley;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2010)</small>
+
+III. Remitir al Congreso, para su aprobación, las cuotas y tarifas por la prestación del servicio, a más tardar el cinco de noviembre de cada año, de conformidad con lo establecido en la presente Ley;
 
 IV. Designar y remover al Director General del organismo;
 
@@ -1293,7 +1299,7 @@ Los organismos operadores descentralizados deberán de contar con un Director Ge
 
 Para ser Director General del organismo operador se requiere:
 
-l. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II. Tener cédula profesional relacionada con la función, así como contar con experiencia técnica y administrativa comprobadas de por lo menos cinco años en materia del agua;
 
@@ -1307,7 +1313,7 @@ V. Una vez nombrado, no prestar sus servicios profesionales en la administració
 
 El Director General del organismo operador descentralizado tiene las siguientes atribuciones:
 
-l. Tener la representación legal del organismo, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley; así como otorgar y revocar poderes, formular querellas y denuncias, otorgar el perdón extintivo de la acción penal, elaborar y absolver posiciones, así como promover y desistirse del juicio de amparo;
+I. Tener la representación legal del organismo, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley; así como otorgar y revocar poderes, formular querellas y denuncias, otorgar el perdón extintivo de la acción penal, elaborar y absolver posiciones, así como promover y desistirse del juicio de amparo;
 
 II. Presentar anualmente al cabildo para conocimiento, un informe general, por escrito, aprobado previamente por la Junta de Gobierno y avalado por el Comisario Público.
 
@@ -1389,11 +1395,11 @@ El Comisario Público, para el cumplimiento de sus atribuciones, se auxiliará c
 
 El Comisario Público será designado por la Junta de Gobierno, a propuesta del ayuntamiento, y contará con las siguientes atribuciones:
 
-l. Vigilar que la administración de los recursos se realice de acuerdo con lo que disponga la ley, los programas y presupuestos aprobados;
+I. Vigilar que la administración de los recursos se realice de acuerdo con lo que disponga la ley, los programas y presupuestos aprobados;
 
-II. Elaborar y ejecutar el programa anual de auditorias para lo cual se coordinará con la Contaduría Mayor de Hacienda del Congreso del Estado;
+II. Elaborar y ejecutar el programa anual de auditorías para lo cual se coordinará con la Contaduría Mayor de Hacienda del Congreso del Estado;
 
-III. Elaborar y ejecutar, previo acuerdo con la Junta de Gobierno, el programa de auditorias financieras, técnicas y administrativas, y de gestión, que periódicamente deberán realizarse tanto a la Dirección General, como a todas y cada una de las unidades administrativas de los organismos operadores descentralizados;
+III. Elaborar y ejecutar, previo acuerdo con la Junta de Gobierno, el programa de auditorías financieras, técnicas y administrativas, y de gestión, que periódicamente deberán realizarse tanto a la Dirección General, como a todas y cada una de las unidades administrativas de los organismos operadores descentralizados;
 
 IV. Vigilar que se practiquen las auditorias financieras, técnicas, administrativas y de gestión, por lo menos una vez al año, con el fin de que una vez concluidas se entreguen, en un plazo que no exceda de treinta días naturales, a:
 
@@ -1431,7 +1437,7 @@ La obligación a que se refiere el inciso b) de la fracción IV del artículo 10
 
 El Consejo Consultivo tiene por objeto:
 
-l. Hacer partícipes a los usuarios en la gestión del organismo operador, haciendo las observaciones y recomendaciones para su funcionamiento eficiente y eficaz;
+I. Hacer partícipes a los usuarios en la gestión del organismo operador, haciendo las observaciones y recomendaciones para su funcionamiento eficiente y eficaz;
 
 II. Opinar sobre los resultados del organismo;
 
@@ -1469,7 +1475,7 @@ El organismo operador descentralizado proporcionará los elementos necesarios pa
 
 Los reglamentos internos de los organismos operadores descentralizados, deberán contener como mínimo, de manera enunciativa y no limitativa, lo siguiente:
 
-l. La denominación del organismo al cual se aplicará el ordenamiento;
+I. La denominación del organismo al cual se aplicará el ordenamiento;
 
 II. La forma de integración de la junta gobierno y del consejo consultivo;
 
@@ -1499,7 +1505,7 @@ Se considera de interés público la participación de los sectores social y pri
 
 Los sectores social y privado podrán participar mediante contrato celebrado con el prestador del servicio en:
 
-l. La administración, operación, construcción y mantenimiento total o parcial de los sistemas;
+I. La administración, operación, construcción y mantenimiento total o parcial de los sistemas;
 
 II. La construcción de obras de infraestructura hidráulica y proyectos relacionados con los servicios públicos, incluyendo el financiamiento en su caso, y
 
@@ -1509,7 +1515,7 @@ III. En las demás acciones que se convengan con prestadores del servicio en los
 
 Las modalidades de los contratos celebrados con los prestadores de servicios serán las siguientes:
 
-l. Contrato de prestación de servicios integrales sin riesgo comercial, que se celebrará para la realización de los estudios, proyectos, construcción, operación, mantenimiento y administración de los sistemas para la prestación de los servicios públicos, en que se establecerá un pago previamente definido al contratista por los servicios realizados;
+I. Contrato de prestación de servicios integrales sin riesgo comercial, que se celebrará para la realización de los estudios, proyectos, construcción, operación, mantenimiento y administración de los sistemas para la prestación de los servicios públicos, en que se establecerá un pago previamente definido al contratista por los servicios realizados;
 
 II. Contrato de prestación de servicios integrales con riesgo comercial, que se celebrará para la realización de los estudios, proyectos, construcción, operación, mantenimiento y administración de los sistemas para la prestación de los servicios públicos y el financiamiento del capital de trabajo;
 
@@ -1561,7 +1567,7 @@ Tanto en los casos de licitación, como en los de adjudicación directa, la conc
 
 Las concesiones se otorgarán conforme a lo siguiente:
 
-l. El ayuntamiento expedirá la convocatoria pública correspondiente para que, en un plazo de sesenta días naturales, se presenten las propuestas en sobres cerrados que serán abiertos en un día prefijado y en presencia de todos los participantes;
+I. El ayuntamiento expedirá la convocatoria pública correspondiente para que, en un plazo de sesenta días naturales, se presenten las propuestas en sobres cerrados que serán abiertos en un día prefijado y en presencia de todos los participantes;
 
 II. La convocatoria se publicará simultáneamente en el Periódico Oficial del Estado, en un diario de circulación nacional y en el diario de mayor circulación de la localidad;
 
@@ -1591,7 +1597,7 @@ En caso de que exista un organismo operador, éste emitirá su opinión respecto
 
 El título de concesión será elaborado por el ayuntamiento y deberá contener, entre otros aspectos, lo siguiente:
 
-l. Los fundamentos jurídicos y su objeto;
+I. Los fundamentos jurídicos y su objeto;
 
 II. Número y fecha del acuerdo de cabildo y decreto expedido por el Congreso del Estado de San Luis Potosí, que lo autoriza;
 
@@ -1643,7 +1649,7 @@ Los concesionarios deberán prestar los servicios públicos de conformidad con l
 
 Las obligaciones de los titulares de las concesiones, a que se refiere esta sección, son las siguientes:
 
-l. Utilizar infraestructura concesionada sólo para los fines de la concesión, sin poderlas utilizar para otros fines sin permiso previo del concedente;
+I. Utilizar infraestructura concesionada sólo para los fines de la concesión, sin poderlas utilizar para otros fines sin permiso previo del concedente;
 
 II. Operar, conservar, mantener, rehabilitar, mejorar y ampliar la infraestructura en los términos del título de concesión;
 
@@ -1683,7 +1689,7 @@ Las concesiones, así como los derechos y obligaciones que se les deriven, no po
 
 Las concesiones se terminarán por:
 
-l. Vencimiento del plazo establecido en el título de concesión;
+I. Vencimiento del plazo establecido en el título de concesión;
 
 II. Renuncia del titular, en cuyo caso se harán efectivas las garantías señaladas en el título de concesión;
 
@@ -1701,7 +1707,7 @@ La terminación de la concesión no extingue las obligaciones contraídas por el
 
 Las concesiones podrán ser revocadas por el ayuntamiento, si el concesionario:
 
-l. No cumple con el objeto, obligaciones o condiciones de las concesiones en los términos y plazos establecidos en ellos;
+I. No cumple con el objeto, obligaciones o condiciones de las concesiones en los términos y plazos establecidos en ellos;
 
 II. Cede o transfiere las concesiones o los derechos en ellas (sic) conferidos;
 
@@ -1739,7 +1745,7 @@ La impugnación a que se refiere el párrafo anterior, no interrumpirá el derec
 
 La revocación de la concesión será declarada administrativamente por el ayuntamiento, conforme al siguiente procedimiento:
 
-l. El ayuntamiento notificará al titular del inicio del procedimiento y de las causas que lo motiva, y le otorgará un plazo de quince días hábiles, contado a partir del día siguiente al en que se realice la notificación, para señalar lo que a su derecho convenga y presentar las pruebas necesarias;
+I. El ayuntamiento notificará al titular del inicio del procedimiento y de las causas que lo motiva, y le otorgará un plazo de quince días hábiles, contado a partir del día siguiente al en que se realice la notificación, para señalar lo que a su derecho convenga y presentar las pruebas necesarias;
 
 II. Aportadas las pruebas o elementos de defensa, o transcurrido el plazo sin que se hubieren presentado, el ayuntamiento emitirá dictamen en un plazo de quince días hábiles;
 
@@ -1787,7 +1793,7 @@ Los bienes de la Comisión directamente destinados a la prestación de los servi
 
 Están obligados a contratar los servicios de agua potable, alcantarillado y el de tratamiento de aguas residuales, en su caso, en los lugares en que existan dichos servicios, y cumpliendo con los requisitos que al efecto establezcan los prestadores:
 
-l. Los propietarios o poseedores por cualquier título de predios edificados;
+I. Los propietarios o poseedores por cualquier título de predios edificados;
 
 II. Los propietarios o poseedores por cualquier título, de predios no edificados, cuando frente a los mismos existan instalaciones adecuadas para los servicios que sean utilizados, y
 
@@ -1819,7 +1825,7 @@ Cuando la solicitud de los servicios públicos no cumpla con los requisitos nece
 
 Presentada la solicitud debidamente requisitada, dentro de los quince días hábiles siguientes se practicará una visita en el predio, giro o establecimiento de que se trate, que tendrá por objeto:
 
-l. Corroborar la veracidad de los datos proporcionados por el solicitante;
+I. Corroborar la veracidad de los datos proporcionados por el solicitante;
 
 II. Conocer las circunstancias que el prestador de los servicios considere necesarias, para determinar sobre la prestación de los servicios públicos y el presupuesto correspondiente, y
 
@@ -1897,7 +1903,7 @@ Para realizar el estudio de factibilidad de la prestación del servicio en los n
 
 Una vez presentada la solicitud a que alude el artículo anterior, el prestador de servicios deberá:
 
-l. Determinar la demanda requerida y verificar que exista oferta disponible;
+I. Determinar la demanda requerida y verificar que exista oferta disponible;
 
 II. Determinar los puntos de conexión conforme la infraestructura existente;
 
@@ -1969,7 +1975,7 @@ Los fraccionadores o urbanizadores deberán llevar a cabo las obras de cabeza ne
 
 En materia de reuso, los usuarios deberán sujetarse a las siguientes disposiciones:
 
-l. En las nuevas construcciones, sean de manera individual o en conjunto, se deberán de efectuar las instalaciones que la legislación aplicable señale, a efecto de que cuenten con aparato medidor, así como drenajes separados, uno para aguas residuales y otro para grises o pluviales;
+I. En las nuevas construcciones, sean de manera individual o en conjunto, se deberán de efectuar las instalaciones que la legislación aplicable señale, a efecto de que cuenten con aparato medidor, así como drenajes separados, uno para aguas residuales y otro para grises o pluviales;
 
 II. Las albercas de cualquier volumen deberán contar con equipos de filtración, purificación y recirculación del agua. Asimismo, las fuentes ornamentales deberán contar con equipos de recirculación del agua;
 
@@ -1981,7 +1987,7 @@ a) Los usuarios domésticos, establecimientos mercantiles, industriales, comerci
 
 b) Las industrias ubicadas en la Entidad que en sus procesos productivos no requieran necesariamente de agua potable, así como en las actividades mencionadas en la fracción anterior.
 
-c) Las obras en construcción mayores de 2,500 metros cuadrados, así como en terrecerías y compactación de suelos.
+c) Las obras en construcción mayores de 2,500 metros cuadrados, así como en terrecerías (sic) y compactación de suelos.
 
 d) Los establecimientos dedicados al lavado de autos.
 
@@ -1991,7 +1997,7 @@ d) Los establecimientos dedicados al lavado de autos.
 
 Para el establecimiento de cuotas y tarifas en el servicio público urbano, se deben homologar los criterios y la metodología en la determinación de éstas, buscando con ello asegurar su actualización oportuna, justa y suficiente, así como propiciar:
 
-l. La racionalización del consumo del agua y su reuso;
+I. La racionalización del consumo del agua y su reuso;
 
 II. El acceso de la población de bajos ingresos a los servicios públicos;
 
@@ -2025,7 +2031,7 @@ Las fórmulas también deberán considerar el efecto, que en su caso tengan en l
 
 Las fórmulas para el cálculo de las tarifas medias de equilibrio deberán diferenciar las correspondientes a los distintos servicios. En ese sentido, las fórmulas que proponga la Comisión determinarán:
 
-l. La tarifa media de equilibrio de los servicios de abastecimiento de agua potable;
+I. La tarifa media de equilibrio de los servicios de abastecimiento de agua potable;
 
 II. La tarifa media de equilibrio de los servicios de recolección y alejamiento de aguas residuales, y
 
@@ -2053,7 +2059,7 @@ Para el cálculo de las tarifas medias de equilibrio, el prestador de los servic
 
 Como resultado de la aplicación de las fórmulas y la metodología propuesta por la Comisión, se determinarán los pagos que deberán cubrir los usuarios por la prestación de los servicios públicos, las cuales se clasifican en:
 
-l. Cuotas por infraestructura:
+I. Cuotas por infraestructura:
 
 a) Por cooperación.
 
@@ -2201,7 +2207,7 @@ Las autoridades de los municipios serán responsables de vigilar el cumplimiento
 
 Son obligaciones de los usuarios:
 
-l. Mantener en buen estado sus instalaciones hidráulicas interiores y exteriores, hasta el punto de conexión de la red de agua potable y de drenaje, a fin de evitar el desperdicio de agua; y deberán de abstenerse de realizar conductas que contaminen o propicien el mal funcionamiento de las redes y sistemas descritos en esta Ley;
+I. Mantener en buen estado sus instalaciones hidráulicas interiores y exteriores, hasta el punto de conexión de la red de agua potable y de drenaje, a fin de evitar el desperdicio de agua; y deberán de abstenerse de realizar conductas que contaminen o propicien el mal funcionamiento de las redes y sistemas descritos en esta Ley;
 
 II. Los muebles de baño, regaderas, llaves, tuberías y accesorios sanitarios que se distribuyan o comercialicen en la Entidad, deberán reunir los requisitos técnicos especificados por las normas oficiales mexicanas correspondientes;
 
@@ -2219,7 +2225,7 @@ V. En ningún caso se podrán instalar bombas que succionen agua en forma direct
 
 Son derechos de los usuarios:
 
-l. Exigir al prestador de los servicios la prestación de éstos, conforme a los niveles de calidad establecidos por las leyes respectivas;
+I. Exigir al prestador de los servicios la prestación de éstos, conforme a los niveles de calidad establecidos por las leyes respectivas;
 
 II. Acudir ante la autoridad competente, en caso de incumplimiento a los contratos celebrados entre los usuarios y los organismos operadores del servicio, a fin de solicitar el cumplimiento de los mismos;
 
@@ -2257,7 +2263,7 @@ Cuando la escasez de agua sea originada por negligencia o falta de previsión de
 
 Las autoridades en materia de agua deben promover una cultura para el uso eficiente y cuidado del recurso, a través de la realización de acciones y campañas tendientes a:
 
-l. Concientizar a la población que el elemento agua es un recurso vital y escaso, que debe aprovecharse con racionalidad y eficiencia;
+I. Concientizar a la población que el elemento agua es un recurso vital y escaso, que debe aprovecharse con racionalidad y eficiencia;
 
 II. Promover la instalación de medidores y la incorporación de equipos ahorradores de agua;
 
@@ -2325,7 +2331,7 @@ De existir la posibilidad de daño o peligro para la población y el medio ambie
 
 El permiso de descarga de aguas residuales podrá revocarse por:
 
-l. Realizar la descarga en un sitio diferente al consignado en el permiso respectivo;
+I. Realizar la descarga en un sitio diferente al consignado en el permiso respectivo;
 
 II. Incurrir en los supuestos que prevé el artículo anterior;
 
@@ -2377,7 +2383,7 @@ Los resultados de la inspección y verificación de las descargas de aguas resid
 
 Corresponde a la Comisión imponer las sanciones por las infracciones cometidas en aguas estatales, considerándose como tales:
 
-l. Descargar de manera permanente, intermitente o fortuita, aguas residuales en contravención a lo dispuesto en la presente Ley;
+I. Descargar de manera permanente, intermitente o fortuita, aguas residuales en contravención a lo dispuesto en la presente Ley;
 
 II. Explotar, usar o aprovechar aguas residuales sujetas a la regulación del estado, incumpliendo con las normas oficiales mexicanas en materia de calidad del agua;
 
@@ -2413,7 +2419,7 @@ XVII. Las demás que se deriven de la presente Ley y sus reglamentos.
 
 ARTCULO (SIC) 207. Por violación a lo dispuesto en las fracciones del artículo 206 de esta Ley, procederá la aplicación de las siguientes sanciones:
 
-l. En los casos de las fracciones II, VI, XI, XII y XV del citado artículo, se aplicarán multas por un monto entre cien a doscientos días de salario mínimo general vigente en el Estado;
+I. En los casos de las fracciones II, VI, XI, XII y XV del citado artículo, se aplicarán multas por un monto entre cien a doscientos días de salario mínimo general vigente en el Estado;
 
 II. En los casos de las fracciones III, IV, VII, X y XIII se aplicarán multas por un monto entre quinientos a seiscientos días de salario mínimo general vigente en el Estado, y
 
@@ -2427,7 +2433,7 @@ En las infracciones comprendidas en las fracciones VI, VIII, IX y XVI del artíc
 
 Las sanciones se impondrán tomando en consideración:
 
-l. La gravedad de la falta;
+I. La gravedad de la falta;
 
 II. La naturaleza del hecho y los medios empleados en su ejecución, y
 
@@ -2461,7 +2467,7 @@ Los prestadores del servicio publico urbano contarán con el personal que se req
 
 Los prestadores de los servicios, excepto cuando se trate de concesionarios, podrán ordenar la práctica de visitas por personal autorizado para verificar:
 
-l. Que el uso de los servicios públicos sea el autorizado;
+I. Que el uso de los servicios públicos sea el autorizado;
 
 II. Que el funcionamiento de las instalaciones sea acorde a lo que se disponga en la autorización concedida;
 
@@ -2557,7 +2563,7 @@ Si la descarga de albañal domiciliaria se destruye por causas imputables a los 
 
 Procederá la determinación presuntiva del volumen de consumo del agua, cuando:
 
-l. No se tenga instalado aparato de medición el usuario, en los términos del artículo 143 de este Ordenamiento;
+I. No se tenga instalado aparato de medición el usuario, en los términos del artículo 143 de este Ordenamiento;
 
 II. No funcione el medidor;
 
@@ -2575,7 +2581,7 @@ La determinación a que se refiere este artículo procederá independientemente 
 
 Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, se calculará y exigirá el pago, considerando indistintamente:
 
-l. El volumen que señale el contrato de servicios celebrado o el permiso de descarga respectivo;
+I. El volumen que señale el contrato de servicios celebrado o el permiso de descarga respectivo;
 
 II. Los volúmenes que marque el aparato de medición o que se desprendan de algunos de los pagos efectuados en el mismo ejercicio, o en cualquier otro con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación;
 
@@ -2599,7 +2605,7 @@ En todo caso y sin necesidad de acuerdo con el usuario, el municipio, los organi
 
 Para los efectos de esta Ley cometen infracción:
 
-l. Las personas que instalen en forma clandestina conexiones en cualquiera de las instalaciones del sistema; y las que instalen sin apegarse a los requisitos que se establecen en la presente Ley;
+I. Las personas que instalen en forma clandestina conexiones en cualquiera de las instalaciones del sistema; y las que instalen sin apegarse a los requisitos que se establecen en la presente Ley;
 
 II. Las personas que en cualquier caso proporcionen servicios de agua potable en forma distinta a la que señale esta Ley;
 
@@ -2641,7 +2647,7 @@ XIX. Los que construyan u operen sistemas para la prestación de los servicios p
 
 Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente por el ayuntamiento, por el organismo operador, y en su caso por la Comisión:
 
-l. Con multa por el equivalente de cinco a cincuenta veces el salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de las infracciones a que se refieren las fracciones II, VI, VII, VIII, IX y XV del artículo anterior;
+I. Con multa por el equivalente de cinco a cincuenta veces el salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de las infracciones a que se refieren las fracciones II, VI, VII, VIII, IX y XV del artículo anterior;
 
 II. Con multa por el equivalente de cinco a veinte veces el salario mínimo diario general vigente en el área geográfica en que se cometa la infracción tratándose de las fracciones I, IV, XI, XII, XIII, XIV y XVII del artículo anterior;
 
@@ -2683,7 +2689,7 @@ Se notificarán los adeudos que tengan las personas físicas o morales con motiv
 
 Son infracciones cometidas por los prestadores de los servicios y los contratistas:
 
-l. Negar la contratación de los servicios públicos sin causa justificada;
+I. Negar la contratación de los servicios públicos sin causa justificada;
 
 II. Aplicar cuotas y tarifas que excedan las resultantes de la aplicación de las fórmulas a que se refiere al Capítulo IV del Título Sexto de esta Ley;
 
@@ -2701,7 +2707,7 @@ VII. Incumplir con lo establecido en el segundo párrafo del artículo 147 de es
 
 Las infracciones a que se refiere el artículo anterior, serán sancionadas por las autoridades competentes en términos de la legislación aplicable, cuando éstas sean cometidas por el ayuntamiento, los organismos operadores, concesionarios y contratistas:
 
-l. Con multa de quinientos a dos mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de las fracciones I, IV y VII del artículo anterior;
+I. Con multa de quinientos a dos mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de las fracciones I, IV y VII del artículo anterior;
 
 II. Con multa de mil a cuatro mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, en caso de la fracción II del artículo anterior;
 
@@ -2784,3 +2790,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE JULIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
