@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2010-06-03"
+last_updated: "2010-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 2010.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -410,6 +410,10 @@ III. Planear y dirigir acciones para llevar a cabo permanentemente las funciones
 IV. Coadyuvar con el Comité de Auditoría y con el Comité de Administración Integral de Riesgos en el cumplimiento de las disposiciones aplicables a la administración del riesgo operativo, tecnológico, de mercado, liquidez, crédito, legal, y en función a las necesidades de la Institución; y (sic)
 
 V. Dirigir las actividades de administración y control de la Normateca Institucional de la Financiera, y (sic)
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+V Bis. Expedir copias certificadas de las constancias que obren en los archivos de la Dirección Ejecutiva de Contraloría Interna, cuando deban ser exhibidas ante autoridades judiciales, administrativas, laborales y/o el Ministerio Público;
 
 VI. Preparar los asuntos relacionados con el ámbito de su competencia, que el Director General deba someter a consideración del Consejo;
 
@@ -895,29 +899,59 @@ XIII. Generar y proponer políticas y estrategias para el desarrollo de los nego
 
 Corresponde a la Dirección General Adjunta de Crédito:
 
-I. Emitir y difundir las políticas, lineamientos, normas, reglas y procedimientos de crédito, así como sus modificaciones;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
-II. Formalizar, difundir y vigilar los criterios y herramientas con los que se analicen, resuelvan y otorguen los créditos solicitados;
+I. Emitir y difundir las políticas, lineamientos, normas, reglas y procedimientos de crédito y de reporto, así como sus modificaciones;
 
-III. Emitir disposiciones normativas que complementen y/o interpreten las políticas, lineamientos, normas y procedimientos de crédito;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+II. Proponer, difundir y vigilar los criterios y herramientas con los que se analicen, resuelvan y otorguen los créditos solicitados;
+
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+III. Emitir disposiciones normativas que complementen y/o interpreten las políticas, lineamientos, normas y procedimientos de crédito y de reporto;
 
 IV. Presidir el Comité de Crédito;
 
-V. Establecer y mantener la relación de la Financiera con las sociedades de información crediticia;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
-VI. Proponer al Director General el nombramiento, remover, cambiar de adscripción y promover, de conformidad con la normatividad institucional, a los gerentes de análisis de crédito de las coordinaciones regionales de la Financiera, a los servidores públicos adscritos a las gerencias de crédito, así como a los asesores de crédito de las agencias de Crédito Rural, y (sic)
+V. Dirigir y mantener la relación de la Financiera con las sociedades de información crediticia; y/o con las Instituciones de Banca de Desarrollo en lo relacionado a este tema;
+
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+VI. Proponer al Director General el nombramiento, remover, cambiar de adscripción y promover, de conformidad con la normatividad institucional, de los Gerentes Regionales de Análisis de Crédito y Gerentes Regionales de Supervisión y Cobranza de las Coordinaciones Regionales de la Financiera y a los servidores públicos adscritos a ambas gerencias, así como a los asesores de crédito de las agencias de crédito rural, mismo que tendrán dependencia funcional de esta Dirección General Adjunta;
 
 VII. Atraer los asuntos en materia crediticia, que a consideración del Director General Adjunto de Crédito deban ser atendidos directamente por dicho servidor público;
 
-> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
-VIII. Establecer mecanismos para el seguimiento de crédito a productores e intermediarios financieros rurales;
+VIII. Emitir mecanismos para el seguimiento de crédito a productores e intermediarios financieros rurales y de otras figuras jurídicas;
 
 > <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2009)</small>
 
 IX. Emitir los lineamientos, políticas y procedimientos para la cobranza administrativa y extrajudicial de la cartera crediticia de la Financiera.
 
-Para tal efecto, se constituyen las Gerencias Regionales de Supervisión y Cobranza que dependerán administrativamente de la Dirección General Adjunta de Crédito.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 20 DE JULIO DE 2010)</small>
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+X. Dirigir las acciones para verificar que las operaciones de financiamiento se apeguen a los términos y condiciones aprobados por los órganos e instancias facultadas, y que los documentos valor que respaldan las operaciones de financiamiento realizadas se encuentren registrados y resguardados;
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+XI. Dirigir la supervisión del cumplimiento de los procesos normativos en materia de expedientes de crédito y de reporto;
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+XII. Dirigir los trabajos para la calificación de la cartera crediticia;
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+XIII. Dirigir las acciones de supervisión a los Almacenes Generales de Depósito como emisores de certificados de depósito y bonos de prenda, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+XIV. Dirigir las acciones para el seguimiento del proceso de crédito.
 
 ###### ARTICULO 32.
 
@@ -933,27 +967,23 @@ Corresponde a la Subdirección Corporativa de Mesa de Control:
 
 I. Establecer los mecanismos para que las operaciones de crédito y reporto se apeguen a los términos y condiciones aprobados por los órganos e instancias facultadas;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
-II. Coordinar que periódicamente las agencias designadas, cuenten en el guardavalores con la documentación original que respalde las operaciones de crédito;
+II. Vigilar periódicamente que las agencias designadas, cuenten en el guardavalores con la documentación original que respalde las operaciones de crédito;
 
-III. Llevar a cabo aquellas funciones y actividades que correspondan al área de influencia establecidas en la normatividad aplicable, incluyendo las recomendaciones en materia de control interno realizadas por las autoridades competentes;
+III. (DEROGADA, D.O.F. 20 DE JULIO DE 2010)
 
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
-IV. Coordinar el procesamiento de las operaciones de crédito y reporto en la mesa de control;
+IV. Vigilar el procesamiento de las operaciones de crédito y reporto en la mesa de control;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+V. (DEROGADA, D.O.F. 20 DE JULIO DE 2010)
 
-V. Establecer los mecanismos de verificación y autorización de la liberación de recursos;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+VI. Supervisar las acciones, para verificar que los documentos valor que respaldan las operaciones de financiamiento realizadas, se encuentren registrados y resguardos en los lugares definidos por los Coordinadores Regionales;
 
-VI. Dirigir las acciones, para verificar que los documentos valor que respaldan las operaciones de financiamiento realizadas, se encuentren registrados y resguardos en los lugares definidos por los Coordinadores Regionales;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VII. Verificar los indicadores de control que evidencien la fortaleza de las medidas de control interno, así como su mejora y mantenimiento, y
+VII. (DEROGADA, D.O.F. 20 DE JULIO DE 2010)
 
 > <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
@@ -975,21 +1005,29 @@ I. Desempeñar la función de Secretario del Comité de Crédito;
 
 II. Dirigir la integración de las carpetas con los asuntos que deban ser sometidos a consideración del Comité de Crédito con la información que envíen los subcomités de crédito y demás instancias o áreas competentes;
 
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
-III. Apoyar y vigilar las actividades de las Gerencias de Coordinación Regional de Análisis de Crédito;
+III. Coordinar las actividades de las Gerencias de Coordinación Regional de Análisis de Crédito;
 
 IV. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
-V. Coordinar y proponer programas de capacitación en materia de análisis y procesos de crédito;
+V. Coordinar las propuestas de los programas de capacitación en materia de análisis de crédito;
 
 VI. Desarrollar y proponer a las instancias que corresponda herramientas y elementos de apoyo para el análisis de crédito;
 
 > <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-VII. Coordinar la agenda de asuntos sometidos a consideración del Comité de Crédito que deban ser turnados al Comité de Operación o Consejo Directivo, en materia de crédito.
+VII. Coordinar la agenda de asuntos sometidos a consideración del Comité de Crédito que deban ser turnados al Comité de Operación o Consejo Directivo, en materia de crédito;
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+VIII. Coordinar las actividades internas y externas relacionadas con las Sociedades de Información Crediticia, y/o con las Instituciones de Banca de Desarrollo en lo relacionado a este tema; y
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+IX. Las demás que le encomiende el Director General Adjunto de Crédito en el ámbito de su competencia.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -997,53 +1035,67 @@ VII. Coordinar la agenda de asuntos sometidos a consideración del Comité de Cr
 
 Corresponde a la Subdirección Corporativa de Normatividad de Crédito:
 
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
-I. Coordinar y proponer el Manual de Normas y Políticas de Crédito y el Manual de Normas y Políticas de Reporto así como sus modificaciones o ajustes;
+I. Coordinar las propuestas del Manual de Normas y Políticas de Crédito y del Manual de Normas y Políticas de Reporto así como sus modificaciones o ajustes;
 
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
-II. Coordinar y proponer las circulares normativas e interpretaciones respecto al Manual de Normas y Políticas de Crédito y el Manual de Normas y Políticas de Reporto y demás políticas, lineamientos, normas, reglas y procedimientos;
+II. Coordinar las propuestas de circulares normativas e interpretaciones respecto al Manual de Normas y Políticas de Crédito y el Manual de Normas y Políticas de Reporto y demás políticas, lineamientos, normas, reglas y procedimientos;
 
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+REFORMADA, D.O.F. 20 DE JULIO DE 2010)
 
-III. Mantener actualizadas las normas, políticas y procedimientos aplicables al proceso de crédito y de reporto y actuar como área consultiva en dichas materias;
+III. Coordinar la actualización de las normas, políticas y procedimientos aplicables al proceso de crédito y de reporto y actuar como área consultiva en dichas materias;
 
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
-IV. Coordinar y proponer los procedimientos de crédito y de reporto, así como sus modificaciones;
+IV. Coordinar las propuestas de procedimientos de crédito y de reporto, así como sus modificaciones;
 
-V. Coordinar los trabajos de calificación de cartera e integrar la información para su presentación y autorización por parte de las instancias correspondientes;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+V. Coordinar los trabajos de calificación de cartera e integración de la información para su presentación y autorización por parte de las instancias correspondientes;
 
 > <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
 VI. Coordinar el seguimiento del proceso de crédito;
 
-VII. Coordinar y proponer programas de capacitación en materia de normatividad y procesos de crédito;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+VII. Coordinar las propuestas de los programas de capacitación en materia de normatividad y procesos de crédito;
 
 VIII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
-IX. Coordinar la supervisión a los almacenes Generales de Depósito como emisores de Certificados de Depósito, en el marco del Manual de Normas y Políticas de Reporto.
+IX. Coordinar la supervisión a los almacenes Generales de Depósito como emisores de Certificados de Depósito, en el marco del Manual de Normas y Políticas de Crédito y de Reporto; y
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+X. Las demás que le encomiende el Director General Adjunto de Crédito en el ámbito de su competencia.
 
 > <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2009)</small>
 
 ARTICULO 36 BIS.- Corresponde a la Subdirección Corporativa de Supervisión y Cobranza:
 
-I. Coordinar y supervisar las acciones de supervisión y seguimiento de los financiamientos que realicen las Coordinaciones Regionales;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
-II. Coordinar y supervisar el desempeño de la recuperación y cobranza que efectúen las Coordinaciones Regionales, y en su caso, realizar en forma directa las acciones de cobranza que considere pertinentes;
+I. Coordinar las acciones de supervisión y seguimiento de los financiamientos que realicen las Coordinaciones Regionales;
 
-III. Diseñar y proponer mecanismos de supervisión, seguimiento y vigilancia que permitan identificar, evaluar y corregir el desempeño de las acciones de supervisión y cobranza preventiva, administrativa y extrajudicial que realicen las Coordinaciones Regionales;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+II. Coordinar la evaluación del desempeño en la recuperación y cobranza que efectúen las Coordinaciones Regionales, y en su caso, realizar en forma directa las acciones de cobranza que considere pertinentes;
 
-IV. Coordinar y establecer estrategias con el área jurídica, para el traspaso, seguimiento y atención de la cartera vencida que requiera cobranza extrajudicial;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+III. Coordinar las propuestas de los mecanismos de supervisión, seguimiento y vigilancia que permitan identificar, evaluar y corregir el desempeño de las acciones de supervisión y cobranza preventiva, administrativa y extrajudicial que realicen las Coordinaciones Regionales;
 
-V. Evaluar la calidad de los reportes de seguimiento al acreditado, durante la vigencia del financiamiento;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+IV. Coordinar la Implementación con el área jurídica, de las estrategias de recuperación en casos particulares;
+
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+V. Coordinar la evaluación de la calidad de los reportes de seguimiento al acreditado, durante la vigencia del financiamiento;
 
 > <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
@@ -1317,9 +1369,9 @@ XI. Aprobar políticas relativas a los recursos materiales y servicios generales
 
 XII. Aprobar políticas de seguridad, vigilancia y protección civil que resguarden la integridad del personal, y salvaguarden los bienes muebles e inmuebles patrimonio de la Financiera;
 
-> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
-XIII. Dirigir, instrumentar y ejecutar los actos y procedimientos derivados de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y sus respectivos reglamentos; así como instrumentar, resolver y ejecutar los procedimientos de rescisión administrativa que se implementen en la Financiera Rural.
+XIII. Instrumentar, resolver y ejecutar los procedimientos de rescisión administrativa, terminación anticipada y suspensión que se implementen en la Financiera Rural, derivados de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y sus respectivos reglamentos.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1413,13 +1465,17 @@ XI. Dirigir la instrumentación de las políticas de seguridad y protección civ
 
 > <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-XII. Coordinar el funcionamiento de los comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios Relacionados con las Mismas, el de Bienes, el Interno de Ahorro de Energía y aquellos que se instalen competencia de su área, y
+XII. Coordinar el funcionamiento de los comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios Relacionados con las Mismas, el de Bienes, el Interno de Ahorro de Energía y aquellos que se instalen competencia de su área, y (sic)
 
 XIII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
 > <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-XIV. Dirigir la instrumentación de las políticas para la conformación de archivos de la Financiera Rural en términos de la normatividad aplicable para tal fin.
+XIV. Dirigir la instrumentación de las políticas para la conformación de archivos de la Financiera Rural en términos de la normatividad aplicable para tal fin;
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+XV. Instrumentar, resolver y ejecutar los procedimientos de rescisión administrativa, terminación anticipada y suspensión que se implementen en la Financiera Rural, derivados de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y sus respectivos reglamentos.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -1775,6 +1831,10 @@ XIII. Participar en los comités que apruebe el Consejo o en otros comités inte
 
 XIV. Representar al Director General en los asuntos que le encomiende;
 
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+XIV Bis. Expedir copias certificadas de las constancias que obren en los archivos de sus respectivas direcciones generales adjuntas, cuando deban ser exhibidas ante autoridades judiciales, administrativas, laborales y/o el Ministerio Público;
+
 XV. Representar a la Financiera, en el ámbito de su competencia, ante organismos e instituciones públicas y privadas, nacionales e internacionales, por acuerdo del Director General, y
 
 XVI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende el Director General o el Consejo.
@@ -1874,6 +1934,10 @@ XII. Coordinar la vigilancia, evaluación y control necesario para asegurar la a
 XIII. Coordinar las actividades para dar seguimiento a la cobranza administrativa y extrajudicial de la cartera crediticia.
 
 Para el ejercicio de dichas atribuciones, contarán con las Gerencias Regionales de Supervisión y Cobranza las cuales dependerán orgánicamente de éstas;
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+XIII Bis. Expedir copias certificadas de las constancias que obren en los archivos de sus respectivas coordinaciones regionales, cuando deban ser exhibidas ante autoridades judiciales, administrativas, laborales y/o el Ministerio Público; y
 
 > <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2009)</small>
 
@@ -2289,11 +2353,23 @@ II. Opinar al Consejo sobre el otorgamiento de préstamos o créditos complement
 
 III. Opinar al Comité de Administración Integral de Riesgos sobre la metodología para la estimación de pérdidas y, en su caso, la constitución de reservas;
 
-IV. Proponer al Comité de Operación los lineamientos para la atención de la clientela preferencial y de los intermediarios para que operen microcréditos;
+IV. (DEROGADA, D.O.F. 20 DE JULIO DE 2010)
 
-V. Opinar al Consejo sobre la constitución de reservas de la Financiera, y
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
-VI. Las demás que determine la Ley, el Estatuto, el Consejo y las Reglas de Operación del Comité.
+V. Opinar al Consejo, a través del Presidente del Comité de Crédito, sobre la aplicación de reservas de la cartera crediticia de la Financiera;
+
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+VI. Autorizar el otorgamiento de préstamos o créditos a Intermediarios Financieros Rurales, conforme a los Lineamientos Generales para el Otorgamiento de Crédito a Intermediarios Financieros Rurales aprobados por el Consejo Directivo;
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+VII. Autorizar el otorgamiento de líneas de reporto, de conformidad con los Lineamientos Generales para la Operación de Reportos y del Manual de Normas y Políticas de Reporto, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+
+VIII. Las demás que determine la Ley, el Estatuto, el Consejo y las Reglas de Operación del Comité.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -2327,9 +2403,7 @@ VI. El Subdirector Corporativo de Normatividad de Crédito;
 
 VII. El Titular de la Unidad para la Administración Integral de Riesgos;
 
-> <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2010)</small>
-
-VII Bis. El Subdirector Corporativo Fiduciario;
+VII Bis. (DEROGADA, D.O.F. 20 DE JULIO DE 2010)
 
 VIII. Un representante de la Secretaría de Hacienda y Crédito Público, en calidad de asesor;
 
@@ -2345,9 +2419,9 @@ XI. El Titular del Organo Interno de Control de la Financiera, en calidad de ase
 
 XII. El Titular de la Contraloría Interna, en calidad de asesor.
 
-> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2010)</small>
 
-Los integrantes previstos en los incisos I al VII Bis acudirán con derecho a voz y voto. En el caso de los integrantes de los incisos VIII al XII acudirán sólo con derecho a voz. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente con el nivel jerárquico inmediato inferior al de ellos.
+Los integrantes previstos en los incisos I al VII acudirán con derecho a voz y voto. En el caso de los integrantes de los incisos VIII al XII acudirán sólo con derecho a voz. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente con el nivel jerárquico inmediato inferior al de ellos.
 
 Para casos específicos podrán invitarse a expertos externos en calidad de asesores.
 
@@ -2544,5 +2618,9 @@ D.O.F. 12 DE MARZO DE 2010.
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
 
 D.O.F. 3 DE JUNIO DE 2010.
+
+UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE JULIO DE 2010.
 
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
