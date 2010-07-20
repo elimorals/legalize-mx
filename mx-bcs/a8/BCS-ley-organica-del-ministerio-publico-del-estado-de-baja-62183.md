@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-ministerio-publico-del-estado-de-baja-62183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-07-08"
-last_updated: "2010-06-10"
+last_updated: "2010-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JULIO DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 8 de julio de 2008.
 
@@ -415,7 +415,11 @@ II.- Ser Ciudadano Sudcaliforniano, con residencia efectiva en el Estado no meno
 
 III.- Tener más de 25 años el día de su designación;
 
-IV.- Tener título y cédula de licenciado en derecho expedido por Institución legalmente facultada para ello y un mínimo de 5 años de ejercicio profesional;
+IV.- Tener título y cédula de licenciado en derecho expedido por Institución legalmente facultada para ello y un mínimo de 5 años de ejercicio profesional.
+
+> <small>(ADICIONADO, B.O. 20 DE JULIO DE 2010)</small>
+
+Los servidores públicos de la Procuraduría General de Justicia del Estado, que reúnan los demás requisitos que establece el presente artículo, podrán ser nombrados con un mínimo de 3 años de ejercicio profesional;
 
 V.- Tener un modo honesto de vivir y gozar de buena reputación;
 
@@ -1504,3 +1508,7 @@ B.O. 10 DE JUNIO DE 2010.
 PRIMERO.- El presente decreto entrará en vigor 30 días después de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Procurador General de Justicia del Estado de Baja California Sur, contará con 90 días posteriores de la entrada en vigor de esta reforma, para la elaboración del manual de procedimiento a que hace mención esta reforma.
+
+B.O. 20 DE JULIO DE 2010.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
