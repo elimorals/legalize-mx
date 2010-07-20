@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-economico-del-estado-de-san-luis-potosi-34563"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-20"
-last_updated: "2010-06-03"
+last_updated: "2010-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO ECONOMICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 20 de marzo de 2003.
 
@@ -133,9 +133,25 @@ V. El Presidente del Centro Empresarial de San Luis Potosí;
 
 VI. El Presidente de la Cámara Nacional de Comercio, Servicios y Turismo, Delegación San Luis Potosí;
 
-VII. Tres empresarios del Estado de San Luis Potosí, mismos que designará el Consejo, y
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2010)</small>
 
-VIII. El Presidente del principal organismo empresarial, para cada una de las zonas del Estado: altiplano, huasteca y media; que serán designados por el Consejo en términos del Reglamento.
+VII. Tres empresarios del Estado de San Luis Potosí, mismos que designará el Consejo;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2010)</small>
+
+VIII. El presidente del principal organismo empresarial, para cada una de las zonas del Estado: altiplano, huasteca y media; que serán designados por el Consejo, en términos del Reglamento;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2010)</small>
+
+IX. El diputado Presidente de la Comisión de Desarrollo Económico y Social del Honorable Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2010)</small>
+
+X. Los Delegados de las secretarías federales inherentes al desarrollo económico en el Estado, y
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2010)</small>
+
+XI. Tres directivos de instituciones de educación superior en el Estado, mismos que designará el Consejo.
 
 Los miembros del Consejo tendrán voz y voto.
 
@@ -399,9 +415,15 @@ Lo dispuesto en el presente Capítulo será aplicable a los ayuntamientos y a lo
 
 Con el fin de asegurar la canalización de mayores recursos económicos para el fomento de la inversión que promueva el desarrollo económico de la Entidad, el Ejecutivo del Estado a través de la Secretaría, constituirá y operará el Fondo de Fomento Económico.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 38.
 
-El Fondo se integrará con los recursos que aporten la Federación, el Estado, los municipios y el sector privado.
+El Fondo se integrará con los recursos que para tal efecto se determinen en el Presupuesto de Egresos del Estado de San Luis Potosí, para el ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2010)</small>
+
+ARTICULO 38 BIS. Para el funcionamiento del Fondo, la Secretaría establecerá las reglas de operación, procurando impactar en las cuatro regiones del Estado, así como el mayor rendimiento de los recursos disponibles, a través de la mezcla de recursos con otras instancias.
 
 ###### ARTICULO 39.
 
@@ -620,3 +642,9 @@ P.O. 3 DE JUNIO DE 2010.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE JULIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
