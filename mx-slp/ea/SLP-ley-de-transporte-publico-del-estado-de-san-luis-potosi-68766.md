@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2010-04-29"
+last_updated: "2010-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -467,7 +467,9 @@ II. Contar con la factibilidad o licencia de uso de suelo, en su caso, expedido 
 
 III. Acreditar la propiedad de un vehículo con las características a que se refiere el dictamen técnico.
 
-En todos los casos, las concesiones se otorgarán preferentemente a los solicitantes que acrediten la vecindad en la comunidad o en el municipio de origen, en todas las modalidades, y que garanticen la prestación del servicio en las mejores condiciones, atendiendo para ello a los criterios que se contengan en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2010)</small>
+
+En todos los casos, las concesiones se otorgarán preferentemente a los solicitantes que acrediten la vecindad en la cabecera, delegación o comunidad del municipio de origen, en todas las modalidades, y que garanticen la prestación del servicio en las mejores condiciones, atendiendo para ello a los criterios que se contengan en el Reglamento de esta Ley.
 
 ###### ARTICULO 32.
 
@@ -1289,9 +1291,11 @@ Las tarifas y su aplicación responderán siempre a un criterio técnico uniform
 
 En la formulación y aplicación de las tarifas, horarios e itinerarios, se observará siempre igualdad de tratamiento para todos los que se encuentren en las mismas condiciones, procurando satisfacer especialmente las necesidades del usuario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 92.
 
-La determinación y ajuste de las tarifas será el resultado del estudio que al efecto lleven a cabo el Consejo Estatal de Transporte Público, o los respectivos consejos municipales de transporte público, por sí mismos, o en coordinación con la propia Secretaría; la propuesta de las nuevas tarifas se turnará al Ejecutivo del Estado para su autorización y publicación en el Periódico Oficial del Estado.
+La determinación de las tarifas será el resultado del estudio que al efecto lleven a cabo el Consejo Estatal de Transporte Público, o los respectivos consejos municipales de transporte público, por si mismos, o en coordinación con la propia Secretaría la propuesta de las nuevas tarifas, se turnará al Ejecutivo del Estado para su autorización y publicación en el Periódico Oficial del Estado.
 
 Los prestadores del servicio deberán exhibir permanentemente la tarifa aprobada y publicada en el Periódico Oficial del Estado, en lugares visibles de sus vehículos, en las terminales y demás infraestructura con acceso a los usuarios.
 
@@ -1343,7 +1347,9 @@ El Ejecutivo del Estado tendrá en todo tiempo la facultad de verificar la objet
 
 Para el caso de ajuste a tarifas previamente autorizadas, éste se efectuará en función del incremento que registren los siguientes indicadores económicos: salario mínimo vigente en la Entidad; el Índice Nacional de Precios al Consumidor; el Índice Nacional de Precios al Productor; y el precio del combustible, el ajuste quedará definido por el promedio aritmético de la variación de los indicadores del periodo de que se trate; aplicándose el segundo sábado del segundo mes de cada año.
 
-La condición constituida conforme al párrafo anterior prevalecerá hasta en tanto los concesionarios soliciten a la Secretaría, a través del consejo que corresponda, la determinación de una nueva tarifa, de acuerdo a la fórmula a la que hace referencia el artículo 93 de esta Ley, o bien el Ejecutivo así lo considere en función del costo total.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2010)</small>
+
+La condición constituida conforme al párrafo anterior, prevalecerá hasta en tanto los concesionarios soliciten a la Secretaría, a través del Consejo que corresponda, el ajuste de la tarifa de acuerdo a la formula a la que hace referencia el artículo 93 de esta Ley, o bien el Ejecutivo así lo considere en función del costo total.
 
 ###### ARTICULO 95.
 
@@ -1846,3 +1852,9 @@ P.O. 29 DE ABRIL DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
+
+P.O. 20 DE JULIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
