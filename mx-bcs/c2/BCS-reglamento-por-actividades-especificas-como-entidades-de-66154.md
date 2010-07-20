@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-por-actividades-especificas-como-entidades-de-66154"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-20"
-last_updated: "2008-12-20"
+last_updated: "2010-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # REGLAMENTO POR ACTIVIDADES ESPECIFICAS COMO ENTIDADES DE INTERES PUBLICO
 
-REGLAMENTO POR ACTIVIDADES ESPECIFICAS COMO ENTIDADES DE INTERES PÚBLICO
+REGLAMENTO POR ACTIVIDADES ESPECÍFICAS COMO ENTIDADES DE INTERÉS PÚBLICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO POR ACTIVIDADES ESPECÍFICAS COMO ENTIDADES DE INTERÉS PÚBLICO DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL P.O. 20 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2010. (DEROGADO)
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de diciembre de 2008.
 
@@ -36,8 +38,6 @@ CONSIDERANDOS
 En merito a lo anterior y con fundamento en el artículo 99 fracción XXXVIII de la Ley Electoral del Estado de Baja California Sur, este Consejo General:
 
 A C U E R D A
-
-.
 
 REGLAMENTO POR ACTIVIDADES ESPECÍFICAS COMO ENTIDADES DE INTERÉS PÚBLICO
 
@@ -310,3 +310,13 @@ Segundo. El presente reglamento entrará en vigor el día siguiente de su public
 Tercero. Con fundamento en los artículos 102 de la Ley Electoral del Estado, y 50 fracción III del Reglamento Interior del Instituto Estatal Electoral de Baja California Sur, la Comisión de Fiscalización del Financiamiento de los Partidos Políticos podrá modificar, reformar y/o adicionar los presentes lineamientos, previo dictamen de procedencia que apruebe el Consejo General del Instituto Estatal Electoral de Baja California Sur.
 
 > <small>N. DE E. VER FORMATOS EN EL B.O. DE 20 DE DICIEMBRE DE 2008, PAGINAS DE LA 88 A LA 94.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE JULIO DE 2010.
+
+Primero. Se deroga el Reglamento por actividades específicas como entidades de interés público aprobado, anterior a la presente publicación.
+
+Segundo. El presente reglamento entrará en vigor el día siguiente de su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur y se aplicará a partir del ejercicio presupuestal de 2010.
+
+Tercero. Con fundamento en los artículos 102 de la Ley Electoral del Estado, y 50 fracción III del Reglamento Interior del Instituto Estatal Electoral de Baja California Sur, la Comisión de Fiscalización del Financiamiento de los Partidos Políticos podrá modificar, reformar y/o adicionar los presentes lineamientos, previo dictamen de procedencia que apruebe el Consejo General del Instituto Estatal Electoral de Baja California Sur.
