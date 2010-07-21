@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-la-administracion-del-parque-alameda-luis-47185
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-07"
-last_updated: "2010-05-05"
+last_updated: "2010-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 "REGLAMENTO PARA LA ADMINISTRACION DEL PARQUE ALAMEDA LUIS DONALDO COLOSIO MURRIETA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 7 de diciembre de 2005.
 
@@ -37,23 +37,23 @@ CONSIDERANDO.
 
 Por lo anteriormente expuesto y fundado, este Cabildo ha tenido a bien aprobar el siguiente:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REPUBLICADA], P.O. 21 DE JULIO DE 2010)</small>
 
 "REGLAMENTO PARA LA ADMINISTRACIÓN DEL PARQUE ALAMEDA LUIS DONALDO COLOSIO MURRIETA"
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 1.
 
-El presente Reglamento es de orden público y de interés general y tiene por objeto, regular la función, operación y administración del Parque Alameda “Luis Donaldo Colosio Murrieta”, relativo a la actividad, esparcimiento y recreación del público en general.
+El presente Reglamento es de orden público y de interés general y tiene por objeto, regular la función, operación y administración del Parque Alameda de Luis Donaldo Colosio Murrieta, relativo a la actividad, esparcimiento y recreación del público en general.
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 2.
 
-La aplicación del presente Reglamento corresponde al Administrador del Parque Alameda “Luis Donaldo Colosio Murrieta”.
+La aplicación del presente Reglamento corresponde al Administrador del Parque Alameda Luis Donaldo Colosio Murrieta.
 
 ###### Artículo 3.
 
@@ -63,45 +63,45 @@ I.- AYUNTAMIENTO: El Ayuntamiento de Cuernavaca, Morelos;
 
 II.- PRESIDENTE MUNICIPAL: El presidente Municipal Constitucional de Cuernavaca, Morelos.
 
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2010)</small>
 
-III.- REGLAMENTO: Normas administrativas que regulan el funcionamiento del Parque Alameda “Luis Donaldo Colosio Murrieta” del Municipio de Cuernavaca, Morelos.
+III.- REGLAMENTO: Normas administrativas que regulan el funcionamiento del Parque Alameda Luis Donaldo Colosio Murrieta del Municipio de Cuernavaca, Morelos.
 
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2010)</small>
 
-IV.- PARQUE ALAMEDA “LUIS DONALDO COLOSIO MURRIETA”: Unidad de Servicio Público para la recreación y esparcimiento de la Población.
+IV.- PARQUE ALAMEDA LUIS DONALDO COLOSIO MURRIETA: Unidad de Servicio Público para la recreación y esparcimiento de la Población.
 
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2010)</small>
 
-V.- ADMINISTRACIÓN: Unidad Organizativa y Administrativa del Parque Alameda “Luis Donaldo Colosio Murrieta”.
+V.- ADMINISTRACIÓN: Unidad Organizativa y Administrativa del Parque Alameda Luis Donaldo Colosio Murrieta.
 
 VI.- BANDO: El Bando de Policía y Buen Gobierno del Municipio de Cuernavaca, Morelos.
 
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2010)</small>
 
-VII.- EL ADMINISTRADOR: Responsable Directivo y Administrativo del cuidado, mantenimiento y funcionamiento del Parque Alameda “Luis Donaldo Colosio Murrieta”.
+VII.- EL ADMINISTRADOR: Responsable Directivo y Administrativo del cuidado, mantenimiento y funcionamiento del Parque Alameda Luis Donaldo Colosio Murrieta.
 
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2010)</small>
 
-VIII.- COMERCIANTE: Es la persona física o moral que realiza una actividad comercial o de servicio al interior del Parque Alameda “Luis Donaldo Colosio Murrieta”, en la forma de ambulante, semifijo o fijo.
+VIII.- COMERCIANTE: Es la persona física o moral que realiza una actividad comercial o de servicio al interior del Parque Alameda Luis Donaldo Colosio Murrieta, en la forma de ambulante, semifijo o fijo.
 
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2010)</small>
 
-IX.- LICENCIA: Permiso formal con posibilidad de renovación para ejercer en el interior del Parque Alameda “Luis Donaldo Colosio Murrieta” alguna actividad comercial o de servicio.
+IX.- LICENCIA: Permiso formal con posibilidad de renovación para ejercer en el interior del Parque Alameda Luis Donaldo Colosio Murrieta, alguna actividad comercial o de servicio.
 
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2010)</small>
 
-X.- AUTORIZACIÓN: Permiso temporal para ejercer dentro del Parque Alameda “Luis Donaldo Colosio Murrieta” algún espectáculo, evento o actividad comercial o de servicio cuyo desarrollo no exceda de setenta y dos horas.
+X.- AUTORIZACIÓN: Permiso temporal para ejercer dentro del Parque Alameda Luis Donaldo Colosio Murrieta, algún espectáculo, evento o actividad comercial o de servicio cuyo desarrollo no exceda de setenta y dos horas.
 
 XI.- CONSEJO CONSULTIVO: Órgano de consulta y apoyo, integrado por lideres de comerciantes, Administrador del Parque, Secretario de Servicios Públicos y Medio Ambiente y Regidor de Servicios Públicos Municipales.
 
 XII.- VISITANTE O USUARIO: Persona física que acude al Parque y hace uso de sus instalaciones.
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 4.
 
-El Parque Alameda “Luis Donaldo Colosio Murrieta”, abrirá todos los días del año sus puertas al público excepto los lunes y su funcionamiento será de las 06:00 a.m. a las 20:00 horas; en horario de verano se podrá ampliar su funcionamiento según lo determine el Administrador.
+El Parque Alameda Luis Donaldo Colosio Murrieta, abrirá todos los días del año sus puertas al público excepto los lunes y su funcionamiento será de las 06:00 a.m. a las 20:00 horas; el horario de funcionamiento podrá ampliarse según lo determine el Administrador, en casos y eventos especiales.
 
 ###### Artículo 5.
 
@@ -121,11 +121,11 @@ Tanto usuarios como los comerciantes están obligados a respetar y cumplir el pr
 
 Es responsabilidad del Ayuntamiento a través del Administrador del Parque, la administración y mantenimiento de todas las áreas e instalaciones del mismo, atender las quejas de los usuarios, comerciantes y empleados y resolver de acuerdo a las leyes aplicables con buen criterio y con respeto a la dignidad humana.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 9.
 
-El Administrador del “Parque Alameda Luis Donaldo Colosio Murrieta” será nombrado por el Presidente Municipal, dependerá directamente de la Secretaría de Servicios Públicos y Medio Ambiente y durará en su cargo hasta el nombramiento de un nuevo Administrador. Dentro de las funciones y facultades del Administrador están:
+El Administrador del “Parque Alameda Luis Donaldo Colosio Murrieta”, será nombrado por el Presidente Municipal, dependerá directamente de la Subsecretaría de Servicios Públicos y durará en su cargo hasta el nombramiento de un nuevo administrador. Dentro de las funciones y facultades del Administrador están:
 
 I.- Seleccionar, contratar, capacitar y entrenar al personal adecuado al perfil para cubrir el organigrama del Parque, contando con el apoyo de la Dirección de Recursos Humanos del H. Ayuntamiento.
 
@@ -181,11 +181,11 @@ Se prohíbe el acceso al Parque de los vendedores ambulantes y su apostamiento d
 
 Es obligación de los comerciantes contar con un recipiente propio para basura con las características que determine el Administrador del Parque y al término de su actividad diaria, deberán depositar los desechos en los contenedores instalados para tal efecto; material orgánico en recipientes color verde e inorgánico en color azul.
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 16.
 
-Los comerciantes del Parque Alameda “Luis Donaldo Colosio Murrieta” deberán mantener a la vista del público, el precio de los productos que expendan o servicio que presten; por ningún motivo deberán ofrecer sus productos en voz alta, con sonido, con altavoces, con insistencia, o molestia a los visitantes.
+Los comerciantes del Parque Alameda Luis Donaldo Colosio Murrieta, deberán mantener a la vista del público, el precio de los productos que expendan o servicio que presten; por ningún motivo deberán ofrecer sus productos en voz alta, con sonido, con altavoces, con insistencia, o molestia a los visitantes.
 
 ###### Artículo 17.
 
@@ -394,3 +394,9 @@ SEGUNDO.- A partir de la vigencia del presente acuerdo se deberá tomar en cuent
 TERCERO.- Se instruye a la Secretaría de Desarrollo Urbano, Obras y Servicios Públicos Municipales y Medio Ambiente, a la Consejería Jurídica a realizar los trámites conducentes para dar cumplimiento a lo dispuesto en el presente acuerdo, dentro del ámbito de sus respectivas competencias
 
 CUARTO.- Publíquese el presente Acuerdo en el Periódico Oficial "Tierra y Libertad", órgano informativo que edita el Gobierno del Estado de Morelos, así como en la Gaceta Municipal.
+
+P.O. 21 DE JULIO DE 2010.
+
+PRIMERO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Publíquese en la Gaceta Municipal de Cuernavaca.
