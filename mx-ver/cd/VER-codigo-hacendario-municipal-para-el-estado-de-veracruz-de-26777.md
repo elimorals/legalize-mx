@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2010-02-19"
+last_updated: "2010-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CODIGO NUMERO 820 HACENDARIO PARA EL MUNICIPIO DE COATEPEC DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 19 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO QUEDARA SIN APLICACION EN EL MUNICIPIO DE COATEPEC, A PARTIR DE LA VIGENCIA DEL CITADO CODIGO.</small>
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2010.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -4355,11 +4353,15 @@ La Tesorería ejercerá los derechos patrimoniales de los valores que represente
 
 Tratándose de empresas de participación municipal y de aquellas en que el Municipio tenga una participación minoritaria, el Cabildo designará al representante del Ayuntamiento ante los órganos de gobierno o las asambleas generales de accionistas o de socios de la entidad.
 
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 286.
 
-La Tesorería concentrará, revisará, integrará y custodiará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado del Ayuntamiento, y elaborará los estados contables para su integración en la cuenta pública municipal, excepto en las entidades paramunicipales, en cuyo caso se estará a lo dispuesto en el instrumento de su creación.
+La Tesorería concentrará, revisará, integrará y custodiará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado del Ayuntamiento y elaborará los estados contables, presupuestarios y programáticos para su integración en la cuenta pública municipal, excepto en las entidades paramunicipales, en cuyo caso se estará a lo dispuesto en el instrumento de su creación.
+
+En ambos casos, la contabilidad y la emisión de información financiera se sujetarán a lo dispuesto por la Ley General de Contabilidad Gubernamental, este Código y demás disposiciones aplicables.
 
 ###### Artículo 287.
 
@@ -4803,19 +4805,31 @@ Si existen contratos por honorarios, no incrementarán sus percepciones ni obten
 
 #### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
+
 ###### Artículo 355.
 
-La Tesorería y cada entidad, en el ámbito de su competencia, llevarán su propia contabilidad, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas de su propio presupuesto.
+La Tesorería y cada entidad, en el ámbito de su competencia, llevarán su propia contabilidad, de conformidad con lo dispuesto por la Ley General de Contabilidad Gubernamental, este Código y demás disposiciones aplicables, con el propósito de incluir las cuentas para registrar los activos, pasivos, hacienda pública o patrimonio, ingresos, gastos y otras pérdidas, cuentas de cierre o corte contable, cuentas de orden contables, cuentas de orden presupuestarias y cuentas de liquidación y cierre presupuestario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 356.
 
-La contabilidad del Ayuntamiento y la correspondiente a las entidades se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos, metas y unidades responsables de su ejecución, a efecto de integrar la información que coadyuve a la toma de decisiones; así como a la verificación y evaluación de las actividades realizadas.
+Los registros contables del Ayuntamiento y los correspondientes a las entidades se llevarán con base acumulativa, que se registrarán en los momentos contables correspondientes para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos, metas y unidades responsables de su ejecución, a efecto de integrar la información que coadyuve a la toma de decisiones; así como a la verificación y evaluación de las actividades realizadas.
 
-Los sistemas de contabilidad que establezcan los manuales e instructivos que el Congreso apruebe se operarán en forma que faciliten la fiscalización de los activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas y, en general, de manera que permitan medir la eficacia y eficiencia del gasto público municipal.
+Los sistemas de contabilidad que establezcan los manuales e instructivos que el Congreso apruebe se operarán en forma que facilite la fiscalización de los activos, pasivos, ingresos, egresos, avances del ejercicio de los presupuestos, avances en la ejecución de programas y, en general, de manera que permitan medir la eficacia y eficiencia del gasto público municipal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 357.
 
-Las dependencias y entidades suministrarán a la Tesorería mensualmente, la información presupuestal, contable, financiera y de otra índole que requiera la propia Tesorería.
+Las dependencias y entidades suministrarán a la Tesorería, mensualmente, la información contable presupuestal, programática y de otra índole que requiera la propia Tesorería.
 
 Será responsabilidad de cada entidad la confiabilidad de las cifras consignadas en su contabilidad, así como de la representatividad de los saldos de las cuentas de balance, en función de los activos y pasivos reales de la misma, adoptando para ello las medidas de control y depuración correspondientes.
 
@@ -4827,17 +4841,27 @@ La Tesorería emitirá las instrucciones sobre la forma y términos en que las e
 
 Las entidades someterán a la consideración de la Tesorería las modificaciones que consideren necesarias o convenientes a su sistema de contabilidad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE JULIO DE 2010)</small>
+
 ###### Artículo 359.
 
-Los estados financieros y demás información financiera, presupuestal y contable, serán consolidados por la Tesorería, la que será responsable de:
+Los estados financieros y demás información contable, presupuestal y programática, serán consolidados por la Tesorería, la que será responsable de:
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I. Formular la cuenta anual de la Hacienda Pública Municipal, en términos del artículo 20 de la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave;
+> <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
+
+I. Formular la cuenta anual de la Hacienda Pública Municipal, en términos de lo dispuesto por la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave;
 
 II. Proporcionar al Presidente y a la Comisión de Hacienda la información que el Órgano de Fiscalización Superior del Estado requiera en el ejercicio de sus funciones;
 
-III. Coadyuvar con el Presidente y la Comisión de Hacienda en la solventación de las observaciones del Órgano de Fiscalización Superior del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
+
+III. Coadyuvar con el Presidente y la Comisión de Hacienda en la solventación de las observaciones del Órgano de Fiscalización Superior del Estado; así como solventar las observaciones que se le notifiquen por su propio desempeño o responsabilidad.
 
 IV. Administrar y conservar la documentación que contenga la información necesaria para la comprobación, origen y aplicación del gasto público, por el plazo que señale la ley de la materia;
 
@@ -4849,39 +4873,73 @@ VII. Participar en la depuración de cuentas de balance; y
 
 VIII. Las demás que le indique el Presidente y las que se deriven de otros ordenamientos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
+
 ###### Artículo 360.
 
-El registro de las operaciones y la preparación de informes financieros de las dependencias y entidades, deberá llevarse a cabo de acuerdo con los principios de contabilidad gubernamental, así como de las normas políticas y lineamientos que dicte el Congreso.
+El registro de las operaciones y la preparación de informes financieros de las dependencias y entidades deberá llevarse a cabo de acuerdo con los postulados básicos de contabilidad gubernamental, así como con las normas, reglas técnicas, criterios, lineamientos y demás disposiciones de observancia general que aprueben las autoridades o instancias competentes.
 
 #### SECCIÓN II. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE JULIO DE 2010)</small>
+
 ###### Artículo 361.
 
-El Congreso, para efectos de la revisión de las cuentas públicas, emitirá los catálogos de cuentas a que se sujetarán las dependencias y entidades para el registro de sus operaciones financieras y presupuestales. Dichos catálogos estarán integrados por los siguientes grupos de cuentas:
+El Congreso, para efectos de la revisión de las cuentas públicas, emitirá los catálogos de cuentas y clasificadores por rubros de ingresos y por objeto del gasto a que se sujetarán las dependencias y entidades para el registro de sus operaciones financieras y presupuestales. Los catálogos y clasificadores se sujetarán a lo establecido en la Ley General de Contabilidad Gubernamental, este Código y demás disposiciones aplicables. Los catálogos contables se integran por los siguientes grupos de cuentas:
 
 I. Activo;
 
 II. Pasivo;
 
-III. Hacienda Pública;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
+
+III. Hacienda Pública/patrimonio;
 
 IV. Ingresos;
 
-V. Egresos,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VI. Cuentas de Orden, y
+> <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
 
-VII. Presupuesto.
+V. Gastos y otras pérdidas;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
+
+VI. Cuentas de cierre o corte contable;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
+
+VII. Cuentas de orden contables;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2010)</small>
+
+VIII. Cuentas presupuestarias; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2010)</small>
+
+IX. Cuentas de liquidación y cierre presupuestario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 362.
 
-El registro presupuestal de las erogaciones del Ayuntamiento y sus entidades se efectuará en las cuentas que para tal efecto establezca el Congreso, destinadas a captar los procesos siguientes:
-
-I. Asignación Presupuestal, que identifica el presupuesto de la dependencia o entidad y, en su caso modificada con autorización del Cabildo;
-
-II. Compromiso Presupuestal, referido al hecho consistente en que un monto se destina a un fin determinado, a través de un documento formal que ampara la operación; y
-
-III. Ejercicio Presupuestal, determinado por el acto de autorizar el pago correspondiente al avance de obra o a la adquisición de un bien o servicio.
+El registro presupuestal de las erogaciones del Ayuntamiento y sus entidades se efectuará en las cuentas que para tal efecto establezca el Congreso, las que deberán reflejar los momentos contables de los ingresos y de los egresos.
 
 ###### Artículo 363.
 
@@ -4895,9 +4953,13 @@ Será responsabilidad de las dependencias y entidades la desagregación de las s
 
 La contabilidad de las dependencias y entidades contendrá los registros auxiliares para los programas presupuestales que muestren de manera sistemática los avances financieros y de consecución de metas, con objeto de facilitar la evaluación en el ejercicio del gasto público.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
+
 ###### Artículo 366.
 
-El Ayuntamiento y sus entidades llevarán registros auxiliares que permitan el control y conocimiento individual de los distintos saldos integrantes de cada cuenta de balance o resultados.
+El Ayuntamiento y sus entidades llevarán registros auxiliares que permitan el control y conocimiento individual de los distintos saldos integrantes de cada cuenta de balance, ingresos, gastos, presupuestarias y de orden.
 
 ###### Artículo 367.
 
@@ -4907,31 +4969,23 @@ El Ayuntamiento y sus entidades están obligados a resguardar y conservar en su 
 
 El Ayuntamiento y sus entidades registrarán anualmente, como asiento de apertura en los libros principales y registros auxiliares de contabilidad, los saldos de las cuentas de balance del ejercicio inmediato anterior.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
+
 ###### Artículo 369.
 
-Para el registro contable de las operaciones con base acumulativa, se observará lo siguiente:
-
-I. En lo relativo a obras públicas, el presupuesto se considerará comprometido al momento de aprobarse la estimación del avance físico de las mismas, por las personas autorizadas para tal efecto.
-
-II. Cuando se trate de gastos que se eroguen en forma continua, como son los servicios personales, los alquileres y la energía eléctrica, entre otros, el presupuesto se considerará ejercido al momento de efectuarse el pago.
-
-III. El registro contable de los pagos correspondientes al pasivo flotante o circulante, por operaciones de ejercicios anteriores de las dependencias y entidades, se efectuará con base en las instrucciones que sobre el particular gire el Congreso.
+El registro contable de los pagos correspondientes al pasivo a corto plazo, por operaciones de ejercicios anteriores de las dependencias y entidades, se efectuará de acuerdo a lo dispuesto por la Ley General de Contabilidad Gubernamental, este Código, las normas, reglas técnicas, criterios, lineamientos y demás disposiciones de observancia general que aprueben las autoridades competentes.
 
 #### SECCIÓN III. DE LOS ESTADOS FINANCIEROS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
+
 ###### Artículo 370.
 
-La Tesorería consolidará mensualmente la información que a continuación se detalla:
-
-I. Estados Financieros, que comprenderán Balance General, Estado de Resultados y Estado de Origen y Aplicación de Recursos;
-
-II. Estados Contables, que incluirán Balanzas de Comprobación, Auxiliares de Cuentas Colectivas de Balance y Resultado y Conciliaciones Bancarias;
-
-III. Estados Presupuestarios, que consistirán en Estado Condensado de Ingresos, Estado Condensado de Egresos, Estado Analítico de Ingresos, Estado Analítico de Egresos, Estado de Avance Presupuestal y Estados Programáticos;
-
-IV. Estado de Deuda Pública; y
-
-V. Estados Económicos, que contendrán la descripción de información general que permita el análisis de los resultados económicos en un período y la evolución de las finanzas públicas.
+Para efectos de su integración y remisión, los estados financieros mensuales que elabore la Tesorería deberán contener los rubros de información previstos para la cuenta pública en la Ley de Fiscalización Superior, correspondiente al lapso que se informa.
 
 ###### Artículo 371.
 
@@ -4955,9 +5009,13 @@ La Tesorería emitirá y dará a conocer a las dependencias y entidades, los lin
 
 Para efectos de la formulación de la cuenta pública, la información que proporcionen las dependencias y entidades estará debidamente clasificada, de conformidad con los lineamientos que para tal fin emita el Congreso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
+
 ###### Artículo 376.
 
-Para la integración de la cuenta pública anual del Municipio, las entidades, previa aprobación de su titular, proporcionarán oportunamente a la Tesorería, la información a que se refiere el artículo 373.
+Para la integración de la cuenta pública anual del Municipio, las entidades, previa aprobación de su titular, proporcionarán oportunamente a la Tesorería, la información a que se refiere la Ley de Fiscalización Superior para el Estado.
 
 ###### Artículo 377.
 
@@ -4975,9 +5033,13 @@ La Tesorería será responsable de integrar la cuenta pública del municipio, la
 
 La Tesorería determinará la forma en que se presentarán los informes para la integración de la cuenta pública, para lo cual podrá solicitar a las dependencias y entidades la información complementaria y aclaraciones que considere convenientes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
+
 ###### Artículo 380.
 
-La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo la Cuenta Pública Municipal del ejercicio inmediato anterior, a más tardar el treinta de abril de cada año, excepto en el último de su ejercicio, que se presentará en el mes de diciembre de ese mismo año.
+La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo la Cuenta Pública Municipal del ejercicio inmediato anterior, a más tardar el treinta de abril de cada año.
 
 ###### Artículo 381.
 
@@ -4995,11 +5057,19 @@ De no presentar en tiempo la cuenta pública al Congreso, el presidente, los int
 
 El control y la evaluación del gasto público municipal comprenden:
 
-I. La supervisión permanente de los activos, pasivos, ingresos, costos y gastos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
+
+I. La supervisión permanente de los activos, pasivos, ingresos y egresos;
 
 II. El seguimiento a las acciones durante el desarrollo de la ejecución de los programas aprobados; y
 
-III. La medición de la eficiencia y eficacia en la consecución de los objetivos y metas de los programas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
+
+III. El establecimiento de indicadores para la medición de la eficiencia y eficacia en la consecución de los objetivos y metas de los programas.
 
 ###### Artículo 383.
 
@@ -5011,7 +5081,13 @@ II. Los análisis de las evaluaciones que en materia de presupuesto y gasto púb
 
 III. Las conclusiones y recomendaciones y, en general, los informes y resultados de las auditorías y visitas practicadas; y
 
-IV. Las demás fuentes y medios que se juzguen convenientes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2010)</small>
+
+IV. Los indicadores de resultados; y
+
+V. Las demás fuentes y medios que se juzguen convenientes.
 
 ###### Artículo 384.
 
@@ -6174,3 +6250,13 @@ Tercero. Los reglamentos municipales y demás disposiciones legales vigentes en 
 Cuarto. Las contribuciones, los créditos fiscales y los procedimientos administrativos generados bajo la vigencia del Código número 302 Hacendario para el Estado de Veracruz de Ignacio de la Llave, se cobrarán, tramitarán y resolverán conforme a dicho ordenamiento legal hasta su conclusión.
 
 Quinto. La Ley de Ingresos del Municipio para el ejercicio fiscal 2010 deberá ajustarse a las disposiciones y considerar las previsiones de ingresos por los conceptos establecidos en el Libro Tercero del presente Código.
+
+G.O. 21 DE JULIO DE 2010.
+
+Primero. Las disposiciones contenidas en el Artículo Primero del presente Decreto iniciarán su vigencia a partir del día primero de enero de dos mil once, y tendrán carácter obligatorio para todos los ayuntamientos del Estado, incluidos los de Alvarado, Boca del Río, Coatepec, Coatzacoalcos, Córdoba, Cosoleacaque, Emiliano Zapata, Medellín, Minatitlán, Orizaba, Tierra Blanca, Veracruz y Xalapa, cuyas autoridades deberán ajustarse a lo aquí dispuesto, a pesar de las disposiciones en contrario que pueda haber en sus propios Códigos Hacendarios Municipales.
+
+Segundo. Las disposiciones contenidas en el Artículo Segundo del presente Decreto iniciarán su vigencia a partir del día primero de enero del año dos mil once. Después de su entrada en vigor, el Órgano de Fiscalización Superior del Estado, a la brevedad posible, expedirá las reglas generales que regulen las disposiciones relativas al sistema informático o electrónico de presentación de estados financieros y de obra pública mensuales. Una vez emitidas estas reglas generales, el Órgano de Fiscalización Superior del Estado procederá en consecuencia para que el sistema informático o electrónico a que se refiere el presente Decreto pueda instrumentarse antes del treinta y uno de diciembre del año dos mil once.
+
+Tercero. Las disposiciones contenidas en el Artículo Tercero del presente Decreto iniciarán su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
