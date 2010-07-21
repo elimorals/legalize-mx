@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-unidad-de-informacion-publica-municipal-de-744
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-14"
-last_updated: "2010-04-14"
+last_updated: "2010-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO DE LA UNIDAD DE INFORMACION PUBLICA MUNICIPAL DE XOCHITEPEC
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 14 de abril de 2010.
 
@@ -183,9 +183,13 @@ Además de la Unidad, se deberá integrar un Consejo de Información Clasificada
 
 I. El Titular de la Secretaría de Ayuntamiento, como Presidente del Consejo;
 
-II. El Director de Actas y Acuerdos, como Coordinador del Consejo;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2010)</small>
 
-III. La Jefa de Departamento de Seguimiento y Acuerdos, como Secretario Técnico del Consejo;
+II. El Titular de la Consejería Jurídica como Coordinador del Consejo;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2010)</small>
+
+III. El Tesorero Municipal como Secretario Técnico del Consejo;
 
 IV. El Titular de la Unidad de Información Pública del Municipio de Xochitepec y;
 
@@ -474,3 +478,19 @@ LIC. CIRO NORBERTO PERALTA NAVARRO
 SECRETARIO DEL AYUNTAMIENTO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan todas aquellas disposiciones municipales que se opongan al presente Reglamento de la unidad de información pública municipal.
+
+###### ARTÍCULO TERCERO.
+
+Para todo lo no previsto en el Reglamento de la Unidad de información Pública municipal, se aplicarán supletoriamente, con base en la competencia que corresponda, los demás Reglamentos Municipales, Leyes Estatales y Federales.
