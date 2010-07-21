@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2010-05-10"
+last_updated: "2010-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -2037,7 +2037,9 @@ Los servidores públicos municipales deberán:
 
 I. Rendir, antes de tomar posesión de su cargo, la protesta de ley bajo la siguiente fórmula: para tomar la protesta, el Presidente Municipal, o el edil que éste designe, dirá: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política de nuestro Estado, las leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de ...que el Ayuntamiento le ha conferido?". El interrogado contestará: "Sí, protesto". Acto seguido, la misma autoridad que toma la protesta dirá: "Si no lo hiciere así, que el pueblo se lo demande";
 
-II. Al tomar posesión de su cargo y al concluirlo, levantarán inventarios de los bienes que reciban o de los que entreguen, según sea el caso, debiendo registrarlos ante el Síndico y dar cuenta de ello al Ayuntamiento;
+> <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
+
+II. Al tomar posesión de su cargo y al concluirlo, levantarán inventarios de los bienes, así como de los documentos, archivos o expedientes impresos y electrónicos, que reciban o entreguen, según sea el caso, debiendo registrarlos ante el Síndico y dar cuenta de ello al Ayuntamiento;
 
 III. Abstenerse de aceptar o desempeñar dos o más cargos de carácter remunerado del Estado, de éste y la Federación, del Estado y el Municipio, o de dos o más municipios, salvo previa autorización del Congreso o la Diputación Permanente. Quedan exceptuados de esta disposición, los Agentes y Subagentes Municipales, así como los empleos del ramo de la enseñanza, las consejerías o representaciones ante órganos colegiados y los de carácter honorífico en asociaciones científicas, literarias o de beneficencia;
 
@@ -2451,7 +2453,7 @@ El Congreso del Estado, podrá suspender o remover a los miembros del Concejo Mu
 
 ### CAPITULO I
 
-> <small>(REFORMADO, G.O. 11 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 171.
 
@@ -2653,9 +2655,9 @@ La elección de Agentes y Subagentes municipales, es un proceso que se realizar�
 
 ###### Artículo 186.
 
-La entrega y recepción de los documentos que contengan la situación que guarda la administración pública municipal se realizará el día en que se instale el nuevo Ayuntamiento, en términos del presente título, cuyas disposiciones se desarrollarán mediante los lineamientos que al efecto expida el Congreso del Estado.
+La entrega y recepción de la documentación impresa y electrónica que contenga la situación que guarda la administración pública municipal se realizará el día en que se instale el nuevo Ayuntamiento, en términos del presente título, cuyas disposiciones se desarrollarán mediante los lineamientos que al efecto expida el Congreso del Estado.
 
-El Congreso del Estado y el Órgano de Fiscalización Superior podrán designar representantes para que participen como observadores en la entrega recepción.
+El Congreso del Estado podrá designar representantes para que participen como observadores en la entrega y recepción.
 
 ###### Artículo 187.
 
@@ -2663,15 +2665,25 @@ Los documentos a que se refiere el artículo anterior deberán ser:
 
 I. Los libros de actas de las sesiones de cabildo del Ayuntamiento saliente y la información sobre el lugar donde se encuentran los libros de las administraciones municipales anteriores;
 
-II. La documentación relativa a la situación financiera y estados contables que deberán contener los libros de contabilidad y registros auxiliares, correspondientes al Ayuntamiento saliente;
+> <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
 
-III. La documentación relativa al estado que guarda la cuenta pública del Municipio, la que incluirá los oficios de razonabilidad, las observaciones, requerimientos o apercibimientos emitidos por el Órgano de Fiscalización Superior o por el Congreso del Estado;
+II. La documentación relativa a la situación financiera y estados contables que deberán contener los libros diario, mayor y de inventarios y balances, así como los registros auxiliares, correspondientes al Ayuntamiento saliente; y la documentación comprobatoria de los ingresos, patrimonio y gastos;
+
+> <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
+
+III. La documentación relativa al estado que guarda la cuenta pública del Municipio, la que incluirá los oficios de razonabilidad, las observaciones, requerimientos o apercibimientos emitidos por el Órgano de Fiscalización Superior o por el Congreso del Estado a los servidores o ex servidores públicos responsables;
 
 IV. La situación de la deuda pública municipal y la documentación relativa a la misma;
 
-V. El estado de la obra pública ejecutada y en proceso y la documentación relativa a la misma;
+> <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
+
+V. El estado de la obra pública ejecutada, así como la que esté en proceso, y la documentación relativa a su planeación, programación, presupuestación y ejecución, señalando debidamente el carácter federal, estatal o municipal de los recursos utilizados;
 
 VI. La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como informes y comprobantes de los mismos;
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2010)</small>
+
+VI Bis. El estado que guarda el cumplimiento de obligaciones fiscales, incluidas las de seguridad social, de carácter federal, estatal o municipal, según sea el caso;
 
 VII. La plantilla y los expedientes del personal al servicio del Municipio, antigüedad, prestaciones, catálogo de puestos y demás información conducente;
 
@@ -2681,17 +2693,37 @@ IX. La documentación relativa a los programas municipales y proyectos aprobados
 
 X. El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles de propiedad municipal;
 
-XI. La documentación relativa al estado que guardan los asuntos tratados por las Comisiones del Ayuntamiento; y
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2010)</small>
+
+X. Bis. El inventario de los programas informáticos con que se cuenta y el respaldo electrónico de la información y de las bases de datos;
+
+> <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
+
+XI. La documentación relativa al estado que guardan los asuntos tratados por las Comisiones del Ayuntamiento;
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2010)</small>
+
+XI Bis. Los juicios en trámite, su estado procesal y el pasivo contingente en cantidad líquida o numeraria que representen;
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2010)</small>
+
+XI Ter. Los asuntos, contratos, convenios u obras pendientes de atención o trámite, conforme al ejercicio de atribuciones del Ayuntamiento, Ediles y servidores públicos municipales; y
 
 XII. Toda la información que se estime relevante para garantizar la continuidad de la Administración Pública Municipal.
 
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
+
 ###### Artículo 188.
 
-El Síndico del Ayuntamiento entrante levantará acta circunstanciada de la entrega y recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes del Ayuntamiento saliente que participaron y el representante del Órgano de Fiscalización Superior, en su caso.
+El Síndico del Ayuntamiento entrante levantará acta circunstanciada de la entrega y recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes del Ayuntamiento saliente que participaron, así como al representante del Congreso del Estado, en su caso.
+
+El Síndico del Ayuntamiento deberá remitir copia certificada del acta de entrega y recepción al Órgano de Fiscalización Superior.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 189.
 
-Una vez concluida la entrega y recepción, el Ayuntamiento entrante designará una comisión especial que se encargará de analizar el expediente integrado con la documentación conducente, para formular un dictamen de (sic) un plazo de treinta días naturales.
+Una vez concluida la entrega y recepción, el Ayuntamiento entrante designará una comisión especial, de la que deberán formar parte, al menos, el tesorero, el director de obras públicas y el titular del órgano de control interno municipal, que se encargará de analizar el expediente integrado con la documentación conducente, para formular un dictamen en un plazo de treinta días naturales.
 
 El dictamen se someterá dentro de los quince días naturales siguientes al conocimiento y consideración del Ayuntamiento, el cual podrá llamar a los servidores públicos de la administración anterior, para que expresen lo que a su interés convenga, respecto de las observaciones que el dictamen contenga o para solicitar información o documentación complementaria. En todo caso, se concederá un plazo prudente para la respuesta, que no será menor a setenta y dos horas, contadas a partir de la notificación.
 
@@ -3051,6 +3083,10 @@ Primero. Este decreto entrará en vigor al día siguiente de su publicación en 
 
 Segundo. Los procedimientos de revocación o suspensión del mandato de los ediles, así como de suspensión de ayuntamientos que se encuentren substanciándose al iniciar la vigencia de este decreto, serán resueltos conforme a las disposiciones que les dieron origen, sin perjuicio de la aplicación retroactiva en beneficio del servidor público, o del ayuntamiento inculpados.
 
+G.O. 15 DE AGOSTO DE 2007.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
+
 G.O. 7 DE ENERO DE 2009.
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
@@ -3122,3 +3158,13 @@ DECRETO NUMERO 829, POR EL QUE SE ADICIONA LA FRACCION II AL ARTICULO 55, DE LA 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE JULIO DE 2010.
+
+Primero. Las disposiciones contenidas en el Artículo Primero del presente Decreto iniciarán su vigencia a partir del día primero de enero de dos mil once, y tendrán carácter obligatorio para todos los ayuntamientos del Estado, incluidos los de Alvarado, Boca del Río, Coatepec, Coatzacoalcos, Córdoba, Cosoleacaque, Emiliano Zapata, Medellín, Minatitlán, Orizaba, Tierra Blanca, Veracruz y Xalapa, cuyas autoridades deberán ajustarse a lo aquí dispuesto, a pesar de las disposiciones en contrario que pueda haber en sus propios Códigos Hacendarios Municipales.
+
+Segundo. Las disposiciones contenidas en el Artículo Segundo del presente Decreto iniciarán su vigencia a partir del día primero de enero del año dos mil once. Después de su entrada en vigor, el Órgano de Fiscalización Superior del Estado, a la brevedad posible, expedirá las reglas generales que regulen las disposiciones relativas al sistema informático o electrónico de presentación de estados financieros y de obra pública mensuales. Una vez emitidas estas reglas generales, el Órgano de Fiscalización Superior del Estado procederá en consecuencia para que el sistema informático o electrónico a que se refiere el presente Decreto pueda instrumentarse antes del treinta y uno de diciembre del año dos mil once.
+
+Tercero. Las disposiciones contenidas en el Artículo Tercero del presente Decreto iniciarán su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
