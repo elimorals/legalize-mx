@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-crea-la-medalla-al-merito-ciudadano-monica-45758
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-05"
-last_updated: "2005-08-05"
+last_updated: "2010-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO QUE CREA LA MEDALLA AL MERITO CIUDADANO "MONICA RODRIGUEZ" DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 5 de agosto de 2005.
 
@@ -39,13 +39,17 @@ PRIMERO: Se aprueba el REGLAMENTO QUE CREA LA MEDALLA AL MÉRITO CIUDADANO "MÓN
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO P.O. 21 DE JULIO DE 2010)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones del presente Reglamento son de orden público y de interés social y tiene por objeto establecer la normatividad para otorgar la Medalla al Mérito Ciudadano, con la cual el Republicano Ayuntamiento, reconoce anualmente a aquellas personas originarias o residentes en el Municipio, que se hayan distinguido por su servicio a la comunidad de San Pedro Garza García, Nuevo León, en sus acciones cívicas, culturales, educativas, deportivas, o ambientales entre otras.
+Las disposiciones del presente Reglamento son de orden público y de interés social y tiene por objeto establecer la normatividad para otorgar la Medalla al Mérito Ciudadano, con la cual el Republicano Ayuntamiento, reconoce anualmente a aquellas personas originarias o residentes en el Municipio, que se hayan distinguido por su servicio a la comunidad de San Pedro Garza García, Nuevo León, en sus acciones cívicas, heroicas, culturales, educativas, deportivas, de educación, de participación ciudadana, ambientales, o de desarrollo económico, entre otras.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 2.
 
-La Medalla al Mérito Ciudadano es el máximo reconocimiento que el Municipio otorga a ciudadanos distinguidos, consistiendo esta en una Medalla de oro amarillo de 10- diez kilates con baño electrolítico de 24- veinticuatro kilates; tendrá un diámetro de 40-cuarenta milímetros y un espesor de 4.5-cuatro punto cinco milímetros.
+La Medalla al Mérito Ciudadano es el máximo reconocimiento que el Municipio otorga a ciudadanos distinguidos, consistiendo esta en una Medalla de oro amarillo, bajo las características que considere pertinente el Comité de Premiación, y de acuerdo al presupuesto para la realización del mismo.
 
 Tendrá así mismo las características que resulten del diseño ganador en los términos del artículo segundo transitorio del presente Reglamento, debiendo contener como mínimo el escudo del Municipio con la leyenda Medalla al Mérito Ciudadano denominada “Mónica Rodríguez” y el año que corresponda.
 
@@ -59,17 +63,23 @@ Las personas físicas que sean propuestas para el otorgamiento a la Medalla al M
 
 Las propuestas deberán ser formuladas por escrito mediante el cual se precisen las acciones por las que se considera al ciudadano como merecedor de la presea, así como su biografía, y de ser posible presentarán los documentos que acrediten el merecimiento.
 
-Los candidatos podrán ser presentados por individuos, Instituciones o Consejos Ciudadanos. Los Servidores Públicos del Municipio de San Pedro Garza García, Nuevo León, no podrán presentar propuestas.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2010)</small>
+
+Los candidatos podrán ser presentados por individuos, Instituciones o Consejos Ciudadanos. Los Servidores Públicos que se encuentren bajo cualquier régimen laboral, no podrán presentar propuestas ni ser propuestos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 5.
 
-Conjuntamente al otorgamiento de la Medalla se entregará un diploma, en el que se expresará el campo o especialidad merecedora del reconocimiento por el que se le confiere a la persona la distinción, debiendo contener la firma del Presidente Municipal y del Secretario del Republicano ayuntamiento.
+De acuerdo al presupuesto que se autorice, en la medalla se podrá expresar el campo o especialidad del reconocimiento que se le confiere a la persona ganadora.
 
-Así mismo, el Republicano Ayuntamiento llevará un Libro de Honor, que contendrá los datos biográficos de los acreedores a la presea, así como la reseña de los méritos por los cuales les fue otorgada la Medalla. En dicho libro, cada año, se integrará en 2-dos páginas la información señalada, a fin de que permanezca abierto y en exhibición en el lugar que determine el Republicano Ayuntamiento, teniendo a la vista la información de los homenajeados durante el año que transcurra entre cada evento de premiación.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2010)</small>
+
+El Republicano Ayuntamiento imprimirá un libro de honor con la información de los galardonados que contendrá sus datos biográficos, el que permanecerá disponible al público.
 
 La información que contenga el Libro de Honor, estará también contenida en el documento correspondiente al Informe Anual del Gobierno Municipal, y se publicará en la página de Internet del Municipio durante todo el año que transcurra entre cada evento de premiación.
 
-De igual forma se imprimirá un libro con los ganadores en el que contendrá la información del reconocimiento y cada Administración Municipal estará obligada a entregar a las personas condecoradas.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 21 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 6.
 
@@ -87,23 +97,41 @@ e) Aquéllas, que a juicio del Comité de Premiación, sean consideradas como va
 
 ### CAPÍTULO II. DE LOS CAMPOS O ESPECIALIDADES MERECEDORES DE RECONOCIMIENTO
 
+> <small>(REFORMADO P.O. 21 DE JULIO DE 2010)</small>
+
 ###### ARTÍCULO 7.
 
-Anualmente se otorgarán hasta 3-tres medallas que serán concedidas por las acciones que queden comprendidas dentro de las áreas, campos o especialidades siguientes:
+Anualmente se otorgarán hasta 3-tres medallas que serán concedidas por las acciones que hayan realizado dentro del municipio que queden comprendidas dentro de las áreas, campos o especialidades siguientes:
 
-I.- Acciones Cívicas y Heroicas: Se entregará a aquellas personas que se constituyan en su comunidad, como ejemplos respetables de dignidad cívica por su diligente cumplimiento con la Ley; por la firme y serena defensa de los derechos propios y de los demás; por el respeto a las Instituciones públicas y un relevante comportamiento, así como a las personas que expongan su integridad física para salvaguardar la vida de otras personas.
+I.- Acciones Cívicas y Heroicas: Se otorgará a aquellas personas que se constituyan en su comunidad, como ejemplos respetables de dignidad cívica por su diligente cumplimiento con la Ley; por la firme y serena defensa de los derechos propios y de los demás; por el respeto a las Instituciones públicas y un relevante comportamiento, así como a las personas que expongan su integridad física para salvaguardar la vida de otras personas
 
-II.- Arte y Cultura: Se concederá a quienes se hayan destacado en actividades culturales, tales como la pintura, las artes plásticas, el cine, el teatro, la danza, la poesía, la música y el canto, entre otras.
+II.- Arte y Cultura: Se otorgará a quienes se hayan destacado en actividades culturales, tales como la pintura, las artes plásticas, el cine, el teatro, la danza, la poesía, la música y el canto, entre otras.
 
-III.- Cuidado al Medio Ambiente: Se entregará a personas que hayan realizado acciones notables para la protección, preservación, restauración y mejoramiento del equilibrio ecológico y del medio ambiente en el Municipio.
+III.- Cuidado al Medio Ambiente: Se otorgará a personas que hayan realizado acciones notables para la protección, preservación, restauración y mejoramiento del equilibrio ecológico y del medio ambiente en el Municipio.
 
-IV.- Deporte: Se concederá a quienes contribuyan por su actuación destacada al fomento, la promoción y el impulso en la práctica del deporte en el Municipio.
+IV.- Deporte: Se otorgará a quienes contribuyan por su actuación destacada al fomento, la promoción y el impulso en la práctica del deporte en el Municipio.
 
-V.- Desarrollo Comunitario: Se otorgará a quienes realicen un esfuerzo extraordinario en beneficio de la comunidad y del interés público y social, elevando la productividad, generando empleos o propiciando el desarrollo económico del Municipio.
+V.- Desarrollo Comunitario: Se otorgará a quienes realicen un esfuerzo extraordinario en beneficio de la comunidad y del interés público y social del Municipio.
 
-VI.- Educación: Se entregará a quienes hayan realizado aportaciones relevantes en el campo de la pedagogía, la investigación o que hayan destacado por su excelencia educativa.
+VI.- Ciencia y Educación: Se otorgará a quienes hayan realizado aportaciones relevantes en el campo de la pedagogía, la investigación o que hayan destacado por su excelencia educativa en el Municipio.
 
-VII.- Participación Ciudadana: Se entregará a aquel ciudadano que sin fines partidistas, religiosos o lucrativos, realice acciones que conlleven al desarrollo vecinal, moral, cultural o cívico de la colonia, barrio o sector.
+VII.- Participación Ciudadana: Se otorgará a aquel ciudadano que sin fines partidistas, religiosos o lucrativos, realice acciones que conlleven al desarrollo vecinal, moral, cultural o cívico de la colonia, barrio o sector del Municipio y;
+
+VIII.- Desarrollo Económico: Se otorgará a quienes contribuyan a generar empleos con el fin de promover o mantener la prosperidad o bienestar económico y social en el Municipio.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
+
+ARTÍCULO 7 BIS.- Las acciones u obras que pueden ser premiadas con la Medalla serán las siguientes:
+
+I. Las que demuestren su lealtad, respeto y congruencia con los más altos principios y valores de nuestra patria;
+
+II. Las que contribuyan al engrandecimiento del Municipio;
+
+III. Las que destaquen por generar un beneficio para la comunidad;
+
+IV. Las que promuevan o sean una expresión de civismo, de labor social, de desarrollo comunitario, de deporte, de cultura, de educación, de participación ciudadana, de acciones heroicas y del cuidado al medio ambiente; y,
+
+V. Aquéllas, que a juicio del Comité de Premiación, sean consideradas como valiosas y dignas del máximo reconocimiento que el Municipio pueda conceder.
 
 ### CAPÍTULO III. DEL COMITÉ DE PREMIACIÓN
 
@@ -115,13 +143,71 @@ I.- 1-un integrante del Republicano Ayuntamiento, quien será el Presidente de l
 
 II.- El Secretario del Republicano Ayuntamiento;
 
-III.- El Secretario de Vinculación Ciudadana;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2010)</small>
 
-IV.- El Secretario de Promoción Humana; y,
+III.- El Director de Participación Ciudadana;
 
-V.- 5-cinco ciudadanos designados por el Republicano Ayuntamiento a propuesta del Presidente Municipal.
+IV.- (DEROGADA, P.O. 21 DE JULIO DE 2010)
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2010)</small>
+
+V.- Hasta 7-siete ciudadanos designados por el Republicano Ayuntamiento a propuesta del Presidente Municipal.
 
 Para los efectos del presente artículo, entre los ciudadanos designados, el Republicano Ayuntamiento elegirá al Presidente y Secretario del Comité, el resto de los integrantes lo conformarán como vocales. En caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
+
+ARTÍCULO 8 BIS.- El Presidente del Comité tendrá las siguientes Facultades y Responsabilidades:
+
+I. Presidir el evento de emisión de la Convocatoria.
+
+II. Someter a la aprobación del Comité los asuntos que considere convenientes.
+
+III. Convocar a los integrantes del Comité a las reuniones.
+
+IV. Derecho a voz y voto.
+
+V. Voto de calidad en caso de empate.
+
+VI. Presentar a los integrantes del Comité las mejores propuestas para su votación.
+
+VII. Elaborar el escrito para informar el resultado al Presidente Municipal y;
+
+VIII. Participar en nombre del Comité dirigiendo unas palabras durante la ceremonia solemne en la que se entregarán las Medallas a los ganadores.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
+
+ARTÍCULO 8 BIS 1.- El Secretario del Comité tendrá las siguientes Facultades y Responsabilidades:
+
+I. Derecho a voz y voto,
+
+II. Analizar las propuestas presentadas,
+
+III. Concentrar las propuestas analizadas y evaluadas,
+
+IV. Seleccionar las que resulten mejor calificadas y;
+
+V. Emitir opiniones particulares de las propuestas analizadas.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
+
+ARTÍCULO 8 BIS 2.- El Director de Participación Ciudadana, fungirá como instancia de apoyo y responsable ante el Comité de Premiación de las labores de recepción, registro y clasificación de las propuestas de candidatos que se presenten para lo cual, deberá seguir el siguiente procedimiento:
+
+I. Una vez que se lleve a cabo el proceso de convocatoria, deberá registrar cada una de las propuestas asignando un número de folio, el cual deberá ser consecutivo y en el orden cronológico en el que se reciban.
+
+II. Etiquetar y clasificar, de acuerdo al área o especialidad, cada uno de los formatos de registro de convocatoria debidamente llenado y adherirlo al sobre que contiene la propuesta.
+
+III. Una vez realizado lo anterior, previo acuse de recibido, entregar al Presidente del Comité de Premiación las propuestas recibidas, ya clasificadas, adjuntando a éstas el formato de Evaluación de Propuestas de cada área o especialidad.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
+
+ARTÍCULO 8 BIS 3.- Los Vocales del Comité tendrán las siguientes Facultades y Responsabilidades:
+
+I. Derecho a voz y voto.
+
+II. Analizar las propuestas presentadas y;
+
+III. Emitir opiniones particulares respecto de las propuestas analizadas.
 
 ###### ARTÍCULO 9.
 
@@ -131,7 +217,9 @@ I.- Ser mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
 II.- Ser mayor de 21-veintiún años;
 
-III.- Tener residencia no menor de 5-cinco años en el Municipio, al día de la designación;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2010)</small>
+
+III.- Ser residente del Municipio;
 
 IV.- Tener un modo honesto de vivir;
 
@@ -143,17 +231,51 @@ VII.- No haber sido sentenciado por delito.
 
 ### CAPÍTULO IV. DEL PROCEDIMIENTO DE PREMIACIÓN
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2010)</small>
+
 ###### ARTÍCULO 10.
 
-El Comité hará la convocatoria para la presentación de las propuestas de candidatos, estableciendo en ésta, la fecha límite, los lugares de recepción, y horario de entrega, así como el lugar, fecha y hora de la ceremonia de premiación.
+El Comité hará la convocatoria para la presentación de las propuestas de candidatos, estableciendo en ésta, áreas a calificar, período para la convocatoria, indicando fecha de inicio y fecha límite para registro; los lugares de recepción y horario de entrega, así como el lugar, fecha y hora de la ceremonia de premiación.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
+
+ARTÍCULO 10 BIS.- En el procedimiento de premiación deberá observarse lo siguiente:
+
+I. Las propuestas de candidatos podrán ser presentados por individuos, Instituciones o Consejos Ciudadanos, debiendo entregarse por parte de éstos en sobre cerrado.
+
+II. Las propuestas deberán ser formuladas por escrito mediante el cual se precisen las acciones por las que se considera al ciudadano como merecedor de la presea, así como su biografía, y de ser posible exhibirán los documentos que acrediten el merecimiento.
+
+III. El Presidente del Comité, recibirá de parte del Director de Participación Ciudadana, las propuestas de los candidatos y a su vez las distribuirá a los demás integrantes del Comité para su análisis y evaluación.
+
+IV. Los integrantes del Comité analizarán y evaluarán cada una de las propuestas que le fueron entregadas, considerando los indicadores establecidos y emitiendo una calificación general para cada propuesta.
+
+V. Una vez realizado lo anterior, el Secretario del Comité concentrará cada una de las propuestas ya analizadas y previamente evaluadas, con el objetivo de separar aquellas que hayan obtenido las mayores calificaciones y mejores argumentos para ser consideradas para la elección final y turnarlas al Presidente.
+
+VI. Una vez concluído dicho proceso, el Presidente del Comité de Premiación, expondrá a los integrantes del mismo, cada una de las propuestas seleccionadas como finalistas y las somete a su votación para elegir a los ganadores.
+
+VII. En caso de duda en la calificación de alguna propuesta, el Presidente del Comité la expondrá ante todos los integrantes del mismo para que esta sea discutida, aclarada y definida.
+
+VIII. En caso de empate entre varias propuestas, el Presidente del Comité tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
+
+ARTÍCULO 10 BIS 1.- Concluído con el procedimiento de premiación por parte del Comité, el Presidente del mismo, solicitará al Director de Participación Ciudadana, la elaboración del escrito a través del cual se le informa al Presidente Municipal de la decisión del Comité.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
+
+ARTÍCULO 10 BIS 2.- Una vez que el escrito que contenga resultado del procedimiento de premiación sea turnado al Presidente Municipal, éste informará a los integrantes del Comité y a los ganadores del día y hora en que se llevará a cabo la sesión solemne para la entrega de la presea.
 
 ###### ARTÍCULO 11.
 
 Corresponde al Comité el control y registro de las candidaturas presentadas y la integración, estudio, análisis y resolución de las propuestas.
 
-El Comité podrá entregar una Medalla Post-Mortem a un ciudadano que se haya distinguido en alguna de las áreas descritas en el artículo 7, siempre y cuando haya fallecido en el transcurso del año anterior a su reconocimiento.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2010)</small>
 
-El Comité podrá declarar desiertas cualquiera de los campos o áreas participantes.
+El Comité tendrá la facultad de otorgar las Medallas Post-Mortem que sean necesarias a ciudadanos que se hayan distinguido en alguna de las áreas descritas en el artículo 7 del presente reglamento.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2010)</small>
+
+El Comité podrá declarar desiertas cualquiera de los campos o áreas participantes, y consecuentemente disminuir el número de medallas a otorgar, así como también podrá considerar otro campo o especialidad no contemplada dentro de las áreas descritas en el artículo 7 del presente reglamento.
 
 ###### ARTÍCULO 12.
 
@@ -163,15 +285,59 @@ Mediante escrito signado por los miembros del Comité y dirigido al Presidente M
 
 La ceremonia de premiación se realizará en Sesión Solemne del Republicano Ayuntamiento, en presencia del Comité.
 
-El Presidente Municipal hará entrega de la Medalla al Mérito Ciudadano, así como el diploma correspondiente, a las personas galardonadas.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2010)</small>
+
+El Presidente Municipal hará entrega de la Medalla al Mérito Ciudadano a los galardonados que se hayan distinguido en cualquiera de las áreas comprendidas en la convocatoria.
 
 La Medalla al Mérito Ciudadano será entregada a las personas reconocidas o a través de un representante debidamente acreditado.
 
+(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE JULIO DE 2010))
+
+### CAPÍTULO V. DEL RECURSO DE RECONSIDERACIÓN
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
+
+###### ARTÍCULO 14.
+
+Contra resoluciones que emita el Comité procederá el recurso de reconsideración.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
+
+###### ARTÍCULO 15.
+
+Corresponderá al Comité conocer y resolver los (sic) relativo al Recurso.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
+
+###### ARTÍCULO 16.
+
+El recurso se interpondrá por escrito ante el Comité, dentro del término de 5-cinco días hábiles a partir de la fecha de notificación del acto que la genera o de la fecha en que se tuvo conocimiento del mismo.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
+
+###### ARTÍCULO 17.
+
+Interpuesto en tiempo y forma el Recurso, por quien se considere con derecho a hacerlo y acreditando su personalidad, se dictará Acuerdo de Radicación, comunicándolo al recurrente. Se fijará un término no menor de 5-cinco ni mayor de 15-quince días hábiles, para que el recurrente ofrezca y se desahoguen las pruebas conducentes y para que formule alegatos. Transcurrido el término señalado, se dictará la resolución que corresponda.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE JULIO DE 2010)</small>
+
+### CAPÍTULO VI. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2010)</small>
+
+###### Artículo 18.
+
+En la medida que se modifiquen las condiciones sociales y económicas del Municipio, en virtud de su crecimiento demográfico, cambio social, modificación de sus actividades productivas y demás aspectos de la vida comunitaria, el presente reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad en forma directa o a través de organizaciones sociales representativas.
+
 T R A N S I T O R I O S
 
-PRIMERO: El presente Reglamento entrará en vigor al día siguiente al de su publicación en el periódico oficial del Estado.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2010)</small>
 
-SEGUNDO: Se faculta a la Comisión de Participación Ciudadana para que en un termino de 15 días naturales elabore las bases y se instruye a la Secretaría de Vinculación Ciudadana para que en un termino de 30 días naturales lleve a cabo el proceso de concurso del diseño de la Medalla, el cual deberá hacerse entre ciudadanos residentes del Municipio de San Pedro Garza García Nuevo León, debiendo informar del resultado final al Republicano Ayuntamiento.
+PRIMERO: Las presentes Reformas por Modificación, Adición y Derogación entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer posteriormente su difusión en la Gaceta Municipal.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2010)</small>
+
+SEGUNDO: Se faculta a la Comisión de Participación Ciudadana para que en un término de 15 días naturales elabore las propuestas de las bases de la convocatoria y se presente al Comité de Premiación designado para su estudio, análisis y aprobación del mismo.
 
 TERCERO: Respecto a la premiación, el Comité de premiación será el encargado de resolver todos los asuntos no previstos en el presente Reglamento.
 
@@ -192,3 +358,13 @@ PRESIDENTE MUNICIPAL
 LIC. MA. EMILDA ORTIZ CABALLERO
 
 SECRETARIA DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE JULIO DE 2010.
+
+PRIMERO. Se aprueba la REFORMA POR MODIFICACIÓN ADICIÓN Y DEROGACIÓN AL REGLAMENTO QUE CREA LA MEDALLA AL MÉRITO CIUDADANO "MÓNICA RODRÍGUEZ" DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, en la forma y términos anteriormente señalados.
+
+SEGUNDO. Mándese publicar el presente acuerdo en el Periódico Oficial del Estado. Hágase posteriormente su difusión a través de la Gaceta Municipal.
+
+TERCERO. Gírense las instrucciones al C. Ing. Mauricio Fernández Garza, Presidente Municipal y al C. Lic. Fernando Canales Stelzer Secretario del Republicano Ayuntamiento para el exacto cumplimiento del presente acuerdo.
