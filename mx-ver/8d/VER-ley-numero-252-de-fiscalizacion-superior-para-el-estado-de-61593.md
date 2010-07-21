@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-252-de-fiscalizacion-superior-para-el-estado-de-6159
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-06"
-last_updated: "2008-06-06"
+last_updated: "2010-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 252 DE FISCALIZACION SUPERIOR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2010.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 6 de junio de 2008.
 
@@ -111,7 +111,11 @@ Artículo 4
 
 Artículo 5
 
-1. Sin perjuicio del principio de posterioridad, en las situaciones derivadas de denuncias por posibles irregularidades o ilícitos en la Gestión Financiera de los Entes Fiscalizables o que pudieran ser constitutivas de delitos contra el servicio público, el Órgano podrá requerir a los Entes Fiscalizables que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y, en un plazo no mayor a 75 días hábiles, le rindan un informe. Si estos requerimientos no fueren atendidos se impondrán las sanciones previstas en esta Ley. Al efecto, se concede acción popular, la cual se ejercitará ante el Ente Fiscalizador, según el ámbito de competencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
+
+1. Sin perjuicio del principio de posterioridad, en las situaciones derivadas de denuncias por posibles irregularidades o ilícitos en la Gestión Financiera de los Entes Fiscalizables o que pudieran ser constitutivas de delitos contra el servicio público, el Órgano podrá requerir a los Entes Fiscalizables que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y, en un plazo no mayor a 45 días hábiles, le rindan un informe. Si estos requerimientos no fueren atendidos se impondrán las sanciones previstas en esta Ley. Al efecto, se concede acción popular, la cual se ejercitará ante el Ente Fiscalizador, según el ámbito de competencia.
 
 2. Al efecto, el Órgano rendirá un informe específico al Congreso y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
 
@@ -229,25 +233,65 @@ Artículo 21
 
 Artículo 22
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
+
 1. Las Cuentas Públicas contendrán:
 
-I. Balance General o Estado de Situación Financiera.
+I. Información contable, con la desagregación siguiente:
 
-II. Estado de Ingresos y Egresos.
+a) Balance General o Estado de Situación Financiera;
 
-III. Estado de Flujo de Efectivo.
+b) Estado de Variación en la Hacienda Pública;
 
-IV. Estado de Variaciones en el Patrimonio.
+c) Estado de Flujo de Efectivo;
 
-V. Notas a los Estados Financieros.
+d) Informes sobre pasivos contingentes;
 
-VI. Estado del Ejercicio del Presupuesto.
+e) Notas a los estados financieros;
 
-VII. Estados Programáticos.
+f) Estado analítico del activo;
 
-VIII. Estado de Deuda Pública.
+g) Estado analítico de la deuda, del cual se derivarán las siguientes clasificaciones:
 
-IX. Los estados analíticos e información general que permita el análisis de resultados, que incluyan los datos económicos.
+i. Corto y largo plazo;
+
+ii. Fuentes de financiamiento;
+
+iii. Endeudamiento neto, financiamiento menos amortización, y
+
+iv. Intereses de la deuda.
+
+II. Información Presupuestaria, con la desagregación siguiente:
+
+a) Estado analítico de ingresos, del que se derivará la presentación en clasificación económica por fuente de financiamiento y concepto;
+
+b) Estado analítico del ejercicio del presupuesto de egresos del que se derivarán las siguientes clasificaciones:
+
+i. Administrativa;
+
+ii. Económica y por objeto del gasto; y
+
+iii. Funcional-programática
+
+c) Endeudamiento neto, financiamiento menos amortización;
+
+d) Intereses de la deuda;
+
+e) Un flujo de fondos que resuma todas las operaciones y los indicadores de la postura fiscal.
+
+III. Información programática, con la desagregación siguiente:
+
+a) Gasto por categoría programática;
+
+b) Programas y proyectos de inversión;
+
+c) Indicadores de resultados;
+
+d) Informes sobre avances físico-financieros de las obras y acciones realizadas; y
+
+IV. La información complementaria para generar las cuentas nacionales y atender otros requerimientos provenientes de organismos internacionales de los que México es miembro.
 
 2. Las Cuentas Públicas que se rindan al Congreso deberán consolidar la información presentada mensual o trimestralmente por los Entes Fiscalizables, según corresponda.
 
@@ -263,15 +307,29 @@ Artículo 24
 
 1. Los Entes Fiscalizables, con excepción de los Ayuntamientos y las entidades paramunicipales, a través de sus respectivas unidades administrativas responsables del ejercicio presupuestal, estarán obligados a presentar al Congreso informes trimestrales sobre su Gestión Financiera en los términos señalados por ésta y demás leyes aplicables. El Congreso, por conducto de la Comisión, remitirá al Órgano estos informes de manera escrita y, cuando sea el caso, de manera electrónica, dentro de los diez días siguientes al de su recepción.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
+
 Artículo 25
 
-1. Los Ayuntamientos presentarán al Congreso los estados financieros mensuales que señala la Ley Orgánica del Municipio Libre, e igual obligación tendrán las Entidades Paramunicipales. La Comisión, con apoyo de la Secretaría de Fiscalización del Poder Legislativo, remitirá al Órgano copia de los estados financieros mensuales a que se refiere este párrafo, preferentemente de manera electrónica, dentro de los diez días siguientes al de su recepción.
+1. Los Ayuntamientos presentarán al Congreso los estados financieros mensuales que señala la Ley Orgánica del Municipio Libre; así como los estados de obra pública mensuales que contengan la información de los expedientes técnicos sobre el inicio, avance o conclusión de obra, según sea el caso, de acuerdo a lo que en esta materia señalen las Reglas Técnicas de Auditoría Pública para el Procedimiento de Fiscalización Superior en el Estado. Igual obligación tendrán las Entidades Paramunicipales.
+
+2. Los Ayuntamientos y las Entidades Paramunicipales presentarán, a la Secretaría de Fiscalización del Congreso y al Órgano, los estados financieros y los estados de obra pública a que se refiere el párrafo anterior, a través de medios electrónicos y de conformidad con las reglas de carácter general que emita el Órgano.
+
+3. Las reglas generales que emita el Órgano deberán incluir disposiciones de orden técnico y económico para posibilitar el financiamiento, adquisición, capacitación y asesoría para la instrumentación del sistema informático o electrónico, que garanticen la seguridad, confiabilidad, confidencialidad, reserva y resguardo de la información contenida en los estados financieros y de obra pública, de conformidad con lo dispuesto por esta ley y demás disposiciones aplicables. Al efecto, el sistema informático deberá generar el acuse de recibo electrónico que permita probar la fecha y hora de recepción de los referidos estados financieros y de obra pública.
+
+4. Los estados financieros y los estados de obra pública del mes que corresponda deberán remitirse de manera electrónica a más tardar el día 25 del mes inmediato posterior. Sólo por causa debidamente justificada, dichos estados podrán presentarse de manera impresa, pero siempre dentro del plazo antes señalado.
 
 Artículo 26
 
 1. El Congreso sancionará el incumplimiento de la presentación de Cuentas Públicas, por conducto de su unidad o área administrativa responsable de los servicios jurídicos, con la imposición, al servidor público responsable, de una multa de un mil a tres mil días de salario mínimo general vigente en la capital del Estado.
 
-2. Asimismo, el Congreso sancionará el incumplimiento de la presentación de los informes trimestrales de gestión financiera o estados financieros mensuales previstos en este capítulo, por conducto de su unidad o área administrativa responsable de los servicios jurídicos, con la imposición, al servidor público responsable, de una multa de seiscientos a un mil días de salario mínimo general vigente en la capital del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
+
+2. Asimismo, el Congreso sancionará el incumplimiento de la presentación de los informes trimestrales de gestión financiera, o de los estados financieros y estados de obra pública mensuales previstos en este capítulo, según corresponda, por conducto de su unidad o área administrativa responsable de los servicios jurídicos, con la imposición, al servidor público responsable, de una multa de seiscientos a un mil días de salario mínimo general vigente en la capital del Estado.
 
 Artículo 27
 
@@ -1088,3 +1146,15 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 21 DE JULIO DE 2010.
+
+Primero. Las disposiciones contenidas en el Artículo Primero del presente Decreto iniciarán su vigencia a partir del día primero de enero de dos mil once, y tendrán carácter obligatorio para todos los ayuntamientos del Estado, incluidos los de Alvarado, Boca del Río, Coatepec, Coatzacoalcos, Córdoba, Cosoleacaque, Emiliano Zapata, Medellín, Minatitlán, Orizaba, Tierra Blanca, Veracruz y Xalapa, cuyas autoridades deberán ajustarse a lo aquí dispuesto, a pesar de las disposiciones en contrario que pueda haber en sus propios Códigos Hacendarios Municipales.
+
+Segundo. Las disposiciones contenidas en el Artículo Segundo del presente Decreto iniciarán su vigencia a partir del día primero de enero del año dos mil once. Después de su entrada en vigor, el Órgano de Fiscalización Superior del Estado, a la brevedad posible, expedirá las reglas generales que regulen las disposiciones relativas al sistema informático o electrónico de presentación de estados financieros y de obra pública mensuales. Una vez emitidas estas reglas generales, el Órgano de Fiscalización Superior del Estado procederá en consecuencia para que el sistema informático o electrónico a que se refiere el presente Decreto pueda instrumentarse antes del treinta y uno de diciembre del año dos mil once.
+
+Tercero. Las disposiciones contenidas en el Artículo Tercero del presente Decreto iniciarán su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
