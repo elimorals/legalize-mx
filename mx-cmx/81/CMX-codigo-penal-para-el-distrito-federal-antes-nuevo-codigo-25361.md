@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2010-07-19"
+last_updated: "2010-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE JULIO DE 2010.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -858,9 +858,13 @@ II. El momento en que cesó la consumación, si el delito es permanente;
 
 III. El día en que se realizó la última conducta, si el delito es continuado;
 
-IV. El momento en que se realizó el último acto de ejecución o se omitió la conducta debida, si se trata de tentativa; y
+IV. El momento en que se realizó el último acto de ejecución o se omitió la conducta debida, si se trata de tentativa; y (sic)
 
-V. El día en que el Ministerio Público de la adscripción haya recibido el oficio correspondiente, en los casos en que se hubiere librado orden de reaprehensión o presentación, respecto del procesado que se haya sustraído de la acción de la justicia.
+V. El día en que el Ministerio Público de la adscripción haya recibido el oficio correspondiente, en los casos en que se hubiere librado orden de reaprehensión o presentación, respecto del procesado que se haya sustraído de la acción de la justicia;
+
+> <small>(ADICIONADA, G.O. 22 DE JULIO DE 2010)</small>
+
+VI. En los delitos tipificados en el Libro Segundo, Títulos Quinto y Sexto de este Código, cuando la víctima fuere menor de edad, el plazo de prescripción de la acción penal empezará a correr para el menor de edad que haya sido víctima, al momento que cumpla los dieciocho años.
 
 ARTÍCULO 109 (Plazos para la prescripción de la potestad para ejecutar las penas y medidas de seguridad). Los plazos para la prescripción de la potestad para ejecutar las penas y las medidas de seguridad, serán continuos y correrán desde el día siguiente a aquél en que el sentenciado se sustraiga de la acción de la justicia, si las penas o las medidas de seguridad fueren privativas o restrictivas de la libertad. En caso contrario, desde la fecha en que cause ejecutoria la sentencia.
 
@@ -4253,3 +4257,9 @@ DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 54, 55 Y 250 DEL CODIGO PENAL PARA 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federa (sic).
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 22 DE JULIO DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
