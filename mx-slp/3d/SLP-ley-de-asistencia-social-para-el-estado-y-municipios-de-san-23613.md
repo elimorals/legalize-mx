@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2009-04-28"
+last_updated: "2010-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -881,7 +881,15 @@ Las demás que le asigne esta Ley, su Reglamento y demás disposiciones legales 
 
 Para el cumplimiento de sus obligaciones en materia de asistencia social, los municipios del Estado deberán contar con un Sistema Municipal para el Desarrollo Integral de la Familia, que podrá instituirse y operar como:
 
-I. Un organismo descentralizado con personalidad jurídica, y patrimonio propios, con especialidad técnica e independiente de la estructura administrativa del ayuntamiento;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2010)</small>
+
+I. Un organismo descentralizado con personalidad jurídica, y patrimonio propios, con especialidad técnica e independiente de la estructura administrativa del ayuntamiento.
+
+Los DIF municipales descentralizados contarán con un órgano de control denominado Contralor Interno; que tendrá las obligaciones y facultades que en forma análoga le correspondan al contralor municipal, así como las establecidas en la Ley de la Auditoría Superior de Estado, para las unidades u órganos de control interno; la designación estará a cargo de la Junta de Gobierno del DIF municipal que se trate; la persona designada deberá contar preferentemente con título profesional de contador público o carrera afín, y no haber sido condenado por sentencia ejecutoriada por la comisión de delitos patrimoniales que hayan ameritado pena privativa de libertad.
+
+La Junta de Gobierno del DIF municipal en su primera sesión de trabajo designará al contralor interno; el presidente del organismo presentará a dos personas candidatas para ocupar el cargo, propuesta que será sometida a la aprobación de sus integrantes y, en caso de no acordarse procedente, en la misma sesión por parte del cuerpo colegiado, ésta expedirá inmediatamente el nombramiento en favor de cualquiera de los dos candidatos que hubiere propuesto;
 
 II. Una unidad administrativa dependiente de la administración municipal a la que el ayuntamiento conferirá sus responsabilidades en materia de asistencia social, o
 
@@ -1298,3 +1306,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. El Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, deberá asignar al Sistema para el Desarrollo Integral de la Familia, los recursos económicos necesarios para el pago de los honorarios de los delegados y demás recursos que requieran para su operación.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JULIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor a los noventa días, a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los sistemas municipales para el Desarrollo Integral de la Familia, tendrán noventa días a partir de la publicación del presente Decreto, para implementar sus contralorías internas.
+
+TERCERO. Se derogan todas las disposiciones que contravengan este Decreto.
