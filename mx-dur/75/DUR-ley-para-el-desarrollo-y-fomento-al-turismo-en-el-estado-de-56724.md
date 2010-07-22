@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-el-desarrollo-y-fomento-al-turismo-en-el-estado-de-567
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-22"
-last_updated: "2007-07-22"
+last_updated: "2010-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY PARA EL DESARROLLO Y FOMENTO AL TURISMO EN EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE DURANGO, PUBLICADA EN EL PERIODICO OFICIAL EL 22 DE JULIO DE 2010.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de julio de 2007.
 
@@ -642,3 +644,19 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE JULIO DE 2010.
+
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se deroga la Ley para el Desarrollo y el Fomento del Turismo en el Estado de Durango, aprobada mediante Decreto No. 382, expedido por la LXIII Legislatura, publicada en el periódico oficial No. 7, de fecha 22 de Julio de 2007.
+
+TERCERO. El Instituto de Cultura del Estado de Durango, en el término de 18 meses, a partir de la publicación de la presente ley, deberá realizar las gestiones y convenios necesarios, respetando los derechos de autor correspondientes, para la recopilación de copias de las producciones cinematográficas, televisivas o audiovisuales realizadas total o parcialmente en el Estado de Durango, material que formará parte del acervo de la Filmoteca Estatal "John Wayne".
+
+CUARTO. El Instituto de Cultura del Estado, en un plazo de 180 días deberá emitir el Reglamento correspondiente de la Filmoteca Estatal "John Wayne", a partir de la publicación de la presente Ley.
+
+QUINTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+SEXTO.- En un plazo de 180 días después de su publicación, el Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley.
