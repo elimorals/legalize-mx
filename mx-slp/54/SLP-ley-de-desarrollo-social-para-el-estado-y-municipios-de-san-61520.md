@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2008-04-17"
+last_updated: "2010-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -71,9 +71,11 @@ XI. Impulsar el desarrollo de la economía social, rural y urbana, como premisa 
 
 XII. Impulsar el desarrollo social desde las localidades, colonias y barrios, como unidades básicas de cambio, donde la familia sea el eje y principio de la política social para el mejoramiento corresponsable de su entorno comunitario.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 2°.
 
-La aplicación de la presente Ley corresponde a las dependencias, organismos y entidades del Ejecutivo del Estado y de los municipios, de conformidad con sus respectivos ámbitos de competencia.
+La aplicación de la presente Ley corresponde a las dependencias, organismos y entidades del Ejecutivo del Estado, y de los municipios, de conformidad con sus respectivos ámbitos de competencia; así como al Poder Legislativo del Estado, de acuerdo a sus atribuciones que le competen.
 
 ###### ARTICULO 3°.
 
@@ -131,7 +133,9 @@ X. Ley de Planeación: la Ley de Planeación del Estado y Municipios de San Luis
 
 XI. Marginación: la exclusión de los grupos sociales del proceso de desarrollo y del disfrute de sus beneficios, que expone a las personas, familias y localidades, a privaciones, riesgos y vulnerabilidad social;
 
-XII. Padrón: la relación oficial de beneficiarios que incluye a las personas atendidas por los programas de desarrollo social, de los diversos órdenes de gobierno;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2010)</small>
+
+XII. Padrón: la relación oficial de los beneficiarios que incluye a las personas atendidas por los programas de desarrollo social de los diversos órdenes de gobierno, cuyo perfil socioeconómico se establece en la normatividad correspondiente;
 
 XIII. Personas en situación de vulnerabilidad: los núcleos de población que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación y, por lo tanto, requieren de la atención de los sectores público, privado y social para disminuir sus desventajas;
 
@@ -465,11 +469,19 @@ Asimismo, de manera anual el Gobierno del Estado deberá hacer públicos los ava
 
 Los municipios deberán formular y aprobar como parte de su Plan Municipal de Desarrollo, un Programa Municipal de Desarrollo Social, en congruencia con los lineamientos de política social del Programa Estatal y que incluya, en lo que les sea aplicable, lo señalado en el artículo 27 de la presente Ley, y considerando la normatividad que para el efecto señale la Ley de Planeación.
 
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2010)</small>
+
+ARTICULO 29 BIS. La publicidad y la información relativa a los programas de desarrollo social deberán incluir la siguiente leyenda: "Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos al desarrollo social".
+
 ### CAPITULO II. Del Desarrollo Local
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 30.
 
-El Sistema Estatal revisará y definirá anualmente, las localidades sujetas a atención prioritaria por sus condiciones de rezago social. La Secretaría Ejecutiva proporcionará la información que permita al Sistema Estatal, definir las localidades, teniendo como referente los resultados de medición de pobreza, marginación y desarrollo humano que publiquen el CONAPO, el CONEVAL, y el Programa de Naciones Unidas para el Desarrollo, así como la medición de los indicadores respectivos que realice la Secretaría Ejecutiva.
+El Sistema Estatal revisará y definirá anualmente, las localidades sujetas a atención prioritaria por sus condiciones de rezago social, e informará al Poder Legislativo sobre su modificación para los efectos de asignaciones del Presupuesto de Egresos del Estado.
+
+La Secretaría Ejecutiva proporcionará la información que permita al Sistema Estatal definir las localidades, teniendo como referente los resultados de medición de pobreza, marginación y desarrollo humano que publiquen el CONAPO, el CONEVAL, y el programa de Naciones Unidas para el Desarrollo, así como la medición de los indicadores respectivos que realice la Secretaría Ejecutiva.
 
 ###### ARTICULO 31.
 
@@ -517,11 +529,13 @@ En ambos casos, la evaluación incluirá la opinión de los beneficiarios y debe
 
 La Secretaría Ejecutiva dará seguimiento a los estudios relativos a la marginación, rezago social, pobreza y desarrollo humano, realizados por el CONAPO, el CONEVAL, y el Programa para las Naciones Unidas para el Desarrollo, e informará, respectivamente, al Sistema Estatal y a cada ayuntamiento, sobre los resultados y el lugar que ocupa el Estado y su municipio en el contexto nacional.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 38.
 
-Las evaluaciones de manera invariable incluirán indicadores para medir la cobertura, calidad e impacto de l os programas sociales.
+Las evaluaciones de manera invariable incluirán indicadores de resultados, gestión y servicios para medir su cobertura, calidad e impacto de los programas sociales.
 
-Las dependencias u organismos estatales o municipales ejecutores de los programas a evaluar, proporcionarán a los evaluadores información veraz y otorgarán las facilidades necesarias, para la realización de los trabajos respectivos.
+Las dependencias u organismos estatales o municipales ejecutores de los programas a evaluar, proporcionarán a los evaluadores información veraz, y otorgarán las facilidades necesarias para la realización de los trabajos respectivos.
 
 ###### ARTICULO 39.
 
@@ -650,3 +664,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE JULIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
