@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-del-distrito-federal-16351"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-08"
-last_updated: "2008-10-02"
+last_updated: "2010-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16351&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-05"
 
 LEY DE EDUCACION DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE JULIO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de junio de 2000.
 
@@ -268,7 +268,9 @@ XXIII. Evaluar permanentemente los métodos y técnicas de formación y capacita
 
 XXIV. lmpulsar la educación tecnológica, así como la investigación científica y tecnológica, de manera concurrente con la federación.
 
-XXV. Fomentar y difundir las actividades artísticas, culturales y físico-deportivas, en concurrencia con la federación.
+> <small>(REFORMADA, G.O. 22 DE JULIO DE 2010)</small>
+
+XXV. Fomentar el cooperativismo para garantizar la aplicación estricta de sus principios y practicarlo en las cooperativas escolares, vigilar la contratación de servicios y la compra de mercancías que se expendan en los planteles educativos, procurando que los alimentos tengan valor nutricional y eviten la obesidad infantil, de acuerdo con las normas correspondientes.
 
 XXVI. Promover el establecimiento y operación de casas de cultura, museos, hemerotecas, videotecas y otros servicios análogos.
 
@@ -1629,3 +1631,9 @@ TERCERO.- El Jefe de Gobierno del Distrito Federal deberá asignar anualmente la
 CUARTO.- El Jefe de Gobierno del Distrito Federal en conjunto con las autoridades educativas del Distrito Federal, incluirán en los Programas Educativos de los niveles de Educación Media Superior y Superior, como materia con valor curricular, las actividades relacionadas con la Educación Física y Deporte.
 
 QUINTO.- De acuerdo al presupuesto anual todos los recursos destinados a la práctica de actividades relacionadas con la Educación Física y el Deporte deberán ir etiquetadas para tal fin.
+
+G.O. 22 DE JULIO DE 2010.
+
+Primero. Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+Segundo. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
