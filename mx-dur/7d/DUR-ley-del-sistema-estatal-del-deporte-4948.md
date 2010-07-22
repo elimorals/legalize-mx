@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-sistema-estatal-del-deporte-4948"
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-03"
-last_updated: "1992-09-03"
+last_updated: "2010-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DEL SISTEMA ESTATAL DEL DEPORTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE FECHA 22 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 3 de septiembre de 1992.
 
@@ -458,3 +460,25 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los treinta días del mes de Junio de mil novecientos noventa y dos.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JOSE RAMIREZ GAMERO.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. SALVADOR MENDIVIL HERNANDEZ. Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE JULIO DE 2010.
+
+Artículo Primero. Publíquese el texto de la presente Ley, en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Tercero. Una vez iniciada la vigencia de la presente Ley, los ordenamientos legales que remitan a alguna disposición de la "Ley del Sistema Estatal del Deporte" expedida mediante Decreto No. 409, por la 58 Legislatura, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 19, de fecha 03 de septiembre de 1992, se estarán a las disposiciones del presente ordenamiento.
+
+Artículo Cuarto. Una vez iniciada la vigencia de la presente, queda abrogada la "Ley del Sistema Estatal del Deporte" expedida mediante Decreto No. 409, por la 58 Legislatura, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 19, de fecha 03 de septiembre de 1992; sus reformas y demás leyes que se opongan al presente.
+
+Artículo Quinto. El Director del Instituto Estatal del Deporte, elaborará los anteproyectos de reglamentos que se requieren para la aplicación de la presente, a efecto de presentárselos al Gobernador del Estado, para que se expidan en un plazo que no exceda de los noventa días naturales contados a partir del día de inicio de su vigencia; en tanto, seguirá aplicándose la reglamentación vigente en todo lo que no se oponga a las disposiciones del presente ordenamiento.
+
+Artículo Sexto. Para efectos del cumplimiento de esta ley, se entenderá que el Instituto Estatal de Cultura Física y Deporte del Estado de Durango, asume las facultades y atribuciones conferidas del Instituto Estatal del Deporte, más las que le encomiende la presente.
+
+Artículo Séptimo. Una vez que las autoridades municipales hayan conformado sus Sistemas de acuerdo con el artículo 31 de la Ley General, se considerará que los mismos no forman parte del Sistema Estatal, y por ende se entenderá que los mismos se desincorporan del Sistema Estatal.
+
+Artículo Octavo. Los procedimientos y recursos administrativos relativos a la materia deportiva, iniciados con anterioridad a la expedición de la presente ley, se tramitarán y resolverán conforme a las disposiciones derogadas con la presente ley.
+
+Artículo Noveno. Se derogan todas las disposiciones legales que se opongan a la presente.
