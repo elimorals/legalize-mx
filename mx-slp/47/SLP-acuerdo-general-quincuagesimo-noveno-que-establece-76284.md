@@ -4,7 +4,7 @@ identifier: "SLP-acuerdo-general-quincuagesimo-noveno-que-establece-76284"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-09-24"
-last_updated: "2009-09-24"
+last_updated: "2010-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 ACUERDO GENERAL QUINCUAGESIMO NOVENO DEL PLENO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO, QUE ESTABLECE CRITERIOS PARA LA DEPURACION DEL ACERVO DOCUMENTAL DEL ARCHIVO JUDICIAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2010.
 
 Acuerdo publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de diciembre de 2009.
 
@@ -41,7 +41,9 @@ CUARTO.- Que el artículo 135 de la Ley Orgánica del Poder Judicial señala que
 
 QUINTO.- Que conforme al artículo 100 del Reglamento Interior del Consejo de la Judicatura del Poder Judicial del Estado, el Archivo Judicial tiene por objeto la custodia, preservación, restauración y registro de los expedientes jurisdiccionales y demás documentos que para ese efecto le remitan los órganos.
 
-SEXTO.- Que mediante Acuerdo del 09 de nueve de junio del año que transcurre este Pleno del Consejo autorizó el Reglamento del Archivo Judicial con el objetivo de mejorar su organización y funcionamiento.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
+
+SEXTO.- Que la aplicación y observancia del referido Acuerdo Quincuagésimo Noveno, no contempló la depuración de los Diarios Oficiales de la Federación que forman parte del acervo documental del Archivo Judicial que ya no se utilizan y que su consulta puede realizarse por medios electrónicos.
 
 SÉPTIMO.- Que el Archivo Judicial ha incrementado notablemente su acervo documental por lo cual requiere mejorar las políticas y crear mecanismos de guarda, conservación, selección y valoración de los documentos y expedientes que resguardan sus instalaciones.
 
@@ -72,6 +74,10 @@ VII. Periódicos oficiales con antigüedad mayor a un año.
 VIII. Edictos con antigüedad mayor a un año.
 
 IX. Copias fotostáticas de documentos cuyos originales se encuentran en expedientes concluidos con antigüedad mayor a un año.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2010)</small>
+
+X. Los Diarios Oficiales de la Federación, con una antigüedad mayor a 2 dos años.
 
 SEGUNDO. Para la depuración de la documentación que se señala en el artículo anterior, el Archivo Judicial deberá observar el procedimiento dispuesto en los Lineamientos para la Gestión de Archivos Administrativos y Resguardo de Información Pública del Estado de San Luis Potosí.
 
@@ -124,3 +130,11 @@ LIC. JUAN MIGUEL CHÁVEZ VÁZQUEZ.
 SECRETARIO EJECUTIVO DE PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA.
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE JULIO DE 2010.
+
+PRIMERO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Comité de Información resolverá cualquier cuestión que pudiera suscitarse en la materia.
