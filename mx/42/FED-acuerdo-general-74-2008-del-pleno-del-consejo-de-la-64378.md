@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-74-2008-del-pleno-del-consejo-de-la-64378"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-11-19"
-last_updated: "2008-11-19"
+last_updated: "2010-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64378&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-10-15"
 
 ACUERDO GENERAL 74/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE PONE A DISPOSICION DE LOS ORGANOS JURISDICCIONALES EL USO DE LA VIDEOCONFERENCIA COMO UN METODO ALTERNATIVO PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 2010.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2008.
 
@@ -47,7 +47,11 @@ Con base en las facultades de administración conferidas a este Consejo de la Ju
 
 ACUERDO
 
-PRIMERO. Se pone a disposición de los titulares de los órganos jurisdiccionales del país que lo requieran, la red privada virtual (VPN) con la que actualmente se cuenta, a efecto de que puedan utilizarla para el desahogo de diligencias judiciales por medio del método alternativo de comunicación denominado “videoconferencia”.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 11/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE JULIO DE 2010)</small>
+
+PRIMERO. Se pone a disposición de los titulares de los órganos jurisdiccionales del país que lo requieran, la red privada virtual (VPN) con la que actualmente se cuenta, a efecto de que puedan utilizarla para el desahogo de diligencias judiciales por medio del método de comunicación denominado “videoconferencia”.
+
+Deberá privilegiarse el uso de la videoconferencia, en todas aquellas diligencias en que sea posible hacerlo, sin ninguna limitación sobre la materia o la naturaleza de las diligencias a desahogar, siempre que el titular determine que se dan las condiciones para la utilización de este sistema.
 
 SEGUNDO. Por conducto del Pleno del Consejo de la Judicatura Federal, se ordena la expedición del protocolo que regule el uso del método de comunicación denominado “videoconferencia”, donde además se establezca y dé a conocer información sobre los objetivos, función y estructura.
 
@@ -688,3 +692,15 @@ http://www.ttrends.es/faqs.html
 http://www.rediris.es/mmedia/salas/tecno.html
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 74/2008, del Pleno del Consejo de la Judicatura Federal, que Pone a Disposición de los Organos Jurisdiccionales el Uso de la Videoconferencia como un Método Alternativo para el Desahogo de Diligencias Judiciales, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de quince de octubre de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Indalfer Infante Gonzales, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a once de noviembre de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE JULIO DE 2010.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+La instalación del sistema de videoconferencias se realizará a la mayor brevedad posible en los órganos jurisdiccionales en materia penal y a partir de dos mil once, atendiendo a las necesidades del servicio y los recursos presupuestales disponibles, en los órganos jurisdiccionales restantes.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 74/2008, del Pleno del Consejo de la Judicatura Federal, que Pone a Disposición de los Organos Jurisdiccionales el Uso de la Videoconferencia como un Método Alternativo para el Desahogo de Diligencias Judiciales.
