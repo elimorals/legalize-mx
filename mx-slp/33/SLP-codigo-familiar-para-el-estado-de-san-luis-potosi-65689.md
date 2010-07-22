@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2008-12-18"
+last_updated: "2010-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2010.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -45,9 +45,11 @@ CODIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSI
 
 ### Capítulo Unico
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 1°.
 
-Las normas del derecho familiar contenidas en el presente Código; son de orden público, e interés social y observancia general. Por lo tanto, son irrenunciables y no pueden ser objeto de convenio, salvo las excepciones señaladas en el mismo, y tendrán por objeto normar la institución de la familia y las relaciones entre sus integrantes.
+Las normas del derecho familiar contenidas en el presente Código, son de orden público, interés social y observancia general. Por lo tanto, son irrenunciables y no son materia de convenio, salvo las excepciones expresamente señaladas. Su objeto es regular las instituciones derivadas de la familia, y las relaciones entre sus integrantes.
 
 ###### ARTICULO 2°.
 
@@ -55,29 +57,39 @@ Las normas del derecho familiar se sustentan en los principios de equidad, solid
 
 Para lograr la integración familiar, los miembros de la familia tendrán los derechos y obligaciones que se señalan en este Código y otras disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 3°.
 
-El Estado promoverá la organización social de la familia mediante la institución del matrimonio y otras figuras jurídicas reguladas en este Código, reconociéndolas como instituciones de derecho familiar, cuya función es el desarrollo armónico de todos sus elementos, considerándose de interés público su estabilidad y permanencia, y tutelará el cumplimiento de los derechos y obligaciones de sus integrantes.
+El Estado promoverá la integración de la familia, a través del matrimonio y el concubinato, reconociéndolos como instituciones fundamentales del derecho familiar, mediante programas y acciones orientados a su estabilidad y permanencia, al desarrollo armónico de todos los integrantes de la familia, así como a la tutela del cumplimiento de sus derechos y obligaciones.
 
 ###### ARTICULO 4°.
 
 Las madres y los padres tienen la responsabilidad de proveer al desarrollo intelectual, ético y físico de sus hijas e hijos.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 5°.
 
-Las hijas e hijos tienen el deber de honrar y respetar a su madre y padre y demás ascendientes, estando obligados a cuidarlos en su ancianidad, estado de interdicción o enfermedad y proveer en todas sus necesidades.
+Las hijas e hijos tienen el deber de honrar y respetar la integridad de su padre, madre y demás ascendientes; de proveer en todas sus necesidades; de cuidarlos en su condición de personas adultas mayores, de enfermedad, o del estado de interdicción en el que se encuentren.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 6°.
 
-Cuando no se pueda decidir una controversia judicial en materia familiar, ni por el texto, ni por el sentido natural o espíritu de la ley, deberá decidirse según los principios generales del Derecho, tomando en consideración todas las circunstancias del caso.
+Cuando no le sea posible a la autoridad judicial que conozca de una controversia en materia familiar, resolver conforme al texto, por el sentido lógico o el espíritu de la ley, resolverá con base en los principios generales del derecho, considerando en su decisión, de manera integral, las circunstancias particulares del caso.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 7°.
 
-Las y los extranjeros integrantes de una familia, que se encuentren en el Estado de San Luis Potosí, quedan sujetos a las disposiciones de este Código.
+Las y los extranjeros que se encuentren temporal, o definitivamente en el territorio del Estado, están sujetos a las disposiciones de este Código, respecto a su condición y relaciones del orden familiar.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 8°.
 
-Las instituciones de asistencia social, públicas y privadas, dedicadas a la atención de las familias y que se encuentren debidamente certificadas por el Sistema Estatal para el Desarrollo Integral de la Familia, podrán llevar a cabo cursos de preparación matrimonial con la finalidad de ponderar la institución familiar.
+Las instituciones públicas de asistencia social, públicas y privadas dedicadas a la atención de las familias, que estén debidamente certificadas por el órgano rector de la asistencia social en el Estado, realizarán cursos de preparación matrimonial, de fortalecimiento de la unión conyugal, para fomentar los valores y actitudes que consoliden la estabilidad y armonía de la familia.
 
 ###### ARTICULO 9°.
 
@@ -87,29 +99,39 @@ En caso de conflicto de derechos que tenga relación con las o los menores de ed
 
 ### Capítulo Unico
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 10.
 
-La familia es la unión permanente de personas vinculadas por el matrimonio o el concubinato, y por parentesco de consanguinidad, afinidad y civil, basada en los principios y valores humanos para lograr el desarrollo integral de cada uno de sus miembros.
+La familia es la unión permanente de personas unidas por matrimonio o concubinato, y por el parentesco de consanguinidad, afinidad o civil, sustentada en principios y valores orientados al desarrollo pleno de cada uno de sus integrantes.
 
-La familia es la base de la sociedad y el ámbito natural y primario del ejercicio y desarrollo de los derechos fundamentales de las personas.
+La familia se constituye como la base de la sociedad, para ser el ámbito originario del desarrollo integral de las personas y del respeto de sus derechos fundamentales.
 
-Para la interpretación del presente Código cuando el mismo se refiera a la familia se entenderá que se refiere a los distintos tipos de familias conformadas en razón de los diversos vínculos a que se refiere el primer párrafo de este artículo.
+Para la interpretación del presente Código cuando el mismo se refiera a la familia, se entenderá que se refiere a las conformadas en razón de los vínculos a los que se refiere el primer párrafo de este artículo.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 11.
 
-Las y los miembros menores de la familia tienen derecho a su desarrollo integral bajo la custodia y cuidado de su madre y padre, a falta de ellos por las o los parientes consanguíneos, considerando las circunstancias del caso.
+Las y los menores de edad miembros de la familia, tienen el derecho esencial de vivir y desarrollarse bajo la custodia y cuidado de su madre y padre; en caso de separación o conflicto, a mantener la convivencia cotidiana con los dos; a falta de ambos padres, la custodia y cuidado serán a cargo de las o los parientes consanguíneos. Para lo anterior, la autoridad judicial competente tomará en consideración las circunstancias del caso.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 12.
 
-Las y los miembros de la familia están obligados a evitar toda conducta que genere violencia familiar, definida como el uso de la fuerza física o moral, o las omisiones que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica, sexual, o las tres, independientemente de que pueda producir o no lesiones, y exista una relación de parentesco, matrimonio o concubinato, y que tiene por efecto causar un daño.
+Las y los miembros de la familia están obligados a evitar toda conducta de violencia familiar que tenga por efecto causar un daño a otra persona. La violencia familiar se define como el uso de la fuerza física o moral, o las omisiones que ejerza un miembro de la familia en contra de otro integrante de la misa, que atente contra su integridad física, psíquica, sexual, o las tres, y que produzca o no lesiones.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 13.
 
-Toda persona tiene el deber de denunciar la violencia familiar y de manera particular, el maltrato dirigido a las y los menores, personas adultas mayores y personas con discapacidad, por parte de quien tenga la patria potestad, custodia o tutela, así como dar vista al Ministerio Público para los efectos a que haya lugar.
+La violencia familiar puede ser denunciada por cualquier persona, ante el Ministerio Público para los efectos a que haya lugar; de manera particular, cuando el maltrato se infrinja en contra de las o los menores; de las personas adultas mayores, o de personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 14.
 
-En la atención y resolución de conflictos familiares se procurará mantener la armonía de la familia, considerando preferentemente el interés superior de las y los menores, de las personas con discapacidad y de las personas adultas mayores.
+En la atención y resolución de los conflictos familiares, la autoridad administrativa o judicial procurará mantener y fortalecer la armonía de la familia, privilegiando siempre el interés superior del menor, de las personas adultas mayores o con discapacidad.
 
 ## TITULO TERCERO. DEL MATRIMONIO
 
@@ -3244,3 +3266,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE JULIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
