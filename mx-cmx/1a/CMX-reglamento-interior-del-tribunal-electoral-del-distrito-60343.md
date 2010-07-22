@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-60343"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-07"
-last_updated: "2009-04-28"
+last_updated: "2010-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60343&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2008-03-20"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE ABRIL DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 22 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, ASI COMO SUS REFORMAS PUBLICADAS EN LOS ESTRADOS DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL EL DOS Y EL NUEVE DE JUNIO DE DOS MIL DIEZ.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 7 de abril de 2008.
 
@@ -2085,3 +2087,13 @@ PRIMERO.- Las presentes reformas al Reglamento Interior del Tribunal Electoral d
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes reformas.
 
 TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
+
+G.O. 22 DE JULIO DE 2010.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en los estrados del Tribunal.
+
+SEGUNDO. Se abroga el Reglamento Interior del Tribunal Electoral del Distrito Federal publicado el siete abril de dos mil ocho en la Gaceta, el cual fue objeto de una nota aclaratoria y de reformas publicadas en ese mismo órgano de difusión, el dos de mayo de dos mil ocho y el veintiocho de abril de dos mil nueve, respectivamente, así como de reformas publicadas en los estrados del Tribunal Electoral del Distrito Federal el dos y el nueve de junio de dos mil diez.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
+
+CUARTO. Publíquese este Reglamento en la Gaceta, así como en los Estrados y en el sitio de Internet del Tribunal.
