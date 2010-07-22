@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-servicio-postal-mexicano-62622"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-09-04"
-last_updated: "2008-09-04"
+last_updated: "2010-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62622&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-08-22"
 
 ESTATUTO ORGANICO DEL SERVICIO POSTAL MEXICANO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 2010.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de septiembre de 2008.
 
@@ -67,7 +67,9 @@ I.- Prestar el servicio público de correos;
 
 II.- Programar, organizar, operar y controlar, ajustándose a los programas sectoriales respectivos, la prestación del servicio público de correos y diversos a su cargo, que se encuentren establecidos en las leyes, normatividad, convenios internacionales vigentes y demás ordenamientos jurídicos relativos y aplicables;
 
-III.- Realizar los estudios técnicos y económicos necesarios para proponer a la Junta Directiva para su aprobación, los montos de las tarifas aplicables a los servicios que proporciona;
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+III.- Realizar los estudios técnicos y económicos necesarios para proponer a la Secretaría de Hacienda y Crédito Público los montos de las tarifas aplicables a los servicios que proporciona y obtener la sanción correspondiente. Dicha propuesta se presentará ante la Secretaría de Hacienda y Crédito Público habiendo sido aprobada previamente por la Junta Directiva del Servicio Postal Mexicano;
 
 IV.- Aportar a la Secretaría de Comunicaciones y Transportes todos los datos y elementos a su disposición, para la formulación de los Decretos en que se ordenen las emisiones de estampillas filatélicas;
 
@@ -77,7 +79,17 @@ VI.- Proponer la normatividad que se requiera para el cumplimiento de las funcio
 
 VII.- Elaborar, expedir, dejar sin efectos y mantener actualizados los manuales del Servicio Postal Mexicano;
 
-VIII.- Administrar los recursos humanos, materiales, tecnológicos y financieros presupuestales que le sean asignados, así como los ingresos que obtenga por la comercialización de los servicios que preste y los demás bienes que integren su patrimonio; y
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+VIII.- Administrar los recursos humanos, materiales, tecnológicos y financieros presupuestales que le sean asignados, así como los ingresos que obtenga por la comercialización de los servicios que preste y los demás bienes que integren su patrimonio;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+VIII BIS.- Analizar, elaborar y ejecutar todas aquellas estrategias financieras con la finalidad de proveer alternativas de financiamiento al Servicio Postal Mexicano apegado a los proyectos y/o programas del mismo;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+VIII TER.- Prestar servicios financieros necesarios para el adecuado funcionamiento del Servicio Postal Mexicano de conformidad con la legislación aplicable y de acuerdo a los lineamientos que emita la Junta Directiva, y
 
 IX.- En general, realizar y celebrar los actos jurídicos necesarios para el desarrollo de sus funciones, de acuerdo con las disposiciones legales aplicables.
 
@@ -121,13 +133,17 @@ La Junta Directiva es el órgano superior de gobierno del Servicio Postal Mexica
 
 Está integrada por el Secretario de Comunicaciones y Transportes, quien la presidirá; por los Secretarios de Relaciones Exteriores, de Hacienda y Crédito Público y de Economía, así como por el Subsecretario de Comunicaciones de la Secretaría de Comunicaciones y Transportes.
 
-Por cada miembro propietario habrá un suplente quien será designado por el titular y contará con las mismas facultades que los propietarios, en caso de ausencia de éstos. El suplente del Subsecretario de Comunicaciones será designado por el Secretario de Comunicaciones y Transportes.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2010)</small>
+
+Por cada miembro propietario habrá un suplente quien será designado por el Titular y contará con las mismas facultades que los propietarios, en caso de ausencia de éstos. El nivel jerárquico de los servidores públicos que integren la Junta Directiva deberá corresponder, cuando menos, al de Director General de la Administración Pública Centralizada o su equivalente en el caso de los miembros propietarios y al de Director de Area o su equivalente tratándose de los suplentes. El suplente del Subsecretario de Comunicaciones será designado por el Secretario de Comunicaciones y Transportes.
 
 El cargo de miembro de la Junta Directiva será estrictamente personal y no podrá desempeñarse por medio de representantes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 2010)</small>
+
 ###### Artículo 6.
 
-La Junta Directiva se reunirá en sesiones ordinarias cuando menos cuatro veces al año y en sesiones extraordinarias, cuando lo convoque su presidente.
+La Junta Directiva se reunirá en sesiones ordinarias cuando menos cuatro veces al año, de acuerdo con un calendario que será aprobado en la primera sesión ordinaria del ejercicio, pudiendo además celebrar las reuniones extraordinarias que se requieran las cuales podrán convocarse hasta con un día hábil de anticipación, cuando lo convoque su presidente.
 
 En dichas sesiones participarán todos los miembros presentes con voz y voto y los acuerdos se tomarán por unanimidad o por mayoría, teniendo su presidente voto de calidad para los casos de empate.
 
@@ -147,9 +163,13 @@ I.- Establecer, en congruencia con el programa sectorial, las políticas general
 
 II.- Aprobar los programas y presupuestos del Servicio Postal Mexicano, así como sus modificaciones, en los términos de la legislación aplicable. En lo tocante a los presupuestos y a los programas financieros, con excepción de aquellos incluidos en el Presupuesto de Egresos Anual de la Federación, bastará con la aprobación de la Junta Directiva;
 
-III.- Fijar y ajustar los precios de los bienes y servicios que produzca o preste el Servicio Postal Mexicano, con excepción de los de aquellos que se determinen por acuerdo del Ejecutivo Federal;
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2010)</small>
 
-IV.- Aprobar la concertación de los préstamos que sean necesarios para el financiamiento del Servicio Postal Mexicano a través de créditos internos y externos, así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras. En el caso de créditos externos, los efectos de la aprobación quedarán condicionados a la autorización y registro de los mismos por la Secretaría de Hacienda y Crédito Público;
+III.- Acordar los precios y tarifas propuestos por el Servicio Postal Mexicano de los bienes y servicios que produzca o preste, con la finalidad de obtener la autorización correspondiente de la Secretaría de Hacienda y Crédito Público;
+
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+IV.- Aprobar la concertación de las fuentes de financiamiento que sean necesarias para el Servicio Postal Mexicano a través de créditos internos y externos, así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras. Dichos créditos para efectos de su aprobación, quedarán condicionados a la autorización y registro por parte la Secretaría de Hacienda y Crédito Público;
 
 V.- Expedir las normas y bases generales, con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de los activos fijos del Servicio Postal Mexicano que no correspondan a las operaciones propias de su objeto;
 
@@ -163,7 +183,9 @@ IX.- Proponer al Ejecutivo Federal por conducto de la Secretaría de Hacienda y 
 
 X.- Autorizar la creación de comités técnicos de apoyo para el desarrollo de las funciones encomendadas al Organismo, así como la disolución de los mismos al momento de concluir el objeto de su creación;
 
-XI.- Nombrar y remover a propuesta del Director General, a los servidores públicos del Servicio Postal Mexicano que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, aprobar la fijación de sus sueldos y prestaciones, y a los demás que señale su Estatuto y concederles licencias;
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+XI.- Nombrar y remover, a propuesta del Director General, a los servidores públicos del Servicio Postal Mexicano que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél; determinar los salarios y demás prestaciones para su posterior sanción por las autoridades correspondientes conforme a las asignaciones globales del presupuesto de gasto corriente y a las disposiciones legales aplicables; así como el otorgamiento de licencias;
 
 XII.- Nombrar y remover a propuesta de su Presidente, entre personas ajenas al Servicio Postal Mexicano, al Secretario quien podrá ser miembro o no de la Junta Directiva, así como designar o remover a propuesta del Director General de la entidad al Prosecretario, quien podrá ser o no miembro de la Junta Directiva o del Servicio Postal Mexicano;
 
@@ -215,13 +237,17 @@ I.- Administrar y representar legalmente al Servicio Postal Mexicano y llevar a 
 
 II.- Llevar a cabo los actos de administración y para pleitos y cobranzas, con todas las facultades que requieran cláusula especial conforme a la ley y sustituir y delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente;
 
-III.- Obligar al Servicio Postal Mexicano cambiariamente, emitir y negociar títulos de crédito y concertar las operaciones de crédito de conformidad con lo dispuesto por las leyes y reglamentos aplicables;
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+III.- Girar, aceptar, endosar, librar, suscribir, avalar, certificar y en cualquier forma emitir títulos de crédito en nombre y cuenta del Servicio Postal Mexicano, en los términos más amplios que establece el Artículo 9o. de la Ley General de Títulos y Operaciones de Crédito, incluyendo la facultad de otorgar fianzas. Se incluyen las facultades de aceptar títulos de crédito emitidos, girados o suscritos por terceros y de librar cheques, así como suscribir contratos con Instituciones de Crédito, Intermediarios del Mercado de Valores, Organizaciones Auxiliares de Crédito, Sociedades de Inversión e intermediarios financieros para disponer de o depositar fondos, títulos de crédito o títulos valor, de conformidad con lo dispuesto por las Leyes y Reglamentos aplicables y con la previa sanción de la Secretaría de Hacienda y Crédito Público;
 
 IV.- Revocar los poderes que otorgue, desistirse del juicio de amparo, presentar denuncias y querellas penales y otorgar el perdón correspondiente y, en general, ejercer todos los actos de representación y mandato que sean necesarios, especialmente los que para su ejercicio requieran cláusula especial en los términos del artículo 2587 del Código Civil Federal;
 
 V.- Formular los programas de Organización;
 
-VI.- Proponer a la Junta Directiva el nombramiento o la remoción de los servidores públicos que ocupen cargos con las dos jerarquías administrativas inferiores a la de él y la fijación de sueldos, prestaciones y demás compensaciones, conforme a las asignaciones globales del presupuesto de gasto corriente;
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+VI.- Proponer a la Junta Directiva el nombramiento o la remoción de los servidores públicos que ocupen cargos con las dos jerarquías administrativas inferiores a la de él, así como los salarios y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente y a las disposiciones legales aplicables, y el otorgamiento de licencias;
 
 VII.- Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
 
@@ -247,7 +273,13 @@ XVII.- Aprobar las estrategias y políticas comerciales del Servicio Postal Mexi
 
 XVIII.- Suscribir instrumentos jurídicos con instituciones o entidades del sector público o privado, así como, llevar a cabo alianzas estratégicas, con la finalidad de cumplir con los objetivos del Servicio Postal Mexicano;
 
-XIX.- Efectuar la readscripción de las unidades administrativas y del personal del Servicio Postal Mexicano;
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+XIX.- Autorizar la readscripción de las unidades administrativas;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+XIX BIS.- Autorizar la readscripción del personal del Servicio Postal Mexicano;
 
 XX.- Resolver los casos de duda que se presenten con motivo de la interpretación o aplicación del presente Estatuto, así como los casos no previstos en el mismo; y
 
@@ -257,7 +289,9 @@ XXI.- Las demás que le confieran otras disposiciones legales aplicables, así c
 
 Para la mejor organización del trabajo, el Director General podrá, sin perjuicio de su ejercicio directo, delegar sus atribuciones en servidores públicos subalternos, excepto aquellas que sean indelegables.
 
-Se consideran indelegables todas las facultades previstas en el artículo 11 fracción I del Decreto por el que se crea el Organismo Descentralizado denominado Servicio Postal Mexicano; así como las fracciones II en cuanto a facultades de dominio y VIII del artículo 22 de la Ley Federal de las Entidades Paraestatales y demás disposiciones legales y las referidas en el artículo 12 del presente ordenamiento, con excepción de las contenidas en las fracciones II, VIII, XII y XV.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2010)</small>
+
+Se consideran indelegables todas las facultades previstas en el artículo 11 fracción I del Decreto por el que se crea el Organismo Descentralizado Denominado Servicio Postal Mexicano; así como las fracciones II en cuanto a facultades de dominio y VIII del artículo 22 de la Ley Federal de las Entidades Paraestatales y demás disposiciones legales y las referidas en el artículo 12 del presente ordenamiento, con excepción de las contenidas en las fracciones II, VIII, XII, XV y XIX BIS.
 
 ###### Artículo 14.
 
@@ -317,9 +351,11 @@ Las Direcciones, para la mejor atención y desempeño de sus funciones contarán
 
 ### Capítulo V. De la Dirección Corporativa Comercial
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 2010)</small>
+
 ###### Artículo 17.
 
-La Dirección Corporativa Comercial estará adscrita al Director General y su titular tendrá las siguientes funciones:
+La Dirección Corporativa Comercial estará adscrita al Director General y su Titular tendrá las siguientes funciones:
 
 I.- Auxiliar al Director General en sus actividades dentro de la esfera de su competencia;
 
@@ -351,7 +387,9 @@ XIV.- Autorizar, tramitar y controlar las solicitudes de las franquicias postale
 
 XV.- Tramitar, autorizar y controlar marcas y portes pagados;
 
-XVI.- Autorizar la importación, fabricación, venta o uso de máquinas franqueadoras;
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+XVI.- Autorizar la importación, fabricación, venta o uso de máquinas franqueadoras, siendo responsabilidad de las Direcciones Metropolitana y Regionales autorizar su uso y supervisar su control en las instalaciones de los clientes u oficinas de correos en las Entidades Federativas que comprendan su jurisdicción;
 
 XVII.- Participar en los asuntos, negociaciones y eventos relacionados con el área a su cargo;
 
@@ -365,9 +403,11 @@ XXI.- Realizar aquellas funciones que sean afines a las señaladas en las fracci
 
 ### Capítulo VI. De la Dirección Corporativa de Recursos Humanos
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 2010)</small>
+
 ###### Artículo 18.
 
-La Dirección Corporativa de Recursos Humanos estará adscrita al Director General y su titular tendrá las siguientes funciones:
+La Dirección Corporativa de Recursos Humanos estará adscrita al Director General y su Titular tendrá las siguientes funciones:
 
 I.- Auxiliar al Director General en sus actividades dentro de la esfera de su competencia;
 
@@ -405,7 +445,13 @@ XVII.- Elaborar el programa y los procedimientos de seguridad y de protección c
 
 XVIII.- Proponer, coordinar y definir estrategias que promuevan el desarrollo, la productividad y la calidad en el servicio del personal;
 
-XIX.- Emitir opinión en relación a las estructuras planteadas por los titulares de las Areas a fin de que sean sometidas a la consideración del Director General; y
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+XIX.- Emitir opinión en relación a las estructuras planteadas por los Titulares de las Areas a fin de que sean sometidas a la consideración del Director General;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+XIX BIS.- Autorizar la readscripción del personal del Servicio Postal Mexicano, y
 
 XX.- Realizar aquellas funciones que sean afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
 
@@ -631,9 +677,11 @@ XVI.- Realizar aquellas funciones que sean afines a las señaladas en las fracci
 
 ### Capítulo XII. De la Dirección Regional Norte
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 2010)</small>
+
 ###### Artículo 24.
 
-La Dirección Regional Norte estará adscrita al Director General y tendrá a su cargo, las entidades federativas que le asigne el Director General. Su titular tendrá las siguientes funciones:
+La Dirección Regional Norte estará adscrita al Director General y tendrá a su cargo, las Entidades Federativas que le asigne el Director General. Su Titular tendrá las siguientes funciones:
 
 I.- Auxiliar al Director General en sus actividades dentro de la esfera de su competencia;
 
@@ -679,15 +727,23 @@ XXI.- Coordinar la concentración de ingresos captados en el ámbito de su compe
 
 XXII.- Representar legal y administrativamente al Servicio Postal Mexicano ante las autoridades competentes, así como realizar todo tipo de promociones, inclusive las demandas de amparo que se requieran dentro de su circunscripción territorial;
 
-XXIII.- En coadyuvancia con la Dirección Corporativa de Recursos Humanos, dictaminar e imponer a los trabajadores de su adscripción, las sanciones desde amonestación verbal, hasta la suspensión de sueldo y funciones por ocho días, con base en la normatividad vigente, y
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+XXIII.- En coadyuvancia con la Dirección Corporativa de Recursos Humanos, dictaminar e imponer a los trabajadores de su adscripción, las sanciones desde amonestación verbal, hasta la suspensión de sueldo y funciones por ocho días, con base en la normatividad vigente;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+XXIII BIS.- Autorizar y controlar el uso de máquinas franqueadoras en las Entidades Federativas que se encuentran bajo su jurisdicción, y
 
 XXIV.- Realizar aquellas funciones que sean afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
 
 ### Capítulo XIII. De la Dirección Regional Centro
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 2010)</small>
+
 ###### Artículo 25.
 
-La Dirección Regional Centro estará adscrita al Director General y tendrá a su cargo, las entidades federativas que le asigne el Director General. Su titular tendrá las siguientes funciones:
+La Dirección Regional Centro estará adscrita al Director General y tendrá a su cargo, las Entidades Federativas que le asigne el Director General. Su Titular tendrá las siguientes funciones:
 
 I.- Auxiliar al Director General en sus actividades dentro de la esfera de su competencia;
 
@@ -733,15 +789,23 @@ XXI.- Coordinar la concentración de ingresos captados en el ámbito de su compe
 
 XXII.- Representar legal y administrativamente al Servicio Postal Mexicano ante las autoridades competentes, así como realizar todo tipo de promociones, inclusive las demandas de amparo que se requieran dentro de su circunscripción territorial;
 
-XXIII.- En coadyuvancia con la Dirección Corporativa de Recursos Humanos, dictaminar e imponer a los trabajadores de su adscripción, las sanciones desde amonestación verbal, hasta la suspensión de sueldo y funciones por ocho días, con base en la normatividad vigente, y
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+XXIII.- En coadyuvancia con la Dirección Corporativa de Recursos Humanos, dictaminar e imponer a los trabajadores de su adscripción, las sanciones desde amonestación verbal, hasta la suspensión de sueldo y funciones por ocho días, con base en la normatividad vigente;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+XXIII BIS.- Autorizar y controlar el uso de máquinas franqueadoras en las Entidades Federativas que se encuentran bajo su jurisdicción, y
 
 XXIV.- Realizar aquellas funciones que sean afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
 
 ### Capítulo XIV. De la Dirección Regional Sur
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 2010)</small>
+
 ###### Artículo 26.
 
-La Dirección Regional Sur estará adscrita al Director General y tendrá a su cargo, las entidades federativas que le asigne el Director General. Su titular tendrá las siguientes funciones:
+La Dirección Regional Sur estará adscrita al Director General y tendrá a su cargo, las Entidades Federativas que le asigne el Director General. Su Titular tendrá las siguientes funciones:
 
 I.- Auxiliar al Director General en sus actividades dentro de la esfera de su competencia;
 
@@ -787,15 +851,23 @@ XXI.- Coordinar la concentración de ingresos captados en el ámbito de su compe
 
 XXII.- Representar legal y administrativamente al Servicio Postal Mexicano ante las autoridades competentes, así como realizar todo tipo de promociones, inclusive las demandas de amparo que se requieran dentro de su circunscripción territorial;
 
-XXIII.- En coadyuvancia con la Dirección Corporativa de Recursos Humanos, dictaminar e imponer a los trabajadores de su adscripción, las sanciones desde amonestación verbal, hasta la suspensión de sueldo y funciones por ocho días, con base en la normatividad vigente, y
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+XXIII.- En coadyuvancia con la Dirección Corporativa de Recursos Humanos, dictaminar e imponer a los trabajadores de su adscripción, las sanciones desde amonestación verbal, hasta la suspensión de sueldo y funciones por ocho días, con base en la normatividad vigente;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+XXIII BIS.- Autorizar y controlar el uso de máquinas franqueadoras en las Entidades Federativas que se encuentran bajo su jurisdicción, y
 
 XXIV.- Realizar aquellas funciones que sean afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
 
 ### Capítulo XV. De la Dirección Metropolitana
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 2010)</small>
+
 ###### Artículo 27.
 
-La Dirección Metropolitana estará adscrita al Director General y tendrá a su cargo, las entidades federativas que le asigne el Director General. Su titular tendrá las siguientes funciones:
+La Dirección Metropolitana estará adscrita al Director General y tendrá a su cargo, las Entidades Federativas que le asigne el Director General. Su Titular tendrá las siguientes funciones:
 
 I.- Auxiliar al Director General en sus actividades dentro de la esfera de su competencia;
 
@@ -841,7 +913,13 @@ XXI.- Coordinar la concentración de ingresos captados en el ámbito de su compe
 
 XXII.- Representar legal y administrativamente al Servicio Postal Mexicano ante las autoridades competentes, así como realizar todo tipo de promociones, inclusive las demandas de amparo que se requieran dentro de su circunscripción territorial;
 
-XXIII.- En coadyuvancia con la Dirección Corporativa de Recursos Humanos, dictaminar e imponer a los trabajadores de su adscripción, las sanciones desde amonestación verbal, hasta la suspensión de sueldo y funciones por ocho días, con base en la normatividad vigente, y
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+XXIII.- En coadyuvancia con la Dirección Corporativa de Recursos Humanos, dictaminar e imponer a los trabajadores de su adscripción, las sanciones desde amonestación verbal, hasta la suspensión de sueldo y funciones por ocho días, con base en la normatividad vigente;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 2010)</small>
+
+XXIII BIS.- Autorizar y controlar el uso de máquinas franqueadoras en las Entidades Federativas que se encuentran bajo su jurisdicción, y
 
 XXIV.- Realizar aquellas funciones que sean afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
 
@@ -900,3 +978,27 @@ Los derechos de los trabajadores serán respetados conforme a la ley y en ningú
 Atentamente
 
 México, D.F., a 22 de agosto de 2008.- La Directora General, Purificación Carpinteyro Calderón.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 22 DE JULIO DE 2010.
+
+Artículo Primero.
+
+El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.
+
+Continuarán vigentes los Manuales y Normas diversas expedidas por el Servicio Postal Mexicano siempre y cuando éstas no se opongan al presente.
+
+Artículo Tercero.
+
+El Servicio Postal Mexicano deberá realizar las adecuaciones que resulten necesarias a los Manuales y Normas diversas que haya expedido, en términos de las modificaciones a que se refiere el presente Acuerdo, en un plazo máximo de 90 días hábiles contados a partir de su entrada en vigor.
+
+Artículo Cuarto.
+
+Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+Artículo Quinto.
+
+Los asuntos pendientes a la entrada en vigor de este Acuerdo, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento.
