@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bienes-del-estado-y-municipios-de-san-luis-potosi-48373"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2009-12-19"
+last_updated: "2010-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
+LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -75,7 +75,7 @@ El Capítulo V, que comprende los artículos del 29 al 43, se ocupa de regular e
 
 Se señala en este Capítulo V que los bienes inmuebles desafectados de un servicio público o de uso común, podrán ser enajenados previa autorización del Congreso, acorde con lo que previene al afecto la Constitución Política del Estado; se deja claramente previsto que no se pueden realizar operaciones con inmuebles de dominio privado, que impliquen su transmisión a favor de servidores públicos que intervengan en la operación de que se trate, ni de sus cónyuges o parientes, además de que en las operaciones traslativas de dominio el valor de los inmuebles, no podrá ser inferior al avalúo catastral que determine la dependencia respectiva.
 
-De igual forma, se regulan en este apartado algunos aspectos de los contratos de permuta, donación y comodato que tengan como materia bienes del dominio privado, a fin de que con motivo de la celebración de los mismos no se vea perjudicado el interés social, y se deja establecido que los actos jurídicos, convenios o contratos que se realicen con violación a lo dispuesto en esta Ley, serán nulos de pleno derecho, sin perjuicio de las responsabilidades administrativas, civiles o penales en que incurran los servidores y notarios públicos que intervengan en tales actos, además de otras disposiciones no menos importantes, que en su conjunto seguramente darán como resultado que el régimen jurídico de los bienes que nos ocupan resulte adecuado a la naturaleza y finalidad de los mismos.
+De Igual forma, se regulan en este apartado algunos aspectos de los contratos de permuta, donación y comodato que tengan como materia bienes del dominio privado, a fin de que con motivo de la celebración de los mismos no se vea perjudicado el interés social, y se deja establecido que los actos jurídicos, convenios o contratos que se realicen con violación a lo dispuesto en esta Ley, serán nulos de pleno derecho, sin perjuicio de las responsabilidades administrativas, civiles o penales en que incurran los servidores y notarios públicos que intervengan en tales actos, además de otras disposiciones no menos importantes, que en su conjunto seguramente darán como resultado que el régimen jurídico de los bienes que nos ocupan resulte adecuado a la naturaleza y finalidad de los mismos.
 
 El Capítulo VI, que comprende de los artículos 44 al 51, se refiere al registro administrativo de inmuebles de dominio público y privado, y al efecto se señalan las dependencias estatales y municipales, a las que corresponderá llevar a cabo el registro de tales bienes, así como los actos, documentos o datos en general que serán materia de dicho registro, el que se denominará Registro Administrativo de la Propiedad Pública Estatal o Municipal, según se trate; se establecen además los casos de cancelación de las inscripciones respectivas, así como las obligaciones que contraen las instituciones privadas que utilizan, administran o tienen a su cuidado bienes de propiedad estatal o municipal, respecto de la actualización de su inventario y la rendición de los informes que al respecto se les soliciten.
 
@@ -227,7 +227,7 @@ Sólo podrán otorgarse concesiones, permisos, licencias o autorizaciones, sobre
 
 Las concesiones sobre bienes de dominio público no crean derechos reales; otorgan solamente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones de acuerdo con las reglas y condiciones que establezcan las leyes y el acto o título de la concesión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 17.
 
@@ -415,6 +415,16 @@ En los contratos de donación de bienes inmuebles del dominio privado del Estado
 
 Los bienes del dominio privado del Estado y municipios sólo podrán ser donados a instituciones o asociaciones privadas, cuando éstas persigan fines no lucrativos; asimismo, podrán ser donados en forma condicionada y previo estudio que así lo justifique, a entidades o instituciones generadoras de empleo en regiones o zonas marginadas de la Entidad. En estos casos también procederá la revocación y reversión de los mismos al patrimonio del Estado o municipios en los términos del artículo que antecede, si aquéllas cambian la naturaleza de su objeto o su carácter no lucrativo, o bien dejan de cumplir sus objetivos o se extingue su personalidad jurídica.
 
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2010)</small>
+
+Se exceptúa de lo señalado en el párrafo anterior, cuando se trate de regularización de asentamientos humanos, en cuyo caso el Estado podrá donar a favor de los particulares que habiten en la demarcación respectiva, sujetando la donación a lo siguiente:
+
+I. Se asignará únicamente un lote por beneficiario; en cuyo caso la superficie donada no excederá a la necesaria para vivienda de interés social;
+
+II. El beneficiario deberá exhibir constancia de no propiedad de bien inmueble, y
+
+III. El Gobierno del Estado informará al Congreso del Estado, a través del organismo competente, del listado final de beneficiarios, al que adjuntará los estudios socioeconómicos respectivos.
+
 ###### ARTICULO 38.
 
 Los contratos de comodato que tengan como materia bienes del dominio privado, serán por tiempo determinado o indeterminado según lo determine la autoridad competente; en este último caso, podrán darse por terminados cuando se haya extinguido el interés público o la necesidad social que dio origen a su celebración o cuando así lo requiera por causa justificada la propia autoridad.
@@ -565,7 +575,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE DICIEMBRE DE 2007.
 
@@ -586,6 +596,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales que se opongan al presente Decreto.
 
 P.O. 19 DE DICIEMBRE DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
+
+P.O. 22 DE JULIO DE 2010.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
