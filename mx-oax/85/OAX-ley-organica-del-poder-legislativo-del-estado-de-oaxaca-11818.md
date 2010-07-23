@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2009-07-04"
+last_updated: "2010-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -319,17 +319,47 @@ VII.- Tendrá derecho a ser adscrito a cuando menos en dos Comisiones;
 
 Los titulares de las Oficinas Públicas facilitarán a los Diputados todos los informes que soliciten en relación con el ejercicio de sus funciones.
 
-## TITULO QUINTO. DE LAS COMISIONES Y FRACCIONES PARLAMENTARIAS DEL CONGRESO
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ LA DENOMINACIÓN DE ESTE TÍTULO, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-### CAPITULO I. DE LA GRAN COMISION
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JULIO DE 2010)</small>
+
+## TITULO QUINTO. DE LA JUNTA DE COORDINACION POLITICA, COMISIONES Y FRACCIONES PARLAMENTARIAS DEL CONGRESO
+
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ LA DENOMINACIÓN DE ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JULIO DE 2010)</small>
+
+### CAPITULO I. DE LA NATURALEZA, INTEGRACION Y FACULTADES DE LA JUNTA DE COORDINACION POLITICA
+
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 39.
 
-En la segunda sesión del primer período ordinario de sesiones y para todo el ejercicio constitucional se elegirá por planilla, en votación nominal y por mayoría de votos, una comisión integrada por un Presidente, un Secretario, un prosecretario y 4 vocales que se denominará "GRAN COMISIÓN".
+La Junta de Coordinación Política, es la expresión de la pluralidad del Congreso; por tanto, es el órgano colegiado en el que se impulsan entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios a fin de alcanzar acuerdos para que el Pleno esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
+
+La Junta de Coordinación Política se integra con los Coordinadores de cada fracción parlamentaria.
+
+Será Presidente de la Junta por la duración de la Legislatura, el Coordinador de la fracción parlamentaria que por sí mismo cuente con la mayoría absoluta en el Congreso.
+
+En el caso de que ninguna fracción parlamentaria se encuentre en el supuesto señalado en el párrafo anterior, la Presidencia de la Junta será ejercida, en forma alternada y para cada año legislativo, por los coordinadores de las tres fracciones parlamentarias que cuenten con el mayor número de diputados. El orden del ejercicio de la presidencia se resolverá a favor de la fracción parlamentaria que tenga el mayor número de diputados.
+
+La Junta de Coordinación Política deberá instalarse, a más tardar, en la segunda sesión ordinaria que celebre el Congreso al inicio de la Legislatura.
+
+La sesión de instalación de la Junta de Coordinación Política, será convocada por el Coordinador de la fracción parlamentaria que ejerza la presidencia.
+
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 40.
 
-Son facultades y obligaciones de la Gran Comisión:
+Son facultades y obligaciones de la Junta de Coordinación Política:
 
 I.- Formar la lista de los integrantes de las comisiones permanentes y especiales, debiéndola presentar al Congreso para su aprobación en la sesión inmediata a su elección. Dichas comisiones estarán integradas en forma plural;
 
@@ -339,17 +369,13 @@ III.- Proponer a la Legislatura la sustitución de los miembros integrantes de l
 
 IV.- Dictaminar, formular opiniones y presentar iniciativas sobre los asuntos concernientes a las regiones del Estado, tomando en consideración las propuestas de los Presidentes Municipales;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+V.- Proponer el proyecto del presupuesto anual del Congreso, en términos de la Ley de Presupuesto, Gasto Público y su Contabilidad;
 
-V.- Proponer al Congreso la designación del Oficial Mayor y del Tesorero; la elección respectiva se hará en votación económica por los miembros de la Legislatura;
+VI.- Coadyuvar en la realización de las funciones de las comisiones permanentes y especiales;
 
-VI.- Proponer el proyecto del presupuesto anual del Congreso, en términos de la Ley de Presupuesto, Gasto Público y su Contabilidad;
+VII.- Ser titular en las relaciones laborales con los trabajadores en los términos de la ley respectiva;
 
-VII.- Coadyuvar en la realización de las funciones de las comisiones permanentes y especiales.
-
-VIII.- Ser titular en las relaciones laborales con los trabajadores en los términos de la Ley respectiva.
-
-IX.- Tener a su cargo la unidad de apoyo y seguimiento a la demanda ciudadana, con las siguientes funciones:
+VIII.- Tener a su cargo la unidad de apoyo y seguimiento a la demanda ciudadana, con las siguientes funciones:
 
 a) Recabar y proporcionar información sobre los programas y acciones de Gobierno;
 
@@ -357,25 +383,47 @@ b) Apoyar a los diputados en las gestiones que estos le planteen;
 
 c) Dar seguimiento a las gestiones iniciadas a petición de cualquier diputado;
 
-X.- Establecer el Centro de Informática Legislativa, el cual realizará la recopilación y procesamiento de la información legislativa del Estado y estará en permanente contacto con las instituciones y organizaciones relativas;
+IX.- Establecer el Centro de Informática Legislativa, el cual realizará la recopilación y procesamiento de la información legislativa del Estado y estará en permanente contacto con las instituciones y organizaciones relativas;
 
-XI.- Velar por el acervo y acrecentamiento de la Biblioteca de la Legislatura, así como por el establecimiento y guarda del Archivo del Congreso;
+X.- Velar por el acervo y acrecentamiento de la Biblioteca de la Legislatura, así como por el establecimiento y guarda del Archivo del Congreso;
 
-XII.- Contar con los asesores que sean necesarios para el mejor desempeño de sus atribuciones;
+XI.- Contar con los asesores que sean necesarios para el mejor desempeño de sus atribuciones;
 
-XIII.- Celebrar convenios de coordinación con las Entidades y dependencias del Gobierno del Estado, cuando las mismas no tengan duración mayor a la del período para la que fue electa; en caso contrario será necesario el acuerdo de la Legislatura;
+XII.- Celebrar convenios de coordinación con las Entidades y dependencias del Gobierno del Estado, cuando las mismas no tengan duración mayor a la del período para la que fue electa; en caso contrario será necesario el acuerdo de la Legislatura;
 
-XIV.- Asumir y desempeñar las atribuciones que no estén expresamente señaladas a la Mesa Directiva de la Legislatura; y
+XIII.- Asumir y desempeñar las atribuciones que no estén expresamente señaladas a la Mesa Directiva de la Legislatura;
+
+XIV.- Proponer al pleno del Congreso del Estado, la agenda legislativa; y
 
 XV.- Las demás que le confiera esta Ley y su Reglamento.
 
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+ARTICULO 40 BIS.- El Presidente de la Junta de Coordinación Política tendrá las atribuciones siguientes:
+
+I.- Convocar y conducir las reuniones de trabajo que celebre;
+
+II.- Velar por el cumplimiento de las decisiones y acuerdos internos que se adopten;
+
+III.- Proponer al Pleno del Congreso la designación del Oficial Mayor y del Tesorero; y
+
+IV.- Las demás que deriven de esta Ley, el Reglamento o que le sean conferidas por la propia Junta.
+
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 41.
 
-En caso de incapacidad o fallecimiento del Presidente de la Gran Comisión, se procederá a la designación inmediata en los términos de esta Ley.
+En caso de incapacidad o fallecimiento del Presidente de la Junta de Coordinación Política, la fracción parlamentaria a la que pertenezca informará de inmediato, tanto al Presidente de la Mesa Directiva o de la Diputación Permanente, como a la propia Junta, el nombre del diputado que lo sustituirá.
 
-Las faltas transitorias del Presidente serán suplidas por el Secretario o por los demás miembros en su orden.
-
-La Gran Comisión dispondrá y contará con el personal y los elementos necesarios para el desempeño de sus funciones con arreglo a lo que determine el presupuesto.
+La Junta de Coordinación Política dispondrá y contará con el personal y los elementos necesarios para el desempeño de sus funciones con arreglo a lo que determine el presupuesto.
 
 ### CAPITULO II. DE LAS COMISIONES DE LA LEGISLATURA
 
@@ -445,7 +493,11 @@ XXIII.- De Honor y Justicia;
 
 XXIV.- De Fortalecimiento y Asuntos Municipales;
 
-XXV.- De Concertación Parlamentaria; y (sic)
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE DEROGÓ LA FRACCIÓN XXV DE ESTE ARTÍCULO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+xxv.- (derogada, p.o. 23 de julio de 2010)
 
 XXVI.- De Ecología;
 
@@ -505,11 +557,19 @@ Las fracciones parlamentarias tenderán a garantizar la libre expresión de las 
 
 Los Diputados de la misma filiación de partido podrán constituir una sola fracción parlamentaria y será requisito esencial que lo integren cuando menos 2 Diputados.
 
+> <small>(F. DE E., P.O. 26 DE JULIO DE 2010)</small>
+
 Las fracciones parlamentarias se tendrán por constituidos cuando presenten los siguientes documentos a la Mesa Directiva de la Legislatura:
 
 I.- Acta en la que conste la decisión de sus miembros de constituirse en fracción parlamentaria con especificación del nombre del mismo y lista de los integrantes; y
 
-II.- Nombre del Diputado que haya sido electo líder o representante de la fracción parlamentaria.
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+
+II.- NOMBRE DEL DIPUTADO QUE HAYA SIDO ELECTO COORDINADOR DE LA FRACCIÓN PARLAMENTARIA.
 
 ###### ARTICULO 56.
 
@@ -517,11 +577,17 @@ La fracción parlamentaria deberá entregar la documentación requerida en la se
 
 Examinada por el Presidente de la Mesa Directiva, la documentación referida, en sesión ordinaria, hará la declaratoria de la constitución de las fracciones parlamentarias y a partir de ese momento ejercerán las atribuciones concedidas en esta Ley.
 
-###### ARTICULO 57.
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Los líderes de las fracciones parlamentarias serán los conductos para realizar las tareas con la Mesa Directiva de la Legislatura, las Comisiones Permanentes o Especiales y los órganos que constituyan el Congreso del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-El líder de la fracción parlamentaria mayoritario, podrá reunirse con los demás líderes para considerar, conjuntamente las acciones específicas que propicien el mejor desarrollo de las actividades legislativas.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
+###### ARTÍCULO 57.
+
+Los coordinadores de las fracciones parlamentarias serán los conductos para realizar las tareas con la Mesa Directiva o Diputación Permanente de la Legislatura, las Comisiones Permanentes o Especiales y los órganos que constituyan el Congreso del Estado.
+
+El Coordinador de la fracción parlamentaria mayoritaria, podrá reunirse con los demás coordinadores para considerar, conjuntamente las acciones específicas que propicien el mejor desarrollo de las actividades legislativas.
 
 ## TITULO SEXTO. DE LA ADMINISTRACION DEL CONGRESO
 
@@ -541,9 +607,15 @@ II.- Ser de notoria honradez y no haber sido condenado por sentencia ejecutoriad
 
 III.- No desempeñar cargo alguno de elección popular.
 
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 60.
 
-El Reglamento Interior del Congreso determinará las atribuciones y obligaciones del Oficial Mayor, quien coordinará sus actividades en lo conducente con el Presidente de la Gran Comisión del Congreso.
+El Reglamento Interior del Congreso determinará las atribuciones y obligaciones del Oficial Mayor, quien coordinará sus actividades en lo conducente con el Presidente de la Junta de Coordinación Política del Congreso.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2009)</small>
 
@@ -557,11 +629,15 @@ La Auditoria Superior del Estado es el órgano técnico del Congreso que tiene a
 
 ### CAPITULO III. DEL TESORERO
 
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 62.
 
-Para la administración de los recursos económicos, el Congreso tendrá un tesorero que será nombrado por el pleno a propuesta del Presidente de la Gran Comisión.
-
-El tesorero entrará a ejercer su cargo otorgando la fianza correspondiente con los requisitos y responsabilidades para los que de igual clase previenen las Leyes y el Reglamento Interior del Congreso.
+Para la administración de los recursos económicos, el Congreso tendrá un Tesorero que será nombrado por el pleno a propuesta del Presidente de la Junta de Coordinación Política.
 
 ### CAPITULO UNICO. DE LA RESPONSABILIDAD
 
@@ -776,3 +852,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 4 DE JULIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día de su aprobación Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+P.O. 23 DE JULIO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 13 de noviembre de 2010. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- En todos los ordenamientos, actos y convenios celebrados por la Gran Comisión se entenderán como referidos a la Junta de Coordinación Política del Congreso del Estado.
