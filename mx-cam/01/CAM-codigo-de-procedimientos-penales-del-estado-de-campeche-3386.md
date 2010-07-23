@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-penales-del-estado-de-campeche-3386"
 country: "mx"
 rank: "codigo"
 publication_date: "1975-12-09"
-last_updated: "2002-07-03"
+last_updated: "2010-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el martes 9 de diciembre de 1975.
 
@@ -873,11 +873,13 @@ Si para integrar la averiguación previa fuese necesario mayor tiempo del señal
 
 En caso de que la detención de una persona exceda de los plazos señalados en el artículo 16 de la Constitución Federal se presumirá que estuvo incomunicado y las declaraciones que haya emitido el detenido no tendrán validez.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2010) (F. DE E., P.O. 30 DE AGOSTO DE 2010)
 
 ###### Artículo 144.
 
-Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes:
+Para afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes:
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
 A.- Del Código Penal del Estado:
 
@@ -913,17 +915,29 @@ XV.- Robo previsto en la fracción IV del artículo 335, cuando se realice en la
 
 XVI.- Abigeato previsto en los artículos 349 y 350, cuando las sanciones aplicables correspondan a las previstas en los segundos párrafos de las fracciones I, II y III del mencionado artículo 349; 352, 353 y 354, en los casos de reincidencia; y 351 y 355;
 
-XVII.- Despojo de Cosas Inmuebles o Aguas, autoría intelectual y/o dirección previstas en el último párrafo del artículo 371; y
+XVII.- Despojo de Cosas Inmuebles o Aguas, autoría intelectual y/o dirección previstas en el último párrafo del artículo 371; y (sic)
 
 XVIII.- Pornografía Infantil prevista en el artículo 175 Bis;
+
+(NOTA: EL 28 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2010, Y POR EXTENSIÓN DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIX APARTADO A, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE JUNIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+(ADICIONADA, P.O. 23 DE JULIO DE 2010) (F. DE E., P.O. 30 DE AGOSTO DE 2010)
+
+XIX.- DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO, PREVISTO EN LOS ARTÍCULOS 174 TER Y 174 QUÁTER PÁRRAFO PRIMERO, DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
 B.- De la Ley para Prevenir y Sancionar la Tortura en el Estado:
 
 I.- El previsto en el artículo 3; y
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
+
 C.- De la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado:
 
 I.- El previsto en la fracción VI del artículo 194.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
 La tentativa punible de los ilícitos penales mencionados en este artículo también se califica como delito grave.
 
@@ -1708,6 +1722,24 @@ Los agentes del Ministerio Público están obligados a proceder de oficio a la a
 I.- Cuando se trate de delitos en los que sólo pueda procederse por querella necesaria, si no se ha presentado ésta;
 
 II.- Cuando la ley exija algún requisito previo, si éste no se ha llenado.
+
+(NOTA: EL 28 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2010, Y POR EXTENSIÓN DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE JUNIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Tratándose de Narcomenudeo, el Ministerio Público deberá informar oportunamente al Ministerio Público de la Federación del inicio de la fase de investigación, a efecto de que éste cuente con los elementos necesarios para, en su caso, solicitar la remisión de la investigación DE CONFORMIDAD CON LO ESTABLECIDO POR EL ARTÍCULO 174 OCTIES DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE. ASIMISMO, PODRÁ REMITIRSE LA INVESTIGACIÓN AL MINISTERIO PÚBLICO LOCAL POR PARTE DEL MINISTERIO PÚBLICO DE LA FEDERACIÓN SIEMPRE QUE LOS NARCÓTICOS NO IGUALEN O REBASEN LAS CANTIDADES MENCIONADAS EN EL ARTÍCULO 174 TER DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE Y NO SE TRATE DE DELINCUENCIA ORGANIZADA.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Para fines de investigación, el titular del Ministerio Público podrá autorizar que los policías bajo su conducción y mando, previa autorización caso por caso, del titular del Ministerio Público Federal o del servidor público que éste al efecto designe, compren, adquieran o reciban la transmisión material de algún narcótico para lograr la detención del probable responsable de comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines y el aseguramiento correspondiente. La autorización señalará por escrito los lineamientos, términos, limitaciones, modalidades y condiciones a los que debe sujetarse el agente o agentes de la policía que ejecutarán la orden.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+En las actividades que desarrollen el o los policías que ejecuten la orden, se considerará que actúan en cumplimiento de un deber, siempre que su actuación se apegue a los lineamientos, términos, modalidades, limitaciones y condiciones contenidas en el escrito de autorización a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Cuando el Ministerio Público tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza lo empleare para realizar cualquiera de las conductas a que se refiere el Capítulo II del Titulo Décimo del Código Penal del Estado o que permitiere su realización por terceros, informará a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones que resulten por la aplicación de los ordenamientos correspondientes.
 
 ###### Artículo 285.
 
@@ -3133,9 +3165,13 @@ Si no pudiere desde luego presentar al inculpado, el juez o tribunal podrá otor
 
 En los casos de revocación de la libertad caucional, se deberá oír previamente al Ministerio Público.
 
-## TITULO SEPTIMO
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JULIO DE 2010)</small>
 
-### CAPITULO UNICO. Procedimiento Relativo a los Enfermos Mentales
+## TITULO SEPTIMO. DE LOS PROCEDIMIENTOS RELATIVOS A LOS ENFERMOS MENTALES Y DEL TRATAMIENTO A FARMACODEPENDIENTES
+
+> <small>(REFORMADO EN SU NUMERACION [N. DE E. ANTES CAPITULO UNICO], P.O. 23 DE JULIO DE 2010)</small>
+
+### CAPITULO I. Procedimiento Relativo a los Enfermos Mentales
 
 ###### Artículo 510.
 
@@ -3167,9 +3203,31 @@ Si en los casos a que este Título se refiere sobreviniere la curación del reo,
 
 La vigilancia del incapacitado estará a cargo de la autoridad administrativa, salvo los casos en que conforme al Código Penal, aquél fuere entregado a las personas que corresponda para hacerse cargo de él.
 
-### CAPITULO UNICO. De los Juicios de Responsabilidad
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE JULIO DE 2010)</small>
+
+### CAPITULO II. Tratamiento a Farmacodependientes
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+###### Artículo 516 Bis.
+
+Al iniciar la fase de investigación, el Ministerio Público, tan pronto acredite que un indiciado por la comisión de un delito es farmacodependiente, dará aviso inmediato a la autoridad correspondiente con la finalidad de que intervenga para determinar el tratamiento que corresponda.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+###### Artículo 516 Ter.
+
+Si el indiciado, además de la adquisición o posesión de los narcóticos necesarios para su consumo personal cometiere cualquier delito, deberá ser consignado a la autoridad judicial correspondiente, sin perjuicio de que intervenga la autoridad correspondiente para su tratamiento de rehabilitación.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+###### Artículo 516 Quáter.
+
+Cuando exista aseguramiento de narcóticos, el Ministerio Público o el juez solicitarán la elaboración del dictamen pericial correspondiente a la autoridad competente sobre los caracteres organolépticos ó químicos de la sustancia asegurada. En caso de que hubiere detenido, este dictamen deberá ser rendido dentro del plazo máximo de setenta y dos horas a que se refiere el artículo, 19 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## TITULO OCTAVO
+
+### CAPITULO UNICO. De los Juicios de Responsabilidad
 
 ###### Artículo 517.
 
@@ -3378,3 +3436,19 @@ Sexto.- Los procedimientos administrativos disciplinarios que se encuentren en t
 Séptimo.- Las menciones que en otras leyes, reglamentos y demás disposiciones de carácter general se hagan de la Ley de Responsabilidades de los Servidores Públicos del Estado de Campeche en lo sucesivo se entenderán como referidas a la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
 
 Octavo.- El Congreso, el Gobernador, el Tribunal Superior de Justicia, los Ayuntamientos y los Organismos Públicos Autónomos, tienen el plazo de treinta días hábiles, contados a partir del día siguiente a la fecha en que entren en vigor las modificaciones a la Ley Orgánica de los Municipios y a la Ley de Control Presupuestal y Gasto Público, para publicar, en el Periódico Oficial del Estado, los tabuladores de puestos y sueldos de los servidores públicos, de sus respectivas adscripciones, para el ejercicio fiscal 2003.
+
+P.O. 23 DE JULIO DE 2010.
+
+PRIMERO: El presente Decreto entrará vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Las dependencias, entidades e instituciones estatales a las que corresponda la implementación de las acciones necesarias para dar cumplimiento a las atribuciones contenidas en el (sic) este Decreto deberá realizarlas dentro del término contado a partir de la entrada en vigor del presente, hasta antes del día 21 de agosto de 2012, de conformidad con el último párrafo del artículo Primero transitorio del Decreto publicado en el Diario Oficial de la Federación con fecha 20 de agosto de 2009, en el que se reforman, y adicionan y derogan, diversas disposiciones de la Ley General de Salud del Código Penal Federal y del Código Federal de Procedimientos Penales.
+
+TERCERO: Se faculta al H Tribunal Superior de Justicia en Pleno para fijar oportunamente la fecha de acreditación de los jueces penales en materia de narcomenudeo y para dictar las bases que deban observarse en la distribución de los asuntos respetando el plazo señalado en el artículo segundo transitorio que antecede, es decir, antes del 21 de agosto de 2012.
+
+El Titular de la Procuraduría General de Justicia del Estado, en el marco de sus atribuciones, deberá emitir os (sic) acuerdos, circulares, instructivos, bases, manuales de organización, procedimientos y/o lineamientos que resulten necesarios para la creación y funcionamiento de Agencias del Ministerio Público especializados en materia de Narcomenudeo, de conformidad con el presupuesto asignado, antes del 21 de Agosto de 2012.
+
+CUARTO: La nueva Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche entrará en vigor en la misma fecha en que inicie la vigencia del nuevo Código de Procedimientos Penales del Estado de Campeche, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+Al entrar en vigor la nueva Ley de Ejecución en cita, quedarán abrogadas la Ley de Ejecución de Sanciones y Penas Privativas de la Libertad en el Estado de Campeche del 11 de junio de 1999, y la Ley que establece las normas mínimas sobre readaptación social de sentenciados en el Estado de Campeche del 8 de enero de 1974.
+
+QUINTO: Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este Decreto.
