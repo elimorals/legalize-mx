@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-4118"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-04"
-last_updated: "2010-05-17"
+last_updated: "2010-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el jueves 4 de diciembre de 1980.
 
@@ -789,7 +789,13 @@ II.- De la diligencia de los exhortos, requisitorias y despachos en materia pena
 
 III.- De las competencias que se susciten, en materia penal, entre los jueces menores de sus distritos judiciales;
 
-IV.- De los demás asuntos que les atribuyan las leyes.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+
+IV.- De los procesos iniciados por delitos contra la salud en su modalidad de narcomenudeo que resulten de competencia estatal y que se cometan en su jurisdicción; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2010)</small>
+
+V.- De los demás asuntos que les atribuyan las leyes.
 
 ###### Artículo 56.
 
@@ -802,6 +808,10 @@ Los jueces mixtos de primera instancia tendrán la competencia a que aluden los 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 Artículo. 58.- Los jueces civiles, penales y mixtos de primera instancia asumirán la competencia que esta ley atribuye a los jueces menores en las secciones municipales o municipios en donde no existieran éstos.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Los procesos en materia de narcomenudeo se desarrollarán siempre ante los jueces penales, independientemente de la cuantía del asunto, y será competente el juzgado más cercano al lugar en que se cometieron los hechos.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 1997)</small>
 
@@ -2035,14 +2045,6 @@ P.O. 23 DE DICIEMBRE DE 1980.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.
 
-P.O. 10 DE JULIO DE 1996.
-
-Primero.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo en lo que atañe a las modificaciones previstas en su Artículo Tercero, las que entrarán en vigor a partir del día 1º de enero de 1997.
-
-Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a los de este decreto.
-
-Tercero.- El Tribunal Pleno procederá, en el término de sesenta días contados a partir de la vigencia de este decreto, a hacer las adecuaciones correspondientes en los reglamentos y acuerdos administrativos que ha expedido, así como a emitir, en un término no mayor de noventa días, los que con motivo de este decreto sean necesarios. Asimismo, dicho Tribunal, tomará las previsiones que sean necesarias al elaborar su proyecto de presupuesto de Egresos para el año de 1997.
-
 P.O. 22 DE MAYO DE 1985.
 
 ###### ARTICULO PRIMERO.
@@ -2114,3 +2116,19 @@ P.O. 17 DE MAYO DE 2010.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
+
+P.O. 23 DE JULIO DE 2010.
+
+PRIMERO: El presente Decreto entrará vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Las dependencias, entidades e instituciones estatales a las que corresponda la implementación de las acciones necesarias para dar cumplimiento a las atribuciones contenidas en el (sic) este Decreto deberá realizarlas dentro del término contado a partir de la entrada en vigor del presente, hasta antes del día 21 de agosto de 2012, de conformidad con el último párrafo del artículo Primero transitorio del Decreto publicado en el Diario Oficial de la Federación con fecha 20 de agosto de 2009, en el que se reforman, adicionan y derogan, diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales.
+
+TERCERO: Se faculta al H. Tribunal Superior de Justicia en Pleno para fijar oportunamente la fecha de acreditación de los jueces penales en materia de narcomenudeo y para dictar las bases que deban observarse en la distribución de los asuntos, respetando el plazo señalado en el artículo segundo transitorio que antecede, es decir, antes del 21 de agosto de 2012.
+
+El Titular de la Procuraduría General de Justicia del Estado, en el marco de sus atribuciones, deberá emitir os (sic) acuerdos, circulares, instructivos, bases, manuales de organización, procedimientos y/o lineamientos que resulten necesarios para la creación y funcionamiento de Agencias del Ministerio Público especializados en materia de Narcomenudeo, de conformidad con el presupuesto asignado, antes del 21 de Agosto de 2012.
+
+CUARTO: La nueva Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche entrará en vigor en la misma fecha en que inicie la vigencia del nuevo Código de Procedimientos Penales del Estado de Campeche, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+Al entrar en vigor la nueva Ley de Ejecución en cita, quedarán abrogadas la Ley de Ejecución de Sanciones y Penas Privativas de la Libertad en el Estado de Campeche del 11 de junio de 1999, y la Ley que establece las normas mínimas sobre readaptación social de sentenciados en el Estado de Campeche del 8 de-enero de 1974.
+
+QUINTO: Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este Decreto.
