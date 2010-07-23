@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "2009-07-04"
+last_updated: "2010-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -301,7 +301,11 @@ XXIII.- De Honor y Justicia;
 
 XXIV.- De fortalecimiento y Asuntos Municipales;
 
-XXV.- De Concertación Parlamentaria;
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE DEROGÓ LA FRACCIÓN XXV DE ESTE ARTÍCULO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+xxv.- (derogada, p.o. 23 de julio de 2010)
 
 XXVI.- De Ecología;
 
@@ -459,7 +463,11 @@ XXIII.- La Comisión de Honor y Justicia, conocerá de todos aquellos casos en q
 
 XXIV.- La Comisión de Fortalecimiento y Asuntos Municipales, conocerá de los estudios de los problemas municipales, de la realización de los programas de desarrollo para las comunidades, de la instrumentación de los programas de desarrollo urbano y ecológico municipal, se coordinara con los Organismos e Instituciones de asesoría técnica municipal, y promoverá el bienestar y progreso de los municipios. Así como lo relacionado con autorizaciones al ejecutivo estatal y a los Municipios para la donación, venta, comodato, concesiones y permuta de bienes muebles e inmuebles y de reservas territoriales de su propiedad;
 
-XXV.- La Comisión de Concertación Parlamentaria; estará integrada por los representantes de las fracciones parlamentarias que integren el Congreso del Estado, la presidirá el representante de la fracción parlamentaria que integre la mayoría de Diputados, y se avocará a buscar los mecanismos para la correcta aplicación de la Constitución Política del Estado, la Ley Orgánica del Poder Legislativo y este Reglamento, coadyuvando en los trabajos que le soliciten las comisiones de la Cámara, y velará por el respeto a la legalidad de todos los actos que desarrollen los integrantes de las fracciones parlamentarias del Congreso;
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE DEROGÓ LA FRACCIÓN XXV DE ESTE ARTÍCULO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+xxv.- (derogada, p.o. 23 de julio de 2010)
 
 XXVI.- La Comisión de Ecología; conocerá de los asuntos relacionados con la protección del medio ambiente y del equilibrio ecológico; lo relativo a convenios, protección y mejoramiento ambiental;
 
@@ -501,7 +509,13 @@ V.- Extender las actas de las sesiones públicas, ordinarias y extraordinarias, 
 
 VI.- Extender y certificar copias de las actas para su publicación y para cualquier otro uso previo acuerdo de la Legislatura en este último caso citado;
 
-VII.- Representar a la Legislatura en la celebración de convenios y/o contratos que le encomiende el Presidente de la Gran Comisión; y
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+
+VII.- REPRESENTAR A LA LEGISLATURA EN LA CELEBRACIÓN DE CONVENIOS Y/O CONTRATOS QUE LE ENCOMIENDE EL PRESIDENTE DE LA JUNTA DE COORDINACIÓN POLÍTICA; Y
 
 VIII.- Las demás que por acuerdo de la Legislatura o que por este Reglamento se le imponga.
 
@@ -513,9 +527,15 @@ El Oficial Mayor en todo caso ordenará lo que fuere más conveniente al buen de
 
 Todo el personal de la Legislatura guardará durante las horas de trabajo compostura y subordinación, cuando algún empleado violare las anteriores prevenciones, el Oficial Mayor, en su carácter de jefe inmediato podrá llamarle la atención y en caso de reincidencia procederá de conformidad con lo establecido en la Ley de la Materia.
 
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 42.
 
-El Presidente de la Gran Comisión nombrará a los empleados y cubrirá las vacantes que resulten necesarias para el servicio de la Legislatura.
+El Presidente de la Junta de Coordinación Política nombrará a los empleados y cubrirá las vacantes que resulten necesarias para el servicio de la Legislatura.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2009)</small>
 
@@ -529,11 +549,15 @@ La Auditoría Superior del Estado es el órgano técnico del Congreso que tiene 
 
 ### CAPITULO VII. DEL TESORERO
 
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+(REFORMADO, P.O. 23 DE JULIO DE 2010) (F. DE E., [N. DE E. REPUBLICADO] P.O. 26 DE JULIO DE 2010)
+
 ###### ARTICULO 44.
 
-Para la administración de los recursos económicos, el Congreso tendrá un tesorero que será nombrado por el pleno a propuesta del Presidente de la Gran Comisión, el cual deberá contar con los mismos requisitos señalados para el Oficial Mayor.
-
-El tesorero entrará a ejercer su cargo otorgando la fianza correspondiente con los requisitos y responsabilidades para los que de igual clase previenen las Leyes.
+Para la administración de los recursos económicos, el Congreso tendrá un Tesorero que será nombrado por el pleno a propuesta del Presidente de la Junta de Coordinación Política, el cual deberá contar con los mismos requisitos señalados para el Oficial Mayor.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
 
@@ -615,9 +639,15 @@ V.- Dictámenes de proyecto de Acuerdo; y
 
 VI.- Asuntos Generales.
 
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 52.
 
-Las sesiones extraordinarias de los períodos ordinarios, se efectuarán en los días hábiles. Únicamente se efectuarán en los días inhábiles, a solicitud expresa del Ejecutivo del Estado o del Presidente de la Gran Comisión.
+Las sesiones extraordinarias de los períodos ordinarios, se efectuarán en los días hábiles. Únicamente se efectuarán en los días inhábiles, a solicitud expresa del Ejecutivo del Estado o del Presidente de la Junta de Coordinación Política.
 
 ###### ARTICULO 53.
 
@@ -653,9 +683,15 @@ Cuando lo crea conveniente la Legislatura por el voto de las dos terceras partes
 
 Si la sesión permanente fuera de varios días, la Legislatura fijará el tiempo que debe durar diariamente y mientras no termine, el Presidente al levantarla dirá: "se suspende la sesión permanente".
 
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 59.
 
-Las Sesiones Especiales serán aquellas solicitadas por los miembros de la Gran Comisión o por 5 Diputados cuando menos, y deberán comunicar esta solicitud al Presidente del Congreso, por lo menos con 3 días de anticipación; en ellos se expresará el nombre de los Diputados que harán uso de la palabra y que no excederán de los 15 minutos en sus intervenciones. Los demás Diputados en las Sesiones Especiales que deseen hacer uso de la palabra, deberán inscribirse previamente y no excediéndose de 3 con intervención máxima de 15 minutos cada uno.
+Las Sesiones Especiales serán aquellas solicitadas por los miembros de la Junta de Coordinación Política o por 5 Diputados cuando menos, y deberán comunicar esta solicitud al Presidente del Congreso, por lo menos con 3 días de anticipación; en ellos se expresará el nombre de los Diputados que harán uso de la palabra y que no excederán de los 15 minutos en sus intervenciones. Los demás Diputados en las Sesiones Especiales que deseen hacer uso de la palabra, deberán inscribirse previamente y no excediéndose de 3 con intervención máxima de 15 minutos cada uno.
 
 ###### ARTICULO 60.
 
@@ -1380,3 +1416,13 @@ UNICO.- El presente decreto entrará en vigor el día de su aprobación. Publíq
 P.O. 4 DE JULIO DE 2009.
 
 UNICO.- El presente Decreto entrará en vigor al día de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+P.O. 23 DE JULIO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 13 de noviembre de 2010. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- En todos los ordenamientos, actos y convenios celebrados por la Gran Comisión se entenderán como referidos a la Junta de Coordinación Política del Congreso del Estado.
