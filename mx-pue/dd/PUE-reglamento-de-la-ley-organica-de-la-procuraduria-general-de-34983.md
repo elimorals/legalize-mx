@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-349
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-04-12"
-last_updated: "1996-04-12"
+last_updated: "2010-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
 
-REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
+REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 23 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 12 de abril de 1996.
 
@@ -842,3 +844,17 @@ TERCERO.- El Procurador General de Justicia, expedirá en un plazo no mayor a se
 Por lo tanto mando se imprima, publique, circule para sus efectos.
 
 Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diez días del mes de abril de mil novecientos noventa y seis.- El Gobernador Constitucional del Estado.- Lic. Manuel Bartlett Díaz.- Rúbrica.- El Secretario de Gobernación.- Lic. Mario P. Marín Torres.- Rúbrica.- El Procurador General de Justicia del Estado.- Lic. Carlos Alberto Julián y Nacer.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE JULIO DE 2010.
+
+PRIMERO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. A la entrada en vigor del presente ordenamiento, quedará abrogado el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Puebla, publicado el día 12 de abril de mil novecientos noventa y seis y se derogarán todas las disposiciones de igual o menor rango que se opongan al presente ordenamiento.
+
+TERCERO. Los asuntos que a la entrada en vigor de este Reglamento se estén tramitando en las unidades administrativas que se modifican o desaparecen, pasarán al conocimiento de las unidades administrativas o especializadas que asuman sus atribuciones, salvo lo que disponga el Procurador mediante acuerdo. Las demás unidades administrativas deberán entregar los asuntos a su cargo a aquéllas a que se les hayan atribuido las funciones correspondientes.
+
+CUARTO. La Coordinación General Administrativa, previo acuerdo del Procurador, realizará las acciones necesarias para que los recursos humanos, financieros y materiales, asignados a las unidades administrativas que se modifican o desaparecen, sean transferidos a las unidades administrativas o especializadas que correspondan en los términos del presente ordenamiento y de conformidad con las normas aplicables y la disponibilidad presupuestal.
+
+QUINTO. El Procurador expedirá en un plazo no mayor a noventa días hábiles, a partir de la vigencia del presente Reglamento, los respectivos Manuales de Organización y de Procedimientos de la Dependencia.
