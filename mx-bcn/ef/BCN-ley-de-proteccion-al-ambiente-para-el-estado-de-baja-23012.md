@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2010-01-05"
+last_updated: "2010-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCION AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -433,9 +433,11 @@ XIX. El principio de subsidiariedad, que permita a las estructuras municipales d
 
 #### SECCIÓN I. Planeación ambiental
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### ARTÍCULO 15.
 
-En la planeación del desarrollo estatal y Municipal deberá incorporarse lo ambiental como una de sus dimensiones, considerar los principios e instrumentos de la política ambiental, los programas de ordenamiento ecológico y programas derivados de éste, así como las demás disposiciones aplicables sobre la materia.
+En la planeación del desarrollo estatal y municipal deberá incorporarse lo ambiental como una de sus dimensiones, considerar los principios e instrumentos de la política ambiental, la educación ambiental, los programas de ordenamiento ecológico y programas derivados de este y así como las demás disposiciones aplicables sobre la materia.
 
 En la planeación y la realización de los actos de las dependencias y entidades de la Administración Pública Estatal y Municipal, así como en el ejercicio de las atribuciones que las leyes confieran al Gobierno Estatal y los municipios para regular, promover, restringir, prohibir, orientar, y en general, inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política ambiental establecidos el Plan Estatal de Desarrollo y los planes y programas ambientales a que se refiere la presente Ley.
 
@@ -2532,3 +2534,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Ejecutivo Estatal y los Municipios deberán expedir las disposiciones legales que deriven del presente Decreto, a partir de su entrada en vigor.
 
 TERCERO.- Las obligaciones contempladas en el artículo 118 para los propietarios y poseedores de vehículos automotores en circulación, iniciarán hasta que sea publicado en los términos previstos en este Decreto, el Programa de Verificación Vehicular y, en su caso, estén operando los centros de verificación.
+
+P.O. 23 DE JULIO DE 2010.
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
