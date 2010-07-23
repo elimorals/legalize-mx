@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-transporte-publico-del-estado-de-baja-22986"
 country: "mx"
 rank: "ley_general"
 publication_date: "2001-11-09"
-last_updated: "2010-04-30"
+last_updated: "2010-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE TRANSPORTE PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -413,7 +413,9 @@ Las tarifas para el cobro del transporte público de pasajeros, se fijarán de a
 
 Las tarifas del servicio público de transporte de pasajeros, se aplicarán uniformemente a todos los usuarios, a excepción de los niños menores de tres años, quienes viajarán sin costo alguno.
 
-En el transporte masivo de pasajeros, se les aplicará el cincuenta por ciento de descuento tarifario a los estudiantes, discapacitados y adultos mayores de 60 años, en los términos del reglamento.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
+En el transporte masivo de pasajeros, se les aplicará el cincuenta por ciento tarifario a los estudiantes, personas con discapacidad, adultos mayores de 60 años; beneficio el cual se obtendrá mediante la exhibición de credencial expedida por instituciones gubernamentales o con reconocimiento oficial de la autoridad correspondiente.
 
 ###### ARTICULO 39.
 
@@ -550,3 +552,7 @@ P.O. 18 DE ABRIL DE 2008.
 P.O. 30 DE ABRIL DE 2010.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JULIO DE 2010.
+
+ÚNICO,- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial de Estado de Baja California.
