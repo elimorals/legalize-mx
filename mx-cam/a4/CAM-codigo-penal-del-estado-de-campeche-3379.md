@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "2008-08-04"
+last_updated: "2010-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CAM"
 ---
 # CODIGO PENAL DEL ESTADO DE CAMPECHE
 
-CODIGO PENAL DEL ESTADO DE CAMPECHE
+CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULO PRIMERO Y SEGUNDO TRANSITORIOS DEL CODIGO PENAL DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 4 DE AGOSTO DE 2008, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO EN LA MISMA FECHA EN QUE INICIE LA VIGENCIA DEL NUEVO CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -269,7 +267,9 @@ Las penas y medidas de seguridad son:
 
 1.- Prisión.
 
-2.- Reclusión de locos, sordomudos, degenerados y toxicómanos.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
+2.- Tratamiento por farmacodependencia con fines de rehabilitación.
 
 3.- Confinamiento.
 
@@ -317,19 +317,37 @@ La prisión consiste en la privación de la libertad corporal; será de tres dí
 
 Los procesados o sujetos a prisión preventiva y los reos políticos, serán recluidos en establecimientos o departamentos especiales.
 
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+En las instalaciones de los centros penitenciarios se prestarán servicios de rehabilitación al farmacodepend (sic) ente (sic); dichos servicios podrán prestarse en forma directa o mediante el traslaco (sic) de los procesados o sentenciados a centros de rehabilitación con los que se celebren convenios para tales efectos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JULIO DE 2010)</small>
+
+### CAPITULO II BIS. TRATAMIENTO POR FARMACODEPENDENCIA CON FINES DE REHABILITACION
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Art. 24 BIS.- En todo lo relacionado con el tratamiento por farmacodependencia con fines de rehabilitación se estará a lo dispuesto a las definiciones contenidas para tal efecto en la Ley General de Salud y en la Ley de Salud del Estado.
+
+Cuando el Ministerio Público o la autoridad judicial tenga conocimiento, mediante el dictamen médico correspondiente, de que una persona sujeta a un proceso por la comisión de algún delito es farmacodependiente, deberá informar de inmediato a las autoridades competentes para los efectos del tratamiento que corresponda.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Art. 24 TER.- Cuando se imponga sentencia condenatoria por algún delito cometido per persona en estado de ebriedad o bajo los efectos ge alguno de los narcóticos señalados en la Ley General de Salud y en la Ley de Salud para el Estado de Campeche, y se acreditó durante el proceso el uso reiterado o dependencia de los mismos, se le aplicará, además de la sanción que corresponda un tratamiento de rehabilitación, según el caso, que no excederá del término de la sanción impuesta por el delito cometido. Si el delito no mereciere sanción privativa de la libertad, el tratamiento no excederá de doce meses; siempre bajo la vigilancia del personal especializado de la autoridad competente.
+
+El tratamiento de rehabilitación mencionado en el párrafo anterior será obligatorio tratándose de sentencias condenatorias para farmacodependientes que ameriten privación de libertad, y únicamente podrá eximirse, de su cumplimiento si al momento de dictarse la sentencia el procesado acredita que ya cumplió satisfactoriamente con dicho tratamiento.
+
 ### CAPITULO III. CONFINAMIENTO
-
-### CAPITULO IV. SANCION PECUNIARIA, TRABAJO EN FAVOR DE LA COMUNIDAD Y VIGILANCIA DE LA AUTORIDAD EJECUTORA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
 
 ###### Art. 25.
 
 El confinamiento consiste en la obligación de residir en determinado lugar y no salir de él. El Ejecutivo hará la designación del lugar, conciliando las exigencias de la tranquilidad pública con la salud y las necesidades del condenado. Cuando se trate de delitos políticos, la designación la hará el juez que dictó la sentencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 1993)</small>
 
-### CAPITULO V. PERDIDA DE LOS INSTRUMENTOS Y OBJETOS DEL DELITO
+### CAPITULO IV. SANCION PECUNIARIA, TRABAJO EN FAVOR DE LA COMUNIDAD Y VIGILANCIA DE LA AUTORIDAD EJECUTORA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
 
 ###### Art. 26.
 
@@ -473,7 +491,7 @@ I.- Si no excediere del equivalente a cien salarios mínimos, se podrá conceder
 
 II.- Para el pago que exceda del equivalente a cien salarios mínimos, se podrá conceder un plazo hasta de seis meses y que se haga por tercias partes, en el caso y con las condiciones expresadas en la fracción anterior.
 
-### CAPITULO VI. AMONESTACION
+### CAPITULO V. PERDIDA DE LOS INSTRUMENTOS Y OBJETOS DEL DELITO
 
 ###### Art. 37.
 
@@ -485,7 +503,7 @@ Todos aquellos objetos que se encuentren a disposición de las autoridades inves
 
 Cuando se trate de objetos que estén a disposición de autoridades penales del Estado, éstos se remitirán a la Tesorería General del mismo, para que proceda a su venta conforme a los términos y procedimientos aplicables a la enajenación de bienes muebles del Estado. Su producto se entregará al Ejecutivo del Estado para el mejoramiento de las instituciones de la Entidad destinadas al tratamiento de menores infractores de las leyes penales.
 
-### CAPITULO VII. APERCIBIMIENTO Y CAUCION DE NO OFENDER
+### CAPITULO VI. AMONESTACION
 
 ###### Art. 39.
 
@@ -493,7 +511,7 @@ La amonestación consiste en la advertencia que el juez dirige al acusado, haci�
 
 Esta amonestación se hará en público o en lo privado, según parezca prudente al juez.
 
-### CAPITULO VIII. SUSPENSION DE DERECHOS
+### CAPITULO VII. APERCIBIMIENTO Y CAUCION DE NO OFENDER
 
 ###### Art. 40.
 
@@ -503,19 +521,7 @@ El apercibimiento consiste en la conminación que el juez hace a una persona, cu
 
 Cuando los jueces estimen que no es suficiente el apercibimiento, exigirán además al acusado una caución de no ofender.
 
-### CAPITULO VIII BIS. INHABILITACION, DESTITUCION Y SUSPENSION DE FUNCIONES, EMPLEOS O PARA EJERCER ALGUNA PROFESION
-
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2000)</small>
-
-Art. 43 BIS.- La inhabilitación es la pena consistente en la prohibición o impedimento absoluto para volver a ejercer alguna función o empleo públicos o una profesión.
-
-La suspensión es la pena consistente en la prohibición o impedimento temporal para el ejercicio de la función o empleo públicos o la profesión que se desempeñaba en el momento de la comisión del ilícito.
-
-La destitución es la pena consistente en la cesación definitiva del ejercicio de una función o empleo públicos.
-
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2000)</small>
-
-Art. 43 TER.- El efecto de las penas de inhabilitación y suspensión se iniciará a partir del momento en que termine la pena privativa de libertad; el de la pena de destitución, a partir de que cause ejecutoria la sentencia que la imponga.
+### CAPITULO VIII. SUSPENSION DE DERECHOS
 
 ###### Art. 42.
 
@@ -533,11 +539,23 @@ En el segundo caso, si la suspensión se impone con otra sanción privativa de l
 
 La pena de prisión produce la suspensión de los derechos políticos y los de ser tutor, curador, apoderado, defensor, albacea, perito, depositario o interventor judicial, síndico o interventor en quiebra, árbitro, arbitrador o representante de ausentes. La suspensión comenzará desde que cause ejecutoria la sentencia respectiva, y durará todo el tiempo de la condena.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE ABRIL DE 2000)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE ABRIL DE 2000)</small>
+
+### CAPITULO VIII BIS. INHABILITACION, DESTITUCION Y SUSPENSION DE FUNCIONES, EMPLEOS O PARA EJERCER ALGUNA PROFESION
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2000)</small>
+
+Art. 43 BIS.- La inhabilitación es la pena consistente en la prohibición o impedimento absoluto para volver a ejercer alguna función o empleo públicos o una profesión.
+
+La suspensión es la pena consistente en la prohibición o impedimento temporal para el ejercicio de la función o empleo públicos o la profesión que se desempeñaba en el momento de la comisión del ilícito.
+
+La destitución es la pena consistente en la cesación definitiva del ejercicio de una función o empleo públicos.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2000)</small>
+
+Art. 43 TER.- El efecto de las penas de inhabilitación y suspensión se iniciará a partir del momento en que termine la pena privativa de libertad; el de la pena de destitución, a partir de que cause ejecutoria la sentencia que la imponga.
 
 ### CAPITULO IX. PUBLICACION ESPECIAL DE SENTENCIA
-
-### CAPITULO I. REGLAS GENERALES
 
 ###### Art. 44.
 
@@ -559,9 +577,7 @@ Si el delito por el que se impuso la publicación de sentencia fue cometido por 
 
 ## TITULO TERCERO. APLICACION DE LAS SANCIONES
 
-### CAPITULO II. APLICACION DE SANCIONES A LOS DELITOS CULPOSOS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
+### CAPITULO I. REGLAS GENERALES
 
 ###### Art. 48.
 
@@ -615,9 +631,11 @@ Siempre que con un solo hecho ejecutado en un solo acto, o con una omisión, se 
 
 Cuando un delito pueda ser considerado bajo dos o más aspectos, y bajo cada uno de ellos merezca una sanción diversa, se impondrá la mayor.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE AGOSTO DE 1994)</small>
 
-### CAPITULO III. APLICACION DE SANCIONES EN CASO DE TENTATIVA
+### CAPITULO II. APLICACION DE SANCIONES A LOS DELITOS CULPOSOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
 
 ###### Art. 57.
 
@@ -645,7 +663,7 @@ V.- El estado del equipo y demás condiciones de funcionamiento mecánico, trat�
 
 En los casos a que se refiere la primera parte del primer párrafo del artículo anterior se exceptúa, de la reducción de las penas, la reparación del daño la cual deberá cubrirse íntegramente. Siempre que al delito doloso corresponda sanción alternativa que incluya una pena no privativa de libertad aprovechará esa situación al responsable de delito culposo. Cuando para la persecución del delito doloso se amerite querella, lo mismo se requerirá si el mismo delito se comete en forma culposa, siempre que la ley no disponga otra cosa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 59.
 
@@ -659,7 +677,7 @@ Cuando por imprudencia y con motivo del tránsito de vehículos se ocasionen cua
 
 No se aplicará pena alguna a quien por imprudencia en el manejo de vehículos ocasione lesiones u homicidio, a su cónyuge, concubino, hijos, padres o hermanos. Si hubiere únicamente daño en bienes de cualquiera de éstos, el delito sólo será perseguible a petición de parte.
 
-### CAPITULO IV. APLICACION DE SANCIONES A LOS RESPONSABLES DE VARIOS DELITOS Y A LOS REINCIDENTES
+### CAPITULO III. APLICACION DE SANCIONES EN CASO DE TENTATIVA
 
 ###### Art. 60.
 
@@ -669,7 +687,7 @@ A los responsables de tentativas punibles, se les aplicará a juicio del juez y 
 
 En los casos de tentativa en que no fuere posible determinar el daño que se pretendió causar, cuando éste fuere determinante para la correcta adecuación típica, se aplicará hasta la mitad de la sanción señalada en el párrafo anterior.
 
-### CAPITULO V. RECLUSION PARA ENFERMOS MENTALES Y SORDOMUDOS
+### CAPITULO IV. APLICACION DE SANCIONES A LOS RESPONSABLES DE VARIOS DELITOS Y A LOS REINCIDENTES
 
 ###### Art. 61.
 
@@ -687,7 +705,7 @@ A los reincidentes se les aplicará la sanción que debería imponérseles por e
 
 La sanción de los delincuentes habituales no podrá bajar de la que se les impondría como simples reincidentes, de acuerdo con lo dispuesto en el artículo anterior.
 
-### CAPITULO VI. SUBSTITUCION Y CONMUTACION DE SANCIONES
+### CAPITULO V. RECLUSION PARA ENFERMOS MENTALES Y SORDOMUDOS
 
 ###### Art. 64.
 
@@ -705,7 +723,7 @@ En igual forma procederá el juez con los procesados o condenados que enloquezca
 
 En los casos previstos en este capítulo, las personas o enfermos a quienes se aplica reclusión, podrán ser entregados a quienes legalmente corresponda hacerse cargo de ellos, siempre que se obliguen a tomar las medidas adecuadas para su tratamiento y vigilancia, garantizando, por cualquier medio y a satisfacción de la autoridad judicial, el cumplimiento de las obligaciones contraídas. La autoridad podrá resolver sobre la modificación o conclusión de la medida, en forma provisional o definitiva, considerando las necesidades del tratamiento, las que se acreditarán mediante revisiones periódicas, con la frecuencia y características del caso.
 
-### CAPITULO I. EJECUCION DE LAS SENTENCIAS
+### CAPITULO VI. SUBSTITUCION Y CONMUTACION DE SANCIONES
 
 ###### Art. 67.
 
@@ -749,7 +767,7 @@ Para la procedencia de la substitución y la conmutación, se exigirá al conden
 
 ## TITULO CUARTO. EJECUCION DE LAS SENTENCIAS
 
-### CAPITULO II. LIBERTAD PREPARATORIA Y RETENCION
+### CAPITULO I. EJECUCION DE LAS SENTENCIAS
 
 ###### Art. 74.
 
@@ -767,11 +785,13 @@ III.- La elección de medios adecuados para combatir los factores que más direc
 
 IV.- La orientación del tratamiento en vista de la mejor readaptación del delincuente y de la posibilidad, para éste, de subvenir con su trabajo a sus necesidades.
 
-### CAPITULO III. CONDENA CONDICIONAL
+### CAPITULO II. LIBERTAD PREPARATORIA Y RETENCION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### Art. 76.
 
-Se concederá libertad preparatoria al condenado a sanción privativa de la libertad por más de dos años, previo el informe a que se refiere el Código de Procedimientos Penales, que hubiere cumplido las tres quintas partes de su condena, si se trata de delitos intencionales, o la mitad de la misma en caso de delitos imprudenciales, siempre y cuando cumpla con los siguientes requisitos:
+Se concederá libertad preparatoria al sentenciado a sanción privativa de la libertad por más de dos años previo el informe a que se refiere el Código de Procedimientos Penales del Estado, que hubiere cumplido las tres quintas partes de su sentencia, si se trata de delitos intencionales, o la mitad de la misma en caso de delitos ·imprudenciales, siempre y cuando cumpla con los siguientes requisitos:
 
 I.- Que haya observado buena conducta durante la ejecución de su sentencia;
 
@@ -785,9 +805,17 @@ a) Residir o, en su caso, no residir en lugar determinado, e informar a la autor
 
 b) Desempeñar en el plazo que la resolución determine, oficio, arte, industria o profesión lícitos, si no tuviere medios propios de subsistencia;
 
-c) Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes o substancias de efectos análogos, salvo por prescripción médica;
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
-d) Sujetarse a las medidas de orientación y supervisión que se le dicten y a la vigilancia de alguna persona honrada y de arraigo, que se obligue a informar sobre su conducta, presentándolo siempre que para ello fuere requerida.
+c) Abstenerse del consumo de bebidas embriagantes y del empleo de narcóticos o sustancias de efectos análogos, salvo por prescripción médica; y
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
+d) sujetarse a las medidas de orientación y supervisión que se le dicten y a la vigencia de alguna persona que se obligue a informar sobre su conducta y a presentarlo siempre que para ello fuere requerida.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Para el otorgamiento de la libertad preparatoria no se tendrá en cuenta el haber sido considerado farmacodependiente como antecedente de mala conducta, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente para su rehabilitación, bajo la vigilancia de la autoridad ejecutora, a menos que acredite haberlo concluido ya satisfactoriamente.
 
 ###### Art. 77.
 
@@ -819,11 +847,13 @@ Las sanciones privativas de libertad, siempre que excedan de un año, se entiend
 
 La retención se hará efectiva cuando a juicio del Ejecutivo, el condenado con esa calidad tenga mala conducta durante la segunda mitad de su condena, resistiéndose al trabajo, incurriendo en faltas graves de disciplina o en graves infracciones a los reglamentos del establecimiento penal.
 
-### CAPITULO I. MUERTE DEL DELINCUENTE
+### CAPITULO III. CONDENA CONDICIONAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### Art. 82.
 
-El otorgamiento y disfrute de los beneficios de la condena condicional, se sujetarán a las siguientes normas:
+El otorgamiento de los beneficios· de la condena condicional se sujetará a las siguientes normas:
 
 I.- El juez o tribunal, en su caso, al dictar sentencia de condena o en la hipótesis que establece la fracción X de este artículo, suspenderán motivadamente la ejecución de las penas, a petición de parte o de oficio, si concurren estas condiciones:
 
@@ -843,7 +873,9 @@ b) Obligarse a residir en determinado lugar, del que no podrá ausentarse sin pe
 
 c) Desempeñar en el plazo que se le fije, profesión, arte, oficio u ocupación lícitos;
 
-d) Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes de efectos análogos, salvo por prescripción médica;
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
+d) Abstenerse del consumo de bebidas embriagantes y del empleo de narcóticos o substancias de efectos análogos, salvo por prescripción médica;
 
 e) Reparar el daño causado;
 
@@ -865,23 +897,27 @@ IX.- En caso de falta de cumplimiento de las obligaciones contraídas por el con
 
 X.- El reo que considere que al dictarse sentencia reunía las condiciones fijadas en este precepto y que está en aptitud de cumplir los demás requisitos que se establecen, si es por inadvertencia de su parte o de los tribunales que no obtuvo en la sentencia el otorgamiento de la condena condicional, podrá promover que se le conceda, abriendo el incidente respectivo ante el juez de la causa.
 
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Para el otorgamiento de la condena condicional no se tendrá en cuenta el haber sido considerado farmacodependiente como antecedente de mala conducta, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente para su rehabilitación bajo la vigilancia de la autoridad ejecutora, a menos que acredite haberlo concluido ya satisfactoriamente.
+
 ## TITULO QUINTO. EXTINCION DE LA RESPONSABILIDAD PENAL
 
-### CAPITULO II. AMNISTIA
+### CAPITULO I. MUERTE DEL DELINCUENTE
 
 ###### Art. 83.
 
 La muerte del delincuente extingue la acción penal, así como las sanciones que se le hubieren impuesto, a excepción de la reparación del daño, y la de decomiso de los instrumentos con que se cometió el delito y de las cosas que sean efecto de él.
 
-### CAPITULO III. PERDON Y CONSENTIMIENTO DEL OFENDIDO
-
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1994)</small>
+### CAPITULO II. AMNISTIA
 
 ###### Art. 84.
 
 La amnistía extingue la acción penal y las sanciones impuestas, excepto la reparación del daño, en los términos de la ley que se dictare concediéndola, y si no se expresaren, se entenderá que la acción penal y las sanciones impuestas se extinguen con todos sus efectos, con relación a todos los responsables del delito.
 
-### CAPITULO IV. INDULTO
+### CAPITULO III. PERDON Y CONSENTIMIENTO DEL OFENDIDO
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1994)</small>
 
 ###### Art. 85.
 
@@ -893,7 +929,7 @@ Lo dispuesto en el párrafo anterior es igualmente aplicable a los delitos que s
 
 Si fueren varios los ofendidos, el perdón concedido por algunos de éstos, no extinguirá la acción que compete a los otros. Si los delincuentes fueren varios, el perdón otorgado a favor de uno, aprovechará a los otros.
 
-### CAPITULO V. REHABILITACION
+### CAPITULO IV. INDULTO
 
 ###### Art. 87.
 
@@ -915,7 +951,7 @@ Podrá concederse indulto cuando el reo haya prestado importantes servicios a la
 
 El indulto en ningún caso extinguirá la obligación de reparar el daño causado, excepto en el caso del artículo 89.
 
-### CAPITULO VI. PRESCRIPCION
+### CAPITULO V. REHABILITACION
 
 ###### Art. 92.
 
@@ -925,9 +961,7 @@ La rehabilitación tiene por objeto reintegrar al condenado en los derechos civi
 
 También procede la rehabilitación cuando la condena consista en la suspensión o inhabilitación para desempeñar un cargo o empleo o para ejercer una profesión.
 
-### CAPITULO I. DELITOS CONTRA LA CONSTITUCION
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+### CAPITULO VI. PRESCRIPCION
 
 ###### Art. 94.
 
@@ -1011,7 +1045,7 @@ La sanción pecuniaria prescribirá en un año; las demás sanciones se prescrib
 
 Cuando el reo hubiere extinguido ya una parte de su sanción, se necesitará para la prescripción tanto tiempo como el que falte de la condena y una cuarta parte más de ese tiempo; pero estos dos periodos no excederán de quince años.
 
-> <small>(REFORMADO, PRIMER PARRAFO P.O. 31 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, PRIMER PÁRRAFO P.O. 31 DE AGOSTO DE 1994)</small>
 
 ###### Art. 109.
 
@@ -1033,9 +1067,9 @@ Para la prescripción de las acciones penales, se tendrá como base el término 
 
 ## TITULO SEXTO. DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
-### CAPITULO II. SEDICION
+### CAPITULO I. DELITOS CONTRA LA CONSTITUCION
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 113.
 
@@ -1065,7 +1099,7 @@ Si el infractor es un funcionario o empleado público del Estado será condenado
 
 Si un ministro de cualquier culto, prevalido de su ministerio o en ejercicio de sus funciones, cometiere alguno de los hechos delictuosos a que se refieren los dos artículos anteriores y los mencionados en los dos capítulos siguientes, además de las sanciones que correspondan, quedará inhabilitado para el desempeño de su ministerio en el Estado.
 
-### CAPITULO III. MOTIN
+### CAPITULO II. SEDICION
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
@@ -1075,7 +1109,9 @@ Se aplicará la pena de seis meses a ocho años de prisión y multa hasta de ses
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición, se les aplicará la pena de tres a diez años de prisión y multa hasta de cien salarios mínimos.
 
-### CAPITULO IV. REBELION
+### CAPITULO III. MOTIN
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 117.
 
@@ -1083,9 +1119,7 @@ Se aplicará la pena de seis meses a siete años de prisión y multa hasta de tr
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de motín, se les aplicará la pena de dos a diez años de prisión y multa hasta de cien salarios mínimos.
 
-### CAPITULO V. CONSPIRACION
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+### CAPITULO IV. REBELION
 
 ###### Art. 118.
 
@@ -1099,7 +1133,7 @@ III.- Para separar de su cargo, obligar a renunciar, o privar de la libertad con
 
 IV.- Para sustraer de la obediencia del Gobierno todo el Estado o parte de él, o algún cuerpo de policía o tropa local.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 119.
 
@@ -1111,7 +1145,7 @@ I.- Al que, residiendo en territorio ocupado por el gobierno, bajo la protecció
 
 II.- Al funcionario público que teniendo por razón de su empleo o cargo, el plano de una fortificación, o sabiendo el secreto de una expedición militar, revele éste o entregue aquél a los rebeldes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 120.
 
@@ -1157,7 +1191,7 @@ No se aplicará sanción a los que espontáneamente depongan las armas antes de 
 
 Las sanciones a que se refiere este capítulo sólo dejarán de aplicarse en el caso de que, interviniendo el Ejecutivo de la Unión en la forma que prescribe el artículo 122 de la Constitución Política de la República, con motivo de la rebelión, los rebeldes adquieran el carácter de reos de delitos del orden federal y sean juzgados y castigados como tales.
 
-### CAPITULO VI. TERRORISMO
+### CAPITULO V. CONSPIRACION
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
@@ -1165,7 +1199,9 @@ Las sanciones a que se refiere este capítulo sólo dejarán de aplicarse en el 
 
 Se impondrá pena de uno a cinco años de prisión y multa hasta de treinta días de salario mínimo a quienes resuelvan de concierto cometer uno o varios de los delitos previstos en el presente Título y acuerden los medios de llevar a cabo su determinación.
 
-### CAPITULO VII. DISPOSICIONES COMUNES PARA LOS CAPITULOS DE ESTE TITULO
+### CAPITULO VI. TERRORISMO
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 127.
 
@@ -1173,7 +1209,7 @@ Se impondrá pena de prisión de dos a cuarenta años y multa hasta de trescient
 
 Se aplicará la pena de uno a nueve años de prisión y multa hasta de sesenta días de salario mínimo al que teniendo conocimiento de las actividades de un terrorista y de su identidad no lo haga saber a las autoridades.
 
-### CAPITULO I. EVASION DE PRESOS
+### CAPITULO VII. DISPOSICIONES COMUNES PARA LOS CAPITULOS DE ESTE TITULO
 
 ###### Art. 128.
 
@@ -1199,7 +1235,7 @@ Se aplicará pena de cinco a cuarenta años de prisión y multa de treinta a tre
 
 ## TITULO SEPTIMO. DELITOS CONTRA LA SEGURIDAD PUBLICA
 
-### CAPITULO II. QUEBRANTAMIENTO DE SANCION
+### CAPITULO I. EVASION DE PRESOS
 
 ###### Art. 132.
 
@@ -1221,7 +1257,7 @@ Si la reaprehensión del prófugo se lograre por gestiones del responsable de la
 
 Al preso que se fugue no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros presos y se fugue alguno de ellos o ejerciere violencia en las personas, en cuyo caso la pena aplicable será de seis meses a tres años de prisión.
 
-### CAPITULO III. ARMAS PROHIBIDAS
+### CAPITULO II. QUEBRANTAMIENTO DE SANCION
 
 ###### Art. 137.
 
@@ -1245,9 +1281,7 @@ II.- A aquél a quien se hubiere prohibido ir a determinado lugar o residir en �
 
 El reo suspenso en su profesión u oficio, o inhabilitado para ejercerlos, que quebrante su condena, pagará una multa de uno a diez días de salario mínimo. En caso de reincidencia, se duplicará la multa y se aplicará prisión de uno a seis años.
 
-### CAPITULO IV. ASOCIACIONES DELICTUOSAS
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+### CAPITULO III. ARMAS PROHIBIDAS
 
 ###### Art. 141.
 
@@ -1261,7 +1295,7 @@ III.- Las bombas, aparatos explosivos o de gases asfixiantes o tóxicos y las de
 
 IV.- Las que otras leyes designen como tales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 142.
 
@@ -1277,7 +1311,9 @@ En todos los casos incluidos en este artículo, además de las sanciones señala
 
 Los funcionarios y agentes de la autoridad pueden llevar las armas necesarias para el ejercicio de su cargo.
 
-### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION
+### CAPITULO IV. ASOCIACIONES DELICTUOSAS
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 143.
 
@@ -1299,9 +1335,7 @@ Cuando el miembro de la pandilla sea o haya sido servidor público de alguna cor
 
 ## TITULO OCTAVO. DELITOS EN MATERIA DE VIAS DE COMUNICACION Y DE CORRESPONDENCIA
 
-### CAPITULO II. VIOLACION DE CORRESPONDENCIA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION
 
 ###### Art. 144.
 
@@ -1315,7 +1349,7 @@ Se llaman caminos públicos las vías de tránsito habitualmente destinadas al u
 
 Al que quite, corte o destruya las ataderas que detengan una embarcación u otro vehículo, o quite el obstáculo que impida o modere su movimiento, se le aplicará prisión de quince días a dos años si no resultare daño alguno; si se causare se aplicará además la sanción correspondiente por el delito que resulte.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 147.
 
@@ -1359,7 +1393,7 @@ Al que empleando explosivos o materias incendiarias, o por cualquier otro medio,
 
 Si en el vehículo de que se trate no se hallare persona alguna, se aplicará prisión de cinco a veinte años.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 151.
 
@@ -1373,9 +1407,9 @@ II.- Al que en estado de ebriedad o bajo el influjo de drogas enervantes, cometa
 
 Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de aplicar las sanciones por el delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos, por un tiempo que no baje de un mes ni exceda de un año. En caso de reincidencia, la inhabilitación será definitiva.
 
-### CAPITULO I. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+### CAPITULO II. VIOLACION DE CORRESPONDENCIA
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 153.
 
@@ -1405,7 +1439,9 @@ Si resultare daño, se duplicará la sanción fijada por el artículo anterior.
 
 ## TITULO NOVENO. DELITOS CONTRA LA AUTORIDAD
 
-### CAPITULO II. OPOSICION A QUE SE EJECUTE ALGUNA OBRA O TRABAJOS PUBLICOS
+### CAPITULO I. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 158.
 
@@ -1439,7 +1475,7 @@ El que, debiendo ser examinado en juicio y sin que lo aprovechen las excepciones
 
 Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubieren agotado los medios de apremio.
 
-### CAPITULO III. QUEBRANTAMIENTO DE SELLOS
+### CAPITULO II. OPOSICION A QUE SE EJECUTE ALGUNA OBRA O TRABAJOS PUBLICOS
 
 ###### Art. 164.
 
@@ -1455,7 +1491,7 @@ Cuando el delito se cometa por varias personas, de común acuerdo, la sanción s
 
 A las sanciones de que hablan los dos artículos que preceden, se podrá agregar una multa de dos a diez días de salario mínimo, cuando no hubiere lugar a la reparación del daño.
 
-### CAPITULO IV. DELITOS COMETIDOS CONTRA FUNCIONARIOS PUBLICOS
+### CAPITULO III. QUEBRANTAMIENTO DE SELLOS
 
 ###### Art. 167.
 
@@ -1467,9 +1503,7 @@ Al que quebrante los sellos puestos por orden de la autoridad pública, se le ap
 
 Cuando de común acuerdo, quebrantaren las partes interesadas en un negocio civil los sellos puestos por la autoridad pública, pagarán una multa de veinte a cien días de salario mínimo.
 
-### CAPITULO V. ULTRAJES A INSIGNIAS PUBLICAS
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+### CAPITULO IV. DELITOS COMETIDOS CONTRA FUNCIONARIOS PUBLICOS
 
 ###### Art. 169.
 
@@ -1481,7 +1515,7 @@ Al que cometa un delito en contra de un funcionario público o agente de la auto
 
 Los ultrajes hechos al Congreso del Estado, a un tribunal o a un jurado, o a un cuerpo colegiado de la administración de justicia o a cualquiera institución pública, se castigarán con tres días a seis meses de prisión y multa de cincuenta a cien días de salario mínimo.
 
-### CAPITULO I. DEL PELIGRO DE CONTAGIO
+### CAPITULO V. ULTRAJES A INSIGNIAS PUBLICAS
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
@@ -1497,9 +1531,9 @@ Al que ultraje insignias de las instituciones que tengan actuación pública, de
 
 ## TITULO DECIMO. DELITOS CONTRA LA SALUD
 
-### CAPITULO I. ULTRAJES A LA MORAL PUBLICA
+### CAPITULO I. DEL PELIGRO DE CONTAGIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 173.
 
@@ -1509,15 +1543,115 @@ El que a sabiendas de que está enfermo de un mal venéreo u otra enfermedad gra
 
 Se impondrá prisión de uno a cinco años, a los que valiéndose de medios eficaces, intenten propagar enfermedades.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JULIO DE 2010)</small>
+
+### CAPITULO II. DEL NARCOMENUDEO
+
+(NOTA: EL 28 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2010, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE JUNIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Art. 174 BIS.- Para efectos del presente capítulo se emplearán las siguientes definiciones:
+
+I. Narcóticos: Los estupefacientes, psicotrópicos y demás sustancias o vegetales que causen adicción o dependencia;
+
+II. Comercio: La compra y venta de algún narcótico;
+
+III. Suministro: La transmisión material, de forma directa o indirecta, de la tenencia de narcóticos, por cualquier concepto distinto de comercio;
+
+IV. Posesión: La tenencia material de narcóticos o cuando éstos están dentro del radio de acción y disponibilidad de la persona; y
+
+> <small>(F. DE E., P.O. 30 DE AGOSTO DE 2010)</small>
+
+V. Las demás definiciones que en materia de narcomenudeo establezcan la Ley General de Salud y la Ley de Salud para el Estado de Campeche.
+
+(NOTA: EL 28 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2010, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE JUNIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Art. 174 TER.- Comete el delito de narcomenudeo el que sin autorización comercie o suministre, aun gratuitamente, los narcóticos señalados en la tabla contenida en el artículo 479 de la Ley General de Salud, en las cantidades previstas en el primer párrafo del artículo 474 de la misma norma federal citada.
+
+Por la comisión de este delito se impondrán prisión de cuatro a ocho años y de doscientos a cuatrocientos días multa.
+
+La pena se incrementará de siete a quince años de prisión y de doscientos a cuatrocientos días multa, cuando:
+
+I. Los narcóticos fueren adquiridos por una persona menor de edad o por quien no tenga capacidad para comprender la relevancia de la conducta o para resistir al agente; o,
+
+II. Estas personas fueren utilizadas para el comercio o suministro de les narcóticos.
+
+Las penas que en su caso resulten aplicables por este delito serán aumentadas en una mitad, cuando:
+
+I. Se cometan por servidores públicos cuya función sea prevenir, denunciar, investigar, juzgar o ejecutar las sanciones por la comisión de los delitos previstos en el presente capítulo. Además, en este caso, se impondrá a dicho servidores públicos destitución e inhabilitación hasta por un tiempo igual al de la pena de prisión impuesta;
+
+II. Se cometan en centros educativos, asistenciales, policiales o de reclusión, o con personas que acudan a ellos, dentro de un espacio comprendido en un radio menor a trescientos metros tomando como referencia cualquier punto del perímetro exterior de tales centros; o
+
+III. La conducta sea realizada por profesionistas, técnicos, auxiliares o personal relacionado con las disciplinas de la salud en cualesquiera de sus ramas y se valgan de esta situación para cometerlos. En este caso se impondrá, además, suspensión e inhabilitación de derechos o funciones para el ejercicio profesional u oficio hasta por cinco años. En caso de reincidencia podrá imponerse, además, suspensión definitiva para el ejercicio profesional, a juicio de la autoridad judicial.
+
+(NOTA: EL 28 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2010, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE JUNIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+(ADICIONADO, P.O. 23 DE JULIO DE 2010) (F. DE E., P.O. 27 DE AGOSTO DE 2010)
+
+Art. 174 QUÁTER.- Se equipara al delito de narcomenudeo la posesión de alguno de los narcóticos señalados en la tabla contenida en el artículo 479 de la Ley General de Salud, en las cantidades previstas en el artículo 474 del mismo ordenamiento federal citado, sin la autorización correspondiente, siempre, que esa posesión sea con la finalidad de comerciarlos o suministrarlos. En este caso, se impondrá de tres a seis años de prisión y de ochenta a trescientos días multa.
+
+Cuando por las circunstancias del hecho tal posesión no pueda considerarse destinada a comercializarlos o suministrarlos se aplicará pena de diez meses a tres años de prisión y hasta ochenta días multa.
+
+(NOTA: EL 28 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2010, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE JUNIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Art. 174 QUINQUIES.- No se procederá penalmente si quien detenta la posesión de los narcóticos no rebasa las dosis máximas de consumo personal e inmediato que se establecen a continuación:
+
+l. Opio: hasta 2 gramos;
+
+II. Diacetilmorfina o Heroína: hasta 50 miligramos;
+
+III. Cannabis Sativa, índica o Mariguana: hasta 5 gramos;
+
+IV. Cocaína: hasta 500 miligramos;
+
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
+
+V. Lisergida (LSD): hasta 0.015 miligramos;
+
+VI. MDA, Metilendioxianfetamina; MDMA, dl-34-metilendioxi-n-dimetilfeniletilamina: o metanfetamina;
+
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
+
+a) En polvo, granulado o cristal, hasta 40 miligramos; y
+
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
+
+b) En tabletas o cápsulas, una unidad con peso de hasta 200 miligramos.
+
+Las dosis en las cantidades señaladas con anterioridad se presumen para consumo personal, salvo que la posesión sea detectada en algún centro educativo, asistencial, policial o de reclusión, o dentro del espacio comprendido en un radio menor a trescientos metros tomando como referencia cualquier punto del perímetro exterior de tales centros, en cuyo caso la sanción será de uno a cuatro años de prisión y hasta ochenta días multa. En todo caso, se pondrá al poseedor a disposición de las autoridades sanitarias con el propósito de que se efectúe la correspondiente orientación médica o de prevención. La información recibida por la autoridad sanitaria no deberá hacerse pública, pero podrá usarse, sin señalar identidades, para fines estadísticos.
+
+Tampoco se procederá penalmente en contra de quien posea medicamentos que contengan alguno de los narcóticos señalados en el presente artículo, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por su naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
+
+(NOTA: EL 28 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2010, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE JUNIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Art. 174 SEXIES.- Los narcóticos empleados en la comisión de los delitos a que se refiere este capítulo se pondrán a disposición de las autoridades federales, las que procederán de acuerdo con las disposiciones o leyes de la materia a su aprovechamiento lícito o a su destrucción.
+
+(NOTA: EL 28 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2010, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE JUNIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Art. 174 SEPTIES.- El juzgador, al individualizar la pena o la medida de seguridad a imponer por la comisión de algún delito previsto en este capítulo, tomará en cuenta, además de lo establecido en los artículos 48 y 49 de este Código, la cantidad y la especie de narcótico de que se -trate, así como la menor o mayor lesión o puesta en peligro de la salud pública y las condiciones personales del autor o participe del hecho o la reincidencia en su caso.
+
+(NOTA: EL 28 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2010, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE JUNIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Art. 174 OCTIES.- Si los narcóticos señalados en la tabla contenida en el artículo 479 de la Ley General de Salud, igualan o rebasan las cantidades señaladas en el artículo 474 de la misma norma federal antes citada, se pondrá al poseedor y a sus cómplices o copartícipes, en caso de que existieran, a disposición del Ministerio Público Federal.
+
 TITULO DECIMOPRIMERO
 
 DELITOS CONTRA LA MORAL PUBLICA Y LAS BUENAS COSTUMBRES
 
-### CAPITULO II. CORRUPCION DE MENORES
+### CAPITULO I. ULTRAJES A LA MORAL PUBLICA
 
-### CAPITULO III. LENOCINIO
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 175.
 
@@ -1539,9 +1673,7 @@ También se duplicará la pena prevista en este artículo cuando el responsable 
 
 Los responsables de que trata este artículo perderán la patria potestad si la ejercieran, o la tutela, o la guarda y custodia, así como el derecho de heredar a la persona ofendida; los que ejercieren profesión u oficio quedarán suspendidos en ellos por el término de dos hasta cinco años y el funcionario o servidor público serán destituidos de su cargo o empleo, e inhabilitados hasta por cinco años para desempeñar otro similar.
 
-### CAPITULO IV. PROVOCACION DE UN DELITO Y APOLOGIA DE ESTE O DE ALGUN VICIO
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+### CAPITULO II. CORRUPCION DE MENORES
 
 ###### Art. 176.
 
@@ -1585,7 +1717,7 @@ Las sanciones que señalan los artículos anteriores se duplicarán cuando el de
 
 Los delincuentes de que se trata en este Capítulo quedarán inhabilitados permanentemente para ser tutores y curadores.
 
-### CAPITULO UNICO
+### CAPITULO III. LENOCINIO
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
@@ -1609,9 +1741,9 @@ III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbu
 
 Cuando la persona cuyo cuerpo sea explotado por medio del comercio carnal sea menor de edad, se aplicará al que incubra (sic), concierte o permita dicho comercio, pena de seis a diez años de prisión y multa de 20 a 150 veces el salario mínimo vigente en el Estado, en el momento de la comisión del delito.
 
-### CAPITULO I
+### CAPITULO IV. PROVOCACION DE UN DELITO Y APOLOGIA DE ESTE O DE ALGUN VICIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 183.
 
@@ -1621,9 +1753,9 @@ TITULO DECIMOSEGUNDO
 
 REVELACION DE SECRETOS
 
-### CAPITULO II. EJERCICIO INDEBIDO DE SERVICIO PUBLICO
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 184.
 
@@ -1641,11 +1773,11 @@ TITULO DECIMOTERCERO
 
 DELITOS COMETIDOS POR SERVIDORES PUBLICOS
 
-> <small>(DEROGADA SU DENOMINACION, P.O. 19 DE DICIEMBRE DE 1984)</small>
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO III. ABUSO DE AUTORIDAD
+### CAPITULO I
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2002)</small>
 
 ###### Art. 186.
 
@@ -1665,11 +1797,11 @@ Para la individualización de las sanciones previstas en este Título, el Juez t
 
 Cuando los delitos a que se refieren los artículos 189, 192 y 195 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, las penas previstas serán aumentadas hasta en una mitad y, además, se impondrá destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JULIO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JULIO DE 2002)</small>
 
-### CAPITULO IV. COALICION DE SERVIDORES PUBLICOS
+### CAPITULO II. EJERCICIO INDEBIDO DE SERVICIO PUBLICO
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
 ###### Art. 188.
 
@@ -1687,9 +1819,9 @@ V.- Teniendo obligación por razones de empleo, cargo o comisión, de custodiar,
 
 Al que cometa el delito a que se refiere este artículo se le impondrán de dos años a siete años de prisión, de treinta a trescientos días multa y destitución e inhabilitación de dos años a siete años para desempeñar otro empleo, cargo o comisión públicos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO V. USO INDEBIDO DE ATRIBUCIONES Y FACULTADES
+### CAPITULO III. ABUSO DE AUTORIDAD
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -1723,15 +1855,15 @@ XII.- Cuando otorgue cualquier identificación en que se acredite como servidor 
 
 XIII.- Cuando ejecute cualquier otro acto arbitrario y atentatorio a los derechos garantizados en la Constitución.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO NUMERO 160, PUBLICADO EN EL P.O. DE 3 DE JULIO DE 2002, LOS PARRAFOS SEGUNDO Y TERCERO QUEDAN INTEGRADOS EN UNO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 160, PUBLICADO EN EL P.O. DE 3 DE JULIO DE 2002, LOS PÁRRAFOS SEGUNDO Y TERCERO QUEDAN INTEGRADOS EN UNO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
 Al que cometa el delito de abuso de autoridad se le impondrán de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO VI. COHECHO
+### CAPITULO IV. COALICION DE SERVIDORES PUBLICOS
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -1743,9 +1875,9 @@ Cometen el delito de coalición de servidores públicos, los que teniendo tal ca
 
 Al que cometa el delito de coalición de servidores públicos se le impondrán de dos años a siete años de prisión, de treinta a trescientos días multa y destitución e inhabilitación de dos años a siete años para desempeñar otro empleo, cargo o comisión públicos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO VIII. INTIMIDACION
+### CAPITULO V. USO INDEBIDO DE ATRIBUCIONES Y FACULTADES
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -1779,9 +1911,9 @@ Cuando el monto a que asciendan las operaciones a que hace referencia este artí
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO VII. PECULADO Y CONCUSION
+### CAPITULO VI. COHECHO
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 192.
 
@@ -1807,9 +1939,9 @@ En ningún caso se devolverá a los responsables del delito de cohecho, el diner
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO IX. EJERCICIO ABUSIVO DE FUNCIONES
+### CAPITULO VII. PECULADO Y CONCUSION
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
 ###### Art. 193.
 
@@ -1841,7 +1973,7 @@ Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientas v
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO X. TRAFICO DE INFLUENCIA
+### CAPITULO VIII. INTIMIDACION
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -1859,9 +1991,9 @@ Al que cometa el delito de intimidación se le impondrán de dos años a nueve a
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO XI. ENRIQUECIMIENTO ILICITO
+### CAPITULO IX. EJERCICIO ABUSIVO DE FUNCIONES
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 196.
 
@@ -1881,9 +2013,9 @@ Cuando la cuantía a que asciendan las operaciones a que hace referencia este ar
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO UNICO
+### CAPITULO X. TRAFICO DE INFLUENCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 197.
 
@@ -1901,7 +2033,9 @@ Al que cometa el delito de tráfico de influencia, se le impondrán de dos años
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO I. RESPONSABILIDAD MEDICA Y TECNICA
+### CAPITULO XI. ENRIQUECIMIENTO ILICITO
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
 ###### Art. 198.
 
@@ -1917,9 +2051,9 @@ TITULO DECIMOCUARTO
 
 DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO II. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
+### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
 
 ###### Art. 199.
 
@@ -2033,9 +2167,7 @@ TITULO DECIMOQUINTO
 
 RESPONSABILIDAD OFICIAL
 
-### CAPITULO I. FALSIFICACION DE ACCIONES Y OTROS DOCUMENTOS DE CREDITO PUBLICO
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+### CAPITULO I. RESPONSABILIDAD MEDICA Y TECNICA
 
 ###### Art. 202.
 
@@ -2053,9 +2185,9 @@ El artículo anterior se aplicará a los médicos que habiendo otorgado responsi
 
 Igualmente serán responsables en la forma que previene el artículo 202, todos los que causen daños indebidos en el ejercicio de una profesión, o un arte o actividad técnica.
 
-### CAPITULO II. FALSIFICACION DE SELLOS, LLAVES, PUNZONES Y MARCAS
+### CAPITULO II. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
 
 ###### Art. 205.
 
@@ -2091,9 +2223,9 @@ TITULO DECIMOSEXTO
 
 FALSEDAD
 
-### CAPITULO III. FALSIFICACION DE DOCUMENTOS EN GENERAL
+### CAPITULO I. FALSIFICACION DE ACCIONES Y OTROS DOCUMENTOS DE CREDITO PUBLICO
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 208.
 
@@ -2107,9 +2239,9 @@ Comete el delito que menciona el artículo anterior, el que falsifique obligacio
 
 Al que introduzca al Estado o ponga en circulación en él los documentos falsos que expresa el artículo anterior, se le aplicará la pena que señala el artículo 208.
 
-### CAPITULO IV. FALSEDAD EN DECLARACIONES JUDICIALES Y EN INFORMES DADOS A UNA AUTORIDAD
+### CAPITULO II. FALSIFICACION DE SELLOS, LLAVES, PUNZONES Y MARCAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 211.
 
@@ -2121,7 +2253,7 @@ II.- Al que falsifique el sello, marca o contraseña que alguna autoridad usare 
 
 III.- Al que falsifique los punzones, matrices, planchas o cualquier otro objeto que sirva para la fabricación de títulos y demás documentos a que se refiere el capítulo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 212.
 
@@ -2141,9 +2273,9 @@ IV.- Al que a sabiendas hiciere uso de los sellos o de alguno otro de los objeto
 
 Se impondrán prisión de uno a cinco años y multa de cincuenta a ciento cincuenta días de salario mínimo, al que en cualquiera forma altere las señales; marcas de sangre o de fuego, que se utilizan para distinguir el ganado, sin autorización de la persona que los tenga legalmente registrados ante la autoridad competente.
 
-### CAPITULO V. VARIACION DEL NOMBRE O DEL DOMICILIO
+### CAPITULO III. FALSIFICACION DE DOCUMENTOS EN GENERAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1996)</small>
 
 ###### Art. 214.
 
@@ -2199,9 +2331,9 @@ VI.- Los encargados de un servicio telegráfico, telefónico o de radio, que sup
 
 VII.- El que a sabiendas hiciere uso de un documento falso, sea público o privado.
 
-### CAPITULO VI. USURPACION DE FUNCIONES PUBLICAS O DE PROFESION Y USO INDEBIDO DE UNIFORMES, DISTINTIVOS O CONDECORACIONES
+### CAPITULO IV. FALSEDAD EN DECLARACIONES JUDICIALES Y EN INFORMES DADOS A UNA AUTORIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
 
 ###### Art. 218.
 
@@ -2229,7 +2361,9 @@ V.- Al que con el propósito de inculpar a alguien como responsable de un delito
 
 El testigo, perito o intérprete, que retracte espontáneamente sus falsas declaraciones rendidas ante cualquiera autoridad administrativa o judicial, antes de que se pronuncie sentencia en la instancia en que las diere, sólo pagará una multa de treinta a ciento ochenta días de salario mínimo; pero si faltare a la verdad al retractar sus declaraciones, se le aplicará la sanción que corresponda con arreglo a lo prevenido en este capítulo, considerándolo como reincidente.
 
-### CAPITULO VII. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
+### CAPITULO V. VARIACION DEL NOMBRE O DEL DOMICILIO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 220.
 
@@ -2241,7 +2375,9 @@ II.- Al que para eludir la práctica de una diligencia judicial o una ratificaci
 
 III.- Al funcionario o empleado público que, en los actos propios de su cargo, atribuyere a una persona título o nombre a sabiendas de que no le pertenece.
 
-### CAPITULO I. DELITOS CONTRA EL COMERCIO, LA INDUSTRIA, LA AGRICULTURA Y LA ESTABILIDAD ECONOMICA
+### CAPITULO VI. USURPACION DE FUNCIONES PUBLICAS O DE PROFESION Y USO INDEBIDO DE UNIFORMES, DISTINTIVOS O CONDECORACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
 
 ###### Art. 221.
 
@@ -2249,7 +2385,7 @@ Se sancionará con prisión de uno a seis años y multa de cien a trescientos d�
 
 I.- Al que, sin ser funcionario público, se atribuya ese carácter y ejerza alguna de las funciones de tal;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
 
 II.- Al que sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidas por autoridades u organismos legalmente capacitados para ello conforme a las disposiciones reglamentarias del artículo 5 de la Constitución Federal:
 
@@ -2269,7 +2405,7 @@ III.- Al que usare uniforme, insignia, distintivo o condecoración a que no teng
 
 IV.- Al que usare credenciales de servidor publico, condecoraciones, uniformes, grados jerárquicos, divisas, insignias o siglas a las que no tenga derecho. Podrá aumentarse la pena hasta la mitad de su duración y cuantía, cuando sean de uso exclusivo de alguna corporación policial.
 
-### CAPITULO II. VAGOS Y MALVIVIENTES
+### CAPITULO VII. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
 
 ###### Art. 222.
 
@@ -2283,15 +2419,13 @@ TITULO DECIMOSEPTIMO
 
 DELITOS CONTRA LA ECONOMIA DEL ESTADO Y EL BIENESTAR SOCIAL
 
-### CAPITULO I. ATENTADOS AL PUDOR, ESTUPRO Y VIOLACION
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+### CAPITULO I. DELITOS CONTRA EL COMERCIO, LA INDUSTRIA, LA AGRICULTURA Y LA ESTABILIDAD ECONOMICA
 
 ###### Art. 224.
 
 Las disposiciones de este capítulo serán aplicables por actos u omisiones sancionables que no sean de la competencia de los tribunales federales, y su vigencia será sin perjuicio de lo que dispongan las Leyes Orgánica y Reglamentaria del Artículo 28 de la Constitución General de la República.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 225.
 
@@ -2319,9 +2453,7 @@ X.- Todo acto u omisión que en cuanto al cultivo, explotación, transformación
 
 XI.- Todo acto u omisión que afecte el aborto normal de los productos de consumo necesario.
 
-### CAPITULO II. RAPTO
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
+### CAPITULO II. VAGOS Y MALVIVIENTES
 
 ###### Art. 226.
 
@@ -2337,7 +2469,9 @@ A los mendigos a quienes se aprehenda con disfraz o con armas, ganzúas o cualqu
 
 ## TITULO DECIMO OCTAVO. DELITOS CONTRA LA LIBERTAD Y EL NORMAL DESARROLLO PSICOSEXUAL
 
-### CAPITULO III. INCESTO
+### CAPITULO I. ATENTADOS AL PUDOR, ESTUPRO Y VIOLACION
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 228.
 
@@ -2381,7 +2515,7 @@ La introducción, por medio de la violencia, física o moral, por vía vaginal o
 
 Se equipara a la violación y se sancionará con la misma pena al que, sin violencia, cometa alguno de los hechos especificados en el artículo anterior en persona menor de doce años de edad o que no tenga la capacidad de comprender el significado del hecho o que por cualquiera otra causa no pueda resistirlo. Si se ejerciere violencia, física o moral, el mínimo y el máximo de la pena se aumentarán en una mitad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2002)</small>
 
 ###### Art. 235.
 
@@ -2399,9 +2533,9 @@ Si la violación fuere cometida con participación de dos o más personas, la pr
 
 Cuando como consecuencia de la comisión de estupro o violación resultaren hijos, la reparación del daño comprenderá el pago de los alimentos para éstos y para la madre, en la forma y términos de la ley civil para los casos de divorcio. Lo anteriormente dispuesto se aplicará también en los casos de rapto e incesto.
 
-### CAPITULO UNICO
+### CAPITULO II. RAPTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
 
 ###### Art. 236.
 
@@ -2427,9 +2561,7 @@ No se procederá contra el raptor sino por queja de la mujer ofendida o de su ma
 
 Cuando el rapto se acompañe con otro delito perseguible de oficio, sí se procederá contra el raptor, por este último.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+### CAPITULO III. INCESTO
 
 ###### Art. 241.
 
@@ -2443,9 +2575,9 @@ TITULO DECIMONOVENO
 
 DELITOS CONTRA EL ESTADO CIVIL Y BIGAMIA
 
-### CAPITULO I. AMENAZAS
+### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 242.
 
@@ -2475,9 +2607,9 @@ Se impondrán hasta cinco años de prisión y multa hasta de cien días de salar
 
 ## TITULO VIGESIMO. DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
-### CAPITULO II. ALLANAMIENTO DE MORADA Y ASALTO
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 245.
 
@@ -2491,7 +2623,7 @@ En este caso no se aplicará sanción a los ascendienes (sic) o descendientes, c
 
 III.- Al que exhume un cadáver sin los requisitos legales, o con violación de derechos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 246.
 
@@ -2505,7 +2637,9 @@ TITULO VIGESIMOPRIMERO
 
 DELITOS CONTRA LA PAZ Y LA SEGURIDAD DE LAS PERSONAS
 
-### CAPITULO I. LESIONES
+### CAPITULO I. AMENAZAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 247.
 
@@ -2537,7 +2671,9 @@ I.- Si lo que exigió y recibió fue dinero o algún documento o cosa estimable 
 
 II.- Si exigió que el amenazado cometiera un delito, se acumulará a la sanción de la amenaza la que le corresponda por su participación en el delito que resulte.
 
-### CAPITULO II. HOMICIDIO
+### CAPITULO II. ALLANAMIENTO DE MORADA Y ASALTO
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 250.
 
@@ -2559,7 +2695,7 @@ TITULO VIGESIMOSEGUNDO
 
 DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
-### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
+### CAPITULO I. LESIONES
 
 ###### Art. 253.
 
@@ -2631,7 +2767,7 @@ Si el ofendido fuere ascendiente del autor de una lesión, se aumentará dos añ
 
 De las lesiones que a una persona cause algún animal bravío será responsable el que con esa intención lo azuce o lo suelte, o haga esto último por descuido.
 
-### CAPITULO IV. PARRICIDIO Y OTRAS FIGURAS EN MATERIA DE PRIVACION DE LA VIDA A PARIENTES O FAMILIARES
+### CAPITULO II. HOMICIDIO
 
 ###### Art. 267.
 
@@ -2663,7 +2799,7 @@ III.- Que fue a causa de la constitución física de la víctima, o de las circu
 
 No se tendrá como mortal una lesión, aunque muera el que la recibió, cuando la muerte sea resultado de una causa anterior a la lesión y sobre la cual ésta no haya influido, o cuando la lesión se hubiere agravado por causas posteriores, como la aplicación de medicamentos positivamente nocivos, operaciones quirúrgicas desgraciadas, excesos o imprudencias del paciente o de los que lo rodearon.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 271.
 
@@ -2699,9 +2835,7 @@ III.- Cuando las lesiones sean unas mortales y otras no y se ignore quiénes inf
 
 IV.- Cuando las lesiones sólo fueren mortales por su número y no se pueda determinar quiénes las infirieron, se aplicará sanción de tres a nueve años de prisión a todos los que hubieren atacado al occiso con armas a propósito para inferir las heridas que aquél recibió.
 
-### CAPITULO V. INFANTICIDIO
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
+### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 ###### Art. 275.
 
@@ -2777,9 +2911,9 @@ I.- Declarar a los reos sujetos a la vigilancia de la policía;
 
 II.- Prohibirles ir a determinado lugar o residir en él.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE AGOSTO DE 1994)</small>
 
-### CAPITULO VI. ABORTO
+### CAPITULO IV. PARRICIDIO Y OTRAS FIGURAS EN MATERIA DE PRIVACION DE LA VIDA A PARIENTES O FAMILIARES
 
 ###### Art. 288.
 
@@ -2791,7 +2925,9 @@ Se da el nombre de parricidio al homicidio del padre, de la madre o de cualquier
 
 Al que cometa el delito de parricidio o prive de la vida a su hermano o hermana, con conocimiento de la relación de parentesco, su cónyuge, concubina o concubinario, adoptante o adoptado, se le impondrá prisión de diez a cuarenta años. Si desconociere la relación de parentesco, se estará a la punibilidad prevista en el artículo 272, sin menoscabo de observar alguna circunstancia que agrave o atenúe la sanción a que se refieren los Capítulos II y III de este Título.
 
-### CAPITULO VII. ABANDONO DE PERSONAS
+### CAPITULO V. INFANTICIDIO
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
 
 ###### Art. 290.
 
@@ -2821,9 +2957,7 @@ Si en el infanticidio tomare participación un médico, cirujano, comadrón o pa
 
 (DEROGADO, P.O. 28 DE ABRIL DE 1987)
 
-### CAPITULO I. GOLPES Y OTRAS VIOLENCIAS FISICAS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+### CAPITULO VI. ABORTO
 
 ###### Art. 294.
 
@@ -2851,9 +2985,7 @@ No es punible el aborto causado sólo por imprudencia de la mujer embarazada, o 
 
 No se aplicará sanción cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO II. INJURIAS Y DIFAMACION
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+### CAPITULO VII. ABANDONO DE PERSONAS
 
 ###### Art. 300.
 
@@ -2919,9 +3051,9 @@ TITULO VIGESIMOTERCERO
 
 DELITOS CONTRA EL HONOR
 
-### CAPITULO III. CALUMNIA
+### CAPITULO I. GOLPES Y OTRAS VIOLENCIAS FISICAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 309.
 
@@ -2949,7 +3081,9 @@ No se podrá proceder contra el autor de golpes o violencias, sino por queja del
 
 (DEROGADO, P.O. 28 DE ABRIL DE 1987)
 
-### CAPITULO IV. DISPOSICIONES COMUNES PARA LOS DOS CAPITULOS PRECEDENTES
+### CAPITULO II. INJURIAS Y DIFAMACION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 313.
 
@@ -2961,7 +3095,7 @@ Injuria es toda expresión proferida o toda acción ejecutada para manifestar de
 
 Cuando las injurias fueren recíprocas, el juez podrá, según las circunstancias, declarar exentas de pena a las dos partes o a alguna de ellas, o exigirles la caución de no ofender.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 315.
 
@@ -3005,9 +3139,9 @@ Cuando la queja fuere de calumnia, se permitirán al reo pruebas de su imputaci�
 
 No servirá de excusa de la difamación ni de la calumnia que el hecho imputado sea notorio, o que el reo no haya hecho más que reproducir lo ya publicado en el país o fuera de él.
 
-### CAPITULO UNICO
+### CAPITULO III. CALUMNIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 321.
 
@@ -3035,7 +3169,7 @@ No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se li
 
 Cuando haya pendiente un juicio en averiguación de un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que dicho juicio termine. En este caso la prescripción comenzará a correr cuando termine el juicio.
 
-### CAPITULO I. ROBO
+### CAPITULO IV. DISPOSICIONES COMUNES PARA LOS DOS CAPITULOS PRECEDENTES
 
 ###### Art. 325.
 
@@ -3067,9 +3201,9 @@ TITULO VIGESIMOCUARTO
 
 PRIVACION ILEGAL DE LA LIBERTAD Y OTRAS GARANTIAS
 
-### CAPITULO II. ABIGEATO
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 329.
 
@@ -3079,7 +3213,7 @@ I.- Al particular que, fuera de los casos previstos por la ley, detenga a otro e
 
 II.- Al que de alguna manera viole, con perjuicio de otro, los derechos y garantías establecidos por la Constitución Política del Estado, en favor de las personas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 330.
 
@@ -3089,7 +3223,7 @@ I.- Al que obligue a otro a prestarle trabajo o servicios personales sin la retr
 
 II.- Al que celebre con otro un contrato que prive a éste de la libertad o le imponga condiciones que lo constituyan en una especie de servidumbre o que se apodere de alguna persona y la entregue a otro con el objeto de que éste celebre dicho contrato.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 1987)</small>
 
 ###### Art. 331.
 
@@ -3115,9 +3249,7 @@ TITULO VIGESIMOQUINTO
 
 DELITOS EN CONTRA DE LAS PERSONAS EN SU PATRIMONIO
 
-### CAPITULO III. ABUSO DE CONFIANZA
-
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1982)</small>
+### CAPITULO I. ROBO
 
 ###### Art. 332.
 
@@ -3247,7 +3379,9 @@ III.- Cuando el valor exceda de quinientas veces, la pena será de cinco a quinc
 
 IV.- Además de la pena que corresponda conforme a las fracciones anteriores, se aplicará al delincuente hasta dos años de prisión, cuando el robo lo cometan representantes legales de empresas congeladoras o procesadoras del crustáceo, directivos de cooperativas pesqueras, o propietarios o poseedores de embarcaciones destinadas a la captura del mismo.
 
-### CAPITULO IV. FRAUDE
+### CAPITULO II. ABIGEATO
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
 
 ###### Art. 349.
 
@@ -3311,9 +3445,9 @@ Al que cometa el delito de abigeato en cualquiera especie distinta de las señal
 
 Siempre serán considerados como instrumentos del delito de abigeato, las cabalgaduras de que se sirvan los abigeos para arrear el ganado y los vehículos en que se realice su transporte o el de sus productos, así como los demás objetos que sirven para su comisión.
 
-### CAPITULO V. DESPOJO DE COSAS INMUEBLES O DE AGUAS
+### CAPITULO III. ABUSO DE CONFIANZA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1982)</small>
 
 ###### Art. 358.
 
@@ -3353,9 +3487,7 @@ Se reputa como abuso de confianza la ilegítima posesión de la cosa retenida, s
 
 El delito previsto en este capítulo solamente se perseguirá a petición de parte ofendida, siendo aplicables en lo conducente los artículos 342 y 343.
 
-### CAPITULO VI. DAÑO EN PROPIEDAD AJENA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+### CAPITULO IV. FRAUDE
 
 ###### Art. 362.
 
@@ -3443,7 +3575,7 @@ Para los efectos penales se entiende por fraccionar la división de terrenos en 
 
 Cuando el valor de lo defraudado no exceda de la cantidad equivalente a tres días del salario mínimo general aplicable en la región, se sancionará el delito con multa que podrá ascender hasta el duplo de lo defraudado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 365.
 
@@ -3451,7 +3583,7 @@ Se equipara al delito de fraude y se sancionará con prisión de seis meses a se
 
 Si el beneficio se logra como consecuencia de una promesa falsa se duplicarán las sanciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 366.
 
@@ -3479,7 +3611,7 @@ Se impondrá prisión de tres meses a tres años y multa de tres a cincuenta dí
 
 Cuando el infractor fuere una empresa, sociedad o cualquiera otra persona moral, se aplicará la regla contenida en el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 369.
 
@@ -3495,9 +3627,9 @@ Los trabajadores o cualesquiera otras personas que intervengan en la simulación
 
 El delito previsto en este capítulo solamente se perseguirá a petición de parte ofendida, siendo aplicable en lo conducente el artículo 342.
 
-### CAPITULO UNICO
+### CAPITULO V. DESPOJO DE COSAS INMUEBLES O DE AGUAS
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 371.
 
@@ -3517,9 +3649,9 @@ La pena será aplicable aún cuando el derecho a la posesión de la cosa usurpad
 
 A las penas que señala el artículo anterior se acumularán las que correspondan por la violencia o la amenaza.
 
-### CAPITULO UNICO. DELITOS EN MATERIA ELECTORAL
+### CAPITULO VI. DAÑO EN PROPIEDAD AJENA
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Art. 373.
 
@@ -3554,6 +3686,10 @@ TITULO VIGESIMOSEXTO
 ENCUBRIMIENTO
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1987)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
 
 ###### Art. 376.
 
@@ -3591,13 +3727,17 @@ Si los encubridores fuesen representantes legales de empresas pesqueras, congela
 
 Los jueces, teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que consigna el artículo 49, podrán imponer en los casos de encubrimiento a que se refieren las fracciones III, IV y V del artículo 376, en lugar de las sanciones establecidas en dicho artículo, hasta las dos terceras partes de la que correspondería al autor del delito; debiendo hacer constar especialmente en la sentencia las razones en que se funda para señalar la sanción que autoriza este artículo.
 
-> <small>(ADICIONADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 2002)</small>
+> <small>(ADICIONADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2002)</small>
 
 TITULO VIGESIMOSEPTIMO
 
 DELITOS EN MATERIA ELECTORAL
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 1991)</small>
+
+### CAPITULO UNICO. DELITOS EN MATERIA ELECTORAL
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Art. 379.
 
@@ -3771,7 +3911,7 @@ Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los ocho días del mes de Enero del año de mil novecientos setenta y cuatro.- El Gobernador Constitucional del Estado, LIC. RAFAEL RODRIGUEZ BARRERA.- El Secretario General de Gobierno, LIC. FERNANDO TRUEBA BROWN.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE DICIEMBRE DE 1975.
 
@@ -3924,3 +4064,19 @@ TERCERO.- Se derogan los delitos contenidos en las leyes locales especiales prev
 Asimismo se derogan todas las disposiciones legales y administrativas que se opongan al contenido del presente decreto.
 
 CUARTO.- La modificación o reubicación de cualquier tipo penal a que se refiere este decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos penales modificados.
+
+P.O. 23 DE JULIO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las dependencias, entidades e instituciones estatales a las que corresponda la implementación de las acciones necesarias para dar cumplimiento a las atribuciones contenidas en el (sic) este Decreto deberán realizarlas dentro del término contado a partir de la entrada en vigor del presente, hasta antes del día 21 de agosto de 2012, de conformidad con el último párrafo del artículo Primero transitorio del Decreto publicado en el Diario Oficial de la Federación con fecha 20 de agosto de 2009, en el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales.
+
+TERCERO.- Se faculta al H. tribunal de Justicia en Pleno para fijar oportunamente la fecha de acreditación de los jueces penales en materia de narcomenudeo y para dictar las bases que deban observarse en la distribución de los asuntos, respetando el plazo señalado en el artículo segundo transitorio que antecede, es decir, antes del 21 de agosto de 2012.
+
+El Titular de la Procuraduría General de Justicia del Estado, en el marco de sus atribuciones, deberá emitir los acuerdos, circulares, instructivos, bases, manuales de organización, procedimientos y/o lineamientos que resulten necesarios para la creación y funcionamiento de Agencias del Ministerio Público especializados en materia de Narcomenudeo, de conformidad con el presupuesto asignado, antes del 21 de Agosto de 2012.
+
+CUARTO.- La nueva Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche entrará en vigor en la misma fecha en que inicie la vigencia del nuevo Código de Procedimientos Penales del Estado de Campeche, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+Al entrar en vigor la Nueva Ley de Ejecución en cita, quedarán abrogadas la Ley de Ejecución de Sanciones y Penas Privativas de la Libertad en el Estado de Campeche del 11 de junio de 1999, y la Ley que establece las normas mínimas sobre readaptación social de sentenciados en el Estado de Campeche del 8 de enero de 1974.
+
+QUINTO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este Decreto.
