@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-procuraduria-general-de-justicia-del-32137"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-06-30"
-last_updated: "2009-09-14"
+last_updated: "2010-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE CAMPECHE
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS LOS DIAS 27 Y 30 DE AGOSTO DE 2010 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 30 de junio de 2003.
 
@@ -125,9 +127,23 @@ XIII. Poner a disposición de la autoridad competente a los menores de edad que 
 
 XIV. Poner a los inimputables mayores de edad a disposición de las autoridades jurisdiccionales, cuando aquellos incurran en hechos calificados como ilícitos según la legislación penal, su conducta ponga en riesgo a la sociedad y sea necesaria la aplicación de medidas de seguridad, en los términos de la legislación aplicable;
 
-XV. Certificar la documentación que extiendan durante el ejercicio de sus funciones. Durante sus diligencias serán asistidos por un Oficial Secretario; y
+XV. Certificar la documentación que extiendan durante el ejercicio de sus funciones. Durante sus diligencias serán asistidos por un Oficial Secretario; y (sic)
 
-XVI. Las demás que señalen las leyes.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+
+XVI. Acreditar, mediante dictamen médico correspondiente, la farmacodependencia de personas sujetas a procedimiento a efecto de dar aviso a la autoridad competente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2010)</small>
+
+XVII. Remitir al Ministerio Público de la Federación la Averiguación Previa de los casos de narcomenudeo, en los términos de Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2010)</small>
+
+XVIII. Dar aviso a la autoridad administrativa competente, en los casos en que tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario o de un establecimiento de cualquier naturaleza lo empleare para realizar cualquiera de las conductas a que se refiere el Capítulo II del Titulo Décimo del Código Penal del Estado o que permitiere su realización por terceros; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2010)</small>
+
+XIX. Las demás que señalen las disposiciones legales y reglamentarias.
 
 B) Por cuanto al Proceso:
 
@@ -172,6 +188,24 @@ III. Coordinar y convenir acciones con otras instituciones públicas y privadas 
 IV. Promover e intervenir de manera coordinada con las demás instituciones competentes en la materia, en asuntos del orden familiar, como instancia previa al órgano jurisdiccional; y
 
 V. Las demás que señalen las leyes.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+ARTÍCULO 5 BIS. Las atribuciones del Ministerio Público en materia de narcomenudeo comprenden:
+
+I. Promover acciones en materia de narcomenudeo ante los órganos administrativos y jurisdiccionales, según sea el caso, en los términos que dispongan las leyes;
+
+II. Coordinarse con las demás instituciones competentes en materia de narcomenudeo a efecto de optimizar el ejercicio de sus atribuciones, de conformidad con la Ley General de Salud, Código Penal Federal y Código Federal de Procedimientos Penales;
+
+III. Acreditar mediante dictamen médico correspondiente la farmacodependencia de personas sujetas a procedimiento a efecto de dar aviso a la autoridad competente;
+
+IV. Poner a disposición del Ministerio Público Federal, al autor del hecho y a sus cómplices o partícipes, en caso de que existieran, tratándose de delitos contra la salud en su modalidad de narcomenudeo, en términos de la Ley General de Salud;
+
+V. Dar aviso a la autoridad administrativa competente, en los casos en que tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario o de un establecimiento de cualquier naturaleza lo empleare para realizar cualquiera de las conductas a que se refiere el Capítulo II del Titulo Décimo del Código Penal del Estado o que permitiere su realización por terceros;
+
+VI. Realizar, por conducto de sus policías, la implementación de técnicas de investigación en materia de narcomenudeo, previa la autorización del Ministerio Público de la Federación, en términos del artículo 180 bis del Código Federal de Procedimientos Penales; y
+
+VII. Las demás que señalen las disposiciones legales y reglamentarias.
 
 ###### ARTÍCULO 6.
 
@@ -534,3 +568,19 @@ Dado en el Palacio de Gobierno del Estado, en Campeche, el día veintisiete del 
 P.O. 14 DE SEPTIEMBRE DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JULIO DE 2010.
+
+PRIMERO: El presente Decreto entrará vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Las dependencias, entidades e instituciones estatales a las que corresponda la implementación de las acciones necesarias para dar cumplimiento a las atribuciones contenidas en el (sic) este Decreto deberá realizarlas dentro del término contado a partir de la entrada en vigor del presente, hasta antes del día 21 de agosto de 2012, de conformidad con el último párrafo del artículo Primero transitorio del Decreto publicado en el Diario Oficial de la Federación con fecha 20 de agosto de 2009, en el que se reforman, y adicionan y derogan, diversas disposiciones de la Ley General de Salud del Código Penal Federal y del Código Federal de Procedimientos Penales.
+
+TERCERO: Se faculta al H Tribunal Superior de Justicia en Pleno para fijar oportunamente la fecha de acreditación de los jueces penales en materia de narcomenudeo y para dictar las bases que deban observarse en la distribución de los asuntos respetando el plazo señalado en el artículo segundo transitorio que antecede, es decir, antes del 21 de agosto de 2012.
+
+El Titular de la Procuraduría General de Justicia del Estado, en el marco de sus atribuciones, deberá emitir os (sic) acuerdos, circulares, instructivos, bases, manuales de organización, procedimientos y/o lineamientos que resulten necesarios para la creación y funcionamiento de Agencias del Ministerio Público especializados en materia de Narcomenudeo, de conformidad con el presupuesto asignado, antes del 21 de Agosto de 2012.
+
+CUARTO: La nueva Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche entrará en vigor en la misma fecha en que inicie la vigencia del nuevo Código de Procedimientos Penales del Estado de Campeche, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+Al entrar en vigor la nueva Ley de Ejecución en cita, quedarán abrogadas la Ley de Ejecución de Sanciones y Penas Privativas de la Libertad en el Estado de Campeche del 11 de junio de 1999, y la Ley que establece las normas mínimas sobre readaptación social de sentenciados en el Estado de Campeche del 8 de-enero de 1974.
+
+QUINTO: Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este Decreto.
