@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-justicia-para-adolescentes-del-estado-de-campeche-51740"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2006-09-12"
+last_updated: "2010-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, PUBLICADA EN EL D.O.F. DE 16 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. TRANSITORIOS: ARTÍCULO PRIMERO. VIGENCIA PARA LOS EFECTOS SEÑALADOS EN EL PÁRRAFO TERCERO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE JUNIO DE 2008, SE DECLARA QUE LA PRESENTE LEGISLACIÓN INCORPORA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ENTRARÁ EN VIGOR EL 18 DE JUNIO DE 2016. LOS REQUERIMIENTOS NECESARIOS PARA LA PLENA OPERACIÓN DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES DEBERÁN ESTAR INCORPORADOS EN UN PLAZO NO MAYOR A TRES AÑOS A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO. ARTÍCULO SEGUNDO. ABROGACIÓN SE ABROGA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 24 DE DICIEMBRE DE 1991 Y SUS POSTERIORES REFORMAS. SE ABROGAN TAMBIÉN LAS LEYES RESPECTIVAS DE LAS ENTIDADES FEDERATIVAS VIGENTES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES INICIADOS POR HECHOS QUE OCURRAN A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY. ARTÍCULO TERCERO. CARGA CERO LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.]</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 12 de septiembre de 2006.
 
@@ -135,7 +137,7 @@ Las sanciones que se impongan a los sujetos de esta ley deberán ser racionales 
 
 ###### Artículo 18.
 
-la operación del Sistema estará a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes.
+La operación del Sistema estará a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes.
 
 ###### Artículo 19.
 
@@ -261,7 +263,9 @@ XXVII. Los demás previstos en esta ley y en otros ordenamientos aplicables.
 
 La aplicación de esta ley estará a cargo de:
 
-I. La Procuraduría General de Justicia del Estado, por conducto del Ministerio Público Especializado, en lo sucesivo denominado Ministerio Público;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+
+l. La Procuraduría General de Justicia del Estado, por conducto del Ministerio Público Especializado en Justicia para Adolescentes y Ministerio Público Especializado en materia de Narcomenudeo, respectivamente, en lo sucesivo denominados Ministerio Público;
 
 II. La Dirección de Asistencia Jurídica Gratuita, por conducto de los Defensores de Oficio Especializados, en lo sucesivo denominado Defensores de Oficio;
 
@@ -303,9 +307,19 @@ I. Procurar las formas alternativas de justicia y los programas de justicia rest
 
 II. Someter a la calificación del Juez de Instrucción los acuerdos reparatorios que el adolescente y la víctima u ofendido hayan alcanzado;
 
-III. Solicitar, en los casos que resulte procedente, la suspensión del proceso a prueba; y
+III. Solicitar, en los casos que resulte procedente, la suspensión del proceso a prueba; y (sic)
 
-IV. Aplicar los criterios de oportunidad, en los casos en los que resulte procedente, en los términos de esta ley; y
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+
+IV. Acreditar, mediante el dictamen médico correspondiente, la farmacodependencia de los adolescentes a efecto de dar aviso a la autoridad competente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2010)</small>
+
+V. Remitir al Ministerio Público de la Federación la Averiguación Previa de los casos de narcomenudeo, cuando sea procedente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2010)</small>
+
+VI. Aplicar los criterios de oportunidad, en los casos en los que resulte procedente, en los términos de esta ley; y
 
 C. En relación con el proceso:
 
@@ -315,21 +329,45 @@ II. Recibir las pruebas que el adolescente, su familia o su defensor le presente
 
 III. Solicitar al Juez de Instrucción las órdenes de presentación y detención del adolescente, cuando procedieren;
 
-IV. Formular la remisión del caso al Juez de Instrucción y poner inmediatamente al adolescente a su disposición, en los casos en que resulte procedente;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
 
-V. Presentar el escrito de atribución de hechos y el de los medios de prueba;
+IV. En los términos que dispongan las leyes, intervenir y promover ante los órganos administrativos o jurisdiccionales, según sea el caso, en materia de narcomenudeo;
 
-VI. Solicitar fa imposición de medidas cautelares en los casos y por los tiempos previstos en esta ley;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
 
-VII. Solicitar la reparación del daño;
+V. Coordinarse con las demás instituciones competentes en materia de narcomenudeo a efecto de optimizar el ejercicio de sus atribuciones;
 
-VIII. Intervenir en todas las audiencias del proceso en los términos previstos por esta ley;
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
 
-IX. Solicitar la imposición de medidas sancionadoras;
+VI. Formular la remisión del caso al Juez de Instrucción y poner inmediatamente al adolescente a su disposición, en los casos en que resulte procedente;
 
-X. Interponer los recursos que le correspondan en los términos de esta ley o desistirse de los ya interpuestos; y
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
 
-XI. Las demás que otorguen las leyes respectivas.
+VII. Presentar el escrito de atribución de hechos y el de los medios de prueba;
+
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
+
+VIII. Solicitar la imposición de medidas cautelares en los casos y por los tiempos previstos en esta ley;
+
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
+
+XIX (SIC). Solicitar la reparación del daño;
+
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
+
+X. Intervenir en todas las audiencias del proceso en los términos previstos por esta ley;
+
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
+
+XI. Solicitar la imposición de medidas sancionadoras;
+
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
+
+XII. Interponer los recursos que le correspondan en los términos de esta ley o desistirse de los ya interpuestos; y
+
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
+
+XIII. Las demás que otorguen las leyes respectivas.
 
 ###### Artículo 27.
 
@@ -359,9 +397,19 @@ A. En relación con las garantías del adolescente:
 
 I. Velar porque a los adolescentes se les respeten los derechos fundamentales consagrados en las Constituciones, Tratados y Leyes mencionados en el artículo 1;
 
-II. Supervisar la custodia del adolescente detenido, cerciorándose que no sea incomunicado, coaccionado, intimidado, torturado o sometido a tratos crueles, inhumanos o degradantes, así como los demás que apliquen a su situación; y
+II. Supervisar la custodia del adolescente detenido, cerciorándose que no sea incomunicado, coaccionado, intimidado, torturado o sometido a tratos crueles, inhumanos o degradantes, así como los demás que apliquen a su situación; y (sic)
 
-III. Garantizar que el adolescente internado permanezca en un centro especializado, con distinción de aquellos sujetos a proceso, aquellos que estén cumpliendo medidas definitivas y de los destinados a los adultos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2010)</small>
+
+III. Supervisar la custodia del adolescente que se encuentre en tratamiento por farmacodependencia con fines de rehabilitación, y cerciorarse de que no sea incomunicado, coaccionado, intimidado, torturado o sometido a tratos crueles, inhumanos o degradantes, o cualquier otro trato que vulnere las garantías reconocidas a los menores;
+
+(REFORMADA, P.O. 23 DE JULIO DE 2010) (F. DE E., P.O. 27 DE AGOSTO DE 2010)
+
+IV. Garantizar que el adolescente que se encuentre en rehabilitación por un tratamiento de farmacodependencia permanezca en un centro especializado; y
+
+(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2010) (F. DE E., P.O. 27 DE AGOSTO DE 2010)
+
+V. Las demás que señalen otras disposiciones legales y reglamentarias.
 
 B. En lo relativo a las formas alternativas de justicia y justicia restaurativa:
 
@@ -375,13 +423,19 @@ C. En lo relativo al proceso:
 
 I. Conocer las causas instauradas en contra de los sujetos de esta ley;
 
-II. Dictar cuando correspondiere y en los plazos y términos previstos por esta ley, la sujeción a proceso y las medidas cautelares que solicite el Ministerio Público, en su caso;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+
+lI. Dictar, cuando correspondiere y en los plazos y términos previstos por esta ley, la sujeción a proceso y las medidas cautelares en general y específicamente en materia de narcomenudeo que solicite el Ministerio Publico en su caso;
 
 III. Fijar a las partes el plazo para precisión de los medios de prueba que ofrecerán en el juicio;
 
-IV. Presidir la audiencia de anticipo de prueba en los términos previstos en esta ley; y
+IV. Presidir la audiencia de anticipo de prueba en los términos previstos en esta ley; y (sic)
 
-V. Presidir la audiencia de ofrecimiento de pruebas y dictar el auto de apertura a juicio.
+V. Presidir la audiencia de ofrecimiento de pruebas y dictar el auto de apertura: a juicio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2010)</small>
+
+VI. Las demás que señalen otras disposiciones legales y reglamentarias.
 
 ###### Artículo 29.
 
@@ -611,15 +665,33 @@ II. La prohibición de salir del país, de la entidad federativa, de la localida
 
 III. La obligación de someterse al cuidado o vigilancia de una persona o institución determinada, que informe regularmente al juez;
 
-IV. La obligación de presentarse periódicamente ante el juez o ante la autoridad que él designe;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2010)</small>
 
-V. La prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares;
+IV. La obligación de someterse al cuidado de instituciones especializadas en la rehabilitación por cuestiones de farmacodependencia;
 
-VI. La prohibición de convivir o comunicarse con personas determinadas, siempre que no se afecte el derecho de defensa;
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
 
-VII. La separación inmediata del domicilio cuando se trate de delitos sexuales y la presunta víctima conviva con el adolescente o viva cerca de su domicilio; y
+V. La obligación de presentarse periódicamente ante el juez o ante la autoridad que él designe;
 
-VIII. La detención preventiva en su domicilio, centro médico o instalaciones especializadas, si el adolescente es mayor de catorce años de edad.
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
+
+VI. La prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares;
+
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
+
+VII. La prohibición de convivir o comunicarse con personas determinadas, siempre que no se afecte el derecho de defensa;
+
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
+
+VIII. La detención preventiva en su domicilio, centro médico o instalaciones especializadas en rehabilitación por farmacodependencia, si el adolescente es mayor de catorce años de edad.
+
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
+
+IX. La separación inmediata del domicilio cuando se trate de delitos sexuales y la presunta víctima conviva con el adolescente o viva cerca de su domicilio; y
+
+(REFORMADA, P.O. 23 DE JULIO DE 2010) (F. DE E., P.O. 27 DE AGOSTO DE 2010)
+
+X. La detención preventiva en su domicilio, centro médico o instalaciones especializadas, si el adolescente es mayor de catorce años de edad.
 
 ###### Artículo 47.
 
@@ -1189,7 +1261,7 @@ XI. Abstenerse de ausentarse del Estado o de una localidad; o
 
 XlI. Cumplir con los deberes de deudor alimentario.
 
-Cuando se acredite plenamente que el adolescente no puede cumplir con alguna de las obligaciones anteriores por ser contrarias a su salud, sus creencias religiosas o alguna otra causa de especial relevancia, el juez podrá substituirla, fundada v motivadamente, por otra u otras análogas que resulten razonables.
+Cuando se acredite plenamente que el adolescente no puede cumplir con alguna de las obligaciones anteriores por ser contrarias a su salud, sus creencias religiosas o alguna otra causa de especial relevancia, el juez podrá substituirla, fundada y motivadamente, por otra u otras análogas que resulten razonables.
 
 Para fijar las reglas, el juez puede disponer que el adolescente sea sometido a una evaluación previa. En ningún caso el Juez puede imponer medidas más gravosas que las solicitadas por el Ministerio Público.
 
@@ -1213,7 +1285,7 @@ La revocatoria de la suspensión del proceso no impedirá el pronunciamiento de 
 
 La suspensión del proceso a prueba no extingue las acciones civiles de la víctima o de terceros. Sin embargo, si la víctima recibe pagos en virtud de la procedencia de la suspensión, ellos se destinarán a la indemnización por daños y perjuicios que le pudiere corresponder.
 
-Transcurrido el plazo que se fije sin que la suspensión fuere revocada, cesará el proceso, debiendo decretarse de oficio o a petición de parte, el sobreseimiento.
+Transcurrido el plazo que se fije sin que la suspensión fuere revocada, cesará eI proceso, debiendo decretarse de oficio o a petición de parte, el sobreseimiento.
 
 Durante el período de suspensión del proceso a prueba quedará suspendida la prescripción de la remisión o los plazos procesales correspondientes.
 
@@ -1257,7 +1329,7 @@ X. Abstenerse de conducir vehículos automotores; y,
 
 XI. Abstenerse de ausentarse del Estado o de una localidad.
 
-Estas medidas serán susceptibles de ser aplicadas de manera conjunta o alternativa a las medidas de sanción privativas de libertad señaladas en el Capítulo II de este Título, atendiendo al principio de proporcionalidad.
+Estas medidas serán susceptibles de ser aplicadas de manera conjunta o alternativa a las medidas de sanción privativas de libertad señaladas en el Capítulo II de este Titulo, atendiendo al principio de proporcionalidad.
 
 #### Sección II. De la Amonestación
 
@@ -1385,6 +1457,10 @@ El Coordinador de Ejecución deberá comunicar al propietario, administrador o r
 
 Cuando se trate de la obligación de matricularse y asistir a un centro de educación formal o a otro cuyo objetivo sea el aprendizaje de una profesión o la capacitación para algún tipo de trabajo, el sentido preponderante de tal determinación será motivar al adolescente a iniciar, continuar o terminar sus estudios; recibir formación técnica; o, en su caso, para estar en condiciones de ingresar a la educación superior.
 
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+De igual manera, se deberá incluir en los programas educativos, talleres tendientes a la prevención contra el uso de narcóticos, planificación familiar y educación sexual.
+
 ###### Artículo 137.
 
 El tiempo de sometimiento a la institución educativa deberá ser claramente especificado en la resolución que el juez dicte, el cual no podrá ser mayor de cuatro años.
@@ -1447,29 +1523,39 @@ La falta de cumplimiento a sus obligaciones laborales, será causal de incumplim
 
 #### Sección X. De las Obligaciones de no hacer y de Atenderse Médica o Terapéuticamente
 
+(NOTA: EL 28 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2010, Y POR EXTENSIÓN DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE JUNIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### Artículo 146.
 
-Tratándose de la obligación de abstenerse de ingerir bebidas alcohólicas, drogas, estupefacientes y demás sustancias prohibidas, el juez tratará que en todo momento se cumpla con la finalidad esencial de la imposición de la medida que es la de obstaculizar el acceso del adolescente al alcohol y a todo tipo de sustancias prohibidas, contribuyendo a su restauración como persona libre de adicciones. Esta medida en ninguna manera significará un sometimiento a tratamiento alguno, dejando esta última aplicación cuando se trate de auténticas adicciones cuya dependencia sea grave.
+Tratándose de la obligación de abstenerse de ingerir bebidas alcohólicas, narcóticos SEÑALADOS EN EL ARTÍCULO 174 BIS DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE y demás sustancias prohibidas por la ley, el juez tratará que en todo momento se cumpla con la finalidad esencial de la imposición de la medida consistente en impedir el acceso del adolescente al alcohol y a todo tipo de narcóticos o sustancias prohibidas, contribuyendo a su rehabilitación como persona libre de adicciones. Esta medida consistirá en la aplicación del tratamiento que corresponda cuando se trate de farmacodependientes.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### Artículo 147.
 
-La medida que consiste en la obligación del adolescente de atenderse médica o terapéuticamente para tratamiento, en una institución pública o privada, con la finalidad de lograr su desintoxicación y el abandono de su adicción, se aplicará únicamente, además de la causa de gravedad de la adicción, cuando bajo el influjo de ésta se haya ocasionado la conducta tipificada como delito y no podrá dicho tratamiento exceder de cuatro años de aplicación.
+La medida que consiste en la obligación del adolescente de atenderse médica o terapéuticamente para tratamiento, en una institución pública o privada, con la finalidad de lograr su desintoxicación, rehabilitación y el abandono de su adicción, se aplicará únicamente cuando bajo el influjo de ésta se haya ocasionado la conducta tipificada como delito. Dicho tratamiento no excederá de un año de aplicación.
 
 ###### Artículo 148.
 
 La contravención a alguna de las disposiciones anteriores por parte del adolescente, será causa de incumplimiento de la medida.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### Artículo 149.
 
 Son deberes del Coordinador de Ejecución, respecto de las medidas de esta Sección:
 
-I. Someter a la autorización del Director de Prevención y Readaptación Social y de Reintegración de Adolescentes la realización de convenios de colaboración con laboratorios e instituciones públicas y privadas;
+I. Someter a la autorización de las autoridades encargadas de la reinserción social del adolescente la suscripción de convenios de colaboración con instituciones públicas o privadas, respecto de su reintegración a la sociedad y/o rehabilitación de los menores;
 
 II. Aplicar revisiones médicas y análisis clínicos, directamente o a través de instituciones públicas o privadas con las que se tengan convenios de colaboración, para constatar que el adolescente efectivamente se ha abstenido de ingerir sustancias no permitidas por el juez;
 
-III. Contar con el personal especializado que se requiera para aplicar los programas antes señalados; y,
+(NOTA: EL 28 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2010, Y POR EXTENSIÓN DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE JUNIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-IV. Contar con programas generales destinados a reducir y eliminar el consumo de alcohol y de sustancias prohibidas.
+III. Contar con programas generales destinados a reducir y eliminar el consumo de alcohol, así como de narcóticos SEÑALADOS EN EL ARTÍCULO 174 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE CAMPECHE y de sustancias prohibidas; y
+
+IV. Contar con el personal especializado que se requiera para aplicar los programas antes señalados y de rehabilitación de farmacodependientes.
 
 #### Sección XI. De la Abstención de Conducir Vehículos Automotores
 
@@ -2120,3 +2206,21 @@ C. Raúl Aarón Pozos Lanz, Diputado Presidente.- C. Marta Irene Novelo Lara, Di
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los once días del mes de septiembre del año dos mil seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SUBSECRETARIO "A" DE GOBIERNO ENCARGADO DEL DESPACHO DE LA SECRETARIA DE GOBIERNO POR AUSENCIA DEL TITULAR, LIC. RICARDO MEDINA FARFAN.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE JULIO DE 2010.
+
+PRIMERO: El presente Decreto entrará vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Las dependencias, entidades e instituciones estatales a las que corresponda la implementación de las acciones necesarias para dar cumplimiento a las atribuciones contenidas en el (sic) este Decreto deberá realizarlas dentro del término contado a partir de la entrada en vigor del presente, hasta antes del día 21 de agosto de 2012, de conformidad con el último párrafo del artículo Primero transitorio del Decreto publicado en el Diario Oficial de la Federación con fecha 20 de agosto de 2009, en el que se reforman, adicionan y derogan, diversas disposiciones de la Ley General de Salud del Código Penal Federal y del Código Federal de Procedimientos Penales.
+
+TERCERO: Se faculta al H Tribunal Superior de Justicia en Pleno para fijar oportunamente la fecha de acreditación de los jueces penales en materia de narcomenudeo y para dictar las bases que deban observarse en la distribución de los asuntos, respetando el plazo señalado en el artículo segundo transitorio que antecede, es decir, antes del 21 de agosto de 2012.
+
+El Titular de la Procuraduría General de Justicia del Estado, en el marco de sus atribuciones, deberá emitir os (sic) acuerdos, circulares, instructivos, bases, manuales de organización, procedimientos y/o lineamientos que resulten necesarios para la creación y funcionamiento de Agencias del Ministerio Público especializados en materia de Narcomenudeo, de conformidad con el presupuesto asignado, antes del 21 de Agosto de 2012.
+
+CUARTO: La nueva Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche entrará en vigor en la misma fecha en que inicie la vigencia del nuevo Código de Procedimientos Penales del Estado de Campeche, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+Al entrar en vigor la nueva Ley de Ejecución en cita, quedarán abrogadas la Ley de Ejecución de Sanciones y Penas Privativas de la Libertad en el Estado de Campeche del 11 de junio de 1999, y la Ley que establece las normas mínimas sobre readaptación social de sentenciados en el Estado de Campeche del 8 de-enero de 1974.
+
+QUINTO: Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este Decreto.
