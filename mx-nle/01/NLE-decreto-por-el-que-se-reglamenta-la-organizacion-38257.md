@@ -4,7 +4,7 @@ identifier: "NLE-decreto-por-el-que-se-reglamenta-la-organizacion-38257"
 country: "mx"
 rank: "decreto"
 publication_date: "2004-03-10"
-last_updated: "2004-03-10"
+last_updated: "2010-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 DECRETO POR EL QUE SE REGLAMENTA LA ORGANIZACION ADMINISTRATIVA Y FUNCIONAL DE LA CORPORACION DE PROYECTOS ESTRATEGICOS DE NUEVO LEON
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL ACUERDO EMITIDO POR EL EJECUTIVO DEL ESTADO DE NUEVO LEON, PUBLICADO EN EL P.O. DEL 23 DE JULIO DE 2010, EL PRESENTE DECRETO HA SIDO REVOCADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: REVOCADO.
 
 Decreto publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de marzo de 2004.
 
@@ -412,3 +414,15 @@ NAPOLEÓN CANTÚ CERNA
 EL C. SECRETARIO DE FINANZAS Y TESORO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE JULIO DE 2010.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los recursos humanos, materiales, económicos y demás activos y pasivos pertenecientes a la Corporación de Proyectos Estratégicos de Nuevo León que se hayan venido empleando para la atención de los asuntos que tuvo encomendados conforme al Decreto y Estatuto Interior que se revocan de conformidad con el Artículo Primero del presente Acuerdo, se asignarán y quedarán bajo el resguardo de la Secretaría de Desarrollo Económico.
+
+TERCERO.- En virtud de lo anterior, se instruye a la Secretaría de Finanzas y Tesorería General del Estado y a la Contraloría y Transparencia Gubernamental para que de manera coordinada con la Secretaría de Desarrollo Económico y en el ámbito de sus respectivas competencias, implementen las medidas de carácter financiero, administrativo y de control conducentes a la debida ejecución del presente Acuerdo.
+
+CUARTO.- Una vez que entre en vigor el presente Acuerdo, las referencias que se hagan y las atribuciones que se otorgan a la Corporación de Proyectos Estratégicos de Nuevo León en leyes, decretos, reglamentos, acuerdos, contratos, fideicomisos, reglas, manuales y demás instrumentos jurídicos, se entenderán hechas o conferidas a la Secretaria de Desarrollo Económico, a efecto de que esta dependencia pueda cumplir con lo que le determina el Artículo Segundo de este mismo Acuerdo.
