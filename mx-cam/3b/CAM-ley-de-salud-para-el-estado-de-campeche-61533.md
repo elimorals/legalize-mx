@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2009-09-14"
+last_updated: "2010-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -43,9 +43,11 @@ LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
 ### Capítulo Único
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O 23 DE JULIO DE 2010)</small>
+
 ###### Artículo 1.
 
-La presente Ley reglamenta el derecho a la protección de la salud que tiene toda persona, en los términos del artículo 4° de la Constitución Política de los Estados Unidos Mexicanos; establece las bases y modalidades, conforme al artículo 128 de la Constitución Política del Estado de Campeche, para el acceso a los servicios de salud y la protección contra riesgos sanitarios, con la concurrencia de la Federación y de los Municipios de la propia Entidad Federativa, en materia de salubridad local; y es de aplicación en todo el territorio del Estado, siendo sus disposiciones de orden público e interés social.
+La presente Ley es de orden público e interés social, tiene aplicación en todo el territorio del Estado y su objeto es la protección de la salud y establecer las bases y modalidades para el acceso a los servicios de salud y la protección contra riesgos sanitarios, en coordinación con los Municipios de la propia Entidad Federativa en materia de salubridad local, y con la concurrencia de la Federación en materia de salubridad general, en términos del Artículo 4° de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Salud. A falta de disposición expresa en esta ley, serán supletorias las disposiciones contenidas en la Ley General de Salud.
 
 Para efectos de esta ley se entenderá por:
 
@@ -73,7 +75,9 @@ j) COPRISCAM, la Comisión para la Protección Contra Riesgos Sanitarios del Est
 
 Corresponde al Estado, en los términos de la presente ley:
 
-I. En materia de salubridad general, de manera concurrente con la Federación las atribuciones a que refieren las fracciones II, II bis, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX y XX del artículo 3º de la Ley General;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+
+I. En materia de salubridad general, de manera concurrente con la Federación, el ejercicio de las atribuciones a que refieren las fracciones II, II bis, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX y XXIII del artículo 3º de la Ley General;
 
 II. En materia de salubridad local el control sanitario de:
 
@@ -95,9 +99,13 @@ h) Centros de enseñanza;
 
 i) Establos, caballerizas y establecimientos similares;
 
-j) Centros de readaptación social;
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
-k) Unidades de prevención y tratamiento de menores infractores;
+j) Centros de reinserción social y de tratamiento a farmacodependientes con fines de rehabilitación;
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
+k) Unidades de prevención y tratamiento en materia de justicia para adolescentes;
 
 l) Baños y albercas públicas;
 
@@ -120,6 +128,10 @@ t) Venta de alimentos en la vía pública;
 u) Establecimientos industriales, comerciales y de prestación de servicios; y
 
 v) Las demás materias que determinen esta ley y otras disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2010)</small>
+
+III. La persecución de los delitos contra la salud en los términos del artículo 474 de la Ley General, independientemente de las atribuciones en materia de prevención del consumo de narcóticos y tratamiento de farmacodependientes con fines de rehabilitación.
 
 ###### Artículo 3.
 
@@ -243,9 +255,11 @@ b) XIII, XIV, XXIII, XXIV, XXV, XXVI, por lo que se refiere a cadáveres; y
 
 c) XXVII, por lo que se refiere a personas.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### Artículo 13.
 
-El Estado, a través de la Secretaría Estatal, podrá convenir con los Municipios la prestación por parte de éstos de los servicios de salubridad general concurrente y salubridad local cuando su desarrollo económico y social lo haga necesario.
+El Estado, a través de la Secretaría Estatal, podrá convenir con los Municipios la prestación, por parte de éstos, de los servicios de salubridad de la competencia de la Entidad Federativa, cuando su desarrollo económico y social así lo requiera.
 
 ###### Artículo 14.
 
@@ -629,9 +643,11 @@ I. La atención de personas con padecimientos mentales, la rehabilitación psiqu
 
 II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### Artículo 71.
 
-La Secretaría Estatal, conforme a las normas oficiales mexicanas que emita la Secretaría Federal, prestará atención a los enfermos mentales que se encuentren en los centros estatales de readaptación social y de tratamiento de menores infractores o en otras instituciones no especializadas en salud mental. Para ese efecto se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+La Secretaría Estatal, de conformidad con las disposiciones contenidas en la Ley General de Salud y las normas oficiales mexicanas que emita la Secretaría Federal, prestará atención a los enfermos mentales que se encuentren en los centros estatales de reinserción social y en los centros de tratamiento y rehabilitación de farmacodependientes y centros de tratamiento y rehabilitación de personas menores a las que se refiere la Ley de Justicia para adolescentes o en otras instituciones no especializadas en salud mental. Para ese efecto se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
 ###### Artículo 72.
 
@@ -1257,6 +1273,8 @@ Se prohíbe la introducción o el transporte por el territorio del Estado de ani
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ### Capítulo I. Programa Contra el Alcoholismo
 
 ###### Artículo 143.
@@ -1307,27 +1325,37 @@ V. La atención de los padecimientos que se produzcan como consecuencia de los a
 
 VI. La promoción de la participación de la comunidad en la prevención de accidentes.
 
-## Título Décimo. Asistencia Social, Prevención y Rehabilitación de Personas con Capacidades Diferentes
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JULIO DE 2010)</small>
+
+## Título Décimo. Asistencia Social, Prevención y Rehabilitación de Personas con Discapacidad
 
 ### Capítulo III. Programa Contra la Farmacodependencia
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### Artículo 149.
 
-Para los efectos de esta Ley, se entiende por asistencia social el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad y con capacidades diferentes, hasta lograr su incorporación a una vida plena y productiva. Serán objeto de esta Ley los servicios asistenciales que presten tanto las instituciones públicas como las privadas.
+Para los efectos de esta Ley se entiende por asistencia social el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad y con discapacidad, hasta lograr su incorporación a una vida plena y productiva. Serán objeto de esta Ley los servicios asistenciales que presten tanto las instituciones públicas como las privadas.
 
 ###### Artículo 150.
 
 Son actividades básicas de asistencia social:
 
-I. La atención a personas que, por sus carencias socioeconómicas o por problemas de capacidades diferentes, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
 
-II. La atención, en establecimientos especializados, a menores y adultos mayores en estado de abandono o desamparo y personas con capacidades diferentes sin recursos;
+I. La atención a personas que, por sus carencias socioeconómicas o por problemas de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+
+II. La atención, en establecimientos especializados, a menores y adultos mayores en estado de abandono o desamparo y personas con discapacidad sin recursos;
 
 III. La promoción del bienestar del adulto mayor y el desarrollo de acciones de preparación para la tercera edad;
 
 IV. El ejercicio de la tutela de los menores en los términos de las disposiciones legales aplicables;
 
-V. La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, adultos mayores y personas con capacidades diferentes sin recursos;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+
+V. La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, adultos mayores y personas con discapacidad sin recursos;
 
 VI. La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -1345,9 +1373,11 @@ Para fomentar el desarrollo y aplicación de programas públicos y privados de a
 
 Los menores, en estado de desprotección social, tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### Artículo 153.
 
-Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a menores, mujeres, adultos mayores y personas con capacidades diferentes, sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Así mismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático del individuo.
+Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a menores, mujeres, adultos mayores y personas con discapacidad sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Así mismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático del individuo.
 
 En estos casos, las instituciones de salud del Estado podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de dichas personas, sin perjuicio de dar intervención a las autoridades competentes.
 
@@ -1355,29 +1385,47 @@ En estos casos, las instituciones de salud del Estado podrán tomar las medidas 
 
 El Sistema para el Desarrollo Integral de la Familia del Estado de Campeche (Sistema D.I.F. Estatal) es el organismo descentralizado de la Administración Pública Estatal que, conforme a la Ley de Asistencia Social para el Estado de Campeche, tiene entre sus objetivos, en coordinación con sus homólogos federal y municipales, la promoción de la asistencia social en el ámbito estatal, la prestación de servicios en ese campo y la realización de las demás acciones que establecen esa ley y demás legales y reglamentarias aplicables. Dicho organismo promoverá la interrelación sistemática de acciones que en el campo de la asistencia social lleven a cabo las instituciones públicas.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### Artículo 155.
 
-El Estado y los Municipios promoverán la creación de establecimientos en los que se dé atención a personas con padecimientos mentales, capacidades diferentes, menores desprotegidos y adultos mayores desamparados.
+El Estado y los Municipios promoverán la creación de establecimientos en los que se dé atención a personas con padecimientos mentales, discapacidad, menores desprotegidos, adultos mayores desamparados y personas farmacodependientes.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### Artículo 156.
 
-Para los efectos de esta Ley, se entiende por capacidad diferente toda capacidad física, intelectual o sensorial disminuida o limitada en forma transitoria o permanente para realizar las actividades necesarias en el normal desempeño físico, mental, social, ocupacional o económico del ser humano.
+Para los efectos de esta Ley, se entiende por discapacidad toda capacidad física, intelectual o sensorial disminuida o limitada en forma transitoria o permanente para realizar las actividades necesarias en el normal desempeño físico, mental, social, ocupacional o económico del ser humano.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### Artículo 157.
 
-La atención en la prevención y rehabilitación en materia de capacidades diferentes comprende:
+La atención en la prevención y rehabilitación en materia de discapacidad comprende:
 
-I. La investigación de las causas de las capacidades diferentes y de los factores que las condicionan;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
 
-II. La promoción de la participación de la comunidad en la prevención y control de las causas y factores condicionantes de las capacidades diferentes;
+I. La investigación de las causas de las discapacidades y de los factores que las condicionan;
 
-III. La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que puedan causar capacidades diferentes;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
 
-IV. La orientación educativa en materia de rehabilitación a la colectividad en general, en particular a las familias que cuenten con algún miembro con capacidades diferentes, promoviendo al efecto la solidaridad social;
+II. La promoción de la participación de la comunidad en la prevención y control de las causas y factores condicionantes de las discapacidades;
 
-V. La atención integral de las personas con capacidades diferentes, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
 
-VI. La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con capacidades diferentes; y
+III. La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que puedan causar discapacidades;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+
+IV. La orientación educativa en materia de rehabilitación a la colectividad en general, en particular a las familias que cuenten con algún miembro con discapacidad, promoviendo al efecto la solidaridad social;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+
+V. La atención integral de las personas con discapacidad, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+
+VI. La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad; y
 
 VII. La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
 
@@ -1385,25 +1433,33 @@ VII. La promoción de la educación y la capacitación para el trabajo, así com
 
 Los servicios de rehabilitación, que proporcionen los establecimientos que dependan del Estado, estarán vinculados sistemáticamente a los de rehabilitación y asistencia social que preste el Sistema D.I.F. Estatal.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### Artículo 159.
 
-El Estado, a través del Sistema D.I.F. Estatal, en coordinación con las dependencias y entidades federales y municipales, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional, para las personas que sufran cualquier tipo de capacidad diferente, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+El Estado, a través del Sistema para el Desarrollo Integral de la Familia del Estado, en coordinación con las dependencias y entidades federales y municipales, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional, para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### Artículo 160.
 
-El Sistema D.I.F. Estatal tendrá entre sus objetivos operar establecimientos de rehabilitación, de realizar estudios e investigaciones en materia de capacidades diferentes y participar en programas de rehabilitación y educación especial.
+El Sistema para el Desarrollo Integral de la Familia en el Estado tendrá entre sus objetivos operar establecimientos de rehabilitación, de realizar estudios e investigaciones en materia de discapacidad y participar en programas de rehabilitación y educación especial.
 
 ###### Artículo 161.
 
 La Secretaría Estatal y las autoridades educativas estatales, en los ámbitos de sus respectivas competencias, colaborarán entre sí y con otras dependencias y entidades para proporcionar atención rehabilitatoria, cuando así se requiera.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### Artículo 162.
 
-La Secretaría Estatal, en coordinación con otras dependencias y entidades, promoverá que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas con capacidades diferentes, en los términos de la Ley para el Desarrollo Integral de las Personas con Capacidades Diferentes en el Estado de Campeche.
+La Secretaría Estatal, en coordinación con otras dependencias y entidades, promoverá que en los lugares en que se presten servicios públicos se dispongan facilidades para las personas con discapacidad, en los términos de la Ley para el Desarrollo Integral de las Personas con Discapacidad en el Estado de Campeche.
 
 ## Título Undécimo. Programas Permanentes de Salud
 
-### Capítulo IV. Del Consejo Estatal Contra la (sic) Adicciones
+### Capítulo IV. Del Consejo Estatal Contra las Adicciones
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### Artículo 163.
 
@@ -1435,53 +1491,107 @@ La Secretaría Estatal vigilará el cumplimiento de las determinaciones normativ
 
 ###### Artículo 166.
 
-En el marco de los Sistemas Nacional y Estatal de Salud, la Secretaría Estatal se coordinará con la Secretaría Federal para la ejecución en el Estado del Programa Contra el Tabaquismo que comprenderá, entre otras, las siguientes acciones:
+(DEROGADO, P.O. 23 DE JULIO DE 2010)
 
-I. La prevención y el tratamiento de padecimientos originados por el tabaquismo; y
-
-II. La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia y menores de edad, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstengan de fumar en el interior de los edificios públicos estatales y municipales y en aquellos del sector social o privado en los que se preste servicio al público.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### Artículo 167.
 
-Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta los siguientes aspectos:
-
-I. La investigación de las causas del tabaquismo y de las acciones para controlarlas; y
-
-II. La educación a la familia para prevenir el consumo de tabaco por parte de menores de edad.
+Para poner en práctica las acciones contra el tabaquismo se seguirán los lineamientos que para tal efecto, emita la Secretaría Federal para la ejecución y evaluación del Programa contra el Tabaquismo, así como las demás disposiciones contenidas en la Ley General para el control del Tabaco, Ley de Protección a la Salud de los No Fumadores en el Estado de Campeche y demás normatividad aplicable, así como la investigación de las causas del tabaquismo y de las acciones para controlarlas.
 
 ###### Artículo 168.
 
-La Secretaría Estatal vigilará el cumplimiento de las determinaciones normativas relativas a tabaco, contenidas en la Ley General, en esta Ley, en los reglamentos de la materia derivados de las mismas y demás disposiciones de carácter general aplicables.
+(DEROGADO, P.O. 23 DE JULIO DE 2010)
 
 ### Capítulo VI. Programa Contra el Síndrome de Inmunodeficiencia Adquirida
 
 ###### Artículo 169.
 
-En el marco de los Sistemas Nacional y Estatal de Salud la Secretaría Estatal se coordinará con la Secretaría Federal para la ejecución en el Estado del Programa Nacional Contra la Farmacodependencia, a través de medidas tales como prevención, tratamiento, rehabilitación, educación, consecuencias y signos de alarma en relación a farmacodependencia y farmacodependientes, consignadas en la Ley General.
+En el marco de los Sistemas Nacional y Estatal de Salud, la Secretaría Estatal se coordinará con la Secretaría Federal para la ejecución en el Estado del Programa Nacional contra la Farmacodependencia, a través de las siguientes acciones:
+
+I. La prevención de la farmacodependencia y su tratamiento con fines de rehabilitación, con base en sistemas modernos de carácter científico y tecnológico fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente en cuanto a su aceptación;
+
+II. La educación sobre los efectos del uso de narcóticos, estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia, así como sus consecuencias en las relaciones sociales; y,
+
+III. La instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para y prevención y tratamiento.
+
+El Programa Nacional contra la Farmacodependencia será de observancia obligatoria para los prestadores de servicios de Salud en todo el territorio estatal y en los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia, en razón de que el Sistema de Salud Estatal forma parte del Sistema Nacional de Salud, en términos del artículo 5° de la Ley General de Salud.
+
+Las autoridades estatales en materia de salud, en el marco del Programa Nacional, serán responsables de:
+
+I. Promover y llevar a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos; y
+
+II. Proporcionar información y brindar la atención médica y los tratamientos que se requieran a las personas que consuman estupefacientes y psicotrópicos.
+
+Las campañas de información y sensibilización que reciba la población deberán estar basadas en estudios científicos y alertar de manera adecuada sobre los efectos y daños físicos y psicológicos del consumo de estupefacientes y psicotrópicos.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Artículo 169 bis.- Para la ejecución del Programa contra la Farmacodependencia por parte del Estado con la concurrencia de la Federación, además de los conceptos señalados para los mismos efectos en la Ley General en el artículo 192 bis, se entenderá por:
+
+I. Narcótico: los estupefacientes, psicotrópicos y demás sustancias o vegetales que determinen como tales, la Ley General y las demás disposiciones legales aplicables en la materia; y
+
+II. Rehabilitación: conjunto de métodos que tiene por finalidad la recuperación de una actividad o función perdida o disminuida por la adicción a narcóticos.
+
+En materia de prevención de la farmacodependencia se ofrecerá a la población el modelo de intervención temprana que considere desde la prevención y promoción de una vida saludable, hasta el tratamiento ambulatorio de calidad, en los términos que señale el Programa Nacional para la prevención y tratamiento de la farmacodependencia.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Artículo 169 ter.- Las acciones en materia de prevención del consumo de narcóticos, la atención a las adicciones y la persecución de los delitos contra la salud que se realicen en el Estado se fundamentarán en la Ley General, en especial, en los términos del artículo 474 de dicho ordenamiento federal con la concurrencia de las autoridades federales, en esta Ley, y en la legislación penal del Estado.
 
 ###### Artículo 170.
 
 La Secretaría Estatal coadyuvará con las autoridades federales correspondientes en la vigilancia de las materias a las que se contraen los artículos 234 a 256 de la Ley General.
 
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+En materia de prevención de consumo de substancias que al ser inhaladas, además de provocar efectos psicotrópicos, generen adicción o dependencia en las personas, la Secretaría Estatal, en coordinación con las autoridades federales competentes, realizará las siguientes acciones:
+
+I. Con el propósito de prevenir el consumo por parte de menores de edad, determinará y ejercerá medios de control en el expendio de las substancias señaladas en el presente artículo;
+
+II. Establecerá sistemas de vigilancia en los establecimientos destinados al expendio o utilización de las substancias de referencia;
+
+III. Brindará la atención médica que se requiera a las personas que consuman o hayan inhalado tales substancias, y que presenten efectos psicotrópicos o signos de dependencia a las mismas; y
+
+IV. Promoverá y llevará a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud provocados por la inhalación de dichas substancias.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+A los propietarios y responsables de establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que disponga la Secretaría Estatal, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley, sin perjuicio de las sanciones penales que en el caso correspondan.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Artículo 170 bis.- Para el tratamiento de los farmacodependientes, las dependencias y entidades de la administración pública estatal deberán crear centros especializados en atención y rehabilitación de farmacodependientes, en los que, al igual que en las acciones de prevención, se respeten los derechos humanos, la integridad y libre decisión del farmacodependiente.
+
+La ubicación de los centros especializados se basará en estudios rigurosos del impacto de las adicciones en cada región del Estado y deberán:
+
+I. Crear un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y rehabilitación en materia de farmacodependencia, en los términos del artículo 192 quáter de la Ley General; y
+
+II. Celebrar convenios de colaboración con instituciones nacionales o internacionales de los sectores social o privado y con personas físicas que se dediquen a la prevención, tratamiento, atención y rehabilitación en materia de farmacodependencia, con el fin de que quienes requieran de asistencia puedan, conforme a sus necesidades, características y posibilidades económicas, acceder a los servicios que estas instituciones o personas físicas ofrecen.
+
+Los centros especializados en atención y rehabilitación de farmacodependientes podrán funcionar dentro o fuera de las instalaciones de los centros de reinserción social, sin perjuicio de que éstos últimos puedan celebrar los convenios de colaboración que correspondan con las instituciones, organismos y personas físicas a los que a que se refieren las fracciones I y II del presente artículo.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+Artículo 170 ter.- El proceso de rehabilitación de la farmacodependencia debe ajustarse a las bases que la Ley General prevé en su artículo 192 sexies para el proceso de superación.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### Artículo 171.
 
-La Secretaría Estatal, en coordinación con las autoridades federales competentes, para evitar y prevenir el consumo de substancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
+Los profesionales de la salud, al prescribir medicamentos que contengan substancias que puedan producir dependencia, se atendrán a lo previsto en los Capítulos V y VI del Título Decimosegundo de la Ley General, en lo relativo a prescripción de estupefacientes y substancias psicotrópicas.
 
-I. Determinará y ejercerá medios de control en el expendio de substancias inhalantes, para prevenir su consumo por parte de menores de edad;
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
 
-II. Establecerá sistemas de vigilancia en los establecimientos destinados al expendio o uso de dichas substancias, para evitar el empleo indebido de las mismas;
+Artículo 171 bis.- Cuando el centro o institución de salud reciba reporte de no ejercicio de la acción penal, en términos del artículo 478 de la Ley General, las autoridades estatales de salud deberán citar al farmacodependiente o consumidor a efecto de proporcionarle orientación e invitarlo a tomar parte en los programas contra la farmacodependencia o en aquellos preventivos de la misma.
 
-III. Brindará la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de inhalantes; y
-
-IV. Promoverá y llevará a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes.
-
-A los propietarios y responsables de establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos, que no se ajusten al control que disponga la Secretaría Estatal se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley, sin perjuicio de las sanciones penales que en el caso correspondan.
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JULIO DE 2010)</small>
 
 ### Capítulo Único
 
 ###### Artículo 172.
 
-El Consejo Estatal Contra las Adicciones es el órgano de consulta y asesoramiento del Ejecutivo Estatal en asuntos relacionados con el problema de adicciones, con el fin de promover y apoyar las acciones de los sectores público, social y privado que tiendan a prevenir y combatir los problemas de salud pública ocasionados por las adicciones, hacer propuestas y evaluaciones de los programas que se lleven a cabo en el Estado en los rubros de alcoholismo, tabaquismo y farmacodependencia. La integración, atribuciones y funcionamiento del Consejo se regirá por lo dispuesto en el Acuerdo del Ejecutivo publicado el tres de marzo del año dos mil en el Periódico Oficial del Estado.
+El Consejo Estatal Contra las Adicciones es el órgano de consulta y asesoramiento del Ejecutivo Estatal en asuntos relacionados con el problema de adicciones, con el fin de promover y apoyar las acciones de los sectores público, social y privado que tiendan a prevenir y combatir los problemas de salud pública ocasionados por las adicciones, hacer propuestas y evaluaciones de los programas que se lleven a cabo en el Estado en los rubros de alcoholismo, tabaquismo y farmacodependencia. La integración, atribuciones y funcionamiento del Consejo se regirán por lo dispuesto en el Acuerdo de creación de dicho organismo y en las demás disposiciones jurídicas aplicables.
 
 ### Capítulo Único
 
@@ -2233,6 +2343,14 @@ La comisión de cualquiera de los delitos previstos en el Capítulo VII del Tít
 
 Cuando se detecte la comisión de actos que pudieran configurar algún delito del orden común la Secretaría Estatal procederá a dar parte a la autoridad ministerial local.
 
+(NOTA: EL 28 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2010, Y POR EXTENSIÓN DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE JUNIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+
+###### Artículo 268.
+
+Tratándose del delito de narcomenudeo y de aquellas conductas que se equiparen al mismo, se estará a lo dispuesto EN LA LEGISLACIÓN PENAL ESTATAL VIGENTE y en la Ley General, en el Código Penal Federal y Código Federal de Procedimientos Penales.
+
 ## TRANSITORIOS
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -2260,3 +2378,19 @@ P.O. 14 DE SEPTIEMBRE DE 2009.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 23 DE JULIO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las dependencias, entidades e instituciones estatales a las que corresponda la implementación de las acciones necesarias para dar cumplimiento a las atribuciones contenidas en el (sic) este Decreto deberán realizarlas dentro del término contado a partir de la entrada en vigor del presente, hasta antes del día 21 de agosto de 2012, de conformidad con el último párrafo del artículo Primero transitorio del Decreto publicado en el Diario Oficial de la Federación con fecha 20 de agosto de 2009, en el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales.
+
+TERCERO.- Se faculta al H. Tribunal Superior de Justicia en Pleno para fijar oportunamente la fecha de acreditación de los jueces penales en materia de narcomenudeo y para dictar las bases que deban observarse en la distribución de los asuntos, respetando el plazo señalado en el artículo segundo transitorio que antecede, es decir, antes del 21 de agosto de 2012.
+
+El Titular de la Procuraduría General de Justicia del Estado, en el marco de sus atribuciones, deberá emitir los acuerdos, circulares, instructivos, bases, manuales de organización, procedimientos y/o lineamientos que resulten necesarios para la creación y funcionamiento de Agencias del Ministerio Público especializados en materia de Narcomenudeo, de conformidad con el presupuesto asignado, antes del 21 de Agosto de 2012.
+
+CUARTO.- La nueva Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche entrará en vigor en la misma fecha en que inicie la vigencia del nuevo Código de Procedimientos Penales del Estado de Campeche, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+Al entrar en vigor la nueva Ley de Ejecución en cita, quedarán abrogadas la Ley de Ejecución de Sanciones y Penas Privativas de la Libertad en el Estado de Campeche del 11 de junio de 1999, y la Ley que establece las normas mínimas sobre readaptación social de sentenciados en el Estado de Campeche del 8 de enero de 1974.
+
+QUINTO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este Decreto.
