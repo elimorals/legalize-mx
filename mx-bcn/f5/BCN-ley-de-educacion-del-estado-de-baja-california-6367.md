@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2010-05-28"
+last_updated: "2010-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -203,11 +203,15 @@ XVI.- Fomentar la cultura de la prevención del delito, con el objeto de concien
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-XVII.- Favorecer el desarrollo de las facultades humanas para adquirir conocimientos, capacidad de observación, análisis y reflexión crítica; y,
+XVII.- Favorecer el desarrollo de las facultades humanas para adquirir conocimientos, capacidad de observación, análisis y reflexión crítica; y, (sic)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
 
-XVIII.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
+XVIII.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable así como de la valoración de la protección y conservación de medio ambiente como elementos esenciales para desenvolvimiento armónico e integral del individuo y la sociedad. Adicionalmente, la educación fomentará el entendimiento de los problemas ambientales, así como las medidas para prevenirlo y solucionarlos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2010)</small>
+
+XIX.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
 
 ### CAPITULO II. ATRIBUCIONES DEL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS EN MATERIA EDUCATIVA
 
@@ -1172,3 +1176,7 @@ P.O. 28 DE DICIEMBRE DE 2009.
 P.O. 28 DE MAYO DE 2010.
 
 Único.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JULIO DE 2010.
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
