@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-construccion-y-rehabilitacion-de-pavimentos-del-706
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-11"
-last_updated: "2009-09-11"
+last_updated: "2010-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA CONSTRUCCION Y REHABILITACION DE PAVIMENTOS DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 2009.
 
@@ -395,21 +395,25 @@ Para los materiales utilizables en la formación de las terracerías, las especi
 
 El Valor Soporte de California se determinará de acuerdo con las condiciones especificadas de puesta en obra, y su valor se empleará exclusivamente para la aceptación o rechazo de los materiales utilizables en las diferentes capas.
 
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2010)</small>
+
 ###### ARTÍCULO 20.
 
 Catálogo de secciones de pavimento.
 
-El catálogo de secciones de pavimento indicará las secciones pavimento según el nivel de tráfico pesado y la categoría de terracerías, ello conforme lo dispuesto por los artículos 16 y 17, respectivamente, de la presente Ley.
+Los proyectos de pavimentos de obras viales que se presenten ante la autoridad estatal o municipal, según corresponda, deberán indicar las secciones de pavimento según el nivel de tráfico pesado y la categoría de terracerías, esto conforme a lo dispuesto en los artículos 16 y 17 de esta Ley, el catálogo de secciones de pavimento, así como las Normas Técnicas Estatales que para tal efecto se expidan.
 
-Entre las posibles soluciones se seleccionará y justificará en cada caso concreto la más adecuada considerando aspectos técnicos, funcionales, ambientales, de seguridad, técnicos y económicos, tanto para su construcción como para su conservación. Todos los espesores de capa señalados se considerarán mínimos en cualquier punto de la sección transversal del carril de proyecto. Los cálculos realizados para la determinación de los espesores de la capas que conforman las secciones estructurales del catálogo se realizaron tomando en cuenta una vida de diseño de quince años y un crecimiento vehicular del 2.5% anual.
+En los cálculos que se realicen para la determinación de los espesores de las capas que conformarán las secciones estructurales del pavimento se deberá tomar en cuenta una vida de diseño de quince años y un crecimiento vehicular del 2.5% anual.
 
-Cada sección se designará por la combinación de un número romano, un número arábigo y una letra, conforme a lo siguiente:
+Cada sección del catálogo de secciones de pavimento, se designará por la combinación de un número romano, un número arábigo y una letra, conforme a lo siguiente:
 
-I. El número romano indica el nivel de tráfico pesado de acuerdo al artículo 16 de esta Ley;
+I. El número romano indicará el nivel de tráfico pesado, de acuerdo al artículo 16 de esta Ley;
 
-II. El número arábigo expresa el rango de las terracerías, de acuerdo al artículo 17 de esta Ley; y
+II. El número arábigo expresará el rango de las terracerías, de acuerdo al artículo 17 de esta Ley; y
 
-III. La letra hace referencia al tipo de pavimento, con el siguiente criterio:
+III. La letra hará referencia al tipo de pavimento, en base al siguiente criterio:
 
 a) Tipo A: mezclas asfálticas sobre bases hidráulicas;
 
@@ -418,6 +422,10 @@ b) Tipo B: mezclas asfálticas sobre bases asfálticas;
 c) Tipo C: mezclas asfálticas sobre bases cementadas; y
 
 d) Tipo D: pavimento de concreto hidráulico sobre base hidráulica.
+
+Entre las posibles soluciones del catálogo de secciones de pavimento que se establezca en las Normas Técnicas Estatales, se seleccionará y justificará para cada proyecto la más adecuada, considerando aspectos funcionales, ambientales, de seguridad, técnicos y económicos, tanto para su construcción como para su conservación, en todos los casos la autoridad estatal o municipal, según corresponda, evaluará y, en su caso, aprobará el proyecto presentado, conforme a las disposiciones de esta Ley y demás que sean aplicables.
+
+Todos los espesores de capa determinados en el catálogo de secciones de pavimento se considerarán mínimos en cualquier punto de la sección transversal del carril de proyecto.
 
 CATÁLOGO DE SECCIONES ESTRUCTURALES DE PAVIMENTO
 
@@ -2256,3 +2264,11 @@ RUBÉN EDUARDO MARTÍNEZ DONDÉ
 EL C. SECRETARIO DE OBRAS PÚBLICAS
 
 LOMBARDO VICTORIANO GUAJARDO GUAJARDO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE JULIO DE 2010.
+
+Primero.- El presente Decreto entrará en vigor a los ciento ochenta días naturales a partir de la fecha de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Las Normas Técnicas Estatales a que se refiere el artículo 20 de la Ley que se reforma, deberán ser publicadas en el Periódico Oficial del Estado de Nuevo León antes de la entrada en vigor del presente Decreto, mientras tanto, las Dependencias, Organismos y demás Autoridades que corresponda, deberán continuar aplicando en todos sus términos y condiciones, el catálogo de secciones de pavimento establecido en dicho artículo.
