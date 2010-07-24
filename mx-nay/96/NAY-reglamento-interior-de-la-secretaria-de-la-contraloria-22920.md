@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-la-contraloria-22920"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-15"
-last_updated: "2001-12-15"
+last_updated: "2010-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA GENERAL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA GENERAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORIA GENERAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 24 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Décima Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de diciembre de 2001.
 
@@ -35,7 +37,7 @@ En mérito de lo expuesto y fundado, tengo a bien expedir el siguiente:
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA GENERAL
 
-### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACION DE LA SECRETARIA
+### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LA SECRETARÍA
 
 ###### Artículo 1.
 
@@ -73,7 +75,7 @@ El Secretario, para el cumplimiento de sus atribuciones, contará con el número
 
 Los servidores públicos y unidades administrativas adscritas a la Secretaría, ejercerán las atribuciones que les confieren este reglamento, las normas legales aplicables y los convenios de colaboración, en términos de los lineamientos, normas y políticas que determine el Secretario y conducirán sus actividades con sujeción a los objetivos, estrategias y prioridades del Plan Estatal de Desarrollo.
 
-### CAPÍTULO II. DE LAS ATRIBUCIONES DEL TITULAR DE LA SECRETARIA
+### CAPÍTULO II. DE LAS ATRIBUCIONES DEL TITULAR DE LA SECRETARÍA
 
 ###### Artículo 6.
 
@@ -524,3 +526,17 @@ SECRETARIO GENERAL DE GOBIERNO
 PROFR. SALVADOR MUÑOZ HERNANDEZ
 
 SECRETARIO DE LA CONTRALORIA GENERAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE JULIO DE 2010.
+
+PRIMERO. El presente reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaria de la Contraloría General, publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el día 15 de diciembre del año 2001, así como los Acuerdos Administrativos publicados el 19 de enero de 2000 y el 20 de marzo del 2003 y se derogan todas las disposiciones de su misma naturaleza que se opongan al presente reglamento.
+
+TERCERO. La Contraloría Interna iniciará sus funciones una vez que el Gobernador otorgue el nombramiento correspondiente y se cuente con la suficiencia presupuestaria para establecer la estructura administrativa, requerida.
+
+CUARTO. Mientras no se apruebe la inclusión en el presupuesto de egresos del Poder Ejecutivo de los Departamentos de Modernización y de lo Jurídico Contencioso, el Secretario adoptará las medidas administrativas necesarias para el cumplimiento de las funciones que este reglamento y el manual general de la Contraloría les confiere.
+
+QUINTO. En tanto no se expidan los manuales y se emitan las disposiciones de carácter general e individual a que se hace referencia en este Reglamento, el Secretario, queda facultado para tomar las decisiones que correspondan y en su caso, resolver lo conducente.
