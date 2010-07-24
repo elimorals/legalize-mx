@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2009-09-26"
+last_updated: "2010-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -2923,11 +2923,15 @@ II.- Por sí o por interpósita persona, cause perjuicio público o privado, al 
 
 III.- Renuncie a su trabajo para eludir la obligación de pagar la pensión a favor de los acreedores alimentistas.
 
-Para los efectos del párrafo anterior se presume que el deudor alimentista elude su obligación, cuando éste no garantice su cumplimiento; y
+Para los efectos del párrafo anterior se presume que el deudor alimentista elude su obligación, cuando éste no garantice su cumplimiento; y (sic)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2008)</small>
 
-IV.- Reciba el pago total o parcial de un adeudo o interés, y no expida la constancia o recibo correspondiente.
+IV.- Reciba el pago total o parcial de un adeudo o interés, y no expida la constancia o recibo correspondiente;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2010)</small>
+
+V.- Para obtener un lucro indebido, explote las preocupaciones, las supersticiones o la ignorancia de las personas, por medio de supuestas evocaciones de espíritus, adivinaciones o curaciones u otros procedimientos carentes de validez técnica o científica.
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
@@ -3528,5 +3532,9 @@ P.O. 9 DE MAYO DE 2009.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 26 DE SEPTIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE JULIO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
