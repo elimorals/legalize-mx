@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2010-06-30"
+last_updated: "2010-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JULIO DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -6514,15 +6514,17 @@ DE LA CONTRALORIA GENERAL DEL DISTRITO FEDERAL.
 
 Corresponde a la Dirección General de Legalidad:
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 26 DE JULIO DE 2010)</small>
 
-I. Interpretar para efectos administrativos y en el ámbito de su competencia, las disposiciones contenidas en la Ley de Adquisiciones para el Distrito Federal y Ley de Obras Públicas del Distrito Federal, así como interpretar las disposiciones jurídicas y administrativas en materia de Austeridad, Transparencia y Acceso a la Información Pública y de Responsabilidad Patrimonial, de la Administración Pública del Distrito Federal en forma oficiosa o a petición de cualquiera de los órganos que integran la administración pública;
+I. Interpretar para efectos administrativos y en el ámbito de su competencia, las disposiciones contenidas en la Ley de Adquisiciones para el Distrito Federal y Ley de Obras Públicas del Distrito Federal, así como interpretar las disposiciones jurídicas y administrativas en materia de disciplina presupuestaria, economía y gasto eficiente, Transparencia y Acceso a la Información Pública y de Responsabilidad Patrimonial, de la Administración Pública del Distrito Federal en forma oficiosa o a petición de cualquiera de los órganos que integran la administración pública;
 
 II. Proponer lineamientos en materia de adquisiciones, arrendamientos, desincorporación de activos, servicios y obra pública de la Administración Pública del Distrito Federal, para hacer más eficiente la administración de los recursos y más transparente el manejo de los mismos;
 
 III. Tramitar y resolver los recursos de inconformidad, promovidos por las personas físicas o morales derivados de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones así como aquellos que sean competencia de la Contraloría General, por disposición expresa de las Leyes;
 
-IV. Conocer, desahogar y resolver los procedimientos de inhabilitación a concursantes, proveedores y contratistas, para impedirles la presentación de propuestas y en general, su participación en licitaciones públicas, invitaciones restringidas, adjudicaciones directas o celebrar contratos, en términos de lo previsto por la Ley de Adquisiciones para el Distrito Federal y Ley de Obras Públicas del Distrito Federal;
+> <small>(REFORMADA, G.O. 26 DE JULIO DE 2010)</small>
+
+IV. Conocer, substanciar y resolver los procedimientos de impedimento a concursantes, proveedores y contratistas, para evitar la presentación de propuestas y en general, su participación en licitaciones públicas, invitaciones restringidas, adjudicaciones directas o celebrar contratos, así como determinar la sanción que corresponda en términos de lo previsto por la Ley de Adquisiciones para el Distrito Federal y la Ley de Obras Públicas del Distrito Federal;
 
 V. Denunciar ante el Ministerio Público los hechos que puedan ser constitutivos de delitos, derivados de actos u omisiones de servidores públicos, y prestarle la colaboración requerida;
 
@@ -6678,9 +6680,9 @@ V. Analizar, recibir, tramitar las solicitudes e iniciar el procedimiento de cer
 
 VI. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública, órganos de control interno, así como a proveedores, contratistas y prestadores de servicio, cuando lo estime conveniente;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 26 DE JULIO DE 2010)</small>
 
-VII. Emitir opinión para efectos administrativos, acerca de la interpretación de las disposiciones contenidas en las leyes, de Adquisiciones y de Obras Públicas, ambas del Distrito Federal, así como de las disposiciones jurídicas y administrativas en materia de Austeridad; Transparencia y Acceso a la Información Pública, y de Responsabilidad Patrimonial, de la Administración Pública del Distrito Federal en forma oficiosa o a petición de cualquiera de los órganos que integran la Administración Pública;
+VII. Emitir opinión para efectos administrativos, acerca de la interpretación de las disposiciones contenidas en las leyes, de Adquisiciones y de Obras Públicas, ambas del Distrito Federal, así como de las disposiciones jurídicas y administrativas en materia de disciplina presupuestaria, economía y gasto eficiente; Transparencia y Acceso a la Información Pública, y de Responsabilidad Patrimonial, de la Administración Pública del Distrito Federal en forma oficiosa o a petición de cualquiera de los órganos que integran la Administración Pública;
 
 VIII. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
 
@@ -6744,7 +6746,9 @@ II. Conocer, desahogar y resolver el procedimiento de Aclaración de los Actos d
 
 III. Suspender temporal o definitivamente, declarar la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas, adjudicaciones directas o cualquier otro procedimiento previsto en los ordenamientos aplicables vigentes, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, patrimonio inmobiliario y servicios públicos, así como de todas las consecuencias legales que de éstos resulten, cuando deriven de revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento de irregularidades o inconsistencias;
 
-IV. Declarar la procedencia de impedimento para participar en licitaciones públicas, invitaciones restringidas a cuando menos tres participantes o concursantes y adjudicaciones directas en términos de los ordenamientos que regulan las materias de adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma del Distrito Federal y determinar la sanción que corresponda;
+> <small>(REFORMADA, G.O. 26 DE JULIO DE 2010)</small>
+
+IV. Substanciar y resolver la procedencia de impedimento para participar en licitaciones públicas, invitaciones restringidas a cuando menos tres participantes o concursantes y adjudicaciones directas en términos de los ordenamientos que regulan las materias de adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma del Distrito Federal y determinar la sanción que corresponda;
 
 V. Realizar visitas e inspecciones a las instalaciones de los proveedores, contratistas y concesionarios que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública y concesiones, para vigilar que cumplan con lo establecido en los contratos y en los títulos concesión, conforme a las normas y disposiciones jurídicas y administrativas aplicables;
 
@@ -8312,9 +8316,13 @@ IX. Brindar la asesoría técnica que se le requiera para llevar a cabo los proc
 
 X. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2009)</small>
-
 ###### Artículo 113 Bis 7.
+
+(DEROGADO, G.O. 26 DE JULIO DE 2010)
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2010)</small>
+
+###### Artículo 113 Ter.
 
 Corresponde a la Coordinación General de Evaluación y Desarrollo Profesional:
 
@@ -8324,9 +8332,7 @@ II. En el marco de las disposiciones legales, administrativas y acuerdos aplicab
 
 III. Fomentar programas para el desarrollo del capital humano en la Administración Pública del Distrito Federal, mediante el diseño de modelos innovadores y funcionales, para hacer más eficientes los procesos de evaluación y desarrollo profesional;
 
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2009)</small>
-
-IV. Desarrollar, aplicar y calificar pruebas médicas, toxicológicas, psicométricas, poligráficas, de habilidades y capacidades, de conocimientos y los procesos de evaluaciones del desempeño para determinar si los servidores públicos y los aspirantes a ocupar cargos, reúnen el perfil establecido y los requisitos para el desarrollo de las funciones;
+IV. Desarrollar, aplicar y calificar pruebas médicas, toxicológicas, psicométricas, de habilidades y capacidades, de conocimientos, así como búsqueda de antecedentes, validación documental, investigación socioeconómica y de entorno social, y los procesos de evaluaciones del desempeño para determinar si los servidores públicos y los aspirantes a ocupar cargos, reúnen el perfil establecido y los requisitos para el desarrollo de las funciones;
 
 V. Informar a la unidad administrativa competente sobre la pertinencia para la contratación, con base en los resultados de las pruebas señaladas en la fracción anterior;
 
@@ -13977,3 +13983,11 @@ Tercero. Se abroga el Acuerdo por el que se Crea el Órgano de Apoyo de las Acti
 Cuarto. Los recursos humanos, materiales, técnicos y financieros, así como los asuntos que se encuentren en trámite en las unidades administrativas que desaparezcan por virtud de este Decreto, se transferirán a las unidades administrativas que se crean, en los términos y condiciones que establezcan las disposiciones administrativas aplicables.
 
 Quinto. La Secretaría de Desarrollo Urbano y Vivienda deberá actualizar sus Manuales Administrativos en los plazos y condiciones que establezca la Contraloría General del Distrito Federal.
+
+G.O. 26 DE JULIO DE 2010.
+
+PRIMERO. - El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Las referencias hechas a la materia de Austeridad en otros ordenamientos jurídicos y administrativos de igual o menor jerarquía al presente Reglamento, se entenderán hechas a la materia de Disciplina Presupuestaria, Economía y Gasto Eficiente y serán válidas en tanto no se opongan a las disposiciones de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal, o sean derogadas.
+
+TERCERO.- Los asuntos que se encuentran en trámite en la Coordinación General de Evaluación y Desarrollo Profesional conforme al artículo 113 Bis 7, seguirán siendo tramitados y resueltos por la Coordinación General de Evaluación y Desarrollo Profesional de conformidad con el presente decreto en términos del artículo 113 Ter.
