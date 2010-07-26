@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2010-06-21"
+last_updated: "2010-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -57,7 +57,7 @@ Todo individuo gozará en el Estado de las garantías que otorga la Constitució
 
 ###### Artículo 3o.
 
-El Poder Público solamente puede actuar en uso de facultades expresas mientras que los particulares pueden hacer todo lo que las leyes federales y locales no les prohiban.
+El Poder Público solamente puede actuar en uso de facultades expresas mientras que los particulares pueden hacer todo lo que las leyes federales y locales no les prohíban.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -857,9 +857,13 @@ VIII.- Concertar empréstitos en los términos de la fracción IV del Artículo 
 
 IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso, tratándose de inmuebles.
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-X.- Nombrar y remover al Secretario General de Gobierno, al Secretario de Finanzas y a los demás servidores públicos del Poder Ejecutivo Estatal; así como al Procurador General de Justicia del Estado cuyo nombramiento será ratificado por el Congreso del Estado.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2010)</small>
+
+X.- Nombrar y remover al Secretario General de Gobierno, al Secretario de Finanzas y a los demás servidores públicos del Poder Ejecutivo Estatal.
+
+Proponer al Congreso del Estado una terna, para que éste, por el voto de más de la mitad de sus miembros, designe al Procurador General de Justicia, el cual sólo podrá ser removido de su cargo por las causas que señale la Ley.
 
 XI.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
 
@@ -1061,31 +1065,71 @@ CAPITULO DECIMOTERCERO
 
 Del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1995)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2010)</small>
 
 ###### Artículo 59.
 
-La Ley organizará el Ministerio Público del Estado, cuyos servidores públicos serán nombrados y removidos libremente por el Ejecutivo Estatal. El Ministerio Público del Estado estará presidido por un Procurador General de Justicia del Estado, designado por el titular del Ejecutivo del Estado, y ratificado por el Congreso del Estado, o en sus recesos, por la Diputación Permanente.
+El Ministerio Público será un organismo público, autónomo e independiente, con personalidad jurídica y patrimonio propio, que estará presidido por un Procurador General de Justicia del Estado, propuesto de una terna que presente el Ejecutivo del Estado, y designado por más de la mitad de los miembros del Congreso del Estado.
 
-El Procurador General de Justicia deberá reunir los mismos requisitos que se requieren para ser Magistrado del Supremo Tribunal de Justicia de acuerdo con el Artículo 53 de esta Constitución.
+El Procurador General de Justicia durará en su cargo cinco años, y podrá ser reelecto una sola vez, y deberá reunir los mismos requisitos que se requieren para ser Magistrado del Supremo Tribunal de Justicia de acuerdo con el Artículo 53 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1995)</small>
+La Ley organizará el Ministerio Público del Estado, el cual ejercerá las funciones previstas en el Articulo 21 de la Constitución Política de los Estados Unidos Mexicanos, cuyos servidores públicos serán nombrados y removidos por el Consejo del Ministerio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2010)</small>
 
 ###### Artículo 60.
 
-Estará a cargo del Ministerio Público del Estado la persecución, ante los Tribunales del Estado, de los delitos del orden común e ilícitos oficiales; y, por lo mismo, a él corresponderá solicitar las órdenes de aprehensión contra los acusados, buscar y presentar las pruebas que acrediten la responsabilidad de éstos. Procurar que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita, pedir la aplicación de las penas e intervenir en todos los negocios que la Ley determine.
+El Ministerio Público y el Sistema de Seguridad Pública se regirán por las siguientes disposiciones:
 
-La Ley establecerá los casos en que proceda la impugnación de las resoluciones del Ministerio Público del Estado sobre el no ejercicio de la acción penal, así como las sanciones aplicables a aquellas personas que los interpongan de manera dolosa.
+A. DEL MINISTERIO PÚBLICO
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1995)</small>
+I. La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función;
+
+II. El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La Ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial;
+
+III. El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la Ley;
+
+IV. El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general todas (sic) los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación; y
+
+V. La Ley establecerá los casos en que proceda la impugnación de las resoluciones del Ministerio Público del Estado sobre el no ejercicio de la acción penal, así como las sanciones aplicables a aquellas personas que los interpongan de manera dolosa.
+
+El Consejo del Ministerio tendrá a su cargo la Carrera Ministerial. Las condiciones para el ingreso, formación y permanencia, en los diversos órganos que conforman el Ministerio Público, así como las facultades y obligaciones de éstos y de los servidores públicos que los integran, se regirán por lo dispuesto en esta Constitución y en su Ley Orgánica.
+
+El Consejo del Ministerio se integrará por cinco miembros: el Procurador General de Justicia, que será su Presidente; dos agentes del Ministerio Público, un representante del Poder Judicial y un representante del Poder Legislativo, el cual no podrá recaer en un Diputado.
+
+Los Consejeros deberán reunir los requisitos que la Ley determine y durarán en el cargo cuatro años, y serán sustituidos en forma escalonada por cuartas partes; el Presidente durará el mismo tiempo que dure en su encargo como Procurador General de Justicia.
+
+Los Agentes del Ministerio Público, deberán ser nombrados mediante un concurso de oposición aplicado por el Consejo del Ministerio, en la forma en que disponga en su Ley Orgánica, y durarán en su cargo diez años, con la posibilidad de que previa evaluación, puedan ser ratificados por el Consejo.
+
+B. DEL SISTEMA DE SEGURIDAD PÚBLICA
+
+I. Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las instituciones policiales del Estado y los Municipios deberán coordinarse entre sí y con las instituciones policiales federales, para cumplir con los objetivos de la seguridad pública y conformarán el Sistema Estatal de Seguridad Pública, que estará sujeto a las siguientes bases mínimas:
+
+a) La regulación de la selección, ingreso, formación, permanencia, evaluación, reconocimiento y certificación de los integrantes de las instituciones de seguridad pública. La operación y desarrollo de estas acciones será competencia del Estado y los Municipios en el ámbito de sus respectivas atribuciones;
+
+b) El establecimiento de las bases de datos criminalísticos y de personal para las instituciones de seguridad pública. Ninguna persona podrá ingresar a las instituciones de seguridad pública si no ha sido debidamente certificado y registrado en el sistema;
+
+c) La formulación de políticas públicas tendientes a prevenir la comisión de delitos; y
+
+d) Se determinará la participación de la comunidad que coadyuvará, entre otros, en los procesos de evaluación de las políticas de prevención del delito así como de las instituciones de seguridad pública;
+
+II. Los Agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales del Estado y los Municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido; y
+
+III. Las autoridades estatales y municipales, a fin de propiciar el fortalecimiento del sistema de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes, instrumentarán sistemas complementarios de seguridad social.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2010)</small>
 
 ###### Artículo 61.
 
-El Procurador General de Justicia del Estado intervendrá personalmente en todos los negocios en que el Estado fuese parte. En los asuntos judiciales en que la Ley dé intervención al Ministerio Público, el Procurador podrá intervenir directamente o por medio de sus agentes.
+El Procurador General de Justicia del Estado intervendrá en todos los asuntos judiciales en que la Ley de intervención al Ministerio Público. El Procurador podrá intervenir directamente o por medio de sus agentes.
 
-Además, dará parte al Procurador General de la República de toda aquella norma jurídica de carácter general a excepción de la materia electoral que a su criterio estime que se contrapone a la Ley suprema.
-
-El Procurador General de Justicia del Estado será el Consejero Jurídico del Gobierno del Estado.
+Además dará parte al Procurador General de la República de toda aquella norma jurídica de carácter general, a excepción de la materia electoral, que a su criterio estime que se contrapone a la Ley suprema.
 
 Tanto él como sus agentes se someterán estrictamente a las disposiciones de la Ley, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
 
@@ -1301,9 +1345,11 @@ En lo conducente y de conformidad a los fines señalados en el párrafo tercero 
 
 X.- Elaborar las tablas de valores unitarios de suelo y construcciones, y someterlas a la aprobación del Congreso, para que sirvan de base para el cobro de contribuciones sobre la propiedad inmobiliaria; y
 
-XI.- La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-Aquélla acatará las órdenes que el Gobernador del Estado le transmita en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2010)</small>
+
+XI.- La policía preventiva estará al mando del Presidente Municipal en los términos de la Ley de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1763,7 +1809,7 @@ UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su 
 
 P.O. 10 DE ENERO DE 1982.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 25 DE SEPTIEMBRE DE 1983.
 
@@ -1781,9 +1827,9 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 2 DE JUNIO DE 1985.
 
-DECRETO No. 54, QUE REFORMA EL ARTICULO 68 FRACCION II, DE LA CONSTITUCION POLITICA LOCAL.
+DECRETO NÚMERO 54, QUE REFORMA EL ARTÍCULO 68 FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 2 DE JUNIO DE 1985.
 
@@ -2222,3 +2268,13 @@ P.O. 21 DE JUNIO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Túrnese el presente Decreto para su publicación en el Periódico Oficial del Estado, el cual iniciará su vigencia el día 1° de enero del año 2011.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Comisiones Legislativas que tengan a su cargo las materias relacionadas con la reforma contenida en este Decreto, deberán coordinarse con el Organismo creado para la implementación del Sistema de Justicia Penal Acusatorio y Adversarial en el Estado.
