@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-el-52205"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-11-13"
-last_updated: "2006-11-13"
+last_updated: "2010-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52205&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-10-30"
 
 ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDIGENAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDIGENAS, PUBLICADO EN EL D.O.F. DE 26 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 13 de noviembre de 2006.
 
@@ -658,3 +660,15 @@ Cuarto. En tanto entra en vigor el Manual de Organización de la Comisión, el D
 Quinto. Corresponde a los titulares de las unidades administrativas elaborar los manuales de procedimientos de las delegaciones y centros coordinadores para el desarrollo indígena, siendo el Coordinador General de Administración y Finanzas quien supervise el desarrollo de estas actividades.
 
 Dado en la Ciudad de México, Distrito Federal, a los treinta días del mes de octubre de dos mil seis.- La Directora General de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, Xóchitl Gálvez Ruiz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 26 DE JULIO DE 2010.
+
+Primero. El presente Estatuto entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Estatuto Orgánico de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, publicado en el Diario Oficial de la Federación el 13 de noviembre de 2006.
+
+Tercero. El Director General proveerá lo necesario para que el Manual General de Organización de la Comisión corresponda a las disposiciones que establecen la Ley y el presente Estatuto, de cuya expedición informará a la Junta de Gobierno.
+
+Cuarto. En tanto entra en vigor el Manual General de Organización de la Comisión, el Director General podrá emitir las normas y lineamientos para la operación de ésta.
