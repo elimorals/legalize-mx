@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-44579"
 country: "mx"
 rank: "otro"
 publication_date: "2002-12-31"
-last_updated: "2009-12-01"
+last_updated: "2010-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44579&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,51 +19,53 @@ issue_date: "2002-12-27"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 55 (MULTILATERAL, 2002)
 
-DECRETO QUE MODIFICA EL DIVERSO PARA LA APLICACION DEL SEGUNDO PROTOCOLO ADICIONAL AL APENDICE II, DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 55 SUSCRITO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ARGENTINA, LA REPUBLICA FEDERATIVA DEL BRASIL, LA REPUBLICA DEL PARAGUAY Y LA REPUBLICA ORIENTAL DEL URUGUAY, SIENDO LOS ULTIMOS CUATRO ESTADOS PARTES DEL MERCADO COMUN DEL SUR
+DECRETO PARA LA APLICACION DEL TERCER PROTOCOLO ADICIONAL AL APENDICE I, DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 55, SUSCRITO ENTRE EL MERCOSUR Y LOS ESTADOS UNIDOS MEXICANOS
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 1 de diciembre de 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO 1 DEL DECRETO POR EL QUE SE ABROGAN LOS INSTRUMENTOS QUE SE INDICAN RELACIONADOS CON EL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 55, SUSCRITO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ARGENTINA, LA REPUBLICA FEDERATIVA DEL BRASIL, LA REPUBLICA DEL PARAGUAY Y LA REPUBLICA ORIENTAL DEL URUGUAY, SIENDO LOS ULTIMOS CUATRO ESTADOS PARTES DEL MERCADO COMUN DEL SUR, PUBLICADO EN EL D.O.F. DE 1 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+Decreto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 26 de julio de 2010.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el 28 de diciembre de 1980 fue aprobado por el Senado de la República el Tratado de Montevideo 1980, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de dar continuidad al proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración (ALADI);
+Que el 28 de diciembre de 1980, el Senado de la República aprobó el Tratado de Montevideo 1980, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de dar continuidad al proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración;
 
-Que en el marco del Tratado de Montevideo 1980, los Gobiernos de los Estados Unidos Mexicanos, la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, suscribieron el 27 de septiembre de 2002 el Acuerdo de Complementación Económica No. 55 (ACE No. 55) el cual fue publicado en el Diario Oficial de la Federación el 29 de noviembre de 2002 y entró en vigor el 1 de enero de 2003;
+Que en el marco del Tratado de Montevideo 1980, los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur (MERCOSUR), suscribieron el 27 de septiembre de 2002 el Acuerdo de Complementación Económica No. 55 (ACE No. 55), el cual fue publicado en el Diario Oficial de la Federación el 29 de noviembre de 2002 y entró en vigor el 1 de enero de 2003;
 
-Que el Apéndice II del ACE No. 55 establece las disposiciones aplicables al comercio bilateral en el sector automotor entre los Estados Unidos Mexicanos y la República Federativa del Brasil, cuyo Decreto de aplicación se publicó en el Diario Oficial de la Federación el 23 de agosto de 2007;
+Que el Apéndice I del ACE No. 55 establece las disposiciones aplicables al comercio bilateral en el sector automotor entre los Estados Unidos Mexicanos y la República Argentina, cuyo Decreto de aplicación fue publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002 y entró en vigor el 1 de enero de 2003;
 
-Que el 16 de diciembre de 2008 los Gobiernos de los Estados Unidos Mexicanos y de la República Federativa del Brasil suscribieron el Segundo Protocolo Adicional al Apéndice II “Sobre el Comercio en el Sector Automotor entre Brasil y México” del ACE No. 55, el cual se dio a conocer mediante Acuerdo publicado en el Diario Oficial de la Federación el 10 de febrero de 2009;
+Que el último párrafo del Artículo 5o. del ACE No. 55 establece que las Partes Signatarias de los Apéndices Bilaterales podrán, en cualquier momento, modificar de común acuerdo las disposiciones en ellos establecidas, así como incorporar en sus ámbitos de aplicación productos automotores listados en el Artículo 3o. del citado Acuerdo;
 
-Que el 26 de febrero de 2009 se publicó en el Diario Oficial de la Federación el Decreto para la aplicación del Segundo Protocolo Adicional al Apéndice II, del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur;
+Que el 24 de septiembre de 2003, los Estados Unidos Mexicanos y la República Argentina suscribieron el Primer Protocolo Adicional al Apéndice I “Sobre el Comercio en el Sector Automotor entre la Argentina y México” del ACE No. 55, con objeto de incorporar productos automotores al Acuerdo y otras disposiciones al régimen de origen del mencionado Apéndice I, cuyo Decreto de aplicación fue publicado en el Diario Oficial de la Federación el 27 de mayo de 2004;
 
-Que a solicitud de las Representaciones Permanentes de Brasil y México ante la ALADI, el 30 de marzo de 2009, la Secretaría General de dicha Asociación emitió un Acta de Rectificación de la versión en idioma español del Segundo Protocolo Adicional al Apéndice II del ACE No. 55, con objeto de enmendar la nota al pie de la lista de productos del artículo 1o. del citado Protocolo;
+Que el 16 de febrero de 2007 los Estados Unidos Mexicanos y la República Argentina suscribieron el Segundo Protocolo Adicional al Apéndice I “Sobre el Comercio en el Sector Automotor entre la Argentina y México” del ACE No. 55, en el cual pactaron aplicarse recíprocamente un arancel de cero por ciento a las importaciones de las autopartes comprendidas en la lista anexa del referido Protocolo, cuyo Decreto de aplicación se publicó en el Diario Oficial de la Federación el 1 de junio de 2007;
 
-Que el 04 de junio de 2009 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer la modificación al Segundo Protocolo Adicional al Apéndice II “Sobre el Comercio en el Sector Automotor entre Brasil y México”, del Acuerdo de Complementación Económica No. 55 celebrado entre el Mercosur y los Estados Unidos Mexicanos, y
+Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación con objeto de adoptar las modificaciones al Sistema Armonizado de Designación y Codificación de Mercancías (SA);
 
-Que para aplicar la modificación mencionada en el sexto considerando, se expide el siguiente
+Que para aplicar las preferencias otorgadas en el Apéndice I del ACE No. 55, el Primer Protocolo Adicional y el Segundo Protocolo Adicional en función de las modificaciones al SA se publicó en el Diario Oficial de la Federación, el 22 de agosto de 2007, el Decreto para la aplicación del Apéndice I, del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, modificado por los diversos dados a conocer en ese mismo órgano de difusión, el 23 de julio y el 1 de diciembre de 2009;
+
+Que el 12 de marzo de 2010 los Estados Unidos Mexicanos y la República Argentina suscribieron el Tercer Protocolo Adicional al Apéndice I “Sobre el Comercio en el Sector Automotor entre la Argentina y México” del ACE No. 55, mediante el cual ambos países pactaron incorporar nuevos productos de autopartes en el Anexo al Segundo Protocolo Adicional al Apéndice I, y
+
+Que resulta necesario incorporar al Decreto mencionado en el octavo considerando, los productos de autopartes negociados en el Tercer Protocolo Adicional al Apéndice I “Sobre el Comercio en el Sector Automotor entre la Argentina y México” del ACE No. 55, he tenido a bien expedir el siguiente
 
 DECRETO
 
-###### ARTÍCULO ÚNICO.
-
-Se modifica la nota al pie del Artículo Tercero del Decreto para la aplicación del Segundo Protocolo Adicional al Apéndice II, del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el Diario Oficial de la Federación el 26 de febrero de 2009, para quedar como sigue:
-
-“ARTÍCULO TERCERO.- . . .
-
-Nota: Únicamente para uso automotriz. Para efectos de lo dispuesto en el Anexo II del Apéndice II del ACE No. 55, se considerarán para uso automotriz a los bienes destinados a ser incorporados en la fabricación de bienes comprendidos en los literales a) al h) inclusive, del Artículo 3o. del ACE No. 55, incluidos los destinados al mercado de repuestos.”
-
 ###### ARTÍCULO PRIMERO.
 
-Se adicionan a la Tabla del Artículo Primero del Decreto para la aplicación del Apéndice II, del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el Diario Oficial de la Federación el 23 de agosto de 2007, los productos clasificados en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, que a continuación se indican:
+Se adicionan a la Tabla del Artículo Primero del Decreto para la aplicación del Apéndice I, del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el Diario Oficial de la Federación el 22 de agosto de 2007, los productos clasificados en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, que a continuación se indican, en el orden que les corresponde:
+
+TABLA DE LOS PRODUCTOS COMPRENDIDOS EN EL APÉNDICE I DEL ACE No. 55
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO SEGUNDO.
 
 Se modifica la Tabla del Artículo Primero del Decreto referido en el artículo anterior, únicamente respecto de las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, que a continuación se indican:
+
+TABLA DE LOS PRODUCTOS COMPRENDIDOS EN EL APÉNDICE I DEL ACE No. 55
 
 (VEASE ARCHIVO ANEXO)
 
@@ -139,4 +141,4 @@ Se derogan los artículos 8, 9 y 10 del Decreto que se señala en el artículo 2
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticinco de noviembre de 2009.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de julio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ernesto Javier Cordero Arroyo.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
