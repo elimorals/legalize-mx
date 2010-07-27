@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transparencia-y-acceso-a-la-informacion-71165"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-23"
-last_updated: "2009-12-23"
+last_updated: "2010-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71165&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-12-09"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE JULIO DE 2010.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 23 de diciembre de 2009.
 
@@ -86,6 +86,10 @@ XI. Código Organizacional.- clave emitida por la Dirección General de Administ
 XII. Comisión.- la Comisión de Transparencia y Acceso a la Información Pública del Instituto Nacional de Estadística y Geografía;
 
 XIII. Comité.- el Comité de Información del Instituto Nacional de Estadística y Geografía;
+
+> <small>(ADICIONADA, D.O.F. 27 DE JULIO DE 2010)</small>
+
+XIII Bis. Comité de Valoración.- el Comité de Valoración Documental del Instituto Nacional de Estadística y Geografía;
 
 XIV. Cuadro General de Clasificación Archivística.- instrumento técnico de control archivístico que refleja la estructura del archivo del Instituto, de manera general, con base en las atribuciones y funciones que corresponden a sus Unidades y Areas Administrativas;
 
@@ -1115,11 +1119,15 @@ III. Realizar una revisión previa respecto de los valores secundarios de la doc
 
 IV. Elaborar los Inventarios Documentales por expediente, de transferencia secundaria y de Baja Documental, de la Información que se resguarda en el Archivo de Concentración;
 
-V. Realizar las transferencias secundarias al Archivo Histórico del Instituto, o al Archivo General de la Nación, en su caso;
+> <small>(REFORMADA, D.O.F. 27 DE JULIO DE 2010)</small>
+
+V. Realizar las transferencias secundarias al Archivo Histórico del Instituto;
 
 VI. Orientar a los Responsables de los Archivos de Trámite del Instituto, sobre el servicio de consulta de expedientes resguardados en el Archivo de Concentración, y
 
-VII. Gestionar ante el Archivo General de la Nación el trámite de Baja Documental de expedientes que carezcan de valores secundarios.
+> <small>(REFORMADA, D.O.F. 27 DE JULIO DE 2010)</small>
+
+VII. Gestionar ante el Comité de Valoración, el trámite de Baja Documental de expedientes que carezcan de valores secundarios.
 
 Los documentos y expedientes que obren en el Archivo de Concentración, podrán resguardarse en el espacio físico que el Responsable del mismo autorice, a propuesta del Titular de la Unidad o Area Administrativa de la que provengan, atendiendo a la disponibilidad de espacios en el Instituto. Sin perjuicio de ello, la Información que obre en el Archivo de Concentración, deberá apegarse a los criterios, lineamientos y demás disposiciones normativas que para tal efecto apruebe el Area Coordinadora de Archivos del Instituto o el Comité, según corresponda.
 
@@ -1137,7 +1145,9 @@ I. Coadyuvar con el Area Coordinadora de Archivos o, en su caso, con el Archivo 
 
 II. Asesorar a las Unidades y Areas Administrativas respecto de las características de los documentos y expedientes que deban conservarse permanentemente por tener valor histórico;
 
-III. Validar la documentación que deba conservarse permanentemente por tener valor histórico y tramitar su dictamen ante el Archivo General de la Nación;
+> <small>(REFORMADA, D.O.F. 27 DE JULIO DE 2010)</small>
+
+III. Validar la documentación que deba conservarse permanentemente por tener valor histórico y tramitar su dictamen ante el Comité de Valoración;
 
 IV. Recibir los documentos con valor histórico enviados por el Archivo de Concentración;
 
@@ -1189,7 +1199,9 @@ II. Segundo: (Sección) cada una de las divisiones del fondo, basada en las atri
 
 III. Tercero: (Serie) división de una sección que corresponde al conjunto de documentos producidos en el desarrollo de una misma atribución general y que versan sobre una materia o asunto específico, la cual se identifica de acuerdo a un Código de Clasificación Archivística predeterminado.
 
-Sin perjuicio de lo anterior, podrá recurrirse al uso de Subseries, si así lo requiere la conformación de los Archivos a cargo de las distintas Unidades y Areas Administrativas del Instituto, identificándolas en su caso, en similares términos que los descritos para las Series.
+> <small>(REFORMADO, D.O.F. 27 DE JULIO DE 2010)</small>
+
+Sin perjuicio de lo anterior, previa autorización del Area Coordinadora de Archivos, podrá recurrirse al uso de Subseries, si así lo requiere la conformación de los Archivos a cargo de las distintas Unidades y Areas Administrativas del Instituto, identificándolas en su caso, en similares términos que los descritos para las Series.
 
 ###### Artículo 88.
 
@@ -1257,7 +1269,9 @@ El Catálogo de Disposición Documental establecerá los periodos de vigencia de
 
 Para efecto de los periodos de reserva de los expedientes, el Catálogo de Disposición Documental, deberá vincularse al Indice de Expedientes Reservados que establece el artículo 17 de la Ley.
 
-El Instituto enviará al Archivo General de la Nación, para su validación y registro, una copia de su Catálogo de Disposición Documental actualizado, en soporte electrónico, a más tardar el último día del mes de febrero de cada año.
+> <small>(REFORMADO, D.O.F. 27 DE JULIO DE 2010)</small>
+
+El Instituto enviará al Archivo General de la Nación, para su conocimiento y registro, una copia de su Catálogo de Disposición Documental actualizado, en soporte electrónico, a más tardar el último día del mes de febrero de cada año.
 
 ###### Artículo 93.
 
@@ -1265,15 +1279,21 @@ En los plazos de conservación de los archivos se tomará en cuenta la vigencia 
 
 A partir de la desclasificación de los expedientes reservados, el plazo de conservación adicionará un periodo igual al de reserva o al que establezca el Catálogo de Disposición Documental, si éste fuera mayor al primero.
 
-Al concluir los plazos establecidos en este artículo, el Instituto, a través de su Area Coordinadora de Archivos, solicitará al Archivo General de la Nación un dictamen de valoración para determinar el destino final de los documentos.
+> <small>(REFORMADO, D.O.F. 27 DE JULIO DE 2010)</small>
+
+Al concluir los plazos establecidos en este artículo, el Instituto, a través de su Area Coordinadora de Archivos, solicitará al Comité de Valoración un dictamen de valoración para determinar el destino final de los documentos.
+
+> <small>(REFORMADO, D.O.F. 27 DE JULIO DE 2010)</small>
 
 ###### Artículo 94.
 
-Las solicitudes de dictamen de destino final, el dictamen del Archivo General de la Nación y las actas de Baja Documental o de transferencia secundaria, deberán digitalizarse y publicarse en el Portal de Transparencia por la Dirección General Adjunta de Recursos Materiales y Servicios Generales, en cumplimiento a lo dispuesto por el artículo 7 fracción XVII de la Ley, de conformidad con lo establecido por el último párrafo del artículo 27 del Reglamento.
+Las solicitudes de dictamen de destino final, el dictamen del Comité de Valoración y las actas de Baja Documental o de transferencia secundaria, deberán digitalizarse y publicarse en el Portal de Transparencia por la Dirección General Adjunta de Recursos Materiales y Servicios Generales, en cumplimiento a lo dispuesto por el artículo 7 fracción XVII de la Ley, de conformidad con lo establecido por el último párrafo del artículo 27 del Reglamento.
+
+> <small>(REFORMADO, D.O.F. 27 DE JULIO DE 2010)</small>
 
 ###### Artículo 95.
 
-Los inventarios de Baja Documental autorizados por el Archivo General de la Nación, deberán conservarse en el Archivo de Concentración por un plazo de cinco años, contados a partir de la fecha en que se haya autorizado la Baja Documental correspondiente. Este plazo se incluirá en el Catálogo de Disposición Documental.
+Los inventarios de Baja Documental autorizados por el Comité de Valoración, deberán conservarse en el Archivo de Concentración por un plazo de cinco años, contados a partir de la fecha en que se haya autorizado la Baja Documental correspondiente. Este plazo se incluirá en el Catálogo de Disposición Documental.
 
 ###### Artículo 96.
 
@@ -1287,13 +1307,69 @@ La documentación administrativa que obre en copia simple en las áreas encargad
 
 Las Unidades y Areas Administrativas establecerán la vigencia documental de las Series bajo su resguardo, en el Catálogo de Disposición Documental, para lo cual considerarán que el periodo de resguardo que determinen corresponderá únicamente a documentos originales; por lo que hace a las copias simples, resultará aplicable lo dispuesto en el artículo anterior.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 27 DE JULIO DE 2010)</small>
+
+### Capítulo VII Bis,
+
+Del Comité de Valoración Documental.
+
+> <small>(ADICIONADO, D.O.F. 27 DE JULIO DE 2010)</small>
+
+Artículo 98 A.- El Instituto contará con un Comité de Valoración para analizar, valorar y dictaminar el destino final de la documentación semiactiva cuyo plazo de conservación concluyó, en apego a la legislación y normatividad vigentes y aplicables en la materia.
+
+El Comité de Valoración estará integrado por los siguientes miembros:
+
+I. El Director General Adjunto de Recursos Materiales y Servicios Generales, quien fungirá como Presidente;
+
+II. Un representante de la Dirección General del Servicio Público de Información, en calidad de Vocal;
+
+III. Un representante de la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, en calidad de Vocal;
+
+IV. Un representante de las Direcciones Generales de Estadísticas Sociodemográficas, de Estadísticas Económicas, y de Geografía y Medio Ambiente, en calidad de Vocal, cuando el pleno del Comité de Valoración resuelva asuntos de su competencia;
+
+V. El Director del Sistema Institucional de Archivos, como Secretario Ejecutivo, quien en ausencia del Presidente del Comité de Valoración fungirá como su Suplente;
+
+VI. Un representante de la Contraloría Interna, en calidad de Asesor, y
+
+VII. Un representante de la Dirección General Adjunta de Asuntos Jurídicos, en calidad de Asesor.
+
+Los Vocales deberán contar con un nivel mínimo de Director General Adjunto, y los Asesores con un nivel mínimo de Director de Area. Tanto los Vocales como los Asesores deberán ser acreditados ante el Presidente del Comité de Valoración por el Titular de la Unidad o Area Administrativa de que se trate.
+
+Los Vocales, el Secretario Ejecutivo y los Asesores, podrán designar a su respectivo suplente, quien deberá tener un rango inmediato inferior a éstos.
+
+El Presidente, los Vocales y el Secretario Ejecutivo tendrán derecho a voz y voto, y los Asesores sólo tendrán derecho a voz.
+
+A las sesiones del Comité de Valoración asistirán, como invitados con derecho a voz pero sin voto, representantes de las Unidades o Areas Administrativas cuya documentación sea objeto de dictaminación de destino final.
+
+La integración y funcionamiento del Comité de Valoración deberá apegarse a lo establecido en el Manual de Integración y Funcionamiento del Comité de Valoración Documental.
+
+> <small>(ADICIONADO, D.O.F. 27 DE JULIO DE 2010)</small>
+
+Artículo 98 B.- El Comité de Valoración tendrá las siguientes facultades:
+
+I. Aprobar, en la primera sesión de cada ejercicio fiscal, el Catálogo de Disposición Documental del Instituto;
+
+II. Emitir dictámenes de valoración para determinar el destino final de los documentos que hayan cumplido los correspondientes plazos de conservación;
+
+III. Emitir dictámenes para declarar el reconocimiento de los valores históricos de los documentos resguardados en el archivo histórico, y
+
+IV. Aprobar su Manual de Integración y Funcionamiento y sus actualizaciones.
+
+> <small>(ADICIONADO, D.O.F. 27 DE JULIO DE 2010)</small>
+
+Artículo 98 C.- Las Sesiones del Comité de Valoración quedarán legalmente instaladas con la asistencia de por lo menos tres miembros con derecho a voz y voto.
+
+Las decisiones del Comité de Valoración se tomarán por mayoría de votos de los miembros presentes, correspondiendo al Presidente el voto de calidad en caso de empate.
+
+El Comité de Valoración sesionará en forma ordinaria, una vez cada cuatro meses, en las fechas que se establezcan de acuerdo con el calendario aprobado en la primera sesión ordinaria que se celebre cada año, al amparo de lo establecido en el presente Reglamento.
+
+El Comité de Valoración sesionará en forma extraordinaria siempre que así resulte necesario, a juicio de sus miembros, de acuerdo con los asuntos que deban ser analizados por el Pleno.
+
+Corresponderá al Comité de Valoración aprobar y modificar su Manual de Integración y Funcionamiento.
+
 ### Capítulo VIII,
 
 De los Documentos Electrónicos.
-
-### Capítulo I,
-
-De la Elaboración de Versiones Públicas.
 
 ###### Artículo 99.
 
@@ -1307,9 +1383,9 @@ El Instituto, a través de la Dirección General Adjunta de Informática, realiz
 
 DEL ACCESO A LA INFORMACION.
 
-### Capítulo II,
+### Capítulo I,
 
-Datos Personales.
+De la Elaboración de Versiones Públicas.
 
 ###### Artículo 100.
 
@@ -1373,9 +1449,9 @@ Corresponderá al Comité la aprobación de las versiones públicas de documento
 
 En los casos no previstos por el presente Capítulo, el Comité determinará la manera en que deberán elaborarse las versiones públicas a que hace referencia el párrafo precedente, a partir de la propuesta que para tales efectos elaboren las Unidades o Areas Administrativas.
 
-### Capítulo III,
+### Capítulo II,
 
-Procedimientos de Acceso y Corrección de Datos Personales.
+Datos Personales.
 
 ###### Artículo 106.
 
@@ -1529,9 +1605,9 @@ V. Señalar si una vez concluidos los propósitos de la transmisión, los datos 
 
 Quedan excluidos de la aplicación del Reglamento los datos personales que el Instituto reciba con motivo del ejercicio de las atribuciones que en materia de Información Estadística y Geográfica le confiere la LSNIEG, el Reglamento Interior y las demás disposiciones administrativas que deriven de las mismas.
 
-### Capítulo IV,
+### Capítulo III,
 
-Costos de Reproducción y Envío de la Información.
+Procedimientos de Acceso y Corrección de Datos Personales.
 
 ###### Artículo 116.
 
@@ -1611,9 +1687,9 @@ Las solicitudes presentadas por ciudadanos al amparo de este Capítulo después 
 
 Para efectos del supuesto contenido en el presente artículo, se tomará como referencia el horario del centro del país.
 
-### Capítulo V,
+### Capítulo IV,
 
-Del Procedimiento de Acceso a la Información.
+Costos de Reproducción y Envío de la Información.
 
 ###### Artículo 128.
 
@@ -1639,9 +1715,9 @@ Los servidores públicos de las Unidades y Areas Administrativas del Instituto s
 
 El costo de la reproducción y/o envío de la Información que, en su caso, deba ser cubierto por los solicitantes, deberá ser depositado en la cuenta bancaria del Instituto que para tal efecto dé a conocer al interesado en la notificación que emita la Unidad de Transparencia, el Centro de Información Habilitado o la Coordinación Estatal, ante quien se haya planteado la solicitud de acceso a la Información, de acceso a datos personales o de corrección de los mismos, o la cual haya señalado éste para recibir la respuesta correspondiente.
 
-### Capítulo VI,
+### Capítulo V,
 
-De los Procedimientos ante la Comisión.
+Del Procedimiento de Acceso a la Información.
 
 ###### Artículo 133.
 
@@ -1760,6 +1836,10 @@ Excepcionalmente, previa autorización del Comité, este plazo podrá ampliarse 
 Cuando se dé el acceso a la Información y se ponga a disposición del solicitante en un lugar físico, éste tendrá un plazo de noventa días naturales contados a partir de la notificación correspondiente, para disponer de ella para su consulta o reproducción previo pago por los costos respectivos, en su caso.
 
 Transcurrido el plazo a que hace referencia el párrafo anterior sin que el solicitante acuda, la solicitud se tendrá por atendida, debiendo éste realizar una nueva solicitud de acceso a la Información en caso de que subsista su interés de acceso, sin responsabilidad alguna para el Instituto.
+
+### Capítulo VI,
+
+De los Procedimientos ante la Comisión.
 
 ###### Artículo 146.
 
@@ -1894,3 +1974,13 @@ SEXTO.- Las atribuciones, funciones, actividades y demás disposiciones que por 
 El presente Reglamento, fue aprobado en la Décima Primera Sesión de la Junta de Gobierno del Instituto Nacional de Estadística y Geografía, celebrada el 9 de diciembre de dos mil nueve.- Presidente, Eduardo Sojo Garza Aldape; Vicepresidentes, Enrique de Alba Guerra, María del Rocío Ruiz Chávez, José Antonio Mejía Guerra y Mario Palma Rojo.
 
 Aguascalientes, Ags., a 15 de diciembre de 2009.- Hace constar lo anterior el Director General Adjunto de Asuntos Jurídicos, Jorge Ventura Nevares, en ejercicio de la atribución que le confiere lo dispuesto por la fracción IV, del artículo 46 del Reglamento Interior del Instituto Nacional de Estadística y Geografía.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 27 DE JULIO DE 2010.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Comité de Valoración a que hace referencia la fracción XIII Bis del artículo 2 del Reglamento, deberá conformarse a más tardar transcurridos seis meses de la entrada en vigor de las presentes reformas, y en su primera sesión ordinaria aprobará su Manual de Integración y Funcionamiento.
+
+TERCERO.- Para el ejercicio 2010, por única ocasión, el Instituto tendrá hasta el último día del mes de agosto para cumplimentar la obligación establecida por el último párrafo del artículo 92 del Reglamento.
