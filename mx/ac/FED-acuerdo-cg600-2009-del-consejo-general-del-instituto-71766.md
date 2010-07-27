@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg600-2009-del-consejo-general-del-instituto-71766"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-01-20"
-last_updated: "2010-01-20"
+last_updated: "2010-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-12-16"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBA QUE, CON EL FIN DE DAR CUMPLIMIENTO AL ARTICULO OCTAVO TRANSITORIO DEL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LAS CREDENCIALES PARA VOTAR QUE TENGAN COMO ULTIMO RECUADRO EL "03" PARA EL MARCAJE DEL AÑO DE LA ELECCION FEDERAL, PUEDAN SER UTILIZADAS EN LAS ELECCIONES LOCALES, QUE SE LLEVEN A CABO HASTA EL 31 DE DICIEMBRE DE 2010, INCLUSIVE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO NUMERO CG224/2010 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 27 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 20 de enero de 2010.
 
@@ -148,3 +150,19 @@ Séptimo. Se instruye a la Secretaría Ejecutiva de este Instituto que provea lo
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 16 de diciembre de dos mil nueve, por votación unánime de los Consejeros Electorales Maestro Marco Antonio Baños Martínez, Doctora María Macarita Elizondo Gasperín, Maestro Alfredo Figueroa Fernández, Licenciado Marco Antonio Gómez Alcántar, Doctor Benito Nacif Hernández, Maestro Arturo Sánchez Gutiérrez y el Consejero Presidente, Doctor Leonardo Valdés Zurita, no estando presentes durante la votación los Consejeros Electorales Maestro Virgilio Andrade Martínez y Doctor Francisco Javier Guerrero Aguirre.
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 27 DE JULIO DE 2010.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL ACUERDO.
+
+Primero. Se abroga el Acuerdo CG600/2009, aprobado por este órgano colegiado el 16 de diciembre de 2009.
+
+Acuerdo que establece que la vigencia de las credenciales para votar que tengan como último recuadro el "03" para el marcaje del año de la elección federal, concluya el 31 de diciembre de 2010, disposición que no será aplicable a las credenciales que correspondan a las entidades federativas que celebren elecciones en el 2011, las cuales mantendrán su vigencia para el ejercicio del derecho al voto hasta la conclusión de las jornadas electorales correspondientes, o bien, a más tardar, hasta el 15 de enero del 2012.
+
+Los registros de los titulares de las credenciales que se encuentren en este supuesto, serán excluidos de la Lista Nominal de Electores, al día siguiente de las fechas indicadas, según corresponda.
+
+...
+
+Décimo Segundo. Publíquese en el Diario Oficial de la Federación.
