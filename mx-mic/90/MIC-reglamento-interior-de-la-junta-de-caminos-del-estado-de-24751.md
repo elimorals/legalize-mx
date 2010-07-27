@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-junta-de-caminos-del-estado-de-24751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-27"
-last_updated: "2001-12-27"
+last_updated: "2010-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA JUNTA DE CAMINOS DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA JUNTA DE CAMINOS DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el jueves 27 de diciembre de 2001.
 
@@ -314,3 +316,15 @@ Las faltas temporales de los titulares de las Subdirecciones, serán suplidas po
 Morelia, Michoacán, a 17 de Diciembre del 2001.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. LIC. VÍCTOR MANUEL TINOCO RUBÍ.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. JUAN BENITO COQUET RAMOS.- SECRETARIO DE GOBIERNO.- C.P. OSCAR A. MENDOZA AHUMADA.- COORDINADOR DE CONTROL Y DESARROLLO ADMINISTRATIVO.- ING. JAVIER LÓPEZ ARAUJO.- DIRECTOR GENERAL DE LA JUNTA DE CAMINOS DEL ESTADO DE MICHOACÁN. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Junta de Caminos del Estado de Michoacán de Ocampo, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 27 de diciembre de 2001 y se dejan sin efectos las demás disposiciones de carácter administrativo en lo que se opongan al presente Reglamento.
