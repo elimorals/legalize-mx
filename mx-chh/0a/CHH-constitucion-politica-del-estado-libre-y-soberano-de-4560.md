@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2010-07-14"
+last_updated: "2010-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2010.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1117,9 +1117,9 @@ XXXIX.- Dictar leyes encaminadas a combatir el alcoholismo.
 
 XL. Expedir las leyes que regulen las relaciones entre el Estado, Municipios, organismos descentralizados y sus respectivos trabajadores.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2010)</small>
 
-XLI.- Crear, a iniciativa del Ejecutivo del Estado, organismos descentralizados y autorizar la creación de empresas de participación estatal mayoritaria, así como de fideicomisos, patronatos o entidades similares que comprometan recursos públicos. Los correspondientes decretos establecerán la estructura orgánica y las funciones que se les asignen, así como la obligación del Ejecutivo de acompañar sus estados financieros a la cuenta pública anual.
+XLI.- Crear, a iniciativa del Poder que así lo requiera, organismos descentralizados y autorizar, a iniciativa del Poder Ejecutivo, la creación de empresas de participación estatal mayoritaria, así como de fideicomisos, patronatos o entidades similares que comprometan recursos públicos. Los correspondientes decretos establecerán la estructura orgánica y las funciones que se les asignen, así como la obligación del Ejecutivo de acompañar sus estados financieros a la cuenta pública anual.
 
 XLII.- Nombrar la Diputación Permanente.
 
@@ -1707,11 +1707,17 @@ En los casos del Secretario General de Gobierno y del Procurador General de Just
 
 Las relaciones entre el Poder Ejecutivo y los Poderes Legislativo y Judicial, se establecerán entre el Gobernador o el Secretario General de Gobierno en su caso, y los titulares de dichos Poderes.
 
-El Secretario General de Gobierno, el Procurador General de Justicia, los Secretarios y los Coordinadores, luego que esté abierto el segundo período ordinario de sesiones, presentarán al Congreso un informe por escrito del estado que guardan los asuntos de sus respectivos ramos. Asimismo, podrán ser llamados para asesorar y explicar al Congreso, cuando se vaya a discutir un proyecto de ley o a estudiar un negocio relacionado con las funciones de su cargo.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2010)</small>
+
+El Secretario General de Gobierno, el Procurador General de Justicia, los Secretarios y los Coordinadores, a más tardar en la tercera sesión del segundo período ordinario de sesiones, presentarán al Congreso un informe por escrito del estado que guardan los asuntos de sus respectivos ramos. Asimismo, podrán ser llamados para asesorar y explicar al Congreso, cuando se vaya a discutir un proyecto de ley o a estudiar un negocio relacionado con las funciones de su cargo.
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
 El Procurador General de Justicia concurrirá al Congreso a través de la Junta de Coordinación Parlamentaria, cuando menos una vez al año, para analizar el estado que guarda su gestión.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2010)</small>
+
+El incumplimiento de esta obligación será causa de responsabilidad en los términos de la Ley en la materia.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1895,7 +1901,7 @@ XII.- Formular el Proyecto de Presupuesto de Egresos del Poder Judicial, así co
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-XIII.- Dirimir los conflictos que surjan entre el Poder Ejecutivo y el Legislativo del Estado, siempre que no sean de la competencia de la Cámara de Senadores del Congreso de la Unión o de la Suprema Corte de Justicia de la Nación.
+XIII.- Dirimir los conflictos que surjan entre el Poder Ejecutivo y el legislativo del Estado, siempre que no sean de la competencia de la Cámara de Senadores del Congreso de la Unión o de la Suprema Corte de Justicia de la Nación.
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1905,13 +1911,17 @@ XIV.- Resolver las controversias que se susciten entre los ayuntamientos y el Co
 
 XV.- Resolver los conflictos que se susciten entre dos o más municipios de la entidad, así como entre los municipios y el Ejecutivo del Estado, en los términos que disponga la ley.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2010)</small>
+
+XVI. Proponer, al Congreso del Estado, la creación de organismos descentralizados del Poder Judicial;
+
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-XVI.- Conocer sobre las violaciones a los derechos de los gobernados en los términos del artículo 200 de esta Constitución; y
+XVII. Conocer sobre las violaciones a los derechos de los gobernados en los términos del artículo 200 de esta Constitución; y
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-XVII.- Ejercer las demás atribuciones que le señalan las leyes.
+XVIII. Ejercer las demás atribuciones que le señalan las leyes.
 
 ###### Art. 110.
 
@@ -2631,9 +2641,11 @@ El año fiscal para el Estado y los Municipios se contará del primero de enero 
 
 Si el Congreso dejare de aprobar, en los términos de esta Constitución, las leyes de ingresos del Estado o de los municipios, así como el presupuesto de egresos del Estado, continuarán rigiendo las leyes o el presupuesto que estuvieren vigentes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2010)</small>
+
 ###### Art. 165.
 
-(DEROGADO, P.O. 1 DE OCTUBRE DE 1986)
+Los Poderes Legislativo, incluida la Auditoría Superior del Estado, y Ejecutivo del Estado, este último, tanto en la administración pública centralizada como en la paraestatal; los organismos públicos autónomos y los ayuntamientos, incluyendo las dependencias de la administración pública municipal centralizada y paraestatal y la sindicatura, deberán entregar antes del término de su función, a las autoridades entrantes, la documentación e información necesaria que permita conocer el ejercicio y funcionamiento de dicho encargo. La legislación regulará el proceso de entrega-recepción de las diferentes dependencias.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE SEPTIEMBRE DE 2005.)</small>
 
@@ -3596,3 +3608,35 @@ P.O. 14 DE JULIO DE 2010.
 PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de ha de haber sido aprobada la reforma a la Constitución Política local. Realizado que sea, publíquese el Decreto en el Periódico Oficial del Estado, para que su Artículo Primero entre en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Las reformas a la Ley de Protección Civil del Estado de Chihuahua, contenidas en el Artículo Segundo del presente Decreto, surtirán vigencia un día después de la entrada en vigor de la reforma constitucional antes citada.
+
+P.O. 28 DE JULIO DE 2010.
+
+DECRETO No. 1022/10 VII P.E., POR EL QUE SE REFORMAN LOS ARTICULOS 64 Y 109, DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIHUAHUA.
+
+PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JULIO DE 2010.
+
+DECRETO No. 1023/10 VII P.E., POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 96 DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIHUAHUA.
+
+PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JULIO DE 2010.
+
+DECRETO No. 1059/2010 II P.O., POR EL QUE SE REFORMA EL ARTICULO 165 DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y su observancia estará sujeta a lo dispuesto por la legislación secundaria.
+
+###### ARTÍCULO TERCERO.
+
+Las adecuaciones a la legislación secundaria deberán realizarse dentro de los noventa días siguientes al día en que surta vigencia el presente Decreto.
