@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interno-de-la-comision-de-derechos-humanos-del-56925
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-29"
-last_updated: "2009-08-19"
+last_updated: "2010-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56925&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 29 de agosto de 2007.
 
@@ -183,9 +183,19 @@ La Visitaduría Itinerante tendrá las facultades y obligaciones que establece e
 
 ### Capítulo I. De la Presidencia
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2010)</small>
+
 ###### Artículo 15º.
 
-La Presidencia es el órgano ejecutivo de la Comisión y está a cargo de un Presidente a quien corresponde realizar, en los términos establecidos en el Título Segundo, Capítulo Tercero, de la Ley, las funciones directivas de la Comisión, de la cual es su representante legal.
+La Presidencia es el órgano ejecutivo de la Comisión y está a cargo de un Presidente a quien corresponde realizar, en los términos establecidos del Título Segundo, Capítulo Tercero de la Ley, las funciones directivas de la Comisión, de la cual es su representante legal y por tanto tendrá además las siguientes facultades:
+
+I.- Tener la representación legal de la Comisión de Derechos Humanos del Estado de Morelos y ejercerla ante los tres órdenes de Gobierno, así como ante todo tipo de autoridades jurisdiccionales y no jurisdiccionales, ya sean federales y/o del fuero común o locales, tanto en materia civil, mercantil, administrativa, laboral, fiscal, penal, constitucional y ante cualquier otra de cualquier naturaleza y/o materia.
+
+II.- Ejercer todos los actos tendientes a la representación legal y/o defensa de los intereses de la Comisión y promover todo tipo de demandas, contestaciones de demanda y/o reconvenciones, formular denuncias y/o querellas, ofrecer pruebas, objetar e impugnar las pruebas de la contraparte; absolver y articular posiciones, transigir, celebrar convenios dentro y fuera de juicio, interponer los medios de impugnación que otorga la Ley correspondiente, inclusive el juicio de amparo y acciones de Amparo en defensa Constitucional que correspondan y en general todas y cada una de las facultades que la Ley y procedimiento correspondiente otorgue para la defensa de los intereses citados, todo lo anterior en cualquiera de las materias y autoridades indicadas en el numeral que antecede;
+
+III.- Otorgar, substituir y/o revocar poderes generales y/o especiales para pleitos y cobranzas, actos de administración, con las facultades necesarias para la correcta representación y/o defensa de los intereses de la Comisión en términos de las fracciones I y II.
+
+IV.- Ejercer todas aquellas facultades que la Ley y su reglamento le confiere y demás ordenamientos de índole federal y local que le apliquen.
 
 ###### Artículo 16º.
 
@@ -876,3 +886,7 @@ SEGUNDO.- Las presentes reformas y adiciones al Reglamento Interno de la Comisi�
 TERCERO.- Todos los procedimientos de queja que se hayan sustentado por el personal competente conforme a la Ley de Derechos Humanos del Estado de Morelos, que no impliquen repercusión en materia de las reformas y adiciones descritas en los antecedentes del presente acuerdo de (sic) Consejo Consultivo, así como en alguno de los preceptos no reformados o adicionados del Reglamento Interno de este organismo público, Manual de Organización de la Dirección de Quejas y Orientación, Estatutos o cualesquiera normatividad de observancia interna obligatoria, deberán continuar tramitándose, con base en las disposiciones correspondientes aplicadas antes del 20 de mayo de 2009.
 
 CUARTO.- Difúndase el presente acuerdo entre el personal de la Comisión de Derechos Humanos del Estado de Morelos para conocimiento y efectos.
+
+P.O. 28 DE JULIO DE 2010.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 7 DEL CODIGO CIVIL PARA EL ESTADO DE MORELOS VIGENTE.
