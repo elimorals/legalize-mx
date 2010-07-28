@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-obras-publicas-y-servicios-21883"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-08-20"
-last_updated: "2006-11-29"
+last_updated: "2010-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21883&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-08-14"
 
 REGLAMENTO DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE NOVIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, PUBLICADO EN EL D.O.F. DE 28 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el lunes 20 de agosto de 2001.
 
@@ -3622,3 +3624,33 @@ QUINTO.- Las dependencias y entidades implementarán el uso de la bitácora a tr
 En los casos en que las dependencias y entidades no dispongan de los recursos tecnológicos para implementar la bitácora en los términos del párrafo anterior, podrán solicitar a la Secretaría de la Función Pública la autorización para el uso de la bitácora por medios convencionales, quedando obligadas a implementar la bitácora a través de medios remotos de comunicación electrónica en un plazo no mayor de dos años, contados a partir de la fecha de autorización respectiva, salvo en los casos en que sean autorizadas en términos del párrafo penúltimo del artículo 93 de este Reglamento.
 
 SEXTO.- Las referencias a la Contraloría o a la Secretaría de Contraloría y Desarrollo Administrativo contenidas en las disposiciones aplicables en materia de obras públicas y servicios relacionados con las mismas, se entenderán hechas a la Secretaría de la Función Pública.
+
+D.O.F. 28 DE JULIO DE 2010
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, publicado en el Diario Oficial de la Federación el 20 de agosto de 2001.
+
+TERCERO.- Se abrogan las siguientes disposiciones:
+
+I. Acuerdo por el que se establecen los lineamientos que regulan la participación de los testigos sociales en las contrataciones que realicen las dependencias y entidades de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 16 de diciembre de 2004;
+
+II. Acuerdo que establece los lineamientos para la determinación de los índices para efectuar el ajuste de costos del asfalto y de los insumos considerados en los contratos a precios unitarios y mixtos en la parte de la misma naturaleza, formalizados al amparo de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, publicado en el Diario Oficial de la Federación el 2 de enero de 2007;
+
+III. Oficio-Circular número UNCP/309/TU/00428/2009, emitido por la Titular de la Unidad de Normatividad de Contrataciones Públicas de la Secretaría de la Función Pública, por el que se emiten los lineamientos para fomentar la participación de las micro, pequeñas y medianas empresas (MIPYMES) en los procedimientos de contratación de obras públicas y servicios relacionados con las mismas que realicen las dependencias y entidades de la Administración Pública Federal, de fecha 1 de julio de 2009, y
+
+IV. Oficio-Circular número UNCP/309/TU/00412/2009, emitido por la Titular de la Unidad de Normatividad de Contrataciones Públicas de la Secretaría de la Función Pública, por el que se emiten las Directrices para la aplicación de las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y de Obras Públicas y Servicios Relacionados con las Mismas, para efecto de facilitar la contratación que realicen las dependencias y entidades de la Administración Pública Federal, entre tanto se expiden los Reglamentos correspondientes y demás disposiciones administrativas, de fecha 23 de julio de 2009.
+
+CUARTO.- Se deroga en lo relativo a las materias de obras públicas y servicios relacionados con las mismas, el Oficio-Circular número SP/100/0128/2004, emitido por el Secretario de la Función Pública, por el que se establecen como obligatorios para las áreas administrativas de la Secretaría de la Función Pública, su órgano desconcentrado y los Órganos Internos de Control en las dependencias y entidades de la Administración Pública Federal y en la Procuraduría General de la República, los criterios de interpretación que emita la Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal, en uso de su atribución de interpretar para efectos administrativos las disposiciones de las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y de Obras Públicas y Servicios Relacionados con las Mismas, así como el Capítulo VI de la Ley General de Bienes Nacionales, de fecha 9 de febrero de 2004.
+
+QUINTO.- Se derogan las demás disposiciones que se opongan al presente Reglamento.
+
+SEXTO.- Las referencias que en este Reglamento se realicen a los oficiales mayores de las dependencias, se entenderán hechas a éstos o a los servidores públicos que, por el cambio de denominación en el puesto o cargo, asuman las atribuciones de aquéllos, en los términos de los reglamentos interiores de las propias dependencias.
+
+SÉPTIMO.- A los actos y contratos que las dependencias y entidades hayan celebrado con anterioridad a la entrada en vigor del presente Reglamento les serán aplicables las disposiciones vigentes al momento de su inicio o celebración.
+
+OCTAVO.- Tratándose de obras que tengan carácter plurianual y que a la fecha de entrada en vigor del presente Reglamento se encuentren en proceso de ejecución durante el primer año de vigencia del presente Reglamento las partes podrán acogerse de común acuerdo a lo dispuesto en este ordenamiento, para lo cual se deberán suscribir los convenios correspondientes, previa opinión de la Secretaría de la Función Pública.
+
+NOVENO.- Las dependencias y entidades contarán con un plazo de treinta días naturales contados a partir de la entrada en vigor del presente Reglamento para ajustar la integración de sus comités de obras públicas que hayan establecido, a lo previsto en el artículo 26 de este ordenamiento. Hasta en tanto se realiza el ajuste señalado, los comités referidos continuarán funcionando conforme a su integración actual.
+
+Los comités de obras públicas que hayan establecido las dependencias y entidades conforme a lo dispuesto por el artículo 25 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, deberán adecuar sus manuales de integración y funcionamiento a lo dispuesto en el presente Reglamento, en un plazo que no deberá exceder de sesenta días naturales contados a partir de su entrada en vigor.
