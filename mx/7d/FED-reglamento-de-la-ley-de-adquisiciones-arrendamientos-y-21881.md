@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-21881"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-08-20"
-last_updated: "2006-11-30"
+last_updated: "2010-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21881&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-08-14"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO, PUBLICADO EN EL D.O.F. DE 28 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el lunes 20 de agosto de 2001.
 
@@ -1530,3 +1532,27 @@ SEGUNDO.- Las dependencias y entidades ajustarán sus políticas, bases y lineam
 TERCERO.- Las propuestas desechadas y las que no hayan resultado adjudicadas en procedimientos iniciados con anterioridad a la entrada en vigor del Decreto de reformas y adiciones a la Ley, publicado en el Diario Oficial de la Federación el 7 de julio de 2005, podrán ser devueltas o destruidas en la forma y términos de lo dispuesto en el último párrafo del artículo 56 de la Ley.
 
 CUARTO.- Las referencias a la Contraloría o a la Secretaría de Contraloría y Desarrollo Administrativa contenidas en las disposiciones aplicables en materia de adquisiciones, arrendamientos y servicios del sector público, se entenderán hechas a la Secretaría de la Función Pública.
+
+D.O.F. 28 DE JULIO DE 2010.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, publicado en el Diario Oficial de la Federación el 20 de agosto de 2001.
+
+TERCERO.- Se abroga el Oficio-Circular número UNCP/309/TU/0427/2009, emitido por la Titular de la Unidad de Normatividad de Contrataciones Públicas de la Secretaría de la Función Pública, por el que se emiten los lineamientos para fomentar la participación de las micro, pequeñas y medianas empresas (MIPYMES) en los procedimientos de adquisición y arrendamiento de bienes muebles, así como la contratación de servicios que realicen las dependencias y entidades de la Administración Pública Federal, de fecha 1 de julio de 2009.
+
+CUARTO.- Se derogan en lo relativo a las materias de adquisiciones, arrendamientos y servicios, las siguientes disposiciones:
+
+I. Oficio-Circular número SP/100/0128/2004, emitido por el Secretario de la Función Pública, por el que se establecen como obligatorios para las áreas administrativas de la Secretaría de la Función Pública, su órgano desconcentrado y los Órganos Internos de Control en las dependencias y entidades de la Administración Pública Federal y en la Procuraduría General de la República, los criterios de interpretación que emita la Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal, en uso de su atribución de interpretar para efectos administrativos las disposiciones de las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y de Obras Públicas y Servicios Relacionados con las Mismas, así como el Capítulo VI de la Ley General de Bienes Nacionales, de fecha 9 de febrero de 2004, y
+
+II. Oficio-Circular número UNCP/309/TU/00412/2009, emitido por la Titular de la Unidad de Normatividad de Contrataciones Públicas de la Secretaría de la Función Pública, por el que se emiten las Directrices para la aplicación de las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y de Obras Públicas y Servicios Relacionados con las Mismas, para efecto de facilitar la contratación que realicen las dependencias y entidades de la Administración Pública Federal, entre tanto se expiden los Reglamentos correspondientes y demás disposiciones administrativas, de fecha 23 de julio de 2009.
+
+QUINTO.- Se derogan las demás disposiciones que se opongan al presente Reglamento.
+
+SEXTO.- Las referencias que en este Reglamento se realicen a los oficiales mayores de las dependencias, se entenderán hechas a éstos o a los servidores públicos que, por el cambio de denominación en el puesto o cargo, asuman las atribuciones de aquéllos, en los términos de los reglamentos interiores de las propias dependencias.
+
+SÉPTIMO.- A los actos y contratos que las dependencias y entidades hayan celebrado con anterioridad a la entrada en vigor del presente Reglamento, les serán aplicables las disposiciones vigentes al momento de su inicio o celebración.
+
+OCTAVO.- Las dependencias y entidades contarán con un plazo de treinta días naturales contados a partir de la entrada en vigor del presente Reglamento para ajustar la integración de sus comités de adquisiciones, arrendamientos y servicios a lo previsto en el artículo 19 de este ordenamiento. Hasta en tanto se realiza el ajuste señalado, los comités referidos continuarán funcionando conforme a su integración actual.
+
+Los comités de adquisiciones, arrendamientos y servicios de las dependencias y entidades deberán adecuar sus manuales de integración y funcionamiento a lo dispuesto en el presente Reglamento, en un plazo que no deberá exceder de sesenta días naturales contados a partir de su entrada en vigor.
