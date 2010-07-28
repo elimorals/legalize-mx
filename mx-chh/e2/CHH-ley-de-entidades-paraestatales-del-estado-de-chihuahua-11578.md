@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-entidades-paraestatales-del-estado-de-chihuahua-11578"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-28"
-last_updated: "2009-01-31"
+last_updated: "2010-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de enero de 1998.
 
@@ -64,6 +64,14 @@ Son entidades paraestatales las que con tal carácter determina la Ley Orgánica
 Las universidades y demás instituciones de educación superior a las que la ley otorgue autonomía, se regirán por sus leyes específicas.
 
 La Comisión Estatal de Derechos Humanos y el Consejo Estatal de Elecciones, atendiendo a sus objetivos y a la naturaleza de sus funciones, quedan excluidos de la observancia del presente ordenamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2010)</small>
+
+Así mismo, quedan excluidos de la observancia de esta ley los organismos descentralizados de los Poderes legislativo y Judicial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2010)</small>
+
+Dichos organismos se sujetarán a lo previsto en los decretos que les dieron origen.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
 
@@ -780,3 +788,9 @@ P.O. 31 DE ENERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entraré en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JULIO DE 2010.
+
+PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y. en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
