@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2008-01-29"
+last_updated: "2010-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE JULIO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -320,7 +320,9 @@ III. Generar y difundir información sobre los derechos sexuales y reproductivos
 
 IV. Ejecutar programas especializados para prevenir las afectaciones en la salud mental de las mujeres;
 
-V. Elaborar informes semestrales de las acciones realizadas en el cumplimiento de la Norma Oficial Mexicana NOM-190-SSA1-1999, Prestación de servicios de salud;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2010)</small>
+
+V. Elaborar informes semestrales de las acciones realizadas en el cumplimiento de la NOM-046-SSA2-2005 “Violencia familiar, sexual y contra las mujeres. Criterios para la prevención y atención” y las demás Normas Oficiales Mexicanas en materia de salud para las mujeres, y
 
 VI. Las demás que le señalen las disposiciones legales.
 
@@ -975,3 +977,9 @@ En un plazo no mayor a sesenta días hábiles a partir de la entrada en vigor de
 Recinto de la Asamblea Legislativa del Distrito Federal, a los trece días del mes de diciembre del año dos mil siete.- POR LA MESA DIRECTIVA.- DIP. KENIA LÓPEZ RABADÁN, PRESIDENTA.- DIP. MARÍA ELBA GÁRFIAS MALDONADO, SECRETARIA.- DIP. ALFREDO VINALAY MORA, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, base segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veinte días del mes de diciembre del año dos mil siete.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, JESÚS ARTURO AISPURO CORONEL.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, A. JOEL ORTEGA CUEVAS.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 29 DE JULIO DE 2010.
+
+ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
