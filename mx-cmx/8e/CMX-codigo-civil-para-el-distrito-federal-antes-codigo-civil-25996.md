@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2010-05-14"
+last_updated: "2010-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE JULIO DE 2010.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -193,9 +193,7 @@ El mayor de edad tiene la facultad de disponer libremente de su persona y de sus
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CODIGO.</small>
-
-> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
 
 ### CAPITULO II. De las actas de nacimiento
 
@@ -311,7 +309,7 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 
 ###### ARTICULO 35.
 
-En el Distrito Federal estará a cargo de los Jueces del Registro Civil autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo, y muerte de los mexicanos y extranjeros en el Distrito Federal, al realizarse el hecho o acto de que se trate, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes y las sentencias que ordenen el levantamiento de una nueva acta por la reasignación para la concordancia sexo-genérica, previa la anotación correspondiente al acta de nacimiento primigenia, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables.
+En el Distrito Federal estará a cargo de los Jueces del Registro Civil autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo, y defunción de los mexicanos y extranjeros en el Distrito Federal, al realizarse el hecho o acto de que se trate, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes y las sentencias que ordenen el levantamiento de una nueva acta por la reasignación para la concordancia sexo-genérica, previa la anotación correspondiente al acta de nacimiento primigenia, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -319,9 +317,9 @@ En el Distrito Federal estará a cargo de los Jueces del Registro Civil autoriza
 
 Los Jueces del Registro Civil, asentarán en formas especiales que se denominarán "Formas del Registro Civil", las actas a que se refiere el artículo anterior.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
 
-Las inscripciones se harán mecanográficamente y por duplicado.
+Las inscripciones se harán a través de los soportes informáticos que se contengan y en su caso, mecanográficamente.
 
 > <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -335,11 +333,13 @@ Las actas del Registro Civil, sólo se pueden asentar en las formas de que habla
 
 La infracción de esta regla producirá la nulidad del acta y se castigará con la destitución del Juez del Registro Civil.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 38.
 
-Si se perdiere o destruyere alguna de las Formas del Registro Civil, se sacará inmediatamente copia de alguno de los ejemplares que obren en los archivos que esta Ley señala en su artículo 41.
+Si se perdiere o destruyere alguna de las Formas del Registro Civil, se sacará inmediatamente copia de alguno de los ejemplares que obren en los archivos que esta Ley señala en su artículo 41, o bien copia de la base de datos a que se refiere el último párrafo del artículo 36 de este Código.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 La Procuraduría General de Justicia del Distrito Federal, cuidará de que se cumpla esta disposición y a este efecto, el Juez del Registro Civil o el encargado del Archivo Judicial, le darán aviso de la pérdida.
 
@@ -358,6 +358,10 @@ El Registro Civil podrá emitir constancias parciales que contengan extractos de
 ###### ARTICULO 40.
 
 Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren las formas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumento o testigos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE JULIO DE 2010)</small>
+
+Para las actas cuyo contenido sea notoriamente ilegible, la Dirección General del Registro Civil del Distrito Federal, podrá habilitar la expedición de la copia certificada de manera mecanográfica siempre y cuando se pruebe el acto por instrumento.
 
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -421,11 +425,11 @@ Las actas del Registro Civil extendidas conforme a las disposiciones que precede
 
 Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la Ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 51.
 
-Para establecer el estado civil adquirido por los habitantes del Distrito Federal fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto en el Código de Procedimientos Civiles, y siempre que se registren en la Oficina del Distrito Federal que corresponda.
+Para establecer el estado civil adquirido por los mexicanos del Distrito Federal fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales firmados y ratificados por México, el Código Civil y el Código de Procedimientos Civiles del Distrito Federal, y siempre que se registren en la Oficina del Distrito Federal que corresponda.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -475,9 +479,9 @@ Para el registro de nacimiento a domicilio deberá estarse a lo dispuesto en el 
 
 El acta de nacimiento contendrá el día, la hora y el lugar de nacimiento, el sexo del presentado, el nombre o nombres propios y los apellidos paterno y materno que le correspondan; asimismo, en su caso, la razón de si el registrado se ha presentado vivo o muerto y la impresión digital del mismo. Si se desconoce el nombre de los padres, el Juez del Registro Civil le pondrá el nombre y apellidos, haciendo constar esta circunstancia en el acta.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
 
-Si el nacimiento ocurriere en un establecimiento de reclusión del Distrito Federal, el Juez del Registro Civil deberá asentar como domicilio del nacido, el que señalen sus padres, o en su caso, quien realice la presentación.
+El juez del registro civil, exhortará a quien presente al menor que el nombre propio con el que se pretende registrar no sea peyorativo, discriminatorio, infamante, denigrante, carente de significado, o que constituya un signo, símbolo o siglas, o bien que exponga al registrado a ser objeto de burla.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -499,7 +503,9 @@ Cuando no estén casados, el reconocimiento se hará concurriendo los dos person
 
 La investigación tanto de la maternidad como de la paternidad, podrá hacerse ante los tribunales de acuerdo a las disposiciones relativas a este Código.
 
-Además de los nombres de los padres, se hará constar en el acta de nacimiento su nacionalidad y domicilio.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
+
+Además de los nombres de los padres, se hará constar en el acta de nacimiento su nacionalidad, edad, ocupación y domicilio.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -585,7 +591,7 @@ Cuando se trate de parto múltiple, se levantará un acta por cada uno de los na
 
 ### CAPITULO V. De las actas de tutela
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 77.
 
@@ -667,9 +673,13 @@ En caso de adopción, a partir del levantamiento del acta, se harán las anotaci
 
 ###### ARTICULO 89.
 
-Pronunciado el auto de discernimiento de la tutela y publicado en los términos que previene el Código de Procedimientos Civiles, el Juez de lo Familiar remitirá copia certificada del auto mencionado al Juez del Registro Civil para que realice la inscripción de la ejecutoria respectiva y haga las anotaciones en el acta de nacimiento y/o matrimonio del incapacitado.
+Pronunciado el auto de discernimiento de la tutela y publicado en los términos que previene el Código de Procedimientos Civiles, el Juez de lo Familiar remitirá copia certificada del auto mencionado al Juez del Registro Civil, para que realice la inscripción de la ejecutoria respectiva y haga las anotaciones en el acta de nacimiento y/o matrimonio del incapacitado.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 Si la inscripción se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento o matrimonio, el juez del Registro Civil que autorice la inscripción remitirá copia de ésta a la Oficina que haya registrado el nacimiento o matrimonio para que haga la anotación en el acta respectiva.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 El Curador cuidará del cumplimiento de este artículo.
 
@@ -715,9 +725,9 @@ En los casos de emancipación por efecto del matrimonio, no se extenderá acta p
 
 Las personas que pretendan contraer matrimonio, deberán presentar un escrito ante el Juez del Registro Civil de su elección, que deberá contener:
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2010)</small>
 
-I. Los nombres, apellidos, edad, ocupación y domicilio de los pretendientes, nombre y apellido de sus padres.
+I.- Los nombres, apellidos, edad, ocupación, domicilio y nacionalidad de los pretendientes, nombre, apellidos y nacionalidad de sus padres;
 
 > <small>(REFORMADA, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -743,9 +753,9 @@ Para el caso de matrimonios fuera de las oficinas del Registro Civil deberá obs
 
 Al escrito al que se refiere el artículo anterior, se acompañará:
 
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2010)</small>
 
-I.- El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto sea notorio que son menores de diecisés (sic) años.
+I. Copia certificada del acta de nacimiento de los pretendientes;
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -799,27 +809,39 @@ El matrimonio se celebrará dentro de los ocho días siguientes a la presentaci�
 
 En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante el Juez del Registro Civil, los pretendientes o su apoderado especial constituido en la forma prevenida en el artículo 44.
 
-Acto continuo, el Juez del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, les hará saber los derechos y obligaciones legales que contraen con el matrimonio, para posteriormente preguntar a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+Acto continuo, el Juez del Registro Civil leerá en voz alta el acta respectiva y les hará saber los derechos y obligaciones legales que contraen con el matrimonio, para posteriormente preguntar a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 103.
 
-Se levantará luego el acta de matrimonio en la cual se hará constar:
+El acta de matrimonio contendrá la siguiente información:
 
-I.- Los nombres, apellidos, edad, ocupación, domicilio y lugar de nacimiento de los contrayentes;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2010)</small>
 
-II.- Si son mayores o menores de edad;
+I. Los nombres, apellidos, edad, ocupación, domicilio, lugar de nacimiento y nacionalidad de los contrayentes;
 
-III.- Los nombres, apellidos, ocupación y domicilio de los padres;
+II. (REFORMADA [N. DE E. DEROGADA], G.O. 29 DE JULIO DE 2010)
+
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2010)</small>
+
+III. Los nombres, apellidos, ocupación, domicilio y nacionalidad de los padres;
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
 IV.- En su caso, el consentimiento de quien ejerza la patria potestad, la tutela o las autoridades que deban suplirlo;
 
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
+
 V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
+
 VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos, que hará el Juez en nombre de la Ley y de la sociedad;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
 
 VII.- La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
 
@@ -832,6 +854,8 @@ IX. Que se cumplieron las formalidades exigidas por el artículo anterior.
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 El acta será firmada por el Juez del Registro Civil, los contrayentes y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 En el acta se imprimirán las huellas digitales de los contrayentes.
 
@@ -899,9 +923,9 @@ El Juez del Registro Civil que reciba una solicitud de matrimonio, exigirá de l
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 13 DE ENERO DE 2004)</small>
 
-### CAPITULO X. De las Inscripciones de las Ejecutorias que Declaran o Modifican el Estado Civil
+### CAPITULO X. De las Inscripciones de las Anotaciones que Declaran o Modifican el Estado Civil y la Capacidad Legal de las Personas
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 114.
 
@@ -1013,7 +1037,7 @@ En todos los casos de muerte violenta en los establecimientos de reclusión, no 
 
 (DEROGADO, D.O.F. 3 DE ENERO DE 1979)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE JULIO DE 2010)</small>
 
 ### CAPITULO UNICO
 
@@ -1023,7 +1047,7 @@ En todos los casos de muerte violenta en los establecimientos de reclusión, no 
 
 Las autoridades judiciales que declaren la ausencia, la presunción de muerte, la tutela, el divorcio o que se ha perdido o limitado la capacidad para administrar bienes, dentro del término de ocho días remitirán al Juez del Registro Civil correspondiente, copia certificada de la ejecutoria respectiva.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 132.
 
@@ -2063,11 +2087,13 @@ Los jueces de lo familiar están obligados a suplir la deficiencia de las partes
 
 Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en los casos de divorcio respecto del o los convenios propuestos.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 272.
 
-Procede el divorcio administrativo cuando habiendo transcurrido un año o más de la celebración del matrimonio, ambos cónyuges convengan en divorciarse, sean mayores de edad, hayan liquidado la sociedad conyugal de bienes, si están casados bajo ese régimen patrimonial, la cónyuge no esté embarazada, no tengan hijos en común, o teniéndolos, sean mayores de edad, y éstos no requieran alimentos o alguno de los cónyuges. El Juez del Registro Civil, previa identificación de los cónyuges, levantará un acta en que hará constar la solicitud de divorcio y citará a éstos para que la ratifiquen a los quince días. Si los cónyuges lo hacen, el Juez los declarará divorciados y hará la anotación correspondiente en la del matrimonio anterior.
+Procede el divorcio administrativo cuando habiendo transcurrido un año o más de la celebración del matrimonio, ambos cónyuges convengan en divorciarse, sean mayores de edad, hayan liquidado la sociedad conyugal de bienes, si están casados bajo ese régimen patrimonial, la cónyuge no esté embarazada, no tengan hijos en común o teniéndolos sean mayores de edad, y éstos no requieran alimentos o alguno de los cónyuges. El Juez del Registro Civil, previa identificación de los cónyuges, y ratificando en el mismo acto la solicitud de divorcio, levantará un acta en que los declarará divorciados y hará la anotación correspondiente en la del matrimonio anterior.
+
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
 Si se comprueba que los cónyuges no cumplen con los supuestos exigidos, el divorcio así obtenido no producirá efectos, independientemente de las sanciones previstas en las leyes.
 
@@ -2245,11 +2271,11 @@ En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contr
 
 La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 291.
 
-Ejecutoriada una sentencia de divorcio, el Juez de lo Familiar, bajo su más estricta responsabilidad, remitirá copia de ella al Juez del Registro Civil ante quien se celebró el matrimonio, para que levante el acta de divorcio, haga la anotación correspondiente en la del matrimonio disuelto, y además, para que publique un extracto de la resolución durante quince días, en las tablas destinadas al efecto.
+Ejecutoriada una sentencia de divorcio, el Juez de lo Familiar, bajo su más estricta responsabilidad, remitirá copia de ella al Juez del Registro Civil ante quien se celebró el matrimonio, para que realice la anotación correspondiente en la del matrimonio disuelto.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -14150,3 +14176,9 @@ G.O. 14 DE MAYO DE 2010.
 PRIMERO.- La presente Ley entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 29 DE JULIO DE 2010.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial del (sic) la Federación.
