@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2010-04-27"
+last_updated: "2010-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JULIO DE 2010.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -354,6 +354,10 @@ Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para
 
 Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
 
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 2010)</small>
+
+El Congreso de la Unión expedirá las leyes que regulen las acciones colectivas. Tales leyes determinarán las materias de aplicación, los procedimientos judiciales y los mecanismos de reparación del daño. Los jueces federales conocerán de forma exclusiva sobre estos procedimientos y mecanismos.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
 
 Las leyes preverán mecanismos alternativos de solución de controversias. En la materia penal regularán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
@@ -369,8 +373,6 @@ Las leyes federales y locales establecerán los medios necesarios para que se ga
 La Federación, los Estados y el Distrito Federal garantizarán la existencia de un servicio de defensoría pública de calidad para la población y asegurarán las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
-
-(VEASE ARCHIVO ANEXO)
 
 > <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
@@ -5635,6 +5637,12 @@ Quinto. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea 
 D.O.F. 27 DE ABRIL DE 2010.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE JULIO DE 2010.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Congreso de la Unión deberá realizar las adecuaciones legislativas que correspondan en un plazo máximo de un año contado a partir del inicio de la vigencia de este Decreto.
 
 ###### ARTICULO PRIMERO.
 
