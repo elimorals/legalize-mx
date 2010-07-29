@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-las-personas-con-discapacidad-del-distrito-federal-837
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2008-12-03"
+last_updated: "2010-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=837&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-12-14"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE JULIO DE 2010.
 
 Ley publicada en el Gaceta Oficial del Distrito Federal, el jueves 21 de diciembre de 1995.
 
@@ -50,11 +50,9 @@ La presente Ley es de orden público e interés social y tiene por objeto normar
 
 Para los efectos de esta Ley se entenderá por:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2010)</small>
 
-> <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2008)</small>
-
-I.- Persona con discapacidad.- Todo ser humano que presenta permanentemente una afección parcial o total en sus facultades físicas, intelectuales o sensoriales que le limitan realizar una actividad normal y le afectan en su entorno social;
+I.- Persona con Discapacidad.- Todo ser humano que presenta, temporal o permanentemente, alguna deficiencia parcial o total en sus facultades físicas, intelectuales o sensoriales, que le limitan la capacidad de realizar una o más actividades de la vida diaria, y que puede ser agravada por el entorno económico o social;
 
 II.- Prevención.- La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, mentales y sensoriales;
 
@@ -569,3 +567,9 @@ Primero.- El presente Decreto, entrará en vigor a los treinta días de su publi
 Segundo.- El Gobierno del Distrito Federal y la Asamblea Legislativa del Distrito Federal, deberán disponer en el presupuesto de egresos correspondiente al año 2009, los recursos necesarios para los programas habitacionales de las personas con discapacidad.
 
 Tercero.- El Jefe de Gobierno del Distrito Federal, en un término de noventa días contados a partir de la publicación de este Decreto, realizará las adecuaciones procedentes, que se deriven del presente Decreto de6 (sic) la Iniciativa que Reforma y Adiciona diversos Artículos de la Ley para personas con discapacidad del Distrito Federal.
+
+G.O. 29 DE JULIO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
