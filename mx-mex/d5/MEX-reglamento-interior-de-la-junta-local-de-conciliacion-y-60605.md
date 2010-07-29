@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-junta-local-de-conciliacion-y-60605"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-05"
-last_updated: "2010-07-16"
+last_updated: "2010-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL VALLE DE TOLUCA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2010 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA JUNTA LOCAL O DE CONCILIACIÓN Y ARBITRAJE DEL VALLE DE TOLUCA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2010.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 29 DE JULIO DE 2010 NO APLICA AL ARTICULADO DE LAS REFORMAS PUBLICADAS EN LA G.G. DE 16 DE JULIO DE 2010.</small>
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 5 de marzo de 2008.
 
