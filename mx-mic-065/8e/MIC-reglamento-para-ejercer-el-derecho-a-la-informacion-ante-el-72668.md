@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-ejercer-el-derecho-a-la-informacion-ante-el-726
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-01"
-last_updated: "2010-02-01"
+last_updated: "2010-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL AYUNTAMIENTO DE PARACHO, MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2010.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el lunes 1 de febrero de 2010.
 
@@ -113,17 +113,23 @@ Los titulares de las dependencias, entidades y unidades administrativas serán r
 
 ### CAPÍTULO II. DEL ÓRGANO RESPONSABLE
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2010)</small>
+
 ###### Artículo 6.
 
-Para el eficaz y debido cumplimento del acceso a la información en el Ayuntamiento de Paracho, el órgano responsable de recibir, atender y dar respuesta a las solicitudes de información Pública del Municipio será la Tesorería, apoyada por la Secretaría y la Contraloría.
+Para el eficaz y debido cumplimento del acceso a la información en el Ayuntamiento de Paracho, el órgano responsable de recibir, atender y dar respuesta a las solicitudes de información Pública del Municipio será el que en su momento designe el Presidente Municipal, con el apoyo de las dependencias y entidades de la Administración Pública Municipal.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2010)</small>
 
 ###### Artículo 7.
 
-La Tesorería es el área responsable de operar el procedimiento de acceso a la información en el Ayuntamiento de Paracho, Michoacán, y resolver las solicitudes de información pública que se presenten.
+El área jurídica auxiliará al órgano encargado responsable de operar el procedimiento de acceso a la información en el Ayuntamiento de Paracho, Michoacán, para resolver las solicitudes de información pública que se presenten.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2010)</small>
 
 ###### Artículo 8.
 
-El Tesorero será el responsable de compilar sistemáticamente en medios electrónicos la Información de Oficio, entre las dependencias, entidades y unidades que la tengan a su resguardo, para su adecuada y oportuna difusión mediante tecnologías de comunicación.
+El encargado municipal de acceso a la información pública será el responsable de compilar sistemáticamente en medios electrónicos la Información de Oficio, que le proporcionen las dependencias, entidades y unidades que la tengan a su resguardo, para su adecuada y oportuna difusión mediante tecnologías de comunicación.
 
 ###### Artículo 9.
 
@@ -137,11 +143,15 @@ La responsabilidad de la veracidad y oportunidad de la información de oficio y 
 
 En el supuesto de existir duda en la aplicación del presente ordenamiento, su interpretación corresponderá al Ayuntamiento.
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DE LA TESORERÍA EN MATERIA DE ACCESO A LA INFORMACIÓN DEL AYUNTAMIENTO
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE JULIO DE 2010)</small>
+
+### CAPÍTULO III. DE LAS ATRIBUCIONES DEL ÁREA ENCARGADA EN MATERIA DE ACCESO A LA INFORMACIÓN DEL AYUNTAMIENTO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2010)</small>
 
 ###### Artículo 12.
 
-Son atribuciones de la Tesorería como área responsable de atender las solicitudes de información que se presenten ante el Ayuntamiento:
+Son atribuciones del área encargada como área responsable de atender las solicitudes de información que se presenten ante el Ayuntamiento:
 
 I. Recibir, atender, tramitar y dar respuesta a las solicitudes de acceso a la información que se presenten ante el Ayuntamiento, en los términos de la Ley de la materia y de las disposiciones complementarias aplicables;
 
@@ -151,19 +161,25 @@ III. Proponer al Ayuntamiento los lineamientos y políticas generales para el ma
 
 IV. Las demás que le confiera este Reglamento y/o el Ayuntamiento.
 
-### CAPÍTULO IV. DEL FUNCIONAMIENTO DE LA TESORERÍA COMO ÁREA RESPONSABLE DE ATENDER SOLICITUDES DE INFORMACIÓN PÚBLICA
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2010)</small>
+
+### CAPÍTULO IV. DEL FUNCIONAMIENTO DEL ÁREA RESPONSABLE DE ATENDER SOLICITUDES DE INFORMACIÓN PÚBLICA
 
 ###### Artículo 13.
 
 La Tesorería proporcionará la información en el estado en que se encuentre, en los términos de la Ley, conforme a las formalidades previstas para tal efecto y con estricto apego a las garantías constitucionales y legales en la materia. La Tesorería no tiene la obligación de crear o producir información que no sea de su competencia, o proporcionarla en forma distinta a como existe.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2010)</small>
+
 ###### Artículo 14.
 
-La Tesorería en materia de Acceso a la Información Pública solicitará mediante oficio la documentación, de la que preceda solicitud, para efectos de verificar la naturaleza de la información que se está solicitando y estar en condiciones de garantizar la certeza de sus decisiones.
+El área encargada, en materia de Acceso a la Información Pública solicitará mediante oficio la documentación de la que preceda solicitud, para efectos de verificar la naturaleza de la información que se está solicitando y estar en condiciones de garantizar la certeza de sus decisiones.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2010)</small>
 
 ###### Artículo 15.
 
-Los titulares de las dependencias, entidades y unidades administrativas municipales deberán proporcionar el apoyo necesario a la Tesorería en materia de Acceso a la Información Pública para garantizar el buen desempeño de sus funciones establecidas.
+Los titulares de las dependencias, entidades y unidades administrativas municipales deberán proporcionar el apoyo necesario al área encargada en materia de Acceso a la Información Pública para garantizar el buen desempeño de sus funciones establecidas.
 
 ###### Artículo 16.
 
@@ -175,9 +191,11 @@ El servidor público que teniendo bajo su responsabilidad la custodia de informa
 
 ### CAPÍTULO V. DEL PROCEDIMIENTO PARA EJERCER EL DERECHO DE ACCESO A LA INFORMACIÓN
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2010)</small>
+
 ###### Artículo 18.
 
-Para ejercer el derecho de acceso a la información, cualquier persona podrá presentar solicitud de acceso a la información ante la Tesorería en los términos establecidos en la Ley de la Materia, así como de las disposiciones complementarias, la información que requiera y que sea creada, administrada o esté en posesión del Ayuntamiento.
+Para ejercer el derecho de acceso a la información, cualquier persona podrá presentar solicitud de acceso a la información ante el área encargada en los términos establecidos en la Ley de la Materia, así como de las disposiciones complementarias, la información que requiera y que sea creada, administrada o esté en posesión del Ayuntamiento.
 
 ###### Artículo 19.
 
@@ -354,3 +372,11 @@ P.L.A. ISRAEL RUBIO RÍOS
 CONTRALOR MUNICIPAL
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE JULIO DE 2010.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
