@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2010-05-03"
+last_updated: "2010-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE JULIO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -324,7 +324,9 @@ XI. Coadyuvar a la modificación de hábitos, costumbres y actitudes relacionado
 
 XII. Establecer y promover esquemas de participación de la población, en todos los aspectos relacionados con la salud;
 
-XIII. Coadyuvar al bienestar y desarrollo integral, desde el punto de vista de salud, de los grupos poblacionales específicos, tales como adultos mayores, mujeres, comunidades indígenas, personas con capacidades diferentes, entre otros, y
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2010)</small>
+
+XIII. Coadyuvar al bienestar y desarrollo integral, desde el punto de vista de salud, de los grupos poblacionales específicos, tales como adultos mayores, mujeres, comunidades indígenas, personas con discapacidad, entre otros, y
 
 XIV. Los demás que le sean reconocidos en el marco del funcionamiento y organización del Sistema Nacional de Salud.
 
@@ -374,7 +376,9 @@ XX. Fomentar la realización de programas y actividades de investigación, ense�
 
 XXI. Suscribir convenios de coordinación y concertación con la Secretaría Federal de conformidad a lo dispuesto en el artículo 3o. de la Ley General;
 
-XXII. Impulsar y apoyar la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades, accidentes e invalidez y de rehabilitación;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2010)</small>
+
+XXII. Impulsar y apoyar la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades, accidentes y discapacidades, además de su rehabilitación;
 
 XXIII. Promover la participación, en el sistema local de salud, de los prestadores de servicios de salud, de los sectores público, social y privado, del personal de salud y de los usuarios de los mismos, así como de las autoridades o representantes de las comunidades indígenas y de otros grupos sociales, en los términos de las disposiciones aplicables. Asimismo, fomentar la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos, y
 
@@ -424,7 +428,9 @@ r) La prestación de servicios de prevención y el control de enfermedades trans
 
 s) La prestación de servicios para la vigilancia epidemiológica;
 
-t) La prestación de servicios médicos de prevención de la invalidez y discapacidad y la rehabilitación de los inválidos y personas discapacitadas, especialmente con afecciones auditivas, visuales y motoras;
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
+
+t) La prestación de servicios médicos de prevención de discapacidades, así como su rehabilitación, especialmente de aquellas personas con afecciones auditivas, visuales y motoras;
 
 u) El desarrollo de programas de salud en materia de donación y transplantes de órganos;
 
@@ -672,7 +678,9 @@ En materia de medicina preventiva, el Gobierno tiene las siguientes atribuciones
 
 I. Realizar y promover acciones de fomento y protección a la salud que incidan sobre los individuos y las familias para obtener un estilo de vida que les permita alcanzar una mayor longevidad con el disfrute de una vida plena y de calidad;
 
-II. Programar, organizar y orientar las actividades de promoción y conservación de la salud, así como la prevención de las enfermedades, accidentes e invalidez;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2010)</small>
+
+II. Programar, organizar y orientar las actividades de promoción y conservación de la salud, así como la prevención de las enfermedades, accidentes y discapacidades;
 
 III. Fomentar la salud individual y colectiva por medio de políticas sanitarias de anticipación, promoviendo y coordinando la participación intersectorial y de la comunidad en general, de manera intensiva y permanente;
 
@@ -988,7 +996,9 @@ I. Fomentar en la población el desarrollo de actitudes y conductas que le permi
 
 II. Proporcionar a las personas los conocimientos y la información necesaria sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del medio ambiente en la salud y, en su caso, la manera de prevenirlos y atenderlos, y
 
-III. Orientar y capacitar a la población preferentemente en materia de nutrición, prevención y combate de los problemas alimenticios, salud mental, salud bucal, educación sexual y reproductiva, planificación familiar, riesgos de automedicación, programas contra el tabaquismo y alcoholismo, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades, entre otros.
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2010)</small>
+
+III. Orientar y capacitar a la población preferentemente en materia de nutrición, prevención y combate de los problemas alimenticios, salud mental, salud bucal, educación sexual y reproductiva, planificación familiar, riesgos de automedicación, programas contra el tabaquismo y alcoholismo, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de las discapacidades y detección oportuna de enfermedades, entre otros.
 
 ### Capítulo XVII. Nutrición, Obesidad y Trastornos Alimenticios
 
@@ -1858,9 +1868,11 @@ El titular o poseedor de la construcción, reconstrucción, modificación o acon
 
 Los edificios, locales, construcciones o terrenos urbanos, podrán ser verificados por el Gobierno, por conducto de las Delegaciones y por la Agencia sin interferencia de atribuciones conforme a lo establecido en la Ley de Desarrollo Urbano del Distrito Federal y en esta Ley, por su parte, la Agencia ordenará las obras necesarias para satisfacer las condiciones higiénicas y de seguridad en los términos de esa Ley y del reglamento aplicable.
 
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
+
 ###### Artículo 154.
 
-Los titulares o responsables de las construcciones, edificios, locales o negocios en ellos establecidos, están obligados a ejecutar las obras que se requieran para cumplir con las disposiciones de higiene y sanidad, así como de adecuación para las personas con capacidades diferentes, que correspondan.
+Los titulares o responsables de las construcciones, edificios, locales o negocios en ellos establecidos, están obligados a ejecutar las obras que se requieran para cumplir con las disposiciones de higiene y sanidad, así como de adecuación para las personas con discapacidad, que correspondan.
 
 ###### Artículo 155.
 
@@ -2351,3 +2363,9 @@ G.O. 3 DE MAYO DE 2010.
 Primero.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 29 DE JULIO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
