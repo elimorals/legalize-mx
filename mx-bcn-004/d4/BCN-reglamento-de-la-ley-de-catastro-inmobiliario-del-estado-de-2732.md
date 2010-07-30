@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-catastro-inmobiliario-del-estado-de-273
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-12-02"
-last_updated: "2004-12-24"
+last_updated: "2010-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DEL CATASTRO INMOBILIARIO DEL ESTADO DE BAJA CALIFORNIA PARA EL MUNICIPIO DE TIJUANA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2010.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 2 de diciembre de 1994.
 
@@ -469,7 +469,11 @@ I. Acreditar que posee Título Profesional a nivel licenciatura con cédula esta
 
 II. Acreditar como mínimo 3 años de experiencia en el ejercicio profesional de trabajos topográficos, de deslindes de predios, rectificación o aclaración de linderos.
 
-III. Acreditar mediante exámenes teóricos y prácticos, que posee conocimientos de la Ley de Desarrollo Urbano, Ley de Catastro Inmobiliario, Ley de Hacienda Municipal, así como del Reglamento de la Ley del Catastro Inmobiliario del Estado de Baja California para el Municipio de Tijuana, Normas Técnicas y manuales operativos emitidos por la autoridad conforme a las leyes y reglamentos relativos. En el caso de peritos autorizados, éstos deberán presentar examen de actualización cada tres años.
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2010)</small>
+
+III. Para los aspirantes a formar parte del padrón de peritos deslindadores, estos deberán acreditar mediante exámenes teóricos y prácticos, que poseen conocimientos de la Ley de Desarrollo Urbano, Reglamento de Ley de Catastro Inmobiliario del Estado de Baja California para el municipio de Tijuana, normas técnicas y manuales operativos emitidos por la Autoridad conforme a las Leyes y demás Reglamentos relativos.
+
+En el caso de peritos ya autorizados, estos deberán revalidar cada tres años, con la acreditación de curso de actualización, con duración mínima de 30 horas, el cual será impartido y avalado por la Autoridad Municipal y un Colegio de Profesionistas de la materia.
 
 IV. No haber sido condenado por sentencia ejecutoriada por delito intencional con motivo del ejercicio de su profesión.
 
@@ -489,7 +493,9 @@ II. Otorgar o revalidar de acuerdo a lo establecido en este reglamento el regist
 
 III. Llevar un registro de los trabajos topográficos, operaciones de deslindes catastrales o levantamientos topográficos y certificación de polígonos que realice cada perito autorizado.
 
-IV. Elaborar el calendario para la evaluación de los conocimientos a que se refiere el artículo 57, fracción III de este reglamento y emitir en un plazo no mayor de quince días naturales, después de la presentación de los exámenes, la lista de peritos resultante. La Dirección tendrá la facultad de otorgar o negar la autorización del registro o revalidación que corresponda, en el caso de negativa, ésta lo hará del conocimiento del interesado para que éste interponga el recurso a que se refiere la Ley Orgánica de la Administración Pública Municipal del Estado de Baja California y el Reglamento de Administración de Justicia para el Municipio de Tijuana, Baja California.
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2010)</small>
+
+IV. Para los aspirantes a formar parte del padrón de peritos deslindadores, deberá elaborarse el calendario para la evaluación de los conocimientos a que se refiere el artículo 57 fracción III de este Reglamento y emitir en un plazo no mayor a quince días naturales, después de la presentación de los exámenes, la lista de peritos resultante. La Dirección de Administración Urbana, tendrá la facultad de otorgar o negar la autorización del registro, en el caso de la negativa, ésta lo hará del conocimiento del interesado para que interponga en su caso, el recurso a que refieren los reglamentos municipales en vigor.
 
 V. Supervisar, cuando lo estime conveniente, la actuación de los peritos durante y después del proceso de ejecución de los trabajos que desarrollen.
 
@@ -678,3 +684,7 @@ TERCERO. Las personas que actualmente integran la lista de peritos deslindadores
 P.O. 24 DE DICIEMBRE DE 2004.
 
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del estado y deberán publicarse en un Periódico de mayor circulación en la localidad para el conocimiento de la ciudadanía. SEGUNDO.- Se derogan las disposiciones que se opongan a las presentes reformas.
+
+P.O. 30 DE JULIO DE 2010.
+
+UNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y deberá publicarse en la Gaceta Municipal y/o en un periódico de esta ciudad, para el conocimiento de los vecinos.
