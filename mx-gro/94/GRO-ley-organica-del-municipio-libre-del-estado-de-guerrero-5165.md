@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2010-07-02"
+last_updated: "2010-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -901,7 +901,7 @@ X. Elaborar, aprobar y publicar el Plan de Ordenamiento Ecológico Territorial;
 
 XI. En el ámbito de su competencia regular en beneficio social el aprovechamiento de los elementos naturales susceptibles de apropiación con objeto de hacer una distribución equitativa de la riqueza pública y cuidar de su conservación logrando el desarrollo equilibrado del municipio;
 
-XII. Todas aquellas que en el ámbito de su competencia faciliten y aseguren el mejor desempeño de sus tareas relacionadas con la conservación, protección, preservación, mejoramiento,instauración o restauración del ambiente para evitar el deterioro e impacto ambiental y para coordinar la política ecológica municipal.
+XII. Todas aquellas que en el ámbito de su competencia faciliten y aseguren el mejor desempeño de sus tareas relacionadas con la conservación, protección, preservación, mejoramiento, instauración o restauración del ambiente para evitar el deterioro e impacto ambiental y para coordinar la política ecológica municipal.
 
 ###### ARTICULO 64.
 
@@ -2349,6 +2349,10 @@ La administración de las comisarías estará a cargo de un comisario propietari
 
 El primer año actuará la planilla completa; el segundo año cesará en sus funciones el Comisario, y asumirá ese carácter el Primer Comisario Vocal, pasando el suplente a fungir como Segundo Comisario Vocal, y éste a Primer Comisario Vocal. El tercer año, el Segundo Comisario Vocal actuará como Comisario, y el suplente como Primer Comisario Vocal.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2010)</small>
+
+En las poblaciones que se reconozcan como indígenas, los comisarios municipales o delegados se elegirá un propietario y un suplente en la segunda quincena del mes de diciembre de cada año mediante el método de sus usos y costumbres, mismos que deberán tomar protesta ante la autoridad municipal en la primera quincena del mes de enero, quienes durarán por el periodo de un año.
+
 ###### ARTICULO 200.
 
 Para ser comisario se requiere:
@@ -3390,3 +3394,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Comuníquese el presente Decreto a los 81 Ayuntamientos del Estado de Guerrero, los Honorables Ayuntamientos Municipales que no cuenten a la fecha de la vigencia del presente Decreto con una oficina o unidad de atención juvenil, harán los trámites y gestiones procedentes con el objeto de presupuestar lo concerniente en el ejercicio fiscal del año 2011, con el fin de programar su instalación y funcionamiento de Acuerdo al Plan de Desarrollo Municipal, a los Programas Estatales y Municipales de la Juventud y demás ordenamientos legales correspondientes.
 
 TERCERO.- Remítase al Titular del Poder Ejecutivo del Estado para los efectos constitucionales y publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE JULIO DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo para los efectos legales conducentes.
