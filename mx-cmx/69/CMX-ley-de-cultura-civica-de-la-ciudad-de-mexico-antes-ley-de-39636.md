@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-antes-ley-de-39636
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2010-07-29"
+last_updated: "2010-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39636&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-19"
 
 LEY DE CULTURA CIVICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE JULIO DE 2010.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
 
@@ -500,7 +500,13 @@ Obra culposamente el que produce el daño, que no previó siendo previsible o pr
 
 Las infracciones establecidas en las fracciones I, II, III y IV se sancionarán con multa por el equivalente de 11 a 20 días de salario mínimo o con arresto de 13 a 24 horas.
 
-Las infracciones establecidas en las fracciones V a XIV se sancionarán con multa por el equivalente de 21 a 30 días de salario mínimo o con arresto de 25 a 36 horas.
+(REFORMADO, G.O. 30 DE JULIO DE 2010.
+
+Las infracciones establecidas en las fracciones V, VI, VII, VIII, IX, X, XII, XIII y XIV se sancionarán con multa por el equivalente de 21 a 30 días de salario mínimo o con arresto de 25 a 36 horas.
+
+(ADICIONADO, G.O. 30 DE JULIO DE 2010.
+
+La infracción establecida en la fracción XI se sancionará con arresto de 25 a 36 horas.
 
 Las infracciones establecidas en las fracciones XV, XVI y XVII se sancionarán con arresto de 20 a 36 horas.
 
@@ -590,7 +596,7 @@ Las infracciones establecidas en las fracciones I a VII se sancionarán con mult
 
 La fracción VIII, se sancionará con multa por el equivalente de 21 a 40 días de salario mínimo o con arresto de 25 a 36 horas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE JULIO DE 2010)</small>
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2010)</small>
 
 Las infracciones establecidas en las fracciones IX a XIV se sancionarán con multa por el equivalente de 21 a 30 días de salario mínimo o con arresto de 25 a 36 horas.
 
@@ -1471,3 +1477,9 @@ G.O. 29 DE JULIO DE 2010.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para mayor difusión.
+
+G.O. 30 DE JULIO DE 2010.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Publíquese el presente en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
