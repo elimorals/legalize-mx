@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-planeacion-y-42350"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-02"
-last_updated: "2004-12-02"
+last_updated: "2010-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42350&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y DESARROLLO REGIONAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y DESARROLLO REGIONAL, PUBLICADO EN EL P.O. DE 30 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 2 de diciembre de 2004.
 
@@ -542,3 +544,19 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 ING. IVAN HERNÁNDEZ PACHECO
 
 SECRETARIO DE PLANEACIÓN Y DESARROLLO REGIONAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JULIO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento Interior.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior publicado en el Periódico Oficial del Estado de Quintana Roo de fecha 2 de Diciembre del 2004.
