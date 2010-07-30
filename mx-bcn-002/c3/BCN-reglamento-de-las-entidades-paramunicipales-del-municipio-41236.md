@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-las-entidades-paramunicipales-del-municipio-41236
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-01"
-last_updated: "2004-10-01"
+last_updated: "2010-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de octubre de 2004.
 
@@ -303,13 +303,15 @@ IX. Proponer al Ayuntamiento, por conducto de la Secretaría, los convenios de f
 
 X. Autorizar la creación de comités de apoyo;
 
-XI. Nombrar y remover a propuesta del Director General, a los servidores públicos de la entidad Paramunicipal que ocupen cargos de las dos jerarquías administrativas inferiores a la de aquél, aprobar la fijación de sus sueldos y prestaciones, y a los demás que señale el Reglamento Interior y concederles licencias;
+XI. (DEROGADA, P.O. 30 DE JULIO DE 2010)
 
 XII. Nombrar y remover a propuesta de su Presidente, entre personas ajenas a la entidad, al Secretario quien podrá ser miembro o no del mismo; así como designar o remover a propuesta del Director General de la entidad, al Prosecretario del citado Órgano de Gobierno, quien podrá ser o no miembro de dicho órgano o de la entidad;
 
 XIII. Aprobar la constitución de reservas y aplicación de las utilidades de las empresas de participación municipal mayoritaria. En los casos de los excedentes económicos de los organismos descentralizados, proponer la constitución de reservas y su aplicación para su determinación por el Ayuntamiento;
 
-XIV. Establecer, con sujeción a las disposiciones jurídicas vigentes, sin intervención de cualquiera otra dependencia, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la entidad requiera para la prestación de sus servicios;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2010)</small>
+
+XIV. Establecer, con sujeción a las disposiciones jurídicas vigentes, las bases para la adquisición y arrendamiento de inmuebles que la entidad requiera para la prestación de sus servicios;
 
 XV. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los Comisarios;
 
@@ -369,7 +371,7 @@ V. Tomar las medidas pertinentes a fin de que las funciones de la entidad se rea
 
 VI. Establecer los procedimientos para controlar la calidad de los suministros y programas de recepción que aseguren la continuidad en la fabricación, distribución o prestación del servicio;
 
-VII. Proponer al Órgano de Gobierno el nombramiento o la remoción de los dos primero niveles de servidores de la entidad, la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio Órgano;
+VII. (DEROGADA, P.O. 30 DE JULIO DE 2010)
 
 VIII. Recabar información y elementos estadísticos que reflejen el estado de las funciones de la entidad, para así poder mejorar la gestión de la misma;
 
@@ -597,11 +599,15 @@ La Secretaría del Ayuntamiento someterá a la consideración del Cabildo del Ay
 
 La enajenación a título gratuito u oneroso, de inmuebles, instalaciones, concesiones o derechos que afecte el patrimonio de los organismos, solo podrá hacerse previa autorización del Cabildo Municipal.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2010)</small>
+
 ###### ARTÍCULO 73.
 
-Toda enajenación de bienes muebles que afecte el patrimonio de los organismos sólo podrá hacerse previo acuerdo del Cabildo.
+En lo relativo a la adquisición, inventario, utilización, control, conservación, valuación y disposición de bienes de las Entidades, se estará a lo dispuesto en el Reglamento de Bienes del Patrimonio del Municipio de Mexicali, Baja California.
 
-Los organismos y las empresas que no requieran determinados bienes para su servicio solicitarán su baja, poniéndolos a disposición del Ayuntamiento el que por conducto de Oficialía Mayor Municipal, en su caso, la autorizará y determinará su mejor aprovechamiento, enajenación o destrucción.
+Cuando una entidad vaya a dejar de utilizar cualquier bien de su propiedad porque deje de serle necesario para el cumplimiento de sus atribuciones, los podrá enajenar dando un derecho de preferencia al Municipio. En estos casos corresponderá a la Oficialía Mayor del Gobierno Municipal ejercitar dicho derecho tanto para el Municipio, como para cualquier entidad de la Administración Pública Paramunicipal, dentro de los veinte días hábiles siguientes a la notificación que se le haga de la intención de enajenar el bien del que se trate y el valor determinado para el mismo por la Comisión Municipal de Valuación. Cuando la Oficialía Mayor determine no adquirir el bien, o transcurrido el plazo para ejercer el derecho de preferencia no haga manifestación alguna, la entidad podrá enajenarlo conforme al procedimiento de convocatoria pública previsto en el Capítulo Décimo Primero del Reglamento de Bienes del Patrimonio del Municipio de Mexicali, Baja California.
+
+Efectuada la enajenación en los términos del párrafo anterior, la entidad deberá dar aviso a la Sindicatura Municipal, independientemente de la intervención que haya tenido en el procedimiento, para efecto del control patrimonial que a ésta corresponde.
 
 ###### ARTÍCULO 74.
 
@@ -684,3 +690,17 @@ A T E N T A M E N T E
 LIC. LUIS CHIANG RODRÍGUEZ
 
 SECRETARIO DEL XVII AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE JULIO DE 2010.
+
+SE DEROGA LA FRACCION XI DEL ARTICULO 35, Y LA FRACCION VII DEL ARTICULO 39
+
+Único.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE JULIO DE 2010.
+
+SE REFORMA LA FRACCION XIV DEL ARTICULO 35, Y EL ARTICULO 73
+
+Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
