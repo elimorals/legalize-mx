@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2010-07-21"
+last_updated: "2010-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO PENAL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -2333,7 +2333,9 @@ ARTICULO 51 BIS.- QUEDAN EXCLUIDOS DE LA APLICACION DEL TRABAJO EN BENEFICIO DE 
 
 I.- LOS DELITOS COMETIDOS POR SERVIDORES PUBLICOS, PREVISTOS EN EL TITULO SEPTIMO DE ESTE CODIGO; Y
 
-II.- LOS DELITOS DE EVASION DE PRESOS, QUEBRANTAMIENTO DE SELLOS, LOS RELATIVOS A LA CORRUPCION DE MENORES Y PORNOGRAFIA INFANTIL, LENOCINIO, USURPACION DE FUNCIONES PUBLICAS O DE PROFESION, USO INDEBIDO DE CONDECORACIONES O UNIFORMES, ATENTADOS AL PUDOR, ESTUPRO, VIOLACION, SUS FIGURAS EQUIPARADAS Y LOS GRADOS DE TENTATIVA, HOSTIGAMIENTO SEXUAL, INCESTO, ABANDONO DE FAMILIA, VIOLENCIA FAMILIAR, INDUCCION Y AUXILIO AL SUICIDIO, ABORTO, ABANDONO DE PERSONAS, PRIVACION ILEGAL DE LA LIBERTAD Y RAPTO.
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2010)</small>
+
+II.- LOS DELITOS DE EVASION DE PRESOS, QUEBRANTAMIENTO DE SELLOS, LOS RELATIVOS A LA CORRUPCION DE MENORES Y PORNOGRAFIA INFANTIL, LENOCINIO, USURPACION DE FUNCIONES PUBLICAS O DE PROFESION, USO INDEBIDO DE CONDECORACIONES O UNIFORMES, ATENTADOS AL PUDOR, ESTUPRO, VIOLACION, SUS FIGURAS EQUIPARADAS Y LOS GRADOS DE TENTATIVA, HOSTIGAMIENTO SEXUAL, INCESTO, TRATA DE PERSONAS, ABANDONO DE FAMILIA, VIOLENCIA FAMILIAR, INDUCCION Y AUXILIO AL SUICIDIO, ABORTO, ABANDONO DE PERSONAS, PRIVACION ILEGAL DE LA LIBERTAD Y RAPTO.
 
 ###### ARTICULO 52.
 
@@ -3735,9 +3737,9 @@ LA ACCION PENAL Y LA POTESTAD DE EJECUTAR LAS SANCIONES, EN RELACION CON LOS DEL
 
 SERAN IMPRESCRIPTIBLES, TANTO LA ACCION COMO LA SANCION EN LOS CASOS SIGUIENTES:
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2010)</small>
 
-I.- LA COMISION DE DELITOS DE TERRORISMO, SABOTAJE, VIOLACION Y FIGURAS EQUIPARADAS, DELINCUENCIA ORGANIZADA, PARRICIDIO, DELITOS CONTRA LA LIBERTAD, HOMICIDIO CALIFICADO Y LOS SEÑALADOS EN LOS ARTICULOS 201 BIS Y 201 BIS 2;
+I.- LA COMISION DE DELITOS DE TERRORISMO, SABOTAJE, VIOLACION Y FIGURAS EQUIPARADAS, DELINCUENCIA ORGANIZADA, PARRICIDIO, DELITOS CONTRA LA LIBERTAD, HOMICIDIO CALIFICADO, TRATA DE PERSONAS Y LOS SEÑALADOS EN LOS ARTICULOS 201 BIS Y 201 BIS 2;
 
 II.- LOS DELITOS DOLOSOS CAUSADOS POR INUNDACION, INCENDIO, MINAS, BOMBAS O EXPLOSIVOS; Y
 
@@ -8236,6 +8238,18 @@ P.O. 2 DE JULIO DE 2010.
 P.O. 21 DE JULIO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JULIO DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Consejo Interinstitucional a que se refiere la Ley para Prevenir, Atender, Combatir y Erradicar la Trata de Personas en el Estado de Nuevo León, se integrará dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Tercero.- Las dependencias y entidades del Ejecutivo Estatal y municipal, que tengan entre sus atribuciones la asistencia a víctimas de algún tipo de delito, deberán incluir a partir del ejercicio fiscal 2011 y en los subsecuentes, dentro de sus presupuestos anuales, recursos suficientes para la implementación de programas y acciones para prevenir, atender, combatir y erradicar la trata de personas.
+
+Cuarto.- La Procuraduría General de Justicia en el Estado, deberá incluir a partir del ejercicio fiscal 2011 y en los subsecuentes, dentro de su presupuesto anual, recursos suficientes, para iniciar fa construcción del albergue a que se refiere esta Ley y el Articulo Tercero Transitorio, así como el necesario para su funcionamiento y administración.
+
+Quinto.- En tanto no exista disponibilidad del albergue, la Procuraduría General de Justicia del Estado de Nuevo León, será la responsable de velar por la seguridad de las víctimas del delito de trata de personas.
 
 ###### ARTICULO UNICO.
 
