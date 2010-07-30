@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-del-equilibrio-y-proteccion-al-3099"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-11-27"
-last_updated: "1992-11-27"
+last_updated: "2010-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE LA LEY DEL EQUILIBRIO Y PROTECCION AL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA EN MATERIA DE IMPACTO AMBIENTAL
 
-REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA EN MATERIA DE IMPACTO AMBIENTAL
+REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA EN MATERIA DE IMPACTO AMBIENTAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA EN MATERIA DE IMPACTO AMBIENTAL, PUBLICADO EN EL P.O. DE 30 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 27 de noviembre de 1992.
 
@@ -600,3 +602,11 @@ C. LIC. ERNESTO RUFFO APPEL
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. C.P. FORTUNATO ALVAREZ ENRIQUEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JULIO DE 2010.
+
+PRIMERO.- El presente Reglamento entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente ordenamiento abroga el Reglamento de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California en materia de impacto ambiental.
