@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-26316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-30"
-last_updated: "2009-03-27"
+last_updated: "2010-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PUBLICO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de agosto de 2002.
 
@@ -1283,11 +1283,15 @@ Para el otorgamiento de las concesiones el Ayuntamiento emitirá convocatoria p�
 
 I.- Por licitación pública, cuando se trate de nuevas rutas o tipos de servicio;
 
-II.- Por invitación restringida, cuando se trate de extensiones o modificaciones significativas a los servicio o rutas ya existentes; donde deberá participar en su caso quien este prestando el servicio o servicios que no puedan o hayan dejado de operar los concesionarios; por renuncia, caducidad o revocación; y
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2010)</small>
+
+II.- Por invitación restringida, en la que se invitará a participar a quien en su caso esté prestando el servicio o servicios que no puedan o hayan dejado de operar los concesionarios, sea por renuncia, caducidad o revocación; y
 
 III.- Por adjudicación directa, cuando se declaren desiertos los anteriores procedimientos.
 
-En todos los casos el Comité de licitaciones se asegurara de otorgar la concesión a quien cumpla con todos los requisitos y ofrezca las mejores condiciones de calidad, suficiencia y regularidad en la prestación del servicio, así como que garantice en forma efectiva el cumplimiento de las obligaciones que se deriven del otorgamiento de tal concesión.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2010)</small>
+
+En todos los casos el Comité de Concesiones y Permisos se asegurara de otorgar la concesión a quien cumpla con todos los requisitos y ofrezca las mejores condiciones de calidad, suficiencia y regularidad en la prestación del servicio, así como que garantice en forma efectiva el cumplimiento de las obligaciones que se deriven del otorgamiento de tal concesión.
 
 ###### ARTÍCULO 122.
 
@@ -1561,15 +1565,27 @@ En el caso de invitación restringida el Comité, formulara y emitirá la invita
 
 Una vez agotado el procedimiento respectivo invariablemente será el Comité quien otorgue la concesión, de conformidad a la propuesta que le presente el Sistema.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2010)</small>
+
 ###### ARTÍCULO 149.
 
-Las concesiones podrán ser modificadas o ampliadas por el Sistema, previo dictamen que elabore el mismo, siempre y cuando dichas ampliaciones no rebasen los tres kilómetros de distancia. Las modificaciones que se autoricen, pasarán a formar parte de la misma concesión.
+Las rutas del servicio de transporte colectivo concesionadas, podrán ser modificadas o ampliadas por el Sistema, previo dictamen que elabore el mismo, siempre y cuando dichas ampliaciones no rebasen los tres kilómetros de distancia. Las ampliaciones y modificaciones que se autoricen, pasarán a formar parte de la misma concesión.
 
-El Sistema estará facultado para autorizar directamente la modificación de aspectos complementarios como horarios, frecuencias y número de vehículos, a solicitud de los interesados o por las necesidades del servicio.
+El Sistema estará facultado para autorizar la modificación de aspectos complementarios de las concesiones autorizadas, tales como horarios, frecuencias y número de vehículos, a solicitud de los interesados o por las necesidades del servicio.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 150.
 
-Para el caso de que las solicitudes de ampliaciones o extensiones de rutas rebasen los tres kilómetros, el Sistema previo dictamen que elabore, remitirá al Comité la solicitud, donde deberá recurrirse al procedimiento de invitación restringida por considerarse que se trata de otra concesión.
+Las autorizaciones de ampliación o modificación de rutas del servicio de transporte colectivo que rebasen los tres kilómetros, serán otorgadas por el Sistema, sólo si el Comité de Concesiones y Permisos determina que resultan procedentes, para lo cual deberá tomar en consideración que el concesionario solicitante:
+
+I.- Tenga su concesión vigente y esté operando la ruta de acuerdo a lo establecido en la misma;
+
+II.- Cuente con el equipo y la infraestructura necesaria para prestar el servicio en la ampliación o modificación que solicite; y,
+
+III.- La ampliación o modificación de la ruta redunde en beneficio de los usuarios del servicio.
+
+De autorizarse la ampliación o modificación, ésta pasará a formar parte de la misma concesión.
 
 ###### ARTÍCULO 151.
 
@@ -3594,5 +3610,9 @@ P.O. 2 DE ENERO DE 2009.
 ÚNICO: EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
 
 P.O. 27 DE MARZO DE 2009.
+
+Único.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE JULIO DE 2010.
 
 Único.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
