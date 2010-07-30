@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-valuacion-fiscal-inmobiliaria-en-el-22044"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-08-10"
-last_updated: "2001-10-15"
+last_updated: "2010-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VALUACION FISCAL INMOBILIARIA EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 10 de agosto de 2001.
 
@@ -101,7 +101,9 @@ III.- Formular, para aprobación del Presidente Municipal, los manuales, instruc
 
 IV.- Expedir el nombramiento de valuador fiscal municipal, una vez autorizado el registro;
 
-V.- Coordinarse con la Dirección de Desarrollo Urbano y Ecología del Ayuntamiento en lo conducente, y para la aplicación de las normas del presente Reglamento;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2010)</small>
+
+V.- Coordinarse con la Dirección de Administración Urbana del Gobierno Municipal de Mexicali en lo conducente, y para la aplicación de las normas del presente Reglamento;
 
 VI.- Llevar el padrón de valuadores fiscales del Municipio;
 
@@ -205,9 +207,11 @@ Los avalúos que se practiquen para efectos fiscales se sujetarán a las normas 
 
 Se entiende por valor comercial de un bien inmueble en una fecha determinada, el precio que un comprador aceptaría pagar y un vendedor accedería a recibir por el bien, conociendo y atendiendo ambos a su uso mejor y más productivo y siempre y cuando no exista dolo o mala fe de alguna de las partes.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2010)</small>
+
 ###### ARTÍCULO 20.
 
-Los avalúos que se practiquen para efectos fiscales tendrán vigencia durante seis meses contados a partir de la fecha en que se efectúen. En aquellos casos en que después de realizado el avalúo se llevaren a cabo construcciones, instalaciones o mejoras al bien del que se trate, los valores consignados en dicho avalúo quedarán sin efecto, aun cuando no haya transcurrido el plazo señalado.
+Los avalúos que se practiquen para efectos fiscales tendrán vigencia durante doce meses contados a partir de su elaboración. En aquellos casos en que después de realizado el avalúo se llevaren a cabo construcciones, instalaciones o mejoras al bien del que se trate, los valores consignados en dicho avalúo quedarán sin efecto, aún cuando no haya transcurrido el plazo señalado.
 
 ###### ARTÍCULO 21.
 
@@ -406,3 +410,7 @@ Aquellos Valuadores que acrediten haber fungido como tales, ante la Autoridad Fi
 P.O. 15 DE OCTUBRE DE 2001.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 30 DE JULIO DE 2010.
+
+Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
