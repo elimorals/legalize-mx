@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-ninas-y-ninos-en-el-distrito-15513"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-31"
-last_updated: "2008-10-27"
+last_updated: "2010-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15513&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-27"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE JULIO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 31 de enero de 2000.
 
@@ -48,9 +48,11 @@ LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL DISTRITO FEDERAL
 
 ### CAPITULO ÚNICO. DEL ÁMBITO Y DEL OBJETO
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE JULIO DE 2010)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y de observancia general en el Distrito Federal. Los beneficios que se deriven de esta Ley, serán aplicables a todas las niñas y niños que se encuentren en el Distrito Federal.
+La presente Ley es de orden público, interés social y de observancia general en el Distrito Federal. Los derechos y beneficios reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Convención sobre los Derechos del Niño y otros tratados internacionales ratificados por el Estado Mexicano, así como la presente Ley, serán aplicables a todas las niñas y niños que habiten o transiten en el Distrito Federal.
 
 La aplicación de la presente Ley corresponde, en el ámbito de su competencia, a la Administración Pública centralizada y descentralizada del Distrito Federal.
 
@@ -180,9 +182,17 @@ IV. A ser respetado en su persona, en su integridad física, psicoemocional y se
 
 V. A ser protegidos contra toda forma de explotación;
 
-VI. A recibir protección por parte de sus progenitores, familiares, órganos locales de gobierno y sociedad; y
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2010)</small>
 
-VII. A recibir información respecto de cuestiones de seguridad publica y de protección civil.
+VI. A recibir protección por parte de sus progenitores, familiares, órganos locales de gobierno y sociedad;
+
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2010)</small>
+
+VII. A recibir información respecto de cuestiones de seguridad pública y de protección civil: y
+
+> <small>(ADICIONADA, G.O. 30 DE JULIO DE 2010)</small>
+
+VIII. A no ser sometidos a castigo corporal, tratos crueles, inhumanos o degradantes, observando especialmente su desarrollo emocional y psicológico, en todos los entornos incluyendo el seno familiar, las escuelas, las instituciones de readaptación social y otros centros alternativos.
 
 B) A la identidad, Certeza Jurídica y Familia:
 
@@ -240,9 +250,19 @@ Y los demás que les reconozcan otros ordenamientos legales.
 
 Cuando se suscite un conflicto entre dos derechos de satisfacción incompatible, la autoridad aplicará los principios contemplados en la presente Ley, allegándose de los medios probatorios que acrediten la necesidad de ponderar la supremacía de un derecho respecto del otro, aplicando en forma armónica las normas concurrentes al caso concreto.
 
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2010)</small>
+
 ###### Artículo 7.
 
-Los Organos Locales de Gobierno están obligados a otorgar y garantizar de la mejor forma posible, los servicios de defensa y representación jurídica para preservar los intereses de las niñas y niños, mismos que deberán ser gratuitos a través del Sistema para el Desarrollo Integral de la Familia en el Distrito Federal, la Defensoría de Oficio, la Procuraduría Social y todas aquellas creadas para este fin.
+Los Órganos Locales de Gobierno están obligados a otorgar y garantizar de la mejor forma posible, los servicios de defensa y representación jurídica para preservar los intereses de las niñas y niños, mismos que deberán ser gratuitos a través del Sistema para el Desarrollo Integral de la Familia en el Distrito Federal mediante la Defensoría de los Derechos de la Infancia, la Defensoría de Oficio, la Procuraduría Social y todas aquellas creadas para este fin.
+
+> <small>(ADICIONADO, G.O. 30 DE JULIO DE 2010)</small>
+
+###### Artículo 7 Bis.
+
+Las autoridades estarán obligadas a salvaguardar el derecho de las niñas y niños a ser protegidos de injerencias arbitrarias de servidores públicos o particulares.
+
+Se entenderá por injerencia arbitraria toda forma de violación a la intimidad de la niña o niño, en su vida privada, sus posesiones, su familia, su domicilio o su correspondencia.
 
 ## TITULO TERCERO. DE LAS OBLIGACIONES DE LA FAMILIA
 
@@ -288,9 +308,11 @@ Le Secretaría de Desarrollo Social en coordinación con el Sistema para el Desa
 
 El Jefe de Gobierno a través de la Secretaría de Desarrollo y el Sistema para el Desarrollo Integral de la Familia en el Distrito Federal, en coordinación con las demás instancias locales y federales establecerá las normas y los mecanismos necesarios a fin de que, cuando una niña o niño se vea separado de su familia de origen, se procure su reencuentro con ella, o bien, para la localización de sus familiares en los casos de abandono, sustracción o retención ilícita, separación por sentencia judicial, ausencia o muerte de los progenitores.
 
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2010)</small>
+
 ###### Artículo 14.
 
-Cuando una niña o niño se vea privado de su familia, tendrá derecho a recibir el apoyo de la Secretaría de Desarrollo Social y del Sistema para el Desarrollo Integral de la Familia en el Distrito Federal quienes deberán brindarle asistencia social, atención integral y en su caso, procurarle una (sic) hogar provisional.
+Cuando una niña o niño se vea privado de su familia, tendrá derecho a recibir el apoyo de la Secretaría de Desarrollo Social y del Sistema para el Desarrollo Integral de la Familia en el Distrito Federal quienes deberán brindarle asistencia social, atención integral y en su caso, procurarle un hogar provisional. La carencia de recursos económicos o materiales no será motivo central para la separación de niñas o niños de su familia.
 
 ###### Artículo 15.
 
@@ -330,9 +352,15 @@ VIII. Implementar, en coordinación con las instancias competentes, las medidas 
 
 IX. Presidir el Consejo Promotor;
 
-X. Crear los mecanismos o instancias correspondientes para el cumplimiento de esta Ley; y
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2010)</small>
 
-XI. Las demás que le confieran otros ordenamientos jurídicos.
+X. Crear los mecanismos o instancias correspondientes para el cumplimiento de esta Ley;
+
+> <small>(ADICIONADA, G.O. 30 DE JULIO DE 2010)</small>
+
+XI. Presentar a la Asamblea Legislativa del Distrito Federal, a más tardar el 30 de abril, un informe anual de las acciones relativas a la aplicación de la presente Ley y sobre los avances de la vigencia de los derechos de niñas y niños, a través de una evaluación a partir de los indicadores que para tal efecto diseñe el Consejo; y
+
+XII. Las demás que le confiere la presente Ley y otros ordenamientos jurídicos.
 
 ### CAPITULO II. DE LA SECRETARIA DE DESARROLLO SOCIAL
 
@@ -364,9 +392,15 @@ XI. Promover la difusión y defensa de sus derechos, así como las disposiciones
 
 XII. Vigilar que las organizaciones sociales y privadas que presten servicios o realicen actividades en su beneficio, lo hagan respetando en todo momento sus derechos; en caso de detectar irregularidades deberá hacerlas del conocimiento de las autoridades competentes, para lo cual se establecerán los sistemas de registro e información que se requieran.
 
-XIII. Elaborar, dentro del ámbito de sus atribuciones, lineamientos generales para la prestación de servicios sociales, así como proponer a las instituciones encargadas de su aplicación las normas técnicas necesarias; y
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2010)</small>
 
-XIV. Las demás que le confieran otros ordenamientos jurídicos.
+XIII. Elaborar, dentro del ámbito de sus atribuciones, lineamientos generales para la prestación de servicios sociales, así como proponer a las instituciones encargadas de su aplicación las normas técnicas necesarias;
+
+> <small>(ADICIONADA, G.O. 30 DE JULIO DE 2010)</small>
+
+XIV. Instrumentar, en coordinación con el Sistema para el Desarrollo Integral de la Familia del Distrito Federal, los mecanismos, acciones legales y campañas de información necesarias para prevenir el castigo corporal con fines disciplinarios; y
+
+XV. Las demás que le confiere la presente Ley y otros ordenamientos jurídicos.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -576,11 +610,55 @@ El Presidente del Consejo podrá invitar a participar en el Consejo Delegacional
 
 Las Funciones de dichos consejos se ajustarán a lo preceptuado en el Artículo 27, con excepción de lo previsto en la fracción II.
 
-### CAPITULO I. DE LA EDUCACION Y CULTURA
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE JULIO DE 2010)</small>
+
+### CAPITULO VII. DE LA DEFENSORIA DE LOS DERECHOS DE LA INFANCIA DEL DISTRITO FEDERAL
+
+> <small>(ADICIONADO, G.O. 30 DE JULIO DE 2010)</small>
+
+###### Artículo 30 Bis.
+
+La Defensoría de los Derechos de la Infancia del Distrito Federal es una Dirección Ejecutiva del Sistema para el Desarrollo Integral del la Familia del Distrito Federal (DIF-DF), encargada de promover, proteger y velar por el cumplimiento de los derechos y beneficios de las niñas y los niños reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Convención sobre los Derechos del Niño, los tratados internacionales ratificados por el Estado Mexicano, la presente Ley y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 30 DE JULIO DE 2010)</small>
+
+###### Artículo 30 Ter.
+
+Son atribuciones de la Defensoría de los Derechos de la Infancia:
+
+I. Emitir recomendaciones y lineamientos para armonizar las acciones y programas de las diferentes dependencias que atiendan a la infancia;
+
+II. Velar por que se cumplan los derechos de la infancia;
+
+III. Presentar denuncias y en su caso representar legalmente, ante las autoridades competentes, a las niñas y niños, por delitos cometidos en contra de sus derechos, así como intervenir en su defensa ante las instancias administrativas o judiciales;
+
+IV. Diseñar programas conjuntos entre instancias públicas, organismos sociales, empresas privadas e instancias internacionales en beneficio de la niñez;
+
+V. Impulsar estrategias que fomenten, una vida libre de violencia hacia las niñas y los niños, así como la protección de sus derechos. La defensoría deberá contar con mecanismos para hacerla accesible para niñas y niños a nivel delegacional;
+
+VI. Conocer o allegarse de la información necesaria sobre la situación de las niñas y niños que se encuentren en instituciones públicas o privadas, en centros donde trabajen, vivan o concurran, brindar el acompañamiento y supervisión adecuado, así como impulsar las acciones administrativas necesarias para la defensa de sus derechos;
+
+VII. Realizar campañas de fomento y promoción de los derechos de la niñez, así como de la aplicación de las leyes en la materia;
+
+VIII. Implementar un sistema de planeación, seguimiento, monitoreo y evaluación de las políticas públicas y programas destinados a la niñez, así como de la aplicación de las leyes en la materia;
+
+IX. Crear y mantener un sistema de información sobre la niñez, de los organismos dedicados a ésta, así como de materiales y documentos en la materia;
+
+X. Impulsar programas que permitan la promoción y el pleno ejercicio de los derechos de las niñas y niños;
+
+XI. Impulsar y fomentar programas que permitan a las niñas y los niños privados de su entorno familiar, el pleno respeto y ejercicio de sus derechos;
+
+XII. Impulsar y fomentar programas que permitan a las niñas y los niños en situación de calle, el pleno respeto y ejercicio de sus derechos;
+
+XIII. Elaborar el Programa de promoción y defensa de los derechos de los niños y niñas del distrito Federal;
+
+XIV. Fomentar una cultura de no discriminación y de igualdad entre las niñas y niños, a través de programas y campañas con enfoque de género; y
+
+XV. Coadyuvar en la elaboración del informe a que se refiere la fracción XI del artículo 17 de la presente Ley.
 
 ## TITULO QUINTO. DE LAS ACCIONES DE GOBIERNO
 
-### CAPÍTULO II. DE LA RECREACIÓN Y DEPORTE
+### CAPITULO I. DE LA EDUCACION Y CULTURA
 
 ###### Artículo 31
 
@@ -640,11 +718,15 @@ El Gobierno del Distrito Federal hará las gestiones necesarias, para que las ni
 
 El Instituto de Cultura fomentará la participación social relativa a manifestaciones culturales y artísticas dirigidas a las niñas y niños.
 
-### CAPITULO III. DE LA PARTICIPACIÓN
+### CAPÍTULO II. DE LA RECREACIÓN Y DEPORTE
 
 ###### Artículo 40.
 
 El Consejo propondrá, la promoción para que los medios de comunicación impresos y electrónicos, procuren proteger a las niñas y niños de toda información que resulte perjudicial para su formación integral.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE JULIO DE 2010)</small>
+
+Las niñas y niños tienen derecho a la información. La Administración Pública del Distrito Federal promoverá lo conducente en el ámbito de su competencia, con el fin de asegurar que tal derecho lo ejerzan de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en la Convención sobre los Derechos del Niño y demás leyes aplicables.
 
 ###### Artículo 41.
 
@@ -670,11 +752,13 @@ VI. El desarrollo de las asociaciones infantiles y juveniles para la recreación
 
 La Secretaría de Turismo fomentará el turismo de las niñas y niños dentro del Distrito Federal, bien en grupos escolares, asociaciones o con sus familias.
 
-### CAPITULO ÚNICO. DE LAS ACCIONES DE PROTECCION
+### CAPITULO III. DE LA PARTICIPACIÓN
+
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2010)</small>
 
 ###### Artículo 43.
 
-El derecho de participación, como prerrogativa de las niñas y niños, constituye un deber que observarán las instituciones públicas, privadas y sociales.
+El derecho de participación, como prerrogativa de las niñas y niños, constituye un deber que observarán las instituciones públicas, privadas y sociales, quienes, en particular, deberán contar con mecanismos públicos que muestren cómo se toma en cuenta las opiniones y propuestas de niñas y niños respecto de los asuntos de su familia, su comunidad y su país, así como todos aquellos temas que les involucren.
 
 ###### Artículo 44.
 
@@ -684,17 +768,33 @@ I. Se organicen de conformidad con sus intereses y en los términos de las dispo
 
 II. Opinen, analicen, y en general, puedan expresar su punto de vista y propuestas, de forma individual o colectiva, en todos aquellos asuntos de su interés;
 
-III. Participen en procesos de apropiación y de responsabilidad, individual y colectiva, del entorno que les rodea; y
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2010)</small>
 
-IV. Participen en el fomento a la cultura de respeto a sus derechos.
+III. Participen en procesos de apropiación y de responsabilidad individual y colectiva, del entorno que les rodea;
+
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2010)</small>
+
+IV. Participen en el fomento a la cultura de respeto a sus derechos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE JULIO DE 2010)</small>
+
+V. Las autoridades del Gobierno del Distrito Federal y las delegacionales, destinarán espacios y programas de educación para la democracia, la tolerancia y la participación ciudadana de niñas y niños; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE JULIO DE 2010)</small>
+
+VI. La Administración Pública establecerá mecanismos y espacios para garantizar el derecho a la participación de todas las niñas y niños, pero desarrollará esfuerzos particulares para promoverla con niñas y niños privados de su entorno familiar y otro tipo de tutela, particularmente a quienes vivan con algún tipo de discapacidad o formen parte de la población callejera.
 
 ## TITULO SEXTO. DE LAS NIÑAS Y NIÑOS QUE SE ENCUENTRAN O VIVEN EN CIRCUNSTANCIAS DE DESVENTAJA SOCIAL
 
-### CAPÍTULO ÚNICO. DE LAS OBLIGACIONES DE LAS INSTITUCIONES Y DEL FUNCIONAMIENTO DE LA RED
+### CAPITULO ÚNICO. DE LAS ACCIONES DE PROTECCION
 
 ###### Artículo 45.
 
 Toda persona que tenga conocimiento de alguna niña o niño que se encuentre en condiciones de desventaja social, podrá pedir la intervención de las autoridades competentes, para que se apliquen de inmediato las medidas necesarias para su protección y atención.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE JULIO DE 2010)</small>
+
+Las niñas y niños que se encuentren en condiciones de desventaja social, cuando sean atendidos por instituciones públicas, tendrán que ser atendidos en espacios diferentes que las y los adolescentes.
 
 ###### Artículo 46.
 
@@ -753,6 +853,8 @@ La Secretaría de Desarrollo Social, de Salud y el Sistema para el Desarrollo In
 La Secretaría de Desarrollo Social, en coordinación con las Dependencias e Instituciones Especializadas implementarán las acciones encaminadas a la protección y cuidado de las niñas y niños discapacitados. Los servicios inherentes a estas medidas se proporcionarán gratuitamente, cuando las condiciones económicas de los afectados así lo requieran.
 
 ## TITULO SEPTIMO. DE LAS INSTITUCIONES DEDICADAS A LA ATENCION DE NIÑAS Y NIÑOS
+
+### CAPÍTULO ÚNICO. DE LAS OBLIGACIONES DE LAS INSTITUCIONES Y DEL FUNCIONAMIENTO DE LA RED
 
 ###### Artículo 57.
 
@@ -875,3 +977,11 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario O
 SEGUNDO.- El presente decreto y las modificaciones que en éste se contienen entrarán en vigor a los treinta días de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se contrapongan a las aquí reformadas.
+
+G.O. 30 DE JULIO DE 2010.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El Jefe de Gobierno del Distrito Federal contará con 180 días a partir de la entrada en vigor del presente Decreto, para llevar a cabo los procesos administrativos correspondientes para la creación de la Defensoría de los Derechos de la Infancia del Distrito Federal a que se refiere el Artículo 30 Bis de la presente Ley.
+
+TECERO.- El Consejo Promotor de los Derechos de las Niñas y Niños del Distrito Federal contará con 120 días a partir de la entrada en vigor del presente decreto para la elaboración de los indicadores a los que se refiere el artículo 17, fracción XI.
