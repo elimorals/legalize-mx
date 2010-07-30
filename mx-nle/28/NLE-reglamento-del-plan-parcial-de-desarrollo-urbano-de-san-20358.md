@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-plan-parcial-de-desarrollo-urbano-de-san-20358"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-03-06"
-last_updated: "2009-02-06"
+last_updated: "2010-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DEL PLAN PARCIAL DE DESARROLLO URBANO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 6 de marzo de 1995.
 
@@ -1025,6 +1025,18 @@ Los lineamientos consistentes en remetimientos frontales y laterales, podrán se
 
 Los lineamientos consistentes en altura, COS y CAS, podrán ser modificados hasta un 30%, previa solicitud del propietario interesado presentada ante el titular de la Secretaría, a la que se acompañe escrito firmado por los propietarios de los predios colindantes inmediatos, en donde se manifieste la conformidad con dicha modificación. Lo anterior, tratándose de los corredores urbanos a que se refiere la fracción III del artículo 53 Bis del presente reglamento.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2010)</small>
+
+###### ARTICULO 42 Bis 2.
+
+Cuando se trate de remetimientos lateral y frontal en construcción de vivienda unifamiliar y multifamiliar, podrá considerarse a criterio de la Autoridad, nula dicha norma, cuando se trate de áreas destinadas a cochera y sobre la misma.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2010)</small>
+
+###### ARTICULO 42 Bis 3.
+
+En construcciones de vivienda para Fraccionamientos de Urbanización inmediata la Secretaría podrá exentar hasta un 50% el remetimiento mínimo lateral.
+
 ###### ARTICULO 43.
 
 Los lotes de vivienda unifamiliar deberán respetar siempre como mínimo una superficie de 18.00 metros cuadrados al frente del mismo, 3.00 metros de frente por 6.00 metros de fondo que estará destinada únicamente para estacionamiento ó área verde y en la parte posterior una superficie de 20.00 metros cuadrados que se destinará exclusivamente para área verde.
@@ -1125,9 +1137,11 @@ Cuando en el mismo predio se tengan Usos de Edificación cuya necesidad de estac
 
 Los cajones para estacionamiento de automóviles medirán, cada uno, cuando menos 5.00 x 2.50 metros, y su diseño será de tal forma que ningún vehículo estacionado en un cajón señalado, pueda obstaculizar la entrada o salida de otro vehículo debidamente estacionado, ni el franco acceso al local.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 59.
 
-Cada área de estacionamiento deberá tener entrada y salida, libre e independiente.
+Cada área de estacionamiento deberá tener entrada y salida, en la cual se podrá construir y/o instalar medios de seguridad y monitoreo.
 
 ###### ARTICULO 60.
 
@@ -1383,6 +1397,12 @@ La Licencia de Uso de Suelo es una constancia expedida por la autoridad competen
 
 La Licencia de Uso de Edificación consiste en la constancia expedida por la autoridad competente, que autoriza los fines a los que puede dedicarse una edificación.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2010)</small>
+
+###### ARTICULO 97 Bis.
+
+Toda Licencia de Uso de Edificación deberá contar con medios de seguridad consistentes en la instalación de sistema de circuito cerrado dentro y fuera del inmueble, el cual deberá de estar en funcionamiento durante la vigencia de la Licencia respectiva.
+
 ###### ARTICULO 98.
 
 Antes de iniciar una construcción, se requiere además de la Licencia de Uso de Suelo, de una Licencia de Construcción.
@@ -1596,3 +1616,7 @@ P.O. 6 DE FEBRERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JULIO DE 2010.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
