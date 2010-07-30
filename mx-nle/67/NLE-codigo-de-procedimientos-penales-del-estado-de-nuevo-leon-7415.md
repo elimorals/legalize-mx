@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2010-07-16"
+last_updated: "2010-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -923,21 +923,21 @@ Tratándose del Juicio Oral Penal se determinará que el público abandone la sa
 
 Las audiencias se llevarán a cabo, concurran o no las partes, salvo el Ministerio Público y el defensor, que no podrán dejar de asistir a ellas, con excepción de lo establecido en este Código.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2010)</small>
 
-Tratándose de cualquiera de los delitos establecidos en los artículos 165 bis, 176, 357, 357 Bis, 358 Bis 2 ó 395 del Código Penal para el Estado, tanto las autoridades investigadoras como las Judiciales deberán desahogar todas las diligencias con los procesados o sentenciados en las instalaciones del centro de reinserción social en que se encuentre el detenido, a fin de procurar mayor seguridad a la comunidad y evitar riesgos de evasión. La autoridad ejecutora dará las facilidades necesarias para la práctica de las audiencias que requieran la presencia del inculpado.
+Tratándose de cualquiera de los delitos establecidos en los artículos 165 Bis, 176, 357, 357 Bis, 358 Bis 2, 363 Bis ó 395 del Código Penal para el Estado, tanto las autoridades investigadoras como las judiciales deberán desahogar todas las diligencias con los procesados o sentenciados en las instalaciones del centro de reinserción social en que se encuentre el detenido, a fin de procurar mayor seguridad a la comunidad y evitar riesgos de evasión. La autoridad ejecutora dará las facilidades necesarias para la práctica de las audiencias que requieran la presencia del inculpado.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2010)</small>
 
-Por los mismos fines expuestos en el párrafo anterior, tratándose de cualquiera de los delitos establecidos en los articulas 165 Bis, 176, 357, 357 Bis, 358 Bis 2 ó 395 del Código Penal para el Estado, las autoridades investigadoras o judiciales en su caso, podrán disponer de la presencia del inculpado en forma virtual durante el desahogo de cualquier audiencia dentro del proceso, mediante el sistema de videoconferencia, asegurando en todo caso la posibilidad de contradicción de las partes y la salvaguarda del derecho de defensa.
+Por los mismos fines expuestos en el párrafo anterior, tratándose de cualquiera de los delitos establecidos en los artículos 165 Bis, 176, 357, 357 Bis, 358 Bis 2, 363 Bis ó 395 del Código Penal para el Estado, las autoridades investigadoras o judiciales en su caso, podrán disponer de la presencia del inculpado en forma virtual durante el desahogo de cualquier audiencia dentro del proceso, mediante el sistema de videoconferencia, asegurando en todo caso la posibilidad de contradicción de las partes y la salvaguarda del derecho de defensa.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
 En el supuesto a que se refiere el artículo 34 de este Código, no podrán llevarse a cabo las audiencias en que deba participar el inculpado sin el intérprete o traductor a que dicho precepto se refiere. Exceptuando los casos de competencia del juicio oral, si el inculpado se encuentra privado de su libertad, la audiencia podrá celebrarse a través de videoconferencia, en los términos precisados en los artículos 24 y 25 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2010)</small>
 
-La declaración de la víctima o el ofendido, o del testigo según sea el caso, cuando se trate de delitos sexuales, privación ilegal de la libertad con carácter de secuestro, equiparable a la privación ilegal de la libertad con carácter de secuestro o violencia familiar, se llevara a cabo de una manera que no perciba la presencia del Inculpado.
+La declaración de la víctima o el ofendido, o del testigo según sea el caso, cuando se trate de delitos sexuales, privación ilegal de la libertad con carácter de secuestro, equiparable a la privación ilegal de la libertad con carácter de secuestro, violencia familiar o trata de personas, se llevará a cabo de una manera que no perciba la presencia del inculpado.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -1767,17 +1767,19 @@ Toda persona física o moral en cuyo poder se hallen objetos o documentos que pu
 
 La autoridad podrá ofrecer recompensa en determinada cantidad de dinero a cualquier persona que aporte datos o elementos probatorios que sean efectivos para la resolución de un delito de los tipificados en el Código Penal como graves. Ningún servidor público podrá participar de dicha recompensa.
 
-Cuando se libre orden de aprehensión por los delitos previstos en los artículos 165 bis, 176, 318, 325, 357 o 357 bis del Código Penal para el Estado de Nuevo León, la autoridad podrá ofrecer recompensa a quienes auxilien eficientemente para la localización y aprehensión del inculpado.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2010)</small>
+
+Cuando se libre orden de aprehensión por los delitos previstos en los artículos 165 bis, 176, 318, 325, 357, 357 bis ó 363 Bis del Código Penal para el Estado de Nuevo León, la autoridad podrá ofrecer recompensa a quienes auxilien eficientemente para la localización y aprehensión del inculpado.
 
 El reglamento respectivo, establecerá los términos, montos y condiciones de la recompensa de que se trate.
 
 Para tal efecto, la Secretaría de Finanzas y Tesorería General del Estado proveerá los fondos necesarios.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 182 Bis 7.
 
-La persona que preste ayuda eficaz para la investigación y persecución de los delitos previstos por los artículos 165 bis, 176, 318, 325, 357, 357 bis ó 395 del Código Penal para el Estado de Nuevo León, cuando no exista averiguación previa en su contra, los elementos de prueba que aporte o se deriven de la indagatoria iniciada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona.
+La persona que preste ayuda eficaz para la investigación y persecución de los delitos previstos por los artículos 165 bis, 176, 318, 325, 357, 357 bis, 363 Bis ó 395 del Código Penal para el Estado de Nuevo León, cuando no exista averiguación previa en su contra, los elementos de prueba que aporte o se deriven de la indagatoria iniciada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona.
 
 > <small>(ADICIONADO, P.O. 29 DE MARZO DE 2010)</small>
 
@@ -2541,25 +2543,31 @@ Antes de resolver sobre la objeción planteada por una de las partes, el Juez es
 
 El valor probatorio del testimonio se calificará en la sentencia.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 275 Bis.
 
-Tratándose de los tipos descritos por los artículos 165 bis, 176, 318, 325, 357 ó 357 bis del Código Penal para el Estado de Nuevo León, el Ministerio Público o la autoridad jurisdiccional correspondiente, antes del inicio de la diligencia se cerciorará en privado, a su satisfacción, de la identidad del testigo, se le preguntará a éste su nombre completo y se ordenará se le practique una prueba de ADN (ácido desoxirribonucleico), que será la única prueba con la que se demuestre la identidad del testigo Con el resultado de dicha prueba, se iniciará la diligencia, se le tomará la protesta de decir verdad o se le exhortará a conducirse con verdad en caso de ser menor de edad, se le preguntará si se halla ligado con el inculpado, el ofendido o la víctima por vínculos de parentesco, amistad o cualquiera otros y si tiene algún motivo de odio o rencor contra alguno de ellos. El nombre del testigo lo guardará la autoridad bajo su responsabilidad.
-
-Posteriormente, el testigo declarará libremente o responderá a las preguntas que se le formulen en términos de este Código.
-
-En estas diligencias y durante el proceso, la identidad del testigo se asentará solamente con el resultado de la prueba de ADN (ácido desoxirribonucleico).
-
-En caso de que el testigo tenga que comparecer ante el Ministerio Público o la autoridad jurisdiccional en el proceso, si el testigo lo estima pertinente podrá presentarse de tal forma en que no pueda identificarse su apariencia física, su voz, así como otros rasgos particulares que lo hagan inconfundible, y se identificará con su registro de ADN (ácido desoxirribonucleico) que le será proporcionado por el Estado. Dicho registro será suficiente para los efectos de la identificación.
+Tratándose de los tipos descritos por los artículos 165 bis, 176, 318, 325, 357, 357 bis ó 363 Bis del Código Penal para el Estado de Nuevo León, el Ministerio Público o la autoridad jurisdiccional correspondiente, antes del inicio de la diligencia se cerciorará en privado, a su satisfacción, de la identidad del testigo, se le preguntará a éste su nombre completo y se ordenará se le practique una prueba de ADN (ácido desoxirribonucleico), que será la única prueba con la que se demuestre la identidad del testigo. Con el resultado de dicha prueba, se iniciará la diligencia, se le tomará la protesta de decir verdad o se le exhortará a conducirse con verdad en caso de ser menor de edad, se le preguntará si se halla ligado con el inculpado, el ofendido o la víctima por vínculos de parentesco, amistad o cualquiera otros y si tiene algún motivo de odio o rencor contra alguno de ellos. El nombre del testigo lo guardará la autoridad bajo su responsabilidad.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
 
+Posteriormente, el testigo declarará libremente o responderá a las preguntas que se le formulen en términos de este Código.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+En estas diligencias y durante el proceso, la identidad del testigo se asentará solamente con el resultado de la prueba de ADN (ácido desoxirribonucleico).
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+En caso de que el testigo tenga que comparecer ante el Ministerio Público o la autoridad jurisdiccional en el proceso, si el testigo lo estima pertinente podrá presentarse de tal forma en que no pueda identificarse su apariencia física, su voz, así como otros rasgos particulares que lo hagan inconfundible, y se identificará con su registro de ADN (ácido desoxirribonucleico) que le será proporcionado por el Estado. Dicho registro será suficiente para los efectos de la identificación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 275 Bis 1.
 
-. El Ministerio Público deberá mantener en reserva la identidad de las víctimas y la de las personas que declaren con el carácter de testigos, cuando hagan imputaciones directas en contra de personas a quienes se atribuya la comisión de delitos tipificados por los artículos 165 bis, 176, 318, 325, 357 ó 357 bis del Código Penal para el Estado de Nuevo León.
+. El Ministerio Público deberá mantener en reserva la identidad de las víctimas y la de las personas que declaren con el carácter de testigos, cuando hagan imputaciones directas en contra de personas a quienes se atribuya la comisión de delitos tipificados por los artículos 165 bis, 176, 318, 325, 357, 357 bis ó 363 Bis del Código Penal para el Estado de Nuevo León.
 
-> <small>(F. DE E., P.O. 18 DE ABRIL DE 2007)</small>
+(ADICIONADO, P.O. 13 DE MARZO DE 2007) (F. DE E., P.O. 18 DE ABRIL DE 2007)
 
 La Procuraduría prestará apoyo y protección suficientes a Jueces, Agentes del Ministerio Público, peritos y demás servidores públicos, además a sus auxiliares, cónyuge e hijos, cuando así se requiera por su intervención en un procedimiento penal respecto a los delitos referidos en el párrafo anterior.
 
@@ -5700,3 +5708,15 @@ P.O. 9 DE JULIO DE 2010.
 P.O. 16 DE JULIO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JULIO DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Consejo Interinstitucional a que se refiere la Ley para Prevenir, Atender, Combatir y Erradicar la Trata de Personas en el Estado de Nuevo León, se integrará dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Tercero.- Las dependencias y entidades del Ejecutivo Estatal y municipal, que tengan entre sus atribuciones la asistencia a víctimas de algún tipo de delito, deberán incluir a partir del ejercicio fiscal 2011 y en los subsecuentes, dentro de sus presupuestos anuales, recursos suficientes para la implementación de programas y acciones para prevenir, atender, combatir y erradicar la trata de personas.
+
+Cuarto.- La Procuraduría General de Justicia en el Estado, deberá incluir a partir del ejercicio fiscal 2011 y en los subsecuentes, dentro de su presupuesto anual, recursos suficientes, para iniciar la construcción del albergue a que se refiere esta Ley y el Artículo Tercero Transitorio, así como el necesario para su funcionamiento y administración.
+
+Quinto.- En tanto no exista disponibilidad del albergue, la Procuraduría General de Justicia del Estado de Nuevo León, sera la responsable de velar por la seguridad de las víctimas del delito de trata de personas.
