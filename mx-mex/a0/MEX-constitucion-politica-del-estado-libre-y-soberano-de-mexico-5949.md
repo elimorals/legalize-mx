@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2010-06-07"
+last_updated: "2010-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE JULIO DE 2010.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -835,7 +835,7 @@ XIII. Designar a los funcionarios electorales cuyo nombramiento le reserve ésta
 
 XIV. Constituirse en Colegio Electoral para designar Gobernador interino o sustituto, en los casos que determine la presente Constitución;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE MARZO DE 2010)</small>
 
 XV. Aprobar los nombramientos de magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo que hagan el Consejo de la Judicatura y el Gobernador, respectivamente, dentro de los 10 días hábiles siguientes a la fecha de los nombramientos. Si éstos transcurren sin que la Legislatura hubiera resuelto, se entenderán aprobados.
 
@@ -915,9 +915,9 @@ Los integrantes de los concejos municipales y de los ayuntamientos provisionales
 
 XXX. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal a iniciativa del Ejecutivo, tanto la Ley de Ingresos del Estado, que establezca las contribuciones de los habitantes como el presupuesto de egresos que distribuya el gasto público y disponer las medidas apropiadas para vigilar su correcta aplicación.
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, G.G. 30 DE JULIO DE 2010)</small>
 
-La Legislatura al expedir el Presupuesto de Egresos, aprobará la retribución mínima y máxima que corresponda a cada nivel de empleo, cargo o comisión y en caso de que por cualquier circunstancia se omita establecer dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el presupuesto anterior.
+La Legislatura al expedir el Presupuesto de Egresos, aprobará la retribución mínima y máxima que corresponda a cada nivel de empleo, cargo o comisión. Las remuneraciones de los servidores públicos deberán sujetarse a lo previsto en el artículo 147 de esta Constitución y en caso de que por cualquier circunstancia se omita establecer ésta, se entenderá por señalada la que hubiere tenido fijada en el presupuesto inmediato anterior.
 
 > <small>(ADICIONADO, G.G. 22 DE JUNIO DE 2006)</small>
 
@@ -929,7 +929,11 @@ La retribución estará sujeta a las modificaciones que, en su caso, sean conven
 
 > <small>(ADICIONADO, G.G. 16 DE AGOSTO DE 2006)</small>
 
-La Legislatura aprobará proyectos para la prestación de servicios conforme a la ley de la materia y las asignaciones presupuestales que cubran los gastos correspondientes a dichos proyectos durante los ejercicios fiscales en que estén vigentes los mismos. Asimismo, aprobará las adjudicaciones directas de dichos proyectos, conforme a las excepciones previstas por la legislación aplicable;
+La Legislatura aprobará proyectos para la prestación de servicios conforme a la ley de la materia y las asignaciones presupuestales que cubran los gastos correspondientes a dichos proyectos durante los ejercicios fiscales en que estén vigentes los mismos. Asimismo, aprobará las adjudicaciones directas de dichos proyectos, conforme a las excepciones previstas por la legislación aplicable.
+
+> <small>(ADICIONADO, G.G. 30 DE JULIO DE 2010)</small>
+
+Los poderes Legislativo, Ejecutivo y Judicial, así como los Organismos Autónomos, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estos presupuestos deberán observar el mismo procedimiento para la aprobación del presupuesto del Estado.
 
 > <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
 
@@ -1209,7 +1213,11 @@ XVIII. Rendir a la Legislatura del Estado, el cinco de septiembre de cada año, 
 
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
 
-XIX. Enviar cada año a la Legislatura, a más tardar el 21 de noviembre, los proyectos de ley de ingresos y presupuesto de egresos del Gobierno del Estado, que deberán regir en el año fiscal inmediato siguiente, o hasta el 20 de diciembre, cuando inicie su periodo Constitucional el Ejecutivo Federal, y presentar la cuenta de gastos del año inmediato anterior, a más tardar el 15 de mayo;
+XIX. Enviar cada año a la Legislatura, a más tardar el 21 de noviembre, los proyectos de ley de ingresos y presupuesto de egresos del Gobierno del Estado, que deberán regir en el año fiscal inmediato siguiente, o hasta el 20 de diciembre, cuando inicie su periodo Constitucional el Ejecutivo Federal, y presentar la cuenta de gastos del año inmediato anterior, a más tardar el 15 de mayo.
+
+> <small>(ADICIONADO, G.G. 30 DE JULIO DE 2010)</small>
+
+Dicho Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos conforme a lo previsto en el artículo 147 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
 
@@ -1851,6 +1859,10 @@ Los ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura
 
 Los Ayuntamientos celebrarán sesiones extraordinarias de cabildo cuando la Ley de Ingresos aprobada por la Legislatura, implique adecuaciones a su Presupuesto de Egresos. Estas sesiones nunca excederán al 15 de febrero y tendrán como único objeto, concordar el Presupuesto de Egresos con la citada Ley de Ingresos. Al concluir las sesiones en las que se apruebe el Presupuesto de Egresos Municipal en forma definitiva, se dispondrá, por el Presidente Municipal, su promulgación y publicación, teniendo la obligación de enviar la ratificación, o modificaciones en su caso, de dicho Presupuesto de Egresos, al Órgano Superior de Fiscalización, a más tardar el día 25 de febrero de cada año.
 
+> <small>(ADICIONADO, G.G. 30 DE JULIO DE 2010)</small>
+
+El Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 147 de esta Constitución.
+
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o por quien ellos autoricen, conforme a la ley.
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2001)</small>
@@ -2110,6 +2122,20 @@ Los ciudadanos mexicanos que ejerzan el ministerio de cualquier culto no podrán
 El Gobernador, los diputados, los magistrados de los Tribunales Superior de Justicia y de lo Contencioso Administrativo, los miembros del Consejo de la Judicatura, los trabajadores al servicio del Estado, los integrantes y servidores de los organismos autónomos, así como los miembros de los ayuntamientos y demás servidores públicos municipales recibirán una retribución adecuada e irrenunciable por el desempeño de su empleo, cargo o comisión, que será determinada en el presupuesto de egresos que corresponda.
 
 Las remuneraciones mínimas y máximas se determinarán con base, entre otros, en los factores siguientes: población, recursos económicos disponibles, costo promedio de vida, índice inflacionario, grado de marginalidad, productividad en la prestación de servicios públicos, responsabilidad de la función y eficiencia en la recaudación de ingresos, de acuerdo con la información oficial correspondiente.
+
+> <small>(ADICIONADO, G.G. 30 DE JULIO DE 2010)</small>
+
+La remuneración será determinada anual y equitativamente en el Presupuesto de Egresos correspondiente bajo las bases siguientes:
+
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
+
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida;
+
+III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República y la remuneración establecida para el Gobernador del Estado en el presupuesto correspondiente;
+
+IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado;
+
+V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -3158,3 +3184,23 @@ TERCERO.- La Legislatura del Estado de México deberá realizar las reformas res
 CUARTO.- El Titular del Órgano Superior de Fiscalización en funciones, permanecerá en el ejercicio de su encargo por el período de ocho años, computados a partir de la fecha en que tomo posesión del mismo, el cual no podrá prolongarse.
 
 QUINTO.- Se derogan o abrogan las disposiciones de igual o menor jerarquía que contravengan o se opongan al presente Decreto.
+
+G.G. 30 DE JULIO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO.- Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los Presupuestos de Egresos correspondientes al Ejercicio Fiscal del año siguiente a aquél en que haya entrado en vigor.
+
+QUINTO.- La Legislatura del Estado, adecuará la legislación secundaria, para tipificar y sancionar penal y administrativamente las conductas de los servidores públicos cuya finalidad sea eludir lo dispuesto en el presente Decreto, dentro del plazo de 90 días naturales siguientes al de su entrada en vigor.
+
+SEXTO.- A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto, las percepciones de los magistrados y jueces del Poder Judicial del Estado de México, que actualmente estén en funciones, se sujetarán a lo siguiente:
+
+a) Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en la base II del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, se mantendrán durante el tiempo que dure su encargo.
+
+b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la base II del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
