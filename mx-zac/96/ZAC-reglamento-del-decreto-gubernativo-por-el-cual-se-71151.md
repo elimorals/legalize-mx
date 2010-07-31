@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-del-decreto-gubernativo-por-el-cual-se-71151"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-21"
-last_updated: "2009-11-21"
+last_updated: "2010-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO DEL DECRETO GUBERNATIVO POR EL CUAL SE ESTABLECEN LAS BASES PARA LA ENTREGA-RECEPCION DE LA ADMINISTRACION PUBLICA DEL ESTADO DE ZACATECAS 2004-2010
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 21 de noviembre de 2009.
 
@@ -311,7 +311,7 @@ d) Estados Financieros del mes de Agosto de 2010; y
 
 e) Dictamen Externo practicado a los Estados Financieros al 31 de Diciembre de 2009, en caso de que se tenga recibido, o en su defecto el del año inmediato anterior.
 
-Todas las Dependencias, Entidades y Unidades Adscritas, deberán llenar el ANEXO III - 02 INFORMACIÓN BANCARIA, en el cual entregarán con fecha de corte al 31 de Agosto de 2010, una relación de todas las Cuentas Bancarias que manejen, indicando la Institución Bancaria, el número de cuenta, el número de la Clabe (sic) interbancaria, la fecha de apertura de la cuenta y el saldo bancario al 31 de Agosto de 2010. Así mismo, deberán adjuntar la siguiente documentación:
+Todas las Dependencias, Entidades y Unidades Adscritas, deberán llenar el ANEXO III - 02 INFORMACIÓN BANCARIA, en el cual entregarán con fecha de corte al 31 de Agosto de 2010, una relación de todas las Cuentas Bancarias que manejen, indicando la Institución Bancaria, el número de cuenta, el número de la Clabe interbancaria, la fecha de apertura de la cuenta y el saldo bancario al 31 de Agosto de 2010. Así mismo, deberán adjuntar la siguiente documentación:
 
 a) Contratos de Apertura de Cuentas Bancarias y de Inversión;
 
@@ -329,13 +329,19 @@ g) Oficios dirigidos a las Instituciones Bancarias solicitando la cancelación d
 
 h) Relación de Nombres de Usuario y Claves de acceso al Sistema de Banca Electrónica vía internet.
 
-Todas las Dependencias, Entidades y Unidades Adscritas, deberán entregar el ANEXO III - 03 CANCELACIÓN DEL FONDO REVOLVENTE Y VIÁTICOS, en el cual entregarán con fecha de corte al 31 de Agosto de 2010, una relación de sus Fondos Revolventes y de Viáticos debidamente cancelados, indicando la Institución Bancaria en que manejaban su Cuenta, nombre del servidor público titular de la cuenta, número de Cuenta Bancaria, número de Clabe (sic) Interbancaria, oficio de cancelación de la Cuenta Bancaria, copia del trámite de cancelación del Fondo ante la Secretaría de Finanzas y en su caso copia del Recibo Oficial del reintegro del saldo de cada fondo.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2010)</small>
+
+Todas las Dependencias, Entidades y Unidades Adscritas, deberán entregar el ANEXO III - 03 CANCELACIÓN DEL FONDO REVOLVENTE Y VIÁTICOS, en el cual entregarán con fecha de corte al 13 de Agosto de 2010, una relación de sus Fondos Revolventes y de Viáticos debidamente cancelados, indicando la Institución Bancaria en que manejaban su Cuenta, nombre del servidor público titular de la cuenta, número de Cuenta Bancaria, número de Clabe Interbancaria, oficio de cancelación de la Cuenta Bancaria, copia del trámite de cancelación del Fondo ante la Secretaría de Finanzas y en su caso copia del Recibo Oficial del reintegro del saldo de cada fondo. Se recibirá documentación con posterioridad al 13 de agosto salvo autorización por escrito de la Secretaría de Finanzas, previa justificación que por escrito haga la Dependencia o Entidad correspondiente.
+
+(ADICIONADO, P.O. 31 DE JULIO DE 20109
+
+Para el caso de aquellas Dependencias, Entidades y Unidades Administrativas que por alguna causa requieran de realizar el pago de algún servicio contemplado dentro de los conceptos del Fondo Revolvente y Viáticos, estos serán tramitados y pagados de manera directa en la Secretaria de Finanzas de acuerdo a la suficiencia presupuestal disponible y durante el 'periodo del 16 de Agosto del año 2010 al 03 de Septiembre del año 2010. Después del 3 de Septiembre del año 2010, no se recibirá ninguna documentación para trámite de pago, salvo autorización de la Secretaria de Finanzas, previa justificación por escrito por parte de la Dependencia o Entidad correspondiente.
 
 En el caso de la Secretaría de Finanzas, se deberá presentar un Arqueo de Caja de cada Oficina Recaudadora con una antigüedad no superior a 20 días hábiles previos al día de la entrega, para garantizar que los fondos se encuentren debidamente resguardados.
 
 La Secretaría de Finanzas deberá presentar un Arqueo de Caja de cada uno de los Kioscos de Servicios Electrónicos, con una antigüedad no superior a 20 días hábiles previos al día de la entrega, para garantizar que los fondos se encuentren debidamente resguardados.
 
-Todas las Dependencias, Entidades y Unidades Adscritas, deberán entregar el ANEXO III - 04 SITUACIÓN PRESUPUESTAL, en el cual entregarán con fecha de corte al 31 de Agosto de 2010, una relación previamente conciliada con la Secretaría de Finanzas, en donde informen a nivel objetivo el Programa, Subprograma, Proyecto y Partida, su Presupuesto Original, sus Ampliaciones, Transferencias Positivas y Negativas, sus Reducciones y su Presupuesto Modificado Anual, y su Presupuesto Modificado, Presupuesto Ejercido y Presupuesto por Ejercer con fecha de corte al 31 de Agosto de 2010. La entrega de la información a que se refiere este apartado, se entregará únicamente un anexo por cada de las Dependencias, Entidades y Unidades Adscritas.
+Todas las Dependencias, Entidades y Unidades Adscritas, deberán entregar el ANEXO III - 04 SITUACIÓN PRESUPUESTAL, en el cual entregarán con fecha de corte al 31 de Agosto de 2010, una relación previamente conciliada con la Secretaría de Finanzas, en donde informen a nivel objetivo el Programa, Subprograma, Proyecto y Partida, su Presupuesto Original, sus Ampliaciones, Transferencias Positivas y Negativas, sus Reducciones y su Presupuesto Modificado Anual, y su Presupuesto Modificado, Presupuesto Ejercido y Presupuesto por Ejercer con fecha de corte al 31 de Agosto de 2010. La entrega de la información a que se refiere este apartado, se entregará únicamente un anexo por cada (sic) de las Dependencias, Entidades y Unidades Adscritas.
 
 Todas las Dependencias, Entidades y Unidades Adscritas, en caso de manejar fideicomisos, deberán entregar el ANEXO III - 05 FIDEICOMISOS PÚBLICOS, en el cual entregarán con fecha de corte al 31 de Agosto de 2010, una relación de todos los contratos de Fideicomisos Públicos que manejen, indicando la Institución Fiduciaria, el nombre del Fideicomisario y del Fideicomitente, el número de Contrato, la fecha del contrato y el Objeto del Fideicomiso. Asimismo, deberán adjuntar al presente anexo la siguiente documentación:
 
@@ -546,3 +552,13 @@ EDUARDO RUIZ FIERRO.
 EL COORDINADOR GENERAL JURÍDICO
 
 MIGUEL DE SANTIAGO REYES.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.
+
+P.O. 31 DE JULIO DE 2010.
+
+Primero.- El presente Decreto Gubernativo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones administrativas que contravengan este instrumento.
