@@ -4,7 +4,7 @@ identifier: "COL-reglamento-general-de-la-administracion-publica-municipal-25190
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-25"
-last_updated: "2009-10-10"
+last_updated: "2010-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "COL"
 ---
 # REGLAMENTO GENERAL DE LA ADMINISTRACION PUBLICA MUNICIPAL DE CUAUHTEMOC
 
-REGLAMENTO GENERAL DE LA ADMINISTRACION PUBLICA MUNICIPAL DE CUAUHTEMOC
+REGLAMENTO GENERAL DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE CUAUHTÉMOC
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO GENERAL DE LA ADMINISTRACIÓN PÚBLICA DEL AYUNTAMIENTO DE CUAUHTÉMOC, COLIMA, PUBLICADO EN EL P.O. DE 31 DE JULIO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 25 de mayo de 2002.
 
@@ -197,7 +199,7 @@ La Secretaría, la Tesorería, la Oficialía Mayor, la Dirección de General de 
 
 Los titulares de las unidades administrativas señaladas en el artículo anterior, se auxiliarán para delegar funciones y responsabilidades del personal que jerárquicamente le siga, llámense Directoras o Directores, Subdirectoras o Subdirectores, Jefes o Jefes de Departamento y demás servidoras y servidores públicos que las necesidades del servicio requieran, siempre y cuando figuren en el Presupuesto de egresos del Municipio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 16.
 
@@ -249,7 +251,7 @@ XVI. Revocar, cuando jurídicamente se justifique, los actos que emitan, o los e
 
 XVII. Las demás que les sean conferidas por otras disposiciones legales, así como las que expresa y legalmente les señale la Presidenta o Presidente Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 17.
 
@@ -353,7 +355,7 @@ Como son:
 
 b).- Fomentar la integración del Consejo Consultivo de Transporte y Vialidad, como órganos auxiliares de estudio y opinión técnica para el mejoramiento en la prestación de servicios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 XXI. Además de las enumeradas, serán funciones del Secretario, que ejercerá por conducto del Oficial del Registro Civil:
 
@@ -399,7 +401,7 @@ r).- Las demás que le otorguen las leyes, reglamentos y manuales de organizaci�
 
 XXII.- Las demás que le otorguen las Leyes, Reglamentos y Manuales Administrativos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 18.
 
@@ -447,11 +449,11 @@ XVI.- Autorizar y firmar, previo acuerdo de la Presidenta o Presidente Municipal
 
 XVII.- Intervenir en todas las operaciones en las que se haga uso del crédito público municipal y en los actos y contratos de los que resulten derechos y obligaciones de carácter económico para el Municipio;
 
-XVlII.- Expedir y refrendar las licencias para el funcionamiento de establecimientos que realicen actividades de carácter económico en el municipio, previa aprobación del Cabildo cuando así lo exijan las disposiciones legales;
+XVIII.- Expedir y refrendar las licencias para el funcionamiento de establecimientos que realicen actividades de carácter económico en el municipio, previa aprobación del Cabildo cuando así lo exijan las disposiciones legales;
 
 XIX.- Los demás que le señalen las leyes y reglamentos, como no delegables;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 XX.- Además de las atribuciones previstas en las fracciones anteriores, corresponde a la Tesorera o Tesorero Municipal, por medio de la Directora o Director de Ingresos:
 
@@ -485,7 +487,7 @@ k).- Proponer a la Tesorera o Tesorero Municipal la cancelación de créditos in
 
 l).- Los demás que les señalen las leyes y reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 XXI.- Corresponde a la Tesorera o Tesorero Municipal, por medio de la Directora o Director de Egresos y Contabilidad;
 
@@ -521,7 +523,7 @@ g).- Recibir, tramitar y en su caso certificar las manifestaciones, solicitudes 
 
 h).- Las demás que le confieran las leyes, reglamentos y demás disposiciones aplicables, así como las que en esta materia asuma el ayuntamiento en virtud de los convenios de coordinación y colaboración administrativa que se celebren.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 19.
 
@@ -567,7 +569,7 @@ XVI. Autorizar, previo acuerdo del presidente municipal y con base en el presupu
 
 XVII. Las demás que le otorguen las leyes, reglamentos y manuales de organización.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 20.
 
@@ -663,7 +665,7 @@ XL.- (DEROGADA, P.O., 22 DE MARZO DE 2002)
 
 ARTICULO 20 BIS.- Corresponderá a la Dirección de Servicios Públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 21.
 
@@ -685,7 +687,7 @@ V.- Promover la capacitación para las y los productores(as) a través de las de
 
 VI.- Gestionar apoyos y servicios necesarios para impulsar el desarrollo Agropecuario del Municipio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 22.
 
@@ -745,7 +747,7 @@ XIX.- Organizar y depurar las peticiones y necesidades que en materia de servici
 
 XX.- Las demás que le otorga este Reglamento, el Ayuntamiento y la Presidenta o Presidente Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 23.
 
@@ -795,7 +797,7 @@ l.- Llevar la agenda de audiencias de la Presidenta o Presidente Municipal; y
 
 II.- Las que la Presidenta o Presidente Municipal le asigne.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 25.
 
@@ -1075,7 +1077,7 @@ La creación y extinción de las demás categorías se declararán por el Cabild
 
 ### CAPITULO III. DE LAS AUTORIDADES AUXILIARES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 40.
 
@@ -1171,7 +1173,7 @@ XII.- Las demás que le confieran las Leyes y Reglamentos Municipales.
 
 ## TITULO CUARTO. DE LOS SERVICIOS PUBLICOS MUNICIPALES
 
-### CAPITULO I. DE LA CLASIFICACION DE LOS SERVICIOS PUBLlCOS
+### CAPITULO I. DE LA CLASIFICACION DE LOS SERVICIOS PUBLICOS
 
 ###### ARTICULO 46.
 
@@ -1349,7 +1351,7 @@ La Junta de Barrios se reunirá las veces que así se considere conveniente, a s
 
 La Junta, por conducto de la Presidenta o Presidente Municipal, podrá invitar a sus reuniones a funcionarios estatales y federales con el propósito de hacer llegar a los mismos, en el ramo correspondiente, el sentir de los ciudadanos en torno a las tareas públicas desempeñadas por las dependencias que sean titulares.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 64.
 
@@ -1437,12 +1439,18 @@ Dado en el Salón de Sesiones de Cabildo del H. Ayuntamiento Constitucional de C
 
 Lic. Cesar Ceballos Gómez.- Presidente Municipal.- Rubrica.- C. Pedro Martínez Rivera.- Sindico.- Rubrica.- Tec- Teresa Santa Ama Blake.- Regidora.- Rubrica.-Profra. Ma. De Jesús Fajardo López.- Regidora.- Rubrica.- Licda. Sandra Y. Ramírez Santillán.- Regidora.- Rubrica.- C. Alfonso Michel Aguirre.- Regidor.- Rubrica.- C. Carlos Yáñez Ibarra.- Regidor.- Rubrica.- C. Luis Enrique Martínez Ceballos.- Regidor.- Rubrica.- Dr. Ismael Estrada Ruiz.- Regidor.- Rubrica.- Lic. Esteban González Rodríguez.- Secretario.- Rubrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE MARZO DE 2003.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
 
 P.O. 10 DE OCTUBRE DE 2009.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
+
+P.O. 31 DE JULIO DE 2010.
+
+PRIMERO.- El presente Reglamento entrará en vigor a los 30 días naturales siguientes al de publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento General de la Administración Pública Municipal de Cuauhtémoc, aprobado el 7 de abril de 2002 y publicado en el Periódico Oficial "El Estado de Colima" el 25 de mayo del mismo año, así como todas las disposiciones que se opongan al presente ordenamiento.
