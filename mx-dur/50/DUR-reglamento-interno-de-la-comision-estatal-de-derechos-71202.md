@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interno-de-la-comision-estatal-de-derechos-71202"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-05"
-last_updated: "2009-11-05"
+last_updated: "2010-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "DUR"
 
 REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 5 de noviembre de 2009.
 
@@ -192,9 +192,11 @@ Sus recomendaciones y documentos de no responsabilidad sólo estarán basados en
 
 Para los efectos del desarrollo de las funciones de la Comisión, se entiende que los Derechos Humanos son los inherentes a la naturaleza humana, sin los cuales no se puede vivir como humano. En su aspecto positivo se entiende por ellos los establecidos como tales en los ordenamientos constitucionales e instrumentos internacionales firmados y ratificados por México, así como leyes y reglamentos vigentes en la materia.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 7.
 
-Los procedimientos que se sigan ante la Comisión, deberán ser breves, sencillos y estarán sujetos sólo a las formalidades esenciales que requiera la investigación de la queja atendiendo a los principios de inmediatez concentración y rapidez, se procurará en la medida de lo posible la comunicación y contacto directo con los quejosos, agraviados, denunciantes y autoridades, ya sea en forma personal, telefónica o por cualquier otro medio a fin de allegarse de los elementos suficientes y procede en consecuencia. En todos los casos se aplicara la suplencia de la queja y durante la tramitación de los expedientes de quejas, se buscará que a la brevedad posible se realice la investigación a que haya lugar evitando actuaciones no indispensables.
+Los procedimientos que se sigan ante la Comisión deberán ser breves, sencillos y estarán sujetos sólo a las formalidades esenciales que requiera la investigación de la queja atendiendo a los principios de inmediatez, concentración y rapidez, se procurará en la medida de lo posible la comunicación y contacto directo con los quejosos, agraviados, denunciantes y autoridades, ya sea en forma personal, telefónica o por cualquier otro medio a fin de allegarse de los elementos suficientes y proceder en consecuencia. En todos los casos se aplicará la suplencia de la queja y durante la tramitación de los expedientes de quejas, se buscará que a la brevedad posible se realice la investigación a que haya lugar evitando actuaciones no indispensables.
 
 ###### Artículo 8.
 
@@ -290,9 +292,11 @@ Los requisitos para ocupar el cargo de Presidente, se establecen en el artículo
 
 Durante las ausencias temporales o licencias del Presidente de la Comisión, su representación legal y funciones serán cubiertas por el Visitador General, para el caso de ausencia definitiva del Presidente, éste será sustituido por el suplente respectivo, hasta en tanto el Congreso del Estado elija un nuevo Presidente.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 25.
 
-Para el despacho de los asuntos que directamente correspondan a la Presidencia, ésta contará con el apoyo de los siguientes órgano: Una Secretaría Particular, un Departamento de Comunicación Social y Relaciones Públicas, un Departamento de Asesoría, un Departamento de Acceso a la Información Pública, un Departamento de Relaciones Públicas, un Departamento de Seguimiento de Recomendaciones y una Oficialía de partes y los demás que sean necesarios.
+Para el despacho de los asuntos que directamente correspondan a la Presidencia, ésta contará con el apoyo de los siguientes órganos: una Secretaría Particular, un Departamento de Comunicación Social, un Departamento de Relaciones Públicas, un Departamento de Asesoría, un Departamento de Acceso a la Información Pública, un Departamento de Seguimiento de Recomendaciones, una Oficialía de Partes y los demás que sean necesarios.
 
 ###### Artículo 26.
 
@@ -330,6 +334,10 @@ Las sesiones ordinarias del Consejo se celebrarán cuando menos una vez al mes, 
 
 Para la validez de las sesiones del Consejo, serán (sic) necesaria la asistencia del Presidente y que exista Quórum Legal, entendiéndose por este, la presencia de la mitad más uno de los integrantes del Consejo.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2010)</small>
+
+En caso de ausencia a las sesiones por parte del Presidente de la Comisión provocada por causa de fuerza mayor, el Secretario presidirá la sesión respectiva y se nombrará de entre los miembros presentes a quien funja como éste último.
+
 ###### Artículo 34.
 
 Se podrá convocar a sesiones extraordinarias del Consejo por el Presidente, o mediante la solicitud de cuando menos de tres de sus miembros, cuando estimen que haya razones de importancia para ello.
@@ -340,9 +348,11 @@ De cada una de las sesiones ordinarias o extraordinarias del Consejo se levantar
 
 Las actas serán aprobadas por el Consejo en la Sesión Ordinaria inmediatamente posterior.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 36.
 
-Para la realización de las sesiones ordinarias o extraordinarias, el Secretario Ejecutivo enviará a los Consejeros por lo menos con setenta y dos horas de anticipación, el citatorio y la orden del día previstos para la sesión, así como la documentación que deba ser enviada por los Consejeros.
+Para la realización de las sesiones ordinarias o extraordinarias, el Secretario Ejecutivo enviará a los Consejeros por lo menos con setenta y dos horas de anticipación, el citatorio y la orden del día previstos para la sesión, así como la documentación que deba ser enviada a los Consejeros.
 
 ###### Artículo 37.
 
@@ -394,7 +404,9 @@ VI.- Un Departamento Técnico de Servicios Periciales.
 
 Las facultades y obligaciones de la Visitaduría General se establecen en los artículos 27 y 43 de la Ley; además contará con las siguientes atribuciones:
 
-I.- Acudir periódicamente a las Visitadurías Numerarias, con el fin de conocer el buen funcionamiento de los trámites de los expedientes.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2010)</small>
+
+I.- Acudir periódicamente a las Visitadurías Numerarias;
 
 II.- Ser enlace con las autoridades estatales y municipales, para los efectos de lograr una conciliación.
 
@@ -404,9 +416,11 @@ IV.- Conocer de los casos que por su gravedad y a criterio de la Presidencia, se
 
 V.- Rendir los informes anuales y mensuales correspondientes.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 42.
 
-Además de los requisitos que se establecen en el artículo 27 de la Ley, el Visitador General necesitará contar con cédula profesional al día de la designación del cargo.
+Además de los requisitos que se establecen en el artículo 26 de la Ley, el Visitador General necesitará contar con cédula profesional al día de la designación del cargo.
 
 #### SECCIÓN I (SIC). DE LOS VISITADORES NUMERARIOS
 
@@ -428,7 +442,9 @@ El Visitador Numerario tendrá las siguientes funciones:
 
 I.- Recibir, admitir o rechazar las quejas e inconformidades presentadas por los afectados, sus representantes o los denunciantes ante la Comisión;
 
-II.- Iniciar a petición de parte la investigación de las quejas e inconformidades que le sean presentadas Por posibles violaciones a derechos humanos;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2010)</small>
+
+II.- Iniciar a petición de parte la investigación de las quejas e inconformidades que le sean presentadas por posibles violaciones a derechos humanos;
 
 III.- Efectuar todas las investigaciones con la discreción que el caso lo amerite, y con pleno respeto al derecho de audiencia;
 
@@ -494,7 +510,9 @@ III.- Un departamento de apoyo administrativo
 
 La Comisión contará con una Dirección de Prevención, Difusión, Promoción y Capacitación de los Derechos Humanos, su titular será nombrado y removido libremente por el Presidente de la Comisión.
 
-Asimismo contará con una (sic) Departamento de Dhnet, el cual será el encargado de transmitir vía internet, las diversas actividades que realiza ésta.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2010)</small>
+
+Asimismo contará con un Departamento de Dhnet, el cual será el encargado de transmitir vía internet, las diversas actividades que realiza ésta.
 
 Las funciones de la Dirección de Prevención, Difusión, Promoción y Capacitación de los Derechos Humanos, son las que se establece en el artículo 81 de la Ley.
 
@@ -604,11 +622,13 @@ La formulación de quejas, así como las resoluciones y recomendaciones que emit
 
 La correspondencia que los internos de cualquier centro de reclusión envíen a la Comisión no podrá ser objeto de censura de ningún tipo y deberá ser remitida sin demora por los encargados del Centro respectivo. Asimismo no podrán ser objeto de escucha o interferencia las conversaciones que se establezcan entre funcionarios de la Comisión y los internos de algún centro de reclusión, ya sea de adultos o de menores.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 65.
 
-Las quejas y orientaciones jurídicas que se formulen en las visitadurías regionales y módulos que estén instalados fuera de las Oficinas centrales de la Comisión, de acuerdo a lo establecido por el artículo 3 de este Reglamento, se tramitarán en la misma visitaduría numeraria y las que corresponden a los módulos deberán remitirse de inmediato a la institución.
+Las quejas y orientaciones jurídicas que se formulen en las visitadurías numerarias y módulos que estén instalados fuera de las Oficinas centrales de la Comisión, de acuerdo a lo establecido por el artículo 3 de este Reglamento, se tramitarán en la misma visitaduría numeraria y las que corresponden a los módulos deberán remitirse de inmediato a la institución.
 
-En caso de suma urgencia o violaciones graves, los titulares de las visitadurías regionales y de los módulos informarán de inmediato a la Presidencia o Visitaduría General, y que una vez autorizadas practicarán las diligencias necesarias que se les instruyan, ello en términos de lo dispuesto en el artículo 43.
+En caso de suma urgencia o violaciones graves, los titulares de las visitadurías numerarias y de los módulos, informarán de inmediato a la Presidencia o Visitaduría General, y que una vez autorizadas practicarán las diligencias necesarias que se les instruyan, ello en términos de lo dispuesto en el artículo 43.
 
 ###### Artículo 66.
 
@@ -674,9 +694,11 @@ En los casos que el quejoso solicite la reapertura de un expediente o que se rec
 
 La Comisión no está obligada a entregar a ninguna de las constancias que obran en los expedientes de queja, sea solicitud del quejoso o de la autoridad. Tampoco estará obligada a entregar ninguna de sus pruebas a la autoridad a la cual dirigió una Recomendación o algún particular. Sin embargo, el Visitador en turno, previo acuerdo con el Presidente de la Comisión, podrá determinar discrecionalmente si se accede a la solicitud respectiva, previa constancia que de ello quede en el expediente.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 78.
 
-El Presidente de la Comisión, el Visitador General, los Visitadores Numerarios y adjuntos, en su caso, tendrán fe pública en el desempeño de sus funciones. Se entenderá por fe pública, la facultad de autentificar documentos preexistentes o declaraciones y hechos que tengan lugar o hayan acontecido en presencia de dichos funcionarios, sin perjuicio del valor probatorio que en definitiva se le atribuya, de conformidad con lo establecido en el artículo 48 de la Ley. Las declaraciones y los hechos a que alude el párrafo anterior se harán constar en el acta circunstanciada que al efecto levantará el funcionario correspondiente.
+El Presidente de la Comisión, el Visitador General, los Visitadores Numerarios, adjuntos y auxiliares en su caso, tendrán fe pública en el desempeño de sus funciones. Se entenderá por fe pública, la facultad de autentificar documentos preexistentes o declaraciones y hechos que tengan lugar o hayan acontecido en presencia de dichos funcionarios, sin perjuicio del valor probatorio que en definitiva se le atribuya, de conformidad con lo establecido en el artículo 48 de la Ley. Las declaraciones y los hechos a que alude el párrafo anterior se harán constar en el acta circunstanciada que al efecto levantará el funcionario correspondiente.
 
 ###### Artículo 79.
 
@@ -720,9 +742,11 @@ En caso de que la solicitud se verifique por vía telefónica, se estará a lo d
 
 Las medidas precautorias o cautelares se solicitarán cuando la naturaleza del caso lo amerite, por un plazo cierto, que no podrá exceder de treinta días. Durante ese plazo la Comisión deberá concluir el estudio del expediente y se resolverá el fondo del mismo.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 87.
 
-En el desempeño de sus facultades y obligaciones, los funcionarios y empleados de la Comisión estarán obligados a identificarse con la credencial que (sic) su nombre se expida.
+En el desempeño de sus facultades y obligaciones, los funcionarios y empleados de la Comisión estarán obligados a identificarse con la credencial que a su nombre se expida.
 
 ###### Artículo 88.
 
@@ -730,9 +754,11 @@ En caso de que algún funcionario de la Comisión hiciere uso indebido de la cre
 
 ### CAPÍTULO V. DE LAS PRUEBAS
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 89.
 
-Durante la fase de investigación y con el fin de lograr una correcta apreciación y resolver los expedientes integrados por las quejas formuladas ante la Comisión, tanto los quejosos, como las autoridades señaladas como responsables, podrían presentar toda clase de pruebas contenidas en el orden jurídico mexicano, siempre y cuando no atenten contra la moral y el derecho, ni tengan por objeto retardar la investigación.
+Durante la fase de investigación y con el fin de lograr una correcta apreciación y resolver los expedientes integrados por las quejas formuladas ante la Comisión, tanto los quejosos, como las autoridades señaladas como responsables, podrán presentar toda clase de pruebas contenidas en el orden jurídico mexicano, siempre y cuando no atenten contra la moral y el derecho, ni tengan por objeto retardar la investigación.
 
 ###### Artículo 90.
 
@@ -868,9 +894,11 @@ IX- Asuntos que vulneran su autonomía y autoridad moral.
 
 En el caso de la fracción VII, la Comisión deberá hacer, a la brevedad posible, del conocimiento de la queja a la autoridad competente para conocerla, observando las reglas que se fijen para tal efecto.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 105.
 
-Los expedientes de queja serán formalmente concluidos mediante la firma del acuerdo respectivo del Visitador en turno, previa conformidad con el Presidente, en el que se establecerá con toda claridad la causa de conclusión del expediente, sin fundamento legal y reglamentario.
+Los expedientes de queja serán formalmente concluidos mediante la firma del acuerdo respectivo del Visitador General o Numerario en su caso, previa conformidad con el Presidente, en el que establecerá con toda claridad la causa de conclusión del expediente, con fundamento legal y reglamentario.
 
 ###### Artículo 106.
 
@@ -932,7 +960,9 @@ En caso negativo, la Comisión lo hará del conocimiento de la opinión pública
 
 Para normar, evaluar y consolidar la eficaz y efectiva reparación de daños, aplicación de la justicia, atención a las víctimas del abuso de poder y la supervisión de lineamientos para eliminar practicas que vulneren derechos humanos por autoridades, servidores públicos o grupos sociales que actúen con la anuencia de los primeros, se dará seguimiento a las recomendaciones y solicitudes a través del Departamento de Seguimiento, que tendrá las siguientes funciones genéricas, además de las que le instruya el Presidente:
 
-I.- Computar los términos para el cumplimiento de la recomendación, mismo (sic) que no excederán de seis mes (sic) a un año y en caso (sic) excepcionales el plazo será determinado por el Presidente
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2010)</small>
+
+I.- Computar los términos para el cumplimiento de la recomendación, mismo (sic) que no excederán de seis meses a un año y en casos excepcionales el plazo será determinado por el Presidente.
 
 ###### Artículo 116.
 
@@ -972,9 +1002,11 @@ IV.- Incumplida.
 
 Expedida la recomendación, la Comisión podrá dar seguimiento únicamente a las actuaciones y diligencies que se practiquen en la integración de las averiguaciones previas, que se deriven de sus propias recomendaciones, a través de sus visitadores generales, numerarios y adjuntos. Esta facultad se limitara a la observación atenta del curso del asunto de que se trate sin que se entienda la posibilidad de intervenir como parte de aquellos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 120.
 
-La Comisión también podrá emitir recomendaciones generales derivadas de las investigaciones, estudios, análisis, revisiones o cualquier otra actividad que, en el desempeño de sus funciones, revelaren violaciones a los Derechos Humanos. Estas recomendaciones se elaborarán de manera similar a las particulares y se fundamentaran en los estudios realizados por la propia Comisión. Las recomendaciones generales contendrán los siguientes elementos:
+La Comisión también podrá emitir recomendaciones generales derivadas de las investigaciones, estudios, análisis, revisiones o cualquier otra actividad que, en el desempeño de sus funciones; revelaren violaciones a los Derechos Humanos. Estas recomendaciones se elaborarán de manera similar a las particulares y se fundamentaran en los estudios realizados por la propia Comisión. Las recomendaciones generales contendrán los siguientes elementos:
 
 I.- Antecedentes;
 
@@ -1040,9 +1072,11 @@ Las notificaciones a que se refiere el artículo 59 de la Ley deberán ser siemp
 
 ### CAPÍTULO XII. DE LOS MEDIOS DE IMPUGNACIÓN
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 130.
 
-El recurso de queja podrá ser presentado por los quejosos, terceros perjudicados, las autoridades o servidores públicos que se vean afectados por la probable violación a los derechos humanos ante la inacción la Comisión, sus omisiones, sus resoluciones definitivas así como el informe relacionado con el cumplimiento de las recomendaciones. Este recurso deberá presentarse ante la Comisión Nacional de derechos Humanos en los términos de la normatividad aplicable.
+El recurso de queja podrá ser presentado por los quejosos, terceros perjudicados, las autoridades o servidores públicos que se vean afectados por la probable violación a los derechos humanos ante la inacción de la Comisión, sus omisiones, sus resoluciones definitivas así como el informe relacionado con el cumplimiento de las recomendaciones. Este recurso deberá presentarse ante la Comisión Nacional de los Derechos Humanos en los términos de la normatividad aplicable.
 
 ###### Artículo 131.
 
@@ -1143,3 +1177,9 @@ CONSEJERO
 LIC. ROBERTO AGUILAR DURÁN
 
 SECRETARIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE AGOSTO DE 2010.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
