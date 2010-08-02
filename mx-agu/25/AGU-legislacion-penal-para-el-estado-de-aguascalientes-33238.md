@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2010-07-05"
+last_updated: "2010-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2010.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -1191,15 +1191,21 @@ El Encubrimiento consiste en:
 
 I. Adquirir, recibir u ocultar el producto de un hecho punible, con ánimo de lucro, después de realizado tal hecho, conociendo el inculpado tal circunstancia y sin haber participado en su realización.
 
-Si el inculpado recibió la cosa en venta, prenda o bajo cualquier otro concepto y no tuvo conocimiento de la procedencia ilícita de aquélla, por no haber tomado las precauciones indispensables para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, la punibilidad aplicable se disminuirá hasta en una mitad respecto de los mínimos y máximos señalados.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2010)</small>
+
+Si el inculpado recibió la cosa en venta, prenda o bajo cualquier otro concepto y no tuvo conocimiento de la procedencia ilícita de aquélla, por no asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, la punibilidad aplicable se disminuirá hasta en una mitad respecto de los mínimos y máximos señalados.
 
 Para el efecto del párrafo anterior los adquirentes de vehículos de motor deberán tramitar la transferencia o regularización correspondiente, cerciorándose de su legítima procedencia;
 
 II. Prestar auxilio o cooperación de cualquier especie a los autores o partícipes de cualquier hecho punible, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución de tal hecho;
 
-III. Ocultar a los autores o partícipes de cualquier hecho punible, o los efectos, objetos o instrumentos del mismo, o impida que se investigue tal hecho por las autoridades competentes; y (sic)
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2010)</small>
 
-IV. No dar auxilio para la investigación de hechos punibles o para llevar a cabo la persecución de los autores o partícipes en aquéllos, cuando para ello sea requerido por las autoridades competentes;
+III. Ocultar a los autores o partícipes de cualquier hecho punible, o los efectos, objetos o instrumentos del mismo, o impida que se investigue tal hecho por las autoridades competentes;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2010)</small>
+
+IV. No dar auxilio para la investigación de hechos punibles o para llevar a cabo la persecución de los autores o partícipes en aquéllos, cuando para ello sea requerido por las autoridades competentes; o
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -5828,3 +5834,9 @@ P.O. 5 DE JULIO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE AGOSTO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
