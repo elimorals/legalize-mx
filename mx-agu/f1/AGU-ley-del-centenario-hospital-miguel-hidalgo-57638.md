@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-centenario-hospital-miguel-hidalgo-57638"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2007-11-26"
+last_updated: "2010-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL CENTENARIO HOSPITAL MIGUEL HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2010.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -45,9 +45,15 @@ LEY DEL CENTENARIO HOSPITAL MIGUEL HIDALGO
 
 ### CAPÍTULO PRIMERO. Naturaleza del Centenario Hospital Miguel Hidalgo
 
-###### ARTÍCULO 1º.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2010)</small>
 
-El Centenario Hospital Miguel Hidalgo, es un organismo público descentralizado del Gobierno del Estado de Aguascalientes que cuenta con personalidad jurídica, patrimonio propio y autonomía de gestión para el cabal cumplimiento de su objeto y de sus fines, con domicilio en la ciudad de Aguascalientes.
+###### ARTÍCULO 1°.
+
+El Centenario Hospital Miguel Hidalgo, es un organismo del Poder Ejecutivo del Estado de Aguascalientes, dependiente en lo técnico y operativo del Instituto de Salud del Estado de Aguascalientes, sujeto a las disposiciones del presente ordenamiento.
+
+En términos de la Ley de Salud del Estado de Aguascalientes, será parte integrante del Sistema Estatal de Salud, que coordina el Instituto de Salud del Estado de Aguascalientes.
+
+El domicilio del Centenario Hospital Miguel Hidalgo, estará en la Ciudad de Aguascalientes.
 
 ### CAPÍTULO SEGUNDO. De la Definición de Términos
 
@@ -95,7 +101,9 @@ III. Otorgar constancias, diplomas y reconocimientos, de conformidad con las dis
 
 IV. Prestar servicios de salud en aspectos preventivos, consulta externa, médico-quirúrgicos, de hospitalización, de rehabilitación y de urgencias en sus diversas áreas de especialidad, hasta el límite de su capacidad instalada;
 
-V. Actuar como órgano de consulta técnica y normativa, de las dependencias y entidades de la administración pública estatal, en sus áreas de especialización, así como prestar asesorías a título oneroso a personas de derecho privado;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2010)</small>
+
+V. Actuar como órgano de consulta técnica de las dependencias y entidades de la Administración Pública Estatal, en sus áreas de especialización, así como prestar asesorías a título oneroso a personas del derecho privado;
 
 VI. Promover acciones para la protección de la salud, en lo relativo a los padecimientos propios de sus especialidades;
 
@@ -107,17 +115,31 @@ IX. Coadyuvar a la vigilancia epidemiológica de las enfermedades infecciosas y 
 
 X. Contribuir al desarrollo de la tecnología diagnóstica apropiada a las necesidades del Estado;
 
-XI. Complementar el sistema de referencia y contrarreferencia de pacientes de especialidad, para su diagnóstico, tratamiento y rehabilitación; y
+XI. Complementar el sistema de referencia y contrarreferencia de pacientes de especialidad, para su diagnóstico, tratamiento y rehabilitación; y (sic)
 
-XII. Realizar las demás actividades que le corresponda conforme a la presente Ley y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2010)</small>
 
-## TÍTULO SEGUNDO. DEL PATRIMONIO Y ORGANIZACIÓN DEL HOSPITAL
+XII. El Hospital será campo clínico para la enseñanza de las carreras que en el área de la salud sean proporcionadas por instituciones educativas, de acuerdo con los convenios que se celebren en la materia; y
 
-### CAPÍTULO PRIMERO. Del Patrimonio
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2010)</small>
 
-###### ARTÍCULO 6º.
+XIII. Realizar las demás actividades que le corresponda conforme a la presente Ley y demás disposiciones aplicables.
 
-El Hospital contará para el desempeño de sus funciones con:
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE AGOSTO DE 2010)</small>
+
+## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN DEL HOSPITAL
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO PRIMERO. De la Organización y de los Recursos del Hospital
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ADICIONADO], P.O. 2 DE AGOSTO DE 2010)</small>
+
+###### ARTÍCULO 6°.
+
+El Hospital gozará de autonomía en su organización interna, funcionamiento y en el manejo de los recursos que le sean asignados, sin más limitaciones que las que provengan de las políticas administrativas del Instituto de Salud, de sus Órganos de Gobierno y de las leyes aplicables.
+
+El Hospital contara para el desempeño de sus funciones con:
 
 I. Los bienes muebles e inmuebles y los derechos que le transfiera o haya transferido, la Federación, el Estado o cualquier otra entidad;
 
@@ -127,9 +149,15 @@ III. Los legados, donaciones, participaciones, fideicomisos o demás liberalidad
 
 IV. Las utilidades, rentas, dividendos y aprovechamientos que generen sus inversiones, bienes y operaciones;
 
-V. Los recursos auto generados; y
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2010)</small>
+
+V. Son fuentes de financiamiento del Hospital: los recursos asignados a través del Instituto de Salud del Estado de Aguascalientes, los subsidios federales y estatales, los que obtenga de organismos públicos y privados internacionales y locales, así como los recursos auto generados; y
 
 VI. Los demás bienes, derechos y recursos que adquiera por cualquier título legal.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2010)</small>
+
+Los gobiernos Federal y Estatal, por conducto de sus contralorías, vigilarán el adecuado uso y destino de los fondos que le destinen al Hospital, de acuerdo a las disposiciones legales vigentes; independientemente de la revisión de la cuenta pública a cargo del Órgano Superior de Fiscalización.
 
 ###### ARTÍCULO 7º.
 
@@ -390,3 +418,19 @@ Luis Armando Reynoso Femat,
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Juan Angel Pérez Talamantes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE AGOSTO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los trabajadores que actualmente laboran en el Centenario Hospital Miguel Hidalgo, conservarán sus derechos laborales, régimen de seguridad social y antigüedad.
+
+###### ARTICULO TERCERO.
+
+El Centenario Hospital Miguel Hidalgo conserva su estructura orgánica y administrativa en las condiciones en las que actualmente opera.
