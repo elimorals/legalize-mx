@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2007-11-26"
+last_updated: "2010-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2010.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -267,11 +267,15 @@ Los casos de violencia de género contra las mujeres y las causas que tengan rel
 
 ### CAPÍTULO IV. De las Órdenes de Protección
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2010)</small>
+
 ### CAPÍTULO V. Del Sistema Estatal para la Erradicación de la Violencia de Género Contra las Mujeres
 
 ###### Artículo 26.
 
-Las órdenes de protección son actos de urgente cumplimiento en función del interés superior de la víctima, y son de manera fundamental precautorias y cautelares. Deberán otorgarse por la autoridad competente, inmediatamente que conozca de hechos probables constitutivos de violencia de género contra las mujeres.
+Las órdenes de protección tienen como propósito prevenir, interrumpir o impedir la consumación de un delito o que se actualice un supuesto en materia civil o familiar que implique violencia contra las mujeres, a través de la emisión de una orden dictada por la autoridad judicial competente.
+
+Las órdenes de protección prohíben u ordenan la realización de determinadas conductas y son precautorias, cautelares y de urgente aplicación en función del interés superior de la víctima. Deberán otorgarse por el Ministerio Público, los jueces mixtos, de lo penal, civil y familiar, según corresponda, inmediatamente que conozcan los hechos probablemente constitutivos de delitos o supuestos del orden civil o familiar, que impliquen violencia contra la víctima o víctimas indirectas.
 
 ###### Artículo 27.
 
@@ -309,27 +313,47 @@ XIV. Embargo preventivo de bienes de la persona violenta, que deberá inscribirs
 
 XV. Obligación alimentaría provisional e inmediata.
 
-Las órdenes de protección contenidas en las Fracciones I a VI son de emergencia; y las contenidas en las Fracciones VII a XII son preventivas. Estas órdenes deberán expedirse dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generan, por parte de la autoridad competente y tendrán una temporalidad no mayor de setenta y dos horas. Las demás deberán ser otorgadas por la autoridad jurisdiccional competente.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2010)</small>
+
+Las órdenes de protección contenidas en las Fracciones I a VI son de emergencia, y las contenidas en las Fracciones VIII a XI son preventivas, deberán ser otorgadas por parte del Ministerio Público, los jueces mixtos; de lo penal, civil y familiar, según corresponda. Las contenidas en las fracciones VII, y XII a XV son de naturaleza civil y deberán ser otorgadas por los jueces mixtos, de lo civil y familiar, que conozcan del asunto. Las órdenes de protección deberán expedirse dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generan y tendrán una temporalidad no mayor de setenta y dos horas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 28.
 
-Al otorgar las órdenes emergentes y preventivas, las autoridades del Estado, en el ámbito de sus respectivas competencias, tomarán en consideración:
+El Ministerio Público, o, en su caso, los jueces de lo penal, civil, familiar y jueces mixtos, otorgarán las órdenes emergentes o preventivas, las cuales estarán debidamente fundadas y motivadas y tomarán en consideración:
 
 I. El riesgo o peligro existente;
 
-II. La seguridad de la víctima; y
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2010)</small>
 
-III. Los elementos con que se cuente.
+II. La seguridad de la víctima, o víctimas indirectas; y
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2010)</small>
+
+III. Demás elementos de convicción con que se cuente.
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 29.
 
-Corresponde a la autoridad jurisdiccional competente valorar las órdenes y la determinación de medidas similares en sus resoluciones o sentencias. Lo anterior con motivo de los juicios o procesos que al respecto se ventilen.
+Corresponde al Ministerio Público y jueces mixtos, de lo penal, civil y familiar, emitir las órdenes de protección y la determinación de medidas similares en sus resoluciones o sentencias, lo anterior con motivo de los procesos que al respecto se ventilen; dichas órdenes serán cumplimentadas por la Policía Ministerial y la Policía Preventiva.
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 30.
 
-Las órdenes de protección, atendiendo a la naturaleza de cada una de ellas, se otorgarán de oficio o a petición de las víctimas, de los hijos o las hijas, de las personas que convivan con ellas o se encuentren sujetas a su guarda o custodia, de las o los responsables de los Núcleos de Atención Integral, de los Refugios o del Ministerio Público.
+Las órdenes de protección, atendiendo a la naturaleza de cada una de ellas, se otorgarán de oficio o a petición de las víctimas de los hijos o las hijas, de las personas que convivan con ellas o se encuentren sujetas a su guarda o custodia, de las o de los responsables de los Núcleos de Atención Integral, y de los Refugios, o cualquier persona que tenga conocimiento del riesgo en que se encuentra la integridad física o psicológica, la libertad o seguridad de la víctima o víctimas indirectas.
 
-En toda orden de protección que se expida, deberá ponerse a dispersotas (sic) que ejercen Violencia de Género.
+En toda orden de protección que se expida deberán ponerse a disposición de la autoridad, las personas que ejercen Violencia de Género.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2010)</small>
+
+Artículo 30 bis.- La orden de protección surtirá sus efectos al momento de ser notificada y en la misma se citará a la persona agresora para comparecer ante el juez que emite la orden al día siguiente en que la reciba para celebrar audiencia de pruebas y alegatos.
+
+En la audiencia se recibirán, admitirán y desahogarán las pruebas que procedan y se recibirán los alegatos. Serán supletorios los ordenamientos procesales de la materia en que se dicten las medidas.
+
+El juez tendrá veinticuatro horas para dictar resolución donde confirme, modifique o revoque.
 
 ### CAPÍTULO VI. De los Consejos Estatal y Municipales para la Erradicación de la Violencia de Género Contra las Mujeres
 
@@ -1056,3 +1080,11 @@ Luis Armando Reynoso Femat,
 El SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Juan Angel Pérez Talamantes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE AGOSTO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
