@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-publica-para-el-estado-de-aguascalientes-22010
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-16"
-last_updated: "2009-08-24"
+last_updated: "2010-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "AGU"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 2 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de julio de 2001.
 
@@ -2124,3 +2126,25 @@ P.O. 24 DE AGOSTO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE AGOSTO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia a los ciento ochenta días posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la ley de Seguridad Pública para el Estado de Aguascalientes, emitida mediante Decreto Número 183 de la LVII legislatura del Congreso del Estado, publicado en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes número 29 el 16 de Julio del 2001.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado deberá revisar los Programas de Seguridad Pública y de Prevención del Delito a fin de adecuarlos, en su caso, a los requerimientos de esta ley y de la ley General del Sistema Nacional de Seguridad Pública.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado deberá expedir los reglamentos de esta ley, en un término de ciento ochenta días contados a partir de la publicación del presente Decreto, permaneciendo vigentes los reglamentos existentes, en aquello que no se opongan al contenido de la presente ley.
+
+###### ARTÍCULO QUINTO.
+
+Los Ayuntamientos deberán expedir los reglamentos que deriven de esta ley, en el ámbito de su competencia, dentro de los ciento ochenta días posteriores a la entrada en vigencia del presente Decreto, permaneciendo vigentes los reglamentos existentes, en aquello que no se opongan al contenido de la presente ley.
