@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-electoral-y-de-75068"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-06"
-last_updated: "2010-05-06"
+last_updated: "2010-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2010.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 6 de mayo de 2010.
 
@@ -249,19 +249,23 @@ XI. Consejero Presidente: Consejero Presidente del Instituto Electoral y de Part
 
 XII. Comités: Comités del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-XIII. Directores: Aquéllos que conforme al organigrama del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, tengan a su cargo alguna de las Direcciones Administrativas, de Área, la Unidad de Fiscalización o la Contraloría General;
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2010)</small>
 
-XIV. Instituto: Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+XIII. Director General: El titular de la Dirección General Ejecutiva del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-XV. Reglamento: Reglamento Interior del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+XIV. Directores: Aquéllos que conforme al organigrama del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, tengan a su cargo alguna de las Direcciones Administrativas, de Área, la Unidad de Fiscalización o la Contraloría General;
 
-XVI. Reglamento del Servicio Profesional: Reglamento del Servicio Profesional Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+XV. Instituto: Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-XVII. Secretaría Técnica: Secretaría Técnica de Comisiones del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+XVI. Reglamento: Reglamento Interior del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-XVIII. Secretario Ejecutivo: El titular de la Secretaría Ejecutiva del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco; y,
+XVII. Reglamento del Servicio Profesional: Reglamento del Servicio Profesional Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-XlX. Unidad de Fiscalización: Unidad de Fiscalización de los Recursos de los Partidos Políticos.
+XVIII. Secretaría Técnica: Secretaría Técnica de Comisiones del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+
+XIX. Secretario Ejecutivo: El titular de la Secretaría Ejecutiva del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco; y,
+
+XX. Unidad de Fiscalización: Unidad de Fiscalización de los Recursos de los Partidos Políticos.
 
 # LIBRO SEGUNDO
 
@@ -329,9 +333,15 @@ B. La Secretaría Ejecutiva;
 
 a) Departamento de Archivo y Oficialía de Partes; y,
 
-b) Departamento del Servicio Profesional Electoral.
+b) Departamento del Servicio Profesional Electoral;
 
-C. Las Direcciones Administrativas siguientes:
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2010)</small>
+
+C. La Dirección General Ejecutiva;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2010)</small>
+
+D. Las Direcciones Administrativas siguientes:
 
 a) De Administración y Finanzas;
 
@@ -339,21 +349,31 @@ b) De Capacitación Electoral y Educación Cívica;
 
 c) De Informática;
 
-d) Jurídica;
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2010)</small>
 
-e) De Organización, Geografía y Estadística Electoral; y,
+d) Jurídica; y
 
-f) De Prerrogativas de los Partidos Políticos.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2010)</small>
 
-D. Las Direcciones de Área, siguientes:
+e) De Organización, Geografía y Estadística Electoral;
+
+f) (DEROGADO, P.O. 3 DE AGOSTO DE 2010).
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2010)</small>
+
+E. Las Direcciones de Área, siguientes:
 
 a) De Comunicación Social;
 
 b) De Participación Ciudadana;
 
-e) Secretaria Técnica de Comisiones y Comités Técnicos de Consejeros Electorales; y,
+c) Secretaría Técnica de Comisiones y Comités Técnicos de Consejeros Electorales;
 
-d) Unidad de Transparencia e Información Pública.
+d) Unidad de Transparencia e Información Pública;
+
+e) Unidad Editorial y,
+
+f) De Prerrogativas a Partidos Políticos;
 
 III. Órganos técnicos, que son:
 
@@ -377,9 +397,13 @@ I. La Comisión de Quejas y Denuncias;
 
 J. El Comité Técnico de Asesoría Especializada de la Comisión de Adquisiciones y Enajenaciones;
 
-K. El Comité de Clasificación de Información Pública; y
+K. El Comité de Clasificación de Información Pública; y (sic)
 
-L. El Comité de Radio y Televisión.
+L. El Comité de Radio y Televisión;
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2010)</small>
+
+M. El Comité Editorial;
 
 IV. Órganos desconcentrados, que son:
 
@@ -387,7 +411,7 @@ A. Los Consejos Distritales Electorales;
 
 B. Los Consejos Municipales Electorales; y,
 
-C. Las Mesas Directivas de Casilla.
+C. Las Mesas Directivas de Casilla;
 
 V. Las demás Comisiones, direcciones administrativas, direcciones de área y departamentos que el Consejo General determine necesarios para el desempeño de las actividades del instituto.
 
@@ -411,21 +435,51 @@ II. El Cuerpo Administrativo, estará integrado con el personal no especializado
 
 De los Órganos Ejecutivos.
 
-### Capítulo Tercero
+### Capítulo Segundo Bis
 
-De las Direcciones del Instituto.
+De la Dirección General Ejecutiva.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2010)</small>
+
+###### Artículo 19 Bis.
+
+1. La Dirección General Ejecutiva es el órgano encargado de la coordinación de las actividades, operación técnica y administrativa del Instituto.
+
+2. Además de su titular, la Dirección General Ejecutiva se integrará con el personal técnico y administrativo que establezca el presupuesto de egresos del Instituto.
+
+3. El Director General deberá reunir los mismos requisitos que se exigen en el Código para ser Secretario Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2010)</small>
+
+###### Artículo 19 Ter.
+
+1. El Director General tendrá las atribuciones siguientes:
+
+I. Coadyuvar en el ejercicio de las atribuciones del Consejero Presidente y el Secretario Ejecutivo;
+
+II. Coordinar e instruir los trabajos que realicen los Departamentos, las Direcciones Administrativas y las Direcciones de Área del Instituto, en los términos del presente Reglamento;
+
+III. Coordinar y estructurar los informes de las direcciones del Instituto, analizarlos, y e (sic) su caso, proponer las observaciones pertinentes;
+
+IV. Coadyuvar con el Secretario Ejecutivo para que las Direcciones del Instituto informen sobre sus actividades y programas que consideren necesarias;
+
+V. Coadyuvar en la realización del proyecto de calendario de actividades de los procesos electorales, así como los de plebiscito y referéndum; y
+
+VI. Las demás que se encuentren previstas en el presente Reglamento o que le sean conferidas por el Consejo General, el Consejero Presidente o el Secretario Ejecutivo.
 
 ###### Artículo 10.
 
 1. Cuando un Consejero Electoral solicite licencia para ausentarse temporalmente de su encargo, por un periodo de quince días o menor, una vez iniciado el proceso electoral, o por un periodo de treinta días o menor, cuando no exista proceso electoral, el Consejo General a la brevedad deberá resolver sobre la procedencia de la misma. Para que ésta sea aprobada, se requerirá la anuencia de la mayoría de los integrantes presentes, sin contabilizar al Consejero solicitante, quien tendrá voz, pero no voto en dicha aprobación.
 
-### Capítulo Primero
+### Capítulo Tercero
 
-De la Unidad de Fiscalización.
+De las Direcciones del Instituto.
 
 ###### Artículo 11.
 
-1. La Secretaría Ejecutiva, Direcciones Administrativas, Direcciones de Área, Unidad de Fiscalización de los Recursos de los Partidos Políticos, así como las Comisiones y Comités, no podrán estar sin titular o coordinador, según sea el caso, por más de treinta días, término que excepcionalmente podrá ser prorrogado por diez días más cuando exista causa justificada.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2010)</small>
+
+1. La Secretaría Ejecutiva, la Dirección General Ejecutiva, Direcciones Administrativas, las Direcciones de Área, la Unidad de Fiscalización de los Recursos de los Partidos Políticos, así como las Comisiones y Comités, no podrán estar sin titular o coordinador, según sea el caso, por más de treinta días, término que excepcionalmente podrá ser prorrogado por diez días más cuando exista causa justificada.
 
 2. Se considera ausencia temporal de los funcionarios del Instituto, aquélla que exceda de quince días naturales en periodo electoral y de treinta en periodo no electoral.
 
@@ -433,7 +487,9 @@ De la Unidad de Fiscalización.
 
 I. Las del Secretario Ejecutivo, por el titular de la Dirección Jurídica; y
 
-II. Las del titular de las Direcciones Administrativas y de Área del Instituto, así como de la Unidad de Fiscalización de los Recursos de los Partidos Políticos, por el personal que sea designado por el Consejero Presidente.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+II. Las de los titulares de la Dirección General Ejecutiva, de las Direcciones Administrativas y de Área del Instituto, así como de la Unidad de Fiscalización de los Recursos de los Partidos Políticos, por el personal que sea designado por el Consejero Presidente.
 
 4. Para el caso de que se encontraren ausentes simultáneamente los titulares de la Secretaría Ejecutiva y de la Dirección Jurídica, el ejercicio de sus funciones será realizado por los servidores públicos que designe el Consejero Presidente.
 
@@ -441,11 +497,13 @@ II. Las del titular de las Direcciones Administrativas y de Área del Instituto,
 
 6. Se considera ausencia definitiva, aquélla que se derive de la imposibilidad jurídica y/o material para que un servidor público del Instituto continúe en el desempeño de sus funciones.
 
-7. En caso de ausencia definitiva del titular de la Secretaría Ejecutiva, de los titulares de las diversas Direcciones Administrativas y de Área, así como del titular de la Unidad de Fiscalización de los Recursos de los Partidos Políticos, el Consejo General designará al titular que corresponda, a propuesta que le formule el Consejero Presidente, dentro de los treinta días siguientes a que se genere la vacante.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2010)</small>
 
-### Capítulo Segundo
+7. En caso de ausencia definitiva del titular de la Secretaría Ejecutiva, de los titulares de la Dirección General Ejecutiva, de las diversas Direcciones Administrativas y de Área, así como de la Unidad de Fiscalización de los Recursos de los Partidos Políticos, el Consejo General designará al titular que corresponda, a propuesta que le formule el Consejero Presidente, dentro de los treinta días siguientes a que se genere la vacante.
 
-De la Contraloría General.
+### Capítulo Primero
+
+De la Unidad de Fiscalización.
 
 ###### Artículo 12.
 
@@ -465,7 +523,9 @@ VI. Ser convocados a las sesiones de las Comisiones de que formen parte y recibi
 
 VII. Presentar propuestas por escrito a las Comisiones de las que no formen parte;
 
-VIII. Solicitar, para el adecuado desempeño de su encargo, la colaboración e información del titular de la Secretaría Ejecutiva, en los términos de la normatividad aplicable;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+VIII. Solicitar, para el adecuado desempeño de su encargo, la colaboración e información del titular de la Secretaría Ejecutiva o de la Dirección General Ejecutiva, en los términos de la normatividad aplicable;
 
 IX. Proponer al Consejero Presidente la designación del personal adscrito a sus oficinas, de acuerdo con las disponibilidades presupuestales y las normas administrativas correspondientes;
 
@@ -541,11 +601,15 @@ IV. Proponer al Consejo General, al ciudadano que fungirá como titular de la Se
 
 V. Informar al Consejo General sobre las propuestas que reciba para designar a los Jefes de Departamento de la Unidad de Fiscalización;
 
-VI. Designar encargados del despacho de las Direcciones Administrativas, Direcciones de Área y Unidad de Fiscalización, en los casos de ausencia de sus titulares;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+VI. Designar encargados del despacho de la Dirección General Ejecutiva, de las Direcciones Administrativas, Direcciones de Área y Unidad de Fiscalización, en los casos de ausencia de sus titulares;
 
 VII. La organización administrativa de los recursos materiales, humanos y financieros del Instituto;
 
-VlII. Proponer al Consejo General para su aprobación, las transferencias de partidas y ampliaciones del presupuesto del Instituto que resulten necesarias para el cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+VlII. Proponer al Consejo General para su aprobación, las transferencias de partidas, ampliaciones y modificaciones al presupuesto del Instituto que resulten necesarias para el cumplimiento de sus funciones;
 
 IX. Dictar los acuerdos administrativos necesarios para el funcionamiento del Instituto y el cumplimiento de sus atribuciones;
 
@@ -557,11 +621,15 @@ XII. Las demás que le confiera el Código y otras disposiciones aplicables.
 
 ###### Artículo 16.
 
-1. La Secretaría Ejecutiva es el órgano ejecutivo central de carácter unipersonal, cuyo titular es el Secretario Ejecutivo, quien será el encargado de coordinar, organizar, dirigir y evaluar las actividades de las distintas áreas del Instituto.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2010)</small>
+
+1. La Secretaría Ejecutiva es el órgano ejecutivo central de carácter unipersonal, cuyo titular es el Secretario Ejecutivo, quien será el encargado de coadyuvar con la Presidencia, en organizar, dirigir y evaluar las actividades de las distintas áreas del Instituto.
 
 2. Corresponde al Secretario Ejecutivo, para el debido cumplimiento de sus atribuciones:
 
-I. Coordinar y supervisar la ejecución de las políticas, programas generales y específicos del Instituto;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+I. Supervisar la ejecución de las políticas, programas generales y específicos del Instituto;
 
 II. Dar trámite a la correspondencia del Instituto, salvo en los casos que el Código determine expresamente la competencia del Consejo General o del Presidente;
 
@@ -579,9 +647,13 @@ VIII. Establecer los criterios para la elaboración de los anteproyectos de pres
 
 IX. Establecer los criterios para la elaboración de los manuales, procedimientos y servicios de las Direcciones del Instituto;
 
-X. Solicitar a las Direcciones los informes sobre sus actividades y programas que considere necesarios;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
 
-XI. Recibir el informe anual que rindan las distintas Direcciones del Instituto;
+X. Solicitar a las Direcciones los informes sobre sus actividades y programas que considere necesarios, a través del Director General;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XI. Recibir, a través del Director General, el informe anual que rindan las distintas Direcciones del Instituto;
 
 XII. Supervisar que la estructura del personal de los órganos desconcentrados esté debidamente integrada y su actuación se realice acorde a los fines del Instituto y cuenten con los elementos para su adecuado funcionamiento;
 
@@ -627,11 +699,15 @@ X. Tener a su cargo el área de fotocopiado y realizar los trabajos que se le en
 
 XI. Recibir de los órganos del Instituto, las comunicaciones y documentación de salida a efecto de realizar las notificaciones correspondientes y, en su caso, elaborar las constancias respectivas, debiendo llevar un registro de todas las notificaciones practicadas, así como de los acuses de recibo atinentes; y
 
-XII. Las demás que le confieran el Código, así como aquéllas que en uso de sus facultades y atribuciones le encomienden el Consejo General, o el Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XII. Las demás que le confieran el Código, así como aquéllas que en uso de sus facultades y atribuciones le encomienden el Consejo General, el Consejero Presidente o el Secretario Ejecutivo.
 
 ###### Artículo 19.
 
 1. El Departamento de Servicio Profesional Electoral estará integrado en la forma que autorice el presupuesto de egresos del Instituto para el año que corresponda y tendrá las atribuciones que se señalen en el Reglamento del Servicio Profesional Electoral.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 2010)</small>
 
 ## TÍTULO QUINTO
 
@@ -659,47 +735,65 @@ VII. No haber sido representante propietario o suplente de algún partido polít
 
 VIII. Los demás que establezca el Consejo General y el Reglamento del Servicio Profesional Electoral.
 
-### Capítulo Tercero
+### Capítulo Segundo
 
-De las Comisiones y Comités.
+De la Contraloría General.
 
 ###### Artículo 21.
 
 1. Los Directores del Instituto, tienen las obligaciones siguientes:
 
-I. Cumplir con los acuerdos y resoluciones del Consejo General, del Consejero Presidente y del Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
 
-II. Proponer al Consejero Presidente la estructura de la Dirección conforme a las necesidades del servicio y a los recursos presupuestales autorizados;
+I. Cumplir con los acuerdos, resoluciones e instrucciones del Consejo General, del Consejero Presidente, del Secretario Ejecutivo y del Director General;
 
-III. Acordar con el Secretario Ejecutivo los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
 
-IV. Asistir a las reuniones de trabajo convocadas por el Secretario Ejecutivo en el ámbito de sus atribuciones;
+II. Proponer al Consejero Presidente, a través del Director General, la estructura de la Dirección conforme a las necesidades del servicio y a los recursos presupuestales autorizados;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+III. Acordar con el Secretario Ejecutivo y el Director General los asuntos de su competencia;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+IV. Asistir a las reuniones de trabajo convocadas por el Secretario Ejecutivo o el Director General en el ámbito de sus atribuciones;
 
 V. Dirigir, organizar y supervisar el trabajo del personal de la Dirección a su cargo;
 
 VI. Elaborar anualmente la propuesta de programa de actividades y de presupuesto de la Dirección;
 
-VII. Emitir los informes, dictámenes, datos, documentos y opiniones sobre asuntos propios de la Dirección que le soliciten las Comisiones del Instituto, el Consejero Presidente, los Consejeros Electorales o el Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+VII. Emitir los informes, dictámenes, datos, documentos y opiniones sobre asuntos propios de la Dirección que le soliciten las Comisiones del Instituto, el Consejero Presidente, los Consejeros Electorales, el Secretario Ejecutivo o el Director General;
 
 VIII. Asesorar técnicamente en asuntos de la competencia de la Dirección a las diversas áreas del Instituto;
 
 IX. Coordinar acciones con los titulares de los otros órganos del Instituto, para el mejor funcionamiento de la institución;
 
-X. Formular los manuales de procedimientos y servicios de la Dirección a su cargo, de conformidad con los criterios de la Secretaría Ejecutiva;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+X. Formular los manuales de procedimientos y servicios de la Dirección a su cargo, de conformidad con los criterios de la Secretaría Ejecutiva y de la Dirección General Ejecutiva;
 
 XI. Evaluar periódicamente los programas autorizados para la Dirección a su cargo;
 
 XII. Proponer y promover programas de modernización, simplificación y desconcentración, así como medidas de mejoramiento de la organización y administración en el ámbito de su competencia;
 
-XIII. Coadyuvar con el Secretario Ejecutivo en la elaboración de proyectos y el cumplimiento de los acuerdos del Consejo General que, en el ámbito de su competencia, sean materia de sus direcciones, así como realizar las diligencias a que haya lugar para ese fin;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
 
-XIV. Rendir a la Secretaría Ejecutiva, informe anual de las actividades realizadas, a más tardar en el mes de marzo del año siguiente al de las actividades a reportar;
+XIII. Coadyuvar con el Secretario Ejecutivo y el Director General en la elaboración de proyectos y el cumplimiento de los acuerdos del Consejo General que, en el ámbito de su competencia, sean materia de sus direcciones, así como realizar las diligencias a que haya lugar para ese fin;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XIV. Rendir a la Secretaría Ejecutiva, a través de la Dirección General Ejecutiva, informe anual de las actividades realizadas, a más tardar en el mes de marzo del año siguiente al de las actividades a reportar;
 
 XV. Participar y asistir a los cursos de capacitación que establezca el Reglamento del Servicio Profesional Electoral;
 
 XVI. Fomentar la participación de los integrantes de la Dirección a su cargo en los talleres, cursos, diplomados, conferencias, tendientes a optimizar sus actividades; y,
 
-XVII. Las demás que les sean conferidas por el Código, el Consejo General, el Consejero Presidente o el Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XVII. Las demás que les sean conferidas por el Código, el Consejo General, el Consejero Presidente, el Secretario Ejecutivo o el Director General.
 
 ###### Artículo 22.
 
@@ -713,29 +807,17 @@ IIl. Dirección de Informática;
 
 IV. Dirección Jurídica;
 
-V. Dirección de Organización, Geografía y Estadística Electoral;
+> <small>(REFORMADA P.O. 3 DE AGOSTO DE 2010)</small>
 
-VI. Dirección de Prerrogativas a los Partidos Políticos; y,
+V. Dirección de Organización, Geografía y Estadística Electoral; y, (sic)
+
+VI. (DEROGADA, P.O. 3 DE AGOSTO DE 2010)
 
 VII. Las demás que determine el Consejo General a propuesta del Consejero Presidente.
 
-### Capítulo Primero
+### Capítulo Tercero
 
-De los Consejos Distritales y Municipales Electorales.
-
-Artículo 59 (SIC).
-
-1. Los Consejos Distritales se integrarán conforme lo dispuesto en el Código y, en la medida de las posibilidades presupuestales, contarán en su estructura con:
-
-I. Un Coordinador de Capacitación;
-
-II. Un Coordinador de Informática;
-
-III. Un Coordinador de Organización; y,
-
-IV. El personal administrativo que requieran para el desempeño de sus funciones.
-
-2. El personal referido en las fracciones I, II y III del presente artículo, será comisionado por el Director Administrativo del Instituto que corresponda y dependerá jerárquicamente de él.
+De las Comisiones y Comités.
 
 ###### Artículo 23.
 
@@ -747,7 +829,9 @@ Il. Coadyuvar en la elaboración y aplicación de las políticas generales, crit
 
 Ill. Proveer lo necesario para el adecuado funcionamiento del personal del Instituto;
 
-IV. Coadyuvar con el Presidente y el Secretario Ejecutivo en la organización administrativa de los recursos materiales y financieros del Instituto;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+IV. Coadyuvar con el Presidente, el Secretario Ejecutivo y el Director General en la organización administrativa de los recursos materiales y financieros del Instituto;
 
 V. Efectuar, con la autorización del Consejero Presidente, las compras de insumos, mobiliario y equipo necesarios para el óptimo funcionamiento del Instituto, salvo en los casos que se requiera realizar un procedimiento distinto de conformidad con el Reglamento para las Adquisiciones y Enajenaciones del Instituto;
 
@@ -763,7 +847,15 @@ X. Llevar el control de los inventarios de los bienes propiedad o bajo resguardo
 
 XI. Coadyuvar con el Consejero Presidente en la realización de las gestiones correspondientes ante la Secretaría de Finanzas del Gobierno del Estado, para la obtención de los recursos que conforme al presupuesto autorizado le corresponden al Instituto; y,
 
-XII. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente o el Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XII. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente, el Secretario Ejecutivo o el Director General.
+
+### Capítulo Primero
+
+De los Consejos Distritales y Municipales Electorales.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 24.
 
@@ -791,7 +883,9 @@ X. Administrar los programas de servicio social y prácticas profesionales que s
 
 XI. Administrar el Centro de Consulta Cívica y Cómputo Infantil; y,
 
-XII. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente o el Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XII. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente, el Secretario Ejecutivo o el Director General.
 
 ###### Artículo 25.
 
@@ -819,7 +913,9 @@ X. Brindar asesoría y soporte técnico en materia de informática a las diversa
 
 XI. Coadyuvar en la capacitación del personal del Instituto en materia de informática, especialmente en materia de aplicaciones, tecnología, paquetería, canto electrónico, programa de resultados electorales preliminares y sistema de votación electrónica;
 
-XII. Coadyuvar en la elaboración de los proyectos de lineamientos y bases para el Programa de Resultados Electorales Preliminares, Canto Electrónico, Votación y/o Urna Electrónica, además de los que le sean solicitados por el Consejo General;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XII. Coadyuvar en la elaboración de los proyectos de lineamientos y bases para el Programa de Resultados Electorales Preliminares, Canto Electrónico, Votación y/o Urna Electrónica, además de los que le sean solicitados por el Consejo General, el Consejero Presidente, el Secretario Ejecutivo o el Director General;
 
 XIII. Coadyuvar en la elaboración de los criterios generales de carácter científico para la realización de encuestas por muestreo; Coadyuvar en la elaboración de la propuesta de diseño de la boleta electrónica para las elecciones donde se contará con voto y/o urna electrónica;
 
@@ -831,7 +927,9 @@ XVI. Elaborar instructivos, guías, manuales y demás documentos relacionados co
 
 XVII. Proponer los mecanismos de selección de personal técnico en informática para los Consejos Distritales y Municipales Electorales; y,
 
-XVIII. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente o el Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XVIII. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente, el Secretario Ejecutivo o el Director General.
 
 ###### Artículo 26.
 
@@ -841,7 +939,9 @@ I. Atender las consultas que le formulen los diversos órganos del Instituto, lo
 
 Il. Coadyuvar en los trabajos de preparación de las sesiones del Consejo General y de los Consejos Distritales y Municipales;
 
-IIl. Coadyuvar con el Consejo General, el Consejero Presidente y el Secretario Ejecutivo en la elaboración de proyectos de dictámenes, acuerdos y, resoluciones;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+III. Coadyuvar con el Consejo General, el Consejero Presidente, el Secretario Ejecutivo y el Director General en la elaboración de proyectos de dictámenes, acuerdos y resoluciones;
 
 IV. Coadyuvar con las Comisiones y Comités de Consejeros Electorales en la elaboración y/o revisión de los proyectos de reglamentos y demás lineamientos jurídicos necesarios para el buen funcionamiento del Instituto;
 
@@ -857,11 +957,15 @@ IX. Coadyuvar en los trabajos de atención y emisión de informes circunstanciad
 
 X. Coadyuvar con el Consejero Presidente, la Comisión de Quejas y denuncias y el Secretario Ejecutivo en la substanciación de los procedimientos administrativos sancionadores, cuya tramitación les corresponda;
 
-XI. Apoyar al Consejero Presidente y al Secretario Ejecutivo en el cumplimiento y ejecución de los acuerdos y resoluciones aprobados por el Consejo General;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XI. Apoyar al Consejero Presidente, al Secretario Ejecutivo y al Director General en el cumplimiento y ejecución de los acuerdos y resoluciones aprobados por el Consejo General;
 
 XII. Representar legalmente al instituto en los casos que determine el Consejero Presidente; y,
 
-XIII. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente o el Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XIII. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente, el Secretario Ejecutivo o el Director General.
 
 ###### Artículo 27.
 
@@ -909,31 +1013,13 @@ XVII. Administrar el Centro de Estadística Electoral del Instituto;
 
 XVIII. Elaborar el proyecto de lineamientos para la integración y remisión de los expedientes electorales; y,
 
-XIX. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente o el Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XIX. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente, el Secretario Ejecutivo o el Director General.
 
 ###### Artículo 28.
 
-1. La Dirección de Prerrogativas de los Partidos Políticos tendrá las atribuciones siguientes:
-
-I. Coadyuvar en la recepción de solicitudes de registro de organizaciones de ciudadanos que pretendan constituirse como partido político o agrupación política estatal, así como en la integración del expediente respectivo;
-
-Il. Coadyuvar en la elaboración del dictamen sobre el monto del financiamiento público y privado que corresponde a los partidos políticos para cada año;
-
-IIl. Coadyuvar en la ministración del financiamiento público de los partidos políticos;
-
-IV. Coadyuvar en la elaboración de los estudios para la determinación de los montos de los topes de gastos de precampañas y campañas electorales de los partidos políticos;
-
-V. Coadyuvar en las actividades necesarias para hacer efectivo el derecho de los partidos políticos al acceso en los tiempos de radio y televisión conforme a la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y lo que disponga el Consejo General;
-
-VI. Elaborar y presentar al Comité de Radio y Televisión, el proyecto de propuesta de pautas para la asignación del tiempo que corresponde a los partidos políticos en dichos medios, conforme a lo establecido en el Código;
-
-VII. Coadyuvar en la realización de los monitoreos de prensa escrita y de las transmisiones de las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias;
-
-VIII. Coadyuvar en el procedimiento de liquidación y reintegro de activos de los partidos políticos que pierdan registro o acreditación ante el Instituto, según corresponda, cuyo origen sea el financiamiento público estatal;
-
-IX. Coadyuvar en el proceso de registro de las solicitudes de candidatos a los diferentes cargos de elección popular y verificación de requisitos y documentos de las mismas; y,
-
-X. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente o el Secretario Ejecutivo.
+(DEROGADO, P.O. 3 DE AGOSTO DE 2010)
 
 ###### Artículo 29.
 
@@ -943,11 +1029,23 @@ I. De Comunicación Social;
 
 II. De Participación Ciudadana;
 
-III. Secretaría Técnica de Comisiones y Comités Técnicos de Consejeros Electorales; y, (sic)
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+III. Secretaría Técnica de Comisiones y Comités Técnicos de Consejeros Electorales;
 
 IV. La Unidad de Transparencia e Información Pública;
 
-V. Las demás que determine el Consejo General a propuesta del Consejero Presidente.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+V. La Unidad Editorial;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+VI. De Prerrogativas a Partidos Políticos; y,
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+VII. Las demás que determine el Consejo General a propuesta del Consejero Presidente.
 
 ###### Artículo 30.
 
@@ -967,7 +1065,9 @@ VI. Autorizar la publicación de los contenidos informativos institucionales;
 
 VII. Coordinar las ruedas de prensa, conferencias, foros y entrevistas necesarias para la difusión de las actividades institucionales;
 
-VIII. Informar al Consejero Presidente y al Secretario Ejecutivo el avance en la ejecución de la estrategia informativa del Instituto;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+VIII. Informar al Consejero Presidente, al Secretario Ejecutivo y al Director General el avance en la ejecución de la estrategia informativa del Instituto;
 
 IX. Identificar y establecer los vínculos necesarios con instituciones, dependencias públicas, organismos privados y empresas que sean susceptibles de proporcionar apoyo a las acciones del Instituto, en materia de comunicación social;
 
@@ -975,19 +1075,31 @@ X. Atender las solicitudes de las diferentes instituciones públicas o privadas 
 
 XI. Recopilar y analizar la información que sobre el Instituto difundan los medios masivos de comunicación, mediante la elaboración de productos como la síntesis de prensa y la de monitoreo de medios electrónicos;
 
-XII. Evaluar la imagen del Instituto a través de los mecanismos que, para tal efecto, acuerde con el Consejero Presidente; y,
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
 
-XIII. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente o el Secretario Ejecutivo.
+XII. Evaluar la imagen del Instituto a través de los mecanismos que, para tal efecto, acuerde con el Consejero Presidente;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XIII. Elaborar el manual de identidad corporativa del Instituto; y,
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XIV. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente, el Secretario Ejecutivo o el Director General.
 
 ###### Artículo 31.
 
 1. La Dirección de Participación Ciudadana tendrá las atribuciones siguientes:
 
-I. Formular y presentar al Secretario Ejecutivo los programas y proyectos relacionados con la promoción de los mecanismos de participación ciudadana previstos en el Código;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+I. Formular y presentar al Secretario Ejecutivo a través del Director General, los programas y proyectos relacionados con la promoción de los mecanismos de participación ciudadana previstos en el Código;
 
 II. Coadyuvar con la Comisión de Participación Ciudadana en la realización del procedimiento de análisis y estudio para determinar la procedencia de las solicitudes de referéndum, plebiscito e iniciativa popular que se presenten ante el Instituto;
 
-IIl. Coadyuvar con el Secretario Ejecutivo y la Dirección Jurídica en la elaboración del calendario de los procesos de referéndum y plebiscito que se declaren procedentes por el Consejo General;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+IIl. Coadyuvar con el Secretario Ejecutivo, el Director General y la Dirección Jurídica en la elaboración del calendario de los procesos de referéndum y plebiscito que se declaren procedentes por el Consejo General;
 
 IV. Coadyuvar con el Secretario Ejecutivo y la Dirección de Organización, Geografía y Estadística Electoral, en el diseño, elaboración y contenido de la documentación y material electoral a utilizarse en la jornada de votación del tema materia de proceso de participación ciudadana a desarrollarse;
 
@@ -995,7 +1107,9 @@ V. Auxiliar a las Instancias calificadoras en la realización de los cómputos m
 
 VI. Elaborar el proyecto de informe que se notifique a la autoridad emisora del acto o decisión materia del mecanismo de participación ciudadana desarrollado, a efecto de que conozca el resultado final de la consulta; y,
 
-VII. Las demás que le confieran el Código y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+VII. Las demás que le confieran el Código, el Consejo General, el Consejero Presidente, el Secretario Ejecutivo, el Director General y otras disposiciones aplicables.
 
 ###### Artículo 32.
 
@@ -1025,9 +1139,13 @@ X. Coadyuvar con las Comisiones y Comités en la elaboración de estudios, inves
 
 XI. Coadyuvar con los Presidentes de las Comisiones y Comités en la elaboración de sus informes anuales;
 
-XII. Dar cuenta al Consejero Presidente y al Secretario Ejecutivo de los acuerdos y determinaciones adoptadas por las Comisiones y Comités; y,
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
 
-XIII. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente, el Secretario Ejecutivo o las Comisiones.
+XII. Dar cuenta al Consejero Presidente, al Secretario Ejecutivo y al Director General de los acuerdos y determinaciones adoptadas por las Comisiones y Comités; y,
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XIII. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente, el Secretario Ejecutivo, el Director General o las Comisiones.
 
 ###### Artículo 33.
 
@@ -1041,7 +1159,9 @@ II. Elaborar las propuestas de lineamientos generales del Consejo General relati
 
 III. Solicitar a los órganos ejecutivos, técnicos y desconcentrados del Instituto, así como a los partidos y agrupaciones políticas, información pública que, conforme a la Ley de Transparencia e Información Pública del Estado de Jalisco y el Código, sea requerida al Instituto;
 
-IV. Hacer del conocimiento del Secretario Ejecutivo los casos en que se solicite información pública de partidos políticos que no esté en poder del Instituto, debiendo estarla;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+IV. Hacer del conocimiento del Secretario Ejecutivo y del Director General, los casos en que se solicite información pública de partidos políticos que no esté en poder del Instituto, debiendo estarla;
 
 V. Coordinar la publicación de la información pública del Instituto, en el portal de internet del mismo, conforme a las disposiciones legales y reglamentarias de la materia;
 
@@ -1059,13 +1179,77 @@ XI. Capacitar al personal del Instituto para dar trámite a las solicitudes de i
 
 XII. Informar al Instituto de Transparencia e Información Pública del Estado de Jalisco, sobre la negativa de entrega de información por parte de algún servidor público o personal de los sujetos obligados, cuando se trate de solicitudes de información hechas al amparo de la Ley de Transparencia e Información Pública del Estado de Jalisco;
 
-XIII. Informar al Secretario Ejecutivo sobre la negativa o retardo en la entrega de la información pública prevista en el Código por parte de algún partido político, agrupación política, servidor público o personal del Instituto, respecto de cualquier solicitud de información pública prevista en el Código;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
 
-XIV. Informar al Secretario Ejecutivo sobre el incumplimiento de las obligaciones que en materia de transparencia les impone el Código a los diversos sujetos obligados;
+XIII. Informar al Secretario Ejecutivo y al Director General, sobre la negativa o retardo en la entrega de la información pública prevista en el Código por parte de algún partido político, agrupación política, servidor público o personal del Instituto, respecto de cualquier solicitud de información pública prevista en el Código;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XIV. Informar al Secretario Ejecutivo y al Director General, sobre el incumplimiento de las obligaciones que en materia de transparencia les impone el Código a los diversos sujetos obligados;
 
 XV. Llevar un registro de las solicitudes de información, así como de sus resultados y costos; y,
 
-XVI. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente o el Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XVI. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente, el Secretario Ejecutivo o el Director General.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2010)</small>
+
+###### Artículo 33 Bis.
+
+1. La Unidad Editorial dispondrá de los elementos humanos, así como de los recursos materiales y técnicos que sean necesarios para el desempeño de sus actividades que determine el Consejo General.
+
+2. El titular de la Unidad Editorial será designado por el Consejo General a propuesta de su Presidente. Para ser titular de la Unidad Editorial, además de los requisitos de los directores, deberá contar con una trayectoria probada en el quehacer editorial y en el ámbito académico de las ciencias sociales.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2010)</small>
+
+Artículo 33 Ter
+
+1. La Unidad Editorial tendrá las atribuciones siguientes:
+
+I. Coadyuvar con la Comisión de Investigación y Estudios Electorales en el ejercicio de sus atribuciones;
+
+II. Coadyuvar en los trámites ante las autoridades correspondientes relativos a las ediciones en que tenga injerencia el Instituto;
+
+III. Elaborar los manuales de identidad y estilo editorial del Instituto;
+
+IV. Supervisar las etapas del proceso editorial, tanto en soporte de papel como electrónico: redacción, corrección de estilo, sintaxis, ortotipográfica, cuidado de las ediciones, diseño e impresión;
+
+V. Elaborar el diseño, ilustración, diagramación y aspectos técnicos de las publicaciones y demás materiales impresos del Instituto, con excepción de la documentación y material electoral;
+
+VI. Aplicar la política editorial del Instituto y los aspectos de forma propios de su unidad que sean aprobados en términos del presente reglamento;
+
+VII. Proponer, ejecutar y operar los aspectos técnicos de la producción impresa;
+
+VIII. Implementar las acciones necesarias con el propósito de garantizar la calidad del material a publicar;
+
+IX. Las demás que le confieran el Consejo Presidente, el Secretario Ejecutivo, el Director General, la Comisión de Investigación y Estudios Electorales del Instituto, el Código y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2010)</small>
+
+Artículo 33 Tetra.
+
+1. La Dirección de Prerrogativas a Partidos Políticos tendrán las atribuciones siguientes:
+
+I. Coadyuvar en la recepción de solicitudes de registro de organizaciones de ciudadanos que pretendan constituirse como partido político o agrupación política estatal, así como en la integración del expediente respectivo;
+
+II. Coadyuvar en la elaboración del dictamen sobre el monto del financiamiento público y privado que corresponde a los partidos políticos para cada año;
+
+III. Coadyuvar en la ministración del financiamiento público de los partidos políticos;
+
+IV. Coadyuvar en la elaboración de los estudios para la determinación de los montos de los topes de gastos de precampañas y campañas electorales de los partidos políticos;
+
+V. Coadyuvar en las actividades necesarias para hacer efectivo el derecho de los partidos políticos al acceso en los tiempos de radio y televisión conforme a la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y lo que disponga el Consejo General;
+
+VI. Elaborar y presentar al Comité de Radio y Televisión, el proyecto de propuesta de pautas para la asignación del tiempo que corresponde a los partidos políticos en dichos medios, conforme a lo establecido en el Código;
+
+VII. Coadyuvar en la realización de los monitoreos de prensa escrita y de las transmisiones de las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias;
+
+VIII. Coadyuvar en el procedimiento de liquidación y reintegro de activos de los partidos políticos que pierdan registro o acreditación ante el Instituto, según corresponda, cuyo origen sea el financiamiento público estatal;
+
+IX. Coadyuvar en el proceso de registro de las solicitudes de candidatos a los diferentes cargos de elección popular y verificación de requisitos y documentos de las mismas; y,
+
+X. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente, el Secretario Ejecutivo o el Director General.
 
 ###### Artículo 34.
 
@@ -1077,9 +1261,13 @@ II. Emitir las reglas simplificadas y procedimientos expeditos para la presentac
 
 Ill. Elaborar el proyecto de reglamento interior de la Unidad de Fiscalización y las propuestas de reforma;
 
-IV. Rendir los informes que le sean requeridos por el Consejo General, el Consejero Presidente y/o Secretario Ejecutivo respecto del avance en las revisiones y auditorías que la misma realice; y,
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
 
-V. Las demás establecidas en el Código, el Reglamento Interior de la Unidad de Fiscalización y las que en uso de sus atribuciones le confiera el Consejo General, Consejero Presidente, el Secretario Ejecutivo o las Comisiones.
+IV. Rendir los informes que le sean requeridos por el Consejo General, el Consejero Presidente, el Secretario Ejecutivo o el Director General respecto del avance en las revisiones y auditorías que la misma realice; y,
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+V. Las demás establecidas en el Código, el Reglamento Interior de la Unidad de Fiscalización y las que en uso de sus atribuciones le confiera el Consejo General, el Consejero Presidente, el Secretario Ejecutivo, el Director General o las Comisiones.
 
 ###### Artículo 35.
 
@@ -1277,9 +1465,41 @@ VI. Formular los estudios e investigaciones que le requiera el Consejo
 
 General;
 
-VII. Rendir los informes que le solicite el Consejo General; y,
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
 
-VIII. Las demás que le confiere este reglamento, el Código y demás normatividad aplicable.
+VII. Rendir los informes que le solicite el Consejo General;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+VIII. Proponer al Consejo General los lineamientos que establezcan las políticas editoriales y criterios para instrumentar la producción editorial del Instituto;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+IX. Dictaminar sobre las propuestas relativas a la producción editorial del Instituto;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+X. Recibir y analizar las opiniones y propuestas del Comité Editorial y de las aéreas del Instituto;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XI. Dictaminar sobre la actualidad, pertinencia, vigencia y calidad de contenidos con sustento en criterios científicos y académicos;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XII. implementar mecanismos que propicien y estimulen la edición, publicación, distribución, promoción y difusión de la producción editorial del Instituto;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XIII. Proponer al Consejo General, los nombres de los integrantes del Comité Editorial, a efecto de que, una vez a probada su designación, el Consejero Presidente realice la invitación correspondiente;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XIV. Invitar a funcionarios del Instituto o personas que determine necesarias a sus sesiones, para que proporcionen información cuando así lo estimen conveniente; y
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+XV. Las demás que le confiere este reglamento, el Consejo General, el Código y demás normatividad aplicable.
 
 ###### Artículo 53.
 
@@ -1329,9 +1549,17 @@ I. Comité Técnico de Asesoría Especializada de la Comisión de Adquisiciones 
 
 II. Clasificación de Información Pública;
 
-IIl. Radio y Televisión; y,
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
 
-IV. Los demás que determine el Consejo General
+IIl. Radio y Televisión;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+IV. Editorial; y,
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+V. Los demás que determine el Consejo General
 
 ###### Artículo 57.
 
@@ -1345,6 +1573,8 @@ IV. Los demás que determine el Consejo General
 
 1. El Comité de Radio y Televisión del Instituto, se integrará en los términos señalados en el Código y tendrá a su cargo las atribuciones y obligaciones que el mismo establece, así como las señaladas en la normatividad aplicable.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE AGOSTO DE 2010)</small>
+
 # LIBRO TERCERO
 
 DISPOSICIONES COMPLEMENTARIAS.
@@ -1353,15 +1583,17 @@ DISPOSICIONES COMPLEMENTARIAS.
 
 Protesta Constitucional.
 
-###### Artículo 63.
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2010)</small>
 
-1. El Secretario Ejecutivo, los Consejeros del Poder Legislativo y los Representantes de los partidos políticos, los Directores Administrativos y de Área, así como el titular de la Unidad de Fiscalización, rendirán la protesta constitucional y legal ante el Consejo General en la sesión en la que se tenga por aprobada su designación.
+###### Artículo 66.
+
+1. El Secretario Ejecutivo, los Consejeros del Poder Legislativo y los Representantes de los partidos políticos, el Director General, los Directores Administrativos y de Área, así como el titular de la Unidad de Fiscalización, rendirán la protesta constitucional y legal ante el Consejo General en la sesión en la que se tenga por aprobada su designación.
 
 2. Los Consejeros Presidentes, Secretarios Consejeros Electorales de los Consejos Distritales y Municipales Electorales y Representantes de Partidos Políticos, rendirán la protesta constitucional ante el Consejero Electoral que presida la sesión de instalación o ante el Consejo General del Consejo Distrital o Municipal cuando ya esté instalado.
 
 3. Los ciudadanos que integren las mesas directivas de casilla y los servidores públicos del Instituto distintos a los señalados en los párrafos anteriores, rendirán la protesta constitucional y legal por escrito en su nombramiento respectivo.
 
-###### Artículo 60.
+###### Artículo 63.
 
 1. Corresponde a los integrantes de los Consejos Distritales, además de las funciones y facultades conferidas en el Código, las siguientes:
 
@@ -1377,7 +1609,7 @@ D. Coordinarse con la Dirección de Organización Electoral, para la elaboració
 
 E. Supervisar la operatividad de los programas informáticos que por acuerdo del Consejo General, se implementen en el Consejo Distrital y en los Consejos Municipales de su competencia;
 
-F. Presentar a la Secretaría Ejecutiva un informe final de actividades; y,
+F. Presentar a la Secretaría Ejecutiva a través del Director General, un informe final de actividades; y,
 
 G. Las demás que le confiera el Código y el Consejo General.
 
@@ -1419,9 +1651,9 @@ H. Remitir oportunamente los informes, actas de sesiones, minutas, certificacion
 
 I. Supervisar que los Consejos Municipales de su distrito, remitan los informes y documentos a que estén obligados o les requieran en el Instituto;
 
-J. Informar inmediatamente al Secretario Ejecutivo de la presentación de medios de impugnación;
+J. Informar inmediatamente al Secretario Ejecutivo, y al Director General, de la presentación de medios de impugnación;
 
-K. Llevar el archivo del Consejo Distrital y un registro de actas, acuerdos aprobadas;
+K. Llevar el archivo del Consejo Distrital y un registro de actas, acuerdos aprobadas (sic);
 
 L. Auxiliar al Presidente del Consejo Distrital en la entrega del archivo, los bienes muebles e inmuebles, informes y cuentas del Consejo Distrital al Instituto; y,
 
@@ -1457,7 +1689,7 @@ I. Coadyuvar en la remisión de los paquetes electorales que correspondan a dife
 
 J. Coadyuvar en las actividades relativas a la sesión de cómputo; y, (sic)
 
-K. Auxiliar en el mecanismo para la recolección de documentación de la elección.
+K. Auxiliar en el mecanismo para la recolección de documentación de la elección;
 
 L. Remitir informe sobre las sesiones que realicen los Consejos Distritales a la Dirección de Organización del Instituto;
 
@@ -1511,19 +1743,37 @@ I. Las demás que le confiera la normatividad aplicable y el Director de Inform�
 
 2. En los casos de convenio de coordinación con el Instituto Federal Electoral, se estará a los términos que en éste se hayan estipulado.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE AGOSTO DE 2010)</small>
+
+###### Artículo 60.
+
+1. La Comisión de Investigación y Estudios Electorales, cantará con un órgano de asesoría denominado Comité Editorial, que se conformará por cinco integrantes de destacada trayectoria en el ramo de las ciencias sociales y en los ámbitos académico, periodístico, editorial y cultural.
+
+2. Los integrantes del Comité Editorial durarán en su encargo un año contado a partir de su designación.
+
+3. Los integrantes del Comité Editorial asistirán a las sesiones de la Comisión de Investigación y Estudios Electorales a las que sean convocados.
+
+4. Los integrantes del Comité Editorial tendrán derecho a la retribución que determine el Consejo General, a propuesta de la Comisión de Investigación y Estudios Electorales.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE AGOSTO DE 2010)</small>
+
 ## TÍTULO SEGUNDO
 
 De la Interpretación.
 
-###### Artículo 64.
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2010)</small>
+
+###### Artículo 67.
 
 1. La interpretación de las disposiciones del presente reglamento se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el párrafo 2 del artículo 4 del Código.
 
-###### Artículo 61.
+###### Artículo 64.
 
 1. Los Consejos Municipales se integrarán conforme lo dispuesto en el Código y, en la medida de las posibilidades presupuestales del Instituto, contarán en su estructura con el personal administrativo necesario para su función.
 
-###### Artículo 62.
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2010)</small>
+
+###### Artículo 65.
 
 1. Corresponde a los integrantes de los Consejos Municipales, además de las funciones y facultades conferidas en la normatividad aplicable:
 
@@ -1533,7 +1783,7 @@ A. Convocar a las sesiones previstas en el Código y las que se requieran;
 
 B. Supervisar la operatividad de los programas informáticos que se implementen por acuerdo del Consejo General o del Consejo Distrital respectivo;
 
-C. Presentar al Secretario Ejecutivo o al Secretario del Consejo Distrital, según corresponda, un informe final de actividades; y,
+C. Presentar al Secretario Ejecutivo, a través del Director General, o al Secretario del Consejo Distrital, según corresponda, un informe final de actividades; y,
 
 D. Las demás que le confiera el Código, el Consejo General y el Consejo Distrital
 
@@ -1557,7 +1807,7 @@ H. Las demás que les confiera el Código, así como aquellas que les encomiende
 
 IIl. Al Secretario del Consejo Municipal:
 
-A. Elaborar las actas de las sesiones, y autorizarlas con su firma junto con la del Consejero Presidente;
+A. Elaborar las actas de las sesiones, , (sic) y autorizarlas con su firma junto con la del Consejero Presidente;
 
 B. Emitir las comunicaciones necesarias para el correcto funcionamiento del Consejo Municipal;
 
@@ -1575,7 +1825,7 @@ H. Legalizar los documentos del Consejo Municipal, certificar copias con su firm
 
 I. Remitir oportunamente los informes, actas de sesiones, minutas, certificaciones y demás documentos al Secretario Ejecutivo del Instituto y cuando corresponda al Secretario del Consejo Distrital;
 
-J. Informar inmediatamente al Secretario Ejecutivo de la presentación de medios de impugnación;
+J. Informar inmediatamente al Secretario Ejecutivo, y al Director General, de la presentación de medios de impugnación;
 
 K. Llevar el archivo del Consejo Municipal y un registro de actas, acuerdos y resoluciones aprobadas;
 
@@ -1585,7 +1835,57 @@ M. Las demás que le confiera la normatividad aplicable, el Consejo General, el 
 
 2. Para los efectos del cómputo en los Consejos Municipales en que se localice más de un distrito, los paquetes electorales serán archivados por distrito en el orden que corresponda a las secciones electorales.
 
+###### Artículo 61.
+
+1. Son atribuciones del Comité Editorial, las siguientes:
+
+I. Asistir a las sesiones de la Comisión de Investigación y Estudios Electorales a que sean convocados;
+
+II. Formular propuestas y opiniones a la Comisión de Investigación y Estudios Electorales en materia de publicaciones y ediciones del Instituto;
+
+III. Formular opiniones a la Comisión de Investigación y Estudios Electorales respecto de los asuntos que integren la orden del día de las sesiones en las que se ha convocado;
+
+IV. Recibir la información y documentación necesaria para el adecuado ejercicio de sus funciones;
+
+V. Brindar asesoría técnica a la Comisión de Investigación y Estudios Electorales, en los asuntos que ésta le encomiende;
+
+VI. Proponer a la Comisión de Investigación y Estudios Electorales, la política editorial del Instituto;
+
+VII. Evaluar el desarrollo de los campos temáticos de producción editorial del Instituto;
+
+VIII. Presentar a la Comisión de Investigación y Estudios Electorales, propuestas de producción editorial;
+
+IX. Evaluar la producción editorial del Instituto;
+
+X. Promover la publicación de obras de calidad y relacionadas con la actividad del Instituto, así como de los materiales que resulten de interés general para la divulgación de la cultura democrática y la educación cívica y la participación ciudadana; y,
+
+XI. Las demás que deriven del presente Reglamento o le confiera la Comisión de Investigación y Estudios Electorales.
+
+###### Artículo 62.
+
+1. Los Consejos Distritales se integrarán conforme lo dispuesto en el Código y, en la medida de las posibilidades presupuestales, contarán en su estructura con:
+
+I. Un Coordinador de Capacitación;
+
+II. Un Coordinador de Informática;
+
+III. Un Coordinador de Organización; y,
+
+IV. El personal administrativo que requieran para el desempeño de sus funciones.
+
+2. El personal referido en las fracciones I, II y III del presente artículo, será comisionado por el Director Administrativo del Instituto que corresponda y dependerá jerárquicamente de él.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE AGOSTO DE 2010)</small>
+
 ## TRANSITORIOS
+
+PRIMERO. Se abrogan todas las disposiciones reglamentarias contrarias al presente Reglamento.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE AGOSTO DE 2010.
 
 PRIMERO. Se abrogan todas las disposiciones reglamentarias contrarias al presente Reglamento.
 
