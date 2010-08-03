@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-municipio-de-san-martin-de-hidalgo-72149"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2009-12-15"
-last_updated: "2009-12-15"
+last_updated: "2010-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,3200 +21,1462 @@ state: "JAL"
 ---
 # LEY DE INGRESOS DEL MUNICIPIO DE SAN MARTIN DE HIDALGO, JALISCO, PARA EL EJERCICIO FISCAL DEL AÑO 2010
 
-LEY DE INGRESOS DEL MUNICIPIO DE SAN MARTIN DE HIDALGO, JALISCO, PARA EL EJERCICIO FISCAL DEL AÑO 2010
+LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
-Ley publicada en la Sección XXIV del Periódico Oficial del Estado de Jalisco, el martes 15 de diciembre de 2009.
+Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
-Emilio González Márquez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente
+EL C. HUMBERTO MOREIRA VALDÉS, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
 
-DECRETO
+QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
 
-NÚMERO 22924/LVIII/09. EL CONGRESO DEL ESTADO DECRETA:
+DECRETA:
 
-ÚNICO. Se aprueba la Ley de Ingresos del Municipio de San Martín de Hidalgo, Jalisco, para el ejercicio fiscal 2010, para quedar como sigue:
+NÚMERO 313.-
 
-LEY DE INGRESOS DEL MUNICIPIO DE SAN MARTÍN DE HIDALGO, JALISCO, PARA EL EJERCICIO FISCAL DEL AÑO 2010.
+LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-## TÍTULO PRIMERO. Disposiciones generales
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO ÚNICO. De la percepción de los ingresos y definiciones
+###### ARTÍCULO 1.
 
-###### Artículo 1.
+Esta ley es de orden público, interés social y de observancia obligatoria en el régimen interior del Estado de Coahuila de Zaragoza.
 
-Durante el ejercicio fiscal comprendido del 1° de enero al 31 de diciembre del 2010, la Hacienda Pública de este Municipio, percibirá los ingresos por concepto de impuestos, derechos, productos, contribuciones especiales, aprovechamientos, participaciones y aportaciones federales conforme a las tasas, cuotas, y tarifas que en esta ley se establecen.
+###### ARTÍCULO 2.
 
-###### Artículo 2.
+Esta ley tiene por objeto:
 
-Los impuestos por concepto de actividades comerciales, industriales y de prestación de servicios, diversiones públicas y sobre posesión y explotación de carros fúnebres, que son objeto del Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, subscrito por la Federación y el Estado de Jalisco, quedarán en suspenso, en tanto subsista la vigencia de dicho convenio.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2017)</small>
 
-Quedarán igualmente en suspenso, en tanto subsista la vigencia de la Declaratoria de Coordinación y el decreto 15432 que emite el Poder Legislativo del Congreso del Estado, los derechos citados en el artículo 132 de la Ley de Hacienda Municipal en sus fracciones I, II, III y IX. De igual forma aquellos que como aportaciones, donativos u otro cualquiera que sea su denominación condicionen el ejercicio de actividades comerciales, industriales y prestación de servicios; con las excepciones y salvedades que se precisan en el artículo 10-A de la Ley de Coordinación Fiscal.
+I. Promover y garantizar la igualdad sustantiva transversalizando la perspectiva de género en todas sus actuaciones y procurando la utilización de un lenguaje no sexista dentro en sus documentos oficiales, el derecho a la igualdad real de oportunidades y trato de las personas, a participar y beneficiarse de manera incluyente en las actividades educativas, de salud, productivas, económicas, laborales, políticas, culturales, recreativas, y en general en todas aquellas que permiten el desarrollo pleno e integral de las personas, y
 
-El Ayuntamiento, continuará con sus facultades para requerir, expedir, vigilar; y en su caso, cancelar las licencias, registros, permisos o autorizaciones, previo el procedimiento respectivo; así como otorgar concesiones y realizar actos de inspección y vigilancia; por lo que en ningún caso lo dispuesto en los párrafos anteriores, limitará el ejercicio de dichas facultades.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
 
-###### Artículo 3.
+II. Prevenir toda forma de discriminación en contra de cualquier persona, motivada por razones de origen étnico o nacional, género, edad, discapacidad, condición social, económica o de salud, estado de gravidez, lengua, religión, expresión de las ideas u opiniones, preferencias sexuales, estado civil, filiación e identidad política, apariencia física, empleo, profesión u oficio, o cualquier otra que atente contra la dignidad humana y que represente obstáculo para su desarrollo pleno e integral, en los términos de lo establecido en los artículos séptimo y octavo de la Constitución Política del Estado de Coahuila de Zaragoza.
 
-El funcionario encargado de la Hacienda Municipal, cualquiera que sea su denominación en los reglamentos municipales respectivos es la autoridad competente para fijar, entre los mínimos y máximos, las cuotas que, conforme a la presente ley, se deben cubrir al erario municipal, debiendo efectuar los contribuyentes sus pagos en efectivo, mediante la expedición del recibo oficial correspondiente.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
 
-Los funcionarios que determine el ayuntamiento en los términos del artículo 10 Bis. de la Ley de Hacienda Municipal del Estado de Jalisco, deben caucionar el manejo de fondos, en cualquiera de las formas previstas por el Artículo 47 de la misma Ley de Hacienda Municipal del Estado de Jalisco. La caución a cubrir a favor del Municipio será el importe resultante de multiplicar el promedio mensual del presupuesto de egresos aprobado por el Ayuntamiento para el ejercicio fiscal en que estará vigente la presente Ley por el 0.15% y a lo que resulte se adicionará la cantidad de $85,000.00.
+III.- Definir los tipos de discriminación que viven los diversos grupos afectados por este hecho, en función de sus propias características o forma de vida, por su origen étnico o nacional, el sexo, la edad, la discapacidad, la condición de salud, el embarazo, la lengua, la religión, las opiniones, las preferencias sexuales, el estado civil, su empleo, profesión u oficio, y otras diferencias que pueden ser motivos de distinción y exclusión o restricción de derechos. Conforme a su participación social o ámbito de acción, priorizando el carácter educativo y formativo de esta la ley para la población de la entidad, particularmente de las nuevas generaciones.
 
-###### Artículo 4.
+###### ARTÍCULO 3.
 
-Para los efectos de esta ley, las responsabilidades pecuniarias que cuantifique la Auditoría Superior del Estado de Jalisco, en contra de los servidores públicos municipales, se equipararán a créditos fiscales, previa la aprobación del Congreso del Estado; en consecuencia, la Hacienda Municipal tendrá la obligación de hacerlos efectivos.
+Para los efectos de esta ley se entiende por:
 
-###### Artículo 5.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-Queda estrictamente prohibido modificar las cuotas, tasas y tarifas, que en esta Ley se establecen, ya sea para aumentarlas o disminuirlas, a excepción de lo que establece el artículo 37, fracción I, de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco. Quien incumpla esta obligación, incurrirá en responsabilidad y se hará acreedor a las sanciones que precisa la ley de la materia.
+I. Personas adultas mayores: Toda persona que cuente con sesenta años o más de edad y que, por cualquier motivo, se encuentre domiciliada o en tránsito en el territorio del Estado, sea cual fuere su condición física o mental.
 
-###### Artículo 6.
+II. Congreso: El Congreso del Estado de Coahuila de Zaragoza;
 
-La realización de eventos, espectáculos y diversiones públicas, ya sea de manera eventual o permanente, deberá sujetarse a las siguientes disposiciones, sin perjuicio de las demás consignadas en los reglamentos respectivos:
+III. Comisión: La Comisión Intersecretarial para Promover la Igualdad y Prevenir la
 
-I. En todos los eventos, diversiones y espectáculos públicos en que se cobre el ingreso, se deberá contar con boletaje previamente autorizado por la Hacienda Municipal, el cual en ningún caso, será mayor a la capacidad de localidades del lugar en donde se realice el evento.
+Discriminación en el Estado de Coahuila de Zaragoza;
 
-II. Para los efectos de la determinación de la capacidad de cupo del lugar donde se presenten los eventos o espectáculos, se tomará en cuenta la opinión del área correspondiente a obras públicas municipales.
+IV. Dirección: La Dirección para Promover la Igualdad y Prevenir la Discriminación en el Estado de Coahuila de Zaragoza;
 
-III. Los organizadores deberán garantizar la seguridad de los asistentes, entre otras acciones, mediante la contratación de cuerpos de seguridad privada o, en su defecto, a través de los servicios públicos municipales respectivos, en cuyo caso pagarán el sueldo y los accesorios que deriven de la contratación de los policías municipales.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-IV. Los eventos, espectáculos públicos o diversiones, que se lleven a cabo con fines de beneficencia pública o social, deberán recabar previamente el permiso respectivo de la autoridad municipal.
+V. Discapacidad: Es el resultado de la interacción entre las personas con diversidad funcional y las barreras debidas a la actitud y al entorno que evitan su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás;
 
-V. Las personas físicas o jurídicas, que realicen espectáculos públicos en forma eventual, tendrán las siguientes obligaciones:
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
 
-a) Dar aviso de iniciación de actividades a la dependencia en materia de Padrón y Licencias, a más tardar el día anterior a aquél en que inicien la realización del espectáculo, señalando la fecha en que habrán de concluir sus actividades.
+VI. Discriminación: Toda ley, acto, hecho o conducta que provoque distinción, exclusión, restricción, o rechazo, motivada por razones de origen étnico o nacional, género, edad, discapacidad, condición social o económica o de salud, estado de gravidez, lengua, religión, opiniones, preferencia sexual, estado civil, filiación o identidad política, apariencia física, identidad o expresión de género, empleo, profesión u oficio, o cualquier otra que atente contra la dignidad humana y tenga por efecto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades de las personas;
 
-b) Dar el aviso correspondiente en los casos de ampliación del período de explotación, a la dependencia en materia de Padrón y Licencias, a más tardar el último día que comprenda el aviso cuya vigencia se vaya a ampliar.
+VII. Estado: El Estado Libre y Soberano de Coahuila de Zaragoza;
 
-c) Previamente a la iniciación de actividades, otorgar garantía a satisfacción de la Hacienda Municipal, en alguna de las formas previstas en la Ley de Hacienda Municipal, que no será inferior a los ingresos estimados para un día de actividades, ni superior al que pudiera corresponder estimativamente a tres días. Cuando no se cumpla con esta obligación, la Hacienda Municipal Podrá suspender el espectáculo, hasta en tanto no se garantice el pago, para lo cual, el interventor designado solicitará el auxilio de la fuerza pública. En caso de no realizarse el evento, espectáculo o diversión sin causa justificada, se cobrará la sanción correspondiente.
+VIII. Entidades Públicas: Los órganos y dependencias de los Poderes y municipios, y organismos públicos autónomos;
 
-VI. Previo a su funcionamiento, todos los establecimientos construidos exprofeso o destinados para presentar espectáculos públicos en forma permanente o eventual, deberán obtener su certificado de operatividad expedido por la unidad municipal de protección civil, misma que acompañará a su solicitud copia fotostática para su cotejo, así como su bitácora de mantenimiento, debidamente firmada por personal calificado. Este requisito además, deberá ser cubierto por las personas físicas o jurídicas que tengan juegos mecánicos, electromecánicos, hidráulicos o de cualquier naturaleza, cuya actividad implique un riesgo a la integridad de las personas.
+IX. Gobierno del Estado: Conjunto de dependencias e instituciones que conforman la Administración Pública del Estado de Coahuila;
 
-###### Artículo 7.
+X. Igualdad: el derecho fundamental de las personas que se encuentren en el territorio del Estado de Coahuila a no ser discriminadas de ninguna manera; a ejercer sus derechos con las mismas oportunidades; a ser tratadas con dignidad; a acceder sin distinción, restricción, exclusión o rechazo alguno a los beneficios de los servicios públicos, de trabajo, salud, educación, transporte, comunicaciones, seguridad social y jurídica, así como al ejercicio de las garantías individuales para hacer efectivo su derecho a la no discriminación, o en contra de cualquier otra circunstancia que impida o limite a las personas a alcanzar su pleno desarrollo;
 
-Los depósitos en garantía de obligaciones fiscales, que no sean reclamados dentro del plazo que señala la Ley de Hacienda Municipal para la prescripción de créditos fiscales quedarán a favor del Ayuntamiento.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-###### Artículo 8.
+XI. Las y los jóvenes: considerando como tales a todos aquellos que sin distinción de ningún tipo, con edad entre los doce y veintinueve años habiten en nuestra entidad.
 
-Las licencias para giros nuevos, que funcionen con venta o consumo de bebidas alcohólicas, así como permisos para anuncios permanentes, cuando éstos sean autorizados y previa a la obtención de los mismos, el contribuyente cubrirá los derechos correspondientes conforme a las siguientes bases:
+XII. Ley: La Ley para Promover la Igualdad y Prevenir la Discriminación en el Estado de Coahuila de Zaragoza;
 
-I. Cuando se otorguen dentro del primer cuatrimestre del ejercicio fiscal se pagará por la misma el 100%.
+XIII. Municipios: Los Municipios del Estado de Coahuila de Zaragoza;
 
-II. Cuando se otorguen dentro del segundo cuatrimestre del ejercicio fiscal, se pagará por la misma el 70%.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-III. Cuando se otorguen dentro del tercer cuatrimestre del ejercicio fiscal, se pagará por la misma el 35%.
+XIV. Niña o niño: Personas menores de 12 años de edad.
 
-Para los efectos de esta ley, se deberá entender por:
+XV. Persona con discapacidad: Todo ser humano que padece temporal o permanentemente una disminución en sus facultades físicas, psíquicas o sensoriales que le impide realizar una actividad normal;
 
-a) Licencia: La autorización municipal para la instalación y funcionamiento de industrias, establecimientos comerciales, anuncios y la prestación de servicios, sean o no profesionales;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-b) Permiso: La autorización municipal para la realización de actividades determinadas, señaladas previamente por el Ayuntamiento;
+XVI. Pueblos indígenas y comunidades afromexicanas: Aquellos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza y demás leyes aplicables.
 
-c) Registro: La acción derivada de una inscripción o certificación que realiza la autoridad municipal; y
+XVII. Poderes Públicos: Los Poderes Legislativo, Ejecutivo y Judicial del Estado;
 
-d) Giro: Es todo tipo de actividad o grupo de actividades concretas ya sean económicas, comerciales, industriales o de prestación de servicios, según la clasificación de los padrones del Ayuntamiento.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-###### Artículo 9.
+XVIII. Sectores Vulnerables: Los integrados por: niñas y niños, personas adultas mayores, personas indígenas o afromexicanas, mujeres, personas con discapacidad, en pobreza extrema, sin empleo, presidiarios y ex presidiarios, y en general cualquier sector de la población que directa o indirectamente se enfrente a tratos o acciones discriminatorias;
 
-En los actos que originen modificaciones al padrón municipal de giros, se actuará conforme a las siguientes bases:
+XIX. Servidores públicos: Los descritos como tales en la Constitución Política del Estado de Coahuila, en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila y demás disposiciones aplicables;
 
-I. Los cambios de domicilio, actividad o denominación del giro, causarán derechos del 50%, por cada uno, de la cuota de la licencia municipal;
+XX. Titular del Ejecutivo: El Gobernador Constitucional del Estado de Coahuila.
 
-II. En las bajas de giros y anuncios, se deberá entregar la licencia vigente y, cuando no se hubiese pagado ésta, procederá un cobro proporcional al tiempo utilizado, en los términos de esta ley;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-III. Las ampliaciones de giro causarán derechos equivalentes al valor de licencias similares;
+XXI. Trato diferenciado: La forma de considerar a las personas con discapacidad o movilidad limitada, personas adultas mayores, mujeres en periodo de gestación y en general toda persona que se encuentren (sic) en un estado de vulnerabilidad temporal o permanente, mediante una atención preferente y adecuada.
 
-IV. En los casos de traspaso, será indispensable para su autorización, la comparecencia del cedente y del cesionario, quienes deberán cubrir derechos por el 100% del valor de la licencia del giro, asimismo, deberá cubrir los derechos correspondientes al traspaso de anuncios, lo que se hará simultáneamente.
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2016)</small>
 
-El pago de los derechos a que se refieren las fracciones anteriores deberán enterarse a la Hacienda Municipal, en un plazo irrevocable de tres días, transcurrido este plazo y no hecho el pago, quedarán sin efecto los trámites realizados;
+ARTÍCULO 3 BIS. Se consideran tipos de discriminación las siguientes:
 
-V. Tratándose de giros comerciales, industriales o de prestación de servicios que sean objeto del convenio de coordinación fiscal en materia de derechos, no causarán los pagos a que se refieren las fracciones I, II, III y IV, de este artículo, siendo necesario únicamente el pago de los productos correspondientes y la autorización municipal; y
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
-VI. Cuando la modificación al padrón se realice por disposición de la autoridad municipal, no se causará este derecho.
+a.- Discriminación racial o étnica: tiene lugar cuando una persona, o grupo humano, es tratada como inferior o no se le reconocen sus derechos por razón a su pertenencia de origen a una determinada raza o etnia, o por las costumbres y tradiciones que guarde.
 
-### CAPÍTULO PRIMERO. Del impuesto predial
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
-###### Artículo 10.
+b.- Discriminación por localidad de origen: se da cuando existe un trato a alguien de manera menos favorable porque él o ella provienen de un lugar en particular, por su grupo étnico o acento o porque se cree que tienen antecedentes étnicos particulares. La discriminación por origen nacional también significa tratar a alguien de manera menos favorable en el trabajo debido a su matrimonio u otra relación con alguien de una nacionalidad en particular. Es el tipo de discriminación que sufren aquellos que no son originarios del país o lugar en el que residen, por aquellos que nacieron en el país o tienen mayor antigüedad en él o en un lugar específico.
 
-Los establecimientos, puestos y locales, así como el horario de comercio, que operen en el Municipio, se regirán en cada caso por las disposiciones contenidas en el reglamento correspondiente; así como tratándose de los giros previstos en la Ley para Regular la Venta y Consumo de Bebidas Alcohólicas en el Estado de Jalisco, se atenderá a ésta y al reglamento respectivo.
+c.- Discriminación religiosa: se da cuando una persona, o grupo de personas, recibe un trato desfavorable por no practicar la creencia religiosa mayoritaria de la sociedad en la que vive o por no profesar creencia alguna.
 
-###### Artículo 11.
+d.- Discriminación política: tiene lugar cuando algunas personas no pueden expresar libremente sus convicciones políticas porque viven bajo el yugo de gobiernos totalitarios o dictatoriales.
 
-Para los efectos de esta ley, se considera:
+e.- Discriminación por Género: es aquella en la que a una persona se le niega un servicio, una oportunidad, o el acceso a un determinado lugar, el acceso a la justicia, a la atención médica, de forma injustificada aludiendo solamente a su género, puede ser a un hombre o a una mujer.
 
-I. Establecimiento: Toda unidad económica instalada en un domicilio permanente para desarrollar total o parcialmente actividades comerciales, industriales o prestación de servicios;
+f.- Discriminación por Orientación, Tendencia, Inclinación o Preferencia sexual: se expresa como el rechazo a un patrón de atracción sexual, erótica, emocional o amorosa de un determinado grupo de personas definidas por su sexo que se alejan del canon predominante. El rechazo se puede dar entre y hacia las propias orientaciones sexuales tales como la heterosexualidad (atracción hacia personas del sexo opuesto), la homosexualidad (atracción hacia personas del mismo sexo) y la bisexualidad (atracción hacia personas de ambos sexos), sin descartar otros tipos de orientación sexual que se desprendan de la diversidad de prácticas emocionales-amorosas-sexuales derivadas de las identidades Lésbico-Gay Homosexual-Bisexual Transgénero. Dichas personas son víctimas de linchamiento moral y hasta físico por no compartir una práctica sexual convencional, o por ser parte de algún orden o movimiento preestablecido en defensa de sus derechos.
 
-II. Local o accesoria: Cada uno de los espacios abiertos o cerrados, en que se divide el interior y exterior de los mercados conforme haya sido su estructura original para el desarrollo de actividades comerciales, industriales o prestación de servicios; y
+g.- Discriminación de nivel cultural y económico: Se produce cuando algunas personas consideran a otras inferiores por no haber tenido acceso a la misma formación cultural o por no disfrutar de una buena situación o posición económica.
 
-III. Puesto: Toda instalación fija o semifija permanente o eventual en que se desarrollen actividades comerciales, industriales o prestación de servicios y que no queden comprendidos en las definiciones anteriores.
+h.- Discriminación por Compensación o Igualdad Salarial: se presenta cuando no se recibe igual pago por igual trabajo en el mismo establecimiento, por el hecho de ser hombre-mujer o mujer-hombre. No es necesario que los trabajos sean idénticos, sino que deben ser substancialmente iguales. Es el contenido del trabajo y no los títulos de trabajo lo que determina si los trabajos son substancialmente iguales. Dicha discriminación se da cuando los empleadores no pagan salarios iguales a hombres y mujeres que realizan trabajos que requieren igual habilidad, esfuerzo y responsabilidad y que se realizan bajo condiciones de trabajo similares dentro del mismo establecimiento.
 
-###### Artículo 12.
+i.- Discriminación estética, vestimenta o aspecto físico: se produce cuando una persona es tratada de forma inferior porque su imagen personal o vestimenta no encaja con el ideal de belleza establecido en la sociedad en la que vive. Es aquella en la que a la persona se le rechaza no solo por su color de piel si no por su complexión, estatura, salud, etcétera. Esta forma de discriminación se encuentra frecuentemente presente en las siguientes situaciones: Ofertas de trabajo que exigen una buena "presencia física"; Negación de la entrada a lugares de ocio, amparándose en el derecho de admisión.
 
-Las personas físicas y jurídicas, que durante el año de ejercicio fiscal correspondiente a esta ley, inicien o amplíen actividades industriales, comerciales o de prestación de servicios, conforme a la legislación y normatividad aplicables, generen nuevas fuentes de empleo directas y realicen inversiones en activos fijos en inmuebles destinados a la construcción de las unidades industriales o establecimientos comerciales con fines productivos según el proyecto de construcción aprobado por el área de obras públicas municipales del Ayuntamiento, solicitarán a la autoridad municipal, la aprobación de incentivos, la cual se recibirá, estudiará y valorará, notificando al inversionista la resolución correspondiente, en caso de prosperar dicha solicitud, se aplicarán para este ejercicio fiscal a partir de la fecha que la autoridad municipal notifique al inversionista la aprobación de su solicitud, los siguientes incentivos fiscales.
+j.- Discriminación por Condiciones de salud: se produce cuando algunas personas son tratadas con cierto recelo o desprecio por el hecho de estar enfermas. La discriminación basada en condiciones de salud, afecta, sobre todo, a personas infectadas por enfermedades sexualmente transmitidas (VIH, SIDA, especialmente) y a personas con algún tipo de discapacidad.
 
-I. Beneficios temporales de impuestos:
+k.- Discriminación por VIH-Sida: el sida es una enfermedad socialmente estigmatizada ya que, según diversos reportes estadísticos-médicos, la principal vía de contagio, a pesar de las campañas de prevención que se han realizado a escala mundial durante los últimos años, sigue siendo la actividad sexual no protegida. Este estigma ocasiona que en la sociedad se discrimine a grupos tales como homosexuales, sexoservidores/as, mujeres, transexuales, bisexuales, entre otros.
 
-a) Impuesto predial.
+l.- Discriminación por discapacidad: se manifiesta cuando una persona es menospreciada o infravalorada por sufrir algún tipo de discapacidad, bien sea física o mental.
 
-b) Impuesto sobre transmisiones patrimoniales.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-c) Negocios jurídicos.
+m.- Discriminación por Sobre peso y Obesidad: se presenta cuando el sujeto ya sea niña-niño, población joven, persona adulta o persona adulta mayor, hombre o mujer atraviesa una condición de sobre peso u obesidad, y dicha condición, lo expone a burlas, a trato desigual, al desempleo, a la exclusión de alguna actividad deportiva o recreativa, o algún tipo de agresión o de aislamiento social; víctima de igual manera de cualquier otra práctica discriminatoria bajo los entendidos de que no está en condiciones de salud apropiada para realizar algún tipo de tarea.
 
-II. Beneficios temporales de derechos:
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
 
-a) Derechos por aprovechamiento de la infraestructura básica.
+n.- Discriminación por Embarazo o Maternidad: se presenta cuando por condición de embarazo o por encontrarse en etapa de maternidad, en el caso específico de la mujer, se le niega la contratación dentro de un centro laboral, se le priva o restringe el uso de espacios públicos o es expuesta a burlas y comentarios despectivos debido a los prejuicios de compañeros, clientes de trabajo, de autoridades educativas, funcionarios públicos y de la sociedad en general. Es el tipo de discriminación que se ejerce en contra de las mujeres embarazadas o en etapa de maternidad que interactúan en el trabajo, en la escuela, en instancias públicas y privadas o en todo ámbito social.
 
-b) Derechos de licencia de construcción.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-Los incentivos señalados en razón del número de empleos generados se aplicarán según la siguiente tabla:
+ñ.- Discriminación hacia las Personas Adultas Mayores: la discriminación que se ejerce hacia esta población está relacionada principalmente con la percepción de que son socialmente improductivos, así como con la escasa valoración que se hace de su experiencia y capacidades, negándoles la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos.
 
-PORCENTAJES DE REDUCCIÓN
+o.- Discriminación hacia la Mujer: se expresa particularmente en todas aquellas prácticas violentas o de trato desigual prevalentes en todas las culturas. Se ejerce en el ámbito doméstico y laboral, provocada por patrones de una cultura patriarcas (sic) que se manifiesta en todo tipo de opresión: desde ser violentadas sexualmente, hasta la conculcación de sus derechos, tales como: transgresión de los deseos, motivaciones y libertad; omisión, ofensa, discriminación, descalificación, uso no permitido de su cuerpo e intromisión en su sexualidad.
 
-Condicionantes IMPUESTOS DERECHOS
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-del Incentivo
+p.- Discriminación hacia las y los jóvenes, y adolescentes: Dicha discriminación se da cuando se les asocia con una serie de prejuicios que hacen más compleja su integración. Se les ha estigmatizado como irresponsables, sin ambiciones ni compromiso con su país o entorno y, más grave aún, se les criminaliza. No se les reconoce las formas de organización o asociación como las denominadas tribus urbanas, entre otro tipo de afiliaciones, y sobre todo no se les genera las condiciones laborales, educativas o de fomento cultural apropiadas para su propio crecimiento y formación.
 
-Creación Predial- Transmisiones Negocios Aprovecha- Licencias
+q.- Discriminación hacia las Niñas y niños: se da cuando existen violaciones a los derechos de las niñas y los niños, o cuando se presentan prácticas de maltrato o castigo en alguna de sus tipologías o representaciones que atentan con el desarrollo biológico, psicológico, emocional, social y espiritual del niño-niña. Dichas prácticas pueden presentarse dentro del propio hogar, los espacios educativos, o diferentes contextos de interacción social.
 
-de Nuevos Impuestos Patrimoniales- Jurídicos- miento de la de
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-Empleos Impuestos Impuestos Infraestruc- Construc-
+r.- Discriminación hacia las personas migrantes y refugiados: se presenta cuando existe una violación de sus derechos, la explotación económica, la inseguridad social, el menosprecio y el racismo, así como el riesgo de muerte, son los principales elementos que definen la situación de vida de quienes han optado por la migración como una estrategia de vida y de superación.
 
-tura-Dere- ción-
+s.- Discriminación por Analfabetismo o Nivel Académico: Es la discriminación que se realiza en contra de las personas que no saben leer o que poseen un nivel académico menor (primario, secundario o trunco), se da en especial a la hora de solicitar trabajos, e incluso en los que no se precisa del conocimiento básico escolarizado, así como también se da cuando las personas analfabetas o con los estudios truncos, pretenden iniciar estudios de nuevo, siendo humillados y maltratados por alumnos o docentes.
 
-chos Derechos
+t.- Discriminación por Lengua: ocurre cuando una persona es tratada diferente a causa de su lengua original o nativa u otras características de su manera de hablar. No debe de ser motivo para acceder a un empleo o a una beca educativa.
 
-100 en 50% 50% 50% 50% 25%
+u.- Discriminación Múltiple: Este tipo de discriminación sucede cuando un individuo pertenece a más de una minoría o grupo con tendencia a ser discriminado. Dicha discriminación puede ser transversal a todos los tipos de discriminación antes señaladas.
 
-adelante
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
 
-75 a 99 37.50% 37.50% 37.50% 37.50% 18.75%
+v.- Discriminación por identidad o expresión de género: Se produce cuando existen actos tendientes a menoscabar, anular, o limitar los derechos o la dignidad de una persona por su identidad y/o imagen personal, cuando ésta no coincide con su sexo biológico.
 
-50 a 74 25% 25% 25% 25% 12.50%
+> <small>[N. DE E. PERTENECE AL INCISO V, P.O. 31 DE ENERO DE 2020]</small>
 
-15 a 49 15% 15% 15% 15% 10%
+Esta puede ser realizada hacia cualquier género en un orden moral o físico por no mostrar la identidad de género esperada socialmente.
 
-2 a 14 10% 10% 10% 10% 10%
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2021)</small>
 
-Quedan comprendidos dentro de estos incentivos fiscales, las personas físicas o jurídicas, que habiendo cumplido con los requisitos de creación de nuevas fuentes de empleo, constituyan un derecho real de superficie o adquieran en arrendamiento el inmueble, cuando menos por el término de diez años.
+w.- Discriminación por razón de empleo, profesión u oficio: se presenta por condición del trabajo que desempeñan o el centro de trabajo en que laboran; se les priva, restringe o niega la entrada, el acceso y/o uso de espacios o servicios públicos o privados, debido al estigma o prejuicios de particulares, servidores públicos o de la sociedad en general, o bien, cuando reciben cualquier tipo de agresión o de aislamiento social o es víctima de cualquier otra práctica discriminatoria motivada por causa de su empleo, profesión u oficio.
 
-### CAPÍTULO SEGUNDO. Del impuesto sobre transmisiones Patrimoniales
+###### ARTÍCULO 4.
 
-###### Artículo 13.
+Para los efectos de esta ley, no se consideran discriminatorias:
 
-Para la aplicación de los incentivos señalados en el artículo que antecede, no se considerará que existe el inicio o ampliación de actividades o una nueva inversión de personas físicas o jurídicas, si ésta estuviere ya constituida antes del año 2010, por el solo hecho de que cambie su nombre, denominación o razón social, y en el caso de los establecimientos que con anterioridad a la entrada en vigor de esta ley, ya se encontraban operando y sean adquiridos por un tercero que solicite en su beneficio la aplicación de esta disposición, o en tratándose de las personas jurídicas que resulten de la fusión o escisión de otras personas jurídicas ya constituidas.
+I. Las acciones legislativas, educativas o de políticas públicas positivas o compensatorias que, sin afectar derechos de terceros, establezcan tratos diferenciados con el objeto de promover la igualdad real de oportunidades. Dichas acciones tendrán un carácter temporal y no podrán mantenerse después de alcanzados los objetivos para los cuales fueron diseñadas;
 
-### CAPÍTULO TERCERO. De los impuestos extraordinarios
+II. Las distinciones basadas en capacidades o conocimientos especializados para desempeñar una actividad determinada;
 
-###### Artículo 14.
+III. La distinción establecida por las instituciones públicas de seguridad social, entre sus asegurados y la población en general;
 
-En los casos en que se compruebe que las personas físicas o jurídicas que hayan sido beneficiadas por estos incentivos fiscales no hubiesen cumplido con los presupuestos de creación de las nuevas fuentes de empleos directas correspondientes al esquema de incentivos fiscales que promovieron, que es irregular la constitución del derecho de superficie o el arrendamiento de inmuebles, deberán enterar al Ayuntamiento, por medio de la Hacienda Municipal las cantidades que conforme a la ley de ingresos del Municipio debieron haber pagado por los conceptos de impuestos y derechos causados originalmente, además de los accesorios que procedan conforme a la ley.
+IV. En el ámbito educativo, los requisitos académicos, de evaluación y los límites por razón de edad;
 
-###### Artículo 15.
+V. Las que se establezcan como requisitos de ingreso o permanencia para el desempeño del servicio público y cualquier otro señalado en los ordenamientos legales;
 
-Las liquidaciones en efectivo de obligaciones y créditos fiscales, cuyo importe comprenda fracciones de la unidad monetaria, que no sean múltiplos de cinco centavos, se harán ajustando el monto del pago, al múltiplo de cinco centavos, más próximo a dicho importe.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-###### Artículo 16.
+VI. El trato diferenciado que en su beneficio reciban las personas con discapacidad o movilidad limitada, personas adultos mayores, mujeres en periodo de gestación y en general toda persona que se encuentren (sic) en un estado de vulnerabilidad temporal o permanente;
 
-Las personas físicas o jurídicas que realicen actos, operaciones o actividades gravados por la ley de ingresos, además de cumplir con las obligaciones señaladas en la misma, deberán cumplir con las disposiciones contenidas en los reglamentos municipales en vigor.
+VII. Las distinciones, exclusiones, restricciones o preferencias que se hagan entre ciudadanos y no ciudadanos, y
 
-En todo lo no previsto por la presente ley, para su interpretación, se estará a lo dispuesto por las Leyes de Hacienda Municipal y las disposiciones legales federales y estatales en materia fiscal. De manera supletoria se estará a lo que señala el Código de Procedimientos Civiles del Estado de Jalisco, el Código Civil del Estado de Jalisco, el Código Penal del Estado de Jalisco y el Código de Comercio, cuando su aplicación no sea contraria a la naturaleza propia del Derecho Fiscal y la Jurisprudencia.
+VIII. En general, todas las que no tengan el propósito de anular o menoscabar los derechos, y libertades, o la igualdad real de oportunidades y trato de las personas, ni de atentar contra la dignidad humana.
 
-## TÍTULO SEGUNDO. Impuestos
+###### ARTÍCULO 5.
 
-###### Artículo 17.
+Corresponde a los poderes públicos y sus dependencias, así como a los municipios y organismos públicos autónomos, observar la aplicación de la presente ley, de manera individual y/o conjunta, conforme su competencia y atribuciones, así como garantizar las condiciones para que la libertad y la igualdad de las personas sean reales y efectivas.
 
-Este impuesto se causará y pagará de conformidad con las bases, tasas, cuotas y tarifas a que se refiere este capítulo:
+###### ARTÍCULO 6.
 
-Tasa bimestral al millar
+Cada una de las entidades públicas, adoptarán las medidas que estén a su alcance, tanto por separado como de manera coordinada, de conformidad con la disponibilidad de recursos que se haya determinado para tal fin en el presupuesto de egresos del Estado del ejercicio correspondiente, para que toda persona goce, sin discriminación alguna, de todos los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que México sea parte, en las leyes federales del país, en la Constitución Política del Estado de Coahuila y en las leyes estatales.
 
-I. Predios rústicos:
+Para el debido cumplimiento de las disposiciones de la presente ley, el presupuesto de egresos del Estado y los correspondientes a cada municipio, deberán destinar una partida específica para promover las medidas positivas y compensatorias a favor de la igualdad de oportunidades a que se refiere el Capítulo Cuarto de esta ley.
 
-a) Para predios cuyo valor real se determine en los términos de la
+###### ARTÍCULO 7.
 
-Ley de Hacienda Municipal del Estado de
+La interpretación del contenido de esta ley, así como la actuación de las entidades públicas, serán congruentes con la Constitución Política de los Estados Unidos Mexicanos y con la Constitución Política del Estado de Coahuila, y tomarán en consideración los instrumentos internacionales suscritos y ratificados por el Estado Mexicano, así como las recomendaciones y resoluciones adoptadas en los organismos internacionales y regionales.
 
-Jalisco, sobre el valor fiscal determinado, el: 0.20
+###### ARTÍCULO 8.
 
-Tratándose de predios rústicos, según la definición de la Ley de Catastro Municipal, dedicados preponderantemente a fines agropecuarios en producción previa constancia de la dependencia que la Hacienda Municipal designe y cuyo valor se determine conforme al párrafo anterior, tendrán una reducción del 50% en el pago del impuesto.
+Para los efectos del artículo anterior, cuando de la naturaleza, modos y circunstancias de los actos o hechos de que se trate se presenten diferentes interpretaciones, se preferirá aquella que proteja con mayor eficacia a las personas, grupos, minorías o colectividades que resulten afectados por dichas conductas discriminatorias.
 
-A la cantidad que resulte de aplicar la tasa contenida en el inciso a), se le adicionará una cuota fija de $14.70 bimestrales y el resultado será el impuesto a pagar.
+###### ARTÍCULO 9.
 
-II. Predios urbanos:
+El Titular del Ejecutivo podrá crear una comisión intersecretarial que fungirá como órgano de apoyo para la Dirección. Dicha comisión se creará y funcionará de acuerdo a lo previsto por la Ley Orgánica de la Administración Pública del Estado de Coahuila.
 
-a) Predios edificados cuyo valor real se determine en los
+### CAPÍTULO SEGUNDO. DEL GARANTISMO EN MATERIA DE NO-DISCRIMINACIÓN
 
-términos de la Ley de Hacienda Municipal del Estado de
+###### ARTÍCULO 10.
 
-Jalisco, sobre el valor determinado, el: 0.80
+El derecho a la no discriminación es un derecho fundamental en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado, esta ley y demás disposiciones aplicables.
 
-b) Predios no edificados, cuyo valor real se determine en
+###### ARTÍCULO 11.
 
-los términos de la Ley de Hacienda Municipal del Estado de
+Las entidades públicas, en el ámbito de sus competencias, promoverán y establecerán los instrumentos legales y materiales necesarios para garantizar el derecho fundamental a la no discriminación, a la igualdad de oportunidades y de trato.
 
-Jalisco, sobre el valor determinado, el: 0.30
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE OCTUBRE DE 2017)</small>
 
-A las cantidades determinadas mediante la aplicación de las tasas señaladas en los incisos a) y b) de esta fracción, se les adicionará una cuota fija de $20.00 bimestrales y el resultado será el impuesto a pagar.
+Ningún particular persona física o moral podrá establecer actos discriminatorios como estereotipos sexistas o rangos de edad, en las convocatorias de ofertas laborales.
 
-###### Artículo 18.
+Los particulares deberán cumplir con las disposiciones que dicten las autoridades conforme a esta ley y demás disposiciones aplicables, para asegurar el respeto y cumplimiento del principio de no discriminación.
 
-A los contribuyentes que se encuentren comprendidos en las fracciones siguientes y dentro de los supuestos que se indican en los incisos a), de la fracción I; a) y b), de la fracción II, del artículo 17, de esta ley se les otorgarán con efectos a partir del bimestre en que sean entregados los documentos completos que acrediten el derecho a los siguientes beneficios:
+###### ARTÍCULO 12.
 
-I. A las instituciones privadas de asistencia o de beneficencia social constituidas y autorizadas de conformidad con las leyes de la materia, así como las sociedades o asociaciones civiles que tengan como actividades las que se señalan en los siguientes incisos, se les otorgará una reducción del 50% en el pago del impuesto predial, sobre los primeros $415,000.00 de valor fiscal, respecto de los predios que sean propietarios:
+Las entidades públicas encargadas de observar lo dispuesto en la presente ley, deberán respetar los siguientes principios:
 
-a) La atención a personas que, por sus carencias socioeconómicas o por problemas de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+I. Antiformalidad: Tiene por objeto impedir que los actos o formalidades no esenciales obstaculicen el derecho fundamental a la no discriminación. Los requisitos para acceder a los procedimientos protectores de la igualdad de las personas, deberán ser subsanables, razonables y proporcionales en función de la finalidad del derecho a no ser discriminado, y a que se respete la igualdad de oportunidades y de trato, y
 
-b) La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo y discapacidad de escasos recursos;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
 
-c) La prestación de asistencia médica o jurídica, de orientación social, de servicios funerarios a personas de escasos recursos, especialmente a menores, ancianos y discapacitados;
+II. Inmediatez: Tiene por objeto que, mediante procedimientos breves, sencillos y oportunos, las personas legitimadas obtengan la protección de sus derechos, para prevenir, atender y erradicar cualquier práctica de discriminación, procurándose el contacto directo con los quejosos, denunciantes, servidores públicos y autoridades, para evitar la dilación de las comunicaciones escritas y de las actuaciones no indispensables;
 
-d) La readaptación social de personas que han llevado a cabo conductas ilícitas;
+### CAPÍTULO TERCERO. DE LAS MEDIDAS PARA PREVENIR LA DISCRIMINACIÓN
 
-e) La rehabilitación de fármaco- dependientes de escasos recursos;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2017)</small>
 
-f) Sociedades o asociaciones de carácter civil que se dediquen a la enseñanza gratuita, con autorización o reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación.
+###### ARTÍCULO 13.
 
-Las instituciones a que se refiere este inciso, solicitarán a la Hacienda Municipal la aplicación de la reducción establecida, acompañando a su solicitud dictamen practicado por el departamento jurídico municipal o el Instituto Jalisciense de Asistencia Social.
+Queda prohibida toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades.
 
-II. A las asociaciones religiosas legalmente constituidas, se les otorgará una reducción del 50% del impuesto que les resulte.
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2017)</small>
 
-Las asociaciones o sociedades a que se refiere el párrafo anterior, solicitarán a la Hacienda Municipal la aplicación de la reducción a la que tengan derecho, adjuntando a su solicitud los documentos en los que se acredite su legal constitución.
+Se consideran prácticas discriminatorias;
 
-III. A los contribuyentes que acrediten ser propietarios de uno o varios bienes inmuebles, afectos al patrimonio cultural del estado y que los mantengan en estado de conservación aceptable a juicio del Ayuntamiento, cubrirán el impuesto predial, con la aplicación de una reducción del 60%.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-###### Artículo 19.
+I. Aplicar cualquier tipo de uso o costumbre que atente contra la dignidad e integridad humana;
 
-A los contribuyentes de este impuesto, que efectúen el pago correspondiente al año 2010, en una sola exhibición se les concederán los siguientes beneficios:
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-a) Si efectúan el pago durante los meses de enero y febrero del año 2010, se les concederá un beneficio del 15%;
+II. Trato diferenciado, excluyente o restrictivo basado en el origen étnico-cultural (hábitos, costumbres, indumentaria, símbolos, formas de vida, sentido de pertenencia, idioma y creencias de un grupo social determinado) y/o en las características físicas de las personas (como el color de piel, facciones, estatura, color de cabello, etc.) que tenga como objetivo o por resultado anular o menoscabar el reconocimiento, goce o ejercicio de los derechos y libertades fundamentales de las personas en la esfera política, económica, social y cultural;
 
-b) Cuando el pago se efectúe durante los meses de marzo y abril del año 2010, se les concederá un beneficio del 5%.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2017)</small>
 
-A los contribuyentes que efectúen su pago en los términos del inciso anterior no causarán los recargos que se hubieren generado en ese periodo.
+III. Establecer actos discriminatorios como estereotipos sexistas o rangos de edad, en las convocatorias de ofertas laborales;
 
-###### Artículo 20.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-A los contribuyentes que acrediten tener la calidad de pensionados, jubilados, viudos, viudas o que tengan 60 años o más, serán beneficiados con una reducción del 50% del impuesto a pagar sobre los primeros $415,000.00 del valor fiscal, respecto de la casa que habitan y de la que comprueben ser propietarios. Podrán efectuar el pago bimestralmente o en una sola exhibición, lo correspondiente al año 2010.
+IV. Tratar a alguien de manera diferente por el hecho de provenir de un lugar diferente, por nacionalidad distinta o no ser originarios del país o lugar en el que residen, por aquellos que nacieron en el país o tienen mayor antigüedad en él o en un lugar específico;
 
-En todos los casos se otorgará el beneficio antes citado, tratándose exclusivamente de una sola casa habitación para lo cual, los beneficiarios deberán entregar, según sea su caso la siguiente documentación:
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-a) Copia del talón de ingresos o en su caso credencial que lo acredite como pensionado, jubilado o discapacitado expedido por institución oficial del país y de la credencial de elector.
+V. Impedir o limitar la libre expresión de ideas, conciencia, religión, o de prácticas o costumbres religiosas, siempre que éstas no atenten contra el orden público;
 
-b) Recibo del impuesto predial, pagado hasta el sexto bimestre del año 2009, además de acreditar que el inmueble lo habita el beneficiado;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-c) Cuando se trate de personas que tengan 60 años o más, identificación y acta de nacimiento que acredite la edad del contribuyente.
+VI. Negar asistencia religiosa a personas privadas de la libertad, que presten servicio en seguridad pública estatal o municipal, o que estén internadas en instituciones de salud o asistencia;
 
-d) Tratándose de contribuyentes viudas y viudos, presentarán copia simple del acta de matrimonio y del acta de defunción del cónyuge.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-A los contribuyentes discapacitados, se les otorgará el beneficio siempre y cuando sufran una discapacidad del 50% o más atendiendo a lo dispuesto por el artículo 514 de la Ley Federal del Trabajo. Para tal efecto, la Hacienda Municipal a través de la dependencia que esta designe, practicará examen médico para determinar el grado de discapacidad, el cual será gratuito, o bien bastará la presentación de un certificado que lo acredite expedido por una institución médica oficial del país.
+VII. Trato distintivo o despreciativo por no practicar la creencia religiosa mayoritaria de la sociedad en la que vive o por no profesar creencia alguna;
 
-Los beneficios señalados en este artículo se otorgarán a un solo inmueble.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-En ningún caso el impuesto predial a pagar será inferior a las cuotas fijas establecidas en este capítulo, salvo los casos mencionados en el primer párrafo del presente artículo.
+VIII. Impedir la participación en condiciones equitativas en asociaciones civiles, políticas o de cualquier otra índole;
 
-En los casos que el contribuyente del impuesto predial, acredite el derecho a más de un beneficio, sólo se otorgará el de mayor cuantía.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-###### Artículo 21.
+IX. Negar o condicionar el derecho de participación política, y específicamente el derecho al sufragio activo o pasivo, la elegibilidad y el acceso a todos los cargos públicos, así como la participación en el desarrollo y ejecución de políticas y programas de gobierno, en los casos y de acuerdo a los términos que establezcan las disposiciones aplicables y las excepciones que las mismas señalen;
 
-En el caso de predios, que durante el presente año fiscal se actualice su valor fiscal con motivo de la transmisión de propiedad o se modifiquen sus valores por los supuestos establecidos en las fracciones IV, V, VII y IX, del artículo 66, de la Ley de Catastro Municipal del Estado, el impuesto a pagar será el que resulte de la aplicación de las tasas y cuotas fijas a que se refiere el presente capítulo.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-Para el caso de predios construidos o edificados y que se incremente su valor fiscal con motivo de una valuación masiva o que se encuentren tributando con las tasas a que se refieren los incisos a), de la fracción I; a) y b), de la fracción II, del artículo 17 de esta ley, y cuyo valor fiscal no sea mayor de $383,000.00, el incremento en el impuesto predial a pagar no será superior al 10% de lo que resultó en el año fiscal inmediato anterior. Si los predios referidos registran valores fiscales entre $383,001.00 a $500,000.00, el incremento en el impuesto a pagar no será mayor al 15% de lo que resultó en el año fiscal inmediato anterior, y para el caso de predios edificados con valor fiscal entre $500,001.00 a $1'000,000.00, el incremento en el impuesto a pagar no será mayor al 20% de lo que resultó en el año fiscal inmediato anterior. Tratándose de actos de transmisión de propiedad realizados en el presente ejercicio fiscal y que hubiesen pagado la anualidad completa en los términos del artículo 19 de esta ley, la liberación en el incremento del pago del impuesto predial surtirá efectos hasta el siguiente ejercicio fiscal.
+X. Negar un servicio, una oportunidad, o el acceso a un determinado lugar, el acceso a la justicia, a la atención médica, de forma injustificada aludiendo solamente a su género, puede ser a un hombre o a una mujer;
 
-###### Artículo 22.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-Este impuesto se causará y pagará de conformidad con lo previsto en el capítulo correspondiente de la Ley de Hacienda Municipal del Estado de Jalisco, donde se define y detalla el mismo, aplicando la siguiente:
+XI. Impedir la libre elección de cónyuge o pareja;
 
-LIMITE LIMITE CUOTA TASA
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-INFERIOR SUPERIOR FIJA MARGINAL
+XII. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecución o exclusión de las personas;
 
-SOBRE
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-EXCEDENTE
+XIII. Realizar o fomentar el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación sexual;
 
-LIMITE INFERIOR
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-$0.01 $200,000.00 $0.00 2%
+XIV. Rechazo a un patrón de atracción sexual, erótica, emocional o amorosa de un determinado grupo de personas definidas por su sexo que se alejan del canon predominante;
 
-$200,000.01 $500,000.00 $4,200.00 $2.05%
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-$500,000.01 $1,000,000.00 $10,657.50 $2.10%
+XV. Tratar de manera despectiva, o menospreciar a las personas que no gozan de cierta formación cultural, o no disfrutan de una adecuada situación o posición económica;
 
-$1,000.000.01 $1,500,000.00 $21,682.50 $2.15%
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-$1,500,000.01 $2,000,000.00 $32,970.00 $2.20%
+XVI. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad, o que difundan una condición de subordinación;
 
-$2,000,000.01 $2,500,000.00 $44,520.00 $2.30%
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-$2,500,000.01 $3,000,000.00 $56,595.00 $2.40%
+XVII. Prohibir la libre elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo, así como limitar el ingreso a los programas de capacitación y formación profesional;
 
-$3,000,000.01 en adelante $69,195.00 $2.50%
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-I. Tratándose de la adquisición de departamentos, viviendas y casas nuevas, destinadas para habitación, cuya base fiscal no sea mayor a los $250,000.00, previa comprobación de que los contribuyentes no son propietarios de otros bienes inmuebles en este Municipio y que se trate de la primera enajenación, el impuesto sobre transmisiones patrimoniales se causará y pagará conforme a la siguiente:
+XVIII. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales;
 
-LIMITE LIMITE CUOTA TASA
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-INFERIOR SUPERIOR FIJA MARGINAL
+XIX. Limitar el acceso a los programas de capacitación y de formación profesional;
 
-SOBRE
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-EXCEDENTE
+XX. No otorgar igual pago por igual trabajo en el mismo establecimiento, por el hecho de ser hombre-mujer o mujer-hombre, sin que sea necesario que los trabajos sean idénticos, sino que deben ser substancialmente iguales;
 
-LIMITE INFERIOR
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-$0.01 $90,000.00 $0.00 0.20%
+XXI. No pagar salarios iguales a hombres y mujeres que realizan trabajos que requieren igual habilidad, esfuerzo y responsabilidad y que se realizan bajo condiciones de trabajo similares dentro del mismo establecimiento;
 
-$90,000.01 $125,000.00 $189.00 1.63%
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-$125,000.01 $250,000.00 $787.50 3%
+XXII. Tratar de forma inferior porque la imagen personal o vestimenta no encaja con el ideal de belleza establecido en la sociedad en la que vive;
 
-En las adquisiciones en copropiedad o de partes alícuotas del inmueble o de los derechos que se tengan sobre los mismos, la base del impuesto se dividirá entre todos los sujetos obligados, a los que se les aplicará la tasa en la proporción que a cada uno corresponda y tomando en cuenta la base total gravable.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-II. En la titulación de terrenos ubicados en zonas de alta densidad y sujetos a regularización, mediante convenio con la dirección general de obras públicas, se les aplicará un factor de 0.1 sobre el monto del impuesto sobre transmisiones patrimoniales que les corresponda pagar a los adquirentes de los lotes hasta 100 metros cuadrados, siempre y cuando acrediten no ser propietarios de otro bien inmueble.
+XXIII. Rechazo solo por el color de piel, por la complexión, estatura o tipo de vestimenta;
 
-III. Tratándose de terrenos que sean materia de regularización por parte de la Comisión para la Regularización de la Tenencia de la Tierra o por el Programa de Certificación de Derechos Ejidales (PROCEDE), los contribuyentes pagarán únicamente por concepto de impuesto las cuotas fijas que se mencionan a continuación:
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-METROS CUADRADOS CUOTA FIJA
+XXIV. Negar o condicionar los servicios de atención médica, o impedir la participación en las decisiones relacionadas con su tratamiento médico o terapéutico, dentro de sus posibilidades y medios;
 
-0 a 300 $42.00
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-301 a 450 $63.00
+XXV. Obstaculizar las condiciones mínimas necesarias para el crecimiento y desarrollo saludable;
 
-451 a 600 $103.00
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-601 a 1000 $189.00
+XXVI. Impedir el acceso a la seguridad social y sus beneficios, o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;
 
-En el caso de predios que sean materia de regularización y cuya superficie sea superior a 1000 metros cuadrados, los contribuyentes pagarán el impuesto que les corresponda conforme a la aplicación de las dos primeras tablas del presente artículo.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-###### Artículo 23.
+XXVII. Ser tratado con cierto recelo o desprecio por el hecho de estar enferma;
 
-El Municipio percibirá los impuestos extraordinarios establecidos o que se establezcan por las leyes fiscales durante el ejercicio fiscal del año 2010, en la cuantía y sobre las fuentes impositivas que se determinen, y conforme al procedimiento que se señale para su recaudación.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-###### Artículo 24.
+XXVIII. Ser estigmatizado por el hecho de ser portador del VIH-Sida, o alguna otra enfermedad de transmisión sexual;
 
-Este impuesto se causará y pagará respecto de los actos o contratos, cuando su objeto sea la construcción, reconstrucción o ampliación de inmuebles, y de conformidad con lo previsto en el capítulo correspondiente de la Ley de Hacienda Municipal, aplicando la tasa del 1%.
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
 
-Quedan exentos de este impuesto, los actos o contratos a que se refiere la fracción VI, de artículo 131 bis, de la Ley de Hacienda Municipal.
+XXIX. Criminalizar a cualquier persona, grupo o comunidad.
 
-###### Artículo 25.
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
 
-Este impuesto se causará y pagará de acuerdo con las siguientes tarifas:
+XXX. Impedir el acceso a los inmuebles que brinden servicio o atención al público o establecimientos mercantiles derivada de falta de accesibilidad de los mismos motivos que se relacionan en el artículo 3° fracción VI de la presente ley.
 
-I. Funciones de circo, sobre el monto de los ingresos que se
+XXXI. (DEROGADA, P.O. 29 DE ENERO DE 2021)
 
-obtengan por la venta de boletos de entrada, el: 4%
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-II. Conciertos y audiciones musicales, funciones de
+XXXII. Restringir la participación en actividades deportivas, recreativas o culturales;
 
-box, lucha libre, fútbol, básquetbol, béisbol y otros
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-espectáculos deportivos, sobre el ingreso percibido
+XXXIII. Menospreciar, o tratar de manera despreciativa a persona que vive bajo algún tipo de discapacidad, bien será física, mental o intelectual;
 
-por boletos de entrada, el: 6%
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
 
-III. Espectáculos teatrales, ballet, ópera y taurinos, el: 3%
+XXXIV. Negar la contratación de un trabajo, limitar el acceso a un servicio o espacio público, o ser expuesta a burlas, comentarios misóginos, despectivos o discriminatorios por el hecho de encontrarse en situación de embarazo o en etapa de maternidad; Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser persona adulta mayor;
 
-IV. Peleas de gallos y palenques, el: 10%
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-V. Otros espectáculos, distintos de los especificados,
+XXXV. Tratar de manera discriminante, de abandono, abuso o maltrato, ser sujeto de burlas, estigmas o menosprecio, o negar algún tipo de servicio por el hecho de ser persona adulta mayor;
 
-excepto charrería, el: 10%
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-No se consideran objeto de este impuesto los ingresos que obtengan la Federación, el Estado y los municipios por la explotación de espectáculos públicos que directamente realicen. Tampoco se consideran objeto de éste impuesto los ingresos que se perciban por el boleto de entrada en los eventos de exposición para el fomento de actividades comerciales, industriales, agrícolas, ganaderas y de pesca, así como los ingresos que se obtengan por la celebración de eventos cuyos fondos se canalicen exclusivamente a instituciones asistenciales o de beneficencia.
+XXXVI. Menospreciar bajo los entendidos de que no está en condiciones de salud apropiada para realizar algún tipo de tarea por el hecho de atravesar una condición de sobre peso u obesidad, o cualquier otro desorden alimenticio;
 
-## TÍTULO TERCERO. Contribuciones especiales
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
 
-### CAPÍTULO CUARTO. Del impuesto sobre negocios jurídicos
+XXXVII. Negar o limitar la información relacionada con el embarazo, el parto y posparto, la etapa de maternidad y en general sobre los derechos reproductivos, impidiendo el libre ejercicio sobre la determinación de cuantos y como desean tener a los hijos;
 
-###### Artículo 26.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-El Municipio percibirá las contribuciones especiales establecidas o que se establezcan sobre el incremento del valor y de mejoría específica de la propiedad raíz, por la realización de obras o servicios públicos, en los términos de las leyes urbanísticas aplicables, según decreto que al respecto expida el Congreso del Estado.
+XXXVIII. Trato desigual, o ser víctima de perjuicios, estigmas, o algún tipo de opresión, transgresiones, descalificaciones por el hecho de ser persona joven o adolescente;
 
-## TÍTULO CUARTO. De los derechos
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-###### Artículo 27.
+XXXIX. Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser persona joven o adolescente;
 
-Quienes pretendan obtener o refrendar licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la venta de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general, pagarán previamente los derechos, conforme a la siguiente:
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-TARIFA
+XL. Ser víctima de prácticas violentas o de trato desigual, o algún tipo de opresión, burlas, estigmas, transgresiones, descalificaciones por (sic) hecho de ser mujer;
 
-I. Cabarets, centros nocturnos, discotecas,
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-salones de baile y video bares de: $ 2,407.00 a $ 7,363.00
+XLI. Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser mujer;
 
-II. Bares anexos a hoteles, moteles,
+XLII. (DEROGADA, P.O. 29 DE ENERO DE 2021)
 
-restaurantes, centros recreativos, clubes,
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-casinos, asociaciones civiles, deportivas,
+XLIII. Violación de los derechos, a los tratados internacionales, explotación económica, inseguridad social, menosprecio, racismo, secuestro, así como el riesgo de muerte por el hecho de ser persona migrante o refugiado;
 
-y demás establecimientos similares, de: $ 2,407.00 a $ 5,522.00
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-III. Cantinas o bares, pulquerías, tepacherías,
+XLIV. Ser víctima de prácticas violentas, o de disciplinas violentas, de maltrato, de castigo, o de trato desigual, o algún tipo de opresión, burlas, estigmas, transgresiones, descalificaciones por (sic) hecho de ser niño o niña;
 
-cervecerías o centros botaneros de: $ 2,407.00 a $ 5,522.00
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-IV. Expendios de vinos generosos,
+XLV. Negar o atentar contra algún tipo de derecho emanado de los acuerdos internacionales de protección y cuidado infantil;
 
-exclusivamente, en envase cerrado, de: $ 1,910.00 a $ 3,866.00
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-V. Venta de cerveza en envase abierto,
+XLVI. Explotar a cualquier persona, o dar un trato abusivo o degradante;
 
-anexa a giros en que se consuman
+XLVII. (DEROGADA, P.O. 29 DE ENERO DE 2021)
 
-alimentos preparados, como fondas, cafés,
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-cenadurías, taquerías, loncherías,
+XLVIII. Impedir el acceso a la educación pública o privada, así como a becas e incentivos para la permanencia en los centros educativos, en los términos de las disposiciones aplicables;
 
-coctelerías y giros de venta de antojitos de: $ 1,910.00 a $ 3,866.00
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-VI. Venta de cerveza en envase
+XLIX. Menosprecio por poseer un cierto nivel académico, que derive en el trato injusto, otorgamiento de servicios, trabajos, remuneraciones, o estigmas de alguna naturaleza;
 
-cerrado, anexa a tendejones, misceláneas
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-y negocios similares, de: $ 1,203.00 a $ 3,554.00
+L. Restringir las oportunidades laborales, salariales o de crecimiento profesional por el hecho de cursar los estudios en determinada unidad académica, escuela o colegio, sea esta pública o del sector privado;
 
-VII. Expendio de bebidas alcohólicas
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-en envase cerrado, de: $ 1,203.00 a $ 3,554.00
+LI. Restringir o limitar el uso de su lengua, usos, costumbres o cultura, en actividades públicas o privadas, en términos de las disposiciones aplicables;
 
-Las sucursales o agencias de los giros que se señalan en esta fracción, pagarán los derechos correspondientes al mismo.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-VIII. Expendios de alcohol al menudeo,
+LII. Tratar diferente a causa del idioma nativo u otras características de su manera de hablar o expresarse, sea esta manera oral, escrita o simbólica;
 
-anexos a tendejones, misceláneas,
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-abarrotes, mini súper y supermercados,
+LIII. Impedir el ejercicio de los derechos de propiedad, administración y disposición de bienes de cualquier otro tipo, salvo las excepciones establecidas en la ley;
 
-expendio de bebidas alcohólicas en
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-envase cerrado, y otros giros similares, de: $ 345.00 a $ 830.00
+LIV. Impedir el acceso a la procuración e impartición de justicia;
 
-IX. Agencias, depósitos, distribuidores y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-expendios de cerveza, por cada uno, de: $ 2,088.00 a $ 6,869.00
+LV. Impedir, obstaculizar o retardar que se les escuche en todo procedimiento jurisdiccional o administrativo en que se vean involucrados o en la asistencia de intérpretes en dichos procedimientos, de conformidad con las normas aplicables;
 
-X. Venta de bebidas alcohólicas en
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-los establecimientos donde se produzca
+LVI. Ofender, ridiculizar o promover la violencia en los supuestos a que se refiere la fracción VI del artículo 3° de esta ley, a través de mensajes o imágenes en los medios de comunicación;
 
-o elabore, destile, amplié, mezcle o
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-transforme alcohol, tequila, mezcal, cerveza
+LVII. Restringir el acceso a la información, salvo en aquellos supuestos que sean establecidos por la legislación en materia de acceso a la información, tanto estatal como federal, así como en instrumentos jurídicos internacionales aplicables;
 
-y otras bebidas alcohólicas, de: $ 4,776.00 a $ 10,493.00
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XI. Venta de bebidas alcohólicas en
+LVIII. Limitar el derecho a la alimentación, vivienda, recreo y a los servicios de atención médica adecuados, en los casos que la ley así lo prevea;
 
-salones de fiesta, centros sociales o
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-de convenciones que se utilizan para
+LIX. Impedir el acceso a cualquier servicio público o institución privada que preste servicios al público, así como limitar el acceso y libre desplazamiento en los espacios públicos;
 
-eventos sociales, estadios, arenas de
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-box y lucha libre, plazas de toros,
+LX. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable.
 
-lienzos charros, teatros, carpas de cines,
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-cinematógrafos y en los lugares donde
+LXI. Limitar, obstaculizar o negar cualquier empleo de oficio o profesional por discriminación, basada en género, raza, etnia, orientación sexual o por tener cualquier modificación corporal, ya sean tatuajes, perforaciones, implantes, u otra condición.
 
-se desarrollan exposiciones, espectáculos
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
 
-deportivos, artísticos, culturales y ferias
+LXII. Prohibir, negar, limitar o recriminar el acto de amamantar en espacios públicos, cuando este sea una obvia necesidad derivada de la etapa de lactancia materna.
 
-estatales, regionales o municipales,
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
 
-por cada evento de: $ 1,433.00 a $ 9,150.00
+LXIII. En general cualquier conducta discriminatoria, en los términos de la fracción VI del artículo 3° de esta ley.
 
-XII. Los giros a que se refieren las fracciones anteriores de este artículo, que requieran funcionar en horario extraordinario, pagarán diariamente, sobre el valor de la licencia:
+### CAPÍTULO CUARTO. DE LAS MEDIDAS POSITIVAS Y COMPENSATORIAS
 
-a) Por la primera hora: 10%
+###### ARTÍCULO 14.
 
-b) Por la segunda hora: 12%
+El titular del ejecutivo a través de las entidades públicas diseñarán e instrumentarán políticas, acciones afirmativas, compensatorias o cualquier otra medida de trato diferenciado que resulte justificada a fin de garantizar la igualdad real de oportunidades, así como prevenir las formas de discriminación a que se refiere la fracción VI del artículo 3° de esta ley.
 
-c) Por la tercera hora: 15%
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-###### Artículo 28.
+ARTÍCULO 14 BIS. Las entidades del sector público y privado, están obligadas a habilitar cajas y ventanillas receptoras de atención preferente, para las mujeres en periodo de gestación, personas adultas mayores, personas con discapacidad o movilidad limitada, y en general para toda persona que se encuentren (sic) en un estado de vulnerabilidad temporal o permanente, así como también deben mostrar en un lugar fácil de observar letreros con el texto o imagen que señale la atención preferente. De la misma forma deberán reservar cajones de estacionamiento y marcarlos como reservados para el acceso de personas de trato diferenciado.
 
-Las personas físicas o jurídicas a quienes se anuncie o cuyos productos o actividades sean anunciados en forma permanente o eventual, deberán obtener previamente licencia o permiso respectivo y pagar los derechos por la autorización o refrendo correspondiente, conforme a la siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-I. En forma permanente:
+###### ARTÍCULO 15.
 
-a) Anuncios adosados o pintados, no
+Para el cumplimiento del objeto de esta ley, la Secretaría de Educación llevara a cabo las siguientes acciones:
 
-luminosos, en bienes muebles o
+I. Incentivar la educación mixta, fomentando la permanencia en el sistema educativo de las personas miembros de los sectores vulnerables, en todos los niveles escolares;
 
-inmuebles, por cada metro cuadrado
+II. Establecer contenidos, métodos o instrumentos pedagógicos que difundan la condición de igualdad entre géneros;
 
-o fracción, de: $ 80.85 a $ 118.65
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-b) Anuncios salientes, luminosos,
+III. Establecer programas educativos de enseñanza especial y programas de enseñanza bilingüe que promuevan el ingreso de personas indígenas y afromexicanas al sector educativo y el intercambio pluricultural;
 
-iluminados o sostenidos a muros, por
+IV. Instalar los mecanismos que sean necesarios para que las personas miembros de los sectores vulnerables puedan acceder plenamente a todos los niveles de educación incorporados a la Secretaría, promoviendo estas acciones en las universidades e instituciones de educación superior;
 
-metro cuadrado o fracción, de: $ 124.95 a $ 150.15
+V. Promover la libre expresión de los estudiantes, vigilando que se desarrollen en un ambiente escolar libre de acoso, ofensas o cualquier otro tipo de acción que perjudique su sano desarrollo;
 
-c) Anuncios estructurales en azoteas
+VI. Difundir campañas que promuevan la paz social y la armonía entre los miembros de la comunidad;
 
-o pisos, por metro cuadrado o fracción,
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-anualmente, de: $ 236.25 a $ 388.50
+VII. Alentar la producción y difusión de libros para niñas y niños, y para las y los jóvenes;
 
-d) Anuncios en casetas telefónicas
+VIII. Otorgar becas e incentivos que permitan el ingreso y permanencia en los centros educativos en todos los niveles;
 
-diferentes a la actividad propia de la
+IX. Desarrollar y promover actividades de información, campañas de sensibilización, acciones formativas y demás que sean necesarias para la promoción de la igualdad de oportunidades y la no discriminación;
 
-caseta, por cada anuncio: $ 34.65
+X. Impartir educación para preservar la salud, el conocimiento integral de la sexualidad, la planificación familiar, la paternidad responsable y el respeto a los derechos humanos;
 
-II. En forma eventual, por un plazo no mayor de treinta días:
+XI. Desarrollar planes de mejora continua para asegurar la igualdad de oportunidades a los estudiantes. Para ello, se incluirán normas uniformes mínimas de no discriminación y de accesibilidad, desarrollando indicadores de calidad y manuales de buenas prácticas;
 
-a) Anuncios adosados o pintados no
+XII. Diseñar, instrumentar y ejecutar programas de recreación y cultura adecuados para las personas adultas mayores;
 
-luminosos, en bienes muebles o inmuebles,
+XIII. Asignar recursos para la capacitación especializada, la investigación y el desarrollo tecnológico en instituciones de educación superior dirigidos a la creación y/o adaptación de aparatos prototipos y sistemas para mejorar el desempeño de las actividades diarias de la población con algún tipo de discapacidad;
 
-por cada metro cuadrado o fracción,
+XIV. Promover en las instituciones que así le competa, el desarrollo del currículum formativo "en diseño para todos", en todos los programas educativos, incluidos los universitarios, para la formación de profesionales en los campos del diseño y la construcción del entorno físico, la edificación, las infraestructuras y obras públicas, el transporte, las comunicaciones y telecomunicaciones y los servicios computacionales y/o cibernéticos, y
 
-diariamente, de: $ 1.19 a $ 1.82
+XV. Las demás que señalen esta ley y otras disposiciones aplicables.
 
-b) Anuncios salientes, luminosos, iluminados
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-o sostenidos a muros, por metro cuadrado o
+###### ARTÍCULO 16.
 
-fracción, diariamente, de: $ 1.50 a $ 1.92
+Para el cumplimiento del objeto de esta ley, la Secretaría de Economía y Turismo llevará a cabo las siguientes acciones:
 
-c) Anuncios estructurales en azoteas o
+I. Diseñar y establecer mecanismos de supervisión continua en las empresas que se encuentren instaladas en territorio estatal, a fin de verificar que consideren personas de sectores vulnerables para desempeñar un trabajo y que cuenten con las condiciones debidas para desarrollar su empeño;
 
-pisos, por metro cuadrado o fracción,
+II. Facilitar y apoyar el desarrollo de normativa técnica, de forma que asegure la no discriminación en procesos, diseños y desarrollos de tecnologías, productos, servicios y bienes, en colaboración con las entidades y organizaciones de normalización y certificación y todos los agentes implicados;
 
-diariamente, de: $ 2.25 a $ 7.51
+III. Promover en las empresas y negociaciones que funcionen en el Estado, que se realice la selección de personal sin discriminación alguna procurando se otorgue empleo a personas miembros de sectores vulnerables;
 
-Son responsables solidarios del pago establecido en esta fracción los propietarios de los giros, así como las empresas de publicidad;
+IV. Promover la instalación de centros de desarrollo infantil y guarderías en las empresas u organismos privados, gestionando la deducción del costo total de este servicio de los impuestos estatales correspondientes, en los términos de la Ley de Ingresos del Estado, y
 
-d) Tableros para fijar propaganda impresa,
+V. Las demás que señalen esta ley y otras disposiciones aplicables.
 
-diariamente, por cada uno, de: $ 1.05 a $ 1.26
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-e) Promociones mediante cartulinas,
+###### ARTÍCULO 17.
 
-volantes, mantas, carteles y otros similares,
+Para el cumplimiento del objeto de esta ley, la Secretaria de Medio Ambiente y Desarrollo Urbano llevara a cabo las siguientes acciones:
 
-por cada promoción, de: $ 30.45 a $ 73.50
+I. Promover en colaboración con otras entidades públicas y con las organizaciones representativas de las personas con discapacidad y sus familias, la elaboración, desarrollo y ejecución de planes y programas en materia de accesibilidad y no discriminación;
 
-###### Artículo 29.
+II. Promover y, en su caso, exigir la instalación y mantenimiento de mecanismos que permitan el acceso y libre desplazamiento a las personas que por su edad o discapacidad así lo requieran, en todos los espacios públicos, obras y actividades que supervisen o autoricen, así como en aquellos inmuebles o muebles de naturaleza similar;
 
-Las personas físicas o jurídicas que pretendan llevar a cabo la construcción, reconstrucción, reparación o demolición de obras, deberán obtener, previamente, la licencia y pagar los derechos conforme a la siguiente:
+III. Asegurar, junto con los municipios, que las vías públicas cuenten con el equipo y señalamientos adecuados para garantizar el libre tránsito de personas que por su edad o discapacidad así lo requieran;
 
-I. Licencia de construcción, incluyendo inspección, por metro cuadrado de construcción de acuerdo con la clasificación siguiente:
+IV. Garantizar, en coordinación con los municipios, la eliminación de obstáculos que dificulten, entorpezcan o impidan a las personas con discapacidad su libre desplazamiento en lugares públicos o privados, interiores o exteriores, así como del uso y disfrute de los servicios comunitarios;
 
-TARIFA
+V. Promover la participación de los sectores vulnerables de la población en las acciones y programas de educación y cultura ambiental así como de protección y preservación al medio ambiente que lleve a cabo, y
 
-A. Inmuebles de uso habitacional:
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-1. Densidad alta:
+VI. Promover la participación de los grupos étnicos e indígenas y comunidades afromexicanas para la inclusión de programas de transformación de recursos naturales para auto sustentabilidad de sus comunidades.
 
-a) Unifamiliar: $ 1.58
+VII. Las demás que señale esta ley y otras disposiciones aplicables.
 
-b) Plurifamiliar horizontal: $ 1.79
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-c) Plurifamiliar vertical: $ 2.26
+###### ARTÍCULO 18.
 
-2. Densidad media:
+Para el cumplimiento del objeto de esta ley, la Secretaría de Infraestructura y Transporte llevará a cabo las siguientes acciones:
 
-a) Unifamiliar: $ 3.15
+I. Difundir y gestionar en coordinación con los municipios, o instancias correspondientes la preferencia en el transporte público en uno de cada diez asientos ubicados estratégicamente, para facilitar el ascenso y descenso de las personas que por su edad o discapacidad así lo requieran, ofreciendo la señalización adecuada;
 
-b) Plurifamiliar horizontal: $ 3.68
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-c) Plurifamiliar vertical: $ 3.68
+II. Promover sanciones para aquellas personas que no respeten los señalamientos viales y los espacios exclusivos para el uso de personas con discapacidad, y
 
-3. Densidad baja:
+III. Las demás que señalen esta ley y otras disposiciones aplicables.
 
-a) Unifamiliar: $ 4.52
+###### ARTÍCULO 19.
 
-b) Plurifamiliar horizontal: $ 4.73
+Para el cumplimiento del objeto de esta ley, la Secretaría de Salud llevará a cabo las siguientes acciones:
 
-c) Plurifamiliar vertical: $ 4.94
+I. Implementar y promover campañas de información sobre los derechos sexuales y reproductivos, así como de los métodos anticonceptivos, facilitando el libre ejercicio del derecho de procreación, o de la determinación del número y espaciamiento de los hijos;
 
-4. Densidad mínima:
+II. Instrumentar programas de atención médica y sanitaria para combatir la mortalidad y desnutrición infantil;
 
-a) Unifamiliar: $ 8.40
+III. Garantizar el acceso a los servicios de atención médica, según lo dispuesto en la normatividad de la materia;
 
-b) Plurifamiliar horizontal: $ 8.93
+IV. Promover la creación de centros gerontológicos de acuerdo a la densidad poblacional, con áreas especializadas de atención física, mental, psicológica y emocional de calidad, con particular atención a las personas miembros de los sectores vulnerables;
 
-c) Plurifamiliar vertical: $ 10.50
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-B. Inmuebles de uso no habitacional:
+V. Diseñar, instrumentar y ejecutar programas de apoyo financiero para la construcción de estancias y albergues suficientes y adecuados a la realidad social, destinados principalmente a niñas y niños, y a personas adultas mayores, con equipo y personal especializado;
 
-1. Comercio y servicios:
+VI. Garantizar la asistencia de intérpretes en lengua de señas mexicana y equipos necesarios, considerando todas las discapacidades en cualquier proceso informativo o administrativo que se brinde en oficinas, dependencias, así como en los centros de salud o en actividades de interés público y social que realice la Secretaría;
 
-a) Barrial: $ 6.30
+VII. Garantizar que en todas las unidades del sistema de salud y de seguridad social estatal, las personas miembros de sectores vulnerables, reciban regularmente el tratamiento y los medicamentos necesarios para mantener y aumentar su capacidad funcional y calidad de vida;
 
-b) Central: $ 8.72
+VIII. Diseñar, instrumentar y ejecutar programas que impulsen el conocimiento, protección, desarrollo y utilización de la medicina tradicional de los propios pueblos, y
 
-c) Regional: $ 12.50
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-d) Servicios a la industria y comercio: $ 6.25
+IX. Instrumentar campañas de información sobre los derechos de las mujeres relativos a la higiene menstrual, dirigidas a respetar el goce de dichos derechos, de acuerdo con la normatividad aplicable, y
 
-2. Uso turístico:
+IX. Las demás que señalen esta ley y otras disposiciones aplicables.
 
-a) Campestre: $ 12.60
+###### ARTÍCULO 20.
 
-b) Hotelero densidad alta: $ 13.65
+Para el cumplimiento del objeto de esta ley, la Secretaría de Finanzas llevará a cabo las siguientes acciones:
 
-c) Hotelero densidad media: $ 14.07
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-d) Hotelero densidad baja: $ 14.39
+I. Crear programas de apoyo financiero para la construcción de estancias, centros de reposo y albergues para personas adultas mayores;
 
-e) Hotelero densidad mínima: $ 14.70
+II. Incentivar fiscalmente las actividades de personas que presten apoyo profesional a personas u organizaciones de sectores vulnerables;
 
-3. Industria:
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-a) Ligera, riesgo bajo: $ 12.50
+III. Gestionar el apoyo fiscal a las empresas que contraten a personas con discapacidad, o en aquellas que tengan entre su personal a por lo menos 40% de mujeres o personas adultas mayores en puestos de supervisión y dirección, y
 
-b) Media, riesgo medio: $ 13.65
+IV. Las demás que señalen esta ley y otras disposiciones aplicables.
 
-c) Pesada, riesgo alto: $ 13.86
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-4. Equipamiento y otros:
+###### ARTÍCULO 21.
 
-a) Institucional: $ 7.35
+Para el cumplimiento del objeto de esta ley, la Secretaría de Inclusión y Desarrollo Social llevará a cabo las siguientes acciones:
 
-b) Regional: $ 7.35
+I. Destinar en forma equitativa a hombres y mujeres, los créditos que otorga el sector público a través de todos sus programas, tomando en cuenta para la elección de beneficiarios, su pertenencia o de sus dependientes económicos a sectores vulnerables;
 
-c) Espacios verdes: $ 7.35
+II. Gestionar ante las instancias municipales, estatales, federales y empresas privadas correspondientes, el otorgamiento de descuentos a personas miembros de sectores vulnerables, en el pago por suministro de energía eléctrica, teléfono, gas y agua, así como en los centros de recreación y cultura;
 
-d) Especial: $ 7.35
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE JULIO DE 2019)</small>
 
-e) Infraestructura: $ 7.35
+III. Crear programas de inclusión cultural para los grupos étnicos en el Estado con el fin de fomentar una perspectiva de la realidad social.
 
-II. Licencias para construcción de albercas,
+IV. Diseñar e instrumentar programas de apoyo a personas u organizaciones de sectores vulnerables;
 
-por metro cúbico de capacidad: $ 53.87
+V. Procurar un nivel mínimo y decoroso de ingresos, a través de programas de apoyo financiero directo o en especie, y de capacitación para el trabajo y fomento a la creación de empleos;
 
-III. Construcciones de canchas y áreas
+VI. Promover las condiciones necesarias para que los menores convivan con sus padres, parientes o tutores, incluyendo políticas públicas de reunificación familiar;
 
-deportivas, por metro cuadrado, de: $ 0.74 a $ 7.09
+VII. Promover la creación de instituciones que tutelen a los menores privados de su medio familiar, incluyendo hogares para su guarda y albergues para estancias temporales, y
 
-IV. Estacionamientos para usos no habitacionales, por metro cuadrado:
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-a) Descubierto: $ 2.99
+VIII. Evaluar y dar seguimiento al Programa Estatal de las Personas Adultas Mayores;
 
-b) Cubierto: $ 3.68
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-V. Licencia para demolición, sobre el
+IX. Establecer enlaces de comunicación entre la Dirección y la sociedad;
 
-importe de los derechos que se determinen
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-de acuerdo a la fracción I, de este artículo, el: 20%
+X. Promover y fortalecer las relaciones entre la Dirección y los medios de comunicación, a fin de ampliar la cobertura y difusión de sus actividades;
 
-VI. Licencia para acotamiento de predios baldíos, bardado en colindancia y demolición de muros, por metro lineal:
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-a) Densidad alta: $ 8.40
+XI. Fomentar, en coordinación con la Dirección, la creación de brigadas para la detección y prevención de discriminación;
 
-b) Densidad media: $ 8.61
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-c) Densidad baja: $ 8.93
+XII. Canalizar a la Dirección los asuntos de su competencia, que sean presentados ante las diversas dependencias de la Secretaría, por particulares o grupos sociales, y
 
-d) Densidad mínima: $ 10.29
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-VII. Licencia para instalar tapiales provisionales
+XIII. Las demás que señalen esta ley y otras disposiciones aplicables.
 
-en la vía pública, por metro lineal: $ 26.25
+###### ARTÍCULO 22.
 
-VIII. Licencias para remodelación, sobre
+Para el cumplimiento del objeto de esta ley, la Secretaría de Gobierno llevará a cabo las siguientes acciones:
 
-el importe de los derechos determinados
+I. Implementar, dentro del ámbito de su competencia, las políticas y acciones necesarias a fin de promover el respeto a los derechos de todas las personas, así como la eliminación de toda forma de discriminación;
 
-de acuerdo a la fracción I, de este artículo, el: 30%
+II. Ejecutar los programas y acciones tendientes a promover la equidad de genero;
 
-IX. Licencias para reconstrucción, reestructuración o adaptación, sobre el importe de los derechos determinados de acuerdo con la fracción I, de este artículo en los términos previstos por el Ordenamiento de Construcción.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-a) Reparación menor, el: 20%
+III. Evaluar y dar seguimiento al Programa Estatal de las Mujeres;
 
-b) Reparación mayor o adaptación, el: 50%
+IV. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2017)
 
-X. Licencias para ocupación en la vía
+V. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2017)
 
-pública con materiales de construcción,
+VI. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2017)
 
-las cuales se otorgarán siempre y cuando
+VII. Formular y evaluar los proyectos legislativos que fueren necesarios para la adecuada aplicación y observancia de esta ley;
 
-se ajusten a los lineamientos señalados
+VIII. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2017)
 
-por la dependencia competente de obras
+IX. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2017)
 
-públicas y desarrollo urbano por metro cuadrado,
+X. Las demás que señalen esta ley y otras disposiciones aplicables.
 
-por día: $ 1.58
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XI. Licencias para movimientos de tierra,
+###### ARTÍCULO 23.
 
-previo dictamen de la dependencia
+Para el cumplimiento del objeto de esta ley, la Secretaría de Seguridad Pública llevará a cabo las siguientes acciones:
 
-competente de obras públicas y desarrollo
+I. Promover la capacitación de los cuerpos policíacos en materia de no discriminación y cuidado de las personas, especialmente de aquéllas que pertenezcan a sectores vulnerables;
 
-urbano, por metro cúbico: $ 2.73
+II. Garantizar un trato no discriminatorio en el interior de los centros de readaptación social;
 
-XII. Licencias provisionales de construcción, sobre el importe de los derechos que se determinen de acuerdo a la fracción I de este artículo, el 15% adicional, y únicamente en aquellos casos que a juicio de la dependencia municipal de obras públicas pueda otorgarse.
+III. Tomar en cuenta las condiciones particulares de cada reo para la aplicación de medidas compensatorias que permitan el desarrollo y la readaptación de los mismos en un plano de igualdad;
 
-XIII. Licencias similares no previstos
+IV. Promover las condiciones necesarias para que quienes se encuentran privados de su libertad convivan con sus familias;
 
-en este artículo, por metro cuadrado
+V. Realizar campañas informativas sobre el trato a personas con discapacidad en casos de emergencia;
 
-o fracción, de: $ 3.57 a $ 93.98
+VI. Promover la igualdad como un mecanismo eficaz para la prevención del delito;
 
-### CAPÍTULO QUINTO. Del impuesto sobre espectáculos públicos
+VII. Promover la participación ciudadana en acciones positivas coordinadas por la propia Secretaría que tengan como finalidad lograr una sociedad libre de discriminación;
 
-###### Artículo 30.
+VIII. Enfatizar la protección de los cuerpos policíacos a personas que pertenezcan a sectores vulnerables;
 
-En apoyo del artículo 115, fracción V, de la Constitución General de la República, las regularizaciones de predios se llevarán a cabo mediante la aplicación de las disposiciones contenidas en el Código Urbano para el Estado de Jalisco; hecho lo anterior, se autorizarán las licencias de construcciones que al efecto se soliciten.
+IX. Promover programas de vinculación laboral en beneficio de los reos;
 
-La indebida autorización de licencias para inmuebles no urbanizados, de ninguna manera implicará la regularización de los mismos.
+X. Capacitar al personal adscrito a la misma en el trato adecuado a personas pertenecientes a sectores vulnerables;
 
-###### Artículo 31.
+XI. Revisar que en los planes de contingencia presentados por los establecimientos, se incluyan medidas para personas pertenecientes a los sectores vulnerables, y
 
-Los contribuyentes a que se refiere el artículo 29 de esta Ley, pagarán además, derechos por concepto de alineamiento, designación de número oficial e inspección. En el caso de alineamiento de propiedades en esquina o con varios frentes en vías públicas establecidas o por establecerse cubrirán derechos por toda su longitud y se pagará la siguiente:
+XII. Las demás que le confieran éste u otros ordenamientos.
 
-TARIFA
+###### ARTÍCULO 24.
 
-I. Alineamiento, por metro lineal según el tipo de construcción:
+Para el cumplimiento del objeto de esta ley, el Poder Legislativo del Estado llevará a cabo las siguientes acciones:
 
-A. Inmuebles de uso habitacional:
+I. Promover ante el Congreso de la Unión las leyes y decretos en materia de no discriminación que sean de competencia federal, así como la reforma o derogación de aquellos ordenamientos que se consideren discriminatorios;
 
-1. Densidad alta: $ 1.79
+II. Nombrar, cuando lo estime conveniente, las comisiones permanentes y especiales, que se encarguen del estudio de los proyectos de leyes y decretos que tengan relación con la prevención y eliminación de la discriminación en el Estado, y
 
-2. Densidad media: $ 6.83
+III. Las demás que establezcan la presente ley y demás disposiciones aplicables.
 
-3. Densidad baja: $ 8.72
+###### ARTÍCULO 25.
 
-4. Densidad mínima: $ 27.48
+Para el cumplimiento del objeto de esta ley, el Poder Judicial del Estado llevará a cabo las siguientes acciones:
 
-B. Inmuebles de uso no habitacional:
+I. Atribuir valor jurídico a la particularidad cultural de los sectores vulnerables en la resolución de juicios y procedimientos jurídicos;
 
-1. Comercio y servicios:
+II. Diseñar programas de atención y apoyo a miembros de sectores vulnerables que requieran acudir a los órganos jurisdiccionales;
 
-a) Barrial: $ 11.87
+III. Garantizar, en el curso de cualquier proceso jurisdiccional, el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua;
 
-b) Central: $ 22.05
+IV. Revisar detenidamente sus procesos, a fin de detectar y promover reformas a los mismos para promover la igualdad y prevenir cualquier tipo de discriminación en ellos, y
 
-c) Regional: $ 29.40
+V. Las demás que señalen esta ley y otras disposiciones aplicables.
 
-d) Servicios a la industria y comercio: $ 12.60
+### CAPÍTULO QUINTO. DE LA DIRECCIÓN PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA
 
-2. Uso turístico:
+###### ARTÍCULO 26.
 
-a) Campestre: $ 35.07
+Corresponde a la Dirección realizar acciones para prevenir toda forma de discriminación e intolerancia, garantizando la igualdad de oportunidades entre las personas.
 
-b) Hotelero densidad alta: $ 37.91
+###### ARTÍCULO 27.
 
-c) Hotelero densidad media: $ 40.06
+Para el cumplimiento de su objeto, la Dirección tendrá, además de las obligaciones contempladas en el Decreto de su creación, las siguientes atribuciones:
 
-d) Hotelero densidad baja: $ 42.84
+I. Diseñar estrategias e instrumentos, así como promover programas, proyectos y acciones para prevenir la discriminación;
 
-e) Hotelero densidad mínima: $ 44.10
+II. Elaborar, proponer y someterlo a aprobación del Titular del Ejecutivo el Programa Estatal para Prevenir la Discriminación;
 
-3. Industria:
+III. Promover instrumentos y mecanismos de protección jurídica para llevar a cabo una política de igualdad de oportunidades, mediante la adopción de las medidas necesarias para que se supriman las disposiciones normativas y las prácticas discriminatorias en todas sus formas;
 
-a) Ligera, riesgo bajo: $ 29.82
+IV. Diseñar, instrumentar y ejecutar programas de capacitación y actualización para los funcionarios públicos sobre la diversidad cultural y las necesidades de los miembros de los sectores vulnerables;
 
-b) Media, riesgo medio: $ 30.03
+V. Establecer los mecanismos adecuados que garanticen la participación de los miembros de sectores vulnerables en los procesos de creación y modificación de leyes, así como en la toma de decisiones respecto de las políticas públicas susceptibles de afectarles;
 
-c) Pesada, riesgo alto: $ 31.19
+VI. Emprender, por si o en coordinación con grupos representativos de los sectores vulnerables, campañas de información en los medios de comunicación, donde se difundan y promuevan contenidos para prevenir prácticas discriminatorias en todas sus formas;
 
-4. Equipamiento y otros:
+VII. Gestionar el establecimiento de las medidas necesarias a efecto de que las personas sujetas a proceso penal, tengan derecho al mismo trato dado a los sentenciados con respecto al trabajo, capacitación para el mismo, educación, instrucción y la individualización del tratamiento;
 
-a) Institucional: $ 24.73
+VIII. Gestionar y promover la cercanía de los internos con sus familiares, para una mejor readaptación;
 
-b) Regional: $ 24.73
+IX. Participar en la elaboración del Plan Estatal de Desarrollo, en el ámbito de su competencia;
 
-c) Espacios verdes: $ 24.73
+X. Verificar que se adopten las medidas y programas para prevenir la discriminación en los órganos públicos, autoridades, personas físicas y morales privadas;
 
-d) Especial: $ 24.73
+XI. Integrar en forma sistemática la información sobre los fenómenos, las prácticas y los actos discriminatorios;
 
-e) Infraestructura: $ 24.73
+XII. Recibir, dar trámite y resolver las quejas y denuncias que se presenten en materia de discriminación en el Estado;
 
-II. Designación de número oficial según el tipo de construcción:
+XIII. Aplicar las medidas administrativas establecidas en la presente ley;
 
-A. Inmuebles de uso habitacional:
+XIV. Llevar a cabo un análisis estadístico de las quejas y denuncias presentadas en materia de discriminación en el Estado. Para ello, las Secretarías y los organismos integrantes de la Administración Pública Estatal, deberán proporcionar la información que para tal efecto les sea solicitada;
 
-1. Densidad alta: $ 7.19
+XV. Enviar a las entidades públicas, así como personas físicas y morales privadas, en los casos que proceda, un informe especial, sobre el comportamiento prohibido detectado con respecto de las prácticas discriminatorias ejercidas, haciendo las observaciones y recomendaciones pertinentes que incidan en la eliminación de dichas prácticas;
 
-2. Densidad media: $ 21.32
+XVI. Proporcionar a las personas que presuntamente hayan sido discriminadas, asesoría respecto de los derechos que les asisten y los medios para hacerlos valer;
 
-3. Densidad baja: $ 22.58
+XVII. Promover la presentación de quejas y denuncias ante las autoridades correspondientes, por actos u omisiones que puedan dar lugar a responsabilidades previstas en la presente ley u otras disposiciones legales;
 
-4. Densidad mínima: $ 29.82
+XVIII. Difundir periódicamente los avances, resultados e impactos de las políticas, programas y acciones en materia de prevención y eliminación de la discriminación, a fin de mantener informada a la sociedad;
 
-B. Inmuebles de uso no habitacional:
+XIX. Divulgar los compromisos asumidos por el Estado Mexicano en los instrumentos internacionales que establecen disposiciones en la materia, así como promover su cumplimento en los diferentes ámbitos de gobierno;
 
-1. Comercios y servicios:
+XX. Investigar y pedir informes a organismos públicos y/o privados, así como a las entidades públicas, cuando sea presentada una queja en su contra, para lo cual estará facultada a realizar visitas a los lugares mencionados;
 
-a) Barrial: $ 19.74
+XXI. Fomentar la innovación en todos los aspectos relacionados con la calidad de vida de las personas con discapacidad. Para ello, se deberá promover la investigación en las áreas relacionadas con la discapacidad en los planes de investigación, desarrollo e innovación;
 
-b) Central: $ 58.80
+XXII. Emitir recomendaciones a organismos públicos y/o privados, en los que se transgreda lo establecido en esta ley, y
 
-c) Regional: $ 65.63
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-d) Servicios a la industria y comercio: $ 21.32
+XXIII. Las demás que sean tendientes a combatir la discriminación, que le otorguen otras disposiciones aplicables o le sean encomendadas por el titular del Ejecutivo por conducto de la Secretaría de Inclusión y Desarrollo Social, para el cumplimiento de su objeto.
 
-2. Uso turístico:
+###### ARTÍCULO 28.
 
-a) Campestre: $ 70.98
+Quien ocupe el cargo de titular de la Dirección tendrá las siguientes atribuciones:
 
-b) Hotelero densidad alta: $ 70.14
+I. Planear, organizar, coordinar, dirigir, controlar y evaluar el funcionamiento de la Dirección, con sujeción a las disposiciones aplicables;
 
-c) Hotelero densidad media: $ 72.35
+II. Presentar a la consideración del Titular del Ejecutivo del Estado, el proyecto del Programa Estatal para Prevenir la Discriminación;
 
-d) Hotelero densidad baja: $ 73.80
+III. Ejercer la representación legal de la Dirección, así como delegarla cuando no exista prohibición expresa para ello;
 
-e) Hotelero densidad mínima: $ 74.50
+IV. Participar en la celebración de acuerdos y convenios de colaboración con organismos nacionales e internacionales para el desarrollo de las atribuciones de la Dirección, de conformidad con las normas aplicables, y
 
-3. Industria:
+V. Las demás que le confieran éste y demás disposiciones aplicables.
 
-a) Ligera, riesgo bajo: $ 54.18
+###### ARTÍCULO 29.
 
-b) Media, riesgo medio: $ 55.76
+La Dirección podrá otorgar un reconocimiento a las instituciones públicas o privadas, así como a los particulares que se distingan por llevar a cabo programas y medidas para prevenir la discriminación en sus prácticas, instrumentos organizativos y presupuestos.
 
-c) Pesada, riesgo alto: $ 60.38
+Este reconocimiento se otorgará a solicitud de los interesados y certificará las organizaciones socialmente distinguidas. Las organizaciones que obtengan esta certificación gozarán de privilegios fiscales según lo permita la normatividad aplicable.
 
-4. Equipamiento y otros:
+### CAPÍTULO SEXTO. DE LO PROCEDIMIENTO DE QUEJA
 
-a) Institucional: $ 23.10
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-b) Regional: $ 23.10
+###### ARTÍCULO 30.
 
-c) Espacios verdes: $ 23.10
+La Dirección admitirá, conocerá y resolverá los procedimientos de queja que se presenten con motivo de conductas, omisiones o prácticas discriminatorias y/o contrarias a lo preceptuado por esta ley, o que se presuman como tales, realizadas por autoridad estatal o municipal, así como por particulares ya sean personas físicas o morales e impondrá en su caso las sanciones y medidas administrativas que esta ley previene.
 
-d) Especial: $ 23.10
+El procedimiento de queja que se tramite ante la Dirección, será breve y sencillo; se regirá por los principios de anti formalidad, inmediatez, concentración, buena fe y suplencia de la queja.
 
-e) Infraestructura: $ 23.10
+Todas las actuaciones practicadas por personal de la Dirección con motivo de la integración de los expedientes de queja deberán constar en actas circunstanciadas.
 
-III. Inspecciones, a solicitud del interesado,
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-sobre el valor que se determine según la
+###### ARTÍCULO 31.
 
-tabla de valores de la fracción I, del
+Los servidores públicos, las autoridades estatales y municipales a que se refiere el artículo 3 de esta ley, así como los particulares, sean personas físicas o morales están obligados tanto a auxiliar al personal de la Dirección en el desempeño de sus funciones, como a rendir los informes que les soliciten en los términos establecidos por la misma ley.
 
-artículo 29 de esta ley, aplicado a construcciones,
+###### ARTÍCULO 32.
 
-de acuerdo con su clasificación y tipo,
+Con el fin de facilitar la presentación de quejas sobre actos discriminatorios, cualquier persona podrá presentarlas ante la Dirección o, en su caso, ante la autoridad que tenga a su alcance, quien a su vez tendrá la obligación de remitirla de forma inmediata a la Dirección.
 
-para verificación de valores sobre inmuebles, el: 10%
+Las organizaciones de la sociedad civil, minorías o colectividades, podrán presentar quejas en los términos de esta ley, para lo cual deberán de designar un representante.
 
-IV. Servicios similares no previstos en este
+###### ARTÍCULO 33.
 
-artículo, por metro cuadrado, de: $ 5.78 a $ 94.50
+Las quejas que se presenten ante la Dirección por presuntas conductas discriminatorias, sólo podrán admitirse dentro del plazo de un año, contado a partir del día siguiente al de la fecha en que el quejoso tenga conocimiento de dichas conductas.
 
-###### Artículo 32.
+###### ARTÍCULO 34.
 
-Por las obras destinadas a casa habitación para uso del propietario que no excedan de 25 salarios mínimos generales elevados al año de la zona económica correspondiente, se pagará el 2% sobre los derechos de licencias y permisos correspondientes, incluyendo alineamiento y número oficial.
+En el supuesto de que se presenten dos o más quejas que se refieran al mismo acto u omisión presuntamente discriminatorio, la Dirección podrá acumular los asuntos para su trámite en un solo expediente. En este caso, el último expediente se acumulará al primero.
 
-Para tener derecho al beneficio señalado en el párrafo anterior, será necesario la presentación del certificado catastral en donde conste que el interesado es propietario de un solo inmueble en este Municipio.
+###### ARTÍCULO 35.
 
-Para tales efectos se requerirá peritaje de la dependencia competente de obras públicas y desarrollo urbano, el cual será gratuito siempre y cuando no se rebase la cantidad señalada.
+La Dirección proporcionará a las personas que presuntamente hayan sido discriminadas, asesoría respecto a los derechos que les asisten y los medios para hacerlos valer y, en su caso, orientará en la defensa de los citados derechos ante las instancias correspondientes.
 
-Quedan comprendidos en este beneficio los supuestos a que se refiere el artículo 147 de la Ley de Hacienda Municipal del Estado de Jalisco.
+###### ARTÍCULO 36.
 
-Los términos de vigencia de las licencias y permisos a que se refiere el artículo 29, serán hasta por 24 meses; transcurrido este término, el solicitante pagará el 10 % del costo de su licencia o permiso por cada bimestre de prorroga; no será necesario el pago de éste cuando se haya dado aviso de suspensión de la obra.
+La Dirección, dentro del ámbito de su competencia, iniciará sus actuaciones a petición de parte. También podrá actuar de oficio en aquellos casos en que el Director, o en su caso, la Comisión prevista en el artículo 9 de esta ley, así lo determinen.
 
-###### Artículo 33.
+###### ARTÍCULO 37.
 
-Las personas físicas o jurídicas que pretendan cambiar el régimen de propiedad individual a condominio, o dividir o transformar terrenos en lotes mediante la realización de obras de urbanización deberán obtener la licencia correspondiente y pagar los derechos conforme a la siguiente:
+En todo lo no previsto en esta ley respecto a los procedimientos que la misma establece, se estará, en lo conducente, a lo dispuesto en el Código Procesal Civil de Coahuila.
 
-TARIFA
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-I. Por solicitud de autorizaciones:
+###### ARTÍCULO 38.
 
-a) Del proyecto definitivo de urbanización,
+Las quejas que se presenten con motivo de un acto, omisión o práctica que contraríe los preceptos de la presente ley, podrán presentarse por escrito con la firma o huella digital y datos generales de la peticionaria, así como la narración de los hechos que las motiven.
 
-por hectárea: $ 908.25
+También podrán formularse verbalmente mediante comparecencia ante la Dirección, vía telefónica o por correo electrónico institucional, en estos supuestos deberán ratificarse dentro de los cinco días hábiles siguientes a su presentación, de lo contrario se tendrán por no presentadas.
 
-II. Por la autorización para urbanizar sobre la superficie total del predio a urbanizar, por metro cuadrado, según su categoría:
+Será obligación de la Dirección, en su caso, suplir las deficiencias de la queja presentada e investigar de inmediato sobre los hechos denunciados.
 
-A. Inmuebles de uso habitacional:
+###### ARTÍCULO 39.
 
-1. Densidad alta: $ 0.58
+Cuando la Dirección considere que la queja no reúne los requisitos señalados para su admisión, o sea evidentemente improcedente o infundada, se rechazará mediante acuerdo motivado y fundado que emitirá en un plazo máximo de cinco días hábiles. La Dirección lo notificará al interesado dentro de los cinco días siguientes a la resolución.
 
-2. Densidad media: $ 0.84
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-3. Densidad baja: $ 1.05
+No se admitirán quejas anónimas ni aquellas que no expongan conductas o prácticas discriminatorias o éstas consistan en la reproducción de una queja ya examinada y resuelta anteriormente.
 
-4. Densidad mínima: $ 1.31
+###### ARTÍCULO 40.
 
-B. Inmuebles de uso no habitacional:
+Cuando la queja no sea competencia de la Dirección, se proporcionará al interesado la orientación para que acuda a la autoridad u órgano que deba conocer del asunto.
 
-1. Comercio y servicios:
+###### ARTÍCULO 41.
 
-a) Barrial: $ 1.68
+Cuando el contenido de la queja sea oscuro, o no puedan deducirse los elementos que permitan la intervención de la Dirección, se notificará por escrito al interesado para que la aclare en un plazo de cinco días hábiles siguientes a la fecha de la notificación; en caso de no hacerlo, después del segundo requerimiento, se archivará el expediente por falta de interés.
 
-b) Central: $ 1.79
+###### ARTÍCULO 42.
 
-c) Regional: $ 2.73
+En ningún momento la presentación de una queja ante la Dirección, interrumpirá la prescripción de las acciones judiciales o recursos administrativos previstos por la legislación correspondiente.
 
-d) Servicios a la industria y comercio: $ 1.68
+###### ARTÍCULO 43.
 
-2.-.Industria $ 1.26
+Una vez presentada la queja, la Dirección deberá, dentro de los tres días siguientes, resolver sobre su admisión.
 
-3. Equipamiento y otros: $ 1.26
+Una vez admitida la queja, la Dirección la notificará dentro de los siguientes tres días hábiles, a la autoridad o particular que se señale como responsable, y solicitará un informe por escrito con relación a los actos u omisiones de carácter discriminatorio que se les atribuyan, el cual deberá rendirse dentro del plazo de cinco días hábiles, contados a partir del mismo día de la notificación.
 
-III. Por la aprobación de cada lote o predio según su categoría:
+###### ARTÍCULO 44.
 
-A. Inmuebles de uso habitacional:
+En el informe, la autoridad o particular hará constar los antecedentes del asunto, los fundamentos y motivaciones de los actos u omisiones que se le imputan, la existencia de los mismos, en su caso, así como los elementos de información que considere necesarios.
 
-1. Densidad alta: $ 5.36
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-2. Densidad media: $ 8.51
+###### ARTÍCULO 45.
 
-3. Densidad baja: $ 25.04
+La omisión de informar dentro del plazo señalado, o dar respuesta parcial, dará lugar a tener por ciertos los hechos mencionados en la queja, salvo prueba en contrario. La Dirección podrá, si lo estima necesario, realizar las investigaciones procedentes en el ámbito de su competencia, ejerciendo las acciones pertinentes.
 
-4. Densidad mínima: $ 37.75
+###### ARTÍCULO 46.
 
-B. Inmuebles de uso no habitacional:
+La Dirección estará impedida para conocer de la reclamación, cuando el presunto agraviado acuda, asimismo, en queja ante la Comisión de Derechos Humanos del Estado de Coahuila o ante la Comisión Nacional de Derechos Humanos, según corresponda.
 
-1. Comercio y servicios:
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-a) Barrial: $ 36.23
+###### ARTÍCULO 47.
 
-b) Central: $ 37.49
+Recibido el informe que rinda la autoridad o particular, la Dirección propondrá a las partes someterse a un procedimiento de conciliación.
 
-c) Regional: $ 39.38
+Lo anterior será notificado a las partes a efecto de que dentro del término de tres días hábiles siguientes al de la notificación, manifiesten su interés para someterse al procedimiento conciliatorio.
 
-d) Servicios a la industria y comercio: $ 36.23
+Si alguna de las partes no acepta la etapa conciliatoria del procedimiento, o es omisa en tal sentido, se pasará a la etapa de la investigación y se procederá a realizar la investigación prevista en el artículo 55 de la presente Ley.
 
-2. Industria: $ 21.32
+La conciliación es la etapa del procedimiento de queja por medio de la cual la Dirección buscará avenir a las partes involucradas a resolverla a través de la adopción de uno o varios acuerdos.
 
-3. Equipamiento y otros: $ 21.32
+Al efecto el personal de la Dirección que desahogue la etapa de conciliación ponderará que las pretensiones y acuerdos que se alcancen sean proporcionales y congruentes con la competencia de la Dirección.
 
-IV. Para la regularización de medidas y linderos, según su categoría:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-A. Inmuebles de uso habitacional:
+###### ARTÍCULO 48.
 
-1. Densidad alta: $ 31.29
+Siempre que las partes en conflicto manifiesten su conformidad, se procurará la celebración de una primera sesión en que se informe a las mismas la naturaleza y fines de la conciliación para posteriormente iniciar con el proceso.
 
-2. Densidad media: $ 93.87
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES SEGUNDA PARTE DEL PRIMER PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-3. Densidad baja: $ 124.53
+Dicha audiencia se celebrará dentro de los diez días hábiles siguientes a aquél en que se notificó a las partes dicha celebración, y tendrá verificativo en las instalaciones de la Dirección.
 
-4. Densidad mínima: $ 140.60
+El citatorio al o los presuntos responsables contendrá el apercibimiento que de no presentarse a la audiencia, se tendrán por ciertos los hechos imputados en su contra, salvo prueba en contrario.
 
-B. Inmuebles de uso no habitacional:
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-1. Comercio y servicios:
+Para el supuesto de que las partes residan fuera del domicilio de la Dirección, la conciliación podrá efectuarse por escrito, medios electrónicos u otros, con la intermediación de la Dirección, comprobándose debidamente la personalidad de las partes, acompañando la documentación de identidad correspondiente.
 
-a) Barrial: $ 156.77
+###### ARTÍCULO 49.
 
-b) Central: $ 168.00
+En caso de que el quejoso no comparezca a la audiencia de conciliación y justifique la causa de su inasistencia dentro del plazo de tres días hábiles posteriores a la fecha de la misma, se señalará por única ocasión nueva fecha para su celebración. En el supuesto de no justificar su inasistencia, se le tendrá por desistido de su queja, archivándose el expediente como asunto concluido.
 
-c) Regional: $ 189.00
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-d) Servicios a la industria y comercio: $ 157.50
+###### ARTÍCULO 50.
 
-2. Industria: $ 94.50
+El conciliador expondrá a las partes un resumen de la queja y los elementos de juicio que se hayan integrado, y los exhortará a resolver sus diferencias, a cuyo efecto propondrá opciones de solución.
 
-3. Equipamiento y otros: $ 168.00
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-V. Por los permisos para constituir en régimen de propiedad o condominio, para cada unidad o departamento:
+###### ARTÍCULO 51.
 
-A. Inmuebles de uso habitacional:
+La audiencia de conciliación podrá ser suspendida por el conciliador o por ambas partes de común acuerdo hasta por una ocasión, debiéndose reanudar, en su caso, dentro de los cinco días hábiles siguientes.
 
-1. Densidad alta:
+###### ARTÍCULO 52.
 
-a) Plurifamiliar horizontal: $ 23.42
+Cuando las partes lleguen a un acuerdo, se celebrará el convenio respectivo, que será revisado por la Dirección; si está apegado a derecho, lo aprobará y dictará el acuerdo correspondiente sin que admita recurso alguno.
 
-b) Plurifamiliar vertical: $ 22.05
+###### ARTÍCULO 53.
 
-2. Densidad media:
+El convenio suscrito por las partes y aprobado por la Dirección causará ejecutoria y traerá aparejada ejecución, la que podrá promoverse ante los tribunales competentes en la vía de apremio o en juicio ejecutivo, a elección del interesado, o por la persona que designe la Dirección, a petición de aquél.
 
-a) Plurifamiliar horizontal: $ 73.50
+###### ARTÍCULO 54.
 
-b) Plurifamiliar vertical: $ 71.00
+En caso de que las partes no lleguen a acuerdo alguno, la Dirección hará de su conocimiento que investigará los hechos motivo de la queja, en los términos de esta ley, e impondrá, en su caso, las medidas administrativas para prevenir y eliminar la discriminación previstas en la misma; asimismo, la Dirección promoverá el fincamiento de las responsabilidades que resulten de la aplicación de otros ordenamientos.
 
-3. Densidad baja:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-a) Plurifamiliar horizontal: $ 84.00
+###### ARTÍCULO 55.
 
-b) Plurifamiliar vertical: $ 79.80
+En caso de no prosperar la conciliación, la Dirección iniciará las investigaciones del caso, para lo cual tendrá las siguientes facultades:
 
-4. Densidad mínima:
+I. Solicitar a las autoridades o particulares a los que se imputen conductas discriminatorias, para que en el plazo de cinco días hábiles siguientes al de la fecha de recepción de la solicitud, rindan sus informes adjuntando los documentos complementarios que justifiquen la legalidad de la conducta reclamada;
 
-a) Plurifamiliar horizontal: $ 169.05
+II. Solicitar de otros particulares, autoridades o servidores públicos, documentos e informes relacionados con el asunto materia de la investigación;
 
-b) Plurifamiliar vertical: $ 204.75
+III. Practicar inspecciones a las autoridades o particulares a las que se imputen conductas discriminatorias, mediante personal técnico o profesional;
 
-B. Inmuebles de uso no habitacional:
+IV. Citar a las personas que deben comparecer como testigos o peritos, y
 
-1. Comercio y servicios:
+V. Las demás que prevea esta ley y demás disposiciones aplicables.
 
-a) Barrial: $ 84.00
+###### ARTÍCULO 56.
 
-b) Central: $ 189.00
+A partir del auto que declare la continuación del proceso, la Dirección tendrá un plazo no mayor a diez días hábiles para la recepción y desahogo de las pruebas que se hayan ofrecido o que la propia Dirección reúna de oficio.
 
-c) Regional: $ 420.00
+###### ARTÍCULO 57.
 
-d) Servicios a la industria y comercio: $ 84.00
+Para documentar debidamente las evidencias, la Dirección podrá solicitar la rendición y desahogo de todas aquellas pruebas que estime necesarias, incluyendo informes de cualquier autoridad, servidor público o particular, con la única condición de que éstas se encuentren previstas como tales por el orden jurídico estatal.
 
-2. Industria:
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
 
-a) Ligera, riesgo bajo: $ 210.00
+Cuando no pueda hacerse uso de medios electrónicos o de cualquier otra tecnología porque la naturaleza de la prueba no lo permita, la rendición y desahogo de las pruebas en las que participe o intervenga un particular se deberá realizar en el lugar de su residencia; sin perjuicio de lo anterior, el quejoso o el particular a quien se impute una conducta discriminatoria, si así lo desea, puede rendir y desahogar las pruebas de su intención en las instalaciones que ocupe la Dirección.
 
-b) Media, riesgo medio: $ 210.00
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
 
-c) Pesada, riesgo alto: $ 210.00
+Para la rendición y desahogo de las pruebas en lugares distintos a las oficinas de la Dirección, ésta podrá establecer convenios y acuerdos de colaboración con las diversas entidades públicas del estado y los municipios para hacer uso de sus instalaciones; asegurando en todo momento las garantías procesales a que tienen derecho las partes involucradas, así como la intermediación de un representante designado por la Dirección para el caso concreto.
 
-3. Equipamiento y otros: $ 252.00
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
 
-VI. Aprobación de subdivisión o relotificación según su categoría, por cada lote resultante:
+En cualquier caso, las actuaciones, los acuerdos y resultados deben constar en el expediente respectivo.
 
-A. Inmuebles de uso habitacional:
+###### ARTÍCULO 58.
 
-1. Densidad alta: $ 35.70
+Las pruebas que presenten los interesados, así como las que de oficio se allegue la Dirección, serán valoradas en su conjunto, de acuerdo con los principios de la lógica, la experiencia y la legalidad, a fin de que puedan producir convicción con relación a los hechos denunciados.
 
-2. Densidad media: $ 103.32
+###### ARTÍCULO 59.
 
-3. Densidad baja: $ 189.00
+La Dirección puede dictar acuerdos de trámite en el curso de sus investigaciones, los cuales serán obligatorios para los servidores públicos o particulares que deban comparecer o aportar información o documentos; su incumplimiento traerá aparejadas las medidas administrativas y responsabilidades señaladas en esta ley y demás disposiciones aplicables.
 
-4. Densidad mínima: $ 252.00
+###### ARTÍCULO 60.
 
-B. Inmuebles de uso no habitacional:
+Desahogadas las pruebas, la Dirección deberá dictar una resolución en la cual se señale si hubo o no conducta discriminatoria y cuales serán las consecuencias de la misma. Dicha resolución se dictará en un plazo no mayor a cinco días hábiles y podrá notificarse por estrados.
 
-1. Comercio y servicios:
+###### ARTÍCULO 61.
 
-a) Barrial: $ 252.00
+Si al concluir la investigación, no se comprobó que las autoridades o particulares hayan cometido las conductas discriminatorias imputadas, la Dirección dictará la resolución por acuerdo de no discriminación.
 
-b) Central: $ 262.50
+###### ARTÍCULO 62.
 
-c) Regional: $ 273.00
+Si al finalizar la investigación, la Dirección comprueba que las autoridades o particulares denunciados cometieron alguna conducta discriminatoria, emitirá resolución por disposición en los términos que procedan, en la cual se señalarán las medidas administrativas a que se refiere el Capítulo Séptimo de esta ley.
 
-d) Servicios a la industria y comercio: $ 252.00
+### CAPÍTULO SÉPTIMO. DE LAS MEDIDAS ADMINISTRATIVAS PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 
-2. Industria: $ 205.80
+###### ARTÍCULO 63.
 
-3. Equipamiento y otros: $ 168.00
+Si de las constancias que obran en el expediente respectivo se desprende que se cometió un acto discriminatorio, se podrá proceder de la siguiente manera:
 
-VII. Aprobación para la subdivisión de unidades departamentales, sujetas al régimen de condominio según el tipo de construcción, por cada unidad resultante:
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-A. Inmuebles de uso habitacional:
+I. Si quien cometió la falta es un Servidor Público, además de las medidas administrativas y de reparación que se le imponga, quedará sujeto a las responsabilidades en que haya incurrido, en los términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza.
 
-1. Densidad alta:
+En este supuesto se dará vista al superior jerárquico del funcionario así como a la Secretaría de Fiscalización y Rendición de Cuentas a efecto de que se integre la resolución al expediente del servidor público.
 
-a) Plurifamiliar horizontal: $ 73.50
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-b) Plurifamiliar vertical: $ 69.62
+II. Si quien cometió la falta es una persona física, se impondrá multa de cien a quinientas veces el salario mínimo vigente en nuestra entidad;
 
-2. Densidad media:
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-a) Plurifamiliar horizontal: $ 178.50
+III. Si la falta es atribuible a una persona moral, se impondrá multa de cien a mil veces el salario mínimo vigente en nuestra entidad.
 
-b) Plurifamiliar vertical: $ 173.25
+Además de las sanciones económicas a que se refieren las fracciones anteriores, la Dirección podrá establecer como sanción cursos, capacitación, talleres o seminarios de sensibilización que promuevan la igualdad de oportunidades a empleados públicos o personas físicas en lo individual o como partes de una persona moral;
 
-3. Densidad baja:
+IV. Revocación de la autorización, permiso o licencia para operación de establecimientos comerciales o de servicios al público;
 
-a) Plurifamiliar horizontal: $ 210.00
+V. Cancelación de la correspondiente concesión o permiso;
 
-b) Plurifamiliar vertical: $ 204.75
+VI. Clausura definitiva, parcial o total, del establecimiento o edificio;
 
-4. Densidad mínima:
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-a) Plurifamiliar horizontal: $ 420.00
+VII. La fijación de carteles en los que se haga alusión a la falta de observancia del derecho a la Igualdad y a la No discriminación en el lugar de que se trate.
 
-b) Plurifamiliar vertical: $ 414.75
+VIII. La supervisión y presencia del personal de la Dirección para promover y verificar la adopción de medidas a favor de la igualdad de oportunidades y la eliminación de toda forma de discriminación en cualquier establecimiento, por el tiempo que disponga la determinación correspondiente;
 
-B. Inmuebles de uso no habitacional:
+IX. La publicación íntegra de la resolución por disposición emitida por la Dirección, y
 
-1. Comercio y servicios:
+X. La publicación o difusión de una síntesis de la recomendación o resolución mediante la que se haya impuesto una sanción administrativa, en los medios impresos o electrónicos de comunicación.
 
-a) Barrial: $ 519.75
+Las sanciones, a criterio de la Dirección, podrán ser conmutadas por horas de servicio comunitario a favor de la igualdad entre las personas.
 
-b) Central: $ 609.00
+Para la aplicación de las sanciones contempladas en las fracciones II y III del presente artículo, la Dirección se auxiliará de la Recaudación de Rentas del Estado, la cual integrará un procedimiento administrativo de ejecución para tal efecto.
 
-c) Regional: $ 1,013.25
+###### ARTÍCULO 64.
 
-d) Servicios a la industria y comercio: $ 519.75
+Las sanciones administrativas consignadas en este capítulo, se impondrán sin perjuicio de la responsabilidad civil o penal a que hubiere lugar.
 
-2. Industria:
+###### ARTÍCULO 65.
 
-a) Ligera, riesgo bajo: $ 609.00
+La Dirección, impondrá las sanciones a que se refiere el presente capítulo basándose para ello en los siguientes criterios:
 
-b) Media, riesgo medio: $ 651.00
+I. El carácter intencional de la conducta discriminatoria;
 
-c) Pesada, riesgo alto: $ 682.50
+II. La gravedad o consecuencias derivadas de la conducta discriminatoria;
 
-3. Equipamiento y otros: $ 651.00
+III. La reincidencia;
 
-VIII. Por la supervisión técnica para
+IV. Las circunstancias socio-económicas del infractor, y
 
-vigilar el debido cumplimiento de las
+V. El número de personas afectadas con la conducta.
 
-normas de calidad y especificaciones
+Se entiende que se incurre en reincidencia, cuando la misma persona o autoridad incide en nueva violación a la prohibición de discriminar.
 
-del proyecto definitivo de urbanización,
+###### ARTÍCULO 66.
 
-y sobre el monto autorizado excepto
+Para efectos de la reparación del daño se estará a lo previsto por el Código Civil del Estado.
 
-las de objetivo social, el: 1.50%
+### CAPÍTULO OCTAVO. DE LA COMISIÓN INTERSECRETARIAL
 
-IX. Por los permisos de subdivisión y relotificación de predios se autorizarán de conformidad con lo señalado en el capítulo VII del título noveno del Código Urbano para el Estado de Jalisco:
+###### ARTÍCULO 67.
 
-a) Por cada predio rústico con superficie hasta de 10,000 m2: $ 351.75
+La Comisión será un órgano consultivo de planeación y supervisión que apoyará a la Dirección para el eficaz cumplimiento de sus objetivos y en la aplicación real y efectiva de la presente ley.
 
-b) Por cada predio rústico con superficie mayor de 10,000 m2: $ 498.75
+###### ARTÍCULO 68.
 
-X. Los términos de vigencia del permiso de urbanización serán hasta por 12 meses, y por cada bimestre adicional se pagará el 10% del permiso autorizado como refrendo del mismo. No será necesario el pago cuando se haya dado aviso de suspensión de obras, en cuyo caso se tomará en cuenta el tiempo no consumido.
+La creación y funcionamiento de la Comisión se hará de acuerdo a lo previsto por el artículo 9 de ésta ley.
 
-XI. En las urbanizaciones promovidas por el poder público, los propietarios o titulares de derechos sobre terrenos resultantes cubrirán, por supervisión, el 1.5% sobre el monto de las obras que deban realizar, además de pagar los derechos por designación de lotes que señala esta ley, como si se tratara de urbanización particular.
-
-La aportación que se convenga para servicios públicos municipales al regularizar los sobrantes, será independiente de las cargas que deban cubrirse como urbanizaciones de gestión privada.
-
-XII. Por el peritaje, dictamen e inspección de
-
-la dependencia municipal de obras públicas
-
-de carácter extraordinario, con excepción de
-
-las urbanizaciones de objetivo social o de interés
-
-social, de: $ 28.35 a $ 81.90
-
-XIII. Los propietarios de predios intraurbanos o predios rústicos vecinos a una zona urbanizada, con superficie no mayor a diez mil metros cuadrados, conforme a lo dispuesto por el capítulo sexto, del título noveno y el artículo 266, del Código Urbano para el Estado de Jalisco, que aprovechen la infraestructura básica existente, pagarán los derechos por cada metro cuadrado, de acuerdo con las siguientes:
-
-TARIFAS
-
-1. En el caso de que el lote sea menor de 1,000 metros cuadrados:
-
-A. Inmuebles de uso habitacional:
-
-1. Densidad alta: $ 6.30
-
-2. Densidad media: $ 8.24
-
-3. Densidad baja: $ 10.40
-
-4. Densidad mínima: $ 12.50
-
-B. Inmuebles de uso no habitacional:
-
-1. Comercio y servicios:
-
-a) Barrial: $ 10.40
-
-b) Central: $ 12.50
-
-c) Regional: $ 13.34
-
-d) Servicios a la industria y comercio: $ 9.98
-
-2. Industria: $ 8.09
-
-3. Equipamiento y otros: $ 9.35
-
-2. En el caso que el lote sea de 1,001 hasta 10,000 metros cuadrados:
-
-A. Inmuebles de uso habitacional:
-
-1. Densidad alta: $ 8.77
-
-2. Densidad media: $ 10.50
-
-3. Densidad baja: $ 12.50
-
-4. Densidad mínima: $ 22.05
-
-B. Inmuebles de uso no habitacional:
-
-1. Comercio y servicios:
-
-a) Barrial: $ 10.40
-
-b) Central: $ 14.39
-
-c) Regional: $ 19.01
-
-d) Servicios a la industria y comercio: $ 15.54
-
-2. Industria: $ 11.24
-
-3. Equipamiento y otros: $ 12.50
-
-XIV. Las cantidades que por concepto de pago de derechos por aprovechamiento de la infraestructura básica existente en el Municipio, han de ser cubiertas por los particulares a la Hacienda Municipal, respecto a los predios que anteriormente hubiesen estado sujetos al régimen de propiedad comunal o ejidal que, siendo escriturados por la Comisión Reguladora de la Tenencia de la Tierra (CORETT) o por el Programa de Certificación de Derechos Ejidales (PROCEDE), estén ya sujetos al régimen de propiedad privada, serán reducidas en atención a la superficie del predio y a su uso establecido o propuesto, previa presentación de su título de propiedad, dictamen de uso de suelo y recibo de pago del impuesto predial según la siguiente tabla de reducciones:
-
-SUPERFICIE CONS- BALDÍO- CONSTRUIDO- BALDÍO-
-
-TRUIDO- USO OTROS OTROS
-
-USO HABITA- USOS USOS
-
-HABITA- CIONAL
-
-CIONAL
-
-0 hasta 200 m2 90% 75% 50% 25%
-
-201 hasta 400 m2 75% 50% 25% 15%
-
-401 hasta 600 m2 60% 35% 20% 12%
-
-601 hasta1,000 m2 50% 25% 15% 10%
-
-Los contribuyentes que se encuentren en el supuesto de este artículo y al mismo tiempo pudieran beneficiarse con la reducción de pago de estos derechos que se establecen en el capítulo primero, de los incentivos fiscales a la actividad productiva de esta ley, podrán optar por beneficiarse por la disposición que represente mayores ventajas económicas.
-
-XV. En el permiso para subdividir en régimen de condominio, por los derechos de cajón de estacionamiento, por cada cajón según el tipo:
-
-A. Inmuebles de uso habitacional:
-
-1. Densidad alta:
-
-a) Plurifamiliar horizontal: $ 75.08
-
-b) Plurifamiliar vertical: $ 70.35
-
-2. Densidad media:
-
-a) Plurifamiliar horizontal: $ 99.75
-
-b) Plurifamiliar vertical: $ 92.40
-
-3. Densidad baja:
-
-a) Plurifamiliar horizontal: $ 133.88
-
-b) Plurifamiliar vertical: $ 117.60
-
-4. Densidad mínima:
-
-a) Plurifamiliar horizontal: $ 173.25
-
-b) Plurifamiliar vertical: $ 152.25
-
-B. Inmuebles de uso no habitacional:
-
-1. Comercio y servicios:
-
-a) Barrial: $ 126.00
-
-b) Central: $ 134.40
-
-c) Regional: $ 155.40
-
-d) Servicios a la industria y comercio: $ 126.00
-
-2. Industria:
-
-a) Ligera, riesgo bajo: $ 89.25
-
-b) Media, riesgo medio: $ 164.85
-
-c) Pesada, riesgo alto: $ 175.35
-
-3. Equipamiento y otros: $ 136.50
-
-### CAPÍTULO SEGUNDO. De los servicios por obra
-
-###### Artículo 34.
-
-Las personas físicas o jurídicas que requieran de los servicios que a continuación se mencionan para la realización de obras, cubrirán previamente los derechos correspondientes conforme a la siguiente:
-
-TARIFA
-
-I. Por medición de terrenos por la dependencia
-
-municipal de obras públicas, por metro cuadrado: $ 0.82
-
-II. Por autorización para romper pavimento, banquetas o machuelos, para la instalación de tomas de agua, descargas o reparación de tuberías o servicios de cualquier naturaleza, por metro lineal:
-
-Tomas y descargas:
-
-a) Por toma corta (hasta tres metros):
-
-1. Empedrado o Terracería: $ 16.28
-
-2. Asfalto: $ 41.48
-
-3. Adoquín: $ 54.08
-
-4. Concreto Hidráulico: $ 60.38
-
-b) Por toma larga, (más de tres metros):
-
-1. Empedrado o Terracería: $ 20.16
-
-2. Asfalto: $ 52.50
-
-3. Adoquín: $ 61.43
-
-4. Concreto Hidráulico: $ 72.98
-
-c) Otros usos por metro lineal:
-
-1. Empedrado o Terracería: $ 17.54
-
-2. Asfalto: $ 45.68
-
-3. Adoquín: $ 51.45
-
-4. Concreto Hidráulico: $ 68.78
-
-La reposición de empedrado o pavimento se realizará exclusivamente por la autoridad municipal, la cual se hará a los costos vigentes de mercado con cargo al propietario del inmueble para quien se haya solicitado el permiso, o de la persona responsable de la obra.
-
-III. Las personas físicas o jurídicas que soliciten autorización para construcciones de infraestructura en la vía pública, pagarán los derechos correspondientes conforme a la siguiente:
-
-1. Líneas ocultas, cada conducto, por metro lineal, en zanja hasta de 50 centímetros de ancho:
-
-TARIFA
-
-a) Tomas y descargas: $ 67.62
-
-b) Comunicación (telefonía, televisión por cable, internet, etc.): $ 6.25
-
-c) Conducción eléctrica: $ 67.62
-
-d) Conducción de combustibles (gaseosos o líquidos): $ 92.40
-
-2. Líneas visibles, cada conducto, por metro lineal:
-
-a) Comunicación (telefonía, televisión por cable, internet, etc.): $ 12.50
-
-b) Conducción eléctrica: $ 8.72
-
-3. Por el permiso para la construcción de registros o túneles de servicio, un tanto del valor comercial del terreno utilizado.
-
-### CAPÍTULO TERCERO. De los servicios de sanidad
-
-###### Artículo 35.
-
-Las personas físicas o jurídicas que requieran de servicios de sanidad en los casos que se mencionan en este capítulo pagarán los derechos correspondientes, conforme a la siguiente:
-
-TARIFA
-
-I. Inhumaciones y reinhumaciones, por cada una:
-
-a) En cementerios municipales: $ 183.75
-
-b) En cementerios concesionados a particulares: $ 236.25
-
-II. Exhumaciones, por cada una:
-
-a) Exhumaciones prematuras, de: $ 210.00 a $ 1,375.00
-
-b) De restos áridos: $ 57.75
-
-III. Los servicios de cremación causarán,
-
-por cada uno, una cuota, de: $ 425.00 a $ 1,711.00
-
-IV. Traslado de cadáveres fuera del
-
-Municipio, por cada uno: $ 57.75
-
-### CAPÍTULO CUARTO. Del aseo público contratado
-
-###### Artículo 36.
-
-Las personas físicas o jurídicas, a quienes se presten los servicios que en este capítulo se enumeran de conformidad con la ley y reglamento en la materia, pagarán los derechos correspondientes conforme a la siguiente:
-
-TARIFA
-
-I. Por recolección de basura, desechos o
-
-desperdicios no peligrosos en vehículos
-
-del Ayuntamiento, en los términos de lo
-
-dispuesto en los reglamentos municipales
-
-respectivos, por cada metro cúbico: $ 15.00
-
-II. Por recolección y transporte para su
-
-incineración o tratamiento térmico de
-
-residuos biológico infecciosos, previo dictamen
-
-de la autoridad correspondiente en vehículos
-
-del Ayuntamiento, por cada bolsa de plástico
-
-de calibre mínimo 200, que cumpla con
-
-lo establecido en la NOM-087-ECOL/SSA1-2000,
-
-de: $ 112.67 a $ 136.50
-
-III. Por recolección y transporte para su incineración o tratamiento térmico de residuos biológicos infecciosos, previo dictamen de la autoridad correspondiente en vehículos del Ayuntamiento, por cada recipiente rígido de polipropileno, que cumpla con lo establecido en la NOM-087-ECOL/SSA1-2000:
-
-a) Con capacidad de hasta 5.0 litros: $ 42.00
-
-b) Con capacidad de más de 5.0 litros hasta 9.0 litros: $ 42.00
-
-c) Con capacidad de más de 9.0 litros hasta 12.0 litros: $ 73.50
-
-d) Con capacidad de más de 12.0 litros hasta 19.0 litros: $ 112.00
-
-IV. Por limpieza de lotes baldíos, jardines,
-
-prados, banquetas y similares, en rebeldía
-
-una vez que se haya agotado el proceso
-
-de notificación correspondiente de los usuarios
-
-obligados a mantenerlos limpios, quienes
-
-deberán pagar el costo del servicio dentro
-
-de los cinco días posteriores a su notificación,
-
-por cada metro cúbico de basura o desecho: $ 43.00
-
-V. Cuando se requieran servicios de camiones
-
-de aseo en forma exclusiva, por cada flete: $ 186.90
-
-VI. Por permitir a particulares que utilicen
-
-los tiraderos municipales, por\cada metro cúbico: $ 56.00
-
-VII. Por otros servicios similares no especificados
-
-en este capítulo, de: $ 71.00 a $ 357.00
-
-### CAPÍTULO QUINTO. Del agua y alcantarillado
-
-###### Artículo 37.
-
-Quienes se beneficien directa o indirectamente con los servicios de agua potable, alcantarillado y saneamiento, que el Sistema proporciona, bien por que reciban todos o alguno de ellos o porque por el frente de los inmuebles que usen o posean bajo cualquier título, estén instaladas redes de agua potable o alcantarillado, cubrirán los derechos correspondientes, conforme a la tarifa mensual establecida en esta Ley.
-
-###### Artículo 38.
-
-Los servicios que el Sistema proporciona, deberán de sujetarse al régimen de servicio medido, y en tanto no se instale el medidor, al régimen de cuota fija, mismos que se consignan en el Reglamento para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del municipio.
-
-###### Artículo 39.
-
-Son usos correspondientes a la prestación de los servicios de agua potable, alcantarillado y saneamiento a que se refiere esta Ley, los siguientes:
-
-I. Habitacional;
-
-II. Mixto comercial;
-
-III. Mixto rural;
-
-IV. Industrial;
-
-V. Comercial;
-
-VI Servicios de hotelería; y
-
-VII En Instituciones Públicas o que presten servicios públicos.
-
-En el Reglamento para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del municipio, se detallan sus características y la connotación de sus conceptos.
-
-###### Artículo 40.
-
-Los usuarios deberán realizar el pago por el uso de los servicios, dentro de los diez días siguientes a la fecha de la facturación mensual correspondiente.
-
-###### Artículo 41.
-
-Las tarifas por el suministro de agua potable bajo el régimen de cuota fija en la cabecera municipal se basan en la clasificación establecida en el Reglamento de Prestación de los Servicios del Municipio de San Martín de Hidalgo y serán:
-
-Habitacional:
-
-a) Mínima $ 65.00
-
-b) Genérica $ 74.55
-
-c) Alta $ 90.00
-
-No Habitacional:
-
-a) Secos $ 69.83
-
-b) Alta $ 97.65
-
-c) Intensiva $ 195.00
-
-###### Artículo 42.
-
-Las tarifas por el suministro de agua potable bajo el régimen de servicio medido en la cabecera municipal se basan en la clasificación establecida en el Reglamento de Prestación de los Servicios del Municipio de San Martín de Hidalgo, Jalisco y serán:
-
-I. Habitacional:
-
-Cuando el consumo mensual no rebase los 12 m3, se aplicará la tarifa básica de $ 53.55, y por cada metro cúbico adicional se sumará la tarifa correspondiente de acuerdo a los siguientes rangos:
-
-De 13 a 20 m3 $ 3.00
-
-De 21 a 30 m3 $ 3.15
-
-De 31 a 50 m3 $ 3.57
-
-De 51 a 70 m3 $ 3.78
-
-De 71 a 100 m3 $ 6.98
-
-De 101 a 150 m3 $ 7.50
-
-De 151 m3 en adelante $ 9.75
-
-II. Mixto comercial:
-
-Cuando el consumo mensual no rebase los 12 m3, se aplicará la tarifa básica de $58.00 y por cada metro cúbico adicional se sumará la tarifa correspondiente de acuerdo a los siguientes rangos:
-
-De 13 a 20 m3 $ 4.73
-
-De 21 a 30 m3 $5.15
-
-De 31 a 50 m3 $ 5.25
-
-De 51 a 70 m3 $ 5.78
-
-De 71 a 100 m3 $ 6.98
-
-De 101 a 150 m3 $ 7.50
-
-De 151 m3 en adelante $ 9.75
-
-III. Mixto rural:
-
-Cuando el consumo mensual no rebase los 12 m3, se aplicará la tarifa básica de $56.00 y por cada metro cúbico adicional se sumará la tarifa correspondiente de acuerdo a los siguientes rangos:
-
-De 13 a 20 m3 $ 4.41
-
-De 21 a 30 m3 $ 4.73
-
-De 31 a 50 m3 $ 5.04
-
-De 51 a 70 m3 $ 5.25
-
-De 71 a 100 m3 $ 6.98
-
-De 101 a 150 m3 $ 7.50
-
-De 151 m3 en adelante $ 9.75
-
-IV. Industrial:
-
-Cuando el consumo mensual no rebase los 12 m3, se aplicará la tarifa básica de $66.00 y por cada metro cúbico adicional se sumará la tarifa correspondiente de acuerdo a los siguientes rangos:
-
-De 13 a 20 m3 $ 7.25
-
-De 21 a 30 m3 $ 7.60
-
-De 31 a 50 m3 $ 7.98
-
-De 51 a 70 m3 $ 8.30
-
-De 71 a 100 m3 $ 8.90
-
-De 101 a 150 m3 $ 9.24
-
-De 151 m3 en adelante $ 9.75
-
-V. Comercial:
-
-Cuando el consumo mensual no rebase los 12 m3, se aplicará la tarifa básica de $60.90 y por cada metro cúbico adicional se sumará la tarifa correspondiente de acuerdo a los siguientes rangos:
-
-De 13 a 20 m3 $ 5.25
-
-De 21 a 30 m3 $ 5.55
-
-De 31 a 50 m3 $ 5.75
-
-De 51 a 70 m3 $ 6.30
-
-De 71 a 100 m3 $ 6.98
-
-De 101 a 150 m3 $ 7.50
-
-De 151 m3 en adelante $ 9.75
-
-VI. Servicios de hotelería:
-
-Cuando el consumo mensual no rebase los 12 m3, se aplicará la tarifa básica de $65.00 y por cada metro cúbico adicional se sumará la tarifa correspondiente de acuerdo a los siguientes rangos:
-
-De 13 a 20 m3 $ 6.62
-
-De 21 a 30 m3 $ 7.00
-
-De 31 a 50 m3 $ 7.50
-
-De 51 a 70 m3 $ 7.98
-
-De 71 a 100 m3 $ 8.90
-
-De 101 a 150 m3 $ 9.24
-
-De 151 m3 en adelante $ 9.75
-
-VII. En Instituciones Públicas o que presten servicios públicos:
-
-Cuando el consumo mensual no rebase los 12 m3, se aplicará la tarifa básica de $64.00 por cada metro cúbico adicional se sumará la tarifa correspondiente de acuerdo a los siguientes rangos:
-
-De 13 a 20 m3 $ 5.78
-
-De 21 a 30 m3 $ 6.09
-
-De 31 a 50 m3 $ 6.30
-
-De 51 a 70 m3 $ 6.62
-
-De 71 a 100 m3 $ 7.35
-
-De 101 a 150 m3 $ 7.50
-
-De 151 m3 en adelante $ 9.75
-
-###### Artículo 43.
-
-En las localidades las tarifas para el suministro de agua potable para uso Habitacional, bajo la modalidad de cuota fija, serán:
-
-LOCALIDADES TARIFA
-
-BUENAVISTA $75.00
-
-CRUCERO DE SANTA MARÍA $59.12
-
-SAN ISIDRO PALO VERDE $48.83
-
-SANTA CRUZ DE LAS FLORES $ 48.83
-
-EL SALITRE $58.38
-
-TEPEHUAJE DE MORELOS $77.18
-
-TRAPICHE DEL ABRA $36.75
-
-A las tomas que den servicio para un uso diferente al Habitacional, se les incrementará un 20% de las tarifas referidas en la tabla anterior.
-
-###### Artículo 44.
-
-Cuando los edificios sujetos al régimen de propiedad en condominio, tengan una sola toma de agua y una sola descarga de aguas residuales, cada usuario pagará una cuota fija, o proporcional si se tiene medidor, de acuerdo a las dimensiones del departamento, piso, oficina o local que posean, incluyendo el servicio administrativo y áreas de uso común, de acuerdo a las condiciones que contractualmente se establezcan.
-
-###### Artículo 45.
-
-En la cabecera municipal y las delegaciones, los predios baldíos pagarán mensualmente la cuota base de servicio medido para usuarios de tipo Habitacional.
-
-###### Artículo 46.
-
-Quienes se beneficien directa o indirectamente de los servicios de agua potable y/o alcantarillado pagarán, adicionalmente, un 20% sobre los derechos que correspondan, cuyo producto será destinado a la construcción, operación y mantenimiento de infraestructura para el saneamiento de aguas residuales.
-
-Para el control y registro diferenciado de este derecho, el Ayuntamiento (o el Organismo Operador, en su caso), debe abrir una cuenta productiva de cheques, en el banco de su elección. La cuenta bancaria será exclusiva para el manejo de estos ingresos y los rendimientos financieros que se produzcan.
-
-###### Artículo 47.
-
-Quienes se beneficien con los servicios de agua potable y/o alcantarillado, pagarán adicionalmente el 3% sobre el resultado de los derechos de agua más el 20% del saneamiento, cuyo producto será destinado a la infraestructura, así como al mantenimiento de las redes de agua potable existentes.
-
-Para el control y registro diferenciado de este derecho, el Ayuntamiento (o el Organismo Operador, en su caso), debe abrir una cuenta productiva de cheques, en el banco de su elección. La cuenta bancaria será exclusiva para el manejo de estos ingresos y los rendimientos financieros que se produzcan.
-
-###### Artículo 48.
-
-En la cabecera municipal, cuando existan propietarios o poseedores de predios o inmuebles destinados a uso habitacional, que se abastezcan del servicio de agua de fuente distinta a la proporcionada por el Organismo Operador, pero que hagan uso del servicio de alcantarillado, cubrirán el 30% del régimen de cuota fija que resulte aplicable de acuerdo a la clasificación establecida en este instrumento.
-
-En las delegaciones cubrirán el 30% de la tarifa mínima aplicable para uso Habitacional, ya sea de cuota fija o servicio medido.
-
-###### Artículo 49.
-
-Cuando existan propietarios o poseedores de predios o inmuebles para uso no Habitacional, que se abastezcan del servicio de agua de fuente distinta a la proporcionada por el Sistema, pero que hagan uso del servicio de alcantarillado, cubrirán el 25% de lo que resulte de multiplicar el volumen extraído reportado a la Comisión Nacional del Agua, por la tarifa correspondiente a servicio medido, de acuerdo a la clasificación establecida en este instrumento.
-
-###### Artículo 50.
-
-Los usuarios de los servicios que efectúen el pago correspondiente al año 2010 en una sola exhibición, se les concederán las siguientes reducciones:
-
-a) Si efectúan el pago antes del día 1 de marzo del año 2010, el 15%.
-
-b) Si efectúan el pago antes del día 1 de mayo del año 2010, el 5%.
-
-###### Artículo 51.
-
-A los usuarios de tipo Habitacional que acrediten con base en lo dispuesto en el Reglamento de Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio, tener la calidad de jubilados, pensionados, discapacitados, viudos o que tengan 60 años o más, serán beneficiados con un subsidio del 50% de las tarifas por uso de los servicios, que en este capítulo se señalan siempre y cuando estén al corriente en sus pagos, cubran en una sola exhibición la totalidad del pago correspondiente al año 2010 y no exceden de 12 m3 su consumo mensual, suficiente para cubrir sus necesidades básicas.
-
-###### Artículo 52.
-
-Por derechos de infraestructura de agua potable y saneamiento para la incorporación de nuevas urbanizaciones, conjuntos habitacionales, desarrollos industriales y comerciales y conexión de predios ya urbanizados, pagarán por única vez, por cada unidad de consumo, de acuerdo a las siguientes características:
-
-1. $3,540.00, con un volumen máximo de consumo mensual autorizado de 17 m3, los predios que:
-
-a) No cuenten con infraestructura hidráulica dentro de la vivienda, establecimiento u oficina, ó
-
-b) La superficie de la construcción no rebase los 60m2.
-
-Para el caso de las viviendas, establecimientos u oficinas, en condominio vertical, la superficie a considerar será la habitable.
-
-En comunidades rurales, para uso Habitacional, la superficie máxima del predio a considerar será de 200 m2, o la superficie construida no sea mayor a 100 m2.
-
-2. $7,080.00, con un volumen máximo de consumo mensual autorizado de 33 m3, los predios que:
-
-Cuenten con infraestructura hidráulica dentro de la vivienda, establecimiento u oficina, o
-
-La superficie de la construcción sea superior a los 60 m2.
-
-Para el caso de las viviendas, establecimientos u oficinas en condominio vertical (departamentos), la superficie a considerar será la habitable.
-
-En comunidades rurales, para uso Habitacional, la superficie del predio rebase los 200 m2, o la superficie construida sea mayor a 100 m2.
-
-3. $8,495.00, con un volumen máximo de consumo mensual autorizado de 39 m3, en la cabecera municipal, los predios que cuenten con infraestructura hidráulica interna y tengan:
-
-a) Una superficie construida mayor a 250 m2, o
-
-b) Jardín con una superficie superior a los 50 m2.
-
-Para el caso de los usuarios de uso distinto al Habitacional, en donde el agua potable sea parte fundamental para el desarrollo de sus actividades, se realizará estudio específico para determinar la demanda requerida en litros por segundo, siendo la cuota de $566,436.00 por cada litro por segundo demandado.
-
-Cuando el usuario rebase por 6 meses consecutivos el volumen autorizado, se le cobrará el excedente del que esté haciendo uso, basando el cálculo en la demanda adicional en litros por segundo, por el costo señalado en el párrafo anterior.
-
-###### Artículo 53.
-
-Cuando un usuario demande agua potable en mayor cantidad de la autorizada, deberá cubrir el excedente a razón de $566,436.00 el litro por segundo, además del costo de las obras e instalaciones complementarias a que hubiere lugar.
-
-###### Artículo 54.
-
-Por la conexión o reposición de toma de agua potable y/o descarga de drenaje, los usuarios deberán pagar, además de la mano de obra y materiales necesarios para su instalación, las siguientes cuotas:
-
-I. Toma de agua:
-
-II. Toma de ½": (Longitud 6 metros) $ 541.80
-
-III. Toma de ¾" $ 662.55
-
-IV. Medidor de ½": $ 481.95
-
-Medidos de ¾". $ 722.00
-
-Descarga de drenaje:
-
-1. Diámetro de 6": (Longitud 6 metros) $ 662.55
-
-Las cuotas por conexión o reposición de tomas, descargas y medidores que rebasen las especificaciones establecidas, deberán ser evaluadas por el Sistema, en el momento de solicitar la conexión.
-
-I (SIC). Artículo 55. Las cuotas por los siguientes servicios serán:
-
-II (SIC). Suspensión o reconexión de cualesquiera de los servicios: $ 421.00
-
-III. Conexión de toma y/o descarga provisionales: $ 1,190.00
-
-Expedición de certificados de factibilidad: $ 301.00
-
-### CAPÍTULO SEXTO. Del rastro
-
-###### Artículo 56.
-
-Las personas físicas o jurídicas que pretendan realizar la matanza de cualquier clase de animales para consumo humano, ya sea dentro del rastro municipal o fuera de él, deberán obtener la autorización correspondiente y pagar los derechos, conforme a las siguientes:
-
-CUOTAS
-
-I. Por la autorización de matanza de ganado:
-
-a) En el rastro municipal, por cabeza de ganado:
-
-1. Vacuno: $ 68.57
-
-2. Terneras: $ 50.56
-
-3. Porcinos: $ 29.00
-
-4. Ovicaprino y becerros de leche: $ 12.60
-
-5. Caballar, mular y asnal: $ 12.60
-
-b) En rastros concesionados a particulares, incluyendo establecimientos T.I.F., por cabeza de ganado, se cobrará el 50% de la tarifa señalada en el inciso a).
-
-c) Fuera del rastro municipal para consumo familiar, exclusivamente:
-
-1. Ganado vacuno, por cabeza: $ 68.57
-
-2. Ganado porcino, por cabeza: $ 27.72
-
-3. Ganado ovicaprino, por cabeza: $ 13.00
-
-II. Por autorizar la salida de animales del rastro para envíos fuera del Municipio:
-
-a) Ganado vacuno, por cabeza: $ 7.88
-
-b) Ganado porcino, por cabeza: $ 7.88
-
-c) Ganado ovicaprino, por cabeza: $ 5.99
-
-III. Por autorizar la introducción de ganado al rastro, en horas extraordinarias:
-
-a) Ganado vacuno, por cabeza: $ 9.24
-
-b) Ganado porcino, por cabeza: $ 9.24
-
-IV. Sellado de inspección sanitaria:
-
-a) Ganado vacuno, por cabeza: $ 3.57
-
-b) Ganado porcino, por cabeza: $ 3.57
-
-c) Ganado ovicaprino, por cabeza: $ 2.00
-
-d) De pieles que provengan de otros municipios:
-
-1. De ganado vacuno, por kilogramo: $ 2.00
-
-2. De ganado de otra clase, por kilogramo: $ 2.00
-
-V. Acarreo de carnes en camiones del Municipio:
-
-a) Por cada res, dentro de la cabecera municipal: $ 27.70
-
-b) Por cada res, fuera de la cabecera municipal: $ 39.90
-
-c) Por cada cuarto de res o fracción: $ 7.50
-
-d) Por cada cerdo, dentro de la cabecera municipal: $ 7.50
-
-e) Por cada cerdo, fuera de la cabecera municipal: $ 18.00
-
-f) Por cada fracción de cerdo: $ 5.99
-
-g) Por cada cabra o borrego: $ 3.68
-
-h) Por cada menudo: $ 3.00
-
-i) Por varilla, por cada fracción de res: $ 12.00
-
-j) Por cada piel de res: $ 1.89
-
-k) Por cada piel de cerdo: $ 1.89
-
-l) Por cada piel de ganado cabrío: $ 1.89
-
-m) Por cada kilogramo de cebo: $ 1.89
-
-VI. Por servicios que se presten en el interior del rastro municipal por personal pagado por el Ayuntamiento:
-
-a) Por matanza de ganado:
-
-1. Vacuno, por cabeza: $ 33.70
-
-2. Porcino, por cabeza: $ 21.68
-
-3. Ovicaprino, por cabeza: $ 19.00
-
-b) Por el uso de corrales, diariamente:
-
-1. Ganado vacuno, por cabeza: $ 7.82
-
-2. Ganado porcino, por cabeza: $ 5.99
-
-3. Embarque y salida de ganado porcino, por cabeza: $ 5.99
-
-c) Enmantado de canales de ganado vacuno, por cabeza: $ 12.00
-
-d) Encierro de cerdos para el sacrificio en horas
-
-extraordinarias, además de la mano de obra
-
-correspondiente, por cabeza: $ 12.00
-
-e) Por refrigeración, cada veinticuatro horas:
-
-1. Ganado vacuno, por cabeza: $ 11.50
-
-2. Ganado porcino y ovicaprino, por cabeza: $ 9.66
-
-f) Salado de pieles, aportando la sal el interesado, por piel: $ 7.88
-
-g) Fritura de ganado porcino, por cabeza: $ 9.66
-
-La comprobación de propiedad de ganado y permiso sanitario, se exigirá aún cuando aquel no se sacrifique en el rastro municipal.
-
-VII. Venta de productos obtenidos en el rastro:
-
-a) Harina de sangre, por kilogramo: $ 2.73
-
-b) Estiércol, por tonelada: $ 10.82
-
-VIII. Por autorización de matanza de aves, por cabeza:
-
-a) Pavos: $ 1.37
-
-b) Pollos y gallinas: $ 1.37
-
-Este derecho se causará aún si la matanza se realiza en instalaciones particulares; y
-
-IX. Por otros servicios que preste el rastro
-
-municipal, diferentes a los señalados en este
-
-capítulo, por cada uno, de: $ 15.23 a $ 39.90
-
-Para los efectos de la aplicación de este capítulo, los horarios de labores al igual que las cuotas correspondientes a los servicios, deberán estar a la vista del público. El horario será:
-
-De lunes a viernes, de 8:00 a 15:00 horas.
-
-### CAPÍTULO SÉPTIMO. Del Registro Civil
-
-###### Artículo 57.
-
-Las personas físicas que requieran los servicios del registro civil, en los términos de este capítulo, pagarán previamente los derechos correspondientes, conforme a la siguiente:
-
-TARIFA
-
-I. En las oficinas, fuera del horario normal:
-
-a) Matrimonios, cada uno: $ 199.50
-
-b) Los demás actos, excepto defunciones, cada uno: $ 105.00
-
-II. A domicilio:
-
-a) Matrimonios en horas hábiles de oficina, cada uno: $ 399.00
-
-b) Matrimonios en horas inhábiles de oficina, cada uno: $ 567.00
-
-c) Los demás actos en horas hábiles de oficina, cada uno: $ 283.50
-
-d) Los demás actos en horas inhábiles de oficina, cada uno: $ 472.50
-
-III. Por las anotaciones e inserciones en las actas del registro civil se pagará el derecho conforme a las siguientes tarifas:
-
-a) De cambio de régimen patrimonial en el matrimonio: $ 105.00
-
-b) De actas de defunción de personas
-
-fallecidas fuera del Municipio o en
-
-el extranjero, de: $ 110.00 a $ 210.00
-
-IV. Por las anotaciones marginales de reconocimiento y legitimación de descendientes, así como de matrimonios colectivos, no se pagarán los derechos a que se refiere este capítulo.
-
-Para los efectos de la aplicación de este capítulo, los horarios de labores al igual que las cuotas correspondientes a los servicios, deberán estar a la vista del público. El horario será:
-
-De lunes a viernes de 9:00 a 15:00 horas.
-
-### CAPÍTULO OCTAVO. De las certificaciones
-
-###### Artículo 58.
-
-Los derechos por este concepto se causarán y pagarán, previamente, conforme a la siguiente:
-
-TARIFA
-
-I. Certificación de firmas, por cada una: $ 26.00
-
-II. Expedición de certificados, certificaciones,
-
-constancias o copias certificadas inclusive
-
-de actos del registro civil, por cada uno: $ 42.00
-
-III. Certificado de inexistencia de actas
-
-del registro civil, por cada uno: $ 53.55
-
-IV. Extractos de actas, por cada uno: $ 37.80
-
-V. Cuando el certificado, copia o informe
-
-requiera búsqueda de antecedentes para
-
-dar cumplimiento a lo estipulado en la Ley
-
-de Transparencia, excepto copias del registro
-
-civil, por cada uno: $ 42.00
-
-VI. Certificado de residencia, por cada uno: $ 68.25
-
-VII. Certificados de residencia para fines
-
-de naturalización, regularización de situación
-
-migratoria y otros fines análogos, por cada uno: $ 346.50
-
-VIII. Certificado médico prenupcial, por cada una de las partes: $ 231.00
-
-IX. Certificado expedido por el médico veterinario
-
-zootecnista, sobre actividades del rastro municipal,
-
-por cada uno, de: $ 192.00 a $ 203.00
-
-X. Certificado de alcoholemia en los servicios médicos municipales:
-
-a) En horas hábiles, por cada uno: $ 181.65
-
-b) En horas inhábiles, por cada uno: $ 231.00
-
-XI. Certificaciones de habitabilidad de inmuebles, según el tipo de construcción, por cada uno:
-
-a) Densidad alta: $ 9.98
-
-b) Densidad media: $ 18.69
-
-c) Densidad baja: $ 19.95
-
-d) Densidad mínima: $ 29.40
-
-XII. Expedición de planos por la dependencia
-
-municipal de obras públicas, por cada uno: $ 78.75
-
-XIII. Certificación de planos, por cada uno: $ 70.00
-
-XIV. Dictámenes de usos y destinos: $ 997.50
-
-XV. Dictamen de trazo, usos y destinos: $ 1,900.00
-
-XVI. Certificado de operatividad a los establecimientos destinados a presentar espectáculos públicos, de acuerdo a lo previsto en el artículo 6, fracción VI, de esta ley, según su capacidad:
-
-a) Hasta 250 personas: $ 315.00
-
-b) De más de 250 a 1,000 personas: $ 362.00
-
-c) De más de 1,000 a 5,000 personas: $ 520.00
-
-d) De más de 5,000 a 10,000 personas: $ 1,039.50
-
-e) De más de 10,000 personas: $ 2,074.00
-
-XVII. De la resolución administrativa
-
-derivada del trámite de divorcio administrativo: $ 78.75
-
-XVIII. Los certificados o autorizaciones
-
-especiales no previstos en este capítulo,
-
-causarán derechos, por cada uno: $ 88.00
-
-Los documentos a que alude el presente artículo se entregarán en un plazo de 3 días contados a partir del día siguiente al de la fecha de recepción de la solicitud acompañada del recibo de pago correspondiente.
-
-A petición del interesado, dichos documentos se entregarán en un plazo no mayor de 24 horas, cobrándose el doble de la cuota correspondiente.
-
-###### Artículo 59.
-
-Las personas físicas o jurídicas que requieran de los servicios de la dirección o área de catastro que en este capítulo se enumeran, pagarán los derechos correspondientes conforme a las siguientes:
-
-TARIFAS
-
-I. Copia de planos:
-
-a) De manzana, por cada lámina: $ 73.00
-
-b) Plano general de población o de zona
-
-catastral, por cada lámina: $ 84.00
-
-c) De plano o fotografía de ortofoto: $ 142.00
-
-d) Juego de planos, que contienen las
-
-tablas de valores unitarios de terrenos y
-
-construcciones de las localidades que
-
-comprendan el Municipio: $ 310.00
-
-e) Demás documentos en copia simple. $ 16.80
-
-Cuando a los servicios a que se refieren
-
-estos incisos se soliciten en papel denominado
-
-maduro, se cobrarán además de las cuotas previstas: $ 61.00
-
-II. Certificaciones catastrales:
-
-a) Certificado de inscripción de propiedad, por cada predio: $ 54.60
-
-Si además se solicita historial, se cobrará por
-
-cada búsqueda de antecedentes adicionales: $ 35.70
-
-b) Certificado de no-inscripción de propiedad: $ 35.70
-
-c) Por certificación en copias, por cada hoja: $ 35.70
-
-d) Por certificación en planos: $ 60.90
-
-A los pensionados, jubilados, discapacitados y los que obtengan algún crédito del INFONAVIT, o de la Dirección de Pensiones del Estado, que soliciten los servicios señalados en esta fracción serán beneficiados con el 50% de reducción de los derechos correspondientes:
-
-III. Informes.
-
-a) Informes catastrales, por cada predio: $ 35.70
-
-b) Expedición de fotocopias del microfilme,
-
-por cada hoja simple: $ 28.00
-
-c) Informes catastrales, por datos técnicos,
-
-por cada predio: $ 60.90
-
-IV. Deslindes catastrales:
-
-a) Por la expedición de deslindes de predios urbanos, con base en planos catastrales existentes:
-
-1. De 1 a 1,000 metros cuadrados: $ 84.00
-
-2. De 1,000 metros cuadrados en adelante
-
-se cobrará la cantidad anterior, más por cada
-
-100 metros cuadrados o fracción excedente: $ 2.20
-
-b) Por la revisión de deslindes de predios rústicos:
-
-1. De 1 a 10,000 metros cuadrados: $ 144.00
-
-2. De más de 10,000 hasta 50,000 metros cuadrados: $ 216.00
-
-3. De más de 50,000 hasta 100,000 metros cuadrados: $ 288.00
-
-4. De más de 100,000 metros cuadrados en adelante: $ 364.00
-
-c) Por la práctica de deslindes catastrales realizados por el área de catastro en predios rústicos, se cobrará el importe correspondiente a 20 veces la tarifa anterior, más en su caso, los gastos correspondientes a viáticos del personal técnico que deberá realizar estos trabajos.
-
-V. Por cada dictamen de valor practicado por el área de catastro:
-
-a) Hasta $30,000 de valor: $ 289.00
-
-b) De $ 30,000.01 a $ 1, 000,000.00 se cobrará
-
-la cantidad del inciso anterior, más el 2 al millar
-
-sobre el excedente a $30,000.00.
-
-c) De $ 1, 000,000.01 a $ 5, 000,000.00 se cobrará
-
-la cantidad del inciso anterior más el 1.6 al
-
-millar sobre el excedente a $1, 000,000.00.
-
-d) De $ 5, 000,000.01 en adelante se cobrará la
-
-cantidad del inciso anterior más el 0.8 al millar
-
-sobre el excedente a $5, 000,000.00.
-
-VI. Avalúos Técnicos:
-
-a) Por la elaboración de avalúos técnicos en el
-
-área de catastro. $ 84.00
-
-b) Por avalúos técnicos en los lotes aprobados en los
-
-fraccionamientos. $ 84.00
-
-c) Por la revisión y autorización del área de
-
-catastro, de cada avalúo practicado por otras
-
-instituciones o valuadores independientes
-
-autorizados por el área de catastro: $ 84.00
-
-VII. No se causará el pago de derechos por servicios Catastrales:
-
-a) Cuando las certificaciones, copias certificadas o informes se expidan por las autoridades, siempre y cuando no sean a petición de parte;
-
-b) Las que estén destinadas a exhibirse ante los Tribunales del Trabajo, los Penales o el Ministerio Público, cuando este actúe en el orden penal y se expidan para el juicio de amparo;
-
-c) Las que tengan por objeto probar hechos relacionados con demandas de indemnización civil provenientes de delito;
-
-d) Las que se expidan para juicios de alimentos, cuando sean solicitados por el acreedor alimentista.
-
-e) Cuando los servicios se deriven de actos, contratos de operaciones celebradas con la intervención de organismos públicos de seguridad social, o la Comisión para la Regularización de la Tenencia de la Tierra, la Federación, Estado o Municipios.
-
-Estos documentos se entregarán en un plazo máximo de 3 días, contados a partir del día siguiente de recepción de la solicitud, acompañada del recibo de pago correspondiente.
-
-### CAPÍTULO NOVENO. De los derechos no especificados
-
-###### Artículo 60.
-
-Los otros servicios que provengan de la autoridad municipal, que no contravengan las disposiciones del Convenio de Coordinación Fiscal en materia de derechos, y que no estén previstos en este título, se cobrarán según la importancia del servicio que se preste, conforme a la siguiente:
-
-TARIFA
-
-I. Servicios que se presten en horas hábiles,
-
-por cada uno, de: $ 71.00 a $ 546.00
-
-II. Servicios que se presten en horas inhábiles,
-
-por cada uno, de: $ 90.00 a $1,045.00
-
-III. Servicio de poda o tala de árboles:
-
-a) Poda de árboles hasta de 10 metros de altura,
-
-por cada uno: $ 494.00
-
-b) Poda de árboles de más de 10 metros de altura,
-
-por cada uno: $ 882.0
-
-c) Derribo de árboles de hasta 10 metros de altura,
-
-por cada uno: $ 830.00
-
-d) Derribo de árboles de más de 10 metros de altura,
-
-por cada uno: $ 1,502.00
-
-Tratándose de poda o derribo de árboles ubicados en la vía pública, que representen un riesgo para la seguridad de la ciudadanía en su persona o bienes, así como para la infraestructura de los servicios públicos instalados, previo dictamen de la dependencia respectiva del Municipio, el servicio será gratuito.
-
-e) Autorización a particulares para la poda o
-
-derribo de árboles, previo dictamen forestal
-
-de la dependencia respectiva del Municipio: $ 145.00
-
-IV. Por proporcionar información en documentos o elementos técnicos a solicitudes de información en cumplimiento de la Ley de Transparencia e Información Pública del Estado de Jalisco:
-
-a) Copia simple por cada hoja: $ 1.58
-
-b) Información en disco magnético de 3' ½,
-
-por cada uno: $ 12.60
-
-c) Información en disco compacto, por cado uno: $ 12.60
-
-d) Audio casete, por cada uno: $ 12.60
-
-e) Video casete tipo VHS, por cada uno: $ 24.00
-
-f) Video casete otros formatos, por cado uno: $ 61.00
-
-Cuando la información se proporcione en formatos distintos a los mencionados en los incisos del a) al f) anteriores, el cobro de derechos será el equivalente al precio de mercado que corresponda.
-
-V. Para los efectos de este artículo, se consideran como horas hábiles, las comprendidas de lunes a viernes, de 9:00 a 16:00 horas.
-
-## TÍTULO QUINTO. Productos
-
-### CAPÍTULO PRIMERO. De los bienes muebles e inmuebles municipales
-
-###### Artículo 61.
-
-El Municipio obtendrá ingresos por la enajenación de bienes muebles e inmuebles de propiedad municipal, siempre que se realice con sujeción a las disposiciones contenidas en los preceptos aplicables al caso, de la Ley de Hacienda Municipal y de otras leyes correspondientes.
-
-###### Artículo 62.
-
-Las personas físicas o jurídicas que tomen en arrendamiento o concesión toda clase de bienes propiedad del Municipio pagarán a éste las rentas respectivas, de conformidad con las siguientes:
-
-TARIFAS
-
-I. Arrendamiento de locales en el interior de
-
-mercados, por metro cuadrado, mensualmente, de: $ 18.90 a $ 99.75
-
-II. Arrendamiento de locales exteriores en mercados,
-
-por metro cuadrado mensualmente, de: $ 32.55 a $ 112.00
-
-III. Concesión de kioscos en plazas y jardines,
-
-por metro cuadrado, mensualmente, de: $ 34.65 a $ 49.00
-
-IV. Arrendamiento o concesión de excusados
-
-y baños públicos, por metro cuadrado,
-
-mensualmente, de: $ 34.65 a $ 50.00
-
-V. Arrendamiento de inmuebles para anuncios
-
-eventuales, por metro cuadrado, diariamente: $ 2.73
-
-VI. Arrendamiento de inmuebles para anuncios
-
-permanentes, por metro cuadrado,
-
-mensualmente, de: $ 34.65 a $ 68.00
-
-### CAPÍTULO ÚNICO. De las contribuciones especiales
-
-###### Artículo 63.
-
-El importe de las rentas o de los ingresos por las concesiones de otros bienes muebles o inmuebles, propiedad del Municipio, no especificados en el artículo anterior, será fijado en los contratos respectivos, previo acuerdo del Ayuntamiento y en los términos del artículo 180 de la Ley de Hacienda Municipal.
-
-###### Artículo 64.
-
-En los casos de traspaso de giros instalados en locales de propiedad municipal, el Ayuntamiento se reserva la facultad de autorizar éstos, mediante acuerdo del Ayuntamiento, y fijar los productos correspondientes de conformidad con lo dispuesto por los artículos 62 y 73, fracción VI, segundo párrafo de ésta ley, o rescindir los convenios que, en lo particular celebren los interesados.
-
-###### Artículo 65.
-
-El gasto de luz y fuerza motriz de los locales arrendados, será calculado de acuerdo con el consumo visible de cada uno, y se acumulará al importe del arrendamiento.
-
-###### Artículo 66.
-
-Las personas que hagan uso de bienes inmuebles propiedad del Municipio, pagarán los productos correspondientes conforme a la siguiente:
-
-TARIFA
-
-I. Excusados y baños públicos, cada vez que
-
-se usen, excepto por niños menores de 12 años,
-
-los cuales quedan exentos: $ 3.30
-
-II. Uso de corrales para guardar animales
-
-que transiten en la vía pública sin vigilancia de
-
-sus dueños, diariamente, por cada uno: $ 68.00
-
-### CAPÍTULO PRIMERO. De las licencias, permisos y registros
-
-###### Artículo 67.
-
-El importe de los productos de otros bienes muebles e inmuebles del Municipio no especificado en el artículo anterior, será fijado en los contratos respectivos, previa aprobación por el Ayuntamiento en los términos de los reglamentos municipales respectivos.
-
-### CAPÍTULO SEGUNDO. De los cementerios
-
-###### Artículo 68.
-
-Las personas físicas o jurídicas que soliciten en uso a perpetuidad o uso temporal lotes en los cementerios municipales para la construcción de fosas, pagarán los productos correspondientes de acuerdo a las siguientes:
-
-TARIFAS
-
-I. Lotes en uso a perpetuidad, por metro cuadrado: $ 126.00
-
-II. Lotes en uso temporal por el término de cinco
-
-años, por metro cuadrado: $ 82.00
-
-Las personas físicas o jurídicas, que estén en uso a perpetuidad de fosas en los cementerios municipales, que decidan traspasar el mismo, pagarán las cuotas equivalentes que, por uso temporal, correspondan como se señalan en la fracción II, de este artículo.
-
-III. Para el mantenimiento de cada fosa en uso
-
-a perpetuidad o uso temporal se pagará anualmente
-
-por metro cuadrado de fosa: $ 27.00
-
-Para los efectos de la aplicación de este capítulo, las dimensiones de las fosas en los cementerios municipales, serán las siguientes:
-
-1. Las fosas para adultos tendrán un mínimo de 2.50 metros de largo por 1 metro de ancho; y
-
-2. Las fosas para infantes, tendrán un mínimo de 1.20 metros de largo por 1metro de ancho.
-
-### CAPÍTULO TERCERO. Del piso
-
-###### Artículo 69.
-
-Quienes hagan uso del piso en la vía pública en forma permanente, pagarán mensualmente, los productos correspondientes, conforme a la siguiente:
-
-TARIFA
-
-I. Estacionamientos exclusivos, mensualmente por metro lineal:
-
-a) En cordón: $ 27.00
-
-b) En batería: $ 34.65
-
-II. Puestos fijos, semifijos, por metro cuadrado:
-
-1. En el primer cuadro, de: $ 23.78 a $ 28.77
-
-2. Fuera del primer cuadro, de: $ 16.00 a $ 21.00
-
-III. Por uso diferente del que corresponda a
-
-la naturaleza de las servidumbres, tales como
-
-banquetas, jardines, machuelos y otros, por
-
-metro cuadrado, de: $ 18.80 a $ 22.47
-
-IV. Puestos que se establezcan en forma periódica,
-
-por cada uno, por metro cuadrado, de: $ 15.00 a $ 22.00
-
-V. Para otros fines o actividades no previstos
-
-en este artículo, por metro cuadrado o lineal,
-
-según el caso, de: $ 15.00 a $ 43.79
-
-###### Artículo 70.
-
-Quienes hagan uso del piso en la vía pública eventualmente, pagarán diariamente los productos correspondientes conforme a la siguiente:
-
-TARIFA
-
-I. Actividades comerciales o industriales, por metro cuadrado:
-
-a) En el primer cuadro, en período de festividades, de: $ 31.00 a $ 118.86
-
-b) En el primer cuadro, en períodos ordinarios, de: $ 23.73 a $ 68.78
-
-c) Fuera del primer cuadro, en período de festividades,
-
-de: $ 18.80 a $ 68.88
-
-d) Fuera del primer cuadro, en períodos ordinarios, de: $ 13.76 a $ 60.00
-
-II. Espectáculos y diversiones públicas, por metro
-
-cuadrado, de: $ 2.73 a $ 19.95
-
-III. Tapiales, andamios, materiales, maquinaria
-
-y equipo, colocados en la vía pública, por metro
-
-cuadrado: $ 13.00
-
-IV. Graderías y sillerías que se instalen en la vía pública,
-
-por metro cuadrado: $ 2.73
-
-V. Por el uso de calles y avenidas para ejercer el comercio ambulante en vehículos automotores, siempre y cuando sus ventas sean exclusivamente al público en general, por cada uno:
-
-a) Automóviles y camionetas pick up: $ 16.80
-
-b) Camionetas doble rodado y hasta 3 toneladas: $ 27.00
-
-VI. Otros puestos eventuales no previstos, por metro cuadrado: $ 48.83
-
-### CAPÍTULO CUARTO. De los estacionamientos
-
-###### Artículo 71.
-
-Las personas físicas o jurídicas, que requieran de los servicios de estacionamientos en este Municipio, pagarán los productos de conformidad con lo siguiente:
-
-I. Las personas físicas o jurídicas, concesionarias del servicio público de estacionamientos, pagarán los productos conforme a lo estipulado, en el contrato concesión y a la tarifa que acuerde el Ayuntamiento y apruebe el Congreso del Estado.
-
-II. Los usuarios de tiempo medido en la vía
-
-pública, pagarán por estacionamiento en
-
-los lugares cubiertos con estacionómetros de
-
-las 8:30 a las 20:30 horas, diariamente, excepto
-
-domingos y días festivos oficiales, por cada 30 minutos: $ 2.10
-
-### CAPÍTULO QUINTO. De los productos diversos
-
-###### Artículo 72.
-
-Los productos por concepto de formas impresas, calcomanías, credenciales y otros medios de identificación, se causarán y pagarán conforme a las tarifas señaladas a continuación:
-
-I. Formas impresas:
-
-a) Para solicitud de licencias, manifestación
-
-de giros, traspaso y cambios de domicilio de los
-
-mismos, por juego: $ 58.00
-
-b) Para la inscripción o modificación al registro
-
-de contribuyentes, por juego: $ 47.00
-
-c) Para registro o certificación de residencia, por juego: $ 86.00
-
-d) Para constancia de los actos del registro civil, por cada hoja: $ 38.00
-
-e) Solicitud de aclaración de actas administrativas,
-
-del registro civil, cada una: $ 47.00
-
-f) Para reposición de licencias, por cada forma: $ 58.00
-
-g) Para solicitud de matrimonio civil, por cada forma:
-
-1. Sociedad legal: $ 47.00
-
-2. Sociedad conyugal: $ 47.00
-
-3. Con separación de bienes: $ 95.00
-
-h) Por las formas impresas derivadas del trámite del divorcio administrativo:
-
-1) Solicitud de divorcio: $ 80.00
-
-2) Ratificación de la solicitud de divorcio: $80.00
-
-3) Acta de divorcio: $80.00
-
-i) Para control y ejecución de obra civil (bitácora),
-
-cada forma: $ 80.00
-
-II. Calcomanías, credenciales, placas, escudos y otros medios de identificación:
-
-a) Calcomanías, cada una: $ 33.60
-
-b) Escudos, cada uno: $ 90.00
-
-c) Credenciales, cada una: $ 42.00
-
-d) Números para casa, cada pieza: $ 47.00
-
-e) En los demás casos similares no previstos
-
-en los incisos anteriores, cada uno, de: $ 14.70 a $ 118.65
-
-III. Las ediciones impresas por el Municipio, se pagarán según el precio que en las mismas se fije, previo acuerdo del Ayuntamiento.
-
-###### Artículo 73.
-
-Además de los productos señalados en el artículo anterior, el Municipio percibirá los ingresos provenientes de los siguientes conceptos:
-
-I. Depósitos de vehículos, por día:
-
-a) Camiones: $ 92.00
-
-b) Automóviles: $ 47.00
-
-c) Motocicletas: $ 10.00
-
-d) Otros: $ 6.62
-
-II. La explotación de tierra para fabricación de adobe, teja y ladrillo, en terrenos propiedad del Municipio, además de requerir licencia municipal, causará un porcentaje del 20% sobre el valor de la producción;
-
-III. La extracción de cantera, piedra común y piedra para fabricación de cal, ajustándose a las leyes de equilibrio ecológico, en terrenos propiedad del Municipio, además de requerir licencia municipal, causarán igualmente un porcentaje del 20% sobre el valor del producto extraído;
-
-IV. La amortización del capital e intereses de créditos otorgados por el Municipio, de acuerdo con los contratos de su origen, o productos derivados de otras inversiones de capital;
-
-V. Los bienes vacantes y mostrencos, y objetos decomisados, según remate legal;
-
-VI. Por la explotación de bienes municipales, concesión de servicios o por cualquier otro acto productivo de la administración, según los contratos celebrados por el Ayuntamiento;
-
-En los casos de traspasos de giros instalados en locales de propiedad municipal, causarán productos de 6 a 12 meses de las rentas establecidas en el artículo 64 de esta ley;
-
-VII. Por productos o utilidades de talleres y demás centros de trabajo que operen dentro de establecimientos municipales;
-
-VIII. La venta de esquilmos, productos de aparcería, desechos y basuras;
-
-IX. Los ingresos que se obtengan de los parques y unidades deportivas municipales;
-
-X. La venta de árboles, plantas, flores y demás productos procedentes de viveros y jardines públicos de jurisdicción municipal;
-
-XI. Explotación de estacionamientos por parte del Municipio; y
-
-XII. Otros productos no especificados en este título.
-
-###### Artículo 74.
-
-La explotación de los basureros será objeto de concesión bajo contrato que suscriba el Municipio, cumpliendo con los requisitos previstos en las disposiciones legales y reglamentarias aplicables.
-
-## TÍTULO SEXTO. Aprovechamientos
-
-### CAPÍTULO ÚNICO. De los ingresos por aprovechamientos
-
-###### Artículo 75.
-
-Los ingresos por concepto de aprovechamientos son los que el Municipio percibe por:
-
-I. Recargos;
-
-II. Intereses;
-
-III. Multas;
-
-IV. Donativos, herencias y legados a favor del Municipio;
-
-V. Bienes vacantes;
-
-VI. Reintegros;
-
-VII. Indemnizaciones a favor del Municipio;
-
-VIII. Subsidios federales y estatales;
-
-IX. Aportaciones de los Gobiernos Federal y Estatal, y de terceros, para obras y servicios de beneficio social a cargo del Municipio;
-
-X. Empréstitos y financiamientos diversos;
-
-XI. Depósitos;
-
-XII. Gastos de ejecución; y
-
-XIII. Otros no especificados.
-
-###### Artículo 76.
-
-La tasa de recargos por falta de pago oportuno de los créditos fiscales será del 1% mensual.
-
-###### Artículo 77.
-
-Cuando se concedan plazos para cubrir créditos fiscales, la tasa de interés será el costo porcentual promedio (C.P.P.), del mes inmediato anterior, que determine el Banco de México.
-
-###### Artículo 78.
-
-Los gastos de ejecución y de embargo se cubrirán a la Hacienda Municipal, conjuntamente con el crédito fiscal, conforme a las siguientes bases:
-
-I. Por gastos de ejecución:
-
-Por la notificación de requerimiento de pago de créditos fiscales, no cubiertos en los plazos establecidos:
-
-a) Cuando se realicen en la cabecera municipal, el 5% sin que su importe sea menor a un salario mínimo general de la zona geográfica a que corresponda el Municipio.
-
-b) Cuando se realice fuera de la cabecera municipal el 8%, sin que su importe sea menor a un salario mínimo general de la zona geográfica a que corresponda el Municipio.
-
-II. Por gastos de embargo:
-
-Las diligencias de embargo, así como las de remoción del deudor como depositario, que impliquen extracción de bienes:
-
-a) Cuando se realicen en la cabecera municipal, el 5%; y.
-
-b) Cuando se realicen fuera de la cabecera municipal, el 8%,
-
-III. Los demás gastos que sean erogados en el procedimiento, serán reembolsados al Ayuntamiento por los contribuyentes.
-
-El cobro de honorarios conforme a las tarifas señaladas, en ningún caso, excederá de los siguientes límites:
-
-a) Del importe de 30 días de salario mínimo general vigente en el área geográfica que corresponda al Municipio, por requerimientos no satisfechos dentro de los plazos legales, de cuyo posterior cumplimiento se derive el pago extemporáneo de prestaciones fiscales.
-
-b) Del importe de 45 días de salario mínimo general, por diligencia de embargo y por las de remoción del deudor como depositario, que impliquen extracción de bienes.
-
-Todos los gastos de ejecución serán a cargo del contribuyente, en ningún caso, podrán ser condonados total o parcialmente.
-
-En los procedimientos administrativos de ejecución que realicen las autoridades estatales, en uso de las facultades que les hayan sido conferidas en virtud del convenio celebrado con el Ayuntamiento para la administración y cobro de diversas contribuciones municipales, se aplicará la tarifa que al efecto establece el Código Fiscal del Estado.
-
-###### Artículo 79.
-
-Las sanciones de orden administrativo, que en uso de sus facultades, imponga la autoridad municipal, serán aplicadas con sujeción a lo dispuesto en el artículo 197 de la Ley de Hacienda Municipal, conforme a la siguiente:
-
-TARIFA
-
-I. Por violación a la Ley, en materia de registro civil, se cobrará conforme a las disposiciones de la Ley del Registro Civil del Estado de Jalisco.
-
-II. Son infracciones a las Leyes Fiscales y reglamentos Municipales, las que a continuación se indican, señalándose las sanciones correspondientes:
-
-a) Por falta de empadronamiento y licencia municipal o permiso.
-
-1. En giros comerciales, industriales o de
-
-prestación de servicios, de: $ 567.00 a $ 1,418.00
-
-2. En giros que se produzcan, transformen,
-
-industrialicen, vendan o almacenen productos
-
-químicos, inflamables, corrosivos, tóxicos o
-
-explosivos, de: $672.00 a $ 1,428.00
-
-b) Por falta de refrendo de licencia municipal o
-
-permiso, de: $ 257.00 a $ 1,187.00
-
-c) Por no cubrir los impuestos o derechos,
-
-en la forma, fecha y términos que establezcan las
-
-disposiciones fiscales, sobre el crédito omitido, del: 10% a 30%
-
-d) Por la ocultación de giros gravados por la ley,
-
-se sancionará con el importe, de: $ 567.00 a $ 1,428.00
-
-e) Por no conservar a la vista la licencia
-
-municipal, de: $44.00 a $ 101.00
-
-f) Por no mostrar la documentación de los
-
-pagos ordinarios a la Hacienda Municipal a
-
-inspectores y supervisores acreditados, de: $44.00 a $ 137.00
-
-g) Por pagos extemporáneos por inspección y
-
-vigilancia, supervisión para obras y servicios
-
-de bienestar social, sobre el monto de los pagos
-
-omitidos, del: 10% a 30%
-
-h) Por trabajar el giro después del horario
-
-autorizado, sin el permiso correspondiente,
-
-por cada hora o fracción, de: $ 189.00 a $ 252.00
-
-i) Por violar sellos, cuando un giro esté clausurado
-
-por la autoridad municipal, de: $ 850.00 a $ 1,712.00
-
-j) Por manifestar datos falsos del giro autorizado,
-
-de: $ 494.00 a $ 858.00
-
-k) Por el uso indebido de licencia (domicilio
-
-diferente o actividades no manifestadas o sin
-
-autorización), de: $ 494.00 a $ 858.00
-
-l) Por impedir que personal autorizado de la
-
-administración municipal realice labores de
-
-inspección y vigilancia, así como de supervisión
-
-fiscal, de: $ 494.00 a $ 858.00
-
-m) Por pagar los créditos fiscales con documentos incobrables, se aplicará, la indemnización que marca la Ley General de Títulos y Operaciones de Crédito, en sus artículos relativos.
-
-n) Cuando las infracciones señaladas en los
-
-incisos anteriores se cometan en los
-
-establecimientos definidos en la Ley para
-
-Regular la Venta y el Consumo de Bebidas
-
-Alcohólicas del Estado de Jalisco, se
-
-impondrá multa, de: $ 4,557.00 a $ 8,468.00
-
-ñ) Por presentar los avisos de baja o
-
-clausura del establecimiento o actividad,
-
-fuera del término legalmente establecido
-
-para el efecto, de: $ 144.00 a $ 169.00
-
-o) La falta de pago de los productos señalados en el artículo 69, fracción IV, de este ordenamiento, se sancionará de acuerdo con el Reglamento respectivo y con las cantidades que señale el Ayuntamiento, previo acuerdo de Ayuntamiento;
-
-III. Violaciones con relación a la matanza de ganado y rastro:
-
-a) Por la matanza clandestina de ganado,
-
-además de cubrir los derechos respectivos,
-
-por cabeza, de: $ 626.00 a $ 1,003.00
-
-b) Por vender carne no apta para el
-
-consumo humano además del decomiso
-
-correspondiente una multa, de: $ 1,565.00 a $ 3,434.00
-
-c) Por matar más ganado del que se autorice en
-
-los permisos correspondientes, por cabeza, de: $ 144.00 a $ 354.00
-
-d) Por falta de resello, por cabeza, de: $ 144.00 a $ 289.00
-
-e) Por transportar carne en condiciones insalubres,
-
-de: $ 218.00 a $ 1,397.00
-
-En caso de reincidencia, se cobrará el doble y se decomisará la carne;
-
-f) Por carecer de documentación que acredite
-
-la procedencia y propiedad del ganado que se
-
-sacrifique, de: $ 168.00 a $858.00
-
-g) Por condiciones insalubres de mataderos,
-
-refrigeradores y expendios de carne, de: $ 168.00 a $ 347.00
-
-Los giros cuyas instalaciones insalubres se reporten por el resguardo del rastro y no se corrijan, después de haberlos conminado a hacerlo, serán clausurados.
-
-h) Por falsificación de sellos o firmas del
-
-rastro o resguardo, de: $ 564.00 a $960.00
-
-i) Por acarreo de carnes del rastro en vehículos
-
-que no sean del Municipio y no tengan
-
-concesión del Ayuntamiento, por cada día
-
-que se haga el acarreo, de: $ 144.00 a $ 168.00
-
-IV. Violaciones al Código Urbano para el Estado de Jalisco, y en materia de construcción y ornato:
-
-a) Por colocar anuncios en lugares no
-
-autorizados, de: $ 144.00 a $ 168.00
-
-b) Por no arreglar la fachada de casa habitación,
-
-comercio, oficinas y factorías en zonas urbanizadas,
-
-por metro cuadrado, de: $ 95.00 a $ 250.00
-
-c) Por tener en mal estado la banqueta de fincas,
-
-en zonas urbanizadas, de: $ 86.00 a $ 168.00
-
-d) Por tener bardas, puertas o techos en
-
-condiciones de peligro para el libre tránsito de
-
-personas y vehículos, de: $ 144.00 a $252.00
-
-e) Por dejar acumular escombro, materiales
-
-de construcción o utensilios de trabajo, en la
-
-banqueta o calle, por metro cuadrado: $ 42.00
-
-f) Por no obtener previamente el permiso respectivo para realizar cualquiera de las actividades señaladas en los artículos 29 al 34 de esta ley, se sancionará a los infractores con el importe de uno a tres tantos de las obligaciones eludidas;
-
-g) Por construcciones defectuosas que no
-
-reúnan las condiciones de seguridad, de: $ 564.00 a $945.00
-
-h) Por realizar construcciones en condiciones
-
-diferentes a los planos autorizados, de: $ 213.00 a $ 343.00
-
-i) Por el incumplimiento a lo dispuesto por el artículo 298 del Código Urbano para el Estado de Jalisco, multa de una a ciento setenta veces el salario mínimo vigente en el área geográfica a que corresponda el Municipio;
-
-j) Por dejar que se acumule basura, enseres,
-
-utensilios o cualquier objeto que impida el libre
-
-tránsito o estacionamiento de vehículos en las
-
-banquetas o en el arroyo de la calle, de: $ 42.00 a $171.00
-
-k) Por falta de bitácora o firmas de autorización
-
-en las mismas, de: $99.00 a $144.00
-
-l) La invasión por construcciones en la vía pública y de limitaciones de dominio, se sancionará con multa por el doble del valor del terreno invadido y la demolición de las propias construcciones;
-
-m) Por derribar fincas sin permiso de la autoridad
-
-municipal, y sin perjuicio de las sanciones
-
-establecidas en otros ordenamientos, de: $ 144.00 a $ 3,862.00
-
-V. Violaciones al Bando de Policía y Buen Gobierno y a la Ley del Servicio de Vialidad, Tránsito y Transporte del Estado de Jalisco y su Reglamento:
-
-a) Las sanciones que se causen por violaciones al Bando de Policía y Buen Gobierno, serán aplicadas por los jueces municipales de la zona correspondiente, o en su caso, calificadores y recaudadores adscritos al área competente; a falta de éstos, las sanciones se determinarán por el presidente municipal con multa, de uno a cincuenta salarios mínimos vigentes en el Municipio o arresto hasta por 36 horas.
-
-b) Las infracciones en materia de tránsito serán sancionadas administrativamente con multas, en base a lo señalado por la Ley del Servicio de Vialidad, Tránsito y Transporte del Estado de Jalisco.
-
-En el caso de que el servicio de tránsito lo preste directamente el Ayuntamiento, se estará a lo que se establezca en el convenio respectivo que suscriba la autoridad municipal con el Gobierno del Estado.
-
-c) En caso de celebración de bailes, tertulias,
-
-kermeses o tardeadas, sin el permiso correspondiente,
-
-se impondrá una multa, de: $ 213.00 a $ 1,703.00
-
-d) Por violación a los horarios establecidos en materia de espectáculos y por concepto de variación de horarios y presentación de artistas:
-
-1. Por variación de horarios en la presentación de
-
-artistas, sobre el monto de su sueldo, del: 10% a 30%
-
-2. Por venta de boletaje sin sello de la sección de
-
-supervisión de espectáculos, de: $ 213.00 a $ 1,339.00
-
-En caso de reincidencia, se cobrará el doble y se clausurará el giro en forma temporal o definitiva.
-
-3. Por falta de permiso para variedad o variación
-
-de la misma, de: $ 213.00 a $ 1,339.00
-
-4. Por sobrecupo o sobreventa, se pagará de uno a tres tantos del valor de los boletos correspondientes al mismo.
-
-5. Por variación de horarios en cualquier tipo
-
-de espectáculos, de: $ 213.00 a $ 1,339.00
-
-e) Por hoteles que funcionen como moteles de
-
-paso, de: $ 213.00 a $ 1,339.00
-
-f) Por permitir el acceso a menores de edad
-
-a lugares como cantinas, cabarets, billares,
-
-cines con funciones para adultos, por persona, de: $439.00 a $1,788.00
-
-g) Por el funcionamiento de aparatos de
-
-sonido después de las 22:00 horas, en zonas
-
-habitacionales, de: $ 213.00 a $746.00
-
-h) Por permitir que transiten animales en la vía pública, y caninos que no porten su correspondiente placa o comprobante de vacunación:
-
-1. Ganado mayor, por cabeza, de: $ 43.00 a $ 88.00
-
-2. Ganado menor, por cabeza, de: $ 43.00 a $ 49.00
-
-3. Caninos, por cada uno, de: $ 43.00 a $ 102.00
-
-i) Por invasión de las vías públicas, con vehículos
-
-que se estacionen permanentemente o por talleres
-
-que se instalen en las mismas, según la importancia
-
-de la zona urbana de que se trate, diariamente, por
-
-metro cuadrado, de: $ 36.00 a $ 171.00
-
-j) Por no realizar el evento, espectáculo o diversión sin causa justificada, se cobrará una sanción del 10% al 30%, sobre la garantía establecida en el inciso c), de la fracción VI, del artículo 6° de esta ley.
-
-VI. Sanciones por violaciones al uso y aprovechamiento del agua:
-
-a) Por desperdicio o uso indebido del agua, de: $ 213.00 a $ 1,444.00
-
-b) Por ministrar agua a otra finca distinta de
-
-la manifestada, de: $ 142.00 a $ 172.00
-
-c) Por extraer agua de las redes de distribución, sin la autorización correspondiente:
-
-1. Al ser detectados, de: $ 218.00 a $ 858.00
-
-2. Por reincidencia, de: $ 426.00 a $ 1,659.00
-
-d) Por utilizar el agua potable para riego en
-
-terrenos de labor, hortalizas o en albercas
-
-sin autorización, de: $ 213.00 a $ 746.00
-
-e) Por arrojar, almacenar o depositar en la vía pública, propiedades privadas, drenajes o sistemas de desagüe:
-
-1. Basura, escombros desechos orgánicos,
-
-animales muertos y follajes, de: $ 213.00 a $ 289.00
-
-2. Líquidos productos o sustancias fétidas que
-
-causen molestia o peligro para la salud, de: $ 357.00 a $ 1,430.00
-
-3. Productos químicos, sustancias inflamables,
-
-explosivas, corrosivas, contaminantes, que
-
-entrañen peligro por sí mismas, en conjunto
-
-mezcladas o que tengan reacción al contacto
-
-con líquidos o cambios de temperatura, de: $ 1,565.00 a $ 2,861.00
-
-f) Por no cubrir los derechos de los servicios del agua por más de un bimestre, se podrá realizar la suspensión total del servicio y/o la cancelación de las descargas, debiendo cubrir el usuario en forma anticipada, los gastos que originen las cancelaciones o suspensiones y posterior regularización de acuerdo a los siguientes valores y en proporción al trabajo efectuado:
-
-Por regularización: $ 313.00
-
-En caso de violaciones a las suspensiones y/o cancelaciones, por parte del usuario, la autoridad competente volverá a efectuar las suspensiones y/o cancelaciones correspondientes, en cada ocasión, el usuario deberá cubrir el importe de la regularización correspondiente, además de una sanción.
-
-g) Por acciones u omisiones de los usuarios que disminuyan o pongan en peligro la disponibilidad del agua potable, para su abastecimiento, dañen el agua del subsuelo con sus desechos, perjudiquen el alcantarillado o se conecten sin autorización a las redes de los servicios y que motiven inspección de carácter técnico por personal de la dependencia que preste el servicio, se impondrá una sanción de cinco a veinte días de salario mínimo, de conformidad a los trabajos realizados y la gravedad de los daños causados.
-
-La anterior sanción será independiente del pago de agua consumida en su caso, según la estimación técnica que al efecto se realice, pudiendo la autoridad clausurar las instalaciones, quedando a criterio de la misma la facultad de autorizar el servicio de agua.
-
-h) Por diferencia entre la realidad y los datos proporcionados por el usuario que implique modificaciones al padrón, se impondrá una sanción equivalente de entre uno a cinco días de salario mínimo vigente en el Municipio, según la gravedad del caso, debiendo además pagar las diferencias que resulten así como los recargos de los últimos cinco años, en su caso.
-
-VII. Por contravención a las disposiciones de la Ley de Protección Civil del Estado y sus Reglamentos, el Municipio percibirá los ingresos por concepto de las multas derivadas de las sanciones que se impongan en los términos de la propia Ley y sus Reglamentos.
-
-VIII. Violaciones al Reglamento de Servicio Público de Estacionamientos:
-
-a) Por omitir el pago de la tarifa en estacionamiento
-
-exclusivo para estacionómetros: $ 73.00
-
-b) Por estacionar vehículos invadiendo dos lugares
-
-cubiertos por estacionómetro. $ 144.00
-
-c) Por estacionar vehículos invadiendo parte de un
-
-lugar cubierto por estacionómetros: $ 185.00
-
-d) Por estacionarse sin derecho en espacio autorizado
-
-como exclusivo: $ 185.00
-
-e) Por introducir objetos diferentes a la moneda del
-
-aparato de estacionómetro, sin perjuicio del ejercicio
-
-de la acción penal correspondiente, cuando se sorprenda
-
-en flagrancia al infractor: $ 425.00
-
-f) Por señalar espacios como estacionamiento exclusivo,
-
-en la vía pública, sin la autorización de la autoridad
-
-municipal correspondiente: $ 299.00
-
-g) Por obstaculizar el espacio de un estacionamiento
-
-cubierto por estacionómetro con material de obra de
-
-construcción, botes, objetos, enseres y puestos
-
-ambulantes: $ 320.00
-
-IX. Las infracciones a las leyes federales y estatales con vigencia en el ámbito municipal serán aplicadas de acuerdo a las disposiciones que en ellas se determinen.
-
-X. A quienes realicen violaciones a la Ley Estatal del Equilibrio Ecológico de competencia municipal se les sancionará conforme a lo dispuesto en el artículo 146 fracción II de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente.
-
-###### Artículo 80.
-
-A quienes adquieran bienes muebles o
-
-inmuebles, contraviniendo lo dispuesto en el artículo
-
-301 de la Ley de Hacienda Municipal en vigor, se les
-
-sancionará con una multa, de: $ 150.00 a $1,000.00
-
-###### Artículo 81.
-
-Por violaciones a la Ley de Gestión Integral de los Residuos del Estado de Jalisco, se aplicarán las siguientes sanciones:
-
-a) Por realizar la clasificación manual de residuos en los rellenos sanitarios;
-
-De 20 a 5,000 días de salario mínimo vigente en el municipio.
-
-b) Por carecer de las autorizaciones correspondientes establecidas en la ley;
-
-De 20 a 5,000 días de salario mínimo vigente en el municipio.
-
-c) Por omitir la presentación de informes semestrales o anuales establecidos en la ley;
-
-De 20 a 5,000 días de salario mínimo vigente en el municipio.
-
-d) Por carecer del registro establecido en la ley;
-
-De 20 a 5,000 días de salario mínimo vigente en el municipio.
-
-e) Por carecer de bitácoras de registro en los términos de la ley;
-
-De 20 a 5,000 días de salario mínimo vigente en el municipio.
-
-f) Arrojar a la vía pública animales muertos o parte de ellos;
-
-De 20 a 5,000 días de salario mínimo vigente en el municipio.
-
-g) Por almacenar los residuos correspondientes sin sujeción a las normas oficiales mexicanas o los ordenamientos jurídicos del Estado de Jalisco:
-
-De 20 a 5,000 días de salario mínimo vigente en el municipio.
-
-h) Por mezclar residuos sólidos urbanos y de manejo especial con residuos peligrosos contraviniendo lo dispuesto en la Ley General, en la del Estado y en los demás ordenamientos legales o normativos aplicables;
-
-De 20 a 5,000 días de salario mínimo vigente en el municipio.
-
-i) Por depositar en los recipientes de almacenamiento de uso público o privado residuos que contengan sustancias tóxicas o peligrosas para la salud pública o aquellos que despidan olores desagradables:
-
-De 5,001 a 10,000 días de salario mínimo vigente en el municipio.
-
-j) Por realizar la recolección de residuos de manejo especial sin cumplir con la normatividad vigente:
-
-De 5,001 a 10,000 días de salario mínimo vigente en el municipio.
-
-k) Por crear basureros o tiraderos clandestinos:
-
-De 10,001 a 15,000 días de salario mínimo vigente en el municipio.
-
-l) Por el depósito o confinamiento de residuos fuera de los sitios destinados para dicho fin en parques, áreas verdes, áreas de valor ambiental, áreas naturales protegidas, zonas rurales o áreas de conservación ecológica y otros lugares no autorizados;
-
-De 10,001 a 15,000 días de salario mínimo vigente en el municipio.
-
-m) Por establecer sitios de disposición final de residuos sólidos urbanos o de manejo especial en lugares no autorizados;
-
-De 10,001 a 15,000 días de salario mínimo vigente en el municipio.
-
-n) Por el confinamiento o depósito final de residuos en estado liquido o con contenidos líquidos o de materia orgánica que excedan los máximos permitidos por las normas oficiales mexicanas;
-
-De 10,001 a 15,000 días de salario mínimo vigente en el municipio.
-
-o) Realizar procesos de tratamiento de residuos sólidos urbanos sin cumplir con las disposiciones que establecen las normas oficiales mexicanas y las normas ambientales estatales en esta materia;
-
-De 10,001 a 15,000 días de salario mínimo vigente en el municipio.
-
-p) Por la incineración de residuos en condiciones contrarias a las establecidas en las disposiciones legales correspondientes, y sin el permiso de las autoridades competentes;
-
-De 15,001 a 20,000 días de salario mínimo vigente en el municipio.
-
-q) Por la dilución o mezcla de residuos sólidos urbanos o de manejo especial con líquidos para su vertimiento al sistema de alcantarillado, a cualquier cuerpo de agua o sobre suelos con o sin cubierta vegetal; y
-
-De 15,001 a 20,000 días de salario mínimo vigente en el municipio.
-
-###### Artículo 82.
-
-Todas aquellas infracciones por
-
-violaciones a esta Ley, demás Leyes y
-
-Ordenamientos Municipales, que no se encuentren
-
-previstas en los artículos anteriores, serán
-
-sancionadas, según la gravedad de la infracción,
-
-con una multa, de: $ 371.00 a $ 1,440.00
-
-## TÍTULO SÉPTIMO. Participaciones
-
-### CAPÍTULO ÚNICO. De las participaciones federales y estatales
-
-###### Artículo 83.
-
-Las participaciones federales que correspondan al Municipio por concepto de impuestos, derechos, recargos o multas, exclusivos o de jurisdicción concurrente, se percibirán en los términos que se fijen en los convenios respectivos y en la Legislación Fiscal de la Federación.
-
-###### Artículo 84.
-
-Las participaciones estatales que correspondan al Municipio por concepto de impuestos, derechos, recargos o multas, exclusivos o de jurisdicción concurrente se percibirán en los términos que se fijen en los convenios respectivos y en la Legislación Fiscal del Estado.
-
-## TÍTULO OCTAVO. Aportaciones federales
-
-### CAPÍTULO ÚNICO. De la aportaciones federales del ramo 33
-
-###### Artículo 85.
-
-Las aportaciones federales que a través de los diferentes fondos, le correspondan al Municipio, se percibirán en los términos que establezcan, el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos.
+Las atribuciones de la Comisión serán las que le encomiende el Titular del Ejecutivo del Estado y aquellas que se determinen en el acuerdo correspondiente así como en las disposiciones reglamentarias que para tal efecto se emitan.
 
 ## TRANSITORIOS
 
-PRIMERO. Se derogan todas las disposiciones que se opongan a la presente ley.
+###### ARTÍCULO PRIMERO.
 
-SEGUNDO. A los avisos traslativos de dominio de regularizaciones de la Comisión Reguladora de la Tenencia de la Tierra (CORETT), se les exime de anexar el avalúo a que se refiere el artículo 119, fracción I, de la Ley de Hacienda Municipal; y el artículo 81, fracción I, de la Ley de Catastro.
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
 
-TERCERO. Cuando en otras leyes se haga referencia al tesorero, tesorería, secretario, se deberá entender que se refieren al encargado de la Hacienda Municipal, a la Hacienda Municipal, y al servidor público encargado de la Secretaría, respectivamente. Lo anterior con independencia de las denominaciones que reciban los citados servidores en los reglamentos u ordenamientos municipales respectivos.
+###### ARTÍCULO SEGUNDO.
 
-CUARTO. La presente ley comenzará a surtir sus efectos a partir del día primero de enero del año 2010, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+Se derogan todas aquellas disposiciones que se opongan al contenido de la presente ley.
 
-QUINTO. De conformidad con los artículos 60 y 61 de la Ley de Catastro Municipal del Estado de Jalisco, la determinación de las contribuciones inmobiliarias a favor de este Municipio se realizará de conformidad a los valores unitarios aprobados por el H. Congreso del Estado de Jalisco para el ejercicio fiscal de 2010. A falta de éstos, se prorrogará la aplicación de los valores vigentes en el ejercicio fiscal anterior.
+DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, Coahuila, a los veintiséis días del mes de junio del año dos mil siete.
 
-SEXTO. En virtud de la entrada en vigor del Código Urbano para el Estado de Jalisco, todas las disposiciones de la presente ley que se refieran a las situaciones, instrumentos o casos previstos en la abrogada Ley de Desarrollo Urbano del Estado de Jalisco, se entenderán que se refieren a las situaciones, instrumentos o casos previstos por analogía en el Código Urbano para el Estado de Jalisco.
+DIPUTADO PRESIDENTE.
 
-Salón de Sesiones del Congreso del Estado
-
-Guadalajara, Jalisco, 23 de noviembre de 2009
-
-Diputado Presidente
-
-CARLOS RODRÍGUEZ BURGARA
+ROMÁN ALBERTO CEPEDA GONZÁLEZ
 
 (RÚBRICA)
 
-Diputada Secretaria
+DIPUTADO SECRETARIO.
 
-NORMA ANGÉLICA AGUIRRE VARELA
-
-(RÚBRICA)
-
-Diputado Secretario
-
-ALFREDO ZÁRATE MENDOZA
+JOSÉ LUIS MORENO AGUIRRE
 
 (RÚBRICA)
 
-En mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
+DIPUTADO SECRETARIO.
 
-Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 10 días del mes de diciembre de 2009.
-
-El Gobernador Constitucional del Estado
-
-EMILIO GONZÁLEZ MÁRQUEZ
+ALFREDO GARZA CASTILLO.
 
 (RÚBRICA)
 
-El Secretario General de Gobierno
+IMPRIMASE, COMUNÍQUESE Y OBSÉRVESE. Saltillo, Coahuila, 29 de Junio de 2007.
 
-LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
+EL GOBERNADOR DEL ESTADO
+
+PROFR. HUMBERTO MOREIRA VALDÉS
 
 (RÚBRICA)
+
+EL SECRETARIO DE GOBIERNO
+
+LIC. HOMERO RAMOS GLORIA
+
+(RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MAYO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
+
+TERCERO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+
+Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
+
+Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
+
+Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 188.- SE REFORMAN LAS FRACCIONES XXIX Y XXX, DEL ARTÍCULO 13, DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
+
+P.O. 19 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 363.- SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 3, SE MODIFICA LA FRACCIÓN VI DEL ARTÍCULO 4 Y SE ADICIONA EL ARTÍCULO 14 BIS, TODOS DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 458.- SE ADICIONA LA FRACCIÓN III DEL ARTÍCULO 2 DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al siguiente decreto
+
+P.O. 8 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 472.- SE ADICIONA EL ARTÍCULO 3 BIS, A LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al siguiente decreto
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 614.- SE ADICIONAN LA FRACCIÓN II AL ARTÍCULO 2 Y LA FRACCIÓN VI AL ARTÍCULO 3 Y SE REFORMA AL ARTÍCULO 13, DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 799.- SE ADICIONA LA FRACCIÓN LVII AL ARTÍCULO 13 DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN XVI, SE ADICIONA UNA FRACCIÓN XVII, RECORRIENDO ULTERIORES DEL ARTÍCULO 6; SE REFORMA LA FRACCIÓN III, Y SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 17; SE REFORMA LA FRACCIÓN I, Y SE ADICIONA LA FRACCIÓN III DEL ARTÍCULO 28; SE REFORMA LA FRACCIÓN III, Y SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 33, SE REFORMA LA FRACCIÓN VII, SE ADICIONA UNA FRACCIÓN VIII, RECORRIENDO ULTERIORES DEL ARTÍCULO 40 Y SE REFORMA LA FRACCIÓN III, Y SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 46 DE LA LEY DE PROFESIONES PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 938.- SE REFORMA EL PÁRRAFO SEGUNDO, RECORRIENDO EL SUBSECUENTE DEL ARTÍCULO 11, ASÍ COMO LA FRACCIÓN III DEL ARTÍCULO 13 RECORRIENDO LAS FRACCIONES SUBSECUENTES, DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 940.- SE REFORMA Y ADICIONA EL ARTÍCULO 13, FRACCIONES XXIX Y XXX RECORRIENDO LA ULTERIOR DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 955.- SE REFORMA Y ADICIONA LA FRACCIÓN I DEL ARTÍCULO 2, DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1030.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3 DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 1043.- SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 1177 POR EL QUE "SE MODIFICAN EL PRIMER PÁRRAFO DEL ARTÍCULO 15; EL PRIMER PÁRRAFO DEL ARTÍCULO 16; EL PRIMER PÁRRAFO DEL ARTÍCULO 17; EL PRIMER PÁRRAFO DEL ARTÍCULO 18; EL PRIMER PÁRRAFO Y LA FRACCIÓN VIII DEL ARTÍCULO 21; EL PRIMER PÁRRAFO DEL ARTÍCULO 23; LA FRACCIÓN XXIII DEL ARTÍCULO 27; SE ADICIONA LA FRACCIÓN IX, X, XI, XII Y XIII AL ARTÍCULO 21; SE DEROGAN LAS FRACCIONES IV, V, VI, VIII Y IX DEL ARTÍCULO 22, DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, lapapelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 28 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 260.- SE ADICIONAN TRES PÁRRAFOS AL ARTÍCULO 57 DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 316.- SE REFORMA EL INCISO A) DEL ARTÍCULO 3 BIS; SE MODIFICA EL CONTENIDO DE LA FRACCIÓN III DEL ARTÍCULO 15, SE MODIFICA TAMBIÉN EL CONTENIDO DE LA FRACCIÓN VI, RECORRIENDO EL ACTUAL A LA FRACCIÓN VII, QUE SE CREA, Y SE ADICIONA UN NUEVO CONTENIDO A LA FRACCIÓN III DEL ARTÍCULO 21, TODOS DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 488.- SE MODIFICA EL CONTENIDO DE LA FRACCIÓN VI DEL ARTÍCULO 3; Y SE ADICIONA EL INCISO V AL ARTÍCULO 3 BIS DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 784.- SE REFORMA LA FRACCIÓN XVI Y XVIII DEL ARTÍCULO 3 Y SE REFORMAN LOS ARTÍCULOS 15 FRACCIÓN III Y 17 FRACCIÓN VI DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 93 PÁRRAFO SEGUNDO APARTADO B FRACCIÓN V Y 94 APARTADO B FRACCIÓN VII DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULO (SIC) 20 PÁRRAFO SEGUNDO Y 169 FRACCIÓN III NUMERAL 7 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 9 FRACCIÓN V Y 48 FRACCIÓN VI DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 5 FRACCIÓN VIII, 18 FRACCIÓN IV Y 35 FRACCIÓN X DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 6 FRACCIÓN IV DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 15 BIS PÁRRAFO PRIMERO FRACCIÓN VI DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 144 PÁRRAFO TERCERO Y 147 FRACCIÓN V DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 7 PÁRRAFO SEXTO, 12 PÁRRAFO TERCERO, 82 PÁRRAFO PRIMERO, 85 PÁRRAFO SEGUNDO Y 145 PÁRRAFO TERCERO FRACCIÓN IV DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 82 BIS PÁRRAFO TERCERO FRACCIÓN IV DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 41 PÁRRAFO PRIMERO, 45 PÁRRAFO SEGUNDO, 53 FRACCIÓN XIII Y 258 PÁRRAFO CUARTO DE LA LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 19 PÁRRAFO SEGUNDO DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 5 PÁRRAFO PRIMERO FRACCIÓN IV DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTICULO 68 PÁRRAFO SEGUNDO DE LA LEY ESTATAL DE EDUCACIÓN; SE REFORMA EL ARTÍCULO 53 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 881.- SE REFORMA LA FRACCIÓN N DEL ARTÍCULO 3 BIS, LA FRACCIÓN II DEL ARTÍCULO 12, LAS FRACCIONES XXXIV Y XXXVII DEL ARTÍCULO 13; SE DEROGAN LAS FRACCIONES XXXI, XLII Y LA XLVII DEL ARTÍCULO 13 Y SE ADICIONAN LAS FRACCIONES LXII Y LXIII AL ARTÍCULO 13, TODOS ESTOS DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 915.- SE MODIFICA EL CONTENIDO DEL INCISO B DEL ARTÍCULO 3 BIS DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 86.- SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 2°, ASÍ COMO LA FRACCIÓN VI DEL ARTÍCULO 3° Y SE ADICIONA EL INCISO W) AL ARTÍCULO 3° BIS DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 277.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO VI "SERVICIOS DE PLANIFICACIÓN FAMILIAR" DEL TÍTULO TERCERO "PRESTACIÓN DE LOS SERVICIOS DE SALUD" Y EL PRIMER PÁRRAFO DEL ARTÍCULO 63, Y SE ADICIONAN UNA FRACCIÓN VII AL ARTÍCULO 63, Y LOS ARTÍCULOS 65 BIS, 65 TER Y 221 BIS A LA LEY ESTATAL DE SALUD; SE ADICIONAN UNA FRACCIÓN XXIII AL ARTÍCULO 26 DE LA LEY ESTATAL DE EDUCACIÓN, SE ADICIONA UNA FRACCIÓN VII, RECORRIENDO LA SUBSECUENTE, AL ARTÍCULO 49, UNA FRACCIÓN XIV, RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 52 Y UNA FRACCIÓN VIII, RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 53 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA UNA FRACCIÓN IX, RECORRIENDO LA SUBSECUENTE, AL ARTÍCULO 19 DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA UN INCISO E) AL ARTÍCULO 26 DE LA LEY PARA LA PREVENCIÓN Y COMBATE A LA POBREZA EXTREMA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA EL ARTÍCULO 100 BIS A LA LEY DE EJECUCIÓN DE SANCIONES PENALES Y REINSERCIÓN SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA EL ARTÍCULO 265 BIS A LA LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- En un plazo no mayor a noventa días naturales desde la entrada en vigor de este Decreto, la Secretaría de Gobierno del Estado, la Secretaría de Educación y la Secretaría de Salud harán las modificaciones normativas, de infraestructura, presupuestales, de procedimientos, y las demás necesarias para promover los derechos señalados en el mismo.
+
+Tercero.- En un plazo no mayor de sesenta días naturales desde la entrada en vigor de este Decreto, la Secretaría de Gobierno, a través de las autoridades competentes, deberá expedir las reformas a los reglamentos y protocolos estatales y municipales vigentes en materia de internación de personas, centros de readaptación social, centros penitenciarios y de detención para establecer los derechos señalados en el mismo.
+
+Cuarto.- En un plazo no mayor de sesenta días naturales desde la entrada en vigor de este Decreto, la Secretaría de Educación, a través de las autoridades competentes, deberá expedir las reformas a los reglamentos y protocolos estatales y municipales vigentes sobre centros de educación del estado superior para establecer y promover los derechos señalados en el mismo.
+
+Quinto.- En un plazo no mayor de sesenta días naturales desde la entrada en vigor de este Decreto, las autoridades competentes deberán expedir las reformas a los reglamentos y protocolos estatales y municipales en materia sanitaria para establecer y promover los derechos señalados en el mismo a las mujeres en situación de vulnerabilidad.
+
+Sexto.- Las reformas a los reglamentos reformados en virtud de este Decreto deberán establecer y garantizar, al menos:
+
+I. La creación de políticas y mecanismos para otorgar de forma gratuita los insumos necesarios para la higiene menstrual a las niñas, adolescentes y mujeres en situación de vulnerabilidad, de acuerdo con la legislación vigente;
+
+II. La garantía del acceso de las niñas, adolescentes y mujeres a los derechos, insumos y materiales, e instalaciones necesarias para acceder y promover la higiene menstrual;
+
+III. La vigilancia por parte de las autoridades sanitarias competentes del cumplimiento de las medidas necesarias para la higiene menstrual de las niñas, adolescentes y mujeres, y
+
+IV. La investigación y sanción a las autoridades que impidan el acceso a los derechos relativos a la higiene menstrual.
+
+Séptimo.- Las reformas a los reglamentos reformados en virtud de este Decreto en materia de internación de personas, centros de readaptación social, centros penitenciarios y de detención además deberán establecer y promover:
+
+I. La protección del derecho de las mujeres privadas de su libertad para que puedan acceder por parte de sus familiares o a precios comerciales los insumos necesarios para la higiene menstrual, y
+
+II. La creación de políticas y mecanismos para otorgar de forma gratuita los insumos necesarios para la higiene menstrual a las adolescentes y mujeres privadas de su libertad en situación de vulnerabilidad.
+
+Octavo.- Las reformas a los reglamentos reformados en virtud de este Decreto en materia de centros de educación primaria, secundaria y media superior además deberán establecer y promover:
+
+I. La creación de políticas y mecanismos para otorgar de forma gratuita los insumos necesarios para la higiene menstrual a las niñas, adolescentes y mujeres de los centros de educación pública primaria, secundaria y media superior, y
+
+II. La creación de políticas y mecanismos para evitar el acoso escolar a las niñas, adolescentes y mujeres de los centros de educación primaria, secundaria y media superior en el ejercicio de sus derechos relativos a la higiene menstrual.
+
+Noveno.- Con fundamento del principio de la realización progresiva de los derechos, estos serán aplicados de acuerdo con los recursos materiales del Estado, mismos que permitan avanzar gradual y constantemente hacia la más plena realización de tales derechos.
+
+Decimo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
