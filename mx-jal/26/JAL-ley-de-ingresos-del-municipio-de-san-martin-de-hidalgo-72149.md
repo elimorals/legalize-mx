@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-municipio-de-san-martin-de-hidalgo-72149"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2009-12-15"
-last_updated: "2009-12-15"
+last_updated: "2010-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL MUNICIPIO DE SAN MARTIN DE HIDALGO, JALISCO, PARA EL EJERCICIO FISCAL DEL AÑO 2010
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2010.
 
 Ley publicada en la Sección XXIV del Periódico Oficial del Estado de Jalisco, el martes 15 de diciembre de 2009.
 
@@ -225,11 +225,15 @@ Tasa bimestral al millar
 
 I. Predios rústicos:
 
-a) Para predios cuyo valor real se determine en los términos de la
+a) Para predios cuyo valor real se
 
-Ley de Hacienda Municipal del Estado de
+determine en los términos de la Ley
 
-Jalisco, sobre el valor fiscal determinado, el: 0.20
+de Hacienda Municipal del Estado de
+
+Jalisco, sobre el valor fiscal determinado,
+
+el: 0.20
 
 Tratándose de predios rústicos, según la definición de la Ley de Catastro Municipal, dedicados preponderantemente a fines agropecuarios en producción previa constancia de la dependencia que la Hacienda Municipal designe y cuyo valor se determine conforme al párrafo anterior, tendrán una reducción del 50% en el pago del impuesto.
 
@@ -237,17 +241,23 @@ A la cantidad que resulte de aplicar la tasa contenida en el inciso a), se le ad
 
 II. Predios urbanos:
 
-a) Predios edificados cuyo valor real se determine en los
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2010)</small>
 
-términos de la Ley de Hacienda Municipal del Estado de
+a) Predios edificados cuyo valor real se
 
-Jalisco, sobre el valor determinado, el: 0.80
+determine en los términos de la Ley de
 
-b) Predios no edificados, cuyo valor real se determine en
+Hacienda Municipal del Estado de Jalisco,
 
-los términos de la Ley de Hacienda Municipal del Estado de
+sobre el valor determinado, el: 0.18
 
-Jalisco, sobre el valor determinado, el: 0.30
+b) Predios no edificados, cuyo valor real se
+
+determine en los términos de la Ley de
+
+Hacienda Municipal del Estado de Jalisco,
+
+sobre el valor determinado, el: 0.30
 
 A las cantidades determinadas mediante la aplicación de las tasas señaladas en los incisos a) y b) de esta fracción, se les adicionará una cuota fija de $20.00 bimestrales y el resultado será el impuesto a pagar.
 
@@ -3218,3 +3228,9 @@ El Secretario General de Gobierno
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE AGOSTO DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
