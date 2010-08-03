@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2009-12-31"
+last_updated: "2010-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2010.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -917,7 +917,11 @@ VII. El importe de las indemnizaciones legales originadas por la comisión de ac
 
 VIII. El producto que se obtenga de la venta en subasta pública de los bienes mostrencos e instrumentos de delitos confiscados y permitidos por la ley, cuando no sean reclamados en el término de un año; con apego a lo que disponga la legislación civil o penal;
 
-IX. Los productos que por los servicios de guarda y custodia, de bienes en depósito legal, se realicen en la actualidad o que en el futuro se establezcan, en las áreas determinadas por el Ejecutivo, bienes éstos, remitidos por la Secretaría de Vialidad y Transporte en el Estado, Procuraduría General de Justicia en el Estado, Poder Judicial en el Estado, y demás autoridades y dependencias federales, estatales y municipales. Se faculta a la Secretaría de Finanzas del Gobierno del Estado para que ejercite la facultad económica coactiva en contra de los propietarios de bienes puestos en deposito, en las áreas determinadas por el Ejecutivo que adeuden más de 365 días de pensión y sin que sus propietarios o titulares de los derechos, hayan tramitado ante las autoridades competentes su devolución. El producto que se obtenga se aplicará en primera instancia el pago de los servicios de guarda y custodia que resulten en favor del Instituto y el remanente quedará a disposición del acreditado, en el propio Instituto;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+
+IX. Los productos que por los servicios de guarda y custodia se realicen en la actualidad o que en el futuro establezcan, de aquellos bienes que le sean remitidos en depósito legal por autoridades federales, estatales o municipales.
+
+La Secretaria de Finanzas del Gobierno del Estado ejercitará la facultad económica coactiva en contra de los propietarios de dichos bienes puestos en depósito, que adeuden 180 días o más de pensión, sin que sus propietarios o titulares de los derechos hayan tramitado su devolución ante las autoridades competentes, o que habiéndolo realizado, no lo notifique oportunamente al Instituto, y
 
 X. Los demás bienes, derechos e ingresos que obtengan por cualquier título.
 
@@ -3300,3 +3304,7 @@ TERCERO. El Consejo dará seguimiento a las personas con discapacidad que están
 CUARTO. Las entidades y dependencias del Poder Ejecutivo del Estado y los ayuntamientos contarán con 180 días a partir de la publicación del presente decreto en el Periódico Oficial "El Estado de Jalisco", para crear o adecuar sus reglamentos conforme a lo establecido en la presente ley y deberán definir la instancia responsable de su aplicación.
 
 QUINTO. Se deroga el Libro Quinto del Código de Asistencia Social del Estado de Jalisco, en sus artículos del 141 al 189, así como todas las disposiciones legales que contravengan el presente decreto.
+
+P.O. 3 DE AGOSTO DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
