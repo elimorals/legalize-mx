@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-obras-publicas-y-51880"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-12"
-last_updated: "2006-07-12"
+last_updated: "2010-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS Y VIVIENDA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE INFRAESTRUCTURA, PUBLICADO EN EL P.O. DE 4 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 12 de julio de 2006.
 
@@ -926,3 +928,17 @@ Cuarto.- El Secretario podrá ordenar que uno o varios asuntos en trámite al mo
 Quinto.- En cumplimiento a lo dispuesto por el Artículo 8°, de la Ley Orgánica de la Administración Publica Estatal, publíquese el presente Reglamento en el Periódico Oficial del Estado.
 
 Dado en la residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 16 días del mes de junio del año 2006.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE AGOSTO DE 2010.
+
+TRANSITORIOS:
+
+###### ARTICULO PRIMERO.
+
+EL PRESENTE REGLAMENTO INTERIOR ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL.
+
+###### ARTICULO SEGUNDO.
+
+SE ABROGA EL REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS Y VIVIENDA, PUBLICADO EN EL PERIODICO OFICIAL NUMERO 372, DEL DIA 12 DE JULIO DE 2006; ASI COMO LAS DISPOSICIONES QUE DEL MISMO EMANEN Y SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN A LO DISPUESTO EN EL PRESENTE REGLAMENTO INTERIOR.
