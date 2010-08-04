@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2010-07-10"
+last_updated: "2010-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE AGOSTO DE 2010 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2010.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1555,17 +1553,15 @@ V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abando
 
 ### CAPITULO III. DE LA VIOLENCIA FAMILIAR
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2010)</small>
 
-300 BIS.- Toda y todo integrante de la familia o unidad doméstica tiene derecho a que las y los demás miembros le respeten su integridad física, sexual y psicológica, con el objeto de contribuir a su sano desarrollo. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
+300 BIS.- Toda persona integrante de la familia o unidad doméstica tiene derecho a que los demás miembros le respeten su integridad física, sexual, psicológica, patrimonial y económica, con el objeto de contribuir a su sano desarrollo. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes, para prevenir y combatir conductas de violencia familiar.
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2010)</small>
 
 300 TER.- Quienes integren una familia o unidad doméstica o que tengan cualquier otra relación interpersonal están obligados a evitar conductas que generen violencia familiar.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2004)</small>
-
-Por violencia familiar se entiende cualquier acción o conducta que pueda causar la muerte, daño o sufrimiento físico, sexual o psicológico que tenga lugar dentro de la familia o unidad doméstica o en cualquier otra relación interpersonal, ya sea que la o el agresor comparta o haya compartido el mismo domicilio que el o la agredida.
+Por violencia familiar se entiende cualquier acción u omisión que pueda causar la muerte, daño o sufrimiento físico, sexual, psicológico, patrimonial o económico, que tenga lugar dentro de la familia o unidad doméstica o en cualquier otra relación interpersonal, ya sea que la o el agresor comparta o haya compartido el mismo domicilio que el o la agredida.
 
 ## TITULO SEPTIMO. DE LA PATERNIDAD Y FILIACION
 
@@ -9199,7 +9195,7 @@ En las donaciones, los condueños no gozarán del derecho del tanto.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
 
-2238.- La aceptación de las donaciones se hará en la misma forma en estas deben hacerse, pero no surtirá efectos sino se hiciere en vida del ddonante.
+2238.- La aceptación de las donaciones se hará en la misma forma en estas deben hacerse, pero no surtirá efectos sino se hiciere en vida del donante.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
 
@@ -12664,6 +12660,12 @@ Lo dispuesto en los artículos 7, fracción V; 15, 74, 89, 115, 134, 135, 136, 1
 El Titular del Ejecutivo Estatal contará con un término de noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, para expedir la reglamentación correspondiente a la presente Ley.
 
 P.O. 10 DE JULIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE AGOSTO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
