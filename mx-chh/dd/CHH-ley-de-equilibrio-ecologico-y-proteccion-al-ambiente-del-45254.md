@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-equilibrio-ecologico-y-proteccion-al-ambiente-del-45254"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-08"
-last_updated: "2010-01-13"
+last_updated: "2010-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 8 de junio de 2005.
 
@@ -1455,6 +1455,18 @@ Queda prohibida la fijación o colocación de anuncios publicitarios en elemento
 
 La Secretaría determinará las zonas en la Entidad que tengan un valor escénico o de paisaje y regulará y autorizará los tipos de obras o actividades que se pueden realizar con el propósito de evitar su deterioro.
 
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2010)</small>
+
+Quienes coloquen anuncios y propaganda comercial que promuevan eventos públicos, tienen la obligación de retirarlos de la vía pública en un plazo no mayor de quince días naturales contados a partir de la fecha de terminación del permiso otorgado por la autoridad.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2010)</small>
+
+Al pagar los derechos al municipio por la fijación de anuncios y propaganda comercial, el interesado depositará cantidad suficiente para garantizar el retiro de la propaganda en el tiempo establecido, cantidad que determinará el órgano municipal competente.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2010)</small>
+
+De no retirar los anuncios y/o la propaganda comercial en el tiempo determinado, el municipio hará válida la garantía anteriormente otorgada y procederá a su retiro.
+
 ###### ARTÍCULO 116.
 
 Los municipios, en coordinación con las dependencias o entidades estatales competentes en materia de conservación del patrimonio ambiental, determinarán las zonas que tengan un valor escénico o de paisaje, dentro de sus respectivas circunscripciones territoriales, a fin de prevenir y controlar su deterioro.
@@ -2516,6 +2528,12 @@ Se derogan todas aquellas disposiciones legales en el Estado de Chihuahua que se
 ###### ARTÍCULO CUARTO.
 
 Los procedimientos y recursos administrativos relacionados con las materias de esta Ley, que se hubieren iniciado bajo la vigencia de la que se abroga, se tramitarán y resolverán conforme a las disposiciones de dicha Ley.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE AGOSTO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
