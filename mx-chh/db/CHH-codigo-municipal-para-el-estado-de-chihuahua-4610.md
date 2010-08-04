@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2010-07-17"
+last_updated: "2010-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2010.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -2845,6 +2845,10 @@ c) Mercados y centrales de abasto;
 
 X.- Los demás que establezca la ley.
 
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2010)</small>
+
+Además de los requisitos que estipule la autoridad municipal competente a fin de obtener el permiso relativo a la fracción VIII, las personas interesadas deberán constituir a favor de la Tesorería Municipal garantía suficiente que se fije para asegurar el retiro oportuno de los anuncios y propaganda comercial, de acuerdo con lo establecido por el artículo 115 de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chihuahua. En caso de que se cumpla con la obligación establecida en este párrafo en el tiempo señalado, se procederá a la devolución de la citada garantía.
+
 ###### ARTICULO 169.
 
 Los derechos se recaudarán, tomando como base los conceptos autorizados de acuerdo con las leyes y tarifas que el Congreso del Estado apruebe.
@@ -4052,6 +4056,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 17 DE JULIO DE 2010.
 
 DECRETO No. 1111/2010 II P.O., POR EL QUE SE REFORMA EL ARTICULO 84 BIS DEL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE AGOSTO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
