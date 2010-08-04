@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-consejo-estatal-de-seguridad-publica-64
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-15"
-last_updated: "2008-10-15"
+last_updated: "2010-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA, PUBLICADO EN EL P.O. DE 4 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 15 de octubre de 2008.
 
@@ -652,3 +654,17 @@ Artículo Quinto.- El Consejo a través del Secretario Ejecutivo, podrá ordenar
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintinueve días del mes de septiembre de dos mil ocho.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Carlos Raymundo Toledo, Secretario Ejecutivo.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE AGOSTO DE 2010.
+
+TRANSITORIOS:
+
+###### ARTICULO PRIMERO.
+
+EL PRESENTE REGLAMENTO ENTRARA EN VIGOR EL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL.
+
+###### ARTICULO SEGUNDO.
+
+SE ABROGA EL REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA, PUBLICADO EN EL PERIODICO OFICIAL NUMERO 120, DE FECHA 15 DE OCTUBRE DE 2008.
