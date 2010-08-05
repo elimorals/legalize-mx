@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-asistencia-social-10352"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-15"
-last_updated: "1996-09-15"
+last_updated: "2010-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ASISTENCIA SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2010.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 15 de septiembre de 1996.
 
@@ -31,7 +31,7 @@ EL CIUDADANO LICENCIADO MAXIMILIANO SILERIO ESPARZA, GOBERNADOR CONSTITUCIONAL D
 
 Que la H. Legislatura del mismo se ha servido dirigirme el siguiente.
 
-Con fecha 3 de Junio del año en curso, el Titular del Poder Ejecutivo, envió a esta H. LX Legislatura Local, iniciativa de Decreto, que contiene LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE DURANGO, la cual fue turnada a la Comisión de Asistencia Social, integrada por los CC. Diputados Carmen Aide Quñones Ruiz, Gamaliel C. Luna Chairez, Rafael Palacios Alvarado, Néstor Jesús Vargas Pérez y Hector Raul Avendaño, Presidente, Secretario y Vocales respectivamente, mismos que emitieron su dictamen favorable con base en los siguientes:
+Con fecha 3 de Junio del año en curso, el Titular del Poder Ejecutivo, envió a esta H. LX Legislatura Local, iniciativa de Decreto, que contiene LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE DURANGO, la cual fue turnada a la Comisión de Asistencia Social, integrada por los CC. Diputados Carmen Aide Quiñones Ruiz, Gamaliel C. Luna Chairez, Rafael Palacios Alvarado, Néstor Jesús Vargas Pérez y Hector Raul Avendaño, Presidente, Secretario y Vocales respectivamente, mismos que emitieron su dictamen favorable con base en los siguientes:
 
 C O N S I D E R A N D O S :
 
@@ -47,7 +47,7 @@ QUINTO.- Que la Comisión que dictaminó, coincidió con el sentir del autor de 
 
 SEXTO.- Que de igual manera, la Comisión, fue coincidente en la intención del iniciador, por procurar hacer realidad una acción de asistencia social integral, que abarque prioritariamente la protección y desarrollo de los menores, discapacitados, las mujeres, ancianos, y personas en situaciones extraordinarias, así como la realización de programas que prevengan la violencia y maltrato intrafamiliar, así como la promoción de la integración familiar y comunitaria en atención al desarrollo de la nutrición, como elemento básico de la salud y la educación.
 
-SÉPTIMO.- Que del análisis del Proyecto de Decreto contenido en la Iniciativa, se desprende que incluye lo referente a la asistencia social, prevención de invalidez, y rehabilitación de inválidos, cuyo rubro se encuentra en la Ley Estatal de Salud vigente desde 1987, incorporándolo a su texto, asimismo, la citada propuesta de Ley incorpora al Sistema Estatal de Asistencia Social, los organismos municipales encargados de realizar los servicios asistenciales en las distintas municipalidades del Estado, con el objeto de uniformar la dotación de servicios asistenciales con una mayor cobertura territorial y poblacional, y por sobre todo, buscando la uniformidad en la realización de los programas; al regular el servicio voluntario y la participación de los particulares en las acciones de asistencia social del Estado, sectores que fortalezcan en todos los ámbitos, la realización de los programas, puesto que ello involucra a más sectores de la comunidad, y por consiguiente, el servicio prestado será más eficaz; la nueva regulación legal del Organismo Público Descentralizado denominado: "Sistema para el Desarrollo Integral de la Familia del Estado de Durango", implica la modernización administrativa que permitirá el sustento de la nueva función de dicho Organismo frente a las nuevas necesidades sociales de la colectividad; por último, la coordinación interinstitucional en materia de asistencia social, permitirá al DIF Estatal, garantizar con eficacia la realización de los programas en esta materia, puesto que brindará con mayor eficiencia, la protección a los menores en desamparo, discapacitados físicos, deficientes mentales, ancianos en desamparo, mujeres en estado de gravidez y lactancia, así como como el estado de maltrato, personas víctimas de abandono, programas alimenticios y de nutrición destinados a las zonas marginadas y del medio rural, atención de víctimas en casos de desastres, la protección y vigilancia de los menores infractores, prevención y rehabilitación de alcohólicos, farmacodependientes y menores con predisposición a la vagancia, y en general, a todas aquellas personas que requieren atención especial.
+SÉPTIMO.- Que del análisis del Proyecto de Decreto contenido en la Iniciativa, se desprende que incluye lo referente a la asistencia social, prevención de invalidez, y rehabilitación de inválidos, cuyo rubro se encuentra en la Ley Estatal de Salud vigente desde 1987, incorporándolo a su texto, asimismo, la citada propuesta de Ley incorpora al Sistema Estatal de Asistencia Social, los organismos municipales encargados de realizar los servicios asistenciales en las distintas municipalidades del Estado, con el objeto de uniformar la dotación de servicios asistenciales con una mayor cobertura territorial y poblacional, y por sobre todo, buscando la uniformidad en la realización de los programas; al regular el servicio voluntario y la participación de los particulares en las acciones de asistencia social del Estado, sectores que fortalezcan en todos los ámbitos, la realización de los programas, puesto que ello involucra a más sectores de la comunidad, y por consiguiente, el servicio prestado será más eficaz; la nueva regulación legal del Organismo Público Descentralizado denominado: "Sistema para el Desarrollo Integral de la Familia del Estado de Durango", implica la modernización administrativa que permitirá el sustento de la nueva función de dicho Organismo frente a las nuevas necesidades sociales de la colectividad; por último, la coordinación interinstitucional en materia de asistencia social, permitirá al DIF Estatal, garantizar con eficacia la realización de los programas en esta materia, puesto que brindará con mayor eficiencia, la protección a los menores en desamparo, discapacitados físicos, deficientes mentales, ancianos en desamparo, mujeres en estado de gravidez y lactancia, así como el estado de maltrato, personas víctimas de abandono, programas alimenticios y de nutrición destinados a las zonas marginadas y del medio rural, atención de víctimas en casos de desastres, la protección y vigilancia de los menores infractores, prevención y rehabilitación de alcohólicos, farmacodependientes y menores con predisposición a la vagancia, y en general, a todas aquellas personas que requieren atención especial.
 
 Con base en los anteriores considerandos, la H. LX Legislatura del Estado, expide el siguiente:
 
@@ -67,9 +67,11 @@ La presente Ley es de orden público e interés social, y tiene como objeto, cre
 
 El Gobierno del Estado, en forma prioritaria, proporcionará servicios de asistencia social, encaminados al desarrollo integral de la familia. Para los efectos de esta Ley, se entiende por asistencia social, el apoyo que el Estado suministra a los grupos sociales marginados o más vulnerables de la sociedad, a través de un conjunto de acciones, que tiendan a modificar y mejorar sus condiciones de vida y bienestar.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2010)</small>
+
 ###### Art. 3.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Durango, es un organismo público descentralizado, con personalidad jurídica y patrimonio propio, con domicilio en la ciudad de Durango, sin perjuicio de que pueda establecer en otros lugares de la entidad, la sede de programas y dependencias que estime convenientes para la mejor realización de sus actividades.
+El Sistema para el Desarrollo Integral de la Familia del Estado de Durango, es un organismo público descentralizado, con personalidad jurídica y patrimonio propio, con domicilio en la ciudad de Durango, sin perjuicio de que se pueda establecer en otros lugares de la entidad, la sede de programas y dependencias que estime convenientes para la mejor realización de sus actividades.
 
 El Sistema:
 
@@ -81,15 +83,19 @@ a). Atender a los grupos sociales marginados o más vulnerables de la sociedad;
 
 b). Promover la integración familiar y comunitaria en base a la alimentación, nutrición, educación, salud, recreación, deporte y todos aquellos valores que contribuyan a su cultura y bienestar; y
 
-c). Proporcionar servicios de asistencia social a menores, personas con deficiencia mental, discapacitados, ancianos, personas que sufran violencia intrafamiliar, mujeres en estado de gravidez o maltrato, personas en estado de abandono, y otros casos en circunstancias parecidas.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2010)</small>
+
+c). Proporcionar servicios de asistencia social a menores, personas con deficiencia mental, discapacitados, ancianos, personas que sufran violencia familiar, mujeres que sufran violencia de género o se encuentren en estado de gravidez, personas en estado de abandono, y otros casos en circunstancias parecidas.
 
 ###### Art. 4.
 
 En las disposiciones subsecuentes, cuando se haga mención al DIF Estatal, se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Estado de Durango.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2010)</small>
+
 ###### Art. 5.
 
-Los componentes de una comunidad tienen la obligación moral de dar aviso a las instancias correspondientes, cuando se de el caso de personas que requieran de asistencia social, y que se encuentren impedidas para solicitar auxilio por sí mismas.
+Los miembros de una comunidad tienen la obligación moral de dar aviso a las instancias correspondientes, cuando se de el caso de personas que requieran de asistencia social, y que se encuentren impedidas para solicitar auxilio por sí mismas.
 
 ### CAPITULO II. DE LA COORDINACION INTERINSTITUCIONAL
 
@@ -157,7 +163,9 @@ IV.- Alentar los proyectos productivos y la producción de alimentos para el aut
 
 V.- Fomentar la asistencia social en base a la salud y educación de la familia;
 
-VI.- La atención a menores y personas con deficiencia mental, discapacitados, y que sufran violencia intrafamiliar, mujeres abandonadas y maltratadas, ancianos y otros casos de personas en circunstancias parecidas;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2010)</small>
+
+VI.- La atención a menores y personas con deficiencia mental, discapacitados, y que sufran violencia familiar, mujeres víctimas de violencia de género o abandonadas, ancianos y otros casos de personas en circunstancias parecidas;
 
 VII.- El fomento a la paternidad responsable, que propicie la vigencia de los derechos de los menores a la satisfacción de sus necesidades, y salud física y mental;
 
@@ -179,15 +187,25 @@ XV.- La formación de grupos de promotores sociales voluntarios;
 
 XVI.- Patrocinar y poner a disposición del ministerio público los elementos a su alcance en la protección de discapacitados y en los procedimientos civiles y familiares que les afecten, de acuerdo con las leyes relativas;
 
-XVII.- La operación de establecimientos de asistencia social;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2010)</small>
+
+XVII.- La operación de establecimientos de asistencia social, centros de atención inmediata para las víctimas de violencia de género, en los términos establecidos en la Ley de las Mujeres para una Vida sin Violencia;
 
 XVIII.- Los servicios funerarios a personas de muy difícil situación económica;
 
 XIX.- Fomentar la formación de instituciones de beneficencia privada;
 
-XX.- Promover acciones que tiendan a establecer hábitos de conducta y valores que contribuyan a la protección y superación de los grupos vulnerables; y
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2010)</small>
 
-XXI.- Promover y atender, en general, cualquier otra actividad de asistencia social que beneficie a los componentes más vulnerables de la sociedad.
+XX.- Promover acciones que tiendan a establecer hábitos de conducta y valores que contribuyan a la protección y superación de los grupos vulnerables;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2010)</small>
+
+XXI.- Promover y atender, en general, cualquier otra actividad de asistencia social que beneficie a los miembros más vulnerables de la sociedad; y
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2010)</small>
+
+XXII.- Las atribuciones establecidas en el artículo 39 de la Ley de las Mujeres para una Vida sin Violencia.
 
 ### CAPITULO V. DE LOS SUJETOS DE LA ASISTENCIA SOCIAL
 
@@ -203,7 +221,9 @@ III.- Personas con discapacidad;
 
 IV.- Ancianos en desamparo, marginación y en maltrato;
 
-V.- Mujeres en período de gestación, lactancia, y sujetas a maltrato;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2010)</small>
+
+V.- Mujeres en período de gestación, lactancia, y víctimas de violencia de género;
 
 VI.- Víctimas en estado de abandono;
 
@@ -285,9 +305,11 @@ La vigilancia de la operación del Organismo estará a cargo de un comisario.
 
 ### CAPITULO XI. DEL PATRONATO
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2010)</small>
+
 ###### Art. 23.
 
-El Patronato estará integrado por diez miembros; tanto el que lleve el carácter de presidente, como los demás componentes, serán designados y removidos por el Gobernador del Estado. A excepción de quien deba fungir como presidente, los demás los escogerá de los sectores privado y social. En la integración del Patronato, el Director General del DIF Estatal deberá formar parte de los diez miembros, representando a la Junta de Gobierno. Los miembros del Patronato no percibirán pago alguno por este cargo.
+El Patronato estará integrado por diez miembros; tanto el que lleve el carácter de presidente, como los demás miembros, serán designados y removidos por el Gobernador del Estado. A excepción de quien deba fungir como presidente, los demás los escogerá de los sectores privado y social. En la integración del Patronato, el Director General del DIF Estatal deberá formar parte de los diez miembros, representando a la Junta de Gobierno. Los miembros del Patronato no percibirán pago alguno por este cargo.
 
 ###### Art. 24.
 
@@ -457,11 +479,15 @@ En cada uno de los municipios de la entidad, en base a sus características prop
 
 En las disposiciones subsecuentes, cuando se haga mención al "Sistema", se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Municipio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2010)</small>
+
 ###### Art. 43.
 
-El Organismo a que se refiere el artículo anterior, tendrá como objetivos fundamentales:
+El organismo a que se refiere el artículo anterior, tendrá como objetivos fundamentales:
 
-a).- Proporcionar servicios de asistencia social a menores y personas con deficiencia mental, discapacitados, y que sufran violencia intrafamiliar, mujeres en estado de embarazo, ancianos y otros casos de personas en circunstancias parecidas;
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2010)</small>
+
+a).- Proporcionar servicios de asistencia social a menores y personas con deficiencia mental, discapacitados, y que sufran violencia familiar, mujeres que sufran violencia de género o se encuentren en estado de gravidez, ancianos y otros casos de personas en circunstancias parecidas;
 
 b).- Coordinar las acciones que en la materia del inciso anterior, realicen otras instituciones públicas, sociales y privadas; y
 
@@ -540,3 +566,11 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los once días del mes de Septiembre de mil novecientos noventa y seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. MAXIMILIANO SILERIO ESPARZA. EL SECRETARIO GENERAL DE GOBIERNO. LIC. ALFREDO BRACHO BARBOSA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
