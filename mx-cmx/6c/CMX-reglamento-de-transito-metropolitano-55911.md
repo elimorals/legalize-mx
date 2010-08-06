@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-metropolitano-55911"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-20"
-last_updated: "2010-02-17"
+last_updated: "2010-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55911&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-06-19"
 
 REGLAMENTO DE TRANSITO METROPOLITANO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE AGOSTO DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 20 de junio de 2007.
 
@@ -928,45 +928,61 @@ VII 80 a 130 días y remisión del vehículo al depósito
 
 I 80 a 100 días y remisión del vehículo al depósito
 
+> <small>(REFORMADO, G.O. 6 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 23.
 
-Queda prohibido a los conductores de vehículos de transporte público de pasajeros colectivo:
+Queda prohibido a los conductores de vehículos de transporte público de pasajeros individual o colectivo:
 
-I. Circular:
+I. Rebasar a otro vehículo en el carril de contraflujo de los ejes viales, salvo que dicho vehículo esté parado por alguna descompostura. En este caso, el conductor rebasará con precaución, con las luces delanteras encendidas y direccionales funcionando;
 
-a) Por los carriles centrales de la red vial primaria y de acceso controlado y por el segundo carril de la vía lateral a excepción de utilizarlo para rebasar, y
+II. Realizar maniobras de ascenso o descenso de pasajeros, en el segundo o tercer carril de circulación, contados de derecha a izquierda;
 
-b) Por vías primarias en el segundo carril, a excepción de utilizarlo para rebasar, si no hay circulación que lo impida.
+III. Llevar vidrios polarizados, obscurecidos o con aditamentos u objetos distintos a las calcomanías reglamentarias;
 
-II. Rebasar a otro vehículo en el carril de contraflujo de los ejes viales, salvo que dicho vehículo esté parado por alguna descompostura. En este caso, el conductor rebasará con precaución, con las luces delanteras encendidas y direccionales funcionando;
+IV. Llevar objetos que obstruyan la visibilidad del conductor o lo distraigan;
 
-> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
+V. Instalar o utilizar televisores o pantallas de proyección de cualquier tipo de imagen en la parte delantera del vehículo;
 
-III. Realizar maniobras de ascenso o descenso de pasajeros, en el segundo o tercer carril de circulación, contados de derecha a izquierda, o sobre una ciclovía o un ciclocarril;
+VI. Instalar o utilizar faros deslumbrantes que pongan en riesgo la seguridad de conductores o peatones; así como luces de neón alrededor de las placas de matrícula; y
 
-IV. Llevar vidrios polarizados, obscurecidos o con aditamentos u objetos distintos a las calcomanías reglamentarias;
+VII. Cargar combustible llevando pasajeros a bordo.
 
-V. Llevar objetos que obstruyan la visibilidad del conductor o lo distraigan;
+Además de lo previsto en las fracciones anteriores, está prohibido a los conductores del transporte público colectivo de pasajeros:
 
-VI. Instalar o utilizar televisores o pantallas de proyección de cualquier tipo de imagen en la parte delantera del vehículo;
+a) Circular por los carriles centrales de la red de vialidad primaria y de acceso controlado, excepto que se trate del servicio exprés autorizado por la Secretaría;
 
-VII. Instalar o utilizar faros deslumbrantes que pongan en riesgo la seguridad de conductores o peatones; así como luces de neón alrededor de las placas de matrícula; y
+b) Circular por vías primarias en el segundo carril, a excepción de utilizarlo para rebasar, si no hay circulación que lo impida, y
 
-VIII. Cargar combustible llevando pasajeros a bordo.
+c) Circular por el segundo carril de la vía lateral salvo que se utilice para rebasar.
 
-La infracción a las prohibiciones dispuestas en este artículo, se sancionará con base en la siguiente tabla, sin perjuicio de lo dispuesto por la Ley de Transporte y Vialidad y el Reglamento de Transporte:
+La infracción a las prohibiciones dispuestas en este artículo, se sancionará con base en la siguiente tabla, sin perjuicio de lo dispuesto en la Ley de Transporte y Vialidad y el Reglamento de Transporte:
 
-Fracción Sanción con multa equivalente en
+Fracción Sanción con multa equivalente
 
-días del salario mínimo general
+en días del salario mínimo general
 
 vigente en el Distrito Federal
 
-I, II, IV, V, VII y VIII 10 días
+> <small>(F. DE E., G.O. 19 DE AGOSTO DE 2010)</small>
 
-VI 20 días
+I, IV, VI y VII 10 días
 
-III 80-130 días
+V 20 días
+
+II 80 días
+
+III 10 días y remisión del
+
+vehículo al depósito
+
+Incisos a) al c)
+
+del penúltimo
+
+párrafo del
+
+presente artículo 10 días
 
 ### CAPÍTULO IV. DE LA CIRCULACIÓN DEL TRANSPORTE DE CARGA Y DE SUSTANCIAS TÓXICAS Y PELIGROSAS
 
@@ -1609,6 +1625,12 @@ PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO. - El presente decreto entrará en vigor diez días naturales después de su publicación en la Gaceta Oficial del Distrito Federal.
 
 G.O. 17 DE FEBRERO DE 2010.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 6 DE AGOSTO DE 2010.
 
 Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
