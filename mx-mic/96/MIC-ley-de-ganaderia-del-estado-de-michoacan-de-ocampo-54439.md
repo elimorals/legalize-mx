@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ganaderia-del-estado-de-michoacan-de-ocampo-54439"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-02"
-last_updated: "2007-08-23"
+last_updated: "2010-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE GANADERIA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2010.
 
 Ley publicada en la cuarta Sección del Periódico Oficial del Estado de Michoacán, el viernes 2 de marzo de 2007.
 
@@ -459,25 +459,37 @@ La Secretaría establecerá el registro estatal de la propiedad ganadera, el cua
 
 Es obligatorio para los propietarios de ganado mayor usar fierro y sólo podrá tener un título de marca de herrar, señal de sangre o tatuaje y arete oficial.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
+
 ###### ARTÍCULO 34.
 
-Los fierros, marcas, tatuajes, aretes y señales de sangre deben inscribirse en el Registro Estatal de la Propiedad Ganadera y en la Presidencia Municipal del lugar en que se encuentren los semovientes antes de ponerse en uso y trasladarse o cancelarse cuando se transmita totalmente la propiedad de un negocio o se extinga éste, así como las patentes respectivas, mismas que se revalidarán en los años terminados en cero y cinco ante la Presidencia Municipal que corresponda.
+Los fierros, marcas, tatuajes, aretes y señales de sangre se deberán inscribir en el Registro Estatal de la Propiedad Ganadera y en la Presidencia Municipal del lugar en que se encuentren los semovientes antes de ponerse en uso y trasladarse o cancelarse, cuando se transmita totalmente la propiedad de un negocio o se extinga éste, así como las patentes respectivas, mismas que se revalidarán en los años terminados en cero y cinco ante la Presidencia Municipal que corresponda.
 
-Las figuras de fuego, los tatuajes, los aretes y las señales de sangre deberán usarse exclusivamente por su dueño, sancionándose los casos en que distinta persona haga uso total o parcial de ellos.
+Las figuras de fuego, los tatuajes, los aretes y las señales de sangre deberán usarse única y exclusivamente por su dueño, sancionando los casos en que distinta persona que no sea propietaria haga uso total o parcial de ellos.
+
+El Registro Estatal de la Propiedad Ganadera será implementado en todo el Estado de Michoacán y estará a cargo de la Secretaría de Desarrollo Rural del Estado, el cual tendrá como finalidad el llevar acabo el registro de los fierros, marcas, tatuajes, aretes y señales de sangre, así como de la diversa información que esté ligada a la actividad pecuaria en el Estado de Michoacán.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
 
 ###### ARTÍCULO 35.
 
-El registro de fierros, marcas, tatuajes, aretes y señales se asentará en tres libros un original, un duplicado y un triplicado autorizados por la Secretaría, previa solicitud del interesado o de su representante legal. En el caso de personas morales la solicitud la deberá firmar el representante legal.
+El registro de fierros, marcas, tatuajes, aretes y señales de sangre se deberá inscribir en el Registro Estatal de la Propiedad Ganadera de la Secretaría, la cual expedirá, revalidará y cancelará el certificado correspondiente, previa solicitud del interesado o de su representante legal según sea el caso.
 
-La autoridad municipal, al recibir la patente única, hará la anotación respectiva en los fierros y patentes a que se refiere esta disposición.
+El registro podrá realizarse por conducto de la autoridad municipal, Unión Ganadera Regional del Estado y las Asociaciones Ganaderas Locales, existentes en el municipio que se encuentren debidamente registradas, aún cuando el ganadero no sea socio.
+
+Cuando por cualquier motivo el ganadero deje de utilizar el fierro o señal de sangre que tenga registrado como propietario, él mismo, podrá promover su cancelación ante la Secretaría de Desarrollo Rural.
+
+El fierro, marca, tatuaje, arete y señal de sangre que no se encuentren registrados carecerán de valor legal.
 
 ###### ARTÍCULO 36.
 
 En la cabecera del Munipio (sic) habrá un fierro de venta oficial registrado, con el que se marcarán los animales que se hayan demostrado como mostrencos, vendidos en subasta pública por la autoridad municipal del lugar, debiendo estar presente el inspector de ganadería y de ser posible un representante de la Asociación Ganadera Local.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
+
 ###### ARTÍCULO 37.
 
-Las figuras a fuego y señales de sangre no registradas, carecen de valor legal; cuando algún animal ostente figuras o señales registradas juntamente con otras no registradas, se considerará dueña de él a la persona que exhiba documentación de propiedad y de registro que llene los requisitos legales.
+Las figuras a fuego y señales de sangre no inscritas, en el Registro Estatal de la Propiedad Ganadera de la Secretaría y/o en los municipios correspondientes carecerán de valor legal; así mismo cuando algún animal ostente figuras o señales registradas juntamente con otras no registradas, se considerará dueño de él a la persona que exhiba la documentación de propiedad y de registro, que cumplan con los requisitos legales correspondientes.
 
 ###### ARTÍCULO 38.
 
@@ -575,19 +587,23 @@ En ambos casos deberán cumplirse los requisitos señalados en la NOM-033-ZOO-19
 
 Para ser administrador o encargado de un rastro, es necesario que se reúnan los requisitos que determine la Secretaría.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
+
 ###### ARTÍCULO 55.
 
-Los administradores o encargados de rastros serán personalmente responsables de la legalidad de los sacrificios que se efectúen en los establecimientos a su cargo y de que previamente se hayan cubierto los impuestos respectivos, estando obligados a llevar un libro de registro, autorizado por la autoridad municipal, en el que por número de orden y fechas, anotarán la entrada de los animales al rastro, el nombre del introductor, el del lugar de procedencia, la especie, edad, clase, color y marcas de los animales, el número y fecha de la guía de tránsito y el nombre del inspector de ganadería que lo expidió; también anotará los nombres del vendedor y del comprador, la fecha del sacrificio y el impuesto que se pagó reservando una columna para la anotación de circunstancias imprevistas que llegaren a presentarse.
+Los administradores o encargados de los rastros serán personalmente responsables de la legalidad con la que se realicen los sacrificios que efectúen a los animales en los establecimientos a su cargo y de que previamente se hayan cubierto los impuestos respectivos, estando obligados a inscribir en el Registro Estatal de la Propiedad Ganadera, el número de orden, fecha, la entrada de los animales al rastro, el nombre del introductor, el del lugar de procedencia, la especie, edad, clase, color y marcas de los animales, el número y fecha de la guía de tránsito y el nombre del inspector de ganadería que lo expidió; también se anotará los nombres del vendedor y del comprador, así como la fecha del sacrificio y el impuesto que se pagó.
 
-Si por omisión, contravención o alteración de los requisitos anteriores, se sacrificare ilegalmente algún animal o dejaren de pagarse los impuestos correspondientes, el administrador o encargado se sujetará a las disposiciones legales a que halla lugar.
+Si por omisión, contravención o alteración de los requisitos anteriores, se sacrificare ilegalmente algún animal o dejaren de pagarse los impuestos correspondientes, el administrador o encargado se sujetará a las disposiciones legales a que haya lugar.
 
 ###### ARTÍCULO 56.
 
 Las instalaciones y los registros de los rastros podrán ser revisados en cualquier tiempo por los inspectores de ganadería, por los representantes de los organismos ganaderos del Estado y por las autoridades de salud correspondientes, pudiendo hacer cualquiera de ellos las gestiones que procedan para remediar las irregularidades que perciban o denunciar el hecho para su corrección y sanción.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
+
 ###### ARTÍCULO 57.
 
-Los administradores o encargados de rastros reportarán cada mes a la Secretaría, a la autoridad municipal correspondiente y a la Asociación Ganadera Local respectiva, el movimiento de ganado y sacrificios registrados, con expresión de los datos del registro y los impuestos pagados.
+Los administradores o encargados de rastros reportarán cada mes a la Secretaría, y al Registro Estatal de la Propiedad Ganadera en coordinación con la autoridad municipal correspondiente y la Asociación Ganadera Local respectiva, el movimiento de ganado y sacrificios registrados, con expresión de los datos del registro y los impuestos pagados.
 
 ###### ARTÍCULO 58.
 
@@ -1104,3 +1120,9 @@ P.O. 23 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
+
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
