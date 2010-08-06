@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-electoral-62114"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-11"
-last_updated: "2009-01-16"
+last_updated: "2010-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62114&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-07-10"
 
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE AGOSTO DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 11 de agosto de 2008.
 
@@ -237,9 +237,15 @@ IV. La Dirección Jurídica;
 
 V. La Dirección del Secretariado;
 
-VI. El Centro para el Desarrollo Democrático; y
+VI. El Centro para el Desarrollo Democrático; y (sic)
 
-VIII (SIC). Las demás que determine el Consejo General.
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+VII.- Unidad Técnica de Planeación; y
+
+> <small>(ADICIONADA, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+VIII.- Las demás que determine el Consejo General.
 
 4.1. En el acuerdo de creación correspondiente se determinará la adscripción de las Unidades Técnicas, según corresponda.
 
@@ -267,9 +273,17 @@ c) Los demás que determine el Consejo.
 
 A) El Organo Garante de la Transparencia y el Acceso a la Información;
 
-B) El Comité de Información; y
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-C) La Unidad Técnica de Servicios de Información y Documentación.
+B) El Comité de Información;
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+C) La Unidad Técnica de Servicios de Información y Documentación; y
+
+> <small>(ADICIONADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+D) La Unidad de Enlace.
 
 7. Organo de Control
 
@@ -513,9 +527,11 @@ l) Someter al Consejo las propuestas para la creación de nuevas direcciones o u
 
 m) En cumplimiento a lo ordenado por el Consejo, instruir al Secretario Ejecutivo para que realice la publicación en el Diario Oficial de la Federación, de los acuerdos y resoluciones de carácter general que pronuncie el órgano máximo de dirección;
 
-n) Las que señalen los reglamentos en materia de transparencia, de quejas, de fiscalización y de radio y televisión; y
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-ñ) Las demás que le confiera el Código y otras disposiciones aplicables.
+n) Las demás que le confiera el Código y otras disposiciones aplicables.
+
+ñ) (DEROGADO, D.O.F. 6 DE AGOSTO DE 2010)
 
 Delegacionales
 
@@ -555,9 +571,11 @@ l) Supervisar las relaciones de las Juntas Locales con las autoridades estatales
 
 m) Conocer el presupuesto con que cuenta el Consejo Local;
 
-n) Las que señalen los reglamentos en materia de transparencia, de quejas, de fiscalización y de radio y televisión; y
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-ñ) Las demás que le confiera el Código y otras disposiciones aplicables.
+n) Las demás que le confiera el Código y otras disposiciones aplicables.
+
+ñ) (DEROGADO, D.O.F. 6 DE AGOSTO DE 2010)
 
 2. El Consejo Local deberá evaluar, en la última etapa del proceso electoral, el funcionamiento de las Comisiones locales.
 
@@ -599,9 +617,11 @@ k) Expedir la constancia de mayoría y validez de la elección a las fórmulas d
 
 l) Recibir y turnar los medios de impugnación que se interpongan en contra de los actos o resoluciones del Consejo Local; y (sic)
 
-m) Las que señalen los reglamentos en materia de transparencia, de quejas, de fiscalización y de radio y televisión; y
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-n) Las demás que les confiera el Código y otras disposiciones aplicables.
+m) Las demás que les confiera el Código y otras disposiciones aplicables.
+
+n) (DEROGADO, D.O.F. 6 DE AGOSTO DE 2010)
 
 2. El Presidente del Consejo Local que corresponda a la capital cabecera de circunscripción plurinominal, además de las atribuciones anteriores, deberá:
 
@@ -797,11 +817,11 @@ v) Supervisar las actividades de las Juntas Distritales ejecutivas durante el pr
 
 w) Adoptar las medidas a que hubiere lugar con el fin de asegurar a los partidos políticos y candidatos el pleno ejercicio de sus derechos en la materia;
 
-x) Las que señalen los reglamentos en materia de transparencia, de quejas, de fiscalización y de radio y televisión; y
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+x) Las demás que le confiera el Código y otras disposiciones aplicables.
 
-y) Las demás que le confiera el Código y otras disposiciones aplicables.
+y) (DEROGADO, D.O.F. 6 DE AGOSTO DE 2010)
 
 #### Sección Primera. Del Presidente del Consejo Distrital
 
@@ -855,9 +875,11 @@ u) Vigilar el cumplimiento de las resoluciones dictadas por el propio Consejo Di
 
 v) Recibir las solicitudes de acreditación que presenten los ciudadanos mexicanos, o las agrupaciones a las que pertenezcan, para participar como observadores durante el proceso electoral;
 
-w) Las que señalen los reglamentos en materia de transparencia, de quejas, de fiscalización y de radio y televisión; y
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-x) Las demás que les confiera el Código.
+w) Las demás que les confiera el Código y otras disposiciones aplicables.
+
+x) (DEROGADO, D.O.F. 6 DE AGOSTO DE 2010)
 
 #### Sección Segunda. De las Comisiones de los Consejos Distritales
 
@@ -1009,9 +1031,11 @@ g) Recibir informes del Contralor General respecto de los expedientes relativos 
 
 h) Formular los estudios y, en su caso, los proyectos de convenio a que se refiere el párrafo 3 del artículo 118 del Código;
 
-i) Las que señalen, en su caso, los reglamentos en materia de transparencia, de quejas, de fiscalización y de radio y televisión; y
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-j) Las demás que le confiera el Código y otras disposiciones aplicables.
+i) Las demás que le confiera el Código y otras disposiciones aplicables.
+
+j) (DEROGADO, D.O.F. 6 DE AGOSTO DE 2010)
 
 ### Capítulo Segundo. De la Secretaría Ejecutiva
 
@@ -1027,57 +1051,105 @@ b) Ejecutar y supervisar el adecuado cumplimiento de los acuerdos del Consejo y 
 
 c) Acordar con el Presidente del Consejo los asuntos de su competencia;
 
-d) Elaborar anualmente, de acuerdo con las leyes aplicables, el anteproyecto de presupuesto del Instituto para someterlo a la consideración del Presidente del Consejo;
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-e) Proponer al Presidente del Consejo el nombramiento de los Titulares de las Unidades Técnicas adscritas a la Secretaría Ejecutiva;
+d) Coordinar el Sistema Integral de Planeación, Seguimiento y Evaluación para someterlo a la aprobación del Consejo General;
 
-f) Recibir en acuerdo ordinario a los Titulares de las Direcciones Ejecutivas, Unidades Técnicas y Vocales Ejecutivos de las Juntas Locales, de conformidad con lo dispuesto en este Reglamento;
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-g) Colaborar con las Comisiones en su carácter de Secretario del Consejo;
+e) Elaborar anualmente el anteproyecto de presupuesto del Instituto aplicando criterios de austeridad, racionalidad, eficacia y honradez del gasto público, de conformidad con las leyes aplicables y en concordancia con el Plan Estratégico Institucional, para someterlo a la consideración del Presidente del Instituto;
 
-h) Establecer los mecanismos para la adecuada coordinación de las acciones de la Junta, Direcciones Ejecutivas y Unidades Técnicas, con las Juntas Ejecutivas Locales y Distritales;
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-i) Disponer la realización de los estudios pertinentes para establecer oficinas municipales y presentarlos a la Junta;
+f) Proponer al Presidente del Consejo el nombramiento de los Titulares de las Unidades Técnicas adscritas a la Secretaría Ejecutiva;
 
-j) Previo acuerdo con el Presidente del Consejo, convocar a las reuniones de la Junta;
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-k) Organizar reuniones nacionales o regionales con los Vocales Ejecutivos de las Juntas Locales y Distritales, de conformidad con los acuerdos del Consejo, y cuando lo requieran el Presidente del Consejo, la Junta o las Comisiones;
+g) Recibir en acuerdo ordinario a los Titulares de las Direcciones Ejecutivas, Unidades Técnicas y Vocales Ejecutivos de las Juntas Locales, de conformidad con lo dispuesto en este Reglamento;
 
-l) En su caso, coordinar y supervisar la integración de los archivos de las sesiones y acuerdos de las Comisiones Temporales, en las que los Secretarios Técnicos sean los Directores Ejecutivos o Titulares de Unidad;
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-m) Actuar a nombre y representación del Consejo y de la Junta en los procedimientos administrativos y judiciales en los cuales sean parte;
+h) Colaborar con las Comisiones en su carácter de Secretario del Consejo;
 
-n) Coordinar y ejecutar las acciones necesarias para atender los requerimientos que le formule el Contralor General como coadyuvante en los procedimientos que éste acuerde para la vigilancia de los recursos y bienes del Instituto y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones a los servidores del Instituto;
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-ñ) Analizar y, en su caso, aprobar la estructura de los órganos centrales y delegaciones del Instituto, con excepción de aquellos que sean competencia exclusiva del Consejo, conforme a las necesidades del servicio que justifiquen los titulares de cada órgano y el dictamen de recursos presupuestales que formule la Dirección Ejecutiva de Administración;
+i) Establecer los mecanismos para la adecuada coordinación de las acciones de la Junta, Direcciones Ejecutivas y Unidades Técnicas, con las Juntas Ejecutivas Locales y Distritales;
 
-o) Coordinar el desarrollo de las actividades del programa de resultados preliminares;
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-p) Coordinar las acciones necesarias a efecto de integrar el Plan y Calendario Integral de los procesos electorales ordinarios y, en su caso, el Calendario de las elecciones extraordinarias; así como disponer lo necesario para su aprobación por el Consejo;
+j) Disponer la realización de los estudios pertinentes para establecer oficinas municipales y presentarlos a la Junta;
 
-q) Coordinar los trabajos de investigación que realice la Junta en términos del artículo 118, párrafo 3 del Código;
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-r) Coordinar las políticas editoriales y de publicación del Instituto con la participación de la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica, del Centro para el Desarrollo Democrático, de la Coordinación de Asuntos Internacionales y de la Coordinación Nacional de Comunicación Social;
+k) Previo acuerdo con el Presidente del Consejo, convocar a las reuniones de la Junta;
 
-s) Suscribir conjuntamente con el Consejero Presidente, los convenios que se celebren para asumir la organización de los procesos electorales locales;
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-t) En su carácter de Secretario del Consejo, realizar las acciones conducentes para sustanciar y formular los proyectos de resolución de los procedimientos administrativos sancionadores ordinario y especial, en los términos del Código y del Reglamento de la materia;
+l) Organizar reuniones nacionales o regionales con los Vocales Ejecutivos de las Juntas Locales y Distritales, de conformidad con los acuerdos del Consejo, y cuando lo requieran el Presidente del Consejo, la Junta o las Comisiones;
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-u) Tomar las medidas conducentes para requerir a las autoridades competentes la entrega de pruebas que obren en su poder, estableciendo las medidas de resguardo de la información;
+m) En su caso, coordinar y supervisar la integración de los archivos de las sesiones y acuerdos de las Comisiones Temporales, en las que los Secretarios Técnicos sean los Directores Ejecutivos o Titulares de Unidad;
 
-v) Recibir los avisos de recuento de votos en la totalidad de las casillas en los Distritos en los que se acrediten los supuestos legales previstos en el artículo 295, párrafos 2 y 3 del Código;
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-w) Acordar sobre las franquicias postales y telegráficas, así como los descuentos en las tarifas de los transportes otorgados a las dependencias oficiales de las que gozarán los funcionarios electorales y representantes de los partidos políticos nacionales debidamente acreditados ante los órganos del Instituto, en términos de lo previsto por el artículo 168 del Código;
+n) Actuar a nombre y representación del Consejo y de la Junta en los procedimientos administrativos y judiciales en los cuales sean parte;
 
-> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-x) Solicitar el apoyo de los titulares de las Direcciones Ejecutivas y de las Unidades Técnicas adscritas a la Secretaría Ejecutiva, para la atención de asuntos y suscripción de documentos relacionados con éstos, siempre y cuando la naturaleza de los mismos así lo permita y exista la debida motivación y fundamentación para ello, sin que implique la delegación de facultades;
+ñ) Coordinar y ejecutar las acciones necesarias para atender los requerimientos que le formule el Contralor General como coadyuvante en los procedimientos que éste acuerde para la vigilancia de los recursos y bienes del Instituto y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones a los servidores del Instituto;
 
-y) Las que señalen los reglamentos en materia de transparencia, de quejas, de fiscalización y de radio y televisión; y
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-z) Las demás que le confiera el Código y otras disposiciones aplicables.
+o) Analizar y, en su caso, aprobar la estructura de los órganos centrales y delegaciones del Instituto, con excepción de aquellos que sean competencia exclusiva del Consejo, conforme a las necesidades del servicio que justifiquen los titulares de cada órgano y el dictamen de recursos presupuestales que formule la Dirección Ejecutiva de Administración;
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+p) Coordinar el desarrollo de las actividades del programa de resultados preliminares;
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+q) Coordinar las acciones necesarias a efecto de integrar el Plan y Calendario Integral de los procesos electorales ordinarios y, en su caso, el Calendario de las elecciones extraordinarias; así como disponer lo necesario para su aprobación por el Consejo;
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+r) Coordinar los trabajos de investigación que realice la Junta en términos del artículo 118, párrafo 3 del Código;
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+s) Coordinar las políticas editoriales y de publicación del Instituto con la participación de la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica, del Centro para el Desarrollo Democrático, de la Coordinación de Asuntos Internacionales y de la Coordinación Nacional de Comunicación Social;
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+t) Suscribir conjuntamente con el Consejero Presidente, los convenios que se celebren para asumir la organización de los procesos electorales locales;
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+u) En su carácter de Secretario del Consejo, realizar las acciones conducentes para sustanciar y formular los proyectos de resolución de los procedimientos administrativos sancionadores ordinario y especial, en los términos del Código y del Reglamento de la materia;
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+v) Tomar las medidas conducentes para requerir a las autoridades competentes la entrega de pruebas que obren en su poder, estableciendo las medidas de resguardo de la información;
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+w) Recibir los avisos de recuento de votos en la totalidad de las casillas en los Distritos en los que se acrediten los supuestos legales previstos en el artículo 295, párrafos 2 y 3 del Código;
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+x) Acordar sobre las franquicias postales y telegráficas, así como los descuentos en las tarifas de los transportes otorgados a las dependencias oficiales de las que gozarán los funcionarios electorales y representantes de los partidos políticos nacionales debidamente acreditados ante los órganos del Instituto, en términos de lo previsto por el artículo 168 del Código;
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+y) Solicitar el apoyo de los titulares de las Direcciones Ejecutivas y de las Unidades Técnicas adscritas a la Secretaría Ejecutiva, para la atención de asuntos y suscripción de documentos relacionados con éstos, siempre y cuando la naturaleza de los mismos así lo permita y exista la debida motivación y fundamentación para ello, sin que implique la delegación de facultades;
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+z) Presidir y coordinar el Comité de Gestión y Publicación Electrónica y supervisar las actividades del Gestor de Contenidos; y
+
+> <small>(ADICIONADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+a) bis Las demás que le confiera el Código y otras disposiciones aplicables.
 
 ### Capítulo Tercero. De las Direcciones Ejecutivas
 
@@ -1097,7 +1169,9 @@ e) Asesorar técnicamente en asuntos de la competencia de la Dirección Ejecutiv
 
 f) Coordinar acciones con los Titulares de las otras Direcciones Ejecutivas o de las Unidades Técnicas, para el mejor funcionamiento del Instituto;
 
-g) Formular el anteproyecto de presupuesto de la Dirección Ejecutiva a su cargo, de conformidad con los criterios que fije la Dirección Ejecutiva de Administración y el Secretario Ejecutivo;
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+g) Formular el anteproyecto de presupuesto de la Dirección Ejecutiva a su cargo, de conformidad con los criterios de austeridad, racionalidad, eficacia y honradez del gasto público, y los criterios que fije la Dirección Ejecutiva de Administración y el Secretario Ejecutivo, a través de la Unidad Técnica de Planeación;
 
 h) Formular los anteproyectos de manuales de organización, procedimientos y servicios de la Dirección Ejecutiva a su cargo, de conformidad con los criterios de la Junta y la Dirección Ejecutiva de Administración;
 
@@ -1115,9 +1189,11 @@ n) Coadyuvar con el Secretario Ejecutivo en la cumplimentación de los acuerdos 
 
 ñ) Despachar los asuntos de su competencia, previo acuerdo de los mismos con el titular de la Secretaría Ejecutiva cuando la naturaleza o trascendencia de los mismos así lo amerite;
 
-o) Las que señalen, en su caso, los reglamentos en materia de transparencia, de quejas, de fiscalización y de radio y televisión; y
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-p) Las demás que les confiera el Código y otras disposiciones aplicables.
+o) Las demás que les confiera el Código y otras disposiciones aplicables.
+
+p) (DEROGADO, D.O.F. 6 DE AGOSTO DE 2010)
 
 ###### Artículo 41.
 
@@ -1137,9 +1213,13 @@ f) Proponer al Secretario Ejecutivo los proyectos sobre la creación, modificaci
 
 g) Recibir en acuerdo ordinario a los titulares de las unidades administrativas de la Dirección Ejecutiva a su cargo;
 
-h) Coordinar acciones, previo acuerdo del Secretario Ejecutivo, en el ámbito de las atribuciones de la Dirección Ejecutiva a su cargo, con las áreas correspondientes de las Juntas Locales y Distritales;
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-i) Atender las responsabilidades que señalen los reglamentos en materia de transparencia, de quejas, de fiscalización y de radio y televisión que, para tal efecto, emita el Consejo; y
+h) Coadyuvar con la Unidad Técnica de Planeación y proveerla de los insumos necesarios en la integración, desarrollo y operación del Sistema Integral de Planeación, Seguimiento y Evaluación institucional;
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+i) Coordinar acciones, previo acuerdo del Secretario Ejecutivo, en el ámbito de las atribuciones de la Dirección Ejecutiva a su cargo, con las áreas correspondientes de las Juntas Locales y Distritales;
 
 j) Las demás que les confiera el Código y otras disposiciones aplicables.
 
@@ -1153,9 +1233,15 @@ a) Asistir a las reuniones de la Comisión que les compete, con derecho a voz;
 
 b) Concertar con el Presidente de la Comisión y el Director Ejecutivo sobre los asuntos de su competencia;
 
-c) Apoyar al Presidente de la Comisión y asistir en los trabajos del Director Ejecutivo; y
+c) Apoyar al Presidente de la Comisión y asistir en los trabajos del Director Ejecutivo; y (sic)
 
-d) Las demás que les confiera el Código, el Reglamento de Comisiones y otras disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+d) Resguardar, organizar, sistematizar y actualizar los archivos de la Comisión conforme a la normatividad de la materia; y
+
+> <small>(ADICIONADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+e) Las demás que les confiera el Código, el Reglamento de Comisiones y otras disposiciones aplicables.
 
 ###### Artículo 43.
 
@@ -1405,9 +1491,11 @@ h) Realizar las actividades que se convengan con las entidades federativas y el 
 
 i) Elaborar el anteproyecto de presupuesto de conformidad con los lineamientos establecidos por la Secretaría Ejecutiva y la Dirección Ejecutiva de Administración;
 
-j) Las que señalen los reglamentos en materia de transparencia, de quejas, de fiscalización y de radio y televisión; y
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-k) Las demás que les confiera el Código y otras disposiciones aplicables.
+j) Las demás que les confiera el Código y otras disposiciones aplicables.
+
+k) (DEROGADO, D.O.F. 6 DE AGOSTO DE 2010)
 
 ### Capítulo Quinto. De los Vocales Ejecutivos Locales
 
@@ -1473,9 +1561,11 @@ c) Elaborar la Memoria del Proceso Electoral Federal;
 
 d) Remitir oportunamente al Consejo Distrital, la información necesaria para el adecuado ejercicio de sus funciones;
 
-e) Las que señalen los reglamentos en materia de transparencia, de quejas, de fiscalización y de radio y televisión; y
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-f) Las demás que les confiera el Código y otras disposiciones aplicables.
+e) Las demás que les confiera el Código y otras disposiciones aplicables.
+
+f) (DEROGADO, D.O.F. 6 DE AGOSTO DE 2010)
 
 ### Capítulo Séptimo. De los Vocales Ejecutivos Distritales
 
@@ -1585,7 +1675,9 @@ f) Asesorar técnicamente en asuntos de la competencia de la Unidad Técnica a l
 
 g) Coordinar acciones con los titulares de las Direcciones Ejecutivas o de las Unidades Técnicas, cuando así se requiera, para el mejor funcionamiento del Instituto;
 
-h) Formular el anteproyecto de presupuesto de la Unidad Técnica a su cargo, de conformidad con los criterios que fije la Dirección Ejecutiva de Administración;
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+h) Formular el anteproyecto de presupuesto de la Unidad Técnica a su cargo, de conformidad con los criterios de austeridad, racionalidad, eficacia y honradez del gasto público, políticas y los criterios que fije la Dirección Ejecutiva de Administración y el Secretario Ejecutivo, a través de la Unidad Técnica de Planeación;
 
 i) Formular los anteproyectos de los manuales de organización, procedimientos y servicios de la Unidad Técnica a su cargo, de conformidad con los criterios de la Junta y la Dirección Ejecutiva de Administración;
 
@@ -1595,11 +1687,15 @@ k) Recibir en acuerdo ordinario a los titulares de las áreas administrativas de
 
 l) Coordinar acciones con las áreas correspondientes de las Juntas Locales y Distritales, previo acuerdo del Consejero Presidente o del Secretario Ejecutivo, según corresponda en los términos de este Reglamento;
 
-m) Los Titulares de las Unidades Técnicas del Jurídico, de Servicios de Información y del Secretariado, acordarán con el Secretario Ejecutivo el despacho de los asuntos de su competencia;
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+m) Los titulares de las Unidades Técnicas del Jurídico, de Servicios de Información y Documentación, de informática, de Planeación y del Secretariado acordarán con el Secretario Ejecutivo el despacho de los asuntos de su competencia;
 
 n) Los Titulares de las Unidades Técnicas de Coordinación de Asuntos Internacionales, Comunicación Social y el Centro para el Desarrollo Democrático, acordarán con el Consejero Presidente el despacho de los asuntos de su competencia;
 
-ñ) Atender las responsabilidades que señalen los reglamentos en materia de transparencia, de quejas, de fiscalización y de radio y televisión; y
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+ñ) Coadyuvar con la Unidad Técnica de Planeación y proveerla de los insumos necesarios en la integración, desarrollo y operación del Sistema Integral de Planeación, Seguimiento y Evaluación institucional;
 
 o) Las demás que les confiera el Reglamento y otras disposiciones aplicables.
 
@@ -1863,11 +1959,13 @@ b) Elaborar análisis, estudios, investigaciones y bases de datos que tengan los
 
 I. Aportar elementos informativos al Consejero Presidente y a los Consejeros Electorales para la mejor toma interna de decisiones;
 
-II. Apoyar a las áreas ejecutivas y técnicas del Instituto en la mejora de sus procedimientos internos e implementación de sus programas, previa aprobación del Consejero Presidente;
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-III. Otorgar sustento a los programas de desarrollo institucional y planeación estratégica; y
+II. Coadyuvar a cumplir eficazmente con las funciones, atribuciones y fines del Instituto y de sus órganos.
 
-IV. Coadyuvar a cumplir eficazmente con las funciones, atribuciones y fines del Instituto y de sus órganos.
+III. (DEROGADA, D.O.F. 6 DE AGOSTO DE 2010)
+
+IV. (DEROGADA, D.O.F. 6 DE AGOSTO DE 2010)
 
 c) Otorgar a los partidos políticos y a las agrupaciones políticas nacionales asistencia académica para el diseño de sus programas de capacitación y formación, cuando así lo soliciten;
 
@@ -1891,15 +1989,57 @@ l) Desarrollar estudios y análisis sobre derecho electoral nacional y comparado
 
 m) Las demás que le confieran diversos ordenamientos, reglamentos y lineamientos institucionales, así como las específicas que el Consejo General o su Presidente le asignen en el ámbito de sus respectivas competencias.
 
-###### Artículo 68.
+> <small>(ADICIONADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
-1. El nombramiento y remoción del titular del Centro para el Desarrollo Democrático compete al Consejo General, a propuesta de su Consejero Presidente.
+2. El nombramiento y remoción del titular del Centro para el Desarrollo Democrático compete al Consejo General, a propuesta de su Consejero Presidente.
 
-2. Al titular del Centro le corresponde:
+> <small>(ADICIONADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+3. Al titular del Centro le corresponde:
 
 a) Dirigir las actividades del Centro conforme al presupuesto y programa autorizados, bajo la coordinación del Consejero Presidente.
 
 b) Informar al Consejero Presidente el avance de la ejecución del programa de trabajo y acordará con dicho funcionario los asuntos de su competencia.
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+###### Artículo 68.
+
+1. La Unidad de Planeación estará adscrita a la Secretaría Ejecutiva y tendrá las atribuciones siguientes:
+
+a) Presentar al Secretario Ejecutivo la propuesta de políticas, programas generales y estrategias de trabajo de la Unidad, para el adecuado cumplimento de sus atribuciones;
+
+b) Acordar con el Secretario Ejecutivo los asuntos de su competencia;
+
+c) Proponer al Secretario Ejecutivo para su aprobación por la Junta General Ejecutiva y el Consejo General, el Modelo Integral de Planeación para el Instituto Federal Electoral y el Sistema Integral de Planeación, Seguimiento y Evaluación Institucional, así como promover las actualizaciones que correspondan, de acuerdo a las necesidades del Instituto Federal Electoral;
+
+d) Establecer un mecanismo de vinculación que permita coordinar acciones con las áreas directivas, ejecutivas y técnicas, así como con los órganos desconcentrados del Instituto, para la operación del Sistema Integral de Planeación, Seguimiento y Evaluación Institucional;
+
+e) Coordinar la construcción de manera participativa e incluyente de la visión estratégica a largo plazo del Instituto Federal Electoral, así como las actividades inherentes o derivadas del Sistema Integral de Planeación, Seguimiento y Evaluación Institucional;
+
+f) Proponer a la Junta General Ejecutiva por conducto del Secretario Ejecutivo, los lineamientos metodológicos que orienten la correcta alineación de los instrumentos de planeación del Instituto con su rumbo estratégico;
+
+g) Brindar apoyo técnico y asesoría a las Direcciones Ejecutivas, Unidades Técnicas y Organos Desconcentrados que así lo soliciten en la formulación de sus políticas y proyectos, vinculados al Sistema Integral de Planeación, Seguimiento y Evaluación Institucional;
+
+h) Proponer a las Direcciones Ejecutivas, Unidades Técnicas, y órganos desconcentrados, la implementación de políticas, programas y proyectos de no discriminación;
+
+i) Administrar la información que se genere acerca del cumplimiento de los planes, programas y proyectos institucionales;
+
+j) Coadyuvar con la Dirección Ejecutiva de Administración, en el diseño e implantación de propuestas metodológicas aplicadas a la formulación del anteproyecto de presupuesto del Instituto y en la integración de la cartera institucional de proyectos;
+
+k) Apoyar a la Dirección Ejecutiva de Administración, en el proceso de planeación y evaluación financiera que aporte elementos sobre el rumbo estratégico del Instituto y la viabilidad de los proyectos institucionales;
+
+l) Proponer iniciativas estratégicas que coadyuven a que el Instituto haga más eficientes, eficaces y transparentes sus procesos administrativos y organizacionales;
+
+m) Apoyar a las Direcciones Ejecutivas, Unidades Técnicas y Organos Desconcentrados del Instituto cuando así lo soliciten, en la capacitación para el uso de metodologías de innovación administrativa y el desarrollo de mejores prácticas;
+
+n) Proponer e impulsar estrategias de vinculación que favorezcan la coordinación de los órganos desconcentrados con los órganos centrales del Instituto;
+
+ñ) Concertar en acuerdo con el Secretario Ejecutivo, convenios de colaboración que coadyuven en el logro de los programas y proyectos estratégicos de la Unidad Técnica de Planeación dentro de los procesos de planeación y mejoramiento de la administración;
+
+o) Coadyuvar con las comisiones del Consejo General; y
+
+p) Las demás que le confiera el presente reglamento y otras disposiciones legales aplicables.
 
 ### Capítulo Segundo. De la Unidad de Fiscalización de los Recursos de los Partidos Políticos
 
@@ -2041,9 +2181,27 @@ Delegacionales
 
 ## Título Sexto. Organos en Materia de Transparencia
 
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 74.
 
-1. La organización y el funcionamiento de las autoridades y órganos en materia de transparencia y acceso a la información pública se determinarán en el Reglamento del Instituto en la materia.
+1. La organización y el funcionamiento de las autoridades y órganos en materia de transparencia y acceso a la información pública se determinarán en el Reglamento del Instituto en la Materia de Transparencia y Acceso a la Información Pública, además de las señaladas por el presente Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
+
+Artículo 74 bis.
+
+1. La Unidad Técnica de Servicios de Información y Documentación estará adscrita a la Secretaria ejecutiva y tendrá, las siguientes atribuciones:
+
+a) Establecer los mecanismos para fortalecer la política institucional de transparencia y rendición de cuentas y potenciar el derecho de acceso a la información;
+
+b) Coadyuvar a través de su titular con el Secretario Ejecutivo en la supervisión del trabajo del Gestor de Contenidos;
+
+c) Formar parte en los (sic) comisiones o comités, que el Consejo o la normatividad del Instituto le encomienden;
+
+d) Elaborar el Informe Anual de actividades, mismo que el Comité de Información presentará ante el Consejo General, previo conocimiento del Organo Garante de la Transparencia y el Acceso a la Información; y
+
+e) Las demás que le confiera el Código, el Reglamento del Instituto en Materia de Transparencia y Acceso a la Información Pública, y otras disposiciones aplicables.
 
 ## Título Séptimo. Del Organo de Control
 
@@ -2316,3 +2474,15 @@ D.O.F. 16 DE ENERO DE 2009.
 Primero: A la brevedad posible, las instancias competentes procederán a homologar las atribuciones del Comité de Radio y Televisión que se señalen en otros instrumentos normativos con los establecidos en el presente Reglamento.
 
 Segundo: El presente Reglamento entrará en vigor a partir de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE AGOSTO DE 2010.
+
+Primero.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
+
+Segundo.- Las disposiciones de la presente reforma entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO.- Se instruye al Comité de Información y al Organo Garante de la Transparencia y el Acceso a la Información para la revisión del Reglamento del Instituto Federal Electoral en Materia de Transparencia y Acceso a la Información Pública, así como la normatividad aplicable a efecto de que se analicen las posibles adecuaciones en la materia de archivos, de conformidad con lo señalado en el considerando número veintisiete del presente acuerdo.
+
+TERCERO.- Se instruye al Secretario Ejecutivo a efecto de que las Direcciones Ejecutivas y Unidades Técnicas, adscritas al mismo, realicen el análisis al Manual de Organización y Funciones del Instituto Federal Electoral, así como los Lineamientos aplicables, para incluir a la Unidad Técnica de Planeación y considerar las posibles adecuaciones en materia de archivo, de conformidad con lo establecido en el considerando número veintiocho del presente Acuerdo.
