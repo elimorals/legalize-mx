@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2010-03-31"
+last_updated: "2010-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -643,7 +643,7 @@ XVI bis.- Legislar en materia de políticas de sueldos, salarios y prestaciones,
 
 > <small>(REFORMADA, P.O. 14 DE ABRIL DE 2009)</small>
 
-XVIl.- Conceder honores, premios y recompensas a las personas que presten servicios eminentes a la República o al Estado, con la aprobación de las dos terceras partes de los diputados presentes;
+XVII.- Conceder honores, premios y recompensas a las personas que presten servicios eminentes a la República o al Estado, con la aprobación de las dos terceras partes de los diputados presentes;
 
 > <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2009)</small>
 
@@ -1563,7 +1563,7 @@ I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos pol
 
 II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco años, el día de su designación;
 
-III. Contar el día de su designación con una antigüedad de cinco años en el ejercicio de su profesión y tener título profesional de licenciado en derecho expedido por la Universidad Michoacana de San Nicolas de Hidalgo o por universidad, autoridad o institución legalmente facultada para ello;
+III. Contar el día de su designación con una antigüedad de cinco años en el ejercicio de su profesión y tener título profesional de licenciado en derecho expedido por la Universidad Michoacana de San Nicolás de Hidalgo o por universidad, autoridad o institución legalmente facultada para ello;
 
 IV. Gozar de buena reputación y no haber sido sentenciado por delito doloso; y,
 
@@ -2143,11 +2143,11 @@ Los empleados que manejen fondos públicos otorgarán fianza en la forma que la 
 
 La educación pública dependerá directamente del Gobernador del Estado, quien cuidará de fomentarla por todos los medios posibles.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 138.
 
-Todo individuo tiene derecho a recibir educación, el Estado y sus Municipios impartirán educación preescolar, primaria y secundaria. La educación primaria y la secundaria son obligatorias. Toda educación que el Estado imparta será gratuita.
+Todo individuo tiene derecho a recibir educación. El Estado y sus Municipios están obligados a impartir educación preescolar, primaria, secundaria, media superior y superior. Toda educación que el Estado imparta será gratuita.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2163,11 +2163,13 @@ a).- Será democrática, considerando la democracia no sólo como una estructura
 
 b).- Será nacional, en cuanto, sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y
 
-> <small>(REFORMADO, P.O. 03 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1994)</small>
 
 c).- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia la conbicción (sic) del interés general de la sociedad cuando por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
 
-Además de impartir la educación preescolar, primaria y secundaria, el Estado promoverá y atenderá todos los tipos y modalidades educativos incluyendo la educación superior necesarios para el desarrollo del Estado, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
+
+El Estado promoverá y atenderá la educación inicial, apoyará la investigación científica y tecnológica, asimismo, alentará el fortalecimiento y difusión de nuestra cultura y de nuestros valores.
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1994)</small>
 
@@ -2857,13 +2859,13 @@ Artículo Segundo.- Para dar cumplimento a la fracción IV del artículo 164 de 
 
 P.O. 21 DE OCTUBRE DE 2005.
 
-DECRETO No. 12
+DECRETO No. 489
 
-Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo.
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-Artículo Segundo. Para la elección por primera y única vez de los magistrados del Tribunal de lo Contencioso Administrativo del Estado, la lista que someta el Tribunal del Poder Ejecutivo al Congreso del Estado, será tomada del padrón de aspirantes a magistrados que remita el Supremo Tribunal de Justicia del Estado, mismos que deberán cubrir los requisitos que señale la Ley de la materia.
+Artículo Segundo. Para la elección por primera y única vez de los magistrados del Tribunal de lo Contencioso Administrativo del Estado, la lista que someta el Titular del Poder Ejecutivo al Congreso del Estado, será tomada del padrón de aspirantes a magistrados que remita el Supremo Tribunal de Justicia del Estado, mismos que deberán cubrir los requisitos que señale la Ley de la materia.
 
-Artículo Tercero. Para dar cumplimento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría enviar a los Ayuntamientos del Estado, la minuta Proyecto de Decreto, para que en el término de un mes después de recibida, remitan al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
+Artículo Tercero. Para dar cumplimento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría enviar a los Ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, remitan al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
 
 P.O. 21 DE OCTUBRE DE 2005.
 
@@ -2917,7 +2919,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. El Gobernador del Estado en funciones, concluirá su ejercicio constitucional el día catorce de febrero de dos mil ocho, periodo para el que fue electo.
 
-La Septuagésima Legislatura, concluirá su ejercicio constitucional el día catorce de enero del año dos mil ocho., periodo para el que fue electa.
+La Septuagésima Legislatura, concluirá su ejercicio constitucional el día catorce de enero del año dos mil ocho, periodo para el que fue electa.
 
 Los ayuntamientos del Estado, concluirán su ejercicio constitucional el día treinta y uno de diciembre del año dos mil siete, periodo para el que fueron electos.
 
@@ -2933,7 +2935,7 @@ El Gobernador del Estado que se elija el segundo domingo del mes de noviembre de
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2007)</small>
 
-QUINTO.- La Septuagésima Primera Legislatura del Congreso del Estado, que se elija el segundo domingo del mes de noviembre del año dos mil siete, tendrá un periodo de ejercicio constitucional que comprenderá del día quince de enero del año dos mil ocho, al día catorce de enero del daño dos mil doce.
+QUINTO.- La Septuagésima Primera Legislatura del Congreso del Estado, que se elija el segundo domingo del mes de noviembre del año dos mil siete, tendrá un periodo de ejercicio constitucional que comprenderá del día quince de enero del año dos mil ocho, al día catorce de enero del año dos mil doce.
 
 La Septuagésima Segunda Legislatura del Congreso del Estado, que se elija el segundo domingo del mes de noviembre del año dos mil once, tendrá un periodo de ejercicio constitucional que comprenderá del día quince de enero del año dos mil doce, al día catorce de septiembre del año dos mil quince.
 
@@ -3109,8 +3111,24 @@ Remítase el presente Decreto a los ayuntamientos del Estado, para que procedan 
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
+P.O. 6 DE AGOSTO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, para su conocimiento general y efectos legales procedentes.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase a los ayuntamientos del Estado, el Decreto, para que, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibido, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
+
+###### ARTÍCULO TERCERO.
+
+Las obligaciones derivadas del presente Decreto, serán cumplidas de manera gradual progresiva, inicialmente la gratuidad implicará el pago de inscripción en las instituciones públicas de media superior y superior hasta el grado de licenciatura, otros servicios como exámenes, cursos, certificados, credenciales, cartas de pasantía, titulación y constancias, se otorgarán de acuerdo a la disponibilidad presupuestal del Estado.
+
 ###### ARTÍCULO CUARTO.
 
-Se derogan todas las disposiciones que se opongan a este Decreto.
+Se derogan todas aquellas disposiciones legales y administrativas en lo que se opongan al presente Decreto.
 
-D.O. 3 DE ENERO DE 2012.
+###### ARTÍCULO QUINTO.
+
+Dese cuenta del presente Decreto, al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo. Para los efectos legales correspondientes.
