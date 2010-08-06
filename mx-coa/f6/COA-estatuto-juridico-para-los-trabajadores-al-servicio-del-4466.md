@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "2009-12-11"
+last_updated: "2010-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURIDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2010.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -2127,8 +2127,16 @@ SEGUNDO.- Deberán elaborarse las disposiciones reglamentarias relativas al sist
 
 TERCERO.- Para dar cumplimiento a lo previsto en el presente Decreto, en la Constitución Política del Estado de Coahuila de Zaragoza, así como en la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, deberá quedar instalado formal y materialmente el Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza a partir de enero de 2010, fecha a partir de la cual, dicho órgano judicial recibirá las demandas y asuntos laborales de los trabajadores al servicio del Estado y los municipios que, por su naturaleza, deba conocer.
 
-CUARTO.- Se otorga un plazo de 180 días naturales contados a partir del día siguiente a aquel en que entre en funciones el Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza, para que el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y de los Municipios, órgano del Poder Ejecutivo del Estado, para que concluya los trámites, procedimientos y expedientes que tenga pendientes, fecha a partir de la cual quedará formal y materialmente extinto.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
+
+CUARTO.- El Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y de los Municipios, órgano del Poder Ejecutivo del Estado, deberá concluir los trámites, procedimientos y expedientes que tenga pendientes y posterior a ello quedará formal y materialmente extinto.
 
 QUINTO.- El personal que forma parte del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los poderes del Estado y de los Municipios, quedará a disposición del Ejecutivo del Estado, una vez que se cumpla con lo previsto en el artículo que antecede.
 
 SEXTO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 6 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
