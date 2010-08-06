@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-71302
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2009-12-31"
-last_updated: "2010-03-29"
+last_updated: "2010-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACAN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑ0 2010
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2010.
 
 Ley publicada en la Trigésima Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 31 de diciembre de 2009.
 
@@ -1039,7 +1039,7 @@ cambio de unidad, por robo o destrucción, previos
 
 requisitos que deberá cumplir el concesionario. 336.00
 
-EI presente Capítulo, no establece servicios urgentes o extraurgentes.
+El presente Capítulo, no establece servicios urgentes o extraurgentes.
 
 ### CAPÍTULO III. DERECHOS POR SERVICIOS DE REGISTRO Y CONTROL VEHÍCULAR DE VEHÍCULOS DE TRANSPORTE PARTICULAR
 
@@ -1193,45 +1193,57 @@ Los derechos que se causen por la expedición de licencias para conducir vehícu
 
 T A R I F A
 
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2010)</small>
+
 I. Por la expedición de licencias para conducir vehículos automotores:
 
 CONCEPTO CUOTA $
 
 A) De automovilista:
 
-a) Con vigencia de dos años. 353.00
+a) Con vigencia de tres años. 463.00
 
-b) Con vigencia de tres años. 463.00
+b) Con vigencia de cinco años. 677.00
 
-c) Con vigencia de cuatro años. 568.00
+c) Con vigencia de diez años. 1,354.00
 
-d) Con vigencia de cinco años. 677.00
+d) (DEROGADO, P.O. 6 DE AGOSTO DE 2010)
 
 B) De chofer:
 
-a) Con vigencia de dos años. 475.00
+a) Con vigencia de tres años. 620.00
 
-b) Con vigencia de tres años. 620.00
+b) Con vigencia de cinco años. 898.00
 
-c) Con vigencia de cuatro años. 776.00
+c) Con vigencia de diez años. 1,796.00
 
-d) Con vigencia de cinco años. 898.00
+d) (DEROGADO, P.O. 6 DE AGOSTO DE 2010)
 
 C) De motociclista:
 
-a) Con vigencia de dos años. 208.00
+a) Con vigencia de tres años. 278.00
 
-b) Con vigencia de tres años. 278.00
+b) Con vigencia de cinco años. 368.00
 
-c) Con vigencia de cuatro años. 336.00
+c) Con vigencia de diez años. 772.00
 
-d) Con vigencia de cinco años. 386.00
+d) (DEROGADO, P.O. 6 DE AGOSTO DE 2010)
 
 D) De chofer de servicio público estatal:
 
-a) Con vigencia de dos años. 683.00
+a) Con vigencia de tres años. 846.00
 
-b) Con vigencia de tres años. 846.00
+b) Con vigencia de cinco años. 1,172.00
+
+c) Con vigencia de diez años. 2,344.00
+
+Por la reposición de licencia para conducir
+
+vehículos automotores, con vigencia de cinco
+
+o diez años, y previa denuncia ante el
+
+Ministerio Público. 200.00
 
 II. La reposición de licencia, por cualquier causa, previa solicitud del conductor, causará derechos conforme a la cuota establecida para la expedición, según el tipo y años de vigencia de la licencia de que se trate.
 
@@ -2418,3 +2430,17 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Dése cuenta del presente Decreto, al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y a la Titular de la Auditoría Superior de Michoacán del H. Congreso del Estado de Michoacán de Ocampo, para conocimiento y efectos procedentes.
+
+P.O. 6 DE AGOSTO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dése cuenta del presente Decreto, al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones legales y administrativas en lo que se opongan al presente Decreto.
