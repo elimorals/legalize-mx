@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-consejo-consultivo-para-el-desarrollo-62126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-04"
-last_updated: "2008-07-04"
+last_updated: "2010-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GUA"
 ---
 # REGLAMENTO DEL CONSEJO CONSULTIVO PARA EL DESARROLLO SUSTENTABLE EN MATERIA DE URBANISMO EN EL MUNICIPIO DE LEON, GUANAJUATO --ANTES REGLAMENTO DEL CONSEJO CONSULTIVO PARA EL DESARROLLO SUSTENTABLE EN MATERIA AMBIENTAL, MOVILIDAD Y URBANISMO EN EL MUNICIPIO DE LEON, GUANAJUATO--
 
-REGLAMENTO DEL CONSEJO CONSULTIVO PARA EL DESARROLLO SUSTENTABLE EN MATERIA AMBIENTAL, MOVILIDAD Y URBANISMO EN EL MUNICIPIO DE LEON, GUANAJUATO
+REGLAMENTO DEL CONSEJO CONSULTIVO PARA EL DESARROLLO SUSTENTABLE EN MATERIA DE URBANISMO EN EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2010.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de julio de 2008.
 
@@ -37,13 +37,17 @@ EXPOSICIÓN DE MOTIVOS.
 
 c).- Urbanismo Sustentable.- Generando un entorno urbano que no atente contra el medio ambiente, y que proporcione recursos urbanísticos suficientes, no sólo en cuanto a las formas, sino también por su funcionalidad, como un lugar que sea mejor para vivir; provocando la menor alteración del ecosistema en el que se inserta, que sea económicamente viable para no comprometer más recursos económicos que los estrictamente necesarios, respondiendo a las demandas sociales de su entorno, mejorando la calidad de vida de la población, y asegurando la participación ciudadana en el diseño del proyecto; planificando y gestionando adecuadamente los usos del suelo, compatibilizando el desarrollo del municipio con la conservación del paisaje y garantizando una adecuada integración de los diversos usos del territorio.
 
-REGLAMENTO DEL CONSEJO CONSULTIVO PARA EL DESARROLLO SUSTENTABLE EN MATERIA AMBIENTAL, MOVILIDAD Y URBANISMO EN EL MUNICIPIO DE LEÓN, GUANAJUATO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE AGOSTO DE 2010)</small>
+
+REGLAMENTO DEL CONSEJO CONSULTIVO PARA EL DESARROLLO SUSTENTABLE EN MATERIA DE URBANISMO EN EL MUNICIPIO DE LEÓN, GUANAJUATO
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento es de orden público e interés general, y tiene por objeto establecer los mecanismos para la participación corresponsable de la población, ya sea en forma individual o colectiva, para la vinculación entre los sectores social, académico y profesional, relacionados con la gestión e investigación de la sustentabilidad en materia ambiental, de movilidad y urbanismo.
+El presente Reglamento es de orden público e interés general, y tiene por objeto establecer los mecanismos para la participación corresponsable de la población, ya sea en forma individual o colectiva, para la vinculación entre los sectores social, académico y profesional, relacionados con la gestión e investigación de la sustentabilidad en materia de urbanismo.
 
 ###### Artículo 2.
 
@@ -53,77 +57,71 @@ I. Ayuntamiento: El H. Ayuntamiento del Municipio de León, Guanajuato;
 
 II. Comisión: La Comisión de Desarrollo Urbano del H. Ayuntamiento;
 
-III. Consejo: El Consejo Consultivo para el Desarrollo Sustentable en materia Ambiental, Movilidad y Urbanismo en el Municipio de León, Guanajuato;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2010)</small>
 
-IV. Direcciones Generales: Las Direcciones Generales de Urbanismo, de Protección al Ambiente y de Movilidad de León, Guanajuato;
+III. Consejo: El Consejo Consultivo para el Desarrollo Sustentable en materia de urbanismo en el Municipio de León, Guanajuato;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2010)</small>
+
+IV. Dirección General: La Dirección General de Desarrollo Urbano;
 
 V. Municipio: El Municipio de León, Guanajuato; y,
 
-VI. SEDESU: La Secretaría de Desarrollo Sustentable de León, Guanajuato.
+VI. (DEROGADA, P.O. 6 DE AGOSTO DE 2010)
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 3.
 
-Se constituye el Consejo Consultivo para el Desarrollo Sustentable en materia Ambiental, Movilidad y Urbanismo en el Municipio de León, Guanajuato como un órgano colegiado de carácter permanente de asesoría y consulta técnica que tendrá por objeto:
+Se constituye el Consejo Consultivo para el Desarrollo Sustentable en materia de Urbanismo en el Municipio de León, Guanajuato como un órgano colegiado de carácter permanente de asesoría y consulta técnica que tendrá por objeto:
 
-I. Proponer y opinar sobre los programas y proyectos que constituyen el Programa de trabajo de la SEDESU;
+I. Proponer y opinar sobre los programas y proyectos que constituyen el Programa de trabajo de la Dirección General;
 
-II. Coadyuvar con la SEDESU en la promoción de la participación activa de la sociedad organizada en materia de Desarrollo Sustentable en temas relacionados con el ambiente, la movilidad y el urbanismo;
+II. Coadyuvar con la Dirección General en la promoción de la participación activa de la sociedad organizada en materia de Desarrollo Sustentable en temas relacionados con el Urbanismo;
 
-III. Promover estudios sobre el impacto de programas, proyectos y reglamentos en materia de sustentabilidad del ambiente, la movilidad y el urbanismo;
+III. Promover estudios sobre el impacto de programas, proyectos y reglamentos en materia de sustentabilidad del Urbanismo;
 
-IV. Promover la realización y participación en talleres y procesos de consulta, así como asesorar a la SEDESU en la formulación de estrategias municipales en materia de urbanismo, protección al ambiente y movilidad, considerando los criterios internacionales para lograr un Desarrollo Sustentable;
+IV. Promover la realización y participación en talleres y procesos de consulta, así como asesorar a la Dirección General en la formulación de estrategias municipales en materia de Urbanismo, considerando los criterios internacionales para lograr un Desarrollo Sustentable;
 
-V. Emitir propuestas y opiniones técnicas en los asuntos y casos específicos que le presente la SEDESU; y,
+V. Emitir propuestas y opiniones técnicas en los asuntos y casos específicos que le presente la Dirección General; y,
 
-VI. Cualquiera otra gestión y/o acción relacionada con el desarrollo sustentable en materia ambiental, de movilidad y urbanismo, de conformidad con la normatividad aplicable.
+VI. Cualquier otra gestión y/o acción relacionada con el desarrollo sustentable en materia de urbanismo, de conformidad con la normatividad aplicable.
 
-Cuando alguna de las fracciones anteriores involucre la simplificación administrativa o la mejora regulatoria, el Consejo deberá sujetarse a las disposiciones del Reglamento para la Competitividad y Mejora Regulatoria del Municipio de León, Guanajuato.
+Cuando alguna de las fracciones anteriores involucre la simplificación administrativa o la mejora regulatoria, el Consejo deberá sujetarse a las disposiciones del Reglamento de Mejora Regulatoria para el Municipio de León, Guanajuato.
 
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN DEL CONSEJO
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 4.
 
 El Consejo se integrará con los siguientes miembros:
 
-I. Un Presidente, cuyo cargo recaerá en el Titular de la Secretaría de Desarrollo Sustentable;
+I. Un Presidente, cuyo cargo recaerá en el Titular de la Dirección General;
 
-II. Un Vicepresidente, que será designado de entre los representantes Consejeros que se señalan en la fracción IV de este artículo;
+II. Un Vicepresidente, que será designado de entre los representantes Consejeros que se señalan en las fracciones IV y V de este artículo;
 
-III. Un Secretario, designado de entre los representantes Consejeros que se señalan en la fracción IV del presente artículo;
+III. Un Secretario, designado de entre los representantes Consejeros que se señalan en las fracciones IV y V del presente artículo;
 
-IV. Un representante designado por cada uno de los organismos intermedios, universidades y colegios de profesionistas siguientes:
+IV. Un representante designado por cada uno de los organismos siguientes:
 
 a) Cámara Mexicana de la Industria de la Construcción (CMIC);
 
-b) Consejo Coordinador Empresarial;
+b) Centro de Estudios de Infraestructura de León (CEIL);
 
 c) Colegio de Arquitectos de León, A.C.;
 
 d) Colegio de Ingenieros Civiles de León, A.C.;
 
-e) Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda;
+e) Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda; y,
 
-f) Cámara Nacional de Empresas de Consultoría;
+f) Cámara Nacional de Empresas de Consultoría.
 
-g) Universidad de Guanajuato;
-
-h) Universidad Iberoamericana Plantel León;
-
-i) Universidad de la Salle Bajío;
-
-j) Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM);
-
-k) Universidad de León;
-
-l) Universidad Tecnológica de León;
-
-m) Centro de Innovación Aplicada en Tecnologías Competitivas (CIATEC); y,
-
-n) Consejo de Ciencia y Tecnología del Estado de Guanajuato (CONCYTEG).
+V. Ocho integrantes propuestos por el Presidente Municipal, elegidos de entre las ternas que para tal efecto le presenten, colegios de profesionistas, instituciones de investigación o de educación superior; sin que deba existir más de un miembro representativo por cada uno de ellos.
 
 El Presidente Municipal podrá emitir invitación a cualquiera otra institución cuyo objeto social tenga relación con el fin del Consejo.
 
-Los Consejeros ciudadanos serán designados por el Ayuntamiento, a propuesta del Presidente Municipal, en base a la invitación que éste realice a las instituciones mencionadas en el presente artículo.
+Los Consejeros ciudadanos serán designados por el Ayuntamiento, a propuesta del Presidente Municipal, en base a la invitación que éste realice a las instituciones mencionadas en el presente artículo, a excepción hecha del titular de la Dirección General quien formara parte del Consejo por el simple hecho de su nombramiento.
 
 ###### Artículo 5.
 
@@ -133,13 +131,17 @@ El Ayuntamiento podrá acordar la integración de otros miembros, cuando a su ju
 
 Los Consejeros ciudadanos no deberán ocupar cargos directivos en ningún partido político.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 6.
 
-El titular de la Secretaría de Desarrollo Sustentable asistirá a las sesiones del Consejo con voz y voto, brindando al Consejo el apoyo necesario para el mejor cumplimiento de sus atribuciones.
+El Presidente del Consejo, asistirá a las sesiones del Consejo con voz y voto, brindando al Consejo el apoyo necesario para el mejor cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 7.
 
-Los Consejeros Ciudadanos durarán en su encargo tres años, y a fin de dar continuidad a los planes, programas y proyectos del Consejo, podrán ser ratificados hasta el cincuenta por ciento de sus miembros, por una sola vez, para otro periodo igual.
+Los Consejeros Ciudadanos durarán en su encargo tres años, y a fin de dar continuidad a los planes, programas y proyectos del Consejo, podrán ser ratificados hasta el cincuenta por ciento de sus miembros, por una sola vez, para otro periodo igual, a excepción hecha del titular de la Dirección General quien durara en su encargo dentro del Consejo hasta por el término que señale su nombramiento.
 
 ###### Artículo 8.
 
@@ -163,7 +165,9 @@ IV. No ocupar cargo directivo en algún partido político, sea cualquiera su den
 
 V. No cumplir con alguna función, cargo o comisión en la administración pública municipal, estatal o federal, ni estar inhabilitado para ello, con excepción del Presidente del Consejo; y,
 
-VI. Contar con experiencia en actividades relativas al Desarrollo Sustentable en alguna de las materias relacionadas con el ambiente, la movilidad o el urbanismo.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2010)</small>
+
+VI. Contar con experiencia en actividades relativas al Desarrollo Sustentable en materia de Urbanismo.
 
 ###### Artículo 11.
 
@@ -181,27 +185,29 @@ Una vez revocada la designación del Consejero Ciudadano, la institución corres
 
 ### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES DEL CONSEJO Y SUS INTEGRANTES
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 13.
 
 Para el cumplimiento de su objeto el Consejo tendrá las atribuciones siguientes:
 
-I. Promover la formulación y revisión de la política municipal en materia de urbanismo, protección al ambiente y movilidad de acuerdo a los conceptos de desarrollo sustentable, conforme a las disposiciones legales de la materia, que se encuentren en congruencia con la Constitución Política de los Estados Unidos Mexicanos;
+I. Promover la formulación y revisión de la política municipal en materia de urbanismo de acuerdo a los conceptos de desarrollo sustentable, conforme a las disposiciones legales de la materia, que se encuentren en congruencia con la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Fomentar la realización de estudios y formular propuestas al Ayuntamiento, por conducto de la Comisión, para ejecutar y evaluar programas en el marco de Desarrollo Sustentable para el territorio municipal;
 
-III. Fomentar la participación de la SEDESU para la colaboración y vinculación con otros consejos consultivos en materia de urbanismo, protección al ambiente y movilidad, que coordinen las autoridades federales y del Estado de Guanajuato;
+III. Fomentar la participación de la Dirección General para la colaboración y vinculación con otros consejos consultivos en materia de urbanismo, que coordinen las autoridades federales y del Estado de Guanajuato;
 
-IV. Proponer al Ayuntamiento, por conducto de la Comisión, la celebración de acuerdos o convenios con el Gobierno Federal, con el Estado de Guanajuato y con otros municipios, para la ejecución de las acciones y programas necesarios para formular, aplicar y vigilar las estrategias municipales en materia de urbanismo, protección al ambiente y movilidad;
+IV. Proponer al Ayuntamiento, por conducto de la Comisión, la celebración de acuerdos o convenios con el Gobierno Federal, con el Estado de Guanajuato y con otros municipios, para la ejecución de las acciones y programas necesarios para formular, aplicar y vigilar las estrategias municipales en materia de urbanismo;
 
-V. Proponer al Ayuntamiento, por conducto de la Comisión, las reformas, modificaciones o adiciones a los reglamentos, acuerdos, circulares y disposiciones de observancia general, así como la creación de nuevos ordenamientos o la abrogación de los existentes, a fin de establecer o actualizar las normas relativas a los ámbitos de urbanismo, protección al ambiente y movilidad;
+V. Proponer al Ayuntamiento, por conducto de la Comisión, las reformas, derogaciones o adiciones a los reglamentos, acuerdos, circulares y disposiciones de observancia general, así como la creación de nuevos ordenamientos o la abrogación de los existentes, a fin de establecer o actualizar las normas relativas a la materia de urbanismo;
 
-VI. Integrar los grupos de trabajo a que se refiere el artículo 25 del presente ordenamiento para el mejor cumplimiento y atención de sus funciones;
+VI. Integrar los grupos de trabajo a que se refiere el artículo 24 del presente ordenamiento para el mejor cumplimiento y atención de sus funciones;
 
-VII. Solicitar, a través de la SEDESU, informes a las dependencias y entidades en torno al ejercicio de sus respectivas atribuciones y facultades, así como sobre los resultados obtenidos respecto a la prevención y control de los aspectos relacionados al desarrollo sustentable;
+VII. Solicitar, a través de la Dirección General, informes a las dependencias y entidades en torno al ejercicio de sus respectivas atribuciones y facultades, así como sobre los resultados obtenidos respecto a la prevención y control de los aspectos relacionados al desarrollo sustentable.
 
-VIII. Participar, promover y organizar eventos y foros en los que se analice la situación del desarrollo sustentable en materia de urbanismo, protección al ambiente y movilidad, y en los que se evalúen los programas y acciones emprendidas;
+VIII. Participar, promover y organizar eventos y foros en los que se analice la situación del desarrollo sustentable en materia de urbanismo, y en los que se evalúen los programas y acciones emprendidas;
 
-IX. Convocar por conducto del Presidente del Consejo, a los titulares de la dependencias o entidades, a los representantes de los Gobiernos Federal o del Estado de Guanajuato, de los sectores social o privado, de centros de investigación e instituciones de educación superior, así como a prestadores de servicios urbanísticos, de protección al ambiente y de movilidad, que no estén representados en el Consejo y cuya participación se considere necesaria para la atención de algún asunto en particular;
+IX. Convocar por conducto del Presidente del Consejo, a los titulares de las dependencias o entidades, a los representantes de los Gobiernos Federal o del Estado de Guanajuato, de los sectores social o privado, de centros de investigación e instituciones de educación superior, así como a prestadores de servicios en materia de urbanismo, que no estén representados en el Consejo y cuya participación se considere necesaria para la atención de algún asunto en particular;
 
 X. Elaborar informes sobre las actividades realizadas por el Consejo, y presentarlos por conducto de su Presidente al Ayuntamiento, cada año, en forma ordinaria, o cuando éste lo requiera;
 
@@ -215,7 +221,7 @@ XIV. Acordar los programas y acciones que se consideren prioritarios para el per
 
 XV. Las demás que se le asigne el Ayuntamiento.
 
-Cuando alguna de las fracciones anteriores involucre la simplificación administrativa o la mejora regulatoria, el Consejo deberá sujetarse a las disposiciones del Reglamento para la Competitividad y Mejora Regulatoria del Municipio de León, Guanajuato.
+Cuando alguna de las fracciones anteriores involucre la simplificación administrativa o la mejora regulatoria, el Consejo deberá sujetarse a las disposiciones del Reglamento de Mejora Regulatoria para el Municipio de León, Guanajuato.
 
 ###### Artículo 14.
 
@@ -223,7 +229,9 @@ Corresponde al Presidente del Consejo:
 
 I. Presidir las sesiones del Consejo, con voz y voto, brindando los informes necesarios con relación a las discusiones que se lleguen a presentar;
 
-II. Representar al Consejo dentro del ámbito de la SEDESU y hacia las instancias externas o en los campos donde el Consejo tenga cualquier participación;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2010)</small>
+
+II. Representar al Consejo dentro del ámbito de la Dirección General y hacia las instancias externas o en los campos donde el Consejo tenga cualquier participación;
 
 III. Presentar ante el Consejo, durante el primer bimestre de cada año, el proyecto del programa de actividades y el informe que corresponda al año precedente, para su análisis y aprobación;
 
@@ -307,9 +315,11 @@ VI. Las demás atribuciones que se deriven del presente Reglamento.
 
 ### CAPÍTULO CUARTO. DE LAS SESIONES DEL CONSEJO
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 18.
 
-El Consejo se reunirá en forma ordinaria cada mes, y extraordinariamente en cualquier tiempo cuando haya asuntos urgentes que tratar.
+El Consejo se reunirá en cualquier tiempo cuando haya asuntos urgentes que tratar.
 
 ###### Artículo 19.
 
@@ -335,17 +345,11 @@ Una vez agotados los asuntos enlistados en el orden del día, el Presidente leva
 
 ### CAPÍTULO QUINTO. DE LOS GRUPOS DE TRABAJO
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 24.
 
-El Consejo, en su sesión de instalación, para el mejor cumplimiento de sus objetivos y funciones, acordará la integración y operación permanente de los siguientes grupos de trabajo:
-
-I. Urbanismo;
-
-II. Protección al Ambiente;
-
-III. Movilidad; y,
-
-IV. Los demás que acuerde el Consejo.
+El Consejo, para el mejor cumplimiento de sus objetivos y funciones, acordará la integración y operación de grupos de trabajo.
 
 En cada grupo de trabajo participarán, por lo menos, tres consejeros, dentro de los que el Consejo designará a un coordinador. En caso necesario, podrá integrarse con un número impar mayor de miembros.
 
@@ -378,3 +382,15 @@ PRESIDENTE MUNICIPAL
 LIC. FRANCISCO DE JESÚS GARCÍA LEÓN
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE AGOSTO DE 2010.
+
+PRIMERO.- La presente modificación entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+SEGUNDO.- Las atribuciones, derechos y obligaciones del Consejo Consultivo para el Desarrollo Sustentable en materia Ambiental, Movilidad y Urbanismo en el Municipio de León, Guanajuato que se encontraba vigente a la entrada en vigor de las presentes reformas y derogaciones, se subrogan en el Consejo Consultivo para el Desarrollo Sustentable en materia de Urbanismo en el Municipio de León, Guanajuato.
+
+TERCERO.- Por esta única ocasión dentro del término de treinta días naturales siguientes a la entrada en vigor de las presentes reformas y derogaciones, el Ayuntamiento realizará la designación de los integrantes del Consejo Consultivo, los cuales durarán en su encargo hasta que conforme al presente reglamento tenga que nombrarse uno nuevo, a excepción del titular de la Dirección General de Desarrollo Urbano, quien formara parte de dicho Consejo por el simple hecho de su nombramiento.
+
+CUARTO.- Se derogan todas aquellas disposiciones normativas que se opongan a la presente modificación.
