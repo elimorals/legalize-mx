@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-arrendamientos-y-prestacion-de-2672
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-13"
-last_updated: "2009-12-14"
+last_updated: "2010-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS ESTABLECIDO EN EL MUNICIPIO DE GRAL. ESCOBEDO, N.L
 
-REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS ESTABLECIDO EN EL MUNICIPIO DE GRAL. ESCOBEDO, N. L.
+REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS ESTABLECIDO EN EL MUNICIPIO DE GRAL. ESCOBEDO DEL ESTADO DE NUEVO LEÓN.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 6 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de noviembre de 2002.
 
@@ -355,7 +357,7 @@ LIC. ROLANDO MARTINEZ CHAVEZ
 
 Secretario del R. Ayuntamiento.
 
-> <small>N. DE E. SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 14 DE DICIEMBRE DE 2009.
 
@@ -365,4 +367,12 @@ Las presentes reformas al Reglamento de Adquisiciones, Arrendamientos y Prestaci
 
 ###### ARTÍCULO SEGUNDO.
 
-Publiquese el presente acuerdo en el Periódico Oficial del Estado, hágase posteriormente su publicación a través de la gaceta municipal.
+Publíquese el presente acuerdo en el Periódico Oficial del Estado, hágase posteriormente su publicación a través de la gaceta municipal.
+
+P.O. 6 DE AGOSTO DE 2010.
+
+PRIMERO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Todos los procedimientos, convenios y contratos qua se encuentren en proceso al entrar en vigor el presente Reglamento continuarán vigentes hasta la fecha de su vigencia.
+
+TERCERO: Se deroga el Reglamento de Adquisiciones, Arrendamientos y Prestación de Servicios. Establecido en el Municipio de Gral. Escobedo, Nuevo León publicado en el Periódico Oficial del Estado de fecha 13 de noviembre de 2002 y demás disposiciones que contravengan al presente Reglamento.
