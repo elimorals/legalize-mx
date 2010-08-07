@@ -4,7 +4,7 @@ identifier: "JAL-ley-sobre-el-escudo-de-armas-del-estado-de-jalisco-42236"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-30"
-last_updated: "2004-11-30"
+last_updated: "2010-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY SOBRE EL ESCUDO DE ARMAS DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LOS SIMBOLOS OFICIALES DEL ESTADO DE JALISCO, PUBLICADA EN LA P.O. DE 7 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 30 de noviembre de 2004.
 
@@ -178,3 +180,13 @@ El Secretario General de Gobierno
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE AGOSTO DE 2010.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se abroga la Ley sobre el Escudo de Armas del Estado de Jalisco, expedida mediante decreto número 20774, publicado el 30 de noviembre de 2004 en el periódico oficial El Estado de Jalisco.
+
+TERCERO. En la sesión solemne que realice el Congreso del Estado en el presente año, con motivo de la conmemoración del 14 de septiembre de 1823, aniversario de la instalación del Congreso Constituyente del Estado de Jalisco, y en el marco de la celebración del Bicentenario del Inicio de la Guerra de Independencia y el Centenario del inicio de la Revolución Mexicana, se rendirán honores a la Bandera del Estado y se entonará el Himno del Estado, por primera vez y de manera solemne.
