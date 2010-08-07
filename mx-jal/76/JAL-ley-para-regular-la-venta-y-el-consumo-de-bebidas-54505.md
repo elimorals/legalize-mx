@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-regular-la-venta-y-el-consumo-de-bebidas-54505"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-13"
-last_updated: "2009-10-27"
+last_updated: "2010-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2010.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Jalisco, el sábado 13 de enero de 2007.
 
@@ -47,11 +47,19 @@ LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JAL
 
 I. Regular la venta y el consumo de bebidas alcohólicas; y
 
-II. Establecer las bases y modalidades para que los Municipios autoricen, controlen y vigilen la operación y el funcionamiento de los establecimientos y giros dedicados a la venta de bebidas alcohólicas; (sic)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+II. Establecer las bases y modalidades para que los municipios autoricen, controlen, regulen y vigilen la operación y el funcionamiento de los establecimientos y giros dedicados a la venta de bebidas alcohólicas, e implementen programas para prevenir accidentes por el consumo excesivo de bebidas alcohólicas.
 
 ###### Artículo 2.
 
-1. Es de interés estatal la lucha contra el consumo excesivo de bebidas alcohólicas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
+
+1. Es de interés estatal la lucha contra el consumo excesivo de bebidas alcohólicas; así como la prevención de accidentes ocasionados por ese motivo.
 
 2. Queda prohibido en el territorio del Estado de Jalisco, la venta de bebidas alcohólicas a menores de dieciocho años de edad.
 
@@ -91,19 +99,43 @@ II. Bebidas de alta graduación, cuyo contenido de alcohol sea superior a los 12
 
 #### SECCIÓN PRIMERA. AYUNTAMIENTOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 8.
 
-1. Corresponde a los Ayuntamientos expedir licencias o permisos provisionales de conformidad con la presente ley y los ordenamientos municipales aplicables a:
+1. Corresponde a los ayuntamientos en el ámbito de sus atribuciones y competencias:
 
-I. Los establecimientos específicos para la venta y consumo de bebidas alcohólicas;
+I. Expedir licencias o permisos provisionales de conformidad con la presente ley y los ordenamientos municipales aplicables a:
 
-II. Los establecimientos donde puede realizarse la venta, más no el consumo de bebidas alcohólicas;
+a) Los establecimientos específicos para la venta y consumo de bebidas alcohólicas;
 
-III. Los establecimientos no específicos, en los cuales puede realizarse en forma accesoria la venta y consumo de bebidas alcohólicas; y
+b) Los establecimientos donde puede realizarse la venta, más no el consumo de bebidas alcohólicas;
 
-IV. Los establecimientos donde se puede autorizar en forma eventual y transitoria la venta y consumo de bebidas alcohólicas.
+c) Los establecimientos no específicos, en los cuales puede realizarse en forma accesoria la venta y consumo de bebidas alcohólicas; y
 
-2. De igual forma, corresponde a los Ayuntamientos aprobar el refrendo de licencias a los establecimientos a que se refiere este artículo, corresponde a los Ayuntamientos (sic).
+d) Los establecimientos donde se puede autorizar en forma eventual y transitoria la venta y consumo de bebidas alcohólicas.
+
+II. Aprobar y expedir normas municipales reglamentarias a la presente ley; y
+
+III. Aprobar e implementar programas de seguridad y prevención de accidentes partiendo de la participación corresponsable de los propietarios de giros, consumidores y el gobierno municipal, estableciendo los términos de su obligatoriedad, como requisitos para la aprobación, refrendo de permisos y licencias de funcionamiento.
+
+Las medidas de seguridad y programas preventivos podrán ser, de manera enunciativa, los siguientes:
+
+a) Control de ingreso para evitar el acceso de personas armadas;
+
+b) Cámaras de video al interior y al exterior del local;
+
+c) Aparato técnico de medición o alcoholímetro, implementado como control de salida, con el compromiso del personal responsable de los establecimientos a que se refiere el artículo 15 de la presente ley, de informar al cliente cuando no se encuentre en condiciones de conducir en virtud de los niveles de alcohol registrados;
+
+d) Programa de conductor designado por el o los clientes al ingreso del establecimiento, con el compromiso entre éstos y el establecimiento de no servir bebidas alcohólicas a dicho conductor designado;
+
+e) Taxi seguro, en términos que determinen las disposiciones y programas municipales aplicables; y
+
+f) Los demás que determinen o implementen los ayuntamientos, en términos de la presente ley y que resulten acordes a las necesidades de cada municipio, su capacidad material y operativa y en general, a sus características económicas y sociales.
+
+2. De igual forma, corresponde a los ayuntamientos aprobar el refrendo de licencias a los establecimientos a que se refiere la fracción I este artículo, en términos de la presente ley y las disposiciones reglamentarias que emitan.
 
 ###### Artículo 9.
 
@@ -131,13 +163,29 @@ IV. Los establecimientos donde se puede autorizar en forma eventual y transitori
 
 I. Proponer al Ayuntamiento la expedición, cambio de domicilio o revocación de las licencias a que se refiere el artículo 8;
 
-II Proponer al Ayuntamiento la designación de zonas turísticas o de tolerancia dentro del Municipio que corresponda;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+II. (DEROGADA, P.O. 7 DE AGOSTO DE 2010)
 
 III. Proponer al Ayuntamiento medidas tendientes para garantizar la seguridad en los espectáculos públicos;
 
-IV. Proponer al Ayuntamiento la implementación de medidas tendientes para prevenir y combatir el alcoholismo y el consumo excesivo de bebidas alcohólicas; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. Proponer al Ayuntamiento la celebración de convenios con autoridades sanitarias, federales estatales y municipales.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+IV. Proponer al Ayuntamiento la implementación de medidas tendientes para prevenir y combatir el alcoholismo y el consumo excesivo de bebidas alcohólicas;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+V. Proponer al Ayuntamiento la celebración de convenios con autoridades sanitarias, federales, estatales y municipales; así como con organismos no gubernamentales que coadyuven en materia de prevención al consumo excesivo de bebidas alcohólicas y de accidentes ocasionados por ese motivo; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+VI. Proponer al Ayuntamiento la aprobación de programas de seguridad y prevención de accidentes, en términos de la fracción III del artículo 8 de la presente ley.
 
 ###### Artículo 13.
 
@@ -307,7 +355,11 @@ V. Tiendas de Abarrotes, Misceláneos y Tendejones: Los establecimientos dedicad
 
 1. Las licencias deben ser otorgadas por giro, precisando el carácter principal o accesorio del mismo y no por domicilio.
 
-2. Las licencias deben señalar el horario del establecimiento, así como el tipo de bebidas alcohólicas que puede vender, respetando las clasificaciones y definiciones que establece la presente ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
+
+2. Las licencias deben señalar el horario del establecimiento, el tipo de bebidas alcohólicas que puede vender, así como los programas de prevención de accidentes que en el mismo aplica, respetando las clasificaciones y definiciones que establece la presente ley.
 
 3. Las licencias son otorgadas en forma nominativa a la persona solicitante, ya sea física o jurídica, la cual debe realizar sus actividades en un domicilio específico ubicado conforme a los requisitos que establece la presente ley.
 
@@ -371,13 +423,19 @@ V. Tiendas de Abarrotes, Misceláneos y Tendejones: Los establecimientos dedicad
 
 ### CAPÍTULO SÉPTIMO. DÍAS Y HORARIO DE FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 38.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2008)</small>
+1. Los días y horas en que pueden permanecer abiertos los establecimientos para la venta y consumo de bebidas alcohólicas que define esta ley, deben ser establecidos por los ayuntamientos en sus respectivos ordenamientos municipales, tomando en cuenta el interés social, las costumbres y afluencia turística, y de conformidad con lo dispuesto en la presente y demás disposiciones legales y reglamentarias aplicables.
 
-1. Las (sic) días y horas en que pueden permanecer abiertos los establecimientos para la venta y consumo de bebidas alcohólicas que define esta ley, deben ser establecidos por los ayuntamientos en sus respectivos ordenamientos municipales, tomando en cuenta el interés social, las costumbres y afluencia turística, y de conformidad con lo dispuesto en la presente y demás disposiciones legales y reglamentarias aplicables.
+2. Los ayuntamientos pueden establecer horarios escalonados para el cierre de los establecimientos a que se refiere esta ley, siempre y cuando no se lesione el orden público o el interés social.
 
-2. Los Ayuntamientos pueden establecer horarios escalonados para el cierre de de (sic) los establecimientos a que se refiere esta ley, siempre y cuando no se lesione el orden público o el interés social.
+3. Independientemente del horario en que puedan permanecer abiertos dichos establecimientos, de conformidad a las disposiciones municipales reglamentarias; la venta y consumo de bebidas alcohólicas no debe iniciar antes de las 12:00 horas ni exceder de las 04:00 horas, mientras que en establecimientos donde pueda realizarse la venta, más no el consumo de bebidas alcohólicas, la venta no debe iniciar antes de las 10:00 horas ni excederse de las 22:00 horas en zonas habitacionales, y hasta las 01:00 horas, en establecimientos que se encuentren ubicados en zonas comerciales o mixtas.
+
+4. Los ayuntamientos pueden otorgar autorización de horas extras de operación, respecto de los establecidos en sus ordenamientos, sin que la venta y consumo pueda exceder de las 04:00 horas, únicamente a los establecimientos a que se refieren los artículos 15 y 16, siempre que implementen programas de seguridad y prevención de accidentes de los enunciados en la presente ley, además de los que contemplen los reglamentos municipales en la materia, en los términos que estos últimos determinen.
 
 ###### Artículo 39.
 
@@ -429,6 +487,12 @@ h) Salones de Baile: domingo a sábado de las 11:00 a las 23:00 horas.
 
 III. Establecimientos donde puede realizarse la venta, más no el consumo de bebidas alcohólicas: domingo a sábado de las 12:00 a las 21:00 horas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE AGOSTO DE 2010)</small>
+
+2. Los ayuntamientos pueden otorgar autorización de ampliación de horario u horas extras, sin exceder de las 04:00 horas, únicamente a los establecimientos a que se refieren los artículos 15 y 16, siempre que implementen programas de seguridad y prevención de accidentes de los enunciados en la presente ley.
+
 ###### Artículo 40.
 
 1. Los Hoteles y Moteles deben acatar los horarios señalados para cada uno de los establecimientos con que cuenten en sus instalaciones.
@@ -471,9 +535,25 @@ VII. Permitir que se realicen inspecciones a cargo de las autoridades competente
 
 VIII. Vigilar que el acceso a los establecimientos sea realizado con orden y seguridad para los clientes y los transeúntes, y en el caso de que presten el servicio de acomodo de vehículos, que este se apegue a las normas de vialidad y demás aplicables;
 
-IX. Cuidar que en los accesos a los establecimientos, ninguna persona relacionada directa o indirectamente a ellos, impida el libre tránsito y utilización de calles o vialidades o pretenda obtener algún beneficio económico por permitir su uso; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X. Cumplir con las demás disposiciones establecidas en la presente ley y demás disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+IX. Cuidar que en los accesos a los establecimientos, ninguna persona relacionada directa o indirectamente a ellos, impida el libre tránsito y utilización de calles o vialidades o pretenda obtener algún beneficio económico por permitir su uso;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+X. Aplicar los programas de prevención de accidentes que sean aprobados por los ayuntamientos en los términos dispuestos en la presente ley y las disposiciones reglamentarias municipales;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+XI. Romper todas las botellas vacías de vinos y licores destilados; y
+
+XII. Cumplir con las demás disposiciones establecidas en la presente ley y demás disposiciones legales y reglamentarias aplicables.
 
 2. Los establecimientos señalados en el artículo 15 deben además:
 
@@ -481,9 +561,29 @@ l. Contar con vigilancia debidamente capacitada, para dar seguridad a los concur
 
 II. Tener avisos, en las formas y medidas que señalen los reglamentos municipales, en los que se anuncie la prohibición de ingresar a los menores de dieciocho años de edad;
 
-III. Tener avisos, en las formas y medidas que señalen los reglamentos municipales, en los que se anuncie la prohibición para los establecimientos de discriminar a las personas por cualquier motivo, así como los teléfonos de las autoridades competentes a donde las personas pueden comunicarse en caso de presentarse situaciones de discriminación; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. Cuidar que la entrada del público al establecimiento se lleve a cabo en orden, sin perturbar a vecinos y transeúntes, asegurando en todo momento que el acceso de las personas sea de acuerdo a su estricto orden de llegada.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+III. Tener avisos, en las formas y medidas que señalen los reglamentos municipales, en los que se anuncie la prohibición para los establecimientos de discriminar a las personas por cualquier motivo, así como los teléfonos de las autoridades competentes a donde las personas pueden comunicarse en caso de presentarse situaciones de discriminación;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+IV. Cuidar que la entrada del público al establecimiento se lleve a cabo en orden, sin perturbar a vecinos y transeúntes, asegurando en todo momento que el acceso de las personas sea de acuerdo a su estricto orden de llegada;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+V. Tener avisos, en las formas y medidas que señalen los reglamentos municipales, en los que se anuncien las medidas y programas de prevención de accidentes que sean aprobados por los ayuntamientos para el establecimiento de que se trate; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+VI. Contar con instalaciones para elaboración y oferta de alimentos.
 
 3. Los establecimientos señalados en el artículo 16, fracción III, deben cumplir lo señalado en el párrafo 2 del presente artículo, cuando realicen eventos abiertos al público en general.
 
@@ -497,7 +597,11 @@ IV. Cuidar que la entrada del público al establecimiento se lleve a cabo en ord
 
 I. Vender bebidas alcohólicas que estén adulteradas, contaminadas o alteradas, en los términos de las disposiciones de salud aplicables, sin perjuicio de las sanciones penales o administrativas que puedan ser impuestas;
 
-II. Vender bebidas alcohólicas fuera del local del establecimiento;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+II. Vender o permitir el consumo de bebidas alcohólicas fuera del local del establecimiento;
 
 III. Vender o permitir el consumo de bebidas alcohólicas a los que visiblemente se encuentren en estado de ebriedad, a los individuos bajo efectos psicotrópicos o a personas con deficiencias mentales;
 
@@ -513,7 +617,11 @@ VIII. Instalar persianas, biombos, celosías o canceles que impidan la vista del
 
 IX. Permitir la prostitución en los establecimientos;
 
-X. Realizar concursos, eventos o torneos que requieran la ingestión excesiva de bebidas alcohólicas, desnaturalizando los principios de degustación, catación o cualquier otra manera destinada a evaluar la calidad de las bebidas. De igual forma, deben abstenerse de realizar eventos o promociones consistentes en ingerir toda la cantidad de bebidas alcohólicas que se pueda, previo el pago de una contraprestación económica, como las denominadas barras libres;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+X. Realizar cualquier actividad o estrategia comercial que tenga como objetivo inducir o motivar el consumo excesivo de bebidas alcohólicas;
 
 XI. Exigir determinado consumo de bebidas alcohólicas para el ingreso al establecimiento o para la venta de alimentos; y
 
@@ -569,9 +677,23 @@ VI. Revocación de la licencia.
 
 1. Se impondrá multa de 17 a 170 días de salario mínimo a quien:
 
-I. Carezca de los avisos en que se anuncie la prohibición de ingresar a menores de dieciocho años de edad; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Carezca de los avisos en que se anuncie la prohibición para los establecimientos de discriminar a las personas por cualquier motivo, así como los teléfonos a donde las personas puedan comunicarse en caso de presentarse situaciones de discriminación.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+I. Carezca de los avisos en que se anuncie la prohibición de ingresar a menores de dieciocho años de edad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+II. Carezca de los avisos en que se anuncie la prohibición para los establecimientos de discriminar a las personas por cualquier motivo, así como los teléfonos a donde las personas puedan comunicarse en caso de presentarse situaciones de discriminación; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+III. Carezca de los avisos relacionados con la aplicación de las medidas y programas de prevención de accidentes que se aplican en el local.
 
 ###### Artículo 52.
 
@@ -581,15 +703,35 @@ I. Venda o permita el consumo de bebidas alcohólicas sin alimentos en los estab
 
 II. Venda o permita el consumo de bebidas alcohólicas a personas que se encuentren visiblemente en estado de ebriedad, bajo efectos psicotrópicos o con deficiencias mentales;
 
-III. Permita la entrada a menores de edad a los establecimientos señalados en el artículo 15, salvo que se trate de eventos en los que no se vendan o consuman bebidas alcohólicas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+III. (DEROGADA, P.O. 7 DE AGOSTO DE 2010)
 
 IV. Permita que la entrada del público a los establecimientos se lleve a cabo en desorden o perturbando a vecinos y transeúntes;
 
-V. Venda o suministre bebidas alcohólicas fuera del local del establecimiento;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI. Instale persianas, biombos, celosías o canceles que impidan la vista del exterior hacia el interior del establecimiento; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
 
-VII. Venda bebidas alcohólicas en envase abierto y para su consumo inmediato en aquellos establecimientos cuya venta debe hacerse en envase cerrado, así como permitir su consumo en el interior del local.
+V. Venda, suministre o permita el consumo de bebidas alcohólicas fuera del local del establecimiento;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+VI. Instale persianas, biombos, celosías o canceles que impidan la vista del exterior hacia el interior del establecimiento;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+VII. Venda bebidas alcohólicas en envase abierto y para su consumo inmediato en aquellos establecimientos cuya venta debe hacerse en envase cerrado, así como permitir su consumo en el interior del local; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+VIII. Venda o permita el consumo de bebidas alcohólicas en contravención a los programas de prevención de accidentes aplicables en el local, cuando así lo establezcan los reglamentos municipales.
 
 2. A cualquier otro acto u omisión que infrinja la presente ley y que no se encuentre prevista en el presente capítulo, se le aplicará la multa prevista en el presente artículo.
 
@@ -603,7 +745,9 @@ II. No retire a personas en estado de ebriedad del local, cuando causen desorden
 
 III. No impida o en su caso, no denuncie actos que pongan en peligro el orden en los establecimientos;
 
-IV. Venda o suministre bebidas alcohólicas a menores de edad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+IV. (DEROGADA, P.O. 7 DE AGOSTO DE 2010)
 
 V. Venda o suministre bebidas alcohólicas a militares, policías o elementos de seguridad uniformados o en servicio, así como a personas armadas;
 
@@ -635,7 +779,11 @@ VI. Ordene o permita que la entrada del público al establecimiento se realice e
 
 ###### Artículo 55.
 
-1. Se impondrá multa de 280 a 2800 días de salario mínimo y en su caso, la revocación de la licencia o del permiso provisional respectivo a quien:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2010)</small>
+
+1. Se impondrá multa de 1440 a 2800 días de salario mínimo y en su caso, la revocación de la licencia o del permiso provisional respectivo a quien:
 
 l. Venda o suministre bebidas alcohólicas adulteradas, contaminadas o alteradas en los términos de las disposiciones de salud aplicable;
 
@@ -649,11 +797,35 @@ V. Suministre datos falsos a las autoridades encargadas de la aplicación y vigi
 
 VI. Enajene, traspase, arriende, grave o afecte la licencia;
 
-VII. Venda bebidas alcohólicas fuera de los horarios establecidos en los reglamentos, o en su defecto, en la presente ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII. Permita la realización en los establecimientos de juegos de azar prohibidos o el cruce de apuestas en juegos permitidos; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
 
-IX. Permita la prostitución en el establecimiento.
+VII. Venda o permita el consumo de bebidas alcohólicas fuera de los horarios establecidos en los reglamentos, o en la presente ley, según corresponda;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+VIII. Permita la realización en los establecimientos de juegos de azar prohibidos o el cruce de apuestas en juegos permitidos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+IX. Permita la prostitución en el establecimiento;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+X. Permita la entrada a menores de edad a los establecimientos señalados en el artículo 15, salvo que se trate de eventos en los que no se vendan o consuman bebidas alcohólicas; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+XI. Venda o suministre bebidas alcohólicas a menores de edad.
 
 ###### Artículo 56.
 
@@ -725,6 +897,22 @@ III. No sugiera que el consumo de bebidas alcohólicas mejora el rendimiento fí
 
 IV. No utilice el consumo de bebidas alcohólicas como estimulante de la sexualidad y violencia en cualquiera de sus manifestaciones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO DÉCIMO SEGUNDO. DENUNCIA CIUDADANA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2010)</small>
+
+###### Artículo 65.
+
+1. Cualquier persona podrá denunciar ante los órganos que determinen los ayuntamientos, actos u omisiones que constituyan contravenciones a la presente ley. La denuncia o queja ciudadana podrá interponerse aun en forma anónima, ya sea por escrito, comparecencia, vía telefónica o medios electrónicos.
+
+2. Las instancias municipales competentes deberán recibir, registrar, atender, dar seguimiento y resolver las denuncias que ante ellas se presenten. La resolución que se pronuncie deberá ser notificada al denunciante, cuando se haya identificado y proporcionado datos para tales efectos.
+
 ## TRANSITORIOS
 
 > <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
@@ -792,3 +980,9 @@ SEGUNDO. Una vez publicado el presente decreto remitase a los ayuntamientos de l
 P.O. 27 DE OCTUBRE DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 7 DE AGOSTO DE 2010.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se autoriza al Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, a realizar las modificaciones y adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
