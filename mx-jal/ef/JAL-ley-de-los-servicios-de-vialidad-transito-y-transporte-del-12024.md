@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2009-12-26"
+last_updated: "2010-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -367,13 +367,23 @@ XXXII. Autorizar y vigilar el cumplimiento de las tarifas para los servicios pú
 
 XXXIII. Las demás que determine la presente Ley.
 
-(ADICIONADO, P.O. 12 DE ENERO DE 2006) (F. DE E., P.O. 6 DE ABRIL DE 2006)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 19 Bis.
 
-La dependencia del Ejecutivo del Gobierno del Estado competente en materia de vialidad, tránsito y transporte podrán llevar a cabo programas de control para prevenir accidentes generados por la ingestión de alcohol, en los cuales se realicen a los conductores que cometan una infracción a esta ley, las pruebas de alcoholemia respectivas a través del empleo de instrumentos técnicos de medición, realizadas por personal del área de peritos y del área jurídica.
+La dependencia del Ejecutivo del Gobierno del Estado competente en materia de vialidad, tránsito y transporte podrá llevar a cabo programas de control u operativos para prevenir accidentes generados por la ingestión de alcohol, en los cuales se realicen a los conductores que cometan una infracción a esta ley, a través del área técnica correspondiente de dicha dependencia, las pruebas de alcoholemia respectivas a través del empleo de instrumentos técnicos de medición, realizados por personal del área de peritos y del área jurídica.
 
-En caso de que el conductor de un vehículo al cometer una infracción de las señaladas en la presente ley, presente aliento alcohólico, el agente de tránsito procederá solicitar al personal de peritos y del área jurídica, le aplique el examen respectivo, en el lugar de la infracción con el empleo de instrumentos de medición.
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2006)</small>
+
+En caso de que el conductor de un vehículo al cometer una infracción de las señaladas en la presente ley, presente aliento alcohólico, el agente de tránsito procederá a solicitar al personal de peritos y del área jurídica, le aplique el examen respectivo, en el lugar de la infracción con el empleo de instrumentos de medición.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2010)</small>
+
+El personal del área de peritos de la dependencia del Ejecutivo del Gobierno del Estado, competente en materia de vialidad, tránsito y transporte, en este caso, serán considerados como peritos oficiales y fungirán como auxiliares del Ministerio Público, por lo que las pruebas de aire espirado mediante el alcoholímetro serán incluidas en la averiguación previa que, en su caso, se integre.
 
 ###### Artículo 20.
 
@@ -888,6 +898,12 @@ I. La dependencia del Ejecutivo del Estado competente en materia de vialidad, tr
 II. Las autoridades competentes en materia de vialidad, tránsito y transporte de otras entidades y de la Federación, para operar o conducir vehículos por las vías públicas; y
 
 III. Por lo que se refiere a las licencias para conducir vehículos expedidas en el extranjero, su reconocimiento y validez quedarán sujetos a las disposiciones federales sobre la materia y a los convenios internacionales de los que México forme parte.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2010)</small>
+
+En el caso de que al conductor se le hubiere suspendido o cancelado su licencia en el estado de Jalisco, no deberá conducir vehículos durante el término de la suspensión, aun presente licencia expedida por las autoridades a las que se refieren las fracciones II y III del presente artículo.
 
 > <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
@@ -1901,7 +1917,9 @@ IV. (DEROGADA, P.O. 24 DE FEBRERO DE 2005)
 
 > <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2005)</small>
 
-ARTICULO 143 bis.- La comisión de Tarifas es un órgano auxiliar del Poder Ejecutivo del Estado de Jalisco, que tendrá la facultad, a propuesta del Organismo Coordinador, de revisar, aprobar y modificar las tarifas, para el servicio público de transporte en sus distintas modalidades y se conformará por representantes gubernamentales, sociales, empresariales y prestadores del servicio, con la siguiente integración:
+###### Artículo 143 Bis.
+
+La comisión de Tarifas es un órgano auxiliar del Poder Ejecutivo del Estado de Jalisco, que tendrá la facultad, a propuesta del Organismo Coordinador, de revisar, aprobar y modificar las tarifas, para el servicio público de transporte en sus distintas modalidades y se conformará por representantes gubernamentales, sociales, empresariales y prestadores del servicio, con la siguiente integración:
 
 I. El presidente que será el Gobernador del Estado, o la persona que éste designe;
 
@@ -1935,7 +1953,9 @@ La Comisión de Tarifas, bajo ninguna circunstancia puede asumir atribuciones qu
 
 > <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2004)</small>
 
-ARTICULO 143 ter.- La Comisión de Tarifas sesionará previa convocatoria por parte del Organismo Coordinador, durante el tiempo necesario para resolver la situación que le sea planteada por el mismo.
+###### Artículo 143 Ter.
+
+La Comisión de Tarifas sesionará previa convocatoria por parte del Organismo Coordinador, durante el tiempo necesario para resolver la situación que le sea planteada por el mismo.
 
 La resolución en que se determine la procedencia o no de una modificación a las tarifas, así como el monto de las mismas, deberán basarse en los estudios recibidos del Organismo Coordinador, y en caso de no adoptar su propuesta, deberá fundarse y motivarse la resolución adoptada.
 
@@ -2207,13 +2227,39 @@ I. Participación en flagrante delito en el que el vehículo sea instrumento del
 
 II. Existencia de informe oficial de un delito o de su presunción fundada, en el que el vehículo sea objeto o instrumento;
 
-III. Acatamiento de una orden judicial; y
+III. Acatamiento de una orden judicial; y (sic)
 
-IV. Violación, por el conductor, de una medida de seguridad aplicada conforme a los artículos que anteceden.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+IV. Violación, por el conductor, de una medida de seguridad aplicada conforme a los artículos que anteceden;
 
 > <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
 
-V. En los supuestos del artículo 156, fracciones I, II y III de esta ley, cuando no demuestre la posesión o legal propiedad del vehículo.
+V. En los supuestos del artículo 156, fracciones I, II y III de esta ley, cuando no demuestre la posesión o legal propiedad del vehículo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+VI. En caso de que al conductor se le detecten de:
+
+a) 81 a 130 miligramos de alcohol por 100 mililitros de sangre; o
+
+b) 0.41 a 0.65 miligramos de alcohol por litro de aire espirado; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+VII. Cuando se imponga al conductor, como sanción, el arresto administrativo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2010)</small>
+
+En el caso de la fracción VI del presente artículo, el conductor podrá ser auxiliado por persona que no se encuentre bajo los efectos de alcohol, estupefacientes o psicotrópicos, haciéndose responsable de la conducción del automotor, en los términos del reglamento de la presente ley.
 
 Las autoridades de vialidad y tránsito, en ningún otro caso de los antes previstos, podrán retener un vehículo.
 
@@ -2495,15 +2541,35 @@ VII. Al conductor que maneje en sentido contrario o, al que injustificadamente i
 
 Se sancionará con multa equivalente a veinte días de salario mínimo general, vigente en la zona económica donde se cometa la infracción, al conductor de servicio de transporte público que realice servicio distinto al autorizado, en vehículos destinados al servicio público.
 
-(ADICIONADO, P.O. 12 DE ENERO DE 2006) (F. DE E., P.O. 6 DE ABRIL DE 2006)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Artículo 168 BIS.- Se sancionará con multa equivalente a treinta días de salario mínimo general, vigente en la zona económica en donde se cometa la infracción, a la persona que conduzca un vehículo de motor y se le detecten de cien a ciento cincuenta miligramos de alcohol por cien mililitros de sangre o bajo el influjo de estupefacientes o psicotrópicos, cuando cometa además cualquier otra infracción a esta ley o su reglamento.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
 
-En este caso, inmediatamente se practicará al conductor la prueba de alcoholemia o de aire expirado en alcoholímetro. Cuando éste se niegue a otorgar muestra de aire expirado se remitirá al Ministerio Público, y se le practicará un examen pericial clínico médico.
+###### Artículo 168 Bis.
 
-La licencia o permiso del conductor podrá ser suspendida en los términos del tercer párrafo del artículo 170 de este ordenamiento.
+Se sancionará con multa equivalente de ciento cincuenta a doscientos días de salario mínimo general, vigente en la zona económica en donde se cometa la infracción, a la persona que conduzca un vehículo de motor y se le detecten:
 
-En caso de detectarse al conductor más de ciento cincuenta miligramos de alcohol en sangre, el conductor será puesto a disposición del Ministerio Público para los efectos legales correspondientes.
+I. De 50 a 80 miligramos de alcohol por cien mililitros de sangre;
+
+II. De 0.25 a 0.40 miligramos de alcohol por litro de aire espirado; o
+
+III. Bajo el influjo de estupefacientes o psicotrópicos.
+
+Si se trata de la conducción de una unidad del transporte público, la sanción será aplicable aun cuando al conductor se le detecte una cantidad de alcohol inferior a la señalada en las fracciones I y II del presente artículo.
+
+En caso de que a un conductor se le detecten de 81 a 130 miligramos de alcohol por 100 mililitros de sangre o de 0.41 a 0.65 miligramos de alcohol por litro de aire espirado, se procederá conforme lo establece la fracción VI del artículo 158 de esta ley, independientemente de la sanción a la que se refiere el primer párrafo del presente artículo.
+
+Para la aplicación de dichas sanciones es necesario que el conductor cometa además cualquier otra infracción a esta ley o su reglamento.
+
+En estos casos, inmediatamente se practicará al conductor la prueba de alcoholemia o de aire espirado en alcoholímetro, en términos de lo dispuesto por el artículo 19-Bis. Cuando éste se niegue a otorgar muestra de aire espirado se remitirá al Ministerio Público, y se le practicará un examen pericial clínico médico.
+
+Al conductor reincidente, además de la sanción que se refiere el primer párrafo del presente artículo, el conductor infractor deberá asistir a un curso en materia de sensibilización, concientización y prevención de accidentes viales por causa de la ingesta de alcoholo el influjo de estupefacientes o psicotrópicos, ante la instancia que indique la autoridad competente en materia de vialidad, tránsito y transporte.
+
+La licencia o permiso del conductor podrá ser suspendido en los términos del tercer párrafo del artículo 170 de este ordenamiento.
+
+En caso de detectarse al conductor más de 130 miligramos de alcohol por 100 mililitros de sangre o más de 0.65 miligramos de alcohol por litro de aire espirado, el conductor y el vehículo será puesto a disposición del Ministerio Público para los efectos legales correspondientes.
+
+La dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, integrará un registro de personas sancionadas por la conducción de vehículos en términos previstos en el presente artículo y del párrafo tercero del artículo 170 de esta ley.
 
 > <small>(REFORMADO, P.O. 9 DE MARZO DE 2002)</small>
 
@@ -2523,13 +2589,17 @@ En caso de reincidencia en las infracciones previstas en el presente capítulo, 
 
 En caso de reincidencia en las infracciones previstas en las fracciones VI y VII del artículo 167 de esta ley, cometidas dentro de los treinta días siguientes, se sancionará a elección del infractor, con arresto de doce horas, o dos jornadas de trabajo en favor de la comunidad en materia de vialidad y tránsito.
 
-(REFORMADO, P.O. 12 DE ENERO DE 2006) (F. DE E., P.O. 25 DE MARZO DE 2006)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Tratándose de la infracción contenida en el artículo 168 bis a la persona que reincidiere dentro de los sesenta días siguientes, se le sancionará además con arresto administrativo inconmutable de 36 horas y, de volver a reincidir dentro de los treinta días siguientes, independientemente del arresto administrativo inconmutable de treinta y seis horas, se le cancelará definitivamente su licencia, y solamente podrá proporcionársele con los mismos requisitos que deberá cumplir para la licencia nueva, hasta haber transcurrido un año de la cancelación, además de una investigación de trabajo social y exámenes de toxicomanía y alcoholismo, que demuestren que el interesado no es dependiente de bebidas embriagantes, ni estupefacientes o psicotrópicos.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2002)</small>
+Tratándose de la infracción contenida en el artículo 168-Bis, a la persona que reincidiere dentro del año siguiente a haber cometido la infracción, además de la sanción económica, se le impondrá un arresto administrativo inconmutable de 12 a 36 horas y, de volver a reincidir dentro del año siguiente, independientemente de la sanción económica y el arresto administrativo inconmutable, se le cancelará definitivamente su licencia, y solamente podrá proporcionársele con los mismos requisitos que deberá cumplir para la licencia nueva, hasta haber transcurrido dos años de la cancelación, además de una investigación de trabajo social y exámenes de toxicomanía y alcoholismo, que demuestren que el interesado no es dependiente de bebidas embriagantes, ni estupefacientes o psicotrópicos.
 
-Por la reincidencia en las infracciones previstas en los artículos 165, 166 fracción II, 167 Fracción II y VI, 169 y 173 Bis Fracción I y II, cometidas por conductores del servicio público de transporte colectivo de pasajeros dentro de los 30 días siguientes, la sanción se incrementará en doscientos días de salario mínimo general vigente en la zona que se cometa la infracción.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
+
+Por la reincidencia en las infracciones previstas en los artículos 165, 166 fracción II, 167 Fracción II y VI, 169 y 173-Bis Fracción I y II, cometidas por conductores del servicio público de transporte colectivo de pasajeros dentro de los 30 días siguientes, la sanción se incrementará hasta en doscientos días de salario mínimo general vigente en la zona que se cometa la infracción.
 
 ### CAPITULO IV. De las sanciones administrativas en materia del servicio público del transporte
 
@@ -2647,13 +2717,21 @@ Las autoridades competentes, tanto para levantar infracciones como para califica
 
 Si en el procedimiento que sigan las autoridades para tomar conocimiento de infracciones y ejecutar las sanciones administrativas previstas en esta Ley, constatan actos u omisiones que puedan integrar delitos, formularán la denuncia correspondiente al Ministerio Público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 180.
 
-El crédito fiscal derivado de una multa de carácter administrativo, podrá pagarse sin recargo alguno, dentro de los treinta días siguientes al de la notificación de la cédula de infracción; pero si el infractor efectúa su pago dentro de los primeros diez días, tendrá derecho a una reducción del cincuenta por ciento en el monto de la misma; en el caso de que el pago lo haga del día décimo primero al vigésimo noveno día, la reducción será únicamente del veinticinco por ciento.
+El crédito fiscal derivado de una multa de carácter administrativo, podrá pagarse sin recargo alguno, dentro de los treinta días siguientes al de la notificación de la cédula de infracción; pero si el infractor efectúa su pago dentro de los primeros diez días hábiles, tendrá derecho a una reducción del cincuenta por ciento en el monto de la misma; en el caso de que el pago lo haga del undécimo al vigésimo noveno día, la reducción será únicamente del veinticinco por ciento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2010)</small>
+
+Para el caso de la sanción económica a que se refiere el artículo 168-Bis respecto a los reincidentes, los plazos a que se refiere esta disposición, correrán a partir del día hábil siguiente al en que el infractor debió asistir al curso a que se refiere el mismo artículo; en cuyo caso, sólo mediante la presentación de la constancia de asistencia se tendrá derecho a las referidas reducciones.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 El Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, podrá celebrar convenios con establecimientos comerciales para efectos de que reciban el pago de dichos créditos fiscales, dentro del plazo ordinario que no genera recargo, aplicando en su caso, los descuentos señalados.
 
@@ -2670,6 +2748,12 @@ En los casos de sanciones alternativas en que el infractor opte por el trabajo e
 ###### Artículo 183.
 
 Cuando se imponga un arresto administrativo, se comunicará la resolución a la autoridad competente para que lo ejecute.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2010)</small>
+
+En el caso de que el arresto sea impuesto por la autoridad estatal, se notificará al encargado de prevención social o de los lugares donde se ejecuten los arrestos administrativos del municipio donde resida el infractor, para su ejecución.
 
 ### CAPITULO VI. De las notificaciones
 
@@ -3062,3 +3146,9 @@ P.O. 26 DE DICIEMBRE DE 2009.
 PRIMERO. El presente decreto entrará en vigor 90 días después de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. La Secretaría de Vialidad y Transporte deberá realizar una campaña estatal para hacer del conocimiento de la ciudadanía eta (sic) opción de pago.
+
+P.O. 7 DE AGOSTO DE 2010.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se autoriza al Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, a realizar las modificaciones y adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
