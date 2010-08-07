@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2009-10-24"
+last_updated: "2010-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -613,7 +613,7 @@ Los delitos culposos se sancionarán con prisión de tres días a ocho años y s
 
 Si se causaren por culpa grave homicidio o las lesiones señaladas en las fracciones IV o V del artículo 207 de este Código, se aplicará la sanción de tres a diez años de prisión e inhabilitación para manejar hasta por un tiempo igual al de la duración de la pena privativa de la libertad.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 Se considera culpa grave en los homicidios o lesiones a que se refiere el párrafo anterior, si se cometen con motivo del tránsito de vehículos y se dé una de las siguientes circunstancias:
 
@@ -621,7 +621,15 @@ I. Cuando conduzca el probable responsable, con exceso de velocidad en más de t
 
 II. Cuando se cometa en hospitales, o zonas de concurrencia de personas tales como escuelas en horarios de entrada o salida, centros comerciales o lugares de culto público siempre que, existan señalamientos de esta circunstancia;
 
-III. Cuando al sujeto activo se le detecten más de doscientos miligramos de alcohol por cien mililitros de sangre o conduzca bajo el influjo de estupefacientes o psicotrópicos de los señalados en la Ley General del (sic) Salud, cuando conforme a dictamen pericial se pruebe que esas substancias inhibieron la facultad para conducir;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
+
+III. Cuando al sujeto activo:
+
+a) Se le detecten más de ciento cincuenta miligramos de alcohol por cien mililitros de sangre; o
+
+b) Conduzca bajo el influjo de estupefacientes o psicotrópicos de los señalados en la Ley General de Salud, cuando conforme a dictamen pericial se pruebe que esas substancias alteren la facultad para conducir;
 
 IV. Cuando se cometa con vehículos cuya capacidad de carga sea mayor de cuatro toneladas, o más de doce plazas de pasajeros;
 
@@ -629,7 +637,11 @@ V. Cuando se conduzca un vehículo en sentido contrario a la circulación señal
 
 VI. Cuando el inculpado ha cometido anteriormente otros delitos culposos con motivo de tránsito de vehículos y conste en sentencia ejecutoriada.
 
-La libertad provisional bajo caución, será negada a los probables responsables, cuando concurran en la comisión del delito, dos o más de las circunstancias señaladas en las fracciones precedentes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
+
+Será negada la libertad provisional bajo caución, cuando sean probables o concurran en la comisión del delito de lesiones previsto por el artículo 207 fracciones IV y V de este código, dos o más de las circunstancias señaladas en las fracciones del presente artículo. En el caso de homicidio, la libertad provisional bajo caución será negada a los probables responsables, cuando concurra cualquiera de las circunstancias señaladas en la fracción III, o cuando concurran en su comisión, dos o más de las circunstancias señaladas en las fracciones I, II, IV, V y VI de este artículo.
 
 Cuando se cometa el delito de homicidio o lesiones por culpa grave, en accidente de tránsito, el vehículo conducido por el inculpado será asegurado por la autoridad competente hasta que se pague la reparación del daño. El pago de la reparación del daño no prejuzga sobre la responsabilidad del conductor.
 
@@ -1197,15 +1209,9 @@ En lo que sea aplicable a la sedición, se observará lo dispuesto en el capítu
 
 ### CAPITULO VI. Delitos de tránsito
 
-(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2006) (F. DE E., P.O. 6 DE ABRIL DE 2006)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-###### Artículo 122.
-
-Al conductor que maneje un vehículo automotor, y se le detecten más de ciento cincuenta miligramos de alcohol por cien mililitros de sangre o bajo el influjo de estupefacientes o psicotrópicos, que alteren su habilidad para conducirlo, cuando cometa además otra infracción a la normatividad aplicable en materia de tránsito y transporte, se le impondrán de sesenta a ciento veinte jornadas de trabajo a favor de la comunidad, de cuarenta a doscientos días de multa, e inhabilitación de tres meses a un año para manejar vehículos de motor, independientemente de las sanciones que correspondan por la comisión de otros delitos.
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
-
-Al reincidente en este delito, se le impondrá además de las sanciones señaladas en el párrafo anterior, la obligación de someterse a un tratamiento de deshabituación o desintoxicación.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2010)</small>
 
 ###### Art. 111.
 
@@ -1307,7 +1313,9 @@ Cuando el miembro de la pandilla sea ó haya sido, en los tres años anteriores 
 
 ###### Art. 122.
 
-Al conductor que maneje un vehículo, estando bajo los efectos del alcohol o bajo el influjo de estupefacientes o psicotrópicos, que alteren la habilidad para conducir y que esto sea de su conocimiento, cuando cometa además cualquiera otra infracción al Reglamento de Tránsito en vigor, a criterio del juez, se le impondrán de treinta a noventa jornadas de trabajo a favor de la comunidad, de veinte a cien días de multa, e inhabilitación de tres a seis meses para manejar vehículos de motor.
+Al conductor que maneje un vehículo automotor, y se le detecten más de 130 miligramos de alcohol por cien mililitros de sangre o más de 0.65 miligramos de alcohol por litro de aire espirado, o bajo el influjo de estupefacientes o psicotrópicos, que alteren su habilidad para conducirlo, cuando cometa además otra infracción a la normatividad aplicable en materia de tránsito y transporte, se le impondrán de sesenta a ciento veinte jornadas de trabajo a favor de la comunidad, de ciento cincuenta a doscientos cincuenta días de multa, e inhabilitación de tres meses a dos años para manejar vehículos de motor, independientemente de las sanciones que correspondan por la comisión de otros delitos.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 Al reincidente en este delito, se le impondrá además de las sanciones señaladas en el párrafo anterior, la obligación de someterse a un tratamiento de deshabituación o desintoxicación.
 
@@ -4688,3 +4696,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente.
 
 TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
+
+P.O. 7 DE AGOSTO DE 2010.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se autoriza al Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, a realizar las modificaciones y adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
