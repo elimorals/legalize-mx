@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2009-10-24"
+last_updated: "2010-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -1117,15 +1117,19 @@ Se tendrá por acreditado el cuerpo del delito de robo equiparado, a que se cont
 
 Cuando, tratándose del delito de ataques a las vías de comunicación, no fuese posible practicar inspección ocular, porque para evitar perjuicios al servicio público haya sido necesario hacer inmediatamente la reparación respectiva, bastará para la comprobación de los elementos del tipo penal del delito cualquiera otra prueba plena.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
 
 ###### Art. 125.
 
-En el caso de los delitos de tránsito, inmediatamente se practicará al indiciado los exámenes médicos y la prueba de alcoholemia o de aire expirado en alcoholímetro, para determinar si está ebrio o bajo la influencia de enervantes. Cuando éste se niegue a otorgar muestra de sangre o aire expirado y previa certificación de dicha negativa que realice al Agente del Ministerio Público en presencia de su respectivo secretario o de dos testigos de asistencia, se le practicará un examen pericial clínico médico.
+En los casos de los delitos de tránsito, inmediatamente se practicarán al indiciado los exámenes médicos y las pruebas de alcoholemia o de aire espirado en alcoholímetro, para determinar la concentración de alcohol, la afectación de la capacidad para conducir o que se encuentra bajo la influencia de enervantes. Para el caso que existiere delito de homicidio por las causales previstas en el artículo 48 fracción III del Código Penal, será necesaria la prueba de alcohol en sangre, la toxicológica o el dictamen médico correspondiente.
 
-La autoridad ordenará la práctica de los exámenes que estimen pertinentes para determinar el grado de concentración de alcohol que presente el indiciado en la sangre o de la intoxicación, particularmente indicará las alteraciones psíquicas y físicas producidas en dicho indiciado; establecerá la mayor o menor peligrosidad, que en su estado represente para la circulación y, particularmente, dictaminará si al tiempo de los hechos estaba ebrio o intoxicado. Del resultado de dichas pruebas se levantará la certificación correspondiente.
+Cuando el indiciado se niegue a otorgar muestra de sangre o de aire espirado y previa certificación de dicha negativa que realice el Agente del Ministerio Público en presencia de su respectivo secretario o de dos testigos de asistencia, se le practicará un examen pericial clínico médico, cuyo resultado será considerado para determinar si el indiciado tiene condiciones físicas que afectan la capacidad para la conducción del vehículo.
 
-En los casos dudosos el médico deberá mandar practicar las investigaciones de laboratorio que considere necesarias.
+La autoridad ordenará la práctica de los exámenes que estime pertinentes para determinar el grado de concentración de alcohol que presente el indiciado en la sangre o de la intoxicación, particularmente indicará las alteraciones psíquicas y físicas producidas en dicho indiciado; establecerá la mayor o menor peligrosidad que en su estado represente para la circulación y, particularmente, dictaminará si al tiempo de los hechos estaba ebrio o intoxicado. Del resultado de dichas pruebas se levantará la certificación correspondiente.
+
+En los casos dudosos, el médico deberá mandar practicar las investigaciones de laboratorio que considere necesarias.
 
 Los medios de prueba señalados en este artículo, podrán utilizarse en la investigación de cualquier delito.
 
@@ -1901,13 +1905,17 @@ Si no hubiere peritos de los que menciona el párrafo anterior, se podrán nombr
 
 Los peritos que acepten el cargo, con excepción de los oficiales titulares, tienen obligación de protestar su fiel desempeño ante el funcionario que practique las diligencias. En casos urgentes, la protesta la rendirán al emitir o ratificar su dictamen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
 
 ###### Art. 227.
 
-El funcionario que practique las diligencias fijará a los peritos el tiempo en que deban cumplir su cometido; tratándose de dictámenes que versen sobre alcoholemia o causalidad vial, cuando se trate de delitos o lesiones causados con motivo de tránsito de vehículos, estos deberán emitirse en un plazo de veinticuatro horas a partir de la recepción de la solicitud del peritaje. Si transcurrido ese tiempo no rinden su dictamen o si legalmente citados y aceptado el cargo, no concurren a desempeñarlo, se hará uso de algún medio de apremio.
+El funcionario que practique las diligencias fijará a los peritos el tiempo en que deban cumplir su cometido; tratándose de dictámenes que versen sobre alcoholemia o causalidad vial, cuando se trate de delitos o lesiones causados con motivo de tránsito de vehículos, éstos deberán emitirse dentro de las veinticuatro horas a partir de la recepción de la solicitud del peritaje. Si transcurrido ese tiempo no rinden su dictamen o si legalmente citados y aceptado el cargo, no concurren a desempeñarlo, se hará uso de algún medio de apremio.
 
-Si a pesar de haber sido apremiado el perito, no cumple con las obligaciones impuestas en el párrafo anterior, se le consignará al Ministerio Público, para que proceda por el delito a que se refiere el Art. 128, frac. I del Código Penal.
+Si a pesar de haber sido apremiado el perito, no cumple con las obligaciones impuestas en el párrafo anterior, se hará acreedor a las sanciones administrativas o penales que correspondan.
+
+El personal del área de peritos de la dependencia del Ejecutivo del Gobierno del Estado, competente en materia de vialidad, tránsito y transporte, será considerado como peritos oficiales y fungirán como auxiliares del Ministerio Público, por lo que se refiere a la prueba de aire espirado en alcoholímetro.
 
 ###### Art. 228.
 
@@ -2137,9 +2145,13 @@ Cuando en una misma causa hubiese dos o más declaraciones diversas de la misma 
 
 La retractación de los testigos sólo tendrá eficacia, y valor probatorio, cuando esta se encuentre apoyada con elementos de prueba idóneos, que el Juez o el Ministerio Público harán valer en auto fundado y motivado, en el que se razonará por separado la retractación objeto de examen.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
+
 ###### Art. 268.
 
-Los Jueces y el Tribunal apreciarán los dictámenes periciales, aún los de los peritos científicos, según las circunstancias del caso.
+Los jueces y el tribunal apreciarán los dictámenes periciales, aun los de los peritos científicos, así como las pruebas técnicas, según las circunstancias del caso.
 
 ###### Art. 269.
 
@@ -2675,11 +2687,11 @@ Tratándose de delitos que afecten la vida o la integridad corporal, el monto de
 
 Se califican como delitos graves y en su caso el inculpado no tendrá derecho al beneficio de la libertad provisional bajo caución, los previstos en los ordenamientos siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
 
-l. En el Código Penal: Homicidio culposo grave, artículo 48 penúltimo párrafo evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas, lenocinio, artículo 139; corrupción de menores, artículo I42-A, en sus dos últimos párrafos; pornografía infantil, 142- D, fracciones I y III; prostitución infantil artículos 142-F fracción I y 142-G; promoción de la prostitución infantil artículo 142-H; trata de personas, artículo 142-J; cohecho, artículo 147, cuarto párrafo; peculado, artículo 148, párrafo tercero y artículo 149; delitos cometidos en la custodia o guarda de documentos, artículo 151 último párrafo; enriquecimiento ilícito, artículo 153, fracción II; usurpación artículo 170, último párrafo; falsificación de medios electrónicos o magnéticos 170 bis, en todas sus fracciones; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 bis, párrafos primero y quinto; extorsión, artículo 189 párrafos segundo y cuarto; extorsión agravada, artículo 189 bis; asalto, artículo 192; privación ilegal de la libertada (sic)y de otros derechos, artículo 193 último párrafo; secuestro y delitos relacionados previstos en el artículo 194; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracciones lII, IV, V. VI y VII; robo cometido en los siguientes casos, artículo 235, fracción III; robo agravado, artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartados c) y d), en su totalidad; y abigeato y robo de animales, artículos 240 y 242, cuando el producto del delito exceda del importe de 350 salarios mínimos o se trate de reincidencias de cualquier delito contra el patrimonio y abigeato calificado, artículo 242 B; fraude previsto en el artículo 252 fracción XIX; administración fraudulenta, artículo 254 ter fracción II; despojo de inmuebles, fracción IV del artículo 262; pillaje, artículo 262 ter fracción III, y delitos electorales, artículo 270 fracción III, 276 y 278; los ilícitos penales mencionados en este párrafo, en grado de tentativa punible previsto en el artículo 52 y el continuado grave establecido en el artículo 55 bis;
+I. En el Código Penal: Homicidio culposo grave o lesiones culposas graves, artículo 48 penúltimo párrafo; evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; lenocinio, artículo 139; corrupción de menores, artículo 142-A, en Sus dos últimos párrafos; pornografía infantil, 142-D, fracciones I y III; prostitución infantil artículos 142-F fracción I y 142-G; promoción de la prostitución infantil artículo 142-H; trata de personas, artículo 142-J; cohecho, artículo 147, cuarto párrafo; peculado, artículo 148, párrafo tercero y artículo 149; delitos cometidos en la custodia o guarda de documentos, artículo 151 último párrafo; enriquecimiento ilícito, artículo 153, fracción II; usurpación artículo 170, último párrafo; falsificación de medios electrónicos o magnéticos 170 bis, en todas sus fracciones; violación, artículo 175; violación equiparada, articulo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 bis, párrafos primero y quinto; extorsión, artículo 189 párrafos segundo y cuarto; extorsión agravada, artículo 189 bis; asalto, artículo 192; privación ilegal de la libertad y de otros derechos, artículo 193 último párrafo; secuestro y delitos relacionados previstos en el artículo 194; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, articulo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracciones III, IV, V, VI y VII; robo cometido en los siguientes casos, artículo 235, fracción III; robo agravado, artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartados c) y d), en su totalidad; y abigeato y robo de animales, artículos 240 y 242, cuando el producto del delito exceda del importe de 350 salarios mínimos o se trate de reincidencias de cualquier delito contra el patrimonio y abigeato calificado, artículo 242 B; fraude previsto en el artículo 252 fracción XIX; administración fraudulenta, artículo 254 ter fracción II; despojo de inmuebles, fracción IV del artículo 262; pillaje, artículo 262 ter fracción III, y delitos electorales, artículo 270 fracción III, 276 y 278; los ilícitos penales mencionados en este párrafo, en grado de tentativa punible previsto en el artículo 52 y el continuado grave establecido en el artículo 55 bis;
 
 II. En la Ley Estatal para Prevenir y Sancionar la Tortura: Tortura, artículo 3º; y
 
@@ -3912,3 +3924,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente.
 
 TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
+
+P.O. 7 DE AGOSTO DE 2010.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se autoriza al Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, a realizar las modificaciones y adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
