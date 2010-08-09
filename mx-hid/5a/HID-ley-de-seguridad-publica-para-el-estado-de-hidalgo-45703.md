@@ -4,7 +4,7 @@ identifier: "HID-ley-de-seguridad-publica-para-el-estado-de-hidalgo-45703"
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-08"
-last_updated: "2008-12-01"
+last_updated: "2010-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 8 de agosto de 2005.
 
@@ -1009,15 +1009,17 @@ XXV.- Dar aviso al Ministerio Público cuando se haya cometido un delito, propor
 
 XXVI.- Las demás que sean necesarias para cumplir con los principios señalados en el primer párrafo del presente Artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 78 Bis.
 
 Los elementos de los cuerpos de Seguridad Pública investigarán delitos bajo la conducción y mando del Ministerio Público, de acuerdo con las instrucciones que le dicte y exclusivamente para los fines de la averiguación previa, así como en la persecución de los delincuentes; ejecutarán los mandamientos ministeriales y los que emita la Autoridad Judicial, y tendrá las siguientes funciones:
 
-I.- Realizar las investigaciones y recabar las pruebas para acreditar los elementos del cuerpo del delito y la probable responsabilidad de los indiciados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+I.- Realizar investigaciones y recabar las pruebas para acreditar los elementos del cuerpo del delito y la probable responsabilidad;
 
 II.- Preservar los indicios, objetos e instrumentos del delito; asegurar a las personas relacionadas con hechos posiblemente constitutivos de delitos de los que tengan conocimiento con motivo de su intervención, poniéndolos a la inmediata disposición del Ministerio Público;
 
@@ -1027,9 +1029,19 @@ IV.- Ejecutar con toda oportunidad las órdenes de comparecencia, aprehensión, 
 
 V.- Ejecutar con toda oportunidad las citaciones, notificaciones, presentaciones u órdenes de detención que emita el Ministerio Público, así como auxiliarlo en el cumplimiento de las diligencias que practique;
 
-VI.- Auxiliar a las Autoridades Federales, de las Entidades Federativas y del Distrito Federal, en acatamiento de las órdenes que gire su superior jerárquico, conforme a las Leyes aplicables y convenios de colaboración; y
+VI.- Auxiliar a las Autoridades Federales, de las Entidades Federativas y del Distrito Federal, en acatamiento de las órdenes que gire su superior jerárquico, conforme a las Leyes aplicables y convenios de colaboración; y (sic)
 
-VII.- Las demás que determine esta Ley y otras disposiciones aplicables.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+VII.- Participar en investigaciones, conjuntas de delitos contra la salud en su modalidad de narcomenudeo, de conformidad con los ordenamientos legales aplicables, así como en la realización de operativos conjuntos en la materia; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+VIII.- Las demás que determine esta Ley y otras disposiciones aplicables.
 
 ### CAPITULO II. De las Reglas para el Empleo de la Fuerza y Uso de las Armas de Fuego
 
@@ -1469,7 +1481,11 @@ Las Autoridades Estatales y Municipales en materia de Seguridad Pública, en el 
 
 La coordinación en materia de Seguridad Pública comprenderá, entre otros aspectos, los siguientes:
 
-I.- Programas y acciones de Seguridad Pública, orientados a la prevención del delito, combate a la delincuencia, capacitación y profesionalización de los elementos y fomento a la participación ciudadana;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+I.- Programas y acciones de seguridad pública, orientados a la prevención del delito, combate a la delincuencia y narcomenudeo, capacitación y profesionalización de los elementos y fomento a la participación ciudadana;
 
 II.- Sistemas para el intercambio de información que faciliten el desarrollo de sus actividades y en los procesos de selección y reclutamiento del personal;
 
@@ -2242,3 +2258,9 @@ La Secretaría de Finanzas y la Secretaría de Administración del Gobierno del 
 ###### ARTÍCULO SEXTO.
 
 Todos los asuntos de la Dirección General de Seguridad Pública y Tránsito del Estado y de la Dirección General de la Policía Ministerial que se encuentren en trámite, pasarán a la competencia de la Secretaría de Seguridad Pública del Estado, quien deberá desahogarlos y concluirlos de acuerdo con las disposiciones legales aplicables.
+
+P.O. 9 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente Decreto, una vez realizada su Publicación en el Periódico Oficial del Estado, entrará en vigor el día 20 de agosto del año 2010.
+
+SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
