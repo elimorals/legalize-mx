@@ -4,7 +4,7 @@ identifier: "HID-ley-de-justicia-para-adolescentes-del-estado-de-hidalgo-51917"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-25"
-last_updated: "2009-06-15"
+last_updated: "2010-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 25 de septiembre de 2006.
 
@@ -67,9 +67,17 @@ Esta Leyes de orden público e interés general Tiene como objeto la creación d
 
 Son Sujetos de esta Ley:
 
-I.- Las personas de entre 12 años cumplidos y 18 años no cumplidos de edad, denominados adolescentes, a quienes se atribuya o compruebe la realización de una conducta tipificada como delito en las Leyes Locales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Las personas de entre 18 años cumplidos y 25 no cumplidos de edad, a quienes se atribuya o compruebe la realización de una conducta tipificada como delito en las Leyes Locales, cometida cuando eran adolescentes, a quienes se les aplicará el Sistema Integral de Justicia para Adolescentes en todo aquello que proceda, entendiéndose que cuando esta Ley se refiera al adolescente, en su caso, también se referirá al adulto joven; y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+I.- Las personas de entre 12 años cumplidos y 18 años no cumplidos de edad, denominados adolescentes, a quienes se atribuya o compruebe la realización de una conducta tipificada como delito en las Leyes Locales, en Leyes Federales o especiales, en materia de competencia concurrente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+II.- Las personas de entre 18 años cumplidos y 25 no cumplidos de edad, a quienes se atribuya o compruebe la realización de una conducta tipificada como delito en las Leyes Locales, en Leyes Federales o especiales, en materia de competencia concurrente, cometida cuando eran adolescentes, a quienes se les aplicará el Sistema Integral de Justicia para Adolescentes en todo aquello que proceda, entendiéndose que cuando esta Ley se refiera al adolescente, en su caso, también se referirá al adulto joven; y
 
 III. Las víctimas u ofendidos por las conductas referidas en las fracciones anteriores.
 
@@ -85,15 +93,27 @@ II.- Reconocer los derechos y garantías de las personas sujetas al Sistema y ga
 
 III.- Establecer las atribuciones y facultades de las Autoridades, Instituciones y órganos encargados de la aplicación del Sistema;
 
-IV.- Establecer los procedimientos y mecanismos para determinar la responsabilidad de los adolescentes por la realización de una conducta tipificada como delito en las Leyes Locales, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Regular la ejecución de las medidas aplicables a los adolescentes y adultos jóvenes que resulten responsables por la realización de una conducta tipificada como delito en las Leyes Locales.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+IV.- Establecer los procedimientos y mecanismos para determinar la responsabilidad de los adolescentes, por la realización de una conducta tipificada como delito en las Leyes Locales, en Leyes Federales o especiales, en materia de competencia concurrente, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+V.- Regular la ejecución de las medidas aplicables a los adolescentes y adultos jóvenes que resulten responsables por la realización de una conducta tipificada como delito en las Leyes Locales, en Leyes Federales o Especiales, en materia de competencia concurrente.
 
 ###### Artículo 4.
 
 Son principios rectores del Sistema:
 
-I.- Interés superior del adolescente, que garantiza que toda medida que el Estado tome frente a los adolescentes, que realizan conductas tipificadas como delito en las Leyes Locales, deba interpretarse y aplicarse siempre en el sentido de maximizar los derechos de los adolescentes y de restringir los efectos negativos de su sujeción a un Sistema que en esencia, tiene un carácter aflictivo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+I.- Interés superior del adolescente, que garantiza que toda medida que el Estado tome frente a los adolescentes, que realizan conductas tipificadas como delito en las Leyes locales, en Leyes Federales o Especiales, en materia de competencia concurrente, deba interpretarse y aplicarse siempre en el sentido de maximizar los derechos de los adolescentes y de restringir los efectos negativos de su sujeción a un Sistema, que en esencia, tiene un carácter aflictivo;
 
 Para determinar el interés superior en una situación concreta se deberá valorar:
 
@@ -149,11 +169,19 @@ Los derechos y garantías reconocidos en esta Ley, se aplicarán a todos los ado
 
 Esta Ley debe aplicarse e interpretarse de conformidad con los principios rectores del Sistema, la Constitución Política de los. Estados Unidos Mexicanos, los Tratados Internacionales aplicables, las Leyes Federales aplicables, la Constitución Política del Estado de Hidalgo y la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes en el Estado de Hidalgo, siempre en el sentido de maximizar los derechos de los adolescentes y de minimizar los efectos negativos de la aplicación del Sistema.
 
-Sólo en lo no previsto por esta Ley, podrán aplicarse supletoriamente el Código Penal y el Código de Procedimientos Penales para el Estado de Hidalgo, siempre que no se opongan a los principios rectores, protegiendo la integridad de los derechos y garantías de los adolescentes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+Sólo en lo no previsto por esta Ley, podrán aplicarse supletoriamente el Código Penal y el Código de Procedimientos Penales para el Estado de Hidalgo, así como, en lo conducente lo contenido en Leyes Federales o Especiales, en materia de competencia concurrente, siempre que no se opongan a los principios rectores, protegiendo la integridad de los derechos y garantías de los adolescentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 6.
 
-Para todos los efectos de esta Ley, la edad a considerar será la que tenía la persona al momento de realizar la conducta tipificada como delito en las Leyes Locales; en caso de ser necesario, la edad se comprobará mediante el acta de nacimiento, expedida por el Registro del Estado Familiar o su equivalente en otras Entidades, de conformidad con lo previsto por el Código Civil correspondiente, o bien, tratándose de extranjeros, por documento debidamente apostillado. Cuando esto no sea posible, la comprobación se hará mediante dictamen médico rendido por los peritos que para tal efecto designe la Autoridad correspondiente.
+Para todos los efectos de esta Ley, la edad a considerar será la que tenía la persona al momento de realizar la conducta tipificada como delito en las Leyes Locales, en Leyes Federales o Especiales, en materia de competencia concurrente; en caso de ser necesario, la edad se comprobara mediante el acta de nacimiento, expedida por el Registro del Estado Familiar o su equivalente en otras Entidades, de conformidad con lo previsto por el Código Civil correspondiente, o bien, tratándose de extranjeros, por documento debidamente apostillado. Cuando esto no sea posible, la comprobación se hará mediante dictamen médico rendido por los peritos que para tal efecto designe la autoridad correspondiente.
 
 ###### Artículo 7.
 
@@ -313,13 +341,19 @@ XI.- Apelar el sobreseimiento.
 
 Los adolescentes podrán ser responsables por infringir la Ley Penal Estatal, en los casos y términos que se establecen en esta Ley.
 
-La niña o niño menor de 12 años de edad a quien se le atribuya una conducta tipificada como delito en las Leyes Locales, queda exento de toda responsabilidad penal, sin perjuicio de las responsabilidades civiles a las que haya lugar. Si los derechos de la persona menor de 12 años a quien se atribuye la comisión de un delito, se encuentran amenazados o vulnerados, la Autoridad competente deberá remitir el caso a las instituciones públicas o privadas responsables de la protección de los derechos del niño o de la niña.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+La niña o niño menor de 12 años de edad a quien se le atribuya una conducta tipificada como delito en las Leyes Locales, en Leyes Federales o Especiales, en materia de competencia concurrente, queda exento de toda responsabilidad penal, sin perjuicio de las responsabilidades civiles a las que haya lugar. Si los derechos de la persona menor de 12 años a quien se atribuye la comisión del un delito, se encuentran amenazados o vulnerados, la autoridad competente deberá remitir el caso a las instituciones públicas o privadas responsables de la protección de los derechos del niño o de la niña.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 14.
 
-Los adolescentes que al momento de realizar el hecho tipificado como delito en la Ley Estatal, padezcan de algún trastorno mental que les impida comprender la trascendencia y las consecuencias de la conducta realizada, quedan exentos de responsabilidad en los términos de la presente Ley. En estos casos, o bien cuando el trastorno se presente durante el procedimiento o en la fase de ejecución, la Autoridad Judicial competente podrá entregar estas personas a quienes legalmente corresponda hacerse cargo de ellas.
-
-El Juez de Adolescentes, en su caso, resolverá sobre la adecuación de la medida, en forma provisional o definitiva, considerando las características del trastorno, así como las necesidades del tratamiento.
+Los adolescentes que al momento de realizar el hecho tipificado como delito en la Ley Estatal, en Leyes, Federales o Especiales, en materia de competencia concurrente, padezcan de algún trastorno mental que les impida comprender la trascendencia y las consecuencias de la conducta realizada quedan exentos de responsabilidad en los términos de la presente Ley. En estos casos, o bien cuando el trastorno se presente durante el procedimiento o en la fase de ejecución, la autoridad judicial competente podrá entregar estas personas a quienes legalmente corresponda hacerse cargo de ellas.
 
 ###### Artículo 15.
 
@@ -373,9 +407,13 @@ La violación de derechos y garantías procesales de los adolescentes es causa d
 
 ### CAPITULO II. POLITICA ESTATAL Y MUNICIPAL
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 23.
 
-Los Agentes de las Policías Estatales y Municipales que en el ejercicio de sus funciones tengan contacto con niños, niñas o adolescentes presuntamente involucrados en conductas tipificadas como delitos en las Leyes Locales, deberán ejercer sus funciones conforme a los siguientes debates y atribuciones:
+Los Agentes de las Policías Estatales y Municipales, que en el ejercicio de sus funciones tengan contacto con niños, niñas o adolescentes, presuntamente involucrados en conductas tipificadas como delito en las Leyes Locales, en Leyes Federales o Especiales, en materia de competencia concurrente, deberán ejercer sus funciones conforme a los siguientes deberes y atribuciones:
 
 I.- Apegarse a los principios, derechos y garantías previstos en la Constitución, en los Tratados Internacionales aplicables en la materia, en la Constitución Estatal, en la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes y la correlativa en el Estado;
 
@@ -473,9 +511,13 @@ II.- El Adolescente o adulto joven y su defensor.
 
 La víctima u ofendido, o su representante legal tendrán el carácter de coadyuvante del Ministerio Público a partir de la puesta a disposición, Asimismo, podrán nombrar a persona con cédula profesional de licenciado en derecho, para que se constituya en su asesor jurídico.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 28.
 
-El proceso para adolescentes tiene como objetivo establecer la existencia jurídica de una conducta tipificada como delito por las Leyes Locales, determinar quién es su autor o partícipe, el grado de responsabilidad y en su caso, determinar la aplicación de las medidas que correspondan conforme a esta Ley.
+El proceso para adolescentes tiene como objetivo establecer la existencia jurídica de una conducta tipificada como delito por las Leyes Locales, en Leyes Federales o Especiales, en materia de competencia concurrente, determinar quién es su autor o partícipe, el grado de responsabilidad y en su caso, determinar la aplicación de las medidas que correspondan conforme a esta Ley.
 
 La detención provisional e internamiento de adolescentes deberá evitarse y limitarse a circunstancias excepcionales, debiéndose aplicar medidas cautelares y definitivas menos gravosas siempre que sea posible. Las medidas restrictivas de la libertad serán aplicadas por el menor tiempo posible.
 
@@ -553,13 +595,21 @@ Si las reglas establecidas en los Articulas precedentes son estrictamente observ
 
 ### CAPITULO II. INVESTIGACION Y PUESTA A DISPOSICION
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 41.
 
-la investigación de las conductas tipificadas como delito por las Leyes Locales atribuidas a adolescentes, corresponde al Ministerio Público para Adolescentes, quien la iniciará de oficio o a petición de parte a partir de la denuncia que de manera verbal o escrita se le formule,
+La investigación de las conductas tipificadas como delito por las Leyes Locales, en Leyes Federales o Especiales, en materia de competencia concurrente, atribuidas a adolescentes, corresponde al Ministerio Público para Adolescentes, quien la iniciará de oficio o a petición de parte a partir de la denuncia que de manera verbal o escrita se le formule.
 
 Los requisitos de procedibilidad para determinar la calificación de la atribución de la conducta de los adolescentes, serán los previstos por las Leyes aplicables.
 
-En los casos de conductas tipificadas como delito en las Leyes. Locales que se persiguen sólo por querella, el Ministerio Público para Adolescentes, estará obligado a promover el acuerdo conciliatorio, en los terminas de esta Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+En los casos de conductas tipificadas como delito en las leyes Locales, en Leyes, Federales, o Especiales en materia de competencia concurrente, que se persiguen sólo por querella, el Ministerio Público para Adolescentes, estará obligado a promover el acuerdo conciliatorio, en los términos de esta Ley.
 
 ###### Artículo 42.
 
@@ -575,7 +625,11 @@ Una vez reunido lo anterior, en caso de resultar procedente, formulará la Puest
 
 Por conducta o hecho atribuible se entiende el conjunto de los elementos subjetivos, los objetivos que constituyen la materialidad del hecho que la Ley señala como delito, así como los normativos, en el caso de que la descripción típica lo requiera.
 
-La probable responsabilidad del adolescente se tendrá por acreditada cuando, de los medios probatorios existentes, se deduzca su participación en la conducta considerada como delito por las Leyes Locales, la comisión dolosa o culposa del mismo y que no exista acreditada a favor del adolescente alguna causa de licitud o alguna excluyente de culpabilidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+La probable responsabilidad del adolescente se tendrá por acreditada cuando, de los medios probatorios existentes, se deduzca su participación en la conducta considerada como delito por las Leyes Locales, en Leyes Federales o Especiales, en materia de competencia concurrente, la comisión dolosa o culposa del mismo y que no exista acreditada a favor del adolescente alguna causa de licitud o alguna excluyente de culpabilidad.
 
 La conducta o hecho atribuible de que se trate y la probable responsabilidad se acreditarán por cualquier medio probatorio que señale la Ley.
 
@@ -1019,9 +1073,13 @@ No se podrá invocar, dar lectura, ni incorporar como medio de prueba ningún an
 
 #### SECCION II. SUSPENSION DEL PROCEDIMIENTO O PROCESO A PRUEBA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 87.
 
-Procederá la suspensión condicional del proceso a prueba a solicitud del Ministerio Público para Adolescentes, en los casos en los que la conducta tipificada como delito en las Leyes Locales, esté sancionada con privación de libertad, excepto los establecidos como graves y siempre que el adolescente no se encuentre gozando de este beneficio en proceso diverso.
+Procederá la suspensión condicional del proceso a prueba a solicitud del Ministerio Público para Adolescentes, en los casos en los que la conducta tipificada como delito en las Leyes Locales, en Leyes Federales o Especiales, en materia de competencia concurrente, esté sancionada con privación de libertad, excepto los establecidos como graves y siempre que el adolescente no se encuentre gozando de este beneficio en proceso diverso.
 
 La suspensión del procedimiento o proceso podrá solicitarse en cualquier momento, desde que el adolescente es puesto a disposición del Ministerio Público para Adolescentes y hasta antes de la audiencia de juicio y no impedirá el ejercicio de la acción civil ante los Tribunales respectivos. Si aún no existe puesta a disposición, se estará a una descripción sucinta de los hechos que haga el Ministerio Público para Adolescentes, quien resolverá.
 
@@ -1117,9 +1175,13 @@ Las medidas de orientación y protección se aplicarán bajo el seguimiento de l
 
 #### SECCION I. APERCIBIMIENTO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 97.
 
-El apercibimiento es la llamada de atención enérgica que el Juez de Adolescentes hace al adolescente, en forma oral, clara y directa, en un único acto, para hacerle comprender la gravedad de la conducta realizada y las consecuencias que la misma ha tenido o pudo haber tenido, tanto para la victima o el ofendido, como para el propio adolescente, instándolo a cambiar su comportamiento, a no reincidir y conminándolo a aprovechar la oportunidad que se le da al imponérsele esta medida, que es la más benévola entre las que considera esta Ley. La finalidad de esta medida es la de conminar al adolescente para que evite la futura realización de conductas tipificadas como delitos en las Leyes Locales así como advertirle que, en el caso de reincidir en su conducta, se le aplicará una medida más severa.
+El apercibimiento es la llamada de atención enérgica que el Juez de Adolescentes hace al adolescente, en forma oral, clara y directa, en un único acto, para hacerle comprender la gravedad de la conducta realizada y las consecuencias que la misma ha tenido o pudo haber tenido; tanto para la víctima o el ofendido, como para el propio adolescente, instándolo a cambiar su comportamiento, a no reincidir y conminándolo a aprovechar la oportunidad que se le da al imponérsele esta medida; que es la más benévola entre las que considera esta Ley. La finalidad de esta medida es la de conminar al adolescente para que evite la futura realización de conductas tipificadas como delitos en las Leyes Locales, en Leyes Federales, o Especiales en materia de competencia concurrente, así como advertirle que, en el caso de reincidir en su conducta, se le aplicará una medida más severa.
 
 ###### Artículo 98.
 
@@ -1992,3 +2054,9 @@ P.O. 15 DE JUNIO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente Decreto, una vez realizada su Publicación en el Periódico Oficial del Estado, entrará en vigor el día 20 de agosto del año 2010.
+
+SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
