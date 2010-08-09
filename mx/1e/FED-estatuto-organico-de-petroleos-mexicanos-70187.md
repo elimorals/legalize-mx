@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-petroleos-mexicanos-70187"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-09-24"
-last_updated: "2009-09-24"
+last_updated: "2010-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70187&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-24"
 
 ESTATUTO ORGANICO DE PETROLEOS MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE AGOSTO DE 2010.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 24 de septiembre de 2009.
 
@@ -53,9 +53,21 @@ III.- Estatuto: El presente ordenamiento, aprobado y, en su caso, reformado, por
 
 IV.- Ley: La Ley de Petróleos Mexicanos, publicada en el Diario Oficial de la Federación el 28 de noviembre de 2008 y, en su caso, sus reformas y adiciones;
 
-V.- Organismos Subsidiarios: Los organismos descentralizados subsidiarios de PEMEX, creados por decreto del titular del Ejecutivo Federal, así como los que fueron creados por la Ley Orgánica de Petróleos Mexicanos y Organismos Subsidiarios, con fines productivos, de carácter técnico, industrial y comercial, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VI.- PEMEX: Petróleos Mexicanos, organismo descentralizado creado por decreto publicado el 7 de junio de 1938.
+V.- Organismos Subsidiarios: Los organismos descentralizados subsidiarios de PEMEX, creados por decreto del titular del Ejecutivo Federal, así como los que fueron creados por la Ley Orgánica de Petróleos Mexicanos y Organismos Subsidiarios, con fines productivos de carácter técnico, industrial y comercial;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VI.- PEMEX: Petróleos Mexicanos, organismo descentralizado creado por decreto publicado el 7 de junio de 1938;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VII.- Plan de Negocios: Aquél a que se refieren los artículos 19, fracción III, 24, 26, fracción I, 31, fracción III, octavo transitorio, último párrafo, noveno transitorio, penúltimo párrafo y décimo tercero transitorio de la Ley, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VIII.- Tecnología de Información: Incluye los términos de tecnologías de información; comunicaciones; sistemas de información geográfica y automatización industrial, referidos a la infraestructura de hardware y software, aplicaciones, sistemas y servicios, de aplicación en PEMEX y Organismos Subsidiarios. Lo anterior con excepción de aquellos elementos especializados que son de aplicación única en un Organismo Subsidiario.
 
 ## TITULO SEGUNDO. DEL CONSEJO DE ADMINISTRACION DE PETROLEOS MEXICANOS
 
@@ -293,9 +305,11 @@ En el ejercicio de sus atribuciones y en el desempeño de sus funciones, el Dire
 
 #### Sección Primera. De los Directores Corporativos y del Abogado General
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 26.
 
-Cada uno de los directores corporativos y el Abogado General tendrán, en el ámbito de sus respectivas unidades, las funciones siguientes:
+Cada uno de los directores corporativos y el Abogado General tendrán, en el ámbito de sus respectivas unidades, de acuerdo con la normativa aplicable, las funciones siguientes:
 
 I. Designar de conformidad con los lineamientos emitidos por el Consejo de Administración y con el acuerdo del Director General, a los gerentes corporativos de su adscripción;
 
@@ -303,7 +317,9 @@ II. Planear, programar, dirigir y evaluar el buen funcionamiento y la resolució
 
 III. Aprobar e integrar las propuestas de programa operativo anual y de presupuesto de su área, así como de las unidades administrativas adscritas a ésta;
 
-IV. Expedir la normatividad, técnica y de cualquier otra naturaleza, en el ámbito de sus funciones;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IV. Expedir la normatividad interna, técnica o administrativa, de aplicación obligatoria para PEMEX y, en su caso, a los Organismos Subsidiarios; supervisar y valorar su aplicación, según corresponda, así como realizar sus modificaciones y, en su caso, dejarla sin efectos, cuando ello no implique la intervención de autoridades diversas;
 
 V. Suscribir convenios y contratos y, en su caso, iniciar, notificar y sustanciar el procedimiento de rescisión, terminación anticipada o suspensión de los mismos, conforme a lo previsto en la Ley y, cuando sea aplicable, en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y demás disposiciones legales y reglamentarias;
 
@@ -315,15 +331,51 @@ VIII. Ejercer los derechos corporativos en las empresas en las que PEMEX partici
 
 IX. Representar legalmente a PEMEX, en los asuntos relacionados con su dirección, así como en aquellos que le asigne o delegue expresamente el Director General, para lo cual contará con las facultades para pleitos y cobranzas, actos de administración y de dominio, previstas en el segundo párrafo del artículo 5o. de la Ley;
 
-X. Asignar y delegar asuntos a los servidores públicos inferiores inmediatos de su dirección, en el ámbito de las respectivas funciones de estos últimos, salvo las previstas en el presente artículo;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Delegar funciones mediante acuerdo, así como encomendar asuntos e instruir la realización de actividades específicas a los servidores públicos de los dos niveles inmediatos inferiores conforme a este Estatuto, en el ámbito de las respectivas funciones de estos últimos;
 
 XI. Elaborar y suscribir los documentos que contengan la información que corresponda a su ámbito de actuación que se someterá a la consideración del Consejo de Administración, por conducto del Director General, así como atender los requerimientos de información de dicho órgano de gobierno y sus comités, formulados por conducto del Director General;
 
 XII. Suscribir, en el ámbito de su competencia, el informe anual de PEMEX y organismos subsidiarios a que se refiere el artículo 70 de la Ley;
 
-XIII. Propiciar un ambiente laboral sano, armónico y de cooperación entre el personal a su cargo, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-XIV. Las demás señaladas en otros artículos del presente Estatuto, por el Director General, por el Consejo de Administración, por los manuales, así como por los ordenamientos aplicables.
+XIII. Propiciar un ambiente laboral sano, armónico y de cooperación entre el personal a su cargo;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XIV. Diseñar, aplicar y evaluar los mecanismos que resulten necesarios respecto de la conducción central y dirección estratégica de PEMEX y Organismos Subsidiarios, de acuerdo con lo establecido en las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XV. Participar en los procedimientos de selección y evaluación del desempeño de los subdirectores y, en su caso, gerentes de PEMEX y Organismos Subsidiarios, con base en las políticas y lineamientos de recursos humanos de PEMEX y Organismos Subsidiarios, aprobadas por el Consejo de Administración;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XVI. Representar, designar enlaces o fungir como enlace de PEMEX y Organismos Subsidiarios, ante cualquier institución pública o privada, nacional, extranjera o internacional.
+
+Tratándose de la representación de los Organismos Subsidiarios se requerirá la opinión previa de su director general o de quien éste indique;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XVII. Coordinar o establecer mecanismos de coordinación o colaboración para las diversas áreas de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XVIII. Solicitar a las diversas áreas de PEMEX y Organismos Subsidiarios información sobre resultados, valorarlos y definir medidas de mejora, así como diseñar e instrumentar mecanismos de rendición de cuentas y evaluación del desempeño para las diversas áreas de PEMEX y Organismos Subsidiarios, así como definir medidas de mejora, con independencia de lo que corresponda al Consejo de Administración y sus comités;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XIX. Resolver los asuntos que las disposiciones aplicables atribuyan a PEMEX, siempre y cuando no formen parte de las facultades indelegables del Consejo de Administración, sus comités o el Director General, y no sean de la competencia de los Organismos Subsidiarios, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XX. Las demás señaladas en otros artículos del presente Estatuto, por el Consejo de Administración, por el Director General, por los manuales, así como por los ordenamientos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Las funciones a que se refieren las fracciones I a XIII y XX del presente artículo, son indelegables.
 
 ###### Artículo 27.
 
@@ -459,11 +511,25 @@ c) Subdirección de Servicios de Salud
 
 d) Subdirección de Servicios Corporativos
 
-1. Gerencia de Recursos Materiales y Servicios Generales
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-2. Gerencia de Ingeniería de Telecomunicaciones
+1. Gerencia de Abastecimiento de Bienes y Servicios
 
-3. Gerencia de Sistemas Administrativos
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+2. (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+3. (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+4. Gerencia de Servicios Generales
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+5. Gerencia de Servicios Aduanales
 
 e) Subdirección de Administración Patrimonial
 
@@ -483,6 +549,10 @@ III.- Dirección Corporativa de Finanzas
 
 4. Gerencia Jurídica de Finanzas
 
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+5. Gerencia de Finanzas de Carbono
+
 a) Subdirección de Programación y Presupuestación
 
 1. Gerencia de Control Presupuestario
@@ -490,6 +560,10 @@ a) Subdirección de Programación y Presupuestación
 2. Gerencia de Planeación y Programación Financiera
 
 3. Gerencia de Presupuestación
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+4. Gerencia de Normatividad, Evaluación, Control y Enlace de Programación y Presupuestación
 
 b) Subdirección de Planeación Económica
 
@@ -499,15 +573,27 @@ b) Subdirección de Planeación Económica
 
 3. Gerencia de Integración de Información Institucional
 
-c) Subdirección de Sistemas de Información Financiera
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+4. Gerencia de Filiales
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+c) Subdirección de Contabilidad Fiscal y Control Financiero
 
 1. Gerencia de Contabilidad
 
 2. Gerencia Fiscal
 
-3. Gerencia de Filiales
+3. (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-4. Gerencia de Soporte y Operación Financiera
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+4. Gerencia de Control Financiero
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+5. Gerencia de Normatividad, Evaluación, Control y Enlace Contable y Fiscal
 
 d) Subdirección de Financiamientos y Tesorería
 
@@ -521,53 +607,45 @@ e) Subdirección de Administración de Riesgos
 
 2. Gerencia de Riesgos y Seguros
 
-IV.- Dirección Corporativa de Ingeniería y Desarrollo de Proyectos
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+III. A.- Dirección Corporativa de Tecnología de Información y Procesos de Negocio
 
 1. Gerencia de Control de Gestión
 
-2. Gerencia de Normalización de Contratos de Obra Pública
+a) Subdirección de Planeación e Inteligencia de Negocio
 
-a) Subdirección de Planeación y Desarrollo de Proyectos
+1. Gerencia de Planeación y Administración de Proyectos
 
-1. Gerencia de Desarrollo de Proyectos
+2. Gerencia de Innovación y Arquitectura Tecnológica
 
-2. Gerencia de Planeación
+3. Gerencia de Procura y Activos
 
-3. Gerencia de Control de Proyectos
+4. Gerencia de Inteligencia de Negocio
 
-4. Gerencia de Desarrollo de Procesos
+b) Subdirección de Infraestructura Tecnológica
 
-5. Gerencia de Administración
+1. Gerencia de Servicios a Usuarios Finales
 
-b) Subdirección de Operaciones de Proyectos
+2. Gerencia de Operación
 
-1. Gerencia de Calidad, Seguridad Industrial y Protección Ambiental
+3. Gerencia de Conectividad
 
-2. Gerencia de Ingeniería Especializada
+4. Gerencia de Administración de Infraestructura
 
-3. Gerencia de Concursos y Contratos
+c) Subdirección de Integración de Soluciones y Procesos de Negocio
 
-4. Gerencia de Servicios Técnicos
+1. Gerencia de Desarrollo
 
-5. Gerencia de Normatividad Técnica
+2. Gerencia de Procesos de Negocio
 
-6. Gerencia de Estimación de Proyectos
+3. Gerencia Centro de Competencia
 
-c) Subdirección de Proyectos Industriales
+4. Gerencia de Automatización Industrial
 
-1. Gerencia de Proyectos "A"
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-2. Gerencia de Proyectos "B"
-
-3. Gerencia de Proyectos "C"
-
-4. Gerencia de Proyectos "D"
-
-5. Gerencia de Proyectos "E"
-
-6. Gerencia de Proyectos "F"
-
-d) Subdirección de Proyectos Especiales
+IV. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
 V.- Dirección Corporativa de Operaciones
 
@@ -575,9 +653,13 @@ V.- Dirección Corporativa de Operaciones
 
 2. Gerencia de Control de Gestión
 
-a) Unidad de Desarrollo de Proveedores y Contenido Nacional (1)
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-(1) Tendrá el nivel de subdirección y sin estructura.
+a) Unidad de Desarrollo de Proveedores, Contratistas y Contenido Nacional
+
+1. Gerencia de Análisis y Selección de Proveedores y Contratistas
+
+2. Gerencia de Desarrollo de Proveedores y Contratistas
 
 b) Subdirección de Planeación Estratégica y Operativa
 
@@ -586,6 +668,10 @@ b) Subdirección de Planeación Estratégica y Operativa
 2. Gerencia de Análisis de Inversiones
 
 3. Gerencia de Análisis y Programación de Operaciones
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+4. Gerencia de Desarrollo Sustentable y Ambiental
 
 c) Subdirección de Operación y Ejecución de la Estrategia
 
@@ -605,13 +691,9 @@ d) Subdirección de Disciplina Operativa, Seguridad, Salud y Protección Ambient
 
 4. Gerencia de Protección Ambiental
 
-e) Subdirección de Procesos de Negocio e Infraestructura Tecnológica
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-1. Gerencia de Procesos de Negocio
-
-2. Gerencia del Centro de Competencia de Sistemas de Información Empresarial
-
-3. Gerencia de Innovación e Infraestructura Tecnológica
+e) (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
 f) Subdirección de Suministros
 
@@ -627,6 +709,10 @@ g) Subdirección de Coordinación del Sistema de Transporte por Ducto
 
 2. Gerencia de Confiabilidad Operativa de Ductos
 
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+3. Gerencia de Coordinación Estratégica para el Aseguramiento de Balances
+
 h) Subdirección de Coordinación de Mantenimiento
 
 1. Gerencia de Optimización del Desempeño en Mantenimiento
@@ -634,6 +720,14 @@ h) Subdirección de Coordinación de Mantenimiento
 2. Gerencia de Planeación y Sistematización
 
 3. Gerencia de Evaluación y Seguimiento
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+i) Subdirección de Desarrollo de Proyectos
+
+1. Gerencia de Administración y Control de Proyectos
+
+2. Gerencia de Planeación y Desarrollo de Proyectos
 
 VI.- Oficina del Abogado General
 
@@ -671,7 +765,9 @@ PEMEX contará con un Organo Interno de Control que se regirá conforme a lo dis
 
 La Dirección Corporativa de Administración tendrá las funciones siguientes:
 
-I. Coordinar los planes, programas y acciones que en materia administrativa y en el ámbito de su competencia le instruya el Director General, e instancias externas;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+I. Coordinar los planes, programas y acciones que en materia administrativa y en el ámbito de su competencia le instruya el Director General; así como los que deriven de requerimientos formulados por instancias externas;
 
 II. Ejercer la representación patronal de PEMEX y organismos subsidiarios ante autoridades federales y estatales competentes y la representación sindical de conformidad con lo dispuesto en el Contrato Colectivo de Trabajo y las disposiciones normativas establecidas en PEMEX y organismos subsidiarios;
 
@@ -709,7 +805,7 @@ XVIII. Coordinar la instrumentación de las autorizaciones y de la verificación
 
 XIX. Dirigir la ejecución de programas gubernamentales en materia de transparencia, rendición de cuentas, acceso a la información, firma electrónica y demás aplicables;
 
-XX. Planear y dirigir el desarrollo y la prestación de servicios de telecomunicaciones, de PEMEX y de los organismos subsidiarios;
+XX. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
 XXI. Dirigir y garantizar la prestación de los servicios aduanales para PEMEX y organismos subsidiarios;
 
@@ -881,7 +977,9 @@ II. Definir las metodologías para el diagnóstico y diseño de estructuras org�
 
 III. Integrar, gestionar y controlar el sistema de registro de estructuras orgánico-ocupacionales ante las dependencias globalizadoras del Gobierno Federal;
 
-IV. Diseñar y controlar el sistema de consolidación de información en materia de contratación de servicios profesionales bajo el régimen de honorarios en PEMEX y organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IV. Controlar y consolidar la contratación de servicios profesionales bajo el régimen de honorarios en PEMEX y Organismos Subsidiarios;
 
 V. Diseñar y optimizar el sistema institucional de remuneraciones y coordinar su implantación y mantenimiento;
 
@@ -911,7 +1009,9 @@ I. Proponer, difundir y asesorar en la aplicación de normatividad y metodologí
 
 II. Diseñar los mecanismos para administrar la bolsa de trabajo institucional;
 
-III. Diseñar el proceso y las soluciones para realizar el reclutamiento y selección del personal conforme a los requerimientos institucionales;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+III. Diseñar el proceso y metodologías para realizar el reclutamiento y selección del personal conforme a los requerimientos institucionales;
 
 IV. Diseñar los programas individuales de aprendizaje, así como establecer los mecanismos para la detección de las necesidades de capacitación;
 
@@ -931,11 +1031,15 @@ La Gerencia de Mejora de Procesos tendrá las siguientes funciones:
 
 I. Coordinar el desarrollo de las estrategias y proyectos en materia de recursos humanos en PEMEX y los organismos subsidiarios;
 
-II. Definir la estrategia y coordinar con la Gerencia de Sistemas Administrativos las herramientas tecnológicas para soportar los procesos de recursos humanos;
+II. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-III. Coordinar y supervisar el desarrollo e implantación de soluciones integrales para homologar y estandarizar el proceso de recursos humanos;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-IV. Captar los diseños detallados de las gerencias funcionales y supervisar el diseño técnico/funcional y la implantación de los sistemas institucionales de información de recursos humanos;
+III. Coordinar requerimientos, implantar y operar soluciones integrales para homologar y estandarizar el proceso de recursos humanos, así como validar que la solución tecnológica proporcionada por las áreas de tecnologías de información cumplan con los requerimientos establecidos en dichos procesos;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IV. Captar los requerimientos detallados de las gerencias funcionales y supervisar el diseño técnico/funcional y la implantación de los sistemas institucionales de información de recursos humanos;
 
 V. Coordinar la ejecución de los procesos transaccionales de recursos humanos y los requerimientos y requisitos de servicios y prestaciones al personal, y
 
@@ -1055,7 +1159,9 @@ II. Participar en la elaboración y difusión de las disposiciones emitidas por 
 
 III. Diseñar e instrumentar los programas de promoción de la salud y reducción de factores de riesgo a enfermedades en el primer nivel de atención;
 
-IV. Promover en el primero, segundo y tercer niveles de atención médica la cultura de prevención, sistematizar la información y, en su caso, realizar los estudios epidemiológicos a grupos de riesgo;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IV. Promover en el primero, segundo y tercer niveles de atención médica la cultura de prevención, organizar la información y en su caso, realizar los estudios epidemiológicos a grupos de riesgo;
 
 V. Coordinar la realización de investigaciones epidemiológicas sobre los principales daños a la salud para diseñar estrategias, asignar recursos y establecer prioridades;
 
@@ -1085,15 +1191,19 @@ V. Dar seguimiento al ejercicio presupuestal de la Subdirección de Servicios de
 
 La Subdirección de Servicios Corporativos tendrá las funciones siguientes:
 
-I. Coordinar y supervisar el otorgamiento de los servicios corporativos de telecomunicaciones, información geográfica y aduanales en PEMEX y organismos subsidiarios y de tecnologías de la información en el ámbito de la Dirección Corporativa de Administración;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+I. Coordinar y supervisar el otorgamiento de los servicios corporativos aduanales en PEMEX y Organismos Subsidiarios y en su caso filiales;
 
 II. Coordinar y supervisar el otorgamiento de los recursos materiales y servicios generales a PEMEX;
 
-III. Proponer y administrar la estrategia y la cartera de proyectos de PEMEX y organismos subsidiarios en materia de telecomunicaciones;
+III. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-IV. Contratar, coordinar y supervisar la prestación de los servicios de transportación aérea operativa nacional e internacional para transporte de pasajeros, carga, vuelos excepcionales y de emergencia, que le sean solicitados;
+IV. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-V. Coordinar, supervisar y vigilar el proceso de adquisición y suministro de bienes, servicios y arrendamientos que sean materia de la competencia de la Dirección Corporativa de Administración;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+V. Coordinar, supervisar y vigilar el proceso de adquisición y suministro de bienes, y la contratación de obra pública, servicios y arrendamientos que sean materia de la competencia de la Dirección Corporativa de Administración;
 
 VI. Coordinar y supervisar la prestación de los servicios de apoyo, mantenimiento, conservación, seguridad y vigilancia de las instalaciones bajo la responsabilidad de la Dirección Corporativa de Administración;
 
@@ -1105,71 +1215,69 @@ IX. Proponer y aplicar la mecánica de cálculo de los precios por los servicios
 
 X. Coordinar y administrar las oficinas foráneas de representación aduanal para la prestación de los servicios aduanales.
 
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 55.
 
-La Gerencia de Recursos Materiales y Servicios Generales tendrá las funciones siguientes:
+La Gerencia de Abastecimiento de Bienes y Servicios tendrá las funciones siguientes:
 
-I. Coordinar y ejecutar los procesos de adquisiciones, arrendamientos, servicios y obra pública de PEMEX;
+I. Coordinar y ejecutar los procesos de adquisiciones, arrendamientos, servicios y obra pública de PEMEX y centros de trabajo foráneos;
 
-II. Coordinar, supervisar y controlar la ejecución de medidas que permitan optimizar la conservación, mantenimiento y administración de los espacios y servicios generales de los inmuebles bajo la responsabilidad de la Dirección Corporativa de Administración;
+II. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-III. Coordinar el funcionamiento de las unidades administrativas regionales de enlace administrativo que presten servicio a las áreas de PEMEX en los centros de trabajo foráneos, y
+III. Coordinar el funcionamiento de las unidades administrativas regionales de enlace administrativo que presten servicio a las áreas de PEMEX en los centros de trabajo foráneos;
 
-IV. Promover las acciones necesarias para mantener en óptimas condiciones de funcionamiento los sistemas primarios y contra incendio, bajo la responsabilidad de la Dirección Corporativa de Administración.
+IV. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
+
+V. Administrar la operación del sistema transaccional que soporta los subprocesos de abastecimiento, administración de almacenes y el registro de compromisos de servicio;
+
+VI. Coordinar los comités de Adquisiciones, Arrendamientos y Servicios, y de Obra Pública, así como los demás subcomités y grupos de trabajo que se deriven, y dar seguimiento a los acuerdos y dictámenes que emanen de los mismos, y
+
+VII. Consolidar y coordinar la integración de los programas de adquisiciones, obras y servicios de PEMEX.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 56.
 
-La Gerencia de Ingeniería de Telecomunicaciones tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Elaborar y proponer los planes estratégicos de telecomunicaciones, así como promover la prestación de los servicios y su actualización tecnológica evaluando los sistemas vigentes para PEMEX y organismos subsidiarios;
-
-II. Desarrollar soluciones tecnológicas integrales de telecomunicaciones en PEMEX y organismos subsidiarios para la captación, integración, transporte, procesamiento, almacenamiento y presentación de la información, estableciendo sistemas de vigilancia y seguridad;
-
-III. Proporcionar soluciones integrales de telecomunicaciones y soluciones tecnológicas para la automatización y control de procesos de PEMEX y organismos subsidiarios y en su caso filiales;
-
-IV. Evaluar y administrar la cartera de proyectos de telecomunicaciones de PEMEX y organismos subsidiarios;
-
-V. Dictaminar sobre la procedencia de las soluciones de telecomunicaciones cuando éstas sean realizadas por un tercero;
-
-VI. Atender las solicitudes y los requerimientos de servicios de telecomunicaciones de extremo a extremo en materia de: radiocomunicación, transporte de señales, telefonía, comunicación unificada, videoconferencia, intercomunicación y voceo, redes de acceso y valor agregado, transmisión de datos, acceso a Internet e Intranet de PEMEX, redes de área amplia, redes de área local, cableado estructurado y nuevas aplicaciones en la administración de redes, que realicen PEMEX y los organismos subsidiarios y en su caso filiales;
-
-VII. Desarrollar, administrar, operar, mantener y monitorear los sistemas e infraestructura de telecomunicaciones, que demandan los usuarios de PEMEX y organismos subsidiarios;
-
-VIII. Identificar, controlar, disminuir o eliminar los riesgos de seguridad en las redes, sistemas y servicios de telecomunicaciones, que soportan los procesos de negocio de PEMEX y organismos subsidiarios;
-
-IX. Representar a PEMEX y a los organismos subsidiarios, con base en los poderes que éstos otorguen para tal efecto, así como realizar trámites de permiso o autorizaciones, ante instancias externas para asuntos relacionados con las telecomunicaciones, administración y gestión de espectro radioeléctrico para PEMEX y organismos subsidiarios, y
-
-X. Establecer planes de contingencia y apoyar a los organismos subsidiarios con servicios de telecomunicaciones en situaciones de emergencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 57.
 
-La Gerencia de Sistemas Administrativos tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Participar en la definición de la estrategia de la Dirección Corporativa de Administración para alinear los objetivos de las tecnologías de Información (TI) a los de la Dirección Corporativa de Administración;
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-II. Formular las iniciativas para la definición de Tecnologías de Información y Sistemas en la Dirección Corporativa de Administración acorde a la estrategia institucional en la materia, así como su difusión una vez aprobado por la superioridad;
+Artículo 57 A.- La Gerencia de Servicios Generales tendrá las funciones siguientes:
 
-III. Formular y proponer el plan financiero de Tecnologías de Información de la Dirección Corporativa de Administración y establecer lineamientos para distribuir el presupuesto en el rubro autorizado;
+I. Coordinar, supervisar y controlar la ejecución de medidas que permitan optimizar la conservación, mantenimiento y administración de los espacios y servicios generales de los inmuebles bajo la responsabilidad de la Dirección Corporativa de Administración;
 
-IV. Establecer los criterios para la evaluación y selección de las tecnologías de Información que requieran las áreas de la Dirección Corporativa de Administración;
+II. Administrar los sistemas primarios, de seguridad, vigilancia y contra incendio a fin de garantizar la integridad de los usuarios en los inmuebles bajo la responsabilidad de la Dirección Corporativa de Administración;
 
-V. Autorizar la cartera de proyectos y los planes de Tecnologías de Información dentro de las áreas de la Dirección Corporativa de Administración;
+III. Supervisar el funcionamiento y operación de los inmuebles del centro administrativo de PEMEX a través de los programas de mantenimiento a las instalaciones;
 
-VI. Aprobar los requerimientos y necesidades de Tecnologías de Información dentro de las áreas de la Dirección Corporativa de Administración;
+IV. Administrar los servicios de transportación aérea, transporte de personal y carga seca, y demás servicios generales que correspondan de PEMEX;
 
-VII. Supervisar las inversiones de tecnologías de información en las áreas de la Dirección Corporativa de Administración;
+V. Coordinar la asignación, dotación de combustible y la administración del parque vehicular de PEMEX;
 
-VIII. Supervisar la definición del plan de recuperación en las áreas de la Dirección Corporativa de Administración a través de seleccionar los procesos de negocio y determinar los puntos y tiempos objetivo de recuperación (RPO y RTO);
+VI. Mantener en condiciones de seguridad e higiene las instalaciones del centro administrativo de PEMEX, y
 
-IX. Aprobar el sistema de administración de la Gerencia y evaluar su desempeño para identificar las brechas con respecto a los valores base (baseline);
+VII. Coordinar el traslado, estiba y almacenamiento, en su caso, de mobiliario, equipo improductivo, papelería y bienes de consumo de PEMEX.
 
-X. Supervisar el cumplimiento de mejores prácticas en la industria de Tecnologías de Información, así como la certificación de los procesos de la Gerencia;
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-XI. Autorizar el desarrollo de los planes y acciones necesarias en materia de recursos de Tecnologías de Información;
+Artículo 57 B.- La Gerencia de Servicios Aduanales tendrá las funciones siguientes:
 
-XII. Desarrollar los sistemas informáticos que requieran las áreas de la Dirección Corporativa de Administración, acorde a la estrategia institucional en la materia, y
+I. Administrar, supervisar y evaluar, los procesos inherentes al despacho aduanal de mercancías de importación o exportación en representación de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
 
-XIII. Proporcionar el soporte técnico informático que requieran las áreas de la Dirección Corporativa de Administración.
+II. Definir los métodos y procedimientos para llevar a cabo los despachos aduanales de los servicios de importación o exportación de mercancías otorgados a las áreas de PEMEX, Organismos Subsidiarios y en su caso filiales;
+
+III. Analizar y administrar la información que se deriva de los servicios de despacho aduanal;
+
+IV. Supervisar el cumplimiento de los programas en materia aduanal, y
+
+V. Fungir como responsable ante las autoridades aduanales en el desahogo de contingencias administrativas relacionadas con el despacho aduanal de las importaciones o exportaciones de mercancías, en coordinación con la Oficina del Abogado General y la Gerencia Fiscal.
 
 #### Sección Quinta. De la Subdirección de Administración Patrimonial
 
@@ -1267,69 +1375,121 @@ IX. Coadyuvar con los organismos subsidiarios en la identificación, difusión y
 
 La Dirección Corporativa de Finanzas tendrá las funciones siguientes:
 
-I. Realizar la planeación financiera de PEMEX;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-II. Elaborar los estudios en materia de sus funciones, con base en indicadores utilizados por la industria petrolera internacional, así como al entorno y perspectivas de los mercados financieros;
+I. Dirigir la planeación financiera y los procesos financieros y de programación - presupuestación en PEMEX y Organismos Subsidiarios;
 
-III. Elaborar, en estrecha coordinación con la Dirección Corporativa de Operaciones, el programa operativo y financiero anual de trabajo de PEMEX y organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-IV. Mantener estrecha coordinación con la Dirección Corporativa de Operaciones en la elaboración del Plan Estratégico Integral de Negocios;
+II. Dirigir el análisis del entorno y la perspectiva de los mercados financieros;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+III. Dirigir la integración de la información financiera del Programa Operativo y Financiero Anual de Trabajo de PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IV. Mantener coordinación con la Dirección Corporativa de Operaciones en la elaboración del Plan de Negocios de PEMEX y Organismos Subsidiarios;
 
 V. Apoyar y, en su caso, proponer a las autoridades competentes los mecanismos para determinar los precios de los bienes y servicios que se produzcan o se presten;
 
-VI. Dirigir a las unidades administrativas de PEMEX y de sus organismos subsidiarios para la elaboración del programa financiero anual de trabajo;
+VI. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-VII. Dirigir la elaboración del escenario indicativo de metas de balance financiero que comprendan periodos de cinco años;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VIII. Concertar y negociar con las unidades administrativas competentes los servicios financieros para la operación y el funcionamiento de PEMEX y organismos subsidiarios;
+VII. Dirigir la elaboración del escenario indicativo de metas de balance financiero que comprendan periodos de cinco años en PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VIII. Conducir las negociaciones, con organismos nacionales e internacionales, de los créditos y demás financiamientos, instrumentar la estrategia y el programa de financiamientos y supervisar su ejercicio, considerando las condiciones, rendimientos o pagos correspondientes;
 
 IX. Proponer, por conducto del Director General, al Consejo de Administración las metas económico-financieras de PEMEX y organismos subsidiarios;
 
 X. Planear y coordinar el desarrollo del programa financiero de PEMEX y organismos subsidiarios;
 
-XI. Proponer al Director General, con la participación de la Dirección Corporativa de Operaciones y la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, los lineamientos sobre los proyectos que se considerarán de gran magnitud y alta prioridad, el dictamen por un tercero experto independiente del análisis de factibilidad técnica, económica y ambiental y, en su caso, sobre el proyecto ejecutivo de obra para los proyectos de gran magnitud y alta prioridad, que deban someterse al Consejo de Administración;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-XII. Conducir la formulación del proyecto de presupuesto de PEMEX y organismos subsidiarios y, en su caso, las adecuaciones que resulten necesarias al presupuesto autorizado conforme a la normatividad aplicable;
+XI. Dirigir la jerarquización económica-financiera y presupuestal del portafolio y cartera de programas y proyectos de inversión, con base en la jerarquización realizada por PEMEX, Organismos Subsidiarios y, en su caso, filiales, y proponerla al Director General. Asimismo con la participación de la Dirección Corporativa de Operaciones, proponer los lineamientos de evaluación para los proyectos de inversión;
 
-XIII. Evaluar el ejercicio del presupuesto, así como el cumplimiento de las metas económico-financieras, sin perjuicio de lo que determine el Consejo de Administración;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-XIV. Opinar sobre la viabilidad, impacto económico y la adecuada instrumentación de futuros compromisos, en particular respecto a proyectos de inversión y nuevos negocios de PEMEX y organismos subsidiarios;
+XII. Conducir la formulación de las adecuaciones que resulten necesarias al presupuesto autorizado de PEMEX y Organismos Subsidiarios;
 
-XV. Consolidar y emitir los estados financieros de PEMEX y organismos subsidiarios, así como realizar el registro de las operaciones e instruir a las áreas de origen el registro de las operaciones en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XIII. Evaluar el ejercicio del presupuesto de PEMEX y Organismos Subsidiarios, así como el cumplimiento de las metas económico-financieras, sin perjuicio de lo que determine el Consejo de Administración;
+
+XIV. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XV. Dirigir la emisión de los estados financieros consolidados de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
 
 XVI. Dirigir la elaboración del estudio de precios interorganismos y proponerlo al Director General para su envío a la Secretaría de Hacienda y Crédito Público;
 
-XVII. Dirigir la implementación de controles sobre los recursos financieros y la evaluación de su efectividad así como la generación de información financiera para el control financiero interno;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-XVIII. Proponer al Director General, el programa de financiamientos, así como dirigir su desarrollo;
+XVII. Dirigir la implementación de controles sobre los recursos financieros y la valoración de su efectividad así como la generación de información financiera para el control financiero de PEMEX y Organismos Subsidiarios;
 
-XIX. Planear y negociar con organismos nacionales e internacionales las condiciones, rendimientos por inversión o, pagos por créditos derivados de operaciones comerciales;
+XVIII. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-XX. Dirigir las acciones necesarias para el cumplimiento de las obligaciones financieras, presupuestales y fiscales, y en su caso, para la instrumentación y seguimiento de las medidas correctivas aplicadas;
+XIX. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-XXI. Dirigir la integración del proyecto de presupuesto, así como la Cuenta Anual de PEMEX y organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XX. Dirigir las acciones necesarias para el cumplimiento de las obligaciones financieras, presupuestales y fiscales y, en su caso, para la instrumentación y seguimiento de las medidas correctivas a ser aplicadas en PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XXI. Dirigir la integración del proyecto de presupuesto, así como de la Cuenta de la Hacienda Pública Federal de PEMEX y Organismos Subsidiarios;
 
 XXII. Proponer al Director General los indicadores en materia de riesgos financieros para que PEMEX y organismos subsidiarios desarrollen estrategias de manejo de riesgo de las posiciones financieras y operativas;
 
-XXIII. Difundir, en coordinación con la Gerencia de Comunicación Social, la integración y difusión de información institucional para uso interno y externo, incluyendo la que se formule para las autoridades, inversionistas, analistas y medios masivos de comunicación, así como la relativa al informe de avance de gestión financiera y la cuenta pública;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-XXIV. Dirigir la evaluación financiera y seguimiento de la información que las filiales deban entregar en términos de las disposiciones legales y administrativas aplicables y de lo previsto en sus estatutos sociales;
+XXIII. Difundir, en coordinación con la Gerencia de Comunicación Social, la integración y difusión de información institucional para uso interno y externo, particularmente, la que se formule para las autoridades, inversionistas, analistas y medios masivos de comunicación, así como la relativa al Informe Anual, Memoria de Labores, Informe de Avance de Gestión Financiera y la Cuenta de la Hacienda Pública Federal, entre otros;
 
-XXV. Dirigir la integración de los estados financieros de PEMEX, así como la formulación de los estados financieros consolidados;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XXIV. Dirigir la valoración y seguimiento de la información financiera que las filiales deban entregar en términos de las disposiciones legales y administrativas aplicables y de lo previsto en sus estatutos sociales respectivos;
+
+XXV. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
 XXVI. Proponer al Director General, para su envío a la Secretaría de Hacienda y Crédito Público, la propuesta de lineamientos respecto de las características del endeudamiento;
 
-XXVII. Proponer al Director General, con la colaboración de la Dirección Corporativa de Operaciones y la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, los lineamientos para la evaluación de los proyectos de inversión;
+XXVII. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-XXVIII. Negociar los términos y condiciones de las operaciones constitutivas de deuda pública de PEMEX e instrumentar su estrategia;
+XXVIII. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-XXIX. Asesorar, en colaboración con la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, acerca de los esquemas de financiamientos de obras públicas y operaciones, conforme señala la Ley;
+XXIX. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-XXX. Acreditar la instrumentación y el desarrollo de las alianzas y nuevos negocios en PEMEX y organismos subsidiarios, con la autorización que corresponda al Consejo de Administración;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-XXXI. Dirigir las acciones para asegurar la integridad financiera y patrimonial de PEMEX y organismos subsidiarios, de conformidad con las disposiciones legales y administrativas aplicables, y
+XXX. Participar en las decisiones sobre la viabilidad, impacto económico y la adecuada instrumentación de futuros compromisos, en particular respecto a proyectos de inversión y nuevos negocios de PEMEX y Organismos Subsidiarios, así como emitir las recomendaciones que considere necesarias;
 
-XXXII. Promover la correcta y oportuna programación, administración y ejercicio de los recursos financieros incluyendo el proceso de nómina y servicios asociados de los directivos superiores de PEMEX y organismos subsidiarios.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XXXI. Participar en la toma de decisiones y en aquellas acciones que en su consideración puedan afectar la posición financiera de PEMEX, Organismos Subsidiarios y, en su caso, filiales, así como emitir las recomendaciones que considere necesarias;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XXXII. Promover la correcta y oportuna programación, administración y ejercicio de los recursos financieros incluyendo el proceso de nómina y servicios asociados de los directivos superiores de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XXXIII. Dirigir la preparación de la información contable para establecer y mantener el registro de PEMEX y Organismos Subsidiarios ante las autoridades financieras nacionales e internacionales, así como para los requerimientos de información de las instancias fiscalizadoras correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XXXIV. Determinar las políticas internas en materia financiera de gestión de riesgos de mercado, de planeación financiera, programación - presupuestación, crediticia, contable y de control financiero de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XXXV. Dirigir y autorizar la estrategia financiera y la cartera de proyectos para la reducción de emisiones de gases de efecto invernadero de PEMEX y Organismos Subsidiarios, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XXXVI. Fomentar el uso de información financiera para la toma de decisiones en PEMEX y Organismos Subsidiarios.
 
 ###### Artículo 63.
 
@@ -1405,37 +1565,103 @@ VIII. Representar a PEMEX ante autoridades reguladoras, nacionales e internacion
 
 IX. Fungir como la unidad de enlace de la Dirección Corporativa de Finanzas para cualquier asunto relacionado con los temas del Consejo de Administración.
 
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 66 A.- La Gerencia de Finanzas de Carbono tendrá las funciones siguientes:
+
+I. Definir, de acuerdo con el Plan de Negocios, la cartera de proyectos de reducción de gases de efecto invernadero con potencial de comercialización de PEMEX y Organismos Subsidiarios;
+
+II. Implantar la estrategia de identificación y documentación de los proyectos de reducción de gases de efecto invernadero con potencial de comercialización de PEMEX y Organismos Subsidiarios;
+
+III. Elaborar y comunicar las reglas para la asignación, canalización, uso y seguimiento de los ingresos obtenidos de la comercialización de reducciones de emisiones de gases de efecto invernadero de PEMEX y Organismos Subsidiarios, así como de los recursos obtenidos de fuentes distintas a PEMEX;
+
+IV. Proponer a las instancias competentes los mecanismos de monetización de reducciones de emisiones de gases de efecto invernadero de PEMEX y Organismos Subsidiarios;
+
+V. Analizar, consolidar y supervisar el sistema de comercialización y monetización para la reducción de emisiones de gases de efecto invernadero en PEMEX y Organismos Subsidiarios, y
+
+VI. Evaluar el desempeño de la cartera de proyectos de reducción de gases de efecto invernadero con potencial de comercialización de PEMEX y Organismos Subsidiarios, en función de la estrategia del sistema de comercialización y monetización para la reducción de emisiones de gases de efecto invernadero.
+
 #### Sección Segunda. De la Subdirección de Programación y Presupuestación
 
 ###### Artículo 67.
 
 La Subdirección de Programación y Presupuestación tendrá las funciones siguientes:
 
-I. Coordinar la integración y consolidación de los programas de operación, presupuestales y de inversión de PEMEX y organismos subsidiarios, así como sus adecuaciones;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-II. Coadyuvar con la Dirección Corporativa de Finanzas en la Evaluación de los resultados de operación y el ejercicio presupuestal consolidado de PEMEX y organismos subsidiarios, sin perjuicio de lo que determine el Consejo de Administración;
+I. Coordinar la integración y consolidación de los proyectos de presupuestos de PEMEX y Organismos Subsidiarios, así como sus adecuaciones, para el Programa Operativo y Financiero Anual de Trabajo de PEMEX y Organismos Subsidiarios;
 
-III. Gestionar el registro de los proyectos de inversión de PEMEX y organismos subsidiarios, en la cartera que administra la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-IV. Coordinar la integración de la Cuenta Pública de PEMEX y organismos subsidiarios, así como de cualquier información financiera, presupuestaria y contable que, en términos de las disposiciones aplicables, deba presentarse al Congreso de la Unión;
+II. Evaluar la ejecución del presupuesto de ingresos y egresos de PEMEX y Organismos Subsidiarios, así como sus respectivas desviaciones e informarlo a las instancias competentes,
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+III. Gestionar el registro de los proyectos de inversión de PEMEX y Organismos Subsidiarios, en la cartera que administra la Secretaría de Hacienda y Crédito Público, y ser la ventanilla única para el registro en el sistema del proceso integral de programación y presupuesto de dicha Secretaría;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IV. Coordinar la integración de la Cuenta de la Hacienda Pública Federal de PEMEX y Organismos Subsidiarios, así como cualquier información relacionada con la misma que deba presentarse;
 
 V. Coordinar y evaluar la planeación financiera de corto, mediano y largo plazos de PEMEX y organismos subsidiarios;
 
-VI. Determinar los mecanismos institucionales de coordinación que aseguren la congruencia y optimización operativa de la inversión;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VI. Coordinar, analizar y valorar la elaboración de la propuesta de asignación de recursos presupuestarios de PEMEX y Organismos Subsidiarios, con base en la jerarquización de la cartera y los requerimientos de la misma;
 
 VII. Verificar el debido cumplimiento de los compromisos de PEMEX y organismos subsidiarios establecidos en el Presupuesto de Egresos de la Federación del ejercicio fiscal que corresponda, así como, evaluar su seguimiento;
 
 VIII. Verificar la integración y evaluación de escenarios de planeación financiera de PEMEX y organismos subsidiarios a través de estados de resultados y balances generales pro-forma y determinar los impactos en la estructura financiera de la industria;
 
-IX. Coordinar la integración del portafolio de programas y proyectos de inversión de PEMEX y organismos subsidiarios por estructura programática;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-X. Coordinar la carga de información de PEMEX y organismos subsidiarios en el sistema integral de información establecido para tal efecto por la Secretaría de Hacienda y Crédito Público, referente al presupuesto original, sus adecuaciones y ejercicio mensual;
+IX. Coordinar la integración de la cartera de programas y proyectos de inversión de PEMEX y Organismos Subsidiarios por estructura programática;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Supervisar que la información referente al presupuesto de PEMEX y Organismos Subsidiarios, así como sus adecuaciones y ejercicio mensual, se incorporen en el Sistema Integral de Información establecido por la Secretaría de Hacienda y Crédito Público;
 
 XI. Integrar la propuesta de escenario indicativo de metas de balance financiero que comprenda periodos de cinco años para su envío anual a la Secretaría de Hacienda y Crédito Público por conducto de la Secretaría de Energía;
 
-XII. Fungir como enlace con las autoridades fiscalizadoras en las revisiones que realicen a la información de la cuenta de hacienda pública federal y del informe de avance de gestión, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-XIII. Coordinar la formulación y seguimiento de indicadores de desempeño para los programas presupuestarios aprobados en el Presupuesto de Egresos de la Federación vigente.
+XII. Fungir como enlace con las autoridades fiscalizadoras en las revisiones que realicen a la información de la Cuenta de Hacienda Pública Federal y del informe de avance de gestión;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XIII. Determinar, en el ámbito de su competencia, los indicadores globales y específicos, para evaluar la eficiencia en la ejecución de los programas presupuestarios, en el gasto de operación y de inversión, entre otros, e informarlo a las instancias competentes;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XIV. Coordinar, consolidar y valorar la información requerida para la rendición de cuentas de PEMEX, a través de los convenios de desempeño;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XV. Comunicar a las unidades administrativas que les corresponda en PEMEX y Organismos Subsidiarios, la autorización del gasto de operación y de la inversión, mediante el oficio de liberación de inversiones;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XVI. Coordinar, organizar, dirigir, valorar y proponer mejoras al proceso de programación y presupuestación de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XVII. Coordinar y valorar la homologación de los sistemas de formulación y control presupuestario de los Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XVIII. Supervisar la gestión orientada al uso de información financiera para la toma de decisiones en PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XIX. Definir los mecanismos de coordinación y operación en PEMEX y en las áreas de programación, de presupuestación y de planeación financiera de los Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XX. Consolidar los proyectos de presupuestos y programas operativos financieros anuales de trabajo de PEMEX y Organismos Subsidiarios, así como gestionar su aprobación y, en su caso adecuaciones, ante las autoridades competentes, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XXI. Decidir sobre las solicitudes planteadas por PEMEX y los Organismos Subsidiarios, por conducto de la Gerencia de Normatividad, Evaluación, Control y Enlace de Programación y Presupuestación, sobre el proceso de la planeación financiera, programación y presupuesto, así como la instrumentación, el control y seguimiento del ejercicio presupuestario correspondiente.
 
 ###### Artículo 68.
 
@@ -1445,57 +1671,153 @@ I. Integrar, consolidar y evaluar el ejercicio del presupuesto mensual en flujo 
 
 II. Supervisar el cumplimiento del superávit primario y balance financiero institucional;
 
-III. Integrar, consolidar, evaluar y administrar el programa mensual en flujo de efectivo de PEMEX y organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-IV. Integrar, consolidar y evaluar la cuenta de la hacienda pública de PEMEX y organismos subsidiarios, así como el informe de avance de la gestión financiera de PEMEX y organismos subsidiarios;
+III. Evaluar y administrar el programa mensual de egresos de PEMEX y Organismos Subsidiarios;
 
-V. Coordinar las revisiones que realicen las autoridades fiscalizadoras a la información de la cuenta de la hacienda pública federal y del informe de avance de gestión y dar seguimiento a las observaciones y recomendaciones que en su caso se formulen en el ámbito institucional;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VI. Analizar y conciliar el saldo de caja de PEMEX y organismos subsidiarios, contra lo reportado en los estados financieros consolidados, y
+IV. Integrar, consolidar y valorar la Cuenta de la Hacienda Pública Federal de PEMEX y Organismos Subsidiarios, así como el informe de avance de la gestión financiera de PEMEX y Organismos Subsidiarios;
 
-VII. Administrar los catálogos presupuestales aplicables en la validación y filtrado de la información codificada en los registros financieros.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+V. Coordinar las revisiones que realicen las autoridades fiscalizadoras a la información de la Cuenta de la Hacienda Pública Federal y dar seguimiento a las observaciones y recomendaciones que en su caso se formulen en el ámbito institucional;
+
+VI. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VII. Administrar los catálogos presupuestales aplicables en la validación y filtrado de la información codificada en los registros financieros;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VIII. Coordinar el seguimiento de los sistemas y procedimientos de control presupuestal de los Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX. Informar el ejercicio mensual consolidado de PEMEX en el Sistema Integral de Información de la Secretaría de Hacienda y Crédito Público, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Opinar sobre la ejecución interna de las normas y disposiciones establecidas con relación al ejercicio del gasto.
 
 ###### Artículo 69.
 
 La Gerencia de Planeación y Programación Financiera tendrá las funciones siguientes:
 
-I. Integrar, analizar y consolidar los programas presupuestales de operación mensuales, trimestrales y anuales de PEMEX, así como proponer los mecanismos para el seguimiento de la operación de PEMEX;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+I. Integrar, analizar y consolidar los programas presupuestales de operación mensuales, trimestrales y anuales de PEMEX, para el Programa Operativo y Financiero Anual de Trabajo así como proponer los mecanismos para el seguimiento de la operación de PEMEX;
 
 II. Elaborar, evaluar y consolidar los resultados de operación de PEMEX;
 
 III. Integrar, analizar y consolidar el presupuesto en flujo de efectivo y adecuaciones presupuestales de PEMEX;
 
-IV. Conciliar, evaluar y consolidar los estados financieros pro-forma de PEMEX;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-V. Integrar y consolidar los ingresos de PEMEX por concepto de ventas internas y externas, para determinar la carga fiscal en devengable y flujo de efectivo;
+IV. Integrar la información para la consolidación de los estados financieros pro-forma de PEMEX y Organismos Subsidiarios;
 
-VI. Integrar, analizar y consolidar los programas presupuestales de operación plurianuales de PEMEX;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VII. Participar en el desarrollo y optimización de sistemas operativos y de simulación financiera, y
+V. Consolidar la información requerida para determinar la carga fiscal en devengable y flujo de efectivo de PEMEX;
 
-VIII. Elaborar la propuesta de escenario indicativo de metas de balance financiero que comprenda periodos de cinco años para su envío anual a la Secretaría de Hacienda y Crédito Público, por conducto de la Secretaría de Energía.
+VI. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VII. Administrar los sistemas institucionales orientados al soporte de los procesos de formulación del presupuesto en la parte de ingresos;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VIII. Integrar el programa de operación anual para la propuesta del escenario indicativo de metas del balance financiero para el periodo de cinco años;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX. Realizar la evaluación y seguimiento a los programas presupuestarios de operación, a los resultados de operación y al presupuesto en flujo de efectivo, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Consolidar la planeación financiera de corto plazo de PEMEX y Organismos Subsidiarios.
 
 ###### Artículo 70.
 
 La Gerencia de Presupuestación tendrá las funciones siguientes:
 
-I. Llevar a cabo el proceso de presupuestación de PEMEX y organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+I. Consolidar los presupuestos y las adecuaciones presupuestarias de PEMEX y Organismos Subsidiarios, emitiendo los procedimientos administrativos y conduciendo los sistemas institucionales relacionados con la función presupuestaria;
 
 II. Integrar la información sobre el estado que guardan los planes y programas del presupuesto para su envío a las dependencias del Gobierno Federal competentes y a las unidades administrativas de PEMEX;
 
-III. Integrar y analizar el portafolio de programas y proyectos de inversión de PEMEX y organismos subsidiarios por estructura programática, para opinión del comité competente y, en su caso, aprobación del Consejo de Administración;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+III. Integrar y analizar la cartera de programas y proyectos de inversión de PEMEX y Organismos Subsidiarios, por estructura programática, para gestionar su registro en la cartera que administra la Secretaría de Hacienda y Crédito Público;
 
 IV. Integrar y analizar el programa anual de inversiones de PEMEX y organismos subsidiarios por estructura programática;
 
-V. Consolidar y dar seguimiento al avance financiero de los programas y proyectos de inversión estratégicos de PEMEX y organismos subsidiarios, realizar los ajustes necesarios de conformidad con las disposiciones que al efecto emitan las dependencias competentes;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+V. Consolidar y dar seguimiento al avance financiero de los programas y proyectos de inversión estratégicos de PEMEX y Organismos Subsidiarios, así como implementar los ajustes necesarios de conformidad con las disposiciones aplicables;
 
 VI. Evaluar y dar seguimiento al cumplimiento de planes y programas sobre gastos de operación e inversión de PEMEX y organismos subsidiarios;
 
-VII. Integrar la planeación financiera de mediano y largo plazos de PEMEX y organismos subsidiarios, analizar sistemáticamente la información relativa a la asignación de recursos y cumplimiento de las metas programadas;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VIII. Realizar el control administrativo del catálogo de programas presupuestarios de conformidad con la taxonomía para el registro financiero, en los procesos de integración y autorización del presupuesto y en la integración a los sistemas de registro, y
+VII. Analizar e integrar la información operativa y financiera para la elaboración de escenarios enfocados a la planeación financiera de mediano y largo plazos de PEMEX y Organismos Subsidiarios;
 
-IX. Promover las acciones de innovación, adopción de mejores prácticas de negocio y mejora continua del proceso presupuestario de PEMEX y organismos subsidiarios.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VIII. Realizar el seguimiento administrativo del catálogo de programas presupuestarios de conformidad con la taxonomía para el registro financiero, en los procesos de integración y autorización del presupuesto y en la integración a los sistemas de registro;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX. Promover las acciones de innovación y adopción de mejores prácticas de negocio y mejora continua del proceso presupuestario de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Opinar, en su caso, sobre la integración y el ejercicio del presupuesto de operación e inversión de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XI. Elaborar y consolidar la propuesta de asignación de recursos presupuestarios de operación e inversión de PEMEX, con base en la jerarquización de la cartera y los requerimientos financieros correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XII. Elaborar los oficios de liberación de inversiones de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XIII. Resolver las solicitudes planteadas por conducto de las áreas financieras de los Organismos Subsidiarios, sobre el presupuesto correspondiente, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XIV. Formular la propuesta de escenario indicativo de metas de balance financiero que comprenda periodos de cinco años para su envío anual a la Secretaría de Hacienda y Crédito Público por conducto de la Secretaría de Energía.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 70 A.- La Gerencia de Normatividad, Evaluación, Control y Enlace de Programación y Presupuestación tendrá las funciones siguientes:
+
+I. Difundir a las áreas operativas de PEMEX y Organismos Subsidiarios, la actualización del proceso de programación y presupuestación;
+
+II. Proponer a las gerencias que corresponda, mejoras en la normatividad del ámbito de su competencia;
+
+III. Supervisar la entrega oportuna de la información presupuestaria y para la planeación financiera de PEMEX, Organismos Subsidiarios y, en su caso, filiales, a las gerencias correspondientes;
+
+IV. Estandarizar la aplicación de la normatividad presupuestaria y de planeación financiera en PEMEX, Organismos Subsidiarios y, en su caso, filiales, propuestas por las gerencias correspondientes;
+
+V. Instrumentar los mecanismos de coordinación y operación de PEMEX con las áreas financieras de los Organismos Subsidiarios;
+
+VI. Supervisar la implementación de mejoras encaminadas a garantizar la confiabilidad de la información presupuestaria de PEMEX, Organismos Subsidiarios y, en su caso, filiales, propuestas por las gerencias correspondientes;
+
+VII. Coadyuvar en el diseño de los controles de la planeación financiera y del proceso de programación y presupuestación;
+
+VIII. Instrumentar acciones para que la gestión y toma de decisiones en PEMEX y Organismos Subsidiarios consideren la información presupuestaria y de planeación financiera;
+
+IX. Organizar, dirigir y valorar el proceso de planeación financiera y de programación y presupuestación de PEMEX y los Organismos Subsidiarios;
+
+X. Administrar los sistemas institucionales orientados al soporte de la planeación financiera y el proceso de programación y presupuestación, en coordinación con las gerencias de la subdirección, y
+
+XI. Coadyuvar en la sistematización de la planeación financiera y del proceso de programación y presupuestación, así como apoyar en la estabilización de los sistemas correspondientes.
 
 #### Sección Tercera. De la Subdirección de Planeación Económica
 
@@ -1503,33 +1825,75 @@ IX. Promover las acciones de innovación, adopción de mejores prácticas de neg
 
 La Subdirección de Planeación Económica tendrá las funciones siguientes:
 
-I. Procurar la integridad del sistema de precios de PEMEX, interorganismos y al público, así como los trabajos y análisis de mercado para coadyuvar en la determinación de los precios de los bienes y servicios que producen y prestan PEMEX y los organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+I. Procurar la integridad del sistema de precios interorganismos y precios al público de los bienes y servicios producidos y comercializados por PEMEX, Organismos Subsidiarios y, en su caso, filiales;
 
 II. Supervisar la elaboración del estudio de precios interorganismos y proponerlo al Director Corporativo de Finanzas, así como coordinar la participación de los organismos subsidiarios en la elaboración del mismo;
 
-III. Participar, con la Dirección Corporativa de Operaciones; en la elaboración del Plan Estratégico Integral de Negocios;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-IV. Participar en la elaboración del programa operativo y financiero anual de trabajo;
+III. Supervisar el desarrollo de los escenarios de mercado con los que se elabora el Plan de Negocios, y participar con la Dirección Corporativa de Operaciones, en su elaboración;
 
-V. Participar conjuntamente con la Dirección Corporativa de Operaciones, en la elaboración del escenario indicativo de metas de balance financiero que comprendan periodos de cinco años;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IV. Opinar la elaboración del Programa Operativo y Financiero Anual de Trabajo;
+
+V. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
 VI. Coordinar las proyecciones de precios y de demanda de productos elaborados y comercializados por PEMEX y organismos subsidiarios;
 
-VII. Participar en la planeación, seguimiento financiero y jerarquización de los proyectos de inversión, así como en la planeación financiera de largo plazo de PEMEX y organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VIII. Definir los indicadores de seguimiento para evaluar el desempeño económico y financiero de PEMEX y organismos subsidiarios y líneas de negocio;
+VII. Supervisar la jerarquización, desde el punto de vista económico-financiero, del portafolio y cartera de programas y proyectos de inversión de PEMEX y Organismos Subsidiarios;
 
-IX. Evaluar la viabilidad, el desarrollo y la implantación de los beneficios de alianzas y nuevos negocios de PEMEX y organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-X. Coordinar la integración de la información institucional para garantizar su continuidad, congruencia, oportunidad y consistencia;
+VIII. Definir las metodologías y los indicadores de seguimiento que permitan evaluar las metas de generación de valor económico, así como participar en la realización de estudios comparativos de desempeño de PEMEX, Organismos Subsidiarios y, en su caso, filiales, respecto a las principales empresas comparables a nivel internacional;
 
-XI. Coordinar la elaboración y dar seguimiento a las metas económico-financieras de PEMEX y organismos subsidiarios, así como de los proyectos de inversión e iniciativas estratégicas, sin perjuicio de la competencia que corresponda a los comités del Consejo de Administración, así como elaborar la metodología para su medición;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-XII. Formular los lineamientos económico-financieros para la integración, análisis, la evaluación y seguimiento de los proyectos de inversión de PEMEX y organismos subsidiarios, sin perjuicio de la competencia que corresponda a los comités del Consejo de Administración, a fin de optimizar recursos y evaluar prioridades, para que se propongan, por conducto del Director General, al Consejo de Administración;
+IX. Colaborar con las líneas de negocio, PEMEX, Organismos Subsidiarios y, en su caso, filiales, en la identificación de oportunidades de mercado, nuevos esquemas de negocio y alianzas estratégicas;
 
-XIII. Establecer el marco macroeconómico que sirva de base a los estudios que se realizan en PEMEX y coordinar las proyecciones de precios y de demanda de los productos elaborados y comercializados por PEMEX, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-XIV. Analizar el desempeño económico financiero de los principales participantes de los mercados nacionales e internacionales de hidrocarburos, petrolíferos y petroquímicos y sus implicaciones para PEMEX.
+X. Dirigir la integración y administración de la información institucional, así como la emisión interna y externa de informes institucionales;
+
+XI. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XII. Formular, con la participación de la Subdirección de Planeación Estratégica y Operativa de la Dirección Corporativa de Operaciones y la Subdirección de Programación y Presupuestación de la Dirección Corporativa de Finanzas, los lineamientos que aplicarán en PEMEX, Organismos Subsidiarios y, en su caso, filiales, en materia de programas y proyectos de inversión;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XIII. Establecer el marco macroeconómico que sirva de base a los estudios que se realizan en PEMEX y coordinar las proyecciones de precios y de demanda de los productos elaborados y comercializados por PEMEX;
+
+XIV. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XV. Analizar la constitución y desincorporación de filiales paraestatales, así como la creación, fusión, liquidación, disolución y escisión de otras sociedades de PEMEX y Organismos Subsidiarios, y participar en las gestiones que se realicen ante las instancias correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XVI. Coordinar con las filiales que corresponda, el seguimiento de la información financiera generada en las sesiones de sus órganos de gobierno;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XVII. Dirigir el análisis del entorno económico y de los mercados relevantes para la industria, así como la elaboración de los pronósticos de demanda en los mercados en los que opera PEMEX;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XVIII. Colaborar en la elaboración de los criterios y metodologías para el análisis e integración de portafolios y carteras de los programas y proyectos de inversión de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XIX. Participar en la evaluación ex post de los principales programas y proyectos de inversión de PEMEX, Organismos Subsidiarios y filiales, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XX. Supervisar la gestión orientada al uso de información para la toma de decisiones en PEMEX y Organismos Subsidiarios.
 
 ###### Artículo 72.
 
@@ -1545,45 +1909,83 @@ IV. Elaborar el estudio de precios interorganismos y proponerlo al Subdirector d
 
 V. Analizar el comportamiento de los precios nacionales e internacionales y pronosticar los precios de referencia, interorganismos y al público para el corto, mediano y largo plazos;
 
-VI. Elaborar estudios técnico-económicos en materia de precios para la programación de operaciones y análisis de inversiones de PEMEX;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VI. Elaborar estudios técnico-económicos en materia de precios para la planeación, la programación presupuestal y análisis de inversiones de PEMEX;
 
 VII. Diseñar modelos económicos y financieros para determinar el impacto de las políticas de precios y tarifas interorganismos y al público;
 
-VIII. Elaborar conjuntamente con la participación que corresponda de los organismos subsidiarios y otras áreas de PEMEX, el esquema sobre precios para los insumos de la industria nacional de fertilizantes y distribuidores de amoniaco, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-IX. Participar con los organismos subsidiarios en la definición de estrategias comerciales y regulatorias en materia de precios.
+VIII. Elaborar conjuntamente con la participación que corresponda de los Organismos Subsidiarios y otras áreas de PEMEX, el esquema sobre precios para los insumos de la industria nacional de fertilizantes y distribuidores de amoniaco;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX. Participar con los Organismos Subsidiarios en la definición de estrategias comerciales y regulatorias en materia de precios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Elaborar, con la participación de PEMEX y Organismos Subsidiarios, el análisis del entorno económico, de los mercados relevantes para la industria, y los pronósticos de demanda en los mercados en los que opera PEMEX, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XI. Revisar y validar los escenarios de mercado con los que se elabora el Plan de Negocios.
 
 ###### Artículo 73.
 
 La Gerencia de Planeación y Evaluación del Desempeño Económico tendrá las funciones siguientes:
 
-I. Analizar, evaluar y proponer indicadores financieros para el análisis y la evaluación económico-financiera de PEMEX, sus organismos subsidiarios y P.M.I. Comercio Internacional, S.A. de C.V., así como de los proyectos de inversión e iniciativas estratégicas;
+I. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-II. Elaborar, con la participación que corresponda a las unidades administrativas de PEMEX y de los organismos subsidiarios, las propuestas del programa financiero anual;
+II. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-III. Elaborar, conjuntamente con la Dirección Corporativa de Operaciones, el escenario indicativo de metas de balance financiero que comprendan periodos de cinco años;
+III. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-IV. Establecer la metodología para la medición de la generación de valor económico, así como del desempeño económico-financiero a nivel consolidado y para las diferentes líneas de negocio de PEMEX, organismos subsidiarios, P.M.I. Comercio Internacional, S.A. de C.V., e Integrated Trade Systems, Inc., así como de los proyectos de inversión e iniciativas estratégicas que realicen;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-V. Proponer y dar seguimiento a las metas de generación de valor económico de PEMEX, organismos subsidiarios, P.M.I. Comercio Internacional, S.A. de C.V., y sus principales líneas de negocio, así como de sus proyectos de inversión e iniciativas estratégicas, y remitir los resultados de la evaluación del desempeño económico financiero para su incorporación al sistema institucional de evaluación del desempeño;
+IV. Establecer la metodología institucional para la medición de creación de valor económico, así como verificar la aplicación de la misma en la elaboración de metas, a nivel consolidado y para las diferentes líneas de negocio de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
 
-VI. Realizar estudios de industrias petroleras en cuanto a la creación de valor económico y de desempeño financiero y proponer indicadores de referencia para las líneas de negocio, proyectos de inversión e iniciativas estratégicas;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VII. Participar en la elaboración de criterios económico-financieros para el análisis, evaluación, jerarquización, e integración del portafolio de proyectos de inversión de PEMEX y organismos subsidiarios;
+V. Coordinar la integración y dar seguimiento a las metas institucionales de generación de valor económico a nivel consolidado y para las diferentes líneas de negocio de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
 
-VIII. Establecer criterios para la evaluación de los proyectos de inversión de PEMEX y organismos subsidiarios y a las iniciativas que impacten la posición financiera de PEMEX;
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-IX. Analizar los indicadores financieros para la evaluación económico-financiera de alianzas y nuevos negocios de PEMEX y organismos subsidiarios;
+V-A. Analizar la generación de valor económico pro forma de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
 
-X. Analizar y evaluar la viabilidad, el impacto y el desarrollo de los proyectos de inversión, iniciativas estratégicas, alianzas, coinversiones y nuevos negocios de mediano y largo plazos de PEMEX, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-XI. Establecer criterios y participar en la actualización de los lineamientos aplicables a la evaluación de los proyectos de inversión de PEMEX y organismos subsidiarios y a las iniciativas que impacten la posición financiera de PEMEX.
+VI. Apoyar en la elaboración de análisis del desempeño económico de empresas comparables con PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VII. Participar en la elaboración de criterios y metodologías para el análisis e integración de portafolios y carteras de los programas y proyectos de inversión de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VII-A. Revisar y validar la jerarquización, desde el punto de vista económico-financiero, del portafolio y la cartera de los programas y proyectos de inversión de PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VIII. Elaborar y actualizar, con la participación de las gerencias que correspondan, los lineamientos que aplicarán en PEMEX, Organismos Subsidiarios y, en su caso, filiales, en materia de programas y proyectos de inversión, para su evaluación económico-financiera y su presupuestación;
+
+IX. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Coadyuvar con PEMEX, Organismos Subsidiarios y, en su caso, filiales, en la identificación de oportunidades de mercado, nuevos esquemas de negocio y alianzas estratégicas, participando con los mismos en la evaluación de su viabilidad, el diseño e instrumentación de los mecanismos comerciales, contractuales y organizacionales requeridos para llevarlas a cabo, y
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XI. Coadyuvar en la evaluación ex post de los principales programas y proyectos de inversión de PEMEX, Organismos Subsidiarios y, en su caso, filiales.
 
 ###### Artículo 74.
 
 La Gerencia de Integración de Información Institucional tendrá las funciones siguientes:
 
-I. Administrar los recursos técnicos e informáticos así como los flujos de información contenidos en la base de datos institucional de PEMEX o la herramienta tecnológica que se defina para este fin;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+I. Administrar los flujos de información almacenados en la Base de Datos Institucional de PEMEX y Organismos Subsidiarios;
 
 II. Definir la información de PEMEX y de los organismos subsidiarios, que deberá integrarse a la base de datos institucional de corto y mediano plazos;
 
@@ -1591,35 +1993,89 @@ III. Integrar y actualizar la estadística institucional de PEMEX y organismos s
 
 IV. Elaborar los informes institucionales de los resultados de PEMEX y organismos subsidiarios.
 
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 74 A.- La Gerencia de Filiales tendrá las funciones siguientes:
+
+I. Integrar los reportes financieros, operativos y comerciales que realicen los representantes de PEMEX en las filiales y empresas en las que se tenga participación accionaria;
+
+II. Realizar el seguimiento de información de las filiales y empresas en las que se tenga participación accionaria, a través de indicadores financieros y operativos;
+
+III. Administrar el sistema de control de información jurídica, financiera y corporativa de las filiales que sustenten la elaboración de informes;
+
+IV. Participar en el análisis para la fusión, liquidación, disolución y escisión de filiales de PEMEX y Organismos Subsidiarios, así como apoyar las gestiones que se realicen ante las instancias competentes;
+
+V. Realizar, en coordinación con las demás unidades administrativas de la Dirección Corporativa de Finanzas, las evaluaciones financieras específicas de las filiales de PEMEX y Organismos Subsidiarios, y
+
+VI. Apoyar en el seguimiento de los acuerdos que se generen en los órganos de gobierno de PEMEX y de los Organismos Subsidiarios que tengan incidencia en las filiales de PEMEX y Organismos Subsidiarios.
+
 #### Sección Cuarta. De la Subdirección de Sistemas de Información Financiera
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 75.
 
-La Subdirección de Sistemas de Información Financiera tendrá las funciones siguientes:
+La Subdirección de Contabilidad Fiscal y Control Financiero tendrá las funciones siguientes:
 
-I. Coordinar la emisión de los estados financieros de PEMEX, los consolidados de PEMEX, sus organismos subsidiarios y, en su caso, filiales, de los vehículos financieros, así como la generación de estados financieros pro forma a nivel consolidado;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-II. Coordinar la integración de la información contable y tributaria de PEMEX y la consolidada de PEMEX y organismos subsidiarios, para efecto de la cuenta de la hacienda pública federal;
+I. Supervisar a los responsables de la emisión de los estados financieros de PEMEX y Organismos Subsidiarios; los consolidados de PEMEX, Organismos Subsidiarios y, en su caso, filiales, de los vehículos financieros;
 
-III. Participar en la medición del valor económico en PEMEX, sus organismos subsidiarios, líneas de negocio y filiales, y los consolidados, así como coadyuvar con el esquema de compensación por incentivos;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+II. Coordinar la integración de la información contable y tributaria de PEMEX y la consolidada de PEMEX y Organismos Subsidiarios, para efecto de la Cuenta de la Hacienda Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+III. Coordinar los aspectos contables para la generación de estados financieros pro forma y la medición del valor económico agregado en PEMEX y Organismos Subsidiarios;
 
 IV. Coordinar la preparación de la información contable para establecer y mantener el registro de PEMEX y organismos subsidiarios ante las autoridades financieras nacionales e internacionales, coadyuvar al cumplimiento de la normatividad aplicable, así como con los requerimientos de información de las instancias fiscalizadoras;
 
 V. Coordinar los trabajos relacionados con la determinación del pasivo laboral y reservas laborales de PEMEX, sus organismos subsidiarios y líneas de negocio;
 
-VI. Coordinar los análisis tendientes a la constitución y desincorporación de filiales paraestatales, así como para la creación, fusión, liquidación, disolución y escisión de otras sociedades de PEMEX y organismos subsidiarios, y participar en las gestiones que se realicen ante las instancias correspondientes;
+VI. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-VII. Coordinar el seguimiento de la información generada en las sesiones de los órganos de gobierno de las filiales de PEMEX y organismos subsidiarios;
+VII. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
 VIII. Coordinar el fortalecimiento de la cultura de control interno financiero, con un ambiente de control que fluya desde la alta dirección hacia todo PEMEX, sus organismos subsidiarios y, en su caso, filiales;
 
 IX. Coordinar el monitoreo del sistema de control interno para la generación de información financiera;
 
-X. Propiciar la automatización de los controles internos en los sistemas de información financiera;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-XI. Elaborar y proponer la normatividad destinada a la unificación de criterios en la determinación de costos a nivel institucional; asimismo, supervisar los trabajos destinados a la obtención de la información de costos de los organismos subsidiarios y su consolidación, y
+X. Supervisar la efectividad de los controles internos para el reporte financiero, así como propiciar la automatización de los mismos en los sistemas de información financiera de PEMEX, Organismos Subsidiarios y filiales;
 
-XII. Proponer e instrumentar una metodología contable que reconozca ingresos, costos, activos y pasivos para cada servicio que preste PEMEX a sus organismos subsidiarios, la cual deberá contar, en su caso, con comparativos internacionales y ser auditada anualmente por terceros.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XI. Elaborar y proponer la normatividad destinada a la unificación de criterios en la determinación de costos a nivel institucional; asimismo, supervisar los trabajos destinados a la obtención de la información de costos de los Organismos Subsidiarios y su consolidación;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XII. Proponer e instrumentar una metodología contable que reconozca ingresos, costos, activos y pasivos para cada servicio que preste PEMEX a sus Organismos Subsidiarios, la cual deberá contar, en su caso, con comparativos internacionales y ser auditada anualmente por terceros;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XIII. Diseñar y estandarizar los procesos internos de carácter contable, fiscal y de control financiero en PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XIV. Supervisar los trabajos destinados al desarrollo, implantación y mantenimiento de un sistema de costos institucional;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XV. Administrar los sistemas de información financiera;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XVI. Establecer y verificar el cumplimiento de los requerimientos para el manejo del sistema de registro contable de las operaciones de PEMEX y Organismos Subsidiarios y, en su caso, de las filiales;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XVII. Supervisar la gestión orientada al uso de información para la toma de decisiones en PEMEX y Organismos Subsidiarios, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XVIII. Instrumentar los mecanismos que establezcan la línea de mando de PEMEX a las áreas financieras de los Organismos Subsidiarios.
 
 ###### Artículo 76.
 
@@ -1627,7 +2083,9 @@ La Gerencia de Contabilidad tendrá las funciones siguientes:
 
 I. Coordinar las actividades para la obtención, procesamiento, consolidación y presentación de información contable que refleje la situación financiera de PEMEX;
 
-II. Preparar los estados financieros de PEMEX y de los vehículos financieros, así como los consolidados de PEMEX, organismos subsidiarios, filiales y vehículos financieros;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+II. Analizar la información contable de PEMEX y Organismos Subsidiarios, e identificar desviaciones respecto a la normativa; preparar los estados financieros de PEMEX y de los vehículos financieros, así como los consolidados de PEMEX, Organismos Subsidiarios, filiales y vehículos financieros;
 
 III. Realizar los trabajos relacionados con la determinación del pasivo laboral y reservas laborales de PEMEX, organismos subsidiarios y líneas de negocio;
 
@@ -1635,15 +2093,29 @@ IV. Preparar la información contable para obtener y mantener el registro de PEM
 
 V. Evaluar la información contable financiera relacionada con los vehículos financieros y la consolidada de PEMEX y organismos subsidiarios;
 
-VI. Elaborar los estados financieros consolidados de PEMEX, sus organismos subsidiarios y, en su caso, filiales, así como los estados financieros consolidados pro (sic) forma;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VII. Elaborar estudios comparativos de la situación financiera de la industria en relación con las principales empresas petroleras;
+VI. Coadyuvar en la elaboración de los estados financieros individuales y consolidados pro forma de PEMEX y Organismos Subsidiarios;
+
+VII. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
 VIII. Conservar y custodiar la documentación soporte del registro contable de PEMEX, en términos de las disposiciones legales y administrativas aplicables;
 
-IX. Registrar en la contabilidad de PEMEX los importes de las presuntas responsabilidades, conforme a las disposiciones legales aplicables, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-X. Normar a nivel institucional la determinación de costos, así como coordinar los trabajos destinados a la obtención y determinación de costos a partir de la información generada en los sistemas de los organismos subsidiarios.
+IX. Registrar en la contabilidad de PEMEX los importes de las responsabilidades, conforme a las disposiciones legales aplicables;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Coordinar y supervisar los trabajos destinados a la obtención y determinación de costos a partir de la información generada en los sistemas de los Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XI. Obtener el valor económico agregado individual y consolidado de PEMEX y Organismos Subsidiarios, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XII. Proponer acciones para la mejora de procesos contables en PEMEX y sus Organismos Subsidiarios.
 
 ###### Artículo 77.
 
@@ -1655,63 +2127,113 @@ II. Determinar y cumplir con las obligaciones fiscales de PEMEX;
 
 III. Consolidar la información fiscal de PEMEX y organismos subsidiarios;
 
-IV. Coadyuvar con la Oficina del Abogado General en la atención de los procesos contenciosos, fiscal y administrativo;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IV. Coadyuvar con las diversas áreas de PEMEX y Organismos Subsidiarios que lo requieran, para la atención de los procesos y procedimientos relacionados con las materias fiscal y administrativa;
 
 V. Administrar la carga tributaria de PEMEX y organismos subsidiarios, detectar sus posibles desviaciones y determinar las acciones preventivas y correctivas que correspondan;
 
-VI. Coordinar e integrar la información consolidada de PEMEX y organismos subsidiarios para la cuenta de la hacienda pública federal en materia tributaria y, atender los requerimientos de información que formulen las autoridades fiscalizadoras, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VII. Consolidar la información fiscal de PEMEX y organismos subsidiarios para el cálculo y entero de sus obligaciones fiscales.
+VI. Coordinar e integrar la información consolidada de PEMEX y Organismos Subsidiarios para la Cuenta de la Hacienda Pública Federal en materia tributaria y, atender los requerimientos de información que formulen las autoridades fiscalizadoras;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VII. Presentar a las autoridades fiscales las acciones y promociones necesarias para cumplir con el régimen fiscal de PEMEX y sus Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VIII. Analizar la información fiscal de PEMEX y Organismos Subsidiarios, e identificar desviaciones respecto a la normatividad aplicable;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX. Proponer acciones para la mejora de procesos fiscales en PEMEX y Organismos Subsidiarios, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Elaborar proyecciones del monto a pagar por contribuciones de PEMEX y Organismos Subsidiarios, así como llevar las estadísticas y comportamiento de las obligaciones fiscales.
 
 ###### Artículo 78.
 
-La Gerencia de Filiales tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Integrar los reportes financieros, operativos y comerciales que realicen los representantes de PEMEX en las filiales y empresas en las que se tenga participación accionaria;
-
-II. Realizar el seguimiento de información de las filiales y empresas en las que se tenga participación accionaria, a través de indicadores financieros y operativos;
-
-III. Administrar el sistema de control de información jurídica, financiera y corporativa de las filiales que sustenten la elaboración de informes;
-
-IV. Participar en el análisis para la fusión, liquidación, disolución y escisión de filiales de PEMEX y organismos subsidiarios, así como apoyar las gestiones que se realicen ante las instancias competentes;
-
-V. Realizar, en coordinación con las demás unidades administrativas de la Dirección Corporativa de Finanzas, las evaluaciones financieras específicas de las filiales de PEMEX y organismos subsidiarios, y
-
-VI. Apoyar en el seguimiento de los acuerdos que se generen en los órganos de gobierno de los organismos subsidiarios que tengan incidencia en las filiales de PEMEX y organismos subsidiarios.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 79.
 
-La Gerencia de Soporte y Operación Financiera tendrá las funciones siguientes:
+La Gerencia de Control Financiero tendrá las funciones siguientes:
 
 I. Definir y mantener actualizada la metodología en PEMEX, sus organismos subsidiarios y, en su caso, filiales, referida al cumplimiento de estándares y regulaciones en materia de control interno financiero;
 
 II. Capacitar a los responsables de los procesos en la metodología definida;
 
-III. Identificar, instrumentar y monitorear las mejores prácticas definidas en materia de control financiero;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+III. Analizar, especificar e implementar los controles que garanticen la confiabilidad de la información financiera, así como comprobar su efectividad en PEMEX, Organismos Subsidiarios y filiales, en el ámbito de su competencia, sin perjuicio de lo que determinen las instancias competentes;
 
 IV. Instrumentar mecanismos que permitan mejorar la calidad de la información financiera por medio de controles internos;
 
-V. Establecer las acciones y proyectos de corto y mediano plazo, para dirigir el desarrollo de los sistemas financieros hacia el logro de los objetivos, estrategias, y prioridades de negocio de PEMEX y Organismos Subsidiarios;
+V. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-VI. Gestionar la contratación de los bienes y servicios de Tecnologías de Información que se requieren para soportar la operación de los procesos de negocio de la Dirección Corporativa de Finanzas;
+VI. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-VII. Administrar el desempeño del Sistema Empresarial de Información Financiera;
+VII. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-VIII. Desarrollar y administrar las soluciones de Tecnologías de Información para el cumplimiento de las funciones de la Dirección Corporativa de Finanzas;
+VIII. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-IX. Proporcionar los servicios de Tecnologías de Información de la Dirección Corporativa de Finanzas para garantizar la confiabilidad, oportunidad, integridad y seguridad de los servicios que soportan los procesos financieros;
+IX. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-X. Identificar cambios en los procesos para mantener actualizado el sistema de control interno financiero;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-XI. Planear el alcance, documentar los controles y evaluar el diseño de los mismos, para el cumplimiento de estándares y regulaciones, nacionales e internacionales, en materia de control interno financiero;
+X. Identificar cambios en los procesos para mantener actualizado el sistema de control financiero;
 
-XII. Probar la efectividad operativa de los controles y monitorear el sistema de control interno financiero;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XI. Planear el alcance, documentar los controles y evaluar el diseño de los mismos, para el cumplimiento de estándares y regulaciones, nacionales e internacionales, en materia de control financiero;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XII. Probar la efectividad operativa de los controles y monitorear el sistema de control financiero;
 
 XIII. Analizar la información financiera para identificar posibles deficiencias de control;
 
-XIV. Informar periódicamente a las instancias internas y externas correspondientes sobre el estado que guarda el sistema de control interno financiero, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-XV. Interactuar con el auditor externo para el cumplimiento de estándares y regulaciones, nacionales e internacionales en materia de control interno financiero.
+XIV. Informar periódicamente a las instancias internas y externas correspondientes sobre el estado que guarda el sistema de control financiero;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XV. Interactuar con el auditor externo para el cumplimiento de estándares y regulaciones, nacionales e internacionales en materia de control financiero, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XVI. Proponer acciones para la mejora de procesos de control financiero en PEMEX y sus Organismos Subsidiarios.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 79 A.- La Gerencia de Normatividad, Evaluación, Control y Enlace Contable y Fiscal tendrá las funciones siguientes:
+
+I. Difundir a las áreas operativas de PEMEX y sus Organismos Subsidiarios, la actualización normativa del proceso contable, fiscal y de control financiero;
+
+II. Proponer a las gerencias que corresponda de la subdirección mejoras en la normatividad del ámbito de su competencia;
+
+III. Supervisar la entrega oportuna de la información contable, fiscal y de control financiero de PEMEX, Organismos Subsidiarios y, en su caso, filiales, a las gerencias correspondientes;
+
+IV. Estandarizar la aplicación de la normatividad contable, fiscal y de control financiero en PEMEX, Organismos Subsidiarios y, en su caso, filiales, propuestas por las gerencias correspondientes;
+
+V. Supervisar la implementación de mejoras encaminadas a garantizar la confiabilidad de la información contable, fiscal y de control financiero de PEMEX, Organismos Subsidiarios y, en su caso, filiales, propuestas por las gerencias correspondientes;
+
+VI. Coadyuvar en el diseño de los controles de los procesos contable, fiscal y de control financiero;
+
+VII. Proponer mejoras a los procesos contable, fiscal y de control financiero, identificadas en la evaluación de los mismos;
+
+VIII. Instrumentar acciones para que la gestión y toma de decisiones en PEMEX y Organismos Subsidiarios consideren la información contable, fiscal y de control financiero;
+
+IX. Organizar, dirigir y valorar los procesos contable, fiscal y de control financiero de PEMEX y los Organismos Subsidiarios;
+
+X. Proponer y coordinar acciones para la administración de los sistemas institucionales orientados al soporte de los procesos contable, fiscal y de control financiero, en coordinación con las gerencias de la Subdirección, y
+
+XI. Coadyuvar en la sistematización de los procesos contable, fiscal y de control financiero, así como apoyar en la estabilización de los sistemas correspondientes.
 
 #### Sección Quinta. De la Subdirección de Financiamientos y Tesorería
 
@@ -1733,9 +2255,25 @@ VI. Coordinar la implementación de las estrategias de manejo de riesgos de merc
 
 VII. Supervisar las operaciones de flujos de ingresos y egresos de PEMEX y organismos subsidiarios;
 
-VIII. Coordinar el control y administración de la deuda y de los instrumentos financieros derivados, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-IX. Proponer al Director Corporativo de Finanzas la estrategia para las obligaciones constitutivas de deuda pública.
+VIII. Coordinar el control y administración de la deuda y de los instrumentos financieros derivados;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX. Proponer al Director Corporativo de Finanzas la estrategia para las obligaciones constitutivas de deuda pública;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Coordinar la supervisión de las operaciones de tesorería, financiamientos y servicios bancarios y financieros de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XI. Coordinar la consolidación de información para la atención de requerimientos de entidades reguladoras en materia de financiamientos y tesorería, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XII. Supervisar la gestión orientada al uso de información para la toma de decisiones en PEMEX y Organismos Subsidiarios.
 
 ###### Artículo 81.
 
@@ -1743,7 +2281,9 @@ La Gerencia de Financiamientos y Análisis de Mercado tendrá las funciones sigu
 
 I. Proponer el programa de financiamientos constitutivos de deuda pública de PEMEX;
 
-II. Proponer estrategias de financiamientos, formalizar la contratación de los mismos y dar seguimiento hasta su ingreso;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+II. Negociar y formalizar la contratación de los instrumentos asociados a la ejecución de las estrategias de financiamiento e inversión financiera de PEMEX;
 
 III. Analizar los mercados financieros nacionales e internacionales, para facilitar la toma de decisiones en materia de financiamientos e inversión financiera;
 
@@ -1757,9 +2297,21 @@ VII. Proponer e instrumentar las estrategias de inversión de las disponibilidad
 
 VIII. Realizar la negociación y la operación de las líneas otorgadas por agencias de crédito a la exportación;
 
-IX. Gestionar los servicios bancarios que requiera PEMEX para llevar a cabo sus operaciones de ingresos y egresos, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-X. Instrumentar la estrategia para las obligaciones constitutivas de deuda pública.
+IX. Gestionar los servicios bancarios y financieros que requiera PEMEX y Organismos Subsidiarios, para llevar a cabo sus operaciones de ingresos y egresos;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Instrumentar la estrategia para las obligaciones constitutivas de deuda pública;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XI. Supervisar las operaciones de financiamiento, servicios bancarios y financieros de PEMEX y Organismos Subsidiarios, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XII. Consolidar la información para la atención de requerimientos de entidades reguladoras en materia de financiamientos.
 
 ###### Artículo 82.
 
@@ -1767,7 +2319,9 @@ La Gerencia de Tesorería tendrá las funciones siguientes:
 
 I. Elaborar la posición y proyección de caja consolidada de PEMEX y organismos subsidiarios, así como de los demás fondos específicos, con base en los programas y presupuestos autorizados;
 
-II. Realizar las operaciones de ingresos y egresos por concentración, ministración, asignación de recursos, compensación de adeudos interorganismos, de PEMEX y organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+II. Proporcionar el servicio de tesorería a PEMEX, Organismos Subsidiarios y filiales que lo requieran, en materia de ingresos y egresos, transferencias de fondos, asignación de recursos y compensación de adeudos interorganismos;
 
 III. Llevar a cabo el registro financiero de los ingresos y egresos de PEMEX y organismos subsidiaros, y demás operaciones de tesorería;
 
@@ -1777,9 +2331,21 @@ V. Administrar el servicio de la deuda y de los instrumentos financieros derivad
 
 VI. Integrar y dar seguimiento al presupuesto de la deuda;
 
-VII. Realizar la asignación y el registro de pago de las obligaciones financieras derivadas de la captación de financiamientos de PEMEX, sus organismos subsidiarios y vehículos financieros, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VIII. Proporcionar los servicios de apoyo y soporte a los procesos de tesorería.
+VII. Realizar la asignación y el registro de pago de las obligaciones financieras derivadas de la captación de financiamientos de PEMEX, sus Organismos Subsidiarios y vehículos financieros;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VIII. Proporcionar los servicios de apoyo y soporte a los procesos de tesorería;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX. Supervisar las operaciones de tesorería de PEMEX y Organismos Subsidiarios, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Consolidar la información para la atención de requerimientos de entidades reguladoras en materia de tesorería.
 
 #### Sección Sexta. De la Subdirección de Administración de Riesgos
 
@@ -1795,9 +2361,17 @@ III. Coordinar, con la participación que corresponda a los organismos subsidiar
 
 IV. Desarrollar metodologías y herramientas para estimar los factores de riesgo de mercado que impactan a PEMEX y organismos subsidiarios;
 
-V. Cuantificar periódicamente la exposición a los principales factores de riesgo de mercado que enfrentan PEMEX, organismos subsidiarios y filiales, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VI. Analizar los esquemas de financiamiento del pasivo laboral.
+V. Supervisar la contratación y registro de operaciones de cobertura en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VI. Analizar los esquemas de financiamiento del pasivo laboral, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VII. Supervisar la gestión orientada al uso de información para la toma de decisiones en PEMEX y Organismos Subsidiarios.
 
 ###### Artículo 84.
 
@@ -1811,9 +2385,17 @@ III. Coordinar la información de administración de riesgos respecto de las ope
 
 IV. Brindar asesoría a los organismos subsidiarios en la definición de estrategias de cobertura;
 
-V. Coordinar los trabajos de identificación y valuación de los derivados implícitos en PEMEX, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VI. Supervisar la contratación y registro de operaciones de mercado.
+V. Coordinar los trabajos de identificación y valuación de los derivados implícitos en PEMEX;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VI. Cuantificar periódicamente la exposición a los principales factores de riesgo de mercado que enfrentan PEMEX, Organismos Subsidiarios y filiales, en su caso, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VII. Coordinar la gestión orientada al uso de información para la toma de decisiones en PEMEX y Organismos Subsidiarios.
 
 ###### Artículo 85.
 
@@ -1829,541 +2411,605 @@ IV. Elaborar los trabajos técnicos necesarios para la contratación de los segu
 
 V. Brindar asesoría a las unidades de PEMEX, sus organismos subsidiarios y, en su caso, filiales responsables de la operación de seguros y garantías;
 
-VI. Coordinar con la Subdirección de Seguridad Industrial, Protección Ambiental y Desarrollo Sustentable de la Dirección Corporativa de Operaciones el programa de prevención de pérdidas de PEMEX y organismos subsidiarios, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VII. Determinar los criterios de distribución de primas entre PEMEX y organismos subsidiarios.
+VI. Coordinar con la Subdirección de Seguridad Industrial, Protección Ambiental y Desarrollo Sustentable de la Dirección Corporativa de Operaciones el programa de prevención de pérdidas de PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VII. Determinar los criterios de distribución de primas entre PEMEX y Organismos Subsidiarios, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VIII. Coordinar la gestión orientada al uso de información para la toma de decisiones en PEMEX y Organismos Subsidiarios.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+### Capítulo Tercero Bis. De la Dirección Corporativa de Tecnología de Información y Procesos de Negocio
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+#### Sección Primera. De la Dirección Corporativa
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 85 A.- La Dirección Corporativa de Tecnología de Información y Procesos de Negocio tendrá las funciones siguientes:
+
+I. Autorizar la estrategia y estándares institucionales de Tecnología de Información de PEMEX y Organismos Subsidiarios;
+
+II. Coordinar la integración del portafolio de los proyectos de Tecnología la Información y proyectos de negocio de PEMEX y Organismos Subsidiarios, que requieran Tecnología de Información, así como administrarlo;
+
+III. Dirigir la ejecución de los proyectos de Tecnología de Información y de los correspondientes al sistema de gestión por procesos, que integren el portafolio de PEMEX y Organismos Subsidiarios;
+
+IV. Autorizar el desarrollo de las aplicaciones y sistemas de Tecnología de Información de PEMEX y Organismos Subsidiarios;
+
+V. Dirigir y evaluar el desarrollo y la prestación de servicios de Tecnología de Información de PEMEX y Organismos Subsidiarios; asimismo, autorizar la prestación, en su caso, de estos servicios cuando sean proporcionados por terceros;
+
+VI. Autorizar el uso y la asignación de recursos de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+VII. Gestionar, en coordinación con otras unidades administrativas competentes, ante las instancias conducentes, la autorización que en su caso resulte necesaria, para realizar adquisiciones de bienes o contratación de servicios de Tecnología de Información;
+
+VIII. Integrar y gestionar la asignación de presupuesto para la prestación de servicios de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+IX. Formalizar y, en su caso, dictaminar la contratación de arrendamientos, adquisiciones y servicios de Tecnología de Información en PEMEX y Organismos Subsidiarios, así como sus componentes en los proyectos de negocio o industriales;
+
+X. Dirigir y supervisar los procesos de adquisiciones, suministro de bienes, servicios y arrendamientos en materia de Tecnología de Información para PEMEX y Organismos Subsidiarios;
+
+XI. Conducir la estrategia de implementación de los procesos de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+XII. Instrumentar y evaluar el sistema de gestión por procesos de PEMEX y Organismos Subsidiarios;
+
+XIII. Dirigir la instrumentación de los sistemas electrónicos de seguridad y autenticación de identidad en PEMEX y Organismos Subsidiarios, y
+
+XIV. Prestar los servicios de Tecnología de Información a PEMEX y Organismos Subsidiarios.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 85 B.- La Gerencia de Control de Gestión tendrá las funciones siguientes:
+
+I. Auxiliar a las unidades administrativas de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio para la resolución de las observaciones y recomendaciones formuladas por los órganos fiscalizadores competentes internos y externos, así como ser enlace con dichos órganos;
+
+II. Evaluar, gestionar y atender los requerimientos de información a la Dirección Corporativa de Tecnología de Información y Procesos de Negocio para efectos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+
+III. Asesorar y participar en la organización, clasificación y conservación de la documentación generada por la Dirección Corporativa de Tecnología de Información y Procesos de Negocio asegurando su resguardo y custodia;
+
+IV. Coordinar con las instancias internas y externas competentes la atención y ejecución de los programas y acciones de la Dirección derivadas de los programas gubernamentales, verificando su cumplimiento y oportuna remisión a las instancias competentes;
+
+V. Coordinar con las unidades administrativas de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio las acciones necesarias para fortalecer el control interno, el monitoreo de los indicadores de desempeño, la evaluación de riesgos, la identificación de desviaciones que afecten la consecución de los objetivos de la Dirección, la gestión de calidad la promoción de acciones de mejora continua de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio;
+
+VI. Gestionar los dictámenes y las autorizaciones correspondientes ante los órganos competentes las estructuras ocupacionales, los programas de recursos humanos, las evaluaciones del desempeño individual y las prestaciones para los trabajadores adscritos a la Dirección Corporativa de Tecnología de Información y Procesos de Negocio, y
+
+VII. Gestionar los bienes, insumos y servicios de apoyo administrativo requeridos por la Dirección Corporativa de Tecnología de Información y Procesos de Negocio.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+#### Sección Segunda. De la Subdirección de Planeación e Inteligencia de Negocio
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 85 C.- La Subdirección de Planeación e Inteligencia de Negocio tendrá las funciones siguientes:
+
+I. Administrar la planeación y establecimiento de arquitecturas tecnológicas en materias de Tecnología de Información que soporten los procesos de negocio de PEMEX y Organismos Subsidiarios;
+
+II. Administrar el portafolio de proyectos de Tecnología de Información;
+
+III. Coordinar con PEMEX y Organismos Subsidiarios la procedencia y supervisión de las contrataciones de bienes y servicios de Tecnología de Información;
+
+IV. Coordinar al interior de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio el establecimiento y aplicación de procedimientos de costeo de servicios de Tecnología de Información para PEMEX y Organismos Subsidiarios;
+
+V. Coordinar al interior de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio la integración del presupuesto de Tecnología de Información de PEMEX y Organismos Subsidiarios;
+
+VI. Coordinar al interior de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio la implementación de un sistema de gestión de calidad de los productos y servicios de Tecnología de Información entregados a PEMEX y Organismos Subsidiarios,
+
+VII. Facilitar las herramientas que permitan a las unidades administrativas de PEMEX y Organismos Subsidiarios procesar la información.
+
+VIII. Proporcionar a los usuarios de negocio de PEMEX y Organismos Subsidiarios elementos para la mejora de los modelos de administración de procesos, explotación de áreas de oportunidad o soporte a la toma de decisiones o inteligencia de negocios, y
+
+IX. Coordinar con las unidades administrativas de negocio y de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio la integración y explotación de la información institucional.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 85 D.- La Gerencia de Planeación y Administración de Proyectos tendrá las funciones siguientes:
+
+I. Elaborar y administrar el plan estratégico de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+II. Elaborar y operar el portafolio de proyectos de Tecnología de Información;
+
+III. Dar seguimiento a la ejecución de los proyectos que son responsabilidad de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio;
+
+IV. Coordinar al interior de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio la integración de proyectos de mejora de procesos en proyectos institucionales, para la conformación del portafolio de PEMEX y Organismos Subsidiarios;
+
+V. Coordinar la elaboración y administración de acuerdos de niveles de servicio (SLA Service Level Agreement) de los productos y servicios de Tecnología de Información, y
+
+VI. Ejecutar las iniciativas de gobierno electrónico en PEMEX y Organismos Subsidiarios.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 85 E.- La Gerencia de Innovación y Arquitectura Tecnológica tendrá las funciones siguientes:
+
+I. Elaborar y ejecutar los proyectos de innovación y consolidación de infraestructura de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+II. Mantener actualizada la información sobre arquitectura, estándares y lineamientos de Tecnología de Información que soporte la operación de los procesos de negocio en PEMEX y Organismos Subsidiarios;
+
+III. Monitorear y analizar el mercado y sus tendencias, para elaborar propuestas y ejecutar el desarrollo de la Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+IV. Evaluar y seleccionar los productos y servicios de Tecnología de Información que requieran las unidades administrativas de PEMEX y Organismos Subsidiarios, y
+
+V. Proponer los mecanismos para el costeo de los servicios corporativos de Tecnología de Información y los montos correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 85 F.- La Gerencia de Procura y Activos tendrá las funciones siguientes:
+
+I. Integrar los requerimientos en materia de Tecnología de Información, para formular y gestionar el presupuesto necesario para la prestación de productos y servicios en PEMEX y Organismos Subsidiarios;
+
+II. Solicitar a las instancias competentes, en su caso, la autorización para la adquisición de bienes o contratación de servicios de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+III. Preparar los dictámenes sobre la procedencia de las adquisiciones o contrataciones de productos y servicios de Tecnología de Información, así como sus componentes en los proyectos de negocio;
+
+IV. Tramitar las contrataciones de bienes y servicios de Tecnología de Información, sistemas industriales, componentes y servicios de Tecnología de Información en sistemas de automatización industrial, bases de datos en tiempo real y sistemas de información geográfica en PEMEX y Organismos Subsidiarios;
+
+V. Administrar los activos de Tecnología de Información de PEMEX y Organismos Subsidiarios, y
+
+VI. Administrar los contratos de Tecnología de Información de PEMEX y Organismos Subsidiarios.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 85 G.- La Gerencia de Inteligencia de Negocio tendrá las funciones siguientes:
+
+I. Implementar soluciones para la administración de la información de PEMEX y Organismos Subsidiarios;
+
+II. Administrar los datos almacenados en la infraestructura tecnológica de PEMEX y Organismos Subsidiarios y vigilar la calidad de los mismos;
+
+III. Administrar la arquitectura de la información de PEMEX y Organismos Subsidiarios;
+
+IV. Atender los requerimientos y proporcionar las herramientas tecnológicas para la extracción, integración, transformación, carga, automatización y presentación de la información de PEMEX y Organismos Subsidiarios;
+
+V. Administrar la plataforma y configuración de los servicios de inteligencia de negocios en PEMEX y Organismos Subsidiarios;
+
+VI. Administrar los requerimientos de información de PEMEX y Organismos Subsidiarios y su transformación en soluciones;
+
+VII. Administrar los estándares tecnológicos institucionales necesarios para asegurar la consistencia, eficiencia y calidad de la información en PEMEX y Organismos Subsidiarios;
+
+VIII. Operar el ciclo de vida de la información electrónica en PEMEX y Organismos Subsidiarios;
+
+IX. Proporcionar a PEMEX y Organismos Subsidiarios herramientas de explotación de información y consultas no planeadas, y
+
+X. Operar la infraestructura tecnológica que soporta las bases de datos institucionales con la información estadística de PEMEX y Organismos Subsidiarios.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+#### Sección Tercera. De la Subdirección de Infraestructura Tecnológica
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 85 H.- La Subdirección de Infraestructura Tecnológica tendrá las funciones siguientes:
+
+I. Administrar la prestación de los servicios de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+II. Supervisar la prestación de los servicios integrales de operación y soporte de Infraestructura de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+III. Supervisar la operación de los centros de cómputo institucionales de PEMEX y Organismos Subsidiarios;
+
+IV. Determinar la entrega de los servicios de infraestructura tecnológica que soporte los servicios de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+V. Coordinar al interior de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio la definición de acuerdos operacionales y niveles de servicios de Tecnología de Información en PEMEX y Organismos Subsidiarios, así como supervisar su cumplimiento;
+
+VI. Administrar la seguridad en el acceso a sistemas de información y aplicaciones de PEMEX y Organismos Subsidiarios;
+
+VII. Alinear la operación y entrega de servicios de Tecnología de Información a los objetivos y estrategias de PEMEX y Organismos Subsidiarios;
+
+VIII. Controlar la calidad de los procesos de prestación de servicios de Tecnología de Información y su mejora continua en PEMEX y Organismos Subsidiarios;
+
+IX. Facilitar la elaboración de proyectos de incremento o actualización de capacidad instalada o servicios comunes, alineados a las estrategias del negocio de PEMEX y Organismos Subsidiarios;
+
+X. Coordinar al interior de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio los sistemas electrónicos de seguridad y autenticación de identidad en PEMEX y Organismos Subsidiarios, y
+
+XI. Formular los requerimientos para la contratación de bienes y servicios de infraestructura de Tecnología de Información de PEMEX y Organismos Subsidiarios.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 85 I.- La Gerencia de Servicios a Usuarios Finales tendrá las funciones siguientes:
+
+I. Desarrollar y operar el servicio de la mesa nacional de atención a usuarios de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+II. Entregar los servicios de Tecnología de Información a los usuarios finales en PEMEX y Organismos Subsidiarios;
+
+III. Administrar la distribución de software de usuario final a los usuarios de PEMEX y Organismos Subsidiarios;
+
+IV. Llevar a cabo la mejora continua de los niveles de servicio ofrecidos a los usuarios finales de productos y servicios de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+V. Ejecutar y administrar acuerdos operacionales con proveedores externos y niveles de servicio, con las unidades administrativas de negocio de PEMEX y Organismos Subsidiarios;
+
+VI. Coordinar con PEMEX y Organismos Subsidiarios la planeación y evaluación de los requerimientos de servicios de Tecnología de Información;
+
+VII. Proporcionar los servicios de mensajería y colaboración en PEMEX y Organismos Subsidiarios;
+
+VIII. Administrar los contratos de servicios de terceros que apoyan a la prestación de servicios de Tecnología de Información, y
+
+IX. Coordinar la capacitación y entrenamiento de los usuarios finales de Tecnología de Información en PEMEX y Organismos Subsidiarios.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 85 J.- La Gerencia de Operación tendrá las funciones siguientes:
+
+I. Administrar los sistemas de información y aplicaciones de Tecnología de Información de PEMEX y Organismos Subsidiarios;
+
+II. Realizar la administración de cambios en la infraestructura operativa que soporta los productos y servicios de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+III. Realizar la administración de identidad, atributos, roles y perfiles de usuarios de los productos y servicios de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+IV. Operar la administración de cambios y el control de versiones de los programas ejecutables referentes a los sistemas de información y aplicaciones de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+V. Ejecutar, en la infraestructura tecnológica las políticas de seguridad y segregación de funciones requeridas por las unidades administrativas de negocio de PEMEX y Organismos Subsidiarios, y
+
+VI. Administrar la seguridad en el acceso y el control de los usuarios y privilegios en los sistemas de información y aplicaciones de PEMEX y Organismos Subsidiarios.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 85 K.- La Gerencia de Conectividad tendrá las funciones siguientes:
+
+I. Proporcionar soluciones integrales de telecomunicaciones a PEMEX y Organismos Subsidiarios;
+
+II. Administrar, operar, mantener y monitorear los sistemas e infraestructura de telecomunicaciones de PEMEX y Organismos Subsidiarios;
+
+III. Atender las solicitudes y los requerimientos de redes, sistemas y servicios de telecomunicaciones en PEMEX y Organismos Subsidiarios;
+
+IV. Participar en la documentación de casos de negocio de proyectos que, en forma total o parcial, incluyen productos o servicios de transmisión de datos, voz, video y transmisión en tiempo real;
+
+V. Identificar, controlar, disminuir o eliminar los riesgos de seguridad en las redes, sistemas y servicios de telecomunicaciones que soportan los procesos de negocio de PEMEX y Organismos Subsidiarios;
+
+VI. Establecer planes de contingencia y apoyar a PEMEX y Organismos Subsidiarios con servicios de telecomunicaciones en situaciones de emergencia;
+
+VII. Establecer y administrar acuerdos operacionales (OLA Operational Level Agreement) y acuerdos de niveles de servicio, (SLA Service Level Agreeement) con las unidades administrativas de PEMEX y Organismos Subsidiarios, y
+
+VIII. Administrar y supervisar los servicios de telecomunicaciones proporcionados por terceros.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 85 L.- La Gerencia de Administración de Infraestructura tendrá las funciones siguientes:
+
+I. Gestionar y administrar la infraestructura de hardware y software base de PEMEX y Organismos Subsidiarios;
+
+II. Coordinar al interior de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio el desarrollo de los proyectos de infraestructura de PEMEX y Organismos Subsidiarios que atiendan los requerimientos de disponibilidad, capacidad y seguridad;
+
+III. Entregar los servicios base de Tecnología de Información a las unidades administrativas de PEMEX y Organismos Subsidiarios;
+
+IV. Operar los servicios de los centros de cómputo en PEMEX y Organismos Subsidiarios;
+
+V. Desarrollar y ejecutar los mecanismos de seguridad para la integridad, confidencialidad, disponibilidad, respaldo y recuperación de la información almacenada y procesada en la infraestructura tecnológica de PEMEX y Organismos Subsidiarios;
+
+VI. Aplicar los acuerdos operacionales (OLA) y acuerdos de niveles de servicio (SLA) formalizados con las unidades administrativas de negocio de PEMEX y Organismos Subsidiarios;
+
+VII. Configurar, administrar y supervisar la operación de la infraestructura tecnológica y el software base para proporcionar los productos y servicios de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+VIII. Configurar, ejecutar y supervisar la operación de la base de datos de configuraciones, la administración de incidentes y los cambios en la infraestructura tecnológica de PEMEX y Organismos Subsidiarios;
+
+IX. Administrar la continuidad de los servicios de Tecnología de Información en PEMEX y Organismos Subsidiarios, y
+
+X. Administrar y, en su caso, recibir los servicios de soporte a la infraestructura de Tecnología de Información proporcionados por terceros.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+#### Sección Cuarta. De la Subdirección de Integración de Soluciones y Procesos de Negocio
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 85 M.- La Subdirección de Integración de Soluciones y Procesos de Negocio tendrá las funciones siguientes:
+
+I. Facilitar y supervisar la instrumentación del sistema de gestión por procesos de PEMEX y Organismos Subsidiarios;
+
+II. Coordinar con PEMEX y Organismos Subsidiarios el proceso de integración, seguimiento y evaluación del portafolio institucional de proyectos de mejora de procesos de negocio;
+
+III. Facilitar la vinculación de los procesos de negocio con la generación de valor en PEMEX y Organismos Subsidiarios;
+
+IV. Coordinar con las unidades administrativas de negocio el establecimiento de procedimientos y estándares en materia de sistemas técnicos y de ingeniería, e implementar proyectos que atiendan las necesidades específicas de PEMEX y Organismos Subsidiarios;
+
+V. Atender los requerimientos tecnológicos para instrumentar los controles internos en las aplicaciones y sistemas de información de PEMEX y Organismos Subsidiarios;
+
+VI. Administrar y supervisar la configuración y parametrización de los sistemas empresariales de recursos de PEMEX y Organismos Subsidiarios;
+
+VII. Administrar la implementación, en los sistemas empresariales de recursos, de los proyectos de mejora de procesos de negocio de PEMEX y Organismos Subsidiarios;
+
+VIII. Administrar y supervisar los servicios de diseño, desarrollo e implantación de soluciones de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+IX. Administrar el desarrollo, mantenimiento y evolución de aplicaciones y sistemas de información de PEMEX y Organismos Subsidiarios, y
+
+X. Administrar y supervisar los servicios de información geográfica y de automatización industrial en PEMEX y Organismos Subsidiarios.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 85 N.- La Gerencia de Desarrollo tendrá las funciones siguientes:
+
+I. Desarrollar los sistemas de información cuya funcionalidad no esté incluida en las soluciones empresariales de PEMEX y Organismos Subsidiarios;
+
+II. Realizar el mantenimiento preventivo, correctivo y evolutivo de los sistemas y aplicaciones de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+III. Realizar la administración de cambios y el control de versiones en los sistemas y aplicaciones de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+IV. Realizar el aseguramiento de calidad y las pruebas integrales de las soluciones de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+
+V. Atender los requerimientos de mantenimiento de datos en los sistemas y aplicaciones de Tecnología de Información de PEMEX y Organismos Subsidiarios, y
+
+VI. Instrumentar la segregación de funciones en las aplicaciones y sistemas de información de PEMEX y Organismos Subsidiarios.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 85 Ñ.- La Gerencia de Procesos de Negocio tendrá las funciones siguientes:
+
+I. Promover y supervisar, con las unidades administrativas competentes de negocio, la instrumentación del modelo de gestión por procesos de PEMEX y Organismos Subsidiarios;
+
+II. Coordinar la operación de las comisiones asesoras encargadas del diseño y gestión de los procesos de negocio en PEMEX y Organismos Subsidiarios;
+
+III. Analizar, con responsables de los procesos de negocio de PEMEX y Organismos Subsidiarios, las oportunidades de mejora y sistematización, alineándolas con las iniciativas para mejorar la gestión de los procesos;
+
+IV. Instrumentar estrategias y mecanismos para la implementación, operación y evolución de los procesos de negocio y del sistema de gestión por procesos;
+
+V. Participar con las unidades administrativas de PEMEX y Organismos Subsidiarios en la documentación de casos de negocio de proyectos que, en forma total o parcial, incluyen productos, servicios de Tecnología de Información, sistemas de información geográfica o automatización industrial de tiempo real de PEMEX y Organismos Subsidiarios;
+
+VI. Proporcionar al grupo directivo y demás órganos colegiados que integran el sistema de gestión por procesos la asesoría, técnicas, métodos y herramientas de Tecnología de Información para instrumentar el sistema de gestión por procesos en PEMEX y Organismos Subsidiarios;
+
+VII. Coordinar el proceso de integración, seguimiento y administración del portafolio institucional de proyectos de mejora de procesos de negocio de PEMEX y Organismos Subsidiarios;
+
+VIII. Instrumentar la estrategia de gestión del cambio y evolución cultural para la implantación del sistema de gestión por procesos en PEMEX y Organismos Subsidiarios;
+
+IX. Coordinar y promover las interrelaciones entre los procesos que conforman el sistema de gestión por procesos de PEMEX y Organismos Subsidiarios;
+
+X. Coordinar la vinculación de los procesos de negocio con la cadena de valor de PEMEX y Organismos Subsidiarios, y
+
+XI. Coordinar con las áreas internas de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio el desarrollo de sistemas de información o la configuración y parametrización de los sistemas empresariales de recursos requeridos por el sistema de gestión por procesos de PEMEX y Organismos Subsidiarios.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 85 O.- La Gerencia Centro de Competencia tendrá las funciones siguientes:
+
+I. Proporcionar las herramientas, asesoría y apoyo a las unidades administrativas de negocio en el modelado de los procesos incluidos en el sistema de gestión por procesos de PEMEX y Organismos Subsidiarios;
+
+II. Operar el centro de competencia de negocios de PEMEX y Organismos Subsidiarios;
+
+III. Configurar los sistemas empresariales de recursos de PEMEX y Organismos Subsidiarios;
+
+IV. Configurar, en los sistemas empresariales de recursos, las funcionalidades, controles internos y segregación de funciones requeridas por los responsables de los procesos de negocio de PEMEX y Organismos Subsidiarios;
+
+V. Parametrizar los sistemas empresariales de recursos de acuerdo con los requerimientos de los dueños de procesos de negocio de PEMEX y Organismos Subsidiarios;
+
+VI. Operar la administración del contenido de los procesos de negocio en PEMEX y Organismos Subsidiarios;
+
+VII. Verificar que la implementación de sistemas de información en PEMEX y Organismos Subsidiarios esté alineada con sus procesos de negocio, y
+
+VIII. Ejecutar el proceso de mejora continua de las soluciones implementadas en los sistemas empresariales de recursos de PEMEX y Organismos Subsidiarios.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 85 P.- La Gerencia de Automatización Industrial tendrá las funciones siguientes:
+
+I. Planear, desarrollar y operar los sistemas de información geográfica y de la automatización industrial integrada a la plataforma de tiempo real en los procesos industriales de PEMEX y Organismos Subsidiarios;
+
+II. Evaluar técnicamente los proyectos de sistemas de información geográfica y automatización industrial de PEMEX y Organismos Subsidiarios;
+
+III. Coordinar la documentación de casos de negocio de proyectos que incluyan productos o servicios de sistemas de información geográfica y de automatización industrial de PEMEX y Organismos Subsidiarios;
+
+IV. Administrar la plataforma, sistemas, aplicaciones y bases de datos de tiempo real obtenidos de sensores e instrumentos de monitoreo y control en las instalaciones industriales de PEMEX y Organismos Subsidiarios;
+
+V. Desarrollar y administrar interfaces de intercambio de datos de sistemas digitales de monitoreo y control, con la plataforma de tiempo real de PEMEX y Organismos Subsidiarios;
+
+VI. Desarrollar e implementar sistemas técnicos industriales, aplicaciones avanzadas de automatización y tableros de control con información en tiempo real en PEMEX y Organismos Subsidiarios;
+
+VII. Apoyar la operación y proporcionar soporte técnico a la infraestructura tecnológica de automatización industrial de PEMEX y Organismos Subsidiarios, y
+
+VIII. Participar en el diseño, desarrollo y administración de proyectos de sistemas de información geográfica y de automatización industrial de PEMEX y Organismos Subsidiarios.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)
 
 ### Capítulo Cuarto. De la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
 #### Sección Primera. De la Dirección Corporativa
 
-#### Sección Segunda. De la Subdirección de Planeación y Desarrollo de Proyectos
-
-#### Sección Tercera. De la Subdirección de Operaciones de Proyectos
-
-#### Sección Cuarta. De la Subdirección de Proyectos Industriales
-
-### Capítulo Quinto. De la Dirección Corporativa de Operaciones
-
-#### Sección Quinta. De la Subdirección de Proyectos Especiales
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 86.
 
-La Dirección Corporativa de Ingeniería y Desarrollo de Proyectos tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Contribuir al cumplimiento de las metas establecidas en las estrategias institucionales de PEMEX mediante el desarrollo de los proyectos de inversión asignados a la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
-
-II. Coordinar y dar seguimiento a la planeación, organización, dirección y evaluación de las actividades encomendadas a la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
-
-III. Someter a consideración del Director General los programas de trabajo anuales y multianuales de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
-
-IV. Participar en las sesiones directivas de PEMEX que tienen por objetivo la definición de estrategias, desde la planeación hasta la evaluación ex post de proyectos de inversión asignados a la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
-
-V. Promover, suscribir y dar seguimiento a los acuerdos entre la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, las unidades administrativas de PEMEX y los organismos subsidiarios, para el desarrollo y ejecución de los proyectos a cargo de dicha Dirección Corporativa;
-
-VI. Aprobar mecanismos de supervisión, evaluación y control que permitan garantizar que en el desarrollo de los proyectos asignados a la Dirección se observen criterios de eficiencia, eficacia, honestidad y transparencia;
-
-VII. Promover en conjunto con instituciones públicas y privadas, el fortalecimiento y desarrollo de las empresas nacionales relacionadas con la obra pública;
-
-VIII. Aprobar y presentar informes, dictámenes y demás productos que conforme a la normatividad o por solicitud expresa, deban remitirse a las áreas de PEMEX y autoridades competentes;
-
-IX. Instruir a las áreas a su cargo, para instrumentar acciones de atención a los clientes internos y externos para proporcionar en forma oportuna la información requerida, y
-
-X. Dirigir la gestión ante PEMEX y los organismos subsidiarios de los recursos presupuestales necesarios para el desarrollo de los proyectos y la operación de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 87.
 
-La Gerencia de Control de Gestión tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Coordinar, promover y asesorar normativamente la atención y resolución de observaciones de auditorías, revisiones de control y recomendaciones formuladas por órganos fiscalizadores, así como ser enlace con dichos órganos contribuyendo a la oportuna respuesta a sus requerimientos y solventación de sus observaciones;
-
-II. Evaluar, coordinar, atender y actuar como enlace para efectos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
-
-III. Asesorar y participar en la organización, clasificación y conservación de la información pública para cumplir con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
-
-IV. Coordinar la atención y ejecución de los programas y acciones de la Dirección derivadas de los programas gubernamentales, verificando su cumplimiento así como su oportuna remisión a las instancias competentes;
-
-V. Asesorar administrativamente a las áreas internas en la atención de los asuntos que le sean requeridos;
-
-VI. Instrumentar acciones a fin de fortalecer el control interno de las unidades administrativas de la Dirección;
-
-VII. Coordinar las acciones que contribuyan a mejorar y a lograr el cumplimiento de los objetivos de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, a través de indicadores de desempeño;
-
-VIII. Evaluar los riesgos que pudieran afectar la consecución de los objetivos, funciones o actividades de las áreas de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, con el fin de identificar desviaciones y promover la adopción de acciones de mejora tendientes a fortalecer sus mecanismos de control;
-
-IX. Promover la mejora continua supervisando en las áreas de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos el cumplimiento de las recomendaciones preventivas, resultado de las auditorías, intervenciones de control y evaluaciones internas conforme a los procesos y los procedimientos administrativos;
-
-X. Coordinar, atender y dar seguimiento a la estrategia para el diseño de las memorias documentales y la integración de los libros blancos de los proyectos de inversión a cargo de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, que faciliten el acceso a la información y rendición de cuentas, y
-
-XI. Integrar la documentación de soporte para la creación de los libros blancos de los proyectos asignados a la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos y asegurar su resguardo y custodia, así como de toda la documentación generada.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 88.
 
-La Gerencia de Normalización de Contratos de Obra Pública tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Asesorar en materia de normalización de contratos de obra pública al Director Corporativo y a las diversas áreas de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-II. Elaborar, conjuntamente con la Oficina del Abogado General, los convenios relativos a los proyectos a cargo de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-III. Revisar desde el punto de vista normativo, los documentos normativos en materia de obra pública que propongan las unidades administrativas de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
+#### Sección Segunda. De la Subdirección de Planeación y Desarrollo de Proyectos
 
-IV. Coadyuvar con la Oficina del Abogado General, en la celebración de convenios jurídicos y de investigación con distintas entidades;
-
-V. Innovar, homologar y promover métodos y prácticas de trabajo utilizados en los procedimientos de contratación de obras y servicios de PEMEX y organismos subsidiarios;
-
-VI. Crear, organizar, recopilar y mantener actualizadas diversas fuentes documentales relacionadas con la normatividad en materia de obra pública;
-
-VII. Brindar asesoría normativa a las áreas técnicas y administrativas de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, durante el proceso de contratación y ejecución de los proyectos; incluyendo en su caso, la conciliación ante autoridades administrativas competentes, así como la atención de acciones de verificación por los órganos fiscalizadores;
-
-VIII. Establecer y mantener, conjuntamente con la Oficina del Abogado General, los canales de comunicación con las autoridades normativas en materia de obra pública;
-
-IX. Coordinar con la Oficina del Abogado General, la atención de consultas normativas en materia de obra pública de PEMEX y organismos subsidiarios, y
-
-X. Apoyar a la Oficina del Abogado General, en la difusión del marco normativo en materia de obra pública y servicios relacionados con las mismas en PEMEX y organismos subsidiarios.
-
-#### Sección Primera. De la Dirección Corporativa
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 89.
 
-La Subdirección de Planeación y Desarrollo de Proyectos tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Instrumentar un proceso de planeación que permita desarrollar una estrategia de negocios, con base en la previsión de la demanda de trabajo -servicios- de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, la disponibilidad de recursos, internos o contratados, y las condiciones de mercado;
-
-II. Establecer y consolidar un proceso de gestión estratégica, que permita a la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos definir sus líneas estratégicas, comunicarlas a toda la Dirección, formular iniciativas y dar seguimiento a la ejecución de la estrategia;
-
-III. Asegurar que la planeación y la administración de recursos al interior de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, durante el desarrollo de los mecanismos para la aprobación de proyectos, se realicen de manera consistente con las prácticas establecidas por el sistema institucional de desarrollo de proyectos y con base en una alineación de objetivos y prioridades con los clientes de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
-
-IV. Formalizar la participación y el liderazgo de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos en el desarrollo del sistema institucional de desarrollo de proyectos en PEMEX;
-
-V. Coordinar el establecimiento, conjuntamente con las áreas sustantivas de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, de los estándares y prácticas que permitan monitorear el desempeño de la Dirección, así como medir periódicamente los resultados alcanzados;
-
-VI. Dar seguimiento al ejercicio presupuestal para el cumplimiento del programa de ejecución de los proyectos;
-
-VII. Asegurar que se generen iniciativas de mejora de los procesos internos de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos que fortalezcan la gestión de los proyectos asignados en congruencia con el proceso institucional de proyectos;
-
-VIII. Consolidar y reportar la información hacia los organismos, direcciones corporativas y dependencias gubernamentales, con objeto de que éstos dispongan de información oportuna del estado de los proyectos y de su avance físico y financiero, tendencia de costos y problemáticas atendidas, y
-
-IX. Coordinar en el ámbito de su competencia, la implementación de diversas iniciativas institucionales que incidan en la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, para fortalecer su participación funcional en PEMEX, en apoyo a las políticas de PEMEX y organismos subsidiarios.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 90.
 
-La Gerencia de Desarrollo de Proyectos tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Definir las actividades -catálogo de actividades- a realizar en congruencia con los entregables requeridos por el sistema institucional de desarrollo de proyectos, y en su caso, actualizar dichas actividades;
-
-II. Participar en la definición de los programas de trabajo y el presupuesto para el desarrollo de los proyectos, conjuntamente con las áreas encargadas de la ejecución del proyecto;
-
-III. Integrar para el reporte y supervisión del nivel directivo, la información de los programas y el avance de los equipos de proyecto, así como la información de los recursos requeridos para el desarrollo de los proyectos, considerando la integración de los recursos disponibles en la matriz de responsabilidades de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
-
-IV. Dar seguimiento al cumplimiento de los programas y presupuestos de trabajo;
-
-V. Recibir y revisar la información correspondiente a los proyectos que se transfieran por los organismos subsidiarios o las direcciones corporativas, y en su caso, solicitar aclaraciones o requerir información adicional;
-
-VI. Establecer y administrar los mecanismos necesarios para registrar el ingreso de los proyectos asignados por los organismos subsidiarios o las direcciones corporativas;
-
-VII. Instalar y operar un grupo directivo de desarrollo de proyectos cuyo propósito será dar seguimiento al desarrollo de los mecanismos para la aprobación de los proyectos a cargo de la Dirección;
-
-VIII. Promover, conjuntamente con los equipos de proyecto y los organismos subsidiarios o las direcciones corporativas, la alineación de objetivos y actividades;
-
-IX. Evaluar el desempeño de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, en el desarrollo de los proyectos durante la fase de diseño y aprobación;
-
-X. Apoyar, conjuntamente con las áreas de ejecución, a los organismos subsidiarios o a las direcciones corporativas para detectar oportunidades de negocio que potencialmente conduzcan al desarrollo de nuevos proyectos;
-
-XI. Instrumentar los mecanismos de comunicación requeridos para procurar el flujo de información, la retroalimentación y la comunicación en general con los organismos subsidiarios y las direcciones corporativas, durante todas las fases de los proyectos, y
-
-XII. Proponer, coordinar y supervisar la instrumentación de los mecanismos requeridos -encuestas, benchmarking y otros- para medir el desempeño de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos y la satisfacción de los organismos subsidiarios y las direcciones corporativas con respecto a los proyectos asignados.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 91.
 
-La Gerencia de Planeación tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Analizar la cartera de inversión de PEMEX y organismos subsidiarios para estimar la demanda de recursos que se requieran para la ejecución de los proyectos;
-
-II. Realizar las proyecciones de demanda de trabajo de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos y la previsión de los recursos necesarios, internos y externos, requeridos para enfrentarla;
-
-III. Analizar continuamente las condiciones existentes y tendencias del mercado que afecten el desarrollo de proyectos;
-
-IV. Identificar los proyectos susceptibles a ser desarrollados por esta Dirección;
-
-V. Establecer y mantener contacto con las instituciones y empresas que analizan el mercado, proveen metodologías y servicios profesionales relacionados con el desarrollo de proyectos de inversión;
-
-VI. Administrar el registro de las empresas contratistas de ingeniería, construcción, ingeniería procura y construcción, fabricantes de equipos y de materiales típicos de la construcción industrial, con el propósito de conocer su capacidad, cargas de trabajo y su desempeño, tanto en el mercado en general, como en los proyectos ejecutados para PEMEX;
-
-VII. Instrumentar, en conjunto con la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, esquemas de colaboración con instituciones, empresas y otras entidades externas;
-
-VIII. Definir las líneas y objetivos estratégicos, asegurando su alineamiento con los objetivos estratégicos de PEMEX y de los organismos subsidiarios y las direcciones corporativas;
-
-IX. Coordinar con las áreas de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos la definición de los indicadores de los objetivos estratégicos y el establecimiento de metas;
-
-X. Coordinar con las áreas de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos la formulación de iniciativas estratégicas, y
-
-XI. Preparar y coordinar las reuniones de análisis estratégico para dar seguimiento a la ejecución de la estrategia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 92.
 
-La Gerencia de Control de Proyectos tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Establecer las bases para medir el avance de los proyectos y su desempeño a fin de identificar posibles desviaciones;
-
-II. Integrar la información del avance de las actividades de los proyectos revisando que los recursos y el costo vayan de acuerdo a lo planeado;
-
-III. Coordinar el desarrollo de los sistemas de integración de información, para apoyo en el control y seguimiento de los proyectos;
-
-IV. Coordinar con las diversas áreas de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, la integración de la información necesaria para dar seguimiento al avance físico de los proyectos;
-
-V. Coordinar e integrar los requerimientos presupuestales de proyectos a cargo de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, con objeto de proporcionarlos a los organismos subsidiarios y a las direcciones corporativas para su incorporación en el proyecto de Presupuesto de Egresos de la Federación;
-
-VI. Coordinar el seguimiento al ejercicio presupuestal para el cumplimiento del programa de ejecución de los proyectos;
-
-VII. Integrar e informar la disponibilidad presupuestal para cualquier iniciativa de gasto que afecte los proyectos a cargo de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, y
-
-VIII. Gestionar conjuntamente con la Subdirección de Proyectos Industriales, ante los organismos subsidiarios y las direcciones corporativas, las adecuaciones, plurianuales, transferencias o cualquier otra modificación presupuestal necesaria durante la ejecución de proyectos a cargo de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 93.
 
-La Gerencia de Desarrollo de Procesos tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Participar en coordinación con otras direcciones corporativas y con los organismos subsidiarios, en el desarrollo del sistema institucional de desarrollo de proyectos;
-
-II. Definir la estrategia general de desarrollo del sistema institucional de desarrollo de proyectos;
-
-III. Elaborar, actualizar y mejorar el manual del sistema institucional de desarrollo de proyectos;
-
-IV. Crear grupos de trabajo para el desarrollo, revisión e incorporación de mejoras y actualizaciones al sistema institucional de desarrollo de proyectos;
-
-V. Proponer, supervisar y coordinar las tareas que se requieran para asegurar la integridad del sistema institucional de desarrollo de proyectos;
-
-VI. Proponer a los servidores públicos responsables de asegurar la integridad del sistema institucional de desarrollo de proyectos;
-
-VII. Proponer las adecuaciones necesarias al proceso de desarrollo de proyectos con un enfoque de adopción de mejores prácticas;
-
-VIII. Identificar y proponer las fronteras e interrelaciones del proceso de desarrollo de proyectos con otros procesos de la cadena de valor de PEMEX, y
-
-IX. Recibir y consolidar las diversas propuestas e iniciativas de mejora del sistema institucional de desarrollo de proyectos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 94.
 
-La Gerencia de Administración tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Presupuestar, autorizar, controlar, dar seguimiento y evaluar la aplicación de los recursos financieros asignados a los procesos administrativos de los proyectos asignados a la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos para su desarrollo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-II. Administrar y proporcionar los recursos financieros y materiales, así como los servicios generales a las residencias de obras o representaciones que la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos establezcan en centros de trabajo de PEMEX;
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-III. Coordinar la aplicación, control y evaluación de los recursos que se asignen a las representaciones foráneas, para solventar el gasto corriente de los proyectos, vigilando que se realice con apego a la normatividad vigente;
+#### Sección Tercera. De la Subdirección de Operaciones de Proyectos
 
-IV. Elaborar el proyecto de presupuesto que en materia de recursos financieros y materiales le compete desarrollar a la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
-
-V. Controlar y evaluar el ejercicio del presupuesto y verificar que se realice de conformidad a las normas y lineamientos vigentes;
-
-VI. Apoyar a la Oficina del Abogado General en la resolución de conflictos laborales y legales que respecto del personal de la Dirección, se llegaran a presentar;
-
-VII. Coordinar la aplicación del programa de inducción para el personal que ingresa a la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, tanto en el ámbito central como foráneo;
-
-VIII. Elaborar el programa anual de adquisiciones y servicios de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, tomando en consideración tanto las necesidades de las representaciones foráneas como de las diferentes unidades administrativas en el ámbito central;
-
-IX. Determinar las necesidades de los servicios generales que resulten necesarios tanto para las representaciones foráneas en centros de trabajo que ejecutan los proyectos como para la operación de las áreas administrativas en el ámbito central, y
-
-X. Consolidar la información proporcionada por las residencias de obra, en relación con la administración y control de los recursos financieros, humanos, materiales y servicios generales que permitan la oportuna toma de decisiones.
-
-#### Sección Segunda. De la Subdirección de Planeación Estratégica y Operativa
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 95.
 
-La Subdirección de Operaciones de Proyectos tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Coordinar las acciones necesarias para que el alcance solicitado por PEMEX y organismos subsidiarios, en las bases de usuario, sea suficiente y completo para satisfacer sus necesidades, a fin de estar en condiciones de cumplir en tiempo y forma con los servicios convenidos;
-
-II. Participar en los estudios técnicos y económicos necesarios para la definición de los proyectos, para conocer en detalle los requerimientos por parte de las unidades administrativas de PEMEX y de los organismos subsidiarios;
-
-III. Verificar que el presupuesto aprobado para los proyectos sea suficiente para cubrir el alcance comprometido;
-
-IV. Coordinar la elaboración del programa general de proyectos asignados a dicha la (sic) Dirección Corporativa;
-
-V. Instruir lo necesario para que la ingeniería de los proyectos asignados cumpla con los requerimientos técnicos y normativos;
-
-VI. Dirigir la integración oportuna de las bases técnicas de licitación de las obras y servicios para los proyectos asignados a la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
-
-VII. Autorizar los mecanismos para que se proporcione la asistencia relacionada con la ingeniería, a las gerencias de proyectos durante el desarrollo de los proyectos;
-
-VIII. Aprobar los mecanismos para que se cuente con las normas y especificaciones técnicas necesarias para la definición de los proyectos, promoviendo la adopción de las mejores prácticas en desarrollo de proyectos;
-
-IX. Asegurar el control de la documentación de los proyectos para contar con toda la información de los mismos;
-
-X. Asegurar que se realicen los procesos de contratación en el desarrollo de los proyectos con apego a la normatividad aplicable, a fin de evitar controversias y retrasos en los mismos, y
-
-XI. Dirigir la estimación económica de los proyectos y la definición de precios unitarios en base a la oferta del mercado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 96.
 
-La Gerencia de Calidad, Seguridad Industrial y Protección Ambiental tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Establecer los requisitos de calidad, seguridad industrial y protección ambiental para las bases de licitación de cada proyecto;
-
-II. Monitorear el cumplimiento de la normatividad en material de calidad, seguridad industrial y protección ambiental, en todos los contratos;
-
-III. Establecer los perfiles de competencia y metodologías para las actividades de supervisión que permitan verificar el cumplimiento de los requisitos de calidad, seguridad industrial y protección ambiental en el desarrollo de proyectos, en congruencia con las directrices institucionales;
-
-IV. Verificar, en conjunto con la Subdirección de Proyectos Industriales, el cumplimiento del sistema de gestión de calidad en las fases de desarrollo de los proyectos;
-
-V. Participar, en conjunto con la Subdirección de Proyectos Industriales, en la definición, selección y contratación de los servicios de supervisión para el control de calidad de los proyectos y obras;
-
-VI. Asesorar a las áreas de PEMEX en materia de calidad, seguridad industrial y protección ambiental durante la ejecución de los proyectos;
-
-VII. Coordinar la implantación del sistema de gestión de calidad al interior de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, vigilando su congruencia con las diferentes iniciativas institucionales;
-
-VIII. Coordinar la elaboración y ejecución del programa anual de auditorías internas al sistema de gestión de la calidad en la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
-
-IX. Coordinar la certificación y el mantenimiento del sistema de gestión de la calidad en la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
-
-X. Identificar y promover la aplicación de las mejores tecnologías y prácticas en materia de seguridad industrial, salud ocupacional y protección ambiental, en el desarrollo de los proyectos;
-
-XI. Coordinar la elaboración y el seguimiento del programa anual de supervisión, a fin de verificar que el desarrollo de los proyectos se efectúe conforme a las mejores prácticas, tecnologías, normas y disposiciones generales en las materias de seguridad industrial, salud ocupacional y protección ambiental;
-
-XII. Proponer al Director Corporativo de Ingeniería y Desarrollo de Proyectos estrategias para llevar a cabo los procesos de supervisión que en materia de seguridad industrial, salud ocupacional y protección ambiental se realicen a las obras que desarrolla la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, y
-
-XIII. Atender las solicitudes de apoyo que formulen las diferentes unidades administrativas de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, en materia de seguridad industrial, salud ocupacional y protección ambiental.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 97.
 
-La Gerencia de Ingeniería Especializada tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Apoyar al gerente de proyecto en tareas específicas de ingeniería especializada que conjuntamente definan, asignando al personal necesario para su cumplimiento;
-
-II. Desarrollar los recursos humanos, procedimientos, guías y herramientas para apoyar a los proyectos en el desarrollo de la ingeniería;
-
-III. Asignar al personal para el desarrollo de la ingeniería de los proyectos conforme a su plan de desarrollo y ejecución;
-
-IV. Dirigir la adquisición y desarrollo de herramientas que faciliten el desempeño de las funciones de las áreas a su cargo;
-
-V. Verificar que los recursos humanos asignados a los proyectos actúan conforme a los procedimientos establecidos y se desempeñan efectivamente con el equipo de trabajo;
-
-VI. Dirigir la revisión y análisis de las bases de usuario de los proyectos asignados y, en su caso, proponer las adecuaciones pertinentes;
-
-VII. Supervisar el desarrollo y preparación de las bases de diseño y de las especificaciones técnicas particulares de los proyectos;
-
-VIII. Participar en la evaluación técnica de los contratos en el ámbito de su especialidad y emitir una recomendación al responsable, y
-
-IX. Supervisar el desarrollo de las ingenierías, básica y de detalle de los proyectos, para asegurar que cumplan con los requisitos establecidos en las bases de licitación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 98.
 
-La Gerencia de Concursos y Contratos tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Coordinar la homologación y estandarización de los métodos y prácticas de trabajo utilizados en los procedimientos de contratación de obras y servicios de PEMEX y organismos subsidiarios;
-
-II. Coordinar y dar seguimiento a los programas de contratación de obras y servicios de los proyectos asignados a la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
-
-III. Instruir lo necesario para llevar a cabo la contratación de obras y servicios de los proyectos asignados a la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
-
-IV. Coordinar la formalización de los contratos de obras y servicios de los proyectos asignados a la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
-
-V. Coordinar y dar seguimiento a la atención de reclamos, controversias técnicas o administrativas, arbitrajes y conciliaciones que deriven de la administración de los contratos de obra pública y servicios relacionados con las mismas;
-
-VI. Participar, dentro de su ámbito de responsabilidad, en las gestiones para la capitalización de las obras desarrolladas por la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, y
-
-VII. Coordinar dentro de su ámbito de competencia la rendición de informes institucionales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 99.
 
-La Gerencia de Servicios Técnicos tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Desarrollar los recursos humanos, procedimientos, guías y herramientas para apoyar a los proyectos en las áreas de supervisión de trabajos de ingeniería y control de documentos técnicos;
-
-II. Asignar al personal para la supervisión de ingeniería y control de documentos técnicos de los proyectos conforme a su plan de desarrollo y ejecución;
-
-III. Desarrollar al personal de ingeniería para proveer gente capacitada a los proyectos;
-
-IV. Dirigir la adquisición y desarrollo de herramientas que faciliten el desempeño de las funciones de las áreas a su cargo;
-
-V. Verificar que los recursos humanos asignados a los proyectos actúan conforme a los procedimientos establecidos y se desempeñan efectivamente con el equipo de trabajo;
-
-VI. Coordinar la integración del paquete técnico de las bases de licitación;
-
-VII. Coordinar la supervisión de los trabajos de ingeniería contratados por el proyecto, designando a los representantes en la materia;
-
-VIII. Coordinar la participación de las gerencias de la Subdirección de Operación de Proyectos, durante la ejecución, pruebas y arranque de los proyectos, para la correcta aplicación de la ingeniería y análisis de los cambios propuestos;
-
-IX. Coordinar y supervisar la elaboración de los anexos que dentro del ámbito de competencia de la Gerencia le corresponda preparar, para integrar el paquete técnico de las bases de licitación;
-
-X. Dirigir la revisión de la documentación técnica requerida en el ámbito de su competencia, para que las unidades administrativas responsables tramiten los permisos y licencias necesarios para la ejecución de los proyectos;
-
-XI. Dirigir el análisis y estudios técnicos de los cambios a la ingeniería, que se presenten durante el desarrollo de los proyectos, y
-
-XII. Establecer los mecanismos para apoyar a PEMEX y organismos subsidiarios en la elaboración de estudios especiales de ingeniería y en la selección de nuevas tecnologías y equipo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 100.
 
-La Gerencia de Normatividad Técnica tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Operar los mecanismos que permitan la identificación, recopilación, evaluación e integración de la normatividad técnica y las mejores prácticas aplicables a la ingeniería de proyectos;
-
-II. Realizar y participar en la realización de estudios e investigaciones enfocados a la elaboración de especificaciones, normas o procedimientos aplicados en la ingeniería, a fin de coadyuvar a la implementación de mejores prácticas en el desarrollo de proyectos;
-
-III. Supervisar que se integre el expediente técnico de las normas de referencia, relacionadas con la ingeniería de los proyectos, elaboradas por la Gerencia;
-
-IV. Recopilar e integrar las normas oficiales mexicanas, normas mexicanas y normas de referencia (NOM, NMX, NRF), nacionales y extranjeras, para conformar los catálogos de la normatividad aplicable al desarrollo de los proyectos, así como difundirla entre las unidades administrativas de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos y en los organismos subsidiarios;
-
-V. Supervisar que se integren los anexos de la normatividad técnica que forman parte de las bases de licitación de los proyectos;
-
-VI. Definir las capacidades técnicas del personal de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos a fin de establecer los perfiles de los puestos, y
-
-VII. Desarrollar técnicamente al personal de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos para que cuenten con conocimientos actualizados en materia de ingeniería y desarrollo de proyectos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 101.
 
-La Gerencia de Estimación de Proyectos tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Dirigir la elaboración de los estimados de costos de inversión de los proyectos, para verificar que se cuenta con presupuesto suficiente para cubrir el alcance comprometido;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-II. Coordinar con las distintas unidades administrativas involucradas de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos y con los organismos subsidiarios y otras direcciones corporativas, el acopio, actualización y difusión general del marco normativo aplicable a precios unitarios para trabajos por conceptos no previstos en el catálogo original o complementario del contrato -extraordinarios-, a los ajustes de costos y a las evaluaciones de las proposiciones presentadas en las licitaciones;
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-III. Coordinar la estructuración de los catálogos de costos y precios unitarios para la contratación de obras en el ámbito de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
+#### Sección Cuarta. De la Subdirección de Proyectos Industriales
 
-IV. Emitir los pronunciamientos, dentro de su ámbito de responsabilidad, sobre las evaluaciones técnicas y económicas de las proposiciones de las licitaciones celebradas en la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
-
-V. Dirigir la revisión de los precios unitarios contenidos en las proposiciones económicas presentadas por los licitantes, cuando se traten de esquemas de contratación sobre la base de precios unitarios y mixtos en la parte que corresponda;
-
-VI. Determinar la razonabilidad de las proposiciones presentadas por las empresas o consorcios en los procesos licitatorios, cuando el esquema de contratación sea sobre la base de precios unitarios o mixtos en la parte que corresponda;
-
-VII. Establecer el procedimiento operativo que se debe observar para la revisión y autorización de los precios unitarios extraordinarios y factores de ajustes de costos, con la finalidad de normar y estandarizar los criterios empleados por las distintas unidades administrativas de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
-
-VIII. Autorizar, con base en la normatividad vigente y de acuerdo al procedimiento de ajustes de costos establecido en las bases de licitación y acordado por las partes en los contratos, las resoluciones de ajuste de costos resultantes de circunstancias de orden económico no previstas en los contratos e instruir su elaboración y formalización;
-
-IX. Autorizar, con base en la normatividad vigente, los precios unitarios extraordinarios que sean requeridos durante la ejecución de los proyectos;
-
-X. Dirigir el diseño, creación y mantenimiento de una base integral de información del catálogo histórico de precios unitarios;
-
-XI. Coordinar con los organismos subsidiarios, la integración de información de precios unitarios para su difusión y aplicación en PEMEX, y
-
-XII. Establecer mecanismos de coordinación con distintas instancias externas que conforme a sus atribuciones, participan en la determinación y definición de criterios y variantes aplicables a los precios unitarios extraordinarios y a los ajustes de costos.
-
-#### Sección Tercera. De la Subdirección de Operación y Ejecución de la Estrategia
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 102.
 
-La Subdirección de Proyectos Industriales tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Vigilar que los proyectos asignados a la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos se desarrollen integralmente, en apego a la normatividad aplicable, en el tiempo, costo y operabilidad establecidas y con la calidad requerida conforme a los alcances determinados para los mismos;
-
-II. Asegurar que se le brinde a PEMEX y organismos subsidiarios el apoyo necesario en la definición y evaluación de las diferentes opciones para el desarrollo de sus proyectos;
-
-III. Vigilar la atención oportuna, en ámbito de su competencia, de los requerimientos planteados por los organismos subsidiarios, áreas corporativas y entidades fiscalizadoras, incluyendo el apoyo en el desarrollo de proyectos aun no asignados a la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
-
-IV. Instruir la emisión de los informes requeridos por la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, áreas de control y fiscalizadoras, organismos subsidiarios, dependencias y entidades;
-
-V. Promover el desarrollo de herramientas administrativas que permitan un mayor control en las actividades de la Subdirección de Proyectos Industriales;
-
-VI. Solicitar a las unidades administrativas de PEMEX y organismos subsidiarios, la gestión de los recursos presupuestales necesarios para el desarrollo y administración de los proyectos, así como para la operación de la Dirección Corporativa;
-
-VII. Coordinar con los organismos subsidiarios y las direcciones corporativas, la definición de los alcances de los proyectos asignados, y que los costos estimados correspondan a dichos alcances;
-
-VIII. Vigilar que las áreas a su cargo participen de acuerdo a la matriz de responsabilidades de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, en los procedimientos de contratación requeridos para el desarrollo de los proyectos asignados a esta Dirección;
-
-IX. Vigilar que las áreas a su cargo cuenten con los recursos humanos, materiales y financieros requeridos para el desarrollo de los proyectos asignados;
-
-X. Vigilar que las áreas a su cargo atiendan las consultas, aclaraciones o dudas de los organismos subsidiarios o de las direcciones corporativas que se presenten en el desarrollo de los proyectos asignados;
-
-XI. Vigilar que la puesta en marcha de las instalaciones y las pruebas de comportamiento se realicen en coordinación con los organismos subsidiarios y las direcciones corporativas;
-
-XII. Vigilar que las áreas a su cargo realicen los trámites necesarios para la obtención de los permisos requeridos para el desarrollo de los proyectos, ya sea a través de las compañías contratistas o bien, proporcionando la documentación necesaria para que sean obtenidos directamente por los organismos subsidiarios o las direcciones corporativas;
-
-XIII. Realizar las gestiones para la capitalización de las obras desarrolladas por la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, y
-
-XIV. Asignar los recursos humanos de acuerdo a las necesidades de cada proyecto y asegurar el desarrollo de sus capacidades.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 103.
 
-Cada una de las Gerencia (sic) de Proyectos “A”, “B”, “C”, “D”, “E” y “F”, tendrá, en el ámbito de sus respectivos proyectos, las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Desarrollar integralmente los proyectos asignados a la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos en el tiempo, costo y operabilidad establecidas y con la calidad requerida conforme a los alcances determinados, coordinando el equipo multidisciplinario de profesionistas que participará en el desarrollo de dichos proyectos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-II. Vigilar que durante la elaboración de la ingeniería básica y de detalle que se desarrolle bajo la responsabilidad de la Subdirección de Proyectos Industriales, se cumplan los alcances de los proyectos definidos por los organismos subsidiarios y las direcciones corporativas;
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-III. Determinar con los organismos subsidiarios y las direcciones corporativas los alcances de los proyectos asignados a revisar y que los estimados de costos determinados por el área de costos de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos correspondan a dichos alcances;
+#### Sección Quinta. De la Subdirección de Proyectos Especiales
 
-IV. Proporcionar la información requerida por las áreas encargadas de la elaboración de los presupuestos en los organismos subsidiarios y las direcciones corporativas, para que se realicen con oportunidad los trámites de autorizaciones presupuestarias;
-
-V. Participar conforme a lo establecido en la matriz de responsabilidades, de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, en el proceso de adjudicación de los contratos relativos a los proyectos asignados;
-
-VI. Planear integralmente los proyectos en la fase que le corresponde conforme al sistema institucional de desarrollo de proyectos incluyendo la determinación de recursos humanos, materiales y financieros requeridos en el programa de actividades como en su costo correspondiente;
-
-VII. Determinar con los organismos subsidiarios y las direcciones corporativas, las modificaciones que pudieran requerirse durante el desarrollo de los proyectos;
-
-VIII. Atender las consultas, aclaraciones o dudas de los organismos subsidiarios y las direcciones corporativas que se presenten en el desarrollo de los proyectos asignados;
-
-IX. Supervisar y controlar el desarrollo de los trabajos relativos a los proyectos y en su caso, llevar a cabo las acciones correctivas necesarias durante su ejecución;
-
-X. Emitir los informes requeridos por la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, áreas de control y fiscalizadoras, organismos subsidiarios, dependencias y entidades;
-
-XI. Determinar la procedencia de realizar modificaciones contractuales y en su caso, solicitar su formalización;
-
-XII. Coordinar con los organismos subsidiarios y las direcciones corporativas, las actividades de puesta en marcha y pruebas de comportamiento de las instalaciones contempladas en los proyectos asignados;
-
-XIII. Vigilar que los proyectos asignados se ejecuten con apego al sistema de gestión de calidad de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos;
-
-XIV. Proveer a los organismos subsidiarios y las direcciones corporativas, los elementos necesarios para que obtengan los permisos requeridos en el proyecto y realizar su gestión cuando así proceda;
-
-XV. Atender a las instancias internas y externas encargadas de revisar el cumplimiento normativo de los proyectos asignados dentro de su ámbito de competencia, y
-
-XVI. Realizar las gestiones para la capitalización de las obras desarrolladas por la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos.
-
-#### Sección Cuarta. De la Subdirección de Disciplina Operativa, Seguridad, Salud y Protección Ambiental
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 104.
 
-La Subdirección de Proyectos Especiales tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Dirigir el desarrollo de múltiples mega-proyectos de infraestructura simultáneos y relacionados entre sí;
+### Capítulo Quinto. De la Dirección Corporativa de Operaciones
 
-II. Asegurar la adquisición de capacidades y conocimientos en los proyectos;
-
-III. Alinear los procesos con los intereses y objetivos de los organismos subsidiarios y las direcciones corporativas para maximizar el éxito de los proyectos;
-
-IV. Proveer sistemas, procedimientos, metodologías y otras herramientas necesarias para el desarrollo de los proyectos;
-
-V. Coordinar la planeación integral y la ejecución total de los proyectos desde la definición hasta la puesta en marcha;
-
-VI. Integrar y supervisar la interfaz de todos los participantes del proyecto;
-
-VII. Integrar técnicamente las instalaciones con el programa más corto posible y en el menor costo posible para maximizar la tasa interna de retorno de los proyectos;
-
-VIII. Asegurar la ejecución segura de los proyectos y la consecución de los requerimientos de calidad;
-
-IX. Entregar productos conforme a la especificación y capacidad de diseño, y
-
-X. Asegurar la mayor consistencia posible en el diseño y construcción de las instalaciones para mejorar su operación y mantenimiento.
-
-### Capítulo Sexto. De la Oficina del Abogado General
-
-#### Sección Quinta. De la Subdirección de Procesos de Negocio e Infraestructura Tecnológica
+#### Sección Primera. De la Dirección Corporativa
 
 ###### Artículo 105.
 
 La Dirección Corporativa de Operaciones tendrá las funciones siguientes:
 
-I. Dirigir la planeación estratégica y la integración del Plan Estratégico Integral de Negocios de PEMEX y organismos subsidiarios, definiendo criterios metas y lineamientos para su gestión, en concordancia con las disposiciones que establezca el Consejo;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-II. Coordinar la operación de actividades entre organismos para garantizar su coherencia y alineación con el Plan Estratégico Integral de Negocios, así como la de sus programas operativos y de gasto de inversión;
+I. Dirigir la planeación estratégica de PEMEX y Organismos Subsidiarios;
 
-III. Elaborar, en estrecha coordinación con la Dirección Corporativa de Finanzas, el Plan Estratégico Integral de Negocios de PEMEX y organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-IV. Mantener estrecha coordinación con la Dirección Corporativa de Finanzas en la elaboración del programa operativo y financiero anual de trabajo;
+II. Coordinar la operación de actividades entre PEMEX y Organismos Subsidiarios para garantizar su coherencia y alineación con el Plan de Negocios, sus programas operativos y de gasto de inversión, así como verificar la vinculación y la alineación entre la planeación estratégica y la programación operativa y financiera, la presupuestación, los techos de endeudamiento y el portafolio y la cartera de programas y proyectos de inversión;
 
-V. Dirigir la integración de la cartera de proyectos de inversión de PEMEX y organismos subsidiarios, y su jerarquización, con la colaboración de la Dirección Corporativa de Finanzas y la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, conforme a los objetivos del negocio, para la presentación de los que corresponda conocer al Consejo de Administración, por conducto del Director General;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+III. Conducir a PEMEX y Organismos Subsidiarios, en la elaboración del Plan de Negocios, así como definir el escenario que servirá de base para la determinación de los productos de las actividades de planeación estratégica y operativa, presupuesto y análisis de programas y proyectos de inversión;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IV. Dirigir a PEMEX y Organismos Subsidiarios para la integración de la información operativa del Programa Operativo y Financiero Anual de Trabajo, así como de los programas operativos trimestrales o cualquier otro programa operativo institucional que se requiera;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+V. Dirigir a PEMEX y Organismos Subsidiarios en la integración, evaluación y jerarquización del portafolio de proyectos y programas de inversión y la jerarquización de la cartera de programas y proyectos de inversión, conforme a los objetivos estratégicos;
 
 VI. Establecer las directrices para asegurar la disciplina y coordinación operativa de los organismos subsidiarios;
 
-VII. Proponer directrices y coordinar la implantación de las políticas y estrategias institucionales en materia de seguridad Industrial y salud en el trabajo, protección ambiental y desarrollo sustentable, logística, transporte y distribución, suministros, mantenimiento y tecnologías de información;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VIII. Proponer directrices y coordinar la implantación interorganismos de los procesos de seguridad industrial y salud en el trabajo, protección ambiental y desarrollo sustentable, logística, transporte y distribución, suministros, mantenimiento, tecnologías de información, comercialización y gestión de tecnología en PEMEX, sus organismos subsidiarios y, en su caso, filiales;
+VII. Proponer directrices y coordinar la implantación de las políticas y estrategias institucionales en materia de seguridad industrial y salud en el trabajo, protección ambiental y desarrollo sustentable, logística, transporte y distribución, suministros y mantenimiento;
 
-IX. Establecer la política de tecnologías de información, así como coordinar el desarrollo de los sistemas comunes de información del corporativo, previo convenio con los organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-X. Coordinar el proceso de planeación y evaluación de PEMEX y organismos subsidiarios;
+VIII. Proponer directrices y coordinar la implantación interorganismos de los procesos de seguridad industrial y salud en el trabajo, protección ambiental y desarrollo sustentable, logística, transporte y distribución, suministros y mantenimiento en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
 
-XI. Apoyar y coordinar el diseño, ejecución y evaluación de los sistemas institucionales orientados a la mejora de procesos;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-XII. Planear y dirigir el desarrollo y la prestación de servicios de tecnologías de información de PEMEX;
+IX. Conducir el esquema de colaboración y manejo de las relaciones con los proveedores y sectores industriales relacionados con el suministro;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX-A. Establecer y coordinar mecanismos y foros de participación y vinculación con autoridades competentes, cámaras y asociaciones industriales relacionadas con el proceso de suministros;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX-B. Coordinar la implantación de medidas y estrategias en materia de aseguramiento de balances en la cadena de producción, transporte y comercialización;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Coordinar el proceso de planeación estratégica y operativa y evaluación de PEMEX y Organismos Subsidiarios, así como el análisis y desarrollo de sus programas y proyectos de inversión;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XI. Administrar el Sistema Institucional de Desarrollo de Proyectos;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XII. Dirigir las estrategias institucionales en materia de desarrollo sustentable y protección ambiental;
 
 XIII. Dirigir las actividades que PEMEX y organismos subsidiarios deban llevar a cabo en términos de la Ley Federal sobre Metrología y Normalización, y
 
@@ -2373,7 +3019,9 @@ XIV. Proponer directrices y coordinar la implantación de políticas y acciones 
 
 La Gerencia de Normalización tendrá las funciones siguientes:
 
-I. Integrar y difundir un marco normativo dinámico, alineado con los estándares y prácticas internacionales de la industria, considerando la normatividad oficial e interna en la materia, como las políticas, lineamientos, tecnologías, instrumentos administrativos, normalización, estrategias y acciones institucionales que sustenten la mejora del desempeño de la seguridad industrial, salud en el trabajo y protección ambiental, los productos y servicios, tanto de insumos como en comercialización de éstos, y en las demás materias para las cuales existan estándares y normas de la industria;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+I. Integrar, proponer o, en su caso, definir, así como difundir, la normativa alineada con los estándares y prácticas internacionales de la industria, considerando la normatividad oficial e interna en la materia, como las políticas, lineamientos, tecnologías, instrumentos administrativos, normalización, estrategias y acciones institucionales que sustenten la mejora del desempeño de las operaciones y el desarrollo de proyectos, los productos y servicios, tanto de insumos como en comercialización de éstos, y en las demás materias para las cuales existan estándares y normas de la industria;
 
 II. Participar y coordinar con las autoridades competentes, nacionales e internacionales, en la emisión de normatividad y normalización oficial y disposiciones legales relacionadas;
 
@@ -2415,9 +3063,11 @@ XII. Administrar y controlar los activos de la Dirección Corporativa de Operaci
 
 XIII. Coordinar la elaboración, consolidación y administración del presupuesto anual de la Dirección Corporativa de Operaciones, así como controlar y dar seguimiento al ejercicio presupuestal y sus modificaciones, operando los procedimientos establecidos en la materia y manteniendo actualizada la información financiera respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 108.
 
-La Unidad de Desarrollo de Proveedores y Contenido Nacional tendrá las funciones siguientes:
+La Unidad de Desarrollo de Proveedores, Contratistas y Contenido Nacional tendrá las funciones siguientes:
 
 I. Proponer, coordinar y divulgar la estrategia para promover el desarrollo de proveedores y contratistas de PEMEX y organismos subsidiarios, así como el contenido nacional en las contrataciones, privilegiando la generación de valor en PEMEX y organismos subsidiarios, y procurando costos de transacción competitivos;
 
@@ -2429,95 +3079,269 @@ IV. Identificar oportunidades para el desarrollo de proveedores y contratistas, 
 
 V. Proponer las políticas y acciones para promover el desarrollo de proveedores y contratistas y el contenido nacional en las contrataciones de PEMEX y organismos subsidiarios;
 
-VI. Coadyuvar en las acciones de PEMEX y organismos subsidiarios para alcanzar los objetivos planteados en la estrategia de desarrollo de proveedores y contratistas y contenido nacional, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VII. Apoyar a las diversas dependencias e instituciones, públicas y privadas, involucradas en las acciones que realice el fondo para promover el desarrollo de proveedores y contratistas, así como promover esquemas de financiamiento para el desarrollo de proveedores y contratistas.
+VI. Coadyuvar en las acciones de PEMEX y Organismos Subsidiarios para alcanzar los objetivos planteados en la Estrategia de Petróleos Mexicanos para el Desarrollo de Proveedores, Contratistas y Contenido Nacional;
 
-#### Sección Sexta. De la Subdirección de Suministros
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VII. Apoyar a las diversas dependencias e instituciones, públicas y privadas, involucradas en las acciones que realice el fondo para promover el desarrollo de Proveedores y Contratistas, así como promover esquemas de financiamiento para el desarrollo de Proveedores y Contratistas;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VIII. Definir la metodología de cálculo de indicadores relacionados con el contenido nacional, para los bienes, servicios y obra que PEMEX y Organismos Subsidiarios adquieran o contraten, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX. Implementar la metodología para el análisis y selección de Proveedores y Contratistas a ser desarrollados con énfasis en el desarrollo de las pequeñas y medianas empresas.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 108 A.- La Gerencia de Análisis y Selección de Proveedores y Contratistas tendrá las funciones siguientes:
+
+I. Dar a conocer la Estrategia de Petróleos Mexicanos para el Desarrollo de Proveedores, Contratistas y Contenido Nacional, así como elaborar los reportes de avance en su instrumentación;
+
+II. Desarrollar la metodología de cálculo y verificación de indicadores relacionados al contenido nacional, para que las áreas de contratación de PEMEX y Organismos Subsidiarios soliciten a proveedores y contratistas el registro de información sobre los bienes, servicios y obra adquiridos o contratados, según corresponda;
+
+III. Supervisar el seguimiento de indicadores de contenido nacional;
+
+IV. Identificar, en coordinación con las áreas usuarias y de contratación, los bienes y servicios críticos de acuerdo con la Estrategia de Petróleos Mexicanos para el Desarrollo de Proveedores, Contratistas y Contenido Nacional, asociados a la operación de PEMEX y Organismos Subsidiarios;
+
+V. Investigar y consolidar la información sobre la estructura de mercado de los bienes y servicios nacionales e importados que requieren PEMEX y Organismos Subsidiarios, y
+
+VI. Analizar, identificar y proponer, con base en la metodología aplicable, a los proveedores y contratistas actuales o potenciales susceptibles de ser incorporados en la Estrategia de Petróleos Mexicanos para el Desarrollo de Proveedores, Contratistas y Contenido Nacional.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 108 B.- La Gerencia de Desarrollo de Proveedores y Contratistas tendrá las funciones siguientes:
+
+I. Definir el proyecto de desarrollo para los proveedores y contratistas seleccionados, a partir de los análisis y conclusiones de la Gerencia de Análisis y Selección de Proveedores y Contratistas;
+
+II. Establecer, con las áreas usuarias de PEMEX y Organismos Subsidiarios, los requerimientos y parámetros para evaluar al proveedor o contratista una vez que esté desarrollado, a efecto de asegurar la alineación del proyecto de desarrollo a sus necesidades;
+
+III. Definir con el proveedor o contratista los términos y condiciones del proyecto de desarrollo e instrumentarlo;
+
+IV. Supervisar los avances en la instrumentación del proyecto de desarrollo, actualizando sus alcances cuando se requiera;
+
+V. Dar seguimiento al desempeño de los proveedores y contratistas desarrollados contratados, en coordinación con las áreas usuarias y contratantes;
+
+VI. Coordinar la participación de PEMEX y Organismos Subsidiarios, en la aplicación de políticas, programas y acciones enfocados a promover el desarrollo de sus proveedores y contratistas, y
+
+VII. Coordinar la participación de PEMEX y Organismos Subsidiarios en las acciones que realice el fondo constituido en Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, para promover el desarrollo de proveedores y contratistas nacionales para la industria petrolera.
+
+#### Sección Segunda. De la Subdirección de Planeación Estratégica y Operativa
 
 ###### Artículo 109.
 
 La Subdirección de Planeación Estratégica y Operativa tendrá las funciones siguientes:
 
-I. Coordinar la integración del Plan Estratégico Integral de Negocios y los Programas Operativos de PEMEX y organismos subsidiarios, así como sus programas de ejecución, con indicadores, metas y proyectos vinculados a los planes de negocio de los organismos subsidiarios, y dar a su ejecución;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-II. Participar, con la Dirección Corporativa de Finanzas, en la elaboración del programa operativo y financiero anual de trabajo;
+I. Coordinar la elaboración del Plan de Negocios, la integración de la información operativa de los Programas Operativos de PEMEX y Organismos Subsidiarios y sus programas de ejecución, así como definir y coordinar las actividades para llevar a cabo la planeación estratégica y operativa de PEMEX y Organismos Subsidiarios y verificar su cumplimiento;
 
-III. Participar con los organismos subsidiarios y demás unidades administrativas de PEMEX, en la integración, validación y jerarquización de la cartera de proyectos de inversión de PEMEX y organismos subsidiarios, que sirva de base para la revisión anual del Plan Estratégico Integral de Negocios;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-IV. Supervisar la elaboración de los análisis de evaluación técnico-económica de los proyectos de inversión y la verificación de su alineación estratégica;
+II. Coordinar a PEMEX y Organismos Subsidiarios en la elaboración de la propuesta del escenario que servirá de base para la definición de los productos de las actividades de planeación estratégica y operativa, presupuestación y análisis de programas y proyectos de inversión;
 
-V. Dirigir la integración de los programas operativos institucionales y metas de desempeño para su ejecución y seguimiento;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VI. Verificar, en coordinación con la Dirección Corporativa de Finanzas, la consistencia y congruencia de los presupuestos con los programas operativos anuales de los organismos subsidiarios;
+III. Coordinar a PEMEX y Organismos Subsidiarios en la integración, evaluación y jerarquización del portafolio de programas y proyectos de inversión y la jerarquización de la cartera de programas y proyectos de inversión, conforme a los objetivos estratégicos;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+III-A. Validar la alineación de los planes de negocios de los Organismos Subsidiarios con el Plan de Negocios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+III-B. Dirigir la elaboración del diagnóstico de la situación operativa de PEMEX y Organismos Subsidiarios, así como el análisis estratégico y los escenarios del entorno para la elaboración de los productos asociados a la planeación estratégica;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+III-C. Dirigir la integración de los balances operativos multianuales para la elaboración de los escenarios de planeación de mediano y largo plazos del Plan de Negocios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+III-D. Llevar a cabo, con la participación de PEMEX y Organismos Subsidiarios, el seguimiento y la evaluación del cumplimiento de metas de desempeño del Plan de Negocios, del Programa Operativo y Financiero Anual de Trabajo o de cualquier otro producto relacionado con la planeación estratégica y operativa, así como determinar las acciones necesarias a ser ejecutadas por PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+III-E. Verificar, en el ámbito de su competencia y sin perjuicio de la intervención que corresponda a otras instancias, el cumplimiento en la aplicación de la normatividad interna y disposiciones administrativas relativas a la evaluación técnica y económica de los programas y proyectos de inversión de PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IV. Supervisar el análisis y revisión de la documentación técnica y económica de los programas y proyectos de inversión de PEMEX y Organismos Subsidiarios, así como de aquellos que impliquen el uso de recursos de operación, asegurando su vinculación con el Plan de Negocios;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+V. Dirigir a PEMEX y Organismos Subsidiarios en la definición de las metas de desempeño en el Programa Operativo y Financiero Anual de Trabajo, de los programas operativos trimestrales y cualquier otro programa de operación institucional que se requiera, para su ejecución y cumplimiento por parte de PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VI. Verificar la consistencia del presupuesto con la información operativa del Programa Operativo y Financiero Anual de Trabajo y coordinar la realización de los ajustes requeridos;
 
 VII. Promover la generación de valor a través de la supervisión de análisis de mejora operativa;
 
-VIII. Promover y fortalecer la vinculación entre la planeación estratégica, la programación operativa, y la cartera de proyectos de inversión para contribuir al logro de los objetivos estratégicos;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-IX. Proponer y concertar con los organismos subsidiarios y demás unidades administrativas directrices, criterios, mecanismos e instrumentos para la planeación operativa y estratégica. Asimismo, proponer y concertar con los organismos subsidiarios y demás unidades administrativas directrices, criterios, mecanismos e instrumentos para el análisis de proyectos de inversión, conforme los lineamientos que emita el Consejo de Administración y la metodología que expida el Comité correspondiente, y
+VIII. Conducir la vinculación y alineación de la programación operativa y el portafolio de programas y proyectos de inversión, con la planeación estratégica y con el Plan de Negocios;
 
-X. Supervisar la integración de información y elaboración de análisis que requieran las diversas instancias de acreditación de proyectos de inversión en el ámbito de la planeación estratégica y operativa para la definición de proyectos de inversión.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX. Proponer las directrices, criterios, mecanismos e instrumentos para la planeación operativa y estratégica, para el análisis e integración de portafolios y carteras de programas y proyectos de inversión;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX-A. Coordinar la elaboración de los programas que permitan llevar a cabo la ejecución de la estrategia institucional, verificar su cumplimiento y emitir las recomendaciones correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX-B. Coordinar, en el ámbito de su competencia, la integración por parte de PEMEX y Organismos Subsidiarios, de los informes que se requieran presentar ante las instancias competentes, y
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Coordinar la elaboración, integración e implantación en PEMEX y Organismos Subsidiarios, de las estrategias institucionales en materia de desarrollo sustentable y protección ambiental, verificar su cumplimiento y llevar a cabo su seguimiento y control.
 
 ###### Artículo 110.
 
 La Gerencia de Planeación Estratégica tendrá las funciones siguientes:
 
-I. Coordinar la integración del diagnóstico de la situación actual de la empresa y el análisis del entorno en los ámbitos operativo, tecnológico, financiero y administrativo;
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+I. Coordinar a PEMEX y Organismos Subsidiaros en la ejecución de las actividades para llevar a cabo la planeación estratégica;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+I-A. Elaborar, con la participación de PEMEX y Organismos Subsidiarios, el diagnóstico de la situación operativa de éstos, el análisis estratégico y los escenarios del entorno para la elaboración de los productos asociados a la planeación estratégica, así como participar en la elaboración de las proyecciones de demanda de hidrocarburos, sus derivados y otros productos relacionados;
 
 II. Participar en la realización de estudios para la definición de iniciativas y proyectos que conduzcan al logro de los objetivos estratégicos;
 
-III. Elaborar, en coordinación con la Dirección Corporativa de Finanzas, escenarios de evaluación de la estrategia, balances prospectivos operativos y financieros;
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-IV. Integrar, con los organismos subsidiarios y demás unidades administrativas de PEMEX, la cartera estratégica de proyectos de inversión y de mejora de procesos de negocios de PEMEX y, una vez aprobados, los portafolios correspondientes;
+II-A. Integrar y revisar los balances volumétricos multianuales de crudo, gas, productos petrolíferos y petroquímicos que servirán de base para la elaboración de los escenarios de planeación;
 
-V. Formular, en coordinación con los organismos subsidiarios y demás unidades administrativas de PEMEX, el Plan Estratégico Integral de Negocios y el programa de ejecución de la misma con indicadores, metas y proyectos vinculados a los planes de negocio de los organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VI. Proporcionar los elementos y participar en la verificación de la alineación de los proyectos de inversión con los objetivos y metas del Plan Estratégico Integral de Negocios;
+III. Elaborar, en coordinación con las unidades de PEMEX y Organismos Subsidiarios, los escenarios de planeación estratégica y balances prospectivos operativos;
 
-VII. Coordinar el análisis estratégico que permita dar seguimiento y evaluar los avances en la ejecución de la estrategia;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VIII. Proporcionar los elementos para la vinculación de la estrategia con la programación operativa, y
+IV. Integrar, con los Organismos Subsidiarios y demás unidades administrativas de PEMEX, la cartera estratégica de programas y proyectos de inversión y de mejora de procesos de negocios de PEMEX;
 
-IX. Proponer las directrices, mecanismos y herramientas que permitan elaborar el Plan Estratégico Integral de Negocios, darle seguimiento y llevar a cabo evaluación de su ejecución.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+V. Formular, en coordinación con los Organismos Subsidiarios y PEMEX, el Plan de Negocios y el programa de ejecución del mismo, así como evaluar su cumplimiento;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VI. Proporcionar los elementos y participar en la verificación de la alineación de los programas y proyectos de inversión, el Programa Operativo y Financiero Anual de Trabajo y el Balance Financiero, con los objetivos y metas del Plan de Negocios;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VII. Administrar el mecanismo que se establezca para llevar a cabo la gestión de la estrategia;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VIII. Participar en los procesos de planeación estratégica de PEMEX y Organismos Subsidiarios, así como evaluar su desempeño y emitir las recomendaciones correspondientes, y
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX. Proponer las directrices, mecanismos y herramientas que permitan elaborar el Plan de Negocios, darle seguimiento y llevar a cabo la evaluación de su ejecución.
 
 ###### Artículo 111.
 
 La Gerencia de Análisis de Inversiones tendrá las funciones siguientes:
 
-I. Participar en la definición de los proyectos de inversión mediante el análisis de las evaluaciones técnico-económicas de los mismos y con la participación en las instancias de acreditación de proyectos de inversión;
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-II. Realizar la evaluación y análisis técnico-económico de proyectos especiales no incluidos en la cartera de inversiones y que pudieran afectar el desempeño y la posición financiera de PEMEX y organismos subsidiarios;
+I. Integrar con PEMEX y Organismos Subsidiarios el portafolio de programas y proyectos de inversión, verificar su alineación estratégica y realizar su jerarquización conforme a los objetivos estratégicos del Plan de Negocios;
 
-III. Integrar, en coordinación con los organismos subsidiarios y demás áreas del organismo, la cartera de proyectos de inversión de PEMEX y organismos subsidiarios, llevar a cabo su jerarquización y elaborar portafolios que sirvan de base para la asignación de recursos presupuestales;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-IV. Identificar oportunidades para incrementar el valor de PEMEX y verificar la alineación de los proyectos de inversión con los objetivos y metas del Plan Estratégico Integral de Negocios, así como estimar los impactos económicos y operativos sobre las metas estratégicas de corto y mediano plazos que se deriven de las modificaciones a los mismos;
+I-A. Analizar y revisar la documentación técnica y económica de los programas y proyectos de inversión, así como otros proyectos que impliquen el uso de recursos de operación y, en su caso, realizar el registro interno de los mismos en la cartera de programas y proyectos de inversión y asignar la clave única correspondiente, previamente a la solicitud de registro en la cartera que administra la Secretaría de Hacienda y Crédito Público;
 
-V. Proponer criterios y metodologías para el análisis y jerarquización del portafolio de proyectos de inversión de PEMEX y organismos subsidiarios, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VI. Recopilar las mejores prácticas para la evaluación de proyectos, cuantificación de riesgos y optimización de portafolios y evaluar su posible implementación.
+II. Administrar el sistema que integra la documentación técnica y económica de los programas y proyectos de inversión de PEMEX y Organismos Subsidiarios, para fines de su registro interno;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+III. Integrar con PEMEX y Organismos Subsidiarios, la cartera de programas y proyectos de inversión jerarquizada conforme a los objetivos estratégicos, así como elaborar escenarios que sirvan de base para la asignación de recursos presupuestarios;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IV. Identificar oportunidades para incrementar el valor de PEMEX y Organismos Subsidiarios, mediante el análisis de los programas y proyectos de inversión que integran el portafolio y la cartera, así como coordinar la ejecución de acciones para su aprovechamiento;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+V. Elaborar criterios y metodologías para el análisis e integración de portafolios y carteras de programas y proyectos de inversión de PEMEX y Organismos Subsidiarios, así como verificar su cumplimiento, y
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VI. Evaluar, en el ámbito de su competencia y sin perjuicio de la intervención que corresponda a otras instancias, la aplicación de la normatividad interna y disposiciones administrativas para la evaluación técnica y económica de programas y proyectos de inversión en PEMEX y Organismos Subsidiarios.
 
 ###### Artículo 112.
 
 La Gerencia de Análisis y Programación de Operaciones tendrá las funciones siguientes:
 
-I. Definir mecanismos para que los organismos subsidiarios establezcan metas operativas anuales realizables, que guarden consistencia con los objetivos estratégicos de PEMEX;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-II. Supervisar la elaboración de los programas operativos de los organismos subsidiarios y verificar la consistencia y congruencia de la programación con la ejecución de las operaciones y con la planeación estratégica;
+I. Definir mecanismos para que las unidades de PEMEX y Organismos Subsidiarios establezcan metas operativas anuales realizables, que guarden consistencia con los objetivos estratégicos de PEMEX;
 
-III. Supervisar la integración de los programas operativos institucionales para su ejecución y seguimiento;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-IV. Definir los elementos a considerar en la programación de operaciones para lograr la maximización global del valor económico de las operaciones de PEMEX en el corto y mediano plazos;
+II. Integrar la información operativa de PEMEX y Organismos Subsidiarios para la elaboración del Programa Operativo y Financiero Anual de Trabajo, los programas operativos trimestrales y cualquier otro programa operativo que se requiera, verificando su consistencia y congruencia con la ejecución de las operaciones, con el presupuesto y con la planeación estratégica;
 
-V. Identificar oportunidades de generación de valor a nivel global de PEMEX para promover la mejora operativa en el corto y mediano plazos;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VI. Supervisar la elaboración de análisis del gasto operativo, identificar áreas de oportunidad y lograr, en coordinación con la Dirección Corporativa de Finanzas, la vinculación del gasto con el Programa de operación de PEMEX;
+III. Dar seguimiento y evaluar los programas operativos anuales de trabajo para verificar el cumplimiento de las metas de desempeño vinculadas al Plan de Negocios, e integrar los informes correspondientes;
 
-VII. Proponer las herramientas y metodologías para la evaluación de los programas operativos, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VIII. Proponer las directrices, mecanismos y herramientas que permitan llevar a cabo la integración eficiente de los programas operativos de PEMEX con base en los programas de los organismos subsidiarios.
+IV. Definir los elementos a ser considerados por PEMEX y Organismos Subsidiarios en la programación de operaciones, para lograr la maximización global del valor en el corto y mediano plazos y evaluar el cumplimiento de los mismos;
 
-#### Sección Séptima. De la Subdirección de Coordinación del Sistema de Transporte por Ducto
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+V. Identificar oportunidades de generación de valor a nivel global de PEMEX y Organismos Subsidiarios, para promover la mejora operativa en el corto y mediano plazos;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VI. Analizar el gasto de operación, identificar factores de desvinculación con el Programa Operativo Financiero Anual y de Trabajo, y promover mecanismos de vinculación con variables operativas clave;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VII. Proponer las herramientas y metodologías para la evaluación de la programación operativa y verificar su aplicación, y
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VIII. Elaborar las directrices, mecanismos y herramientas que permitan llevar a cabo la integración eficiente de la información operativa de los programas operativos de PEMEX y Organismos Subsidiarios y verificar su cumplimiento.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 112 A. La Gerencia de Desarrollo Sustentable y Ambiental tendrá las funciones siguientes:
+
+I. Elaborar la estrategia de desarrollo sustentable en materia de planeación sustentable, diseño ecoeficiente, acción climática, eficiencia energética y vinculación con partes interesadas;
+
+II. Proponer las prioridades, objetivos, metas e indicadores de la estrategia de desarrollo sustentable;
+
+III. Coordinar la integración de las estrategias de desarrollo sustentable y de protección ambiental en el Plan de Negocios, con la participación de la Gerencia de Protección Ambiental de la Subdirección de Disciplina Operativa, Seguridad, Salud y Protección Ambiental;
+
+IV. Coordinar la incorporación de las prioridades, objetivos, metas e indicadores de la estrategia de desarrollo sustentable en las iniciativas y programas de PEMEX y Organismos Subsidiarios;
+
+V. Apoyar y dar seguimiento a la ejecución de las iniciativas y programas prioritarios de la estrategia de desarrollo sustentable;
+
+VI. Coordinar la evaluación y actualización de las estrategias de desarrollo sustentable y de protección ambiental en el Plan de Negocios, con la participación de la Gerencia de Protección Ambiental de la Subdirección de Disciplina Operativa, Seguridad, Salud y Protección Ambiental;
+
+VII. Proponer soluciones para atender requerimientos en materia de desarrollo sustentable;
+
+VIII. Coordinar la elaboración, verificación y difusión del informe anual de desarrollo sustentable y responsabilidad social, y demás informes requeridos en materia de desarrollo sustentable;
+
+IX. Coordinar la implantación y desarrollo de proyectos de mejora de procesos, sistemas o herramientas en materia de desarrollo sustentable;
+
+X. Ejercer la coordinación institucional en materia de desarrollo sustentable ante las instancias competentes, y
+
+XI. Evaluar el impacto potencial de las prospectivas de políticas públicas de desarrollo sustentable y protección ambiental, y promover la respuesta institucional para anticiparse a los requerimientos normativos.
+
+#### Sección Tercera. De la Subdirección de Operación y Ejecución de la Estrategia
 
 ###### Artículo 113.
 
@@ -2599,7 +3423,7 @@ VI. Verificar la incorporación de las obras críticas en los programas operativ
 
 VII. Analizar las propuestas de creación de plazas temporales por obra determinada en relación a los programas de ejecución de los proyectos de inversión y su estado de cumplimiento.
 
-#### Sección Octava. De la Subdirección de Coordinación de Mantenimiento
+#### Sección Cuarta. De la Subdirección de Disciplina Operativa, Seguridad, Salud y Protección Ambiental
 
 ###### Artículo 117.
 
@@ -2615,9 +3439,25 @@ IV. Conducir la evaluación del cumplimiento normativo y del desempeño en mater
 
 V. Dirigir el sistema de manejo de crisis para la coordinación y atención de contingencias;
 
-VI. Dirigir la elaboración de la normatividad interna en materia de seguridad industrial, salud en el trabajo y protección ambiental, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VII. Apoyar al Director General en la atención de los asuntos que, por su conducto, planteen el Consejo de Administración y sus comités.
+VI. Dirigir la elaboración de la normatividad interna en materia de seguridad industrial, salud en el trabajo y protección ambiental;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VII. Apoyar al Director General en la atención de los asuntos que, por su conducto, planteen el Consejo de Administración y sus comités;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VIII. Establecer y dar seguimiento a estándares, metas e indicadores clave del desempeño e implantación del sistema de seguridad industrial, salud en el trabajo y protección ambiental en PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX. Promover y coordinar la identificación, análisis, evaluación y transferencia de mejores prácticas y tecnologías para la seguridad industrial, salud en el trabajo y protección ambiental, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Definir, coordinar y evaluar el desempeño del proceso de seguridad, salud en el trabajo y protección ambiental y, en su caso, instruir las medidas necesarias para evitar desviaciones y optimizar su implantación.
 
 ###### Artículo 118.
 
@@ -2637,9 +3477,17 @@ VI. Participar, con las autoridades competentes, en todos aquellos temas referen
 
 VII. Coordinar y establecer estrategias para la aplicación y seguimiento de la disciplina operativa durante la ejecución del sistema de administración de seguridad industrial, salud en el trabajo y protección ambiental;
 
-VIII. Mantener, como depositarios del sistema de administración de seguridad industrial, salud en el trabajo y protección ambiental y sus herramientas, la actualización y mejora continua conforme a los estándares internacionales vigentes y a las experiencias derivadas de su aplicación, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-IX. Promover la aplicación del sistema de administración de seguridad industrial, salud en el trabajo y protección ambiental en PEMEX y organismos subsidiarios.
+VIII. Mantener, como depositarios del sistema de administración de seguridad industrial, salud en el trabajo y protección ambiental y sus herramientas, la actualización y mejora continua conforme a los estándares internacionales vigentes y a las experiencias derivadas de su aplicación;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX. Promover la aplicación del sistema de administración de seguridad industrial, salud en el trabajo y protección ambiental en PEMEX y Organismos Subsidiarios, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Establecer e instrumentar la innovación, la adopción de mejores prácticas de negocio y proyectos de mejora del Proceso de Seguridad Industrial, Salud y Protección Ambiental en PEMEX y Organismos Subsidiarios.
 
 ###### Artículo 119.
 
@@ -2651,11 +3499,21 @@ II. Proponer y consensuar con las áreas de auditoría en seguridad industrial, 
 
 III. Revisar y evaluar la conformidad de disposiciones legales, regulaciones y normas en materia de seguridad industrial, salud en el trabajo y protección ambiental, así como proveer soporte técnico a las áreas responsables en los centros de trabajo en la aplicación de las medidas necesarias para su cumplimiento;
 
-IV. Recabar y evaluar el cumplimiento de las metas establecidas en materia de seguridad industrial y salud en el trabajo en PEMEX y organismos subsidiarios; así como evaluar las tendencias de los indicadores de seguridad industrial y salud en el trabajo y emitir los informes y reportes correspondientes, lo cual hará del conocimiento del comité competente del Consejo de Administración, por conducto del Director General, para los efectos que, en su caso, el Consejo determine;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-V. Asesorar y participar, en los grupos de trabajo de seguridad e higiene de la Secretaría del Trabajo y Previsión Social y de la Secretaría de Energía, y
+IV. Integrar los indicadores de desempeño e implantación en materia de seguridad industrial, salud en el trabajo y protección ambiental y evaluar el cumplimiento de las metas establecidas;
 
-VI. Verificar y certificar el cumplimiento de las disposiciones que emita la Secretaría del Trabajo y Previsión Social en materia de seguridad industrial y salud en el trabajo en PEMEX y organismos subsidiarios.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+V. Asesorar y participar, en los grupos de trabajo de seguridad e higiene de la Secretaría del Trabajo y Previsión Social y de la Secretaría de Energía;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VI. Verificar y certificar el cumplimiento de las disposiciones que emita la Secretaría del Trabajo y Previsión Social en materia de seguridad industrial y salud en el trabajo en PEMEX y Organismos Subsidiarios, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VII. Dirigir acciones específicas de evaluación y vigilancia en los Organismos Subsidiarios por desviaciones significativas en los indicadores y metas establecidas en materia de seguridad industrial, salud en el trabajo y protección ambiental, o eventos emergentes de accidentalidad personales e industriales.
 
 ###### Artículo 120.
 
@@ -2673,113 +3531,105 @@ V. Promover y mantener las relaciones externas con los tres niveles de gobierno 
 
 VI. Verificar la existencia y evaluar la efectividad de la operación de los planes de respuesta a emergencias en los centros de trabajo, así como la realización de simulacros;
 
-VII. Definir procedimientos y métodos para la investigación de accidentes e incidentes, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VIII. Participar en la elaboración de los análisis de causa raíz de accidentes significativos y en la difusión de las experiencias operacionales derivadas de los mismos.
+VII. Definir procedimientos y métodos para la investigación de accidentes e incidentes;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VIII. Participar en la elaboración de los análisis de causa raíz de accidentes significativos y en la difusión de las experiencias operacionales derivadas de los mismos;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX. Dirigir en PEMEX y, en su caso, Organismos Subsidiarios, la realización de la investigación de accidentes e incidentes, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Verificar la implantación de las acciones correctivas identificadas en la investigación técnica de accidentes industriales significativos en PEMEX y Organismos Subsidiarios, de conformidad con la normativa aplicable.
 
 ###### Artículo 121.
 
 La Gerencia de Protección Ambiental tendrá las funciones siguientes:
 
-I. Participar en la implantación del subsistema de administración ambiental;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-II. Definir las prioridades institucionales en materia de mejora del desempeño ambiental, de sustentabilidad energética y sustentabilidad del desarrollo petrolero;
+I. Elaborar la estrategia de protección ambiental en materia de emisiones al aire, manejo de agua, manejo de residuos y atención de sitios contaminados acorde con los principales riesgos ambientales identificados por PEMEX y Organismos Subsidiarios;
 
-III. Participar en el diseño, programación y presupuestación de las acciones para la mejora del desempeño ambiental, de sustentabilidad energética y sustentabilidad del desarrollo petrolero;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-IV. Supervisar la ejecución de las acciones para la mejora del desempeño ambiental, de sustentabilidad energética y sustentabilidad del desarrollo petrolero y coadyuvar en su realización;
+II. Proponer las prioridades, objetivos, metas e indicadores de protección ambiental en materia de emisiones al aire, manejo de agua, manejo de residuos y atención de sitios contaminados, acordes con el Plan de Negocios;
 
-V. Coordinar la sistematización y evaluación del desempeño en materia de protección ambiental, de sustentabilidad energética y sustentabilidad del desarrollo petrolero;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VI. Supervisar la incorporación de los aspectos significativos relativos a la mejora del desempeño ambiental, de sustentabilidad energética y sustentabilidad del desarrollo petrolero en la operación del subsistema de administración ambiental;
+III. Asegurar la incorporación de la estrategia de protección ambiental en las iniciativas y programas de PEMEX y Organismos Subsidiarios;
 
-VII. Desarrollar iniciativas y proyectos de mejora normativa y de proceso que mejoren el desempeño ambiental, la sustentabilidad energética y la sustentabilidad del desarrollo petrolero y coordinar su instrumentación, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VIII. Coordinar el diseño, planeación, ejecución y evaluación de la estrategia institucional de vinculación con actores clave de la protección ambiental, de la sustentabilidad energética y la sustentabilidad del desarrollo petrolero, internos y externos, nacionales e internacionales, así como la representación institucional ante autoridades en la materia.
+IV. Supervisar y dar apoyo a la ejecución de las iniciativas y programas prioritarios de la estrategia de protección ambiental, evaluando su desarrollo y desempeño;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+V. Evaluar la estrategia de protección ambiental e instrumentar su mejora continua, en coordinación con la Gerencia de Desarrollo Sustentable y Ambiental de la Subdirección de Planeación Estratégica y Operativa;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VI. Participar en la integración de la estrategia de protección ambiental en el Plan de Negocios, en coordinación con la Gerencia de Desarrollo Sustentable y Ambiental de la Subdirección de Planeación Estratégica y Operativa;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VII. Coordinar la estrategia de implantación, mantenimiento y mejora del subsistema de administración ambiental, en conjunto con unidades administrativas de PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VIII. Coordinar el diagnóstico y diseño de mejoras ambientales en los procesos operativos de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX. Coordinar y participar en el desarrollo e implantación de proyectos de mejora de procesos y sistemas en materia de protección ambiental;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+X. Diseñar y proponer soluciones para atender requerimientos y problemáticas derivados de impactos ambientales significativos o que involucren la participación de dos o más Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XI. Dar seguimiento, soporte y reporte de la gestión ambiental, así como colaborar en la elaboración y comunicación de informes institucionales internos y externos en materia de cumplimiento normativo y desempeño de protección ambiental, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XII. Promover programas de educación en protección ambiental y comunicación de riesgos ambientales para su divulgación interna y externa.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+#### Sección Quinta. De la Subdirección de Procesos de Negocio e Infraestructura Tecnológica
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 122.
 
-La Subdirección de Procesos de Negocio e Infraestructura Tecnológica tendrá las siguientes funciones:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Promover y apoyar la instrumentación y evaluación del sistema de gestión por procesos;
-
-II. Coordinar el proceso de integración, seguimiento y evaluación del portafolio institucional de proyectos de mejora a procesos de negocio y tecnologías de información en PEMEX y organismos subsidiarios;
-
-III. Proponer la política y establecer la estrategia en materia de tecnología de la información y del sistema de información geográfica, así como la arquitectura de tecnologías de información y automatización industrial en PEMEX y organismos subsidiarios;
-
-IV. Coordinar la implementación de la estrategia en materia de tecnología de la información de PEMEX y organismos subsidiarios y la arquitectura de tecnologías de información en PEMEX y organismos subsidiarios y garantizar su innovación constante;
-
-V. Coordinar la prestación de los servicios de tecnologías de información requeridos en PEMEX y evaluar el desempeño de los mismos en los organismos subsidiarios y los niveles de operación de los servicios de telecomunicaciones, que requieren los sistemas informáticos prestados en PEMEX y en los organismos subsidiarios;
-
-VI. Coordinar el diseño, implantación y administración de los servicios comunes de tecnologías de información en PEMEX, entre otros correo electrónico, mesas de ayuda, administración de centros de cómputo, servicios de nombres de dominios (DNS), almacenamiento, y recuperación de información, de portales de internet e intranet;
-
-VII. Autorizar la contratación de bienes y servicios de tecnologías de información de PEMEX, así como el desarrollo de sistemas y la evolución de los ya existentes en PEMEX, que se lleven a cabo con recursos propios o a través de terceros;
-
-VIII. Negociar y formalizar las contrataciones de bienes y servicios relacionados con tecnologías de información que se realicen en esquemas de contratación corporativos, cuando a través de éstos se obtenga un beneficio institucional, y
-
-IX. Integrar el proyecto de presupuesto de tecnologías de información de PEMEX y organismos subsidiarios.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 123.
 
-La Gerencia de Procesos de Negocio tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Planear y coordinar la instrumentación de estrategias y mecanismos para la implementación, operación y evolución del sistema de gestión por procesos en PEMEX y organismos subsidiarios y, en su caso, filiales;
-
-II. Emitir los mecanismos de seguimiento que permitan evaluar el desempeño del sistema de gestión por procesos de PEMEX y organismos subsidiarios y, en su caso, filiales, con el propósito de identificar y avalar mejoras en su funcionamiento;
-
-III. Promover y coordinar la asesoría y apoyo técnico al Grupo Directivo, y demás órganos colegiados que integren el sistema de gestión por procesos, con la definición de técnicas, métodos, lineamientos y herramientas institucionales en materia de gobernabilidad, ingeniería de procesos, portafolio de proyectos de mejora de procesos, coordinación y evolución cultural y supervisar su aplicación;
-
-IV. Coordinar los esfuerzos de análisis y diseño de procesos de las comisiones asesoras, que permita identificar oportunidades de mejora y sistematización y alinear las iniciativas para mejorar la gestión de los procesos e incrementar la eficiencia operativa;
-
-V. Coordinar la integración de proyectos de mejora de procesos en proyectos institucionales, para la conformación del portafolio institucional con el propósito de optimizar el uso de recursos, bajo un contexto de beneficio institucional;
-
-VI. Administrar el repositorio institucional de proyectos de mejora y promover su utilización en la ejecución, control y seguimiento a los programas de trabajo que para tal efecto se definan;
-
-VII. Instrumentar la estrategia de gestión del cambio y evolución cultural, adoptando las mejores prácticas en la materia, para que PEMEX y organismos subsidiarios en su conjunto adopten y gestionen su operación con una orientación hacia procesos;
-
-VIII. Coordinar y promover las interrelaciones entre los procesos para determinar y atender la problemática y necesidades de la operación en PEMEX y organismos subsidiarios con focalización en la calidad de los productos/servicios que se entregan en la cadena cliente-proveedor, y
-
-IX. Coordinar y supervisar el mecanismo de control de cambios técnicos a los sistemas empresariales para asegurar la estandarización de las plantillas en PEMEX y organismos subsidiarios.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 124.
 
-La Gerencia del Centro de Competencia de Sistemas de Información Empresarial tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Coordinar que la implementación de sistemas de información en PEMEX y organismos subsidiarios esté alineada a los procesos de negocio, permitiendo capturar sinergias de la implementación conjunta;
-
-II. Coordinar y participar en la definición, mejora y mantenimiento de los sistemas empresariales establecidos para los procesos de negocio de PEMEX y organismos subsidiarios;
-
-III. Establecer, mantener y coordinar el proceso de mejora continua, de las soluciones que soportan los procesos de negocio;
-
-IV. Analizar, diseñar, desarrollar, instrumentar y mantener sistemas, aplicaciones, soluciones e interfaces para apoyar la gestión de los procesos de suministros, de planeación, presupuestación y evaluación, de mantenimiento, de logística, transporte y distribución, de seguridad, salud y protección ambiental para PEMEX, así como de los procesos administrativos y de soporte propios de la Dirección Corporativa de Operaciones y aquellos que le sean asignados por la Dirección General;
-
-V. Desarrollar, instrumentar y mantener la sistematización de los indicadores operativos, tácticos y estratégicos de la Dirección Corporativa de Operaciones;
-
-VI. Definir, implantar y mantener actualizada la metodología para la evaluación y selección de proyectos de sistematización de procesos de negocio en PEMEX y organismos subsidiarios, y
-
-VII. Definir e instrumentar la normatividad para la sistematización de los procesos de negocio de PEMEX y organismos subsidiarios.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 125.
 
-La Gerencia de Innovación e Infraestructura Tecnológica tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-I. Proporcionar la infraestructura de hardware y software que soporte la operación de los sistemas, soluciones y servicios de información que requieran los procesos de negocio en la Dirección Corporativa de Operaciones;
-
-II. Planear, administrar y proporcionar los servicios de tecnologías de información que soporten la operación de la Dirección Corporativa de Operaciones;
-
-III. Realizar el monitoreo y evaluar la operación de la infraestructura tecnológica y sus niveles de servicio de los sistemas de información que soportan la operación de la Dirección Corporativa de Operaciones;
-
-IV. Definir e implantar los mecanismos de seguridad para garantizar la integridad, confidencialidad y disponibilidad de la información almacenada y procesada en la infraestructura tecnológica que soportan la operación de la Dirección Corporativa de Operaciones;
-
-V. Elaborar la estrategia y arquitectura del proceso de tecnologías de información y comunicaciones, así como de la automatización industrial y los servicios de información geográfica en PEMEX y organismos subsidiarios;
-
-VI. Coordinar la planeación estratégica de tecnologías de información, servicios de información geográfica y automatización industrial en PEMEX y organismos subsidiarios;
-
-VII. Definir y coordinar la arquitectura de tecnologías de información, servicios de información geográfica y automatización industrial que soporte la operación de los procesos de negocio en PEMEX y organismos subsidiarios;
-
-VIII. Definir y mantener actualizada la estrategia, arquitectura y estándares de tecnologías de información, servicios de información geográfica y automatización industrial de PEMEX y organismos subsidiarios, y
-
-IX. Coordinar las contrataciones de bienes y servicios de tecnologías de información.
+#### Sección Sexta. De la Subdirección de Suministros
 
 ###### Artículo 126.
 
@@ -2789,9 +3639,9 @@ I. Coordinar el desarrollo de la estrategia de suministros en PEMEX y organismos
 
 II. Concertar con las unidades administrativas de PEMEX, organismos subsidiarios y en su caso filiales, la aplicación de las estrategias de contratación para el suministro consolidado e intraorganismos, así como realizar las contrataciones corporativas de bienes, arrendamientos y servicios cuando procedan;
 
-III. Coordinar la estrategia para apoyar el desarrollo de proveedores y contratistas y vigilar la aplicación de las reglas y políticas de contenido nacional en PEMEX y organismos subsidiarios;
+III. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-IV. Conducir el esquema de colaboración y manejo de las relaciones con los proveedores, y sectores industriales relacionados con el suministro;
+IV. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
 V. Coordinar la interpretación operativa de la normatividad interna en materia de adquisiciones, arrendamientos y servicios, para PEMEX, organismos subsidiarios y, en su caso, filiales, distinta a la relacionada con actividades sustantivas de carácter productivo, y
 
@@ -2815,17 +3665,25 @@ V. Atender, coordinar y dirigir los trabajos inherentes al Comité Técnico para
 
 La Gerencia de Gestión y Administración de Proveedores y Catálogos tendrá las funciones siguientes:
 
-I. Diseñar estrategias, bajo la coordinación de la Unidad de Desarrollo de Proveedores y Contenido Nacional, para la administración de proveedores de PEMEX, organismos subsidiarios y, en su caso, filiales;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-II. Diseñar y administrar, bajo la coordinación de la Unidad de Desarrollo de Proveedores y Contenido Nacional, el proceso de desarrollo y evaluación del desempeño de suministradores de PEMEX, organismos subsidiarios y, en su caso, filiales;
+I. Diseñar estrategias para la administración de proveedores de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+II. Diseñar y administrar el proceso de desarrollo y evaluación del desempeño de proveedores de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
 
 III. Coordinar y administrar la participación de proveedores en el mercado electrónico de PEMEX, organismos subsidiarios y, en su caso, filiales, con la participación que les corresponda;
 
-IV. Participar, bajo la coordinación de la Unidad de Desarrollo de Proveedores y Contenido Nacional, en las acciones de PEMEX y organismos subsidiarios en materia de desarrollo de proveedores y contratistas;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-V. Atender, coordinar y dirigir los trabajos inherentes a la Comisión Consultiva Mixta de Abastecimiento, del Comité Institucional Interorganismos de la Reserva de los Tratados de Libre Comercio y de la Macrofunción de Adquisiciones del Programa Gubernamental de Transparencia y Rendición de Cuentas;
+IV. Instrumentar el Registro de Proveedores y Contratistas de PEMEX y Organismos Subsidiarios;
 
-VI. Establecer y coordinar mecanismos y foros de participación y vinculación con autoridades competentes, cámaras y asociaciones industriales relacionadas con el proceso de suministros, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+V. Atender, coordinar y dirigir los trabajos inherentes al Comité Institucional Interorganismos de la Reserva de los Tratados de Libre Comercio y de la Macrofunción de Adquisiciones del Programa Gubernamental de Transparencia y Rendición de Cuentas, y (sic)
+
+VI. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
 VII. Apoyar en la interpretación operativa de la normatividad interna o disposiciones administrativas, distintas a las actividades relacionadas con las contrataciones establecidas en el artículo 51 de la Ley.
 
@@ -2845,9 +3703,19 @@ V. Administrar catálogos electrónicos con proveedores estratégicos y establec
 
 VI. Desarrollar esquemas para la estandarización de datos maestros en los catálogos de materiales y de proveedores para su implantación en PEMEX y organismos subsidiarios;
 
-VII. Establecer las reglas para la administración del Catálogo Maestro de materiales central de bienes y servicios, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VIII. Coordinar el diseño, implantación y operación de las soluciones de negocio y de la aplicación de herramientas tecnológicas para la gestión del suministro, en coordinación con la Subdirección de Procesos de Negocio e Infraestructura Tecnológica.
+VII. Establecer las reglas para la administración del Catálogo Maestro de materiales central de bienes y servicios;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VIII. Coordinar el diseño, implantación y operación de las soluciones de negocio, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX. Dar seguimiento al registro en los sistemas transaccionales de los indicadores de contenido nacional.
+
+#### Sección Séptima. De la Subdirección de Coordinación del Sistema de Transporte por Ducto
 
 ###### Artículo 130.
 
@@ -2865,9 +3733,17 @@ V. Participar en la integración y administración de proyectos para optimizar l
 
 VI. Coordinar la atención de requerimientos de información relacionados con la logística, transporte y distribución para promover la transparencia y rendición de cuentas de PEMEX y organismos subsidiarios, atendiendo lo que establezca el comité de transparencia;
 
-VII. Proponer y apoyar las estrategias comerciales para negociar proyectos de expansión de la infraestructura de logística, transporte y distribución, incluyendo alianzas estratégicas, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-VIII. Coadyuvar con las autoridades federales a la definición de precios y tarifas que se apliquen a PEMEX, organismos subsidiarios y, en su caso, filiales en materia de logística, transporte y distribución.
+VII. Proponer y apoyar las estrategias comerciales para negociar proyectos de expansión de la infraestructura de logística, transporte y distribución, incluyendo alianzas estratégicas;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VIII. Coadyuvar con las autoridades federales a la definición de precios y tarifas que se apliquen a PEMEX, Organismos Subsidiarios y, en su caso, filiales en materia de logística, transporte y distribución, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+IX. Asegurar la implantación y la evaluación de las estrategias, acciones y programas que fortalezcan los esfuerzos en materia de aseguramiento de balances en la cadena de producción, transporte y comercialización.
 
 ###### Artículo 131.
 
@@ -2879,7 +3755,7 @@ II. Coordinar la administración de integridad de la infraestructura de logísti
 
 III. Verificar la optimización y homologación de los sistemas de evaluación y administración de integridad y confiabilidad operacional de la infraestructura de logística, transporte y distribución;
 
-IV. Coordinar la ejecución de estudios de vulnerabilidad para identificar áreas de oportunidad en términos de integridad operativa y emitir recomendaciones;
+IV. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
 V. Coordinar acciones conjuntas entre los diferentes procesos involucrados, para administrar la integridad y confiabilidad operacional y para la administración patrimonial de la infraestructura de logística, transporte y distribución;
 
@@ -2905,7 +3781,9 @@ IV. Coordinar la difusión de métodos y/o procedimientos para medir y mejorar e
 
 V. Vigilar el desempeño operativo de las instalaciones involucradas en el proceso de logística, transporte y distribución;
 
-VI. Aprobar el desarrollo y aplicación de modelos logísticos integrales, así como la aplicación de mejores prácticas, herramientas automatizadas homologadas (SCADA) y el uso de tecnología de punta en las operaciones del proceso de logística, transporte y distribución;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+VI. Aprobar el desarrollo y aplicación de modelos logísticos integrales, así como la aplicación de mejores prácticas y el uso de tecnología de punta en las operaciones del proceso de logística, transporte y distribución;
 
 VII. Identificar y promover la implantación y homologación de los indicadores de desempeño operativo, de automatización y medición electrónica para el proceso de logística, transporte y distribución;
 
@@ -2915,15 +3793,35 @@ IX. Vigilar la implementación de las alternativas de operación en casos de eme
 
 X. Promover y dar seguimiento a la observancia obligatoria de la aplicación de normas y estándares en la administración de la medición y calidad de los productos en la transferencia de custodia y control operativo de los procesos;
 
-XI. Integrar y evaluar los balances e inventarios de los productos que maneja el proceso de logística, transporte y distribución;
+XI. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-XII. Controlar y supervisar las actividades del mantenimiento de la infraestructura de hardware y software de automatización, centros de control con la aplicación de mejores prácticas, herramientas automatizadas homologadas (SCADA) y medición electrónica, sistemas de control distribuido y/o sistemas de información que conforman la logística, transporte y distribución, para que éstas se realicen con seguridad y oportunidad, preservando el medio ambiente;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+XII. Supervisar que las actividades de mantenimiento de la infraestructura del proceso de logística, transporte y distribución se realicen con seguridad y oportunidad, preservando el medio ambiente;
 
 XIII. Supervisar los lineamientos homologados para transferencia de información en tiempo real de la aplicación de mejores prácticas, herramientas automatizadas homologadas (SCADA) y que refleje el estado fidedigno de las instalaciones enlazadas al mismo, asegurando que sea completa, confiable y continua;
 
 XIV. Participar en la elaboración de las bases de usuario, bases de diseño, estimado de orden de magnitud, justificación de proyectos, bases de contrato y licitación, para la automatización y medición electrónica, en materia de logística, transporte y distribución, y
 
 XV. Supervisar las políticas y lineamientos para concertar los términos y condiciones generales de los contratos de servicio de logística, transporte y distribución, así como supervisar la ejecución de los aspectos comerciales, servicios al usuario, cumplimiento de los requisitos regulatorios y medición de productos transportados.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 132 A.- La Gerencia de Coordinación Estratégica para el Aseguramiento de Balances tendrá las funciones siguientes:
+
+I. Elaborar y establecer la estrategia institucional para el aseguramiento de balances;
+
+II. Proponer mecanismos de ejecución y evaluación del programa para el aseguramiento de balances;
+
+III. Diseñar, desarrollar, implementar, dar seguimiento, verificar y actualizar el programa para el aseguramiento de balances de PEMEX y Organismos Subsidiarios;
+
+IV. Desarrollar una metodología institucional de medición y calidad que incluya las mejores prácticas, así como la evaluación de balances e inventarios de productos en PEMEX y Organismos Subsidiarios;
+
+V. Promover, coordinar y habilitar iniciativas y proyectos dirigidos a la infraestructura industrial en materia de aseguramiento de balances en la cadena de producción, transporte y comercialización, y
+
+VI. Asegurar la coordinación integral de actividades entre las áreas de PEMEX y Organismos Subsidiarios, y con instituciones externas, en materia de aseguramiento de balances.
+
+#### Sección Octava. De la Subdirección de Coordinación de Mantenimiento
 
 ###### Artículo 133.
 
@@ -3001,9 +3899,119 @@ VI. Participar en la definición de la estrategia para la consolidación y gesti
 
 VII. Participar en la elaboración y evaluación de los proyectos estratégicos para la operación y el mantenimiento de los activos en PEMEX y organismos subsidiarios, para orientar a resultados la aplicación de recursos.
 
-### Capítulo Séptimo. De las Demás Unidades Administrativas de la Estructura Orgánica Básica
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
-### Capítulo Primero. De los Servicios Administrativos Comunes y de los Servicios Especializados que presta Petróleos Mexicanos a sus Organismos Subsidiarios
+Artículo 136 A.- La Subdirección de Desarrollo de Proyectos tendrá las funciones siguientes:
+
+I. Diseñar y coordinar la ejecución, con la participación que corresponda a los Organismos Subsidiarios, del Sistema Institucional de Desarrollo de Proyectos;
+
+II. Coordinar y supervisar el desarrollo, homologación y actualización de los procesos relacionados con la administración y control de los proyectos de inversión de PEMEX y Organismos Subsidiarios;
+
+III. Instrumentar, en conjunto con otras direcciones corporativas y Organismos Subsidiarios, esquemas de colaboración con instituciones, sociedades o asociaciones, públicas o privadas, nacionales o extranjeras, relacionadas al desarrollo de metodologías para la administración y control de los proyectos de inversión;
+
+IV. Proveer a las áreas de desarrollo y ejecución de proyectos de PEMEX y Organismos Subsidiarios información sobre la capacidad, cargas de trabajo y desempeño de los contratistas de ingeniería, procura y construcción;
+
+V. Establecer y supervisar, en conjunto con las áreas ejecutoras de proyectos de PEMEX y Organismos Subsidiarios, los estándares, indicadores y prácticas para el desarrollo y ejecución de los proyectos de inversión;
+
+VI. Coordinar la integración y reportar la información relativa al desarrollo y ejecución de los proyectos de inversión en PEMEX y Organismos Subsidiarios;
+
+VII. Supervisar el desarrollo de metodologías para la elaboración de estimados de costo de inversión de PEMEX y Organismos Subsidiarios;
+
+VIII. Coordinar el desarrollo, homologación, difusión y apoyar la aplicación, en las áreas ejecutoras de proyectos en PEMEX y Organismos Subsidiarios, de los criterios, prácticas y procedimientos para los hitos de revisión, verificación y validación de documentos de ingeniería;
+
+IX. Apoyar a los Organismos Subsidiarios en el análisis tecnológico, en la atención de problemas de ingeniería especializada y en la definición de alcances y estrategias de ejecución;
+
+X. Dirigir el proceso de definición de capacidades, establecimiento de prácticas de medición del desempeño y capacitación del personal asignado a proyectos de inversión en los Organismos Subsidiarios, con la participación que corresponda a la Dirección Corporativa de Administración;
+
+XI. Supervisar la aplicación de las reglas y políticas de contenido nacional en los proyectos de inversión de PEMEX y Organismos Subsidiarios;
+
+XII. Definir y coordinar las actividades que permitan llevar a cabo el proceso de integración de proyectos de inversión de PEMEX y Organismos Subsidiarios, así como verificar su correcta aplicación y cumplimiento;
+
+XIII. Llevar a cabo el seguimiento y la valoración del cumplimiento de metas de desempeño del proceso de proyectos de inversión en PEMEX y Organismos Subsidiarios, así como hacer las recomendaciones pertinentes, y
+
+XIV. Desarrollar y proponer nuevas modalidades de contratación en congruencia con las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 136 B.- La Gerencia de Administración y Control de Proyectos tendrá las funciones siguientes:
+
+I. Asesorar a las áreas ejecutoras de proyectos en la definición y, en su caso, aplicación de la normatividad, prácticas de ingeniería y especificaciones técnicas aplicables al desarrollo de los proyectos de inversión de PEMEX y Organismos Subsidiarios;
+
+II. Establecer estándares para definir el alcance de servicios de ingeniería para los proyectos de inversión y apoyar su aplicación en PEMEX y Organismos Subsidiarios;
+
+III. Apoyar a PEMEX y Organismos Subsidiarios en la revisión del documento de alcance del proyecto en cada una de las etapas del Sistema Institucional de Desarrollo de Proyectos;
+
+IV. Apoyar a PEMEX y Organismos Subsidiarios en la revisión de las bases de usuario de los proyectos, así como en los términos de referencia para la contratación de ingenierías y estudios técnicos;
+
+V. Establecer estándares para definir la información y criterios técnicos para los entregables de ingeniería, en PEMEX y Organismos Subsidiarios;
+
+VI. Analizar, desarrollar y asimilar prácticas de supervisión de ingeniería, promover su incorporación y brindar asesoría en su aplicación en los proyectos de inversión de los Organismos Subsidiarios;
+
+VII. Coordinar la homologación de los procedimientos para la evaluación de tecnologías disponibles;
+
+VIII. Proporcionar servicios para atender problemas específicos de ingeniería especializada que enfrenten los equipos de proyecto de PEMEX y Organismos Subsidiarios;
+
+IX. Desarrollar y mantener un catálogo integral de precios unitarios en proyectos de inversión;
+
+X. Apoyar a PEMEX y Organismos Subsidiarios en la revisión de los estimados de costo elaborados durante las etapas de los proyectos de inversión;
+
+XI. Desarrollar, homologar, establecer, difundir y apoyar la aplicación de procedimientos para la administración de riesgos en el desarrollo de proyectos de PEMEX y Organismos Subsidiarios;
+
+XII. Coordinar el desarrollo, mantenimiento y evaluación de la gestión de calidad de proyectos en PEMEX y Organismos Subsidiarios;
+
+XIII. Desarrollar, homologar, establecer y difundir criterios, prácticas y procedimientos de aseguramiento de la calidad y apoyar su aplicación en las áreas ejecutoras de proyectos en PEMEX y Organismos Subsidiarios;
+
+XIV. Desarrollar, documentar y apoyar la implantación, en las áreas ejecutoras de proyectos en PEMEX y Organismos Subsidiarios, de los criterios, prácticas y procedimientos para definir los hitos de revisión, verificación y validación de documentos de ingeniería;
+
+XV. Promover y administrar iniciativas de mejora continua para el desarrollo de proyectos;
+
+XVI. Administrar el acervo de recursos metodológicos y de lecciones aprendidas para la administración y control de los proyectos de inversión, y
+
+XVII. Integrar y administrar una biblioteca técnica de proyectos de inversión.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 136 C.- La Gerencia de Planeación y Desarrollo de Proyectos tendrá las funciones siguientes:
+
+I. Implementar y coordinar la actualización y mejora del Sistema Institucional de Desarrollo de Proyectos;
+
+II. Definir y actualizar, en su caso, las etapas del Sistema Institucional de Desarrollo de Proyectos;
+
+III. Desarrollar, validar, homologar y difundir los procesos, metodologías, procedimientos, manuales, instructivos, guías y herramientas relacionados con el desarrollo de los proyectos de inversión;
+
+IV. Verificar el cumplimiento de los procesos relacionados con el desarrollo de los proyectos de inversión por parte de las áreas ejecutoras de proyectos de PEMEX y Organismos Subsidiarios;
+
+V. Desarrollar, incorporar y verificar la aplicación de las prácticas institucionales en la administración y control de los proyectos de inversión por parte de las áreas ejecutoras de proyectos en los Organismos Subsidiarios;
+
+VI. Revisar, valorar y dar seguimiento al desempeño del proceso de proyectos de inversión en PEMEX y Organismos Subsidiarios, y emitir las recomendaciones correspondientes;
+
+VII. Integrar la información que se genere como parte de la planeación de proyectos de inversión de PEMEX y Organismos Subsidiarios;
+
+VIII. Recabar, actualizar y evaluar la información sobre la capacidad, cargas de trabajo y desempeño de los contratistas de ingeniería, procura y construcción, fabricantes de equipos y de materiales especiales;
+
+IX. Apoyar a PEMEX y Organismos Subsidiarios en la elaboración de los planes de ejecución de los proyectos;
+
+X. Proponer, coordinar y supervisar la instrumentación en las áreas ejecutoras de proyectos en los Organismos Subsidiarios, de los mecanismos, estándares y prácticas que permitan medir y evaluar el desempeño en el desarrollo y ejecución de los proyectos de inversión, así como realizar la evaluación en aquellos proyectos de gran magnitud y alta prioridad;
+
+XI. Recabar, integrar, dar seguimiento y reportar la información relativa al desarrollo y ejecución de los proyectos de inversión;
+
+XII. Generar metodologías y definir indicadores para medir y evaluar la ejecución de los proyectos de inversión de PEMEX y Organismos Subsidiarios;
+
+XIII. Generar información estadística de la ejecución de los proyectos de inversión de PEMEX y Organismos Subsidiarios;
+
+XIV. Apoyar el desarrollo y capacitación del personal asignado a las áreas ejecutoras de proyectos de inversión de PEMEX y Organismos Subsidiarios;
+
+XV. Dar seguimiento al registro del contenido nacional de los proyectos de inversión en PEMEX y Organismos Subsidiarios, en apoyo a la Unidad de Desarrollo de Proveedores, Contratistas y Contenido Nacional;
+
+XVI. Recabar y reportar la información relativa al pronóstico de la demanda de bienes y servicios vinculados a los proyectos de inversión de PEMEX y Organismos Subsidiarios;
+
+XVII. Promover y verificar la adopción de las mejores prácticas para el desarrollo de los proyectos de inversión por las áreas ejecutoras de proyectos en los Organismos Subsidiarios, y
+
+XVIII. Desarrollar y proponer nuevas modalidades de contratación, en congruencia con las disposiciones aplicables.
+
+### Capítulo Sexto. De la Oficina del Abogado General
+
+### Capítulo Séptimo. De las Demás Unidades Administrativas de la Estructura Orgánica Básica
 
 ###### Artículo 137.
 
@@ -3351,7 +4359,7 @@ XX. Coordinar, en el ámbito de su competencia, las acciones derivadas de asumir
 
 XXI. Coordinar la atención y seguimiento del cumplimiento de los acuerdos adoptados por el Consejo de Administración de Pemex Petroquímica y del Comité de Control y Auditoría relacionados con la Oficina del Abogado General.
 
-### Capítulo Segundo. De la Normatividad de Petróleos Mexicanos
+### Capítulo Primero. De los Servicios Administrativos Comunes y de los Servicios Especializados que presta Petróleos Mexicanos a sus Organismos Subsidiarios
 
 ###### Artículo 147.
 
@@ -3405,7 +4413,7 @@ Con base en lo anterior, la decisión final de qué proyectos se someterán a la
 
 ## TITULO SEPTIMO. DE LOS SERVICIOS Y NORMATIVIDAD INTERNA
 
-### Capítulo Primero. Representación y nombramientos
+### Capítulo Segundo. De la Normatividad de Petróleos Mexicanos
 
 ###### Artículo 150.
 
@@ -3431,7 +4439,7 @@ El Consejo de Administración determinará aquellos servicios especializados que
 
 La contabilidad de los diversos servicios comunes que se presten deberá ser llevada de manera independiente, aun cuando se consoliden en los estados financieros de PEMEX. Para efectos de su presentación al Consejo de Administración, se incluirá en el informe del Director General, un apartado que permita conocer la contabilidad de cada uno de los servicios y del sistema de pensiones.
 
-### Capítulo Segundo. De los Encargados de Despacho por Suplencias
+### Capítulo Primero. Representación y nombramientos
 
 ###### Artículo 155.
 
@@ -3451,7 +4459,7 @@ PEMEX contará con un sistema de registro y difusión de su normatividad y la de
 
 ## TITULO OCTAVO. DE LA REPRESENTACION Y SUPLENCIAS
 
-### Capítulo Primero. Del Comisario
+### Capítulo Segundo. De los Encargados de Despacho por Suplencias
 
 ###### Artículo 159.
 
@@ -3469,7 +4477,7 @@ Los poderes a que se refiere el párrafo cuarto del artículo 5o. de la Ley, se 
 
 Cuando sea necesario, los directivos y personal de PEMEX acreditarán sus funciones, al interior del propio Organismo, con el nombramiento respectivo y las funciones que de conformidad con el presente Estatuto les corresponden.
 
-### Capítulo Segundo. Del Organo Interno de Control
+### Capítulo Primero. Del Comisario
 
 ###### Artículo 162.
 
@@ -3477,11 +4485,13 @@ En sus ausencias, el Director General será suplido por el Director Corporativo 
 
 En toda clase de juicios y procedimientos en que deba intervenir el Director General, incluyendo los de amparo y en materia laboral, será suplido por el Abogado General o, en su defecto, por quien éste designe.
 
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 163.
 
-El Director General designará a los directivos que deban suplir a los directores corporativos y al Abogado General, entre los directivos de jerarquía inmediata inferior del área de que se trate.
+El Director General designará a los directivos que deban suplir a los directores corporativos y al Abogado General, entre los directivos de jerarquía inmediata inferior de PEMEX.
 
-Los subdirectores corporativos y los gerentes serán suplidos en sus ausencias por los servidores públicos de la jerarquía inmediata inferior, en el ámbito de sus respectivas competencias.
+Los subdirectores corporativos y los gerentes serán suplidos en sus ausencias por los servidores públicos de jerarquía inmediata inferior de PEMEX.
 
 ###### Artículo 164.
 
@@ -3496,6 +4506,8 @@ Los encargados de despacho por suplencia sólo tendrán efectos para el trámite
 En caso de no designarse suplente, cada titular de unidad administrativa del servidor público en ausencia, continuará desarrollando las funciones que le corresponden.
 
 ## TITULO NOVENO. DE LA VIGILANCIA DE PETROLEOS MEXICANOS
+
+### Capítulo Segundo. Del Organo Interno de Control
 
 ###### Artículo 167.
 
@@ -3544,3 +4556,33 @@ SEPTIMO.- Para dar cumplimiento a lo establecido en el artículo 154, el Directo
 El presente Estatuto fue aprobado por el Consejo de Administración de PEMEX, con fundamento en el Artículo 19 fracción XXI de la Ley, en sesión 801 extraordinaria celebrada el 4 de septiembre de 2009, mediante acuerdo número CA/102/2009.
 
 Ciudad de México, D.F., a 8 de septiembre de 2009.- El Abogado General de Petróleos Mexicanos, José Néstor García Reza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 9 DE AGOSTO DE 2010.
+
+Primero.- Las presentes reformas, adiciones y derogaciones del Estatuto Orgánico de Petróleos Mexicanos entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en los transitorios siguientes.
+
+Segundo.- La derogación de los artículos 34, en su fracción IV, y 86 a 104 del Estatuto Orgánico de Petróleos Mexicanos, entrará en vigor el 1 de noviembre de 2010.
+
+Dentro del periodo comprendido desde la entrada en vigor de las reformas, adiciones y derogaciones al Estatuto Orgánico de Petróleos Mexicanos, conforme lo dispuesto en el transitorio anterior, hasta el 30 de octubre de 2010, los servidores públicos de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos realizarán las gestiones necesarias y finalizarán las acciones conducentes a efecto de realizar los traspasos; transferencias; sustituciones; trámites; actas; informes y demás actos o actividades que resulten indispensables para dar cumplimiento al proceso de eliminación de dicha dirección, conforme el acuerdo CA-153/2009, del Consejo de Administración de Petróleos Mexicanos.
+
+Asimismo, conforme las áreas de la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos o ésta, queden sin materia y recursos para el ejercicio de sus funciones, deberá tramitarse su eliminación organizacional.
+
+Mientras tanto, la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos, así como sus subdirecciones y gerencias, continuarán a cargo de los proyectos asignados y demás asuntos de su competencia.
+
+Tercero.- La derogación de los artículos 34, en su fracción II, inciso "d", numerales 2 y 3, y en su fracción V, inciso "e", 56, 57, y 122 a 125, del Estatuto Orgánico de Petróleos Mexicanos, entrará en vigor el 1o. de septiembre de 2010. En lo conducente resultará aplicable lo dispuesto en el transitorio anterior. Las funciones que correspondan serán asumidas por la Dirección Corporativa de Tecnología de Información y Procesos de Negocio, conforme el acuerdo CA-002/2010, del Consejo de Administración de Petróleos Mexicanos.
+
+Cuarto.- Los contratos, convenios y demás actos jurídicos celebrados por las áreas que presentan modificaciones, con base en las funciones que hasta la entrada en vigor de las presentes reformas, adiciones y derogaciones, se respetarán en sus términos, salvo lo que, con posterioridad, acuerden las partes respectivas. Lo mismo sucederá con los actos celebrados por las demás áreas de PEMEX y de los Organismos Subsidiarios que presenten transferencias. Lo anterior, con la intervención que corresponda a la Oficina del Abogado General.
+
+Quinto.- La Dirección Corporativa de Finanzas realizará las acciones necesarias para que la determinación de funciones y estructuras del área, derivadas del proceso de reestructura, finalice en diciembre de 2010 y se ejecute de inmediato. Lo anterior, sin perjuicio del ejercicio de las funciones que le correspondan conforme el Estatuto Orgánico de Petróleos Mexicanos.
+
+Sexto.- Las áreas respecto de las cuales, en su caso, se reformen, adicionen o deroguen algunas disposiciones del Estatuto Orgánico de Petróleos Mexicanos, realizarán o formalizarán, según corresponda, cualquier tipo de acto, actividades o documentos necesarios para los traspasos, transferencias, sustituciones y demás que correspondan, de acuerdo con las funciones y estructura del propio Estatuto.
+
+Lo anterior sin perjuicio de que, en todo momento, deberán establecer la coordinación que corresponda con las áreas que resulten competentes, para garantizar, en aquéllos casos que lo amerite, la continuidad en la atención o resolución de los asuntos o servicios a su cargo hasta la entrada en vigor de estas reformas, adiciones y modificaciones.
+
+Séptimo.- La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura no implicará ningún incremento al presupuesto global regularizable de servicios personales o en el número total de plazas de PEMEX y Organismos Subsidiarios.
+
+Octavo.- Los derechos laborales serán respetados en todo momento, de acuerdo con lo que establezcan las disposiciones aplicables.
+
+Noveno.- En los casos que sea necesario, las unidades administrativas correspondientes propondrán las modificaciones a las disposiciones y normas que correspondan.
