@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-defensoria-publica-del-estado-de-quintana-roo-60603"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-11"
-last_updated: "2008-03-11"
+last_updated: "2010-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE DEFENSORIA PUBLICA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 11 de marzo de 2008.
 
@@ -51,11 +51,19 @@ Para la prestación de los servicios que prevé la presente ley, se crea el Inst
 
 El Instituto de la Defensoría Pública del Estado de Quintana Roo, estará integrado por un Director, un Coordinador General, dos Visitadores de Área, la plantilla de Defensores de Oficio y Asistentes Jurídicos, así como además del personal técnico necesario, suficiente para cubrir todas las áreas de competencia jurisdiccional que determine el presupuesto.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 4.
 
-Los servicios de Defensoría Pública, abarcarán los diversos Distritos Judiciales en los que se encuentre dividido el Estado, y se llevarán a cabo a través de:
+Los servicios de Defensoría Pública, abarcarán los diversos distritos judiciales en los que se encuentre dividido el Estado, y se llevarán a cabo a través de:
 
-I. Defensores de oficio en asuntos del orden penal del Fuero Común, desde la averiguación previa, hasta la ejecución de las penas; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+I. Defensores de Oficio en asuntos del orden penal del Fuero Común, y en los delitos contra la salud en su modalidad de narcomenudeo que contemplan los artículos 474, 475, 476 y 477 de la Ley General de Salud y relativos del Código Penal Federal, cuando sean competentes las autoridades de procuración e impartición de justicia, así como de ejecución de penas y medidas de seguridad del Estado, desde la averiguación previa, hasta la ejecución de las penas; y
 
 II. Asistentes Jurídicos en asuntos del orden civil, mercantil y familiar, salvo los expresamente otorgados por la Ley a otras instituciones.
 
@@ -430,3 +438,13 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 ROSARIO ORTIZ YELADAQUI
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE AGOSTO DE 2010.
+
+ÚNICO.- Para los efectos de la entrada en vigor y el cumplimiento de lo dispuesto en el presente Decreto, el Estado deberá atender a lo dispuesto por el párrafo tercero del Artículo Primero Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación en fecha 20 de agosto de 2009.
+
+TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
