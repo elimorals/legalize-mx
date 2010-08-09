@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2008-10-13"
+last_updated: "2010-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -227,9 +227,19 @@ VII.- Celebrar con la Federación los Acuerdos de Coordinación en materia de Sa
 
 VIII.- Promover, coordinar y realizar la evaluación de programas y servicios de salud que tenga bajo su responsabilidad, así como fiscalizar los recursos materiales y humanos para su óptimo aprovechamiento;
 
-IX.- Promover el establecimiento de un sistema de información básico en materia de salud, y
+IX.- Promover el establecimiento de un sistema de información básico en materia de salud, y (sic)
 
-X.- Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que deriven de la ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+X.- Promover, coordinar y realizar la evaluación de programas y servicios de salud relacionados con la prevención del alcoholismo, el tabaquismo y la fármacodependencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+XI.- Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que deriven de la Ley.
 
 B.- En materia de salubridad local:
 
@@ -755,7 +765,11 @@ Para los efectos de esta Ley, se entiende por reclusorio o centro de readaptaci�
 
 Corresponde al Gobierno del Estado integrar, dirigir y administrar en forma permanente los servicios médicos que se presten en reclusorios y centros de readaptación social, a efecto de otorgar oportuna y eficientemente la atención a los internos, para lo cual, los directores de dichas instituciones deberán de proveer de todos los elementos para prevenir y, en su caso, contrarrestar los riesgos y daños en la vida y salud de los internos, pudiendo solicitar el apoyo a la Secretaría de Salud.
 
-En el supuesto de que sea necesaria la hospitalización de alguno de los internos, preferentemente se realizará en establecimientos públicos, de conformidad con las disposiciones legales aplicables, haciéndolo del conocimiento de la autoridad competente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+Corresponde al Gobierno del Estado integrar, dirigir y administrar en forma permanente los servicios médicos, incluida la rehabilitación de la farmacodependencia, que se presten en reclusorios y centros de readaptación social, a efecto de otorgar oportuna y eficientemente la atención a los internos, para lo cual, los directores de dichas instituciones deberán de proveer de todos los elementos para prevenir y, en su caso, contrarrestar los riesgos y daños en la vida y salud de los internos, pudiendo solicitar el apoyo a la Secretaría de Salud.
 
 ###### Artículo 99.
 
@@ -863,6 +877,10 @@ En caso de contar con los servicios complementarios como restaurantes, servicio 
 
 ### CAPITULO XXIII. ESTABLECIMIENTOS PARA LA REHABILITACION DE PERSONAS CON ADICCIONES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 120.
 
 Para los efectos de esta Ley, se entiende por transporte todo aquel vehículo destinado al traslado de carga, de alimentos perecederos y pasajeros, sean cual fuere su medio de propulsión.
@@ -915,7 +933,13 @@ Además de las disposiciones de seguridad que establezcan los ordenamientos lega
 
 Los establecimientos a los que se refiere este Capítulo, deberán presentar aviso de funcionamiento ante la Autoridad Sanitaria y estarán sujetos a verificación.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XXV
+
+PREVENCIÓN Y REHABILITACIÓN DEL ALCOHOLISMO, TABAQUISMO Y LA FÁRMACODEPENDENCIA.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 130.
 
@@ -929,7 +953,7 @@ Los gimnasios deberán dar aviso de funcionamiento ante la Secretaría de Salud,
 
 Se prohíbe la comercialización no autorizada de artículos o productos en el interior de los gimnasios, que atenten contra la salud de las personas.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### Artículo 133.
 
@@ -947,7 +971,7 @@ La limpieza higiene y conservación de las áreas comunes de estos establecimien
 
 Los servicios sanitarios de estos establecimientos, deberán ser suficientes para los usuarios y mantenerse en permanente higiene y buen estado de conservación.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### Artículo 137.
 
@@ -965,19 +989,25 @@ Los puestos semifijos o ambulantes en donde se expendan productos alimenticios, 
 
 La Autoridad Municipal será la responsable de la autorización de estos giros.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 140.
 
-Se entiende por establecimiento para la rehabilitación de personas con adicciones, todo aquél, de carácter público, privado o social, en que se realicen acciones de rehabilitación, asistencia e integración social en personas con adicciones y teniendo como finalidad proporcionar un programa terapéutico dirigido a eliminar la adicción, normalizar su conducta y conseguir su integración social.
+Se entiende por establecimientos especializados en adicciones, a las instituciones de carácter público, privado o social, fijos o móviles, cualquiera que sea su denominación, que proporcionan servicios para la atención específica de personas con consumo perjudicial o adicción a sustancias psicoactivas y que, en cualquier caso, operan bajo un modelo de atención profesional, de ayuda mutua o mixto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 141.
 
-Los establecimientos a que se refiere este Capítulo requieren de licencia sanitaria, y cumplirán los requisitos señalados en el Artículo 16 de esta Ley. Asimismo, deberán contar con un responsable quien deberá ser un profesional de las disciplinas para la salud; las instalaciones serán las adecuadas para una atención oportuna y éticamente responsable, evitando que constituyan un riesgo para las personas, conforme a lo que establezca el Reglamento correspondiente.
+Los establecimientos a que se refiere este capítulo requieren de licencia sanitaria y cumplirán los requisitos señalados en el Artículo 16 de esta Ley. Asimismo, deberán contar con un responsable quien deberá ser un profesional de las disciplinas para la salud; y en el caso de los grupos de ayuda mutua, éste podrá ser un adicto en recuperación, que tenga dos años como mínimo de abstinencia en el consumo de sustancias psicoactivas y en su proceso de rehabilitación; las instalaciones serán las adecuadas para una atención oportuna y éticamente responsable, evitando que constituyan un riesgo para los usuarios, conforme a lo que establezca el Reglamento correspondiente.
 
-La Autoridad Municipal, previa opinión de la Autoridad Sanitaria, determinará los sitios donde se instalen estos establecimientos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
-Corresponde a la Autoridad Sanitaria el control y vigilancia sanitaria de estos giros.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+La Autoridad Sanitaria, aprobará la instalación de estos establecimientos cuando hayan cumplido con las disposiciones correspondientes sobre las instalaciones físicas, de equipamiento y de recursos humanos para su atención, efectuando el control, vigilancia sanitaria y verificación de la aplicación de los lineamientos de rehabilitación y tratamiento conforme a la normatividad vigente.
 
 ###### Artículo 142.
 
@@ -985,7 +1015,7 @@ En estos establecimientos, se garantizará el respeto a los derechos humanos y a
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE OCTUBRE DE 2008)</small>
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 142 Bis 1.
 
@@ -999,11 +1029,109 @@ III.- La realización de Programas de Prevención y Control de Enfermedades Buco
 
 IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud dental de la población.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
+
+###### Artículo 142 Bis 2.
+
+Se crea el Consejo Estatal Contra las Adiciones, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las Adicciones que regula el presente Capítulo, así como proponer y evaluar los programas a que se refieren los Artículos 142 bis 2 y 142 bis 3 de esta Ley. Dicho Consejo estará integrado por el Secretario de Salud, quien lo presidirá, por los titulares de las dependencias y entidades de la Administración Pública Federal y Estatal cuyas atribuciones tengan relación con el objeto del Consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+###### Artículo 142 Bis 3.
+
+La Secretaría de Salud y los Gobiernos Municipales en el ámbito de sus respectivas competencias, se coordinarán para la ejecución del programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
+
+I. La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
+
+II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva, y
+
+III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+Programa Contra el Tabaquismo
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+###### Artículo 142 Bis 4.
+
+La Secretaría de Salud y los Gobiernos Municipales en el ámbito de sus respectivas competencias, se coordinarán para la ejecución del programa contra el tabaquismo que comprenderá, entre otras, las siguientes acciones:
+
+I. La prevención y el tratamiento del tabaquismo y, en su caso, el tratamiento para la cesación del hábito tabáquico;
+
+II. La educación sobre los efectos del tabaco en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva, y
+
+III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el tabaquismo en los grupos de población considerados de alto riesgo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+Programa Contra la Farmacodependencia
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+###### Artículo 142 Bis 5.
+
+La Secretaría de Salud y los Gobiernos Municipales, en el ámbito de sus respectivas competencias, se coordinarán para la ejecución del programa contra la farmacodependencia, a través de las siguientes acciones:
+
+I.- La prevención y el tratamiento de la farmacodependencia y, en su caso, la rehabilitación de los farmacodependientes;
+
+II.- La educación sobre los efectos del uso de estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia, así como sus consecuencias en las relaciones sociales y;
+
+III.- La educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la fármacodependencia y adoptar las medidas oportunas para su prevención y tratamiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+###### Artículo 142 Bis 6.
+
+La Secretaría de Salud elaborará un Programa Estatal contra la fármacodependencia, y lo ejecutará en coordinación con Dependencias y Entidades del Sector Salud y con los Gobiernos Municipales.
+
+Este programa establecerá los procedimientos y criterios para la prevención, tratamiento y control de las adicciones y será de observancia obligatoria para los prestadores de servicios de salud del Sistema Estatal de Salud en todo el territorio y en los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+###### Artículo 142 Bis 7.
+
+Para el tratamiento de los farmacodependientes, la Entidad, deberá crear centros especializados en tratamiento, atención, y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente.
+
+I.- Crear un padrón de instituciones y Organismos Públicos y Privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de adicciones que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen y
+
+La apertura y funcionamiento de centros de rehabilitación y tratamiento requiere de la aprobación de la Secretaría de Salud, quien debe de supervisar periódicamente el funcionamiento de los centros mencionados de la sociedad civil o iniciativa privada, ya que el espíritu de éstos, es combatir las prácticas en la que atentan contra los derechos más elementales de los individuos; por otra parte es pues la Secretaría, la que tiene la potestad de permitir la apertura y/o la clausura de tales establecimientos.
+
+II.- Celebrar Convenios de Colaboración con instituciones de los sectores social y privado y con personas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
+
+Las instituciones mencionadas en el párrafo que antecede, deberán cubrir los mismos requisitos que aquellas instituciones públicas destinadas para tal fin.
+
+En el caso de que a cualquiera de dichas instituciones públicas o privadas haya sido canalizado un fármacodependiente por la Procuraduría General de Justicia Estatal, se deberá informar de manera mensual al servidor público que realizó la remisión, si el fármacodependiente ha cumplido con el tratamiento, así mismo, informará el avance del mismo.
+
 ### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
-### CAPITULO IV. DE LOS RECURSOS ADMINISTRATIVOS
-
 ## TITULO SEXTO. MEDIDAS DE SEGURIDAD Y SANCIONES
+
+### CAPITULO IV. DE LOS RECURSOS ADMINISTRATIVOS
 
 ### CAPITULO V. PRESCRIPCIÓN
 
@@ -1462,3 +1590,9 @@ LIC. MANUEL ANGEL NUÑEZ SOTO.
 P.O. 13 DE OCTUBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente Decreto, una vez realizada su Publicación en el Periódico Oficial del Estado, entrará en vigor el día 20 de agosto del año 2010.
+
+SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
