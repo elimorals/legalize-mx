@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-68321"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-04-27"
-last_updated: "2010-06-07"
+last_updated: "2010-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE CALVILLO, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 27 de abril de 2009.
 
@@ -123,7 +123,7 @@ II.- Villas: El Cuervero, El Chiquihuitero, Fraccionamiento Valle de Huajúcar, 
 
 III.- Poblados: Colomos, El Crucero de las Pilas, El Salitre, El Terrero de la Labor, Jáltiche de Abajo, Ojo de Agua, La Rinconada, La Teresa y Presa de los Serna;
 
-IV.- Rancherías: Arroyo del Ángel, Arroyo de Ojocalientillo, Bajío de Colomos, Barranca de Portales, Barranca del Roble, Cerro Blanco, Col. López Mateos, Ejido Calvillo S. Juárez, El Charcote, El Garruño, El Guayabo, El Huarache, El Llano (San Rafael), EI Maguey, El Ocote, El Papantón, El Puertecito, El Rodeo, El Salitrillo, El Sauz, El Sauz de la Labor, El Taray, El Temazcal, El Tepalcate, El Tepetate de Abajo, El Tepetate de Arriba, El Tepozán, El Terrero del Refugio, El Terrero de la Labor, Fraccionamiento Solidaridad, Jardines de San Isidro, La Calixtina, La Fragua, La Hiedra, La Media Luna, La Primavera, La Rinconada, Las Ánimas, Las Chaveñas, Las Paseras, Las Pilas, Las Tinajas, Los Alisos, Los Cerritos, Los Patos, Mesa de los Pozos, Mesa del Roble, Ojo de Agua de Santos, Palo Alto, Paredes, Piedras Chinas, Pozo de los Artistas, Puerta de Fragua, Río de Gil de Abajo, Río de Gil de Arriba, San Nicolás, Saucillo, Tanque de los Serna, Tepezalilla de Arriba, Tepezalilla de Abajo, Unidad Habitacional Militar, Ventanillas y Zaragoza I.
+IV.- Rancherías: Arroyo del Ángel, Arroyo de Ojocalientillo, Bajío de Colomos, Barranca de Portales, Barranca del Roble, Cerro Blanco, Col. López Mateos, Ejido Calvillo S. Juárez, El Charcote, El Garruño, El Guayabo, El Huarache, El Llano (San Rafael), El Maguey, El Ocote, El Papantón, El Puertecito, El Rodeo, El Salitrillo, El Sauz, El Sauz de la Labor, El Taray, El Temazcal, El Tepalcate, El Tepetate de Abajo, El Tepetate de Arriba, El Tepozán, El Terrero del Refugio, El Terrero de la Labor, Fraccionamiento Solidaridad, Jardines de San Isidro, La Calixtina, La Fragua, La Hiedra, La Media Luna, La Primavera, La Rinconada, Las Ánimas, Las Chaveñas, Las Paseras, Las Pilas, Las Tinajas, Los Alisos, Los Cerritos, Los Patos, Mesa de los Pozos, Mesa del Roble, Ojo de Agua de Santos, Palo Alto, Paredes, Piedras Chinas, Pozo de los Artistas, Puerta de Fragua, Río de Gil de Abajo, Río de Gil de Arriba, San Nicolás, Saucillo, Tanque de los Serna, Tepezalilla de Arriba, Tepezalilla de Abajo, Unidad Habitacional Militar, Ventanillas y Zaragoza I.
 
 ###### Artículo 10.
 
@@ -453,7 +453,7 @@ XXXIX.- Proveer al aseo y saneamiento del Municipio;
 
 > <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
-XL.- Propiciar la cooperación ciudadana para la limpieza de los centros de población del municipio; sin que exista trado diferenciado por razones de género en esta actividad;
+XL.- Propiciar la cooperación ciudadana para la limpieza de los centros de población del municipio; sin que exista trato diferenciado por razones de género en esta actividad;
 
 XLI.- Inspeccionar, vigilar y establecer medidas de seguridad y sanciones administrativas para garantizar el cumplimiento del presente Código;
 
@@ -483,7 +483,7 @@ L (SIC).- Aprobar el programa para prevenir, atender, sancionar y erradicar la v
 
 > <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
-LI.- Construir el mecanismo municipal de adelanto a favor de las mujeres, a fecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones dirigidas al desarrollo de las mujeres del municipio a fin de lograr su plena participación en los ámbitos económico, político, social, cultural y educativo; y
+LI.- Construir el mecanismo municipal de adelanto a efavor de las mujeres, a fecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones dirigidas al desarrollo de las mujeres del municipio a fin de lograr su plena participación en los ámbitos económico, político, social, cultural y educativo; y
 
 > <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
@@ -505,7 +505,7 @@ III.- Apoyar la creación de programas de reeducación integral para los generad
 
 IV.- Promover programas educativos sobre la igualdad entre los géneros para eliminar la violencia contra la mujer;
 
-V.- Apoyar la creación de refugios seguros para las victimas de violencia familiar y sexual;
+V.- Apoyar la creación de refugios seguros para las víctimas de violencia familiar y sexual;
 
 VI.- Participar y coadyuvar en los ejes de acción, de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
@@ -553,7 +553,7 @@ II.- La autodeterminación y libertad de las mujeres;
 
 III.- La igualdad sustantiva entre mujeres y hombres;
 
-IV.- El pluralismo social y la multiculturaIidad de las mujeres; y
+IV.- El pluralismo social y la multiculturalidad de las mujeres; y
 
 V.- La perspectiva de género que permita incorporar a la mujer como sujeto social.
 
@@ -597,11 +597,11 @@ El ejercicio de la función de autoridad, las facultades y atribuciones, el mand
 
 ###### Artículo 32.
 
-El Ayuntamiento del Municipio de Calvillo, residirá en la ciudad del mismo nombre teniendo como sede el Palacio Municipal que se ubica en el lado norte de la Plaza Principal, número ////, sitio en que se ubica el salón de cabildos como recinto oficial para la celebración de sesiones del Ayuntamiento y podrá ubicar su residencia en forma temporal en otro lugar comprendido dentro de los limites territoriales del municipio, previo acuerdo emitido por el voto de las dos terceras partes de sus miembros.
+El Ayuntamiento del Municipio de Calvillo, residirá en la ciudad del mismo nombre teniendo como sede el Palacio Municipal que se ubica en el lado norte de la Plaza Principal, número ////, sitio en que se ubica el salón de cabildos como recinto oficial para la celebración de sesiones del Ayuntamiento y podrá ubicar su residencia en forma temporal en otro lugar comprendido dentro de los límites territoriales del municipio, previo acuerdo emitido por el voto de las dos terceras partes de sus miembros.
 
 ###### Artículo 33.
 
-Serán además recintos oficiales alternos del Ayuntamiento el Políforo Municipal ubicado en el Boulevard Rodolfo Landeros Gallegos número ///, el Domo Cultural y Deportivo ubicado en la margen derecha del río Calvillo y el inmueble ubicado en la esquina sur-oriente que forman las calles Zaragoza y Rayón, lugares en los que podrá reunirse el Cabildo sin necesidad de declaratoria previa en casos de imposibilidad material de los recintos, en el orden establecido.
+Serán además recintos oficiales alternos del Ayuntamiento el Poliforo Municipal ubicado en el Boulevard Rodolfo Landeros Gallegos número ///, el Domo Cultural y Deportivo ubicado en la margen derecha del río Calvillo y el inmueble ubicado en la esquina sur-oriente que forman las calles Zaragoza y Rayón, lugares en los que podrá reunirse el Cabildo sin necesidad de declaratoria previa en casos de imposibilidad material de los recintos, en el orden establecido.
 
 El Ayuntamiento podrá reunirse en cualquiera de estos lugares, sin necesidad de sujeción al orden y sin causa de imposibilidad, por decisión del Presidente Municipal y mediante notificación fehaciente a todos los ediles, sin perjuicio de que el propio Cabildo acuerde reunirse en cualquier otro lugar, por motivo especial.
 
@@ -985,6 +985,10 @@ II.- Cuando el Síndico se niegue a cumplir su función; en este caso, el Presid
 
 La ejecución de las determinaciones del Ayuntamiento y de las demás normas jurídicas aplicables corresponde en el ámbito de lo administrativo al Presidente Municipal, por sí o a través de las dependencias que en los términos legales conforman la administración pública municipal, centralizada y descentralizada.
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+Artículo 78 bis.- El Presidente Municipal y el Secretario de Finanzas, serán los facultados para la aplicación de descuentos, en los impuestos, derechos, productos y/o aprovechamientos establecidos en la Ley de Ingresos del Municipio de Calvillo vigente, descuento que se podrá realizar por el porcentaje y en los términos establecidos en las Bases Generales para el Otorgamiento de Descuentos de los Ingresos Establecidos en la Ley de Ingresos del Municipio de Calvillo, Ags., vigente.
+
 ### CAPÍTULO VI. De los Regidores
 
 ###### Artículo 79.
@@ -1225,7 +1229,7 @@ Las resoluciones de las Comisiones se tomarán por mayoría de votos.
 
 ###### Artículo 106.
 
-Las reuniones de Comisión se realizarán a citación fehaciente hecha con una anticipación minima de seis horas, sin perjuicio de que la Comisión pueda reunirse en cualquier tiempo, sin convocatoria previa, siempre que esté la totalidad de sus integrantes.
+Las reuniones de Comisión se realizarán a citación fehaciente hecha con una anticipación mínima de seis horas, sin perjuicio de que la Comisión pueda reunirse en cualquier tiempo, sin convocatoria previa, siempre que esté la totalidad de sus integrantes.
 
 ###### Artículo 107.
 
@@ -1263,7 +1267,7 @@ Son atribuciones del Secretario de Comisión:
 
 I.- Preparar, con el auxilio del órgano de asesoría jurídica municipal, los textos de los dictámenes que deban elaborarse por la Comisión;
 
-II.-.Tomar lista de asistencia, recabar la firma de los ediles asistentes a las sesiones respectivas y certificar el quórum;
+II.- Tomar lista de asistencia, recabar la firma de los ediles asistentes a las sesiones respectivas y certificar el quórum;
 
 III.- Firmar, en unión del Presidente, los dictámenes que emita la Comisión, así como todos los documentos que emanen de la misma;
 
@@ -1815,7 +1819,7 @@ III.- Verificado el quórum legal, se declara instalada la sesión, sin perjuici
 
 IV.- Se presenta al Ayuntamiento el proyecto del orden del día y se recibirán y discutirán las objeciones al mismo y resueltas se continuará la sesión conforme al orden aprobado;
 
-V.- Se da lectura al acta de la sesión inmediata anterior, la cual puede omitirse al contar con un ejemplar de la misma cada uno de los ediles y la Secretaría recibirá y resolverá las observaciones yen su caso, se aprobarán o rechazarán;
+V.- Se da lectura al acta de la sesión inmediata anterior, la cual puede omitirse al contar con un ejemplar de la misma cada uno de los ediles y la Secretaría recibirá y resolverá las observaciones y en su caso, se aprobarán o rechazarán;
 
 VI.- Se da lectura y turno de comunicaciones e iniciativas en el orden siguiente:
 
@@ -3411,9 +3415,9 @@ XLI.- Vigilar que los servicios que proporciona el rastro a los usuarios, se hag
 
 XLII.- Controlar los espacios públicos destinados a cementerio, así como los espacios destinados a la inhumación de cadáveres;
 
-XLlII.- Aplicar, en el ámbito de competencia municipal, la legislación en materia de inhumaciones y exhumaciones;
+XLIII.- Aplicar, en el ámbito de competencia municipal, la legislación en materia de inhumaciones y exhumaciones;
 
-XLlV.- Expedir títulos de propiedad, permisos de exhumación, inhumación, y construcción en los cementerios municipales;
+XLIV.- Expedir títulos de propiedad, permisos de exhumación, inhumación, y construcción en los cementerios municipales;
 
 XLV.- Realizar el mantenimiento preventivo y correctivo en los cementerios y, supletoriamente, en las fosas tumbas y criptas de propiedad o en uso de particulares; y
 
@@ -3783,7 +3787,7 @@ En el Municipio habrá Subdelegaciones Municipales en San Tadeo, El Chiquihui-te
 
 ###### Artículo 349.
 
-Los Subdelegados serán nombrados por el Presidente Municipal y estarán bajo su mando e instrucciones, a través de la coordinación de comunidades y colonias en todos los asuntos de competencia de la Subdelegación y sólo pueden ejercer las facultades propias de su cargo dentro de las comunidades y en su caso limites territoriales que determine el Ayuntamiento.
+Los Subdelegados serán nombrados por el Presidente Municipal y estarán bajo su mando e instrucciones, a través de la coordinación de comunidades y colonias en todos los asuntos de competencia de la Subdelegación y sólo pueden ejercer las facultades propias de su cargo dentro de las comunidades y en su caso límites territoriales que determine el Ayuntamiento.
 
 ###### Artículo 350.
 
@@ -3929,7 +3933,7 @@ XI.- Impulsar, con apoyo de las diversas agrupaciones, ligas y clubes, la constr
 
 XII.- Impulsar, promover y apoyar a los deportistas discapacitados en la práctica del deporte, procurando la adecuación de las instalaciones deportivas del Municipio, a fin de facilitar su libre acceso y desarrollo;
 
-Xlll.- Canalizar las aptitudes de los jóvenes sobresalientes, procurando los espacios que reúnan las condiciones suficientes para su preparación y, de esa manera, estén en aptitudes de participar en eventos a nivel regional, estatal y nacional;
+XIII.- Canalizar las aptitudes de los jóvenes sobresalientes, procurando los espacios que reúnan las condiciones suficientes para su preparación y, de esa manera, estén en aptitudes de participar en eventos a nivel regional, estatal y nacional;
 
 XIV.- Establecer la coordinación interinstitucional con las dependencias del sector salud y de apoyo social, a fin de proporcionar a los jóvenes, servicios de orientación psicológica y vocacional, de prevención contra las adicciones, así como la orientación de la educación sexual;
 
@@ -3963,7 +3967,7 @@ VIII.- Consejeros ciudadanos, que serán todas aquellas personas que habiten en 
 
 El Presidente Honorario del Comité Municipal del Deporte atenderá los asuntos siguientes:
 
-I.- Presidir las sesiones del Comité Municipal de Calvillo, Ags o en caso de ausencia le corresponderá al Presidente Ejecutivo del Comité Municipal del Deporte;
+I.- Presidir las sesiones del Comité Municipal de Calvillo, Ags. o en caso de ausencia le corresponderá al Presidente Ejecutivo del Comité Municipal del Deporte;
 
 II.- Tendrá el voto decisorio;
 
@@ -4033,7 +4037,7 @@ Los acuerdos tomados tendrán el carácter de definitivos y de observancia gener
 
 ###### Artículo 384.
 
-Para la celebración de las sesiones del Comité Municipal del Deporte de Calvillo, Ags, se emitirá convocatoria por el Presidente Municipal, o en su caso, por el Secretario Técnico cuando se encuentre autorizado para ello. A la convocatoria se acompañará el orden del día, así como el apoyo documental de los asuntos a tratar que se hará llegar a los miembros con una antelación a la fecha de la cita no menor de ocho días hábiles, excepto en sesiones extraordinarias se citará cuando menos con dos días hábiles de anticipación.
+Para la celebración de las sesiones del Comité Municipal del Deporte de Calvillo, Ags., se emitirá convocatoria por el Presidente Municipal, o en su caso, por el Secretario Técnico cuando se encuentre autorizado para ello. A la convocatoria se acompañará el orden del día, así como el apoyo documental de los asuntos a tratar que se hará llegar a los miembros con una antelación a la fecha de la cita no menor de ocho días hábiles, excepto en sesiones extraordinarias se citará cuando menos con dos días hábiles de anticipación.
 
 ###### Artículo 385.
 
@@ -4049,7 +4053,7 @@ II.- El Secretario informará sobre la asistencia de los titulares y suplentes p
 
 III.- Los suplentes deberán entregar su oficio de comisión firmado por el titular;
 
-IV.- En caso de estar presentes más de la mitad de los miembros de Comité Municipal del Deporte de Calvillo, Ags, el Secretario Técnico informará que existe quórum legal y el Presidente Municipal declarará formalmente iniciados los trabajos de la sesión, en caso contrario se cancelará la sesión y se convocará a una nueva;
+IV.- En caso de estar presentes más de la mitad de los miembros de Comité Municipal del Deporte de Calvillo, Ags., el Secretario Técnico informará que existe quórum legal y el Presidente Municipal declarará formalmente iniciados los trabajos de la sesión, en caso contrario se cancelará la sesión y se convocará a una nueva;
 
 V.- El Presidente Municipal dará a conocer el orden del día y solicitará su aprobación económica a los miembros de Comité Municipal del Deporte de Calvillo, Ags;
 
@@ -4063,7 +4067,7 @@ IX.- Después de presentar el contenido de cada punto del orden día, se atender
 
 X.- Para que un punto de acuerdo sea aprobado deberá obtener la mayoría de los votos computables;
 
-XI.- Se podrá proponer al Presidente Municipal por el Comité Municipal del Deporte de Calvillo, Ags que en determinado asunto se vote mediante el empleo de cédula, sobretodo en asuntos que requieran guardar reserva acerca del sentido en que vota cada uno de sus integrantes; y
+XI.- Se podrá proponer al Presidente Municipal por el Comité Municipal del Deporte de Calvillo, Ags. que en determinado asunto se vote mediante el empleo de cédula, sobretodo en asuntos que requieran guardar reserva acerca del sentido en que vota cada uno de sus integrantes; y
 
 XII.- Una vez agotado el orden del día, el Presidente Municipal de Comité Municipal del Deporte de Calvillo, Ags. declarará clausurados los trabajos de la sesión, mencionando fecha y hora.
 
@@ -4281,7 +4285,7 @@ El Director será nombrado por el Presidente Municipal de Calvillo, Aguascalient
 
 I.- Ser ciudadano Mexicano (a), con pleno ejercicio de sus derechos civiles y políticos;
 
-II.-.Acreditar no haber sido condenado por delito intencional alguno, ni estar sujeto a proceso penal o, inhabilitado para desempeñar un cargo público;
+II.- Acreditar no haber sido condenado por delito intencional alguno, ni estar sujeto a proceso penal o, inhabilitado para desempeñar un cargo público;
 
 III.- Tener su domicilio en el Municipio de Calvillo, Aguascalientes;
 
@@ -5275,7 +5279,7 @@ El Archivo General Municipal de Calvillo, es la dependencia encargada de resguar
 
 I.- Archivo: Conjunto orgánico documental, que es producido o recibido en el ejercicio cotidiano para el que está destinado por las diversas Secretarías y Departamentos municipales.
 
-II.-.Archivo de Concentración: Responsable de la administración de documentos cuya consulta, por parte de las Secretarías y Departamentos municipales, es esporádica.
+II.- Archivo de Concentración: Responsable de la administración de documentos cuya consulta, por parte de las Secretarías y Departamentos municipales, es esporádica.
 
 III.- Archivo de Trámite: Aquel en el cual se encuentra la documentación en etapa activa en las diferentes oficinas de la Presidencia Municipal, su uso es cotidiano y necesario para el ejercicio de las atribuciones de cada Secretaría y Departamento municipal.
 
@@ -5435,7 +5439,7 @@ A) CONCENTRACIÓN.- Donde realizará las siguientes funciones:
 
 I.- Recibir de los archivos de trámite la documentación semiactiva.
 
-II.-.Conservar precautoriamente la documentación semiactiva hasta cumplir su vigencia documental conforme al catálogo de disposición documental, o al cumplir su periodo de reserva.
+II.- Conservar precautoriamente la documentación semiactiva hasta cumplir su vigencia documental conforme al catálogo de disposición documental, o al cumplir su periodo de reserva.
 
 III.- Solicitar a la Secretaría de Gobierno (o dependencia a la que pertenezca el archivo), y con el visto bueno de la unidad administrativa generadora, la liberación de los expedientes para determinar su destino final.
 
@@ -5453,7 +5457,7 @@ B) HISTÓRICO.- Donde realizará las siguientes funciones:
 
 I.- Elaborar el cuadro general de clasificación, el catálogo de disposición documental y el inventario general.
 
-II.-.Validar la documentación que deba conservarse permanentemente por tener valor histórico.
+II.- Validar la documentación que deba conservarse permanentemente por tener valor histórico.
 
 III.- Recibir los documentos con valor histórico enviados por el archivo de concentración.
 
@@ -6021,7 +6025,7 @@ El conductor a utilizar en los sistemas de alumbrado público debe cumplir con l
 
 ###### Artículo 614.
 
-El cableado de toda instalación nueva de alumbrado público deberá hacerse en forma subterránea alojándose en poliducto de polivinil de cloruro del diámetro adecuado de acuerdo a los calibres de los conductores. El poliducto deberá de colocarse a una profundidad minima de veinticinco centímetros de profundidad de las banquetas y camellones y de cincuenta centímetros en el arroyo de las calles. En colonias populares o de interés social el cableado podrá ser aéreo, dependiendo de las posibilidades económicas de la administración Municipal.
+El cableado de toda instalación nueva de alumbrado público deberá hacerse en forma subterránea alojándose en poliducto de polivinil de cloruro del diámetro adecuado de acuerdo a los calibres de los conductores. El poliducto deberá de colocarse a una profundidad mínima de veinticinco centímetros de profundidad de las banquetas y camellones y de cincuenta centímetros en el arroyo de las calles. En colonias populares o de interés social el cableado podrá ser aéreo, dependiendo de las posibilidades económicas de la administración Municipal.
 
 ###### Artículo 615.
 
@@ -6081,7 +6085,7 @@ La utilización de lámparas de vapor de mercurio, luz mixta, yodo-cuarzo, aditi
 
 En zonas rurales y habitacionales urbanas la potencia de las lámparas será de ciento cincuenta watts.
 
-Por excepción en las vialidades importantes por su flujo vehícular y/o peatonal la potencia será de doscientos cincuenta watts.
+Por excepción en las vialidades importantes por su flujo vehicular y/o peatonal la potencia será de doscientos cincuenta watts.
 
 ###### Artículo 626.
 
@@ -6117,7 +6121,7 @@ Los registros pueden ser prefabricados de concreto armado o construidos en el mi
 
 ###### Artículo 631.
 
-Los registros deberán de tener una dimensión interior mínima de treinta centímetros cuadrados y una profundidad minima de sesenta centímetros. Para asegurar un buen drenaje los registros no llevarán fondo y se colocará un filtro de grava y arena de treinta centímetros de espesor en la parte inferior.
+Los registros deberán de tener una dimensión interior mínima de treinta centímetros cuadrados y una profundidad mínima de sesenta centímetros. Para asegurar un buen drenaje los registros no llevarán fondo y se colocará un filtro de grava y arena de treinta centímetros de espesor en la parte inferior.
 
 ###### Artículo 632.
 
@@ -6211,7 +6215,7 @@ I.- Altura de montaje: de cuatro a seis metros;
 
 II.- Tipo de lámpara: vapor de sodio de alta presión;
 
-III.- Potencia minima: ciento cincuenta watts;
+III.- Potencia mínima: ciento cincuenta watts;
 
 IV.- Cristal: termotemplado claro o esmerilado;
 
@@ -6403,7 +6407,7 @@ I.- BARRIDO MANUAL.- Recolección de residuos sólidos dispersos en vía públic
 
 II.- BARRIDO MECÁNICO.- Recolección de residuos sólidos dispersos en vía pública, áreas de uso común, avenidas, etc., en el interior del municipio y que se realiza por medio de maquinaria (barredoras);
 
-III.- BASURA Y/O RESIDUO SÓLlDO.- Todo desecho orgánico o inorgánico que resulte de actividades domésticas, comerciales, industriales o recreativas, cuya calidad no permita usarlos nuevamente en el proceso que los generó;
+III.- BASURA Y/O RESIDUO SÓLIDO.- Todo desecho orgánico o inorgánico que resulte de actividades domésticas, comerciales, industriales o recreativas, cuya calidad no permita usarlos nuevamente en el proceso que los generó;
 
 IV.- CENTRO DE ACOPIO.- Es el lugar destinado por el Ayuntamiento, en donde se reciben limpios y separados los residuos inorgánicos: papel, cartón, metales, plástico, vidrio y otros productos. También se llama centro de reaprovechamiento porque es el eslabón entre las industrias que reutilizan o reciclan los residuos y la sociedad que los produce;
 
@@ -6439,7 +6443,7 @@ II.- RESIDUO PELIGROSO.- Son aquellos que posean alguna de las características 
 
 III.- RESIDUO SÓLIDO INORGÁNICO.- Desecho generado en casa-habitación, industria o comercio, consistente en metal, papel, cartón, plástico o vidrio;
 
-IV.- RESIDUOS SÓLIDOS ORGÁNICOS DOMICILlARIOS.- Son los desperdicios de comida, desechos de cocina y del jardín, que tienen un origen biológico: Es decir, desechos de todo aquello que nace, vive, se reproduce y muere, que en algún momento han tenido vida y son biodegradables porque se pueden someter a tratamientos biológicos que generen otros productos como composta, abonos naturales humus, alimentos para animales, etcétera;
+IV.- RESIDUOS SÓLIDOS ORGÁNICOS DOMICILIARIOS.- Son los desperdicios de comida, desechos de cocina y del jardín, que tienen un origen biológico: Es decir, desechos de todo aquello que nace, vive, se reproduce y muere, que en algún momento han tenido vida y son biodegradables porque se pueden someter a tratamientos biológicos que generen otros productos como composta, abonos naturales humus, alimentos para animales, etcétera;
 
 V.- RESIDUO SÓLIDO RECICLABLE.- Todo residuo sólido que por razones económicas y por no significar un riesgo para la salud, es susceptible de ser reutilizado con o sin transformación física de sus características; y
 
@@ -6549,13 +6553,13 @@ XIX.- Depositar los desechos sólidos dentro de los contenedores en bolsa cerrad
 
 XX.- Respetar y mantener en buen estado los contenedores;
 
-XXI.- lnformar sobre el destino final de los residuos sólidos que se generen;
+XXI.- Informar sobre el destino final de los residuos sólidos que se generen;
 
 XXII.- Entregar los residuos sólidos limpios y separados, en bolsas que posean características de resistencia y fácil manejo, mismas que deberán entregar bien cerradas, salvo que esto no fuese posible a juicio de la autoridad responsable. Las bolsas deberán mantenerse dentro del predio del ciudadano que lo habita, solo se sacarán al lugar indicado el tiempo necesario para su recolección el día y hora señalados por el Servicio de Limpia;
 
 XXIII.- Contar con contenedores comunes las oficinas, unidades habitacionales o desarrollos multifamiliares, en los que se alojarán debidamente limpios y separados los residuos sólidos producidos por sus habitantes. La Secretaría de Obras y Servicios Municipales no otorgará ningún permiso de construcción sin que en los planos aparezcan las instalaciones a que se refiere este artículo. Los contenedores deberán ser dispuestos de acuerdo al número de familias y la producción de residuos sólidos clasificados producidos por las mismas. Dichos contenedores serán recolectados por el Departamento de Aseo Público, los días y horarios fijados previamente por éste y deberán reunir los requisitos que para tales disposiciones establezca el Servicio de Limpia;
 
-XXIV.- Disponer de un área especifica con colectores especiales para depositar ya clasificados sus residuos sólidos, las industrias y los centros comerciales, así como los hospitales y demás sitios donde se produzcan grandes volúmenes de residuos sólidos;
+XXIV.- Disponer de un área específica con colectores especiales para depositar ya clasificados sus residuos sólidos, las industrias y los centros comerciales, así como los hospitales y demás sitios donde se produzcan grandes volúmenes de residuos sólidos;
 
 XXV.- Transportar por cuenta propia o a través de terceros, autorizados debidamente por la autoridad competente, sus residuos sólidos limpios y separados a los centros de transferencia y/o sitio de disposición final que establezca la autoridad competente, en vehículos que deberán reunir las características que señala este capítulo, los propietarios o administradores de industrias, talleres, comercios, restaurantes, oficinas, centros de espectáculos o similares;
 
@@ -6595,7 +6599,7 @@ XII.- Arrojar aguas sucias o residuos sólidos desde el interior de los inmueble
 
 XIII.- La quema o incineración de residuos sólidos; se excluye de lo anterior a las operaciones que realice el cuerpo municipal de bomberos bajo su control, vigilancia y responsabilidad, con objeto de eliminar hierba y prevenir incendios;
 
-XIlV.- Realizar necesidades fisiológicas fuera de los lugares destinados para ese efecto, en este caso se aplicará la sanción prevista en el código municipal;
+XIV.- Realizar necesidades fisiológicas fuera de los lugares destinados para ese efecto, en este caso se aplicará la sanción prevista en el código municipal;
 
 XV.- Arrojar cadáveres de animales a la vía pública o a los contenedores;
 
@@ -6689,7 +6693,7 @@ I.- Proporcionar el servicio de servicios (sic) de matanza de aves y ganado, en 
 
 II.- Regular la introducción de ganado y el abastecimiento de carnes para el consumo humano;
 
-III.- lmpedir la comercialización de productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubierto las contribuciones municipales;
+III.- Impedir la comercialización de productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubierto las contribuciones municipales;
 
 IV.- Impedir que se realicen operaciones de compraventa de ganado y productos cárnicos dentro de las instalaciones del rastro; y
 
@@ -6703,7 +6707,7 @@ I.- Respetar el horario y disposiciones administrativas que determine la autorid
 
 II.- Efectuar previamente, los pagos de derechos e impuestos correspondientes al servicio;
 
-III.- Acreditar la legitima tenencia de los animales que se pretenda sacrificar;
+III.- Acreditar la legítima tenencia de los animales que se pretenda sacrificar;
 
 IV.- Respetar las disposiciones sanitarias que establecen las disposiciones legales aplicables; y
 
@@ -7043,7 +7047,7 @@ Para el otorgamiento de permisos a tianguistas o comerciantes, se dará preferen
 
 I.- Los vecinos del Municipio de Calvillo, Ags que reúnan los requisitos establecidos en este capítulo;
 
-II.- Los productores y comerciantes de articulos de primera necesidad;
+II.- Los productores y comerciantes de artículos de primera necesidad;
 
 III.- Los comerciantes de revistas científicas, libros y periódicos; y
 
@@ -7193,7 +7197,7 @@ El guardián o sepulturero que proceda a una exhumación o inhumación sin orden
 
 ###### Artículo 752.
 
-Queda prohibido dentro y en los limites de los panteones, el establecimiento de locales comerciales, de puestos semifijos y comerciantes ambulantes, así como la introducción o venta de bebidas alcohólicas, o de personas en estado de ebriedad.
+Queda prohibido dentro y en los límites de los panteones, el establecimiento de locales comerciales, de puestos semifijos y comerciantes ambulantes, así como la introducción o venta de bebidas alcohólicas, o de personas en estado de ebriedad.
 
 ###### Artículo 753.
 
@@ -7221,7 +7225,7 @@ IV.- Rendir a las autoridades municipales, un informe mensual de la operación d
 
 V.- Mantener el número de trabajadores necesarios dentro del panteón, hasta que haya realizado todos los servicios iniciados durante las horas reglamentarias;
 
-VI.- Establecer como horas reglamentarias de las 7:00 a las 18:00 horas;
+VI.- Establecer cómo horas reglamentarias de las 7:00 a las 18:00 horas;
 
 VII.- Inhumar en las fosas seleccionadas por el difunto o sus familiares;
 
@@ -7461,7 +7465,7 @@ Para la prestación de los servicios señalados en el artículo que antecede, é
 
 ###### Artículo 799.
 
-Para llevara cabo el cambio de nombre de un título de propiedad original se requiere cumplir y presentar los siguientes requisitos:
+Para llevar a cabo el cambio de nombre de un título de propiedad original se requiere cumplir y presentar los siguientes requisitos:
 
 I.- Título de propiedad ó duplicado;
 
@@ -7739,7 +7743,7 @@ XIII.- Uso comercial y de servicios: la utilización del agua en establecimiento
 
 XIV.- Uso industrial: la utilización de agua en fábricas, empresas o parques industriales así como la que se utiliza en calderas, en dispositivos en enfriamiento, lavado, baños y otros servicios dentro de la empresa, y el agua aún en estado de vapor, que sea usada para la generación de energía o para cualquier otro uso o aprovechamiento de transformación;
 
-XV.- Uso doméstico: Ia utilización del agua potable en casa-habitación para consumo humano, la preparación de alimentos y para satisfacer las necesidades más elementales como lo son el servicio sanitario, la limpieza personal y la limpieza de bienes;
+XV.- Uso doméstico: la utilización del agua potable en casa-habitación para consumo humano, la preparación de alimentos y para satisfacer las necesidades más elementales como lo son el servicio sanitario, la limpieza personal y la limpieza de bienes;
 
 XVI.- Ley: La Ley de Agua para el Estado de Aguascalientes;
 
@@ -7749,7 +7753,7 @@ XVIII.- Consejo Directivo: Al órgano máximo de la OOSAC;
 
 XIX.- Consejo Consultivo: Al órgano colegiado de apoyo y auxilio para la realización de los objetivos de OOSAC;
 
-XX.- Director General: AI representante legal de la OOSAC, con todas las facultades generales y especiales que le otorga la Ley y el presente título; y
+XX.- Director General: Al representante legal de la OOSAC, con todas las facultades generales y especiales que le otorga la Ley y el presente título; y
 
 XXI.- Usuario: la persona, física o moral que utilice los servicios públicos.
 
@@ -7995,9 +7999,7 @@ I.- Los activos que formen parte inicial de su patrimonio;
 
 II.- Los bienes muebles e inmuebles destinados a la prestación de sus servicios;
 
-III.- Las aportaciones federales, estatales y municipales que en su
-
-caso se realicen;
+III.- Las aportaciones federales, estatales y municipales que en su caso se realicen;
 
 IV.- Los ingresos por la prestación de los servicios públicos y el reuso de las aguas residuales tratadas, o por cualquier otro servicio que el organismo preste al usuario;
 
@@ -8019,7 +8021,7 @@ Todos los ingresos que obtenga la OOSAC con motivo del cobro de derechos, contri
 
 ###### Artículo 866.
 
-El H. Ayuntamiento, podrá ordenar en cualquier momento, la realización de auditorias la OOSAC, así como la inspección de libros, inventarios y cualquier otro documento que obre en poder del mismo, lo cual podrá realizarse por conducto de la contraloría municipal.
+El H. Ayuntamiento, podrá ordenar en cualquier momento, la realización de auditorías la OOSAC, así como la inspección de libros, inventarios y cualquier otro documento que obre en poder del mismo, lo cual podrá realizarse por conducto de la contraloría municipal.
 
 ###### Artículo 867.
 
@@ -8045,7 +8047,7 @@ I.- El Presidente Municipal, quien lo presidirá;
 
 II.-El regidor de la Comisión de agua potable y alcantarillado;
 
-III.- Un representante deI INAGUA;
+III.- Un representante del INAGUA;
 
 IV.- Un representante del colegio de médicos;
 
@@ -8085,7 +8087,7 @@ Los integrantes del Consejo Directivo deberán contar con los siguientes requisi
 
 I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
-II.- Ser habitante del municipio, con una residencia minima de tres años, con excepción del representante del lNAGUA y estar al corriente en el pago de los créditos de cualquier índole a favor de OOSAC;
+II.- Ser habitante del municipio, con una residencia mínima de tres años, con excepción del representante del INAGUA y estar al corriente en el pago de los créditos de cualquier índole a favor de OOSAC;
 
 III.- Gozar de reconocida honorabilidad y aptitud para desempeñar el cargo;
 
@@ -8505,7 +8507,7 @@ X.- Representar a la Dirección en los términos que señalen las normas reglame
 
 XI.- Revisar y rubricar los convenios, contratos, permisos y las autorizaciones en los que la OOSAC sea parte, en los asuntos de su competencia, así como adoptar las resoluciones técnicas y administrativas, y firmar los contratos y convenios que expresamente les delegue el Director General;
 
-Xll.- Atender al público en los asuntos de la competencia de la Dirección;
+XII.- Atender al público en los asuntos de la competencia de la Dirección;
 
 XIII.- Recabarán la opinión del Departamento Jurídico y de Gobernación del Ayuntamiento, previo convenio en todos los asuntos de carácter legal;
 
@@ -8533,7 +8535,7 @@ V.- Supervisar el ejercicio de los presupuestos de gastos de operación, de cons
 
 VI.- Ejecutar la aplicación de los programas de servicios, seguridad y mantenimiento a las instalaciones y a los equipos de los servicios de agua potable y alcantarillad (sic), incluyendo el saneamiento;
 
-Vll.- Ejecutar las acciones necesarias para la adecuación de instalaciones y equipos de carácter operacional y seguridad en las redes de agua potable y alcantarillado, así como las instalaciones de potabilización y saneamiento y a las normas que establezcan en los términos de las disposiciones legales aplicables al Ejecutivo del Estado de Aguascalientes o a las demás autoridades competentes;
+VII.- Ejecutar las acciones necesarias para la adecuación de instalaciones y equipos de carácter operacional y seguridad en las redes de agua potable y alcantarillado, así como las instalaciones de potabilización y saneamiento y a las normas que establezcan en los términos de las disposiciones legales aplicables al Ejecutivo del Estado de Aguascalientes o a las demás autoridades competentes;
 
 VIII.- Realizar la actualización de los planos de las redes de agua potable y alcantarillado, incluyendo el saneamiento;
 
@@ -8969,7 +8971,7 @@ El Consejo Municipal de Consulta y Participación Ciudadana y los Comités respe
 
 ###### Artículo 941.
 
-El Consejo Municipal de Consulta y Participación Ciudadana promoverá que las victimas o testigos de delitos participen con información ciudadana, denuncias y quejas.
+El Consejo Municipal de Consulta y Participación Ciudadana promoverá que las víctimas o testigos de delitos participen con información ciudadana, denuncias y quejas.
 
 ###### Artículo 942.
 
@@ -9207,9 +9209,9 @@ X. Observar un trato respetuoso en sus relaciones con las personas, a quienes au
 
 XI. Abstenerse de todo acto de prepotencia;
 
-XII. Permitir las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacifico, realice la ciudadanía;
+XII. Permitir las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico, realice la ciudadanía;
 
-XIII. Prestar apoyo a las personas que hayan sido victimas de algún delito o estén amenazadas, y en su caso, solicitar los servicios hospitalarios de emergencia, así como facilitar los medios para dar aviso a sus familiares o conocidos;
+XIII. Prestar apoyo a las personas que hayan sido víctimas de algún delito o estén amenazadas, y en su caso, solicitar los servicios hospitalarios de emergencia, así como facilitar los medios para dar aviso a sus familiares o conocidos;
 
 XIV. Intervenir por propia iniciativa, aún cuando no se encuentren en servicio, para dar asistencia a cualquier persona en riesgo;
 
@@ -9257,7 +9259,7 @@ V. Establecer las acciones y medidas que se deberán tomar para la readaptación
 
 VI. Implementar cursos y talleres de prevención y protección contra la violencia de género;
 
-VII. Proporcionar a las victimas de violencia el apoyo necesario para conocer su situación jurídica y sus derechos;
+VII. Proporcionar a las víctimas de violencia el apoyo necesario para conocer su situación jurídica y sus derechos;
 
 VIII. Promover la cultura de respeto a los derechos fundamentales de las mujeres; y
 
@@ -9585,9 +9587,9 @@ VII.- Por tratar de manera irrespetuosa a las personas con quien tenga tratos co
 
 VIII.- Por conducta prepotente en contra de la ciudadanía;
 
-IX.- Por impedir las legítimas manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacifico, realice la ciudadanía;
+IX.- Por impedir las legítimas manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico, realice la ciudadanía;
 
-X.- Por no auxiliar a las personas que hayan sido victimas de algún delito o estén amenazadas;
+X.- Por no auxiliar a las personas que hayan sido víctimas de algún delito o estén amenazadas;
 
 XI.- Por no solicitar los servicios prehospitalarios de emergencia y no facilitar los medios para dar aviso a sus familiares o conocidos en caso de siniestro o comisión de un delito;
 
@@ -10333,7 +10335,7 @@ I.- La Ley de Seguridad Pública para el Estado de Aguascalientes;
 
 II.- La Ley del Procedimiento Administrativo del Estado;
 
-lll.- La Ley de Responsabilidades de los Servidores Públicos del Estado;
+III.- La Ley de Responsabilidades de los Servidores Públicos del Estado;
 
 IV.- El Código de procedimientos Civiles del Estado de Aguascalientes;
 
@@ -10353,7 +10355,7 @@ I.- La prevención y extinción de incendios;
 
 II.- Explosiones;
 
-III.- lnundaciones;
+III.- Inundaciones;
 
 IV.- Derrumbes;
 
@@ -10541,7 +10543,7 @@ De acuerdo con lo dispuesto por la Ley de Vías Generales de Comunicación, el G
 
 ###### Artículo 1069.
 
-Para el tránsito en las vías públicas del Municipio, se requiere la inscripción de los vehículos en el registro correspondiente ante la autoridad competente del Gobierno del Estado y del Municipio. Dicho registro se comprobará con las placas, la calcomanía vigente y concordante con las placas, la tarjeta de circulación y la autorización especifica para vehículos de carga de materiales, sustancias y residuos tóxicos o peligrosos. Todos estos comprobantes del registro deberán llevarse en el vehículo. Si son extranjeros, deberán haber sido autorizados de acuerdo con las leyes de su origen y contar con los permisos para ingresar al país.
+Para el tránsito en las vías públicas del Municipio, se requiere la inscripción de los vehículos en el registro correspondiente ante la autoridad competente del Gobierno del Estado y del Municipio. Dicho registro se comprobará con las placas, la calcomanía vigente y concordante con las placas, la tarjeta de circulación y la autorización específica para vehículos de carga de materiales, sustancias y residuos tóxicos o peligrosos. Todos estos comprobantes del registro deberán llevarse en el vehículo. Si son extranjeros, deberán haber sido autorizados de acuerdo con las leyes de su origen y contar con los permisos para ingresar al país.
 
 ###### Artículo 1070.
 
@@ -11045,7 +11047,7 @@ La Secretaría será la autoridad facultada para autorizar la salida o liberaci�
 
 ###### Artículo 1141.
 
-En caso de vehículos ingresados por las causas l a III, del artículo 1098, a los tres meses de antigüedad con respecto a la fecha en que entró el vehículo sin que haya reclamo de persona física o moral o autoridad que compruebe la propiedad, la Presidencia Municipal de Calvillo, dispondrá del bien en cuestión por medio de la realización de subasta pública de los mismos, bajo las normas y lineamientos que establece la ley al respecto. Quedan excluidos de esta cláusula los vehículos remitidos por la causa IV del artículo 1098, no existiendo límite de tiempo de estadía en la pensión municipal para estos casos.
+En caso de vehículos ingresados por las causas I a III, del artículo 1098, a los tres meses de antigüedad con respecto a la fecha en que entró el vehículo sin que haya reclamo de persona física o moral o autoridad que compruebe la propiedad, la Presidencia Municipal de Calvillo, dispondrá del bien en cuestión por medio de la realización de subasta pública de los mismos, bajo las normas y lineamientos que establece la ley al respecto. Quedan excluidos de esta cláusula los vehículos remitidos por la causa IV del artículo 1098, no existiendo límite de tiempo de estadía en la pensión municipal para estos casos.
 
 ###### Artículo 1142.
 
@@ -11199,7 +11201,7 @@ X.- Llevar el registro, prestar asesoría y coordinar a los grupos voluntarios y
 
 XI.- Integrar la red de comunicación que permita reunir informes sobre condiciones de Alto riesgo, alertar a la población, convocar a los grupos voluntarios y en general, dirigir las operaciones del Sistema Municipal de Protección Civil;
 
-Xll.- Establecer y operar los centros de acopio para recibir y administrar la ayuda a la población afectada por un siniestro o desastre;
+XII.- Establecer y operar los centros de acopio para recibir y administrar la ayuda a la población afectada por un siniestro o desastre;
 
 XIII.- En el ámbito de su competencia practicar inspecciones y otorgar certificaciones de operación a fin de vigilar el cumplimiento de las disposiciones municipales en materia de protección civil y seguridad civil;
 
@@ -11807,7 +11809,7 @@ I.- Habitacional;
 
 II.- De servicios;
 
-III.- lndustrial;
+III.- Industrial;
 
 IV.- Espacios abiertos;
 
@@ -11967,7 +11969,7 @@ Cuando se localicen en las aceras, deberán distar por lo menos cincuenta centí
 
 ###### Artículo 1227.
 
-La Secretaria de Planeación y Desarrollo Municipal en coordinación con la Secretaria de Obras Públicas Municipales fijarán en cada caso, la profundidad minima y máxima a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones.
+La Secretaria de Planeación y Desarrollo Municipal en coordinación con la Secretaria de Obras Públicas Municipales fijarán en cada caso, la profundidad mínima y máxima a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones.
 
 ###### Artículo 1228.
 
@@ -11975,7 +11977,7 @@ Cuando se requiera introducir instalaciones subterráneas bajo un pavimento o se
 
 ###### Artículo 1229.
 
-Las instalaciones aéreas en la vía pública deberán estar sostenidas sobre postes colocados para ese efecto, colocándose dentro de la acera a una distancia minima de veinticinco centímetros entre el borde de la guarnición y el punto más próximo del poste.
+Las instalaciones aéreas en la vía pública deberán estar sostenidas sobre postes colocados para ese efecto, colocándose dentro de la acera a una distancia mínima de veinticinco centímetros entre el borde de la guarnición y el punto más próximo del poste.
 
 ###### Artículo 1230.
 
@@ -12243,7 +12245,7 @@ IX.- Impermeabilización y reparación de azoteas sin afectar elementos estructu
 
 X.- Obras urgentes para la prevención de accidentes, a reserva de dar aviso a la Secretaria de Planeación y Desarrollo Municipal dentro de un plazo de cuarenta y ocho horas contadas a partir del inicio de las mismas;
 
-XI.- Demoliciones hasta de un cuarto aislado de dieciséis metros cuadrados no consecutivo, si esta desocupado y sin afectar la estabilidad del resto de las construcciones;
+XI.- Demoliciones hasta de un cuarto aislado de dieciséis metros cuadrados no consecutivo, si está desocupado y sin afectar la estabilidad del resto de las construcciones;
 
 XII.- Construcciones provisionales para uso de oficinas, bodegas o vigilancia de predios durante la edificación de una obra y de los servicios sanitarios correspondientes; y
 
@@ -12461,7 +12463,7 @@ XII.- Planos arquitectónicos con instalación sanitaria incluyendo plantas, cor
 
 XIII.- Además de lo anterior:
 
-a) El proyecto deberá cumplir con las especificaciones de Pemex, para proyecto y construcción de estaciones de servicio vigente, así como las restricciones indicadas en la constancia de alineamiento y compatibilidad urbanística, estipulados en el presente Título y Capitulos correspondiente, así como en el presente Código;
+a) El proyecto deberá cumplir con las especificaciones de Pemex, para proyecto y construcción de estaciones de servicio vigente, así como las restricciones indicadas en la constancia de alineamiento y compatibilidad urbanística, estipulados en el presente Título y Capítulos correspondiente, así como en el presente Código;
 
 b) Se requerirá la autorización del proyecto por parte de la Secretaria de Planeación y Desarrollo Regional SEPLADE en desarrollos comerciales y de servicios que ocupen una superficie superior a cinco mil metros cuadrados; y
 
@@ -12839,7 +12841,7 @@ personas en 10.0 2.90 2.30
 
 Orfanatorios, asilos, centros de m²/persona
 
-Integración4
+Integración 4
 
 2.4.- Educación y Cultura
 
@@ -12891,7 +12893,7 @@ m²/persona
 
 2.8.1.- Alimentos y bebidas
 
-Áreas de comensales5 1.0 2.30
+Áreas de comensales 5 1.0 2.30
 
 m²/comensal
 
@@ -12903,11 +12905,11 @@ m2/comensal
 
 Salas de Espectáculos:
 
-Hasta 250 concurrentes7/8 0.5 0.45/asiento 3.00
+Hasta 250 concurrentes 7/8 0.5 0.45/asiento 3.00
 
 m²/comensal
 
-Más de 250 concurrentes7/8 0.7 0.45/asiento 3.00
+Más de 250 concurrentes 7/8 0.7 0.45/asiento 3.00
 
 m² /persona
 
@@ -13103,7 +13105,7 @@ VIII.- En cada tramo de escalera, las huellas serán todas iguales; la misma con
 
 IX.- El acabado de la huella será antiderrapante;
 
-X.- La altura mínima de los barandales, siendo necesarios estos cuando la escalera no este flanqueada por muros, será de noventa centímetros, medidos a partir de la nariz del escalón. Se construirán con el anclaje y rigidez adecuados y de manera que impidan el paso de niños a través de ellos; y
+X.- La altura mínima de los barandales, siendo necesarios estos cuando la escalera no esté flanqueada por muros, será de noventa centímetros, medidos a partir de la nariz del escalón. Se construirán con el anclaje y rigidez adecuados y de manera que impidan el paso de niños a través de ellos; y
 
 XI.- Las escaleras de caracol se permitirán solamente para comunicar niveles pertenecientes a un mismo local, oficina, departamento ó casa unifamiliar y deberán tener un radio útil mínimo de sesenta centímetros si son de servicio ó de noventa centímetros si son principales.
 
@@ -13119,7 +13121,7 @@ III.- Los escalones no deberán presentar aristas vivas, ni narices sobresalient
 
 IV.- Las escaleras deberán tener pasamanos a 75 y 90 centímetros de altura, volados 30 centímetros en los extremos;
 
-V.- En las circulaciones bajo las escaleras, deberá existir una barrera a partir de la proyección del limite de 1.9 metros de altura bajo la rampa;
+V.- En las circulaciones bajo las escaleras, deberá existir una barrera a partir de la proyección del límite de 1.9 metros de altura bajo la rampa;
 
 VI.- Área de aproximación de 75 centímetros mínimo, con cambio de textura en el piso;
 
@@ -13153,7 +13155,7 @@ II.- Es recomendable que la pendiente de las rampas sea del 6%, siendo el máxim
 
 III.- .Las rampas deberán tener pasamanos a 75 y 90 centímetros de altura, volados de 30 centímetros en los extremos;
 
-IV.- En las circulaciones bajo rampas, deberá existir una barrera a partir de la proyección del limite de 1.9 m de altura bajo la rampa;
+IV.- En las circulaciones bajo rampas, deberá existir una barrera a partir de la proyección del límite de 1.9 m de altura bajo la rampa;
 
 V.- Área de aproximación libre de obstáculos, con cambio de textura en el piso;
 
@@ -13255,7 +13257,7 @@ I. Siempre serán abatibles hacia el exterior sin que sus hojas obstruyan pasill
 
 II. Cantarán con dispositivos que permitan su apertura con el simple empuje de los concurrentes;
 
-III. Cuando comunique con escaleras, entre la puerta y el peralte inmediato, deberá haber un descanso con la longitud minima de un metro cincuenta; y
+III. Cuando comunique con escaleras, entre la puerta y el peralte inmediato, deberá haber un descanso con la longitud mínima de un metro cincuenta; y
 
 IV. No habrá puertas simuladas ni se colocarán espejos en las puertas.
 
@@ -13619,21 +13621,21 @@ Tipo de inmueble Dotación Observación
 
 1.- Habitación
 
-Vivienda 150 Iitros/habitante/día (1)
+Vivienda 150 litros/habitante/día (1)
 
 2.- Equipamiento y Servicios
 
 2.1.- Oficinas
 
-Cualquier tipo 6 Iitros/m2/día (1)(3)
+Cualquier tipo 6 litros/m2/día (1)(3)
 
 2.2.- Comercios
 
 Locales y centros
 
-comerciales 6 Iitros/m2/día (1)(3)
+comerciales 6 litros/m2/día (1)(3)
 
-Mercados 100 Iitros/puesto/día
+Mercados 100 litros/puesto/día
 
 Baños Públicos 300 litros/regadera/día (2)
 
@@ -13645,11 +13647,11 @@ autoservicio 40 litros/kg. ropa seca (2)
 
 Hospitales, clínicas
 
-y centros de salud 800 Iitros/cama/día (1),(2),(3)
+y centros de salud 800 litros/cama/día (1),(2),(3)
 
-Asistencia social 300 Iitros/huésped/día (1),(2),(3)
+Asistencia social 300 litros/huésped/día (1),(2),(3)
 
-Laboratorios clínicos 6 Iitros/m2/día (1)(3)
+Laboratorios clínicos 6 litros/m2/día (1)(3)
 
 2.4.- Educación y cultura
 
@@ -13687,7 +13689,7 @@ casas de huéspedes 300/huésped/día (1),(2),(3)
 
 3 En lo referente a la capacidad de almacenamiento de agua para sistemas contra incendio deberá de observarse lo dispuesto en el capítulo de previsiones contra incendio de acuerdo a la altura y superficie de las edificaciones.
 
-4 La dotación para anímales deberá calcularse por separado a razón de 25 Iitros/animal/día
+4 La dotación para anímales deberá calcularse por separado a razón de 25 litros/animal/día
 
 2.7.- Seguridad
 
@@ -13703,7 +13705,7 @@ Termínales y estaciones 10 litros/pasajero/día (2),(3)
 
 de transporte
 
-Estacionamientos 2Iítros/m2/día
+Estacionamientos 2 litros/m2/día
 
 3.- Industria
 
@@ -13721,7 +13723,7 @@ almacenes y bodegas 30 litros/trabajador
 
 4.- Espacios abiertos
 
-Parques y jardines 5 Iitros/m2/día
+Parques y jardines 5 litros/m2/día
 
 1 Las necesidades por riego se consideran por separado a razón de 5 litros/metro cuadrado/día.
 
@@ -13761,7 +13763,7 @@ Los talleres de reparación de vehículos, Gasolineras y autobaños deberán con
 
 ###### Artículo 1335.
 
-Requisitos para Servicios Sanitarios. Las casas, edificios, centros de reunión, lugares públicos, instituciones deportivas, estacionamientos y predios para casas rodantes, deberán contar con servicios sanitarios suficientes e higiénicos. Los servicios sanitarios deberán tener recubrimientos de material impermeable con altura minima de un metro ochenta centímetros. Para efecto de este Código deberá tomarse en consideración los siguientes parámetros
+Requisitos para Servicios Sanitarios. Las casas, edificios, centros de reunión, lugares públicos, instituciones deportivas, estacionamientos y predios para casas rodantes, deberán contar con servicios sanitarios suficientes e higiénicos. Los servicios sanitarios deberán tener recubrimientos de material impermeable con altura mínima de un metro ochenta centímetros. Para efecto de este Código deberá tomarse en consideración los siguientes parámetros
 
 Tipo de Capacidad Número Número Número
 
@@ -13783,7 +13785,7 @@ adicionales
 
 o fracción 2 1
 
-1.2 Comercios1
+1.2 Comercios 1
 
 Hasta 25
 
@@ -13811,7 +13813,7 @@ o fracción 3 2
 
 público
 
-Baños públicos2,3
+Baños públicos 2,3
 
 Hasta 5
 
@@ -13835,7 +13837,7 @@ Adicionales
 
 O fracción 3 3 4
 
-1En edificaciones para comercio, los sanitarios se dispondrán para empleados y público en partes iguales, a partir de las cantidades indicadas.
+1 En edificaciones para comercio, los sanitarios se dispondrán para empleados y público en partes iguales, a partir de las cantidades indicadas.
 
 2 En baños públicos y en centros deportivos se deberá contar además con un vestidos y un casillero o similar para cada usuario.
 
@@ -13903,7 +13905,7 @@ o fracción 3 2
 
 Laboratorios clínicos 2 2 1
 
-1.5.-Educación y cultura4
+1.5.-Educación y cultura 4
 
 Educación
 
@@ -13975,7 +13977,7 @@ edificación Inodoros Lavabos regaderas
 
 Canchas y centros
 
-Deportivos2,3 Hasta 100
+Deportivos 2,3 Hasta 100
 
 personas 2 2 2
 
@@ -14601,7 +14603,7 @@ La densidad máxima de construcción será la siguiente:
 
 Hasta 1250 100
 
-De1251 a 2500 90
+De 1251 a 2500 90
 
 De 2501 a 7500 80
 
@@ -14863,7 +14865,7 @@ Las construcciones para estacionamiento tendrán una altura libre mínima de dos
 
 ###### Artículo 1427.
 
-En los estacionamientos de servicio al público, el espacio para cada vehículo se señalará claramente, debiendo tener un mínimo de dos metros cincuenta centímetros de ancho por cinco metros de largo. Para la maniobra de entrada y salida al cajón de estacionamiento, se deberá disponer de una distancia de cuando menos seis metros entre el límite del cajón y el límite del predio o Iímite del cajón opuesto. Esta distancia podrá reducirse según el ángulo de inclinación del diseño de los cajones en la medida que faciliten una maniobra cómoda y segura del vehículo.
+En los estacionamientos de servicio al público, el espacio para cada vehículo se señalará claramente, debiendo tener un mínimo de dos metros cincuenta centímetros de ancho por cinco metros de largo. Para la maniobra de entrada y salida al cajón de estacionamiento, se deberá disponer de una distancia de cuando menos seis metros entre el límite del cajón y el límite del predio o límite del cajón opuesto. Esta distancia podrá reducirse según el ángulo de inclinación del diseño de los cajones en la medida que faciliten una maniobra cómoda y segura del vehículo.
 
 En los estacionamientos públicos o privados que no sean de autoservicio, podrá permitirse que los cajones se dispongan de tal manera que para sacar un vehículo se mueva un máximo de dos.
 
@@ -15001,7 +15003,7 @@ En todos los cementerios podrán construirse capillas para usos religiosos, debi
 
 Los propietarios de monumentos y capillas, están obligados a la conservación de ellos. Si alguna de estas construcciones amenaza ruina, la administración deberá requerir al propietario para que la repare o reconstruya. En el caso de que el propietario no sea encontrado en un lapso razonable, la Administración del cementerio pedirá a la Secretaria, autorización para demoler la construcción. Esta última comprobará el estado de ruina y dará autorización para que se haga la destrucción del monumento funerario o mausoleo por cuenta de la misma Administración.
 
-## TÍTULO TERCERO. DE lOS REQUISITOS ESTRUCTURALES
+## TÍTULO TERCERO. DE LOS REQUISITOS ESTRUCTURALES
 
 ### CAPÍTULO I. De las Disposiciones Generales
 
@@ -15045,7 +15047,7 @@ En el capítulo de las Adecuaciones a las Normas Técnicas (sic)
 
 Complementarias de este Libro se señalan las modificaciones necesarias para adecuar las Normas Técnicas Complementarias del Reglamento de Construcciones para el Distrito Federal a la realidad y condiciones imperantes en el Municipio de Calvillo.
 
-Podrán también adoptarse otros Códigos de sociedades técnicas ampliamente reconocidas, tales como los del Instituto Americano del Concreto conocido como A.C.I., Instituto Americano de la Construcción en Acero conocido como A.l.S.C., Instituto Americano del Hierro y el Acero conocido como A.l.S.I. Código de la Sociedad Americana de Soldadura conocido como A.W.S., Normas para la Construcción de Carreteras de la Asociación Americana de Autopista Oficiales, Estatales y de Transporte conocido como A.A.S.H.T.O., siempre y cuando se conserve la congruencia en lo referente a la aplicación de factores de carga, factores de resistencia y acciones entre otras, propias de cada Código.
+Podrán también adoptarse otros Códigos de sociedades técnicas ampliamente reconocidas, tales como los del Instituto Americano del Concreto conocido como A.C.I., Instituto Americano de la Construcción en Acero conocido como A.I.S.C., Instituto Americano del Hierro y el Acero conocido como A.I.S.I. Código de la Sociedad Americana de Soldadura conocido como A.W.S., Normas para la Construcción de Carreteras de la Asociación Americana de Autopista Oficiales, Estatales y de Transporte conocido como A.A.S.H.T.O., siempre y cuando se conserve la congruencia en lo referente a la aplicación de factores de carga, factores de resistencia y acciones entre otras, propias de cada Código.
 
 En ningún caso se permitirá la mezcla de Códigos o especificaciones en el proceso de diseño estructural.
 
@@ -15103,7 +15105,7 @@ Para los efectos de este Capítulo las construcciones según su uso se clasifica
 
 Grupo A:
 
-I.- Construcciones cuya falla pudiera ocasionar un número elevado de victimas, tales como gimnasios, teatros, lugares de reunión que puedan albergar a mas de doscientas personas en un mismo recinto cerrado, escuelas, templos, salas de espectáculos, estadios y graderíos en general;
+I.- Construcciones cuya falla pudiera ocasionar un número elevado de victimas, tales como gimnasios, teatros, lugares de reunión que puedan albergar a más de doscientas personas en un mismo recinto cerrado, escuelas, templos, salas de espectáculos, estadios y graderíos en general;
 
 II.- Construcciones cuyo funcionamiento es esencial en una emergencia urbana, tales como estaciones y subestaciones eléctricas, centrales telefónicas y de comunicaciones y telecomunicaciones, terminales de transporte, estaciones de radio y televisión, estaciones de bomberos y policía, instalaciones de defensa, archivos y registros públicos, plantas de tratamiento de agua potable, hospitales, clínicas y centrales de emergencia;
 
@@ -15791,9 +15793,9 @@ y almacenes W1 0.9W1 0.8W1 (6)
 
 7.- Cubiertas y azoteas
 
-Pendientes menores a15% 100 70 15 (4)(7)(9)
+Pendientes menores a 15% 100 70 15 (4)(7)(9)
 
-Pendiente del 6 al10% 60 30 10 (4)(7)(8)(9)
+Pendiente del 6 al 10% 60 30 10 (4)(7)(8)(9)
 
 Pendiente del 11 al 20% 40 20 5 (4)(7)(8)(9)
 
@@ -16013,7 +16015,7 @@ Muros de piezas macizas
 
 Tipo de Altura menor Altura entre Altura entre
 
-Terreno de 4 metros 4 y 7metros 7 y 13 metros.
+Terreno de 4 metros 4 y 7 metros 7 y 13 metros.
 
 I .046 .053 .053
 
@@ -16223,7 +16225,7 @@ En el análisis de los estados límite de falla o de servicio deberá tomarse en
 
 La seguridad de las cimentaciones contra los estados limite de falla se evaluaran en términos de la Capacidad de Carga Neta, es decir en función del máximo incremento de esfuerzos que pueda soportar el suelo a nivel de desplante de la cimentación.
 
-Esta capacidad de carga se calculará por métodos analíticos o empíricos suficientemente respaldados en evidencias experimentales o se basará en pruebas de carga. Se obtendrá a partir de las resistencias medías de cada uno de los estratos afectados por el mecanismo de falla más critico, tomándose en cuenta además la interacción entre las diferentes partes de la cimentación y entre ésta y las cimentaciones vecinas.
+Esta capacidad de carga se calculará por métodos analíticos o empíricos suficientemente respaldados en evidencias experimentales o se basará en pruebas de carga. Se obtendrá a partir de las resistencias medías de cada uno de los estratos afectados por el mecanismo de falla más crítico, tomándose en cuenta además la interacción entre las diferentes partes de la cimentación y entre ésta y las cimentaciones vecinas.
 
 Cuando en el terreno existan rellenos sueltos, galerías, grietas, cavernas ú otras alteraciones, estas deberán tratarse adecuadamente o bien considerarse en el análisis de estabilidad de la cimentación.
 
@@ -16721,7 +16723,7 @@ Para los efectos de este artículo, deberá presentarse ante la Secretaria de Pl
 
 ###### Artículo 1581.
 
-Cuando se requiera efectuar obras de pavimentación o banquetas, deberá solicitarse permiso por escrito a la Secretaria de Planeación y Desarrollo Municipal, la cual investigará la viabilidad yen su caso autorizará la petición determinando las especificaciones, cuantificando los derechos y proporcionando la supervisión correspondiente.
+Cuando se requiera efectuar obras de pavimentación o banquetas, deberá solicitarse permiso por escrito a la Secretaria de Planeación y Desarrollo Municipal, la cual investigará la viabilidad y en su caso autorizará la petición determinando las especificaciones, cuantificando los derechos y proporcionando la supervisión correspondiente.
 
 ###### Artículo 1582.
 
@@ -17073,7 +17075,7 @@ II.- Si las barras forman paquetes, el recubrimiento libre, además, no será me
 
 III.- En elementos estructurales colocados contra el suelo, el recubrimiento libre mínimo, además de cumplir con los requisitos anteriores será de cinco centímetros, si no se usa plantilla y de tres centímetros, si se usa plantilla;
 
-IV.- En elementos prefabricados que no van a quedar expuestos a la intemperie, el recubrimiento libre de refuerzo sin presforzar no será menor que uno punto cinco centímetros, ni que el diámetro de la barra mas gruesa del paquete, en su caso; en losas y cascarones prefabricados puede ser no menor que un centímetro ni que el diámetro de la barra; y
+IV.- En elementos prefabricados que no van a quedar expuestos a la intemperie, el recubrimiento libre de refuerzo sin presforzar no será menor que uno punto cinco centímetros, ni que el diámetro de la barra más gruesa del paquete, en su caso; en losas y cascarones prefabricados puede ser no menor que un centímetro ni que el diámetro de la barra; y
 
 V.- Los recubrimientos antes señalados se incrementarán en miembros expuestos a agentes agresivos ciertas sustancias ó vapores industriales, terreno particularmente corrosivo, etc., salvo que se usen protecciones especiales para el acero.
 
@@ -17299,7 +17301,7 @@ Lo anterior independientemente de las sanciones a que se haga acreedor conforme 
 
 Los propietarios de edificaciones tienen obligación de conservarlas en buenas condiciones de estabilidad, servicio, aspecto e higiene, y de evitar que se conviertan en molestia o peligro para las personas o los bienes. Los acabados y pintura de las fachadas, deberán mantenerse en todo tiempo en buen estado de conservación, aspecto y limpieza.
 
-Los predios no edificados deberán estar libres de escombro, y basura, drenados adecuadamente y cercados en sus limites que no colinden con alguna construcción permanente. Deberá darse mantenimiento a las cercas para garantizar su estabilidad. Quedan prohibidas las cercas de púas.
+Los predios no edificados deberán estar libres de escombro, y basura, drenados adecuadamente y cercados en sus límites que no colinden con alguna construcción permanente. Deberá darse mantenimiento a las cercas para garantizar su estabilidad. Quedan prohibidas las cercas de púas.
 
 ###### Artículo 1675.
 
@@ -17321,7 +17323,7 @@ IV.- Elaborar y ejecutar el Programa Municipal de Protección al Ambiente, en co
 
 V.- Constituir el Consejo Municipal de Protección al Ambiente y expedir su Reglamento Interno;
 
-VI.- Colaborar con (sic) Procuraduría Estatal de Protección al Ambiente para retirar de la circulación los vehículos automotores, que rebasen los limites máximos permisibles de emisiones contaminantes a la atmósfera, conforme lo establezcan los reglamentos y normas ecológicas aplicables;
+VI.- Colaborar con (sic) Procuraduría Estatal de Protección al Ambiente para retirar de la circulación los vehículos automotores, que rebasen los límites máximos permisibles de emisiones contaminantes a la atmósfera, conforme lo establezcan los reglamentos y normas ecológicas aplicables;
 
 VII.- Proteger el ambiente de los diversos centros de población, respecto de los efectos negativos derivados de los servicios públicos municipales;
 
@@ -17679,7 +17681,7 @@ La Secretaria de Planeación y Desarrollo Municipal, establecerá los procedimie
 
 La contaminación que es generada por los olores, ruidos, vibraciones, energía térmica y lumínica, entre otros, podrá ser prevenida mediante los dictámenes de impacto ambiental; y
 
-Regulada a través de aplicar las sanciones a toda acción que contribuya a la generación de las emisiones contaminantes antes mencionadas para evitar que rebasen los limites máximos de tolerancia humana y, en su caso.
+Regulada a través de aplicar las sanciones a toda acción que contribuya a la generación de las emisiones contaminantes antes mencionadas para evitar que rebasen los límites máximos de tolerancia humana y, en su caso.
 
 ###### Artículo 1721.
 
@@ -17859,7 +17861,7 @@ Es obligación de los establecimientos industriales, comerciales o de servicios 
 
 ###### Artículo 1755.
 
-Es obligación de los dueños y/o encargados de talleres y servicios del ramo automotriz, contar necesariamente con un área especifica para el lavado de piezas, y vigilar que el almacenamiento de desechos sólidos se encuentre resguardado bajo techo.
+Es obligación de los dueños y/o encargados de talleres y servicios del ramo automotriz, contar necesariamente con un área específica para el lavado de piezas, y vigilar que el almacenamiento de desechos sólidos se encuentre resguardado bajo techo.
 
 ###### Artículo 1756.
 
@@ -17885,7 +17887,7 @@ IV.- INDUSTRIAL: Persona física o moral que vive del ejercicio de una industria
 
 V.- COMERCIANTE ESTABLECIDO: Quien obtenga la licencia correspondiente de la presidencia municipal, para ejercer el comercio en un lugar fijo y permanente de propiedad particular;
 
-VI.- COMERCIANTE TEMPORAL: Quien obtenga el permiso correspondiente de la presidencia municipal, para ejercer el comercio por tiempo determinado, el cuál no excederá de 6 meses, y será en un sitio adecuado y señalado por el ayuntamiento;
+VI.- COMERCIANTE TEMPORAL: Quien obtenga el permiso correspondiente de la presidencia municipal, para ejercer el comercio por tiempo determinado, el cual no excederá de 6 meses, y será en un sitio adecuado y señalado por el ayuntamiento;
 
 VII.- COMERCIANTE FIJO: Persona que realice en la vía pública en un local, puesto o estructura anclado o adherido al suelo o construcción permanente. Se considera dentro de esta modalidad la comercialización de cualquier producto realizado mediante maquinas expendedoras;
 
@@ -17937,7 +17939,7 @@ XXX.- GIRO REGLAMENTADO: Actividad comercial, industrial o de prestación de ser
 
 ###### Artículo 1758.
 
-En el municipio de Calvillo los particulares pueden realizar libremente todos los actos y actividades no prohibidas por la ley, sin más limite que el respeto a los derechos de tercero, a la paz, tranquilidad y orden públicos y obteniendo las licencias, permisos, autorizaciones o concesiones, cuando la ley o el presente código lo requieran y cumplir con las obligaciones de carácter técnico, fiscal o jurídico previstos.
+En el municipio de Calvillo los particulares pueden realizar libremente todos los actos y actividades no prohibidas por la ley, sin más límite que el respeto a los derechos de tercero, a la paz, tranquilidad y orden públicos y obteniendo las licencias, permisos, autorizaciones o concesiones, cuando la ley o el presente código lo requieran y cumplir con las obligaciones de carácter técnico, fiscal o jurídico previstos.
 
 ### CAPÍTULO II. De las Licencias, Permisos y el Empadronamiento
 
@@ -18039,7 +18041,7 @@ Las dependencias a quienes se solicite los dictámenes necesariamente deberán r
 
 En los establecimientos específicos para la venta y consumo de bebidas alcohólicas, el ejercicio de la prostitución y los expendios de cerveza y/o vinos y licores, además debe contener:
 
-I.- Que no exista escuela, hospital, centro deportivo, templo, cuartel, hospicio, centro cultural, en un radio de distancia de ciento cincuenta metros, y que no se encuentren adyacentes o frente a fábricas en que presten sus servicios trabajadores. Los nuevos establecimientos referidos en este artículo no deberán situarse a una distancia menor de ciento cincuenta metros uno de otro, a excepción de aquéllos que se establezcan en zonas que el Ayuntamiento determine como turísticas en los programas de desarrollo urbano, las que deberán ser precisas en sus limites;
+I.- Que no exista escuela, hospital, centro deportivo, templo, cuartel, hospicio, centro cultural, en un radio de distancia de ciento cincuenta metros, y que no se encuentren adyacentes o frente a fábricas en que presten sus servicios trabajadores. Los nuevos establecimientos referidos en este artículo no deberán situarse a una distancia menor de ciento cincuenta metros uno de otro, a excepción de aquéllos que se establezcan en zonas que el Ayuntamiento determine como turísticas en los programas de desarrollo urbano, las que deberán ser precisas en sus límites;
 
 II.- Que cuente con las medidas de seguridad reglamentarias en materia de protección civil como:
 
@@ -18275,7 +18277,7 @@ Los giros dedicados a la renta de máquinas de juegos o electrónicas, requerir�
 
 ###### Artículo 1798.
 
-No se autorizará la instalación de máquinas tragamonedas de apuesta a no ser que cuenten con el permiso de la Secretaria de Gobernación Federal.
+No se autorizará la instalación de máquinas tragamonedas de apuesta a no ser que cuenten con el permiso de la Secretaría de Gobernación Federal.
 
 ###### Artículo 1799.
 
@@ -18605,7 +18607,7 @@ I.- Ley: Ley que regula la venta y consumo de bebidas alcohólicas en el estado 
 
 II.- Código: Código Municipal de Calvillo, Ags;
 
-III.- Bebida Alcohólica: Los líquidos potables que a la temperatura de 15° C tengan una graduación alcohólica igual o mayor de 2° GI;
+III.- Bebida Alcohólica: Los líquidos potables que a la temperatura de 15° C tengan una graduación alcohólica igual o mayor de 2° Gl;
 
 IV.- Establecimiento: lugar en que se expenden, distribuyen o ingieren bebidas alcohólicas, se excluye el caso del consumo gratuito de bebidas alcohólicas en domicilios particulares;
 
@@ -19497,7 +19499,7 @@ XI.- Torilero: Persona del servicio de plaza encargada del manejo, seguridad y b
 
 XII.- Cuadra: El conjunto de caballos destinados para la suerte de varas en un festejo taurino;
 
-XIII.- Avios: Conjunto de utensilios, instrumentos y equipamiento pertenecientes al lidiador y necesarios para la lidia y muerte de una res;
+XIII.- Avíos: Conjunto de utensilios, instrumentos y equipamiento pertenecientes al lidiador y necesarios para la lidia y muerte de una res;
 
 XIV.- Redondel o Ruedo: El área destinada para el desarrollo de la lidia;
 
@@ -19507,7 +19509,7 @@ XVI.- Cajón de curas: espacio de los corrales de la Plaza destinado para la cur
 
 XVII.- Astas: los cuernos de una res de lidia;
 
-XVIII.- Trapio: la estampa, integridad, salud y condiciones generales de la res de lidia;
+XVIII.- Trapío: la estampa, integridad, salud y condiciones generales de la res de lidia;
 
 XIX.- Cabrestos: Reses que no sean de raza de lidia, adiestradas para facilitar las maniobras de traslado de las de lidia de un corral a otro y de retiro de las reses del ruedo a los corrales;
 
@@ -19737,7 +19739,7 @@ El espectador que durante la permanencia de una res en el ruedo se lance al mism
 
 ###### Artículo 2014.
 
-Toda res de lidia deberá presentar las condiciones de trapio, salud y sanidad necesarios para la lidia. Asimismo, tener sus astas integras sin ostentar defectos de encornadura que resten peligro o trapio. Estos requisitos, deberán ser comprobados a la luz del día, por el Juez de Plaza, quien será asesorado por un Médico Veterinario.
+Toda res de lidia deberá presentar las condiciones de trapío, salud y sanidad necesarios para la lidia. Asimismo, tener sus astas integras sin ostentar defectos de encornadura que resten peligro o trapío. Estos requisitos, deberán ser comprobados a la luz del día, por el Juez de Plaza, quien será asesorado por un Médico Veterinario.
 
 ###### Artículo 2015.
 
@@ -19763,7 +19765,7 @@ I.- Las reses podrán ser menores de tres años;
 
 II.- Podrán cerrar las puntas de las reses;
 
-III.- El limite de peso será abajo del establecido en las novilladas reglamentadas y el mínimo será de 250 kilogramos; y
+III.- El límite de peso será abajo del establecido en las novilladas reglamentadas y el mínimo será de 250 kilogramos; y
 
 IV.- Los arpones de las banderillas podrán ser hasta de ocho centímetros de longitud.
 
@@ -19961,7 +19963,7 @@ Se colocarán obligatoriamente, tres pares de banderillas. Cuando sea el matador
 
 Durante el tercio de banderillas, se permitirá la actuación de dos peones que auxiliarán a los Banderilleros de turno.
 
-En este tercio, la colocación de los matadores deberá ser la siguiente: El matador más antiguo en el ruedo, se colocará atrás del banderillero, y el que siga en antigüedad, detrás del toro. El matador en turno estará en la barrera, para recoger los avios de matar.
+En este tercio, la colocación de los matadores deberá ser la siguiente: El matador más antiguo en el ruedo, se colocará atrás del banderillero, y el que siga en antigüedad, detrás del toro. El matador en turno estará en la barrera, para recoger los avíos de matar.
 
 ###### Artículo 2058.
 
@@ -20061,7 +20063,7 @@ El Jefe del Callejón, será directamente responsable del cumplimiento de este a
 
 ###### Artículo 2072.
 
-En las corridas de toros y novilladas con picadores, los lidiadores vestirán el traje de luces. Para la lidia se usarán los avios que los mismos toreros proporcionen y que deberán ser del uso corriente y admitido por la tradición, sin que se toleren modificaciones, ni en el vestir, no (sic) en los utensilios para la lidia, sin previo permiso de la autoridad.
+En las corridas de toros y novilladas con picadores, los lidiadores vestirán el traje de luces. Para la lidia se usarán los avíos que los mismos toreros proporcionen y que deberán ser del uso corriente y admitido por la tradición, sin que se toleren modificaciones, ni en el vestir, no (sic) en los utensilios para la lidia, sin previo permiso de la autoridad.
 
 ###### Artículo 2073.
 
@@ -20231,7 +20233,7 @@ V.- COMITÉ (S): la asociación que se constituya para la organización de cada 
 
 VI.- EXPOSITORES: las personas físicas o morales y los organismos públicos y privados que participen en la Feria Regional de la Guayaba de Calvillo en Calvillo y/o en las demás fiestas patronales o populares;
 
-Vll.- FERIANTES: las personas físicas o morales que realicen la actividad de comercio y/o servicio en las fiestas y feria del Municipio de Calvillo;
+VII.- FERIANTES: las personas físicas o morales que realicen la actividad de comercio y/o servicio en las fiestas y feria del Municipio de Calvillo;
 
 VIII.- TESORERIA: la tesorería del Patronato;
 
@@ -20389,7 +20391,7 @@ V.- Levantar las actas de las sesiones del Patronato;
 
 VI.- Dar el trámite respectivo a los asuntos correspondientes al funcionamiento del Patronato o de cualquiera de sus colaboradores;
 
-Vll.- Suplir al Presidente en sus ausencias temporales; y
+VII.- Suplir al Presidente en sus ausencias temporales; y
 
 VIII.- Las demás que le asigne el Patronato, el Presidente y el presente Título.
 
@@ -20517,7 +20519,7 @@ V.- Convocar y organizar certamen ó concursos a candidatas a reina de la Fiesta
 
 VI.- Organizar la coronación de las reinas;
 
-Vll.- Organizar baile de coronación y de fiesta; y
+VII.- Organizar baile de coronación y de fiesta; y
 
 VIII.- Todo aquello que considere prudente para la realización y mejoramiento de la fiesta.
 
@@ -20697,7 +20699,7 @@ Para el acarreo de mercancías con el vehículo en el área de la feria, los par
 
 ###### Artículo 2170.
 
-El Patronato con el auxilio de Seguridad Pública procurará que los vehículos de los expositores o feriantes se les asignen un área exclusiva y especifica para estacionamiento, para efectos de carga y descarga.
+El Patronato con el auxilio de Seguridad Pública procurará que los vehículos de los expositores o feriantes se les asignen un área exclusiva y específica para estacionamiento, para efectos de carga y descarga.
 
 ###### Artículo 2171.
 
@@ -20759,7 +20761,7 @@ Los participantes, expositores o feriantes que obtengan el permiso solicitado pa
 
 I.- Pagar los derechos correspondientes en la Tesorería del Patronato, y conservar en el establecimiento o espacio autorizado el recibo oficial que acredite dicho pago;
 
-II.- Aportar, en un lapso de ocho días posteriores a la contratación de sus locales ó espacios, una fianza o depósito que ampare el equivalente al 10% del total de su contrato. Lo anterior para garantizar la devolución integra y en el mismo buen estado los espacios comerciales y/o recursos materiales que les hayan sido asignados. Así como, dentro de las 71 horas siguientes a la terminación de la feria o fiesta, la entrega, debidamente desocupado, limpio y en buen estado, del espacio que hayan ocupado;
+II.- Aportar, en un lapso de ocho días posteriores a la contratación de sus locales ó espacios, una fianza o depósito que ampare el equivalente al 10% del total de su contrato. Lo anterior para garantizar la devolución íntegra y en el mismo buen estado los espacios comerciales y/o recursos materiales que les hayan sido asignados. Así como, dentro de las 71 horas siguientes a la terminación de la feria o fiesta, la entrega, debidamente desocupado, limpio y en buen estado, del espacio que hayan ocupado;
 
 III.- Usar un gafete de identificación con fotografía, para ello, entregarán al Patronato antes de la inauguración de la fiesta, una lista y la foto de las personas que atenderán sus establecimientos a efecto de que el Patronato, previa cuota de recuperación a lo equivalente de un día de salario mínimo vigente en el Estado por gafete. En caso de extravío deberá reportarse de inmediato a tramitar la reposición del mismo, con un costo igual;
 
@@ -21587,7 +21589,7 @@ La vigilancia sobre la comisión de infracciones previstas en el artículo anter
 
 ###### Artículo 2331.
 
-Los elementos operativos de la secretaria de Seguridad Pública y Vialidad vigilarán lo correspondientes (sic) a las faltas cívicas e infracciones de vialidad y serán auxiliares de las demás áreas en materia de infracciones administrativas, las cuáles pueden solicitar su apoyo cuando el caso lo requiera.
+Los elementos operativos de la secretaría de Seguridad Pública y Vialidad vigilarán lo correspondientes (sic) a las faltas cívicas e infracciones de vialidad y serán auxiliares de las demás áreas en materia de infracciones administrativas, las cuáles pueden solicitar su apoyo cuando el caso lo requiera.
 
 ###### Artículo 2332.
 
@@ -22017,7 +22019,7 @@ En caso de que haya existido la clausura como medida de seguridad, adquirirá en
 
 Si existiere una condena en cantidad líquida, se enviará copia de la resolución a la Secretaría de Finanzas, para que proceda hacerla efectiva a través del procedimiento económico coactivo.
 
-## TÍTULO TERCERO. DE LA INDIVIDUALlZACIÓN DE SANCIONES
+## TÍTULO TERCERO. DE LA INDIVIDUALIZACIÓN DE SANCIONES
 
 ###### Artículo 2376.
 
@@ -22429,7 +22431,7 @@ Si el propietario o poseedor del predio en el que la Secretaria de Planeación y
 
 ###### Artículo 2412.
 
-lndependientemente de la imposición de las sanciones pecuniarias a que haya lugar, la secretaria de Planeación y Desarrollo Municipal podrá clausurar las obras terminadas cuando ocurra alguna de las siguientes circunstancias:
+Independientemente de la imposición de las sanciones pecuniarias a que haya lugar, la secretaria de Planeación y Desarrollo Municipal podrá clausurar las obras terminadas cuando ocurra alguna de las siguientes circunstancias:
 
 I.- Cuando la obra se haya ejecutado sin licencia;
 
@@ -22501,7 +22503,7 @@ a) Demolición o afectación de fincas de Valor Histórico o Arquitectónico;
 
 b) Construcción de edificaciones con superficie mayor de 1000.00 m2 construidos sin la licencia correspondiente, independientemente de la obligación de regularizar la licencia; y (sic)
 
-( REFORMADO, P.O. 10 DE AGOSTO DE 2009)
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
 
 c) Al perito responsable que infrinja las normas del Reglamento de Imagen Urbana;
 
@@ -22581,7 +22583,7 @@ d) No respetar el horario previamente autorizado los establecimientos cuyo giro 
 
 e) Permitir el acceso de personas que ejercen la prostitución a establecimientos de venta y consumo de bebidas alcohólicas no autorizadas para esa actividad;
 
-f) Carecer de licencia especifica para máquinas de videojuegos o juegos electrónicos, independientemente de otras sanciones que procedan; y
+f) Carecer de licencia específica para máquinas de videojuegos o juegos electrónicos, independientemente de otras sanciones que procedan; y
 
 g) No revalidar la licencia dentro del plazo establecido, los giros mayores de cinco millones de pesos.
 
@@ -23055,7 +23057,7 @@ Dicho Registro contendrá:
 
 I.- Nombre, domicilio, sexo y huellas dactilares del infractor;
 
-II.- lnfracciones cometidas;
+II.- Infracciones cometidas;
 
 III.- Lugares de comisión de la infracción;
 
@@ -23277,7 +23279,7 @@ II.- Recibir, trasladar, custodiar, vigilar y disponer el tratamiento de toda pe
 
 III.- Llevar un registro de las personas que se detienen en su turno, en el que se fijarán todos los datos relativos a su identidad, falta Administrativa o delito cometido, así como la autoridad ante la cual se encuentra a disposición;
 
-IV.- Realizar las remisiones correspondientes de los detenidos, así como la captura de las mismas bajo el sistema implementado por la secretaria de Seguridad Pública y Vialidad Municipal;
+IV.- Realizar las remisiones correspondientes de los detenidos, así como la captura de las mismas bajo el sistema implementado por la secretaría de Seguridad Pública y Vialidad Municipal;
 
 V.- Llevar a cabo un riguroso registro de las órdenes de libertad de los internos;
 
@@ -23343,7 +23345,7 @@ Como medida de seguridad entre los cambios de turno de los responsables de la ba
 
 ###### Artículo 2501.
 
-Cualquier irregularidad que se detecte en el área de celdas deberá ser reportada de inmediato en forma verbal y mediante un parte informativo sobre los hechos que en forma concreta se describan y se tomarán las medidas de seguridad pertinen TES (sic).
+Cualquier irregularidad que se detecte en el área de celdas deberá ser reportada de inmediato en forma verbal y mediante un parte informativo sobre los hechos que en forma concreta se describan y se tomarán las medidas de seguridad pertinenTES (sic).
 
 ### CAPÍTULO IV. Del Procedimiento en los Centros de Detención
 
@@ -23435,7 +23437,7 @@ I.- Amonestación;
 
 II.- Suspensión de visita familiar;
 
-III.- lncremento de la sanción de multa y en arresto, siempre que no exceda los limites que marca el presente Código Municipal, en los casos en que está cumpliendo un arresto administrativo; y
+III.- Incremento de la sanción de multa y en arresto, siempre que no exceda los limites que marca el presente Código Municipal, en los casos en que está cumpliendo un arresto administrativo; y
 
 IV.- Revisión al Ministerio Público si realiza un acto que de acuerdo a la ley se tipifique como delito.
 
@@ -23589,7 +23591,7 @@ Al infractor se le notificará que cuenta con el término de treinta días natur
 
 ###### Artículo 2535.
 
-En caso de no recogerlas dentro del término señalado en el artículo anterior, se tendrá como abandonadas y se procederá, por conducto del Juez calificador a su donación y entrega del Sistema D.l.F. Municipal para la beneficencia pública, cuando el valor de los objetos no exceda de diez días de salario mínimo general vigente en el Estado.
+En caso de no recogerlas dentro del término señalado en el artículo anterior, se tendrá como abandonadas y se procederá, por conducto del Juez calificador a su donación y entrega del Sistema D.I.F. Municipal para la beneficencia pública, cuando el valor de los objetos no exceda de diez días de salario mínimo general vigente en el Estado.
 
 Cuando el valor de los objetos exceda de dicho valor se procederá a solicitar su venta en almoneda pública conforme a las disposiciones del presente Código y el producto quedará a disposición del legítimo propietario en la Secretaría de Finanzas del Municipio de Calvillo. El término para reclamar dicho producto prescribe en un año después de fincado el remate.
 
@@ -23615,7 +23617,7 @@ Profra. Anita Oropeza Sigala,
 
 PRIMERA REGIDORA.
 
-Juan Antonio Aboites Colin,
+Juan Antonio Aboites Colín,
 
 SEGUNDO REGIDOR.
 
@@ -23627,7 +23629,7 @@ Profr. J. Isabel Valle Escobar,
 
 CUARTO REGIDOR.
 
-Manuel Gallegos Garcia,
+Manuel Gallegos García,
 
 QUINTO REGIDOR.
 
@@ -23668,3 +23670,9 @@ P.O. 7 DE JUNIO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE AGOSTO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El Presente acuerdo entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
