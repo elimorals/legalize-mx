@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-defensoria-publica-del-estado-de-hidalgo-744
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-04-12"
-last_updated: "2010-04-12"
+last_updated: "2010-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA DEFENSORIA PUBLICA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -71,7 +71,11 @@ La Defensoría es una unidad administrativa del Poder Ejecutivo del Estado, depe
 
 La Defensoría tiene por objeto:
 
-I.- En materia Penal y en el Sistema Integral de Justicia para Adolescentes, prestar los servicios en cualquier etapa del procedimiento, a las personas que lo soliciten o cuando haya designación del Ministerio Público o del Juez, lo anterior de conformidad con lo dispuesto por los Artículos 18 párrafo cuarto y 20 apartado B, fracción VIII de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+I.- En materia Penal, Narcomenudeo y el Sistema Integral de Justicia para Adolescentes, prestar los servicios en cualquier etapa del procedimiento, a las personas que lo soliciten o cuando haya designación del Ministerio Público o del Juez, lo anterior de conformidad con lo dispuesto por los Artículos 18 párrafo cuarto y 20 apartado B, fracción VIII de la Constitución Política de los Estados Unidos Mexicanos;
 
 II.- En materia Civil, Mercantil, Familiar, Agraria y Contenciosa Fiscal, Administrativa se otorgarán los servicios de orientación, asesoría y, en su caso, representación jurídica, a personas de escasos recursos económicos, que sus ingresos mensuales no excedan de ciento cincuenta días de salario mínimo, sin perjuicio de prestar el servicio de orientación inmediata, según lo establezca el Reglamento de esta Ley; y
 
@@ -103,17 +107,31 @@ Para el cumplimiento de sus atribuciones la Defensoría contará con:
 
 I.- Una Dirección;
 
-II.- Cinco Subdirecciones:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
-a).- Subdirección en Materia Penal, y para el Sistema Integral de Adolescentes;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+II.- Seis Subdirecciones:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+a).- Subdirección en Materia Penal, Narcomenudeo y para el Sistema Integral de Adolescentes;
 
 b).- Subdirección en Materia Civil, Mercantil, Familiar, Agraria, Fiscal Administrativa y asesoría jurídica;
 
 c).- Subdirección en Materia Constitucional y Electoral;
 
-d).- Subdirección de Profesionalización y Estudios jurídicos; y
+d).- Subdirección de Profesionalización y Estudios jurídicos; y (sic)
 
 e).-Subdirección de Administración.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+f).- Subdirección de Servicios Periciales.
 
 III.- Defensores Públicos;
 
@@ -121,9 +139,15 @@ IV.- Auxiliares del Defensor Público;
 
 V.- Departamento de Trabajo Social; y
 
-VI.- Departamento de Asesoría Pericial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
-Respecto de las fracciones III, IV, V y VI, será el personal suficiente para cubrir las necesidades laborales en todos los Distritos Judiciales del Estado, considerando la carga de trabajo y el número de Juzgados que hay en cada uno de aquéllos, para garantizar el eficaz funcionamiento de la Defensoría.
+VI.- (DEROGADA, P.O. 9 DE AGOSTO DE 2010).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+Respecto de las fracciones III, IV y V, será el personal suficiente para cubrir las necesidades laborales en todos los Distritos Judiciales del Estado, considerando la carga de trabajo y el número de Juzgados que hay en cada uno de aquéllos, para garantizar el eficaz funcionamiento de la Defensoría.
 
 ###### ARTÍCULO 10.
 
@@ -235,15 +259,19 @@ XIV.- Participar en las mesas de trabajo para unificar criterios jurídicos; y
 
 XV.- Las demás que les confiera la presente Ley y su Reglamento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
+
 ###### ARTÍCULO 15.
 
-El Subdirector en materia penal y para el Sistema Integral de Adolescentes, tendrá además de las señaladas en el Artículo 14, las siguientes obligaciones:
+El Subdirector en materia Penal, Narcomenudeo y para el Sistema Integral de Adolescentes, tendrá además de las señaladas en el Artículo 14, las siguientes obligaciones:
 
 I.- Realizar, visitas de inspección y control de los servicios que prestan los defensores públicos que estén a su cargo;
 
 II.- Vigilar la tramitación de libertades condicionales y en general de todas las medidas que la Ley de Ejecución de Penas prevé para obtener la libertad de los internos; y
 
-III.- Las demás que les confiera la presente Ley y su Reglamento;
+III.- Las demás que les confiera la presente Ley y su Reglamento.
 
 ###### ARTÍCULO 16.
 
@@ -323,6 +351,38 @@ IX.- Recibir el informe preliminar de las actividades mensuales del personal de 
 
 X.- Las demás que les confiera la presente Ley y su Reglamento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+ARTÍCULO 19 BIS.- La Subdirección de Servicios Periciales es responsable de auxiliar al Defensor Público, a través de los peritos; en la investigación de los delitos, encargándose de buscar, obtener, preservar y analizar, conforme a los principios técnico-científicos apropiados, los indicios y medios de pruebas tendientes al esclarecimiento de los hechos y tendrá las atribuciones siguientes:
+
+I.- Dirigir a los peritos de la subdirección, así como todas las actividades que éstos realicen;
+
+II.- Emitir criterios generales, para la elaboración de los dictámenes periciales y vigilar que éstos se expidan y entreguen en tiempo, y con las formalidades establecidas por las Leyes del Procedimiento;
+
+III.- Diseñar los mecanismos, procedimientos y programas de supervisión y seguimiento de las actividades que realizan los peritos adscritos a la Dirección de la Defensoría Pública;
+
+IV.- Proponer la adquisición de nuevos equipos periciales, atendiendo a los avances científicos y tecnológicos;
+
+V.- Supervisar los dictámenes, que en las diversas especialidades en determinadas ramas de la ciencia, de la técnica o del arte, emitan los peritos a solicitud del Defensor Público;
+
+VI.- Evaluar y controlar la intervención de los peritos en los dictámenes que le sean solicitados;
+
+VII.- Proponer programas de capacitación y actualización científica o técnica del personal especializado en materia pericial al subdirector de Profesionalización y Estudios Jurídicos de la dirección de la Defensoría Pública;
+
+VIII.- Vigilar, que el personal a su cargo no distraiga de su objeto, para uso propio o ajeno, el equipo, elementos materiales o bienes asegurados bajo su custodia o de la institución;
+
+IX.- Atender las peticiones de dictámenes periciales, que formule el Ministerio Público y canalizarlas para su atención a los titulares de las diversas especialidades, para su atención;
+
+X.- Establecer los mecanismos y procedimientos de registro y control de la solicitud y de los dictámenes periciales emitidos, así como elaborar los informes y estadísticas correspondientes;
+
+XI.- Supervisar que los dictámenes periciales, cumplan con los requisitos establecidos por el Código de Procedimientos Penales para el Estado y las normas, técnicas y metodología requeridas por la ciencia, técnica o arte, sobre la que se dictamina;
+
+XII.- Coordinar y vigilar el funcionamiento de los servicios periciales de la Defensoría Pública; y
+
+XIII.- Las demás que les confiera la presente Ley y su Reglamento.
+
 ### CAPÍTULO V. OBLIGACIONES Y PROHIBICIONES DE LOS DEFENSORES PÚBLICOS
 
 ###### ARTÍCULO 20.
@@ -365,9 +425,13 @@ En materia civil dar aviso al Defensor Público adscrito a la Sala Civil y Famil
 
 En todas las materias dar aviso a la subdirección del área constitucional de los casos en los cuales considere pertinente interponer el Juicio de Amparo;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
+
 ###### ARTÍCULO 21.
 
-Los Defensores Públicos en materia Penal, además de las obligaciones a que se refiere el Artículo anterior, tendrán las siguientes:
+Los Defensores Públicos en materia Penal y de Narcomenudeo, además de las obligaciones a que se refiere el artículo anterior, tendrán las siguientes:
 
 I.- Atender la defensa desde el momento en que el inculpado tiene contacto con la autoridad investigadora, siempre que aquél no cuente con abogado particular, en cumplimiento al Artículo 20 apartado B fracción VIII de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -696,3 +760,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente Decreto, una vez realizada su Publicación en el Periódico Oficial del Estado, entrará en vigor el día 20 de agosto del año 2010.
+
+SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
