@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ejecucion-de-penas-del-estado-de-hidalgo-5605"
 country: "mx"
 rank: "ley"
 publication_date: "1971-12-16"
-last_updated: "2005-03-28"
+last_updated: "2010-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EJECUCION DE PENAS DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Hidalgo el día 16 de diciembre de 1971.
 
@@ -49,11 +49,13 @@ I.- La ejecución de las penas previstas en el Código Penal y otras Leyes.
 
 II.- El control y vigilancia de cualquier privación de libertad, impuesta en los términos de la Ley.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-###### Artículo 2o.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
-Corresponde al Ejecutivo del Estado, por conducto de la Dirección General de Prevención y Readaptación Social, la ejecución de las penas, salvo las que expresamente se reserven para la Autoridad.
+###### ARTÍCULO 2.
+
+Corresponde al Ejecutivo del Estado, por conducto de la Dirección General de Prevención y Reinserción Social, la ejecución de la penas, salvo las que expresamente se reserven para la autoridad.
 
 ###### Artículo 3o.
 
@@ -63,17 +65,27 @@ El sistema de ejecución de penas se organizará sobre la base de trabajo, capac
 
 ### CAPITULO UNICO. Atribuciones de la Dirección de Gobernación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MARZO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-###### Artículo 4o.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
 
-El Ejecutivo por conducto de la Dirección General de Prevención y Readaptación Social del Estado, tendrá a su cargo las siguientes atribuciones:
+###### ARTÍCULO 4.
+
+El Ejecutivo del Estado por conducto de la Dirección General de Prevención y Reinserción Social del Estado, tendrá a su cargo las siguientes atribuciones:
 
 I.- Crear, organizar, dirigir y administrar las prisiones y establecimientos de reclusión en el Estado.
 
-II.- Las de registro, distribución, traslado, custodia, vigilancia y tratamiento de toda persona que fuere privada de libertad, por orden de los Tribunales del Estado o de autoridad competente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Estudiar y clasificar a los internos, a fin de aplicar a cada uno el tratamiento que se estime más adecuado.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+II.- Las de registro, distribución, traslado, custodia, vigilancia y tratamiento de toda persona que fuera privada de libertad, por orden de los Tribunales del Estado o de autoridad competente, en los casos de procesados y sentenciados por delitos contra la salud, se observaran las medidas de seguridad que se estimen pertinentes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+III.- Estudiar y clasificar a los internos, a fin de aplicar a cada uno el tratamiento que estime más adecuado, instrumentando un procedimiento especial para la rehabilitación de internos adictos;
 
 IV.- Conocer e investigar las quejas de los internos, sobre el trato de que sean objeto.
 
@@ -87,7 +99,11 @@ VII.- Verificar el cumplimiento del pago de la multa y de la reparación del da�
 
 VIII.- Hacer efectivo el decomiso de los instrumentos del delito.
 
-IX.- Vigilar y dictar las medias adecuadas para el cumplimiento de la suspensión, privación e inhabilitación de derechos, empleos, cargos, funciones, comisiones y profesiones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+IX.- Vigilar y dictar las medidas adecuadas para él cumplimiento de la suspensión, privación e inhabilitación de derechos, empleos, cargos, funciones, comisiones y profesiones, así como la implementación de un sistema que permita dar seguimiento a las mismas;
 
 X.- Llevar a cabo la confiscación o destrucción de cosas peligrosas o nocivas.
 
@@ -195,9 +211,13 @@ b).- Los motivos de su detención y la autoridad competente que la dispuso; y
 
 c).- El día y la hora de su ingreso.
 
-###### Artículo 20.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El régimen penitenciario se caracterizará por ser progresivo, cualquiera que fuere la pena impuesta y constará de los siguientes periodos: estudio y diagnóstico; tratamiento y reintegración.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+###### ARTÍCULO 20.
+
+El régimen penitenciario se caracterizará por ser progresivo, cualquiera que fuera la pena impuesta y constará de los siguientes períodos: estudio y diagnóstico: tratamiento y reinserción social o rehabilitación según sea el caso.
 
 ###### Artículo 21.
 
@@ -214,6 +234,24 @@ Los menores de 21 años y mayores de 18, deberán estar separados, en lo posible
 Los enfermos mentales a que se refiere el artículo 50 del Código Penal, serán enviados a manicomios penitenciarios y en tanto no existan éstos, se organizarán dentro de los establecimientos, anexos psiquiátricos en los que se les aplacará el tratamiento adecuado.
 
 Los internos sordomudos serán recluidos en una escuela o establecimiento especial para su educación y mientras no existan éstos, estarán separados en una sección especial.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+###### ARTÍCULO 23 Bis.
+
+Las personas que se encuentren internas por la comisión de delitos contra la salud en su modalidad de narcomenudeo serán remitidas a los Centros de reclusión de alta seguridad en el Estado, mientras no existan estos, estarán separados en una sección especial.
+
+Los internos adictos se sujetarán a tratamientos especiales de rehabilitación, en ambos casos los internos contarán con los beneficios de Ley, los cuales podrán ser revocados en caso de incumplimiento de la misma.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+###### ARTÍCULO 23 Ter.
+
+Tratándose de adolescentes adictos, en términos de lo establecido por la Ley General de Salud serán canalizados a unidades de atención especializada, las cuales, serán supervisadas por los Servicios de Salud en el Estado. Para el cumplimiento de este fin será necesario la implementación de sistemas de control y seguimiento.
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2005)</small>
 
@@ -566,3 +604,9 @@ DADO en el Palacio del Poder Ejecutivo de la ciudad de Pachuca de Soto, Hidalgo,
 P.O. 28 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+9 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente Decreto, una vez realizada su Publicación en el Periódico Oficial del Estado, entrará en vigor el día 20 de agosto del año 2010.
+
+SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
