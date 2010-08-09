@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2010-06-30"
+last_updated: "2010-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -131,9 +131,13 @@ XVIII.- Ejercer la verificación y el control sanitario de los establecimientos 
 
 XIX.- Participar con las autoridades federales, estatales, municipales y con los sectores sociales públicos y privados del Estado, en promover, apoyar y coordinar sus acciones con el Registro Nacional en materia de donación y trasplantes de órganos, tejidos y células, con el propósito de reducir la morbilidad y mortalidad por padecimiento susceptibles de ser corregidos mediante este procedimiento, bajo los lineamientos que se establecen en la Ley General y Estatal de Salud, sus reglamentos, así como las normas técnicas que sobre esta materia dicte la Secretaría de Salud u otros ordenamientos legales;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
-XX.- Las demás que establezca la Ley General de Salud, sus Reglamentos, acuerdos de coordinación y/o colaboración y otras disposiciones legales aplicables.
+XX.- La prevención del consumo de narcóticos, atención a las adicciones y persecución de los delitos contra la salud, en los términos del artículo 474 de la Ley General de Salud, y
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+XXI.- Las demás que establezca la Ley General de Salud, sus Reglamentos, acuerdos de coordinación y/o colaboración y otras disposiciones legales aplicables.
 
 B.- En materia de Salubridad Local:
 
@@ -320,6 +324,26 @@ VII.- Las demás que establezca esta Ley y otras disposiciones legales aplicable
 > <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ARTICULO 13 bis.- Le corresponde a la Secretaría de Salud del Gobierno del Estado, ejercer las funciones contempladas en la Ley Orgánica de la Administración Pública del Estado y en esta Ley; y por su parte a los Servicios Estatales de Salud le corresponde ejercer las funciones operativas contempladas en su Decreto de creación y en esta Ley, sin perjuicio de la coordinación de acciones que pudiesen tener ambas dependencias gubernamentales.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+Para el tratamiento de los farmacodependientes se contará con un centro especializado en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+El Ejecutivo del Estado coadyuvará con la Secretaría de Salud Federal en la ejecución del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, mismo que será obligatorio en todos los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+Las campañas de información y sensibilización que reciba la población deberán estar basadas en estudios científicos y alertar de manera adecuada sobre los efectos y daños físicos y psicológicos del consumo de estupefacientes y psicotrópicos.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+De conformidad con el Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, corresponde al Ejecutivo Estatal:
+
+I. Promover y llevar a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos; Asimismo fomentará la educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento. La información que reciba la población deberá estar basada en estudios científicos y alertar de manera clara sobre los efectos y daños físicos y psicológicos del consumo de estupefacientes y psicotrópicos; y
+
+II. Proporcionar información y brindar la atención médica y los tratamientos que se requieran a las personas que consuman estupefacientes y psicotrópicos.
 
 ###### ARTICULO 14.
 
@@ -1271,6 +1295,26 @@ Para la mayor eficiencia de las acciones a las que se refiere este Artículo, se
 
 ### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
+### CAPITULO III BIS. DE LA PARTICIPACION DEL ESTADO EN LA PERSECUCION DE LOS DELITOS CONTRA LA SALUD, EN SU MODALIDAD DE NARCOMENUDEO
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+ARTICULO 157 bis.- Las autoridades de seguridad pública, procuración e impartición de justicia, así como de ejecución de penas y medidas de seguridad del Estado, conocerán y resolverán de los delitos o ejecutarán las sanciones y medidas de seguridad a que se refiere el Capítulo VII del Título Décimo Octavo, de la Ley General de Salud, en la forma y con la competencia prevista en el Artículo 474 de la propia Ley.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+ARTICULO 157 ter.- Los procedimientos penales y, en su caso, la ejecución de las penas y medidas de seguridad por los delitos a que se refiere este Capítulo, se regirán por las leyes del Estado en la materia, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+ARTICULO 157 quáter.- El Ministerio Público o el Juez de Garantía, en su caso, tan pronto identifiquen que una persona relacionada con un procedimiento es farmacodependiente, deberán de informar de inmediato y, en su caso, dar intervención a la Secretaría de Salud del Estado, para los efectos del tratamiento que corresponda.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+ARTICULO 157 quintus.- Cuando el Ministerio Público tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza lo emplearé para realizar cualesquiera de las conductas sancionadas en el presente Capítulo o que permitiere su realización por terceros, informará a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones que resulten por la aplicación de los ordenamientos correspondientes.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
@@ -1355,6 +1399,10 @@ ARTICULO 157 H.- El Consejo promoverá la constitución de un Patronato que tend
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
 
+## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
+
+> <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
+
 ### CAPITULO III. DEL PATRONATO
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
@@ -1378,36 +1426,6 @@ ARTICULO 157 L.- El Patronato para la Donación y Trasplantes de Órganos, Tejid
 ARTICULO 157 LL.- El Patronato para la Donación y Trasplante de Órganos, Tejidos y celulas definirá la aplicación y los rubros en que se utilizarán los recursos financieros y materiales que se obtengan por la gestión, escuchando la opinión del Consejo Estatal de Trasplantes.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
-
-## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
-
-> <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
-
-### CAPITULO IV. DEL REGISTRO DE DONADORES
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 M.- El Consejo Estatal de Trasplantes, deberá contar con un Registro Estatal de Donadores, que integre la información en materia de donaciones, trasplantes y lista de pacientes en espera de un órgano, tejido o célula, a través de un control que contenga los datos de los donadores debidamente relacionados con los de los trasplantados.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 N.- El Registro Estatal de Donadores de Quintana Roo, estará a cargo de la Secretaria de Salud del Estado.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 Ñ.- El Registro Estatal de Donadores de Quintana Roo, tiene carácter confidencial, y únicamente tendrán acceso a esta información:
-
-1. La Autoridad Judicial
-
-2. La Autoridad Sanitaria
-
-3. El Consejo Estatal de Trasplantes.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 O.- El Secretario de Salud del Estado, proporcionará al Consejo Estatal de Trasplantes, la información en materia de donaciones, trasplantes y lista de pacientes en espera de un órgano, tejido o célula en el Estado, contenida en el Registro Estatal de Donadores de Quintana Roo y en coordinación con el Registro Nacional de Trasplantes, se deberá integrar a la lista nacional de donadores, para que en su caso pueda cumplirse con la voluntad de las personas que han decidido donar sus órganos, tejidos o células.
-
-> <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
 ###### ARTICULO 128.
 
@@ -1579,7 +1597,31 @@ EI organismo del Gobierno Estatal previsto en el Artículo 133 de esta Ley tendr
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2010)</small>
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO IV. DEL REGISTRO DE DONADORES
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 M.- El Consejo Estatal de Trasplantes, deberá contar con un Registro Estatal de Donadores, que integre la información en materia de donaciones, trasplantes y lista de pacientes en espera de un órgano, tejido o célula, a través de un control que contenga los datos de los donadores debidamente relacionados con los de los trasplantados.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 N.- El Registro Estatal de Donadores de Quintana Roo, estará a cargo de la Secretaria de Salud del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 Ñ.- El Registro Estatal de Donadores de Quintana Roo, tiene carácter confidencial, y únicamente tendrán acceso a esta información:
+
+1. La Autoridad Judicial
+
+2. La Autoridad Sanitaria
+
+3. El Consejo Estatal de Trasplantes.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 O.- El Secretario de Salud del Estado, proporcionará al Consejo Estatal de Trasplantes, la información en materia de donaciones, trasplantes y lista de pacientes en espera de un órgano, tejido o célula en el Estado, contenida en el Registro Estatal de Donadores de Quintana Roo y en coordinación con el Registro Nacional de Trasplantes, se deberá integrar a la lista nacional de donadores, para que en su caso pueda cumplirse con la voluntad de las personas que han decidido donar sus órganos, tejidos o células.
+
+> <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
 ###### ARTICULO 152.
 
@@ -1607,7 +1649,7 @@ IV.- Efectos de abuso de bebidas alcohólicas en los ámbitos familiar, social, 
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTOS
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 154.
 
@@ -1627,15 +1669,51 @@ II.- La educación a la familia para prevenir el consumo de tabaco por parte de 
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTOS
 
 ###### ARTICULO 156.
 
-EI Gobierno del Estado, realizará acciones coordinadas con la Secretaría de Salud del Gobierno Federal, en la ejecución del Programa Nacional contra la Farmacodependencia, en los términos del Acuerdo de Coordinación específico que celebren ambos órdenes de gobierno.
+El Gobierno del Estado, realizará acciones coordinadas con la Secretaría de Salud del Gobierno Federal, en la ejecución del Programa Nacional contra la Farmacodependencia, en los términos del Acuerdo de Coordinación específico que celebren ambos órdenes de gobierno.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+La Secretaría de Salud del Estado, atendiendo a lo dispuesto en el párrafo anterior deberá:
+
+l. Coordinarse con la Secretaría de Salud, en el marco del Sistema Nacional de Salud, atendiendo al programa nacional de prevención y tratamiento de la farmacodependencia de conformidad a los convenios respectivos.
+
+Los programas y acciones para el combate a la farmacodependencia se regirán en el respeto a la integridad y libre voluntad del farmacodependiente, con excepción de lo previsto en el segundo párrafo del artículo 193 Bis de la Ley General de Salud.
+
+II. Promover y llevar a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos;
+
+III. Coordinar y promover con los sectores público, privado y social las acciones para prevenir la farmacodependencia;
+
+IV. Crear y mantener actualizado un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia;
+
+V. Crear indicadores y bases de datos que permitan identificar zonas, sectores y grupos de alto riesgo en materia de farmacodependencia;
+
+VI. Supervisar a las instituciones y organismos públicos y privados para que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, apegándose al respeto de la integridad y libre decisión del farmacodependiente;
+
+VII. Construir indicadores públicos sobre los índices de farmacodependencia en el Estado; y
+
+VIII. Fomentar la participación comunitaria y coordinación con las autoridades federales y las instituciones públicas o privadas para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso de superación de la farmacodependencia.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+Las instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, deberán remitir a la Secretaría la siguiente información:
+
+a) Los datos generales de las personas que ingresen a dichas instituciones u organismos con la finalidad de recibir tratamiento;
+
+b) Tipo de tratamiento o rehabilitación; y
+
+c) El número de farmacodependientes que concluyeron o no, exitosamente sus tratamientos.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+Esta información se utilizará exclusivamente con fines estadísticos, y sin señalar identidades, para la prevención de la farmacodependencia. La información estará protegida en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo.
 
 ###### ARTICULO 157.
 
-EI Gobierno del Estado y los Municipios para evitar y prevenir el consumo de substancias inhalantes, que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
+El Gobierno del Estado y los Municipios para evitar y prevenir el consumo de substancias inhalantes, que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
 
 I.- Determinarán y ejercerán medios de control en el expendio de substancias inhalantes, para prevenir su venta y consumo por parte de menores de edad e incapaces;
 
@@ -1647,13 +1725,15 @@ IV.- Promoverán y llevarán a cabo campañas permanentes de información y orie
 
 A los establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el Gobierno Estatal y los Municipios, así como los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE AGOSTO DE 2010)</small>
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+### CAPITULO III. DE LAS CONSTRUCCIONES
 
 ## TITULO DECIMO PRIMERO. SALUBRIDAD LOCAL
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
+
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 ### CAPITULO V. LIMPIEZA PUBLICA
 
@@ -1661,11 +1741,9 @@ A los establecimientos que vendan o utilicen substancias inhalantes con efectos 
 
 ### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
-
 ## TITULO DECIMO SEGUNDO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 158.
 
@@ -1729,7 +1807,7 @@ Las notificaciones que conforme a esta Ley deban publicarse, surtirán efectos a
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO X. BAÑOS PUBLICOS Y GIMNASIOS
+### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
 
 ###### ARTICULO 165.
 
@@ -1755,7 +1833,7 @@ Para los efectos de esta Ley, se entiende por construcción toda edificación o 
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO X. BAÑOS PUBLICOS Y GIMNASIOS
 
 ###### ARTICULO 169.
 
@@ -1791,7 +1869,7 @@ EI dueño, encargado o poseedor de la construcción, reconstrucción, modificaci
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
+### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 177.
 
@@ -1835,7 +1913,7 @@ La aprobación de las solicitudes de refrigeración, exhumación y cremación de
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XIII. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
+### CAPITULO XII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
 
 ###### ARTICULO 185.
 
@@ -1887,7 +1965,7 @@ Para toda actividad relacionada con este Capítulo se estará a lo dispuesto por
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XIV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIII. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
 ###### ARTICULO 193.
 
@@ -1937,7 +2015,7 @@ Queda prohibida la venta de carne para el consumo humano, cuando no se cumplan c
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XV. TRANSPORTE PUBLICO ESTATAL Y MUNICIPAL
+### CAPITULO XIV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 203.
 
@@ -1981,7 +2059,7 @@ Queda prohibido que los desechos sólidos o líquidos que conduzcan los caños s
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XVI. GASOLINERIAS
+### CAPITULO XV. TRANSPORTE PUBLICO ESTATAL Y MUNICIPAL
 
 ###### ARTICULO 212.
 
@@ -2009,7 +2087,7 @@ Las condiciones y requisitos sanitarios que deban reunir los establecimientos a 
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XVII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y EN SERES HUMANOS
+### CAPITULO XVI. GASOLINERIAS
 
 ###### ARTICULO 215.
 
@@ -2039,9 +2117,7 @@ La Autoridad Sanitaria, deberá practicar visitas periódicas a los reclusorios,
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XVIII
-
-DE LOS VENDEDORES SEMIFIJOS Y AMBULANTES.
+### CAPITULO XVII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y EN SERES HUMANOS
 
 ###### ARTICULO 221.
 
@@ -2061,7 +2137,9 @@ Para abrir al servicio público estos establecimientos, deberán sujetarse a lo 
 
 La operación de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y a las Normas Técnicas que en materia de salubridad local dicte el Gobierno del Estado.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XVIII
+
+DE LOS VENDEDORES SEMIFIJOS Y AMBULANTES.
 
 ###### ARTICULO 224.
 
@@ -2077,7 +2155,7 @@ Una vez terminada la edificación del centro de reunión y antes de abrirse al p
 
 EI funcionamiento de los establecimientos a que se refiere el Artículo 224 de esta Ley, deberá sujetarse a las disposiciones legales aplicables y, contara con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 227.
 
@@ -2089,7 +2167,7 @@ EI funcionamiento y personal de los establecimientos señalados en el Artículo 
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 229.
 
@@ -2107,9 +2185,7 @@ Corresponde a la Autoridad Sanitaria competente ejercer la verificación sanitar
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 231.
 
@@ -2129,7 +2205,7 @@ En los establecimientos de hospedaje, se deberá contar necesariamente con los e
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
 
@@ -2143,7 +2219,9 @@ Los transportes que circulen por uno o más Municipios del Estado no requerirán
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 236.
 
@@ -2153,7 +2231,7 @@ Para los efectos de esta Ley, se entiende por gasolinería el establecimiento de
 
 Las gasolinerías deberán contar con las instalaciones de seguridad así como las características sanitarias y de prevención ecológicas que establezcan las disposiciones legales y reglamentos aplicables y las norma técnicas correspondientes.
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 238.
 
@@ -2187,7 +2265,7 @@ Los propietarios de los animales a que se refiere el Artículo anterior estarán
 
 Las Autoridades Sanitarias. mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia así como otras zoonosis.
 
-### CAPITULO IV. RECURSOS DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 242.
 
@@ -2219,11 +2297,13 @@ Queda prohibida la venta de insumos para la salud, complementos alimenticios, vi
 
 Los vendedores semifijos y ambulantes no podrán vender pescado, marisco, aguas frescas y demás alimentos que contemple el reglamento respectivo.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSOS DE INCONFORMIDAD
 
 ## TITULO XIII. VIGILANCIA SANITARIA
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 249.
 
@@ -2930,5 +3010,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 ARTÍCULO TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 9 DE AGOSTO DE 2010.
+
+ÚNICO.- Para los efectos de la entrada en vigor y el cumplimiento de lo dispuesto en el presente Decreto, el Estado deberá atender a lo dispuesto por el párrafo tercero del Artículo Primero Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación en fecha 20 de agosto de 2009.
+
+TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
