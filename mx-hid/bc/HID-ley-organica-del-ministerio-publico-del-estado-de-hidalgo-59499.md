@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-59499
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-31"
-last_updated: "2009-12-31"
+last_updated: "2010-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "HID"
 
 > <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-LEY ORGÁNICA DEL MINISTERIO PUBLICO DEL ESTADO DE HIDALGO
+LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO SEGUIRÁ RIGIENDO EN LO QUE SE OPONGA AL CONTENIDO DE LA NUEVA LEY, ENTRETANTO NO ENTRE EN VIGOR EL SISTEMA PROCESAL PENAL ACUSATORIO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -215,9 +213,25 @@ XLV.- Rendir los informes en tiempo y forma en los juicios de amparo en que sean
 
 XLVI.- Observar los lineamientos, pautas generales, acuerdos, circulares e instrucciones que emita el Procurador General;
 
-XLVII.- Conocer de los delitos en materia de competencia concurrente, en los términos que marca la Constitución Política de los Estados Unidos Mexicanos; y
+XLVII.- Conocer de los delitos en materia de competencia concurrente, en los términos que marca la Constitución Política de los Estados Unidos Mexicanos; y (sic)
 
-XLVIII.- Las demás que determine esta Ley y otras disposiciones aplicables.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+XLVIII.- Respetar el sigilo de las actuaciones ministeriales practicadas dentro de la averiguación previa;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+XLIX.- Abstenerse de proporcionar copias simples o certificadas de Averiguaciones Previas o documentos en materia de narcomenudeo y de los delitos graves contenidos en el Artículo 119 del Código de Procedimientos Penales vigente en la Entidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+L.- Las demás que determine esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 7.
 
@@ -2060,3 +2074,9 @@ CUARTO.- En consecuencia, los agentes del Ministerio Público y Peritos que a la
 QUINTO.- El Reglamento de la presente Ley, será expedido por el titular del Ministerio Público en un plazo que no exceda de sesenta días naturales, a partir de la entrada en vigor de este decreto, mismo que igualmente deberá ser Publicado en el Periódico Oficial del Estado.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente Decreto, una vez realizada su Publicación en el Periódico Oficial del Estado, entrará en vigor el día 20 de agosto del año 2010.
+
+SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
