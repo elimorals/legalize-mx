@@ -4,7 +4,7 @@ identifier: "MEX-disposiciones-reglamentarias-en-materia-de-transparencia-y-5753
 country: "mx"
 rank: "otro"
 publication_date: "2007-01-31"
-last_updated: "2007-11-09"
+last_updated: "2010-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 DISPOSICIONES REGLAMENTARIAS EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL ACUERDO No. 7/2010-34 DEL CONSEJO CONSULTIVO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, PUBLICADO EN EL G.G. DE 9 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Disposiciones publicadas en el Órgano Informativo de la Comisión de Derechos Humanos del Estado de México, el miércoles 31 de enero de 2007.
 
@@ -222,3 +224,9 @@ G.G. 9 DE NOVIEMBRE DE 2007.
 PRIMERO. Publíquese el presente Acuerdo en el órgano oficial de difusión de la Comisión y en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 9 DE AGOSTO DE 2010.
+
+Artículo Primero. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México y en la Gaceta de Derechos Humanos órgano oficial de difusión de la Comisión.
+
+Artículo Segundo. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
