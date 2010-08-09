@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-59906"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-01-07"
-last_updated: "2009-11-16"
+last_updated: "2010-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
 
 Ley publicada en el Número 1 Bis del Periódico Oficial del Estado de Hidalgo, el lunes 7 de enero de 2008.
 
@@ -501,6 +501,12 @@ Las salas Especializadas en Justicia para Adolescentes, conocerán, además de l
 
 A Las (sic) Salas en Materia Penal les corresponde resolver la autorización de cambio de radicación de los procesos penales, conforme a lo dispuesto en el Código Procesal Penal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+Además, las Salas en materia Penal, conocerán de la materia concurrente de delitos contra la salud en su modalidad de narcomenudeo, aplicando las Leyes Federales en cuanto al fondo y por lo que hace al procedimiento las leyes locales respectivas, salvo los casos de excepción previstos en la Ley de la materia.
+
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 32.
@@ -908,6 +914,12 @@ XII.- Jueces de Ejecución Especializados en Justicia para Adolescentes;
 XIII.- Jueces Mixtos, y
 
 XIV.- Jueces de Cuantía Menor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+Los jueces comprendidos en la fracción V, conocerán de la materia concurrente de delitos contra la salud en su modalidad de narcomenudeo, aplicando las Leyes Federales en cuanto al fondo y por lo que hace al procedimiento las Leyes Locales respectivas, salvo los casos de excepción.
 
 Los jueces comprendidos en las fracciones VI, VIII, X y XII actuarán en forma unitaria, en tanto que los jueces previstos en las fracciones VII y XI lo harán en forma colegiada, siempre con tres jueces.
 
@@ -2878,3 +2890,9 @@ TERCERO.- Los Jueces y Magistrados en materia penal de carácter acusatorio, act
 CUARTO.- En un término no mayor de un año, deberá expedirse el Reglamento de la Ley contenida en este decreto.
 
 QUINTO.- se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente Decreto, una vez realizada su Publicación en el Periódico Oficial del Estado, entrará en vigor el día 20 de agosto del año 2010.
+
+SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
