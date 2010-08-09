@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2010-06-30"
+last_updated: "2010-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 7 de octubre de 1980.
 
@@ -181,9 +181,15 @@ VIII.- Las medidas que se hayan tomado para la investigación; y
 
 IX.- Los demás datos que se obtengan.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 19.
 
-(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 1994)
+El Ministerio Público, al iniciar la investigación, dará aviso a la Secretaría de Salud del Estado cuando un farmacodependiente se encuentre imputado de cometer un delito, a fin de que dicha autoridad intervenga en los términos de las disposiciones aplicables, sin perjuicio de lo que al respecto prevenga la Ley de Normas Mínimas para la Readaptación de Sentenciados del Estado.
+
+En todo lo no previsto por el presente código en materia de posesión, comercio y suministro de narcóticos se estará a lo dispuesto por la Ley General de Salud, el Código Penal Federal y el Código Federal de Procedimientos Penales.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1992)</small>
 
@@ -277,7 +283,7 @@ Una vez cumplida la presentación del escrito de queja, la Sala Constitucional y
 
 Lo previsto en este y en el Artículo 28, será aplicable también en los casos de que el Procurador General de Justicia determine la reserva de la averiguación previa.
 
-La Sala Constitucional y Administrativa, para hacer cumplir sus determinaciones se sujetará a las disposiciones contenidas en el Capítulo IV del Titulo IV de la Ley de Justicia Administrativa del Estado de Quintana Roo.
+La Sala Constitucional y Administrativa, para hacer cumplir sus determinaciones se sujetará a las disposiciones contenidas en el Capítulo IV del Título IV de la Ley de Justicia Administrativa del Estado de Quintana Roo.
 
 #### SECCION TERCERA.- Consignación ante los tribunales
 
@@ -419,7 +425,7 @@ Las diligencias practicadas por el Ministerio Público y los Jueces Menores o de
 
 ###### Artículo 44.
 
-Durante la instrucción, el tribunal que conozca el proceso deberá observar las circunstancias peculiares del inculpado, allegándose datos, para conocer su edad, educación e ilustración; sus costumbres y su conducta anterior; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; la pertenencia del inculpado, en su caso, a un grupo étnico indígena y las prácticas y características que como miembro de dicho grupo pueda tener; los demás antecedentes personales que puedan comprobarse, así cómo sus vínculos de parentescos, amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor temibilidad.
+Durante la instrucción, el tribunal que conozca el proceso deberá observar las circunstancias peculiares del inculpado, allegándose datos, para conocer su edad, educación e ilustración; sus costumbres y su conducta anterior; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; la pertenencia del inculpado, en su caso, a un grupo étnico indígena y las prácticas y características que como miembro de dicho grupo pueda tener; los demás antecedentes personales que puedan comprobarse, así como sus vínculos de parentescos, amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor temibilidad.
 
 ###### Artículo 45.
 
@@ -699,6 +705,12 @@ Los instrumentos del delito y las cosas objeto o efectos de él, así como aqué
 
 De todas las cosas aseguradas, conforme al artículo anterior, se hará un inventario en el que se las describirá de tal manera que en cualquier tiempo puedan ser identificadas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+Cuando exista aseguramiento de estupefacientes o psicotrópicos, el Ministerio Público o el Juez competente, solicitará la elaboración del informe pericial correspondiente, sobre los caracteres organolépticos o químicos de la sustancia asegurada. Cuando hubiere detenido, este informe será rendido a más tardar dentro del plazo de treinta y seis horas.
+
 > <small>(F. DE E., P.O. 7 DE OCTUBRE DE 1990)</small>
 
 ###### Artículo 87.
@@ -769,7 +781,7 @@ IV.- La falta de aviso del cambio ameritará que se imponga al lesionado una cor
 
 La responsiva a que se refiere el artículo 95, impone al médico los deberes siguientes:
 
-I.- Dar aviso a la autoridad correspondiente de cualquier accidente o complicación que sobrevenga, expresando si es consecuencia inmediata o necesaria de las lesión o si proviene de otra causa;
+I.- Dar aviso a la autoridad correspondiente de cualquier accidente o complicación que sobrevenga, expresando si es consecuencia inmediata o necesaria de la lesión o si proviene de otra causa;
 
 II.- Comunicar inmediatamente a la misma autoridad todo cambio de domicilio del lesionado o del lugar donde sea atendido; y
 
@@ -847,7 +859,7 @@ El Juez, en atención a lo avanzado de la gravidez, oyendo al perito médico dec
 
 ###### Artículo 108.
 
-En el caso del artículo anterior, la reclusión en el Centro de Salud continuará, por el tiempo estrictamente necesario, para que el menor pueda ser atendido por terceras personas, según la particularidades de cada caso y las disposiciones que el Juez dicte, las que deberán atender siempre al beneficio del menor. La ley deberá reglamentar la situación de la madre y del menor para estos casos.
+En el caso del artículo anterior, la reclusión en el Centro de Salud continuará, por el tiempo estrictamente necesario, para que el menor pueda ser atendido por terceras personas, según las particularidades de cada caso y las disposiciones que el Juez dicte, las que deberán atender siempre al beneficio del menor. La ley deberá reglamentar la situación de la madre y del menor para estos casos.
 
 ###### Artículo 109.
 
@@ -935,7 +947,7 @@ La confesión podrá recibirse por el Agente del Ministerio Público del Fuero C
 
 ###### Artículo 128.
 
-Terminada la diligencia de confesión se dará lectura de ella al acusado o la leerá por si mismo y la firmará o, en su caso, se hará constar la causa por la que no firme.
+Terminada la diligencia de confesión se dará lectura de ella al acusado o la leerá por sí mismo y la firmará o, en su caso, se hará constar la causa por la que no firme.
 
 #### SECCION CUARTA.- Prueba pericial
 
@@ -1359,7 +1371,7 @@ Los documentos privados y la correspondencia procedente de uno de los interesado
 
 ###### Artículo 215.
 
-Cuando el Ministerio Público estime que pueden encontrarse pruebas del delito que motiva la instrucción en la correspondencia que se dirija la acusado, pedirá al Tribunal y éste ordenará que dicha correspondencia se recoja.
+Cuando el Ministerio Público estime que pueden encontrarse pruebas del delito que motiva la instrucción en la correspondencia que se dirija al acusado, pedirá al Tribunal y éste ordenará que dicha correspondencia se recoja.
 
 ###### Artículo 216.
 
@@ -1761,9 +1773,23 @@ Son irrevocables y causan ejecutoria:
 
 I.- Las sentencias pronunciadas en primera instancia cuando se hayan consentido expresamente;
 
-II.- Las sentencias pronunciadas en primera instancia que sean consentidas tácitamente, por no haberse interpuesto dentro del término fijado por la ley, el recurso procedente en su contra; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Las sentencias contra las cuales no dé la ley recurso alguno.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+II.- Las sentencias pronunciadas en primera instancia que sean consentidas tácitamente, por no haberse interpuesto dentro del término fijado por la ley, el recurso procedente en su contra;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+III.- Las sentencias contra las cuales no dé la ley recurso alguno;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+IV.- Las resoluciones dictadas por los Jueces del Estado competentes, en delitos contra la salud en su modalidad de narcomenudeo, que contemplan los artículos 474, 475, 476 y 477 de la Ley General de Salud y relativos del Código Federal.
 
 ### CAPITULO DECIMO.- RECURSOS
 
@@ -2101,7 +2127,7 @@ Si la apelación se declara admisible, se pedirá el expediente, duplicado o tes
 
 ###### Artículo 338.
 
-Todo inculpado tendrá derecho a ser puesto en libertad provisional bajo caución, siempre y cuando se garantice en su caso el monto estimado de la reparación de los daños y de las sanciones pecuniarias que puedan imponerse y no se trate de alguno de los delitos calificados como graves por la presente ley, respecto de los cuales se prohibe expresamente conceder este beneficio.
+Todo inculpado tendrá derecho a ser puesto en libertad provisional bajo caución, siempre y cuando se garantice en su caso el monto estimado de la reparación de los daños y de las sanciones pecuniarias que puedan imponerse y no se trate de alguno de los delitos calificados como graves por la presente ley, respecto de los cuales se prohíbe expresamente conceder este beneficio.
 
 ###### Artículo 338
 
@@ -2403,7 +2429,7 @@ Cuando un Juez quintanarroense estime no ser competente para conocer del negocio
 
 ###### Artículo 393.
 
-Si acepta su competencia, el Juez a quien conforme el artículo anterior se envíe un proceso, continuará conociendo de él y si no lo acepta remitirá el proceso al Tribunal Superior de Justicia y éste decidirá cual de los dos jueces es el competente, en la misma forma que dispone el artículo 390.
+Si acepta su competencia, el Juez a quien conforme el artículo anterior se envíe un proceso, continuará conociendo de él y si no lo acepta remitirá el proceso al Tribunal Superior de Justicia y éste decidirá cuál de los dos jueces es el competente, en la misma forma que dispone el artículo 390.
 
 ###### Artículo 394.
 
@@ -2981,7 +3007,7 @@ Para las actuaciones a que se refiere este Código, no hay días ni horas inháb
 
 ###### Artículo 497.
 
-Los jueces y magistrados, los funcionarios del Ministerio Público, estarán acompañados en todas la diligencias que practiquen, de sus respectivos secretarios, si los tuvieren, o de dos testigos de asistencia, que darán fe de todo lo que en aquéllas pase.
+Los jueces y magistrados, los funcionarios del Ministerio Público, estarán acompañados en todas las diligencias que practiquen, de sus respectivos secretarios, si los tuvieren, o de dos testigos de asistencia, que darán fe de todo lo que en aquéllas pase.
 
 ###### Artículo 498.
 
@@ -2999,7 +3025,7 @@ En la misma forma que establece el artículo anterior se salvarán las palabras 
 
 Todas las fechas y cantidades se escribirán precisamente con letra.
 
-> <small>(REFORMADO, P.O 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 502.
 
@@ -3181,7 +3207,7 @@ Cuando esté plenamente comprobado en autos el delito de que se trata, el funcio
 
 ###### Artículo 540.
 
-No obstante lo dispuesto en el artículo anterior, cuando deben restituirse bienes al ofendido éstos podrán retenerse, esté o no comprobado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la investigación.
+No obstante lo dispuesto en el artículo anterior, cuando deben restituirse bienes al ofendido, éstos podrán retenerse, esté o no comprobado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la investigación.
 
 Si se trata de bienes inmuebles que se encuentran baldíos, en breña, rústicos o sin construcciones, una vez que el Juez haya dictado el auto de formal prisión éste podrá ordenar las siguientes medidas:
 
@@ -3249,7 +3275,7 @@ En vista de lo que manifieste el interesado, el funcionario que hubiere impuesto
 
 ###### Artículo 548.
 
-Las diligencias de averiguación previa que deban practicarse fuera del lugar en que resida la autoridad que la practica, se encargará a quien desempeñe esas funciones donde deban practicarse; enviándole la averiguación original o un oficio con las inserciones necesarias, o las practicará la misma autoridad que realiza dicha averiguación, trasladándose a cualquier lugar del Estado, cuando así lo determine el Procurador General de Justicia del Estado.
+Las diligencias de averiguación previa que deban practicarse fuera del lugar en que resida la autoridad que la práctica, se encargará a quien desempeñe esas funciones donde deban practicarse; enviándole la averiguación original o un oficio con las inserciones necesarias, o las practicará la misma autoridad que realiza dicha averiguación, trasladándose a cualquier lugar del Estado, cuando así lo determine el Procurador General de Justicia del Estado.
 
 ###### Artículo 549.
 
@@ -3525,7 +3551,7 @@ Para el caso de que ninguna de esas dependencias cuente en sus archivos con alg�
 
 ###### Artículo 598.
 
-Las audiencias serán publicas, excepto aquellas que el Juez o Tribunal considere que deban ser privadas.
+Las audiencias serán públicas, excepto aquellas que el Juez o Tribunal considere que deban ser privadas.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -3885,7 +3911,7 @@ DECRETO No. 156, POR EL QUE SE REFORMA EL ARTICULO 100 DEL CODIGO PENAL PARA EL 
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
-P.O 30 DE SEPTIEMBRE DE 2009.
+P.O. 30 DE SEPTIEMBRE DE 2009.
 
 PRIMERO.- Esta reforma al Código de Procedimientos Penales para el Estado Libre y Soberano de Quintana Roo comenzará a regir al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3905,7 +3931,7 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de s
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
-P.O 18 DE DICIEMBRE DE 2009.
+P.O. 18 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -3948,5 +3974,13 @@ SEGUNDO.- las personas que hayan cometido el delito de violación u homicidio co
 TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 9 DE AGOSTO DE 2010.
+
+ÚNICO.- Para los efectos de la entrada en vigor y el cumplimiento de lo dispuesto en el presente Decreto, el Estado deberá atender a lo dispuesto por el párrafo tercero del Artículo Primero Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación en fecha 20 de agosto de 2009.
+
+TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
