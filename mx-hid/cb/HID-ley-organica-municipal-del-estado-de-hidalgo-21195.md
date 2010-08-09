@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-del-estado-de-hidalgo-21195"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-16"
-last_updated: "2008-03-10"
+last_updated: "2010-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY ORGANICA MUNICIPAL PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 16 de abril de 2001.
 
@@ -1998,3 +2000,17 @@ P.O. 10 DE MARZO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 9 DE AGOSTO DE 2010.
+
+PRIMERO.- La presente Ley, entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Presidentes Municipales de los Ayuntamientos electos para el trienio 2009- 2012, rendirán anualmente al Ayuntamiento, el día 16 de enero de cada año, un informe detallado sobre el estado que guarda la Administración Pública Municipal; cuando por causas de fuerza mayor no fuera posible en esta fecha, se hará en otra, previa autorización del Ayuntamiento que expedirá el acuerdo, señalando fecha y hora para este acto, sin que exceda del 31 de enero.
+
+TERCERO.- Los integrantes de los Ayuntamientos electos el primer domingo de julio de 2011, tomarán posesión de su encargo el 16 de enero del año 2012 y lo concluirán el 4 de septiembre de 2016, en términos del Artículo noveno transitorio de la reforma a la Constitución Política del Estado de Hidalgo, del 6 de octubre de 2009.
+
+CUARTO.- Se abroga la Ley Orgánica Municipal del Estado de Hidalgo, Publicada en el Periódico Oficial del Estado, el lunes 16 de abril de 2001.
+
+QUINTO.- Se derogan todas las disposiciones legales que se opongan a esta Ley.
+
+SEXTO.- Los Municipios deberán de expedir los Reglamentos que se ajusten a esta Ley, dentro del término de un año a partir de la entrada en vigor de la misma.
