@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-penales-para-el-estado-de-hidalgo-5391
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2008-12-01"
+last_updated: "2010-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990
 
@@ -241,7 +241,7 @@ Si el delito se hubiera cometido fuera del territorio del Estado, pero, hubiere 
 
 Para conocer de los delitos permanentes o continuados será competente, a prevención, cualquiera de los jueces dentro de cuya circunscripción territorial se hayan ejecutado actos que por sí solos constituyan el delito imputado o se hayan producido efectos de éste.
 
-Si fuere dudoso o desconocido el legar donde se cometió el hecho, será competente el juzgador que haya prevenido en la causa.
+Si fuere dudoso o desconocido el lugar donde se cometió el hecho, será competente el juzgador que haya prevenido en la causa.
 
 ###### ARTICULO 23.
 
@@ -997,7 +997,7 @@ En toda audiencia, el inculpado y su defensor, independientemente de su interven
 
 Si el inculpado altera el orden en una audiencia, se le apercibirá de que si insiste en su actitud se le impondrá la corrección disciplinaria de multa que el tribunal estime pertinente.
 
-> <small>(REFORMADO, P.O 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 110.
 
@@ -1123,11 +1123,19 @@ VII.- El robo calificado, cuando el monto de lo robado sea igualo mayor a quinie
 
 VIII.- El abigeato, previsto por el Artículo 208, fracción II, en relación al párrafo final del mismo numeral, así como los tipos penales que prevén las fracciones I, II y III del Artículo 209 y cuando este delito, se ejecute en términos de lo previsto por el Artículo 18 segundo párrafo;
 
-IX.- La extorsión, cuando deba aplicarse la agravante de punibilidad señalada por el segundo párrafo del artículo 216;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+IX.- La extorsión en cualquiera de sus modalidades;
 
 X.- El despojo, cuando deba aplicarse la punibilidad prevista por el primer párrafo del artículo 220;
 
-XI.- El daño en la propiedad, previsto por el artículo 223 en relación al numeral 203 fracciones III y IV;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+
+XI.- El daño en la propiedad, previsto por el Artículo 223 en relación al numeral 203 fracción IV;
 
 XII.- El tráfico de menores, previsto por el artículo 237;
 
@@ -1637,7 +1645,7 @@ Si transcurrido el plazo no rinden su dictamen, o si legalmente citados y acepta
 
 ###### ARTICULO 185.
 
-Cuando de trate de una lesión, proveniente del delito y el lesionado se encuentre en algún hospital público, los médicos de éste se tendrán por nombrados como peritos, sin perjuicio de que el funcionario que practique las diligencias nombre, además, otros, si lo creyere conveniente, para que dictaminen y hagan la clasificación legal.
+Cuando se trate de una lesión, proveniente del delito y el lesionado se encuentre en algún hospital público, los médicos de éste se tendrán por nombrados como peritos, sin perjuicio de que el funcionario que practique las diligencias nombre, además, otros, si lo creyere conveniente, para que dictaminen y hagan la clasificación legal.
 
 ###### ARTICULO 186.
 
@@ -2273,7 +2281,7 @@ III.- Cuando negada la orden de aprehensión o decretada la libertad por falta d
 
 IV.- Cuando se demuestre que el inculpado no es autor o partícipe en la conducta o hecho que se le imputan, y sólo por lo que respecta a él;
 
-V.- Cuando se pruebe que el inculpado fue ya juzgado por los mismo hechos en otro proceso;
+V.- Cuando se pruebe que el inculpado fue ya juzgado por los mismo (sic) hechos en otro proceso;
 
 VI.- Cuando el Procurador General de Justicia confirme o formule conclusiones inacusatorias;
 
@@ -3343,9 +3351,11 @@ Para el ejercicio de la acción penal, el ministerio público, deberá tener por
 
 Tan pronto como resulte que se ha comprobado el cuerpo del delito y la probable responsabilidad del indiciado, así como satisfechos los requisitos de procedibilidad cuando éstos sean exigibles, el ministerio público ejercitará la acción penal, solicitando del órgano jurisdiccional competente la orden de aprehensión o de comparecencia, según corresponda, del o de los probables responsables.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-El ministerio público, dentro del plazo de ciento ochenta días integrará la averiguación previa para determinar el ejercicio o no de la acción penal o, en su caso, decretará la reserva del expediente conforme a lo dispuesto por el artículo 392 de este Código. El incumplimiento a esta disposición, sólo será motivo de responsabilidad para la autoridad ministerial.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+El Ministerio Público; integrará la averiguación previa para determinar el ejercicio o no de la acción penal o, en su caso, consultará la reserva del expediente conforme a lo dispuesto por el Artículo 392 de este Código. El incumplimiento a esta disposición, sólo será motivo de responsabilidad penal y/o administrativa para el agente del Ministerio Público encargado de la integración de la misma.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -3391,17 +3401,25 @@ La determinación que resuelva el no ejercicio de la acción Penal, deberá ser 
 
 ### CAPITULO III. RESERVA Y ARCHIVO DEFINITIVO
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 392.
 
-Cuando el ministerio público considere que de las diligencias practicadas no resultan elementos bastantes para hacer la consignación al juzgado, pero con posterioridad pudieran allegarse estos para proseguir la averiguación, se reservará el expediente hasta que aparezcan esos datos; notificando ésta circunstancia al denunciante o querellante, al ofendido y a su asesor jurídico en su caso.
+Cuando el Ministerio Público considere que de las diligencias practicadas no resultan elementos bastantes para hacer la consignación al Juzgado, pero con posterioridad pudieran allegarse éstos para proseguir la averiguación, consultará, a .la Subprocuraduría correspondiente, la reserva del expediente hasta que aparezcan esos datos; notificando la autorización de reserva al denunciante o querellante, al ofendido y a su asesor jurídico en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+En el caso de delitos graves así contemplados por la Ley, además, el Ministerio Público, al solicitar la autorización de reserva, deberá acreditar plenamente la imposibilidad de allegarse de más medios probatorios o que éstos son insuficientes para ejercitar la acción penal, así como que ha girado el oficio correspondiente ordenando a· la policía llevar a cabo investigaciones tendientes a lograr el esclarecimiento de los hechos, el término de la reserva en éstos, será el mismo término de la prescripción de la acción Penal.
 
-###### ARTICULO 393.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Si transcurridos ciento ochenta días desde que se notificó la reserva de averiguación previa, no se recaban pruebas o éstas son insuficientes para ejercitar la acción penal, el ministerio público solicitará a la subprocuraduría autorice el archivo definitivo. Lo anterior no será aplicable cuando se trate de los delitos graves previstos por el artículo 119 de este Código, en los que deberá continuarse investigando hasta el término de la prescripción de la acción penal.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+###### ARTÍCULO 393.
+
+Si transcurridos ciento ochenta días, desde que se notificó la autorización de reserva de averiguación previa, no se recaban pruebas o éstas son insuficientes para ejercitar, la acción Penal, en el caso de delitos no graves, el Ministerio Público solicitará a la Subprocuraduría correspondiente autorice el archivo definitivo. Lo anterior no será aplicable cuando se trate de los delitos graves previstos por el Artículo 119 de este Código, en los que el término de la reserva será el término de la prescripción de la acción Penal.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
 La sub-procuraduría podrá autorizarlo u ordenar en su caso el desahogo de las diligencias que estime conducentes al esclarecimiento de los hechos.
 
@@ -4157,37 +4175,43 @@ Cuando el inculpado es ciego o sordomudo por causas de enfermedad sufrida en eda
 
 Las resoluciones que se dicten con motivo de las medidas de seguridad consistentes en tratamiento de carácter instructivo o curativo, no admitirán recurso alguno. Las que se dicten con motivo del procedimiento penal ordinario admitirán los recursos que establece este Código.
 
-## TITULO CUARTO. PROCEDIMIENTO PARA LOS MENORES DE EDAD
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, SU DENOMINACION, P.O. 9 DE AGOSTO DE 2010)</small>
+
+## TÍTULO CUARTO. DISPOSICIONES EN MATERIA DE NARCOMENUDEO Y DELITOS GRAVES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 488.
 
-De las infracciones cometidas por los menores de edad a la legislación penal del Estado, serán competentes los Consejos Tutelares para Menores Infractores de la Entidad, en los términos de la Ley de la materia.
+Cuando el Ministerio Público investigue hechos relacionados con el delito de narcomenudeo y delitos graves así considerados por el Artículo 119 de este Código, deberá hacerlo bajo el más estricto sigilo. La información que se obtenga durante la investigación, podrá ser utilizada exclusivamente en ésta o en el proceso penal correspondiente, debiéndose guardar la más estricta confidencialidad:
+
+La Averiguación Previa así como todos los documentos independientemente de su contenido o naturaleza, y los objetos, registros de voz e imágenes o cosas que le estén relacionados son estrictamente reservados.
+
+Al servidor público que indebidamente quebrante el sigilo de las actuaciones o proporcione copias simples o certificadas de ellas o de los documentos, se le sujetará al procedimiento de responsabilidad administrativa o penal, según corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 489.
 
-La Ley de los Consejos Tutelares para Menores Infractores del Estado de Hidalgo, establecerá las medidas y procedimientos aplicables, en los casos de infracciones a las disposiciones penales, cometidas por los menores de dieciocho años. Además se ocupará entre otros aspectos:
+En los casos de delitos Federales o contenidos en Leyes especiales que por competencia concurrente sean del conocimiento de las autoridades del fuero común, se estará al procedimiento previsto en este Código, salvo las excepciones previstas en dichos ordenamientos.
 
-I.- De la estructura orgánica de los consejos tutelares y sus atribuciones;
-
-II.- De los establecimientos e instalaciones donde deban permanecer los sujetos a este procedimiento especial, durante dicho procedimiento y durante la ejecución de las medidas de seguridad;
-
-III.- Del procedimiento tutelar;
-
-IV.- Del auxilio técnico y científico para el estudio y conocimiento de los menores;
-
-V.- De los recursos; y
-
-VI.- De las medidas de seguridad aplicables y de la forma y tiempo de ejecución.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### ARTICULO 490.
 
-Cuando ante el ministerio público o sus auxiliares o ante el juzgador, se demuestre que el inculpado es inimputable por razón de la edad, exista o no detenido, se declararán incompetentes para seguir conociendo del asunto y se limitarán a remitir las actuaciones al consejo tutelar respectivo.
+(DEROGADO, P.O. 9 DE AGOSTO DE 2010)
 
-En caso de que el menor se encuentre privado de su libertad, inmediatamente se remitirá al Consejo Tutelar.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### ARTICULO 491.
 
-Si del hecho tipificado como delito, aparecen como autores o partícipes del mismo, mayores y menores de edad, conocerá por lo que respecta a los primeros la autoridad que deba conocer del procedimiento penal ordinario y por lo que toca a los segundos el Consejo Tutelar para Menores Infractores.
+(DEROGADO, P.O. 9 DE AGOSTO DE 2010)
 
 ## TITULO QUINTO. PROCEDIMIENTOS PARA LOS SERVIDORES PUBLICOS QUE GOZAN DE FUERO CONSTITUCIONAL
 
@@ -4370,3 +4394,9 @@ La Secretaría de Finanzas y la Secretaría de Administración del Gobierno del 
 ###### ARTÍCULO SEXTO.
 
 Todos los asuntos de la Dirección General de Seguridad Pública y Tránsito del Estado y de la Dirección General de la Policía Ministerial que se encuentren en trámite, pasarán a la competencia de la Secretaría de Seguridad Pública del Estado, quien deberá desahogarlos y concluirlos de acuerdo con las disposiciones legales aplicables.
+
+P.O. 9 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente Decreto, una vez realizada su Publicación en el Periódico Oficial del Estado, entrará en vigor el día 20 de agosto del año 2010.
+
+SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
