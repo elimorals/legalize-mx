@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-para-el-organismo-publico-51784"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-15"
-last_updated: "2006-09-15"
+last_updated: "2010-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR PARA EL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA ESTATAL DENOMINADO "SERVICIOS DE SALUD DE COAHUILA"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2010.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 15 de septiembre de 2006.
 
@@ -277,7 +277,9 @@ IV. Dirección del Régimen Estatal del Sistema de Protección Social en Salud;
 
 V. Dirección de Asuntos Jurídicos;
 
-VI. Coordinación de Planeación y Evaluación del Desempeño;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2010)</small>
+
+VI. Dirección Técnica, Planeación y Evaluación del Desempeño;
 
 VII. Jurisdicciones Sanitarias;
 
@@ -555,9 +557,11 @@ XIX. Elaborar de acuerdo a los lineamientos de la Coordinación Administrativa d
 
 XX. Las demás que le confiera otras disposiciones aplicables, así como las que le asigne la Dirección General del Organismo o la Junta de Gobierno; (sic)
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2010)</small>
+
 ###### ARTÍCULO 26.
 
-Corresponde a la Coordinación de Planeación y Evaluación del Desempeño, cuyo titular será quien ejerza el mismo cargo en la Secretaría Estatal, el ejercicio de las atribuciones y obligaciones siguientes:
+Corresponde a la Dirección Técnica, Planeación y Evaluación del Desempeño, cuyo titular será quien ejerza el mismo cargo en la Secretaría Estatal, el ejercicio de las atribuciones y obligaciones siguientes:
 
 I. Dirigir el sistema de información estadística del Organismo, conforme a los lineamientos que dicten las dependencias competentes; así como emitir las normas para la elaboración y actualización de la información estadística en salud y vigilar su cumplimiento;
 
@@ -587,9 +591,59 @@ XIII. Coadyuvar en la definición de prioridades del programa de inversión con 
 
 XIV. Elaborar de acuerdo a los lineamientos de la Coordinación Administrativa de la Secretaría de Salud, los Manuales de Organización, de Políticas y Procedimientos y demás de naturaleza similar que se requieran para el adecuado funcionamiento de las unidades adscritas a la coordinación;
 
-XV. Observar los criterios que emita la Dirección de Asuntos Jurídicos y consultarla cuando los asuntos impliquen cuestiones jurídicas, así como proporcionar la información que requiera en los plazos y en los términos que dicha unidad administrativa le solicite; y
+XV. Observar los criterios que emita la Dirección de Asuntos Jurídicos y consultarla cuando los asuntos impliquen cuestiones jurídicas, así como proporcionar la información que requiera en los plazos y en los términos que dicha unidad administrativa le solicite; y (sic)
 
-XVI. Las demás que le confiera otras disposiciones aplicables, así como las que le asigne la Dirección General del Organismo o la Junta de Gobierno.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2010)</small>
+
+XVI.- Identificar los factores que afectan la operación de los servicios de salud en las Jurisdicciones Sanitarias y gestionar en el ámbito de su competencia las medidas aplicables;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2010)</small>
+
+XVII.- Supervisar la entrega oportuna de la Información que deba rendir el Organismo y gestionar las medidas aplicables, de acuerdo con los lineamientos que establezcan las unidades administrativas competentes;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2010)</small>
+
+XVIII.- Coordinar y supervisar la ejecución y cumplimiento de la política general que señale el Director; en las Jurisdicciones Sanitarias así como en la Unidades dependientes del Organismo en coordinación con las unidades administrativas competentes;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2010)</small>
+
+XIX.- Dar seguimiento de los acuerdos, resoluciones y demás determinaciones del Director para que se cumplan en sus términos;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2010)</small>
+
+XX.- Diseñar y operar el procedimiento para el acuerdo del Director con los titulares de las distintas unidades del Organismo;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2010)</small>
+
+XXI.- Supervisar el desahogo de la correspondencia recibida en la Dirección General, turnando a los titulares de las distintas unidades los compromisos que de ellos deriven;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2010)</small>
+
+XXII.- Establecer las bases para la programación y contenido de las giras del Director y su coordinación con las dependencias y entidades del Estado, la Federación y el Municipio, así como para la integración de la agenda del Director;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2010)</small>
+
+XXIII.- Diseñar, establecer y operar un sistema de información, análisis y archivo para el despacho de los asuntos encomendados al Director;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2010)</small>
+
+XXIV.- Supervisar la organización y control del archivo de la oficina del Director;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2010)</small>
+
+XXV.- Participar en la formulación e instrumentación de los proyectos y programas específicos que determine el Director, en coordinación con las unidades administrativas competentes, en apoyo al desarrollo de los programas de salud;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2010)</small>
+
+XXVI.- Planear la realización y presentación de las sesiones de la Junta de Gobierno;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2010)</small>
+
+XXVII.- Desempeñar las comisiones, representaciones y funciones que le confiera el Director así como mantenerlo informado sobre su desarrollo, avance y cumplimiento;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2010)</small>
+
+XXVIII.- Las demás que le confiera otras disposiciones aplicables, así como las que le asigne la Dirección General del Organismo o la Junta de Gobierno.
 
 ###### ARTÍCULO 27.
 
@@ -900,3 +954,9 @@ C. BRAULIO CÁRDENAS CANTÚ
 REPRESENTANTE DE LA INICIATIVA PRIVADA ANTE LA JUNTA DE GOBIERNO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
