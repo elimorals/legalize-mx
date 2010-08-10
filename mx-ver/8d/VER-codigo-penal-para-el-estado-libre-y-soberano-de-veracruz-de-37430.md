@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2010-04-02"
+last_updated: "2010-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2010.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1665,9 +1665,11 @@ Cuando la víctima sea menor de dieciocho años, se impondrá una pena de dos a 
 
 El delito de acoso sexual se perseguirá por querella.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
 
 ## TÍTULO VI. DELITOS CONTRA LA DIGNIDAD
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
 
 ### CAPÍTULO II. ABIGEATO
 
@@ -1695,33 +1697,27 @@ INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES.
 
 ###### Artículo 191.
 
-A quien comunique a una o más personas, la imputación que se haga a otra, física o moral, de un hecho falso, determinado o indeterminado, que cause o pueda causarle deshonra, descrédito, perjuicio o exponerlo al desprecio, se le impondrán de seis meses a cuatro años de prisión y multa hasta de cuarenta días de salario.
-
-Si el hecho imputado fuere cierto, se requerirá, para sancionar la conducta, que el sujeto activo se conduzca con la intención de causar la deshonra, descrédito, perjuicio o exponerlo al desprecio.
+(DEROGADO, G.O. 10 DE AGOSTO DE 2010)
 
 ###### Artículo 192.
 
-No se aplicará sanción alguna a quien manifieste:
+(DEROGADO, G.O. 10 DE AGOSTO DE 2010)
 
-I. Opinión técnica sobre alguna producción literaria, artística, científica o industrial;
-
-II. Juicio sobre la capacidad, instrucción, aptitud o conducta, si probare que obró en cumplimiento de un deber, por interés público, por razones humanitarias o proporcionando informes a la autoridad; o
-
-III. Si el hecho imputado está declarado por sentencia firme.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
 
 ### CAPÍTULO IX. USURA
 
 ###### Artículo 193.
 
-A quien impute a otro un hecho determinado, que la ley califique como delito, si este hecho es falso, se le impondrán de seis meses a cinco años de prisión y multa hasta de cincuenta días de salario.
+(DEROGADO, G.O. 10 DE AGOSTO DE 2010)
 
 ###### Artículo 194.
 
-No se admitirá prueba alguna de su imputación al acusado de calumnia ni se librará de la sanción correspondiente, cuando exista una sentencia irrevocable que haya absuelto al calumniado del mismo delito que aquél le impute.
+(DEROGADO, G.O. 10 DE AGOSTO DE 2010)
 
 ###### Artículo 195.
 
-Cuando esté pendiente el proceso que se instruya por el delito imputado, se suspenderá el ejercicio de la acción penal por el delito de calumnia y se interrumpirá la prescripción hasta que se dicte resolución irrevocable que ponga fin a dicho proceso.
+(DEROGADO, G.O. 10 DE AGOSTO DE 2010)
 
 ### CAPÍTULO X. DESPOJO
 
@@ -1745,31 +1741,33 @@ IV. Niegue o restrinja derechos laborales.
 
 Al servidor público que en ejercicio de su función, incurra en alguna de las conductas previstas en este artículo o niegue o retrase a una persona un trámite o servicio al que tenga derecho, además de las sanciones previstas, se le impondrán destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, hasta por el mismo lapso de la prisión impuesta.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+Este delito se perseguirá por querella.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
 
 ### CAPÍTULO XI. DAÑOS
 
 ###### Artículo 197.
 
-Los delitos previstos en el presente Título se perseguirán por querella.
+(DEROGADO, G.O. 10 DE AGOSTO DE 2010)
 
 ###### Artículo 198.
 
-Por los delitos de difamación o calumnia que se produzcan con posterioridad al fallecimiento del ofendido se procederá por querella de sus familiares o legítimos representantes. Si esos mismos delitos se cometen con anterioridad al fallecimiento del ofendido y éste hubiere perdonado la ofensa, o no se hubiere querellado, ni manifestado que lo hicieren sus herederos, no se atenderá la querella de éstos.
+(DEROGADO, G.O. 10 DE AGOSTO DE 2010)
 
 ###### Artículo 199.
 
-Los impresos, litografías, grabados, pinturas, discos o cualquier otra cosa que hubiere servido de medio para los delitos contra el honor, se recogerán e inutilizarán, a menos que se trate de algún documento público o de uno privado que importe obligación, liberación o transmisión de derechos, o cuando pertenezcan a un tercero ajeno a los hechos.
-
-En tal caso, se hará en el documento una anotación sumaria de la sentencia pronunciada contra el acusado.
+(DEROGADO, G.O. 10 DE AGOSTO DE 2010)
 
 ###### Artículo 200.
 
-Siempre que sea condenado el responsable de un delito contra el honor, si lo solicita la parte ofendida, se hará publicación de sentencia. Cuando el delito se haya cometido utilizando un medio de comunicación masiva, sus dueños, directores o gerentes estarán obligados a dar a conocer el fallo, imponiéndoseles también multa de dos días de salario por cada día que pase sin hacerlo, después de aquel en que se les notifique la sentencia.
+(DEROGADO, G.O. 10 DE AGOSTO DE 2010)
 
 ###### Artículo 201.
 
-No servirá de excusa en los delitos contra el honor que el hecho imputado sea notorio o que el reo no haya hecho más que reproducir lo ya publicado.
+(DEROGADO, G.O. 10 DE AGOSTO DE 2010)
 
 ## TÍTULO VIII. DELITOS CONTRA LA FAMILIA
 
@@ -3628,3 +3626,9 @@ G.O. 2 DE ABRIL DE 2010.
 Artículo primero. El presente decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE AGOSTO DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
