@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-272-de-mejora-regulatoria-para-el-estado-de-62490"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-13"
-last_updated: "2008-08-13"
+last_updated: "2010-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 272 DE MEJORA REGULATORIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el miércoles 13 de agosto de 2008.
 
@@ -71,7 +71,7 @@ I. Anteproyecto: Los Anteproyectos de Regulación establecidos en el artículo 1
 
 II. Consejo: El Consejo Estatal de Mejora Regulatoria;
 
-III. Comisión: La Comisión Estatal de Mejora Regulatoria;
+III. (DEROGADA, G.O. 10 DE AGOSTO DE 2010)
 
 IV. Dependencias y Entidades: Las establecidas en los artículos 1, 2 y 3, de la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz;
 
@@ -84,6 +84,10 @@ VII. Registro: El Registro Estatal de Trámites y Servicios;
 VIII. Servicio: Toda aquella acción que realiza el particular ante la autoridad para obtener un beneficio, iniciar procedimientos o una consulta, sin que medie una obligación de hacerlo; y
 
 IX. Trámite: Cualquier solicitud o entrega de información que las personas físicas o morales del sector privado, público y social hagan ante una dependencia o entidad, ya sea para cumplir una obligación, obtener un beneficio o servicio o, en general, a fin de que se emita una resolución, así como cualquier documento que dichas personas estén obligadas a conservar, no comprendiéndose aquella documentación o información que sólo tenga que presentarse en caso de un requerimiento de una dependencia o entidad.
+
+> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2010)</small>
+
+X. Secretaría: Secretaría de Desarrollo Económico y Portuario.
 
 Artículo 4
 
@@ -115,15 +119,21 @@ Artículo 6
 
 Los Municipios del Estado, conforme a la legislación aplicable, promoverán la incorporación de la mejora regulatoria en sus procedimientos y resoluciones administrativas, y su consecuente implementación, de conformidad con las prácticas reconocidas en la materia, así como el desarrollo de las unidades administrativas y recursos humanos capacitados en mejora regulatoria.
 
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
 Artículo 7
 
-El Consejo Estatal de Mejora Regulatoria decidirá en definitiva en caso de controversia entre las dependencias o entidades y la Comisión.
+El Consejo Estatal de Mejora Regulatoria decidirá en definitiva los casos de controversia que se susciten en materia de mejora regulatoria, al interior de las dependencias o entidades.
 
 Artículo 8
 
-Los portales de Internet de las dependencias y entidades deberán crear un apartado de mejora regulatoria, en el cual se incorporará toda su información sobre la materia y una liga al portal de la Comisión.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
-El portal de Internet de la Comisión contendrá como mínimo:
+Los portales de Internet de las dependencias y entidades deberán crear un apartado de mejora regulatoria, en el cual se incorporará toda su información sobre la materia y una liga al portal de la Secretaría.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+El portal de Internet de la Secretaría incluirá un banner alusivo a la mejora regulatoria, que contendrá como mínimo:
 
 I. La posibilidad de recibir comentarios de cada uno de los anteproyectos en revisión;
 
@@ -131,19 +141,27 @@ II. Las manifestaciones recibidas para revisión;
 
 III. Los comentarios formulados a los anteproyectos y las manifestaciones;
 
-IV. Los dictámenes emitidos por la Comisión;
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
+
+IV. Los dictámenes emitidos por la Secretaría;
 
 V. Toda aquella documentación e información relevante en materia de mejora regulatoria; y
 
-VI. Los Programas, los comentarios que formulen los particulares, los comentarios que formule la Comisión y la versión final de los Programas.
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
+
+VI. Los Programas, los comentarios que formulen los particulares o la Secretaría y la versión final de los Programas.
 
 ## Título Segundo. DE LOS RESPONSABLES DE LA MEJORA REGULATORIA
 
-### CAPÍTULO PRIMERO. De la Comisión Estatal de Mejora Regulatoria
+> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO PRIMERO. De la Mejora Regulatoria
 
 Artículo 9
 
-Se crea la Comisión Estatal de Mejora Regulatoria como organismo público descentralizado del Poder Ejecutivo del Estado, sectorizado a la Secretaría de Desarrollo Económico y Portuario, cuyas atribuciones serán:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+En materia de mejora regulatoria, la Secretaría de Desarrollo Económico y Portuario tendrá las siguientes atribuciones:
 
 I. Realizar un proceso continuo de revisión de la regulación estatal, diagnosticar los efectos de su aplicación y elaborar propuestas al Titular del Ejecutivo Estatal de proyectos de disposiciones legislativas y administrativas, así como para mejorar la regulación en actividades o sectores económicos específicos;
 
@@ -161,69 +179,33 @@ VII. Celebrar acuerdos interinstitucionales en materia de mejora regulatoria, en
 
 VIII. Someter temas al Consejo para su discusión;
 
-IX. Elaborar cada año y publicar en la Gaceta Oficial un informe anual sobre el estado que guarda la mejora regulatoria en el Estado y sobre el desempeño de la Comisión; y
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
+
+IX. Elaborar cada año y publicar en la Gaceta Oficial un informe anual sobre el estado que guarda la mejora regulatoria en el Estado y sobre el desempeño de la Secretaría; y
 
 X. Interpretar en el ámbito administrativo esta ley.
 
-Artículo 10
+Artículo 10 (DEROGADO, G.O. 10 DE AGOSTO DE 2010)
 
-La Comisión será dirigida por un Director General, quien será designado por el titular del Ejecutivo Estatal de entre tres profesionales que comprueben por lo menos dos años de experiencia suficiente en materias afines al objeto de la Comisión, que cumplan con los requisitos que establecen los artículos 11 y 50 de la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, y sean propuestos por el Consejo Estatal de Mejora Regulatoria.
-
-El Director General será designado para desempeñar su encargo por un periodo de cuatro años, podrá ser reelegido una sola ocasión y removido de su cargo sólo por causa grave, equiparable a los supuestos del artículo 46 de la Ley de Responsabilidades de los Servidores Públicos para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
-
-El Director General deberá abstenerse de desempeñar cualquier otro empleo, cargo o comisión pública o privada, con excepción de los cargos docentes. Asimismo, estará impedido para conocer de asuntos en los que tenga interés directo o indirecto.
-
-La Comisión tendrá el personal necesario para el despacho eficaz de sus asuntos, de acuerdo con su presupuesto autorizado.
-
-Artículo 11
-
-Las atribuciones del Director General serán:
-
-I. Dirigir y representar jurídicamente a la Comisión, en todos los asuntos relacionados con ésta;
-
-II. Adscribir las unidades administrativas de la Comisión, así como designar y remover a sus servidores públicos;
-
-III. Expedir sus manuales de operación y procedimientos;
-
-IV. Tramitar el presupuesto aprobado;
-
-V. Delegar facultades en el ámbito de su competencia;
-
-VI. Interpretar esta ley para efectos administrativos;
-
-VII. Establecer el calendario para que la administración pública estatal centralizada y paraestatal presenten a la Comisión sus Programas Bienales de Mejora Regulatoria y sus reportes semestrales de ejecución, así como establecer los lineamientos para la elaboración de dichos programas y reportes;
-
-VIII. Hacer pública, por los medios más convenientes, de conformidad con la Ley de Transparencia y Acceso a la Información para el Estado de Veracruz de Ignacio de la Llave, la información que emita o reciba la Comisión;
-
-IX. Integrar y administrar el Registro y determinar la forma en que la administración pública centralizada y paraestatal deberá presentar la información, así como opinar de ella;
-
-X. Asesorar y coordinar las acciones de la administración centralizada y paraestatal en materia de mejora regulatoria;
-
-XI. Promover la implantación de la materia de mejora regulatoria como política pública permanente en los Municipios y en los Poderes Legislativo y Judicial y cuando así se acuerde proveer la asesoría y celebrar los convenios necesarios para tal efecto;
-
-XII. Celebrar acuerdos interinstitucionales en materia de mejora regulatoria, en los términos de la legislación aplicable;
-
-XIII. Elaborar cada año y publicar en la Gaceta Oficial un informe anual sobre el estado que guarda la mejora regulatoria en el Estado y sobre el desempeño de la
-
-Comisión;
-
-XIV. Someter temas al Consejo para su discusión;
-
-XV. Fungir como Secretario Técnico del Consejo; y
-
-XVI. Hacer del conocimiento de la Contraloría General del Estado el incumplimiento a las disposiciones de esta ley.
+Artículo 11 (DEROGADO, G.O. 10 DE AGOSTO DE 2010)
 
 ### CAPÍTULO SEGUNDO. Del Consejo Estatal de Mejora Regulatoria
 
 Artículo 12
 
-Se crea el Consejo Estatal de Mejora Regulatoria como una instancia consultiva de la Comisión en materia de mejora regulatoria, en el que participarán los diversos sectores de la sociedad y que tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+Se crea el Consejo Estatal de Mejora Regulatoria como una instancia consultiva de la Secretaría en materia de mejora regulatoria, en el que participarán los diversos sectores de la sociedad y que tendrá las siguientes atribuciones:
 
 I. Ser enlace entre los sectores público, académico, social y privado para recabar las opiniones de dichos sectores en materia de mejora regulatoria;
 
-II. Conocer los programas, informes y acciones de la Comisión; y
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
 
-III. Proponer a la Comisión acciones o programas en materia de mejora regulatoria.
+II. Conocer los programas, informes y acciones de la Secretaría; y
+
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
+
+III. Proponer a la Secretaría acciones o programas en materia de mejora regulatoria.
 
 El Consejo operará en los términos del reglamento interno que al efecto se expida.
 
@@ -267,7 +249,9 @@ i) Cámara Nacional de Comercio; y
 
 j) Aquellos que a invitación expresa del Presidente se integren al Consejo; y
 
-V. Un Secretario Técnico, que será el Director General de la Comisión.
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
+
+V. Un Secretario Técnico, que será el titular de la Dirección que lleve a cabo las acciones en materia de mejora regulatoria dentro de la Dependencia.
 
 El Consejo podrá invitar a sus sesiones a los titulares de las representaciones de las Dependencias Federales en el Estado, así como a representantes de la banca y organizaciones ciudadanas.
 
@@ -297,13 +281,21 @@ Las funciones del responsable oficial serán las siguientes:
 
 I. Coordinar el proceso de mejora regulatoria al interior de la dependencia o entidad correspondiente;
 
-II. Someter a dictamen de la Comisión el Programa Bienal de Mejora Regulatoria de la dependencia o entidad correspondiente, e incorporar las observaciones que el dictamen correspondiente contenga;
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
 
-III. Informar en forma semestral, de conformidad con el calendario que establezca la Comisión, respecto de los avances en la ejecución del Programa Bienal de Mejora Regulatoria;
+II. Someter a dictamen de la Secretaría, el Programa Bienal de Mejora Regulatoria de la dependencia o entidad correspondiente, e incorporar las observaciones que el dictamen correspondiente contenga;
 
-IV. Suscribir y enviar a la Comisión los anteproyectos de regulación y sus correspondientes manifestaciones; y
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
 
-V. Suscribir y enviar a la Comisión la información para ser inscrita en el Registro.
+III. Informar en forma semestral, de conformidad con el calendario que establezca la Secretaría, respecto de los avances en la ejecución del Programa Bienal de Mejora Regulatoria;
+
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
+
+IV. Suscribir y enviar a la Secretaría los anteproyectos de regulación y sus correspondientes manifestaciones; y
+
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
+
+V. Suscribir y enviar a la Secretaría la información para ser incorporada en el Registro.
 
 ## Título Tercero. DE LOS INSTRUMENTOS DE LA MEJORA REGULATORIA
 
@@ -325,23 +317,31 @@ IV. Diagnóstico del marco regulatorio vigente; y
 
 V. Regulación por crear, modificar o eliminar.
 
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
 Artículo 17
 
-Los Responsables Oficiales realizarán dentro de las dependencias y entidades un proceso de integración de los Programas con el fin de cumplir con la información prevista en el artículo anterior y de conformidad con el calendario que para este efecto determine la Comisión.
+Los responsables oficiales realizarán dentro de las dependencias y entidades un proceso de integración de los Programas con el fin de cumplir con la información prevista en el artículo anterior y de conformidad con el calendario que para este efecto determine la Secretaría.
+
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 Artículo 18
 
-Los Responsables Oficiales remitirán el Programa a la Comisión en la fecha que ésta determine.
+Los responsables oficiales remitirán el Programa a la Secretaría en la fecha que ésta determine.
 
-La Comisión pondrá los Programas que envíen las dependencias y entidades en su portal de Internet, a más tardar al día siguiente de recibirlos y durante 15 días hábiles, para que los particulares expresen sus opiniones. Una vez transcurrido ese periodo, la Comisión tendrá hasta cinco días hábiles para formular comentarios a la dependencia o entidad correspondiente.
+La Secretaría incorporará los Programas que envíen las dependencias y entidades en su portal de Internet, a más tardar al día siguiente de recibirlos y durante quince días hábiles, para que los particulares expresen sus opiniones.
 
-Las dependencias o entidades tendrán hasta cinco días hábiles para incorporar los comentarios de la Comisión y enviarle la versión final, la cual será puesta en los portales de Internet de la Comisión y de la dependencia o entidad.
+Una vez transcurrido ese periodo, la Secretaría tendrá hasta cinco días hábiles para formular comentarios a la dependencia o entidad correspondiente.
+
+Las dependencias o entidades tendrán hasta cinco días hábiles para incorporar las propuestas procedentes de la Secretaría y enviarle la versión final, la cual será puesta en los portales de Internet de la Secretaría y de la dependencia o entidad.
+
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 Artículo 19
 
-Las dependencias y entidades entregarán a la Comisión un reporte semestral respecto de los avances del Programa, sobre el cual la Comisión podrá hacer observaciones.
+Las dependencias y entidades entregarán a la Secretaría un reporte semestral respecto de los avances del Programa, sobre el cual la Secretaría podrá hacer observaciones.
 
-La Comisión hará público un reporte sobre el grado de cumplimiento de los Programas, el cual será entregado al titular del Ejecutivo Estatal, al Congreso del Estado y publicado en su portal de Internet.
+La Secretaría hará público un reporte sobre el grado de cumplimiento de los Programas, el cual será entregado al titular del Ejecutivo Estatal, al Congreso del Estado y publicado en su portal de Internet.
 
 ### CAPÍTULO SEGUNDO. De las Disposiciones Comunes a los Trámites y Servicios
 
@@ -373,7 +373,9 @@ De no realizarse la prevención mencionada en el párrafo anterior dentro del pl
 
 Artículo 23
 
-La Comisión integrará y administrará el Registro, el cual contendrá todos los trámites y servicios vigentes en la administración pública estatal centralizada y paraestatal.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+La Secretaría integrará y administrará el Registro, el cual contendrá todos los trámites y servicios vigentes en la administración pública estatal centralizada y paraestatal.
 
 Lo establecido en el Registro será de cumplimiento obligatorio para los servidores públicos de las dependencias o entidades ante quienes se lleven a cabo los trámites y servicios, en la forma prevista en él, y no podrá aplicarse de otra forma, emplear plazos distintos, ni solicitar requisitos, documentación o información adicional a la establecida.
 
@@ -381,17 +383,25 @@ Las personas que lleven a cabo trámites y servicios tendrán derecho a que los 
 
 Artículo 24
 
-La información contenida en el Registro, así como su actualización, serán de responsabilidad exclusiva de la dependencia o entidad que la presente ante la Comisión, las cuales entregarán dicha información de conformidad con los lineamientos que para el efecto emita la propia Comisión.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
-Dichas actualizaciones o modificaciones se deberán hacer del conocimiento de la Comisión en un término máximo de cinco días hábiles siguientes a la publicación en la Gaceta Oficial del estado de la disposición que la sustente.
+La información contenida en el Registro, así como su actualización, serán de responsabilidad exclusiva de la dependencia o entidad que la presente ante la Secretaría, debiéndose entregar dicha información de conformidad con los lineamientos que para el efecto emita la propia Secretaría.
 
-La Comisión inscribirá la información o actualizaciones que proporcionen las dependencias o entidades, sin cambio alguno, y en un término máximo de cinco días hábiles, cuando cumplan con los elementos requeridos.
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+Las actualizaciones o modificaciones se deberán hacer del conocimiento de la Secretaría en un término máximo de cinco días hábiles siguientes a la publicación en la Gaceta Oficial del estado de la disposición que la sustente.
+
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+La Secretaría inscribirá la información o actualizaciones que proporcionen las dependencias o entidades, sin cambio alguno, y en un término máximo de cinco días hábiles, cuando cumplan con los elementos requeridos.
 
 Los procedimientos de las dependencias y entidades para realizar sus contrataciones quedarán excluidos del Registro.
 
 Artículo 25
 
-El Registro será público y deberá cumplir con las disposiciones que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Veracruz de Ignacio de la Llave, asimismo, se hará del conocimiento general a través de un portal de Internet y de aquellos medios que la Comisión considere idóneos para el mayor conocimiento público.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+El Registro será público y deberá cumplir con las disposiciones que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Veracruz de Ignacio de la Llave, asimismo, se hará del conocimiento general a través de un portal de Internet y de aquellos medios que la Secretaría considere idóneos para el mayor conocimiento público.
 
 La información que deberá contener el Registro será la siguiente:
 
@@ -431,15 +441,19 @@ II. Establecer en su portal de Internet una liga al Registro, y específicamente
 
 III. Incluir la dirección electrónica del Registro en toda la papelería que impriman.
 
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
 Artículo 27
 
-Bajo la coordinación de la Comisión, las dependencias y entidades, en el proceso de integración del Registro, y en el marco de las acciones de cumplimiento de los Programas Bienales de Mejora Regulatoria, realizarán un ejercicio de análisis de los procesos de dependencias y entidades, con el objeto de determinar los trámites y servicios aplicables, revisar su vigencia y sujetarlos a un proceso de mejora regulatoria.
+Bajo la coordinación de la Secretaría, las dependencias y entidades, en el proceso de integración del Registro, y en el marco de las acciones de cumplimiento de los Programas Bienales de Mejora Regulatoria, realizarán un ejercicio de análisis de los procesos de dependencias y entidades, con el objeto de determinar los trámites y servicios aplicables, revisar su vigencia y sujetarlos a un proceso de mejora regulatoria.
 
 ### CAPÍTULO CUARTO. De la Manifestación de Impacto Regulatorio
 
 Artículo 28
 
-Las dependencias y entidades, cuando elaboren anteproyectos de regulación que se ubiquen en los supuestos del artículo 1, los presentarán a la Comisión, junto con una manifestación, la cual será un análisis que tendrá como principal objetivo desarrollar, mediante investigaciones analíticas y transparentes, los aspectos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+Las dependencias y entidades, cuando elaboren anteproyectos de regulación que se ubiquen en los supuestos del artículo 1, los presentarán a la Secretaría, junto con una manifestación, la cual será un análisis que tendrá como principal objetivo desarrollar, mediante investigaciones analíticas y transparentes, los aspectos siguientes:
 
 I. La justificación de expedir una determinada regulación, mediante la identificación de la problemática o situación que el anteproyecto pretenda resolver o abordar;
 
@@ -451,21 +465,29 @@ IV. Identificar y analizar las alternativas posibles del anteproyecto para hacer
 
 V. Estimar los costos y beneficios esperados para los particulares de aprobarse y aplicarse el anteproyecto.
 
-La Comisión emitirá los lineamientos de presentación de las manifestaciones.
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+La Secretaría emitirá los lineamientos de presentación de las manifestaciones.
+
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 Artículo 29
 
-La dependencia o entidad podrá solicitar la exención de la obligación de elaborar la manifestación cuando el anteproyecto no implique costos de cumplimiento para los particulares. Para ello se consultará a la Comisión, acompañando una copia del anteproyecto.
+La dependencia o entidad podrá solicitar la exención de la obligación de elaborar la manifestación cuando el anteproyecto no implique costos de cumplimiento para los particulares. Para ello se consultará a la Secretaría, acompañando una copia del anteproyecto.
 
 Artículo 30
 
-La Comisión hará públicos, a través de su portal de Internet, los anteproyectos y manifestaciones, a más tardar dos días después de aquel en que los reciba.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+La Secretaría hará públicos, a través de su portal de Internet, los anteproyectos y manifestaciones, a más tardar dos días después de aquel en que los reciba.
 
 De igual forma los enviará a las partes que identifique como afectadas y empleará cualquier otro medio que considere pertinente, con el fin de darles la mayor publicidad posible.
 
 Artículo 31
 
-En caso de que un anteproyecto pretenda resolver o prevenir una situación de emergencia, la dependencia o entidad podrá solicitar a la Comisión que se emita el dictamen reconociendo dicha situación, para lo cual se acompañará la justificación de la solicitud y los efectos que podría tener de no expedirse en la fecha en que se pretende.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+En caso de que un anteproyecto pretenda resolver o prevenir una situación de emergencia, la dependencia o entidad podrá solicitar a la Secretaría que se emita el dictamen reconociendo dicha situación, para lo cual se acompañará la justificación de la solicitud y los efectos que podría tener de no expedirse en la fecha en que se pretende.
 
 Entre otros casos, las situaciones de emergencias podrán ser:
 
@@ -475,27 +497,37 @@ II. Desastres naturales; o
 
 III. Daños económicos inminentes.
 
-La Comisión deberá emitir un dictamen dentro de los cinco días hábiles siguientes a la recepción del anteproyecto, con el cual la dependencia o entidad podrá acudir a la Gaceta Oficial del estado para solicitar su publicación.
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+La Secretaría deberá emitir un dictamen dentro de los cinco días hábiles siguientes a la recepción del anteproyecto, con el cual la dependencia o entidad podrá acudir a la Gaceta Oficial del estado para solicitar su publicación.
 
 La dependencia o entidad contará con un plazo máximo de diez días hábiles para presentar la manifestación correspondiente.
 
 Artículo 32
 
-Cuando los anteproyectos pretendan modificar disposiciones que por su naturaleza deban actualizarse periódicamente, sin imponer obligaciones adicionales a las ya existentes, las dependencias y entidades podrán elaborar una manifestación de actualización periódica, de conformidad con los lineamientos que emita la Comisión.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+Cuando los anteproyectos pretendan modificar disposiciones que por su naturaleza deban actualizarse periódicamente, sin imponer obligaciones adicionales a las ya existentes, las dependencias y entidades podrán elaborar una manifestación de actualización periódica, de conformidad con los lineamientos que emita la Secretaría.
 
 Para elegir esta opción, las dependencias y entidades deberán cerciorarse con anterioridad de que existe una manifestación ordinaria de dicha regulación.
 
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
 Artículo 33
 
-La Comisión podrá solicitar a la dependencia o entidad, dentro de los cinco días siguientes a aquel en que se haya recibido la manifestación, que amplíe o complemente su información, cuando ésta no satisfaga los elementos que para el efecto se determinen.
+La Secretaría podrá solicitar a la dependencia o entidad, dentro de los cinco días siguientes a aquel en que se haya recibido la manifestación, que amplíe o complemente su información, cuando ésta no satisfaga los elementos que para el efecto se determinen.
 
-La dependencia o entidad tendrá diez días a partir de que reciba la solicitud de ampliación o complementación para entregar a la Comisión la manifestación corregida.
+La dependencia o entidad tendrá diez días a partir de que reciba la solicitud de ampliación o complementación para entregar a la Secretaría la manifestación corregida.
 
 Artículo 34
 
-La Comisión emitirá a la dependencia o entidad correspondiente un dictamen de la manifestación y del anteproyecto de regulación respectivo, dentro de los treinta días hábiles siguientes a la recepción de la manifestación, de la ampliación o complementación de la misma o de los comentarios de los expertos a que se refiere el artículo 35, según corresponda.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
-Los dictámenes deberán considerar las opiniones que reciba la Comisión respecto de los anteproyectos y de las manifestaciones.
+La Secretaría emitirá a la dependencia o entidad correspondiente un dictamen de la manifestación y del anteproyecto de regulación respectivo, dentro de los treinta días hábiles siguientes a la recepción de la manifestación, de la ampliación o complementación de la misma o de los comentarios de los expertos a que se refiere el artículo 35, según corresponda.
+
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+Los dictámenes deberán considerar las opiniones que reciba la Secretaría respecto de los anteproyectos y de las manifestaciones.
 
 El contenido mínimo de los dictámenes será:
 
@@ -507,25 +539,33 @@ III. Una opinión de la manifestación.
 
 Artículo 35
 
-En caso de controversia entre la dependencia o entidad y la Comisión respecto del contenido de la manifestación y el anteproyecto, a petición de cualquiera de las partes se podrá solicitar, con cargo al presupuesto de la primera, la opinión de un experto en la materia, el cual será designado de común acuerdo.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+En caso de controversia entre la dependencia o entidad y la Secretaría respecto del contenido de la manifestación y el anteproyecto, a petición de cualquiera de las partes se podrá solicitar, con cargo al presupuesto de la primera, la opinión de un experto en la materia, el cual será designado de común acuerdo.
 
 El experto deberá entregar su opinión en un término máximo de 20 días hábiles, y no será vinculativa para ninguna de las partes.
 
 Artículo 36
 
-Si la dependencia o entidad no desea incorporar al anteproyecto las observaciones del dictamen, deberá comunicar a la Comisión por escrito las razones respectivas dentro de los diez días hábiles siguientes, la cual emitirá en los cinco días hábiles siguientes un dictamen final, que analizará los argumentos planteados.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+Si la dependencia o entidad no desea incorporar al anteproyecto las observaciones del dictamen, deberá comunicar a la Secretaría por escrito las razones respectivas dentro de los diez días hábiles siguientes, la cual emitirá en los cinco días hábiles siguientes un dictamen final, que analizará los argumentos planteados.
 
 El contenido de los dictámenes finales será de observancia obligatoria para la dependencia o entidad.
 
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
 Artículo 37
 
-La dependencia o entidad enviará a la Comisión Estatal de Mejora Regulatoria, el anteproyecto, acompañado de la manifestación, sus ampliaciones y complementaciones, los dictámenes de la Comisión, así como los oficios intercambiados entre las partes.
+La dependencia o entidad enviará a la Secretaría el anteproyecto, acompañado de la manifestación, sus ampliaciones y complementaciones, los dictámenes de la Secretaría, así como los oficios intercambiados entre las partes.
 
-La Comisión deberá recabar y tomar en cuenta la manifestación, así como el dictamen de la Comisión, para someter los anteproyectos a consideración del Consejo Estatal.
+La Secretaría deberá recabar y tomar en cuenta la manifestación, así como en su caso, el dictamen, para someter los anteproyectos a consideración del Consejo Estatal.
+
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 Artículo 38
 
-La Gaceta Oficial del estado no publicará los actos, procedimientos y resoluciones a que se refiere el artículo 1 de esta ley, que expidan las dependencias o entidades, sin que éstas acrediten contar con un dictamen de la Comisión o la exención a que se refiere el artículo 29.
+La Gaceta Oficial del estado no publicará los actos, procedimientos y resoluciones a que se refiere el artículo 1 de esta ley, que expidan las dependencias o entidades, sin que éstas acrediten contar con un dictamen de la Secretaría o la exención a que se refiere el artículo 29.
 
 ### CAPÍTULO QUINTO. Registro de Personas Acreditadas
 
@@ -537,7 +577,9 @@ Para el efecto, se emitirá una clave de identificación personalizada y se inte
 
 Artículo 40
 
-La Comisión tendrá a su cargo el Registro de Personas Acreditadas, integrado en una base de datos única, emitirá los lineamientos correspondientes y proveerá lo necesario para integrar las fichas de usuarios y las claves de identificación personalizada que cada dependencia o entidad genere.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+La Secretaría tendrá a su cargo el Registro de Personas Acreditadas, integrado en una base de datos única, emitirá los lineamientos correspondientes y proveerá lo necesario para integrar las fichas de usuarios y las claves de identificación personalizada que cada dependencia o entidad genere.
 
 Las dependencias o entidades inscribirán a los usuarios que realicen trámites y servicios en el ámbito de su competencia. Para ello, integrarán una clave de identificación particularizada basada en los elementos de la Clave Única del Registro de Población para las personas físicas y, para las personas morales, basado en la Cédula de Identificación Fiscal.
 
@@ -603,9 +645,11 @@ IX. Negligencia o negativa en la aplicación de un trámite por desconocimiento 
 
 X. Aquellas que incidan en perjuicio del establecimiento y operación de la mejora regulatoria.
 
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
 Artículo 47
 
-La Comisión Estatal de Mejora Regulatoria informará a la Contraloría General del Estado respecto de los casos de incumplimiento a lo previsto en esta ley de los que tenga conocimiento.
+La Secretaría informará a la Contraloría General del Estado respecto de los casos de incumplimiento a lo previsto en esta ley de los que tenga conocimiento.
 
 ## TRANSITORIOS
 
@@ -613,17 +657,29 @@ Primero. Esta ley entrará en vigor al día siguiente de su publicación en la G
 
 Segundo. Se derogan todas las disposiciones que se opongan a lo establecido en esta ley.
 
-Tercero. Las dependencias o entidades deberán hacer del conocimiento de la Comisión los nombramientos previstos en el artículo 14, en un término máximo de tres meses, que se contarán a partir del día siguiente al inicio de la vigencia de esta ley.
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
 
-Al término de dicho plazo, la Comisión publicará en la Gaceta Oficial del estado el listado de responsables oficiales.
+Tercero. Las dependencias o entidades deberán hacer del conocimiento de la Secretaría los nombramientos previstos en el artículo 14, en un término máximo de tres meses, que se contarán a partir del día siguiente al inicio de la vigencia de esta ley.
 
-Cuarto. Lo previsto en el Título Tercero, Capítulos Primero y Tercero, entrará en vigor al día hábil siguiente del en que la Comisión publique en la Gaceta Oficial del estado los acuerdos mediante los que informe que están operando el Registro y el Registro de Personas Acreditadas.
+Al término de dicho plazo, la Secretaría publicará en la Gaceta Oficial del estado el listado de responsables oficiales.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+Cuarto. Lo previsto en el Título Tercero, Capítulos Primero y Tercero, entrará en vigor al día hábil siguiente del en que la Secretaría publique en la Gaceta Oficial del estado los acuerdos mediante los que informe que están operando el Registro y el Registro de Personas Acreditadas.
 
 El plazo para la expedición de los acuerdos no podrá exceder de un año a partir de la entrada en vigor de esta ley.
 
-Quinto. Los recursos humanos, presupuestales y los bienes que, a la entrada en vigor de esta ley, sean utilizados por la Secretaría de Desarrollo Económico y Portuario para el ejercicio de las funciones en materia de mejora regulatoria a que la misma se refiere, se asignarán a la Comisión Estatal de Mejora Regulatoria.
+Quinto. (DEROGADO, G.O. 10 DE AGOSTO DE 2010)
 
-Sexto. Los asuntos en materia de mejora regulatoria que se encuentren en curso al inicio de la vigencia de la presente ley, serán resueltos por la Comisión Estatal de Mejora Regulatoria, en el ámbito de su competencia.
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+Sexto. Los asuntos en materia de mejora regulatoria que se encuentren en curso al inicio de la vigencia de la presente ley, serán resueltos por la Secretaría, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+Séptimo. En tanto la Secretaría inicia las acciones consignadas en la presente Ley, se faculta al Consejo Estatal de Mejora Regulatoria para crear tres Comisiones de Trabajo Temporales, por lo que resta del periodo gubernamental, con el objeto de que realicen las atribuciones establecidas en esta Ley para dicha Dependencia.
+
+Las Comisiones de Trabajo se abocarán a las acciones relativas al Registro Estatal de Trámites y Servicios, al Registro de Personas Acreditadas y el Sistema de Apertura Rápida de Empresas.
 
 Dado en el salón de sesiones de la LXI Legislatura del Honorable Congreso del Estado, en la ciudad de Xalapa- Enríquez, Veracruz de Ignacio de la Llave, a los treinta y un días del mes de julio del año dos mil ocho.
 
@@ -650,3 +706,13 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 10 DE AGOSTO DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se establece el término de treinta días hábiles, a partir de la entrada en vigor de la presente reforma, para implementar lo establecido por el artículo Séptimo Transitorio de la Ley que se reforma por el presente Decreto.
+
+Tercero. La Secretaría de Desarrollo Económico y Portuario realizará las acciones necesarias para modificar su Reglamento Interior y otorgar a sus áreas las obligaciones que esta Ley establece.
