@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2009-11-12"
+last_updated: "2010-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE NOVIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -183,9 +183,9 @@ IX. Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca
 
 X. Secretaría de Salud
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
 
-XI. Secretaría de Turismo y Cultura
+XI. Secretaría de Turismo, Cultura y Cinematografía;
 
 > <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2008)</small>
 
@@ -731,9 +731,9 @@ XII. Coordinar con las universidades e instituciones de educación superior, el 
 
 XIII. Coordinar, organizar, dirigir y fomentar con los ayuntamientos e instituciones públicas o particulares el establecimiento de bibliotecas y hemerotecas, así como promover la creación de instituciones de divulgación científica y educativa;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
 
-XIV. Promover en coordinación con la Secretaría de Turismo y Cultura la edición y distribución de obras científicas, pedagógicas, históricas y literarias para la difusión del conocimiento, y el desarrollo cultural; asimismo, elevar el nivel educativo de la población del Estado.
+XIV. Promover, en coordinación con la Secretaría de Turismo, Cultura y Cinematografía, la edición y distribución de obras científicas, pedagógicas, históricas y literarias, para la difusión del conocimiento y el desarrollo cultural; asimismo, elevar el nivel educativo de la población del Estado;
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -757,9 +757,9 @@ XXII. Fomentar en los educandos el amor y el respeto a los símbolos patrios, y 
 
 XXIII. Promover, en coordinación con las autoridades competentes, los valores familiares y sociales que tiendan a la solidaridad humana, la preservación de la naturaleza y los centros urbanos y el respeto a la ley;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
 
-XXIV. Patrocinar en coordinación con la Secretaría de Turismo y Cultura, la realización de congresos, asambleas, reuniones, eventos, competencias y concursos de carácter científico, técnico, cultural, artístico y educativo;
+XXIV. Patrocinar, en coordinación con la Secretaría de Turismo, Cultura y Cinematografía, la realización de congresos, asambleas, reuniones, eventos, competencias y concursos de carácter científico, técnico, cultural, artístico y educativo;
 
 XXV. Planear, organizar y supervisar el desarrollo de programas de educación tecnológica, con el fin de crear, conservar y transmitir la cultura y la ciencia, con respeto a la libertad de cátedra y de investigación, de libre examen y de discusión de las ideas, y procurar su vinculación con el sector productivo;
 
@@ -1419,79 +1419,139 @@ XIV. Coordinar y ejecutar las políticas y acciones que corresponden al Gobierno
 
 XV. Establecer las normas para orientar los servicios de asistencia social en materia de salud, que presten los sectores público, social y privado y proveer su cumplimiento.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE AGOSTO DE 2010)</small>
 
-De la Secretaría de Turismo y Cultura
+De la Secretaría de Turismo, Cultura y Cinematografía
 
-> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 32 Bis.
 
-La Secretaría de Turismo y Cultura es la dependencia responsable de coordinar y ejecutar las políticas públicas y los programas de desarrollo y promoción del sector turístico de la Entidad; promover e impulsar la difusión de la Cultura y de las manifestaciones artísticas; la conservación y el incremento del patrimonio cultural, histórico y artístico de Veracruz; así como normar y conducir las políticas y programas en los procesos de sistematización, seguimiento y compilación de la Información Pública Gubernamental.
+La Secretaría de Turismo, Cultura y Cinematografía es la dependencia responsable de coordinar y ejecutar las políticas públicas y los programas de desarrollo y promoción del sector turístico de la Entidad; promover e impulsar la difusión de la cultura y de las manifestaciones artísticas; la conservación y el incremento del patrimonio cultural, histórico y artístico de Veracruz; así como normar y conducir las políticas y programas en los procesos de sistematización, seguimiento y compilación de la información pública gubernamental.
 
-> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 32 Ter.
 
-Son atribuciones del secretario de Turismo y Cultura conforme a la distribución de competencias que establezca su reglamentación interior, las siguientes:
+Son atribuciones del Secretario de Turismo, Cultura y Cinematografía, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 I. Proponer, diseñar, coordinar, dirigir y supervisar en los términos de las leyes de la materia y del Plan Veracruzano de Desarrollo, la ejecución de las políticas y programas del Estado relativos al fomento de las actividades turísticas en un marco de sustentabilidad;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
 II. Participar en la planeación y programación de las obras de infraestructura e inversiones en áreas de desarrollo turístico y cultural en la entidad;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 III. Elaborar los estudios y programas de factibilidad de inversión turística que permitan su promoción y fomento, las coinversiones y la instalación de empresas vinculadas al sector, privilegiando la creación de fuentes de empleo;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
 IV. Proveer técnica y económicamente el establecimiento de polos de desarrollo turístico en el territorio del Estado, de acuerdo con el Plan Veracruzano de Desarrollo, proponiendo al Ejecutivo Estatal la declaratoria de actividad prioritaria para impulsar nuevos proyectos y productos turísticos;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 V. Coordinar el Fondo Veracruzano para el Fomento de las Actividades Turísticas de la Entidad y presidir, de conformidad con la normativa vigente, los órganos de gobierno de aquellas entidades estatales relacionadas primordialmente con el sector;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
 VI. Fungir como coordinador sectorial de los parques recreativos, centros de visitantes y convenciones turísticos, de los parques temáticos, así como de los establecimientos relacionados primordialmente con el sector turístico en los términos y condiciones que la Ley señale;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 VII. Servir de órgano de consulta y asesoría en materia de servicios turísticos, tanto a las entidades públicas como privadas;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
 VIII. Asesorar técnicamente a las (sic) Ayuntamientos y a los sectores social y privado que lo soliciten, en la prestación de los servicios turísticos o en la ejecución de proyectos relacionados con la materia;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 IX. Procurar la conservación y protección del entorno natural y cultural de las zonas de desarrollo turístico en el Estado, actuando en coordinación con las autoridades competentes de otros órdenes de Gobierno en estas materias particularmente la Secretaría de Desarrollo Social y Medio Ambiente, así como promover la cultura turística y el turismo cultural;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
 X. Fomentar y apoyar el turismo social, en concertación con los sectores público y privado, así como propiciar la formación de asociaciones, patronatos, comités y demás organismos que lo auspicien y prestarles la asesoría correspondiente;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 XI. Formular y difundir la información turística del Estado con base en el Registro Estatal de Prestadores de Servicios Turísticos, el Inventario de Riquezas Turísticas del Estado y el Calendario de Actividades Recreativas, Tradicionales y Turísticas de Veracruz;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
 XII. Proporcionar información y orientación a los turistas atendiendo los centros de mayor afluencia, carreteras y terminales de transporte aéreo, terrestre y marítimo, según se requiera, así como instalar, coordinar y operar los módulos de información correspondientes;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 XIII. Codyuvar (sic) con las dependencias y entidades del sector público, así como con los sectores privado y social, en la conservación de los señalamientos turísticos y del patrimonio cultural en las vías públicas federales, estatales y municipales y en los lugares de mayor interés turístico del Estado;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
 XIV. Promover los atractivos culturales y naturales de la Entidad, instrumentando acciones con los sectores público y privado y a través de los medios de comunicación, a efecto de incrementar el flujo de turistas, ampliar su estadía e incrementar la derrama económica consecuente;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 XV. Proyectar y difundir la publicidad turística y cultural del Estado en coordinación con la Dirección General de Comunicación Social; así como coadyuvar a la divulgación de la que efectúen los sectores social y privado;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
 XVI. Promover en coordinación con las autoridades federales competentes, la formulación de las declaratorias nacionales e internacionales relativas a zonas de desarrollo turístico de la Entidad, así como las declaratorias de patrimonio artístico, histórico o cultural;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 XVII. Atender los asuntos internacionales de la competencia de la Secretaría, así como la celebración y cumplimiento de convenios bilaterales y multilaterales de cooperación turística y cultural; de igual forma, concertar acciones en la materia con otras dependencias y entidades de la Administración Pública Federal y Estatal y celebrar acuerdos en lo relativo con los Gobiernos Municipales;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
 XVIII. Promover, organizar y participar en misiones, conferencias, ferias, exposiciones, encuentros, congresos, eventos tradicionales y folklóricos y en general, actividades culturales que contribuyan a una mayor afluencia de visitantes hacia el Estado;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 XIX. Coordinarse con las autoridades competentes de los otros órdenes de Gobierno en materia de protección al turista;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
 XX. Establecer y operar un sistema de información y orientación al público, así como la recepción de quejas y sugerencias, en relación con las actividades y los servicios turísticos que se prestan en la Entidad;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 XXI. Colaborar con las autoridades federales competentes en la vigilancia de la correcta aplicación de los precios autorizados o registrados, así como de la prestación de los servicios turísticos, conforme a las disposiciones legales de protección al consumidor;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
 XXII. Vigilar el estricto cumplimiento de las leyes, reglamentos y demás ordenamientos federales y estatales aplicables en materia de turismo, supervisando las actividades de las empresas vinculadas al sector, de conformidad con lo establecido en términos de ley;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 XXIII. Implementar los programas de calidad, capacitación y competitividad en la prestación de servicios turísticos;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
 XXIV. Promover, ejecutar, coordinar y supervisar los planes y programas culturales y recreativos en la Entidad;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 XXV. Formular las políticas y programas y ejecutar las acciones relativas a la difusión de la cultura y el arte y la conservación e incremento del patrimonio artístico, histórico y cultural, así como la promoción de las actividades conexas;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
 XXVI. Dirigir, coordinar, organizar y fomentar con los Ayuntamientos e instituciones públicas o particulares el establecimiento de casas de cultura y museos, así como promover la creación y mantenimiento de otras instituciones culturales;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 XXVII. Promover la edición y distribución de obras literarias, estudios y documentos históricos que apoyen al conocimiento y desarrollo cultural y artístico de Veracruz;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
 XXVIII. Promover, coordinar y realizar eventos que difundan las diversas manifestaciones de la Cultura y las Artes en la Entidad;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
 XXIX. Incentivar, apoyar y coadyuvar con las autoridades federales de la materia, el desarrollo de la industria cinematográfica y promover a Veracruz como zona geográfica idónea para locaciones y filmaciones;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 XXX. Promover y difundir los recursos naturales, el patrimonio histórico y las manifestaciones culturales y artísticas en los medios masivos de comunicación y propiciar su uso como escenarios de eventos nacionales e internacionales, particularmente en relación con la industria fílmica, la Radio y la Televisión;
 
@@ -1504,6 +1564,8 @@ XXXIII. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
 XXXIV. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
 
 XXXV. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 XXXVI. Elaborar y coordinar de manera conjunta con miembros del sector la creación y revisión del Plan Estatal de Turismo alineado al Plan Nacional de Turismo.
 
@@ -2174,3 +2236,13 @@ G.O. 12 DE NOVIEMBRE DE 2009.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 578 QUE ADICIONA LA FRACCIÓN XLIII AL ARTÍCULO 18, Y DEROGA LA FRACCIÓN SEGUNDA DEL ARTÍCULO 28, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 10 DE AGOSTO DE 2010.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 842 QUE REFORMA LOS ARTÍCULOS 9, FRACCIÓN XI, 22, FRACCIONES XIV Y XXIV, 32 BIS Y 32 TER, ASÍ COMO LA DENOMINACIÓN DEL ACÁPITE QUE ANTECEDE AL ARTÍCULO 32 BIS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Tercero. Cualquier referencia que en otras disposiciones estatales se realice a la Secretaría de Turismo y Cultura, se entenderá realizada a la Secretaría de Turismo, Cultura y Cinematografía.
