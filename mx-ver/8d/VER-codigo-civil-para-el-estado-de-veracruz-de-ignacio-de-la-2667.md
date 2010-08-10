@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2010-02-22"
+last_updated: "2010-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2010.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -6685,7 +6685,9 @@ I.- Los honorarios, sueldos, salarios, jornales u otras retribuciones por la pre
 
 II.- La acción de los dueños de hoteles y casas de huéspedes para cobrar el importe del hospedaje; y la de éstos y la de los fondistas para cobrar el precio de los alimentos que ministren, siempre que estos actos no deban considerarse como mercantiles, pues entonces se aplicará el Código respectivo. La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquel en que se ministraron los alimentos;
 
-III.- La responsabilidad civil por injurias, ya sean hechas de palabra o por escrito, y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos. La prescripción comienza a correr desde el día en que la injuria se recibió o fue conocida o desde aquél en que se causó el daño;
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
+
+III.- La acción para reclamar el daño moral y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos. La prescripción comienza a correr desde el día en que se causó el daño;
 
 IV.- La responsabilidad civil proveniente de actos ilícitos que no constituyan delitos. La prescripción corre desde el día en que verificaron los actos;
 
@@ -9885,9 +9887,55 @@ ARTICULO 1848
 
 La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios.
 
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
 ARTICULO 1849
 
-Independientemente de los daños y perjuicios, el juez puede acordar en favor de la víctima de un hecho ilícito, o de su familia, si aquélla muere, una indemnización equitativa, a título de reparación moral, que pagará el responsable del hecho. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil. Lo dispuesto en este artículo no se aplicará al Estado en el caso previsto en el artículo 1861.
+Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físicos, o bien en la consideración que de la misma tienen los demás. Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas.
+
+Estarán sujetos a la reparación del daño moral de acuerdo a lo establecido por este ordenamiento y, por lo tanto, las conductas descritas se considerarán como hechos ilícitos:
+
+I. El que comunique a una o más personas la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado o indeterminado, que cause o pueda causarle deshonra, descrédito, perjuicio o exponerlo al desprecio de alguien;
+
+II. El que impute a otro un hecho determinado y calificado como delito por la ley, si este hecho es falso, o es inocente la persona a quien se imputa;
+
+III. El que presente denuncias o querellas calumniosas, entendiéndose por tales aquellas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquél no se ha cometido, y
+
+IV. Al que ofenda el honor, ataque la vida privada o la imagen propia de una persona.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+ARTICULO 1849 BIS
+
+Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo o compensarlo, según sea el caso, mediante una indemnización en dinero, con independencia de que se haya causado un daño material, tanto en responsabilidad contractual como extracontractual.
+
+La indemnización derivada del daño moral será determinada por el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, las condiciones económicas y sociales del que daña y las demás circunstancias del caso. Dicha indemnización no podrá ser superior a cincuenta mil veces el salario mínimo general vigente en el área geográfica que corresponda.
+
+La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+ARTICULO 1849 TER
+
+Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
+
+La reparación del daño moral, en su caso, deberá contener la obligación de la rectificación o respuesta de la información difundida en el mismo medio donde fue publicada y con el mismo espacio y la misma circulación o audiencia a que fue dirigida la información original.
+
+La reproducción fiel de información no da lugar al daño moral, aun en los casos en que la información reproducida no sea correcta y pueda dañar el honor de alguna persona, pues no constituye una responsabilidad para el que difunde dicha información, siempre y cuando se cite la fuente de donde se obtuvo.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+ARTICULO 1849 QUÁTER
+
+No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6o. y 7o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
+
+No procederá la reparación del daño moral a los servidores públicos afectados por opiniones o información difundida a través de los medios de comunicación, a no ser que se pruebe que el acto se realizó con malicia efectiva.
+
+Se entenderá que una opinión o información se difundió con malicia efectiva cuando la difusión se haya hecho a sabiendas de su falsedad o con el único propósito de dañar.
+
+En ningún caso se considerarán ofensas al honor las opiniones desfavorables de la crítica literaria, artística, histórica, científica, industrial o profesional. Tampoco se considerarán ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo.
 
 ARTICULO 1850
 
@@ -16098,3 +16146,9 @@ G.O. 22 DE FEBRERO DE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE AGOSTO DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
