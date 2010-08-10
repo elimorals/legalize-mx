@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-523-de-turismo-para-el-estado-de-veracruz-de-47964"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-13"
-last_updated: "2008-12-16"
+last_updated: "2010-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE TURISMO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD DEL TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA A LA LEY NUMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE FECHA 10 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 13 de enero de 2006.
 
@@ -754,3 +756,17 @@ G.O. 16 DE DICIEMBRE DE 2008.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 10 DE AGOSTO DE 2010.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se abroga la Ley número 523 de Turismo para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Gobierno del Estado el trece de enero de dos mil seis.
+
+Tercero. Se derogan todas las disposiciones legales y reglamentarias que en el ámbito estatal se opongan al presente ordenamiento.
+
+Cuarto. El Ejecutivo Estatal expedirá los reglamentos que refiere la presente Ley y modificará la estructura orgánica de la Secretaría de Turismo, Cultura y Cinematografía para su debido cumplimiento, dentro de los ciento ochenta días siguientes a la entrada en vigor de este ordenamiento.
+
+Quinto. Los Ayuntamientos expedirán los reglamentos que correspondan para dar cumplimiento a lo dispuesto por esta Ley, dentro de los ciento ochenta días siguientes a la entrada en vigor de la misma.
+
+Sexto. Los procedimientos administrativos iniciados antes de la entrada en vigor de la presente Ley, deberán atenderse y resolverse de conformidad con la legislación que se abroga mediante este ordenamiento.
