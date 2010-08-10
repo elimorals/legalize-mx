@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2010-03-16"
+last_updated: "2010-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CODIGO FISCAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE AGOSTO DE 2010.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -5506,9 +5506,11 @@ IV. Que el valor catastral del inmueble, de uso habitacional, no exceda de la ca
 
 V. Que el volumen de consumo de agua no exceda de 77 m3, tratándose de tomas con medidor, y si se carece de medidor, la toma deberá de ubicarse en las colonias catastrales 0, 1, 2, 3 y 8.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 283.
 
-Tendrán derecho a una reducción equivalente al 80% respecto de las contribuciones a que se refieren los artículos 112, 126, 134, 145, 156 y 185, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías, las organizaciones que realicen las actividades que a continuación se señalan:
+Tendrán derecho a una reducción equivalente al 100% respecto de las contribuciones a que se refieren los artículos 112, 126, 134, 145, 156, 172, 182, 185 y 186, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías, las organizaciones que realicen las actividades que a continuación se señalan:
 
 I. Fortalezcan y fomenten el goce y ejercicio de los derechos humanos;
 
@@ -5761,8 +5763,6 @@ Los aprovechamientos a que se refiere este artículo, deberán aplicarse íntegr
 La autoridad competente dará el visto bueno respecto a que el particular cumplió con las medidas de mitigación, previo a la ocupación de la obra.
 
 Este concepto no aplica para viviendas unifamiliares.
-
-> <small>N. DE E. EN EL DECRETO DE 30 DE DICIEMBRE DE 2011, SE INDICA LA EXISTENCIA DE CINCO PÁRRAFOS, Y EN LA REFORMA DE 16 DE MARZO DE 2010, SE INDICA LA EXISTENCIA DE UN SOLO PÁRRAFO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE MARZO DE 2010)</small>
 
@@ -8883,3 +8883,9 @@ El monto de la parcialidad se añadirá a los cargos por suministro de agua pota
 En el caso de la descarga de albañal el monto de la parcialidad se cubrirá bimestralmente ante la Tesorería del Distrito Federal.
 
 El monto por el pago de conexión se realizará mediante la presentación de los siguientes documentos: copia simple de la escritura del predio donde resida y/o copia de boleta predial, este documento se entregará con la finalidad de acreditar la casa habitación que se encuentre dentro de un lote con más de una vivienda.
+
+G.O. 10 DE AGOSTO DE 2010.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. La presente Ley entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
