@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-acceso-disposicion-y-saneamiento-del-31534"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2008-10-01"
+last_updated: "2010-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31534&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-05-09"
 
 LEY DE AGUAS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE AGOSTO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2003.
 
@@ -768,15 +768,21 @@ Las aguas pluviales que recolecten los particulares y sean sometidas a procesos 
 
 Para evitar la disminución de la captación de agua producida por la tala de árboles o zonas boscosas, la Secretaría vigilará el cumplimiento de las disposiciones legales referentes a la conservación de estas, especialmente los ubicados en las orillas de los cauces o cuerpos de agua, así como las (sic) localizados en los nacimientos de agua.
 
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], G.O. 10 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 38.
 
 En el Distrito Federal no se podrá destruir árboles o cubiertas forestales importantes para la recarga de mantos acuíferos, que estén situados en pendientes, orillas de caminos rurales y demás vías de comunicación, así como los árboles que puedan explotarse sin necesidad de cortarlos.
 
 Los propietarios de terrenos atravesados por cauces o cuerpos de agua o aquellos en los cuales existan manantiales, en cuyas vegas o tornos hayan sido destruidos árboles o zonas boscosas que les sirvan de abrigo, están obligados a sembrar árboles en los márgenes de estos cauces o cuerpos de agua a una distancia no mayor a cinco metros de las aguas, en todo el trayecto y su curso, comprendido en la respectiva propiedad.
 
-Asimismo, queda prohibido destruir o talar tanto en los bosques como en terrenos propiedad de particulares, los árboles situados a menos de 60 metros de los manantiales que nazcan en ceros (sic), lomas, colinas, promontorios o lugares análogos, o a menos de 50 metros de los que nazcan en terrenos planos, así como los árboles situados a cinco metros de los cauces o cuerpos de agua que discurran por sus predios.
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
 
-La infracción a lo dispuesto en el presente artículo obliga al infractor a reponer el y/o los árboles destruidos o talados y lo sujeta a la pena que dispone esta Ley. La pena podrá ser causa suficiente para proceder a la expropiación de las fajas del terreno en los anchos expresados por este artículo, o a uno y otro lado del curso del río o arroyo en toda su extensión.
+Asimismo, queda prohibido destruir o talar tanto en los bosques como en terrenos propiedad de particulares, los árboles situados a menos de 60 metros de los manantiales que nazcan en cerros, lomas, colinas, promontorios o lugares análogos, o a menos de 50 metros de los que nazcan en terrenos planos, así como los árboles situados a cinco metros de los cauces o cuerpos de agua que discurran por sus predios.
+
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+La infracción a lo dispuesto en el presente artículo obliga al infractor a reponer el y/o los árboles destruidos o talados y lo sujeta a las sanciones administrativas que dispone esta Ley, así como a las penas que en su caso correspondan. La sanción administrativa o pena prevista por esta Ley podrá ser causa suficiente para proceder a la expropiación de las fajas del terreno en los anchos expresados por este artículo, o a uno y otro lado del curso del río o arroyo en toda su extensión.
 
 ###### Artículo 39.
 
@@ -1514,7 +1520,9 @@ XXVI. Incurrir en cualquier otra violación a los preceptos que señale esta Ley
 
 La imposición de las presentes sanciones es independiente de las previstas y sancionadas por otras disposiciones legales.
 
-Cuando se cometan violaciones a la presente Ley, además de las penas señaladas, se procederá a la reparación del daño ambiental.
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+Cuando se cometan violaciones a la presente Ley, además de las penas o sanciones administrativas señaladas, se procederá a la reparación del daño ambiental.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE OCTUBRE DE 2008)</small>
 
@@ -2101,3 +2109,9 @@ A efecto de no causar una afectación general a los usuarios del Servicio de Agu
 ###### ARTÍCULO SEXTO.
 
 El Sistema de Aguas de la Ciudad de México creará, en un término de noventa días naturales, una unidad administrativa encargada de elaborar y ejecutar la política de cosecha de agua de lluvia en el Distrito Federal.
+
+G.O. 10 DE AGOSTO DE 2010.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.-La presente reforma entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
