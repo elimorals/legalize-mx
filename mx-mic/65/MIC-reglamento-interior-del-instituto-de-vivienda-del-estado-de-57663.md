@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-instituto-de-vivienda-del-estado-de-576
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-22"
-last_updated: "2007-11-22"
+last_updated: "2010-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57663&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE VIVIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE VIVIENDA DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADO EN EL P.O. DE 11 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el jueves 22 de noviembre de 2007.
 
@@ -532,3 +534,11 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE AGOSTO DE 2010.
+
+Artículo Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga el Reglamento Interior del Instituto de Vivienda del Estado de Michoacán de Ocampo, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 22 de noviembre de 2007, y se dejan sin efecto todas aquellas disposiciones de carácter administrativo que se opongan al presente Reglamento.
