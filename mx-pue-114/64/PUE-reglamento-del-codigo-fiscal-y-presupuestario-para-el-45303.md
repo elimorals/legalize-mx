@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-del-codigo-fiscal-y-presupuestario-para-el-45303"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-13"
-last_updated: "2009-08-03"
+last_updated: "2010-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 REGLAMENTO DEL CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2010.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 13 de junio de 2005.
 
@@ -65,69 +65,95 @@ El presente Reglamento tiene por objeto proveer a la exacta observancia del Cód
 
 Definiciones.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 2.
 
 Para la aplicación de este Reglamento se entenderá por:
 
-I. Autoridades fiscales.- Las autoridades fiscales del Municipio de Puebla;
+I. Anticipos o Financiamientos Temporales.- Los recursos que se asignan por el Gobierno del Estado al Municipio, o estos últimos a sus respectivos organismos paramunicipales, como un apoyo financiero de corto plazo, independientemente de la denominación que se utilice;
 
-II. Ayuntamiento.- El Honorable Ayuntamiento del Municipio de Puebla;
+II. Autoridades fiscales.- Las autoridades fiscales del Municipio de Puebla;
 
-III. Cabildo.- El Cabildo del Honorable Ayuntamiento del Municipio de Puebla;
+III. Ayuntamiento.- El Honorable Ayuntamiento del Municipio de Puebla;
 
-IV. Código.- El Código Fiscal y Presupuestario para el Municipio de Puebla;
+IV. Bonos.- Títulos de deuda emitidos por una empresa o por el Estado. En ellos se especifica el monto a reembolsar en un determinado plazo, las amortizaciones totales o parciales, los intereses periódicos y otras obligaciones del emisor;
 
-V. Concedente.- La autoridad que emita un acuerdo para la concesión de un bien del dominio público;
+V. Cabildo.- El Cabildo del Honorable Ayuntamiento del Municipio de Puebla;
 
-VI. Congreso.- El Honorable Congreso del Estado Libre Y Soberano de Puebla;
+VI. Código.- El Código Fiscal y Presupuestario para el Municipio de Puebla;
 
-VII. Contraloría.- La Contraloría del Honorable Ayuntamiento del Municipio de Puebla;
+VII. Código Reglamentario.- El Código Reglamentario para el Municipio de Puebla;
 
-VIII. Contraloría Interna.- El órgano de control de cada entidad auxiliar de la Administración Pública Municipal;
+VIII. Concedente.- La autoridad que emita un acuerdo para la concesión de un bien del dominio público;
 
-IX. Dependencias.- Las dependencias de la Administración Pública Centralizada del Honorable Ayuntamiento del Municipio de Puebla y sus órganos desconcentrados;
+IX. Congreso.- El Honorable Congreso del Estado Libre y Soberano de Puebla;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2009)</small>
+X. Constitución.- La Constitución Política del Estado Libre y Soberano de Puebla;
 
-X. SAU.- La Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable del Honorable Ayuntamiento del Municipio de Puebla;
+XI. Contraloría.- La Contraloría del Honorable Ayuntamiento del Municipio de Puebla;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2009)</small>
+XII. Contraloría Interna.- El órgano de control de cada entidad auxiliar de la Administración Pública Municipal;
 
-XI. Dirección Jurídica.- La Dirección General Jurídica y de lo Contencioso;
+XIII. Dependencias.- Las dependencias de la Administración Pública Centralizada del Honorable Ayuntamiento del Municipio de Puebla y sus órganos desconcentrados;
 
-XII. Entidades.- Los organismos, los fideicomisos públicos municipales y las empresas de participación municipal mayoritaria, de la Administración Pública del Municipio de Puebla;
+XIV. Deuda Pública Contingente.- La que contraiga el Gobierno Municipal, en el ámbito de su competencia, como avalista o deudor solidario o sustituto de sus organismos paramunicipales;
 
-XIII. Erario.- Conjunto de recursos monetarios y medios de pago que tiene el Municipio de Puebla, para el cumplimiento de sus fines;
+XV. Deuda Pública Directa.- Los préstamos, financiamientos y/o empréstitos a cargo del Gobierno Municipal, sus Organismos Paramunicipales, Empresas de Participación Municipal Mayoritaria y Fideicomisos Públicos Municipales;
 
-XIV. Estado.- El Estado Libre y Soberano de Puebla;
+XVI. Dictamen.- El documento que emita la Secretaría de Finanzas y Administración, para efectos de expresar oficialmente por parte del Gobierno del Estado la capacidad de endeudamiento y pago de cualquiera de los sujetos que contraten deuda;
 
-XV. Fisco.- La autoridad fiscal u órgano encargado de recaudar o realizar el cobro coactivo de los ingresos del Municipio de Puebla;
+XVII. Dirección Jurídica.- La Dirección General Jurídica Consultiva del Honorable Ayuntamiento del Municipio de Puebla;
 
-XVI. Municipio.- El Municipio de Puebla;
+XVIII. Entidades.- Los Organismos, los Fideicomisos Públicos Municipales y las Empresas de Participación Municipal Mayoritaria, de la Administración Pública del Municipio de Puebla;
 
-XVII. Organismos.- Los organismos públicos descentralizados de la Administración Pública del Municipio de Puebla;
+XIX. Erario.- Conjunto de recursos monetarios y medios de pago que tiene el Municipio de Puebla, para el cumplimiento de sus fines;
 
-XVIII. Órgano Desconcentrado.- El órgano dependiente de la Administración Pública Centralizada del Municipio de Puebla, en el que las dependencias descongestionan parte de su competencia;
+XX. Estado.- El Estado Libre y Soberano de Puebla;
 
-XIX. Oficina Ejecutara.- El órgano de la Tesorería Municipal, encargado del cobro coactivo de un crédito fiscal;
+XXI. Fisco.- La autoridad fiscal u órgano encargado de recaudar o realizar el cobro coactivo de los ingresos del Municipio de Puebla;
 
-XX. Periódico Oficial.- El Periódico Oficial del Estado de Puebla;
+XXII. Gobierno del Estado.- La Administración Pública Estatal representada por el Poder Ejecutivo;
 
-XXI. Presidente.- El Presidente Constitucional el Honorable Ayuntamiento del Municipio de Puebla;
+XXIII. Ley.- La Ley de Deuda Pública para el Estado Libre y Soberano de Puebla;
 
-XXII. Sindico.- El Titular de la Sindicatura, del Honorable Ayuntamiento del Municipio de Puebla;
+XXIV. Líneas de Crédito.- Los montos máximos de financiamiento aprobados por las instituciones de crédito autorizadas;
 
-XXIII. Sindicatura.- La Sindicatura del Honorable Ayuntamiento del Municipio de Puebla;
+XXV. Municipio.- El Municipio de Puebla;
 
-XXIV. Tesorería.- La Tesorería del Honorable Ayuntamiento del Municipio de Puebla, y (sic)
+XXVI. Oficina Ejecutora.- El órgano de la Tesorería Municipal, encargado del cobro coactivo de un crédito fiscal;
 
-XXV. Tesorero.- El Titular de la Tesorería del Honorable Ayuntamiento del Municipio de Puebla;
+XXVII. Organismos.- Los organismos públicos descentralizados de la Administración Pública del Municipio de Puebla;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+XXVIII. Órganos de Gobierno.- Los consejos, juntas directivas, comités técnicos o equivalentes de los organismos de la Administración Pública Paramunicipal;
 
-> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2006)</small>
+XXIX. Órgano Desconcentrado.- El órgano dependiente de la Administración Pública Centralizada del Municipio de Puebla, en el que las dependencias descongestionan parte de su competencia;
 
-XXVI. Código Reglamentario.- El Código Reglamentario para el Municipio de Puebla.
+XXX. Periódico Oficial.- El Periódico Oficial del Estado de Puebla;
+
+XXXI. Presidente.- El Presidente Constitucional del Honorable Ayuntamiento del Municipio de Puebla;
+
+XXXII. Préstamo Quirografario.- El préstamo que conste de manera escrita;
+
+XXXIII. Programa de Financiamiento Neto.- El documento que contiene los montos estimados a contratar y el servicio de la deuda correspondiente, exceptuando el pago de intereses para el ejercicio próximo inmediato; requisito obligatorio que establece la Secretaría de Finanzas y Administración del Gobierno del Estado;
+
+XXXIV. Registro.- El Registro Único de Obligaciones y Empréstitos del Estado;
+
+XXXV. SAU.- Secretaría de Administración Urbana;
+
+XXXVI. Secretaría.- La Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla;
+
+XXXVII. Servicio de la Deuda pública.- Son los importes de dinero que se destinen a la amortización de capital y al pago de intereses, comisiones y demás accesorios legales y contractuales derivados de las operaciones de financiamiento, incluyendo los fondos de reserva y de provisión, los gastos de implementación y mantenimiento y demás costos que correspondan según la forma de financiamiento de que se trate. Asimismo, se consideran parte del servicio de la Deuda Pública, los relativos a las operaciones financieras que tiendan a evitar o reducir riesgos económico-financieros a los sujetos de esta Ley, derivados de financiamientos y/o empréstitos, y el pago de comisiones por garantías de terceros;
+
+XXXVIII. Sindicatura.- La Sindicatura del Honorable Ayuntamiento del Municipio de Puebla;
+
+XXXIX. Síndico.- El Titular de la Sindicatura del Honorable Ayuntamiento del Municipio de Puebla;
+
+XL. Tesorería.- La Tesorería del Honorable Ayuntamiento del Municipio de Puebla;
+
+XLI. Tesorero.- El Titular de la Tesorería del Honorable Ayuntamiento del Municipio de Puebla; y
+
+XLII. Títulos de Deuda pública.- Los valores tales como Bonos, Certificados u Obligaciones Bursátiles, así como Certificados de Participación Ordinaria, Pagarés u otros Títulos o Valores afines, que los organismos financieros emitan en serie o en masa y que estén destinados a circular en colocación privada o en el mercado de valores.
 
 Derecho a la legalidad.
 
@@ -1301,13 +1327,47 @@ X. Programar inversiones financieras a corto o a mediano plazo, asegurando el me
 
 XI. Registrar y controlar las inversiones bancarias, así como los intereses generados por las mismas.
 
-> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2010)</small>
 
-XII. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus anexos y las que le con fiera el Ayuntamiento, el Presidente o el Tesorero.
+XII. Verificar que en el Presupuesto de Egresos del ejercicio fiscal siguiente, se encuentre presupuestado el monto total para hacer frente al pago del servicio de la Deuda Pública, tomando en consideración la política y esquema general de proyección de ingresos y egresos, atendiendo a lo dispuesto en la Normatividad Presupuestal para la Autorización y Ejercicio del Gasto Público de la Administración Municipal vigente.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
 
-La Dirección de Planeación de la Inversión, estará adscrita a la Tesorería y a cargo de un Titular, integrado por el Departamento de Planeación a la Inversión y Departamento de Financiamiento.
+XIII. Presupuestar un tope máximo de tasa a considerar en la cobertura para cubrir riesgos crediticios.
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
+
+XIV. Realizar el seguimiento oportuno sobre el nivel de deuda.
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
+
+XV. Dar seguimiento adecuado y oportuno al pago del servicio de la deuda, conformado por los pagos de intereses y los pagos de amortizaciones, evitando la concentración de amortizaciones en el tiempo y atrasos en los pagos, disminuyendo el riesgo de financiamiento.
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
+
+XVI. Verificar que tanto la tasa como el plazo aplicado por las instituciones financieras sea el correcto en la fecha pactada.
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
+
+XVII. Realizar monitoreo constante en los mercados financieros para los posibles efectos que en la deuda pudieran tener escenarios macroeconómicos adversos, con el fin de tomar las provisiones necesarias.
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
+
+XVIII. Analizar los contratos crediticios vigentes, y en su caso, cuando sea posible mejorar las condiciones financieras de los mismos, con la finalidad de generar ahorros y fortalecer la Hacienda Pública Municipal.
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
+
+XIX. La supervisión del otorgamiento de garantías y avales a fin de incrementar la transparencia de las cuentas fiscales y disminuir la vulnerabilidad de las finanzas públicas ante perturbaciones económicas adversas, ya que implican para el Municipio canalizar recursos públicos para solventar un evento contingente.
+
+Las garantías y avales otorgados deberán ser supervisados adecuadamente, a fin de evitar riesgos para las finanzas públicas del Municipio en el futuro.
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
+
+XX. Administrar el manejo de la Deuda Pública y realizar las acciones necesarias con el objeto de monitorear las obligaciones que deriven de su contratación; y
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
+
+XXI. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
 
 Naturaleza de la Dirección Jurídica.
 
@@ -2187,6 +2247,224 @@ La Contraloría Municipal, dará seguimiento a todas las condonaciones que reali
 
 Toda solicitud de condonación que no sea resuelta por las Autoridades Fiscales, será nula en todas y cada una de sus partes, en caso de que otra Autoridad no fiscal realice algún tipo de condonación o prórroga de pago, será fuente de responsabilidad administrativa.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2010)</small>
+
+## TÍTULO IV. DE LA DEUDA PÚBLICA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 95.
+
+Las disposiciones del presente Título son de orden público y de observancia general y tienen por objeto regular atribuciones y deberes en materia de Administración de la Deuda Pública del Municipio de Puebla, mediante la reglamentación de bases, requisitos, procedimientos y mecanismos para la contratación, registro y control de las operaciones de financiamientos y/o empréstitos que formen parte de la Política de Deuda Pública del Gobierno Municipal y sus respectivas entidades, así como las bases, requisitos, procedimientos y mecanismos para garantizar, avalar y efectuar el pago de las operaciones de financiamientos y/o empréstitos.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 96.
+
+Las entidades públicas a que se refieren las fracciones II a IV del artículo 323 del Código, contratarán su Deuda Pública, con base en los decretos que autorice el Congreso.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 97.
+
+Para los efectos del artículo 326 del Código, la Deuda Pública se clasifica en:
+
+I. Deuda Pública Ordinaria; y
+
+II. Deuda Pública Extraordinaria.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 98.
+
+El Ayuntamiento, por conducto de la Tesorería ejercerá las atribuciones a que se refiere el artículo 327 del Código.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 99.
+
+La Tesorería, es la dependencia municipal facultada para interpretar con efectos administrativos las disposiciones contenidas en el presente Título.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 100.
+
+Los sujetos a que se refiere el artículo 96 del presente ordenamiento, son los responsables del estricto cumplimiento de las disposiciones contenidas en el presente Título y de las demás directrices de contratación que expida la Tesorería.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 101.
+
+Para el adecuado manejo de la Deuda Pública, la Tesorería podrá contratar servicios profesionales de asesoría financiera, con la finalidad de procurar finanzas públicas sanas en el Municipio, previa autorización de Cabildo.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 102.
+
+El Presidente Municipal, de acuerdo al ámbito de su competencia, concertará y formalizará los financiamientos y/o empréstitos respectivos; asimismo, podrá concertar y gestionar los financiamientos de sus Entidades, a través de la Tesorería Municipal, quien a su vez será la encargada de la Administración de la Deuda Pública.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 103.
+
+La Tesorería a través de la Dirección de Planeación de la Inversión, es la instancia responsable de verificar la situación de la Deuda Pública contratada, comparándola con las condiciones existentes en el mercado financiero, a efecto de, en su caso, mejorar las condiciones financieras de la Deuda Pública en beneficio del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 104.
+
+Es responsabilidad de la Tesorería, vigilar el cumplimiento de las obligaciones asumidas por el Municipio al contratar operaciones de financiamiento, así como de los organismos paramunicipales, en el caso de que el Municipio actúe como su garante.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 105.
+
+Para efectos del artículo anterior, las dependencias municipales y en su caso, los organismos paramunicipales deberán proporcionar información a la Tesorería, en la forma y términos que le sean requeridos.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 106.
+
+Las formas de contratación de deuda se harán conforme lo establecen los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 107.
+
+Las dependencias ejecutoras del gasto son las responsables de la correcta aplicación de los financiamientos.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 108.
+
+En la contratación de nuevos financiamientos, la Tesorería negociará las mejores condiciones de financiamiento en cuanto a plazo, tasas de interés, periodos de gracia, garantías, entre otros aspectos, y en lo referente a pagos anticipados, se buscará que preferentemente no se apliquen penalizaciones.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 109.
+
+En todos los casos el titular de la dependencia u organismo paramunicipal de que se trate, será responsable de vigilar el cumplimiento de las obligaciones que se contraen.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 110.
+
+El Cabildo atendiendo al monto del Presupuesto de Egresos anual, establecerá los límites de recursos que destinará al pago del servicio de la Deuda Pública.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 111.
+
+La capacidad de endeudamiento del Municipio, debe mantener una correspondencia con los recursos con los que cuenta y que no estén comprometidos para otras actividades.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 112.
+
+El Congreso, autorizará los límites para la contratación de Deuda Pública por parte del Ayuntamiento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE PAGO DEL SERVICIO DE LA DEUDA PÚBLICA Y LA RECUPERACIÓN DE LOS RECURSOS
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 113.
+
+El pago del servicio de Deuda Pública que contrate el Ayuntamiento, deberá efectuarse atendiendo a las siguientes disposiciones:
+
+l. Al momento de la contratación del crédito, el Ayuntamiento podrá contratar un Fideicomiso de Garantía y Pago, previa autorización de Cabildo por las dos terceras partes, en el cual se depositará el porcentaje afectado de las Participaciones Municipales, que servirán como garantía de pago, en el que se pactarán las condiciones contractuales que pacten los acreditantes;
+
+II. Los recursos económicos mediante los cuales se realizarán los pagos del servicio de la Deuda contratada del mes que corresponda, serán tomados de la cuenta aperturada para dicho fin, de acuerdo a las instrucciones de pago establecidas en el Fideicomiso de Garantía y Pago correspondiente;
+
+III. El resto de las Participaciones Municipales que no sean tomadas como garantía para el pago del servicio de la deuda, se depositarán a más tardar el día hábil siguiente de haber sido recibidas por el Fideicomiso de Garantía y Pago, en la cuenta de cheques que para tal efecto indique el Ayuntamiento;
+
+IV. Una vez realizado el pago a la Institución Fiduciaria, ésta tendrá la obligación de otorgarle al Ayuntamiento una carta confirmación respecto al pago realizado: y
+
+V. La Dirección de Planeación de la Inversión de la Tesorería Municipal, tendrá la obligación de informar a las Direcciones de Ingresos, de Egresos y Control Presupuestal y de Contabilidad de la Tesorería Municipal, respecto al pago realizado, debiendo llevar además el registro y control de los pagos realizados.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 114.
+
+El pago de los Servicios de la Deuda Pública se efectuará con cargo a los ingresos propios o a los recursos que reciba el Municipio de las Participaciones afectadas como garantía del pago del crédito contratado; y la recuperación de los recursos erogados se hará con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, de conformidad a lo dispuesto por los artículos 37 y 47 de la Ley de Coordinación Fiscal, debiéndose realizar las siguientes acciones:
+
+I. Integración del expediente para la aprobación del Ayuntamiento en Sesión de Cabildo con los recursos presupuestados para el pago del Servicio de la Deuda Pública; y
+
+II. Efectuar mensualmente el procedimiento para la recuperación de los recursos, previo al cierre de los Estados Financieros mensuales.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO TERCERO. DE LA CONTRATACIÓN DE COBERTURAS PARA RIESGOS CREDITICIOS
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 115.
+
+El Municipio a través de la Tesorería Municipal, deberá contratar coberturas de tasas de interés, siempre que su único fin sea asegurar que el pago de intereses se mantenga en un plano sostenible.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 116.
+
+Los sujetos a que se refiere el artículo 96 del presente ordenamiento, podrán celebrar operaciones financieras de cobertura, que tiendan a evitar o reducir riesgos económico-financieros derivados de créditos o empréstitos obtenidos con base en la Ley y demás disposiciones aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 117.
+
+El Municipio previo a la contratación de las coberturas con las instituciones financieras en el año fiscal de que se trate, debe considerar lo siguiente:
+
+I. Al momento de efectuar el presupuesto, se hará un análisis que indique los pronósticos de las tasas de interés prevalecientes para el año siguiente;
+
+II. Considerar un tope en la tasa, al que se podría comprar la cobertura para la elaboración del presupuesto de los pagos del Servicio de la Deuda Pública;
+
+III. Considerar el costo de la contratación en el Presupuesto de Egresos anual;
+
+IV. Hacer una evaluación costo-beneficio entre los incrementos de las tasas y el costo de la cobertura;
+
+V. Contar con un contrato marco que faculte al Municipio a través de la Tesorería ante las instituciones para celebrar operaciones de derivados;
+
+VI. La institución con la que se contrate deberá entregar una carta confirmación de la cobertura realizada, especificando el monto y los periodos en los que el Municipio estará cubierto ante un incremento de las tasas de interés; y
+
+VII. Dar seguimiento al cumplimiento por parte de la institución financiera en los casos en que haya saldos a favor del Municipio, para cumplimiento del pago del Servicio de la Deuda.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO CUARTO. DE LA PROMOCIÓN DE PARTICIPACIÓN DEL MUNICIPIO EN EL SISTEMA DE CALIFICACIONES CREDITICIAS
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 118.
+
+El Municipio por conducto de la Tesorería, podrá contratar servicios de calificación crediticia, a efecto de que se determine evaluaciones independientes del desempeño financiero y económico del mismo, a fin de obtener una calificación, lo cual representa las siguientes ventajas:
+
+I. Que la calificación crediticia funcione como un proceso de "Certificación Voluntaria" que disminuye los problemas de asimetría en la información;
+
+II. Que los inversionistas o acreedores tiendan a destinar sus recursos a proyectos en entidades calificadas sobre aquéllas no calificadas; y
+
+III. Que las instituciones financieras otorguen financiamientos al Municipio.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 119.
+
+Para efectos de obtener la calificación crediticia, la Tesorería establecerá anualmente un programa de la información financiera que será entregada a las calificadoras contratadas, adicionalmente a la información que de manera específica le sea requerida.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 11 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO QUINTO. DE LA PROFESIONALIZACIÓN PARA LA ADMINISTRACIÓN DE LA DEUDA PÚBLICA
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
+###### Artículo 120.
+
+La Dirección de Planeación de la Inversión mantendrá una estructura organizacional que mitigue el riesgo operativo, estableciendo claramente la ejecución de transacciones, evaluación de alternativas para satisfacer las necesidades de financiamiento cuando sean requeridas, registro y control de las operaciones, elaboración de los presupuestos anuales de Deuda Pública, incluyendo lo concerniente a la contratación de coberturas de tasa para el pago de la deuda, entre otros aspectos.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial.
@@ -2292,3 +2570,15 @@ Durante la conclusión del ejercicio presupuestal 2009, para los efectos del art
 ###### ARTÍCULO SEXTO.
 
 Dentro de los noventa días naturales posteriores a la publicación en el Periódico Oficial del Estado, de estas reformas y adiciones, la Secretaría de Administración y Tecnologías de la Información fijará la normatividad en relación a los resguardos de los bienes muebles e inmuebles propiedad del Honorable Ayuntamiento.
+
+P.O. 11 DE AGOSTO DE 2010.
+
+PRIMERO.- Las presentes reformas y adiciones surtirán sus efectos al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan las disposiciones anteriores y aquéllas que se opongan a lo establecido en el presente Dictamen.
+
+DICTAMEN
+
+PRIMERO.- Se aprueban en todos sus términos las reformas y adiciones al Reglamento del Código Fiscal y Presupuestario para el Municipio de Puebla, en términos del Considerando IX del presente Dictamen.
+
+SEGUNDO.- Se instruye al Secretario del Honorable Ayuntamiento para que en la forma legal correspondiente realice los trámites ante la Secretaría de Gobernación del Estado y sea publicado por una sola vez en el Periódico Oficial del Estado, las reformas y adiciones al Reglamento del Código Fiscal y Presupuestario para el Municipio de Puebla, aprobadas en el presente Dictamen.
