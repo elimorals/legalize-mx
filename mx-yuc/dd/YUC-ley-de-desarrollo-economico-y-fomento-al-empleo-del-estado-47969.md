@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-desarrollo-economico-y-fomento-al-empleo-del-estado-4796
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-21"
-last_updated: "2005-12-21"
+last_updated: "2010-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE DESARROLLO ECONOMICO Y FOMENTO AL EMPLEO DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMAR PUBLICADA EN EL DIARIO OFICIAL: 11 DE AGOSTO DE 2010.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el miércoles 21 de diciembre de 2005.
 
@@ -179,7 +179,9 @@ VI.- Fomentar esquemas y mecanismos para la exportación de los productos locale
 
 VII.- Promover la creación del Sistema Estatal de Información y Análisis Económico, y coordinar sus trabajos;
 
-VIII.- Crear y coordinar el Registro Estatal de Trámites y Servicios, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+VIII.- (DEROGADA POR ARTICULO QUINTO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE YUCATAN, D.O. 11 DE AGOSTO DE 2010)
 
 IX.- Las demás que se le otorguen.
 
@@ -483,13 +485,17 @@ Para que pueda establecerse un microparque, parque o ciudad industrial, deberá 
 
 ### CAPÍTULO IX. De la Mejora Regulatoria
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### Artículo 38.
 
-Se entiende por mejora regulatoria, el conjunto de acciones que facilitan, simplifican y agilizan los mecanismos, procedimientos, actos y resoluciones que rigen y reglamentan el acceso a los distintos servicios relacionados con la creación, instalación y consolidación de las empresas o unidades económicas, en todas sus fases productivas.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE YUCATAN, D.O. 11 DE AGOSTO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 39.
 
-El Ejecutivo Estatal y los Ayuntamientos en el ámbito de sus atribuciones y con la colaboración del Consejo Estatal Consultivo para el Desarrollo Económico y Fomento al Empleo, propondrán en forma permanente a las autoridades competentes, las medidas y acciones para una mejora regulatoria relativa al Desarrollo Económico de la Entidad.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE YUCATAN, D.O. 11 DE AGOSTO DE 2010)
 
 ### CAPÍTULO X. De la vinculación con el sector educativo
 
@@ -696,3 +702,55 @@ EL SECRETARIO DE DESARROLLO INDUSTRIAL Y COMERCIAL
 (RÚBRICA)
 
 LIC. JOSÉ GUY PUERTO ESPINOSA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 11 DE AGOSTO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el primero de enero del año 2011, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado de Yucatán, expedirá el Reglamento de esta Ley, en un término que no exceda de ciento ochenta días naturales contados a partir de su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igualo menor jerarquía en cuanto se opongan a lo establecido en esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor de esta Ley, queda abrogada la Ley que Crea el Instituto de Capacitación y Productividad de Yucatán, publicada en el Diario Oficial del Gobierno del Estado el 16 de julio de 1991, mediante el Decreto 402.
+
+###### ARTÍCULO QUINTO.
+
+Se deroga la fracción VIII del Artículo 9 y los Artículos 38 y 39 de la Ley del Desarrollo Económico y Fomento al Empleo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado mediante Decreto 626 de fecha 21 de diciembre de 2005.
+
+###### ARTÍCULO SEXTO.
+
+A partir de la entrada en vigor de esta Ley, el Poder Ejecutivo del Estado de Yucatán, dentro de un término que no exceda de ciento ochenta días naturales, deberá expedir el decreto que reforme el objeto y las funciones del Instituto para la Innovación, Calidad y Competitividad.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las Dependencias o Entidades de la Administración Pública Estatal, harán del conocimiento del Consejo Estatal de Mejora Regulatoria los nombramientos de sus respectivos enlaces dentro de los noventa días naturales siguientes a la entrada en vigor de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+La integración del sistema informático, base de datos, puesta en marcha y funcionamiento del PTS, RUPAY y del MVU se hará de forma gradual, pero en ningún momento su implementación podrá excederse de dos años contados a partir de la entrada en vigor de esta Ley.
+
+###### ARTÍCULO NOVENO.
+
+La Oficialía Mayor, la Secretaría de Planeación y Presupuesto y la Secretaría de Fomento Económico del Gobierno del Estado, en un término de doscientos cuarenta días naturales, contados a partir del día siguiente al que entre en vigor esta Ley, deberán emitir los lineamientos y demás disposiciones aplicables al PTS, RUPAY y MVU, respectivamente.
+
+###### ARTÍCULO DÉCIMO.
+
+El Consejo Estatal de Mejora Regulatoria deberá quedar instalado dentro de los noventa días naturales siguientes a la entrada en vigor de esta Ley.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Consejo Estatal de Mejora Regulatoria, en un término que no exceda de noventa días naturales, contados a partir del día siguiente de su instalación, deberá emitir los lineamientos y demás disposiciones referentes a los Anteproyectos y a las Manifestaciones de Impacto Regulatorio.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las Dependencias y Entidades de la Administración Pública del Estado, deberán hacer los ajustes necesarios a sus presupuestos para el ejercicio fiscal 2011 y a sus Programas Operativos Anuales, con la finalidad de tener los recursos económicos suficientes para realizar las modificaciones y adecuaciones procedentes para implementar la Mejora Regulatoria y sus instrumentos.
