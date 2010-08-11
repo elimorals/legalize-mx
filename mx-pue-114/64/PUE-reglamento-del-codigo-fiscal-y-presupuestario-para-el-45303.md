@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-del-codigo-fiscal-y-presupuestario-para-el-45303"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-13"
-last_updated: "2009-08-03"
+last_updated: "2010-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 REGLAMENTO DEL CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2010.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 13 de junio de 2005.
 
@@ -65,69 +65,95 @@ El presente Reglamento tiene por objeto proveer a la exacta observancia del Cód
 
 Definiciones.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 2.
 
 Para la aplicación de este Reglamento se entenderá por:
 
-I. Autoridades fiscales.- Las autoridades fiscales del Municipio de Puebla;
+I. Anticipos o Financiamientos Temporales.- Los recursos que se asignan por el Gobierno del Estado al Municipio, o estos últimos a sus respectivos organismos paramunicipales, como un apoyo financiero de corto plazo, independientemente de la denominación que se utilice;
 
-II. Ayuntamiento.- El Honorable Ayuntamiento del Municipio de Puebla;
+II. Autoridades fiscales.- Las autoridades fiscales del Municipio de Puebla;
 
-III. Cabildo.- El Cabildo del Honorable Ayuntamiento del Municipio de Puebla;
+III. Ayuntamiento.- El Honorable Ayuntamiento del Municipio de Puebla;
 
-IV. Código.- El Código Fiscal y Presupuestario para el Municipio de Puebla;
+IV. Bonos.- Títulos de deuda emitidos por una empresa o por el Estado. En ellos se especifica el monto a reembolsar en un determinado plazo, las amortizaciones totales o parciales, los intereses periódicos y otras obligaciones del emisor;
 
-V. Concedente.- La autoridad que emita un acuerdo para la concesión de un bien del dominio público;
+V. Cabildo.- El Cabildo del Honorable Ayuntamiento del Municipio de Puebla;
 
-VI. Congreso.- El Honorable Congreso del Estado Libre Y Soberano de Puebla;
+VI. Código.- El Código Fiscal y Presupuestario para el Municipio de Puebla;
 
-VII. Contraloría.- La Contraloría del Honorable Ayuntamiento del Municipio de Puebla;
+VII. Código Reglamentario.- El Código Reglamentario para el Municipio de Puebla;
 
-VIII. Contraloría Interna.- El órgano de control de cada entidad auxiliar de la Administración Pública Municipal;
+VIII. Concedente.- La autoridad que emita un acuerdo para la concesión de un bien del dominio público;
 
-IX. Dependencias.- Las dependencias de la Administración Pública Centralizada del Honorable Ayuntamiento del Municipio de Puebla y sus órganos desconcentrados;
+IX. Congreso.- El Honorable Congreso del Estado Libre y Soberano de Puebla;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2009)</small>
+X. Constitución.- La Constitución Política del Estado Libre y Soberano de Puebla;
 
-X. SAU.- La Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable del Honorable Ayuntamiento del Municipio de Puebla;
+XI. Contraloría.- La Contraloría del Honorable Ayuntamiento del Municipio de Puebla;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2009)</small>
+XII. Contraloría Interna.- El órgano de control de cada entidad auxiliar de la Administración Pública Municipal;
 
-XI. Dirección Jurídica.- La Dirección General Jurídica y de lo Contencioso;
+XIII. Dependencias.- Las dependencias de la Administración Pública Centralizada del Honorable Ayuntamiento del Municipio de Puebla y sus órganos desconcentrados;
 
-XII. Entidades.- Los organismos, los fideicomisos públicos municipales y las empresas de participación municipal mayoritaria, de la Administración Pública del Municipio de Puebla;
+XIV. Deuda Pública Contingente.- La que contraiga el Gobierno Municipal, en el ámbito de su competencia, como avalista o deudor solidario o sustituto de sus organismos paramunicipales;
 
-XIII. Erario.- Conjunto de recursos monetarios y medios de pago que tiene el Municipio de Puebla, para el cumplimiento de sus fines;
+XV. Deuda Pública Directa.- Los préstamos, financiamientos y/o empréstitos a cargo del Gobierno Municipal, sus Organismos Paramunicipales, Empresas de Participación Municipal Mayoritaria y Fideicomisos Públicos Municipales;
 
-XIV. Estado.- El Estado Libre y Soberano de Puebla;
+XVI. Dictamen.- El documento que emita la Secretaría de Finanzas y Administración, para efectos de expresar oficialmente por parte del Gobierno del Estado la capacidad de endeudamiento y pago de cualquiera de los sujetos que contraten deuda;
 
-XV. Fisco.- La autoridad fiscal u órgano encargado de recaudar o realizar el cobro coactivo de los ingresos del Municipio de Puebla;
+XVII. Dirección Jurídica.- La Dirección General Jurídica Consultiva del Honorable Ayuntamiento del Municipio de Puebla;
 
-XVI. Municipio.- El Municipio de Puebla;
+XVIII. Entidades.- Los Organismos, los Fideicomisos Públicos Municipales y las Empresas de Participación Municipal Mayoritaria, de la Administración Pública del Municipio de Puebla;
 
-XVII. Organismos.- Los organismos públicos descentralizados de la Administración Pública del Municipio de Puebla;
+XIX. Erario.- Conjunto de recursos monetarios y medios de pago que tiene el Municipio de Puebla, para el cumplimiento de sus fines;
 
-XVIII. Órgano Desconcentrado.- El órgano dependiente de la Administración Pública Centralizada del Municipio de Puebla, en el que las dependencias descongestionan parte de su competencia;
+XX. Estado.- El Estado Libre y Soberano de Puebla;
 
-XIX. Oficina Ejecutara.- El órgano de la Tesorería Municipal, encargado del cobro coactivo de un crédito fiscal;
+XXI. Fisco.- La autoridad fiscal u órgano encargado de recaudar o realizar el cobro coactivo de los ingresos del Municipio de Puebla;
 
-XX. Periódico Oficial.- El Periódico Oficial del Estado de Puebla;
+XXII. Gobierno del Estado.- La Administración Pública Estatal representada por el Poder Ejecutivo;
 
-XXI. Presidente.- El Presidente Constitucional el Honorable Ayuntamiento del Municipio de Puebla;
+XXIII. Ley.- La Ley de Deuda Pública para el Estado Libre y Soberano de Puebla;
 
-XXII. Sindico.- El Titular de la Sindicatura, del Honorable Ayuntamiento del Municipio de Puebla;
+XXIV. Líneas de Crédito.- Los montos máximos de financiamiento aprobados por las instituciones de crédito autorizadas;
 
-XXIII. Sindicatura.- La Sindicatura del Honorable Ayuntamiento del Municipio de Puebla;
+XXV. Municipio.- El Municipio de Puebla;
 
-XXIV. Tesorería.- La Tesorería del Honorable Ayuntamiento del Municipio de Puebla, y (sic)
+XXVI. Oficina Ejecutora.- El órgano de la Tesorería Municipal, encargado del cobro coactivo de un crédito fiscal;
 
-XXV. Tesorero.- El Titular de la Tesorería del Honorable Ayuntamiento del Municipio de Puebla;
+XXVII. Organismos.- Los organismos públicos descentralizados de la Administración Pública del Municipio de Puebla;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+XXVIII. Órganos de Gobierno.- Los consejos, juntas directivas, comités técnicos o equivalentes de los organismos de la Administración Pública Paramunicipal;
 
-> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2006)</small>
+XXIX. Órgano Desconcentrado.- El órgano dependiente de la Administración Pública Centralizada del Municipio de Puebla, en el que las dependencias descongestionan parte de su competencia;
 
-XXVI. Código Reglamentario.- El Código Reglamentario para el Municipio de Puebla.
+XXX. Periódico Oficial.- El Periódico Oficial del Estado de Puebla;
+
+XXXI. Presidente.- El Presidente Constitucional del Honorable Ayuntamiento del Municipio de Puebla;
+
+XXXII. Préstamo Quirografario.- El préstamo que conste de manera escrita;
+
+XXXIII. Programa de Financiamiento Neto.- El documento que contiene los montos estimados a contratar y el servicio de la deuda correspondiente, exceptuando el pago de intereses para el ejercicio próximo inmediato; requisito obligatorio que establece la Secretaría de Finanzas y Administración del Gobierno del Estado;
+
+XXXIV. Registro.- El Registro Único de Obligaciones y Empréstitos del Estado;
+
+XXXV. SAU.- Secretaría de Administración Urbana;
+
+XXXVI. Secretaría.- La Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla;
+
+XXXVII. Servicio de la Deuda pública.- Son los importes de dinero que se destinen a la amortización de capital y al pago de intereses, comisiones y demás accesorios legales y contractuales derivados de las operaciones de financiamiento, incluyendo los fondos de reserva y de provisión, los gastos de implementación y mantenimiento y demás costos que correspondan según la forma de financiamiento de que se trate. Asimismo, se consideran parte del servicio de la Deuda Pública, los relativos a las operaciones financieras que tiendan a evitar o reducir riesgos económico-financieros a los sujetos de esta Ley, derivados de financiamientos y/o empréstitos, y el pago de comisiones por garantías de terceros;
+
+XXXVIII. Sindicatura.- La Sindicatura del Honorable Ayuntamiento del Municipio de Puebla;
+
+XXXIX. Síndico.- El Titular de la Sindicatura del Honorable Ayuntamiento del Municipio de Puebla;
+
+XL. Tesorería.- La Tesorería del Honorable Ayuntamiento del Municipio de Puebla;
+
+XLI. Tesorero.- El Titular de la Tesorería del Honorable Ayuntamiento del Municipio de Puebla; y
+
+XLII. Títulos de Deuda pública.- Los valores tales como Bonos, Certificados u Obligaciones Bursátiles, así como Certificados de Participación Ordinaria, Pagarés u otros Títulos o Valores afines, que los organismos financieros emitan en serie o en masa y que estén destinados a circular en colocación privada o en el mercado de valores.
 
 Derecho a la legalidad.
 
@@ -1301,13 +1327,47 @@ X. Programar inversiones financieras a corto o a mediano plazo, asegurando el me
 
 XI. Registrar y controlar las inversiones bancarias, así como los intereses generados por las mismas.
 
-> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2010)</small>
 
-XII. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus anexos y las que le con fiera el Ayuntamiento, el Presidente o el Tesorero.
+XII. Verificar que en el Presupuesto de Egresos del ejercicio fiscal siguiente, se encuentre presupuestado el monto total para hacer frente al pago del servicio de la Deuda Pública, tomando en consideración la política y esquema general de proyección de ingresos y egresos, atendiendo a lo dispuesto en la Normatividad Presupuestal para la Autorización y Ejercicio del Gasto Público de la Administración Municipal vigente.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
 
-La Dirección de Planeación de la Inversión, estará adscrita a la Tesorería y a cargo de un Titular, integrado por el Departamento de Planeación a la Inversión y Departamento de Financiamiento.
+XIII. Presupuestar un tope máximo de tasa a considerar en la cobertura para cubrir riesgos crediticios.
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
+
+XIV. Realizar el seguimiento oportuno sobre el nivel de deuda.
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
+
+XV. Dar seguimiento adecuado y oportuno al pago del servicio de la deuda, conformado por los pagos de intereses y los pagos de amortizaciones, evitando la concentración de amortizaciones en el tiempo y atrasos en los pagos, disminuyendo el riesgo de financiamiento.
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
+
+XVI. Verificar que tanto la tasa como el plazo aplicado por las instituciones financieras sea el correcto en la fecha pactada.
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
+
+XVII. Realizar monitoreo constante en los mercados financieros para los posibles efectos que en la deuda pudieran tener escenarios macroeconómicos adversos, con el fin de tomar las provisiones necesarias.
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
+
+XVIII. Analizar los contratos crediticios vigentes, y en su caso, cuando sea posible mejorar las condiciones financieras de los mismos, con la finalidad de generar ahorros y fortalecer la Hacienda Pública Municipal.
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
+
+XIX. La supervisión del otorgamiento de garantías y avales a fin de incrementar la transparencia de las cuentas fiscales y disminuir la vulnerabilidad de las finanzas públicas ante perturbaciones económicas adversas, ya que implican para el Municipio canalizar recursos públicos para solventar un evento contingente.
+
+Las garantías y avales otorgados deberán ser supervisados adecuadamente, a fin de evitar riesgos para las finanzas públicas del Municipio en el futuro.
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
+
+XX. Administrar el manejo de la Deuda Pública y realizar las acciones necesarias con el objeto de monitorear las obligaciones que deriven de su contratación; y
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2010)</small>
+
+XXI. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
 
 Naturaleza de la Dirección Jurídica.
 
@@ -2187,279 +2247,223 @@ La Contraloría Municipal, dará seguimiento a todas las condonaciones que reali
 
 Toda solicitud de condonación que no sea resuelta por las Autoridades Fiscales, será nula en todas y cada una de sus partes, en caso de que otra Autoridad no fiscal realice algún tipo de condonación o prórroga de pago, será fuente de responsabilidad administrativa.
 
-## Título Cuarto. Del Educando
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2010)</small>
 
-### Capítulo IV. De la Educación Preescolar
+## TÍTULO IV. DE LA DEUDA PÚBLICA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 95.
 
-En los planes de estudio deberán establecerse: los propósitos de formación general, y en su caso, la adquisición de conocimientos, habilidades, capacidades y destrezas que correspondan a cada nivel educativo; los contenidos fundamentales de estudio serán organizados en asignaturas, en áreas u otras unidades de aprendizaje que, como mínimo, el educando deberá acreditar para cumplir con los propósitos de cada nivel educativo; la secuencia o seriación indispensable que deban respetarse entre las asignaturas, áreas o unidades de aprendizaje que constituyen un nivel educativo; y los criterios y procedimientos de evaluación y acreditación para verificar que el educando cumplió con los propósitos de cada nivel educativo.
+Las disposiciones del presente Título son de orden público y de observancia general y tienen por objeto regular atribuciones y deberes en materia de Administración de la Deuda Pública del Municipio de Puebla, mediante la reglamentación de bases, requisitos, procedimientos y mecanismos para la contratación, registro y control de las operaciones de financiamientos y/o empréstitos que formen parte de la Política de Deuda Pública del Gobierno Municipal y sus respectivas entidades, así como las bases, requisitos, procedimientos y mecanismos para garantizar, avalar y efectuar el pago de las operaciones de financiamientos y/o empréstitos.
 
-En los programas de estudio se establecerán: los propósitos específicos de aprendizaje de las asignaturas u otras unidades de aprendizaje dentro de un plan de estudios; los criterios y procedimientos para evaluar y acreditar su cumplimiento; y las sugerencias sobre métodos y actividades para alcanzar dichos propósitos.
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 96.
 
-Los planes y programas que la autoridad educativa federal determine en cumplimiento de la Ley General, así como sus modificaciones, se publicarán en el Periódico Oficial “El Estado de Sinaloa” y, previo a su aplicación, se deberá capacitar a las maestras y los maestros respecto de su contenido y métodos, así como generar espacios para el análisis y la comprensión de los referidos cambios.
+Las entidades públicas a que se refieren las fracciones II a IV del artículo 323 del Código, contratarán su Deuda Pública, con base en los decretos que autorice el Congreso.
 
-En el caso de los planes y programas para la educación media superior, podrán publicarse en los medios informativos oficiales del Estado y de los organismos descentralizados correspondientes.
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 97.
 
-La opinión que se emita por la autoridad educativa estatal sobre el contenido de los planes y programas de estudio será, entre otros, respecto a lo siguiente:
+Para los efectos del artículo 326 del Código, la Deuda Pública se clasifica en:
 
-I. El aprendizaje de las matemáticas;
+I. Deuda Pública Ordinaria; y
 
-II. El conocimiento de la lecto-escritura y la literacidad, para un mejor aprovechamiento de la cultura escrita;
+II. Deuda Pública Extraordinaria.
 
-III. El aprendizaje de la historia, la geografía, el civismo y la filosofía;
-
-IV. El fomento de la investigación, la ciencia, la tecnología y la innovación, así como su comprensión, aplicación y uso responsables;
-
-V. El conocimiento y, en su caso, el aprendizaje de lenguas indígenas de nuestro país, la importancia de la pluralidad lingüística de la Nación y el respeto a los derechos lingüísticos de los pueblos indígenas;
-
-VI. El aprendizaje de las lenguas extranjeras;
-
-VII. El fomento de la activación física, la práctica del deporte y la educación física;
-
-VIII. La promoción de estilos de vida saludables, la educación para la salud, y la importancia de la donación de órganos, tejidos y sangre;
-
-IX. El fomento de la igualdad de género para la construcción de una sociedad justa e igualitaria;
-
-X. La educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos en adolescentes y de las infecciones de transmisión sexual;
-
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
-
-XI. La educación socioemocional, y la integración de conocimientos básicos sobre salud mental;
-
-XII. La prevención del consumo de sustancias psicoactivas, el conocimiento de sus causas, riesgos y consecuencias;
-
-XIII. El reconocimiento de la diversidad de capacidades de las personas, a partir de reconocer su ritmo, estilo e intereses en el aprendizaje, así como el uso del Lenguaje de Señas Mexicanas, y fortalecer el ejercicio de los derechos de todas las personas;
-
-XIV. La promoción del emprendimiento, el fomento de la cultura del ahorro y la educación financiera;
-
-XV. El fomento de la cultura de la transparencia, la rendición de cuentas, la integridad, la protección de datos personales, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
-
-XVI. La educación ambiental para la sustentabilidad que integre el conocimiento de los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate del cambio climático, así como la generación de conciencia para la valoración del manejo, conservación y aprovechamiento de los recursos naturales que garanticen la participación social en la protección ambiental;
-
-XVII. El aprendizaje y fomento de la cultura de protección civil, integrando los elementos básicos de prevención, autoprotección y resiliencia, así como la mitigación y adaptación ante los efectos que representa el cambio climático y los riesgos inherentes a otros fenómenos naturales;
-
-XVIII. El fomento de los valores y principios del cooperativismo que propicien la construcción de relaciones, solidarias y fraternas;
-
-XIX. La promoción de actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general;
-
-XX. El fomento de la lectura y el uso de los libros, materiales diversos y dispositivos digitales;
-
-XXI. La promoción del valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, la cultura de la legalidad, de la inclusión y la no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como la práctica de los valores y el conocimiento de los derechos humanos para garantizar el respeto a los mismos;
-
-XXII. El conocimiento de las artes, la valoración, la apreciación, preservación y respeto del patrimonio musical, cultural y artístico, así como el desarrollo de la creatividad artística por medio de los procesos tecnológicos y tradicionales;
-
-XXIII. La enseñanza de la música para potencializar el desarrollo cognitivo y humano, así como la personalidad de los educandos;
-
-XXIV. El fomento de los principios básicos de seguridad y educación vial, y
-
-XXV. Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 98.
 
-En la educación que se imparta en el Estado, se utilizará el avance de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, con la finalidad de fortalecer los modelos pedagógicos de enseñanza aprendizaje, la innovación educativa, el desarrollo de habilidades y saberes digitales de los educandos, además del establecimiento de programas de educación a distancia y semipresencial para cerrar la brecha digital y las desigualdades en la población.
+El Ayuntamiento, por conducto de la Tesorería ejercerá las atribuciones a que se refiere el artículo 327 del Código.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2026)</small>
-
-Las tecnologías de la información, comunicación, conocimiento y aprendizaje digital serán utilizadas como un complemento de los demás materiales educativos, incluidos los libros de texto gratuitos. Asimismo, se procurará el uso responsable, consciente y seguro, así como el máximo provecho de dichas tecnologías, para prevenir y mitigar los riesgos asociados en el entorno educativo, como herramientas en el proceso de enseñanza-aprendizaje.
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2026)</small>
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 99.
 
-La autoridad educativa estatal, en el ámbito de su competencia, promoverá la formación y capacitación de maestras y maestros para desarrollar las habilidades necesarias en el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital para favorecer el proceso educativo.
+La Tesorería, es la dependencia municipal facultada para interpretar con efectos administrativos las disposiciones contenidas en el presente Título.
 
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2023)</small>
-
-Asimismo, fortalecerán los sistemas de educación a distancia, mediante el aprovechamiento de las multiplataformas digitales, la televisión educativa y las tecnologías antes referidas.
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 100.
 
-La autoridad educativa estatal emitirá una Guía Operativa para la Organización y Funcionamiento de los Servicios de Educación Básica y Media Superior, el cual será un documento de carácter operativo y normativo que tendrá la finalidad de apoyar la planeación, organización y ejecución de las actividades docentes, pedagógicas, directivas, administrativas y de supervisión de cada plantel educativo enfocadas a la mejora escolar, atendiendo al contexto regional de la prestación de los servicios educativos en el Estado.
+Los sujetos a que se refiere el artículo 96 del presente ordenamiento, son los responsables del estricto cumplimiento de las disposiciones contenidas en el presente Título y de las demás directrices de contratación que expida la Tesorería.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 101.
 
-La elaboración de la Guía a la que se refiere este Capítulo se apegará a las disposiciones y lineamientos de carácter general que emita la autoridad educativa federal. En dicha Guía se establecerán los elementos de normalidad mínima de la operación escolar, cuyo objetivo es dar a conocer las normas y los procedimientos institucionales y, con ello, facilitar la toma de decisiones para fortalecer la mejora escolar.
+Para el adecuado manejo de la Deuda Pública, la Tesorería podrá contratar servicios profesionales de asesoría financiera, con la finalidad de procurar finanzas públicas sanas en el Municipio, previa autorización de Cabildo.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 102.
 
-La autoridad educativa federal determinará el calendario escolar aplicable a toda la República, para cada ciclo lectivo de la educación básica y normal y demás para la formación de maestros de educación básica, necesarios para cubrir los planes y programas aplicables. El calendario deberá contener un mínimo de ciento ochenta y cinco días y un máximo de doscientos días efectivos de clase para los educandos.
+El Presidente Municipal, de acuerdo al ámbito de su competencia, concertará y formalizará los financiamientos y/o empréstitos respectivos; asimismo, podrá concertar y gestionar los financiamientos de sus Entidades, a través de la Tesorería Municipal, quien a su vez será la encargada de la Administración de la Deuda Pública.
 
-Las autoridades escolares, previa autorización de la autoridad educativa estatal y de conformidad con los lineamientos que expida la autoridad educativa federal, podrán ajustar el calendario escolar al que se refiere el párrafo anterior. Dichos ajustes deberán prever las medidas para cubrir los planes y programas aplicables.
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 103.
 
-La autoridad educativa estatal podrá ajustar el calendario escolar, respecto del establecido por la autoridad educativa federal, cuando ello resulte necesario de acuerdo con requerimientos específicos del Estado. Los maestros serán debidamente remunerados si la modificación al calendario escolar implica más días de clase para los educandos, que los citados en el artículo anterior.
+La Tesorería a través de la Dirección de Planeación de la Inversión, es la instancia responsable de verificar la situación de la Deuda Pública contratada, comparándola con las condiciones existentes en el mercado financiero, a efecto de, en su caso, mejorar las condiciones financieras de la Deuda Pública en beneficio del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 104.
 
-En días escolares, las horas de labor escolar se dedicarán a la orientación integral del educando, a través de la práctica docente, actividades educativas y otras que contribuyan a los principios, fines y criterios de la educación, conforme a lo previsto en los planes y programas de estudio aplicables.
+Es responsabilidad de la Tesorería, vigilar el cumplimiento de las obligaciones asumidas por el Municipio al contratar operaciones de financiamiento, así como de los organismos paramunicipales, en el caso de que el Municipio actúe como su garante.
 
-Las actividades no previstas en los planes y programas de estudio, o bien la suspensión de clases, sólo podrán ser autorizadas por la autoridad que haya establecido o, en su caso, ajustado el correspondiente calendario escolar. Estas autorizaciones únicamente podrán concederse en casos extraordinarios y si no implican incumplimiento de los planes y programas ni, en su caso, del calendario señalado por la autoridad educativa federal.
-
-De presentarse interrupciones por caso extraordinario o fuerza mayor, la autoridad educativa tomará las medidas para recuperar los días y horas perdidos.
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 105.
 
-El calendario que la autoridad educativa federal determine para cada ciclo lectivo de educación preescolar, de primaria, de secundaria, de normal y demás para la formación de maestros de educación básica, será el que se haya publicado en el Diario Oficial de la Federación.
+Para efectos del artículo anterior, las dependencias municipales y en su caso, los organismos paramunicipales deberán proporcionar información a la Tesorería, en la forma y términos que le sean requeridos.
 
-La autoridad educativa estatal publicará en el Periódico Oficial “El Estado de Sinaloa”, las autorizaciones de ajustes al calendario escolar determinado por la autoridad educativa federal.
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 106.
 
-Las madres y padres de familia o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo.
+Las formas de contratación de deuda se harán conforme lo establecen los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 107.
 
-La autoridad educativa estatal desarrollará actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+Las dependencias ejecutoras del gasto son las responsables de la correcta aplicación de los financiamientos.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 108.
 
-Las negociaciones o empresas a que se refiere la fracción XII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos están obligadas a establecer y sostener escuelas cuando el número de educandos que las requiera sea mayor de veinte. Estos planteles quedarán bajo la dirección administrativa de la autoridad educativa estatal.
+En la contratación de nuevos financiamientos, la Tesorería negociará las mejores condiciones de financiamiento en cuanto a plazo, tasas de interés, periodos de gracia, garantías, entre otros aspectos, y en lo referente a pagos anticipados, se buscará que preferentemente no se apliquen penalizaciones.
 
-Las escuelas que se establezcan en cumplimiento de la obligación prevista en el párrafo anterior contarán con edificio, instalaciones accesibles y demás elementos necesarios para realizar su función, en los términos que señalen las disposiciones aplicables.
-
-El sostenimiento de dichas escuelas comprende la obligación patronal de proporcionar las aportaciones para la remuneración del personal y las prestaciones que dispongan las leyes y reglamentos, que no serán inferiores a las que otorgue la autoridad educativa local en igualdad de circunstancias.
-
-La autoridad educativa estatal podrá celebrar con los patrones convenios para el cumplimiento de las obligaciones que señala el presente artículo.
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 109.
 
-La formación para el trabajo deberá estar enfocada en la adquisición de conocimientos, habilidades, destrezas y actitudes, que permitan a la persona desempeñar una actividad productiva, mediante alguna ocupación o algún oficio calificado. Se realizará poniendo especial atención a las personas con discapacidad con el fin de desarrollar capacidades para su inclusión laboral.
+En todos los casos el titular de la dependencia u organismo paramunicipal de que se trate, será responsable de vigilar el cumplimiento de las obligaciones que se contraen.
 
-La autoridad educativa federal, en términos de la Ley General, establecerá un régimen de certificación referido a la formación para el trabajo aplicable en toda la República, conforme al cual sea posible ir acreditando conocimientos, habilidades, destrezas y capacidades -intermedios o terminales- de manera parcial y acumulativa, independientemente de la forma en que hayan sido adquiridos.
-
-La autoridad educativa federal, conjuntamente con las demás autoridades federales competentes, determinará los lineamientos generales aplicables en toda la República para la definición de aquellos conocimientos, habilidades, destrezas y actitudes susceptibles de certificación, así como de los procedimientos de evaluación correspondientes, sin perjuicio de las demás disposiciones que emitan las autoridades locales en atención a requerimientos específicos. Los certificados serán otorgados por las instituciones públicas y los particulares señalados en estos lineamientos, en cuya determinación, así como en la decisión sobre los servicios de formación para el trabajo que sean ofrecidos, las autoridades competentes establecerán procedimientos que permitan considerar las necesidades, propuestas y opiniones de los diversos sectores productivos, a nivel nacional, estatal o municipal.
-
-Podrán celebrarse convenios para que la formación para el trabajo se imparta por la autoridad educativa estatal, los ayuntamientos, las instituciones privadas, las organizaciones sindicales, los patrones y demás particulares. La formación para el trabajo que se imparta en términos del presente artículo será adicional y complementaria a la capacitación prevista en la fracción XIII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 110.
 
-En la educación impartida en el Estado se priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el ejercicio de su derecho a la educación. Para tal efecto, la autoridad educativa estatal garantizará el desarrollo de programas y políticas públicas que hagan efectivo ese principio constitucional.
+El Cabildo atendiendo al monto del Presupuesto de Egresos anual, establecerá los límites de recursos que destinará al pago del servicio de la Deuda Pública.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 111.
 
-Los educandos son los sujetos más valiosos de la educación con pleno derecho a desarrollar todas sus potencialidades de forma activa, transformadora y autónoma.
+La capacidad de endeudamiento del Municipio, debe mantener una correspondencia con los recursos con los que cuenta y que no estén comprometidos para otras actividades.
 
-Como parte del proceso educativo, los educandos tendrán derecho a:
-
-I. Recibir una educación de excelencia;
-
-II. Ser respetados en su integridad, identidad y dignidad, además de la protección contra cualquier tipo de agresión física o moral;
-
-III. Recibir una orientación integral como elemento para el pleno desarrollo de su personalidad;
-
-IV. Ser respetados por su libertad de convicciones éticas, de conciencia y de religión;
-
-V. Recibir una orientación educativa y vocacional;
-
-VI. Tener un docente frente a grupo que contribuya al logro de su aprendizaje y desarrollo integral;
-
-VII. Participar de los procesos que se deriven en los planteles educativos como centros de aprendizaje comunitario;
-
-VIII. Recibir becas y demás apoyos económicos priorizando a los educandos que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
-
-IX. Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas, y
-
-X. Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, esta Ley y demás disposiciones aplicables.
-
-La autoridad educativa estatal establecerá los mecanismos que contribuyan a su formación integral, tomando en cuenta los contextos sociales, territoriales, económicos, lingüísticos y culturales específicos en la elaboración y aplicación de las políticas educativas en sus distintos tipos y modalidades.
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 112.
 
-La autoridad educativa estatal creará para cada educando desde educación inicial hasta media superior, un expediente único en el que se contengan los datos sobre su trayectoria académica. En todo momento, la autoridad educativa estatal deberá atender las disposiciones aplicables en materia de transparencia y protección de datos personales.
+El Congreso, autorizará los límites para la contratación de Deuda Pública por parte del Ayuntamiento.
 
-La información del expediente al que se refiere este artículo se proporcionará a la autoridad educativa federal en los términos que señale para actualizar el Sistema de Información y Gestión Educativa previsto en la Ley General.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2010)</small>
 
-### Capítulo V. De la Educación Primaria
+### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE PAGO DEL SERVICIO DE LA DEUDA PÚBLICA Y LA RECUPERACIÓN DE LOS RECURSOS
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 113.
 
-La autoridad educativa estatal ofrecerá servicios de orientación educativa, de trabajo social y de psicología desde la educación básica hasta la educación superior, de acuerdo con la suficiencia presupuestal y a las necesidades de cada plantel, a fin de fomentar una conciencia crítica que perfile a los educandos en la selección de su formación a lo largo de la vida para su desarrollo personal y contribuir al bienestar de sus comunidades.
+El pago del servicio de Deuda Pública que contrate el Ayuntamiento, deberá efectuarse atendiendo a las siguientes disposiciones:
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2026)</small>
+l. Al momento de la contratación del crédito, el Ayuntamiento podrá contratar un Fideicomiso de Garantía y Pago, previa autorización de Cabildo por las dos terceras partes, en el cual se depositará el porcentaje afectado de las Participaciones Municipales, que servirán como garantía de pago, en el que se pactarán las condiciones contractuales que pacten los acreditantes;
+
+II. Los recursos económicos mediante los cuales se realizarán los pagos del servicio de la Deuda contratada del mes que corresponda, serán tomados de la cuenta aperturada para dicho fin, de acuerdo a las instrucciones de pago establecidas en el Fideicomiso de Garantía y Pago correspondiente;
+
+III. El resto de las Participaciones Municipales que no sean tomadas como garantía para el pago del servicio de la deuda, se depositarán a más tardar el día hábil siguiente de haber sido recibidas por el Fideicomiso de Garantía y Pago, en la cuenta de cheques que para tal efecto indique el Ayuntamiento;
+
+IV. Una vez realizado el pago a la Institución Fiduciaria, ésta tendrá la obligación de otorgarle al Ayuntamiento una carta confirmación respecto al pago realizado: y
+
+V. La Dirección de Planeación de la Inversión de la Tesorería Municipal, tendrá la obligación de informar a las Direcciones de Ingresos, de Egresos y Control Presupuestal y de Contabilidad de la Tesorería Municipal, respecto al pago realizado, debiendo llevar además el registro y control de los pagos realizados.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 114.
 
-La autoridad educativa estatal, en el ámbito de su competencia, aplicará y vigilará el cumplimiento de los lineamientos que emitan las autoridades educativas federal y estatal sobre la distribución de los alimentos y bebidas preparados y procesados dentro de toda escuela.
+El pago de los Servicios de la Deuda Pública se efectuará con cargo a los ingresos propios o a los recursos que reciba el Municipio de las Participaciones afectadas como garantía del pago del crédito contratado; y la recuperación de los recursos erogados se hará con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, de conformidad a lo dispuesto por los artículos 37 y 47 de la Ley de Coordinación Fiscal, debiéndose realizar las siguientes acciones:
 
-La autoridad educativa estatal realizará acciones de vigilancia para que en los alimentos y bebidas que se preparen y procesen al interior de las escuelas cumplan con el valor nutritivo para la salud de los educandos.
+I. Integración del expediente para la aprobación del Ayuntamiento en Sesión de Cabildo con los recursos presupuestados para el pago del Servicio de la Deuda Pública; y
 
-### Capítulo VI. De la Educación Secundaria
+II. Efectuar mensualmente el procedimiento para la recuperación de los recursos, previo al cierre de los Estados Financieros mensuales.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO TERCERO. DE LA CONTRATACIÓN DE COBERTURAS PARA RIESGOS CREDITICIOS
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 115.
 
-Dentro de las escuelas queda prohibida la distribución y comercialización de los alimentos que no favorezcan la salud de los educandos, así como las bebidas energizantes.
+El Municipio a través de la Tesorería Municipal, deberá contratar coberturas de tasas de interés, siempre que su único fin sea asegurar que el pago de intereses se mantenga en un plano sostenible.
 
-Las autoridades educativas estatal y municipales promoverán ante las autoridades correspondientes, la prohibición de la venta de alimentos con bajo valor nutritivo y alto contenido calórico en las inmediaciones de los planteles escolares.
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 116.
 
-La autoridad educativa estatal establecerá las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, entre otros. En materia de la promoción de la salud escolar, la autoridad educativa escolar considerará las Normas Oficiales Mexicanas respectivas.
+Los sujetos a que se refiere el artículo 96 del presente ordenamiento, podrán celebrar operaciones financieras de cobertura, que tiendan a evitar o reducir riesgos económico-financieros derivados de créditos o empréstitos obtenidos con base en la Ley y demás disposiciones aplicables en la materia.
 
-El Gobierno del Estado dispondrá las medidas para que los certificados médicos de los educandos que se requieran para sus trámites escolares, se emitan sin costo alguno.
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 117.
 
-Las cooperativas que funcionen con la participación de la comunidad educativa tendrán un compromiso para fomentar estilos de vida saludables en la alimentación de los educandos y su operación será con apego a los lineamientos que establezca la autoridad educativa federal y a las demás disposiciones aplicables.
+El Municipio previo a la contratación de las coberturas con las instituciones financieras en el año fiscal de que se trate, debe considerar lo siguiente:
 
-### Capítulo VII. Del Tipo de Educación Media Superior
+I. Al momento de efectuar el presupuesto, se hará un análisis que indique los pronósticos de las tasas de interés prevalecientes para el año siguiente;
+
+II. Considerar un tope en la tasa, al que se podría comprar la cobertura para la elaboración del presupuesto de los pagos del Servicio de la Deuda Pública;
+
+III. Considerar el costo de la contratación en el Presupuesto de Egresos anual;
+
+IV. Hacer una evaluación costo-beneficio entre los incrementos de las tasas y el costo de la cobertura;
+
+V. Contar con un contrato marco que faculte al Municipio a través de la Tesorería ante las instituciones para celebrar operaciones de derivados;
+
+VI. La institución con la que se contrate deberá entregar una carta confirmación de la cobertura realizada, especificando el monto y los periodos en los que el Municipio estará cubierto ante un incremento de las tasas de interés; y
+
+VII. Dar seguimiento al cumplimiento por parte de la institución financiera en los casos en que haya saldos a favor del Municipio, para cumplimiento del pago del Servicio de la Deuda.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO CUARTO. DE LA PROMOCIÓN DE PARTICIPACIÓN DEL MUNICIPIO EN EL SISTEMA DE CALIFICACIONES CREDITICIAS
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 118.
 
-La autoridad educativa estatal, de acuerdo con la suficiencia presupuestal, impulsará programas alimentarios para los educandos a partir de microempresas locales, en escuelas ubicadas en zonas de pobreza, alta marginación y vulnerabilidad social.
+El Municipio por conducto de la Tesorería, podrá contratar servicios de calificación crediticia, a efecto de que se determine evaluaciones independientes del desempeño financiero y económico del mismo, a fin de obtener una calificación, lo cual representa las siguientes ventajas:
+
+I. Que la calificación crediticia funcione como un proceso de "Certificación Voluntaria" que disminuye los problemas de asimetría en la información;
+
+II. Que los inversionistas o acreedores tiendan a destinar sus recursos a proyectos en entidades calificadas sobre aquéllas no calificadas; y
+
+III. Que las instituciones financieras otorguen financiamientos al Municipio.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 119.
 
-En la impartición de educación para menores de dieciocho años, la autoridad educativa estatal en coordinación con otras áreas de gobierno, tomará medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad y derechos, y que la aplicación de la disciplina escolar sea compatible con su edad, de conformidad con los lineamientos que para tal efecto se establezcan.
+Para efectos de obtener la calificación crediticia, la Tesorería establecerá anualmente un programa de la información financiera que será entregada a las calificadoras contratadas, adicionalmente a la información que de manera específica le sea requerida.
 
-Los docentes y el personal que labora en los planteles de educación deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral.
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 11 DE AGOSTO DE 2010)</small>
 
-En caso de que los docentes, el personal que labora en los planteles educativos, así como las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
+### CAPÍTULO QUINTO. DE LA PROFESIONALIZACIÓN PARA LA ADMINISTRACIÓN DE LA DEUDA PÚBLICA
 
-Cuando exista ausentismo del educando por cinco días consecutivos o siete acumulados en un mes, sin que exista justificación por escrito de madres y padres de familia o tutores, las autoridades escolares de las escuelas públicas y privadas del tipo básico informarán a la autoridad educativa estatal, la cual emitirá una Alerta Temprana y será remitida a las Procuradurías Municipales para la Protección de Niñas, Niños y Adolescentes para los efectos correspondientes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2024)</small>
-
-### Capítulo VIII. Del Tipo de Educación Superior
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 120.
 
-Las autoridades educativas, en el ámbito de su competencia, promoverán la cultura de la paz y no violencia para generar una convivencia democrática basada en el respeto a la dignidad de las personas y de los derechos humanos, y fomentarán la prevención de cualquier conducta que provoque, incite, apoye a difundir acciones o expresiones verbales o escritas de cualquier tipo basadas en odio, violencia o discriminación contra cualquier persona, grupos o comunidades. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, los docentes, madres y padres de familia o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar.
-
-Para cumplir con lo establecido en este artículo, se llevarán a cabo, entre otras, las siguientes acciones:
-
-I. Diseñar y aplicar estrategias educativas que generen ambientes basados en una cultura de la paz, para fortalecer la cohesión comunitaria y una convivencia democrática;
-
-II. Promover en la formación docente contenidos y prácticas relacionados con la cultura de la paz y la resolución pacífica de conflictos;
-
-III. Proporcionar atención psicosocial y, en su caso, orientación sobre las vías legales a la persona agresora y a la víctima de violencia o maltrato escolar, ya sea psicológico, físico o cibernético, así como a las receptoras indirectas de maltrato dentro de las escuelas;
-
-IV. Establecer los mecanismos gratuitos de asesoría, orientación, reporte de casos y de protección para las niñas, niños, adolescentes y jóvenes que estén involucrados en violencia o maltrato escolar, ya sea psicológico, físico o cibernético, procurando ofrecer servicios remotos de atención, a través de una línea pública telefónica u otros medios electrónicos;
-
-V. Solicitar a la Comisión Nacional para la Mejora Continua de la Educación estudios, investigaciones, informes y diagnósticos que permitan conocer las causas y la incidencia del fenómeno de violencia o maltrato entre escolares en cualquier tipo, ya sea psicológica, física o cibernética, así como su impacto en el entorno escolar en la deserción de los centros educativos, en el desempeño académico de los educandos, en sus vínculos familiares y comunitarios y el desarrollo integral de todas sus potencialidades, así como las medidas para atender dicha problemática;
-
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2026)</small>
-
-VI. Celebrar convenios de cooperación, coordinación y concertación con los sectores públicos, privados y sociales, para promover los derechos de las niñas, niños, adolescentes y jóvenes, y el fomento de la cultura de la paz, resolución no violenta de conflictos, prevención de conductas que enaltezcan actividades ilícitas, fortalecimiento de la cohesión comunitaria y convivencia armónica dentro de las escuelas;
-
-VII. Hacer del conocimiento de las autoridades competentes las conductas que pueden resultar constitutivas de infracciones o delitos cometidos en contra de las niñas, los niños, adolescentes y jóvenes por el ejercicio de cualquier maltrato o tipo de violencia en el entorno escolar, familiar o comunitario, así como promover su defensa en las instancias administrativas o judiciales;
-
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2026)</small>
-
-VIII. Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, que concienticen sobre la importancia de una convivencia libre de violencia o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social;
-
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2026)</small>
-
-IX. Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de maltrato escolar, así como coordinar campañas de información sobre las mismas; y
-
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2026)</small>
-
-X. Prohibir la reproducción, difusión o realización de contenidos que enaltezcan actividades ilícitas o a personas vinculadas a ellas, por cualquier medio, en los espacios de las instituciones de educación básica y media superior.
+La Dirección de Planeación de la Inversión mantendrá una estructura organizacional que mitigue el riesgo operativo, estableciendo claramente la ejecución de transacciones, evaluación de alternativas para satisfacer las necesidades de financiamiento cuando sean requeridas, registro y control de las operaciones, elaboración de los presupuestos anuales de Deuda Pública, incluyendo lo concerniente a la contratación de coberturas de tasa para el pago de la deuda, entre otros aspectos.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -2566,3 +2570,15 @@ Durante la conclusión del ejercicio presupuestal 2009, para los efectos del art
 ###### ARTÍCULO SEXTO.
 
 Dentro de los noventa días naturales posteriores a la publicación en el Periódico Oficial del Estado, de estas reformas y adiciones, la Secretaría de Administración y Tecnologías de la Información fijará la normatividad en relación a los resguardos de los bienes muebles e inmuebles propiedad del Honorable Ayuntamiento.
+
+P.O. 11 DE AGOSTO DE 2010.
+
+PRIMERO.- Las presentes reformas y adiciones surtirán sus efectos al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan las disposiciones anteriores y aquéllas que se opongan a lo establecido en el presente Dictamen.
+
+DICTAMEN
+
+PRIMERO.- Se aprueban en todos sus términos las reformas y adiciones al Reglamento del Código Fiscal y Presupuestario para el Municipio de Puebla, en términos del Considerando IX del presente Dictamen.
+
+SEGUNDO.- Se instruye al Secretario del Honorable Ayuntamiento para que en la forma legal correspondiente realice los trámites ante la Secretaría de Gobernación del Estado y sea publicado por una sola vez en el Periódico Oficial del Estado, las reformas y adiciones al Reglamento del Código Fiscal y Presupuestario para el Municipio de Puebla, aprobadas en el presente Dictamen.
