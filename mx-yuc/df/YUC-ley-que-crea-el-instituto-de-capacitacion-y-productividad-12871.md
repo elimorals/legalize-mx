@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-instituto-de-capacitacion-y-productividad-12871
 country: "mx"
 rank: "ley"
 publication_date: "1991-07-16"
-last_updated: "1991-07-16"
+last_updated: "2010-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,11 @@ state: "YUC"
 
 LEY QUE CREA EL INSTITUTO DE CAPACITACION Y PRODUCTIVIDAD DE YUCATAN (INCAPY)
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y CUARTO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE YUCATAN, PUBLICADA EN LA D.O. DE 11 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 16 de julio de 1991.
-
-GOBIERNO DEL ESTADO
-
-DECRETO NUMERO 402
 
 CIUDADANA LICENCIADA DULCE MARIA SAURI RIANCHO, GOBERNADORA DEL ESTADO LIBRE Y SOBERANO DE YUCATAN, A SUS HABITANTES HAGO SABER:
 
@@ -192,3 +190,55 @@ LIC. DULCE MARIA SAURI RIANCHO.
 EL SECRETARIO GENERAL DEL GOBIERNO
 
 ABOG. ORLANDO A. PAREDES LARA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 11 DE AGOSTO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el primero de enero del año 2011, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado de Yucatán, expedirá el Reglamento de esta Ley, en un término que no exceda de ciento ochenta días naturales contados a partir de su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igualo menor jerarquía en cuanto se opongan a lo establecido en esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor de esta Ley, queda abrogada la Ley que Crea el Instituto de Capacitación y Productividad de Yucatán, publicada en el Diario Oficial del Gobierno del Estado el 16 de julio de 1991, mediante el Decreto 402.
+
+###### ARTÍCULO QUINTO.
+
+Se deroga la fracción VIII del Artículo 9 y los Artículos 38 y 39 de la Ley del Desarrollo Económico y Fomento al Empleo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado mediante Decreto 626 de fecha 21 de diciembre de 2005.
+
+###### ARTÍCULO SEXTO.
+
+A partir de la entrada en vigor de esta Ley, el Poder Ejecutivo del Estado de Yucatán, dentro de un término que no exceda de ciento ochenta días naturales, deberá expedir el decreto que reforme el objeto y las funciones del Instituto para la Innovación, Calidad y Competitividad.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las Dependencias o Entidades de la Administración Pública Estatal, harán del conocimiento del Consejo Estatal de Mejora Regulatoria los nombramientos de sus respectivos enlaces dentro de los noventa días naturales siguientes a la entrada en vigor de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+La integración del sistema informático, base de datos, puesta en marcha y funcionamiento del PTS, RUPAY y del MVU se hará de forma gradual, pero en ningún momento su implementación podrá excederse de dos años contados a partir de la entrada en vigor de esta Ley.
+
+###### ARTÍCULO NOVENO.
+
+La Oficialía Mayor, la Secretaría de Planeación y Presupuesto y la Secretaría de Fomento Económico del Gobierno del Estado, en un término de doscientos cuarenta días naturales, contados a partir del día siguiente al que entre en vigor esta Ley, deberán emitir los lineamientos y demás disposiciones aplicables al PTS, RUPAY y MVU, respectivamente.
+
+###### ARTÍCULO DÉCIMO.
+
+El Consejo Estatal de Mejora Regulatoria deberá quedar instalado dentro de los noventa días naturales siguientes a la entrada en vigor de esta Ley.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Consejo Estatal de Mejora Regulatoria, en un término que no exceda de noventa días naturales, contados a partir del día siguiente de su instalación, deberá emitir los lineamientos y demás disposiciones referentes a los Anteproyectos y a las Manifestaciones de Impacto Regulatorio.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las Dependencias y Entidades de la Administración Pública del Estado, deberán hacer los ajustes necesarios a sus presupuestos para el ejercicio fiscal 2011 y a sus Programas Operativos Anuales, con la finalidad de tener los recursos económicos suficientes para realizar las modificaciones y adecuaciones procedentes para implementar la Mejora Regulatoria y sus instrumentos.
