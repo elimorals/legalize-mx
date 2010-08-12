@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-del-equilibrio-ecologico-y-proteccion-3957
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-05-17"
-last_updated: "2005-12-30"
+last_updated: "2010-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE MICHOACAN DE OCAMPO
 
-REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE MICHOACAN DE OCAMPO
+REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY AMBIENTAL Y DE PROTECCIÓN DEL PATRIMONIO NATURAL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 12 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO; Y HASTA EN TANTO LA SECRETARÍA PUBLIQUE LAS ACTIVIDADES RIESGOSAS DE COMPETENCIA ESTATAL QUEDARÁN VIGENTES LOS ARTÍCULOS 59 Y 60.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el lunes 17 de mayo de 2004.
 
@@ -1483,7 +1485,7 @@ Los propietarios de vehículos automotores que efectúen cambio de placas de veh
 
 #### SECCIÓN III. DE LOS CENTROS DE VERIFICACIÓN VEHICULAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 116.
 
@@ -1511,7 +1513,7 @@ La Secretaría otorgará permisos para instalar y operar centros de verificació
 
 Los interesados podrán interponer el recurso de inconformidad establecido por el artículo 190 y subsecuentes de la Ley, en contra de la resolución emitida por la Secretaría, en caso de considerarlo procedente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 117.
 
@@ -1547,7 +1549,7 @@ IV. Que se cumpla el término por el que fue concedido; y,
 
 V. Por causas de fuerza mayor, entendidas éstas como los acontecimientos que están fuera del dominio de la voluntad del permisionario, que no hayan podido ser previstos o aún siéndolo no pudieron haberse evitado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 120.
 
@@ -1607,7 +1609,7 @@ Los trabajos de verificación vehicular deberán efectuarse exclusivamente por e
 
 El personal técnico del Centro de Verificación Vehicular está obligado sin excepción alguna, a colocar directamente en un lugar visible el holograma de baja emisión de contaminantes, al vehículo que haya cumplido satisfactoriamente con los límites permisibles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 130.
 
@@ -1667,7 +1669,7 @@ La tercera copia del certificado se quedará en el Centro de Verificación Vehic
 
 En caso de pérdida o destrucción del holograma, el propietario podrá solicitar su reposición en el Centro de Verificación Vehicular donde realizó la verificación, previa autorización de la Secretaría y pago del costo del holograma, el personal autorizado del Centro de Verificación Vehicular comprobará documental y físicamente que se trata del mismo vehículo, y colocará el holograma.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 135.
 
@@ -1687,7 +1689,7 @@ Los certificados de baja emisión de contaminantes y sus hologramas, deberán se
 
 La adquisición de las constancias de rechazo por los permisionarios de los Centros de Verificación Vehicular, será de un mínimo de cien formas al costo que establezca la Ley de la materia, cantidad que se pagará en las oficinas recaudadoras de ingresos de la Tesorería General.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 138.
 
@@ -1729,11 +1731,11 @@ IV. El pago de la tarifa autorizada y en su caso el comprobante de pago de la mu
 
 (DEROGADO, P.O. 24 DE OCTUBRE DE 2005)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 #### SECCIÓN VII. DE LAS OBLIGACIONES DE LOS PERMISIONARIOS DE LOS CENTROS DE VERIFICACIÓN VEHICULAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 143.
 
@@ -1763,7 +1765,7 @@ IX. Ser responsable del manejo de los certificados de baja emisión de contamina
 
 #### SECCIÓN VIII. DEL PAGO DE LOS SERVICIOS DE VERIFICACIÓN VEHICULAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 144.
 
@@ -2445,7 +2447,7 @@ La Secretaría fomentará la vigilancia social participativa con grupos sociales
 
 ### CAPÍTULO PRIMERO. DE LAS SANCIONES EN GENERAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 224.
 
@@ -2475,7 +2477,7 @@ Artículo 225 bis.- La Secretaría, tendrá a su cargo la inspección y vigilanc
 
 #### SECCIÓN ll. DE LOS PROPIETARIOS O CONDUCTORES DE VEHÍCULOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 226.
 
@@ -2543,7 +2545,7 @@ IX. Con multa de mil días a mil quinientos días de salario mínimo vigente en 
 
 X. Con multa de hasta quinientos días de salario mínimo vigente en el Estado, por incurrir en cualquier acto determinado por la Secretaría, que implique incumplimiento parcial o total del presente Reglamento, del Programa de Verificación Vehicular correspondiente o de la normativa aplicable.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 24 DE OCTUBRE DE 2005)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 #### SECCIÓN IV. DE LA SUSPENSIÓN Y REVOCACIÓN DE LOS PERMISOS DE LOS CENTROS DE VERIFICACIÓN VEHICULAR
 
@@ -2667,7 +2669,7 @@ Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE OCTUBRE DE 2005.
 
@@ -2684,3 +2686,23 @@ P.O. 30 DE DICIEMBRE DE 2005.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE AGOSTO DE 2010.
+
+Artículo Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se abroga el Reglamento de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Michoacán de Ocampo, publicado en el Periódico Oficial el 17 de mayo de 2004 y se dejan sin efecto las demás disposiciones administrativas, en lo que se opongan al presente Reglamento.
+
+Hasta en tanto la Secretaría publique las actividades riesgosas de competencia estatal quedarán vigentes los artículos 59 y 60 del Reglamento que se abroga.
+
+Artículo Tercero. Las disposiciones señaladas en el presente Reglamento entrarán en vigencia hasta el 1° de enero del año 2011, respecto del Programa de Verificación Vehicular del Estado de Michoacán de Ocampo para el segundo semestre del año 2010, periodo durante el cual seguirá aplicándose el Reglamento de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Michoacán de Ocampo.
+
+Artículo Cuarto. Para los Programas de Ordenamiento Ecológico Territorial que hayan iniciado su proceso, la Secretaría y/o Ayuntamiento según corresponda, contarán con un término de un año para la integración del Comité de Ordenamiento Ecológico Territorial correspondiente, a partir de la entrada en vigor del presente Reglamento.
+
+Artículo Quinto. La Secretaría brindará apoyo a las dependencias, coordinaciones y entidades de la Administración Pública Estatal, para que se implementen los Sistemas de Gestión Ambiental en un plazo no mayor a 1 año a partir de la entrada en vigor del presente Reglamento.
+
+Artículo Sexto. El Comité Técnico para el Registro y la Acreditación de Auditores Ambientales en el Estado, será constituido en un plazo de seis meses, contados a partir de que entre en vigor el presente Reglamento.
+
+Artículo Séptimo. En tanto se constituye el Comité Técnico para el Registro y la Acreditación de Auditores Ambientales en el Estado y se cuente con las unidades necesarias, podrán realizar auditorías ambientales con validez ante la Procuraduría, las unidades de Verificación en materia de Auditoría ambiental acreditadas por la Entidad Mexicana de Acreditación, A.C. y la Procuraduría Federal de Protección al Ambiente.
+
+Artículo Octavo. De conformidad al artículo 374 del presente Reglamento, el Acuerdo por el que se reforman las Reglas de Operación del Fondo Ambiental del Estado, publicadas en el Periódico Oficial, el día 18 de febrero del año 2010, permanecerán vigentes.
