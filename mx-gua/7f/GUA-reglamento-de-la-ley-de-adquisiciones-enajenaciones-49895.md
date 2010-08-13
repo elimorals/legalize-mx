@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-adquisiciones-enajenaciones-49895"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-17"
-last_updated: "2006-03-17"
+last_updated: "2010-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL SECTOR PUBLICO EN EL ESTADO DE GUANAJUATO PARA EL PODER EJECUTIVO
 
-REGLAMENTO DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL SECTOR PUBLICO EN EL ESTADO DE GUANAJUATO PARA EL PODER EJECUTIVO
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE DICIEMBRE DE 2010 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL SECTOR PUBLICO EN EL ESTADO DE GUANAJUATO PARA EL PODER EJECUTIVO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2010.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de marzo de 2006.
 
@@ -53,7 +55,7 @@ Para efectos de este Reglamento, se entenderá por:
 
 I. Almacén: Espacio físico destinado al resguardo de los bienes muebles adquiridos o arrendados por el Gobierno del Estado;
 
-II. Asociación público privada: Contrato de prestación de servicios que comprende una diversidad de esquemas de inversión donde participan los sectores público y privado a fin de realizar proyectos de infraestructura productiva de largo plazo;
+II. (DEROGADA, P.O. 13 DE AGOSTO DE 2010)
 
 III. Área solicitante: Unidad administrativa de las dependencias o entidades, que de acuerdo a sus necesidades requiera la adquisición, enajenación o arrendamiento de bienes o la prestación de servicios;
 
@@ -83,15 +85,15 @@ XV. Subcomité: Órgano colegiado encargado de realizar la contratación de las 
 
 ###### Artículo 3o.
 
-La contratación de los servicios relacionados con bienes muebles e inmuebles, a que se contraen los artículos 1, 6, fracción IV, y 83 de la Ley, deberá ajustarse a las previsiones contenidas en dicho ordenamiento, en la Ley del Presupuesto General de Egresos del Estado de Guanajuato para el Ejercicio Fiscal correspondiente, en la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato, en el presente Reglamento, así como en las demás disposiciones legales y administrativas aplicables.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2010)
 
 ###### Artículo 4o.
 
 Para los efectos de este Reglamento son servicios relacionados con bienes muebles e inmuebles, los siguientes:
 
-I. Aquellos que no se encuentren regulados en la Ley de Obra Pública y Servicios Relacionados con la misma para el Estado y los Municipios de Guanajuato;
+I. (DEROGADA, P.O. 13 DE AGOSTO DE 2010)
 
-II. Los informáticos descritos en el artículo 4, fracción XIX, de la Ley;
+II. (DEROGADA, P.O. 13 DE AGOSTO DE 2010)
 
 III. Los estudios de mercado;
 
@@ -107,9 +109,11 @@ VII. Los demás que por su objeto, tengan una vinculación directa con bienes mu
 
 Los servidores públicos de las dependencias y entidades que participen en las adquisiciones, enajenaciones, arrendamientos y contratación de servicios, estarán obligados a observar las disposiciones contenidas en la Ley, el Reglamento, y demás disposiciones legales y administrativas aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 6o.
 
-Las dependencias y entidades, previamente al arrendamiento de bienes muebles, realizarán el análisis necesario tendiente a justificar el mismo. En el análisis se señalará la conveniencia de la adquisición del bien.
+Las dependencias y entidades, previamente al arrendamiento de bienes muebles, realizarán el análisis necesario tendiente a justificar el mismo.
 
 ###### Artículo 7o.
 
@@ -135,7 +139,7 @@ El área solicitante será la responsable de precisar a la Secretaría todas las
 
 ###### Artículo 11.
 
-La Secretaría, autorizará la adquisición o arrendamiento de bienes muebles usados a través del procedimiento de contratación que corresponda instaurar, previa solicitud fundada y motivada del área solicitante.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2010)
 
 ###### Artículo 12.
 
@@ -159,7 +163,7 @@ Para efectos de lo dispuesto en el artículo 9 de la Ley, la Secretaría promove
 
 ###### Artículo 14.
 
-De conformidad con el artículo 8, fracción I, de la Ley, la Secretaría es competente para dictar las bases de los procedimientos relativos a las adquisiciones, arrendamientos, enajenaciones y contrataciones de servicios, entendiéndose por éstas, la expedición de lineamientos que permitan realizar en forma eficaz, eficiente y oportuna dichos procedimientos.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2010)
 
 ###### Artículo 15.
 
@@ -171,9 +175,11 @@ Las entidades en el ámbito de su competencia aplicarán lo conducente.
 
 La Secretaría en el ámbito de su competencia, estará facultada para interpretar el Reglamento para efectos administrativos.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 17.
 
-En lo no previsto por la Ley, el Reglamento y las bases de la convocatoria, en las citaciones, notificaciones, requerimientos y demás formalidades que se deban practicar en los actos y procedimientos regulados por este Reglamento, se aplicará en lo conducente, la Ley de Justicia Administrativa del Estado de Guanajuato y, en su defecto, el Código de Procedimientos Civiles para el Estado de Guanajuato.
+En lo no previsto por la Ley, el Reglamento y las bases de la convocatoria, en las citaciones, notificaciones, requerimientos y demás formalidades que se deban practicar en los actos y procedimientos regulados por este Reglamento, se aplicará en lo conducente, el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato y, en su defecto, el Código de Procedimientos Civiles para el Estado de Guanajuato.
 
 ## TÍTULO SEGUNDO. COMITÉS Y SUBCOMITÉS
 
@@ -187,19 +193,29 @@ Los comités y subcomités, según corresponda, deberán promover que las adquis
 
 Además de las atribuciones señaladas en el artículo 28 de la Ley, los comités o subcomités tendrán las siguientes:
 
-I. Recibir las solicitudes para la instauración del procedimiento de licitación, subasta o concurso, según corresponda, para la adquisición, enajenación o arrendamiento de bienes o para la contratación de servicios que requieran las dependencias y entidades;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
+I. Recibir las solicitudes para la instauración del procedimiento de licitación o subasta, según corresponda, para la adquisición, enajenación o arrendamiento de bienes o para la contratación de servicios que requieran las dependencias y entidades;
 
 II. Dictaminar, previo al inicio del procedimiento de contratación respectivo, sobre la procedencia de alguno de los supuestos de excepción previstos en la Ley;
 
-III. Coadyuvar en la elaboración de las bases de las licitaciones, concursos o subastas;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
 
-IV. Realizar las juntas de aclaraciones de las bases de las licitaciones, subastas o concursos;
+III. Coadyuvar en la elaboración de las bases de las licitaciones o subastas;
 
-V. Realizar los actos de presentación y apertura de ofertas o posturas, en las licitaciones, subastas o concursos;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
+IV. Realizar las juntas de aclaraciones de las bases de las licitaciones o subastas;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
+V. Realizar los actos de presentación y apertura de ofertas o posturas, en las licitaciones o subastas;
 
 VI. Evaluar, considerando las tablas comparativas, las ofertas o posturas, de acuerdo a la Ley, el Reglamento y demás disposiciones legales y administrativas aplicables;
 
-VII. Emitir los fallos de adjudicación de las licitaciones, subastas o concursos;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
+VII. Emitir los fallos de adjudicación de las licitaciones y subastas;
 
 VIII. Autorizar en los contratos que haya adjudicado, el otorgamiento de anticipos en los términos de la Ley y el Reglamento;
 
@@ -207,9 +223,11 @@ IX. Acordar en los contratos que haya adjudicado, la prórroga para la entrega d
 
 X. Acordar, sujetándose a los lineamientos que emita la Secretaría para tales efectos, la modificación, suspensión, terminación o rescisión de los contratos que haya adjudicado.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE AGOSTO DE 2010)</small>
+
 El comité respectivo podrá comisionar a los servidores públicos de la Dirección General de Recursos Materiales y Servicios Generales de la Secretaría, para que realicen, a su nombre, los actos a que se refieren las fracciones IV, V y VI de este numeral, los que en la realización de dichos actos, deberán identificarse mediante el oficio correspondiente, exhibiendo además su nombramiento vigente.
 
-En el caso de los subcomités dicha comisión recaerá en los servidores públicos del área correspondiente de la dependencia o entidad de que se trate.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 20.
 
@@ -257,7 +275,9 @@ Los representantes a que se refiere este artículo sólo tendrán derecho a voz 
 
 Las sesiones de los comités o subcomités se celebrarán bajo los términos siguientes:
 
-I. Serán ordinarias, las que se realicen conforme al calendario anual autorizado. Sólo en casos justificados se podrán realizar sesiones extraordinarias;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
+I. Serán ordinarias, las que se realicen conforme al programa de compras, o extraordinarias, cuando se justifique;
 
 II. La convocatoria junto con el orden del día se pondrá a disposición de los integrantes y asistentes, cuando menos con veinticuatro horas de anticipación para sesiones ordinarias y con doce horas para las extraordinarias. En caso de inobservancia a dichos plazos, la sesión no podrá llevarse a cabo. Las convocatorias de las sesiones deberán formularse por escrito e incluir como mínimo: el carácter de la sesión a la que se convoca, así como el lugar, fecha y hora en que se llevará a cabo la misma. La convocatoria, orden del día y demás documentos correspondientes, podrán entregarse en lo conducente, a través de medios electrónicos en los términos de la legislación aplicable;
 
@@ -265,7 +285,9 @@ III. Los asuntos que se sometan a consideración del comité o subcomité, podr�
 
 IV. Las sesiones se llevarán a cabo cuando asista la mayoría de los miembros del comité o subcomité.
 
-En caso de no existir quórum legal para el desarrollo de las sesiones, se emitirá una segunda convocatoria a fin de celebrar la sesión dentro de las doce horas siguientes. De persistir la inasistencia se hará del conocimiento a la Secretaría de la Gestión Pública u órgano de control interno respectivo para que, en su caso, inicie los procedimientos a que haya lugar. De igual forma se dará parte a la mencionada Secretaría, órgano de control interno, dependencia o entidad según corresponda, cuando la inasistencia reiterada sea de parte de alguno de sus representantes.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
+En caso de no existir quórum legal para el desarrollo de las sesiones, se emitirá una segunda convocatoria a fin de celebrar la sesión dentro de las doce horas siguientes. En cualquier caso las inasistencias reiteradas se harán del conocimiento de la Secretaría de la Gestión Pública.
 
 En caso de ausencia del Presidente y de su suplente en las sesiones del comité o subcomité, los miembros asistentes a las mismas designarán a quien deba fungir como tal, asumiendo las facultades y funciones de éste exclusivamente en la sesión en la que funja como tal; lo mismo ocurrirá ante la ausencia del Secretario y su suplente;
 
@@ -275,7 +297,9 @@ Iniciada la votación de un asunto sólo podrá ser suspendida por falta de quó
 
 VI. De cada sesión se levantará acta circunstanciada que será firmada por todos los que hubieran asistido a ella. En dicha acta se deberá señalar el acuerdo, decisión o fallo del comité o subcomité y los comentarios de cada caso.
 
-Las actas de las juntas de aclaraciones, del acto de presentación y apertura de ofertas o posturas, así como de los fallos de las licitaciones, subastas o concursos, cumplirán además con lo que para su formulación, emisión y notificación, se precisa en la Ley.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
+Las actas de las juntas de aclaraciones, del acto de presentación y apertura de ofertas o posturas, así como de los fallos de las licitaciones o subastas cumplirán además con lo que para su formulación, emisión y notificación, se precisa en la Ley.
 
 ###### Artículo 23.
 
@@ -295,13 +319,15 @@ I. Presidente: El Subsecretario de Administración de la Secretaría y como supl
 
 II. Secretario: El Director de Adquisiciones y Suministros de la Secretaría; y
 
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
 III. Tres vocales:
 
-a) El Procurador Fiscal del Estado;
+a) Un representante de la Procuraduría Fiscal del Estado;
 
-b) El Director General de Recursos Materiales y Servicios Generales de la Secretaría; y
+b) Un representante de la Dirección General de Recursos Materiales y Servicios Generales de la Secretaría; y
 
-c) El titular del área normativa, de conformidad con la naturaleza del bien o servicio a contratar.
+c) Un representante del área normativa, de conformidad con la naturaleza del bien o servicio a contratar.
 
 A las reuniones del Comité de Adquisiciones, Arrendamientos y Contratación de Servicios del Poder Ejecutivo, asistirá un representante de la Secretaría de la Gestión Pública y un representante del área solicitante.
 
@@ -321,13 +347,15 @@ I. Presidente: El Subsecretario de Administración de la Secretaría y como supl
 
 II. Secretario: El Director de Control Patrimonial de la Secretaría; y
 
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
 III. Tres vocales:
 
-a) El Director General de Ingresos;
+a) Un representante de la Dirección General de Ingresos;
 
-b) El Procurador Fiscal del Estado; y
+b) Un representante de la Procuraduría Fiscal del Estado; y
 
-c) El Director General de Recursos Materiales y Servicios Generales de la Secretaría.
+c) Un representante de la Dirección General de Recursos Materiales y Servicios Generales de la Secretaría.
 
 A las reuniones del Comité de Enajenaciones del Poder Ejecutivo, asistirán un representante de la Secretaría de la Gestión Pública y un representante del área solicitante.
 
@@ -391,7 +419,9 @@ Los suplentes de los miembros propietarios del subcomité, deberán ser servidor
 
 Corresponde a la Secretaría normar, integrar y administrar el Padrón Estatal de Proveedores del Poder Ejecutivo, resguardar los expedientes respectivos y asentar la información en una base de datos, así como clasificar a los proveedores para efectos operativos en giros comerciales y por materia o especialidad.
 
-En caso de llevarse a cabo una suspensión o modificación del registro de proveedores, se hará la anotación respectiva en la base de datos; por su parte la cancelación traerá como consecuencia que se elimine de la misma al proveedor respectivo, en tales supuestos se hará constar lo conducente en la cédula o formato correspondiente que se haya entregado al proveedor.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
+En caso de llevarse a cabo una suspensión o modificación del registro de proveedores, se hará la anotación respectiva en la base de datos y la difusión correspondiente.
 
 ###### Artículo 35.
 
@@ -405,7 +435,9 @@ II. Experiencia, especialidad y capacidad técnica del solicitante.
 
 Para acreditar los requisitos previstos en las fracciones IV y V del artículo 33 de la Ley, el solicitante presentará a satisfacción de la Secretaría, los documentos siguientes:
 
-I. Copia de la cédula del Registro Federal de Contribuyentes;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
+I. Copia de la cédula del Registro Federal de Contribuyentes y estatal en su caso;
 
 II. Copia del registro patronal ante el Instituto Mexicano del Seguro Social, en su caso;
 
@@ -419,9 +451,11 @@ VI. En su caso, copia de la certificación de sistemas de calidad o de estar en 
 
 Los demás documentos que se presenten por el solicitante para acreditar las condiciones referidas en las fracciones IV y V del artículo 33 de la Ley, serán valorados por la Secretaría, la cual determinará lo conducente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 37.
 
-La resolución que tome la Secretaría sobre la solicitud de registro será comunicada al interesado dentro del plazo que establece la Ley y, en caso de ser positiva, se le asignará al proveedor el número respectivo mediante la cédula o formato que determine la Secretaría, el cual hará las veces de clave de identificación en los procedimientos de contratación.
+La resolución que tome la Secretaría sobre la solicitud de registro será comunicada al interesado dentro del plazo que establece la Ley y, en caso de ser positiva, se le asignará al proveedor el número respectivo mediante la cédula que determine la Secretaría, la cual hará las veces de clave de identificación en los procedimientos de contratación.
 
 Las resoluciones que autoricen o nieguen el registro, determinen su modificación, suspensión o cancelación, se notificarán por correo certificado con acuse de recibo a los interesados en los plazos establecidos por la Ley.
 
@@ -447,15 +481,19 @@ Para efectos de lo dispuesto en el artículo 32 de la Ley, se entenderá que son
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 42.
 
-Las adquisiciones, arrendamientos y servicios que se tengan que contratar a través del procedimiento de licitación, licitación restringida o concurso, se iniciarán a petición del área solicitante, mediante el requerimiento respectivo que ésta formule a la Dirección General de Recursos Materiales y Servicios Generales de la Secretaría.
+Las adquisiciones, arrendamientos y servicios que tengan que contratar a través del procedimiento de licitación o licitación restringida, se iniciarán a petición del área solicitante, mediante el requerimiento respectivo que ésta formule a la Dirección General de Recursos Materiales y Servicios Generales de la Secretaría.
 
 Los requerimientos deberán presentarse por escrito o a través de medios electrónicos en términos de la legislación aplicable y contener como mínimo los siguientes datos y requisitos:
 
 I. Nombre de la dependencia o entidad del área solicitante;
 
-II. Partida presupuestal;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
+II. Partida presupuestal o código programático, con la suficiencia presupuestal validada por la Dirección General de Presupuesto;
 
 III. Nombre del servidor público responsable del área solicitante;
 
@@ -463,23 +501,31 @@ IV. Descripción detallada de los bienes muebles o servicios requeridos;
 
 V. Expresar en unidades de medida clara y objetiva, los bienes muebles que se requieran, así como el tiempo y lugares para su suministro o prestación del servicio según corresponda;
 
-VI. Señalar el nombre del servidor público responsable de darle seguimiento al requerimiento de contratación, con su cargo, domicilio y número telefónico oficial;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
+VI. Señalar el nombre del servidor público responsable de darle seguimiento al requerimiento de contratación y su cargo;
 
 VII. Anexar catálogos o muestras de los bienes muebles solicitados, en caso de que por las características de los mismos sea necesario;
 
-VIII. En el caso de contratos abiertos, la cantidad, presupuesto, plazo mínimo o máximo según corresponda; y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
 
-IX. Cuando se trate de la adquisición y mantenimiento de equipos y materiales de cómputo, así como de la contratación de servicios informáticos, se deberá adjuntar a la solicitud, el dictamen técnico correspondiente emitido por la Dirección General de Informática y Telecomunicaciones de la Secretaría.
+VIII. En el caso de contratos abiertos, la cantidad mínima, presupuesto, plazo mínimo o máximo según corresponda; y
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
+IX. Cuando se trate de la adquisición y mantenimiento de equipos y materiales de cómputo, así como de la contratación de servicios informáticos, se deberá adjuntar a la solicitud, la justificación que contenga las razones técnicas correspondientes autorizadas por la Dirección General de Tecnologías de la Información y Telecomunicaciones de la Secretaría.
 
 Conforme a lo anterior, varias dependencias y/o entidades podrán presentar un solo requerimiento para que la adquisición y arrendamiento de bienes o contratación de servicios que soliciten, se adquieran o contraten en forma consolidada.
 
 La Dirección General de Recursos Materiales y Servicios Generales de la Secretaría, en los términos y plazos que determine, podrán requerir al área solicitante los datos adicionales sobre la adquisición o servicio requerido, con la finalidad de que se pueda implementar correctamente el procedimiento de contratación respectivo.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 43.
 
-De requerirse la baja de bienes muebles propiedad del Estado, la dependencia que los tenga en posesión, formulará la solicitud respectiva a la Dirección General de Recursos Materiales y Servicios Generales de la Secretaría, la cual emitirá el dictamen respectivo de conformidad con lo dispuesto por los artículos 75, 76 y 80 de la Ley.
+De requerirse la baja de bienes muebles propiedad del Estado, la dependencia o entidad que los tenga en posesión, formulará la solicitud respectiva a la Dirección General de Recursos Materiales y Servicios Generales de la Secretaría, la cual emitirá el dictamen respectivo de conformidad con lo dispuesto por los artículos 75, 76 y 80 de la Ley.
 
-La solicitud se presentará y contendrá los datos y requisitos conducentes previstos en el artículo anterior. Tratándose de las entidades se aplicará lo dispuesto en el presente artículo, en cuanto no se oponga a lo previsto en su régimen interior.
+La solicitud se presentará y contendrá los datos y requisitos conducentes previstos en el artículo anterior.
 
 ###### Artículo 44.
 
@@ -501,9 +547,11 @@ En estos casos, cada dependencia o entidad deberá contar con la suficiencia pre
 
 Si la solicitud de adquisición, arrendamiento o prestación de servicios reúne los requisitos establecidos por la Ley y el Reglamento, se turnará al comité o subcomité respectivo, quien determinará e instaurará el procedimiento legal de contratación que corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 48.
 
-El dictamen técnico a que se refiere el artículo 40 de la Ley contendrá, según sea el caso, en cuanto a la marca específica requerida, los siguientes elementos:
+Las razones técnicas a que se refiere el artículo 40 de la Ley contendrán, según sea al (sic) caso, en cuanto a la marca específica requerida, los siguientes elementos:
 
 I. Funcionalidad;
 
@@ -513,49 +561,63 @@ III. Rendimiento; y
 
 IV. Los demás que a juicio del Comité de Adquisiciones, Arrendamientos y Contratación de Servicios del Poder Ejecutivo justifiquen la adquisición.
 
-En el dictamen presentado al comité, mismo que deberá estar validado por el titular de la dependencia o entidad solicitante, sólo se evaluarán las razones expuestas para la adquisición de una marca específica, siendo responsabilidad del solicitante la certeza de la información contenida en dicho dictamen.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
+Las razones técnicas presentadas deberán estar validadas por el titular de la dependencia o entidad solicitante, sólo se evaluarán las razones expuestas para la adquisición de una marca específica, siendo responsabilidad del solicitante la certeza de la información contenida en las razones técnicas.
 
 ### CAPÍTULO SEGUNDO. DE LA CONVOCATORIA, BASES Y JUNTA DE ACLARACIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 49.
 
-Las convocatorias de las licitaciones, subastas y concursos serán elaboradas por la Dirección General de Recursos Materiales y Servicios Generales de la Secretaría conforme a los términos y requisitos estipulados por la Ley; su publicación y difusión, en los plazos y a través de los medios especificados por la misma, será responsabilidad del comité o subcomité respectivo. No podrá publicarse una convocatoria, si previamente no se cuenta con el requerimiento correspondiente y con las bases completamente elaboradas e integradas.
+Las convocatorias de las licitaciones y subastas serán elaboradas por la Dirección General de Recursos Materiales y Servicios Generales de la Secretaría conforme a los términos y requisitos estipulados por la Ley; su publicación y difusión, en los plazos y a través de los medios especificados por la misma, será responsabilidad del comité o subcomité respectivo. No podrá publicarse una convocatoria, si previamente no se cuenta con el requerimiento correspondiente y con las bases completamente elaboradas e integradas.
 
 Cuando la convocatoria se difunda a través de medios o redes de comunicación electrónica de acuerdo a lo estipulado por el artículo 52 de la Ley, el comité verificará que la misma se encuentre debidamente integrada. Igual previsión se hará para las bases y sus anexos.
 
 Lo anterior será aplicable en el ámbito de las áreas competentes de las dependencias y entidades que cuenten con el subcomité correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 50.
 
-Las bases de las convocatorias de las licitaciones, subastas y concursos serán formuladas por las áreas competentes de la Secretaría.
+Las bases de las convocatorias de las licitaciones y subastas serán formuladas por las áreas competentes de la Secretaría.
 
 En el ámbito de su competencia, las dependencias y entidades que cuenten con subcomité, formularán las bases referidas.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 51.
 
-El costo de las bases de licitación será fijado considerando una cantidad equivalente a la décima parte del costo estimado por publicación de la convocatoria, en los que únicamente podrán considerarse costos indirectos, como estudios, análisis y valoración de pruebas de laboratorio relacionados con la preparación de éstas. En los casos de la licitación restringida y concurso, las bases podrán entregarse gratuitamente, siempre que así se indique en la convocatoria respectiva.
+El costo de las bases de licitación será fijado por la convocante considerando el costo estimado por publicación de la convocatoria y demás gastos indirectos, como estudios, análisis y valoración de pruebas de laboratorio relacionados con la preparación de éstas. En los casos de la licitación restringida, las bases podrán entregarse gratuitamente, siempre que así indiquen en la convocatoria respectiva.
 
-El pago de las bases, se hará en la forma y en el lugar indicado en la convocatoria. A todo interesado que cubra el importe de las bases, se le entregará un comprobante y tendrá derecho a participar en la licitación, subasta o concurso de que se trate.
+El pago de las bases, se hará en la forma y en el lugar indicado en la convocatoria. A todo interesado que cubra el importe de las bases, se le entregará un comprobante y tendrá derecho a participar en la licitación o subasta.
 
-Para efectos del acto de presentación y apertura de ofertas, el comité o subcomité llevará un registro ordenado en forma sucesiva por fecha y hora de los interesados que presenten su oferta o postura de conformidad con las bases de la licitación, subasta o concurso.
+Para efectos del acto de presentación y apertura de ofertas, el comité o subcomité llevará un registro ordenado en forma sucesiva por fecha y hora de los interesados que presenten su oferta o postura de conformidad con las bases de la licitación o subasta.
 
 ###### Artículo 52.
 
 Acorde a los principios de concurrencia e igualdad establecidos en el artículo 44 de la Ley, no podrán establecerse requisitos o especificaciones que tengan como único propósito el restringir la concurrencia de los interesados o bien, discriminar ciertos productos o servicios en beneficio de otros.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 53.
 
-En las bases de las licitaciones, subastas o concursos, se deberá observar lo siguiente:
+En las bases de las licitaciones y subastas, se deberá observar lo siguiente:
 
-I. Anexar un formato en el que se señalen los documentos requeridos para participar, relacionándolos con los puntos específicos de las bases en los que se solicitan. Dicho formato servirá a cada participante como constancia de recepción de la documentación que entreguen en el acto de presentación y apertura de ofertas o posturas. La falta de presentación del formato en dichos actos no será motivo de descalificación y se extenderá un acuse de recibo de la documentación que entregue el licitante o postor;
+I. (DEROGADA, P.O. 13 DE AGOSTO DE 2010)
 
-II. En su caso, señalar que los licitantes deberán entregar junto con la oferta o postura, copia del recibo de pago de las bases respectivas;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
+II. En su caso, señalar que los licitantes o postores deberán entregar junto con la oferta o postura, copia del recibo de pago de las bases respectivas;
 
 III. Precisar que será requisito el que los licitantes entreguen junto con la oferta técnica, una declaración escrita, bajo protesta de decir verdad, de no encontrarse en alguno de los supuestos establecidos por el artículo 38 de la Ley;
 
 IV. Si para verificar el cumplimiento de las especificaciones solicitadas se requiere de la realización de visitas o pruebas, en este último supuesto se precisará el método para ejecutarlas y el resultado mínimo que deba obtenerse;
 
-V. Podrá establecerse un precio máximo de referencia, a partir del cual los licitantes, postores o concursantes, como parte de su propuesta económica, deberán ofrecer porcentajes de descuento, mismos que serán objeto de evaluación y, en su caso, de adjudicación; y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
+V. Podrá establecerse un precio máximo de referencia, a partir del cual los licitantes o postores, como parte de su propuesta económica, deberán ofrecer porcentajes de descuento, mismos que serán objeto de evaluación y, en su caso, de adjudicación; y
 
 VI. Con la condición de no limitar la libre participación de cualquier interesado, se podrá establecer el agrupamiento de varios bienes o servicios en una sola partida.
 
@@ -575,31 +637,47 @@ Las dudas o cuestionamientos formulados por los interesados, así como las respu
 
 Las dudas o cuestionamientos que se pretendan formular para ser resueltos en la junta de aclaraciones, deberán enviarse previamente por escrito al comité o subcomité respectivo, en los plazos establecidos en las bases de las convocatorias.
 
-Las dudas o cuestionamientos que se formulen, deben ser solamente en relación a las bases de la licitación, subasta o concurso y en términos razonables, claros y precisos, a juicio del comité o subcomité respectivo, en caso contrario serán desechados en la junta respectiva.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
+Las dudas o cuestionamientos que se formulen, deben ser solamente en relación a las bases de la licitación o subasta y en términos razonables, claros y precisos, a juicio del comité o subcomité respectivo, en caso contrario serán desechados en la junta respectiva.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 57.
 
-Los participantes que no asistan a la junta de aclaraciones deberán obtener, con la debida oportunidad, del comité o subcomité convocante, a su costa, copia del acta de la junta respectiva.
+Los participantes que no asistan a la junta de aclaraciones deberán obtener, con la debida oportunidad, del comité o subcomité convocante, a su costa copia del acta de la junta respectiva o en su defecto la podrán recabar a través de los medios establecidos en las bases.
 
 ### CAPÍTULO TERCERO. DEL ACTO DE PRESENTACIÓN Y APERTURA DE OFERTAS O POSTURAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 58.
 
-El comité o subcomité podrá requerir a los licitantes, postores o concursantes, en el acto de presentación y apertura de ofertas o posturas, un escrito en el que manifieste, bajo protesta de decir verdad, que cuenta con facultades suficientes para comprometerse por sí o por su representada, mismo que contendrá los datos siguientes:
+El comité o subcomité podrá requerir a los licitantes o postores, en el acto de presentación y apertura de ofertas o posturas, un escrito en el que manifieste, bajo protesta de decir verdad, que cuenta con facultades suficientes para comprometerse por sí o por su representada, mismo que contendrá los datos siguientes:
 
-I. Del licitante, postor o concursante: Clave del Registro Federal de Contribuyentes, nombre y domicilio, así como, en su caso, de su apoderado o representante; y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
 
-II. Del representante del licitante, postor o concursante: Número y fecha de las escrituras públicas en las que le fueron otorgadas las facultades para suscribir la oferta, señalando nombre, número y circunscripción del notario o fedatario público que las protocolizó.
+I. Del licitante o postor: Clave del Registro Federal de Contribuyentes, nombre y domicilio, así como, en su caso, de su apoderado o representante; y
 
-Los licitantes, postores o concursantes inscritos en el Padrón Estatal de Proveedores del Poder Ejecutivo, para acreditar su personalidad en el acto de presentación y apertura de ofertas o posturas, deberán presentar únicamente su cédula o formato de inscripción vigente en dicho padrón.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
 
-En las bases de la convocatoria se indicarán los requerimientos a que se refiere este artículo, así como el señalamiento de que, previo a la firma del contrato, el licitante, postor o concursante ganador, deberá presentar original o copia certificada para su cotejo de los documentos con los que se acredite su existencia legal y las facultades de su representante para suscribir el contrato correspondiente.
+II. Del representante del licitante o postor: Número y fecha de las escrituras públicas en las que fueron otorgadas las facultades para suscribir la oferta, señalando el nombre, número y circunscripción del notario o fedatario público que las protocolizó.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
+Los licitantes o postores inscritos en el Padrón Estatal de Proveedores del Poder Ejecutivo, para acreditar su personalidad en el acto de presentación y apertura de ofertas o posturas, deberán presentar únicamente su cédula o constancia de inscripción vigente en dicho padrón.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
+En las bases de la convocatoria se indicarán los requerimientos a que se refiere este artículo, así como el señalamiento de que, previo a la firma del contrato, el licitante o postor ganador, deberá presentar original o copia certificada para su cotejo de los documentos con los que se acredite su existencia legal y las facultades de su representante para suscribir el contrato correspondiente.
 
 En todos los casos se podrá solicitar en cualquier momento la documentación conducente, siempre y cuando así se haya previsto en las mencionadas bases.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 59.
 
-El domicilio manifestado en la oferta o postura, se tendrá como domicilio convencional para practicar toda clase de notificaciones que resulten de los actos, contratos y convenios que se celebren de conformidad con la Ley y el Reglamento.
+El domicilio manifestado en la oferta o postura, se tendrá como domicilio convencional para practicar toda clase de notificaciones que resulten de los actos, contratos y convenios que se celebren de conformidad con la Ley y el Reglamento. En su caso, dichas notificaciones se realizarán a través de los tableros informativos de la Secretaría, dependencia o entidad, según corresponda.
 
 ###### Artículo 60.
 
@@ -617,13 +695,23 @@ Transcurrido el tiempo concedido, se asentará en el acta respectiva, la oferta 
 
 V. En este acto, la revisión de la documentación se efectuará en forma cuantitativa, sin entrar al análisis detallado de su contenido, el cual se efectuará durante el proceso de evaluación de las ofertas o posturas;
 
-VI. Las ofertas o posturas serán desechadas si no cumplen alguno de los requisitos establecidos en las bases de la licitación, subasta o concurso, las cuales se pondrán a disposición de los oferentes o postores. Para el desechamiento se tomará en cuenta lo previsto en el artículo 61 de la Ley; y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
 
-VII. En ningún caso, el comité o subcomité deberá abrir aquellas ofertas económicas del licitante, postor o concursante cuya oferta técnica haya sido previamente desechada.
+VI. Las ofertas o posturas serán desechadas si no cumplen alguno de los requisitos establecidos en las bases de la licitación o subasta, las cuales se podrán (sic) a disposición de los oferentes o postores. Para el desechamiento se tomará en cuenta lo previsto en el artículo 61 de la Ley; y
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
+VII. En ningún caso, el comité o subcomité deberá abrir aquellas ofertas económicas del licitante o postor cuya oferta técnica haya sido previamente desechada;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
+VIII. De conformidad con lo dispuesto en el artículo 59 fracción VIII de la Ley, únicamente podrán ser designadas para la firma de las ofertas técnicas y económicas, quienes acrediten el carácter de licitante o su representante legal.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 61.
 
-Todas las ofertas deberán presentarse en idioma español. La documentación que contenga información vinculada al producto, podrá presentarse en idioma distinto a juicio de la convocante, debiendo establecer esta posibilidad en la convocatoria.
+Todas las ofertas deberán presentarse en idioma español. La documentación que contenga información vinculada al producto, podrá presentarse en idioma distinto a juicio de la convocante, debiendo establecer esta posibilidad en la convocatoria o en las bases de la licitación.
 
 ### CAPÍTULO CUARTO. DE LA EVALUACIÓN Y FALLO
 
@@ -631,17 +719,27 @@ Todas las ofertas deberán presentarse en idioma español. La documentación que
 
 Las ofertas que hayan sido aceptadas, se evaluarán por el comité o subcomité respectivo tomando en consideración tanto la tabla comparativa de aspectos técnicos elaborada por el área solicitante, como la tabla comparativa de precios elaborada por la Dirección de Adquisiciones y Suministros de la Secretaría o por el área de adquisiciones de la dependencia o entidad en el caso de los subcomités.
 
-La tabla comparativa relativa a aspectos técnicos deberá señalar en forma breve y razonada, si las ofertas técnicas cumplen con las especificaciones de las bases, la calidad de los bienes objeto de evaluación, la experiencia e infraestructura en el caso de los prestadores de servicios para asesorías, capacitación, informáticos, estudios e investigaciones y la oportunidad en la entrega de los bienes o la prestación de los servicios.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
+La tabla comparativa relativa a aspectos técnicos deberá señalar en forma breve y razonada, si las ofertas técnicas cumplen con las especificaciones de las bases, la calidad de los bienes objeto de evaluación, la experiencia e infraestructura en el caso de los prestadores de servicios y la oportunidad en su entrega.
 
 La tabla comparativa de precios deberá contener una descripción clara y completa de los precios de las ofertas o posturas económicas.
 
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
+En el supuesto de que el área solicitante no presente la tabla comparativa de aspectos técnicos en los plazos establecidos y términos solicitados, el Comité o Subcomité podrá suspender o cancelar el procedimiento respectivo.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 63.
 
-Las pruebas a que serán sometidas las muestras de los bienes deberán contemplarse desde las bases de la licitación. En iguales términos se deberá dar a conocer previamente a los licitantes o concursantes, la metodología para la evaluación técnica.
+Las pruebas a que serán sometidas las muestras de los bienes deberán contemplarse desde las bases de la licitación. En iguales términos se deberá dar a conocer previamente a los licitantes, la metodología para la evaluación técnica.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 64.
 
-Una vez agotados los criterios de desempate previstos por los artículos 32 y 65, segundo párrafo, de la Ley, si derivado de la evaluación se obtuviera un empate en el precio de dos o más ofertas o posturas, la adjudicación se efectuará en favor del licitante, postor o concursante que resulte ganador a través del método de insaculación que celebre la convocante en la junta del fallo, el cual consistirá en la participación de un boleto por cada oferta o postura que resulte empatada, depositadas en una urna, de la que se extraerá el boleto del licitante, postor o concursante favorecido.
+Una vez agotados los criterios de desempate previstos por los artículos 32 y 65, segundo párrafo, de la Ley, si derivado de la evaluación se obtuviera un empate en el precio de dos o más ofertas o posturas, la adjudicación se efectuará en favor del licitante o postor que resulte ganador a través del método de insaculación que celebre la convocante en la junta del fallo, el cual consistirá en la participación de un boleto por cada oferta o postura que resulte empatada, depositadas en una urna, de la que se extraerá el boleto del licitante o postor favorecido.
 
 Para el sorteo referido se requerirá la presencia de los oferentes empatados y de un representante de la Secretaría de la Gestión Pública o del órgano de control interno según corresponda y se levantará acta que firmarán los asistentes, sin que la inasistencia o la falta de firma de los mismos invaliden el acto.
 
@@ -651,13 +749,17 @@ El fallo que se emita conforme a la Ley, deberá contemplar como mínimo lo sigu
 
 I. Ofertas admitidas y descalificadas, fundando y motivando técnica y jurídicamente dicha determinación;
 
-II. Nombre del licitante, postor o concursante a quien se adjudique el contrato, e identificación de cada una de las partidas o conceptos y montos asignados; y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
+II. Nombre del licitante o postor a quien se adjudique el contrato, e identificación de cada una de las partidas o conceptos y montos asignados; y
 
 III. Información para firma del contrato, presentación de garantías y, en su caso, entrega de anticipos conforme a la Ley, el Reglamento y las bases de la convocatoria.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 66.
 
-El comité o subcomité podrá declarar desierta una licitación, subasta o concurso, cuando vencido el plazo de venta de las bases respectivas ningún interesado las adquiera o por cualquiera de los supuestos previstos por el artículo 68 de la Ley.
+El comité o subcomité podrá declarar desierta una licitación o subasta, cuando vencido el plazo de venta de las bases respectivas ningún interesado las adquiera o por cualquiera de los supuestos previstos por el artículo 68 de la Ley.
 
 Asimismo, el comité o subcomité podrá declarar desierta una partida si después del acto de presentación y apertura de ofertas no existe al menos una que reúna los requisitos y aspectos técnicos específicos establecidos en las bases de la licitación, o por cualquiera de los supuestos aplicables previstos en el dispositivo legal citado en el párrafo anterior.
 
@@ -675,9 +777,11 @@ La adjudicación directa no se sujetará a los procedimientos de contratación e
 
 No obstante lo anterior se aplicarán, en lo conducente, las demás disposiciones contenidas en la Ley y en este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 69.
 
-El acuerdo de autorización que se emita conforme a lo señalado por el artículo 86 de la Ley, por el comité o subcomité respectivo, sobre la procedencia de no celebrar la licitación o concurso, deberá contener como mínimo lo siguiente:
+El acuerdo de autorización que se emita conforme a lo señalado por el artículo 86 de la Ley, por el comité o subcomité respectivo, sobre la procedencia de no celebrar la licitación, deberá contener como mínimo lo siguiente:
 
 I. Descripción general de los bienes o servicios;
 
@@ -689,9 +793,11 @@ III. Precio estimado y forma de pago propuesta.
 
 ### CAPÍTULO PRIMERO. DE LA EJECUCIÓN Y SEGUIMIENTO DE LOS CONTRATOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 70.
 
-Los contratos de adquisición, enajenación, arrendamiento y prestación de servicios que hayan sido adjudicados mediante el procedimiento de licitación, subasta o concurso serán suscritos por la Secretaría conforme a su reglamento interior, o por el área competente de la dependencia o entidad solicitante en tratándose de los procedimientos instaurados por los subcomités.
+Los contratos de adquisición, enajenación, arrendamiento y prestación de servicios que hayan sido adjudicados mediante el procedimiento de licitación o subasta o concurso serán suscritos por la Secretaría conforme a su reglamento interior, o por el área competente de la dependencia o entidad solicitante en tratándose de los procedimientos instaurados por los subcomités.
 
 Los contratos de adquisición, enajenación, arrendamiento y prestación de servicios, que deriven de un procedimiento de adjudicación directa serán suscritos, en el ámbito de sus competencias, por la dependencia o entidad del área solicitante.
 
@@ -745,9 +851,11 @@ En el supuesto de que se requiera un anticipo por un porcentaje mayor al señala
 
 La Secretaría emitirá los lineamientos que regulen los requisitos y formas a que deban sujetarse las garantías de los contratos, que tengan que constituirse en términos de lo dispuesto por los artículos 41 y 42 de la Ley.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 79.
 
-En los procedimientos de contratación cuyos contratos no requieran garantía de cumplimiento en los términos del artículo 41 de la Ley, deberá indicarse en las bases de las convocatorias, que los licitantes, postores o concursantes no incluyan en sus ofertas los costos por dicho concepto. En estos supuestos, el monto máximo de las penas convencionales por atraso será del veinte por ciento del monto de los bienes o servicios no entregados o prestados oportunamente.
+En los procedimientos de contratación cuyos contratos no requieran garantía de cumplimiento en los términos del artículo 41 de la Ley, deberá indicarse en las bases de las convocatorias, que los licitantes o postores no incluyan en sus ofertas los costos por dicho concepto. En estos supuestos, el monto máximo de las penas convencionales por atraso será del veinte por ciento del monto de los bienes o servicios no entregados o prestados oportunamente.
 
 ###### Artículo 80.
 
@@ -797,33 +905,19 @@ Siempre y cuando se cumpla con lo previsto por el artículo 23 de la Ley, los co
 
 ###### Artículo 87.
 
-La asociación público privada deberá cumplir con lo siguiente:
-
-I. La celebración de un contrato de servicios de largo plazo;
-
-II. Los servicios que se presten al Poder Ejecutivo deberán permitir a éste cumplir en forma eficiente con los deberes y atribuciones que constitucional y legalmente le corresponden; y
-
-III. La prestación de los servicios debe hacerse con los activos que el proveedor construya o suministre, con base en lo requerido por los sujetos de la Ley y de conformidad con el contrato que al efecto se celebre.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2010)
 
 ###### Artículo 88.
 
-En la Iniciativa de Ley de Presupuesto General de Egresos del Estado para el ejercicio fiscal correspondiente, se señalarán las obligaciones de pago previstas en la asociación público privada, tanto para el ejercicio fiscal de que se trate como para los subsecuentes, conforme a la información que proporcione el sujeto de la Ley, observado al respecto lo previsto por los artículos 20 y 23 de la Ley.
-
-Las dependencias y entidades deberán enviar a la Secretaría, a más tardar el veintidós de octubre de cada año, la actualización de los montos correspondientes a las obligaciones de pago para los ejercicios fiscales subsecuentes, que se hayan asumido a través de la asociación público privada.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2010)
 
 ###### Artículo 89.
 
-No se deberá realizar pago alguno al proveedor antes de recibir los servicios objeto de la asociación público privada, salvo que la Secretaría autorice pagos anticipados conforme a los términos y condiciones establecidas en el contrato respectivo. Los pagos que se realicen como contraprestación por los servicios recibidos al amparo de la asociación público privada incluirán, en su caso, cualquier erogación accesoria derivada de actos jurídicos o de administración que se requieran para tales proyectos.
-
-La Secretaría podrá emitir, en el ámbito de su competencia, disposiciones relativas al tratamiento contable y presupuestario del pago por la contraprestación a favor del proveedor.
-
-La adquisición que en su caso realice el sujeto de la Ley a que se refiere el artículo siguiente, se considerará gasto de inversión.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2010)
 
 ###### Artículo 90.
 
-En el caso de que los activos con los que se prestarán los servicios materia de la asociación público privada sean propiedad del proveedor o de un tercero, diferente al sujeto de la Ley, éstos podrán convenir en el contrato correspondiente la adquisición de dichos activos.
-
-Los pagos que las dependencias o entidades efectúen para realizar esta adquisición, deberán ser cubiertos con cargo a sus respectivos presupuestos autorizados para el ejercicio fiscal correspondiente. En ningún caso el contrato tendrá por objeto principal la adquisición forzosa de activos con los que se prestarán los servicios.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2010)
 
 ## TÍTULO SEXTO. DISPOSICIÓN Y ASIGNACIÓN DE BIENES MUEBLES
 
@@ -889,19 +983,23 @@ III. Por cualquier otra prevista en el acuerdo de asignación.
 
 La Secretaría notificará a la asignataria la revocación a través del oficio respectivo. La revocación hará que los bienes muebles materia de la misma regresen a la posesión y control directo de la Secretaría con todos sus accesorios. Toda transmisión de uso de los bienes muebles de dominio estatal, se documentará mediante el acta de entrega-recepción.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 98.
 
-Conforme a lo previsto por los artículos 74, 75 y 76 de la Ley, la Secretaría, a través de su área administrativa competente y previa solicitud del área solicitante, formulará el dictamen de baja de los bienes muebles que autorice enajenar a título oneroso.
-
-Para los efectos del artículo 76 fracción I de la Ley, se considerará que existe interés público, entre otros supuestos, cuando se pacte el pago en especie de una obligación y esto represente una ventaja o ahorro económico para el Estado.
+Conforme a lo previsto por los artículos 74, 75 y 76 de la Ley, la Secretaría, a través de su área administrativa competente y previa solicitud del área solicitante, formulará el dictamen de baja de los bienes muebles que autorice enajenar a título oneroso o gratuito.
 
 En el caso de los bienes muebles que autorice su enajenación, la Secretaría hará la solicitud respectiva al comité, para que éste instaure el procedimiento legal correspondiente.
 
 Adjudicada por el comité la enajenación de los bienes muebles, la Secretaría suscribirá el contrato respectivo en términos de lo previsto por la Ley y el Reglamento y hará la entrega respectiva de la documentación oficial correspondiente.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 99.
 
-En términos de lo dispuesto por la fracción V del artículo 76 de la Ley y con base en lo señalado por el artículo 101 de la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato, el Ejecutivo Estatal acordará la donación de los bienes muebles de dominio estatal.
+En términos de lo dispuesto por los artículos 75 y 76 fracción V de la Ley, y con base en lo señalado por el artículo 101 de la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato, el Titular del Poder Ejecutivo Estatal acordará la donación de los bienes muebles que se encuentran en poder de las dependencias y entidades.
+
+El trámite respectivo se realizará por conducto de la Secretaría en la forma y términos que ésta determine.
 
 ###### Artículo 100.
 
@@ -933,9 +1031,31 @@ Los responsables de los almacenes en las dependencias y entidades, registrarán 
 
 ### CAPÍTULO ÚNICO. DEL RECURSO DE INCONFORMIDAD Y DE LA CONCILIACIÓN
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 106.
 
-En el recurso de inconformidad, el monto de la fianza a que se refiere la fracción III del artículo 128 de la Ley, no será menor al diez ni mayor al treinta por ciento del monto de la oferta o postura económica del inconforme y cuando no sea posible conocer dicho monto, será del presupuesto autorizado para llevar a cabo la adquisición, arrendamiento o servicio.
+En el recurso de inconformidad, el monto de las garantías a que se refiere la fracción III del artículo 128 y artículo 128 Bis de la Ley, no será menor al diez ni mayor al treinta por ciento del monto de la oferta o postura económica del inconforme y cuando no sea posible conocer dicho monto, será del presupuesto autorizado para llevar a cabo la adquisición, arrendamiento o servicio.
+
+El otorgamiento de las garantías a que se refiere el párrafo anterior, se sujetará en lo conducente a las disposiciones administrativas que al efecto emita la Secretaría y deberán contener, tratándose de fianzas, al menos lo siguiente:
+
+I.- La mención del beneficiario de la misma;
+
+II.- Que la garantía se otorga para respaldar o asegurar los posibles daños y perjuicios que pudieren ocasionarse con la tramitación del recurso de inconformidad;
+
+III.- El número de expediente del recurso de inconformidad, así como del procedimiento de adquisición del cual se origina;
+
+IV.- El nombre o razón social del obligado;
+
+V.- El domicilio y, en su caso, el Registro Federal y Estatal de Contribuyentes del otorgante;
+
+VI.- La fecha de otorgamiento;
+
+VII.- El señalamiento de que la garantía se encontrará vigente durante la substanciación del recurso de inconformidad y demás recursos legales y juicios que se interpongan, hasta que se dicte resolución definitiva por autoridad competente; y
+
+VIII.- El señalamiento de que para liberar la garantía es requisito indispensable que haya causado estado la resolución emitida por la Secretaría de la Gestión Pública y esta así lo determine.
+
+El otorgamiento de garantías diversas a la fianza deberán contemplar, en lo que resulte aplicable, los requisitos señalados en las fracciones anteriores.
 
 ###### Artículo 107.
 
@@ -997,7 +1117,7 @@ Corresponde a la Secretaría tramitar y controlar los contratos de adquisición 
 
 ###### Artículo 116.
 
-Para efectos de lo dispuesto en el segundo párrafo del artículo 144 de la Ley, la Dirección de Catastro de la Secretaría validará el precio de las operaciones inherentes a las enajenaciones y adquisiciones de bienes inmuebles.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2010)
 
 T R A N S I T O R I O S
 
@@ -1024,3 +1144,9 @@ RICARDO TORRES ORIGEL
 EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN
 
 JOSÉ LUIS MARIO AGUILAR Y MAYA MEDRANO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE AGOSTO DE 2010.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
