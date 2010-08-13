@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2010-07-21"
+last_updated: "2010-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE AGOSTO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -453,7 +453,7 @@ XXVI. Acordar la integración de las Comisiones Municipales, de conformidad con 
 
 XXVII. Formular, aprobar y administrar, en términos de las disposiciones legales aplicables, la zonificación y planes de desarrollo urbano municipal;
 
-XXVIII. Participar, en términos de las disposiciones legales aplicables, en la creación y administración de sus reservas territoriales, así como autorizar, controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales, e intervenir en la regularización de la tenencia de la tierra urbana;
+XVIII. Participar, en términos de las disposiciones legales aplicables, en la creación y administración de sus reservas territoriales, así como autorizar, controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales, e intervenir en la regularización de la tenencia de la tierra urbana;
 
 XXIX. Otorgar, en el ámbito de su competencia, licencias para construcciones;
 
@@ -949,15 +949,19 @@ Son atribuciones de la Comisión de Limpia Pública:
 
 I. Fomentar los hábitos de limpieza a nivel municipal, así como las medidas que podrán adoptarse con la participación comunitaria a fin de promover una conciencia social en la población;
 
-II. Vigilar la óptima aplicación de los sistemas de recolección y disposición final de la basura;
+> <small>(ADICIONADA, G.O. 13 DE AGOSTO DE 2010)</small>
 
-III. Promover y vigilar la adecuada limpieza de las vías urbanas, los parques y las áreas públicas;
+II. Elaborar, en coordinación con la Comisión Municipal de Gobernación, Reglamentos y Circulares, un proyecto de reglamento en materia de limpia pública;
 
-IV. Vigilar la operación de los rellenos sanitarios y plantas de tratamiento de basura;
+III. Vigilar la óptima aplicación de los sistemas de recolección y disposición final de la basura;
 
-V. Coordinarse y apoyar a la Comisión Municipal de Ecología y Medio Ambiente; y
+IV. Promover y vigilar la adecuada limpieza de las vías urbanas, los parques y las áreas públicas;
 
-VI. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
+V. Vigilar la operación de los rellenos sanitarios y plantas de tratamiento de basura;
+
+VI. Coordinarse y apoyar a la Comisión Municipal de Ecología y Medio Ambiente; y
+
+VII. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
 
 ###### Artículo 54.
 
@@ -1079,7 +1083,9 @@ Son atribuciones de la Comisión de Gobernación, Reglamentos y Circulares:
 
 I. Vigilar el debido trámite de la documentación oficial del Ayuntamiento;
 
-II. Proponer la expedición de los reglamentos, circulares y disposiciones administrativas de observancia general;
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2010)</small>
+
+II. Proponer la expedición de los reglamentos, circulares y disposiciones administrativas de observancia general, en coordinación con las Comisiones Municipales de la materia;
 
 III. Proponer al Ayuntamiento las reformas que resulten necesarias para la actualización de los reglamentos y circulares;
 
@@ -1817,7 +1823,7 @@ d) Si desaparece el bien objeto de la concesión; y
 
 e) En los demás supuestos que, en su caso, se prevean en los títulos de concesión.
 
-Al término de la concesión los bienes materia de la misma, incluyendo sus mejoras y accesiones, revertirán de pleno derecho al control y administración del Ayuntamiento. En los casos que conforme al título de concesión proceda el pago de una indemnización al particular, la reversión surtirá sus efectos, y el particular tendrá obligación de entregar los bienes al Ayuntamiento, una vez que haya sido pagada la indemnización respectiva;
+Al término de la concesión los bienes materia de la misma, incluyendo sus mejoras y accesiones, revertirán de pleno derecho al control y administración del Ayuntamiento. En los casos que conforme al título de concesión proceda el pago de una indemnización al particular, la reversión surtirá sus efectos, y el particular tendrá obligación de entregar los bienes al Ayuntamiento, una vez que haya sido pagada la indemnización respectiva.
 
 X. Los Ayuntamientos podrán revocar las concesiones antes de su vencimiento en cualquiera de los casos siguientes:
 
@@ -3168,3 +3174,9 @@ Segundo. Las disposiciones contenidas en el Artículo Segundo del presente Decre
 Tercero. Las disposiciones contenidas en el Artículo Tercero del presente Decreto iniciarán su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE AGOSTO DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
