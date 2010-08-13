@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-251-que-crea-el-sistema-estatal-de-coordinacion-1473
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-28"
-last_updated: "2007-12-28"
+last_updated: "2010-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY NUMERO 251 QUE CREA EL SISTEMA ESTATAL DE COORDINACION FISCAL Y ESTABLECE LAS BASES, MONTOS Y PLAZOS A LOS QUE SE SUJETARAN LAS PARTICIPACIONES FEDERALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NUMERO 427 DEL SISTEMA DE COORDINACION HACENDARIA DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 13 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 28 de diciembre de 1988.
 
@@ -490,3 +492,33 @@ PRIMERO.- El presente Decreto entrará en vigor el día primero de enero del añ
 SEGUNDO.- Los Recursos que del Fondo de Infraestructura Municipal reciban los Municipios del Estado, por inicio de la recaudación del impuesto se distribuirán por única vez a partir del mes de abril de 2008.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
+
+P.O. 13 DE AGOSTO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Número 251 que crea el Sistema Estatal de Coordinación Fiscal y Establece las Bases, Montos y Plazos a los que se Sujetarán las Participaciones Federales, y se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Los Acuerdos tomados, así como los Convenios suscritos por los integrantes del Sistema Estatal de Coordinación Fiscal, en términos de la Ley Número 251 que crea el Sistema Estatal de Coordinación Fiscal y Establece las Bases, Montos y Plazos a los que se Sujetarán las Participaciones Federales, así como del Reglamento del Sistema Estatal de Coordinación Fiscal, continuarán en vigor, en tanto no contravengan las disposiciones de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento Interior del Sistema de Coordinación Hacendaria del Estado de Guerrero, deberá ser aprobado a más tardar noventa días después de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría presentará al Ejecutivo del Estado un Diagnóstico del estado que guardan las Haciendas públicas Estatal y Municipales en un término de seis meses contados a partir de la fecha de su aprobación, a fin de que el Sistema de Coordinación Hacendaria del Estado de Guerrero cuente con los antecedentes y los elementos técnicos para el ejercicio de sus atribuciones.
+
+###### ARTÍCULO SEXTO.
+
+Esta Ley será aplicable en tanto no contravenga las obligaciones locales que deriven de la Legislación Federal Vigente en Materia Hacendaria, así como de los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal, Colaboración Administrativa y otros que el Estado celebre con la Federación.
+
+###### ARTÍCULO SÉPTIMO.
+
+Hágase del conocimiento del Titular del Poder Ejecutivo del Estado para los efectos legales conducentes.
