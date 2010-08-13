@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-participacion-ciudadana-del-municipio-de-57673"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-16"
-last_updated: "2010-02-05"
+last_updated: "2010-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PARTICIPACION CIUDADANA DEL MUNICIPIO DE MONTERREY, N. L.
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTICULO PRIMERO DEL ACUERDO SIN NÚMERO, PUBLICADO EN EL P.O. DE 5 DE FEBRERO DE 2010, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE REGLAMENTO.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de noviembre de 2007.
 
@@ -65,9 +63,11 @@ d) Los Consejos Consultivos Ciudadanos.
 
 e) Los Comités de Participación Ciudadana.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 3.
 
-La Dirección de Participación Ciudadana de la Secretaría del R. Ayuntamiento tendrá las siguientes obligaciones:
+La Dirección de Participación Ciudadana de la Secretaría del Ayuntamiento tendrá las siguientes obligaciones:
 
 I. Tener comunicación constante con los ciudadanos y ser la dependencia encargada de cumplir y hacer cumplir el presente ordenamiento.
 
@@ -77,9 +77,11 @@ II. Fomentar la creación de organizaciones ciudadanas bajo cualquier tipo de es
 
 III. Concertar acciones a propuesta de las Asociaciones, con las Dependencias y Organismos Gubernamentales, ya sean Federales, Estatales o Municipales.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 4.
 
-Es responsabilidad del Secretario del R. Ayuntamiento vigilar que el presente ordenamiento se cumpla.
+Es responsabilidad del Secretario del Ayuntamiento vigilar que el presente ordenamiento se cumpla.
 
 ###### Artículo 5.
 
@@ -103,9 +105,9 @@ IV. Consulta Ciudadana: Proceso mediante el cual se consulta a la ciudadanía ac
 
 V. Consejo Consultivo: El Consejo Consultivo Ciudadano que será el órgano de consulta y proposición, compuesto por ciudadanos honorables y funcionarios públicos que colegiadamente toman decisiones, a fin de coadyuvar con la Autoridad Municipal en ciertas tareas trascendentales.
 
-> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
 
-VI. Dirección: La Dirección de Participación Ciudadana de la Secretaría del R. Ayuntamiento.
+VI. Dirección: La Dirección de Participación Ciudadana de la Secretaría del Ayuntamiento.
 
 > <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2010)</small>
 
@@ -123,9 +125,9 @@ IX. Mediación: Es un método alterno para la solución de los conflictos de nat
 
 X. Mediador: Es el prestador de servicios que cuenta con la certificación del Centro Estatal de Métodos Alternos de Solución de Conflictos del Consejo de la Judicatura del Estado de Nuevo León.
 
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
 
-XI. Secretaría: La Secretaría del Republicano Ayuntamiento.
+XI. Secretaría: La Secretaría del Ayuntamiento.
 
 ### CAPÍTULO SEGUNDO. DE LAS JUNTAS DE VECINOS
 
@@ -171,7 +173,9 @@ Las Juntas de Vecinos que no se encuentren constituidas como Asociaciones y no d
 
 I. El grupo de habitantes que deseen conformar la junta de vecinos de su colonia, barrio o sector, informará por escrito a la Secretaría la fecha y hora en la que celebrarán su asamblea constitutiva a fin de que certifique su celebración.
 
-II. Una vez teniendo conocimiento de la fecha y hora mencionada en la fracción anterior, el Secretario del R. Ayuntamiento designará a un representante a fin de que acuda a dicha asamblea y certifique la validez legal de su constitución, así como la elección de su mesa directiva.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
+II. Una vez teniendo conocimiento de la fecha y hora mencionada en la fracción anterior, el Secretario del Ayuntamiento designará a un representante a fin de que acuda a dicha asamblea y certifique la validez legal de su constitución, así como la elección de su mesa directiva.
 
 III. La convocatoria se hará llegar de forma personal a todos los vecinos de la colonia con acuse de recibo y la cual deberá contener lo siguiente:
 
@@ -227,7 +231,9 @@ Las Juntas de Vecinos no deberán ser utilizadas para hacer proselitismo religio
 
 Las Juntas de Vecinos, Asociaciones y Comités de Participación Ciudadana tendrán las siguientes atribuciones:
 
-I. Representar a los habitantes de sus colonias ante el R. Ayuntamiento en las gestiones que correspondan a fin de dar continuidad a las demandas de los vecinos.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
+I. Representar a los habitantes de sus colonias ante el Ayuntamiento en las gestiones que correspondan a fin de dar continuidad a las demandas de los vecinos.
 
 II. Actuar como enlace entre la comunidad de su colonia y la Autoridad Municipal.
 
@@ -235,7 +241,9 @@ III. Realizar acciones que conlleven al desarrollo vecinal, moral, cultural y c�
 
 IV. Propiciar una democracia más participativa, creando conciencia comunitaria de la responsabilidad conjunta de gobernantes y gobernados respecto a la buena marcha de la vida colectiva.
 
-V. Contribuir, coadyuvar y apoyar al R. Ayuntamiento en el cumplimiento de sus planes y programas.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+
+V. Contribuir, coadyuvar y apoyar al Ayuntamiento en el cumplimiento de sus planes y programas.
 
 VI. Impulsar la colaboración y participación de los habitantes del Municipio de Monterrey, a fin de proponer alternativas de solución para las necesidades y problemas de la ciudad.
 
@@ -409,7 +417,9 @@ Los consejos ejercerán sus funciones de acuerdo a las disposiciones de este Reg
 
 Las Secretarías del Gobierno Municipal y en su caso las Direcciones que lo requieran, a propuesta del Presidente Municipal funcionarán con su respectivo Consejo Consultivo O se organizarán en áreas temáticas a las que les corresponderá un Consejo Consultivo común.
 
-Integrarán el Consejo Consultivo, el titular del área respectiva y el funcionario municipal que éste designe, así como el Presidente y Secretario de la comisión ó comisiones del R. Ayuntamiento que correspondan a la materia.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
+Integrarán el Consejo Consultivo, el titular del área respectiva y el funcionario municipal que éste designe, así como el Presidente y Secretario de la comisión ó comisiones del Ayuntamiento que correspondan a la materia.
 
 En todo caso el número de integrantes procedentes de la Sociedad Civil será superior al 51% de la totalidad de los miembros del Consejo.
 
@@ -447,11 +457,11 @@ IV.- No ser ministro de algún culto religioso ni ocupar un puesto directivo en 
 
 V.- No tener parentesco en primer grado con otro integrante del mismo consejo.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 35.
 
-Los miembros de los Consejos Consultivos serán propuestos por el Presidente Municipal y aprobados por el R. Ayuntamiento.
+Los miembros de los Consejos Consultivos serán propuestos por el Presidente Municipal y aprobados por el Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
 
@@ -501,11 +511,13 @@ XV.- Los demás relacionados con los fines que en su creación se le encomendaro
 
 Una vez que los miembros de los consejos consultivos ciudadanos hayan aceptado participar en el mismo, les será tomada la protesta de ley por el mismo Presidente Municipal o quien él designe para tal efecto.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 39.
 
-La duración de los nombramientos de los integrantes procedentes de la sociedad civil de los Consejos Consultivos Ciudadanos será de 2-dos años, debiendo ratificarse hasta la mitad de los integrantes ciudadanos por otro período igual por el R. Ayuntamiento.
+La duración de los nombramientos de los integrantes procedentes de la sociedad civil de los Consejos Consultivos Ciudadanos será de 2-dos años, debiendo ratificarse hasta la mitad de los integrantes ciudadanos por otro período igual por el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
 
 Los Regidores, Síndicos y Titulares de las Secretarías o Direcciones integrantes de los Consejos Consultivos Ciudadanos,' permanecerán en dichos Consejos, el tiempo que dure su nombramiento correspondiente.
 
@@ -597,7 +609,9 @@ Los Comités de Participación estarán integrados por vecinos de colonias dispu
 
 La integración y funcionamiento de los Comités, de Participación, se regirán conforme a lo que señale su respectivo Reglamento.
 
-Los comités de participación serán coordinados por la Dirección del PAC de la Secretaría de Desarrollo Humano, la cual será la encargada de vigilar que se cumpla con los objetivos.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+
+Los comités de participación serán coordinados por la Dirección del PAC de la Secretaría de Desarrollo Humano y Social, la cual será la encargada de vigilar que se cumpla con los objetivos.
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
 
@@ -627,17 +641,19 @@ Cada Secretaría deberá llevar un control de lo manifestado por cada uno de los
 
 ### CAPÍTULO SÉPTIMO. DE LAS CONSULTAS
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 56.
 
-Cuando el Gobierno Municipal desee consultar a la ciudadanía sobre algún tema en particular, podrá realizar a través de la dirección consultas ciudadanas, ya sea a la población en general o a alguna colonia o grupo en particular, según sea el caso, a través de la cual los ciudadanos podrán emitir sus opiniones y formular propuestas para la resolución de la problemática municipal planteada.
+El Gobierno Municipal deberá realizar una o varias consultas ciudadanas al elaborar su Plan Municipal de Desarrollo, así como su Plan Operativo Anual. Para los casos en los que desee consultar a la ciudadanía sobre algún tema en particular, podrá realizar a través de la dirección consultas ciudadanas, ya sea a la población en general o a alguna colonia o grupo en particular, según sea el caso, a través de la cual los ciudadanos podrán emitir sus opiniones y formular propuestas para la resolución de la problemática municipal planteada.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 57.
 
-Las consultas ciudadanas serán convocadas por el Presidente Municipal en conjunto con el Secretario del Ayuntamiento y el titular de la dependencia correspondiente según el tema a tratar, o por acuerdo de la Comisión competente del R. Ayuntamiento, con una anticipación no menor a quince días hábiles a la fecha en que se llevará a cabo. Las convocatorias a consultas ciudadanas deberán ser: aprobadas por el R. Ayuntamiento.
+Las consultas ciudadanas serán convocadas por el Presidente Municipal en conjunto con el Secretario del Ayuntamiento y el titular de la dependencia correspondiente según el tema a tratar, o por acuerdo de la Comisión competente del Ayuntamiento, con una anticipación no menor a quince días hábiles a la fecha en que se llevará a cabo. Las convocatorias a consultas ciudadanas deberán ser aprobadas por el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
 
 En la convocatoria de la consulta, se expresará el motivo de la misma así como la fecha, lugar y forma como se recibirán las ponencias, opiniones, propuestas o planteamientos.
 
@@ -773,11 +789,11 @@ En supletoriedad de este Reglamento serán aplicables la Ley de Métodos Alterno
 
 Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación y Reglamentación, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustentan sus opiniones y observaciones con respecto al Reglamento Municipal.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 71.
 
-La Comisión de Gobernación y Reglamentación al recibir las propuestas planteadas a que se refiere el artículo anterior, deberá en un plazo no mayor a 30 días hábiles, analizarlas y estudiarlas a fin de determinar la procedencia o improcedencia de las mismas. De resultar fundadas las propuestas, se presentarán ante el Republicano Ayuntamiento para su consideración.
+La Comisión de Gobernación y Reglamentación al recibir las propuestas planteadas a que se refiere el artículo anterior, deberá en un plazo no mayor a 30 días hábiles, analizarlas y estudiarlas a fin de determinar la procedencia o improcedencia de las mismas. De resultar fundadas las propuestas, se presentarán ante el Ayuntamiento para su consideración.
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2010)</small>
 
@@ -824,3 +840,9 @@ DR. ARTURO CAVAZOS LEAL
 P.O. 5 DE FEBRERO DE 2010.
 
 Único: Las reformas por Modificación y Adición al Reglamento de Participación Ciudadana del Municipio de Monterrey, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
+
+P.O. 13 DE AGOSTO DE 2010.
+
+Artículo Primero. Las presentes reformas por adición, modificación y derogación al Reglamento de Participación Ciudadana del Municipio de Monterrey, N. L., entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal.
+
+Artículo Segundo. Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
