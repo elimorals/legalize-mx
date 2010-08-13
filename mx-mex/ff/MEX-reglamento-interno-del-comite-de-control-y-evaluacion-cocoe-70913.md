@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-cocoe-709
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-27"
-last_updated: "2009-10-27"
+last_updated: "2010-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION (COCOE) DEL CONSEJO DE INVESTIGACION Y EVALUACION DE LA POLITICA SOCIAL
 
-REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION (COCOE) DEL CONSEJO DE INVESTIGACION Y EVALUACION DE LA POLITICA SOCIAL
+REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACIÓN (COCOE) DEL CONSEJO DE INVESTIGACIÓN Y EVALUACIÓN DE LA POLÍTICA SOCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL CONSEJO DE INVESTIGACIÓN Y EVALUACIÓN DE LA POLÍTICA SOCIAL, PUBLICADO EN LA G.G. 13 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 27 de octubre de 2009.
 
@@ -337,3 +339,15 @@ LIC. SERGIO RUIZ BERNAL
 Jefe de la Unidad de Apoyo Administrativo del CIEPS y Vocal del Comité de Control y Evaluación
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 13 DE AGOSTO DE 2010.
+
+Primero.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+Segundo.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+Tercero.- Se abroga el Reglamento Interior del Comité de Control y Evaluación del Consejo de Investigación y Evaluación de la Política Social, publicado en el Periódico Oficial "Gaceta del Gobierno" el 27 de octubre de 2009 y se derogan las demás disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+Cuarto.- La interpretación del presente Reglamento y lo no previsto en el mismo, será resuelta por la Secretaría de la Contraloría del Gobierno del Estado.
