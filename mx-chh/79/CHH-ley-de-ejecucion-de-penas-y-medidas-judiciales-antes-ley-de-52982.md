@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2010-01-30"
+last_updated: "2010-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -925,11 +925,17 @@ b) Reclusión los sábados y domingos para tratamiento técnico.
 
 Libertad preparatoria.
 
-La libertad preparatoria se podrá otorgar a los internos que por sentencia ejecutoriada a privación de la libertad por más de tres anos, satisfagan los siguientes requisitos:
+La libertad preparatoria se podrá otorgar a los internos que por sentencia ejecutoriada a privación de la libertad por más de tres años, satisfagan los siguientes requisitos:
 
 I.- Que haya cumplido la mitad de la pena de prisión impuesta en los delitos dolosos y la tercera parte en tratándose de delitos culposos.
 
 II.- Haber acreditado plenamente durante su estancia en prisión, los estudios de personalidad que le sean practicados por el Consejo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2010)</small>
+
+Para el otorgamiento de la libertad preparatoria, no se considerará como antecedente de mala conducta el relativo a que se le haya considerado farmacodependiente, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora.
 
 III.- Que adopte en el plazo que en la resolución respectiva determine el Juez de Ejecución de Penas cualquier medio honesto de vida.
 
@@ -1200,6 +1206,12 @@ I.- La prisión por compurgar no exceda de tres anos, ni se trate de alguno de l
 II.- El beneficiado no haya cometido delito doloso en los tres años anteriores a los hechos por los cuales se le juzga.
 
 III.- El sentenciado haya observado buena conducta durante la tramitación del proceso. Si el sentenciado estuvo sujeto a prisión preventiva, esta condición se acreditará con los informes de la autoridad penitenciaria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2010)</small>
+
+Para el otorgamiento de la condena condicional, no se considerará como antecedente de mala conducta el relativo a que se le haya considerado farmacodependiente, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora.
 
 ###### Artículo 98.
 
@@ -1675,11 +1687,15 @@ No podrán ser recluidos en los establecimientos penitenciarios a que se refiere
 
 En las áreas penitenciarias preventivas sólo se recluirá a los procesados. En tanto, en las destinadas a la ejecución de penas sólo se recluirá a los sentenciados ejecutoriados.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 145.
 
-Instituciones de rehabilitación.
+Instituciones y servicios de rehabilitación.
 
-En las instituciones de rehabilitación sicosocial sólo se recluirá a los inimputables y enfermos siquiátricos, de acuerdo con la asignación que determine el Consejo.
+En las instituciones de rehabilitación psicosocial sólo se recluirá a los inimputables y enfermos psiquiátricos, de acuerdo con la asignación que determine el Consejo. Los servicios de rehabilitación estarán siempre a disposición del farmacodependiente en todos los establecimientos penitenciarios.
 
 ###### Artículo 146.
 
@@ -2036,3 +2052,21 @@ P.O. 30 DE ENERO DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los artículos 438 al 455 del Código de Procedimientos Penales del Estado, que comprenden el Título relativo a la "Acción Civil", entrarán en vigor ciento ochenta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor un año después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado contará con el plazo dispuesto en el artículo anterior para gestionar con el Poder Ejecutivo Federal y, en su caso, ante la Cámara de Diputados del Honorable Congreso de la Unión, sobre la previsión de los recursos correspondientes en el Presupuesto de Egresos de la Federación, para que el Estado de Chihuahua cumpla con las obligaciones derivadas del presente Decreto, sin perjuicio de los recursos que para tal efecto disponga la propia Entidad Federativa.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+###### ARTÍCULO CUARTO.
+
+A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
