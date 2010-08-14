@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2010-01-30"
+last_updated: "2010-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 276/08 II P.O. SE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL NUEVO SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 30 DE JULIO DE 2008, LA CUAL ENTRARÁ EN VIGOR A PARTIR DE LAS CERO HORAS: 1.- EN EL DISTRITO JUDICIAL MORELOS, DEL 1o. DE ENERO DE 2007; 2.- EN EL DISTRITO JUDICIAL BRAVOS, DEL 1o. DE ENERO DE 2008; 3.- EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO, DEL 1o. DE JULIO DE 2008.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2010.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -837,7 +837,7 @@ I. Se trate de un hecho socialmente insignificante o de mínima o exigua culpabi
 
 No podrá aplicarse el principio de oportunidad en los casos de delitos contra la libertad y seguridad sexuales o de violencia familiar, por afectar gravemente el interés público.
 
-II. Se trate de la actividad de organizaciones criminales, de delitos que afecten seriamente bienes jurídicos fundamentales o de investigación compleja, y el imputado colabore eficazmente con la misma, brinde información esencial para evitar que continúe el delito o se perpetren otros, ayude a esclarecer el hecho investigado u otros conexos o proporcione información útil para probar la participación de otros imputados que tengan funciones de dirección o administración dentro de las organizaciones criminales, y siempre que los hechos que motivan la acción penal de la cual se prescinda, resulten considerablemente más leves que aquellos cuya persecución facilita o cuya continuación evita;
+II Se trate de la actividad de organizaciones criminales, de delitos que afecten seriamente bienes jurídicos fundamentales o de investigación compleja, y el imputado colabore eficazmente con la misma, brinde información esencial para evitar que continúe el delito o se perpetren otros, ayude a esclarecer el hecho investigado u otros conexos o proporcione información útil para probar la participación de otros imputados que tengan funciones de dirección o administración dentro de las organizaciones criminales, y siempre que los hechos que motivan la acción penal de la cual se prescinda, resulten considerablemente más leves que aquellos cuya persecución facilita o cuya continuación evita;
 
 III. El imputado haya sufrido, a consecuencia del hecho, daño físico o psicológico grave que torne desproporcionada la aplicación de una pena;
 
@@ -2477,6 +2477,12 @@ Los agentes del Ministerio Público promoverán y dirigirán la investigación, 
 
 A partir de que tengan conocimiento de la existencia de un hecho que revista caracteres de delito, los agentes del Ministerio Público procederán de inmediato a la práctica de todas aquellas diligencias pertinentes y útiles al esclarecimiento y averiguación del hecho, de las circunstancias relevantes para la aplicación de la ley penal, de los autores y partícipes, así como de las circunstancias que sirvan para verificar la responsabilidad de éstos. Asimismo, deberán impedir que el hecho denunciado produzca consecuencias ulteriores.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2010)</small>
+
+El Ministerio Público, al iniciar la investigación, dará aviso a la Secretaría de Salud del Estado cuando un farmacodependiente se encuentre imputado de cometer un delito, a fin de que dicha autoridad intervenga en los términos de las disposiciones aplicables, sin perjuicio de lo previsto en el artículo 145 de la Ley de Ejecución de Penas y Medidas de Seguridad.
+
 ###### Artículo 229.
 
 Obligación de suministrar información.
@@ -2683,6 +2689,20 @@ Inspecciones colectivas.
 
 Cuando la policía realice inspecciones de personas o de vehículos, colectiva o masivamente, en el marco de una investigación de un delito, se deberá realizar bajo dirección del Ministerio Público, con el fin de que éste vele por la legalidad del procedimiento. Si es necesaria la inspección de personas o vehículos determinados o identificados, el procedimiento se regirá según los Artículos anteriores.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2010)</small>
+
+###### Artículo 248 Bis.
+
+Delitos contra la Salud en su modalidad de Narcomenudeo.
+
+Para fines de investigación, tratándose de los delitos de narcomenudeo previstos en los artículos 475, 476 y 477 de la Ley General de Salud, el titular de la Procuraduría General de Justicia del Estado podrá solicitar al titular del Ministerio Público de la Federación o al servidor público que al efecto designe, la autorización para que agentes de la policía sujetos a la conducción y mando de aquélla, compren, adquieran o reciban la transmisión material de algún narcótico, a fin de lograr la detención de la o las personas de quienes se sospeche estén involucradas en la comercialización o suministro de narcóticos o de la posesión de los mismos con dichos fines y el aseguramiento correspondiente.
+
+Una vez expedida la autorización a que se refiere el párrafo anterior, el Ministerio Público deberá señalar por escrito, en la orden respectiva, los lineamientos, términos, limitaciones, modalidades y condiciones a los que debe sujetarse el agente o agentes de la policía que deberán ejecutar la orden.
+
+En las actividades que desarrollen el o los policías que ejecuten la orden, se considerará que actúan en cumplimiento de un deber jurídico, en los términos del artículo 28, fracción VI, del Código Penal del Estado, siempre que su actuación se apegue a los lineamientos, términos, modalidades, limitaciones y condiciones a que se refiere el párrafo anterior.
+
 ###### Artículo 249.
 
 Aseguramiento.
@@ -2692,6 +2712,12 @@ El Juez, el Ministerio Público y la policía, deberán disponer que sean recogi
 Quien tuviera en su poder objetos o documentos de los señalados, estará obligado a presentarlos y entregarlos cuando le sea requerido, pudiendo el Juez o el Ministerio Público imponer los medios de apremio permitidos para el testigo que rehúsa declarar; pero la orden de presentación no podrá dirigirse contra las personas que puedan o deban abstenerse de declarar como testigos.
 
 En los casos urgentes, esta medida podrá delegarse por orden del Ministerio Público, bajo su estricta responsabilidad, en un agente policial.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2010)</small>
+
+Cuando exista aseguramiento de estupefacientes o psicotrópicos, el Ministerio Público o el Juez de Garantía, solicitará la elaboración del informe pericial correspondiente, sobre los caracteres organolépticos o químicos de la sustancia asegurada. Cuando hubiere detenido, este informe será rendido a más tardar dentro del plazo de treinta y seis horas.
 
 ###### Artículo 250.
 
@@ -5024,3 +5050,21 @@ P.O. 30 DE ENERO DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los artículos 438 al 455 del Código de Procedimientos Penales del Estado, que comprenden el Título relativo a la "Acción Civil", entrarán en vigor ciento ochenta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor un año después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado contará con el plazo dispuesto en el artículo anterior para gestionar con el Poder Ejecutivo Federal y, en su caso, ante la Cámara de Diputados del Honorable Congreso de la Unión, sobre la previsión de los recursos correspondientes en el Presupuesto de Egresos de la Federación, para que el Estado de Chihuahua cumpla con las obligaciones derivadas del presente Decreto, sin perjuicio de los recursos que para tal efecto disponga la propia Entidad Federativa.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+###### ARTÍCULO CUARTO.
+
+A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
