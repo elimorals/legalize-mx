@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-equilibrio-ecologico-y-proteccion-al-ambiente-del-45254"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-08"
-last_updated: "2010-08-04"
+last_updated: "2010-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 8 de junio de 2005.
 
@@ -307,6 +307,10 @@ I.- Ejecutar la política ambiental y los criterios ecológicos en el Estado, en
 
 II.- Proponer al titular del Ejecutivo Estatal la expedición de Normas Técnicas Ecológicas Estatales, en congruencia con las Normas Oficiales Mexicanas y los criterios ecológicos que deberán observarse para prevenir la contaminación del aire, agua, suelo y recursos naturales, con la participación que, en su caso, corresponda a otras dependencias;
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2010)</small>
+
+Las Normas Técnicas Ecológicas Estatales deberán contemplar, de manera especial y pormenorizada, los lineamientos para el desarrollo de campañas de difusión que impulsen el ahorro del agua y de energía eléctrica, prohíban tirar desechos contaminantes y, en general, fomenten la conservación de los elementos naturales y estimulen la participación ciudadana en la protección al ambiente y cumplimento de esta Ley;
+
 > <small>(F. DE E., P.O. 5 DE OCTUBRE DE 2005)</small>
 
 III.- Aplicar, en la esfera de su competencia, esta Ley, sus reglamentos, las Normas Técnicas Ecológicas Estatales y los criterios ecológicos que se expidan, así como vigilar su observancia;
@@ -373,9 +377,17 @@ XXXII.- Determinar los indicadores que permitan evaluar la aplicación del prese
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2009)</small>
 
-XXXIII.- Conducir el proceso de implementación y funcionamiento del Programa Estatal contra el Cambio Climático, así como coordinarse con las autoridades competentes para su aplicación en los Municipios del Estado, y
+XXXIII.- Conducir el proceso de implementación y funcionamiento del Programa Estatal contra el Cambio Climático, así como coordinarse con las autoridades competentes para su aplicación en los Municipios del Estado, y (sic)
 
-XXXIV.- Las demás facultades que conforme a esta Ley u otras disposiciones legales le correspondan.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2010)</small>
+
+XXXIV.- Formar y administrar el registro público estatal de sitios contaminados, de conformidad con la información que deberán proporcionar los municipios de la Entidad dentro de sus respectivas jurisdicciones;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2010)</small>
+
+XXXV.- Establecer un programa estatal de campañas mediáticas permanentes para la concientización ciudadana en la cultura ecológica;
+
+XXXVI.- Las demás facultades que conforme a esta Ley u otras disposiciones legales le correspondan.
 
 Las atribuciones que esta Ley otorga al Poder Ejecutivo del Estado, serán ejercidas a través de la Secretaría, salvo las que directamente correspondan al Gobernador del Estado por disposición expresa de la ley.
 
@@ -453,9 +465,27 @@ J).- Efectuar el cobro por el pago de los servicios de manejo integral de residu
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2009)</small>
 
-XXIV.- Coadyuvar con la Secretaría, en la aplicación de las acciones que deriven del Programa Estatal contra el Cambio Climático, y
+XXIV.- Coadyuvar con la Secretaría, en la aplicación de las acciones que deriven del Programa Estatal contra el Cambio Climático, y (sic)
 
-XXV.- Las demás facultades que conforme a esta Ley les corresponden.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2010)</small>
+
+XXV.- La prevención de las conductas prohibidas por el artículo 161 de esta Ley en materia de residuos sólidos urbanos, bajo los siguientes lineamientos generales:
+
+a) Ubicar geográficamente las zonas en las que se arrojan residuos sólidos frecuentemente, en contravención de esta Ley y sus reglamentos, que se traducen en tiraderos de basura a cielo abierto, e informar de ellos a la Secretaría para los efectos del artículo 7, fracción XXIII de esta Ley.
+
+b) Conducir la localización, vigilancia e investigación sobre la descarga, vertimiento y almacenamiento de residuos sólidos en tiraderos de basura ilegales a cielo abierto, con el propósito de aplicar las sanciones respectivas a los responsables y encontrar la causa de esa conducta antisocial, para que, en su caso, puedan establecerse las medidas idóneas para remediarla.
+
+c) Contar con un programa permanente de limpieza de tiraderos de basura ilegales a cielo abierto, mediante el cual se buscará coordinar los esfuerzos de los vecinos del área, grupos sociales de la comunidad, o cualquier corporación de la iniciativa privada, a fin de fomentar la participación ciudadana.
+
+d) Señalizar las zonas en las que se arrojan residuos sólidos frecuentemente y que constituyen tiraderos de basura ilegales a cielo abierto, mediante avisos públicos en los que se advierta la prohibición de arrojar basura o cualquier contaminación en dicho sitio, las sanciones correspondientes de incurrir en esa conducta, así como indicar que el área se encuentra bajo vigilancia de la autoridad municipal.
+
+En los lugares que se recibe escombro, se indicará el tipo de material que está permitido arrojar y el número de registro que haya otorgado la autoridad competente. Igualmente se tendrá que efectuar la señalización de prohibir tirar basura.
+
+e) Establecer infraestructura básica en las áreas susceptibles o que sean detectadas como tiraderos clandestinos a cielo abierto de residuos sólidos urbanos, colocando equipamiento como cercas, postes, rejas o cualquier barrera suficiente para obstaculizar el depósito de residuos en el lugar.
+
+f) Implementar operativos de vigilancia, que de manera aleatoria cubran uno o algunos de los sitios detectados como tiraderos de basura a cielo abierto, que se difundan ampliamente en los medios masivos de comunicación y que provoquen la disuasión de su uso;
+
+XXVI.- Las demás facultades que conforme a esta Ley les corresponden.
 
 En cada municipio podrá existir una unidad administrativa encargada de aplicar las disposiciones de esta ley y demás ordenamientos de la materia.
 
@@ -589,9 +619,11 @@ IV.- Promover la celebración de convenios con los diversos medios de comunicaci
 
 V.- Impulsar el fortalecimiento de la conciencia ecológica a través de la realización de acciones conjuntas con la comunidad para la preservación y el mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de desechos.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2010)</small>
+
 ###### ARTÍCULO 23.
 
-La Secretaría informará y difundirá sus actividades, planes, programas y disposiciones en materia de participación pública.
+La Secretaría y los municipios, dentro de sus respectivas competencias, informarán y difundirán sus actividades, planes, programas y disposiciones en materia de participación social y deberán contemplar en sus respectivos presupuestos de egresos, la implementación y desarrollo de campañas de difusión que impulsen el ahorro del agua y de energía eléctrica, prohíban tirar desechos contaminantes y, en general, fomenten la conservación de los elementos naturales y estimulen la participación ciudadana en la protección al ambiente y cumplimiento de esta Ley.
 
 ###### ARTÍCULO 24.
 
@@ -2317,6 +2349,10 @@ IV.- Trabajo a favor de la comunidad, el cual será determinado en tiempo y form
 
 En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces el monto originalmente impuesto, sin exceder del doble del máximo establecido, así como la clausura definitiva. Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2010)</small>
+
+ARTÍCULO 212 bis.- Se sancionará, de acuerdo a la Ley de Responsabilidades de los Servidores Públicos, a aquellas autoridades que no cumplan con su obligación de atender las denuncias ciudadanas. De igual forma, si dentro de los treinta días naturales siguientes a que se haya denunciado un hecho, acto u omisión que cause o pueda causar desequilibrio ecológico o daños al ambiente o a los recursos naturales, y no lo haya atendido.
+
 ###### ARTÍCULO 213.
 
 Tratándose de las violaciones a las disposiciones del título noveno de la presente Ley, se observará lo siguiente:
@@ -2534,6 +2570,12 @@ Los procedimientos y recursos administrativos relacionados con las materias de e
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 4 DE AGOSTO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
