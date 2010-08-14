@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2010-05-01"
+last_updated: "2010-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2010.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -719,7 +719,9 @@ h) Nombrar y remover a los empleados y funcionarios cuya designación no sea pri
 
 i) Solicitar autorización del cabildo para ausentarse del municipio por más de quince días y para separarse temporalmente de sus funciones;
 
-j) Rendir al ayuntamiento, en sesión solemne, un informe por escrito de su gestión administrativa, el cual se verificará en la segunda quincena del mes de septiembre de cada año;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2010)</small>
+
+j) Rendir al ayuntamiento, en sesión solemne, un informe por escrito de su gestión administrativa, el cual se verificará en la primera quincena del mes de diciembre de cada año, con excepción del último año del periodo constitucional, en el cual el informe se rendirá en la segunda quincena del mes de septiembre;
 
 k) Vigilar el desempeño de los servidores y empleados del municipio, corregir oportunamente las faltas que observe y hacer del conocimiento de la autoridad correspondiente las que a su juicio puedan constituir la comisión de un delito;
 
@@ -1882,3 +1884,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 1 DE MAYO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE AGOSTO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
