@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-4748"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-11"
-last_updated: "2009-12-05"
+last_updated: "2010-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DEL 2010.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 11 de marzo de 1987.
 
@@ -115,9 +115,23 @@ XVI.- La asistencia social;
 
 XVII.- La participación con las autoridades federales en el desarrollo de los programas contra el alcoholismo y el tabaquismo;
 
-XVIII.- El control sanitario de los expendios de alimentos, bebidas alcohólicas y no alcohólicas; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIX.- Las demás que establezca la Ley General de Salud.
+> <small>(REFORMADA, P. O. 14 DE AGOSTO DEL 2010)</small>
+
+XVIII.- El control sanitario de los expendios de alimentos, bebidas alcohólicas y no alcohólicas;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P. O. 14 DE AGOSTO DEL 2010)</small>
+
+XIX.- La prevención del consumo de narcóticos, atención a las adicciones y persecución de los delitos contra la salud, en los términos del artículo 474 de la Ley General de Salud, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P. O. 14 DE AGOSTO DEL 2010)</small>
+
+XX.- Las demás que establezca la Ley General de Salud.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
 
@@ -1521,33 +1535,77 @@ II.- La educación a la familia para prevenir el consumo de tabaco por parte de 
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P. O. 14 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 155.
 
-El Ejecutivo del Estado coadyuvará con la Secretaría de Salud Federal en la ejecución del Programa Nacional contra la farmacodependencia.
+El Ejecutivo del Estado coadyuvará con la Secretaría de Salud Federal en la ejecución del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, mismo que será obligatorio en todos los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia.
+
+Las campañas de información y sensibilización que reciba la población deberán estar basadas en estudios científicos y alertar de manera adecuada sobre los efectos y daños físicos y psicológicos del consumo de estupefacientes y psicotrópicos.
+
+De conformidad con el Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, corresponde al Ejecutivo Estatal:
+
+I. Promover y llevar a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos; y
+
+II. Proporcionar información y brindar la atención médica y los tratamientos que se requieran a las personas que consuman estupefacientes y psicotrópicos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 14 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 156.
 
-El Ejecutivo del Estado y los municipios, para evitar y prevenir el consumo de substancias inhalantes que produzcan efectos sicotrópicos en las personas, se ajustarán a lo siguiente:
+El Ejecutivo del Estado y los municipios, para prevenir el consumo de narcóticos, se ajustarán a lo siguiente:
 
 I.- Determinarán y ejercerán medios de control en el expendio de substancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces;
 
 II.- Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas substancias, para evitar el empleo indebido de las mismas;
 
-III.- Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de inhalantes; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes.
+> <small>(REFORMADA, P. O. 14 DE AGOSTO DE 2010)</small>
+
+III.- Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de narcóticos; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P. O. 14 DE AGOSTO DE 2010)</small>
+
+IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de narcóticos. Asimismo, fomentarán la educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento. La información que reciba la población deberá estar basada en estudios científicos y alertar de manera clara sobre los efectos y daños físicos y psicológicos del consumo de estupefacientes y psicotrópicos.
 
 A los establecimientos que vendan o utilicen substancias inhalantes con efectos sicotrópicos que no se ajusten al control que dispongan el Ejecutivo Estatal y los municipios, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley, independiente de su responsabilidad penal.
 
-### CAPITULO IV. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 14 DE AGOSTO DE 2010)</small>
+
+### CAPITULO III BIS. DE LA PARTICIPACION DEL ESTADO EN LA PERSECUCION DE LOS DELITOS CONTRA LA SALUD, EN SU MODALIDAD DE NARCOMENUDEO
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P. O. 14 DE AGOSTO DE 2010)</small>
 
-### CAPITULO I. DISPOSICIONES COMUNES
+ARTICULO 156 BIS.- Las autoridades de seguridad pública, procuración e impartición de justicia, así como de ejecución de penas y medidas de seguridad del Estado, conocerán y resolverán de los delitos o ejecutarán las sanciones y medidas de seguridad a que se refiere el Capítulo VII del Título Décimo Octavo, de la Ley General de Salud, en la forma y con la competencia prevista en el artículo 474 de la propia Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P. O. 14 DE AGOSTO DE 2010)</small>
+
+ARTICULO 156 TER.- Los procedimientos penales y, en su caso, la ejecución de las penas y medidas de seguridad por los delitos a que se refiere este Capítulo, se regirán por las leyes del Estado en la materia, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P. O. 14 DE AGOSTO DE 2010)</small>
+
+ARTICULO 156 QUATER.- El Ministerio Público o el Juez de Garantía, en su caso, tan pronto identifiquen que una persona relacionada con un procedimiento es farmacodependiente, deberán informar de inmediato y, en su caso, dar intervención a la Secretaría de Salud del Estado, para los efectos del tratamiento que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P. O. 14 DE AGOSTO DE 2010)</small>
+
+ARTICULO 156 QUINTUS.- Cuando el Ministerio Público tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza lo empleare para realizar cualesquiera de las conductas sancionadas en el presente Capítulo o que permitiere su realización por terceros, informará a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones que resulten por la aplicación de los ordenamientos correspondientes.
+
+### CAPITULO IV. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1577,7 +1635,11 @@ El Ejecutivo del estado podrá celebrar con los municipios, los convenios conduc
 
 ## TITULO DECIMO PRIMERO. DE LA SALUD LOCAL
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPITULO I. DISPOSICIONES COMUNES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 161.
 
@@ -1619,7 +1681,7 @@ III.- Contar, en su caso, con los auxiliares del responsable que determinen los 
 
 ARTICULO 166 BIS.- Tratándose de moteles, establecimientos autorizados para expender e ingerir bebidas embriagantes en los términos de la Ley respectiva y demás lugares que determine la reglamentación respectiva, deberán expender en dichos sitios, preservativos masculinos.
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTICULO 167.
 
@@ -1633,7 +1695,7 @@ Los mercados y centros de abasto estarán bajo la vigilancia de la autoridad san
 
 Los vendedores, locatarios y toda persona cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a observar las condiciones higiénicas indispensables para su debido mantenimiento y desempeño de sus actividades, sujetándose a lo que dispone esta Ley, sus reglamentos y las normas técnicas correspondientes.
 
-### CAPITULO IV. PANTEONES
+### CAPITULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTICULO 170.
 
@@ -1667,7 +1729,7 @@ Las construcciones deberán ser inspeccionadas por la autoridad sanitaria, quien
 
 Cuando los edificios, construcciones o terrenos presenten un peligro por su insalubridad e inseguridad, la autoridad sanitaria deberá ejecutar las obras que estime de urgencia, con cargo a sus propietarios, poseedores o dueños de negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO IV. PANTEONES
 
 ###### ARTICULO 178.
 
@@ -1681,7 +1743,7 @@ Para el establecimiento y funcionamiento de panteones, se estará a lo dispuesto
 
 Para establecer un panteón se necesita licencia expedida por la autoridad sanitaria, quien la otorgará después de oír la opinión del ayuntamiento correspondiente y de la Junta Central de Agua y Saneamiento del Estado.
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### ARTICULO 181.
 
@@ -1707,7 +1769,7 @@ La basura deberá manipularse higiénicamente antes de llegar al basurero o a la
 
 Para toda actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley, sus reglamentos y normas técnicas aplicables.
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 187.
 
@@ -1725,7 +1787,7 @@ Queda prohibida la matanza de animales en casas o domicilios particulares. Cuand
 
 La matanza de animales en los rastros autorizados, se efectuará en los días y horas que fije la autoridad sanitaria, teniendo en consideración las condiciones del lugar y los elementos que la propia autoridad disponga para realizar las inspecciones necesarias.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS, CABALLERIZAS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 191.
 
@@ -1767,7 +1829,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos líquidos o sólidos que conduzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
-### CAPITULO IX. RECLUSORIOS
+### CAPITULO VIII. ESTABLOS, GRANJAS, CABALLERIZAS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 200.
 
@@ -1785,7 +1847,7 @@ Para el funcionamiento de los lugares a que se refiere este capítulo, se requie
 
 Las condiciones sanitarias que deban reunir los establos, granjas, caballerizas y los establecimientos similares serán fijados por esta Ley, sus reglamentos y las normas técnicas correspondientes.
 
-### CAPITULO X. BAÑOS PUBLICOS Y ALBERCAS
+### CAPITULO IX. RECLUSORIOS
 
 ###### ARTICULO 204.
 
@@ -1803,7 +1865,7 @@ Los reclusorios en cuanto a sus condiciones sanitarias estarán sujetos al contr
 
 Los reclusorios deberán contar además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes, con un departamento de baños de regadera y otro de enfermería, éste para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario su traslado a un hospital.
 
-### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO X. BAÑOS PUBLICOS Y ALBERCAS
 
 ###### ARTICULO 207.
 
@@ -1817,7 +1879,7 @@ Los baños públicos y albercas para brindar el servicio al público, deberán o
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, sus reglamentos y las normas técnicas correspondientes.
 
-### CAPITULO XII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA Y OTROS
+### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 210.
 
@@ -1827,7 +1889,7 @@ Se entiende por centros de reunión todas aquellas edificaciones destinadas al a
 
 El funcionamiento de los establecimientos a que se refiere el presente capítulo deberá estarse a lo dispuesto en esta Ley y contará con los servicios de seguridad e higiene que se establezcan en los reglamentos y las normas técnicas correspondientes.
 
-### CAPITULO XIII. ESTABLECIMIENTOS DE HOSPEDAJE
+### CAPITULO XII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA Y OTROS
 
 ###### ARTICULO 212.
 
@@ -1837,23 +1899,19 @@ Se entiende por peluquerías y salones de belleza, los establecimientos dedicado
 
 El funcionamiento y personal de los establecimientos a que se refiere el presente capítulo, deberán cumplir con lo establecido en esta Ley, sus reglamentos y normas técnicas correspondientes.
 
-### CAPITULO XIV. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XIII. ESTABLECIMIENTOS DE HOSPEDAJE
 
 ###### ARTICULO 214.
 
 Se entiende por establecimientos de hospedaje los hoteles, moteles, casas de huéspedes, así como cualquier edificación que se destine a dar albergue a personas.
 
-### CAPITULO XV. GASOLINERAS
+### CAPITULO XIV. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### ARTICULO 215.
 
 Se entiende por transporte todo aquel vehículo destinado al traslado de carga de alimentos perecederos o de pasajeros, sea cual fuere su medio de propulsión.
 
-### CAPITULO I. AUTORIZACIONES
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+### CAPITULO XV. GASOLINERAS
 
 ###### ARTICULO 216.
 
@@ -1865,7 +1923,7 @@ Las gasolineras deberán contar con las instalaciones de seguridad que establezc
 
 ## TITULO DECIMO SEGUNDO. AUTORIZACIONES Y CERTIFICACIONES
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1941,11 +1999,11 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los ingresos que se obtengan por los servicios de salubridad local que se presten, se recaudarán en la forma que establezca la legislación fiscal.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 228.
 
@@ -2009,7 +2067,11 @@ La Secretaría de Salud emitirá la resolución que corresponda al concluir la a
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 235.
 
@@ -2051,7 +2113,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO TERCERO. VIGILANCIA SANITARIA
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 240.
 
@@ -2155,7 +2217,7 @@ La negativa a firmar el acta o a recibir copia de la misma o de la orden de visi
 
 ## TITULO DECIMO CUARTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 249.
 
@@ -2253,7 +2315,7 @@ Si del dictamen resultara que el bien asegurado es nocivo, se podrá determinar,
 
 La desocupación o desalojo de casa, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 261.
 
@@ -2333,11 +2395,7 @@ Sólo procederá esta sanción, si previamente se aplicó cualquiera otra de las
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO IV. RECURSOS DE REVISION Y REVOCACION
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 273.
 
@@ -2419,7 +2477,11 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 
 Cuando del contenido de una acta de inspección se desprenda la posible comisión de uno o varios delitos, se formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la medida de seguridad o de la imposición de la sanción administrativa que proceda.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSOS DE REVISION Y REVOCACION
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 283.
 
@@ -2500,6 +2562,8 @@ III.- Que fueren de difícil reparación los daños y perjuicios que se causen a
 ###### ARTICULO 293.
 
 En la tramitación de los recursos que se regulan en éste Capítulo se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 294.
 
@@ -2672,3 +2736,21 @@ OCTAVO.- Todos los actos, procedimientos y recursos administrativos relacionados
 NOVENO.- Las autorizaciones que se hubieren expedido con anterioridad a la fecha de entrada en vigor de las reformas a la Ley Estatal de Salud, tendrán vigencia hasta su vencimiento. Las autorizaciones que se expidan a partir de la vigencia de este Decreto, se otorgarán de acuerdo a sus disposiciones.
 
 DÉCIMO.- En tanto se expidan los Reglamentos y Normas Técnicas que se deriven de la Ley Estatal de Salud, seguirán aplicándose los Reglamentos Federales y Estatales, así como las Normas Técnicas que la Autoridad Sanitaria Federal haya expedido.
+
+P. O. 14 DE AGOSTO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor un año después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado contará con el plazo dispuesto en el artículo anterior para gestionar con el Poder Ejecutivo Federal y, en su caso, ante la Cámara de Diputados del Honorable Congreso de la Unión, sobre la previsión de los recursos correspondientes en el Presupuesto de Egresos de la Federación, para que el Estado de Chihuahua cumpla con las obligaciones derivadas del presente Decreto, sin perjuicio de los recursos que para tal efecto disponga la propia Entidad Federativa.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+###### ARTÍCULO CUARTO.
+
+A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
