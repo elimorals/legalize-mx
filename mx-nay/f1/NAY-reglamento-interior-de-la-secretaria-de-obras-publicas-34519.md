@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-obras-publicas-34519"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-08"
-last_updated: "2005-04-09"
+last_updated: "2010-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRAS PÚBLICAS DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 14 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 8 de octubre de 2003.
 
@@ -930,3 +932,17 @@ Gobernador Constitucional del Estado, C.P. Antonio Echevarría Domínguez.- Rúb
 P.O. 9 DE ABRIL DE 2005
 
 ÚNICO.- El presente Decreto Administrativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 14 DE AGOSTO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto administrativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Obras Públicas publicado el 8 de Octubre de 2003, en el Periódico Oficial Órgano de Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En razón del cambio de denominación y la creación de unidades nuevas, cuando se haga referencia a alguna atribución conferida a alguna de las unidades nuevas o modificadas en su denominación, se entenderá que estas deben ser ejercidas por la unidad administrativa correspondiente creada en el presente Decreto, atendiendo a la naturaleza y ramo de que se trate.
