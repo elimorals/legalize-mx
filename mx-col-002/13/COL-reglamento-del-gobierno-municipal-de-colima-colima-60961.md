@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-gobierno-municipal-de-colima-colima-60961"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2009-12-26"
+last_updated: "2010-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de abril de 2008.
 
@@ -1087,7 +1087,17 @@ XVII.- Desarrollo Urbano, Ecología y Vivienda.
 
 XVIII.- Obras y Servicios Públicos.
 
-XIX.- Otras que determine el cabildo.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2010)</small>
+
+XIX.- Comisión del Sistema de Calidad y Usos de Tecnología de la Información.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2010)</small>
+
+XX.- Comisión de Desarrollo Metropolitano.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2010)</small>
+
+XXI.- Otras que determine el Cabildo.
 
 Los asuntos, disposiciones y acuerdos que no estén señalados expresamente para una comisión, quedarán al cuidado de la Comisión de Gobernación y Reglamentos la cual siempre será presidida por el Presidente Municipal.
 
@@ -1606,6 +1616,58 @@ VII Vigilar la ejecución de las obras públicas programadas por la Dirección G
 VIII Emitir opiniones y dictámenes sobre la aprobación de nuevas obras.
 
 IX En general las que le confieran las leyes y las que se deriven de los acuerdos que emita el cabildo.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2010)</small>
+
+Artículo 124 BIS.- Son facultades y obligaciones de la Comisión del Sistema de Calidad y Usos de Tecnología de la Información:
+
+I Fomentar y vigilar que el sistema de gestión de Calidad y Mejora Continua sea implementado en cada una de las dependencias que conforman la administración municipal centralizada y paramunicipal.
+
+II Fomentar una cultura de calidad (costo-beneficio) en las decisiones que se tomen al interior del Cabildo.
+
+III Vigilar la adecuada implementación y ejecución de modelos, planes, programas y acciones referidas al mejoramiento de la calidad de la gestión: la atención de los ciudadanos, la aplicación de modalidades administrativas innovadoras, el mejoramiento y uso de tecnologías de la información, mecanismos de transparencia, participación ciudadana y control social de la gestión pública.
+
+IV Apoyar en la mejora integral de los procesos, vigilando que las interacciones entre las dependencias conduzcan a un objetivo común, de tal forma que se eficienten los procesos.
+
+V Participar en la (sic) actividades del Sistema de Gestión de Calidad, así como en las Reuniones del Comité de Calidad y en las Reuniones semestrales de evaluación del Sistema de Gestión de Calidad, en la que tendrán que comparecer cada Director General.
+
+VI Dictaminar sobre los asuntos relacionados con la implementación del Sistema de Gestión de Calidad y Mejora Continua bajo el modelo que mejor convenga al Ayuntamiento. (ISO 9001 :2008, 1WA4, Premio Estatal de Calidad, etc.).
+
+VII Promover la actitud de servicio de los servidores Públicos, así como de todo el personal que conforma el Ayuntamiento de Colima.
+
+VIII Participar en la formulación de objetivos que propicien el cumplimiento de la misión del Ayuntamiento, así como el establecimientos (sic) de indicadores de medición que permitan conocer el desempeño de los trámites y servicios que otorga el Ayuntamiento de Colima.
+
+IX Conocer el grado de satisfacción de la ciudadanía con respecto a la atención recibida en el desempeño de la actividad que tiene encomendada el personal del Ayuntamiento.
+
+X Promover el mejoramiento en los siguientes rubros: otorgamiento de servicios públicos, trámites y (sic) servicios, desarrollo.
+
+XI En coordinación con el área administrativa correspondiente, planear y promover la implementación de sistemas automatizados que permitan hacer más eficiente las tareas en la prestación de los servidores públicos.
+
+XII Promover convenios de colaboración con las dependencias de los gobiernos Federal, Estatal y de municipales, así como con organismos públicos y privados, centros de educación superior, que permitan el desarrollo e instrumentación de tecnologías de información, intercambio de experiencias y promoción de los alcances en la materia.
+
+XIII En general las que le confieran las leyes, reglamentos municipales y las que se deriven de los acuerdos que emita el Cabildo.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2010)</small>
+
+Artículo 124 TER.- Son facultades y obligaciones de la Comisión de Desarrollo Metropolitano:
+
+I Para conocer y dictaminar los asuntos que impliquen la participación coordinada del Municipio de Colima con los Municipios de Villa de Álvarez, Comala, Coquimatlán y Cuauhtémoc, y demás municipios que formen parte o lleguen a integrar la Zona Metropolitana de Colima- Villa de Álvarez o su equivalente.
+
+II Para conocer y dictaminar sobre los convenios de coordinación y asociación que suscriba el Municipio de Colima con otros municipios, el gobierno del Estado o la Federación en materia de Vinculación metropolitana para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que le correspondan.
+
+III Para proponer acciones de carácter metropolitano preferentemente en materia de servicios públicos, obra e infraestructura, desarrollo urbano, movilidad, promoción económica y sustentabilidad ambiental; en coordinación con las comisiones correspondientes del H. Cabildo.
+
+IV Para impulsar e intervenir en la realización de estudios, investigaciones y diagnósticos en materia de planeación y desarrollo metropolitano.
+
+V Para conocer, dictaminar y evaluar el cumplimiento de los programas de ordenación de zonas conurbadas.
+
+VI Para evaluar y vigilar los trabajos de las áreas y dependencias municipales involucradas en asuntos metropolitanos, proponiendo las iniciativas necesarias para mejorar su desempeño.
+
+VII Para coadyuvar en la promoción de la participación ciudadana en los temas metropolitanos.
+
+VIII Para supervisar el cumplimiento de los compromisos adquiridos por el Ayuntamiento con otros órganos de Gobierno y autoridades, así como con instituciones privadas y de la sociedad civil, en materia de desarrollo metropolitano.
+
+IX Y las demás que le confieran las leyes, reglamentos municipales y las que deriven de los acuerdos de Cabildo".
 
 #### SECCIÓN VII. DEL PROCEDIMIENTO EN COMISIONES
 
@@ -4924,3 +4986,9 @@ SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMI
 SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 TERCERO.- EL Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo a lo dispuesto por el artículo 47, fracción I, incisos a) y f), de la Ley del Municipio Libre del Estado de Colima, y 140 del Reglamento del Gobierno del Municipio de Colima.
+
+P.O. 14 DE AGOSTO DE 2010.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+TERCERO.- El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo a lo dispuesto por el artículo 47, fracción I, incisos a) y f), de la Ley del Municipio Libre del Estado de Colima, y 140 del Reglamento del Gobierno del Municipio de Colima.
