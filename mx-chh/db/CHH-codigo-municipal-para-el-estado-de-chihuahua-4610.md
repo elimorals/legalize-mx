@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2010-08-04"
+last_updated: "2010-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2010.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1151,7 +1151,7 @@ XII.- Para el Catastro Municipal; y (sic)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ABRIL DE 2009)</small>
 
-XlV (SIC).- En materia de Transparencia y Acceso a la Información Pública.
+XIV (SIC).- En materia de Transparencia y Acceso a la Información Pública.
 
 > <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2009)</small>
 
@@ -1611,23 +1611,53 @@ V.- Dirigir y vigilar, en el ámbito de su competencia, el cumplimiento de las l
 
 VI.- Las demás, que le señalen expresamente otras leyes o reglamentos.
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2010)</small>
 
-ARTICULO 74 BIS.- Son atribuciones del Director o Jefe de Departamento de Ecología, las siguientes:
+ARTICULO 74 BIS.- Son atribuciones y obligaciones del Director o Jefe de Departamento de Ecología, las siguientes:
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2004)</small>
 
 I.- Participar en la creación y administración de áreas naturales protegidas de conformidad con las disposiciones jurídicas aplicables;
 
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2004)</small>
+
 II.- Promover la aplicación de la política ambiental del Municipio en congruencia y coordinación con las disposiciones legales, los planes y programas que se establezcan por la Federación, con la participación que corresponda a otras dependencias del Poder Ejecutivo Estatal;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2004)</small>
 
 III.- Fomentar la elaboración de programas especiales para preservar, restaurar y fortalecer el equilibrio ecológico y la protección al ambiente, así como disminuir la fragilidad ambiental de los ecosistemas, propiciando el aprovechamiento y uso sustentable del medio ambiente y los recursos naturales;
 
-IV.- Proponer ante las instancias gubernamentales acciones y medidas necesarias de protección al ambiente con el fin de preservar, restaurar y fortalecer el equilibrio ecológico y disminuir la fragilidad ambiental de los ecosistemas del Municipio, en concordancia con las disposiciones de carácter Estatal y Federal.
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2004)</small>
+
+IV.- Proponer ante las instancias gubernamentales acciones y medidas necesarias de protección al ambiente con el fin de preservar, restaurar y fortalecer el equilibrio ecológico y disminuir la fragilidad ambiental de los ecosistemas del Municipio, en concordancia con las disposiciones de carácter Estatal y Federal;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2004)</small>
 
 V.- Promover en coordinación con las instancias correspondientes el cumplimiento cabal de la normatividad ambiental y la aplicación de criterios de protección, restauración y aprovechamiento sustentable de los recursos naturales y de prevención y disminución de la contaminación ambiental;
 
-VI.- Promover la celebración de convenios de colaboración entre los distintos órdenes de gobierno para la realización de acciones en materia de ecología.
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2004)</small>
 
-VII.- Las demás, que le señalen expresamente otras leyes y reglamentos.
+VI.- Promover la celebración de convenios de colaboración entre los distintos órdenes de gobierno para la realización de acciones en materia de ecología;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2010)</small>
+
+VII.- Elaborar el programa operativo anual, que contemple la implementación y desarrollo de campañas de difusión que impulsen el ahorro del agua y de energía eléctrica , prohíban tirar desechos contaminantes y, en general, fomenten la conservación de los elementos naturales y estimulen la participación ciudadana en la protección al ambiente;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2010)</small>
+
+VIII.- Ubicar geográficamente las zonas en las que se arrojan residuos sólidos frecuentemente, que se traducen en tiraderos de basura a cielo abierto e informar de ello a la Secretaría de Desarrollo Urbano y Ecología, para su incorporación al sistema de información de sitios contaminados;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2010)</small>
+
+IX.- Establecer de manera coordinada con la Dirección de Servicios Municipales y la Dirección de Obras Públicas Municipales, un programa de limpieza y señalización que prohíba los tiraderos de residuos a cielo abierto, así como su localización permanente para todos los efectos de lo establecido en la fracción XXIV del artículo 9 de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chihuahua;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2010)</small>
+
+X.- En coordinación con la Dirección de Seguridad Pública Municipal, establecer un programa para vigilar los sitios en los que se descargan de manera ilegal residuos contaminantes, erradicar su uso y realizar las investigaciones correspondientes para que, en su caso, se apliquen las sanciones previstas en los ordenamientos legales respectivos;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2010)</small>
+
+XI.- Las demás que le señalen expresamente otras leyes o reglamentos.
 
 ###### ARTICULO 74 Bis.
 
@@ -2911,6 +2941,10 @@ DERECHOS POR LOS SERVICIOS DE ASEO, RECOLECCION Y TRANSPORTE DE BASURA.
 
 Son objeto de éste derecho, el aseo de los lugares de uso común, la recolección y transporte de basura. Son sujetos del mismo los detentadores por cualquier título, de los bienes inmuebles ubicados en los lugares del Municipio, donde se preste el servicio y responsables solidarios los propietarios.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2010)</small>
+
+Se exceptúa de lo anterior, a los particulares que depositen residuos sólidos en los lugares que al efecto establezca la autoridad municipal, por sus propios medios, con cargo a su propio peculio y que su actividad no sea con fines lucrativos. La autoridad municipal difundirá la localización de los centros de recepción de residuos sólidos gratuitos en este caso.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
@@ -4062,6 +4096,12 @@ DECRETO No. 1111/2010 II P.O., POR EL QUE SE REFORMA EL ARTICULO 84 BIS DEL CODI
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 4 DE AGOSTO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
