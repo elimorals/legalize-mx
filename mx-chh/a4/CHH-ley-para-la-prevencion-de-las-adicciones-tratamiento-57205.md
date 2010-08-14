@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-prevencion-de-las-adicciones-tratamiento-57205"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-03"
-last_updated: "2009-12-05"
+last_updated: "2010-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA PREVENCION DE LAS ADICCIONES, TRATAMIENTO, DISMINUCION DE DAÑO Y REINSERCION SOCIAL DE LAS PERSONAS CON ADICCION EN EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 3 de octubre de 2007.
 
@@ -95,7 +95,11 @@ XI. Sociedad: Población del Estado de Chihuahua.
 
 XII. Adicción o Dependencia: Conjunto de fenómenos del comportamiento, cognoscitivos y fisiológicos, que se desarrollan luego del consumo repetido de una sustancia psicoactiva.
 
-XIII. Adicto o Farmacodependiente: Persona con dependencia a una o más sustancias psicoactivas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2010)</small>
+
+XIII. Adicto o Farmacodependiente: Toda persona que presenta algún signo o síntoma de dependencia a estupefacientes o psicotrópicos.
 
 XIV. Centros de Atención de Adictos: Instituciones públicas o privadas en las cuales se presten servicios de prevención, tratamiento, recuperación y reinserción social a personas con problemas de adicciones.
 
@@ -109,7 +113,11 @@ XVIII. Reinserción social: Acciones dirigidas a promover un mejor estilo de vid
 
 XIX. Sustancias Adictivas, Estupefacientes o Psicotrópicas: Todas aquellas sustancias de origen mineral, vegetal o animal, de uso médico, industrial, de efectos estimulantes o deprimentes y narcóticos, que actúan sobre el sistema nervioso, alterando las funciones psíquicas y/o físicas, cuyo consumo puede producir adicción.
 
-XX. Tratamiento: Acciones que tienen por objeto conseguir la abstinencia y/o la reducción del consumo de sustancias psicoactivas, reducir los riesgos y daños que implican el uso o abuso de dichas sustancias, abatir los padecimientos asociados al consumo, e incrementar el grado de bienestar físico y social, tanto del consumidor de éstas como de su familia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DEL 2010)</small>
+
+XX. Tratamiento: Acciones que tienen por objeto conseguir la abstinencia y/o la reducción del consumo de narcóticos, reducir los riesgos y daños que implican el uso o abuso de dichas sustancias, abatir los padecimientos asociados al consumo, e incrementar el grado de bienestar físico, mental y social, tanto del que usa, abusa o depende de esas sustancias, como del de su familia.
 
 XXI. Usuario: Toda aquella persona que obtenga la prestación de cualquier tipo de servicio relacionado con el uso, abuso o dependencia de sustancias psicoactivas.
 
@@ -125,9 +133,15 @@ El Estado y la sociedad asumen la obligación de sensibilizar, prevenir, disminu
 
 Las disposiciones de esta Ley se aplicarán sin perjuicio de las contenidas en otras normas sobre cuestiones específicas que se relacionan con las materias que regula este ordenamiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DEL 2010)</small>
+
 ###### ARTÍCULO 5.
 
-El Poder Ejecutivo del Estado apoyará el establecimiento de centros del sector social, público o privado, que proporcionen servicios de atención a adictos, especialmente a aquéllos enfocados en comunidades marginadas, a través de las acciones, programas o mecanismos que impulsen u operen el sector de Servicios de Salud, públicos y privados, en el Estado de Chihuahua.
+El Poder Ejecutivo del Estado tendrá a su cargo la creación de centros especializados en el tratamiento, atención y rehabilitación de adictos o farmacodependientes, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del sujeto. La ubicación de estos centros se basará en estudios rigurosos del impacto de las adicciones en las regiones del Estado.
+
+Asimismo, fomentará el establecimiento de estos centros por parte de los sectores social y privado y celebrará convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, con el fin de que quienes requieran de asistencia puedan, conforme a sus necesidades, características y posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
 
 ### CAPÍTULO SEGUNDO. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
@@ -173,7 +187,9 @@ V. Implementar acciones y programas de difusión en todo lo concerniente a la er
 
 VI. La vigilancia sanitaria de acuerdo a lo establecido en las Leyes General y Estatal de Salud, sus reglamentos y Normas Oficiales aplicables, a través de COESPRIS-CHIH; y,
 
-VII. Realizar estudios en materia de adicciones para conocer la prevalencia y obtener parámetros de medición y evaluación en la materia.
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+VII. Coadyuvar con la Secretaría de Salud Federal en los procesos de investigación sobre farmacodependencia, apegándose para ello a lo dispuesto por el artículo 192 Quintus de la Ley General de Salud, y a la participación que corresponde a la Entidad, de acuerdo con el Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia.
 
 ###### ARTÍCULO 9.
 
@@ -191,9 +207,23 @@ V. Coordinar y vigilar, en los términos de la Ley de Ejecución de Penas y Medi
 
 VI. Elaborar y ejecutar programas preventivos, así como diseñar nuevos modelos de prevención y erradicación de las adicciones;
 
-VII. Impartir cursos de formación y especialización sobre las adicciones, a los encargados de la procuración de justicia, a fin de mejorar la atención y asistencia que se brinda a personas adictas; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII. Las demás que conforme a este ordenamiento y otras disposiciones aplicables les corresponden.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DEL 2010)</small>
+
+VII. Impartir cursos de formación y especialización sobre las adicciones, a los encargados de la procuración de justicia, a fin de mejorar la atención y asistencia que se brinda a personas adictas;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DEL 2010)</small>
+
+VIII. Participar en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos, cuando dichas actividades se realicen en lugares públicos, actuando conforme a sus atribuciones; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DEL 2010)</small>
+
+IX. Las demás que conforme a este ordenamiento y otras disposiciones aplicables les corresponden.
 
 ###### ARTÍCULO 10.
 
@@ -323,9 +353,13 @@ V. Canalizar a las personas sujetas a alguna medida judicial relacionada con alg
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
-VI. A través de la Secretaría de Salud y por conducto de las instancias competentes en la materia, hacerse cargo de la prevención, atención y reinserción en materia de adicciones; y
+VI. A través de la Secretaría de Salud y por conducto de las instancias competentes en la materia, hacerse cargo de la prevención, atención y reinserción en materia de adicciones; y (sic)
 
-VII. Las demás que le establezcan esta Ley, su reglamento y otros ordenamientos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2010)</small>
+
+VII. Evaluar, acorde a la normatividad aplicable, todas las solicitudes realizadas para abrir un centro de atención a adictos, así como determinar si es viable o no dicha solicitud;
+
+VIII. Las demás que le establezcan esta Ley, su reglamento y otros ordenamientos aplicables.
 
 ###### ARTÍCULO 20.
 
@@ -337,15 +371,23 @@ Así mismo, serán invitados a participar con voz, pero sin voto, aquellas perso
 
 ### CAPÍTULO QUINTO. DEL REGISTRO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR EL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DEL 2010)</small>
+
 ###### ARTÍCULO 21.
 
-La Secretaría deberá crear el Registro Estatal de los Centros de Atención de Adictos, dedicados al tratamiento y/o prevención de las adicciones, como instrumento informativo y estadístico de los mismos.
+La Secretaría tiene a su cargo el Registro Estatal de los Centros de Atención de Adictos, que contendrá el padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, mismo que contendrá las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen.
 
 ###### ARTÍCULO 22.
 
 Son requisitos para obtener el Registro Estatal los siguientes:
 
-I. Ser un centro dedicado al tratamiento, sensibilización y/o prevención de las adicciones, constituido bajo cualquier figura legal, debiendo acreditar, anualmente, que sigue cumpliendo con estos requisitos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DEL 2010)</small>
+
+I. Ser un centro dedicado a la atención, tratamiento, sensibilización y/o prevención, o reinserción social, en materia de farmacodependencia, constituido bajo cualquier figura legal, debiendo acreditar, anualmente, que sigue cumpliendo con estos requisitos;
 
 II. Tener un modelo terapéutico, debidamente aprobado por el Consejo, que habrá de aplicar en los adictos;
 
@@ -438,6 +480,12 @@ Si se trata de personas menores de edad o incapaces en estado de abandono, ésta
 IX. Permitir el acceso a las autoridades correspondientes y facilitar las medidas y acciones necesarias para que practiquen las visitas e inspecciones correspondientes; y
 
 X. Permitir y facilitar las visitas e inspecciones que la autoridad competente les practique, para fiscalizar el destino de los fondos públicos entregados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DEL 2010)</small>
+
+XI. Notificar a la Secretaría los reportes que el Ministerio Público les haga sobre el no ejercicio de la acción penal o pretensión punitiva, en los términos del artículo 478 de la Ley General de Salud, a efecto de que aquélla proporcione orientación al sujeto y lo conmine a tomar parte en los programas contra la farmacodependencia o en aquellos preventivos de la misma. Al tercer reporte del Ministerio Público el tratamiento será obligatorio.
 
 Los centros de atención de adictos que brinden servicios de educación básica a los usuarios, deberán contar con la autorización de la Secretaría de Educación y Cultura para proporcionar dicho servicio.
 
@@ -612,3 +660,39 @@ OCTAVO.- Todos los actos, procedimientos y recursos administrativos relacionados
 NOVENO.- Las autorizaciones que se hubieren expedido con anterioridad a la fecha de entrada en vigor de las reformas a la Ley Estatal de Salud, tendrán vigencia hasta su vencimiento. Las autorizaciones que se expidan a partir de la vigencia de este Decreto, se otorgarán de acuerdo a sus disposiciones.
 
 DÉCIMO.- En tanto se expidan los Reglamentos y Normas Técnicas que se deriven de la Ley Estatal de Salud, seguirán aplicándose los Reglamentos Federales y Estatales, así como las Normas Técnicas que la Autoridad Sanitaria Federal haya expedido.
+
+P.O. 14 DE AGOSTO DEL 2010.
+
+DECRETO NUMERO 1047/2010 II P.O., POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 2; 5; 9; 21; 22 Y 28 DE LA LEY PARA LA PREVENCION DE LAS ADICCIONES, TRATAMIENTO, DISMINUCION DE DAÑO Y REINSERCION SOCIAL DE PERSONAS CON ADICCION EN EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor un año después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado contará con el plazo dispuesto en el artículo anterior para gestionar con el Poder Ejecutivo Federal y, en su caso, ante la Cámara de Diputados del Honorable Congreso de la Unión, sobre la previsión de los recursos correspondientes en el Presupuesto de Egresos de la Federación, para que el Estado de Chihuahua cumpla con las obligaciones derivadas del presente Decreto, sin perjuicio de los recursos que para tal efecto disponga la propia Entidad Federativa.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+###### ARTÍCULO CUARTO.
+
+A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+P. O. 14 DE AGOSTO DE 2010
+
+DECRETO NUMERO 1060/2010 II P.O., POR EL QUE SE REFORMAN LOS ARTICULOS 8 Y 19 DE LA LEY PARA LA PREVENCION DE LAS ADICCIONES, TRATAMIENTO, DISMINUCION DE DAÑO Y REINSERCION SOCIAL DE PERSONAS CON ADICCION EN EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+La entrada en vigor de la reforma al artículo 8 se sujetará en su vigencia al Artículo Primero de las disposiciones transitorias del Decreto No. 1047/2010 II P.O., de fecha once de marzo de dos mil diez.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que respecta a la reforma y adición del artículo 19, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
