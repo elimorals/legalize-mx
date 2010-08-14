@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2010-07-17"
+last_updated: "2010-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -199,7 +199,9 @@ I. Será democrático, considerando a la democracia no solamente como una estruc
 
 II. Será nacional, en cuanto sin hostilidades ni exclusivismos atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura y el amor a la patria;
 
-III. Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio por la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad; así como por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de raza, género, religión, grupo e individuo.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2010)</small>
+
+III. Contribuirá a la mejor convivencia humana y a la resolución no violenta de conflictos sociales a través de la participación social, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio por la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad; así como por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de raza, género, religión, grupo e individuo.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -239,7 +241,9 @@ La Autoridad Educativa Estatal tiene las siguientes facultades y obligaciones:
 
 I. Proporcionar el servicio público de educación en la Entidad, conforme a la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Constitución Política del Estado y la presente Ley;
 
-II. Prestar los servicios de educación inicial, preescolar, primaria, secundaria, incluyendo la indígena, la especial, media superior y superior; además, promoverá la creación de un programa orientado a educar a los padres y madres de familia, que de manera sistemática y permanente propicie la superación personal y la convivencia familiar. El programa atenderá a su formalización mediante la constancia correspondiente.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2010)</small>
+
+II. Prestar los servicios de educación inicial, preescolar, primaria, secundaria, incluyendo la indígena, la especial, media superior y superior; además promoverá la creación de una (sic) programa orientado a educar a los alumnos, padres y madres de familia, que de manera sistemática y permanente propicie la superación personal, la convivencia familiar y la participación social. El programa atenderá a su formalización mediante la constancia correspondiente;
 
 III. Promover el establecimiento, la organización y el sostenimiento, según las necesidades de la demanda en toda la Entidad Federativa de:
 
@@ -407,7 +411,7 @@ XII. Implementar programas de fomento cultural, recreación y deporte;
 
 XIII. Apoyar en la gestión que permita ampliar la calidad y la cobertura de los servicios educativos de su región;
 
-XlV. Las demás que le señalen las leyes.
+XIV. Las demás que le señalen las leyes.
 
 El Gobierno del Estado y los ayuntamientos podrán celebrar convenios para coordinar o unificar sus actividades educativas y cumplir de mejor manera las responsabilidades a su cargo.
 
@@ -1011,11 +1015,11 @@ La educación en valores es parte esencial de la formación integral de las y lo
 
 La educación en valores se realizará en todos los niveles del Sistema Educativo Estatal y tendrá carácter eminentemente formativo. Descansará en el principio de autonomía de la voluntad de las y los educandos, respetando sus tradiciones, costumbres y principios con estricto apego a lo establecido en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Local y en las normas de los Tratados Internacionales de los Derechos Humanos.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2010)</small>
 
 ###### ARTÍCULO 69.
 
-El Estado otorgará los apoyos necesarios para que la educación en valores cobre mayor importancia en los centros escolares.
+El Estado otorgará los apoyos necesarios para que la educación en valores, fundamentada en los principios y características de la participación social, cobre mayor importancia en los centros escolares.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1059,13 +1063,13 @@ Las zonas con población distante, dispersa y en condiciones de marginación, de
 
 ###### ARTÍCULO 73.
 
-La Autoridad Educativa Estatal promoverá la integración de grupos colegiados de las distintas instituciones, que planearán y promoverán, de manera sistemática, la unificación y desarrolIo de este nivel, con la finalidad de satisfacer adecuadamente la demanda educativa, elevar su calidad y favorecer el tránsito interinstitucional de las y los educandos.
+La Autoridad Educativa Estatal promoverá la integración de grupos colegiados de las distintas instituciones, que planearán y promoverán, de manera sistemática, la unificación y desarrollo de este nivel, con la finalidad de satisfacer adecuadamente la demanda educativa, elevar su calidad y favorecer el tránsito interinstitucional de las y los educandos.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 74.
 
-La instancia que atienda a la educación media superior y superior será responsable de planear, coordinar, evaluar, vincular con el sector productivo, así como apoyar a los organismos públicos descentralizados e instituciones estatales, municipales y paraestatales que impartan educación de tipo medio superior en sus niveles de bachilIerato y profesional.
+La instancia que atienda a la educación media superior y superior será responsable de planear, coordinar, evaluar, vincular con el sector productivo, así como apoyar a los organismos públicos descentralizados e instituciones estatales, municipales y paraestatales que impartan educación de tipo medio superior en sus niveles de bachillerato y profesional.
 
 La instancia anterior tendrá como objeto lo siguiente:
 
@@ -1259,7 +1263,7 @@ Las funciones de la educación superior son:
 
 I. La formación de profesionistas;
 
-> <small>(REFORMADA, P.O. 27 DE ENER0 DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2010)</small>
 
 II. La investigación científica, humanista, educativa y tecnológica que atienda en forma equilibrada, tanto las necesidades ambientales, el rescate de los ecosistemas y el desarrollo sustentable de la Entidad, como las de interés académico, tecnológico y cultural. Se contemplarán además, las del rescate, la preservación y el enriquecimiento de la cultura regional, nacional y universal.
 
@@ -2510,6 +2514,12 @@ P.O. 24 DE FEBRERO DE 2010.
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 17 DE JULIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
