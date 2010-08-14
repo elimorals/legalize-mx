@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-68304"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2009-11-28"
+last_updated: "2010-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68304&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 1 de abril de 2009.
 
@@ -519,7 +519,9 @@ VI.- Integrar la información necesaria al Sistema Nacional de Información;
 
 VII.- Consultar en el Sistema Nacional de Información y en el Sistema de Información Estatal, si los aspirantes a ingresar en las Instituciones de Seguridad Pública cuentan con el registro y certificación ante el Centro Estatal de Control de Confianza;
 
-VIII.- Contratar y emplear en las instituciones a personas que cuenten con el registro y certificación emitidos por el Centro Estatal de Control de Confianza;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2010)</small>
+
+VIII.- Contratar y emplear en las instituciones exclusivamente a personas que cuenten con el registro y certificación emitidos por el Centro Estatal de Control de Confianza;
 
 IX.- Coadyuvar a la integración y funcionamiento del Desarrollo Policial;
 
@@ -543,9 +545,11 @@ La aplicación del Desarrollo Policial tenderá en todo momento a preservar el r
 
 El Desarrollo Policial se integra con las instancias, instrumentos, políticas, servicios y acciones tendientes a cumplir los objetivos y fines del desarrollo policial integral en el Estado y los municipios.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2010)</small>
+
 ###### ARTÍCULO 44.
 
-Los integrantes podrán ser removidos de su cargo si no cumplen con los requisitos que las Leyes vigentes en el momento de la remoción señalen para permanecer en dichas instituciones, así como en el caso de que incurran en faltas que ameriten el cese, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la remoción y, en su caso, sólo procederá la indemnización que no exceda del término de tres meses y los proporcionales adquiridos.
+Los integrantes serán removidos de su cargo, si no cumplen con los requisitos que las leyes vigentes señalen para permanecer en dichas instituciones, así como en el caso de que incurran en faltas que ameriten el cese, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la remoción y, en su caso, sólo procederá la indemnización que no exceda del término de tres meses y los proporcionales adquiridos.
 
 ###### ARTÍCULO 45.
 
@@ -647,9 +651,11 @@ II.- Cuando la causa que la motivó, se modifique o deje de existir.
 
 #### SECCIÓN PRIMERA. DEL CENTRO ESTATAL DE CONTROL DE CONFIANZA
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2010)</small>
+
 ###### ARTÍCULO 53.
 
-El Centro Estatal de Control de Confianza, es el órgano de la Secretaría de Seguridad Pública Estatal, encargado de dirigir, coordinar, operar y calificar los procesos de evaluación de los integrantes, así como comprobar el cumplimiento de los perfiles físicos, médicos, éticos y de personalidad de los mismos, para garantizar la calidad de sus servicios, auxiliándose de los laboratorios de Criminalística y Ciencias Forenses de la Procuraduría General de Justicia del Estado.
+El Centro Estatal de Control de Confianza, es el órgano de la Secretaría de Seguridad Pública Estatal, encargado de dirigir, coordinar, operar y calificar los procesos de admisión y evaluación de los integrantes, así como comprobar el cumplimiento de los perfiles físicos, médicos, éticos y de personalidad de los mismos, para garantizar el buen ejercicio de sus funciones, auxiliándose de los Laboratorios de Criminalística y Ciencias Forenses de la Procuraduría General de Justicia del Estado.
 
 ###### ARTÍCULO 54.
 
@@ -1321,11 +1327,13 @@ g).- Un diagrama de la escena del incidente, y
 
 h).- Los demás datos que resulten relevantes.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 1076/2010 II P.O., SE MODIFICO LA ESTRUCTURA DEL PRESENTE ARTICULO, PARA QUEDAR CONFORMADO POR DOS PARRAFOS, QUEDANDO INTEGRADOS LOS ANTERIORES PRIMERO Y SEGUNDO PARRAFOS EN UNO SOLO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2010)</small>
+
 ###### ARTÍCULO 118.
 
-El personal de las Instituciones Policiales recibirá la capacitación y adiestramientos necesarios para el empleo de armas de fuego.
-
-Una vez que haya recibido el adiestramiento, el personal de las Instituciones Policiales será examinado conforme al protocolo de evaluación y control de confianza correspondiente. El personal que deba portar arma de fuego deberá estar autorizado para hacerlo sólo tras haber finalizado la capacitación especializada en su empleo.
+El personal de las Instituciones Policiales recibirá la capacitación y adiestramientos necesarios para el empleo de armas de fuego, previa aprobación de los exámenes aplicados conforme al protocolo de evaluación y control de confianza correspondiente. El personal que deba portar arma de fuego deberá estar autorizado para hacerlo sólo tras haber finalizado la capacitación especializada en su empleo.
 
 En la capacitación del personal encargado de hacer cumplir la ley, se prestará especial atención a las cuestiones de ética policial y derechos humanos, especialmente en el proceso de indagación, a los medios que puedan sustituir el empleo de la fuerza y de armas de fuego.
 
@@ -1478,3 +1486,9 @@ P.O. 28 DE NOVIEMBRE DE 2009.
 DECRETO No. 667/09 II P.O. POR EL QUE SE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO TERCERO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA.
 
 ÚNICO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE AGOSTO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
