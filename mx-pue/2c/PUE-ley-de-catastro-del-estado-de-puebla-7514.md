@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-catastro-del-estado-de-puebla-7514"
 country: "mx"
 rank: "ley"
 publication_date: "1991-02-22"
-last_updated: "2001-08-10"
+last_updated: "2010-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DE CATASTRO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 10 DE AGOSTO DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CATASTRO DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 16 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el viernes 22 de febrero de 1991.
 
@@ -1106,3 +1108,15 @@ El Reglamento, acuerdos, decretos y demás disposiciones relacionadas con las fu
 ###### ARTÍCULO DÉCIMO TERCERO.
 
 Las reformas, derogaciones y adiciones que contiene este ordenamiento legal, derogan en lo que se opongan a las disposiciones contenidas en la Ley de Catastro del Estado.
+
+P.O. 16 DE AGOSTO DE 2010.
+
+Primero.- La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+Segundo.- Se abroga la Ley de Catastro del Estado de Puebla, publicada en el Periódico Oficial del Estado de fecha veintidós de febrero de mil novecientos noventa y uno.
+
+Tercero.- Las disposiciones del Reglamento de la Ley de Catastro del Estado de Puebla, publicado en el Periódico Oficial del Estado el veintiuno de febrero de mil novecientos noventa y dos, serán aplicables, siempre y cuando no se opongan a la presente Ley y demás disposiciones que de ella deriven.
+
+Cuarto.- Se derogan todas aquellas disposiciones de carácter legal y administrativo que se opongan a la presente Ley.
+
+Quinto.- Los trámites administrativos iniciados por las autoridades catastrales y demás sujetos de esta Ley, antes de la entrada en vigor de la misma, serán resueltos con las disposiciones vigentes al momento en que se iniciaren.
