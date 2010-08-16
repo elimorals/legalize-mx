@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-desarrollo-social-74623
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-26"
-last_updated: "2010-04-26"
+last_updated: "2010-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+ULTMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2010.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de abril de 2010.
 
@@ -89,57 +89,19 @@ XVII. Plan Integral de Contingencias Económicas (PICE): Plan anti cíclico de a
 
 La Secretaria de Desarrollo Social del Estado de Aguascalientes, es la dependencia centralizada de la Administración Pública Estatal encargada de Auxiliar al Titular del Poder Ejecutivo del Estado en la formulación, coordinación, ejecución y evaluación de los programas sociales federales y estatales para el Desarrollo Social, es además la encargada de coordinar y gestionar acciones de vinculación con organismos de la Sociedad Civil para el Desarrollo de las comunidades, con las funciones y atribuciones que expresamente le encomiendan la Constitución Política del Estado, la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, la Ley de Desarrollo Social para el Estado de Aguascalientes, otras Leyes, reglamentos, decretos, acuerdos, convenios de coordinación y colaboración administrativa celebrados con el Gobierno Federal, Entidades Federativas, Municipios y Entidades Paraestatales así como convenios celebrados con personas físicas y morales del derecho privado y órdenes del Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2010)</small>
+
 ###### ARTÍCULO 5º.
 
-Para el estudio, planeación y despacho de las atribuciones de su competencia, la Secretaría de Desarrollo Social contará con las siguientes unidades administrativas:
+Las unidades administrativas contarán con las siguientes direcciones de área:
 
-I. Subsecretaría de Desarrollo Social;
+I.- Subsecretaría de Desarrollo Social:
 
-II. Dirección General de Enlace y Vinculación;
+a) Dirección de Atención Comunitaria;
 
-III. Dirección General de Programación;
+b) Dirección de Participación Ciudadana; y
 
-IV. Dirección General Jurídica;
-
-V. Dirección General de Atención Integral a las Personas Adultas Mayores.
-
-El Secretario se auxiliará directamente de las siguientes unidades de apoyo: Secretaría Particular y la Coordinación de Comunicación Social que estarán conformadas por jefes de departamento, así como por los demás servidores públicos que permita el presupuesto autorizado y las demás disposiciones jurídicas aplicables, quienes tendrán las facultades señaladas en el presente Reglamento.
-
-Las unidades administrativas referidas estarán integradas por directores de área y jefes de departamento, así como por los demás servidores públicos que permitan el presupuesto autorizado y las demás disposiciones jurídicas aplicables, así como las que por necesidades del servicio se requieran.
-
-Las unidades administrativas antes referidas contarán con las siguientes direcciones de área:
-
-I.- Subsecretaria de Desarrollo Social:
-
-a) Dirección de Atención Comunitaria.
-
-II.- Dirección General de Enlace y Vinculación:
-
-a) Dirección Administrativa;
-
-b) Dirección de Enlace Gubernamental y Atención Social;
-
-c) Dirección del Programa Espacios;
-
-d) Dirección de Innovación y Desarrollo;
-
-e) Dirección de Normatividad;
-
-f) Dirección del Programa Genera.
-
-III.- Dirección General de Programación:
-
-a) Dirección de Estaciones de Desarrollo;
-
-b) Dirección del Programa Valgo;
-
-c) Dirección de los Programas Vértebra, Impulsa y Comprometidos por Aguascalientes.
-
-IV.- Dirección General Jurídica:
-
-a) Dirección de Programas Especiales.
-
-V.- Dirección General de Atención Integral a las Personas Adultas Mayores.
+c) Dirección de Capacitación y Vinculación.
 
 ###### ARTÍCULO 6º.
 
@@ -333,11 +295,67 @@ VIII. Canalizar a las dependencias las gestiones que se hagan llegar por parte d
 
 IX. Dar seguimiento a las gestiones para solventar las necesidades de los peticionarios, dando respuesta positiva o negativa.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO QUINTO BIS. De la Dirección de Participación Ciudadana
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2010)</small>
+
+###### ARTÍCULO 16 Bis.
+
+La Dirección de Participación Ciudadana estará a cargo de un Director de Área, quien será auxiliado en el ejercicio de sus funciones por dos Encargados, un Jefe de Departamento y demás personal que se requiera.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2010)</small>
+
+###### ARTÍCULO 16 Ter.
+
+La Dirección de Participación Ciudadana atenderá el despacho de los siguientes asuntos:
+
+I.- Promover la participación de la ciudadanía en cuanto a la acciones de Gobierno, por medio de mecanismos que permitan conocer las inquietudes de la población;
+
+II.- Atender las demandas de la ciudadanía en cuanto información de los programas, servicios y trámites que tiene el Gobierno del Estado hacia la población;
+
+III.- Crear programas interinstitucionales para la atención de las necesidades de la población en cuanto a la participación ciudadana;
+
+IV.- Planear las actividades de la Dirección, agendar visitas médicas, definir el apoyo a otorgar;
+
+V.- Elaborar y gestionar respuesta a las detecciones de las necesidades encontradas entre la población;
+
+VI.- Emitir reportes de resultados de la Dirección;
+
+VII.- Diseñar encuestas de medición de la Dirección y evaluar resultados;
+
+VIII.- Dirigir y coordinar la recepción, atención y/o canalización de sugerencias recibidas, quejas y propuestas a la Dependencia Gubernamental que corresponda para su atención;
+
+IX.- Dirigir y controlar la captura de las peticiones;
+
+X. - Coordinar las actividades de los programas, planeación de actividades y rutas del personal promotor;
+
+XI.- Elaborar gráficas estadísticas de los programas de la Dirección y presentar los resultados que arrojen estas áreas;
+
+XII.- Elaborar planos de ubicación de buzones ciudadanos y cartografía afín a esta Dirección.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO QUINTO TER. De la Dirección de Capacitación y Vinculación
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2010)</small>
+
+###### ARTÍCULO 16 Quater.
+
+La Dirección de Capacitación y Vinculación estará a cargo de un Director de Área, quien será auxiliado en el ejercicio de sus funciones por un Auxiliar, una Recepcionista y demás personal que se requiera.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2010)</small>
+
+ARTÍCULO 16 Quintus.- Corresponden a la Dirección de Capacitación y Vinculación, las siguientes atribuciones:
+
+I.- Mantener capacitados a los comités de Participación Ciudadana con una capacitación vanguardista que permita el cumplimiento de los objetivos;
+
+II.- Resaltar la colaboración entre las dependencias del Gobierno, para realizar trabajos conjuntos, así como programas interinstitucionales que permitan resaltar la labor de la administración; y
+
+III.- Detectar las necesidades de capacitación de los comités de Participación Ciudadana así como elaborar los programas correspondientes.
+
 ### CAPÍTULO SEXTO. De las Direcciones Generales
-
-### CAPÍTULO SÉPTIMO. De la Dirección General de Enlace y Vinculación
-
-### CAPÍTULO OCTAVO. De la Dirección Administrativa
 
 ###### ARTÍCULO 17.
 
@@ -385,7 +403,7 @@ XVIII.- Participar en la formulación del presupuesto de la Secretaría; y
 
 XIX.- Las demás que les señale las disposiciones jurídicas aplicables.
 
-### CAPÍTULO NOVENO. De la Dirección de Enlace Gubernamental y Atención Social
+### CAPÍTULO SÉPTIMO. De la Dirección General de Enlace y Vinculación
 
 ###### ARTÍCULO 19.
 
@@ -425,7 +443,7 @@ XVI.- Proporcionar la asesoría que en materia de organización social requieran
 
 XVII.- Las demás que le señale el Secretario y las disposiciones jurídicas que sean aplicables a esta Dirección General.
 
-### CAPÍTULO DÉCIMO. De la Dirección del Programa Espacios
+### CAPÍTULO OCTAVO. De la Dirección Administrativa
 
 ###### ARTÍCULO 20.
 
@@ -523,7 +541,7 @@ IV.- Realizar el inventario físico de los bienes existentes en el almacén, con
 
 V.- Las demás que le sean asignadas por el Director General.
 
-### CAPÍTULO DÉCIMO PRIMERO. De la Dirección de Innovación y Desarrollo
+### CAPÍTULO NOVENO. De la Dirección de Enlace Gubernamental y Atención Social
 
 ###### ARTÍCULO 26.
 
@@ -607,7 +625,7 @@ VII. Revisar y dar seguimiento a los reportes y capturas en el Sistema Único de
 
 VIII. Elaborar los reportes mensuales de la Valoración de la Actuación Profesional y del Programa Operativo Anual.
 
-### CAPÍTULO DÉCIMO SEGUNDO. De la Dirección de Normatividad
+### CAPÍTULO DÉCIMO. De la Dirección del Programa Espacios
 
 ###### ARTÍCULO 31.
 
@@ -649,7 +667,7 @@ II. Atender a los beneficiarios que cumplan con lo (sic) requisitos para acceder
 
 III. Integrar expedientes de beneficiarios, supervisar la captura y la administración de expedientes en los diferentes apoyos federales para la mejora de la vivienda.
 
-### CAPÍTULO DÉCIMO TERCERO. De la Dirección del Programa General
+### CAPÍTULO DÉCIMO PRIMERO. De la Dirección de Innovación y Desarrollo
 
 ###### ARTÍCULO 35.
 
@@ -811,7 +829,7 @@ XV. Mantener en buen estado la conectividad y la infraestructura tecnológica de
 
 XVI. Brindar el apoyo de suministros informáticos a usuarios.
 
-### CAPÍTULO DÉCIMO CUARTO. De la Dirección General de Programación
+### CAPÍTULO DÉCIMO SEGUNDO. De la Dirección de Normatividad
 
 ###### ARTÍCULO 40.
 
@@ -889,7 +907,7 @@ IV. Participar en reuniones de coordinación interinstitucional y seguimiento; y
 
 V. Otras actividades encomendadas de apoyo al Director.
 
-### CAPÍTULO DÉCIMO QUINTO. De la Dirección de Estaciones de Desarrollo
+### CAPÍTULO DÉCIMO TERCERO. De la Dirección del Programa General
 
 ###### ARTÍCULO 45.
 
@@ -951,7 +969,7 @@ III. Realizar los reportes; y
 
 IV. Otras actividades de apoyo al Director del Programa Genera.
 
-### CAPÍTULO DÉCIMO SEXTO. De la Dirección del Programa Valgo
+### CAPÍTULO DÉCIMO CUARTO. De la Dirección General de Programación
 
 ###### ARTÍCULO 50.
 
@@ -987,7 +1005,7 @@ XIV.- Coordinar los programas y acciones competencia de la Secretaría, relacion
 
 XV.- Las demás que le señale el Subsecretario y las disposiciones jurídicas que sean aplicables a esta unidad administrativa.
 
-### CAPÍTULO DÉCIMO SÉPTIMO. De la Dirección de los Programas "Vertebra"; "Impulsa" y "Comprometidos por Aguascalientes"
+### CAPÍTULO DÉCIMO QUINTO. De la Dirección de Estaciones de Desarrollo
 
 ###### ARTÍCULO 51.
 
@@ -1053,7 +1071,7 @@ IV. Coordinar talleres de capacitación y adiestramiento, tales como manualidade
 
 V. Coordinar Clubes donde dotan a la población de áreas destinadas al entretenimiento, socialización y sana distracción de la población. Clubes de ajedrez, karate, baile, aerobics, juegos y otras.
 
-### CAPÍTULO DÉCIMO OCTAVO. De La Dirección General Jurídica
+### CAPÍTULO DÉCIMO SEXTO. De la Dirección del Programa Valgo
 
 ###### ARTÍCULO 57.
 
@@ -1147,7 +1165,7 @@ IV. Dirigir y coordinar la promoción de los programas sociales en las comunidad
 
 V. Dirigir y coordinar el registro, almacenamiento y digitalización de la documentación de los beneficiarios.
 
-### CAPÍTULO DÉCIMO NOVENO. De la Dirección De Programas Especiales
+### CAPÍTULO DÉCIMO SÉPTIMO. De la Dirección de los Programas "Vertebra"; "Impulsa" y "Comprometidos por Aguascalientes"
 
 ###### ARTÍCULO 64.
 
@@ -1229,7 +1247,7 @@ VI. Recabar la información documental para la elaboración del expediente de la
 
 VII. Elaborar la planeación y lleva (sic) a cabo la capacitación permanente de las Madres Educadoras y Auxiliares, en coordinación con otras dependencias e Instituciones.
 
-### CAPÍTULO VIGÉSIMO. De la Dirección General de Atención Integral a las Personas Adultas Mayores
+### CAPÍTULO DÉCIMO OCTAVO. De La Dirección General Jurídica
 
 ###### ARTÍCULO 68.
 
@@ -1323,7 +1341,7 @@ VI. Integrar y tramitar juicios de responsabilidad administrativa ante la Contra
 
 VII. Elaborar los informes justificados en los Juicios de Amparo en los que la Secretaría sea señalada como autoridad responsable, contestaciones de demandas, en los diversos juicios instaurados en contra de la dependencia, ofrecimiento y desahogo de pruebas que procedan, formulación de alegatos, e interponer toda clase de recursos y en general, vigilar el procedimiento.
 
-### CAPÍTULO VIGÉSIMO PRIMERO. De la Secretaría Particular
+### CAPÍTULO DÉCIMO NOVENO. De la Dirección De Programas Especiales
 
 ###### ARTÍCULO 73.
 
@@ -1375,7 +1393,7 @@ III. Planear, Organizar, Dirigir y Controlar el registro, almacenamiento de la d
 
 IV. Integrar carpetas de estadística y archivo gráfico.
 
-### CAPÍTULO VIGÉSIMO SEGUNDO. De la Coordinación de Comunicación Social
+### CAPÍTULO VIGÉSIMO. De la Dirección General de Atención Integral a las Personas Adultas Mayores
 
 ###### ARTÍCULO 78.
 
@@ -1425,7 +1443,7 @@ XXI. Establecer convenios ante las instancias correspondientes para que en los e
 
 XXII. Las demás que le confiera las leyes y Reglamentos de la materia.
 
-### CAPÍTULO VIGÉSIMO TERCERO. De las suplencias
+### CAPÍTULO VIGÉSIMO PRIMERO. De la Secretaría Particular
 
 ###### ARTÍCULO 79.
 
@@ -1439,7 +1457,7 @@ III.- Apoyar administrativamente al titular de la Secretaría; y
 
 IV.- Fungir como enlace entre los Directores y la Dependencia.
 
-### CAPÍTULO VIGÉSIMO CUARTO. Nombramientos
+### CAPÍTULO VIGÉSIMO SEGUNDO. De la Coordinación de Comunicación Social
 
 ###### ARTÍCULO 80.
 
@@ -1491,6 +1509,8 @@ VII. Seleccionar y dotar de fotografías al área de Diseño Gráfico de la Coor
 
 VIII. Dotar de material videográfico y fotográfico a todas las áreas de la Secretaría que así lo soliciten, previa autorización.
 
+### CAPÍTULO VIGÉSIMO TERCERO. De las suplencias
+
 ###### ARTÍCULO 84.
 
 El Secretario de Desarrollo Social será suplido en sus ausencias temporales por el Subsecretario de Desarrollo Social y por las Direcciones Generales de Programación, de Enlace y Vinculación y Jurídico, conforme a sus atribuciones y el asunto que se trate.
@@ -1502,6 +1522,8 @@ El Subsecretario de Desarrollo Social, será suplido en sus ausencias mayores de
 Los Directores Generales y Directores del Área, serán suplidos durante sus ausencias temporales, por los servidores públicos de jerarquía inmediata inferior, siempre que estas sean mayores de quince días pero menores de treinta, en los casos en que dichas ausencias sean superiores a un periodo de treinta días, serán suplidos por quien designe directamente el Titular de la Secretaría.
 
 Tratándose de ausencias de los jefes de departamento, cuando estas sean mayores de quince días y menores de treinta, aplicará el mismo criterio de los Directores Generales y de Área, cuando sean mayores a treinta días, el servidor público que lo sustituya será aquel que designe directamente el director del área correspondiente.
+
+### CAPÍTULO VIGÉSIMO CUARTO. Nombramientos
 
 ###### ARTÍCULO 85.
 
@@ -1536,3 +1558,9 @@ Secretario General de Gobierno.
 Profra. Ma. Beatriz de Lourdes Cañizo Cosío,
 
 Secretaria de Desarrollo Social en el Estado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE AGOSTO DE 2010.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
