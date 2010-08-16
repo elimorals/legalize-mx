@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2010-08-02"
+last_updated: "2010-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2010.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -249,11 +249,11 @@ La punibilidad descrita en el párrafo anterior se duplicará cuando el inculpad
 
 Si el inculpado labora en organizaciones dedicadas al cuidado o atención de menores de 18 años de edad, también se le aplicará como pena la privación del cargo, empleo o comisión que ahí desempeñe.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 23.
 
-El estupro consiste en realizar cópula con persona casta mayor de doce y menor de dieciséis años de edad, obteniendo su consentimiento por medio de seducción o engaño.
+El estupro consiste en realizar cópula con persona mayor de doce y menor de dieciséis años de edad, obteniendo su consentimiento por medio de seducción o engaño.
 
 Al responsable de Estupro se le aplicarán de 1 a 5 años de prisión y de 5 a 25 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
@@ -5836,6 +5836,12 @@ P.O. 5 DE JULIO DE 2010.
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 2 DE AGOSTO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE AGOSTO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
