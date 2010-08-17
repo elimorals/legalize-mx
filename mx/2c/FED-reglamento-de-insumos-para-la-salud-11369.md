@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-insumos-para-la-salud-11369"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-02-04"
-last_updated: "2008-08-05"
+last_updated: "2010-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-02-03"
 
 REGLAMENTO DE INSUMOS PARA LA SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE AGOSTO DE 2010.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 4 de febrero de 1998.
 
@@ -1345,6 +1345,12 @@ II. Los certificados de análisis de productos que contengan hemoderivados, esta
 
 III. Las cartas de representación estarán autenticadas por el procedimiento legal que exista en el país de origen. Estas cartas deberán presentarse en idioma español o en otro idioma, con su respectiva traducción, realizada por perito traductor.
 
+> <small>(ADICIONADO, D.O.F. 17 DE AGOSTO DE 2010)</small>
+
+###### ARTÍCULO 161
+
+bis. La Secretaría podrá expedir disposiciones de carácter general que tengan por objeto reconocer que los requisitos, pruebas, procedimientos de evaluación y demás requerimientos solicitados por las autoridades sanitarias extranjeras para permitir en sus respectivos países la venta, distribución y uso de Insumos a que se refiere este Reglamento, son equivalentes a los que la Ley, el presente Reglamento y demás disposiciones aplicables exigen para garantizar la calidad, seguridad y eficacia que deben satisfacer dichos Insumos, para obtener su registro sanitario en el país.
+
 ### Capítulo III. Registros
 
 ###### ARTÍCULO 162.
@@ -2264,3 +2270,7 @@ e) A los veinticuatro meses posteriores a su publicación, para los demás medic
 SEGUNDO.- Las solicitudes de registro sanitario que se encuentren en trámite a la entrada en vigor del presente Decreto, se atenderán conforme a las disposiciones vigentes al momento de su presentación.
 
 TERCERO.- Las erogaciones que, en su caso, se requieran para dar cumplimiento a lo dispuesto en este Decreto, se realizarán con cargo a la disponibilidad presupuestaria de la Secretaría de Salud.
+
+D.O.F. 17 DE AGOSTO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
