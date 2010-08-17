@@ -4,7 +4,7 @@ identifier: "FED-reglas-para-el-funcionamiento-del-consejo-de-coordinacion-73043
 country: "mx"
 rank: "reglas"
 publication_date: "2010-02-19"
-last_updated: "2010-02-19"
+last_updated: "2010-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73043&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-01-08"
 
 ACUERDOS APROBADOS EN LA III SESION ORDINARIA DE CONSEJO DE COORDINACION PARA LA IMPLEMENTACION DEL SISTEMA DE JUSTICIA PENAL, CELEBRADA EL 8 DE ENERO DE 2010
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE AGOSTO DE 2010.
 
 Acuerdos aprobados en la Edición Vespertina del Diario Oficial de la Federación, el viernes 19 de febrero de 2010.
 
@@ -185,13 +185,19 @@ XII. Un representante de las organizaciones académicas, y
 
 XIII. Un representante de las organizaciones de la sociedad civil.
 
-El Consejo de Coordinación, a propuesta de cualquiera de los Consejeros y por unanimidad de los mismos, podrá acordar la incorporación, de forma temporal o permanente, de otras representaciones, cuando así lo considere indispensable o conveniente para el cumplimiento de sus fines.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO COCO/03/V/10 DEL CONSEJO DE COORDINACION PARA LA IMPLEMENTACION DEL SISTEMA DE JUSTICIA PENAL, D.O.F. 17 DE AGOSTO DE 2010)</small>
+
+El Consejo de Coordinación, a propuesta del Secretario Técnico o de cualquiera de los consejeros, por mayoría de los mismos, podrá acordar la incorporación, de forma temporal, en carácter de invitado a la sesión correspondiente, de otros representantes de los poderes de la Unión, organismos constitucionalmente autónomos, del sector académico o de la sociedad civil, cuando así lo considere necesario para el cumplimiento de sus fines.
 
 Los Consejeros no recibirán remuneración alguna por su participación en el mismo.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO COCO/03/V/10 DEL CONSEJO DE COORDINACION PARA LA IMPLEMENTACION DEL SISTEMA DE JUSTICIA PENAL, D.O.F. 17 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 9.
 
-Los Consejeros serán suplidos en casos excepcionales y de acuerdo a la normatividad interna de cada uno de los órganos representados. En todo caso, los suplentes deberán acreditar su carácter ante la Secretaría Técnica, previamente a la asistencia de las Sesiones, junto con la justificación de la ausencia del titular.
+Los consejeros serán suplidos en casos excepcionales y de acuerdo a la normatividad interna de cada uno de los órganos representados. Los consejeros representantes del sector académico y de la sociedad civil no podrán designar a sus representantes, por la naturaleza personal de su nombramiento. Sus suplentes serán nombrados por el Consejo de Coordinación.
+
+Los suplentes deberán acreditar su carácter ante la Secretaría Técnica, previamente a la asistencia de las sesiones, junto con la justificación de la ausencia del titular. Los suplentes contarán con todos los derechos inherentes a la calidad de consejeros.
 
 ###### ARTICULO 10.
 
@@ -239,9 +245,13 @@ V. Instruir a la Secretaría Técnica, la organización y logística de las Sesi
 
 VI. Las demás que especifique en la normatividad aplicable.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO COCO/03/V/10 DEL CONSEJO DE COORDINACION PARA LA IMPLEMENTACION DEL SISTEMA DE JUSTICIA PENAL, D.O.F. 17 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 13.
 
-En las Sesiones, a propuesta de los Consejeros y el Secretario Técnico, previa aprobación del Consejo, podrán participar como invitados para efectos consultivos, sin derecho a voto, representantes de las organizaciones de la sociedad civil e integrantes de la academia que sean expertos en los temas del orden del día de la sesión, así como representantes de los poderes municipales, locales y federales.
+En las sesiones, a propuesta de los consejeros o del Secretario Técnico, previa aprobación del Consejo por mayoría, podrán participar como invitados honoríficos para efectos consultivos, sin derecho a voto, representantes de las organizaciones de la sociedad civil e integrantes de la academia que sean expertos en los temas del orden del día de la sesión, así como representantes de los poderes federales, estatales y municipales, y de organismos constitucionalmente autónomos.
+
+La solicitud deberá formularse al Secretario Técnico con al menos cinco días de anticipación a la fecha de la sesión de que se trate. Una vez recibida, el Secretario Técnico consultará sobre el particular a los consejeros, por cualquier medio y, de existir mayoría, extenderá la invitación e informará sobre el particular a los consejeros al inicio de la sesión.
 
 #### SECCION I. DEL PROCEDIMIENTO DE NOMBRAMIENTO DE LOS CONSEJEROS DE LAS ORGANIZACIONES ACADEMICAS Y DE LA SOCIEDAD CIVIL
 
@@ -846,3 +856,15 @@ ACUERDO
 UNICO.- Se aprueba el nombramiento, por el periodo de un año, del Maestro Miguel Sarre Iguíniz como representante de la academia ante el Consejo de Coordinación.
 
 Aprobado por unanimidad de los integrantes del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal en su III Sesión Ordinaria, celebrada el 8 de enero de 2010.- Lic. Felipe Borrego Estrada.- Secretario Técnico del Consejo de Coordinación.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A LAS PRESENTES REGLAS.</small>
+
+D.O.F. 17 DE AGOSTO DE 2010.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL ORDENAMIENTO.
+
+...
+
+SEGUNDO.- Se instruye al Secretario Técnico del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal, a efecto de que realice las gestiones necesarias para la publicación del presente Acuerdo en el Diario Oficial de la Federación, como lo prevé el artículo 59 de las Reglas para el Funcionamiento del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal.
+
+TERCERO.- El presente Acuerdo entrará en vigor en el mismo momento en que sean aprobadas por el Consejo de Coordinación.
