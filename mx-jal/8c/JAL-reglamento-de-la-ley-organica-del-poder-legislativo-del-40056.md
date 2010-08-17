@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2008-08-05"
+last_updated: "2010-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2010.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -198,6 +198,10 @@ III. Asunto que motivo la convocatoria;
 ###### Artículo 17.
 
 1. En las discusiones el Presidente dará el uso de la palabra a cada orador hasta por diez minutos.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2010)</small>
+
+2. En la presentación de iniciativas en tribuna el Presidente dará el uso de la palabra a cada diputado hasta por cinco minutos para iniciativas de ley o decreto y hasta por tres minutos para iniciativas de acuerdo legislativo.
 
 ###### Artículo 18.
 
@@ -2316,3 +2320,7 @@ Décimo tercero: El Congreso del Estado de Jalisco deberá iniciar el procedimie
 Décimo cuarto: De conformidad con lo dispuesto en el artículo tercero transitorio del decreto número 22228/LVIII/2008, publicado el cinco de julio de 2008, el Titular del Poder Ejecutivo deberá realizar las gestiones y adecuaciones presupuestarias necesarias para efecto de que se proceda a pagar los recursos que por concepto de indemnización le corresponda a los Consejeros Electorales en funciones que opten por no participar en el proceso de integración del nuevo Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, o que participando, no resultaren electos.
 
 Décimo Quinto (sic): Se deroga lo dispuesto por los artículos 48 al 51 del Reglamento de la Ley Orgánica del Poder Legislativo del estado de Jalisco, contenida en el decreto 20544.
+
+P.O. 17 DE AGOSTO DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
