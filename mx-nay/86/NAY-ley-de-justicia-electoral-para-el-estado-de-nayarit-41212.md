@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-electoral-para-el-estado-de-nayarit-41212"
 country: "mx"
 rank: "ley"
 publication_date: "2004-10-02"
-last_updated: "2009-10-31"
+last_updated: "2010-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 2 de octubre de 2004.
 
@@ -1200,3 +1202,11 @@ TERCERO.- Los artículos que no forman parte de la presente reforma y que se ref
 P.O. 31 DE OCTUBRE DE 2009.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 18 DE AGOSTO DE 2010.
+
+Primero.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga la Ley de Justicia Electoral para el Estado de Nayarit, publicada en el Periódico Oficial, mediante decreto número 8595, de fecha 02 de octubre de 2004.
+
+Tercero.- Los medios de impugnación que se encuentren pendientes de resolver a la entrada en vigor de esta Ley, se seguirán tramitando y se resolverán conforme a las disposiciones de la ley que se abroga.
