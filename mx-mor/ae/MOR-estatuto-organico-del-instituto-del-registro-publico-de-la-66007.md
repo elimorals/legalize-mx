@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-instituto-del-registro-publico-de-la-6600
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-01-07"
-last_updated: "2009-01-07"
+last_updated: "2010-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ESTATUTO ORGANICO DEL INSTITUTO DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2010.
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 7 de enero de 2009.
 
@@ -319,7 +319,9 @@ I. Proponer al Director General el diseño, desarrollo y adquisición de nuevas 
 
 II. Supervisar la operación del sistema de cómputo para la inscripción de títulos y documentos registrables y proponer, en su caso, las adecuaciones o modificaciones que hagan óptima y ágil su operación;
 
-III. Administrar la base de datos del Instituto, proponiendo las adecuaciones o modificaciones que sean necesarias para optimizar la operación de la misma;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2010)</small>
+
+III. Administrar la base de datos del Instituto, proponiendo al Director General la ejecución de modificaciones que sean necesarias para optimiza la operación de la misma; En ejercicio de esta atribución, realizar en la propia base de datos, las correcciones administrativas que sean solicitadas por parte de los Registradores, Certificadores, Director de Registro, Director de Certificaciones, Director Jurídico o del Director General, formando el registro específico de dichas modificaciones.
 
 IV. Elaborar y mantener actualizado el Manual del Sistema Informático del Instituto;
 
@@ -522,3 +524,9 @@ EL SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE AGOSTO DE 2010.
+
+ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
