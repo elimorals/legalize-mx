@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2010-05-06"
+last_updated: "2010-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,285 +18,55 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-DECISION FINAL DEL PANEL SOBRE LA REVISION ANTE UN PANEL BINACIONAL CONFORME AL ARTICULO 1904 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE EN MATERIA DE CHAPAS Y FLEJES DE ACERO INOXIDABLE EN BOBINAS DE MEXICO, CON NUMERO DE EXPEDIENTE USA-MEX-2007-1904-01
+DECRETO POR EL QUE SE MODIFICA EL ARTICULO 1 DEL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE DURANTE 2003, DEL IMPUESTO GENERAL DE IMPORTACION, PARA LAS MERCANCIAS ORIGINARIAS DE AMERICA DEL NORTE, POR LO QUE RESPECTA A LAS MERCANCIAS ORIGINARIAS DE LOS ESTADOS UNIDOS DE AMERICA, PUBLICADO EL 31 DE DICIEMBRE DE 2002
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE MODIFICA EL ARTICULO 1 DEL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE DURANTE 2003, DEL IMPUESTO GENERAL DE IMPORTACION, PARA LAS MERCANCIAS ORIGINARIAS DE AMERICA DEL NORTE, PUBLICADO EL 31 DE DICIEMBRE DE 2002, POR LO QUE RESPECTA A LAS MERCANCIAS ORIGINARIAS DE LOS ESTADOS UNIDOS DE AMERICA, PUBLICADO EN EL D.O.F. DE 7 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Decisión publicada en la Segunda Sección del Diario Oficial de la Federación, el jueves 6 de mayo de 2010.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 18 de agosto de 2010.
 
-DECISION final del panel sobre la Revisión ante un panel binacional conforme al artículo 1904 del Tratado de Libre Comercio de América del Norte en materia de chapas y flejes de acero inoxidable en bobinas de México, con número de expediente USA-MEX-2007-1904-01.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-REVISION ANTE UN PANEL BINACIONAL
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 2019 del Tratado de Libre Comercio de América del Norte; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
 
-CONFORME AL ARTICULO 1904 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+CONSIDERANDO
 
-En materia de: :
+Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, según decreto publicado en el Diario Oficial de la Federación el 8 de diciembre del mismo año, cuyo decreto de promulgación fue publicado en ese órgano informativo el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
 
-:
+Que los artículos 1108 y 1206, así como el Anexo I “Reservas en relación con medidas existentes y compromisos de liberalización” del TLCAN establecen la apertura de los servicios de transporte de carga en los estados fronterizos de nuestro país y de los Estados Unidos de América a partir del 18 de diciembre de 1995, y en todo el territorio de ambos países a partir del 1 de enero de 2000;
 
-Chapas y Flejes de Acero Inoxidable en
+Que de conformidad con el Capítulo XX del TLCAN, que establece las disposiciones aplicables a los procedimientos para la solución de controversias, el 2 de febrero de 2000 se integró el panel arbitral solicitado por los Estados Unidos Mexicanos con el objeto de determinar el incumplimiento de los Estados Unidos de América a las obligaciones del Anexo I a que se refiere el considerando anterior, así como a las de trato nacional y trato de la nación más favorecida previstas en los artículos 1102, 1103, 1202 y 1203 de dicho Tratado, en materia de servicios de transporte transfronterizo;
 
-Bobinas : Expediente del Secretariado No:
+Que el 6 de febrero de 2001 el panel arbitral emitió su informe final en el que determinó el incumplimiento de los Estados Unidos de América a las obligaciones señaladas en el considerando anterior y recomendó a dicho país llevar a cabo las acciones necesarias para cumplir con los compromisos establecidos en el TLCAN;
 
-De México: Resolución Final de USA-MEX-2007-1904-01
+Que a partir de la emisión del informe final del panel arbitral a que se refiere el considerando anterior, los gobiernos de los Estados Unidos Mexicanos y los Estados Unidos de América realizaron diversas gestiones dentro del sector afectado por la medida declarada incompatible por el panel arbitral, con objeto de lograr la apertura de los servicios de transporte transfronterizo prevista en el TLCAN sin obtener los resultados deseados;
 
-2004/2005 :
+Que como parte de las gestiones mencionadas en el considerando anterior, el 27 de abril de 2007, los gobiernos de los Estados Unidos Mexicanos y de los Estados Unidos de América acordaron la implementación de un Programa Demostrativo de acceso a autotransporte de carga (Programa Demostrativo) con vigencia de un año, prorrogado por acuerdo de ambos países hasta 2010, el cual permitiría a un número limitado de empresas de los dos países prestar los servicios de transporte transfronterizo;
 
-Revisión Administrativa :
+Que el 18 de marzo de 2009 el Programa Demostrativo fue cancelado por parte de los Estados Unidos de América con motivo de la aprobación de la Ley Omnibus de Asignaciones para el año fiscal de 2009, mediante la cual el Congreso de ese país prohibió a su Departamento de Transporte utilizar fondos para establecer o mantener el citado Programa;
 
-DECISION DEL PANEL
+Que la cancelación del Programa Demostrativo hasta la fecha, evidencia que los Estados Unidos de América y los Estados Unidos Mexicanos no han logrado alcanzar una solución mutuamente satisfactoria a la controversia en materia de transporte transfronterizo en los términos de los artículos 2018 y 2019 del TLCAN, y que el citado país continúa sin dar cumplimiento tanto a sus obligaciones internacionales conforme al TLCAN como a las recomendaciones del panel arbitral antes referido;
 
-MIEMBROS DEL PANEL: (1)
+Que el párrafo 1 del artículo 2019 del TLCAN dispone que si en su informe final, un panel arbitral ha resuelto que una medida es incompatible con las obligaciones de dicho Tratado o es causa de anulación o menoscabo en el sentido del Anexo 2004 del propio Tratado y la Parte demandada no ha llegado a un acuerdo con cualquiera de las Partes reclamantes sobre una solución mutuamente satisfactoria, de conformidad con el artículo 2018 (1) del referido instrumento dentro de los 30 días siguientes a la recepción del informe final, esa Parte reclamante podrá suspender la aplicación de beneficios de efecto equivalente a la Parte demandada, hasta el momento en que alcancen un acuerdo sobre la resolución de controversia;
 
-Joseph I. Liebman, Presidente
+Que el párrafo 2 (a) del artículo 2019 del TLCAN establece que al examinar los beneficios que habrán de suspenderse de conformidad con el párrafo 1 de dicho artículo, la Parte reclamante procurará primero suspender los beneficios dentro del mismo sector o sectores que se vean afectados por la medida, o por otro asunto que el panel haya considerado incompatible con las obligaciones de ese Tratado, o que haya sido causa de anulación o menoscabo en el sentido del Anexo 2004;
 
-Luis Felipe Aguilar
+Que el párrafo 2 (b) del artículo 2019 del TLCAN dispone que si la Parte reclamante considera que no es factible ni eficaz suspender beneficios en el mismo sector o sectores, podrá suspender beneficios en otros sectores;
 
-Gisela Bolívar
+Que en virtud de lo anterior, resultó procedente suspender beneficios de efecto equivalente a los Estados Unidos de América mediante el “Decreto por el que se modifica el artículo 1 del diverso por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, por lo que respecta a las mercancías originarias de los Estados Unidos de América, publicado el 31 de diciembre de 2002” dado a conocer en el Diario Oficial de la Federación el 18 de marzo de 2009, a través del cual se modificaron los aranceles preferenciales que prevé el TLCAN a las importaciones de determinados bienes originarios del citado país;
 
-Cynthia C. Lichtenstein
+Que el Decreto referido en el considerando anterior fue declarado constitucional por la Primera Sala de la Suprema Corte de Justicia de la Nación, al resolver el Amparo en Revisión 2196/2009, en sesión del 10 de febrero de 2010;
 
-Dale P. Tursi
+Que no obstante lo anterior, los Estados Unidos de América continúan sin dar cumplimiento a sus obligaciones en materia de servicios de transporte transfronterizo y a las recomendaciones del panel arbitral antes referido, por lo que, en términos del artículo 2019 del TLCAN, resulta necesario reforzar la suspensión temporal de beneficios ajustando la composición de la lista de los bienes originarios de ese país a los que se les modificarán los aranceles preferenciales;
 
-(1) Los panelistas desean expresar su agradecimiento por el apoyo recibido por parte de los Asistentes del Panel, Fiamma Rizzo, Ricardo J. Peraza, Amalia B. Chamorro y Nick Ranieri
+Que de conformidad con el TLCAN, la suspensión de beneficios de efecto equivalente se podrá mantener hasta que se alcance un acuerdo mutuamente satisfactorio sobre la resolución de la controversia, y
 
-COMPARECENCIAS:
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, el presente Decreto cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
 
-Por parte de la Autoridad Investigadora
+DECRETO
 
-John D. McInerney, Michele D. Lynch y Mykhaylo A. Gryzlov, Oficina del Abogado General de la Administración de Importaciones, Departamento de Comercio de E.U.A.
+Artículo Único.- Se modifica el artículo 1 del Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002, únicamente por lo que respecta a los aranceles aplicables a las mercancías originarias de los Estados Unidos de América clasificadas en las siguientes fracciones arancelarias:
 
-Por parte de ThyssenKrupp Mexinox S.A. de C.V. y Mexinox USA, Inc.
-
-Craig A. Lewis, Hogan & Hartson, LLP
-
-Por parte de AK Steel Corporation, Allegheny Ludlum Corporation y North American Stainless
-
-Mary T. Staley, Kelley Drye & Warren LLP
-
-RESOLUCION DEL PANEL
-
-### CAPITULO 19 DEL TLCAN. CHAPAS Y FLEJES DE ACERO INOXIDABLE EN BOBINAS DE MEXICO
-
-USA-MEX-2007-1904-01
-
-I. HISTORIA PROCESAL
-
-Este Panel fue constituido bajo el Artículo 1904(2) del Tratado de Libre Comercio de América del Norte (“TLCAN”) (1) y la Sección 516(A) del Tariff Act de 1930 con sus reformas (19 U.S.C. § 1516(a)(g)) (“Tariff Act”), a partir de una Solicitud de Revisión ante un Panel presentada por ThyssenKrupp Mexinox S.A. de C.V. y Mexinox USA, Inc. (“Mexinox”) (demandados en el procedimiento administrativo) respecto de una Revisión Administrativa Final referente a Chapas y Flejes de Acero Inoxidable en Bobinas (Stainless Steel Sheet and Strip in Coils) de México, (2) emitida por la Autoridad Administrativa, el Departamento de Comercio de los Estados Unidos de América (“Comercio”). Tanto Mexinox como AK Steel Corporation, Allegheny Ludlum Corporation y North American Stainless (“Producción Nacional”) (solicitantes en el procedimiento administrativo) presentaron oportunamente reclamaciones con fecha 21 de Febrero de 2007. Posteriormente, los memoriales fueron oportunamente presentados por todos los participantes, incluyendo Comercio.
-
-(1) Tratado de Libre Comercio de América del Norte, 17 de diciembre de 1992, Estados Unidos de América-Canadá-México, Capítulo 19, 32 I.L.M. 289 (entró en vigor el 1 de enero de 1994).
-
-(2) 71 Fed. Reg. 76978 (22 de diciembre de 2006).
-
-La Audiencia Pública fue llevada en Washington, D.C. el 10 de septiembre de 2009. Mediante una promoción presentada en debido tiempo por este Panel, el término para emitir la decisión en este asunto fue inicialmente prorrogado, del 10 de diciembre de 2009 al 10 de febrero de 2010. Posteriormente, mediante orden emitida en debido tiempo por este Panel, el término para emitir la decisión fue prorrogado aún más hasta el 12 de marzo de 2010. Adicionalmente, conforme a una petición incidental conjunta presentada por todos los participantes, solicitando una suspensión del procedimiento (stay of proceedings), el 18 de febrero de 2010, este Panel emitió una orden, suspendiendo todo procedimiento en el presente caso, hasta el 28 de febrero de 2010, para permitir a los participantes llevar a cabo discusiones para llegar a un acuerdo, excepto en lo referente a una estipulación entre las partes respecto a cierta información confidencial protegida y otros asuntos adicionales concernientes a esa estipulación. Posteriormente, por Orden presentada el 26 de febrero de 2010, este Panel aprobó la estipulación de los participantes de que “toda y cualquier información comercial confidencial contenida en la transcripción de la Audiencia del 10 de septiembre de 2009, no será considerada ya como confidencial.” Asimismo, mediante Orden presentada el 1 de marzo de 2010, el Panel, en accesión a otra petición incidental, nuevamente suspendió el procedimiento hasta el 30 de marzo de 2010, mientras los participantes continúan llevando a cabo discusiones para llegar a un acuerdo y, concurrentemente, se prorroga el término para que este Panel emita una decisión hasta 14 días posteriores a la suspensión del procedimiento antes referido o hasta otra prórroga adicional de la suspensión, según pueda ser ordenada por este Panel.
-
-II. JURISDICCION DEL PANEL Y EL CRITERIO DE REVISION
-
-La autoridad de este Panel deriva del Capítulo 19 del TLCAN. Al aceptar nuestra revisión de la resolución aquí considerada, el Artículo 1904.1 del TLCAN nos informa que “cada una de las Partes reemplazará la revisión judicial interna de las resoluciones definitivas sobre cuotas antidumping y compensatorias con la revisión que lleve a cabo un panel binacional.” En este caso estamos revisando la resolución final de una revisión antidumping llevada a cabo por Comercio bajo la sección 751 del Tariff Act, 19 U.S.C. § 1675. Dicha revisión se encuentra incluida dentro de la definición de “resolución[es] definitiva[s]” establecida en el Anexo 1911 del TLCAN (“Anexo 1911”).
-
-Al llevar a cabo nuestra revisión, aplicamos:
-
-leyes, antecedentes legislativos, reglamentos, práctica administrativa y precedentes judiciales pertinentes, en la medida en que un tribunal de la Parte importadora podría basarse en tales documentos para revisar una resolución definitiva de la autoridad investigadora competente. (3)
-
-(3) TLCAN, Art. 1904.2
-
-Adicionalmente, debemos aplicar “los principios generales de derecho que de otro modo un tribunal de la Parte importadora aplicaría para revisar una resolución de la autoridad investigadora competente.” (4) Los “principios generales de derecho,” en la forma en que ahí se utilizan, se encuentran establecidos en el Anexo 1911 e incluyen “principios tales como legitimación del interés jurídico, debido proceso, reglas de interpretación de la ley, cuestiones sin validez legal y agotamiento de los recursos administrativos.”
-
-(4) Id. en Art. 1904.3.
-
-El Artículo 1904.3 del TLCAN requiere que este Panel aplique “los criterios de revisión y los principios generales de derecho” que un tribunal de E.U.A. aplicaría en su revisión de las resoluciones de Comercio. El criterio aplicable es el establecido en la Sección 516A(b)(1)(B) del Tariff Act, 19 U.S.C. § 1516a(b)(1), y requiere que una autoridad revisora “declare ilegal cualquier determinación, resolución o conclusión que no se encuentre sustentada por prueba sustancial contenida en el expediente o que de alguna forma no esté conforme a derecho.”
-
-Prueba sustancial significa aquella prueba relevante que una mente razonable pudiera aceptar como adecuada para sustentar una conclusión. (5) Con respecto de las pruebas en las que se basó la autoridad administrativa, se debe tomar en consideración las pruebas que sustenten, así como desechar de manera justa aquellas pruebas que no den valor probatorio.
-
-(5) Universal Camera Corp. v. NLRB, 340 U.S. 474, 477 (1951) (“Universal Camera”); Consolidated Edison Co. v. NLRB, 305 U.S. 197, 229 (1938); Matsushita Elec. Indus. Co. v. United States, 750 F.2d 927, 933 (Fed. Cir. 1984).
-
-Aunque se encuentra bien establecido que “la posibilidad de obtener, a partir de las pruebas, dos conclusiones inconsistentes, no impide que la conclusión de una autoridad administrativa se encuentre soportada en pruebas sustanciales.”(6) Por lo tanto, la autoridad revisora no podrá “desplazar la elección [de la autoridad administrativa] entre dos puntos de vista contradictorios, aún cuando [la autoridad revisora] justificadamente hubiera tomado una elección diferente si el asunto le hubiera sido presentado de novo.” (7) Al revisar la interpretación de una ley llevada a cabo por una autoridad administrativa, la autoridad revisora debe emplear las herramientas tradicionales de hermenéutica para determinar, primero, si el Congreso se ha referido directamente al asunto específico en cuestión. Si la intención del Congreso es clara, ahí termina el asunto. (8)
-
-(6) Consolo v. Federal Maritime Commission, 383 U.S. 607, 619-620 (1966).
-
-(7) Universal Camera, 340 U.S. en 488.
-
-(8) Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1984) (“Chevron”); Timex V.I., Inc. v. United States, 157 F.3d 879, 882 (Fed. Cir. 1998) (citando a Chevron, 467 U.S. en 843 n.9).
-
-Sin embargo, si la autoridad revisora determina que la ley es omisa o ambigua respecto del asunto específico en cuestión, surge un nuevo cuestionamiento sobre si la interpretación de la ley por parte de la autoridad administrativa es razonable, a partir de los términos expresos de dicha disposición legal y los objetivos del esquema como un todo. (9) Aplica otorgar deferencia a la interpretación legislativa de la autoridad administrativa y la autoridad revisora debe deferir una interpretación razonable de la ley, aún cuando hubiera preferido otra interpretación. (10)
-
-(9) Chevron, 467 U.S. en 843; Mitsubishi Heavy Indus., Ltd. v. United States, 15 F. Supp. 2d 807, 813 (Ct. Int'l Trade 1998); Fujitsu Gen. Ltd. v. United States, 88 F.3d 1034, 1038 (Fed. Cir. 1996).
-
-(10) IPSCO, Inc. v. United States, 965 F.2d 1056, 1061 (Fed. Cir.1992); Koyo Seiko Co. v. United States, 36 F.3d 1565, 1570 (Fed. Cir. 1994); Mitsubishi Heavy Indus., Ltd. v. United States, supra.
-
-III. ANALISIS DE LOS ASUNTOS A TRATAR
-
-Mexinox, en sus Memoriales de la Regla 57(1), expone acerca de los asuntos tratados en su reclamación, en tres asuntos separados. La Producción Nacional, en sus Memoriales de la Regla 57(1), desarrolla tres asuntos distintos. (11) Sin embargo, durante la audiencia pública llevada a cabo el 10 de Septiembre de 2009, la Producción Nacional expresamente concede su segundo asunto, referente al uso, por parte de Comercio, de un cociente para gastos indirectos de venta separado para las ventas de Mexinox en el mercado doméstico. (12)
-
-(11) Como correctamente los señala Mexinox en sus Memoriales de la Regla 57(2) en 4, la Producción Nacional no incluye argumento alguno en sus Memoriales de la Regla 57(1) respecto del costo de Mexinox en la participación de ganancias. Por lo tanto esta petición ha sido abandonada. Ver, por ejemplo Yohey v. Collins, 985 F. 2d 222, 224-25 (5th Cir. 1993).
-
-(12) Ver la Transcripción de la Audiencia Pública del 10 de Septiembre de 2009 (“Tr.”), en 43-44.
-
-Este Panel resolverá sobre cada uno de estos asuntos, en la forma en que fue estructurado en los memoriales de Mexinox y de la Producción Nacional.
-
-A. Si la Aplicación de Zeroing por parte de Comercio No está Sustentada en Pruebas Sustanciales y/o No está de Conformidad con la Ley. (13)
-
-(13) Los panelistas Lichtenstein y Liebman disienten con este punto. Ver opinión disidente más adelante, después del Informe de Devolución del Panel, pág. 58.
-
-(1) Postura de Mexinox
-
-Mexinox argumenta que la aplicación de zeroing por parte de Comercio (en lo sucesivo también referido como “DOC”), no es acorde con la legislación Norteamericana. Su postura se basa en dos afirmaciones. Inicialmente, Mexinox sostiene que ninguna disposición legal de EUA ordena al DOC que aplique zeroing para calcular márgenes de dumping. Además, Mexinox argumenta que si la ley fuera a ser interpretada como si hubiera una duda respecto a zeroing, la doctrina Charming Betsy (14) obliga a una interpretación de la parte relevante de la ley, de forma que sea consistente con las obligaciones internacionales, cuando ello sea posible.
-
-(14) Murray v. Charming Betsy, 6 US 64, 118 (1804) (“Charming Betsy”).
-
-Mexinox argumenta que eventos recientes refuerzan su posición. Mexinox refiere los Informes del Organo de Apelación de la OMC (WTO Appelatte Body Reports), los cuales concluyeron que Estados Unidos estaba en violación de sus obligaciones al aplicar la metodología zeroing. Mexinox también llama nuestra atención al hecho de que EUA ha declarado públicamente que cumplirá con sus obligaciones respecto del caso de zeroing en la OMC traído por Japón. (15) Mexinox enfatiza que el Representante Comercial de Estados Unidos (United States Trade Representative-“USTR”) ha acordado detener la práctica zeroing y que el DOC ha también aceptado recientemente sentencias que generan dudas en la aplicación de zeroing. (16)
-
-(15) Memoriales de la Regla 57(1) de Mexinox, refiriendo US-Laws, Regulations and Methodology for Calculating Dumping Margins (WT/DS322/AB/R, 9 de enero de 2007).
-
-(16) 71 Fed. Reg.77722-3 (26 de diciembre de 2006).
-
-(2) Postura de Comercio
-
-El DOC argumenta que su práctica zeroing es acorde con la legislación Norteamericana. Este refuta que Chevron (17) exige deferencia de parte de los órganos revisores en materia de interpretación y que su metodología zeroing ha sido consistentemente confirmada por los tribunales. Este afirma que zeroing es necesario para combatir casos ocultos de dumping y que el canon de interpretación de la doctrina Charming Betsy es inaplicable en este caso. (18)
-
-(17) Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1884) (“Chevron”).
-
-(18) Memoriales de la Regla 57(2) de Comercio, en 13-25.
-
-(3) Análisis
-
-El artículo 1902: Vigencia de las Disposiciones Jurídicas Internas en Materia de Cuotas Antidumping y Compensatorias establece, en su parte relevante, que:
-
-2. Cada una de las Partes se reserva el derecho de cambiar o reformar sus disposiciones jurídicas en materia de cuotas antidumping y compensatorias, siempre que, de aprobarse una reforma a la ley antidumping o de cuotas compensatorias de una Parte:
-
-2.(d) dicha reforma, en lo aplicable a otra de las Partes, no sea incompatible con
-
-(i) el Acuerdo General sobre Aranceles Aduaneros y Comercio (GATT), el Acuerdo sobre la Aplicación del Artículo VI del Acuerdo General sobre Aranceles Aduaneros y Comercio (el Código Antidumping), o el Acuerdo para la Interpretación y Aplicación de los Artículos VI, XVI y XXIII del Acuerdo General sobre Aranceles Aduaneros y Comercio (el Código de Subsidios), o sus acuerdos sucesores de los cuales los signatarios originales de este Tratado sean parte, o
-
-(ii) el objeto y la finalidad de este Tratado y de este capítulo, que es establecer condiciones justas y predecibles para la liberalización progresiva del comercio entre las Partes de este Tratado, a la vez que se conserven disciplinas efectivas sobre las prácticas comerciales desleales, tal como se desprende de las disposiciones del Tratado, su Preámbulo y Objetivos, y de las prácticas de las Partes.
-
-El artículo 1904(2) obliga a este Panel “para dictaminar si esa resolución estuvo de conformidad con las disposiciones jurídicas en materia de cuotas antidumping y compensatorias de la Parte importadora”. Como tal, este Panel tiene la tarea de determinar si la interpretación del DOC del estatuto 19 U.S.C. § 1677(35) es permisible dentro de la legislación Norteamericana en materias de cuotas antidumping. En la realización de su revisión, este Panel aplicará los “principios generales de derecho” que de otro modo un tribunal de la Parte importadora aplicaría para revisar una resolución de la autoridad investigadora competente. Los principios generales de derecho incluyen los principios de legitimación del interés jurídico, debido proceso, reglas de interpretación legal, cuestiones sin validez legal y agotamiento de los recursos administrativos. (19)
-
-(19) TLCAN, Artículo 1904.3.
-
-Al revisar la interpretación del DOC del estatuto, este Panel está consciente de sus deberes conforme al TLCAN. El artículo 1901 establece, en la parte relevante:
-
-1. Las disposiciones del artículo 1904 se aplicarán sólo a las mercancías que la autoridad investigadora competente de la Parte importadora decida que son mercancías de otra Parte, al aplicar sus disposiciones jurídicas en materia de cuotas antidumping y compensatorias a los hechos de un caso específico.
-
-2. Para los efectos de los Artículos 1903 y 1904, los paneles se establecerán de conformidad con el Anexo 1901.2.
-
-Mexinox enmarca su argumento en términos de interpretación legal. Argumenta que este caso no se trata de implementar una recomendación o conclusión del órgano de solución de controversias de la OMC. En cambio, argumenta que este es un caso de interpretación legal en el cual los cánones de interpretación aplicables son claros. Argumenta que tal interpretación obligaría a un resultado que revertiría el uso de zeroing en este caso. (20)
-
-(20) Craig Lewis, Representante de Mexinox, Tr., en 133-134.
-
-Al revisar la interpretación del DOC del estatuto, este Panel está consciente de sus deberes conforme el TLCAN. El artículo 1904(2) obliga a este Panel “para dictaminar si esa resolución estuvo de conformidad con las disposiciones jurídicas en materia de cuotas antidumping y compensatorias de la Parte importadora”. Como tal, este Panel tiene la tarea de determinar si la interpretación del DOC del estatuto 19 U.S.C. § 1677(35) es permisible dentro de la legislación Norteamericana en materias de cuotas antidumping.
-
-En la realización de su revisión, este Panel aplicará los “principios generales de derecho” que de otro modo un tribunal de la Parte importadora aplicaría para revisar una resolución de la autoridad investigadora competente. Los principios generales de derecho incluyen los principios de legitimación del interés jurídico, debido proceso, reglas de interpretación legal, cuestiones sin validez legal y agotamiento de los recursos administrativos. (21)
-
-(21) TLCAN, Artículo 1904.3.
-
-(I) El Estatuto legal
-
-La metodología zeroing no se encuentra ordenada, incluida, ni referida en estatuto legal alguno. En cambio, el DOC ha aplicado una supuesta metodología zeroing con base en su interpretación del estatuto legal. Conforme a esta interpretación, el DOC determina un margen de dumping para las ventas de un producto a los Estados Unidos, obteniendo el precio promedio de venta del embarque completo. Después determina el promedio ponderado mensual o valor normal del producto. Posteriormente, el DOC consolida el margen de dumping para las ventas por debajo del valor normal, ignorando cualquier referencia de valores de ventas positivas.
-
-El DOC se respalda en la palabra “excede” para reducir a cero las ventas que no estén en dumping. El DOC manifiesta que la ley antidumping define “margen de dumping” como el monto por el cual el valor normal “excede” el precio de exportación o el precio de exportación reconstruido. Su interpretación de la ley dictamina, pues, que su metodología para determinar el margen de dumping no incluirá, por definición, las ventas que no hayan realizado dumping. En otras palabras, dichas ventas son “reducidas a cero” (“zeroed”) para efectos de determinar el “margen de dumping consolidado” que la ley especifica como el numerador en el “margen de dumping promedio ponderado”. El DOC sostiene que las ventas en o por encima del valor normal, solamente necesitan estar reflejadas en el denominador de la proporción, la cual consiste en el “precio de exportación consolidado.” (22)
-
-(22) Memoriales de la Regla 57(2) de Comercio, en 13-14.
-
-Por lo tanto, la pregunta es si el margen de dumping ponderado referido en 19 U.S.C. § 1677 (35), ha sido alcanzado. La simple lectura del estatuto legal requiere que todas las ventas deben ser incluidas en el análisis. No obstante esta clara indicación, el DOC ha interpretado esta disposición de manera que escoge ignorar o reducir a cero ciertas ventas, las que no hayan realizado dumping. Al hacerlo así, ignora su obligación de determinar el valor total consolidado de la mercancía objeto de investigación. La justificación de la interpretación del DOC de la palabra “excede” para excluir las ventas que no hayan realizado dumping, se entiende mejor en el contexto del estatuto legal como un todo.
-
-Las disposiciones legales en materia antidumping de los Estados Unidos se encuentran contenidas en el 19 U.S.C. § 1677, donde las definiciones relevantes establecen lo siguiente:
-
-(35) Margen de dumping; promedio ponderado del margen de dumping
-
-(A) Margen de dumping
-
-El término "margen de dumping" significa el monto por el cual el valor normal excede el precio de exportación o el precio de exportación reconstruido de la mercancía objeto de investigación.
-
-(B) Promedio ponderado del margen de dumping
-
-El término "promedio ponderado del margen de dumping" es el porcentaje que se determina al dividir los márgenes de dumping consolidados determinados para un exportador o productor específico, de los precios de exportación consolidados y precios de exportación reconstruidos consolidados de dicho exportador o productor.
-
-El significado de “margen de dumping” es claro. Es ese porcentaje de la producción total embarcada, que incluye la suma 'consolidada' de los márgenes de dumping por debajo, y los márgenes 'consolidados' por encima del dumping, en la producción total vendida. El significado de margen se vuelve más claro cuando se lee conjuntamente con el término “promedio ponderado del margen de dumping”, el cual es definido como el porcentaje de la suma consolidada de la producción total, que se determina al dividir el margen de dumping consolidado determinado para un exportador o productor específico, de los precios de exportación consolidados y precios de exportación reconstruidos consolidados de dicho exportador o productor. (23) La palabra “consolidado”, en este contexto sólo puede entenderse como que se refiere al todo y nada menos. (24)
-
-(23) 19 U.S.C. § 1677 (35)(B).
-
-(24) El voto mayoritario en Wire Rod, USA-CDA-2006-1904-04 (“Wire Rod”), llegó a la misma conclusión.
-
-La simple lectura del estatuto legal requiere que todas las ventas sean analizadas en el análisis de dumping, ya que dumping refiere a un concepto consolidado. Al indicarle al DOC que analice cantidades consolidadas y compare promedio de ventas, la ley no aprueba una metodología que permita al DOC seleccionar algunas ventas sobre otras en los cálculos de los márgenes de dumping. El texto de la ley requiere que el DOC empleé una metodología que analice todas las ventas. En pocas palabras, la exclusión de los valores de ventas positivas no puede estar sustentado por la definición de cantidades consolidadas.
-
-Esta lectura de la ley se refuerza aún más por el objetivo expresado en los estatutos legales en materia antidumping donde se busca la determinación exacta de los márgenes de dumping. Ignorar las ventas que no hayan realizado dumping, claramente distorsiona los márgenes de dumping al eliminar las ventas que hubieran, por definición, reducido los promedios de dumping. Es precisamente esta distorsión de los márgenes de dumping lo que hace que la interpretación del DOC del estatuto legal, contradiga el Código Antidumping.
-
-Varias resoluciones de la OMC han ahora sostenido que el uso de zeroing es inconsistente con las obligaciones de los EUA bajo el Acuerdo de la OMC. (25) Aunque no son obligatorias para los tribunales Norteamericanos, estas resoluciones sirven como interpretaciones autorizadas disponibles para aclarar las obligaciones que los miembros tienen bajo este Acuerdo. (26) Como tales, sirven como herramientas útiles en la configuración de interpretaciones de estatutos legales internos, de forma que no contravengan las obligaciones internacionales.
-
-(25) Bed Linen, US-Zeroing (Japan), United States-Laws, Regulations and Methodologies for Calculating Dumping Margin (“Zeroing”). WT/DS294/17 (15 de mayo de 2006).
-
-(26) Artículo 3 del DSB [Dispute Settlement Body-Organo de Solución de Diferencias]: Disposiciones Generales:
-
-2. El sistema de solución de diferencias de la OMC es un elemento esencial para aportar seguridad y previsibilidad al sistema multilateral de comercio. Los Miembros reconocen que ese sistema sirve para preservar los derechos y obligaciones de los Miembros en el marco de los acuerdos abarcados y para aclarar las disposiciones vigentes de dichos acuerdos de conformidad con las normas usuales de interpretación del derecho internacional público.
-
-Dado que la interpretación del estatuto legal no es el único asunto planteado ante este Panel, no dejaremos de atender el otro asunto, antes de nuestra orden de devolución. El DOC ha planteado otros argumentos que se dirigen directamente a la jurisdicción de este Panel para resolver el asunto. Estos argumentos están basados en la inaplicabilidad del canon de interpretación legal Charming Betsy. Como tal, este Panel deberá, como asuntos preliminares, atender las afirmaciones del DOC de que Chevron usurpa la doctrina Charming Betsy, que la Ley de Acuerdos de la Ronda Uruguay (27) impide respaldarse en los Informes del Organo de Apelación de la OMC y que el Tribunal Federal de Circuito se ha pronunciado sobre el tema de zeroing en una forma que impide a este Panel el tomar una decisión de devolución al DOC.
-
-(27) 19 U.S.C. §§ 3533 y 3538.
-
-(II) Chevron y Charming Betsy No Se Excluyen Mutuamente
-
-Tanto Chevron como Charming Betsy son pronunciamientos de la Suprema Corte. Ambos son componentes vitales de la ley de los EUA y este Panel no encuentra razón alguna para creer que la Suprema Corte alguna vez pretendió que uno ceda frente al otro. Chevron es un pronunciamiento de la Suprema Corte que le otorga deferencia a las interpretaciones de una autoridad administrativa al interpretar ley administrativa interna. Bajo este estándar, los tribunales realizarán un análisis en dos partes. Primeramente, los tribunales verán si el Congreso se ha pronunciado directamente sobre el asunto en cuestión. Si es así, la interpretación de la autoridad administrativa será confirmada solo si la autoridad administrativa siguió la intención expresa del Congreso. Si el Congreso no se ha pronunciado directamente sobre el asunto en cuestión, entonces la interpretación de la autoridad administrativa será confirmada solo si es una interpretación permisible del estatuto legal. (28)
-
-(28) Chevron; Koyo Seiko Co., Ltd v. United States, 551 F.3d 1286, 1291 (Fed. Cir. 2008).
-
-La deferencia requerida por Chevron no es ilimitada. La autoridad administrativa no puede, bajo el argumento de discrecionalidad, contravenir o ignorar la intención del Congreso. (29) El tribunal en Chevron señaló:
-
-(29) Cabot Corp. v. United States, 694 F.Supp.949, 953 (Ct. Int'l Trade1988).
-
-El poder judicial es la autoridad final en asuntos de interpretación legal y debe rechazar interpretaciones administrativas que sean contrarias a la clara intención del Congreso. (30)
-
-(30) Chevron.
-
-El grado de deferencia, que debe de concederse a la autoridad administrativa, es contingente, inter-alia en el rigor evidente de su consideración. (31) Los tribunales se han manifestado en contra de validar interpretaciones administrativas y han enfatizado que el análisis es suficiente. Mientras que la suficiencia del análisis es determinado por los hechos de cada caso en particular, se ha resuelto que los análisis “relativamente breves” son insuficientes para confirmar una resolución y ordenan su devolución. (32) Los tribunales también han dejado en claro que cuando la autoridad administrativa utiliza una metodología inadecuada, o contraviene la voluntad del Congreso, cualquiera de las conclusiones que deriven de ella, no estarán sustentadas por evidencia sustancial. (33)
-
-(31) Ceramica Regiomontana, 636 F. Supp. en 965 (citando Skidmore v. Swift & Co., 323 U.S. 134, 140(1944)), aff'd, 810 F.2d 1137 (Fed. Cir. 1987).
-
-(32) Usinor v. United States, 2002 Ct. Intl. Trade LEXIS 98 (Ct. Int'l Trade 19 de Julio de 2002).
-
-(33) Gifford-Hill Cement Co. v. United States, 615 F. Supp.557, 582 (Ct. Int'l Trade 1985).
-
-Nuestra revisión no termina con el análisis de Chevron. Una interpretación que concuerde con la prueba Chevron, se encuentra todavía sujeta al canon de interpretación Charming Betsy. Esto es, una interpretación que de alguna forma sea admisible y que pase la prueba Chevron puede, sin embargo, ser contraria a la ley si entra en conflicto con las obligaciones internacionales de EUA. (34)
-
-(34) Ver Debartolo Corp. v. Florida Gulf Coast Bldg and Constr. Trades Council, 485 US 568, 574-75, 108 S. Ct. 1392 (1988).
-
-Jurisprudencia establecida interpreta a Chevron y a Charming Betsy de manera complementaria. Esta jurisprudencia no solo requiere que la interpretación del DOC sea admisible conforme a los estándares de deferencia articulados en Chevron, sino también requiere que dicha interpretación sostenible bajo el canon de interpretación legal Charming Betsy. La Suprema Corte sostuvo, en Charming Betsy:
-
-…[U]n acto del Congreso nunca debe ser interpretado de manera que viole la ley de las naciones si puede ser interpretado de alguna otra manera… (35)
-
-(35) Charming Betsy.
-
-Interpretando Chevron y Charming Betsy de forma complementaria, este Panel está consciente de la recomendación del Tribunal de Comercio Internacional:
-
-La doctrina Charming Betsy puede entrar en conflicto, en determinadas circunstancias, con la deferencia que los tribunales deben a la interpretación de estatutos legales por parte de autoridades administrativas…Sin embargo, los tribunales han sostenido que Chevron debe ser aplicado de conformidad con la doctrina Charming Betsy, cuando esta última se encuentra implicada. (36)
-
-(36) SNR Roulements v US, 341 F.Supp.2d 1334 (Ct. Int'l Trade 2004), en 1342.
-
-Esta doctrina establecida por largo tiempo, no ha sido revocada por la Suprema Corte. De hecho, en la historia reciente, la Suprema Corte ha reafirmado la validez de la doctrina describiendo la relevancia de Charming Betsy como “más allá del debate.” (37) Al dirigirse específicamente al continuo desarrollo de Charming Betsy, la Suprema Corte ha declinado la oportunidad de limitar los alcances de esta doctrina.
-
-(37) Debartolo Corp. v. Florida Gulf Coast Bldg and Constr. Trades Council, 485 US 568, 575, 108 S. Ct. 1392, 99 L. Ed. 2d 645 (1988).
-
-Este Panel no está convencido que la doctrina Charming Betsy sea inaplicable a las circunstancias. Este Panel rechaza, siendo demasiado estrecha una lectura de la jurisprudencia establecida, los argumentos que atentan con distinguir o limitar a la doctrina Charming Betsy en el contexto de casos de comercio, tratados que necesitan ser sancionados o en los casos en los que los Estados Unidos sea parte del litigio. (38) Además, la cuestión de si la doctrina Charming Betsy se encuentra desacreditada a los ojos de la Suprema Corte, en la forma en que se encuentra constituida actualmente, es un caso injustificado de ejercicio de suposiciones que no son materia de este Panel.
-
-(38) Ver, por ejemplo, Federal Mogul Corp. v United States, 63 F.3d 1572 (Fed. Cir. 1995) (“Federal Mogul”) notando que las leyes de comercio no están exentas del principio Charming Betsy.
-
-Uno de los manifiestos para invocar la doctrina Charming Betsy es que la acción por parte de la autoridad administrativa de EUA se encuentra en conflicto con una obligación legal internacional de los EUA. El Tribunal Federal de Circuito ha confirmado que los estatutos legales deben ser interpretados consistentemente con las obligaciones internacionales, siendo ausentes indicaciones en contrario en el lenguaje estatutario o su historia legislativa. (39) El Tribunal Federal de Circuito ha también confirmado que las leyes de comercio no están exentas del principio Charming Betsy. (40) La obligación internacional relevante de los Estados Unidos, en el presente caso, es la obligación de los Estados Unidos bajo el Código Antidumping de hacer “comparaciones justas” al determinar márgenes de dumping. Esta obligación no viene de algún Reporte del DSB [por sus siglas en inglés, Dispute Settlement Body-Organo de Solución de Diferencias], sino del Tratado mismo. Los tribunales han confirmado que las disposiciones obligatorias del Código Antidumping constituyen obligaciones legales internacionales de los Estados Unidos. (41)
-
-(39) Ver Luigi Bormioli Corp. v United States, 304 F.3rd 1362, 1368 (Fed. Cir. 2002) (“Luigi Bormioli”).
-
-(40) Ver Federal Mogul.
-
-(41) Federal Mogul; Luigi Bormioli y The Timken Co. v. United States, 354 F.3d 1334, 1341-42 (Fed.Cir.2004) (“Timken”).
-
-Específicamente, el Tribunal Federal de Circuito ha resuelto que los Acuerdos de la OMC son obligaciones legales internacionales para efectos de la doctrina Charming Betsy. (42) La presunción de que el Congreso determina sus leyes para cumplir con la ley internacional es aún más fuerte en el contexto de las obligaciones de la OMC. La Declaración de Acción Administrativa (“Statement of Administrative Action”) junto con la URAA [por sus siglas en inglés, Uruguay Round Agreements Act-Ley de Acuerdos de la Ronda Uruguay] recalca la intención del Congreso de que la ley antidumping de los EUA sea consistente con las obligaciones del la OMC. “[La URAA fue] planeada para que la ley de los EUA estuviera en total cumplimiento con las obligaciones de los EUA bajo los acuerdos [de la OMC].” (43) La Declaración de Acción Administrativa “es una declaración vinculativa de los Estados Unidos en lo concerniente a la interpretación y aplicación de [los Acuerdos de la OMC y la implementación de leyes] en cualquier procedimiento judicial.” (44)
-
-(42) Ver, Federal Mogul y Luigi Bormioli.
-
-(43) SAA en 669, H.R. Doc. No.103-316 (1994).
-
-(44) 19 U.S.C. § 3512(d).
-
-El DSU [por sus siglas en inglés, Dispute Settlement Understanding-Entendimiento de Solución de Controversias], mismo que ha sido firmado por EUA, hace explícita la comprensión de los miembros del sistema de solución de controversias. Establece:
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO TERCERO.
 
@@ -1474,11 +1244,13 @@ El sistema electrónico de la Licitación 005/2009 generará un reporte que list
 
 La Secretaría, por conducto de la DGCE, publicará en su página de Internet www.economia.gob.mx y en la del Sistema Integral de Información de Comercio Exterior www.siicex.gob.mx, el 18 de septiembre de 2009 el listado de los participantes con cupos adjudicables, el número de lotes adjudicables a cada participante y el precio a pagar por cada lote.
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Acuerdo entrará en vigor 20 días después al de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 30 de junio de 2010.
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-México, D.F., a 5 de febrero de 2010.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
+SEGUNDO.- Se abroga el "Decreto por el que se modifica el artículo 1 del diverso por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, por lo que respecta a las mercancías originarias de los Estados Unidos de América, publicado el 31 de diciembre de 2002", dado a conocer en el Diario Oficial de la Federación el 18 de marzo de 2009.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecisiete de agosto de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ernesto Javier Cordero Arroyo.- Rúbrica.- El Secretario de Economía, Bruno Francisco Ferrari García de Alba.- Rúbrica.
 
 ## TRANSITORIOS
 
