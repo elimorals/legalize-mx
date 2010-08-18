@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2010-03-06"
+last_updated: "2010-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,23 @@ state: "MEX"
 ---
 # LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DEL ESTADO DE MEXICO
 
-LEY DE INGRESOS DEL MUNICIPIO DE SAN MIGUEL SOYALTEPEC, DISTRITO DE TUXTEPEC, OAXACA, PARA EL EJERCICIO FISCAL 2022
+LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE AGOSTO DE 2010.
 
-Ley publicada en la Novena Sección al Número 11 del Periódico Oficial del Estado de Oaxaca, el sábado 12 de marzo de 2022.
+Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+CESAR CAMACHO QUIROZ, Gobernador del Estado Libre y Soberano de México, a sus habitantes sabed:
+
+Que la H. "LIII" Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+
+DECRETO NUMERO 68
+
+LA "LIII" LEGISLATURA DEL ESTADO DE MEXICO
+
+D E C R E T A :
+
+LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
 ## TITULO PRIMERO. De las Disposiciones Generales
 
@@ -281,53 +291,7 @@ Los trabajadores a que se refiere este capítulo tendrán derecho a un aguinaldo
 
 ###### Artículo 42.
 
-El pago de los derechos a que se refiere esta sección, debe hacerse previo a la expedición de las certificaciones y constancias y se pagará conforme a las siguientes cuotas:
-
-Concepto Cuota en Pesos
-
-I. Copias de documentos existentes en los archivos de las
-
-oficinas municipales 12.00
-
-II. Constancia de Residencia
-
-a) Persona Física 50.00
-
-b) Persona Moral 200.00
-
-III. Constancia de buena conducta 50.00
-
-IV. Certificado de posesión 50.00
-
-V. Constancia de vecindad e Identidad 50.00
-
-VI. Constancia de solvencia o insolvencia económica 50.00
-
-VII. Constancia de no adeudo de impuesto predial 50.00
-
-VIII. Integración al Padrón de Proveedores de Bienes y Servicios
-
-a) Inscripción 1,000.00
-
-b) Actualización Anual 700.00
-
-IX. Cancelación de cuenta predial 50.00
-
-X. Constancia de apeo y deslinde 70.00
-
-XI. Certificación de la superficie de un predio 500.00
-
-XII. Certificación de la ubicación de un inmueble 750.00
-
-(NOTA: EL 24 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 59/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE DICIEMBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-XIII. BÚSQUEDA DE DOCUMENTOS EN EL ARCHIVO
-
-MUNICIPAL 30.00
-
-XIV. Demás certificaciones que las disposiciones legales y
-
-reglamentarias definan a cargo del Ayuntamiento. 60.00
+Los procesos de movilidad interestatal de los trabajadores a que se refiere este capítulo se realizarán de conformidad a lo establecido en la cláusula séptima del Convenio celebrado el 18 de mayo de 1992 a que se refiere el artículo 38 de esta ley.
 
 ###### Artículo 43.
 
@@ -521,11 +485,17 @@ Cuando por circunstancias especiales deban aumentarse las horas de trabajo estab
 
 Las horas de trabajo extraordinarias se retribuirán con un cien por ciento más del sueldo que corresponda a las ordinarias, cuando no excedan de nueve. Las excedentes de nueve horas, se pagarán al doscientos por ciento más del sueldo que corresponda a las horas normales de su jornada.
 
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 65.
 
-Las servidoras públicas embarazadas disfrutarán de licencia con goce de sueldo íntegro por un período de 90 días naturales: 30 días antes de la fecha probable del parto y 60 después de éste, o 45 antes y 45 después del mismo, a su elección.
+Las servidoras públicas embarazadas disfrutarán para el parto, de licencia con goce de sueldo íntegro por un período de 90 días naturales y de un período de lactancia, que no excederá de nueve meses, en el cual tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos, o el tiempo equivalente que la servidora pública convenga con el titular de la institución pública o dependencia o su representante.
 
-Durante el período de lactancia, que no excederá de seis meses, las servidoras públicas tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos, o el tiempo equivalente que la servidora pública acuerde con el titular de la institución pública o dependencia o su representante.
+En caso de adopción las servidoras públicas gozarán de una licencia con goce de sueldo íntegro, por un período de 45 días naturales, contados a partir de que se otorgue legalmente la adopción.
+
+Los servidores públicos, disfrutarán de una licencia con goce de sueldo íntegro de 5 días hábiles con motivo del nacimiento de su hijo o de adopción.
+
+A los servidores públicos se les otorgará una licencia con goce de sueldo íntegro, por causa de enfermedad o accidente graves de alguno de sus hijos, cónyuge o concubina o concubinario, previa expedición del certificado médico por parte del Instituto de Seguridad Social del Estado de México y Municipios, el cual determinará los días de licencia. En caso de que ambos padres sean servidores públicos, sólo se concederá la licencia a uno de ellos.
 
 ###### Artículo 66.
 
@@ -559,9 +529,11 @@ Tratándose de los integrantes del Sistema Educativo Estatal, serán considerado
 
 El sueldo es la retribución que la institución pública debe pagar al servidor público por los servicios prestados.
 
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 72.
 
-A trabajo igual, desempeñado en puesto, horario y condiciones de eficiencia, también iguales, corresponde sueldo igual, debiendo ser éste uniforme para cada uno de los puestos que ocupen los servidores públicos.
+A trabajo igual, desempeñado en puesto, horario y condiciones de eficiencia, también iguales y sin distinción de sexo, corresponde sueldo igual, debiendo ser éste uniforme para cada uno de los puestos que ocupen los servidores públicos.
 
 ###### Artículo 73.
 
@@ -669,9 +641,17 @@ IV. Participar en los programas culturales, deportivos y de recreación que se l
 
 V. Asistir a las actividades de capacitación que les permitan elevar sus conocimientos, aptitudes y habilidades para poder acceder a puestos de mayor categoría;
 
-VI. Impartir horas-clase, siempre y cuando los horarios establecidos para el desempeño de las mismas sean compatibles, de acuerdo a lo determinado en las condiciones generales de trabajo o en las disposiciones relativas; y
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
-VII. Los demás que establezca esta ley.
+VI. Impartir horas-clase, siempre y cuando los horarios establecidos para el desempeño de las mismas sean compatibles, de acuerdo a lo determinado en las condiciones generales de trabajo o en las disposiciones relativas;
+
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+VII. Ser respetado en su intimidad, integridad física, psicológica y sexual, sin discriminación por motivo de origen étnico o nacionalidad, género, edad, discapacidad, condición social, condiciones de salud, religión, ideología, preferencia y orientación sexual, estado civil, embarazo, raza, idioma o color de piel; y
+
+> <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
+
+VIII. Los demás que establezca esta ley.
 
 ###### Artículo 87.
 
@@ -821,9 +801,23 @@ XV. Ser condenado a prisión como resultado de una sentencia ejecutoriada;
 
 XVI. Portar y hacer uso de credenciales de identificación no autorizadas por la autoridad competente;
 
-XVII. Sustraer tarjetas o listas de puntualidad y asistencia del lugar destinado para ello, ya sea la del propio servidor público o la de otro, utilizar o registrar asistencia con gafete-credencial o tarjeta distinto al suyo o alterar en cualquier forma los registros de control de puntualidad y asistencia, siempre y cuando no sea resultado de un error involuntario; y
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
-XVIII. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes en lo que al trabajo se refiere.
+XVII. Sustraer tarjetas o listas de puntualidad y asistencia del lugar destinado para ello, ya sea la del propio servidor público o la de otro, utilizar o registrar asistencia con gafete-credencial o tarjeta distinto al suyo o alterar en cualquier forma los registros de control de puntualidad y asistencia; siempre y cuando no sea resultado de un error involuntario;
+
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+XVIII. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes en lo que al trabajo se refiere; e
+
+> <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
+
+XIX. Incurrir en actos de violencia laboral, entendiéndose por éstos los relativos a discriminación, acoso u hostigamiento sexual.
+
+Para los efectos de la presente fracción se entiende por:
+
+A. Acoso sexual, es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos; y
+
+B. Hostigamiento sexual, es el ejercicio del poder, en una relación de subordinación real de la víctima frente a la persona agresora en los ámbitos laboral y/o escolar. Se expresa en conductas verbales o no verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
 
 ###### Artículo 94.
 
@@ -839,7 +833,9 @@ Son causas de rescisión de la relación laboral, sin responsabilidad para el se
 
 I. Engañarlo la institución pública o dependencia en relación a las condiciones en que se le ofreció el trabajo. Esta causa dejará de tener efecto después de 30 días naturales a partir de su incorporación al servicio;
 
-II. Incurrir alguno de sus superiores jerárquicos o familiares de éstos en faltas de probidad u honradez, actos de violencia, hostigamiento, malos tratos u otros análogos, en contra del servidor público, su cónyuge, concubina o concubinario, padres, hijos o hermanos;
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+II. Incurrir alguno de sus superiores jerárquicos o personal directivo, o bien familiares de éstos, en faltas de probidad u honradez, actos de violencia, amenazas, injurias, malos tratos, violencia laboral u otros análogos, en contra del servidor público, su cónyuge, concubina o concubinario, padres, hijos o hermanos;
 
 III. Incumplir la institución pública o dependencia las condiciones laborales y salariales acordadas para el desempeño de sus funciones y las que estipula esta ley;
 
@@ -909,7 +905,9 @@ VI. Que se haya suprimido la plaza y se compruebe ante el Tribunal o la Sala la 
 
 Son obligaciones de las instituciones públicas:
 
-I. Preferir, en igualdad de circunstancias, a los mexiquenses para ocupar cargos o puestos;
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+I. Preferir, en igualdad de circunstancias, a mujeres y hombres mexiquenses para ocupar cargos o puestos;
 
 II. Preferir, en igualdad de condiciones, de conocimientos, aptitudes y antigüedad, a los servidores públicos sindicalizados, respecto de quienes no lo estuvieren, tratándose de puestos que deban ser ocupados por servidores públicos generales;
 
@@ -943,9 +941,15 @@ XV. Elaborar un catálogo general de puestos y un tabulador anual de remuneracio
 
 > <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
 
-XVI. Abstenerse de otorgar remuneración alguna que no se apegue a la normatividad aplicable; e
+XVI. Abstenerse de otorgar remuneración alguna que no se apegue a la normatividad aplicable; e (sic)
 
-XVII. Integrar los expedientes de los servidores públicos y proporcionar las constancias que éstos soliciten para el trámite de los asuntos de su interés en los términos que señalen los ordenamientos respectivos.
+XVII. Integrar los expedientes de los servidores públicos y proporcionar las constancias que éstos soliciten para el trámite de los asuntos de su interés en los términos que señalen los ordenamientos respectivos;
+
+> <small>(ADICIONADA, G.G. 18 DE AGOSTO DE 2010)</small>
+
+XVIII. Abstenerse de solicitar certificado de no embarazo o constancia relativa al mismo a las mujeres que soliciten empleo.
+
+El incumplimiento a lo previsto en el párrafo anterior, por parte de los servidores públicos estatales y municipales, será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
 ### CAPITULO II. Del Sistema de Profesionalización de los Servidores Públicos Generales
 
@@ -2573,7 +2577,7 @@ En la ejecución de los laudos y convenios que han sido elevados a la categoría
 
 Siempre que en ejecución de un laudo o convenio, deba entregarse una suma de dinero o el cumplimiento de un derecho al servidor público, el Presidente cuidará que se le otorgue personalmente.
 
-Los titulares de las instituciones o dependencias y los sujetos a esta ley, se atendrán a lo dispuesto por los laudos y convenios, ordenando, en su caso el pago de las indemnizaciones, sueldos o cualquier prestación en dinero que se determine en ellos, previo el establecimiento de una partida presupuestal específica para la liquidación respectiva.
+Los titulares de las instituciones o dependencias y los sujetos a esta ley, se atendrán a lo dispuesto por los laudos y convenios, ordenando, en su caso el pago de las indemnizaciones sueldos o cualquier prestación en dinero que se determine en ellos, previo el establecimiento de una partida presupuestal específica para la liquidación respectiva.
 
 > <small>(ADICIONADO, G.G. 14 DE AGOSTO DE 2009)</small>
 
@@ -2846,3 +2850,39 @@ SEGUNDO.- Este Decreto entrará en vigor el día dieciocho de agosto de dos mil 
 TERCERO.- Cualquier asunto en trámite se sustanciará hasta su conclusión, de conformidad con lo establecido en las disposiciones vigentes hasta antes de la entrada en vigor del presente Decreto.
 
 CUARTO.- El presente Decreto no se aplicará a las relaciones de trabajo que hubiesen surgido con anterioridad a su entrada en vigor, sujetándose éstas a las disposiciones que se encontraban vigentes al momento de su contratación, salvaguardando sus derechos adquiridos.
+
+G.G. 6 DE MARZO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
+
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos Judiciales de Chalco, Otumba y Texcoco;
+
+Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro. Ixtlahuaca. Sultepec y Temascaltepec;
+
+Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
+
+Hasta, el treinta de septiembre de dos mil once en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
+
+CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
+
+El uno de febrero de dos mil diez en los distritos judiciales de Chalco, Tenango del Valle y Otumba;
+
+El uno de agosto de dos mil diez en los distritos judiciales de Cuautitlán, Ecatepec de Morelos y Nezahualcóyotl;
+
+El uno de febrero de dos mil once en los distritos judiciales de Texcoco y Tlalnepantla;
+
+El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotepec, Ixtlahuaca, Zumpango, Sultepec, Temascaltepec, Tenancingo y Valle de Bravo.
+
+QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 18 DE AGOSTO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
