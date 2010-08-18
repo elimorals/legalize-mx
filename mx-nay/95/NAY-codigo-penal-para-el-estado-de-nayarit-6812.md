@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2010-06-19"
+last_updated: "2010-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2010.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -3521,11 +3521,11 @@ V.- Materiales Electorales.- Son los elementos físicos, como urnas, canceles, m
 
 VI.- Propaganda Electoral.- Al conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones, que durante la precampaña o campaña electoral, según el caso, producen y difunden los partidos políticos, los ciudadanos que participen en los procesos internos de selección, los candidatos registrados y sus simpatizantes con el objeto de presentar las candidaturas.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 386.
 
-Por la Comisión de cualquiera de los ilícitos cometidos en el presente Capítulo, se impondrá además de la pena señalada, la suspensión de derechos políticos por un año.
+Al responsable por la comisión de cualquiera de los ilícitos contenidos en el presente Capítulo, se Impondrá además de la pena señalada, la suspensión de derechos, políticos de 2 a 4 años.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
 
@@ -3533,33 +3533,51 @@ Por la Comisión de cualquiera de los ilícitos cometidos en el presente Capítu
 
 Las multas previstas en este Código se impondrán a razón de días de salario. Para calcular su importe, se tendrá como base el salario mínimo general vigente en el Estado al momento de realizarse la conducta sancionada.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 388.
 
-Se impondrá de veinte a cien días de multa o prisión de tres meses a cinco años, o ambas sanciones a juicio del Juez, a quien:
+Se impondrá de veinte a cien días de multa y prisión de tres meses a cinco años a quien:
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 1993)</small>
 
 I. Proporcione documentos o información falsa al Registro Estatal de Electorales para obtener la credencial o identificación que acredite la ciudadanía;
 
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 1993)</small>
+
 II. Altere en cualquier forma, sustituya, destruya o haga uso indebido del documento que acredita la ciudadanía, que en los términos de la Ley de la materia haya sido expedido y entregado.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
 
 La pena a que se refiere este precepto se incrementará en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro Estatal de Electores, conforme a la Ley de la materia;
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 389.
 
-Se impondrá de diez a cien días de multa o prisión de seis meses a dos años, o ambas sanciones a juicio del Juez, a quien:
+Se impondrá de diez a cien días de multa y prisión de seis meses a dos años a quien:
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 I. Estando impedido por la ley, vote;
 
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 II. Vote más de una vez en una misma elección, o supla a otro elector en la jornada electoral;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 III. Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
 
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 IV. Viole de cualquier manera el secreto del voto al interior de la casilla;
 
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 V. Se presente ante una casilla electoral, portando armas, independientemente de cualquier otro delito que resulte;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 VI. Haga proselitismo el día de los comicios en el interior de las casillas o en el lugar en que se encuentren formados los votantes;
 
@@ -3567,9 +3585,15 @@ VI. Haga proselitismo el día de los comicios en el interior de las casillas o e
 
 VII. Obligue o compela a otro a votar por determinado candidato mediante coacción, violencia física o moral;
 
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 VIII. Obstaculice o interfiera el desarrollo normal de las votaciones, escrutinio, resguardo o traslado de documentos públicos electorales;
 
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 IX. Recoja sin causa prevista por la ley, credenciales de elector de los ciudadanos;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 X. Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto;
 
@@ -3577,27 +3601,41 @@ X. Obtenga o solicite declaración firmada del elector acerca de su intención o
 
 XI. Durante los cinco días previos a la elección y hasta el cierre de las casillas, publique o difunda por cualquier medio, los resultados de encuestas o sondeo de opinión que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos;
 
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 XII. No teniendo carácter de funcionario de casilla se ostente como tal;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 XIII. Obligue a votar por determinado candidato a las personas que se encuentren bajo su autoridad o dependencia económica;
 
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 XIV. Acepte o difunda su candidatura para un cargo de elección popular sin reunir los requisitos de elegibilidad previstos en la Ley Electoral del Estado; y,
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 XV. El día de la jornada electoral organice concentraciones de electores para inducir el voto a favor de determinado partido o candidato.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 A los ministros de culto religioso que, por cualquier medio, en el desarrollo de actos propios de su ministerio induzcan al electorado a votar a favor o en contra de un candidato o partido político, o a la abstención, se les impondrá multa hasta de quinientos días.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 390.
 
-Se impondrá de cincuenta a doscientos días de multa o prisión de uno a seis años, o ambas sanciones a juicio del Juez, al funcionario electoral que:
+Se impondrá de cincuenta a doscientos días de multa y prisión de uno a seis años, al funcionario electoral que:
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 I. Altere en cualquier forma, sustituya, destruya o haga uso indebido de documentos públicos electorales de los Organismos Electorales y del Registro de Electores;
 
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 1993)</small>
+
 II. Se abstenga de cumplir, sin causa justificada con sus obligaciones electorales con perjuicio del proceso;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 1993)</small>
 
 III. Obstruya o violente el desarrollo normal de la votación;
 
@@ -3605,13 +3643,19 @@ III. Obstruya o violente el desarrollo normal de la votación;
 
 IV. Altere los resultados electorales, sustraiga o destruya documentos públicos electorales;
 
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 1993)</small>
+
 V. No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 1993)</small>
 
 VI. En ejercicio de sus funciones ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 VII. Al que instale, abra o cierre dolosamente una casilla fuera de los términos y formas previstas por la Ley, la instale en lugar distinto al legalmente señalado, o impida su instalación sin causa justificada;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 1993)</small>
 
 VIII. Al que expulse de la casilla electoral sin causa justificada a representante de algún Partido Político;
 
@@ -3651,13 +3695,17 @@ XVI. Induzca la realización del escrutinio y computo en lugar distinto al seña
 
 XVII. Altere, expida, sustituya, destruya, o haga mal uso de documentos públicos electorales u archivos oficiales computarizados o relativos al registro de electores que corresponda.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 391.
 
-Se impondrá de cincuenta a cien días de multa o prisión de tres días a cinco años, o ambas sanciones a juicio del Juez, al funcionario partidista que:
+Se impondrá de cincuenta a cien días de multa y prisión de tres días a cinco años, al funcionario partidista que:
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 1993)</small>
 
 I. Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 1993)</small>
 
 II. Realice propaganda electoral mientras cumple sus funciones durante los comicios;
 
@@ -3665,21 +3713,33 @@ II. Realice propaganda electoral mientras cumple sus funciones durante los comic
 
 III. Sustraiga, destruya, altere o haga uso indebido de documentos públicos electorales;
 
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 1993)</small>
+
 IV. Obstaculice el desarrollo normal de la votación o ejerza violencia física o moral sobre los funcionarios electorales;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 1993)</small>
 
 V. Propale dolosamente noticias o informes falsos en torno al desarrollo de la jornada electoral o respecto de los resultados oficiales contenidos en las actas de escrutinio o cómputo; o
 
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 1993)</small>
+
 VI. Impida con violencia la instalación, apertura o cierre de una casilla; o la abra o cierre fuera de los tiempos previstos por la Ley de la materia;
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 392.
 
-Se impondrá de setenta a doscientos días de multa o prisión de tres meses a seis años, o ambas sanciones a juicio del Juez, al servidor público que:
+Se impondrá de setenta a doscientos días de multa y prisión de tres meses a seis años, al servidor público que:
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 1993)</small>
 
 I. Obligue a sus subordinados a emitir sus votos en favor de un Partido Político o candidato;
 
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 1993)</small>
+
 II. Condicione la prestación de un servicio público a la emisión del sufragio en favor de un Partido Político o candidato;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 1993)</small>
 
 III. Destine fondos o bienes que tenga a su disposición en virtud de su cargo, al apoyo de un Partido Político o de un candidato, o proporcione ese apoyo a través de sus subordinados usando el tiempo correspondiente a labores oficiales para que éstos presten servicios a un Partido Político o candidato;
 
@@ -3695,23 +3755,41 @@ V. Teniendo fe pública certifique hechos falsos relativos a la función elector
 
 VI. Se apodere, destruya, retire, borre, suprima, oculte o distorsione la propaganda de algún candidato, partido o planilla, en contravención a las normas de la materia durante el proceso electoral y hasta la jornada electoral.
 
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
 
-Al servidor público, además de las sanciones a que se refiere el presente capítulo, se le destituirá e inhabilitará para ejercer cargos públicos hasta por dos años.
+Al servidor público, además de las sanciones a que se refiere el presente capitulo, se le destituirá e inhabilitará para ejercer cargos públicos hasta por cuatro años.
 
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2010)</small>
 
-ARTICULO 392 BIS.- Se impondrá multa de cien a doscientas veces el salario mínimo diario o prisión de tres meses a tres años, al candidato que:
+ARTICULO 392 BIS.- Se impondrá de cien a quinientos días de multa y prisión de tres meses a tres años, al candidato o precandidato que:
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 I. Fije o haga propaganda electoral en lugares o días no permitidos por la Ley Electoral;
 
-II. Obtenga o utilice fondos provenientes de actividades ilícitas en precampañas o campañas electorales a sabiendas de esta circunstancia;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE AGOSTO DE 2010)</small>
+
+II. Obtenga o utilice fondos provenientes de actividades ilícitas en precampañas o campañas electorales a sabiendas de esta circunstancia o acepte, por si o por Interpósita persona, aportaciones económicas en contravención a lo que dispone la Ley Electoral del Estado, en materia de ·financiamiento privado;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 III. Se exceda en el monto de los topes para gastos de precampaña o campaña establecidos de acuerdo con los criterios legalmente autorizados con anterioridad a la elección;
 
-IV. Obstruya o violente el desarrollo normal de la votación; y,
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE AGOSTO DE 2010)</small>
 
-V. Ejerza presión sobre los electores y los induzca a votar a su favor o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados.
+IV. Obstruya o violente el desarrollo normal de la votación;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE AGOSTO DE 2010)</small>
+
+V. Ejerza presión sobre los electores y los induzca a votar a su favor o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2010)</small>
+
+VI. Utilice a su favor en los actos de precampaña o campaña, los programas o acciones gubernamentales;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2010)</small>
+
+VII. Prepare, organice, participe o realice por motivos electorales, actos violentos que atenten contra el orden público y la paz social antes, durante y después de la jornada electoral.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 1996)</small>
 
@@ -3912,3 +3990,7 @@ Artículo único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 19 DE JUNIO DE 2010.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 18 DE AGOSTO DE 2010.
+
+Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
