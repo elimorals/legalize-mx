@@ -4,7 +4,7 @@ identifier: "NAY-ley-electoral-del-estado-de-nayarit-11598"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-25"
-last_updated: "2007-11-17"
+last_updated: "2010-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY ELECTORAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. EL 18 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 25 de noviembre de 1995.
 
@@ -4038,3 +4040,9 @@ Las disposiciones normativas contenidas en todos aquellos ordenamientos jurídic
 ###### ARTÍCULO OCTAVO.
 
 Por lo que respecta a la disposición contenida en el artículo 74, párrafos cuarto y quinto, relativos a la designación del Presidente y Consejeros Electorales con sus respectivos suplentes, por única vez la Convocatoria será emitida en la última semana del mes (sic) noviembre del año 2007, y la designación deberá realizarla el Congreso antes de la clausura del primer período ordinario de sesiones, correspondiente al tercer año de ejercicio constitucional.
+
+P.O. 18 DE AGOSTO DE 2010.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se abroga el decreto 7890 publicado en el Periódico Oficial, Órgano del Gobierno del Estado de fecha 25 de noviembre de 1995, que contiene la Ley Electoral del Estado de Nayarit.
