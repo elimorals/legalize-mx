@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2010-06-16"
+last_updated: "2010-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -999,6 +999,10 @@ VIII. En general toda persona física o moral de derecho privado, que en virtud 
 
 Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares, personas físicas o morales que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado, o servicios de sistemas de alarmas; deberán obtener la autorización y el registro de la Secretaría para prestar sus servicios.
 
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2010)</small>
+
+En caso de contar con autorización federal, los particulares autorizados deberán cumplir además la regulación que establece la presente Ley y el Reglamento en la materia.
+
 ###### Artículo 60.
 
 Las personas físicas o morales interesadas en prestar el servicio de seguridad privada, deberán sujetarse a los siguientes lineamientos:
@@ -1037,9 +1041,11 @@ Para todo lo relativo a la integración, registro y funcionamiento de los presta
 
 La Secretaría proporcionará en forma periódica al Secretariado Ejecutivo, la información relativa al registro del personal, equipo, información estadística y demás datos relativos a la seguridad privada, a través de los medios tecnológicos previstos por el Sistema Nacional, para efecto de mantener actualizado el padrón y lograr una mejor coordinación en materia de seguridad pública.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 65.
 
-Los elementos prestadores del servicio de seguridad privada contemplados en esta Ley, previo el cumplimiento de los requisitos de ingreso y aprobación de los exámenes de control de confianza previstos en la misma; deberán ser capacitados y certificados por el Colegio en términos del reglamento que rige la materia.
+Los elementos prestadores del servicio de seguridad privada contemplados en esta Ley, dando cumplimiento tanto de los requisitos de ingreso previstos en el Reglamento de la materia de seguridad privada como la aprobación de los exámenes de control de confianza establecidos en la Ley, debiendo ser capacitados y certificados por el Colegio.
 
 ## TÍTULO QUINTO. DEL SERVICIO DE CARRERA EN LA (SIC) INSTITUCIONES DE PROCURACIÓN DE JUSTICIA
 
@@ -1241,9 +1247,11 @@ El ingreso es el procedimiento de integración de los candidatos a la estructura
 
 La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la presente ley para continuar en el servicio activo de las instituciones policiales.
 
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2010) (F. DE E., P.O. 25 DE AGOSTO DE 2010) (F. DE E., P.O. 8 DE SEPTIEMBRE DE 2010)
+
 ###### Artículo 82.
 
-Las instituciones de seguridad pública estatal, municipal y sus auxiliares, incorporarán única y exclusivamente al servicio a quienes cuenten con las certificaciones que emita el Colegio, sometiéndose a un proceso de evaluación y cumpliendo con los requisitos siguientes y los demás que se establezcan en los reglamentos:
+Las instituciones de seguridad pública estatal, municipal y los auxiliares de instituciones públicas, incorporarán única y exclusivamente al servicio a quienes cuenten con las certificaciones que emita el Colegio, sometiéndose a un proceso de evaluación y cumpliendo con los requisitos siguientes y por cuanto hace a los prestadores del servicio de seguridad privada se someterán al reglamento de la materia:
 
 A. De Ingreso:
 
@@ -2547,17 +2555,13 @@ La presente ley entrará en vigor al día siguiente de su publicación en el Per
 
 Se abroga la Ley del Sistema Integral de Seguridad Pública del Estado de Morelos, promulgada y publicada en el Periódico Oficial "Tierra y Libertad" número 4268 el 30 de Julio del 2003, así como todas las disposiciones que se opongan a la presente ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
 
 ###### ARTÍCULO TERCERO.
 
-La Ley Orgánica de la Procuraduría General de Justicia del Estado deberá ajustar su contenido de conformidad con lo establecido en la presente Ley en un plazo de seis meses contados a partir de la entrada en vigor de este ordenamiento.
+La Ley Orgánica de la Procuraduría General de Justicia del Estado deberá ajustar su contenido de conformidad con lo establecido en la presente ley en un plazo de dieciséis meses contados a partir de la entrada en vigor de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2009)</small>
-
-El Consejo de Honor y Justicia a que se refiere el artículo 162 de esta Ley, deberá instalarse en el plazo de dos meses a partir de la entrada en vigor de las reformas a la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos, a que se refiere el párrafo anterior a efecto de aplicar las sanciones que en la misma ley se refieran.
-
-En tanto se ajusta el procedimiento señalado en el párrafo anterior, la Visitaduría seguirá conociendo de los asuntos iniciados contra el personal de la Procuraduría en los términos de la presente ley.
+En tanto se ajusta el procedimiento señalado en el párrafo anterior, la Visitaduría seguirá conociendo de los asuntos iniciados contra el personal de la Procuraduría en los términos de su Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -2603,6 +2607,10 @@ En un plazo que no podrá exceder de un año a partir de la entrada en vigor de 
 
 El término para la aprobación y publicación de dicha ley no podrá exceder de dieciocho meses contados a partir de la entrada en vigor de esta.
 
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2010)</small>
+
+UNDÉCIMO.- El Poder Ejecutivo contará con un plazo de 90 días naturales para la expedición del Reglamento en materia de seguridad privada. En tanto se expide dicho Reglamento permanecerá vigente el Reglamento de los Servicios de Seguridad Privada para el Estado de Morelos, publicado en el periódico oficial "Tierra y Libertad" el 1 de abril de 2009, en todo lo que no se oponga a las disposiciones de la presente Ley.
+
 Recinto Legislativo a los catorce días del mes de julio de dos mil nueve.
 
 ATENTAMENTE. "SUFRAGIO EFECTIVO. NO REELECCIÓN". LOS CC. DIPUTADOS INTEGRANTES DE LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO. DIP. JAIME TOVAR ENRÍQUEZ. PRESIDENTE. DIP. JORGE TOLEDO BUSTAMANTE. VICEPRESIDENTE. DIP. MATÍAS QUIROZ MEDINA. SECRETARIO. DIP. CLAUDIA IRAGORRI RIVERA. SECRETARIA. RÚBRICAS.
@@ -2640,3 +2648,17 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Titular del Poder Ejecutivo del Estado, promoverá el ajuste presupuestal en un periodo no mayor a treinta días por conducto de la Secretaría de Finanzas y Planeación para el efecto de dar cumplimiento al presente decreto.
+
+P.O. 18 DE AGOSTO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo Estatal para los efectos constitucionales y legales correspondientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
