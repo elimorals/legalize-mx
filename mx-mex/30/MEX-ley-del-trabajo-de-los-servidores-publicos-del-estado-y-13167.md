@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2010-03-06"
+last_updated: "2010-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE AGOSTO DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -941,9 +941,15 @@ XV. Elaborar un catálogo general de puestos y un tabulador anual de remuneracio
 
 > <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
 
-XVI. Abstenerse de otorgar remuneración alguna que no se apegue a la normatividad aplicable; e
+XVI. Abstenerse de otorgar remuneración alguna que no se apegue a la normatividad aplicable; e (sic)
 
-XVII. Integrar los expedientes de los servidores públicos y proporcionar las constancias que éstos soliciten para el trámite de los asuntos de su interés en los términos que señalen los ordenamientos respectivos.
+XVII. Integrar los expedientes de los servidores públicos y proporcionar las constancias que éstos soliciten para el trámite de los asuntos de su interés en los términos que señalen los ordenamientos respectivos;
+
+> <small>(ADICIONADA, G.G. 18 DE AGOSTO DE 2010)</small>
+
+XVIII. Abstenerse de solicitar certificado de no embarazo o constancia relativa al mismo a las mujeres que soliciten empleo.
+
+El incumplimiento a lo previsto en el párrafo anterior, por parte de los servidores públicos estatales y municipales, será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
 ### CAPITULO II. Del Sistema de Profesionalización de los Servidores Públicos Generales
 
@@ -2874,3 +2880,9 @@ El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotep
 QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 18 DE AGOSTO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
