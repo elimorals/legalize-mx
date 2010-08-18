@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2010-02-24"
+last_updated: "2010-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2010.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -424,7 +424,7 @@ c) Podrán solicitar que se convoque a Plebiscito:
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-Realizado que sea el plebiscito establecido en esta Constitución, si este fuere aprobado por la proporción de los ciudadanos establecida, el acto o la decisión del Poder Ejecutivo o de los Ayuntamientos, será valida y en su caso, continuará el procedimiento respectivo para perfeccionarla; de no aprobarse, el acto o decisión deberá interrumpirse, sea para no continuarlo y extinguirlo por el medio legal correspondiente, incluyendo su revocación.
+Realizado que sea el plebiscito establecido en esta Constitución, si este fuere aprobado por la proporción de los ciudadanos establecida, el acto o la decisión del Poder Ejecutivo o de los Ayuntamientos, será válida y en su caso, continuará el procedimiento respectivo para perfeccionarla; de no aprobarse, el acto o decisión deberá interrumpirse, sea para no continuarlo y extinguirlo por el medio legal correspondiente, incluyendo su revocación.
 
 II.- Se entiende por Referéndum, el proceso mediante el cual los ciudadanos morelenses, manifiestan su aprobación o rechazo a las reformas, adiciones o derogaciones a la Constitución Política del Estado, a las leyes que expida el Congreso del Estado o a los reglamentos y bandos que emitan los Ayuntamientos.
 
@@ -732,7 +732,7 @@ Nadie puede excusarse de servir el cargo de Diputado, sino por causa bastante ca
 
 ###### Artículo 29.
 
-El cargo de Diputado es incompatible con cualquier otro de la Federación, del Estado o de los Municipios, con sueldo o sin él; pero el Congreso podrá dar licencia a sus miembros para desempeñar el empleo o comisión para que hayan sido nombrados, llamando a los suplentes. Se exceptúan de está prohibición los empleos o comisiones de educación y beneficencia públicas.
+El cargo de Diputado es incompatible con cualquier otro de la Federación, del Estado o de los Municipios, con sueldo o sin él; pero el Congreso podrá dar licencia a sus miembros para desempeñar el empleo o comisión para que hayan sido nombrados, llamando a los suplentes. Se exceptúan de esta prohibición los empleos o comisiones de educación y beneficencia públicas.
 
 ### CAPITULO II.
 
@@ -762,7 +762,9 @@ El Congreso del Estado tendrá cada año dos períodos de sesiones ordinarias, e
 
 El congreso del estado a más tardar el 1 de octubre de cada año recibirá la iniciativa de Presupuesto de Egresos del Gobierno del Estado, para el Ejercicio Fiscal siguiente, así como las Iniciativas de Ley de Ingresos del Estado y de los Ayuntamientos, para su exámen, discusión y aprobación. Cuando el Gobernador inicie su encargo entregará las iniciativas de Ley de Ingresos y de presupuesto de egresos del Gobierno del Estado a más tardar el 15 de noviembre de ese año. Teniendo la obligación el Congreso del Estado de aprobarlas a más tardar el 15 de diciembre de cada año. Los presidentes municipales que inicien su encargo, presentarán al Congreso del Estado, a más tardar el 1 de febrero la Iniciativa de Ley de Ingresos del ejercicio fiscal actual. Teniendo la obligación el Congreso del Estado de aprobarla a más tardar el último día de febrero del año que corresponda. De manera transitoria, se utilizarán los parámetros aprobados para el ejercicio fiscal inmediato anterior de cada ayuntamiento, para los meses de enero y febrero o hasta en tanto la Legislatura apruebe la nueva Ley de Ingresos.
 
-Al aprobar el Congreso el Presupuesto de Egresos del Estado, deberá verificar que se incluyan y, en caso contrario, deberá incluir y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, los organismos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos que formen parte de la Administración Pública Paraestatal, derivadas de empréstitos y de contratos de colaboración público privada durante la vigencia de los mismos. En caso de que, por cualquier circunstancia, se omita incluir y autorizar en el Presupuesto las partidas necesarias y suficientes para cubrir, en su totalidad, el pago de obligaciones derivadas de empréstitos o de contratos de colaboración público privada, se entenderán por incluidas y autorizadas las partidas que hubieren sido autorizadas en el Presupuesto anterior, ajustándose su monto de manera automática en función de las obligaciones contraídas.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
+
+Al aprobar el Congreso el Presupuesto de Egresos del Estado, deberá verificar que se incluyan las remuneraciones de servidores públicos mismas que deberán sujetarse a las bases previstas en el artículo 131 de esta Constitución. Asimismo, deberá verificar que se incluyan y, en caso contrario, deberá incluir y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2009)</small>
 
@@ -772,7 +774,9 @@ A solicitud del Ejecutivo del Estado o del Presidente Municipal, en su caso, pod
 
 La falta de presentación oportuna, en los términos que establece esta Constitución, de la iniciativa de Ley de Ingresos y de Presupuesto de Egresos del Estado y de las iniciativas de Leyes de Ingresos de los Municipios, dará como consecuencia que los ordenamientos en vigor para el ejercicio fiscal en curso continúen vigentes para el ejercicio fiscal siguiente, independientemente de la responsabilidad directa de los titulares de la obligación. En esta misma hipótesis si la omisión persiste para un nuevo ejercicio fiscal, el Congreso por acuerdo de las dos terceras partes de sus integrantes, procederá a la elaboración, discusión y aprobación de la Ley de Ingresos y del Decreto de Presupuesto de Egresos del Estado y de la Ley o Leyes de Ingresos de los Municipios correspondientes, casos en los cuales, dichos ordenamientos iniciarán su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado; si el Congreso del Estado aprecia la negativa del Poder Ejecutivo para ordenar la publicación de los mismos, se ordenará su publicación en la Gaceta Oficial del Poder Legislativo y en uno de los periódicos de mayor circulación en el Estado de Morelos. La omisión en estos términos, dará motivo a la aplicación de las responsabilidades establecidas en esta Constitución y en la ley de la materia.
 
-Para el caso de que el Congreso dejare de aprobar, en los términos de esta Constitución, las Leyes de Ingresos del Estado o de los Municipios, así como el Presupuesto de Egresos del Estado, continuarán rigiendo las Leyes de Ingresos y el Presupuesto de Egresos aprobados para el ejercicio fiscal del año anterior, hasta en tanto éstos se aprueben. En este caso, si en el Presupuesto de Egresos del Estado hubiese recursos aprobados por ser año electoral, se entenderá que sólo se autorizan recursos referentes al último año en el que no hubo elecciones, para el normal funcionamiento de las instituciones electorales y partidos políticos. Asimismo, en caso de que en la Ley de Ingresos del Estado o en las Leyes de Ingresos Municipales correspondientes al ejercicio fiscal del año anterior se hubiesen autorizado montos de endeudamiento y, en su caso, la contratación de empréstitos, dichas autorizaciones no se considerarán renovadas.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
+
+Para el caso de que el Congreso dejare de aprobar, en los términos de esta Constitución, las Leyes de Ingresos del Estado o de los Municipios, así como el Presupuesto de Egresos del Estado, continuarán rigiendo las Leyes de Ingresos y el Presupuesto de Egresos aprobados para el ejercicio fiscal del año anterior, hasta en tanto éstos se aprueben. En todo caso, las Leyes de Ingresos y Presupuesto de Egresos deberán respetar las bases previstas en el artículo 131 de esta Constitución y en las leyes que en la materia expida el Poder Legislativo del Estado. En este caso, si en el Presupuesto de Egresos del Estado hubiese recursos aprobados por ser año electoral, se entenderá que sólo se autorizan recursos referentes al último año en el que no hubo elecciones, para el normal funcionamiento de las instituciones electorales y partidos políticos. Asimismo, en caso de que en la Ley de Ingresos del Estado o en las Leyes de Ingresos Municipales correspondientes al ejercicio fiscal del año anterior se hubiesen autorizado montos de endeudamiento y, en su caso, la contratación de empréstitos, dichas autorizaciones no se considerarán renovadas.
 
 En los casos en que, de acuerdo a lo previsto en este Artículo, el Presupuesto de Egresos del Estado deba continuar vigente no obstante haber sido aprobado para el ejercicio fiscal anterior, las partidas correspondientes al pago de obligaciones derivadas de empréstitos y de contratos de colaboración público privada que hubiesen sido autorizadas en el Presupuesto anterior se ajustarán en su monto, de manera automática, en función de las obligaciones contraídas.
 
@@ -785,6 +789,10 @@ La falta de presentación oportuna, en los plazos que señala esta Constitución
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
 Para la revisión de la cuenta pública, el Congreso del Estado se apoyará en la Auditoría Superior de Fiscalización, en todo caso, cualquier entidad privada que ejerza recursos públicos será sujeta de fiscalización en los términos de esta Constitución y la Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2010)</small>
+
+Los poderes Legislativo, Ejecutivo y Judicial, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de su proyecto de presupuesto, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación del presupuesto de egresos del Estado, establezcan las disposiciones constitucionales y legales aplicables.
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2008)</small>
 
@@ -858,7 +866,7 @@ V.- Fijar los gastos del Estado y establecer las contribuciones necesarias para 
 
 VI.- Legislar sobre todo aquello que la Constitución General de la República no encomiende expresamente al Congreso de la Unión.
 
-VII.- Transladar temporalmente en caso necesario y a iniciativa del Ejecutivo, la residencia de los Poderes del Estado.
+VII.- Transladar (sic) temporalmente en caso necesario y a iniciativa del Ejecutivo, la residencia de los Poderes del Estado.
 
 VIII.- Facultar al Ejecutivo del Estado para que, por sí o por medio de una comisión, ajuste arreglos con los Estados vecinos sobre límites territoriales, reservándose el mismo Congreso la facultad de aprobar o no dichos arreglos, los que, en el primer caso, serán sometidos al Congreso de la Unión, para los efectos del artículo 116 de la Constitución Federal.
 
@@ -930,9 +938,9 @@ b).- Por cada seis días de trabajo, disfrutará el trabajador de un día de des
 
 c).- Los trabajadores gozarán anualmente de dos períodos vacacionales de diez días hábiles y de noventa días de salario como aguinaldo;
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
 
-d).- Los salarios, emolumentos y demás prestaciones para los trabajadores o servidores públicos del Estado, sean sindicalizados, supernumerarios o de confianza, serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuida durante la vigencia de éstos. En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general del Estado.
+d).- Los salarios, emolumentos y demás prestaciones para los trabajadores o servidores públicos del Estado, sean sindicalizados, supernumerarios o de confianza, serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuida durante la vigencia de éstos, sujetándose a lo dispuesto en el artículo 131 de esta constitución y en las leyes respectivas. En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general del Estado;
 
 e).- A trabajo igual corresponderá salario igual sin tener en cuenta el sexo.
 
@@ -1078,7 +1086,7 @@ XLIII.- Resolver las controversias que se susciten entre el Ejecutivo y el Tribu
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2008)</small>
 
-XLlV.- Designar, con el voto de las dos terceras partes de los miembros presentes de la Legislatura, al Auditor Superior de Fiscalización del Congreso del Estado.
+XLIV.- Designar, con el voto de las dos terceras partes de los miembros presentes de la Legislatura, al Auditor Superior de Fiscalización del Congreso del Estado.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1304,7 +1312,7 @@ Son atribuciones de la Diputación Permanente:
 
 I.- Vigilar sobre la observancia de la Constitución y de las leyes y dar cuenta al Congreso en su próxima reunión ordinaria de las infracciones que notare.
 
-II.- Tramitar todos lo asuntos que quedaren pendientes al cerrarse las sesiones del Congreso y los que se reciban durante el receso, hasta dejarlos en estado de resolución.
+II.- Tramitar todos los asuntos que quedaren pendientes al cerrarse las sesiones del Congreso y los que se reciban durante el receso, hasta dejarlos en estado de resolución.
 
 > <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -1638,9 +1646,9 @@ XXXVII.- Previa autorización del Congreso, celebrar contratos de colaboración 
 
 XXXVIII.- Previa autorización del Congreso, afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Estado o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada o de cualesquier otros actos jurídicos relacionados con los mismos.
 
-> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+(REFORMADA, P.O. 18 DE AGOSTO DE 2010) (F. DE E., P.O. 25 DE AGOSTO DE 2010) (F. DE E., P.O. 8 DE SEPTIEMBRE DE 2010)
 
-XXXIX.- Incluir anualmente, dentro de la iniciativa de Presupuesto de Egresos del Estado, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, los organismos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos que formen parte de la Administración Pública Paraestatal, derivadas de empréstitos y de contratos de colaboración público privada.
+XXXIX.- Incluir anualmente, dentro de la iniciativa de Presupuesto de Egresos del Estado, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos estatales, sujetándose a lo dispuesto en el artículo 131 de esta Constitución. Asimismo se deberá incluir la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, los organismos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos que formen parte de la administración pública paraestatal, derivadas de empréstitos y de contratos de colaboración público privada;
 
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
@@ -1854,13 +1862,17 @@ IX.- Por las obligaciones a cargo del Estado, derivadas de empréstitos, garant�
 
 La administración de los ingresos y egresos del Estado estará a cargo de los servidores públicos que determine la Ley Orgánica de la Administración Pública Estatal.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 82.
 
-El pago de las retribuciones señaladas en el Presupuesto se hará con equidad a todos los servidores públicos del Estado.
+El pago de las retribuciones señaladas en el presupuesto se hará con equidad a todos los servidores públicos del Estado y deberán sujetarse a las bases previstas en el artículo 131 de esta constitución, es obligación del secretario de despacho correspondiente, vigilar el cumplimiento de este principio.
 
-Es obligación del Secretario de Despacho correspondiente, vigilar el cumplimiento de este principio.
+El Congreso del Estado, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la ley, y en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se entenderá señalada la que hubiere tenido fijada en el Presupuesto anterior o en la ley que estableció el empleo.
+
+En todo caso, dicho señalamiento deberá respetar las bases previstas en la Constitución Federal, esta Constitución y sus leyes reglamentarias.
+
+Los poderes Legislativo, Ejecutivo y Judicial, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
@@ -2116,9 +2128,9 @@ IV.- Tener a su cargo la administración, vigilancia y disciplina del Poder Judi
 
 V.- Iniciar, a solicitud del pleno del Tribunal Superior de Justicia, investigación sobre la conducta de algún Juez u otro funcionario o empleado del Poder Judicial.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2010)</small>
 
-VI.- Elaborar el presupuesto del Tribunal Superior de Justicia, así como el de los juzgados y demás órganos judiciales e integrar el propuesto por el Tribunal Estatal Electoral, y remitirlo para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
+VI.- Elaborar el presupuesto del Tribunal Superior de Justicia, así como el de los juzgados y demás órganos judiciales e integrar el propuesto por el Tribunal Estatal Electoral, sujetándose a las bases previstas en el artículo 131 de esta constitución y remitirlo para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
 
 VII.- Nombrar y remover, de conformidad con lo establecido en la ley, a los funcionarios y empleados del Poder Judicial, con excepción de los Secretarios de Acuerdos, Secretarios de Estudio y Cuenta y Actuarios del Tribunal Superior de Justicia, cuyo nombramiento y remoción será facultad del pleno y las Salas del Tribunal, según el caso y de acuerdo con lo que la ley establezca.
 
@@ -2226,7 +2238,7 @@ III.- Antes de resolver sobre la controversia, en cuanto al fondo, el Tribunal c
 
 IV.- El Tribunal resolverá las controversias que se le sometan como puntos de mero hecho; se limitará a decidir si el precepto que contiene la resolución de que se trate pugna o no con el artículo constitucional que reclame el Ejecutivo, desentendiéndose de la conveniencia o inconveniencia política o administrativa de la Ley o acto reclamado y de los trámites que haya observado el Congreso al ser presentados y discutidos.
 
-V.- El Tribunal deberá resolver, a mas tardar dentro del termino, de cinco días, contados desde la fecha en que se le hubiere promovido la controversia, atendiendo únicamente al texto expreso de la Constitución, sin interpretar en ningún caso ni usar del arbitrio judicial. La consecuencia única de la declaración del Tribunal, será la subsistencia o nulidad de la Ley o acto reclamado, cuyos efectos estarán suspensos entre tanto. El Procurador General de Justicia tendrá voz en las discusiones.
+V.- El Tribunal deberá resolver, a más tardar dentro del término, de cinco días, contados desde la fecha en que se le hubiere promovido la controversia, atendiendo únicamente al texto expreso de la Constitución, sin interpretar en ningún caso ni usar del arbitrio judicial. La consecuencia única de la declaración del Tribunal, será la subsistencia o nulidad de la Ley o acto reclamado, cuyos efectos estarán suspensos entre tanto. El Procurador General de Justicia tendrá voz en las discusiones.
 
 VI.- Si transcurriere el término a que se refiere la fracción anterior, sin que el Tribunal haga la declaración que corresponda, subsistirán definitivamente la Ley o acto reclamado, sin perjuicio de exigir la responsabilidad en que hubieren incurrido los Magistrados por la omisión del fallo.
 
@@ -2276,7 +2288,7 @@ DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
-Artículo 109 BIS.- La justicia administrativa estatal se deposita en un Tribunal de lo Contencioso Administrativo, dotado de plena jurisdicción y autonomía para dictar sus fallos. ESte órgano jurisdiccional conocerá y resolverá las controversias de carácter administrativo y fiscal, que se susciten entre la administración pública estatal o municipal, sus organismos auxiliares estatales o municipales y los particulares. En ningún caso el Tribunal de lo Contencioso Administrativo será competente para conocer y resolver sobre los actos y resoluciones que dicte la Auditoría Superior de Fiscalización del Congreso del Estado.
+Artículo 109 BIS.- La justicia administrativa estatal se deposita en un Tribunal de lo Contencioso Administrativo, dotado de plena jurisdicción y autonomía para dictar sus fallos. Este órgano jurisdiccional conocerá y resolverá las controversias de carácter administrativo y fiscal, que se susciten entre la administración pública estatal o municipal, sus organismos auxiliares estatales o municipales y los particulares. En ningún caso el Tribunal de lo Contencioso Administrativo será competente para conocer y resolver sobre los actos y resoluciones que dicte la Auditoría Superior de Fiscalización del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -2584,11 +2596,13 @@ Los Ayuntamientos deberán informar detalladamente con relación a los emprésti
 
 El Poder Legislativo del Estado aprobará las Leyes de Ingresos de los Municipios y revisará y fiscalizará sus cuentas públicas en los términos previstos en esta Constitución.
 
-Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles. Las modificaciones que se incorporen a dichos Presupuestos de Egresos, serán siempre antes del ejercicio de los recursos.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 131 de esta Constitución. Las modificaciones que se incorporen a dichos Presupuestos de Egresos, serán siempre antes del ejercicio de los recursos.
 
-Al aprobar los Ayuntamientos los Presupuestos de Egresos Municipales, deberán incluir y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo de los Municipios, los organismos descentralizados municipales, las empresas de participación municipal mayoritaria y los fideicomisos públicos que formen parte de la Administración Pública Paramunicipal, derivadas de empréstitos y de contratos de colaboración público privada. En caso de que, por cualquier circunstancia, se omita incluir y autorizar en el Presupuesto las partidas necesarias y suficientes para cubrir, en su totalidad, el pago de obligaciones derivadas de empréstitos o de contratos de colaboración público privada que, en términos de la legislación aplicable, impliquen obligaciones que constituyan deuda pública, se entenderán por incluidas y autorizadas las partidas que hubieren sido autorizadas en el Presupuesto anterior, ajustándose su monto de manera automática en función de las obligaciones contraídas.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
+
+Al aprobar los Ayuntamientos los Presupuestos de Egresos Municipales, deberán incluir y autorizar las remuneraciones de servidores públicos mismas que deberán sujetarse a las bases previstas en el artículo 131 de esta Constitución. Asimismo, deberán incluir y autorizar la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo de los municipios los organismos descentralizados municipales, las empresas de participación municipal mayoritaria, y los fideicomisos públicos que formen parte de la Administración Pública Paramunicipal, derivadas de empréstitos y de contratos de colaboración público privada. En caso de que, por cualquier circunstancia, se omita incluir y autorizar en el Presupuesto las partidas necesarias y suficientes para cubrir, en su totalidad, el pago de obligaciones derivadas de empréstitos o de contratos de colaboración público privada que, en términos de la legislación aplicables (sic), impliquen obligaciones que constituyan deuda pública, se entenderán por incluidas y autorizadas las partidas que hubieren sido autorizadas en el Presupuesto anterior, ajustándose su monto de manera automática en función de las obligaciones contraídas.
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quien ellos autoricen, en términos de la normatividad aplicable.
 
@@ -2804,9 +2818,27 @@ En el Estado, ningún ciudadano puede desempeñar a la vez dos o más cargos de 
 
 Nunca podrán desempeñarse a la vez por un solo individuo dos o más empleos o cargos públicos del Estado y de los Municipios, por los que se disfrute sueldo, honorarios, gratificación o cualquiera otra ministración de dinero, con excepción de los relativos a los ramos de educación y beneficencias públicas.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 131.
 
-Ningún pago podrá hacerse que no esté comprendido en el Presupuesto respectivo o determinado por la Ley.
+Ningún pago podrá hacerse que no esté comprendido en el presupuesto respectivo o determinado por la Ley.
+
+Los servidores públicos del Estado y de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+
+Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+II. Ningún servidor público podrá recibir remuneración, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado la cual será de 1,817.51 SMV y que este asignado en el presupuesto correspondiente.
+
+III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado en el presupuesto correspondiente.
+
+IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
+
+VI. El Congreso del Estado expedirá las leyes para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
 
 ###### Artículo 132.
 
@@ -3434,7 +3466,7 @@ De igual manera por esta sola ocasión, los Ayuntamientos del Estado de Morelos,
 
 QUINTO.- Para los efectos del artículo 59, cuya vigencia iniciará a partir del 1º de enero del año 2000, el Congreso del Estado de Morelos designará con quince días de anticipación, al ciudadano que como Gobernador interino, asuma el ejercicio del Poder Ejecutivo de la Entidad durante el período comprendido del 18 de mayo al 30 de septiembre del año 2000. El designado deberá satisfacer los requisitos establecidos por los artículos 58 y 60 de esta Constitución.
 
-SEXTO.- Para los efectos de las elecciones que deberán verificarse en el año de 1997 para Diputados y Ayuntamientos en el Estado de Morelos, éstas deberán llevarse a cabo el tercer domingo de marzo del año citado y los órganos electorales se instalarán el día 1º del mes de diciembre de 1996.
+SEXTO.- Para los efectos de las elecciones que deberán verificarse en el año de 1997 para Diputados y Ayuntamientos en el Estado de Morelos, estas deberán llevarse a cabo el tercer domingo de marzo del año citado y los órganos electorales se instalarán el día 1º del mes de diciembre de 1996.
 
 SEPTIMO.- Para los efectos de la distritación prevista en el artículo 24 de esta Constitución, por esta vez, se tomarán en cuenta los datos de población del Instituto Nacional de Estadística, Geografía e Informática.
 
@@ -3953,3 +3985,23 @@ Artículo Primero.- Aprobado que sea el presente en términos del artículo 147 
 Artículo Segundo.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
 Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan al presente.
+
+P.O. 18 DE AGOSTO DE 2010.
+
+PRIMERO.- Aprobado que sea el presente Decreto en términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
+
+SEGUNDO.- Una vez aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de la publicación de la declaratoria correspondiente en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado de Morelos.
+
+TERCERO.- Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los Presupuestos de Egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto.
+
+CUARTO.- A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente decreto, las percepciones de los magistrados y jueces del Poder Judicial del Estado, los Magistrados del Tribunal Estatal Electoral, los Consejeros de la Judicatura del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, el Presidente del Tribunal Estatal de Conciliación y Arbitraje, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, y los Consejeros Electorales que actualmente estén en funciones, se sujetarán a lo siguiente:
+
+a) Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en la fracción II del artículo 131 de la Constitución Política del Estado Libre y Soberano de Morelos, se mantendrán durante el tiempo que dure su encargo.
+
+b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la base II del artículo 131 de la Constitución.
+
+c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
+
+QUINTO.- Las modificaciones que se incorporen a dichos Presupuestos de Egresos, serán siempre antes del ejercicio de los recursos.
+
+SEXTO.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente decreto.
