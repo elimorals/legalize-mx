@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2010-01-04"
+last_updated: "2010-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2010.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -659,17 +659,23 @@ En el período de ejecución, el Poder Ejecutivo del Estado, por conducto del ó
 
 #### SECCION SEGUNDA.- AVERIGUACION PREVIA
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 56.
 
-La averiguación de hechos delictuosos puede incoarse de oficio o por querella necesaria.
+La averiguación de hechos delictuosos puede incoarse de oficio, por querella necesaria o por el informe policial rendido al Ministerio Público de acuerdo con lo previsto en este Código.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 1994)</small>
 
 Artículo 56 BIS.- En las actuaciones de averiguación previa los agentes del Ministerio Público observarán, en lo conducente, las formalidades a que se refieren los artículos 20, 21, 25, 26, 30, 32, 34 y 35 de este Código.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 57.
 
-Se prohíben, en el Estado de Puebla, en la averiguación de los delitos, los medios llamados de pesquisa general y de delación secreta o anónima.
+Tratándose de delitos que se persiguen de oficio, bastará para el inicio de la averiguación el informe que rinda la policía, en el que se hagan del conocimiento de la autoridad investigadora hechos que pudieran ser delictivos, al cual se acompañarán los elementos de que se dispongan y que sean conducentes para la investigación.
+
+Tratándose de informaciones anónimas, el Ministerio Público deberá, con el apoyo de sus auxiliares y de la policía ministerial, verificar los datos aportados, y en su caso, iniciar la averiguación previa correspondiente.
 
 ###### Artículo 58.
 
@@ -687,15 +693,35 @@ Es necesaria la querella de la parte ofendida en los casos expresamente determin
 
 La persona que tenga conocimiento de la comisión de un delito que deba perseguirse de oficio, está obligada a denunciarlo al Ministerio Público.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 61.
 
-Son aplicables a las denuncias y a las querellas, las siguientes disposiciones:
+Son aplicables a las denuncias y querellas, las siguientes disposiciones:
 
-I.- Tanto las denuncias como las querellas pueden formularse oralmente o por escrito.
+I.- Tanto las denuncias como las querellas pueden formularse oralmente, por escrito o por medios electrónicos.
 
-II.- Las denuncias o las querellas formuladas oralmente, se harán constar en acta que levantará el funcionario que las reciba, y serán firmadas por su autor; si éste no supiere escribir, imprimirá su huella digital al pie de la denuncia o de la querella; y, en todo caso, manifestará sus generales, señalando con precisión su domicilio.
+II.- Las denuncias o querellas formuladas oralmente, serán por vía telefónica o por comparecencia.
 
-III.- En las formuladas por escrito, el denunciante o querellante, será citado para que ratifique el escrito; pero no habrá necesidad de la ratificación si el denunciante fuere funcionario público.
+Las formuladas por comparecencia, se harán constar en acta que levantará el servidor público que las reciba, y serán firmadas por su autor; si éste no supiere escribir, imprimirá su huella digital al pie de la denuncia o de la querella; y manifestará sus generales, señalando con precisión su domicilio.
+
+Las formuladas vía telefónica, se harán constar en acta que levantará el servidor público que las reciba y a la misma adjuntará el archivo de voz y datos contenidos en los medios aportados por la ciencia o la técnica, así mismo, el autor manifestará sus generales, señalando con precisión su domicilio;
+
+III.- En las formuladas por escrito, el denunciante o querellante será citado para que ratifique el escrito; cuando se trate de servidores públicos que con motivo de sus funciones conozcan del hecho delictivo, podrán ser citados para ratificar la denuncia o querella.
+
+Tratándose de delitos calificados como no graves, el denunciante o querellante podrá hacer uso del formato único que establezca el Ministerio Público para proporcionar información de los hechos probablemente delictuosos, en el que los describa; y firmará o imprimirá la huella digital al pie del escrito o al margen del acta, ante el Representante Social, y
+
+IV.- En las formuladas por medios electrónicos, el servidor público que las reciba dará fe de su contenido y elaborará el acta, misma que anexará a la averiguación previa al igual que el archivo de voz o datos contenidos en los medios aportados por la ciencia o la técnica y la impresión de la denuncia o querella de que se trate; y otorgará al querellante o denunciante una clave electrónica de acceso que permita el seguimiento de la indagatoria.
+
+Las realizadas vía telefónica o electrónica, deberán ser ratificadas en cualquier momento previo al ejercicio de la acción penal en términos de lo establecido en el presente artículo. Tratándose de las querellas deberán ser ratificadas en un término máximo de quince días hábiles.
+
+El servidor público que conozca de la denuncia o la querella, al momento de la ratificación, deberá asegurarse de la identidad de quien las formula y los requerirá para que se conduzcan bajo protesta de decir verdad.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2010)</small>
+
+###### Artículo 61 Bis.
+
+Cuando la denuncia o querella se realice vía telefónica o por medios electrónicos, el Ministerio Público, hará saber al denunciante o querellante, previo a su declaración, que será objeto de fijación en archivos de voz y datos contenidos en los medios aportados por la ciencia o la técnica, la trascendencia jurídica del acto que realiza y de las penas en que incurre quien se produce falsamente ante las autoridades.
 
 ###### Artículo 62.
 
@@ -721,7 +747,9 @@ En los casos de querella necesaria, antes de practicar las primeras diligencias,
 
 I.- Hacer saber al querellante las sanciones en que incurra si se produce con falsedad;
 
-II.- Asentar los datos necesarios para la identificación del querellante, sobre los cuales se contará, en todo caso, la impresión de la huella digital al pie del escrito o al margen del acta; y,
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2010)</small>
+
+II.- Verificar los datos necesarios para la identificación del querellante, entre los que se contará con la impresión de la huella digital, de la firma al pie del escrito o al margen del acta, o bien, de los archivos de voz y datos del declarante contenidos en los medios aportados por la ciencia o la técnica, y
 
 III.- Comprobar la personalidad del querellante cuando éste no sea el ofendido y comparezca en representación de otra persona.
 
@@ -1457,15 +1485,21 @@ XVI.- Los peritos pueden excusarse por enfermedad u otros motivos, que les impid
 
 XVII.- La excusa de los peritos será calificada por el Juez.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 144.
 
-Cuando el acusado, el ofendido, o el acusador, los testigos o los peritos no hablen el idioma castellano, o fueren mudos o sordos, se aplicarán las siguientes disposiciones:
+Cuando el acusado, el ofendido o el acusador, los testigos o los peritos sean integrantes de pueblos indígenas, no hablen el idioma castellano, o fueren mudos o sordomudos o bien sean incapaces de comunicarse por medios idóneos, se aplicarán las siguientes disposiciones:
 
-I.- El Juez nombrará a uno o dos intérpretes que protestarán reproducir fielmente las preguntas y respuestas que han de transmitir.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2010)</small>
+
+I.- El Juez o Ministerio Público nombrará uno o dos intérpretes que protestarán traducir fielmente las preguntas y respuestas.
 
 II.- Sólo cuando no pueda encontrarse un intérprete mayor de edad, podrá nombrarse a uno de quince años cumplidos cuando menos.
 
-III.- De ser posible, en semejantes casos, se escribirá la declaración original en el idioma del declarante, así como la traducción que haga el intérprete.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2010)</small>
+
+III.- En estos casos se escribirá la traducción que haga el intérprete y se grabará o fijará el archivo de voz y datos del declarante en los medios aportados por la ciencia o la técnica.
 
 IV.- Las partes podrán recusar al intérprete fundando la recusación, y el Juez o la Sala resolverán el incidente de plano y sin ningún recurso.
 
@@ -1585,7 +1619,9 @@ II.- Si resultare que la persona arraigada lo ha sido innecesariamente, tendrá 
 
 III.- No procederá lo dispuesto en la fracción anterior, cuando el arraigo se hubiese decretado a instancia del Ministerio Público.
 
-#### SECCION QUINTA.- PRESUNCIONES
+#### SECCIÓN SEXTA BIS (SIC). ELEMENTOS APORTADOS POR LA CIENCIA O POR LA TÉCNICA
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 163.
 
@@ -1645,9 +1681,35 @@ Cuando se niegue o ponga en duda la autenticidad de un documento, podrá pedirse
 
 El cotejo se hará con documentos indubitables o que las partes reconozcan como tales; con documentos reconocidos judicialmente y con el documento impugnado, en la parte que no hubiere sido tachada de falsa por aquél a quien perjudique la falsedad.
 
-#### SECCION SEXTA.- CATEOS Y VISITAS DOMICILIARIAS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2010)</small>
 
-#### SECCION SEPTIMA.- CONFRONTACION
+#### SECCION QUINTA.- PRESUNCIONES
+
+###### Artículo 172 Bis.
+
+Las comunicaciones entre particulares podrán ser aportadas voluntariamente a la averiguación previa o al proceso penal, cuando hayan sido obtenidas directamente por alguno de los participantes en la misma.
+
+La autoridad judicial competente recibirá las grabaciones o video filmaciones presentadas como prueba por las partes y las agregará al expediente.
+
+Las comunicaciones que obtenga alguno de los participantes con el apoyo de la autoridad, también podrán ser aportadas a la averiguación o al proceso, siempre que conste de manera fehaciente la solicitud previa de apoyo del particular a la autoridad. De ser necesario, la prueba se perfeccionará con las testimoniales o periciales conducentes.
+
+En ningún caso el Ministerio Público o el juez admitirán comunicaciones que violen el deber de confidencialidad que establezca la Ley, ni la autoridad prestará el apoyo a que se refiere el párrafo anterior cuando se viole dicho deber.
+
+No se viola el deber de confidencialidad cuando se cuente con el consentimiento expreso de la persona con quien se guarda dicho deber.
+
+Carecen de todo valor las comunicaciones que sean obtenidas y aportadas en contravención a las disposiciones señaladas en este Código.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2010)</small>
+
+###### Artículo 172 Ter.
+
+La solicitud de intervención de comunicaciones privadas solo procederá en tratándose de delitos calificados como graves y será formulada por el Procurador General de Justicia del Estado ante la autoridad judicial federal que corresponda, cuando se constate la existencia de indicios suficientes que acrediten la probable responsabilidad en la comisión de delitos graves.
+
+El Ministerio Público será responsable de que la intervención se realice en los términos de la autorización judicial. La solicitud de autorización deberá contener los preceptos legales que la funda, el razonamiento por el que se considera procedente, el tipo de comunicaciones, los sujetos y los lugares que serán intervenidos, así como el periodo durante el cual se llevarán a cabo las intervenciones, mismas que no podrán exceder de seis meses; el Ministerio Público sólo podrá volver a solicitar intervenciones cuando acredite nuevos elementos que así lo justifiquen.
+
+El Ministerio Público observará los términos, características, modalidades y límites de la intervención fijados en el auto emitido por la autoridad judicial federal.
+
+#### SECCION SEXTA.- CATEOS Y VISITAS DOMICILIARIAS
 
 ###### Artículo 173.
 
@@ -1691,9 +1753,7 @@ III.- Las declaraciones testimoniales de las personas que intervengan como testi
 
 IV.- La fama pública.
 
-#### SECCION OCTAVA.- CAREOS
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+#### SECCION SEPTIMA.- CONFRONTACION
 
 ###### Artículo 179.
 
@@ -1741,7 +1801,9 @@ II.- Se harán constar en una acta los motivos que ocasionaron la inspección y 
 
 III.- El acta a que se refiere la fracción anterior será firmada por el denunciante y, si no lo hiciere, se expresará el motivo.
 
-#### SECCION NOVENA.- VALOR JURIDICO DE LAS PRUEBAS
+#### SECCION OCTAVA.- CAREOS
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
 ###### Artículo 184.
 
@@ -1791,9 +1853,7 @@ VII.- Se permitirá al declarante mirar detenidamente a las personas de la fila 
 
 VIII.- Cuando sean varios los declarantes o las personas confrontadas, se verificarán tantos actos separados cuantas sean las confrontaciones que hayan de practicarse.
 
-#### SECCION PRIMERA.- DECLARACION PREPARATORIA DEL ACUSADO Y NOMBRAMIENTO DE DEFENSOR
-
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+#### SECCION NOVENA.- VALOR JURIDICO DE LAS PRUEBAS
 
 ###### Artículo 188.
 
@@ -1821,9 +1881,9 @@ VIII.- (DEROGADA, P.O. 1 DE JULIO DE 1994)
 
 IX.- Si los que deban ser careados estuvieren fuera de la jurisdicción del Tribunal, se librará el oficio o el exhorto correspondiente.
 
-#### SECCION SEGUNDA.- AUTO DE FORMAL PRISION O DE LIBERTAD POR FALTA DE MERITOS
+#### SECCION PRIMERA.- DECLARACION PREPARATORIA DEL ACUSADO Y NOMBRAMIENTO DE DEFENSOR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 2002)</small>
+> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
 
 ###### Artículo 190.
 
@@ -1921,7 +1981,9 @@ Los jueces y las Salas, según la naturaleza de los hechos, la prueba de ellos y
 
 ### CAPITULO PRIMERO.- SEGUNDA FASE DE LA AVERIGUACION PREVIA
 
-#### SECCION PRIMERA.- INSTRUCCION
+#### SECCION SEGUNDA.- AUTO DE FORMAL PRISION O DE LIBERTAD POR FALTA DE MERITOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 2002)</small>
 
 ###### Artículo 205.
 
@@ -1971,9 +2033,7 @@ En los casos en que el delito, por no merecer sanción corporal y por merecer sa
 
 El Juez, bajo su más estricta responsabilidad, deberá admitir las pruebas que el acusado o el defensor de éste, ofrezcan dentro del término constitucional; y las diligencias que sean necesarias, según la naturaleza de las pruebas ofrecidas se practicarán dentro del término constitucional.
 
-#### SECCION SEGUNDA.- JUICIO
-
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+#### SECCION PRIMERA.- INSTRUCCION
 
 ###### Artículo 211.
 
@@ -2067,9 +2127,9 @@ Si dentro del término legal no se reúnen los requisitos necesarios para dictar
 
 ### CAPITULO SEGUNDO.- PROCESO DE DEFENSA SOCIAL
 
-#### SECCION TERCERA.- PROCEDIMIENTO RELATIVO A DELITOS QUE MERECEN SANCION MENOR DE SEIS MESES DE PRISION
+#### SECCION SEGUNDA.- JUICIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 2000)</small>
+> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
 
 ###### Artículo 220.
 
@@ -2141,7 +2201,9 @@ II.- El auto de sobreseimiento producirá los mismos efectos que una sentencia a
 
 III.- Cuando las conclusiones sean modificadas, se tomará como base de la acusación, la resolución del Procurador.
 
-#### SECCION CUARTA.- PROCEDIMIENTO RELATIVO A LOS ENFERMOS MENTALES
+#### SECCION TERCERA.- PROCEDIMIENTO RELATIVO A DELITOS QUE MERECEN SANCION MENOR DE SEIS MESES DE PRISION
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 2000)</small>
 
 ###### Artículo 233.
 
@@ -2177,7 +2239,7 @@ XI.- Finalmente, el Juez que presida la audiencia declarará visto el proceso, c
 
 XII.- La declaración precitada surtirá los efectos de citación para sentencia, la cual se pronunciará en seis días.
 
-#### SECCION QUINTA.- PROCEDIMIENTO SUMARIO
+#### SECCION CUARTA.- PROCEDIMIENTO RELATIVO A LOS ENFERMOS MENTALES
 
 ###### Artículo 235.
 
@@ -2209,7 +2271,7 @@ Si las conclusiones del Ministerio Público fueren de no acusación, se sobresee
 
 En los casos a que este Capítulo se refiere, la identificación del acusado se hará sólo si la sentencia definitiva le impone sanción privativa de libertad.
 
-#### SECCION PRIMERA.- SENTENCIA EJECUTORIA
+#### SECCION QUINTA.- PROCEDIMIENTO SUMARIO
 
 ###### Artículo 238.
 
@@ -2267,7 +2329,7 @@ Si, en los casos a que este Capítulo se refiere, sobreviniere la curación del 
 
 La vigilancia del incapacitado estará a cargo de la Autoridad Administrativa, salvo lo que dispone el artículo 61 fracción I del Código de Defensa Social.
 
-#### SECCION SEGUNDA.- RECURSOS DE REVOCACION Y DE REPOSICION
+#### SECCION PRIMERA.- SENTENCIA EJECUTORIA
 
 ###### Artículo 250.
 
@@ -2363,7 +2425,7 @@ El proceso dejará de tramitarse como sumario, tan pronto manifieste el acusado 
 
 ### CAPITULO TERCERO.- SENTENCIA EJECUTORIA Y RECURSOS
 
-#### SECCION TERCERA.- APELACION
+#### SECCION SEGUNDA.- RECURSOS DE REVOCACION Y DE REPOSICION
 
 ###### Artículo 266.
 
@@ -2377,9 +2439,7 @@ III.- La sentencia de segunda instancia;
 
 IV.- Las resoluciones contra las cuales no conceda la ley ningún recurso.
 
-#### SECCION CUARTA.- QUEJA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2004)</small>
+#### SECCION TERCERA.- APELACION
 
 ###### Artículo 267.
 
@@ -2397,7 +2457,9 @@ Interpuesto el recurso en el acto de la notificación o dentro de las veinticuat
 
 Si el Juez o Tribunal admite el recurso, lo resolverá dentro de los tres días siguientes; pero si estima necesario oír a las partes, las citará a una audiencia verbal que se verificará dentro de las cuarenta y ocho horas siguientes, y en la que se dictará la resolución que corresponda, la que no admitirá recurso alguno.
 
-#### SECCION QUINTA.- DENEGADA APELACION
+#### SECCION CUARTA.- QUEJA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 271.
 
@@ -2611,9 +2673,7 @@ III.- Si no alegó las circunstancias probadas en el proceso y que habrían favo
 
 En los casos previstos en el artículo anterior, si el defensor fuere de oficio, la Sala deberá, además, llamarle la atención sobre su negligencia o ineptitud e informar de éstas al superior del defensor.
 
-#### SECCION PRIMERA.- PROCEDIMIENTO EN LAS CUESTIONES DE COMPETENCIA
-
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+#### SECCION QUINTA.- DENEGADA APELACION
 
 ###### Artículo 305.
 
@@ -2671,7 +2731,9 @@ IX.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2004)
 
 X.- La resolución que resuelve el recurso de queja es inatacable.
 
-#### SECCION SEGUNDA.- IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
+#### SECCION PRIMERA.- PROCEDIMIENTO EN LAS CUESTIONES DE COMPETENCIA
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
 
 ###### Artículo 307.
 
@@ -2705,7 +2767,7 @@ X.- Si la apelación se declarare admisible, se prevendrá por oficio al Juez qu
 
 ### CAPITULO CUARTO.- INCIDENTES
 
-#### SECCION TERCERA.- SUSPENSION DEL PROCEDIMIENTO
+#### SECCION SEGUNDA.- IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
 ###### Artículo 309.
 
@@ -2731,7 +2793,7 @@ En los casos a que se refiere el artículo 18, recibido en la Sala el testimonio
 
 Evacuado el trámite a que se refiere el artículo anterior, dentro de dos días, la Sala dictará la resolución que corresponda, e inmediatamente enviará el testimonio de la misma, al Juez que niegue la inhibición, para que cumpla aquélla.
 
-#### SECCION CUARTA.- ACUMULACION DE PROCESOS
+#### SECCION TERCERA.- SUSPENSION DEL PROCEDIMIENTO
 
 ###### Artículo 314.
 
@@ -2797,7 +2859,7 @@ IV.- Si la causa de la excusa no fuere notoria, la Sala recibirá dentro de tres
 
 Lo dispuesto en los artículos 314 a 318, respecto a los jueces y magistrados, es aplicable a los secretarios, diligenciarios y peritos nombrados por la Autoridad Judicial; pero la recusación o la excusa, en estos casos será calificada por el Juez o por el Magistrado Ponente del Juzgado o Sala que conozca del negocio, en que se promueva la excusa o recusación.
 
-#### SECCION QUINTA.- INCIDENTES NO ESPECIFICADOS
+#### SECCION CUARTA.- ACUMULACION DE PROCESOS
 
 ###### Artículo 320.
 
@@ -2847,9 +2909,7 @@ Cuando el Tribunal de Apelación tuviere noticia que se ha suspendido indebidame
 
 La resolución que se dicte a petición del acusado, en el supuesto previsto en las fracciones II y III del artículo 320, será apelable sin suspensión.
 
-#### SECCION SEXTA.- LIBERTAD BAJO CAUCION
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+#### SECCION QUINTA.- INCIDENTES NO ESPECIFICADOS
 
 ###### Artículo 326.
 
@@ -2961,7 +3021,9 @@ No procede la acumulación de los procesos que se sigan ante Tribunales o Juzgad
 
 La Sala o el Juez que primero pronuncie sentencia ejecutoria la comunicara al otro Juez o Sala, los que al fallar tendrán presente lo dispuesto en el Código de Defensa Social para los casos de acumulación y reincidencia.
 
-#### SECCION SEPTIMA.- LIBERTAD POR DESVANECIMIENTO DE DATOS
+#### SECCION SEXTA.- LIBERTAD BAJO CAUCION
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 349.
 
@@ -2977,7 +3039,7 @@ IV.- Si el Juez lo creyere conveniente o alguna de las partes lo pidiere, citar�
 
 V.- Durante el término a que se refiere la fracción anterior, así como en la audiencia, se recibirán las pruebas. Concurran o no las partes, el Juez fallará desde luego el incidente, y contra el fallo que se dicte procede apelación, sin que este recurso suspenda el procedimiento.
 
-#### SECCION PRIMERA.- DISPOSICIONES GENERALES
+#### SECCION SEPTIMA.- LIBERTAD POR DESVANECIMIENTO DE DATOS
 
 ###### Artículo 350.
 
@@ -3201,7 +3263,7 @@ II.- Cuando el acusado sea absuelto; y
 
 III.- Cuando sea condenado el acusado y se presente a cumplir su condena.
 
-#### SECCION SEGUNDA.- REVISION EXTRAORDINARIA
+#### SECCION PRIMERA.- DISPOSICIONES GENERALES
 
 ###### Artículo 378.
 
@@ -3243,9 +3305,7 @@ La resolución que conceda o niegue la libertad a que se refiere este Capítulo,
 
 ### CAPITULO QUINTO.- EJECUCION DE LA SENTENCIA
 
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+#### SECCION SEGUNDA.- REVISION EXTRAORDINARIA
 
 ###### Artículo 384.
 
@@ -3289,9 +3349,9 @@ En las sentencias condenatorias, se prevendrá que se amoneste al reo para que n
 
 En la sanción de prisión que imponga una sentencia, se computará el tiempo de la prisión preventiva.
 
-#### SECCION SEGUNDA. PROCEDIMIENTO
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 390.
 
@@ -3347,9 +3407,9 @@ La apelación interpuesta por el ofendido o su representante en los casos establ
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-#### SECCION TERCERA. CONVENIO
+#### SECCION SEGUNDA. PROCEDIMIENTO
 
-> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 395.
 
@@ -3398,6 +3458,10 @@ VII.- Legalidad.- Sólo pueden ser objeto de mediación, los conflictos derivado
 VIII.- Honestidad.- El mediador debe excusarse de participar en una mediación o dar por terminada la misma si, a su juicio, cree que tal acción será a favor de los intereses de los mediados.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+#### SECCION TERCERA. CONVENIO
+
+> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 398.
 
@@ -3672,3 +3736,9 @@ PRIMERO.- Se derogan las disposiciones legales que se opongan al presente Decret
 SEGUNDO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Los asuntos que a la fecha se encuentran patrocinados por un defensor social o de oficio, se entenderá ahora por éstos a los Defensores Públicos.
+
+P.O. 18 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
