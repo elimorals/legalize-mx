@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-melate-revancha-de-pronosticos-para-31949
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2010-01-29"
+last_updated: "2010-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31949&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2010.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -319,7 +319,9 @@ El total para premiación asignado a cada una de las categorías se prorrateará
 
 Cuando en un sorteo no hubiere combinación ganadora a primer lugar, el premio asignado a esta categoría incrementará en su totalidad el monto del premio al primer lugar del siguiente sorteo de Melate, y si en éste tampoco la hubiere se seguirá el mismo procedimiento, y así sucesivamente, hasta que hubiere combinación ganadora en esta categoría de premiación.
 
-De no haber combinación ganadora al segundo lugar lo asignado a esta categoría acrecentará en su totalidad el premio al tercer lugar.
+> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+De no haber combinación ganadora al segundo lugar, lo asignado a esta categoría acrecentará en su totalidad el premio al primer lugar.
 
 De no haber combinación ganadora al tercer lugar lo asignado a esta categoría acrecentará en su totalidad el premio asignado al cuarto lugar.
 
@@ -617,6 +619,206 @@ Para efecto del pago de premios de la modalidad de Revancha aplican los artícul
 
 En los términos establecidos por el artículo 26o. del presente reglamento, el derecho para solicitar la devolución del importe del boleto que, por cualquier circunstancia, no hubiere participado en el sorteo respectivo prescribirá en un plazo de 1 año contando a partir del siguiente día de la fecha de celebración del sorteo a que se refiere el artículo 34o. El importe de las devoluciones no reclamadas incrementará los recursos de Pronósticos.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+### Capítulo X. Disposiciones generales de Revanchita
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+Artículo 47o (sic).- Se denomina Revanchita, al sorteo de números que realiza Pronósticos, mediante la selección aleatoria de 6 (seis) números de un universo de 56 (cincuenta y seis), al que únicamente se tiene derecho a participar y en su caso, a obtener el premio que se determine en términos de este Reglamento, con la compra de una o más participaciones para los sorteos Melate y Revancha. Asimismo para participar en Revanchita, se requerirá de un pago adicional al establecido para los sorteos mencionados.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 48o.
+
+Se participará en el sorteo Revanchita, con los mismos números seleccionados para el sorteo Melate.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+### Capítulo XI. De los procedimientos para participar en Revanchita
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 49o.
+
+El participante además de observar los procedimientos para participar en Melate, que señalan los artículos 4o. al 13o. de este reglamento, en el volante que emite Pronósticos, marcará su opción de participar en Revancha y en Revanchita.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+### Capítulo XII. De las Ceremonias y Asignación de Premio
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 50o.
+
+Todas las ceremonias se verificarán en un lugar público, al cual se tendrá libre acceso.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 51o.
+
+El día y hora fijados para la ceremonia, en presencia del Inspector designado por la Secretaría de Gobernación, del representante del Director General de Pronósticos, de un representante de la Subdirección General de Informática y otro de la Subdirección de Concursos y Sorteos, se procederá conforme a lo siguiente:
+
+I. Se introducirán en una urna 56 (cincuenta y seis) esferas similares en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 56 (cincuenta y seis).
+
+II. Se efectuará el cierre de ventas, con la finalidad de inhibir el ingreso de nuevas participaciones en el Sistema de Cómputo Central e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo; a este archivo el Sistema de Cómputo Central le asignará una firma electrónica que garantiza su integridad.
+
+III. La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Subdirección General de Informática entregará al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Organo Interno de Control.
+
+IV. Se seleccionarán aleatoriamente 6 (seis) esferas, cuyos números integrarán la combinación de números ganadora.
+
+V. El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo en el Sistema de Cómputo Central, será grabado en un dispositivo de almacenamiento de datos y depositado en la caja de seguridad a que se refiere la fracción III del presente artículo, por el responsable designado por la Subdirección General de Informática.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 52o.
+
+Concluida la ceremonia y determinada la combinación ganadora, en presencia de los Servidores Públicos mencionados en el artículo 51, se procederá a efectuar la identificación de las combinaciones que hayan acertado a los números sorteados y sean ganadores, conforme a lo establecido en el artículo 55o. del presente Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 53o.
+
+El Director General de Pronósticos hará la designación de su representante, de entre aquellos Servidores Públicos que ocupen hasta el cuarto nivel jerárquico inferior al de Director General.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 54o.
+
+Se considera fondo de cada sorteo el valor conjunto de todas las participaciones que hayan sido captadas, controladas, registradas y aseguradas en el Sistema de Cómputo Central, para los efectos de su participación en el sorteo.
+
+Dicho fondo se aplicará como sigue:
+
+Hasta un 10% a los agentes como comisión por las ventas que realicen.
+
+Un 55% se destinará a la premiación de los participantes ganadores.
+
+De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la Entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar las Reservas, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 55o.
+
+Para ganar en Revanchita el participante deberá acertar a las 6 (seis) esferas seleccionadas aleatoriamente.
+
+Los boletos que hayan obtenido premio originado a través de una Combinación Múltiple en Porción de 8 (ocho), les corresponderá una quinta parte del total de dicho premio.
+
+Los boletos que hayan obtenido premio originado a través de una Combinación Múltiple en Porción de 9 (nueve), les corresponderá una sexta parte del total de dicho premio.
+
+Los boletos que hayan obtenido premio originado a través de una Combinación Múltiple en Porción de 10 (diez), les corresponderá una séptima parte del total de dicho premio.
+
+Los boletos que hayan obtenido premio originado a través de una Combinación de Coperacha, les corresponderá una quinta parte del total de dicho premio.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 56o.
+
+Cuando en un sorteo no hubiere combinación ganadora a primer lugar, el premio asignado a esta categoría incrementará el premio a primer lugar del siguiente sorteo del Sorteo de Revanchita, de conformidad con las autorizaciones que para tal efecto haya emitido el Consejo Directivo.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 57o.
+
+Concluida la ceremonia e identificadas las combinaciones ganadoras, se levantará acta en la que se harán constar los antecedentes del sorteo, sus resultados y cualquier incidente que ocurriere durante el mismo. Dicha acta se elaborará con la participación del Inspector designado por la Secretaría de Gobernación y de los Servidores Públicos mencionados en el artículo 51o. de este Reglamento, quienes deben intervenir y suscribir el documento, para todos los efectos legales.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 58o.
+
+Si por caso fortuito o fuerza mayor no acudiera al evento el inspector designado por la Secretaría de Gobernación, se llevará a cabo el sorteo en presencia de un Fedatario Público, en compañía de los Servidores Públicos mencionados en el artículo 51o. del presente Reglamento. Dicha acta la entregarán firmada a la Dirección General Adjunta de Juegos y Sorteos de la Secretaría de Gobernación, dentro de los tres días hábiles siguientes.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 59o.
+
+Pronósticos publicará en medios de comunicación masiva, a más tardar al día siguiente de aquél en que se hubiere verificado el sorteo, la combinación de números ganadora y el importe del premio correspondiente; asimismo, los interesados podrán consultar la combinación oficial ganadora a través de las terminales y/o la línea telefónica del conmutador y/o sitio web, todos de Pronósticos.
+
+Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+### Capítulo XIII. De las reclamaciones
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 60o.
+
+Dentro de los cinco días hábiles siguientes a la publicación de los resultados del sorteo, el participante que tenga interés directo podrá impugnar los resultados mediante la presentación de escrito de inconformidad ante Pronósticos, en el que deberá incluir los datos personales del solicitante conforme a lo establecido en el artículo 12 del “Acuerdo que establece los datos, documentos y formatos de los trámites de Pronósticos para la Asistencia Pública”, publicado en el Diario Oficial de la Federación el 9 de febrero de 2007, además de exponer las razones de la impugnación, acompañando dicho escrito con los documentos en que funde y motive su reclamación, debiendo presentar una identificación oficial vigente al momento de ingresar dichos documentos.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 61o.
+
+Las reclamaciones relacionadas con la impugnación del resultado serán resueltas por la Comisión Dictaminadora de Reclamaciones, la cual está integrada por los siguientes servidores públicos de Pronósticos: el Director General, quien la presidirá; el Coordinador Técnico y Jurídico, que fungirá como Secretario; los titulares de la Subdirección General de Administración y Finanzas, de la Subdirección General de Ventas, de la Subdirección General de Mercadotecnia, y de la Subdirección General de Informática.
+
+La Comisión Dictaminadora de Reclamaciones sesionará ante la presencia de un inspector de la Secretaría de Gobernación a efecto de validar las resoluciones.
+
+El Presidente de la Comisión Dictaminadora de Reclamaciones será suplido en su ausencia por el Secretario de la propia Comisión.
+
+El Secretario y los demás miembros de la Comisión serán suplidos por servidores públicos del nivel jerárquico inmediato inferior adscrito a la unidad administrativa de aquél a quien se representa.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 62o.
+
+La Comisión Dictaminadora de Reclamaciones deberá reunirse en la fecha, lugar y hora que señale su Presidente, y aceptará o desechará las impugnaciones de resultados que se presenten, determinando en su caso la procedencia de las mismas, lo cual deberá ocurrir, a más tardar, dentro de los treinta días hábiles posteriores a la fecha de recepción del escrito de impugnación.
+
+Las resoluciones se tomarán por mayoría de votos de los integrantes de la Comisión y serán definitivas.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 63o.
+
+La Comisión Dictaminadora de Reclamaciones a través de quien ésta designe, notificará por escrito al reclamante la resolución correspondiente dentro de los diez días hábiles siguientes al de su emisión.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 64o.
+
+Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisión Dictaminadora de Reclamaciones acordará el pago que corresponda, en su caso, con cargo al fondo de reserva.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+### Capítulo XIV. De los Agentes Autorizados
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 65o.
+
+Los Agentes Autorizados se encuentran obligados a observar lo establecido en el presente Reglamento y demás disposiciones aplicables.
+
+Las omisiones, errores o faltas imputables a los Agentes Autorizados o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+### Capítulo XV. Del pago de Premios
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 66o.
+
+El pago del Premio se efectuará contra la presentación y entrega material del Boleto o al titular del derecho. Al efectuar el pago se descontará y retendrá el importe de los impuestos que fijen las leyes respectivas.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 67o.
+
+Los acreedores a un premio, podrán cobrar su importe en las Oficinas Generales de Pronósticos, en las Instituciones u Organismo que éste señale y que se harán del conocimiento del público, así como ante cualquier agente autorizado, de conformidad a lo establecido en el artículo 11 del “Acuerdo que establece los datos, documentos y formatos de los trámites de Pronósticos para la Asistencia Pública”.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 68o.
+
+El pago de los Premios sólo podrá suspenderse por orden expresa de la autoridad judicial; sin embargo, Pronósticos podrá negarse a cubrir el importe de los premios cuando los datos consignados en el boleto, no coincidan íntegramente con los de sus registros, y/o carezcan de los datos a que refiere el artículo 11 de este Reglamento, se encuentren mutilados, alterados o maltratados en forma tal que haga imposible la comprobación de su legitimidad o autenticidad.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### Artículo 69o.
+
+El término de caducidad del derecho para cobrar un premio de Revanchita, es de sesenta días naturales, contados a partir del día siguiente al de la ceremonia del mismo.
+
+El importe de los premios caducos se agregará al fondo de reserva para que posteriormente, con la aprobación del Consejo Directivo de Pronósticos y de acuerdo a los resultados de los estudios actuariales que se realicen para determinar, en su caso, los excedentes de acumulación en el saldo de la misma, se incluyan en los resultados de Pronósticos como otros ingresos y formen parte del cálculo de la determinación de las utilidades que se enteran a la Tesorería de la Federación para beneficio de la asistencia pública.
+
 ## Transitorios
 
 Primero.- Este reglamento entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -712,3 +914,7 @@ D.O.F. 29 DE ENERO DE 2010.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
+
+D.O.F. 19 DE AGOSTO DE 2010.
+
+UNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
