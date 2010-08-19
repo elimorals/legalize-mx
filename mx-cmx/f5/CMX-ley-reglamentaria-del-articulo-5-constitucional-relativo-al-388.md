@@ -4,7 +4,7 @@ identifier: "CMX-ley-reglamentaria-del-articulo-5-constitucional-relativo-al-388
 country: "mx"
 rank: "ley"
 publication_date: "1945-05-26"
-last_updated: "1993-12-22"
+last_updated: "2010-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=388&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1944-12-30"
 
 LEY REGLAMENTARIA DEL ARTICULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2010.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el sábado 26 de mayo de 1945.
 
@@ -210,9 +210,15 @@ XI.- Anotar los datos relativos a las universidades o escuelas profesionales ext
 
 XII.- Publicar, en el mes de enero de cada año, la lista de los profesionistas titulados en los planteles de preparación profesional durante el año anterior;
 
-XIII.- Proporcionar a los interesados informes en asuntos de la competencia de la Dirección, y
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-XIV.- Las demás que le fijen las leyes y reglamentos.
+XIII.- Proporcionar a los interesados informes en asuntos de la competencia de la Dirección;
+
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+XIV.- Integrar y mantener una base de datos actualizada con la información señalada en las fracciones II, V y VII de este artículo, misma que deberá ser compartido en los términos de la Ley General del Sistema Nacional de Seguridad Pública, y
+
+XV.- Las demás que le fijen las leyes y reglamentos.
 
 ### CAPITULO V. Del ejercicio profesional
 
@@ -731,3 +737,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
 
 ...
+
+D.O.F. 19 DE AGOSTO DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las acciones que, en su caso, deba realizar la Secretaría de Educación Pública para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
