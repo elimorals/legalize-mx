@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2010-07-02"
+last_updated: "2010-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -130,7 +130,11 @@ XIV Bis.- Promover y fomentar la lectura y el libro;
 
 > <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2009)</small>
 
-XV.- Difundir los derechos y deberes de niños, niñas y adolescentes y las formas de protección con que cuentan para ejercitarlos.
+XV.- Difundir los derechos y deberes de niños, niñas y adolescentes y las formas de protección con que cuentan para ejercitarlos;
+
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+XVI.- Realizar acciones educativas y preventivas a fin de evitar que se comentan (sic) ilícitos en contra de menores de dieciocho años de edad o de personas que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE ABRIL DE 2009)</small>
 
@@ -228,21 +232,25 @@ V.- Fijar lineamientos generales para el uso de material educativo para la educa
 
 VI.- Regular un sistema nacional de formación, actualización, capacitación y superación profesional para maestros de educación básica;
 
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+VII.- Realizar en forma periódica y sistemática, exámenes de evaluación para certificar que las y los educadores y autoridades educativas son personas aptas para relacionarse con las y los educandos y que su trato corresponda al respeto de los derechos consagrados en la Constitución, los Tratados Internacionales ratificados por el Estado Mexicano y demás legislación aplicable de las niñas, niños y adolescentes;
+
 > <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
-VII.- Fijar los requisitos pedagógicos de los planes y programas de educación inicial que, en su caso, formulen los particulares;
+VIII.- Fijar los requisitos pedagógicos de los planes y programas de educación inicial que, en su caso, formulen los particulares;
 
-VIII.- Regular un sistema nacional de créditos, de revalidación y de equivalencias, que faciliten el tránsito de educandos de un tipo o modalidad educativo a otro;
+IX.- Regular un sistema nacional de créditos, de revalidación y de equivalencias, que faciliten el tránsito de educandos de un tipo o modalidad educativo a otro;
 
-IX.- Llevar un registro nacional de instituciones pertenecientes al sistema educativo nacional;
+X.- Llevar un registro nacional de instituciones pertenecientes al sistema educativo nacional;
 
-X.- Fijar los lineamientos generales de carácter nacional a los que deban ajustarse la constitución y el funcionamiento de los consejos de participación social a que se refiere el capítulo VII de esta Ley;
+XI.- Fijar los lineamientos generales de carácter nacional a los que deban ajustarse la constitución y el funcionamiento de los consejos de participación social a que se refiere el capítulo VII de esta Ley;
 
-XI.- Realizar la planeación y la programación globales del sistema educativo nacional, evaluar a éste y fijar los lineamientos generales de la evaluación que las autoridades educativas locales deban realizar;
+XII.- Realizar la planeación y la programación globales del sistema educativo nacional, evaluar a éste y fijar los lineamientos generales de la evaluación que las autoridades educativas locales deban realizar;
 
-XII.- Fomentar, en coordinación con las demás autoridades competentes del Ejecutivo Federal, las relaciones de orden cultural con otros países, e intervenir en la formulación de programas de cooperación internacional en materia educativa, científica, tecnológica, artística, cultural, de educación física y deporte, y
+XIII.- Fomentar, en coordinación con las demás autoridades competentes del Ejecutivo Federal, las relaciones de orden cultural con otros países, e intervenir en la formulación de programas de cooperación internacional en materia educativa, científica, tecnológica, artística, cultural, de educación física y deporte, y
 
-XIII.- Las necesarias para garantizar el carácter nacional de la educación básica, la normal y demás para la formación de maestros de educación básica, así como las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
+XIV.- Las necesarias para garantizar el carácter nacional de la educación básica, la normal y demás para la formación de maestros de educación básica, así como las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
 ###### ARTICULO 13.
 
@@ -446,6 +454,10 @@ Sin menoscabo de lo señalado en los párrafos anteriores, las instituciones a q
 
 Las autoridades educativas darán a conocer a los maestros, alumnos, padres de familia y a la sociedad en general, los resultados de las evaluaciones que realicen, así como la demás información global que permita medir el desarrollo y los avances de la educación en cada entidad federativa.
 
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+Lo contemplado en la presente sección, incluye también las evaluaciones señaladas en la fracción VII del artículo 12 de la presente Ley.
+
 ### CAPITULO III. DE LA EQUIDAD EN LA EDUCACION
 
 ###### ARTICULO 32.
@@ -573,6 +585,10 @@ La educación especial incluye la orientación a los padres o tutores, así como
 ###### ARTICULO 42.
 
 En la impartición de educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+En caso de que las y los educadores así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de las y los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
 > <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2006)</small>
 
@@ -720,6 +736,10 @@ III.- Con planes y programas de estudio que la autoridad otorgante considere pro
 
 Las autoridades educativas publicarán, en el órgano informativo oficial correspondiente, una relación de las instituciones a las que hayan concedido autorización o reconocimiento de validez oficial de estudios. Asimismo publicarán, oportunamente y en cada caso, la inclusión o la supresión en dicha lista de las instituciones a las que otorguen, revoquen o retiren las autorizaciones o reconocimientos respectivos.
 
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+De igual manera indicarán en dicha publicación, los nombres de los educadores que califiquen de manera idónea, en las evaluaciones contempladas en la fracción VII del artículo 12 de la presente Ley.
+
 Los particulares que impartan estudios con autorización o con reconocimiento deberán mencionar en la documentación que expidan y en la publicidad que hagan, una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgó.
 
 ###### ARTICULO 57.
@@ -806,11 +826,17 @@ II.- Participar a las autoridades de la escuela en la que estén inscritos sus h
 
 III.- Colaborar con las autoridades escolares para la superación de los educandos y en el mejoramiento de los establecimientos educativos;
 
-> <small>(F. DE E., D.O.F. 29 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-IV.- Formar parte de las asociaciones de padres de familia y de los consejos de participación social a que se refiere este capitulo, y
+IV.- Formar parte de las asociaciones de padres de familia y de los consejos de participación social a que se refiere este capítulo;
 
-V.- Opinar, en los casos de la educación que impartan los particulares, en relación con las contraprestaciones que las escuelas fijen.
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+V.- Opinar, en los casos de la educación que impartan los particulares, en relación con las contraprestaciones que las escuelas fijen, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+VI.- Conocer la capacidad profesional de la planta docente así como el resultado de las evaluaciones realizadas de conformidad con lo dispuesto en la fracción VII del artículo 12 de la presente Ley.
 
 ###### ARTICULO 66.
 
@@ -820,9 +846,17 @@ Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
 I.- Hacer que sus hijos o pupilos menores de edad, reciban la educación preescolar, la primaria y la secundaria;
 
-II.- Apoyar el proceso educativo de sus hijos o pupilos, y
+II.- Apoyar el proceso educativo de sus hijos o pupilos, y (sic)
 
-III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades que dichas instituciones realicen.
+III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades que dichas instituciones realicen;
+
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+IV.- Informar a las autoridades educativas los cambios que se presenten en la conducta y actitud de los educandos, para que las citadas autoridades apliquen los estudios correspondientes, con el fin de determinar las posibles causas que hayan dado origen a tales cambios, y
+
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+V.- Hacer del conocimiento de la autoridad educativa del plantel, las irregularidades cometidas por el personal administrativo o académico, que ocasionen perjuicios, daños o cambios emocionales en los educandos.
 
 ###### ARTICULO 67.
 
@@ -854,17 +888,81 @@ Será responsabilidad de la autoridad de cada escuela pública de educación bá
 
 La autoridad escolar hará lo conducente para que en cada escuela pública de educación básica opere un consejo escolar de participación social, integrado con padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, exalumnos, así como con los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
 
-Este consejo conocerá el calendario escolar, las metas educativas y el avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización; tomará nota de los resultados de las evaluaciones que realicen las autoridades educativas; propiciará la colaboración de maestros y padres de familia; podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela; estimulará, promoverá y apoyará actividades extraescolares que complementen y respalden la formación de los educandos; llevará a cabo las acciones de participación, coordinación y difusión necesarias para la protección civil y la emergencia escolar; alentará el interés familiar y comunitario por el desempeño del educando; podrá opinar en asuntos pedagógicos; contribuirá a reducir las condiciones sociales adversas que influyan en la educación; estará facultado para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares; respaldará las labores cotidianas de la escuela y, en general, podrá realizar actividades en beneficio de la propia escuela.
+> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-Consejos análogos podrán operar en las escuelas particulares de educación básica.
+Este consejo:
+
+a) Conocerá el calendario escolar, las metas educativas y el avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización;
+
+b) Conocerá y dará seguimiento de las acciones que realicen las y los educadores y autoridades educativas señaladas en el segundo párrafo del artículo 42 de la presente ley;
+
+c) Conocerá de las acciones educativas y de prevención que realicen las autoridades para que los educandos conozcan y detecten la posible comisión de hechos delictivos que puedan perjudicar al educando;
+
+d) Sensibilizará a la comunidad, mediante la divulgación de material que prevenga la comisión de delitos en agravio de las y los educandos. Así como también, de elementos que procuren la defensa de los derechos de las víctimas de tales delitos;
+
+e) Tomará nota de los resultados de las evaluaciones que realicen las autoridades educativas;
+
+f) Propiciará la colaboración de maestros y padres de familia para salvaguardar la integridad y educación plena de las y los educandos.
+
+g) Podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela, así como también propondrá los criterios de evaluación óptimos y necesarios para dar cumplimiento a lo dispuesto en la fracción VII del artículo 12 de la presente ley;
+
+h) Conocerá los nombres de las y los educadores señalados en el segundo párrafo del artículo 56 de la presente ley;
+
+i) Estimulará, promoverá y apoyará actividades extraescolares que complementen y respalden la formación de los educandos;
+
+j) Llevará a cabo las acciones de participación, coordinación y difusión necesarias para la protección civil y la emergencia escolar;
+
+k) Alentará el interés familiar y comunitario por el desempeño del educando;
+
+l) Opinará en asuntos pedagógicos y en temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad y derechos humanos de las y los educandos;
+
+m) Contribuirá a reducir las condiciones sociales adversas que influyan en la educación; estará facultado para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares;
+
+n) Respaldará las labores cotidianas de la escuela, y
+
+o) En general, podrá realizar actividades en beneficio de la propia escuela.
+
+> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+Consejos análogos deberán operar en las escuelas particulares de educación básica.
 
 ###### ARTICULO 70.
 
 En cada municipio operará un consejo municipal de participación social en la educación integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos y directivos de escuelas, representantes de la organización sindical de los maestros, así como representantes de organizaciones sociales y demás interesados en el mejoramiento de la educación.
 
-Este consejo gestionará ante el ayuntamiento y ante la autoridad educativa local el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo en el municipio; conocerá de los resultados de las evaluaciones que realicen las autoridades educativas; llevará a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica del propio municipio; estimulará, promoverá y apoyará actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales; establecerá la coordinación de escuelas con autoridades y programas de bienestar comunitario; hará aportaciones relativas a las particularidades del municipio que contribuyan a la formulación de contenidos locales a ser propuestos para los planes y programas de estudio; podrá opinar en asuntos pedagógicos; coadyuvará a nivel municipal en actividades de protección civil y emergencia escolar; promoverá la superación educativa en el ámbito municipal mediante certámenes interescolares; promoverá actividades de orientación, capacitación y difusión dirigidas a padres de familia y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa; podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares; procurará la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública y, en general, podrá realizar actividades para apoyar y fortalecer la educación en el municipio.
+> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-Será responsabilidad del presidente municipal que en el consejo se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación.
+Este consejo gestionará ante el ayuntamiento y ante la autoridad educativa local:
+
+a) El mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo en el municipio;
+
+b) Conocerá de los resultados de las evaluaciones que realicen las autoridades educativas;
+
+c) Llevará a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica del propio municipio;
+
+d) Estimulará, promoverá y apoyará actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales;
+
+e) Establecerá la coordinación de escuelas con autoridades y programas de bienestar comunitario, particularmente con aquellas autoridades que atiendan temas relacionados con la defensa de los derechos consagrados en la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes;
+
+f) Hará aportaciones relativas a las particularidades del municipio que contribuyan a la formulación de contenidos locales a ser propuestos para los planes y programas de estudio;
+
+g) Podrá opinar en asuntos pedagógicos;
+
+h) Coadyuvará a nivel municipal en actividades de protección civil y emergencia escolar;
+
+i) Promoverá la superación educativa en el ámbito municipal mediante certámenes interescolares;
+
+j) Promoverá actividades de orientación, capacitación y difusión dirigidas a padres de familia y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa;
+
+k) Podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares;
+
+l) Procurará la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública y,
+
+m) En general, podrá realizar actividades para apoyar y fortalecer la educación en el municipio.
+
+> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+Será responsabilidad del presidente municipal que en el consejo se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación, así como la difusión de programas preventivos de delitos que se puedan cometer en contra de niñas, niños y adolescentes o de quienes no tienen capacidad para comprender el significado del hecho o para resistirlo.
 
 En el Distrito Federal los consejos se constituirán por cada delegación política.
 
@@ -881,6 +979,10 @@ La Secretaría promoverá el establecimiento y funcionamiento del Consejo Nacion
 ###### ARTICULO 73.
 
 Los consejos de participación social a que se refiere esta sección se abstendrán de intervenir en los aspectos laborales de los establecimientos educativos y no deberán participar en cuestiones políticas ni religiosas.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+En caso de que el consejo aprecie la probable comisión de un delito en agravio de las y los educandos, solicitará como medida preventiva a las autoridades educativas del plantel, la suspensión temporal de las actividades del personal docente o administrativo que se encuentre presuntamente involucrado, hasta en tanto se aclare por la autoridad correspondiente dicha participación, previa audiencia a las partes involucradas. Dicha suspensión no afectará las prestaciones laborales que le correspondan.
 
 #### Sección 3.- De los medios de comunicación
 
@@ -918,21 +1020,27 @@ IX.- Efectuar actividades que pongan en riesgo la salud o la seguridad de los al
 
 X.- Ocultar a los padres o tutores las conductas de los alumnos que notoriamente deban ser de su conocimiento;
 
-XI.- Oponerse a las actividades de evaluación, inspección y vigilancia, así como no proporcionar información veraz y oportuna, e
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-XII.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella;
+XI.- Oponerse a las actividades de evaluación, inspección y vigilancia, así como no proporcionar información veraz y oportuna;
 
-> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2009)</small>
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-XIII.- Administrar a los educandos, sin previa prescripción médica y consentimiento informado de los padres o tutores, medicamentos que contengan sustancias psicotrópicas o estupefacientes;
+XII.- Contravenir las disposiciones contempladas en el artículo 7o.; en la fracción VII del artículo 12; en el segundo párrafo del artículo 42 por lo que corresponde a las autoridades educativas y, en el segundo párrafo del artículo 56;
 
-> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2009)</small>
-
-XIV.- Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes, y
+XIII.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella;
 
 > <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2009)</small>
 
-XV.- Expulsar o negarse a prestar el servicio educativo a niñas, niños y adolescentes que presenten problemas de aprendizaje, condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos; presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos.
+XIV.- Administrar a los educandos, sin previa prescripción médica y consentimiento informado de los padres o tutores, medicamentos que contengan sustancias psicotrópicas o estupefacientes;
+
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+XV.- Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2009)</small>
+
+XVI.- Expulsar o negarse a prestar el servicio educativo a niñas, niños y adolescentes que presenten problemas de aprendizaje, condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos; presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos.
 
 Las disposiciones de este artículo no son aplicables a los trabajadores de la educación, en virtud de que, las infracciones en que incurran serán sancionadas conforme a las disposiciones específicas para ellos.
 
@@ -1167,3 +1275,13 @@ D.O.F. 2 DE JULIO DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento con el presente Decreto, se sujetarán a los recursos aprobados en sus respectivos presupuestos para tales fines por la Cámara de Diputados del H. Congreso de la Unión, las legislaturas de los estados, así como la Asamblea Legislativa del Distrito Federal, en términos del Apartado B del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+D.O.F. 19 DE AGOSTO DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que deban realizarse a fin de dar cumplimiento con el presente Decreto, se sujetarán a los recursos aprobados para tales fines por la Cámara de Diputados, las legislaturas de los estados, así como la Asamblea Legislativa del Distrito Federal, en sus respectivos presupuestos.
+
+Tercero.- Los procedimientos de evaluación de la planta docente en el sistema de educación básica, serán realizados por el Centro Nacional de Evaluación para la Educación Superior A.C. (CENEVAL). Estos procedimientos serán efectuados en un período de cinco años a partir de la entrada en vigor del presente Decreto.
+
+Cuarto.- A los procedimientos iniciados antes de la publicación del presente Decreto, les serán aplicables las disposiciones vigentes al momento de su instauración.
