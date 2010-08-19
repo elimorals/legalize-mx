@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2007-12-03"
+last_updated: "2010-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -930,6 +930,10 @@ En caso de que la autoridad competente no de respuesta a la solicitud de certifi
 La resolución de la afirmativa ficta operará tratándose de peticiones que den inicio a procedimientos en las materias reguladas por el Código Administrativo del Estado de México. Excepto, tratándose de peticiones que tengan por objeto la transmisión de la propiedad o la posesión de bienes del Estado, municipios y organismos auxiliares de carácter estatal o municipal, la afectación de derechos de terceros, el otorgamiento o modificación de concesiones para la prestación de servicios públicos, autorizaciones de conjuntos urbanos, licencias de uso del suelo, normas técnicas, y resolución del recurso administrativo de inconformidad. Tampoco se configura la resolución afirmativa ficta, cuando la petición se hubiese presentado ante la autoridad incompetente, así como en los casos de la rescisión de las relaciones laborales con los policías.
 
 En todos los casos en que no opera la resolución afirmativa ficta, el silencio de las autoridades en el plazo de treinta días hábiles posteriores a la presentación o recepción de la petición, se considerará como resolución negativa ficta, que significa decisión desfavorable a los derechos e intereses de los peticionarios, para efectos de su impugnación en el juicio contencioso administrativo.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2010)</small>
+
+Las peticiones que los particulares hagan al Titular del Poder Ejecutivo, podrán ser turnadas para su respuesta a las Dependencias, Organismos o Entidades, quienes deberán notificar al peticionario tal supuesto; así como, la autoridad que conocerá y dará respuesta.
 
 ###### Artículo 136.
 
@@ -2332,3 +2336,9 @@ DÉCIMO SEXTO.- En caso de que se modifique posteriormente la Ley que Crea el Or
 DÉCIMO SÉPTIMO.- En caso de que el patrimonio que sea afectado por el Instituto de la Función Registral del Estado de México al fideicomiso que se constituya de conformidad con el presente Decreto se revierta por cualquier motivo al patrimonio del Estado o sea asignado o reincorporado a otra entidad de la administración pública centralizada o de la administración pública paraestatal que sustituya al Instituto de la Función Registral del Estado de México, los derechos y las obligaciones que se deriven de los convenios, contratos, afectaciones, transmisiones y financiamientos celebrados por el Instituto de la Función Registral del Estado de México o bien, por el fiduciario del fideicomiso a que se refiere el presente Decreto, con respecto a dicho patrimonio y el fideicomiso, subsistirán en sus términos hasta en tanto se liquiden o sean cumplidas las obligaciones adquiridas con ese respecto. En este sentido, los acreedores del fideicomiso al cual se hubiere afectado una parte o la totalidad de los ingresos del Instituto de la Función Registral del Estado de México, seguirán teniendo el derecho a recibir el pago de las obligaciones que corresponda, de conformidad con los contratos que al efecto se hubieren celebrado, como si dicha reversión, asignación o reincorporación no hubiere tenido lugar.
 
 DÉCIMO OCTAVO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Decreto.
+
+G.G. 19 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
