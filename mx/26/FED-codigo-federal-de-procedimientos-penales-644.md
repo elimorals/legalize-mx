@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2010-06-18"
+last_updated: "2010-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2010.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -65,9 +65,9 @@ VI.- El de ejecución, que comprende desde el momento en que cause ejecutoria la
 
 VII.- Los relativos a inimputables, a menores y a quienes tienen el hábito o la necesidad de consumir estupefacientes o psicotrópicos.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-Si en cualquiera de esos procedimientos algún menor o incapaz se ve relacionado con los hechos objeto de ellos, sea como autor o partícipe, testigo, víctima u ofendido, o con cualquier otro carácter, el Ministerio Público o el tribunal respectivo suplirán la ausencia o deficiencia de razonamientos y fundamentos que conduzcan a proteger los derechos que legítimamente puedan corresponderles.
+Si en cualquiera de esos procedimientos algún menor o incapaz se ve relacionado con los hechos objeto de ellos, sea como autor o partícipe, testigo, víctima u ofendido, o con cualquier otro carácter, el Ministerio Público o el tribunal respectivo suplirán la ausencia o deficiencia de razonamientos y fundamentos que conduzcan a proteger los derechos que legítimamente puedan corresponderles, en atención del principio del interés superior de las niñas, niños y adolescentes.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -1525,6 +1525,38 @@ XI. Los derechos previstos en apartado A, fracciones I, II, IV, V, VI, VII, VIII
 
 C. En la ejecución de sanciones, ser notificado por la autoridad competente, cuando lo solicite, del inicio y conclusión del procedimiento para la obtención de tratamientos preliberatorios, la concesión de la remisión parcial de la pena y de la libertad preparatoria, a efecto de que pueda exponer lo que a su derecho e interés convenga y, en su caso, aportar los elementos probatorios con que cuente, antes de que recaiga la resolución correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+###### ARTICULO 141 Bis.
+
+A solicitud fundada y motivada del Ministerio Público, el juez podrá decretar una o más de las siguientes medidas de protección a favor de la victima u ofendido:
+
+I. Medidas de protección personales:
+
+a) La guarda y custodia de una persona menor a favor de persona o institución determinada;
+
+b) La presentación periódica del sujeto activo ante la autoridad que se designe;
+
+c) Vigilancia permanente o itinerante de la autoridad en el domicilio de la víctima u ofendido;
+
+d) Prohibición de ir a lugar determinado;
+
+e) Prohibición de salir sin autorización del país, de la localidad en la cual reside o del ámbito territorial que fije el tribunal;
+
+f) La prohibición de comunicarse con personas determinadas, siempre y cuando no se afecte el derecho de defensa; y
+
+II. Medidas cautelares reales:
+
+a) El aseguramiento de bienes para reparar el daño causado por el delito;
+
+b) La inmovilización de cuentas bancarias y de certificados de acciones y títulos valores, y
+
+c) El embargo o secuestro preventivo.
+
+Estas medidas serán revisables cuando la misma ya no se requiera, o la víctima u ofendido lo solicite.
+
+Particularmente, el juez podrá considerar en la sentencia, como medida de protección, la prohibición del sentenciado de acercarse a las víctimas, familiares, ofendidos, tutores o testigos, así como de mantener cualquier tipo de relación con ellos.
+
 ## TITULO CUARTO. Instrucción
 
 ### CAPITULO II. Declaración preparatoria del inculpado y nombramiento de defensor
@@ -2379,9 +2411,9 @@ I. Del Código Penal Federal, los delitos siguientes:
 
 12) Contra la salud, previsto en los artículos 194, 195, 196 Bis, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero;
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-13) Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 BIS; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204.
+13) Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 Bis; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204 y Pederastia, previsto en el artículo 209 Bis;
 
 14) Los previstos en el artículo 205, segundo párrafo;
 
@@ -5588,3 +5620,9 @@ D.O.F. 18 DE JUNIO DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo.- Los procesos que se encuentren en conocimiento de los Jueces del Fuero Común de los Estados y del Distrito Federal, continuarán de la misma forma hasta su conclusión.
+
+D.O.F. 19 DE AGOSTO DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
