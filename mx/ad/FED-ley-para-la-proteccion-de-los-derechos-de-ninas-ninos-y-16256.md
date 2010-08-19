@@ -4,7 +4,7 @@ identifier: "FED-ley-para-la-proteccion-de-los-derechos-de-ninas-ninos-y-16256"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-29"
-last_updated: "2000-05-29"
+last_updated: "2010-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16256&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-05-23"
 
 LEY PARA LA PROTECCION DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2010.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de mayo de 2000.
 
@@ -141,7 +141,9 @@ B. Para que el Estado, en los ámbitos federal, estatal y municipal pueda interv
 
 C. La obligación de familiares, vecinos, médicos, maestros, trabajadores sociales, servidores públicos, o cualesquiera persona, que tengan conocimiento de casos de niñas, niños o adolescentes que estén sufriendo la violación de los derechos consignados en esta ley, en cualquiera de sus formas, de ponerlo en conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente.
 
-En las escuelas o instituciones similares, los educadores o maestros serán responsables de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en contra de niñas, niños o adolescentes.
+> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+En las escuelas o instituciones similares, los dueños, directivos, educadores, maestros o personal administrativo serán responsables de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en contra de niñas, niños o adolescentes.
 
 ## TÍTULO SEGUNDO. De los Derechos de Niñas, Niños y Adolescentes
 
@@ -533,7 +535,9 @@ Para la determinación de la sanción, la institución especializada de procurac
 
 I) La gravedad de la infracción;
 
-II) El carácter intencional de la infracción;
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+II) El carácter intencional de la infracción y el daño, particularmente causado a niñas, niños y adolescentes;
 
 III) La situación de reincidencia;
 
@@ -558,3 +562,9 @@ TERCERO. Se derogan todas las disposiciones que contravengan lo previsto en esta
 México, D.F., a 28 de abril de 2000.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Dionisio Pérez Jácome, Vicepresidente en funciones.- Dip. Guadalupe Sánchez Martínez, Secretario.- Sen. Porfirio Camarena Castro, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 19 DE AGOSTO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
