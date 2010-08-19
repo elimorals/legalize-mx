@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2010-07-19"
+last_updated: "2010-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -72,13 +72,17 @@ VI. El otorgamiento de información y de facilidades a los consumidores para la 
 
 VII. La protección contra la publicidad engañosa y abusiva, métodos comerciales coercitivos y desleales, así como contra prácticas y cláusulas abusivas o impuestas en el abastecimiento de productos y servicios;
 
-> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-VIII. La real y efectiva protección al consumidor en las transacciones efectuadas a través del uso de medios convencionales, electrónicos, ópticos o de cualquier otra tecnología y la adecuada utilización de los datos aportados, y
+VIII. La real y efectiva protección al consumidor en las transacciones efectuadas a través del uso de medios convencionales, electrónicos, ópticos o de cualquier otra tecnología y la adecuada utilización de los datos aportados;
 
-> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-IX. El respeto a los derechos y obligaciones derivados de las relaciones de consumo y las medidas que garanticen su efectividad y cumplimiento.
+IX. El respeto a los derechos y obligaciones derivados de las relaciones de consumo y las medidas que garanticen su efectividad y cumplimiento; y
+
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+X. La protección de los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas.
 
 Los derechos previstos en esta ley no excluyen otros derivados de tratados o convenciones internacionales de los que México sea signatario; de la legislación interna ordinaria; de reglamentos expedidos por las autoridades administrativas competentes; así como de los que deriven de los principios generales de derecho, la analogía, las costumbres y la equidad.
 
@@ -92,7 +96,9 @@ I. Consumidor: la persona física o moral que adquiere, realiza o disfruta como 
 
 Tratándose de personas morales que adquieran bienes o servicios para integrarlos en procesos de producción o de servicios a terceros, sólo podrán ejercer las acciones a que se refieren los referidos preceptos cuando estén acreditadas como microempresas o microindustrias en términos de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal, respectivamente y conforme a los requisitos que se establezcan en el Reglamento de esta ley.
 
-II. Proveedor: la persona física o moral que habitual o periódicamente ofrece, distribuye, vende, arrienda o concede el uso o disfrute de bienes, productos y servicios;
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+II. Proveedor: la persona física o moral en términos del Código Civil Federal, que habitual o periódicamente ofrece, distribuye, vende, arrienda o concede el uso o disfrute de bienes, productos y servicios;
 
 > <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -185,6 +191,10 @@ Las autoridades, proveedores y consumidores están obligados a proporcionar a la
 ###### ARTICULO 14.
 
 El plazo de prescripción de los derechos y obligaciones establecidos en la presente ley será de un año, salvo otros términos previstos por esta ley.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+En caso de afectaciones a los derechos de las niñas, niños y adolescentes, el término de prescripción será de diez años.
 
 ###### ARTICULO 15.
 
@@ -290,7 +300,11 @@ II. Procurar y representar los intereses de los consumidores, mediante el ejerci
 
 III. Representar individualmente o en grupo a los consumidores ante autoridades jurisdiccionales y administrativas, y ante los proveedores;
 
-IV. Recopilar, elaborar, procesar y divulgar información objetiva para facilitar al consumidor un mejor conocimiento de los bienes y servicios que se ofrecen en el mercado;
+IV. Recopilar, elaborar, procesar y divulgar información objetiva para facilitar al consumidor un mejor conocimiento de los bienes y servicios que se ofrecen en el mercado.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+En el caso de servicios educativos proporcionados por particulares, deberá informar a las y los consumidores, la publicación señalada en el segundo párrafo del artículo 56 de la Ley General de Educación así como la aptitud del personal administrativo que labora en el plantel;
 
 > <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -336,7 +350,9 @@ XV. Registrar los contratos de adhesión que lo requieran, cuando cumplan la nor
 
 XVI. Procurar la solución de las diferencias entre consumidores y proveedores y, en su caso, emitir dictámenes en donde se cuantifiquen las obligaciones contractuales del proveedor, conforme a los procedimientos establecidos en esta ley;
 
-XVII. Denunciar ante el Ministerio Público los hechos que puedan ser constitutivos de delitos y que sean de su conocimiento y, ante las autoridades competentes, los actos que constituyan violaciones administrativas que afecten los intereses de los consumidores;
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+XVII. Denunciar ante el Ministerio Público los hechos que puedan ser constitutivos de delitos y que sean de su conocimiento y, ante las autoridades competentes, los actos que constituyan violaciones administrativas que afecten la integridad e intereses de las y los consumidores;
 
 > <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -350,13 +366,17 @@ XIX. Aplicar las sanciones y demás medidas establecidas en esta ley, en la Ley 
 
 XX. Requerir a los proveedores o a las autoridades competentes a que tomen medidas adecuadas para combatir, detener, modificar o evitar todo género de prácticas que lesionen los intereses de los consumidores, y cuando lo considere pertinente publicar dicho requerimiento;
 
-> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-XXI. Ordenar se informe a los consumidores sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los retribuirán o compensarán y emitir alertas inmediatas a los consumidores sobre aquellos productos, prácticas en el abastecimiento de productos y servicios considerados nocivos o que pongan en riesgo la vida, la salud o la seguridad del consumidor, cuando dicho riesgo se haya acreditado fehacientemente por la autoridad competente, y
+XXI. Ordenar se informe a los consumidores sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los retribuirán o compensarán;
+
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+XXII.- Coadyuvar con las autoridades competentes para salvaguardar los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas, y
 
 > <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-XXII. Las demás que le confieran esta ley y otros ordenamientos.
+XXIII. Las demás que le confieran esta ley y otros ordenamientos.
 
 > <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -392,11 +412,15 @@ III. Suspensión de la comercialización de bienes, productos o servicios;
 
 IV. Ordenar el retiro de bienes o productos del mercado, cuando se haya determinado fehacientemente por la autoridad competente que ponen en riesgo la vida o la salud de los consumidores;
 
-V. Colocación de sellos de advertencia, y
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+V. Colocación de sellos e información de advertencia, y
 
 VI. Ordenar la suspensión de información o publicidad a que se refiere el artículo 35 de esta Ley.
 
-Las medidas precautorias se dictarán conforme a los criterios que al efecto expida la Procuraduría y dentro del procedimiento correspondiente en términos de lo dispuesto en el artículo 57 y demás relativos de la Ley Federal sobre Metrología y Normalización; así como cuando se advierta que se afecta o se puede afectar la economía de una colectividad de consumidores en los casos a que se refiere el artículo 128 TER o cuando se violen disposiciones de esta ley por diversas conductas o prácticas comerciales abusivas, tales como: el incumplimiento de precios o tarifas exhibidos; el condicionamiento de la venta de bienes o de servicios; el incumplimiento de ofertas y promociones; por conductas discriminatorias y por publicidad o información engañosa. En el caso de la medida precautoria a que se refiere la fracción V de este precepto, previo a la colocación del sello respectivo, la Procuraduría aplicará la medida a que se refiere el artículo 25, fracción I, de esta Ley. Tales medidas se levantarán una vez que se acredite el cese de las causas que hubieren originado su aplicación. En su caso, la Procuraduría hará del conocimiento de otras autoridades competentes la aplicación de la o las medidas a que se refiere este precepto.
+> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+Las medidas precautorias se dictarán conforme a los criterios que al efecto expida la Procuraduría y dentro del procedimiento correspondiente en términos de lo dispuesto en el artículo 57 y demás relativos de la Ley Federal sobre Metrología y Normalización; así como cuando se advierta que se afecta o se puede afectar la economía de una colectividad de consumidores en los casos a que se refiere el artículo 128 TER o cuando se violen disposiciones de esta ley por diversas conductas o prácticas comerciales abusivas, tales como: el incumplimiento de precios o tarifas exhibidos; el condicionamiento de la venta de bienes o de servicios; el incumplimiento de ofertas y promociones; por conductas discriminatorias y por publicidad o información engañosa. En el caso de la medida precautoria a que se refiere la fracción IV de este precepto, previo a la colocación del sello e información respectiva, la Procuraduría aplicará la medida a que se refiere el artículo 25, fracción I, de esta ley, salvo el caso de que se encuentre en riesgo el principio señalado en la fracción X del artículo 1 de la presente ley. Tales medidas se levantarán una vez que se acredite el cese de las causas que hubieren originado su aplicación. En su caso, la Procuraduría hará del conocimiento de otras autoridades competentes la aplicación de la o las medidas a que se refiere este precepto.
 
 Los proveedores están obligados a informar de inmediato a las autoridades si determinan que alguno de sus productos puede implicar riesgos para la vida o la salud de los consumidores.
 
@@ -1408,7 +1432,9 @@ a) A partir de que se expida el recibo a favor del que disfruta del uso o goce t
 
 b) A partir de que se cumpla efectivamente la contraprestación pactada en favor del que otorga el uso o goce temporal.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+Se exceptúa del término anterior, las reclamaciones que se realicen con motivo de la prestación de servicios educativos o similares, proporcionados por particulares a niñas, niños o adolescentes, por vulneración a los derechos contemplados en el Título Segundo de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes. La reclamación podrá presentarse dentro del término de diez años a partir de que se advierta dicha vulneración.
 
 ###### ARTICULO 106.
 
@@ -1459,6 +1485,10 @@ La Procuraduría señalará día y hora para la celebración de una audiencia de
 > <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 La conciliación podrá celebrarse vía telefónica o por otro medio idóneo, en cuyo caso la Procuraduría o las partes podrán solicitar que se confirmen por escrito los compromisos adquiridos.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+Queda exceptuado de la etapa de conciliación, cuando el consumidor sea menor de edad y se haya vulnerado alguno de los derechos contemplados en el Título Segundo de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
 
 ###### ARTICULO 112.
 
@@ -1662,9 +1692,17 @@ III. Aquellas infracciones que se cometan en relación con bienes, productos o s
 
 IV. Aquellas conductas que se cometan aprovechando la escasez, lejanía o dificultad en el abastecimiento de un bien o en la prestación de un servicio;
 
-V. Cuando se trate de productos básicos de consumo generalizado, como alimentos, gas natural o licuado de petróleo, gasolina o productos sujetos a precio máximo o a precios o tarifas establecidos o registrados por la Secretaría o por cualquiera otra autoridad competente, y
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-VI. La reincidencia en la comisión de infracciones a los artículos señalados en el artículo 128 de esta ley.
+V. Cuando se trate de productos básicos de consumo generalizado, como alimentos, gas natural o licuado de petróleo, gasolina o productos sujetos a precio máximo o a precios o tarifas establecidos o registrados por la Secretaría o por cualquiera otra autoridad competente;
+
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+VI. La reincidencia en la comisión de infracciones a los artículos señalados en el artículo 128 de esta ley, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+VII. Aquellas que vulneren los derechos contemplados en el Título Segundo de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
 
 > <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -1722,9 +1760,11 @@ IV. La condición económica del infractor.
 
 Asimismo, la Procuraduría deberá considerar los hechos generales de la infracción a fin de tener los elementos que le permitan expresar pormenorizadamente los motivos que tenga para determinar el monto de la multa en una cuantía específica.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 133.
 
-En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas, excepto en el caso de reincidencia.
+En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas, excepto en el caso de reincidencia o cuando se afecten derechos de la infancia, adultos mayores, personas con discapacidad e indígenas.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
@@ -1732,11 +1772,13 @@ En ningún caso será sancionado el mismo hecho constitutivo de la infracción e
 
 Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $6'405,740.92.
 
-> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 134.
 
-La autoridad que haya impuesto alguna de las sanciones previstas en esta ley la podrá condonar, reducir o conmutar, para lo cual apreciará las circunstancias del caso, las causas que motivaron su imposición, así como la medida en que la reclamación del consumidor haya quedado satisfecha, sin que la petición del interesado constituya un recurso.
+La autoridad que haya impuesto alguna de las sanciones previstas en esta ley la podrá condonar, reducir o conmutar, para lo cual apreciará las circunstancias del caso, el daño ocasionado, las causas que motivaron su imposición, así como la medida en que la reclamación del consumidor haya quedado satisfecha, sin que la petición del interesado constituya un recurso.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 La autoridad no podrá ejercer la facultad referida en este precepto, respecto de las sanciones impuestas con motivo de los procedimientos de verificación y vigilancia del cumplimiento de esta ley y demás disposiciones aplicables.
 
@@ -2007,3 +2049,9 @@ UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2010.
 D.O.F. 19 DE JULIO DE 2010.
 
 Único.- El presente Decreto entrará en vigor a los 120 días siguientes de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE AGOSTO DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A los procedimientos iniciados antes de la publicación del presente Decreto, les serán aplicables las disposiciones vigentes al momento de su instauración.
