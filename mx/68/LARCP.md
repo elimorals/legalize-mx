@@ -4,7 +4,7 @@ identifier: "LARCP"
 country: "mx"
 rank: "ley"
 publication_date: "1992-07-15"
-last_updated: "2006-04-24"
+last_updated: "2010-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LARCP"
 
 LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 15 de julio de 1992.
 
@@ -64,9 +64,15 @@ e) No ser objeto de ninguna inquisición judicial o administrativa por la manife
 
 f) Asociarse o reunirse pacíficamente con fines religiosos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 3o.
 
-El Estado mexicano es laico. El mismo ejercerá su autoridad sobre toda manifestación religiosa, individual o colectiva, sólo en lo relativo a la observancia de las leyes, conservación del orden y la moral públicos y la tutela de derechos de terceros. El Estado no podrá establecer ningún tipo de preferencia o privilegio en favor de religión alguna. Tampoco a favor o en contra de ninguna iglesia ni agrupación religiosa.
+El Estado mexicano es laico. El mismo ejercerá su autoridad sobre toda manifestación religiosa, individual o colectiva, sólo en lo relativo a la observancia de la Constitución, Tratados Internacionales ratificados por México y demás legislación aplicable y la tutela de derechos de terceros.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+El Estado no podrá establecer ningún tipo de preferencia o privilegio en favor de religión alguna. Tampoco a favor o en contra de ninguna iglesia ni agrupación religiosa.
 
 Los documentos oficiales de identificación no contendrán mención sobre las creencias religiosas del individuo.
 
@@ -116,13 +122,17 @@ Las asociaciones religiosas deberán:
 
 I. Sujetarse siempre a la Constitución y a las leyes que de ella emanan, y respetar las instituciones del país;
 
-> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-II. Abstenerse de perseguir fines de lucro o preponderantemente económicos, y
+II. Abstenerse de perseguir fines de lucro o preponderantemente económicos;
 
-> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-III. Respetar en todo momento los cultos y doctrinas ajenos a su religión, así como fomentar el diálogo, la tolerancia y la convivencia entre las distintas religiones y credos con presencia en el país.
+III. Respetar en todo momento los cultos y doctrinas ajenos a su religión, así como fomentar el diálogo, la tolerancia y la convivencia entre las distintas religiones y credos con presencia en el país, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+IV. Propiciar y asegurar el respeto integral de los derechos humanos de las personas.
 
 ###### ARTICULO 9o.
 
@@ -159,6 +169,12 @@ Los representantes de las asociaciones religiosas deberán ser mexicanos y mayor
 ###### ARTICULO 12.
 
 Para los efectos de esta Ley, se consideran ministros de culto a todas aquellas personas mayores de edad a quienes las asociaciones religiosas a que pertenezcan confieran ese carácter. Las asociaciones religiosas deberán notificar a la Secretaría de Gobernación su decisión al respecto. En caso de que las asociaciones religiosas omitan esa notificación, o en tratándose de iglesias o agrupaciones religiosas, se tendrán como ministros de culto a quienes ejerzan en ellas como principal ocupación, funciones de dirección, representación u organización.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+ARTICULO 12 BIS.- Los ministros de culto, los asociados y los representantes de las asociaciones religiosas, incluyendo al personal que labore, apoye o auxilie, de manera remunerada o voluntaria, en las actividades religiosas de dichas asociaciones, deberán informar en forma inmediata a la autoridad correspondiente la probable comisión de delitos, cometidos en ejercicio de su culto o en sus instalaciones.
+
+Cuando se cometa un delito en contra de niñas, niños o adolescentes, las personas a que se refiere el párrafo anterior deberán informar esos mismos hechos en forma inmediata a los tutores o a quienes ejerzan la patria potestad de aquellos.
 
 ###### ARTICULO 13.
 
@@ -316,9 +332,19 @@ IX. Convertir un acto religioso en reunión de carácter político;
 
 X. Oponerse a las Leyes del País o a sus instituciones en reuniones públicas;
 
-XI. Realizar actos o permitir aquellos que atenten contra la integridad, salvaguarda y preservación de los bienes que componen el patrimonio cultural del país, y que están en uso de las iglesias, agrupaciones o asociaciones religiosas, así como omitir las acciones que sean necesarias para lograr que dichos bienes sean preservados en su integridad y valor; y,
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-XII. Las demás que se establecen en la presente ley y otros ordenamientos aplicables.
+XI. Realizar actos o permitir aquellos que atenten contra la integridad, salvaguarda y preservación de los bienes que componen el patrimonio cultural del país, y que están en uso de las iglesias, agrupaciones o asociaciones religiosas, así como omitir las acciones que sean necesarias para lograr que dichos bienes sean preservados en su integridad y valor;
+
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+XII. Omitir las acciones contempladas en el artículo 12 Bis de la presente ley;
+
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+XIII. La comisión de delitos cometidos en ejercicio de su culto o en sus instalaciones, y
+
+XIV. Las demás que se establecen en la presente ley y otros ordenamientos aplicables.
 
 ###### ARTICULO 30.
 
@@ -338,9 +364,17 @@ I. Naturaleza y gravedad de la falta o infracción;
 
 II. La posible alteración de la tranquilidad social y el orden público que suscite la infracción;
 
-III. Situación económica y grado de instrucción del infractor; y,
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-IV. La reincidencia, si la hubiere.
+III. Situación económica y grado de instrucción del infractor;
+
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+IV. La reincidencia, si la hubiere, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+V. El daño causado.
 
 ###### ARTICULO 32.
 
@@ -427,3 +461,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 24 DE ABRIL DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE AGOSTO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
