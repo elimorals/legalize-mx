@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-transparencia-y-acceso-a-la-informacion-41457"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-12"
-last_updated: "2004-10-12"
+last_updated: "2010-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL PODER LEGISLATIVO DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2010.
 
 Reglamento publicado en la Gaceta del Gobierno del Estado de México, el martes 12 de octubre de 2004.
 
@@ -69,7 +69,7 @@ IX. Información Confidencial: La definida como tal según lo establecido en el 
 
 X. Información Reservada: La definida como tal en términos del artículo 20 de la Ley;
 
-XI. Consejo: Consejo para la Transparencia y Acceso a la Información Pública del Poder Legislativo del Estado de México;
+XI. (DEROGADA, G.G. 19 DE AGOSTO DE 2010)
 
 XII. Comité de Información: Cuerpo colegiado que se integra para resolver sobre la apropiada clasificación de la información;
 
@@ -175,9 +175,11 @@ XXII. Índices, catálogos de información pública y bases de datos disponibles
 
 XXIII. Toda otra información que sea de utilidad para el ejercicio del derecho de acceso a la información pública que defina el Comité de Información.
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 9.
 
-El Poder Legislativo realizará actualizaciones periódicas de la información a que se refiere el presente capítulo, observando en todo momento las recomendaciones que expida el Instituto y el Consejo con el propósito de establecer formatos sencillos, entendibles y claros para la consulta expedita de la información.
+El Poder Legislativo realizará actualizaciones periódicas de la información a que se refiere el presente capítulo, observando en todo momento las recomendaciones que expida el Instituto y el Comité de Información con el propósito de establecer formatos sencillos, entendibles y claros para la consulta expedita de la información.
 
 ###### Artículo 10.
 
@@ -215,11 +217,15 @@ La información clasificada como confidencial atenderá los supuestos previstos 
 
 ### CAPITULO QUINTO. DEL COMITE DE INFORMACION, LA UNIDAD DE INFORMACION Y EL SERVIDOR PUBLICO HABILITADO
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 15.
 
-El Comité de Información del Poder Legislativo estará integrado por:
+El Comité de Información del Poder Legislativo es el órgano encargado de garantizar el ejercicio efectivo del derecho de acceso a la información pública y la protección de datos personales, y estará integrado por:
 
-I. El Presidente de la Directiva o de la Diputación Permanente, cuando esté en periodo de receso la Legislatura quien presidirá el Comité;
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2010)</small>
+
+I. El Presidente de la Junta de Coordinación Política, quien presidirá el Comité o la persona que él designe;
 
 II. El titular de la Unidad de Información;
 
@@ -241,11 +247,43 @@ I. Coordinar y supervisar las acciones del Poder Legislativo tendientes a propor
 
 II. Establecer, de conformidad con la Ley, los procedimientos y formatos para asegurar la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
 
-III. Confirmar, modificar o revocar la clasificación de la información de conformidad con lo establecido por la Ley, el Reglamento y los criterios que para tal efecto emita el Consejo, o en caso de que así lo decidiera el mismo, los emitidos por el Instituto;
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2010)</small>
 
-IV. Integrar y enviar los datos necesarios para la elaboración del informe anual al Consejo;
+III. Emitir criterios para la clasificación y catalogación de la información pública conforme a los criterios establecidos por el Instituto;
 
-V. Las demás que le otorguen los ordenamientos aplicables.
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2010)</small>
+
+IV. Elaborar el informe anual que debe rendir al Instituto;
+
+V. (DEROGADA, G.G. 19 DE AGOSTO DE 2010)
+
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2010)</small>
+
+VI. Cumplir con los criterios que emita el Instituto;
+
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2010)</small>
+
+VII. Hacer del conocimiento de la Contraloría Interna del Poder Legislativo, las presuntas infracciones a la Ley, al presente ordenamiento, así como a otras disposiciones legales, e informar a la Directiva de la Legislatura, de las resoluciones que al respecto expida;
+
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2010)</small>
+
+VIII. Promover la cultura de transparencia y acceso a la información pública en el Poder Legislativo;
+
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2010)</small>
+
+IX. Colaborar con el Instituto en la ejecución de programas para la difusión de la información pública;
+
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2010)</small>
+
+X. Vigilar y, en su caso, hacer las recomendaciones a los órganos y dependencias del Poder Legislativo, para que se dé cumplimiento a lo dispuesto en el artículo 9 del presente Reglamento;
+
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2010)</small>
+
+XI. Establecer relaciones de cooperación y coordinación con el Instituto, en representación de la Legislatura; y
+
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2010)</small>
+
+XII. Las demás que le confiera este Reglamento y los ordenamientos aplicables.
 
 ###### Artículo 17.
 
@@ -261,11 +299,15 @@ IV. Auxiliar a los particulares en la elaboración de solicitudes y, en su caso,
 
 V. Realizar los trámites internos necesarios para entregar la información solicitada, además de efectuar las notificaciones a los particulares;
 
-VI. Proponer al Consejo los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2010)</small>
+
+VI. Proponer al Comité de Información los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
 
 VII. Atender las recomendaciones en materia de acceso a la información pública emitidas por el Instituto;
 
-VIII. Recibir los recursos de revisión y turnarlos al Consejo para su substanciación, de conformidad a lo dispuesto por el presente Reglamento y a los lineamientos aprobados por el Consejo;
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2010)</small>
+
+VIII. Recibir los recursos de revisión y turnarlos al Instituto para su sustanciación, de conformidad a lo dispuesto por el presente Reglamento y demás disposiciones aplicables;
 
 IX. Llevar un registro de las solicitudes de acceso a la información, sus resultados y costos; y
 
@@ -349,9 +391,11 @@ El acceso a la información pública se dará solamente en la forma en que lo pe
 
 La información confidencial en dominio del Poder Legislativo, salvo en los casos expresamente autorizados por la Ley, no podrá ser divulgada bajo ninguna circunstancia.
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 32.
 
-La Unidad de Información hará del conocimiento del Consejo, la existencia de bases de datos, expedientes o ficheros que contengan datos personales, especificando el objeto y la finalidad de los mismos.
+La Unidad de Información hará del conocimiento del Instituto, la existencia de bases de datos, expedientes o ficheros que contengan datos personales, especificando el objeto y la finalidad de los mismos.
 
 ###### Artículo 33.
 
@@ -387,119 +431,77 @@ Para el ejercicio del derecho anterior, se requerirá que el interesado presente
 
 La Unidad de Información tendrá un plazo de diez días hábiles, contados a partir de la recepción de la solicitud para entregar los datos personales.
 
-### CAPITULO OCTAVO. DEL CONSEJO PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL PODER LEGISLATIVO DEL ESTADO DE MEXICO
+> <small>(REFORMADA SU DENOMINACION, G.G. 19 DE AGOSTO DE 2010)</small>
+
+### CAPITULO OCTAVO. MEDIOS DE IMPUGNACION
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 38.
 
-El Poder Legislativo contará con el Consejo para la Transparencia y Acceso a la Información Pública, órgano encargado de garantizar el ejercicio efectivo del derecho de acceso a la información pública y la protección de datos personales.
+El solicitante a quien se le haya notificado la negativa de acceso total o parcial de la información solicitada, o la inexistencia de los documentos, podrá interponer, por sí mismo o a través de su representante, el recurso de revisión ante el Instituto, dentro de los quince días hábiles siguientes a la fecha de la notificación. La Unidad de Información deberá remitir el asunto al Instituto, a más tardar, al día siguiente de haberlo recibido.
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 39.
 
-El Consejo, para efectos de sus resoluciones, adoptará sus decisiones con plena independencia y contará con los recursos humanos y materiales necesarios para el desempeño de sus funciones.
+El procedimiento se sustanciará en los términos establecidos en la Ley, el Reglamento de la misma y los lineamientos que expida el Instituto.
 
 ###### Artículo 40.
 
-Las determinaciones del Consejo se tomarán por mayoría simple de los miembros.
+(DEROGADO, G.G. 19 DE AGOSTO DE 2010)
 
 ###### Artículo 41.
 
-El Consejo estará conformado por los coordinadores de los grupos parlamentarios.
+(DEROGADO, G.G. 19 DE AGOSTO DE 2010)
 
 ###### Artículo 42.
 
-La Presidencia del Consejo será rotativa en los términos que por mayoría simple acuerden los integrantes del Consejo.
+(DEROGADO, G.G. 19 DE AGOSTO DE 2010)
 
 ###### Artículo 43.
 
-El Consejo tendrá las siguientes atribuciones:
-
-I. Conocer y resolver los recursos de revisión interpuestos por los solicitantes;
-
-II. Emitir criterios para la clasificación y catalogación de la información pública conforme a los criterios establecidos por el Instituto;
-
-III. Atender las recomendaciones formuladas por el Instituto en materia de acceso a la información pública y, en su caso, hacerlas obligatorias para el Poder Legislativo;
-
-IV. Cumplir con los criterios que emita el Instituto, siempre que así lo considere el Consejo;
-
-V. Hacer del conocimiento de la Contraloría Interna del Poder Legislativo, las presuntas infracciones a la Ley, al presente ordenamiento, así como a otras disposiciones legales, e informar a la Directiva de la Legislatura, de las resoluciones que al respecto expida;
-
-VI. Elaborar el informe anual que debe rendir ante el Instituto;
-
-VII. Promover la cultura de transparencia y acceso a la información pública en el Poder Legislativo;
-
-VIII. Colaborar con el Instituto en la ejecución de programas para la difusión de la información pública;
-
-IX. Rendir el informe de actividades ante el Pleno de la Legislatura en la cuarta sesión del primer periodo ordinario de sesiones de cada año;
-
-X. Vigilar y, en su caso, hacer las recomendaciones a los órganos y dependencias del Poder Legislativo, para que se dé cumplimiento a lo dispuesto en el artículo 9 del presente Reglamento; y
-
-XI. Las demás que le confieran este Reglamento, y cualquier otra disposición aplicable.
+(DEROGADO, G.G. 19 DE AGOSTO DE 2010)
 
 ###### Artículo 44.
 
-El Poder Legislativo, a través del Consejo, establecerá relaciones de cooperación y coordinación con el Instituto.
+(DEROGADO, G.G. 19 DE AGOSTO DE 2010)
 
-###### Artículo 45
+###### Artículo 45.
 
-El Consejo informará anualmente y por escrito al Instituto sobre las actividades realizadas, en cumplimiento de las obligaciones derivadas del presente Reglamento.
-
-Asimismo, el Presidente del Consejo rendirá un informe ante la Legislatura en la cuarta sesión del inicio del periodo ordinario de sesiones de cada año.
+(DEROGADO, G.G. 19 DE AGOSTO DE 2010)
 
 ###### Artículo 46.
 
-El informe que rendirá el Presidente Consejero ante la Legislatura en la cuarta sesión del periodo ordinario de sesiones de cada año, deberá incluir:
-
-I. El número de solicitudes de información presentadas a cada órgano y dependencia del Poder Legislativo y la información objeto de las mismas;
-
-II. La cantidad de solicitudes procesadas y respondidas, así como el número de solicitudes pendientes;
-
-III. Las prórrogas por circunstancias excepcionales;
-
-IV. El tiempo de procesamiento y la cantidad de servidores públicos involucrados en la tarea; y
-
-V. La cantidad de resoluciones tomadas por el Consejo denegando las solicitudes de información presentadas al mismo, así como los fundamentos de dichas resoluciones.
+(DEROGADO, G.G. 19 DE AGOSTO DE 2010)
 
 ###### Artículo 47.
 
-El solicitante a quién se le haya notificado la negativa de acceso total o parcial de la información solicitada, o la inexistencia de los documentos, podrá interponer, por sí mismo o a través de su representante, el recurso de revisión ante el Consejo, dentro de los quince días hábiles siguientes a la fecha de la notificación. La Unidad de Información deberá remitir el asunto al Consejo, a más tardar, al día siguiente de haberlo recibido.
+(DEROGADO, G.G. 19 DE AGOSTO DE 2010)
 
 ###### Artículo 48.
 
-El escrito contendrá:
-
-I. Nombre y domicilio del recurrente, y en su caso, la persona o personas que éste autorice para recibir notificaciones;
-
-II. El órgano o dependencia del Poder Legislativo que dio respuesta a la solicitud enviada por la Unidad de Información;
-
-III. Acto impugnado, expresando las razones o motivos de la inconformidad;
-
-IV. La copia de la resolución que se impugna y, en su caso, de la notificación correspondiente; y
-
-V. Firma del recurrente o en su caso huella digital;
-
-VI. Los demás elementos que considere procedentes someter a juicio del Consejo.
+(DEROGADO, G.G. 19 DE AGOSTO DE 2010)
 
 ###### Artículo 49.
 
-El Consejo subsanará las deficiencias de los recursos en su admisión y al momento de su resolución.
+(DEROGADO, G.G. 19 DE AGOSTO DE 2010)
 
 ###### Artículo 50.
 
-Recibido el recurso, el Consejero Presidente, en un plazo no mayor de tres días hábiles, lo turnará a un consejero quien será designado ponente, quien presentará al Consejo el expediente con el proyecto de resolución. El Consejo resolverá en definitiva dentro de un plazo de treinta días hábiles siguientes a la fecha de interposición del recurso.
+(DEROGADO, G.G. 19 DE AGOSTO DE 2010)
 
 ###### Artículo 51.
 
-La resolución del Consejo deberá remitirse a la Unidad de Información que deberá darle cumplimiento en un plazo de diez días hábiles, así como publicarla.
+(DEROGADO, G.G. 19 DE AGOSTO DE 2010)
 
 ###### Artículo 52.
 
-Las resoluciones del Consejo son definitivas para los órganos y dependencias del Poder Legislativo y no admitirán medio de defensa ordinario alguno.
+(DEROGADO, G.G. 19 DE AGOSTO DE 2010)
 
-CAPITULO (SIC)
+> <small>(REFORMADA SU DENOMINACION, G.G. 19 DE AGOSTO DE 2010)</small>
 
-SANCIONES
-
-### CAPITULO NOVENO. MEDIOS DE IMPUGNACION
+### CAPITULO NOVENO. SANCIONES
 
 ###### Artículo 53.
 
@@ -532,3 +534,11 @@ C. CONRADO HERNANDEZ RODRIGUEZ
 C. LETICIA ZEPEDA MARTINEZ
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 19 DE AGOSTO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
