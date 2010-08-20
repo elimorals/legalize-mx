@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-593-de-aprovechamiento-y-gestion-integral-de-los-613
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-23"
-last_updated: "2008-05-23"
+last_updated: "2010-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61331&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 593 DE APROVECHAMIENTO Y GESTION INTEGRAL DE LOS RESIDUOS DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 23 de mayo de 2008.
 
@@ -49,7 +49,9 @@ La presente Ley es de observancia obligatoria en todo el Estado de Guerrero; sus
 
 l. Integrar las políticas de prevención y gestión integral de los residuos en todas las políticas públicas del sector público;
 
-II. Determinar los criterios y principios que deberán considerarse en la generación, el manejo y la disposición final de los residuos, considerados dentro de la pirámide sustentable para el manejo de los mismos, entendiéndose esto como: evitar, minimizar, reciclar, reusar, coprocesamiento, incineración, tratamiento físico o químico, y el confinamiento;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2010)</small>
+
+II.- Determinar los criterios y principios que deberán considerarse en la generación, el manejo y la disposición final de los residuos, considerados dentro de la pirámide sustentable para el manejo de los mismos, entendiéndose esto como: evitar, minimizar, reciclar, reusar, co-procesamiento, tratamiento físico o químico, y el confinamiento;
 
 III. Establecer la distribución de competencias en materia de generación, manejo y disposición final de residuos entre el Gobierno Estatal y los Municipios;
 
@@ -89,99 +91,103 @@ V.- El generador es responsable de minimizar sus residuos y de costear el manejo
 
 En todo lo no previsto en la presente Ley, se aplicarán en lo conducente y de manera supletoria las disposiciones contenidas en la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2010)</small>
+
 ###### ARTÍCULO 4.
 
 Para los efectos de la presente Ley, son aplicables las definiciones contenidas en la Ley General para la Prevención y Gestión Integral de los Residuos y demás ordenamientos jurídicos aplicables, así como las siguientes:
 
-I. Acopio: La acción de reunir residuos en un lugar determinado que cumpla con las especificaciones necesarias para prevenir riesgos a la salud y al ambiente, a fin de facilitar su recolección;
+l.- Acopio: La acción de reunir residuos en un lugar determinado que cumpla con las especificaciones necesarias para prevenir riesgos a la salud y al ambiente, a fin de facilitar su recolección;
 
-II. Almacenamiento: Retención temporal de los residuos en lugares propicios para prevenir daños al ambiente, a los recursos naturales y a la salud de la población, en tanto son reutilizados, reciclados, tratados para su aprovechamiento y/o disposición final;
+II.- Almacenamiento: Retención temporal de los residuos en lugares propicios para prevenir daños al ambiente, a los recursos naturales y a la salud de la población, en tanto son reutilizados, reciclados, tratados para su aprovechamiento y/o disposición final;
 
-III. Bolsa de Subproductos: El sistema de información pública en el que se registran los subproductos industriales y los materiales valorizables recuperados de los residuos sólidos urbanos disponibles para su aprovechamiento o comercialización;
+III.- Bolsa de Subproductos: El sistema de información pública en el que se registran los subproductos industriales y los materiales valorizables recuperados de los residuos sólidos urbanos·disponibles para su aprovechamiento o comercialización;
 
-IV. Biodegradable: La cualidad que tiene la materia de tipo orgánico para ser metabolizada por medios biológicos;
+IV.- Biodegradable: La cualidad que tiene la materia de tipo orgánico para ser metabolizada por medios biológicos;
 
-V. Composta o Humus: Mejorador de suelos a base de materia orgánica, mediante el proceso de composteo;
+V.- Bitácora: Es el libro en el que se lleva la cuenta o razón, que utilizan los generadores de residuos, a fin de llevar un control del manejo integral de éstos;
 
-VI. Composteo: El proceso de descomposición aerobia de la materia orgánica mediante la acción de microorganismos específicos, que permite el aprovechamiento de los residuos orgánicos como mejoradores de suelos;
+VI.- Composta o Humus: Mejorador de suelos a base de materia orgánica, mediante el proceso de composteo;
 
-VII. Consumo Sustentable: Conjunto de acciones que se realizan para elegir, adquirir y aprovechar al máximo el valor de los materiales usados en los productos comerciales, considerando la posibilidad de evitar el agotamiento de los recursos naturales, así como de prevenir o reducir la generación de residuos o la liberación de contaminantes al ambiente y los riesgos que esto conlleva;
+VII.- Composteo: El proceso de descomposición aerobia de la materia orgánica mediante la acción de microorganismos específicos, que permite el aprovechamiento de los residuos orgánicos como mejoradores de suelos;
 
-VIII. Contenedor: El recipiente destinado al depósito ambientalmente adecuado y de forma temporal de residuos sólidos urbanos o de manejo especial, durante su acopio y traslado;
+VIII.- Consumo Sustentable: Conjunto de acciones que se realizan para elegir, adquirir y aprovechar al máximo el valor de los materiales usados en los productos comerciales, considerando la posibilidad de evitar el agotamiento de los recursos naturales, así como de prevenir o reducir la generación de residuos o la liberación de contaminantes al ambiente y los riesgos que esto conlleva;
 
-IX. Diagnóstico Básico: El estudio elaborado por la autoridad correspondiente que considera la cantidad y composición de los residuos, así como la infraestructura para manejarlos integralmente;
+IX.- Contenedor: El recipiente destinado al depósito ambientalmente adecuado y de forma temporal de residuos sólidos urbanos o de manejo especial, durante su acopio y traslado;
 
-X. Disposición Final: La acción de depositar o confinar permanentemente residuos sólidos en sitios o instalaciones cuyas características prevean afectaciones a la salud de la población y a los ecosistemas y sus elementos;
+X.- Diagnóstico Básico: El estudio elaborado por la autoridad correspondiente que considera la cantidad y composición de los residuos, así como la infraestructura para manejarlos integralmente;
 
-XI. Desarrollo Sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social, que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+XI.- Disposición Final: La acción de depositar o confinar permanentemente residuos sólidos en sitios o instalaciones cuyas características prevean afectaciones a la salud de la población y a los ecosistemas y sus elementos;
 
-XII. Desempeño Ambiental: El grado de cumplimiento de los objetivos o metas establecidos en los instrumentos de gestión ambiental de los residuos;
+XII.- Desarrollo Sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social, que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-XIII. Empresa de Servicio de Manejo: Persona física o moral registrada y autorizada a prestar servicios a terceros para realizar cualquiera de las etapas comprendidas en el manejo integral de los residuos de manejo especial y de aquellas etapas del manejo integral de residuos sólidos urbanos susceptibles de autorización;
+XIII.- Desempeño Ambiental: El grado de cumplimiento de los objetivos o metas establecidos en los instrumentos de gestión ambiental de los residuos;
 
-XIV. Estación de Transferencia: La obra de ingeniería para transbordar los residuos sólidos urbanos, de los vehículos de recolección a los de transporte, para conducirlos a los sitios de tratamiento o disposición final;
+XIV.- Empresa de Servicio de Manejo: Persona física o moral registrada y autorizada a prestar servicios a terceros para realizar cualquiera de las etapas comprendidas en el manejo integral de los residuos de manejo especial y de aquellas etapas del manejo integral de residuos sólidos urbanos susceptibles de autorización;
 
-XV. Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo, sujetándose su clasificación a lo previsto en la Ley General en la materia;
+XV.- Estación de Transferencia: La obra de ingeniería para transbordar los residuos sólidos urbanos, de los vehículos de recolección a los de transporte, para conducirlos a los sitios de tratamiento o disposición final;
 
-XVI. Gestión Integral: Conjunto de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación para el manejo de residuos en las distintas etapas de su ciclo de vida, desde la generación hasta su disposición final, a efecto de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, de acuerdo con las necesidades y circunstancias de cada localidad o región;
+XVI.- Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo, sujetándose su clasificación a lo previsto en la Ley General en la materia;
 
-XVII. Indicador: El parámetro que permite evaluar los resultados en la implementación de las políticas, programas, planes de manejo, sistemas de manejo ambiental, ordenamientos jurídicos o el desempeño ambiental de los diversos sectores involucrados en la generación y manejo de los residuos;
+XVII.- Gestión Integral: Conjunto de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación para el manejo de residuos en las distintas etapas de su ciclo de vida, desde la generación hasta su disposición final, a efecto de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, de acuerdo con las necesidades y circunstancias de cada localidad o región;
 
-XVIII. Inventario de Residuos: Base de datos en la que se asientan con orden y clasificación los volúmenes de generación de los diferentes residuos, que se integra a partir de la información proporcionada por los generadores en los formatos establecidos para tal fin, de conformidad con lo dispuesto en este ordenamiento, así como a través de estimaciones y muestreos;
+XVIII.- Incineración: Todo tratamiento térmico con o sin la recuperación de calor producido por la combustión, incluyendo pirolisis, gasificación y plasma;
 
-XIX. Ley: Ley de Aprovechamiento y Gestión Integral de Residuos del Estado de Guerrero;
+XIX.- Indicador: El parámetro que permite evaluar los resultados en la implementación de las políticas, programas, planes de manejo, sistemas de manejo ambiental, ordenamientos jurídicos o el desempeño ambiental de los diversos sectores involucrados en la generación y manejo de los residuos;
 
-XX. Ley General: Ley General Para la Prevención y Gestión Integral de los Residuos;
+XX.- Inventario de Residuos: Base de datos en la que se asientan con orden y clasificación los volúmenes de generación de los diferentes residuos, que se integra a partir de la información proporcionada por los generadores en los formatos establecidos para tal fin, de conformidad con lo dispuesto en este ordenamiento, así como a través de estimaciones y muestreos;
 
-XXI. Ley del Equilibrio: Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero;
+XXI.- Ley: Ley de Aprovechamiento y Gestión Integral de Residuos del Estado de Guerrero;
 
-XXII. Manejo Integral: Las actividades de reducción de la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de los residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+XXII.- Ley General: Ley General Para la Prevención y Gestión Integral de los Residuos;
 
-XXIII. Minimización: Conjunto de políticas, programas y medidas adoptadas por las personas físicas o morales, tendientes a evitar la generación de residuos y aprovechar, tanto como sea posible, el valor agregado de aquellos;
+XXIII.- Ley del Equilibrio: Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero;
 
-XXIV. Procuraduría: La Procuraduría de Protección Ecológica, como órgano desconcentrado adscrito a la SEMAREN;
+XXIV.- Manejo Integral: Las actividades de reducción de la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de los residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
-XXV. Planes de Manejo: El instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de los residuos bajo, criterios de eficiencia, tecnológica, económica y social bajo los principios de responsabilidad compartida y manejo integral, que considere el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno;
+XXV.- Minimización: Conjunto de políticas, programas y medidas adoptadas por las personas físicas o morales, tendientes a evitar la generación de residuos y aprovechar, tanto como sea posible el valor agregado de aquellos;
 
-XXVI. Programa: El Programa para la Prevención y Gestión Integral de los Residuos, elaborado con la participación social y constituido por un conjunto de lineamientos, acciones y metas en relación con el desarrollo de las actividades normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación para sustentar la minimización y el manejo integral, ambientalmente adecuado, económicamente viable y socialmente aceptable, de los residuos sólidos urbanos y de manejo especial;
+XXVI.- Procuraduría: La Procuraduría de Protección Ecológica, como órgano desconcentrado adscrito a la SEMAREN;
 
-XXVII. Recolección Selectiva: La acción de recibir separados en su origen los residuos sólidos urbanos o de manejo especial, orgánicos húmedos y de otra índole, para trasladarlos a las instalaciones dedicadas a su acopio, almacenamiento temporal, reutilización, reciclado, co-procesamiento, tratamiento o disposición final;
+XXVII.- Planes de Manejo: El instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de los residuos bajo, criterios de eficiencia, tecnológica, económica y social bajo los principios de responsabilidad compartida y manejo integral, que considere el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno;
 
-XXVIII. Relleno Sanitario: Instalación en la cual se depositan de manera temporal o permanente los residuos sólidos urbanos, en sitios y en condiciones apropiadas, para prevenir o reducir la liberación de contaminantes al ambiente, la captación adecuada de lixiviados, evitar procesos de combustión no controlada, la generación de malos olores, la proliferación de fauna nociva y demás problemas ambientales y sanitarios;
+XXVIII.- Programa: El Programa para la Prevención y Gestión Integral de los Residuos, elaborado con la participación social y constituido por un conjunto de lineamientos, acciones y metas en relación con el desarrollo de las actividades normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación para sustentar la minimización y el manejo integral, ambientalmente adecuado, económicamente viable y socialmente aceptable, de los residuos sólidos urbanos y de manejo especial;
 
-XXIX. Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en esta Ley y demás ordenamientos que de ella deriven;
+XXIX.- Recolección Selectiva: La acción de recibir separados en su origen los residuos sólidos urbanos o de manejo especial, orgánicos húmedos y de otra índole, para trasladarlos a las instalaciones dedicadas a su acopio, almacenamiento temporal, reutilización, reciclado, co-procesamiento, tratamiento o disposición final;
 
-XXX. Residuos de Manejo Especial: Aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos conforme a la normatividad ambiental vigente o como residuos sólidos urbanos, o que son producidos por generadores de alto volumen de residuos urbanos;
+XXX.- Relleno Sanitario: Instalación en la cual se depositan de manera temporal o permanente los residuos sólidos urbanos, en sitios y en condiciones apropiadas, para prevenir o reducir la liberación de contaminantes al ambiente, la captación adecuada de lixiviados, evitar procesos de combustión no controlada, la generación de malos olores, la proliferación de fauna nociva y demás problemas ambientales y sanitarios;
 
-XXXI. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
+XXXI.- Reporte: Está considerado como el informe que deben de emitir los generadores de residuos ante las autoridades competentes, con el propósito de proporcionar los datos contenidos en la Bitácora;
 
-XXXII. Residuos Orgánicos: Son aquellos que se descomponen naturalmente y tiene la característica de poder desintegrarse o degradarse rápidamente, transformarse en otro tipo de material orgánico, por ejemplo, restos de comida, fruta, verduras, cáscaras, carnes, huevos, etc.
+XXXII.- Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en esta Ley y demás ordenamientos que de ella deriven;
 
-XXXIII. Residuos Inorgánicos: Son los que por sus características químicas sufren una descomposición natural muy lenta, muchos de ellos son de origen natural, sin ser biodegradables, por ejemplo, los envases de plástico, generalmente se reciclan a través de métodos artificiales y mecánicos, como latas, vidrios, plásticos, gomas, en muchos es imposible su transformación o reciclaje;
+XXXIII.- Residuos de Manejo Especial: Aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos conforme a la normatividad ambiental vigente o como residuos sólidos urbanos, o que son producidos por generadores de alto volumen de residuos urbanos;
 
-XXXIV. Bitácora: Es el libro en el que se lleva la cuenta o razón, que utilizan los generadores de residuos, a fin de llevar un control del manejo intgral (sic) de éstos;
+XXXIV.- Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
 
-XXXV. Reporte: Esta considerado como el informe que deben de emitir los generadores de residuos ante las autoridades competentes, con el propósito de proporcionar los datos contenidos en la Bitácora;
+XXXV.- Residuos Orgánicos: Son aquellos que se descomponen naturalmente y tiene la característica de poder desintegrarse o degradarse rápidamente, transformarse en otro tipo de material orgánico, por ejemplo, restos de comida, fruta, verduras, cáscaras, carnes, huevos, etc.
 
-XXXVI. Residuos Peligrosos: Son aquello (sic) que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que tengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfiera a otro sitio, de conformidad en lo establecido en la Ley General;
+XXXVI.- Residuos Inorgánicos: Son los que por sus características químicas sufren una descomposición natural muy lenta, muchos de ellos son de origen natural, sin ser biodegradables, por ejemplo, los envases de plástico, generalmente se reciclan a través de métodos artificiales y mecánicos, como latas, vidrios, plásticos, gomas, en muchos es imposible su transformación o reciclaje;
 
-XXXVII. SEMAREN: La Secretaría de Medio Ambiente y Recursos Naturales del Estado de Guerrero;
+XXXVII.- Residuos Peligrosos: Son aquello (sic) que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que tengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfiera a otro sitio, de conformidad en lo establecido en la Ley General;
 
-XXXVIII. Sistema de Gestión Ambiental Municipal (SIGAM): Es un proceso de planeación y organización del municipio para el cuidado del ambiente y el aprovechamiento de los recursos naturales en el marco del desarrollo sustentable;
+XXXVIII.- SEMAREN: La Secretaría de Medio Ambiente y Recursos Naturales del Estado de Guerrero;
 
-XXXIX. Sistema de Manejo Ambiental: Conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de los entes públicos, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta con sus políticas de adquisiciones la prevención de la generación de residuos, su aprovechamiento y manejo integral;
+XXXIX.- Sistema de Gestión Ambiental Municipal (SIGAM): Es un proceso de planeación y organización del municipio para el cuidado del ambiente y el aprovechamiento de los recursos naturales en el marco del desarrollo sustentable;
 
-XL. Subproducto: Material obtenido de forma colateral como sobrante o merma de un proceso productivo, que puede ser comercializado o servir como materia prima en un proceso igual o diferente al que lo generó;
+XL.- Sistema de Manejo Ambiental: Conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de los entes públicos, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta con sus políticas de adquisiciones la prevención de la generación de residuos, su aprovechamiento y manejo integral;
 
-XLI. Separación: El procedimiento por el cual se segregan desde la fuente generadora los residuos orgánicos de los inorgánicos, para facilitar el aprovechamiento de materiales valorizables;
+XLI.- Subproducto: Material obtenido de forma colateral como sobrante o merma de un proceso productivo, que puede ser comercializado o servir como materia prima en un proceso igual o diferente al que lo generó;
 
-XLII. Transferencia: La acción de transbordar los residuos sólidos urbanos de los vehículos de recolección a las unidades de transporte;
+XLII.- Separación: El procedimiento por el cual se segregan desde la fuente generadora los residuos orgánicos de los inorgánicos, para facilitar el aprovechamiento de materiales valorizables;
 
-XLIII. Transporte primario: El procedimiento mediante el cual se trasladan los residuos sólidos urbanos recolectados de las diversas fuentes generadoras, hasta los sitios de transferencia, tratamiento y/o disposición final;
+XLIII.- Transferencia: La acción de transbordar los residuos sólidos urbanos de los vehículos de recolección a las unidades de transporte;
 
-XLIV. Transporte Secundario: La acción de trasladar los residuos sólidos urbanos hasta los sitios de disposición final, una vez que han pasado por las etapas de transferencia y tratamiento; y
+XLIV.- Transporte Primario: El procedimiento mediante el cual se traslada los residuos sólidos urbanos recolectados de las diversas fuentes generadoras, hasta los sitios de transferencia, tratamiento y/o disposición final;
 
-XLV. Trituración: El procedimiento mediante el cual se rompen en fragmentos los residuos para facilitar su compactación con fines de transporte, reciclado, tratamiento y disposición final.
+XLV.- Transporte Secundario: La acción de trasladar los residuos sólidos urbanos hasta los sitios de disposición final, una vez que han pasado por las etapas de transferencia y tratamiento;
+
+XLVI.- Trituración: El procedimiento mediante el cual se rompe en fragmentos los residuos para facilitar su compactación con fines de transporte, reciclado, tratamiento y disposición final.
 
 ###### ARTÍCULO 5.
 
@@ -477,6 +483,12 @@ XXIV.- La participación pública en la formulación de programas de prevención
 
 XXV.- Los demás que establezca el Reglamento de esta Ley y el Programa Nacional para la Prevención y Gestión Integral de los Residuos.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2010)</small>
+
+###### ARTÍCULO 14 Bis.
+
+Se prohíbe la quema a cielo abierto y la incineración de residuos sólidos urbanos y de manejo especial, así como cualquier otro tratamiento térmico, o co-procesamiento de este tipo de residuos que genere dioxinas y/o furanos como subproductos.
+
 ### CAPÍTULO III. PLANES DE MANEJO
 
 ###### ARTÍCULO 15.
@@ -681,7 +693,7 @@ II.- Promover la participación de las escuelas, universidades, organismos no gu
 
 III.- Fomentar la participación de empresas públicas y privadas en el desarrollo de programas de educación ambiental que promuevan la minimización de residuos y su manejo adecuado;
 
-IV. - Desarrollar los programas de sensibilización ambiental dirigidos a lo (sic) distintos organismos privados y sociales y a la ciudadanía en general;
+IV.- Desarrollar los programas de sensibilización ambiental dirigidos a lo (sic) distintos organismos privados y sociales y a la ciudadanía en general;
 
 V.- Establecer proyectos de sensibilización y orientación al turismo para que éste contribuya a prevenir la contaminación por residuos;
 
@@ -881,7 +893,7 @@ II.- El inventario de residuos generados en el Estado, de los diversos sectores 
 
 III.- La infraestructura disponible y necesaria para el manejo integral de los residuos;
 
-IV.- Los incentivos para alentar la inversión del sector privado;
+IV. - Los incentivos para alentar la inversión del sector privado;
 
 V.- Los objetivos a corto, mediano y largo plazo para la gestión y manejo integral de residuos;
 
@@ -1559,7 +1571,9 @@ X.- Fomentar o crear sitios de disposición final no autorizados de residuos só
 
 XI.- Depositar o confinar residuos fuera de los sitios destinados para dicho fin, o en parques, áreas verdes y áreas de valor ambiental públicos y las áreas naturales protegidas, zonas rurales o demás áreas de conservación ecológica y otros lugares no autorizados;
 
-XII.- Incinerar residuos en condiciones contrarias a las establecidas en las disposiciones legales correspondientes, y sin autorización alguna;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2010)</small>
+
+XII.- Incinerar, quemar o tratar térmicamente los residuos sólidos urbanos y de manejo especial.
 
 XIII.- Diluir o mezclar residuos sólidos urbanos o de manejo especial con líquidos para su vertimiento al sistema de alcantarillado, a cualquier cuerpo de agua o sobre suelos con o sin cubierta vegetal;
 
@@ -1593,21 +1607,39 @@ III. Arresto Administrativo, hasta por treinta y seis horas,
 
 IV. Trabajo a favor de la comunidad en actividades de barrido o limpieza en áreas públicas.
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2010)</small>
+
+V. En el caso de quien queme a cielo abierto o incinere residuos sólidos urbanos y/o de manejo especial, se sancionará con una multa de 20 a 60 días de salario mínimo vigente en el Municipio y/o 12 a 36 horas de arresto administrativo, conmutable por el mismo número de horas de trabajo comunitario a favor de la salud pública y el mejoramiento al medio ambiente.
+
 B) SANCIONES A PERSONAS MORALES:
 
-Amonestación por escrito,
+> <small>(REFORMADA [N. DE E. ANTES PARRAFO PRIMERO], P.O. 20 DE AGOSTO DE 2010)</small>
 
-Multa de 20 a 60 mil días de salario mínimo vigente en el Municipio en el momento de cometerse la infracción,
+I.- Amonestación por escrito;
 
-Clausura temporal o definitiva, parcial o total, cuando:
+> <small>(REFORMADA [N. DE E. ANTES PARRAFO SEGUNDO], P.O. 20 DE AGOSTO DE 2010)</small>
 
-a) El infractor no hubiere cumplido en los plazos y condiciones impuestos por la autoridad competente, con las medidas correctivas, de seguridad o de urgente aplicación ordenadas por la autoridad competente;
+II.- Multa de 10 mil a 60 mil días de salario mínimo vigente en el Municipio en el momento de cometerse la infracción;
+
+> <small>(REFORMADA [N. DE E. ANTES PARRAFO TERCERO], P.O. 20 DE AGOSTO DE 2010)</small>
+
+III.- Clausura temporal o definitiva, parcial o total, cuando:
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2010)</small>
+
+a) El infractor no hubiere cumplido en los plazos y condiciones impuestos por la autoridad competente, con las medidas correctivas, de seguridad o de urgente aplicación;
 
 b) Haya reincidencia, en caso de que las infracciones generen efectos negativos al ambiente, a los recursos naturales o a la salud de la población; o
 
 c) Se trate de desobediencia reiterada al cumplimiento de alguna o algunas medidas correctivas o de urgente aplicación impuestas por la autoridad.
 
-La suspensión o revocación de las autorizaciones correspondientes.
+> <small>(REFORMADA [N. DE E. ANTES PARRAFO CUARTO], P.O. 20 DE AGOSTO DE 2010)</small>
+
+IV.- La suspensión o revocación de las autorizaciones correspondientes.
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2010)</small>
+
+V.- En el caso de quien queme a cielo abierto o incinere residuos sólidos urbanos y de manejo especial, se sancionará con una multa de 20 mil a 60 mil días de salario mínimo vigente en el Municipio.La suspensión o revocación de las autorizaciones correspondientes.
 
 ###### ARTÍCULO 149.
 
@@ -1796,3 +1828,19 @@ EL SECRETARIO DE MEDIO AMBIENTE Y RECURSOS NATURALES.
 LIC. SABÁS ARTURO DE LA ROSA CAMACHO.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE AGOSTO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese al Titular del Poder Ejecutivo para su conocimiento y efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
