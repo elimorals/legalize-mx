@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-ordenamiento-del-paisaje-urbano-del-45920"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-29"
-last_updated: "2005-08-29"
+last_updated: "2010-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45920&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2005-07-21"
 
 REGLAMENTO PARA EL ORDENAMIENTO DEL PAISAJE URBANO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DECIMO SEGUNDO DE LA LEY DE PUBLICIDAD EXTERIOR DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 20 DE AGOSTO DE 2010, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO QUE SE OPONGAN A LA PRESENTE LEY, ASI COMO LAS DEMAS DISPOSICIONES QUE CONTRAVENGAN LO DISPUESTO POR LA MISMA, CON EXCEPCION DE LO SEÑALADO EN EL ARTICULO 21 DEL NUEVO ORDENAMIENTO POR LO QUE HACE LA PROPAGANDA ELECTORAL.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE AGOSTO DE 2010.
 
 Reglamento publicado en el Número Ter de la Gaceta Oficial del Distrito Federal, el lunes 29 de agosto de 2005.
 
@@ -1927,3 +1929,33 @@ QUINTO.- Todo lo establecido en el Decreto por el cual se crea la Comisión de N
 > <small>(F. DE E., G.O. 7 DE SEPTIEMBRE DE 2005)</small>
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los tres días del mes de agosto de dos mil cinco. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ALEJANDRO DE JESÚS ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE GOBIERNO, RICARDO RUÍZ SUÁREZ.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, LAURA ITZEL CASTILLO JUÁREZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO.- FIRMA.- SECRETARIO DE OBRAS Y SERVICIOS, ING. CÉSAR BUENROSTRO HERNÁNDEZ.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, FRANCISCO GARDUÑO YÁÑEZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 20 DE AGOSTO DE 2010.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Las personas físicas y morales que no cuenten con licencia, autorización condicionada o visto bueno, según el caso, para la instalación de anuncios, tendrán un plazo de nueve meses contados a partir de la entrada en vigor de la presente Ley, para retirarlos. Durante este plazo, las autoridades del Distrito Federal se abstendrán de aplicar las sanciones previstas en la presente Ley y de interponer las denuncias o querellas por la comisión de delitos relacionados con la instalación irregular de publicidad exterior. Lo anterior sin menoscabo de las acciones de intervención de la autoridad en caso de riesgo a la población civil.
+
+Tercero. Los anuncios que deberán retirarse de conformidad con lo dispuesto por el artículo anterior, serán los instalados en el territorio del Distrito Federal que no se hayan incorporado al Programa de Reordenamiento de Anuncios y Recuperación de la Imagen Urbana del Distrito Federal instrumentado por la Secretaría de Desarrollo Urbano y Vivienda desde el año 2004, así como los convenios de colaboración y coordinación firmados el 14 de mayo del 2007, para el reordenamiento del paisaje urbano.
+
+Cuarto. La Secretaría de Desarrollo Urbano y Vivienda instalará una mesa de trabajo con las personas físicas y morales incorporadas al Programa de Reordenamiento de Anuncios y Recuperación de la Imagen Urbana del Distrito Federal, con el objeto de reubicar los anuncios que hayan cumplido con los requisitos establecidos por los ordenamientos jurídicos aplicables a dicho Programa, a efecto de instalarlos en los nodos, o en su caso, en los corredores publicitarios previstos en la presente Ley. Por esta única ocasión, el otorgamiento de Permisos Administrativos Temporales Revocables de espacios para anuncios en nodos publicitarios, se realizará conforme al registro de inventarios de anuncios realizado por los participantes del Programa respetando la proporcionalidad y la equidad en la distribución de espacios.
+
+Quinto. El Consejo de Publicidad Exterior deberá instalarse en un plazo no mayor a treinta días posteriores a la entrada en vigor de la presente Ley. Una vez instalado el Consejo, y en un plazo de treinta días posteriores a la instalación, la Secretaría de Desarrollo Urbano y Vivienda le presentará la propuesta de acuerdo para determinar la ubicación de los nodos publicitarios y de anuncios en corredores publicitarios.
+
+Sexto. En un plazo de noventa días posteriores a la aprobación del acuerdo del Consejo de Publicidad Exterior a que hace referencia el artículo anterior, la Secretaría de Desarrollo Urbano y Vivienda determinará los espacios para anuncios en nodos publicitarios.
+
+Séptimo. La Oficialía Mayor contará con un plazo de quince días hábiles posteriores a la entrada en vigor de la presente Ley, para entregar a la Secretaría de Desarrollo Urbano y Vivienda una relación de los Permisos Administrativos Temporales Revocables otorgados para la instalación de pantallas electrónicas, mobiliario urbano con publicidad integrada, y demás formas de publicidad exterior, así como copia certificada de los expedientes de cada uno de los Permisos otorgados.
+
+Octavo. La Administración Pública del Distrito Federal tendrá un plazo de treinta días hábiles, contados a partir de la entrada en vigor de la presente Ley, para implementar un programa orientado a desalojar toda clase de obstáculos que se encuentren en las áreas y vías que integran el espacio público destinado a los nodos publicitarios.
+
+Noveno. Los puestos de comercio ambulante, fijo y semifijo que se encuentren instalados en los espacios públicos que formen parte de los nodos publicitarios, serán reubicados dentro de un plazo de treinta días contados a partir de la fecha en que se publique en la Gaceta Oficial del Distrito Federal el acuerdo que determine la ubicación del nodo publicitario de que se trate.
+
+Décimo. Los procedimientos administrativos de visita de verificación que se encuentren en trámite a la entrada en vigor de la presente Ley, se seguirán de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Décimo Primero. Las licencias o autorizaciones condicionadas expedidos (sic) con anterioridad a la entrada en vigor de la presente Ley, seguirán teniendo validez en tanto no sean sustituidos por los Permisos Administrativos Temporales Revocables, o en su caso, por las licencias que correspondan.
+
+Décimo Segundo. Se derogan las disposiciones del Reglamento para el Ordenamiento del Paisaje Urbano del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 29 de agosto de 2005, que se opongan a la presente Ley, así como las demás disposiciones que contravengan lo dispuesto por la misma, con excepción de las Leyes a que hace referencia el artículo 21 de este ordenamiento.
+
+Décimo Tercero. El Ejecutivo del Distrito Federal deberá expedir el Reglamento de la presente Ley, en un plazo que no deberá exceder a los noventa días naturales contados a partir de la expedición de la misma.
