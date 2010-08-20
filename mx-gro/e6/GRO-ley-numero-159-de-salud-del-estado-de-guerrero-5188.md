@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-159-de-salud-del-estado-de-guerrero-5188"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-25"
-last_updated: "2009-10-27"
+last_updated: "2010-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUM. 159, DE SALUD DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 25 de abril de 1995.
 
@@ -289,7 +289,9 @@ El Secretario de Salud y los Subsecretarios serán nombrados y removidos por el 
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos políticos y mayor de 21 años de edad;
 
-II.- Ser Médico Titulado y con experiencia en materia de salud pública; y,
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2010)</small>
+
+II.- Ser Médico Titulado y con experiencia mínima de dos años en materia de salud pública; y
 
 III.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión o si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena forma en concepto público.
 
@@ -3024,3 +3026,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en dos diarios de circulación estatal, para el conocimiento general y efectos legales procedentes.
 
 TERCERO.- Notifíquese a las autoridades competentes para su conocimiento y efectos legales conducentes.
+
+P.O. 20 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, en dos diarios de circulación estatal, así como en la página web del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+TERCERO.- Notifíquese a las autoridades competentes, para los efectos legales conducentes.
