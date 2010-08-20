@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2010-06-28"
+last_updated: "2010-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 2010.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -717,7 +717,9 @@ XXXIII.- Los Jueces de Distrito en Materia de Procesos Penales Federales del Pri
 
 QUINTO.- Se contará con:
 
-1. El Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal, el cual se integrará por cinco juzgados de Distrito Auxiliares y dos tribunales colegiados Auxiliares.
+> <small>(REFORMADO POR PUNTO UNICO DEL ACUERDO GENERAL 19/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE AGOSTO DE 2010)</small>
+
+1. El Centro Auxiliar de la Primera Región, el cual se integrará por siete juzgados de Distrito Auxiliares y seis tribunales colegiados Auxiliares; los Juzgados Primero, Segundo, Tercero, Cuarto y Quinto de Distrito Auxiliares tendrán su residencia en el Distrito Federal; los Juzgados Sexto y Séptimo de Distrito Auxiliares, en Cuernavaca, Morelos; el Primer, Segundo, Tercero y Cuarto Tribunales Colegiados de Circuito Auxiliares tendrán su residencia en el Distrito Federal, en tanto que el Quinto y Sexto Tribunales Colegiados de Circuito Auxiliares, la tendrán en Cuernavaca, Morelos.
 
 2. El Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, el cual se integrará por nueve juzgados de Distrito Auxiliares y cuatro tribunales colegiados Auxiliares.
 
@@ -988,3 +990,11 @@ SEGUNDO. Los órganos jurisdiccionales del Vigésimo Cuarto Circuito, con sede e
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
 
 CUARTO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 20 DE AGOSTO DE 2010.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 20/2009, del Pleno del Consejo de la Judicatura Federal, que Crea el Centro Auxiliar de la Primera Región, con Residencia en el Distrito Federal, así como los Organos Jurisdiccionales que lo Integrarán; así como al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, respectivamente.
