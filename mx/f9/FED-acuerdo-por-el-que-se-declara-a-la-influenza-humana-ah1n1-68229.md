@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-declara-a-la-influenza-humana-ah1n1-68229
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-05-02"
-last_updated: "2009-05-02"
+last_updated: "2010-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68229&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-04-27"
 
 ACUERDO POR EL QUE SE DECLARA A LA INFLUENZA HUMANA AH1N1 ENFERMEDAD GRAVE DE ATENCION PRIORITARIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL ACUERDO EMITIDO POR EL CONSEJO DE SALUBRIDAD GENERAL, PUBLICADO EN EL D.O.F. DE 20 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADO.
 
 Acuerdo publicado en la Edición Extraordinaria del Diario Oficial de la Federación, el sábado 2 de mayo de 2009.
 
@@ -54,3 +56,9 @@ UNICO. Se declara a la influenza humana AH1N1 enfermedad grave de atención prio
 UNICO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 México, Distrito Federal, a los veintisiete días del mes de abril de dos mil nueve.- El Secretario de Salud y Presidente del Consejo de Salubridad General, José Angel Córdova Villalobos.- Rúbrica.- El Secretario del Consejo de Salubridad General, Enrique Juan Diego Ruelas Barajas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 20 DE AGOSTO DE 2010.
+
+UNICO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
