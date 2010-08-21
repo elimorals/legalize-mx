@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-50489"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-13"
-last_updated: "2006-05-13"
+last_updated: "2010-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DE CIENCIA, TECNOLOGIA E INNOVACION DEL ESTADO DE ZACATECAS - ANTES LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE ZACATECAS -
 
-LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE ZACATECAS
+LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2010.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 13 de mayo de 2006.
 
@@ -45,7 +45,9 @@ Por lo antes expuesto y fundado, y con apoyo además en lo dispuesto por los art
 
 DECRETA
 
-LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE ZACATECAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2010)</small>
+
+LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE ZACATECAS
 
 ## TÍTULO PRIMERO. Disposiciones Generales
 
@@ -55,27 +57,45 @@ LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE ZACATECAS
 
 La presente Leyes de orden público, interés social y de observancia general en el Estado de Zacatecas y tiene por objeto:
 
-I. Planear y desarrollar la ciencia y la Tecnología en el Estado;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-II. Consolidar la política del Gobierno del Estado en la materia, sustentada en la Integración y fortalecimiento del Sistema de Ciencia y Tecnología de la Entidad, como instrumento estratégico para su desarrollo;
+I. Planear, desarrollar y consolidar a actividad científica, a la tecnología y a la innovación en el Estado;
 
-III. Vincular la investigación científica, el desarrollo tecnológico y la innovación, con el desarrollo socioeconómico nacional, estatal, regional y municipal;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-IV. Obtener, administrar y evaluar la aplicación transparente de los recursos que el Estado, los municipios y los particulares destinen a la ciencia y la tecnología, así como la concertación de los que la Federación aporte a la entidad para ese mismo fin;
+II. Consolidar la política del Gobierno del Estarlo en la materia, sustentada en la integración y fortalecimiento del Sistema de Ciencia, Tecnología e Innovación de la Entidad, como instrumento estratégico para su desarrollo;
 
-V. Coordinar las actividades científicas y tecnológicas de las dependencias y entidades de la administración pública del Estado y la incorporación de los avances en esta materia para su modernización, observando y aplicando las políticas e instrumentos previstos en este ordenamiento;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-VI. Organizar, estimular y reconocer a la comunidad científica;
+III. Fomentar la vinculación de los sectores educativo, productivo y de servicios, con el desarrollo socioeconómico nacional, estatal, regional y municipal, a través de la ciencia, la tecnología y la innovación;
 
-VII. Integrar, Incrementar y consolidar la capacidad dar Sistema de Ciencia y Tecnología del Estado, mediante la creación de centros, grupos y redes de investigación;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+IV. Obtener, administrar y evaluar la aplicación transparente de los recursos que el Estado, los municipios y los particulares destinen a la ciencia, la tecnología y la innovación, así como la concertación de los que la Federación aporte a la entidad para ese mismo fin;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+V. Coordinar las actividades científicas, tecnológicas y de innovación de las dependencias y entidades de la administración pública del Estado y la incorporación de los avances en esta materia para su modernización, observando y aplicando las políticas e instrumentos previstos en este ordenamiento;
+
+VI. (DEROGADA, P.O. 21 DE AGOSTO DE 2010)
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+VII. Integrar, incrementar y consolidar la capacidad del Sistema de Ciencia, Tecnología e Innovación del Estado, mediante la organización, el estímulo y el reconocimiento de la comunidad científica, así como la creación de centros, grupos y redes de investigación;
 
 VIII. Fortalecer e impulsar la infraestructura, multiplicación de proyectos de investigación y la formación e integración de científicos y tecnólogos de alto nivel académico, así como la vinculación de sus resultados a fin de constituirse en Instrumento promotor del desarrollo de la entidad;
 
-IX. Garantizar la vinculación del Sistema con las instituciones de los sectores gubernamental, productivo y social, para que la investigación científica y tecnológica contribuya a la promoción del desarrollo, la competitividad económica, la transformación del sistema educativo, la mejoría de la calidad de vida, el avance del conocimiento y la transformación cultural de la sociedad;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-X. Garantizar la elaboración interinstitucional e intersectorial en los tres niveles de gobierno, con la finalidad de favorecer la coordinación y la descentralización de las actividades científicas y tecnológicas en la entidad;
+IX.- Garantizar la vinculación del Sistema con las instituciones de los sectores académico, gubernamental, productivo y social, para que la investigación científica y tecnológica contribuya a la promoción del desarrollo, la competitividad económica, la transformación del sistema educativo, la mejoría de la calidad de vida, el avance del conocimiento y la transformación cultural de la sociedad;
 
-XI. Crear el sistema Estatal de Investigadores;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+X. Garantizar la colaboración interinstitucional e intersectorial en los tres niveles de gobierno, con la finalidad de favorecer la coordinación y la descentralización de las actividades científicas, tecnológicas y de innovación en la entidad;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XI. Impulsar el fortalecimiento del Sistema Estatal de Investigadores;
 
 XII. Identificar, revalorar y preservar los conocimientos tradicionales de la Entidad, en término de las leyes aplicables;
 
@@ -83,27 +103,55 @@ XIII. Promover en las instituciones educativas de la entidad la investigación c
 
 XIV. Difundir la información científica y tecnológica en la entidad.
 
-###### Articulo 2.
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-la Investigación científica, el desarrollo tecnológico y la innovación son actividades prioritarias y estratégicas del Gobierno Estatal, del Sistema de Ciencia y Tecnología del Estado, de los sectores productivo y social y, en general, de los particulares, como parte del quehacer fundamental para el desarrollo integral de la persona, el avance del conocimiento y la transformación económica, social y cultural de la sociedad en su conjunto.
+XV. Crear las condiciones para que las universidades y las instituciones de educación superior del Estado puedan vincularse con el sector productivo y de servicios del país;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XVI. Impulsar la tecnología y la innovación de las empresas que desarrollen sus actividades en el territorio del Estado, en particular en aquellos sectores en los que existen condiciones para generar nuevas tecnologías y lograr mayor competitividad, y
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XVII. Establecer el sistema presupuestal y contable que permita identificar plenamente el monto destinado por el Gobierno del Estado a ciencia, tecnología e innovación. La organización y funcionamiento de este sistema quedarán establecidos en el estatuto orgánico.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+El Gobierno del Estado, con sujeción a las disposiciones de ingreso y gasto público que resulten aplicables, concurrirá con los órdenes de gobierno federal y municipal, para lograr un gasto en financiamiento de la investigación científica, desarrollo tecnológico e innovación, que no podrá ser menor a 1% del Producto Interno Bruto del país. Para ello, el Gobierno del Estado destinará al menos el 1 % del Presupuesto de Egresos Anual.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+###### Artículo 2.
+
+La investigación científica, la tecnología y la innovación son actividades prioritarias y estratégicas del Gobierno Estatal, del Sistema de Ciencia y Tecnología e Innovación del Estado, de los sectores productivo y social y, en general, de los particulares, como parte del quehacer fundamental para el desarrollo integral de la persona, el avance del conocimiento y la transformación económica, social y cultural de la sociedad en su conjunto.
 
 ###### Artículo 3.
 
 Para los efectos de esta ley se entenderá por:
 
-l. Ley: La Ley de Ciencia y Tecnología del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+I. Ley: La Ley de Ciencia, Tecnología e Innovación del Estado de Zacatecas;
 
 II. Estatuto Orgánico: El conjunto de disposiciones que establecen las bases de organización, facultades y funciones de los órganos y unidades administrativas del COZCYT.
 
-III. COZCYT: El Consejo Zacateca no de Ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+III. COZCYT: El Consejo Zacatecano de Ciencia, Tecnología e Innovación;
 
 IV. Investigación científica y tecnológica: El proceso sistemático de planeación generación, transmisión, mejoramiento, divulgación difusión, enseñanza y aplicación de los conocimientos en las diversas áreas relacionadas con la ciencia y la Tecnología, orientado a la satisfacción de las demandas y expectativas sociales, a la prevención y atención de las necesidades del desarrollo de la entidad, así como al avance del conocimiento;
 
-V. Desarrollo Tecnológico: El proceso de aplicación del conocimiento para la producción de bienes o servicios;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-VI. Innovación: la transformación de una idea en un producto, proceso de fabricación o enfoque de un servicio social determinado, en uno nuevo o mejorado, así como a la transformación de una tecnología en otra de mayor utilidad;
+V. Tecnología: La utilización sistemática del conocimiento y la investigación dirigidos hacia la producción de materiales, dispositivos, sistemas o métodos incluyendo el diseño, desarrollo y mejora de prototipos, procesos, productos, servicios o modelos organizativos;
 
-VII. Vinculación: La relación formal y estructurada de intercambio y cooperación del Sistema de Ciencia y Tecnología del Estado con los sectores productivo, gubernamental y social, que tiene como objetivo, para el primero, avanzar en el desarrollo científico académico y, para los segundos, la solución de problemas concretos y la atención de las necesidades y expectativas de desarrollo de la entidad. Se lleva a cabo mediante la modalidad que a los Interesados convenga y se formaliza en contratos, convenios o programas; se favorece a través de la divulgación, difusión y enseñanza de la ciencia y la tecnología; se gestiona preferentemente por medio de estructuras académico-administrativas específicas;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+VI. Innovación: La aplicación de una idea a la generación de un nuevo producto, proceso, servicio, método u organización, o añadir valor a los ya existentes, con un objetivo productivo;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+VII. Vinculación: La relación formal y estructurada de intercambio y cooperación del Sistema de Ciencia, Tecnología e Innovación del Estado entre los sectores académico, productivo, gubernamental y social, que tiene como objetivo, para el primero, avanzar en el desarrollo científico académico y, para los segundos, la solución de problemas concretos y la atención de las necesidades y expectativas de desarrollo de la entidad. Se lleva a cabo mediante la modalidad que a los interesados convenga y se formaliza en contratos, convenios o programas; se favorece a través de la divulgación, difusión y enseñanza de la ciencia y la tecnología; se gestiona preferentemente por medio de estructuras académico-administrativas específicas;
 
 VIII. Comunidad Científica: Conjunto de Investigadores, investigadoras, tecnólogos, tecnólogas, ayudantes de investigación, documentalistas, vinculadores, vinculadoras, divulgadores, divulgadoras, gestores, gestoras y administradores y administradoras científicas y tecnológicas adscritas a las instituciones y empresas científicas y tecnológicas localizadas en la entidad;
 
@@ -121,23 +169,31 @@ XIV. Gestor o gestora: Promotor o promotora de la aplicación del conocimiento c
 
 XV. Administrador o administradora: Personal encargado de las tareas de gestión y administración de recursos, necesarios para el desarrollo científico y tecnológico;
 
-XVI. Sistema: El Sistema de Ciencia y Tecnología del Estado, definido como el conjunto de sistemas regionales y municipales, instituciones y empresas científicas y tecnológicas, públicas y privadas, diferenciadas e Interdependientes, integradas por investigadores, grupos, centros y redes de investigación y demás miembros de la comunidad científica, por su infraestructura científica y tecnológica, por sus programas de postgrado y por su acervo científico y tecnológico, así como los organismos legislativos, financieros y de la administración pública federal, estatal y municipal relacionados con la ciencia y tecnología en la entidad que interactúan orientados por la legislación, normatividad y políticas públicas en la materia;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-XVII. Áreas prioritarias: las áreas del conocimiento que por su importancia estratégica para el desarrollo del Estado, requieren de acciones de generación, aplicación e innovación científica y tecnológica;
+XVI. Sistema: El Sistema de Ciencia, Tecnología e Innovación, definido como el conjunto de sistemas regionales y municipales, instituciones y empresas científicas y tecnológicas, públicas y privadas, diferenciadas e interdependientes, integradas por investigadores, grupos, centros y redes de investigación y demás miembros de la comunidad científica, por su infraestructura científica y tecnológica, por sus programas de postgrado y por su acervo científico y tecnológico, así como los organismos legislativos, financieros y de la administración pública federal, estatal y municipal relacionados con la ciencia, la tecnología y la innovación en la entidad, que interactúan orientados por la legislación, normatividad y políticas públicas en la materia;
 
-XVIII. Infraestructura científica y tecnológica: Conjunto de bienes muebles e inmuebles, así como los recursos materiales necesarios para la realización de la investigación científica y tecnológica;
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-XIX. Programa: Al Programa Especial de Ciencia y Tecnología del Estado de Zacatecas;
+XVII. Unidades de vinculación y transferencia de conocimiento: Las unidades creadas por las universidades e instituciones de educación superior en el Estado, con el objetivo de generar proyectos en materia de tecnología e innovación y promover su vinculación con los sectores productivos y ele servicios;
 
-XX. Institución o Impresa Científica y Tecnológica: Organismo Público o privado que desarrolla investigación científica y tecnológica;
+XVIII. Áreas prioritarias: las áreas del conocimiento que por su importancia estratégica para el desarrollo del Estado, requieren de acciones de generación, aplicación e innovación científica y tecnológica;
 
-XXI. Red Científica; y Tecnológica: Asociación formal o informal, articulada horizontalmente de instituciones, investigadores y demás integrantes de la comunidad científica, que interactúan atendiendo a un interés científico y tecnológico común;
+XIX. Infraestructura científica y tecnológica: Conjunto de bienes muebles e inmuebles, así como los recursos materiales necesarios para la realización de la investigación científica y tecnológica;
 
-XXII. CONACYT: El Consejo Nacional de Ciencia y Tecnología;
+XX. Programa: Al Programa Especial de Ciencia y Tecnología del Estado de Zacatecas;
 
-XXIII. Junta Directiva: La Junta Directiva del COZCYT; y
+XXI. Institución o Impresa Científica y Tecnológica: Organismo Público o privado que desarrolla investigación científica y tecnológica;
 
-XXIV, Consejo Asesor: Órgano colegiado de consulta del sistema del COZCYT y de los sectores productivos y sociales, en materia de ciencia y tecnología.
+XXII. Red Científica; y Tecnológica: Asociación formal o informal, articulada horizontalmente de instituciones, investigadores y demás integrantes de la comunidad científica, que interactúan atendiendo a un interés científico y tecnológico común;
+
+XXIII. CONACYT: El Consejo Nacional de Ciencia y Tecnología;
+
+XXIV. Junta Directiva: La Junta Directiva del COZCYT; y
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXV. Consejo Asesor: Órgano colegiado de consulta del sistema del COZCYT y de los sectores productivos y sociales, en materia de ciencia, tecnología e innovación.
 
 ## TÍTULO SEGUNDO. De las Autoridades
 
@@ -153,25 +209,37 @@ II. Los Ayuntamientos; y
 
 III. El COZCYT.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 5.
 
-Compete al Poder Ejecutivo del Estada, a través del Consejo de Ciencia y Tecnología del Estado de Zacatecas, la aplicación y vigilancia general de la presente Ley, en los términos que la misma establece, así como su divulgación entre la población.
+Compete al Poder Ejecutivo del Estado, a través del Consejo Zacatecano de Ciencia, Tecnología e Innovación, la aplicación y vigilancia general de la presente Ley, en los términos que la misma establece, así como su divulgación entre la población.
 
 ###### Artículo 6.
 
 Corresponde al Ejecutivo del Estado:
 
-I. Planear, coordinar y evaluar la política general de ciencia y tecnología orientada al desarrollo del Estado;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-II. Establecer en el Plan Estatal de Desarrollo y en los Programas Sectoriales las políticas relativas al fomento de la ciencia y la Tecnología en el Estado, de conformidad con lo previsto en esta Ley;
+I. Planear, coordinar y evaluar la política general de ciencia, tecnología e innovación orientada al desarrollo del Estado;
 
-III. Formular, aprobar, publicar, ejecutar y evaluar el Programa Especial de Ciencia y Tecnología del Estado de Zacatecas, en el marco de la Ley de Planeación para el Desarrollo del Estado, con la más alta participación de la sociedad;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+II. Establecer en el Plan Estatal de Desarrollo y en los Programas Sectoriales las políticas relativas al fomento de la ciencia, la tecnología y la innovación en el Estado, de conformidad con lo previsto en esta Ley;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+III. Formular, aprobar, publicar, ejecutar y evaluar el Programa Especial de Ciencia, Tecnología e Innovación del Estado de Zacatecas, en el marco de la Ley de Planeación para el Desarrollo del Estado, con la más alta participación de la sociedad;
 
 IV. Integrar, fortalecer y consolidar el Sistema, orientando recursos que incrementen su capacidad mediante la creación de centros, grupos y redes de Investigación, el fortalecimiento de su infraestructura, la multiplicación de proyectos de Investigación, el impulso a la formación e integración de científicos y tecnólogos de alto nivel académico y la vinculación de sus resultados a fin de constituirle en instrumento promotor del desarrollo de la entidad;
 
-V. Promover la descentralización de la ciencia y la tecnología, fomentando la integración y el fortalecimiento de los sistemas regionales y municipales de ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-VI. Promover la vinculación de la investigación científica y tecnológica con la educación;
+V. Promover la descentralización de la política de ciencia, tecnología e innovación en el Estado, fomentando la integración y el fortalecimiento de los sistemas regionales y municipales en la materia;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+VI. Promover la vinculación de la ciencia, la tecnología y la innovación con la educación;
 
 VII. Considerar dentro de los planes, programas, proyectos y presupuestos de las dependencias y entidades de la administración pública del Estado, las acciones y los recursos necesarios para el fortalecimiento de la ciencia, la tecnología y la innovación en general, y en particular para el eficaz cumplimiento del objeto de esta Ley;
 
@@ -179,7 +247,9 @@ VIII. Vigilar el uso racional, eficiente y eficaz de los recursos destinados a l
 
 IX. Crear, procurar el financia miento y operar los Fondos a que se refiere la presente Ley;
 
-X. Formular de incentivos fiscales para el financiamiento y promoción de la ciencia y la tecnología, así como en materia administrativa e Industrial, en los términos de las leyes aplicables;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+X. Formular de incentivos fiscales para el financiamiento y promoción de la ciencia la tecnología y la innovación, así como en materia administrativa e industrial, en los términos de las leyes aplicables;
 
 XI. Coordinar e integrar las actividades científicas y tecnológicas que las dependencias y entidades de la administración pública del Estado realicen en los términos de la presente Ley;
 
@@ -191,7 +261,9 @@ XIV. Organizar a la comunidad científica;
 
 XV. Conocer, organizar y garantizar el acceso a la información, en términos de las leyes aplicables, acerca de las actividades de investigación científica y tecnológica que las instituciones y empresas públicas y privadas, así como los particulares lleven a cabo en el Estado;
 
-XVI. Promover y divulgar de las actividades científicas y tecnológicas, tendientes al fortalecimiento de una sociedad del conocimiento;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XVI. Promover y divulgar las actividades científicas, tecnológicas y de innovación, tendientes al fortalecimiento de una sociedad del conocimiento;
 
 XVII. Garantizar la preservación de los conocimientos tradicionales de las zonas rurales y urbanas en el Estado de Zacatecas, en términos de las leyes aplicables; y
 
@@ -201,39 +273,57 @@ XVIII. Las demás que le confiera fa presente Ley y demás disposiciones aplicab
 
 Corresponde a los Ayuntamientos, en su respectivo ámbito municipal:
 
-I. Establecer las normas y políticas municipales para fa planeación y el desarrollo de la ciencia y la Tecnología;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+I. Establecer las normas y políticas municipales para la planeación y el desarrollo de la ciencia, la tecnología y la innovación;
 
 II. Crear, financiar y operar programas orientados al fortalecimiento de la capacidad de sus Sistemas de Ciencia y Tecnología;
 
-III. Establecer en sus presupuestos correspondientes los recursos necesarios para la realización de las actividades relacionadas con la ciencia y la tecnología;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-IV. Realizar {as acciones necesarias para impulsar la ciencia y la tecnología en coordinación con otros municipios y con el Ejecutivo del Estado, a través del COZCYT;
+III. Establecer en sus presupuestos correspondientes los recursos necesarios para la realización de las actividades relacionadas con la ciencia, la tecnología y la innovación; para ello concurrirá con el gobierno estatal en el cumplimiento de lo dispuesto en el último párrafo del artículo 1 de la presente Ley;
 
-V. Conocer, organizar y difundir, en términos de las leyes aplicables, la información acerca de las actividades de investigación científica y tecnológica que las instituciones y empresas públicas y privadas, así como las que los particulares lleven a cabo en el municipio;
+IV. Realizar las acciones necesarias para impulsar la ciencia y la tecnología en coordinación con otros municipios y con el Ejecutivo del Estado, a través del COZCYT;
 
-VI. Identificar, revalorar y preservar los conocimientos tradicionales de los habitantes del municipio, así como coadyuvar con las instituciones responsables para el resguardo de sus derechos, en términos de las leyes aplicables;
+V. Conocer, organizar y difundir, en términos de las leyes aplicables, la información acerca de las actividades de investigación científica y tecnológica que las instituciones y empresas públicas y privadas, así como las que 105 particulares lleven a cabo en el municipio;
 
-VII. Promover la incorporación de los avances de la ciencia y la tecnología en el desarrollo social, urbano, económico, cultural y ambiental del municipio, así como en el fortalecimiento de sus capacidades técnicas y administrativas;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+VI. Identificar, revalorar y preservar los conocimientos tradicionales de los habitantes del municipio, así como coadyuvar con las instituciones responsables para el resguardo de los derechos de propiedad, en términos de las leyes aplicables;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+VII. Promover la incorporación de los avances en materia de ciencia, tecnología e innovación en el desarrollo social, urbano, económico, cultural y ambiental del municipio, así como en el fortalecimiento de sus capacidades técnicas y administrativas;
 
 VIII. Participar en los órganos de consulta a que se refiere esta Ley;
 
-IX. Fomentar la realización de actividades de difusión, divulgación y enseñanza de la ciencia y la tecnología;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+IX. Fomentar la realización de actividades de difusión, divulgación y enseñanza de la ciencia, la tecnología y la innovación;
 
 X. Apoyar la formación de recursos humanos de alto nivel académico; y
 
-XI. Realizar aquellas otras actividades que se prevean en esta ley o en otros ordenamientos y que tengan como finalidad alcanzar el desarrollo municipal a través de las acciones relacionadas con el fortalecimiento y la promoción de la ciencia y la tecnología.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XI. Realizar aquellas otras actividades que se prevean en esta Ley o en otros ordenamientos y que tengan como finalidad alcanzar el desarrollo municipal a través de las acciones relacionadas con el fortalecimiento y la promoción de la ciencia, la tecnología y la innovación.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 8.
 
-Para el ejercicio de las atribuciones materia de la presente Ley los municipios podrán solicitar al COZCYT la asesoría técnica necesaria para la formulación, ejecución y evaluación de sus políticas y acciones en materia de ciencia y tecnología.
+Para el ejercicio de las atribuciones materia de la presente Ley, los municipios podrán solicitar al COZCYT la asesoría técnica necesaria para la formulación, ejecución y evaluación de sus políticas y acciones en materia de ciencia, tecnología e innovación.
 
-## TÍTULO TERCERO. Del Consejo Zacatecano de Ciencia y Tecnología
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2010)</small>
+
+## TÍTULO TERCERO. Del Consejo Zacatecano de Ciencia, Tecnología e Innovación
 
 ### CAPÍTULO I. De su Naturaleza
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 9.
 
-El Consejo Zacatecano de Ciencia y Tecnología, es un organismo público descentralizado de la Administración Pública del Estado, con personalidad jurídica y patrimonio propio, sectorizado a la educación, que goza de autonomía técnica, de gestión y presupuestaria y con sede en la Capital del Estado.
+El Consejo Zacatecano de Ciencia, Tecnología e Innovación, es un organismo público descentralizado de la Administración Pública del Estado, no sectorizado, con personalidad jurídica y patrimonio propio, que goza de autonomía técnica, de gestión y presupuestaria y con sede en la Capital del Estado.
 
 ###### Artículo 10.
 
@@ -241,27 +331,37 @@ El COZCYT es la entidad del Gobierno del Estado, responsable de atender al objet
 
 ### CAPÍTULO II. De sus Atribuciones
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 11.
 
-El COZCYT tiene como objeto primordial promover y coordinar la planeación y el desarrollo de la ciencia y la tecnología en el Estado de Zacateca: impulsando la más alta participación de la sociedad.
+El COZCYT tiene como objeto primordial promover y coordinar la planeación y el desarrollo de la ciencia, la tecnología y la innovación en el Estado de Zacatecas, impulsando la más alta participación de la sociedad.
 
 ###### Artículo 12.
 
 Para el cabal cumplimiento de su objetivo el COCZYT, tendrá las siguientes facultades y obligaciones:
 
-I. Fungir como órgano encargado del Ejecutivo del Estado en materia de ciencia y tecnología;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+I. Fungir como órgano encargado del Ejecutivo del Estado en materia de ciencia, tecnología e innovación;
 
 II. Ejecutar la política del Gobierno del Estado orientada a la integración, fortalecimiento y consolidación del Sistema, promoviendo la creación de centros, grupos y redes de investigación;
 
-III. Fortalecer la infraestructura y multiplicación de proyectos de investigación, la formación e integración de científicos y tecnólogos de alto nivel académico y realizar las acciones que se encaminen al cumplimiento de esta política;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+III. Fortalecer la infraestructura y multiplicación de proyectos de investigación, la formación e integración de científicos, tecnólogos e innovadores de alto nivel académico y realizar las acciones que se encaminen al cumplimiento de esta política;
 
 IV. Vigilar el cumplimiento de la presente Ley;
 
 V. Fungir como órgano rector del Sistema, garantizando su fortalecimiento y consolidación mediante la promoción de nuevas instituciones, dependencias, redes, infraestructura y centros de investigación científica y tecnológica;
 
-VI. Brindar consulta y asesoría a las dependencias y entidades de la administración pública del Estado, a los municipios, a las instituciones y empresas científicas y tecnológicas y a los particulares en la entidad que lo soliciten, en materia de planeación, programación, aplicación y evaluación de acciones y recursos en ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-VII. Fungir como órgano competente del Poder Ejecutivo del Estado en sus relaciones formales e informales con las Instituciones y organismos de ciencia y tecnología internacionales, nacionales, locales y municipales, y en particular, ante el Consejo Nacional de Ciencia y Tecnología, el Foro Consultivo Científico y Tecnológico y la Conferencia Nacional de Ciencia y Tecnología, en términos de las leyes aplicables;
+VI. Brindar consulta y asesoría a las dependencias y entidades de la administración pública del Estado, a los municipios, a las instituciones y empresas científicas y tecnológicas y a los particulares en la entidad que lo soliciten, en materia de planeación, programación, aplicación y evaluación de acciones y recursos en ciencia, tecnología e innovación;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+VII. Fungir como órgano competente del Poder Ejecutivo del Estado en sus relaciones formales e informales con las instituciones y organismos de ciencia, tecnología e innovación internacionales, nacionales, locales y municipales, y en particular, ante el Consejo Nacional de Ciencia y Tecnología, el Foro Consultivo Científico y Tecnológico y la Conferencia Nacional de Ciencia y Tecnología, en términos de las leyes aplicables;
 
 VIII. Atender los asuntos legales que se interpongan contra sus actos y resoluciones, en los términos de las normas que al efecto se expidan;
 
@@ -269,19 +369,29 @@ IX. Formular, coordinar su ejecución, evaluar y actualizar el Programa, con la 
 
 X. Revisar y evaluar periódicamente el desempeño del Sistema, con la finalidad de conocer sus resultados e impactos en la solución de necesidades esenciales de la entidad y en el avance del conocimiento;
 
-XI. Apoyar, mediante el otorgamiento de becas, apoyos y otros medios, la formación de recursos humanos de alto nivel académico para la investigación científica y tecnológica, contribuyendo al fortalecimiento de los programas de postgrado en la entidad, y en general, todas aquellas acciones, cursos, programas de formación continua y de Intercambio académico que tiendan a fomentar la reproducción de las nuevas generaciones de investigadores y actualizar los conocimientos a los del más alto nivel;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XI. Apoyar, mediante el otorgamiento de becas, apoyos y otros medios, la formación de recursos humanos de alto nivel académico para la investigación científica y tecnológica, y la innovación, contribuyendo al fortalecimiento de los programas de postgrado en la entidad, y en general, todas aquellas acciones, cursos, programas de formación continua y de intercambio académico que tiendan a fomentar la reproducción de las nuevas generaciones de investigadores y actualizar los conocimientos a los del más alto nivel;
 
 XII. Formular y difundir una convocatoria de estimulo y reconocimiento a jóvenes zacatecanos destacados en el ámbito académico y de participación en actividades de desarrollo, innovación, difusión y divulgación de acciones científicas y tecnológicas;
 
 XIII. Coadyuvar con las instituciones que integran el Sistema para la adscripción, permanencia, actualización y promoción de investigadores y demás miembros de la comunidad científica en la entidad;
 
-XIV. Fomentar la integración y el fortalecimiento de los sistemas regionales y municipales de ciencia y tecnología que contribuyan a la descentralización de la ciencia y la tecnología en la entidad;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-XV. Formular las acciones tendientes a la vinculación y gestión tecnológica, la difusión, divulgación y enseñanza de la ciencia, así como otras que favorezcan la aplicación de la ciencia y la transferencia de tecnología en el mejoramiento de los procesos económicos, sociales y ambientales, as! como su socialización en la población de la entidad;
+XIV. Fomentar la integración y el fortalecimiento de los sistemas regionales y municipales de ciencia, tecnología e innovación que contribuyan a la descentralización de estas actividades en la entidad;
 
-XVI. Promover ante las dependencias y entidades de la administración pública del Estado la consideración, dentro de sus planes, programas, proyectos y presupuestos, de las acciones y los recursos necesarios para la ciencia y la tecnología orientados a la atención de las necesidades esenciales de la entidad y en particular para el eficaz cumplimiento del objeto de esta Ley;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-XVII. Promover la inversión privada en ciencia y tecnología y la constitución y desarrollo de empresas relacionadas con la producción de bienes y servicios generados con tecnologías de punta o avanzadas;
+XV. Formular las acciones tendientes a la vinculación y gestión tecnológica, la difusión, divulgación y enseñanza de la ciencia, así como la innovación, y otras que favorezcan la aplicación de la ciencia y la transferencia de tecnología en el mejoramiento de los procesos económicos, sociales y ambientales, así como su socialización en la población de la entidad;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XVI. Promover ante las dependencias y entidades de la administración pública del Estado la consideración, dentro de sus planes, programas, proyectos y presupuestos, de las acciones y los recursos necesarios para la ciencia, la tecnología y la innovación orientados a la atención de las necesidades esenciales de la entidad y en particular para el eficaz cumplimiento del objeto de esta Ley;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XVII. Promover la inversión privada en ciencia, tecnología e innovación y la constitución y desarrollo de empresas relacionadas con la producción de bienes y servicios generados con tecnologías de punta o avanzadas;
 
 XVIII. Someter a la consideración de la a el Titular del Ejecutivo propuestas de políticas y mecanismos de apoyo a la ciencia, la Tecnología y la innovación, en materia de estimulas fiscales y financieros, exenciones y facilidades administrativas, entre otras;
 
@@ -289,29 +399,47 @@ XIX. Gestionar ante las distintas instituciones y organismos públicos y privado
 
 XX. Administrar su patrimonio y los recursos que las instituciones y organismos Internacionales, nacionales y locales destinen, por su conducto, al desarrollo del Sistema;
 
-XXI. Apoyar y convenir la constitución, el financiamiento y operación de Fondos para el fomento de la ciencia y la tecnología en la entidad y participar en sus órganos de dirección;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXI. Apoyar y convenir la constitución, el financiamiento y operación de Fondos para el fomento de la ciencia, la tecnología y la innovación en la entidad y participar en sus órganos de dirección;
 
 XXII. Coordinar, integrar y dar seguimiento a las actividades científicas y tecnológicas que las dependencias y entidades de la administración pública del Estado realicen, así como conocer y opinar sobre los recursos empleados para tal fin, con el propósito de asegurar su congruencia con las políticas y prioridades establecidas en el Programa, en tos términos de la presente Ley;
 
-XXIII. Establecer el Sistema Estatal de Investigadores y el Registro Estatal de Infraestructura Científica y Tecnológica mediante la aplicación de indicadores y están dar es locales y coadyuvar con su integración a la Red Nacional de Grupos y Centros de Investigación;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-XXIV. Fomentar la colaboración interinstitucional, la creación de redes científicas y tecnológicas, y la articulación de las Instituciones del Sistema para la ejecución de acciones coordinadas en materia de ciencia y tecnología;
+XXIII. Establecer el Sistema Estatal de Investigadores y el Registro Estatal de Infraestructura Científica, Tecnológica y de Innovación mediante la aplicación de indicadores y estándares locales y coadyuvar con su integración a la Red Nacional de Grupos y Centros de Investigación;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXIV. Fomentar la colaboración interinstitucional, la creación de redes científicas, tecnológicas y de innovación, y la articulación de las instituciones del Sistema para la ejecución de acciones coordinadas en materia de ciencia, tecnología e innovación;
 
 XXV. Crear, desarrollar, operar y evaluar el Sistema Estatal de Investigadores;
 
-XXVI. Otorgar estimulas y reconocimientos a la labor científica y tecnológica de las instituciones y miembros de la comunidad científica, integrantes del Sistema;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-XXVII. Promover la integración del Sistema Estatal de Información Científica y Tecnológica del Estado procurando su articulación con el Sistema de Información Científica y Tecnológica del CONACYT, realizar estudios sobre esta materia así como emitir periódicamente un informe acerca del estado que guarda el desarrollo de la ciencia y la tecnología en la entidad;
+XXVI. Otorgar estímulos y reconocimientos a la labor científica, tecnológica y de innovación de las instituciones y miembros de la comunidad científica, integrantes del Sistema;
 
-XXVIII. Promover la difusión, transferencia, divulgación y enseñanza de la ciencia y la tecnología;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-XXIX. Conocer y aplicar los procesos de gestión de recursos destinados a la ciencia y la tecnología;
+XXVII. Promover la integración del Sistema Estatal de Información Científica, Tecnológica y de Innovación del Estado procurando su articulación con el Sistema de Información Científica y Tecnológica del CONACYT, realizar estudios sobre esta materia, así como emitir periódicamente un informe acerca del estado que guarda el desarrollo de la ciencia, la tecnología y la innovación en la entidad;
 
-XXX. Alcanzar la sociedad del conocimiento en la entidad;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-XXXI. Conocer, revalorar y preservar los conocimientos tradicionales de las zonas rurales y urbanas de la entidad y coadyuvar con las instituciones responsables para el resguardo de sus derechos; y
+XXVIII. Promover la difusión, transferencia, divulgación y enseñanza de la ciencia, la tecnología y la innovación;
 
-XXXII. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXIX. Conocer y aplicar los procesos de gestión de recursos destinados a la ciencia, la tecnología y la innovación;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXX. Procurar la elevación de la cultura científica de la sociedad zacatecana;
+
+XXXI. Alcanzar la sociedad del conocimiento en la entidad;
+
+XXXII. Conocer, revalorar y preservar los conocimientos tradicionales de las zonas rurales y urbanas de la entidad y coadyuvar con las instituciones responsables para el resguardo de sus derechos; y
+
+XXXIII. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
 
 ### CAPÍTULO III. Del Patrimonio del COZCYT
 
@@ -353,11 +481,23 @@ II. Consejo Asesor;
 
 III. Dirección General;
 
-IV. Comisiones Técnicas;
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-V. Órgano de Vigilancia; y
+IV. Consejo Directivo;
 
-VI. Las Unidades Administrativas que señale el estatuto orgánico.
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+V. El Centro Interactivo de Ciencia y Tecnología de Zacatecas "Zigzag";
+
+VI. Comisiones Técnicas;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+VII. Comité Técnico para la Innovación;
+
+VIII. Órgano de Vigilancia; y
+
+IX. Las Unidades Administrativas que señale el estatuto orgánico.
 
 El personal del COZCYT se regirá por las disposiciones de esta Ley, el Estatuto Orgánico y la Ley del Servicio Civil del Estado de Zacatecas.
 
@@ -369,49 +509,73 @@ La Junta Directiva es el órgano de gobierno y de administración del COZCYT y e
 
 I. Un Presidente o Presidenta, que será el a la titular del Ejecutivo del Estado;
 
-II. Un Secretario o Secretaria Técnica, que será el Secretario o Secretaria de Educación y Cultura; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+II. Un Secretario o Secretaria Técnica, que será el Director o Directora General del COZCYT, y
 
 III. Los vocales siguientes:
 
-a) El Secretario o Secretaria de Finanzas;
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+a) El Secretario o Secretaria de Educación y Cultura;
 
 b) El Secretario o Secretaria de Desarrollo Económico;
 
-c) El Secretario o Secretaria de Desarrollo Agropecuario;
+c) (DEROGADO, P.O. 21 DE AGOSTO DE 2010)
 
-d) El o la Titular de la Contratada Interna del Gobierno del Estado;
+d) (DEROGADO, P.O. 21 DE AGOSTO DE 2010)
 
 e) El Rector o Rectora de la Universidad Autónoma de Zacatecas;
 
-f) El Rector o Rectora de la Universidad Politécnica;
+f) (DEROGADO, P.O. 21 DE AGOSTO DE 2010)
 
-g) El Director o Directora del Instituto Tecnológico y de Estudios Superiores de Monterrey Campus Zacatecas;
+g) El Director o Directora del Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Zacatecas;
 
-h) El Director o Directora del Instituto Tecnológico Regional con sede en la capital del Estado;
+h) (DEROGADO, P.O. 21 DE AGOSTO DE 2010)
 
-i) El Rector o Rectora de la Universidad Tecnológica; y
+i) (DEROGADO, P.O. 21 DE AGOSTO DE 2010)
 
-j) Un representante de la Federación de Colegios y Asociaciones de Profesionistas del Estado de Zacatecas.
+j) (DEROGADO, P.O. 21 DE AGOSTO DE 2010)
 
-A petición de los integrantes de la Junta, podrá invitarse a sus sesiones a las instituciones públicas o privadas, así como a representantes del sector social que se considere pertinente, los cuales tendrán derecho a voz pero no a voto.
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+k) Un representante de los sectores productivo y social que será designado por el o la Titular del Ejecutivo del Estado a propuesta del Consejo Asesor, que se renovará cada cuatro años y tendrá derecho a voz y voto, y
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+l) Dos integrantes del sector científico y tecnológico, que tendrá (sic) derecho a voz y voto. Estos integrantes se renovará (sic) cada cuatro años y será invitado por el o la Titular del Ejecutivo del Estado, a propuesta del Consejo Asesor. Para formular dicha propuesta, los integrantes de este órgano deberán hacer una amplia auscultación entre la comunidad científica y tecnológica, con el objetivo de que la persona designada cuente con la trayectoria y los méritos suficientes en el ámbito de la ciencia y la tecnología.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+Asimismo, a petición de los integrantes de la Junta, podrá invitarse a sus sesiones a las instituciones públicas o privadas, así como a representantes del sector social que se considere pertinente, los cuales tendrán derecho a voz pero no a voto.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 16.
 
-Cada Integrante de la Junta Directiva designará un suplente, con excepción del o la Presidenta y del Secretario o Secretaria Técnica; las ausencias del Presidente o Presidenta serán cubiertas por quien éste designe de entre los miembros de la Junta; las de la Secretaria o Secretario Técnico, por quien designe la propia Junta Directiva.
+Cada integrante de la Junta Directiva designará un suplente, con excepción del Presidente o la Presidenta; las ausencias del Presidente o Presidenta serán cubiertas por el Director o Directora del COZCYT.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 17.
 
-Los cargos de los integrantes de la Junta Directiva, serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
+Los cargos de los integrantes de la Junta Directiva, a excepción de la Secretaria o Secretario Técnico, serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
 
 ###### Artículo 18.
 
 La Junta Directiva tendrá las siguientes funciones:
 
-I. Asesorar al Ejecutivo del Estado en la planeación programación, coordinación, ejecución y encauzamiento, de las actividades relacionadas con la ciencia y la tecnología y su vinculación al desarrollo integral de la Entidad;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-II. Ser órgano de consulta obligatoria para las dependencias y entidades de la administración pública estatal y municipal y sus respectivos fideicomisos públicos y empresas de participación, en materia de inversiones o autorización de recursos a proyectos de investigación científica y tecnológica, educación superior e importación de Tecnología;
+I. Asesorar al Ejecutivo del Estado en la planeación, programación, coordinación, ejecución y encauzamiento, de las actividades relacionadas con la ciencia, la tecnología y la innovación, así como su vinculación al desarrollo integral de la Entidad;
 
-III. Elaborar programas indicativos de Investigación científica y tecnológica, vinculados a los objetivos estatales y municipales de desarrollo económico y social, procurando para ello, la más amplia participación de la comunidad científica, así como la cooperación de entidades gubernamentales, instituciones de educación superior y usuarios de la investigación;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+II. Ser órgano de consulta obligatoria para las dependencias y entidades de la administración pública estatal y municipal y sus respectivos fideicomisos públicos y empresas de participación, en materia de inversiones o autorización de recursos a proyectos de investigación científica, tecnológica, innovación, educación superior e importación de tecnología;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+III. Elaborar programas indicativos de investigación científica, tecnológica y de innovación vinculados a los objetivos estatales y municipales de desarrollo económico y social, procurando para ello, la más amplia participación de la comunidad científica, así como la cooperación de entidades gubernamentales, instituciones de educación superior y usuarios de la investigación;
 
 IV. Fomentar y fortalecer las investigaciones básicas, tecnológicas y aplicadas que se necesiten y promover las acciones concertadas que se requieran con los institutos de los sectores público y privado, Instituciones académicas, centros de Investigación y usuarios de la misma;
 
@@ -419,45 +583,57 @@ V. Canalizar recursos adicionales hacia las instituciones y centros de Investiga
 
 VI. Promover la creación de empresas que empleen tecnologías nacionales y regionales, para la producción de bienes y servicios;
 
-VII. Asesorar a la Secretaría de Educación y Cultura para el establecimiento de nuevos centros de enseñanza científica o tecnológica, así como para la revisión y formulación de los planes de estudio de los existentes;
+VII. (DEROGADA, P.O. 21 DE AGOSTO DE 2010)
 
-VIII. Asesorar a las dependencias y entidades de la administración pública estatal y municipales, en la celebración de convenios sobre ciencia y tecnología;
+VIII. (DEROGADA, P.O. 21 DE AGOSTO DE 2010)
 
-IX. Gestionar ante las autoridades competentes la internación al país de investigadores y profesores extranjeros invitados para realizar investigación científica y tecnológica, que sea de interés para el desarrollo del Estado;
+IX. (DEROGADA, P.O. 21 DE AGOSTO DE 2010)
 
-X. Aprobar un programa estatal dirigido a la formación de recursos humanos dedicados a la investigación científica y tecnológica, tomando en cuenta los recursos naturales, así como las características de medio ambiente en las diversas regiones del Estado;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-XI. Formular en coordinación con el o la Titular del Ejecutivo del Estado, la creación de un fideicomiso destinado a la operación de un sistema de becas para la formación de recursos humanos dedicados a la investigación científica y tecnológica;
+X. Aprobar un programa estatal dirigido a la formación de recursos humanos dedicados a la investigación científica y tecnológica, así como a la innovación, tomando en cuenta los recursos naturales, y las características del medio ambiente en las diversas regiones del Estado;
 
-XII. Concertar convenios con instituciones nacionales o extranjeras para impulsar la formación de recursos humanos en investigación científica y tecnológica;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-XIII. Establecer mecanismos de enlace con los becarios zacatecanos que se encuentren en el extranjero bajo sus auspicios;
+XI. Formular en coordinación con el o la Titular del Ejecutivo del Estado, la creación de un fideicomiso destinado a la operación de un sistema de becas para la formación de recursos humanos dedicados a la investigación científica y tecnológica y la innovación;
 
-XIV. Fomentar programas de intercambio de profesores, investigadores y técnicos, con otros Estados o países;
+XII. (DEROGADA, P.O. 21 DE AGOSTO DE 2010)
 
-XV. Promover cursos o sistemas de capacitación, especialización o actualización de conocimientos en ciencia y tecnología;
+XIII. (DEROGADA, P.O. 21 DE AGOSTO DE 2010)
 
-XVI. Intervenir ante las autoridades competentes para hacer expedita y oportuna la importación de todos los elementos de trabajo y apoyo que requiera la investigación científica y tecnológica, opinando en cada caso respecto a la justificación de la importación y cuidando que las especificaciones de los bienes y servicios Importados se ajusten a las necesidades del Estado y a los programas de investigación;
+XIV. (DEROGADA, P.O. 21 DE AGOSTO DE 2010)
 
-XVII. Propiciar el establecimiento de servicios de mantenimiento de equipos de investigación;
+XV. (DEROGADA, P.O. 21 DE AGOSTO DE 2010)
 
-XVIII. Promover las publicaciones científicas y tecnológicas y fomentar la difusión de los trabajos realizados por investigadores zacatecanos;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-XIX. Aprobar el Sistema Estatal de Información Científica y Tecnológica;
+XVI. Intervenir ante las autoridades competentes para hacer expedita y oportuna la importación de todos los elementos de trabajo y apoyo que requiera la investigación científica y tecnológica y la innovación, opinando en cada caso respecto a la justificación de la importación y cuidando que las especificaciones de los bienes y servicios importados se ajusten a las necesidades del Estado y a los programas de investigación;
+
+XVII. (DEROGADA, P.O. 21 DE AGOSTO DE 2010)
+
+XVIII. (DEROGADA, P.O. 21 DE AGOSTO DE 2010)
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XIX. Aprobar el Sistema Estatal de Información Científica, Tecnológica y de Innovación;
 
 XX. Aprobar el anteproyecto de Presupuesto de Egresos que anualmente ponga su consideración el Director General, y autorizar su remisión a la Secretaría Finanzas, para los efectos procedentes;
 
 XXI. Expedir el estatuto orgánico, reglamentos Internos, manuales de organización, métodos y demás normas para el adecuado funcionamiento del COZCYT;
 
-XXII. Aprobar los programas e informe de actividades del COZCYT, que someta a su consideración el Director General;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-XXIII. Nombrar y remover, a propuesta del Director General, a los funcionarios y funcionarias del COZCYT en el nivel de Subdirector o Subdirectora y de Jefes o Jefas de Unidad;
+XXII. Aprobar los programas e informe de actividades del COZCYT, que someta a su consideración el Director o Directora General;
 
-XXIV. Gestionar el otorgamiento de becas;
+XXIII. (DEROGADA, P.O. 21 DE AGOSTO DE 2010)
 
-XXV. Proporcionar asesoría técnica a los organismos públicos o privados que se lo soliciten;
+XXIV. (DEROGADA, P.O. 21 DE AGOSTO DE 2010)
 
-XXVI. Conocer y resolver directamente sobre los asuntos de su competencia, así como aquellos que le presente el Director General, cuando la naturaleza del asunto lo amerite;
+XXV. (DEROGADA, P.O. 21 DE AGOSTO DE 2010)
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXVI. Conocer y resolver directamente sobre los asuntos de su competencia, así como aquellos que le presente el Director o Directora General, cuando la naturaleza del asunto lo amerite;
 
 XXVII. Conocer de actos y contratos en los términos de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles del Estado de Zacatecas;
 
@@ -465,7 +641,9 @@ XXVIII. Aprobar los planes, programas anuales, generales y específicos, propues
 
 XXIX. Analizar el Programa y autorizar su envío al Ejecutivo del Estado para su aprobación, así como darle seguimiento;
 
-XXX. Autorizar los programas de fortalecimiento y consolidación del Sis1ema, y aprobar los informes de seguimiento que le presente el Director General;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXX. Autorizar los programas de fortalecimiento y consolidación del Sistema, y aprobar los informes de seguimiento que le presente el Director o Directora General;
 
 XXXI. Autorizar actos de dominio sobre su patrimonio inmobiliario, sujetándose a las disposiciones constitucionales y legales;
 
@@ -475,9 +653,15 @@ XXXIII. Aprobar las bases generales para la suscripción de convenios;
 
 XXXIV. Aprobar las propuestas de estimulo y reconocimiento a los integrantes de la comunidad científica;
 
-XXXV. Conocer el informe acerca del estado que guarda el desarrollo de la ciencia y la tecnología en la Entidad; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-XXXVI. Las demás que le señalen la presente Ley y el Estatuto Orgánico.
+XXXV. Conocer el informe acerca del estado que guarda el desarrollo de la ciencia, la tecnología y la innovación en la Entidad, y (sic)
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXXVI. Aprobar propuestas de políticas y mecanismos de apoyo a la ciencia, la tecnología y la innovación en materia de estímulos fiscales y financieros, facilidades administrativas, de comercio exterior, metrología, normalización, evaluación de la conformidad y régimen de propiedad intelectual; y
+
+XXXVII. Las demás que le señalen la presente Ley y el Estatuto Orgánico.
 
 ###### Artículo 19.
 
@@ -485,9 +669,23 @@ La Junta Directiva se reunirá por lo menos cada bimestre, sesionará válidamen
 
 #### SECCIÓN TERCERA. De la Dirección General
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 20.
 
-La Dirección General del COZCYT estará a cargo de una Directora o Director Genera, nombrado y removido por el o la Titular del Ejecutivo del Estado, a propuesta de una terna que formule la Junta Directiva y se auxiliará de las unidades administrativas que determine su Estatuto Orgánico y del personal necesario para cumplir con sus funciones.
+La Dirección General del COZCYT estará a cargo de una Directora o Director General, nombrado y removido por el o la Titular del Ejecutivo del Estado, y se auxiliará de las siguientes unidades:
+
+I. Subdirección de Innovación y Desarrollo Regional;
+
+II. Subdirección de Difusión y Divulgación de la Ciencia;
+
+III. Subdirección de Formación de Recursos Humanos;
+
+IV. Subdirección de Administración y Finanzas;
+
+V. Subdirección de Imagen Institucional, y
+
+VI. Las demás que se consideren necesarias para su correcto funcionamiento.
 
 ###### Artículo 21.
 
@@ -497,7 +695,9 @@ I. Ser mexicano o mexicana en ejercicio de sus derechos y tener domicilio en el 
 
 II. Tener 30 años cumplidos el día de su designación;
 
-III. Contar con grado académico mínimo de doctorado y tener reconocida experiencia en investigación, administración y divulgación científica y tecnológica; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+III. Contar con grado académico mínimo de doctorado y tener reconocida experiencia en investigación científica, desarrollo tecnológico e innovación, y
 
 IV. Contar con amplia solvencia moral y no haber sido condenado por delito doloso.
 
@@ -507,7 +707,9 @@ El Director o Directora General, tendrá las siguientes funciones:
 
 I. Administrar y representar legalmente al COZCYT;
 
-II. Vigilar el eficaz cumplimiento de la presente Ley;
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+II. Fungir como Secretario o Secretaria Técnica de la Junta Directiva;
 
 III. Fungir como Presidente en los Fideicomisos de fomento a la investigación científica y tecnológica en los que el Gobierno del Estado participe con aportación económica, para tal fin;
 
@@ -537,7 +739,9 @@ XV. Formular programas que estimulen la inversión privada en ciencia y tecnolog
 
 XVI. Realizar las gestiones para la obtención y administración de recursos necesarios para el desarrollo de la ciencia y la Tecnología de la entidad;
 
-XVII. Formular y someter a la aprobaci6n de la Junta Directiva el anteproyecto de presupuesto de egresos del COZCYT;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XVII. Realizar las gestiones para la obtención y administración de recursos necesarios para el desarrollo de la ciencia, la tecnología y la innovación de la entidad;
 
 XVIII. Administrar el patrimonio del COZCYT;
 
@@ -545,19 +749,81 @@ XIX. Organizar y coordinar el funcionamiento del Sistema y proponer programas pa
 
 XX. Coordinar el Sistema Estatal de Información Científica y Tecnológica;
 
-XXI. Apoyar la colaboración interinstitucional y la constitución de redes científicas y tecnológicas;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-XXII. Formular el proyecto de instauración y desarrollo del Sistema Estatal de Investigadores, operario y evaluar su funcionamiento;
+XXI. Coordinar el Sistema Estatal de Información Científica, Tecnológica y de Innovación;
 
-XXIII. Establecer y operar el Registro Estatal de Información Científica y Tecnológica;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-XXIV. Elaborar y difundir un informe anual sobre el estado que guarda el desarrollo de la ciencia y la Tecnología en la Entidad;
+XXII. Apoyar la colaboración interinstitucional y la constitución de redes científicas, tecnológicas y de innovación;
 
-XXV. Establecer y operar programas de difusión, transferencia, divulgación y enseñanza de los conocimientos científicos; tecnol6gicos y tradicionales en las zonas rurales y urbanas de la Entidad y fomentar y apoyar los de las instituciones del Sistema;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-XXVI. Coadyuvar con las instancias competentes con acciones que tiendan a resguardar los derechos sobre los conocimientos tradicionales de las zonas rurales y urbanas en la entidad; y
+XXIV. Establecer y operar el Registro Estatal de Información Científica, tecnológica y de Innovación;
 
-XXVII. Las demás que le confiera el Estatuto Orgánico del COZCYT y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXV. Elaborar y difundir un informe anual sobre el estado que guarda el desarrollo de la ciencia, la tecnología y la innovación en la Entidad;
+
+XXVI. Coadyuvar con las instancias competentes con acciones que tiendan a resguardar los derechos sobre los conocimientos tradicionales de las zonas rurales y urbanas en la entidad; y (sic)
+
+XXVII. Las demás que le confiera el Estatuto Orgánico del COZCYT y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXVIII. Asesorar a la Secretaria de Educación y Cultura para el establecimiento de nuevos centros de enseñanza científica, tecnológica y de innovación, así como para la revisión y formulación de los planes de estudio de los existentes;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXIX. Asesorar a las dependencias y entidades de la administración pública estatal y municipales, en la celebración de convenios sobre ciencia y tecnología;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXX. Gestionar ante las autoridades competentes la internación al país de investigadores y profesores extranjeros invitados para realizar investigación científica y tecnológica, que sea de interés para el desarrollo del Estado;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXXI. Concertar convenios con instituciones nacionales o extranjeras para impulsar la formación de recursos humanos en investigación científica y tecnológica e innovación;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXXII. Establecer mecanismos de enlace con los becarios zacatecanos que se encuentren en el extranjero bajo sus auspicios;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXXIII. Fomentar programas de intercambio de profesores, investigadores y técnicos, con otros estados o países;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXXIV. Promover cursos o sistemas de capacitación, especialización o actualización de conocimientos en ciencia, tecnología e innovación;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXXV. Propiciar el establecimiento de servicios de mantenimiento de equipos de investigación;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXXVI. Promover las publicaciones científicas, tecnológicas y de innovación, para fomentar la difusión de los trabajos realizados por investigadores zacatecanos;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXXVII. Nombrar y remover a los funcionarios y funcionarias del COZCYT en el nivel de Subdirector o Subdirectora y de Jefes o Jefas de Unidad;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXXVIII. Gestionar el otorgamiento de becas;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XXXIX. Proporcionar asesoría técnica a los organismos públicos o privados que se lo soliciten;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XL. Nombrar y remover libremente al Director o Directora Adjunto del Centro Interactivo de Ciencia y Tecnología de Zacatecas "Zigzag", así como las establecidas en el articulo 24 quáter de esta Ley, y
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XLI. Las demás que le confiera el Estatuto Orgánico del COZCYT y demás disposiciones aplicables.
 
 #### SECCIÓN CUARTA. Del Consejo Asesor
 
@@ -567,9 +833,13 @@ El Consejo Asesor es el órgano de consulta del Sistema y de los sectores produc
 
 I. Presidente o Presidenta, que será el Director o Directora General del COZCYT;
 
-II. Seis investigadoras o investigadores distinguidos del Estado, designados por la Junta Directiva a propuesta del Director o Directora General, previa consulta de la opinión de la comunidad científica; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-III. Cuatro representantes de los sectores productivos y sociales designados por la Junta Directiva, a propuesta del Director o Directora General y consultando la opinión de las organizaciones sociales y productivas.
+II. Tres investigadoras o investigadores distinguidos del Estado, designados por la Junta Directiva a propuesta del Director o Directora General, previa consulta de la opinión de la comunidad científica, y
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+III. Tres representantes de empresas con base tecnológica del sector primario o secundario, designados por la Junta Directiva.
 
 Los miembros referidos, con excepción del Presidente o Presidenta, durarán en su cargo cuatro años y no recibirán emolumentos o compensación alguna, siendo este encargo de carácter honorífico.
 
@@ -579,35 +849,193 @@ Las invitadas o invitados que el propio Consejo Asesor considere, tendrán derec
 
 El Consejo Asesor tendrá las siguientes funciones:
 
-I. Escuchar a las dependencias y entidades de la administración pública, a los sectores productivos y sociales y a la sociedad en general, para la identificación de necesidades esenciales para el desarrollo del Estado sustentado en la ciencia y la tecnología;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+I. Escuchar a las dependencias y entidades de la administración pública, a los sectores productivos y sociales y a la sociedad en general, para la identificación de necesidades esenciales para el desarrollo del Estado sustentado en la ciencia, la tecnología y la innovación;
 
 II. Emitir opinión sobre los planes, programas y proyectos de ciencia y tecnología presentados por la Dirección General, para el cumplimiento de los objetivos y funciones del COZCYT;
 
 III. Apoyar al COZCYT en la elaboración de estudios y evaluación del desempeño del Sistema;
 
-IV. Apoyar al COZCYT en los procesos de" evaluación y arbitraje académico de propuestas de apoyo científico y tecnol6gico;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-V. Fortalecer al COZCYT a través del establecimiento de lazos de vinculación con instancias de carácter científico en otros Estados del país y en el extranjero;
+IV. Apoyar al COZCYT en los procesos de evaluación y arbitraje académico de propuestas de apoyo científico, tecnológico e innovación;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+V. Fortalecer al COZCYT a través del establecimiento de lazos de vinculación con instancias de carácter científico, tecnológico e innovación en otros Estados del país y en el extranjero;
 
 VI. Coadyuvar en el seguimiento de los proyectos apoyados por el COZCYT a partir de los informes presentados por la Dirección General;
 
-VII. Contribuir con el COZCYT en la difusión de la información científica y tecnológica en la Comunidad Científica y en las organizaciones sociales y productivas;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-VIII. Apoyar al COZCYT en la articulación de actividades científicas y tecnológicas mediante el fomento de las redes científicas y tecnológicas;
+VII. Contribuir con el COZCYT en la difusión de la información científica, tecnológica y de innovación en la Comunidad Científica y en las organizaciones sociales y productivas;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+VIII. Apoyar al COZCYT en la articulación de actividades científicas, tecnológicas y de innovación mediante el fomento de las redes científicas, tecnológicas y de innovación;
 
 IX. Informar a la Junta Directiva de sus actividades por conduelo del Director o Directora General; y
 
 X. Las demás que le confiera el Estatuto Orgánico del COZCYT.
 
-#### SECCIÓN QUINTA. De las Comisiones Técnicas
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-#### SECCIÓN SEXTA. Del Control y Vigilancia
+#### SECCIÓN QUINTA. Del Consejo Directivo
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+Artículo 24 bis.- El Consejo Directivo es el órgano de consulta de la Dirección General del COZCYT, y tiene por objeto analizar y proponer estrategias para la óptima instrumentación de las políticas y acuerdos emitidos por la Junta Directiva. Estará integrado por:
+
+I. Un Presidente o Presidenta, que será el Director o Directora General del COZCYT;
+
+II. El Director o Directora Adjunto del Centro Interactivo de Ciencia y Tecnología de Zacatecas "Zigzag";
+
+III. El Comisario o Comisaria responsable del Órgano de Vigilancia del COZCYT, y
+
+IV. Las personas Titulares de las Unidades Administrativas señaladas en el estatuto orgánico.
+
+La organización y funcionamiento de este órgano de consulta quedarán establecidos en el estatuto orgánico.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE AGOSTO DE 2010)</small>
+
+#### SECCIÓN SEXTA. Del Centro Interactivo de Ciencia y Tecnología de Zacatecas "Zigzag"
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+Artículo 24 ter.- Del Centro Interactivo de Ciencia y Tecnología de Zacatecas "Zigzag" es un órgano especializado del COZCYT responsable de la difusión y divulgación de la ciencia, la tecnología y la innovación entre la niñez y la juventud zacatecanas. Estará Integrado por:
+
+l. Un Director o Directora Adjunto, que será nombrado y removido libremente por el Director o Directora General del COZCYT; y
+
+II. Las Unidades y Órganos Administrativos auxiliares que señale el Estatuto Orgánico.
+
+El domicilio de este órgano especializado, estará ubicado en la ciudad de Zacatecas, Zacatecas, sin perjuicio de que pueda establecer otras subsedes en las diversas regiones del estado, que estime necesarias para la realización de sus actividades, previa autorización del Director o Directora General del COZCYT.
+
+La Junta Directiva está obligada a prever en el proyecto de Presupuesto de Egresos anual del COZCYT, recursos suficientes para que el Centro cumpla cabalmente con sus funciones.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+Artículo 24 quáter.- Respecto al Centro, el Director o Directora General del COZCYT tendrá las siguientes facultades:
+
+I. Nombrar y remover libremente a su Director o Directora Adjunto;
+
+II. Establecer los lineamientos administrativos que deba seguir el Director Adjunto en la aplicación de los recursos asignados al Centro;
+
+III. Determinar y obtener recursos adicionales necesarios para el financiamiento del Centro;
+
+IV. Autorizar la adquisición de bienes necesarios para la realización de las actividades del Centro con cargo a los recursos asignados;
+
+V. Formular proyectos anuales de ingresos adicionales;
+
+VI. Elaborar dentro de los tres primeros meses siguientes a la conclusión del ejercicio presupuestado anual, los estados financieros dictaminados por el auditor externo, designado para tal efecto;
+
+VII. Apoyar las actividades del centro en materia de difusión y vinculación con el sector productivo; y
+
+VIII. Ejercer las demás facultades que le confieren esta ley, el estatuto orgánico y el reglamento interior del Centro.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+Artículo 24 quinquies.- El Director o Directora Adjunto tendrá las atribuciones siguientes:
+
+I. Formar parte del Consejo Directivo;
+
+II. Resolver los asuntos inherentes a su área de responsabilidad de conformidad con las directrices establecidas por la Dirección General;
+
+III. Ejecutar los acuerdos de la Junta Directiva relativos al Centro e informar a la Directora o Director General oportunamente sobre el desarrollo de sus actividades;
+
+IV. Dictar las medidas necesarias para el mejoramiento administrativo de las áreas a su cargo;
+
+V. Presentar al Director o Directora General para su aprobación, los programas, políticas y líneas de acción que deberá desarrollar el Centro;
+
+VI. Proponer al Director o Directora General el proyecto de presupuesto del Centro y los mecanismos de vinculación con las instituciones educativas de los niveles básico y medio superior y superior;
+
+VII. Elaborar el reglamento interior del centro y presentarlo para su aprobación al Director o Directora General; y
+
+VIII. Las demás que contemple esta Ley, el Estatuto orgánico y el reglamento interior del Centro.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+Artículo 24 sexies.- El Centro tendrá los objetivos siguientes:
+
+l. Fomentar una cultura de la ciencia y la tecnología en la población infantil y juvenil;
+
+II. Inculcar en la niñez y la juventud los valores científicos;
+
+III. Estimular la creatividad y curiosidad innatas de niños y jóvenes mediante la práctica de experimentos que les permitan aprender descubriendo;
+
+IV. Establecer estrategias de vinculación con las instituciones de educación básica y media superior y superior, con el fin de enriquecer los contenidos de planes y programas de estudio; y
+
+V. Los demás que señale esta ley, el estatuto orgánico y el reglamento interior del Centro.
+
+#### SECCIÓN SÉPTIMA. De las Comisiones Técnicas
 
 ###### Artículo 25.
 
 Las Comisiones Técnicas son órganos especializados de apoyo del COZCYT en sus funciones de análisis, estudio y generación de propuestas específicas, se integrarán conforme a las necesidades de su objeto.
 
 La Junta de Gobierno al aprobar su creación, establecerá su objeto, facultades y tiempo de duración.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE AGOSTO DE 2010)</small>
+
+#### SECCIÓN OCTAVA. Del Comité Técnico para la Innovación
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+Artículo 25 bis.- Con el objetivo de diseñar y operar la política pública de innovación se establece el Comité Técnico para la Innovación, como un comité especializado del COZCYT.
+
+El Comité Técnico para la Innovación estará integrado por el Director o Directora del COZCYT quien lo presidirá, así como el Secretario o Secretaria de Desarrollo Económico y el Secretario o Secretaria de Educación y Cultura. Serán invitados permanentes por designación de la Junta Directiva, los siguientes:
+
+I. Un representante de las universidades e instituciones de educación superior en el estado;
+
+II. Un representante de la Federación de Colegios y Asociaciones de Profesionista del Estado de Zacatecas;
+
+III. Tres representantes de empresas con base tecnológica del sector primario y secundario del estado, y
+
+IV. Un representante de la comunidad científica.
+
+El Comité tendrá la obligación de invitar a sus sesiones a representantes de las dependencias y entidades de la Administración Pública del Estado que tengan competencia en los asuntos que se aborden. De igual forma estará facultado para invitar a cualquier institución o persona que pueda aportar conocimiento o experiencias relacionados con la innovación en el Estado.
+
+El Comité estará facultado para sesionar con un quórum de dos de sus miembros y tomará sus decisiones por mayoría de los presentes. Los titulares de la Secretaría de Desarrollo Económico, de Educación y Cultura y del COZCYT podrán designar a un suplente, quien deberá tener el rango de subsecretario o equivalente. El Comité deberá sesionar al menos dos veces al año.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+Artículo 25 ter.- El Comité Técnico para la Innovación operará en los términos del reglamento interno que al efecto expida, previa aprobación de la Junta Directiva, y tendrá las siguientes facultades:
+
+I. Diseñar, proponer y ejecutar, previa autorización de la junta Directiva, el Programa de Innovación;
+
+II. Administrar los recursos que se le asignen al programa de innovación en el Presupuesto de Egresos del Estado, en los términos que en éste se disponga;
+
+III. Proponer a la Junta Directiva las reglas de operación de los recursos del programa de innovación;
+
+IV. Proponer a la Junta Directiva y a las dependencias de la Administración Pública del Estado las recomendaciones que considere pertinentes en materia de normalización y derechos de propiedad intelectual, con el objetivo de promover la innovación;
+
+V. Revisar el marco regulatorio del estado, diagnosticar su aplicación y proponer a la Junta Directiva, proyectos de reformas a las disposiciones legislativas y administrativas relacionadas con la innovación, así como mecanismos que la incentiven;
+
+VI. Evaluar los proyectos o programas estatales relacionados con la innovación en las entidades de la Administración Pública del Estado, con el objetivo de mejorar su impacto en la tecnología y la innovación de los sectores productivos y de servicios;
+
+VII. Promover la celebración de convenios relacionados con proyectos de innovación y tecnología con las dependencias y entidades de la administración pública estatal, así como con los municipios y los sectores académicos, productivos o de servicios;
+
+VIII. Realizar foros, encuentros, consultas y todas las actividades necesarias que permitan analizar el estado, la eficiencia, la eficacia y el impacto de los programas de apoyo al desarrollo tecnológico y la innovación, así como los casos de aplicación exitosos proyectos de vinculación o de innovación tecnológica, con el objetivo de identificar mejoras para las políticas públicas a seguir con un enfoque que atienda las necesidades de las empresas;
+
+IX. Concertar los asuntos que se sometan a su consideración, y
+
+X. Las demás que le confieran esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+Artículo 25 quáter. El Comité Técnico para la Innovación, a propuesta de su Titular, designará un Secretario Técnico que será el responsable de la unidad administrativa responsable de la vinculación y la innovación en el COZCYT, y tendrá las siguientes atribuciones:
+
+I. Ejecutar y dar seguimiento a los acuerdos del Comité;
+
+II. Elaborar el proyecto del programa de innovación y presentarlo al Comité para su aprobación, así como un informe anual de evaluación de dicho programa;
+
+III. Representar al Comité y fungir como enlace entre los sectores público, social y privado en materia de innovación y tecnología;
+
+IV. Proponer al Comité para su aprobación, los anteproyectos correspondientes para la celebración de todos los actos jurídicos necesarios para la administración de los recursos asignados a éste, para la operación y el funcionamiento de los proyectos y programas de innovación, y
+
+V. Las demás que señalen esta Ley y el reglamento interno del Comité.
+
+#### SECCIÓN NOVENA. Del Control y Vigilancia
 
 ###### Artículo 26.
 
@@ -629,37 +1057,53 @@ V. Opinar sobre los estados financieros del COZCYT: y
 
 VI. Las demás que le confieran esta Ley, el Estatuto Orgánico del COZCYT y demás disposiciones aplicables.
 
-## TÍTULO CUARTO. Del Sistema de Ciencia y Tecnología del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2010)</small>
 
-### CAPÍTULO I. Del Programa Especial de Ciencia y Tecnología
+## TÍTULO CUARTO. Del Sistema de Ciencia, Tecnología e Innovación del Estado
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO I. Del Programa Especial de Ciencia, Tecnología e Innovación
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 28.
 
-Corresponde a la o el Titular del Poder Ejecutivo, aprobar y publicar en el Periódico Oficial, Órgano del Gobierno del Estado, el Programa Especial de Ciencia y Tecnología, el cual tendrá por objeto fijar las políticas estatales para impulsar y fortalecer la generación, difusión, divulgación y aplicación de la ciencia y tecnología en la entidad, así como su revisión anual.
+Corresponde a la o el Titular del Poder Ejecutivo, aprobar y publicar en el Periódico Oficial, Órgano del Gobierno del Estado, el Programa Especial de Ciencia, Tecnología e Innovación, el cual tendrá por objeto fijar las políticas estatales para impulsar y fortalecer la generación, difusión, divulgación y aplicación de la ciencia, la tecnología y la innovación en la entidad, así como su revisión anual.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 29.
 
-En la elaboración de dicho Programa, se promoverá la participación de los distintos grupos sociales y sectores de la entidad, en los términos de lo previsto en la Ley de Planeación para el Desarrollo del Estado de Zacatecas.
+En la elaboración de dicho Programa, se promoverá la participación de los distintos grupos sociales y sectores de la entidad, en los términos de lo previsto en la Ley de Presupuesto de Egresos del Estado y la Ley de Planeación para el Desarrollo del Estado de Zacatecas.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 30.
 
-El Programa será elaborado por la Dirección General del COZCYT, la Junta Directiva y el Consejo de Asesores de acuerdo con las propuestas que presenten otras dependencias y entidades de la administración pública estatal, que apoyen o realicen investigaciones científicas y tecnológicas.
+El Programa será elaborado por la Dirección General del COZCYT, la Junta Directiva y el Consejo Asesor de acuerdo con las propuestas que presenten otras dependencias y entidades de la administración pública estatal, que apoyen o realicen investigaciones científicas y tecnológicas, o que realicen innovación.
 
-En la elaboración del Programa se tomarán en cuenta además, las propuestas de las comunidades científicas y tecnológicas, las que formulen las Instituciones de Educación Superior, así como aquéllas que surjan de los órganos consultivos de participación ciudadana del COZCYT.
+En la elaboración del Programa se tomarán en cuenta además, las propuestas de las comunidades científicas y tecnológicas y el Comité Técnico para la Innovación, las que formulen las Instituciones de Educación Superior, así como aquéllas que surjan de los órganos consultivos de participación ciudadana del COZCYT.
 
 ###### Artículo 31.
 
 El Programa deberá contener, cuando menos, los siguientes aspectos:
 
-I. El entorno y las políticas generales de ciencia y la tecnología en el Estado;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+I. El entorno y las políticas generales de ciencia, tecnología e innovación en el Estado;
 
 II. Precisar los Instrumentos jurídicos, administrativos, financieros y de coordinación aplicables para su ejecución;
 
 III. El diagnóstico, objetivos, políticas, estrategias y programación de acciones prioritarias con sus corresponsabilidades en materia de:
 
-a) Las necesidades esenciales para el desarrollo científico y tecnol6gico del Estado;
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
-b) La investigación, difusión y fomento del conocimiento científico y tecnológico;
+a) Las necesidades esenciales para la investigación científica, la tecnología y la innovación;
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+b) La investigación, difusión y fomento del conocimiento científico y tecnológico, y sobre innovación;
 
 c) La vinculación;
 
@@ -667,9 +1111,13 @@ d) El Sistema;
 
 e) La formación de investigadores, tecnólogos y profesionales de alto nivel;
 
-f) La infraestructura científica y tecnológica;
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
-g) La administración y financiamiento de la ciencia y la tecnología;
+f) La infraestructura científica, tecnológica y para la innovación;
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+g) La administración y financiamiento de la ciencia, la tecnología y la innovación;
 
 h) El seguimiento y evaluación;
 
@@ -683,63 +1131,93 @@ j) El estimulo a jóvenes para que se dediquen a las actividades científicas y 
 
 Los principios que regirán los apoyos que el Ejecutivo del Estado otorgue para fortalecer la investigación científica, el desarrollo tecnológico y la innovación en general, así como en particular los proyectos de ciencia y tecnología, serán los siguientes:
 
-I. Los proyectos propuestos deberán atender las demandas y problemáticas que surjan dentro de la ciencia y la tecnología del Estado y sus diversos sectores y se orientarán, en su caso, hacia la generación, innovación, difusión y aplicación del conocimiento científico y tecnológico;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-II. Los apoyos otorgados, deberán procurar la colaboración Interinstitucional y la vinculación de las instituciones científicas y tecnológicas con los sectores del Estado, así como su desarrollo armónico en la planta científica y tecnológica, estarán encaminados hacia la consolidación y el crecimiento de las comunidades científicas;
+I. Los proyectos propuestos deberán atender las demandas y problemáticas que surjan dentro de la ciencia, la tecnología y la innovación del Estado y sus diversos sectores y se orientarán, en su caso, hacia la generación, difusión y aplicación del conocimiento científico y tecnológico;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+II. Los apoyos otorgados, deberán procurar la colaboración interinstitucional y la vinculación de las instituciones científicas y tecnológicas con los sectores productivos y de servicios en el Estado, así corno su desarrollo armónico en la planta científica, tecnológica y de innovación estarán encaminados hacia la consolidación y el crecimiento de las comunidades científicas;
 
 III. Se promoverá la conservación, consolidación, actualización y desarrollo de la infraestructura estatal de investigación existente, así como la creación de nuevas unidades de investigación, cuando esto sea necesario;
 
-IV. Los apoyos a las actividades de ciencia y tecnología, deberán ser oportunos y suficientes para garantizar su continuidad en beneficio de sus resultados;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+IV. Los apoyos a las actividades de ciencia, tecnología e innovación deberán ser oportunos y suficientes para garantizar su continuidad en beneficio de sus resultados;
 
 V. Se procurará que los proyectos que reciban apoyo, logren el mayor efecto benéfico en los ámbitos de la educación y el aprendizaje de la ciencia y la tecnología;
 
-VI. Los instrumentos de apoyo no afectarán la libre investigación científica y tecnológica, sin perjuicio de la regulación o limitaciones que por motivos de seguridad, de salud, de ética o de cualquier otra causa de interés público, determinen las disposiciones legales que resulten aplicables;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+VI. Los instrumentos de apoyo no afectarán la libre investigación científica y tecnológica, ni la innovación, sin perjuicio de la regulación o limitaciones que por motivos de seguridad, de salud, de ética o de cualquier otra causa de interés público, determinen las disposiciones legales que resulten aplicables;
 
 VII. Los resultados de los proyectos que sean objeto de los apoyos a que se refiere esta Ley, serán evaluados y tomados en cuenta para el otorgamiento de posteriores apoyos;
 
-VIII. Se procurará la concurrencia de recursos públicos y privados para la generación, ejecución y difusión de los proyectos de investigación científica ytecnol6gica, así como de formación, promoción y capacitación de recursos humanos de alto nivel académico;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-IX. Con el propósito de ampliar y fortalecer la cultura científicos y tecnológica en la entidad, se promoverá, a través de los divulgadores científicos, la difusión de la ciencia y la Tecnología, tanto en las instituciones educativas del Estado, como en la sociedad;
+VIII. Se procurará la concurrencia de recursos públicos y privados para la generación, ejecución y difusión de los proyectos de investigación científica y tecnológica, e innovación, así como de formación, promoción y capacitación de recursos humanos de alto nivel académico;
 
-X. Las personas y entidades que realicen investigación y desarrollo tecnológico y reciban apoyos por parte del Ejecutivo del Estado, deberán difundir en la sociedad y con apoyo de los divulgadores científicos, sus actividades y los resultados de sus investigaciones, sin perjuicio de los derechos de propiedad industrial o intelectual y de la Información que por razón de su naturaleza deba reservarse;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+IX. Con el propósito de ampliar y fortalecer la cultura científica y tecnológica en la entidad, se promoverá, a través de los divulgadores científicos, la difusión de la ciencia, la tecnología y la innovación, tanto en las instituciones educativas del Estado, como en la sociedad;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+X. Las personas y entidades que realicen investigación científica, tecnología e innovación y reciban apoyos por parte del Ejecutivo del Estado, deberán difundir en la sociedad y con apoyo de los divulgadores científicos, sus actividades y los resultados de sus investigaciones, sin perjuicio de los derechos de propiedad industrial o intelectual y de la información que por razón de su naturaleza deba reservarse;
 
 XI. Para otorgar el apoyo, el Ejecutivo del Estado convendrá con las personas físicas o morales que lleven a cabo actividades de investigación y, en su caso, con quienes concurran en el financiamiento de dichas actividades, los términos en que se efectuará la distribución de los derechos de propiedad industrial o intelectual derivados de las mismas, cuando así proceda; y
 
-XII. Las actividades de investigación, desarrollo e innovación que lleven a cabo directamente las dependencias y entidades de la administración pública, deberán procurar la identificación y solución de problemas y retos de interés general, contribuir al avance del conocimiento, permitir el mejoramiento de la calidad de vida de la población y del medio ambiente y apoyar la formación de recursos humanos especializados en ciencia y tecnología, sin perjuicio de la libertad de investigación de las personas ni de la autonomía de las Instituciones.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+XII. Las actividades de investigación, desarrollo e innovación que lleven a cabo directamente las dependencias y entidades de la administración pública, deberán procurar la identificación y solución de problemas y retos de interés general, contribuir al avance del conocimiento, permitir el mejoramiento de la calidad de vida de la población y del medio ambiente y apoyar la formación de recursos humanos especializados en ciencia, tecnología e innovación, sin perjuicio de la libertad de investigación de las personas ni de la autonomía de las instituciones.
 
 ### CAPÍTULO III. De la Formación de Recursos Humanos
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 33.
 
-El COZCYT formulará las normas y los criterios para la elaboración de programas que tengan por objeto la formación de recursos humanos de alto nivel académico, en las diversas áreas de la ciencia y la tecnología.
+El COZCYT formulará las normas y los criterios para la elaboración de programas que tengan por objeto la formación de recursos humanos de alto nivel académico, en las diversas áreas de la ciencia, la tecnología y la innovación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 34.
 
-Para la formación de recursos humanos orientados a fa investigación científica y tecnológica, el COZCYT deberá:
+Para la formación de recursos humanos orientados a la investigación científica y tecnológica y la innovación el COZCYT deberá:
 
 I. Promover en las dependencias y entidades de la administración pública estatal, así como en los sectores académico, laboral y social, acciones y estrategias para la formación de recursos humanos de alto nivel académico;
 
 II. Estimular la creación y consolidación de programas de postgrado de alto nivel en el Estado;
 
-III. Fomentar programas de apoyos y becas para la realización de estudios de postgrado, encaminados a la formación de los recursos humanos que satisfagan las necesidades del conocimiento y la investigación en las áreas prioritarias del Estado; y
+III. Fomentar programas de apoyos y becas para la realización de estudios de postgrado, encaminados a la formación de los recursos humanos que satisfagan las necesidades del conocimiento y la investigación en las áreas prioritarias del Estado; y (sic)
 
-IV. Apoyar la integración de las comunidades científica y tecnológica del Estada.
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+IV. Fomentar la promoción de vocaciones científicas y tecnológicas desde los primeros ciclos educativos para favorecer la vinculación de la educación con la investigación científica, la tecnología y la innovación, y
+
+V. Apoyar la integración de las comunidades científica y tecnológica del Estada.
 
 ### CAPÍTULO IV. De la Difusión y Fomento de la Cultura Científica
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 35.
 
-Para desarrollar, fortalecer y consolidar una cultura científica en la sociedad, el Ejecutivo del Estado y los Ayuntamientos, promoverán la participación de los sectores gubernamental, académico, laboral y social, en la difusión y fomento de las actividades científicas y tecnológicas.
+Para desarrollar, fortalecer y consolidar una cultura científica en la sociedad, el Ejecutivo del Estado y los Ayuntamientos, promoverán la participación de los sectores gubernamental, académico, laboral y social, en la difusión y fomento de las actividades científicas, tecnológicas y de innovación.
 
-Asimismo, fomentarán la realización de actividades orientadas a la divulgación de la ciencia y la tecnología al interior de las dependencias y entidades que conforman la administración pública. La participación de los divulgadores científicos será fundamental en este propósito.
+Asimismo, fomentarán la realización de actividades orientadas a la divulgación de la ciencia, la tecnología y la innovación al interior de las dependencias y entidades que conforman la administración pública. La participación de los divulgadores científicos será fundamental en este propósito.
 
 ###### Artículo 36.
 
 En el ámbito de sus respectivas competencias y de acuerdo con las necesidades del Estado, la demanda social y los recursos disponibles, los sectores gubernamental, académico, laboral y social procurarán:
 
-I. Promover la conservación, consolidación, actualización y desarrollo de la infraestructura destinada a la difusión y fomento de la ciencia y la tecnología, a través de la transferencia de información en las telecomunicaciones e Informática, con la finalidad de poner al alcance de la comunidad científica y público en general, información actualizada y de calidad;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-II. Fomentar la organización y realización de eventos académicos y científicos que propicien el intercambio de Información, Ideas y desarrollo del conocimiento, en' materia de ciencia y tecnología;
+I. Promover la conservación, consolidación, actualización y desarrollo de la infraestructura destinada a la difusión y fomento de la ciencia, la tecnología y la innovación a través de la transferencia de información en las telecomunicaciones e informática, con la finalidad de poner al alcance de la comunidad científica y público en general, información actualizada y de calidad;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+II. Fomentar la organización y realización de eventos académicos y científicos que propicien el intercambio de información, ideas y desarrollo del conocimiento, en materia de ciencia, tecnología e innovación;
 
 III. Impulsar la creación de programas y espacios formativos, recreativos e interactivos, con la finalidad de desarrollar en la población en general, el interés por la formación científica y tecnológica, haciendo énfasis en las y los niños y jóvenes; y
 
@@ -747,33 +1225,49 @@ IV. Promover la producción y emisión a través de medios escritos, auditivos, 
 
 ### CAPÍTULO V. De la Coordinación y Descentralización
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 37.
 
-Con la finalidad de establecer programas y apoyos especificas de carácter local para impulsar la descentralización de la investigación científica y tecnológica, el Ejecutivo del Estado podrá suscribir convenios de coordinación y colaboración con los Municipios, la Federación y con los Gobiernos de otros Estados, así como con instituciones públicas o privadas de investigación y enseñanza.
+Con la finalidad de establecer programas y apoyos específicos de carácter local para impulsar la descentralización de la investigación científica y tecnológica, así como de la innovación, el Ejecutivo del Estado podrá suscribir convenios de coordinación y colaboración con los Municipios, la Federación y con los Gobiernos de otros Estados, así como con instituciones públicas o privadas de investigación y enseñanza.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 38.
 
-El COZCYT convendrá con otras dependencias y entidades de la administración pública estatal, a efecto de lograr acciones coordinadas que fomenten las actividades en ciencia y tecnología.
+El COZCYT convendrá con otras dependencias y entidades de la administración pública estatal, a efecto de lograr acciones coordinadas que fomenten las actividades en ciencia, tecnología e innovación.
 
 ### CAPÍTULO VI. De la Información
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 39.
 
-Se crea el Sistema Estatal de Información Científica y Tecnológica, a través del Registro Estatal de Investigadores y el Registro Estatal de Infraestructura Científica y Tecnológica, estará integrado por la información, datos, estudios e investigaciones destinadas a difundir, divulgar, promover y fomentar la ciencia y la tecnología en general, como Instrumento para desarrollar de manera armónica y sustentable, las capacidades científicas y tecnológicas de la Entidad.
+Se crea el Sistema Estatal de Información Científica, Tecnológica e Innovación a través del Registro Estatal de Investigadores y el Registro Estatal de Infraestructura Científica, Tecnológica e Innovación, que estará integrado por la información, datos, estudios e investigaciones destinadas a difundir, divulgar, promover y fomentar la ciencia, la tecnología y la innovación en general, como instrumento para desarrollar de manera armónica y sustentable, las capacidades de la Entidad en estos rubros.
+
+Así mismo, el Sistema Estatal de Información Científica, Tecnológica, e Innovación tendrá por objeto identificar el destino de los recursos asignados en el Presupuesto de Egresos del Estado a la ciencia, la tecnología y la innovación.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 40.
 
-Corresponde al COZCYT integrar, administrar, actualizar y operar el Sistema Estatal de Información Científica y Tecnológica, mismo que será accesible al público en general sin perjuicio de los derechos de propiedad industrial e intelectual y las reglas de confidencialidad que al efecto se establezcan.
+Corresponde al COZCYT integrar, administrar, actualizar y operar el Sistema Estatal de Información Científica, Tecnológica e Innovación, mismo que será accesible al público en general, sin perjuicio de los derechos de propiedad industrial e intelectual y las reglas de confidencialidad que al efecto se establezcan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 41.
 
-Este Sistema de Información deberá contar canta de carácter e interés estatal, la cual abarcará, cuando menos, los siguientes aspectos:
+El Sistema de Información es de interés estatal, y abarcará, cuando menos, los siguientes aspectos:
 
 I. Registro Estatal de Investigadores e investigadoras;
 
-II. Infraestructura destinada a la ciencia y tecnología de la Entidad;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-III. Equipamiento especializado y convencional necesario para realizar actividades de ciencia y tecnología;
+II. Infraestructura destinada a la investigación científica, la tecnología y la innovación de la Entidad;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+III. Equipamiento especializado y convencional necesario para realizar actividades de ciencia, tecnología e innovación;
 
 IV. Producción editorial que en la materia circule;
 
@@ -781,43 +1275,63 @@ V. Líneas de investigación prioritarias a desarrollar;
 
 VI. Proyectos de investigación en proceso;
 
-VII. Posibles fuentes de financiamiento a los proyectos que estén dentro de las líneas de investigación prioritarias; y
+VII. Posibles fuentes de financiamiento a los proyectos que estén dentro de las líneas de investigación prioritarias; y (sic)
 
-VIII. Servicios proporcionados o susceptibles de prestarse por las instituciones de Educación Superior en el Estado y personas físicas vinculadas a la materia.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+VIII. Servicios técnicos proporcionados o susceptibles de prestarse por las instituciones de Educación Superior en el Estado y personas físicas para la modernización tecnológica, la normalización, la propiedad industrial, la tecnología y la innovación, y
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+IX. El destino de los recursos asignados en el Presupuesto de Egresos del Estado a los rubros de ciencia, tecnología e innovación.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 42.
 
-Las dependencias y entidades de la administración pública estatal, colaborarán con el COZCYT en fa integración y actualización del Sistema Estatal de Información Científica y Tecnológica.
+Las dependencias y entidades de la administración pública estatal, colaborarán con el COZCYT en la integración y actualización del Sistema Estatal de Información Científica, Tecnológica e Innovación.
 
 ###### Artículo 43.
 
 El Ejecutivo del Estado podrá convenir con los gobiernos Federal, de Los demás Estados y con los Municipios, así como con las instituciones de educación, su colaboración para la integración y actualización del Sistema de Información.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 44.
 
-Las personas o instituciones públicas o privadas que reciban apoyo por parte del COZCYT para la realización de actividades en ciencia 'f tecnología, proveerán la Información que se les requiera, señalando aquélla que por derechos de propiedad o por alguna otra razón fundada deba reservarse.
+Las personas o instituciones públicas o privadas que reciban apoyo por parte del COZCYT para la realización de actividades en ciencia, tecnología e Innovación proveerán la información que se las requiera, señalando aquélla que por derechos de propiedad o por alguna otra razón fundada deba reservarse.
 
-Las personas o instituciones del sector privado que realicen actividades sobre ciencia y tecnología podrán coadyuvar voluntariamente con el Sistema de Información.
+Las personas o instituciones del sector privado que realicen· actividades sobre ciencia, tecnología e innovación podrán coadyuvar voluntariamente con el Sistema de Información.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 45.
 
-El CQZCYT formulará las bases de organización y funcionamiento del Sistema Estatal de Información Científica y Tecnológica, atendiendo las disposiciones que en fa materia establece la Ley de Acceso a la Información Pública del Estado de Zacatecas.
+El COZCYT formulará las bases de organización y funcionamiento del Sistema Estatal de Información Científica, Tecnológica e Innovación atendiendo las disposiciones que en la materia establece la Ley de Acceso a la Información Pública del Estado de Zacatecas.
 
 ## TÍTULO QUINTO. De la Vinculación
 
 ### CAPÍTULO I. De la Investigación y la Educación
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 46.
 
-la investigación científica y tecnológica que el Ejecutivo del Estado apoye en los términos de esta Ley, buscará contribuir al desarrollo de un sistema de educación, de formación y de capacitación de recursos humanos de calidad y alto nivel académico.
+La investigación científica, tecnológica y sobre innovación que el Ejecutivo del Estado apoye en los términos de esta Ley, buscará contribuir al desarrollo de un sistema de educación, de formación y de capacitación de recursos humanos de calidad y alto nivel académico.
 
-Artículo 47, Las instituciones públicas y privadas de educación superior, coadyuvarán a través de sus investigadores, investigadoras y docentes, en las actividades de divulgación y enseñanza científica y tecnológica, sin perjuicio de sus ámbitos de autonomía, a fin de promover el desarrollo sustentable del Estado a través de la promoción de la cultura científica.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
-Asimismo, promoverán la incorporación de contenidos científicos y tecnológicos en sus diferentes programas educativos y fomentarán la realización de acciones de divulgación de la ciencia y la Tecnología en el Estado, a fin de satisfacer las necesidades de la población en materia de educación científica y tecnológica.
+###### Artículo 47.
+
+Las instituciones públicas y privadas de educación superior, coadyuvarán a través de sus investigadores, investigadoras y docentes, en las actividades de divulgación y enseñanza de la ciencia, la tecnología y la innovación, sin perjuicio de sus ámbitos de autonomía, a fin de promover el desarrollo sustentable del Estado a través de la promoción de la cultura científica.
+
+Asimismo, promoverán la incorporación de contenidos científicos y tecnológicos en sus diferentes programas educativos y fomentarán la realización de acciones de divulgación de la ciencia, la tecnología y la innovación en el Estado, a fin de satisfacer las necesidades de la población en esta materia.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 48.
 
-El- Ejecutivo del Estado reconocerá los logros sobresalientes de quienes realicen investigación científica y tecnológica, y fomentará que su actividad de Investigación contribuya a mantener y fortalecer la calidad de la educación, así como la divulgación de la ciencia y la tecnología en general, a través de los programas que para tales efectos instrumente.
+El Ejecutivo del Estado reconocerá los logros sobresalientes de quienes realicen investigación científica y tecnológica, e innovación, y fomentará que su actividad de investigación contribuya a mantener y fortalecer la calidad de la educación, así como la divulgación de la ciencia, la tecnología y la innovación en general, a través de los programas que para tales efectos instrumente.
 
 ###### Artículo 49.
 
@@ -827,9 +1341,11 @@ El Ejecutivo del Estado promoverá ante la autoridad educativa federal, el dise�
 
 Artículo 50,- Las dependencias y entidades de la administración pública estatal, así como las instituciones públicas y privadas de educación superior, en sus respectivos ámbitos de competencia, promoverán la innovación y el desarrollo tecnológico; para tal efecto, establecerán instrumentos o mecanismos de vinculación con los sectores público y privado de la entidad.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 51.
 
-la vinculación procurará ser multidisciplinaria e interdisciplinaria, buscando para ello la coordinación de acciones en materia de ciencia y tecnología, tomando en cuenta las demandas y necesidades de los sectores gubernamental, académico, privado y social de la entidad, así como la orientación de la infraestructura estatal hacia la generación y avance del conocimiento científico y tecnológico.
+La vinculación procurará ser multidisciplinaria e interdisciplinaria, buscando para ello la coordinación de acciones en materia de ciencia, tecnología e innovación tomando en cuenta las demandas y necesidades de los sectores gubernamental, académico, privado y social de la entidad, así como la orientación de la infraestructura estatal hacia la generación y avance del conocimiento científico y tecnológico, y la innovación.
 
 ### CAPÍTULO III. De la Innovación Tecnológica y Desarrollo
 
@@ -841,27 +1357,41 @@ Las dependencias y entidades de la administración pública estatal y las instit
 
 El proceso de innovación deberá ser multidisciplinario e interinstitucional; en él, se buscará la coordinación de esfuerzos conjuntos en materia de ciencia y Tecnología, tomando en cuenta los problemas prevalecientes en el Estado.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 54.
 
-Para la creación y la operación de los instrumentos de fomento a que se refiere esta Ley, se concederá prioridad a los proyectos cuyo propósito sea promover la innovación y el desarrollo tecnológico vinculados con empresas o entidades usuarias de la tecnología, que aporten mayor beneficio social.
+Para la creación y la operación de los instrumentos de fomento a que se refiere esta Ley, se concederá prioridad a los proyectos cuyo propósito sea promover la innovación y la tecnología vinculados con los sectores productivos y de servicios que incidan en la mejora de la productividad y la competitividad de la economía de la entidad.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+Artículo 54 bis.- Con el objetivo de generar proyectos en materia de tecnología e innovación y promover su vinculación con los sectores productivos y de servicios, las universidades e instituciones de educación pública superior de la entidad, podrán crear unidades de vinculación y transferencia de conocimiento.
+
+En los términos de las disposiciones que al efecto expida COZCYT y la Secretaria de Finanzas en el ámbito de su competencia, las unidades de vinculación y transferencia de conocimiento podrán tomar la forma de empresas de participación estatal minoritaria mediante la figura jurídica que mejor convenga para sus objetivos. Además, podrán contratar por proyecto, a personal académico de las universidades e instituciones de educación superior, sujetándose a lo dispuesto en la normatividad vigente en la materia.
 
 ###### Artículo 55.
 
 El Consejo, deberá establecer las bases, mecanismos y formalidades, que deberán observarse en los procesos de innovación tecnológica y desarrollo a que se refiere este Capitulo atendiendo además al contenido y objetivos del proyecto.
 
-## TÍTULO SEXTO. Del Financiamiento y de los Fondos para la Investigación Científica y Tecnológica
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2010)</small>
+
+## TÍTULO SEXTO. Del Financiamiento y de los Fondos para la Investigación Científica y Tecnológica, y para la Innovación
 
 ### CAPÍTULO I. Del Financiamiento
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 56.
 
-El financiamiento del Sistema Estatal de Ciencia y Tecnología, es el conjunto de recursos económicos públicos, privados y sociales, necesarios para el adecuado desarrollo de fa investigación científica y tecnológica.
+El financiamiento del Sistema Estatal de Ciencia, Tecnología e Innovación es el conjunto de recursos económicos públicos, privados y sociales, necesarios para el adecuado desarrollo de la investigación científica y tecnológica y la innovación.
 
 ###### Artículo 57.
 
 El COZCYT, deberá remitir anualmente su Proyecto de Presupuesto de Egresos a la Secretaría de Finanzas, en el que deberá prever los recursos materiales y financieros necesarios para su funcionamiento administrativo y para la creación de los fondos institucionales.
 
-### CAPÍTULO II. De los Fondos para la Investigación Científica y Tecnológica
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO II. De los Fondos para la Investigación Científica, la tecnología y la Innovación
 
 ###### Artículo 58.
 
@@ -875,17 +1405,45 @@ Los fondos a que se refiere este Capítulo, deberán precisar el instrumento jur
 
 Los fondos para la investigación, se regirán por el presente ordenamiento y además podrán tener las siguientes modalidades:
 
-I. Institucionales, con aquellos recursos que el Ejecutivo del Estado otorgue al COZCYT para fomentar, impulsar, desarrollar y fortalecer la investigación científica y tecnológica en la entidad; éstos se sujetarán a los principios Que establece esta ley;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-II. Sectoriales, son aquellos recursos que se obtengan a través de la firma de convenios entre el COZCYT y las dependencias y entidades de la administración pública estatal; éstos se destinarán exclusivamente a la realización de investigaciones científicas y tecnológicas que requiera el sector de que se trate;
+I. Institucionales, son aquellos recursos que el Ejecutivo del Estado otorgue al COZCYT para fomentar, impulsar, desarrollar y fortalecer la investigación científica y tecnológica y la innovación en la entidad; éstos se sujetarán a los principios que establece esta Ley;
 
-III. Internacionales, son los recursos que provengan de convenios de cooperac1ón internacional, que se establezcan y operen conforme al procedimiento que los mismos estipulen, así como lo que al efecto contemple este ordenamiento y demás reglas de operación que se expidan sobre el particular;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+II. Sectoriales, son aquellos recursos que se obtengan a través de la firma de convenios entre el COZCYT y las dependencias y entidades de la administración pública estatal; éstos se destinarán exclusivamente a la realización de investigaciones científicas y tecnológicas e innovación que requiera el sector de que se trate;
+
+III. Internacionales, son los recursos que provengan de convenios de cooperación internacional, que se establezcan y operen conforme al procedimiento que los mismos estipulen, así como lo que al efecto contemple este ordenamiento y demás reglas de operación que se expidan sobre el particular;
 
 IV. Mixtos, son aquellos recursos que se convengan entre el Ejecutivo del Estado, a través del COZCYT, y alguna otra entidad o dependencia federal o estatal y/o el CONACYT. El Ejecutivo del Estado garantizará la aportación y el aseguramiento de los recursos propuestos para fondos mixtos.
 
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
+Artículo 60 bis.- De conformidad a la fracción II del artículo anterior, las Secretarías de Estado y las entidades de la Administración Pública Estatal podrán celebrar convenios con el COZCYT, para establecer fondos sectoriales de innovación, que tendrán por objeto otorgar apoyos para:
+
+I. La creación y desarrollo de unidades de vinculación y transferencia de conocimiento, empresas y actividades de base tecnológica, redes o alianzas regionales tecnológicas o de innovación, asociaciones estratégicas, asociaciones, clústeres, consorcios, o nuevas empresas generadoras de innovación;
+
+II. El establecimiento de vínculos entre los sectores productivos y de servicios y los generadores de ciencia, tecnología e innovación;
+
+III. La creación de empresas o asociaciones cuyo fin sea la constitución de redes científicas y tecnológicas y de vinculación entre los generadores de ciencia, tecnología e innovación y los sectores productivos y de servicios;
+
+IV. El desarrollo de proyectos de innovación con impacto regional, identificados y definidos como prioritarios de acuerdo al Programa Especial de Ciencia, Tecnología e Innovación;
+
+V. La conformación de sistemas de gestión de la tecnología en las empresas;
+
+VI. El establecimiento de fondos semilla y de capital de riesgo para la formación de empresas basadas en el conocimiento;
+
+VII. El Establecimiento y consolidación de parques científicos y tecnológicos;
+
+VIII. El establecimiento de instrumentos de capital de riesgo para la innovación, y
+
+IX. Los demás destinos establecidos en el artículo 66 de la presente Ley y los que se determinen para el fomento y desarrollo de la innovación en el Programa Especial de Ciencia, Tecnología e Innovación.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 61.
 
-El COZCYT podrá convenir con los Municipios del Estado, el establecimiento y operación de fondos mixtos de carácter estatal y municipal de apoyo a la Investigación científica y tecnológica. Estos fondos podrán incluir la formación de recursos humanos de alto nivel y se integrarán y desarrollarán con aportaciones de las partes, en la proporción que en cada caso se convenga.
+El COZCYT podrá convenir con los Municipios del Estado, el establecimiento y operación de fondos mixtos de carácter estatal y municipal de apoyo a la investigación científica, la tecnología y la innovación. Estos fondos podrán incluir la formación de recursos humanos de alto nivel y se integrarán y desarrollarán con aportaciones de las partes, en la proporción que en cada caso se convenga.
 
 ###### Artículo 62.
 
@@ -895,11 +1453,13 @@ Deberá sujetarse además, a las siguientes bases:
 
 I. Serán constituidos y administrados mediante la figura del fideicomiso;
 
-II. Los beneficiarios de estos fondos serán las Instituciones, universidades públicas y privadas, centros, laboratorios, empresas públicas y privadas, o personas dedicadas a la investigación científica y/o al desarrollo tecnológico;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+II. Los beneficiarios de estos fondos serán las instituciones, universidades públicas y privadas, centros, laboratorios, empresas públicas y privadas, o personas dedicadas a la investigación científica, al desarrollo tecnológico y/o a la innovación;
 
 III. El fideicomitente administrador de estos fondos será el COZCYT, quien podrá recibir aportaciones del gobierno federal y de terceras personas;
 
-IV. El GOZCYT, por conducto del comité técnico V de administración, podrá participar en la definición del objeto de cada uno de los fondos, en sus reglas de operación y en la formulación de los elementos fundamentales que contengan los contratos respectivos;
+IV. El COZCYT, por conducto del comité técnico V de administración, podrá participar en la definición del objeto de cada uno de los fondos, en sus reglas de operación y en la formulación de los elementos fundamentales que contengan los contratos respectivos;
 
 V. Se deberán emitir las reglas de operación de cada fondo, en las que se precisarán los objetivos específicos, criterios, procesos e instancias de decisión para el otorgamiento de apoyos, su seguimiento y evaluación; y
 
@@ -923,29 +1483,41 @@ V. Estarán sujetos a las medidas de control y auditoria gubernamental que se de
 
 Los recursos de origen fiscal, los propios, los de terceros o cualesquiera otros que ingresen a los fondos que se establezcan conforme a lo dispuesto en esta Ley, no se revertirán en ningún caso al gobierno estatal o federal. A la terminación del contrato de fideicomiso, por cualquier causa legal o contractual, los recursos que se encuentren en el mismo pasarán al patrimonio del fideicomitente.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 65.
 
-Los recursos destinados al financiamiento de la investigación científica y tecnológica que se realice en el Estado, serán inembargables e intransferibles, por lo que deberán aplicarse exclusivamente al fomento de tales actividades.
+Los recursos destinados al financiamiento de la investigación científica y tecnológica, y la innovación que se realice en el Estado, serán inembargables e intransferibles, por lo que deberán aplicarse exclusivamente al fomento de tales actividades.
 
 ###### Artículo 66.
 
 Las actividades a que se refiere el artículo anterior, deberán estar orientadas a:
 
-l. Impulsar el aprovechamiento de los resultados de la Investigación científica y tecnológica, para ampliar los horizontes de competitividad de la planta productiva;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+I. Impulsar el aprovechamiento de los resultados de la investigación científica y tecnológica, así como aquéllos vinculados con la innovación, para ampliar los horizontes de competitividad de la planta productiva;
 
 II. Promover la capacitación y actualización continua de los recursos humanos del Estado, con la finalidad de formar cuadros de alto nivel técnico y profesional, capaces de Integrar o encabezar grupos, centros de investigación y empresas, orientados hacia las áreas que más convengan al desarrollo económico y social del Estado;
 
-III. Definir e instrumentar mecanismos de divulgación de ras actividades científicas y tecnológicas para fomentar una cultura científica, a través de productos editoriales científicos y espacios formativos, recreativos e interactivos, acordes con las prioridades del Estado; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-IV. Promover la creación, equipa miento y mantenimiento de la Infraestructura científica y tecnológica observando, en cada caso, lo dispuesto en la presente Ley.
+III. Definir e instrumentar mecanismos de divulgación de las actividades científicas, tecnológicas y de innovación para fomentar una cultura científica, a través de productos editoriales científicos y espacios formativos, recreativos e interactivos, acordes con las prioridades del Estado, y
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+IV. Promover la creación, equipamiento y mantenimiento de la infraestructura científica, tecnológica y de innovación observando, en cada caso, lo dispuesto en la presente Ley.
 
 ###### Artículo 67.
 
 La transferencia de recursos de un proyecto a otro, deberá realizarse previa aprobación de la Junta Directiva del COZCYT, en los términos del Presupuesto de Egresos del Estado y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 68.
 
-Para el cumplimiento da los propósitos y objetivos del Programa el Ejecutivo Estatal, a través de sus dependencias y entidades, programará dentro del Presupuesto de Egresos del Estado un porcentaje suficiente que provea los recursos necesarios para el fortalecimiento y consolidación de las capacidades científicas y tecnológicas de la entidad. mediante la formación de recursos humanos para la investigación, la adquisición de Infraestructura, la realización de proyectos de investigación científicas, innovación y desarrollo tecnológico y de vinculación y gestión científica y tecnológica, la difusión, divulgación y enseñanza de la ciencia y la tecnología.
+Para el cumplimiento de los propósitos y objetivos del Programa, el Ejecutivo Estatal, a través de sus dependencias y entidades, programará el 1% del Presupuesto de Egresos del Estado, para el fortalecimiento y consolidación de las capacidades científicas, tecnológicas y de innovación de la entidad, mediante la formación de recursos humanos para la investigación, la adquisición de infraestructura, la realización de proyectos de investigación científica, innovación y desarrollo tecnológico y de vinculación y gestión científica y tecnológica, la difusión, divulgación y enseñanza de la ciencia y la tecnología, y el registro nacional e internacional de los derechos de propiedad Intelectual que se generen.
+
+El monto total de los recursos a que se refiere el párrafo anterior corresponderá al porcentaje establecido en el último párrafo del artículo 1 de la presente Ley.
 
 ## TÍTULO SÉPTIMO. Del Reconocimiento y Estimulo al Desempeño Científico y Tecnológico
 
@@ -957,45 +1529,61 @@ Se Integra el Sistema Estatal de Investigadores e Investigadoras del Estado, mis
 
 I. Reconocer y estimular el desempeño de los integrantes de la comunidad científica de la entidad;
 
-II. Promover e impulsar las actividades científicas y tecnológicas de: los integrantes de la comunidad científica de la entidad, propiciando el Incremento de la productividad, el mejoramiento la calidad y su participación en la formación de nuevos investigadores que coadyuven al desarrollo del Estado, así como la consolidación de los existentes;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+II. Promover e impulsar las actividades científicas, tecnológicas y de innovación de los integrantes de la comunidad científica de la entidad, propiciando el incremento de la productividad, el mejoramiento de la calidad y su participación en la formación de nuevos investigadores que coadyuven al desarrollo del Estado, así como la consolidación de los existentes;
 
 III. Establecer y actualizar el Registro Estatal de Investigadores integrado por miembros de la Comunidad científica;
 
-IV. Facilitar a los y las integrantes de la comunidad científica, la obtención de los méritos necesarios para su incorporación en los esquemas nacionales e internacionales de reconocimiento a la función de investigación y desarrollo tecnológico;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+IV. Facilitar a los y las integrantes de la comunidad científica, la obtención de los méritos necesarios para su incorporación en los esquemas nacionales e internacionales de reconocimiento a la función de investigación científica y tecnológica e innovación;
 
 V. Coadyuvar en la investigación que se realice en el Estado, de acuerdo con las prioridades establecidas en el Plan Estatal de Desarrollo y el Programa; y
 
-VI. Apoyar la Integración de grupos de investigadores en la entidad, que participen en el proceso de generación de conocimientos científicos y tecnológicos, hasta su aplicación en la planta productiva de bienes y servicios, de las instituciones de los sectores público, social y privado.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
+VI. Apoyar la integración de grupos de investigadores en la entidad, que participen en el proceso de generación de conocimientos científicos, tecnológicos y para la innovación, hasta su aplicación en la planta productiva de bienes y servicios, de las instituciones de los sectores público, social y privado.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 70.
 
-Podrán formar parte del Sistema Estatal de Investigadores e Investigadoras quienes integren la comunidad científica y cuya labor científica y/o tecnológica, cumpla con lo estipulado en el Reglamento interior del propio sistema y en las bases que para el otorgamiento de los reconocimientos y estimulas se emitan.
+Podrán formar parte del Sistema Estatal de Investigadores e Investigadoras, quienes integren la comunidad científica y cuya labor científica, tecnológica y/o de innovación, cumpla con lo estipulado en el Reglamento interior del propio sistema y en las bases que para el otorgamiento de los reconocimientos y estímulos se emitan.
 
 ###### Artículo 71.
 
 El COZCYT será el encargado de instaurar, desarrollar y administrar el Sistema Estatal de Investigadores e Investigadoras y evaluar su funcionamiento, garantizando en todo momento legalidad y equidad, y propiciando la participación de reconocidos integrantes de la comunidad científica nacional y local y de los sectores público, social y privado.
 
-### CAPÍTULO II. Reconocimiento al Mérito Estatal de Investigación
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO II. Reconocimiento al Mérito Estatal de Investigación Científica y Tecnológica y la Innovación
 
 ###### Artículo 72.
 
 El Gobierno del Estado, deberá reconocer el mérito estatal de investigación a la labor científica y tecnológica destacada, con el objeto de estimular, promoverla y difundirla.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 73.
 
-Dicho reconocimiento se hará a los científicos o tecnólogos que laboren como tales en la entidad, así como a los que radiquen en ella, cuya obra en estos campos se haga acreedora a tal distinción, mediante su ingreso al Sistema Nacional de Investigadores o al acceso a un nivel superior dentro del mismo.
+Dicho reconocimiento se hará a los científicos, tecnólogos e innovadores que laboren como tales en la entidad, así como a los que radiquen en ella, cuya obra en estos campos se haga acreedora a tal distinción, mediante su ingreso al Sistema Nacional de Investigadores o al acceso a un nivel superior dentro del mismo.
 
 ###### Artículo 74.
 
 El reconocimiento consistirá en una medalla otorgada por la Legislatura del Estado y por los estimulas que otorgue el Ejecutivo del Estado a través del COZCYT, mismos que serán entregados anualmente.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 75.
 
-El Gobierno del Estado también reconocerá a los nuevos valores destacados en los temas de ciencia y tecnología mediante el premio "José Árbol y Bonilla" al Talento Joven Científico.
+El Gobierno del Estado también reconocerá a los nuevos valores destacados en los temas de ciencia, tecnología e innovación mediante el premio "José Árbol y Bonilla" al Talento Joven Científico.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 76.
 
-Este reconocimiento se hará a los jóvenes zacatecanos que destaquen en los primeros lugares de las competencias de ciencias a niveles nacionales, iberoamericanas, latinoamericanas o internacionales.
+Este reconocimiento se hará a las y los jóvenes zacatecanos que destaquen en los primeros lugares de las competencias de ciencias a niveles nacionales, iberoamericanas, latinoamericanas o internacionales.
 
 ###### Artículo 77.
 
@@ -1017,8 +1605,26 @@ Quinto.- Dentro del término de 60 días posteriores a la publicación del Estad
 
 COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 
-DADO en la Sala de Sesiones de la Honorable Quincuagésima Octava Legislatura del Estado a los cuatro días del mes de Abril del año dos mil seos.- Diputado Presidente.- ADÁN GONZÁLEZ ACOSTA, Diputados Secretarios.- MARTINA RODRÍGUEZ GARCÍA Y ROMÁN CARBAJAL BAÑUELOS.- Rubrica.
+DADO en la Sala de Sesiones de la Honorable Quincuagésima Octava Legislatura del Estado a los cuatro días del mes de Abril del año dos mil seis.- Diputado Presidente.- ADÁN GONZÁLEZ ACOSTA, Diputados Secretarios.- MARTINA RODRÍGUEZ GARCÍA Y ROMÁN CARBAJAL BAÑUELOS.- Rubrica.
 
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del Poder Ejecutivo del Estado, a los cuatro días del mes de mayo del año dos mil seis, atentamente: "SUFRAGIO EFECTIVO. NO REELECCIÓN". La Gobernadora del Estado de Zacatecas: Amalia D. García Medina; El Secretario General de Gobierno: Luis Gerardo Romo Fonseca. Rúbricas
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE AGOSTO DE 2010.
+
+Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se abroga el Acuerdo por el que se Crea el Centro Interactivo de Ciencia y Tecnología de Zacatecas "Zigzag", como órgano desconcentrado de la Secretan a de Educación y Cultura del Gobierno del Estado, publicado en el número 55 del Periódico Oficial, Órgano del Gobierno del Estado, el día diez de julio de 2004, y se derogan todas las disposiciones que contravengan este Decreto.
+
+Tercero. En un plazo no mayor a tres meses a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado realizará las adecuaciones administrativas y procedimientos legales necesarios para entregar al COZCYT la administración del Centro Interactivo de Ciencia y Tecnología de Zacatecas "Zigzag", actualmente a cargo de la Secretaría de Educación y Cultura del Gobierno del Estado.
+
+Cuarto. El Consejo Zacatecano de Ciencia y Tecnología cambia su denominación a Consejo Zacatecano de Ciencia, Tecnología e Innovación, conservando sus siglas originales, así como los recursos humanos, financieros y materiales con los que cuenta actualmente. Para lo cual deberán respetarse los derechos laborales y de seguridad social que los servidores públicos hubieren adquirido a la fecha.
+
+Quinto. La Junta Directiva deberá realizar y aprobar las modificaciones que correspondan al Estatuto Orgánico del COZCYT conforme a lo dispuesto en este Decreto, en un término que no excederá de seis meses posteriores a su entrada en vigor, debiéndose publicar en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Sexto. En un plazo no mayor a seis meses de la entrada en vigor del presente Decreto, deberá constituirse el Comité Intersectorial de Innovación conforme a lo establecido en los artículos 14, fracción V, 25 bis, 25 ter y 25 quáter de esta Ley y emitirse el reglamento respectivo.
+
+Séptimo. En un plazo no mayor a seis meses de la entrada en vigor de la presente Ley, las instituciones de educación pública superior de la entidad deberán haber creado las unidades de vinculación a las que se refiere el artículo 54 bis de la misma.
