@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-general-de-transito-y-vialidad-del-55028"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-14"
-last_updated: "2010-04-07"
+last_updated: "2010-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO DE LA LEY GENERAL DE TRANSITO Y VIALIDAD DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tabasco, el miércoles 14 de marzo de 2007.
 
@@ -1665,11 +1665,13 @@ La autoridad de Tránsito y Vialidad o el concesionario de servicio de grúas al
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO RESULTANTE DE ACCIDENTES, INCIDENTES E INFRACCIONES DE TRÁNSITO PARA LA APLICACIÓN DE SANCIONES
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE AGOSTO DE 2010)</small>
 
 ###### ARTÍCULO 122.
 
-Tratándose de infracciones sancionadas con multa el infractor procederá a pagarlas ante la autoridad competente. Si el interesado no estuviere de acuerdo con la sanción impuesta podrá acudir ante la. Dirección General dentro de los cinco días hábiles siguientes para manifestar lo que a su derecho corresponda y ofrecer las pruebas que estime pertinentes, mediante escrito en el que acredite su personalidad, señale domicilio para oír y recibir citas y notificaciones y exponga de manera sucinta los hechos en que funde su inconformidad.
+Tratándose de infracciones sancionadas con multa el infractor procederá a pagarlas ante la autoridad competente o a través de los mecanismos que ésta determine. Si el interesado no estuviere de acuerdo con la sanción impuesta podrá acudir ante la Dirección General dentro de los cinco días hábiles siguientes para manifestar lo que a su derecho corresponda y ofrecer las pruebas que estime pertinentes, mediante escrito en el que acredite su personalidad, señale domicilio para oír y recibir citas y notificaciones y exponga de manera sucinta los hechos en que funde su inconformidad.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
 
 Una vez desahogadas las pruebas, la Dirección General procederá a emitir la resolución que proceda conforme a derecho dentro de los cinco días hábiles siguientes.
 
@@ -1709,7 +1711,7 @@ Las multas se fijan en días de salario mínimo general vigente en el Estado de 
 
 > <small>N. DE E. VEASE TABULADOR DE SANCIONES EN EL P.O. DE 12 DE MAYO DE 2007, PAGINAS DE LA 21 A LA 35.</small>
 
-> <small>N. DE E. REFORMAS AL TABULADOR DE SANCIONES, P.O. 7 DE ABRIL DE 2010.</small>
+> <small>N. DE E. REFORMAS AL TABULADOR DE SANCIONES, P.O. 7 DE ABRIL DE 2010, P.O. 21 DE AGOSTO DE 2010.</small>
 
 Al infractor que pague la multa dentro de los quince días hábiles posteriores a la fecha de expedición, gozará de un descuento del 50%. En caso de que el infractor opte por el arresto y exista acumulación de infracciones en ningún caso podrá exceder de 36 horas.
 
@@ -1762,3 +1764,9 @@ La Dirección General de la Policía Estatal de Caminos en coordinación con la 
 ###### ARTÍCULO TERCERO.
 
 Los distribuidores y concesionarios automotrices deberán, en un plazo que no exceda de treinta días a partir de la publicación de este Acuerdo, entregar ante la Dirección General de la Policía Estatal de Caminos las placas de demostración que tengan en su poder, así como gestionar, ante la misma autoridad, la expedición de nuevas placas.
+
+P.O. 21 DE AGOSTO DE 2010.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Dirección General de la Policía Estatal de Caminos, en coordinación con la Secretaría de Administración y Finanzas, tomarán las medidas presupuestales y administrativas necesarias para la adecuada implementación de las nuevas disposiciones normativas.
