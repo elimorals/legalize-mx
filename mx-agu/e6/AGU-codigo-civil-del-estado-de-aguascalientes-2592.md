@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2010-06-28"
+last_updated: "2010-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1611,11 +1611,11 @@ Ni la declaración de uno de los cónyuges que afirme ser suya una cosa, ni la c
 
 DE LA ADMINISTRACION DE LA SOCIEDAD LEGAL.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 215.
 
-El dominio y posesión de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad; pero las acciones en contra de ésta o sobre los bienes sociales serán dirigidas contra el administrador. Las reclamaciones relativas a obligaciones que son carga de la sociedad legal procederán contra el administrador y lo decidido en el Juicio en que intervino el marido produce autoridad de cosa juzgada, respecto de la sociedad legal y de la mujer como miembro de ésta. Constituido el patrimonio familiar conforme a las reglas de este Código, los cónyuges no pueden ejercer actos de dominio sobre los bienes afectos a éste, y las reclamaciones relativas a obligaciones de la sociedad no pueden cumplirse con los bienes que forman parte del patrimonio familiar.
+El dominio y posesión de los bienes comunes reside en ambos cónyuges, mientras subsista la sociedad; pero las acciones en contra de ésta o sobre los bienes sociales serán dirigidas contra el administrador. Las reclamaciones relativas a obligaciones que son carga de la sociedad legal procederán contra el administrador y lo decidido en el Juicio en que intervino produce autoridad de cosa juzgada, respecto de la sociedad legal y del otro cónyuge como miembro de ésta. Constituido el patrimonio familiar conforme a las reglas de este Código, los cónyuges no pueden ejercer actos de dominio sobre los bienes afectos a éste, y las reclamaciones relativas a obligaciones de la sociedad no pueden cumplirse con los bienes que forman parte del patrimonio familiar.
 
 ###### Artículo 216.
 
@@ -2247,6 +2247,10 @@ Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes
 
 En los casos de divorcio, el cónyuge inocente tendrá derecho a recibir alimentos del cónyuge culpable, estos alimentos han de ser proporcionados a la posibilidad del que debe de darlos y a la necesidad del que debe de recibirlos, durante el mismo tiempo que duró el matrimonio o mientras no contraiga nuevas nupcias o viva en concubinato. Además, cuando por el divorcio se originen daños y perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito. En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia, ni a la indemnización que concede este Artículo.
 
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2010)</small>
+
+Artículo 310 bis.- En caso de divorcio necesario, si uno de los cónyuges careciere de bienes propios, o teniéndolos sean notoriamente menores a los del otro cónyuge, y se hubiere dedicado la mayor parte de su vida matrimonial al cuidado del hogar y en su caso a la atención de los hijos, tendrá derecho a recibir del otro cónyuge una compensación. El monto será determinado por el Juez competente al momento de dictar sentencia de divorcio, tomando en cuenta la masa patrimonial del cónyuge que deba otorgarla, sin que esta pueda exceder del cincuenta por ciento de los bienes adquiridos durante el matrimonio.
+
 ###### Artículo 311.
 
 En virtud del divorcio los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
@@ -2803,9 +2807,11 @@ Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revela
 
 El Oficial del Registro Civil, el juez de Primera Instancia en su caso, y el notario que consientan en la violación del artículo que precede, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 396.
 
-Cualquiera de los padres podrá reconocer al hijo natural nacido antes del matrimonio de aquéllos; y el marido podrá reconocer al habido durante éste; pero no tendrá derecho de llevarlo a vivir a la habitación conyugal, si no es con el consentimiento de la esposa.
+Cualquiera de los padres podrá reconocer al hijo nacido antes del matrimonio de aquellos; y el marido podrá reconocer al habido durante éste; pero no tendrán derecho de llevarlo a vivir a la habitación conyugal, si no es con el consentimiento de la esposa.
 
 ###### Artículo 397.
 
@@ -4185,7 +4191,9 @@ La expropiación por causa de utilidad pública de bienes de incapacitados, no s
 
 Cuando el tutor de un incapaz sea el cónyuge, continuará ejerciendo sus derechos conyugales con las siguientes modalidades:
 
-I.- En los casos en que conforme a derecho fuera necesario el consentimiento de la mujer, se suplirá éste por el juez, con audiencia del curador;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2010)</small>
+
+I.- Si se requiere legalmente el consentimiento del otro cónyuge, se suplirá por el juez, con audiencia del curador;
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -4429,9 +4437,17 @@ En los casos en que conforme a este Código tenga que intervenir el curador, cob
 
 DEL CONSEJO DE TUTELA.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 654.
 
-En el Estado habrá un Consejo de Tutela que residirá en la Capital, compuesto de un Presidente y de dos Vocales, que durarán un año en el ejercicio de su cargo y serán nombrados por el Gobernador del Estado dentro de los diez primeros días del mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger la infancia desvalida.
+El Consejo de Tutela es un organismo honorífico, integrado por un Presidente y seis vocales, el Presidente del mismo será el Director General del Sistema de Desarrollo Integral de la Familia del Estado de Aguascalientes, y los restantes seis vocales serán designados por el Ejecutivo.
+
+El Consejo de Tutela sesionará bimestralmente en el espacio que sea destinado por el Ejecutivo para sus sesiones y podrá sesionar válidamente hasta con la mitad de sus integrantes contando el Presidente en todo caso con voto de calidad para en casos de empate.
+
+Los vocales del Consejo de Tutela serán designados cada tres años dentro de los diez primeros días del mes de enero, procurando que los nombramientos recaigan en personas que sean de buenas costumbres y que tengan interés en proteger la infancia y a la familia.
+
+Quienes ya se hayan desempeñado en el Consejo de Tutela como vocales o Presidente, pueden ser confirmados en el cargo para los períodos subsecuentes.
 
 ###### Artículo 655.
 
@@ -4917,11 +4933,11 @@ DEL PATRIMONIO DE LA FAMILIA.
 
 ### CAPITULO UNICO.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 746.
 
-Son objeto del patrimonio de la familia:
+El patrimonio familiar es una institución de interés público, que tiene por objeto afectar uno o más bienes para proteger económicamente a la familia y sostener el hogar. Son objeto del patrimonio de la familia:
 
 I.- La casa-habitación de la familia;
 
@@ -7615,21 +7631,23 @@ Si el legado consistiere en prestación periódica, el legatario hará suyas tod
 
 DE LOS BIENES DE QUE SE PUEDE DISPONER POR TESTAMENTO Y DE LOS TESTAMENTOS INOFICIOSOS.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 1280.
 
-El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
+El testador debe dejar alimentos a las personas que se mencionan en las Fracciones siguientes:
 
-I.- A los descendientes varones menores de veintiún años;
+I. A los descendientes menores de veintiún años;
 
-II.- A los descendientes varones que estén imposibilitados de trabajar y a las hijas que no hayan contraído matrimonio y vivan honestamente, unos y otras aun cuando fueren mayores de veintiún años;
+II. A los descendientes que estén imposibilitados para trabajar y no hayan contraído matrimonio o concubinato, aun cuando fueren mayores de veintiún años;
 
-III.- Al cónyuge supérstite, siempre que siendo varón esté impedido de trabajar, o que siendo mujer, permanezca viuda y viva honestamente;
+III. Al cónyuge supérstite, siempre que esté impedido para trabajar y no tenga medios para subvenir a sus necesidades, o que no contraiga nuevo matrimonio;
 
-IV.- A los ascendientes;
+IV. A los ascendientes siempre y cuando no tengan medios para subvenir a sus necesidades;
 
-V.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades;
+V. A los hermanos y demás parientes colaterales dentro del cuarto grado, si están imposibilitados para trabajar o mientras que no cumplan veintiún años, siempre y cuando no tengan medios para subvenir a sus necesidades;
 
-VI.- A la mujer con quien el testador vivió como si fuera su marido durante los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante esa vida en común. La mujer en estos casos sólo tendrá derecho a alimentos mientras observe buena conducta y no se case. Si fueren varias las personas que se encuentren en el mismo caso a que se refiere este artículo, respecto al testador, ninguna de ellas tendrá derecho a alimentos.
+VI. A la concubina o concubinario siempre que no esté impedido para trabajar y que no tenga medios para subvenir a sus necesidades y que no contraiga matrimonio.
 
 ###### Artículo 1281.
 
@@ -8883,9 +8901,11 @@ Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición
 
 La herencia dejada a los menores y demás incapacitados, será aceptada por sus representantes, quienes podrán repudiarla con autorización judicial, previa audiencia del Ministerio Público.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 1536.
 
-La mujer casada no necesita la autorización del marido para aceptar o repudiar la herencia que le corresponda. La herencia común será aceptada o repudiada por los dos cónyuges y en caso de discrepancia, resolverá el juez.
+El cónyuge no necesita la autorización del otro para aceptar o repudiar la herencia que le corresponda. La herencia común será aceptada o repudiada por los dos cónyuges, y en caso de discrepancia, resolverá el juez.
 
 ###### Artículo 1537.
 
@@ -8989,7 +9009,7 @@ DE LOS ALBACEAS.
 
 No podrá ser albacea el que no tenga la libre disposición de sus bienes.
 
-La mujer casada, mayor de edad, podrá serlo sin la autorización de su esposo.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 1561.
 
@@ -16462,3 +16482,9 @@ P.O. 28 DE JUNIO DE 2010.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
