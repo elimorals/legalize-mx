@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-rincon-de-romos-29026"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "2009-06-01"
+last_updated: "2010-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE RINCON DE ROMOS, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
 
 Ley publicada en la Sección Décima Segunda del Alcance del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 
@@ -229,13 +229,13 @@ Si transcurrido dicho plazo, no se expresan los datos o no se presentan los docu
 
 #### SECCION PRIMERA. Del Objeto
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE AGOSTO DE 2010)</small>
 
-###### ARTICULO 22.
+###### ARTÍCULO 22.
 
-El valor del inmueble será el que resulte mayor entre el valor de adquisición o el valor catastral del mismo, disminuido con el valor que se tome como base para calcular el impuesto a que se refiere esta Ley en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
+Será objeto de este impuesto:
 
-Para los efectos de esta Ley se entiende por adquisición la que se derive de:
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de Asociaciones o Sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal. Siempre que sean inmuebles de propiedad de los copropietarios o de los cónyuges;
 
@@ -275,71 +275,59 @@ En la constitución, adquisición o extinción del usufructo o de la nuda propie
 
 De los Sujetos
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
-###### ARTICULO 23.
+###### ARTÍCULO 23.
 
-Están obligados al pago de este impuesto, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo (sic) y las construcciones adheridas a él, ubicados en el Municipio, por cualesquiera de las figuras enumeradas en el Artículo 22 de esta Ley.
-
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1994)</small>
-
-Para determinar el pago de este impuesto se aplicará una exención al valor que resulte del inmueble en los siguientes casos:
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1994)</small>
-
-I.- De cinco veces el salario mínimo general vigente en el Estado de Aguascalientes, elevado al año cuando el inmueble esté construido;
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1994)</small>
-
-II.- De dos y medio veces el salario mínimo general vigente en el Estado de Aguascalientes elevado al año, cuando el inmueble no tenga construcción alguna o sólo se encuentre bardeado;
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1994)</small>
-
-III.- De quince veces el salario mínimo general vigente en el Estado de Aguascalientes, elevado al año, cuando se trate de un inmueble popular de uso habitacional.
-
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1994)</small>
-
-Para los efectos de esta Ley se entiende por inmueble de tipo popular, aquél que se ubica en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea superior a ciento veinte metros cuadrados y la construcción no sea mayor de sesenta metros cuadrados;
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1994)</small>
-
-IV.- De cinco veces el salario mínimo general vigente en el Municipio de Rincón de Romos, Ags., elevado al año cuando se trate de terrenos dedicados a la explotación agropecuaria.
+Están obligados al pago de este impuesto las personas físicas o morales que adquieran inmuebles que consistan en el suelo ó en el suelo y las construcciones adheridas a él, ubicados en el Municipio, por cualesquiera de las figuras enumeradas en el Artículo 22 de esta Ley.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
 
 DE LA BASE
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 24.
 
-Será base para el pago de este impuesto: El valor de operación del inmueble, actualizado, desde la fecha de adquisición.
+Será base para el pago de impuesto, el avalúo para efectos fiscales, al que le será disminuida la cantidad sobre la cual se calculó este impuesto sobre su última adquisición, siempre y cuando ésta se hubiere realizado dentro de los tres años inmediatos anteriores a la adquisición por la que se calcula el impuesto. El avalúo podrá ser a elección del adquirente:
 
-Para actualizar el valor de operación, se dividirá el índice nacional de precios al consumidor del mes en que se otorgue la Escritura o se requiera de pago, entre el índice nacional de precios al consumidor del mes en que se efectuó la adquisición, la cantidad que resulte, se multiplicará por el precio pactado o valor de operación.
+a) El solicitado a la Secretaría de Finanzas del Municipio con al menos 8 días hábiles de anticipación a la presentación de la declaración para el pago de este impuesto y se deberá cubrir el derecho correspondiente señalado en la respectiva ley de ingresos;
 
-Las autoridades fiscales estarán facultadas para practicar avalúo del inmueble referido, a la fecha de adquisición y compararlo con el valor de operación. En caso de resultar inferior el del precio pactado, el impuesto se calculará sobre el avalúo de la autoridad fiscal actualizado desde la fecha de adquisición.
+b) El realizado por una institución del sistema financiero mexicano o un organismo público de vivienda, siempre que no tenga más de seis meses de practicado;
 
-Cuando no se pacte el precio, el impuesto se determinará en base al avalúo que practique la autoridad fiscal.
+c) EI realizado por corredor público siempre que no tenga más de seis meses de practicado; o
 
-Para los fines de esta ley se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
+d) El que realicen personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública, siempre que no tenga más de seis meses de practicado.
+
+El avalúo se acompañará a la declaración para el pago del impuesto sobre adquisición de bienes inmuebles.
+
+Quedan relevados de la obligación de presentar el avalúo a que se refieren los incisos a) al d) antes señalados, las adquisiciones de inmuebles sobre los cuales se encuentre edificada una vivienda de tipo popular, de interés social o lotes individualizados que estén destinados a la edificación de una vivienda de la misma naturaleza, siempre que se encuentre en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea inferior a ciento veinte metros cuadrados y la construcción no sea mayor de 78 metros cuadrados. En este caso, la base para el pago del impuesto será el valor de operación.
+
+En el caso de los incisos b), c) y d) la Secretaría de Finanzas estará facultada para practicar avalúo del inmueble. En caso de resultar superior al del presentado por el contribuyente, el impuesto se calculará sobre el avalúo de la Secretaría de Finanzas del Municipio.
+
+Para determinar el pago de este impuesto se aplicará una exención al valor que resulte del inmueble, en los siguientes casos:
+
+I. De cinco veces el salario mínimo general vigente en el Estado, elevado al año cuando el inmueble esté construido;
+
+II. De dos y medio veces el salario mínimo general vigente en el Estado, elevado al año cuando el inmueble no tenga construcción alguna o sólo se encuentre bardeado;
+
+III. De quince veces el salario mínimo general vigente en el Estado, elevado al año cuando se trate de un inmueble popular, de uso habitacional.
+
+Para los efectos señalados en la Fracción III que antecede, se considerarán como inmuebles de tipo popular aquellos que se ubiquen en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea igual o inferior a 120 metros cuadrados y la superficie de construcción en su caso no sea mayor de 78 metros cuadrados.
+
+IV. De cinco veces el salario mínimo general vigente en el Estado de Aguascalientes, elevado al año cuando se trate de terrenos dedicados a la explotación agropecuaria;
+
+Para los fines de esta Ley se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
 
 DE LA TASA
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
-###### ARTICULO 25.
+###### ARTÍCULO 25.
 
-Al valor del inmueble actualizado, se le aplicarán las siguientes tasas, durante los años de:
-
-1991 8%
-
-1992 6%
-
-1993 4%
-
-1994 2%
+Este impuesto se liquidará y recaudará de conformidad con las cuotas y tasas que para tal efecto señale la Ley de Ingresos del Municipio.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
 
@@ -1016,6 +1004,12 @@ P.O. 31 DE DICIEMBRE DE 2006.
 El Presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 1 DE JUNIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
