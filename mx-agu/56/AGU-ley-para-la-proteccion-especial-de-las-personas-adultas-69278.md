@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2009-07-13"
+last_updated: "2010-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2010.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -305,11 +305,17 @@ A) Servicio de transporte público urbano e interestatal, gratuito o con descuen
 
 B) El servicio de transporte público urbano asigne cuando menos cuatro lugares para personas adultas mayores y discapacitados, en el caso del servicio interestatal cuando se preste con combis un lugar;
 
-C) Sector Comercial y de Servicios: Programas que consideren descuentos del 50% o más, al adquirir bienes de consumo, medicamentos, línea blanca, servicios públicos (agua, predial, médico general y de especialidad, laboratorio, radiología, etc.) o privados, y se les mantenga debidamente informados para hacer valer este derecho, para que así, se fortalezca la economía y mejore la calidad de vida de las personas adultas mayores; y
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
-D) Sector Comercial, Servicios e Industrial: Programas de contratación de personas adultas mayores en sus plantillas laborales, cuando menos el 10% del total de plazas a contratar, a cambio de estímulos fiscales, Estatales y Municipales.
+C) Sector Comercial y de Servicios: Programas que consideren descuentos del 50% o más, al adquirir bienes de consumo, medicamentos, línea blanca, servicios públicos (médico general y de especialidad, laboratorio, radiología, etc.) o privados, y se les mantenga debidamente informados para hacer valer este derecho, para que así, se fortalezca la economía y mejore la calidad de vida de las personas adultas mayores; y
 
-XI. Asegurar que en las Dependencias y Entidades Estatales y Municipales, encargadas de desarrollar, coordinar y supervisar acciones y programas de atención preferente e integral de los adultos mayores, cuenten con la estructura orgánica, presupuestal y normativa correspondiente;
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+
+D) Sector Comercial, Servicios e Industrial: Programas de contratación de personas adultas mayores en sus plantillas laborales, cuando menos el 10% del total de plazas a contratar, a cambio de estímulos fiscales Estatales.
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2010)</small>
+
+XI. Asegurar que en las Dependencias y Entidades Estatales, encargadas de desarrollar, coordinar y supervisar acciones y programas de atención preferente e integral de los adultos mayores, cuenten con la estructura orgánica, presupuestal y normativa correspondiente;
 
 XII. Establecer programas de estímulos fiscales para las empresas que contraten en sus plazas laborales cuando menos el 5% de personas adultas mayores;
 
@@ -367,23 +373,49 @@ XXI. Establecer convenios ante las instancias correspondientes para que en los e
 
 XXII. Las demás que le confiera las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO III. De los Comités Municipales de las Personas Adultas Mayores
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO III. De los Municipios
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 ### CAPÍTULO IV. Del Instituto de Salud del Estado de Aguascalientes
 
 ###### ARTÍCULO 18.
 
-Los Ayuntamientos podrán crear Comités Municipales de las Personas Adultas Mayores, con los siguientes fines:
+Corresponde a los Ayuntamientos:
 
-I. Colaborar con la Dirección General de Atención Integral a las Personas Adultas Mayores de la Secretaría de Desarrollo, en la atención a las personas adultas mayores;
+I. Otorgar a los adultos mayores condonaciones, descuentos o exenciones en los impuestos municipales, mediante el establecimiento de disposiciones de carácter general, las cuales deberán de ser aprobadas por los ayuntamientos ya sea en su ley de ingresos o en reglamentos, bases o lineamientos, mismos que serán y publicadas en el Periódico Oficial del Estado;
 
-II. Velar en la comunidad por los derechos y garantías de este sector poblacional;
+II. Promover acuerdos con la Federación y el Estado, para que se otorguen descuentos a las instituciones que ofrecen servicios de asistencia social a adultos mayores, siempre y cuando se verifique su buen funcionamiento, en los servicios que estos otorgan;
 
-III. Funcionar como centro de atención inmediata y de canalización pertinente de apoyos federales o estatales, en materia de adultos mayores;
+III. Procurar que en las Dependencias y Entidades de la Administración Pública Municipal, se contraten en su plantilla laboral, cuando menos un 10% a personas adultas mayores;
 
-IV. Aplicar los recursos para las personas adultas mayores que se les asignen en los presupuestos de egresos respectivos; y
+IV. Instruir a los titulares de las Dependencias y Entidades de la Administración Pública Municipal, para que por convenio las personas adultas mayores puedan recibir los siguientes beneficios:
 
-V. Las que le atribuya el Bando Municipal o Código Municipal respectivo.
+a) Servicio de transporte público urbano gratuito o con descuento del 50%;
+
+b) El servicio de transporte público urbano asigne cuando menos cuatro lugares para personas adultas mayores y discapacitados, en el caso del servicio interestatal cuando se preste con combis un lugar;
+
+c) Sector Comercial y de Servicios: Programas que consideren descuentos del 50% o más, mediante convenios al adquirir bienes de consumo, medicamentos, línea blanca, servicios públicos o privados, y se les mantenga debidamente informados para hacer valer este derecho, para que así, se fortalezca la economía y mejore la calidad de vida de las personas adultas mayores; y
+
+d) Sector Comercial, Servicios e Industrial: Programas de contratación de personas adultas mayores en sus plantillas laborales, cuando menos el 10% del total de plazas a contratar, a cambio de estímulos fiscales Municipales.
+
+V. Asegurar que en las Dependencias y Entidades Municipales, encargadas de desarrollar, coordinar y supervisar acciones y programas de atención preferente e integral de los adultos mayores, cuenten con la estructura orgánica, presupuestal y normativa correspondiente;
+
+VI. Crear los mecanismos o instancias correspondientes para el cumplimiento de esta Ley
+
+VII. Los Ayuntamientos podrán crear Comités Municipales de las Personas Adultas Mayores, con los siguientes fines:
+
+a) Colaborar con la Dirección General de Atención Integral a las Personas Adultas Mayores de la Secretaría de Desarrollo, en la atención a las personas adultas mayores;
+
+b) Velar en la comunidad por los derechos y garantías de este sector poblacional;
+
+c) Funcionar como centro de atención inmediata y de canalización pertinente de apoyos federales o estatales, en materia de adultos mayores;
+
+d) Aplicar los recursos para las personas adultas mayores que se les asignen en los presupuestos de egresos respectivos; y
+
+e) Las que le atribuya el Bando Municipal o Código Municipal respectivo.
 
 Los Comités Municipales estarán integrados de tres a cinco miembros, designados por el Presidente Municipal.
 
@@ -910,3 +942,11 @@ Luis Armando Reynoso Femat
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Juan Ángel José Pérez Talamantes.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE AGOSTO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
