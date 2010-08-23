@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-65918"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-01-26"
-last_updated: "2010-07-19"
+last_updated: "2010-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el jueves 26 de enero de 2009.
 
@@ -1417,9 +1417,17 @@ XXXII. Aprobar la integración de las comisiones permanentes o temporales del Co
 
 XXXIII. Proporcionar toda la información, expedientes y archivos al Contralor para el debido desempeño de sus labores;
 
-XXXIV. Substanciar y resolver los procedimientos sancionadores que se establecen en el Libro Cuarto de este Código; y
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2010)</small>
 
-XXXV. Las demás que le confiere este Código y leyes de la materia.
+XXXIV. Substanciar y resolver los procedimientos sancionadores que se establecen en el Libro Cuarto de este Código;
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2010)</small>
+
+XXXV. Celebrar convenios de colaboración con el Instituto Federal Electoral, para que este se haga cargo de la organización del proceso electoral local; y
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2010)</small>
+
+XXXVI. Las demás que le confiere este Código y leyes de la materia.
 
 ### CAPÍTULO IV. De la Presidencia
 
@@ -2191,6 +2199,22 @@ V. Cuando cause estado la resolución del órgano jurisdiccional electoral del �
 
 VI. Interpuesto un medio de impugnación sin que se hubiere resuelto, a la fecha de la toma de protesta constitucional del candidato electo.
 
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2010)</small>
+
+ARTÍCULO 160 bis.- A más tardar seis meses antes del inicio del proceso electoral, el Instituto podrá convenir con el Instituto Federal Electoral que se haga cargo de la organización de los procesos electorales locales. La celebración del convenio correspondiente deberá ser aprobada por al menos cuatro de los Consejeros Electorales del Consejo General.
+
+Para la aprobación del convenio respectivo deberá observarse lo siguiente:
+
+I. Por lo menos doce meses antes del inicio del proceso electoral respectivo, la Secretaría Técnica procederá a elaborar un proyecto de dictamen para ser sometido a la consideración del Consejo General del Instituto, dicho proyecto deberá contener:
+
+a) la exposición de los motivos y fundamentos que sustenten la necesidad y posibilidad para la celebración del convenio;
+
+b) la propuesta de reestructuración administrativa, financiera y laboral del Instituto, que habrá de implementarse con motivo de la celebración, en su caso, del convenio; y
+
+c) la especificación catalogada de los montos a erogar y la forma en que habrán de cubrirse al Instituto Federal Electoral, los costos derivados de la organización de las elecciones.
+
+II. El proyecto de Dictamen deberá someterse a la consideración del Consejo General, a más tardar nueve meses antes del inicio del proceso electoral, y en el caso de no obtener el voto de la mayoría señalada en el primer párrafo de este Artículo, se ordenará el archivo del asunto y no podrá someterse un nuevo dictamen, con relación al mismo proceso electoral.
+
 ### CAPÍTULO III. De las Elecciones Extraordinarias
 
 ###### ARTÍCULO 161.
@@ -2559,9 +2583,9 @@ No se considerarán dentro de los topes de campaña los gastos que realicen los 
 
 La propaganda y mensajes que en el curso de las precampañas y campañas electorales difundan los partidos políticos se ajustarán a lo dispuesto por el primer párrafo del artículo 6° de la Constitución General.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO NOVENO, Y EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 27/2009 Y SUS ACUMULADAS 29/2009, 30/2009 Y 31/2009 DECLARÓ LA INVALIDEZ DE LA PARTE FINAL DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
-En la propaganda política o electoral que realicen los partidos políticos, las coaliciones y los candidatos, deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas. EL CONSEJO DEL INSTITUTO ESTÁ FACULTADO PARA ORDENAR, UNA VEZ SATISFECHOS LOS PROCEDIMIENTOS ESTABLECIDOS EN ESTE CÓDIGO, LA SUSPENSIÓN INMEDIATA DE LOS MENSAJES EN RADIO O TELEVISIÓN CONTRARIOS A ESTA NORMA, ASÍ COMO EL RETIRO DE CUALQUIER OTRA PROPAGANDA.
+En la propaganda política o electoral que realicen los partidos políticos, las coaliciones y los candidatos, deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
 
 Los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6º de la Constitución General respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la Ley de Imprenta y de las disposiciones civiles y penales aplicables.
 
@@ -2649,11 +2673,11 @@ El Consejo emitirá la resolución correspondiente, dentro de los tres días sig
 
 El Secretario Técnico, dentro de los dos días siguientes al de la elección deberá presentar ante el Consejo un informe detallado en el que indique el número de encuestas de salida y conteos rápidos, las personas físicas o morales que las elaboraron, el o los líderes de proyecto y sus principales puestos, la persona física o moral que las ordenó o auspició, el estudio y metodología que se utilizó en el levantamiento de la muestra y el método científico en que se basó el esquema de selección.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO NOVENO, Y EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 27/2009 Y SUS ACUMULADAS 29/2009, 30/2009 Y 31/2009 DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 ###### ARTÍCULO 210.
 
-El Instituto promoverá los debates entre los candidatos en los medios de información, la participación de los candidatos será opcional, SALVO EL DE CANDIDATOS A GOBERNADOR, de acuerdo a sus planes de campaña.
+El Instituto promoverá los debates entre los candidatos en los medios de información, la participación de los candidatos será opcional, de acuerdo a sus planes de campaña.
 
 ###### ARTÍCULO 211.
 
@@ -4085,9 +4109,9 @@ IV. Concluido el desahogo de las pruebas, la Secretaría concederá en forma suc
 
 Celebrada la audiencia, la Secretaría deberá formular un proyecto de resolución dentro de las veinticuatro horas siguientes y lo presentará ante el consejero presidente, para que éste convoque a los miembros del Consejo a una sesión que deberá celebrarse, a más tardar, dentro de las veinticuatro horas posteriores a la entrega del citado proyecto.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO NOVENO, Y EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 27/2009 Y SUS ACUMULADAS 29/2009, 30/2009 Y 31/2009 DECLARÓ LA INVALIDEZ DE LA PARTE FINAL DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
-En la sesión respectiva el Consejo conocerá y resolverá sobre el proyecto de resolución. EN CASO DE COMPROBARSE LA INFRACCIÓN DENUNCIADA, EL CONSEJO ORDENARÁ EL RETIRO FÍSICO, O LA INMEDIATA SUSPENSIÓN DE LA DISTRIBUCIÓN O DIFUSIÓN DE PROPAGANDA VIOLATORIA DE ESTE CÓDIGO, CUALQUIERA QUE SEA SU FORMA, O MEDIO DE DIFUSIÓN, E IMPONDRÁ LAS SANCIONES CORRESPONDIENTES.
+En la sesión respectiva el Consejo conocerá y resolverá sobre el proyecto de resolución.
 
 ###### ARTÍCULO 329.
 
@@ -5286,3 +5310,15 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
+
+P.O. 23 DE AGOSTO DE 2010.
+
+DECRETO NÚMERO 469, POR EL QUE SE REFORMAN EL PARRAFO SEGUNDO DEL ARTICULO 203, EL ARTICULO 210 Y EL PARRAFO SEGUNDO DEL ARTICULO 328 DEL CODIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES.
+
+ARTULO ÚNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 2010.
+
+DECRETO NUMERO 470, POR EL QUE SE REFORMAN LAS FRACCIONES XXXIV, XXXV Y SE ADICIONA UNA FRACCION XXXVI AL ARTICULO 99 Y SE ADICIONA UN ARTICULO 160 BIS AL CODIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES.
+
+ARTULO ÚNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
