@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-del-deporte-del-estado-de-67294
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-02-09"
-last_updated: "2009-02-09"
+last_updated: "2010-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "AGU"
 
 ESTATUTO ORGANICO DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
 
-Estatuto publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 23 de agosto de 2009.
+Estatuto publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 23 de agosto de 2010.
 
 En términos de lo que establece el Decreto que crea la Ley de Cultura Fisica y Deporte del Estado de Aguascalientes, como un Organismo Público Descentralizado del Gobierno del Estado y con fundamento en lo que establece el artículo 16 de la Ley en mención, así como lo que dispone el artículo 8° fracción IX, 41 fracción VIII de la Ley de Control de Entidades Paraestatales del Estado de Aguascalientes, la Junta de Directiva del Instituto del Deporte del Estado de Aguascalientes, es el Órgano facultado para aprobar el Estatuto Orgánico.
 
@@ -83,6 +83,10 @@ b) Dirección del Deporte;
 c) Dirección de Instalaciones Deportivas;
 
 d) Dirección de Normatividad y Asuntos Jurídicos.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2010)</small>
+
+e) Dirección de Comunicación Social.
 
 ###### Artículo 5°.
 
@@ -408,7 +412,13 @@ III. Dirección del Deporte
 
 IV. Dirección de Instalaciones Deportivas
 
-V. Dirección de Normatividad y Asuntos Jurídicos
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2010)</small>
+
+V. Dirección de Normatividad y Asuntos Jurídicos; y
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2010)</small>
+
+VI. Dirección de Comunicación Social.
 
 Las áreas subalternas desempeñarán las funciones que especifique el Manual de Organización de la Área respectiva.
 
@@ -688,21 +698,61 @@ XXII. Coordinar las relaciones y el desarrollo de las acciones que correspondan 
 
 XXIII. Realizar aquellas tareas que le encomiende expresamente "EL DIRECTOR GENERAL".
 
-### CAPÍTULO X. De la Suplencia de los Servidores Públicos del IDEA
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO X. Dirección de Comunicación Social
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 47.
 
-En las sesiones ordinarias o extraordinarias el "SECRETARIO TÉCNICO" de "LA JUNTA DIRECTIVA", será suplido en sus ausencias temporales o accidentales, por el "PROSECRETARIO".
+La Dirección de Comunicación Social depende directamente de "EL DIRECTOR GENERAL" y su titular tendrá además de las facultades genéricas a que se refiere el artículo 39 del presente "ESTATUTO ORGÁNICO" como atribuciones las siguientes:
+
+I. Informar a la opinión pública y a los medios de comunicación estatales y nacionales acerca de los asuntos que son competencia de "EL IDEA";
+
+II. Difundir los objetivos y programas que implemente "EL IDEA", en el marco del SIEDE;
+
+III. Coordinar y atender las actividades de "EL DIRECTOR GENERAL", relacionadas con los medios de comunicación;
+
+IV. Establecer canales y sistemas de comunicación interna entre las unidades administrativas, elaborando además materiales informativos que contribuyan al mejor desempeño de sus atribuciones y tareas;
+
+V. Evaluar la información que difunden los medios de comunicación acerca del sector deportivo amateur en el Estado;
+
+VI. Proponer y aplicar los programas de comunicación social de "EL IDEA", de conformidad con "LA LEGISLACIÓN DEL DEPORTE";
+
+VII. Compilar y distribuir de manera electrónica entre las Unidades Administrativas de "EL IDEA" y a "EL DIRECTOR GENERAL", la información publicada y difundida en los medios de comunicación en el Estado entregando un informe detallado, sintetizado y sistematizado;
+
+VIII. Coordinar, supervisar y distribuir los materiales informativos y de difusión para radio, televisión y medios impresos;
+
+IX. Gestionar, promover y regular la transmisión por radio y televisión de materiales informativos y de difusión de "EL IDEA" y demás actividades relacionadas con el deporte, que autorice "EL DIRECTOR GENERAL";
+
+X. Elaborar los diseños que se utilicen en las publicaciones relacionadas con "EL IDEA", debiendo atender las políticas emitidas por la Coordinación de Comunicación Social de Gobierno del Estado , y en su caso, coordinarse para la difusión de la imagen institucional; y
+
+XI. Realizar las funciones que las disposiciones legales le confiera y las que le asigne "EL DIRECTOR GENERAL", que sean de naturaleza similar a las señaladas en las fracciones que anteceden.
+
+### CAPÍTULO XI. De la Suplencia de los Servidores Públicos del IDEA
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 48.
 
-"EL DIRECTOR GENERAL" será suplido en sus ausencias temporales o accidentales menores a treinta días por los Directores en el ámbito de su competencia, en ausencias mayores será suplido por quien designe "LA JUNTA DIRECTIVA".
+En las sesiones ordinarias o extraordinarias el "SECRETARIO TÉCNICO" de "LA JUNTA DIRECTIVA", será suplido en sus ausencias temporales o accidentales, por el "PROSECRETARIO".
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 49.
 
-Los Directores serán suplidos en sus ausencias temporales o accidentales menores a quince días, por sus Jefes de Departamento en el ámbito de sus competencias o el servidor público de la jerarquía inmediata inferior que ellos designen, si la ausencia es mayor será suplido por quien designe "EL DIRECTOR GENERAL".
+"EL DIRECTOR GENERAL" será suplido en sus ausencias temporales o accidentales menores a treinta días por los Directores en el ámbito de su competencia, en ausencias mayores será suplido por quien designe "LA JUNTA DIRECTIVA".
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 50.
+
+Los Directores serán suplidos en sus ausencias temporales o accidentales menores a quince días, por sus Jefes de Departamento en el ámbito de sus competencias o el servidor público de la jerarquía inmediata inferior que ellos designen, si la ausencia es mayor será suplido por quien designe "EL DIRECTOR GENERAL".
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2010)</small>
+
+###### Artículo 51.
 
 Los Jefes de Departamento y demás personal de "EL IDEA" serán suplidos en sus ausencias temporales menores a quince días, por el servidor público de la jerarquía inmediata inferior que ellos mismos señalen, si la ausencia es mayor será suplido por quien designe "EL DIRECTOR GENERAL".
 
@@ -729,3 +779,13 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.
 Lic. Juan Alfredo Morales Shaadi,
 
 DIRECTOR GENERAL Y SECRETARIO TÉCNICO DE LA JUNTA DIRECTIVA DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE AGOSTO DE 2010.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los treinta días siguientes a su publicación, se deberán realizar todas las gestiones administrativas para designar y otorgar el nombramiento al titular de la Dirección de Comunicación Social.
+
+TERCERO.- Dentro de los treinta días siguientes a la publicación deberá realizarse la inscripción de la presente reforma en el Registro de Entidades Paraestatales a cargo de la Dirección General del Registro Público de la Propiedad.
