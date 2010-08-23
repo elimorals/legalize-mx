@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-el-llano-aguascalientes-29024"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-03"
-last_updated: "2009-06-01"
+last_updated: "2010-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE EL LLANO, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
 
 Ley publicada en el Suplemento de la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 3 de julio de 1994.
 
@@ -307,39 +307,43 @@ ARTICULO 22 BIS.- (DEROGADO, P.O. 4 DE JUNIO DE 1995) (sic)
 
 #### SECCION CUARTA. De la Base
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 23.
 
-Será base de este impuesto:
+Será base para el pago de impuesto, el avalúo para efectos fiscales, al que le será disminuida la cantidad sobre la cual se calculó este impuesto sobre su última adquisición, siempre y cuando ésta se hubiere realizado dentro de los tres años inmediatos anteriores a la adquisición por la que se calcula el impuesto. El avalúo podrá ser a elección del adquirente:
 
-I.- Tratándose de bienes inmuebles:
+a) El solicitado a la Secretaría de Finanzas del Municipio con al menos 8 días hábiles de anticipación a la presentación de la declaración para el pago de este impuesto y se deberá cubrir el derecho correspondiente señalado en la respectiva ley de ingresos;
 
-A).- El valor que resulte más alto de entre:
+b) El realizado por una institución del sistema financiero mexicano o un organismo público de vivienda, siempre que no tenga más de seis meses de practicado;
 
-1.- El consignado en avalúo bancario, que no podrá tener una antigüedad mayor de seis meses a partir de la fecha en que se practique.
+c) EI realizado por corredor público siempre que no tenga más de seis meses de practicado; o
 
-2.- El de la operación.
+d) El que realicen personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública, siempre que no tenga más de seis meses de practicado.
 
-3.- El catastral con que fiscalmente se encuentre empadronado el predio.
+El avalúo se acompañará a la declaración para el pago del impuesto sobre adquisición de bienes inmuebles.
 
-Si la Tesorería Municipal advierte que los avalúos bancarios son notoriamente inferiores a los valores que rijan en el mercado, practicará avalúo en los términos de la Ley de Catastro del Estado, mismo que servirá de base para el pago del impuesto.
+Quedan relevados de la obligación de presentar el avalúo a que se refieren los incisos a) al d) antes señalados, las adquisiciones de inmuebles sobre los cuales se encuentre edificada una vivienda de tipo popular, de interés social o lotes individualizados que estén destinados a la edificación de una vivienda de la misma naturaleza, siempre que se encuentre en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea inferior a ciento veinte metros cuadrados y la construcción no sea mayor de 78 metros cuadrados. En este caso, la base para el pago del impuesto será el valor de operación.
 
-El impuesto se calculará aplicando la tasa que establece la Ley de Ingresos al valor del inmueble fijado en los términos de este artículo, después de reducirlo en 10 veces al año, de la zona económica en que se encuentre ubicado el inmueble.
+En el caso de los incisos b), c) y d) la Secretaría de Finanzas estará facultada para practicar avalúo del inmueble. En caso de resultar superior al del presentado por el contribuyente, el impuesto se calculará sobre el avalúo de la Secretaría de Finanzas del Municipio.
 
-Tratándose de predios sin construir se reducirá en 5 veces el salario mínimo general elevado al año, de la zona económica en que se encuentre ubicado el predio.
+Para determinar el pago de este impuesto se aplicará una exención al valor que resulte del inmueble, en los siguientes casos:
 
-Cuando formen parte del inmueble, departamentos habitacionales, la reducción se hará por cada uno de ellos; lo dispuesto en este párrafo no es aplicable a hoteles.
+I. De cinco veces el salario mínimo general vigente en el Estado, elevado al año cuando el inmueble esté construido;
+
+II. De dos y medio veces el salario mínimo general vigente en el Estado, elevado al año cuando el inmueble no tenga construcción alguna o sólo se encuentre bardeado;
+
+III. De quince veces el salario mínimo general vigente en el Estado, elevado al año cuando se trate de un inmueble popular, de uso habitacional.
+
+Para los efectos señalados en la Fracción III que antecede, se considerarán como inmuebles de tipo popular aquellos que se ubiquen en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea igual o inferior a 120 metros cuadrados y la superficie de construcción en su caso no sea mayor de 78 metros cuadrados.
+
+IV. De cinco veces el salario mínimo general vigente en el Estado, elevado al año cuando se trate de terrenos dedicados a la explotación agropecuaria;
+
+Para los fines de esta Ley se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
 ###### ARTICULO 24.
 
-La reducción a que se refiere el artículo anterior se realizará tomando en cuenta lo siguiente:
-
-I.- Se considerará como un solo inmueble los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios, únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiere adquirido con anterioridad, para que se ajuste el monto de la reducción y pagará en su caso, las diferencias de este impuesto que corresponda. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte;
-
-II.- Cuando se adquiere parte de la propiedad o de los derechos a que se refiere el Artículo 20 de esta Ley, la reducción se hará en la proporción que corresponda a dicha parte;
-
-III.- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos; y
-
-IV.- No se considerarán departamentos habitacionales los que por sus características originales, se destinen a servicios domésticos, o guarda de vehículos, aún cuando se utilicen para otros fines.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2010)
 
 #### SECCION QUINTA. De la Tasa
 
@@ -864,6 +868,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Las Asociaciones Religiosa constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el impuesto sobre adquisición de inmuebles, únicamente por lo que ve a las adquisiciones que realicen hasta el 31 de diciembre de 1995.
 
 P.O. 1 DE JUNIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
