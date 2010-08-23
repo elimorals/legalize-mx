@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2010-08-16"
+last_updated: "2010-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -155,21 +155,27 @@ VI. Tortura;
 
 VII. Cuando la víctima sea menor de 15 años de edad;
 
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2010)</small>
+
+VIII. Cuando la víctima se dedique al ejercicio de las labores periodísticas.
+
+Por labor periodística se debe entender el ejercicio de buscar, recolectar, fotografiar, investigar, sintetizar, redactar, jerarquizar, editar, imprimir, divulgar, publicar o difundir informaciones, noticias, ideas u opiniones para conocimiento del público en general, a través de cualquier medio de comunicación, así como la distribución de éstas. Esta actividad puede realizarse de manera habitual o esporádica, remunerada o no y sin que necesariamente exista una relación laboral con un medio de comunicación.
+
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
-VIII. Cuando el responsable tenga relación de pareja o de carácter conyugal, sea pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, con la víctima; o
+IX. Cuando el responsable tenga relación de pareja o de carácter conyugal, sea pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, con la víctima; o
 
 > <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
-IX. Cuando la víctima se trate de un incapaz sujeto a patria potestad, tutela, curatela o custodia del responsable.
+X. Cuando la víctima se trate de un incapaz sujeto a patria potestad, tutela, curatela o custodia del responsable.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
-En el caso de Homicidio Doloso Calificado a que se refieren las fracciones I a VII, se aplicará al responsable de 15 a 40 años de prisión y de 150 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, en el caso de las fracciones VIII y IX se aplicará al responsable de 20 a 50 años de prisión y de 500 a 1000 días de multa; y al pago total de la reparación de los daños y perjuicios ocasionados, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio.
+En el caso de Homicidio Doloso Calificado a que se refieren las Fracciones I a la VIII, se aplicará al responsable de 15 a 40 años de prisión y de 150 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, en el caso de las Fracciones IX y X se aplicará al responsable de 20 a 50 años de prisión y de 500 a 1000 días de multa; y al pago total de la reparación de los daños y perjuicios ocasionados, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
-Si las Lesiones Dolosas son Calificadas, la punibilidad establecida en el artículo 10 se aumentará hasta en dos terceras partes en sus mínimos y máximos, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio, en tratándose de los supuestos de las Fracciones VIII y IX del presente artículo.
+Si las Lesiones Dolosas son Calificadas, la punibilidad establecida en el Artículo 10 se aumentará hasta en dos terceras partes en sus mínimos y máximos, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio, en tratándose de los supuestos de las Fracciones IX y X del presente Artículo.
 
 ###### Artículo 14.
 
@@ -5846,3 +5852,9 @@ P.O. 16 DE AGOSTO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE AGOSTO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
