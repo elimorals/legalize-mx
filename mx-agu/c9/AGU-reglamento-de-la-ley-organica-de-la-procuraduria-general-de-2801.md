@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-280
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-07-19"
-last_updated: "1992-07-19"
+last_updated: "2010-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO, PUBLICADO EN EL P.O. DE 23 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento al Num. 29 del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de julio de 1992.
 
@@ -758,3 +760,11 @@ Ing. J. Jesús Infante de Alba.
 EL PROCURADOR GENERAL DE JUSTICIA,
 
 Lic. Efrén González Cuéllar.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE AGOSTO DE 2010.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Este Reglamento abroga al Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, publicado en fecha 19 de julio de 1992, así como sus posteriores reformas.
