@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes-723
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-25"
-last_updated: "2010-01-25"
+last_updated: "2010-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE JESUS MARIA, AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de enero de 2010.
 
@@ -739,7 +739,7 @@ No procederá la devolución de cantidades pagadas indebidamente cuando el créd
 
 ###### ARTÍCULO 59.
 
-La compensación entre el Fisco del Estado y el. Fisco Municipal, podrá obrar respecto de cualquier clase de créditos o deudas si unos y otros son líquidos y exigibles, y si existe previo acuerdo entre las partes interesadas.
+La compensación entre el Fisco del Estado y el Fisco Municipal, podrá obrar respecto de cualquier clase de créditos o deudas si unos y otros son líquidos y exigibles, y si existe previo acuerdo entre las partes interesadas.
 
 Cuando se trate de créditos fiscales a cargo de los contribuyentes, la compensación será declarada por las autoridades fiscales a petición de la parte interesada.
 
@@ -1569,25 +1569,79 @@ Son sujetos de este impuesto las personas físicas o morales que adquieran por c
 
 No se causará este impuesto tratándose de adquisiciones de inmuebles realizadas por la Federación, el Estado o los Municipios que forman parte del dominio público, tampoco se causará impuesto en las transmisiones de bienes y derechos que por rescisión de contrato vuelvan aquellos al enajenante.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+
 ###### ARTÍCULO 167.
 
-El objeto de este impuesto, lo constituye el valor de adquisición del inmueble, disminuido con el valor que se tome como base para calcular el impuesto a que se refiere esta Ley en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
+Es objeto de este impuesto:
 
-###### ARTÍCULO 168.
+l. Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de Asociaciones o Sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal. Siempre que sean inmuebles de propiedad de los copropietarios o de los cónyuges;
 
-La base de este impuesto será el valor consignado en la adquisición.
+II. La compra-venta en la que el vendedor se reserva la propiedad aún cuando la transferencia de ésta opere con posterioridad;
 
-El impuesto se calculará aplicando la tasa que establezca la Ley de Ingresos, al valor del inmueble fijado en los términos de éste Artículo, después de reducirlo en 10 veces el salario mínimo general vigente en el Estado, elevado al año. Tratándose de predios sin construir, se reducirá en 5 veces el salario mínimo señalado.
+III. La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido;
 
-Cuando formen parte del inmueble departamentos habitacionales, la reducción se hará por cada uno de ellos, disposición ésta no aplicable si se trata de hoteles.
+IV. La cesión de derechos del comprador o del futuro comprador en los casos de las Fracciones II y III que anteceden;
+
+V. Fusión y escisión de propiedades;
+
+VI. La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
+
+VII. Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
+
+VIII. Prescripción positiva;
+
+IX. La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles. Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuado después de la declaratoria de herederos o legatarios;
+
+X. Enajenación a través de fideicomiso; y
+
+XI. la división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del, por ciento que le correspondía al propietario o cónyuge.
+
+En las permutas se considerará que se efectúan dos adquisiciones.
+
+Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+
+En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo a que se refiere este artículo.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+
+###### ARTICULO 168.
+
+Será base para el pago de impuesto, el avalúo para efectos fiscales, al que le será disminuida la cantidad sobre la cual se calculó este impuesto sobre su última adquisición, siempre y cuando ésta se hubiere realizado dentro de los tres años inmediatos anteriores a la adquisición por la que se calcula el impuesto. El avalúo podrá ser a elección del adquirente:
+
+a) El solicitado a la Secretaría de Finanzas del Municipio con al menos 8 días hábiles de anticipación a la presentación de la declaración para el pago de este impuesto y se deberá cubrir el derecho correspondiente señalado en la respectiva ley de ingresos;
+
+b) El realizado por una institución del sistema financiero mexicano o un organismo público de vivienda, siempre que no tenga más de seis meses de practicado;
+
+c) EI realizado por corredor público siempre que no tenga más de seis meses de practicado; o
+
+d) El que realicen personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública, siempre que no tenga más de seis meses de practicado.
+
+El avalúo se acompañará a la declaración para el pago del impuesto sobre adquisición de bienes inmuebles.
+
+Quedan relevados de la obligación de presentar el avalúo a que se refieren los incisos a) al d) antes señalados, las adquisiciones de inmuebles sobre los cuales se encuentre edificada una vivienda de tipo popular, de interés social o lotes individualizados que estén destinados a la edificación de una vivienda de la misma naturaleza, siempre que se encuentre en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea inferior a ciento veinte metros cuadrados y la construcción no sea mayor de 78 metros cuadrados. En este caso, la base para el pago del impuesto será el valor de operación.
+
+En el caso de los incisos b), c) y d) la Secretaría de Finanzas estará facultada para practicar avalúo del inmueble. En caso de resultar superior al del presentado por el contribuyente, el impuesto se calculará sobre el avalúo de la Secretaría de Finanzas del Municipio.
+
+Para determinar el pago de este impuesto se aplicará una exención al valor que resulte del inmueble, en los siguientes casos:
+
+I. De cinco veces el salario mínimo general vigente en el Municipio de Asientos (sic), elevado al año cuando el inmueble esté construido;
+
+II. De dos y medio veces el salario mínimo general vigente en el Municipio de Asientos (sic), elevado al año cuando el inmueble no tenga construcción alguna o sólo se encuentre bardeado;
+
+III. De quince veces el salario mínimo general vigente en el Municipio de Asientos (sic), elevado al año cuando se trate de un inmueble popular, de uso habitacional.
+
+Para los efectos señalados en la Fracción III que antecede, se considerarán como inmuebles de tipo popular aquellos que se ubiquen en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea igual o inferior a 120 metros cuadrados y la superficie de construcción en su caso no sea mayor de 78 metros cuadrados.
+
+IV. De cinco veces el salario mínimo general vigente en el Estado, elevado al año cuando se trate de terrenos dedicados a la explotación agropecuaria;
+
+Para los fines de esta Ley se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 ###### ARTÍCULO 169.
 
-La reducción a que se refiere el Artículo anterior, se otorgará por unidad u operación. Las adquisiciones sobre inmuebles colindantes o sobre parte de los adquiridos o poseídos, que realice el mismo adquirente dentro del término de dos años no gozarán de esta reducción. Lo dispuesto en este párrafo no es aplicable a las adquisiciones por causa de muerte.
-
-Tratándose de usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
-
-No se considerarán departamentos habitacionales los que por sus características originales, se destinen a servicios domésticos, o guarda de vehículos, aún cuando se utilicen para otros fines.
+Este impuesto se liquidará y recaudará de conformidad con las cuotas y tasas que para tal efecto señale la Ley de Ingresos del Municipio.
 
 ###### ARTÍCULO 170.
 
@@ -2292,3 +2346,11 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Juan Angel José Pérez Talamantes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE AGOSTO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
