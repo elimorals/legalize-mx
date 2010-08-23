@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2010-03-02"
+last_updated: "2010-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009 Y 2 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO EN LOS TERMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CODIGO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010 Y 23 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO EN LOS TERMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CODIGO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3985,7 +3985,7 @@ En el segundo caso, se mandarán archivar las diligencias.
 
 ###### Art. 572.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
+Si se declara fundada, se remitirá original del expediente al Ejecutivo del Estado para que, sin más trámites, otorgue el indulto; en caso contrario se mandará archivar el expediente haciéndolo saber a las partes.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -4145,11 +4145,11 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publica
 
 P.O. 9 DE SEPTIEMBRE DE 2006.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 PRIMERO.- Entrada en Vigor
 
-Este Código entrará en vigor doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado, sucesivamente, en las regiones del Istmo y la Mixteca; y a partir del nueve de septiembre del dos mil diez, consecutivamente, cada año en los distritos de las regiones de la Costa, Cuenca y Valles Centrales. Finalmente se implementará en las regiones de la Cañada y la Sierra (Norte y Sur). En caso de que las partidas presupuestales lo permitan, los períodos de su vigencia podrán reducirse previo Decreto de la Cámara de Diputados.
+Este Código entrará en vigor doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado, sucesivamente, en las regiones del Istmo y la Mixteca; y a partir del nueve de mayo del dos mil once, consecutivamente, cada año en los Distritos de las Regiones de la Costa, Cuenca y Valles Centrales. Finalmente se implementará en las Regiones de la Cañada y la Sierra (Norte y Sur). En caso de que las partidas presupuestales lo permitan, los periodos de su vigencia podrán reducirse previo Decreto de la Cámara de Diputados.
 
 SEGUNDO. Derogaciones
 
@@ -4278,5 +4278,9 @@ P.O. 14 DE SEPTIEMBRE DE 2009.
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 2 DE MARZO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE AGOSTO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
