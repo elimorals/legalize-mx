@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2009-04-21"
+last_updated: "2010-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL CODIGO DE LA ADMINISTRACION PUBLICA DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE AGOSTO DE 2010.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -2207,9 +2207,29 @@ XVII. Realizar estudios comparados de los sistemas hacendarios y administrativos
 
 XVIII. Ser enlace en asuntos jurídicos con las áreas correspondientes de las dependencias de la administración pública federal, estatal y municipal;
 
-XIX. Participar en las reuniones del Sistema Nacional de Coordinación Fiscal; asistir a las reuniones de evaluación de los avances y acciones realizadas en el ámbito de su competencia, de conformidad con el Convenio de Colaboración celebrado con el Gobierno Federal, y
+> <small>(REFORMADA, D.O. 24 DE AGOSTO DE 2010)</small>
 
-XX. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+XIX. Participar en las reuniones del Sistema Nacional de Coordinación Fiscal; asistir a las reuniones de evaluación de los avances y acciones realizadas en el ámbito de su competencia, de conformidad con el Convenio de Colaboración celebrado con el Gobierno Federal;
+
+> <small>(REFORMADA, D.O. 24 DE AGOSTO DE 2010)</small>
+
+XX. Intervenir en los aspectos jurídicos de los acuerdos, contratos y convenios en los que intervenga el Secretario o cualquiera de las unidades administrativas de esta Secretaría;
+
+> <small>(ADICIONADA, D.O. 24 DE AGOSTO DE 2010)</small>
+
+XXI. Presentar denuncias, declaratorias de perjuicio o querellas relacionadas con los hechos que puedan constituir delitos o de aquellos otros en los que esta Secretaría pueda resultar afectada, inclusive los que sean imputables a sus servidores públicos realizados en el desempeño de sus funciones y participar a las autoridades competentes aquellos hechos que puedan constituir delito;
+
+> <small>(ADICIONADA, D.O. 24 DE AGOSTO DE 2010)</small>
+
+XXII. Certificar hechos y expedir las constancias correspondientes, así como expedir certificaciones de los expedientes relativos a los asuntos de su competencia;
+
+> <small>(ADICIONADA, D.O. 24 DE AGOSTO DE 2010)</small>
+
+XXIII. Representar a esta Secretaría en juicios mercantiles, civiles, laborales y cualesquiera otros en los que dicha Secretaría sea parte, por actos de ella misma o de cualquiera de sus servidores públicos o unidades administrativas, o respecto de bienes afectos a la realización de las actividades de dichas autoridades; ejercitar las acciones, excepciones y defensas; conciliar, allanarse y transigir, absolver posiciones; interponer y contestar demandas y desistirse de las mismas, y
+
+> <small>(ADICIONADA, D.O. 24 DE AGOSTO DE 2010)</small>
+
+XXIV. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
 ###### Artículo 96.
 
@@ -2247,19 +2267,7 @@ XIII. Las demás que establezcan este Reglamento y otras disposiciones legales a
 
 ###### Artículo 98.
 
-Al Director de Contratos, Convenios y Asuntos Legales le corresponde el despacho de los siguientes asuntos:
-
-I. Intervenir en los aspectos jurídicos de los acuerdos, contratos y convenios en los que intervenga el Secretario o cualquiera de las unidades administrativas de esta Secretaría;
-
-II. Presentar denuncias, declaratorias de perjuicio o querellas relacionadas con los hechos que puedan constituir delitos o de aquellos otros en los que esta Secretaría pueda resultar afectada, inclusive los que sean imputables a sus servidores públicos realizados en el desempeño de sus funciones y participar a las autoridades competentes aquellos hechos que puedan constituir delito;
-
-III. Certificar hechos y expedir las constancias correspondientes, así como expedir certificaciones de los expedientes relativos a los asuntos de su competencia;
-
-IV. Representar a esta Secretaría en juicios mercantiles, civiles, laborales y cualesquiera otros en los que dicha Secretaría sea parte, por actos de ella misma o de cualquiera de sus servidores públicos o unidades administrativas, o respecto de bienes afectos a la realización de las actividades de dichas autoridades; ejercitar las acciones, excepciones y defensas; conciliar, allanarse y transigir, absolver posiciones; interponer y contestar demandas y desistirse de las mismas;
-
-V. Ser enlace en asuntos jurídicos con las áreas correspondientes de las dependencias de las administraciones públicas federal, estatal y municipal, y
-
-VI. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+(DEROGADO, D.O. 24 DE AGOSTO DE 2010)
 
 ###### Artículo 99.
 
@@ -3693,31 +3701,19 @@ IX. Las demás que le otorguen este Reglamento y otras disposiciones normativas 
 
 ### CAPÍTULO ÚNICO. De la organización y atribuciones de la Secretaría de Obras Públicas
 
+> <small>(REFORMADO, D.O. 24 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 157.
 
 Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, esta Secretaría contará con la siguiente estructura:
 
 I. Subsecretaría de Obras Públicas;
 
-II. Dirección General de Obra Pública;
+II. Dirección Administrativa;
 
-III. Dirección General de Vías Terrestres;
+III. Dirección de Enlace y Vinculación, y
 
-IV. Dirección General Administrativa;
-
-V. Dirección General de Planeación, Estudios y Proyectos;
-
-VI. Dirección de los Servicios Integrados para la Conservación del Estado de Yucatán;
-
-VII. Dirección de Construcción;
-
-VIII. Dirección Técnica;
-
-IX. Dirección de Enlace y Vinculación;
-
-X. Dirección de Construcción de Vías Terrestres, y
-
-XI. Dirección Jurídica.
+IV. Dirección Jurídica.
 
 ###### Artículo 158.
 
@@ -3743,53 +3739,17 @@ El Titular de la Subsecretaría de Obras Públicas tendrá las facultades y obli
 
 ###### Artículo 160.
 
-Al Director General de Obra Pública le corresponde el despacho de los siguientes asuntos:
-
-I. Proponer al Secretario los lineamientos generales de la materia, así como determinar las normas y los criterios conforme a los cuales deba realizarse la obra pública;
-
-II. Formular y diseñar los programas de obras para la conservación de los bienes inmuebles propiedad del Estado;
-
-III. Aplicar los lineamientos definidos en el Plan Estatal de Desarrollo y por el Comité de Planeación para el Desarrollo del Estado en la elaboración y seguimiento de los programas operativos anuales y de los programas de presupuesto anual en materia de obra pública, para su presentación al Secretario;
-
-IV. Coordinar la elaboración e integración de expedientes y anexos técnicos de las obras y acciones del Convenio de Desarrollo Social para su entrega a la Secretaría de Política Comunitaria y Social y al Comité de Planeación para el Desarrollo del Estado, para los efectos correspondientes;
-
-V. Coordinarse con las dependencias federales, estatales y municipales a fin de obtener recomendaciones para la construcción y mantenimiento de obras públicas y servicios conexos y relacionados con las mismas, en el Estado;
-
-VI. Supervisar el funcionamiento de las direcciones de Servicios Integrados para la Conservación del Estado de Yucatán, y de Construcción;
-
-VII. Presentar al Titular, el programa operativo anual de construcción de obras públicas y servicios conexos o relacionados con las mismas para su análisis, modificación y, en su caso, aprobación;
-
-VIII. Presentar al Secretario dentro de los plazos correspondientes, el anteproyecto del programa anual de actividades para su análisis y en su caso, aprobación;
-
-IX. Analizar, clasificar, identificar y llevar un registro permanente de la demanda y necesidades de la población, en materia de estudios y proyectos de obra pública para establecer el diagnóstico y factibilidad de los mismos, y
-
-X. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+(DEROGADO, D.O. 24 DE AGOSTO DE 2010)
 
 ###### Artículo 161.
 
-Al Director General de Vías Terrestres le corresponde el despacho de los siguientes asuntos:
+(DEROGADO, D.O. 24 DE AGOSTO DE 2010)
 
-I. Dar seguimiento al programa anual de inversión en materia de obras públicas de vías terrestres, autorizado por el Secretario;
-
-II. Realizar obras de infraestructura carretera en concordancia con el programa anual de inversión que autorice el Secretario, de acuerdo a las necesidades del Estado;
-
-III. Supervisar los estudios y proyectos para la construcción, reconstrucción, conservación, mejoramiento y señalización, así como la modernización de las vías terrestres de jurisdicción estatal, conforme a las normas técnicas específicas y a las establecidas en los ordenamientos legales aplicables;
-
-IV. Asesorar a los ayuntamientos, previa solicitud de los mismos, en materia de construcción, reconstrucción, conservación y mejoramiento de calles y avenidas;
-
-V. Participar en la realización de los estudios encaminados a determinar los medios de transporte en sus diversos tipos y las características de los vehículos que deban transitar en la red carretera de jurisdicción estatal;
-
-VI. Aplicar los lineamientos definidos en el Plan Estatal de Desarrollo y por el Comité de Planeación para el Desarrollo del Estado, para la elaboración y seguimiento de los programas operativos anuales y de los programas de presupuesto anual en materia de vías terrestres, para su presentación al Secretario;
-
-VII. Analizar, clasificar, identificar y llevar un registro permanente de la demanda y necesidades de la población, en materia de estudios y proyectos de vías terrestres, para establecer el diagnóstico y factibilidad de los mismos;
-
-VIII. Supervisar el funcionamiento de la Dirección de Construcción de Vías Terrestres, y
-
-IX. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 162.
 
-Al Director General Administrativo le corresponde el despacho de los siguientes asuntos:
+Al Director Administrativo le corresponde el despacho de los siguientes asuntos:
 
 I. Proponer al Secretario las medidas administrativas que estime convenientes para la organización y funcionamiento de esta Secretaría;
 
@@ -3823,119 +3783,23 @@ XV. Las demás que le otorguen este Reglamento y otras disposiciones normativas 
 
 ###### Artículo 163.
 
-Para el adecuado cumplimiento de sus atribuciones, la Dirección General Administrativa contará con la siguiente estructura:
-
-I. Administrativo de Construcción, y
-
-II. Administrativo de Vías Terrestres.
+(DEROGADO, D.O. 24 DE AGOSTO DE 2010)
 
 ###### Artículo 164.
 
-Al Director General de Planeación, Estudios y Proyectos le corresponde el despacho de los siguientes asuntos:
-
-I. Aplicar los lineamientos definidos en el Plan Estatal de Desarrollo y por el Comité de Planeación para el Desarrollo del Estado, para la elaboración y seguimiento de los programas operativos anuales y de los programas de presupuestos anuales en materia de estudios y proyectos, para su presentación al Secretario;
-
-II. Coordinar la ejecución de los servicios conexos o relacionados con la obra pública, consistente en trabajos que tengan por objeto concebir, diseñar y calcular los elementos que integran un proyecto de obra pública tales como la planeación, los estudios, así como las investigaciones que se vinculen con ellas;
-
-III. Elaborar y presentar al Secretario los programas, políticas y proyectos estatales en materia de infraestructura;
-
-IV. Revisar que los planos que integran un proyecto contengan la información técnica necesaria para su correcta ejecución;
-
-V. Elaborar, en el ámbito de su competencia y en coordinación con las direcciones que corresponda, proyectos de obra, así como los presupuestos correspondientes, con la finalidad de conocer el monto total de la inversión;
-
-VI. Emitir los dictámenes que en materia de estudios y proyectos que de manera específica solicite el Secretario;
-
-VII. Coordinar la elaboración de los estudios y proyectos de las obras incluidas en los programas de inversión directa estatal, así como en los convenios que se establezcan con la Federación y los municipios;
-
-VIII. Coordinar la elaboración de los planes y programas a corto, mediano y largo plazo en materia de obras públicas y vías terrestres del Estado;
-
-IX. Presentar para la autorización del Secretario las opiniones técnicas en materia de obra pública que requieran las autoridades administrativas o judiciales;
-
-X. Formular estudios y elaborar propuestas para el establecimiento de las políticas de funcionamiento de esta Secretaría;
-
-XI. Realizar los estudios económicos para efecto de la aplicación de las obras públicas;
-
-XII. Asesorar a las direcciones de esta Secretaría en lo concerniente a sus proyectos asignados;
-
-XIII. Apoyar, asesorar y coordinar a las direcciones de esta Secretaría y las entidades sectorizadas en la misma, en materia de planeación, programación y presupuestación;
-
-XIV. Realizar la integración de los cálculos y estudios del diseño estructural, hidráulico, eléctrico y demás necesarios para la ejecución de obras públicas;
-
-XV. Emitir oportunamente los avisos a que se refiere la ley de la materia, a las demás dependencias involucradas en el procedimiento de contratación de obras públicas;
-
-XVI. Supervisar el cumplimiento del programa anual de inversión en materia de obras públicas y servicios conexos o relacionados con las mismas e informar de ello al Secretario;
-
-XVII. Supervisar el funcionamiento de las direcciones Técnica, y la General Administrativa, y
-
-XVIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+(DEROGADO, D.O. 24 DE AGOSTO DE 2010)
 
 ###### Artículo 165.
 
-Al Director de los Servicios Integrados para la Conservación del Estado de Yucatán le corresponde el despacho de los siguientes asuntos:
-
-I. Elaborar, formular y diseñar los programas de saneamientos de carreteras;
-
-II. Coordinarse con las dependencias federales, estatales y municipales a fin de obtener las recomendaciones para la reforestación y habilitación de áreas verdes;
-
-III. Mantener un sistema de seguimiento y control de limpieza de escuelas y áreas públicas;
-
-IV. Proporcionar servicios de apoyo, limpieza y saneamiento en áreas públicas, llevando un control del avance físico y financiero de los mismos;
-
-V. Emitir los dictámenes de los estudios y proyectos en materia de conservación y otras análogas, que de manera específica solicite el Secretario;
-
-VI. Coadyuvar a las autoridades competentes para la oportuna atención y apoyo a las comunidades en situaciones de contingencia, y
-
-VII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+(DEROGADO, D.O. 24 DE AGOSTO DE 2010)
 
 ###### Artículo 166.
 
-Al Director de Construcción le corresponde el despacho de los siguientes asuntos:
-
-I. Efectuar la supervisión de las obras que se realicen por contrato o por administración directa, cuidando en cada caso la correcta aplicación de los recursos destinados a su ejecución;
-
-II. Elaborar y autorizar, en su caso, los presupuestos, estimaciones y escalatorias que sean presentados en la realización de obras públicas, llevando un control de los avances físicos y financieros de las mismas;
-
-III. Integrar un expediente técnico unitario por obra realizada o en proceso de ejecución;
-
-IV. Emitir las opiniones que en materia de construcción sean solicitadas a esta Secretaría por organismos públicos y dependencias de los tres niveles de gobierno y las demás que de manera específica le sean pedidas por el Secretario;
-
-V. Mantener un registro actualizado de precios de insumos vigentes en el mercado que se requieran en las obras que ejecuta esta Secretaría;
-
-VI. Analizar, integrar, revisar y actualizar de manera permanente el catálogo de precios unitarios de conceptos de obra que ejecute o contrate esta Secretaría;
-
-VII. Mantener un sistema de seguimiento y control del proceso de ejecución de las obras y acciones realizadas por esta Secretaría, en el ámbito de su competencia, y
-
-VIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+(DEROGADO, D.O. 24 DE AGOSTO DE 2010)
 
 ###### Artículo 167.
 
-Al Director Técnico le corresponde el despacho de los siguientes asuntos:
-
-I. Realizar las gestiones necesarias para la obtención de permisos de obras públicas en las esferas federales, estatales y municipales;
-
-II. Preparar y llevar a cabo los concursos de obra, servicios conexos y relacionados con las mismas desde la elaboración de las bases hasta su adjudicación, a solicitud de las direcciones correspondientes, previa autorización del Secretario;
-
-III. Realizar los anteproyectos y proyectos arquitectónicos, ejecutivos, estructurales, de instalaciones y constructivos de las obras públicas que programe realizar esta Secretaría, así como las memorias de cálculo respectivas;
-
-IV. Coordinar, supervisar, evaluar y aprobar, en su caso, los proyectos arquitectónicos y ejecutivos en materia de obras públicas que esta Secretaría contrate con particulares;
-
-V. Mantener un sistema de seguimiento y control del desarrollo de los proyectos que realice esta Secretaría;
-
-VI. Coadyuvar en la elaboración de los anexos técnicos de las obras y acciones ejecutadas a través del Convenio de Desarrollo Social;
-
-VII. Mantener actualizado un banco de información básica estatal de los estudios y proyectos elaborados por esta Dirección;
-
-VIII. Previa solicitud, asesorar a organismos y dependencias de los tres niveles de gobierno en la ejecución de estudios y proyectos relacionados con la obra pública.
-
-IX. Emitir los dictámenes que en materia de estudios y proyectos le sean solicitados por los organismos y dependencias de los tres niveles de gobierno y los que de manera específica le solicite el Secretario;
-
-X. Efectuar la supervisión arquitectónica de las obras que ejecute esta Secretaría;
-
-XI. Elaborar los presupuestos base de todas las obras públicas a programar o ejecutarse;
-
-XII. Elaborar, en coordinación con los directores de área, el Programa Anual de Inversión, en materia de estudios, proyectos y obras públicas, y
-
-XIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+(DEROGADO, D.O. 24 DE AGOSTO DE 2010)
 
 ###### Artículo 168.
 
@@ -3963,25 +3827,7 @@ X. Las demás que le otorguen este Reglamento y otras disposiciones normativas a
 
 ###### Artículo 169.
 
-Al Director de Construcción de Vías Terrestres le corresponde el despacho de los siguientes asuntos:
-
-I. Realizar los anteproyectos y proyectos ejecutivos y constructivos de las obras que programe realizar esta Secretaría, en materia de vías terrestres, así como las memorias de cálculo respectivas;
-
-II. Coordinar, supervisar, evaluar y aprobar, en su caso, los proyectos ejecutivos y constructivos que esta Secretaría contrate con particulares en materia de vías terrestres;
-
-III. Efectuar la supervisión de las obras en materia de vías terrestres que se realicen por contrato o por administración directa, cuidando en cada caso la correcta aplicación de los recursos destinados a su ejecución;
-
-IV. Elaborar y autorizar, en su caso, los presupuestos, estimaciones y escalatorias que sean presentados en la realización de obras de vías terrestres, llevando un control de los avances físicos y financieros de las mismas;
-
-V. Integrar un expediente técnico unitario por obra realizada o en proceso de ejecución en materia de vías terrestres;
-
-VI. Emitir los dictámenes u opiniones que en materia de construcción de vías terrestres sean solicitadas a esta Secretaría por organismos públicos y dependencias de los tres órdenes de gobierno y las demás que de manera específica le sean pedidas por el Secretario;
-
-VII. Elaborar los anexos técnicos de las obras y acciones de vías terrestres ejecutadas a través de los convenios de desarrollo social celebrados con la Federación;
-
-VIII. Mantener un sistema de seguimiento y control del desarrollo de los proyectos que realice esta Secretaría en materia de vías terrestres, y
-
-IX. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+(DEROGADO, D.O. 24 DE AGOSTO DE 2010)
 
 ###### Artículo 170.
 
@@ -10745,19 +10591,31 @@ VII. Sesión Ordinaria: es la que se realiza de conformidad al calendario aproba
 
 VIII. Sesión Extraordinaria: la que puede realizarse en cualquier tiempo y que se convocará bajo cualquiera de las dos circunstancias siguientes: ya sea por convocatoria de quien preside la Sesión o por la solicitud de al menos un tercio del total de los miembros propietarios del Órgano.
 
+> <small>(REFORMADA SU DENOMINACION, D.O. 24 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 564.
 
-Los Órganos de Gobierno se integrarán al menos con los siguientes miembros propietarios:
+La administración de las entidades paraestatales estará a cargo de:
 
-I. Presidente: El Gobernador del Estado o la persona que éste designe;
+I. Una Junta de Gobierno o su equivalente, que se integrará al menos con los siguientes miembros propietarios:
 
-II. Secretario General de Gobierno;
+a) Presidente: el Gobernador del Estado o la persona que éste designe;
 
-III. Vocal: Secretario de Hacienda;
+b) Secretario General de Gobierno;
 
-IV. Vocal: Secretario de Planeación y Presupuesto, y
+c) Vocal: Secretario de Hacienda;
 
-V. Vocal: Coordinador Sectorial.
+d) Vocal: Secretario de Planeación y Presupuesto, y
+
+e) Vocal: Coordinador Sectorial.
+
+II. Un Director General o su equivalente.
+
+> <small>(ADICIONADO, D.O. 24 DE AGOSTO DE 2010)</small>
+
+###### Artículo 564 Bis.
+
+El Director General o su equivalente, será designado por el Gobernador del Estado y durará en su encargo un período de cuatro años, pudiendo ser designado por un período más como máximo. Al término de su período, la persona que ocupe el cargo de Director General o su equivalente, permanecerá en funciones hasta en tanto se designe a quien deba sustituirlo.
 
 ###### Artículo 565.
 
@@ -10835,7 +10693,9 @@ VI. Integrar la carpeta de las sesiones ordinarias y extraordinarias, revisar qu
 
 VII. Cerciorarse que se realicen las inscripciones correspondientes en el Registro de Organismos Descentralizados;
 
-VIII. Encargarse de los trámites de protocolización ante Notario Público del acta de la sesión, y
+> <small>(REFORMADA, D.O. 24 DE AGOSTO DE 2010)</small>
+
+VIII. Encargarse de los trámites de protocolización ante Notario Público del acta de la sesión, cuando así corresponda, y
 
 IX. Validar, solicitar y custodiar la acreditación de los miembros y participantes de la sesión.
 
@@ -10875,7 +10735,7 @@ V. Las demás que establezcan este Reglamento y otras disposiciones legales apli
 
 Corresponde al Director General de la entidad o su equivalente, elaborar y presentar al Órgano de Gobierno en la primera sesión del año, el proyecto de calendario para la celebración de las sesiones ordinarias de los Órganos de Gobierno.
 
-## TÍTULO ÚNICO. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DEL ÓRGANO DE GOBIERNO DE LOS ORGANISMOS DESCENTRALIZADOS
+## TÍTULO ÚNICO. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS ÓRGANOS DE GOBIERNO DE LAS ENTIDADES PARAESTATALES
 
 ### CAPÍTULO I. Disposiciones generales
 
@@ -10957,7 +10817,9 @@ La lista de los miembros asistentes, en la que se registrará el nombre completo
 
 Para la validez de las reuniones del Órgano de Gobierno se requiere de un quórum de asistencia de, por lo menos, la mitad más uno de sus miembros.
 
-### CAPÍTULO II. De la integración del Órgano de Gobierno
+### CAPÍTULO II. De la administración de las entidades paraestatales
+
+> <small>(REFORMADO, D.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 585.
 
@@ -11134,6 +10996,8 @@ III. El número de folio registral que le corresponda, y
 IV. La firma del Director del Registro de Organismos Descentralizados del Estado.
 
 # LIBRO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
+
+> <small>(REFORMADA SU DENOMINACION, D.O. 24 DE AGOSTO DE 2010)</small>
 
 ### CAPÍTULO IV. De las atribuciones del Órgano de Gobierno
 
@@ -11348,3 +11212,7 @@ PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación 
 SEGUNDO. Se deroga el artículo 153 del Reglamento del Código de la Administración Pública de Yucatán.
 
 TERCERO. Se derogan las disposiciones de igual o menor rango en cuanto se opongan a lo establecido en este Decreto.
+
+D.O. 24 DE AGOSTO DE 2010.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL DEL ESTADO DE YUCATAN.
