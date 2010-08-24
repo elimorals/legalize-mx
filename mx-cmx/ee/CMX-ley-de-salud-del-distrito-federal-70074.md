@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2010-07-29"
+last_updated: "2010-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE AGOSTO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -1372,7 +1372,9 @@ XIV. Espectáculos públicos: las representaciones teatrales, las audiciones mus
 
 XV. Peluquerías, salones de belleza y masaje, estéticas y similares: los establecimientos dedicados a rasurar, teñir, decolorar, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas; al arreglo estético de uñas de manos y pies o la aplicación de tratamientos capilares, faciales y corporales de belleza al público, que no requieran de intervención médica en cualquiera de sus prácticas;
 
-XVI. Establecimiento industrial: edificación en la que se realiza la extracción, conservación, procesamiento, maquila y transformación de materias primas, acabado de productos y elaboración de satisfactores;
+> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 2010)</small>
+
+XVI. Clínicas médicas de belleza, centros de mesoterapia y similares: Los establecimientos o unidades médicas dedicadas a la aplicación de procedimientos invasivos relacionados con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo humano que requieran de intervención médica, los cuales están regulados en términos de la Ley General de Salud;
 
 XVII. Establecimiento Mercantil: Local ubicado en un inmueble donde una persona física o moral desarrolla actividades relativas a la intermediación, compraventa, arrendamiento, distribución de bienes, prestación de servicios o cualesquiera otro, con fines de lucro;
 
@@ -1408,13 +1410,21 @@ XXXII. Patrocinio: La gestión o apoyo económico para la realización de evento
 
 XXXIII. Promoción: Las acciones tendientes a dar a conocer y lograr la pertenencia de la denominación, la entidad de algún bien o producto y servicio, mediante el obsequio de muestras e intercambio de beneficios y apoyos entre las partes;
 
-XXXIV. Tercero autorizado: Toda aquella persona física o moral acreditada por las autoridades sanitarias para ejercer las atribuciones que en derecho le concedan las mismas. Para su ejercicio deberán acreditar ante la Agencia, formación profesional en el área de salud, experiencia de 2 años en el campo de la salubridad local donde van a desempeñar esta actividad, así como aprobar el curso de capacitación que la Agencia ofrezca para esta actividad, y (sic)
+> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 2010)</small>
+
+XXXIV. Tercero autorizado: Toda aquella persona física o moral acreditada por las autoridades sanitarias para ejercer las atribuciones que en derecho le concedan las mismas. Para su ejercicio deberán acreditar ante la Agencia, formación profesional en el área de salud, experiencia de 2 años en el campo de la salubridad local donde van a desempeñar esta actividad, así como aprobar el curso de capacitación que la Agencia ofrezca para esta actividad;
+
+> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 2010)</small>
 
 XXXV. Autocontrol: La acción voluntaria y espontánea de manifestar el cumplimiento de la regulación sanitaria;
 
-> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 2010)</small>
 
-XXXVI. Establecimientos especializados en adicciones: Los establecimientos de carácter público, privado o social, fijos o móviles, cualquiera que sea su denominación, que proporcionan servicios para la atención específica de personas con consumo perjudicial o adicción a sustancias psicoactivas, y que, en cualquier caso, operan bajo un modelo de atención profesional, de ayuda mutua o mixto.
+XXXVI. Establecimientos especializados en adicciones: Los establecimientos de carácter público, privado o social, fijos o móviles, cualquiera que sea su denominación, que proporcionan servicios para la atención específica de personas con consumo perjudicial o adicción a sustancias psicoactivas, y que, en cualquier caso, operan bajo un modelo de atención profesional, de ayuda mutua o mixto, y
+
+> <small>(ADICIONADA, G.O. 24 DE AGOSTO DE 2010)</small>
+
+XXXVII. Riesgo sanitario: La probabilidad de ocurrencia de un evento exógeno adverso, conocido o potencial, que ponga en peligro la salud o la vida humanas.
 
 ###### Artículo 104.
 
@@ -1443,6 +1453,14 @@ Todos los actos de la Agencia, incluyendo la atención y seguimiento a las denun
 ###### Artículo 107.
 
 Para el funcionamiento de los establecimientos enunciados en el presente capítulo, los interesados deberán obtener la autorización sanitaria del Gobierno, así como la acreditación de control sanitario de los responsables y auxiliares de su operación y cumplir los demás requisitos que para tal efecto establezcan las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.O. 24 DE AGOSTO DE 2010)</small>
+
+En el caso de las peluquerías, salones de belleza y masaje, estéticas, centros de arreglo estético de uñas de manos y pies, de tratamientos capilares, faciales y corporales de belleza al público y similares que no requieran de intervención médica en cualquiera de sus prácticas, sólo darán aviso de funcionamiento a la Agencia y quedan sujetos a las disposiciones de la Ley de Establecimientos Mercantiles.
+
+> <small>(ADICIONADO, G.O. 24 DE AGOSTO DE 2010)</small>
+
+Si al interior de los establecimientos señalados en el párrafo anterior, se realizan procedimientos invasivos como infiltraciones o implantaciones de sustancias relacionadas con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo humano que requieran de intervención médica, se sujetarán a lo establecido en la Ley General de Salud.
 
 ###### Artículo 108.
 
@@ -1808,9 +1826,11 @@ XIII. Las demás medidas de índole sanitaria que determinen las autoridades san
 
 Las medidas de seguridad señaladas en el presente artículo son de inmediata ejecución y serán aplicadas en los términos de las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 142.
 
-Será procedente la acción de aseguramiento como medida de seguridad, para el caso de que se comercialicen remedios herbolarios, suplementos alimenticios o productos de perfumería y belleza que indebidamente hubieren sido publicitados o promovidos como medicamentos o a los cuales se les atribuya cualidades o efectos terapéuticos, presentándolos como una solución definitiva en el tratamiento preventivo o rehabilitatorio de un determinado padecimiento, no siendo medicamentos y sin que los mismos cuenten con registro sanitario para ser considerados como tales.
+Será procedente la acción de aseguramiento como medida de seguridad, para el caso que se comercialicen remedios herbolarios, suplementos alimenticios que indebidamente hubieren sido publicitados o promovidos como medicamentos o a los cuales se les atribuya cualidades o efectos terapéuticos, presentándolos como una solución definitiva en el tratamiento preventivo o rehabilitatorio de un determinado padecimiento, no siendo medicamentos y sin que los mismos cuenten con registro sanitario para ser considerados como tales.
 
 En caso de que se actualice el supuesto previsto en el párrafo anterior, la medida de seguridad se aplicará respecto de los productos que se encuentren almacenados o en poder del fabricante, distribuidores, comercializadores o comerciantes para efectos de su venta al público.
 
@@ -2100,23 +2120,37 @@ Queda prohibida la venta de alimentos en la vía pública sin la autorización s
 
 Queda estrictamente prohibida la (sic) el comercio o la venta de alimentos en las zonas de acceso, entradas y rampas de la (sic) unidades hospitalarias y de atención médica.
 
-### Capítulo XX. Establecimientos y actividades diversas
+> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE AGOSTO DE 2010)</small>
+
+### Capítulo XX. Establecimientos, medicina estética, embellecimiento físico del cuerpo humano y actividades diversas
 
 ###### Artículo 196.
 
 Todo establecimiento dedicado a expendio de gasolina, gas y lubricantes, serán sometidos a una revisión periódica por la Agencia con el propósito de constatar que se reúnan las condiciones de protección a la salud humana.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 197.
 
+Los tratamientos enmarcados en el área de medicina estética se conforman por terapias médicas y cosméticas tendientes a mejorar la apariencia, la salud y el autoestima del paciente, y se enmarcan en maniobras terapéuticas, diferentes del campo invasivo quirúrgico de otras ramas de la medicina, específicamente de la cirugía plástica y estética.
+
+Queda prohibido realizar los tratamientos referidos en el presente artículo a toda persona que no cuente con título de médico cirujano expedido por las instituciones de enseñanza superior o las instituciones de salud reconocidas oficialmente y, en su caso, con certificado que acredite capacidad y experiencia en la realización de dichas prácticas expedido por instituciones de enseñanza superior, instituciones de salud reconocidas oficialmente o por instituciones que cuenten con el aval y reconocimiento de cualquiera de las instancias anteriores.
+
+La realización de los tratamientos relativos a la medicina estética, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, de acuerdo a lo establecido en la presente Ley, sujetándose además a lo que señale la Ley General de Salud en la materia.
+
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2010)</small>
+
+###### Artículo 198.
+
+Queda prohibido utilizar productos de belleza o similares no autorizados ni registrados por las autoridades competentes, así como la práctica de procedimientos de embellecimiento que representen un riesgo para la salud humana, de conformidad con las disposiciones de la presente Ley.
+
+Los procedimientos de embellecimiento físico del cuerpo humano, son aquellos que se utilizan para modificar las características externas y superficiales, mediante la aplicación de substancias, preparados de uso externo, productos cosméticos de uso tópico, así como utensilios, herramientas, equipo y aparatología sin implicaciones médicas, en su caso, y que son destinados a incrementar la belleza del cuerpo humano o a mejorar su apariencia física y en los que no haya intervención quirúrgica o la aplicación de cualquier procedimiento de atención médica.
+
+Como parte del embellecimiento físico del cuerpo humano, queda prohibida la aparatología, las infiltraciones o implantaciones de sustancias relacionadas con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo humano que requieran de intervención médica.
+
+Queda prohibida a toda persona que no sea médico cirujano y que no se encuentre debidamente capacitada y certificada en el área del cuidado estético, prescribir o aplicar cualquier tipo de procedimiento, producto o medicamento destinado al embellecimiento físico del cuerpo humano, que contenga hormonas, vitaminas o cualquier sustancia con acción terapéutica o que implique un riesgo para la salud.
+
 Los establecimientos cubiertos y descubiertos dedicados al fisicoculturismo, a ejercicios aeróbicos y deportes en general, deberán acreditase ante la Agencia para su funcionamiento, que sus instructores y profesores tengan la preparación técnica o profesional reconocida por alguna institución autorizada por el sistema educativo nacional. Sus instalaciones deberán acreditar los requisitos sanitarios establecidos por la Agencia y en ellas no se podrá permitir la venta, difusión o promoción de productos, sustancias o procedimientos no autorizados ni registrados ante las autoridades sanitarias competentes.
-
-###### Articulo 198.
-
-Queda prohibido utilizar productos de belleza o similares no autorizados ni registrados por las autoridades competentes. Asimismo, no podrán utilizarse procedimientos de embellecimiento que a juicio de las autoridades sanitarias sean peligrosos para la salud humana.
-
-Los procedimientos de embellecimiento del cuerpo humano, son aquellos que se utilizan para modificar las características externas y superficiales, mediante la aplicación de substancias, productos o preparados de uso externo, los destinados a incrementar la belleza del cuerpo humano o a mejorar su apariencia física y en los que no haya intervención quirúrgica o la aplicación de cualquier procedimiento de atención médica.
-
-Queda prohibida a toda persona que no sea profesional de la medicina y que no se encuentre debidamente capacitada y certificada, prescribir o aplicar cualquier tipo de procedimiento, producto o medicamento destinado al embellecimiento del cuerpo humano, que contenga hormonas, vitaminas o cualquier sustancia con acción terapéutica o que implique un riesgo para la salud.
 
 ###### Artículo 199.
 
@@ -2369,3 +2403,13 @@ G.O. 29 DE JULIO DE 2010.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 24 DE AGOSTO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Jefe de Gobierno del Distrito Federal contará con un plazo de 180 días para la publicación en la Gaceta Oficial del Distrito Federal de las adecuaciones, modificaciones y actualización que, en su caso, se deban realizar a las disposiciones reglamentarias, respecto a lo previsto en el presente Decreto.
+
+CUARTO.- En tanto se expiden las adecuaciones, modificaciones y actualización de las disposiciones reglamentarias y administrativas que, en su caso, se deriven del presente Decreto, seguirán en vigor las que rigen actualmente.
