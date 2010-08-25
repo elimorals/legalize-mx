@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-del-municipio-de-san-nicolas-460
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-22"
-last_updated: "2009-09-18"
+last_updated: "2010-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PROTECCIÓN CIVIL DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2010.
 
 Reglamento publicado en el Periódico Oficial, el lunes 22 de agosto de 2005.
 
@@ -163,7 +163,7 @@ XLIX.- Siniestro.- El evento de ocurrencia cotidiana o eventual determinada en t
 
 L.- Sistema Nacional.- Al Sistema Nacional de Protección Civil cuyas bases para su establecimiento fueron aprobadas por decreto del Ejecutivo Federal publicado en el Diario Oficial de la Federación del día 06 de Mayo de 1986.
 
-LI.- Tabla para Determinar el Grado de Riesgo.- Es la tabla para determinar el grado de riesgo de incendio del establecimiento, seleccionando el rubro de la tabla que más se apegue a las características del establecimiento.
+LI.- Tabla para Determinar el Grado de Riesgo.- Es la tabla para determinar el grado de riesgo de incencio del establecimiento, seleccionando el rubro de la tabla que más se apegue a las características del establecimiento.
 
 GRADO DE RIESGO
 
@@ -797,9 +797,13 @@ XXXIV.- Evaluar eventos masivos o instalaciones no permanentes de mediano y alto
 
 XXXV.- Coordinar directamente el Departamento de Bomberos del Municipio;
 
-XXXVI.- Coordinar a todos los cuerpos de emergencia, vocales o auxiliares del Comité y cualquier instancia de seguridad de los establecimientos e instalaciones en general, cuando se presente una contingencia; y
+XXXVI.- Coordinar a todos los cuerpos de emergencia, vocales o auxiliares del Comité y cualquier instancia de seguridad de los establecimientos e instalaciones en general, cuando se presente una contingencia; y (sic)
 
 XXXVII.- Las demás que le confiera el Presidente Municipal, el presente Reglamento, los diversos ordenamientos municipales y otros ordenamientos legales, así como las que se determinen por acuerdos y resoluciones del Consejo Municipal de Protección Civil.
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2010)</small>
+
+XXXVIII.- Expedir el documento que hace referencia el artículo 75 Bis.
 
 ###### Artículo 36.
 
@@ -1222,6 +1226,14 @@ Tratándose de situaciones no programadas que puedan implicar algún riesgo Soci
 ###### Artículo 75.
 
 Es obligación de los propietarios, arrendatarios o usufructuarios de terrenos baldíos y de edificaciones habitadas o abandonadas, dentro del territorio Municipal, el mantener los predios libres de materiales combustibles como hierbas o pastos secos con altura mayor a 30 centímetros, maderas, llantas, solventes y basura, entre otros.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2010)</small>
+
+###### Artículo 75 Bis.
+
+Los establecimientos comerciales, en los que debido al uso que se destine, genere la concurrencia de personas, obligatoriamente deberá colocar en el acceso principal del mismo en un lugar visible, la capacidad máxima de personas que debido a las características físicas del establecimiento puede tener sin presentar un riesgo para los asistentes.
+
+La autoridad competente expedirá la constancia de la capacidad máxima de personas de los establecimientos comerciales.
 
 ###### Artículo 76.
 
@@ -1760,3 +1772,9 @@ P.O. 18 DE SEPTIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2010.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para los establecimientos comerciales existentes, es decir, los que ya cuenten con las licencias y/o permisos necesarios para su operación, el artículo 75 Bis será aplicable hasta el mes de enero del año 2011 al momento de realizar los trámites de refrendo de las licencias y permisos correspondientes.
