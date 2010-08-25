@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2010-08-14"
+last_updated: "2010-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2010.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1845,7 +1845,9 @@ Para los efectos de este artículo, dentro del concepto genérico de indicios, q
 
 ### CAPITULO III. De los alegatos y de la citación para sentencia
 
-394.- Concluido el término probatorio, el secretario del Tribunal agregará al cuaderno principal los que se hubiesen formado con las pruebas rendidas por las partes, respectivamente y, en su caso, los incidentes sobre nulidad de confesión, de declaración de un testigo y de tachas, poniendo de ello constancia en los autos principales. Hecho lo anterior, de oficio o a instancia de parte, ordenará el Tribunal que se dé vista de los autos al actor para que alegue de su derecho, dentro del término de diez días. Evacuado el traslado por el actor, o concluido el plazo respectivo, se mandará dar vista de los autos al demandado con el mismo objeto y por un plazo igual.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2010)</small>
+
+394.- Concluido el término probatorio, el secretario del Tribunal agregará al cuaderno principal los que se hubiesen formado con las pruebas rendidas por las partes, respectivamente y, en su caso, los incidentes que se tramiten por cuerda separada, poniendo de ello constancia en los autos principales. Hecho lo anterior, de oficio o a instancia de parte, ordenará el Tribunal que se dé vista de los autos a las partes para que aleguen lo que a su derecho convenga, por un término común de tres días.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
 
@@ -3907,7 +3909,9 @@ Bajo las mismas condiciones podrán gravar los padres los bienes de sus hijos, o
 
 886.- El que pretenda adoptar deberá acreditar los requisitos señalados por el artículo 367 del Código Civil.
 
-En la promoción inicial deberá manifestarse el tipo de adopción, el nombre y edad del menor o incapacitado y el nombre y domicilio de quienes ejerzan sobre éste la patria potestad o la tutela o de las personas o instituciones que están proveyendo a su guardia.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2010)</small>
+
+En la promoción inicial deberá manifestarse el nombre y edad del menor o incapacitado y el nombre y domicilio de quienes ejerzan sobre éste la patria potestad o la tutela o de las personas o instituciones que están proveyendo a su guardia.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
@@ -3923,9 +3927,17 @@ Cuando se trate de personas menores de edad en calidad de expósitas o abandonad
 
 En el caso de solicitantes extranjeros se concederá el depósito provisional del menor o incapacitado, si tal figura se contempla en los tratados internacionales.
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2010)</small>
+
+886 BIS.- La Procuraduría de Asistencia Jurídica y Social o los organismos para la asistencia pública, extenderán las constancias relativas al abandono, exposición y/o maltrato, dando siempre vista al Ministerio Público, para que manifieste lo que a derecho corresponda.
+
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 887.- Rendidas las justificaciones que se exigen por el artículo 367 del Código Civil y obteniendo el consentimiento de las personas que deban darlo conforme a los artículos 374 y 375 del mismo Código, el Juez resolverá lo que proceda sobre la adopción.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2010)</small>
+
+El organismo para la asistencia social pública estatal o municipal que haya expedido la constancia de idoneidad a los adoptantes, deberá informar a la autoridad otorgante de la adopción acerca de las condiciones en que se ha desarrollado la misma, durante el lapso de un año.
 
 888.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
@@ -4119,7 +4131,11 @@ VI.- En el caso de que cualesquiera de las partes no se encontrare debidamente a
 
 VII.- El Juez podrá, en todo tiempo, cerciorarse personalmente o con el auxilio de trabajadores sociales o peritos de la veracidad de los hechos controvertidos, y razonará cuidadosamente la parte de su fallo en que confiera valor probatorio a los informes o dictámenes de esta manera obtenidos;
 
-VIII.- La sentencia se dictará redactándola de manera breve y concisa, en el mismo acto de la audiencia de ser posible, o dentro de los tres días siguientes.
+VIII.- La sentencia se dictará redactándola de manera breve y concisa, en el mismo acto de la audiencia de ser posible, o dentro de los tres días siguientes;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2010)</small>
+
+IX.- En el caso del juicio para la pérdida de la patria potestad, si no se presentan quien o quienes la ejercen, después de haber sido notificados y emplazados por la autoridad competente, se les declarará en rebeldía, conforme a las reglas de este Código.
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 1981)</small>
 
@@ -4930,6 +4946,22 @@ DECRETO No. 1098/2010 II P.O., POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 14 DE AGOSTO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2010.
+
+DECRETO No. 1054/2010, POR EL QUE SE REFORMA EL ARTICULO 886, Y SE ADICIONAN LOS NUMERALES 886 BIS; 887, SEGUNDO PARRAFO, Y UNA FRACCION IX AL ARTICULO 903-1, TODOS ELLOS DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2010.
+
+DECRETO No. 1130/2010, POR EL QUE SE REFORMA EL ARTICULO 394 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
