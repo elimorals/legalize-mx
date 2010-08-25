@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-proteccion-civil-para-el-estado-de-morelos-21557"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-16"
-last_updated: "2001-05-23"
+last_updated: "2010-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY GENERAL DE PROTECCION CIVIL PARA EL ESTADO DE MORELOS, PUBLICADA EN EL P.O. EL 25 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el día 16 de junio de 1993.
 
@@ -468,3 +470,17 @@ P.O. 23 DE MAYO DE 2001.
 Primero.- Remítase el presente Decreto, al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 Segundo.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+P.O. 25 DE AGOSTO DE 2010.
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Mórelos.
+
+SEGUNDO.- Se abroga la Ley de Protección Civil para el Estado de Morelos, promulgada el 15 de Junio de 1993 y publicada el 16 de Junio de 1993, en el Periódico Oficial "Tierra y Libertad" numero 3644, así como todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO.- El Instituto Estatal de Protección Civil del Gobierno del Estado de Morelos deberá instalarse en un plazo no mayor a sesenta días hábiles a partir del día siguiente a la publicación de esta ley, mientras tanto seguirá operando la Dirección General de Protección Civil del Estado de Morelos.
+
+CUARTO.- Todos los recursos materiales y humanos pertenecientes a la Dirección General de Protección Civil, formarán parte del Instituto Estatal de Protección Civil del Estado de Morelos, salvaguardándose sus derechos laborales de los trabajadores.
+
+QUINTO.- El Reglamento de la presente Ley, deberá publicarse en un plazo no mayor a noventa días hábiles, a partir del día siguiente de la entrada en vigor de la presente Ley, mientras tanto seguirán vigentes las disposiciones que regulan la materia de Protección Civil.
+
+SEXTO.- Los municipios dispondrán de un plazo de noventa días hábiles, a partir de la vigencia de esta ley, a fin de expedir sus reglamentos respectivos apegados a esta ley.
