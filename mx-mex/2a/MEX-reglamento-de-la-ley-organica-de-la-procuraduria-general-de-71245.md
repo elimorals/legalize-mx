@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-712
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-26"
-last_updated: "2009-12-24"
+last_updated: "2010-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO, PUBLICADO EN LA G.G. DE 25 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 17 DE DICIEMBRE DE 2009 Y REPUBLICADA EL 24 DE DICIEMBRE DE 2009.</small>
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 26 de noviembre de 2009.
 
@@ -1960,3 +1960,41 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 25 DE AGOSTO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese este Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno", el 26 de noviembre de 2009.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo dispuesto por este Reglamento.
+
+Los acuerdos, circulares, oficios y demás instrumentos jurídicos y administrativos que no se opongan a este Reglamento continuarán en vigor.
+
+###### ARTÍCULO QUINTO.
+
+El Procurador determinará la readscripción de los servidores públicos conforme a la nueva estructura que regula este Reglamento, tomando en cuenta la situación organizacional que a la fecha de entrada en vigor de este ordenamiento presenten las unidades administrativas y órganos desconcentrados de la Procuraduría.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente Reglamento en las unidades administrativas que por virtud de este ordenamiento se suprimen o fusionan, serán turnados a las unidades administrativas que asuman las atribuciones correspondientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+La nueva estructura orgánica de la Procuraduría General de Justicia del Estado de México establecida en este Reglamento, deberá implementarse en atención a las necesidades del servicio de procuración de justicia y de acuerdo con la disponibilidad presupuestal con que cuente la Procuraduría, debiendo observar la normatividad en materia de entrega y recepción de unidades administrativas.
+
+###### ARTÍCULO OCTAVO.
+
+Las unidades administrativas con las que venía operando la Procuraduría General de Justicia del Estado de México, se denominarán, readscribirán, fusionarán o cambiarán de nivel, en su caso, de conformidad con lo dispuesto en el presente Reglamento y en la estructura de organización autorizada a dicha dependencia.
