@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-arrendamientos-y-prestacion-de-2615
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-14"
-last_updated: "2002-10-14"
+last_updated: "2010-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE SAN NICOLAS DE LOS GARZA, N.L
+REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE SAN NICOLÁS DE LOS GARZA, N.L
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 25 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 14 de octubre de 2002.
 
@@ -420,3 +422,11 @@ Presidente Municipal
 Lic. Zeferino Salgado Almaguer
 
 Secretario del R. Ayuntamiento. Rubricas
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Reglamento abroga el Reglamento de Adquisiciones, Arrendamientos y Prestación de Servicios para el Gobierno Municipal de San Nicolás de los Garza, Nuevo León, publicado en el Periódico Oficial del Estado el día14- catorce de octubre del 2002- dos mil dos.
