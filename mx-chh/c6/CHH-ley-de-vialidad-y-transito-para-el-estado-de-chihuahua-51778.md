@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2010-02-06"
+last_updated: "2010-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRANSITO PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2010.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -503,15 +503,21 @@ Tratándose de vehículos de barrido mecanizado de limpieza, deberá efectuar su
 
 ### CAPÍTULO TERCERO. DE LAS PLACAS DE LOS VEHICULOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 42.
 
-Ningún vehículo podrá desplazarse por las vías públicas sin llevar colocadas las placas correspondientes al tipo de uso o servicio que se le otorgue o, en su caso, permiso provisional otorgado por la Secretaría, en tanto concluyan los trámites necesarios para su obtención.
+Ningún vehículo podrá desplazarse por las vías públicas sin llevar colocadas las placas correspondientes al tipo de uso o servicio que se le otorgue o, en su caso, permiso provisional otorgado por la Secretaría, en tanto concluyan los trámites necesarios para su obtención, con las excepciones que marca esta Ley.
 
 Los ayuntamientos podrán celebrar convenios con la Secretaría, para la expedición de permisos provisionales, debiendo remitir a la misma una relación mensual de las autorizaciones que hayan otorgado.
 
 ###### Artículo 43.
 
 Los vehículos podrán circular sin placas únicamente cuando la autoridad competente expida un permiso provisional, en los casos y bajo el procedimiento que determine la reglamentación aplicable.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2010)</small>
+
+El otorgamiento del permiso provisional a que se refiere el párrafo anterior, no será procedente en el caso de los vehículos nuevos de uso particular.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
@@ -687,19 +693,25 @@ IV. Paso Preferencial, que autoriza a conducir vehículos destinados al paso pre
 
 Las licencias tendrán una vigencia de tres y seis años a solicitud del interesado, pero tratándose de las de chofer del transporte público, su duración será de seis años, debiendo refrendarse cada dos años, en los términos precisados en el Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 55.
 
-A las personas mayores de quince años y menores de dieciocho se les podrá expedir licencia de conducir únicamente de las del servicio particular en las categorías de motociclista y de automovilista, previo consentimiento por escrito otorgado por las personas que ejerzan la patria potestad o, en su caso, por el tutor del menor, quienes asumirán la responsabilidad civil, además del cumplimiento de los requisitos que para tal efecto se establecen por la ley y el reglamento. Esta licencia tendrá vigencia de un año.
+A las personas mayores de dieciseis años y menores de dieciocho se les podrá expedir licencia de conducir únicamente de las del servicio particular en las categorías de motociclista y de automovilista, previo consentimiento por escrito, otorgado por las personas que ejerzan la patria potestad o, en su caso, por el tutor del menor, quienes asumirán la responsabilidad civil, además del cumplimiento de los requisitos que para tal efecto se establecen por la ley y el reglamento. Esta licencia tendrá vigencia de un año.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2008)</small>
 
 Los menores de edad a que se refiere este artículo, solamente podrán conducir los vehículos previamente registrados por quienes ejerzan la patria potestad o tutor, ante las autoridades de Vialidad y/o Tránsito.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2008)</small>
+
 Así mismo, se les expedirá un holograma fluorescente, para identificación pública de los vehículos respectivos, como los autorizados para ser conducidos por el menor de edad, el cual deberá portarse adherido en un lugar visible del parabrisas trasero.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2008)</small>
+
 El holograma al que se refiere el párrafo anterior, contendrá la identificación del vehículo y el número telefónico o dirección electrónica, donde cualquier ciudadano pueda reportar cualquier anomalía en la conducción del mismo. El reporte ciudadano deberá generar un registro individual e histórico de las denuncias, el cual podrá ser consultable en cualquier tiempo por quienes asumieron la responsabilidad civil.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2008)</small>
 
 Los menores a que se refiere este artículo, estarán autorizados para conducir, manejar o maniobrar vehículos únicamente en el horario que comprende de las seis a las veintidós horas. En carretera sólo podrán conducir acompañados de una persona mayor de edad.
 
@@ -1384,3 +1396,15 @@ Las autoridades de Vialidad y Tránsito, tendrán noventa días para la celebrac
 ###### ARTÍCULO TERCERO.
 
 Una vez firmados los convenios necesarios, las autoridades de Vialidad y Tránsito tendrán noventa días para la creación de un programa que le dé cumplimiento a los artículos 90, fracción VII; 90-BIS y 91-BIS.
+
+P.O. 25 DE AGOSTO DE 2010.
+
+DECRETO NUMERO 1024/10 POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 42 Y SE ADICIONA UN SEGUNDO AL ARTICULO 43, AMBOS DE LA LEY DE VIALIDAD Y TRANSITO PARA EL ESTADO DE CHIHUAHUA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2010.
+
+DECRETO NUMERO 1025/10 POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 55 DE LA LEY DE VIALIDAD Y TRANSITO PARA EL ESTADO DE CHIHUAHUA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
