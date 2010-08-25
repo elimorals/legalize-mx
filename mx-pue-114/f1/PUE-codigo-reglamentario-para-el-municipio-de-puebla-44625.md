@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2010-06-02"
+last_updated: "2010-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -5027,7 +5027,7 @@ Los hospitales, sanatorios, clínicas, fabricas, industrias, comercios, oficinas
 
 ###### Artículo 392 Bis.
 
-El Consejo Municipal de Protección Civil, es el órgano de planeación, consulta y apoyo del Sistema Municipal, que tiene por objeto integrar a todas las dependencias y entidades municipales, representantes del sector social Y privado, para implementar acciones de protección civil en beneficio de la sociedad.
+El Consejo Municipal de Protección Civil, es el órgano de planeación, consulta y apoyo del Sistema Municipal, que tiene por objeto integrar a todas las dependencias y entidades municipales, representantes del sector social y privado, para implementar acciones de protección civil en beneficio de la sociedad.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -5469,7 +5469,7 @@ Los vehículos que contengan y transporten materiales y sustancias inflamables, 
 
 No se permitirán maniobras de carga y descarga después de las dieciocho horas y ninguna hora de acceso a la ciudad los días sábados y domingos. Los carros tanques que abastezcan la gasolina y combustibles a los expendios urbanos, quedan exceptuados de lo anterior.
 
-Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo Y control en caso de fuga o derrame.
+Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo y control en caso de fuga o derrame.
 
 ###### Artículo 426.
 
@@ -9445,7 +9445,7 @@ XVII. Producto cárnico: Se entenderá por éste lo contemplado en el artículo 
 
 XVIII. Reinspección: Revisión para constatar el cumplimiento de las disposiciones de este Código y demás ordenamientos legales aplicables en la materia; de las canales o subproductos que ya fueron sujetos a inspección por un rastro distinto del Municipal;
 
-XIX. Resello: Sello que se coloca con la leyenda "Inspeccionado y Aprobado" en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
+XIX. Resello: Sello que se coloca con la leyenda “Inspeccionado y Aprobado” en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
 
 XX. Subproducto: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante.
 
@@ -9665,9 +9665,9 @@ DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al "Servicio de Transporte del Producto Cárnico y sus Derivados", por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
+Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al “Servicio de Transporte del Producto Cárnico y sus Derivados”, por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -12019,7 +12019,7 @@ circos temporales. Cupo 1 por cada 16 personas
 
 Salones para fiestas infantiles Área de fiestas 1 por cada 50 m2
 
-En todos los giros de edificios, deberá considerarse como parte del proyecto, espacios destinados para personas con capacidades diferentes, un cajón a partir de 12 o en su caso de 2% del total de espacios, los cuales deberán estar bien ubicados e identificados remitiéndose a lo que marca el artículo 776 de este Capítulo
+En todos los giros de edificios, deberá considerarse como parte del proyecto, espacios destinados para personas con capacidades diferentes, un cajón a partir de 12 o en su caso de 2% del total de espacios, los cuales deberán estar bien ubicados e identificados remitiéndose a lo que marca el artículo 776 de este Capítulo.
 
 CENTROS DE REUNIÓN
 
@@ -15020,6 +15020,44 @@ Los depósitos de madera, pasturas, hidrocarburos, expendios de papel, cartón u
 ###### Artículo 1094.
 
 En el caso específico de gasolineras o gaseras, las mismas deberán cumplir con la licencia de uso de suelo e impacto ambiental, independientemente del cumplimiento de la normatividad expedida por las Autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2010)</small>
+
+###### Artículo 1094 Bis.
+
+Las nuevas Estaciones de Servicio que operarán al interior de la mancha urbana, estarán sujetas a la presente normativa, y en lo que se refiere a la instalación y funcionamiento dependerán de la siguiente clasificación:
+
+I. Estación de Gasolina: es aquélla que será mayor a tres islas, contará con servicios minamos de apoyo, administrativos y sanitarios en donde los servicios solo podrán ocupar el 20% del terreno, el resto del área estará destinada a circulación y estacionamiento de los vehículos;
+
+II. Estación de Gasolina con uso mixto: serán todas aquéllas que sean menor o igual a tres islas y servicios de uso mixto comerciales, con ocupación de entre el 40% y el 60% del terreno, el resto del predio estará destinado a circulación y estacionamiento de los vehículos;
+
+III. Mini Gasolinera: serán todas aquéllas que sean menor a tres islas y sin ser el uso predominante en el predio, generalmente formando parte de plazas o locales comerciales y de servicios, aprovechando los carriles de circulación y no requieran mayor espacio, para área de maniobra y circulación; y
+
+IV. Estación de Servicio de Gasolina para Centros Comerciales: entrarán todas aquéllas que tengan menos de dos islas y se ubiquen en Centros Comerciales mayores de tipo "MALL" con tiendas anclas departamentales y locales comerciales, en el que la isla de venta de gasolina se ubique en un área mínima extrema del estacionamiento y con acceso frontal vehicular a una arteria principal de la ciudad.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2010)</small>
+
+###### Artículo 1094 Ter.
+
+Para efectos del artículo anterior, en cuanto a la instalación de las Estaciones de Servicio, operarán las siguientes restricciones:
+
+I. Para la instalación de una Estación de Gasolina, se tomará en cuenta las gasolineras establecidas y anteriormente autorizadas a la presente normativa, por lo cual será de observancia el criterio de restricción de distancia menor de 500 metros, con respecto a otra Estación de Gasolina; la distancia entre una gasolinera y otra dependerá de las características de la zona en donde pretende instalarse la Estación de Servicio, la funcionalidad, los inmuebles contiguos, el grado de saturación o déficit en la zona, dictaminados por la Dirección de la Unidad Operativa Municipal de Protección Civil y la Dirección de Gestión y Desarrollo Urbano Sustentable del Honorable Ayuntamiento del Municipio de Puebla.
+
+II. Para el caso de la Estación de Gasolina, se aplican criterios de disminución por razones de funcionamiento vial o estructural urbano, obteniendo una reducción de distancia de los 500 metros, siempre y cuando sea factible de acuerdo a los análisis y dictámenes emitidos por parte de la Dirección de la Unidad Operativa Municipal de Protección Civil y de la Dirección de Gestión y Desarrollo Urbano Sustentable del Honorable Ayuntamiento del Municipio.
+
+III. Se entenderá por Funcionamiento Vial; cuando se tenga una vialidad primaria y se pueda otorgar el servicio por ambos sentidos, sin obligar a los usuarios a realizar largos retornos y reducir la circulación vial.
+
+IV. Se entenderá por Estructural Urbano; a la relación entre los equipamientos existentes sobre los servicios complementarios sin comprometer los usos de suelo existentes y todos aquéllos que se planeen.
+
+V. En los casos señalados para: Estación de Gasolina con uso mixto, Mini Gasolinera y Estación de Servicio de Gasolina para Centros Comerciales, no aplica la restricción de distancia menor de 500 metros por no ser gasolineras en sí, sino que forman parte de diversos conjuntos de uso mixto. Sin embargo la distancia y factibilidad estará sujeta a las características de la zona, la funcionalidad, los niveles de saturación o déficit, así como los análisis y dictámenes emitidos por la Dirección de la Unidad Operativa Municipal de Protección Civil y la Dirección de Gestión y Desarrollo Urbano Sustentable del Honorable Ayuntamiento del Municipio de Puebla.
+
+VI. Para el funcionamiento e instalación de: Estación de Gasolina con uso mixto, Mini Gasolinera y Estación de Servicio de Gasolina para "MALL", deberá regir y será obligatorio presentar un riguroso Plan de Contingencia con modelos de simulación, avalados por la Dirección de la Unidad de Protección Civil del Honorable Ayuntamiento de Puebla para garantizar la seguridad en el establecimiento y la zona en que se ubique.
+
+VII. En todos los casos es obligatorio presentar con la solicitud de factibilidad un expediente completo de acuerdo a los lineamientos establecidos en el apartado de Marco Jurídico sobre Requerimientos Estatales y Municipales, así como estudio de riesgo ante la Dirección de Gestión y Desarrollo Urbano Sustentable de este Honorable Ayuntamiento del Municipio de Puebla.
+
+VIII. Se deberán respetar los lineamientos establecidos en el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, quedando en todos los casos sujeta a observancia de la distancia menor de 500 metros, a los análisis y estudios técnicos derivados de la documentación que ingrese el interesado, de la inspección de campo y de la valoración de la zona de acuerdo a las características urbano territoriales, incluyendo los factores de riesgo y/o peligro en donde se pretenda instalar la Estación de Servicio.
+
+IX. No se tramitará, ni se gestionará ningún tipo de licencia, o Dictamen emitido por la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable, así como por el Titular de la Unidad Operativa Municipal de Protección Civil ambos del Honorable Ayuntamiento del Municipio de Puebla, y mucho menos quedará sujeta a observancia el otorgamiento de los mismos, así como la distancia menor de 500 metros, para los casos de instalar Estaciones de Servicio de Gas L.P., Gasolina y Diesel en el Centro Histórico de la Ciudad de Puebla.
 
 MATERIALES EXPLOSIVOS
 
@@ -22331,15 +22369,11 @@ XXI.- Sello Sanitario: Sistema de Control implementado por el Rastro Municipal, 
 
 XXII.- Secretaría: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
-
 XXIII. Subproducto cárnico: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante;
 
 XXIV.- TIF: Establecimiento Tipo Inspección Federal;
 
 XXV.- Trato Humanitario: Medidas para evitar dolor innecesario a los animales durante su traslado, cuarentena y sacrificio; y
-
-XXVI.- Usuarios: Son todos aquéllos que utilicen los servicios del rastro.
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -29671,7 +29705,7 @@ El Comisionado está facultado para autorizar la sustitución o cambio de boxead
 
 I. En Box: en caso de fuerza mayor debidamente comprobada, si alguno de los participantes de una pelea preliminar o estelar no puede actuar en la función anunciada, se sustituirá dicho peleador por el emergente de la misma categoría y peso, si el boxeador fuese de la pelea estelar, además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función;
 
-II. En lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
+II. En lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicutar la devolución del importe de su boleto, siempre que no haya iniciado la función.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -29925,7 +29959,7 @@ Los auxiliares que infrinjan las disposiciones contenidas en los artículos del 
 
 ###### Artículo 2166 Bis.
 
-Los auxiliares no deberán protestar las decisiones de los oficiales sobre el cuadrilátero ni en parte alguna de las Arenas, deberán presentar sus protestas en la Sesión Ordinaria o Extraordinaria inmediata de la Comisión.
+Los auxiliares no deberán protestar las decisiones de los oficiales sobre el cuadrilátero ni en parte alguna de las Arenas, deberán presentar sus protestas en la sesión Ordinaria o Extraordinaria inmediata de la Comisión.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -30593,7 +30627,7 @@ II. Los que celebre un representante o promotor con una empresa, respecto a una 
 
 III. Los de exclusividad, celebrados por un promotor o representante con una empresa para el efecto de que el boxeador actúe bajo su promoción por un tiempo determinado, de acuerdo con las cláusulas en el contrato respectivo, o entre éstos y el boxeador directamente en condiciones especiales.
 
-Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos admninistrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en que se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
+Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en que se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
 
 Una vez registrado y autorizado el contrato, se entregará un tanto al representante, otro al boxeador y el restante quedará depositado en el archivo de la Comisión.
 
@@ -32832,3 +32866,9 @@ SEGUNDO.- Se instruye al Secretario del Ayuntamiento para que en la reforma lega
 P.O. 28 DE MAYO DE 2010
 
 ÚNICO. La presente Adición y Reformas surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2010.
+
+PRIMERO.- La presente Adición de los artículos 1094 Bis y 1094 Ter del Código Reglamentario para el Municipio de Puebla, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones anteriores y aquéllas que se opongan a lo establecido en la presente Adición.
