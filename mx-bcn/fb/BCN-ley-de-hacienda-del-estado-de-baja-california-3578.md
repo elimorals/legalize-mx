@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2009-06-05"
+last_updated: "2010-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2010.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -229,19 +229,19 @@ Son objeto del Impuesto sobre Actividades Mercantiles e Industriales, los ingres
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
-I.- Enajenación, promesa de venta y opción de venta de bienes muebles;
+I.- Enajenación, promesa de venta y opción de venta de bienes muebles.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
-II.- Arrendamiento de bienes muebles;
+II.- Arrendamiento de bienes muebles.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
-III.- Prestación de servicios;
+III.- Prestación de servicios.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
-IV.- Comisiones y mediaciones mercantiles;
+IV.- Comisiones y mediaciones mercantiles.
 
 V.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
@@ -447,7 +447,7 @@ II.- Modificación del Capital.
 
 III.- Cambio de domicilio.
 
-IV.- Cambio de giros de la negociación o establecimiento;
+IV.- Cambio de giros de la negociación o establecimiento.
 
 V.- Clausura.
 
@@ -495,19 +495,19 @@ I.- Expedir diariamente facturas, notas de venta o cintas de máquina registrado
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
-a).- Nombre y razón social del causante;
+a).- Nombre y razón social del causante.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
-b).- Domicilio y fecha;
+b).- Domicilio y fecha.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
-c).- Número de cuenta estatal;
+c).- Número de cuenta estatal.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
-d).- Registro Federal de Causantes;
+d).- Registro Federal de Causantes.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
@@ -543,7 +543,7 @@ VI.- Las sucursales o dependencias de empresas del interior del país que realic
 
 Es obligación de las personas que obtengan los bienes o servicios consignados en el Artículo 42 de esta Ley, recabar los documentos correspondientes que deberán reunir los requisitos antes mencionados.
 
-(REFORMADO, P.O. 31 DE ENERO DE 1976) (F. DE E., P.O. 20 DE MARZO DE 1976)
+(REFORMADO, P.O. 31 DE ENERO DE 1976)(F. DE E., P.O. 20 DE MARZO DE 1976)
 
 En los casos de compras de mercancías facturadas en el extranjero, éstas deberán estar amparadas con la correspondiente relación aduanal de importación o boletas en su caso, a nombre del causante.
 
@@ -585,7 +585,7 @@ g).- Saldo por amortizar, incluyendo capital e intereses, determinado mensualmen
 
 Los causantes que obtengan ingresos exentos y gravados, deberán llevar en su contabilidad registro por separado de los ingresos sujetos a cada tipo de tratamiento fiscal y en sus declaraciones mensuales:
 
-I.- Manifestarán el total de sus ingresos;
+I.- Manifestarán el total de sus ingresos.
 
 II.- Deducirán del total de sus ingresos:
 
@@ -1031,7 +1031,7 @@ Quienes presten los servicios señalados en este capítulo, tendrán el carácte
 
 Las personas que presten los servicios de hospedaje, serán responsables solidarios de este impuesto y además de las obligaciones señaladas en el Código Fiscal del Estado, tendrán las siguientes:
 
-I.- Estar inscritos en el Registro Estatal de Causantes, mediante la forma oficial correspondiente, y proporcionar la información relacionada con su identidad, su domicilio y aquella que le sea solicitada;
+I.- Estar inscritos en el Registro Estatal de Causantes, mediante la forma oficial correspondiente, y proporcionar la información relacionada con su identidad, su domicilio y aquella que le sea solicitada.
 
 II.- Retener y enterar el impuesto, aún cuando no hubieren hecho la retención o no hayan recibido el pago de las contraprestaciones del servicio prestado.
 
@@ -1365,7 +1365,7 @@ Si quien efectúa los pagos está domiciliado fuera del Estado, y no tiene dentr
 
 De los ingresos totales que se obtengan por concepto de recaudación de este Impuesto se destinará el 5% al fideicomiso empresarial del Estado, el cual tendrá como objetivos:
 
-a).- Apoyar la Seguridad Pública en el Estado;
+a).- Apoyar la Seguridad Pública en el Estado.
 
 b).- Fomentar la Participación Social en la Educación; y
 
@@ -1405,7 +1405,7 @@ Para los efectos de este impuesto, se considera previsión social, las erogacion
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
-I.- Empadronarse en la oficina de Recaudación de Rentas del Estado de su jurisdicción, dentro de los diez días siguientes a la fecha en que se efectúen las operaciones gravadas por este impuesto, tratándose de los responsables solidarios;
+I.- Empadronarse en la oficina de Recaudación de Rentas del Estado de su jurisdicción, dentro de los diez días siguientes a la fecha en que se efectúen las operaciones gravadas por este impuesto, tratándose de los responsables solidarios.
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1998)</small>
 
@@ -1425,7 +1425,7 @@ III.- Las demás que impongan otras disposiciones fiscales.
 
 21.- Son objeto del Impuesto sobre Profesiones y Ejercicios Lucrativos, los ingresos que se perciban con motivo del libre ejercicio de las profesiones y oficios derivados de los siguientes servicios.
 
-I.- El transporte público de personas;
+I.- El transporte público de personas.
 
 II.- Los de carácter profesional, cuando su prestación requiera título conforme a la Ley de Profesiones del Estado y su Reglamento.
 
@@ -1601,23 +1601,23 @@ Son sujetos de este impuesto, quienes causen los impuestos y derechos a que se r
 
 No causarán este Impuesto:
 
-I.- Los derechos de registro de escrituras relativas a créditos hipotecarios, refaccionarios o de habilitación o avío, destinados a actividades agropecuarias;
+I.- Los derechos de registro de escrituras relativas a créditos hipotecarios, refaccionarios o de habilitación o avío, destinados a actividades agropecuarias.
 
-II.- El Impuesto sobre compraventa de algodón;
+II.- El Impuesto sobre compraventa de algodón.
 
-III.- Los Impuestos a cargo de los ejidatarios;
+III.- Los Impuestos a cargo de los ejidatarios.
 
-IV.- El Impuesto sobre venta de primera mano de gasolina y derivados del petróleo destinados al consumo del Estado;
+IV.- El Impuesto sobre venta de primera mano de gasolina y derivados del petróleo destinados al consumo del Estado.
 
-V.- El Impuesto Sobre Hospedaje;
+V.- El Impuesto Sobre Hospedaje.
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 1975)</small>
 
-VI.- El Impuesto Sobre Actividades Mercantiles e Industriales solo por lo que se declare exento en el Artículo 56, de esta Ley;
+VI.- El Impuesto Sobre Actividades Mercantiles e Industriales solo por lo que se declare exento en el Artículo 56, de esta Ley.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1980)</small>
 
-VII.- Los derechos que se causen por los servicios prestados por los Organismos Descentralizados del Estado respecto de los cuales se pague el Impuesto al Valor Agregado;
+VII.- Los derechos que se causen por los servicios prestados por los Organismos Descentralizados del Estado respecto de los cuales se pague el Impuesto al Valor Agregado.
 
 > <small>(ADICIONADA, P.O. 20 DE JUNIO DE 1975)</small>
 
@@ -1651,7 +1651,7 @@ VIII.- El Impuesto Sobre Profesiones y Ejercicios Lucrativos.
 
 ###### ARTICULO 156
 
-6.- Los retenedores de éste impuesto deberán enterarlo en la Recaudación de Rentas del Estado correspondiente dentro de los días del 1ro. al 20 del mes siguiente a aquél en que haya sido retenido mediante la presentación de una declaración en las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado.
+6.- Los retenedores de este impuesto deberán enterarlo en la Recaudación de Rentas del Estado correspondiente dentro de los días del 1ro. al 20 del mes siguiente a aquél en que haya sido retenido mediante la presentación de una declaración en las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado.
 
 ###### ARTICULO 156
 
@@ -1867,13 +1867,13 @@ Los ingresos extraordinarios se regirán por las leyes que los establezcan o en 
 
 Los ingresos a que se refiere el Artículo anterior, podrán ser los siguientes:
 
-I.- Empréstitos;
+I.- Empréstitos.
 
-II.- Impuestos Extraordinarios;
+II.- Impuestos Extraordinarios.
 
-III.- Derechos extraordinarios por la prestación de servicios;
+III.- Derechos extraordinarios por la prestación de servicios.
 
-IV.- Expropiaciones;
+IV.- Expropiaciones.
 
 V.- Aportaciones extraordinarias de los Entes Públicos.
 
@@ -1891,15 +1891,15 @@ Para efectos de esta Ley se consideran:
 
 I.- Jubilados o Pensionados: aquellas personas que acreditan la calidad correspondiente a través de la documentación oficial expedida por las Instituciones Públicas de Seguridad Social que a continuación se señalan:
 
-a) Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California.
+a).- Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California.
 
-b) Instituto Mexicano del Seguro Social.
+b).- Instituto Mexicano del Seguro Social.
 
-c) Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+c).- Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
-d) Institutos de Seguridad y Servicios Sociales de las Fuerzas Armadas Mexicanas, de Petróleos Mexicanos, de la Comisión Federal de Electricidad y de Ferrocarriles Nacionales de México.
+d).- Institutos de Seguridad y Servicios Sociales de las Fuerzas Armadas Mexicanas, de Petróleos Mexicanos, de la Comisión Federal de Electricidad y de Ferrocarriles Nacionales de México.
 
-e) Otras instituciones de seguridad social que presten estos servicios en las diversas entidades federativas del país, o a diversas agrupaciones sindicales.
+e).- Otras instituciones de seguridad social que presten estos servicios en las diversas entidades federativas del país, o a diversas agrupaciones sindicales.
 
 II.- Indigentes mayores de 60 años y personas viudas en situación de indigencia mayores de 50 años: las que comprueben su edad con acta de nacimiento, o bien que se identifiquen con credencial expedida por el Instituto Nacional de las Personas Adultas Mayores; la viudez con el acta de defunción del cónyuge, y la indigencia, previo estudio socioeconómico con vigencia anual que realice el Sistema Estatal para el Desarrollo Integral de la Familia.
 
@@ -1915,7 +1915,7 @@ Las exenciones que este Título otorga a los Jubilados y Pensionados, así como 
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
 
-I.- IMPUESTO SOBRE COMPRAVENTA Y OPERACIONES SIMILARES que no excedan de un año de salario mínimo vigente en esta zona;
+I.- IMPUESTO SOBRE COMPRAVENTA Y OPERACIONES SIMILARES que no excedan de un año de salario mínimo vigente en esta zona.
 
 II.- (DEROGADA, P.O. 9 DE NOVIEMBRE DE 2001)
 
@@ -1961,41 +1961,41 @@ Las Empresas que con motivo de la realización de un proyecto de inversión, y e
 
 I. Impuesto sobre remuneraciones al trabajo personal:
 
-a) De 28 a 29 puntos, en un 100% respecto del impuesto que le corresponda cubrir durante el primer año del estímulo fiscal, por los empleos nuevos que se generen con motivo del proyecto de inversión.
+a).- De 28 a 29 puntos, en un 100% respecto del impuesto que le corresponda cubrir durante el primer año del estímulo fiscal, por los empleos nuevos que se generen con motivo del proyecto de inversión.
 
-b) De 30 a 31 puntos:
+b).- De 30 a 31 puntos:
 
 1. En un 100%, respecto del impuesto que le corresponda cubrir periódicamente, durante el primer año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión, y
 
 2. En un 50%, respecto del impuesto que le corresponda cubrir periódicamente, durante el segundo año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
 
-c) De 32 a 44 puntos:
+c).- De 32 a 44 puntos:
 
-1. En un 100% respecto del impuesto que le corresponda cubrir durante los dos primeros años del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión;
+1. En un 100% respecto del impuesto que le corresponda cubrir durante los dos primeros años del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
 
 2. En un 75% respecto del impuesto que le corresponda cubrir durante el tercer año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión, y
 
 3. En un 50% respecto del impuesto que le corresponda cubrir durante el primer, segundo y tercer año del estímulo fiscal por los empleos existentes, previos al proyecto de inversión.
 
-d) De 45 a 54 puntos:
+d).- De 45 a 54 puntos:
 
-1. En un 100% respecto del impuesto que le corresponda cubrir durante los dos primeros años del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión;
+1. En un 100% respecto del impuesto que le corresponda cubrir durante los dos primeros años del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
 
-2. En un 75% respecto del impuesto que le corresponda cubrir durante el tercer año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión;
+2. En un 75% respecto del impuesto que le corresponda cubrir durante el tercer año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
 
 3. En un 50% respecto del impuesto que le corresponda cubrir durante el cuarto año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión, y
 
 4. En un 50% respecto del impuesto que le corresponda cubrir durante el primer, segundo, tercer y cuarto año del estímulo fiscal por los empleos existentes, previos al proyecto de inversión.
 
-e) De 55 puntos o más:
+e).- De 55 puntos o más:
 
-1. En un 100% respecto del impuesto que le corresponda cubrir durante los dos primeros años del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión;
+1. En un 100% respecto del impuesto que le corresponda cubrir durante los dos primeros años del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
 
-2. En un 75% respecto del impuesto que le corresponda cubrir durante el tercer año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión;
+2. En un 75% respecto del impuesto que le corresponda cubrir durante el tercer año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
 
-3. En un 50% respecto del impuesto que le corresponda cubrir durante el cuarto año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión;
+3. En un 50% respecto del impuesto que le corresponda cubrir durante el cuarto año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
 
-4. En un 25% respecto del impuesto que le corresponda cubrir durante el quinto año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión;
+4. En un 25% respecto del impuesto que le corresponda cubrir durante el quinto año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
 
 5. En un 50% respecto del impuesto que le corresponda cubrir durante el primero, segundo, tercer y cuarto año del estímulo fiscal por los empleos existentes, previos al proyecto de inversión, y
 
@@ -2007,9 +2007,9 @@ Para calcular el importe de los pagos por remuneraciones al trabajo personal sub
 
 II. Derechos de conexión al sistema de agua potable y alcantarillado sanitario:
 
-a) De 45 a 59 puntos, en un 20% del pago total, por única ocasión.
+a).- De 45 a 59 puntos, en un 20% del pago total, por única ocasión.
 
-b) De 60 puntos o más, en un 50% del pago total, por única ocasión.
+b).- De 60 puntos o más, en un 50% del pago total, por única ocasión.
 
 Los sujetos de exención de pago del impuesto sobre remuneraciones al trabajo personal a que se refiere este artículo, deberán cumplir con las demás obligaciones fiscales relativas al mismo, como es la de presentar las declaraciones periódicas que correspondan en las formas que establezca la Secretaría de Planeación y Finanzas, así como la demás información que en las mismas se establezcan.
 
@@ -2021,7 +2021,9 @@ Para que las Empresas puedan hacerse acreedoras de los estímulos fiscales previ
 
 Para la solicitud y extinción de los estímulos fiscales a que se refiere el artículo anterior, se estará a lo dispuesto en la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California y demás disposiciones aplicables.
 
-Los estímulos fiscales corresponderán a aquellos que la Empresa solicite y que la Autoridad resuelva procedentes, e iniciarán a partir de la fecha que dicha Empresa indique en la solicitud a que se refiere el artículo 14 de la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California. La fecha de inicio no podrá ser menor de sesenta días hábiles ni mayor de un año, contado a partir de la presentación de la solicitud.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2010)</small>
+
+Los estímulos fiscales corresponderán a aquellos que la Empresa solicite y que la Autoridad resuelva procedentes, e iniciarán a partir de la fecha que dicha Empresa indique en la solicitud a que se refiere el Artículo 14 de la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California o en su defecto a partir del día siguiente de la notificación de la resolución de procedencia por la autoridad competente. La fecha que señale la empresa no podrá ser mayor a un año, contado a partir de la presentación de dicha solicitud.
 
 En caso de que la fecha de inicio indicada por la empresa solicitante, sea anterior a la notificación de la resolución de procedencia, el estímulo fiscal iniciará a partir del día siguiente a aquel en que se haya realizado dicha notificación.
 
@@ -2522,3 +2524,7 @@ Se deroga el artículo segundo transitorio del Decreto número 185, publicado en
 P.O. 5 DE JUNIO DE 2009.
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE AGOSTO DE 2010.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
