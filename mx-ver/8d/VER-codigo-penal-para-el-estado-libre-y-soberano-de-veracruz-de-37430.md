@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2010-08-10"
+last_updated: "2010-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2010.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -3087,6 +3087,10 @@ Si la declaración falsa hubiere sido elemento de convicción para la imposició
 
 A quien simule actos jurídicos o altere elementos de prueba para obtener una resolución judicial o administrativa, de la que derive el perjuicio de alguien o un beneficio indebido, se le impondrán de seis meses a cinco años de prisión y multa hasta de cuarenta días de salario.
 
+### CAPÍTULO I. ESPIONAJE CONTRA LAS INSTITUCIONES DE SEGURIDAD PUBLICA
+
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 338.
 
 A quien ante la autoridad impute falsamente a una persona un hecho calificado como delito, o simule en su contra la existencia de pruebas materiales, se le impondrán de tres a diez años de prisión y multa hasta de cuarenta días de salario.
@@ -3162,6 +3166,10 @@ II. Venda o prometa vender construcciones ubicadas en conjuntos habitacionales.
 ###### Artículo 351.
 
 Estos delitos se perseguirán por querella del particular afectado o de la autoridad facultada para conceder el permiso o la licencia correspondiente, quienes podrán otorgar el perdón judicial, cuando el infractor satisfaga los requisitos de la ley aplicable y sus reglamentos, acredite la reparación de los daños que pudiera haber causado y pague las multas que se le impongan.
+
+## TÍTULO XXII. DELITOS CONTRA LA SEGURIDAD PUBLICA
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA G.O. 27 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 352.
 
@@ -3384,6 +3392,14 @@ VI. Violencia sexual: Acto que degrada o daña el cuerpo o la sexualidad de la v
 Al sujeto activo de los delitos considerados en este Título, se le aplicarán medidas reeducativas, integrales, especializadas y gratuitas, conforme a los programas establecidos por el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, en el lugar y por el tiempo que la autoridad jurisdiccional indique.
 
 Estas medidas reeducativas tienen por objeto eliminar los estereotipos de supremacía de género y los patrones de conducta machistas y misóginos, que generaron la conducta delictiva.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, G.O. 27 DE AGOSTO DE 2010)</small>
+
+###### Artículo 371.
+
+Se impondrán de tres a quince años de prisión y multa de hasta cuatrocientos días de salario, a quien aceche o realice acciones de espionaje con el propósito de obtener información sobre la ubicación, las actividades, los operativos o labores en general que, en el desempeño de sus funciones, realicen elementos de instituciones de seguridad pública, sean éstas de vigilancia, de persecución, de investigación, de sanción del delito o de ejecución de penas.
+
+Si el sujeto activo es un servidor público, las penas señaladas en el párrafo anterior se incrementarán hasta en una mitad y se impondrá la inhabilitación para el desempeño de empleo, cargo o comisión públicos, hasta por el término de quince años.
 
 ## TRANSITORIOS
 
@@ -3632,3 +3648,9 @@ G.O. 10 DE AGOSTO DE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+G.O. 27 DE AGOSTO DE 2010.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
