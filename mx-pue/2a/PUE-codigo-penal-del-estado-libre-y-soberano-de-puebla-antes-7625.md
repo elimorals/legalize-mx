@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2010-04-16"
+last_updated: "2010-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -491,11 +491,15 @@ I.- Tendrá carácter de preferente con respecto a la multa y a cualquier otra o
 
 II.- Si el ofendido o la persona que tuviere derecho al pago de la reparación del daño, renunciare al cobro de la misma, cuyo monto haya sido acreditado dentro del proceso y se haya determinado en sentencia, el Estado se subrogará legalmente, a través de la Procuraduría General de Justicia, en los derechos de aquélla y destinará el importe devengado al Fondo que se constituya de acuerdo con la Ley para la Protección a Víctimas de Delitos.
 
-### CAPITULO DUODECIMO.- DECOMISO, PERDIDA DE LOS INSTRUMENTOS DEL DELITO Y DESTRUCCION DE COSAS PELIGROSAS Y NOCIVAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE AGOSTO DE 2010)</small>
+
+### CAPITULO DUODECIMO.- ASEGURAMIENTO, ENAJENACIÓN DE BIENES ABANDONADOS, DECOMISO, PÉRDIDA DE LOS INSTRUMENTOS DEL DELITO Y DESTRUCCIÓN DE COSAS PELIGROSAS Y NOCIVAS
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 52.
 
-Los instrumentos del delito y cualquiera otra cosa con que se cometa o intente cometerse, así como las cosas que sean efecto de él, se decomisarán si fueren de uso prohibido.
+Los instrumentos del delito y cualquier otra cosa con que se cometa o intente cometerse, las cosas que sean efecto de él, así como los objetos, bienes o valores vinculados con la investigación del hecho probablemente delictuoso se asegurarán por las autoridades investigadoras, mediante acuerdo en el que se describan e identifiquen de manera pormenorizada. En caso de que fueren de uso prohibido serán decomisados.
 
 ###### Artículo 53.
 
@@ -504,6 +508,14 @@ Si los objetos a que se refiere el artículo anterior fueren de uso lícito, se 
 I.- Cuando sean de la propiedad del acusado y éste fuere condenado; y
 
 II.- Cuando perteneciendo a otra persona, los haya empleado el acusado para fines delictuosos con conocimiento del dueño.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2010)</small>
+
+###### Artículo 53 Bis.
+
+El aseguramiento de los objetos, bienes o valores que sean de uso lícito y no exista necesidad legal para su retención, se notificará, dentro de los diez días naturales siguientes al acuerdo de la autoridad ministerial que así lo determine, de forma personal al propietario, en caso de desconocerlo la notificación se hará a quien se crea con derecho a través de una publicación en el Periódico Oficial del Estado y en un diario de los de mayor circulación en la Entidad, para que manifiesten lo que a su derecho convenga, una vez justificado su interés jurídico, apercibidos que de no hacerlo en un término de noventa días naturales siguientes al de la última publicación los bienes causarán abandono a favor del Estado.
+
+En el caso de que dichos objetos o bienes no se puedan conservar o sean de costoso mantenimiento, el Titular de la autoridad investigadora procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho al mismo por un lapso de noventa días, notificándole en términos de lo establecido en el párrafo que antecede; transcurrido el plazo, si no hubiese sido reclamado, se aplicará al mejoramiento de la procuración de justicia.
 
 ###### Artículo 54.
 
@@ -521,13 +533,19 @@ Las autoridades competentes procederán al aseguramiento de los bienes que pudie
 
 Si los instrumentos o cosas decomisadas son substancias nocivas o peligrosas se destruirán a juicio de la autoridad que esté conociendo, la que de estimarlo conveniente, podrá determinar su conservación para fines de docencia o investigación.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 56 Bis.
 
-Los objetos o valores que se encuentren a disposición de las autoridades investigadoras, no comprendidos en los supuestos de los artículos 52, 53, 54 y 55 y que no sean recogidos por quien tenga derecho a ello en un lapso de noventa días naturales, contados a partir de la notificación al interesado, se enajenarán en subasta pública y el producto de la venta se aplicará a quien tenga derecho a recibirlo. Si notificado, no se presenta dentro de los seis meses siguientes a la fecha de la notificación, el producto de la venta se destinará al mejoramiento de la procuración de justicia, previas las deducciones de los gastos ocasionados.
+Los objetos, bienes o valores que no hayan sido reclamados en el término señalado en el artículo 53 Bis por quien tenga derecho a ellos, serán declarados en estado de abandono, mediante acuerdo que emita la autoridad investigadora, el cual se publicará por una sola vez en el Periódico Oficial del Estado y en un diario de mayor circulación en la Entidad, para que en el improrrogable término de treinta días naturales realice las impugnaciones correspondientes ante la autoridad investigadora; transcurrido el plazo sin reclamación alguna, el acuerdo surtirá sus efectos legales.
 
-Lo mismo se observará tratándose de objetos o valores a disposición de la autoridad judicial, con la circunstancia de que el producto de la venta se destinará al mejoramiento de la administración de justicia.
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2010)</small>
+
+###### Artículo 56 Ter.
+
+Los objetos, bienes o valores que causen estado de abandono a favor del Estado, se enajenarán en subasta pública por conducto del Titular de la autoridad investigadora, observando los procedimientos previstos en las disposiciones y normatividad aplicables, y el producto de la venta se aplicará al mejoramiento de la procuración de justicia, previas las deducciones de los gastos ocasionados.
+
+Lo mismo se observará tratándose de objetos, bienes o valores decomisados por la autoridad judicial, con la circunstancia de que el producto de la venta se destinará al mejoramiento de la administración de justicia.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -913,7 +931,7 @@ La sanción a los delincuentes habituales, será la que corresponda imponerles p
 
 ###### Artículo 99 Bis.
 
-En caso de que el error a que se refiere el inciso a) de la fracción XI del artículo 26 sea vencible, la punibilidad será la del delito culposo si el hecho de que se trata admite dicha forma de realización; si el error vencible es el previsto en el inciso b) de dicha fracción, la punibilidad será hasta de las dos terceras partes del delito de que se trate.
+en caso de que el error a que se refiere el inciso a) de la fracción XI del artículo 26 sea vencible, la punibilidad será la del delito culposo si el hecho de que se trata admite dicha forma de realización; si el error vencible es el previsto en el inciso b) de dicha fracción, la punibilidad será hasta de las dos terceras partes del delito de que se trate.
 
 CAPITULO DECIMONOVENO.- CONMUTACION DE SANCIONES
 
@@ -2305,7 +2323,7 @@ Las mismas penas se impondrán, a quien utilice indebidamente información confi
 
 Si el sujeto activo es empleado o dependiente del ofendido, las penas aumentarán en una mitad.
 
-En caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo, se aplicarán las reglas del concurso.
+En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo, se aplicarán las reglas del concurso.
 
 ###### Artículo 246.
 
@@ -3489,17 +3507,25 @@ IV.- Cuando el valor de lo robado sobrepasare doscientos cincuenta días de sala
 
 V.- Si el objeto del robo es un vehículo de motor, como motocicletas, automóviles, camiones, tractores u otros semejantes, se impondrá prisión de cinco a doce años y multa de quinientos a mil días de salario.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 375.
 
-Se impondrá la sanción establecida en la fracción V del artículo 374:
+Se impondrá la sanción establecida en la fracción V del artículo 374 de este Código a quien:
 
-I.- A quien enajene o adquiera uno o más vehículos de motor de los enumerados en la mencionada fracción V del artículo 374, a sabiendas de que dicho vehículo o vehículos son robados;
+I.- Enajene o adquiera uno o más vehículos de motor de los enumerados en la mencionada fracción V del artículo 374, a sabiendas de que dicho vehículo o vehículos son robados;
 
-II.- A quien enajene o adquiera por tres o más veces uno o más de los vehículos enumerados en la mencionada fracción V del artículo 374, sin cerciorarse previamente de su legítima procedencia; y
+II.- Enajene o adquiera por tres o más veces uno o más de los vehículos enumerados en la mencionada fracción V del artículo 374, sin cerciorarse previamente de su legítima procedencia;
 
-III.- La misma sanción se aplicará a quienes desarmen los vehículos a que se refieren las fracciones anteriores o dispongan de ellos por partes.
+III.- Desarme los vehículos a que se refieren las fracciones anteriores o disponga de ellos por partes;
+
+IV.- Detente, posea o custodie documentación alterada que acredite o pretenda acreditar la propiedad o los medios de identificación de un vehículo robado, a sabiendas de su ilegítima procedencia;
+
+V.- Altere o modifique de cualquier manera la documentación que acredite la propiedad o los medios de identificación de un vehículo robado;
+
+VI.- Traslade o transporte uno o más vehículos de un lugar a otro dentro del Estado, a otra Entidad Federativa, al Distrito Federal o al extranjero a sabiendas de que dicho vehículo o vehículos son robados; y
+
+VII.- Después de la ejecución del robo y sin que participe en el mismo, adquiera, posea, desmantele, venda, enajene, comercialice, trafique, pignore, reciba, traslade, use, oculte o publicite por cualquier medio un vehículo de motor, a sabiendas de que es robado.
 
 ###### Artículo 376.
 
@@ -3691,7 +3717,7 @@ II.- El hecho de que una persona haga aparecer, como suyo, un depósito que gara
 
 ###### Artículo 398.
 
-No se sancionará como abuso de confianza, la simple retención de la cosa recibida, cuando no se haga con el fin de apropiársela, o disponer de ella como dueño. Se sancionará como abuso de confianza la retención de la cosa recibida, por quien, requerido judicial o notarialmente se oponga sin causa legal a entregarla a quien legítimamente le corresponde.
+No se sancionará como abuso de confianza, la simple retención de la cosa recibida, cuando no se haga con el fin de apropiársela, o disponer de ella como dueño. Se sancionará como abuso de confianza la retención de la cosa recibida, por quien, requerido judicial o notarialmente, se oponga sin causa legal a entregarla a quien legítimamente le corresponde.
 
 ###### Artículo 399.
 
@@ -4642,5 +4668,11 @@ SEGUNDO.- Se derogan las disposiciones que contravengan las contenidas en el pre
 P.O. 16 DE ABRIL DE 2010.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
