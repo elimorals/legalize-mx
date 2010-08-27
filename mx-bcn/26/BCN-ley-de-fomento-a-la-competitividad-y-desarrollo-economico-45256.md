@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-competitividad-y-desarrollo-economico-45256
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2009-08-28"
+last_updated: "2010-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONOMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2010.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2005.
 
@@ -63,6 +63,18 @@ III. Consejo: El Consejo Estatal Empresarial, que opera como órgano del sector 
 
 IV. Empresa: La persona física o moral legalmente constituida, cuyo objeto sea llevar a cabo actividades económicas para la producción o el intercambio de bienes y servicios para el mercado;
 
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2010)</small>
+
+De igual forma, se entenderá por Empresa:
+
+a) Las personas morales nacionales que conjuntamente aporten sus servicios de manera complementaria entre sí, para consolidar un mismo proyecto de inversión en Baja California, siempre y cuando estén corporativamente vinculadas para la actividad económica a las (sic) que se dediquen.
+
+b) La persona moral nacional que sea contratada por una empresa extranjera que requiere de la conjunción de esfuerzos y servicios para ejecutar un proyecto de inversión en Baja California. La empresa contratada deberá prestar por lo menos los siguientes servicios: contratación de personal, administración de recursos humanos y materiales, servicios contables, pago de nomina y operación de tráfico y aduanas.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2010)</small>
+
+El reglamento de la presente Ley establecerá los mecanismos para la debida aplicación de los beneficios fiscales relativos a las empresas señaladas en los incisos anteriores.
+
 V. Estímulos: Apoyos que se otorgan en los términos de esta Ley y las disposiciones fiscales de carácter estatal;
 
 VI. FOINFRA: El Fondo de Infraestructura Pública para el Fomento a la Inversión privada;
@@ -89,9 +101,15 @@ b) Inversión en Ampliación: La que se destina a ampliar las operaciones produc
 
 c) Inversión en Tecnología: Inversiones cuyo modelo de negocios se basa en el conocimiento científico y tecnológico, que destinan un porcentaje de sus ventas anuales a la investigación y/o el desarrollo experimental, y se clasifican a su vez en:
 
-1. Bienes de Capital: Las orientadas al diseño, procesamiento o manufactura de nuevos productos y servicios de alta tecnología, y
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2010)</small>
+
+1. Bienes de Capital: Las orientadas al diseño, procesamiento y/o manufactura de nuevos productos, servicios de alta tecnología o la implementación de procesos de producción innovadores que incrementan su capacidad, reduzcan tiempos y/o ahorren energía.
 
 2. Capital Humano: Las orientadas en desarrollar, atraer y lograr la permanencia del capital humano altamente calificado, capaz de realizar acciones encaminadas a la investigación y desarrollo tecnológico y científico de productos o servicios.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2010)</small>
+
+3. Recursos Materiales: Todos aquellos bienes que utiliza una empresa para la consecución de sus fines.
 
 XV. Reglamento: El Reglamento de la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California;
 
@@ -167,7 +185,13 @@ r) La utilización de tecnología limpia que incluya equipos, dispositivos, meca
 
 s) La preservación y restauración del equilibrio ecológico, así como la prevención del deterioro ambiental, de manera que sea compatible la obtención de beneficios económicos y las actividades de la sociedad, con la preservación de los ecosistemas, y
 
-t) Las demás acciones que sean necesarias para el cumplimiento del objeto y fines propuestos en la Ley.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2010)</small>
+
+t) El fortalecimiento a las microempresas de reciente creación, a través de la gestión de apoyos y estímulos que las consoliden; y,
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2010)</small>
+
+u) Las demás acciones que sean necesarias para el cumplimiento del objeto y fines propuestos en la Ley.
 
 ###### Artículo 5.
 
@@ -512,6 +536,12 @@ a) Por servicio de comedor 1 punto
 b) Por servicio de transporte público o privado 1 punto
 
 c) Por servicio de guardería 1 punto
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2010)</small>
+
+VIII. Empleo de Tecnología Limpia en el Proceso Productivo.
+
+Esquema 1. Por implementar programas que les permitan reciclar cuando menos el 50% de los residuos que resulten de sus procesos productivos, 2 puntos.
 
 El plazo para que la Empresa cumpla con los supuestos previstos en las fracciones I, II y III, será de 2 años, contado a partir de que se determine la procedencia de la solicitud de Estímulos fiscales.
 
@@ -882,3 +912,9 @@ Se deroga el artículo segundo transitorio del Decreto número 185, publicado en
 P.O. 28 DE AGOSTO DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE AGOSTO DE 2010.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo del Estado dentro de los noventa días siguientes a la entrada en vigor de estas Reformas, deberá expedir las disposiciones reglamentarias correspondientes.
