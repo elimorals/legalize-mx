@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2010-01-29"
+last_updated: "2010-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -547,9 +547,9 @@ XIII.- Vigilar, coordinar y evaluar el funcionamiento del Órgano de Fiscalizaci
 
 XIV.- Nombrar y remover al Auditor Superior de Fiscalización;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2010)</small>
 
-XV.- Nombrar a los Magistrados Numerarios del Tribunal Superior de Justicia así como a sus respectivos Supernumerarios en orden de prelación, y resolver respecto a su ratificación o no ratificación. Nombrar a los Magistrados del Tribunal de Justicia Electoral y designar a los Consejeros Numerarios y Supernumerario (sic) de la Judicatura del Poder Judicial;
+XV.- Nombrar a los Magistrados Numerarios del Tribunal Superior de Justicia, así como a sus respectivos Supernumerarios en orden de prelación, y resolver respecto a su ratificación o no ratificación. Nombrar a los Magistrados del Tribunal de Justicia Electoral y designar a dos Consejeros de la Judicatura del Poder Judicial;
 
 XVI.- Designar, en los términos que previene esta Constitución, al ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas;
 
@@ -975,7 +975,9 @@ V.- Rendir un informe general, por escrito, del estado que guarde la Administrac
 
 VI.- Pedir y dar informes al Congreso y al Tribunal Superior de Justicia;
 
-VII.- (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2001)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2010)</small>
+
+VII.- Designar a un Consejero de la Judicatura del Poder Judicial.
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1293,7 +1295,7 @@ VII. No haber ocupado cargo de elección popular, titular de una dependencia o e
 
 Las designaciones de jueces serán hechas, preferentemente de entre aquellas personas que presten o hubieren prestado sus servicios con eficacia y probidad en la Administración de Justicia, o que, sin haber laborado en el Poder Judicial, lo merezcan por su honorabilidad, competencia y antecedentes profesionales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 63.
 
@@ -1333,11 +1335,15 @@ VIII.- Establecer mecanismos que transparenten y propicien la rendición de cuen
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2007)</small>
 
-IX.- Emitir opinión respecto al proyecto de Plan de Desarrollo Judicial que le presente el Consejo de la Judicatura, en los términos de la Ley, y
+IX.- Emitir opinión respecto al proyecto de Plan de Desarrollo Judicial que le presente el Consejo de la Judicatura, en los términos de la Ley, y (sic)
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2010)</small>
 
-X.- Ejercer las demás atribuciones que les señale esta Constitución y las Leyes.
+X.- Designar a tres Consejeros de la Judicatura en los términos de esta Constitución;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2010)</small>
+
+XI.- Ejercer las demás atribuciones que les señale esta Constitución y las Leyes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
@@ -1363,17 +1369,33 @@ El Consejo de la Judicatura se integrará por:
 
 I.- El Presidente del Tribunal Superior de Justicia, quien lo presidirá;
 
-II.- El Presidente del Tribunal de Justicia Electoral, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2010)</small>
 
-III.- TRES CONSEJEROS DESIGNADOS POR MAYORÍA CALIFICADA DEL CONGRESO DEL ESTADO, PREVIA CONVOCATORIA PÚBLICA, QUIENES DURARÁN EN EL CARGO SEIS AÑOS.
+II.- Dos Magistrados del Tribunal Superior de Justicia del Estado, designados por mayoría de los integrantes del Pleno del citado Tribunal;
 
-(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2010)</small>
 
-ADEMÁS, EL CONGRESO DESIGNARÁ A UN CONSEJERO SUPERNUMERARIO EN LOS TÉRMINOS DE LA FRACCIÓN III DE ESTE ARTÍCULO.
+III.- Un Juez designado por mayoría de los integrantes del Pleno del Tribunal Superior de Justicia del Estado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2010)</small>
+
+IV.- Dos Consejeros designados por mayoría calificada del Congreso del Estado, en términos de la convocatoria que éste apruebe, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2010)</small>
+
+V.- Un Consejero designado por el Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2010)</small>
+
+Los Consejeros señalados en las fracciones II, III, IV y V durarán en su cargo cuatro años.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -1381,11 +1403,13 @@ ADEMÁS, EL CONGRESO DESIGNARÁ A UN CONSEJERO SUPERNUMERARIO EN LOS TÉRMINOS D
 
 Los Consejeros de la Judicatura deberán reunir los requisitos señalados en el artículo 60 de esta Constitución, y ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades.
 
-Los Consejeros previstos en la fracción III y último párrafo del artículo 64, serán sustituidos de manera escalonada, y en ningún caso serán designados para un nuevo periodo.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2010)</small>
 
-(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+Las personas que hayan ejercido el cargo de Consejeros en los términos previstos en las fracciones IV y V del artículo 64 de esta Constitución, no tendrán derecho a ser ratificados y en ningún caso podrán volver a ser designados para este cargo.
 
-EL CONSEJO FUNCIONARÁ EN PLENO O POR COMISIONES. PARA QUE LAS SESIONES DEL PLENO DEL CONSEJO SEAN VÁLIDAS SERÁ NECESARIA LA ASISTENCIA DE CUANDO MENOS TRES CONSEJEROS, DEBIENDO ESTAR SIEMPRE PRESENTE EL PRESIDENTE O EL CONSEJERO SECRETARIO, QUIENES EJERCERÁN LAS FACULTADES QUE LES SEÑALE LA LEY.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2010)</small>
+
+El Consejo funcionará en Pleno o por Comisiones.
 
 Corresponderá al Consejo de la Judicatura el desarrollo de la carrera judicial. Al Pleno del Consejo le corresponderá proponer al Pleno del Tribunal Superior la designación, adscripción, remoción y renuncia de Jueces del Poder Judicial en los términos de la Ley y el reglamento respectivo. Las propuestas de nombramiento de Jueces, Secretarios de Acuerdos, Actuarios y del personal jurisdiccional del Tribunal Superior de Justicia se integrarán con quienes hayan resultado aprobados en los exámenes psicométricos, de oposición y de méritos practicados por el Consejo de la Judicatura, conforme a la Ley y el reglamento respectivo. Los Secretarios de Acuerdos y Actuarios serán seleccionados por el Juez respectivo de entre quienes integren la lista que le presente el Consejo. Asimismo, resolverá los demás asuntos que la Ley determine.
 
@@ -2223,7 +2247,7 @@ V.- La Oficina del Registro de Electores, teniendo en cuenta los datos del Censo
 
 VI.- En cada una de las cabeceras de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
 
-VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal;
+VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal.
 
 En cada Comité Distrital los Partidos Políticos a que se refiere la base IX podrán acreditar, cada uno de ellos, un representante propietario y un suplente. Los representantes serán citados a las sesiones que celebre el Comité y podrán intervenir, sin voto, en sus deliberaciones. Las designaciones de representantes ante los Comités Distritales serán registrados en la Comisión Electoral del Estado.
 
@@ -2941,7 +2965,9 @@ TERCERO.- Las reformas a la Ley Orgánica del Poder Judicial del Estado, o en su
 
 CUARTO.- A más tardar el día treinta de junio del año dos mil siete, deberá ser remitido al Congreso del Estado y publicado en el Periódico Oficial del Estado, el Plan de Desarrollo Judicial a que hace mención el quinto párrafo del artículo 57 de estas reformas.
 
-QUINTO.- En la elección del próximo Presidente del Tribunal Superior de Justicia, será aplicable lo dispuesto por la fracción VI del artículo 63 de las presentes reformas, pudiendo ser elegible para esos efectos cualquiera de los Magistrados que integran el Tribunal, incluso quien en ese momento ejerza el cargo de Presidente.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2010)</small>
+
+QUINTO.- Las reformas contenidas en el inciso b) del artículo 58 de la Constitución Política del Estado Libre y Soberano de Baja California, solo serán aplicables a las personas que con posterioridad al día 2 de febrero de 2007 hayan sido nombrados como Magistrados, o tomando en consideración la citada fecha y siendo Magistrados no hayan alcanzado el derecho de inamovilidad judicial. Por lo tanto la citada disposición normativa no resultará aplicable a los Magistrados que con anterioridad a esa fecha hayan adquirido el derecho a la inamovilidad judicial.
 
 SEXTO.- La limitante prevista en el articulo 60 fracción VIII de estas reformas en relación a que para ser Magistrado se requiere no haber sido Consejero de la Judicatura durante el año previo a la fecha en que deba ser nombrado, no será aplicable al Juez que actualmente integra el Consejo de la Judicatura.
 
@@ -3146,3 +3172,15 @@ P.O. 29 DE ENERO DE 2010.
 PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
 SEGUNDO.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, la presente reforma se declarará parte de esta Constitución.
+
+P.O. 27 DE AGOSTO DE 2010.
+
+Primero.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+Segundo.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, las presentes reformas se declararán parte de esta Constitución.
+
+Tercero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Cuarto.- Las designaciones de los Consejeros señalados en las fracciones II, III, IV y V del artículo 64 de estas reformas deberán realizarse en alguna (s) fecha (s) que se encuentre (n) ubicada (s) entre la entrada en vigor de este Decreto y el día treinta de noviembre de 2010, surtiendo las designaciones sus efectos jurídicos el día 1 de diciembre de 2010.
+
+La persona o personas que al momento de la publicación de este Decreto detenten el carácter de Consejero o Consejeros de la Judicatura y su mandato exceda el día 30 de noviembre de 2010, cesará en esta función ese día, salvo que se trate de un Magistrado del Tribunal Superior de Justicia que sea designado Consejero de la Judicatura en los términos del artículo 64 fracción II de estas reformas para el periodo del Consejo que inicia el día primero de diciembre de 2010.
