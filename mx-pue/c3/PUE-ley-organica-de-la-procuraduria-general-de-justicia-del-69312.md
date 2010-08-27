@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-procuraduria-general-de-justicia-del-69312"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-15"
-last_updated: "2009-12-30"
+last_updated: "2010-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2010.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -272,6 +272,32 @@ n) Determinar el no ejercicio de la acción penal cuando:
 5. Resulte imposible la prueba de la existencia de los hechos que la Ley señala como delito;
 
 6. En los demás casos que determinen las leyes;
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2010)</small>
+
+o) En materia de delitos contra la salud, en su modalidad de narcomenudeo, además de las señaladas en los incisos anteriores:
+
+1. Conocer de los delitos previstos en la Ley General de Salud, en los términos que la misma establece;
+
+2. Rendir los informes de los delitos que solicite el Ministerio Público Federal, mediante los sistemas e instrumentos tecnológicos señalados en los ordenamientos legales aplicables;
+
+3. Rendir los informes o remitir las actuaciones correspondientes a la autoridad competente, según el caso, en términos de la legislación aplicable;
+
+4. Practicar las diligencias que correspondan en los términos de la Ley de la materia;
+
+5. Remitir al Ministerio Público Federal, sin demora, a las personas detenidas, en los casos previstos en la Ley General de Salud;
+
+6. Observar las disposiciones del Código Federal de Procedimientos Penales, tratándose tanto de delitos graves como del destino y destrucción de narcóticos;
+
+7. Informar a las autoridades de salud el no ejercicio de la acción penal;
+
+8. Informar a la autoridad administrativa competente, en caso de tener conocimiento de que algún establecimiento sea utilizado para la comisión del delito;
+
+9. Informar al consumidor de estupefacientes o psicotrópicos el domicilio de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la farmacodependencia.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2010)</small>
+
+p) Las demás que señalen otras disposiciones legales.
 
 II. Ante los Órganos Jurisdiccionales:
 
@@ -1396,3 +1422,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Dadas las presentes reformas se amplía el plazo por treinta días más al señalado en el artículo Sexto Transitorio de los del Decreto a través del cual se expide la Ley Orgánica de la Procuraduría General de Justicia del Estado de Puebla, publicado en el Periódico Oficial del Estado el día quince de julio de dos mil nueve, para emitir las disposiciones reglamentarias correspondientes.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
