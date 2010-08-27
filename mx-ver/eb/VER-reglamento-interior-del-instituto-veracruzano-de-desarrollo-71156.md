@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-instituto-veracruzano-de-desarrollo-711
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-02"
-last_updated: "2009-12-02"
+last_updated: "2010-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DE DESARROLLO MUNICIPAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2010.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 2 de diciembre de 2009.
 
-Junta de Gobierno del Instituto Veracruzano de Desarrollo Municipal del Estado de Veracruz de Ignacio de la Llave
+Junta de Gobierno del Instituto Veracruzano de Desarrollo Municipal del Estado de Veracruz de Ignacio de la Llave.
 
 La Junta de Gobierno del Instituto Veracruzano de Desarrollo Municipal, en cumplimiento a lo dispuesto por el artículo 10, fracción I, de la Ley número 224 del Instituto Veracruzano de Desarrollo Municipal, tenemos a bien expedir el siguiente:
 
@@ -102,6 +102,10 @@ a) Oficina de Recursos Humanos y Materiales
 b) Oficina de Recursos Financieros
 
 V. Unidad de Acceso a la Información Pública
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2010)</small>
+
+VI. Unidad de Género
 
 ###### Artículo 8.
 
@@ -301,9 +305,13 @@ XII. Coordinar los programas del Gobierno del Estado en materia de capacitación
 
 XIII. Establecer normas y políticas mediante las cuales el Instituto proporcionará datos y cooperación técnica que sean requeridos por las dependencias y entidades de la administración pública estatal y municipal;
 
-XIV. Instrumentar y supervisar los programas de modernización y servicios del Instituto; y
+XIV. Instrumentar y supervisar los programas de modernización y servicios del Instituto; y (sic)
 
-XV. Las demás que le atribuyan las leyes, el presente reglamento, así como por acuerdo de la Junta o su Presidente.
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2010)</small>
+
+XV. Certificar las copias de los documentos que obren en sus archivos;
+
+XVI. Las demás que le atribuyan las leyes, el presente reglamento, así como por acuerdo de la Junta o su Presidente.
 
 ### CAPÍTULO IV. De las Jefaturas de Departamento
 
@@ -489,6 +497,34 @@ A la Jefatura del Departamento Administrativo estarán adscritas la Oficina de R
 
 El funcionamiento de la Unidad de Acceso a la Información Pública del Instituto, se regirá por lo dispuesto en su Reglamento de Operación.
 
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2010)</small>
+
+###### Artículo 36 Bis.
+
+La Unidad de Género del Instituto se regirá de acuerdo a las siguientes funciones:
+
+I. Participar en los procesos de planeación, programación y presupuestación de la Entidad, con el fin de proponer las medidas que permitan la incorporación de la perspectiva de género;
+
+II. Realizar acciones encaminadas a disminuir la desigualdad entre mujeres y hombres en el Instituto;
+
+III. Generar y actualizar estadísticas, así como elaborar diagnósticos sobre la situación de las mujeres en el Instituto y en los Ayuntamientos que integran el Estado;
+
+IV. Brindar asesoría en materia de igualdad de género al personal del Instituto;
+
+V. Promover la revisión y/o actualización de la normativa administrativa con perspectiva de género;
+
+VI. Coordinar acciones interinstitucionales con el Instituto Veracruzano de las Mujeres en materia de igualdad de género;
+
+VII. Coadyuvar con el Instituto Veracruzano de las Mujeres en la promoción de la creación de las Unidades de Género en los 212 gobiernos;
+
+VIII. Elaborar y someter a autorización del o la titular del Instituto, el Programa Anual de Trabajo, para fortalecer la igualdad de género dentro de las mismas;
+
+IX. Implementar dentro del Instituto, las políticas y lineamientos para alcanzar la igualdad entre Mujeres y Hombres, a fin de dar cumplimiento a las disposiciones de la Ley de la materia;
+
+X. Capacitar y preparar adecuada y oportunamente al personal de la Unidad de Género, con el propósito de cumplir las funciones que se les encomienden; y,
+
+XI. Las demás que les atribuyan la Ley, el presente Reglamento y demás disposiciones legales aplicables, así como las que les sean conferidas por el Director General.
+
 #### SECCIÓN PRIMERA (SIC). De la Contraloría Interna
 
 ###### Artículo 37.
@@ -548,3 +584,9 @@ C.P. David Castro Cruz, Vocal Suplente del Presidente Municipal del Ayuntamiento
 Lic. Víctor Hugo Cuevas Rosas, Comisario Público Suplente.- Rúbrica.
 
 LAE. Alejandro Sergio López Contreras, Titular del Órgano Interno de Control de la Segob.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 27 DE AGOSTO DE 2010.
+
+Artículo Único. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
