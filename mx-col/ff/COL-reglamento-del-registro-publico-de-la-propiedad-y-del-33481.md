@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-registro-publico-de-la-propiedad-y-del-33481"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-11-01"
-last_updated: "2004-12-04"
+last_updated: "2010-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO EN EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 1 de noviembre de 1997.
 
@@ -49,29 +49,41 @@ El Registro Público de la Propiedad y del Comercio, es la Institución mediante
 
 La Institución a que se refiere el artículo anterior, se encuentra a cargo de la "Dirección General del Registro Público de la Propiedad y del Comercio", con adscripción a la Secretaría General de Gobierno y dependencia directa del titular de la misma.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 3.
 
 Para los efectos del presente Reglamento, se entenderá por:
 
-I. Código, al Código Civil del Estado de Colima;
+I. Ejecutivo: Al Ejecutivo del Estado;
 
-II. Ejecutivo, al Ejecutivo del Estado;
+II. Secretaria: A la Secretaría General de Gobierno;
 
-III. Secretaría, a la Secretaría General de Gobierno;
+III. Director General: Al Director General del Registro Público;
 
-IV. Registro Público, al Registro Público de la Propiedad y del Comercio; y (sic)
+IV. Dirección General: A la Dirección General del Registro Público;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+V. Registrador: Al Director General del Registro Público, los Oficiales Registradores y a los Delegados;
 
-V.- Dirección General, a la Dirección General del Registro Público;
+VI. Registro Público: Al Registro Público de la Propiedad y del Comercio;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+VII. Código: Al Código Civil del Estado de Colima;
 
-VI.- Director General, al Director General del Registro Público;
+VIII. Actuación electrónica: Los actos, notificaciones, requerimientos, trámites, solicitudes, comunicaciones, convenios, procedimientos administrativos o resoluciones que el Registro Público de la Propiedad y del Comercio, realice con sus usuarios o entidades públicas o privadas, mediante el uso de medios electrónicos y firma electrónica certificada;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+IX. Archivo electrónico: El conjunto de documentos producidos o recibidos por el Registro Público de la Propiedad y del Comercio en el desarrollo de sus actividades, que se conservan de forma sucesiva y ordenada por vía electrónica;
 
-VII.- Registrador, al Director General del Registro Público, los Oficiales Registradores y a los Delegados.
+X. Documento electrónico o archivo digital: El redactado en soporte electrónico que incorpore datos que estén firmados electrónicamente, con validez jurídica;
+
+XI. Documento escrito o físico: Documentos en papel expedidos o recibidos por el Registro Público de la Propiedad y del Comercio, para la prestación de servicios a sus usuarios o entidades públicas o particulares relacionadas;
+
+XII. Firma electrónica certificada: Aquella que ha sido certificada por la Autoridad Certificadora o el prestador de servicios de certificación facultado para ello, en los términos que señale la Ley de la materia, consistente en el conjunto de datos electrónicos integrados o asociados inequívocamente a un mensaje de datos que permite asegurar la integridad y autenticidad de ésta y la identidad del firmante;
+
+XIII. Firmante: Es la persona que posee un dispositivo de creación de firma y que actúa en nombre propio o en nombre de una persona física o jurídica a la que representa;
+
+XIV. Medios electrónicos: los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología; y
+
+XV. Promoción Electrónica: las solicitudes, trámites o promociones que los particulares o entidades públicas o privadas, realicen a través de medios electrónicos y firma electrónica ante el Registro Público de la Propiedad y del Comercio, para el cumplimiento de obligaciones, ejercicio de derechos, obtención de un beneficio o servicio público, dar respuesta a un requerimiento o solicitud, o en general, para que la autoridad interpelada emita la resolución correspondiente; (sic)
 
 ###### ARTICULO 4.
 
@@ -127,7 +139,9 @@ b).- Sección de Consulta.
 
 c).- Sección de Digitalización, Archivo e Índices.
 
-1.2.- Coordinador de Validación de Información y Teleconsulta.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
+1.2.- Coordinador de Validación de Información y consulta por medios electrónicos.
 
 2.- Departamento de Recursos Humanos y Materiales.
 
@@ -163,17 +177,21 @@ I. Ejercer la depositaría de la fe pública registral, con el auxilio de los fu
 
 II. Planear, organizar, dirigir, coordinar y evaluar las actividades de los funcionarios y personal del Registro Público;
 
-III. Vigilar que se reciban y atiendan diligentemente las solicitudes de los diversos servicios que presta el Registro Público;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+III. Vigilar que se reciban y atiendan las solicitudes a través del uso de documentos físicos o electrónicos de los diversos servicios que presta el Registro Público;
 
-IV. Supervisar el proceso de inscripción de títulos en los medios electrónicos disponibles y a través de los sistemas computacionales instalados, autorizando con su firma autógrafa los registros que se generen;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
 
-V. Expedir las certificaciones, copias y constancias que sobre inscripciones, anotaciones y cancelaciones de los registros en general soliciten los interesados;
+IV. Supervisar el proceso de inscripción de títulos en los medios electrónicos disponibles, autorizando con su firma autógrafa o electrónica certificada, los registros que se generen;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
 
-VI. Ordenar que se realicen en los registros electrónicos, las anotaciones solicitadas por los Notarios Públicos y demás interesados, cuando sean procedentes de acuerdo con las disposiciones legales aplicables, autorizando con su firma autógrafa las constancias que avalen dichas anotaciones;
+V. Expedir en documento físico o electrónico las certificaciones, copias y constancias que sobre inscripciones, anotaciones y cancelaciones de los registros que en general soliciten los interesados;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
+
+VI. Ordenar que se realicen en los registros electrónicos, las anotaciones solicitadas por los Notarios Públicos y demás interesados, cuando sean procedentes de acuerdo con las disposiciones legales aplicables, autorizando con su firma autógrafa o electrónica certificada las constancias que avalen dichas anotaciones;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
@@ -191,17 +209,17 @@ XII. Atender a los usuarios de los servicios registrales en los problemas y plan
 
 XIII. Sustanciar el procedimiento administrativo para la reposición de documentos;
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
 
-XIV. Evaluar y autorizar en su caso las solicitudes de tele consulta y registro en línea de los Notarios y dependencias gubernamentales que requieren estos servicios;
+XIV. Evaluar y autorizar en su caso las solicitudes, utilizando los medios electrónicos y registro en línea de los Notarios y dependencias gubernamentales que requieren estos servicios;
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
 
-XV. Conceder en su caso a las organizaciones inmobiliarias, desarrolladores de vivienda e instituciones financieras el acceso remoto para la consulta y expedición de certificados sobre folios reales;
+XV. Conceder en su caso, a las organizaciones inmobiliarias, desarrolladores de vivienda e instituciones financieras el acceso vía internet para la consulta y expedición de certificados sobre folios reales;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
 
-XVI. Suscribir la correspondencia oficial del Registro Público;
+XVI. Suscribir física o electrónicamente la correspondencia oficial del Registro Público;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
@@ -227,19 +245,29 @@ IV. Reunir el perfil que la ley de la materia establezca.
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-ARTICULO 8 bis. - Compete a los Oficiales Registradores:
+ARTICULO 8 bis.- Compete a los Oficiales Registradores:
 
 I. Ejercer por delegación la atribución del Director General, la depositaría de la fe pública registral de la propiedad o mercantil, que le asigne, con el auxilio de los funcionarios y personal del Registro Público;
 
-II. Revisar el proceso final de inscripción de títulos en los medios electrónicos disponibles y a través de los sistemas computacionales instalados, autorizando con su firma autógrafa los registros que se generen;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
 
-III. Subscribir las certificaciones, copias y constancias que sobre inscripciones, anotaciones y cancelaciones de los registros en general soliciten los interesados;
+II. Revisar el proceso final de inscripción de títulos en los medios electrónicos disponibles, y a través de los sistemas computacionales, autorizando con su firma autógrafa o electrónica certificada los registros que se generen;
 
-IV. Verificar que se realicen en los registros electrónicos, las anotaciones solicitadas por los Notarios Públicos y demás interesados, cuando sean procedentes de acuerdo con las disposiciones legales aplicables, autorizando con su firma autógrafa las constancias que avalen dichas anotaciones;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
+
+III. Expedir en documento físico o electrónico, las certificaciones, copias y constancias que sobre inscripciones, anotaciones y cancelaciones de los registros que en general soliciten los interesados;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
+
+IV. Verificar que se realicen en los registros electrónicos, las anotaciones solicitadas por los Notarios Públicos y demás interesados, cuando sean procedentes de acuerdo con las disposiciones legales aplicables, autorizando con su firma autógrafa o electrónica certificada las constancias que avalen dichas anotaciones;
 
 V. Apoyar al Director General en la supervisión para que las delegaciones y las áreas de la Dirección General se conduzcan con estricto apego al Código Civil, al presente Reglamento y demás disposiciones legales y reglamentarias;
 
-VI. Realizar las demás actividades que le encomiende el Director General.
+VI. Realizar las demás actividades que le encomiende el Director General;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2010)</small>
+
+VII. Suplir en todas sus funciones jurídicas al Director General en sus ausencias temporales. En el caso de autorizaciones y/o rúbrica de documentos físicos o electrónicos que contengan resoluciones, determinaciones o certificaciones que puedan afectar intereses de terceros, lo hará en forma autógrafa o electrónica y deberá anotarse la leyenda: "En ausencia del Director General, firma el Oficial Registrador".
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
@@ -271,7 +299,9 @@ II.- Establecer e instrumentar los sistemas de control de calidad de los servici
 
 III.- Aprobar los productos emanados de los trámites realizados por el personal a su cargo, previamente revisados por el Subdirector de Procedimiento Registral y los Coordinadores Jurídicos, y turnarlos al Director General para su autorización y firma;
 
-IV.- Suplir en todas sus funciones jurídicas al Director General en sus ausencias temporales. En el caso de autorizaciones y/o rúbrica de documentos que contengan resoluciones, determinaciones o certificaciones que puedan afectar intereses de terceros, deberá anotarse la leyenda: "En ausencia del Director General, firma el Director Jurídico";
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
+
+IV.- Suplir en todas sus funciones jurídicas al Director General en sus ausencias temporales. En el caso de autorizaciones y/o rúbrica de documentos físicos o electrónicos que contengan resoluciones, determinaciones o certificaciones que puedan afectar intereses de terceros, lo hará en forma autógrafa o electrónica y deberá anotarse la leyenda: "En ausencia del Director General, firma el Director Jurídico";
 
 V.- Proponer al Director General los proyectos de resoluciones de recursos que se interpongan por los particulares en contra de las determinaciones del Registro Público;
 
@@ -313,7 +343,9 @@ VII.- Apoyar al Director Jurídico en la preparación de los oficios de rechazo 
 
 VIII.- Asesorar y auxiliar directamente en la materia técnica jurídica al personal del Registro Público, junto con los Coordinadores Jurídicos;
 
-IX.- Atender a los usuarios del Registro Público en las consultas de carácter jurídico registral que le planteen, apoyándose en los coordinadores jurídicos;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
+
+IX.- Atender a los usuarios del Registro Público, a través de los coordinadores jurídicos en las consultas de carácter jurídico registral, ya sea de forma personal o electrónica, apoyándose en los coordinadores jurídicos;
 
 X.- Apoyar al Director Jurídico en la formulación de los informes previos y justificados, así como la contestación de demandas que se interpongan ante los tribunales competentes en contra del Registro Público y pasarlos para firma del Director General;
 
@@ -381,11 +413,17 @@ III) Asesorar y auxiliar en la materia técnica jurídica al personal de registr
 
 IV) Supervisar y controlar la sección de anotaciones e inscripciones;
 
-V) Supervisar que los documentos sean registrados por el orden de su prelación;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
 
-VI) Ordenar que se realicen en las terminales de cómputo las anotaciones solicitadas por los Notarios Públicos y demás interesados cuando sean procedentes de acuerdo con las disposiciones legales aplicables, autorizando con su firma las constancias que avalen dichas anotaciones;
+V) Supervisar que los documentos físicos o electrónicos, sean registrados por el orden de su prelación;
 
-VII) Autorizar con su firma las inscripciones, anotaciones y demás actos de su oficina, pudiendo usar antefirma para las anotaciones y las inscripciones;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
+
+VI) Ordenar que se realicen en los medios electrónicos, las anotaciones solicitadas por los Notarios Públicos y demás interesados, cuando sean procedentes de acuerdo con las disposiciones legales aplicables, autorizando con su firma autógrafa o electrónica certificada, las constancias que avalen dichas anotaciones;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
+
+VII) Autorizar con su firma autógrafa o electrónica certificada las inscripciones, anotaciones y demás actos, pudiendo usar antefirma para las anotaciones y las inscripciones;
 
 VIII) Remitir mensualmente un informe a la Subdirector Jurídico de Procedimiento Registral del funcionamiento de su oficina;
 
@@ -399,7 +437,9 @@ II) Revisar los productos emanados de los trámites realizados por el personal a
 
 III) La Impresión de Sellos;
 
-IV) Supervisar el Proceso de Inscripción de títulos a través de las terminales de cómputo habilitadas para ello, autorizando con su firma las constancias de registro que se generen;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
+
+IV) Supervisar el Proceso de Inscripción de títulos a través de los medios electrónicos, autorizando con su firma autógrafa o electrónica certificada, las constancias de registro que se generen;
 
 V) Supervisar los productos de las inscripciones y anotaciones, para verificar que se hayan inscrito y anotado con total y estricto apego a las disposiciones de la ley;
 
@@ -435,15 +475,21 @@ II.- Controlar, integrar y custodiar el archivo físico de libros, folios físic
 
 III.- Revisar los productos emanados de los trámites realizados por el personal a su cargo, otorgar su aprobación previa y turnarlos al Director General para su autorización y firma;
 
-IV.- Suplir en sus funciones administrativas al Director General en sus ausencias temporales. En el caso de autorizaciones y/o rúbrica de formatos y documentos que impliquen manejo de recursos humanos, materiales y financieros, en general que puedan afectar las actividades regulares del Registro Público, deberá anotarse la leyenda: "En Ausencia del Director General firma el Director de Organización y Sistemas"; informándole al Director General de todas ellas, al primer día de su presentación.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
 
-V.- Vigilar que los productos derivados de las solicitudes de registro, sean incorporados de inmediato a los medios de almacenamiento óptico;
+IV.- Suplir en sus funciones administrativas al Director General en sus ausencias temporales. En el caso de autorizaciones v/o rúbrica de formatos y documentos físicos o electrónicos que impliquen manejo de recursos humanos, materiales y financieros, en general que puedan afectar las actividades regulares del Registro Público, deberá hacerlo en forma autógrafa o electrónicamente y anotarse la leyenda: "En Ausencia del Director General firma el Director de Organización y Sistemas"; informándole al Director General de todas ellas, al primer día de su presentación;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
+
+V.- Vigilar que los productos derivados de las solicitudes de registro, sean incorporados de inmediato a los medios electrónicos de almacenamiento;
 
 VI.- Controlar el acceso a las áreas de trabajo del Registro Público, evitándolo a las personas ajenas a la oficina;
 
 VII.- Evaluar la producción de trámites por áreas y puestos y generar informes y estadísticas mensuales y anuales de recepción y solventación de solicitudes;
 
-VIII.-Recabar y revisar en su caso las solicitudes de tele consulta y registro en línea de los Notarios y dependencias gubernamentales que requieren estos servicios,
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
+
+VIII.- Recabar y revisar en su caso, las solicitudes en los medios electrónicos y registros en línea de los Notarios y de las dependencias gubernamentales que requieren estos servicios;
 
 IX.- Recabar y revisar en su caso a las organizaciones Inmobiliarias, desarrolladores de vivienda e instituciones financieras el acceso remoto para la consulta y expedición de certificados sobre folios reales;
 
@@ -453,7 +499,7 @@ XI.- Supervisar la disponibilidad de las partidas presupuestales, para promover 
 
 XII.- Elaborar y actualizar permanentemente el Manual de Organización y Procedimientos del Registro Público, proponiendo medidas que simplifiquen y agilicen la prestación de los servicios;
 
-XIII.-Realizar las demás actividades que le encomiende el Director General.
+XIII.- Realizar las demás actividades que le encomiende el Director General.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
@@ -541,7 +587,9 @@ II.- Vigilar que el mobiliario y equipo del Registro Público se mantenga en óp
 
 III.- Dotar oportunamente a las diversas áreas del Registro Público, los materiales y útiles de oficina que se requieran en su operación cotidiana;
 
-IV.- Suplir en sus funciones administrativas al Director de Organización y Sistemas en sus ausencias temporales. En el caso de autorizaciones y/o rúbrica de formatos y documentos que impliquen manejo de recursos humanos, materiales y financieros, en general que puedan afectar las actividades regulares del Registro Público, deberá anotarse la leyenda: "En Ausencia del Director de Organización y Sistemas firma el Jefe del Departamento de Recursos Humanos y Materiales"; informándole al Director de Organización y Sistemas de todas ellas, al primer día de su presentación.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
+
+IV.- Suplir en sus funciones administrativas al Director de Organización y Sistemas, en sus ausencias temporales. En el caso de autorizaciones y/o rúbrica de formatos y documentos físicos o electrónicos que impliquen manejo de recursos humanos, materiales y financieros y que puedan afectar las actividades regulares del Registro Público, deberá hacerlo en forma autógrafa o electrónica y anotará la leyenda: "En Ausencia del Director de Organización y Sistemas firma el Jefe del Departamento de Recursos Humanos y Materiales"; informándole al Director de Organización y Sistemas, el primer día de su presentación;
 
 V.- Tramitar la adquisición de mobiliario, equipo, materiales y útiles de oficina que se requieran, de conformidad con los lineamientos administrativos vigentes y observando la disponibilidad presupuestal;
 
@@ -567,7 +615,9 @@ XI.- Las demás que le confiera el Director de Organización y Sistemas, o el Di
 
 El Ejecutivo determinará las poblaciones donde deban establecerse delegaciones del Registro Público y señalará la circunscripción territorial de cada una de ellas. Dichas Delegaciones estarán a cargo de un Delegado, que dependerá directamente del Director General y que tendrá a su cargo el personal y equipo necesarios que garanticen la prestación eficaz de los servicios.
 
-Las Delegaciones prestarán con base en los registros electrónicos disponibles, los mismos servicios que prestan las oficinas centrales del Registro Público. Las Delegaciones generarán sus propios archivos documentales a partir del momento de su apertura.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
+Las Delegaciones, con base en los registros electrónicos disponibles, prestarán los mismos servicios que las oficinas centrales del Registro Público. Generarán también sus propios archivos documentales y electrónicos, a partir del momento de su apertura.
 
 ###### ARTICULO 17.
 
@@ -589,19 +639,25 @@ I. Ejercer la depositaría de la fé pública registral en los municipios de la 
 
 II. Planear, organizar, dirigir, coordinar y evaluar las actividades del personal a su cargo;
 
-III. Vigilar que se reciban y atiendan diligentemente las solicitudes de los diversos servicios que presta la Delegación;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
 
-IV. Supervisar el proceso de inscripción de títulos a través de las terminales de cómputo habilitadas para ello y los sistemas computacionales implantados, autorizando con su firma las constancias de registro que se generen;
+III. Vigilar que las solicitudes de los servicios que presta la Delegación, se reciban y atiendan a través de documentos físicos o electrónicos;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
+
+IV. Supervisar el proceso de inscripción de títulos a través de los medios electrónicos, autorizando con su firma autógrafa o electrónica certificada, según sea el caso, las constancias de registro que se generen;
 
 V. Expedir las certificaciones, copias y constancias que sobre inscripciones, anotaciones y cancelaciones en los libros y folios soliciten los interesados;
 
-VI. Ordenar que se realicen en las terminales de cómputo las anotaciones solicitadas por los Notarios Públicos y demás interesados, cuando sean procedentes de acuerdo con las disposiciones legales aplicables, autorizando con su firma las constancias que avalen dichas anotaciones;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
+
+VI. Ordenar que se realicen en los medios electrónicos, las anotaciones solicitadas por los Notarios Públicos y demás interesados, cuando sean procedentes de acuerdo con las disposiciones legales aplicables, autorizando con su firma autógrafa o electrónica certificada, las constancias que avalen dichas anotaciones;
 
 VII. Resolver los recursos que se interpongan por los particulares en contra de las determinaciones del Registro Público;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-VIII.- Informar mensualmente al Director General del Registro Público, de los trámites realizados y las incidencias presentadas;
+VIII. Informar mensualmente al Director General del Registro Público, de los trámites realizados y las incidencias presentadas;
 
 IX. Asesorar y auxiliar en la materia técnica jurídica al personal de la Delegación;
 
@@ -609,7 +665,7 @@ X. Formular y suscribir los informes previos y justificados, así como contestar
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-XI.- Las demás que le asigne el Director General.
+XI. Las demás que le asigne el Director General.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
@@ -653,9 +709,11 @@ El personal operativo adscrito a las diferentes secciones del Registro Público,
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 22.
 
-Atendiendo a la distinta naturaleza de los bienes, actos y contratos, el Registro Público podrá inscribir documentos, hacer anotaciones y extender constancias, copias y certificaciones de los ramos siguientes:
+Atendiendo a la distinta naturaleza de los bienes, actos y contratos, el Registro Público podrá inscribir documentos, hacer anotaciones y extender constancias, copias y certificaciones en documento físico o electrónico de los ramos siguientes:
 
 I. Bienes inmuebles;
 
@@ -667,13 +725,15 @@ IV. Actos de comercio.
 
 ### CAPÍTULO II. DE LA RECEPCION DE SOLICITUDES Y LA PRELACION
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 23.
 
-Los interesados solicitarán los servicios al Registro Público mediante solicitud elaborada que presentarán en los formatos aprobados para el efecto por la Secretaría, ante la Sección de "Recepción y Entrega", anexando los documentos que exijan las disposiciones legales y reglamentarias.
+los interesados, solicitarán los servicios al Registro Público mediante solicitud elaborada, misma que presentarán en formatos físicos o electrónicos establecidos para tal efecto por la Secretaría, ante la Sección de "Recepción y Entrega", anexando también los documentos que exijan las disposiciones legales y reglamentarias;
 
-No se requerirá presentación de solicitud previamente elaborada tratándose de trámites de certificaciones, copias, constancias y consultas, bastando que el interesado proporcione los datos de identificación propios y del acto registral del cual se solicita el servicio.
+No se requerirá presentación de solicitud previamente elaborada, tratándose de trámites de certificaciones, copias, constancias y consultas; bastará que el interesado proporcione los datos de identificación propios y del acto registral del que solicita el servicio, salvo que el trámite se realice en forma electrónica.
 
-Los requisitos para cada trámite se darán a conocer a los particulares, en tableros o láminas que permanecerán fijos en los muros del Registro Público y sus Delegaciones.
+Los requisitos para cada trámite, estarán visibles en las oficinas del Registro Público y sus Delegaciones, así como por medio electrónico a través de su página de internet.
 
 ###### ARTICULO 24.
 
@@ -689,6 +749,10 @@ A las solicitudes ingresadas se les asentará la fecha, hora de su ingreso y el 
 
 Las solicitudes que se reciban durante la jornada diaria de labores, conjuntamente con la copia del recibo de pago de derechos y los documentos entregados por los solicitantes, serán canalizadas a la Sección de "Resguardo y Seguimiento", que será la responsable de su distribución al personal encargado de su atención.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
+Tratándose de las solicitudes a través de medios electrónicos, será la misma sección de "Resguardo y Seguimiento", la responsable de distribuirla al personal encargado para su atención.
+
 ### CAPÍTULO III. DE LA CALIFICACION DE LAS SOLICITUDES
 
 ###### ARTICULO 27.
@@ -703,9 +767,13 @@ Procederá la suspensión del registro en los casos en que el documento adolesca
 
 Si en (sic) defecto consistiere en la falta de algún otro documento accesorio o complementario del principal, sin que éste salga del registro podrá suplirse la omisión siempre que esto ocurra durante el término señalado.
 
-Si la enmienda del documento defectuoso requiere de su retiro, una vez corregido aquel y en caso de ser reintegrado a tiempo, se continuará su trámite, conservando la fecha y número de su presentación primer (sic).
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
 
-Si fenecido el plazo mencionado no se hubiesen subsanado los defectos que originaron la suspensión y el documento no fuese reingresado al Registro, la nota y asiento de presentación serán cancelados, dándose así por extinguido el derecho de prelación.
+Si la enmienda del documento físico o electrónico requiere de su retiro, una vez que se corrija y en caso de ser reingresado a tiempo, continuará su trámite, conservando la fecha y número de prelación.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
+La nota y asiento de presentación serán cancelados y se dará por extinguido el derecho de prelación, si fenecido el plazo mencionado no se hubiesen subsanado los defectos que originaron la suspensión y el documento físico o electrónico no hubiere reingresado al Registro.
 
 ###### ARTICULO 28.
 
@@ -725,21 +793,29 @@ Todo documento inscribible o anotable hará referencia expresa a los antecedente
 
 A toda inscripción principal corresponderá un número de folio que será asignado automáticamente por el sistema computacional.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 32.
 
-El folio o folio electrónico es el espacio físico en los medios de almacenamiento óptico destinado a la realización material de la publicidad registral, que comprende todos aquellos actos o contratos que se refieren a un mismo bien o persona moral.
+El folio físico o electrónico, es el espacio designado en los medios de almacenamiento físico o electrónico, destinado a la realización material de la publicidad registral, que comprende todos aquellos actos que se refieren a un mismo bien o persona moral.
 
 ###### ARTICULO 33.
 
 Podrán solicitar la inscripción de un acto jurídico las personas que tengan interés en asegurar el derecho en él consignado, los funcionarios autorizantes y las autoridades judiciales y administrativas en la esfera de su competencia.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 34.
 
-Los documentos que contengan los actos jurídicos presentados ante el Registro Público para su inscripción, deberán constar en original y copia autorizada del mismo, para el efecto de que uno de ellos se destine a formar los libros de soporte documental; debiendo acompañar el título anterior respectivo, o en su defecto copia certificada expedida por el Registro Público.
+Los documentos físicos o electrónicos que contengan los actos jurídicos presentados ante el Registro Público para su inscripción, deberán constar en original y copia autorizada del mismo, para el efecto de que uno de ellos se destine a formar los libros de soporte documental; debiendo acompañar el título anterior respectivo, o en su defecto copia certificada expedida por el Registro Público.
+
+No será necesario agregar documentos físicos cuando se realice a través de medios electrónicos, siempre y cuando se entreguen todos éstos en archivo electrónico, inclusive con todos sus anexos.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 35.
 
-Inmediatamente después de haberse realizado la inscripción, al calce del título inscrito se anotará la fecha de la misma y el número del folio en que quedó inscrito; asimismo se hará constar el monto de los derechos pagados y el número de recibo de pago, procediendo el registrador a la autorización de la inscripción con su firma y sello.
+Inmediatamente después de haberse realizado la inscripción en forma física o electrónica, al calce del título inscrito se anotará la fecha de la misma y el número del folio; asimismo, se hará constar el monto de los derechos pagados y el número de recibo de pago, procediendo el registrador a la autorización de la inscripción con su firma autógrafa y sello cuando se trate de documento físico y bastara la firma electrónica certificada, cuando sea a través de medios electrónicos.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
@@ -747,29 +823,43 @@ Inmediatamente después de haberse realizado la inscripción, al calce del títu
 
 El personal responsable capturará la información requisitando los diversos datos exigidos por el sistema computacional, los que se tomarán del documento presentado para su inscripción sin abreviaturas ni alteraciones. Terminado el proceso de captura en el sistema computacional, se ordenará la impresión en original y copia de los productos en los que conste la inscripción, mismos que se turnarán con los documentos base al Director Jurídico para su revisión final, previa firma del empleado que hubiera operado el trámite. El Director Jurídico revisará y validará la inscripción con su antefirma y la canalizará al Director General para su firma y sello.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
+Cuando se trate de documentos electrónicos autorizados con la firma electrónica certificada, se realizará en los términos señalados en el párrafo anterior, haciendo las anotaciones respectivas en el archivo electrónico de la base de datos.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 37.
 
-Concluidos los trámites señalados en los artículos que anteceden, se remitirán los originales de los productos y de los documentos anexos a la solicitud, a la ventanilla de entrega; las copias de los productos serán inmediatamente digitalizadas para su incorporación a los medios electrónicos de almacenamiento óptico y posteriormente se turnarán al archivo físico, conjuntamente con las copias de los documentos agregados por el solicitante, en donde se encuadernarán en forma ordenada asignándoles un número para su localización.
+Concluidos los trámites señalados en los artículos que anteceden, se remitirán los originales de los productos y de los documentos anexos a la solicitud, a la ventanilla de entrega; las copias de los productos serán inmediatamente digitalizadas para su incorporación a los medios electrónicos de almacenamiento y posteriormente, se turnarán al archivo físico, conjuntamente con las copias de los documentos agregados por el solicitante, en donde finalmente, se encuadernarán en forma ordenada asignándoles un número para su localización.
+
+Cuando se trate de documentos electrónicos autorizados con la firma electrónica certificada, así como los anexos debidamente digitalizados, se seguirá el mismo trámite señalado en el párrafo anterior, haciendo las anotaciones respectivas almacenándolos en la base de datos; enviando por internet a los solicitantes lo correspondiente.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 38.
 
-Los asientos no surtirán efectos mientras no estén firmados por el registrador. En este caso la firma podrá exigirse por quien presente el título respectivo con la nota de haber sido registrado. Con esta misma condición, y si la firma omitida fue la del registrador que hubiese cesado en el ejercicio de su cargo, podrá firmar el asiento respectivo el registrador en funciones, siempre que, dadas las circunstancias del caso, con vista del título inscrito y, si fuere preciso, de los demás que estén relacionados, estime que dicho asiento se practicó correctamente. En caso contrario se estará a lo dispuesto por los artículos 87 y 88 de este Reglamento.
+Los asientos no surtirán efectos mientras no estén firmados por el registrador ya sea de manera autógrafa o mediante firma electrónica certificada, respectivamente. Podrá exigirse por quien presente el título con la nota de haber sido registrado. Con esta misma condición, y si la firma autógrafa o electrónica certificada omitida fue la del registrador que hubiese cesado en el ejercicio de su cargo, podrá firmar el asiento respectivo el registrador en funciones, siempre y cuando se consideren las circunstancias específicas teniendo a la vista el título inscrito y si fuere preciso, de los demás que estén relacionados y además, estime que dicho asiento se practicó correctamente. En caso contrario se estará a lo dispuesto por los artículos 87 y 88 de este Reglamento.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 39.
 
-Cuando algún acto o contrato inscribibles se hayan celebrado por medio de representantes, deberá consignarse este hecho en el documento respectivo, y se hará constar en la inscripción la forma en que se acreditó la personalidad de aquellos, de tal manera que pueda apreciarse si la representación fue suficiente para la validez del acto o contrato inscrito.
+Cuando algún acto o contrato inscribibles se haya celebrado por medio de representantes, deberá consignarse este hecho en el documento físico o en el medio electrónico respectivo, según sea el caso, y. se hará constar en la inscripción la forma en que se acreditó la personalidad de aquellos, de tal manera que pueda apreciarse si la representación fue suficiente para la validez del acto o contrato inscrito.
 
 ### CAPÍTULO V. DE LAS ANOTACIONES Y CANCELACIONES
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 40.
 
-Las anotaciones y cancelaciones se harán invariablemente en el folio que contenga la inscripción del acto jurídico al que corresponda la anotación o cancelación.
+Las anotaciones y cancelaciones se harán invariablemente en el folio físico o electrónico que contenga la inscripción del acto jurídico al que corresponda la anotación o cancelación.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 41.
 
-Calificada la solicitud de anotación o cancelación, el personal de la Sección de "Inscripciones y Anotaciones" procederá a capturar la información que le requisite el módulo correspondiente del sistema computacional, con base en los documentos anexos a la solicitud, sin abreviaturas de ninguna especie ni alteraciones.
+Calificada la solicitud de anotación o cancelación, el personal de la Sección de "Inscripciones y Anotaciones" procederá a capturar la información en el módulo correspondiente del sistema electrónico, con base en los documentos anexos a la solicitud, sin abreviaturas de ninguna especie ni alteraciones.
 
 ###### ARTICULO 42.
 
@@ -833,27 +923,39 @@ VII.- Las garantías otorgadas para que surta efectos la suspensión, y
 
 VIII.-Las demás circunstancias relativas al incidente respectivo, cuando así lo disponga el Tribunal o el Juez del conocimiento.
 
-### CAPÍTULO VI. DE LA TELECONSULTA
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO VI
+
+DE LA CONSULTA EN LOS MEDIOS ELECTRÓNICOS.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 52.
 
-Los Notarios Públicos, las instituciones financieras y de crédito y las dependencias y organismos descentralizados del poder público que lo soliciten, podrán disponer en su propio domicilio de la consulta permanente a la información del Registro Público, para lo cual deberán de contar previamente con el equipo de cómputo requerido y la línea telefónica correspondiente, así como efectuar el pago de los derechos respectivos.
+Las entidades Públicas y Privadas, los Notarios, las Instituciones Financieras y de Crédito y los particulares que los soliciten, podrán consultar permanentemente la información del Registro Público en su página de internet, de conformidad a los requisitos establecidos para tal efecto y efectuar el pago de los derechos respectivos cuando así corresponda.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 53.
 
-La información registral podrá ser consultada durante el horario de labores de la Dirección General, debiéndose pagar los derechos de consulta en la forma, monto y con la periodicidad que determine la Ley de Hacienda del Estado.
+La información registral electrónica para su consulta, estará disponible vía internet las veinticuatro horas del día, salvo que por razones justificadas y atribuibles al Registro Público de la Propiedad, no se pueda realizar, debiéndose pagar los derechos de consulta en la forma y monto que se señale en la Ley de Hacienda del Estado.
+
+La consulta, se hará en los términos del presente Reglamento y demás disposiciones legales.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 54.
 
-El Registro Público podrá suspender la teleconsulta a aquellos usuarios que se compruebe que están haciendo mal uso de la misma, sin perjuicio de las responsabilidades de carácter legal en que incurran.
+El Registro Público suspenderá la consulta de la información electrónica a los usuarios a quienes se les compruebe un mal uso de la misma o de los medios electrónicos, sin perjuicio de las responsabilidades de carácter legal en que incurran.
 
 ### CAPÍTULO VII. DE LOS INDICES
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 55.
 
-La localización de las inscripciones contenidas en los medios de almacenamiento óptico se hará a través de los índices formulados para el efecto, los cuales se mantendrán en un estado de permanente actualización, con base en los movimientos registrales cotidianos.
+La localización de las inscripciones contenidas en los medios de almacenamiento físico o electrónico, se hará a través de los índices formulados para el efecto, los cuales se mantendrán en un estado permanente de actualización, con base en los movimientos registrales cotidianos.
 
 ###### ARTICULO 56.
 
@@ -1105,6 +1207,10 @@ Inscrita una operación en el registro mobiliario, al calce del contrato respect
 
 En el caso de que la operación a registrar no comprenda la totalidad de bienes que ampara la factura, se acompañará copia fotostática de ésta a fin de que previo cotejo con el original, el registrador proceda a practicar en ambos ejemplares la anotación a que se refiere el párrafo anterior. El original de la factura estará destinado al vendedor y la copia al comprador.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
+Cuando se trate de documentos electrónicos autorizados con la firma electrónica certificada, se seguirá el mismo trámite señalado en el presente artículo, utilizando los medios y archivos electrónicos.
+
 ### CAPÍTULO III. DEL REGISTRO DE PERSONAS MORALES
 
 ###### ARTICULO 81.
@@ -1149,9 +1255,11 @@ Corresponden al ramo de comercio todos aquellos actos jurídicos a que se refier
 
 ### CAPÍTULO V. DE LA RECTIFICACION DE LOS ASIENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 86.
 
-Los errores materiales que se adviertan en los asientos de los diversos folios del registro o en los índices, serán rectificados con vista en los documentos respectivos, o en los protocolos, expediente o archivos de donde tales documentos procedan.
+Los errores materiales que se adviertan en los asientos de los diversos folios del registro, o en los índices, serán rectificados con vista en los documentos físicos o electrónicos respectivos; en los protocolos, expediente o archivos de donde procedan tales documentos.
 
 No será necesaria esta confrontación y los errores se podrán rectificar, de oficio o a petición del interesado, cuando puedan comprobarse con base en el texto de las inscripciones con las que los asientos erróneos estén relacionados.
 
@@ -1235,9 +1343,11 @@ En las certificaciones que se soliciten para hacer constar la existencia o inexi
 
 No serán recibidas las solicitudes de los interesados que no expresen con claridad y precisión la especie de certificación que se trate de obtener, los bienes, personas o períodos a que debe referirse y, en su caso, los datos del folio sobre cuyos contenidos debe versar el certificado. En el caso de mandamientos de autoridad que incurran en estas mismas omisiones o imprecisiones, se suspenderá el trámite de los requerimientos y se comunicará de oficio tal situación a fin de que produzcan las aclaraciones que el caso requiera.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 104.
 
-Los certificados que se soliciten del registro se expedirán y entregarán al segundo día hábil de la presentación de la solicitud.
+Los certificados que se soliciten del registro, se expedirán y entregarán en un término máximo de tres días hábiles posteriores a su presentación, o en los términos que se establezcan en la base de datos, cuando se trate de trámites efectuados por los medios electrónicos.
 
 ###### ARTICULO 105.
 
@@ -1257,19 +1367,19 @@ La reposición de documentos extraviados o destruidos se realizará de oficio po
 
 Tratándose de folios reales o de cualquier otro documento que ampare derechos, el Director General certificará la preexistencia y falta posterior del documento y ordenará la búsqueda en los archivos de la dependencia, para la localización de antecedentes de documentos que demuestren la existencia de gravámenes, limitaciones de dominio o cualquiera otro acto jurídico o cautelar que haya sido materia de anotación en el folio respectivo.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 108.
 
-Para que proceda la reposición de folios a petición de parte interesada, bastará que la persona que tenga interés jurídico debidamente acreditado, solicite por escrito dicha reposición, declarando bajo protesta de decir verdad y conocimiento de las penas en que incurren los que declararan (sic) con falsedad, conforme a lo dispuesto por el artículo 115 del Código Penal del Estado, que el inmueble de su propiedad, relativo a su solicitud, tiene o no tiene gravámenes o limitaciones de dominio, aportando todos los elementos relativos a ellos en el primer caso. Asimismo deberá acompañar constancia certificada por las autoridades catastrales, relativa a la declaración de transmisión patrimonial a su favor respecto del inmueble de que se trata, así como aquellos otros documentos que acrediten sus derechos.
+Para que proceda la reposición de folios a petición de parte interesada, bastará que la persona que tenga interés jurídico debidamente acreditado, solicite en documento físico o electrónico dicha reposición, declarando bajo protesta de decir verdad y conocimiento de las penas en que incurren los que declararan con falsedad, conforme a lo dispuesto por el artículo 115 del Código Penal del Estado, que el inmueble de su propiedad, relativo a su solicitud, tiene o no tiene gravámenes o limitaciones de dominio, aportando todos los elementos relativos a ellos en el primer caso. Asimismo deberá acompañar constancia certificada por las autoridades catastrales, en forma física o electrónica, relativa a la declaración de transmisión patrimonial a su favor respecto del inmueble de que se trata, así como aquellos otros documentos que acrediten sus derechos.
 
-Recibida la solicitud, el Director General ordenará dentro de los tres días hábiles siguientes y por tres días consecutivos, a costa del Gobierno del Estado, la publicación de la misma en un periódico de los de mayor circulación en la entidad.
+Recibida la solicitud, el Director General ordenará dentro de los tres días hábiles siguientes y por tres días consecutivos, a costa del Gobierno del Estado, la publicación de la misma en un periódico de los de mayor circulación en la entidad, así como en la página de internet del Registro Público.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 109.
 
-Cuando se detecte la pérdida o destrucción de algún documento en el Registro Público, el Director General dispondrá las medidas necesarias para lograr su reposición, notificando a quienes acrediten interés jurídico para que en un término de 15 días manifiesten lo que a su derecho convenga y en su caso aporten elementos que faciliten la reposición, aplicándose al efecto lo dispuesto en el artículo que antecede.
+Cuando se detecte la pérdida o destrucción de algún documento físico o electrónico en el Registro Público, el Director General dispondrá las medidas necesarias para lograr su reposición, notificando a quienes acrediten interés jurídico para que en un término de 15 días manifiesten lo que a su derecho convenga y en su caso aporten elementos que faciliten la reposición, aplicándose al efecto lo dispuesto en el artículo que antecede.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
@@ -1309,11 +1419,11 @@ En el caso de no ser procedente la anotación registral por existir impedimentos
 
 El recurso de inconformidad procederá contra los actos o determinaciones del Registro Público, que nieguen o suspendan la inscripción o asiento de algún documento, aviso o cancelación.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 116.
 
-El recurso deberá presentarse por escrito ante el Director General, dentro de los cinco días siguientes a aquel en que el particular afectado reciba el comunicado de denegación o suspensión.
+El recurso deberá presentarse por medio de documento físico o electrónico ante el Director General, dentro de los cinco días siguientes a aquel en que el particular afectado reciba el comunicado de denegación o suspensión.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
@@ -1321,11 +1431,11 @@ El recurso deberá presentarse por escrito ante el Director General, dentro de l
 
 El Director General, con vista en los argumentos que haga valer el interesado y en las pruebas que ofrezca y exhiba, en su caso, resolverá en un plazo improrrogable de cinco días hábiles.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 118.
 
-Si la resolución fuese favorable al recurrente, el Director General ordenará la reincorporación del trámite sin pérdida del derecho de prelación adquirido. En caso contrario el documento será remitido a la ventanilla de entrega de productos, para su entrega al interesado.
+Si la resolución fuese favorable al recurrente, el Director General ordenará la reincorporación del trámite sin pérdida del derecho de prelación adquirido. En caso contrario el documento será remitido a la ventanilla de entrega de productos o por medio electrónico, según sea el caso, para su entrega al interesado.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
@@ -1362,3 +1472,7 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del primero de enero de
 SEGUNDO.- Las plazas de nueva creación de la estructura organizacional del Registro Público de la Propiedad y del Comercio son de confianza y se ejercerán conforme a la disponibilidad presupuestal, los sueldos serán los que le fije el Presupuesto de Egresos del Gobierno del Estado.
 
 TRES (SIC).- El personal sindicalizado que labora en las secciones del Registro Público conservará las plazas que actualmente ocupan.
+
+P.O. 28 DE AGOSTO DE 2010.
+
+ÚNICO.- El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial "El Estado de Colima".
