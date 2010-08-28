@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2010-08-23"
+last_updated: "2010-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010 Y 23 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO EN LOS TERMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CODIGO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -202,6 +202,10 @@ Las consignaciones que se hagan por las autoridades ante el Ministerio Público,
 ### CAPITULO IV
 
 DE LA ASISTENCIA MEDICA A LESIONADOS Y ENFERMOS.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2010)</small>
 
 ###### Art. 15.
 
@@ -639,7 +643,7 @@ DE LA COMPETENCIA JURISDICCIONAL.
 
 ###### Art. 60.
 
-La atención médica a quienes hayan sufrido lesiones provenientes de un delito se hará en los hospitales de asistencia pública, salvo los casos siguientes:
+La atención médica a quienes hayan sufrido lesiones provenientes de un delito y a las mujeres que soliciten la práctica de un aborto no punible en el supuesto previsto por el artículo 316, fracción II, del Código Penal del Estado de Oaxaca, se hará en los hospitales del sistema público de salud. En el primer caso, los lesionados podrán ser atendidos en institución médica diversa en las circunstancias siguientes:
 
 Si el lesionado no debe quedar privado de su libertad, la autoridad que conozca de la averiguación previa, o el Tribunal en su caso, podrán autorizar que sea atendido en lugar distinto bajo responsiva de Médico con Título legalmente reconocido y previa la calificación legal de las lesiones. Este permiso se concederá sin perjuicio de que la autoridad se cerciore del estado del lesionado cuando lo estime oportuno, y con la obligación de parte del lesionado, de participar a la autoridad correspondiente, en que lugar va a ser atendido y cualquier cambio de éste o de su domicilio. La falta de aviso de cambio, ameritará que se le imponga una corrección disciplinaria, y su internación al hospital público a fin de que puedan los Médicos Legistas atenderlo y dictaminar sobre las lesiones.
 
@@ -663,9 +667,41 @@ El certificado de sanidad a que se refiere la disposición que antecede, estará
 
 El incumplimiento de cualquiera de las obligaciones señaladas en este artículo a los Médicos particulares, ameritará la imposición de una corrección disciplinaria, cuando no constituya un delito tipificado; pues, si lo fuere, el Ministerio Público que tenga conocimiento del hecho procederá de acuerdo con sus atribuciones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
+###### Art. 61 Bis.
+
+Las instituciones del sistema público de salud deberán contar con el personal no objetor de conciencia de manera que la mujer que solicite un aborto legal, tenga garantizado este servicio.
+
 ###### Art. 62.
 
 Cuando un lesionado necesite pronta curación, cualquier médico puede atenderlo y aún trasladarlo del lugar de los hechos a sitio apropiado, sin esperar la intervención de la autoridad, debiendo comunicar a ésta, inmediatamente después de la primera curación, los siguientes datos: nombre del lesionado, lugar preciso en que fue levantado y posición en que se encontraba; naturaleza de las lesiones que presente y causas probables que la originaron; curaciones que se le hubieren hecho y lugar preciso en que queda a disposición de la autoridad. En su caso, se estará a lo dispuesto en el párrafo final del artículo anterior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
+###### Art. 62 Bis.
+
+El Ministerio Público resolverá lo procedente, en un término de setenta y dos horas, a partir de que la mujer presente la solicitud de aborto, en el caso previsto por el artículo 316, fracción II, del Código Penal del Estado. De autorizar el aborto, lo notificará inmediatamente al Secretario de Salud en el Estado, para que éste ordene a quien corresponda su práctica, así como para que se tome muestra en el producto que permita la realización en su momento de la prueba genética de ADN, a fin de probar la paternidad del presunto violador. Dicha autorización se hará siempre que concurran los siguientes requisitos:
+
+I.- Que exista denuncia por el delito de violación;
+
+II.- Que la mujer declare la existencia del embarazo y éste se compruebe en cualquier institución del sistema público de salud;
+
+III.- Que obren elementos suficientes que permitan al Ministerio Público acreditar que el embarazo es producto de una violación; y
+
+IV.- Que conste solicitud escrita o por comparecencia de la mujer embarazada o de sus representantes, cuando la víctima sea menor de edad y no haya oposición de ésta o cuando se encuentre en un estado de incapacidad natural y legal previsto por el artículo 465, fracción II, del Código Civil para el Estado Libre y Soberano de Oaxaca.
+
+Las instituciones del sistema público de salud en el Estado deberán, a petición de la interesada, practicar sin demora los exámenes que comprueben la existencia del embarazo, así como la oportunidad médica para realizar el aborto, en el caso previsto en la fracción II del artículo 316 del Código Penal para el Estado Libre y Soberano de Oaxaca.
+
+Una vez realizado el aborto, el médico responsable deberá dar aviso inmediato al Ministerio Público, enviándole la muestra del producto debidamente embalada para el fin ya indicado.
+
+El personal médico y psicológico de las instituciones del sistema público de salud, antes de practicar el aborto, tiene la obligación de proporcionar a la mujer información imparcial, objetiva, veraz y suficiente sobre los procedimientos, riesgos, consecuencias y efectos; así como los apoyos y alternativas existentes para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
+
+Esta información deberá ser proporcionada de manera oportuna y no tener como objetivo inducir o retrasar la decisión de la mujer.
 
 ### CAPITULO II
 
@@ -3985,7 +4021,7 @@ En el segundo caso, se mandarán archivar las diligencias.
 
 ###### Art. 572.
 
-Si se declara fundada, se remitirá original del expediente al Ejecutivo del Estado para que, sin más trámites, otorgue el indulto; en caso contrario se mandará archivar el expediente haciéndolo saber a las partes.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -4284,3 +4320,7 @@ P.O. 2 DE MARZO DE 2010.
 P.O. 23 DE AGOSTO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE AGOSTO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir de los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
