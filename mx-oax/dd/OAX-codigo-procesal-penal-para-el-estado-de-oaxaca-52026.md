@@ -4,7 +4,7 @@ identifier: "OAX-codigo-procesal-penal-para-el-estado-de-oaxaca-52026"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-09"
-last_updated: "2010-08-23"
+last_updated: "2010-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010 Y 23 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR SUCESIVAMENTE EN LOS TERMINOS SEÑALADOS EN EL PROPIO TRANSITORIO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2010.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -1287,19 +1287,27 @@ VI. Si por su edad, condición física o psíquica, se le dificulta gravemente s
 
 VII. A recibir asesoría jurídica, protección especial de su integridad física o psíquica, con inclusión de su familia inmediata, cuando reciba amenazas o corra peligro en razón del papel que cumple en el proceso penal;
 
-VIII. A interponer la demanda en contra de terceros civilmente obligados a la reparación del daño;
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IX. Solicitar la reapertura del proceso cuando se haya decretado el archivo temporal; y (sic)
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2010)</small>
 
-X. Apelar del sobreseimiento;
+VIII. A solicitar al Ministerio Público la autorización para abortar, en el supuesto de la fracción II del artículo 316 del Código Penal del Estado, y de conformidad con lo establecido en el artículo 255 BIS de este Código;
+
+IX. A interponer la demanda en contra de terceros civilmente obligados a la reparación del daño;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2010)</small>
+
+X. Solicitar la reapertura del proceso cuando se haya decretado el archivo temporal;
+
+XI. Apelar del sobreseimiento;
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-XI. Solicitar las medidas de coerción y providencias necesarias para la protección y restitución de sus derechos; y
+XII. Solicitar las medidas de coerción y providencias necesarias para la protección y restitución de sus derechos; y
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-XII. Al resguardo de su identidad y otros datos personales, cuando sean menores de edad, se trate de delito de violación o secuestro, y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
+XIII. Al resguardo de su identidad y otros datos personales, cuando sean menores de edad, se trate de delito de violación o secuestro, y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
 
 La víctima será informada sobre sus derechos cuando realice la denuncia o en su primera intervención en el proceso.
 
@@ -2754,6 +2762,30 @@ La autoridad que haya ordenado el peritaje resolverá las cuestiones que se plan
 Siempre que sea posible el Ministerio Público autorizará a la defensa y a sus consultores técnicos presenciar la realización del peritaje y solicitar las aclaraciones que estimen convenientes.
 
 El dictamen pericial estará debidamente sustentado, y contendrá, de manera clara y precisa, una relación detallada de las operaciones practicadas y de sus resultados, las observaciones de las partes o las de sus consultores técnicos y las conclusiones que se formulen respecto de cada tema estudiado. El dictamen se presentará por escrito, firmado y fechado, independientemente de la declaración que deberá rendir el perito durante las audiencias.
+
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR EL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
+Artículo 255 BIS. Procedimiento para establecer la actuación del Ministerio Público para autorizar la interrupción no punible del embarazo por causa de violación
+
+El Ministerio Público resolverá lo procedente, en un término de setenta y dos horas, a partir de que la mujer presente la solicitud de aborto, en el caso previsto en el artículo 316, fracción II, del Código Penal del Estado. De autorizar el aborto, lo notificara inmediatamente al Secretario de Salud del Estado, para que este ordene a quien corresponda su práctica, así como para que se tome muestra en el producto que permita la realización en su momento de la prueba genética de ADN, a fin de probar la paternidad del presunto violador. Dicha autorización se hará siempre que concurran los siguientes requisitos:
+
+I. Que exista denuncia por el delito de violación;
+
+II. Que la mujer declare la existencia del embarazo y éste se compruebe en cualquier institución del sistema público de salud;
+
+III. Que obren elementos que permitan al Ministerio Público acreditar que el embarazo es producto de una violación; y
+
+IV. Que conste solicitud escrita o por comparecencia de la mujer embarazada o de sus representantes, cuando la víctima sea menor de edad y no haya oposición de ésta o cuando o cuando se encuentre en estado de incapacidad natural y legal previsto por el artículo 465, fracción II, del Código Civil para el Estado Libre y Soberano de Oaxaca.
+
+Las Instituciones del sistema público de salud en el Estado deberán, a petición de la interesada, practicar sin demora los exámenes que comprueben la existencia del embarazo, así como la oportunidad médica para realizar la práctica del aborto, en el caso previsto por la fracción II del artículo 316 del Código Penal para el Estado Libre y Soberano de Oaxaca.
+
+Una vez realizada la interrupción, el médico responsable deberá dar aviso inmediato al Ministerio Público, enviándole la muestra del producto debidamente embalada para el fin ya indicado.
+
+El personal médico psicológico de las instituciones del sistema público de salud, antes de practicar el aborto, tiene la obligación de proporcionar a la mujer información imparcial, objetiva, veraz, y suficiente sobre los procedimientos, riesgos, consecuencias y efectos; así como los apoyos y alternativas existentes para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
+
+Esta información deberá ser proporcionada de manera oportuna y no tener como objetivo inducir o retrasar la decisión de la mujer.
 
 ###### Artículo 256.
 
@@ -5336,3 +5368,7 @@ P.O. 2 DE MARZO DE 2010.
 P.O. 23 DE AGOSTO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE AGOSTO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir de los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
