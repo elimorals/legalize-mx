@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-del-decreto-gubernativo-por-el-cual-se-71151"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-21"
-last_updated: "2010-07-31"
+last_updated: "2010-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO DEL DECRETO GUBERNATIVO POR EL CUAL SE ESTABLECEN LAS BASES PARA LA ENTREGA-RECEPCION DE LA ADMINISTRACION PUBLICA DEL ESTADO DE ZACATECAS 2004-2010
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 21 de noviembre de 2009.
 
@@ -264,6 +264,16 @@ La Entrega Recepción se hará el día 12 de septiembre del año 2010, a la Comi
 ###### Artículo 24.
 
 En el acto de Entrega-Recepción, en cada Dependencia, Entidad y Unidad Adscrita, intervendrán los señalados en el artículo 10 del Decreto, utilizando para ello el formato de acta y los anexos establecidos en el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
+Artículo 24 bis.- El contenido de los anexos se almacenará en discos compactos los cuales serán generados en seis tantos y rubricados de manera autógrafa por los servidores públicos entrantes y salientes.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2010)</small>
+
+Artículo 24 ter.- El sistema de entrega recepción, que se le denominará "SERZAC", consiste en los anexos señalados en este Reglamento y serán gravados en un disco compacto, no regrabable a fin de evitar la modificación de la información y deberá ir debidamente encriptado con una clave de usuario y contraseña de acceso a dicha información, la cual será exclusivamente para consulta, adicionalmente para que el disco no sea cambiado el disco magnético deberá ir firmado por los servidores públicos entrante y saliente.
+
+En caso de controversia entre la información contenida en los discos compactos entregados a los servidores públicos entrante y saliente, los datos que deberán tenerse como indubitables a fin de solventar cualquier discrepancia, es la contenida en el dispositivo que obre en poder del Notario Público que haya sido designado como depositario de tal información.
 
 ### CAPÍTULO VII. DE LOS ANEXOS
 
@@ -555,9 +565,13 @@ MIGUEL DE SANTIAGO REYES.
 
 N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.
-
 P.O. 31 DE JULIO DE 2010.
+
+Primero.- El presente Decreto Gubernativo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones administrativas que contravengan este instrumento.
+
+P.O. 28 DE AGOSTO DE 2010.
 
 Primero.- El presente Decreto Gubernativo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
