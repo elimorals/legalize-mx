@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-del-instituto-catastral-del-estado-de-71145"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-21"
-last_updated: "2009-11-21"
+last_updated: "2010-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERNO DEL INSTITUTO CATASTRAL DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 21 de noviembre de 2009.
 
@@ -201,7 +201,9 @@ XXII. Ubicar y asignar clave catastral a todos los predios localizados en el ter
 
 XXIII. Presentar las propuestas de valores a las Autoridades Municipales para su revisión y presentación al Congreso.
 
-XXIV. Elaborar avalúos comerciales solicitados por el público en general.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2010)</small>
+
+XXIV. Elaborar avalúos comerciales solicitados por el público en general; así como autorizar los avalúos catastrales e inmobiliarios emitidos por el Instituto.
 
 XXV. Coordinar los trabajos de alimentación y actualización de la cartografía que se realiza en esta Área administrativa.
 
@@ -654,3 +656,9 @@ LIC. JOSÉ ANTONIO ESTEFAN GARFIAS.
 EL DIRECTOR GENERAL DEL INSTITUTO CATASTRAL DEL ESTADO DE OAXACA
 
 LIC. JORGE MARTINEZ GRACIDA ORDUÑA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE AGOSTO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
