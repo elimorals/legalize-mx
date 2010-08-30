@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-turismo-del-distrito-federal-14948"
 country: "mx"
 rank: "ley"
 publication_date: "1998-05-22"
-last_updated: "2007-04-30"
+last_updated: "2010-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14948&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1998-05-20"
 
 LEY DE TURISMO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TURISMO DEL DISTRITO FEDERAL PUBLICADA EN LA G.O. DE 30 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 22 de mayo de 1998.
 
@@ -1001,3 +1003,23 @@ G.O. 30 DE ABRIL DE 2007.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 30 DE AGOSTO DE 2010.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo. Se abroga la Ley de Turismo del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 22 de mayo de 1998.
+
+Artículo Tercero. El Jefe de Gobierno deberá expedir el Reglamento de la presente Ley, dentro de los ciento ochenta días naturales a partir de la entrada en vigor del presente decreto.
+
+Artículo Cuarto. Todos los procedimientos, recursos y resoluciones administrativos, sanciones y demás asuntos relacionados con las materias a que se refiere esta Ley, iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio.
+
+Artículo Quinto. El Jefe de Gobierno procederá a modificar el contrato de fideicomiso del Fondo Mixto de Promoción Turística del Distrito Federal a fin de adecuarse a lo dispuesto por la presente Ley.
+
+En tanto no se designen a los representantes de los prestadores de servicios turísticos conforme a lo dispuesto en la presente ley, seguirán como representantes aquellos en funciones al momento de la entrada en vigor de la presente ley.
+
+De manera excepcional, se designa a la Delegación Cuauhtémoc para ocupar la representación a que se refiere la fracción V del artículo 46 de la Ley, por un periodo de un año a partir de la entrada en vigor de la presente Ley.
+
+Artículo Sexto. Los Jefes Delegacionales electos para el periodo 2009-2012, deberán proponer al Jefe de Gobierno lo Programas Delegacionales de Turismo, en coordinación con la Secretaría, a que se refiere el Artículo 14 de esta Ley, dentro de los sesenta días naturales siguientes a su publicación. El Jefe de Gobierno deberá emitir dichos programas dentro de los sesenta días naturales siguientes a la recepción de las propuestas de los Jefes Delegacionales.
+
+Artículo Séptimo. El Jefe de Gobierno contará con sesenta días naturales, a partir de la expedición del Reglamento, para la instalación de la Comisión y del Consejo.
