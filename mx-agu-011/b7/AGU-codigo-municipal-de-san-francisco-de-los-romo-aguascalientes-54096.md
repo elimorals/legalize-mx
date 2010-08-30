@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2010-05-24"
+last_updated: "2010-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2010.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -179,7 +179,7 @@ XII. Promover la sustentabilidad del medio ambiente, estableciendo las medidas, 
 
 XIII. Prestar adecuadamente los servicios públicos municipales;
 
-XlV. Promover y fomentar el desarrollo económico sostenible, agropecuario y turístico, estableciendo programas y acciones que conlleven a la generación de más oportunidades de empleo en la industria, el campo, el comercio y los servicios;
+XIV. Promover y fomentar el desarrollo económico sostenible, agropecuario y turístico, estableciendo programas y acciones que conlleven a la generación de más oportunidades de empleo en la industria, el campo, el comercio y los servicios;
 
 XV. Impulsar la capacidad creativa y emprendedora entre sus habitantes para la generación de nuevas empresas y el autoempleo;
 
@@ -729,7 +729,7 @@ XII. Fomentar e impulsar la industria, agricultura, comercio, turismo y demás a
 
 XIII. Fomentar la capacidad emprendedora de los habitantes del Municipio otorgando las mayores facilidades para la instalación, apertura y operación de las empresas;
 
-XlV. Promover la mayor eficiencia en las funciones administrativas y reducir la carga administrativa, a través de implementar mecanismos de simplificación, desarrollo tecnológico e innovación, para ofrecer mejor atención a la ciudadanía y a los particulares;
+XIV. Promover la mayor eficiencia en las funciones administrativas y reducir la carga administrativa, a través de implementar mecanismos de simplificación, desarrollo tecnológico e innovación, para ofrecer mejor atención a la ciudadanía y a los particulares;
 
 XV. Implementar los mecanismos necesarios para dar cumplimiento a la transparencia, al acceso a la información y a la rendición de cuentas, de conformidad a la ley en la materia y al presente Código;
 
@@ -823,11 +823,11 @@ L. Participar en la formulación de planes de desarrollo regional, los cuales de
 
 LI. Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en su jurisdicción territorial;
 
-LlI. Intervenir en la regularización de la tenencia de la tierra urbana;
+LII. Intervenir en la regularización de la tenencia de la tierra urbana;
 
-LlII. Otorgar licencias y permisos para construcciones;
+LIII. Otorgar licencias y permisos para construcciones;
 
-LlV. Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
+LIV. Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
 
 LV. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquellos afecten su ámbito territorial;
 
@@ -837,7 +837,7 @@ LVII. Formular y aprobar los planes y programas conducentes al desarrollo munici
 
 LVIII. Solicitar en términos de la ley aplicable la expropiación de bienes por causas de utilidad pública, en la forma que determine la ley en la materia, con la aprobación de las dos terceras partes de los integrantes del H. Ayuntamiento;
 
-LlX. El Municipio podrá coordinarse con otros municipios entre sí, con municipios de otros estados o bien con el Gobierno del Estado, para la solución de problemas comunes. Esta coordinación se llevará a cabo por medio de los convenios respectivos que se celebren de conformidad con lo dispuesto en la Ley Municipal;
+LIX. El Municipio podrá coordinarse con otros municipios entre sí, con municipios de otros estados o bien con el Gobierno del Estado, para la solución de problemas comunes. Esta coordinación se llevará a cabo por medio de los convenios respectivos que se celebren de conformidad con lo dispuesto en la Ley Municipal;
 
 LX. Acordar la categoría y denominación política que les corresponda a las localidades o centros de población;
 
@@ -877,7 +877,7 @@ XII. Vigilar e inspeccionar a las Dependencias y Entidades Municipales, y demás
 
 XIII. Promover y vigilar la aplicación de las políticas públicas de buen gobierno, como la mejora regulatoria, la simplificación administrativa, la transparencia y el acceso a la información, la rendición de cuentas, la innovación y uso de las tecnologías de información en el Municipio;
 
-XlV. Conceder licencia para diversiones públicas, señalando conforme a la Ley de Ingresos la carga fiscal que deban de entregar los interesados a la Dirección General de Finanzas y Administración;
+XIV. Conceder licencia para diversiones públicas, señalando conforme a la Ley de Ingresos la carga fiscal que deban de entregar los interesados a la Dirección General de Finanzas y Administración;
 
 XV. Tener bajo su mando los cuerpos de seguridad pública, nombrar y remover a los jefes y agentes de policía y tránsito del H. Ayuntamiento;
 
@@ -1113,7 +1113,7 @@ Contralor Municipal:
 
 Subdirección de Auditoria Financiera, Administrativa y de Obra Pública.
 
-DIRECCIÓN DE MEJORA REGULATORIA, SIMPLlFICACIÓN, TRANSPARENCIA E INNOVACIÓN
+DIRECCIÓN DE MEJORA REGULATORIA, SIMPLIFICACIÓN, TRANSPARENCIA E INNOVACIÓN
 
 Director:
 
@@ -1209,7 +1209,7 @@ Departamento de Construcción y Mantenimiento; y
 
 Departamento de Proyectos y Contratos.
 
-DIRECCION DE SERVICIOS PUBLlCOS
+DIRECCION DE SERVICIOS PÚBLICOS
 
 Director:
 
@@ -1403,7 +1403,7 @@ XII. Impulsar, en coordinación con los órganos de gobierno y sociales, la conf
 
 XIII. Impulsar acciones que contribuyan a resolver el problema de la violencia contra las mujeres, en todas sus modalidades, priorizando su prevención, promoviendo la defensa y la protección de los derechos humanos de la mujer, en todas las etapas de su vida y ámbito de desarrollo;
 
-XlV. Proponer al Presidente Municipal suscribir acuerdos y convenios de coordinación o concertación, con las Dependencias de las administraciones públicas federal, estatal y municipal y organismos nacionales e internacionales que no sean facultad exclusiva del Gobierno del Estado, con el fin de cumplir su objeto, actuar como órgano de consulta, capacitación y asesoría de estas entidades, públicas, sociales y privadas, con el objeto de lograr la igualdad de oportunidades para las mujeres;
+XIV. Proponer al Presidente Municipal suscribir acuerdos y convenios de coordinación o concertación, con las Dependencias de las administraciones públicas federal, estatal y municipal y organismos nacionales e internacionales que no sean facultad exclusiva del Gobierno del Estado, con el fin de cumplir su objeto, actuar como órgano de consulta, capacitación y asesoría de estas entidades, públicas, sociales y privadas, con el objeto de lograr la igualdad de oportunidades para las mujeres;
 
 XV. Impulsar, a través de los medios de comunicación y en el sistema educativo, una cultura de equidad y respeto a la dignidad humana, mediante imágenes o mensajes publicitarios no discriminatorios, que favorezcan la eliminación de imágenes nocivas y estereotipadas sobre las mujeres y los hombres;
 
@@ -1433,7 +1433,7 @@ III. Vigilar que se cumpla estrictamente con las disposiciones legales y adminis
 
 IV. Formular y proponer al Presidente Municipal los proyectos de planes y programas que le correspondan.
 
-APARTADO SEPTlMO
+APARTADO SEPTIMO
 
 De la Contraloría Municipal
 
@@ -1639,7 +1639,7 @@ XII. Apoyar al Comité Municipal para el Desarrollo Integral de la Familia DIF l
 
 XIII. Coadyuvar con las autoridades relacionadas con la verificación de las actividades comerciales, industriales y de servicios en la imposición de las sanciones administrativas por las faltas al Código, reglamentos Municipales y demás disposiciones jurídicas, aprobadas por el H. Ayuntamiento y de conformidad con lo previsto en la normatividad aplicable;
 
-XlV. Acordar con el Presidente Municipal y con el Secretario del H. Ayuntamiento y Director General de Gobierno, los asuntos inherentes a la Dirección de Asuntos Jurídicos, siempre y cuando esté involucrado el Municipio y sólo otorgar informes por escrito cada quince días de la calidad y cantidad de trabajo desempeñado a favor de la ciudadanía;
+XIV. Acordar con el Presidente Municipal y con el Secretario del H. Ayuntamiento y Director General de Gobierno, los asuntos inherentes a la Dirección de Asuntos Jurídicos, siempre y cuando esté involucrado el Municipio y sólo otorgar informes por escrito cada quince días de la calidad y cantidad de trabajo desempeñado a favor de la ciudadanía;
 
 XV. Compilar leyes, decretos reglamentos, periódicos oficiales del Estado, circulares y órdenes relativas a los distintos sectores de la Administración Pública Municipal; y
 
@@ -1707,7 +1707,7 @@ Corresponde a la Dirección de Desarrollo Social, Económico y Agropecuario lo s
 
 I. Promover la concertación de acuerdos de carácter social, político y económico entre el Municipio y los diversos grupos sociales;
 
-II. Fomentar la participación social para la concertación de intereses, esfuerzos y voluntades parra llegar al desarrollo integral de la comunidad;
+II. Fomentar la participación social para la concertación de intereses, esfuerzos y voluntades para llegar al desarrollo integral de la comunidad;
 
 III. Promover y apoyar la participación ciudadana, para lograr un mejoramiento de las condiciones de vida a través de las obras y servicios públicos que proporciona el Municipio;
 
@@ -1857,7 +1857,7 @@ XII. Verificar el uso que se está dando a un predio, edificio o construcción y
 
 XIII. Acordar las medidas que fueren procedentes en relación con las edificaciones peligrosas, que generen insalubridad o causen molestias;
 
-XlV. Ordenar la suspensión temporal o la clausura de obras en ejecución o terminadas, así como la desocupación de los inmuebles en los casos previstos en este Código;
+XIV. Ordenar la suspensión temporal o la clausura de obras en ejecución o terminadas, así como la desocupación de los inmuebles en los casos previstos en este Código;
 
 XV. Aplicar medidas de seguridad en inmuebles, en los casos previstos en este Código;
 
@@ -2499,7 +2499,7 @@ I. Por deudas contraídas con el Municipio, por concepto de préstamos personale
 
 II. Por cuotas sindicales o de aportaciones de fondos de ahorros ante el ISSSSPEA;
 
-III. Por descuentos ordenados por el lSSSSPEA con motivos de las obligaciones contraídas por los trabajadores con este Instituto;
+III. Por descuentos ordenados por el ISSSSPEA con motivos de las obligaciones contraídas por los trabajadores con este Instituto;
 
 IV. Por descuentos ordenados por autoridad judicial competente para cubrir pensiones alimenticias que fueren exigidos al trabajador;
 
@@ -2523,7 +2523,7 @@ El Municipio queda liberado de cualquier responsabilidad de pago al apoderado, s
 
 Los trabajadores del Municipio atenderán los siguientes horarios:
 
-I. PERSONAL ADMINISTRATIVO, DE OFICINAS, TECNICOS OPERATIVOS, DE OBRAS Y SERVICIOS PUBLlCOS, el horario de trabajo será de 8:00 a 15:00 horas. De tal manera que la jornada de trabajo consta de 7 horas, contando con 30 minutos para tomar alimentos;
+I. PERSONAL ADMINISTRATIVO, DE OFICINAS, TECNICOS OPERATIVOS, DE OBRAS Y SERVICIOS PUBLICOS, el horario de trabajo será de 8:00 a 15:00 horas. De tal manera que la jornada de trabajo consta de 7 horas, contando con 30 minutos para tomar alimentos;
 
 II. INTENDENCIA: El horario será de 7:00 a 14:00 horas, contando con 30 minutos para tomar alimentos;
 
@@ -6623,7 +6623,7 @@ XII. Barrido mecánico: Recolección de desechos sólidos dispersos en vía púb
 
 XIII. Camión recolector: Vehículo adaptado para la recolección y transporte de desechos sólidos depositados en los contenedores;
 
-XlV. Contenedor: Caja o cilindro móvil de variada capacidad, que se usa para el depósito y transportación de residuos sólidos exclusivamente;
+XIV. Contenedor: Caja o cilindro móvil de variada capacidad, que se usa para el depósito y transportación de residuos sólidos exclusivamente;
 
 XV. Disposición final: Acción de depositar confinar los residuos en sitios y condiciones adecuadas para evitar daños al ambiente;
 
@@ -6979,7 +6979,7 @@ XII. Apagar sus luces, radio, planchas eléctricas, tostadores, parrillas y en g
 
 XIII. Vigilar que al retirarse queden sus puestos y mercancías debidamente cubiertos y asegurados;
 
-XlV. Observar las medidas que los ordenamientos legales de la materia y este Capítulo dicten, así como todas aquellas medidas de seguridad que determine la Dirección de Servicios Públicos;
+XIV. Observar las medidas que los ordenamientos legales de la materia y este Capítulo dicten, así como todas aquellas medidas de seguridad que determine la Dirección de Servicios Públicos;
 
 XV. Conservar sus instalaciones en condiciones de higiene y limpieza;
 
@@ -7131,7 +7131,7 @@ XII. Adoptar actitudes obscenas o utilizar lenguaje que sea contrario a las buen
 
 XIII. Vender, arrendar, prestar, de cualquier forma total o parcialmente, las piedras o locales;
 
-XlV. Cambiar de giro sin la autorización expresa de la Dirección y cesionar o traspasar la piedra o local sin cumplir lo estipulado en el Artículo 657 de este Código;
+XIV. Cambiar de giro sin la autorización expresa de la Dirección y cesionar o traspasar la piedra o local sin cumplir lo estipulado en el Artículo 657 de este Código;
 
 XV. Vender productos explosivos, flamables o juegos pirotécnicos;
 
@@ -7221,7 +7221,7 @@ En cada centro de población mayor de 3,000 habitantes, se procurará la existen
 
 ###### ARTICULO 676.
 
-Las zonas, secciones y alineaciones de fosas serán marcadas con el pIano general del panteón previamente aprobado, observando estrictamente las mismas.
+Las zonas, secciones y alineaciones de fosas serán marcadas con el plano general del panteón previamente aprobado, observando estrictamente las mismas.
 
 ###### ARTICULO 677.
 
@@ -7331,7 +7331,7 @@ VI. Procurar el buen estado de los jardines que se encuentran dentro de los pant
 
 Los Administradores de los cementerios tendrán las siguientes obligaciones:
 
-I. Cuidar y aplicar las medidas necesarias para la conservación, limpieza e higiene del cementerio;
+l. Cuidar y aplicar las medidas necesarias para la conservación, limpieza e higiene del cementerio;
 
 II. Cuidar que los sepulcros en general, guarden entre sí la distancia señalada en este Capítulo y estén numerados convenientemente para su debida identificación;
 
@@ -7357,7 +7357,7 @@ XII. Llevar un registro de exhumaciones, reinhumaciones y cremaciones;
 
 XIII. Establecer como horas reglamentarias de las 8:00 a las 18:00 horas;
 
-XlV. Inhumar en las fosas seleccionadas por el difunto o sus familiares; y
+XIV. Inhumar en las fosas seleccionadas por el difunto o sus familiares; y
 
 XV. Cumplir con las tarifas que determine la autoridad municipal, para el cobro de los servicios funerarios, de acuerdo con la (sic) Leyes de Ingresos y de Hacienda Municipal.
 
@@ -7669,7 +7669,7 @@ Son obligaciones de los Corraleros:
 
 I. Recibir el ganado al llegar al rastro municipal y depositarlo en los corrales de estancia;
 
-II. Sacar de los corrales el ganado que el lntroductor señale para su sacrificio, y para evitar confusiones, el trabajo se efectuará en orden de corrales, estableciéndose que para el caso de no encontrarse el Introductor o estando resuelta la anomalía, su turno pasará al siguiente Introductor para facilitar esta tarea; cuando un Introductor desee reponer un animal o aumentar el número de los que pretenda matar, después de iniciar la matanza de su ganado, el Corralero hará que espere hasta que termine el último Introductor del turno;
+II. Sacar de los corrales el ganado que el Introductor señale para su sacrificio, y para evitar confusiones, el trabajo se efectuará en orden de corrales, estableciéndose que para el caso de no encontrarse el Introductor o estando resuelta la anomalía, su turno pasará al siguiente Introductor para facilitar esta tarea; cuando un Introductor desee reponer un animal o aumentar el número de los que pretenda matar, después de iniciar la matanza de su ganado, el Corralero hará que espere hasta que termine el último Introductor del turno;
 
 III. Llevar el ganado hasta el cajón de matanza; y
 
@@ -8263,7 +8263,7 @@ XII. Analizar y evaluar las operaciones que realice la Corporación, para mejora
 
 XIII. Apoyar e intervenir en situaciones de contingencia con el propósito de prevenir y mitigar situaciones de emergencia; y
 
-XlV. Las demás que le sean encomendadas por el Director.
+XIV. Las demás que le sean encomendadas por el Director.
 
 ###### ARTICULO 812.
 
@@ -8513,7 +8513,7 @@ b. Muerte con motivo del ejercicio de su trabajo - 2100 días de salario mínimo
 
 c. Muerte colectiva por motivo de trabajo - 3150 días de salario mínimo general vigente en el Estado de Aguascalientes, entendiéndose por muerte colectiva cuando dos o más elementos mueren en un suceso común en el ejercicio de sus funciones; y
 
-XlV. Los demás que señale la legislación en la materia.
+XIV. Los demás que señale la legislación en la materia.
 
 ###### ARTICULO 842.
 
@@ -8545,7 +8545,7 @@ XII. Detener a los delincuentes e infractores que sorprendan en flagrante delito
 
 XIII. Poner a disposición del Agente del Ministerio Público los objetos o instrumentos que aseguren a particulares relacionados con hechos delictivos, elaborar partes de novedades de los hechos de que tenga conocimiento y comparecer a rendir informes y declaraciones que soliciten las autoridades;
 
-XlV. Elaborar las boletas de infracción a los particulares que violen cualquiera de las obligaciones que contiene este Libro;
+XIV. Elaborar las boletas de infracción a los particulares que violen cualquiera de las obligaciones que contiene este Libro;
 
 XV. Prestar sus servicios de manera personal, quedando prohibido delegarlo a terceros;
 
@@ -8711,7 +8711,7 @@ XII. Toda circunstancia de servilismo. Así como de hostilidad o supervisión po
 
 XIII. Castigar o golpear a los detenidos, así como recomendar o sugerir alguna forma de castigo, debiendo limitarse a su detención y conducción a la autoridad competente;
 
-XlV. Aceptar favores o gratificaciones en el desempeño de sus labores o con motivo de éstas;
+XIV. Aceptar favores o gratificaciones en el desempeño de sus labores o con motivo de éstas;
 
 XV. Usar lenguaje obsceno e injurioso;
 
@@ -8813,9 +8813,7 @@ X. Las demás que señale el presente Código.
 
 ###### ARTICULO 859.
 
-La Dirección manifestará públicamente el reconocimiento a las personas que siendo miembros de la Corporación, sean un ejemplo positivo de comportamiento y trabajo en beneficio de la
-
-seguridad pública y aún a aquellas que no sean miembros de alguna corporación.
+La Dirección manifestará públicamente el reconocimiento a las personas que siendo miembros de la Corporación, sean un ejemplo positivo de comportamiento y trabajo en beneficio de la seguridad pública y aún a aquellas que no sean miembros de alguna corporación.
 
 ###### ARTICULO 860.
 
@@ -8951,13 +8949,15 @@ Sólo podrá sesionar con la presencia del Presidente, del Secretario y un míni
 
 Las facultades de la Comisión de Honor y Justicia se ejercerán sin perjuicio de las que correspondan al Presidente Municipal, al Secretario del H. Ayuntamiento y al Director de Seguridad Pública y Tránsito.
 
-## TITULO SEGUNDO. DE LAS FALTAS DE POLlCIA Y BUEN GOBIERNO
+## TITULO SEGUNDO. DE LAS FALTAS DE POLICIA Y BUEN GOBIERNO
 
 ### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 875.
 
-El presente Capítulo contiene disposiciones de observancia general obligatoria en el Municipio de San Francisco de los Romo y sanciona las faltas administrativas que alteran o ponen en peligro el orden público.
+El presente Capítulo contiene disposiciones de observancia general obligatoria en el Municipio de San Francisco de los
+
+Romo y sanciona las faltas administrativas que alteran o ponen en peligro el orden público.
 
 ###### ARTICULO 876.
 
@@ -9011,7 +9011,7 @@ XII. Impedir directa o indirectamente la acción de los agentes de seguridad pú
 
 XIII. Hacer gesticulaciones o proferir insultos a cualquier autoridad o servidor público en el ejercicio de sus funciones; y
 
-XlV. Disparar, exhibir o portar artefactos similares a las armas de fuego en cualquier lugar público, provocando escándalo o temor en las personas.
+XIV. Disparar, exhibir o portar artefactos similares a las armas de fuego en cualquier lugar público, provocando escándalo o temor en las personas.
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2010)</small>
 
@@ -9227,7 +9227,7 @@ XII. Almacenar, transportar o utilizar sustancias peligrosas en la vía pública
 
 XIII. Dañar, ensuciar, pintar o hacer uso indebido de los bienes muebles e inmuebles, públicos o privados sin perjuicio de los (sic) previsto en otros ordenamientos legales;
 
-XlV. Destruir, obstruir o hacer uso indistinto para el cual fueron fijados los objetos de uso común como son casetas telefónicas, buzones, contenedores u otros, sin perjuicio de los (sic) previsto en otros ordenamientos legales;
+XIV. Destruir, obstruir o hacer uso indistinto para el cual fueron fijados los objetos de uso común como son casetas telefónicas, buzones, contenedores u otros, sin perjuicio de los (sic) previsto en otros ordenamientos legales;
 
 XV. Cubrir, borrar, alterar o desprender señales o letreros que indiquen rutas o lugares públicos, así como números, letras y signos convencionales que identifiquen inmuebles públicos o privados;
 
@@ -10273,7 +10273,7 @@ Se entiende por obra de urbanización a toda acción de infraestructura en la v�
 
 I. Red de abastecimiento de agua potable y tomas domiciliarias;
 
-II. Red de alcantarillado sanitario con descagas domiciliarias;
+II. Red de alcantarillado sanitario con descargas domiciliarias;
 
 III. Red de electrificación con servicio de baja tensión;
 
@@ -10331,7 +10331,7 @@ b. Las edificaciones ubicadas en zonas del Patrimonio Histórico, Artístico y A
 
 c. El resto de las edificaciones que tengan más de tres mil metros cuadrados cubiertos o más de quince metros de altura totales, o en espacios con capacidad para más de doscientos concurrentes en locales cerrados o más de mil concurrentes en locales abiertos, exceptuando Naves Industriales y Bodegas.
 
-i Especializados en Diseño Urbano para los siguientes casos:
+i. Especializados en Diseño Urbano para los siguientes casos:
 
 a) Las obras que comprenderán la responsiva del Perito Especializado en Diseño Urbano son, en cuanto a estructura urbana y/o diseño de los espacios abiertos mayores de cinco mil metros cuadrados, de los casos que a continuación se desglosan:
 
@@ -10361,7 +10361,7 @@ b) Fraccionamientos, en los casos que la Dirección General lo considere pertine
 
 2. Fraccionamientos Especiales: Campestre, Comerciales, Granjas de Explotación Agropecuaria, Cementerios, Industriales.
 
-ii Especializados en Diseño Estructural para los siguientes casos:
+ii. Especializados en Diseño Estructural para los siguientes casos:
 
 a) Construcciones Correspondientes al grupo "A" del Título Quinto de este Libro;
 
@@ -10529,9 +10529,9 @@ La obligación de actuar como único responsable de la ejecución para el perito
 
 Obligaciones de los peritos especializados:
 
-l. Del Especializado en Diseño Arquitectónico:
+I. Del Especializado en Diseño Arquitectónico:
 
-a) Suscribir, conjuntamente con el Perito Responsable de Obra, la solicitud de licencia y los pIanos del proyecto correspondiente, cuando se trate de las obras previstas en este Libro;
+a) Suscribir, conjuntamente con el Perito Responsable de Obra, la solicitud de licencia y los planos del proyecto correspondiente, cuando se trate de las obras previstas en este Libro;
 
 b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y cumplido las disposiciones establecidas por el presente Libro de construcción, así como las normas del Código Urbano y las demás disposiciones relativas al Diseño Arquitectónico y a la preservación del patrimonio cultural;
 
@@ -10557,7 +10557,7 @@ I) Refrendar su calidad de Perito el mes de enero de cada año actualizando sus 
 
 II. Del Especializado en Diseño Urbano:
 
-a) Suscribir, conjuntamente con el Perito Responsable de Obra, la solicitud de licencia y los pIanos del proyecto correspondiente, cuando se trate de las obras previstas en este Libro;
+a) Suscribir, conjuntamente con el Perito Responsable de Obra, la solicitud de licencia y los planos del proyecto correspondiente, cuando se trate de las obras previstas en este Libro;
 
 b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y se hayan cumplido las disposiciones establecidas por el presente Libro, así como las normas del Código Urbano y las demás disposiciones relativas al Diseño Urbano;
 
@@ -10703,7 +10703,7 @@ XII. Talleres mecánicos;
 
 XIII. Conjuntos habitacionales;
 
-XlV. Edificios con más de ocho niveles sobre el nivel de la calle;
+XIV. Edificios con más de ocho niveles sobre el nivel de la calle;
 
 XV. Terminales de vehículos para servicio público tales como estaciones de pasajeros, de carga y autobuses;
 
@@ -10935,7 +10935,7 @@ Requerimientos de habitabilidad y funcionamiento.
 
 Los locales de las edificaciones según su tipo tendrán el mínimo de las dimensiones y características que se establecen en la tabla siguiente:
 
-REQUERIMIENTOS DE HABITABILlDAD Y FUNCIONAMIENTO
+REQUERIMIENTOS DE HABITABILIDAD Y FUNCIONAMIENTO
 
 (VEASE ARCHIVO ANEXO)
 
@@ -10993,7 +10993,7 @@ XII. Las puertas corredizas, las de doble abatimiento principalmente de cristal 
 
 XIII. En las cabinas sanitarias para personas con capacidades diferentes, la puerta debe tener 90 centímetros de ancho completamente libres y se debe abatir hacia afuera. El asiento de la taza debe encontrarse a 55 centímetros de altura del nivel de piso terminado y es de preferirse un mueble empotrado a la pared o de base remetida para facilitar el acercamiento de una silla de ruedas;
 
-XlV. En beneficio de las personas con capacidades diferentes con lesiones músculo-esqueléticas o del sistema nervioso, todas las cabinas sanitarias deben encontrarse equipadas con una barra horizontal sólidamente fijada en cada una de sus paredes laterales colocada a una altura de 82 centímetros separada de la pared y de un diámetro no mayor de media pulgada;
+XIV. En beneficio de las personas con capacidades diferentes con lesiones músculo-esqueléticas o del sistema nervioso, todas las cabinas sanitarias deben encontrarse equipadas con una barra horizontal sólidamente fijada en cada una de sus paredes laterales colocada a una altura de 82 centímetros separada de la pared y de un diámetro no mayor de media pulgada;
 
 XV. Los lavamanos para personas con capacidades diferentes en los sanitarios públicos, deben tener una altura máxima de 80 cms. para permitir el acceso fácil desde una silla de ruedas y tener aislados los tubos interiores de agua caliente con el fin de evitar quemaduras en personas que carecen de sensibilidad en las piernas;
 
@@ -11009,7 +11009,7 @@ Para los efectos de este Artículo, se deberán respetar las condiciones y requi
 
 Buzones.
 
-Los edificios de uso público deberán contar conbuzones en sus accesos, únicamente para recibir correspondencia, accesibles desde el exterior.
+Los edificios de uso público deberán contar con buzones en sus accesos, únicamente para recibir correspondencia, accesibles desde el exterior.
 
 ### CAPITULO II. Espacios sin Construir
 
@@ -11203,7 +11203,7 @@ Los materiales empleados serán de tipo incombustible y con pisos antiderrapante
 
 Señalamientos de salidas.
 
-Para las edificaciones especificadas en el Artículo anterior, las salidas de emergencia deberán señalarse mediante letreros con los textos "Salida de Emergencia" según el caso, además contarán con flechas y símbolos luminosos que indiquen la ubicación y dirección de las salidas. Los textos y figuras deberán ser claramente visibles desde cualquier punto del área a la que sirvan y estarán iluminados en forma permanente, aunque se lIegare a interrumpir el servicio eléctrico general.
+Para las edificaciones especificadas en el Artículo anterior, las salidas de emergencia deberán señalarse mediante letreros con los textos "Salida de Emergencia" según el caso, además contarán con flechas y símbolos luminosos que indiquen la ubicación y dirección de las salidas. Los textos y figuras deberán ser claramente visibles desde cualquier punto del área a la que sirvan y estarán iluminados en forma permanente, aunque se llegare a interrumpir el servicio eléctrico general.
 
 ###### ARTICULO 1078.
 
@@ -11507,7 +11507,7 @@ Las construcciones que no cumplan con las características de ventilación natur
 
 Debiéndose tomar en consideración la siguiente tabla para que se garanticen los cambios de volumen de aire del local que se trate:
 
-VENTlLACION ARTIFICIAL
+VENTILACION ARTIFICIAL
 
 (VEASE ARCHIVO ANEXO)
 
@@ -12169,7 +12169,7 @@ VI. En todas las albercas donde la profundidad sea mayor de noventa centímetros
 
 VII. La instalación de trampolines y plataformas cumplirá las siguientes condiciones:
 
-TRAMPOLlNES y PLATAFORMAS
+TRAMPOLINES y PLATAFORMAS
 
 TRAMPOLINES
 
@@ -13229,7 +13229,7 @@ IV. La altura de la estructura no será mayor de trece metros.
 
 Los coeficientes sísmicos reducidos serán como sigue:
 
-COEFICIENTES SISMICOS PARA EL METODO SIMPLIFICADO DE ANALlSIS
+COEFICIENTES SISMICOS PARA EL METODO SIMPLIFICADO DE ANALISIS
 
 (VEASE ARCHIVO ANEXO)
 
@@ -14347,7 +14347,7 @@ Cuando en casos excepcionales, a juicio del Perito Responsable de Obra, sea nece
 
 El acero de presfuerzo y los ductos de postensado deberán adicionalmente protegerse durante su transportación, manejo y almacenamiento contra golpes, caídas y cualquier otra maniobra que pudiera modificar su resistencia o calidad originales.
 
-Antes de autorizar los colados, el Perito Responsable de Obra deberá comprobar que el acero esté colocado en su sitio de acuerdo con los pIanos estructurales y que se encuentre correctamente sujeto, así como exento de grasas, polvos, óxido excesivo o de cualquier otra sustancia que pueda reducir su adherencia con el concreto. Dicha comprobación deberá asentarse en la bitácora.
+Antes de autorizar los colados, el Perito Responsable de Obra deberá comprobar que el acero esté colocado en su sitio de acuerdo con los planos estructurales y que se encuentre correctamente sujeto, así como exento de grasas, polvos, óxido excesivo o de cualquier otra sustancia que pueda reducir su adherencia con el concreto. Dicha comprobación deberá asentarse en la bitácora.
 
 Además, se respetará lo prescrito en las Normas Técnicas Complementarias para Diseño y Construcción de estructuras de concreto.
 
@@ -15111,7 +15111,7 @@ XII. Planos de planta de conjunto indicando, drenajes, registros, areneros, tram
 
 XIII. Planos de planta de conjunto indicando accesos, salidas, circulaciones de auto-tanques, circulaciones vehiculares y peatonales, estacionamientos, detalles en planta y corte de rampas de accesos, salidas y banquetas exteriores, firmados por el perito responsable de obra;
 
-XlV. Planos arquitectónicos de conjunto indicando, área de tanque de almacenamiento, área de oficinas, baño, vestidores, dormitorios y comercios, área de despacho, de combustible, áreas jardinadas, y demás firmados por el perito responsable de obra;
+XIV. Planos arquitectónicos de conjunto indicando, área de tanque de almacenamiento, área de oficinas, baño, vestidores, dormitorios y comercios, área de despacho, de combustible, áreas jardinadas, y demás firmados por el perito responsable de obra;
 
 XV. Planos arquitectónicos con instalación sanitaria incluyendo plantas, cortes sanitarios y fachadas de el edificio administrativo firmados por el perito responsable de obra; y
 
@@ -15167,7 +15167,7 @@ Para obras de reposición y/o modificación de banquetas se requiere presentar:
 
 I. Recibo de pago o contrato de servicio de agua potable y alcantarillado; y
 
-II. Solicitud de licencia de construcción y bitácora de obra, debidamente requisitazas y signadas por el propietario, el constructor en su caso, un Perito Responsable de Obra regularizado ante la Dirección.
+II. Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por el propietario, el constructor en su caso, un Perito Responsable de Obra regularizado ante la Dirección.
 
 ###### ARTICULO 1461.
 
@@ -15255,7 +15255,7 @@ j) Manifiesto de impacto ambiental; y
 
 k) Proyecto de incorporación a la carretera con el visto bueno de la Secretaría de Comunicaciones y Transportes, cuando dicho predio se encuentre sobre la carretera federal.
 
-## TITULO DECIMO. DEL COMITE TECNICO DE MUNICIPALlZACION
+## TITULO DECIMO. DEL COMITE TECNICO DE MUNICIPALIZACION
 
 ### CAPITULO UNICO. Del Funcionamiento del Comité
 
@@ -15297,7 +15297,7 @@ Dentro de los sesenta días de iniciada cada Administración Municipal, el Presi
 
 ###### ARTICULO 1470.
 
-Todos los integrantes del Comité Técnico de Municipalización tendrán voz y voto a excepción del representante de la Subdirección de Auditoria Financiera, Administrativa y de Obra Pública de la Contraloría Municipal quien sólo tendrá voz; las decisiones se tomarán por mayoría de votos del 50% más uno.
+Todos los integrantes del Comité Técnico de Municipalización tendrán voz y voto a excepción del representante de la Subdirección de Auditoría Financiera, Administrativa y de Obra Pública de la Contraloría Municipal quien sólo tendrá voz; las decisiones se tomarán por mayoría de votos del 50% más uno.
 
 En caso de empate se someterá nuevamente a consideración el asunto a tratar debatiendo los argumentos expuestos; de persistir el empate, el Presidente del Comité Técnico de Municipalización tendrá voto de calidad.
 
@@ -15411,7 +15411,7 @@ XII. Dictamen de Impacto Urbano: Es el documento en donde se manifiesta el efect
 
 XIII. Compatibilidad Urbanística: Es la autorización expedida por la Dirección, a través de la cual se señala entre otras cosas el uso particular a que podrán dedicarse determinadas zonas, predios o edificaciones de un centro de población, conforme a lo que establece el Artículo 158 del Código Urbano;
 
-XlV. Alineamiento: Es la traza sobre el terreno que limita al predio respectivo con la vía pública en uso o con la futura vía pública, determinada en los planos y proyectos debidamente autorizados;
+XIV. Alineamiento: Es la traza sobre el terreno que limita al predio respectivo con la vía pública en uso o con la futura vía pública, determinada en los planos y proyectos debidamente autorizados;
 
 XV. Observaciones de Compatibilidad Urbanística: Son las indicaciones que hace la Dirección, dentro de la constancia de alineamiento y compatibilidad urbanística, con base en la zonificación prevista en los Programas de Desarrollo Urbano Municipales, en las que se señalan los usos o destinos de áreas, predios o edificaciones permitidos, condicionados o prohibidos;
 
@@ -15565,7 +15565,7 @@ XI. Uso o destino actual y el propuesto del inmueble o inmuebles;
 
 XII. Características de la urbanización del terreno o terrenos;
 
-XIII. Cuando lo considere necesario la Dirección, acompañar las correspondientes diligencias judiciales o administrativas de apeo y deslinde con pIano de cuadro de áreas, así como de la posesión del predio correspondiente, y
+XIII. Cuando lo considere necesario la Dirección, acompañar las correspondientes diligencias judiciales o administrativas de apeo y deslinde con plano de cuadro de áreas, así como de la posesión del predio correspondiente, y
 
 XIV. Tratándose de subdivisión de predios, cuando lo aprecie indispensable la Dirección, se deberá acompañar dictamen del Organismo Operador de Agua del Municipio de San Francisco de los Romo, en el que conste que no se saturaría o afectaría el servicio de agua potable y alcantarillado con motivo de esa autorización.
 
@@ -15643,15 +15643,15 @@ c) Si el inmueble materia de la solicitud se ubica en un ejido, el peticionario 
 
 La clasificación, características y funciones de las vialidades a que se refiere este Código Municipal, se apega a la normatividad y definiciones establecidas en el Código Urbano.
 
-I. VIALlDADES REGIONALES O DE ACCESO CONTROLADO: Son aquellas que vinculan a la Ciudad de San Francisco de los Romo, con el sistema carretero regional;
+I. VIALIDADES REGIONALES O DE ACCESO CONTROLADO: Son aquellas que vinculan a la Ciudad de San Francisco de los Romo, con el sistema carretero regional;
 
-Il. VIALIDADES PRINCIPALES O PRIMARIAS: Son las que estructuran el sistema vial de la Ciudad de San Francisco de los Romo, por lo que son las de mayor importancia por sección y flujo vehicular. Su dimensión aproximada es de 42 metros de sección o ancho;
+II. VIALIDADES PRINCIPALES O PRIMARIAS: Son las que estructuran el sistema vial de la Ciudad de San Francisco de los Romo, por lo que son las de mayor importancia por sección y flujo vehicular. Su dimensión aproximada es de 42 metros de sección o ancho;
 
-III. VIALlDADES SECUNDARIAS: Son las que vinculan las diferentes zonas urbanas y tienen una menor importancia que las principales. Su dimensión va de los 23 metros a los 42 metros de sección o de ancho, dependiendo del flujo vehicular, ya que son un enlace entre vialidades primarias y colectoras;
+III. VIALIDADES SECUNDARIAS: Son las que vinculan las diferentes zonas urbanas y tienen una menor importancia que las principales. Su dimensión va de los 23 metros a los 42 metros de sección o de ancho, dependiendo del flujo vehicular, ya que son un enlace entre vialidades primarias y colectoras;
 
-IV. VIALlDADES COLECTORAS: Son las que enlazan las unidades vecinales entre sí, es decir, conducen el tráfico de las calles locales hacia otras zonas del fraccionamiento o del centro de población, o hacia las arterias de gran volumen. Este tipo de calles nunca podrán ser cerradas y pueden servir para dar acceso a los lotes. Su dimensión va desde los 15 metros hasta los 22 metros de sección o de ancho, dependiendo del tipo de fraccionamiento;
+IV. VIALIDADES COLECTORAS: Son las que enlazan las unidades vecinales entre sí, es decir, conducen el tráfico de las calles locales hacia otras zonas del fraccionamiento o del centro de población, o hacia las arterias de gran volumen. Este tipo de calles nunca podrán ser cerradas y pueden servir para dar acceso a los lotes. Su dimensión va desde los 15 metros hasta los 22 metros de sección o de ancho, dependiendo del tipo de fraccionamiento;
 
-V. VIALlDADES LOCALES: Son aquellas que dan servicio internamente a los fraccionamientos, colonias y desarrollos habitacionales y sirven para dar acceso a sus lotes, por lo que son las de menor sección. Su dimensión es de 12 metros de sección o de ancho para fraccionamientos de tipo campestre, medio, popular y de interés social y de 15 metros de sección o de ancho en fraccionamientos de tipo residencial;
+V. VIALIDADES LOCALES: Son aquellas que dan servicio internamente a los fraccionamientos, colonias y desarrollos habitacionales y sirven para dar acceso a sus lotes, por lo que son las de menor sección. Su dimensión es de 12 metros de sección o de ancho para fraccionamientos de tipo campestre, medio, popular y de interés social y de 15 metros de sección o de ancho en fraccionamientos de tipo residencial;
 
 VI. PRIVADAS: Son las vías públicas municipales que no tienen una continuidad o liga con otras calles, por encontrarse cerradas o delimitadas en uno de sus extremos. Sin embargo las mismas se consideran como un bien del dominio público del Municipio de San Francisco de los Romo, por reunir las características y condiciones a que hace referencia el Código Urbano para el Estado de Aguascalientes; y
 
@@ -15991,7 +15991,7 @@ XII. Solicitar a la Dirección General de Gobierno para que por su conducto se u
 
 XIII. Solicitar a la Delegación del Instituto Nacional de Antropología e Historia, su opinión respecto de la autorización de anuncios que pretendan ubicarse en la Zona de Protección Histórico Patrimonial de la Ciudad de San Francisco de los Romo, así como de su retiro;
 
-XlV. Imponer las medidas de seguridad y sanciones previstas en este Código Municipal, y
+XIV. Imponer las medidas de seguridad y sanciones previstas en este Código Municipal, y
 
 XV. Las demás que le confieren este Código Municipal y otras disposiciones jurídicas y administrativas aplicables.
 
@@ -16189,7 +16189,7 @@ Los anuncios en las zonas habitacionales, industriales, comerciales y turística
 
 En materia de anuncios deberán observarse los siguientes lineamientos y restricciones:
 
-l. Durante las campañas electorales de los partidos políticos, deberán ajustarse a los tiempos establecidos en la legislación electoral federal o estatal según corresponda;
+I. Durante las campañas electorales de los partidos políticos, deberán ajustarse a los tiempos establecidos en la legislación electoral federal o estatal según corresponda;
 
 II. El contenido y mensaje de los anuncios, deberá ser veraz y en idioma español;
 
@@ -16467,7 +16467,7 @@ XII. Voladizo;
 
 XIII. Rotulado;
 
-XlV. De tijera;
+XIV. De tijera;
 
 XV. Colgante;
 
@@ -16965,7 +16965,7 @@ por cara
 
 La clasificación, características y funciones de las vialidades a que se refiere este Código Municipal, se apega a la normatividad y definiciones establecidas en el Programa de Desarrollo Urbano de la Ciudad de San Francisco de los Romo correspondiente.
 
-l. Las vialidades regionales o de acceso controlado, son aquellas que vinculan a la Ciudad de San Francisco de los Romo, con el sistema carretero regional;
+I. Las vialidades regionales o de acceso controlado, son aquellas que vinculan a la Ciudad de San Francisco de los Romo, con el sistema carretero regional;
 
 II. Las vialidades principales o primarias, son las que estructuran el sistema vial de la Ciudad, por lo que son las de mayor importancia por sección y flujo vehicular. Su dimensión aproximada es de 42 metros de sección o de ancho;
 
@@ -17151,7 +17151,7 @@ XII. Crear y administrar zonas de preservación ecológica de los centros de pob
 
 XIII. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen a los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas;
 
-XlV. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generadas por fuentes fijas, que funcionen como establecimientos mercantiles y de servicios y quemas dentro de la zona de competencia municipal;
+XIV. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generadas por fuentes fijas, que funcionen como establecimientos mercantiles y de servicios y quemas dentro de la zona de competencia municipal;
 
 XV. Aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínica y olores perjudiciales para el ambiente, provenientes de fuentes fijas que funcionen como establecimientos mercantiles o de servicios;
 
@@ -17211,7 +17211,7 @@ XII. El fomento y la realización de programas y proyectos de educación ambient
 
 XIII. La realización, en coordinación con la Dirección de Servicios Públicos, de campañas de reforestación urbana y rural, congruentes con las del Estado y la Federación;
 
-XlV. El establecimiento de los criterios ambientales para el diseño, proyecto y manejo de las áreas verdes y arbolados urbanos;
+XIV. El establecimiento de los criterios ambientales para el diseño, proyecto y manejo de las áreas verdes y arbolados urbanos;
 
 XV. La supervisión y vigilancia, en coordinación con la Federación y el Estado, del adecuado uso y aprovechamiento de los recursos naturales presentes en el territorio Municipal;
 
@@ -18557,29 +18557,39 @@ V. Comercios en donde puede venderse alcohol, pero no a granel ni para consumir;
 
 En los establecimientos señalados en la fracción primera de este Artículo, así como en los bailes públicos, queda estrictamente prohibida la entrada a menores de edad, así como su contratación para trabajar en dichos lugares.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 1741.
 
-Cantina es todo establecimiento dedicado específicamente a la venta y consumo de bebidas al copeo. En ella podrán expenderse bebidas embriagantes, tabaco y botanas, la cual funcionará en un horario de las 10:00 horas a las 24:00 horas del día siguiente.
+Cantina es todo establecimiento dedicado específicamente a la venta y consumo de bebidas al copeo. En ella podrán expenderse bebidas embriagantes, tabaco y botanas, la cual funcionará en un horario de las 10:00 horas a las 1:30 horas del día siguiente.
 
 ###### ARTICULO 1742.
 
 En las cantinas y bares se permitirán los juegos de mesa tales como; ajedrez, damas chinas, dominó y cubilete, sin apuestas; pueden instalarse aparatos de radio, televisores, fonoeléctricos y similares, siempre que funcionen a un volumen de sonido moderado, y que los mismos no sean atentarios a la moral y buenas costumbres, entendiéndose por esto aquellos lugares donde exhiban escenas de contenido erótico o que inciten al sexo. Esta prohibición es aplicable a todos los establecimientos regulados en el presente Capítulo. Se permitirá el libre acceso a trovadores y músicos que cuenten con el permiso correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 1743.
 
-Cervecería es el establecimiento en el que, de manera exclusiva se venda cerveza, de cualquier clase o presentación, para su consumo inmediato; se requerirá permiso especial para incluir la venta de comida, botanas o refrescos y podrá funcionar en un horario de las 10:00 a las 21:00 horas, en ella se permitirá el libre acceso a los trovadores y músicos que cuenten con el permiso correspondiente.
+Cervecería es el establecimiento en el que, de manera exclusiva se venda cerveza, de cualquier clase o presentación, para su consumo inmediato; se requerirá permiso especial para incluirla venta de comida, botanas o refrescos y podrá funcionar en un horario de las 10:00 a las 22:00 horas, en ella se permitirá el libre acceso a los trovadores y músicos que cuenten con el permiso correspondiente.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 1744.
 
-Centro nocturno o cabaret es el local para diversión, en donde se expendan bebidas alcohólicas al copeo o por botella, cuente con un conjunto u orquesta permanente, algún espectáculo de los denominados variedades, y espacio para que bailen los concurrentes, siendo optativo dar el servicio de restaurante, el cual podrá funcionar en un horario de las 20:00 a las 02:30 horas del día siguiente.
+Centro nocturno o cabaret es el local para diversión, en donde se expendan bebidas alcohólicas al copeo o por botella, cuente con un conjunto u orquesta permanente, algún espectáculo de los denominados variedades, y espacio para que bailen los concurrentes, siendo optativo dar el servicio de restaurante, el cual podrá funcionar en un horario de las 18:00 a las 2:30 horas del día siguiente.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 1745.
 
-Bar es un establecimiento dedicado a la venta y consumo de bebidas al copeo o por botella, que debe contar con un espacio para baile y música adecuada para ello, su horario será de las 12:00 horas a las 01:30 horas, del día siguiente.
+Bar es un establecimiento dedicado a la venta y consumo de bebidas al copeo o por botella, que debe contar con un espacio para baile y música adecuada para ello, su horario será de las 10:00 horas a las 1:30 horas, del día siguiente.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 1746.
 
-Discoteca es el lugar que opera con juego de luces y sonido, grabaciones y pista de baile, en ella pueden expenderse bebidas alcohólicas al copeo, de cualquier graduación y podrá funcionar en un horario de las 20:00 a las 01:30 horas del día siguiente.
+Discoteca es el lugar que opera con juego de luces y sonido, grabaciones y pista de baile, en ella pueden expenderse bebidas alcohólicas al copeo, de cualquier graduación y podrá funcionar en un horario de las 20:00 a las 1:30 horas del día siguiente, así mismo, deberán de mantener sus niveles de sonido o decibeles por debajo de lo que marca la norma oficial Mexicana que corresponda.
 
 ###### ARTICULO 1747.
 
@@ -18601,17 +18611,19 @@ En las cadenas comerciales se podrán vender bebidas alcohólicas previa licenci
 
 Son centros turísticos aquellos que por sus bellezas naturales, adaptaciones arquitectónicas, tradición folklórica y otras circunstancias semejantes, a juicio de la autoridad municipal, constituyen sitios de descanso y atracción para turistas. Durante los días y horas en que ofrezcan sus servicios, podrán contar con servicio de restaurante-bar, previa licencia municipal.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 1751.
 
-Los restaurantes, loncherías y cenadurías, previa licencia, podrán expender bebidas alcohólicas de cualquier graduación sólo con alimentos, en un horario de las 07:00 a las 01:00 horas del día siguiente los primeros, las loncherías de 09:00 a 21:00 y las cenadurías de 18:00 a las 01:00 horas del día siguiente.
+Los restaurantes, loncherías y cenadurías, previa licencia, podrán expender cerveza sólo con alimentos.
 
-En las fondas, loncherías y cenadurías, se permitirá libre acceso a los músicos y trovadores que cuenten con el permiso correspondiente.
+Los restaurantes podrán funcionar en un horario de las 7:00 a las 22:00 horas y los que cuenten con venta de vinos y licores al copeo con un horario de 7:00 a 1:00 horas del día siguiente, las loncherías de 9:00 a 22:00 horas y las cenadurías de 18:00 a las 1:00 horas del día siguiente.
 
-En los Restaurantes, será potestativo del propietario, el autorizar acceso a los trovadores o músicos.
+En las fondas, loncherías y cenadurías, se permitirá libre acceso a los músicos y trovadores que cuenten con el permiso correspondiente, mientras que en los Restaurantes, será potestativo del propietario o encargado, el autorizar el acceso a los trovadores o músicos a las instalaciones de su local comercial.
 
 ###### ARTICULO 1752.
 
-.Los restaurantes que tengan licencia para vender bebidas alcohólicas, deberán contar con la instalación completa de servicios sanitarios higiénicos para ambos sexos, cocina y mantelería suficiente para el servicio, no pudiendo utilizar para dichas labores a menores de edad.
+Los restaurantes que tengan licencia para vender bebidas alcohólicas, deberán contar con la instalación completa de servicios sanitarios higiénicos para ambos sexos, cocina y mantelería suficiente para el servicio, no pudiendo utilizar para dichas labores a menores de edad.
 
 ###### ARTICULO 1753.
 
@@ -18687,7 +18699,7 @@ En los períodos electorales dichos actos se sujetarán a las Leyes de la materi
 
 ###### ARTICULO 1764.
 
-La Dirección General de Gobierno podrá suspender en cualquier momento un acto público de los señalados en Artículo 1759, si en alguna forma se lIegare a alterar el orden en él, no se realizare en los términos señalados en el permiso respectivo, o carezca de éste.
+La Dirección General de Gobierno podrá suspender en cualquier momento un acto público de los señalados en Artículo 1759, si en alguna forma se llegare a alterar el orden en él, no se realizare en los términos señalados en el permiso respectivo, o carezca de éste.
 
 ###### ARTICULO 1765.
 
@@ -19687,7 +19699,7 @@ No se requerirá orden escrita de inspección, cuando los verificadores detecten
 
 Todo procedimiento de inspección y verificación iniciará con una determinación, la que contendrá:
 
-l. Orden de comisión a determinado inspector para que inspeccione y/o verifique el debido cumplimiento del presente Código o la legislación aplicable;
+I. Orden de comisión a determinado inspector para que inspeccione y/o verifique el debido cumplimiento del presente Código o la legislación aplicable;
 
 II. Nombre o razón social del lugar o establecimiento que ha de inspeccionarse;
 
@@ -19735,7 +19747,7 @@ XII. Manifestaciones que solicite el visitado se agreguen en el acta;
 
 XIII. Observaciones del inspector; y
 
-XlV. Firma de los que intervinieron y hora en que terminó la diligencia y en su caso, la razón de la negativa a firmar de la persona con quien se entendió la diligencia.
+XIV. Firma de los que intervinieron y hora en que terminó la diligencia y en su caso, la razón de la negativa a firmar de la persona con quien se entendió la diligencia.
 
 ###### ARTICULO 1922.
 
@@ -19957,7 +19969,7 @@ Cuando una persona resulte responsable de dos o más violaciones a las leyes del
 
 Cuando la determinación de imposición de alguna sanción o medidas de seguridad implique el pago de una cantidad mínima, en la misma resolución se les notificará que tiene el término de cinco días para hacer el pago, con el apercibimiento de que en caso de no hacerlo se abrirá procedimiento de ejecución económico-coactivo, remitiéndole copia de la resolución a la Dirección de Finanzas y Administración para hacerla efectiva.
 
-## TITULO CUARTO. DE LA INDIVIDUALlZACION DE SANCIONES
+## TITULO CUARTO. DE LA INDIVIDUALIZACION DE SANCIONES
 
 ###### ARTICULO 1947.
 
@@ -20594,6 +20606,12 @@ P.O. 17 DE AGOSTO DE 2009.
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE.
 
 P.O. 24 DE MAYO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE AGOSTO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
