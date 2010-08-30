@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-instituto-municipal-aguascalentense-para-la-6196
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2008-07-07"
+last_updated: "2010-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL AGUASCALENTENSE PARA LA CULTURA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2010.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de julio de 2008.
 
@@ -55,7 +55,7 @@ I. Asumir la rectoría de las políticas que, en materia cultural y artística, 
 
 II. Promover el estudio y la difusión del patrimonio tangible e intangible y la diversidad de las manifestaciones y conocimientos culturales de la humanidad, México y del Municipio de Aguascalientes.
 
-III. Administrar lo relativo al Archivo Histórico Municipal.
+III. (DEROGADA, P.O. 30 DE AGOSTO DE 2010)
 
 IV. Administrar la Banda Sinfónica Municipal.
 
@@ -123,7 +123,9 @@ VII. Impulsar estrategias de financiamiento institucional que contribuyan al cum
 
 VIII. Administrar, conservar y ampliar la infraestructura para la prestación de los servicios culturales y artísticos del Gobierno Municipal.
 
-IX. Asegurar la existencia y eficacia de los mecanismos de conservación de la memoria histórica local, así como fomentar la investigación y difusión de los temas concernientes a la historia y actualidad del Municipio, a través del Archivo Histórico Municipal.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2010)</small>
+
+IX. Asegurar la existencia y eficacia de los mecanismos de conservación de la memoria histórica local, así como fomentar la investigación y difusión de los temas concernientes a la historia y actualidad del Municipio, en colaboración con el Archivo General Municipal.
 
 X. Establecer acciones tendientes a la promoción y difusión de la Banda Sinfónica Municipal.
 
@@ -215,7 +217,9 @@ IV. Realizar convocatorias, concursos y eventos que tengan por objeto la preserv
 
 V. Vigilar el funcionamiento de las casas de cultura, bibliotecas y museos, en el ámbito de su competencia, velando por el cumplimiento de los objetivos establecidos en el Plan de Desarrollo Cultural del Municipio.
 
-VI. Coordinar a las Direcciones de Desarrollo Cultural, Desarrollo Artístico y Archivo Histórico Municipal, así como las áreas de apoyo del Instituto.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2010)</small>
+
+VI. Coordinar las Direcciones de Desarrollo Cultural, Desarrollo Artístico, así como las áreas de apoyo del Instituto.
 
 VII. Coordinarse con la Secretaría de Administración, a efecto de elaborar y proponer programas de mejoramiento administrativo que permitan revisar permanentemente los sistemas, métodos y procedimientos de trabajo del Instituto.
 
@@ -363,9 +367,11 @@ XIII. Elaborar un informe anual de actividades y turnarlo al Honorable Ayuntamie
 
 El Instituto Municipal Aguascalentense para la Cultura, para el cumplimiento de su objeto, estará estructurado en términos organizacionales a partir de las unidades administrativas que establece el presente Reglamento y que se determinen en el Reglamento Interior que expida el Honorable Ayuntamiento para efecto de describir las funciones específicas y atribuciones de cada área.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2010)</small>
+
 ###### ARTÍCULO 24.
 
-El Instituto Municipal Aguascalentense para la Cultura contará, para la actividad de gestión y ejecución de los planes, programas y servicios, por lo menos, con las siguientes Direcciones, Jefaturas de Departamento y Áreas de Apoyo:
+El Instituto Municipal Aguascalentense para la Cultura contará, para la actividad de gestión y ejecución de los planes, programas y servicios, por lo menos, con las siguientes Direcciones, Jefaturas de Departamentos y Áreas de Apoyo:
 
 I. Dirección de Desarrollo Cultural: Responsable de impulsar y coordinar los programas y proyectos para el desarrollo de públicos, apoyo a creadores y de prestación de servicios culturales de fomento al arte y la identidad local. Para el cumplimiento de este objetivo, esta Dirección tendrá a su cargo las siguientes Jefaturas:
 
@@ -381,13 +387,7 @@ a) Enseñanza.
 
 b) Entretenimiento.
 
-III. Dirección del Archivo Histórico Municipal: Responsable de coordinar las labores del Archivo Histórico Municipal, entre las cuales deben priorizarse la conservación y acrecentamiento de los acervos, el fomento a la investigación y la práctica de una política de divulgación de sus acervos, investigaciones y actividades. Para el cumplimento de estos objetivos, esta Dirección tendrá a su cargo las siguientes Jefaturas de Departamento:
-
-a) Acervos.
-
-b) Investigación.
-
-c) Difusión.
+III. (DEROGADA, P.O. 30 DE AGOSTO DE 2010)
 
 IV. Jefatura de Departamento de Administración, Finanzas y Manejo del Personal.
 
@@ -440,3 +440,13 @@ Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales
 En cumplimiento a lo ordenado por el Presidente Municipal de Aguascalientes, con fundamento en los artículos 120, fracción VII de la Ley Municipal para el Estado de Aguascalientes; 107, fracción IX del Código Municipal de Aguascalientes, tengo a bien solicitar la publicación del presente.
 
 El Secretario del H. Ayuntamiento y Director General de Gobierno.- Lic. Adrián Ventura Dávila.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE AGOSTO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+Lo anterior para el conocimiento de la ciudadanía.
