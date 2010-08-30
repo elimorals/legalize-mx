@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-procuraduria-general-de-justicia-del-32137"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-06-30"
-last_updated: "2010-08-27"
+last_updated: "2010-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE CAMPECHE
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE AGOSTO DE 2010 NO APLICA AL ARTICULADO DEL DECRETO 48 PUBLICADO EN EL P.O. DE 23 DE JULIO DE 2010.</small>
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE AGOSTO DE 2010 NO APLICA AL ARTICULADO DEL DECRETO 48 PUBLICADO EN EL P.O. DE 23 DE JULIO DE 2010.</small>
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 30 de junio de 2003.
 
