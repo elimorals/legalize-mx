@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2010-08-23"
+last_updated: "2010-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2010.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -1419,23 +1419,33 @@ e) Expulsar de la casilla electoral, sin causa justificada, al o los representan
 
 f) No tomar las medidas legales adecuadas para evitar la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto;
 
-g) Dar a conocer dolosamente a cualquier medio masivo de comunicación o persona información falsa, antes durante o después del desarrollo de la jornada electoral o respecto de sus resultados; o
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2008)</small>
+g) Dar a conocer dolosamente a cualquier medio masivo de comunicación o persona información falsa, antes durante o después del desarrollo de la jornada electoral o respecto de sus resultados;
 
-h) Permitir o tolerar que un ciudadano emita su voto sin que éste cumpla con los requisitos de ley o que se introduzcan en las urnas una o más boletas electorales, en forma ilícita.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 4 MAYO DE 2009)</small>
+h) Permitir o tolerar que una persona vote sin que cumpla con los requisitos de ley; o
 
-XVII. Contratar propaganda en radio, televisión, prensa o internet, a favor o en contra de un partido político, candidato o precandidato; o
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2010)</small>
 
-> <small>(ADICIONADA, P.O. 4 MAYO DE 2009)</small>
+i) Introducir en urnas o sustraer de ellas, o bien, permitir que se introduzcan en las urnas o se sustraiga de ellas, una o más boletas electorales en forma ilícita.
 
-XVIII. Difundir, en cualquier tiempo, a nombre de un aspirante, precandidato, candidato, Asociación Política Nacional o Estatal, o bien, Partido Político, cualquier programa gubernamental sin incluir, claramente visible o audible, la leyenda “Este programa es público y ajeno a cualquier Partido Político”.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 4 MAYO DE 2009)</small>
+XVII. Contratar propaganda en radio, televisión o prensa, a favor o en contra de un partido político, candidato o precandidato;
 
-A los responsables de los hechos descritos en las Fracciones I a la XV del presente Artículo, se les aplicarán de 6 meses a 2 años de prisión. A los responsables de los hechos descritos en los diversos incisos de la Fracción XVI y la Fracción XVII del presente Artículo, se les aplicará de 2 a 6 años de prisión, así como suspensión de sus derechos políticos por el término de 4 a 6 años. A los responsables de los hechos descritos en la Fracción XVIII, de 3 meses a 1 año de prisión y de 1000 a 2000 días multa.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2010)</small>
+
+XVIII. Difundir, en cualquier tiempo, a nombre de un aspirante, precandidato, candidato, Asociación Política Nacional o Estatal, o bien. Partido Político, cualquier programa gubernamental sin incluir, claramente visible o audible, la leyenda "Este programa es público y ajeno a cualquier Partido Político"; o
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2010)</small>
+
+XIX. Introducir o sustraer ilícitamente de urnas una o más boletas electorales.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2010)</small>
+
+A los responsables de los hechos descritos en las Fracciones I a la XV, así como XIX del presente Artículo, se les aplicarán de 6 meses a 2 años de prisión. A los responsables de los hechos descritos en los diversos incisos de la Fracción XVI y la Fracción XVII del presente Artículo, se les aplicará de 2 a 6 años de prisión, así como suspensión de sus derechos políticos por el término de 4 a 6 años. A los responsables de los hechos descritos en la Fracción XVIII, de 3 meses a 1 año de prisión y de 1000 a 2000 días multa.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
@@ -5854,6 +5864,12 @@ P.O. 16 DE AGOSTO DE 2010.
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 P.O. 23 DE AGOSTO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE AGOSTO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
