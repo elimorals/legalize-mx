@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2010-03-06"
+last_updated: "2010-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1811,7 +1811,13 @@ a) La atención del desarrollo de la mujer; mediante la creación de albergues p
 
 b) De (sic) la cultura física y deporte;
 
-c) Otros que consideren convenientes.
+> <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2010)</small>
+
+c) Instituto Municipal de la Juventud;
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
+
+d) Otros que consideren convenientes.
 
 ###### Artículo 124.
 
@@ -2752,3 +2758,21 @@ El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotep
 QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 31 DE AGOSTO DE 2010.
+
+PRIMERO.- Publíquese la presente Ley en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Esta Ley entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan los artículos 3.55, 3.56 y 3.57 del Código Administrativo del Estado de México.
+
+CUARTO.- El Titular del Poder Ejecutivo expedirá el Reglamento de la Ley, en un plazo no mayor de ciento sesenta días hábiles, contados a partir de la entrada en vigor de la Ley.
+
+QUINTO.- El Consejo a que se refiere la presente Ley, deberá instalarse en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de la Ley.
+
+SEXTO.- El acceso directo a la educación media superior y/o superior, establecido en el artículo 9 en su fracción IV párrafo segundo, será en el ciclo escolar inmediato posterior a la entrada en vigor del presente Decreto.
+
+SÉPTIMO.- Lo previsto en los artículos 9 fracción IV párrafo segundo y 31 fracción XII, se realizará con estricto apego al principio constitucional de autonomía universitaria, y conforme a las disposiciones legales y reglamentarias aplicables de la Universidad Autónoma del Estado de México.
+
+OCTAVO.- Se derogan las disposiciones de igualo menor rango que se opongan a la presente Ley.
