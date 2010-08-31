@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-31"
-last_updated: "2009-03-31"
+last_updated: "2010-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-03-25"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 2010.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2009.
 
@@ -125,9 +125,13 @@ III. Dirección General de Geografía y Medio Ambiente:
 
 a) Dirección General Adjunta de Información Geográfica Básica;
 
-b) Dirección General Adjunta de Recursos Naturales;
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2010)</small>
 
-c) Dirección General Adjunta de Estadísticas del Medio Ambiente, y
+b) Dirección General Adjunta de Recursos Naturales y Medio Ambiente;
+
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2010)</small>
+
+c) Dirección General Adjunta de Información Catastral y Registral, y
 
 d) Dirección General Adjunta de Integración de Información Geoespacial;
 
@@ -1017,113 +1021,125 @@ XXIV. Formular recomendaciones que permitan elevar la calidad de los procesos de
 
 XXV. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2010)</small>
+
 ###### ARTICULO 26.
 
-Son atribuciones específicas de la Dirección General Adjunta de Recursos Naturales, las siguientes:
+Son atribuciones específicas de la Dirección General Adjunta de Recursos Naturales y Medio Ambiente, las siguientes:
 
-I. Desarrollar proyectos de disposiciones normativas para someterlas a consideración del Director General de su adscripción, sobre los procesos de generación, integración, validación y explotación de información de recursos naturales, producida por las Unidades Administrativas del Instituto y demás Unidades del Estado conforme a lo dispuesto en la Ley;
+I. Desarrollar proyectos de disposiciones normativas para someterlas a consideración del Director General de su adscripción, sobre los procesos de generación, integración, validación y explotación de información sobre recursos naturales y medio ambiente, producida por las Unidades Administrativas del Instituto y demás Unidades del Estado conforme a lo dispuesto en la Ley;
 
-II. Proporcionar información, generada dentro de su ámbito de competencia, con el objeto de alimentar el Sistema de Cuentas Nacionales, así como, elaborar publicaciones sobre recursos naturales para su difusión por la Dirección General del Servicio Público de Información;
+II. Dirigir, planear, organizar, coordinar y evaluar el levantamiento, actualización, organización, generación y aprovechamiento de registros administrativos en la materia y demás información sobre recursos naturales y medio ambiente, generada por las Unidades Administrativas del Instituto, así como, la que es producida por las demás Unidades del Estado, en colaboración con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información;
 
-III. Coordinar y concertar con las Unidades del Estado generadoras de información las acciones necesarias para la producción de información de recursos naturales;
+III. Proporcionar información, generada dentro de su ámbito de competencia, con el objeto de alimentar el Sistema de Cuentas Nacionales, así como, elaborar publicaciones sobre recursos naturales y medio ambiente para su difusión por la Dirección General del Servicio Público de Información;
 
-IV. Dirigir la producción y actualización de información geográfica digital de recursos naturales a través del cumplimiento de la normatividad establecida, para conformar el inventario de recursos naturales y garantizar su integración al Sistema, en coordinación con la (sic) Direcciones Regionales y Coordinaciones Estatales;
+IV. Coordinar y concertar con las Unidades del Estado generadoras de información las acciones necesarias para el diseño de la infraestructura conceptual y la producción de información estadística básica e indicadores del medio ambiente para unificar la generación de información por parte de las Unidades del Estado;
 
-V. Realizar análisis físicos y químicos de suelos y aguas, de rocas, fósiles y minerales, taxonómicos de plantas, para la correcta clasificación de los recursos naturales, mediante el uso de técnicas y procedimientos establecidos;
+V. Dirigir la producción y actualización de información geográfica digital de recursos naturales a través del cumplimiento de la normatividad establecida, para conformar el inventario de recursos naturales y garantizar su integración al Sistema, en coordinación con las Direcciones Regionales y Coordinaciones Estatales y promover su uso y explotación;
 
-VI. Desarrollar en coordinación con la Dirección General Adjunta de Integración de Información Geoespacial la base de datos de su competencia, incluyendo los archivos digitales resultantes de la generación e integración de información de recursos naturales, con la finalidad de que sean aprovechados en diferentes proyectos de usuarios, internos y externos, del Sistema;
+VI. Coordinar la producción y actualización de información geográfica del medio ambiente para apoyar las actividades de mitigación y adaptación al cambio climático, conforme lo establece el marco legal y normativo correspondiente;
 
-VII. Integrar un sistema de inventarios y encuestas sobre recursos naturales;
+VII. Producir y actualizar la información de los usos a los que se destina el territorio nacional y garantizar su integración al Sistema;
 
-VIII. Asesorar y coadyuvar en la capacitación al personal de las Unidades Administrativas del Instituto, así como a las Unidades del Estado, respecto de la aplicación y observación de la normatividad sobre información de recursos naturales;
+VIII. Promover el uso de técnicas de modelaje para construir escenarios de simulación del cambio y distribución de los recursos naturales sobre el territorio nacional;
 
-IX. Promover el uso de la información de recursos naturales, para garantizar su aprovechamiento por los usuarios del Sistema en la toma de decisiones, en los ámbitos público y social;
+IX. Desarrollar propuestas de regionalización territorial, apoyadas en la información estadística y geográfica contenidas en el Sistema;
 
-X. Formular recomendaciones que permitan elevar la calidad de los procesos de generación de información de recursos naturales integrada al Sistema;
+X. Realizar análisis físicos y químicos de suelos y aguas, de rocas, fósiles y minerales, taxonómicos de plantas, para la correcta clasificación de los recursos naturales, mediante el uso de técnicas y procedimientos establecidos;
 
-XI. Conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información en el ámbito de su competencia, así como, implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información, y
+XI. Desarrollar clasificaciones, esquemas conceptuales, indicadores y estudios sobre temas emergentes relacionados, y formular recomendaciones que permitan elevar la calidad de los procesos de generación de información de recursos naturales y del medio ambiente que se integre al Sistema;
 
-XII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+XII. Propiciar la homogeneidad y congruencia de las estadísticas sobre el medio ambiente y productos generados en el Instituto, garantizando la comparabilidad con las producidas por otras instituciones nacionales e internacionales, así como, promocionar los avances institucionales, en el ámbito de su competencia;
+
+XIII. Promover entre las Unidades del Estado la generación de registros administrativos que puedan aprovecharse para producir información del medio ambiente que se incorpore al Sistema;
+
+XIV. Asesorar a las Unidades del Estado, en la explotación de los resultados de censos, encuestas y registros administrativos sobre datos del medio ambiente;
+
+XV. Desarrollar y proponer metodologías, relativas a conceptualización, levantamiento, aprovechamiento, procesamiento y explotación de encuestas y registros administrativos del medio ambiente, por parte de las Unidades del Estado y asesorarlos en su implementación para garantizar su aprovechamiento por los usuarios del Sistema en la toma de decisiones, en los ámbitos público y social;
+
+XVI. Desarrollar en coordinación con la Dirección General Adjunta de Integración de Información Geoespacial la base de datos de su competencia, incluyendo los archivos digitales resultantes de la generación e integración de información de recursos naturales, con la finalidad de que sean aprovechados en diferentes proyectos de usuarios, internos y externos del Sistema;
+
+XVII. Integrar, con la colaboración de las Unidades del Estado, un sistema de inventarios y encuestas sobre recursos naturales y medio ambiente, cuya información permita la elaboración de indicadores, como mínimo, sobre los siguientes temas: recursos naturales y clima, así como atmosfera, agua, suelo, flora, fauna, residuos peligrosos y residuos sólidos;
+
+XVIII. Asesorar y coadyuvar en la capacitación al personal de las Unidades Administrativas del Instituto, así como, a las Unidades del Estado respecto de la aplicación y observación de la normatividad sobre información recursos naturales y medio ambiente y evaluar su cumplimiento;
+
+XIX. Formular opinión a petición del Titular de la Dirección General de su adscripción, sobre la pertinencia de que las Unidades del Estado realicen actividades geográficas y del medio ambiente en apego a los programas a que hace referencia el artículo 9 de la Ley, así como sugerir en su caso recomendaciones para llevarlas a cabo, lo anterior de acuerdo a su ámbito de competencia;
+
+XX. Conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información en el ámbito de su competencia, así como, implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información, y
+
+XXI. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 27.
 
-Son atribuciones específicas de la Dirección General Adjunta de Estadísticas del Medio Ambiente, las siguientes:
+Son atribuciones específicas de la Dirección General Adjunta de Información Catastral y Registral, las siguientes:
 
-I. Desarrollar proyectos de disposiciones normativas para someterlas a consideración del Director General de su adscripción, sobre los procesos de generación, integración, validación y explotación de información sobre medio ambiente, producida por las Unidades Administrativas del Instituto y demás Unidades del Estado conforme a lo dispuesto en la Ley;
+I. Desarrollar proyectos de disposiciones normativas para someterlas a consideración del Director General de su adscripción, sobre los procesos de generación, integración, validación y explotación de información catastral y registral producida por las Unidades del Estado y las Unidades Administrativas del Instituto conforme a lo dispuesto en la Ley;
 
-II. Planear, organizar, coordinar y evaluar en coordinación con las diversas áreas del Instituto, el diseño conceptual, las actividades de organización, el levantamiento de datos, la generación de resultados, la difusión y explotación de información relativa al medio ambiente;
+II. Dar seguimiento al cumplimiento de estándares y normas técnicas establecidas para la incorporación de la información catastral y registral a la base de datos, en la Dirección General de su adscripción, garantizando la disponibilidad de las mismas, así como mantener la seguridad de la información y su confidencialidad;
 
-III. Proporcionar información, generada dentro de su ámbito de competencia, con el objeto de alimentar el Sistema de Cuentas Nacionales, así como, elaborar publicaciones sobre recursos naturales para su difusión por la Dirección General del Servicio Público de Información;
+III. Generar lineamientos y manuales de procedimientos técnicos para la ejecución de levantamientos catastrales; elaborar y aplicar criterios e indicadores de planeación estratégica de los mismos, así como, establecer esquemas de capacitación y apoyo logístico para el suministro y control de recursos destinados a dichos levantamientos;
 
-IV. Coordinar y concertar con las Unidades del Estado la producción de información estadística del medio ambiente;
+IV. Coordinar y concertar con las Unidades del Estado, acciones de organización, modernización y vinculación de los catastros y registros públicos de la propiedad para la generación e integración de información catastral y registral de los bienes inmuebles, en bases de datos compartidas bajo el principio de confidencialidad y seguridad informática;
 
-V. Dirigir, planear, organizar, coordinar y evaluar el levantamiento, actualización, organización, generación y aprovechamiento de registros administrativos en la materia y demás información sobre el medio ambiente, generada por las Unidades Administrativas del Instituto, así como, la que es producida por las demás Unidades del Estado en colaboración con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información;
+V. Coordinar la obtención, actualización de cartografía catastral, bases de datos catastrales e información registral de la propiedad inmobiliaria para su integración en la Infraestructura de Datos Espaciales de México (IDEMex);
 
-VI. Diseñar y elaborar la infraestructura conceptual referente al medio ambiente para unificar la generación de información estadística por parte de las Unidades del Estado;
+VI. Concertar trabajos de medición y generación de productos cartográficos en los diferentes catastros, así como, brindar asesoría y apoyo técnico en la materia, con el objeto de incorporar información al Subsistema de Información Geográfica y del Medio Ambiente; y realizar la inscripción que sobre los catastros de los municipios y de las Entidades Federativas deba hacerse en el Registro Nacional de Información Geográfica, en colaboración con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información;
 
-VII. Evaluar la cobertura y calidad de la información estadística del medio ambiente y promover su mejora continua a través del desarrollo de clasificaciones, esquemas conceptuales, indicadores y estudios sobre temas emergentes relacionados;
+VII. Participar en las tareas de aplicación de tecnologías para la generación, integración, respaldo y mantenimiento de datos catastrales, así como brindar soporte técnico y apoyo a los catastros de las Unidades del Estado, Entidades Federativas y Municipios en el desarrollo de sistemas de información geográfica y catastral;
 
-VIII. Propiciar la homogeneidad y congruencia de las estadísticas sobre el medio ambiente y productos generados en el Instituto, garantizando la comparabilidad con las producidas por otras instituciones nacionales e internacionales, así como, promocionar los avances institucionales, en el ámbito de su competencia
+VIII. Integrar y mantener actualizados los datos catastrales de las Unidades del Estado en el Registro Nacional de Información Geográfica, en colaboración con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información;
 
-IX. Promover entre las Unidades del Estado la generación de registros administrativos que puedan aprovecharse para producir información del medio ambiente que se incorpore al Sistema;
+IX. Elaborar informes relativos a la integración de la documentación derivada de los levantamientos catastrales, su concertación, soporte técnico, edición cartográfica y gestión;
 
-X. Integrar un sistema de inventarios y encuestas sobre el medio ambiente;
+X. Conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información en el ámbito de su competencia, así como, implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información;
 
-XI. Asesorar a las Unidades del Estado, en la explotación de los resultados de censos, encuestas y registros administrativos sobre datos del medio ambiente;
+XI. Proporcionar información, generada dentro del ámbito de su competencia, con el objeto de alimentar el Sistema de Cuentas Nacionales, así como elaborar publicaciones sobre Catastro, para su difusión por la Dirección General del Servicio Público de Información;
 
-XII. Desarrollar y proponer metodologías, relativas a conceptualización, levantamiento, aprovechamiento, procesamiento y explotación de encuestas y registros administrativos del medio ambiente, por parte de las Unidades del Estado y asesorarlos en su implementación;
+XII. Formular recomendaciones que permitan elevar la calidad de los procesos de integración de información catastral y registral al Sistema;
 
-XIII. Asesorar y coadyuvar en la capacitación al personal de las Unidades Administrativas del Instituto, así como, a las Unidades del Estado respecto de la aplicación y observación de la normatividad sobre información del medio ambiente;
+XIII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
-XIV. Formular opinión a petición del Titular de la Dirección General de su adscripción, sobre la pertinencia de que las Unidades del Estado realicen actividades geográficas y del medio ambiente en apego a los programas a que hace referencia el artículo 9 de la Ley, así como sugerir en su caso recomendaciones para llevarlas a cabo, lo anterior de acuerdo a su ámbito de competencia;
-
-XV. Formular recomendaciones que permitan elevar la calidad de los procesos de generación de información del medio ambiente integrada al Sistema;
-
-XVI. Conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información en el ámbito de su competencia, así como, implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información, y
-
-XVII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 28.
 
 Son atribuciones específicas de la Dirección General Adjunta de Integración de Información Geoespacial, las siguientes:
 
-I. Desarrollar proyectos de disposiciones normativas para someterlas a consideración del Director General de su adscripción, sobre los procesos de generación, integración, validación y explotación de información geoespacial, producida por las Unidades Administrativas del Instituto y demás Unidades del Estado conforme a lo dispuesto en la Ley;
+I. Desarrollar proyectos de disposiciones normativas para someterlas a consideración del Director General de su adscripción, sobre los procesos de generación, integración, validación, explotación, resguardo y disponibilidad de información geoespacial, producida por las Unidades Administrativas del Instituto y demás Unidades del Estado conforme a lo dispuesto en la Ley;
 
-II. Dar seguimiento al cumplimiento de estándares y normas establecidas para la administración de las bases de datos, en la Dirección General de su adscripción, garantizando la disponibilidad de las mismas, así como establecer mecanismos para su seguridad y resguardo;
+II. Dar seguimiento al cumplimiento de estándares y normas establecidas para la administración de bases de datos, en la Dirección General de su adscripción, garantizando la disponibilidad de las mismas, así como establecer los mecanismos para su seguridad y resguardo;
 
-III. Generar lineamientos y manuales de procedimientos técnicos para la ejecución de levantamientos catastrales; elaborar y aplicar criterios e indicadores de planeación estratégica de los mismos, así como, establecer esquemas de capacitación y apoyo logístico para el suministro y control de recursos destinados a dichos levantamientos;
+III. Generar lineamientos y manuales de procedimientos técnicos para la integración validación, resguardo y disponibilidad de la información Geoespacial producida por las Unidades Administrativas del Instituto y demás Unidades del Estado; elaborar y aplicar criterios e indicadores de planeación estratégica de los mismos, así como, establecer esquemas de capacitación y apoyo logístico para el suministro y control de recursos destinados a dichos levantamientos;
 
 IV. Coordinar y concertar con las Unidades del Estado acciones para la producción de información geoespacial;
 
-V. Coordinar la obtención, actualización, recepción, integración y evaluación de la Información geoespacial de Interés Nacional, y establecer la concertación de acuerdos y convenios con diversas organizaciones para la integración del Registro Nacional de Información Geográfica en colaboración con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información;
+V. Coordinar la obtención, actualización, recepción, integración y evaluación de la información geoespacial de Interés Nacional, y establecer la concertación de acuerdos y convenios con diversas organizaciones para el Registro Nacional de información Geográfica en colaboración con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información;
 
-VI. Concertar trabajos de medición y generación de productos cartográficos en los diferentes catastros, así como, brindar asesoría y apoyo técnico en la materia, con el objeto de incorporar información al Subsistema de Información Geográfica y del Medio Ambiente; y realizar la inscripción que sobre los catastros de los municipios y de las Entidades Federativas deba hacerse en el Registro Nacional de Información Geográfica, en colaboración con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información;
+VI. Dirigir las tareas de desarrollo, explotación y aplicación de tecnologías para la integración, respaldo y mantenimiento de datos, así como, brindar soporte para el desarrollo y uso de aplicaciones informáticas de los sistemas de información geográfica, visualización de información geográfica y del medio ambiente, producción de cartografía básica y temática y los servicios de información geográfica en Web;
 
-VII. Dirigir las tareas de desarrollo, explotación y aplicación de tecnologías para la integración, respaldo y mantenimiento de datos, así como, brindar soporte para el uso de las aplicaciones cartográficas;
+VII. Planear y operar en coordinación con la Dirección General Adjunta de Informática la prestación de servicios y aplicaciones en materia de tecnologías de la información, de acuerdo a los requerimientos planteados por la Dirección General de su adscripción y sus Direcciones Generales Adjuntas a fin de facilitar la generación, conservación, diseminación y explotación de información geográfica y del medio ambiente, y permitir el aprovechamiento del acervo contenido en las bases de datos para proporcionar soluciones cliente, servidor web, para usuarios internos y externos del Sistema;
 
-VIII. Planear y operar en coordinación con la Dirección General Adjunta de Informática la prestación de servicios y aplicaciones en materia de tecnologías de la información, de acuerdo a los requerimientos planteados por la Dirección General de su adscripción y sus Direcciones Generales Adjuntas, a fin de facilitar la generación, conservación, diseminación y explotación de información geográfica y permitir el aprovechamiento del acervo contenido en las bases de datos para proporcionar soluciones cliente, servidor y web, para usuarios internos y externos del Sistema;
+VIII. Desarrollar e implantar soluciones geomáticas, basadas en sistemas de información geoespacial para el apoyo a la gestión de las Unidades Administrativas del Instituto y las Unidades del Estado que soliciten el apoyo Institucional;
 
-IX. Desarrollar e implantar soluciones geomáticas, basadas en sistemas de información geoespacial;
+IX. Coordinar tareas de inscripción de información geoespacial, a cargo de las Direcciones Regionales, Coordinaciones estatales del Instituto y las Unidades del Estado integradas al Subsistema de Información Geográfica y del medio Ambiente;
 
-X. Coordinar tareas de inscripción de información geoespacial, a cargo de las Direcciones Regionales, Coordinaciones Estatales del Instituto y las Unidades del Estado integradas al Subsistema de Información Geográfica y del Medio Ambiente;
+X. Proponer, en colaboración con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información, mecanismos para publicar información inscrita en los diferentes registros de información geográfica operados por las Unidades del Estado;
 
-XI. Proponer, en colaboración con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información del Sistema Nacional de Información Estadística y Geográfica, mecanismos para publicar la información inscrita en los diferentes registros de información geográfica operados por las Unidades del Estado;
+XI. Generar productos geoespaciales, en medios analógicos y digitales, a través del diseño, integración, validación, edición, digitalización e impresión de documentos de información geográfica y del medio ambiente para su divulgación en coordinación con la Dirección General Adjunta de Difusión;
 
-XII. Elaborar informes relativos a la integración de la documentación derivada de los levantamientos catastrales, su concertación, soporte técnico, edición cartográfica y gestión;
+XII. Supervisar la cobertura de los conjuntos de datos y componentes de integridad de la información geográfica y del medio ambiente que se distribuye para su comercialización;
 
-XIII. Generar productos geoespaciales, en medios analógicos y digitales, a través del diseño, integración, edición, digitalización e impresión de documentos, para su divulgación en coordinación con la Dirección General Adjunta de Difusión;
+XIII. Efectuar inspecciones para verificar la autenticidad de la Información del Sistema, a petición expresa del Titular de la Dirección General de su adscripción. Dichas diligencias, se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones normativas aplicables;
 
-XIV. Supervisar la cobertura de los conjuntos de datos y componentes de integridad de la información geográfica que se distribuye para su comercialización;
+XIV. Integrar y actualizar de manera permanente el acervo de información geográfica, al cual se incorporará la generada por las Unidades del Estado en los términos que al efecto determine la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica;
 
-XV. Efectuar inspecciones para verificar la autenticidad de la Información del Sistema, a petición expresa del Titular de la Dirección General de su adscripción. Dichas diligencias, se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones normativas aplicables;
+XV. Formular recomendaciones que permitan elevar la calidad de los procesos de integración de información geoespacial al Sistema;
 
-XVI. Integrar y actualizar de manera permanente el acervo de información geográfica, al cual se incorporará la generada por las Unidades del Estado en los términos que al efecto determine la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica;
+XVI. Conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información en el ámbito de su competencia, así como, implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información, y
 
-XVII. Formular recomendaciones que permitan elevar la calidad de los procesos de integración de información geoespacial al Sistema;
-
-XVIII. Conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información en el ámbito de su competencia, así como, implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información, y
-
-XIX. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+XVII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
 ### Capítulo XII,
 
@@ -1433,13 +1449,17 @@ VII. Formular los anteproyectos de programas y de presupuesto de la Dirección R
 
 VIII. Ejercer el presupuesto autorizado a la Unidad Administrativa a su cargo y adquirir o contratar directamente con cargo al mismo, los bienes y servicios necesarios para el cumplimiento de sus funciones, de sus programas y metas, de acuerdo a las disposiciones normativas aplicables;
 
-IX. Suscribir los contratos de adquisiciones, arrendamientos de bienes muebles e inmuebles, servicios de cualquier naturaleza, obras públicas y servicios relacionados con las mismas y sus modificaciones, que celebre y otorgue el Instituto en el ámbito de su jurisdicción territorial, y determinar sobre la suspensión, la terminación anticipada y la rescisión de los mismos, en coordinación con la Dirección General Adjunta de Asuntos Jurídicos;
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 2010)</small>
+
+IX. Suscribir los contratos de adquisiciones, arrendamientos y comodatos de bienes muebles e inmuebles, servicios de cualquier naturaleza, obras públicas y servicios relacionados con las mismas, y sus modificaciones, que celebre y otorgue el Instituto en el ámbito de su jurisdicción territorial, y determinar sobre la suspensión, la terminación anticipada y la rescisión de los mismos, en coordinación con la Dirección General Adjunta de Asuntos Jurídicos. Podrá delegar en las Coordinaciones Estatales la atribución de suscribir los contratos de arrendamientos y comodatos de bienes inmuebles, y sus modificaciones, que celebre y otorgue el Instituto en el ámbito de su jurisdicción territorial para la ejecución de operativos censales;
 
 X. Aplicar las penas convencionales a cargo de los proveedores, contratistas y compradores por el incumplimiento en los contratos con ellos celebrados en el ámbito de su jurisdicción territorial;
 
 XI. Suscribir contratos, convenios y acuerdos con entidades y dependencias de la Administración Pública Federal, así como con los diferentes niveles de gobierno, instituciones educativas, y organismos no gubernamentales, cuando éstos tengan por objeto actos que deban tener lugar en el ámbito de su jurisdicción territorial;
 
-XII. Administrar los recursos humanos de su adscripción de acuerdo a la normatividad vigente;
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 2010)</small>
+
+XII. Administrar los recursos humanos de su adscripción de acuerdo a la normatividad vigente. Podrá delegar en las Coordinaciones Estatales la atribución de suscribir y resguardar los nombramientos del personal eventual que se contrate para la ejecución de operativos censales y de encuestas;
 
 XIII. Fungir como área técnica de consulta de los Comités Técnicos Especializados del Sistema constituidos en el ámbito de su jurisdicción geográfica;
 
@@ -1581,7 +1601,9 @@ XVI. Establecer mecanismos que propicien que las adquisiciones de bienes, servic
 
 XVII. Suscribir contratos, convenios y acuerdos con entidades y dependencias de la Administración Pública Federal, así como con, los diferentes niveles de gobierno, instituciones educativas, organismos internacionales y organismos no gubernamentales en el ámbito de su competencia;
 
-XVIII. Suscribir contratos de adquisiciones, arrendamientos de bienes muebles, servicios de cualquier naturaleza, obras públicas y sus modificaciones que celebre y otorgue el Instituto;
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 2010)</small>
+
+XVIII. Suscribir contratos de adquisiciones, arrendamientos de bienes muebles, servicios de cualquier naturaleza, obras públicas que celebre y otorgue el Instituto y sus modificaciones, así como los demás actos de administración que prevean las disposiciones legales y administrativas aplicables para el Instituto, que no hayan sido conferidas expresamente a otros servidores públicos del mismo;
 
 XIX. Coordinar que se proporcionen a las Unidades Administrativas del Instituto los servicios de apoyo administrativo en materia de diseño de sistemas y equipamiento informático y comunicaciones;
 
@@ -1645,7 +1667,9 @@ II. Fungir como enlace institucional ante las instancias fiscalizadoras internas
 
 III. Integrar el anteproyecto anual de presupuesto del Instituto y sus Unidades Administrativas;
 
-IV. Comunicar a las Unidades Administrativas del Instituto, los presupuestos aprobados por la Junta de Gobierno;
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 2010)</small>
+
+IV. Comunicar a las Unidades Administrativas del Instituto, el presupuesto aprobado por la Cámara de Diputados;
 
 V. Coordinar el seguimiento al ejercicio del presupuesto, el cumplimiento de las metas comprometidas en el presupuesto anual del Instituto, y gestionar ante la Secretaría de Hacienda y Crédito Público las modificaciones al presupuesto del Instituto;
 
@@ -2054,3 +2078,11 @@ QUINTO.- A la entrada en vigor del presente los asuntos en trámite continuarán
 SEXTO.- A la entrada en vigor del presente Reglamento se da cumplimiento a la obligación prevista en el primer párrafo del artículo Octavo Transitorio de la Ley, y queda sin efectos la transitoriedad de la aplicación para el Instituto de los artículos 102 y 103 del Reglamento Interior de la Secretaría de Hacienda y Crédito Público.
 
 Reglamento Interior del Instituto Nacional de Estadística y Geografía, aprobado por su Junta de Gobierno en su Tercera Sesión de 2009, celebrada el 25 de marzo de 2009.- El Presidente del Instituto Nacional de Estadística y Geografía, Eduardo Sojo Garza Aldape.- Rúbrica.- Los Vicepresidentes: Enrique De Alba Guerra, Mario Palma Rojo, José Antonio Mejía Guerra, María del Rocío Ruiz Chávez.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 31 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Atendiendo a las modificaciones realizadas, toda disposición que haga referencia a la Dirección General Adjunta de Estadísticas del Medio Ambiente y la Dirección General Adjunta de Recursos Naturales, se entenderá hecha a la Dirección General Adjunta de Recursos Naturales y Medio Ambiente.
