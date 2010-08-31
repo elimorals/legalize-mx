@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2010-05-12"
+last_updated: "2010-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2053,71 +2053,15 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 ###### Artículo 3.
 
-55.- El Instituto Mexiquense de la Juventud es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto planear, programar y ejecutar acciones específicas que garanticen el desarrollo integral de la juventud.
-
-El Instituto, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
-
-I. Planear, programar, coordinar, promover, ejecutar y evaluar acciones que favorezcan la organización juvenil;
-
-II. Definir, con base en los planes nacional y estatal de desarrollo, el programa estatal de atención a la juventud y ejecutar las acciones necesarias para su cumplimiento;
-
-III. Formular programas de carácter interinstitucional de acuerdo con el programa estatal de atención a la juventud;
-
-IV. Promover y fortalecer modelos de organización juvenil;
-
-V. Fomentar la cooperación de los sectores público, social y privado, en la realización de acciones de bienestar social en las que participen los jóvenes;
-
-VI. Favorecer la capacitación de los jóvenes en sus empleos e incentivar una actitud empresarial, particularmente en la micro y pequeña empresa, así como ampliar la información sobre el mercado de trabajo disponible;
-
-VII. Apoyar el desarrollo de actividades artísticas, culturales y la expresión creativa de los jóvenes;
-
-VIII. Propiciar la mejor utilización del tiempo libre de los jóvenes, ampliando sus espacios de encuentro y reconocimiento entre los distintos sectores sociales a los que pertenezcan, para favorecer la convivencia y el intercambio cultural;
-
-IX. Desarrollar programas para la adecuada orientación vocacional y profesional; el aprovechamiento del servicio social y la diversificación de los servicios educativos, incorporando entre otras modalidades, la educación a distancia, la bilingüe y la disminución del analfabetismo;
-
-X. Fomentar acciones institucionales de la sociedad organizada, encaminadas a garantizar la seguridad y plena impartición de justicia a la población joven;
-
-XI. Fomentar la atención a los problemas de salud de los jóvenes, principalmente en medicina preventiva, orientación y asesoramiento en el campo de la sexualidad, planificación familiar, adicciones y salud mental;
-
-XII. Promover y realizar investigaciones que permitan definir políticas y acciones para la atención integral de los jóvenes menos favorecidos y las personas con capacidades diferentes;
-
-XIII. Actuar como intermediario entre las dependencias gubernamentales y los jóvenes, a fin de ser el enlace con los organismos que tengan similares objetivos;
-
-XIV. Promover con los gobiernos municipales, el establecimiento de órganos o unidades administrativas para atender a la juventud;
-
-XV. Establecer mecanismos de coordinación con organizaciones sociales y privadas, así como con autoridades federales, estatales y municipales, para el cumplimiento de sus fines;
-
-XVI. Desarrollar programas de difusión de sus actividades, conjuntamente con los sectores de la sociedad, para sensibilizar y favorecer la participación de la comunidad en las acciones del Instituto;
-
-XVII. Convenir con los sectores público, social y privado, nacionales y extranjeros, la ejecución de acciones que le permitan el desarrollo y fortalecimiento de sus atribuciones.
+55.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE LA JUVENTUD DEL ESTADO DE MEXICO, G.G. 31 DE AGOSTO DE 2010)
 
 ###### Artículo 3.
 
-56.- La dirección y administración del Instituto está a cargo de un consejo directivo y un director general.
-
-El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con ocho vocales, que son los representantes de las secretarías de Finanzas y Planeación, del Trabajo y de la Previsión Social, y de Administración, de los institutos de Salud del Estado de México, Mexiquense de Cultura, Mexiquense de Cultura Física y Deporte, de la Coordinación General de Desarrollo Social y de la Subsecretaría de Educación Básica y Normal.
-
-El director general será nombrado por el Gobernador del Estado, a propuesta del presidente del consejo.
-
-La organización y funcionamiento del Instituto se regirá por el reglamento interno que expida el consejo directivo.
+56.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE LA JUVENTUD DEL ESTADO DE MEXICO, G.G. 31 DE AGOSTO DE 2010)
 
 ###### Artículo 3.
 
-57.- El patrimonio del Instituto se integra con:
-
-I. Los bienes con los que actualmente cuenta;
-
-II. Las aportaciones, participaciones, subsidios y apoyos que le otorguen los gobiernos federal, estatal y municipales;
-
-III. Los ingresos que obtenga por la venta de sus productos y la prestación de sus servicios en el ejercicio de sus funciones;
-
-IV. Los legados, donaciones y demás bienes otorgados en su favor, así como los productos de los fideicomisos en los que se le designe como fideicomisario;
-
-V. Los bienes muebles e inmuebles que adquiera por cualquier título legal para el cumplimiento de su objeto;
-
-VI. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y demás ingresos que adquiera por cualquier título legal.
-
-Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
+57.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE LA JUVENTUD DEL ESTADO DE MEXICO, G.G. 31 DE AGOSTO DE 2010)
 
 ## TITULO DECIMO. De las infracciones y sanciones
 
@@ -10848,3 +10792,21 @@ PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de que inicie su vigencia la adición de un último parrafo al artículo 5 de la Constitución Política del Estado Libre y Soberano de México.
 
 TERCERO.- El Poder Ejecutivo del Estado de México adoptará en la esfera de su competencia las disposiciones pertinentes para la ejecución de las reformas objeto de este Decreto.
+
+G.G. 31 DE AGOSTO DE 2010.
+
+PRIMERO.- Publíquese la presente Ley en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Esta Ley entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan los artículos 3.55, 3.56 y 3.57 del Código Administrativo del Estado de México.
+
+CUARTO.- El Titular del Poder Ejecutivo expedirá el Reglamento de la Ley, en un plazo no mayor de ciento sesenta días hábiles, contados a partir de la entrada en vigor de la Ley.
+
+QUINTO.- El Consejo a que se refiere la presente Ley, deberá instalarse en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de la Ley.
+
+SEXTO.- El acceso directo a la educación media superior y/o superior, establecido en el artículo 9 en su fracción IV párrafo segundo, será en el ciclo escolar inmediato posterior a la entrada en vigor del presente Decreto.
+
+SÉPTIMO.- Lo previsto en los artículos 9 fracción IV párrafo segundo y 31 fracción XII, se realizará con estricto apego al principio constitucional de autonomía universitaria, y conforme a las disposiciones legales y reglamentarias aplicables de la Universidad Autónoma del Estado de México.
+
+OCTAVO.- Se derogan las disposiciones de igualo menor rango que se opongan a la presente Ley.
