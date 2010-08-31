@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-verificacion-administrativa-para-el-distrito-3716
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-19"
-last_updated: "2008-03-13"
+last_updated: "2010-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37165&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2004-02-12"
 
 REGLAMENTO DE VERIFICACION ADMINISTRATIVA PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE VERIFICACION ADMINISTRATIVA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 31 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Gobierno del Distrito Federal, el jueves 19 de febrero de 2004.
 
@@ -799,3 +801,19 @@ G.O. 13 DE MARZO DE 2008.
 Primero. - Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Segundo. - El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 31 DE AGOSTO DE 2010.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Se abroga el Reglamento de Verificación Administrativa para el Distrito Federal publicado el 19 de febrero de 2004, en la Gaceta Oficial del Distrito Federal.
+
+CUARTO. Las menciones que se hagan a otras autoridades en cualquier disposición normativa relacionada con el ejercicio de las atribuciones en las materias de verificación que corresponden al Instituto conforme a la Ley, se entenderán hechas al Instituto.
+
+QUINTO. Las menciones realizadas al personal de verificación en cualquier disposición normativa relacionada con el ejercicio de las atribuciones en las materias de verificación que corresponden al Instituto conforme a la Ley, se entenderán hechas al personal especializado en funciones de verificación del propio Instituto.
+
+SEXTO. Los procedimientos administrativos de verificación que se encuentren en trámite a la entrada en vigor del presente ordenamiento, se regularán por las normas jurídicas vigentes en el momento en que se hayan iniciado, sin perjuicio de las atribuciones en materia de supervisión y auditoria del Instituto respecto de las atribuciones de las Delegaciones en materia de verificación administrativa.
+
+SÉPTIMO. Los documentos, formatos, sellos y demás material que a la fecha de entrada en vigor de este Reglamento sean usados en el ejercicio de la facultad de verificación administrativa por las Delegaciones, seguirán siendo utilizados hasta que el Instituto y Las Delegaciones dispongan de los recursos necesarios para su sustitución, dicha sustitución será difundida por los medios necesarios.
