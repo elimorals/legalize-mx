@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2010-07-30"
+last_updated: "2010-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2010.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -112,6 +112,10 @@ Los particulares podrán impartir educación, siempre con apego a los mismos fin
 > <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
 
 Las universidades y las demás instituciones de educación superior a las que la ley otorgue autonomía, soberanía y gobierno, tendrán la facultad y la responsabilidad de gobernarse por sí mismas.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
+
+El Estado garantizará a todos los individuos el acceso a la ciencia y a la tecnología; establecerá políticas de largo plazo e implementará mecanismos que fomenten el desarrollo científico y tecnológico de la entidad, que permitan elevar el nivel de vida de la población, combatir la pobreza y proporcionar igualdad de oportunidades.
 
 > <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
@@ -707,17 +711,27 @@ V. A los ciudadanos del Estado, en todo los ramos de la administración;
 
 VI. A la Comisión de Derechos Humanos del Estado de México, en materia de derechos humanos.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
+
+El Gobernador del Estado tendrá derecho a presentar hasta tres iniciativas de carácter preferente al inicio del periodo ordinario de sesiones, debiendo sustentar las razones por las cuales les otorga dicho carácter.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
+
+Las iniciativas con carácter preferente deberán ser sometidas a discusión y votación de la asamblea, a más tardar, en la última sesión del periodo ordinario en el que fueren presentadas. La ley establecerá los mecanismos aplicables para dar cumplimiento a lo previsto por el presente artículo.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
+
+No podrán incluirse como iniciativas preferentes las que modifiquen disposiciones en materia electoral, las relacionadas con la creación de impuestos o las referidas en el artículo 61 fracción XXX de esta Constitución.
+
+> <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 52.
 
-La Legislatura podrá solicitar del Gobernador del Estado o del Presidente del Tribunal Superior de Justicia, la presencia de los titulares de las dependencias del Poder Ejecutivo, de los directores de los organismos auxiliares, de los magistrados y de los miembros del Consejo de la Judicatura del Poder Judicial, respectivamente, cuando sea necesaria para el estudio de iniciativas de ley o decreto, de sus respectivas competencias.
+La Legislatura podrá solicitar del Gobernador del Estado la presencia de los titulares de las dependencias del Poder Ejecutivo, así como de los directores de los organismos auxiliares. Del Presidente del Tribunal Superior de Justicia podrá solicitar la presencia de los magistrados y de los miembros del Consejo de la Judicatura del Poder Judicial, cuando sea necesaria para el estudio de iniciativas de ley o decreto, de sus respectivas competencias.
 
-Cuando se trate de iniciativas de los ayuntamientos o se discutan asuntos de su competencia, podrá solicitarse al presidente municipal, que concurra él o un integrante del ayuntamiento para responder a los cuestionamientos que se les planteen.
+Cuando se trate de iniciativas de los ayuntamientos o se discutan asuntos de su competencia, podrá solicitarse al presidente municipal que concurra él o un integrante del ayuntamiento, para responder a los cuestionamientos que se les planteen. Tratándose de iniciativas que caigan en el ámbito de competencia de la Comisión Estatal de Derechos Humanos del Estado, la Legislatura podrá solicitar la presencia de un representante de la misma. Las solicitudes de la Legislatura se harán por conducto de la Junta de Coordinación Política.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2004)</small>
-
-Las solicitudes para este efecto se harán por conducto de la Junta de Coordinación Política.
+El Gobernador del Estado podrá participar en el análisis de los proyectos legislativos que caigan dentro de su ámbito competencial, así como de la discusión del dictamen, ya sea de propia voz, o a través de la voz del representante que designe al efecto. El mismo derecho tendrán las autoridades a quienes la Constitución otorga el derecho de iniciativa. La ley y el reglamento establecerán las bases bajo las cuales se dará esta participación una vez que haya sido formalmente solicitada por quien tiene derecho a ello.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -915,6 +929,14 @@ Los integrantes de los concejos municipales y de los ayuntamientos provisionales
 
 XXX. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal a iniciativa del Ejecutivo, tanto la Ley de Ingresos del Estado, que establezca las contribuciones de los habitantes como el presupuesto de egresos que distribuya el gasto público y disponer las medidas apropiadas para vigilar su correcta aplicación.
 
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
+
+Si cumplidos los plazos a que se refiere el párrafo anterior no se hubieren aprobado los ordenamientos jurídico financieros referidos, seguirán en vigor hasta el 31 de enero del ejercicio fiscal inmediato siguiente los expedidos para el ejercicio fiscal inmediato anterior al de las iniciativas en discusión. En el caso de la Ley de Ingresos del Estado, sólo seguirán vigentes aquellos rubros que no se hayan visto afectados por la entrada en vigor de los ordenamientos legales correspondientes de carácter federal. En el caso del Presupuesto de Egresos, la extensión de su vigencia se entenderá referida únicamente a lo relativo al gasto corriente.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
+
+Si llegado el 3I de enero no se hubiese aprobado la Ley de Ingresos del Estado o el Presupuesto de Egresos correspondientes al ejercicio fiscal en transcurso, o ambos, se turnará al Pleno de la Legislatura para su votación la iniciativa que en su momento hubiese mandado el Titular del Ejecutivo.
+
 > <small>(REFORMADO, G.G. 30 DE JULIO DE 2010)</small>
 
 La Legislatura al expedir el Presupuesto de Egresos, aprobará la retribución mínima y máxima que corresponda a cada nivel de empleo, cargo o comisión. Las remuneraciones de los servidores públicos deberán sujetarse a lo previsto en el artículo 147 de esta Constitución y en caso de que por cualquier circunstancia se omita establecer ésta, se entenderá por señalada la que hubiere tenido fijada en el presupuesto inmediato anterior.
@@ -927,6 +949,10 @@ Cuando se trate de la creación de un nuevo empleo, cuya remuneración no se hub
 
 La retribución estará sujeta a las modificaciones que, en su caso, sean convenidas conforme a la legislación de la materia.
 
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
+
+La Legislatura examinará, discutirá y aprobará las asignaciones presupuestales multianuales que el Ejecutivo proponga en el proyecto de presupuesto de egresos, las cuales deberán estar destinadas a programas y proyectos de obra pública, de conformidad con los requisitos establecidos en el marco legal aplicable.
+
 > <small>(ADICIONADO, G.G. 16 DE AGOSTO DE 2006)</small>
 
 La Legislatura aprobará proyectos para la prestación de servicios conforme a la ley de la materia y las asignaciones presupuestales que cubran los gastos correspondientes a dichos proyectos durante los ejercicios fiscales en que estén vigentes los mismos. Asimismo, aprobará las adjudicaciones directas de dichos proyectos, conforme a las excepciones previstas por la legislación aplicable.
@@ -938,6 +964,14 @@ Los poderes Legislativo, Ejecutivo y Judicial, así como los Organismos Autónom
 > <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
 
 XXXI. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal, la Ley de Ingresos de los Municipios, cuya iniciativa será turnada por el Ejecutivo del Estado;
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
+
+Si cumplido el plazo que corresponda no se hubiere aprobado el ordenamiento jurídico financiero referido, seguirá en vigor hasta el 31 de enero del ejercicio fiscal inmediato siguiente el expedido para el ejercicio fiscal inmediato anterior al de la iniciativa en discusión, únicamente respecto de aquellos rubros que no se hayan visto afectados por la entrada en vigor de los ordenamientos legales correspondientes de carácter federal.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
+
+Si llegado el 31 de enero no se hubiese aprobado la Ley de Ingresos de los Municipios correspondiente al ejercicio fiscal en transcurso, se turnará al Pleno de la Legislatura para su votación la iniciativa que en su momento hubiese mandado el Titular del Ejecutivo.
 
 > <small>(REFORMADA, G.G. 7 DE JUNIO DE 2010)</small>
 
@@ -1889,7 +1923,7 @@ En los casos de participaciones federales, las autoridades del Estado convendrá
 
 ### CAPITULO CUARTO. De las Atribuciones de los Presidentes Municipales
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 128.
 
@@ -1901,41 +1935,45 @@ II. Ejecutar las decisiones de los ayuntamientos e informar de su cumplimiento;
 
 III. Cumplir y hacer cumplir dentro del municipio, las leyes federales y del Estado y todas las disposiciones que expidan los mismos ayuntamientos;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
 
 IV. Ser el responsable de la comunicación de los ayuntamientos que presiden, con los demás ayuntamientos y con los Poderes del Estado;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
 
 V. Asumir la representación jurídica del Municipio, conforme a la ley respectiva;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2010)</small>
 
-VI. Rendir al ayuntamiento dentro de los primeros diez días del mes de agosto de cada año, un informe acerca del estado que guarda el gobierno y la administración pública municipales;
+VI. Rendir al ayuntamiento dentro de los primeros tres días hábiles del mes de diciembre de cada año un informe acerca del estado que guarda el gobierno y la administración pública municipales;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
 
 VII. Someter a la consideración del Ayuntamiento los nombramientos de los titulares de las dependencias y entidades de la administración pública municipal;
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2001)</small>
 
 VIII. Nombrar y remover libremente a los servidores públicos del municipio cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes que de ella emanan;
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2001)</small>
 
 IX. Presentar al Ayuntamiento la propuesta de presupuesto de egresos para su respectiva discusión y dictamen;
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2001)</small>
 
 X. Asumir el mando de la policía preventiva municipal;
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2010)</small>
 
-XI. Expedir los acuerdos necesarios para el cumplimiento de las determinaciones del Ayuntamiento;
+XI. Realizar acciones tendientes al desarrollo institucional del Ayuntamiento e informar sobre el particular en los términos que la Ley señale;
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2010)</small>
 
-XII. Las demás que le señale la presente Constitución, la Ley Orgánica respectiva y otros ordenamientos legales.
+XII. Expedir los acuerdos necesarios para el cumplimiento de las determinaciones del ayuntamiento;
+
+> <small>(ADICIONADA, G.G. 31 DE AGOSTO DE 2010)</small>
+
+XIII. Las demás que le señale la presente Constitución, la Ley Orgánica respectiva y otros ordenamientos legales.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -1947,9 +1985,9 @@ XII. Las demás que le señale la presente Constitución, la Ley Orgánica respe
 
 Los recursos económicos del Estado, de los municipios, así como de los organismos autónomos, se administrarán con eficiencia, eficacia y honradez, para cumplir con los objetivos y programas a los que estén destinados.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2010)</small>
 
-Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, la prestación de servicios de cualquier naturaleza y la contratación de obra se llevarán a cabo y se adjudicarán por medio de licitaciones públicas mediante convocatoria pública, para que se presenten propuestas en sobre cerrado, que será abierto públicamente, a fin de asegurar al Gobierno del Estado y a los municipios, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, la prestación de servicios de cualquier naturaleza y la contratación de obra se llevarán a cabo y se adjudicarán por medio de licitaciones públicas mediante convocatoria pública, para que se presenten propuestas en sobre cerrado que serán abiertos públicamente, procesos en los que se privilegiará el uso de las tecnologías de la información y comunicación, a fin de asegurar al Gobierno del Estado y a los municipios, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes. La ley establecerá las bases para el uso de dichas tecnologías.
 
 > <small>(REFORMADO, G.G. 22 DE JUNIO DE 2006)</small>
 
@@ -2049,7 +2087,9 @@ El Estado y los municipios tienen personalidad jurídica para ejercer derechos y
 
 El desarrollo de la entidad se sustenta en el Sistema Estatal de Planeación Democrática, que tiene como base el Plan de Desarrollo del Estado de México:
 
-I. El Sistema Estatal de Planeación Democrática se integra por los planes y programas que formulen las autoridades estatales y municipales y considerará en su proceso: El planteamiento de la problemática en base a la realidad objetiva, la proyección genérica de los objetivos para la estructuración de planes, programas y acciones que regirán el ejercicio de sus funciones públicas, su control y evaluación. Las Leyes de la materia proveerán la participación de los sectores público, privado y social en el proceso y el mecanismo de retroalimentación permanente en el sistema.
+> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2010)</small>
+
+l. El Sistema Estatal de Planeación Democrática se integra por los planes y programas que formulen las autoridades estatales y municipales y considerará en su proceso: El planteamiento de la problemática con base en la realidad objetiva, los indicadores de desarrollo social y humano, la proyección genérica de los objetivos para la estructuración de planes, programas y acciones que regirán el ejercicio de sus funciones públicas, su control y evaluación. Las Leyes de la materia proveerán la participación de los sectores público, privado y social en el proceso y el mecanismo de retroalimentación permanente en el sistema.
 
 Los planes, programas y acciones que formulen y ejecuten los ayuntamientos en las materias de su competencia, se sujetarán a las disposiciones legales aplicables y serán congruentes con los planes y programas federales, estatales, regionales y metropolitanos, en su caso.
 
@@ -3204,3 +3244,95 @@ a) Las retribuciones nominales señaladas en los presupuestos vigentes superiore
 b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la base II del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
 
 c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
+
+G.G. 31 DE AGOSTO DE 2010.
+
+DECRETO NUMERO 123, POR EL QUE SE ADICIONA EL PARRAFO DECIMO PRIMERO RECORRIENDOSE LOS SUBSECUENTES AL ARTICULO 5 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Para hacer efectivo el derecho de acceso a la ciencia y la tecnología, el Consejo Mexiquense de Ciencia y Tecnología en un plazo no mayor de un año a partir de la entrada en vigor del presente Decreto, pondrá a disposición del Ejecutivo el proyecto y la propuesta del paquete de leyes, reformas y/o modificaciones al marco jurídico del Estado que se requieran para garantizar el ejercicio del derecho.
+
+El Consejo Mexiquense de Ciencia y Tecnología está obligado a elaborar el diagnóstico y el proyecto con la participación de todos los sectores de la sociedad.
+
+CUARTO.- El Ejecutivo presentará en un plazo de 60 días contado a partir de que el Consejo Mexiquense de Ciencia y Tecnología entregue la propuesta, el paquete de leyes, reformas y/o modificaciones al marco jurídico del Estado que se requieran para garantizar el ejercicio del derecho.
+
+G.G. 31 DE AGOSTO DE 2010.
+
+DECRETO NUMERO 124, POR EL QUE SE ADICIONAN TRES PARRAFOS AL ARTICULO 51 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- La Legislatura contará hasta con un plazo de noventa días hábiles para establecer los mecanismos aplicables en la legislación secundaria para dar cumplimiento a lo establecido en el presente Decreto.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 31 DE AGOSTO DE 2010.
+
+DECRETO NUMERO 125, POR EL QUE SE REFORMA EL ARTICULO 52 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La Legislatura del Estado de México, adecuará las leyes necesarias para la aplicación del presente Decreto, en un término de 90 días hábiles.
+
+G.G. 31 DE AGOSTO DE 2010.
+
+DECRETO NUMERO 126, POR EL QUE SE ADICIONA EL PARRAFO QUINTO Y SE RECORREN LOS SUBSECUENTES DE LA FRACCION XXX DEL ARTICULO 61 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 31 DE AGOSTO DE 2010.
+
+DECRETO NUMERO 127, POR EL QUE SE ADICIONAN LOS PARRAFOS SEGUNDO Y TERCERO Y SE RECORREN LOS SUBSECUENTES DE LA FRACCION XXX Y SE ADICIONAN DOS PARRAFOS A LA FRACCION XXXI DEL ARTICULO 61 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 31 DE AGOSTO DE 2010.
+
+DECRETO NUMERO 128, POR EL QUE SE REFORMA LA FRACCION VI DEL ARTICULO 128 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente decreto entrará en vigor en el primero de enero del año 2012.
+
+G.G. 31 DE AGOSTO DE 2010.
+
+DECRETO NUMERO 129, POR EL QUE SE REFORMA LAS FRACCIONES XI Y XII Y SE ADICIONA LA FRACCION XIII DEL ARTICULO 128 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 31 DE AGOSTO DE 2010.
+
+DECRETO NUMERO 130, POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 129 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto, entrara en vigor a los sesenta días naturales siguientes a su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 31 DE AGOSTO DE 2010.
+
+DECRETO NUMERO 131, POR EL QUE SE REFORMA LA FRACCION I DEL ARTICULO 139 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El Ejecutivo del Estado emitirá las disposiciones reglamentarias para el funcionamiento del Sistema Estatal en un plazo no mayor de seis meses contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
