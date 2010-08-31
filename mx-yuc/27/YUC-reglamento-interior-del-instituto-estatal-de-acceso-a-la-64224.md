@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-instituto-estatal-de-acceso-a-la-64224"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-24"
-last_updated: "2009-04-17"
+last_updated: "2010-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE YUCATAN
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE SEPTIEMBRE DE 2010 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE AGOSTO DE 2010.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 24 de octubre de 2008.
 
@@ -233,7 +235,9 @@ I. Participar con voz y voto en las sesiones del Consejo;
 
 II. Votar los proyectos de acuerdo y de resolución puestos a consideración del Consejo;
 
-III. Presentar ponencia para la resolución del recurso de revisión y del procedimiento de cumplimiento de las resoluciones;
+> <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2010)</small>
+
+III. Presentar ponencia para la resolución del recurso de revisión;
 
 IV. Proponer al Presidente del Consejo, la inclusión de temas en el orden del día de las sesiones del Consejo, de conformidad a lo previsto en el artículo 39 del presente Reglamento;
 
@@ -1429,21 +1433,29 @@ II. Se contarán por días hábiles, entendiéndose por estos los días a que se
 
 #### SECCIÓN PRIMERA. PROCEDIMIENTO PARA VIGILAR EL CUMPLIMIENTO DE LAS RESOLUCIONES DE LOS RECURSOS DE INCONFORMIDAD Y DE REVISIÓN
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE SEPTIEMBRE DE 2010 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(REFORMADO, D.O. 17 DE ABRIL DE 2009)</small>
 
 ###### Artículo 135.
 
 Para la aplicación de los medios de apremio y sanciones previstos en el artículo 56 de la Ley, n relación con el incumplimiento de las resoluciones de los recursos de inconformidad y de revisión o de cualquier otra resolución emitida por el Pleno del Consejo General, esté tiene que sujetarse al procedimiento siguiente:
 
-I. El inicio del presente procedimiento se llevará a cabo a través de la vista que el Secretario Ejecutivo le dé al Consejo, en el caso del recurso de inconformidad, o de oficio, en el caso de cualquier otra resolución del Consejo o bien del recurso de revisión. Recibida la vista en cuestión, o de oficio por el Consejo, de manera inmediata se radicará, registrándolo bajo el número de expediente que le corresponda, en el libro de gobierno y creando el expediente respectivo;
+> <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2010)</small>
 
-II. Cuando se trate del procedimiento de incumplimiento del recurso de inconformidad, el Consejo, una vez recibida la vista dentro de los tres días hábiles siguientes acordará su inicio y correrá traslado con copia de la constancia al Titular de la Unidad de Acceso del sujeto obligado sobre la instauración del procedimiento de mérito, para que en el término de tres días hábiles a partir del día siguiente de la notificación, acompañe las constancias o pruebas correspondientes que acredite su cumplimiento en tiempo de la resolución del recurso; si el incumplimiento recayere sobre una resolución dictada en el recurso de revisión o cualquier otra resolución del Consejo, esta se iniciará de oficio de manera inmediata y se aplicaran los medios de apremio correspondientes.
+I. El inicio del presente procedimiento se llevará a cabo a través de la vista que el Secretario Ejecutivo le dé al Consejo o bien del recurso de revisión. Recibida la vista en cuestión, o de oficio por el Consejo, de manera inmediata se radicará, registrándolo bajo el número de expediente que le corresponda, en libro de gobierno y creando el expediente respectivo.
 
-El Titular de la Unidad de Acceso del sujeto obligado, sólo puede ofrecer como prueba de su parte, la documental;
+> <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2010)</small>
 
-III. Una vez recibidas las constancias o pruebas, que en su caso, acompañe el Titular de la Unidad de Acceso del sujeto obligado, o transcurrido el término a que se refiere la fracción anterior, el Consejo de inmediato designará ponente a uno de sus miembros en términos del párrafo cuarto del artículo 52 de la Ley, para que elabore el proyecto de resolución respectivo en un término no mayor de cinco días, mismo que será sometido al pleno al día siguiente;
+II. Radicado el procedimiento de incumplimiento de las resoluciones emitidas en los medios de impugnación previstos en los Capítulos Primero y Segundo del Título Tercero de la Ley de la Materia, y dado que el Secretario Ejecutivo ha solicitado con antelación al Titular de la Unidad de Acceso del sujeto obligado el cumplimiento a la resolución del medio de impugnación que corresponda, el Consejo con la finalidad de garantizar una justicia pronta, expedita y efectiva, procederá a requerir a la autoridad responsable por única ocasión, para efectos de que en el término de veinticuatro horas siguientes al en que surta efectos la notificación, informe sobre el acatamiento del fallo de referencia o bien, manifieste las razones por la cuales ha omitido cumplimentarle.
 
-IV. Las resoluciones que recaigan con motivo del presente procedimiento, deben ser notificadas mediante oficio al Titular de la Unidad de Acceso del sujeto obligado, o en su caso, dar aviso al superior jerárquico, precisando la forma en que deben cumplirse, independientemente de la aplicación de los medios de apremio;
+> <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2010)</small>
+
+III. Fenecido el plazo del requerimiento descrito en la fracción inmediata anterior, sin que la autoridad haya remitido las constancias correspondientes e informado los motivos por los cuales no ha cumplimentado la resolución materia del presente procedimiento, o las causas alegadas por ésta no hagan referencia a una imposibilidad material o jurídica que impida su acatamiento, el Consejo para asegurar el cumplimiento a la resolución, deberá efectuar los requerimientos que correspondan hasta lograr el total cumplimiento empleando los medios de apremio previstos en el artículo 56 de la Ley.
+
+> <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2010)</small>
+
+IV. Las determinaciones que recaigan con motivo del presente procedimiento, deben ser notificadas mediante oficio al Titular de la Unidad de Acceso del sujeto obligado, o en su caso, dar aviso al superior jerárquico, precisando la forma en que deben cumplirse, independientemente de la aplicación de los medios de apremio.
 
 V. Las notificaciones de este procedimiento se llevarán a cabo en los mismos términos que establece el Capítulo Quinto del Título Cuarto del presente Reglamento.
 
@@ -1524,6 +1536,12 @@ SECRETARIO EJECUTIVO
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O. 17 DE ABRIL DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 31 DE AGOSTO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
