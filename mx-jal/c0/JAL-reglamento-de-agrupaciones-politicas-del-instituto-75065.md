@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-agrupaciones-politicas-del-instituto-75065"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-06"
-last_updated: "2010-05-06"
+last_updated: "2010-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE AGRUPACIONES POLITICAS DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2010.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 6 de mayo de 2010.
 
@@ -354,5 +354,19 @@ III. Tareas editoriales: por esta actividad se entenderá la edición y producci
 T R A N S I T O R I O:
 
 ÚNICO. El presente reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+ANEXO I
+
+LISTADO DE ASOCIADOS DE LA AGRUPACIÓN POLITICA ESTATAL
+
+> <small>N. DE E. VEASE ANEXO I EN LA CUARTA SECCION DEL P.O. DE 31 DE AGOSTO DE 2010, PAG. 6.</small>
+
+ANEXO II
+
+> <small>N. DE E. VEASE ANEXO II EN LA CUARTA SECCION DEL P.O. DE 31 DE AGOSTO DE 2010, PAG. 5.</small>
+
+P.O. 31 DE AGOSTO DE 2010.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
 
 ### CAPÍTULO QUINTO. ACUERDOS DE PARTICIPACIÓN CON PARTIDOS POLÍTICOS O COALICIÓN
