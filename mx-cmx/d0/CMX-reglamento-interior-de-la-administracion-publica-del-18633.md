@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2010-07-26"
+last_updated: "2010-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE AGOSTO DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -96,7 +96,7 @@ La Jefatura de Gobierno para el estudio, planeación y despacho de los asuntos q
 
 I. Secretaría Particular del Jefe de Gobierno;
 
-II. Dirección General de Comunicación Social, y
+II. (DEROGADA, G.O. 31 DE AGOSTO DE 2010)
 
 III. Las que le sean adscritas conforme a las disposiciones jurídicas y administrativas aplicables.
 
@@ -146,9 +146,9 @@ E) La Dirección Ejecutiva de Sanciones Penales.
 
 Quedan adscritos a esta Secretaría los Órganos Político-Administrativos de cada demarcación territorial.
 
-> <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2010)</small>
 
-Asimismo, se le adscribe el Órgano Desconcentrado denominado Sistema de Radio y Televisión Digital del Gobierno del Distrito Federal.
+Asimismo, se le adscribe el órgano desconcentrado Sistema de Radio y Televisión Digital del Gobierno del Distrito Federal y el órgano denominado Autoridad del Centro Histórico.
 
 > <small>(REFORMADA, G.O. 30 DE JUNIO DE 2010)</small>
 
@@ -476,7 +476,9 @@ XIII. A la Oficialía Mayor:
 
 5. Las Direcciones Generales, Ejecutivas o de área encargadas de la administración en las dependencias de la Administración Publica Central;
 
-6. (DEROGADO, G.O. 30 DE MARZO DE 2009)
+> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2010)</small>
+
+6. Dirección General de Comunicación Social.
 
 > <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -2040,41 +2042,13 @@ XVIII. Las demás que les atribuyan expresamente los ordenamientos jurídicos y 
 
 ### Capítulo VIII. De las atribuciones de las Unidades Administrativas de la Administración Pública Centralizada
 
-#### SECCION I
+> <small>(DEROGADA SU DENOMINACION, G.O. 31 DE AGOSTO DE 2010)</small>
 
-DE LA JEFATURA DE GOBIERNO.
+#### SECCION I
 
 ###### Artículo 38.
 
-Corresponde a la Dirección General de Comunicación Social:
-
-I. Planear, coordinar y evaluar las políticas que orienten a los medios de difusión con que cuenten las Dependencias, Unidades Administrativas, Órganos Político-Administrativos y Órganos Desconcentrados de la Administración Pública y coadyuvar en la materia a las Entidades, de conformidad con las normas que al efecto expida el Jefe de Gobierno;
-
-II. Elaborar y actualizar un programa sectorial de comunicación social, que establezca los lineamientos para garantizar una recepción fluida de la opinión pública y la proyección adecuada de los mensajes de la Administración Pública;
-
-III. Normar y dictaminar sobre la orientación y procedencia de las actividades y erogaciones a realizar, en materia de comunicación social;
-
-IV. Supervisar y coordinar la información que se difundirá por los medios de comunicación sobre todas y cada una de las actividades y servicios de la Administración Pública;
-
-V. (DEROGADA, G.O. 16 DE ABRIL DE 2008)
-
-VI. Normar, autorizar y supervisar el diseño de producción y desarrollo de toda campaña o publicación, promovida en materia de comunicación social;
-
-VII. Llevar a cabo las campañas de orientación ciudadana que sean de interés para el Distrito Federal;
-
-VIII. Promover reuniones de coordinación con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos y Órganos Desconcentrados de la Administración Pública, a fin de uniformar el criterio en la difusión de políticas y acciones en materia de comunicación social;
-
-IX. Supervisar y realizar la edición de los programas e informes de trabajo y de la memoria anual de actividades de la Administración Pública;
-
-X. Capturar, sistematizar, analizar y evaluar la información y opiniones difundidas por los medios de comunicación, en lo concerniente a las actividades de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos y Órganos Desconcertados de la Administración Pública;
-
-XI. Realizar encuestas sobre las opiniones y necesidades de la población, referidas al desempeño y funciones de la Administración Pública;
-
-XII. Captar de los diferentes medios de difusión las quejas del público y turnarlas para su atención a la autoridad competente;
-
-XIII. Organizar y supervisar entrevistas y conferencias con la prensa nacional o internacional, así como congresos y seminarios en las materias de la competencia de la Administración Pública; y
-
-XIV. Atender todo lo relacionado a las invitaciones protocolarias y de prensa que deban realizar las Dependencias, Unidades Administrativas, Órganos Político-Administrativos y Órganos Desconcentrados de la Administración Pública en el desempeño de sus funciones.
+(DEROGADO, G.O. 31 DE AGOSTO DE 2010)
 
 #### SECCION II
 
@@ -6503,6 +6477,40 @@ XVI. Opinar sobre la contratación conforme a la Ley de Adquisiciones y la Ley d
 > <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 XVII. Participar en la planeación y coordinar la prestación de servicios de apoyo que requieran las diversas las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados de su sector.
+
+> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2010)</small>
+
+###### Artículo 101-C.
+
+Corresponde a la Dirección General de Comunicación Social:
+
+I. Planear, coordinar y evaluar las políticas que orienten a los medios de difusión con que cuenten las dependencias, unidades administrativas, órganos político-administrativos y órganos desconcentrados de la Administración Pública y coadyuvar en la materia a las entidades, de conformidad con las normas que al efecto se expida;
+
+II. Elaborar y actualizar un programa sectorial de comunicación social, que establezca los lineamientos para garantizar una recepción fluida de la opinión pública y la proyección adecuada de los mensajes de la Administración Pública;
+
+III. Normar y dictaminar sobre la orientación y procedencia de las actividades y erogaciones a realizar, en materia de comunicación social;
+
+IV. Supervisar y coordinar la información que se difundirá por los medios de comunicación sobre todas y cada una de las actividades y servicios de la administración pública;
+
+V. (DEROGADA, G.O. 31 DE AGOSTO DE 2010)
+
+VI. Normar, autorizar y supervisar el diseño de producción y desarrollo de toda campana o publicación, promovida en materia de comunicación social;
+
+VII. Llevar a cabo las campañas de orientación ciudadana que sean de interés para el Distrito Federal;
+
+VIII. Promover reuniones de coordinación con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos y Órganos Desconcentrados de la Administración Pública, a fin de uniformar el criterio en difusión de políticas y acciones en materia de comunicación social:
+
+IX. Supervisar y realizar la edición de los programas e informes de trabajo y de la memoria anual de actividades de la Administración Pública;
+
+X. Capturar, sistematizar, analizar y evaluar la información y opiniones difundidas por los medios comunicación, en lo concerniente a las actividades de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos y Órganos Desconcentrados de la Administración Pública;
+
+XI. Realizar encuestas sobre las opiniones y necesidades de la población, referidas al desempeño y funciones de la Administración Pública;
+
+XII. Captar de los diferentes medios de difusión las quejas del público y turnarlas para su atención a la autoridad competente;
+
+XIII. Organizar y supervisar entrevistas y conferencias con la prensa nacional o internacional, así como congresos y seminarios en las materias de la competencia de la Administración Pública; y
+
+XIV. Atender todo lo relacionado a las invitaciones protocolarias y de prensa que deban realizar las dependencias, unidades administrativas, órganos político-administrativos y órganos desconcentrados de la Administración Pública en el desempeño de sus funciones.
 
 #### SECCION XIII
 
@@ -13991,3 +13999,15 @@ PRIMERO. - El presente decreto entrará en vigor al día siguiente de su publica
 SEGUNDO.- Las referencias hechas a la materia de Austeridad en otros ordenamientos jurídicos y administrativos de igual o menor jerarquía al presente Reglamento, se entenderán hechas a la materia de Disciplina Presupuestaria, Economía y Gasto Eficiente y serán válidas en tanto no se opongan a las disposiciones de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal, o sean derogadas.
 
 TERCERO.- Los asuntos que se encuentran en trámite en la Coordinación General de Evaluación y Desarrollo Profesional conforme al artículo 113 Bis 7, seguirán siendo tramitados y resueltos por la Coordinación General de Evaluación y Desarrollo Profesional de conformidad con el presente decreto en términos del artículo 113 Ter.
+
+G.O. 31 DE AGOSTO DE 2010.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Con excepción de la nueva adscripción prevista en el presente decreto, continúan vigentes las disposiciones contenidas en el Acuerdo por el que se Crea el Órgano de Apoyo a las Actividades de la Jefatura de Gobierno en el Centro Histórico de la Ciudad de México, denominado Autoridad del Centro Histórico, publicado en la Gaceta Oficial del Distrito Federal el 22 de enero de 2007.
+
+CUARTO.- Los recursos humanos, materiales, técnicos y financieros de la Dirección General de Comunicación Social y de la Autoridad del Centro Histórico que por virtud del presente decreto se readscriben, serán transferidas en los términos y condiciones que establezcan las disposiciones administrativas aplicables.
+
+QUINTO. La Jefatura de la Oficina de la Jefatura de Gobierno, la Secretaría de Gobierno y la Oficialía Mayor, deberán actualizar sus Manuales Administrativos en los plazos y condiciones que establezca la normativa vigente.
