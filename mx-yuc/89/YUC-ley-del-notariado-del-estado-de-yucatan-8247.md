@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-notariado-del-estado-de-yucatan-8247"
 country: "mx"
 rank: "ley"
 publication_date: "1977-07-04"
-last_updated: "1994-01-03"
+last_updated: "2010-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DEL NOTARIADO DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE ENERO DE 1994.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 31 DE AGOSTO DE 2010. EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO A LOS 180 DIAS NATURALES SIGUIENTES AL DE SU PUBLICACION.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 4 de julio de 1977.
 
@@ -1088,3 +1090,63 @@ D.O. 3 DE ENERO DE 1994.
 PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se concede a los Notarios Públicos un plazo de treinta días, a contar de la vigencia de este Decreto, para celebrar los convenios a que se refiere el Capítulo V de la Ley del Notariado del Estado de Yucatán.
+
+D.O. 31 DE AGOSTO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Esta ley entrará en vigor a los 180 días naturales siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, con excepción del artículo Décimo Tercero transitorio, que entrará en vigor al día siguiente al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de esta ley, queda abrogada la Ley del Notariado del Estado de Yucatán contenida en el Decreto número 124 de fecha publicada en el Diario Oficial del Gobierno del Estado el 4 de julio de 1977. No obstante, dicha ley se seguirá aplicando únicamente en lo relativo al sistema denominado "protocolo cerrado" en lo que concierne al manejo de los libros de este sistema y en los casos en que el Notario Público no estuviere incorporado al sistema denominado "protocolo abierto".
+
+###### ARTÍCULO TERCERO.
+
+Los notarios públicos, a partir del día en que entre en vigor esta ley, contarán con un plazo de 30 días naturales para proveerse de su nuevo sello de autorización y de los folios que integrarán su Protocolo.
+
+###### ARTÍCULO CUARTO.
+
+La utilización del Protocolo Abierto iniciará dieciocho meses después de la entrada en vigor de esta ley. No obstante los notarios públicos podrán continuar utilizando el sistema denominado protocolo cerrado, hasta por un plazo no mayor a 3 años a partir del inicio del sistema de protocolo abierto.
+
+En ambos casos, la numeración con la que el Notario Público inicie el Protocolo Abierto será el número uno.
+
+###### ARTÍCULO QUINTO.
+
+Transcurridos tres años a partir del inicio del sistema de Protocolo Abierto, concluido o no el volumen trabajado con el sistema de Protocolo Cerrado, el Notario Público deberá efectuar el acta de cierre e iniciará el uso del Protocolo Abierto.
+
+###### ARTÍCULO SEXTO.
+
+Se establece un período de un año, a partir de la entrada en vigor de esta ley, para que se implementen los sistemas electrónicos correspondientes al Protocolo Electrónico, de acuerdo con la ley de la materia.
+
+###### ARTÍCULO SÉPTIMO.
+
+Quienes con anterioridad a la entrada en vigor de la presente ley tengan patente de Aspirante a Notario, tendrán derecho a ocupar las notarías que resulten vacantes en los términos establecidos en la Ley del Notariado que se abroga, para cuyos efectos quedará vigente en la parte conducente y únicamente respecto de dichos aspirantes, hasta su conclusión.
+
+Quienes obtengan la patente de aspirante a Notario Público a partir de la entrada en vigor de la presente ley, tendrán derecho a ocupar las notarías públicas vacantes en los términos establecidos en esta ley, una vez que se hayan otorgado las patentes de Notario a todos los aspirantes a que se refiere el primer párrafo de este artículo.
+
+Quienes con anterioridad a la entrada en vigor de esta ley, hubiesen concluido sus prácticas notariales, contarán con un plazo de dos años para solicitar, en su caso, su examen para aspirante a notario.
+
+###### ARTÍCULO OCTAVO.
+
+Los notarios públicos que actualmente se encuentren en ejercicio de sus funciones, conservarán esa calidad en los mismos domicilios y números de notaría pública que se les ha sido asignada.
+
+###### ARTÍCULO NOVENO.
+
+Los escribanos públicos con residencia en la Ciudad de Mérida, nombrados conforme la Ley del Notariado que se abroga, dejarán de ejercer sus funciones en un término de tres años a partir del momento que concluya la vigencia de su nombramiento. Los nombramientos de nuevos escribanos públicos se harán de conformidad con los requisitos señalados en esta ley.
+
+###### ARTÍCULO DÉCIMO.
+
+El Poder Ejecutivo del Estado deberá expedir el Reglamento de esta Ley, en un plazo no mayor a 180 días naturales siguientes al de la entrada en vigor de esta Ley.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Consejo de Notarios deberá expedir su Reglamento interior en un plazo no mayor de 180 días naturales siguientes al de la entrada en vigor de esta ley.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los protocolos cerrados que posean los notarios públicos al momento de entrar en vigor esta Ley, y los que se generen en el plazo previsto en el artículo cuarto transitorio de esta Ley, deberán ser entregados al Archivo Notarial hasta el momento en que dejen de ejercer sus funciones de manera definitiva.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Por única ocasión, el Consejo de Notarios a elegirse en el mes de diciembre de 2010, se conformará por un Presidente, un Secretario, un Tesorero, 4 vocales propietarios y 4 vocales suplentes.
