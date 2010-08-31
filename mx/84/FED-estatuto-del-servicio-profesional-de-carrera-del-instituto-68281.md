@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-de-carrera-del-instituto-6828
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-05-08"
-last_updated: "2009-05-08"
+last_updated: "2010-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68281&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-04-24"
 
 ACUERDO DE LA JUNTA DE GOBIERNO DEL INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA POR EL QUE SE EXPIDE EL ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 2010.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 8 de mayo de 2009.
 
@@ -277,9 +277,11 @@ El Reclutamiento se llevará a cabo a través de convocatorias públicas abierta
 
 El reclutamiento del personal operativo de confianza se hará por medio de convocatoria pública difundida en la página de internet del Instituto.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 2010)</small>
+
 ###### Artículo 19.
 
-Se entenderá por convocatoria pública abierta, aquella dirigida a Aspirantes a ingresar al Sistema, mediante su publicación en el Diario Oficial de la Federación y en las modalidades que señalen las disposiciones normativas de este Ordenamiento.
+Se entenderá por convocatoria pública abierta aquella dirigida a Aspirantes a ingresar al Sistema, mediante su publicación en la página de internet del Instituto y en las modalidades que se señalen las disposiciones normativas de este Ordenamiento.
 
 Las convocatorias señalarán en forma precisa los cargos sujetos a concurso, el perfil que deberán cubrir los Aspirantes, los requisitos y los lineamientos generales que se determinen para la aplicación de los instrumentos de selección, así como el lugar y fecha para la entrega de la documentación correspondiente, la aplicación de los instrumentos de evaluación, y el fallo relacionado con la selección de los aspirantes finalistas en cada concurso.
 
@@ -620,3 +622,9 @@ Esta disposición transitoria no será aplicable a los puestos que la Comisión 
 El presente Acuerdo No. 4a./V/2009, fue aprobado en la Cuarta Sesión 2009 de la Junta de Gobierno del Instituto Nacional de Estadística y Geografía, celebrada el 24 de abril de dos mil nueve.- Presidente, Eduardo Sojo Garza Aldape; Vicepresidentes, Enrique de Alba Guerra, María del Rocío Ruiz Chávez, José Antonio Mejía Guerra y Mario Palma Rojo.
 
 México, D.F., a 24 de abril de 2009.- Hace constar lo anterior el Director General Adjunto de Asuntos Jurídicos, Jorge Ventura Nevares, en ejercicio de la atribución que le confiere lo dispuesto por la fracción IV, del artículo 46 del Reglamento Interior del Instituto Nacional de Estadística y Geografía.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 31 DE AGOSTO DE 2010.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
