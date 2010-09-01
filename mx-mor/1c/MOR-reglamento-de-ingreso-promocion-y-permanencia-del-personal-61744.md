@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-ingreso-promocion-y-permanencia-del-personal-6174
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-25"
-last_updated: "2008-06-25"
+last_updated: "2010-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE INGRESO, PROMOCION Y PERMANENCIA DEL PERSONAL ACADEMICO DE LA UNIVERSIDAD POLITECNICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de junio de 2008.
 
@@ -63,7 +63,9 @@ El personal académico, por sus horas de trabajo contratadas se divide en:
 
 I. De tiempo completo, con 40 horas semanales; y
 
-II. De asignatura o por horas de clase, hasta quince horas semanales.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+II. De asignatura o por horas de clase, con hasta veinte horas semanales.
 
 Los Directores Académicos, asignarán las horas que deban ser dedicadas a las actividades docentes, de investigación y las demás derivadas de la contratación.
 
@@ -674,3 +676,9 @@ LA SECRETARIA TÉCNICA DE LA JUNTA DIRECTIVA
 M. EN A. LEONOR ORDUÑA CANO
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2010.
+
+ÚNICO. La modificación a la fracción II del artículo 5 del Reglamento de Ingreso, Promoción y Permanencia del Personal Académico entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
