@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2010-08-25"
+last_updated: "2010-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "CHH"
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2010.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 1 DE SEPTIEMBRE DE 2010.</small>
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -12039,11 +12041,19 @@ III.- Los créditos de los establecimientos de asistencia social pública o priv
 
 2913.- (DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 1077/2010 II P.O., P.O. 26 DE JUNIO DE 2010)
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 1077/2010 II P.O., P.O. 26 DE JUNIO DE 2010)</small>
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO IV. 2914.- (DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 1077/2010 II P.O., P.O. 26 DE JUNIO DE 2010)
+### CAPITULO IV. DEL REGISTRO DE LAS INFORMACIONES DE DOMINIO
 
-2915.- (DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 1077/2010 II P.O., P.O. 26 DE JUNIO DE 2010)
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+2914.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para adquirirlos por prescripción y no tenga título de propiedad o teniéndolo, no sea inscribible por defectuoso si no está en el caso de deducir la acción que le concede el artículo 1158, por no estar inscrita en el Registro, la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el Juez de Primera Instancia competente, que ha tenido esa posesión, rindiendo la información respectiva conforme el artículo siguiente y en los términos establecidos en el Código de Procedimientos Civiles. Comprobada debidamente la posesión, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público de la Propiedad.
+
+Por lo que corresponde a los bienes inmuebles urbanos en las municipalidades cuyo fundo legal se encuentra inscrito en el Registro Público de la Propiedad, se estará a lo dispuesto en los Artículos 281 y 282 del Código Municipal. En la inscripción del fundo legal se entienden incluidos todos los inmuebles urbanos no registrados en favor de persona determinada.
+
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+2915.- El promovente deberá acreditar necesariamente la forma establecida por el Código de Procedimientos Civiles que el inmueble de que se trata se encuentra, cuando menos, si es rústico, totalmente cercado y si es urbano, totalmente bardeado. Si en la oficina del Registro Público de la Propiedad del lugar de la ubicación del inmueble, se dispone de libros o índices especiales de los que aparezcan datos suficientes para la expedición de un certificado que acredite que dichos inmuebles no están inscritos a nombre de persona alguna, a la solicitud se acompañará precisamente dicho certificado; o el que acredite el extremo contrario. También se acompañará un certificado de la correspondiente Oficina Rentística, de que el inmueble está al corriente del Impuesto Predial y si de tal certificado apareciere que el causante del impuesto es persona distinta al promovente, deberá éste exhibir el certificado del Registro Público de la Propiedad respectivo, en el sentido de que el inmueble no aparece registrado a nombre de esa persona, si se dispone de Indices de Personas.
 
 ### CAPITULO V. DE LAS INSCRIPCIONES DE POSESION
 
@@ -12065,63 +12075,39 @@ Si el opositor deja transcurrir seis meses sin promover en el juicio de oposici�
 
 2920.- No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.
 
-### CAPITULO VI. DE LA EXTINCION DE LAS INSCRIPCIONES
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
-2921.- Las inscripciones no se extinguen en cuanto a tercero, sino por su cancelación, o por el registro de la transmisión del dominio, o derecho real inscrito a otra persona.
+### CAPITULO VI. 2921.- (DEROGADO POR F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)
 
-2922.- Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
+2922.- (DEROGADO POR F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)
 
-2923.- La cancelación de las inscripciones podrá ser total o parcial.
+2923.- (DEROGADO POR F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)
 
-2924.- Podrá pedirse y deberá ordenarse en su caso, la cancelación total:
+2924.- (DEROGADO POR F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)
 
-I.- Cuando se extinga por completo el inmueble objeto de la inscripción;
+2925.- (DEROGADO POR F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)
 
-II.- Cuando se extinga también por completo el derecho inscrito;
+2926.- (DEROGADO POR F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)
 
-III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción;
+2927.- (DEROGADO POR F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)
 
-IV.- Cuando se declare la nulidad de la inscripción;
+2928.- (DEROGADO POR F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)
 
-V.- Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 2222;
+2929.- (DEROGADO POR F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)
 
-VI.- Cuando tratándose de una cédula hipotecaria o de un embargo, hayan transcurrido tres años desde la fecha de la inscripción.
+2930.- (DEROGADO POR F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)
 
-2925.- Podrá pedirse, y deberá decretarse, en su caso, la cancelación parcial:
+2931.- (DEROGADO POR F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)
 
-I.- Cuando se reduzca el inmueble objeto de la inscripción;
+2932.- (DEROGADO POR F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)
 
-II.- Cuando se reduzca el derecho inscrito a favor del dueño de la finca gravada.
+2933.- (DEROGADO POR F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)
 
-2926.- Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que éstas lo sean legítimas, tengan capacidad de contratar y hagan constar su voluntad de un modo auténtico.
+2934.- (DEROGADO POR F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)
 
-2927.- Si para cancelar el registro se pusiese alguna condición, se requiere, además, el cumplimiento de ésta.
+2935.- (DEROGADO POR F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)
 
-2928.- Cuando se registre la propiedad o cualquiera otro derecho real sobre inmuebles, en favor del que adquiere, se cancelará el registro relativo al que enajene.
-
-2929.- Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada, se cancelará ésta.
-
-2930.- Los padres, como administradores de los bienes de sus hijos, los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
-
-2931.- La cancelación de las inscripciones de hipotecas constituidas en garantía de títulos transmisibles por endoso, puede hacerse:
-
-I.- Presentándose la escritura otorgada por los que hayan cobrado los créditos, en la cual debe constar haberse inutilizado en el acto de su otorgamiento los títulos endosables;
-
-II.- Por solicitud firmada por dichos interesados y por el deudor, a la cual se acompañan inutilizados los referidos títulos;
-
-III.- Por ofrecimiento de pago y consignación del importe de los títulos, hechos de acuerdo con las disposiciones relativas.
-
-2932.- Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial, estar recogida y en poder del deudor toda la emisión de títulos debidamente inutilizados.
-
-2933.- Procederá también la cancelación total, si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan.
-
-La cancelación, en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
-
-2934.- Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, presentando acta notarial de estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trata de extinguir, siempre que dichos títulos asciendan por lo menos a la décima parte del total de la emisión.
-
-2935.- Las cancelaciones se harán en la forma que fije el Código Administrativo; pero deberán contener para su validez, los datos necesarios a fin de que con toda exactitud se conozca cual es la inscripción que se cancela, la causa por la que se hace la cancelación y su fecha.
-
-2936.- Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscrito, sino también cuando esa inscripción se convierta en definitiva.
+2936.- (DEROGADO POR F. DE E., P.O. 1 DE SEPTIEMBRE DE 2010)
 
 ## TRANSITORIOS
 
