@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-becas-del-centro-morelense-de-las-artes-47287"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-28"
-last_updated: "2005-12-28"
+last_updated: "2010-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DE BECAS DEL CENTRO MORELENSE DE LAS ARTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE BECAS DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 1 DE SEPTIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial de Estado de Morelos, el miércoles 28 de diciembre de 2005.
 
@@ -124,3 +126,13 @@ EL SECRETARIO DE EDUCACIÓN
 M. en C. FRANCISCO RAMÓN TALLABS ORTEGA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2010.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Órgano de Información Oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se derogan el Reglamento de Becas del Centro Morelense de las Artes publicado en el Periódico Oficial "Tierra y Libertad" número 4432 de fecha 28 de diciembre de 2005 y todas las disposiciones administrativas existentes que se opongan a la regulación del presente Reglamento.
+
+TERCERO. Todas las becas que hayan sido otorgadas antes de la fecha de aprobación del presente Reglamento se regularán por las disposiciones que se encontraban vigentes al momento de su otorgamiento.
