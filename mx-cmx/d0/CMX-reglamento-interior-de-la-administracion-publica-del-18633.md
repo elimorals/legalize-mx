@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2010-08-31"
+last_updated: "2010-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -608,19 +608,23 @@ XVII. A la Secretaría de Trabajo y Fomento al Empleo:
 
 4.- Procuraduría de la Defensa del Trabajo.
 
-> <small>(REFORMADA, G.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
 XVIII. A la Secretaría de Educación:
 
-1. Dirección General de Educación Media Superior y Superior.
+1. Coordinación General de Educación.
 
-2. Dirección General de Atención Integral al Estudiante.
+1.1 Dirección General de Educación Inicial, Básica, Media Superior y Superior.
 
-3. Dirección Ejecutiva Jurídica.
+1.2 Dirección Ejecutiva de Planeación y Educación a Distancia.
 
-4. Dirección Ejecutiva de Educación Básica.
+2. Coordinación General de Desarrollo Educativo y Pedagógico.
 
-5. Dirección de Planeación.
+2.1 Dirección General de Desarrollo Educativo.
+
+2.2 Dirección Ejecutiva de Formación Continua y Servicios Estudiantiles.
+
+3. Dirección Ejecutiva de Asuntos Jurídicos.
 
 > <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -8868,197 +8872,319 @@ XIII. Difundir ante los medios de comunicación, los derechos y obligaciones de 
 
 DE LA SECRETARIA DE EDUCACION.
 
-> <small>(ADICIONADO, G.O. 29 DE JUNIO DE 2007)</small>
+Artículo 119 Septimus A.- (DEROGADO, G.O. 1 DE SEPTIEMBRE DE 2010)
 
-Artículo 119 Septimus A.- Corresponde a la Dirección General de Educación Media Superior y Superior:
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
-I. Elaborar los proyectos para establecer mecanismos de coordinación con las instituciones que impartan educación media y superior en el Distrito Federal, a efecto de acordar políticas y acciones para la planeación y evaluación de estos tipos educativos;
+Artículo 119 Septimus B.- Corresponde a la Coordinación General de Educación:
 
-II. Elaborar para su aprobación por parte de la Subsecretaría de Educación Media Superior y Superior, los lineamientos para la actualización, formación y superación del personal académico de las instituciones de educación media y superior pertenecientes al Sistema Educativo del Distrito Federal;
+I. Auxiliar al Secretario en el ejercicio de sus atribuciones, dentro del ámbito de competencia de la Coordinación General;
 
-III. Elaborar, para su aprobación por parte de la Subsecretaría de Educación Media Superior y Superior, los lineamientos a que deberán sujetarse los procesos de autoevaluación y evaluación externa de los programas educativos y de la gestión institucional en los planteles;
+II. Formular, desarrollar, implementar y coordinar todas las acciones y políticas que sean necesarias en el marco de la educación inicial, básica, media superior y superior; para impulsar y fortalecer la educación pública en todos sus niveles, en el ámbito de competencia de la Secretaría;
 
-IV. Sistematizar, integrar y difundir la información necesaria para la evaluación global de instituciones educativas del tipo medio superior y superior del Distrito Federal que permitan identificar las características y problemas de la educación en estos niveles;
+III. Impulsar el desarrollo y fortalecimiento de los programas de bachillerato y universidad a distancia, a través de la implementación de políticas que empleen las tecnologías de la información y la modernización educativa.
 
-V. Proponer e impulsar políticas para el desarrollo de las instituciones y programas de educación media superior y superior destinados a la formación de los profesionales de la educación;
+IV. Ejercer las funciones relativas al ejercicio de las facultades que le hayan sido otorgadas, autorizadas, delegadas o que le correspondan por suplencia;
 
-VI. Proponer a la Subsecretaría de Educación Media Superior y Superior, las reformas curriculares de los estudios de educación media superior y superior que resulten necesarias para responder a los requerimientos de la sociedad y el desarrollo sustentable;
+V. Establecer la coordinación, colaboración y comunicación necesaria con las dependencias, órganos autónomos, órganos de gobierno, órganos político administrativos y entidades de la Administración Pública local, así como con las autoridades federales competentes; para la realización de acciones conjuntas en materia educativa;
 
-VII. Establecer vínculos para la creación de redes de intercambio y cooperación académica entre las instituciones de educación media superior y superior y las que imparten niveles equivalentes, a fin de articular sus respectivos currículos, dentro de un esquema de calidad;
+VI. Formular los anteproyectos de programas y de presupuesto que le correspondan, así como verificar su correcta y oportuna ejecución por parte de las unidades administrativas que se le adscriban;
 
-VIII. Proponer la incorporación del conocimiento y aplicación de las tecnologías de la información y la comunicación en los programas académicos y materiales pedagógicos correspondientes a la educación media superior y superior;
+VII. Diseñar, implementar y evaluar los proyectos de innovación tecnológica e investigación científica que contribuyan en el mejoramiento de la educación inicial, básica, media superior y superior del Distrito Federal, dentro del ámbito de competencia de la Secretaría;
 
-IX. Formular disposiciones técnicas y administrativas para la organización, operación, desarrollo, supervisión y evaluación de la educación en los niveles referidos, difundir las aprobadas y verificar su cumplimiento;
+VIII. Diseñar y coordinar estrategias para el desarrollo del sistema integral de información de instituciones de nivel inicial, básico, medio superior y superior en el Distrito Federal;
 
-X. Proponer lineamientos para desarrollar mecanismos de financiamiento para impulsar los planes de desarrollo para las escuelas y la modernización de la educación en los niveles referidos;
+IX. Promover la aplicación de la normatividad vigente en materia educativa, innovación tecnológica e investigación científica;
 
-XI. Emitir opinión técnica sobre la factibilidad de establecer nuevos centros educativos dependientes de la Secretaría, que impartan estudios de niveles medio superior y superior en el Distrito Federal;
+X. Realizar el diagnóstico y evaluación de instituciones educativas en el Distrito Federal, para atender la problemática en la educación inicial, básica, media superior y superior;
 
-XII. Sugerir los indicadores para evaluar el desempeño de las instituciones educativas del tipo medio superior y superior pertenecientes al Sistema Educativo del Distrito Federal; y
+XI. Gestionar con las autoridades federales competentes, la viabilidad de recibir transferencias federales para la mejora y el desarrollo de la política educativa, de conformidad con la normatividad aplicable;
 
-XIII. Las demás que le atribuyan expresamente otras las leyes y reglamentos.
+XII. Coordinar acciones con las autoridades competentes para elevar la calidad de los centros de asistencia infantil comunitarios;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 MARZO DE 2010)</small>
+XIII. Realizar en el ámbito de las atribuciones las acciones necesarias que en materia educativa se establezcan a la Secretaría para asegurar condiciones que garanticen que los centros de asistencia infantil comunitarios a cargo del Gobierno del Distrito Federal, cumplan con la normatividad aplicable en materia de seguridad e higiene obligatorias, para salvaguardar la integridad física, psicológica y social de la comunidad escolar;
+
+XIV. Participar en la elaboración de proyectos de normas pedagógicas, planes y programas de estudio para la educación inicial, básica, media superior y superior que impartan las instituciones educativas pertenecientes al Sistema Educativo del Distrito Federal, y someterlos a consideración del titular de la Secretaría, en el ámbito de competencia de la Secretaría;
+
+XV. Establecer mecanismos de colaboración y coordinación con las instituciones que impartan educación inicial, básica, media superior y superior en el Distrito Federal, que permitan acordar políticas y acciones para la planeación y evaluación de estos niveles educativos para impulsar mejoras;
+
+XVI. Proponer la celebración de convenios específicos de colaboración con instituciones públicas y/o privadas para ampliar la oferta y mejorar la calidad educativa en los niveles de educación inicial, básica, media, media superior y superior en el Distrito Federal;
+
+XVII. Promover procesos de evaluación de los programas educativos y de la gestión institucional en los planteles de educación inicial, básica, media superior y superior pertenecientes al Sistema Educativo del Distrito Federal; que contribuyan a elevar los niveles y la calidad de la educación, en coordinación con las autoridades federales competentes;
+
+XVIII. Establecer indicadores de evaluación del desempeño de las instituciones educativas del nivel básico, medio superior y superior pertenecientes al Sistema Educativo del Distrito Federal, en el ámbito de competencia de la Secretaría;
+
+XIX. Fomentar que las instituciones educativas pertenecientes al Sistema Educativo del Distrito Federal, incorporen y consideren las recomendaciones formuladas por organismos evaluadores, en relación con sus programas educativos y desarrollo educacional con el propósito de elevar el estándar de calidad;
+
+XX. Fomentar que las instituciones educativas de nivel inicial básico, medio superior y superior pertenecientes al Sistema Educativo del Distrito Federal, cuenten con sistemas integrales de información y que empleen las tecnologías de la información para hacer más eficientes los procesos educativos, en coordinación con las autoridades federales competentes;
+
+XXI. Promover la creación de redes de intercambio de información y cooperación académica entre las instituciones de educación inicial, básica, media superior y superior;
+
+XXII. Analizar la factibilidad del establecimiento de centros educativos dependientes de la Secretaría, que impartan estudios de niveles medio superior y superior en el Distrito Federal;
+
+XXIII. Desarrollar acciones que promuevan la modernización, el desarrollo de innovaciones tecnológicas y la optimización de recursos en materia educativa;
+
+XXIV. Establecer las políticas de planeación educativa, definiendo los estándares de calidad educativa;
+
+XXV. Evaluar los aspectos curriculares de la educación media superior y superior del Distrito Federal y proponer las adecuaciones que resulten necesarias para responder a los requerimientos de la sociedad y la industria en materia educativa;
+
+XXVI. Establecer las directrices para la aplicación de las tecnologías de la información y la comunicación en los programas académicos y materiales pedagógicos en la educación media superior y superior del Distrito Federal;
+
+XXVII. Impulsar estrategias y políticas de mejora continua en la educación orientadas a fomentar la conclusión de los estudios, por parte de los alumnos, evitando la deserción escolar.
+
+XXVIII. Vigilar el cumplimiento de los objetivos y directrices generales plasmados en el Sistema Educativo del Distrito Federal y la aplicación de los programas educativos; y
+
+XXIX. Las demás atribuciones que les sean conferidas por su superior jerárquico y/o que se establezcan en otros ordenamientos.
+
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 119 Octies.
 
-Corresponde a la Dirección Ejecutiva de Educación Básica:
+Corresponde a la Dirección General de Educación Inicial, Básica, Media Superior y Superior:
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+I. Establecer políticas orientadas a promover y fomentar la mejora del servicio dirigido a la educación inicial, básica, media superior y superior del Distrito Federal, en el ámbito de competencia de la Secretaría;
 
-I. Diseñar proyectos de innovación en los planos administrativo-estructural y teórico-conceptual, acerca de sistemas y modelos educativos;
+II. Impulsar acciones que permitan elevar la calidad y el funcionamiento de los centros de asistencia infantil comunitarios a cargo del Gobierno del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+III. Planear, organizar, integrar, dirigir, supervisar, evaluar y dar seguimiento al diseño de proyectos de innovación y mejoramiento de los servicios de educación inicial, básica, media superior y superior del Distrito Federal;
 
-II. Promover, formular y ejecutar programas y acciones en materia educativa;
+IV. Coordinarse con otras áreas de la Secretaría en actividades requeridas para el cumplimiento de los programas institucionales asignados a esta Dirección General, en el ámbito de competencia del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+V. Establecer un sistema integral de información que tenga como finalidad apoyar las actividades de planeación estratégica, de evaluación del desempeño y la toma de decisiones de la educación pública, así como la detección de requerimientos de la sociedad, en el marco del desarrollo sustentable;
 
-III. Elaborar propuestas de atención a la problemática educativo (sic) del servicio inicial, así como del nivel básico;
+VI. Vigilar en términos administrativos y operativos el cumplimiento de los programas y servicios que le han sido encomendados, acordes con las políticas, normas y reglamentos vigentes;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+VII. Aplicar diagnósticos situacionales y hacer propuestas de atención a la problemática educativa de los servicios de educación inicial, básica, media superior y superior del Distrito Federal;
 
-IV. Coordinar, evaluar y apoyar la ejecución de programas y acciones educativas en el ámbito de competencia del Distrito Federal;
+VIII. Sistematizar, integrar y difundir la información necesaria para la evaluación global de instituciones educativas del tipo inicial, básico, media superior y superior del Distrito Federal que permitan identificar las características y problemas de la educación en estos niveles, ante las autoridades competentes;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+IX. Proponer reformas curriculares de los estudios de educación inicial, básica, media superior y superior del Distrito Federal, en forma concurrente con las autoridades competentes, que resulten necesarias para responder a los requerimientos de la sociedad y el desarrollo sustentable;
 
-V. Mantener actualizada la información sobre la educación básica en el Distrito Federal;
+X. Definir la aplicación de las tecnologías de la información y la modernización en los programas académicos y materiales pedagógicos correspondientes a la educación pública del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+XI. Formular disposiciones técnicas y administrativas para la organización, operación, desarrollo, supervisión y evaluación de la educación y difundir las aprobadas.
 
-VI. Planear acciones educativas en el nivel formal dentro del marco del Programa de Ciudades Educadoras;
+XII. Proponer alternativas de financiamiento para impulsar los planes de desarrollo para las escuelas y la modernización de la educación en los niveles referidos;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+XIII. Coordinar la implementación de acciones y políticas que permitan elevar la calidad de la educación en el Distrito Federal.
 
-VII. Atender solicitudes y demandas ciudadanas o de otras instituciones relacionadas con la educación inicial y básica;
+XIV. Emitir opinión técnica sobre la factibilidad de establecer centros educativos dependientes de la Secretaría, que impartan estudios de medio superior y superior del Distrito Federal; y
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+XV. Las demás atribuciones que les sean conferidas por sus superiores jerárquicos y/ o se establezcan en otros ordenamientos.
 
-VIII. Coordinar, normar y evaluar las acciones de mantenimiento de escuelas a cargo de la Administración Publica;
+Artículo 119 Novenus.- (DEROGADO, G.O. 1 DE SEPTIEMBRE DE 2010)
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+Artículo 119 Novenus A.- (DEROGADO, G.O. 1 DE SEPTIEMBRE DE 2010)
 
-IX. Desarrollar e instrumentar modelos alternativos de educación que contribuyan a mejorar los servicios educativos locales y ampliar la oferta de los mismos;
+Artículo 119 Nonies (sic) B.- (DEROGADO, G.O. 1 DE SEPTIEMBRE DE 2010) (F. DE E., G.O. 1 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
-X. Formular propuestas para preparar la descentralización de la educación pública básica;
+Artículo 119 Novenus B.- Corresponde a Dirección Ejecutiva de Planeación y Educación a Distancia:
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+I. Dirigir el diseño, instrumentación y evaluación de políticas educativas que permitan establecer estrategias y mecanismos para el cumplimiento de los objetivos del sistema educativo del Distrito Federal, así como sus planes y programas a corto, mediano y largo plazo;
 
-XI. Supervisar la entrega de libros de texto gratuito a las secundarias públicas del Distrito Federal e instrumentar los mecanismos para planear, organizar, desarrollar, administrar, supervisar y evaluar los servicios del Sistema Educativo del Distrito Federal;
+II. Definir acciones y programas que permitan el desarrollo y fortalecimiento de los programas de bachillerato y universidad a distancia, a través de la implementación de las tecnologías de la información, de contenidos digitales y modernización educativa.
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+III. Desarrollar sistemas que faciliten una política de planeación preventiva en todas las áreas de la Secretaría, modernizando el proceso de planeación y mejorando su eficacia con estándares de calidad educativa, así como de estrategias, lineamientos y criterios técnicos en relación con los programas de modernización, calidad total, mejora de procesos y optimización de recursos;
 
-XII. Vigilar y evaluar la educación que impartan los particulares en planteles incorporados al sistema educativo del Distrito Federal;
+IV. Controlar y dirigir la instrumentación de políticas y estrategias educativas para el cumplimiento de los fines del sistema educativo del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+V. Coordinar el desarrollo de disposiciones técnicas y administrativas que permitan realizar un análisis sectorial de la organización, operación, desarrollo, supervisión y evaluación de la educación que se imparte en el Distrito Federal;
 
-XIII. Coordinar la prestación de los servicios bibliotecarios a través de bibliotecas públicas, propiciando la innovación educativa, científica, tecnológica y humanística;
+VI. Dirigir y coordinar la planeación, programación, operación y evaluación del sistema educativo del Distrito Federal y establecer el sistema de indicadores correspondientes;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+VII. Desarrollar el modelo de evaluación de la calidad de los servicios educativos del Distrito Federal;
 
-XIV. Fomentar la participación de las comunidades educativas, de las instituciones académicas y de la sociedad en general, en las actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública.
+VIII. Establecer el Sistema de Información Educativa de consulta en materia de información estadística e indicadores relativos al sistema educativo del Distrito Federal; y
 
-> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+IX. Las demás atribuciones que les sean conferidas por sus superiores jerárquicos conforme a las funciones de la unidad a su cargo.
 
-Artículo 119 Novenus.- Corresponde a la Dirección de Planeación:
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
-I. Apoyar al Secretario de Educación en la formulación y coordinación de las políticas, programas y acciones de promoción y difusión de la investigación científica y la innovación tecnológica;
+Artículo 119 Novenus C.- Corresponde a la Coordinación General de Desarrollo Educativo y Pedagógico:
 
-II. Sistematizar la información que en materia de investigación científica e innovación tecnológica reciba de las instituciones académicas y centros de investigación públicos y privados, y operar un sistema de consulta;
+I. Auxiliar al Secretario en el ejercicio de sus atribuciones, dentro del ámbito de competencia de la Coordinación General;
 
-III. Instrumentar la coordinación y distribución educativa entre la Federación y el Distrito Federal;
+II. Ejercer las funciones relativas al ejercicio de las facultades que le hayan sido conferidas, delegadas, autorizadas o le correspondan por suplencia;
 
-IV. Formular y fomentar las políticas y programas que contribuyan a elevar los niveles y la calidad de la educación;
+III. Establecer la coordinación, colaboración y comunicación necesaria con las dependencias, órganos autónomos, órganos de gobierno, órganos político administrativos y entidades de la Administración Pública local, así como con las autoridades federales competentes; para la realización de acciones conjuntas en relación con los programas y acciones que incentiven la equidad en la educación, la educación para la salud, la educación cívica, la formación docente y la atención al estudiante y a padres de familia;
 
-V. Coordinar la elaboración de planes y programas de trabajo de la Secretaría de Educación;
+IV. Promover la aplicación de la normatividad vigente en materia de educación para la salud, educación cívica y deportiva;
 
-VI. Programar y organizar la memoria documental de la Dirección General de Asuntos Educativos;
+V. Realizar el diagnóstico y evaluación de instituciones educativas en el Distrito Federal, para atender la problemática en materia de educación para la salud, educación cívica y deportiva;
 
-VII. Intervenir en el desarrollo y operación del Programa de Libros de Texto Gratuitos para Secundaria (sic) Públicas del D. F.;
+VI. Gestionar con las autoridades federales competentes, la viabilidad de recibir transferencias federales para la mejora y el desarrollo de la política educativa y del deporte, de conformidad con la normatividad aplicable;
 
-VIII. Supervisar, en conjunto con otras áreas involucradas del Gobierno del Distrito Federal o del Gobierno Federal, los programas y acciones que en materia educativa se realicen en el ámbito de competencia del Distrito Federal;
+VII. Desarrollar acciones que promuevan la educación para la salud y la educación cívica;
 
-IX. Establecer coordinación permanente con instituciones del sector de la Secretaría de Desarrollo Social para crear programas encaminados a garantizar los servicios educativos a la población;
+VIII. Diseñar, ejecutar y evaluar los programas y políticas que deban instrumentarse para promover la equidad en la educación, la educación para la salud y la educación cívica.
 
-X. Planear la realización de estudios educativos de acuerdo con las necesidades del Distrito Federal;
+IX. Coordinar y fungir como enlace con las delegaciones, para promover la aplicación de los programas y políticas que permitan la equidad en la educación.
 
-XI. Intervenir en la evaluación de las diferentes acciones que en materia educativa realice la Dirección; y
+X. Diseñar los anteproyectos de programas y de presupuesto que le correspondan, así como verificar su correcta y oportuna ejecución por parte de las unidades administrativas que se le adscriban;
 
-XII. Elaborar los análisis necesarios para la formulación de políticas educativas que coadyuven al cumplimiento de los objetivos planeados por la Dirección General.
+XI. Formular y desarrollar los programas de capacitación continua para el personal académico y docente de las instituciones de educación pública pertenecientes al Sistema Educativo del Distrito Federal, en el ámbito de las atribuciones de la Secretaría;
 
-> <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2007)</small>
+XII. Impulsar políticas y formular los lineamientos para la actualización, formación y superación del personal académico de las instituciones de educación pública pertenecientes al Sistema Educativo del Distrito Federal, en el ámbito de las atribuciones de la Secretaría;
 
-Artículo 119 Novenus A.- Corresponde a la Dirección General de Atención Integral al Estudiante:
+XIII. Vigilar los programas de apoyo de útiles escolares y todos aquellos programas que se establezcan para que los alumnos no abandonen sus estudios por motivos económicos;
 
-I. Planear, establecer, desarrollar, coordinar, ejecutar y evaluar las políticas públicas necesarias para atender de forma integral a los estudiantes de las escuelas públicas de nivel básico del Distrito Federal;
+XIV. Establecer las bases y lineamientos para el otorgamiento de apoyos económicos a estudiantes matriculados en instituciones que impartan educación pública a nivel básico, medio superior y superior en el Distrito Federal, con base en los programas de la Secretaría;
 
-II. Atender, orientar, canalizar y dar seguimiento a los servicios psicológicos, sociales, culturales, deportivos, pedagógicos, médicos y artísticos que el Gobierno del Distrito Federal ofrezca a los estudiantes de las escuelas públicas de nivel básico;
+XV. Definir los lineamientos que permitan el manejo y control de los programas educativos que fomenten el apoyo a los estudiantes;
 
-III. Planear, desarrollar, ejecutar, supervisar y evaluar la atención en materia de educación física que se otorga a las escuelas públicas de nivel básico del Distrito Federal;
+XVI. Proponer los mecanismos que permitan la equidad educativa y la mejoría en el desempeño académico de los estudiantes del nivel básico, medio superior y superior del Distrito Federal;
 
-IV. Establecer los mecanismos de coordinación y vinculación institucional para ofrecer servicios integrales a los estudiantes de educación de nivel básico en el Distrito Federal;
+XVII. Establecer los lineamientos generales para impulsar una mejoría en los servicios que se prestan a los estudiantes;
 
-V. Desarrollar proyectos y acciones sociales para garantizar la participación de las comunidades, padres de familia y estudiantes en el ámbito de la educación pública de nivel básico en el Distrito Federal;
+XVIII. Aprobar los proyectos educativos tendientes a la creación y extensión de los servicios para el desarrollo profesional y el fortalecimiento académico que permitan asegurar la calidad de la enseñanza;
 
-VI. Capacitar a los especialistas en los ámbitos psicológico, social, pedagógico, médico, deportivo, artístico y cultural que atenderán a los estudiantes de educación pública de nivel básico;
+XIX. Realizar acciones de coordinación y vinculación gubernamental y empresarial que permitan ofrecer mayores servicios y facilidades a los estudiantes;
 
-VII. Planear y organizar territorialmente los servicios y acciones de la Dirección General; y
+XX. Dar seguimiento a cada uno de los programas y apoyos educativos a estudiantes matriculados en instituciones públicas que impartan educación a nivel básico, medio superior y superior en el Distrito Federal;
 
-VIII. Crear mecanismos de seguimiento de los servicios que otorgue la Dirección General a través de la cartilla del estudiante y los demás que al efecto se establezcan.
+XXI. Proponer la celebración de convenios específicos de colaboración que permitan una mayor cobertura de los programas que desarrolle la Secretaría de Educación;
 
-> <small>(ADICIONADO, G.O. 31 MARZO DE 2010)</small>
+XXII. Establecer diversas acciones para disminuir la deserción escolar;
 
-Artículo 119 Nonies (sic) B.- Corresponde a la Dirección Ejecutiva Jurídica:
+XXIII. Mantener informado al Secretario de los avances y resultados obtenidos dentro de los programas que implemente;
 
-I. Dirigir y coordinar las funciones y acciones jurídicas necesarias para la defensa de los intereses de la Secretaría de Educación así como de sus unidades administrativas y unidades administrativas de apoyo-técnico operativo representándolas en juicio cuando dicha representación no se encuentre expresamente otorgada en este Reglamento a otra unidad administrativa de la Administración Pública del Distrito Federal;
+XXIV. Coordinar con los titulares de los órganos político administrativos de cada demarcación territorial, las acciones que sean necesarias para asegurar la efectiva aplicación de los programas implementados por la Secretaría;
 
-II. Velar por el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones administrativas, en el ámbito de su competencia;
+XXV. Vigilar la atención a las solicitudes realizadas por estudiantes matriculados en instituciones públicas que impartan educación a nivel básico, medio superior y superior en el Distrito Federal;
 
-III. Rendir los informes que sean solicitados a la Secretaría por las autoridades jurisdiccionales, administrativas y de derechos humanos y coordinarse con las demás unidades administrativas para la rendición de dichos informes;
+XXVI. Trabajar conjuntamente con la Coordinación General de Educación, para realizar estudios que permitan detectar en el corto, mediano y largo plazo las necesidades de formación y actualización docentes, para lograr un adecuado equilibrio entre la oferta de formación y las necesidades cuantitativas y cualitativas de la educación en el Distrito Federal;
 
-IV. Formular proyectos de los informes, previo y justificado, así como las promociones y recursos que deban interponerse en los juicios de amparo promovidos en contra el (sic) Titular de la Secretaría y los demás funcionarios públicos adscritos a la misma;
+XXVII. Actualizar en conjunto con la Coordinación General de Educación, la información sobre la educación inicial, básica, media superior y superior del Distrito Federal, con relación a la equidad educativa; y
 
-V. Coadyuvar para la substanciación de los procedimientos y recursos administrativos, presentados ante el titular de la Secretaría de Educación y/o sus Unidades Administrativas y en su caso, proponer la resolución que proceda, conforme a las disposiciones jurídicas aplicables;
+XXVIII. Las demás que le sean conferidas por sus superiores jerárquicos y/o que se atribuyan expresamente en otras las leyes y reglamentos.
 
-VI. Evaluar y dictaminar los convenios, contratos y demás actos administrativos o de cualquier otra índole, necesarios para el ejercicio de las atribuciones del titular de la Secretaría de Educación, y en su caso, de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que le estén adscritas;
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
-VII. Establecer vínculos de coordinación con instancias jurídicas de otras dependencias, órganos político administrativos y órganos desconcentrados;
+Artículo 119 Novenus D.- Corresponde a la Dirección General de Desarrollo Educativo:
 
-VIII. Estudiar los problemas generales y especiales de legislación y reglamentación que le encomiende el Titular de la Dependencia;
+I. Establecer los mecanismos necesarios para impulsar políticas que incentiven la participación de todos los jóvenes en los programas educativos;
 
-IX. Compilar la normatividad interna de la Dependencia y la jurisprudencia en las materias que sean de su competencia y difundirla entre las diversas direcciones y unidades administrativas de la misma, así como también proponer los cambios que resulten adecuados a dicha normatividad;
+II. Promover la coordinación y colaboración necesaria con los órganos político administrativos de la Administración Pública local; para realizar actividades conjuntas en relación con los programas y acciones que incentiven la equidad en la educación, la educación para la salud y la educación cívica;
 
-X. Brindar apoyo técnico jurídico y en su caso formular los proyectos de ley, reglamentos, acuerdos, manuales de organización, de procedimientos y de servicios al público y demás disposiciones normativas en competencia de la Dependencia y que deban ser suscrito o suscritos o refrendados por el Secretario de Educación;
+III. Vigilar que las políticas educativas y deportivas permitan establecer estrategias y mecanismos para el cumplimiento de los objetivos del sistema educativo del Distrito Federal, así como sus planes y programas a corto, mediano y largo plazo;
 
-XI. Asistir jurídicamente a los servidores públicos de la Secretaría en las audiencias judiciales y contencioso administrativo en que sean requeridos;
+IV. Proponer programas que incentiven el desarrollo educativo para la salud y la educación cívica;
 
-XII. Asistir y orientar jurídicamente a los servidores públicos que en el ejercicio de su empleo, cargo o comisión se vean involucrados en situaciones de carácter legal;
+V. Autorizar el modelo de evaluación de la calidad de los servicios deportivos del Distrito Federal, elaborado por el Instituto del Deporte del Distrito Federal;
 
-XIII. Asesorar a las demás unidades administrativas de la Secretaría de Educación en la interpretación y aplicación de la normativa vigente en materia educativa;
+VI. Generar condiciones que permitan una mayor equidad educativa que mejore el desempeño académico de los estudiantes que habitan en el Distrito Federal;
 
-XIV. Establecer programas de trabajo en matera jurídica, con el fin de que se realice mejor desempeño y funcionamiento de las unidades;
+VII. Definir las acciones conjuntas que podrán realizarse con los titulares de los órganos político administrativos de cada demarcación territorial, para asegurar la efectiva aplicación de los programas implementados por la Secretaría;
 
-XV. Solicitar cuando fuere necesario el apoyo de las dependencias, organismos descentralizados y órganos desconcentrados, así como el auxilio de la fuerza pública cuando fuere necesario, para hacer cumplir sus resoluciones;
+VIII. Verificar los programas de apoyo de útiles escolares y todos aquellos programas que se establezcan para que los alumnos no abandonen sus estudios por motivos económicos;
 
-XVI. Ser el enlace jurídico ante la Consejería Jurídica y de Servicios Legales para fortalecer los mecanismos de coordinación;
+IX. Proponer las bases y lineamientos para el otorgamiento de apoyos económicos a estudiantes matriculados en instituciones públicas que impartan educación a nivel básico, medio superior y superior en el Distrito Federal;
 
-XVII. Formular y promover la concertación de convenios con los sectores social y privado para la formulación y ejecución de los programas educativos, culturales y recreativos;
+X. Promover proyectos acordes a las prioridades y objetivos del Sistema Educativo del Distrito Federal para impulsar la mejora en la calidad de vida de la población estudiantil;
 
-XVIII. Llevar el registro de los acuerdos, convenios y demás actos jurídicos de los que se deriven derechos y obligaciones a cargo de la Secretaría y resguardar los documentos originales que resulten;
+XI. Implementar mecanismos de colaboración y coordinación con las autoridades delegacionales a fin de difundir entre la población estudiantil, los programas que establezca la Secretaría;
 
-XIX. Validar con su firma los títulos y grados académicos expedidos por la Secretaría, así como de aquellos cuyos programas le otorgan el reconocimiento de validez oficial de estudios;
+XII. Establecer diversas acciones que tengan por objetivo disminuir la deserción escolar;
 
-XX. Vigilar el cumplimiento de las normas de control escolar y llevar a cabo, en coordinación con las unidades administrativas correspondientes, los mecanismos necesarios para su cumplimiento;
+XIII. Promover la participación de los estudiantes en actividades en comunidad para la mejora y óptimo desempeño dentro del ámbito Educativo;
 
-XXI. Registrar los certificados emitidos por la secretaría, coordinar los sistemas de registro de la educación media superior y superior incluyendo a las gestiones que ante la Federación correspondan;
+XIV. Desarrollar y proponer lineamientos que permitan el manejo y control de los programas para la equidad educativa; y
 
-XXII. Tramitar ante la Secretaría de Educación Pública, con la Dirección General de Profesiones y demás instituciones facultadas como autoridad de carácter educativo, los registros necesarios para el reconocimiento de validez oficial de los estudios cuyo otorgamiento de certificación competan a la Secretaría de educación del Distrito Federal;
+XV. Las demás atribuciones que les sea conferidas por sus superiores jerárquicos y/o se establezcan en otros ordenamientos.
 
-XXIII. Implantar los mecanismos para mantener, controlar y actualizar el registro y seguimiento de los adultos y jóvenes no escolarizados en los programas educativos de la Secretaría de Educación, y
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
-XXIV. Las demás que les atribuyan expresamente los ordenamientos jurídicos y administrativos aplicables; las que sean conferidas por sus superiores jerárquicos y las que les correspondan a las unidades administrativas y unidades administrativas de apoyo técnico-operativo que les adscriban.
+Artículo 119 Novenus E.- Corresponde a Dirección Ejecutiva de Formación Continua y Servicios Estudiantiles:
+
+I. Realizar todas las acciones necesarias para elevar la calidad de la formación y actualización del personal docente que colabora en el Sistema Educativo del Distrito Federal;
+
+II. Proponer e incentivar la realización de cursos, talleres, seminarios, conferencias y actividades que impulsen la formación, capacitación y actualización del personal docente que colabora en el Sistema Educativo del Distrito Federal;
+
+III. Diseñar, implementar, coordinar y evaluar las acciones y programas que se desarrollen para optimizar la formación docente, su actualización y desarrollo profesional;
+
+IV. Promover a través de la capacitación docente, la instrumentación de programas que permitan estimular los procesos de aprendizaje de sus alumnos, a través de la modernización educativa y de materiales didácticos que faciliten la enseñanza;
+
+V. Supervisar que los procesos de formación, capacitación y actualización de docentes y directivos, incorporen las bases conceptuales, metodológicas y recursos pedagógicos que les permitan cumplir con eficiencia sus actividades educativas;
+
+VI. Realizar todas las acciones necesarias para atender y dar seguimiento a las solicitudes de información y de servicios al estudiante;
+
+VII. Coordinar programas de intercambio académico a nivel nacional e internacional que permitan fortalecer la colaboración interinstitucional en el Sistema Educativo del Distrito Federal;
+
+VIII. Realizar todas las acciones necesarias para fomentar la coordinación y vinculación gubernamental y empresarial que permitan ofrecer mayores servicios y facilidades a los estudiantes;
+
+IX. Impulsar proyectos, políticas y programas que se desarrollen e implementen con los padres de familia que permitan elevar y fortalecer la educación en el Distrito Federal, en materia de educación para la salud y educación cívica;
+
+X. Las demás atribuciones que les sean conferidas por sus superiores jerárquicos conforme a las funciones de la unidad a su cargo.
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+Artículo 119 Novenus F.- Corresponde a Dirección Ejecutiva de Asuntos Jurídicos:
+
+I. Dirigir y coordinar las funciones y acciones jurídicas necesarias para la defensa de los intereses de la Secretaría, así como de sus unidades administrativas;
+
+II. Representar a la Secretaría, así como a sus unidades administrativas, y a los servidores públicos que en ejercicio de sus atribuciones sean emplazados por cualquier autoridad administrativa o judicial; en toda clase de juicios, incluyendo amparo, contencioso administrativo y laborales; por lo que podrá rendir informes, contestar demandas, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, hacer promociones de trámite, autorizar delegados e incluso allanarse y/o desistirse de las demandas;
+
+III. Velar por el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas, en el ámbito de su competencia;
+
+IV. Rendir los informes que sean solicitados a la Secretaría por las autoridades jurisdiccionales, administrativas y de derechos humanos y coordinarse con las demás unidades administrativas para la rendición de dichos informes;
+
+V. Estudiar los problemas generales y especiales de legislación y reglamentación que le encomiende el Titular de la Dependencia;
+
+VI. Compilar la normatividad relacionada con las atribuciones de la Secretaría, así como la jurisprudencia en las materias que sean de su competencia y difundirla entre las unidades administrativas que la integran; así como proponer los cambios que, en su caso, sean necesarios;
+
+VII. Formular los proyectos de ley, reglamentos, acuerdos, manuales y demás disposiciones normativas que deban ser suscritos o refrendados por el Secretario;
+
+VIII. Orientar jurídicamente a los servidores públicos que en el ejercicio de su empleo, cargo o comisión se vean involucrados en situaciones de carácter legal;
+
+IX. Ser el enlace jurídico ante la Consejería Jurídica y de Servicios Legales para fortalecer los mecanismos de coordinación;
+
+X. Ser el enlace jurídico con las dependencias, órganos autónomos, órganos de gobierno, órganos político administrativos y entidades de la Administración Pública local, así como con las autoridades federales;
+
+XI. Validar, formular y promover la concertación de convenios con los sectores social, privado y gubernamental para la formulación y ejecución de los programas educativos, culturales, deportivos y recreativos en el Distrito Federal;
+
+XII. Coordinar el registro de los acuerdos, convenios y demás instrumentos jurídicos de los que se deriven derechos y obligaciones a cargo de la Secretaría y resguardar los documentos originales que resulten;
+
+XIII. Validar, formular y promover la concertación de convenios o acuerdos con las autoridades federales, en el ámbito de competencia de la Secretaría;
+
+> <small>(F. DE E., G.O. 1 DE DICIEMBRE DE 2010)</small>
+
+XIV. Interpretar las leyes y disposiciones en las materias competencia de la Secretaría de Educación;
+
+XV. Expedir copias certificadas de los documentos que obren en sus archivos sobre asuntos de su competencia, y de aquellos que expidan en el ejercicio de sus funciones, los servidores públicos que les estén subordinados;
+
+XVI. Validar con su firma los títulos y grados académicos expedidos por la Secretaría, así como de aquellos cuyos programas le otorgan el reconocimiento de validez oficial de estudios; autenticar las constancias, certificados, títulos, diplomas o grados que se expidan por las instituciones educativas incorporadas;
+
+XVII. Vigilar el cumplimiento de la normatividad aplicable y llevar a cabo, en coordinación con las unidades administrativas correspondientes, los mecanismos necesarios para su cumplimiento;
+
+XVIII. Registrar los certificados emitidos por la Secretaría, y coordinar las gestiones que ante la Federación correspondan;
+
+XIX. Tramitar ante la Secretaría de Educación Pública, la Dirección General de Profesiones y demás instituciones facultadas como autoridad de carácter educativo, los registros necesarios para el reconocimiento de validez oficial de los estudios cuyo otorgamiento de certificación competan a la Secretaría;
+
+XX. Diseñar y desarrollar el Sistema de Acreditación y Certificación, para unificar criterios que permitan promover una administración escolar eficiente que apoye la labor educativa con base en la participación de los involucrados en los procesos de control escolar;
+
+XXI. Coordinar y regular los servicios de incorporación, revalidación y equivalencia de estudios en el Distrito Federal;
+
+XXII. Otorgar validez a los estudios realizados dentro del Sistema Educativo de la Secretaría de Educación del Distrito Federal, mediante la expedición de certificados parciales y totales, constancias, diplomas o títulos;
+
+XXIII. Revalidar y otorgar equivalencias de estudios, distintos de los mencionados en la fracción V del artículo 13 de la Ley General de Educación, de conformidad con los lineamientos generales que la autoridad educativa federal expida;
+
+XXIV. Emitir e interpretar las normas en materia de reconocimiento de validez oficial de estudios, así como brindar asesoría en el cumplimiento de éstas;
+
+XXV. Identificar las escuelas particulares que funcionen con autorización o reconocimiento de validez oficial de estudios otorgados por la Secretaría;
+
+XXVI. Asignar las claves de identificación de los documentos de certificación y formatos de apoyo que se utilizan en el sistema de control escolar, de los servicios que norme la Secretaría de Educación del Distrito Federal, para optimizar sus controles de uso;
+
+XXVII. Representar a la Secretaría ante las autoridades competentes en materia de acceso a la información pública y protección a los datos personales;
+
+XXVIII. Atender y desahogar todos los requerimientos que en materia de transparencia y acceso a la información pública y protección a los datos personales se realicen a la dependencia, incluyendo la presentación de informes, la atención de las solicitudes de información y de los recursos de revisión;
+
+XXIX. Coordinar a las unidades administrativas de la dependencia para que den cumplimiento a la normatividad aplicable en materia de transparencia y acceso a la información pública; atiendan puntualmente las solicitudes de información; fomenten la cultura de la transparencia; e informen a la ciudadanía respecto de las acciones que se realizan;
+
+XXX. Desarrollar e implementar acciones y políticas que fortalezcan la cultura de la transparencia y el acceso a la información pública;
+
+XXXI. Las demás atribuciones conferidas por sus superiores jerárquicos conforme las funciones de la unidad a su cargo.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -14011,3 +14137,9 @@ TERCERO.- Con excepción de la nueva adscripción prevista en el presente decret
 CUARTO.- Los recursos humanos, materiales, técnicos y financieros de la Dirección General de Comunicación Social y de la Autoridad del Centro Histórico que por virtud del presente decreto se readscriben, serán transferidas en los términos y condiciones que establezcan las disposiciones administrativas aplicables.
 
 QUINTO. La Jefatura de la Oficina de la Jefatura de Gobierno, la Secretaría de Gobierno y la Oficialía Mayor, deberán actualizar sus Manuales Administrativos en los plazos y condiciones que establezca la normativa vigente.
+
+G.O. 1 DE SEPTIEMBRE DE 2010.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. - El presente Decreto entrará en vigor el día de su publicación.
