@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-de-educacion-media-superior-440
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-03-23"
-last_updated: "2008-04-07"
+last_updated: "2010-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44032&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2005-03-18"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACION MEDIA SUPERIOR DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE SEPTIEMBRE DE 2010.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el miércoles 23 de marzo de 2005.
 
@@ -590,7 +590,13 @@ La educación media superior que imparta el Instituto, se realizará en los plan
 
 Cada plantel será administrado por un Subdirector de Coordinación de Plantel, el cual podrá ser nombrado o removido por el Consejo de Gobierno, a propuesta del Director General; para su designación, en primera instancia se considerará al personal académico del Instituto.
 
-Un Subdirector de Coordinación de Plantel permanecerá en su cargo un máximo de cuatro años y, en razón tanto de su desempeño como de los resultados obtenidos, podrá ser nuevamente nombrado, por única vez, con el mismo cargo, por un período igual, pero en un plantel distinto. Una vez concluida su gestión, si así fuera el caso, el Subdirector de Coordinación de Plantel podrá incorporarse a la función de docente-tutor-investigador.
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+Un Subdirector de Coordinación de Plantel permanecerá en su cargo un máximo de cuatro años y, en razón tanto de su desempeño como de los resultados obtenidos, podrá ser nuevamente nombrado, por única vez, con el mismo cargo, por un periodo igual, pero en un plantel distinto. Los Subdirectores de Coordinación de Plantel, una vez que dejen dicho encargo podrán ocupar de inmediato una plaza de Docente Tutor Investigador.
+
+> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+En cuanto a los servidores públicos del área central del Instituto, una vez que dejen de estar en función, y que hubiesen desempeñado en algún momento el cargo de Subdirector de Coordinación de Plantel, podrán ocupar de manera inmediata una plaza de Docente Tutor Investigador.
 
 ###### Artículo 30.
 
@@ -624,7 +630,15 @@ XIII. Formular y someter a consideración de la Dirección General del Instituto
 
 XIV. Presentar a la Dirección General del Instituto y al Consejo Interno, un informe semestral sobre el desempeño de las actividades del plantel, de conformidad con la normatividad aplicable;
 
-XV. Las demás que le asigne la Dirección General y le confiera este Estatuto Orgánico, la normatividad interna del Instituto y las Reglas Internas del plantel.
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+XV.- Coordinar y supervisar las actividades académicas que desarrollen los docentes en el plantel a su cargo, así como solicitarles los informes respectivos;
+
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+XVI.- Coordinar y supervisar las actividades administrativas del plantel a su cargo; y
+
+XVII. Las demás que le asigne la Dirección General y le confiera este Estatuto Orgánico, la normatividad interna del Instituto y las Reglas Internas del plantel.
 
 ### CAPÍTULO NOVENO. DE LOS PLANTELES
 
@@ -755,3 +769,9 @@ G.O. 7 DE ABRIL DE 2008.
 PRIMERO.- Publíquese la presente reforma en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 1 DE SEPTIEMBRE DE 2010.
+
+Primero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal, mismas que fueron aprobadas por el Consejo de Gobierno del Instituto de Educación Media Superior del Distrito Federal en su Segunda Sesión Ordinaria de 2010.
+
+Segundo.- La designación que se haga, en términos de la reforma al artículo 29 del Estatuto Orgánico, de los Subdirectores de Coordinación de Plantel y de los servidores públicos del área central como Docentes Tutores Investigadores, se llevará a través del procedimiento que para tal efecto establezca el Instituto, previa aprobación que del mismo haga el Consejo de Gobierno.
