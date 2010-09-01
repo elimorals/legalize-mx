@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-gobierno-y-administracion-del-ayuntamiento-de-730
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-10"
-last_updated: "2010-02-10"
+last_updated: "2010-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO DE GOBIERNO Y ADMINISTRACION DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 10 de febrero de 2010.
 
@@ -233,11 +233,15 @@ I.- Dirección de Patrimonio Municipal;
 
 II.- Coordinación General de la Sindicatura;
 
-III.- El Juzgado Cívico;
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
-IV.- Coordinación Administrativa, y
+III.- El Juzgado de Paz;
 
-V.- Coordinación General de Ingresos y Coordinaciones de Ingresos, que se encontrarán en cada una de las dependencias de la administración pública municipal, mismas que dependerán administrativamente de la Sindicatura y presupuestalmente, de la dependencia a la que están adscritas, para dar debido cumplimiento a lo dispuesto en el artículo 45 fracción VIII de la Ley Orgánica Municipal del Estado de Morelos.
+IV.- El Juzgado Cívico;
+
+V.- Coordinación Administrativa, y
+
+VI.- Coordinación General de Ingresos y Coordinaciones de Ingresos, que se encontrarán en cada una de las dependencias de la administración pública municipal, mismas que dependerán administrativamente de la Sindicatura y presupuestalmente, de la dependencia a la que están adscritas, para dar debido cumplimiento a lo dispuesto en el artículo 45 fracción VIII de la Ley Orgánica Municipal del Estado de Morelos.
 
 Asimismo, por conducto de los Jueces Cívicos, el Síndico coordinará, supervisará, y vigilará la aplicación de las sanciones que por infracciones al Bando de Policía y Gobierno del Municipio de Cuernavaca, Morelos, cometan los ciudadanos.
 
@@ -657,9 +661,33 @@ Los integrantes del Ayuntamiento vigilarán que los acuerdos del Cabildo se cump
 
 Las dependencias municipales por conducto de los servidores públicos, están obligados a proporcionar la información que les sea requerida por el Síndico Municipal o los regidores, sea de manera individual o a través de las comisiones, con excepción de aquella a que la ley considere de uso reservado.
 
-### CAPÍTULO V. DE LAS COMISIONES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPÍTULO VI. DEL PROCEDIMIENTO DE REGLAMENTACIÓN MUNICIPAL
+### CAPÍTULO IV BIS. ASUNTOS GENERALES
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+Artículo 85 bis.- En el punto de la orden día relativo a los asuntos generales, el Presidente Municipal, podrá conceder el uso de la palabra a los integrantes del Ayuntamiento. Para tal efecto, solicitará manifiesten su intención de participar con el objeto de que el Secretario los inscriba y una vez cerrado el registro, no podrá otorgarse el uso de la palabra a edil alguno, salvo a lo establecido en el artículo 85 bis 2.
+
+Una vez cerrado el registro, el Secretario del Ayuntamiento dará cuenta al Presidente con los ediles inscritos y éstos harán uso de la palabra en el orden establecido.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+Artículo 85 bis 1.- Los integrantes del Ayuntamiento, podrán exponer libremente el tema a tratar, su intervención será máximo de diez minutos en una primera ronda, de tres minutos la segunda y dos minutos la tercera. Si el caso amerita la intervención, resolución y/o dictamen de alguna Comisión o dependencia del Ayuntamiento, ésta será turnada a la o a las áreas que correspondan de acuerdo a su competencia, lo anterior con la salvedad establecida en la parte final del párrafo segundo del artículo 99 del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+Artículo 85 bis 2.- El Presidente Municipal podrá intervenir o cederles el uso de la palabra al Síndico Municipal o a los Regidores para rectificación de hechos o para responder alusiones personales hasta por tres ocasiones; en su intervención deberá precisar el hecho a rectificar o la alusión a contestar y no excederá de 5 minutos la primera intervención y de tres y dos minutos las dos posteriores respectivamente.
+
+En ningún caso el orador podrá apartarse del tema para el cual solicitó la palabra o excederse del tiempo establecido.
+
+Por ningún motivo podrán hacerse diálogos personales entre los integrantes del Cabildo mientras estén haciendo uso de la palabra.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+Artículo 85 bis 3.- Para efectos del presente Reglamento, se entiende por alusión personal en el Cabildo, la mención del orador o de su nombre.
+
+### CAPÍTULO V. DE LAS COMISIONES
 
 ###### Artículo 86.
 
@@ -721,7 +749,7 @@ Las Comisiones permanentes sesionarán cuando menos una vez cada treinta días p
 
 Los miembros de las Comisiones no tendrán ninguna retribución extraordinaria por el desempeño de las mismas.
 
-### CAPÍTULO I. DE LAS AUTORIDADES AUXILIARES
+### CAPÍTULO VI. DEL PROCEDIMIENTO DE REGLAMENTACIÓN MUNICIPAL
 
 ###### Artículo 97.
 
@@ -761,7 +789,7 @@ Cuando un reglamento fuere aprobado o en su caso reformado, el Secretario del Ay
 
 ## TÍTULO TERCERO. DE LAS AUTORIDADES AUXILIARES Y DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
 
-### CAPÍTULO II. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
+### CAPÍTULO I. DE LAS AUTORIDADES AUXILIARES
 
 ###### Artículo 104.
 
@@ -831,7 +859,7 @@ VI.- Otorgar constancias de posesión, y
 
 VII.- Hacer lo que no esté previsto en este Reglamento y en otros ordenamientos municipales.
 
-### CAPÍTULO I. DE LA ORGANIZACIÓN ADMINISTRATIVA
+### CAPÍTULO II. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
 
 ###### Artículo 112.
 
@@ -871,7 +899,7 @@ X.- Las demás que señalen los reglamentos.
 
 ## TÍTULO CUARTO. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
-### CAPÍTULO II. DE LA SECRETARÍA DEL AYUNTAMIENTO
+### CAPÍTULO I. DE LA ORGANIZACIÓN ADMINISTRATIVA
 
 ###### Artículo 116.
 
@@ -905,7 +933,7 @@ VII.- Secretaría de Turismo y Fomento Económico;
 
 VIII.- Secretaría de Desarrollo Social;
 
-IX.- Secretaría Coordinadora de Organismos Descentralizados y Desconcentrados;
+IX.- (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2010)
 
 X.- Consejería Jurídica;
 
@@ -983,7 +1011,7 @@ II.- Diseñar y mantener actualizados los Manuales de Organización y Procedimie
 
 III.- Acordar con el Presidente Municipal, la resolución de los asuntos cuya tramitación lo requiera;
 
-IV. -Informar mensualmente al Presidente Municipal y al Regidor titular de la Comisión que corresponda, de las actividades desarrolladas por la dependencia o entidad a su cargo;
+IV.- Informar mensualmente al Presidente Municipal y al Regidor titular de la Comisión que corresponda, de las actividades desarrolladas por la dependencia o entidad a su cargo;
 
 V.- Elaborar y proponer al Presidente Municipal y al Regidor titular de la Comisión que corresponda, los anteproyectos de programas anuales de actividades;
 
@@ -1021,13 +1049,19 @@ XXI.- Autorizar los Manuales de Organización y Procedimientos, así como los Pr
 
 XXII.- Certificar los documentos originales que obren en los archivos de la Dependencia a su cargo, y
 
-XXIII.- Las demás que les señalen otras disposiciones legales, el Presidente Municipal y el Cabildo.
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+XXIII.- Habilitar en días y horas hábiles o inhábiles mediante orden escrita, a los servidores públicos municipales a efecto de que lleven a cabo actos administrativos competencia del Ayuntamiento; y
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+XXIV.- Las demás que le señalen otras disposiciones legales, el Presidente Municipal y el Cabildo.
 
 ###### Artículo 126.
 
 El Presidente Municipal resolverá cualquier controversia que surgiere sobre la competencia de las dependencias y entidades municipales.
 
-### CAPÍTULO III. DE LA TESORERÍA MUNICIPAL
+### CAPÍTULO II. DE LA SECRETARÍA DEL AYUNTAMIENTO
 
 ###### Artículo 127.
 
@@ -1125,9 +1159,15 @@ g).- Coordinación de Delegaciones; y
 
 h).- Delegaciones.
 
-III.- Coordinación Administrativa
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPÍTULO IV. DE LA CONTRALORÍA MUNICIPAL
+III.- Coordinación General Jurídica;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- Coordinación administrativa.
+
+### CAPÍTULO III. DE LA TESORERÍA MUNICIPAL
 
 ###### Artículo 129.
 
@@ -1203,11 +1243,17 @@ XXXIV.- Establecer mecanismos para el pago electrónico de los impuestos, derech
 
 XXXV.- Conformar y administrar los fondos específicos que la legislación aplicable disponga;
 
-XXXVI.- Instrumentar los elementos metodológicos que propicien la participación organizada de la ciudadanía y sistematicen la ejecución de sus respectivas funciones de planeación y control de la evaluación;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
-XXXVII.- Coordinar el diseño y funcionamiento del sistema municipal de planeación democrática y participativa;
+XXXVI.- Diseñar e instrumentar los elementos metodológicos de la planeación estratégica que propicien la participación organizada de la población y sistematicen la ejecución de las funciones de planeación, programación, seguimiento y evaluación de la gestión Pública Municipal;
 
-XXXVIII.- Elaborar, integrar, capacitar y asesorar la participación de las dependencias del Ayuntamiento, en la elaboración, del Plan Municipal de Desarrollo, Programa Operativo Anual, indicadores del desempeño e informes de gobierno; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+XXXVII.- Coordinar el diseño y funcionamiento del sistema municipal de planeación democrática y del Comité de Planeación para el Desarrollo Municipal de Cuernavaca (COPLADEMUN), con la participación de las dependencias, entidades municipales y de los sectores social y privado;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+XXXVIII.- Conducir la integración y elaboración del Plan Municipal de Desarrollo que este establezca, los Programas Operativos Anuales, el Sistema de evaluación del desempeño Municipal, a través de indicadores de resultados y los informes de gobierno, así como brindar capacitación y asesoría en materia de planeación, programación, seguimiento y evaluación de las dependencias y entidades del ayuntamiento, y
 
 XXXIX.- Las demás que le asignen la Ley Orgánica Municipal del Estado de Morelos, la Ley General de Hacienda Municipal, el Código Fiscal del Estado de Morelos y reglamentos en vigor.
 
@@ -1225,13 +1271,15 @@ c).- Dirección General de Impuesto Predial y Catastro;
 
 d).- Dirección General de Fuentes Alternas de Financiamiento; y
 
-e).- Dirección de Programación, Evaluación y Sistemas.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+e).- Dirección General de Planeación y Evaluación.
 
 II).- Coordinación General Administrativa.
 
 De la Coordinación General Administrativa dependerán las coordinaciones administrativas que se encontrarán en cada una de las dependencias de la administración pública municipal, mismas que dependerán funcionalmente de la Tesorería y presupuestalmente, de la dependencia a la que estén adscritas.
 
-### CAPÍTULO V. DE LA SECRETARÍA DE PROTECCIÓN Y AUXILIO CIUDADANO
+### CAPÍTULO IV. DE LA CONTRALORÍA MUNICIPAL
 
 ###### Artículo 131.
 
@@ -1291,7 +1339,7 @@ Además, la Contraloría se apoyará y contará con Contralores Internos en cada
 
 Los titulares de las dependencias, unidades administrativas y entidades de la administración pública municipal deberán rendir a la Contraloría Municipal los informes que ésta les requiera en el ejercicio de sus atribuciones, asimismo, deberán informar a la Contraloría Municipal del trámite que se haya dado a las recomendaciones que les formule con el objeto de eficientar la administración pública municipal.
 
-### CAPÍTULO VI. DE LA OFICIALÍA MAYOR
+### CAPÍTULO V. DE LA SECRETARÍA DE PROTECCIÓN Y AUXILIO CIUDADANO
 
 ###### Artículo 135.
 
@@ -1357,7 +1405,9 @@ XXVI.- Autorizar y ordenar la instalación de módulos de vigilancia permanente 
 
 XXVII.- Conocer y resolver los recursos de inconformidad promovidos, con motivo de las infracciones al Reglamento de Tránsito para el Municipio de Cuernavaca, Morelos;
 
-XXVIII.- Emitir el dictamen de impacto vial, con motivo de las solicitudes realizadas por los ciudadanos o agrupaciones del transporte público;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+XXVIII.- Emitir el dictamen de impacto vial, con motivo de las solicitudes realizadas por los ciudadanos o agrupaciones del transporte público, así como otorgar la autorización de uso de vía pública para sitios de taxis y estacionamiento temporal de vehículos particulares; previa solicitud en la que se anexen los documentos requeridos por la Secretaría y la normatividad de la materia, así como el pago de los derechos correspondientes a la Tesorería Municipal;
 
 XXIX.- Promover la implementación de sistemas de circuito cerrado u otros mecanismos tecnológicos que permitan prevenir el delito;
 
@@ -1393,9 +1443,7 @@ d).- Dirección General de Policía Preventiva;
 
 e).- Dirección General del Centro Operativo;
 
-f).- Dirección General de Participación Ciudadana:
-
-1.- Coordinación de Comités Ciudadanos.
+f).- (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2010)
 
 g).- Dirección de Supervisión;
 
@@ -1409,7 +1457,7 @@ IV.- Dirección General Jurídica;
 
 V.- Unidad de Asuntos Internos;
 
-VI.- Coordinación de Comunicación Social; y
+VI.- (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2010)
 
 VII.- Secretaría Particular.
 
@@ -1419,7 +1467,7 @@ Las unidades administrativas de la Secretaría, ejercerán sus atribuciones de c
 
 El Secretario Ejecutivo del Consejo Municipal de Seguridad Pública, en términos de lo dispuesto por el artículo 23 de la Ley del Sistema de Seguridad Pública del Estado de Morelos, será designado y dependerá directa e inmediatamente del Presidente Municipal, tendrá autonomía técnica y de gestión para alcanzar los objetivos establecidos en dicha ley y contará con los elementos humanos, materiales y financieros necesarios para el cumplimiento de sus atribuciones.
 
-### CAPÍTULO VII. DE LA SECRETARÍA DE DESARROLLO URBANO, OBRAS Y SERVICIOS PÚBLICOS MUNICIPALES Y MEDIO AMBIENTE
+### CAPÍTULO VI. DE LA OFICIALÍA MAYOR
 
 ###### Artículo 139.
 
@@ -1491,7 +1539,7 @@ VII.- Coordinación Ejecutiva; y
 
 VIII.- Coordinación Administrativa.
 
-### CAPÍTULO VIII. DE LA SECRETARÍA DE TURISMO Y FOMENTO ECONÓMICO
+### CAPÍTULO VII. DE LA SECRETARÍA DE DESARROLLO URBANO, OBRAS Y SERVICIOS PÚBLICOS MUNICIPALES Y MEDIO AMBIENTE
 
 ###### Artículo 142.
 
@@ -1507,7 +1555,9 @@ II.- Expedir, previo acuerdo del Ayuntamiento, la política de desarrollo urbano
 
 III.- Proponer y coordinar el cumplimiento y aplicación de las disposiciones legales en materia de construcción, programas de desarrollo urbano y asentamientos humanos, así como todos aquellos que establezcan los Planes Nacional, Estatal y Municipal de Desarrollo;
 
-IV.- Otorgar licencias de uso del suelo, licencias de construcción, autorización para la fusión de predios o su división, fraccionamientos y régimen de condominios así como las demás licencias y dictámenes que la normatividad señale que son de su competencia; previa solicitud en la que se anexen los documentos requeridos por la Secretaría y la normatividad de la materia, así como el pago de los derechos correspondientes a la Tesorería Municipal;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- Otorgar licencias de uso del suelo, licencias de construcción, autorización para la fusión de predio o subdivisión, fraccionamientos y régimen de condominios, dictámenes técnicos de colocación de anuncios o imagen urbana, autorización por uso de vía pública, por invasión de construcción aérea terrestre o subterránea, así como las demás licencias, dictámenes o autorizaciones que la normatividad señale que son de su competencia; previa solicitud en la que se anexen los documentos requeridos por la Secretaría y la normatividad de la materia, así como el pago de los derechos correspondientes a la Tesorería Municipal;
 
 V.- Suscribir los documentos relativos al ejercicio de sus facultades, así como aquellos que le sean señalados por delegación o le correspondan emitir de conformidad con las normas aplicables;
 
@@ -1607,7 +1657,9 @@ a).- Dirección de Servicios Urbanos;
 
 b).- Dirección de Parques, Plazas y Jardines;
 
-c).- Dirección del Parque Alameda Solidaridad;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+c).- Dirección del Parque Alameda Luis Donaldo Colosio Murrieta;
 
 d).- Dirección del Rastro Municipal;
 
@@ -1633,9 +1685,11 @@ a).- Dirección de Atención Ciudadana.
 
 VI.- Coordinación Administrativa.
 
-La Dirección del Parque Alameda Solidaridad, se sujetará a lo dispuesto en el Reglamento para la Administración del Parque Alameda de la Solidaridad de Cuernavaca.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPÍTULO IX. DE LA SECRETARÍA DE DESARROLLO SOCIAL
+La Dirección del Parque Alameda Luis Donaldo Colosio Murrieta, se sujetará a lo dispuesto en el Reglamento para la Administración del Parque Alameda Luis Donaldo Colosio Murrieta.
+
+### CAPÍTULO VIII. DE LA SECRETARÍA DE TURISMO Y FOMENTO ECONÓMICO
 
 ###### Artículo 145.
 
@@ -1675,7 +1729,11 @@ XIV.- Generar y mantener una infraestructura eficiente en la administración de 
 
 XV.- Vigilar la ejecución del Programa de Desarrollo Económico Municipal; y
 
-XVI.- Las demás que expresamente le señale el Ayuntamiento y otras disposiciones legales o reglamentos vigentes.
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+XVI.- Expedir las licencias por comercio en vía pública y/o por ocupación de banquetas en zonas permitidas, así como las demás licencias, dictámenes o autorizaciones que la normatividad señale que son de su competencia; previa solicitud en la que se anexen los documentos requeridos por la Secretaría y la normatividad de la materia, así como el pago de los derechos correspondientes a la Tesorería Municipal;
+
+XVII.- Las demás que expresamente le señale el Ayuntamiento y otras disposiciones legales o reglamentos vigentes.
 
 ###### Artículo 147.
 
@@ -1703,7 +1761,7 @@ e).- Dirección de Mercados.
 
 III.- Coordinación Administrativa.
 
-### CAPÍTULO X. DE LA SECRETARÍA COORDINADORA DE ORGANISMOS DESCENTRALIZADOS Y DESCONCENTRADOS
+### CAPÍTULO IX. DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
 ###### Artículo 148.
 
@@ -1741,7 +1799,9 @@ XIII.- Formular, recibir y canalizar propuestas, sugerencias e inquietudes, dise
 
 XIV.- Divulgar información relativa a los temas y problemáticas de la juventud;
 
-XV.- Intervenir en auxilio o coordinación de las autoridades federales, en los términos de las leyes relativas, para atender a las asociaciones religiosas;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+XV.- Formular, fomentar, coordinar y ejecutar las políticas, programas, proyectos y acciones que promuevan el deporte en todas sus modalidades, así como llevar el registro de las organizaciones o asociaciones deportivas del municipio;
 
 XVI.- Difundir los servicios y beneficios que otorga esta Secretaría en todas las delegaciones, colonias y poblados del Municipio de Cuernavaca;
 
@@ -1781,71 +1841,25 @@ h).- Dirección de la Mujer, y
 
 i).- Dirección de Cultura y Actividades Artísticas.
 
-II.- Coordinación Administrativa.
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPÍTULO XI. DE LA CONSEJERÍA JURÍDICA
+II.- Coordinación General de Desarrollo Social;
+
+III.- Coordinación Administrativa.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPÍTULO X
 
 ###### Artículo 151.
 
-La Secretaría Coordinadora de Organismos Descentralizados y Desconcentrados es la dependencia encargada de la coordinación, enlace y vinculación institucional entre estos y el Presidente Municipal, así como la responsable de generar nuevos proyectos para la creación de órganos desconcentrados o descentralizados municipales, empresas de participación municipal mayoritaria y fideicomisos públicos que formen parte de la Administración Pública Paramunicipal, derivadas de empréstitos y de contratos de colaboración público privada.
-
-Los organismos públicos descentralizados y demás entes de la administración paramunicipal, estarán sectorizados a la Secretaría Coordinadora de Organismos Descentralizados y Desconcentrados.
-
-La representación de la Secretaría Coordinadora de Organismos Descentralizados y Desconcentrados, así como el trámite y resolución de los asuntos de su competencia, corresponden originalmente al titular de la dependencia, quien para la mejor organización del trabajo podrá delegar sus facultades en sus subalternos, conservando la facultad de su ejercicio directo, para lo cual tendrá las siguientes atribuciones y deberes:
-
-I.- Tener a su cargo el cuidado y dirección inmediatos de la oficina;
-
-II.- Coordinar y ser el enlace con el Presidente Municipal, respecto a los programas, actividades y servicios que presten a la población del Municipio de Cuernavaca, los organismos descentralizados o desconcentrados y demás entes que formen parte de la Administración Pública Paramunicipal;
-
-III.- Formar parte integrante de las juntas u órganos de gobierno de cada uno de los organismos descentralizados o desconcentrados del Municipio y de los demás entes que formen parte de la Administración Pública Paramunicipal, con derecho de voz y voto;
-
-IV.- Elaborar los proyectos para la creación de nuevos órganos desconcentrados o descentralizados municipales, empresas de participación municipal mayoritaria y fideicomisos públicos que formen parte de la Administración Pública Paramunicipal, derivadas de empréstitos y de contratos de colaboración público privada;
-
-V.- Dar seguimiento a los acuerdos, resoluciones y demás determinaciones que emita el Presidente Municipal, destinadas al cumplimiento por parte de los organismos descentralizados y desconcentrados de la administración municipal;
-
-VI.- Apoyar en la integración de la agenda de actividades y la temática de las reuniones a desarrollar por el Presidente Municipal con los organismos descentralizados y desconcentrados;
-
-VII.- Gestionar la obtención de recursos financieros adicionales para los organismos descentralizados y desconcentrados del Municipio de Cuernavaca, ante las diversas instancias de Gobierno y de participación privada;
-
-VIII.- Auxiliar al Presidente Municipal en el desarrollo de las actividades que le correspondan en el ámbito de los organismos descentralizados y desconcentrados del Municipio;
-
-IX.- Contribuir al fortalecimiento de la vinculación entre el Ayuntamiento y sus organismos descentralizados y desconcentrados;
-
-X.- Desempeñar las comisiones y funciones que le confiera el Presidente Municipal;
-
-XI.- Fijar, dirigir y controlar la política de la dependencia, así como lo correspondiente a las unidades administrativas que la integran;
-
-XII.- Autorizar los Manuales de Organización y Procedimientos de la Dependencia;
-
-XIII.- Expedir copias certificadas de los documentos que obren en los archivos de la Secretaría, en los términos expuestos por la reglamentación y disposiciones jurídicas aplicables;
-
-XIV.- Delegar atribuciones a los titulares de las unidades administrativas a su cargo;
-
-XV.- Suscribir todos los acuerdos, circulares u oficios, en los que se fijen los lineamientos y normas que deberá adoptar el personal de la Secretaría para el adecuado funcionamiento de la misma;
-
-XVI.- Ejercer las facultades derivadas de los convenios que sobre la materia de su competencia, celebre el Ayuntamiento o sus órganos descentralizados con la Federación, el Estado, otros Ayuntamientos y con particulares;
-
-XVII.- Asesorar al Presidente Municipal en la elaboración y programación de convenios con particulares, con la federación, los poderes del Estado y los Ayuntamientos, en el ámbito de su competencia;
-
-XVIII.- Informar de sus funciones al Regidor del ramo periódicamente;
-
-XIX.- Las demás que le señalen las disposiciones jurídicas del Ayuntamiento, el Cabildo o que le delegue el Presidente Municipal por mandato específico.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 152.
 
-Para el despacho de los asuntos de su competencia, la Secretaría Coordinadora de Organismos Descentralizados y Desconcentrados se auxiliará de las siguientes unidades administrativas y las que se señalen en su reglamento interior, mismas que estarán bajo su mando y vigilancia:
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2010)
 
-I.- Coordinación de Enlace con el DIF;
-
-II.- Coordinación de Enlace con el SAPAC;
-
-III.- Coordinación de Enlace con Inhumaciones Jardines de la Paz;
-
-IV.- Coordinación de Proyectos y Planeación;
-
-V.- Coordinación Administrativa.
-
-### CAPÍTULO XII. DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL E IMAGEN
+### CAPÍTULO XI. DE LA CONSEJERÍA JURÍDICA
 
 ###### Artículo 153.
 
@@ -1865,7 +1879,7 @@ b)- Dirección de Consulta, Análisis y Asuntos Administrativos;
 
 III.- Coordinación de los Asesores Jurídicos:
 
-a).- Dirección Jurídica adscrita a la Secretaría de Protección y Auxilio Ciudadano;
+a).- (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2010)
 
 b).- Asesorías jurídicas, que se adscribirán a cada una de las dependencias de la administración pública municipal, mismas que dependerán administrativa y jerárquicamente de la Consejería Jurídica y presupuestalmente de la dependencia a la que estén adscritas, y
 
@@ -1943,7 +1957,7 @@ XXXII.- Rendir a la sindicatura informe mensual de la gestión de los asuntos en
 
 XXXIII.- Las demás que le atribuyan expresamente las leyes, reglamentos, o le sean asignadas por el Cabildo o el Presidente Municipal.
 
-### CAPÍTULO XIII. DEL CRONISTA MUNICIPAL
+### CAPÍTULO XII. DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL E IMAGEN
 
 ###### Artículo 155.
 
@@ -1973,7 +1987,7 @@ La Coordinación General de Comunicación Social e Imagen, para el mejor desempe
 
 I.- Dirección de Comunicación Social.
 
-### CAPÍTULO XIV. DE LAS OFICIALÍAS DEL REGISTRO CIVIL
+### CAPÍTULO XIII. DEL CRONISTA MUNICIPAL
 
 ###### Artículo 158.
 
@@ -1989,9 +2003,7 @@ I.- Fomentar un índice de los vecinos del Municipio que se hayan distinguido en
 
 II.- Integrar los datos biográficos de las personas cuyos nombres hayan sido designados a calles, plazas y obras, que en su oportunidad se divulguen.
 
-### CAPÍTULO XV. DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS Y DESCONCENTRADOS
-
-A) DEL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE CUERNAVACA
+### CAPÍTULO XIV. DE LAS OFICIALÍAS DEL REGISTRO CIVIL
 
 ###### Artículo 160.
 
@@ -2033,7 +2045,9 @@ El Presidente Municipal delegará a la Secretaría del Ayuntamiento, la facultad
 
 Los Oficiales del Registro Civil establecerán los lineamientos y mecanismos necesarios para la coordinación y distribución del trabajo.
 
-### CAPÍTULO XVI. DE LA COMUNICACIÓN INTERNA Y MEDIOS ELECTRÓNICOS
+### CAPÍTULO XV. DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS Y DESCONCENTRADOS
+
+A) DEL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE CUERNAVACA
 
 ###### Artículo 164.
 
@@ -2055,9 +2069,13 @@ Para el desarrollo de sus actividades, el Sistema Municipal para el Desarrollo I
 
 C) ORGANISMO DESCONCENTRADO INHUMACIONES JARDINES DE LA PAZ DE CUERNAVACA
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 167.
 
-El Organismo Desconcentrado de la Administración Pública Municipal denominado Inhumaciones Jardines de la Paz Cuernavaca, se sujetará a lo dispuesto por el acuerdo que lo creó y por las demás disposiciones legales aplicables; estará sectorizado a la Secretaría de Desarrollo Urbano, Obras y Servicios Públicos Municipales y Medio Ambiente y deberá de coordinar sus actividades con la Secretaría Coordinadora de Organismos Descentralizados y Desconcentrados.
+El Organismo Desconcentrado de la Administración Pública Municipal denominado Inhumaciones Jardines de la Paz Cuernavaca, así como los demás organismos desconcentrados, descentralizados y empresas paraestatales, se sujetarán y sectorizarán a lo dispuesto por el acuerdo que los crea y por las demás disposiciones legales aplicables.
+
+### CAPÍTULO XVI. DE LA COMUNICACIÓN INTERNA Y MEDIOS ELECTRÓNICOS
 
 ###### Artículo 168.
 
@@ -2126,3 +2144,13 @@ SECRETARIO DEL AYUNTAMIENTO
 MANUEL RODRIGO GAYOSSO CEPEDA
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos, así como en la Gaceta Municipal.
+
+SEGUNDO.- En un término no mayor a sesenta días naturales, se deberá adecuar la normatividad que sufre alguna modificación con las presentes reformas.
+
+TERCERO- Publíquese en el Periódico Oficial "Tierra y Libertad" del Gobierno del Estado de Morelos.
