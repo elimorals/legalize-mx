@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-los-servicios-de-vialidad-transito-1326
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-03"
-last_updated: "2009-06-20"
+last_updated: "2010-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 3 de diciembre de 1998.
 
@@ -265,6 +265,14 @@ VI.- Modificación y ampliación de itinerarios y rutas urbanas y suburbanas del
 VII.- Las condiciones de la circulación en áreas específicas en cuanto a sentidos de circulación, accesos controlados o selectivos; y
 
 VIII.- La instalación, autorización o retiro de topes, vibradores, boyas o señalamientos viales.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 8 Bis.
+
+La Secretaría emitirá y publicará en el periódico oficial "El Estado de Jalisco”, los protocolos de aplicación de las pruebas de alcoholemia, de los cursos en materia de sensibilización, concientización y prevención de accidentes viales por causa de la ingesta de alcohol o el influjo de estupefacientes o psicotrópicos; y del registro de personas sancionadas por la conducción de vehículos, en los términos previstos en los artículos 168 Bis y 170 de la Ley.
+
+De igual forma, en caso de modificaciones a dichos protocolos, éstas deberán ser publicadas en el periódico oficial "El Estado de Jalisco".
 
 ### CAPÍTULO III. DE LA COORDINACIÓN CON OTRAS AUTORIDADES
 
@@ -1622,9 +1630,15 @@ Cualquier cambio en las condiciones de propiedad o posesión del automotor deber
 
 Las sanciones y medidas de seguridad que prevé la Ley, deberán ser aplicadas, en su caso, por los agentes viales bajo un criterio de imparcialidad y responsabilidad, evitando siempre cualquier acto que pueda constituirse en un abuso de autoridad.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 150.
 
 El procedimiento para aplicar una medida de seguridad se llevará a cabo cumpliendo con lo previsto por los artículos 156, 157, 158 y 159 de la Ley.
+
+Para los efectos de la fracción VI del artículo 158 de la Ley, el conductor sancionado podrá designar en el momento en que es impuesta la infracción, a otra persona que se encuentre en el lugar, para que lo auxilie siempre que esta última no se encuentre en estado de ebriedad o bajo los efectos de estupefacientes o psicotrópicos y cuente con licencia para conducir.
+
+En caso de designarse otro conductor, el policía vial en unión de perito o elemento adscrito del área jurídica, elaborarán el acta correspondiente que será firmada por el conductor y la persona debidamente identificada que auxiliará al infractor.
 
 ###### Artículo 151.
 
@@ -1654,9 +1668,15 @@ En el caso del conductor que habiendo cometido alguna de las infracciones previs
 
 Cuando el agente vial presuma que el conductor se encuentre bajo la influencia de bebidas alcohólicas, estupefacientes, enervantes, psicotrópicos o cualquier sustancia tóxica que altere o disminuya su capacidad para conducir, procederá a solicitar el auxilio del laboratorio móvil, el que una vez en el lugar procederá a obtener la toma correspondiente para su análisis y dictamen.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 155.
 
-En aquellos casos en que por sus circunstancias particulares proceda el arresto, se le informará al infractor el motivo del mismo, las disposiciones legales y reglamentarias que lo contemplan, a disposición de qué autoridad se encuentra y el lugar donde lo cumplirá sin estar incomunicado. A continuación será remitido de inmediato a las instalaciones correspondientes de la policía preventiva más cercana, con el oficio que indique la solicitud para que se proceda al arresto administrativo, su duración, a disposición de qué autoridad se encuentra, la indicación de que no sea depositado con detenidos por delito doloso y la obligación de informar a la Secretaría el cumplimiento de la orden de arresto.
+En aquellos casos en que por sus circunstancias particulares proceda el arresto, se le informará al infractor el motivo del mismo, las disposiciones legales y reglamentarias que lo contemplan, a disposición de qué autoridad se encuentra y el lugar donde lo cumplirá sin estar incomunicado.
+
+A continuación será remitido de inmediato a las instalaciones correspondientes del municipio donde resida el infractor, con el oficio que indique la solicitud para que se proceda al arresto administrativo, su duración, a disposición de qué autoridad se encuentra, la indicación de que no sea depositado con detenidos por delito doloso y la obligación de informar a la Secretaría el cumplimiento de la orden de arresto.
+
+En caso de que el infractor tenga su domicilio en otra entidad federativa o municipio diverso fuera de la zona conurbada, será remitido a las instalaciones de previsión social más cercanas donde se ejecutará el arresto administrativo, en los términos que se señalan en el presente artículo.
 
 ###### Artículo 156.
 
@@ -1680,23 +1700,35 @@ II.- Conducir un vehículo con exceso de velocidad en más de veinte kilómetros
 
 III.- Conducir en sentido contrario o invadir el carril de circulación en sentido inverso en vialidades primarias;
 
-IV.- Conducir un vehículo de motor en estado de ebriedad o bajo el efecto de estupefacientes o psicotrópicos. Para los efectos de la presente fracción deberá entenderse:
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2010)</small>
 
-a) Por ebriedad la cantidad de alcohol en la sangre que excede de: 0.6 (cero punto seis) gramos por litro.
-
-b) Por estupefacientes y psicotrópicos los señalados en la Ley General de Salud; y
+IV.- Conducir un vehículo de motor en estado de ebriedad o bajo el efecto de estupefacientes o psicotrópicos en los términos establecidos en el artículo 168 Bis de la Ley;
 
 V.- En el caso de los conductores de las unidades de transporte público de pasajeros, tomar o dejar pasaje en otro carril que no sea el de su extrema derecha;
 
 VI.- Cometer cualquier infracción a la Ley o su Reglamento, si previamente el titular de la licencia de conducir, había sido suspendido temporal o definitivamente para la conducción de vehículos de motor, por resolución administrativa o jurisdiccional que haya causado ejecutoria.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 160.
 
-La Secretaría organizará un registro de las infracciones para los fines a que diera lugar en los casos de reincidencia.
+El Registro Estatal integrará un expediente de registro, control y resguardo de la documentación que acredite la concurrencia de las infracciones cometidas a la ley, para los fines a que diera lugar en los casos de reincidencia.
+
+Para efectos de los artículos 168 Bis último párrafo y 170 párrafo tercero de la Ley, integrará el registro de personas sancionadas por la conducción de vehículos bajo los efectos de alcohol o bajo el influjo de estupefacientes o psicotrópicos según lo dispuesto en dichos numerales.
+
+Dicho registro sólo podrá ser consultado para constatar la reincidencia del conductor; y para los demás casos la información será considerada confidencial en los términos de la Ley en materia de transparencia.
 
 ###### Artículo 161.
 
 Todas las sanciones que no hayan sido pagadas en el término de treinta días naturales posteriores a la fecha de su notificación, serán remitidas a la autoridad fiscal competente para su ejecución mediante el procedimiento coactivo de cobro.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 161 Bis.
+
+El infractor reincidente en conducir un vehículo de motor en estado de ebriedad o bajo el efecto de estupefacientes o psicotrópicos, deberá acudir dentro de los cinco días hábiles siguientes a la imposición de la infracción, ante la Secretaría para la programación del curso en materia de sensibilización, concientización y prevención de accidentes viales; por lo que el término previsto en el artículo 180 de la Ley, correrá a partir del día hábil siguiente a aquel que fije dicha autoridad para cumplir con el citado curso.
+
+Una vez concluido y acreditado el curso por parte del infractor, la Secretaría emitirá la constancia de participación, previo el pago de derechos correspondientes.
 
 ###### Artículo 162.
 
@@ -1871,3 +1903,11 @@ P.O. 10 DE MARZO DE 2009.
 P.O. 20 DE JUNIO DE 2009.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE SEPTIEMBRE DE 2010.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día 6 de septiembre de 2010, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Los protocolos a que se refiere el artículo 8 Bis del presente Reglamento deberán ser publicados a más tardar el 4 de septiembre del año en curso.
+
+TERCERO. El pago de derechos a que hace referencia el artículo 161 Bis del presente Reglamento serán obligatorios a partir del ejercicio fiscal 2011 y una vez incluido en la Ley de Ingresos correspondiente.
