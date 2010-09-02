@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2010-07-02"
+last_updated: "2010-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -790,11 +790,19 @@ La información relativa a los proyectos de conservación y recuperación de esp
 
 ### CAPÍTULO II. HÁBITAT CRÍTICO PARA LA CONSERVACIÓN DE LA VIDA SILVESTRE
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 63.
 
-La conservación del hábitat natural de la vida silvestre es de utilidad pública.
+La conservación del hábitat natural de la vida silvestre es de interés público.
 
-La Secretaría, previa opinión del Consejo, podrá declarar la existencia de hábitats críticos para la conservación de la vida silvestre, cuando se trate de:
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 2 DE SEPTIEMBRE DE 2010)</small>
+
+Los hábitats críticos para la conservación de la vida silvestre son áreas específicas terrestres o acuáticas, en las que ocurren procesos biológicos, físicos y químicos esenciales, ya sea para la supervivencia de especies en categoría de riesgo, ya sea para una especie, o para una de sus poblaciones, y que por tanto requieren manejo y protección especial. Son áreas que regularmente son utilizadas para alimentación, depredación, forrajeo, descanso, crianza o reproducción, o rutas de migración.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE SEPTIEMBRE DE 2010)</small>
+
+La Secretaría podrá establecer, mediante acuerdo Secretarial, hábitats críticos para la conservación de la vida silvestre, cuando se trate de:
 
 a) Áreas específicas dentro de la superficie en la cual se distribuya una especie o población en riesgo al momento de ser listada, en las cuales se desarrollen procesos biológicos esenciales para su conservación.
 
@@ -802,9 +810,15 @@ b) Áreas específicas que debido a los procesos de deterioro han disminuido dr�
 
 c) Áreas específicas en las que existe un ecosistema en riesgo de desaparecer, si siguen actuando los factores que lo han llevado a reducir su superficie histórica.
 
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 2010)</small>
+
+d) Áreas específicas en las que se desarrollen procesos biológicos esenciales, y existan especies sensibles a riesgos específicos, como cierto tipo de contaminación, ya sea física, química o acústica, o riesgo de colisiones con vehículos terrestres o acuáticos, que puedan llevar a afectar las poblaciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 64.
 
-La Secretaría acordará con los propietarios o legítimos poseedores de predios en los que existan hábitats críticos, medidas especiales de manejo y conservación.
+La Secretaría acordará con los propietarios o legítimos poseedores de predios en los que existan hábitats críticos, medidas especiales de manejo, mitigación de impactos y conservación.
 
 La realización de cualquier obra pública o privada, así como de aquellas actividades que puedan afectar la protección, recuperación y restablecimiento de los elementos naturales en los hábitats críticos, deberá quedar sujeta a las condiciones que se establezcan como medidas especiales de manejo y conservación en los planes de manejo de que se trate, así como del informe preventivo correspondiente, de conformidad con lo establecido en el reglamento.
 
@@ -1519,3 +1533,13 @@ D.O.F. 2 DE JULIO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Federal deberá hacer las modificaciones pertinentes en el Reglamento de la Ley General de Vida Silvestre en un plazo no mayor de 180 días naturales a partir de la publicación de este Decreto.
