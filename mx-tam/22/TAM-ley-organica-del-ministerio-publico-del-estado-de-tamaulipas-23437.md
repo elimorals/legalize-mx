@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-ministerio-publico-del-estado-de-tamaulipas-23
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-30"
-last_updated: "2008-06-10"
+last_updated: "2010-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 2 DE SEPTIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 30 de enero de 2002.
 
@@ -850,3 +852,39 @@ P.O. 10 DE JUNIO DE 2008.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Decreto número 667 de la Quincuagésima Séptima Legislatura de (sic) Congreso Constitucional del Estado Libre y Soberano de Tamaulipas, publicado en el Periódico Oficial del Estado el 30 de enero del año 2002, por el cual se expidió la Ley Orgánica del Ministerio Público del Estado de Tamaulipas.
+
+###### ARTICULO TERCERO.
+
+El Reglamento de la Ley del Servicio Profesional de Carrera y de la Policía Investigadora, deberán ser expedidos dentro de los siguientes 6 meses a la entrada en vigor de la Ley.
+
+###### ARTICULO CUARTO.
+
+En tanto se expide la reglamentación correspondiente, se continuará aplicando el Reglamento de la Ley Orgánica del Ministerio Público del Estado, publicado en el anexo al Periódico Oficial No. 118, del 30 de septiembre de 2004, en aquellas disposiciones que no se opongan al contenido del presente ordenamiento.
+
+###### ARTICULO QUINTO.
+
+Los procedimientos de responsabilidad administrativa que se encuentren en trámite ante la Coordinación de Asuntos Internos, continuarán hasta su conclusión, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTICULO SEXTO.
+
+Los Agentes del Ministerio Público, de la Policía Ministerial y los Peritos que a la fecha de entrada en vigor de la presente Ley se encuentren en activo en la Procuraduría General de Justicia del Estado de Tamaulipas, se someterán a las disposiciones para la permanencia relativas al servicio de carrera respectivo, en los plazos establecidos por la Ley General del Sistema Nacional de Seguridad Pública y contarán con un plazo de 60 días naturales contados a partir de la entrada en vigor de la misma, para manifestar su voluntad de someterse al proceso de evaluación de control de confianza o, en su caso, de adherirse al programa de terminación de la prestación de servicios del Gobierno del Estado. Quienes aprueben el proceso de evaluación en los términos de la normatividad aplicable, podrán permanecer en la Procuraduría General de Justicia del Estado en el servicio de carrera, los no aprobados serán separados en definitiva del servicio en la Procuraduría General de Justicia del Estado.
+
+###### ARTICULO SEPTIMO.
+
+Los nombramientos de Agentes del Ministerio Público, Policías Ministeriales y Peritos, mantendrán su vigencia dentro del período de dos años o hasta que el servidor público sea sometido a los procesos de evaluación y control de confianza y se acredite el cumplimiento de los requisitos de permanencia en la Procuraduría General de Justicia del Estado de Tamaulipas.
+
+Las atribuciones de la Policía Ministerial permanecerán vigentes dentro del plazo de los dos años contados a partir de la entrada en vigor de la presente ley.
+
+###### ARTICULO OCTAVO.
+
+Aprobado por el interesado el proceso de evaluación y control de confianza y cumplidos los requisitos de permanencia, se le expedirá nuevo nombramiento e ingresará formalmente al Servicio Profesional de Carrera de la Procuraduría General de Justicia del Estado de Tamaulipas.
