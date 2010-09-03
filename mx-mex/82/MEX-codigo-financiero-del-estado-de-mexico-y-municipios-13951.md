@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2010-05-12"
+last_updated: "2010-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -249,6 +249,26 @@ XLI. Establecimiento principal. El lugar en el que se realicen actividades de ad
 
 XLII. Sucursal. Otros establecimientos distintos del principal, con actividades similares, que generen obligaciones fiscales.
 
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XLIII. Documento digital. Al mensaje de datos o documento electrónico en los términos de la Ley para el Uso de Medios Electrónicos del Estado de México.
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XLIV. Firma Electrónica. A la firma electrónica avanzada en los términos de la Ley para el Uso de Medios Electrónicos del Estado de México.
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XLV. Ley de Medios Electrónicos. A la Ley para el Uso de Medios Electrónicos del Estado de México.
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XLVI. Sello digital. Al sello electrónico en los términos de la Ley para el Uso de Medios Electrónicos del Estado de México.
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XLVII. SEITS. Al Sistema Electrónico de Información, Trámites y Servicios, en los términos de la Ley para el Uso de Medios Electrónicos del Estado de México.
+
 Cuando en este ordenamiento se señale al Estado y municipios o sus dependencias y entidades públicas, se entenderá que cada una actúa de acuerdo con su competencia.
 
 ###### Artículo 4.
@@ -397,25 +417,23 @@ III. En el supuesto que se haya omitido la presentación de dos o más declaraci
 
 El pago o garantía de los créditos fiscales determinados conforme al presente artículo, no libera a los obligados a presentar la declaración o declaraciones omitidas, ni limita las facultades de comprobación de las autoridades fiscales.
 
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 20-A.
 
-Cuando las disposiciones fiscales obliguen a presentar documentos éstos deberán ser digitales y contener una firma electrónica avanzada del autor, salvo los casos que establezcan una regla diferente. Las autoridades fiscales, mediante reglas de carácter general podrán autorizar el uso de otras firmas electrónicas.
+Cuando las disposiciones fiscales obliguen a presentar documentos, éstos deberán ser digitales y contener una firma electrónica del autor, en los términos de la Ley de Medios Electrónicos, salvo los casos que establezcan una regla diferente. Las autoridades fiscales, mediante reglas de carácter general podrán autorizar el uso de otras firmas electrónicas.
 
-Para los efectos mencionados en el párrafo anterior, se deberá contar con un certificado que confirme el vínculo entre un firmante y los datos de creación de una firma electrónica avanzada, expedido por la Dirección General de Recaudación.
+> <small>(DEROGADO SEGUNDO PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO TERCER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-En los documentos digitales una firma electrónica avanzada amparada por un certificado vigente sustituirá a la firma autógrafa del firmante, garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa teniendo el mismo valor probatorio.
+> <small>(DEROGADO CUARTO PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-Se entiende por documento digital todo mensaje de datos que contiene información y escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología.
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 Cuando los contribuyentes remitan un documento digital a las autoridades fiscales, recibirán acuse de recibo que contenga el sello digital.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-El sello digital es el mensaje electrónico que acredita que un documento digital fue recibido por la autoridad correspondiente y estará sujeto a la misma regulación aplicable al uso de una firma electrónica avanzada. En este caso, el sello digital identificará a la dependencia que recibió el documento y se presumirá, salvo prueba en contrario que el documento digital fue recibido en la hora y fecha que se consigne en el acuse de recibo mencionado. Las autoridades fiscales establecerán los medios para que los contribuyentes puedan verificar la autenticidad de los acuses de recibo con sello digital.
+> <small>(DEROGADO SEXTO PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -495,17 +513,13 @@ F). Cuando se señale domicilio inexistente o falso.
 
 Las notificaciones por estrados se harán fijando durante quince días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del decimosexto día siguiente a aquél en que se hubiera fijado el documento.
 
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 22 Bis.
 
-Las notificaciones de los actos previstos en este Código, se realizarán de forma personal, por edictos y/o por correo certificado de acuerdo en el procedimiento establecido en el Capítulo Tercero del Código de Procedimientos Administrativos del Estado de México; y de acuerdo a lo previsto en este Código, las relativas a estrados y correo electrónico.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-En el caso de notificaciones por correo electrónico, cuando la autoridad transmita un documento digital, a una dirección o portal electrónico manifestado por el contribuyente, se tendrá como fecha de notificación la que corresponda al acuse de recibo que se obtenga del destinatario en forma automática, que se formalizará al abrir el documento digital enviado, y surtirá efectos a partir del día hábil siguiente a este evento.
+Las notificaciones de los actos previstos en este Código, se realizarán de forma personal, por edictos y/o por correo certificado de acuerdo al procedimiento establecido en el Capítulo Tercero del Código de Procedimientos Administrativos del Estado de México; de acuerdo a lo previsto en este Código, las relativas a estrados; y de acuerdo a lo previsto en la Ley de Medios Electrónicos, cuando las gestiones asociadas a dichos actos se hayan realizado por conducto del SEITS.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -559,21 +573,33 @@ La determinación de los créditos fiscales corresponde a los contribuyentes, sa
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 26.
 
-Los créditos fiscales se pagarán en efectivo, cheque de caja o certificado, cheques personales, transferencias de fondos a través de medios bancarios o electrónicos, tarjetas de crédito o débito y en especie vía dación en pago.
+Los créditos fiscales se pagarán en efectivo, cheque de caja o certificado, cheques personales, transferencias de fondos a través de medios bancarios, de medios electrónicos por conducto del SEITS en los términos de la Ley de Medios Electrónicos y su Reglamento, tarjetas de crédito o débito y en especie vía dación en pago.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 El pago con cheques personales, las transferencias de fondos a través de medios bancarios o electrónicos, tarjetas de crédito o débito y en especie vía dación en pago, únicamente se aceptarán cuando así lo apruebe la autoridad fiscal. Las transferencias de fondos a través de medios electrónicos, deberán ser autorizadas previamente por la autoridad fiscal.
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 El pago con cheque se recibirá salvo buen cobro. Previa autorización de la autoridad fiscal, se aceptarán también cheques sin certificar distintos de la cuenta personal del contribuyente para el pago de créditos fiscales.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 El cheque recibido por la autoridad fiscal por concepto de pago de un crédito fiscal, deberá ser presentado al librado dentro de los quince días siguientes al de su fecha y en caso de que no sea pagado dará lugar a que la autoridad recaudadora proceda conjuntamente al cobro del monto del cheque; al de una indemnización que será del 20% del valor de éste, a la actualización y demás accesorios causados por el falso pago.
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 En caso de que el contribuyente realice el pago antes del cobro que practique la autoridad fiscal competente, éste se aplicará conforme al orden señalado en el artículo 34 de este Código, sin que dicho acto lo libere del pago de la indemnización correspondiente, la actualización y demás accesorios que se hubieren causado.
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 Quien pague créditos fiscales recibirá de la oficina recaudadora el recibo oficial o la forma prellenada, en los que conste la impresión original de la máquina registradora, y cuando se carezca de ella, deberá constar el sello de la oficina recaudadora y el nombre y firma del cajero o del servidor público autorizado. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito o establecimientos mercantiles autorizados, bastará con que el comprobante de pago contenga la fecha en que se realizó el mismo, el importe que ampara y la línea de captura, la cual deberá ser consistente con los datos que se plasmen en la declaración o formato respectivo.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 En el pago de créditos fiscales a través de transferencia de fondos, se considerará como recibo oficial del pago, el documento impreso por el contribuyente, emitido por el sistema de cobranza automatizado reconocido por la autoridad fiscal, en el que conste el número de referencia que se asigne a la operación autorizada.
 
@@ -1451,7 +1477,7 @@ D). Cédula de Identificación Fiscal o Constancia de Inscripción al Registro F
 
 E). Comprobante del domicilio que señale dentro del territorio del Estado con fecha de expedición no mayor a dos meses.
 
-F) Constancia emitida por colegios profesionales o asociaciones de contadores públicos reconocidos y autorizados por la Secretaría de Educación Pública en la que acredite su calidad de miembro activo en alguna de dichas agrupaciones cuando menos en los últimos tres años previos a la presentación de la solicitud de autorización para formular dictamen.
+F). Constancia emitida por colegios profesionales o asociaciones de contadores públicos reconocidos y autorizados por la Secretaría de Educación Pública en la que acredite su calidad de miembro activo en alguna de dichas agrupaciones cuando menos en los últimos tres años previos a la presentación de la solicitud de autorización para formular dictamen.
 
 G). Constancia de cumplimiento de la norma de educación profesional continua o de actualización académica relativa al año previo al de la solicitud de autorización para formular dictamen, expedida por colegios profesionales o asociaciones de contadores públicos reconocidos y autorizados por la Secretaría de Educación Pública.
 
@@ -1463,11 +1489,9 @@ El Contador Público que sea autorizado para formular dictamen, deberá manifest
 
 Asimismo, el Contador Público autorizado deberá comprobar ante la autoridad fiscal competente dentro de los tres primeros meses de cada año, que continúa siendo miembro activo de un colegio profesional o asociación que estén reconocidos y autorizados por la Secretaría de Educación Pública y que cumplió con la norma de educación profesional continua o con su actualización académica, presentando las constancias pertinentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-El registro otorgado para formular dictamen, se dará de baja del padrón de profesionistas autorizados que tengan las autoridades fiscales cuando el Contador Público en cuestión no formule dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal en un periodo de tres años continuos, notificándosele este hecho mediante correo electrónico al colegio profesional o asociación de contadores públicos y, en su caso, a la federación de colegios profesionales a la que pertenezca. En estos casos, el Contador Público podrá solicitar a la autoridad fiscal competente que quede sin efectos dicha baja, manifestando los motivos que tenga para ello durante los 15 días siguientes a la fecha en que surta efectos la notificación correspondiente.
+El registro otorgado para formular dictamen, se dará de baja del padrón de profesionistas autorizados que tengan las autoridades fiscales cuando el Contador Público en cuestión no formule dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal en un periodo de tres años continuos, notificándosele este hecho por estrados, o por medio del SEITS si los interesados están autorizados para ello en los términos de la Ley de Medios Electrónicos, al colegio profesional o asociación de contadores públicos y, en su caso, a la federación de colegios profesionales a la que pertenezca. En estos casos, el Contador Público podrá solicitar a la autoridad fiscal competente que quede sin efectos dicha baja, manifestando los motivos que tenga para ello durante los 15 días hábiles siguientes a la fecha en que surta efectos la notificación correspondiente.
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -3533,11 +3557,11 @@ el que se realiza por vía correo electrónico, por cada uno. $48
 
 Por la autorización definitiva de escrituras que contengan diversos contratos o actos, los derechos se fijarán en su totalidad por cada uno de los actos o contratos principales, y en una mitad por los accesorios o complementarios.
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS [N. DE E. REPUBLICADO], G.G. 1 DE ENERO DE 2010)
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 89.
 
-Los notarios públicos deberán efectuar el pago de los derechos correspondientes, conforme a lo establecido en esta subsección, directamente y bajo su responsabilidad ante las instituciones bancarias, utilizando los formatos autorizados para tal efecto por el Instituto de la Función Registral del Estado de México. Al presentar para su inscripción el testimonio respectivo, agregarán al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad verificará y calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
+Los notarios públicos deberán, efectuar el pago de los derechos correspondientes conforme a lo establecido en esta subsección, directamente y bajo su responsabilidad ante las instituciones bancarias o por conducto del SEITS en los términos de la Ley de Medios Electrónicos y su Reglamento, utilizando los formatos autorizados para tal efecto por el Instituto de la Función Registral. Al presentar para su inscripción el testimonio respectivo, agregarán al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
 
 SUBSECCION QUINTA
 
@@ -12529,11 +12553,9 @@ C). Se cancelará definitivamente su registro para formular dictamen, revocándo
 
 El cómputo de lo dispuesto en el numeral 1, de los incisos A) y B) de la fracción III de ese artículo, se hará por cada actuación del Contador Público, independientemente del contribuyente al que se refieran.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-En caso de suspensión temporal o cancelación definitiva de registro a que se refieren los incisos B) y C) de la fracción III de este artículo, la autoridad fiscal competente dará aviso mediante correo electrónico al colegio profesional o asociación de contadores públicos y, en su caso, a la Federación de Colegios Profesionales a la que pertenezca el Contador Público en cuestión, sin perjuicio de la sanción que corresponda.
+En caso de suspensión temporal o cancelación definitiva de registro a que se refieren los incisos B) y C) de la fracción III de este artículo, la autoridad fiscal competente dará aviso por estrados, o por medio del SEITS si los interesados están autorizados para ello en los términos de la Ley para el Uso de Medios Electrónicos del Estado de México, al colegio profesional o asociación de contadores públicos y, en su caso, a la Federación de Colegios Profesionales a la que pertenezca el Contador Público en cuestión, sin perjuicio de la sanción que corresponda.
 
 ###### Artículo 363.
 
@@ -13143,19 +13165,17 @@ II. En el caso de embargo precautorio, cuando los créditos se hagan exigibles y
 
 III. Cuando el embargado no proponga comprador dentro del plazo a que se refiere la fracción I del artículo 429 de este Código.
 
-> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 408.
 
-Salvo los casos que este Código autoriza, toda venta se hará en subasta pública que se celebrará en el local de la oficina ejecutora.
+Salvo los casos que este Código autoriza, toda venta se hará en subasta pública que se celebrará por conducto del SEITS, en los términos de la Ley de Medios Electrónicos y su Reglamento.
+
+> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 La autoridad fiscal podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o fracciones o en piezas sueltas, con el objeto de obtener un mayor rendimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-La autoridad fiscal podrá llevar a cabo el remate de los bienes a través de medios electrónicos.
+> <small>(DEROGADO TERCER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -13237,11 +13257,9 @@ Al escrito en que se haga la postura se acompañará necesariamente un depósito
 
 El importe del depósito que se constituya de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de las obligaciones que contraiga el postor por la adjudicación que se les haga de los bienes rematados. Inmediatamente después de fincado el remate, previa orden de la oficina ejecutora, se devolverán los cheques certificados o billetes de depósito a los postores, excepto el que corresponda al postor a cuyo favor se finque el remate, cuyo depósito continuará como garantía del cumplimiento de su obligación, y en su caso, como parte del precio de venta. Tratándose de la devolución de los billetes de depósito, la autoridad ejecutora como parte integrante del Gobierno del Estado de México o del municipio según corresponda, tendrá la facultad de endosarlo a favor del postor, para que éste lo pueda cobrar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-En el supuesto de que el remate se efectúe a través de medios electrónicos, las posturas podrán enviarse en documento digital a la dirección electrónica que se señale en la convocatoria para el remate. La autoridad enviará los mensajes que confirmen la recepción de las posturas al correo electrónico que el postor señale en su postura. Dichos mensajes tendrán las características que se establezcan en la convocatoria de remate. Para participar en una subasta será necesario que el postor, antes de enviar su postura, realice el depósito de cuando menos el 20% a que se refiere el párrafo anterior, el cual podrá realizar por vía electrónica.
+En el supuesto de que el remate se efectúe por conducto del SEITS, las posturas deberán enviarse en documento digital en los términos que señale la convocatoria para el remate, debiendo la autoridad informar a los postores, por el mismo conducto, sobre la recepción de las posturas. Dichos mensajes tendrán las características que se establezcan en la convocatoria de remate. Para participar en una subasta será necesario que el postor, antes de enviar su postura, realice el depósito de cuando menos el 20% a que se refiere el párrafo anterior, el cual podrá realizar por vía electrónica, en los términos de la Ley de Medios Electrónicos y su Reglamento.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -13249,7 +13267,7 @@ En el supuesto de que el remate se efectúe a través de medios electrónicos, l
 
 Cuando el postor en cuyo favor se hubiere fincado un remate no cumpla con las obligaciones que contraiga y las que este Código le señala, perderá el importe del depósito que hubiere constituido y éste se aplicará de plano, por la oficina ejecutora, a favor del erario público. En este caso se convocará nuevamente a remate en la forma y plazos que se señalan en el artículo 411 del presente ordenamiento. El plazo de treinta días a que (sic) refiere el primer párrafo del artículo aludido, correrá a partir del día siguiente del último día en que el postor debió haber efectuado el pago a que refieren los artículos 419 y 420 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 417.
 
@@ -13267,17 +13285,15 @@ II. Las cantidades que se ofrezcan; y
 
 III. Los que atendiendo al caso concreto, se señalen en la convocatoria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+Si la subasta o el remate se realizan por conducto del SEITS, las posturas deberán firmarse electrónicamente en los términos de la Ley de Medios Electrónicos y su Reglamento, el documento digital en el que se presente la postura deberá contener los siguientes datos:
 
-En el caso de que el remate se efectúe a través de medios electrónicos y en el supuesto de que la postura se presente a través de documento digital, este deberá contener los siguientes datos:
-
-I. Cuando se trate de personas físicas, el nombre, la nacionalidad y el domicilio del postor y, en su caso, la clave del registro federal de contribuyentes; tratándose de personas jurídico colectivas, el nombre o razón social, la fecha de constitución, la clave del Registro Federal de Contribuyentes y el domicilio.
+1. Mención de la Clave Única de Trámites y Servicios, en los términos de la Ley de Medios Electrónicos, de la persona física o de la jurídica colectiva que presente la postura y, en su caso, la clave de su Registro Federal de Contribuyentes.
 
 2. La cantidad que se ofrezca en precio cierto y determinado.
 
-3. La dirección de correo electrónico y el domicilio para oír y recibir notificaciones.
+3. (DEROGADO, G.G. 3 DE SEPTIEMBRE DE 2010)
 
 4. El monto y número de la transferencia electrónica de fondos que haya realizado.
 
@@ -13295,19 +13311,15 @@ El día y hora señalados en la convocatoria, el jefe de la oficina ejecutora, d
 
 Si en la última postura se ofrece igual suma de contado, por dos o más postores y dicha suma sea la postura más alta, se aceptará la primera postura que se hubiera recibido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-En el caso de que el remate se efectúe a través de medios electrónicos, la autoridad especificará en la página electrónica de subastas, el periodo correspondiente a cada remate, el registro de los postores y las posturas que se reciban, así como la fecha y hora de su recepción.
+Cuando el remate se efectúe por conducto del SEITS, la autoridad especificará en el apartado respectivo, el periodo correspondiente a cada remate, el registro de los postores y las posturas que se reciban, así como la fecha y hora de su recepción.
 
 Los deudores garantizarán en efectivo cada puja.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-La subasta a través de medios electrónicos tendrá una duración de 8 días que empezará a partir de las 12:00 horas del primer día y concluirá a las 12:00 horas del octavo día. En dicho periodo los postores presentarán sus posturas y podrán mejorar las propuestas.
+La subasta a través del SEITS tendrá una duración de 8 días que empezará a partir de las 12:00 horas del primer día y concluirá a las 12:00 horas del octavo día. En dicho periodo los postores presentarán sus posturas y podrán mejorar las propuestas.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -13321,19 +13333,15 @@ Si dentro de los veinte minutos previos al vencimiento del plazo de remate se re
 
 Se fincará el remate a favor de quien haya hecho la mejor postura. Cuando existan varios postores que hayan ofrecido una suma igual y dicha suma sea la postura más alta, se aceptará la primera postura de éstas que se haya recibido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+Una vez fincado el remate se comunicará el resultado del mismo por conducto del SEITS a los postores que hubieren participado en él, remitiendo el acta que al efecto se levante.
 
-Una vez fincado el remate se comunicará el resultado del mismo a través de medios electrónicos a los postores que hubieren participado en él, remitiendo el acta que al efecto se levante.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 419.
 
-Fincado el remate de bienes muebles se aplicará el depósito constituido y el postor, dentro de los tres días siguientes a la fecha del remate, enterará en la caja de la oficina ejecutora, el saldo de la cantidad de contado ofrecida en su postura, o mejoras, y constituirá las garantías a que se hubiere obligado por la parte del precio que quedare adeudado. En el caso de que el remate se haya llevado a través de medios electrónicos, el pago se podrá hacer mediante pago electrónico.
+Fincado el remate de bienes muebles se aplicará el depósito constituido y el postor, dentro de los tres días siguientes a la fecha del remate, enterará en la caja de la oficina ejecutora, el saldo de la cantidad de contado ofrecida en su postura, o mejoras, y constituirá las garantías a que se hubiere obligado por la parte del precio que quedare adeudado. Cuando el remate se haya realizado por conducto del SEITS, el pago se podrá hacer mediante pago electrónico.
 
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -13347,13 +13355,11 @@ Con las facturas o documentación comprobatoria correspondiente, la oficina ejec
 
 Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición, en caso de no hacerlo, se causarán derechos por el almacenaje a partir del día siguiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 420.
 
-Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro de los 10 días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora, institución bancaria o caja habilitada, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras. En el caso de que el remate se haya llevado a través de medios electrónicos, el pago se podrá hacer en las modalidades que establezcan las autoridades fiscales.
+Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro de los 10 días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora, institución bancaria o caja habilitada, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras. Cuando el remate se haya llevado por conducto del SEITS, el pago se podrá hacer en las modalidades que establezcan las autoridades fiscales.
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -14140,3 +14146,11 @@ SEXTO.- En caso de que se modifique posteriormente la Ley que Crea el Organismo 
 SÉPTIMO.- En caso de que el patrimonio que sea afectado por el Instituto de la Función Registral del Estado de México al fideicomiso que se constituya de conformidad con el presente Decreto se revierta por cualquier motivo al patrimonio del Estado o sea asignado o reincorporado a otra entidad de la administración pública centralizada o de la administración pública paraestatal que sustituya al Instituto de la Función Registral del Estado de México, los derechos y las obligaciones que se deriven de los convenios, contratos, afectaciones, transmisiones y financiamientos celebrados por el Instituto de la Función Registral del Estado de México o bien, por el fiduciario del fideicomiso a que se refiere el presente Decreto, con respecto a dicho patrimonio y el fideicomiso, subsistirán en sus términos hasta en tanto se liquiden o sean cumplidas las obligaciones adquiridas con ese respecto. En este sentido, los acreedores del fideicomiso al cual se hubiere afectado una parte o la totalidad de los ingresos del Instituto de la Función Registral del Estado de México, seguirán teniendo el derecho a recibir el pago de las obligaciones que corresponda, de conformidad con los contratos que al efecto se hubieren celebrado, como si dicha reversión, asignación o reincorporación no hubiere tenido lugar.
 
 OCTAVO.- El Instituto de la Función Registral del Estado de México, deberá presentar a la Legislatura, por conducto de las Comisiones Legislativas de Planeación y Gasto Público, y de Finanzas Públicas, en un plazo que no excederá de treinta días hábiles, contados a partir de la entrada en vigor del presente decreto, un informe de las metas e indicadores de desempeño del programa de modernización del Instituto de la Función Registral del Estado de México, para los próximos tres años.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto, entrará en vigor una vez que se encuentren en servicio el SEITS y el Registro Único de Personas Acreditadas del Estado de México, en términos del artículo Segundo Transitorio del Decreto por el que se expide la Ley para el Uso de Medio Electrónicos del Estado de México.
+
+TERCERO.- Hasta en tanto se actualice lo dispuesto por el artículo anterior, continuarán aplicándose las disposiciones vigentes en el Código Financiero del Estado de México y Municipios.
