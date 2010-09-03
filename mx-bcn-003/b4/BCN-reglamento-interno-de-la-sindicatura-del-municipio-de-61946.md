@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-sindicatura-del-municipio-de-61946"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-27"
-last_updated: "2010-06-04"
+last_updated: "2010-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SINDICATURA DEL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 27 de junio de 2008. (REPUBLICADO EN EL P.O. 7 DE NOVIEMBRE DE 2008).
 
@@ -229,7 +229,7 @@ IX.- Llevar un padrón de servidores públicos inhabilitados por la Sindicatura,
 
 X.- Remitir al Congreso del Estado copia de las resoluciones emitidas sobre las responsabilidades administrativas y sanciones que resulten como consecuencia de los dictámenes recaídos a las Cuentas Públicas de los Servidores Públicos responsables de las mismas, que les hayan sido turnadas por el Congreso del Estado.
 
-XI.- Fungir a su vez como titular del Departamento de Supervisión del Servicio Público de Arrastre y Almacenamiento de Vehículos a que se refiere el Reglamento de Arrastre y Almacenamiento de Vehículos del Municipio de Tecate, Baja California, con todas las atribuciones y obligaciones que se establecen en el mismo.
+XI. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2010)
 
 XII.- Las demás que en ejercicio de sus facultades le encomiende expresamente el Síndico.
 
@@ -315,9 +315,11 @@ Para lo anterior el Jefe de Responsabilidades analizará previamente que los mie
 
 Así mismo el Jefe de Responsabilidades analizará cuando de los hechos que constituyan la queja o denuncia administrativa puedan surgir elementos para substanciar la investigación administrativa o únicamente puedan ser objeto de aplicación de correlativos disciplinarios.
 
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 20.
 
-(DEROGADO, P.O. 4 DE JUNIO DE 2010)
+El Titular del Departamento de Supervisión del Servicio Público de Arrastre y Almacenamiento de Vehículos a que se refiere el Reglamento de Arrastre y Almacenamiento de Vehículos del Municipio de Tecate, Baja California, contara con todas las atribuciones y obligaciones que se establecen en el mismo y las demás que disponga el Síndico.
 
 ###### ARTICULO 21.
 
@@ -404,3 +406,9 @@ P.O. 4 DE JUNIO DE 2010.
 CUARTO.- Publíquese en el Periódico Oficial del Estado.
 
 QUINTO.- El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2010.
+
+PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Publíquese en un diario de mayor circulación en la localidad, para conocimiento de la población.
