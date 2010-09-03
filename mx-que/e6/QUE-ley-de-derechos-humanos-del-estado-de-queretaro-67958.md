@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-derechos-humanos-del-estado-de-queretaro-67958"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2009-03-20"
+last_updated: "2010-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -143,7 +143,11 @@ IV. Conforme a sus necesidades y proyectos, deberá elaborar su proyecto de pres
 
 V. Promover y realizar el estudio, la enseñanza, la observancia y la divulgación de los derechos humanos en el Estado;
 
-VI. Rendir ante el Pleno de la Legislatura del Estado, durante el mes de febrero de cada año, un informe detallado y pormenorizado de sus resoluciones, del ejercicio de su presupuesto y de sus actividades. De igual manera, en el mismo mes, informará a la ciudadanía sobre sus actividades;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Rendir, por escrito y en forma personal, a través de su Presidente, durante la última semana del mes de febrero de cada año, ante la Comisión de Derechos Humanos y Acceso a la Información Pública de la Legislatura del Estado, en una sesión que para el efecto se le convoque, un informe detallado y pormenorizado de sus resoluciones, del ejercicio de su presupuesto y de sus actividades.
+
+De igual manera, en la misma semana, informará a la ciudadanía sobre sus actividades;
 
 VII. Promover y fortalecer las relaciones con organismos públicos en la materia, con el propósito de que, conjuntamente con las autoridades, se instrumenten las medidas pertinentes para garantizar a los particulares, programas preventivos en materia de protección de derechos humanos;
 
@@ -219,6 +223,10 @@ El Presidente de la Comisión será nombrado por la Legislatura del Estado, con 
 
 La Legislatura del Estado evaluará su ratificación hasta por un periodo similar, con el voto de la mayoría de sus integrantes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Para proceder penalmente en contra del Presidente de la Comisión, será necesaria la declaración de procedencia emitida por la Legislatura del Estado.
+
 ###### Artículo 21.
 
 El Presidente de la Comisión tendrá las siguientes facultades:
@@ -237,7 +245,7 @@ VI. Distribuir y delegar funciones al Secretario Ejecutivo, así como a los Visi
 
 VII. Proponer a los integrantes de la Consejo, el proyecto del informe que deberá rendir anualmente sobre sus actividades;
 
-VIII. Comparecer, durante la última semana del mes de febrero de cada año ante la Legislatura del Estado, a rendir un informe detallado y pormenorizado de sus resoluciones y actividades, mismo que también hará del conocimiento de la ciudadanía, en la misma fecha;
+VIII. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2010)
 
 IX. Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con organismos dedicados a la defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
 
@@ -249,7 +257,7 @@ XII. Formular las propuestas generales conducentes a la mejor protección de los
 
 XIII. Nombrar al Secretario Ejecutivo y Visitador General de la Comisión;
 
-XIV. Para proceder penalmente en contra del Presidente de la Comisión se requiere declaración de procedencia emitida por la Legislatura del Estado; y
+XIV. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2010)
 
 XV. Cualesquiera otras que le señale de esta Ley y demás ordenamientos aplicables.
 
@@ -980,3 +988,11 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE SEPTIEMBRE DE 2010.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
