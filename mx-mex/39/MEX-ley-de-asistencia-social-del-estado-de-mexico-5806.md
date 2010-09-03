@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-asistencia-social-del-estado-de-mexico-5806"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-31"
-last_updated: "2010-03-06"
+last_updated: "2010-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 31 de diciembre de 1986.
 
@@ -161,9 +161,11 @@ La protección y acciones a que se refiere el artículo 12 de esta Ley, las real
 
 Para el cumplimiento de sus objetivos, el DIFEM, podrá ser auxiliado por todas las Dependencias o Instituciones Públicas del Estado, pudiendo celebrar convenios con éstas o con otras Instituciones oficiales o privadas cuando lo estime conveniente; los que se integrarán al Sistema Estatal de Salud, en materia de asistencia social.
 
+> <small>(REFORMADO PRIMER PARRAFO , G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 16.
 
-El DIFEM, además de los objetivos a que se refieren los artículos anteriores, tendrán en forma enunciativa, más no limitativa, los siguientes:
+El DIFEM, además de los objetivos a que se refieren los artículos anteriores, tendrá en forma enunciativa, más no limitativa, los siguientes:
 
 I. Promover el bienestar social y prestar al efecto servicios de asistencia social, conforme a las normas de salud.
 
@@ -204,6 +206,10 @@ XVIII. Fomentar en la familia la práctica de sistemas de superación económica
 XIX. Realizar promociones propias o coordinadas, para hacer llegar a la familia satisfactores básicos y artículos necesarios.
 
 XX. Promover y organizar tareas para el desarrollo de la familia y mejoramiento de la comunidad.
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XX Bis. Promover de forma permanente programas y acciones que protejan el desarrollo de la familia, así como diseñar pláticas prenupciales con el fin de fortalecer la integración familiar, la equidad de género, la lucha contra la violencia familiar y la conciliación entre la vida laboral y familiar.
 
 XXI. Operar establecimientos de asistencia social en beneficio de menores en estado de abandono, de ancianos desamparados y de minusválidos sin recursos.
 
@@ -682,3 +688,9 @@ El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotep
 QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
