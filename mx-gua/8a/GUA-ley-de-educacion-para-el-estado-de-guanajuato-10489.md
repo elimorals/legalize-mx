@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-10489"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-13"
-last_updated: "2007-06-15"
+last_updated: "2010-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EDUCACION PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 13 de agosto de 1996.
 
@@ -351,6 +351,12 @@ V.- Acatar las disposiciones técnico-pedagógicas que dicte la institución com
 
 VI.- Abstenerse de intervenir en asuntos técnicos, laborales y administrativos de las instituciones que presten servicios educativos.
 
+> <small>N. DE E. EN RELACION CON EL ARTICULO CUARTO TRANSITORIO, LA SECRETARIA DE SALUD DEL ESTADO DE GUANAJUATO EN EL AMBITO DE SU COMPETENCIA, DEBERA PROVEER LO CONDUCENTE, PARA QUE A PARTIR DEL 1° PRIMERO DE ENERO DE 2011 DOS MIL ONCE, SE APLIQUEN LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE DECRETO.</small>
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VII.- Asistir a las pláticas y cursos que programará e impartirá, en los meses de enero y septiembre de cada año, la Secretaría de Salud en coordinación con la Secretaría de Educación del Estado de Guanajuato, para crear una cultura sobre la instrucción de la preparación adecuada de alimentos balanceados y con mayores contenidos nutrimentales con la finalidad de implementar hábitos y prácticas de alimentación sana y balanceada en beneficio de los educandos.
+
 ###### Artículo 35.
 
 Las personas mayores de edad o emancipadas tendrán derecho a solicitar su inscripción en las instituciones del Sistema Educativo Estatal en cualquiera de sus modalidades, conforme a la normatividad aplicable.
@@ -537,11 +543,25 @@ XXVIII.- Establecer programas de desarrollo humano, actualización y asesoría p
 
 XXIX.- Proponer y ejecutar programas alternativos para crear e impulsar sistemas de formación para y en el trabajo, así como para ampliar las oportunidades de educación tecnológica; y (sic)
 
-> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON EL ARTICULO CUARTO TRANSITORIO, LA SECRETARIA DE SALUD DEL ESTADO DE GUANAJUATO EN EL AMBITO DE SU COMPETENCIA, DEBERA PROVEER LO CONDUCENTE, PARA QUE A PARTIR DEL 1° PRIMERO DE ENERO DE 2011 DOS MIL ONCE, SE APLIQUEN LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE DECRETO.</small>
 
-XXX.- Establecer los lineamientos generales para que, en coordinación con la Secretaría de Salud, se regule la venta de alimentos y bebidas para que éstos coadyuven a una dieta correcta dentro de las escuelas de los niveles de preescolar, primaria y secundaria;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-XXXI.- Las demás que con tal carácter establezca esta ley y otras disposiciones aplicables.
+XXX.- Vigilar que en los planteles de educación básica del Estado sólo se expendan los alimentos y bebidas que estén contenidos en la lista que para ese efecto publique la Secretaría de Salud en los términos de la Ley de Salud para el Estado de Guanajuato;
+
+> <small>N. DE E. EN RELACION CON EL ARTICULO CUARTO TRANSITORIO, LA SECRETARIA DE SALUD DEL ESTADO DE GUANAJUATO EN EL AMBITO DE SU COMPETENCIA, DEBERA PROVEER LO CONDUCENTE, PARA QUE A PARTIR DEL 1° PRIMERO DE ENERO DE 2011 DOS MIL ONCE, SE APLIQUEN LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE DECRETO.</small>
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XXXI.- Diseñar, implementar, promover, organizar y apoyar programas de actividades físicas, deportivas, de recreación y nutrimentales para preservar la salud física y mental de los educandos;
+
+> <small>N. DE E. EN RELACION CON EL ARTICULO CUARTO TRANSITORIO, LA SECRETARIA DE SALUD DEL ESTADO DE GUANAJUATO EN EL AMBITO DE SU COMPETENCIA, DEBERA PROVEER LO CONDUCENTE, PARA QUE A PARTIR DEL 1° PRIMERO DE ENERO DE 2011 DOS MIL ONCE, SE APLIQUEN LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE DECRETO.</small>
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XXXII.- Prohibir la comercialización o la distribución dentro de las instituciones educatias de productos alimenticios no contemplados en el listado a que se refiere la fracción III del artículo 103 bis de la Ley de Salud del Estado de Guanajuato. La Secretaría de Salud podrá autorizar otros alimentos que puedan comercializarse o distribuirse en las instituciones educativas; y
+
+XXXIII.- Las demás que con tal carácter establezca esta ley y otras disposiciones aplicables.
 
 ###### Artículo 52.
 
@@ -1174,3 +1194,13 @@ Artículo Segundo.- Se derogan las disposiciones que se opongan al presente decr
 P.O. 15 DE JUNIO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2010.
+
+Artículo Primero. El presente Decreto entrará en vigor al cuarto día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guanajuato.
+
+Artículo Segundo. Dentro de los noventa días siguientes a la entrada en vigor del presente decreto, la Secretaría de Educación del Estado de Guanajuato, en coordinación con la Secretaria de Salud del Estado, emitirán los lineamientos normativos relativos al tipo de productos que se puedan comercializar en las cooperativas escolares o cualesquiera otra denominación que se otorgue, a fin de controlar el valor nutrimental de los productos que ahí se ofrezcan, mismos que estarán contenidos en el listado que al efecto emita la Secretaría de Salud del Estado de Guanajuato.
+
+Artículo Tercero. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Cuarto. La Secretaría de Educación del Estado de Guanajuato y la Secretaría de Salud de Guanajuato, en el ámbito de su competencia, deberán proveer lo conducente, para que a partir del 1° primero de enero de 2011 dos mil once, se apliquen las disposiciones contenidas en el presente Decreto.
