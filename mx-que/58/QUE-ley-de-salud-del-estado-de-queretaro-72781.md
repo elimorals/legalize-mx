@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2010-01-30"
+last_updated: "2010-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -90,6 +90,10 @@ IX. Sistema de Salud del Estado de Querétaro: al conjunto de unidades administr
 X. Usuario del servicio de salud: toda persona que requiera y obtenga los servicios de salud que presten los sectores públicos, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables; y
 
 XI. Atención médica prehospitalaria: aquella que brinda el sector público, privado y social, a través del técnico en urgencias médicas, al identificar, evaluar e intervenir en situaciones de emergencia o urgencia médica para salvaguardar la vida de los usuarios y prevenirles lesiones subsecuentes, en el propio sitio donde ocurre el incidente, así como durante su atención y traslado en unidades móviles tipo ambulancia, hasta el servicio hospitalario que le prestará la atención médica definitiva, con base en el conocimiento, habilidades, destrezas y aptitudes adquiridas, empleando para ello el equipo y la tecnología vigente, respetando la dignidad, costumbres y creencias del paciente.
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XII. Espacio 100% libre de humo de tabaco: Aquella área física cerrada con acceso al público o todo lugar de trabajo interior o de transporte público, en los que, por razones de orden público e interés social, queda prohibido fumar o tener encendido cualquier producto de tabaco.
 
 ###### Artículo 3.
 
@@ -1273,27 +1277,43 @@ IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, 
 
 El Poder Ejecutivo del Estado, se coordinará con las autoridades sanitarias federales y municipales para la ejecución, en el Estado, del Programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
 
-I. La prevención y el tratamiento de padecimientos originados por el tabaquismo;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-II. La difusión sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos adecuados para ello, incluyendo medidas que tiendan a desalentar el consumo de tabaco, sobre todo en lugares públicos;
+I. La prevención, diagnóstico, tratamiento y rehabilitación del tabaquismo y de los padecimientos originados por éste;
 
-III. La determinación y ejercicio de medios de control en el expendio de tabaco en cualquiera de sus formas, a efecto de prevenir su consumo por parte de los menores de edad y de los incapaces; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-IV. La prohibición de fumar fuera de los lugares permitidos, edificios, oficinas y cualquier otra instalación de la administración pública estatal o municipal, así como de los organismos públicos constitucionales autónomos. Los responsables de dichas instalaciones, en los términos de las disposiciones que los rijan, coadyuvarán con las autoridades sanitarias al efecto de dar cumplimiento con lo dispuesto en esta fracción.
+II. La educación sobre los efectos del tabaquismo en la salud, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar al interior de los espacios 100% libres de humo de tabaco, conforme a lo establecido en las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+III. La elaboración de un sistema de seguimiento y evaluación de metas del Programa contra el Tabaquismo, que incluya, al menos, las conductas relacionadas al tabaco y su impacto en la salud;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+IV. El diseño de programas, servicios de cesación y opciones terapéuticas que ayuden a dejar de fumar, combinadas con consejería y otras intervenciones, así como el diseño de campañas de publicidad que promuevan la cesación y disminuyan las probabilidades de iniciarse en el consumo de los productos del tabaco;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+V. La determinación y ejercicio de medios de control en expendios de tabaco en cualquiera de sus formas, a efecto de prevenir su consumo por parte de los menores de edad y de los incapaces; y
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VI. La prohibición de fumar en los espacios 100% libres de humo de tabaco. Los responsables de los edificios, oficinas o instalaciones de la administración pública estatal o municipal, así como de los organismos constitucionales autónomos, podrán disponer de los espacios en que se permite fumar, únicamente en el supuesto de que el edificio no haya sido declarado 100% libre de humo de tabaco. Fuera de estos lugares se prohíbe el consumo de tabaco.
+
+Los responsables de dichas instalaciones, en los términos de las disposiciones que los rijan, coadyuvarán con las autoridades sanitarias a efecto de dar cumplimiento con lo dispuesto en esta fracción.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 129.
 
-Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta los siguientes aspectos:
+Para poner en práctica las acciones del Programa contra el Tabaquismo, se tendrán en cuenta los siguientes aspectos:
 
-I. La investigación de las causas del tabaquismo y de las acciones para controlarlas;
+I. La generación de la evidencia científica sobre las causas y consecuencias del tabaquismo, la evaluación del programa, así como la cooperación técnica, jurídica y prestación de asesoramiento especializado;
 
 II. La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes; y
 
-III. Los efectos de la publicidad en la incidencia del tabaquismo y en los problemas relacionados con el consumo de tabaco.
-
-Los responsables de las dependencias, edificios, oficinas o instalaciones a que se refiere la fracción IV del artículo anterior, dispondrán los espacios en que se permita fumar, salvo en aquellos edificios declarados libres de humo.
-
-Fuera de estos lugares se prohíbe el consumo de tabaco dentro de las dependencias, edificios, oficinas o instalaciones públicas descritas.
+III. La vigilancia e intercambio de información, con los diferentes organismos y dependencias relacionados con la materia.
 
 ### Capítulo Cuarto. Del programa contra las adicciones comportamentales
 
@@ -1726,3 +1746,13 @@ Dr. Mario César García Feregrino
 Secretario de Salud
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE SEPTIEMBRE DE 2010.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
