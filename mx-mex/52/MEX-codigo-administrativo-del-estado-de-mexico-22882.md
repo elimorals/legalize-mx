@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2010-08-31"
+last_updated: "2010-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,71 +21,35 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
+LEY ORGÁNICA DE LA ARMADA DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2010.
+TEXTO ORIGINAL.
 
-Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
+Ley publicada en el Diario Oficial de la Federación, el jueves 14 de octubre de 2021.
 
-ARTURO MONTIEL ROJAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+ANDRÉS MANUEL LÓPEZ OBRADOR, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 
-DECRETO NUMERO 41
+Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
 
-LA H. "LIV" LEGISLATURA DEL ESTADO DE MEXICO
+DECRETO
 
-DECRETA:
+"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :
 
-CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
+SE EXPIDE LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO
+
+Artículo Único. Se expide la Ley Orgánica de la Armada de México
+
+LEY ORGÁNICA DE LA ARMADA DE MÉXICO
 
 # LIBRO PRIMERO. Parte general
 
-## TITULO PRIMERO. Del objeto
+## TÍTULO PRIMERO. DE LA MISIÓN Y ATRIBUCIONES DE LA ARMADA DE MÉXICO
 
 ###### Artículo 1.
 
-1.- Las disposiciones de este Código son de orden público e interés general, y tienen por objeto regular las materias que se señalan a continuación, a fin de promover el desarrollo social y económico en el Estado de México:
-
-I. Salud;
-
-II. Educación, ejercicio profesional, investigación científica y tecnológica, cultura, deporte, juventud y mérito civil;
-
-III. (DEROGADA, G.G. 3 DE MAYO DE 2006)
-
-IV. Ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población;
-
-V. Protección civil;
-
-VI. Infraestructura vial y transporte;
-
-VII. Tránsito y estacionamientos;
-
-VIII. Fomento y desarrollo agropecuario, acuícola y forestal;
-
-IX. Fomento económico;
-
-X. Protección e integración al desarrollo de las personas con capacidades diferentes;
-
-> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
-
-XI. Obra pública;
-
-> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
-
-XII. Adquisiciones, enajenaciones, arrendamientos y servicios;
-
-> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
-
-XIII. Información e investigación geográfica, estadística y catastral; y (sic)
-
-> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
-
-XIV. Periódico Oficial del Gobierno del Estado de México;
-
-> <small>(ADICIONADA, G.G. 21 DE AGOSTO DE 2006)</small>
-
-XV. Los procesos de contratación y los contratos que celebre el Estado, sus dependencias y organismos auxiliares y, en su caso, los municipios y sus organismos.
+La Armada de México es una institución militar nacional, de carácter permanente, cuya misión es emplear el poder naval de la Federación para la defensa exterior, proteger la soberanía de la Nación, mantener el estado de derecho en las zonas marinas mexicanas y coadyuvar en la seguridad interior del país, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella derivan y los tratados internacionales de los que el Estado Mexicano sea parte.
 
 ###### Artículo 1.
 
@@ -99,7 +63,7 @@ Tratándose de la planeación de las materias que regula este Código, se estar�
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
-## TITULO SEGUNDO. De las autoridades estatales y municipales
+## TÍTULO SEGUNDO. DE LA INTEGRACIÓN, NIVELES DE MANDO Y ORGANIZACIÓN
 
 ###### Artículo 1.
 
@@ -139,9 +103,9 @@ XII. Las demás que establezcan este Código y otras disposiciones aplicables.
 
 6.- Al ejercer las atribuciones previstas en este Código, las autoridades estatales y municipales deberán aplicar los principios de legalidad, igualdad, imparcialidad, buena fe, veracidad, honradez, respeto, audiencia, publicidad, economía, información, transparencia, jerarquía, desconcentración, descentralización, desregulación, previsión, coordinación, cooperación, eficacia y eficiencia, y abstenerse de comportamientos que impliquen vías de hecho contrarias a las finalidades de las materias reguladas en este ordenamiento.
 
-## TITULO TERCERO. Del acto administrativo
+## TÍTULO TERCERO. DEL PERSONAL NAVAL
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPÍTULO I. DE LA MISIÓN
 
 ###### Artículo 1.
 
@@ -183,7 +147,7 @@ XIII. Resolver expresamente todos los puntos propuestos por los interesados o pr
 
 9.- El acto administrativo deberá ser preciso en cuanto a las circunstancias de tiempo y lugar, de modo que se especifiquen el ámbito territorial de su aplicación y validez, así como el periodo de su duración. Si no se consignan expresamente estas circunstancias, se entenderá que el acto tiene aplicación y validez en todo el territorio del Estado o del municipio de que se trate, según sea emitido por una autoridad estatal o municipal, y que su duración es indefinida.
 
-### CAPITULO SEGUNDO. De la validez y eficacia de los actos administrativos
+### CAPÍTULO II. DE LAS ATRIBUCIONES
 
 ###### Artículo 1.
 
@@ -191,7 +155,7 @@ XIII. Resolver expresamente todos los puntos propuestos por los interesados o pr
 
 Se considera que ha operado la afirmativa ficta cuando la autoridad competente haya expedido la certificación respectiva, o no haya dado respuesta a la solicitud de certificación en el plazo a que se refiere el segundo párrafo del artículo 135 del Código de Procedimientos Administrativos del Estado de México, o cuando así lo haya declarado el Tribunal Contencioso Administrativo. Tratándose de la negativa ficta, ésta operará cuando el interesado la haga valer al promover el medio de impugnación correspondiente.
 
-### CAPITULO TERCERO. De la invalidez de los actos administrativos
+### CAPÍTULO I. DE LA INTEGRACIÓN
 
 ###### Artículo 1.
 
@@ -219,7 +183,7 @@ La convalidación del acto producirá efectos retroactivos y el acto se consider
 
 14.- En el caso de la fracción II del artículo 1.11, la resolución que declare la invalidez del acto, ordenará la reposición del procedimiento a partir de la etapa en que se incurrió en el vicio correspondiente.
 
-### CAPITULO CUARTO. De la extinción de los actos administrativos
+### CAPÍTULO II. DE LOS NIVELES DE MANDO
 
 ###### Artículo 1.
 
@@ -251,7 +215,7 @@ La tramitación de esta declaratoria de extinción de los efectos del acto admin
 
 ## TITULO CUARTO. De la mejora regulatoria
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPÍTULO III. DE LA ORGANIZACIÓN
 
 ###### Artículo 1.
 
@@ -299,7 +263,69 @@ II. Dictaminar los proyectos de disposiciones de carácter general que se preten
 
 III. Aprobar, modificar o rechazar la información a inscribirse en el Registro Municipal de Trámites correspondiente.
 
-### CAPITULO SEGUNDO. Del manifiesto de impacto regulatorio
+### CAPÍTULO I. DEL INGRESO
+
+###### Artículo 56.
+
+La escala de los cuerpos técnico no profesional está integrada por el personal que haya realizado estudios de capacitación en los establecimientos educativos navales de acuerdo con los ordenamientos aplicables.
+
+###### Artículo 57.
+
+Los servicios de la Armada de México son:
+
+I. Administración e Intendencia Naval;
+
+II. Apoyo a la Autoridad Marítima;
+
+III. Comunicaciones Navales;
+
+IV. Comunicación Social;
+
+V. Del Medio Ambiente Marino;
+
+VI. Docente Naval;
+
+VII. Logística Naval;
+
+VIII. Ingenieros de la Armada;
+
+IX. Justicia Naval;
+
+X. Meteorología Naval;
+
+XI. Músicos Navales;
+
+XII. Sanidad Naval;
+
+XIII. Trabajo Social Naval, y
+
+XIV. Otros que sean necesarios a juicio del Alto Mando.
+
+Los núcleos de los servicios están constituidos por el personal que haya concluido y aprobado satisfactoriamente sus estudios en los establecimientos educativos navales de nivel licenciatura o aquel que cause alta en la Armada de México, procedente de establecimientos educativos navales de nivel licenciatura o superior, nacionales o extranjeras conforme a los ordenamientos aplicables. Los estudios en estas últimas, para su reconocimiento, deberán ser revalidados por la Secretaría de Educación Pública.
+
+###### Artículo 58.
+
+Las escalas de los servicios técnico profesional, están integradas por el personal que haya realizado estudios de nivel medio superior o técnico profesional reconocidos por la Secretaría de Educación Pública, de acuerdo con los ordenamientos aplicables.
+
+###### Artículo 59.
+
+Las escalas de los servicios técnico no profesional están integradas por el personal que haya recibido capacitación en los establecimientos educativos navales o que al ingresar al servicio activo de la Armada de México cuenten con habilidades sobre un oficio en particular.
+
+###### Artículo 60.
+
+El personal de la Armada de México podrá ser cambiado de Cuerpo, Servicio, Núcleo o Escala, por necesidades del servicio; recomendación de un Consejo Médico integrado por médicos especialistas navales o a petición del interesado, sujetándose a las siguientes reglas:
+
+I. Si el cambio es por necesidades del servicio o recomendación de un Consejo Médico como resultado de lesiones en actos del servicio, no perderá el grado ni la antigüedad, y
+
+II. Si el cambio es a solicitud del interesado o recomendación de un Consejo Médico como resultado de lesiones en actos no imputables al servicio, ocupará el último lugar del grado que ostente en el Cuerpo o Servicio del escalafón al que vaya a pertenecer a partir de la fecha del cambio.
+
+Para efectos de retiro no perderá el tiempo de servicio en el grado.
+
+Para efectos de ascenso, la antigüedad en el grado contará a partir de la fecha del cambio.
+
+###### Artículo 61.
+
+El personal naval desempeñará los Mandos, cargos y comisiones acordes a su Cuerpo, Servicio y grado establecidos en las planillas orgánicas de las unidades y establecimientos de la Armada de México y de la Secretaría de Marina, así como los que se le nombren, de conformidad con los ordenamientos aplicables.
 
 ###### Artículo 1.
 
@@ -319,7 +345,21 @@ IV. Los costos y beneficios esperados;
 
 V. La identificación y descripción de trámites que el proyecto pretende eliminar, crear o mantener.
 
-### CAPITULO TERCERO. De los registros estatal y municipales de trámites
+### CAPÍTULO II. DE LA CLASIFICACIÓN
+
+###### Artículo 62.
+
+El personal naval que desempeñe un mando, cargo o comisión, podrá ser nombrado o reasignado a otro distinto o cambiado de una adscripción a otra, sin más trámite que la orden de cambio emitida por el mando o autoridad correspondiente.
+
+###### Artículo 63.
+
+Al personal de los Cuerpos le corresponden las funciones siguientes:
+
+I. Ejercer los niveles y tipos de Mando que establece esta Ley;
+
+II. Operar y mantener las unidades aeronavales, de superficie y de infantería de marina, armas, armamento marinero, maquinaria naval y las que se requieran en la profesión naval, y
+
+III. Desempeñar los Mandos, cargos y comisiones que se requieran para el cumplimiento de la misión y ejercicio de las atribuciones de la Armada de México, así como aquellas asignaciones que le sean conferidas en la Secretaría de Marina y en otras dependencias de la Administración Pública Federal.
 
 ###### Artículo 1.
 
@@ -489,7 +529,57 @@ Para facilitar el acceso a la información, las autoridades implementarán un si
 
 ## TITULO DECIMO. De la acción popular
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPÍTULO III. DE LOS CUERPOS Y SERVICIOS
+
+###### Artículo 64.
+
+El personal de los servicios desempeñará las funciones siguientes:
+
+I. Ejercer los cargos y comisiones inherentes a su servicio o especialidad;
+
+II. Realizar las actividades correspondientes a su profesión, especialidad u oficio, y
+
+III. Desempeñar los cargos, comisiones y asignaciones que les sean conferidos en la Armada de México, en la Secretaría de Marina y en otras dependencias de la Administración Pública Federal.
+
+###### Artículo 65.
+
+La educación naval es administrada por la Universidad Naval, con el propósito de dotar de capacidades y habilidades al personal naval, cubriendo los diferentes niveles educativos y los principios doctrinarios navales, orientados al conocimiento, difusión, aplicación de la ciencia y la cultura para el cumplimiento de sus funciones.
+
+###### Artículo 66.
+
+La educación naval se conforma por los siguientes niveles educativos:
+
+I. Adiestramiento;
+
+II. Capacitación;
+
+III. Educación Media Superior, y
+
+IV. Educación Superior.
+
+Estos niveles se impartirán en los establecimientos educativos navales, unidades operativas, administrativas y en centros educativos nacionales o extranjeros.
+
+###### Artículo 67.
+
+La Universidad Naval expedirá los títulos, certificados, constancias o diplomas correspondientes al personal que concluya estudios en los establecimientos educativos navales, en los términos en que lo señalen los ordenamientos aplicables.
+
+###### Artículo 68.
+
+El personal designado para efectuar cursos por cuenta de la Armada de México en centros educativos, nacionales o extranjeros, ajenos a la misma, se comprometerá a prestar sus servicios conforme a las siguientes reglas:
+
+I. En planteles nacionales, un tiempo equivalente a dos veces el que duren sus estudios, y
+
+II. En planteles extranjeros, un tiempo equivalente a tres veces el que duren sus estudios.
+
+El personal que solicite su separación del servicio activo y no haya concluido con el tiempo de servicio especificado en las fracciones anteriores, cubrirá el total o la parte proporcional del importe erogado por la institución para la realización de dichos estudios.
+
+###### Artículo 69.
+
+El personal seleccionado para efectuar cursos en establecimientos educativos navales, deberá firmar un contrato en el que se establezca la obligación de servir en la misma por un término igual al de la duración de sus estudios.
+
+###### Artículo 70.
+
+El personal naval está constituido por las mujeres y los hombres que pertenecen a la Armada de México, y ostentarán un grado de la escala jerárquica prevista en el artículo 74 de esta Ley. Estarán sujetos a las obligaciones y derechos que para ellos establecen la Constitución Política de los Estados Unidos Mexicanos, la presente Ley y demás ordenamientos aplicables.
 
 ###### Artículo 1.
 
@@ -573,7 +663,153 @@ La organización y funcionamiento del Consejo Estatal de Población se regirá p
 
 > <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
 
-### CAPITULO SEGUNDO. De las autoridades
+### CAPÍTULO IV. DEL DESEMPEÑO Y FUNCIONES DEL PERSONAL
+
+###### Artículo 71.
+
+Los grados del personal naval tienen por objeto el ejercicio de la autoridad, otorgando a su titular los derechos, obligaciones y deberes inherentes a la situación en que se encuentre, establecidos en las leyes y reglamentos respectivos.
+
+###### Artículo 72.
+
+Los grados de la escala jerárquica de la Armada de México son de su uso exclusivo, por lo que no podrán ser usados por personal civil, corporaciones, dependencias o entidades que sean ajenas a la institución. Quienes violen estas disposiciones quedarán sujetos a lo dispuesto en los ordenamientos correspondientes.
+
+###### Artículo 73.
+
+El personal, por su grado, se agrupará en las categorías siguientes:
+
+I. Almirantes;
+
+II. Capitanes;
+
+III. Oficiales;
+
+IV. Cadetes y alumnos;
+
+V. Clases, y
+
+VI. Marinería.
+
+###### Artículo 74.
+
+Las distintas categorías tienen la siguiente escala jerárquica, cuyas equivalencias con las del Ejército y Fuerza Aérea son:
+
+ARMADA EJÉRCITO FUERZA AÉREA
+
+I. ALMIRANTES GENERALES GENERALES
+
+Almirante General de División General de División
+
+Vicealmirante General de Brigada General de Ala
+
+Contralmirante General Brigadier General de Grupo
+
+II. CAPITANES JEFES JEFES
+
+Capitán de Navío Coronel Coronel
+
+Capitán de Fragata Teniente Coronel Teniente Coronel
+
+Capitán de Corbeta Mayor Mayor
+
+III. OFICIALES OFICIALES OFICIALES
+
+Teniente de Navío Capitán Primero Capitán Primero
+
+Teniente de Fragata Capitán Segundo Capitán Segundo
+
+Teniente de Corbeta Teniente Teniente
+
+Guardiamarina Subteniente Subteniente
+
+Primer Maestre Subteniente Subteniente
+
+IV. CADETES CADETES CADETES
+
+Cadetes Cadetes Cadetes
+
+Alumnos Alumnos Alumnos
+
+V. CLASES CLASES CLASES
+
+Segundo Maestre Sargento Primero Sargento Primero
+
+Tercer Maestre Sargento Segundo Sargento Segundo
+
+Cabo Cabo Cabo
+
+VI. MARINERÍA TROPA TROPA
+
+Marinero Soldado Soldado
+
+###### Artículo 75.
+
+Al personal que se encuentre cursando carreras de nivel superior en los diferentes establecimientos educativos navales se les denominará cadetes, y a los de nivel medio superior, alumnos.
+
+Para efectos disciplinarios se regirán por los reglamentos de los establecimientos educativos navales correspondientes, y para efectos de la comisión de delitos del fuero de guerra se sujetarán a lo establecido en el Código de Justicia Militar.
+
+###### Artículo 76.
+
+Al término de los estudios en la Heroica Escuela Naval Militar, al personal de cadetes que haya concluido y aprobado satisfactoriamente sus estudios se les otorgará el grado de Guardiamarina; a los alumnos de las carreras de nivel superior de los demás establecimientos educativos navales, el de Primer Maestre, y a los de nivel medio superior, el de Segundo Maestre.
+
+###### Artículo 77.
+
+Los ascensos del personal naval se conferirán con arreglo a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en la Ley de Ascensos de la Armada de México y en su reglamento.
+
+###### Artículo 78.
+
+El grado máximo es aquel que puede alcanzar el personal de la Armada de México en su correspondiente Cuerpo o Servicio.
+
+Quien alcance el grado máximo, en los términos en que lo establece esta Ley y demás ordenamientos aplicables, al cumplir cinco años en dicho grado percibirá una asignación mensual igual a la diferencia de percepciones que exista entre el grado que ostenta y el inmediato superior.
+
+Cada cinco años dicha asignación será aumentada a las percepciones que correspondan al grado inmediato superior de los que perciba.
+
+###### Artículo 79.
+
+Se consideran como grado máximo los siguientes:
+
+I. Para los Cuerpos:
+
+a) Núcleo: hasta Almirante;
+
+b) Escala técnico profesional: hasta Capitán de Corbeta, y
+
+c) Escala no profesional: hasta Teniente de Navío, y
+
+II. Para los servicios:
+
+a) Núcleo: hasta Vicealmirante,
+
+b) Escala técnico profesional: hasta Capitán de Corbeta, y
+
+c) Escala no profesional: hasta Teniente de Navío.
+
+###### Artículo 80.
+
+El escalafón de la Armada de México se integra agrupando al personal por Cuerpos y Servicios, núcleos y escalas en orden descendente, en razón de la categoría, grado y antigüedad en el grado, de cada elemento, señalando las especialidades que ostenten.
+
+###### Artículo 81.
+
+El personal de la Armada de México podrá encontrarse en alguna de las situaciones siguientes:
+
+I. Activo;
+
+II. Retiro, o
+
+III. Reserva.
+
+###### Artículo 82.
+
+El personal se encuentra en servicio activo cuando está:
+
+I. Prestando sus servicios en unidades y establecimientos navales, en la Secretaría de Marina o encontrarse comisionado o asignado en otra dependencia;
+
+II. A disposición, en espera de órdenes para que sea asignado cargo o comisión, o por resolución de un órgano de disciplina en los términos que dispone la Ley de Disciplina para el Personal de la Armada de México;
+
+III. En depósito, cuando el personal de la categoría de Almirantes y Capitanes de Navío, que a solicitud propia, y que haya sido autorizado por el Alto Mando, de manera temporal no desempeñe cargo o comisión. El personal que se encuentre en esta situación permanecerá sin mando, cargo o comisión y sin derecho a percibir sobrehaberes, ni ser propuesto para ascenso; su situación estará regulada por los ordenamientos aplicables;
+
+IV. En situación especial, por encontrarse vinculado a proceso, cumpliendo condena y que no haya sido destituido por sentencia ejecutoriada o suspendido por resolución firme de organismo administrativo competente, y
+
+V. Con licencia, a excepción de la ilimitada.
 
 ###### Artículo 1.
 
@@ -593,11 +829,147 @@ VI. Los rendimientos, recuperaciones y demás ingresos que obtenga por la invers
 
 Los ingresos del Consejo Estatal de Población, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a la ejecución de los programas aprobados por la Asamblea General.
 
-### CAPITULO TERCERO. De la Secretaría de Salud
+### CAPÍTULO V. DE LA EDUCACIÓN NAVAL Y DESARROLLO PROFESIONAL
 
-### CAPITULO CUARTO. Del Instituto de Salud del Estado de México
+###### Artículo 83.
 
-### CAPITULO QUINTO. Del Consejo de Salud del Estado de México
+Las licencias que se concedan al personal naval estarán reguladas en el reglamento correspondiente y demás disposiciones jurídicas aplicables, y son las siguientes:
+
+I. Menor: para resolver asuntos personales inmediatos;
+
+II. Ordinaria: para resolver asuntos personales que requieren mayor tiempo que el que se concede para la licencia menor, pero sin separarse del servicio activo;
+
+III. Extraordinaria: para separarse temporalmente del servicio activo por el periodo señalado en el reglamento respectivo;
+
+IV. Por enfermedad: cuando el personal requiere tratamiento médico o tiempo para recuperar su salud por presentar una enfermedad que le impida desempeñar su servicio;
+
+V. Por edad límite: al personal próximo a ser colocado en situación de retiro por edad límite, y
+
+VI. Ilimitada: para separarse del servicio activo por tiempo indefinido.
+
+Las licencias a que hace referencia este artículo estarán sujetas a lo que establezca el reglamento correspondiente.
+
+###### Artículo 84.
+
+Es facultad del Alto Mando otorgar, modificar o cancelar las licencias establecidas en la presente Ley, conforme a lo dispuesto por los ordenamientos aplicables.
+
+###### Artículo 85.
+
+El personal que se encuentre haciendo uso de licencia ilimitada, se sujetará a lo establecido en la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, respecto del beneficio del servicio médico integral.
+
+###### Artículo 86.
+
+Es facultad del Alto Mando ejercitar el derecho de retención en el activo al personal que se encuentre considerado en la causal de retiro por edad límite y sean necesarios sus servicios, en tanto no se hayan girado las órdenes de baja del servicio activo y alta en situación de retiro.
+
+###### Artículo 87.
+
+Baja es la separación definitiva del servicio activo, la cual procederá por:
+
+I. Solicitud del interesado, cuando no exista causa comprobada que lo obligue a permanecer en el servicio;
+
+II. Ausencia por un periodo mayor a dos meses, comprobada mediante los partes oficiales y las constancias que obren en la carpeta de investigación o en procedimientos judiciales. En caso de que el militar aparezca y justifique su ausencia, podrá ser reincorporado al servicio activo;
+
+III. Incurrir en hechos de falsedad en declaraciones o en la documentación presentada para su ingreso, para acreditar su situación y la de sus derechohabientes;
+
+IV. Defunción del militar;
+
+V. Encontrarse vinculado a proceso penal en las jurisdicciones federal o común, por hechos ajenos y sin conexión con el servicio, que amerite prisión preventiva oficiosa sin derecho a libertad provisional bajo caución. De resultar absuelto, podrá reingresar al servicio activo, previa opinión jurídica;
+
+VI. Faltar injustificadamente tres días consecutivos, tratándose del personal de la milicia auxiliar, sin perjuicio del proceso que se les siga;
+
+VII. Padecer una enfermedad contraída como consecuencia de actos ajenos al servicio, de acuerdo con el dictamen de autoridad médica naval competente, que lo imposibilite para desempeñarse en el servicio activo de conformidad con los ordenamientos aplicables y no cuente con más de cinco años de servicio en la Armada de México;
+
+VIII. Estar imposibilitado para cumplir con sus obligaciones militares por causa no imputable a la Armada de México;
+
+IX. Resolución firme del órgano de disciplina competente, para el personal de la milicia auxiliar y de la milicia permanente. Lo anterior independientemente del proceso penal que se integre ante la comisión de hechos posiblemente constitutivos de delitos. Se pondrá particularmente a esto, tratándose de delitos contra la salud en las diferentes modalidades de narcotráfico, así como traición a las Fuerzas Armadas en los términos de la legislación penal correspondiente;
+
+X. Sentencia ejecutoriada que la ordene, pronunciada por el órgano jurisdiccional federal, militar o administrativo;
+
+XI. Terminación de contrato, conforme a las cláusulas de éste y las disposiciones legales aplicables, tratándose de personal de la milicia auxiliar;
+
+XII. Considerar dentro de la vigencia de su contrato que no son necesarios sus servicios, o a consecuencia de cambios orgánicos en las estructuras de las unidades o establecimientos, tratándose de personal de la milicia auxiliar, y
+
+XIII. Ser declarado prófugo de la justicia, tratándose de almirantes, capitanes y oficiales de la milicia permanente, sin perjuicio del proceso que se les siga.
+
+La baja del servicio activo por alguno de los supuestos de las fracciones III, V, VI, VIII, IX, X y XIII, implica que el tiempo de servicios se pierda totalmente.
+
+Antes de emitirse la baja, por alguno de los supuestos de las fracciones III, V, VII, VIII, XI y XII, se deberá emplazar al interesado por escrito, de manera fundada y motivada, a fin de que dentro del término de quince días naturales a partir de la notificación, manifieste a la autoridad que le inició el procedimiento lo que estime necesario para su defensa y aporte las pruebas y alegatos que considere pertinentes. Dicha vista será desahogada, debiendo valorarse los argumentos y pruebas ofrecidas para después dictar una determinación que resuelva el fondo del asunto.
+
+En caso de expirar el plazo sin que comparezca por escrito o personalmente, se le tendrá por conforme y se continuará con el procedimiento de baja.
+
+###### Artículo 88.
+
+Las bajas del servicio activo serán comunicadas por:
+
+I. El Oficial Mayor de la Secretaría de Marina, tratándose de almirantes, y
+
+II. El Director General de Recursos Humanos, tratándose del personal siguiente:
+
+a) Capitanes y oficiales, y
+
+b) Cadetes y alumnos de los establecimientos educativos navales, en los términos del reglamento respectivo.
+
+Los Comandantes de Región, Fuerza, Zona Naval y del Cuartel General del Alto Mando, al personal de clases y marinería adscritos a unidades y establecimientos bajo su Mando.
+
+###### Artículo 89.
+
+No se autorizará pase a depósito, licencia extraordinaria o ilimitada, ni baja, por solicitud del interesado, cuando el país se encuentre en estado de emergencia, en caso de invasión, perturbación grave de la paz pública o cualquier otro que ponga a la sociedad en grave peligro o conflicto.
+
+###### Artículo 90.
+
+Las reservas de la Armada de México son:
+
+I. Primera Reserva, y
+
+II. Segunda Reserva.
+
+###### Artículo 91.
+
+La primera reserva se integra con personal físicamente apto de:
+
+I. Almirantes, capitanes y oficiales en situación de retiro y los oficiales que hayan causado baja del servicio activo por solicitarla;
+
+II. Clases y marinería que hayan causado baja del servicio activo por solicitarla, hasta la edad de treinta y seis años;
+
+III. Oficiales, clases y marinería del Servicio Militar Nacional, hasta las edades de treinta y seis, treinta y tres y treinta años, respectivamente;
+
+IV. Capitanes y oficiales pertenecientes a la Marina Mercante Nacional;
+
+V. El demás personal de la Marina Mercante Nacional hasta la edad de treinta y seis años;
+
+VI. Empleados civiles de la Secretaría de Marina;
+
+VII. Personal de procedencia civil que tenga una profesión u oficio relacionado directamente con las actividades marítimas o portuarias, y
+
+VIII. Ciudadanos mexicanos que así lo soliciten, quienes permanecerán en esta reserva hasta la edad de treinta años.
+
+###### Artículo 92.
+
+La segunda reserva se integra con el personal proveniente de la primera en los casos siguientes:
+
+I. El comprendido en la fracción II del artículo anterior hasta los cuarenta y cinco años;
+
+II. El comprendido en la fracción III del artículo anterior, hasta las edades de cincuenta, cuarenta y cinco y cuarenta años, respectivamente;
+
+III. El personal de la Marina Mercante Nacional comprendido en la fracción V del artículo anterior hasta la edad de cincuenta años, y
+
+IV. El comprendido en la fracción VIII del artículo precedente, hasta la edad de cuarenta años.
+
+###### Artículo 93.
+
+Las reservas serán movilizadas en los términos de la ley respectiva y serán empleadas en la forma que mejor convenga al servicio.
+
+Se llevará y mantendrá actualizado un registro del personal que constituya cada una de las reservas.
+
+El Alto Mando podrá llamar a la primera o segunda reserva, en su totalidad, en parte o conjuntamente para efectuar ejercicios o comprobar su existencia.
+
+###### Artículo 94.
+
+El personal del activo pasará a situación de retiro de acuerdo con lo establecido en la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+
+### CAPÍTULO VI. DE LOS GRADOS DEL PERSONAL NAVAL Y ESCALAFÓN
+
+### CAPÍTULO VII. SITUACIÓN DEL PERSONAL
 
 ### CAPITULO SEXTO. Del Sistema de Información y del Registro Estatales de Salud
 
@@ -621,7 +993,49 @@ Los ingresos del Consejo Estatal de Población, así como los productos e instru
 
 ###### Artículo 2.
 
-1.- Este Libro tiene por objeto regular los servicios públicos de salud que presta el Estado, y el ejercicio del control sanitario en materia de salubridad local.
+Son atribuciones de la Armada de México, las siguientes:
+
+I. Organizar, adiestrar, alistar y equipar al personal naval, las unidades y establecimientos navales que la constituyen para el cumplimiento de su misión y ejercicio de sus atribuciones;
+
+II. Cooperar en el mantenimiento del orden constitucional del Estado Mexicano, con estricto respeto y protección de los derechos humanos;
+
+III. Realizar acciones para salvaguardar la soberanía y la integridad del territorio nacional en el mar territorial, zona marítimo-terrestre, islas, cayos, arrecifes, zócalos y plataforma continental; así como en aguas interiores, lacustres y ríos en sus partes navegables, incluyendo los espacios aéreos correspondientes, así como vigilar los derechos de soberanía en la zona económica exclusiva;
+
+IV. Conducir el control naval del tráfico marítimo y protegerlo en las zonas marinas mexicanas y donde el Mando Supremo lo ordene, así como regular, establecer y vigilar las áreas restringidas a la navegación, incluidos los espacios aéreos correspondientes, en coordinación con otras autoridades en su ámbito de competencia, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella derivan y los tratados internacionales de los que el Estado Mexicano sea parte;
+
+V. Ejercer funciones de guardia costera para:
+
+a) Mantener el estado de derecho en las zonas marinas mexicanas, costas y recintos portuarios, además de la seguridad y protección marítima, a través de acciones de vigilancia, verificación, visita, inspección y otras acciones previstas en las disposiciones jurídicas aplicables, en coordinación con otras autoridades, en el ámbito de sus respectivas competencias.
+
+Cuando en ejercicio de estas funciones, se presente la posible comisión de un hecho que la ley señale como delito, se pondrá a disposición ante la autoridad competente a las personas, objetos, instrumentos y productos relacionados al mismo;
+
+b) Apoyar a la Secretaría de Marina en sus funciones de Autoridad Marítima Nacional, en materia de seguridad y protección marítima y portuaria;
+
+c) Prevenir la contaminación del medio ambiente marino, así como realizar su vigilancia y protección en el área de responsabilidad, actuando por sí o en colaboración con otras dependencias e instituciones nacionales o extranjeras, sin perjuicio de las atribuciones que correspondan a las dependencias y entidades de la Administración Pública Federal;
+
+VI. Apoyar a la Secretaría de Marina como Autoridad Marítima Nacional, en las acciones para el control de tráfico marítimo en las vías generales de comunicación por agua;
+
+VII. Salvaguardar la vida humana en el mar, mediante operaciones de búsqueda y rescate en las zonas marinas mexicanas, aguas internacionales y en las que el Mando Supremo lo ordene;
+
+VIII. Proteger instalaciones estratégicas del país y donde el Mando Supremo lo ordene, por sí misma o en coordinación con otras autoridades, en los ámbitos de sus respectivas competencias;
+
+IX. Auxiliar a la población en los casos y zonas de desastre o emergencia, aplicando los planes institucionales de acuerdo al Sistema Nacional de Protección Civil, en coordinación con otras autoridades en su ámbito de competencia;
+
+X. Proteger los recursos marítimos, fluviales y lacustres nacionales, así como participar en toda actividad relacionada con el desarrollo marítimo nacional en coordinación con otras autoridades, en el ámbito de sus respectivas competencias;
+
+XI. Garantizar el cumplimiento del orden jurídico nacional en las zonas marinas mexicanas por sí o coadyuvando con las autoridades competentes en el combate al terrorismo, contrabando, piratería en el mar, robo de embarcaciones, artes de pesca o productos de ésta, tráfico ilegal de personas, armas, estupefacientes y psicotrópicos, y cualquier otro ilícito, en los términos de la legislación aplicable, en estricto respeto y protección a los derechos humanos;
+
+XII. Realizar actividades de investigación científica, oceanográfica, meteorológica y biológica de los recursos marinos, así como de desarrollo tecnológico, actuando por sí o en colaboración con otras instituciones nacionales o extranjeras, o en coordinación con dependencias y entidades de la Administración Pública Federal;
+
+XIII. Fomentar y participar con las autoridades civiles en actividades socioculturales y cívicas en aspectos relacionados con el medio marítimo;
+
+XIV. Coordinar los trabajos hidrográficos de las costas, mares, islas, puertos y vías navegables; publicar la cartografía náutica y la información necesaria para la seguridad de la navegación, y organizar el archivo de cartas náuticas y las estadísticas relativas;
+
+XV. Fomentar la educación naval en coordinación con la Universidad Naval, como parte del Sistema Educativo Naval;
+
+XVI. Participar en los órganos del Fuero de Guerra, y
+
+XVII. Las demás que le señalen las disposiciones aplicables y le encomiende el Mando Supremo.
 
 ###### Artículo 2.
 
@@ -848,6 +1262,22 @@ Los ingresos de los Institutos, así como los productos e instrumentos financier
 ## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO TERCERO. De la vigilancia
+
+## Transitorios
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la entrada en vigor de la presente Ley, se abroga la Ley Orgánica de la Armada de México, publicada el 30 de diciembre de 2002 en el Diario Oficial de la Federación, y se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+Tercero. Las erogaciones que generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de Marina, con movimientos compensados, por lo que no se incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+Cuarto. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, relacionados con las modificaciones a los preceptos legales contemplados en el mismo, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+Quinto. Las autoridades competentes deberán emitir las disposiciones reglamentarias y normativas necesarias, o sus modificaciones, para dar cumplimiento a lo previsto en la presente Ley, dentro de los 180 días siguientes a su entrada en vigor.
+
+Ciudad de México, a 9 de septiembre de 2021.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. María Celeste Sánchez Sugía, Secretaria.- Dip. Fuensanta Guadalupe Guerrero Esquivel, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de octubre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 
 ###### Artículo 2.
 
@@ -1141,7 +1571,43 @@ Para efectos de este Título se entiende por control sanitario el conjunto de ac
 
 ### CAPITULO SEGUNDO. Del Sistema Educativo Estatal
 
-#### SECCION PRIMERA. De la recolección de muestras
+#### SECCIÓN I. UNIDADES OPERATIVAS
+
+###### Artículo 20.
+
+Las Estaciones Navales de Búsqueda, Rescate y Vigilancia Marítima, son las unidades operativas especializadas para llevar a cabo operaciones para salvaguardar la vida humana en el mar, así como vigilancia marítima de proximidad en puertos y costas.
+
+Estarán subordinados al Comandante de Fuerza, Región, Zona o Sector Naval que corresponda.
+
+###### Artículo 21.
+
+Las Bases Aeronavales son las responsables ante el Mando Naval correspondiente de la planeación, ejecución y supervisión de las operaciones aeronavales, así como del apoyo logístico de las aeronaves asignadas a las Fuerzas, Regiones, Cuartel General y Zonas Navales.
+
+Podrán tener adscritos Centros de Mantenimiento Aeronaval y Escuadrones Aeronavales de acuerdo con los requerimientos operativos, como lo determine el Alto Mando.
+
+Los Comandantes serán de la Categoría de Almirante y están subordinados al Mando Naval correspondiente.
+
+###### Artículo 22.
+
+Los Escuadrones Aeronavales son unidades operativas responsables de la supervisión de las operaciones así como del control del mantenimiento de las Unidades Aeronavales adscritas y de la capacitación de sus tripulaciones.
+
+Los Comandantes serán de la categoría de Capitán y estarán subordinados al Comandante de la Base Aeronaval o al Mando Naval según corresponda.
+
+###### Artículo 23.
+
+Las Unidades Operativas Aeronavales son las aeronaves de los diferentes tipos, destinadas a realizar las operaciones aeronavales que se requieran para el cumplimiento de la misión y atribuciones de la Armada de México, y se clasificarán de acuerdo con las características principales y el propósito que éstas tengan.
+
+###### Artículo 24.
+
+Las Brigadas Anfibias de Infantería de Marina son unidades del tipo brigada independiente constituida por cinco o más Batallones, reforzada por un Batallón de Artillería de Campaña, un Batallón de Asalto Anfibio, un Agrupamiento de Servicios y apoyos necesarios.
+
+Estarán adscritas a las Fuerzas Navales y su Comandante será de la categoría de Almirante.
+
+###### Artículo 25.
+
+Las Brigadas de Infantería de Marina son unidades del tipo regimental, están constituidas por dos o más Batallones de Infantería de Marina y un Agrupamiento de Servicios.
+
+Estarán adscritas a las Regiones Navales y al Cuartel General del Alto Mando y su Comandante será de la categoría de Almirante.
 
 ###### Artículo 2.
 
@@ -1155,7 +1621,41 @@ Para efectos de este Título se entiende por control sanitario el conjunto de ac
 
 33.- Los comerciantes que ejerzan su actividad en la vía pública están obligados a conservar las condiciones higiénicas que señalen las normas técnicas estatales.
 
-#### SECCION SEGUNDA. De las medidas de seguridad sanitaria
+#### SECCIÓN II. INSTALACIONES
+
+###### Artículo 26.
+
+Los Batallones de Infantería de Marina son las unidades tácticas básicas con que deben contar los Mandos de Región, Zona o Sector Naval, para el cumplimiento de la misión y atribuciones de la Armada de México.
+
+Dependerán operativamente del Mando Superior en Jefe o Mando Superior al que estén adscritos. Los Comandantes serán de la categoría de Almirante.
+
+###### Artículo 27.
+
+Las Compañías de Infantería de Marina son las unidades básicas de maniobra de un Batallón de Infantería de Marina, podrán ser independientes cuando dependan del Mando Naval al que estén adscritas.
+
+Su Comandante será de la categoría de Capitán.
+
+###### Artículo 28.
+
+La Unidad de Operaciones Especiales de la Armada de México, es una unidad tipo brigada independiente constituida por un agrupamiento de fuerzas especiales, dos batallones de comandos, un batallón de paracaidistas, un agrupamiento de servicios y apoyos necesarios.
+
+Esta unidad es la responsable del desarrollo de planes estratégicos para la defensa exterior y para coadyuvar con la seguridad interior del país.
+
+Su Comandante será de la categoría de Almirante y estarán subordinados directamente al Alto Mando.
+
+###### Artículo 29.
+
+La Unidad de Policía Naval es la unidad operativa especializada para efectuar operaciones de apoyo a las Instituciones de seguridad pública dentro del marco jurídico aplicable.
+
+Estará bajo su cargo la brigada de Policía Naval y asumirá el control administrativo del personal naval comisionado en la Guardia Nacional.
+
+El Jefe de la Unidad, será de la categoría de Almirante y dependerá orgánicamente del Alto Mando.
+
+###### Artículo 30.
+
+Las Unidades Navales de Protección Portuaria son las unidades operativas especializadas para llevar a cabo operaciones de protección portuaria, por sí o en apoyo a las autoridades competentes, de acuerdo con los ordenamientos jurídicos vigentes.
+
+Las unidades a que se refiere este artículo estarán subordinadas al Comandante de Fuerza, Región, Zona o Sector Naval que corresponda.
 
 ###### Artículo 2.
 
@@ -1207,7 +1707,63 @@ En caso de animales muertos abandonados el Instituto de Salud del Estado de Méx
 
 Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
-#### SECCION TERCERA. De las sanciones
+#### SECCIÓN III. MATERIAL
+
+###### Artículo 31.
+
+La Armada de México podrá contar con otras unidades operativas con preparación y adiestramiento especializado para realizar operaciones específicas para el cumplimiento de la misión y atribuciones de ésta.
+
+###### Artículo 32.
+
+Los establecimientos educativos navales tienen por objeto adiestrar, capacitar, formar y proporcionar estudios a nivel técnico, técnico- profesional, superior y posgrado al personal de la Armada de México y, en su caso, de los becarios en los términos del Plan General de Educación Naval.
+
+La Armada de México contará con los establecimientos educativos navales necesarios para preparar los recursos humanos que requiera, de acuerdo con los recursos financieros que le sean asignados.
+
+###### Artículo 33.
+
+Las instalaciones de la Armada de México, son todos aquellos bienes inmuebles, construidos y edificados para alojar y concentrar a los recursos humanos y materiales necesarios para el cumplimiento y desarrollo de sus atribuciones y funciones, así como terrenos, campos de tiro y de entrenamiento destinados para el adiestramiento del personal naval, siendo éstas las siguientes:
+
+I. Cuarteles Generales: Albergan las sedes de los Mandos, sus estados mayores, unidades operativas y áreas administrativas de Mandos de Regiones, Zonas, Sectores Navales, Unidades de Infantería de Marina y Bases Aeronavales;
+
+II. Estaciones Navales: Instalaciones fijas establecidas en lugares estratégicos de la competencia de las Regiones Navales para el apoyo de las operaciones;
+
+III. Establecimientos Educativos Navales: Escuelas, centros de estudios, institutos, centros de capacitación, de entrenamiento y la sede administrativa de la Universidad Naval;
+
+IV. Establecimientos de Sanidad: Centros hospitalarios, hospitales, sanatorios y clínicas;
+
+V. Establecimientos para Mantenimiento y Reparaciones: Infraestructura especializada y equipada para proporcionar mantenimiento a unidades, material y equipo de la Armada de México, así como para la construcción de buques, y
+
+VI. Cualquier otra infraestructura que se requiera construir en apoyo al cumplimiento de su misión y atribuciones.
+
+###### Artículo 34.
+
+El material podrá encontrarse en cualquiera de las situaciones siguientes:
+
+I. En activo aquel que está en condiciones operativas, determinadas por las disposiciones reglamentarias;
+
+II. En reserva aquel que puede ser activado para el servicio;
+
+III. En fabricación, construcción o modernización, el que está en este proceso para ser incorporado al servicio activo, y en modernización el material en proceso para recuperar o actualizar los estándares operativos, y
+
+IV. En trámite de baja, el material que no es susceptible de recuperarse.
+
+###### Artículo 35.
+
+El Alto Mando, cuenta con los siguientes órganos asesores, que le proporcionan elementos de juicio para la toma de decisiones:
+
+I. Estado Mayor General de la Armada;
+
+II. Consejo del Almirantazgo;
+
+III. Unidad de Inteligencia Naval, y
+
+IV. Los demás que se encuentren previstos en los ordenamientos respectivos, o los que a juicio del Alto Mando sean necesarios para el cumplimiento de la misión y atribuciones de la Armada de México.
+
+Asimismo, y para el cumplimiento de las atribuciones a que se refiere el artículo 2 de esta Ley, el Alto Mando se auxiliará con las personas titulares de la Subsecretaría, Oficialía Mayor, Inspección y Contraloría General de Marina, la Coordinación General de Puertos y Marina Mercante, Agregadurías Navales y demás servidores públicos, órganos y unidades que establecen los reglamentos respectivos.
+
+###### Artículo 36.
+
+El Estado Mayor General de la Armada es el órgano asesor operativo del Alto Mando responsable de la preparación, planeación, coordinación y supervisión de las operaciones navales que se establezcan, requeridas para el cumplimiento de la misión y atribuciones de la Armada de México.
 
 ###### Artículo 2.
 
@@ -1241,7 +1797,39 @@ Las autorizaciones sanitarias tendrán el carácter de licencias y permisos.
 
 45.- Los panteones y crematorios requieren de licencia sanitaria, que deben exhibir en un lugar visible. Cuando los crematorios cambien de ubicación, requerirán nueva licencia.
 
-#### SECCION PRIMERA. De las facultades de la Secretaría de Desarrollo Agropecuario
+#### SECCIÓN IV. ÓRGANOS ASESORES DEL ALTO MANDO
+
+###### Artículo 37.
+
+El Consejo del Almirantazgo es el órgano de análisis para la concertación, acuerdo y toma de decisiones sobre asuntos trascendentes para la Armada de México.
+
+Funcionará y se integrará en los términos que establece la presente Ley, de la manera siguiente:
+
+I. En su modalidad de reducido, se integrará por el Alto Mando de la Armada de México y las personas titulares de la Subsecretaría, Oficialía Mayor, Inspección y Contraloría General de Marina, Estado Mayor General de la Armada y de las Comandancias de las Fuerzas Navales del Golfo y Pacífico, las cuales conocerán de las inconformidades a las resoluciones emitidas por los órganos de disciplina y la Junta Naval;
+
+II. En su modalidad de ampliado, además de las personas servidoras públicas señaladas en el apartado anterior, por las Comandancias de las Regiones Navales.
+
+El Consejo de Almirantazgo tendrá las atribuciones siguientes:
+
+a) Asesorar al Alto Mando en asuntos de carácter estratégico;
+
+b) Proporcionar los elementos de juicio que sustenten la toma de decisiones en asuntos relacionados con el desarrollo del poder naval, y
+
+c) Proponer las políticas de la institución relacionadas con el ámbito marítimo que impacten en el desarrollo del país.
+
+El Consejo de Almirantazgo, en las modalidades a que se refiere el párrafo segundo de este artículo, será presidido por el Alto Mando.
+
+###### Artículo 38.
+
+La Unidad de Inteligencia Naval es el órgano asesor encargado de generar la información de inteligencia necesaria para la formulación de los Planes de Seguridad Nacional en los que participe la Armada de México.
+
+###### Artículo 39.
+
+Los órganos asesores del Alto Mando se organizarán y funcionarán de conformidad con los ordenamientos, reglamentos y manuales de organización respectivos.
+
+###### Artículo 40.
+
+Para sancionar las faltas graves en contra de la disciplina naval, la Armada de México contará con órganos de disciplina, los cuales en ningún caso y por ningún motivo podrán conocer de asuntos en los que esté involucrada una persona que no sea militar.
 
 ###### Artículo 2.
 
@@ -1409,9 +1997,169 @@ Impuesto el arresto, se comunicará la resolución a la autoridad correspondient
 
 ### CAPITULO CUARTO. De los profesionistas al servicio de la educación del Estado
 
-#### SECCION SEGUNDA. Del Instituto de Investigación y Capacitación Agropecuaria, Acuícola y Forestal del Estado de México
+#### SECCIÓN V. ÓRGANOS DE DISCIPLINA Y JUNTA NAVAL
+
+###### Artículo 41.
+
+Los órganos de disciplina son:
+
+I. La Junta de Almirantes;
+
+II. Los Consejos de Honor Superior;
+
+III. Los Consejos de Honor Ordinario, y
+
+IV. Los Consejos de Disciplina.
+
+Funcionarán y se organizarán con carácter permanente, conforme a las disposiciones legales y reglamentarias aplicables, cuyas resoluciones serán autónomas y de carácter obligatorio.
+
+###### Artículo 42.
+
+La Junta Naval es el órgano administrativo de carácter permanente integrado conforme a su reglamento. Será competente para conocer de la inconformidad que manifieste el personal naval respecto a:
+
+I. Situaciones escalafonarias;
+
+II. Antigüedad en el grado;
+
+III. Exclusión en el concurso de selección para ascenso;
+
+IV. Postergas;
+
+V. Adecuación de grado, y
+
+VI. Pase a la milicia permanente.
+
+La inconformidad a que se refiere este artículo, deberá interponerse por escrito ante la Junta Naval, dentro de los treinta días naturales siguientes a la fecha en que surta efectos la notificación.
+
+La resolución de la inconformidad deberá ser emitida en un término no mayor a noventa días naturales posteriores a aquel en que se interpuso la inconformidad.
+
+Las inconformidades se regularán conforme a las disposiciones reglamentarias respectivas.
 
 #### SECCION PRIMERA. Del Consejo Consultivo Económico Estatal
+
+###### Artículo 43.
+
+Las resoluciones emitidas por la Junta Naval serán autónomas, obligatorias y se regularán conforme a lo que establece su reglamento y la normatividad aplicable.
+
+###### Artículo 44.
+
+Los requisitos esenciales para causar alta en el servicio activo de la Armada de México son:
+
+I. Ser mexicano por nacimiento;
+
+II. No contar con otra nacionalidad;
+
+III. Estar en pleno goce y ejercicio de los derechos civiles y políticos;
+
+IV. No contar con antecedentes penales por delitos dolosos o intencionales, y
+
+V. Reunir los requisitos de edad, de aptitud física y académica, de conducta, así como encontrarse médica y clínicamente sano y apto para el servicio de las armas, en términos de las normas aplicables.
+
+###### Artículo 45.
+
+Se podrá causar alta en el servicio activo de la Armada de México conforme a lo siguiente:
+
+I. Por contrato de enganche voluntario para prestar servicios en la Armada de México, de acuerdo con las condiciones y términos establecidos en el mismo, y
+
+II. Por ingreso a los establecimientos educativos navales como cadete o alumno mediante contrato de enganche voluntario, de conformidad con los ordenamientos aplicables.
+
+###### Artículo 46.
+
+Para su clasificación el personal naval pertenece a:
+
+I. La Milicia Permanente, o
+
+II. La Milicia Auxiliar.
+
+###### Artículo 47.
+
+El personal de la milicia permanente se caracteriza por su estabilidad en el servicio.
+
+Pertenecerá a la milicia permanente:
+
+I. El egresado de las escuelas de formación a quien se le expida el despacho de Guardiamarina o Primer Maestre;
+
+II. El que habiendo causado alta como Marinero, obtenga por ascensos sucesivos el grado de Primer Maestre o equivalente y haya cumplido ininterrumpidamente cuatro años de servicio;
+
+III. Los que habiendo causado alta como Segundos o Terceros Maestres y obtengan por ascensos sucesivos el grado de Primer Maestre y hayan cumplido ininterrumpidamente cuatro años de servicio, y
+
+IV. Los que causen alta en la Armada de México como Oficiales de la milicia auxiliar o el personal de clases y marinería que por estudios realizados debidamente avalados por la Universidad Naval y con reconocimiento de validez oficial por la Secretaría de Educación Pública, obtengan la adecuación de grado que los ubique en la categoría de oficiales y reúnan, sin interrupción, cuatro años en los tiempos de servicio.
+
+Además de lo anterior, el pase de la milicia auxiliar a la milicia permanente, previa solicitud del interesado, estará sujeto al cumplimiento de los requisitos de conducta, edad, aptitud física y profesional, conforme al reglamento respectivo.
+
+###### Artículo 48.
+
+El personal de la milicia permanente, núcleo o escala de los diferentes servicios, podrá obtener los distintos grados conforme a los procedimientos establecidos en la Ley de Ascensos de la Armada de México o realizando estudios de acuerdo con las necesidades de las planillas orgánicas autorizadas y acordes a su profesión, por su cuenta y sin perjuicio del servicio, pudiendo obtener los grados de:
+
+I. Teniente de Corbeta, con estudios de licenciatura;
+
+II. Teniente de Fragata, con especialidad o maestría, y
+
+III. Teniente de Navío, con segunda especialidad afín o doctorado.
+
+Lo anterior estará sujeto a que dichos estudios resulten de utilidad a la Armada de México, a juicio del Alto Mando, y a que exista vacante.
+
+###### Artículo 49.
+
+El personal que pertenece a la milicia auxiliar prestará sus servicios por el tiempo que establezca su contrato y de acuerdo con lo estipulado en las cláusulas del mismo.
+
+Pertenecen a la milicia auxiliar:
+
+I. Los cadetes y alumnos de los establecimientos educativos navales;
+
+II. El personal de clases y marinería, y
+
+III. Los que ingresen a la Armada de México como oficiales, de acuerdo con su nivel de estudios y las necesidades de la institución, de conformidad con los ordenamientos aplicables.
+
+###### Artículo 50.
+
+El personal de la milicia auxiliar podrá ascender por adecuación de grado al haber realizado estudios por su cuenta acordes a su profesión sin perjuicio del servicio y que sean de utilidad para la Armada de México, siempre que sus estudios tengan reconocimiento de validez oficial por la Secretaría de Educación Pública, pudiendo obtener los grados de:
+
+I. Tercer Maestre, con estudios de nivel técnico profesional;
+
+II. Segundo Maestre, con estudios de nivel técnico profesional con especialidad;
+
+III. Primer Maestre, con estudios de nivel técnico superior universitario;
+
+IV. Teniente de Corbeta, con estudios de licenciatura;
+
+V. Teniente de Fragata, con especialidad o maestría, y
+
+VI. Teniente de Navío, con segunda especialidad afín o doctorado.
+
+La adecuación de grado estará sujeta a la consideración del Alto Mando, a que exista vacante y a la presentación de título o diploma y cédula profesional.
+
+###### Artículo 51.
+
+Se consideran becarios, aquellas personas de nacionalidad extranjera que se encuentran realizando estudios en los establecimientos educativos navales de la Armada de México.
+
+###### Artículo 52.
+
+Los becarios no serán considerados como personal de la Armada de México, pero quedan sujetos a la reglamentación interna de los establecimientos educativos navales.
+
+###### Artículo 53.
+
+El personal se agrupa en Cuerpos y Servicios en atención a su formación y funciones.
+
+A su vez, los Cuerpos y los Servicios están constituidos por núcleos y escalas. Los núcleos agrupan al personal profesional, y las escalas al técnico profesional y no profesional.
+
+###### Artículo 54.
+
+Los Cuerpos son los siguientes:
+
+I. Cuerpo General;
+
+II. Infantería de Marina;
+
+III. Aeronáutica Naval, y
+
+IV. Otros que sean necesarios a juicio del Alto Mando.
+
+Los núcleos de los Cuerpos señalados están constituidos por personal que haya concluido y aprobado satisfactoriamente sus estudios en la Heroica Escuela Naval Militar y por los cadetes de este establecimiento que finalicen y aprueben satisfactoriamente sus estudios en instituciones de educación superior en el extranjero, en los términos previstos en los ordenamientos aplicables.
+
+###### Artículo 55.
+
+Las escalas de los cuerpos técnico profesional están integradas por el personal que haya realizado estudios en los establecimientos educativos navales de nivel medio superior o técnico profesional, reconocidas por la Secretaría de Educación Pública y que obtengan el título y la cédula profesional de acuerdo con los ordenamientos aplicables.
 
 #### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
 
@@ -1443,7 +2191,7 @@ Impuesto el arresto, se comunicará la resolución a la autoridad correspondient
 
 ###### Artículo 3.
 
-1.- Este Libro tiene por objeto regular la educación que imparten el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, el ejercicio profesional y el mérito civil; así como promover e impulsar la investigación científica y tecnológica, la cultura, la educación ambiental, el deporte y la atención a la juventud.
+La Armada de México ejerce sus atribuciones por sí o conjuntamente con el Ejército y Fuerza Aérea Mexicanos, o en coadyuvancia con las dependencias del Ejecutivo Federal cuando así lo ordene el Mando Supremo, y podrá coordinarse con otros órganos de gobierno que así lo requieran, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella derivan y los tratados internacionales de los que el Estado Mexicano es parte.
 
 ###### Artículo 3.
 
@@ -2283,11 +3031,15 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 ###### Artículo 4.
 
-1.- El presente Libro tiene como objeto fijar las bases para planear, programar, ordenar, clasificar, normar, promover, fomentar y regular la actividad turística sustentable en el Estado.
+La Armada de México está integrada por:
 
-Para efectos de ese Libro, se entiende por turismo sustentable el desarrollo de la actividad turística mediante un proceso de cambio cualitativo basado en un equilibrio entre el aprovechamiento y la preservación del patrimonio natural y cultural, su viabilidad económica y la equidad social para las comunidades con dicha vocación.
+I. Recursos humanos, conformados por el personal naval que presta sus servicios en la Armada de México, así como los asignados o comisionados en la Secretaría de Marina y en otras Dependencias, que están sujetos a las leyes, reglamentos y demás disposiciones de orden naval y militar, las cuales serán aplicables en igualdad de oportunidades entre mujeres y hombres;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+II. Recursos materiales, constituidos por las unidades de superficie, aeronavales, de infantería de marina y otras unidades operativas, así como los bienes muebles e inmuebles requeridos por la Armada de México;
+
+III. Recursos financieros, aquellos asignados en el Presupuesto de Egresos de la Federación a la Secretaría de Marina, y
+
+IV. Recursos animales, constituidos por elementos de distintas especies animales, adiestradas para realizar tareas específicas en apoyo al cumplimiento de la misión y atribuciones.
 
 ###### Artículo 4.
 
@@ -2637,7 +3389,59 @@ La Secretaría, en el ejercicio de sus funciones, regulará mediante el Reglamen
 
 ###### Artículo 5.
 
-1.- Este Libro tiene por objeto fijar las bases para planear, ordenar, regular, controlar, vigilar y fomentar el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población en la entidad.
+La Armada de México, para el cumplimiento de su misión, ejercicio de sus atribuciones y desarrollo de sus operaciones navales, tendrá los siguientes niveles de Mando:
+
+I. Mando Supremo, ejercido por el Presidente de los Estados Unidos Mexicanos;
+
+II. Alto Mando, que lo ejerce el Secretario de Marina;
+
+III. Mandos Superiores en Jefe, los que desempeñan los titulares de:
+
+a) Fuerzas Navales;
+
+b) Regiones Navales, y
+
+c) Cuartel General del Alto Mando;
+
+IV. Mandos Superiores, los que desempeñan los titulares de:
+
+a) Zonas Navales, y
+
+b) Otros que nombre el Alto Mando, y
+
+V. Mandos Subordinados, los que ostentan los titulares de:
+
+a) Sectores Navales;
+
+b) Bases Aeronavales;
+
+c) Brigadas de Infantería de Marina;
+
+d) Brigadas Anfibias de Infantería de Marina;
+
+e) Unidades de Operaciones Especiales;
+
+f) Flotillas Navales;
+
+g) Escuadrones Aeronavales;
+
+h) Batallones de Infantería de Marina;
+
+i) Escuadrillas Navales;
+
+j) Unidades de Superficie;
+
+k) Unidades Aeronavales;
+
+l) Compañías de Infantería de Marina;
+
+m) Unidades Navales de Protección Portuaria;
+
+n) Estaciones Navales de Búsqueda, Rescate y Vigilancia Marítima, y
+
+o) Otros que designe el Alto Mando.
+
+Sin distinción de género los miembros de la Armada de México podrán acceder a todos los niveles de Mando.
 
 ###### Artículo 5.
 
@@ -3731,7 +4535,17 @@ La sección de peritos del Registro Estatal de Desarrollo Urbano, tendrá por ob
 
 ###### Artículo 6.
 
-1.- Este Libro tiene por objeto regular las acciones de protección civil en el Estado de México.
+Son facultades del Mando Supremo las siguientes:
+
+I. Disponer de la totalidad de los recursos que constituyen a la Armada de México en los términos del artículo 89, fracción VI, de la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Nombrar al Alto Mando;
+
+III. Nombrar a los Mandos Superiores en Jefe;
+
+IV. Permitir la salida del país de las unidades orgánicas operativas de la Armada de México, conforme al artículo 76, fracción III, de la Constitución Política de los Estados Unidos Mexicanos, y
+
+V. Las demás establecidas en esta Ley y disposiciones aplicables.
 
 ###### Artículo 6.
 
@@ -4123,9 +4937,27 @@ III. De cuatro mil uno a cinco mil días de salario mínimo general vigente del 
 
 ###### Artículo 7.
 
-1.- Este libro tiene por objeto regular las comunicaciones de jurisdicción local y el transporte.
+El Alto Mando es responsable ante el Mando Supremo del desempeño de las facultades siguientes:
 
-Las comunicaciones de jurisdicción local comprenden la infraestructura vial primaria y los sistemas de transporte masivo o de alta capacidad, incluyendo las estaciones de transferencia modal.
+I. Proponer, elaborar y conducir la política y estrategia naval;
+
+II. Operar y administrar el poder naval de la Federación;
+
+III. Participar en la formulación de la política y los planes de seguridad nacional;
+
+IV. Establecer, mediante Acuerdo publicado en el Diario Oficial de la Federación, lo siguiente:
+
+a) La creación, organización y despliegue marítimo, aéreo y territorial de las Regiones, Fuerzas, Zonas y Sectores Navales, que se requieran para el cumplimiento de las atribuciones de la Armada de México, y
+
+b) Las áreas de control naval de tráfico marítimo;
+
+V. Crear los establecimientos y unidades operativas necesarias para incrementar la eficiencia en la ejecución de las tareas de la Armada de México, con sujeción al presupuesto asignado;
+
+VI. Proponer al Mando Supremo la designación de los Mandos Superiores en Jefe y designar al Jefe del Estado Mayor General de la Armada, a los Mandos Superiores y Mandos Subordinados;
+
+VII. Presidir el Consejo del Almirantazgo, y
+
+VIII. Las demás que establecen las leyes, reglamentos, así como las que le encomiende el Mando Supremo.
 
 ###### Artículo 7.
 
@@ -5033,7 +5865,15 @@ Los titulares de la concesión o permiso serán responsables solidarios para el 
 
 ###### Artículo 8.
 
-1.- Este Libro tiene por objeto regular el tránsito de vehículos, personas y objetos que se realiza en la infraestructura vial primaria y local, así como el establecimiento de estacionamientos de servicio al público.
+Los Mandos se clasifican en:
+
+I. Titulares, los designados con este carácter por el Mando Supremo o Alto Mando y quienes lo ejerzan serán de la milicia permanente;
+
+II. Interinos, los designados con este carácter por el mando correspondiente, en tanto se nombra al titular y quienes lo ejerzan serán de la milicia permanente;
+
+III. Accidentales, los que se ejercen por ausencia temporal del titular o interino que le impida desempeñarlo, en caso de enfermedad, licencias, vacaciones, comisiones fuera de la plaza u otros motivos, y
+
+IV. Incidentales, los desempeñados en los casos imprevistos por ausencia momentánea del titular, interino o accidental, así como el que ejerce el Comandante más antiguo en reunión de fuerzas, unidades o personal naval, cuando no exista un Mando previamente designado.
 
 ###### Artículo 8.
 
@@ -5297,9 +6137,21 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 ###### Artículo 9.
 
-1.- Este Libro tiene por objeto regular el fomento y desarrollo de las actividades agropecuarias y acuícolas.
+En caso de ausencia temporal, el orden y sucesión de Mando, se sujetará a lo siguiente:
 
-> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
+I. El Alto Mando será suplido por el Subsecretario y, en ausencia de éste, por el Oficial Mayor o por el Almirante que designe el Alto Mando;
+
+II. Los Mandos Superiores en Jefe serán suplidos:
+
+a) En las Fuerzas Navales y Cuartel General del Alto Mando, por el Jefe del Estado Mayor, y
+
+b) En las Regiones Navales por el Comandante de Zona más antiguo de su jurisdicción;
+
+III. Los Mandos Superiores serán suplidos por su Jefe de Estado Mayor y en ausencia de éste por quien designe el Mando Superior en Jefe, y
+
+IV. Los Mandos Subordinados serán suplidos por los Jefes de Grupo de Comando, Segundos Comandantes o sus equivalentes. En ausencia de éstos, por quien designe el Mando Superior correspondiente.
+
+En los casos a que se refieren las fracciones II a la IV de este artículo, las ausencias de quien deba suplir a los titulares serán cubiertas por el personal naval con el perfil adecuado al Mando que se va a ejercer.
 
 ###### Artículo 9.
 
@@ -5551,9 +6403,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ###### Artículo 10.
 
-1.- Este Libro tiene por objeto regular el fomento de las actividades económicas.
+Las Fuerzas Navales están integradas por el personal naval, unidades de superficie, aeronavales y de Infantería de Marina, organizados para el cumplimiento de la misión y atribuciones asignadas a la Armada de México conforme a las disposiciones jurídicas aplicables.
 
-Para efectos de este Libro, se entiende por actividad económica toda aquella que tenga por objeto extraer, producir, transformar, industrializar o comercializar recursos, bienes o servicios; y, por empresa, toda persona física o moral que directa o indirectamente se dedique a una actividad económica.
+Los Comandantes serán de la categoría de Almirante y estarán subordinados directamente al Alto Mando.
 
 ###### Artículo 10.
 
@@ -5933,9 +6785,7 @@ IV. Exportación.
 
 ###### Artículo 11.
 
-1.- Este Libro tiene por objeto regular los servicios y las acciones a cargo del Estado en favor de las personas con capacidades diferentes.
-
-Para los efectos de este Libro, las personas con capacidades diferentes son aquellas que sufren una pérdida, alteración o disminución de un órgano o función física, sensorial o intelectual, que limita las actividades de la vida diaria e impide su desarrollo individual y social; y capacidad diferente es la limitación de una persona para realizar por sí misma actividades necesarias para su desempeño físico, mental, social, ocupacional y económico como consecuencia de una pérdida, alteración o disminución de un órgano o función física, sensorial o intelectual.
+Las fuerzas de tarea como unidades orgánicas operativas se constituyen en forma temporal, con los medios necesarios para cumplir una misión específica; el Mando de éstas será designado por el Alto Mando, Mando Superior en Jefe o Mando Superior, en el ámbito de competencia, según corresponda.
 
 ###### Artículo 11.
 
@@ -6339,25 +7189,11 @@ En caso de reincidencia, se podrá duplicar el monto de la multa y proceder a la
 
 ###### Artículo 12.
 
-1.- Este Libro tiene por objeto regular los actos relativos a la planeación, programación, presupuestación, adjudicación, contratación, ejecución y control de la obra pública, así como los servicios relacionados con la misma que, por sí o por conducto de terceros, realicen:
+Las Regiones Navales son áreas geoestratégicas, determinadas por el Mando Supremo, que agrupan a Zonas y Sectores Navales, unidades operativas, establecimientos y personal naval.
 
-I. Las secretarías y unidades administrativas del Poder Ejecutivo del Estado;
+Tienen a su cargo la propuesta, preparación y conducción de las operaciones navales para el cumplimiento de la misión y atribuciones asignadas a la Armada de México en su área jurisdiccional.
 
-II. La Procuraduría General de Justicia;
-
-III. Los ayuntamientos de los municipios del Estado;
-
-IV. Los organismos auxiliares y fideicomisos públicos del Estado y municipios;
-
-V. Los tribunales administrativos.
-
-Serán aplicables las disposiciones conducentes de este Libro, a los particulares que tengan el carácter de licitantes o contratistas.
-
-Los poderes Legislativo y Judicial, así como los organismos autónomos, aplicarán los procedimientos previstos en este Libro en todo lo que no se oponga a los ordenamientos legales que los regulan.
-
-No se regirán por las disposiciones de este Libro, la obra pública o servicios relacionados con la misma, derivados de convenios celebrados entre dependencias, entidades, instituciones públicas y ayuntamientos, entre sí o con los de otros estados o de la Federación, excepto cuando intervenga un particular con el carácter de licitante o contratista.
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+Los Comandantes serán de la categoría de Almirante y estarán subordinados directamente al Alto Mando.
 
 ###### Artículo 12.
 
@@ -7227,27 +8063,11 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 ###### Artículo 13.
 
-1.- Este Libro tiene por objeto regular los actos relativos a la planeación, programación, presupuestación, ejecución y control de la adquisición, enajenación y arrendamiento de bienes, y la contratación de servicios de cualquier naturaleza, que realicen:
+El Cuartel General del Alto Mando se integra con el personal naval, unidades operativas y establecimientos navales en el ámbito territorial que determine el Alto Mando.
 
-I. Las secretarías y las unidades administrativas del Poder Ejecutivo del Estado;
+Tiene a su cargo la propuesta, preparación y conducción de las operaciones navales para el cumplimiento de la misión y atribuciones que tiene asignadas, proporcionando seguridad y apoyo logístico a las unidades y establecimientos en su ámbito territorial de competencia.
 
-II. La Procuraduría General de Justicia;
-
-III. Los ayuntamientos de los municipios del Estado;
-
-IV. Los organismos auxiliares y fideicomisos públicos, de carácter estatal o municipal;
-
-V. Los tribunales administrativos.
-
-También serán aplicables las disposiciones de este Libro a los particulares que participen en los procedimientos, operaciones o contratos regulados en este Libro.
-
-Los poderes Legislativo y Judicial, así como los organismos autónomos, aplicarán las disposiciones de este Libro en lo que no se oponga a los ordenamientos legales que los regulan, sujetándose a sus propios órganos de control.
-
-No será aplicable lo dispuesto por este Libro en los actos objeto del mismo derivados de convenios celebrados entre dependencias, entidades y ayuntamientos, entre sí o con los de otros estados o de la Federación, excepto cuando sea parte un particular en los procedimientos o contratos respectivos.
-
-Tampoco serán aplicables las disposiciones de este Libro en los actos que realicen los fideicomisos públicos en los que el Gobierno del Estado no sea fideicomitente único.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+El Comandante del Cuartel General del Alto Mando será de la categoría de Almirante y estará subordinado directamente al Alto Mando.
 
 ###### Artículo 13.
 
@@ -8249,9 +9069,11 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 ###### Artículo 14.
 
-1.- Este Libro tiene por objeto, establecer las bases para la captación, generación, integración, organización y divulgación de la información e investigación geográfica, estadística y catastral en el Estado de México y establecer la estructura orgánica necesaria para el efecto.
+Las Zonas Navales son las áreas geográfico-marítimas determinadas por el Mando Supremo, que agrupan a Sectores Navales, unidades operativas, y establecimientos que se determinen.
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+Tienen a su cargo la propuesta, preparación, conducción y apoyo logístico de las operaciones navales en su área de responsabilidad.
+
+Los Comandantes serán de la categoría de Almirante, y estarán subordinados directamente al Comandante de la Región Naval correspondiente.
 
 ###### Artículo 14.
 
@@ -9079,9 +9901,11 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 ###### Artículo 15.
 
-1.- El presente Libro, tiene por objeto regular la organización, funcionamiento y publicaciones del Periódico Oficial del Gobierno del Estado de México.
+Los Sectores Navales son las subdivisiones geográfico-marítimas determinadas por el Alto Mando, que tienen bajo su mando unidades operativas y establecimientos que se determinen.
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+Tienen a su cargo la propuesta, preparación y conducción de las operaciones navales dentro de su jurisdicción. Asimismo, brindan apoyo logístico a las unidades adscritas, incorporadas y destacadas bajo su mando.
+
+Los Comandantes serán de la categoría de Almirante y estarán subordinados al Mando de la Región o Zona Naval que corresponda.
 
 ###### Artículo 15.
 
@@ -9335,25 +10159,7 @@ II. Por actos u omisiones que entorpezcan los procedimientos de edición, public
 
 ###### Artículo 16.
 
-1.- Este Libro tiene por objeto regular los actos relativos a la planeación, programación, presupuestación, autorización, adjudicación, contratación, ejecución y control de los proyectos que se lleven a cabo, en los términos de este Libro, bajo la modalidad de proyectos para prestación de servicios, así como los contratos que con ese carácter celebren, mancomunadamente o en lo individual:
-
-I. Las dependencias y organismos auxiliares de la administración pública;
-
-II. La Procuraduría General de Justicia; y
-
-III. Los ayuntamientos de los municipios del Estado, organismos auxiliares y fideicomisos públicos de los municipios, cuando los pagos a realizarse sean con cargo total o parcial a fondos estatales, conforme a los convenios que celebren con el Estado, en términos del reglamento de este Libro.
-
-También serán aplicables las disposiciones de este Libro a los particulares que participen en los procedimientos, actos o contratos regulados en este Libro.
-
-Los poderes Legislativo y Judicial, así como los organismos autónomos, aplicarán las disposiciones de este Libro, en lo que no se oponga a los ordenamientos legales que los regulan, sujetándose a sus propios órganos de control.
-
-No será aplicable lo dispuesto por este Libro en los actos objeto del mismo derivados de convenios celebrados entre dependencias, entidades y ayuntamientos, entre sí o con los de otros estados o de la Federación, excepto cuando sea parte un particular en los procedimientos o contratos respectivos.
-
-Tampoco serán aplicables las disposiciones de este Libro a contratos del sector público celebrados al amparo de cualquier otra ley o Libro de este Código que regule contrataciones gubernamentales.
-
-La Legislatura, a través de las Comisiones relacionadas con el contrato de prestación de servicios respectivo, hará el seguimiento permanente para verificar el cumplimiento de lo establecido en el Capítulo Sexto del Título Segundo, del presente Libro.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+Las unidades operativas son aquellas con capacidades marítimas, aéreas y terrestres, que contarán con el personal naval necesario de los Cuerpos y Servicios, mediante las cuales se materializan las atribuciones de la Armada de México.
 
 ###### Artículo 16.
 
@@ -10228,6 +11034,22 @@ T R A N S I T O R I O S
 ## TITULO OCTAVO. De la Instancia de Inconformidad
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+
+###### Artículo 17.
+
+La Flotilla Naval es una organización operativa compuesta por dos o más escuadrillas navales, las cuales tienen a su cargo la supervisión de las actividades de las unidades de superficie adscritas.
+
+Están integradas por personal naval y unidades de superficie de acuerdo con los requerimientos operativos. Los Comandantes serán de la categoría de Almirante del Cuerpo General y estarán subordinados al Comandante de Fuerza, Región, Zona o Sector Naval que corresponda.
+
+###### Artículo 18.
+
+La Escuadrilla Naval, es una organización operativa compuesta de dos a cuatro unidades de superficie del mismo tipo o clase que cumplen una misma misión.
+
+Están integradas por personal naval y unidades de superficie de acuerdo con los requerimientos operativos. Los Comandantes serán de la categoría de Capitán y estarán subordinados al Comandante de Fuerza, Región, Zona o Sector Naval que corresponda.
+
+###### Artículo 19.
+
+Las unidades de superficie adscritas a los Mandos Navales, son los buques de los diferentes tipos y clases, destinados a realizar las operaciones marítimas, ribereñas o lacustres que se requieran para el cumplimiento de la misión y atribuciones de la Armada de México.
 
 ###### ARTICULO PRIMERO.
 
