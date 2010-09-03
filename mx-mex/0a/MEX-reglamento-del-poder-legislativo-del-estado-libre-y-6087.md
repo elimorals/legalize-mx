@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2010-08-18"
+last_updated: "2010-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1307,7 +1307,9 @@ XII.- Establecer y operar un sistema integral de capacitación y desarrollo de p
 
 XIII.- Coordinar la elaboración y aplicación de programas de incentivos, calificación de méritos, evaluación del rendimiento y estímulos que propicien la superación de los servidores públicos;
 
-XIV.- Diseñar, instrumentar y operar un programa interno de seguridad e higiene en el trabajo que prevengan y protejan contra riesgos y siniestros al personal, instalaciones, bienes y acervos documentales del Poder Legislativo;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XIV.- Diseñar, Instrumentar y operar programas internos de Seguridad, Higiene y Protección Civil en el trabajo, que prevengan y protejan contra riesgos, siniestros o desastres al personal, instalaciones, bienes y acervos documentales del Poder Legislativo, causados por la presencia de agentes perturbadores;
 
 XV.- Administrar y garantizar la conservación y mantenimiento del patrimonio del Poder Legislativo;
 
@@ -1788,3 +1790,9 @@ G.G. 18 DE AGOSTO DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este decreto entrará en vigor al momento de ser aprobado por el Pleno de la Legislatura.
