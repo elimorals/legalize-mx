@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2010-08-31"
+last_updated: "2010-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -573,7 +573,7 @@ Todos los acuerdos de las sesiones públicas que no contengan información clasi
 
 Son atribuciones de los ayuntamientos:
 
-I. Expedir y reformar el Bando Municipal, así como los reglamentos, circulares y disposiciones administrativas de observancia general dentro del territorio del municipio, que sean necesarios para su organización, prestación de los servicios públicos y, en general, para el cumplimiento de sus atribuciones;
+I. Expedir y reformar el Bando Municipal, así como los reglamentos, circulares y disposiciones administrativas de observancia general dentro del territorio del municipio, que sean necesarios para su organización, prestación de.
 
 II. Celebrar convenios, cuando así fuese necesario, con las autoridades estatales competentes; en relación con la prestación de los servicios públicos a que se refiere el artículo 115, fracción III de la Constitución General, así como en lo referente a la administración de contribuciones fiscales;
 
@@ -624,6 +624,28 @@ Las remuneraciones de todo tipo del Presidente Municipal, Síndicos, Regidores y
 XX. Autorizar la contratación de empréstitos, en términos de la Ley de Deuda Pública Municipal del Estado de México;
 
 XXI. Formular, aprobar y ejecutar los planes de desarrollo municipal y los Programas correspondientes;
+
+(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 1 DE OCTUBRE DE 2010)
+
+XXI Bis. Promover políticas públicas apoyadas en sistemas de financiamiento, cooperación y coordinación, que procuren el acceso a las tecnologías de la información y comunicación, específicamente servicios de acceso a internet, como un servicio gratuito, considerando para ello las características socioeconómicas de la población.
+
+(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 1 DE OCTUBRE DE 2010)
+
+XXI Ter.- Promover, desarrollar, vigilar y evaluar en su municipio, los programas en materia de protección civil;
+
+Los programas de protección civil se integrarán con tres subprogramas:
+
+a). Prevención
+
+b). Auxilio
+
+c). Recuperación
+
+Con el objetivo de fomentar la educación, la prevención y los conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, presentándose para su registro ante la Secretaría General de Gobierno.
+
+> <small>(F. DE E., G.G. 1 DE OCTUBRE DE 2010)</small>
+
+XXI Quáter. Promover la creación, desarrollo y actualización permanente, de los atlas municipales de riesgos;
 
 XXII. Dotar de servicios públicos a los habitantes del municipio;
 
@@ -767,7 +789,9 @@ Los miembros del ayuntamiento necesitan licencia del mismo, para separarse tempo
 
 Las faltas de los integrantes del ayuntamiento podrán ser temporales o definitivas.
 
-Las faltas temporales que no excedan de quince días se harán del conocimiento del Ayuntamiento sin que se requiera acuerdo de cabildo para autorizarlas. Las faltas temporales que excedan de quince días serán otorgadas por el ayuntamiento cuando exista causa justificada. Se consideran causas justificadas para separarse del cargo las siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Las faltas temporales que no excedan de quince días naturales se harán del conocimiento del Ayuntamiento sin que se requiera acuerdo de cabildo para autorizarlas, hasta por tres ocasiones, durante su periodo constitucional. Las faltas temporales que excedan de quince días naturales serán aprobadas por el Ayuntamiento cuando exista causa justificada. Se consideran causas justificadas para separarse del cargo las siguientes:
 
 a) Para ocupar otro empleo, cargo o comisión en la administración pública municipal, estatal o federal o en organismos autónomos, desconcentrados o descentralizados de cualquiera de los tres niveles de gobierno.
 
@@ -796,6 +820,26 @@ Las faltas de los regidores no se cubrirán, cuando no excedan de quince días y
 > <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2008)</small>
 
 Para cubrir las faltas definitivas de los miembros de los ayuntamientos, serán llamados los suplentes respectivos. Si faltase también el suplente para cubrir la vacante que corresponda, la Legislatura, a propuesta del Ejecutivo, designará a los sustitutos.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Las faltas de los servidores públicos titulares de las dependencias y entidades de la administración pública municipal, que no excedan de quince días naturales, se cubrirán conforme se establezca en el reglamento municipal respectivo, o en su caso, con la designación que realice el servidor público que se deba ausentar. En cualquier caso la designación será con el carácter de encargado del despacho y con la aprobación del presidente municipal.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Las faltas temporales que excedan de quince días naturales pero no de sesenta, serán aprobadas por el ayuntamiento en sesión de Cabildo a propuesta del presidente municipal.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Si la falta temporal se convierte en definitiva, se procederá conforme lo dispone el artículo 31 fracción XVII de esta Ley.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Para desempeñarse como encargado de despacho, es necesario reunir los mismos requisitos señalados en el reglamento respectivo para ser titular de las dependencias del ayuntamiento.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Ninguna dependencia o entidad municipal podrá tener un encargado de despacho por un plazo que exceda de sesenta días naturales.
 
 ### CAPITULO SEXTO. De la Suspensión y Desaparición de Ayuntamientos de
 
@@ -865,13 +909,7 @@ IX. Realizar cualquier otro acto u omisión que afecte derechos o intereses de l
 
 Cuando el Ejecutivo del Estado tenga conocimiento de alguna o algunas de las situaciones previstas en los preceptos de este capítulo, solicitará de la Legislatura local la suspensión de los ayuntamientos, la declaración de que éstos han desaparecido y, en su caso, la suspensión o revocación del mandato de alguno de sus miembros; y dictará las medidas que procedan para asegurar la vigencia del orden jurídico, la paz y la tranquilidad sociales en el municipio que corresponda.
 
-## TITULO III
-
-De las Atribuciones de los Miembros del Ayuntamiento,
-
-sus Comisiones, Autoridades Auxiliares y Organos de
-
-Participación Ciudadana
+## TITULO III. De las Atribuciones de los Miembros del Ayuntamiento, sus Comisiones, Autoridades Auxiliares y Organos de Participación Ciudadana
 
 ### CAPITULO PRIMERO. De los Presidentes Municipales
 
@@ -906,6 +944,10 @@ X. Vigilar la correcta inversión de los fondos públicos;
 XI. Supervisar la administración, registro, control, uso, mantenimiento y conservación adecuados de los bienes del municipio;
 
 XII. Tener bajo su mando los cuerpos de seguridad pública, tránsito y bomberos municipales, en los términos del capítulo octavo, del título cuarto de esta Ley;
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XII bis. Vigilar y ejecutar los programas y subprogramas de protección civil y realizar las acciones encaminadas a optimizar los programas tendientes a prevenir el impacto de los fenómenos perturbadores;
 
 XIII. Vigilar que se integren y funcionen en forma legal las dependencias, unidades administrativas y organismos desconcentrados o descentralizados y fideicomisos que formen parte de la estructura administrativa;
 
@@ -1058,6 +1100,10 @@ c). Auxiliar al secretario del ayuntamiento con la información que requiera par
 d). Informar anualmente a sus representados y al ayuntamiento, sobre la administración de los recursos que en su caso tenga encomendados, y del estado que guardan los asuntos a su cargo;
 
 e). Elaborar los programas de trabajo para las delegaciones y subdelegaciones, con la asesoría del ayuntamiento;
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+f). vigilar el estado de los canales, vasos colectores, barrancas, canales alcantarillados y demás desagües e informar al ayuntamiento para la realización de acciones correctivas.
 
 II. Corresponde a los jefes de sector o de sección y de manzana:
 
@@ -1259,17 +1305,25 @@ Para satisfacer las necesidades colectivas, los ayuntamientos podrán solicitar 
 
 ### CAPITULO SEXTO. De los Consejos Municipales de Protección Civil
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 81.
 
-Cada ayuntamiento constituirá un consejo municipal de protección civil, que encabezará el presidente municipal, con funciones de órgano de consulta y participación de los sectores público, social y privado para la prevención y adopción de acuerdos, ejecución de acciones y en general, de todas las actividades necesarias para la atención inmediata y eficaz de los asuntos relacionados con situaciones de emergencia, desastre, o calamidad pública que afecten a la población.
+Cada Ayuntamiento constituirá un consejo municipal de protección civil que encabezará el presidente municipal, con funciones de órgano de consulta y participación de los sectores público, social y privado para la adopción de acuerdos, ejecución de acciones y en general, de todas las actividades necesarias para la atención inmediata y eficaz de los asuntos relacionados con situaciones de emergencia, desastre, o calamidad pública que afecten a la población, fundamentalmente enfocadas a prevenir, sin descuidar aquellas referidas al auxilio y recuperación.
 
 Son atribuciones de los Consejos Municipales de Protección Civil:
 
-I. Identificar en un Atlas de Riesgos Municipal, que deberá publicarse en la Gaceta Municipal durante el primer año de gestión de cada ayuntamiento, sitios que por sus características específicas puedan ser escenarios de situaciones de emergencia, desastre o calamidad públicas;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-II. Formular, en coordinación con las autoridades estatales de la materia, planes operativos para prevenir riesgos, auxiliar y proteger a la población y reestablecer la normalidad, con la oportunidad y eficacia debidas, en caso de desastre;
+I. Identificar en un Atlas de Riesgos Municipal, que deberá actualizarse permanentemente publicarse en la Gaceta Municipal durante el primer año de gestión de cada ayuntamiento, sitios que por sus características específicas puedan ser escenarios de situaciones de emergencia, desastre o calamidad públicas;
 
-III. Definir y poner en práctica los instrumentos de concertación que se requieran entre los sectores del municipio, con otros municipios y el Gobierno del Estado, con la finalidad de coordinar acciones y recursos para la mejor ejecución de los planes operativos;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+II. Formular, en coordinación con las autoridades estatales de la materia, planes operativos para fomentar la cultura de la prevención, detección de riesgos, auxilio, protección a la población, reestablecimiento a la normalidad y conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, con la oportunidad y eficacia debidas;
+
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+III. Definir y poner en práctica los instrumentos de concertación que se requieran entre los sectores del municipio, con otros municipios y el Gobierno del Estado, con la finalidad de coordinar acciones y recursos para la mejor ejecución de los programas y planes operativos;
 
 IV. Coordinar sus acciones con los sistemas nacional y estatal de protección civil;
 
@@ -1300,6 +1354,10 @@ V. Gestionar la expedición de reglamentos o disposiciones administrativas que r
 VI. Comparecer ante el cabildo cuando éste lo solicite, o cuando la comisión lo estime conveniente;
 
 VII. Proponer, previo estudio, a las autoridades municipales, la realización de obras o la creación de nuevos servicios públicos o el mejoramiento a los ya existentes mediante el sistema de cooperación y en su oportunidad promover la misma;
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VII bis. Proponer a las autoridades municipales la ejecución de acciones encaminadas a mejorar los programas y subprogramas de protección civil establecidos en la presente Ley;
 
 VIII. Desahogar las consultas que en materia de creación y establecimiento de nuevos asentamientos humanos dentro del municipio, les turne el ayuntamiento;
 
@@ -2776,3 +2834,29 @@ SEXTO.- El acceso directo a la educación media superior y/o superior, estableci
 SÉPTIMO.- Lo previsto en los artículos 9 fracción IV párrafo segundo y 31 fracción XII, se realizará con estricto apego al principio constitucional de autonomía universitaria, y conforme a las disposiciones legales y reglamentarias aplicables de la Universidad Autónoma del Estado de México.
 
 OCTAVO.- Se derogan las disposiciones de igualo menor rango que se opongan a la presente Ley.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 137, POR EL QUE SE REFORMA EL PARRAFO TERCERO DEL ARTICULO 40 Y SE ADICIONAN LOS PARRAFOS QUINTO, SEXTO, SEPTIMO, OCTAVO Y NOVENO AL ARTICULO 41 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 140, POR EL QUE SE ADICIONA UNA FRACCION XXI BIS AL ARTICULO 31 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Para el cumplimiento del presente Decreto, se implementarán de manera gradual las partidas presupuestarias, así como los programas y proyectos, a partir del ejercicio fiscal 2011.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 143, POR EL QUE SE ADICIONAN LAS FRACCIONES XXI BIS Y XXI TER AL ARTICULO 31, LA FRACCION XII BIS AL ARTICULO 48, EL INCISO F) A LA FRACCION I DEL ARTICULO 57, LA FRACCION VII BIS AL ARTICULO 83. SE REFORMA EL PRIMER PARRAFO Y LAS FRACCIONES I, II Y III DEL ARTICULO 81 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
