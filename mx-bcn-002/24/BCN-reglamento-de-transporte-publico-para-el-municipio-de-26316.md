@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-26316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-30"
-last_updated: "2010-07-30"
+last_updated: "2010-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PUBLICO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de agosto de 2002.
 
@@ -121,7 +121,9 @@ XXIV.- Tarifa Diferencial.- Aquella que se aplica en función del tipo o categor
 
 XXV.- Tarifa Promocional.- Aquella que implica una disminución en el precio establecido del servicio, con el propósito de fomentar y atraer una mayor demanda, y a la vez apoyar la economía del usuario.
 
-XXVI.- Tarifa Preferencial.- Aquella que implica un cincuenta por ciento de descuento en el servicio de transporte colectivo, aplicable a los estudiantes, adultos mayores de sesenta años y personas con discapacidad, en los términos y condiciones que dicte el Sistema.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XXVI.- Tarifa Preferencial.- Será la aplicable a estudiantes, adultos mayores de sesenta años, y personas con discapacidad, en los términos del presente Reglamento, equivalente al cincuenta por ciento de la autorizada.
 
 XXVII.- Horario.- Lapso de tiempo dentro del cual se deberá dar inicio y término a la prestación del servicio público de transporte de pasajeros.
 
@@ -2955,11 +2957,21 @@ El Sistema establecerá los mecanismos para el cobro de las tarifas, incorporand
 
 Las tarifas del servicio de transporte público de pasajeros, se aplicarán uniformemente a todos los usuarios, a excepción de los niños menores de tres años, quienes viajarán sin costo alguno.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 267.
 
-Los estudiantes, personas con capacidades diferentes y los adultos mayores de sesenta años, tendrán derecho a que se les otorgue exenciones y tarifas del 50% de descuento, según sea el caso, en el transporte colectivo de pasajeros, previa identificación vigente expedida por cada empresa concesionaria, salvo el caso de personas de la tercera edad, quienes podrán tener derecho a la tarifa preferencial con solo presentar su credencial del Instituto Nacional del Adulto en Plenitud (INAPLEN).
+La tarifa preferencial del transporte colectivo de pasajeros será del cincuenta por ciento de la autorizada, y se aplicara a:
 
-Los beneficios a que se refiere el presente artículo, no serán aplicables a familiares o acompañantes del beneficiario. Las personas con discapacidad visual que se desplacen acompañados de perros guías, tendrán acceso con estos a todos los servicios de transporte de pasajeros, previo permiso que otorgue el Sistema el cual no tendrá costo alguno.
+I.- Estudiantes que exhiban credencial vigente de alguna institución educativa que forme parte del Sistema Educativo Estatal;
+
+II.- Personas mayores de sesenta años que exhiban credencial del Instituto Nacional de las Personas Adultas Mayores; y,
+
+III.- Personas con discapacidad que exhiban credencial vigente expedida por Servicios Médicos Municipales.
+
+La tarifa preferencial a que se refiere este artículo, no será aplicable a familiares o acompañantes del beneficiario.
+
+Las personas con discapacidad visual que se desplacen acompañados de perros guías, tendrán acceso con estos a todos los servicios de transporte de pasajeros.
 
 ###### ARTÍCULO 268.
 
@@ -3616,3 +3628,7 @@ P.O. 27 DE MARZO DE 2009.
 P.O. 30 DE JULIO DE 2010.
 
 Único.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 3 DE SEPTIEMBRE DE 2010.
+
+Único.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California
