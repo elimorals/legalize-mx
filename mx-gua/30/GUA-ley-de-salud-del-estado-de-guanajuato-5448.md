@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2007-06-15"
+last_updated: "2010-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -1105,9 +1105,11 @@ III.- Orientar y capacitar a la población preferentemente en materia de nutrici
 
 La Secretaría de Salud, en coordinación con las autoridades federales, estatales y municipales competentes, formulará, propondrá, desarrollará y evaluará los programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON EL ARTICULO CUARTO TRANSITORIO, LA SECRETARIA DE SALUD DEL ESTADO DE GUANAJUATO EN EL AMBITO DE SU COMPETENCIA, DEBERA PROVEER LO CONDUCENTE, PARA QUE A PARTIR DEL 1° PRIMERO DE ENERO DE 2011 DOS MIL ONCE, SE APLIQUEN LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE DECRETO.</small>
 
-La Secretaría de Salud formulará un programa para la salud destinado a la población escolar de los niveles preescolar, primaria y secundaria, a efecto de combatir la obesidad y el sobrepeso, el cual incluirá entre otras acciones, la medición de la masa corporal, el fomento de una dieta correcta y el fortalecimiento de una activación física. Para efecto de su ejecución, la Secretaría de Salud se coordinará con las autoridades federales, estatales y municipales que resulten competentes.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+La Secretaría de Salud formulará un programa para la salud destinado a la población escolar de los niveles de educación básica, a efecto de combatir la obesidad y el sobrepeso, el cual incluirá entre otras acciones, la medición de la masa corporal, el fomento de una dieta correcta, regular la venta de alimentos no saludables y el fortalecimiento de una adecuada activación física. Para efecto de su ejecución, la Secretaría de Salud se coordinará con las autoridades federales, estatales y municipales que resulten competentes.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
@@ -1133,13 +1135,21 @@ I.- Operar un sistema permanente de vigilancia epidemiológica de la nutrición 
 
 II.- Coordinar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimenticios adecuados, preferentemente en los grupos sociales más vulnerables;
 
-> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON EL ARTICULO CUARTO TRANSITORIO, LA SECRETARIA DE SALUD DEL ESTADO DE GUANAJUATO EN EL AMBITO DE SU COMPETENCIA, DEBERA PROVEER LO CONDUCENTE, PARA QUE A PARTIR DEL 1° PRIMERO DE ENERO DE 2011 DOS MIL ONCE, SE APLIQUEN LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE DECRETO.</small>
 
-III.- Observar y recomendar, en coordinación con la Secretaría de Educación, que los alimentos y bebidas que se expendan en las escuelas de nivel preescolar, primaria y secundaria, posean el valor nutricional que coadyuve a una dieta correcta;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Realizar las investigaciones necesarias para determinar qué alimentos y bebidas cumplen con los estándares de nutrición y será la responsable de publicar un listado de alimentos que se podrán vender al interior de las escuelas de educación básica en coordinación con la Secretaria de Educación del Estado de Guanajuato. Dicha lista se publicará en el mes de diciembre de cada año; solamente aquellos productos contenidos en dicha lista serán los únicos que se podrán comercializar al interior de los planteles educativos de educación básica;
 
 IV.- Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población y establecer las necesidades mínimas de nutrimentos, para el mantenimiento de las buenas condiciones de salud de la población; y
 
 V.- Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mismos de nutrimientos para la población en general y proveer en la esfera de su competencia a dicho consumo.
+
+> <small>N. DE E. EN RELACION CON EL ARTICULO CUARTO TRANSITORIO, LA SECRETARIA DE SALUD DEL ESTADO DE GUANAJUATO EN EL AMBITO DE SU COMPETENCIA, DEBERA PROVEER LO CONDUCENTE, PARA QUE A PARTIR DEL 1° PRIMERO DE ENERO DE 2011 DOS MIL ONCE, SE APLIQUEN LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE DECRETO.</small>
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VI.- En coordinación con la Secretaria de Educación del Estado de Guanajuato impartirá, en los meses de enero y septiembre de cada año, pláticas o cursos de capacitación dirigidos a los padres de familia sobre la preparación adecuada de alimentos balanceados y con mayores contenidos nutrimentales, por personal capacitado de la Secretaria de Salud y con la especialidad correspondiente, con la finalidad de implementar hábitos, prácticas y una cultura de alimentación sana, en beneficio de los educandos.
 
 ### CAPITULO VI. Fomento Sanitario
 
@@ -3052,3 +3062,13 @@ Artículo Único.- El presente Decreto entrará en vigor al cuarto día siguient
 P.O. 15 DE JUNIO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2010.
+
+Artículo Primero. El presente Decreto entrará en vigor al cuarto día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guanajuato.
+
+Artículo Segundo. Dentro de los noventa días siguientes a la entrada en vigor del presente decreto, la Secretaría de Educación del Estado de Guanajuato, en coordinación con la Secretaria de Salud del Estado, emitirán los lineamientos normativos relativos al tipo de productos que se puedan comercializar en las cooperativas escolares o cualesquiera otra denominación que se otorgue, a fin de controlar el valor nutrimental de los productos que ahí se ofrezcan, mismos que estarán contenidos en el listado que al efecto emita la Secretaría de Salud del Estado de Guanajuato.
+
+Artículo Tercero. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Cuarto. La Secretaría de Educación del Estado de Guanajuato y la Secretaría de Salud de Guanajuato, en el ámbito de su competencia, deberán proveer lo conducente, para que a partir del 1° primero de enero de 2011 dos mil once, se apliquen las disposiciones contenidas en el presente Decreto.
