@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-406
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-08-13"
-last_updated: "2009-12-01"
+last_updated: "2010-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO -- ANTES LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO --
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de agosto del 2004.
 
@@ -157,7 +157,7 @@ Acto continuo, se procederá a elegir a un segundo vicepresidente, quien ejercer
 
 La elección de la Mesa Directiva se comunicará al Gobernador del Estado, al Presidente del Supremo Tribunal de Justicia, a la Cámara de Diputados del Congreso de la Unión, al Senado de la República, al Presidente de la República, al Presidente de la Suprema Corte de Justicia de la Nación, a los órganos legislativos de los Estados y del Distrito Federal, y a los Ayuntamientos del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 14.
 
@@ -215,7 +215,7 @@ Los diputados asistirán con voz y voto a las sesiones del Pleno del Congreso. L
 
 Se entiende que los diputados que falten a más de tres sesiones consecutivas, sin causa justificada o sin previo aviso a la presidencia, renuncian a concurrir a sesiones hasta el periodo inmediato siguiente, llamándose desde luego a los suplentes. Los diputados solamente podrán dejar de concurrir a las sesiones y reuniones de Comisión, por causas justificadas en los términos de esta Ley.
 
-> <small>(DEROGADO TERCER PARRAFO [N. DE E. CUARTO PARRAFO], P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(DEROGADO TERCER PÁRRAFO [N. DE E. CUARTO PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 Los diputados que no formen parte de la Diputación Permanente podrán asistir a la sesión, así como a las comisiones de las que no sean miembros, con voz pero sin voto.
 
@@ -243,7 +243,7 @@ Los diputados en funciones tendrán el derecho a percibir la dieta que se determ
 
 Asimismo, los diputados, conforme a las previsiones que se contengan en la Ley del Presupuesto General de Egresos del Estado de Guanajuato y de acuerdo a las disposiciones que emita la Comisión de Administración, tendrán derecho a que se les sufraguen los gastos médicos por enfermedad de ellos mismos, de su cónyuge, concubina o concubinario y de sus hijos dependientes económicamente.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 1 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2009)</small>
 
 > <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -459,7 +459,7 @@ El Presidente al dirigir las sesiones velará por el equilibrio entre las libert
 
 El Presidente responderá sólo ante el Pleno cuando en el ejercicio de sus atribuciones se aparte de las disposiciones que las rigen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 46.
 
@@ -745,7 +745,7 @@ Para que pueda proponerse la remoción o dispensa, temporal o definitiva, de un 
 
 #### Sección Segunda. De las Reuniones de Trabajo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 66.
 
@@ -949,9 +949,9 @@ IV. Asuntos Municipales;
 
 V. Atención al Migrante;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-VI. Derechos Humanos;
+VI. Derechos Humanos y Atención a Grupos Vulnerables;
 
 > <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
 
@@ -1127,11 +1127,19 @@ IV.- La relación con la Procuraduría de los Derechos Humanos del Estado y los 
 
 V.- Los que se refieran a la protección, desarrollo e integración social de las etnias;
 
-VI.- Los que se relacionen con el tutelaje y protección de los derechos de los grupos vulnerables; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-VII.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
+VI.- Los que se relacionen con la protección de los derechos de las personas en circunstancias de vulnerabilidad o grupos vulnerables;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VII.- La promoción de una cultura de respeto y equiparación de oportunidades para las personas que se encuentran en situación de vulnerabilidad; y
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VIII.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 90.
 
@@ -1191,9 +1199,15 @@ III.- Proponer medidas legislativas para el cumplimiento de los acuerdos, conven
 
 IV.- Los que se relacionen con la discriminación o maltrato por razones de sexo, raza, edad, credo político o religioso, y situación socioeconómica, así como los que se refieran al reconocimiento de condiciones equitativas e igualdad de oportunidades de acceso al desarrollo para las personas;
 
-V.- Proponer que las autoridades competentes lleven a cabo acciones impulsando una cultura de equidad de género; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-VI.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
+V.- Proponer que las autoridades competentes lleven a cabo acciones impulsando una cultura de equidad de género;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VI.- Emitir opinión, en el proceso de dictaminación de las otras comisiones cuando el asunto o iniciativa en análisis tenga relación con la equidad de género. Dicha opinión no será vinculante; y
+
+VII. Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
 
 ###### Artículo 94.
 
@@ -1777,7 +1791,7 @@ Los dictámenes deberán contener una exposición clara y precisa del asunto a q
 
 Las comisiones podrán recabar de todas las oficinas públicas estatales la información que se estime necesaria, previa solicitud. Esta deberá ser por escrito o mediante la comparecencia de sus titulares, con autorización del Ejecutivo del Estado, en el recinto oficial del Congreso, ante las comisiones o la Asamblea.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 151.
 
@@ -2865,7 +2879,7 @@ MA. EUGENIA ROJAS NAVARRETE.
 
 Diputada Secretaria.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE OCTUBRE DE 2007.
 
@@ -2886,3 +2900,7 @@ Artículo Segundo. Se abroga el acuerdo del Pleno del Congreso del Estado, relat
 P.O. 1 DE DICIEMBRE DE 2009.
 
 Artículo Único.- El presente Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato. Las disposiciones que contravengan el presente Decreto quedarán sin efecto.
+
+P.O. 3 DE SEPTIEMBRE DE 2010.
+
+Artículo Único. El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
