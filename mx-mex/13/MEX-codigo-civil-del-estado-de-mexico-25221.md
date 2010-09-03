@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2010-03-06"
+last_updated: "2010-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO CIVIL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -787,7 +787,9 @@ IV. La lectura de la solicitud y los documentos relacionados;
 
 V. El Titular u oficial del Registro Civil, procederá a interrogar a los testigos si los pretendientes son las mismas personas a que se refiere la solicitud y si existe algún impedimento legal;
 
-VI. En caso de no existir impedimento, preguntará a cada uno de los contrayentes si es su voluntad unirse en matrimonio; estando conformes los declarará unidos en nombre de la ley y la sociedad, asentándose el acta correspondiente.
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VI. En caso de no existir impedimento, hará saber a los contrayentes los derechos y obligaciones del matrimonio y preguntará a cada uno de ellos si es su voluntad unirse en matrimonio; estando conformes los declarará unidos en nombre de la Ley y la sociedad, asentándose el acta correspondiente.
 
 Irrenunciables los fines del matrimonio
 
@@ -1153,7 +1155,7 @@ Inventario por terminación de la sociedad
 
 42.- Terminada la sociedad se procederá a su liquidación, formándose el inventario, excluyéndose los objetos de uso personal de los cónyuges.
 
-Liquidación de la sociedad
+Liquidación de la sociedad conyugal
 
 > <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
@@ -17118,3 +17120,9 @@ El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotep
 QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
