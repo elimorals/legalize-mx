@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2009-03-24"
+last_updated: "2010-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -417,9 +417,21 @@ XXII. Abstener de cualquier acto u omisión que implique incumplimiento de cualq
 
 XXIII. Abstener de impedir, por sí o por interpósita persona, utilizando cualquier medio, la formulación de quejas y denuncias; o que con motivo de las mismas, realice cualquier conducta injusta u omita una justa y debida, que lesione los intereses de los quejosos o denunciantes; y
 
-> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-XXIV. Proporcionar en forma oportuna y veraz, la información y datos solicitados por la Institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, a efecto de que ésta pueda cumplir con sus atribuciones.
+XXIV. En materia de derechos humanos:
+
+a) Implementar las medidas precautorias o cautelares que hayan sido aceptadas, a petición de la Comisión de Derechos Humanos, y abstenerse de negarlas a sabiendas de que existen los hechos que las motivan;
+
+b) Proporcionar en forma oportuna y veraz, la información y datos que requieran tanto la Comisión de Derechos Humanos como los Defensores Municipales de Derechos Humanos;
+
+c) Permitir a su personal el acceso incondicionado, inmediato e irrestricto a los espacios físicos, información y personas que requieran tanto la Comisión de Derechos Humanos como los Defensores Municipales de Derechos Humanos, para practicar sus actuaciones, salvo en los casos que por disposición expresa de la ley no sea posible;
+
+d) Cumplir en sus términos las mediaciones y conciliaciones que hayan sido aceptadas, de conformidad con los procedimientos sustanciados por la Comisión de Derechos Humanos o los Defensores Municipales de Derechos Humanos;
+
+e) Cumplir en sus términos las recomendaciones de la Comisión de Derechos Humanos que hayan sido aceptadas; y
+
+f) Observar las disposiciones relacionadas con el procedimiento de designación de los Defensores Municipales de Derechos Humanos.
 
 > <small>(ADICIONADA, P.O. 5 DE ENERO DE 1994)</small>
 
@@ -1198,3 +1210,9 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
