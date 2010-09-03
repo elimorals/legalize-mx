@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2009-06-12"
+last_updated: "2010-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -1871,9 +1871,11 @@ Para recibir el beneficio, el infractor deberá solicitarlo ante el Juez Calific
 
 Las infracciones cometidas por peatones, ciclistas, conductores de vehículos de tracción animal o de propulsión humana, serán sancionadas con amonestación, consistiendo en una advertencia y un exhorto para que observen las disposiciones de este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 146.
 
-Las infracciones previstas del numeral 343 al 359 de la Tabla de Sanciones Pecuniarias del artículo siguiente, se consideran infracciones objetivas, en virtud de que dependen de las condiciones del vehículo, al referirse a fallas mecánicas o carencias de equipo o accesorios.
+Las infracciones previstas del numeral 343 al 359 B de la Tabla de Sanciones Pecuniarias del Artículo siguiente, se consideran infracciones objetivas, en virtud de que dependen de las condiciones del vehículo, al referirse a fallas mecánicas o carencias de equipo o accesorios.
 
 En estos casos, se entenderá que el infractor es sancionado con un apercibimiento, por lo que tendrá la oportunidad de solventar la infracción y evitar el pago de la multa, para lo cual deberá reparar la falla mecánica o reponer la falta de accesorios, y comparecer con el vehículo ante el juez calificador en un plazo máximo de quince días naturales a partir del día en que se levante la infracción, quien la cancelará una vez que constate que la falla fue reparada, entregando un comprobante al infractor con el que podrá recoger el documento retenido como garantía sin cargo alguno.
 
@@ -1891,7 +1893,7 @@ Al conductor o pasajero que contravenga las disposiciones del presente Reglament
 
 > <small>N. DE E. VEASE TABLA DE SANCIONES EN EL P.O. DE 14 DE DICIEMBRE DE 2001, PAGINAS DE LA 96 A LA 106.</small>
 
-> <small>N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PAGINAS DE LA 24 A LA 25, REPUBLICADO, P.O. 7 DE MARZO DE 2003, PAGINAS DE LA 45 A LA 46, P.O. 11 DE MARZO DE 2005, PAGINA 57, P.O. 17 DE OCTUBRE DE 2008, PAGINAS DE LA 41 A LA 42.</small>
+> <small>N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PAGINAS DE LA 24 A LA 25, REPUBLICADO, P.O. 7 DE MARZO DE 2003, PAGINAS DE LA 45 A LA 46, P.O. 11 DE MARZO DE 2005, PAGINA 57, P.O. 17 DE OCTUBRE DE 2008, PAGINAS DE LA 41 A LA 42, P.O. 3 DE SEPTIEMBRE DE 2010, PAGINA 34.</small>
 
 ###### ARTÍCULO 148.
 
@@ -2012,3 +2014,7 @@ Artículo Único.- El presente Acuerdo entrará en vigor a los sesenta días de 
 P.O. 12 DE JUNIO DE 2009.
 
 ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 3 DE SEPTIEMBRE DE 2010.
+
+Único.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
