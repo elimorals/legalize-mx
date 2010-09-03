@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-deporte-y-cultura-fisica-para-el-estado-de-guanajuato-51
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-18"
-last_updated: "2006-08-18"
+last_updated: "2010-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE DEPORTE Y CULTURA FISICA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 3 DE SEPTIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de agosto de 2006.
 
@@ -926,3 +928,61 @@ JUAN CARLOS ROMERO HICKS
 EL SECRETARIO DE GOBIERNO
 
 SAMUEL ALCOCER FLORES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 de septiembre de 2010.
+
+Entrada en vigor de la Ley
+
+Artículo Primero. La presente Ley entrará en vigor el uno de enero de dos mil once, previa a (sic) su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de la Ley de Deporte y Cultura Física
+
+Artículo Segundo. Se abroga la Ley de Deporte y Cultura Física para el Estado de Guanajuato, contenida en el decreto número 288, expedida por la Quincuagésimo Novena Legislatura, publicado en el Periódico Oficial del Gobierno del Estado, número 132, tercera parte, de fecha 18 de agosto de 2006, con las salvedades que se establecen en los artículos siguientes.
+
+Derogación de disposiciones que se opongan a la presente Ley
+
+Artículo Tercero. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+Término para expedir la reglamentación del Ejecutivo
+
+Artículo Cuarto. El Titular del Poder Ejecutivo del Estado realizará las acciones conducentes, para efecto de que a la entrada en vigencia de la presente Ley estén publicados los reglamentos a que se refiere esta Ley, y que deberá expedir para el cumplimiento de la misma.
+
+Término para expedir la reglamentación de los municipios
+
+Artículo Quinto. Los ayuntamientos, en el ámbito de sus respectivas competencias, emitirán y en su caso, adecuarán los reglamentos a que se refiere esta Ley, y estos deberán estar publicados a la entrada en vigor de la misma.
+
+Plazo para implementación del Registro Estatal
+
+Artículo Sexto. La Comisión implementará y pondrá en operación el Registro Estatal de Cultura Física y Deporte en un plazo de treinta días a partir de la entrada en vigor del presente Decreto.
+
+Para efectos de lo anterior, la Comisión deberá llevar a cabo, en el transcurso de dicho plazo las acciones y previsiones que resulten necesarias para la instrumentación de dicho Registro Estatal.
+
+Designación de los representantes ante el Consejo Directivo
+
+Artículo Séptimo. Por única ocasión, el titular del Poder Ejecutivo realizará las acciones conducentes, a efecto de que en un plazo de 30 días contados a partir de la entrada en vigor de la presente Ley, esté instalado (sic) Consejo Directivo de la Comisión de Cultura Física y Deporte, conforme a la designación que se prevé en los artículos 60 y 62 del presente Decreto.
+
+Término para crear los organismos municipales
+
+Artículo Octavo. Los ayuntamientos que al uno de enero de dos mil once no cuenten con un organismo municipal, en el ámbito de sus respectivas competencias, tendrán un plazo de cuatro meses, para contar con dicho organismo municipal, en los términos de la presente Ley.
+
+Disposiciones para la Comisión
+
+Artículo Noveno. El Ejecutivo del Estado contará con un plazo de treinta días contados a partir de la entrada en vigor de la presente Ley, para implementar la Comisión Estatal de Cultura Física y Deporte.
+
+En tanto no se constituya el organismo mencionado, la Comisión Estatal del Deporte y Atención a la Juventud continuará ejerciendo las atribuciones que en materia de deporte le otorga la Ley que abroga el Artículo Segundo Transitorio del presente Decreto.
+
+Sustitución patronal, jurídica y de obligaciones
+
+Artículo Décimo. La Comisión, sustituirá en todas las obligaciones y derechos a la Comisión Estatal del Deporte y Atención a la Juventud.
+
+Las personas que a la entrada en vigor de la presente Ley presten un servicio personal subordinado a la Comisión Estatal del Deporte y Atención a la Juventud, en el área de deporte, pasarán a formar parte de la Comisión, de acuerdo a sus funciones y capacidad, y conservarán las remuneraciones, prestaciones y antigüedad de las cuales gozan a la entrada en vigor de la presente Ley.
+
+Cuando las leyes, reglamentos, decretos, acuerdos u otros ordenamientos jurídicos hagan referencia a la Comisión Estatal del Deporte y Atención a la Juventud, se entenderá hecha a la Comisión.
+
+Asignación de recursos a la Comisión
+
+Artículo Undécimo. La Secretaría de Finanzas y Administración definirá y aplicará los procedimientos y mecanismos necesarios para la asignación de recursos a la Comisión, conforme a sus atribuciones.
+
+Los recursos humanos, materiales y financieros de la Comisión Estatal del Deporte y Atención a la Juventud, se reasignarán a la Comisión, salvo aquéllos recursos que se destinaban a la operación y funcionamiento de su órgano desconcentrado.
