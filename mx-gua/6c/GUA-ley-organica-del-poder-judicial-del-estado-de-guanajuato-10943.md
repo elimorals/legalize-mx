@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-10943"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-04-01"
-last_updated: "2006-12-26"
+last_updated: "2010-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 1 de abril de 1997.
 
@@ -72,6 +72,10 @@ Los jueces para adolescentes ejercerán en la circunscripción territorial, deno
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 Los jueces de ejecución tendrán la competencia que la Ley de Justicia para Adolescentes del Estado de Guanajuato les confiera.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Los jueces de partido en materia penal designados para conocer de los delitos contra la salud en su modalidad de narcomenudeo, tendrán la competencia territorial que determine el Consejo del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -349,9 +353,9 @@ VIII.- Designar al jurado que en cooperación con instituciones públicas o priv
 
 IX.- Designar, de entre sus miembros, un representante para que integre el jurado en los concursos de oposición;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-X.- Determinar el número de orden y especialización por materia de los juzgados de partido y menores; así como el número de orden y circunscripción territorial de los juzgados para adolescentes y la distribución de los asuntos de que conocerán los jueces de ejecución;
+X.- Determinar el número de orden y especialización por materia de los juzgados de partido y menores; el número de orden y circunscripción territorial de los juzgados para adolescentes y la distribución de los asuntos de que conocerán los jueces de ejecución; así como el número de orden y circunscripción territorial de los juzgados de partido en su materia penal designados para conocer de los delitos contra la salud en su modalidad de narcomenudeo;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -1033,6 +1037,10 @@ En cada uno de los partidos judiciales, el Consejo del Poder Judicial establecer
 
 Cuando en un partido judicial exista más de un juzgado del mismo ramo, se designarán por orden numérico.
 
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+El Consejo del Pode Judicial fijará la circunscripción territorial correspondiente a los juzgados de partido en materia penal desginados para conocer de los delitos contra la salud en su modalidad de narcomenudeo; en caso de ser varios en un mismo lugar, se designarán por orden numérico.
+
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 El Consejo del Poder Judicial determinará la circunscripción territorial, denominada distrito, que corresponda a los juzgados para adolescentes y la distribución de los asuntos entre los jueces de ejecución y de impugnación; en caso de ser varios, se designarán por orden numérico.
@@ -1047,7 +1055,13 @@ II.- Juzgados penales; y
 
 III.- Juzgados mixtos.
 
-El Consejo del Poder Judicial, en razón de la carga de trabajo, podrá determinar que los juzgados civiles se avoquen a conocer exclusivamente de asuntos mercantiles o familiares.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+El Consejo del Poder Judicial podrá determinar que los juzgados civiles se avoquen a conocer exclusivamente de asuntos mercantiles o familiares.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+El Consejo del Poder Judicial podrá determinar que los juzgados penales conozcan de los delitos contra la salud en su modalidad de narcomenudeo.
 
 ###### Artículo 58.
 
@@ -2240,3 +2254,13 @@ Los magistrados que cumplan siete años y no sean reelectos, recibirán el total
 Los magistrados que por retiro forzoso se separen del cargo, por cumplir catorce años en el cargo, por cumplir setenta y cinco años de edad o por enfermedad o incapacidad física que le impida desempeñar el cargo, recibirán únicamente lo establecido en la fracción III del artículo 55 de la presente Ley.
 
 Los magistrados que reciban el haber de retiro en el supuesto de la fracción III del artículo 55 de esta Ley, aportarán mensualmente el ocho punto treinta y tres por ciento de la prestación económica a que se refiere dicha fracción al fondo del haber de retiro del Poder Judicial.
+
+P.O. 3 DE SEPTIEMBRE DE 2010.
+
+Artículo Primero. Este Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Las autoridades e instituciones del Estado, a más tardar el 21 de agosto del año 2012 deberán haber realizado las acciones necesarias a fin de dar el debido cumplimiento a las atribuciones contenidas en el presente Decreto.
+
+Artículo Tercero. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+Artículo Cuarto. A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
