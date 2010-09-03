@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidades-administrativas-de-los-servidores-4483
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-10"
-last_updated: "2005-09-15"
+last_updated: "2010-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
 
 Ley Publicada en el Periódico Oficial del Estado de Guanajuato, el martes 10 de mayo de 2005.
 
@@ -163,7 +163,9 @@ XX.- Abstenerse de nombrar o contratar personas inhabilitadas para ejercer un em
 
 XXI.- Resarcir los daños ocasionados a la hacienda pública, así como los derivados de responsabilidad patrimonial, y
 
-XXII.- Las demás que se deriven de ésta y otras leyes, reglamentos y demás disposiciones normativas.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XXII.- Las que se deriven de ésta y otras leyes, reglamentos y demás disposiciones normativas.
 
 ###### Artículo 12.
 
@@ -189,9 +191,15 @@ VI.- Realizar por sí o inducir a otro servidor público para que anticipe, retr
 
 VII.- Dirigir, administrar, asesorar, patrocinar, representar o prestar servicios remunerados a personas físicas o morales que gestionen o exploten contratos, convenios o concesiones con algunas de las autoridades señaladas en el artículo 3 de esta Ley, o que fueren proveedores o contratistas de las mismas, que implique intereses en conflicto;
 
-VIII.- Causar con su actuar daños a los particulares que se traduzcan en responsabilidad patrimonial en los términos de la Ley de Responsabilidad Patrimonial del Estado y los Municipios de Guanajuato, y
+VIII.- Causar con su actuar daños a los particulares que se traduzcan en responsabilidad patrimonial en los términos de la Ley de Responsabilidad Patrimonial del Estado y los Municipios de Guanajuato, y (sic)
 
-IX.- Las demás que se deriven de ésta y otras leyes, reglamentos y demás disposiciones normativas.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+IX.- Realizar cualquier conducta de coacción psicológica, física o verbal, que atente contra la integridad física o psicológica de una persona; y
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+X.- Las que se deriven de ésta y otras leyes, reglamentos y demás disposiciones normativas.
 
 ### CAPÍTULO II. DE LAS SANCIONES POR RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -271,7 +279,9 @@ I. Amonestación en los casos de las fracciones I, IV, VII, IX, X, XII, XIV, XVI
 
 II. Suspensión de tres días a seis meses en los casos de las fracciones II, III, V, VI, VIII, XI, XIII, XV, XVII, XIX y XX del artículo 11 y de las fracciones III, IV, el segundo supuesto de la fracción V, VII y VIII del artículo 12 de esta Ley, y
 
-III. Destitución e inhabilitación de tres días a seis meses, tratándose de la fracción XXI del artículo 11 y de las fracciones I, II y VI del artículo 12 de esta Ley.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+III. Destitución e inhabilitación de tres días a seis meses, tratándose de la fracción XXI del artículo 11 y de las fracciones I, II, VI y IX del artículo 12 de esta Ley.
 
 ###### Artículo 23.
 
@@ -281,7 +291,9 @@ La sanción consistente en la inhabilitación se aplicará por el incumplimiento
 
 I.- De seis meses a un año tratándose de las fracciones I, IV, VII, IX, X, XII, XIV, XVI y XVIII del artículo 11 y del primer supuesto de la fracción V del artículo 12 de esta Ley;
 
-II.- De uno a dos años a quien, sin que hubiere obtenido un beneficio económico o no hubiere ocasionado daño o perjuicio patrimonial a las autoridades señaladas en el artículo 3 de esta Ley, o habiéndose ocasionado no fueren cuantificables, en los casos de las fracciones II, III, V, VI, VIII, XI, XIII, XV, XVII, XIX y XX del artículo 11 y de las fracciones III, IV, el segundo supuesto de la fracción V, VII y VIII del artículo 12 de esta Ley, y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+II.- De uno a dos años a quien, sin que hubiere obtenido un beneficio económico o no hubiere ocasionado daño o perjuicio patrimonial a las autoridades señaladas en el artículo 3 de esta Ley, o habiéndose ocasionado no fueren cuantificables, en los casos de las fracciones II, III, V, VI, VIII, XI, XIII, XV, XVII, XIX y XX del artículo 11 y de las fracciones III, IV, el segundo supuesto de la fracción V, VII, VIII y IX del artículo 12 de esta Ley; y
 
 III.- De tres a cinco años tratándose de lo previsto en la fracción XXI del artículo 11 y en las fracciones I, II y VI del artículo 12 de esta Ley o hubiere cometido alguna de las conductas consideradas como graves en los términos del artículo 21.
 
@@ -329,7 +341,9 @@ I. En un año, tratándose de las fracciones I, IV, VII, IX, X, XII, XIV, XVI y 
 
 II. En dos años, tratándose de las fracciones II, III, V, VI, VIII, XI, XIII, XV, XVII, XIX y XX del artículo 11 y de las fracciones III, IV, el segundo supuesto de la fracción V, VII y VIII del artículo 12 de esta Ley, y
 
-III. En tres años, tratándose de la fracción XXI del artículo 11 y de las fracciones I, II y VI del artículo 12 de esta Ley, así como aquéllas que sean consideradas como graves en los términos del artículo 21.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+III. En tres años, tratándose de la fracción XXI del artículo 11 y de las fracciones I, II, VI y IX del artículo 12 de esta Ley, así como aquéllas que sean consideradas como graves en los términos del artículo 21.
 
 ###### Artículo 28.
 
@@ -702,3 +716,7 @@ P.O. 15 DE SEPTIEMBRE DE 2005.
 Artículo Primero.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.-Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2010.
+
+Artículo Único. El presente Decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
